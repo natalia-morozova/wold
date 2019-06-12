@@ -1,0 +1,1474 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	15-1-1-1	7591835918096643	Bezhta	bezh1248	the world	WORLD	965		dunnal	dunnal 
+2	15-1-21-1	7591835758838929	Bezhta	bezh1248	the land	LAND	626		raƛ’	raƛ’ 
+3	15-1-21-2	7591835674925352	Bezhta	bezh1248	the land	LAND	626		ulka	ulka 
+4	15-1-212-1	7591835812730684	Bezhta	bezh1248	the soil	EARTH (SOIL)	1228		mizo	mizo 
+5	15-1-212-2	7591835331257894	Bezhta	bezh1248	the soil	EARTH (SOIL)	1228		mäče	mäče 
+6	15-1-213-1	7591835466477468	Bezhta	bezh1248	the dust	DUST	2		pax	pax 
+7	15-1-213-2	91281518386136654	Bezhta	bezh1248	the dust	DUST	2		got’	got’ 
+8	15-1-214-1	7591835432133807	Bezhta	bezh1248	the mud	MUD	640		tato	tato 
+9	15-1-215-1	7591835599827837	Bezhta	bezh1248	the sand	SAND	671		miso	miso 
+10	15-1-22-1	7591835972347805	Bezhta	bezh1248	the mountain or hill	MOUNTAIN OR HILL	2118		mǟ	mǟ 
+11	15-1-22-2	91281519893137967	Bezhta	bezh1248	the mountain or hill	MOUNTAIN OR HILL	2118		bizo	bizo 
+12	15-1-222-1	7591835207246393	Bezhta	bezh1248	the cliff or precipice	PRECIPICE	618		šed	šed 
+13	15-1-23-1	7591835801325939	Bezhta	bezh1248	the plain	PLAIN	652		ät’iraƛ’	ät’iraƛ’ 
+14	15-1-23-2	91281519586427543	Bezhta	bezh1248	the plain	PLAIN	652		ät’iɬi	ät’iɬi 
+15	15-1-23-3	91281521497001922	Bezhta	bezh1248	the plain	PLAIN	652		ɬäräʔɬi	ɬäräʔɬi 
+16	15-1-24-1	7591835616519671	Bezhta	bezh1248	the valley	VALLEY	921		maydan	maydan 
+17	15-1-24-2	91281523882824897	Bezhta	bezh1248	the valley	VALLEY	921		ko	ko 
+18	15-1-25-1	7591835165899934	Bezhta	bezh1248	the island	ISLAND	622		č’ink’ilɬi	č’ink’ilɬi 
+19	15-1-26-1	7591835167630671	Bezhta	bezh1248	the mainland	MAINLAND	166		kantinent	kantinent 
+20	15-1-27-1	7591835357187762	Bezhta	bezh1248	the shore	SHORE	113		räʔäl	räʔäl 
+21	15-1-27-2	91281524143131455	Bezhta	bezh1248	the shore	SHORE	113		cumri	cumri 
+22	15-1-28-1	7591835319645743	Bezhta	bezh1248	the cave	CAVE	1155		onox	onox 
+23	15-1-31-1	7591835929887547	Bezhta	bezh1248	the water	WATER	948		ɬi	ɬi 
+24	15-1-32-1	7591835986821238	Bezhta	bezh1248	the sea	SEA	1474		raɬad	raɬad 
+25	15-1-322-1	7591835914121461	Bezhta	bezh1248	calm	CALM	258		soyyā gäččo	soyyā gäččo 
+26	15-1-323-1	7591835264800584	Bezhta	bezh1248	rough(2)	ROUGH (OF SEA)	259		halagab	halagab 
+27	15-1-324-1	759183520098168	Bezhta	bezh1248	the foam	FOAM	1768		pöp	pöp 
+28	15-1-329-1	7591835487987709	Bezhta	bezh1248	the ocean	OCEAN	645		akean	akean 
+29	15-1-33-1	7591835757431703	Bezhta	bezh1248	the lake	LAKE	624		k’ā	k’ā 
+30	15-1-35-1	7591835623834954	Bezhta	bezh1248	the wave	WAVE	978		soyya	soyya 
+31	15-1-36-1	7591835762063009	Bezhta	bezh1248	the river or stream	RIVER	666		ẽxe	ẽxe 
+32	15-1-36-2	9128177932185569	Bezhta	bezh1248	the river or stream	RIVER	666		xay	xay 
+33	15-1-362-1	7591835129620242	Bezhta	bezh1248	the whirlpool	WHIRLPOOL	1982		ẽxe k’äyƛöčäš mäče	ẽxe k’äyƛöčäš mäče 
+34	15-1-37-1	7591835359033168	Bezhta	bezh1248	the spring or well	SPRING OR WELL	2144		moh	moh 
+35	15-1-38-1	7591835364800318	Bezhta	bezh1248	the swamp	SWAMP	1145		q’ica	q’ica 
+36	15-1-39-1	7591835319944349	Bezhta	bezh1248	the waterfall	WATERFALL	943		ƛišiyo	ƛišiyo 
+37	15-1-41-1	7591835538655128	Bezhta	bezh1248	the woods or forest	FOREST	420		wan	wan 
+38	15-1-43-1	7591835564419453	Bezhta	bezh1248	the wood	WOOD	1803		häžä	häžä 
+39	15-1-44-1	7591835972319311	Bezhta	bezh1248	the stone or rock	STONE OR ROCK	2125		ƛ’alo	ƛ’alo 
+40	15-1-45-1	75918353391980	Bezhta	bezh1248	the earthquake	EARTHQUAKE	6		mäče laxƛōɬi	mäče laxƛōɬi 
+41	15-1-51-1	7591835597889770	Bezhta	bezh1248	the sky	SKY	1732		has	has 
+42	15-1-52-1	7591835431810219	Bezhta	bezh1248	the sun	SUN	1343		boq	boq 
+43	15-1-53-1	7591835866613893	Bezhta	bezh1248	the moon	MOON	1313		boco	boco 
+44	15-1-54-1	7591835354230037	Bezhta	bezh1248	the star	STAR	1430		cã (1)	cã (1) 
+45	15-1-55-1	7591835767889678	Bezhta	bezh1248	the lightning	LIGHTNING	1654		kayƛoyo	kayƛoyo 
+46	15-1-56-1	7591835371786884	Bezhta	bezh1248	the thunder	THUNDER	1150		hasa qäƛeyoɬi	hasa qäƛeyoɬi 
+47	15-1-57-1	7591835767889678	Bezhta	bezh1248	the bolt of lightning	BOLT (OF LIGHTNING)	2007		kayƛoyo	kayƛoyo 
+48	15-1-58-1	7591835372864217	Bezhta	bezh1248	the storm	STORM	858		yuk’o zaƛo	yuk’o zaƛo 
+49	15-1-59-1	7591835267122986	Bezhta	bezh1248	the rainbow	RAINBOW	1733		mašola	mašola 
+50	15-1-61-1	7591835692295944	Bezhta	bezh1248	the light	LIGHT (RADIATION)	630		kanɬi	kanɬi 
+51	15-1-62-1	7591835346465876	Bezhta	bezh1248	the darkness	DARKNESS	11		koƛƛoɬi	koƛƛoɬi 
+52	15-1-63-1	7591835962780850	Bezhta	bezh1248	the shade or shadow	SHADE	1388		hidoci	hidoci 
+53	15-1-64-1	7591835610111411	Bezhta	bezh1248	the dew	DEW	1977		xida	xida 
+54	15-1-71-1	7591835665828554	Bezhta	bezh1248	the air	AIR	27		hawa	hawa 
+55	15-1-71-2	9128178147966728	Bezhta	bezh1248	the air	AIR	27		hayri	hayri 
+56	15-1-72-1	7591835372131654	Bezhta	bezh1248	the wind	WIND	960		zaƛo	zaƛo 
+57	15-1-73-1	7591835597889770	Bezhta	bezh1248	the cloud	CLOUD	1489		has	has 
+58	15-1-74-1	7591835629084924	Bezhta	bezh1248	the fog	FOG	249		has-mus	has-mus 
+59	15-1-75-1	7591835190890993	Bezhta	bezh1248	the rain	RAIN (PRECIPITATION)	658		wodo	wodo 
+60	15-1-76-1	7591835898050285	Bezhta	bezh1248	the snow	SNOW	784		õz	õz 
+61	15-1-77-1	759183544938828	Bezhta	bezh1248	the ice	ICE	617		bolo	bolo 
+62	15-1-78-1	7591835875909416	Bezhta	bezh1248	the weather	WEATHER	952		wodo-boq	wodo-boq 
+63	15-1-78-2	9128179287555478	Bezhta	bezh1248	the weather	WEATHER	952		hawa-baq	hawa-baq 
+64	15-1-81-1	7591835127628738	Bezhta	bezh1248	the fire	FIRE	221		c’o	c’o 
+65	15-1-82-1	7591835436136170	Bezhta	bezh1248	the flame	FLAME	889		c’oys mic	c’oys mic 
+66	15-1-83-1	7591835617543071	Bezhta	bezh1248	the smoke	SMOKE (EXHAUST)	778		qo	qo 
+67	15-1-83-2	91281518386136654	Bezhta	bezh1248	the smoke	SMOKE (EXHAUST)	778		got’	got’ 
+68	15-1-84-1	759183533679958	Bezhta	bezh1248	the ash	ASH	646		tit	tit 
+69	15-1-841-1	7591835929362541	Bezhta	bezh1248	the embers	EMBERS	67		ɣadri	ɣadri 
+70	15-1-851-1	7591835427216276	Bezhta	bezh1248	to burn(1)	BURN (SOMETHING)	141		-ek’el-	-ek’el- 
+71	15-1-852-1	759183569608141	Bezhta	bezh1248	to burn(2)	BURNING	1428		-ek’e-	-ek’e- 
+72	15-1-86-1	759183514771990	Bezhta	bezh1248	to light	LIGHT (IGNITE)	737		ɬišel- (1)	ɬišel- (1) 
+73	15-1-861-1	7591835580178013	Bezhta	bezh1248	to extinguish	EXTINGUISH	127		-edl-	-edl- 
+74	15-1-87-1	7591835275462703	Bezhta	bezh1248	the match	MATCH	1133		picka	picka 
+75	15-1-88-1	7591835346528985	Bezhta	bezh1248	the firewood	FIREWOOD	10		hudo	hudo 
+76	15-1-89-1	7591835121484802	Bezhta	bezh1248	the charcoal	CHARCOAL	1188		hǟmö	hǟmö 
+77	15-2-1-1	7591835956447283	Bezhta	bezh1248	the person	PERSON	683		suk’o	suk’o 
+78	15-2-1-2	91281712131605260	Bezhta	bezh1248	the person	PERSON	683		ädäm	ädäm 
+79	15-2-1-3	91281713845387503	Bezhta	bezh1248	the person	PERSON	683		insan	insan 
+80	15-2-21-1	7591835838669581	Bezhta	bezh1248	the man	MAN	1554		abo	abo 
+81	15-2-21-2	7591835956447283	Bezhta	bezh1248	the man	MAN	1554		suk’o	suk’o 
+82	15-2-22-1	7591835303404958	Bezhta	bezh1248	the woman	WOMAN	962		iyo	iyo 
+83	15-2-22-2	7591835641847848	Bezhta	bezh1248	the woman	WOMAN	962		aqo	aqo 
+84	15-2-23-1	7591835836956857	Bezhta	bezh1248	male(1)	MALE (OF ANIMAL)	2263		aboddās	aboddās 
+85	15-2-23-2	9128171690035457	Bezhta	bezh1248	male(1)	MALE (OF ANIMAL)	2263		bikinab	bikinab 
+86	15-2-24-1	7591835379753810	Bezhta	bezh1248	female(1)	FEMALE (OF PERSON)	2260		iyoddās	iyoddās 
+87	15-2-24-2	91281717179906213	Bezhta	bezh1248	female(1)	FEMALE (OF PERSON)	2260		c’uyab	c’uyab 
+88	15-2-25-1	7591835978042890	Bezhta	bezh1248	the boy	BOY	1366		öžö	öžö 
+89	15-2-251-1	7591835625308274	Bezhta	bezh1248	the young man	YOUNG MAN	76		ölöqän	ölöqän 
+90	15-2-26-1	7591835173666977	Bezhta	bezh1248	the girl	GIRL	1646		kid	kid 
+91	15-2-261-1	7591835173666977	Bezhta	bezh1248	the young woman	YOUNG WOMAN	77		kid	kid 
+92	15-2-261-2	91281720601869828	Bezhta	bezh1248	the young woman	YOUNG WOMAN	77		aqo-qowa	aqo-qowa 
+93	15-2-27-1	7591835251246320	Bezhta	bezh1248	the child(1)	CHILD (YOUNG HUMAN)	1304		q’owa	q’owa 
+94	15-2-31-1	759183578296453	Bezhta	bezh1248	the husband	HUSBAND	1200		bet’erhan	bet’erhan 
+95	15-2-31-2	91281721545853095	Bezhta	bezh1248	the husband	HUSBAND	1200		nuzo	nuzo 
+96	15-2-32-1	7591835641847848	Bezhta	bezh1248	the wife	WIFE	1199		aqo	aqo 
+97	15-2-33-1	7591835404810136	Bezhta	bezh1248	to marry	MARRY	203		aq’o y-ẽƛe-	aq’o y-ẽƛe- 
+98	15-2-34-1	7591835694868014	Bezhta	bezh1248	the wedding	WEDDING	1259		beyten	beyten 
+99	15-2-341-1	759183544426468	Bezhta	bezh1248	the divorce	DIVORCE	1134		atabākiyoɬi	atabākiyoɬi 
+100	15-2-341-2	91281718977776559	Bezhta	bezh1248	the divorce	DIVORCE	1134		mahar kešeyoɬi	mahar kešeyoɬi 
+101	15-2-35-1	7591835838669581	Bezhta	bezh1248	the father	FATHER	1217		abo	abo 
+102	15-2-36-1	7591835303404958	Bezhta	bezh1248	the mother	MOTHER	1216		iyo	iyo 
+103	15-2-37-1	7591835136159844	Bezhta	bezh1248	the parents	PARENTS	505		iyo-abo	iyo-abo 
+104	15-2-38-1	7591835852761524	Bezhta	bezh1248	the married man	MARRIED MAN	424		aqo y-õq’o-yo	aqo y-õq’o-yo 
+105	15-2-39-1	7591835122343538	Bezhta	bezh1248	the married woman	MARRIED WOMAN	426		aqo y-ẽƛe-yo	aqo y-ẽƛe-yo 
+106	15-2-41-1	7591835978042890	Bezhta	bezh1248	the son	SON	1620		öžö	öžö 
+107	15-2-42-1	7591835173666977	Bezhta	bezh1248	the daughter	DAUGHTER	1357		kid	kid 
+108	15-3-662-1	7591835950887985	Bezhta	bezh1248	the porpoise or dolphin	DOLPHIN	1479		delfin	delfin 
+109	15-2-43-1	7591835251246320	Bezhta	bezh1248	the child(2)	CHILD (DESCENDANT)	1801		q’owa	q’owa 
+110	15-2-44-1	7591835404643565	Bezhta	bezh1248	the brother	BROTHER	1262		is	is 
+111	15-2-444-1	7591835898062472	Bezhta	bezh1248	the older brother	OLDER BROTHER	1759		uq’o is	uq’o is 
+112	15-2-445-1	7591835301513897	Bezhta	bezh1248	the younger brother	YOUNGER BROTHER	1760		it’ino is	it’ino is 
+113	15-2-45-1	7591835737350995	Bezhta	bezh1248	the sister	SISTER	1263		isi	isi 
+114	15-2-454-1	759183513818310	Bezhta	bezh1248	the older sister	OLDER SISTER	1758		yuq’o isi	yuq’o isi 
+115	15-2-455-1	7591835332613858	Bezhta	bezh1248	the younger sister	YOUNGER SISTER	1761		it’ino isi	it’ino isi 
+116	15-2-458-1	7591835804828896	Bezhta	bezh1248	the twins	TWINS	1005		q’unƛella	q’unƛella 
+117	15-2-461-1	7591835920058757	Bezhta	bezh1248	the old man	OLD MAN	406		icilo	icilo 
+118	15-2-471-1	7591835787073121	Bezhta	bezh1248	the old woman	OLD WOMAN	907		icilo iyo	icilo iyo 
+119	15-2-51-1	7591835404643565	Bezhta	bezh1248	the uncle	UNCLE	1327		is	is 
+120	15-2-52-1	7591835737350995	Bezhta	bezh1248	the aunt	AUNT	1272		isi	isi 
+121	15-2-55-1	7591835411623514	Bezhta	bezh1248	the cousin	COUSIN	1643		waccal	waccal 
+122	15-2-55-2	91281722955102213	Bezhta	bezh1248	the cousin	COUSIN	1643		yaccal	yaccal 
+123	15-2-56-1	7591835656281686	Bezhta	bezh1248	the ancestors	ANCESTORS	1669		umumal	umumal 
+124	15-2-57-1	7591835163425433	Bezhta	bezh1248	the descendants	DESCENDANTS	490		naslo	naslo 
+125	15-2-61-1	75918353513747	Bezhta	bezh1248	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		uq’o abo	uq’o abo 
+126	15-2-611-1	75918353513747	Bezhta	bezh1248	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		uq’o abo	uq’o abo 
+127	15-2-62-1	7591835456656830	Bezhta	bezh1248	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		y-uq’o iyo	y-uq’o iyo 
+128	15-2-621-1	7591835590628450	Bezhta	bezh1248	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		yuq’o iyo	yuq’o iyo 
+129	15-2-63-1	7591835622949152	Bezhta	bezh1248	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		dursa	dursa 
+130	15-2-631-1	7591835622949152	Bezhta	bezh1248	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		dursa	dursa 
+131	15-2-71-1	7591835380031605	Bezhta	bezh1248	the stepfather	STEPFATHER	237		besdal abo	besdal abo 
+132	15-2-72-1	7591835279902819	Bezhta	bezh1248	the stepmother	STEPMOTHER	236		besdal iyo	besdal iyo 
+133	15-2-73-1	7591835684722266	Bezhta	bezh1248	the stepson	STEPSON	1059		besdal öžö	besdal öžö 
+134	15-2-74-1	7591835628076781	Bezhta	bezh1248	the stepdaughter	STEPDAUGHTER	1058		besdal kid	besdal kid 
+135	15-2-75-1	7591835814556990	Bezhta	bezh1248	the orphan	ORPHAN	1149		besdal	besdal 
+136	15-2-76-1	7591835334317410	Bezhta	bezh1248	the widow	WIDOW	1756		qorolay	qorolay 
+137	15-2-77-1	7591835139882500	Bezhta	bezh1248	the widower	WIDOWER	1981		q’orolaw	q’orolaw 
+138	15-2-81-1	7591835465547649	Bezhta	bezh1248	the relatives	RELATIVES	1644		ägärɬi	ägärɬi 
+139	15-2-82-1	7591835490655422	Bezhta	bezh1248	the family	FAMILY	194		qizan	qizan 
+140	15-2-91-1	7591835613339413	Bezhta	bezh1248	I	I	1209		do	do 
+141	15-2-92-1	759183597193541	Bezhta	bezh1248	you (singular)	THOU	1215		mi	mi 
+142	15-2-94-1	7591835721067489	Bezhta	bezh1248	we	WE	1212		ile	ile 
+143	15-2-95-1	7591835938236445	Bezhta	bezh1248	you (plural)	YOU	1213		miže	miže 
+144	15-3-11-1	7591835376911873	Bezhta	bezh1248	the animal	ANIMAL	619		häymän	häymän 
+145	15-3-12-1	7591835836956857	Bezhta	bezh1248	male(2)	MALE (OF PERSON)	2261		aboddās	aboddās 
+146	15-3-12-2	9128171690035457	Bezhta	bezh1248	male(2)	MALE (OF PERSON)	2261		bikinab	bikinab 
+147	15-3-13-1	7591835379753810	Bezhta	bezh1248	female(2)	FEMALE (OF ANIMAL)	2262		iyoddās	iyoddās 
+148	15-3-13-2	91281717179906213	Bezhta	bezh1248	female(2)	FEMALE (OF ANIMAL)	2262		c’uyab	c’uyab 
+149	15-3-15-1	759183526677906	Bezhta	bezh1248	the livestock	LIVESTOCK	631		häymän-boc’i	häymän-boc’i 
+150	15-3-15-2	91281726111825751	Bezhta	bezh1248	the livestock	LIVESTOCK	631		sakoneli	sakoneli 
+151	15-3-16-1	7591835803882337	Bezhta	bezh1248	the pasture	PASTURE	649		hixo	hixo 
+152	15-3-18-1	7591835882307321	Bezhta	bezh1248	the herdsman	HERDSMAN	263		weka	weka 
+153	15-3-2-1	7591835376911873	Bezhta	bezh1248	the cattle	CATTLE	1153		häymän	häymän 
+154	15-3-21-1	7591835448874930	Bezhta	bezh1248	the bull	BULL	1008		õs	õs 
+155	15-3-23-1	759183591424969	Bezhta	bezh1248	the cow	COW	1007		waya	waya 
+156	15-3-24-1	7591835553812660	Bezhta	bezh1248	the calf	CALF	1989		biše	biše 
+157	15-3-25-1	7591835251780214	Bezhta	bezh1248	the sheep	SHEEP	1331		biƛ’	biƛ’ 
+158	15-3-26-1	7591835440185202	Bezhta	bezh1248	the ram	RAM	1344		xoy	xoy 
+159	15-3-29-1	7591835246134243	Bezhta	bezh1248	the lamb	LAMB	820		ƛile	ƛile 
+160	15-3-32-1	7591835892507059	Bezhta	bezh1248	the boar	BOAR	1348		t’axe	t’axe 
+161	15-3-35-1	7591835516507474	Bezhta	bezh1248	the pig	PIG	1337		buƛo	buƛo 
+162	15-3-36-1	7591835643257285	Bezhta	bezh1248	the goat	GOAT	1502		can	can 
+163	15-3-37-1	7591835224383666	Bezhta	bezh1248	the he-goat	HE-GOAT	264		t’iga	t’iga 
+164	15-3-38-1	7591835627084831	Bezhta	bezh1248	the kid	KID	1972		čik’e	čik’e 
+165	15-3-41-1	7591835512480761	Bezhta	bezh1248	the horse	HORSE	615		šügö	šügö 
+166	15-3-42-1	7591835623834954	Bezhta	bezh1248	the stallion	STALLION	936		soyya	soyya 
+167	15-3-45-1	7591835163783008	Bezhta	bezh1248	the foal or colt	FOAL	1647		ič’ey	ič’ey 
+168	15-3-46-1	759183550482359	Bezhta	bezh1248	the donkey	DONKEY	1862		ʔãʔũ	ʔãʔũ 
+169	15-3-47-1	7591835148908343	Bezhta	bezh1248	the mule	MULE	890		xoyc’on	xoyc’on 
+170	15-3-5-1	7591835107077351	Bezhta	bezh1248	the fowl	FOWL	265		güdä-gedo	güdä-gedo 
+171	15-3-52-1	7591835690185414	Bezhta	bezh1248	the cock/rooster	ROOSTER	1511		mamali	mamali 
+172	15-3-54-1	7591835675217894	Bezhta	bezh1248	the hen	HEN	1514		güdä	güdä 
+173	15-3-56-1	7591835574385365	Bezhta	bezh1248	the goose	GOOSE	1187		bat’i	bat’i 
+174	15-3-57-1	7591835948027717	Bezhta	bezh1248	the duck	DUCK	1360		ixu	ixu 
+175	15-3-58-1	7591835551174353	Bezhta	bezh1248	the nest	NEST	539		sĩ (1)	sĩ (1) 
+176	15-3-581-1	7591835857766297	Bezhta	bezh1248	the bird	BIRD	937		mihna	mihna 
+177	15-3-582-1	7591835522376545	Bezhta	bezh1248	the seagull	SEAGULL	950		čayka	čayka 
+178	15-3-584-1	7591835976059429	Bezhta	bezh1248	the eagle	EAGLE	1905		cũha	cũha 
+179	15-3-585-1	7591835963573979	Bezhta	bezh1248	the hawk	HAWK	307		koydak’o	koydak’o 
+180	15-3-586-1	7591835636478368	Bezhta	bezh1248	the vulture	VULTURE	1185		q’orgiyan	q’orgiyan 
+181	15-3-591-1	7591835198535864	Bezhta	bezh1248	the bat	BAT	1793		kündäy	kündäy 
+182	15-3-592-1	7591835588824647	Bezhta	bezh1248	the parrot	PARROT	882		papugay	papugay 
+183	15-3-593-1	759183542564554	Bezhta	bezh1248	the crow	CROW	913		ɣade	ɣade 
+184	15-3-594-1	7591835938991049	Bezhta	bezh1248	the dove	DOVE	1853		ilba	ilba 
+185	15-3-596-1	7591835878892641	Bezhta	bezh1248	the owl	OWL	735		ruz	ruz 
+186	15-3-61-1	7591835582474054	Bezhta	bezh1248	the dog	DOG	2009		wo	wo 
+187	15-3-614-1	7591835264837319	Bezhta	bezh1248	the rabbit	RABBIT	1136		korolik	korolik 
+188	15-3-62-1	7591835734694708	Bezhta	bezh1248	the cat	CAT	1208		gedo	gedo 
+189	15-3-63-1	7591835991078321	Bezhta	bezh1248	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ãq’o	ãq’o 
+190	15-3-65-1	7591835771280120	Bezhta	bezh1248	the fish	FISH	227		bisa	bisa 
+191	15-3-653-1	7591835122834559	Bezhta	bezh1248	the scale	SCALE	266		qal	qal 
+192	15-3-661-1	7591835157508946	Bezhta	bezh1248	the shark	SHARK	1110		akula	akula 
+193	15-3-663-1	7591835547369149	Bezhta	bezh1248	the whale	WHALE	957		kit	kit 
+194	15-3-71-1	7591835529264637	Bezhta	bezh1248	the wolf	WOLF	522		bac’o (1)	bac’o (1) 
+195	15-3-72-1	7591835519587254	Bezhta	bezh1248	the lion	LION	1386		ɣalbac’	ɣalbac’ 
+196	15-3-73-1	7591835950367907	Bezhta	bezh1248	the bear	BEAR	1820		sĩ (2)	sĩ (2) 
+197	15-3-74-1	7591835372696694	Bezhta	bezh1248	the fox	FOX	1312		sora	sora 
+198	15-3-75-1	7591835641779052	Bezhta	bezh1248	the deer	DEER	1936		biɬo	biɬo 
+199	15-3-76-1	7591835747528676	Bezhta	bezh1248	the monkey	MONKEY	1350		maymalak	maymalak 
+200	15-3-77-1	7591835479666234	Bezhta	bezh1248	the elephant	ELEPHANT	1290		pil	pil 
+201	15-3-78-1	7591835673221393	Bezhta	bezh1248	the camel	CAMEL	1871		aklamo	aklamo 
+202	15-3-78-2	91281728101965223	Bezhta	bezh1248	the camel	CAMEL	1871		warani	warani 
+203	15-3-81-1	7591835973084398	Bezhta	bezh1248	the insect	INSECT	620		hüt’-qumur	hüt’-qumur 
+204	15-3-811-1	7591835578661802	Bezhta	bezh1248	the head louse	HEAD LOUSE	310		naco	naco 
+205	15-3-812-1	7591835415573998	Bezhta	bezh1248	the nit	NIT	267		c’ima	c’ima 
+206	15-3-813-1	759183546365903	Bezhta	bezh1248	the flea	FLEA	232		č’ike	č’ike 
+207	15-3-814-1	7591835880883246	Bezhta	bezh1248	the centipede	CENTIPEDE	1974		sorabet’e	sorabet’e 
+208	15-3-815-1	7591835469680667	Bezhta	bezh1248	the scorpion	SCORPION	1538		äq’äräb	äq’äräb 
+209	15-3-816-1	7591835675279639	Bezhta	bezh1248	the cockroach	COCKROACH	1575		tarakan	tarakan 
+210	15-3-817-1	7591835405978046	Bezhta	bezh1248	the ant	ANT	587		hũca	hũca 
+211	15-3-818-1	759183545103654	Bezhta	bezh1248	the spider	SPIDER	843		kalaɣas q’ī	kalaɣas q’ī 
+212	15-3-819-1	7591835463121456	Bezhta	bezh1248	the spider web	SPIDER WEB	1065		q’imaq’o	q’imaq’o 
+213	15-3-82-1	7591835715182777	Bezhta	bezh1248	the bee	BEE	665		nucodaq t’ot’	nucodaq t’ot’ 
+214	15-3-822-1	7591835393640289	Bezhta	bezh1248	the beehive	BEEHIVE	88		xȫᵑ	xȫᵑ 
+215	15-3-823-1	7591835828476505	Bezhta	bezh1248	the wasp	WASP	1517		ƛordena	ƛordena 
+216	15-3-83-1	7591835497681368	Bezhta	bezh1248	the fly	FLY (INSECT)	1504		t’ot’	t’ot’ 
+217	15-3-831-1	7591835233703125	Bezhta	bezh1248	the sandfly or midge or gnat	SANDFLY	95		c’ūᵑ	c’ūᵑ 
+218	15-3-832-1	759183598499209	Bezhta	bezh1248	the mosquito	MOSQUITO	1509		kälä	kälä 
+219	15-3-84-1	7591835604984152	Bezhta	bezh1248	the worm	WORM	1219		bet’ela	bet’ela 
+220	15-3-85-1	7591835628881116	Bezhta	bezh1248	the snake	SNAKE	730		bekela	bekela 
+221	15-3-91-1	7591835141141729	Bezhta	bezh1248	the firefly	FIREFLY	206		c’ac’aka	c’ac’aka 
+222	15-3-92-1	7591835613809326	Bezhta	bezh1248	the butterfly	BUTTERFLY	1791		päpät’ö	päpät’ö 
+223	15-3-93-1	7591835935623926	Bezhta	bezh1248	the grasshopper	GRASSHOPPER	607		xac’o	xac’o 
+224	15-3-94-1	7591835399428980	Bezhta	bezh1248	the snail	SNAIL	1543		böƛöqä	böƛöqä 
+225	15-3-95-1	7591835470445012	Bezhta	bezh1248	the frog	FROG	503		ƛaplaɣe	ƛaplaɣe 
+226	15-3-96-1	7591835346993884	Bezhta	bezh1248	the lizard	LIZARD	632		k’emusa	k’emusa 
+227	15-3-97-1	7591835155242865	Bezhta	bezh1248	the crocodile or alligator	CROCODILE	1857		karakadil	karakadil 
+228	15-3-98-1	7591835442735361	Bezhta	bezh1248	the turtle	TURTLE	112		ƛ’alis ƛaplaɣe	ƛ’alis ƛaplaɣe 
+229	15-4-11-1	7591835884499867	Bezhta	bezh1248	the body	BODY	1480		q’arq’ala	q’arq’ala 
+230	15-4-11-2	91281730379833841	Bezhta	bezh1248	the body	BODY	1480		laga	laga 
+231	15-4-12-1	7591835106450918	Bezhta	bezh1248	the skin or hide	SKIN	763		beš	beš 
+232	15-4-13-1	7591835248359664	Bezhta	bezh1248	the flesh	FLESH	2259		maɣo	maɣo 
+233	15-4-14-1	7591835655542007	Bezhta	bezh1248	the hair	HAIR (HEAD)	2648		müč’	müč’ 
+234	15-4-14-2	7591835210850097	Bezhta	bezh1248	the hair	HAIR (HEAD)	2648		kẽyã	kẽyã 
+235	15-4-142-1	7591835996216722	Bezhta	bezh1248	the beard	BEARD	678		bab	bab 
+236	15-4-144-1	7591835210850097	Bezhta	bezh1248	the body hair	HAIR (BODY)	189		kẽyã	kẽyã 
+237	15-4-145-1	7591835222876136	Bezhta	bezh1248	the pubic hair	PUBIC HAIR	36		peh	peh 
+238	15-4-146-1	7591835960628450	Bezhta	bezh1248	the dandruff	DANDRUFF	576		ɣiz	ɣiz 
+239	15-4-15-1	7591835628577553	Bezhta	bezh1248	the blood	BLOOD	946		hẽ	hẽ 
+240	15-4-151-1	7591835769170830	Bezhta	bezh1248	the vein or artery	BLOOD VESSEL	525		pi	pi 
+241	15-4-16-1	7591835859341368	Bezhta	bezh1248	the bone	BONE	1394		ƛöᵑwä	ƛöᵑwä 
+242	15-4-162-1	759183544042598	Bezhta	bezh1248	the rib	RIB	801		šeblo	šeblo 
+243	15-4-17-1	7591835624754957	Bezhta	bezh1248	the horn	HORN (ANATOMY)	1393		šelo	šelo 
+244	15-4-18-1	7591835168859080	Bezhta	bezh1248	the tail	TAIL	1220		miɣ	miɣ 
+245	15-4-19-1	7591835275339795	Bezhta	bezh1248	the back	BACK	1291		miqā	miqā 
+246	15-4-191-1	7591835109902513	Bezhta	bezh1248	the spine	SPINE	805		k’ado-miqā	k’ado-miqā 
+247	15-4-2-1	7591835786993172	Bezhta	bezh1248	the head	HEAD	1256		q’ǟm	q’ǟm 
+248	15-4-202-1	7591835467782926	Bezhta	bezh1248	the skull	SKULL	1605		k’oco	k’oco 
+249	15-4-203-1	7591835342343777	Bezhta	bezh1248	the brain	BRAIN	1583		äᵑdä	äᵑdä 
+250	15-4-204-1	7591835124753950	Bezhta	bezh1248	the face	FACE	1560		mot’o	mot’o 
+251	15-4-205-1	7591835983162036	Bezhta	bezh1248	the forehead	FOREHEAD	123		mat’a	mat’a 
+252	15-4-207-1	7591835324476301	Bezhta	bezh1248	the jaw	JAW	798		ƛ’aqa	ƛ’aqa 
+253	15-4-208-1	7591835977928759	Bezhta	bezh1248	the cheek	CHEEK	1730		gogā	gogā 
+254	15-4-209-1	759183554885019	Bezhta	bezh1248	the chin	CHIN	1510		c’ic’ina	c’ic’ina 
+255	15-4-21-1	7591835339431095	Bezhta	bezh1248	the eye	EYE	1248		häy	häy 
+256	15-4-212-1	7591835756224643	Bezhta	bezh1248	the eyebrow	EYEBROW	1173		häq’üwä	häq’üwä 
+257	15-4-213-1	7591835420625248	Bezhta	bezh1248	the eyelid	EYELID	17		häyš ƛ’äq’e	häyš ƛ’äq’e 
+258	15-4-214-1	7591835831619558	Bezhta	bezh1248	the eyelash	EYELASH	1540		häš c’ic’	häš c’ic’ 
+259	15-4-215-1	7591835582446868	Bezhta	bezh1248	to blink	BLINK	1655		bäq’dä-	bäq’dä- 
+260	15-4-22-1	7591835426500615	Bezhta	bezh1248	the ear	EAR	1247		äᵑɣä	äᵑɣä 
+261	15-4-221-1	7591835680445053	Bezhta	bezh1248	the earlobe	EARLOBE	18		äᵑɣäläš kik	äᵑɣäläš kik 
+262	15-4-23-1	7591835972347805	Bezhta	bezh1248	the nose	NOSE	1221		mǟ	mǟ 
+263	15-4-231-1	7591835912449265	Bezhta	bezh1248	the nostril	NOSTRIL	1178		xuc’mǟ	xuc’mǟ 
+264	15-4-232-1	7591835610111411	Bezhta	bezh1248	the nasal mucus	NASAL MUCUS (SNOT)	208		xida	xida 
+265	15-4-24-1	7591835244601940	Bezhta	bezh1248	the mouth	MOUTH	674		sik’o	sik’o 
+266	15-4-241-1	7591835144184439	Bezhta	bezh1248	the beak	BEAK	73		möƛ‘ö	möƛ‘ö 
+267	15-4-25-1	7591835601695676	Bezhta	bezh1248	the lip	LIP	478		poro	poro 
+268	15-4-26-1	7591835489656015	Bezhta	bezh1248	the tongue	TONGUE	1205		mic (1)	mic (1) 
+269	15-4-27-1	759183535440806	Bezhta	bezh1248	the tooth	TOOTH	1380		sila	sila 
+270	15-4-271-1	7591835344016950	Bezhta	bezh1248	the gums	GUMS	139		c’imac’	c’imac’ 
+271	15-4-272-1	7591835151174393	Bezhta	bezh1248	the molar tooth	MOLAR TOOTH	1049		hagna	hagna 
+272	15-4-28-1	7591835527933724	Bezhta	bezh1248	the neck	NECK	1333		boɬo	boɬo 
+273	15-4-281-1	7591835539060734	Bezhta	bezh1248	the nape of the neck	NAPE (OF NECK)	1347		müɣättǟš q’äm	müɣättǟš q’äm 
+274	15-4-29-1	7591835380328613	Bezhta	bezh1248	the throat	THROAT	1346		yis	yis 
+275	15-4-3-1	7591835613514158	Bezhta	bezh1248	the shoulder	SHOULDER	1482		q’eyo	q’eyo 
+276	15-4-301-1	7591835839041919	Bezhta	bezh1248	the shoulderblade	SHOULDERBLADE	172		ƛärdämän	ƛärdämän 
+277	15-4-302-1	759183567297537	Bezhta	bezh1248	the collarbone	COLLARBONE	1994		q’eyas t’iyo	q’eyas t’iyo 
+278	15-4-302-2	91251542609154170	Bezhta	bezh1248	the collarbone	COLLARBONE	1994		q’eyas ƛöᵑwä	q’eyas ƛöᵑwä 
+279	15-4-31-1	7591835978968316	Bezhta	bezh1248	the arm	ARM	1673		bico	bico 
+280	15-4-312-1	7591835393190173	Bezhta	bezh1248	the armpit	ARMPIT	1886		nuqulco mäče	nuqulco mäče 
+281	15-4-32-1	7591835215349766	Bezhta	bezh1248	the elbow	ELBOW	981		hāyo	hāyo 
+282	15-4-33-1	7591835379629967	Bezhta	bezh1248	the hand	HAND	1277		kō	kō 
+283	15-4-331-1	7591835882038881	Bezhta	bezh1248	the palm of the hand	PALM OF HAND	1183		qat	qat 
+284	15-4-331-2	91251546514446885	Bezhta	bezh1248	the palm of the hand	PALM OF HAND	1183		q’iden	q’iden 
+285	15-4-34-1	7591835597646643	Bezhta	bezh1248	the finger	FINGER	1303		zoƛ’o	zoƛ’o 
+286	15-4-342-1	7591835190681967	Bezhta	bezh1248	the thumb	THUMB	1781		buq’o zaƛ’o	buq’o zaƛ’o 
+287	15-4-344-1	7591835392276616	Bezhta	bezh1248	the fingernail	FINGERNAIL	1258		miƛo	miƛo 
+288	15-4-345-1	7591835392276616	Bezhta	bezh1248	the claw	CLAW	72		miƛo	miƛo 
+289	15-4-35-1	7591835157180531	Bezhta	bezh1248	the leg	LEG	1297		xäbä	xäbä 
+290	15-4-351-1	7591835329469793	Bezhta	bezh1248	the thigh	THIGH	800		yiɣla	yiɣla 
+291	15-4-352-1	759183587955433	Bezhta	bezh1248	the calf of the leg	CALF OF LEG	498		kim	kim 
+292	15-4-36-1	7591835190019551	Bezhta	bezh1248	the knee	KNEE	1371		ãga	ãga 
+293	15-4-37-1	7591835429986302	Bezhta	bezh1248	the foot	FOOT	1301		halo	halo 
+294	15-4-371-1	7591835193092058	Bezhta	bezh1248	the ankle	ANKLE	803		q’ätälö	q’ätälö 
+295	15-4-372-1	7591835819048307	Bezhta	bezh1248	the heel	HEEL	980		t’im	t’im 
+296	15-4-374-1	7591835977769913	Bezhta	bezh1248	the footprint	FOOTPRINT	318		daɣi	daɣi 
+297	15-4-38-1	7591835597646643	Bezhta	bezh1248	the toe	TOE	1389		zoƛ’o	zoƛ’o 
+298	15-4-392-1	7591835379642572	Bezhta	bezh1248	the wing	WING	1257		habo	habo 
+299	15-4-393-1	7591835345126708	Bezhta	bezh1248	the feather	FEATHER	1201		mäč’ä	mäč’ä 
+300	15-4-4-1	7591835845772519	Bezhta	bezh1248	the chest	CHEST	1592		ɣäde	ɣäde 
+301	15-4-41-1	7591835830861331	Bezhta	bezh1248	the breast	BREAST	1402		nene	nene 
+302	15-4-412-1	7591835331432310	Bezhta	bezh1248	the nipple or teat	NIPPLE	796		hũƛ’	hũƛ’ 
+303	15-4-43-1	7591835911510969	Bezhta	bezh1248	the navel	NAVEL	1838		cot’ā	cot’ā 
+304	15-4-44-1	7591835561011929	Bezhta	bezh1248	the heart	HEART	1223		yak’o	yak’o 
+305	15-4-441-1	7591835637739083	Bezhta	bezh1248	the lung	LUNG	688		piyt’i	piyt’i 
+306	15-4-45-1	7591835165401446	Bezhta	bezh1248	the liver	LIVER	1224		šebo	šebo 
+307	15-4-451-1	7591835822834793	Bezhta	bezh1248	the kidney	KIDNEY	489		koma	koma 
+308	15-4-452-1	75918354864927	Bezhta	bezh1248	the spleen	SPLEEN	1744		bac’o (2)	bac’o (2) 
+309	15-4-46-1	7591835532557665	Bezhta	bezh1248	the stomach	STOMACH	819		ãx	ãx 
+310	15-4-461-1	759183513919999	Bezhta	bezh1248	the intestines or guts	INTESTINES	1991		baƛa	baƛa 
+311	15-4-462-1	7591835262486574	Bezhta	bezh1248	the waist	WAIST	1681		cot’iʔis mäče	cot’iʔis mäče 
+312	15-4-463-1	7591835843193751	Bezhta	bezh1248	the hip	HIP	1745		č’amal	č’amal 
+313	15-4-464-1	7591835251999055	Bezhta	bezh1248	the buttocks	BUTTOCKS	834		kot’a	kot’a 
+314	15-4-47-1	7591835551174354	Bezhta	bezh1248	the womb	WOMB	804		sĩ (3)	sĩ (3) 
+315	15-4-49-1	7591835240674376	Bezhta	bezh1248	the testicles	TESTICLES	797		xok’ā	xok’ā 
+316	15-4-492-1	7591835825343504	Bezhta	bezh1248	the penis	PENIS	1222		daƛ’	daƛ’ 
+317	15-4-51-1	7591835201524416	Bezhta	bezh1248	to breathe	BREATHE	1407		müšö baɣ-	müšö baɣ- 
+318	15-4-52-1	7591835831050977	Bezhta	bezh1248	to yawn	YAWN	1028		hähda-	hähda- 
+319	15-4-521-1	7591835259494454	Bezhta	bezh1248	to hiccough	HICCOUGH	162		hik’da-	hik’da- 
+320	15-4-53-1	7591835881670994	Bezhta	bezh1248	to cough	COUGH	879		öhdä-	öhdä- 
+321	15-4-54-1	759183541464501	Bezhta	bezh1248	to sneeze	SNEEZE	1621		hicda-	hicda- 
+322	15-4-55-1	7591835520614027	Bezhta	bezh1248	to perspire	SWEAT (PERSPIRE)	126		hadic’-	hadic’- 
+323	15-4-56-1	7591835926095426	Bezhta	bezh1248	to spit	SPIT	1440		tüwä-	tüwä- 
+324	15-4-57-1	7591835511038508	Bezhta	bezh1248	to vomit	VOMIT	1278		bekik’da-	bekik’da- 
+325	15-4-58-1	7591835886768188	Bezhta	bezh1248	to bite	BITE	1403		sila gul-	sila gul- 
+326	15-4-59-1	7591835538257825	Bezhta	bezh1248	to lick	LICK	319		-äᵑč-	-äᵑč- 
+327	15-4-591-1	7591835620315527	Bezhta	bezh1248	to dribble	DRIBBLE	268		q’ica guw-	q’ica guw- 
+328	15-4-61-1	7591835761747763	Bezhta	bezh1248	to sleep	SLEEP	1585		-ut’-	-ut’- 
+329	15-4-612-1	75918355310592	Bezhta	bezh1248	to snore	SNORE	1983		xöwǟ-	xöwǟ- 
+330	15-4-62-1	7591835435909605	Bezhta	bezh1248	to dream	DREAM (SOMETHING)	1920		maƛo yega-	maƛo yega- 
+331	15-4-63-1	7591835299860817	Bezhta	bezh1248	to wake up	WAKE UP	1602		ɬüʔ-ƛ-	ɬüʔ-ƛ- 
+332	15-4-64-1	759183522948591	Bezhta	bezh1248	to fart	FART	1159		ƛẽya-	ƛẽya- 
+333	15-4-65-1	759183539654534	Bezhta	bezh1248	to piss	PISS	592		cimala-	cimala- 
+334	15-4-66-1	7591835593129956	Bezhta	bezh1248	to shit	SHIT (DEFECATE)	676		ʔäᵑʔäᵑla-	ʔäᵑʔäᵑla- 
+335	15-4-67-1	7591835691658336	Bezhta	bezh1248	to have sex	HAVE SEX	1785		-ẽk’-	-ẽk’- 
+336	15-4-68-1	7591835441029784	Bezhta	bezh1248	to shiver	SHIVER	52		zizida-	zizida- 
+337	15-4-68-2	91251110675260357	Bezhta	bezh1248	to shiver	SHIVER	52		q’iq’ida-	q’iq’ida- 
+338	15-4-69-1	7591835845785207	Bezhta	bezh1248	to bathe	BATHE	138		ɬiyac’-	ɬiyac’- 
+339	15-4-71-1	7591835241126658	Bezhta	bezh1248	to beget	BEGET	1152		-ow-	-ow- 
+340	15-4-72-1	7591835826180024	Bezhta	bezh1248	to be born	BE BORN	1090		-aq- (1)	-aq- (1) 
+341	15-4-73-1	7591835451987686	Bezhta	bezh1248	pregnant	PREGNANT	1123		õx gähiyo	õx gähiyo 
+342	15-4-732-1	7591835426130936	Bezhta	bezh1248	to conceive	CONCEIVE	1087		õx gähiyo yaq-	õx gähiyo yaq- 
+343	15-4-74-1	7591835458013352	Bezhta	bezh1248	to be alive	BE ALIVE	1422		ömrö b-ow-	ömrö b-ow- 
+344	15-4-75-1	7591835136579635	Bezhta	bezh1248	to die	DIE	1494		-uɣ-	-uɣ- 
+345	15-4-751-1	7591835763165856	Bezhta	bezh1248	to drown	DROWN	1904		ɣanq’izi -owo-	ɣanq’izi -owo- 
+346	15-4-76-1	7591835737036896	Bezhta	bezh1248	to kill	KILL	1417		-iƛ-	-iƛ- 
+347	15-4-77-1	7591835544255127	Bezhta	bezh1248	the corpse	CORPSE	767		žanaza	žanaza 
+348	15-4-78-1	7591835103703329	Bezhta	bezh1248	to bury	BURY	1719		-iqol-	-iqol- 
+349	15-4-79-1	7591835983522753	Bezhta	bezh1248	the grave	GRAVE	1773		šünä	šünä 
+350	15-4-81-1	7591835188407322	Bezhta	bezh1248	strong	STRONG	785		q’uwatab	q’uwatab 
+351	15-4-82-1	7591835477137110	Bezhta	bezh1248	weak	WEAK	1601		zaipab	zaipab 
+352	15-4-82-2	91251124358119638	Bezhta	bezh1248	weak	WEAK	1601		töbǟ	töbǟ 
+353	15-4-83-1	7591835669061040	Bezhta	bezh1248	healthy	HEALTHY	1364		saɣab	saɣab 
+354	15-4-84-1	7591835358094182	Bezhta	bezh1248	sick/ill	SICK	1847		k’ok’oyo	k’ok’oyo 
+355	15-4-841-1	7591835968559390	Bezhta	bezh1248	the fever	FEVER	1534		c’oɬiyo ek’eyoɬi	c’oɬiyo ek’eyoɬi 
+356	15-4-842-1	7591835581180449	Bezhta	bezh1248	the goitre/goiter	GOITER	1957		ɣaɣ	ɣaɣ 
+357	15-4-843-1	7591835852121871	Bezhta	bezh1248	the cold	COMMON COLD (DISEASE)	102		ɣeya-q’ämis	ɣeya-q’ämis 
+358	15-4-85-1	7591835471845002	Bezhta	bezh1248	the wound or sore	WOUND	1109		läq	läq 
+359	15-4-852-1	7591835618265791	Bezhta	bezh1248	the bruise	BRUISE	1148		dažiza	dažiza 
+360	15-4-853-1	7591835294731991	Bezhta	bezh1248	the swelling	SWELLING	1903		õxo	õxo 
+361	15-4-854-1	7591835446312270	Bezhta	bezh1248	the itch	ITCH	148		xosdāɬi	xosdāɬi 
+362	15-4-855-1	7591835236869436	Bezhta	bezh1248	the blister	BLISTER	1584		ɬīs momola	ɬīs momola 
+363	15-4-856-1	7591835361565249	Bezhta	bezh1248	the boil	BOIL (OF SKIN)	793		hũk’ā	hũk’ā 
+364	15-4-857-1	7591835425982501	Bezhta	bezh1248	the pus	PUS	1808		žöž	žöž 
+365	15-4-858-1	7591835639332654	Bezhta	bezh1248	the scar	SCAR	497		äᵑž	äᵑž 
+366	15-4-86-1	7591835610745788	Bezhta	bezh1248	to cure	CURE	499		saɣ -aql-	saɣ -aql- 
+367	15-4-86-2	91251130166922594	Bezhta	bezh1248	to cure	CURE	499		saɣ -ow-	saɣ -ow- 
+368	15-4-87-1	7591835586055754	Bezhta	bezh1248	the physician	PHYSICIAN	597		toxtur	toxtur 
+369	15-4-87-2	91251133614476149	Bezhta	bezh1248	the physician	PHYSICIAN	597		warač	warač 
+370	15-4-88-1	7591835957524062	Bezhta	bezh1248	the medicine	MEDICINE	1372		daru	daru 
+371	15-4-88-2	91251135286688954	Bezhta	bezh1248	the medicine	MEDICINE	1372		darman	darman 
+372	15-4-89-1	7591835500738290	Bezhta	bezh1248	the poison	POISON	655		zahru	zahru 
+373	15-4-91-1	7591835894577688	Bezhta	bezh1248	tired	TIRED	1757		tabaɬiyo	tabaɬiyo 
+374	15-4-91-2	91251139457181608	Bezhta	bezh1248	tired	TIRED	1757		läƛ’ -ẽƛ’eyo	läƛ’ -ẽƛ’eyo 
+375	15-4-912-1	7591835701565052	Bezhta	bezh1248	to rest	REST	168		-ut’--äɣiʔ-	-ut’--äɣiʔ- 
+376	15-4-912-2	91251635857444741	Bezhta	bezh1248	to rest	REST	168		rähät bökči-	rähät bökči- 
+377	15-4-92-1	7591835304470161	Bezhta	bezh1248	lazy	LAZY	1564		k’aʔab	k’aʔab 
+378	15-4-92-2	91251451230113319	Bezhta	bezh1248	lazy	LAZY	1564		k’ähälab	k’ähälab 
+379	15-4-92-3	91251452825762899	Bezhta	bezh1248	lazy	LAZY	1564		ciɣoyo	ciɣoyo 
+380	15-4-93-1	7591835462664110	Bezhta	bezh1248	bald	BALD	1125		p’äp’älö	p’äp’älö 
+381	15-4-94-1	7591835368234969	Bezhta	bezh1248	lame	LAME	320		läqdä-	läqdä- 
+382	15-4-95-1	7591835121320503	Bezhta	bezh1248	deaf	DEAF	996		inq’ab	inq’ab 
+383	15-4-95-2	9125152211136366	Bezhta	bezh1248	deaf	DEAF	996		äᵑɣäläƛ’ä -iƛā	äᵑɣäläƛ’ä -iƛā 
+384	15-4-96-1	7591835890281891	Bezhta	bezh1248	mute	MUTE	1666		yäže gäččö	yäže gäččö 
+385	15-4-97-1	7591835328552461	Bezhta	bezh1248	blind	BLIND	1653		bocdiyo	bocdiyo 
+386	15-4-98-1	7591835708615290	Bezhta	bezh1248	drunk	DRUNK	1463		xuwā	xuwā 
+387	15-4-99-1	7591835956190124	Bezhta	bezh1248	naked	NAKED	590		šät’t’ö	šät’t’ö 
+388	15-5-11-1	7591835643800012	Bezhta	bezh1248	to eat	EAT	1336		-es-	-es- 
+389	15-5-12-1	7591835122947081	Bezhta	bezh1248	the food	FOOD	256		ken	ken 
+390	15-5-121-1	7591835541325344	Bezhta	bezh1248	cooked	COOKED	269		heleyo	heleyo 
+391	15-5-122-1	7591835157720219	Bezhta	bezh1248	raw	RAW	1959		hät’t’ö (2)	hät’t’ö (2) 
+392	15-5-123-1	7591835929194283	Bezhta	bezh1248	ripe	RIPE	178		-iq’oyo	-iq’oyo 
+393	15-5-124-1	7591835292212370	Bezhta	bezh1248	unripe	UNRIPE	1958		-iq’eʔeš	-iq’eʔeš 
+394	15-5-125-1	7591835407065437	Bezhta	bezh1248	rotten	ROTTEN	1728		q’oq’oyo	q’oq’oyo 
+395	15-5-125-2	91251810276730386	Bezhta	bezh1248	rotten	ROTTEN	1728		cocilo	cocilo 
+396	15-5-13-1	759183511987077	Bezhta	bezh1248	to drink	DRINK	1401		xuƛo	xuƛo 
+397	15-5-14-1	7591835135656516	Bezhta	bezh1248	to be hungry	BE HUNGRY	1533		nuko-	nuko- 
+398	15-5-141-1	7591835181025154	Bezhta	bezh1248	the famine	FAMINE	199		nukōɬi	nukōɬi 
+399	15-5-15-1	7591835371949335	Bezhta	bezh1248	to be thirsty	THIRSTY	847		xuƛaq’o-	xuƛaq’o- 
+400	15-5-16-1	7591835836351211	Bezhta	bezh1248	to suck	SUCK	1421		xaɣo-	xaɣo- 
+401	15-5-16-2	9125178635705952	Bezhta	bezh1248	to suck	SUCK	1421		coƛƛo-	coƛƛo- 
+402	15-5-18-1	75918354561290	Bezhta	bezh1248	to chew	CHEW	321		ɬiɬ-	ɬiɬ- 
+403	15-5-181-1	7591835427024297	Bezhta	bezh1248	to swallow	SWALLOW	897		-äᵑčiic’l-	-äᵑčiic’l- 
+404	15-5-19-1	7591835828009703	Bezhta	bezh1248	to choke	CHOKE	129		ƛüxö-	ƛüxö- 
+405	15-5-21-1	7591835641522710	Bezhta	bezh1248	to cook	COOK (SOMETHING)	1100		hele-	hele- 
+406	15-5-22-1	7591835974970322	Bezhta	bezh1248	to boil	BOIL (OF LIQUID)	792		ɣayƛo-	ɣayƛo- 
+407	15-5-23-1	7591835660135139	Bezhta	bezh1248	to roast or fry	ROAST OR FRY	2146		ziza-	ziza- 
+408	15-5-24-1	7591835660135139	Bezhta	bezh1248	to bake	BAKE	183		ziza-	ziza- 
+409	15-5-25-1	759183542142490	Bezhta	bezh1248	the oven	OVEN	1143		peč	peč 
+410	15-5-26-1	7591835164475509	Bezhta	bezh1248	the pot	POT	1462		qazan	qazan 
+411	15-5-26-2	9125171763453924	Bezhta	bezh1248	the pot	POT	1462		katilok	katilok 
+412	15-5-27-1	7591835859002214	Bezhta	bezh1248	the kettle	KETTLE	854		čaynik’	čaynik’ 
+413	15-5-27-2	91251720441425946	Bezhta	bezh1248	the kettle	KETTLE	854		čäydär	čäydär 
+414	15-5-28-1	7591835305929793	Bezhta	bezh1248	the pan	PAN	31		šag	šag 
+415	15-5-31-1	7591835359638224	Bezhta	bezh1248	the dish	DISH	481		bogoƛ	bogoƛ 
+416	15-5-32-1	7591835336319786	Bezhta	bezh1248	the plate	PLATE	480		xät’ä	xät’ä 
+417	15-5-33-1	7591835720869911	Bezhta	bezh1248	the bowl	BOWL	1530		t’abak’o	t’abak’o 
+418	15-5-34-1	7591835381664036	Bezhta	bezh1248	the jug/pitcher	JUG	270		küdäy	küdäy 
+419	15-5-36-1	7591835337935961	Bezhta	bezh1248	the saucer	SAUCER	271		it’ino xät’ä	it’ino xät’ä 
+420	15-5-37-1	7591835533911754	Bezhta	bezh1248	the spoon	SPOON	1378		k’obzi	k’obzi 
+421	15-5-37-2	91251730635228553	Bezhta	bezh1248	the spoon	SPOON	1378		ket’e	ket’e 
+422	15-5-38-1	7591835897211309	Bezhta	bezh1248	the knife(1)	KNIFE (FOR EATING)	3210		c’it’	c’it’ 
+423	15-5-39-1	7591835615627333	Bezhta	bezh1248	the fork	FORK	1302		sino	sino 
+424	15-5-391-1	7591835935623926	Bezhta	bezh1248	the tongs	TONGS	272		xac’o	xac’o 
+425	15-5-391-2	91251815380598372	Bezhta	bezh1248	the tongs	TONGS	272		kalbatun	kalbatun 
+426	15-5-41-1	7591835970324046	Bezhta	bezh1248	the meal	MEAL	1526		bešiyoɬi	bešiyoɬi 
+427	15-5-42-1	7591835905165129	Bezhta	bezh1248	the breakfast	BREAKFAST	1322		xisƛ’as bešiyoɬi	xisƛ’as bešiyoɬi 
+428	15-5-43-1	7591835679461969	Bezhta	bezh1248	the lunch	LUNCH	768		ƛobaƛ’as bešiyoɬi	ƛobaƛ’as bešiyoɬi 
+429	15-5-44-1	7591835870280958	Bezhta	bezh1248	the dinner	DINNER (SUPPER)	1833		nišeš bešiyoɬi	nišeš bešiyoɬi 
+430	15-5-46-1	7591835216563211	Bezhta	bezh1248	to peel	PEEL	275		-ice-	-ice- 
+431	15-5-47-1	7591835469665150	Bezhta	bezh1248	to sieve or to strain	SIEVE	86		isiʔ-	isiʔ- 
+432	15-5-47-2	7591835234500049	Bezhta	bezh1248	to sieve or to strain	SIEVE	86		t’uco-	t’uco- 
+433	15-5-48-1	7591835408703257	Bezhta	bezh1248	to scrape	SCRAPE	1767		xarƛol-	xarƛol- 
+434	15-5-49-1	7591835880703833	Bezhta	bezh1248	to stir or to mix	MIX	2017		laxƛol-	laxƛol- 
+435	15-5-51-1	7591835730775725	Bezhta	bezh1248	the bread	BREAD	1368		bäbä	bäbä 
+436	15-5-53-1	7591835828868976	Bezhta	bezh1248	the dough	DOUGH	273		yöᵑtö	yöᵑtö 
+437	15-5-54-1	7591835201760703	Bezhta	bezh1248	to knead	KNEAD	274		-ocl-	-ocl- 
+438	15-5-55-1	759183594666215	Bezhta	bezh1248	the flour	FLOUR	1594		hät’t’ö (1)	hät’t’ö (1) 
+439	15-5-56-1	7591835861774061	Bezhta	bezh1248	to crush or to grind	GRIND	1033		nüšök’-	nüšök’- 
+440	15-5-57-1	7591835171364109	Bezhta	bezh1248	the mill	MILL	636		haboy	haboy 
+441	15-5-58-1	7591835389291289	Bezhta	bezh1248	the mortar(1)	MORTAR CRUSHER	224		coboxna	coboxna 
+442	15-5-59-1	7591835257377429	Bezhta	bezh1248	the pestle	PESTLE	225		gendura	gendura 
+443	15-5-61-1	7591835218678496	Bezhta	bezh1248	the meat	MEAT	634		xo	xo 
+444	15-5-63-1	759183513919999	Bezhta	bezh1248	the sausage	SAUSAGE	1874		baƛa	baƛa 
+445	15-5-63-2	91251752195837585	Bezhta	bezh1248	the sausage	SAUSAGE	1874		änƛ’e	änƛ’e 
+446	15-5-64-1	7591835562720882	Bezhta	bezh1248	the soup	SOUP	1547		šorpa	šorpa 
+447	15-5-65-1	7591835877956233	Bezhta	bezh1248	the vegetables	VEGETABLES	924		näži-xaɣu	näži-xaɣu 
+448	15-5-66-1	7591835204429474	Bezhta	bezh1248	the bean	BEAN	832		holo	holo 
+449	15-5-7-1	7591835890207951	Bezhta	bezh1248	the potato	POTATO	593		k’artupeli	k’artupeli 
+450	15-5-71-1	7591835290040603	Bezhta	bezh1248	the fruit	FRUIT	1507		piq	piq 
+451	15-5-712-1	7591835652694447	Bezhta	bezh1248	the bunch	BUNCH	1966		č’ap’	č’ap’ 
+452	15-5-76-1	7591835278470536	Bezhta	bezh1248	the grape	GRAPE	920		k’odo	k’odo 
+453	15-5-77-1	7591835667354277	Bezhta	bezh1248	the nut	NUT	191		heƛe	heƛe 
+454	15-5-79-1	7591835129324383	Bezhta	bezh1248	the oil	OIL (ORGANIC SUBSTANCE)	1484		zeti	zeti 
+455	15-5-791-1	7591835945624611	Bezhta	bezh1248	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		coco	coco 
+456	15-5-81-1	7591835259956405	Bezhta	bezh1248	the salt	SALT	1274		cã (2)	cã (2) 
+457	15-5-82-1	7591835813879758	Bezhta	bezh1248	the pepper	PEPPER	1385		p’ilp’il	p’ilp’il 
+458	15-5-821-1	7591835488975252	Bezhta	bezh1248	the chili pepper	CHILI PEPPER	919		istiʔoƛ	istiʔoƛ 
+459	15-5-821-2	91251820357348771	Bezhta	bezh1248	the chili pepper	CHILI PEPPER	919		c’ic’ak’a	c’ic’ak’a 
+460	15-5-84-1	7591835255988297	Bezhta	bezh1248	the honey	HONEY	942		nuco	nuco 
+461	15-5-85-1	7591835126460539	Bezhta	bezh1248	the sugar	SUGAR	862		čakar	čakar 
+462	15-5-86-1	7591835871172983	Bezhta	bezh1248	the milk	MILK	635		hĩ	hĩ 
+463	15-5-87-1	7591835730026729	Bezhta	bezh1248	to milk	DRAW MILK	93		täƛe-	täƛe- 
+464	15-5-88-1	7591835205754437	Bezhta	bezh1248	the cheese	CHEESE	1569		k’ima	k’ima 
+465	15-5-89-1	7591835680507128	Bezhta	bezh1248	the butter	BUTTER	1245		toto	toto 
+466	15-5-9-1	7591835929887547	Bezhta	bezh1248	the drink	BEVERAGE	731		ɬi	ɬi 
+467	15-5-92-1	7591835507770995	Bezhta	bezh1248	the wine	WINE	1524		ɣino	ɣino 
+468	15-5-93-1	7591835568316852	Bezhta	bezh1248	the beer	BEER	1639		piwo	piwo 
+469	15-5-94-1	7591835261634377	Bezhta	bezh1248	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		č’aɣa	č’aɣa 
+470	15-5-97-1	7591835555432409	Bezhta	bezh1248	the egg	EGG	744		c’emuc’	c’emuc’ 
+471	15-5-971-1	7591835634662064	Bezhta	bezh1248	the yolk	YOLK	1556		c’uddo c’emuc’	c’uddo c’emuc’ 
+472	15-6-11-1	7591835809818368	Bezhta	bezh1248	to put on	PUT ON	158		ɬic’e-	ɬic’e- 
+473	15-6-12-1	7591835986888243	Bezhta	bezh1248	the clothing or clothes	CLOTHES	1895		ɬic’o	ɬic’o 
+474	15-6-13-1	7591835260857146	Bezhta	bezh1248	the tailor	TAILOR	881		-äᵑqelagi	-äᵑqelagi 
+475	15-6-21-1	7591835801853287	Bezhta	bezh1248	the cloth	CLOTH	1616		ɣeč’i	ɣeč’i 
+476	15-6-22-1	7591835698647064	Bezhta	bezh1248	the wool	WOOL	964		šal	šal 
+477	15-6-22-2	912699721051506	Bezhta	bezh1248	the wool	WOOL	964		ɬūᵑs ɣeč’i	ɬūᵑs ɣeč’i 
+478	15-6-23-1	7591835307760519	Bezhta	bezh1248	the linen	LINEN	916		t’ilo	t’ilo 
+479	15-6-24-1	7591835708358582	Bezhta	bezh1248	the cotton	COTTON	1850		bamba	bamba 
+480	15-6-25-1	759183554668660	Bezhta	bezh1248	the silk	SILK	1641		däräy	däräy 
+481	15-6-27-1	7591835395301474	Bezhta	bezh1248	the felt	FELT	325		kiz	kiz 
+482	15-6-27-2	9126917611249120	Bezhta	bezh1248	the felt	FELT	325		q’ī	q’ī 
+483	15-6-28-1	759183574089075	Bezhta	bezh1248	the fur	FUR	580		ɬüᵑ	ɬüᵑ 
+484	15-6-29-1	7591835982936759	Bezhta	bezh1248	the leather	LEATHER	629		ɣäše	ɣäše 
+485	15-6-31-1	7591835159265811	Bezhta	bezh1248	to spin	SPIN	121		yöxöš yow-	yöxöš yow- 
+486	15-6-32-1	7591835674648139	Bezhta	bezh1248	the spindle	SPINDLE	277		ãq’	ãq’ 
+487	15-6-34-1	7591835795093281	Bezhta	bezh1248	the loom	LOOM	1787		därɣi	därɣi 
+488	15-6-34-2	9126922204775358	Bezhta	bezh1248	the loom	LOOM	1787		maq’o (2)	maq’o (2) 
+489	15-6-35-1	7591835405947369	Bezhta	bezh1248	to sew	SEW	1457		-äᵑqe-	-äᵑqe- 
+490	15-6-36-1	7591835645423098	Bezhta	bezh1248	the needle(1)	NEEDLE (FOR SEWING)	1382		näp’či	näp’či 
+491	15-6-37-1	7591835511288445	Bezhta	bezh1248	the awl	AWL	278		emo	emo 
+492	15-6-38-1	7591835741011048	Bezhta	bezh1248	the thread	THREAD	1161		k’ihmat	k’ihmat 
+493	15-6-39-1	7591835255607799	Bezhta	bezh1248	to dye	DYE	157		tüšöl-	tüšöl- 
+494	15-6-41-1	7591835734016897	Bezhta	bezh1248	the cloak	CLOAK	326		palaš	palaš 
+495	15-7-37-1	7591835533061349	Bezhta	bezh1248	the ladder	LADDER	1464		k’ado	k’ado 
+496	15-6-42-1	7591835879432785	Bezhta	bezh1248	the (woman's) dress	DRESS	474		kunta	kunta 
+497	15-6-43-1	7591835785156997	Bezhta	bezh1248	the coat	COAT	603		p’alt’o	p’alt’o 
+498	15-6-44-1	7591835495169326	Bezhta	bezh1248	the shirt	SHIRT	1622		muxun	muxun 
+499	15-6-45-1	7591835527933724	Bezhta	bezh1248	the collar	COLLAR	2012		boɬo	boɬo 
+500	15-6-46-1	7591835664310575	Bezhta	bezh1248	the skirt	SKIRT	1600		yupka	yupka 
+501	15-6-48-1	7591835869796924	Bezhta	bezh1248	the trousers	TROUSERS	809		xiƛo	xiƛo 
+502	15-6-49-1	7591835539743151	Bezhta	bezh1248	the sock or stocking	STOCKING	329		c’inda	c’inda 
+503	15-6-49-2	9126932202944224	Bezhta	bezh1248	the sock or stocking	STOCKING	329		naski	naski 
+504	15-6-51-1	7591835160789329	Bezhta	bezh1248	the shoe	SHOE	1381		halaɬco	halaɬco 
+505	15-6-52-1	7591835562108306	Bezhta	bezh1248	the boot	BOOT	585		batink’a	batink’a 
+506	15-6-54-1	7591835358629546	Bezhta	bezh1248	the shoemaker	SHOEMAKER	875		halaɬcolāq	halaɬcolāq 
+507	15-6-55-1	7591835259159132	Bezhta	bezh1248	the hat or cap	HEADGEAR	2130		ƛ’aq’alo	ƛ’aq’alo 
+508	15-6-57-1	7591835961001238	Bezhta	bezh1248	the belt	BELT	772		tic’iyo	tic’iyo 
+509	15-6-58-1	7591835385901163	Bezhta	bezh1248	the glove	GLOVE	867		kosa	kosa 
+510	15-6-61-1	7591835493523591	Bezhta	bezh1248	the pocket	POCKET	1851		kisa	kisa 
+511	15-6-62-1	7591835900928331	Bezhta	bezh1248	the button	BUTTON	757		t’uruci	t’uruci 
+512	15-6-63-1	7591835525986548	Bezhta	bezh1248	the pin	PIN	64		k’irk’ošk’a	k’irk’ošk’a 
+513	15-6-71-1	7591835863323603	Bezhta	bezh1248	the ornament or adornment	ORNAMENT	917		naq’iš	naq’iš 
+514	15-6-71-2	9126945133955628	Bezhta	bezh1248	the ornament or adornment	ORNAMENT	917		k’iso	k’iso 
+515	15-6-71-3	9126945921118891	Bezhta	bezh1248	the ornament or adornment	ORNAMENT	917		č’ühi	č’ühi 
+516	15-6-72-1	7591835505333955	Bezhta	bezh1248	the jewel	JEWEL	1029		žawhar	žawhar 
+517	15-6-72-2	912694823843743	Bezhta	bezh1248	the jewel	JEWEL	1029		yaq’ut	yaq’ut 
+518	15-6-73-1	9127134895572811	Bezhta	bezh1248	the ring	RING	1374		k’öyyä	k’öyyä 
+519	15-6-74-1	7591835356499684	Bezhta	bezh1248	the bracelet	BRACELET	1754		äᵑgä	äᵑgä 
+520	15-6-75-1	7591835311201670	Bezhta	bezh1248	the necklace	NECKLACE	1961		ɣalɣači	ɣalɣači 
+521	15-6-75-2	9126952187778477	Bezhta	bezh1248	the necklace	NECKLACE	1961		kakamadi	kakamadi 
+522	15-6-76-1	7591835446504487	Bezhta	bezh1248	the bead	BEAD	1860		aboc	aboc 
+523	15-6-77-1	7591835357451359	Bezhta	bezh1248	the earring	EARRING	770		äᵑɣäläɬčö	äᵑɣäläɬčö 
+524	15-6-81-1	7591835644261454	Bezhta	bezh1248	the handkerchief or rag	RAG	332		xidalaƛko čürɣän	xidalaƛko čürɣän 
+525	15-6-82-1	7591835307760519	Bezhta	bezh1248	the towel	TOWEL	1021		t’ilo	t’ilo 
+526	15-6-82-2	9126958378427755	Bezhta	bezh1248	the towel	TOWEL	1021		palatenca	palatenca 
+527	15-6-91-1	7591835168219331	Bezhta	bezh1248	the comb	COMB	1475		heƛo	heƛo 
+528	15-6-92-1	7591835505368584	Bezhta	bezh1248	the brush	BRUSH	1821		šotka	šotka 
+529	15-6-921-1	7591835112949680	Bezhta	bezh1248	the plait/braid	BRAID	1043		miɣlat’o	miɣlat’o 
+530	15-6-93-1	7591835817285429	Bezhta	bezh1248	the razor	RAZOR	151		babliƛ’ako c’it’	babliƛ’ako c’it’ 
+531	15-6-94-1	7591835300837944	Bezhta	bezh1248	the ointment	OINTMENT	1926		mazi	mazi 
+532	15-6-95-1	7591835549329299	Bezhta	bezh1248	the soap	SOAP	788		sap’uni	sap’uni 
+533	15-6-96-1	7591835641174475	Bezhta	bezh1248	the mirror	MIRROR	1171		c’ika	c’ika 
+534	15-7-11-1	7591835458013352	Bezhta	bezh1248	to live	DWELL (LIVE, RESIDE)	363		ömrö b-ow-	ömrö b-ow- 
+535	15-7-12-1	7591835993581224	Bezhta	bezh1248	the house	HOUSE	1252		biƛo	biƛo 
+536	15-7-13-1	7591835690838469	Bezhta	bezh1248	the hut	HUT	1678		koxi	koxi 
+537	15-7-131-1	759183541840767	Bezhta	bezh1248	the garden-house	GARDEN-HOUSE	403		it’ino biƛo	it’ino biƛo 
+538	15-7-14-1	7591835973900116	Bezhta	bezh1248	the tent	TENT	1316		čadir	čadir 
+539	15-7-15-1	7591835536823101	Bezhta	bezh1248	the yard or court	YARD	736		bež	bež 
+540	15-7-17-1	7591835227167562	Bezhta	bezh1248	the cookhouse	COOKHOUSE	334		kuxna	kuxna 
+541	15-7-18-1	759183583969621	Bezhta	bezh1248	the meeting house	MEETING HOUSE	335		mažlislis biƛo	mažlislis biƛo 
+542	15-7-21-1	7591835993581224	Bezhta	bezh1248	the room	ROOM	1450		biƛo	biƛo 
+543	15-7-21-2	91261023207930233	Bezhta	bezh1248	the room	ROOM	1450		otaxi	otaxi 
+544	15-7-22-1	759183520609064	Bezhta	bezh1248	the door or gate	DOOR	1567		ãc (1)	ãc (1) 
+545	15-7-22-2	91261025326438346	Bezhta	bezh1248	the door or gate	DOOR	1567		kaw	kaw 
+546	15-7-23-1	7591835508365380	Bezhta	bezh1248	the lock	LOCK	1596		rähäy	rähäy 
+547	15-7-231-1	7591835853223001	Bezhta	bezh1248	the latch or door-bolt	LATCH	1012		zat’uri	zat’uri 
+548	15-7-24-1	7591835828503194	Bezhta	bezh1248	the key	KEY	1472		yiga	yiga 
+549	15-7-25-1	759183563474840	Bezhta	bezh1248	the window	WINDOW	1375		žüɣ	žüɣ 
+550	15-7-26-1	7591835464229211	Bezhta	bezh1248	the floor	FLOOR	1632		müžö	müžö 
+551	15-7-26-2	91261214258207891	Bezhta	bezh1248	the floor	FLOOR	1632		pol	pol 
+552	15-7-27-1	7591835720612345	Bezhta	bezh1248	the wall	WALL (OF HOUSE)	933		yõso	yõso 
+553	15-7-31-1	7591835986186444	Bezhta	bezh1248	the fireplace	FIREPLACE	185		axa-c’o	axa-c’o 
+554	15-7-32-1	759183542142490	Bezhta	bezh1248	the stove	STOVE	859		peč	peč 
+555	15-7-33-1	7591835782592363	Bezhta	bezh1248	the chimney	CHIMNEY	1305		buxari	buxari 
+556	15-7-42-1	7591835723311594	Bezhta	bezh1248	the bed	BED	1663		karawat	karawat 
+557	15-7-421-1	759183547108520	Bezhta	bezh1248	the pillow	PILLOW	1044		sast’uli	sast’uli 
+558	15-7-422-1	7591835711336276	Bezhta	bezh1248	the blanket	BLANKET	806		yorɣan	yorɣan 
+559	15-7-422-2	9126130999772421	Bezhta	bezh1248	the blanket	BLANKET	806		adiyal	adiyal 
+560	15-7-43-1	7591835122639877	Bezhta	bezh1248	the chair	CHAIR	1476		q’ō	q’ō 
+561	15-7-44-1	7591835806259638	Bezhta	bezh1248	the table	TABLE	1775		ist’oli	ist’oli 
+562	15-7-45-1	7591835389621364	Bezhta	bezh1248	the lamp or torch	TORCH OR LAMP	2131		lampa	lampa 
+563	15-7-45-2	91261225624733536	Bezhta	bezh1248	the lamp or torch	TORCH OR LAMP	2131		panar	panar 
+564	15-7-46-1	7591835186093062	Bezhta	bezh1248	the candle	CANDLE	1273		santeli	santeli 
+565	15-7-47-1	7591835912292402	Bezhta	bezh1248	the shelf	SHELF	745		ãco	ãco 
+566	15-7-51-1	7591835824706836	Bezhta	bezh1248	the roof	ROOF	769		ƛ’amo	ƛ’amo 
+567	15-7-52-1	7591835284216478	Bezhta	bezh1248	the thatch	THATCH	279		čälǟš ƛ’amo	čälǟš ƛ’amo 
+568	15-7-53-1	7591835584033902	Bezhta	bezh1248	the ridgepole	RIDGEPOLE	280		meta	meta 
+569	15-7-54-1	7591835139744335	Bezhta	bezh1248	the rafter	RAFTER	829		istapil	istapil 
+570	15-7-54-2	91261235115530816	Bezhta	bezh1248	the rafter	RAFTER	829		k’awi	k’awi 
+571	15-7-55-1	759183571667519	Bezhta	bezh1248	the beam	BEAM	1132		q’äč’ä	q’äč’ä 
+572	15-7-55-2	91261237612732238	Bezhta	bezh1248	the beam	BEAM	1132		yĩza	yĩza 
+573	15-7-56-1	7591835990582704	Bezhta	bezh1248	the post or pole	POST	281		hem	hem 
+574	15-7-56-2	9126123840341706	Bezhta	bezh1248	the post or pole	POST	281		t’olba	t’olba 
+575	15-7-57-1	7591835472305944	Bezhta	bezh1248	the board	BOARD	1227		ƛ’oƛ’ƛ’o	ƛ’oƛ’ƛ’o 
+576	15-7-58-1	7591835558315931	Bezhta	bezh1248	the arch	ARCH	876		k’amur	k’amur 
+577	15-7-61-1	7591835896532375	Bezhta	bezh1248	the mason	MASON	877		yõsoqan	yõsoqan 
+578	15-7-62-1	7591835269720643	Bezhta	bezh1248	the brick	BRICK	1006		aguri	aguri 
+579	15-7-62-2	91261250864221118	Bezhta	bezh1248	the brick	BRICK	1006		kirpič	kirpič 
+580	15-7-63-1	7591835839060768	Bezhta	bezh1248	the mortar(2)	MORTAR BINDER	1731		kiraz	kiraz 
+581	15-8-11-1	7591835256661291	Bezhta	bezh1248	the farmer	FARMER	979		permer	permer 
+582	15-8-12-1	7591835331257894	Bezhta	bezh1248	the field	FIELD	212		mäče	mäče 
+583	15-8-13-1	7591835504349303	Bezhta	bezh1248	the garden	GARDEN	586		baɣi	baɣi 
+584	15-8-15-1	7591835663001225	Bezhta	bezh1248	to cultivate	CULTIVATE	1541		boƛo-	boƛo- 
+585	15-8-16-1	7591835932300523	Bezhta	bezh1248	the fence	FENCE	1690		kalo	kalo 
+586	15-8-17-1	7591835896585261	Bezhta	bezh1248	the ditch	DITCH	2002		kanaw	kanaw 
+587	15-8-17-2	9126136388814501	Bezhta	bezh1248	the ditch	DITCH	2002		yühi	yühi 
+588	15-8-21-1	7591835663001225	Bezhta	bezh1248	to plough/plow	PLOUGH	1921		boƛo-	boƛo- 
+589	15-8-212-1	7591835366381339	Bezhta	bezh1248	the furrow	FURROW	1794		boƛoʔos	boƛoʔos 
+590	15-8-212-2	91261357132167011	Bezhta	bezh1248	the furrow	FURROW	1794		čäxrö	čäxrö 
+591	15-8-22-1	7591835394279075	Bezhta	bezh1248	to dig	DIG	1418		-äq-	-äq- 
+592	15-8-23-1	7591835706195271	Bezhta	bezh1248	the spade	SPADE	1176		äkö	äkö 
+593	15-8-24-1	7591835961850009	Bezhta	bezh1248	the shovel	SHOVEL	1901		it’ino äkö	it’ino äkö 
+594	15-8-25-1	7591835170274668	Bezhta	bezh1248	the hoe	HOE	284		toqi	toqi 
+595	15-8-25-2	91261312497824321	Bezhta	bezh1248	the hoe	HOE	284		boza	boza 
+596	15-8-26-1	7591835615627333	Bezhta	bezh1248	the fork(2)/pitchfork	PITCHFORK	337		sino	sino 
+597	15-8-27-1	7591835153750053	Bezhta	bezh1248	the rake	RAKE	338		ƛaxmadi	ƛaxmadi 
+598	15-8-31-1	7591835496514752	Bezhta	bezh1248	to sow	SOW SEEDS	748		-ĩze-	-ĩze- 
+599	15-8-311-1	7591835939617727	Bezhta	bezh1248	the seed	SEED	714		ĩzo	ĩzo 
+600	15-8-32-1	7591835284617034	Bezhta	bezh1248	to mow	MOW	190		-aɣoɣ-	-aɣoɣ- 
+601	15-8-33-1	7591835488915546	Bezhta	bezh1248	the sickle or scythe	SICKLE OR SCYTHE	2132		yöxič’	yöxič’ 
+602	15-8-33-2	91261318944116097	Bezhta	bezh1248	the sickle or scythe	SICKLE OR SCYTHE	2132		xaračin	xaračin 
+603	15-8-34-1	7591835275086378	Bezhta	bezh1248	to thresh	THRESH	285		yal yol-	yal yol- 
+604	15-8-35-1	7591835965161201	Bezhta	bezh1248	the threshing-floor	THRESHING-FLOOR	223		ãc (2)	ãc (2) 
+605	15-8-41-1	7591835287945703	Bezhta	bezh1248	the harvest	HARVEST	611		müq’ö-box	müq’ö-box 
+606	15-8-42-1	7591835256414448	Bezhta	bezh1248	the grain	GRAIN	605		müq’ö	müq’ö 
+607	15-8-43-1	7591835874921829	Bezhta	bezh1248	the wheat	WHEAT	1077		qibo	qibo 
+608	15-8-44-1	759183562130228	Bezhta	bezh1248	the barley	BARLEY	932		õx	õx 
+609	15-8-45-1	7591835189345125	Bezhta	bezh1248	the rye	RYE	23		hiz	hiz 
+610	15-8-45-2	9126132482598140	Bezhta	bezh1248	the rye	RYE	23		č’öq’in	č’öq’in 
+611	15-8-46-1	759183552518776	Bezhta	bezh1248	the oats	OAT	60		suz	suz 
+612	15-8-47-1	759183566373237	Bezhta	bezh1248	the maize/corn	MAIZE	506		simindi	simindi 
+613	15-8-48-1	7591835342531624	Bezhta	bezh1248	the rice	RICE	926		birinži	birinži 
+614	15-8-51-1	7591835173548078	Bezhta	bezh1248	the grass	GRASS	606		box	box 
+615	15-8-52-1	7591835173548078	Bezhta	bezh1248	the hay	HAY	342		box	box 
+616	15-8-53-1	7591835173548078	Bezhta	bezh1248	the plant	PLANT (VEGETATION)	653		box	box 
+617	15-8-531-1	7591835496514752	Bezhta	bezh1248	to plant	PLANT (SOMETHING)	1486		-ĩze-	-ĩze- 
+618	15-8-54-1	7591835556084233	Bezhta	bezh1248	the root	ROOT	670		xemux	xemux 
+619	15-8-55-1	7591835319710023	Bezhta	bezh1248	the branch	BRANCH OR TWIG	3223		äle	äle 
+620	15-8-56-1	7591835421043527	Bezhta	bezh1248	the leaf	LEAF	628		ƛibo	ƛibo 
+621	15-8-57-1	7591835686817074	Bezhta	bezh1248	the flower	FLOWER	239		diʔi	diʔi 
+622	15-8-6-1	7591835158069038	Bezhta	bezh1248	the tree	TREE	906		xöxö	xöxö 
+623	15-8-61-1	7591835365228044	Bezhta	bezh1248	the oak	OAK	644		niɣe	niɣe 
+624	15-8-62-1	7591835614409157	Bezhta	bezh1248	the beech	BEECH	1950		pipe	pipe 
+625	15-8-63-1	7591835731997534	Bezhta	bezh1248	the birch	BIRCH	1855		miye	miye 
+626	15-8-64-1	7591835484319540	Bezhta	bezh1248	the pine	PINE	1740		niqeš xöxö	niqeš xöxö 
+627	15-8-66-1	7591835365228044	Bezhta	bezh1248	the acorn	ACORN	968		niɣe	niɣe 
+628	15-8-67-1	7591835119142255	Bezhta	bezh1248	the vine	VINE	343		xewani	xewani 
+629	15-8-68-1	7591835263368119	Bezhta	bezh1248	the tobacco	TOBACCO	974		tammako	tammako 
+630	15-8-69-1	7591835238689179	Bezhta	bezh1248	to smoke	SMOKE (INHALE)	1689		-öƛ-	-öƛ- 
+631	15-8-691-1	759183526959765	Bezhta	bezh1248	the pipe	PIPE	1124		müštük’	müštük’ 
+632	15-8-72-1	7591835537634854	Bezhta	bezh1248	the tree stump	TREE STUMP	241		zude	zude 
+633	15-8-74-1	7591835647001661	Bezhta	bezh1248	the forked branch	FORKED BRANCH	409		q’uƛƛo	q’uƛƛo 
+634	15-8-75-1	7591835106450918	Bezhta	bezh1248	the bark	BARK	1204		beš	beš 
+635	15-8-75-2	91261343399597087	Bezhta	bezh1248	the bark	BARK	1204		yicalo	yicalo 
+636	15-8-75-3	7591835122834559	Bezhta	bezh1248	the bark	BARK	1204		qal	qal 
+637	15-8-76-1	7591835929887547	Bezhta	bezh1248	the sap	SAP	345		ɬi	ɬi 
+638	15-8-84-1	7591835343061558	Bezhta	bezh1248	the banana	BANANA	868		banan	banan 
+639	15-8-85-1	7591835167343408	Bezhta	bezh1248	the banyan	BANYAN	346		leɣi	leɣi 
+640	15-8-931-1	7591835260418123	Bezhta	bezh1248	the pumpkin or squash	PUMPKIN	864		k’abax	k’abax 
+641	15-8-97-1	7591835691670704	Bezhta	bezh1248	the nettle	NETTLE	33		mic (2)	mic (2) 
+642	15-8-98-1	7591835670998678	Bezhta	bezh1248	the mushroom	MUSHROOM	641		zok’o	zok’o 
+643	15-9-11-1	7591835241126658	Bezhta	bezh1248	to do	DO	813		-ow-	-ow- 
+644	15-9-12-1	7591835673485054	Bezhta	bezh1248	the work	WORK (LABOUR)	984		hält’i	hält’i 
+645	15-9-14-1	759183584101613	Bezhta	bezh1248	to bend	BEND	2004		-üq’-	-üq’- 
+646	15-9-15-1	7591835317068963	Bezhta	bezh1248	to fold	FOLD	1470		-õso-	-õso- 
+647	15-9-16-1	7591835932711233	Bezhta	bezh1248	to tie	TIE	1917		-ĩco-	-ĩco- 
+648	15-9-161-1	75918356082079	Bezhta	bezh1248	to untie	UNTIE	352		-ãk-	-ãk- 
+649	15-9-18-1	7591835536825523	Bezhta	bezh1248	the chain	CHAIN	1627		raxas	raxas 
+650	15-9-18-2	91261419676719750	Bezhta	bezh1248	the chain	CHAIN	1627		räč’ö	räč’ö 
+651	15-9-19-1	7591835741011048	Bezhta	bezh1248	the rope	ROPE	1218		k’ihmat	k’ihmat 
+652	15-9-192-1	7591835497665762	Bezhta	bezh1248	the knot	KNOT	760		k’ic	k’ic 
+653	15-9-21-1	759183576450418	Bezhta	bezh1248	to strike or hit or beat	STRIKE OR BEAT	2133		-äƛ’el-	-äƛ’el- 
+654	15-9-21-2	9126142551696328	Bezhta	bezh1248	to strike or hit or beat	STRIKE OR BEAT	2133		zuk’-	zuk’- 
+655	15-9-22-1	7591835313333887	Bezhta	bezh1248	to cut	CUT	1432		-üč’-	-üč’- 
+656	15-9-222-1	7591835313333887	Bezhta	bezh1248	to chop	CHOP	155		-üč’-	-üč’- 
+657	15-9-223-1	7591835142842790	Bezhta	bezh1248	to stab	STAB TO DEATH	3189		xäƛe-	xäƛe- 
+658	15-9-23-1	7591835897211309	Bezhta	bezh1248	the knife(2)	KNIFE	1352		c’it’	c’it’ 
+659	15-9-24-1	7591835888426165	Bezhta	bezh1248	the scissors or shears	SHEARS	356		yüč’dänä	yüč’dänä 
+660	15-9-25-1	7591835516423356	Bezhta	bezh1248	the axe/ax	AXE	677		õg	õg 
+661	15-9-26-1	7591835867056682	Bezhta	bezh1248	to break	BREAK (DESTROY OR GET DESTROYED)	680		-išel-	-išel- 
+662	15-9-261-1	7591835982914363	Bezhta	bezh1248	broken	BROKEN (NOT WORKING)	3190		-išeyo	-išeyo 
+663	15-9-27-1	7591835867056682	Bezhta	bezh1248	to split	SPLIT	1437		-išel-	-išel- 
+664	15-9-28-1	7591835308711652	Bezhta	bezh1248	to tear	TEAR (SHRED)	1735		-äxel-	-äxel- 
+665	15-9-29-1	7591835311619490	Bezhta	bezh1248	to skin	PULL OFF (SKIN)	291		beš baɣo-	beš baɣo- 
+666	15-9-31-1	7591835832593909	Bezhta	bezh1248	to rub	RUB	1449		q’uq’o-	q’uq’o- 
+667	15-9-32-1	7591835758442378	Bezhta	bezh1248	to stretch	STRETCH	214		ƛ’isa-	ƛ’isa- 
+668	15-9-33-1	7591835758442378	Bezhta	bezh1248	to pull	PULL	1455		ƛ’isa-	ƛ’isa- 
+669	15-9-34-1	7591835405850571	Bezhta	bezh1248	to spread out	SPREAD OUT	38		t’ibit’izi -ow-	t’ibit’izi -ow- 
+670	15-9-341-1	7591835796821296	Bezhta	bezh1248	to hang up	HANG UP	357		-oxol-	-oxol- 
+671	15-9-342-1	7591835643317603	Bezhta	bezh1248	to press	PRESS	1913		q’azi -ow-	q’azi -ow- 
+672	15-9-343-1	7591835234500049	Bezhta	bezh1248	to squeeze	SQUEEZE	1414		t’uco-	t’uco- 
+673	15-9-35-1	7591835891738478	Bezhta	bezh1248	to pour	POUR	1487		git’-	git’- 
+674	15-9-36-1	7591835916090851	Bezhta	bezh1248	to wash	WASH	1453		niza-	niza- 
+675	15-9-37-1	7591835138939324	Bezhta	bezh1248	to sweep	SWEEP	230		ɬäƛo-	ɬäƛo- 
+676	15-9-38-1	7591835703328602	Bezhta	bezh1248	the broom	BROOM	245		müš	müš 
+677	15-9-422-1	7591835253190255	Bezhta	bezh1248	the tool	TOOL	1361		alat	alat 
+678	15-9-43-1	7591835633911946	Bezhta	bezh1248	the carpenter	CARPENTER	1042		wanas ustar	wanas ustar 
+679	15-9-44-1	7591835241126658	Bezhta	bezh1248	to build	BUILD	1840		-ow-	-ow- 
+680	15-9-46-1	7591835152178228	Bezhta	bezh1248	to bore	BORE	1501		-ähk’-	-ähk’- 
+681	15-9-461-1	7591835152178228	Bezhta	bezh1248	to hollow out	HOLLOW OUT	46		-ähk’-	-ähk’- 
+682	15-9-48-1	7591835114597888	Bezhta	bezh1248	the saw	SAW	1948		xoyɣo	xoyɣo 
+683	15-9-49-1	7591835576036962	Bezhta	bezh1248	the hammer	HAMMER	1481		t’öʔä	t’öʔä 
+684	15-9-5-1	759183530034957	Bezhta	bezh1248	the nail	NAIL (TOOL)	502		muq’o	muq’o 
+685	15-9-56-1	7591835817413723	Bezhta	bezh1248	the glue	GLUE	1069		keley	keley 
+686	15-9-6-1	7591835474359102	Bezhta	bezh1248	the blacksmith	BLACKSMITH	1001		q’ebed	q’ebed 
+687	15-9-62-1	7591835122639877	Bezhta	bezh1248	the anvil	ANVIL	1648		q’ō	q’ō 
+688	15-9-64-1	7591835738265578	Bezhta	bezh1248	the gold	GOLD	1369		mesed	mesed 
+689	15-9-65-1	7591835282838518	Bezhta	bezh1248	the silver	SILVER	759		okko	okko 
+690	15-9-66-1	7591835784026157	Bezhta	bezh1248	the copper	COPPER	1825		yez	yez 
+691	15-9-66-2	91261452476731398	Bezhta	bezh1248	the copper	COPPER	1825		mazgar	mazgar 
+692	15-9-67-1	7591835755498835	Bezhta	bezh1248	the iron	IRON	621		kil	kil 
+693	15-9-68-1	759183590664270	Bezhta	bezh1248	the lead	LEAD (CHEMICAL ELEMENT)	627		kobo	kobo 
+694	15-9-73-1	7591835812730684	Bezhta	bezh1248	the clay	CLAY	1399		mizo	mizo 
+695	15-9-74-1	7591835641174475	Bezhta	bezh1248	the glass	GLASS	604		c’ika	c’ika 
+696	15-9-76-1	7591835697704003	Bezhta	bezh1248	the basket	BASKET	1539		ked	ked 
+697	15-9-771-1	7591835297494466	Bezhta	bezh1248	the rug	RUG	292		bek’e	bek’e 
+698	15-9-78-1	7591835348904372	Bezhta	bezh1248	the netbag	NETBAG	293		sumka	sumka 
+699	15-9-79-1	7591835171364109	Bezhta	bezh1248	the fan	FAN (OBJECT)	1971		haboy	haboy 
+700	15-9-791-1	7591835669913915	Bezhta	bezh1248	to fan	FAN ACTION	360		zaƛo yow-	zaƛo yow- 
+701	15-9-84-1	7591835504835889	Bezhta	bezh1248	the chisel	CHISEL	1979		muq’	muq’ 
+702	15-9-88-1	7591835849156443	Bezhta	bezh1248	the paint	PAINT (PIGMENTS)	647		karaska	karaska 
+703	15-9-89-1	7591835255607799	Bezhta	bezh1248	to paint	PAINTING	2001		tüšöl-	tüšöl- 
+704	15-10-11-1	7591835555947901	Bezhta	bezh1248	to move	MOVE	765		baɣarzi -ow-	baɣarzi -ow- 
+705	15-10-12-1	7591835890106342	Bezhta	bezh1248	to turn	TURN	1588		k’äy -üᵑxöl-	k’äy -üᵑxöl- 
+706	15-10-13-1	7591835166303847	Bezhta	bezh1248	to turn around	TURN (SOMETHING)	1445		k’äy -üᵑxö-	k’äy -üᵑxö- 
+707	15-10-14-1	7591835162525081	Bezhta	bezh1248	to wrap	WRAP	1113		šöšö-	šöšö- 
+708	15-10-15-1	7591835981270782	Bezhta	bezh1248	to roll	ROLL	827		k’äyƛöl-	k’äyƛöl- 
+709	15-10-17-1	7591835981270782	Bezhta	bezh1248	to twist	TWIST (AROUND)	3199		k’äyƛöl-	k’äyƛöl- 
+710	15-10-21-1	759183572073711	Bezhta	bezh1248	to rise	RISE (MOVE UPWARDS)	568		hoʔoƛ’ak-	hoʔoƛ’ak- 
+711	15-10-21-2	91261538455390881	Bezhta	bezh1248	to rise	RISE (MOVE UPWARDS)	568		ƛ’oddāk-	ƛ’oddāk- 
+712	15-10-22-1	7591835349217984	Bezhta	bezh1248	to raise or lift	LIFT	501		hoʔoƛ’ak’-	hoʔoƛ’ak’- 
+713	15-10-22-2	91261542354449596	Bezhta	bezh1248	to raise or lift	LIFT	501		ƛ’oddāk’-	ƛ’oddāk’- 
+714	15-10-23-1	7591835314432088	Bezhta	bezh1248	to fall	FALL	1280		-ek-	-ek- 
+715	15-10-25-1	7591835616919979	Bezhta	bezh1248	to throw	THROW	1456		t’ut’-	t’ut’- 
+716	15-10-25-2	91261546486375053	Bezhta	bezh1248	to throw	THROW	1456		-iƛ’e-	-iƛ’e- 
+717	15-10-252-1	7591835138565844	Bezhta	bezh1248	to catch	CATCH	702		-ox-	-ox- 
+718	15-10-26-1	7591835849333863	Bezhta	bezh1248	to shake	SHAKE	1909		zurqurzi -ow-	zurqurzi -ow- 
+719	15-10-26-2	9126154825719309	Bezhta	bezh1248	to shake	SHAKE	1909		ɣirƛol-	ɣirƛol- 
+720	15-10-26-3	91261549126365134	Bezhta	bezh1248	to shake	SHAKE	1909		zuk’-zak’-	zuk’-zak’- 
+721	15-10-33-1	7591835922837403	Bezhta	bezh1248	to sink	SINK (DESCEND)	1088		ɣanq’izi -aq-	ɣanq’izi -aq- 
+722	15-10-34-1	7591835656513769	Bezhta	bezh1248	to float	FLOAT	1574		ẽxe yaɣo-	ẽxe yaɣo- 
+723	15-10-35-1	7591835678835050	Bezhta	bezh1248	to swim	SWIM	1439		ẽxeƛ’alƛ’ā -ẽƛ’e-	ẽxeƛ’alƛ’ā -ẽƛ’e- 
+724	15-10-351-1	7591835485760095	Bezhta	bezh1248	to dive	DIVE	119		ẽxeʔ -ogic’-	ẽxeʔ -ogic’- 
+725	15-10-351-2	912792650503448	Bezhta	bezh1248	to dive	DIVE	119		ƛ’äč -ẽƛ’e-	ƛ’äč -ẽƛ’e- 
+726	15-10-352-1	7591835511515024	Bezhta	bezh1248	to splash	SPLASH	365		ƛ’äčäri -ečel-	ƛ’äčäri -ečel- 
+727	15-10-37-1	7591835803459831	Bezhta	bezh1248	to fly	FLY (MOVE THROUGH AIR)	1441		hawalƛ’a -ogic’	hawalƛ’a -ogic’ 
+728	15-10-38-1	7591835885718061	Bezhta	bezh1248	to blow	BLOW (OF WIND)	175		püƛö-	püƛö- 
+729	15-10-41-1	759183525654307	Bezhta	bezh1248	to crawl	CRAWL	96		-aɣola-	-aɣola- 
+730	15-10-412-1	7591835313557115	Bezhta	bezh1248	to kneel	KNEEL	66		micnāƛ’a -ece-	micnāƛ’a -ece- 
+731	15-10-413-1	7591835962127971	Bezhta	bezh1248	to crouch	CROUCH	296		ɣuɣluƛ’a -ece-	ɣuɣluƛ’a -ece- 
+732	15-10-42-1	7591835736981186	Bezhta	bezh1248	to slide or slip	SLIP	1324		xix t’ot’o-	xix t’ot’o- 
+733	15-10-43-1	759183584403797	Bezhta	bezh1248	to jump	JUMP	1829		-ogic’-	-ogic’- 
+734	15-10-431-1	7591835672076966	Bezhta	bezh1248	to kick	KICK	1135		xäbä -äƛ’el-	xäbä -äƛ’el- 
+735	15-10-44-1	7591835527455180	Bezhta	bezh1248	to dance	DANCE	1879		ɬiso yow-	ɬiso yow- 
+736	15-10-451-1	7591835368234969	Bezhta	bezh1248	to limp	LIMP	366		läqdä-	läqdä- 
+737	15-10-46-1	7591835310611834	Bezhta	bezh1248	to run	RUN	1519		č’anaɣo-	č’anaɣo- 
+738	15-10-47-1	7591835849977021	Bezhta	bezh1248	to go	GO	695		-ẽƛ’e-	-ẽƛ’e- 
+739	15-10-471-1	7591835211970152	Bezhta	bezh1248	to go up	GO UP (ASCEND)	705		ƛ’oddã -ẽƛ’e-	ƛ’oddã -ẽƛ’e- 
+740	15-10-472-1	7591835546087424	Bezhta	bezh1248	to climb	CLIMB	1102		ƛ’oddã -aɣol-	ƛ’oddã -aɣol- 
+741	15-10-473-1	7591835651794828	Bezhta	bezh1248	to go down	GO DOWN (DESCEND)	2014		ƛiyodā -ẽƛ’e-	ƛiyodā -ẽƛ’e- 
+742	15-10-474-1	7591835150530988	Bezhta	bezh1248	to go out	GO OUT	1107		gisak-	gisak- 
+743	15-10-48-1	7591835580955435	Bezhta	bezh1248	to come	COME	1446		-õq”o-	-õq”o- 
+744	15-10-48-2	91261612847083853	Bezhta	bezh1248	to come	COME	1446		gow-	gow- 
+745	15-10-481-1	7591835283150644	Bezhta	bezh1248	to come back	COME BACK	581		ƛ’ǟ gow-	ƛ’ǟ gow- 
+746	15-10-49-1	7591835653124857	Bezhta	bezh1248	to leave	LEAVE	1752		-öčö-	-öčö- 
+747	15-10-491-1	7591835473598796	Bezhta	bezh1248	to disappear	DISAPPEAR	485		-oʔ-	-oʔ- 
+748	15-10-51-1	7591835862023802	Bezhta	bezh1248	to flee	FLEE	956		pixi yaɣo-	pixi yaɣo- 
+749	15-10-52-1	7591835175622233	Bezhta	bezh1248	to follow	FOLLOW	1085		müɣäƛ -ẽƛ’e-	müɣäƛ -ẽƛ’e- 
+750	15-10-53-1	7591835668150071	Bezhta	bezh1248	to pursue	PURSUE	1047		müɣäƛ -ece-	müɣäƛ -ece- 
+751	15-10-55-1	7591835846154385	Bezhta	bezh1248	to arrive	ARRIVE	1387		-õq’o-	-õq’o- 
+752	15-10-56-1	7591835722144590	Bezhta	bezh1248	to approach	APPROACH	1778		hicak-	hicak- 
+753	15-10-57-1	7591835243697875	Bezhta	bezh1248	to enter	ENTER	749		ẽdok-	ẽdok- 
+754	15-10-61-1	7591835831742098	Bezhta	bezh1248	to carry	CARRY	700		-eze-	-eze- 
+755	15-10-62-1	7591835826180024	Bezhta	bezh1248	to bring	BRING	692		-aq- (1)	-aq- (1) 
+756	15-10-63-1	7591835987246311	Bezhta	bezh1248	to send	SEND	1127		-ẽye-	-ẽye- 
+757	15-10-64-1	7591835831742098	Bezhta	bezh1248	to lead	LEAD (GUIDE)	43		-eze-	-eze- 
+758	15-10-67-1	7591835254415952	Bezhta	bezh1248	to push	PUSH	1452		zis toql-	zis toql- 
+759	15-10-71-1	7591835191114128	Bezhta	bezh1248	the road	ROAD	667		hino	hino 
+760	15-10-72-1	7591835292340593	Bezhta	bezh1248	the path	PATH	2252		bilik’i	bilik’i 
+761	15-10-74-1	7591835973728557	Bezhta	bezh1248	the bridge	BRIDGE	1011		t’iyo	t’iyo 
+762	15-10-75-1	7591835398325338	Bezhta	bezh1248	the cart or wagon	CART	122		urumi	urumi 
+763	15-10-76-1	7591835822104321	Bezhta	bezh1248	the wheel	WHEEL	710		örrä	örrä 
+764	15-10-77-1	759183562303231	Bezhta	bezh1248	the axle	AXLE	1769		k’obala	k’obala 
+765	15-10-78-1	7591835507603381	Bezhta	bezh1248	the yoke	YOKE	14		yuƛ’o	yuƛ’o 
+766	15-10-81-1	7591835246728208	Bezhta	bezh1248	the ship	SHIP	740		gama	gama 
+767	15-10-83-1	7591835535604595	Bezhta	bezh1248	the boat	BOAT	1844		nawi	nawi 
+768	15-10-85-1	7591835706195271	Bezhta	bezh1248	the oar	RUDDER	108		äkö	äkö 
+769	15-10-851-1	7591835706195271	Bezhta	bezh1248	the paddle	PADDLE	234		äkö	äkö 
+770	15-10-86-1	7591835855976197	Bezhta	bezh1248	the rudder	RUDDER	108		rul	rul 
+771	15-10-91-1	7591835267235123	Bezhta	bezh1248	the port	PORT	610		port	port 
+772	15-10-92-1	7591835370768285	Bezhta	bezh1248	to land	LAND (DESCEND)	1922		räʔälliƛ’a -ečel-	räʔälliƛ’a -ečel- 
+773	15-11-13-1	7591835275533726	Bezhta	bezh1248	to take	TAKE	1749		-ökči-	-ökči- 
+774	15-11-14-1	7591835138565844	Bezhta	bezh1248	to grasp	SEIZE	855		-ox-	-ox- 
+775	15-11-15-1	7591835138565844	Bezhta	bezh1248	to hold	HOLD	1448		-ox-	-ox- 
+776	15-11-16-1	7591835409662937	Bezhta	bezh1248	to get	GET	694		-īqo-	-īqo- 
+777	15-11-17-1	7591835157339088	Bezhta	bezh1248	to keep	KEEP	1477		c’umi -ow-	c’umi -ow- 
+778	15-11-18-1	7591835619292587	Bezhta	bezh1248	the thing	THING	738		žö	žö 
+779	15-11-21-1	7591835758509847	Bezhta	bezh1248	to give	GIVE	1447		niƛ-	niƛ- 
+780	15-11-22-1	7591835341638859	Bezhta	bezh1248	to give back	GIVE BACK	85		ƛ’ǟ niƛ-	ƛ’ǟ niƛ- 
+781	15-11-24-1	7591835157339088	Bezhta	bezh1248	to preserve	PRESERVE	1997		c’umi -ow-	c’umi -ow- 
+782	15-11-25-1	7591835233149881	Bezhta	bezh1248	to rescue	RESCUE	2008		xasar -ow-	xasar -ow- 
+783	15-11-27-1	7591835379498799	Bezhta	bezh1248	to destroy	DESTROY	681		-uɣol-	-uɣol- 
+784	15-11-28-1	7591835682763433	Bezhta	bezh1248	to injure	INJURE	44		zaral -ow-	zaral -ow- 
+785	15-11-31-1	759183513249730	Bezhta	bezh1248	to look for	LOOK FOR	1468		-ĩz-	-ĩz- 
+786	15-11-32-1	7591835867007214	Bezhta	bezh1248	to find	FIND	719		-ĩqo- (1)	-ĩqo- (1) 
+787	15-11-33-1	7591835897194317	Bezhta	bezh1248	to lose	LOSE	1660		-oʔl-	-oʔl- 
+788	15-11-34-1	7591835437982741	Bezhta	bezh1248	to let go	LET GO OR SET FREE	1095		-eccak’-	-eccak’- 
+789	15-11-43-1	7591835282838518	Bezhta	bezh1248	the money	MONEY	1559		okko	okko 
+790	15-11-44-1	7591835172068377	Bezhta	bezh1248	the coin	COIN	1867		kilos okko	kilos okko 
+791	15-11-51-1	7591835830906288	Bezhta	bezh1248	rich	RICH	712		bečedab	bečedab 
+792	15-11-52-1	7591835198471934	Bezhta	bezh1248	poor	POOR	1674		miskinab	miskinab 
+793	15-11-53-1	7591835939462077	Bezhta	bezh1248	the beggar	BEGGAR	1934		ok’dagi	ok’dagi 
+794	15-11-53-2	9127957989153059	Bezhta	bezh1248	the beggar	BEGGAR	1934		miskin	miskin 
+795	15-11-53-3	9127958134784246	Bezhta	bezh1248	the beggar	BEGGAR	1934		paq’ir	paq’ir 
+796	15-11-54-1	7591835606970035	Bezhta	bezh1248	stingy	STINGY	1774		baxilab	baxilab 
+797	15-11-61-1	7591835417306492	Bezhta	bezh1248	to lend	LEND	582		q’arza niƛ-	q’arza niƛ- 
+798	15-11-61-2	9127102534255450	Bezhta	bezh1248	to lend	LEND	582		yoc’ol niƛ-	yoc’ol niƛ- 
+799	15-11-62-1	7591835379439056	Bezhta	bezh1248	to borrow	BORROW	1823		q’arza -ok’-	q’arza -ok’- 
+800	15-11-62-2	9127104838508279	Bezhta	bezh1248	to borrow	BORROW	1823		yoc’ol -ok’-	yoc’ol -ok’- 
+801	15-11-63-1	7591835421039299	Bezhta	bezh1248	to owe	OWE	369		niƛal nuc’os	niƛal nuc’os 
+802	15-11-64-1	7591835829852121	Bezhta	bezh1248	the debt	DEBT	1914		nahɬi	nahɬi 
+803	15-11-65-1	7591835758509847	Bezhta	bezh1248	to pay	PAY	718		niƛ-	niƛ- 
+804	15-11-66-1	7591835677023786	Bezhta	bezh1248	the bill	BILL	1081		hisab	hisab 
+805	15-11-69-1	7591835722069134	Bezhta	bezh1248	the tax	TAX	873		nalog	nalog 
+806	15-11-77-1	7591835976424306	Bezhta	bezh1248	to hire	HIRE	856		ɬoɬil -ok’	ɬoɬil -ok’ 
+807	15-11-78-1	759183581469941	Bezhta	bezh1248	the wages	WAGES	1122		xarž	xarž 
+808	15-11-79-1	7591835967764299	Bezhta	bezh1248	to earn	EARN	733		okko -ow-	okko -ow- 
+809	15-11-81-1	7591835138565844	Bezhta	bezh1248	to buy	BUY	1869		-ox-	-ox- 
+810	15-11-82-1	759183531039419	Bezhta	bezh1248	to sell	SELL	1571		-ĩso-	-ĩso- 
+811	15-11-83-1	7591835185067531	Bezhta	bezh1248	to trade or barter	TRADE OR BARTER	2135		xüžö-	xüžö- 
+812	15-11-84-1	7591835740546247	Bezhta	bezh1248	the merchant	MERCHANT	1082		kupec	kupec 
+813	15-11-84-2	91271017524501955	Bezhta	bezh1248	the merchant	MERCHANT	1082		bazargan	bazargan 
+814	15-11-85-1	7591835485830403	Bezhta	bezh1248	the market	MARKET	633		bazay	bazay 
+815	15-11-86-1	759183531266253	Bezhta	bezh1248	the shop/store	STORE	752		koparat	koparat 
+816	15-11-86-2	91271020625071503	Bezhta	bezh1248	the shop/store	STORE	752		magazin	magazin 
+817	15-11-87-1	7591835176062890	Bezhta	bezh1248	the price	PRICE	657		baha	baha 
+818	15-11-88-1	7591835341389369	Bezhta	bezh1248	expensive	EXPENSIVE	1426		xirayab	xirayab 
+819	15-11-89-1	7591835466284826	Bezhta	bezh1248	cheap	CHEAP	1887		pihayab	pihayab 
+820	15-11-89-2	91271024462464336	Bezhta	bezh1248	cheap	CHEAP	1887		učuzab	učuzab 
+821	15-11-91-1	7591835418091918	Bezhta	bezh1248	to share	SHARE	884		-it’-	-it’- 
+822	15-11-92-1	7591835865207175	Bezhta	bezh1248	to weigh	WEIGH	1098		-ãsa-	-ãsa- 
+823	15-12-01-1	7591835219325824	Bezhta	bezh1248	after	AFTER	1685		beta	beta 
+824	15-12-011-1	7591835277871374	Bezhta	bezh1248	behind	BEHIND	1686		müɣäƛ	müɣäƛ 
+825	15-12-02-1	7591835651199273	Bezhta	bezh1248	beside	BESIDE	1816		-doy	-doy 
+826	15-12-02-2	91271028381762754	Bezhta	bezh1248	beside	BESIDE	1816		šeblaʔ	šeblaʔ 
+827	15-12-03-1	759183575811680	Bezhta	bezh1248	down	DOWN	1326		ƛiyo	ƛiyo 
+828	15-12-04-1	7591835362314297	Bezhta	bezh1248	before	BEFORE	1882		äᵑydā	äᵑydā 
+829	15-12-041-1	7591835733475952	Bezhta	bezh1248	in front of	IN FRONT OF	1883		äᵑydǟ	äᵑydǟ 
+830	15-12-05-1	7591835129813540	Bezhta	bezh1248	inside	INSIDE	1606		ẽdo	ẽdo 
+831	15-12-06-1	7591835155587839	Bezhta	bezh1248	outside	OUTSIDE	762		gisa	gisa 
+832	15-12-07-1	759183575811680	Bezhta	bezh1248	under	BELOW OR UNDER	1485		ƛiyo	ƛiyo 
+833	15-12-08-1	7591835782593476	Bezhta	bezh1248	up	UP	1591		ƛ’odo	ƛ’odo 
+834	15-12-11-1	7591835331257894	Bezhta	bezh1248	the place	PLACE (POSITION)	723		mäče	mäče 
+835	15-12-11-2	91271037528247502	Bezhta	bezh1248	the place	PLACE (POSITION)	723		mak’a	mak’a 
+836	15-12-12-1	7591835213875827	Bezhta	bezh1248	to put	PUT	998		gul-	gul- 
+837	15-12-13-1	7591835346930018	Bezhta	bezh1248	to sit	SIT	1416		q’ey -ece-	q’ey -ece- 
+838	15-12-14-1	7591835504545521	Bezhta	bezh1248	to lie down	LIE DOWN	215		-ut’	-ut’ 
+839	15-12-15-1	7591835532647413	Bezhta	bezh1248	to stand	STAND	1442		-ecoƛ’a -ece-	-ecoƛ’a -ece- 
+840	15-12-16-1	7591835736209265	Bezhta	bezh1248	to remain	REMAIN	987		hĩxɬ-	hĩxɬ- 
+841	15-12-17-1	7591835720236744	Bezhta	bezh1248	the remains	REMAINS	838		-yek-yõƛ’oyo	-yek-yõƛ’oyo 
+842	15-12-21-1	7591835398248759	Bezhta	bezh1248	to gather	GATHER	7		-ok’ol-	-ok’ol- 
+843	15-12-212-1	7591835398248759	Bezhta	bezh1248	to pick up	PICK UP	371		-ok’ol-	-ok’ol- 
+844	15-12-212-2	9127131234164933	Bezhta	bezh1248	to pick up	PICK UP	371		-õz-	-õz- 
+845	15-12-213-1	7591835317068963	Bezhta	bezh1248	to pile up	PILE UP	1576		-õso-	-õso- 
+846	15-12-213-2	91271314830350974	Bezhta	bezh1248	to pile up	PILE UP	1576		-ĩzok’-	-ĩzok’- 
+847	15-12-22-1	7591835427537736	Bezhta	bezh1248	to join	JOIN	1743		ɬišel- (2)	ɬišel- (2) 
+848	15-12-22-2	91271054937019744	Bezhta	bezh1248	to join	JOIN	1743		yiga-	yiga- 
+849	15-12-22-3	9127105524364088	Bezhta	bezh1248	to join	JOIN	1743		dandeɬizi -ow-	dandeɬizi -ow- 
+850	15-12-23-1	759183518224969	Bezhta	bezh1248	to separate	SEPARATE	1359		žüž -ẽye-	žüž -ẽye- 
+851	15-12-23-2	91271059595063774	Bezhta	bezh1248	to separate	SEPARATE	1359		žüžk’-	žüžk’- 
+852	15-12-23-3	91271059210643617	Bezhta	bezh1248	to separate	SEPARATE	1359		bat’a -ow-	bat’a -ow- 
+853	15-12-23-4	9127111871583289	Bezhta	bezh1248	to separate	SEPARATE	1359		bat’a -ẽye-	bat’a -ẽye- 
+854	15-12-232-1	7591835418091918	Bezhta	bezh1248	to divide	DIVIDE	1119		-it’-	-it’- 
+855	15-12-24-1	7591835694685230	Bezhta	bezh1248	to open	OPEN	1156		-ẽhe-	-ẽhe- 
+856	15-12-25-1	7591835146981700	Bezhta	bezh1248	to shut	SHUT	1046		-ĩqo- (2)	-ĩqo- (2) 
+857	15-12-27-1	7591835424755168	Bezhta	bezh1248	to hide	HIDE (CONCEAL)	602		-ũco-	-ũco- 
+858	15-12-31-1	7591835419195226	Bezhta	bezh1248	high	HIGH	1265		hoʔoƛ’a	hoʔoƛ’a 
+859	15-12-32-1	7591835609129991	Bezhta	bezh1248	low	LOW	721		ƛiyoƛ’a	ƛiyoƛ’a 
+860	15-12-32-2	9127119943720194	Bezhta	bezh1248	low	LOW	721		ziʔoƛ’a	ziʔoƛ’a 
+861	15-12-33-1	7591835467782926	Bezhta	bezh1248	the top	TOP	1753		k’oco	k’oco 
+862	15-12-34-1	7591835679257592	Bezhta	bezh1248	the bottom	BOTTOM	690		õƛ’o	õƛ’o 
+863	15-12-35-1	7591835105770951	Bezhta	bezh1248	the end(1)	END (OF SPACE)	742		axir	axir 
+864	15-12-35-2	7591835357187762	Bezhta	bezh1248	the end(1)	END (OF SPACE)	742		räʔäl	räʔäl 
+865	15-12-352-1	7591835362086714	Bezhta	bezh1248	pointed	POINTED	372		ac’c’o	ac’c’o 
+866	15-12-353-1	7591835357187762	Bezhta	bezh1248	the edge	EDGE	863		räʔäl	räʔäl 
+867	15-12-36-1	7591835280933291	Bezhta	bezh1248	the side	SIDE	682		raq	raq 
+868	15-12-37-1	7591835683363564	Bezhta	bezh1248	the middle	MIDDLE	1093		baƛos mäče	baƛos mäče 
+869	15-12-41-1	759183515468491	Bezhta	bezh1248	right(1)	RIGHT	1019		k’et’aƛ’as	k’et’aƛ’as 
+870	15-12-42-1	759183592658485	Bezhta	bezh1248	left	LEFT	244		õƛ’aƛ’as	õƛ’aƛ’as 
+871	15-12-43-1	7591835771389490	Bezhta	bezh1248	near	NEAR	1942		hica	hica 
+872	15-12-44-1	759183567426997	Bezhta	bezh1248	far	FAR	1406		c’ixo	c’ixo 
+873	15-12-45-1	7591835982790446	Bezhta	bezh1248	the east	EAST	1877		mašriq’	mašriq’ 
+874	15-12-46-1	759183595376655	Bezhta	bezh1248	the west	WEST	1817		maɣrib	maɣrib 
+875	15-12-47-1	7591835163710117	Bezhta	bezh1248	the north	NORTH	1598		õq’q’aʔdās mäče	õq’q’aʔdās mäče 
+876	15-12-48-1	7591835287268440	Bezhta	bezh1248	the south	SOUTH	1595		biqqaʔdās mäče	biqqaʔdās mäče 
+877	15-12-48-2	91271238298132471	Bezhta	bezh1248	the south	SOUTH	1595		q’ilma	q’ilma 
+878	15-12-53-1	7591835355876129	Bezhta	bezh1248	to grow	GROW	479		-uq’ɬ-	-uq’ɬ- 
+879	15-12-54-1	7591835865207175	Bezhta	bezh1248	to measure	MEASURE	1506		-ãsa-	-ãsa- 
+880	15-12-55-1	759183518072734	Bezhta	bezh1248	big	BIG	1202		-uq’o-	-uq’o- 
+881	15-12-56-1	7591835147805254	Bezhta	bezh1248	small	SMALL	1246		it’ino	it’ino 
+882	15-12-57-1	7591835414931450	Bezhta	bezh1248	long	LONG	1203		-ixalo	-ixalo 
+883	15-12-58-1	7591835152140975	Bezhta	bezh1248	tall	TALL	711		hoʔoƛ’as	hoʔoƛ’as 
+884	15-12-58-2	9127124294333301	Bezhta	bezh1248	tall	TALL	711		hoʔō	hoʔō 
+885	15-12-58-3	7591835414931450	Bezhta	bezh1248	tall	TALL	711		-ixalo	-ixalo 
+886	15-12-59-1	7591835579044862	Bezhta	bezh1248	short	SHORT	1645		-äᵑššö	-äᵑššö 
+887	15-12-61-1	7591835921433581	Bezhta	bezh1248	wide	WIDE	1243		q’eq’q’o	q’eq’q’o 
+888	15-12-62-1	7591835610241615	Bezhta	bezh1248	narrow	NARROW	1267		qusso	qusso 
+889	15-12-63-1	7591835205538604	Bezhta	bezh1248	thick	THICK	1244		xet’t’o	xet’t’o 
+890	15-12-65-1	7591835604773063	Bezhta	bezh1248	thin	THIN (OF SHAPE OF OBJECT)	2249		ƛämmö	ƛämmö 
+891	15-12-67-1	7591835868064791	Bezhta	bezh1248	deep	DEEP	1593		giɬillo	giɬillo 
+892	15-12-68-1	7591835290736134	Bezhta	bezh1248	shallow	SHALLOW	193		šüššö	šüššö 
+893	15-12-71-1	7591835740330436	Bezhta	bezh1248	flat	FLAT	1633		ät’idab	ät’idab 
+894	15-12-71-2	7591835716439279	Bezhta	bezh1248	flat	FLAT	1633		-ẽɬeyo	-ẽɬeyo 
+895	15-12-73-1	7591835579965757	Bezhta	bezh1248	straight	STRAIGHT	1404		-ãq’oyc’oyo	-ãq’oyc’oyo 
+896	15-12-74-1	7591835405368614	Bezhta	bezh1248	crooked	CROOKED	297		č’ek’diyo	č’ek’diyo 
+897	15-12-75-1	759183541250863	Bezhta	bezh1248	the hook	HOOK	1071		k’öxäde	k’öxäde 
+898	15-12-76-1	7591835278236036	Bezhta	bezh1248	the corner	CORNER	192		buƛ’o	buƛ’o 
+899	15-12-77-1	759183530812804	Bezhta	bezh1248	the cross	CROSS	1367		qanč	qanč 
+900	15-12-77-2	91271258387360491	Bezhta	bezh1248	the cross	CROSS	1367		qača	qača 
+901	15-12-78-1	7591835369372992	Bezhta	bezh1248	the square	SQUARE	850		öᵑq”öbuƛ’o	öᵑq”öbuƛ’o 
+902	15-12-81-1	7591835853809600	Bezhta	bezh1248	round	ROUND	1395		gomordiyo	gomordiyo 
+903	15-12-82-1	7591835594982799	Bezhta	bezh1248	the circle	CIRCLE	1467		gor	gor 
+904	15-12-82-2	9127134895572811	Bezhta	bezh1248	the circle	CIRCLE	1467		k’öyyä	k’öyyä 
+905	15-12-83-1	7591835337135620	Bezhta	bezh1248	the ball	BALL	1845		šar	šar 
+906	15-12-84-1	7591835743405601	Bezhta	bezh1248	the line	LINE	1048		muq	muq 
+907	15-12-85-1	759183574123358	Bezhta	bezh1248	the hole	HOLE	1667		äᵑheyo	äᵑheyo 
+908	15-12-85-2	9127137794949616	Bezhta	bezh1248	the hole	HOLE	1667		q’öč’ö	q’öč’ö 
+909	15-12-92-1	7591835716439279	Bezhta	bezh1248	similar	SIMILAR	1558		-ẽɬeyo	-ẽɬeyo 
+910	15-12-93-1	7591835185067531	Bezhta	bezh1248	to change	CHANGE	1264		xüžö-	xüžö- 
+911	15-13-1	7591835235541039	Bezhta	bezh1248	zero	ZERO	1294		nol	nol 
+912	15-13-01-1	7591835591376188	Bezhta	bezh1248	one	ONE	1493		hõs	hõs 
+913	15-13-02-1	7591835197015248	Bezhta	bezh1248	two	TWO	1498		q’ona	q’ona 
+914	15-13-03-1	7591835169788431	Bezhta	bezh1248	three	THREE	492		ɬana	ɬana 
+915	15-13-04-1	759183579874269	Bezhta	bezh1248	four	FOUR	1500		öᵑq’önä	öᵑq’önä 
+916	15-13-05-1	7591835463347195	Bezhta	bezh1248	five	FIVE	493		ɬina	ɬina 
+917	15-13-06-1	7591835721287228	Bezhta	bezh1248	six	SIX	1703		iɬna	iɬna 
+918	15-13-07-1	7591835720917605	Bezhta	bezh1248	seven	SEVEN	1704		aƛna	aƛna 
+919	15-13-08-1	7591835495425615	Bezhta	bezh1248	eight	EIGHT	1705		beƛna	beƛna 
+920	15-13-09-1	7591835250770148	Bezhta	bezh1248	nine	NINE	1483		äč’ena	äč’ena 
+921	15-13-1-1	7591835340759132	Bezhta	bezh1248	ten	TEN	1515		ac’ona	ac’ona 
+922	15-13-101-1	7591835672914448	Bezhta	bezh1248	eleven	ELEVEN	1706		ac’ona hõs	ac’ona hõs 
+923	15-13-102-1	7591835441324356	Bezhta	bezh1248	twelve	TWELVE	1707		ac’ona q’ona	ac’ona q’ona 
+924	15-13-103-1	7591835271285832	Bezhta	bezh1248	fifteen	FIFTEEN	1709		ac’ona ɬina	ac’ona ɬina 
+925	15-13-104-1	7591835720659606	Bezhta	bezh1248	twenty	TWENTY	1710		qona	qona 
+926	15-13-105-1	7591835346704714	Bezhta	bezh1248	a hundred	HUNDRED	1634		hõsč’it’	hõsč’it’ 
+927	15-13-106-1	7591835560950420	Bezhta	bezh1248	a thousand	THOUSAND	1843		hazay	hazay 
+928	15-13-107-1	7591835399448321	Bezhta	bezh1248	to count	COUNT	1420		qowo-	qowo- 
+929	15-13-14-1	7591835477686991	Bezhta	bezh1248	all	ALL	98		q’ac’c’o	q’ac’c’o 
+930	15-13-15-1	7591835508160	Bezhta	bezh1248	many	MANY	1198		teli	teli 
+931	15-13-15-2	91271330553955983	Bezhta	bezh1248	many	MANY	1198		dīs	dīs 
+932	15-13-15-3	91271331392982807	Bezhta	bezh1248	many	MANY	1198		öllö	öllö 
+933	15-13-15-4	7591835944955755	Bezhta	bezh1248	many	MANY	1198		ladi	ladi 
+934	15-13-16-1	7591835370783861	Bezhta	bezh1248	more	MORE	1992		t’ok’ab	t’ok’ab 
+935	15-13-17-1	7591835986522691	Bezhta	bezh1248	few	FEW	1242		yöƛ’ƛ’ä	yöƛ’ƛ’ä 
+936	15-13-17-2	91271334326131487	Bezhta	bezh1248	few	FEW	1242		däh	däh 
+937	15-13-18-1	7591835911672380	Bezhta	bezh1248	enough	ENOUGH	1881		ezzeʔan	ezzeʔan 
+938	15-13-181-1	7591835990419456	Bezhta	bezh1248	some	SOME	1241		lasodi	lasodi 
+939	15-13-19-1	7591835944955755	Bezhta	bezh1248	the crowd	CROWD	2023		ladi	ladi 
+940	15-13-21-1	7591835116023333	Bezhta	bezh1248	full	FULL	1429		-oc’iyo	-oc’iyo 
+941	15-13-21-2	91271338388458678	Bezhta	bezh1248	full	FULL	1429		üč’äräb	üč’äräb 
+942	15-13-22-1	759183567480477	Bezhta	bezh1248	empty	EMPTY	1624		-öč’č’ö	-öč’č’ö 
+943	15-13-23-1	759183578090878	Bezhta	bezh1248	the part	PART	779		but’a	but’a 
+944	15-13-24-1	7591835214010910	Bezhta	bezh1248	the half	HALF	816		yaƛƛokos	yaƛƛokos 
+945	15-13-33-1	7591835300678866	Bezhta	bezh1248	only	ONLY	1580		hõs gähiyo	hõs gähiyo 
+946	15-13-34-1	7591835614585479	Bezhta	bezh1248	first	FIRST	728		äᵑddǟš	äᵑddǟš 
+947	15-13-35-1	759183575176018	Bezhta	bezh1248	last	LAST (FINAL)	1529		müɣättǟš	müɣättǟš 
+948	15-13-36-1	7591835307878569	Bezhta	bezh1248	second	SECOND	1384		q’onas	q’onas 
+949	15-13-36-2	91271346244248930	Bezhta	bezh1248	second	SECOND	1384		q’ona iyaƛeyo	q’ona iyaƛeyo 
+950	15-13-37-1	7591835372221169	Bezhta	bezh1248	the pair	PAIR	1888		čut	čut 
+951	15-13-37-2	7591835507603381	Bezhta	bezh1248	the pair	PAIR	1888		yuƛ’o	yuƛ’o 
+952	15-13-38-1	7591835996424747	Bezhta	bezh1248	twice/two times	TWICE	1546		k’axna	k’axna 
+953	15-13-42-1	759183527362513	Bezhta	bezh1248	third	THIRD	1859		ɬanas	ɬanas 
+954	15-13-44-1	7591835984354722	Bezhta	bezh1248	three times	THREE TIMES	417		ɬaxna	ɬaxna 
+955	15-14-11-1	7591835974009384	Bezhta	bezh1248	the time	TIME	892		mex	mex 
+956	15-14-11-2	91271539480290005	Bezhta	bezh1248	the time	TIME	892		anta	anta 
+957	15-14-11-3	91271539531569363	Bezhta	bezh1248	the time	TIME	892		zaman	zaman 
+958	15-14-12-1	7591835197196788	Bezhta	bezh1248	the age	AGE	1789		asru	asru 
+959	15-14-13-1	7591835413518154	Bezhta	bezh1248	new	NEW	1231		ic’c’o	ic’c’o 
+960	15-14-14-1	7591835285017700	Bezhta	bezh1248	young	YOUNG	1207		ölöqänäb	ölöqänäb 
+961	15-14-15-1	7591835251774795	Bezhta	bezh1248	old	OLD	1229		kello	kello 
+962	15-14-16-1	7591835555471685	Bezhta	bezh1248	early	EARLY	672		q’ayƛ’a	q’ayƛ’a 
+963	15-14-17-1	7591835438543018	Bezhta	bezh1248	late	LATE	477		hako	hako 
+964	15-14-18-1	7591835138433259	Bezhta	bezh1248	now	NOW	1376		že	že 
+965	15-14-19-1	7591835771549971	Bezhta	bezh1248	immediately	IMMEDIATELY	1963		že dande	že dande 
+966	15-14-19-2	91271547842877034	Bezhta	bezh1248	immediately	IMMEDIATELY	1963		habsaʔat	habsaʔat 
+967	15-14-22-1	7591835349036345	Bezhta	bezh1248	slow	SLOW	701		häte	häte 
+968	15-14-23-1	7591835297684757	Bezhta	bezh1248	to hurry	HURRY	754		edeʔzi -aq-	edeʔzi -aq- 
+969	15-14-24-1	759183562207035	Bezhta	bezh1248	to be late	BE LATE	425		hakoɬ-	hakoɬ- 
+970	15-14-25-1	7591835869435108	Bezhta	bezh1248	to begin	BEGIN	1806		-üxöɬ-	-üxöɬ- 
+971	15-14-252-1	7591835867527460	Bezhta	bezh1248	to last	LAST (ENDURE)	1186		-ixaloɬ-	-ixaloɬ- 
+972	15-14-26-1	7591835105770951	Bezhta	bezh1248	the end(2)	END (OF TIME)	743		axir	axir 
+973	15-14-27-1	7591835801581080	Bezhta	bezh1248	to finish	FINISH	1766		-oɬol-	-oɬol- 
+974	15-14-27-2	9127161659391438	Bezhta	bezh1248	to finish	FINISH	1766		ɬiq‘ol-	ɬiq‘ol- 
+975	15-14-28-1	7591835239992833	Bezhta	bezh1248	to cease	CEASE	1928		-ečenoc’l-	-ečenoc’l- 
+976	15-14-29-1	7591835660455396	Bezhta	bezh1248	ready	READY	790		hädüräb	hädüräb 
+977	15-14-31-1	7591835256129628	Bezhta	bezh1248	always	ALWAYS	1676		nitonazu	nitonazu 
+978	15-14-32-1	7591835508160	Bezhta	bezh1248	often	OFTEN	1852		teli	teli 
+979	15-14-33-1	7591835860990714	Bezhta	bezh1248	sometimes	SOMETIMES	1544		hãq’q’alaʔ	hãq’q’alaʔ 
+980	15-14-33-2	91271612815743300	Bezhta	bezh1248	sometimes	SOMETIMES	1544		hõsolaʔ	hõsolaʔ 
+981	15-14-33-3	91271613412326134	Bezhta	bezh1248	sometimes	SOMETIMES	1544		mex-mexlaʔ	mex-mexlaʔ 
+982	15-14-33-4	91271614764537811	Bezhta	bezh1248	sometimes	SOMETIMES	1544		zama-zamalliʔ	zama-zamalliʔ 
+983	15-14-331-1	7591835736161584	Bezhta	bezh1248	soon	SOON	703		hakoɬeče	hakoɬeče 
+984	15-14-332-1	7591835613554122	Bezhta	bezh1248	for a long time	FOR A LONG TIME	418		-ixalaɣa	-ixalaɣa 
+985	15-14-332-2	9127172433003670	Bezhta	bezh1248	for a long time	FOR A LONG TIME	418		tabanab	tabanab 
+986	15-14-34-1	7591835977600368	Bezhta	bezh1248	never	NEVER	1656		hãq’q’ana	hãq’q’ana 
+987	15-14-34-2	91271616302436073	Bezhta	bezh1248	never	NEVER	1656		hõsna	hõsna 
+988	15-14-35-1	759183591300667	Bezhta	bezh1248	again	AGAIN	204		betana	betana 
+989	15-14-35-2	91271617978441634	Bezhta	bezh1248	again	AGAIN	204		ƛ’ǟna	ƛ’ǟna 
+990	15-14-41-1	7591835190890993	Bezhta	bezh1248	the day(1)	DAY (24 HOURS)	1260		wodo	wodo 
+991	15-14-42-1	7591835162464134	Bezhta	bezh1248	the night	NIGHT	1233		nišeš mex	nišeš mex 
+992	15-14-43-1	7591835116183462	Bezhta	bezh1248	the dawn	DAWN	729		käčeɬiyooɬi	käčeɬiyooɬi 
+993	15-14-44-1	7591835130107201	Bezhta	bezh1248	the morning	MORNING	1339		xisƛ’as mex	xisƛ’as mex 
+994	15-14-45-1	7591835493973157	Bezhta	bezh1248	the midday	MIDDAY	12		ƛobaƛ’as mex	ƛobaƛ’as mex 
+995	15-14-46-1	7591835836937452	Bezhta	bezh1248	the evening	EVENING	1629		marč’ok’oɬso mex	marč’ok’oɬso mex 
+996	15-14-47-1	7591835750504870	Bezhta	bezh1248	today	TODAY	1283		žeysa	žeysa 
+997	15-14-48-1	7591835674973092	Bezhta	bezh1248	tomorrow	TOMORROW	1329		xisa	xisa 
+998	15-14-481-1	7591835526249476	Bezhta	bezh1248	the day after tomorrow	DAY AFTER TOMORROW	1179		xisalaɬ	xisalaɬ 
+999	15-14-49-1	7591835888755295	Bezhta	bezh1248	yesterday	YESTERDAY	1174		hũɬ	hũɬ 
+1000	15-14-491-1	7591835190963356	Bezhta	bezh1248	the day before yesterday	DAY BEFORE YESTERDAY	1180		hũɬlaɬ	hũɬlaɬ 
+1001	15-14-51-1	7591835897056393	Bezhta	bezh1248	the hour	HOUR	1353		saʔat	saʔat 
+1002	15-14-53-1	7591835897056393	Bezhta	bezh1248	the clock	CLOCK	1323		saʔat	saʔat 
+1003	15-14-61-1	7591835966225492	Bezhta	bezh1248	the week	WEEK	1469		anƛ’	anƛ’ 
+1004	15-14-62-1	7591835780479941	Bezhta	bezh1248	Sunday	SUNDAY	1699		wixadnoy	wixadnoy 
+1005	15-14-62-2	91271632624188767	Bezhta	bezh1248	Sunday	SUNDAY	1699		bazay-wodo	bazay-wodo 
+1006	15-14-63-1	7591835620710454	Bezhta	bezh1248	Monday	MONDAY	1697		itni	itni 
+1007	15-14-63-2	91271635451418660	Bezhta	bezh1248	Monday	MONDAY	1697		panidennik	panidennik 
+1008	15-14-64-1	7591835369384248	Bezhta	bezh1248	Tuesday	TUESDAY	1695		talat	talat 
+1009	15-14-64-2	91271637837582216	Bezhta	bezh1248	Tuesday	TUESDAY	1695		ftornik	ftornik 
+1010	15-14-65-1	7591835609784472	Bezhta	bezh1248	Wednesday	WEDNESDAY	1694		arbaʔ	arbaʔ 
+1011	15-14-65-2	91271641995344649	Bezhta	bezh1248	Wednesday	WEDNESDAY	1694		sereda	sereda 
+1012	15-14-66-1	759183594356434	Bezhta	bezh1248	Thursday	THURSDAY	1693		četverg	četverg 
+1013	15-14-66-2	9127163984401242	Bezhta	bezh1248	Thursday	THURSDAY	1693		xamiz	xamiz 
+1014	15-14-67-1	7591835656263784	Bezhta	bezh1248	Friday	FRIDAY	1692		müžmär	müžmär 
+1015	15-14-67-2	91271648484258651	Bezhta	bezh1248	Friday	FRIDAY	1692		pijatnica	pijatnica 
+1016	15-14-68-1	7591835211533388	Bezhta	bezh1248	Saturday	SATURDAY	1700		subota	subota 
+1017	15-14-68-2	91271650956939716	Bezhta	bezh1248	Saturday	SATURDAY	1700		šamat	šamat 
+1018	15-14-71-1	7591835121773064	Bezhta	bezh1248	the month	MONTH	1370		month	month 
+1019	15-14-73-1	7591835928917921	Bezhta	bezh1248	the year	YEAR	1226		ƛi	ƛi 
+1020	15-14-74-1	7591835940997237	Bezhta	bezh1248	the winter	WINTER	1471		ƛine	ƛine 
+1021	15-14-75-1	7591835980349058	Bezhta	bezh1248	the spring(2)	SPRINGTIME	1537		emedās mex	emedās mex 
+1022	15-14-76-1	7591835431409268	Bezhta	bezh1248	the summer	SUMMER	1342		azo	azo 
+1023	15-14-77-1	7591835801736164	Bezhta	bezh1248	the autumn/fall	AUTUMN	1276		sibowas mex	sibowas mex 
+1024	15-14-78-1	7591835146451348	Bezhta	bezh1248	the season	SEASON	691		ƛis mex	ƛis mex 
+1025	15-14-78-2	9127165530121171	Bezhta	bezh1248	the season	SEASON	691		ƛis zaman	ƛis zaman 
+1026	15-15-21-1	7591835941017573	Bezhta	bezh1248	to smell(1)	SMELL (STINK)	1587		mäh baq-	mäh baq- 
+1027	15-15-89-1	7591835610012084	Bezhta	bezh1248	wrinkled	WRINKLED	380		-öɣ--ök’öyö	-öɣ--ök’öyö 
+1028	15-15-22-1	7591835138576906	Bezhta	bezh1248	to smell(2)	SMELL (PERCEIVE)	1586		mäh biq’el-	mäh biq’el- 
+1029	15-15-35-1	7591835691443994	Bezhta	bezh1248	sweet	SWEET	717		niyā	niyā 
+1030	15-15-36-1	7591835657368090	Bezhta	bezh1248	salty	SALTY	1091		cixā	cixā 
+1031	15-15-37-1	7591835283335937	Bezhta	bezh1248	bitter	BITTER	887		niq’ā	niq’ā 
+1032	15-15-38-1	7591835316858364	Bezhta	bezh1248	sour	SOUR	1906		čačalo	čačalo 
+1033	15-15-39-1	7591835427535896	Bezhta	bezh1248	brackish	BRACKISH	70		cixaɬiyo	cixaɬiyo 
+1034	15-15-41-1	7591835228862100	Bezhta	bezh1248	to hear	HEAR	1408		tuq-	tuq- 
+1035	15-15-42-1	7591835559680578	Bezhta	bezh1248	to listen	LISTEN	1608		enekzi -aq-	enekzi -aq- 
+1036	15-15-44-1	7591835106813986	Bezhta	bezh1248	the sound or noise	SOUND OR NOISE	1811		sas	sas 
+1037	15-15-44-2	9128922803237251	Bezhta	bezh1248	the sound or noise	SOUND OR NOISE	1811		quy	quy 
+1038	15-15-45-1	759183518072734	Bezhta	bezh1248	loud	LOUD	377		-uq’o-	-uq’o- 
+1039	15-15-46-1	7591835147805254	Bezhta	bezh1248	quiet	QUIET	1314		it’ino	it’ino 
+1040	15-15-51-1	7591835572952939	Bezhta	bezh1248	to see	SEE	1409		-ega-	-ega- 
+1041	15-15-52-1	7591835798686219	Bezhta	bezh1248	to look	LOOK	1819		gowac’o-	gowac’o- 
+1042	15-15-55-1	7591835899303799	Bezhta	bezh1248	to show	SHOW	1039		-egala-	-egala- 
+1043	15-15-56-1	7591835149501826	Bezhta	bezh1248	to shine	SHINE	708		kanɬi niƛ-	kanɬi niƛ- 
+1044	15-15-56-2	9128928482367666	Bezhta	bezh1248	to shine	SHINE	708		boq biƛ’e-	boq biƛ’e- 
+1045	15-15-61-1	7591835852966237	Bezhta	bezh1248	the colour/color	COLOR	1613		ƛ’ey	ƛ’ey 
+1046	15-15-62-1	7591835797900702	Bezhta	bezh1248	light(2)	LIGHT (COLOR)	250		käččö	käččö 
+1047	15-15-63-1	7591835353055167	Bezhta	bezh1248	dark	DARK	706		koƛƛo	koƛƛo 
+1048	15-15-64-1	7591835617615420	Bezhta	bezh1248	white	WHITE	1335		häldiyo	häldiyo 
+1049	15-15-65-1	7591835290626830	Bezhta	bezh1248	black	BLACK	163		c’odolo	c’odolo 
+1050	15-15-66-1	7591835613035402	Bezhta	bezh1248	red	RED	156		c’uddo	c’uddo 
+1051	15-15-67-1	7591835626928990	Bezhta	bezh1248	blue	BLUE	837		hacaɣas	hacaɣas 
+1052	15-15-67-2	9128943363392378	Bezhta	bezh1248	blue	BLUE	837		nicaʔas	nicaʔas 
+1053	15-15-67-3	912894536175196	Bezhta	bezh1248	blue	BLUE	837		ničdiyo	ničdiyo 
+1054	15-15-68-1	7591835380931725	Bezhta	bezh1248	green	GREEN	1425		heƛaɬcoʔos	heƛaɬcoʔos 
+1055	15-15-68-2	9128948832016618	Bezhta	bezh1248	green	GREEN	1425		green	green 
+1056	15-15-69-1	7591835580093707	Bezhta	bezh1248	yellow	YELLOW	1424		ukliʔis	ukliʔis 
+1057	15-15-71-1	7591835487107757	Bezhta	bezh1248	to touch	TOUCH	1892		-ẽxel-	-ẽxel- 
+1058	15-15-712-1	7591835867120937	Bezhta	bezh1248	to pinch	PINCH	378		-üwö	-üwö 
+1059	15-15-712-2	9128953240962960	Bezhta	bezh1248	to pinch	PINCH	378		-ut’o-	-ut’o- 
+1060	15-15-72-1	7591835741785243	Bezhta	bezh1248	to feel	FEEL	1079		-üwö-	-üwö- 
+1061	15-15-72-2	9128953240962960	Bezhta	bezh1248	to feel	FEEL	1079		-ut’o-	-ut’o- 
+1062	15-15-74-1	7591835878385310	Bezhta	bezh1248	hard	HARD	1884		qäč’č’ö	qäč’č’ö 
+1063	15-15-75-1	7591835214196745	Bezhta	bezh1248	soft	SOFT	1856		tötilö	tötilö 
+1064	15-15-76-1	7591835878385310	Bezhta	bezh1248	rough(1)	ROUGH	1923		qäč’č’ö	qäč’č’ö 
+1065	15-15-76-2	912895872065357	Bezhta	bezh1248	rough(1)	ROUGH	1923		qöqilö	qöqilö 
+1066	15-15-77-1	7591835381743681	Bezhta	bezh1248	smooth	SMOOTH	1234		k’ak’alo	k’ak’alo 
+1067	15-15-78-1	7591835479318090	Bezhta	bezh1248	sharp	SHARP	1396		ãc’c’o	ãc’c’o 
+1068	15-15-79-1	759183572467765	Bezhta	bezh1248	blunt	BLUNT	379		böt’t’ö	böt’t’ö 
+1069	15-15-81-1	7591835238646958	Bezhta	bezh1248	heavy	HEAVY	1210		-äq’q’ö	-äq’q’ö 
+1070	15-15-82-1	7591835929983512	Bezhta	bezh1248	light(1)	LIGHT (WEIGHT)	1052		kikko	kikko 
+1071	15-15-83-1	7591835934721728	Bezhta	bezh1248	wet	WET	1726		-ĩʔā	-ĩʔā 
+1072	15-15-84-1	7591835106678457	Bezhta	bezh1248	dry	DRY	1398		qoqō	qoqō 
+1073	15-15-85-1	7591835366184952	Bezhta	bezh1248	hot	HOT	1286		-ek’eyo	-ek’eyo 
+1074	15-15-851-1	7591835984739042	Bezhta	bezh1248	warm	WARM	1232		-ixxo	-ixxo 
+1075	15-15-86-1	7591835460471927	Bezhta	bezh1248	cold	COLD	1287		-äč’č’ö	-äč’č’ö 
+1076	15-15-87-1	7591835247756856	Bezhta	bezh1248	clean	CLEAN	704		-ãcō	-ãcō 
+1077	15-15-88-1	759183558563331	Bezhta	bezh1248	dirty	DIRTY	1230		čikeyo	čikeyo 
+1078	15-16-11-1	7591835179171152	Bezhta	bezh1248	the soul or spirit	SOUL	811		rüh	rüh 
+1079	15-16-15-1	7591835319411243	Bezhta	bezh1248	surprised or astonished	SURPRISED	1572		häyrän -aqiyo	häyrän -aqiyo 
+1080	15-16-15-2	91281030683113721	Bezhta	bezh1248	surprised or astonished	SURPRISED	1572		häyränäb	häyränäb 
+1081	15-16-18-1	7591835780700125	Bezhta	bezh1248	the good luck	GOOD LUCK	720		bax	bax 
+1082	15-16-18-2	91281033813485542	Bezhta	bezh1248	the good luck	GOOD LUCK	720		talih	talih 
+1083	15-16-19-1	7591835856745232	Bezhta	bezh1248	the bad luck	BAD LUCK	56		talih buɣōɬi	talih buɣōɬi 
+1084	15-16-23-1	7591835115841698	Bezhta	bezh1248	happy	HAPPY	1495		talihab	talihab 
+1085	15-16-25-1	7591835377972759	Bezhta	bezh1248	to laugh	LAUGH	1355		ɬöwa-	ɬöwa- 
+1086	15-16-251-1	7591835421426355	Bezhta	bezh1248	to smile	SMILE	1451		ɬõh t’ikel-	ɬõh t’ikel- 
+1087	15-16-26-1	7591835558526051	Bezhta	bezh1248	to play	PLAY	1413		k’isa-	k’isa- 
+1088	15-16-27-1	7591835204373683	Bezhta	bezh1248	to love	LOVE	923		-at’-	-at’- 
+1089	15-16-29-1	7591835755180022	Bezhta	bezh1248	to kiss	KISS	578		baʔƛo-	baʔƛo- 
+1090	15-16-3-1	7591835382228737	Bezhta	bezh1248	to embrace	EMBRACE	928		ãɬo yoc’-	ãɬo yoc’- 
+1091	15-16-31-1	7591835971975692	Bezhta	bezh1248	the pain	PAIN	1783		unti	unti 
+1092	15-16-31-2	91251625357281840	Bezhta	bezh1248	the pain	PAIN	1783		k’ok’ōɬi	k’ok’ōɬi 
+1093	15-16-32-1	7591835133892932	Bezhta	bezh1248	the grief	GRIEF	1668		q’ariɬi	q’ariɬi 
+1094	15-16-33-1	7591835394054116	Bezhta	bezh1248	the anxiety	ANXIETY	1000		ähi	ähi 
+1095	15-16-34-1	7591835772476052	Bezhta	bezh1248	to regret or be sorry	REGRET	1875		yak’o yuɣo-	yak’o yuɣo- 
+1096	15-16-35-1	7591835801189799	Bezhta	bezh1248	the pity	PITY	1141		gurhel	gurhel 
+1097	15-16-37-1	7591835532332143	Bezhta	bezh1248	to cry	CRY	1839		-ĩya-	-ĩya- 
+1098	15-16-38-1	759183580000530	Bezhta	bezh1248	the tear	TEAR (OF EYE)	1651		maq’o (1)	maq’o (1) 
+1099	15-16-39-1	7591835451045974	Bezhta	bezh1248	to groan	GROAN	716		okda-	okda- 
+1100	15-16-41-1	7591835923346056	Bezhta	bezh1248	to hate	HATE	1607		rixzi -aq-	rixzi -aq- 
+1101	15-16-42-1	7591835604826166	Bezhta	bezh1248	the anger	ANGER	82		simo	simo 
+1102	15-16-44-1	7591835651487551	Bezhta	bezh1248	the envy or jealousy	ENVY	40		šakdizi aqiyoɬi	šakdizi aqiyoɬi 
+1103	15-16-45-1	7591835902255431	Bezhta	bezh1248	the shame	SHAME	1776		nic	nic 
+1104	15-16-48-1	7591835134891436	Bezhta	bezh1248	proud	PROUD	174		yuk’o yak’os	yuk’o yak’os 
+1105	15-16-52-1	7591835941965141	Bezhta	bezh1248	brave	BRAVE	3		ɬaq’eyo	ɬaq’eyo 
+1106	15-16-52-2	91281054809916107	Bezhta	bezh1248	brave	BRAVE	3		hic’aʔcas	hic’aʔcas 
+1107	15-16-53-1	7591835422990044	Bezhta	bezh1248	the fear	FEAR (FRIGHT)	781		hink’i	hink’i 
+1108	15-16-54-1	7591835422990044	Bezhta	bezh1248	the danger	DANGER	1810		hink’i	hink’i 
+1109	15-16-62-1	7591835204373683	Bezhta	bezh1248	to want	WANT	1784		-at’-	-at’- 
+1110	15-16-622-1	7591835880123043	Bezhta	bezh1248	to choose	CHOOSE	1750		hak’	hak’ 
+1111	15-16-63-1	7591835506377524	Bezhta	bezh1248	to hope	HOPE (SOMETHING)	3212		yak’p yõq’o-	yak’p yõq’o- 
+1112	15-16-65-1	7591835648186317	Bezhta	bezh1248	faithful	FAITHFUL	100		böžäräb	böžäräb 
+1113	15-16-65-2	9128111794846384	Bezhta	bezh1248	faithful	FAITHFUL	100		yak’o niƛiyo	yak’o niƛiyo 
+1114	15-16-66-1	7591835243330197	Bezhta	bezh1248	true	TRUE	1657		ungo-ungoyab	ungo-ungoyab 
+1115	15-16-67-1	7591835971390065	Bezhta	bezh1248	to lie(2)	LIE (MISLEAD)	601		-õt’ola-	-õt’ola- 
+1116	15-16-68-1	759183529183370	Bezhta	bezh1248	the deceit	DECEIT	13		ot’olāɬi	ot’olāɬi 
+1117	15-16-69-1	7591835628174999	Bezhta	bezh1248	to forgive	FORGIVE	1528		ƛ’odos tiƛk-	ƛ’odos tiƛk- 
+1118	15-16-71-1	7591835425650600	Bezhta	bezh1248	good	GOOD	1035		k’et’o	k’et’o 
+1119	15-16-72-1	759183558563331	Bezhta	bezh1248	bad	BAD	1292		čikeyo	čikeyo 
+1120	15-16-73-1	7591835358383979	Bezhta	bezh1248	right(2)	CORRECT (RIGHT)	1725		bit’arab	bit’arab 
+1121	15-16-74-1	7591835630232754	Bezhta	bezh1248	wrong	WRONG	1390		meq’ab	meq’ab 
+1122	15-16-77-1	7591835705412853	Bezhta	bezh1248	the mistake	MISTAKE	1293		ɣalat’	ɣalat’ 
+1123	15-16-81-1	7591835842329590	Bezhta	bezh1248	beautiful	BEAUTIFUL	1427		bercinab	bercinab 
+1124	15-16-82-1	7591835117889619	Bezhta	bezh1248	ugly	UGLY	1548		suruq’ab	suruq’ab 
+1125	15-16-83-1	7591835435356017	Bezhta	bezh1248	greedy	GREEDY	2018		qant’arab	qant’arab 
+1126	15-16-84-1	7591835743341009	Bezhta	bezh1248	clever	CLEVER	1310		aq’ilab	aq’ilab 
+1127	15-17-11-1	7591835760490898	Bezhta	bezh1248	the mind	MIND	1562		ãq’lo	ãq’lo 
+1128	15-17-13-1	7591835381942261	Bezhta	bezh1248	to think(1)	THINK (REFLECT)	1415		urɣizi -aq-	urɣizi -aq- 
+1129	15-17-14-1	7591835890575262	Bezhta	bezh1248	to think(2)	THINK (BELIEVE)	1513		pikro bow-	pikro bow- 
+1130	15-17-15-1	7591835834732452	Bezhta	bezh1248	to believe	BELIEVE	1890		böž-	böž- 
+1131	15-17-16-1	7591835254178095	Bezhta	bezh1248	to understand	UNDERSTAND	1536		bidži -aq-	bidži -aq- 
+1132	15-17-17-1	7591835144234494	Bezhta	bezh1248	to know	KNOW (SOMETHING)	1410		-iq’e-	-iq’e- 
+1133	15-17-171-1	7591835417277984	Bezhta	bezh1248	to guess	GUESS	1932		pikro baq-	pikro baq- 
+1134	15-17-172-1	7591835928250824	Bezhta	bezh1248	to imitate	IMITATE	117		-owaʔcoy -ece-	-owaʔcoy -ece- 
+1135	15-17-18-1	7591835513784436	Bezhta	bezh1248	to seem	SEEM	1521		gic’-	gic’- 
+1136	15-17-19-1	7591835809240532	Bezhta	bezh1248	the idea	IDEA	1609		pikro	pikro 
+1137	15-17-21-1	7591835743341009	Bezhta	bezh1248	wise	WISE	698		aq’ilab	aq’ilab 
+1138	15-17-22-1	7591835378784719	Bezhta	bezh1248	stupid	STUPID	1518		ädäläb	ädäläb 
+1139	15-17-23-1	7591835216986689	Bezhta	bezh1248	mad	MAD	1899		ãq’lo gäččö	ãq’lo gäččö 
+1140	15-17-24-1	7591835477582944	Bezhta	bezh1248	to learn	LEARN	504		-iq’el-	-iq’el- 
+1141	15-17-242-1	7591835477582944	Bezhta	bezh1248	to study	STUDY	1929		-iq’el-	-iq’el- 
+1142	15-17-25-1	7591835153824698	Bezhta	bezh1248	to teach	TEACH	709		xowo-	xowo- 
+1143	15-17-26-1	759183584373102	Bezhta	bezh1248	the pupil	PUPIL (STUDENT)	753		c’aldoqan	c’aldoqan 
+1144	15-17-26-2	91281224256720872	Bezhta	bezh1248	the pupil	PUPIL (STUDENT)	753		qohdagi	qohdagi 
+1145	15-17-27-1	7591835862838201	Bezhta	bezh1248	the teacher	TEACHER	1038		üštel	üštel 
+1146	15-17-28-1	7591835879278482	Bezhta	bezh1248	the school	SCHOOL	673		iškola	iškola 
+1147	15-17-31-1	7591835708647011	Bezhta	bezh1248	to remember	REMEMBER	707		yak’ƛ’a -õq’o-	yak’ƛ’a -õq’o- 
+1148	15-17-32-1	759183559320018	Bezhta	bezh1248	to forget	FORGET	1523		šöʔ	šöʔ 
+1149	15-17-34-1	7591835702914753	Bezhta	bezh1248	clear	CLEAR	989		mühkänäb	mühkänäb 
+1150	15-17-34-2	91281233248775027	Bezhta	bezh1248	clear	CLEAR	989		bayanab	bayanab 
+1151	15-17-35-1	7591835660586970	Bezhta	bezh1248	obscure	OBSCURE	1764		bič’č’i -aqaʔcas	bič’č’i -aqaʔcas 
+1152	15-17-36-1	7591835307469773	Bezhta	bezh1248	secret	SECRET	1121		baɬgoɬi	baɬgoɬi 
+1153	15-17-38-1	7591835124202589	Bezhta	bezh1248	to explain	EXPLAIN	1626		bidži -ow-	bidži -ow- 
+1154	15-17-41-1	7591835335979586	Bezhta	bezh1248	the intention	INTENTION	1162		xiyal	xiyal 
+1155	15-17-42-1	7591835854864114	Bezhta	bezh1248	the cause	CAUSE	860		illa	illa 
+1156	15-17-43-1	7591835492123372	Bezhta	bezh1248	the doubt	DOUBT	1308		šakɬi	šakɬi 
+1157	15-17-44-1	7591835865468021	Bezhta	bezh1248	to suspect	SUSPECT	1841		šakdizi -aq-	šakdizi -aq- 
+1158	15-17-441-1	7591835758509847	Bezhta	bezh1248	to betray	BETRAY	1902		niƛ-	niƛ- 
+1159	15-17-441-2	759183531039419	Bezhta	bezh1248	to betray	BETRAY	1902		-ĩso-	-ĩso- 
+1160	15-17-45-1	7591835227752093	Bezhta	bezh1248	the need or necessity	NEED (NOUN)	643		häžäɬi	häžäɬi 
+1161	15-17-46-1	7591835704851441	Bezhta	bezh1248	easy	EASY	686		bihayab	bihayab 
+1162	15-17-47-1	7591835405689136	Bezhta	bezh1248	difficult	DIFFICULT	584		zahmatab	zahmatab 
+1163	15-17-47-2	7591835238646958	Bezhta	bezh1248	difficult	DIFFICULT	584		-äq’q’ö	-äq’q’ö 
+1164	15-17-48-1	7591835509948653	Bezhta	bezh1248	to try	TRY	1812		häräkät baɣo-	häräkät baɣo- 
+1165	15-17-49-1	7591835789183487	Bezhta	bezh1248	the manner	MANNER	488		q’äʔida	q’äʔida 
+1166	15-17-51-1	7591835432256274	Bezhta	bezh1248	and	AND	1577		-na	-na 
+1167	15-17-52-1	7591835834832597	Bezhta	bezh1248	because	BECAUSE	1157		sudƛo nisoda	sudƛo nisoda 
+1168	15-17-53-1	7591835176515849	Bezhta	bezh1248	if	IF	1459		nagah	nagah 
+1169	15-17-53-2	91281256831244997	Bezhta	bezh1248	if	IF	1459		-q’oda	-q’oda 
+1170	15-17-54-1	7591835400795624	Bezhta	bezh1248	or	OR	1014		ya	ya 
+1171	15-17-54-2	91281258135864864	Bezhta	bezh1248	or	OR	1014		yagi	yagi 
+1172	15-17-54-3	91281258258998375	Bezhta	bezh1248	or	OR	1014		yaɬuni	yaɬuni 
+1173	15-17-55-1	7591835917786652	Bezhta	bezh1248	yes	YES	1268		īᵑ	īᵑ 
+1174	15-17-56-1	7591835762134017	Bezhta	bezh1248	no	NO	1269		häʔä	häʔä 
+1175	15-17-61-1	7591835561323997	Bezhta	bezh1248	how?	HOW	1239		niɣa	niɣa 
+1176	15-17-62-1	7591835944955755	Bezhta	bezh1248	how many?	HOW MANY	822		ladi	ladi 
+1177	15-17-63-1	7591835990419456	Bezhta	bezh1248	how much?	HOW MUCH	531		lasodi	lasodi 
+1178	15-17-64-1	7591835779209155	Bezhta	bezh1248	what?	WHAT	1236		siyo	siyo 
+1179	15-17-65-1	7591835737615425	Bezhta	bezh1248	when?	WHEN	1238		nito	nito 
+1180	15-17-66-1	7591835626759221	Bezhta	bezh1248	where?	WHERE	1237		nā	nā 
+1181	15-17-67-1	7591835488568546	Bezhta	bezh1248	which?	WHICH	727		nīyo	nīyo 
+1182	15-17-68-1	7591835801445701	Bezhta	bezh1248	who?	WHO	1235		ɬo	ɬo 
+1183	15-17-69-1	7591835705995684	Bezhta	bezh1248	why?	WHY	1270		sud (1)	sud (1) 
+1184	15-18-11-1	759183587146994	Bezhta	bezh1248	the voice	VOICE	1363		hok’	hok’ 
+1185	15-18-11-2	9128145616436805	Bezhta	bezh1248	the voice	VOICE	1363		haraƛ’	haraƛ’ 
+1186	15-18-12-1	759183587210583	Bezhta	bezh1248	to sing	SING	1261		keč’ iƛe-	keč’ iƛe- 
+1187	15-18-13-1	7591835287835969	Bezhta	bezh1248	to shout	SHOUT	715		iƛel-	iƛel- 
+1188	15-18-15-1	7591835844313025	Bezhta	bezh1248	to whisper	WHISPER	55		püšük’da-	püšük’da- 
+1189	15-18-16-1	7591835240627496	Bezhta	bezh1248	to mumble	MUMBLE	128		mozla-	mozla- 
+1190	15-18-16-2	9128141184897190	Bezhta	bezh1248	to mumble	MUMBLE	128		hörrä-	hörrä- 
+1191	15-18-17-1	7591835398653277	Bezhta	bezh1248	to whistle	WHISTLE	1025		šadda-	šadda- 
+1192	15-18-18-1	75918351412996	Bezhta	bezh1248	to shriek	SHRIEK	298		k’aʔda-	k’aʔda- 
+1193	15-18-19-1	7591835908574670	Bezhta	bezh1248	to howl	HOWL	526		kõwa-	kõwa- 
+1194	15-18-21-1	7591835316311167	Bezhta	bezh1248	to speak or talk	SPEAK	1623		-iq’laše-	-iq’laše- 
+1195	15-18-211-1	7591835691434044	Bezhta	bezh1248	to stutter or stammer	STUTTER	1866		-oxilda-	-oxilda- 
+1196	15-18-22-1	7591835131070541	Bezhta	bezh1248	to say	SAY	1458		niso-	niso- 
+1197	15-18-221-1	7591835987246311	Bezhta	bezh1248	to tell	TELL	1711		-ẽye-	-ẽye- 
+1198	15-18-23-1	7591835139649982	Bezhta	bezh1248	to be silent	BE SILENT	48		hok’ yoʔl-	hok’ yoʔl- 
+1199	15-18-24-1	7591835489656015	Bezhta	bezh1248	the language	LANGUAGE	1307		mic (1)	mic (1) 
+1200	15-18-26-1	759183579574053	Bezhta	bezh1248	the word	WORD	1599		yäže	yäže 
+1201	15-18-28-1	7591835668137351	Bezhta	bezh1248	the name	NAME	1405		cāᵑ	cāᵑ 
+1202	15-18-31-1	7591835855341086	Bezhta	bezh1248	to ask(1)	ASK (INQUIRE)	1309		nisol-	nisol- 
+1203	15-18-32-1	7591835640528634	Bezhta	bezh1248	to answer	ANSWER	1275		žawab niƛ-	žawab niƛ- 
+1204	15-18-33-1	7591835622245443	Bezhta	bezh1248	to admit	ADMIT	2022		muk’ur -aq-	muk’ur -aq- 
+1205	15-18-34-1	7591835980184259	Bezhta	bezh1248	to deny	DENY	755		inkar bow-	inkar bow- 
+1206	15-18-35-1	759183564240177	Bezhta	bezh1248	to ask(2)	ASK (REQUEST)	1828		harzi -ow-	harzi -ow- 
+1207	15-18-36-1	7591835487501710	Bezhta	bezh1248	to promise	PROMISE	1675		ƛ’odo -ox-	ƛ’odo -ox- 
+1208	15-18-37-1	7591835980184259	Bezhta	bezh1248	to refuse	REFUSE	49		inkar bow-	inkar bow- 
+1209	15-18-38-1	7591835236068795	Bezhta	bezh1248	to forbid	FORBID	83		huq’zi -ow-	huq’zi -ow- 
+1210	15-18-38-2	91281427295579994	Bezhta	bezh1248	to forbid	FORBID	83		häräm -ow-	häräm -ow- 
+1211	15-18-39-1	7591835709085042	Bezhta	bezh1248	to scold	SCOLD	299		-äƛ’ela-	-äƛ’ela- 
+1212	15-18-41-1	7591835240713028	Bezhta	bezh1248	to call(1)	CALL	1084		iƛe-	iƛe- 
+1213	15-18-42-1	7591835131070541	Bezhta	bezh1248	to call(2)	CALL BY NAME	180		niso-	niso- 
+1214	15-18-43-1	7591835694748579	Bezhta	bezh1248	to announce	ANNOUNCE	9		ɬazi -ow-	ɬazi -ow- 
+1215	15-18-44-1	7591835219658817	Bezhta	bezh1248	to threaten	THREATEN	1192		hič’egol-	hič’egol- 
+1216	15-18-45-1	7591835639180427	Bezhta	bezh1248	to boast	BOAST	101		šöᵑƛö	šöᵑƛö 
+1217	15-18-45-2	91281436888963251	Bezhta	bezh1248	to boast	BOAST	101		caydazi -aq-	caydazi -aq- 
+1218	15-18-45-3	91281441508387664	Bezhta	bezh1248	to boast	BOAST	101		püwä-	püwä- 
+1219	15-18-45-4	91281442855050992	Bezhta	bezh1248	to boast	BOAST	101		-ižeyc’-	-ižeyc’- 
+1220	15-18-51-1	7591835936993283	Bezhta	bezh1248	to write	WRITE	1672		čäx	čäx 
+1221	15-18-52-1	7591835153824698	Bezhta	bezh1248	to read	READ	724		xowo-	xowo- 
+1222	15-18-56-1	7591835421043527	Bezhta	bezh1248	the paper	PAPER	648		ƛibo	ƛibo 
+1223	15-18-57-1	7591835530485113	Bezhta	bezh1248	the pen	PEN	794		ručka	ručka 
+1224	15-18-61-1	7591835698885350	Bezhta	bezh1248	the book	BOOK	963		t’ek	t’ek 
+1225	15-18-67-1	7591835480145944	Bezhta	bezh1248	the poet	POET	1045		poet	poet 
+1226	15-18-67-2	91281322730607905	Bezhta	bezh1248	the poet	POET	1045		šair	šair 
+1227	15-18-71-1	759183513700697	Bezhta	bezh1248	the flute	FLUTE	777		šäšät’ö	šäšät’ö 
+1228	15-18-72-1	759183525617944	Bezhta	bezh1248	the drum	DRUM	908		dibit’o	dibit’o 
+1229	15-18-74-1	7591835516392115	Bezhta	bezh1248	the rattle	RATTLE	300		k’ico	k’ico 
+1230	15-19-11-1	7591835674925352	Bezhta	bezh1248	the country	COUNTRY	1300		ulka	ulka 
+1231	15-19-12-1	7591835896498433	Bezhta	bezh1248	the native country	NATIVE COUNTRY	89		ilos ulka	ilos ulka 
+1232	15-19-15-1	7591835543280311	Bezhta	bezh1248	the town	TOWN	1391		šähär	šähär 
+1233	15-19-16-1	7591835287569672	Bezhta	bezh1248	the village	VILLAGE	930		äƛ	äƛ 
+1234	15-19-17-1	7591835670627673	Bezhta	bezh1248	the boundary	BOUNDARY	1010		örqi	örqi 
+1235	15-19-21-1	7591835650368354	Bezhta	bezh1248	the people	PEOPLE	789		xalq’	xalq’ 
+1236	15-19-23-1	7591835759908207	Bezhta	bezh1248	the clan	CLAN	302		ahlo	ahlo 
+1237	15-19-24-1	759183584553796	Bezhta	bezh1248	the chieftain	CHIEFTAIN	301		uqo	uqo 
+1238	15-19-24-2	91271730689902740	Bezhta	bezh1248	the chieftain	CHIEFTAIN	301		ceweqan	ceweqan 
+1239	15-19-25-1	7591835577416931	Bezhta	bezh1248	the walking stick	WALKING STICK	1296		k’obola	k’obola 
+1240	15-19-32-1	7591835815375050	Bezhta	bezh1248	the king	KING	1508		xan	xan 
+1241	15-19-32-2	91271735798099764	Bezhta	bezh1248	the king	KING	1508		pača	pača 
+1242	15-19-37-1	7591835679341723	Bezhta	bezh1248	the citizen	CITIZEN	1032		graždanin	graždanin 
+1243	15-19-41-1	759183578296453	Bezhta	bezh1248	the master	MASTER	383		bet’erhan	bet’erhan 
+1244	15-19-42-1	7591835757953069	Bezhta	bezh1248	the slave	SLAVE	812		laɣ	laɣ 
+1245	15-19-43-1	7591835751526804	Bezhta	bezh1248	the servant	SERVANT	255		meqre	meqre 
+1246	15-19-43-2	9127174146785178	Bezhta	bezh1248	the servant	SERVANT	255		muhazir	muhazir 
+1247	15-19-43-3	91271742513590986	Bezhta	bezh1248	the servant	SERVANT	255		mähäƛ’äkö	mähäƛ’äkö 
+1248	15-19-43-4	91271743689026641	Bezhta	bezh1248	the servant	SERVANT	255		nukar	nukar 
+1249	15-19-44-1	7591835747638036	Bezhta	bezh1248	the freeman	FREEMAN	384		erkenab suk’o	erkenab suk’o 
+1250	15-19-45-1	7591835127993340	Bezhta	bezh1248	to command or order	ORDER	1128		amru bow	amru bow 
+1251	15-19-46-1	7591835559680578	Bezhta	bezh1248	to obey	OBEY	1635		enekzi -aq-	enekzi -aq- 
+1252	15-19-46-2	7591835622245443	Bezhta	bezh1248	to obey	OBEY	1635		muk’ur -aq-	muk’ur -aq- 
+1253	15-19-47-1	7591835876282027	Bezhta	bezh1248	to permit	PERMIT	1003		ixtiyar niƛ-	ixtiyar niƛ- 
+1254	15-19-51-1	7591835845603882	Bezhta	bezh1248	the friend	FRIEND	1325		halmaɣ	halmaɣ 
+1255	15-19-52-1	7591835253282300	Bezhta	bezh1248	the enemy	ENEMY	1358		tušman	tušman 
+1256	15-19-54-1	7591835711291266	Bezhta	bezh1248	the neighbour	NEIGHBOUR	1332		maduhan	maduhan 
+1257	15-19-55-1	7591835252546927	Bezhta	bezh1248	the stranger	STRANGER	791		iq’aʔcas suk’o	iq’aʔcas suk’o 
+1258	15-19-56-1	759183520635774	Bezhta	bezh1248	the guest	GUEST	1782		hobol	hobol 
+1259	15-19-57-1	759183578296453	Bezhta	bezh1248	the host	HOST	1545		bet’erhan	bet’erhan 
+1260	15-19-58-1	7591835781663724	Bezhta	bezh1248	to help	HELP	1897		komak bow-	komak bow- 
+1261	15-19-59-1	7591835543574599	Bezhta	bezh1248	to prevent	PREVENT	1550		kalkal bow-	kalkal bow- 
+1262	15-19-61-1	7591835370472024	Bezhta	bezh1248	the custom	CUSTOM	1747		ädät	ädät 
+1263	15-19-62-1	75918355475434	Bezhta	bezh1248	the quarrel	QUARREL	1848		däʔbä	däʔbä 
+1264	15-19-62-2	91271759790950441	Bezhta	bezh1248	the quarrel	QUARREL	1848		däʔbä-yäže	däʔbä-yäže 
+1265	15-19-62-3	9127180513189343	Bezhta	bezh1248	the quarrel	QUARREL	1848		bišeldabāɬi	bišeldabāɬi 
+1266	15-19-65-1	7591835658028219	Bezhta	bezh1248	to meet	MEET	1831		dande kezi -aq-	dande kezi -aq- 
+1267	15-19-72-1	7591835226174695	Bezhta	bezh1248	the prostitute	PROSTITUTE	1610		qähbä	qähbä 
+1268	15-20-11-1	7591835862943055	Bezhta	bezh1248	to fight	FIGHT	1423		-eɣ-	-eɣ- 
+1269	15-20-13-1	7591835479919731	Bezhta	bezh1248	the war or battle	BATTLE	579		raɣ	raɣ 
+1270	15-20-13-2	91271812700651314	Bezhta	bezh1248	the war or battle	BATTLE	579		ƛ’ap’i	ƛ’ap’i 
+1271	15-20-14-1	7591835944945814	Bezhta	bezh1248	the peace	PEACE	1338		req’el	req’el 
+1272	15-20-15-1	7591835593758591	Bezhta	bezh1248	the army	ARMY	1561		armiya	armiya 
+1273	15-20-15-2	91271815311853717	Bezhta	bezh1248	the army	ARMY	1561		askar	askar 
+1274	15-20-17-1	7591835984357024	Bezhta	bezh1248	the soldier	SOLDIER	1941		saldat	saldat 
+1275	15-20-21-1	7591835572182731	Bezhta	bezh1248	the weapons	WEAPONS	951		yaraɣ	yaraɣ 
+1276	15-20-22-1	759183562303231	Bezhta	bezh1248	the club	CLUB	1763		k’obala	k’obala 
+1277	15-20-23-1	7591835670855383	Bezhta	bezh1248	the sling	SLING	387		qälämčäʔkö	qälämčäʔkö 
+1278	15-20-23-2	91271820895227614	Bezhta	bezh1248	the sling	SLING	387		k’abi	k’abi 
+1279	15-20-24-1	7591835524578508	Bezhta	bezh1248	the bow	BOW	994		c’ãʔã	c’ãʔã 
+1280	15-20-25-1	7591835680545962	Bezhta	bezh1248	the arrow	ARROW	977		c’ulu	c’ulu 
+1281	15-20-26-1	7591835910344799	Bezhta	bezh1248	the spear	SPEAR	945		xeč	xeč 
+1282	15-20-27-1	7591835493499231	Bezhta	bezh1248	the sword	SWORD	1535		mač’a	mač’a 
+1283	15-20-28-1	7591835824292447	Bezhta	bezh1248	the gun	GUN	1566		topi	topi 
+1284	15-20-31-1	7591835535074536	Bezhta	bezh1248	the armour	ARMOUR	1061		yaraɣ-mätäh	yaraɣ-mätäh 
+1285	15-20-33-1	7591835290396635	Bezhta	bezh1248	the helmet	HELMET	1680		kilos ƛ’aq’alo	kilos ƛ’aq’alo 
+1286	15-20-34-1	7591835863995550	Bezhta	bezh1248	the shield	SHIELD	1064		äᵑydǟ yoxcas kil	äᵑydǟ yoxcas kil 
+1287	15-20-35-1	7591835153033983	Bezhta	bezh1248	the fortress	FORTRESS	1938		qala	qala 
+1288	15-20-36-1	7591835842458660	Bezhta	bezh1248	the tower	TOWER	1671		mukro	mukro 
+1289	15-20-41-1	7591835446816030	Bezhta	bezh1248	the victory	VICTORY	783		berhenɬi	berhenɬi 
+1290	15-20-42-1	7591835333809140	Bezhta	bezh1248	the defeat	DEFEAT	782		büwähȭɬi	büwähȭɬi 
+1291	15-20-44-1	7591835270573654	Bezhta	bezh1248	to defend	DEFEND	1330		dande -ece-	dande -ece- 
+1292	15-20-45-1	7591835449930401	Bezhta	bezh1248	to retreat	RETREAT	421		müɣättǟ -üƛ’-	müɣättǟ -üƛ’- 
+1293	15-20-46-1	7591835641278817	Bezhta	bezh1248	to surrender	SURRENDER	1696		kaʔ -ẽƛ’e-	kaʔ -ẽƛ’e- 
+1294	15-20-47-1	759183541495156	Bezhta	bezh1248	the captive or prisoner	PRISONER	1072		asir	asir 
+1295	15-20-471-1	7591835431190251	Bezhta	bezh1248	the guard	GUARD	1940		qarawul	qarawul 
+1296	15-20-48-1	7591835123714327	Bezhta	bezh1248	the booty	BOOTY	1022		dawla	dawla 
+1297	15-20-49-1	7591835659533200	Bezhta	bezh1248	the ambush	AMBUSH	65		ɣorƛ’čel	ɣorƛ’čel 
+1298	15-20-51-1	7591835459431066	Bezhta	bezh1248	the fisherman	FISHERMAN	1858		bisāq	bisāq 
+1299	15-20-52-1	7591835676427125	Bezhta	bezh1248	the fishhook	FISHHOOK	1074		bicax	bicax 
+1300	15-20-53-1	7591835741011048	Bezhta	bezh1248	the fishing line	FISHING LINE	19		k’ihmat	k’ihmat 
+1301	15-20-54-1	7591835109197123	Bezhta	bezh1248	the fishnet	FISHNET	388		setka	setka 
+1302	15-20-61-1	7591835217580839	Bezhta	bezh1248	to hunt	HUNT	1435		biɬoƛ’a -ẽƛ’e-	biɬoƛ’a -ẽƛ’e- 
+1303	15-20-62-1	7591835116513146	Bezhta	bezh1248	to shoot	SHOOT	1172		-ĩƛ’e-	-ĩƛ’e- 
+1304	15-20-62-2	7591835616919979	Bezhta	bezh1248	to shoot	SHOOT	1172		t’ut’-	t’ut’- 
+1305	15-20-63-1	7591835514398021	Bezhta	bezh1248	to miss	MISS (A TARGET)	161		šeblaʔƛ’ā -ẽƛ’e-	šeblaʔƛ’ā -ẽƛ’e- 
+1306	15-20-64-1	7591835361316713	Bezhta	bezh1248	the trap	TRAP (PITFALL)	1075		q’or	q’or 
+1307	15-20-65-1	7591835254812990	Bezhta	bezh1248	to trap	TRAP (CATCH)	1170		q’orlid -ox-	q’orlid -ox- 
+1308	15-21-11-1	7591835568708650	Bezhta	bezh1248	the law	LAW	1062		zakon	zakon 
+1309	15-21-11-2	91271926742402211	Bezhta	bezh1248	the law	LAW	1062		q’anon	q’anon 
+1310	15-21-15-1	7591835794822933	Bezhta	bezh1248	the court	COURT	1068		sud (2)	sud (2) 
+1311	15-12-013-1	7591835669851837	Bezhta	bezh1248	at	AT	1461		-ɣa	-ɣa 
+1312	15-21-16-1	7591835228987931	Bezhta	bezh1248	to adjudicate	ADJUDICATE	1818		sud yow-	sud yow- 
+1313	15-21-17-1	759183560869923	Bezhta	bezh1248	the judgment	JUDGMENT	1067		sudlis hökmö	sudlis hökmö 
+1314	15-21-18-1	7591835666675734	Bezhta	bezh1248	the judge	JUDGE	861		sudiya	sudiya 
+1315	15-21-21-1	7591835183745783	Bezhta	bezh1248	the plaintiff	PLAINTIFF	2020		äyib boɣcas suk’o	äyib boɣcas suk’o 
+1316	15-21-22-1	7591835985427043	Bezhta	bezh1248	the defendant	DEFENDANT	1034		žawab niccas suk’o	žawab niccas suk’o 
+1317	15-21-23-1	7591835667466074	Bezhta	bezh1248	the witness	WITNESS	1144		nüʔ	nüʔ 
+1318	15-21-24-1	7591835766174187	Bezhta	bezh1248	to swear	SWEAR	1939		hädälä-	hädälä- 
+1319	15-21-25-1	7591835726774889	Bezhta	bezh1248	the oath	OATH	1712		hã	hã 
+1320	15-21-31-1	7591835860829826	Bezhta	bezh1248	to accuse	ACCUSE	1814		äyib gul-	äyib gul- 
+1321	15-21-32-1	7591835295524874	Bezhta	bezh1248	to condemn	CONDEMN	484		kakzi -ow-	kakzi -ow- 
+1322	15-21-33-1	7591835523229955	Bezhta	bezh1248	to convict	CONVICT	983		äyibiyaw egalal	äyibiyaw egalal 
+1323	15-21-33-2	91271940412824125	Bezhta	bezh1248	to convict	CONVICT	983		taq’sir mẽxe-	taq’sir mẽxe- 
+1324	15-21-34-1	7591835505501500	Bezhta	bezh1248	to acquit	ACQUIT	988		äyib boɬol-	äyib boɬol- 
+1325	15-21-35-1	7591835728913821	Bezhta	bezh1248	guilty	GUILTY	1682		äyibiyaw	äyibiyaw 
+1326	15-21-36-1	7591835967235259	Bezhta	bezh1248	innocent	INNOCENT	90		äyib gäččö	äyib gäččö 
+1327	15-21-37-1	7591835711818455	Bezhta	bezh1248	the penalty or punishment	PUNISHMENT	390		tambih	tambih 
+1328	15-21-38-1	7591835973278174	Bezhta	bezh1248	the fine	FINE (PENALTY)	218		ak’a	ak’a 
+1329	15-21-39-1	7591835347107718	Bezhta	bezh1248	the prison	PRISON	1281		t’usaɣi	t’usaɣi 
+1330	15-21-42-1	7591835111062879	Bezhta	bezh1248	the murder	MURDER	845		-ĩƛ’eyoɬi	-ĩƛ’eyoɬi 
+1331	15-21-43-1	7591835290874277	Bezhta	bezh1248	the adultery	ADULTERY	902		qahbaɬi	qahbaɬi 
+1332	15-21-44-1	7591835340932921	Bezhta	bezh1248	the rape	RAPE	953		zina bōyoɬi	zina bōyoɬi 
+1333	15-21-46-1	7591835257170383	Bezhta	bezh1248	the arson	ARSON	1889		c’o yẽyoɬi	c’o yẽyoɬi 
+1334	15-21-47-1	7591835309323932	Bezhta	bezh1248	the perjury	PERJURY	1792		heresi-nüʔɬi	heresi-nüʔɬi 
+1335	15-21-51-1	7591835726415895	Bezhta	bezh1248	to steal	STEAL	713		c’ohla	c’ohla 
+1336	15-21-51-2	9127201999338597	Bezhta	bezh1248	to steal	STEAL	713		gihla-	gihla- 
+1337	15-21-51-3	9127203117342170	Bezhta	bezh1248	to steal	STEAL	713		-ũcola-	-ũcola- 
+1338	15-21-52-1	7591835704777919	Bezhta	bezh1248	the thief	THIEF	1160		c’ohor	c’ohor 
+1339	15-21-52-2	912720417834068	Bezhta	bezh1248	the thief	THIEF	1160		gihlagi	gihlagi 
+1340	15-21-52-3	9127205486534158	Bezhta	bezh1248	the thief	THIEF	1160		yũcolagi	yũcolagi 
+1341	15-22-11-1	7591835656353661	Bezhta	bezh1248	the religion	RELIGION	661		din	din 
+1342	15-22-12-1	7591835352134446	Bezhta	bezh1248	the god	DEITY	3231		Allah	Allah 
+1343	15-22-12-2	9127209461277385	Bezhta	bezh1248	the god	DEITY	3231		Bet’erhan	Bet’erhan 
+1344	15-22-13-1	7591835344515469	Bezhta	bezh1248	the temple	TEMPLE	911		saq’dari	saq’dari 
+1345	15-22-15-1	7591835106720021	Bezhta	bezh1248	the sacrifice	SACRIFICE	1103		q’urban	q’urban 
+1346	15-22-16-1	7591835854122553	Bezhta	bezh1248	to worship	WORSHIP	257		sužda bow-	sužda bow- 
+1347	15-22-17-1	7591835298434645	Bezhta	bezh1248	to pray	PRAY	24		kak yow-	kak yow- 
+1348	15-22-17-2	91272014915875324	Bezhta	bezh1248	to pray	PRAY	24		döʔä bow-	döʔä bow- 
+1349	15-22-18-1	7591835713342062	Bezhta	bezh1248	the priest	PRIEST	852		kašiš	kašiš 
+1350	15-22-18-2	91272017981858139	Bezhta	bezh1248	the priest	PRIEST	852		ɣudelo	ɣudelo 
+1351	15-22-19-1	7591835108886894	Bezhta	bezh1248	holy	HOLY	1702		wali	wali 
+1352	15-22-19-2	91272018620252536	Bezhta	bezh1248	holy	HOLY	1702		ilahiyab	ilahiyab 
+1353	15-22-22-1	7591835561401134	Bezhta	bezh1248	to preach	PREACH	304		waʔza bow-	waʔza bow- 
+1354	15-22-23-1	7591835133552274	Bezhta	bezh1248	to bless	BLESS	391		q’abul -aq-	q’abul -aq- 
+1355	15-22-23-2	91272024901526427	Bezhta	bezh1248	to bless	BLESS	391		yäže niƛ-	yäže niƛ- 
+1356	15-22-24-1	7591835885070116	Bezhta	bezh1248	to curse	CURSE	8		näʔänä bow	näʔänä bow 
+1357	15-22-26-1	759183578021460	Bezhta	bezh1248	to fast	ABSTAIN FROM FOOD	303		k’al yox-	k’al yox- 
+1358	15-22-31-1	7591835159788829	Bezhta	bezh1248	the heaven	HEAVEN	1565		alžan	alžan 
+1359	15-22-32-1	7591835154999190	Bezhta	bezh1248	the hell	HELL	878		žuržah	žuržah 
+1360	15-22-35-1	7591835602652407	Bezhta	bezh1248	the demon	DEMON	1973		šayt’an	šayt’an 
+1361	15-22-35-2	91272031299476153	Bezhta	bezh1248	the demon	DEMON	1973		ilbis	ilbis 
+1362	15-22-42-1	7591835660211669	Bezhta	bezh1248	the magic	MAGIC	392		sihruɬi	sihruɬi 
+1363	15-22-42-2	91272033361152112	Bezhta	bezh1248	the magic	MAGIC	392		makruɬi	makruɬi 
+1364	15-22-43-1	7591835115696544	Bezhta	bezh1248	the sorcerer or witch	MAGICIAN	2137		qartay	qartay 
+1365	15-22-44-1	7591835850000375	Bezhta	bezh1248	the fairy or elf	ELF OR FAIRY	3206		hürülen	hürülen 
+1366	15-22-47-1	7591835199992848	Bezhta	bezh1248	the omen	OMEN	107		älämät	älämät 
+1367	15-23-1-1	7591835671072391	Bezhta	bezh1248	the radio	RADIO	1315		radio	radio 
+1368	15-23-11-1	7591835276291473	Bezhta	bezh1248	the television	TELEVISION	1788		tiliwizor	tiliwizor 
+1369	15-23-12-1	7591835278073358	Bezhta	bezh1248	the telephone	TELEPHONE	1379		tilipun	tilipun 
+1370	15-23-135-1	7591835333205373	Bezhta	bezh1248	the motorcycle	MOTORCYCLE	638		ƛ’ärƛ’äri	ƛ’ärƛ’äri 
+1371	15-23-135-2	91281453577171774	Bezhta	bezh1248	the motorcycle	MOTORCYCLE	638		matacik	matacik 
+1372	15-23-14-1	7591835480721179	Bezhta	bezh1248	the car	CAR	1111		mašina	mašina 
+1373	15-23-15-1	7591835358611146	Bezhta	bezh1248	the bus	BUS	1070		awtobus	awtobus 
+1374	15-23-16-1	759183589364275	Bezhta	bezh1248	the airplane	AIRPLANE	1597		samalot	samalot 
+1375	15-23-16-2	91281445296582546	Bezhta	bezh1248	the airplane	AIRPLANE	1597		hayrip’alan	hayrip’alan 
+1376	15-23-17-1	759183572047690	Bezhta	bezh1248	the electricity	ELECTRICITY	59		tok	tok 
+1377	15-23-175-1	7591835905781991	Bezhta	bezh1248	the battery	BATTERY	662		batari	batari 
+1378	15-23-2-1	7591835675076255	Bezhta	bezh1248	the hospital	HOSPITAL	616		balinca	balinca 
+1379	15-23-21-1	7591835939338581	Bezhta	bezh1248	the nurse	NURSE	1104		sestra	sestra 
+1380	15-23-23-1	7591835645423098	Bezhta	bezh1248	the injection	INJECTION	1805		näp’či	näp’či 
+1381	15-23-5-1	7591835676962642	Bezhta	bezh1248	the tap/faucet	FAUCET	1488		karan	karan 
+1382	15-23-51-1	7591835888461162	Bezhta	bezh1248	the sink	SINK (BASIN)	915		rakowina	rakowina 
+1383	15-23-52-1	7591835560566321	Bezhta	bezh1248	the toilet	TOILET	219		budk’a	budk’a 
+1384	15-23-52-2	91281446361636360	Bezhta	bezh1248	the toilet	TOILET	219		hažatxan	hažatxan 
+1385	15-23-52-3	91281447919954920	Bezhta	bezh1248	the toilet	TOILET	219		tualet	tualet 
+1386	15-23-52-4	912814488599707	Bezhta	bezh1248	the toilet	TOILET	219		oborni	oborni 
+1387	15-23-53-1	7591835144360218	Bezhta	bezh1248	the mattress	MATTRESS	105		leybi	leybi 
+1388	15-23-53-2	91281451130555914	Bezhta	bezh1248	the mattress	MATTRESS	105		matrac	matrac 
+1389	15-23-3-1	7591835198263817	Bezhta	bezh1248	the government	GOVERNMENT	815		hükümät	hükümät 
+1390	15-23-31-1	7591835234296583	Bezhta	bezh1248	the president	PRESIDENT	899		perezident	perezident 
+1391	15-23-32-1	7591835278398829	Bezhta	bezh1248	the minister	MINISTER	486		minister	minister 
+1392	15-23-33-1	7591835890643604	Bezhta	bezh1248	the police	POLICE	656		milici	milici 
+1393	15-23-34-1	7591835377410256	Bezhta	bezh1248	the driver's license	DRIVER'S LICENSE	599		prawa	prawa 
+1394	15-23-37-1	7591835258616662	Bezhta	bezh1248	the crime	CRIME	1066		taq’sirɬi	taq’sirɬi 
+1395	15-23-38-1	7591835599089159	Bezhta	bezh1248	the election	ELECTION	240		riši	riši 
+1396	15-23-4-1	7591835519335850	Bezhta	bezh1248	the post/mail	MAIL	167		poč	poč 
+1397	15-23-41-1	7591835583489657	Bezhta	bezh1248	the postage stamp	POSTAGE STAMP	596		mark’a	mark’a 
+1398	15-23-42-1	7591835757875214	Bezhta	bezh1248	the letter	LETTER	1612		kaɣay	kaɣay 
+1399	15-23-44-1	7591835607671259	Bezhta	bezh1248	the bank	BANK	1284		bank	bank 
+1400	15-23-54-1	7591835806002030	Bezhta	bezh1248	the tin/can	CAN	1051		bank’a	bank’a 
+1401	15-23-55-1	7591835466232429	Bezhta	bezh1248	the screw	SCREW	1802		buraw	buraw 
+1402	15-23-555-1	7591835196404786	Bezhta	bezh1248	the screwdriver	SCREWDRIVER	836		atvyorka	atvyorka 
+1403	15-23-56-1	7591835697283590	Bezhta	bezh1248	the bottle	BOTTLE	1321		šuša	šuša 
+1404	15-23-565-1	7591835443446867	Bezhta	bezh1248	the candy/sweets	CANDY	874		k’ampik’	k’ampik’ 
+1405	15-23-24-1	7591835361933195	Bezhta	bezh1248	the spectacles/glasses	SPECTACLES	1898		häydä	häydä 
+1406	15-23-57-1	7591835409780448	Bezhta	bezh1248	the plastic	PLASTIC	654		palasmas	palasmas 
+1407	15-23-575-1	7591835700376947	Bezhta	bezh1248	the bomb	BOMB	1804		bomba	bomba 
+1408	15-23-58-1	7591835220698758	Bezhta	bezh1248	the workshop	WORKSHOP	1677		artel	artel 
+1409	15-23-59-1	7591835916511854	Bezhta	bezh1248	the cigarette	CIGARETTE	969		p’ap’iros	p’ap’iros 
+1410	15-23-61-1	7591835922346314	Bezhta	bezh1248	the calendar	CALENDAR	1967		kalendar	kalendar 
+1411	15-23-62-1	7591835347746035	Bezhta	bezh1248	the film/movie	MOVIE	216		kino	kino 
+1412	15-23-63-1	7591835395119419	Bezhta	bezh1248	the music	MUSIC	642		maq’an	maq’an 
+1413	15-23-63-2	91281452742022100	Bezhta	bezh1248	the music	MUSIC	642		nako	nako 
+1414	15-23-64-1	7591835270487775	Bezhta	bezh1248	the song	SONG	1096		keč’	keč’ 
+1415	15-23-6-1	7591835846225848	Bezhta	bezh1248	the newspaper	NEWSPAPER	1298		gazit	gazit 
+1416	15-23-385-1	7591835144315206	Bezhta	bezh1248	the address	ADDRESS	591		adris	adris 
+1417	15-23-39-1	7591835665879659	Bezhta	bezh1248	the number	NUMBER	1356		nomer	nomer 
+1418	15-23-155-1	7591835677439325	Bezhta	bezh1248	the train	TRAIN	900		poyez	poyez 
+1419	15-23-36-1	7591835591596433	Bezhta	bezh1248	the birth certificate	BIRTH CERTIFICATE	397		metrika	metrika 
+1420	15-23-18-1	7591835754465202	Bezhta	bezh1248	to brake	BRAKE	966		tormoz bowo-	tormoz bowo- 
+1421	15-23-195-1	7591835317956728	Bezhta	bezh1248	the petroleum	PETROLEUM	650		benzin	benzin 
+1422	15-23-185-1	7591835712520613	Bezhta	bezh1248	the motor	MOTOR	110		mator	mator 
+1423	15-23-19-1	7591835480721179	Bezhta	bezh1248	the machine	MACHINE	144		mašina	mašina 
+1424	15-23-13-1	7591835599644321	Bezhta	bezh1248	the bicycle	BICYCLE	747		šayt’an-mašina	šayt’an-mašina 
+1425	15-23-395-1	7591835671862246	Bezhta	bezh1248	the street	STREET	1362		qač’	qač’ 
+1426	15-19-445-1	7591835217116923	Bezhta	bezh1248	to liberate	LIBERATE	37		-ẽccak’-	-ẽccak’- 
+1427	15-19-565-1	75918352334963	Bezhta	bezh1248	to invite	INVITE	1611		-ok’-	-ok’- 
+1428	15-19-565-2	9127189851013130	Bezhta	bezh1248	to invite	INVITE	1611		iƛ	iƛ 
+1429	15-23-35-1	7591835458115701	Bezhta	bezh1248	the license plate	LICENSE PLATE	1790		mašinalis nomerla	mašinalis nomerla 
+1430	15-23-43-1	7591835750163437	Bezhta	bezh1248	the postcard	POSTCARD	1497		atkiritka	atkiritka 
+1431	15-24-01-1	7591835876092252	Bezhta	bezh1248	to be	BE	1579		zuq’o-	zuq’o- 
+1432	15-24-02-1	7591835826180024	Bezhta	bezh1248	to become	BECOME	1990		-aq- (1)	-aq- (1) 
+1433	15-24-03-1	759183580048634	Bezhta	bezh1248	without	WITHOUT	1478		gäč’el	gäč’el 
+1434	15-24-05-1	7591835145118870	Bezhta	bezh1248	through	THROUGH	97		-ƛ’ā	-ƛ’ā 
+1435	15-24-13-1	7591835267793155	Bezhta	bezh1248	same	SAME	200		hudizu	hudizu 
+1436	15-24-07-1	7591835792115320	Bezhta	bezh1248	this	THIS	1214		hudi	hudi 
+1437	15-24-08-1	7591835265024509	Bezhta	bezh1248	that	THAT	78		huli	huli 
+1438	15-24-09-1	759183561858875	Bezhta	bezh1248	here	HERE	136		hoƛoʔ	hoƛoʔ 
+1439	15-24-1-1	759183516961742	Bezhta	bezh1248	there	THERE	1937		hugiʔ	hugiʔ 
+1440	15-24-11-1	7591835998628197	Bezhta	bezh1248	other	OTHER	197		badi	badi 
+1441	15-23-9-1	7591835269932267	Bezhta	bezh1248	the tea	TEA	1373		čay	čay 
+1442	15-23-91-1	7591835176948947	Bezhta	bezh1248	the coffee	COFFEE	1299		kope	kope 
+1443	15-24-12-1	7591835714361112	Bezhta	bezh1248	next	NEXT	1354		badiso	badiso 
+1444	15-3-863-1	7591835467591503	Bezhta	bezh1248	the hare	HARE	1190		qiyalat’o	qiyalat’o 
+1445	15-3-865-1	7591835501514546	Bezhta	bezh1248	the quail	QUAIL	1893		wič’wič’o	wič’wič’o 
+1446	15-3-869-1	7591835824586332	Bezhta	bezh1248	the squirrel	SQUIRREL	1628		ciq’i	ciq’i 
+1447	15-10-79-1	7591835807541681	Bezhta	bezh1248	the sledge/sled	SLED	16		kox	kox 
+1448	15-4-465-1	7591835522293006	Bezhta	bezh1248	the sinew or tendon	TENDON	1137		xila	xila 
+1449	15-22-5-1	7591835830911294	Bezhta	bezh1248	the circumcision	CIRCUMCISION	393		sunnat	sunnat 
+1450	15-8-996-1	7591835361489405	Bezhta	bezh1248	the cone	CONE	287		q’art’a	q’art’a 
+1451	15-3-8112-1	7591835578661802	Bezhta	bezh1248	the body louse	BODY LOUSE	311		naco	naco 
+1452	15-9-93-1	7591835469654998	Bezhta	bezh1248	the whetstone	WHETSTONE	295		čarx	čarx 
+1453	15-3-835-1	7591835230940888	Bezhta	bezh1248	the tick	TICK	1527		p’ip’it’i	p’ip’it’i 
+1454	15-8-911-1	7591835212389623	Bezhta	bezh1248	the millet or sorghum	MILLET	931		t’ugo	t’ugo 
+1455	15-1-831-1	7591835207104814	Bezhta	bezh1248	the steam	STEAM	1193		müšö	müšö 
+1456	15-4-741-1	7591835522614778	Bezhta	bezh1248	the life	LIFE	210		ömrö	ömrö 
+1457	15-4-844-1	7591835971975692	Bezhta	bezh1248	the disease	DISEASE	1986		unti	unti 
+1458	15-4-844-2	91251625357281840	Bezhta	bezh1248	the disease	DISEASE	1986		k’ok’ōɬi	k’ok’ōɬi 
+1459	15-11-29-1	7591835682763433	Bezhta	bezh1248	to damage	DAMAGE	1116		zaral -ow-	zaral -ow- 
+1460	15-12-081-1	759183551595950	Bezhta	bezh1248	above	ABOVE	1741		-ƛ’a	-ƛ’a 
+1461	15-12-081-2	7591835782593476	Bezhta	bezh1248	above	ABOVE	1741		ƛ’odo	ƛ’odo 
+1462	15-14-251-1	7591835929648056	Bezhta	bezh1248	the beginning	BEGINNING	1557		baybikik	baybikik 
+1463	15-14-251-2	91271657511848481	Bezhta	bezh1248	the beginning	BEGINNING	1557		bil	bil 
+1464	15-14-411-1	7591835190890993	Bezhta	bezh1248	the day(2)	DAY (NOT NIGHT)	1225		wodo	wodo 
+1465	15-22-131-1	7591835344515469	Bezhta	bezh1248	the church	CHURCH	1349		saq’dari	saq’dari 
+1466	15-22-132-1	7591835624753636	Bezhta	bezh1248	the mosque	MOSQUE	1603		mažgit	mažgit 
+1467	15-24-14-1	7591835515729597	Bezhta	bezh1248	nothing	NOTHING	687		höᵑššöna	höᵑššöna 
+1468	15-4-7501-1	7591835299049006	Bezhta	bezh1248	dead	DEAD	1625		-uɣoyo	-uɣoyo 
+1469	15-4-8541-1	7591835388824965	Bezhta	bezh1248	to scratch	SCRATCH	1436		xosƛo-	xosƛo- 
+1470	15-9-111-1	7591835241126658	Bezhta	bezh1248	to make	MAKE	734		-ow-	-ow- 
+1471	15-1-775-1	7591835230324559	Bezhta	bezh1248	to freeze	FREEZE	1431		milaže-	milaže- 
+1472	15-24-04-1	7591835463363589	Bezhta	bezh1248	with	WITH	1340		-ɣoy	-ɣoy 
+1473	15-12-012-1	7591835238595324	Bezhta	bezh1248	in	IN	1460		-ʔ	-ʔ 

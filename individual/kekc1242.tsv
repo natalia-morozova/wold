@@ -1,0 +1,2059 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	34-1-1-1	72119190921743	Q'eqchi'	kekc1242	the world	WORLD	965		ru chi ch’och’	ru chi ch’och’ 
+2	34-1-21-1	72119159316174	Q'eqchi'	kekc1242	the land	LAND	626		ch’och’	ch’och’ 
+3	34-1-212-1	72119159316174	Q'eqchi'	kekc1242	the soil	EARTH (SOIL)	1228		ch’och’	ch’och’ 
+4	34-1-213-1	721191478611740	Q'eqchi'	kekc1242	the dust	DUST	2		poqs	poqs 
+5	34-1-214-1	721191407650184	Q'eqchi'	kekc1242	the mud	MUD	640		sulul	sulul 
+6	34-1-215-1	721191677576804	Q'eqchi'	kekc1242	the sand	SAND	671		samahi’	samahi’ 
+7	34-1-22-1	721191374295814	Q'eqchi'	kekc1242	the mountain or hill	MOUNTAIN OR HILL	2118		tzuul	tzuul 
+8	34-1-222-1	721191445474705	Q'eqchi'	kekc1242	the cliff or precipice	PRECIPICE	618		uul	uul 
+9	34-1-23-1	721191533223692	Q'eqchi'	kekc1242	the plain	PLAIN	652		taq’a	taq’a 
+10	34-1-24-1	721191533223692	Q'eqchi'	kekc1242	the valley	VALLEY	921		taq’a	taq’a 
+11	34-1-25-1	721191656374772	Q'eqchi'	kekc1242	the island	ISLAND	622		xyampi ha’	xyampi ha’ 
+12	34-1-25-2	721191830433704	Q'eqchi'	kekc1242	the island	ISLAND	622		ch’och’ sutsu chi ha’	ch’och’ sutsu chi ha’ 
+13	34-1-26-1	721191297631743	Q'eqchi'	kekc1242	the mainland	MAINLAND	166		kontineent	kontineent 
+14	34-1-27-1	721191779108984	Q'eqchi'	kekc1242	the shore	SHORE	113		chi re ha’	chi re ha’ 
+15	34-1-28-1	721191897441057	Q'eqchi'	kekc1242	the cave	CAVE	1155		ochoch pek	ochoch pek 
+16	34-1-28-2	721191976694515	Q'eqchi'	kekc1242	the cave	CAVE	1155		siwan	siwan 
+17	34-1-31-1	72119169372667	Q'eqchi'	kekc1242	the water	WATER	948		ha’	ha’ 
+18	34-1-32-1	721191967232283	Q'eqchi'	kekc1242	the sea	SEA	1474		palaw	palaw 
+19	34-1-322-1	721191692515918	Q'eqchi'	kekc1242	calm	CALM	258		ch’anaak	ch’anaak 
+20	34-1-324-1	721191597409528	Q'eqchi'	kekc1242	the foam	FOAM	1768		woqx	woqx 
+21	34-1-329-1	721191967232283	Q'eqchi'	kekc1242	the ocean	OCEAN	645		palaw	palaw 
+22	34-1-33-1	721191967232283	Q'eqchi'	kekc1242	the lake	LAKE	624		palaw	palaw 
+23	34-1-33-2	721191746702314	Q'eqchi'	kekc1242	the lake	LAKE	624		pumpuukil ha’	pumpuukil ha’ 
+24	34-1-341-1	721191746702314	Q'eqchi'	kekc1242	the lagoon	LAGOON	623		pumpuukil ha’	pumpuukil ha’ 
+25	34-1-342-1	7911758565367438	Q'eqchi'	kekc1242	the reef	REEF	660		pekil ha’	pekil ha’ 
+26	34-1-35-1	7211911003641	Q'eqchi'	kekc1242	the wave	WAVE	978		b’oolha’	b’oolha’ 
+27	34-1-36-1	721191966108615	Q'eqchi'	kekc1242	the river or stream	RIVER	666		nima’	nima’ 
+28	34-1-362-1	721191517244615	Q'eqchi'	kekc1242	the whirlpool	WHIRLPOOL	1982		suut ha’	suut ha’ 
+29	34-1-37-1	721191856187296	Q'eqchi'	kekc1242	the spring or well	SPRING OR WELL	2144		tuq	tuq 
+30	34-1-37-2	721191685714816	Q'eqchi'	kekc1242	the spring or well	SPRING OR WELL	2144		ch’ina ha’	ch’ina ha’ 
+31	34-1-37-3	721191337919862	Q'eqchi'	kekc1242	the spring or well	SPRING OR WELL	2144		kumb’	kumb’ 
+32	34-1-37-4	72119168591977	Q'eqchi'	kekc1242	the spring or well	SPRING OR WELL	2144		k’ak’naab’	k’ak’naab’ 
+33	34-1-38-1	721191150716015	Q'eqchi'	kekc1242	the swamp	SWAMP	1145		saab’	saab’ 
+34	34-1-38-2	72119135750855	Q'eqchi'	kekc1242	the swamp	SWAMP	1145		k’anha’	k’anha’ 
+35	34-1-39-1	721191652190461	Q'eqchi'	kekc1242	the waterfall	WATERFALL	943		pach’il ha’	pach’il ha’ 
+36	34-1-39-2	72119165194661	Q'eqchi'	kekc1242	the waterfall	WATERFALL	943		xpisk’ ha’	xpisk’ ha’ 
+37	34-1-41-1	72119187969795	Q'eqchi'	kekc1242	the woods or forest	FOREST	420		k’iche’	k’iche’ 
+38	34-1-43-1	721191375603805	Q'eqchi'	kekc1242	the wood	WOOD	1803		che’	che’ 
+39	34-1-44-1	721191741013700	Q'eqchi'	kekc1242	the stone or rock	STONE OR ROCK	2125		pek	pek 
+40	34-1-45-1	721191469616650	Q'eqchi'	kekc1242	the earthquake	EARTHQUAKE	6		hiik	hiik 
+41	34-1-51-1	721191949436135	Q'eqchi'	kekc1242	the sky	SKY	1732		choxa, choxaal	choxa 
+42	34-1-51-2	721191949436135	Q'eqchi'	kekc1242	the sky	SKY	1732		choxa, choxaal	choxaal 
+43	34-1-52-1	721191753023728	Q'eqchi'	kekc1242	the sun	SUN	1343		saq’e	saq’e 
+44	34-1-53-1	721191134483627	Q'eqchi'	kekc1242	the moon	MOON	1313		po	po 
+45	34-1-54-1	721191883156961	Q'eqchi'	kekc1242	the star	STAR	1430		chahim	chahim 
+46	34-1-55-1	721191659029919	Q'eqchi'	kekc1242	the lightning	LIGHTNING	1654		raq’kaaq	raq’kaaq 
+47	34-1-55-2	721191554410313	Q'eqchi'	kekc1242	the lightning	LIGHTNING	1654		lemskaaq	lemskaaq 
+48	34-1-55-3	721191388591441	Q'eqchi'	kekc1242	the lightning	LIGHTNING	1654		xrepom kaaq	xrepom kaaq 
+49	34-1-55-4	721191695648065	Q'eqchi'	kekc1242	the lightning	LIGHTNING	1654		repom	repom 
+50	34-1-56-1	721191732303391	Q'eqchi'	kekc1242	the thunder	THUNDER	1150		kaaq	kaaq 
+51	34-1-57-1	721191732303391	Q'eqchi'	kekc1242	the bolt of lightning	BOLT (OF LIGHTNING)	2007		kaaq	kaaq 
+52	34-1-57-2	721191554410313	Q'eqchi'	kekc1242	the bolt of lightning	BOLT (OF LIGHTNING)	2007		lemskaaq	lemskaaq 
+53	34-1-58-1	721191858157087	Q'eqchi'	kekc1242	the storm	STORM	858		kaq sut iq’	kaq sut iq’ 
+54	34-1-59-1	721191876811401	Q'eqchi'	kekc1242	the rainbow	RAINBOW	1733		kaqlaaq’	kaqlaaq’ 
+55	34-1-61-1	721191201866435	Q'eqchi'	kekc1242	the light	LIGHT (RADIATION)	630		saqen	saqen 
+56	34-1-62-1	721191455249787	Q'eqchi'	kekc1242	the darkness	DARKNESS	11		aak’ab’	aak’ab’ 
+57	34-1-63-1	72119130083702	Q'eqchi'	kekc1242	the shade or shadow	SHADE	1388		mu	mu 
+58	34-1-64-1	72119181325433	Q'eqchi'	kekc1242	the dew	DEW	1977		k’ajob’	k’ajob’ 
+59	34-1-64-2	721191682731756	Q'eqchi'	kekc1242	the dew	DEW	1977		chu’ke	chu’ke 
+60	34-1-71-1	721191904832103	Q'eqchi'	kekc1242	the air	AIR	27		iq’	iq’ 
+61	34-1-72-1	721191904832103	Q'eqchi'	kekc1242	the wind	WIND	960		iq’	iq’ 
+62	34-1-73-1	721191805441331	Q'eqchi'	kekc1242	the cloud	CLOUD	1489		choq	choq 
+63	34-1-74-1	721191295291558	Q'eqchi'	kekc1242	the fog	FOG	249		sujew	sujew 
+64	34-1-74-2	721191617281176	Q'eqchi'	kekc1242	the fog	FOG	249		tuntunkil choq	tuntunkil choq 
+65	34-1-75-1	721191962255682	Q'eqchi'	kekc1242	the rain	RAIN (PRECIPITATION)	658		hab’	hab’ 
+66	34-1-76-1	721191398338252	Q'eqchi'	kekc1242	the snow	SNOW	784		xchu’i keh	xchu’i keh 
+67	34-1-77-1	721191879099144	Q'eqchi'	kekc1242	the ice	ICE	617		ke	ke 
+68	34-1-78-1	721191267830089	Q'eqchi'	kekc1242	the weather	WEATHER	952		kutan	kutan 
+69	34-1-81-1	721191366141530	Q'eqchi'	kekc1242	the fire	FIRE	221		xam	xam 
+70	34-1-82-1	721191324925531	Q'eqchi'	kekc1242	the flame	FLAME	889		raq’xam	raq’xam 
+71	34-1-83-1	72119136831571	Q'eqchi'	kekc1242	the smoke	SMOKE (EXHAUST)	778		sib’	sib’ 
+72	34-1-84-1	721191957157483	Q'eqchi'	kekc1242	the ash	ASH	646		cha	cha 
+73	34-1-841-1	721191454924740	Q'eqchi'	kekc1242	the embers	EMBERS	67		ruuxam	ruuxam 
+74	34-1-851-1	721191738282933	Q'eqchi'	kekc1242	to burn(1)	BURN (SOMETHING)	141		k’at	k’at 
+75	34-1-851-2	721191890210058	Q'eqchi'	kekc1242	to burn(1)	BURN (SOMETHING)	141		choqlenk	choqlenk 
+76	34-1-852-1	721191238615225	Q'eqchi'	kekc1242	to burn(2)	BURNING	1428		humuk	humuk 
+77	34-1-86-1	721191233019276	Q'eqchi'	kekc1242	to light	LIGHT (IGNITE)	737		tz’ab’	tz’ab’ 
+78	34-1-86-2	721191955447765	Q'eqchi'	kekc1242	to light	LIGHT (IGNITE)	737		k’ehok xam	k’ehok xam 
+79	34-1-861-1	721191539744029	Q'eqchi'	kekc1242	to extinguish	EXTINGUISH	127		chup	chup 
+80	34-1-87-1	72119145905849	Q'eqchi'	kekc1242	the match	MATCH	1133		poos	poos 
+81	34-1-88-1	721191979151929	Q'eqchi'	kekc1242	the firewood	FIREWOOD	10		si’	si’ 
+82	34-1-89-1	721191454924740	Q'eqchi'	kekc1242	the charcoal	CHARCOAL	1188		ruuxam	ruuxam 
+83	34-1-89-2	721191797525679	Q'eqchi'	kekc1242	the charcoal	CHARCOAL	1188		sib’j	sib’j 
+84	34-2-1-1	721191334601942	Q'eqchi'	kekc1242	the person	PERSON	683		poyanam	poyanam 
+85	34-2-21-1	721191944183090	Q'eqchi'	kekc1242	the man	MAN	1554		teelom	teelom 
+86	34-2-21-2	721191914838933	Q'eqchi'	kekc1242	the man	MAN	1554		winq	winq 
+87	34-2-22-1	72119197590103	Q'eqchi'	kekc1242	the woman	WOMAN	962		ixq	ixq 
+88	34-2-23-1	721191944183090	Q'eqchi'	kekc1242	male(1)	MALE (OF ANIMAL)	2263		teelom	teelom 
+89	34-2-24-1	72119197590103	Q'eqchi'	kekc1242	female(1)	FEMALE (OF PERSON)	2260		ixq	ixq 
+90	34-2-25-1	721191801300686	Q'eqchi'	kekc1242	the boy	BOY	1366		ch’ajom	ch’ajom 
+91	34-2-25-2	721191497032299	Q'eqchi'	kekc1242	the boy	BOY	1366		saaj al	saaj al 
+92	34-2-25-3	721191393977781	Q'eqchi'	kekc1242	the boy	BOY	1366		ch’ina teelom	ch’ina teelom 
+93	34-2-251-1	721191801300686	Q'eqchi'	kekc1242	the young man	YOUNG MAN	76		ch’ajom	ch’ajom 
+94	34-2-26-1	721191910934319	Q'eqchi'	kekc1242	the girl	GIRL	1646		saaj ixqa’al	saaj ixqa’al 
+95	34-2-26-2	721191480482255	Q'eqchi'	kekc1242	the girl	GIRL	1646		ch’ina ixqa’al	ch’ina ixqa’al 
+96	34-2-261-1	721191911341818	Q'eqchi'	kekc1242	the young woman	YOUNG WOMAN	77		ixqa’al ~ xqa’al ~ qa’al	ixqa’al ~ xqa’al ~ qa’al 
+97	34-2-261-2	721191462248715	Q'eqchi'	kekc1242	the young woman	YOUNG WOMAN	77		tu’q’ixq	tu’q’ixq 
+98	34-2-27-1	721191408001546	Q'eqchi'	kekc1242	the child(1)	CHILD (YOUNG HUMAN)	1304		al	al 
+99	34-2-28-1	721191528343362	Q'eqchi'	kekc1242	the baby	BABY	1289		b’ab’ay	b’ab’ay 
+100	34-2-28-2	721191318499708	Q'eqchi'	kekc1242	the baby	BABY	1289		kach’in	kach’in 
+101	34-2-31-1	721191508573165	Q'eqchi'	kekc1242	the husband	HUSBAND	1200		b’eelom	b’eelom 
+102	34-2-32-1	721191818544444	Q'eqchi'	kekc1242	the wife	WIFE	1199		ixaqil	ixaqil 
+103	34-2-33-1	721191706317700	Q'eqchi'	kekc1242	to marry	MARRY	203		k’am	k’am 
+104	34-2-33-2	721191720628062	Q'eqchi'	kekc1242	to marry	MARRY	203		sumlaak	sumlaak 
+105	34-2-34-1	721191684157897	Q'eqchi'	kekc1242	the wedding	WEDDING	1259		sumlajik	sumlajik 
+106	34-2-341-1	721191965621841	Q'eqchi'	kekc1242	the divorce	DIVORCE	1134		jachoj ib’	jachoj ib’ 
+107	34-2-35-1	721191327919521	Q'eqchi'	kekc1242	the father	FATHER	1217		taat	taat 
+108	34-2-35-2	721191872228915	Q'eqchi'	kekc1242	the father	FATHER	1217		yuwa’	yuwa’ 
+109	34-2-36-1	721191910332784	Q'eqchi'	kekc1242	the mother	MOTHER	1216		na’	na’ 
+110	34-2-37-1	72119190504076	Q'eqchi'	kekc1242	the parents	PARENTS	505		inna’ inyuwa’	inna’ inyuwa’ 
+111	34-2-38-1	72119181261697	Q'eqchi'	kekc1242	the married man	MARRIED MAN	424		sumsuukil	sumsuukil 
+112	34-2-39-1	72119181261697	Q'eqchi'	kekc1242	the married woman	MARRIED WOMAN	426		sumsuukil	sumsuukil 
+113	34-2-41-1	721191408001546	Q'eqchi'	kekc1242	the son	SON	1620		al	al 
+114	34-2-41-2	721191363630423	Q'eqchi'	kekc1242	the son	SON	1620		alal	alal 
+115	34-2-42-1	721191733542669	Q'eqchi'	kekc1242	the daughter	DAUGHTER	1357		ko’	ko’ 
+116	34-2-42-2	721191623511404	Q'eqchi'	kekc1242	the daughter	DAUGHTER	1357		rab’in	rab’in 
+117	34-2-43-1	721191605587955	Q'eqchi'	kekc1242	the child(2)	CHILD (DESCENDANT)	1801		k’ajol	k’ajol 
+118	34-2-44-1	721191156305878	Q'eqchi'	kekc1242	the brother	BROTHER	1262		as	as 
+119	34-2-444-1	721191156305878	Q'eqchi'	kekc1242	the older brother	OLDER BROTHER	1759		as	as 
+120	34-2-445-1	721191264558077	Q'eqchi'	kekc1242	the younger brother	YOUNGER BROTHER	1760		iitz’in	iitz’in 
+121	34-2-45-1	721191465621415	Q'eqchi'	kekc1242	the sister	SISTER	1263		anab’	anab’ 
+122	34-2-454-1	721191485200336	Q'eqchi'	kekc1242	the older sister	OLDER SISTER	1758		chaq’na’	chaq’na’ 
+123	34-2-455-1	721191264558077	Q'eqchi'	kekc1242	the younger sister	YOUNGER SISTER	1761		iitz’in	iitz’in 
+124	34-2-456-1	721191465621415	Q'eqchi'	kekc1242	the sibling	SIBLING	1640		anab’	anab’ 
+125	34-2-458-1	721191296070601	Q'eqchi'	kekc1242	the twins	TWINS	1005		lut	lut 
+126	34-2-46-1	721191645880707	Q'eqchi'	kekc1242	the grandfather	GRANDFATHER	1383		mama’	mama’ 
+127	34-2-46-2	72119196389749	Q'eqchi'	kekc1242	the grandfather	GRANDFATHER	1383		mel	mel 
+128	34-2-461-1	721191171952012	Q'eqchi'	kekc1242	the old man	OLD MAN	406		tiix	tiix 
+129	34-2-47-1	721191927019619	Q'eqchi'	kekc1242	the grandmother	GRANDMOTHER	1496		ixa’an	ixa’an 
+130	34-2-47-2	721191644638013	Q'eqchi'	kekc1242	the grandmother	GRANDMOTHER	1496		na’chin	na’chin 
+131	34-2-471-1	721191171952012	Q'eqchi'	kekc1242	the old woman	OLD WOMAN	907		tiix	tiix 
+132	34-2-48-1	721191723928737	Q'eqchi'	kekc1242	the grandson	GRANDSON	1618		ii	ii 
+133	34-2-49-1	721191723928737	Q'eqchi'	kekc1242	the granddaughter	GRANDDAUGHTER	1619		ii	ii 
+134	34-2-51-1	72119177222545	Q'eqchi'	kekc1242	the uncle	UNCLE	1327		ikan	ikan 
+135	34-2-511-1	72119177222545	Q'eqchi'	kekc1242	the mother's brother	MOTHER'S BROTHER	1984		ikan	ikan 
+136	34-2-52-1	721191203642840	Q'eqchi'	kekc1242	the aunt	AUNT	1272		ikan na’	ikan na’ 
+137	34-2-52-2	721191964733134	Q'eqchi'	kekc1242	the aunt	AUNT	1272		na’ eechej	na’ eechej 
+138	34-2-521-1	721191174031342	Q'eqchi'	kekc1242	the mother's sister	MOTHER'S SISTER	171		xchaq’na’ na’	xchaq’na’ na’ 
+139	34-2-522-1	721191509124950	Q'eqchi'	kekc1242	the father's sister	FATHER'S SISTER	170		ranab’ xyuwa’	ranab’ xyuwa’ 
+140	34-2-53-1	72119156246884	Q'eqchi'	kekc1242	the nephew	NEPHEW	1063		ral chaq’na’	ral chaq’na’ 
+141	34-2-54-1	72119156246884	Q'eqchi'	kekc1242	the niece	NIECE	1642		ral chaq’na’	ral chaq’na’ 
+142	34-2-54-2	721191261035632	Q'eqchi'	kekc1242	the niece	NIECE	1642		xrabin iitz’in	xrabin iitz’in 
+143	34-2-54-3	721191876631068	Q'eqchi'	kekc1242	the niece	NIECE	1642		xrab’in as	xrab’in as 
+144	34-2-54-4	721191926150245	Q'eqchi'	kekc1242	the niece	NIECE	1642		ralal ikan	ralal ikan 
+145	34-2-55-1	721191199414260	Q'eqchi'	kekc1242	the cousin	COUSIN	1643		as e	as e 
+146	34-2-56-1	721191159214307	Q'eqchi'	kekc1242	the ancestors	ANCESTORS	1669		xe’toon	xe’toon 
+147	34-2-57-1	721191328109152	Q'eqchi'	kekc1242	the descendants	DESCENDANTS	490		ralal xk’ajol	ralal xk’ajol 
+148	34-2-61-1	721191462782946	Q'eqchi'	kekc1242	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		xyuwa’ ixaqil	xyuwa’ ixaqil 
+149	34-2-611-1	721191742705853	Q'eqchi'	kekc1242	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		xyuwa’ b’eelom	xyuwa’ b’eelom 
+150	34-2-62-1	721191938112791	Q'eqchi'	kekc1242	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		xna’ ixaqil	xna’ ixaqil 
+151	34-2-621-1	721191130352493	Q'eqchi'	kekc1242	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		xna’ b’eelom	xna’ b’eelom 
+152	34-2-63-1	721191470402155	Q'eqchi'	kekc1242	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		hi’	hi’ 
+153	34-2-631-1	721191470402155	Q'eqchi'	kekc1242	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		hi’	hi’ 
+154	34-2-64-1	721191882944841	Q'eqchi'	kekc1242	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		alib’	alib’ 
+155	34-2-641-1	721191882944841	Q'eqchi'	kekc1242	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		alib’	alib’ 
+156	34-2-71-1	721191905480056	Q'eqchi'	kekc1242	the stepfather	STEPFATHER	237		xkab’ yuwa’	xkab’ yuwa’ 
+157	34-2-72-1	721191450930265	Q'eqchi'	kekc1242	the stepmother	STEPMOTHER	236		xkab’ na’	xkab’ na’ 
+158	34-2-73-1	72119151925805	Q'eqchi'	kekc1242	the stepson	STEPSON	1059		kab’ alal	kab’ alal 
+159	34-2-74-1	721191734622983	Q'eqchi'	kekc1242	the stepdaughter	STEPDAUGHTER	1058		ka’ ralal	ka’ ralal 
+160	34-2-74-2	721191476056007	Q'eqchi'	kekc1242	the stepdaughter	STEPDAUGHTER	1058		xka’ alalb’ej	xka’ alalb’ej 
+161	34-2-75-1	721191514457287	Q'eqchi'	kekc1242	the orphan	ORPHAN	1149		neb’a’	neb’a’ 
+162	34-2-76-1	72119155364787	Q'eqchi'	kekc1242	the widow	WIDOW	1756		xmalka’an, malka’an	xmalka’an 
+163	34-2-76-2	72119155364787	Q'eqchi'	kekc1242	the widow	WIDOW	1756		xmalka’an, malka’an	malka’an 
+164	34-2-77-1	721191554690734	Q'eqchi'	kekc1242	the widower	WIDOWER	1981		te’elch’ol	te’elch’ol 
+165	34-2-81-1	721191224818433	Q'eqchi'	kekc1242	the relatives	RELATIVES	1644		amaq’il tenamit	amaq’il tenamit 
+166	34-2-81-2	721191683990089	Q'eqchi'	kekc1242	the relatives	RELATIVES	1644		ruk’	ruk’ 
+167	34-2-81-3	721191539733417	Q'eqchi'	kekc1242	the relatives	RELATIVES	1644		cha’al	cha’al 
+168	34-2-81-4	721191914195516	Q'eqchi'	kekc1242	the relatives	RELATIVES	1644		komon	komon 
+169	34-2-82-1	72119175336956	Q'eqchi'	kekc1242	the family	FAMILY	194		kab’lal	kab’lal 
+170	34-2-91-1	721191947570385	Q'eqchi'	kekc1242	I	I	1209		laa’in	laa’in 
+171	34-2-92-1	72119123463083	Q'eqchi'	kekc1242	you (singular)	THOU	1215		laa’at, at	laa’at 
+172	34-2-92-2	72119123463083	Q'eqchi'	kekc1242	you (singular)	THOU	1215		laa’at, at	at 
+173	34-2-93-1	721191802599226	Q'eqchi'	kekc1242	he/she/it	HE OR SHE OR IT	262		ha’an, a’an	ha’an 
+174	34-2-93-2	721191802599226	Q'eqchi'	kekc1242	he/she/it	HE OR SHE OR IT	262		ha’an, a’an	a’an 
+175	34-2-94-1	721191171946670	Q'eqchi'	kekc1242	we	WE	1212		laa’o, aa’o, ha’o	laa’o 
+176	34-2-94-2	721191171946670	Q'eqchi'	kekc1242	we	WE	1212		laa’o, aa’o, ha’o	aa’o 
+177	34-2-94-3	721191171946670	Q'eqchi'	kekc1242	we	WE	1212		laa’o, aa’o, ha’o	ha’o 
+178	34-2-941-1	721191171946670	Q'eqchi'	kekc1242	we (inclusive)	WE (INCLUSIVE)	1131		laa’o, aa’o, ha’o	laa’o 
+179	34-2-941-2	721191171946670	Q'eqchi'	kekc1242	we (inclusive)	WE (INCLUSIVE)	1131		laa’o, aa’o, ha’o	aa’o 
+180	34-2-941-3	721191171946670	Q'eqchi'	kekc1242	we (inclusive)	WE (INCLUSIVE)	1131		laa’o, aa’o, ha’o	ha’o 
+181	34-2-941-4	721191976260820	Q'eqchi'	kekc1242	we (inclusive)	WE (INCLUSIVE)	1131		haa’o	haa’o 
+182	34-2-942-1	721191802574284	Q'eqchi'	kekc1242	we (exclusive)	WE (EXCLUSIVE)	1130		ka’ajwi’ laa’o	ka’ajwi’ laa’o 
+183	34-2-95-1	721191508630995	Q'eqchi'	kekc1242	you (plural)	YOU	1213		laa’ex	laa’ex 
+184	34-2-96-1	721191484972502	Q'eqchi'	kekc1242	they	THEY	817		eb’, teb’	eb’ 
+185	34-2-96-2	721191484972502	Q'eqchi'	kekc1242	they	THEY	817		eb’, teb’	teb’ 
+186	34-3-11-1	721191572389418	Q'eqchi'	kekc1242	the animal	ANIMAL	619		xul	xul 
+187	34-3-12-1	721191677690054	Q'eqchi'	kekc1242	male(2)	MALE (OF PERSON)	2261		k’ol	k’ol 
+188	34-3-13-1	72119197590103	Q'eqchi'	kekc1242	female(2)	FEMALE (OF ANIMAL)	2262		ixq	ixq 
+189	34-3-15-1	721191601362807	Q'eqchi'	kekc1242	the livestock	LIVESTOCK	631		ketomj	ketomj 
+190	34-3-16-1	721191619318793	Q'eqchi'	kekc1242	the pasture	PASTURE	649		potreer, potrero	potreer 
+191	34-3-16-2	721191619318793	Q'eqchi'	kekc1242	the pasture	PASTURE	649		potreer, potrero	potrero 
+192	34-3-16-3	721191408031166	Q'eqchi'	kekc1242	the pasture	PASTURE	649		koral wakax	koral wakax 
+193	34-3-16-4	721191513198870	Q'eqchi'	kekc1242	the pasture	PASTURE	649		rax ch’och’	rax ch’och’ 
+194	34-3-18-1	721191885201920	Q'eqchi'	kekc1242	the herdsman	HERDSMAN	263		aj k’aak’alehom ketomq	aj k’aak’alehom ketomq 
+195	34-3-18-2	721191967762124	Q'eqchi'	kekc1242	the herdsman	HERDSMAN	263		aj ilol xul	aj ilol xul 
+196	34-3-19-1	721191901815696	Q'eqchi'	kekc1242	the stable or stall	STABLE	851		xna’aj wakax	xna’aj wakax 
+197	34-3-2-1	72119189648302	Q'eqchi'	kekc1242	the cattle	CATTLE	1153		wakax	wakax 
+198	34-3-22-1	721191192301854	Q'eqchi'	kekc1242	the ox	OX	1169		b’ooyx	b’ooyx 
+199	34-3-23-1	721191495828580	Q'eqchi'	kekc1242	the cow	COW	1007		b’aak	b’aak 
+200	34-3-24-1	721191978164250	Q'eqchi'	kekc1242	the calf	CALF	1989		ral wakax	ral wakax 
+201	34-3-25-1	721191262998317	Q'eqchi'	kekc1242	the sheep	SHEEP	1331		karneer	karneer 
+202	34-3-26-1	721191262998317	Q'eqchi'	kekc1242	the ram	RAM	1344		karneer	karneer 
+203	34-3-28-1	721191262998317	Q'eqchi'	kekc1242	the ewe	EWE	1345		karneer	karneer 
+204	34-3-29-1	721191691197170	Q'eqchi'	kekc1242	the lamb	LAMB	820		ob’eja	ob’eja 
+205	34-3-29-2	721191432179347	Q'eqchi'	kekc1242	the lamb	LAMB	820		b’orego	b’orego 
+206	34-3-29-3	721191694909285	Q'eqchi'	kekc1242	the lamb	LAMB	820		kordero	kordero 
+207	34-3-32-1	721191157711016	Q'eqchi'	kekc1242	the boar	BOAR	1348		chakow	chakow 
+208	34-3-34-1	721191375397332	Q'eqchi'	kekc1242	the sow	SOW (FEMALE PIG)	1351		ixqi aaq	ixqi aaq 
+209	34-3-34-2	721191325349497	Q'eqchi'	kekc1242	the sow	SOW (FEMALE PIG)	1351		xa’an aaq	xa’an aaq 
+210	34-3-35-1	721191247077522	Q'eqchi'	kekc1242	the pig	PIG	1337		kuy	kuy 
+211	34-3-36-1	721191241054721	Q'eqchi'	kekc1242	the goat	GOAT	1502		yuk	yuk 
+212	34-3-37-1	721191344085420	Q'eqchi'	kekc1242	the he-goat	HE-GOAT	264		chib’aat	chib’aat 
+213	34-3-38-1	721191840570433	Q'eqchi'	kekc1242	the kid	KID	1972		ral yuk	ral yuk 
+214	34-3-41-1	7211918307506	Q'eqchi'	kekc1242	the horse	HORSE	615		kawaay	kawaay 
+215	34-3-42-1	7211918307506	Q'eqchi'	kekc1242	the stallion	STALLION	936		kawaay	kawaay 
+216	34-3-42-2	721191560289775	Q'eqchi'	kekc1242	the stallion	STALLION	936		b’uro, b’uur	b’uro 
+217	34-3-42-3	721191560289775	Q'eqchi'	kekc1242	the stallion	STALLION	936		b’uro, b’uur	b’uur 
+218	34-3-42-4	721191503316929	Q'eqchi'	kekc1242	the stallion	STALLION	936		granyon	granyon 
+219	34-3-44-1	721191165982737	Q'eqchi'	kekc1242	the mare	MARE	938		xna’ kawaay	xna’ kawaay 
+220	34-3-45-1	72119170279373	Q'eqchi'	kekc1242	the foal or colt	FOAL	1647		ral kawaay	ral kawaay 
+221	34-3-46-1	721191560289775	Q'eqchi'	kekc1242	the donkey	DONKEY	1862		b’uro, b’uur	b’uro 
+222	34-3-46-2	721191560289775	Q'eqchi'	kekc1242	the donkey	DONKEY	1862		b’uro, b’uur	b’uur 
+223	34-3-47-1	7211916367730	Q'eqchi'	kekc1242	the mule	MULE	890		muul	muul 
+224	34-3-5-1	721191834880169	Q'eqchi'	kekc1242	the fowl	FOWL	265		tz’ik	tz’ik 
+225	34-3-52-1	721191358027264	Q'eqchi'	kekc1242	the cock/rooster	ROOSTER	1511		tzo’ kaxlan	tzo’ kaxlan 
+226	34-3-54-1	721191715634558	Q'eqchi'	kekc1242	the hen	HEN	1514		xa’an kaxlan	xa’an kaxlan 
+227	34-3-54-2	721191933176804	Q'eqchi'	kekc1242	the hen	HEN	1514		tux kaxlan	tux kaxlan 
+228	34-3-55-1	721191424956229	Q'eqchi'	kekc1242	the chicken	CHICKEN	1318		kaxlan	kaxlan 
+229	34-3-56-1	721191507911300	Q'eqchi'	kekc1242	the goose	GOOSE	1187		ganso	ganso 
+230	34-3-57-1	721191758099134	Q'eqchi'	kekc1242	the duck	DUCK	1360		patux	patux 
+231	34-3-58-1	721191163587926	Q'eqchi'	kekc1242	the nest	NEST	539		suk	suk 
+232	34-3-581-1	721191834880169	Q'eqchi'	kekc1242	the bird	BIRD	937		tz’ik	tz’ik 
+233	34-3-583-1	72119183353666	Q'eqchi'	kekc1242	the heron	HERON	758		jotz	jotz 
+234	34-3-583-2	72119178782279	Q'eqchi'	kekc1242	the heron	HERON	758		saqikil	saqikil 
+235	34-3-583-3	72119118867450	Q'eqchi'	kekc1242	the heron	HERON	758		patux ha’	patux ha’ 
+236	34-3-584-1	721191358504195	Q'eqchi'	kekc1242	the eagle	EAGLE	1905		t’iw	t’iw 
+237	34-3-585-1	721191520898599	Q'eqchi'	kekc1242	the hawk	HAWK	307		k’uch	k’uch 
+238	34-3-586-1	721191555437002	Q'eqchi'	kekc1242	the vulture	VULTURE	1185		so’sol	so’sol 
+239	34-3-591-1	721191623649242	Q'eqchi'	kekc1242	the bat	BAT	1793		sotz’	sotz’ 
+240	34-3-592-1	721191377266346	Q'eqchi'	kekc1242	the parrot	PARROT	882		loor	loor 
+241	34-3-592-2	72119162526524	Q'eqchi'	kekc1242	the parrot	PARROT	882		chocho’	chocho’ 
+242	34-3-593-1	721191961957424	Q'eqchi'	kekc1242	the crow	CROW	913		qoch	qoch 
+243	34-3-594-1	721191384598767	Q'eqchi'	kekc1242	the dove	DOVE	1853		mukuy	mukuy 
+244	34-3-596-1	721191523771216	Q'eqchi'	kekc1242	the owl	OWL	735		joob’aq	joob’aq 
+245	34-3-596-2	721191974403287	Q'eqchi'	kekc1242	the owl	OWL	735		warom	warom 
+246	34-3-61-1	721191870973332	Q'eqchi'	kekc1242	the dog	DOG	2009		tz’i’	tz’i’ 
+247	34-3-614-1	721191911168232	Q'eqchi'	kekc1242	the rabbit	RABBIT	1136		imul	imul 
+248	34-3-62-1	721191290069648	Q'eqchi'	kekc1242	the cat	CAT	1208		mes, mis	mes 
+249	34-3-62-2	721191290069648	Q'eqchi'	kekc1242	the cat	CAT	1208		mes, mis	mis 
+250	34-3-622-1	721191146899741	Q'eqchi'	kekc1242	the opossum	OPOSSUM	309		aj uch	aj uch 
+251	34-3-622-2	72119162926669	Q'eqchi'	kekc1242	the opossum	OPOSSUM	309		b’aqlaq xul	b’aqlaq xul 
+252	34-3-63-1	721191638440981	Q'eqchi'	kekc1242	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ch’o	ch’o 
+253	34-3-63-2	721191605146851	Q'eqchi'	kekc1242	the mouse or rat	MUROID (MOUSE OR RAT)	2139		uch ch’o	uch ch’o 
+254	34-3-65-1	721191910722985	Q'eqchi'	kekc1242	the fish	FISH	227		kar	kar 
+255	34-3-652-1	721191241066965	Q'eqchi'	kekc1242	the fin	FIN	213		xik’	xik’ 
+256	34-3-653-1	721191855546207	Q'eqchi'	kekc1242	the scale	SCALE	266		solel	solel 
+257	34-3-654-1	721191822696667	Q'eqchi'	kekc1242	the gill	GILL	1916		xoob’, xob’	xoob’ 
+258	34-3-654-2	721191822696667	Q'eqchi'	kekc1242	the gill	GILL	1916		xoob’, xob’	xob’ 
+259	34-3-655-1	721191555689289	Q'eqchi'	kekc1242	the shell	SHELL	598		soch	soch 
+260	34-3-661-1	721191752210780	Q'eqchi'	kekc1242	the shark	SHARK	1110		tiburon	tiburon 
+261	34-3-663-1	721191793309081	Q'eqchi'	kekc1242	the whale	WHALE	957		b’ayeen	b’ayeen 
+262	34-3-665-1	721191686110866	Q'eqchi'	kekc1242	the freshwater eel	FRESHWATER EEL	1013		k’anti’ kar	k’anti’ kar 
+263	34-3-71-1	721191300751093	Q'eqchi'	kekc1242	the wolf	WOLF	522		lob’o	lob’o 
+264	34-3-71-2	721191719304773	Q'eqchi'	kekc1242	the wolf	WOLF	522		aj xoj	aj xoj 
+265	34-3-72-1	721191210637528	Q'eqchi'	kekc1242	the lion	LION	1386		kaq koj	kaq koj 
+266	34-3-73-1	721191906288386	Q'eqchi'	kekc1242	the bear	BEAR	1820		oos	oos 
+267	34-3-74-1	721191370097069	Q'eqchi'	kekc1242	the fox	FOX	1312		yak	yak 
+268	34-3-75-1	721191158986396	Q'eqchi'	kekc1242	the deer	DEER	1936		kej	kej 
+269	34-3-76-1	721191232351541	Q'eqchi'	kekc1242	the monkey	MONKEY	1350		b’atz’	b’atz’ 
+270	34-3-77-1	721191346005653	Q'eqchi'	kekc1242	the elephant	ELEPHANT	1290		elefaant	elefaant 
+271	34-3-78-1	721191412431678	Q'eqchi'	kekc1242	the camel	CAMEL	1871		kameey	kameey 
+272	34-3-81-1	72119185320049	Q'eqchi'	kekc1242	the insect	INSECT	620		insekto	insekto 
+273	34-3-811-1	72119130138775	Q'eqchi'	kekc1242	the head louse	HEAD LOUSE	310		uk’	uk’ 
+274	34-3-812-1	721191807820035	Q'eqchi'	kekc1242	the nit	NIT	267		k’ot uk’	k’ot uk’ 
+275	34-3-813-1	721191415444873	Q'eqchi'	kekc1242	the flea	FLEA	232		k’aq	k’aq 
+276	34-3-814-1	721191681262647	Q'eqchi'	kekc1242	the centipede	CENTIPEDE	1974		kojoj	kojoj 
+277	34-3-815-1	721191809895372	Q'eqchi'	kekc1242	the scorpion	SCORPION	1538		xook’	xook’ 
+278	34-3-816-1	721191590108126	Q'eqchi'	kekc1242	the cockroach	COCKROACH	1575		paachach	paachach 
+279	34-3-817-1	721191297735745	Q'eqchi'	kekc1242	the ant	ANT	587		sank	sank 
+280	34-3-818-1	72119163898289	Q'eqchi'	kekc1242	the spider	SPIDER	843		aj am ~ x’am	aj am ~ x’am 
+281	34-3-819-1	721191971161401	Q'eqchi'	kekc1242	the spider web	SPIDER WEB	1065		xkem aj am	xkem aj am 
+282	34-3-82-1	721191707179665	Q'eqchi'	kekc1242	the bee	BEE	665		seer	seer 
+283	34-3-821-1	721191565401307	Q'eqchi'	kekc1242	the beeswax	BEESWAX	1931		tz’aak	tz’aak 
+284	34-3-822-1	721191880085829	Q'eqchi'	kekc1242	the beehive	BEEHIVE	88		rochoch kab'	rochoch kab' 
+285	34-3-822-2	721191972579634	Q'eqchi'	kekc1242	the beehive	BEEHIVE	88		xche'el kab'	xche'el kab' 
+286	34-3-823-1	721191417829781	Q'eqchi'	kekc1242	the wasp	WASP	1517		ch’ub’	ch’ub’ 
+287	34-3-83-1	721191781813358	Q'eqchi'	kekc1242	the fly	FLY (INSECT)	1504		b’ujl	b’ujl 
+288	34-3-83-2	721191145289437	Q'eqchi'	kekc1242	the fly	FLY (INSECT)	1504		utz’	utz’ 
+289	34-3-831-1	721191299166456	Q'eqchi'	kekc1242	the sandfly or midge or gnat	SANDFLY	95		k’ux	k’ux 
+290	34-3-831-2	721191275973188	Q'eqchi'	kekc1242	the sandfly or midge or gnat	SANDFLY	95		suq	suq 
+291	34-3-832-1	721191275973188	Q'eqchi'	kekc1242	the mosquito	MOSQUITO	1509		suq	suq 
+292	34-3-832-2	721191443121744	Q'eqchi'	kekc1242	the mosquito	MOSQUITO	1509		kok’ utz’	kok’ utz’ 
+293	34-3-832-3	721191424235154	Q'eqchi'	kekc1242	the mosquito	MOSQUITO	1509		ch’een	ch’een 
+294	34-3-84-1	721191932299511	Q'eqchi'	kekc1242	the worm	WORM	1219		kuluk	kuluk 
+295	34-3-84-2	721191322588888	Q'eqchi'	kekc1242	the worm	WORM	1219		k’utub’	k’utub’ 
+296	34-3-84-3	721191551386791	Q'eqchi'	kekc1242	the worm	WORM	1219		hay	hay 
+297	34-3-84-4	721191817669030	Q'eqchi'	kekc1242	the worm	WORM	1219		motzo’	motzo’ 
+298	34-3-84-5	721191550979624	Q'eqchi'	kekc1242	the worm	WORM	1219		tzonok’	tzonok’ 
+299	34-3-84-6	721191162266287	Q'eqchi'	kekc1242	the worm	WORM	1219		koton is	koton is 
+300	34-3-84-7	721191693102305	Q'eqchi'	kekc1242	the worm	WORM	1219		chajal	chajal 
+301	34-3-84-8	721191441062932	Q'eqchi'	kekc1242	the worm	WORM	1219		chupil	chupil 
+302	34-3-84-9	721191109308554	Q'eqchi'	kekc1242	the worm	WORM	1219		k’ixix	k’ixix 
+303	34-3-84-10	721191575311864	Q'eqchi'	kekc1242	the worm	WORM	1219		b’itzkiri’	b’itzkiri’ 
+304	34-3-84-11	721191494794225	Q'eqchi'	kekc1242	the worm	WORM	1219		pirik’	pirik’ 
+305	34-3-84-12	721191390426578	Q'eqchi'	kekc1242	the worm	WORM	1219		tin	tin 
+306	34-3-85-1	721191578556729	Q'eqchi'	kekc1242	the snake	SNAKE	730		k’anti’	k’anti’ 
+307	34-3-91-1	721191319642371	Q'eqchi'	kekc1242	the firefly	FIREFLY	206		mams	mams 
+308	34-3-92-1	72119130133659	Q'eqchi'	kekc1242	the butterfly	BUTTERFLY	1791		peepem	peepem 
+309	34-3-93-1	721191721427982	Q'eqchi'	kekc1242	the grasshopper	GRASSHOPPER	607		saak’	saak’ 
+310	34-3-94-1	721191712982246	Q'eqchi'	kekc1242	the snail	SNAIL	1543		pemech	pemech 
+311	34-3-94-2	721191640740375	Q'eqchi'	kekc1242	the snail	SNAIL	1543		pur	pur 
+312	34-3-94-3	721191420247422	Q'eqchi'	kekc1242	the snail	SNAIL	1543		tziitzib’	tziitzib’ 
+313	34-3-95-1	721191725709244	Q'eqchi'	kekc1242	the frog	FROG	503		pelpel	pelpel 
+314	34-3-95-2	721191234972443	Q'eqchi'	kekc1242	the frog	FROG	503		amoch	amoch 
+315	34-3-96-1	721191815904867	Q'eqchi'	kekc1242	the lizard	LIZARD	632		tolokok	tolokok 
+316	34-3-97-1	72119196286156	Q'eqchi'	kekc1242	the crocodile or alligator	CROCODILE	1857		ayin	ayin 
+317	34-3-98-1	721191472619726	Q'eqchi'	kekc1242	the turtle	TURTLE	112		kok	kok 
+318	34-4-11-1	721191458049365	Q'eqchi'	kekc1242	the body	BODY	1480		tz’ejwal	tz’ejwal 
+319	34-4-12-1	721191412546464	Q'eqchi'	kekc1242	the skin or hide	SKIN	763		tz’uumal	tz’uumal 
+320	34-4-12-2	721191165291262	Q'eqchi'	kekc1242	the skin or hide	SKIN	763		rix xul	rix xul 
+321	34-4-13-1	721191944126016	Q'eqchi'	kekc1242	the flesh	FLESH	2259		tib’	tib’ 
+322	34-4-14-1	721191232759374	Q'eqchi'	kekc1242	the hair	HAIR (HEAD)	2648		ismal	ismal 
+323	34-4-142-1	72119168143666	Q'eqchi'	kekc1242	the beard	BEARD	678		mach	mach 
+324	34-4-144-1	721191811389598	Q'eqchi'	kekc1242	the body hair	HAIR (BODY)	189		q’ol is	q’ol is 
+325	34-4-145-1	721191232759374	Q'eqchi'	kekc1242	the pubic hair	PUBIC HAIR	36		ismal	ismal 
+326	34-4-146-1	721191938492522	Q'eqchi'	kekc1242	the dandruff	DANDRUFF	576		salb’a	salb’a 
+327	34-4-15-1	721191307619618	Q'eqchi'	kekc1242	the blood	BLOOD	946		kik’	kik’ 
+328	34-4-151-1	721191339920841	Q'eqchi'	kekc1242	the vein or artery	BLOOD VESSEL	525		ich’	ich’ 
+329	34-4-16-1	72119179169250	Q'eqchi'	kekc1242	the bone	BONE	1394		b’aq	b’aq 
+330	34-4-162-1	721191296847413	Q'eqchi'	kekc1242	the rib	RIB	801		poolok'il	poolok'il 
+331	34-4-17-1	721191664797519	Q'eqchi'	kekc1242	the horn	HORN (ANATOMY)	1393		xukub'	xukub' 
+332	34-4-18-1	721191397462473	Q'eqchi'	kekc1242	the tail	TAIL	1220		ye	ye 
+333	34-4-19-1	721191900347723	Q'eqchi'	kekc1242	the back	BACK	1291		ix	ix 
+334	34-4-19-2	721191840605819	Q'eqchi'	kekc1242	the back	BACK	1291		xaal it	xaal it 
+335	34-4-191-1	721191497844361	Q'eqchi'	kekc1242	the spine	SPINE	805		juruch'	juruch' 
+336	34-4-2-1	721191676287857	Q'eqchi'	kekc1242	the head	HEAD	1256		jolom	jolom 
+337	34-4-201-1	721191121516136	Q'eqchi'	kekc1242	the temples	TEMPLES	1604		k'atq jolom	k'atq jolom 
+338	34-4-202-1	721191285790668	Q'eqchi'	kekc1242	the skull	SKULL	1605		b'aqel jolom	b'aqel jolom 
+339	34-4-203-1	721191272176189	Q'eqchi'	kekc1242	the brain	BRAIN	1583		ulul	ulul 
+340	34-4-204-1	721191787320014	Q'eqchi'	kekc1242	the face	FACE	1560		u	u 
+341	34-4-205-1	721191787320014	Q'eqchi'	kekc1242	the forehead	FOREHEAD	123		u	u 
+342	34-4-205-2	721191894679382	Q'eqchi'	kekc1242	the forehead	FOREHEAD	123		peekem	peekem 
+343	34-4-207-1	721191991909962	Q'eqchi'	kekc1242	the jaw	JAW	798		rub'el e	rub'el e 
+344	34-4-208-1	72119163930424	Q'eqchi'	kekc1242	the cheek	CHEEK	1730		ko	ko 
+345	34-4-209-1	721191176444476	Q'eqchi'	kekc1242	the chin	CHIN	1510		rub’el e, rub’el eh	rub’el e 
+346	34-4-209-2	721191176444476	Q'eqchi'	kekc1242	the chin	CHIN	1510		rub’el e, rub’el eh	rub’el eh 
+347	34-4-21-1	721191166309646	Q'eqchi'	kekc1242	the eye	EYE	1248		sa’ u	sa’ u 
+348	34-4-21-2	721191640177592	Q'eqchi'	kekc1242	the eye	EYE	1248		xnaq’ u	xnaq’ u 
+349	34-4-212-1	72119114254401	Q'eqchi'	kekc1242	the eyebrow	EYEBROW	1173		maatzab'	maatzab' 
+350	34-4-213-1	721191562995760	Q'eqchi'	kekc1242	the eyelid	EYELID	17		rix u	rix u 
+351	34-4-214-1	721191999573799	Q'eqchi'	kekc1242	the eyelash	EYELASH	1540		rismal u	rismal u 
+352	34-4-215-1	721191391134378	Q'eqchi'	kekc1242	to blink	BLINK	1655		eek'asink rix u	eek'asink rix u 
+353	34-4-215-2	721191328371787	Q'eqchi'	kekc1242	to blink	BLINK	1655		yuqyuqink	yuqyuqink 
+354	34-4-215-3	721191643656159	Q'eqchi'	kekc1242	to blink	BLINK	1655		rik'ok	rik'ok 
+355	34-4-215-4	721191738573271	Q'eqchi'	kekc1242	to blink	BLINK	1655		mutz'mutz'ink	mutz'mutz'ink 
+356	34-4-22-1	721191400912511	Q'eqchi'	kekc1242	the ear	EAR	1247		xik (1)	xik (1) 
+357	34-4-222-1	721191514813606	Q'eqchi'	kekc1242	the earwax	EARWAX	32		xk’ot xik	xk’ot xik 
+358	34-4-23-1	721191234792136	Q'eqchi'	kekc1242	the nose	NOSE	1221		u’uj	u’uj 
+359	34-4-231-1	72119114365405	Q'eqchi'	kekc1242	the nostril	NOSTRIL	1178		sa’ u’uj	sa’ u’uj 
+360	34-4-232-1	721191642836025	Q'eqchi'	kekc1242	the nasal mucus	NASAL MUCUS (SNOT)	208		sam	sam 
+361	34-4-24-1	721191354306955	Q'eqchi'	kekc1242	the mouth	MOUTH	674		e	e 
+362	34-4-241-1	721191861735628	Q'eqchi'	kekc1242	the beak	BEAK	73		ruuch e	ruuch e 
+363	34-4-25-1	721191977774448	Q'eqchi'	kekc1242	the lip	LIP	478		tz'uumal e	tz'uumal e 
+364	34-4-26-1	721191369028853	Q'eqchi'	kekc1242	the tongue	TONGUE	1205		ru'uj aq'	ru'uj aq' 
+365	34-4-27-1	721191354306955	Q'eqchi'	kekc1242	the tooth	TOOTH	1380		e	e 
+366	34-4-27-2	721191861735628	Q'eqchi'	kekc1242	the tooth	TOOTH	1380		ruuch e	ruuch e 
+367	34-4-271-1	721191465814054	Q'eqchi'	kekc1242	the gums	GUMS	139		sa’ e	sa’ e 
+368	34-4-272-1	72119111467932	Q'eqchi'	kekc1242	the molar tooth	MOLAR TOOTH	1049		ka’ e	ka’ e 
+369	34-4-28-1	721191395223141	Q'eqchi'	kekc1242	the neck	NECK	1333		kux	kux 
+370	34-4-28-2	721191773838437	Q'eqchi'	kekc1242	the neck	NECK	1333		ja’aj	ja’aj 
+371	34-4-281-1	721191721584029	Q'eqchi'	kekc1242	the nape of the neck	NAPE (OF NECK)	1347		rix kux	rix kux 
+372	34-4-281-2	721191601213488	Q'eqchi'	kekc1242	the nape of the neck	NAPE (OF NECK)	1347		rix ja'aj	rix ja'aj 
+373	34-4-29-1	721191466018798	Q'eqchi'	kekc1242	the throat	THROAT	1346		xolol	xolol 
+374	34-4-3-1	721191684685918	Q'eqchi'	kekc1242	the shoulder	SHOULDER	1482		xb’een tel	xb’een tel 
+375	34-4-301-1	721191702712265	Q'eqchi'	kekc1242	the shoulderblade	SHOULDERBLADE	172		b'aqel xb'een tel	b'aqel xb'een tel 
+376	34-4-31-1	721191844109455	Q'eqchi'	kekc1242	the arm	ARM	1673		tel	tel 
+377	34-4-312-1	721191705854508	Q'eqchi'	kekc1242	the armpit	ARMPIT	1886		sa’ tel	sa’ tel 
+378	34-4-32-1	721191395761856	Q'eqchi'	kekc1242	the elbow	ELBOW	981		ch’uukum	ch’uukum 
+379	34-4-321-1	72119183083500	Q'eqchi'	kekc1242	the wrist	WRIST	799		kux uq'm	kux uq'm 
+380	34-4-33-1	72119175468774	Q'eqchi'	kekc1242	the hand	HAND	1277		uq’m	uq’m 
+381	34-4-331-1	721191778126035	Q'eqchi'	kekc1242	the palm of the hand	PALM OF HAND	1183		sa’ uq’	sa’ uq’ 
+382	34-4-34-1	721191807200589	Q'eqchi'	kekc1242	the finger	FINGER	1303		ru’uj uq’	ru’uj uq’ 
+383	34-4-342-1	721191139727082	Q'eqchi'	kekc1242	the thumb	THUMB	1781		na' uq'm	na' uq'm 
+384	34-4-344-1	721191675059	Q'eqchi'	kekc1242	the fingernail	FINGERNAIL	1258		ixi’ij	ixi’ij 
+385	34-4-345-1	721191997386305	Q'eqchi'	kekc1242	the claw	CLAW	72		yax	yax 
+386	34-4-345-2	721191675059	Q'eqchi'	kekc1242	the claw	CLAW	72		ixi’ij	ixi’ij 
+387	34-4-35-1	721191294833430	Q'eqchi'	kekc1242	the leg	LEG	1297		a’	a’ 
+388	34-4-351-1	721191229715783	Q'eqchi'	kekc1242	the thigh	THIGH	800		ru a’	ru a’ 
+389	34-4-352-1	72119111901290	Q'eqchi'	kekc1242	the calf of the leg	CALF OF LEG	498		xsu oq, su oq	xsu oq 
+390	34-4-352-2	72119111901290	Q'eqchi'	kekc1242	the calf of the leg	CALF OF LEG	498		xsu oq, su oq	su oq 
+391	34-4-36-1	721191422740120	Q'eqchi'	kekc1242	the knee	KNEE	1371		aq (1)	aq (1) 
+392	34-4-37-1	721191826124010	Q'eqchi'	kekc1242	the foot	FOOT	1301		oq	oq 
+393	34-4-371-1	721191783545177	Q'eqchi'	kekc1242	the ankle	ANKLE	803		kux oq	kux oq 
+394	34-4-371-2	721191139195303	Q'eqchi'	kekc1242	the ankle	ANKLE	803		xmap oq	xmap oq 
+395	34-4-372-1	721191463154106	Q'eqchi'	kekc1242	the heel	HEEL	980		rit oq	rit oq 
+396	34-4-374-1	721191153441093	Q'eqchi'	kekc1242	the footprint	FOOTPRINT	318		nums	nums 
+397	34-4-38-1	721191600035806	Q'eqchi'	kekc1242	the toe	TOE	1389		ru'uj oq	ru'uj oq 
+398	34-4-392-1	721191241066965	Q'eqchi'	kekc1242	the wing	WING	1257		xik’	xik’ 
+399	34-4-393-1	721191276466294	Q'eqchi'	kekc1242	the feather	FEATHER	1201		rismal xul	rismal xul 
+400	34-4-393-2	721191241066965	Q'eqchi'	kekc1242	the feather	FEATHER	1201		xik’	xik’ 
+401	34-4-4-1	72119163305751	Q'eqchi'	kekc1242	the chest	CHEST	1592		maqab’	maqab’ 
+402	34-4-4-2	721191507109950	Q'eqchi'	kekc1242	the chest	CHEST	1592		re maqab’	re maqab’ 
+403	34-4-41-1	721191453574978	Q'eqchi'	kekc1242	the breast	BREAST	1402		tu’	tu’ 
+404	34-4-412-1	721191631812305	Q'eqchi'	kekc1242	the nipple or teat	NIPPLE	796		ru'uj tu'	ru'uj tu' 
+405	34-4-42-1	721191462057720	Q'eqchi'	kekc1242	the udder	UDDER	154		xtu’ wakax	xtu’ wakax 
+406	34-4-43-1	721191623038353	Q'eqchi'	kekc1242	the navel	NAVEL	1838		ch’up	ch’up 
+407	34-4-44-1	721191813834875	Q'eqchi'	kekc1242	the heart	HEART	1223		ch'ool	ch'ool 
+408	34-4-441-1	721191837049436	Q'eqchi'	kekc1242	the lung	LUNG	688		pospo'oy	pospo'oy 
+409	34-4-45-1	721191283153141	Q'eqchi'	kekc1242	the liver	LIVER	1224		ch'och'	ch'och' 
+410	34-4-451-1	721191718070909	Q'eqchi'	kekc1242	the kidney	KIDNEY	489		kenq'	kenq' 
+411	34-4-46-1	721191656841772	Q'eqchi'	kekc1242	the stomach	STOMACH	819		job’nil	job’nil 
+412	34-4-461-1	721191776691555	Q'eqchi'	kekc1242	the intestines or guts	INTESTINES	1991		k'amk'ot	k'amk'ot 
+413	34-4-461-2	72119166969406	Q'eqchi'	kekc1242	the intestines or guts	INTESTINES	1991		sooyom	sooyom 
+414	34-4-462-1	721191417303700	Q'eqchi'	kekc1242	the waist	WAIST	1681		sa' yi	sa' yi 
+415	34-4-462-2	721191721308941	Q'eqchi'	kekc1242	the waist	WAIST	1681		yiib'ej	yiib'ej 
+416	34-4-462-3	72119169562789	Q'eqchi'	kekc1242	the waist	WAIST	1681		yiitoq	yiitoq 
+417	34-4-463-1	721191201095859	Q'eqchi'	kekc1242	the hip	HIP	1745		k’onx a’	k’onx a’ 
+418	34-4-464-1	721191646665967	Q'eqchi'	kekc1242	the buttocks	BUTTOCKS	834		ko it	ko it 
+419	34-4-47-1	721191810929246	Q'eqchi'	kekc1242	the womb	WOMB	804		alob'aal	alob'aal 
+420	34-4-49-1	721191962883167	Q'eqchi'	kekc1242	the testicles	TESTICLES	797		ab'aj	ab'aj 
+421	34-4-49-2	721191781506455	Q'eqchi'	kekc1242	the testicles	TESTICLES	797		naq'	naq' 
+422	34-4-49-3	721191347479079	Q'eqchi'	kekc1242	the testicles	TESTICLES	797		naq' kun	naq' kun 
+423	34-4-49-4	721191478062147	Q'eqchi'	kekc1242	the testicles	TESTICLES	797		naq' it	naq' it 
+424	34-4-492-1	721191834880169	Q'eqchi'	kekc1242	the penis	PENIS	1222		tz’ik	tz’ik 
+425	34-4-492-2	721191620512698	Q'eqchi'	kekc1242	the penis	PENIS	1222		kun	kun 
+426	34-4-492-3	721191630275622	Q'eqchi'	kekc1242	the penis	PENIS	1222		tz'ejwal	tz'ejwal 
+427	34-4-51-1	72119162681813	Q'eqchi'	kekc1242	to breathe	BREATHE	1407		musiq'ak	musiq'ak 
+428	34-4-52-1	721191264284697	Q'eqchi'	kekc1242	to yawn	YAWN	1028		japink e	japink e 
+429	34-4-521-1	721191913661840	Q'eqchi'	kekc1242	to hiccough	HICCOUGH	162		chuq'ub'ak	chuq'ub'ak 
+430	34-4-521-2	721191421635590	Q'eqchi'	kekc1242	to hiccough	HICCOUGH	162		k'ehok chuq'ub'	k'ehok chuq'ub' 
+431	34-4-53-1	721191989028934	Q'eqchi'	kekc1242	to cough	COUGH	879		ojb'ak	ojb'ak 
+432	34-4-54-1	721191396345471	Q'eqchi'	kekc1242	to sneeze	SNEEZE	1621		at'isb'ak	at'isb'ak 
+433	34-4-55-1	72119170461352	Q'eqchi'	kekc1242	to perspire	SWEAT (PERSPIRE)	126		tiqob'ak, tiqob'ank	tiqob'ak 
+434	34-4-55-2	72119170461352	Q'eqchi'	kekc1242	to perspire	SWEAT (PERSPIRE)	126		tiqob'ak, tiqob'ank	tiqob'ank 
+435	34-4-56-1	721191381647904	Q'eqchi'	kekc1242	to spit	SPIT	1440		chuub'ak, chuub'ank	chuub'ak 
+436	34-4-56-2	721191381647904	Q'eqchi'	kekc1242	to spit	SPIT	1440		chuub'ak, chuub'ank	chuub'ank 
+437	34-4-57-1	721191905863639	Q'eqchi'	kekc1242	to vomit	VOMIT	1278		xa'wak	xa'wak 
+438	34-4-58-1	721191643023386	Q'eqchi'	kekc1242	to bite	BITE	1403		qachok	qachok 
+439	34-4-58-2	721191500845210	Q'eqchi'	kekc1242	to bite	BITE	1403		qatzok	qatzok 
+440	34-4-58-3	721191519829990	Q'eqchi'	kekc1242	to bite	BITE	1403		k'atzok	k'atzok 
+441	34-4-58-4	721191963223109	Q'eqchi'	kekc1242	to bite	BITE	1403		jach'ok	jach'ok 
+442	34-4-58-5	721191179396791	Q'eqchi'	kekc1242	to bite	BITE	1403		tiwok	tiwok 
+443	34-4-58-6	721191255022143	Q'eqchi'	kekc1242	to bite	BITE	1403		ti'ok	ti'ok 
+444	34-4-58-7	721191355779007	Q'eqchi'	kekc1242	to bite	BITE	1403		k'apok chi e	k'apok chi e 
+445	34-4-58-8	721191126236897	Q'eqchi'	kekc1242	to bite	BITE	1403		hach'lenk	hach'lenk 
+446	34-4-58-9	72119119059839	Q'eqchi'	kekc1242	to bite	BITE	1403		hach'ok	hach'ok 
+447	34-4-59-1	721191722135339	Q'eqchi'	kekc1242	to lick	LICK	319		req'ok	req'ok 
+448	34-4-591-1	721191317069254	Q'eqchi'	kekc1242	to dribble	DRIBBLE	268		leeleb’ak	leeleb’ak 
+449	34-4-61-1	721191640084119	Q'eqchi'	kekc1242	to sleep	SLEEP	1585		wark	wark 
+450	34-4-612-1	721191448471349	Q'eqchi'	kekc1242	to snore	SNORE	1983		qoorank	qoorank 
+451	34-4-612-2	721191211965805	Q'eqchi'	kekc1242	to snore	SNORE	1983		q'uusank	q'uusank 
+452	34-4-612-3	721191554951702	Q'eqchi'	kekc1242	to snore	SNORE	1983		jilq'ank	jilq'ank 
+453	34-4-612-4	721191225366965	Q'eqchi'	kekc1242	to snore	SNORE	1983		quusank	quusank 
+454	34-4-612-5	721191226287914	Q'eqchi'	kekc1242	to snore	SNORE	1983		joq'yank	joq'yank 
+455	34-4-62-1	721191586958933	Q'eqchi'	kekc1242	to dream	DREAM (SOMETHING)	1920		matk'ek	matk'ek 
+456	34-4-62-2	721191746968237	Q'eqchi'	kekc1242	to dream	DREAM (SOMETHING)	1920		na' uuchik	na' uuchik 
+457	34-4-63-1	72119142227884	Q'eqchi'	kekc1242	to wake up	WAKE UP	1602		ajk	ajk 
+458	34-4-64-1	72119120859144	Q'eqchi'	kekc1242	to fart	FART	1159		kisik	kisik 
+459	34-4-65-1	721191831927914	Q'eqchi'	kekc1242	to piss	PISS	592		chu'uk	chu'uk 
+460	34-4-66-1	721191229789101	Q'eqchi'	kekc1242	to shit	SHIT (DEFECATE)	676		k'otak	k'otak 
+461	34-4-66-2	721191257344846	Q'eqchi'	kekc1242	to shit	SHIT (DEFECATE)	676		tz'eqok ib'	tz'eqok ib' 
+462	34-4-67-1	72119157690598	Q'eqchi'	kekc1242	to have sex	HAVE SEX	1785		aatinank	aatinank 
+463	34-4-68-1	721191799852244	Q'eqchi'	kekc1242	to shiver	SHIVER	52		parpotk	parpotk 
+464	34-4-68-2	721191396774149	Q'eqchi'	kekc1242	to shiver	SHIVER	52		siksotk	siksotk 
+465	34-4-69-1	72119159356708	Q'eqchi'	kekc1242	to bathe	BATHE	138		achink	achink 
+466	34-4-69-2	72119112005608	Q'eqchi'	kekc1242	to bathe	BATHE	138		atink	atink 
+467	34-4-71-1	721191298824017	Q'eqchi'	kekc1242	to beget	BEGET	1152		k'ajolink	k'ajolink 
+468	34-4-72-1	72119123718507	Q'eqchi'	kekc1242	to be born	BE BORN	1090		siyaak	siyaak 
+469	34-4-73-1	721191368184797	Q'eqchi'	kekc1242	pregnant	PREGNANT	1123		yaj aj ixq	yaj aj ixq 
+470	34-4-73-2	721191577487964	Q'eqchi'	kekc1242	pregnant	PREGNANT	1123		sa' yu'am	sa' yu'am 
+471	34-4-732-1	721191100122291	Q'eqchi'	kekc1242	to conceive	CONCEIVE	1087		kanaak sa’ yu’am	kanaak sa’ yu’am 
+472	34-4-74-1	721191235898173	Q'eqchi'	kekc1242	to be alive	BE ALIVE	1422		yo'yook	yo'yook 
+473	34-4-75-1	721191146107504	Q'eqchi'	kekc1242	to die	DIE	1494		kamk	kamk 
+474	34-4-751-1	721191288620506	Q'eqchi'	kekc1242	to drown	DROWN	1904		jaq'e'k	jaq'e'k 
+475	34-4-751-2	721191182951843	Q'eqchi'	kekc1242	to drown	DROWN	1904		ok chi ha'	ok chi ha' 
+476	34-4-76-1	721191744400894	Q'eqchi'	kekc1242	to kill	KILL	1417		kamsink	kamsink 
+477	34-4-77-1	721191145175007	Q'eqchi'	kekc1242	the corpse	CORPSE	767		kamenaq	kamenaq 
+478	34-4-78-1	721191386465060	Q'eqchi'	kekc1242	to bury	BURY	1719		muquk	muquk 
+479	34-4-79-1	721191870253916	Q'eqchi'	kekc1242	the grave	GRAVE	1773		julel kamenaq	julel kamenaq 
+480	34-4-81-1	721191919334995	Q'eqchi'	kekc1242	strong	STRONG	785		kaw	kaw 
+481	34-4-82-1	721191329195406	Q'eqchi'	kekc1242	weak	WEAK	1601		q'un	q'un 
+482	34-4-82-2	721191561842737	Q'eqchi'	kekc1242	weak	WEAK	1601		lub'lu, lub'lub'	lub'lu 
+483	34-4-82-3	721191561842737	Q'eqchi'	kekc1242	weak	WEAK	1601		lub'lu, lub'lub'	lub'lub' 
+484	34-4-83-1	72119145041549	Q'eqchi'	kekc1242	healthy	HEALTHY	1364		kawal	kawal 
+485	34-4-84-1	721191782855869	Q'eqchi'	kekc1242	sick/ill	SICK	1847		yaj	yaj 
+486	34-4-841-1	721191583599407	Q'eqchi'	kekc1242	the fever	FEVER	1534		k'ehok tiq	k'ehok tiq 
+487	34-4-842-1	72119169362640	Q'eqchi'	kekc1242	the goitre/goiter	GOITER	1957		b’uq’ ja’j	b’uq’ ja’j 
+488	34-4-843-1	721191546413358	Q'eqchi'	kekc1242	the cold	COMMON COLD (DISEASE)	102		jolomb'ej	jolomb'ej 
+489	34-4-843-2	721191123775504	Q'eqchi'	kekc1242	the cold	COMMON COLD (DISEASE)	102		oj	oj 
+490	34-4-85-1	721191952925537	Q'eqchi'	kekc1242	the wound or sore	WOUND	1109		tiq'ilal, tiiq’	tiq'ilal 
+491	34-4-85-2	721191952925537	Q'eqchi'	kekc1242	the wound or sore	WOUND	1109		tiq'ilal, tiiq’	tiiq’ 
+492	34-4-85-3	721191392440172	Q'eqchi'	kekc1242	the wound or sore	WOUND	1109		yok'olal	yok'olal 
+493	34-4-852-1	721191508623650	Q'eqchi'	kekc1242	the bruise	BRUISE	1148		raxtint	raxtint 
+494	34-4-853-1	721191528216977	Q'eqchi'	kekc1242	the swelling	SWELLING	1903		siipilal, siip	siipilal 
+495	34-4-853-2	721191528216977	Q'eqchi'	kekc1242	the swelling	SWELLING	1903		siipilal, siip	siip 
+496	34-4-853-3	721191702638026	Q'eqchi'	kekc1242	the swelling	SWELLING	1903		teb'elal	teb'elal 
+497	34-4-854-1	721191407736413	Q'eqchi'	kekc1242	the itch	ITCH	148		katzkatz	katzkatz 
+498	34-4-854-2	721191831653523	Q'eqchi'	kekc1242	the itch	ITCH	148		wotz'okil	wotz'okil 
+499	34-4-855-1	721191508174603	Q'eqchi'	kekc1242	the blister	BLISTER	1584		puchha'	puchha' 
+500	34-4-855-2	721191550008673	Q'eqchi'	kekc1242	the blister	BLISTER	1584		porha'	porha' 
+501	34-4-857-1	721191420472856	Q'eqchi'	kekc1242	the pus	PUS	1808		poj	poj 
+502	34-4-858-1	721191968656326	Q'eqchi'	kekc1242	the scar	SCAR	497		xna'aj tiiq'	xna'aj tiiq' 
+503	34-4-858-2	72119167608050	Q'eqchi'	kekc1242	the scar	SCAR	497		yotolal	yotolal 
+504	34-4-858-3	721191194298211	Q'eqchi'	kekc1242	the scar	SCAR	497		reetalil tiq'ilal	reetalil tiq'ilal 
+505	34-4-86-1	721191489517084	Q'eqchi'	kekc1242	to cure	CURE	499		k'irtesink	k'irtesink 
+506	34-4-86-2	721191482900819	Q'eqchi'	kekc1242	to cure	CURE	499		b'anok	b'anok 
+507	34-4-87-1	721191297274676	Q'eqchi'	kekc1242	the physician	PHYSICIAN	597		loktor	loktor 
+508	34-4-87-2	721191988873459	Q'eqchi'	kekc1242	the physician	PHYSICIAN	597		b'anonel	b'anonel 
+509	34-4-88-1	721191763953841	Q'eqchi'	kekc1242	the medicine	MEDICINE	1372		b'an	b'an 
+510	34-4-89-1	7211918107890	Q'eqchi'	kekc1242	the poison	POISON	655		may	may 
+511	34-4-91-1	721191561842737	Q'eqchi'	kekc1242	tired	TIRED	1757		lub'lu, lub'lub'	lub'lu 
+512	34-4-91-2	721191561842737	Q'eqchi'	kekc1242	tired	TIRED	1757		lub'lu, lub'lub'	lub'lub' 
+513	34-4-912-1	721191575322482	Q'eqchi'	kekc1242	to rest	REST	168		hilank	hilank 
+514	34-4-92-1	721191676640213	Q'eqchi'	kekc1242	lazy	LAZY	1564		q'emkun	q'emkun 
+515	34-4-92-2	721191103631843	Q'eqchi'	kekc1242	lazy	LAZY	1564		jip	jip 
+516	34-4-92-3	721191461990296	Q'eqchi'	kekc1242	lazy	LAZY	1564		jok	jok 
+517	34-4-93-1	721191262929883	Q'eqchi'	kekc1242	bald	BALD	1125		t'uru' xjolom	t'uru' xjolom 
+518	34-4-93-2	721191670049069	Q'eqchi'	kekc1242	bald	BALD	1125		t'ojt'o	t'ojt'o 
+519	34-4-93-3	721191771920148	Q'eqchi'	kekc1242	bald	BALD	1125		t'uru'	t'uru' 
+520	34-4-94-1	721191771967008	Q'eqchi'	kekc1242	lame	LAME	320		sik	sik 
+521	34-4-95-1	721191175925772	Q'eqchi'	kekc1242	deaf	DEAF	996		tz'apxik	tz'apxik 
+522	34-4-96-1	721191278074479	Q'eqchi'	kekc1242	mute	MUTE	1666		mem	mem 
+523	34-4-97-1	7211912504905	Q'eqchi'	kekc1242	blind	BLIND	1653		mutz'	mutz' 
+524	34-4-98-1	721191117245611	Q'eqchi'	kekc1242	drunk	DRUNK	1463		kalajenaq	kalajenaq 
+525	34-4-99-1	721191494392028	Q'eqchi'	kekc1242	naked	NAKED	590		mich'mo	mich'mo 
+526	34-4-99-2	721191440601964	Q'eqchi'	kekc1242	naked	NAKED	590		moq'mo	moq'mo 
+527	34-4-99-3	721191323090889	Q'eqchi'	kekc1242	naked	NAKED	590		t'ust'u	t'ust'u 
+528	34-4-99-4	721191816222415	Q'eqchi'	kekc1242	naked	NAKED	590		t'urt'u	t'urt'u 
+529	34-5-11-1	721191999897094	Q'eqchi'	kekc1242	to eat	EAT	1336		tzakank	tzakank 
+530	34-5-11-2	721191828518717	Q'eqchi'	kekc1242	to eat	EAT	1336		k'uxuk	k'uxuk 
+531	34-5-11-3	721191179396791	Q'eqchi'	kekc1242	to eat	EAT	1336		tiwok	tiwok 
+532	34-5-11-4	721191552914709	Q'eqchi'	kekc1242	to eat	EAT	1336		wa'ok	wa'ok 
+533	34-5-12-1	721191412465777	Q'eqchi'	kekc1242	the food	FOOD	256		tzakahem	tzakahem 
+534	34-5-12-2	721191679819793	Q'eqchi'	kekc1242	the food	FOOD	256		tzekeem	tzekeem 
+535	34-5-12-3	721191276413504	Q'eqchi'	kekc1242	the food	FOOD	256		tib'el wa	tib'el wa 
+536	34-5-121-1	721191734605354	Q'eqchi'	kekc1242	cooked	COOKED	269		k'uub'aak	k'uub'aak 
+537	34-5-121-2	721191170586874	Q'eqchi'	kekc1242	cooked	COOKED	269		k'ub'k'u	k'ub'k'u 
+538	34-5-121-3	721191434793278	Q'eqchi'	kekc1242	cooked	COOKED	269		chaq'	chaq' 
+539	34-5-122-1	721191904890692	Q'eqchi'	kekc1242	raw	RAW	1959		rax	rax 
+540	34-5-123-1	721191168411722	Q'eqchi'	kekc1242	ripe	RIPE	178		q'an	q'an 
+541	34-5-123-2	721191434793278	Q'eqchi'	kekc1242	ripe	RIPE	178		chaq'	chaq' 
+542	34-5-123-3	721191489315265	Q'eqchi'	kekc1242	ripe	RIPE	178		yuq'uq'nak	yuq'uq'nak 
+543	34-5-124-1	721191141121776	Q'eqchi'	kekc1242	unripe	UNRIPE	1958		toj al	toj al 
+544	34-5-124-2	721191408001546	Q'eqchi'	kekc1242	unripe	UNRIPE	1958		al	al 
+545	34-5-125-1	721191101184276	Q'eqchi'	kekc1242	rotten	ROTTEN	1728		q'aaneq	q'aaneq 
+546	34-5-13-1	721191890429475	Q'eqchi'	kekc1242	to drink	DRINK	1401		uk'ak	uk'ak 
+547	34-5-14-1	721191198580632	Q'eqchi'	kekc1242	to be hungry	BE HUNGRY	1533		tz'okaak	tz'okaak 
+548	34-5-141-1	721191478990763	Q'eqchi'	kekc1242	the famine	FAMINE	199		we'ej	we'ej 
+549	34-5-15-1	721191311415430	Q'eqchi'	kekc1242	to be thirsty	THIRSTY	847		chaqi’eel	chaqi’eel 
+550	34-5-16-1	721191593062479	Q'eqchi'	kekc1242	to suck	SUCK	1421		tz'ub'uk	tz'ub'uk 
+551	34-5-18-1	721191320603323	Q'eqchi'	kekc1242	to chew	CHEW	321		hab'ok	hab'ok 
+552	34-5-18-2	721191625293439	Q'eqchi'	kekc1242	to chew	CHEW	321		k'oylenk	k'oylenk 
+553	34-5-18-3	721191828518717	Q'eqchi'	kekc1242	to chew	CHEW	321		k'uxuk	k'uxuk 
+554	34-5-181-1	72119191320331	Q'eqchi'	kekc1242	to swallow	SWALLOW	897		nuq'uk	nuq'uk 
+555	34-5-19-1	721191149085749	Q'eqchi'	kekc1242	to choke	CHOKE	129		b’iq’e’k	b’iq’e’k 
+556	34-5-19-2	721191942996765	Q'eqchi'	kekc1242	to choke	CHOKE	129		jiq’e’k	jiq’e’k 
+557	34-5-21-1	721191544647568	Q'eqchi'	kekc1242	to cook	COOK (SOMETHING)	1100		chiqok	chiqok 
+558	34-5-22-1	72119172834761	Q'eqchi'	kekc1242	to boil	BOIL (OF LIQUID)	792		loqlotk	loqlotk 
+559	34-5-23-1	721191179805347	Q'eqchi'	kekc1242	to roast or fry	ROAST OR FRY	2146		pomok	pomok 
+560	34-5-23-2	721191508265716	Q'eqchi'	kekc1242	to roast or fry	ROAST OR FRY	2146		sisank	sisank 
+561	34-5-25-1	7211919636527	Q'eqchi'	kekc1242	the oven	OVEN	1143		oorn	oorn 
+562	34-5-26-1	72119140780119	Q'eqchi'	kekc1242	the pot	POT	1462		uk’al	uk’al 
+563	34-5-28-1	721191866950560	Q'eqchi'	kekc1242	the pan	PAN	31		xartin	xartin 
+564	34-5-28-2	721191302261940	Q'eqchi'	kekc1242	the pan	PAN	31		k’ileb’aal	k’ileb’aal 
+565	34-5-31-1	721191529011427	Q'eqchi'	kekc1242	the dish	DISH	481		sek’	sek’ 
+566	34-5-32-1	721191529011427	Q'eqchi'	kekc1242	the plate	PLATE	480		sek’	sek’ 
+567	34-5-32-2	721191322663434	Q'eqchi'	kekc1242	the plate	PLATE	480		ch’och’ sek’	ch’och’ sek’ 
+568	34-5-32-3	721191256064809	Q'eqchi'	kekc1242	the plate	PLATE	480		wa’leb’ sek’	wa’leb’ sek’ 
+569	34-5-34-1	721191537309257	Q'eqchi'	kekc1242	the jug/pitcher	JUG	270		puk'xaar	puk'xaar 
+570	34-5-34-2	721191715877266	Q'eqchi'	kekc1242	the jug/pitcher	JUG	270		xaar	xaar 
+571	34-5-35-1	721191715637943	Q'eqchi'	kekc1242	the cup	CUP	476		sek'	sek' 
+572	34-5-35-2	721191274878571	Q'eqchi'	kekc1242	the cup	CUP	476		wa'leb' sek'	wa'leb' sek' 
+573	34-5-35-3	721191637732493	Q'eqchi'	kekc1242	the cup	CUP	476		taas	taas 
+574	34-5-36-1	721191889203849	Q'eqchi'	kekc1242	the saucer	SAUCER	271		platiiy	platiiy 
+575	34-5-37-1	721191852542747	Q'eqchi'	kekc1242	the spoon	SPOON	1378		lekleb'	lekleb' 
+576	34-5-38-1	721191913966234	Q'eqchi'	kekc1242	the knife(1)	KNIFE (FOR EATING)	3210		ch'ina ch'iich'	ch'ina ch'iich' 
+577	34-5-39-1	721191160972028	Q'eqchi'	kekc1242	the fork	FORK	1302		chikleb’	chikleb’ 
+578	34-5-391-1	721191997386305	Q'eqchi'	kekc1242	the tongs	TONGS	272		yax	yax 
+579	34-5-41-1	721191412465777	Q'eqchi'	kekc1242	the meal	MEAL	1526		tzakahem	tzakahem 
+580	34-5-41-2	721191679819793	Q'eqchi'	kekc1242	the meal	MEAL	1526		tzekeem	tzekeem 
+581	34-5-41-3	721191276413504	Q'eqchi'	kekc1242	the meal	MEAL	1526		tib'el wa	tib'el wa 
+582	34-5-41-4	721191192148495	Q'eqchi'	kekc1242	the meal	MEAL	1526		wa	wa 
+583	34-5-42-1	721191192148495	Q'eqchi'	kekc1242	the breakfast	BREAKFAST	1322		wa	wa 
+584	34-5-43-1	721191192148495	Q'eqchi'	kekc1242	the lunch	LUNCH	768		wa	wa 
+585	34-5-43-2	72119167003498	Q'eqchi'	kekc1242	the lunch	LUNCH	768		wa re wa'leb'	wa re wa'leb' 
+586	34-5-44-1	721191192148495	Q'eqchi'	kekc1242	the dinner	DINNER (SUPPER)	1833		wa	wa 
+587	34-5-45-1	721191192148495	Q'eqchi'	kekc1242	the supper	DINNER (SUPPER)	1833		wa	wa 
+588	34-5-45-2	721191793913996	Q'eqchi'	kekc1242	the supper	DINNER (SUPPER)	1833		wa re ewu	wa re ewu 
+589	34-5-46-1	721191692464908	Q'eqchi'	kekc1242	to peel	PEEL	275		b'ich'ok	b'ich'ok 
+590	34-5-46-2	721191931002136	Q'eqchi'	kekc1242	to peel	PEEL	275		jotzok	jotzok 
+591	34-5-47-1	721191617911726	Q'eqchi'	kekc1242	to sieve or to strain	SIEVE	86		tz'ilok	tz'ilok 
+592	34-5-48-1	721191359547578	Q'eqchi'	kekc1242	to scrape	SCRAPE	1767		qirok	qirok 
+593	34-5-48-2	721191923483425	Q'eqchi'	kekc1242	to scrape	SCRAPE	1767		jochok	jochok 
+594	34-5-48-3	721191429093914	Q'eqchi'	kekc1242	to scrape	SCRAPE	1767		jokok	jokok 
+595	34-5-48-4	721191849579177	Q'eqchi'	kekc1242	to scrape	SCRAPE	1767		jot'ok	jot'ok 
+596	34-5-48-5	721191507031742	Q'eqchi'	kekc1242	to scrape	SCRAPE	1767		q'oyok	q'oyok 
+597	34-5-48-6	72119148030419	Q'eqchi'	kekc1242	to scrape	SCRAPE	1767		jichok	jichok 
+598	34-5-49-1	72119154958342	Q'eqchi'	kekc1242	to stir or to mix	MIX	2017		junajink	junajink 
+599	34-5-51-1	721191260088334	Q'eqchi'	kekc1242	the bread	BREAD	1368		kaxlan wa	kaxlan wa 
+600	34-5-53-1	721191279432966	Q'eqchi'	kekc1242	the dough	DOUGH	273		q’em	q’em 
+601	34-5-54-1	721191929784032	Q'eqchi'	kekc1242	to knead	KNEAD	274		yoq'ok	yoq'ok 
+602	34-5-55-1	721191573526850	Q'eqchi'	kekc1242	the flour	FLOUR	1594		xk’aj ariin	xk’aj ariin 
+603	34-5-55-2	721191589055551	Q'eqchi'	kekc1242	the flour	FLOUR	1594		ariin	ariin 
+604	34-5-55-3	721191154944986	Q'eqchi'	kekc1242	the flour	FLOUR	1594		k’aj	k’aj 
+605	34-5-56-1	721191449236931	Q'eqchi'	kekc1242	to crush or to grind	GRIND	1033		tenok	tenok 
+606	34-5-56-2	721191812419247	Q'eqchi'	kekc1242	to crush or to grind	GRIND	1033		yab'ok	yab'ok 
+607	34-5-56-3	721191380186382	Q'eqchi'	kekc1242	to crush or to grind	GRIND	1033		sob'ok	sob'ok 
+608	34-5-57-1	721191543246215	Q'eqchi'	kekc1242	the mill	MILL	636		poch’leb’	poch’leb’ 
+609	34-5-58-1	721191643704058	Q'eqchi'	kekc1242	the mortar(1)	MORTAR CRUSHER	224		ka’	ka’ 
+610	34-5-59-1	72119162670577	Q'eqchi'	kekc1242	the pestle	PESTLE	225		ruq' ka'	ruq' ka' 
+611	34-5-61-1	721191944126016	Q'eqchi'	kekc1242	the meat	MEAT	634		tib’	tib’ 
+612	34-5-63-1	72119181168361	Q'eqchi'	kekc1242	the sausage	SAUSAGE	1874		salchiich, salchicha	salchiich 
+613	34-5-63-2	72119181168361	Q'eqchi'	kekc1242	the sausage	SAUSAGE	1874		salchiich, salchicha	salchicha 
+614	34-5-64-1	721191441828724	Q'eqchi'	kekc1242	the soup	SOUP	1547		kaalt	kaalt 
+615	34-5-64-2	721191183473023	Q'eqchi'	kekc1242	the soup	SOUP	1547		ya’al	ya’al 
+616	34-5-66-1	721191897983824	Q'eqchi'	kekc1242	the bean	BEAN	832		kenq’	kenq’ 
+617	34-5-7-1	721191138369664	Q'eqchi'	kekc1242	the potato	POTATO	593		kaxlan is	kaxlan is 
+618	34-5-7-2	721191285095024	Q'eqchi'	kekc1242	the potato	POTATO	593		paaps	paaps 
+619	34-5-71-1	721191787320014	Q'eqchi'	kekc1242	the fruit	FRUIT	1507		u	u 
+620	34-5-712-1	721191255893244	Q'eqchi'	kekc1242	the bunch	BUNCH	1966		kuut	kuut 
+621	34-5-75-1	721191205103196	Q'eqchi'	kekc1242	the fig	FIG	322		igo	igo 
+622	34-5-76-1	721191434122934	Q'eqchi'	kekc1242	the grape	GRAPE	920		t’usub’	t’usub’ 
+623	34-5-77-1	72119181289425	Q'eqchi'	kekc1242	the nut	NUT	191		nwes	nwes 
+624	34-5-78-1	721191999705011	Q'eqchi'	kekc1242	the olive	OLIVE	1154		asetuna	asetuna 
+625	34-5-79-1	721191353921114	Q'eqchi'	kekc1242	the oil	OIL (ORGANIC SUBSTANCE)	1484		aseet	aseet 
+626	34-5-791-1	721191668509174	Q'eqchi'	kekc1242	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		manteek	manteek 
+627	34-5-81-1	721191158338334	Q'eqchi'	kekc1242	the salt	SALT	1274		atz'am	atz'am 
+628	34-5-82-1	721191301576351	Q'eqchi'	kekc1242	the pepper	PEPPER	1385		kaxlan q’een	kaxlan q’een 
+629	34-5-821-1	721191906930584	Q'eqchi'	kekc1242	the chili pepper	CHILI PEPPER	919		ik	ik 
+630	34-5-84-1	721191651362538	Q'eqchi'	kekc1242	the honey	HONEY	942		xya'al kab'	xya'al kab' 
+631	34-5-85-1	721191496652344	Q'eqchi'	kekc1242	the sugar	SUGAR	862		asuukr	asuukr 
+632	34-5-86-1	721191101393385	Q'eqchi'	kekc1242	the milk	MILK	635		leech	leech 
+633	34-5-86-2	721191565324663	Q'eqchi'	kekc1242	the milk	MILK	635		xya'al tu'	xya'al tu' 
+634	34-5-87-1	721191196309831	Q'eqchi'	kekc1242	to milk	DRAW MILK	93		yatz'ok	yatz'ok 
+635	34-5-88-1	721191196186036	Q'eqchi'	kekc1242	the cheese	CHEESE	1569		kees	kees 
+636	34-5-89-1	721191668509174	Q'eqchi'	kekc1242	the butter	BUTTER	1245		manteek	manteek 
+637	34-5-9-1	721191186846392	Q'eqchi'	kekc1242	the drink	BEVERAGE	731		uk'a'	uk'a' 
+638	34-5-92-1	721191267251600	Q'eqchi'	kekc1242	the wine	WINE	1524		b’iin	b’iin 
+639	34-5-93-1	721191271282293	Q'eqchi'	kekc1242	the beer	BEER	1639		serwees	serwees 
+640	34-5-94-1	721191638421346	Q'eqchi'	kekc1242	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		b’oj	b’oj 
+641	34-5-94-2	721191932140165	Q'eqchi'	kekc1242	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		ani (2)	ani (2) 
+642	34-5-97-1	721191668565311	Q'eqchi'	kekc1242	the egg	EGG	744		mol	mol 
+643	34-5-971-1	721191186297525	Q'eqchi'	kekc1242	the yolk	YOLK	1556		xq'anal mol	xq'anal mol 
+644	34-6-11-1	721191574029753	Q'eqchi'	kekc1242	to put on	PUT ON	158		tiqok ib'	tiqok ib' 
+645	34-6-12-1	721191181925272	Q'eqchi'	kekc1242	the clothing or clothes	CLOTHES	1895		tiqb'al	tiqb'al 
+646	34-6-13-1	721191155892433	Q'eqchi'	kekc1242	the tailor	TAILOR	881		aj b’ojonel	aj b’ojonel 
+647	34-6-21-1	721191519061601	Q'eqchi'	kekc1242	the cloth	CLOTH	1616		t’ikr	t’ikr 
+648	34-6-22-1	721191797397968	Q'eqchi'	kekc1242	the wool	WOOL	964		laan	laan 
+649	34-6-24-1	721191999084114	Q'eqchi'	kekc1242	the cotton	COTTON	1850		noq’	noq’ 
+650	34-6-25-1	721191894119679	Q'eqchi'	kekc1242	the silk	SILK	1641		seda	seda 
+651	34-6-28-1	721191692086605	Q'eqchi'	kekc1242	the fur	FUR	580		ta	ta 
+652	34-6-29-1	721191412546464	Q'eqchi'	kekc1242	the leather	LEATHER	629		tz’uumal	tz’uumal 
+653	34-6-31-1	721191976281413	Q'eqchi'	kekc1242	to spin	SPIN	121		k’aamak	k’aamak 
+654	34-6-32-1	721191164002529	Q'eqchi'	kekc1242	the spindle	SPINDLE	277		peteet, pet’eet’	peteet 
+655	34-6-32-2	721191164002529	Q'eqchi'	kekc1242	the spindle	SPINDLE	277		peteet, pet’eet’	pet’eet’ 
+656	34-6-33-1	721191811597217	Q'eqchi'	kekc1242	to weave	WEAVE	133		kemok	kemok 
+657	34-6-34-1	721191781781085	Q'eqchi'	kekc1242	the loom	LOOM	1787		kemleb'	kemleb' 
+658	34-6-35-1	721191994550558	Q'eqchi'	kekc1242	to sew	SEW	1457		b'ojok	b'ojok 
+659	34-6-35-2	721191194105894	Q'eqchi'	kekc1242	to sew	SEW	1457		kuuxink	kuuxink 
+660	34-6-36-1	721191191410284	Q'eqchi'	kekc1242	the needle(1)	NEEDLE (FOR SEWING)	1382		akuux, kuus	akuux 
+661	34-6-36-2	721191191410284	Q'eqchi'	kekc1242	the needle(1)	NEEDLE (FOR SEWING)	1382		akuux, kuus	kuus 
+662	34-6-37-1	721191536987178	Q'eqchi'	kekc1242	the awl	AWL	278		formon	formon 
+663	34-6-38-1	721191999084114	Q'eqchi'	kekc1242	the thread	THREAD	1161		noq’	noq’ 
+664	34-6-39-1	721191439863972	Q'eqchi'	kekc1242	to dye	DYE	157		b’onok	b’onok 
+665	34-6-411-1	72119177217796	Q'eqchi'	kekc1242	the poncho	PONCHO	327		isb’	isb’ 
+666	34-7-37-1	721191777428285	Q'eqchi'	kekc1242	the ladder	LADDER	1464		taqleb’aal	taqleb’aal 
+667	34-7-37-2	721191496431985	Q'eqchi'	kekc1242	the ladder	LADDER	1464		eeb’	eeb’ 
+668	34-7-37-3	721191462632984	Q'eqchi'	kekc1242	the ladder	LADDER	1464		eskaleer	eskaleer 
+669	34-6-42-1	721191181925272	Q'eqchi'	kekc1242	the (woman's) dress	DRESS	474		tiqb'al	tiqb'al 
+670	34-6-42-2	721191829464537	Q'eqchi'	kekc1242	the (woman's) dress	DRESS	474		po'ot	po'ot 
+671	34-6-43-1	721191816190746	Q'eqchi'	kekc1242	the coat	COAT	603		koton	koton 
+672	34-6-44-1	721191745502611	Q'eqchi'	kekc1242	the shirt	SHIRT	1622		kamiis	kamiis 
+673	34-6-45-1	721191694636556	Q'eqchi'	kekc1242	the collar	COLLAR	2012		kux aaq’	kux aaq’ 
+674	34-6-45-2	721191865726208	Q'eqchi'	kekc1242	the collar	COLLAR	2012		q’ol	q’ol 
+675	34-6-46-1	721191601493806	Q'eqchi'	kekc1242	the skirt	SKIRT	1600		uuq	uuq 
+676	34-6-48-1	721191577348409	Q'eqchi'	kekc1242	the trousers	TROUSERS	809		wex	wex 
+677	34-6-49-1	721191702182858	Q'eqchi'	kekc1242	the sock or stocking	STOCKING	329		b'atb'al oq	b'atb'al oq 
+678	34-6-49-2	721191670396453	Q'eqchi'	kekc1242	the sock or stocking	STOCKING	329		xta oq	xta oq 
+679	34-6-49-3	721191345115412	Q'eqchi'	kekc1242	the sock or stocking	STOCKING	329		tz'apb'al oq	tz'apb'al oq 
+680	34-6-51-1	721191228620743	Q'eqchi'	kekc1242	the shoe	SHOE	1381		xaab’	xaab’ 
+681	34-6-52-1	721191952199320	Q'eqchi'	kekc1242	the boot	BOOT	585		b’oot	b’oot 
+682	34-6-54-1	721191428104428	Q'eqchi'	kekc1242	the shoemaker	SHOEMAKER	875		aj yiib’om xaab’	aj yiib’om xaab’ 
+683	34-6-55-1	721191135123559	Q'eqchi'	kekc1242	the hat or cap	HEADGEAR	2130		punit	punit 
+684	34-6-57-1	721191791349635	Q'eqchi'	kekc1242	the belt	BELT	772		nimla sinch	nimla sinch 
+685	34-6-58-1	721191504954655	Q'eqchi'	kekc1242	the glove	GLOVE	867		b'atb'a uq'	b'atb'a uq' 
+686	34-6-58-2	721191214144332	Q'eqchi'	kekc1242	the glove	GLOVE	867		xta uq'	xta uq' 
+687	34-6-59-1	721191219953000	Q'eqchi'	kekc1242	the veil	VEIL	1151		b’elo, b’eel	b’elo 
+688	34-6-59-2	721191219953000	Q'eqchi'	kekc1242	the veil	VEIL	1151		b’elo, b’eel	b’eel 
+689	34-6-61-1	721191820549812	Q'eqchi'	kekc1242	the pocket	POCKET	1851		b'oox	b'oox 
+690	34-6-62-1	721191472858572	Q'eqchi'	kekc1242	the button	BUTTON	757		b'otonx	b'otonx 
+691	34-6-63-1	721191815332790	Q'eqchi'	kekc1242	the pin	PIN	64		alpiler	alpiler 
+692	34-6-72-1	721191865726208	Q'eqchi'	kekc1242	the jewel	JEWEL	1029		q’ol	q’ol 
+693	34-6-73-1	721191889986420	Q'eqchi'	kekc1242	the ring	RING	1374		matq'ab'	matq'ab' 
+694	34-6-73-2	721191448339118	Q'eqchi'	kekc1242	the ring	RING	1374		b’ot	b’ot 
+695	34-6-74-1	721191227457149	Q'eqchi'	kekc1242	the bracelet	BRACELET	1754		pulseer	pulseer 
+696	34-6-77-1	721191494766175	Q'eqchi'	kekc1242	the earring	EARRING	770		ka'xik	ka'xik 
+697	34-6-78-1	72119141743276	Q'eqchi'	kekc1242	the headband or headdress	HEADBAND	330		t'upuy	t'upuy 
+698	34-6-79-1	721191980230757	Q'eqchi'	kekc1242	the tattoo	TATTOO	68		eetalil	eetalil 
+699	34-6-81-1	721191874925620	Q'eqchi'	kekc1242	the handkerchief or rag	RAG	332		sut	sut 
+700	34-6-82-1	721191388032784	Q'eqchi'	kekc1242	the towel	TOWEL	1021		tuwaay	tuwaay 
+701	34-6-91-1	721191476540377	Q'eqchi'	kekc1242	the comb	COMB	1475		xiyab'	xiyab' 
+702	34-6-92-1	721191743914865	Q'eqchi'	kekc1242	the brush	BRUSH	1821		sepiiy	sepiiy 
+703	34-6-921-1	721191924438429	Q'eqchi'	kekc1242	the plait/braid	BRAID	1043		tz’uluk	tz’uluk 
+704	34-6-93-1	721191598967422	Q'eqchi'	kekc1242	the razor	RAZOR	151		jooleb’	jooleb’ 
+705	34-6-93-2	721191691088217	Q'eqchi'	kekc1242	the razor	RAZOR	151		nawaaj	nawaaj 
+706	34-6-94-1	721191483309636	Q'eqchi'	kekc1242	the ointment	OINTMENT	1926		b'anol u	b'anol u 
+707	34-6-95-1	721191360369200	Q'eqchi'	kekc1242	the soap	SOAP	788		xab'on	xab'on 
+708	34-6-96-1	721191535300523	Q'eqchi'	kekc1242	the mirror	MIRROR	1171		lem	lem 
+709	34-7-11-1	721191375472001	Q'eqchi'	kekc1242	to live	DWELL (LIVE, RESIDE)	363		na'ajink	na'ajink 
+710	34-7-12-1	721191274371151	Q'eqchi'	kekc1242	the house	HOUSE	1252		ochoch	ochoch 
+711	34-7-12-2	721191977801735	Q'eqchi'	kekc1242	the house	HOUSE	1252		kab', kab’l	kab' 
+712	34-7-12-3	721191977801735	Q'eqchi'	kekc1242	the house	HOUSE	1252		kab', kab’l	kab’l 
+713	34-7-13-1	721191254748784	Q'eqchi'	kekc1242	the hut	HUT	1678		po’lem	po’lem 
+714	34-7-13-2	721191254359924	Q'eqchi'	kekc1242	the hut	HUT	1678		paapa'x	paapa'x 
+715	34-7-131-1	721191159528393	Q'eqchi'	kekc1242	the garden-house	GARDEN-HOUSE	403		tz'alam	tz'alam 
+716	34-7-15-1	721191150838658	Q'eqchi'	kekc1242	the yard or court	YARD	736		neb'aal	neb'aal 
+717	34-7-17-1	721191475243589	Q'eqchi'	kekc1242	the cookhouse	COOKHOUSE	334		k'uub'leb'aal	k'uub'leb'aal 
+718	34-7-17-2	721191839124347	Q'eqchi'	kekc1242	the cookhouse	COOKHOUSE	334		xna'aj xam	xna'aj xam 
+719	34-7-18-1	721191992080777	Q'eqchi'	kekc1242	the meeting house	MEETING HOUSE	335		ch'utleb'aal	ch'utleb'aal 
+720	34-7-21-1	721191151078594	Q'eqchi'	kekc1242	the room	ROOM	1450		kwaart	kwaart 
+721	34-7-21-2	721191843527706	Q'eqchi'	kekc1242	the room	ROOM	1450		warib’aal	warib’aal 
+722	34-7-22-1	721191236139706	Q'eqchi'	kekc1242	the door or gate	DOOR	1567		okeb’al	okeb’al 
+723	34-7-22-2	721191889225202	Q'eqchi'	kekc1242	the door or gate	DOOR	1567		re kab’	re kab’ 
+724	34-7-22-3	72119125738082	Q'eqchi'	kekc1242	the door or gate	DOOR	1567		pwerta	pwerta 
+725	34-7-221-1	721191908942440	Q'eqchi'	kekc1242	the doorpost	DOORPOST	80		champa	champa 
+726	34-7-23-1	721191531703766	Q'eqchi'	kekc1242	the lock	LOCK	1596		tz’apleb’	tz’apleb’ 
+727	34-7-23-2	721191644099348	Q'eqchi'	kekc1242	the lock	LOCK	1596		kantaaw	kantaaw 
+728	34-7-231-1	72119133997728	Q'eqchi'	kekc1242	the latch or door-bolt	LATCH	1012		k’aan	k’aan 
+729	34-7-231-2	721191738888306	Q'eqchi'	kekc1242	the latch or door-bolt	LATCH	1012		nat'leb'	nat'leb' 
+730	34-7-24-1	72119170697353	Q'eqchi'	kekc1242	the key	KEY	1472		laaw	laaw 
+731	34-7-25-1	721191113795893	Q'eqchi'	kekc1242	the window	WINDOW	1375		b’entaan	b’entaan 
+732	34-7-25-2	721191429329831	Q'eqchi'	kekc1242	the window	WINDOW	1375		rokeb’ iq’	rokeb’ iq’ 
+733	34-7-26-1	72119159316174	Q'eqchi'	kekc1242	the floor	FLOOR	1632		ch’och’	ch’och’ 
+734	34-7-27-1	721191787670640	Q'eqchi'	kekc1242	the wall	WALL (OF HOUSE)	933		tz’ak	tz’ak 
+735	34-7-31-1	721191839124347	Q'eqchi'	kekc1242	the fireplace	FIREPLACE	185		xna'aj xam	xna'aj xam 
+736	34-7-31-2	721191175529069	Q'eqchi'	kekc1242	the fireplace	FIREPLACE	185		k'ub'	k'ub' 
+737	34-7-32-1	721191865258570	Q'eqchi'	kekc1242	the stove	STOVE	859		estuuf	estuuf 
+738	34-7-32-2	721191929748966	Q'eqchi'	kekc1242	the stove	STOVE	859		kaxlan chiqleb’	kaxlan chiqleb’ 
+739	34-7-33-1	721191543955351	Q'eqchi'	kekc1242	the chimney	CHIMNEY	1305		releb’ sib’	releb’ sib’ 
+740	34-7-33-2	721191635662492	Q'eqchi'	kekc1242	the chimney	CHIMNEY	1305		xb’ehil sib’	xb’ehil sib’ 
+741	34-7-42-1	721191516805440	Q'eqchi'	kekc1242	the bed	BED	1663		ch’aat	ch’aat 
+742	34-7-42-2	72119143716484	Q'eqchi'	kekc1242	the bed	BED	1663		warib'	warib' 
+743	34-7-421-1	721191101269776	Q'eqchi'	kekc1242	the pillow	PILLOW	1044		sok jolomej	sok jolomej 
+744	34-7-422-1	72119177217796	Q'eqchi'	kekc1242	the blanket	BLANKET	806		isb’	isb’ 
+745	34-7-43-1	72119196685747	Q'eqchi'	kekc1242	the chair	CHAIR	1476		tem	tem 
+746	34-7-43-2	72119185251332	Q'eqchi'	kekc1242	the chair	CHAIR	1476		siiy	siiy 
+747	34-7-44-1	721191221485708	Q'eqchi'	kekc1242	the table	TABLE	1775		meex	meex 
+748	34-7-45-1	721191734792303	Q'eqchi'	kekc1242	the lamp or torch	TORCH OR LAMP	2131		lampr	lampr 
+749	34-7-45-2	721191366141530	Q'eqchi'	kekc1242	the lamp or torch	TORCH OR LAMP	2131		xam	xam 
+750	34-7-46-1	721191575809099	Q'eqchi'	kekc1242	the candle	CANDLE	1273		kandeel, kanteel	kandeel 
+751	34-7-46-2	721191575809099	Q'eqchi'	kekc1242	the candle	CANDLE	1273		kandeel, kanteel	kanteel 
+752	34-7-46-3	721191485239719	Q'eqchi'	kekc1242	the candle	CANDLE	1273		uutz’u’uj	uutz’u’uj 
+753	34-7-47-1	721191212001627	Q'eqchi'	kekc1242	the shelf	SHELF	745		tasal	tasal 
+754	34-7-48-1	721191459398389	Q'eqchi'	kekc1242	the trough	TROUGH	205		job’che’	job’che’ 
+755	34-7-51-1	721191620824565	Q'eqchi'	kekc1242	the roof	ROOF	769		xb'een kab'l	xb'een kab'l 
+756	34-7-52-1	721191615105781	Q'eqchi'	kekc1242	the thatch	THATCH	279		k’imal kab’l	k’imal kab’l 
+757	34-7-53-1	721191920152367	Q'eqchi'	kekc1242	the ridgepole	RIDGEPOLE	280		tz'amb'a	tz'amb'a 
+758	34-7-54-1	721191482190968	Q'eqchi'	kekc1242	the rafter	RAFTER	829		b'aqsotz'	b'aqsotz' 
+759	34-7-54-2	721191911441304	Q'eqchi'	kekc1242	the rafter	RAFTER	829		xb'e ch'o	xb'e ch'o 
+760	34-7-55-1	721191920152367	Q'eqchi'	kekc1242	the beam	BEAM	1132		tz'amb'a	tz'amb'a 
+761	34-7-56-1	721191475088220	Q'eqchi'	kekc1242	the post or pole	POST	281		oqech	oqech 
+762	34-7-57-1	721191659483479	Q'eqchi'	kekc1242	the board	BOARD	1227		tz'alamche'	tz'alamche' 
+763	34-7-58-1	721191988748712	Q'eqchi'	kekc1242	the arch	ARCH	876		arko	arko 
+764	34-7-61-1	721191889483897	Q'eqchi'	kekc1242	the mason	MASON	877		aj tz’ak	aj tz’ak 
+765	34-7-62-1	721191313833988	Q'eqchi'	kekc1242	the brick	BRICK	1006		xan	xan 
+766	34-7-64-1	721191313833988	Q'eqchi'	kekc1242	the adobe	ADOBE	901		xan	xan 
+767	34-7-64-2	721191572693018	Q'eqchi'	kekc1242	the adobe	ADOBE	901		q'ut	q'ut 
+768	34-8-11-1	721191884898074	Q'eqchi'	kekc1242	the farmer	FARMER	979		aj k’alom	aj k’alom 
+769	34-8-12-1	721191999399181	Q'eqchi'	kekc1242	the field	FIELD	212		awleb'aal	awleb'aal 
+770	34-8-12-2	721191994294598	Q'eqchi'	kekc1242	the field	FIELD	212		k’al	k’al 
+771	34-8-12-3	721191465774888	Q'eqchi'	kekc1242	the field	FIELD	212		awib’aal	awib’aal 
+772	34-8-15-1	721191345765488	Q'eqchi'	kekc1242	to cultivate	CULTIVATE	1541		xk’anjelankil	xk’anjelankil 
+773	34-8-16-1	721191542006330	Q'eqchi'	kekc1242	the fence	FENCE	1690		koral	koral 
+774	34-8-17-1	721191683521427	Q'eqchi'	kekc1242	the ditch	DITCH	2002		roq ha’	roq ha’ 
+775	34-8-17-2	721191405497317	Q'eqchi'	kekc1242	the ditch	DITCH	2002		jul	jul 
+776	34-8-212-1	721191374617014	Q'eqchi'	kekc1242	the furrow	FURROW	1794		qeer	qeer 
+777	34-8-212-2	721191956556895	Q'eqchi'	kekc1242	the furrow	FURROW	1794		ch’ol	ch’ol 
+778	34-8-212-3	721191652243574	Q'eqchi'	kekc1242	the furrow	FURROW	1794		tzol	tzol 
+779	34-8-212-4	721191449301216	Q'eqchi'	kekc1242	the furrow	FURROW	1794		suurk	suurk 
+780	34-8-22-1	721191551417007	Q'eqchi'	kekc1242	to dig	DIG	1418		pikok	pikok 
+781	34-8-22-2	721191595654128	Q'eqchi'	kekc1242	to dig	DIG	1418		aq'ink	aq'ink 
+782	34-8-22-3	721191632985410	Q'eqchi'	kekc1242	to dig	DIG	1418		b'ekok	b'ekok 
+783	34-8-24-1	721191869254681	Q'eqchi'	kekc1242	the shovel	SHOVEL	1901		paal	paal 
+784	34-8-25-1	721191262585881	Q'eqchi'	kekc1242	the hoe	HOE	284		asaron	asaron 
+785	34-8-26-1	721191196115199	Q'eqchi'	kekc1242	the fork(2)/pitchfork	PITCHFORK	337		rastriyo	rastriyo 
+786	34-8-26-2	721191474702717	Q'eqchi'	kekc1242	the fork(2)/pitchfork	PITCHFORK	337		orkeet	orkeet 
+787	34-8-27-1	721191196115199	Q'eqchi'	kekc1242	the rake	RAKE	338		rastriyo	rastriyo 
+788	34-8-31-1	721191718567861	Q'eqchi'	kekc1242	to sow	SOW SEEDS	748		awok	awok 
+789	34-8-31-2	721191480221093	Q'eqchi'	kekc1242	to sow	SOW SEEDS	748		hirok	hirok 
+790	34-8-311-1	721191249806121	Q'eqchi'	kekc1242	the seed	SEED	714		iyaj	iyaj 
+791	34-8-32-1	721191785438264	Q'eqchi'	kekc1242	to mow	MOW	190		setok	setok 
+792	34-8-33-1	721191631968892	Q'eqchi'	kekc1242	the sickle or scythe	SICKLE OR SCYTHE	2132		k'onk'ookil ch'iich'	k'onk'ookil ch'iich' 
+793	34-8-34-1	721191332436808	Q'eqchi'	kekc1242	to thresh	THRESH	285		pech'ok	pech'ok 
+794	34-8-34-2	721191254572923	Q'eqchi'	kekc1242	to thresh	THRESH	285		ch'epok	ch'epok 
+795	34-8-34-3	721191857698610	Q'eqchi'	kekc1242	to thresh	THRESH	285		iximak	iximak 
+796	34-8-41-1	721191721744440	Q'eqchi'	kekc1242	the harvest	HARVEST	611		ch'oqom	ch'oqom 
+797	34-8-41-2	721191637351257	Q'eqchi'	kekc1242	the harvest	HARVEST	611		q'olom	q'olom 
+798	34-8-42-1	721191808979379	Q'eqchi'	kekc1242	the grain	GRAIN	605		t'orol	t'orol 
+799	34-8-43-1	72119149743989	Q'eqchi'	kekc1242	the wheat	WHEAT	1077		triiw (1)	triiw (1) 
+800	34-8-44-1	721191936316058	Q'eqchi'	kekc1242	the barley	BARLEY	932		seb’aad	seb’aad 
+801	34-8-47-1	721191574288510	Q'eqchi'	kekc1242	the maize/corn	MAIZE	506		ixim	ixim 
+802	34-8-48-1	721191915490089	Q'eqchi'	kekc1242	the rice	RICE	926		aros	aros 
+803	34-8-51-1	721191835225412	Q'eqchi'	kekc1242	the grass	GRASS	606		pach'aya'	pach'aya' 
+804	34-8-51-2	721191205610763	Q'eqchi'	kekc1242	the grass	GRASS	606		ichaj	ichaj 
+805	34-8-52-1	721191801857578	Q'eqchi'	kekc1242	the hay	HAY	342		aq (2)	aq (2) 
+806	34-8-52-2	721191642448793	Q'eqchi'	kekc1242	the hay	HAY	342		k’im	k’im 
+807	34-8-52-3	721191586415787	Q'eqchi'	kekc1242	the hay	HAY	342		tam	tam 
+808	34-8-53-1	72119182178438	Q'eqchi'	kekc1242	the plant	PLANT (VEGETATION)	653		awinq	awinq 
+809	34-8-531-1	721191718567861	Q'eqchi'	kekc1242	to plant	PLANT (SOMETHING)	1486		awok	awok 
+810	34-8-54-1	7211912129354	Q'eqchi'	kekc1242	the root	ROOT	670		xe’	xe’ 
+811	34-8-55-1	721191647147616	Q'eqchi'	kekc1242	the branch	BRANCH OR TWIG	3223		ruq' che'	ruq' che' 
+812	34-8-56-1	721191812039669	Q'eqchi'	kekc1242	the leaf	LEAF	628		xaq	xaq 
+813	34-8-56-2	721191607509644	Q'eqchi'	kekc1242	the leaf	LEAF	628		q’een	q’een 
+814	34-8-57-1	721191422223849	Q'eqchi'	kekc1242	the flower	FLOWER	239		atz'um	atz'um 
+815	34-8-57-2	721191551743891	Q'eqchi'	kekc1242	the flower	FLOWER	239		uutz'u'uj	uutz'u'uj 
+816	34-8-6-1	721191375603805	Q'eqchi'	kekc1242	the tree	TREE	906		che’	che’ 
+817	34-8-61-1	721191687230881	Q'eqchi'	kekc1242	the oak	OAK	644		ji	ji 
+818	34-8-64-1	721191269814125	Q'eqchi'	kekc1242	the pine	PINE	1740		chaj	chaj 
+819	34-8-66-1	721191655573475	Q'eqchi'	kekc1242	the acorn	ACORN	968		ru ji	ru ji 
+820	34-8-67-1	721191734615339	Q'eqchi'	kekc1242	the vine	VINE	343		aq’	aq’ 
+821	34-8-68-1	7211918107890	Q'eqchi'	kekc1242	the tobacco	TOBACCO	974		may	may 
+822	34-8-69-1	721191989303483	Q'eqchi'	kekc1242	to smoke	SMOKE (INHALE)	1689		mayib’k	mayib’k 
+823	34-8-69-2	721191814374582	Q'eqchi'	kekc1242	to smoke	SMOKE (INHALE)	1689		sik'lik	sik'lik 
+824	34-8-691-1	721191478324654	Q'eqchi'	kekc1242	the pipe	PIPE	1124		kachimp	kachimp 
+825	34-8-72-1	721191363140711	Q'eqchi'	kekc1242	the tree stump	TREE STUMP	241		toon	toon 
+826	34-8-73-1	721191363140711	Q'eqchi'	kekc1242	the tree trunk	TREE TRUNK	344		toon	toon 
+827	34-8-73-2	721191578555339	Q'eqchi'	kekc1242	the tree trunk	TREE TRUNK	344		roq	roq 
+828	34-8-74-1	721191448234555	Q'eqchi'	kekc1242	the forked branch	FORKED BRANCH	409		xaal che'	xaal che' 
+829	34-8-74-2	721191465651151	Q'eqchi'	kekc1242	the forked branch	FORKED BRANCH	409		ra' che'	ra' che' 
+830	34-8-75-1	721191864871516	Q'eqchi'	kekc1242	the bark	BARK	1204		rix che	rix che 
+831	34-8-76-1	721191382115436	Q'eqchi'	kekc1242	the sap	SAP	345		ya'al	ya'al 
+832	34-8-76-2	721191873241143	Q'eqchi'	kekc1242	the sap	SAP	345		q'ol	q'ol 
+833	34-8-81-1	721191115280123	Q'eqchi'	kekc1242	the palm tree	PALM TREE	1181		kala'	kala' 
+834	34-8-81-2	721191741457758	Q'eqchi'	kekc1242	the palm tree	PALM TREE	1181		b’ob’	b’ob’ 
+835	34-8-81-3	72119159731629	Q'eqchi'	kekc1242	the palm tree	PALM TREE	1181		xeek'	xeek' 
+836	34-8-82-1	721191470793343	Q'eqchi'	kekc1242	the coconut	COCONUT	970		kook	kook 
+837	34-8-83-1	721191407868914	Q'eqchi'	kekc1242	the citrus fruit	CITRUS FRUIT	1126		lamunx	lamunx 
+838	34-8-84-1	721191943478313	Q'eqchi'	kekc1242	the banana	BANANA	868		tul	tul 
+839	34-8-91-1	721191489400039	Q'eqchi'	kekc1242	the sweet potato	SWEET POTATO	159		is	is 
+840	34-8-92-1	721191758692876	Q'eqchi'	kekc1242	the cassava/manioc	CASSAVA	925		tz’in	tz’in 
+841	34-8-93-1	721191268011854	Q'eqchi'	kekc1242	the gourd	GOURD	411		joom	joom 
+842	34-8-93-2	721191635155129	Q'eqchi'	kekc1242	the gourd	GOURD	411		k’um	k’um 
+843	34-8-931-1	721191635155129	Q'eqchi'	kekc1242	the pumpkin or squash	PUMPKIN	864		k’um	k’um 
+844	34-8-94-1	721191436677962	Q'eqchi'	kekc1242	the bamboo	BAMBOO	1927		simb’	simb’ 
+845	34-8-941-1	721191172975734	Q'eqchi'	kekc1242	the sugar cane	SUGAR CANE	146		utz'aal	utz'aal 
+846	34-8-941-2	721191190254742	Q'eqchi'	kekc1242	the sugar cane	SUGAR CANE	146		asuukr utz'ajl	asuukr utz'ajl 
+847	34-8-96-1	721191721564426	Q'eqchi'	kekc1242	the fish poison	FISH POISON	348		ch’alam	ch’alam 
+848	34-8-97-1	721191312496608	Q'eqchi'	kekc1242	the nettle	NETTLE	33		la	la 
+849	34-8-97-2	721191502129580	Q'eqchi'	kekc1242	the nettle	NETTLE	33		panchola	panchola 
+850	34-8-98-1	72119141588350	Q'eqchi'	kekc1242	the mushroom	MUSHROOM	641		okox	okox 
+851	34-9-11-1	721191382415253	Q'eqchi'	kekc1242	to do	DO	813		b’aanunk	b’aanunk 
+852	34-9-12-1	72119179403814	Q'eqchi'	kekc1242	the work	WORK (LABOUR)	984		k'anjel	k'anjel 
+853	34-9-14-1	721191715552836	Q'eqchi'	kekc1242	to bend	BEND	2004		k'unuk	k'unuk 
+854	34-9-14-2	721191870831020	Q'eqchi'	kekc1242	to bend	BEND	2004		hutzuk	hutzuk 
+855	34-9-14-3	721191811651270	Q'eqchi'	kekc1242	to bend	BEND	2004		k'onok	k'onok 
+856	34-9-14-4	721191916804015	Q'eqchi'	kekc1242	to bend	BEND	2004		lokok	lokok 
+857	34-9-14-5	721191334871	Q'eqchi'	kekc1242	to bend	BEND	2004		b’asok	b’asok 
+858	34-9-14-6	721191782918624	Q'eqchi'	kekc1242	to bend	BEND	2004		liq'ok	liq'ok 
+859	34-9-15-1	721191271764404	Q'eqchi'	kekc1242	to fold	FOLD	1470		b’olok	b’olok 
+860	34-9-15-2	72119130415038	Q'eqchi'	kekc1242	to fold	FOLD	1470		mochok	mochok 
+861	34-9-16-1	721191732328904	Q'eqchi'	kekc1242	to tie	TIE	1917		b'ak’ok	b'ak’ok 
+862	34-9-16-2	721191839185118	Q'eqchi'	kekc1242	to tie	TIE	1917		jit'ok	jit'ok 
+863	34-9-161-1	721191297999127	Q'eqchi'	kekc1242	to untie	UNTIE	352		hitok	hitok 
+864	34-9-161-2	721191518508982	Q'eqchi'	kekc1242	to untie	UNTIE	352		k'ixok	k'ixok 
+865	34-9-18-1	721191865726208	Q'eqchi'	kekc1242	the chain	CHAIN	1627		q’ol	q’ol 
+866	34-9-18-2	721191962585184	Q'eqchi'	kekc1242	the chain	CHAIN	1627		kareen	kareen 
+867	34-9-19-1	721191128316820	Q'eqchi'	kekc1242	the rope	ROPE	1218		k’aam	k’aam 
+868	34-9-192-1	721191861157898	Q'eqchi'	kekc1242	the knot	KNOT	760		t'ok’	t'ok’ 
+869	34-9-192-2	721191279505646	Q'eqchi'	kekc1242	the knot	KNOT	760		t'ok'	t'ok' 
+870	34-9-21-1	721191421143367	Q'eqchi'	kekc1242	to strike or hit or beat	STRIKE OR BEAT	2133		b'ujuk	b'ujuk 
+871	34-9-21-2	721191649411451	Q'eqchi'	kekc1242	to strike or hit or beat	STRIKE OR BEAT	2133		ketok	ketok 
+872	34-9-21-3	721191926860630	Q'eqchi'	kekc1242	to strike or hit or beat	STRIKE OR BEAT	2133		potz'ok	potz'ok 
+873	34-9-21-4	721191449236931	Q'eqchi'	kekc1242	to strike or hit or beat	STRIKE OR BEAT	2133		tenok	tenok 
+874	34-9-21-5	721191104744837	Q'eqchi'	kekc1242	to strike or hit or beat	STRIKE OR BEAT	2133		wojok	wojok 
+875	34-9-211-1	721191617354492	Q'eqchi'	kekc1242	to pound	POUND	354		t'i'ok	t'i'ok 
+876	34-9-22-1	721191709777328	Q'eqchi'	kekc1242	to cut	CUT	1432		kuruk	kuruk 
+877	34-9-221-1	721191681252401	Q'eqchi'	kekc1242	to cut down	CUT DOWN	355		jachok	jachok 
+878	34-9-222-1	721191343882027	Q'eqchi'	kekc1242	to chop	CHOP	155		yok'ok	yok'ok 
+879	34-9-222-2	721191376643191	Q'eqchi'	kekc1242	to chop	CHOP	155		jesok	jesok 
+880	34-9-222-3	721191811858808	Q'eqchi'	kekc1242	to chop	CHOP	155		raqink	raqink 
+881	34-9-222-4	721191425184358	Q'eqchi'	kekc1242	to chop	CHOP	155		qapok	qapok 
+882	34-9-223-1	721191787684699	Q'eqchi'	kekc1242	to stab	STAB TO DEATH	3189		xeq'ok	xeq'ok 
+883	34-9-23-1	721191913966234	Q'eqchi'	kekc1242	the knife(2)	KNIFE	1352		ch'ina ch'iich'	ch'ina ch'iich' 
+884	34-9-24-1	721191807399753	Q'eqchi'	kekc1242	the scissors or shears	SHEARS	356		tixeer	tixeer 
+885	34-9-25-1	721191397482746	Q'eqchi'	kekc1242	the axe/ax	AXE	677		maal	maal 
+886	34-9-26-1	721191407652389	Q'eqchi'	kekc1242	to break	BREAK (DESTROY OR GET DESTROYED)	680		jorok	jorok 
+887	34-9-26-2	721191398031581	Q'eqchi'	kekc1242	to break	BREAK (DESTROY OR GET DESTROYED)	680		much'uk	much'uk 
+888	34-9-26-3	721191125591418	Q'eqchi'	kekc1242	to break	BREAK (DESTROY OR GET DESTROYED)	680		toqok	toqok 
+889	34-9-261-1	721191650191536	Q'eqchi'	kekc1242	broken	BROKEN (NOT WORKING)	3190		jorol	jorol 
+890	34-9-261-2	721191378828629	Q'eqchi'	kekc1242	broken	BROKEN (NOT WORKING)	3190		much'ul	much'ul 
+891	34-9-261-3	721191548255771	Q'eqchi'	kekc1242	broken	BROKEN (NOT WORKING)	3190		paq'al	paq'al 
+892	34-9-261-4	72119119940388	Q'eqchi'	kekc1242	broken	BROKEN (NOT WORKING)	3190		toqolal	toqolal 
+893	34-9-27-1	72119166738563	Q'eqchi'	kekc1242	to split	SPLIT	1437		kiib'ank	kiib'ank 
+894	34-9-27-2	721191681252401	Q'eqchi'	kekc1242	to split	SPLIT	1437		jachok	jachok 
+895	34-9-27-3	721191125591418	Q'eqchi'	kekc1242	to split	SPLIT	1437		toqok	toqok 
+896	34-9-27-4	721191709777328	Q'eqchi'	kekc1242	to split	SPLIT	1437		kuruk	kuruk 
+897	34-9-27-5	721191574194792	Q'eqchi'	kekc1242	to split	SPLIT	1437		xerok	xerok 
+898	34-9-28-1	721191365177538	Q'eqchi'	kekc1242	to tear	TEAR (SHRED)	1735		q'ichok	q'ichok 
+899	34-9-28-2	721191683140896	Q'eqchi'	kekc1242	to tear	TEAR (SHRED)	1735		q'irok	q'irok 
+900	34-9-28-3	721191558229515	Q'eqchi'	kekc1242	to tear	TEAR (SHRED)	1735		re'ok	re'ok 
+901	34-9-28-4	721191275845979	Q'eqchi'	kekc1242	to tear	TEAR (SHRED)	1735		pejok	pejok 
+902	34-9-83-1	721191388301077	Q'eqchi'	kekc1242	the statue	STATUE	1002		jalam ’uuch	jalam ’uuch 
+903	34-9-29-1	721191588944800	Q'eqchi'	kekc1242	to skin	PULL OFF (SKIN)	291		b’ich’ok	b’ich’ok 
+904	34-9-29-2	721191658744451	Q'eqchi'	kekc1242	to skin	PULL OFF (SKIN)	291		mich’ok	mich’ok 
+905	34-9-31-1	721191834440014	Q'eqchi'	kekc1242	to rub	RUB	1449		jilok	jilok 
+906	34-9-31-2	721191125704648	Q'eqchi'	kekc1242	to rub	RUB	1449		b'iqok	b'iqok 
+907	34-9-32-1	721191470295146	Q'eqchi'	kekc1242	to stretch	STRETCH	214		yu'uk	yu'uk 
+908	34-9-32-2	721191570276085	Q'eqchi'	kekc1242	to stretch	STRETCH	214		rinok	rinok 
+909	34-9-33-1	721191482445016	Q'eqchi'	kekc1242	to pull	PULL	1455		jukunk	jukunk 
+910	34-9-33-2	721191628202539	Q'eqchi'	kekc1242	to pull	PULL	1455		kelonk	kelonk 
+911	34-9-34-1	721191881768914	Q'eqchi'	kekc1242	to spread out	SPREAD OUT	38		chirok	chirok 
+912	34-9-34-2	721191733451371	Q'eqchi'	kekc1242	to spread out	SPREAD OUT	38		helok	helok 
+913	34-9-341-1	721191898024157	Q'eqchi'	kekc1242	to hang up	HANG UP	357		t’uyub’ank	t’uyub’ank 
+914	34-9-342-1	721191519504392	Q'eqchi'	kekc1242	to press	PRESS	1913		nat'ok	nat'ok 
+915	34-9-343-1	721191985079568	Q'eqchi'	kekc1242	to squeeze	SQUEEZE	1414		pitz’ok	pitz’ok 
+916	34-9-343-2	721191196309831	Q'eqchi'	kekc1242	to squeeze	SQUEEZE	1414		yatz'ok	yatz'ok 
+917	34-9-35-1	721191722158085	Q'eqchi'	kekc1242	to pour	POUR	1487		hoyok	hoyok 
+918	34-9-36-1	721191243742929	Q'eqchi'	kekc1242	to wash	WASH	1453		ch'ajok	ch'ajok 
+919	34-9-36-2	72119150253530	Q'eqchi'	kekc1242	to wash	WASH	1453		puch'uk	puch'uk 
+920	34-9-37-1	721191618932526	Q'eqchi'	kekc1242	to sweep	SWEEP	230		mesunk	mesunk 
+921	34-9-38-1	721191709771576	Q'eqchi'	kekc1242	the broom	BROOM	245		mesleb'	mesleb' 
+922	34-9-422-1	721191543001625	Q'eqchi'	kekc1242	the tool	TOOL	1361		k'anjelob'aal	k'anjelob'aal 
+923	34-9-43-1	721191427505766	Q'eqchi'	kekc1242	the carpenter	CARPENTER	1042		pech'ol che'	pech'ol che' 
+924	34-9-44-1	721191343425857	Q'eqchi'	kekc1242	to build	BUILD	1840		kab'lank	kab'lank 
+925	34-9-46-1	721191830716631	Q'eqchi'	kekc1242	to bore	BORE	1501		k'ob'ok	k'ob'ok 
+926	34-9-46-2	721191418694238	Q'eqchi'	kekc1242	to bore	BORE	1501		hopok	hopok 
+927	34-9-461-1	721191410810868	Q'eqchi'	kekc1242	to hollow out	HOLLOW OUT	46		job'enk	job'enk 
+928	34-9-48-1	721191445078285	Q'eqchi'	kekc1242	the saw	SAW	1948		jachleb’	jachleb’ 
+929	34-9-48-2	721191515188012	Q'eqchi'	kekc1242	the saw	SAW	1948		xeer	xeer 
+930	34-9-49-1	721191225275294	Q'eqchi'	kekc1242	the hammer	HAMMER	1481		tenleb’	tenleb’ 
+931	34-9-49-2	72119116463529	Q'eqchi'	kekc1242	the hammer	HAMMER	1481		t'ojleb'	t'ojleb' 
+932	34-9-5-1	721191296909861	Q'eqchi'	kekc1242	the nail	NAIL (TOOL)	502		klaawx	klaawx 
+933	34-9-56-1	721191100813500	Q'eqchi'	kekc1242	the glue	GLUE	1069		latzleb’	latzleb’ 
+934	34-9-6-1	721191129840041	Q'eqchi'	kekc1242	the blacksmith	BLACKSMITH	1001		ajtenolch’ich’	ajtenolch’ich’ 
+935	34-9-64-1	721191701841528	Q'eqchi'	kekc1242	the gold	GOLD	1369		q'an ch'iich’	q'an ch'iich’ 
+936	34-9-64-2	721191494766175	Q'eqchi'	kekc1242	the gold	GOLD	1369		ka'xik	ka'xik 
+937	34-9-65-1	721191859185248	Q'eqchi'	kekc1242	the silver	SILVER	759		plaat	plaat 
+938	34-9-65-2	721191123348916	Q'eqchi'	kekc1242	the silver	SILVER	759		saqi ch’iich’	saqi ch’iich’ 
+939	34-9-66-1	721191752901485	Q'eqchi'	kekc1242	the copper	COPPER	1825		q'an ch'iich'	q'an ch'iich' 
+940	34-9-67-1	721191605818583	Q'eqchi'	kekc1242	the iron	IRON	621		ch'iich'	ch'iich' 
+941	34-9-68-1	721191447843221	Q'eqchi'	kekc1242	the lead	LEAD (CHEMICAL ELEMENT)	627		rax ch'iich'	rax ch'iich' 
+942	34-9-71-1	721191536433263	Q'eqchi'	kekc1242	the potter	POTTER	359		pak'onel	pak'onel 
+943	34-9-71-2	721191914886386	Q'eqchi'	kekc1242	the potter	POTTER	359		pak'ol	pak'ol 
+944	34-9-72-1	721191772940407	Q'eqchi'	kekc1242	to mould/mold	MOLD	289		pak'ok	pak'ok 
+945	34-9-73-1	721191975403613	Q'eqchi'	kekc1242	the clay	CLAY	1399		seb’	seb’ 
+946	34-9-74-1	721191535300523	Q'eqchi'	kekc1242	the glass	GLASS	604		lem	lem 
+947	34-9-74-2	721191517931559	Q'eqchi'	kekc1242	the glass	GLASS	604		meet	meet 
+948	34-9-75-1	721191811597217	Q'eqchi'	kekc1242	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		kemok	kemok 
+949	34-9-76-1	721191571664749	Q'eqchi'	kekc1242	the basket	BASKET	1539		chakach	chakach 
+950	34-9-76-2	721191102305093	Q'eqchi'	kekc1242	the basket	BASKET	1539		almul	almul 
+951	34-9-77-1	721191698355240	Q'eqchi'	kekc1242	the mat	MAT	195		aj	aj 
+952	34-9-77-2	721191195859307	Q'eqchi'	kekc1242	the mat	MAT	195		poop	poop 
+953	34-9-771-1	721191814037462	Q'eqchi'	kekc1242	the rug	RUG	292		alfombra	alfombra 
+954	34-9-78-1	721191861987412	Q'eqchi'	kekc1242	the netbag	NETBAG	293		soq'	soq' 
+955	34-9-79-1	721191559380702	Q'eqchi'	kekc1242	the fan	FAN (OBJECT)	1971		waal	waal 
+956	34-9-79-2	721191758511822	Q'eqchi'	kekc1242	the fan	FAN (OBJECT)	1971		apusinel na’ajej	apusinel na’ajej 
+957	34-9-791-1	721191455807726	Q'eqchi'	kekc1242	to fan	FAN ACTION	360		waalesink	waalesink 
+958	34-9-81-1	721191401114548	Q'eqchi'	kekc1242	to carve	CARVE	228		let’ok	let’ok 
+959	34-9-82-1	721191350623055	Q'eqchi'	kekc1242	the sculptor	SCULPTOR	914		aj pech’onel	aj pech’onel 
+960	34-9-84-1	721191536987178	Q'eqchi'	kekc1242	the chisel	CHISEL	1979		formon	formon 
+961	34-9-88-1	721191559441920	Q'eqchi'	kekc1242	the paint	PAINT (PIGMENTS)	647		b’on	b’on 
+962	34-9-89-1	721191439863972	Q'eqchi'	kekc1242	to paint	PAINTING	2001		b’onok	b’onok 
+963	34-10-11-1	721191916013081	Q'eqchi'	kekc1242	to move	MOVE	765		tweek’asi	tweek’asi 
+964	34-10-12-1	721191833357027	Q'eqchi'	kekc1242	to turn	TURN	1588		b’alq’usink	b’alq’usink 
+965	34-10-12-2	721191777385962	Q'eqchi'	kekc1242	to turn	TURN	1588		q’otok	q’otok 
+966	34-10-13-1	721191833357027	Q'eqchi'	kekc1242	to turn around	TURN (SOMETHING)	1445		b’alq’usink	b’alq’usink 
+967	34-10-13-2	72119161242973	Q'eqchi'	kekc1242	to turn around	TURN (SOMETHING)	1445		q’otonk	q’otonk 
+968	34-10-14-1	721191212270875	Q'eqchi'	kekc1242	to wrap	WRAP	1113		b'atok	b'atok 
+969	34-10-14-2	721191571906022	Q'eqchi'	kekc1242	to wrap	WRAP	1113		q'ochok	q'ochok 
+970	34-10-14-3	721191139644906	Q'eqchi'	kekc1242	to wrap	WRAP	1113		lanok	lanok 
+971	34-10-14-4	721191110577355	Q'eqchi'	kekc1242	to wrap	WRAP	1113		xut’uk	xut’uk 
+972	34-10-14-5	721191563705370	Q'eqchi'	kekc1242	to wrap	WRAP	1113		yutuk	yutuk 
+973	34-10-15-1	721191170646146	Q'eqchi'	kekc1242	to roll	ROLL	827		b'arb'arink	b'arb'arink 
+974	34-10-16-1	721191910347166	Q'eqchi'	kekc1242	to drop	DROP (SOMETHING)	2866		xkoq’b’al	xkoq’b’al 
+975	34-10-16-2	721191112962667	Q'eqchi'	kekc1242	to drop	DROP (SOMETHING)	2866		b’alq’unsink	b’alq’unsink 
+976	34-10-17-1	721191811651270	Q'eqchi'	kekc1242	to twist	TWIST (AROUND)	3199		k'onok	k'onok 
+977	34-10-17-2	721191164318821	Q'eqchi'	kekc1242	to twist	TWIST (AROUND)	3199		yokosink	yokosink 
+978	34-10-17-3	72119173272774	Q'eqchi'	kekc1242	to twist	TWIST (AROUND)	3199		siq'ok	siq'ok 
+979	34-10-21-1	721191121235305	Q'eqchi'	kekc1242	to rise	RISE (MOVE UPWARDS)	568		wakliik	wakliik 
+980	34-10-21-2	721191452289487	Q'eqchi'	kekc1242	to rise	RISE (MOVE UPWARDS)	568		xaqliik	xaqliik 
+981	34-10-22-1	72119119495502	Q'eqchi'	kekc1242	to raise or lift	LIFT	501		paqonk	paqonk 
+982	34-10-22-2	721191678719417	Q'eqchi'	kekc1242	to raise or lift	LIFT	501		waklesink	waklesink 
+983	34-10-23-1	72119160141395	Q'eqchi'	kekc1242	to fall	FALL	1280		soq'e'k	soq'e'k 
+984	34-10-23-2	721191674366299	Q'eqchi'	kekc1242	to fall	FALL	1280		tob'b'ak	tob'b'ak 
+985	34-10-23-3	721191110496233	Q'eqchi'	kekc1242	to fall	FALL	1280		t'ane'k	t'ane'k 
+986	34-10-24-1	72119195230182	Q'eqchi'	kekc1242	to drip	DRIP (EMIT LIQUID)	2253		rachrotk	rachrotk 
+987	34-10-24-2	721191370847649	Q'eqchi'	kekc1242	to drip	DRIP (EMIT LIQUID)	2253		tz'iltz'otk	tz'iltz'otk 
+988	34-10-24-3	721191408515476	Q'eqchi'	kekc1242	to drip	DRIP (EMIT LIQUID)	2253		tz'uqluk	tz'uqluk 
+989	34-10-24-4	721191718796931	Q'eqchi'	kekc1242	to drip	DRIP (EMIT LIQUID)	2253		okesink	okesink 
+990	34-10-25-1	721191313490840	Q'eqchi'	kekc1242	to throw	THROW	1456		pumuk	pumuk 
+991	34-10-25-2	721191697879962	Q'eqchi'	kekc1242	to throw	THROW	1456		puulesink	puulesink 
+992	34-10-25-3	721191515668187	Q'eqchi'	kekc1242	to throw	THROW	1456		rumuk	rumuk 
+993	34-10-252-1	721191692844964	Q'eqchi'	kekc1242	to catch	CATCH	702		saapunk	saapunk 
+994	34-10-26-1	721191921128882	Q'eqchi'	kekc1242	to shake	SHAKE	1909		chiq'ok	chiq'ok 
+995	34-10-32-1	721191546577590	Q'eqchi'	kekc1242	to flow	FLOW	2003		yo i roq	yo i roq 
+996	34-10-33-1	721191528529178	Q'eqchi'	kekc1242	to sink	SINK (DESCEND)	1088		muqunk	muqunk 
+997	34-10-33-2	721191846785075	Q'eqchi'	kekc1242	to sink	SINK (DESCEND)	1088		nuq'unk	nuq'unk 
+998	34-10-33-3	721191302542373	Q'eqchi'	kekc1242	to sink	SINK (DESCEND)	1088		sob'e'k	sob'e'k 
+999	34-10-33-4	721191283737567	Q'eqchi'	kekc1242	to sink	SINK (DESCEND)	1088		sub'e'k	sub'e'k 
+1000	34-10-34-1	721191803309525	Q'eqchi'	kekc1242	to float	FLOAT	1574		pamamnak	pamamnak 
+1001	34-10-35-1	721191928856411	Q'eqchi'	kekc1242	to swim	SWIM	1439		numxik	numxik 
+1002	34-10-351-1	721191100737313	Q'eqchi'	kekc1242	to dive	DIVE	119		muqa’alik	muqa’alik 
+1003	34-10-352-1	721191254172715	Q'eqchi'	kekc1242	to splash	SPLASH	365		repok	repok 
+1004	34-10-352-2	721191347360481	Q'eqchi'	kekc1242	to splash	SPLASH	365		pach'ok	pach'ok 
+1005	34-10-352-3	721191693489012	Q'eqchi'	kekc1242	to splash	SPLASH	365		rachok	rachok 
+1006	34-10-36-1	72119160964994	Q'eqchi'	kekc1242	to sail	SAIL	787		b’eek chi ru ha’	b’eek chi ru ha’ 
+1007	34-10-37-1	721191173960915	Q'eqchi'	kekc1242	to fly	FLY (MOVE THROUGH AIR)	1441		rupik	rupik 
+1008	34-10-37-2	721191317217446	Q'eqchi'	kekc1242	to fly	FLY (MOVE THROUGH AIR)	1441		purik	purik 
+1009	34-10-38-1	721191836942500	Q'eqchi'	kekc1242	to blow	BLOW (OF WIND)	175		apuunk	apuunk 
+1010	34-10-41-1	721191709601584	Q'eqchi'	kekc1242	to crawl	CRAWL	96		k'achiik	k'achiik 
+1011	34-10-412-1	721191468783735	Q'eqchi'	kekc1242	to kneel	KNEEL	66		wiq'laak	wiq'laak 
+1012	34-10-413-1	721191529157022	Q'eqchi'	kekc1242	to crouch	CROUCH	296		chok'laak	chok'laak 
+1013	34-10-42-1	72119191292218	Q'eqchi'	kekc1242	to slide or slip	SLIP	1324		jole’k	jole’k 
+1014	34-10-42-2	72119158966870	Q'eqchi'	kekc1242	to slide or slip	SLIP	1324		yole'k	yole'k 
+1015	34-10-42-3	721191237367216	Q'eqchi'	kekc1242	to slide or slip	SLIP	1324		b’alok	b’alok 
+1016	34-10-43-1	721191872025386	Q'eqchi'	kekc1242	to jump	JUMP	1829		pisk'ok	pisk'ok 
+1017	34-10-43-2	72119184233757	Q'eqchi'	kekc1242	to jump	JUMP	1829		pitzok	pitzok 
+1018	34-10-431-1	721191363446862	Q'eqchi'	kekc1242	to kick	KICK	1135		yeq'ok	yeq'ok 
+1019	34-10-431-2	721191734480902	Q'eqchi'	kekc1242	to kick	KICK	1135		lapok chi oq	lapok chi oq 
+1020	34-10-431-3	721191617354492	Q'eqchi'	kekc1242	to kick	KICK	1135		t'i'ok	t'i'ok 
+1021	34-10-431-4	7211918264786	Q'eqchi'	kekc1242	to kick	KICK	1135		xaab'ank	xaab'ank 
+1022	34-10-44-1	721191999638456	Q'eqchi'	kekc1242	to dance	DANCE	1879		xajok	xajok 
+1023	34-10-45-1	721191266454135	Q'eqchi'	kekc1242	to walk	WALK	1443		b’eek	b’eek 
+1024	34-10-46-1	721191652269734	Q'eqchi'	kekc1242	to run	RUN	1519		chak'chotk	chak'chotk 
+1025	34-10-47-1	721191945551771	Q'eqchi'	kekc1242	to go	GO	695		xik (2)	xik (2) 
+1026	34-10-471-1	72119184672139	Q'eqchi'	kekc1242	to go up	GO UP (ASCEND)	705		taqe'k	taqe'k 
+1027	34-10-472-1	721191254752830	Q'eqchi'	kekc1242	to climb	CLIMB	1102		lochte’ek	lochte’ek 
+1028	34-10-472-2	721191952138689	Q'eqchi'	kekc1242	to climb	CLIMB	1102		taqe’k	taqe’k 
+1029	34-10-473-1	721191617492344	Q'eqchi'	kekc1242	to go down	GO DOWN (DESCEND)	2014		kub’eek	kub’eek 
+1030	34-10-474-1	721191455685795	Q'eqchi'	kekc1242	to go out	GO OUT	1107		elk	elk 
+1031	34-10-48-1	721191654162258	Q'eqchi'	kekc1242	to come	COME	1446		chalk	chalk 
+1032	34-10-48-2	721191272166829	Q'eqchi'	kekc1242	to come	COME	1446		k'ulunk	k'ulunk 
+1033	34-10-481-1	721191612774402	Q'eqchi'	kekc1242	to come back	COME BACK	581		q'ajk	q'ajk 
+1034	34-10-481-2	721191790589793	Q'eqchi'	kekc1242	to come back	COME BACK	581		suq'iik	suq'iik 
+1035	34-10-49-1	721191647268800	Q'eqchi'	kekc1242	to leave	LEAVE	1752		chapok b'e	chapok b'e 
+1036	34-10-491-1	721191528529178	Q'eqchi'	kekc1242	to disappear	DISAPPEAR	485		muqunk	muqunk 
+1037	34-10-51-1	721191158581459	Q'eqchi'	kekc1242	to flee	FLEE	956		eelelik	eelelik 
+1038	34-10-52-1	721191546342911	Q'eqchi'	kekc1242	to follow	FOLLOW	1085		taaqenk	taaqenk 
+1039	34-10-53-1	721191546342911	Q'eqchi'	kekc1242	to pursue	PURSUE	1047		taaqenk	taaqenk 
+1040	34-10-55-1	721191272166829	Q'eqchi'	kekc1242	to arrive	ARRIVE	1387		k'ulunk	k'ulunk 
+1041	34-10-55-2	72119125003369	Q'eqchi'	kekc1242	to arrive	ARRIVE	1387		hulak	hulak 
+1042	34-10-56-1	72119134833333	Q'eqchi'	kekc1242	to approach	APPROACH	1778		haye'k	haye'k 
+1043	34-10-56-2	721191970259703	Q'eqchi'	kekc1242	to approach	APPROACH	1778		nach'o'k	nach'o'k 
+1044	34-10-56-3	721191378556361	Q'eqchi'	kekc1242	to approach	APPROACH	1778		jeqonk	jeqonk 
+1045	34-10-56-4	721191684989319	Q'eqchi'	kekc1242	to approach	APPROACH	1778		jiqe'k	jiqe'k 
+1046	34-10-56-5	721191635635625	Q'eqchi'	kekc1242	to approach	APPROACH	1778		jilonk	jilonk 
+1047	34-10-57-1	721191975305494	Q'eqchi'	kekc1242	to enter	ENTER	749		ok	ok 
+1048	34-10-61-1	721191407493596	Q'eqchi'	kekc1242	to carry	CARRY	700		iiqank	iiqank 
+1049	34-10-61-2	721191642038496	Q'eqchi'	kekc1242	to carry	CARRY	700		iq'onk	iq'onk 
+1050	34-10-612-1	7211913271816	Q'eqchi'	kekc1242	to carry in hand	CARRY IN HAND	412		jech'exink	jech'exink 
+1051	34-10-612-2	721191533982003	Q'eqchi'	kekc1242	to carry in hand	CARRY IN HAND	412		telnak	telnak 
+1052	34-10-612-3	721191854487906	Q'eqchi'	kekc1242	to carry in hand	CARRY IN HAND	412		ch'ilonk	ch'ilonk 
+1053	34-10-612-4	721191343235023	Q'eqchi'	kekc1242	to carry in hand	CARRY IN HAND	412		hech'hotk	hech'hotk 
+1054	34-10-612-5	721191384056636	Q'eqchi'	kekc1242	to carry in hand	CARRY IN HAND	412		rininink	rininink 
+1055	34-10-613-1	721191767866963	Q'eqchi'	kekc1242	to carry on shoulder	CARRY ON SHOULDER	413		telonk	telonk 
+1056	34-10-613-2	721191773188806	Q'eqchi'	kekc1242	to carry on shoulder	CARRY ON SHOULDER	413		jelonk	jelonk 
+1057	34-10-613-3	721191645450438	Q'eqchi'	kekc1242	to carry on shoulder	CARRY ON SHOULDER	413		paqaqnak	paqaqnak 
+1058	34-10-614-1	721191314921619	Q'eqchi'	kekc1242	to carry on head	CARRY ON HEAD	414		b'itonk	b'itonk 
+1059	34-10-615-1	7211913379029	Q'eqchi'	kekc1242	to carry under the arm	CARRY UNDER ARM	415		q'alnak	q'alnak 
+1060	34-10-62-1	721191151878307	Q'eqchi'	kekc1242	to bring	BRING	692		k'amok	k'amok 
+1061	34-10-63-1	721191350990289	Q'eqchi'	kekc1242	to send	SEND	1127		taqlank	taqlank 
+1062	34-10-64-1	721191860273980	Q'eqchi'	kekc1242	to lead	LEAD (GUIDE)	43		k’amok b’e	k’amok b’e 
+1063	34-10-64-2	721191248526549	Q'eqchi'	kekc1242	to lead	LEAD (GUIDE)	43		k’utuk b’e	k’utuk b’e 
+1064	34-10-65-1	721191446155035	Q'eqchi'	kekc1242	to drive	DRIVE	741		b'eeresink	b'eeresink 
+1065	34-10-66-1	721191618269526	Q'eqchi'	kekc1242	to ride	RIDE	367		kawaayink	kawaayink 
+1066	34-10-66-2	721191686686176	Q'eqchi'	kekc1242	to ride	RIDE	367		taqe'k chi rix kawaay	taqe'k chi rix kawaay 
+1067	34-10-67-1	721191221668714	Q'eqchi'	kekc1242	to push	PUSH	1452		minok	minok 
+1068	34-10-67-2	721191887835253	Q'eqchi'	kekc1242	to push	PUSH	1452		tiikink	tiikink 
+1069	34-10-67-3	721191199198	Q'eqchi'	kekc1242	to push	PUSH	1452		miikisink	miikisink 
+1070	34-10-71-1	721191102803710	Q'eqchi'	kekc1242	the road	ROAD	667		nim b'e	nim b'e 
+1071	34-10-71-2	721191230083539	Q'eqchi'	kekc1242	the road	ROAD	667		b'e	b'e 
+1072	34-10-72-1	721191185433942	Q'eqchi'	kekc1242	the path	PATH	2252		ch'ina b'e	ch'ina b'e 
+1073	34-10-74-1	721191140522464	Q'eqchi'	kekc1242	the bridge	BRIDGE	1011		q'a	q'a 
+1074	34-10-75-1	721191712065740	Q'eqchi'	kekc1242	the cart or wagon	CART	122		kareton	kareton 
+1075	34-10-76-1	721191381158706	Q'eqchi'	kekc1242	the wheel	WHEEL	710		rueda	rueda 
+1076	34-10-76-2	721191102643687	Q'eqchi'	kekc1242	the wheel	WHEEL	710		sursu	sursu 
+1077	34-10-77-1	721191336769974	Q'eqchi'	kekc1242	the axle	AXLE	1769		xb’aalil	xb’aalil 
+1078	34-10-78-1	721191790212538	Q'eqchi'	kekc1242	the yoke	YOKE	14		yunta	yunta 
+1079	34-10-81-1	721191442902237	Q'eqchi'	kekc1242	the ship	SHIP	740		b’arko	b’arko 
+1080	34-10-81-2	721191689773659	Q'eqchi'	kekc1242	the ship	SHIP	740		mama’ jukub’	mama’ jukub’ 
+1081	34-10-83-1	721191442902237	Q'eqchi'	kekc1242	the boat	BOAT	1844		b’arko	b’arko 
+1082	34-10-831-1	721191782419982	Q'eqchi'	kekc1242	the canoe	CANOE	1970		jukub'	jukub' 
+1083	34-10-832-1	721191657939920	Q'eqchi'	kekc1242	the outrigger	OUTRIGGER	416		jukub’	jukub’ 
+1084	34-10-84-1	721191594518172	Q'eqchi'	kekc1242	the raft	RAFT	1664		poyte'	poyte' 
+1085	34-10-85-1	721191599485117	Q'eqchi'	kekc1242	the oar	RUDDER	108		paleta	paleta 
+1086	34-10-85-2	721191359822759	Q'eqchi'	kekc1242	the oar	RUDDER	108		kanaleta	kanaleta 
+1087	34-10-851-1	721191599485117	Q'eqchi'	kekc1242	the paddle	PADDLE	234		paleta	paleta 
+1088	34-10-852-1	721191384307493	Q'eqchi'	kekc1242	to row	ROW	1849		juyuk	juyuk 
+1089	34-10-852-2	721191296486619	Q'eqchi'	kekc1242	to row	ROW	1849		kojlenk	kojlenk 
+1090	34-10-88-1	721191218234034	Q'eqchi'	kekc1242	the sail	SAILCLOTH	786		b’ela	b’ela 
+1091	34-11-11-1	721191894170035	Q'eqchi'	kekc1242	to have	HAVE	773		wank	wank 
+1092	34-11-12-1	721191326201450	Q'eqchi'	kekc1242	to own	OWN	684		eechanink	eechanink 
+1093	34-11-13-1	721191970080626	Q'eqchi'	kekc1242	to take	TAKE	1749		chapok	chapok 
+1094	34-11-14-1	721191970080626	Q'eqchi'	kekc1242	to grasp	SEIZE	855		chapok	chapok 
+1095	34-11-15-1	721191374553362	Q'eqchi'	kekc1242	to hold	HOLD	1448		q’unuk	q’unuk 
+1096	34-11-16-1	721191333620658	Q'eqchi'	kekc1242	to get	GET	694		tawok	tawok 
+1097	34-11-16-2	721191930474461	Q'eqchi'	kekc1242	to get	GET	694		k’uluk	k’uluk 
+1098	34-11-17-1	721191633977335	Q'eqchi'	kekc1242	to keep	KEEP	1477		xokok	xokok 
+1099	34-11-17-2	721191191540624	Q'eqchi'	kekc1242	to keep	KEEP	1477		k'aak'alenk	k'aak'alenk 
+1100	34-11-18-1	721191425831206	Q'eqchi'	kekc1242	the thing	THING	738		k’a’q re ru	k’a’q re ru 
+1101	34-11-21-1	721191930868775	Q'eqchi'	kekc1242	to give	GIVE	1447		k'ehok	k'ehok 
+1102	34-11-22-1	721191982866120	Q'eqchi'	kekc1242	to give back	GIVE BACK	85		q'ajsink	q'ajsink 
+1103	34-11-24-1	72119143218459	Q'eqchi'	kekc1242	to preserve	PRESERVE	1997		kolb'eetank	kolb'eetank 
+1104	34-11-25-1	721191799926741	Q'eqchi'	kekc1242	to rescue	RESCUE	2008		kolok	kolok 
+1105	34-11-27-1	721191479490526	Q'eqchi'	kekc1242	to destroy	DESTROY	681		juk'uk	juk'uk 
+1106	34-11-27-2	721191952582058	Q'eqchi'	kekc1242	to destroy	DESTROY	681		sachok	sachok 
+1107	34-11-27-3	721191473786991	Q'eqchi'	kekc1242	to destroy	DESTROY	681		po’ok	po’ok 
+1108	34-11-28-1	721191849579177	Q'eqchi'	kekc1242	to injure	INJURE	44		jot'ok	jot'ok 
+1109	34-11-28-2	721191751049451	Q'eqchi'	kekc1242	to injure	INJURE	44		tawasink	tawasink 
+1110	34-11-31-1	721191716105704	Q'eqchi'	kekc1242	to look for	LOOK FOR	1468		sik'ok	sik'ok 
+1111	34-11-32-1	721191333620658	Q'eqchi'	kekc1242	to find	FIND	719		tawok	tawok 
+1112	34-11-33-1	721191952582058	Q'eqchi'	kekc1242	to lose	LOSE	1660		sachok	sachok 
+1113	34-11-33-2	721191883871674	Q'eqchi'	kekc1242	to lose	LOSE	1660		tz'eqok ib’	tz'eqok ib’ 
+1114	34-11-34-1	721191380439354	Q'eqchi'	kekc1242	to let go	LET GO OR SET FREE	1095		tob'ok	tob'ok 
+1115	34-11-34-2	721191761864414	Q'eqchi'	kekc1242	to let go	LET GO OR SET FREE	1095		ach'ab'ank	ach'ab'ank 
+1116	34-11-43-1	721191483441071	Q'eqchi'	kekc1242	the money	MONEY	1559		tumin	tumin 
+1117	34-11-44-1	721191658393953	Q'eqchi'	kekc1242	the coin	COIN	1867		kok' tumin	kok' tumin 
+1118	34-11-51-1	721191699722898	Q'eqchi'	kekc1242	rich	RICH	712		b'ehom, b'ihom	b'ehom 
+1119	34-11-51-2	721191699722898	Q'eqchi'	kekc1242	rich	RICH	712		b'ehom, b'ihom	b'ihom 
+1120	34-11-52-1	721191488500028	Q'eqchi'	kekc1242	poor	POOR	1674		kaqcha	kaqcha 
+1121	34-11-52-2	721191663618226	Q'eqchi'	kekc1242	poor	POOR	1674		toq'ob' ru	toq'ob' ru 
+1122	34-11-52-3	721191514457287	Q'eqchi'	kekc1242	poor	POOR	1674		neb’a’	neb’a’ 
+1123	34-11-53-1	721191750096123	Q'eqchi'	kekc1242	the beggar	BEGGAR	1934		aj limoox	aj limoox 
+1124	34-11-53-2	721191514457287	Q'eqchi'	kekc1242	the beggar	BEGGAR	1934		neb’a’	neb’a’ 
+1125	34-11-54-1	721191292990289	Q'eqchi'	kekc1242	stingy	STINGY	1774		pix	pix 
+1126	34-11-61-1	721191993609622	Q'eqchi'	kekc1242	to lend	LEND	582		jalok	jalok 
+1127	34-11-61-2	721191273495827	Q'eqchi'	kekc1242	to lend	LEND	582		jalb'eetink	jalb'eetink 
+1128	34-11-61-3	721191111030779	Q'eqchi'	kekc1242	to lend	LEND	582		to'nink	to'nink 
+1129	34-11-62-1	721191479254086	Q'eqchi'	kekc1242	to borrow	BORROW	1823		to’nink	to’nink 
+1130	34-11-63-1	721191233078258	Q'eqchi'	kekc1242	to owe	OWE	369		k'asok	k'asok 
+1131	34-11-64-1	7211915589714	Q'eqchi'	kekc1242	the debt	DEBT	1914		b'ayom	b'ayom 
+1132	34-11-64-2	721191548024680	Q'eqchi'	kekc1242	the debt	DEBT	1914		k'as	k'as 
+1133	34-11-65-1	721191814637424	Q'eqchi'	kekc1242	to pay	PAY	718		tojok	tojok 
+1134	34-11-66-1	72119134611293	Q'eqchi'	kekc1242	the bill	BILL	1081		kwenta	kwenta 
+1135	34-11-69-1	721191725026896	Q'eqchi'	kekc1242	the tax	TAX	873		toj (1)	toj (1) 
+1136	34-11-77-1	721191649987586	Q'eqchi'	kekc1242	to hire	HIRE	856		k'ehok k'anjel	k'ehok k'anjel 
+1137	34-11-78-1	721191134483627	Q'eqchi'	kekc1242	the wages	WAGES	1122		po	po 
+1138	34-11-79-1	721191490224819	Q'eqchi'	kekc1242	to earn	EARN	733		echanink	echanink 
+1139	34-11-79-2	721191228779711	Q'eqchi'	kekc1242	to earn	EARN	733		xb’an	xb’an 
+1140	34-11-79-3	721191285957887	Q'eqchi'	kekc1242	to earn	EARN	733		numsink kutan	numsink kutan 
+1141	34-11-79-4	721191273593909	Q'eqchi'	kekc1242	to earn	EARN	733		sik’ok ib’	sik’ok ib’ 
+1142	34-11-79-5	721191533710107	Q'eqchi'	kekc1242	to earn	EARN	733		tzakink	tzakink 
+1143	34-11-81-1	72119143955330	Q'eqchi'	kekc1242	to buy	BUY	1869		loq'ok	loq'ok 
+1144	34-11-82-1	721191441742244	Q'eqchi'	kekc1242	to sell	SELL	1571		k'ayink	k'ayink 
+1145	34-11-83-1	721191945957210	Q'eqchi'	kekc1242	to trade or barter	TRADE OR BARTER	2135		jalb’al	jalb’al 
+1146	34-11-83-2	721191993609622	Q'eqchi'	kekc1242	to trade or barter	TRADE OR BARTER	2135		jalok	jalok 
+1147	34-11-84-1	721191990644128	Q'eqchi'	kekc1242	the merchant	MERCHANT	1082		k'ayinel	k'ayinel 
+1148	34-11-85-1	721191299764882	Q'eqchi'	kekc1242	the market	MARKET	633		k'ayiil	k'ayiil 
+1149	34-11-86-1	721191563745	Q'eqchi'	kekc1242	the shop/store	STORE	752		k'ayib'aal	k'ayib'aal 
+1150	34-11-87-1	721191795025521	Q'eqchi'	kekc1242	the price	PRICE	657		tz'aq	tz'aq 
+1151	34-11-88-1	721191671784572	Q'eqchi'	kekc1242	expensive	EXPENSIVE	1426		terto	terto 
+1152	34-11-89-1	721191261450127	Q'eqchi'	kekc1242	cheap	CHEAP	1887		kotzko	kotzko 
+1153	34-11-91-1	721191120865420	Q'eqchi'	kekc1242	to share	SHARE	884		jek'ok	jek'ok 
+1154	34-11-91-2	721191868468327	Q'eqchi'	kekc1242	to share	SHARE	884		wotzok	wotzok 
+1155	34-11-92-1	721191628365107	Q'eqchi'	kekc1242	to weigh	WEIGH	1098		b’isok	b’isok 
+1156	34-12-01-1	7211912745435	Q'eqchi'	kekc1242	after	AFTER	1685		moqon	moqon 
+1157	34-12-011-1	721191373661116	Q'eqchi'	kekc1242	behind	BEHIND	1686		chi rix	chi rix 
+1158	34-12-02-1	721191270900820	Q'eqchi'	kekc1242	beside	BESIDE	1816		sa’ xk’atq	sa’ xk’atq 
+1159	34-12-03-1	721191658832922	Q'eqchi'	kekc1242	down	DOWN	1326		chi rub’el	chi rub’el 
+1160	34-12-04-1	721191976222072	Q'eqchi'	kekc1242	before	BEFORE	1882		chi ru	chi ru 
+1161	34-12-04-2	721191406705839	Q'eqchi'	kekc1242	before	BEFORE	1882		junxil	junxil 
+1162	34-12-04-3	721191129463750	Q'eqchi'	kekc1242	before	BEFORE	1882		rub’elaj	rub’elaj 
+1163	34-12-041-1	721191976222072	Q'eqchi'	kekc1242	in front of	IN FRONT OF	1883		chi ru	chi ru 
+1164	34-12-05-1	721191151805200	Q'eqchi'	kekc1242	inside	INSIDE	1606		sa'	sa' 
+1165	34-12-06-1	721191373661116	Q'eqchi'	kekc1242	outside	OUTSIDE	762		chi rix	chi rix 
+1166	34-12-07-1	721191549938128	Q'eqchi'	kekc1242	under	BELOW OR UNDER	1485		rub'el	rub'el 
+1167	34-12-08-1	721191488298846	Q'eqchi'	kekc1242	up	UP	1591		taqe'q	taqe'q 
+1168	34-12-11-1	72119161716276	Q'eqchi'	kekc1242	the place	PLACE (POSITION)	723		na'ajej	na'ajej 
+1169	34-12-12-1	721191176119941	Q'eqchi'	kekc1242	to put	PUT	998		xk’eeb’al	xk’eeb’al 
+1170	34-12-12-2	721191832528992	Q'eqchi'	kekc1242	to put	PUT	998		b’aaxink	b’aaxink 
+1171	34-12-13-1	721191133531445	Q'eqchi'	kekc1242	to sit	SIT	1416		chunlaak	chunlaak 
+1172	34-12-13-2	721191497297253	Q'eqchi'	kekc1242	to sit	SIT	1416		woq'laak	woq'laak 
+1173	34-12-14-1	721191874296556	Q'eqchi'	kekc1242	to lie down	LIE DOWN	215		sotlaak	sotlaak 
+1174	34-12-14-2	721191320918237	Q'eqchi'	kekc1242	to lie down	LIE DOWN	215		yoklaak	yoklaak 
+1175	34-12-15-1	721191452289487	Q'eqchi'	kekc1242	to stand	STAND	1442		xaqliik	xaqliik 
+1176	34-12-16-1	721191641112434	Q'eqchi'	kekc1242	to remain	REMAIN	987		kanaak	kanaak 
+1177	34-12-17-1	721191484770064	Q'eqchi'	kekc1242	the remains	REMAINS	838		xeel	xeel 
+1178	34-12-17-2	721191546908126	Q'eqchi'	kekc1242	the remains	REMAINS	838		xb’een	xb’een 
+1179	34-12-17-3	721191550797772	Q'eqchi'	kekc1242	the remains	REMAINS	838		ela'	ela' 
+1180	34-12-21-1	721191585881741	Q'eqchi'	kekc1242	to gather	GATHER	7		molok	molok 
+1181	34-12-212-1	721191633977335	Q'eqchi'	kekc1242	to pick up	PICK UP	371		xokok	xokok 
+1182	34-12-213-1	721191434744509	Q'eqchi'	kekc1242	to pile up	PILE UP	1576		b'uyuxink	b'uyuxink 
+1183	34-12-22-1	721191769420464	Q'eqchi'	kekc1242	to join	JOIN	1743		ch’utub’ank	ch’utub’ank 
+1184	34-12-22-2	721191711288591	Q'eqchi'	kekc1242	to join	JOIN	1743		laq’ab’ank	laq’ab’ank 
+1185	34-12-23-1	721191681252401	Q'eqchi'	kekc1242	to separate	SEPARATE	1359		jachok	jachok 
+1186	34-12-23-2	721191424125511	Q'eqchi'	kekc1242	to separate	SEPARATE	1359		jilosink	jilosink 
+1187	34-12-23-3	721191131873794	Q'eqchi'	kekc1242	to separate	SEPARATE	1359		raqaxink	raqaxink 
+1188	34-12-232-1	721191278340778	Q'eqchi'	kekc1242	to divide	DIVIDE	1119		jachink	jachink 
+1189	34-12-24-1	721191863548650	Q'eqchi'	kekc1242	to open	OPEN	1156		jaqok	jaqok 
+1190	34-12-24-2	721191363630686	Q'eqchi'	kekc1242	to open	OPEN	1156		tehok	tehok 
+1191	34-12-25-1	721191315758235	Q'eqchi'	kekc1242	to shut	SHUT	1046		tz'apok	tz'apok 
+1192	34-12-26-1	721191806273127	Q'eqchi'	kekc1242	to cover	COVER	761		lepok	lepok 
+1193	34-12-27-1	721191386465060	Q'eqchi'	kekc1242	to hide	HIDE (CONCEAL)	602		muquk	muquk 
+1194	34-12-27-2	721191442975060	Q'eqchi'	kekc1242	to hide	HIDE (CONCEAL)	602		jalmuqank, jalmuqink	jalmuqank 
+1195	34-12-27-3	721191442975060	Q'eqchi'	kekc1242	to hide	HIDE (CONCEAL)	602		jalmuqank, jalmuqink	jalmuqink 
+1196	34-12-31-1	721191312718718	Q'eqchi'	kekc1242	high	HIGH	1265		nim xteram	nim xteram 
+1197	34-12-31-2	72119161375529	Q'eqchi'	kekc1242	high	HIGH	1265		yak'ach	yak'ach 
+1198	34-12-32-1	721191335926426	Q'eqchi'	kekc1242	low	LOW	721		kach'in xteram	kach'in xteram 
+1199	34-12-33-1	721191118928134	Q'eqchi'	kekc1242	the top	TOP	1753		ru'uj	ru'uj 
+1200	34-12-34-1	721191975262316	Q'eqchi'	kekc1242	the bottom	BOTTOM	690		sa’	sa’ 
+1201	34-12-35-1	721191389614219	Q'eqchi'	kekc1242	the end(1)	END (OF SPACE)	742		xmar	xmar 
+1202	34-12-352-1	721191678994113	Q'eqchi'	kekc1242	pointed	POINTED	372		jutz'	jutz' 
+1203	34-12-352-2	721191289210893	Q'eqchi'	kekc1242	pointed	POINTED	372		q'es	q'es 
+1204	34-12-353-1	721191389614219	Q'eqchi'	kekc1242	the edge	EDGE	863		xmar	xmar 
+1205	34-12-353-2	721191954698536	Q'eqchi'	kekc1242	the edge	EDGE	863		tzelam	tzelam 
+1206	34-12-353-3	721191354306955	Q'eqchi'	kekc1242	the edge	EDGE	863		e	e 
+1207	34-12-36-1	721191218608155	Q'eqchi'	kekc1242	the side	SIDE	682		pak'al	pak'al 
+1208	34-12-36-2	721191910373567	Q'eqchi'	kekc1242	the side	SIDE	682		k'atq sa'	k'atq sa' 
+1209	34-12-37-1	721191567107869	Q'eqchi'	kekc1242	the middle	MIDDLE	1093		sa' xyi	sa' xyi 
+1210	34-12-37-2	721191721308941	Q'eqchi'	kekc1242	the middle	MIDDLE	1093		yiib'ej	yiib'ej 
+1211	34-12-41-1	721191801319121	Q'eqchi'	kekc1242	right(1)	RIGHT	1019		sa' nim	sa' nim 
+1212	34-12-42-1	721191586387934	Q'eqchi'	kekc1242	left	LEFT	244		tz'e	tz'e 
+1213	34-12-42-2	721191817498971	Q'eqchi'	kekc1242	left	LEFT	244		sa' tz'e	sa' tz'e 
+1214	34-12-43-1	721191476822153	Q'eqchi'	kekc1242	near	NEAR	1942		nach'	nach' 
+1215	34-12-43-2	721191277154491	Q'eqchi'	kekc1242	near	NEAR	1942		rik'in	rik'in 
+1216	34-12-44-1	721191708104918	Q'eqchi'	kekc1242	far	FAR	1406		najt	najt 
+1217	34-12-45-1	721191671092917	Q'eqchi'	kekc1242	the east	EAST	1877		releb' saq'e	releb' saq'e 
+1218	34-12-46-1	721191420122333	Q'eqchi'	kekc1242	the west	WEST	1817		rokeb' saq'e	rokeb' saq'e 
+1219	34-12-47-1	721191992188483	Q'eqchi'	kekc1242	the north	NORTH	1598		releb' iq'	releb' iq' 
+1220	34-12-48-1	721191975894866	Q'eqchi'	kekc1242	the south	SOUTH	1595		rokeb' iq'	rokeb' iq' 
+1221	34-12-53-1	721191468705386	Q'eqchi'	kekc1242	to grow	GROW	479		nimank	nimank 
+1222	34-12-53-2	721191296743524	Q'eqchi'	kekc1242	to grow	GROW	479		k’iik	k’iik 
+1223	34-12-54-1	721191628365107	Q'eqchi'	kekc1242	to measure	MEASURE	1506		b’isok	b’isok 
+1224	34-12-541-1	721191663670749	Q'eqchi'	kekc1242	the fathom	FATHOM	81		q'aal	q'aal 
+1225	34-12-541-2	721191463897263	Q'eqchi'	kekc1242	the fathom	FATHOM	81		moqoj	moqoj 
+1226	34-12-55-1	72119188543314	Q'eqchi'	kekc1242	big	BIG	1202		nim	nim 
+1227	34-12-56-1	721191879814600	Q'eqchi'	kekc1242	small	SMALL	1246		kok’	kok’ 
+1228	34-12-56-2	721191840284401	Q'eqchi'	kekc1242	small	SMALL	1246		ch'in, ch’ina, ch’inaj	ch'in 
+1229	34-12-56-3	721191840284401	Q'eqchi'	kekc1242	small	SMALL	1246		ch'in, ch’ina, ch’inaj	ch’ina 
+1230	34-12-56-4	721191840284401	Q'eqchi'	kekc1242	small	SMALL	1246		ch'in, ch’ina, ch’inaj	ch’inaj 
+1231	34-12-56-5	721191434909608	Q'eqchi'	kekc1242	small	SMALL	1246		b'ab'ay	b'ab'ay 
+1232	34-12-56-6	721191499601298	Q'eqchi'	kekc1242	small	SMALL	1246		kach'in	kach'in 
+1233	34-12-56-7	721191698603485	Q'eqchi'	kekc1242	small	SMALL	1246		mitz	mitz 
+1234	34-12-57-1	721191337072650	Q'eqchi'	kekc1242	long	LONG	1203		najt roq	najt roq 
+1235	34-12-57-2	721191716670084	Q'eqchi'	kekc1242	long	LONG	1203		nim xkelam	nim xkelam 
+1236	34-12-57-3	721191447876161	Q'eqchi'	kekc1242	long	LONG	1203		jukuch	jukuch 
+1237	34-12-57-4	721191133417960	Q'eqchi'	kekc1242	long	LONG	1203		lujuch	lujuch 
+1238	34-12-58-1	721191337072650	Q'eqchi'	kekc1242	tall	TALL	711		najt roq	najt roq 
+1239	34-12-58-2	721191978098904	Q'eqchi'	kekc1242	tall	TALL	711		najt xteram	najt xteram 
+1240	34-12-58-3	721191380856482	Q'eqchi'	kekc1242	tall	TALL	711		nim roq	nim roq 
+1241	34-12-58-4	721191312718718	Q'eqchi'	kekc1242	tall	TALL	711		nim xteram	nim xteram 
+1242	34-12-58-5	72119161375529	Q'eqchi'	kekc1242	tall	TALL	711		yak'ach	yak'ach 
+1243	34-12-58-6	721191559706530	Q'eqchi'	kekc1242	tall	TALL	711		b'arich'	b'arich' 
+1244	34-12-59-1	721191612794283	Q'eqchi'	kekc1242	short	SHORT	1645		tupus roq	tupus roq 
+1245	34-12-59-2	721191335926426	Q'eqchi'	kekc1242	short	SHORT	1645		kach'in xteram	kach'in xteram 
+1246	34-12-59-3	721191525311239	Q'eqchi'	kekc1242	short	SHORT	1645		kach'in roq	kach'in roq 
+1247	34-12-59-4	721191102618000	Q'eqchi'	kekc1242	short	SHORT	1645		ch'ot	ch'ot 
+1248	34-12-61-1	721191403261047	Q'eqchi'	kekc1242	wide	WIDE	1243		nim ru	nim ru 
+1249	34-12-62-1	721191568071917	Q'eqchi'	kekc1242	narrow	NARROW	1267		kok' ru	kok' ru 
+1250	34-12-62-2	721191461307801	Q'eqchi'	kekc1242	narrow	NARROW	1267		laatz'	laatz' 
+1251	34-12-62-3	721191253223703	Q'eqchi'	kekc1242	narrow	NARROW	1267		kach'in ru	kach'in ru 
+1252	34-12-63-1	72119176686758	Q'eqchi'	kekc1242	thick	THICK	1244		b'omb'o	b'omb'o 
+1253	34-12-63-2	721191797546473	Q'eqchi'	kekc1242	thick	THICK	1244		nim xsa'	nim xsa' 
+1254	34-12-63-3	721191636971562	Q'eqchi'	kekc1242	thick	THICK	1244		pim	pim 
+1255	34-12-63-4	721191491761154	Q'eqchi'	kekc1242	thick	THICK	1244		teb'es	teb'es 
+1256	34-12-63-5	721191965383244	Q'eqchi'	kekc1242	thick	THICK	1244		t'ikt'o	t'ikt'o 
+1257	34-12-63-6	721191859804420	Q'eqchi'	kekc1242	thick	THICK	1244		b'urux b'urux	b'urux b'urux 
+1258	34-12-63-7	721191186856617	Q'eqchi'	kekc1242	thick	THICK	1244		leb'lo	leb'lo 
+1259	34-12-65-1	72119121347326	Q'eqchi'	kekc1242	thin	THIN (OF SHAPE OF OBJECT)	2249		b'aq	b'aq 
+1260	34-12-65-2	721191353876681	Q'eqchi'	kekc1242	thin	THIN (OF SHAPE OF OBJECT)	2249		jay	jay 
+1261	34-12-65-3	721191559706530	Q'eqchi'	kekc1242	thin	THIN (OF SHAPE OF OBJECT)	2249		b'arich'	b'arich' 
+1262	34-12-67-1	721191672061084	Q'eqchi'	kekc1242	deep	DEEP	1593		cham	cham 
+1263	34-12-68-1	721191708932916	Q'eqchi'	kekc1242	shallow	SHALLOW	193		ink'a’ cham	ink'a’ cham 
+1264	34-12-71-1	72119179749213	Q'eqchi'	kekc1242	flat	FLAT	1633		tach'to	tach'to 
+1265	34-12-71-2	721191718033334	Q'eqchi'	kekc1242	flat	FLAT	1633		ruutaq'a	ruutaq'a 
+1266	34-12-73-1	721191130339976	Q'eqchi'	kekc1242	straight	STRAIGHT	1404		tiik	tiik 
+1267	34-12-74-1	721191602671921	Q'eqchi'	kekc1242	crooked	CROOKED	297		k'onk'o	k'onk'o 
+1268	34-12-74-2	721191320393208	Q'eqchi'	kekc1242	crooked	CROOKED	297		jech'	jech' 
+1269	34-12-74-3	721191456785310	Q'eqchi'	kekc1242	crooked	CROOKED	297		yokos	yokos 
+1270	34-12-74-4	721191291205921	Q'eqchi'	kekc1242	crooked	CROOKED	297		b'ech'	b'ech' 
+1271	34-12-74-5	721191266219519	Q'eqchi'	kekc1242	crooked	CROOKED	297		b'ach'b'o	b'ach'b'o 
+1272	34-12-74-6	721191745066196	Q'eqchi'	kekc1242	crooked	CROOKED	297		liq'lo	liq'lo 
+1273	34-12-74-7	721191864566751	Q'eqchi'	kekc1242	crooked	CROOKED	297		siq'il	siq'il 
+1274	34-12-74-8	72119112881623	Q'eqchi'	kekc1242	crooked	CROOKED	297		rok'ox	rok'ox 
+1275	34-12-75-1	721191406599126	Q'eqchi'	kekc1242	the hook	HOOK	1071		lokoch	lokoch 
+1276	34-12-76-1	721191138678457	Q'eqchi'	kekc1242	the corner	CORNER	192		xuk	xuk 
+1277	34-12-76-2	721191494122501	Q'eqchi'	kekc1242	the corner	CORNER	192		loot'	loot' 
+1278	34-12-77-1	721191461694571	Q'eqchi'	kekc1242	the cross	CROSS	1367		krus, kurus	krus 
+1279	34-12-77-2	721191461694571	Q'eqchi'	kekc1242	the cross	CROSS	1367		krus, kurus	kurus 
+1280	34-12-78-1	721191581349252	Q'eqchi'	kekc1242	the square	SQUARE	850		kaaxukuut	kaaxukuut 
+1281	34-12-81-1	721191268576314	Q'eqchi'	kekc1242	round	ROUND	1395		kotko	kotko 
+1282	34-12-81-2	721191245592672	Q'eqchi'	kekc1242	round	ROUND	1395		t'ort'o	t'ort'o 
+1283	34-12-81-3	721191102643687	Q'eqchi'	kekc1242	round	ROUND	1395		sursu	sursu 
+1284	34-12-82-1	721191189189574	Q'eqchi'	kekc1242	the circle	CIRCLE	1467		siril	siril 
+1285	34-12-83-1	721191750662783	Q'eqchi'	kekc1242	the ball	BALL	1845		b'olotz	b'olotz 
+1286	34-12-84-1	721191464561695	Q'eqchi'	kekc1242	the line	LINE	1048		linea	linea 
+1287	34-12-85-1	721191602871786	Q'eqchi'	kekc1242	the hole	HOLE	1667		k'ob'b'il	k'ob'b'il 
+1288	34-12-85-2	721191727940345	Q'eqchi'	kekc1242	the hole	HOLE	1667		hopolal	hopolal 
+1289	34-12-85-3	721191405497317	Q'eqchi'	kekc1242	the hole	HOLE	1667		jul	jul 
+1290	34-12-92-1	721191716602879	Q'eqchi'	kekc1242	similar	SIMILAR	1558		chanchan	chanchan 
+1291	34-12-92-2	721191248570896	Q'eqchi'	kekc1242	similar	SIMILAR	1558		jo'	jo' 
+1292	34-12-92-3	721191287619804	Q'eqchi'	kekc1242	similar	SIMILAR	1558		ru	ru 
+1293	34-12-93-1	721191993609622	Q'eqchi'	kekc1242	to change	CHANGE	1264		jalok	jalok 
+1294	34-13-1	721191889191400	Q'eqchi'	kekc1242	zero	ZERO	1294		sero	sero 
+1295	34-13-01-1	721191936013782	Q'eqchi'	kekc1242	one	ONE	1493		jun	jun 
+1296	34-13-02-1	721191529003456	Q'eqchi'	kekc1242	two	TWO	1498		ka'ib', kwib', kiib'	ka'ib' 
+1297	34-13-02-2	721191529003456	Q'eqchi'	kekc1242	two	TWO	1498		ka'ib', kwib', kiib'	kwib' 
+1298	34-13-02-3	721191529003456	Q'eqchi'	kekc1242	two	TWO	1498		ka'ib', kwib', kiib'	kiib' 
+1299	34-13-03-1	721191710747283	Q'eqchi'	kekc1242	three	THREE	492		oxib'	oxib' 
+1300	34-13-04-1	721191420427409	Q'eqchi'	kekc1242	four	FOUR	1500		kaahib'	kaahib' 
+1301	34-13-05-1	721191875180877	Q'eqchi'	kekc1242	five	FIVE	493		oob', hoob'	oob' 
+1302	34-13-05-2	721191875180877	Q'eqchi'	kekc1242	five	FIVE	493		oob', hoob'	hoob' 
+1303	34-13-06-1	721191599683706	Q'eqchi'	kekc1242	six	SIX	1703		waqib'	waqib' 
+1304	34-13-07-1	721191407916736	Q'eqchi'	kekc1242	seven	SEVEN	1704		wuqub'	wuqub' 
+1305	34-13-08-1	721191570386435	Q'eqchi'	kekc1242	eight	EIGHT	1705		wajxaqib'	wajxaqib' 
+1306	34-13-09-1	721191864814016	Q'eqchi'	kekc1242	nine	NINE	1483		b'eleeb'	b'eleeb' 
+1307	34-13-1-1	721191205636754	Q'eqchi'	kekc1242	ten	TEN	1515		lajeeb'	lajeeb' 
+1308	34-13-101-1	72119147659498	Q'eqchi'	kekc1242	eleven	ELEVEN	1706		junlaju	junlaju 
+1309	34-13-102-1	7211919287969	Q'eqchi'	kekc1242	twelve	TWELVE	1707		kab'laju	kab'laju 
+1310	34-13-103-1	721191932836021	Q'eqchi'	kekc1242	fifteen	FIFTEEN	1709		ho'laju, o'laju	ho'laju 
+1311	34-13-103-2	721191932836021	Q'eqchi'	kekc1242	fifteen	FIFTEEN	1709		ho'laju, o'laju	o'laju 
+1312	34-13-104-1	721191623820418	Q'eqchi'	kekc1242	twenty	TWENTY	1710		junmay	junmay 
+1313	34-13-105-1	721191896507703	Q'eqchi'	kekc1242	a hundred	HUNDRED	1634		o'k'aal	o'k'aal 
+1314	34-13-106-1	721191997970810	Q'eqchi'	kekc1242	a thousand	THOUSAND	1843		lajeeb' syent	lajeeb' syent 
+1315	34-13-107-1	721191577326680	Q'eqchi'	kekc1242	to count	COUNT	1420		ajlank	ajlank 
+1316	34-13-14-1	721191349229707	Q'eqchi'	kekc1242	all	ALL	98		chi junil	chi junil 
+1317	34-13-14-2	721191143064537	Q'eqchi'	kekc1242	all	ALL	98		anchal	anchal 
+1318	34-13-14-3	721191983216567	Q'eqchi'	kekc1242	all	ALL	98		rek’	rek’ 
+1319	34-13-15-1	721191735305547	Q'eqchi'	kekc1242	many	MANY	1198		k’i	k’i 
+1320	34-13-15-2	721191354097635	Q'eqchi'	kekc1242	many	MANY	1198		k’ihal	k’ihal 
+1321	34-13-15-3	721191137268452	Q'eqchi'	kekc1242	many	MANY	1198		mayalok	mayalok 
+1322	34-13-16-1	721191924841544	Q'eqchi'	kekc1242	more	MORE	1992		toj (2)	toj (2) 
+1323	34-13-17-1	721191318499708	Q'eqchi'	kekc1242	few	FEW	1242		kach’in	kach’in 
+1324	34-13-17-2	721191309091370	Q'eqchi'	kekc1242	few	FEW	1242		ink’a’ k’i	ink’a’ k’i 
+1325	34-13-17-3	721191528343362	Q'eqchi'	kekc1242	few	FEW	1242		b’ab’ay	b’ab’ay 
+1326	34-13-18-1	721191403762478	Q'eqchi'	kekc1242	enough	ENOUGH	1881		tz'aqal	tz'aqal 
+1327	34-13-18-2	721191208599286	Q'eqchi'	kekc1242	enough	ENOUGH	1881		yo'oon ru	yo'oon ru 
+1328	34-13-181-1	72119111671573	Q'eqchi'	kekc1242	some	SOME	1241		algo	algo 
+1329	34-13-181-2	72119156166821	Q'eqchi'	kekc1242	some	SOME	1241		junaq	junaq 
+1330	34-13-181-3	721191578781971	Q'eqchi'	kekc1242	some	SOME	1241		ka’b’ayaq	ka’b’ayaq 
+1331	34-13-181-4	721191567768808	Q'eqchi'	kekc1242	some	SOME	1241		k’a’na	k’a’na 
+1332	34-13-19-1	72119111315670	Q'eqchi'	kekc1242	the crowd	CROWD	2023		amaq' tenamit	amaq' tenamit 
+1333	34-13-19-2	72119175607176	Q'eqchi'	kekc1242	the crowd	CROWD	2023		k'ehal	k'ehal 
+1334	34-13-19-3	721191904879797	Q'eqchi'	kekc1242	the crowd	CROWD	2023		naab'alil	naab'alil 
+1335	34-13-21-1	721191484501369	Q'eqchi'	kekc1242	full	FULL	1429		b'ut'	b'ut' 
+1336	34-13-21-2	721191522330347	Q'eqchi'	kekc1242	full	FULL	1429		b'uuy	b'uuy 
+1337	34-13-21-3	721191425645740	Q'eqchi'	kekc1242	full	FULL	1429		nujenaq	nujenaq 
+1338	34-13-21-4	721191304868740	Q'eqchi'	kekc1242	full	FULL	1429		tz'ajtz'otk	tz'ajtz'otk 
+1339	34-13-22-1	72119154354989	Q'eqchi'	kekc1242	empty	EMPTY	1624		job’	job’ 
+1340	34-13-22-2	721191241030780	Q'eqchi'	kekc1242	empty	EMPTY	1624		maak'a' xsa'	maak'a' xsa' 
+1341	34-13-23-1	721191956556895	Q'eqchi'	kekc1242	the part	PART	779		ch’ol	ch’ol 
+1342	34-13-23-2	721191956583704	Q'eqchi'	kekc1242	the part	PART	779		raqal	raqal 
+1343	34-13-24-1	721191240095172	Q'eqchi'	kekc1242	the half	HALF	816		jachal	jachal 
+1344	34-13-33-1	721191964833692	Q'eqchi'	kekc1242	only	ONLY	1580		ka'aj wi', ka’j wi’	ka'aj wi' 
+1345	34-13-33-2	721191964833692	Q'eqchi'	kekc1242	only	ONLY	1580		ka'aj wi', ka’j wi’	ka’j wi’ 
+1346	34-13-33-3	721191135564994	Q'eqchi'	kekc1242	only	ONLY	1580		yal	yal 
+1347	34-13-34-1	721191571098484	Q'eqchi'	kekc1242	first	FIRST	728		xb'een	xb'een 
+1348	34-13-35-1	721191554768531	Q'eqchi'	kekc1242	last	LAST (FINAL)	1529		ch’otonel	ch’otonel 
+1349	34-13-35-2	721191441748011	Q'eqchi'	kekc1242	last	LAST (FINAL)	1529		roso’jik	roso’jik 
+1350	34-13-36-1	721191508536357	Q'eqchi'	kekc1242	second	SECOND	1384		xkab'	xkab' 
+1351	34-13-37-1	721191859962875	Q'eqchi'	kekc1242	the pair	PAIR	1888		sumal	sumal 
+1352	34-13-37-2	721191539283654	Q'eqchi'	kekc1242	the pair	PAIR	1888		alab’	alab’ 
+1353	34-13-38-1	721191341633925	Q'eqchi'	kekc1242	twice/two times	TWICE	1546		ka’ta	ka’ta 
+1354	34-13-38-2	721191740232215	Q'eqchi'	kekc1242	twice/two times	TWICE	1546		ka'wa	ka'wa 
+1355	34-13-42-1	721191317388441	Q'eqchi'	kekc1242	third	THIRD	1859		rox	rox 
+1356	34-13-44-1	721191673288775	Q'eqchi'	kekc1242	three times	THREE TIMES	417		oxsut	oxsut 
+1357	34-13-44-2	72119117919299	Q'eqchi'	kekc1242	three times	THREE TIMES	417		oxwa	oxwa 
+1358	34-14-11-1	721191267830089	Q'eqchi'	kekc1242	the time	TIME	892		kutan	kutan 
+1359	34-14-11-2	721191457275706	Q'eqchi'	kekc1242	the time	TIME	892		q'iil	q'iil 
+1360	34-14-12-1	72119128426612	Q'eqchi'	kekc1242	the age	AGE	1789		xchi hab’	xchi hab’ 
+1361	34-14-13-1	721191231659374	Q'eqchi'	kekc1242	new	NEW	1231		ak’	ak’ 
+1362	34-14-14-1	721191408001546	Q'eqchi'	kekc1242	young	YOUNG	1207		al	al 
+1363	34-14-14-2	721191575212237	Q'eqchi'	kekc1242	young	YOUNG	1207		ch'ajom	ch'ajom 
+1364	34-14-14-3	721191247368155	Q'eqchi'	kekc1242	young	YOUNG	1207		saaj	saaj 
+1365	34-14-15-1	721191544374980	Q'eqchi'	kekc1242	old	OLD	1229		q'eel	q'eel 
+1366	34-14-15-2	721191645880707	Q'eqchi'	kekc1242	old	OLD	1229		mama’	mama’ 
+1367	34-14-15-3	721191171952012	Q'eqchi'	kekc1242	old	OLD	1229		tiix	tiix 
+1368	34-14-16-1	721191825180570	Q'eqchi'	kekc1242	early	EARLY	672		eq'la	eq'la 
+1369	34-14-17-1	721191602460969	Q'eqchi'	kekc1242	late	LATE	477		najt kutan	najt kutan 
+1370	34-14-17-2	72119112307350	Q'eqchi'	kekc1242	late	LATE	477		ewu	ewu 
+1371	34-14-18-1	721191374236	Q'eqchi'	kekc1242	now	NOW	1376		anaqwan	anaqwan 
+1372	34-14-19-1	721191837494111	Q'eqchi'	kekc1242	immediately	IMMEDIATELY	1963		aka’	aka’ 
+1373	34-14-19-2	721191952071255	Q'eqchi'	kekc1242	immediately	IMMEDIATELY	1963		koko	koko 
+1374	34-14-19-3	721191707088877	Q'eqchi'	kekc1242	immediately	IMMEDIATELY	1963		sa' junpaat	sa' junpaat 
+1375	34-14-19-4	721191844329766	Q'eqchi'	kekc1242	immediately	IMMEDIATELY	1963		tikto	tikto 
+1376	34-14-21-1	721191110445016	Q'eqchi'	kekc1242	fast	FAST	1631		junpaat	junpaat 
+1377	34-14-21-2	721191515339782	Q'eqchi'	kekc1242	fast	FAST	1631		paynum	paynum 
+1378	34-14-22-1	721191848890557	Q'eqchi'	kekc1242	slow	SLOW	701		elajik	elajik 
+1379	34-14-22-2	721191412200669	Q'eqchi'	kekc1242	slow	SLOW	701		timil	timil 
+1380	34-14-22-3	721191861747912	Q'eqchi'	kekc1242	slow	SLOW	701		riil	riil 
+1381	34-14-23-1	721191760598097	Q'eqchi'	kekc1242	to hurry	HURRY	754		seeb’ank	seeb’ank 
+1382	34-14-24-1	721191638414746	Q'eqchi'	kekc1242	to be late	BE LATE	425		b’ayk	b’ayk 
+1383	34-14-24-2	721191252233585	Q'eqchi'	kekc1242	to be late	BE LATE	425		najto'k	najto'k 
+1384	34-14-25-1	721191975305494	Q'eqchi'	kekc1242	to begin	BEGIN	1806		ok	ok 
+1385	34-14-25-2	721191307537061	Q'eqchi'	kekc1242	to begin	BEGIN	1806		naqk	naqk 
+1386	34-14-25-3	721191851371861	Q'eqchi'	kekc1242	to begin	BEGIN	1806		tiklaak	tiklaak 
+1387	34-14-252-1	721191638414746	Q'eqchi'	kekc1242	to last	LAST (ENDURE)	1186		b’ayk	b’ayk 
+1388	34-14-26-1	721191236776630	Q'eqchi'	kekc1242	the end(2)	END (OF TIME)	743		ch'otonik	ch'otonik 
+1389	34-14-26-2	721191202815321	Q'eqchi'	kekc1242	the end(2)	END (OF TIME)	743		oso'jik	oso'jik 
+1390	34-14-26-3	721191197060405	Q'eqchi'	kekc1242	the end(2)	END (OF TIME)	743		raqik	raqik 
+1391	34-14-27-1	721191976449355	Q'eqchi'	kekc1242	to finish	FINISH	1766		choyok	choyok 
+1392	34-14-27-2	721191883003056	Q'eqchi'	kekc1242	to finish	FINISH	1766		raqok	raqok 
+1393	34-14-28-1	721191686765034	Q'eqchi'	kekc1242	to cease	CEASE	1928		xchoyb’al	xchoyb’al 
+1394	34-14-28-2	7211912384064	Q'eqchi'	kekc1242	to cease	CEASE	1928		xb’aanunkil	xb’aanunkil 
+1395	34-14-28-3	721191156210840	Q'eqchi'	kekc1242	to cease	CEASE	1928		xxaqab’ankil	xxaqab’ankil 
+1396	34-14-28-4	721191482563587	Q'eqchi'	kekc1242	to cease	CEASE	1928		raqe’k	raqe’k 
+1397	34-14-28-5	721191162078915	Q'eqchi'	kekc1242	to cease	CEASE	1928		ruujik	ruujik 
+1398	34-14-29-1	721191170586874	Q'eqchi'	kekc1242	ready	READY	790		k'ub'k'u	k'ub'k'u 
+1399	34-14-31-1	721191978342294	Q'eqchi'	kekc1242	always	ALWAYS	1676		junelik	junelik 
+1400	34-14-32-1	721191904652795	Q'eqchi'	kekc1242	often	OFTEN	1852		kok’sa’	kok’sa’ 
+1401	34-14-33-1	721191746392338	Q'eqchi'	kekc1242	sometimes	SOMETIMES	1544		ramro'	ramro' 
+1402	34-14-331-1	721191844329766	Q'eqchi'	kekc1242	soon	SOON	703		tikto	tikto 
+1403	34-14-332-1	721191493010750	Q'eqchi'	kekc1242	for a long time	FOR A LONG TIME	418		naab’al honal	naab’al honal 
+1404	34-14-34-1	721191970688027	Q'eqchi'	kekc1242	never	NEVER	1656		maajaruj	maajaruj 
+1405	34-14-35-1	721191829212492	Q'eqchi'	kekc1242	again	AGAIN	204		wi' chik	wi' chik 
+1406	34-14-41-1	721191653513436	Q'eqchi'	kekc1242	the day(1)	DAY (24 HOURS)	1260		kutank	kutank 
+1407	34-14-42-1	721191520992230	Q'eqchi'	kekc1242	the night	NIGHT	1233		q'ojyin	q'ojyin 
+1408	34-14-43-1	721191510659996	Q'eqchi'	kekc1242	the dawn	DAWN	729		priim	priim 
+1409	34-14-44-1	721191825180570	Q'eqchi'	kekc1242	the morning	MORNING	1339		eq'la	eq'la 
+1410	34-14-45-1	721191254745991	Q'eqchi'	kekc1242	the midday	MIDDAY	12		jun wa’leb’	jun wa’leb’ 
+1411	34-14-451-1	72119112307350	Q'eqchi'	kekc1242	the afternoon	AFTERNOON	1807		ewu	ewu 
+1412	34-14-46-1	721191471971630	Q'eqchi'	kekc1242	the evening	EVENING	1629		q’ojyin	q’ojyin 
+1413	34-14-47-1	721191374236	Q'eqchi'	kekc1242	today	TODAY	1283		anaqwan	anaqwan 
+1414	34-14-47-2	721191994245210	Q'eqchi'	kekc1242	today	TODAY	1283		hoon	hoon 
+1415	34-14-48-1	721191321568127	Q'eqchi'	kekc1242	tomorrow	TOMORROW	1329		hulaj	hulaj 
+1416	34-14-481-1	7211917730707	Q'eqchi'	kekc1242	the day after tomorrow	DAY AFTER TOMORROW	1179		kab'ej	kab'ej 
+1417	34-14-49-1	721191250956155	Q'eqchi'	kekc1242	yesterday	YESTERDAY	1174		ewer	ewer 
+1418	34-14-491-1	721191625198774	Q'eqchi'	kekc1242	the day before yesterday	DAY BEFORE YESTERDAY	1180		oxejer	oxejer 
+1419	34-14-51-1	721191277350168	Q'eqchi'	kekc1242	the hour	HOUR	1353		hoonal	hoonal 
+1420	34-14-51-2	721191987765125	Q'eqchi'	kekc1242	the hour	HOUR	1353		oor	oor 
+1421	34-14-53-1	721191946837407	Q'eqchi'	kekc1242	the clock	CLOCK	1323		reloj	reloj 
+1422	34-14-61-1	72119193407718	Q'eqchi'	kekc1242	the week	WEEK	1469		xamaan	xamaan 
+1423	34-14-62-1	721191632219115	Q'eqchi'	kekc1242	Sunday	SUNDAY	1699		domiin, tumink, romink	domiin 
+1424	34-14-62-2	721191632219115	Q'eqchi'	kekc1242	Sunday	SUNDAY	1699		domiin, tumink, romink	tumink 
+1425	34-14-62-3	721191632219115	Q'eqchi'	kekc1242	Sunday	SUNDAY	1699		domiin, tumink, romink	romink 
+1426	34-14-63-1	721191734577023	Q'eqchi'	kekc1242	Monday	MONDAY	1697		luuns	luuns 
+1427	34-14-64-1	721191988922562	Q'eqchi'	kekc1242	Tuesday	TUESDAY	1695		marts	marts 
+1428	34-14-65-1	721191706302332	Q'eqchi'	kekc1242	Wednesday	WEDNESDAY	1694		miercools, myers	miercools 
+1429	34-14-65-2	721191706302332	Q'eqchi'	kekc1242	Wednesday	WEDNESDAY	1694		miercools, myers	myers 
+1430	34-14-66-1	72119119396418	Q'eqchi'	kekc1242	Thursday	THURSDAY	1693		jwees, jweb’es	jwees 
+1431	34-14-66-2	72119119396418	Q'eqchi'	kekc1242	Thursday	THURSDAY	1693		jwees, jweb’es	jweb’es 
+1432	34-14-67-1	721191732931212	Q'eqchi'	kekc1242	Friday	FRIDAY	1692		b’yers, b’iernes	b’yers 
+1433	34-14-67-2	721191732931212	Q'eqchi'	kekc1242	Friday	FRIDAY	1692		b’yers, b’iernes	b’iernes 
+1434	34-14-68-1	721191886388736	Q'eqchi'	kekc1242	Saturday	SATURDAY	1700		saaw	saaw 
+1435	34-14-73-1	721191962255682	Q'eqchi'	kekc1242	the year	YEAR	1226		hab’	hab’ 
+1436	34-14-74-1	721191218249083	Q'eqchi'	kekc1242	the winter	WINTER	1471		hab'al q'e	hab'al q'e 
+1437	34-14-75-1	72119159141600	Q'eqchi'	kekc1242	the spring(2)	SPRINGTIME	1537		primab’era	primab’era 
+1438	34-14-76-1	721191142987467	Q'eqchi'	kekc1242	the summer	SUMMER	1342		saq'ehil	saq'ehil 
+1439	34-14-77-1	721191204586553	Q'eqchi'	kekc1242	the autumn/fall	AUTUMN	1276		otonyo	otonyo 
+1440	34-14-78-1	721191178361758	Q'eqchi'	kekc1242	the season	SEASON	691		estasion	estasion 
+1441	34-14-78-2	721191724018953	Q'eqchi'	kekc1242	the season	SEASON	691		xq’ehil	xq’ehil 
+1442	34-15-21-1	721191515632507	Q'eqchi'	kekc1242	to smell(1)	SMELL (STINK)	1587		utz’uk	utz’uk 
+1443	34-15-89-1	721191163188645	Q'eqchi'	kekc1242	wrinkled	WRINKLED	380		mochmo	mochmo 
+1444	34-15-89-2	721191278981777	Q'eqchi'	kekc1242	wrinkled	WRINKLED	380		mochox	mochox 
+1445	34-15-212-1	721191276886315	Q'eqchi'	kekc1242	to sniff	SNIFF	375		rutz’b’al	rutz’b’al 
+1446	34-15-22-1	721191954756572	Q'eqchi'	kekc1242	to smell(2)	SMELL (PERCEIVE)	1586		utz'uk	utz'uk 
+1447	34-15-25-1	721191942352644	Q'eqchi'	kekc1242	fragrant	FRAGRANT	376		k’ajo’ sununkil	k’ajo’ sununkil 
+1448	34-15-25-2	721191467410783	Q'eqchi'	kekc1242	fragrant	FRAGRANT	376		sununk	sununk 
+1449	34-15-26-1	721191519205080	Q'eqchi'	kekc1242	stinking	STINKING	42		chu	chu 
+1450	34-15-31-1	721191421445635	Q'eqchi'	kekc1242	to taste	TASTE (SOMETHING)	21		hulak chi uhej	hulak chi uhej 
+1451	34-15-31-2	721191168496867	Q'eqchi'	kekc1242	to taste	TASTE (SOMETHING)	21		xyalb’al xsahil	xyalb’al xsahil 
+1452	34-15-35-1	721191796321036	Q'eqchi'	kekc1242	sweet	SWEET	717		ki'	ki' 
+1453	34-15-36-1	721191564764054	Q'eqchi'	kekc1242	salty	SALTY	1091		atz’am	atz’am 
+1454	34-15-37-1	72119187461401	Q'eqchi'	kekc1242	bitter	BITTER	887		k'a	k'a 
+1455	34-15-38-1	721191156306940	Q'eqchi'	kekc1242	sour	SOUR	1906		ch’am	ch’am 
+1456	34-15-38-2	721191708580637	Q'eqchi'	kekc1242	sour	SOUR	1906		remrem	remrem 
+1457	34-15-38-3	721191251923702	Q'eqchi'	kekc1242	sour	SOUR	1906		rub'rub'	rub'rub' 
+1458	34-15-39-1	721191708580637	Q'eqchi'	kekc1242	brackish	BRACKISH	70		remrem	remrem 
+1459	34-15-41-1	721191229993777	Q'eqchi'	kekc1242	to hear	HEAR	1408		ab'ink	ab'ink 
+1460	34-15-42-1	721191229993777	Q'eqchi'	kekc1242	to listen	LISTEN	1608		ab'ink	ab'ink 
+1461	34-15-44-1	721191669887876	Q'eqchi'	kekc1242	the sound or noise	SOUND OR NOISE	1811		xkuxb'il	xkuxb'il 
+1462	34-15-44-2	721191575411591	Q'eqchi'	kekc1242	the sound or noise	SOUND OR NOISE	1811		yaab'	yaab' 
+1463	34-15-45-1	721191876412190	Q'eqchi'	kekc1242	loud	LOUD	377		kaw	kaw 
+1464	34-15-45-2	721191277921917	Q'eqchi'	kekc1242	loud	LOUD	377		kaw xyaab'	kaw xyaab' 
+1465	34-15-46-1	721191795846688	Q'eqchi'	kekc1242	quiet	QUIET	1314		k'irnak	k'irnak 
+1466	34-15-51-1	721191138117601	Q'eqchi'	kekc1242	to see	SEE	1409		ilok	ilok 
+1467	34-15-52-1	721191847674174	Q'eqchi'	kekc1242	to look	LOOK	1819		ka’yank	ka’yank 
+1468	34-15-55-1	721191886853569	Q'eqchi'	kekc1242	to show	SHOW	1039		k'utuk	k'utuk 
+1469	34-15-56-1	721191953483372	Q'eqchi'	kekc1242	to shine	SHINE	708		lemlotk	lemlotk 
+1470	34-15-57-1	721191697934726	Q'eqchi'	kekc1242	bright	BRIGHT	679		lemtz'	lemtz' 
+1471	34-15-62-1	721191201866435	Q'eqchi'	kekc1242	light(2)	LIGHT (COLOR)	250		saqen	saqen 
+1472	34-15-62-2	721191704992582	Q'eqchi'	kekc1242	light(2)	LIGHT (COLOR)	250		raxk'urin	raxk'urin 
+1473	34-15-63-1	721191520992230	Q'eqchi'	kekc1242	dark	DARK	706		q'ojyin	q'ojyin 
+1474	34-15-63-2	721191707876322	Q'eqchi'	kekc1242	dark	DARK	706		tuh	tuh 
+1475	34-15-64-1	721191231521258	Q'eqchi'	kekc1242	white	WHITE	1335		saq	saq 
+1476	34-15-65-1	72119129210686	Q'eqchi'	kekc1242	black	BLACK	163		q'eq	q'eq 
+1477	34-15-66-1	721191542628762	Q'eqchi'	kekc1242	red	RED	156		kaq	kaq 
+1478	34-15-67-1	721191112892930	Q'eqchi'	kekc1242	blue	BLUE	837		raxrax	raxrax 
+1479	34-15-68-1	721191904890692	Q'eqchi'	kekc1242	green	GREEN	1425		rax	rax 
+1480	34-15-69-1	721191168411722	Q'eqchi'	kekc1242	yellow	YELLOW	1424		q'an	q'an 
+1481	34-15-71-1	72119131784614	Q'eqchi'	kekc1242	to touch	TOUCH	1892		ch'e'ok	ch'e'ok 
+1482	34-15-712-1	721191254572923	Q'eqchi'	kekc1242	to pinch	PINCH	378		ch'epok	ch'epok 
+1483	34-15-712-2	721191923483425	Q'eqchi'	kekc1242	to pinch	PINCH	378		jochok	jochok 
+1484	34-15-712-3	721191412015428	Q'eqchi'	kekc1242	to pinch	PINCH	378		ch'uyuk	ch'uyuk 
+1485	34-15-712-4	721191571064784	Q'eqchi'	kekc1242	to pinch	PINCH	378		xeb'ok	xeb'ok 
+1486	34-15-72-1	72119131784614	Q'eqchi'	kekc1242	to feel	FEEL	1079		ch'e'ok	ch'e'ok 
+1487	34-15-74-1	721191876412190	Q'eqchi'	kekc1242	hard	HARD	1884		kaw	kaw 
+1488	34-15-75-1	721191329195406	Q'eqchi'	kekc1242	soft	SOFT	1856		q'un	q'un 
+1489	34-15-75-2	721191381880658	Q'eqchi'	kekc1242	soft	SOFT	1856		potzpotz	potzpotz 
+1490	34-15-75-3	721191502538809	Q'eqchi'	kekc1242	soft	SOFT	1856		yuq'yuq'	yuq'yuq' 
+1491	34-15-75-4	721191494937603	Q'eqchi'	kekc1242	soft	SOFT	1856		yab'yab'	yab'yab' 
+1492	34-15-75-5	721191312835571	Q'eqchi'	kekc1242	soft	SOFT	1856		roq'roq'	roq'roq' 
+1493	34-15-76-1	721191239524645	Q'eqchi'	kekc1242	rough(1)	ROUGH	1923		b'iqb'iq	b'iqb'iq 
+1494	34-15-76-2	721191745959974	Q'eqchi'	kekc1242	rough(1)	ROUGH	1923		purux	purux 
+1495	34-15-76-3	721191859804420	Q'eqchi'	kekc1242	rough(1)	ROUGH	1923		b'urux b'urux	b'urux b'urux 
+1496	34-15-76-4	721191927446656	Q'eqchi'	kekc1242	rough(1)	ROUGH	1923		k'urux	k'urux 
+1497	34-15-76-5	721191255339665	Q'eqchi'	kekc1242	rough(1)	ROUGH	1923		turux	turux 
+1498	34-15-77-1	721191329195406	Q'eqchi'	kekc1242	smooth	SMOOTH	1234		q'un	q'un 
+1499	34-15-77-2	721191794203866	Q'eqchi'	kekc1242	smooth	SMOOTH	1234		ji'ji'	ji'ji' 
+1500	34-15-77-3	721191921726202	Q'eqchi'	kekc1242	smooth	SMOOTH	1234		yolyol	yolyol 
+1501	34-15-77-4	721191130339976	Q'eqchi'	kekc1242	smooth	SMOOTH	1234		tiik	tiik 
+1502	34-15-78-1	721191289210893	Q'eqchi'	kekc1242	sharp	SHARP	1396		q'es	q'es 
+1503	34-15-79-1	721191139183031	Q'eqchi'	kekc1242	blunt	BLUNT	379		room	room 
+1504	34-15-81-1	721191228489099	Q'eqchi'	kekc1242	heavy	HEAVY	1210		aal	aal 
+1505	34-15-82-1	721191339637667	Q'eqchi'	kekc1242	light(1)	LIGHT (WEIGHT)	1052		poy	poy 
+1506	34-15-82-2	721191751999030	Q'eqchi'	kekc1242	light(1)	LIGHT (WEIGHT)	1052		seeb'	seeb' 
+1507	34-15-83-1	72119158539380	Q'eqchi'	kekc1242	wet	WET	1726		luub'	luub' 
+1508	34-15-83-2	721191929139071	Q'eqchi'	kekc1242	wet	WET	1726		t'aqt'aq	t'aqt'aq 
+1509	34-15-83-3	721191158322773	Q'eqchi'	kekc1242	wet	WET	1726		b'aqx	b'aqx 
+1510	34-15-83-4	721191140198459	Q'eqchi'	kekc1242	wet	WET	1726		t'oqx	t'oqx 
+1511	34-15-83-5	721191746296332	Q'eqchi'	kekc1242	wet	WET	1726		tz'uuq	tz'uuq 
+1512	34-15-83-6	721191172967679	Q'eqchi'	kekc1242	wet	WET	1726		raap	raap 
+1513	34-15-84-1	721191968236559	Q'eqchi'	kekc1242	dry	DRY	1398		chaqi	chaqi 
+1514	34-15-84-2	721191138037544	Q'eqchi'	kekc1242	dry	DRY	1398		xujxuj	xujxuj 
+1515	34-15-85-1	721191758204467	Q'eqchi'	kekc1242	hot	HOT	1286		tiq	tiq 
+1516	34-15-851-1	721191758204467	Q'eqchi'	kekc1242	warm	WARM	1232		tiq	tiq 
+1517	34-15-86-1	721191879099144	Q'eqchi'	kekc1242	cold	COLD	1287		ke	ke 
+1518	34-15-87-1	721191291348046	Q'eqchi'	kekc1242	clean	CLEAN	704		ch'ajmich'aj	ch'ajmich'aj 
+1519	34-15-88-1	721191589034924	Q'eqchi'	kekc1242	dirty	DIRTY	1230		b'alak'	b'alak' 
+1520	34-15-88-2	721191585454390	Q'eqchi'	kekc1242	dirty	DIRTY	1230		b'ulux, b’alux	b'ulux 
+1521	34-15-88-3	721191585454390	Q'eqchi'	kekc1242	dirty	DIRTY	1230		b'ulux, b’alux	b’alux 
+1522	34-15-88-4	721191475463948	Q'eqchi'	kekc1242	dirty	DIRTY	1230		pes	pes 
+1523	34-15-88-5	721191113798501	Q'eqchi'	kekc1242	dirty	DIRTY	1230		tz'aj, tz'ajn	tz'aj 
+1524	34-15-88-6	721191113798501	Q'eqchi'	kekc1242	dirty	DIRTY	1230		tz'aj, tz'ajn	tz'ajn 
+1525	34-15-88-7	721191686212447	Q'eqchi'	kekc1242	dirty	DIRTY	1230		yib'ob'aal ru	yib'ob'aal ru 
+1526	34-16-11-1	721191388458453	Q'eqchi'	kekc1242	the soul or spirit	SOUL	811		ch'oolej	ch'oolej 
+1527	34-16-15-1	721191447338554	Q'eqchi'	kekc1242	surprised or astonished	SURPRISED	1572		sachaamil xch’ool	sachaamil xch’ool 
+1528	34-16-18-1	721191278381842	Q'eqchi'	kekc1242	the good luck	GOOD LUCK	720		rax muhel	rax muhel 
+1529	34-16-19-1	721191196983922	Q'eqchi'	kekc1242	the bad luck	BAD LUCK	56		awas	awas 
+1530	34-16-23-1	721191865069525	Q'eqchi'	kekc1242	happy	HAPPY	1495		k'ojk'o xch'ool	k'ojk'o xch'ool 
+1531	34-16-25-1	721191763699803	Q'eqchi'	kekc1242	to laugh	LAUGH	1355		se'ek	se'ek 
+1532	34-16-251-1	721191932359749	Q'eqchi'	kekc1242	to smile	SMILE	1451		se’ek	se’ek 
+1533	34-16-26-1	721191769649599	Q'eqchi'	kekc1242	to play	PLAY	1413		b’atz’unk	b’atz’unk 
+1534	34-16-27-1	721191643880556	Q'eqchi'	kekc1242	to love	LOVE	923		rahok	rahok 
+1535	34-16-27-2	721191183604186	Q'eqchi'	kekc1242	to love	LOVE	923		oxloq'ink	oxloq'ink 
+1536	34-16-29-1	721191593062479	Q'eqchi'	kekc1242	to kiss	KISS	578		tz'ub'uk	tz'ub'uk 
+1537	34-16-3-1	721191778359926	Q'eqchi'	kekc1242	to embrace	EMBRACE	928		mek'onk	mek'onk 
+1538	34-16-3-2	72119172195799	Q'eqchi'	kekc1242	to embrace	EMBRACE	928		q'alunk	q'alunk 
+1539	34-16-31-1	721191827542635	Q'eqchi'	kekc1242	the pain	PAIN	1783		ra	ra 
+1540	34-16-32-1	721191393754642	Q'eqchi'	kekc1242	the grief	GRIEF	1668		rahil ch'oolej	rahil ch'oolej 
+1541	34-16-33-1	721191624976893	Q'eqchi'	kekc1242	the anxiety	ANXIETY	1000		yot'ik	yot'ik 
+1542	34-16-34-1	721191945630807	Q'eqchi'	kekc1242	to regret or be sorry	REGRET	1875		kiib'ch'oolink	kiib'ch'oolink 
+1543	34-16-34-2	721191766632015	Q'eqchi'	kekc1242	to regret or be sorry	REGRET	1875		ch'inank ch'ool	ch'inank ch'ool 
+1544	34-16-34-3	721191180877034	Q'eqchi'	kekc1242	to regret or be sorry	REGRET	1875		yot'ok ch'ool	yot'ok ch'ool 
+1545	34-16-35-1	721191308425202	Q'eqchi'	kekc1242	the pity	PITY	1141		toq'ob'al u	toq'ob'al u 
+1546	34-16-37-1	721191678585786	Q'eqchi'	kekc1242	to cry	CRY	1839		yaab'ak	yaab'ak 
+1547	34-16-38-1	721191527599362	Q'eqchi'	kekc1242	the tear	TEAR (OF EYE)	1651		xya'al u	xya'al u 
+1548	34-16-39-1	721191684747586	Q'eqchi'	kekc1242	to groan	GROAN	716		tz'uyink	tz'uyink 
+1549	34-16-41-1	721191934665761	Q'eqchi'	kekc1242	to hate	HATE	1607		jatz'uuchink	jatz'uuchink 
+1550	34-16-42-1	721191340939233	Q'eqchi'	kekc1242	the anger	ANGER	82		waxerk	waxerk 
+1551	34-16-42-2	721191308946953	Q'eqchi'	kekc1242	the anger	ANGER	82		josq'il	josq'il 
+1552	34-16-42-3	721191766815970	Q'eqchi'	kekc1242	the anger	ANGER	82		po'jik	po'jik 
+1553	34-16-44-1	721191381422606	Q'eqchi'	kekc1242	the envy or jealousy	ENVY	40		kaqal	kaqal 
+1554	34-16-45-1	721191766553590	Q'eqchi'	kekc1242	the shame	SHAME	1776		xutaan	xutaan 
+1555	34-16-48-1	721191838314118	Q'eqchi'	kekc1242	proud	PROUD	174		q'etq'et	q'etq'et 
+1556	34-16-48-2	721191905145001	Q'eqchi'	kekc1242	proud	PROUD	174		b'ach' b'ach'	b'ach' b'ach' 
+1557	34-16-52-1	721191864873405	Q'eqchi'	kekc1242	brave	BRAVE	3		kaw rib'	kaw rib' 
+1558	34-16-52-2	721191538006156	Q'eqchi'	kekc1242	brave	BRAVE	3		wankil	wankil 
+1559	34-16-53-1	721191543121001	Q'eqchi'	kekc1242	the fear	FEAR (FRIGHT)	781		xiw	xiw 
+1560	34-16-54-1	721191154613310	Q'eqchi'	kekc1242	the danger	DANGER	1810		xiwxiw	xiwxiw 
+1561	34-16-62-1	721191940998009	Q'eqchi'	kekc1242	to want	WANT	1784		rahink	rahink 
+1562	34-16-62-2	721191131279746	Q'eqchi'	kekc1242	to want	WANT	1784		atawank	atawank 
+1563	34-16-622-1	72119179920174	Q'eqchi'	kekc1242	to choose	CHOOSE	1750		sik'ok u	sik'ok u 
+1564	34-16-622-2	721191585881741	Q'eqchi'	kekc1242	to choose	CHOOSE	1750		molok	molok 
+1565	34-16-622-3	721191281381275	Q'eqchi'	kekc1242	to choose	CHOOSE	1750		tihok u	tihok u 
+1566	34-16-63-1	721191707298306	Q'eqchi'	kekc1242	to hope	HOPE (SOMETHING)	3212		yo’nink	yo’nink 
+1567	34-16-65-1	721191143323581	Q'eqchi'	kekc1242	faithful	FAITHFUL	100		tiik xch'ool	tiik xch'ool 
+1568	34-16-66-1	721191289923327	Q'eqchi'	kekc1242	true	TRUE	1657		yaal	yaal 
+1569	34-16-67-1	721191321704072	Q'eqchi'	kekc1242	to lie(2)	LIE (MISLEAD)	601		pak'ok aatin	pak'ok aatin 
+1570	34-16-67-2	721191251804767	Q'eqchi'	kekc1242	to lie(2)	LIE (MISLEAD)	601		b'alaq'ik	b'alaq'ik 
+1571	34-16-67-3	721191990602978	Q'eqchi'	kekc1242	to lie(2)	LIE (MISLEAD)	601		tik'ti'ink	tik'ti'ink 
+1572	34-16-67-4	721191485545683	Q'eqchi'	kekc1242	to lie(2)	LIE (MISLEAD)	601		yik'ti'ink	yik'ti'ink 
+1573	34-16-68-1	721191322398434	Q'eqchi'	kekc1242	the deceit	DECEIT	13		b'alaq'	b'alaq' 
+1574	34-16-69-1	721191746275626	Q'eqchi'	kekc1242	to forgive	FORGIVE	1528		kuyuk maak	kuyuk maak 
+1575	34-16-71-1	721191598610699	Q'eqchi'	kekc1242	good	GOOD	1035		q'axal us	q'axal us 
+1576	34-16-71-2	721191513200727	Q'eqchi'	kekc1242	good	GOOD	1035		us	us 
+1577	34-16-71-3	721191451858006	Q'eqchi'	kekc1242	good	GOOD	1035		chaab'il	chaab'il 
+1578	34-16-72-1	721191925430332	Q'eqchi'	kekc1242	bad	BAD	1292		lab'	lab' 
+1579	34-16-73-1	721191661444241	Q'eqchi'	kekc1242	right(2)	CORRECT (RIGHT)	1725		q'axal chaab'il	q'axal chaab'il 
+1580	34-16-74-1	721191695833671	Q'eqchi'	kekc1242	wrong	WRONG	1390		muku yaal ta	muku yaal ta 
+1581	34-16-74-2	721191256729130	Q'eqchi'	kekc1242	wrong	WRONG	1390		ink’a’ us	ink’a’ us 
+1582	34-16-76-1	721191332851425	Q'eqchi'	kekc1242	the fault	FAULT	134		maak (1)	maak (1) 
+1583	34-16-77-1	72119139001886	Q'eqchi'	kekc1242	the mistake	MISTAKE	1293		sachjik	sachjik 
+1584	34-16-78-1	721191332851425	Q'eqchi'	kekc1242	the blame	BLAME	381		maak (1)	maak (1) 
+1585	34-16-79-1	721191679679823	Q'eqchi'	kekc1242	the praise	PRAISE	1687		nimank u	nimank u 
+1586	34-16-79-2	721191585152894	Q'eqchi'	kekc1242	the praise	PRAISE	1687		terq'usink k'ab'a'	terq'usink k'ab'a' 
+1587	34-16-81-1	721191621694620	Q'eqchi'	kekc1242	beautiful	BEAUTIFUL	1427		xchaq'al wu'	xchaq'al wu' 
+1588	34-16-81-2	721191550701933	Q'eqchi'	kekc1242	beautiful	BEAUTIFUL	1427		ch'ina us	ch'ina us 
+1589	34-16-82-1	721191592593189	Q'eqchi'	kekc1242	ugly	UGLY	1548		jo'maajo'	jo'maajo' 
+1590	34-16-82-2	721191981874997	Q'eqchi'	kekc1242	ugly	UGLY	1548		yib' ru	yib' ru 
+1591	34-16-83-1	721191102353364	Q'eqchi'	kekc1242	greedy	GREEDY	2018		aj atawanel	aj atawanel 
+1592	34-16-84-1	721191864873405	Q'eqchi'	kekc1242	clever	CLEVER	1310		kaw rib'	kaw rib' 
+1593	34-16-84-2	721191538006156	Q'eqchi'	kekc1242	clever	CLEVER	1310		wankil	wankil 
+1594	34-17-11-1	721191493415449	Q'eqchi'	kekc1242	the mind	MIND	1562		k'a'ux	k'a'ux 
+1595	34-17-13-1	72119110084616	Q'eqchi'	kekc1242	to think(1)	THINK (REFLECT)	1415		k'a'uxlak	k'a'uxlak 
+1596	34-17-14-1	721191981268273	Q'eqchi'	kekc1242	to think(2)	THINK (BELIEVE)	1513		xk’a’uxlankil	xk’a’uxlankil 
+1597	34-17-15-1	721191861068193	Q'eqchi'	kekc1242	to believe	BELIEVE	1890		paab'ank	paab'ank 
+1598	34-17-16-1	721191974731645	Q'eqchi'	kekc1242	to understand	UNDERSTAND	1536		tawok xyaalal	tawok xyaalal 
+1599	34-17-17-1	721191149334175	Q'eqchi'	kekc1242	to know	KNOW (SOMETHING)	1410		nawink	nawink 
+1600	34-17-171-1	721191449184945	Q'eqchi'	kekc1242	to guess	GUESS	1932		q'ehink	q'ehink 
+1601	34-17-171-2	721191641465616	Q'eqchi'	kekc1242	to guess	GUESS	1932		eek'ank	eek'ank 
+1602	34-17-172-1	72119133250988	Q'eqchi'	kekc1242	to imitate	IMITATE	117		ech ajaatink	ech ajaatink 
+1603	34-17-18-1	721191609569873	Q'eqchi'	kekc1242	to seem	SEEM	1521		chanchan aj wi’ a’an	chanchan aj wi’ a’an 
+1604	34-17-19-1	721191318683864	Q'eqchi'	kekc1242	the idea	IDEA	1609		na'leb'	na'leb' 
+1605	34-17-21-1	721191800881640	Q'eqchi'	kekc1242	wise	WISE	698		wan xna'leb'	wan xna'leb' 
+1606	34-17-22-1	721191103631843	Q'eqchi'	kekc1242	stupid	STUPID	1518		jip	jip 
+1607	34-17-22-2	721191461990296	Q'eqchi'	kekc1242	stupid	STUPID	1518		jok	jok 
+1608	34-17-23-1	721191298944690	Q'eqchi'	kekc1242	mad	MAD	1899		wax ru	wax ru 
+1609	34-17-23-2	721191707039186	Q'eqchi'	kekc1242	mad	MAD	1899		look	look 
+1610	34-17-23-3	721191845553636	Q'eqchi'	kekc1242	mad	MAD	1899		kaan ru	kaan ru 
+1611	34-17-24-1	721191299291237	Q'eqchi'	kekc1242	to learn	LEARN	504		tzolok	tzolok 
+1612	34-17-242-1	721191299291237	Q'eqchi'	kekc1242	to study	STUDY	1929		tzolok	tzolok 
+1613	34-17-25-1	721191299291237	Q'eqchi'	kekc1242	to teach	TEACH	709		tzolok	tzolok 
+1614	34-17-26-1	721191634566037	Q'eqchi'	kekc1242	the pupil	PUPIL (STUDENT)	753		tzolom	tzolom 
+1615	34-17-26-2	721191391578400	Q'eqchi'	kekc1242	the pupil	PUPIL (STUDENT)	753		tijom	tijom 
+1616	34-17-27-1	72119189795484	Q'eqchi'	kekc1242	the teacher	TEACHER	1038		tzolonel	tzolonel 
+1617	34-17-27-2	721191229436196	Q'eqchi'	kekc1242	the teacher	TEACHER	1038		q'usunel	q'usunel 
+1618	34-17-28-1	721191261824225	Q'eqchi'	kekc1242	the school	SCHOOL	673		tzolleb'aal	tzolleb'aal 
+1619	34-17-31-1	721191246164799	Q'eqchi'	kekc1242	to remember	REMEMBER	707		naqk sa' ch'ool	naqk sa' ch'ool 
+1620	34-17-31-2	721191245456491	Q'eqchi'	kekc1242	to remember	REMEMBER	707		jultikank	jultikank 
+1621	34-17-32-1	721191223589294	Q'eqchi'	kekc1242	to forget	FORGET	1523		sachk sa' ch'ool	sachk sa' ch'ool 
+1622	34-17-34-1	721191440083353	Q'eqchi'	kekc1242	clear	CLEAR	989		tz’aqal re ru	tz’aqal re ru 
+1623	34-17-35-1	721191945063974	Q'eqchi'	kekc1242	obscure	OBSCURE	1764		ink’a’ ch’olch’o	ink’a’ ch’olch’o 
+1624	34-17-36-1	721191735922867	Q'eqchi'	kekc1242	secret	SECRET	1121		hasb'	hasb' 
+1625	34-17-37-1	721191335242189	Q'eqchi'	kekc1242	certain	CERTAIN	509		ch'olch'o	ch'olch'o 
+1626	34-17-38-1	721191875546649	Q'eqchi'	kekc1242	to explain	EXPLAIN	1626		ch'olok	ch'olok 
+1627	34-17-41-1	721191917809903	Q'eqchi'	kekc1242	the intention	INTENTION	1162		li rajb’al	li rajb’al 
+1628	34-17-42-1	721191275544257	Q'eqchi'	kekc1242	the cause	CAUSE	860		b'aan	b'aan 
+1629	34-17-43-1	721191624265756	Q'eqchi'	kekc1242	the doubt	DOUBT	1308		kiib'ank ch'ool	kiib'ank ch'ool 
+1630	34-17-44-1	721191981268273	Q'eqchi'	kekc1242	to suspect	SUSPECT	1841		xk’a’uxlankil	xk’a’uxlankil 
+1631	34-17-441-1	721191652508734	Q'eqchi'	kekc1242	to betray	BETRAY	1902		b’alaq’ink	b’alaq’ink 
+1632	34-17-45-1	721191388423054	Q'eqchi'	kekc1242	the need or necessity	NEED (NOUN)	643		rajb'al ru	rajb'al ru 
+1633	34-17-46-1	721191655375333	Q'eqchi'	kekc1242	easy	EASY	686		moko ch'a'aj ta	moko ch'a'aj ta 
+1634	34-17-47-1	721191714532791	Q'eqchi'	kekc1242	difficult	DIFFICULT	584		ch'a'aj	ch'a'aj 
+1635	34-17-48-1	721191314680088	Q'eqchi'	kekc1242	to try	TRY	1812		yalok	yalok 
+1636	34-17-49-1	72119133179690	Q'eqchi'	kekc1242	the manner	MANNER	488		naraj	naraj 
+1637	34-17-51-1	721191584525218	Q'eqchi'	kekc1242	and	AND	1577		ut	ut 
+1638	34-17-52-1	721191176373122	Q'eqchi'	kekc1242	because	BECAUSE	1157		xb’aan naq	xb’aan naq 
+1639	34-17-53-1	721191146883019	Q'eqchi'	kekc1242	if	IF	1459		si'	si' 
+1640	34-17-54-1	721191924416742	Q'eqchi'	kekc1242	or	OR	1014		maraj ut	maraj ut 
+1641	34-17-55-1	721191649949308	Q'eqchi'	kekc1242	yes	YES	1268		heehe'	heehe' 
+1642	34-17-56-1	72119177080806	Q'eqchi'	kekc1242	no	NO	1269		ink'a'	ink'a' 
+1643	34-17-56-2	72119187551480	Q'eqchi'	kekc1242	no	NO	1269		moko... ta	moko... ta 
+1644	34-17-61-1	721191202959625	Q'eqchi'	kekc1242	how?	HOW	1239		chan ru	chan ru 
+1645	34-17-62-1	7211917927753	Q'eqchi'	kekc1242	how many?	HOW MANY	822		jarub'	jarub' 
+1646	34-17-63-1	721191298889322	Q'eqchi'	kekc1242	how much?	HOW MUCH	531		jo' k'ihal	jo' k'ihal 
+1647	34-17-63-2	721191510636137	Q'eqchi'	kekc1242	how much?	HOW MUCH	531		jo' nimal	jo' nimal 
+1648	34-17-64-1	72119178712944	Q'eqchi'	kekc1242	what?	WHAT	1236		k’a’, k’aru	k’a’ 
+1649	34-17-64-2	72119178712944	Q'eqchi'	kekc1242	what?	WHAT	1236		k’a’, k’aru	k’aru 
+1650	34-17-65-1	721191974315179	Q'eqchi'	kekc1242	when?	WHEN	1238		joq'e	joq'e 
+1651	34-17-66-1	721191977494796	Q'eqchi'	kekc1242	where?	WHERE	1237		b'ar	b'ar 
+1652	34-17-67-1	721191607410341	Q'eqchi'	kekc1242	which?	WHICH	727		k’a’ ru	k’a’ ru 
+1653	34-17-67-2	721191661118189	Q'eqchi'	kekc1242	which?	WHICH	727		b’ar wank	b’ar wank 
+1654	34-17-68-1	721191737623797	Q'eqchi'	kekc1242	who?	WHO	1235		ani (1)	ani (1) 
+1655	34-17-69-1	721191440842370	Q'eqchi'	kekc1242	why?	WHY	1270		k'a'ut	k'a'ut 
+1656	34-18-11-1	721191114595008	Q'eqchi'	kekc1242	the voice	VOICE	1363		ja'ajul	ja'ajul 
+1657	34-18-12-1	721191135579445	Q'eqchi'	kekc1242	to sing	SING	1261		b'ichank	b'ichank 
+1658	34-18-13-1	721191596943446	Q'eqchi'	kekc1242	to shout	SHOUT	715		q'ichok e	q'ichok e 
+1659	34-18-13-2	721191462775542	Q'eqchi'	kekc1242	to shout	SHOUT	715		chajok e	chajok e 
+1660	34-18-15-1	721191815163714	Q'eqchi'	kekc1242	to whisper	WHISPER	55		hasb'ak	hasb'ak 
+1661	34-18-16-1	721191228966733	Q'eqchi'	kekc1242	to mumble	MUMBLE	128		hasb’ak	hasb’ak 
+1662	34-18-16-2	7211914015684	Q'eqchi'	kekc1242	to mumble	MUMBLE	128		haslenk	haslenk 
+1663	34-18-17-1	721191128132928	Q'eqchi'	kekc1242	to whistle	WHISTLE	1025		xuxb'ak	xuxb'ak 
+1664	34-18-18-1	721191678585786	Q'eqchi'	kekc1242	to shriek	SHRIEK	298		yaab'ak	yaab'ak 
+1665	34-18-19-1	721191106888460	Q'eqchi'	kekc1242	to howl	HOWL	526		oq'lok	oq'lok 
+1666	34-18-21-1	721191884082755	Q'eqchi'	kekc1242	to speak or talk	SPEAK	1623		aatinamank	aatinamank 
+1667	34-18-21-2	721191591729303	Q'eqchi'	kekc1242	to speak or talk	SPEAK	1623		saaraq'ik	saaraq'ik 
+1668	34-18-211-1	721191782961332	Q'eqchi'	kekc1242	to stutter or stammer	STUTTER	1866		lotz re	lotz re 
+1669	34-18-211-2	721191282443455	Q'eqchi'	kekc1242	to stutter or stammer	STUTTER	1866		tat re	tat re 
+1670	34-18-22-1	72119193833054	Q'eqchi'	kekc1242	to say	SAY	1458		yehok	yehok 
+1671	34-18-221-1	721191591729303	Q'eqchi'	kekc1242	to tell	TELL	1711		saaraq'ik	saaraq'ik 
+1672	34-18-222-1	721191673744777	Q'eqchi'	kekc1242	the speech	SPEECH	1115		aatin	aatin 
+1673	34-18-23-1	721191203128029	Q'eqchi'	kekc1242	to be silent	BE SILENT	48		kulku	kulku 
+1674	34-18-24-1	721191618417422	Q'eqchi'	kekc1242	the language	LANGUAGE	1307		aatinob'aal	aatinob'aal 
+1675	34-18-26-1	721191673744777	Q'eqchi'	kekc1242	the word	WORD	1599		aatin	aatin 
+1676	34-18-28-1	721191215636917	Q'eqchi'	kekc1242	the name	NAME	1405		k'ab'a'ej	k'ab'a'ej 
+1677	34-18-31-1	72119178759237	Q'eqchi'	kekc1242	to ask(1)	ASK (INQUIRE)	1309		patz'ok	patz'ok 
+1678	34-18-32-1	721191843686841	Q'eqchi'	kekc1242	to answer	ANSWER	1275		chaq'b'enk	chaq'b'enk 
+1679	34-18-32-2	721191398324532	Q'eqchi'	kekc1242	to answer	ANSWER	1275		sumenk	sumenk 
+1680	34-18-33-1	721191768924900	Q'eqchi'	kekc1242	to admit	ADMIT	2022		xsumenkil	xsumenkil 
+1681	34-18-34-1	721191442975060	Q'eqchi'	kekc1242	to deny	DENY	755		jalmuqank, jalmuqink	jalmuqank 
+1682	34-18-34-2	721191442975060	Q'eqchi'	kekc1242	to deny	DENY	755		jalmuqank, jalmuqink	jalmuqink 
+1683	34-18-35-1	72119178759237	Q'eqchi'	kekc1242	to ask(2)	ASK (REQUEST)	1828		patz'ok	patz'ok 
+1684	34-18-36-1	721191194978072	Q'eqchi'	kekc1242	to promise	PROMISE	1675		sumenk ru aatin	sumenk ru aatin 
+1685	34-18-37-1	72119157822339	Q'eqchi'	kekc1242	to refuse	REFUSE	49		ink’a’ xq’ulub’ank	ink’a’ xq’ulub’ank 
+1686	34-18-39-1	721191932136854	Q'eqchi'	kekc1242	to scold	SCOLD	299		q'usuk	q'usuk 
+1687	34-18-41-1	721191712259673	Q'eqchi'	kekc1242	to call(1)	CALL	1084		b'oqok	b'oqok 
+1688	34-18-42-1	72119124953497	Q'eqchi'	kekc1242	to call(2)	CALL BY NAME	180		k'ab'a'ink	k'ab'a'ink 
+1689	34-18-43-1	721191376082533	Q'eqchi'	kekc1242	to announce	ANNOUNCE	9		esilank	esilank 
+1690	34-18-44-1	721191563143427	Q'eqchi'	kekc1242	to threaten	THREATEN	1192		k'ehok eetal	k'ehok eetal 
+1691	34-18-45-1	721191389928488	Q'eqchi'	kekc1242	to boast	BOAST	101		nimob’eresink ib’	nimob’eresink ib’ 
+1692	34-18-45-2	721191409757143	Q'eqchi'	kekc1242	to boast	BOAST	101		k’anasink rix	k’anasink rix 
+1693	34-18-51-1	721191744538588	Q'eqchi'	kekc1242	to write	WRITE	1672		tz'iib'ak	tz'iib'ak 
+1694	34-18-52-1	721191228736137	Q'eqchi'	kekc1242	to read	READ	724		ilok ru hu	ilok ru hu 
+1695	34-18-56-1	721191691538421	Q'eqchi'	kekc1242	the paper	PAPER	648		hu	hu 
+1696	34-18-57-1	721191477243064	Q'eqchi'	kekc1242	the pen	PEN	794		tz'iib'leb'	tz'iib'leb' 
+1697	34-18-61-1	721191691538421	Q'eqchi'	kekc1242	the book	BOOK	963		hu	hu 
+1698	34-18-61-2	721191543330622	Q'eqchi'	kekc1242	the book	BOOK	963		liib'r	liib'r 
+1699	34-18-71-1	721191397432360	Q'eqchi'	kekc1242	the flute	FLUTE	777		xolb'	xolb' 
+1700	34-18-72-1	721191107604272	Q'eqchi'	kekc1242	the drum	DRUM	908		tamb'or	tamb'or 
+1701	34-18-72-2	721191416366789	Q'eqchi'	kekc1242	the drum	DRUM	908		moor	moor 
+1702	34-18-73-1	721191698957022	Q'eqchi'	kekc1242	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		trompeet	trompeet 
+1703	34-18-74-1	721191858048223	Q'eqchi'	kekc1242	the rattle	RATTLE	300		luk'luk' che'	luk'luk' che' 
+1704	34-19-11-1	721191116842173	Q'eqchi'	kekc1242	the country	COUNTRY	1300		nimla tenamit	nimla tenamit 
+1705	34-19-12-1	721191993509663	Q'eqchi'	kekc1242	the native country	NATIVE COUNTRY	89		ch'och'el	ch'och'el 
+1706	34-19-15-1	721191116842173	Q'eqchi'	kekc1242	the town	TOWN	1391		nimla tenamit	nimla tenamit 
+1707	34-19-16-1	721191817922775	Q'eqchi'	kekc1242	the village	VILLAGE	930		tenamit	tenamit 
+1708	34-19-17-1	721191463352023	Q'eqchi'	kekc1242	the boundary	BOUNDARY	1010		nub'aal, nub’ajl	nub'aal 
+1709	34-19-17-2	721191463352023	Q'eqchi'	kekc1242	the boundary	BOUNDARY	1010		nub'aal, nub’ajl	nub’ajl 
+1710	34-19-21-1	721191941077009	Q'eqchi'	kekc1242	the people	PEOPLE	789		tenamitil	tenamitil 
+1711	34-19-23-1	721191683218739	Q'eqchi'	kekc1242	the clan	CLAN	302		triiw (2)	triiw (2) 
+1712	34-19-24-1	721191491584668	Q'eqchi'	kekc1242	the chieftain	CHIEFTAIN	301		jolomil	jolomil 
+1713	34-19-24-2	721191190714490	Q'eqchi'	kekc1242	the chieftain	CHIEFTAIN	301		awab'ej	awab'ej 
+1714	34-19-25-1	721191155610753	Q'eqchi'	kekc1242	the walking stick	WALKING STICK	1296		b'axton	b'axton 
+1715	34-19-25-2	72119158424815	Q'eqchi'	kekc1242	the walking stick	WALKING STICK	1296		xuq'	xuq' 
+1716	34-19-31-1	721191358896248	Q'eqchi'	kekc1242	to rule or govern	RULE	1846		awab'ejink	awab'ejink 
+1717	34-19-32-1	721191402871473	Q'eqchi'	kekc1242	the king	KING	1508		ajaw	ajaw 
+1718	34-19-33-1	721191544941944	Q'eqchi'	kekc1242	the queen	QUEEN	1306		qana	qana 
+1719	34-19-37-1	721191626590582	Q'eqchi'	kekc1242	the citizen	CITIZEN	1032		aj tenamit	aj tenamit 
+1720	34-19-41-1	721191418386623	Q'eqchi'	kekc1242	the master	MASTER	383		aj eechal re	aj eechal re 
+1721	34-19-42-1	721191126002439	Q'eqchi'	kekc1242	the slave	SLAVE	812		aj k’anjel	aj k’anjel 
+1722	34-19-42-2	721191920592249	Q'eqchi'	kekc1242	the slave	SLAVE	812		moos	moos 
+1723	34-19-43-1	721191920592249	Q'eqchi'	kekc1242	the servant	SERVANT	255		moos	moos 
+1724	34-19-45-1	721191350990289	Q'eqchi'	kekc1242	to command or order	ORDER	1128		taqlank	taqlank 
+1725	34-19-46-1	721191229993777	Q'eqchi'	kekc1242	to obey	OBEY	1635		ab'ink	ab'ink 
+1726	34-19-47-1	721191930868775	Q'eqchi'	kekc1242	to permit	PERMIT	1003		k'ehok	k'ehok 
+1727	34-19-51-1	721191471668832	Q'eqchi'	kekc1242	the friend	FRIEND	1325		ech aatin	ech aatin 
+1728	34-19-52-1	721191136328558	Q'eqchi'	kekc1242	the enemy	ENEMY	1358		rajtziil	rajtziil 
+1729	34-19-54-1	721191777576710	Q'eqchi'	kekc1242	the neighbour	NEIGHBOUR	1332		echkab'al	echkab'al 
+1730	34-19-55-1	721191993795314	Q'eqchi'	kekc1242	the stranger	STRANGER	791		najtil poyanam	najtil poyanam 
+1731	34-19-55-2	721191836411664	Q'eqchi'	kekc1242	the stranger	STRANGER	791		najt xtenamit	najt xtenamit 
+1732	34-19-56-1	721191383357050	Q'eqchi'	kekc1242	the guest	GUEST	1782		waril	waril 
+1733	34-19-56-2	721191673826602	Q'eqchi'	kekc1242	the guest	GUEST	1782		ula’	ula’ 
+1734	34-19-58-1	721191669225546	Q'eqchi'	kekc1242	to help	HELP	1897		kamab'k	kamab'k 
+1735	34-19-58-2	72119134300266	Q'eqchi'	kekc1242	to help	HELP	1897		tenq'ank	tenq'ank 
+1736	34-19-59-1	721191310749741	Q'eqchi'	kekc1242	to prevent	PREVENT	1550		ramok	ramok 
+1737	34-19-59-2	721191385441142	Q'eqchi'	kekc1242	to prevent	PREVENT	1550		romok	romok 
+1738	34-19-61-1	721191368381414	Q'eqchi'	kekc1242	the custom	CUSTOM	1747		b'aanuheem	b'aanuheem 
+1739	34-19-61-2	721191468184744	Q'eqchi'	kekc1242	the custom	CUSTOM	1747		na'leb' xe'toon	na'leb' xe'toon 
+1740	34-19-62-1	721191394205802	Q'eqchi'	kekc1242	the quarrel	QUARREL	1848		raaxiik'	raaxiik' 
+1741	34-19-65-1	721191176448380	Q'eqchi'	kekc1242	to meet	MEET	1831		k'uluk ib'	k'uluk ib' 
+1742	34-19-65-2	721191333620658	Q'eqchi'	kekc1242	to meet	MEET	1831		tawok	tawok 
+1743	34-19-72-1	721191809328711	Q'eqchi'	kekc1242	the prostitute	PROSTITUTE	1610		k'ayihom rib'	k'ayihom rib' 
+1744	34-19-72-2	721191764991263	Q'eqchi'	kekc1242	the prostitute	PROSTITUTE	1610		kaan ru ixq	kaan ru ixq 
+1745	34-20-11-1	72119131784614	Q'eqchi'	kekc1242	to fight	FIGHT	1423		ch'e'ok	ch'e'ok 
+1746	34-20-13-1	721191337741415	Q'eqchi'	kekc1242	the war or battle	BATTLE	579		pleet	pleet 
+1747	34-20-13-2	721191878561683	Q'eqchi'	kekc1242	the war or battle	BATTLE	579		raaxiik’	raaxiik’ 
+1748	34-20-13-3	721191314680088	Q'eqchi'	kekc1242	the war or battle	BATTLE	579		yalok	yalok 
+1749	34-20-14-1	72119168474400	Q'eqchi'	kekc1242	the peace	PEACE	1338		sahil ch'oolej	sahil ch'oolej 
+1750	34-20-14-2	721191389242371	Q'eqchi'	kekc1242	the peace	PEACE	1338		tuqtuukilal	tuqtuukilal 
+1751	34-20-15-1	721191693450044	Q'eqchi'	kekc1242	the army	ARMY	1561		soldaa, sola	soldaa 
+1752	34-20-15-2	721191693450044	Q'eqchi'	kekc1242	the army	ARMY	1561		soldaa, sola	sola 
+1753	34-20-17-1	721191693450044	Q'eqchi'	kekc1242	the soldier	SOLDIER	1941		soldaa, sola	soldaa 
+1754	34-20-17-2	721191693450044	Q'eqchi'	kekc1242	the soldier	SOLDIER	1941		soldaa, sola	sola 
+1755	34-20-17-3	721191336217618	Q'eqchi'	kekc1242	the soldier	SOLDIER	1941		aj kookox	aj kookox 
+1756	34-20-21-1	721191830295573	Q'eqchi'	kekc1242	the weapons	WEAPONS	951		kamsiil	kamsiil 
+1757	34-20-222-1	721191397482746	Q'eqchi'	kekc1242	the battle-axe	BATTLE-AXE	386		maal	maal 
+1758	34-20-23-1	721191684265816	Q'eqchi'	kekc1242	the sling	SLING	387		ont	ont 
+1759	34-20-23-2	721191235062987	Q'eqchi'	kekc1242	the sling	SLING	387		jok'	jok' 
+1760	34-20-23-3	721191928578844	Q'eqchi'	kekc1242	the sling	SLING	387		rant'in	rant'in 
+1761	34-20-24-1	721191797170492	Q'eqchi'	kekc1242	the bow	BOW	994		simaj	simaj 
+1762	34-20-24-2	72119111216936	Q'eqchi'	kekc1242	the bow	BOW	994		tzimaj	tzimaj 
+1763	34-20-25-1	721191797170492	Q'eqchi'	kekc1242	the arrow	ARROW	977		simaj	simaj 
+1764	34-20-25-2	72119111216936	Q'eqchi'	kekc1242	the arrow	ARROW	977		tzimaj	tzimaj 
+1765	34-20-26-1	72119134641794	Q'eqchi'	kekc1242	the spear	SPEAR	945		topleb'	topleb' 
+1766	34-20-27-1	721191432790385	Q'eqchi'	kekc1242	the sword	SWORD	1535		makaan	makaan 
+1767	34-20-28-1	721191357405359	Q'eqchi'	kekc1242	the gun	GUN	1566		puub'	puub' 
+1768	34-20-31-1	721191541229760	Q'eqchi'	kekc1242	the armour	ARMOUR	1061		ch’iich’	ch’iich’ 
+1769	34-20-34-1	721191609585265	Q'eqchi'	kekc1242	the shield	SHIELD	1064		lak’am, lakam	lak’am 
+1770	34-20-34-2	721191609585265	Q'eqchi'	kekc1242	the shield	SHIELD	1064		lak’am, lakam	lakam 
+1771	34-20-36-1	721191972258694	Q'eqchi'	kekc1242	the tower	TOWER	1671		tore	tore 
+1772	34-20-41-1	721191490224819	Q'eqchi'	kekc1242	the victory	VICTORY	783		echanink	echanink 
+1773	34-20-41-2	721191649411451	Q'eqchi'	kekc1242	the victory	VICTORY	783		ketok	ketok 
+1774	34-20-42-1	721191515701274	Q'eqchi'	kekc1242	the defeat	DEFEAT	782		t’ane’k	t’ane’k 
+1775	34-20-42-2	721191912431960	Q'eqchi'	kekc1242	the defeat	DEFEAT	782		tz’eqok	tz’eqok 
+1776	34-20-43-1	72119192929908	Q'eqchi'	kekc1242	the attack	ATTACK	722		k'uluk	k'uluk 
+1777	34-20-44-1	721191799926741	Q'eqchi'	kekc1242	to defend	DEFEND	1330		kolok	kolok 
+1778	34-20-45-1	721191158581459	Q'eqchi'	kekc1242	to retreat	RETREAT	421		eelelik	eelelik 
+1779	34-20-46-1	721191838370632	Q'eqchi'	kekc1242	to surrender	SURRENDER	1696		xe’xke rib’	xe’xke rib’ 
+1780	34-20-46-2	72119125114786	Q'eqchi'	kekc1242	to surrender	SURRENDER	1696		q’axtesink ib’	q’axtesink ib’ 
+1781	34-20-47-1	721191247915670	Q'eqchi'	kekc1242	the captive or prisoner	PRISONER	1072		preex	preex 
+1782	34-20-47-2	721191239246319	Q'eqchi'	kekc1242	the captive or prisoner	PRISONER	1072		aj tz’alam	aj tz’alam 
+1783	34-20-471-1	721191484864612	Q'eqchi'	kekc1242	the guard	GUARD	1940		taaqinel	taaqinel 
+1784	34-20-48-1	721191705188677	Q'eqchi'	kekc1242	the booty	BOOTY	1022		tzak	tzak 
+1785	34-20-51-1	721191270459474	Q'eqchi'	kekc1242	the fisherman	FISHERMAN	1858		aj kar	aj kar 
+1786	34-20-52-1	721191681703502	Q'eqchi'	kekc1242	the fishhook	FISHHOOK	1074		chapleb' kar	chapleb' kar 
+1787	34-20-52-2	721191971449429	Q'eqchi'	kekc1242	the fishhook	FISHHOOK	1074		kuux re karab'k	kuux re karab'k 
+1788	34-20-53-1	72119142600321	Q'eqchi'	kekc1242	the fishing line	FISHING LINE	19		kordel	kordel 
+1789	34-20-53-2	721191128316820	Q'eqchi'	kekc1242	the fishing line	FISHING LINE	19		k’aam	k’aam 
+1790	34-20-54-1	721191674494811	Q'eqchi'	kekc1242	the fishnet	FISHNET	388		ch'antun	ch'antun 
+1791	34-20-54-2	721191424923519	Q'eqchi'	kekc1242	the fishnet	FISHNET	388		soq' re karab'k	soq' re karab'k 
+1792	34-20-54-3	721191330241399	Q'eqchi'	kekc1242	the fishnet	FISHNET	388		yooy	yooy 
+1793	34-20-55-1	721191302005074	Q'eqchi'	kekc1242	the fish trap	FISH TRAP	389		traamp	traamp 
+1794	34-20-55-2	721191206864956	Q'eqchi'	kekc1242	the fish trap	FISH TRAP	389		ra’l kar	ra’l kar 
+1795	34-20-56-1	721191869749834	Q'eqchi'	kekc1242	the bait	BAIT	2013		xwah kar	xwah kar 
+1796	34-20-61-1	721191377195779	Q'eqchi'	kekc1242	to hunt	HUNT	1435		yohob'k	yohob'k 
+1797	34-20-62-1	721191756278037	Q'eqchi'	kekc1242	to shoot	SHOOT	1172		puub'ank	puub'ank 
+1798	34-20-63-1	721191640321733	Q'eqchi'	kekc1242	to miss	MISS (A TARGET)	161		xkolb’al	xkolb’al 
+1799	34-20-64-1	721191710684925	Q'eqchi'	kekc1242	the trap	TRAP (PITFALL)	1075		ch'imb'	ch'imb' 
+1800	34-20-64-2	721191961691189	Q'eqchi'	kekc1242	the trap	TRAP (PITFALL)	1075		ra'al	ra'al 
+1801	34-20-65-1	721191771867073	Q'eqchi'	kekc1242	to trap	TRAP (CATCH)	1170		ra'alenk	ra'alenk 
+1802	34-20-65-2	721191948001336	Q'eqchi'	kekc1242	to trap	TRAP (CATCH)	1170		ch'imb'unk	ch'imb'unk 
+1803	34-21-11-1	721191591729103	Q'eqchi'	kekc1242	the law	LAW	1062		ley	ley 
+1804	34-21-15-1	721191685083378	Q'eqchi'	kekc1242	the court	COURT	1068		poopol	poopol 
+1805	34-21-16-1	721191664973286	Q'eqchi'	kekc1242	to adjudicate	ADJUDICATE	1818		raqok aatin	raqok aatin 
+1806	34-21-17-1	721191683143674	Q'eqchi'	kekc1242	the judgment	JUDGMENT	1067		raqb'a' aatin	raqb'a' aatin 
+1807	34-21-18-1	721191203266260	Q'eqchi'	kekc1242	the judge	JUDGE	861		raqol aatin	raqol aatin 
+1808	34-21-21-1	721191771763956	Q'eqchi'	kekc1242	the plaintiff	PLAINTIFF	2020		jitonel	jitonel 
+1809	34-21-22-1	721191111920684	Q'eqchi'	kekc1242	the defendant	DEFENDANT	1034		jitb’il	jitb’il 
+1810	34-21-22-2	721191932411319	Q'eqchi'	kekc1242	the defendant	DEFENDANT	1034		q’ab’anb’il	q’ab’anb’il 
+1811	34-21-23-1	721191693522983	Q'eqchi'	kekc1242	the witness	WITNESS	1144		testiig	testiig 
+1812	34-21-24-1	721191480847438	Q'eqchi'	kekc1242	to swear	SWEAR	1939		ch’olob’ankil	ch’olob’ankil 
+1813	34-21-25-1	721191515263418	Q'eqchi'	kekc1242	the oath	OATH	1712		somenkil	somenkil 
+1814	34-21-31-1	721191759878950	Q'eqchi'	kekc1242	to accuse	ACCUSE	1814		jitok	jitok 
+1815	34-21-32-1	721191812270628	Q'eqchi'	kekc1242	to condemn	CONDEMN	484		tz’aqtaanank	tz’aqtaanank 
+1816	34-21-32-2	721191664973286	Q'eqchi'	kekc1242	to condemn	CONDEMN	484		raqok aatin	raqok aatin 
+1817	34-21-33-1	72119161943026	Q'eqchi'	kekc1242	to convict	CONVICT	983		teneb’ankil sa’ xb’een	teneb’ankil sa’ xb’een 
+1818	34-21-33-2	721191929061757	Q'eqchi'	kekc1242	to convict	CONVICT	983		raqok aatin chi rix	raqok aatin chi rix 
+1819	34-21-34-1	721191746275626	Q'eqchi'	kekc1242	to acquit	ACQUIT	988		kuyuk maak	kuyuk maak 
+1820	34-21-35-1	721191770011812	Q'eqchi'	kekc1242	guilty	GUILTY	1682		maakonel	maakonel 
+1821	34-21-36-1	721191865862872	Q'eqchi'	kekc1242	innocent	INNOCENT	90		maak’a’ xmaak	maak’a’ xmaak 
+1822	34-21-37-1	721191598638431	Q'eqchi'	kekc1242	the penalty or punishment	PUNISHMENT	390		tojleb'aal maak	tojleb'aal maak 
+1823	34-21-37-2	721191369554446	Q'eqchi'	kekc1242	the penalty or punishment	PUNISHMENT	390		k'ajik u	k'ajik u 
+1824	34-21-38-1	721191343617832	Q'eqchi'	kekc1242	the fine	FINE (PENALTY)	218		muult	muult 
+1825	34-21-39-1	721191159528393	Q'eqchi'	kekc1242	the prison	PRISON	1281		tz'alam	tz'alam 
+1826	34-21-42-1	721191744400894	Q'eqchi'	kekc1242	the murder	MURDER	845		kamsink	kamsink 
+1827	34-21-43-1	721191545704259	Q'eqchi'	kekc1242	the adultery	ADULTERY	902		muxuk sumlajik	muxuk sumlajik 
+1828	34-21-43-2	72119170688189	Q'eqchi'	kekc1242	the adultery	ADULTERY	902		muxuk	muxuk 
+1829	34-21-44-1	721191827445027	Q'eqchi'	kekc1242	the rape	RAPE	953		xminb’al ru	xminb’al ru 
+1830	34-21-51-1	721191152114209	Q'eqchi'	kekc1242	to steal	STEAL	713		uq'mink	uq'mink 
+1831	34-21-51-2	721191284746743	Q'eqchi'	kekc1242	to steal	STEAL	713		elq'ak	elq'ak 
+1832	34-21-51-3	721191923483425	Q'eqchi'	kekc1242	to steal	STEAL	713		jochok	jochok 
+1833	34-21-51-4	721191350646766	Q'eqchi'	kekc1242	to steal	STEAL	713		ixi'jink	ixi'jink 
+1834	34-21-52-1	721191866878213	Q'eqchi'	kekc1242	the thief	THIEF	1160		jochonel	jochonel 
+1835	34-22-11-1	721191888767517	Q'eqchi'	kekc1242	the religion	RELIGION	661		paab'aal	paab'aal 
+1836	34-22-12-1	721191283970536	Q'eqchi'	kekc1242	the god	DEITY	3231		qaawa’	qaawa’ 
+1837	34-22-12-2	721191160388187	Q'eqchi'	kekc1242	the god	DEITY	3231		yos, tyox	yos 
+1838	34-22-12-3	721191160388187	Q'eqchi'	kekc1242	the god	DEITY	3231		yos, tyox	tyox 
+1839	34-22-13-1	721191251533027	Q'eqchi'	kekc1242	the temple	TEMPLE	911		ermiit	ermiit 
+1840	34-22-13-2	721191917435850	Q'eqchi'	kekc1242	the temple	TEMPLE	911		kapiiy	kapiiy 
+1841	34-22-14-1	721191300442075	Q'eqchi'	kekc1242	the altar	ALTAR	853		artal	artal 
+1842	34-22-15-1	721191248139531	Q'eqchi'	kekc1242	the sacrifice	SACRIFICE	1103		mayej	mayej 
+1843	34-22-16-1	721191101682937	Q'eqchi'	kekc1242	to worship	WORSHIP	257		xb’aanunkil mayejak	xb’aanunkil mayejak 
+1844	34-22-17-1	721191778675340	Q'eqchi'	kekc1242	to pray	PRAY	24		tijok	tijok 
+1845	34-22-18-1	721191188764491	Q'eqchi'	kekc1242	the priest	PRIEST	852		payr	payr 
+1846	34-22-18-2	721191341409719	Q'eqchi'	kekc1242	the priest	PRIEST	852		chimam	chimam 
+1847	34-22-19-1	721191538006156	Q'eqchi'	kekc1242	holy	HOLY	1702		wankil	wankil 
+1848	34-22-19-2	721191613472462	Q'eqchi'	kekc1242	holy	HOLY	1702		osob'tesinb'il	osob'tesinb'il 
+1849	34-22-22-1	72119147492448	Q'eqchi'	kekc1242	to preach	PREACH	304		k'eelenk	k'eelenk 
+1850	34-22-23-1	721191615168735	Q'eqchi'	kekc1242	to bless	BLESS	391		osob'tesink	osob'tesink 
+1851	34-22-24-1	721191867991951	Q'eqchi'	kekc1242	to curse	CURSE	8		hob'ok	hob'ok 
+1852	34-22-26-1	721191836144617	Q'eqchi'	kekc1242	to fast	ABSTAIN FROM FOOD	303		kuyuk sa’	kuyuk sa’ 
+1853	34-22-26-2	72119156729774	Q'eqchi'	kekc1242	to fast	ABSTAIN FROM FOOD	303		ayuunink rix	ayuunink rix 
+1854	34-22-31-1	721191949436135	Q'eqchi'	kekc1242	the heaven	HEAVEN	1565		choxa, choxaal	choxa 
+1855	34-22-31-2	721191949436135	Q'eqchi'	kekc1242	the heaven	HEAVEN	1565		choxa, choxaal	choxaal 
+1856	34-22-32-1	721191598638431	Q'eqchi'	kekc1242	the hell	HELL	878		tojleb'aal maak	tojleb'aal maak 
+1857	34-22-32-2	721191575251250	Q'eqchi'	kekc1242	the hell	HELL	878		xb'alb'a, b'alb'a	xb'alb'a 
+1858	34-22-32-3	721191575251250	Q'eqchi'	kekc1242	the hell	HELL	878		xb'alb'a, b'alb'a	b'alb'a 
+1859	34-22-35-1	721191375661618	Q'eqchi'	kekc1242	the demon	DEMON	1973		anum	anum 
+1860	34-22-35-2	721191513269371	Q'eqchi'	kekc1242	the demon	DEMON	1973		tza	tza 
+1861	34-22-37-1	721191960402327	Q'eqchi'	kekc1242	the idol	IDOL	1945		jalam 'uuch	jalam 'uuch 
+1862	34-22-42-1	721191156998673	Q'eqchi'	kekc1242	the magic	MAGIC	392		tuul	tuul 
+1863	34-22-43-1	721191489272317	Q'eqchi'	kekc1242	the sorcerer or witch	MAGICIAN	2137		awasinel	awasinel 
+1864	34-22-43-2	721191271701936	Q'eqchi'	kekc1242	the sorcerer or witch	MAGICIAN	2137		tuulanel	tuulanel 
+1865	34-22-44-1	721191925483162	Q'eqchi'	kekc1242	the fairy or elf	ELF OR FAIRY	3206		kok' xul	kok' xul 
+1866	34-22-44-2	721191181269832	Q'eqchi'	kekc1242	the fairy or elf	ELF OR FAIRY	3206		ranumal q'ojyin	ranumal q'ojyin 
+1867	34-22-44-3	721191468627025	Q'eqchi'	kekc1242	the fairy or elf	ELF OR FAIRY	3206		xilik'	xilik' 
+1868	34-22-45-1	721191874858438	Q'eqchi'	kekc1242	the ghost	GHOST	1175		anumal	anumal 
+1869	34-22-47-1	721191811798131	Q'eqchi'	kekc1242	the omen	OMEN	107		xq’ehinkil	xq’ehinkil 
+1870	34-23-1-1	72119162345674	Q'eqchi'	kekc1242	the radio	RADIO	1315		ray	ray 
+1871	34-23-11-1	721191992563325	Q'eqchi'	kekc1242	the television	TELEVISION	1788		teleb’ision	teleb’ision 
+1872	34-23-12-1	721191458472465	Q'eqchi'	kekc1242	the telephone	TELEPHONE	1379		teleef	teleef 
+1873	34-23-12-2	721191806334054	Q'eqchi'	kekc1242	the telephone	TELEPHONE	1379		b’oqleb’	b’oqleb’ 
+1874	34-23-135-1	721191223039997	Q'eqchi'	kekc1242	the motorcycle	MOTORCYCLE	638		moot	moot 
+1875	34-23-14-1	721191605818583	Q'eqchi'	kekc1242	the car	CAR	1111		ch'iich'	ch'iich' 
+1876	34-23-15-1	721191718284053	Q'eqchi'	kekc1242	the bus	BUS	1070		kamyon	kamyon 
+1877	34-23-16-1	721191920172439	Q'eqchi'	kekc1242	the airplane	AIRPLANE	1597		ab’yon	ab’yon 
+1878	34-23-17-1	721191546536500	Q'eqchi'	kekc1242	the electricity	ELECTRICITY	59		elektrisidad	elektrisidad 
+1879	34-23-17-2	721191758242930	Q'eqchi'	kekc1242	the electricity	ELECTRICITY	59		xaml	xaml 
+1880	34-23-175-1	721191417590947	Q'eqchi'	kekc1242	the battery	BATTERY	662		b’ateriiy	b’ateriiy 
+1881	34-23-2-1	721191933711369	Q'eqchi'	kekc1242	the hospital	HOSPITAL	616		b'anleb'aal	b'anleb'aal 
+1882	34-23-21-1	721191382108341	Q'eqchi'	kekc1242	the nurse	NURSE	1104		aj b’anonel	aj b’anonel 
+1883	34-23-21-2	721191603547692	Q'eqchi'	kekc1242	the nurse	NURSE	1104		aj ilol yaj	aj ilol yaj 
+1884	34-23-22-1	721191881084680	Q'eqchi'	kekc1242	the pill or tablet	PILL	395		pastiiy	pastiiy 
+1885	34-23-23-1	721191313199156	Q'eqchi'	kekc1242	the injection	INJECTION	1805		inyeksion	inyeksion 
+1886	34-23-23-2	721191285911833	Q'eqchi'	kekc1242	the injection	INJECTION	1805		b’akuun	b’akuun 
+1887	34-23-5-1	7211916372347	Q'eqchi'	kekc1242	the tap/faucet	FAUCET	1488		yaaw	yaaw 
+1888	34-23-51-1	721191828921782	Q'eqchi'	kekc1242	the sink	SINK (BASIN)	915		ch’ajleb’	ch’ajleb’ 
+1889	34-23-52-1	721191475899777	Q'eqchi'	kekc1242	the toilet	TOILET	219		k’oteb’aal	k’oteb’aal 
+1890	34-23-52-2	721191655002247	Q'eqchi'	kekc1242	the toilet	TOILET	219		tz’eqleb’aal	tz’eqleb’aal 
+1891	34-23-53-1	721191718881869	Q'eqchi'	kekc1242	the mattress	MATTRESS	105		ru ch’aat	ru ch’aat 
+1892	34-23-3-1	721191123783692	Q'eqchi'	kekc1242	the government	GOVERNMENT	815		awab’ej	awab’ej 
+1893	34-23-31-1	721191190714490	Q'eqchi'	kekc1242	the president	PRESIDENT	899		awab'ej	awab'ej 
+1894	34-23-33-1	72119145471727	Q'eqchi'	kekc1242	the police	POLICE	656		chaponel	chaponel 
+1895	34-23-34-1	721191433507867	Q'eqchi'	kekc1242	the driver's license	DRIVER'S LICENSE	599		lisens	lisens 
+1896	34-23-38-1	721191520013422	Q'eqchi'	kekc1242	the election	ELECTION	240		b'oot	b'oot 
+1897	34-23-4-1	721191872902617	Q'eqchi'	kekc1242	the post/mail	MAIL	167		taql	taql 
+1898	34-23-41-1	721191962444864	Q'eqchi'	kekc1242	the postage stamp	POSTAGE STAMP	596		tiimbr	tiimbr 
+1899	34-23-41-2	721191663885983	Q'eqchi'	kekc1242	the postage stamp	POSTAGE STAMP	596		eetal	eetal 
+1900	34-23-42-1	721191691538421	Q'eqchi'	kekc1242	the letter	LETTER	1612		hu	hu 
+1901	34-23-44-1	721191322176494	Q'eqchi'	kekc1242	the bank	BANK	1284		k'uuleb'aal	k'uuleb'aal 
+1902	34-23-54-1	721191148581617	Q'eqchi'	kekc1242	the tin/can	CAN	1051		laat	laat 
+1903	34-23-55-1	72119155445331	Q'eqchi'	kekc1242	the screw	SCREW	1802		torniiy	torniiy 
+1904	34-23-555-1	721191828265293	Q'eqchi'	kekc1242	the screwdriver	SCREWDRIVER	836		k'ixleb'	k'ixleb' 
+1905	34-23-56-1	721191575301278	Q'eqchi'	kekc1242	the bottle	BOTTLE	1321		meet	meet 
+1906	34-23-565-1	721191526373443	Q'eqchi'	kekc1242	the candy/sweets	CANDY	874		kab'	kab' 
+1907	34-23-24-1	721191535300523	Q'eqchi'	kekc1242	the spectacles/glasses	SPECTACLES	1898		lem	lem 
+1908	34-23-24-2	721191857585810	Q'eqchi'	kekc1242	the spectacles/glasses	SPECTACLES	1898		anyooj	anyooj 
+1909	34-23-57-1	721191237637980	Q'eqchi'	kekc1242	the plastic	PLASTIC	654		plastiik, plaas	plastiik 
+1910	34-23-57-2	721191237637980	Q'eqchi'	kekc1242	the plastic	PLASTIC	654		plastiik, plaas	plaas 
+1911	34-23-575-1	721191641049833	Q'eqchi'	kekc1242	the bomb	BOMB	1804		b’oom	b’oom 
+1912	34-23-58-1	721191475243589	Q'eqchi'	kekc1242	the workshop	WORKSHOP	1677		k'uub'leb'aal	k'uub'leb'aal 
+1913	34-23-58-2	721191650590306	Q'eqchi'	kekc1242	the workshop	WORKSHOP	1677		yiib'leb'aal	yiib'leb'aal 
+1914	34-23-59-1	7211918107890	Q'eqchi'	kekc1242	the cigarette	CIGARETTE	969		may	may 
+1915	34-23-59-2	721191372143095	Q'eqchi'	kekc1242	the cigarette	CIGARETTE	969		sik'l	sik'l 
+1916	34-23-59-3	721191134869580	Q'eqchi'	kekc1242	the cigarette	CIGARETTE	969		xaqmay	xaqmay 
+1917	34-23-61-1	721191221511059	Q'eqchi'	kekc1242	the calendar	CALENDAR	1967		aj-lab'aal kutan	aj-lab'aal kutan 
+1918	34-23-62-1	721191960402327	Q'eqchi'	kekc1242	the film/movie	MOVIE	216		jalam 'uuch	jalam 'uuch 
+1919	34-23-63-1	721191761668804	Q'eqchi'	kekc1242	the music	MUSIC	642		son	son 
+1920	34-23-64-1	721191271604403	Q'eqchi'	kekc1242	the song	SONG	1096		b'ich	b'ich 
+1921	34-23-6-1	721191275515225	Q'eqchi'	kekc1242	the newspaper	NEWSPAPER	1298		periood	periood 
+1922	34-23-385-1	721191811872021	Q'eqchi'	kekc1242	the address	ADDRESS	591		jayal	jayal 
+1923	34-23-39-1	721191839069185	Q'eqchi'	kekc1242	the number	NUMBER	1356		ajl	ajl 
+1924	34-23-155-1	721191866907793	Q'eqchi'	kekc1242	the train	TRAIN	900		tren	tren 
+1925	34-23-36-1	721191814976944	Q'eqchi'	kekc1242	the birth certificate	BIRTH CERTIFICATE	397		papelseya	papelseya 
+1926	34-23-36-2	721191620803749	Q'eqchi'	kekc1242	the birth certificate	BIRTH CERTIFICATE	397		retali xyo’lajik	retali xyo’lajik 
+1927	34-23-36-3	721191378068423	Q'eqchi'	kekc1242	the birth certificate	BIRTH CERTIFICATE	397		pereera	pereera 
+1928	34-23-18-1	721191826497979	Q'eqchi'	kekc1242	to brake	BRAKE	966		xaq’ab’ankil	xaq’ab’ankil 
+1929	34-23-195-1	721191359168197	Q'eqchi'	kekc1242	the petroleum	PETROLEUM	650		petrool	petrool 
+1930	34-23-185-1	72119121177056	Q'eqchi'	kekc1242	the motor	MOTOR	110		motor	motor 
+1931	34-23-19-1	721191194478921	Q'eqchi'	kekc1242	the machine	MACHINE	144		maak (2)	maak (2) 
+1932	34-23-13-1	72119142171440	Q'eqchi'	kekc1242	the bicycle	BICYCLE	747		b’isikleet	b’isikleet 
+1933	34-23-13-2	721191702419923	Q'eqchi'	kekc1242	the bicycle	BICYCLE	747		b’aqlaq ch’iich’	b’aqlaq ch’iich’ 
+1934	34-23-395-1	721191557319283	Q'eqchi'	kekc1242	the street	STREET	1362		b’e, b’eh, nimb’e	b’e 
+1935	34-23-395-2	721191557319283	Q'eqchi'	kekc1242	the street	STREET	1362		b’e, b’eh, nimb’e	b’eh 
+1936	34-23-395-3	721191557319283	Q'eqchi'	kekc1242	the street	STREET	1362		b’e, b’eh, nimb’e	nimb’e 
+1937	34-19-445-1	721191141941527	Q'eqchi'	kekc1242	to liberate	LIBERATE	37		rach’ab’ankil	rach’ab’ankil 
+1938	34-19-565-1	721191626319190	Q'eqchi'	kekc1242	to invite	INVITE	1611		b'eenink	b'eenink 
+1939	34-19-565-2	721191712259673	Q'eqchi'	kekc1242	to invite	INVITE	1611		b'oqok	b'oqok 
+1940	34-23-35-1	721191952077273	Q'eqchi'	kekc1242	the license plate	LICENSE PLATE	1790		retalil	retalil 
+1941	34-23-43-1	72119139843034	Q'eqchi'	kekc1242	the postcard	POSTCARD	1497		tarjeet postal	tarjeet postal 
+1942	34-24-01-1	721191894170035	Q'eqchi'	kekc1242	to be	BE	1579		wank	wank 
+1943	34-24-02-1	721191306654983	Q'eqchi'	kekc1242	to become	BECOME	1990		tahulaq	tahulaq 
+1944	34-24-02-2	72119125003369	Q'eqchi'	kekc1242	to become	BECOME	1990		hulak	hulak 
+1945	34-24-05-1	721191975262316	Q'eqchi'	kekc1242	through	THROUGH	97		sa’	sa’ 
+1946	34-24-05-2	721191318650164	Q'eqchi'	kekc1242	through	THROUGH	97		xb’aan	xb’aan 
+1947	34-24-05-3	721191874899031	Q'eqchi'	kekc1242	through	THROUGH	97		sa’ xk’ab’a’	sa’ xk’ab’a’ 
+1948	34-24-13-1	721191888791747	Q'eqchi'	kekc1242	same	SAME	200		junaj	junaj 
+1949	34-24-13-2	721191680323140	Q'eqchi'	kekc1242	same	SAME	200		na'ajil	na'ajil 
+1950	34-24-13-3	721191639502043	Q'eqchi'	kekc1242	same	SAME	200		juneet	juneet 
+1951	34-24-13-4	72119117494800	Q'eqchi'	kekc1242	same	SAME	200		juntaq'eet	juntaq'eet 
+1952	34-24-06-1	72119177080806	Q'eqchi'	kekc1242	not	NOT	1240		ink'a'	ink'a' 
+1953	34-24-06-2	72119187551480	Q'eqchi'	kekc1242	not	NOT	1240		moko... ta	moko... ta 
+1954	34-24-07-1	721191765726704	Q'eqchi'	kekc1242	this	THIS	1214		ha'in, a’in	ha'in 
+1955	34-24-07-2	721191765726704	Q'eqchi'	kekc1242	this	THIS	1214		ha'in, a’in	a’in 
+1956	34-24-08-1	721191555414213	Q'eqchi'	kekc1242	that	THAT	78		wan le'	wan le' 
+1957	34-24-09-1	721191749011875	Q'eqchi'	kekc1242	here	HERE	136		arin	arin 
+1958	34-24-09-2	72119187646037	Q'eqchi'	kekc1242	here	HERE	136		ayi'	ayi' 
+1959	34-24-09-3	721191913941050	Q'eqchi'	kekc1242	here	HERE	136		sa'in	sa'in 
+1960	34-24-1-1	721191889783313	Q'eqchi'	kekc1242	there	THERE	1937		le'	le' 
+1961	34-24-11-1	721191356148925	Q'eqchi'	kekc1242	other	OTHER	197		jalan	jalan 
+1962	34-24-11-2	72119140088773	Q'eqchi'	kekc1242	other	OTHER	197		jun chik	jun chik 
+1963	34-4-493-1	721191341939438	Q'eqchi'	kekc1242	the vagina	VAGINA	1836		mi’	mi’ 
+1964	34-23-9-1	721191533963659	Q'eqchi'	kekc1242	the tea	TEA	1373		te	te 
+1965	34-23-91-1	721191151247832	Q'eqchi'	kekc1242	the coffee	COFFEE	1299		kape	kape 
+1966	34-24-12-1	721191899744506	Q'eqchi'	kekc1242	next	NEXT	1354		sa' jun chik	sa' jun chik 
+1967	34-3-862-1	721191553097589	Q'eqchi'	kekc1242	the coyote	COYOTE	912		tz'i' tzuul	tz'i' tzuul 
+1968	34-3-862-2	72119111558747	Q'eqchi'	kekc1242	the coyote	COYOTE	912		xojb'	xojb' 
+1969	34-3-863-1	721191916950279	Q'eqchi'	kekc1242	the hare	HARE	1190		xa’an imul	xa’an imul 
+1970	34-3-865-1	721191655580135	Q'eqchi'	kekc1242	the quail	QUAIL	1893		tonq'	tonq' 
+1971	34-3-866-1	721191574558727	Q'eqchi'	kekc1242	the raccoon	RACCOON	828		ow, aj ow	ow 
+1972	34-3-866-2	721191574558727	Q'eqchi'	kekc1242	the raccoon	RACCOON	828		ow, aj ow	aj ow 
+1973	34-3-869-1	721191752485572	Q'eqchi'	kekc1242	the squirrel	SQUIRREL	1628		kuk	kuk 
+1974	34-8-29-1	721191529788043	Q'eqchi'	kekc1242	the lasso	LASSO	340		laas	laas 
+1975	34-8-993-1	721191362973467	Q'eqchi'	kekc1242	the needle(2)	NEEDLE TREE	286		xaqchaj	xaqchaj 
+1976	34-4-465-1	721191903115177	Q'eqchi'	kekc1242	the sinew or tendon	TENDON	1137		ich'	ich' 
+1977	34-4-465-2	72119139151715	Q'eqchi'	kekc1242	the sinew or tendon	TENDON	1137		ich'mul	ich'mul 
+1978	34-7-67-1	721191790088135	Q'eqchi'	kekc1242	to tan	TAN	247		chiqok tz’uum	chiqok tz’uum 
+1979	34-8-996-1	721191276842122	Q'eqchi'	kekc1242	the cone	CONE	287		ru chaj	ru chaj 
+1980	34-3-8112-1	721191104024678	Q'eqchi'	kekc1242	the body louse	BODY LOUSE	311		uk'	uk' 
+1981	34-4-494-1	721191856236520	Q'eqchi'	kekc1242	the vulva	VULVA	1837		b’irk	b’irk 
+1982	34-4-494-2	721191591329581	Q'eqchi'	kekc1242	the vulva	VULVA	1837		pirk’	pirk’ 
+1983	34-3-99-1	721191211759870	Q'eqchi'	kekc1242	the tapir	TAPIR	312		tixl	tixl 
+1984	34-9-93-1	721191244025198	Q'eqchi'	kekc1242	the whetstone	WHETSTONE	295		hux	hux 
+1985	34-9-93-2	721191498680087	Q'eqchi'	kekc1242	the whetstone	WHETSTONE	295		ji'leb'	ji'leb' 
+1986	34-9-92-1	721191408314376	Q'eqchi'	kekc1242	the tumpline	TUMPLINE	294		taab'	taab' 
+1987	34-7-65-1	721191739452104	Q'eqchi'	kekc1242	the camp	CAMP	1105		kampameent	kampameent 
+1988	34-8-28-1	721191978836269	Q'eqchi'	kekc1242	the digging stick (=yamstick)	DIGGING STICK	339		awleb'	awleb' 
+1989	34-3-833-1	721191458434777	Q'eqchi'	kekc1242	the prawns or shrimp	PRAWNS	238		k’ox	k’ox 
+1990	34-3-833-2	721191949979822	Q'eqchi'	kekc1242	the prawns or shrimp	PRAWNS	238		jit	jit 
+1991	34-3-834-1	721191498963093	Q'eqchi'	kekc1242	the termites	TERMITE	883		k’ams	k’ams 
+1992	34-3-835-1	721191852454318	Q'eqchi'	kekc1242	the tick	TICK	1527		sip	sip 
+1993	34-3-88-1	721191610410828	Q'eqchi'	kekc1242	the kangaroo	KANGAROO	164		kanguru	kanguru 
+1994	34-3-89-1	721191298163116	Q'eqchi'	kekc1242	the anteater	ANTEATER	181		tz'uqtz'um	tz'uqtz'um 
+1995	34-3-598-1	721191254088384	Q'eqchi'	kekc1242	the toucan	TOUCAN	308		raxpan	raxpan 
+1996	34-3-9-1	721191688591969	Q'eqchi'	kekc1242	the jaguar	JAGUAR	1250		hix	hix 
+1997	34-5-983-1	721191233308334	Q'eqchi'	kekc1242	the manioc bread	MANIOC BREAD	407		tz’in	tz’in 
+1998	34-7-66-1	721191319527810	Q'eqchi'	kekc1242	the hammock	HAMMOCK	2019		ab'	ab' 
+1999	34-7-66-2	721191845301337	Q'eqchi'	kekc1242	the hammock	HAMMOCK	2019		t'uuyleb'	t'uuyleb' 
+2000	34-8-911-1	721191705945975	Q'eqchi'	kekc1242	the millet or sorghum	MILLET	931		kok’ ixim	kok’ ixim 
+2001	34-3-913-1	721191822477174	Q'eqchi'	kekc1242	the chameleon	CHAMELEON	1555		pere’maal	pere’maal 
+2002	34-9-9-1	721191925987800	Q'eqchi'	kekc1242	to draw water	DRAW (WATER)	1911		lekok	lekok 
+2003	34-9-91-1	721191406599126	Q'eqchi'	kekc1242	the peg	PEG	361		lokoch	lokoch 
+2004	34-9-91-2	721191195031882	Q'eqchi'	kekc1242	the peg	PEG	361		kapoteer	kapoteer 
+2005	34-9-91-3	721191721672417	Q'eqchi'	kekc1242	the peg	PEG	361		lukub’al	lukub’al 
+2006	34-10-58-1	721191612774402	Q'eqchi'	kekc1242	to go or return home	RETURN HOME	142		q'ajk	q'ajk 
+2007	34-3-917-1	72119189648302	Q'eqchi'	kekc1242	the buffalo	BUFFALO	934		wakax	wakax 
+2008	34-1-411-1	721191689204404	Q'eqchi'	kekc1242	the savanna	SAVANNA	260		sabana	sabana 
+2009	34-1-831-1	721191706802585	Q'eqchi'	kekc1242	the steam	STEAM	1193		b'ook	b'ook 
+2010	34-1-831-2	721191235550583	Q'eqchi'	kekc1242	the steam	STEAM	1193		tiqwal	tiqwal 
+2011	34-2-4561-1	721191622113819	Q'eqchi'	kekc1242	the older sibling	OLDER SIBLING	405		asb'ej	asb'ej 
+2012	34-2-4561-2	721191321661549	Q'eqchi'	kekc1242	the older sibling	OLDER SIBLING	405		anab'ej	anab'ej 
+2013	34-2-4561-3	721191762632696	Q'eqchi'	kekc1242	the older sibling	OLDER SIBLING	405		chaq'na'b'ej	chaq'na'b'ej 
+2014	34-2-4562-1	721191426752839	Q'eqchi'	kekc1242	the younger sibling	YOUNGER SIBLING	427		iitz’inb’ej	iitz’inb’ej 
+2015	34-2-4711-1	72119196389749	Q'eqchi'	kekc1242	the grandparents	GRANDPARENTS	305		mel	mel 
+2016	34-2-5-1	721191521026479	Q'eqchi'	kekc1242	the grandchild	GRANDCHILD	1617		iib'ej	iib'ej 
+2017	34-2-541-1	721191528410789	Q'eqchi'	kekc1242	the sibling’s child	SIBLING'S CHILD	173		ikaq’b’ej	ikaq’b’ej 
+2018	34-2-622-1	721191561708817	Q'eqchi'	kekc1242	the parents-in-law	PARENTS-IN-LAW	306		hi'om e	hi'om e 
+2019	34-2-622-2	721191752313390	Q'eqchi'	kekc1242	the parents-in-law	PARENTS-IN-LAW	306		xyuwa' ixaqilb'ej	xyuwa' ixaqilb'ej 
+2020	34-2-622-3	721191215258489	Q'eqchi'	kekc1242	the parents-in-law	PARENTS-IN-LAW	306		xyuwa' b'eelomej	xyuwa' b'eelomej 
+2021	34-2-6412-1	721191775499019	Q'eqchi'	kekc1242	the sibling-in-law	SIBLING-IN-LAW	1832		b'alk	b'alk 
+2022	34-2-6412-2	721191843105181	Q'eqchi'	kekc1242	the sibling-in-law	SIBLING-IN-LAW	1832		ech alalb'ej	ech alalb'ej 
+2023	34-2-931-1	72119172439350	Q'eqchi'	kekc1242	he	HE	1211		ha'an, a’an	ha'an 
+2024	34-2-931-2	72119172439350	Q'eqchi'	kekc1242	he	HE	1211		ha'an, a’an	a’an 
+2025	34-2-932-1	72119172439350	Q'eqchi'	kekc1242	she	SHE	1834		ha'an, a’an	ha'an 
+2026	34-2-932-2	72119172439350	Q'eqchi'	kekc1242	she	SHE	1834		ha'an, a’an	a’an 
+2027	34-2-933-1	721191802599226	Q'eqchi'	kekc1242	it	IT	169		ha’an, a’an	ha’an 
+2028	34-2-933-2	721191802599226	Q'eqchi'	kekc1242	it	IT	169		ha’an, a’an	a’an 
+2029	34-4-741-1	721191829350064	Q'eqchi'	kekc1242	the life	LIFE	210		yu'am	yu'am 
+2030	34-4-771-1	721191145175007	Q'eqchi'	kekc1242	the carcass	CARCASS	1770		kamenaq	kamenaq 
+2031	34-4-844-1	721191865933773	Q'eqchi'	kekc1242	the disease	DISEASE	1986		yajel	yajel 
+2032	34-7-232-1	721191644099348	Q'eqchi'	kekc1242	the padlock	PADLOCK	336		kantaaw	kantaaw 
+2033	34-8-121-1	721191588157646	Q'eqchi'	kekc1242	the paddy	PADDY FIELD	140		xna’aj aros	xna’aj aros 
+2034	34-13-231-1	721191240095172	Q'eqchi'	kekc1242	the piece	PIECE	594		jachal	jachal 
+2035	34-13-231-2	721191848079980	Q'eqchi'	kekc1242	the piece	PIECE	594		ch'otolal	ch'otolal 
+2036	34-13-231-3	721191423934188	Q'eqchi'	kekc1242	the piece	PIECE	594		ch'uyul	ch'uyul 
+2037	34-13-231-4	721191180593526	Q'eqchi'	kekc1242	the piece	PIECE	594		wechelal	wechelal 
+2038	34-13-331-1	721191964833692	Q'eqchi'	kekc1242	alone	ALONE	1964		ka'aj wi', ka’j wi’	ka'aj wi' 
+2039	34-13-331-2	721191964833692	Q'eqchi'	kekc1242	alone	ALONE	1964		ka'aj wi', ka’j wi’	ka’j wi’ 
+2040	34-13-331-3	721191517593749	Q'eqchi'	kekc1242	alone	ALONE	1964		sa' junesal	sa' junesal 
+2041	34-14-251-1	721191370649551	Q'eqchi'	kekc1242	the beginning	BEGINNING	1557		tiklajik	tiklajik 
+2042	34-14-251-2	721191866652647	Q'eqchi'	kekc1242	the beginning	BEGINNING	1557		k'ojlajik	k'ojlajik 
+2043	34-14-411-1	721191267830089	Q'eqchi'	kekc1242	the day(2)	DAY (NOT NIGHT)	1225		kutan	kutan 
+2044	34-22-131-1	721191981680060	Q'eqchi'	kekc1242	the church	CHURCH	1349		iglees	iglees 
+2045	34-24-14-1	721191332163585	Q'eqchi'	kekc1242	nothing	NOTHING	687		maak'a'	maak'a' 
+2046	34-24-14-2	721191664380274	Q'eqchi'	kekc1242	nothing	NOTHING	687		yal ta k'a'	yal ta k'a' 
+2047	34-4-7501-1	721191145175007	Q'eqchi'	kekc1242	dead	DEAD	1625		kamenaq	kamenaq 
+2048	34-4-8541-1	721191507031742	Q'eqchi'	kekc1242	to scratch	SCRATCH	1436		q'oyok	q'oyok 
+2049	34-4-8541-2	721191480102131	Q'eqchi'	kekc1242	to scratch	SCRATCH	1436		parok	parok 
+2050	34-9-111-1	721191382415253	Q'eqchi'	kekc1242	to make	MAKE	734		b’aanunk	b’aanunk 
+2051	34-4-431-1	721191975262316	Q'eqchi'	kekc1242	the belly	BELLY	1251		sa’	sa’ 
+2052	34-9-311-1	721191906164756	Q'eqchi'	kekc1242	to wipe	WIPE	1454		mesok	mesok 
+2053	34-1-775-1	721191387544722	Q'eqchi'	kekc1242	to freeze	FREEZE	1431		keho'k	keho'k 
+2054	34-24-04-1	721191165101537	Q'eqchi'	kekc1242	with	WITH	1340		rik’in	rik’in 
+2055	34-24-04-2	721191373661116	Q'eqchi'	kekc1242	with	WITH	1340		chi rix	chi rix 
+2056	34-24-04-3	721191959135545	Q'eqchi'	kekc1242	with	WITH	1340		rexb’een	rexb’een 
+2057	34-24-04-4	721191748390630	Q'eqchi'	kekc1242	with	WITH	1340		ruk’in	ruk’in 
+2058	34-12-012-1	721191975262316	Q'eqchi'	kekc1242	in	IN	1460		sa’	sa’ 

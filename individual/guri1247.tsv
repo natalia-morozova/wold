@@ -1,0 +1,1029 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	31-1-21-1	75241737919907895	Gurindji	guri1247	the land	LAND	626		ngurra	ngurra 
+2	31-1-212-1	75241736806267206	Gurindji	guri1247	the soil	EARTH (SOIL)	1228		janja	janja 
+3	31-1-213-1	7524173649754139	Gurindji	guri1247	the dust	DUST	2		jurtu	jurtu 
+4	31-1-214-1	75241736563795787	Gurindji	guri1247	the mud	MUD	640		kurlwa	kurlwa 
+5	31-1-215-1	75241736819496283	Gurindji	guri1247	the sand	SAND	671		warrayarl	warrayarl 
+6	31-1-22-1	75241736771118456	Gurindji	guri1247	the mountain or hill	MOUNTAIN OR HILL	2118		ngarlaka	ngarlaka 
+7	31-1-222-1	75241736713573075	Gurindji	guri1247	the cliff or precipice	PRECIPICE	618		warranginy	warranginy 
+8	31-1-23-1	75241736658498326	Gurindji	guri1247	the plain	PLAIN	652		palangarri	palangarri 
+9	31-1-24-1	75241736137516899	Gurindji	guri1247	the valley	VALLEY	921		talukurru	talukurru 
+10	31-1-25-1	75241736198384593	Gurindji	guri1247	the island	ISLAND	622		lutju	lutju 
+11	31-1-27-1	75241736418422021	Gurindji	guri1247	the shore	SHORE	113		pirntiwirti	pirntiwirti 
+12	31-1-28-1	75241736811318758	Gurindji	guri1247	the cave	CAVE	1155		jarriny	jarriny 
+13	31-1-31-1	75241736234785528	Gurindji	guri1247	the water	WATER	948		ngawa	ngawa 
+14	31-1-32-1	75241736144382726	Gurindji	guri1247	the sea	SEA	1474		wangkuwala	wangkuwala 
+15	31-1-322-1	7524173685375563	Gurindji	guri1247	calm	CALM	258		ngawirlangpirlangmulung	ngawirlangpirlangmulung 
+16	31-1-323-1	75241736927105091	Gurindji	guri1247	rough(2)	ROUGH (OF SEA)	259		ngawirlangpirlangjawung	ngawirlangpirlangjawung 
+17	31-1-324-1	75241736631426053	Gurindji	guri1247	the foam	FOAM	1768		ngamarla	ngamarla 
+18	31-1-33-1	75241736609000488	Gurindji	guri1247	the lake	LAKE	624		langkana	langkana 
+19	31-1-35-1	75241736122177691	Gurindji	guri1247	the wave	WAVE	978		ngawirlangpirlang	ngawirlangpirlang 
+20	31-1-36-1	75241736635662631	Gurindji	guri1247	the river or stream	RIVER	666		pinka	pinka 
+21	31-1-37-1	7524173679523638	Gurindji	guri1247	the spring or well	SPRING OR WELL	2144		winyji	winyji 
+22	31-1-38-1	75241736163536682	Gurindji	guri1247	the swamp	SWAMP	1145		nangkurru	nangkurru 
+23	31-1-39-1	7524173664311914	Gurindji	guri1247	the waterfall	WATERFALL	943		yanturri	yanturri 
+24	31-1-41-1	75241736153546029	Gurindji	guri1247	the woods or forest	FOREST	420		manyja	manyja 
+25	31-1-43-1	75241736879077966	Gurindji	guri1247	the wood	WOOD	1803		karnti	karnti 
+26	31-1-44-1	75241736713715265	Gurindji	guri1247	the stone or rock	STONE OR ROCK	2125		wumara	wumara 
+27	31-1-51-1	75241736137776258	Gurindji	guri1247	the sky	SKY	1732		kulumarra	kulumarra 
+28	31-1-52-1	75241736944944009	Gurindji	guri1247	the sun	SUN	1343		wurlngarn	wurlngarn 
+29	31-1-53-1	7524173615602680	Gurindji	guri1247	the moon	MOON	1313		jakiliny	jakiliny 
+30	31-1-54-1	75241736154714088	Gurindji	guri1247	the star	STAR	1430		kiki	kiki 
+31	31-1-55-1	7524173629031655	Gurindji	guri1247	the lightning	LIGHTNING	1654		janginyina	janginyina 
+32	31-1-56-1	75241736547521725	Gurindji	guri1247	the thunder	THUNDER	1150		turlurlup	turlurlup 
+33	31-1-57-1	7524173629031655	Gurindji	guri1247	the bolt of lightning	BOLT (OF LIGHTNING)	2007		janginyina	janginyina 
+34	31-1-58-1	752417366374474	Gurindji	guri1247	the storm	STORM	858		walawuru	walawuru 
+35	31-1-59-1	75241736801935088	Gurindji	guri1247	the rainbow	RAINBOW	1733		waji	waji 
+36	31-1-61-1	75241736145077669	Gurindji	guri1247	the light	LIGHT (RADIATION)	630		ngunti	ngunti 
+37	31-1-62-1	7524173694574600	Gurindji	guri1247	the darkness	DARKNESS	11		mum	mum 
+38	31-1-63-1	75241736856908477	Gurindji	guri1247	the shade or shadow	SHADE	1388		yarti	yarti 
+39	31-1-64-1	75241736416269677	Gurindji	guri1247	the dew	DEW	1977		karrngan	karrngan 
+40	31-1-72-1	75241736678652096	Gurindji	guri1247	the wind	WIND	960		wumaj	wumaj 
+41	31-1-73-1	75241736175086502	Gurindji	guri1247	the cloud	CLOUD	1489		maarn	maarn 
+42	31-1-74-1	75241736860850246	Gurindji	guri1247	the fog	FOG	249		kaparru	kaparru 
+43	31-1-75-1	75241736942532306	Gurindji	guri1247	the rain	RAIN (PRECIPITATION)	658		yipu	yipu 
+44	31-1-77-1	75241736401708123	Gurindji	guri1247	the ice	ICE	617		murrupa	murrupa 
+45	31-1-81-1	75241736861836074	Gurindji	guri1247	the fire	FIRE	221		warlu	warlu 
+46	31-1-82-1	75241736145077669	Gurindji	guri1247	the flame	FLAME	889		ngunti	ngunti 
+47	31-1-83-1	75241736857083685	Gurindji	guri1247	the smoke	SMOKE (EXHAUST)	778		jungkart	jungkart 
+48	31-1-84-1	75241736662873616	Gurindji	guri1247	the ash	ASH	646		puna	puna 
+49	31-1-841-1	75241736901821625	Gurindji	guri1247	the embers	EMBERS	67		kunyini	kunyini 
+50	31-1-851-1	7524173675724615	Gurindji	guri1247	to burn(1)	BURN (SOMETHING)	141		purtuj kampa-	purtuj kampa- 
+51	31-1-852-1	7524173689672422	Gurindji	guri1247	to burn(2)	BURNING	1428		jiya-	jiya- 
+52	31-1-86-1	75241736861878021	Gurindji	guri1247	to light	LIGHT (IGNITE)	737		kirrim kampa-	kirrim kampa- 
+53	31-1-861-1	75241736858596143	Gurindji	guri1247	to extinguish	EXTINGUISH	127		jipu(n) pa-	jipu(n) pa- 
+54	31-1-87-1	75241736228575034	Gurindji	guri1247	the match	MATCH	1133		kirrim-kaji	kirrim-kaji 
+55	31-1-88-1	75241736861836074	Gurindji	guri1247	the firewood	FIREWOOD	10		warlu	warlu 
+56	31-1-89-1	75241736901821625	Gurindji	guri1247	the charcoal	CHARCOAL	1188		kunyini	kunyini 
+57	31-2-1-1	75241736429934654	Gurindji	guri1247	the person	PERSON	683		ngumpit	ngumpit 
+58	31-2-21-1	75241736429934654	Gurindji	guri1247	the man	MAN	1554		ngumpit	ngumpit 
+59	31-2-22-1	75241736147750950	Gurindji	guri1247	the woman	WOMAN	962		janka	janka 
+60	31-2-23-1	75241736161118527	Gurindji	guri1247	male(1)	MALE (OF ANIMAL)	2263		malyju	malyju 
+61	31-2-24-1	75241736974086537	Gurindji	guri1247	female(1)	FEMALE (OF PERSON)	2260		nampiyita	nampiyita 
+62	31-2-25-1	75241736161118527	Gurindji	guri1247	the boy	BOY	1366		malyju	malyju 
+63	31-2-251-1	75241736799906920	Gurindji	guri1247	the young man	YOUNG MAN	76		yarrulan	yarrulan 
+64	31-2-26-1	75241736213381971	Gurindji	guri1247	the girl	GIRL	1646		manga	manga 
+65	31-2-261-1	75241736659271341	Gurindji	guri1247	the young woman	YOUNG WOMAN	77		wamala	wamala 
+66	31-2-27-1	75241736228798589	Gurindji	guri1247	the child(1)	CHILD (YOUNG HUMAN)	1304		karu	karu 
+67	31-2-28-1	75241736526761945	Gurindji	guri1247	the baby	BABY	1289		yapakaru	yapakaru 
+68	31-2-31-1	75241736650143962	Gurindji	guri1247	the husband	HUSBAND	1200		ngumparna	ngumparna 
+69	31-2-32-1	75241736147750950	Gurindji	guri1247	the wife	WIFE	1199		janka	janka 
+70	31-2-33-1	75241736359030791	Gurindji	guri1247	to marry	MARRY	203		luku	luku 
+71	31-2-34-1	75241736726010907	Gurindji	guri1247	the wedding	WEDDING	1259		witing	witing 
+72	31-2-35-1	7524173618922124	Gurindji	guri1247	the father	FATHER	1217		ngaji	ngaji 
+73	31-2-36-1	7524173628824589	Gurindji	guri1247	the mother	MOTHER	1216		ngamayi	ngamayi 
+74	31-2-38-1	75241736359030791	Gurindji	guri1247	the married man	MARRIED MAN	424		luku	luku 
+75	31-2-39-1	75241736918571198	Gurindji	guri1247	the married woman	MARRIED WOMAN	426		kajirri	kajirri 
+76	31-2-41-1	75241736647550956	Gurindji	guri1247	the son	SON	1620		ngalawuny	ngalawuny 
+77	31-2-42-1	75241736566130826	Gurindji	guri1247	the daughter	DAUGHTER	1357		kurturtu	kurturtu 
+78	31-2-43-1	75241736228798589	Gurindji	guri1247	the child(2)	CHILD (DESCENDANT)	1801		karu	karu 
+79	31-2-44-1	75241736599165812	Gurindji	guri1247	the brother	BROTHER	1262		papa	papa 
+80	31-2-444-1	7524173646688986	Gurindji	guri1247	the older brother	OLDER BROTHER	1759		ngapa	ngapa 
+81	31-2-445-1	75241737695671297	Gurindji	guri1247	the younger brother	YOUNGER BROTHER	1760		karlaj	karlaj 
+82	31-2-45-1	75241736266754759	Gurindji	guri1247	the sister	SISTER	1263		kapuku	kapuku 
+83	31-2-454-1	75241736150575618	Gurindji	guri1247	the older sister	OLDER SISTER	1758		kawurlu	kawurlu 
+84	31-2-455-1	75241737695671297	Gurindji	guri1247	the younger sister	YOUNGER SISTER	1761		karlaj	karlaj 
+85	31-2-458-1	75241736358413170	Gurindji	guri1247	the twins	TWINS	1005		karli kujarra	karli kujarra 
+86	31-2-46-1	75241736704925673	Gurindji	guri1247	the grandfather	GRANDFATHER	1383		kaku	kaku 
+87	31-2-46-2	75241737131837096	Gurindji	guri1247	the grandfather	GRANDFATHER	1383		jawiji	jawiji 
+88	31-2-461-1	75241736868132234	Gurindji	guri1247	the old man	OLD MAN	406		marluka	marluka 
+89	31-2-47-1	75241736562224829	Gurindji	guri1247	the grandmother	GRANDMOTHER	1496		jaju	jaju 
+90	31-2-47-2	75241737990947496	Gurindji	guri1247	the grandmother	GRANDMOTHER	1496		ngapuju	ngapuju 
+91	31-2-471-1	75241736918571198	Gurindji	guri1247	the old woman	OLD WOMAN	907		kajirri	kajirri 
+92	31-2-48-1	75241736881994136	Gurindji	guri1247	the grandson	GRANDSON	1618		kaminyjarr	kaminyjarr 
+93	31-2-49-1	75241736881994136	Gurindji	guri1247	the granddaughter	GRANDDAUGHTER	1619		kaminyjarr	kaminyjarr 
+94	31-2-511-1	75241736822486544	Gurindji	guri1247	the mother's brother	MOTHER'S BROTHER	1984		ngamirni	ngamirni 
+95	31-2-512-1	7524173618922124	Gurindji	guri1247	the father's brother	FATHER'S BROTHER	1985		ngaji	ngaji 
+96	31-2-521-1	7524173628824589	Gurindji	guri1247	the mother's sister	MOTHER'S SISTER	171		ngamayi	ngamayi 
+97	31-2-522-1	75241736295184579	Gurindji	guri1247	the father's sister	FATHER'S SISTER	170		mukurl	mukurl 
+98	31-2-53-1	75241736566130826	Gurindji	guri1247	the nephew	NEPHEW	1063		kurturtu	kurturtu 
+99	31-2-54-1	75241736647550956	Gurindji	guri1247	the niece	NIECE	1642		ngalawuny	ngalawuny 
+100	31-2-55-1	75241736309322938	Gurindji	guri1247	the cousin	COUSIN	1643		parnkurti	parnkurti 
+101	31-2-56-1	75241737732395396	Gurindji	guri1247	the ancestors	ANCESTORS	1669		kamparrijang	kamparrijang 
+102	31-2-57-1	75241736414673042	Gurindji	guri1247	the descendants	DESCENDANTS	490		ngumayijang	ngumayijang 
+103	31-2-61-1	75241736491465023	Gurindji	guri1247	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		lamparra	lamparra 
+104	31-2-611-1	75241736491465023	Gurindji	guri1247	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		lamparra	lamparra 
+105	31-2-62-1	75241736121512176	Gurindji	guri1247	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		mali	mali 
+106	31-2-621-1	75241736104672608	Gurindji	guri1247	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		kurriji	kurriji 
+107	31-2-63-1	75241736491465023	Gurindji	guri1247	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		lamparra	lamparra 
+108	31-2-631-1	75241736121512176	Gurindji	guri1247	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		mali	mali 
+109	31-2-64-1	75241736491465023	Gurindji	guri1247	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		lamparra	lamparra 
+110	31-2-641-1	75241736104672608	Gurindji	guri1247	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		kurriji	kurriji 
+111	31-2-75-1	75241736201844767	Gurindji	guri1247	the orphan	ORPHAN	1149		wangaak	wangaak 
+112	31-2-76-1	75241736616526349	Gurindji	guri1247	the widow	WIDOW	1756		wangu	wangu 
+113	31-2-77-1	7524173625325417	Gurindji	guri1247	the widower	WIDOWER	1981		karliyinta	karliyinta 
+114	31-2-81-1	75241736201737558	Gurindji	guri1247	the relatives	RELATIVES	1644		nungkiying	nungkiying 
+115	31-2-82-1	75241736201737558	Gurindji	guri1247	the family	FAMILY	194		nungkiying	nungkiying 
+116	31-2-91-1	75241736789831656	Gurindji	guri1247	I	I	1209		ngayu	ngayu 
+117	31-2-92-1	75241736357545133	Gurindji	guri1247	you (singular)	THOU	1215		nyuntu	nyuntu 
+118	31-2-93-1	75241737313035010	Gurindji	guri1247	he/she/it	HE OR SHE OR IT	262		nyantu	nyantu 
+119	31-2-941-1	75241736640043119	Gurindji	guri1247	we (inclusive)	WE (INCLUSIVE)	1131		ngaliwa	ngaliwa 
+120	31-2-942-1	75241736717738021	Gurindji	guri1247	we (exclusive)	WE (EXCLUSIVE)	1130		ngantipa	ngantipa 
+121	31-2-95-1	75241736383044104	Gurindji	guri1247	you (plural)	YOU	1213		nyurrulu	nyurrulu 
+122	31-2-96-1	75241736255320373	Gurindji	guri1247	they	THEY	817		nyarrulu	nyarrulu 
+123	31-3-11-1	75241736271133252	Gurindji	guri1247	the animal	ANIMAL	619		ngarin	ngarin 
+124	31-3-12-1	75241736161118527	Gurindji	guri1247	male(2)	MALE (OF PERSON)	2261		malyju	malyju 
+125	31-3-13-1	75241736974086537	Gurindji	guri1247	female(2)	FEMALE (OF ANIMAL)	2262		nampiyita	nampiyita 
+126	31-3-16-1	752417361284703	Gurindji	guri1247	the pasture	PASTURE	649		patik	patik 
+127	31-3-18-1	75241736517819061	Gurindji	guri1247	the herdsman	HERDSMAN	263		takman	takman 
+128	31-3-19-1	75241736111924386	Gurindji	guri1247	the stable or stall	STABLE	851		yawarta-wu marru	yawarta-wu marru 
+129	31-3-2-1	75241736876564290	Gurindji	guri1247	the cattle	CATTLE	1153		puliki	puliki 
+130	31-3-23-1	75241736876564290	Gurindji	guri1247	the cow	COW	1007		puliki	puliki 
+131	31-3-24-1	75241736265863551	Gurindji	guri1247	the calf	CALF	1989		kaapikaapi	kaapikaapi 
+132	31-3-25-1	75241736699877978	Gurindji	guri1247	the sheep	SHEEP	1331		kartpiralang	kartpiralang 
+133	31-3-35-1	75241736866368354	Gurindji	guri1247	the pig	PIG	1337		pikipiki	pikipiki 
+134	31-3-36-1	75241736136310716	Gurindji	guri1247	the goat	GOAT	1502		kilpukut	kilpukut 
+135	31-3-41-1	75241736829782918	Gurindji	guri1247	the horse	HORSE	615		yawarta	yawarta 
+136	31-3-46-1	75241736894248187	Gurindji	guri1247	the donkey	DONKEY	1862		langajuwal	langajuwal 
+137	31-3-55-1	75241736163403598	Gurindji	guri1247	the chicken	CHICKEN	1318		kukkuk	kukkuk 
+138	31-3-57-1	75241736803062319	Gurindji	guri1247	the duck	DUCK	1360		jipilyuku	jipilyuku 
+139	31-3-58-1	75241736500379700	Gurindji	guri1247	the nest	NEST	539		juru	juru 
+140	31-3-581-1	75241736808996115	Gurindji	guri1247	the bird	BIRD	937		jurlak	jurlak 
+141	31-3-583-1	75241736589795229	Gurindji	guri1247	the heron	HERON	758		jalwa	jalwa 
+142	31-3-584-1	75241736227307208	Gurindji	guri1247	the eagle	EAGLE	1905		warlawurru	warlawurru 
+143	31-3-585-1	75241736156877336	Gurindji	guri1247	the hawk	HAWK	307		kalpun	kalpun 
+144	31-3-591-1	75241736687311490	Gurindji	guri1247	the bat	BAT	1793		parnkal	parnkal 
+145	31-3-591-2	75241737442568951	Gurindji	guri1247	the bat	BAT	1793		warrpawurru	warrpawurru 
+146	31-3-592-1	75241736782818047	Gurindji	guri1247	the parrot	PARROT	882		pangarra	pangarra 
+147	31-3-592-2	75241737608959828	Gurindji	guri1247	the parrot	PARROT	882		ngarnalang	ngarnalang 
+148	31-3-592-3	75241737193499499	Gurindji	guri1247	the parrot	PARROT	882		milnginymilnginy	milnginymilnginy 
+149	31-3-593-1	75241736862770244	Gurindji	guri1247	the crow	CROW	913		wangkuriny	wangkuriny 
+150	31-3-594-1	75241736682282729	Gurindji	guri1247	the dove	DOVE	1853		kuljara	kuljara 
+151	31-3-596-1	75241736218143487	Gurindji	guri1247	the owl	OWL	735		mukmuk	mukmuk 
+152	31-3-596-2	75241737982783847	Gurindji	guri1247	the owl	OWL	735		kuyarru	kuyarru 
+153	31-3-61-1	75241736978125023	Gurindji	guri1247	the dog	DOG	2009		warlaku	warlaku 
+154	31-3-614-1	75241736502970540	Gurindji	guri1247	the rabbit	RABBIT	1136		jangana	jangana 
+155	31-3-62-1	75241736659394931	Gurindji	guri1247	the cat	CAT	1208		minija	minija 
+156	31-3-622-1	75241736502970540	Gurindji	guri1247	the opossum	OPOSSUM	309		jangana	jangana 
+157	31-3-63-1	75241736599275003	Gurindji	guri1247	the mouse or rat	MUROID (MOUSE OR RAT)	2139		puwuny	puwuny 
+158	31-3-63-2	7524173757450296	Gurindji	guri1247	the mouse or rat	MUROID (MOUSE OR RAT)	2139		murrunkirn	murrunkirn 
+159	31-3-65-1	75241736474903428	Gurindji	guri1247	the fish	FISH	227		yawu	yawu 
+160	31-3-653-1	75241736852216891	Gurindji	guri1247	the scale	SCALE	266		nyili	nyili 
+161	31-3-655-1	75241736835665149	Gurindji	guri1247	the shell	SHELL	598		parnngirri	parnngirri 
+162	31-3-72-1	75241736174573614	Gurindji	guri1247	the lion	LION	1386		murlukurr	murlukurr 
+163	31-3-76-1	75241736161522603	Gurindji	guri1247	the monkey	MONKEY	1350		wutungarna	wutungarna 
+164	31-3-78-1	7524173676791449	Gurindji	guri1247	the camel	CAMEL	1871		yartupkarrawaji	yartupkarrawaji 
+165	31-3-811-1	75241736448377766	Gurindji	guri1247	the head louse	HEAD LOUSE	310		wutu	wutu 
+166	31-3-812-1	75241736395606493	Gurindji	guri1247	the nit	NIT	267		yingkuwarl	yingkuwarl 
+167	31-3-814-1	75241736355173990	Gurindji	guri1247	the centipede	CENTIPEDE	1974		lirrimi	lirrimi 
+168	31-3-815-1	7524173693487092	Gurindji	guri1247	the scorpion	SCORPION	1538		muntarla	muntarla 
+169	31-3-816-1	75241736394942706	Gurindji	guri1247	the cockroach	COCKROACH	1575		kumpirlang	kumpirlang 
+170	31-3-817-1	75241736595606092	Gurindji	guri1247	the ant	ANT	587		pingi	pingi 
+171	31-3-818-1	75241736673073388	Gurindji	guri1247	the spider	SPIDER	843		tarru	tarru 
+172	31-3-819-1	75241736857706634	Gurindji	guri1247	the spider web	SPIDER WEB	1065		karrata	karrata 
+173	31-3-82-1	75241736100343344	Gurindji	guri1247	the bee	BEE	665		nama	nama 
+174	31-3-821-1	75241736394867214	Gurindji	guri1247	the beeswax	BEESWAX	1931		tarla	tarla 
+175	31-3-822-1	75241736460253657	Gurindji	guri1247	the beehive	BEEHIVE	88		ngarlu	ngarlu 
+176	31-3-823-1	75241736478074564	Gurindji	guri1247	the wasp	WASP	1517		nganyanya	nganyanya 
+177	31-3-83-1	7524173694214859	Gurindji	guri1247	the fly	FLY (INSECT)	1504		walngirn	walngirn 
+178	31-3-832-1	75241736541620454	Gurindji	guri1247	the mosquito	MOSQUITO	1509		kirnali	kirnali 
+179	31-3-832-2	75241737421753875	Gurindji	guri1247	the mosquito	MOSQUITO	1509		kanamarrurru	kanamarrurru 
+180	31-3-85-1	75241736952007092	Gurindji	guri1247	the snake	SNAKE	730		kuljany	kuljany 
+181	31-3-91-1	75241736743047997	Gurindji	guri1247	the firefly	FIREFLY	206		kampangayi	kampangayi 
+182	31-3-92-1	75241736624734251	Gurindji	guri1247	the butterfly	BUTTERFLY	1791		malimali	malimali 
+183	31-3-93-1	75241736489663613	Gurindji	guri1247	the grasshopper	GRASSHOPPER	607		pirlpirlji	pirlpirlji 
+184	31-3-94-1	7524173615602680	Gurindji	guri1247	the snail	SNAIL	1543		jakiliny	jakiliny 
+185	31-3-95-1	75241736243065275	Gurindji	guri1247	the frog	FROG	503		ngalja	ngalja 
+186	31-3-96-1	75241736541204446	Gurindji	guri1247	the lizard	LIZARD	632		lungkura	lungkura 
+187	31-3-96-2	75241737172806609	Gurindji	guri1247	the lizard	LIZARD	632		kirrawa	kirrawa 
+188	31-3-97-1	75241736757751977	Gurindji	guri1247	the crocodile or alligator	CROCODILE	1857		warrija	warrija 
+189	31-3-98-1	75241736879372597	Gurindji	guri1247	the turtle	TURTLE	112		narrinyjila	narrinyjila 
+190	31-4-11-1	75241736343346852	Gurindji	guri1247	the body	BODY	1480		puya	puya 
+191	31-4-12-1	75241736253364635	Gurindji	guri1247	the skin or hide	SKIN	763		wajawurr	wajawurr 
+192	31-4-13-1	75241736719489532	Gurindji	guri1247	the flesh	FLESH	2259		niyan	niyan 
+193	31-4-14-1	75241737112888991	Gurindji	guri1247	the hair	HAIR (HEAD)	2648		kartpi	kartpi 
+194	31-4-142-1	75241736921537452	Gurindji	guri1247	the beard	BEARD	678		jika	jika 
+195	31-4-145-1	75241736193278614	Gurindji	guri1247	the pubic hair	PUBIC HAIR	36		ngurrurn	ngurrurn 
+196	31-4-146-1	75241736492051946	Gurindji	guri1247	the dandruff	DANDRUFF	576		yarrji	yarrji 
+197	31-4-15-1	75241736882287882	Gurindji	guri1247	the blood	BLOOD	946		kungulu	kungulu 
+198	31-4-151-1	7524173650814478	Gurindji	guri1247	the vein or artery	BLOOD VESSEL	525		kampun	kampun 
+199	31-4-16-1	75241736901937012	Gurindji	guri1247	the bone	BONE	1394		kuyuwarn	kuyuwarn 
+200	31-4-162-1	75241736266195747	Gurindji	guri1247	the rib	RIB	801		pirntiyi	pirntiyi 
+201	31-4-17-1	75241737747440310	Gurindji	guri1247	the horn	HORN (ANATOMY)	1393		wirnturru	wirnturru 
+202	31-4-18-1	75241736802983517	Gurindji	guri1247	the tail	TAIL	1220		jawut	jawut 
+203	31-4-19-1	75241736149644339	Gurindji	guri1247	the back	BACK	1291		parntawurru	parntawurru 
+204	31-4-191-1	75241736149644339	Gurindji	guri1247	the spine	SPINE	805		parntawurru	parntawurru 
+205	31-4-2-1	75241736771118456	Gurindji	guri1247	the head	HEAD	1256		ngarlaka	ngarlaka 
+206	31-4-203-1	75241736135296837	Gurindji	guri1247	the brain	BRAIN	1583		mikilyi	mikilyi 
+207	31-4-204-1	75241736431313560	Gurindji	guri1247	the face	FACE	1560		lungarn	lungarn 
+208	31-4-205-1	75241736431313560	Gurindji	guri1247	the forehead	FOREHEAD	123		lungarn	lungarn 
+209	31-4-207-1	7524173659285116	Gurindji	guri1247	the jaw	JAW	798		jakuwi	jakuwi 
+210	31-4-208-1	7524173659285116	Gurindji	guri1247	the cheek	CHEEK	1730		jakuwi	jakuwi 
+211	31-4-209-1	75241736447944964	Gurindji	guri1247	the chin	CHIN	1510		jangarnka	jangarnka 
+212	31-4-21-1	75241736260358459	Gurindji	guri1247	the eye	EYE	1248		mila	mila 
+213	31-4-212-1	75241736440817305	Gurindji	guri1247	the eyebrow	EYEBROW	1173		yimitjimitji	yimitjimitji 
+214	31-4-213-1	75241736247819357	Gurindji	guri1247	the eyelid	EYELID	17		miljangarriny	miljangarriny 
+215	31-4-214-1	75241736960155794	Gurindji	guri1247	the eyelash	EYELASH	1540		milyjangarriny	milyjangarriny 
+216	31-4-215-1	75241736221742447	Gurindji	guri1247	to blink	BLINK	1655		nyimij	nyimij 
+217	31-4-22-1	75241736948620239	Gurindji	guri1247	the ear	EAR	1247		langa	langa 
+218	31-4-222-1	7524173669770615	Gurindji	guri1247	the earwax	EARWAX	32		mankalinyan	mankalinyan 
+219	31-4-23-1	75241736540014876	Gurindji	guri1247	the nose	NOSE	1221		jitji	jitji 
+220	31-4-231-1	7524173613347420	Gurindji	guri1247	the nostril	NOSTRIL	1178		jitji jarriny	jitji jarriny 
+221	31-4-232-1	75241736395308939	Gurindji	guri1247	the nasal mucus	NASAL MUCUS (SNOT)	208		nyitjira	nyitjira 
+222	31-4-24-1	75241736290181378	Gurindji	guri1247	the mouth	MOUTH	674		lirra	lirra 
+223	31-4-241-1	75241736540014876	Gurindji	guri1247	the beak	BEAK	73		jitji	jitji 
+224	31-4-25-1	75241736132619632	Gurindji	guri1247	the lip	LIP	478		wanyput	wanyput 
+225	31-4-26-1	75241736667896210	Gurindji	guri1247	the tongue	TONGUE	1205		jalany	jalany 
+226	31-4-27-1	75241736290181378	Gurindji	guri1247	the tooth	TOOTH	1380		lirra	lirra 
+227	31-4-28-1	75241736466819109	Gurindji	guri1247	the neck	NECK	1333		ngirlkirri	ngirlkirri 
+228	31-4-281-1	75241736899229398	Gurindji	guri1247	the nape of the neck	NAPE (OF NECK)	1347		jikirtikirti	jikirtikirti 
+229	31-4-29-1	75241736466819109	Gurindji	guri1247	the throat	THROAT	1346		ngirlkirri	ngirlkirri 
+230	31-4-3-1	75241736157751381	Gurindji	guri1247	the shoulder	SHOULDER	1482		laja	laja 
+231	31-4-301-1	75241736691036484	Gurindji	guri1247	the shoulderblade	SHOULDERBLADE	172		laparn	laparn 
+232	31-4-302-1	75241736498057731	Gurindji	guri1247	the collarbone	COLLARBONE	1994		warting	warting 
+233	31-4-31-1	752417363695951	Gurindji	guri1247	the arm	ARM	1673		wartarn	wartarn 
+234	31-4-312-1	75241736601905700	Gurindji	guri1247	the armpit	ARMPIT	1886		karrwi	karrwi 
+235	31-4-32-1	75241736954987055	Gurindji	guri1247	the elbow	ELBOW	981		nungkuru	nungkuru 
+236	31-4-321-1	75241736156383769	Gurindji	guri1247	the wrist	WRIST	799		kajurta	kajurta 
+237	31-4-33-1	752417363695951	Gurindji	guri1247	the hand	HAND	1277		wartarn	wartarn 
+238	31-4-331-1	75241736767028548	Gurindji	guri1247	the palm of the hand	PALM OF HAND	1183		wartarn majul	wartarn majul 
+239	31-4-34-1	75241736963516661	Gurindji	guri1247	the finger	FINGER	1303		wartarn nanta	wartarn nanta 
+240	31-4-342-1	75241736373128820	Gurindji	guri1247	the thumb	THUMB	1781		wartarn ngamayi	wartarn ngamayi 
+241	31-4-344-1	75241736992864460	Gurindji	guri1247	the fingernail	FINGERNAIL	1258		lipi	lipi 
+242	31-4-345-1	75241736992864460	Gurindji	guri1247	the claw	CLAW	72		lipi	lipi 
+243	31-4-35-1	75241737576851763	Gurindji	guri1247	the leg	LEG	1297		jamana	jamana 
+244	31-4-351-1	75241736684756506	Gurindji	guri1247	the thigh	THIGH	800		kala	kala 
+245	31-4-352-1	75241736164765379	Gurindji	guri1247	the calf of the leg	CALF OF LEG	498		kurtpu	kurtpu 
+246	31-4-36-1	75241736206812261	Gurindji	guri1247	the knee	KNEE	1371		tingarri	tingarri 
+247	31-4-37-1	75241737576851763	Gurindji	guri1247	the foot	FOOT	1301		jamana	jamana 
+248	31-4-371-1	75241736480429028	Gurindji	guri1247	the ankle	ANKLE	803		tari	tari 
+249	31-4-372-1	75241736197516655	Gurindji	guri1247	the heel	HEEL	980		luju	luju 
+250	31-4-374-1	75241737576851763	Gurindji	guri1247	the footprint	FOOTPRINT	318		jamana	jamana 
+251	31-4-38-1	75241736728655446	Gurindji	guri1247	the toe	TOE	1389		jamana ngamayi	jamana ngamayi 
+252	31-4-392-1	7524173633901982	Gurindji	guri1247	the wing	WING	1257		pinkirr	pinkirr 
+253	31-4-393-1	7524173633901982	Gurindji	guri1247	the feather	FEATHER	1201		pinkirr	pinkirr 
+254	31-4-4-1	75241736714524416	Gurindji	guri1247	the chest	CHEST	1592		mangali	mangali 
+255	31-4-41-1	75241736731804996	Gurindji	guri1247	the breast	BREAST	1402		ngapurlu	ngapurlu 
+256	31-4-412-1	75241737972268729	Gurindji	guri1247	the nipple or teat	NIPPLE	796		timpi	timpi 
+257	31-4-42-1	75241736731804996	Gurindji	guri1247	the udder	UDDER	154		ngapurlu	ngapurlu 
+258	31-4-43-1	75241736154041609	Gurindji	guri1247	the navel	NAVEL	1838		jurlu	jurlu 
+259	31-4-44-1	75241736192005291	Gurindji	guri1247	the heart	HEART	1223		tulang	tulang 
+260	31-4-441-1	75241736516113503	Gurindji	guri1247	the lung	LUNG	688		yaya	yaya 
+261	31-4-45-1	75241736315524953	Gurindji	guri1247	the liver	LIVER	1224		malumpa	malumpa 
+262	31-4-451-1	75241736267778308	Gurindji	guri1247	the kidney	KIDNEY	489		jiminkirt	jiminkirt 
+263	31-4-46-1	75241736105199814	Gurindji	guri1247	the stomach	STOMACH	819		majul	majul 
+264	31-4-461-1	75241736809334013	Gurindji	guri1247	the intestines or guts	INTESTINES	1991		lupu	lupu 
+265	31-4-463-1	75241736739238212	Gurindji	guri1247	the hip	HIP	1745		larnti	larnti 
+266	31-4-464-1	75241736990288972	Gurindji	guri1247	the buttocks	BUTTOCKS	834		maru	maru 
+267	31-4-47-1	75241736272474115	Gurindji	guri1247	the womb	WOMB	804		warlapan	warlapan 
+268	31-4-49-1	75241736425929609	Gurindji	guri1247	the testicles	TESTICLES	797		ngirlngirl	ngirlngirl 
+269	31-4-492-1	75241736491051278	Gurindji	guri1247	the penis	PENIS	1222		lumpa	lumpa 
+270	31-4-51-1	75241736163610839	Gurindji	guri1247	to breathe	BREATHE	1407		ngayirrp ma-	ngayirrp ma- 
+271	31-4-52-1	75241736229508988	Gurindji	guri1247	to yawn	YAWN	1028		jaakip ma-	jaakip ma- 
+272	31-4-521-1	75241736429616632	Gurindji	guri1247	to hiccough	HICCOUGH	162		ringakap ma-	ringakap ma- 
+273	31-4-53-1	75241736110142726	Gurindji	guri1247	to cough	COUGH	879		kulyurrk ma-	kulyurrk ma- 
+274	31-4-54-1	75241736535160993	Gurindji	guri1247	to sneeze	SNEEZE	1621		ngajirrp ma-	ngajirrp ma- 
+275	31-4-55-1	75241736908823632	Gurindji	guri1247	to perspire	SWEAT (PERSPIRE)	126		jilngit ya-	jilngit ya- 
+276	31-4-56-1	7524173652526712	Gurindji	guri1247	to spit	SPIT	1440		jupak yuwa-	jupak yuwa- 
+277	31-4-57-1	75241736686900210	Gurindji	guri1247	to vomit	VOMIT	1278		kurlpak yuwa-	kurlpak yuwa- 
+278	31-4-58-1	75241736603666048	Gurindji	guri1247	to bite	BITE	1403		paya-	paya- 
+279	31-4-59-1	75241736804647882	Gurindji	guri1247	to lick	LICK	319		ngalyak paya-	ngalyak paya- 
+280	31-4-591-1	75241736322056855	Gurindji	guri1247	to dribble	DRIBBLE	268		jawul walywalyarra karri-	jawul walywalyarra karri- 
+281	31-4-61-1	75241736444541407	Gurindji	guri1247	to sleep	SLEEP	1585		makin karri-	makin karri- 
+282	31-4-612-1	75241736202803403	Gurindji	guri1247	to snore	SNORE	1983		purrngip ma-	purrngip ma- 
+283	31-4-62-1	75241736238012528	Gurindji	guri1247	to dream	DREAM (SOMETHING)	1920		kuni ma-	kuni ma- 
+284	31-4-63-1	75241736585740593	Gurindji	guri1247	to wake up	WAKE UP	1602		tuliny ya-	tuliny ya- 
+285	31-4-64-1	75241736185896121	Gurindji	guri1247	to fart	FART	1159		tirrirn ngaya-	tirrirn ngaya- 
+286	31-4-65-1	75241736172401445	Gurindji	guri1247	to piss	PISS	592		kumpu ngaya-	kumpu ngaya- 
+287	31-4-66-1	7524173643382607	Gurindji	guri1247	to shit	SHIT (DEFECATE)	676		kura ngaya-	kura ngaya- 
+288	31-4-67-1	752417367576019	Gurindji	guri1247	to have sex	HAVE SEX	1785		kupuk nga-	kupuk nga- 
+289	31-4-68-1	75241736156593735	Gurindji	guri1247	to shiver	SHIVER	52		tarlarlap karri-	tarlarlap karri- 
+290	31-4-69-1	75241736477231634	Gurindji	guri1247	to bathe	BATHE	138		taruk wani-	taruk wani- 
+291	31-4-71-1	75241736309450812	Gurindji	guri1247	to beget	BEGET	1152		paraj pu-	paraj pu- 
+292	31-4-72-1	75241736620729530	Gurindji	guri1247	to be born	BE BORN	1090		paraj wani-	paraj wani- 
+293	31-4-73-1	75241736966854546	Gurindji	guri1247	pregnant	PREGNANT	1123		ngarturr	ngarturr 
+294	31-4-74-1	75241736484204794	Gurindji	guri1247	to be alive	BE ALIVE	1422		wanji	wanji 
+295	31-4-75-1	75241736458429031	Gurindji	guri1247	to die	DIE	1494		tampang	tampang 
+296	31-4-751-1	75241736197166766	Gurindji	guri1247	to drown	DROWN	1904		nyiny nga-	nyiny nga- 
+297	31-4-76-1	75241736288084231	Gurindji	guri1247	to kill	KILL	1417		tampang pa-	tampang pa- 
+298	31-4-77-1	7524173613375439	Gurindji	guri1247	the corpse	CORPSE	767		linyjarr	linyjarr 
+299	31-4-78-1	75241736294450872	Gurindji	guri1247	to bury	BURY	1719		jipij yuwa-	jipij yuwa- 
+300	31-4-79-1	75241736216214604	Gurindji	guri1247	the grave	GRAVE	1773		nakurr	nakurr 
+301	31-4-81-1	75241737479985936	Gurindji	guri1247	strong	STRONG	785		patawarn	patawarn 
+302	31-4-82-1	75241737512626655	Gurindji	guri1247	weak	WEAK	1601		marlurlumpurr karri-	marlurlumpurr karri- 
+303	31-4-83-1	75241737443713031	Gurindji	guri1247	healthy	HEALTHY	1364		yalpuyalpu karri-	yalpuyalpu karri- 
+304	31-4-84-1	75241737580688586	Gurindji	guri1247	sick/ill	SICK	1847		janga	janga 
+305	31-4-841-1	75241737846228456	Gurindji	guri1247	the fever	FEVER	1534		makurrmakurr	makurrmakurr 
+306	31-4-843-1	75241737376585679	Gurindji	guri1247	the cold	COMMON COLD (DISEASE)	102		kulyurr	kulyurr 
+307	31-4-85-1	75241737580688586	Gurindji	guri1247	the wound or sore	WOUND	1109		janga	janga 
+308	31-4-853-1	75241737436453054	Gurindji	guri1247	the swelling	SWELLING	1903		rumpa	rumpa 
+309	31-4-854-1	75241737183886386	Gurindji	guri1247	the itch	ITCH	148		jalya	jalya 
+310	31-4-855-1	75241737369606588	Gurindji	guri1247	the blister	BLISTER	1584		kira	kira 
+311	31-4-856-1	75241737652290632	Gurindji	guri1247	the boil	BOIL (OF SKIN)	793		karlapa	karlapa 
+312	31-4-857-1	75241737513915754	Gurindji	guri1247	the pus	PUS	1808		puka	puka 
+313	31-4-858-1	75241737303665741	Gurindji	guri1247	the scar	SCAR	497		paturu	paturu 
+314	31-4-87-1	75241737774865884	Gurindji	guri1247	the physician	PHYSICIAN	597		nyangu-nyangu	nyangu-nyangu 
+315	31-4-88-1	75241737552210653	Gurindji	guri1247	the medicine	MEDICINE	1372		mirrijin	mirrijin 
+316	31-4-89-1	75241737214213753	Gurindji	guri1247	the poison	POISON	655		mawuya	mawuya 
+317	31-4-91-1	75241737504828264	Gurindji	guri1247	tired	TIRED	1757		purrku	purrku 
+318	31-4-912-1	75241737612633552	Gurindji	guri1247	to rest	REST	168		yawarra	yawarra 
+319	31-4-92-1	75241737240874587	Gurindji	guri1247	lazy	LAZY	1564		pujarl	pujarl 
+320	31-4-93-1	75241737588866976	Gurindji	guri1247	bald	BALD	1125		papulwari	papulwari 
+321	31-4-94-1	7524173735573116	Gurindji	guri1247	lame	LAME	320		martilyi	martilyi 
+322	31-4-95-1	75241737237420745	Gurindji	guri1247	deaf	DEAF	996		wila	wila 
+323	31-4-96-1	75241737928940450	Gurindji	guri1247	mute	MUTE	1666		marnumulung	marnumulung 
+324	31-4-97-1	75241737310964485	Gurindji	guri1247	blind	BLIND	1653		kamamurru	kamamurru 
+325	31-4-98-1	75241737842428316	Gurindji	guri1247	drunk	DRUNK	1463		ngawanginyi	ngawanginyi 
+326	31-4-99-1	75241737749945823	Gurindji	guri1247	naked	NAKED	590		wijparlarra	wijparlarra 
+327	31-5-11-1	75241737231037626	Gurindji	guri1247	to eat	EAT	1336		jaartkarra nga-	jaartkarra nga- 
+328	31-5-12-1	75241737278197321	Gurindji	guri1247	the food	FOOD	256		mangarri	mangarri 
+329	31-5-121-1	7524173796457083	Gurindji	guri1247	cooked	COOKED	269		jiwirri	jiwirri 
+330	31-5-122-1	75241737353445752	Gurindji	guri1247	raw	RAW	1959		kurnka	kurnka 
+331	31-5-123-1	7524173796457083	Gurindji	guri1247	ripe	RIPE	178		jiwirri	jiwirri 
+332	31-5-124-1	75241737353445752	Gurindji	guri1247	unripe	UNRIPE	1958		kurnka	kurnka 
+333	31-5-125-1	75241737513915754	Gurindji	guri1247	rotten	ROTTEN	1728		puka	puka 
+334	31-5-13-1	75241737906074083	Gurindji	guri1247	to drink	DRINK	1401		kukij paya-	kukij paya- 
+335	31-5-14-1	75241737971313794	Gurindji	guri1247	to be hungry	BE HUNGRY	1533		nunykuwarra	nunykuwarra 
+336	31-5-15-1	75241737743849386	Gurindji	guri1247	to be thirsty	THIRSTY	847		kurranyku	kurranyku 
+337	31-5-16-1	75241737817334026	Gurindji	guri1247	to suck	SUCK	1421		nyuk paya-	nyuk paya- 
+338	31-5-18-1	75241737218819209	Gurindji	guri1247	to chew	CHEW	321		ngulynguly paya-	ngulynguly paya- 
+339	31-5-181-1	75241737713799445	Gurindji	guri1247	to swallow	SWALLOW	897		ngirljik nga-	ngirljik nga- 
+340	31-5-19-1	75241737294523310	Gurindji	guri1247	to choke	CHOKE	129		kartaj ma-	kartaj ma- 
+341	31-5-21-1	75241737691916022	Gurindji	guri1247	to cook	COOK (SOMETHING)	1100		kampa-	kampa- 
+342	31-5-22-1	75241737900983834	Gurindji	guri1247	to boil	BOIL (OF LIQUID)	792		purrngpurrngkarra karri-	purrngpurrngkarra karri- 
+343	31-5-23-1	75241737486093735	Gurindji	guri1247	to roast or fry	ROAST OR FRY	2146		wupkarra kampa-	wupkarra kampa- 
+344	31-5-24-1	75241737691916022	Gurindji	guri1247	to bake	BAKE	183		kampa-	kampa- 
+345	31-5-25-1	75241737334401013	Gurindji	guri1247	the oven	OVEN	1143		kurrku	kurrku 
+346	31-5-26-1	75241737938782198	Gurindji	guri1247	the pot	POT	1462		kartak	kartak 
+347	31-5-27-1	75241737938782198	Gurindji	guri1247	the kettle	KETTLE	854		kartak	kartak 
+348	31-5-32-1	75241737794800334	Gurindji	guri1247	the plate	PLATE	480		pilayit	pilayit 
+349	31-5-35-1	75241737938782198	Gurindji	guri1247	the cup	CUP	476		kartak	kartak 
+350	31-5-37-1	75241737934790031	Gurindji	guri1247	the spoon	SPOON	1378		lurlupkarraaji	lurlupkarraaji 
+351	31-5-38-1	75241737706417311	Gurindji	guri1247	the knife(1)	KNIFE (FOR EATING)	3210		japirri	japirri 
+352	31-5-41-1	75241737883481937	Gurindji	guri1247	the meal	MEAL	1526		tanku	tanku 
+353	31-5-42-1	75241737784052020	Gurindji	guri1247	the breakfast	BREAKFAST	1322		kurrjalp	kurrjalp 
+354	31-5-43-1	75241737603848812	Gurindji	guri1247	the lunch	LUNCH	768		tina	tina 
+355	31-5-44-1	75241737603848812	Gurindji	guri1247	the dinner	DINNER (SUPPER)	1833		tina	tina 
+356	31-5-45-1	75241737727720494	Gurindji	guri1247	the supper	DINNER (SUPPER)	1833		japa	japa 
+357	31-5-46-1	75241737797210756	Gurindji	guri1247	to peel	PEEL	275		mirlij pa-	mirlij pa- 
+358	31-5-48-1	752417373589916	Gurindji	guri1247	to scrape	SCRAPE	1767		wirnarrk ma-	wirnarrk ma- 
+359	31-5-49-1	75241737446476008	Gurindji	guri1247	to stir or to mix	MIX	2017		parlak yuwa-	parlak yuwa- 
+360	31-5-51-1	75241737278197321	Gurindji	guri1247	the bread	BREAD	1368		mangarri	mangarri 
+361	31-5-53-1	75241737890608984	Gurindji	guri1247	the dough	DOUGH	273		ngamayak	ngamayak 
+362	31-5-54-1	75241737781897191	Gurindji	guri1247	to knead	KNEAD	274		jalajkarra ma-	jalajkarra ma- 
+363	31-5-55-1	75241737278197321	Gurindji	guri1247	the flour	FLOUR	1594		mangarri	mangarri 
+364	31-5-56-1	75241737346870162	Gurindji	guri1247	to crush or to grind	GRIND	1033		jama-	jama- 
+365	31-5-58-1	75241737883504497	Gurindji	guri1247	the mortar(1)	MORTAR CRUSHER	224		jikurnu	jikurnu 
+366	31-5-59-1	75241737547439431	Gurindji	guri1247	the pestle	PESTLE	225		marang	marang 
+367	31-5-61-1	75241736271133252	Gurindji	guri1247	the meat	MEAT	634		ngarin	ngarin 
+368	31-5-63-1	75241737636725606	Gurindji	guri1247	the sausage	SAUSAGE	1874		jarrarrwuluk	jarrarrwuluk 
+369	31-5-64-1	75241737406309122	Gurindji	guri1247	the soup	SOUP	1547		yingalk	yingalk 
+370	31-5-65-1	75241737278197321	Gurindji	guri1247	the vegetables	VEGETABLES	924		mangarri	mangarri 
+371	31-5-7-1	75241737782413552	Gurindji	guri1247	the potato	POTATO	593		pikurta	pikurta 
+372	31-5-71-1	75241737278197321	Gurindji	guri1247	the fruit	FRUIT	1507		mangarri	mangarri 
+373	31-5-712-1	7524173781821154	Gurindji	guri1247	the bunch	BUNCH	1966		kulpap karri-	kulpap karri- 
+374	31-5-75-1	75241737632878061	Gurindji	guri1247	the fig	FIG	322		nampula	nampula 
+375	31-5-77-1	75241737972268729	Gurindji	guri1247	the nut	NUT	191		timpi	timpi 
+376	31-5-79-1	75241737895900941	Gurindji	guri1247	the oil	OIL (ORGANIC SUBSTANCE)	1484		wararr	wararr 
+377	31-5-791-1	75241737895900941	Gurindji	guri1247	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		wararr	wararr 
+378	31-5-81-1	75241737830890545	Gurindji	guri1247	the salt	SALT	1274		karang	karang 
+379	31-5-82-1	7524173798106013	Gurindji	guri1247	the pepper	PEPPER	1385		pipa	pipa 
+380	31-5-84-1	75241736460253657	Gurindji	guri1247	the honey	HONEY	942		ngarlu	ngarlu 
+381	31-5-85-1	75241737242646448	Gurindji	guri1247	the sugar	SUGAR	862		warrayal	warrayal 
+382	31-5-86-1	75241736731804996	Gurindji	guri1247	the milk	MILK	635		ngapurlu	ngapurlu 
+383	31-5-87-1	75241737992961187	Gurindji	guri1247	to milk	DRAW MILK	93		julymip ma-	julymip ma- 
+384	31-5-89-1	75241737895900941	Gurindji	guri1247	the butter	BUTTER	1245		wararr	wararr 
+385	31-5-9-1	75241736234785528	Gurindji	guri1247	the drink	BEVERAGE	731		ngawa	ngawa 
+386	31-5-93-1	75241737796265265	Gurindji	guri1247	the beer	BEER	1639		mirlarrang	mirlarrang 
+387	31-5-94-1	75241736234785528	Gurindji	guri1247	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		ngawa	ngawa 
+388	31-5-97-1	75241737117996466	Gurindji	guri1247	the egg	EGG	744		kampij	kampij 
+389	31-5-971-1	75241737560850212	Gurindji	guri1247	the yolk	YOLK	1556		karrikurn	karrikurn 
+390	31-6-11-1	75241737453979737	Gurindji	guri1247	to put on	PUT ON	158		wirriman yuwa-	wirriman yuwa- 
+391	31-6-12-1	75241737422152783	Gurindji	guri1247	the clothing or clothes	CLOTHES	1895		wapaapa	wapaapa 
+392	31-6-13-1	7524173779910283	Gurindji	guri1247	the tailor	TAILOR	881		mintimkaji	mintimkaji 
+393	31-6-21-1	75241737654950573	Gurindji	guri1247	the cloth	CLOTH	1616		yurnun	yurnun 
+394	31-6-28-1	75241737112888991	Gurindji	guri1247	the fur	FUR	580		kartpi	kartpi 
+395	31-6-29-1	75241736253364635	Gurindji	guri1247	the leather	LEATHER	629		wajawurr	wajawurr 
+396	31-6-31-1	75241737512149272	Gurindji	guri1247	to spin	SPIN	121		wamip pa-	wamip pa- 
+397	31-6-32-1	75241737189797645	Gurindji	guri1247	the spindle	SPINDLE	277		mankurru	mankurru 
+398	31-6-35-1	75241737401902722	Gurindji	guri1247	to sew	SEW	1457		mintim ma-	mintim ma- 
+399	31-6-36-1	75241737335849126	Gurindji	guri1247	the needle(1)	NEEDLE (FOR SEWING)	1382		niil	niil 
+400	31-7-37-1	75241737966869506	Gurindji	guri1247	the ladder	LADDER	1464		tankuj	tankuj 
+401	31-6-42-1	75241737436784168	Gurindji	guri1247	the (woman's) dress	DRESS	474		warrpa	warrpa 
+402	31-6-43-1	75241737778447958	Gurindji	guri1247	the coat	COAT	603		lunkurrngarna	lunkurrngarna 
+403	31-6-44-1	75241737778447958	Gurindji	guri1247	the shirt	SHIRT	1622		lunkurrngarna	lunkurrngarna 
+404	31-6-48-1	75241737772451345	Gurindji	guri1247	the trousers	TROUSERS	809		jurrulungku	jurrulungku 
+405	31-6-51-1	75241737576851763	Gurindji	guri1247	the shoe	SHOE	1381		jamana	jamana 
+406	31-6-52-1	75241737576851763	Gurindji	guri1247	the boot	BOOT	585		jamana	jamana 
+407	31-6-55-1	75241737177986535	Gurindji	guri1247	the hat or cap	HEADGEAR	2130		murrkartu	murrkartu 
+408	31-6-57-1	7524173782577360	Gurindji	guri1247	the belt	BELT	772		wirriji	wirriji 
+409	31-6-59-1	75241737650228007	Gurindji	guri1247	the veil	VEIL	1151		wurruny	wurruny 
+410	31-6-61-1	75241737211892584	Gurindji	guri1247	the pocket	POCKET	1851		nunpa	nunpa 
+411	31-6-71-1	75241736154714088	Gurindji	guri1247	the ornament or adornment	ORNAMENT	917		kiki	kiki 
+412	31-6-74-1	752417376676170	Gurindji	guri1247	the bracelet	BRACELET	1754		taman	taman 
+413	31-6-78-1	75241737222030581	Gurindji	guri1247	the headband or headdress	HEADBAND	330		tartij	tartij 
+414	31-6-92-1	75241737567818494	Gurindji	guri1247	the brush	BRUSH	1821		purrjarn	purrjarn 
+415	31-6-921-1	75241737202824927	Gurindji	guri1247	the plait/braid	BRAID	1043		pijina	pijina 
+416	31-6-95-1	75241737485147229	Gurindji	guri1247	the soap	SOAP	788		nyumurli	nyumurli 
+417	31-7-11-1	75241737625191556	Gurindji	guri1247	to live	DWELL (LIVE, RESIDE)	363		karri-	karri- 
+418	31-7-12-1	75241737731673476	Gurindji	guri1247	the house	HOUSE	1252		marru	marru 
+419	31-7-13-1	7524173747358116	Gurindji	guri1247	the hut	HUT	1678		mangkaya	mangkaya 
+420	31-7-16-1	75241737198968719	Gurindji	guri1247	the men's house	MEN'S HOUSE	408		maralyi	maralyi 
+421	31-7-18-1	7524173721792953	Gurindji	guri1247	the meeting house	MEETING HOUSE	335		kurrmari	kurrmari 
+422	31-7-22-1	75241737945678668	Gurindji	guri1247	the door or gate	DOOR	1567		jawitiwiti	jawitiwiti 
+423	31-7-31-1	75241737796027913	Gurindji	guri1247	the fireplace	FIREPLACE	185		warluwaji	warluwaji 
+424	31-7-42-1	75241737253004995	Gurindji	guri1247	the bed	BED	1663		pang	pang 
+425	31-7-421-1	75241737185084716	Gurindji	guri1247	the pillow	PILLOW	1044		tuwarrji	tuwarrji 
+426	31-7-422-1	75241737415251665	Gurindji	guri1247	the blanket	BLANKET	806		palkin	palkin 
+427	31-7-43-1	75241737650899732	Gurindji	guri1247	the chair	CHAIR	1476		lurluwaji	lurluwaji 
+428	31-7-45-1	75241736145077669	Gurindji	guri1247	the lamp or torch	TORCH OR LAMP	2131		ngunti	ngunti 
+429	31-7-51-1	75241737909782928	Gurindji	guri1247	the roof	ROOF	769		kantata	kantata 
+430	31-8-12-1	752417361284703	Gurindji	guri1247	the field	FIELD	212		patik	patik 
+431	31-8-16-1	752417361284703	Gurindji	guri1247	the fence	FENCE	1690		patik	patik 
+432	31-8-22-1	75241737705985200	Gurindji	guri1247	to dig	DIG	1418		kurrijkarra pu-	kurrijkarra pu- 
+433	31-8-311-1	75241737972268729	Gurindji	guri1247	the seed	SEED	714		timpi	timpi 
+434	31-8-42-1	75241737218350588	Gurindji	guri1247	the grain	GRAIN	605		mangurlu	mangurlu 
+435	31-8-51-1	7524173737603288	Gurindji	guri1247	the grass	GRASS	606		yuka	yuka 
+436	31-8-54-1	75241737747440310	Gurindji	guri1247	the root	ROOT	670		wirnturru	wirnturru 
+437	31-8-55-1	75241737612438503	Gurindji	guri1247	the branch	BRANCH OR TWIG	3223		jalyi	jalyi 
+438	31-8-56-1	75241737612438503	Gurindji	guri1247	the leaf	LEAF	628		jalyi	jalyi 
+439	31-8-57-1	75241737543565054	Gurindji	guri1247	the flower	FLOWER	239		yirna	yirna 
+440	31-8-6-1	75241736879077966	Gurindji	guri1247	the tree	TREE	906		karnti	karnti 
+441	31-8-67-1	75241737463461455	Gurindji	guri1247	the vine	VINE	343		warampurr	warampurr 
+442	31-8-68-1	75241737665249343	Gurindji	guri1247	the tobacco	TOBACCO	974		ngunyju	ngunyju 
+443	31-8-69-1	75241737973642853	Gurindji	guri1247	to smoke	SMOKE (INHALE)	1689		lujkarra nga-	lujkarra nga- 
+444	31-8-691-1	7524173716445861	Gurindji	guri1247	the pipe	PIPE	1124		lujkarraaji	lujkarraaji 
+445	31-8-73-1	75241737904797947	Gurindji	guri1247	the tree trunk	TREE TRUNK	344		marna	marna 
+446	31-8-74-1	75241737860706583	Gurindji	guri1247	the forked branch	FORKED BRANCH	409		jarra	jarra 
+447	31-8-75-1	75241737722515859	Gurindji	guri1247	the bark	BARK	1204		parnnga	parnnga 
+448	31-8-76-1	75241737704885098	Gurindji	guri1247	the sap	SAP	345		tinung	tinung 
+449	31-8-81-1	75241737465474062	Gurindji	guri1247	the palm tree	PALM TREE	1181		kajkuru	kajkuru 
+450	31-8-83-1	7524173728470922	Gurindji	guri1247	the citrus fruit	CITRUS FRUIT	1126		kurlartarti	kurlartarti 
+451	31-8-84-1	75241737655669534	Gurindji	guri1247	the banana	BANANA	868		panana	panana 
+452	31-8-91-1	75241737782413552	Gurindji	guri1247	the sweet potato	SWEET POTATO	159		pikurta	pikurta 
+453	31-8-912-1	75241737782413552	Gurindji	guri1247	the yam	YAM	410		pikurta	pikurta 
+454	31-8-94-1	7524173723618120	Gurindji	guri1247	the bamboo	BAMBOO	1927		rawurru	rawurru 
+455	31-8-96-1	75241737967621982	Gurindji	guri1247	the fish poison	FISH POISON	348		manyingila	manyingila 
+456	31-8-98-1	75241737901750575	Gurindji	guri1247	the mushroom	MUSHROOM	641		jarnpirta	jarnpirta 
+457	31-9-11-1	75241737652436513	Gurindji	guri1247	to do	DO	813		karri- with LOCATVE	karri- with LOCATVE 
+458	31-9-12-1	75241737461586619	Gurindji	guri1247	the work	WORK (LABOUR)	984		waruk	waruk 
+459	31-9-14-1	75241737146337103	Gurindji	guri1247	to bend	BEND	2004		kirturlk ma-	kirturlk ma- 
+460	31-9-15-1	75241737612278074	Gurindji	guri1247	to fold	FOLD	1470		nurlunurlu yuwa-	nurlunurlu yuwa- 
+461	31-9-16-1	75241737748775636	Gurindji	guri1247	to tie	TIE	1917		tipit ma-	tipit ma- 
+462	31-9-161-1	75241737226627289	Gurindji	guri1247	to untie	UNTIE	352		jurlal yuwa-	jurlal yuwa- 
+463	31-9-19-1	75241737838514068	Gurindji	guri1247	the rope	ROPE	1218		muntiri	muntiri 
+464	31-9-192-1	75241737478410618	Gurindji	guri1247	the knot	KNOT	760		mijirrk	mijirrk 
+465	31-9-21-1	75241737394881816	Gurindji	guri1247	to strike or hit or beat	STRIKE OR BEAT	2133		pa-	pa- 
+466	31-9-211-1	75241737724624600	Gurindji	guri1247	to pound	POUND	354		tarl pa-	tarl pa- 
+467	31-9-22-1	75241737214618363	Gurindji	guri1247	to cut	CUT	1432		kataj pa-	kataj pa- 
+468	31-9-223-1	75241737527364546	Gurindji	guri1247	to stab	STAB TO DEATH	3189		turrp pu-	turrp pu- 
+469	31-9-23-1	75241737706417311	Gurindji	guri1247	the knife(2)	KNIFE	1352		japirri	japirri 
+470	31-9-25-1	75241737347547923	Gurindji	guri1247	the axe/ax	AXE	677		wirlka	wirlka 
+471	31-9-251-1	75241737220412616	Gurindji	guri1247	the adze	ADZE	290		paki-paki	paki-paki 
+472	31-9-26-1	75241737880972388	Gurindji	guri1247	to break	BREAK (DESTROY OR GET DESTROYED)	680		pakirr pa-	pakirr pa- 
+473	31-9-261-1	75241737168260402	Gurindji	guri1247	broken	BROKEN (NOT WORKING)	3190		jilmungpari	jilmungpari 
+474	31-9-27-1	75241737449859330	Gurindji	guri1247	to split	SPLIT	1437		lak pa-	lak pa- 
+475	31-9-28-1	75241737481202338	Gurindji	guri1247	to tear	TEAR (SHRED)	1735		jirrip pa-	jirrip pa- 
+476	31-9-29-1	75241737797210756	Gurindji	guri1247	to skin	PULL OFF (SKIN)	291		mirlij pa-	mirlij pa- 
+477	31-9-31-1	75241737851117198	Gurindji	guri1247	to rub	RUB	1449		yurr ma-	yurr ma- 
+478	31-9-32-1	75241737163337941	Gurindji	guri1247	to stretch	STRETCH	214		wuyi ma-	wuyi ma- 
+479	31-9-33-1	75241737113466550	Gurindji	guri1247	to pull	PULL	1455		yirr ma-	yirr ma- 
+480	31-9-34-1	75241737388852370	Gurindji	guri1247	to spread out	SPREAD OUT	38		palkin yuwa-	palkin yuwa- 
+481	31-9-341-1	75241737784273638	Gurindji	guri1247	to hang up	HANG UP	357		talwirr yuwa-	talwirr yuwa- 
+482	31-9-342-1	75241737653411072	Gurindji	guri1247	to press	PRESS	1913		nut papa-	nut papa- 
+483	31-9-343-1	7524173738273818	Gurindji	guri1247	to squeeze	SQUEEZE	1414		july ma-	july ma- 
+484	31-9-35-1	75241737332957344	Gurindji	guri1247	to pour	POUR	1487		julurl wuya-	julurl wuya- 
+485	31-9-36-1	75241737979167277	Gurindji	guri1247	to wash	WASH	1453		wulyuk ma-	wulyuk ma- 
+486	31-9-37-1	752417373589916	Gurindji	guri1247	to sweep	SWEEP	230		wirnarrk ma-	wirnarrk ma- 
+487	31-9-44-1	75241737651651986	Gurindji	guri1247	to build	BUILD	1840		pirrka ma-	pirrka ma- 
+488	31-9-46-1	75241737825612036	Gurindji	guri1247	to bore	BORE	1501		tampurr ma-	tampurr ma- 
+489	31-9-461-1	75241737620602319	Gurindji	guri1247	to hollow out	HOLLOW OUT	46		jarriny pirrka ma-	jarriny pirrka ma- 
+490	31-9-56-1	75241737552790134	Gurindji	guri1247	the glue	GLUE	1069		jikala	jikala 
+491	31-9-6-1	75241737611368260	Gurindji	guri1247	the blacksmith	BLACKSMITH	1001		tartajkarraaji	tartajkarraaji 
+492	31-9-73-1	75241737199840989	Gurindji	guri1247	the clay	CLAY	1399		yatu	yatu 
+493	31-9-74-1	75241737307727386	Gurindji	guri1247	the glass	GLASS	604		murlukurn	murlukurn 
+494	31-9-75-1	75241737886351938	Gurindji	guri1247	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		wamip ma-	wamip ma- 
+495	31-9-78-1	75241737933398381	Gurindji	guri1247	the netbag	NETBAG	293		wananga	wananga 
+496	31-9-791-1	7524173722072853	Gurindji	guri1247	to fan	FAN ACTION	360		wup pa-	wup pa- 
+497	31-9-81-1	75241737995779660	Gurindji	guri1247	to carve	CARVE	228		yinka-	yinka- 
+498	31-9-84-1	75241737662309316	Gurindji	guri1247	the chisel	CHISEL	1979		jangurru	jangurru 
+499	31-9-88-1	75241737199840989	Gurindji	guri1247	the paint	PAINT (PIGMENTS)	647		yatu	yatu 
+500	31-9-89-1	7524173710267417	Gurindji	guri1247	to paint	PAINTING	2001		punip ma-	punip ma- 
+501	31-10-11-1	75241737937272701	Gurindji	guri1247	to move	MOVE	765		yingin yuwa-	yingin yuwa- 
+502	31-10-12-1	75241737281135475	Gurindji	guri1247	to turn	TURN	1588		wirrminy yuwa-	wirrminy yuwa- 
+503	31-10-13-1	75241737174496447	Gurindji	guri1247	to turn around	TURN (SOMETHING)	1445		wirrminy karri-	wirrminy karri- 
+504	31-10-14-1	75241737939283314	Gurindji	guri1247	to wrap	WRAP	1113		nurlu yuwa-	nurlu yuwa- 
+505	31-10-15-1	75241737761678390	Gurindji	guri1247	to roll	ROLL	827		kirritinkarra yuwa-	kirritinkarra yuwa- 
+506	31-10-16-1	75241737196665519	Gurindji	guri1247	to drop	DROP (SOMETHING)	2866		jak ma-	jak ma- 
+507	31-10-17-1	75241737803355919	Gurindji	guri1247	to twist	TWIST (AROUND)	3199		walnyirr yuwa-	walnyirr yuwa- 
+508	31-10-21-1	75241737720032320	Gurindji	guri1247	to rise	RISE (MOVE UPWARDS)	568		jik ya-	jik ya- 
+509	31-10-22-1	75241737344594464	Gurindji	guri1247	to raise or lift	LIFT	501		jarrpip ma-	jarrpip ma- 
+510	31-10-23-1	75241737350797651	Gurindji	guri1247	to fall	FALL	1280		wani-	wani- 
+511	31-10-24-1	75241737777469130	Gurindji	guri1247	to drip	DRIP (EMIT LIQUID)	2253		jilk wani-	jilk wani- 
+512	31-10-25-1	75241737889868462	Gurindji	guri1247	to throw	THROW	1456		waj wuya-	waj wuya- 
+513	31-10-252-1	75241737858684018	Gurindji	guri1247	to catch	CATCH	702		jap ma-	jap ma- 
+514	31-10-26-1	75241737136986175	Gurindji	guri1247	to shake	SHAKE	1909		yingin pa-	yingin pa- 
+515	31-10-32-1	75241737499650535	Gurindji	guri1247	to flow	FLOW	2003		warrayi ya-	warrayi ya- 
+516	31-10-33-1	7524173792144030	Gurindji	guri1247	to sink	SINK (DESCEND)	1088		tarap wani-	tarap wani- 
+517	31-10-34-1	75241737472299411	Gurindji	guri1247	to float	FLOAT	1574		wumpalp karri-	wumpalp karri- 
+518	31-10-35-1	7524173737920446	Gurindji	guri1247	to swim	SWIM	1439		lilaj ya-	lilaj ya- 
+519	31-10-351-1	75241737977605025	Gurindji	guri1247	to dive	DIVE	119		nyimurluk wa-	nyimurluk wa- 
+520	31-10-352-1	75241737966388232	Gurindji	guri1247	to splash	SPLASH	365		tijkurlp pa-	tijkurlp pa- 
+521	31-10-37-1	75241737376937912	Gurindji	guri1247	to fly	FLY (MOVE THROUGH AIR)	1441		tiwu ya-	tiwu ya- 
+522	31-10-38-1	75241737800100610	Gurindji	guri1247	to blow	BLOW (OF WIND)	175		purriip marn-	purriip marn- 
+523	31-10-41-1	75241737577248075	Gurindji	guri1247	to crawl	CRAWL	96		mingip ya-	mingip ya- 
+524	31-10-412-1	7524173711635838	Gurindji	guri1247	to kneel	KNEEL	66		lut wani-	lut wani- 
+525	31-10-413-1	75241737360409012	Gurindji	guri1247	to crouch	CROUCH	296		jalurlk karri-	jalurlk karri- 
+526	31-10-42-1	75241737698329369	Gurindji	guri1247	to slide or slip	SLIP	1324		yarntaly wani-	yarntaly wani- 
+527	31-10-43-1	75241737674348315	Gurindji	guri1247	to jump	JUMP	1829		tipart wani-	tipart wani- 
+528	31-10-431-1	75241737806110216	Gurindji	guri1247	to kick	KICK	1135		kaya-	kaya- 
+529	31-10-44-1	75241737473441360	Gurindji	guri1247	to dance	DANCE	1879		warrkap wanyja-	warrkap wanyja- 
+530	31-10-45-1	75241737333540877	Gurindji	guri1247	to walk	WALK	1443		kalu ya-	kalu ya- 
+531	31-10-451-1	75241737781217865	Gurindji	guri1247	to limp	LIMP	366		takujkarra ya-	takujkarra ya- 
+532	31-10-46-1	75241737747517189	Gurindji	guri1247	to run	RUN	1519		rarraj ya-	rarraj ya- 
+533	31-10-47-1	75241737433649061	Gurindji	guri1247	to go	GO	695		ya-	ya- 
+534	31-10-471-1	75241737718115032	Gurindji	guri1247	to go up	GO UP (ASCEND)	705		partaj ya-	partaj ya- 
+535	31-10-472-1	75241737718115032	Gurindji	guri1247	to climb	CLIMB	1102		partaj ya-	partaj ya- 
+536	31-10-473-1	75241737229292409	Gurindji	guri1247	to go down	GO DOWN (DESCEND)	2014		jawurruk ya-	jawurruk ya- 
+537	31-10-474-1	75241737701808602	Gurindji	guri1247	to go out	GO OUT	1107		kitangkurra ya-	kitangkurra ya- 
+538	31-10-48-1	75241737433649061	Gurindji	guri1247	to come	COME	1446		ya-	ya- 
+539	31-10-481-1	75241737793590466	Gurindji	guri1247	to come back	COME BACK	581		wart ya-	wart ya- 
+540	31-10-49-1	75241737908384646	Gurindji	guri1247	to leave	LEAVE	1752		warrij ya-	warrij ya- 
+541	31-10-491-1	75241737851683793	Gurindji	guri1247	to disappear	DISAPPEAR	485		wapaja karri-	wapaja karri- 
+542	31-10-51-1	75241737182868893	Gurindji	guri1247	to flee	FLEE	956		warl wanyja-	warl wanyja- 
+543	31-10-52-1	75241737458117248	Gurindji	guri1247	to follow	FOLLOW	1085		kayi pa-	kayi pa- 
+544	31-10-53-1	75241737458117248	Gurindji	guri1247	to pursue	PURSUE	1047		kayi pa-	kayi pa- 
+545	31-10-55-1	7524173763005089	Gurindji	guri1247	to arrive	ARRIVE	1387		tuwa ya-	tuwa ya- 
+546	31-10-56-1	75241737813135868	Gurindji	guri1247	to approach	APPROACH	1778		jarrminimini karri-	jarrminimini karri- 
+547	31-10-57-1	75241737611257606	Gurindji	guri1247	to enter	ENTER	749		walyak ya-	walyak ya- 
+548	31-10-61-1	75241737665596873	Gurindji	guri1247	to carry	CARRY	700		ka-	ka- 
+549	31-10-613-1	75241737518642876	Gurindji	guri1247	to carry on shoulder	CARRY ON SHOULDER	413		lajap ka-	lajap ka- 
+550	31-10-615-1	7524173777371075	Gurindji	guri1247	to carry under the arm	CARRY UNDER ARM	415		juluj ka-	juluj ka- 
+551	31-10-62-1	75241737665596873	Gurindji	guri1247	to bring	BRING	692		ka-	ka- 
+552	31-10-63-1	75241737685460116	Gurindji	guri1247	to send	SEND	1127		jalak yuwa-	jalak yuwa- 
+553	31-10-64-1	75241737338202582	Gurindji	guri1247	to lead	LEAD (GUIDE)	43		jirriyirri ka-	jirriyirri ka- 
+554	31-10-65-1	75241737665596873	Gurindji	guri1247	to drive	DRIVE	741		ka-	ka- 
+555	31-10-66-1	75241737234531288	Gurindji	guri1247	to ride	RIDE	367		jalngak wani-	jalngak wani- 
+556	31-10-67-1	7524173793498705	Gurindji	guri1247	to push	PUSH	1452		jurlkap yuwa-	jurlkap yuwa- 
+557	31-10-71-1	75241737820246330	Gurindji	guri1247	the road	ROAD	667		warntarri	warntarri 
+558	31-10-72-1	75241737820246330	Gurindji	guri1247	the path	PATH	2252		warntarri	warntarri 
+559	31-10-83-1	7524173763548489	Gurindji	guri1247	the boat	BOAT	1844		kartiyi	kartiyi 
+560	31-10-92-1	75241737422825546	Gurindji	guri1247	to land	LAND (DESCEND)	1922		parr wani-	parr wani- 
+561	31-11-11-1	75241737889213860	Gurindji	guri1247	to have	HAVE	773		karrwa-	karrwa- 
+562	31-11-12-1	75241737948844545	Gurindji	guri1247	to own	OWN	684		murlng karrwa-	murlng karrwa- 
+563	31-11-13-1	75241737665596873	Gurindji	guri1247	to take	TAKE	1749		ka-	ka- 
+564	31-11-14-1	75241737581624367	Gurindji	guri1247	to grasp	SEIZE	855		jangkawu ma-	jangkawu ma- 
+565	31-11-15-1	75241737652931576	Gurindji	guri1247	to hold	HOLD	1448		turt ma-	turt ma- 
+566	31-11-16-1	75241737691471760	Gurindji	guri1247	to get	GET	694		warrkuj ma-	warrkuj ma- 
+567	31-11-17-1	75241737777121552	Gurindji	guri1247	to keep	KEEP	1477		jarti karrwa	jarti karrwa 
+568	31-11-18-1	75241737361190251	Gurindji	guri1247	the thing	THING	738		nyampayala	nyampayala 
+569	31-11-21-1	75241737992223255	Gurindji	guri1247	to give	GIVE	1447		jayi-	jayi- 
+570	31-11-22-1	75241737768036639	Gurindji	guri1247	to give back	GIVE BACK	85		wart jayi-	wart jayi- 
+571	31-11-24-1	75241737357653387	Gurindji	guri1247	to preserve	PRESERVE	1997		warra ka-	warra ka- 
+572	31-11-25-1	75241737487893703	Gurindji	guri1247	to rescue	RESCUE	2008		jal yuwa-	jal yuwa- 
+573	31-11-27-1	75241737355664408	Gurindji	guri1247	to destroy	DESTROY	681		kamang ma	kamang ma 
+574	31-11-28-1	75241737847892306	Gurindji	guri1247	to injure	INJURE	44		jangka ka-	jangka ka- 
+575	31-11-31-1	75241737577436984	Gurindji	guri1247	to look for	LOOK FOR	1468		karrap nya-	karrap nya- 
+576	31-11-32-1	75241736309450812	Gurindji	guri1247	to find	FIND	719		paraj pu-	paraj pu- 
+577	31-11-33-1	75241737533762339	Gurindji	guri1247	to lose	LOSE	1660		wartuj ma-	wartuj ma- 
+578	31-11-34-1	75241737365273756	Gurindji	guri1247	to let go	LET GO OR SET FREE	1095		purrul yuwa-	purrul yuwa- 
+579	31-11-43-1	75241736713715265	Gurindji	guri1247	the money	MONEY	1559		wumara	wumara 
+580	31-11-44-1	75241737276648979	Gurindji	guri1247	the coin	COIN	1867		tumpalak	tumpalak 
+581	31-11-52-1	75241736201844767	Gurindji	guri1247	poor	POOR	1674		wangaak	wangaak 
+582	31-11-53-1	75241737188374563	Gurindji	guri1247	the beggar	BEGGAR	1934		liwurrapkaji	liwurrapkaji 
+583	31-11-54-1	75241737818647183	Gurindji	guri1247	stingy	STINGY	1774		muntapungu	muntapungu 
+584	31-11-65-1	75241737319458508	Gurindji	guri1247	to pay	PAY	718		payim ma-	payim ma- 
+585	31-11-77-1	75241737586604696	Gurindji	guri1247	to hire	HIRE	856		jalarr yuwa-	jalarr yuwa- 
+586	31-11-78-1	75241737486505229	Gurindji	guri1247	the wages	WAGES	1122		warukku wumara	warukku wumara 
+587	31-11-79-1	75241737557795285	Gurindji	guri1247	to earn	EARN	733		wumara ma-	wumara ma- 
+588	31-11-81-1	75241737319458508	Gurindji	guri1247	to buy	BUY	1869		payim ma-	payim ma- 
+589	31-11-82-1	75241737852979173	Gurindji	guri1247	to sell	SELL	1571		jalim jayi-	jalim jayi- 
+590	31-11-83-1	75241737256412131	Gurindji	guri1247	to trade or barter	TRADE OR BARTER	2135		wirnarn jayi-	wirnarn jayi- 
+591	31-11-86-1	75241737733884496	Gurindji	guri1247	the shop/store	STORE	752		tuwa	tuwa 
+592	31-11-88-1	7524173779670010	Gurindji	guri1247	expensive	EXPENSIVE	1426		wumara jangkarni	wumara jangkarni 
+593	31-11-89-1	75241737915668011	Gurindji	guri1247	cheap	CHEAP	1887		wumara yapawurru	wumara yapawurru 
+594	31-11-91-1	75241737116485261	Gurindji	guri1247	to share	SHARE	884		jarrmip karri-	jarrmip karri- 
+595	31-12-01-1	75241737673452302	Gurindji	guri1247	after	AFTER	1685		-nginyi	-nginyi 
+596	31-12-011-1	75241737653927414	Gurindji	guri1247	behind	BEHIND	1686		ngumayi	ngumayi 
+597	31-12-02-1	7524173757182242	Gurindji	guri1247	beside	BESIDE	1816		pirnti	pirnti 
+598	31-12-03-1	75241737209448621	Gurindji	guri1247	down	DOWN	1326		kanyjal	kanyjal 
+599	31-12-041-1	75241737552460806	Gurindji	guri1247	in front of	IN FRONT OF	1883		kamparri	kamparri 
+600	31-12-05-1	75241737473110730	Gurindji	guri1247	inside	INSIDE	1606		walyak	walyak 
+601	31-12-06-1	75241737370482732	Gurindji	guri1247	outside	OUTSIDE	762		pakara	pakara 
+602	31-12-07-1	75241737947410535	Gurindji	guri1247	under	BELOW OR UNDER	1485		kaninyjal	kaninyjal 
+603	31-12-08-1	75241737820423425	Gurindji	guri1247	up	UP	1591		kankula	kankula 
+604	31-12-11-1	75241737919907895	Gurindji	guri1247	the place	PLACE (POSITION)	723		ngurra	ngurra 
+605	31-12-12-1	75241737977160967	Gurindji	guri1247	to put	PUT	998		yuwa-	yuwa- 
+606	31-12-13-1	75241737762430983	Gurindji	guri1247	to sit	SIT	1416		lurlu karri-	lurlu karri- 
+607	31-12-14-1	75241736444541407	Gurindji	guri1247	to lie down	LIE DOWN	215		makin karri-	makin karri- 
+608	31-12-15-1	75241737501384824	Gurindji	guri1247	to stand	STAND	1442		kutij karri-	kutij karri- 
+609	31-12-16-1	75241737625191556	Gurindji	guri1247	to remain	REMAIN	987		karri-	karri- 
+610	31-12-21-1	75241737759702985	Gurindji	guri1247	to gather	GATHER	7		kurlpap ma-	kurlpap ma- 
+611	31-12-212-1	75241737691471760	Gurindji	guri1247	to pick up	PICK UP	371		warrkuj ma-	warrkuj ma- 
+612	31-12-213-1	75241737308572203	Gurindji	guri1247	to pile up	PILE UP	1576		jurtat ma-	jurtat ma- 
+613	31-12-22-1	75241737586604696	Gurindji	guri1247	to join	JOIN	1743		jalarr yuwa-	jalarr yuwa- 
+614	31-12-23-1	75241737831866225	Gurindji	guri1247	to separate	SEPARATE	1359		tirirt ma-	tirirt ma- 
+615	31-12-24-1	75241737914183293	Gurindji	guri1247	to open	OPEN	1156		warnparlk ma-	warnparlk ma- 
+616	31-12-25-1	75241737256484064	Gurindji	guri1247	to shut	SHUT	1046		jipurt ma-	jipurt ma- 
+617	31-12-26-1	75241737840897116	Gurindji	guri1247	to cover	COVER	761		jakarr ma-	jakarr ma- 
+618	31-12-27-1	75241737996651281	Gurindji	guri1247	to hide	HIDE (CONCEAL)	602		wurlaj yuwa-	wurlaj yuwa- 
+619	31-12-31-1	75241737338255456	Gurindji	guri1247	high	HIGH	1265		ngaramala	ngaramala 
+620	31-12-32-1	75241737209448621	Gurindji	guri1247	low	LOW	721		kanyjal	kanyjal 
+621	31-12-33-1	75241737204196450	Gurindji	guri1247	the top	TOP	1753		japiyapi	japiyapi 
+622	31-12-34-1	75241737947410535	Gurindji	guri1247	the bottom	BOTTOM	690		kaninyjal	kaninyjal 
+623	31-12-35-1	75241737204196450	Gurindji	guri1247	the end(1)	END (OF SPACE)	742		japiyapi	japiyapi 
+624	31-12-352-1	75241737666584269	Gurindji	guri1247	pointed	POINTED	372		kijijiyawung	kijijiyawung 
+625	31-12-353-1	7524173757182242	Gurindji	guri1247	the edge	EDGE	863		pirnti	pirnti 
+626	31-12-36-1	7524173757182242	Gurindji	guri1247	the side	SIDE	682		pirnti	pirnti 
+627	31-12-37-1	75241737344266276	Gurindji	guri1247	the middle	MIDDLE	1093		kamurra	kamurra 
+628	31-12-41-1	75241737748711939	Gurindji	guri1247	right(1)	RIGHT	1019		jutu	jutu 
+629	31-12-42-1	75241737572083196	Gurindji	guri1247	left	LEFT	244		jampukarra	jampukarra 
+630	31-12-43-1	75241737161522038	Gurindji	guri1247	near	NEAR	1942		kajupari	kajupari 
+631	31-12-44-1	75241737134928206	Gurindji	guri1247	far	FAR	1406		yikili	yikili 
+632	31-12-45-1	75241737681209977	Gurindji	guri1247	the east	EAST	1877		karrawarra	karrawarra 
+633	31-12-46-1	75241737785113589	Gurindji	guri1247	the west	WEST	1817		karlarra	karlarra 
+634	31-12-47-1	75241737916170453	Gurindji	guri1247	the north	NORTH	1598		kayirra	kayirra 
+635	31-12-48-1	75241737420620880	Gurindji	guri1247	the south	SOUTH	1595		kurlarra	kurlarra 
+636	31-12-53-1	75241737189355457	Gurindji	guri1247	to grow	GROW	479		tuma-	tuma- 
+637	31-12-55-1	75241737956769178	Gurindji	guri1247	big	BIG	1202		jangkarni	jangkarni 
+638	31-12-56-1	75241737729935470	Gurindji	guri1247	small	SMALL	1246		yapawurru	yapawurru 
+639	31-12-57-1	75241737510897697	Gurindji	guri1247	long	LONG	1203		juwal	juwal 
+640	31-12-58-1	75241737510897697	Gurindji	guri1247	tall	TALL	711		juwal	juwal 
+641	31-12-59-1	75241737505623188	Gurindji	guri1247	short	SHORT	1645		lutu	lutu 
+642	31-12-61-1	75241737929754530	Gurindji	guri1247	wide	WIDE	1243		payal	payal 
+643	31-12-62-1	7524173776644952	Gurindji	guri1247	narrow	NARROW	1267		kurrpu	kurrpu 
+644	31-12-63-1	75241737183235021	Gurindji	guri1247	thick	THICK	1244		junyju	junyju 
+645	31-12-65-1	7524173730346450	Gurindji	guri1247	thin	THIN (OF SHAPE OF OBJECT)	2249		tinkal	tinkal 
+646	31-12-67-1	752417372798055	Gurindji	guri1247	deep	DEEP	1593		tarlukurru	tarlukurru 
+647	31-12-68-1	75241737876741165	Gurindji	guri1247	shallow	SHALLOW	193		kalja	kalja 
+648	31-12-71-1	75241737151109110	Gurindji	guri1247	flat	FLAT	1633		palki	palki 
+649	31-12-73-1	75241737748711939	Gurindji	guri1247	straight	STRAIGHT	1404		jutu	jutu 
+650	31-12-74-1	75241737133561772	Gurindji	guri1247	crooked	CROOKED	297		kirturlkpari	kirturlkpari 
+651	31-12-75-1	75241737191651434	Gurindji	guri1247	the hook	HOOK	1071		narra	narra 
+652	31-12-76-1	75241737211892584	Gurindji	guri1247	the corner	CORNER	192		nunpa	nunpa 
+653	31-12-77-1	75241737106742064	Gurindji	guri1247	the cross	CROSS	1367		jarrapaljawung	jarrapaljawung 
+654	31-12-78-1	75241737156822505	Gurindji	guri1247	the square	SQUARE	850		nunpa-nunpa	nunpa-nunpa 
+655	31-12-81-1	75241737858976175	Gurindji	guri1247	round	ROUND	1395		pirtakpari	pirtakpari 
+656	31-12-83-1	75241737115290519	Gurindji	guri1247	the ball	BALL	1845		kurrunyung	kurrunyung 
+657	31-12-84-1	75241737168896655	Gurindji	guri1247	the line	LINE	1048		pakuntarri	pakuntarri 
+658	31-12-85-1	75241737614955828	Gurindji	guri1247	the hole	HOLE	1667		jimpiri	jimpiri 
+659	31-12-92-1	75241737520187759	Gurindji	guri1247	similar	SIMILAR	1558		-marraj	-marraj 
+660	31-12-93-1	75241737281135475	Gurindji	guri1247	to change	CHANGE	1264		wirrminy yuwa-	wirrminy yuwa- 
+661	31-13-01-1	75241737705668303	Gurindji	guri1247	one	ONE	1493		jintaku	jintaku 
+662	31-13-02-1	75241737676905180	Gurindji	guri1247	two	TWO	1498		kujarra	kujarra 
+663	31-13-03-1	75241737903162924	Gurindji	guri1247	three	THREE	492		murrkun	murrkun 
+664	31-13-04-1	75241737377955502	Gurindji	guri1247	four	FOUR	1500		kujarra-kujarra	kujarra-kujarra 
+665	31-13-05-1	75241737217501075	Gurindji	guri1247	five	FIVE	493		ngarra	ngarra 
+666	31-13-107-1	75241737540114201	Gurindji	guri1247	to count	COUNT	1420		yurrk ma-	yurrk ma- 
+667	31-13-14-1	75241737230366130	Gurindji	guri1247	all	ALL	98		purrp	purrp 
+668	31-13-15-1	75241737891951207	Gurindji	guri1247	many	MANY	1198		jarrwa	jarrwa 
+669	31-13-16-1	75241737324463132	Gurindji	guri1247	more	MORE	1992		maya	maya 
+670	31-13-17-1	75241737732712081	Gurindji	guri1247	few	FEW	1242		murrkunpurru	murrkunpurru 
+671	31-13-18-1	75241737132138916	Gurindji	guri1247	enough	ENOUGH	1881		marulu	marulu 
+672	31-13-181-1	75241737447893168	Gurindji	guri1247	some	SOME	1241		-walija	-walija 
+673	31-13-19-1	75241737867999167	Gurindji	guri1247	the crowd	CROWD	2023		larrkunyja	larrkunyja 
+674	31-13-21-1	75241737977055035	Gurindji	guri1247	full	FULL	1429		timpak	timpak 
+675	31-13-22-1	75241737601882207	Gurindji	guri1247	empty	EMPTY	1624		tangka	tangka 
+676	31-13-23-1	75241737130809155	Gurindji	guri1247	the part	PART	779		wirrip	wirrip 
+677	31-13-24-1	75241737767854865	Gurindji	guri1247	the half	HALF	816		julurrpnginyi	julurrpnginyi 
+678	31-13-33-1	75241737232227535	Gurindji	guri1247	only	ONLY	1580		-rni	-rni 
+679	31-13-34-1	75241737732395396	Gurindji	guri1247	first	FIRST	728		kamparrijang	kamparrijang 
+680	31-13-35-1	75241737942806207	Gurindji	guri1247	last	LAST (FINAL)	1529		jiti	jiti 
+681	31-13-37-1	75241737323151875	Gurindji	guri1247	the pair	PAIR	1888		kujarrap	kujarrap 
+682	31-13-38-1	75241737638416682	Gurindji	guri1247	twice/two times	TWICE	1546		kujarrawurt	kujarrawurt 
+683	31-13-44-1	75241737165966920	Gurindji	guri1247	three times	THREE TIMES	417		murrkunkurt	murrkunkurt 
+684	31-14-11-1	75241737635418349	Gurindji	guri1247	the time	TIME	892		mayani	mayani 
+685	31-14-13-1	75241737543910106	Gurindji	guri1247	new	NEW	1231		jalayalang	jalayalang 
+686	31-14-14-1	75241737773140888	Gurindji	guri1247	young	YOUNG	1207		kulyarri	kulyarri 
+687	31-14-15-1	75241736918571198	Gurindji	guri1247	old	OLD	1229		kajirri	kajirri 
+688	31-14-16-1	75241737705141886	Gurindji	guri1247	early	EARLY	672		kaputkaput	kaputkaput 
+689	31-14-18-1	75241737834528011	Gurindji	guri1247	now	NOW	1376		jala	jala 
+690	31-14-19-1	75241737408652854	Gurindji	guri1247	immediately	IMMEDIATELY	1963		wajija	wajija 
+691	31-14-21-1	75241737408652854	Gurindji	guri1247	fast	FAST	1631		wajija	wajija 
+692	31-14-22-1	75241737464604406	Gurindji	guri1247	slow	SLOW	701		yamak	yamak 
+693	31-14-23-1	75241737210605546	Gurindji	guri1247	to hurry	HURRY	754		wajija ya-	wajija ya- 
+694	31-14-25-1	75241737652202025	Gurindji	guri1247	to begin	BEGIN	1806		jujup ma-	jujup ma- 
+695	31-14-26-1	75241737673452302	Gurindji	guri1247	the end(2)	END (OF TIME)	743		-nginyi	-nginyi 
+696	31-14-27-1	75241737388444297	Gurindji	guri1247	to finish	FINISH	1766		purrp ma-	purrp ma- 
+697	31-14-28-1	75241737124675934	Gurindji	guri1247	to cease	CEASE	1928		murr karri-	murr karri- 
+698	31-14-29-1	75241737528652924	Gurindji	guri1247	ready	READY	790		kirli	kirli 
+699	31-14-31-1	75241737306384887	Gurindji	guri1247	always	ALWAYS	1676		ngajikparni	ngajikparni 
+700	31-14-32-1	75241737232227535	Gurindji	guri1247	often	OFTEN	1852		-rni	-rni 
+701	31-14-33-1	75241737467861881	Gurindji	guri1247	sometimes	SOMETIMES	1544		mayanikari mayanikari	mayanikari mayanikari 
+702	31-14-331-1	75241737358696615	Gurindji	guri1247	soon	SOON	703		kurtirni	kurtirni 
+703	31-14-332-1	7524173764614149	Gurindji	guri1247	for a long time	FOR A LONG TIME	418		ngajik	ngajik 
+704	31-14-35-1	75241737410272898	Gurindji	guri1247	again	AGAIN	204		-rningan	-rningan 
+705	31-14-41-1	75241736944944009	Gurindji	guri1247	the day(1)	DAY (24 HOURS)	1260		wurlngarn	wurlngarn 
+706	31-14-42-1	75241737327884416	Gurindji	guri1247	the night	NIGHT	1233		kaputa	kaputa 
+707	31-14-43-1	75241737522760457	Gurindji	guri1247	the dawn	DAWN	729		rangkarr	rangkarr 
+708	31-14-44-1	752417373336357	Gurindji	guri1247	the morning	MORNING	1339		kaput	kaput 
+709	31-14-45-1	75241737895375868	Gurindji	guri1247	the midday	MIDDAY	12		minyjarlk	minyjarlk 
+710	31-14-451-1	75241737500113330	Gurindji	guri1247	the afternoon	AFTERNOON	1807		puriny	puriny 
+711	31-14-46-1	75241737598604044	Gurindji	guri1247	the evening	EVENING	1629		parntamarik	parntamarik 
+712	31-14-47-1	75241737834528011	Gurindji	guri1247	today	TODAY	1283		jala	jala 
+713	31-14-48-1	752417373336357	Gurindji	guri1247	tomorrow	TOMORROW	1329		kaput	kaput 
+714	31-14-481-1	75241737346892208	Gurindji	guri1247	the day after tomorrow	DAY AFTER TOMORROW	1179		kaputkari	kaputkari 
+715	31-14-49-1	75241737500113330	Gurindji	guri1247	yesterday	YESTERDAY	1174		puriny	puriny 
+716	31-14-491-1	75241737148580049	Gurindji	guri1247	the day before yesterday	DAY BEFORE YESTERDAY	1180		purinykari	purinykari 
+717	31-14-53-1	75241736944944009	Gurindji	guri1247	the clock	CLOCK	1323		wurlngarn	wurlngarn 
+718	31-14-61-1	75241737998212472	Gurindji	guri1247	the week	WEEK	1469		talymip	talymip 
+719	31-14-62-1	75241737998212472	Gurindji	guri1247	Sunday	SUNDAY	1699		talymip	talymip 
+720	31-14-63-1	75241737307617354	Gurindji	guri1247	Monday	MONDAY	1697		wajintayi	wajintayi 
+721	31-14-71-1	7524173615602680	Gurindji	guri1247	the month	MONTH	1370		jakiliny	jakiliny 
+722	31-14-73-1	75241737947011493	Gurindji	guri1247	the year	YEAR	1226		parunga	parunga 
+723	31-14-74-1	75241737175652769	Gurindji	guri1247	the winter	WINTER	1471		kalajawuny	kalajawuny 
+724	31-14-75-1	75241736942532306	Gurindji	guri1247	the spring(2)	SPRINGTIME	1537		yipu	yipu 
+725	31-14-76-1	75241737947011493	Gurindji	guri1247	the summer	SUMMER	1342		parunga	parunga 
+726	31-14-78-1	75241737466867439	Gurindji	guri1247	the season	SEASON	691		-mirntij	-mirntij 
+727	31-15-21-1	75241737968997092	Gurindji	guri1247	to smell(1)	SMELL (STINK)	1587		ngapuk karri-	ngapuk karri- 
+728	31-15-89-1	75241737569270612	Gurindji	guri1247	wrinkled	WRINKLED	380		wanyjarrng	wanyjarrng 
+729	31-15-212-1	75241737551128502	Gurindji	guri1247	to sniff	SNIFF	375		ngapuk ma-	ngapuk ma- 
+730	31-15-22-1	75241737551128502	Gurindji	guri1247	to smell(2)	SMELL (PERCEIVE)	1586		ngapuk ma-	ngapuk ma- 
+731	31-15-25-1	75241737662084377	Gurindji	guri1247	fragrant	FRAGRANT	376		ngapukarriny	ngapukarriny 
+732	31-15-26-1	75241737513915754	Gurindji	guri1247	stinking	STINKING	42		puka	puka 
+733	31-15-31-1	75241737205670617	Gurindji	guri1247	to taste	TASTE (SOMETHING)	21		ngurluk	ngurluk 
+734	31-15-35-1	75241737340464141	Gurindji	guri1247	sweet	SWEET	717		kunyja	kunyja 
+735	31-15-36-1	75241737554583965	Gurindji	guri1247	salty	SALTY	1091		wiingki	wiingki 
+736	31-15-37-1	75241737249464679	Gurindji	guri1247	bitter	BITTER	887		jalingki	jalingki 
+737	31-15-38-1	75241737249464679	Gurindji	guri1247	sour	SOUR	1906		jalingki	jalingki 
+738	31-15-39-1	75241737554583965	Gurindji	guri1247	brackish	BRACKISH	70		wiingki	wiingki 
+739	31-15-41-1	75241737139764704	Gurindji	guri1247	to hear	HEAR	1408		kurru nya-	kurru nya- 
+740	31-15-42-1	75241737139764704	Gurindji	guri1247	to listen	LISTEN	1608		kurru nya-	kurru nya- 
+741	31-15-44-1	75241737350591155	Gurindji	guri1247	the sound or noise	SOUND OR NOISE	1811		yilying	yilying 
+742	31-15-45-1	7524173716839865	Gurindji	guri1247	loud	LOUD	377		jirrimarna	jirrimarna 
+743	31-15-46-1	75241737464604406	Gurindji	guri1247	quiet	QUIET	1314		yamak	yamak 
+744	31-15-51-1	75241737577436984	Gurindji	guri1247	to see	SEE	1409		karrap nya-	karrap nya- 
+745	31-15-52-1	75241737577436984	Gurindji	guri1247	to look	LOOK	1819		karrap nya-	karrap nya- 
+746	31-15-55-1	75241737794819731	Gurindji	guri1247	to show	SHOW	1039		wiyit jayi-	wiyit jayi- 
+747	31-15-56-1	75241737983982491	Gurindji	guri1247	to shine	SHINE	708		mirlinyinyip karri-	mirlinyinyip karri- 
+748	31-15-57-1	75241737775367739	Gurindji	guri1247	bright	BRIGHT	679		mirlinyinyipkaji	mirlinyinyipkaji 
+749	31-15-61-1	75241737463549372	Gurindji	guri1247	the colour/color	COLOR	1613		winkilying	winkilying 
+750	31-15-62-1	75241736145077669	Gurindji	guri1247	light(2)	LIGHT (COLOR)	250		ngunti	ngunti 
+751	31-15-63-1	7524173694574600	Gurindji	guri1247	dark	DARK	706		mum	mum 
+752	31-15-64-1	75241737263325662	Gurindji	guri1247	white	WHITE	1335		waki	waki 
+753	31-15-65-1	75241737682698815	Gurindji	guri1247	black	BLACK	163		mumpung	mumpung 
+754	31-15-66-1	75241737463549372	Gurindji	guri1247	red	RED	156		winkilying	winkilying 
+755	31-15-67-1	75241737879855784	Gurindji	guri1247	blue	BLUE	837		wurrkawurrkal	wurrkawurrkal 
+756	31-15-68-1	75241737879855784	Gurindji	guri1247	green	GREEN	1425		wurrkawurrkal	wurrkawurrkal 
+757	31-15-69-1	75241737253606393	Gurindji	guri1247	yellow	YELLOW	1424		karrikurn-karrikurn	karrikurn-karrikurn 
+758	31-15-71-1	75241737899610076	Gurindji	guri1247	to touch	TOUCH	1892		pat ma-	pat ma- 
+759	31-15-712-1	75241737340228768	Gurindji	guri1247	to pinch	PINCH	378		yintij ma-	yintij ma- 
+760	31-15-72-1	75241737963168592	Gurindji	guri1247	to feel	FEEL	1079		patpat ma-	patpat ma- 
+761	31-15-74-1	75241737479985936	Gurindji	guri1247	hard	HARD	1884		patawarn	patawarn 
+762	31-15-75-1	75241737259494192	Gurindji	guri1247	soft	SOFT	1856		kalypa	kalypa 
+763	31-15-76-1	75241737243476962	Gurindji	guri1247	rough(1)	ROUGH	1923		purtuwurtu	purtuwurtu 
+764	31-15-77-1	75241737246238721	Gurindji	guri1247	smooth	SMOOTH	1234		kirinykiriny	kirinykiriny 
+765	31-15-78-1	75241737947989323	Gurindji	guri1247	sharp	SHARP	1396		kutukutu	kutukutu 
+766	31-15-79-1	75241737102738469	Gurindji	guri1247	blunt	BLUNT	379		tapu	tapu 
+767	31-15-81-1	75241736966854546	Gurindji	guri1247	heavy	HEAVY	1210		ngarturr	ngarturr 
+768	31-15-82-1	75241737605406683	Gurindji	guri1247	light(1)	LIGHT (WEIGHT)	1052		rampali	rampali 
+769	31-15-83-1	752417374574634	Gurindji	guri1247	wet	WET	1726		pantij	pantij 
+770	31-15-84-1	7524173789125725	Gurindji	guri1247	dry	DRY	1398		pulwarr	pulwarr 
+771	31-15-85-1	7524173789375392	Gurindji	guri1247	hot	HOT	1286		tupurrng	tupurrng 
+772	31-15-851-1	75241737211828228	Gurindji	guri1247	warm	WARM	1232		tanyji	tanyji 
+773	31-15-86-1	75241737209867152	Gurindji	guri1247	cold	COLD	1287		makurru	makurru 
+774	31-15-87-1	75241737633919297	Gurindji	guri1247	clean	CLEAN	704		kirlka	kirlka 
+775	31-15-88-1	7524173769135884	Gurindji	guri1247	dirty	DIRTY	1230		nyunal	nyunal 
+776	31-16-11-1	75241737162711363	Gurindji	guri1247	the soul or spirit	SOUL	811		ngayiwa	ngayiwa 
+777	31-16-15-1	75241737534202361	Gurindji	guri1247	surprised or astonished	SURPRISED	1572		pirartnginyi	pirartnginyi 
+778	31-16-18-1	75241737644606272	Gurindji	guri1247	the good luck	GOOD LUCK	720		mijal	mijal 
+779	31-16-23-1	75241737146416415	Gurindji	guri1247	happy	HAPPY	1495		marrunyu	marrunyu 
+780	31-16-25-1	7524173795104862	Gurindji	guri1247	to laugh	LAUGH	1355		yayip ma-	yayip ma- 
+781	31-16-251-1	75241737348918957	Gurindji	guri1247	to smile	SMILE	1451		nginy karri-	nginy karri- 
+782	31-16-26-1	75241737862166119	Gurindji	guri1247	to play	PLAY	1413		wajarra karri-	wajarra karri- 
+783	31-16-27-1	75241737583935820	Gurindji	guri1247	to love	LOVE	923		pulyap ma-	pulyap ma- 
+784	31-16-29-1	75241737838660465	Gurindji	guri1247	to kiss	KISS	578		puny ma-	puny ma- 
+785	31-16-3-1	75241737897889982	Gurindji	guri1247	to embrace	EMBRACE	928		kawirirri ma-	kawirirri ma- 
+786	31-16-31-1	75241737439964480	Gurindji	guri1247	the pain	PAIN	1783		ngurrulyp	ngurrulyp 
+787	31-16-32-1	7524173745842370	Gurindji	guri1247	the grief	GRIEF	1668		luyurr	luyurr 
+788	31-16-33-1	75241737738774532	Gurindji	guri1247	the anxiety	ANXIETY	1000		nguran	nguran 
+789	31-16-34-1	75241737876442030	Gurindji	guri1247	to regret or be sorry	REGRET	1875		juwurl ma-	juwurl ma- 
+790	31-16-37-1	7524173716134184	Gurindji	guri1247	to cry	CRY	1839		lungkarra karri-	lungkarra karri- 
+791	31-16-38-1	75241737526724242	Gurindji	guri1247	the tear	TEAR (OF EYE)	1651		mikara	mikara 
+792	31-16-39-1	75241737127742632	Gurindji	guri1247	to groan	GROAN	716		ngarlarrip ma-	ngarlarrip ma- 
+793	31-16-41-1	7524173729850401	Gurindji	guri1247	to hate	HATE	1607		jirtart karri-	jirtart karri- 
+794	31-16-42-1	75241737710614498	Gurindji	guri1247	the anger	ANGER	82		kuli	kuli 
+795	31-16-44-1	75241737620312598	Gurindji	guri1247	the envy or jealousy	ENVY	40		nguwajkarra	nguwajkarra 
+796	31-16-45-1	75241737908456934	Gurindji	guri1247	the shame	SHAME	1776		minyirri	minyirri 
+797	31-16-52-1	75241737421078370	Gurindji	guri1247	brave	BRAVE	3		kumpurlakpurlak	kumpurlakpurlak 
+798	31-16-53-1	75241737386959530	Gurindji	guri1247	the fear	FEAR (FRIGHT)	781		wukarra	wukarra 
+799	31-16-54-1	75241737869333452	Gurindji	guri1247	the danger	DANGER	1810		kuliyan	kuliyan 
+800	31-16-62-1	75241737975414409	Gurindji	guri1247	to want	WANT	1784		wilngwilng ma-	wilngwilng ma- 
+801	31-16-622-1	75241737795584883	Gurindji	guri1247	to choose	CHOOSE	1750		ngatji ma-	ngatji ma- 
+802	31-16-66-1	75241737491168260	Gurindji	guri1247	true	TRUE	1657		yijarni	yijarni 
+803	31-16-67-1	75241737488734982	Gurindji	guri1247	to lie(2)	LIE (MISLEAD)	601		kuranykarra ma-	kuranykarra ma- 
+804	31-16-68-1	75241737512369741	Gurindji	guri1247	the deceit	DECEIT	13		kuranykarra	kuranykarra 
+805	31-16-69-1	75241737759183126	Gurindji	guri1247	to forgive	FORGIVE	1528		wapurt karri-	wapurt karri- 
+806	31-16-71-1	75241737699881035	Gurindji	guri1247	good	GOOD	1035		punyu	punyu 
+807	31-16-72-1	75241737785620728	Gurindji	guri1247	bad	BAD	1292		wankaj	wankaj 
+808	31-16-73-1	75241737748711939	Gurindji	guri1247	right(2)	CORRECT (RIGHT)	1725		jutu	jutu 
+809	31-16-74-1	7524173750857348	Gurindji	guri1247	wrong	WRONG	1390		kulanypung	kulanypung 
+810	31-16-77-1	75241737702970596	Gurindji	guri1247	the mistake	MISTAKE	1293		tanypal ma-	tanypal ma- 
+811	31-16-78-1	75241737934679101	Gurindji	guri1247	the blame	BLAME	381		kurrwara yuwa-	kurrwara yuwa- 
+812	31-16-81-1	7524173779663046	Gurindji	guri1247	beautiful	BEAUTIFUL	1427		jalungurru	jalungurru 
+813	31-16-82-1	75241737877150295	Gurindji	guri1247	ugly	UGLY	1548		kilypikilypi	kilypikilypi 
+814	31-16-83-1	75241737750694615	Gurindji	guri1247	greedy	GREEDY	2018		ngalking	ngalking 
+815	31-16-84-1	75241737612460729	Gurindji	guri1247	clever	CLEVER	1310		tarrpijipiji	tarrpijipiji 
+816	31-17-11-1	75241736948620239	Gurindji	guri1247	the mind	MIND	1562		langa	langa 
+817	31-17-13-1	75241737623599821	Gurindji	guri1247	to think(1)	THINK (REFLECT)	1415		kirr ka-	kirr ka- 
+818	31-17-16-1	75241737436081013	Gurindji	guri1247	to understand	UNDERSTAND	1536		ngarrka ma-	ngarrka ma- 
+819	31-17-17-1	75241737720669052	Gurindji	guri1247	to know	KNOW (SOMETHING)	1410		pina karri-	pina karri- 
+820	31-17-172-1	75241737680067378	Gurindji	guri1247	to imitate	IMITATE	117		marr ma-	marr ma- 
+821	31-17-21-1	75241737328186184	Gurindji	guri1247	wise	WISE	698		pinarri	pinarri 
+822	31-17-22-1	75241737351922466	Gurindji	guri1247	stupid	STUPID	1518		walnga	walnga 
+823	31-17-23-1	75241737351922466	Gurindji	guri1247	mad	MAD	1899		walnga	walnga 
+824	31-17-24-1	75241737154808664	Gurindji	guri1247	to learn	LEARN	504		pinarrik karri-	pinarrik karri- 
+825	31-17-25-1	75241737379443624	Gurindji	guri1247	to teach	TEACH	709		pinarrik ma-	pinarrik ma- 
+826	31-17-27-1	75241737494283671	Gurindji	guri1247	the teacher	TEACHER	1038		pinak jayinguwaji	pinak jayinguwaji 
+827	31-17-28-1	75241737209867152	Gurindji	guri1247	the school	SCHOOL	673		makurru	makurru 
+828	31-17-31-1	75241737623599821	Gurindji	guri1247	to remember	REMEMBER	707		kirr ka-	kirr ka- 
+829	31-17-32-1	75241737886482198	Gurindji	guri1247	to forget	FORGET	1523		nyirn ma-	nyirn ma- 
+830	31-17-36-1	75241737528382072	Gurindji	guri1247	secret	SECRET	1121		limpal	limpal 
+831	31-17-41-1	75241737332679156	Gurindji	guri1247	the intention	INTENTION	1162		kawu	kawu 
+832	31-17-44-1	75241737645598746	Gurindji	guri1247	to suspect	SUSPECT	1841		ngurrku pa-	ngurrku pa- 
+833	31-17-46-1	75241737445275531	Gurindji	guri1247	easy	EASY	686		kanung	kanung 
+834	31-17-48-1	75241737815893296	Gurindji	guri1247	to try	TRY	1812		majka	majka 
+835	31-17-52-1	75241737160907072	Gurindji	guri1247	because	BECAUSE	1157		-paju	-paju 
+836	31-17-53-1	75241737968728466	Gurindji	guri1247	if	IF	1459		nyamu...nga	nyamu...nga 
+837	31-17-54-1	75241737824615678	Gurindji	guri1247	or	OR	1014		waku	waku 
+838	31-17-55-1	75241737543049105	Gurindji	guri1247	yes	YES	1268		yuwayi	yuwayi 
+839	31-17-56-1	75241737611928642	Gurindji	guri1247	no	NO	1269		lawara	lawara 
+840	31-17-61-1	75241737565381425	Gurindji	guri1247	how?	HOW	1239		nyatpa	nyatpa 
+841	31-17-62-1	75241737397441528	Gurindji	guri1247	how many?	HOW MANY	822		nyatjang	nyatjang 
+842	31-17-63-1	75241737397441528	Gurindji	guri1247	how much?	HOW MUCH	531		nyatjang	nyatjang 
+843	31-17-64-1	7524173786084192	Gurindji	guri1247	what?	WHAT	1236		nyampa	nyampa 
+844	31-17-65-1	75241737782839122	Gurindji	guri1247	when?	WHEN	1238		nyangurla	nyangurla 
+845	31-17-66-1	75241737339957346	Gurindji	guri1247	where?	WHERE	1237		wanyjika	wanyjika 
+846	31-17-67-1	75241737670293744	Gurindji	guri1247	which?	WHICH	727		wanyji	wanyji 
+847	31-17-68-1	75241737552392757	Gurindji	guri1247	who?	WHO	1235		ngana	ngana 
+848	31-17-69-1	75241737232263297	Gurindji	guri1247	why?	WHY	1270		nyampawu	nyampawu 
+849	31-18-11-1	75241736466819109	Gurindji	guri1247	the voice	VOICE	1363		ngirlkirri	ngirlkirri 
+850	31-18-12-1	7524173747743899	Gurindji	guri1247	to sing	SING	1261		yunpa-	yunpa- 
+851	31-18-13-1	75241737315424841	Gurindji	guri1247	to shout	SHOUT	715		wayarrap ma-	wayarrap ma- 
+852	31-18-15-1	75241737503915886	Gurindji	guri1247	to whisper	WHISPER	55		kiyakiyap ma-	kiyakiyap ma- 
+853	31-18-16-1	75241737942162162	Gurindji	guri1247	to mumble	MUMBLE	128		nguyurrp ma-	nguyurrp ma- 
+854	31-18-17-1	75241737161098574	Gurindji	guri1247	to whistle	WHISTLE	1025		wuruny ma-	wuruny ma- 
+855	31-18-18-1	75241737453183088	Gurindji	guri1247	to shriek	SHRIEK	298		wartayip karri-	wartayip karri- 
+856	31-18-19-1	75241737249669579	Gurindji	guri1247	to howl	HOWL	526		muwup ma-	muwup ma- 
+857	31-18-21-1	752417374847963	Gurindji	guri1247	to speak or talk	SPEAK	1623		jarrakap ma-	jarrakap ma- 
+858	31-18-22-1	7524173713119638	Gurindji	guri1247	to say	SAY	1458		ma-	ma- 
+859	31-18-221-1	75241737786019239	Gurindji	guri1247	to tell	TELL	1711		piyarrp ma-	piyarrp ma- 
+860	31-18-222-1	75241737192985420	Gurindji	guri1247	the speech	SPEECH	1115		pampaya	pampaya 
+861	31-18-23-1	75241737950707139	Gurindji	guri1247	to be silent	BE SILENT	48		muk karri-	muk karri- 
+862	31-18-24-1	75241737289585420	Gurindji	guri1247	the language	LANGUAGE	1307		jaru	jaru 
+863	31-18-26-1	75241737289585420	Gurindji	guri1247	the word	WORD	1599		jaru	jaru 
+864	31-18-28-1	75241737246566758	Gurindji	guri1247	the name	NAME	1405		yini	yini 
+865	31-18-31-1	75241737582825380	Gurindji	guri1247	to ask(1)	ASK (INQUIRE)	1309		yangki pa-	yangki pa- 
+866	31-18-32-1	75241737340541088	Gurindji	guri1247	to answer	ANSWER	1275		jangat pu-	jangat pu- 
+867	31-18-35-1	75241737582825380	Gurindji	guri1247	to ask(2)	ASK (REQUEST)	1828		yangki pa-	yangki pa- 
+868	31-18-36-1	7524173773122128	Gurindji	guri1247	to promise	PROMISE	1675		ngungung ma-	ngungung ma- 
+869	31-18-37-1	75241737874512157	Gurindji	guri1247	to refuse	REFUSE	49		mamam pa-	mamam pa- 
+870	31-18-38-1	75241737874512157	Gurindji	guri1247	to forbid	FORBID	83		mamam pa-	mamam pa- 
+871	31-18-39-1	75241737268571336	Gurindji	guri1247	to scold	SCOLD	299		ju-	ju- 
+872	31-18-41-1	75241737486469703	Gurindji	guri1247	to call(1)	CALL	1084		kaj yuwa-	kaj yuwa- 
+873	31-18-42-1	75241737716271274	Gurindji	guri1247	to call(2)	CALL BY NAME	180		tal pa-	tal pa- 
+874	31-18-43-1	75241737313911332	Gurindji	guri1247	to announce	ANNOUNCE	9		piyarrp ka-	piyarrp ka- 
+875	31-18-44-1	7524173797101023	Gurindji	guri1247	to threaten	THREATEN	1192		nganany ma-	nganany ma- 
+876	31-18-51-1	75241737944207439	Gurindji	guri1247	to write	WRITE	1672		jatajatajkarra yuwa-	jatajatajkarra yuwa- 
+877	31-18-52-1	75241737368544621	Gurindji	guri1247	to read	READ	724		riitim ma-	riitim ma- 
+878	31-18-56-1	75241737431414612	Gurindji	guri1247	the paper	PAPER	648		mirlimirli	mirlimirli 
+879	31-18-57-1	75241737712165637	Gurindji	guri1247	the pen	PEN	794		tuturrpkaji	tuturrpkaji 
+880	31-18-61-1	75241737431414612	Gurindji	guri1247	the book	BOOK	963		mirlimirli	mirlimirli 
+881	31-19-12-1	75241737176098522	Gurindji	guri1247	the native country	NATIVE COUNTRY	89		kanyjurrawurt	kanyjurrawurt 
+882	31-19-16-1	75241737731673476	Gurindji	guri1247	the village	VILLAGE	930		marru	marru 
+883	31-19-23-1	75241737401451476	Gurindji	guri1247	the clan	CLAN	302		panpiya	panpiya 
+884	31-19-24-1	75241737396545524	Gurindji	guri1247	the chieftain	CHIEFTAIN	301		ngampukuju	ngampukuju 
+885	31-19-25-1	75241737509435914	Gurindji	guri1247	the walking stick	WALKING STICK	1296		mirlirri	mirlirri 
+886	31-19-41-1	75241737724224001	Gurindji	guri1247	the master	MASTER	383		karlpumarn	karlpumarn 
+887	31-19-45-1	75241737185083698	Gurindji	guri1247	to command or order	ORDER	1128		maj pa-	maj pa- 
+888	31-19-47-1	75241737969673605	Gurindji	guri1247	to permit	PERMIT	1003		jangarra yuwa-	jangarra yuwa- 
+889	31-19-51-1	7524173751092438	Gurindji	guri1247	the friend	FRIEND	1325		jaliji	jaliji 
+890	31-19-55-1	75241737697920865	Gurindji	guri1247	the stranger	STRANGER	791		kamaliwang	kamaliwang 
+891	31-19-58-1	7524173738711056	Gurindji	guri1247	to help	HELP	1897		pun yuwa-	pun yuwa- 
+892	31-19-59-1	75241737211293817	Gurindji	guri1247	to prevent	PREVENT	1550		jart pa-	jart pa- 
+893	31-19-61-1	75241737152671855	Gurindji	guri1247	the custom	CUSTOM	1747		yumi	yumi 
+894	31-19-62-1	75241737710614498	Gurindji	guri1247	the quarrel	QUARREL	1848		kuli	kuli 
+895	31-19-65-1	7524173763005089	Gurindji	guri1247	to meet	MEET	1831		tuwa ya-	tuwa ya- 
+896	31-20-11-1	75241737395358122	Gurindji	guri1247	to fight	FIGHT	1423		kuii karri-	kuii karri- 
+897	31-20-13-1	75241737949049737	Gurindji	guri1247	the war or battle	BATTLE	579		waringarri	waringarri 
+898	31-20-14-1	7524173759250502	Gurindji	guri1247	the peace	PEACE	1338		yawaliwali	yawaliwali 
+899	31-20-15-1	75241737949049737	Gurindji	guri1247	the army	ARMY	1561		waringarri	waringarri 
+900	31-20-17-1	75241737949049737	Gurindji	guri1247	the soldier	SOLDIER	1941		waringarri	waringarri 
+901	31-20-21-1	75241737557705160	Gurindji	guri1247	the weapons	WEAPONS	951		larrmij	larrmij 
+902	31-20-22-1	75241737857309087	Gurindji	guri1247	the club	CLUB	1763		kuturu	kuturu 
+903	31-20-23-1	7524173779284677	Gurindji	guri1247	the sling	SLING	387		jangayi	jangayi 
+904	31-20-26-1	75241737796265265	Gurindji	guri1247	the spear	SPEAR	945		mirlarrang	mirlarrang 
+905	31-20-28-1	7524173721861576	Gurindji	guri1247	the gun	GUN	1566		turlkkaji	turlkkaji 
+906	31-20-34-1	75241737204588976	Gurindji	guri1247	the shield	SHIELD	1064		mirta	mirta 
+907	31-20-43-1	75241737871303840	Gurindji	guri1247	the attack	ATTACK	722		pululuj wani-	pululuj wani- 
+908	31-20-44-1	75241737611055075	Gurindji	guri1247	to defend	DEFEND	1330		wurrwa-	wurrwa- 
+909	31-20-45-1	75241737182868893	Gurindji	guri1247	to retreat	RETREAT	421		warl wanyja-	warl wanyja- 
+910	31-20-46-1	75241737532262031	Gurindji	guri1247	to surrender	SURRENDER	1696		pujarl ma-	pujarl ma- 
+911	31-20-49-1	75241737484358110	Gurindji	guri1247	the ambush	AMBUSH	65		witi karri-	witi karri- 
+912	31-20-51-1	75241737356377500	Gurindji	guri1247	the fisherman	FISHERMAN	1858		wuyurrurnkarraaji	wuyurrurnkarraaji 
+913	31-20-52-1	75241737363199068	Gurindji	guri1247	the fishhook	FISHHOOK	1074		mirlirti	mirlirti 
+914	31-20-53-1	75241737671875002	Gurindji	guri1247	the fishing line	FISHING LINE	19		wuyurrurn	wuyurrurn 
+915	31-20-54-1	75241737626379255	Gurindji	guri1247	the fishnet	FISHNET	388		warni	warni 
+916	31-20-55-1	75241737386116500	Gurindji	guri1247	the fish trap	FISH TRAP	389		puul	puul 
+917	31-20-56-1	75241737314783702	Gurindji	guri1247	the bait	BAIT	2013		nguru	nguru 
+918	31-20-61-1	75241737467487218	Gurindji	guri1247	to hunt	HUNT	1435		yangkarrp ya-	yangkarrp ya- 
+919	31-20-62-1	75241737454637550	Gurindji	guri1247	to shoot	SHOOT	1172		turlkkarra pa-	turlkkarra pa- 
+920	31-20-63-1	75241737170344437	Gurindji	guri1247	to miss	MISS (A TARGET)	161		purruly	purruly 
+921	31-20-64-1	75241737605050801	Gurindji	guri1247	the trap	TRAP (PITFALL)	1075		larrkan	larrkan 
+922	31-20-65-1	75241737124576917	Gurindji	guri1247	to trap	TRAP (CATCH)	1170		yany ma-	yany ma- 
+923	31-21-11-1	75241737152671855	Gurindji	guri1247	the law	LAW	1062		yumi	yumi 
+924	31-12-013-1	75241737202684417	Gurindji	guri1247	at	AT	1461		ngka (and allomorphs)	ngka (and allomorphs) 
+925	31-21-22-1	75241737249144267	Gurindji	guri1247	the defendant	DEFENDANT	1034		kalanyjurrwaji	kalanyjurrwaji 
+926	31-21-31-1	75241737934679101	Gurindji	guri1247	to accuse	ACCUSE	1814		kurrwara yuwa-	kurrwara yuwa- 
+927	31-21-35-1	75241737396545524	Gurindji	guri1247	guilty	GUILTY	1682		ngampukuju	ngampukuju 
+928	31-21-42-1	75241737130500307	Gurindji	guri1247	the murder	MURDER	845		parnkarrang	parnkarrang 
+929	31-21-44-1	75241737987333869	Gurindji	guri1247	the rape	RAPE	953		lutlutkarra	lutlutkarra 
+930	31-21-47-1	75241737512369741	Gurindji	guri1247	the perjury	PERJURY	1792		kuranykarra	kuranykarra 
+931	31-21-51-1	7524173733154486	Gurindji	guri1247	to steal	STEAL	713		jawurra ma-	jawurra ma- 
+932	31-21-52-1	75241737880423510	Gurindji	guri1247	the thief	THIEF	1160		jawurraaji	jawurraaji 
+933	31-22-12-1	7524173618922124	Gurindji	guri1247	the god	DEITY	3231		ngaji	ngaji 
+934	31-22-16-1	75241737336574890	Gurindji	guri1247	to worship	WORSHIP	257		juju kayi pa-	juju kayi pa- 
+935	31-22-19-1	75241737917859043	Gurindji	guri1247	holy	HOLY	1702		tarruku	tarruku 
+936	31-22-24-1	75241737761883132	Gurindji	guri1247	to curse	CURSE	8		nyinya ma-	nyinya ma- 
+937	31-22-26-1	75241737526355044	Gurindji	guri1247	to fast	ABSTAIN FROM FOOD	303		jamuny karri-	jamuny karri- 
+938	31-22-31-1	75241737820423425	Gurindji	guri1247	the heaven	HEAVEN	1565		kankula	kankula 
+939	31-22-35-1	75241737469280593	Gurindji	guri1247	the demon	DEMON	1973		warntingarna	warntingarna 
+940	31-22-42-1	75241737142611960	Gurindji	guri1247	the magic	MAGIC	392		yarnayarnang	yarnayarnang 
+941	31-22-43-1	75241737367956281	Gurindji	guri1247	the sorcerer or witch	MAGICIAN	2137		munpa	munpa 
+942	31-22-44-1	75241737193413105	Gurindji	guri1247	the fairy or elf	ELF OR FAIRY	3206		munga-munga	munga-munga 
+943	31-22-45-1	75241737198525101	Gurindji	guri1247	the ghost	GHOST	1175		kaya	kaya 
+944	31-22-47-1	75241737237557434	Gurindji	guri1247	the omen	OMEN	107		wuma	wuma 
+945	31-23-12-1	75241737105936577	Gurindji	guri1247	the telephone	TELEPHONE	1379		wilmurr	wilmurr 
+946	31-23-14-1	75241737542776352	Gurindji	guri1247	the car	CAR	1111		kurririj	kurririj 
+947	31-23-16-1	75241737179070172	Gurindji	guri1247	the airplane	AIRPLANE	1597		tiwuwaji	tiwuwaji 
+948	31-23-175-1	7524173791637504	Gurindji	guri1247	the battery	BATTERY	662		nanta	nanta 
+949	31-23-23-1	75241737653264857	Gurindji	guri1247	the injection	INJECTION	1805		turrp	turrp 
+950	31-23-52-1	75241737488732808	Gurindji	guri1247	the toilet	TOILET	219		warlpkaji	warlpkaji 
+951	31-23-3-1	75241737860118778	Gurindji	guri1247	the government	GOVERNMENT	815		kapman	kapman 
+952	31-23-33-1	75241737384088974	Gurindji	guri1247	the police	POLICE	656		tirrkkaji	tirrkkaji 
+953	31-23-42-1	75241737431414612	Gurindji	guri1247	the letter	LETTER	1612		mirlimirli	mirlimirli 
+954	31-23-54-1	75241737938782198	Gurindji	guri1247	the tin/can	CAN	1051		kartak	kartak 
+955	31-23-56-1	75241737307727386	Gurindji	guri1247	the bottle	BOTTLE	1321		murlukurn	murlukurn 
+956	31-23-565-1	75241737340464141	Gurindji	guri1247	the candy/sweets	CANDY	874		kunyja	kunyja 
+957	31-23-59-1	7524173716445861	Gurindji	guri1247	the cigarette	CIGARETTE	969		lujkarraaji	lujkarraaji 
+958	31-23-62-1	75241737851167654	Gurindji	guri1247	the film/movie	MOVIE	216		yartiwaji	yartiwaji 
+959	31-23-64-1	7524173782312923	Gurindji	guri1247	the song	SONG	1096		junpa	junpa 
+960	31-23-155-1	7524173789467463	Gurindji	guri1247	the train	TRAIN	900		turrkalangarna	turrkalangarna 
+961	31-23-195-1	75241737406309122	Gurindji	guri1247	the petroleum	PETROLEUM	650		yingalk	yingalk 
+962	31-23-13-1	75241737729476640	Gurindji	guri1247	the bicycle	BICYCLE	747		lajapkaji	lajapkaji 
+963	31-23-395-1	75241737820246330	Gurindji	guri1247	the street	STREET	1362		warntarri	warntarri 
+964	31-19-445-1	75241737365273756	Gurindji	guri1247	to liberate	LIBERATE	37		purrul yuwa-	purrul yuwa- 
+965	31-19-565-1	75241737486469703	Gurindji	guri1247	to invite	INVITE	1611		kaj yuwa-	kaj yuwa- 
+966	31-24-01-1	75241737625191556	Gurindji	guri1247	to be	BE	1579		karri-	karri- 
+967	31-24-02-1	75241737712664261	Gurindji	guri1247	to become	BECOME	1990		warntaj wani-	warntaj wani- 
+968	31-24-03-1	75241737579932213	Gurindji	guri1247	without	WITHOUT	1478		-mulung	-mulung 
+969	31-24-13-1	75241737622016023	Gurindji	guri1247	same	SAME	200		jintaku-rni	jintaku-rni 
+970	31-24-06-1	75241737428967938	Gurindji	guri1247	not	NOT	1240		kula	kula 
+971	31-24-07-1	75241737164044014	Gurindji	guri1247	this	THIS	1214		nyawa	nyawa 
+972	31-24-08-1	7524173779338179	Gurindji	guri1247	that	THAT	78		nyila	nyila 
+973	31-24-09-1	75241737114986816	Gurindji	guri1247	here	HERE	136		murlangka	murlangka 
+974	31-24-1-1	75241737887442366	Gurindji	guri1247	there	THERE	1937		yalangka	yalangka 
+975	31-24-11-1	75241737933129516	Gurindji	guri1247	other	OTHER	197		-kari	-kari 
+976	31-4-493-1	75241737101705333	Gurindji	guri1247	the vagina	VAGINA	1836		wakarra	wakarra 
+977	31-23-9-1	75241737178870869	Gurindji	guri1247	the tea	TEA	1373		nalija	nalija 
+978	31-23-91-1	75241736658498326	Gurindji	guri1247	the coffee	COFFEE	1299		palangarri	palangarri 
+979	31-24-12-1	75241737204633241	Gurindji	guri1247	next	NEXT	1354		parlkij	parlkij 
+980	31-3-862-1	75241737404703469	Gurindji	guri1247	the coyote	COYOTE	912		ngurrakin	ngurrakin 
+981	31-3-865-1	75241737128804833	Gurindji	guri1247	the quail	QUAIL	1893		purntaru	purntaru 
+982	31-4-465-1	7524173650814478	Gurindji	guri1247	the sinew or tendon	TENDON	1137		kampun	kampun 
+983	31-22-5-1	75241737555789712	Gurindji	guri1247	the circumcision	CIRCUMCISION	393		marntiwa	marntiwa 
+984	31-22-51-1	75241737555789712	Gurindji	guri1247	the initiation ceremony	INITIATION CEREMONY	1946		marntiwa	marntiwa 
+985	31-3-8112-1	75241737378304074	Gurindji	guri1247	the body louse	BODY LOUSE	311		wawuyany	wawuyany 
+986	31-4-494-1	7524173757659245	Gurindji	guri1247	the vulva	VULVA	1837		puju	puju 
+987	31-9-93-1	75241737883504497	Gurindji	guri1247	the whetstone	WHETSTONE	295		jikurnu	jikurnu 
+988	31-7-65-1	75241737919907895	Gurindji	guri1247	the camp	CAMP	1105		ngurra	ngurra 
+989	31-8-28-1	75241737753460906	Gurindji	guri1247	the digging stick (=yamstick)	DIGGING STICK	339		kiyarri	kiyarri 
+990	31-3-597-1	75241737835598257	Gurindji	guri1247	the cormorant	CORMORANT	840		purrkiji	purrkiji 
+991	31-3-833-1	75241737188610913	Gurindji	guri1247	the prawns or shrimp	PRAWNS	238		jaalij	jaalij 
+992	31-3-834-1	75241737460661677	Gurindji	guri1247	the termites	TERMITE	883		murnkurt	murnkurt 
+993	31-3-835-1	75241737342057869	Gurindji	guri1247	the tick	TICK	1527		mitirli	mitirli 
+994	31-9-87-1	7524173769449185	Gurindji	guri1247	the boomerang	BOOMERANG	135		kurrupartu	kurrupartu 
+995	31-3-88-1	75241737305088065	Gurindji	guri1247	the kangaroo	KANGAROO	164		jiya	jiya 
+996	31-3-89-1	7524173743911081	Gurindji	guri1247	the anteater	ANTEATER	181		jungkuwurru	jungkuwurru 
+997	31-8-911-1	75241737218350588	Gurindji	guri1247	the millet or sorghum	MILLET	931		mangurlu	mangurlu 
+998	31-9-9-1	75241737976086721	Gurindji	guri1247	to draw water	DRAW (WATER)	1911		larlup ma-	larlup ma- 
+999	31-10-58-1	75241737806938629	Gurindji	guri1247	to go or return home	RETURN HOME	142		ngurrangkurra ya-	ngurrangkurra ya- 
+1000	31-3-917-1	75241737381751234	Gurindji	guri1247	the buffalo	BUFFALO	934		wirnturruyawung	wirnturruyawung 
+1001	31-1-411-1	75241737370482732	Gurindji	guri1247	the savanna	SAVANNA	260		pakara	pakara 
+1002	31-1-831-1	75241737789676188	Gurindji	guri1247	the steam	STEAM	1193		ngapurung	ngapurung 
+1003	31-2-4562-1	75241737695671297	Gurindji	guri1247	the younger sibling	YOUNGER SIBLING	427		karlaj	karlaj 
+1004	31-2-541-1	75241736566130826	Gurindji	guri1247	the sibling’s child	SIBLING'S CHILD	173		kurturtu	kurturtu 
+1005	31-2-622-1	75241736491465023	Gurindji	guri1247	the parents-in-law	PARENTS-IN-LAW	306		lamparra	lamparra 
+1006	31-2-6411-1	75241736121512176	Gurindji	guri1247	the child-in-law	CHILD-IN-LAW	1060		mali	mali 
+1007	31-2-6412-1	75241736650143962	Gurindji	guri1247	the sibling-in-law	SIBLING-IN-LAW	1832		ngumparna	ngumparna 
+1008	31-2-931-1	75241737313035010	Gurindji	guri1247	he	HE	1211		nyantu	nyantu 
+1009	31-2-932-1	75241737313035010	Gurindji	guri1247	she	SHE	1834		nyantu	nyantu 
+1010	31-2-933-1	75241737313035010	Gurindji	guri1247	it	IT	169		nyantu	nyantu 
+1011	31-4-741-1	75241736484204794	Gurindji	guri1247	the life	LIFE	210		wanji	wanji 
+1012	31-4-771-1	75241737659750329	Gurindji	guri1247	the carcass	CARCASS	1770		lunkurr	lunkurr 
+1013	31-4-844-1	75241737580688586	Gurindji	guri1247	the disease	DISEASE	1986		janga	janga 
+1014	31-11-29-1	75241737100192201	Gurindji	guri1247	to damage	DAMAGE	1116		wankajirrik ma-	wankajirrik ma- 
+1015	31-12-081-1	75241737483533929	Gurindji	guri1247	above	ABOVE	1741		kankulapal	kankulapal 
+1016	31-13-231-1	75241737748594112	Gurindji	guri1247	the piece	PIECE	594		kirtpari	kirtpari 
+1017	31-13-331-1	75241737969782810	Gurindji	guri1247	alone	ALONE	1964		-wariny	-wariny 
+1018	31-14-251-1	7524173714475573	Gurindji	guri1247	the beginning	BEGINNING	1557		jujup	jujup 
+1019	31-14-411-1	75241737186832314	Gurindji	guri1247	the day(2)	DAY (NOT NIGHT)	1225		tirrip	tirrip 
+1020	31-24-14-1	75241737611928642	Gurindji	guri1247	nothing	NOTHING	687		lawara	lawara 
+1021	31-4-7501-1	75241737137537104	Gurindji	guri1247	dead	DEAD	1625		tampang	tampang 
+1022	31-4-8541-1	75241737971031218	Gurindji	guri1247	to scratch	SCRATCH	1436		yikarrp ma-	yikarrp ma- 
+1023	31-9-111-1	75241737651651986	Gurindji	guri1247	to make	MAKE	734		pirrka ma-	pirrka ma- 
+1024	31-4-431-1	75241736105199814	Gurindji	guri1247	the belly	BELLY	1251		majul	majul 
+1025	31-9-311-1	75241737879248328	Gurindji	guri1247	to wipe	WIPE	1454		kamang ma-	kamang ma- 
+1026	31-1-775-1	75241737358850978	Gurindji	guri1247	to freeze	FREEZE	1431		murrupa-k karri-	murrupa-k karri- 
+1027	31-24-04-1	75241737298855021	Gurindji	guri1247	with	WITH	1340		-kunyja	-kunyja 
+1028	31-12-012-1	75241737868052128	Gurindji	guri1247	in	IN	1460		-ngka (and allomorphs)	-ngka (and allomorphs) 

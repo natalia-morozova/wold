@@ -1,0 +1,63 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	lamparra, mangarri	Gurindji	1126	U+0061
+u	u	murlukurn, purrul yuwa-	Gurindji	588	U+0075
+i	i	mirlimirli, jakiliny	Gurindji	494	U+0069
+n	n	lunkurrngarna, janginyina	Gurindji	486	U+006e
+a$	a	lamparra, jamana	Gurindji	420	U+0061 U+0024
+r	r	wurlngarn, kurturtu	Gurindji	396	U+0072
+rr	rr	mangarri, lamparra	Gurindji	325	U+0072 U+0072
+k	k	wurrkawurrkal, makin karri-	Gurindji	306	U+006b
+-	<?>	ka-, karri-	Gurindji	298	U+002d
+l	l	mirlimirli, jakiliny	Gurindji	285	U+006c
+y	y	wirrminy yuwa-, nyantu	Gurindji	284	U+0079
+_	_	karrap nya-, jarriny pirrka ma-	Gurindji	267	U+005f
+p	p	lamparra, japiyapi	Gurindji	258	U+0070
+i$	i	mangarri, ngunti	Gurindji	244	U+0069 U+0024
+m	m	lamparra, jamana	Gurindji	236	U+006d
+g	g	mangarri, ngunti	Gurindji	233	U+0067
+j	j	lujkarraaji, wajija	Gurindji	199	U+006a
+^k	k	ka-, kartak	Gurindji	190	U+005e U+006b
+t	t	kurturtu, ngunti	Gurindji	185	U+0074
+w	w	ngawa, jawul walywalyarra karri-	Gurindji	146	U+0077
+^j	j	jamana, jakiliny	Gurindji	144	U+005e U+006a
+^w	w	warntarri, wurlngarn	Gurindji	142	U+005e U+0077
+^n	n	ngunti, nyantu	Gurindji	141	U+005e U+006e
+u$	u	nyantu, kurturtu	Gurindji	126	U+0075 U+0024
+^p	p	pirnti, puka	Gurindji	114	U+005e U+0070
+^m	m	mangarri, mali	Gurindji	111	U+005e U+006d
+^t	t	timpi, talymip	Gurindji	65	U+005e U+0074
+^y	y	yipu, yingalk	Gurindji	55	U+005e U+0079
+^l	l	lamparra, luku	Gurindji	53	U+005e U+006c
+n$	n	wurlngarn, ngarin	Gurindji	45	U+006e U+0024
+g$	g	nungkiying, winkilying	Gurindji	44	U+0067 U+0024
+k$	k	kartak, patik	Gurindji	28	U+006b U+0024
+l$	l	kaninyjal, kanyjal	Gurindji	27	U+006c U+0024
+y$	y	jakiliny, ngalawuny	Gurindji	24	U+0079 U+0024
+rr$	rr	wararr, kaminyjarr	Gurindji	22	U+0072 U+0072 U+0024
+j$	j	karlaj, tartij	Gurindji	16	U+006a U+0024
+aa	aa	kaapikaapi, wangaak	Gurindji	15	U+0061 U+0061
+t$	t	ngumpit, kaput	Gurindji	15	U+0074 U+0024
+p$	p	talymip, turrp	Gurindji	11	U+0070 U+0024
+rw	rw	kurrwara yuwa-, wurrwa-	Gurindji	10	U+0072 U+0077
+^r	r	-rni, rampali	Gurindji	10	U+005e U+0072
+ii	ii	wiingki, purriip marn-	Gurindji	6	U+0069 U+0069
+lw	lw	talwirr yuwa-, jalwa	Gurindji	5	U+006c U+0077
+kk	kk	turlkkaji, warukku wumara	Gurindji	5	U+006b U+006b
+.	<?>	nyamu...nga	Gurindji	3	U+002e
+nn	nn	parnngirri, parnnga	Gurindji	2	U+006e U+006e
+m$	m	mum	Gurindji	2	U+006d U+0024
+C	<?>	karri- with LOCATVE	Gurindji	1	U+0043
+th	th	karri- with LOCATVE	Gurindji	1	U+0074 U+0068
+gw	gw	wilngwilng ma-	Gurindji	1	U+0067 U+0077
+ngka (and allomorphs)	<???>	ngka (and allomorphs)	Gurindji	1	U+006e U+0067 U+006b U+0061 U+0020 U+0028 U+0061 U+006e U+0064 U+0020 U+0061 U+006c U+006c U+006f U+006d U+006f U+0072 U+0070 U+0068 U+0073 U+0029
+uu	uu	puul	Gurindji	1	U+0075 U+0075
+A	<?>	karri- with LOCATVE	Gurindji	1	U+0041
+T	<?>	karri- with LOCATVE	Gurindji	1	U+0054
+jipu(n) pa-	<???>	jipu(n) pa-	Gurindji	1	U+006a U+0069 U+0070 U+0075 U+0028 U+006e U+0029 U+0020 U+0070 U+0061 U+002d
+E$	<?>	karri- with LOCATVE	Gurindji	1	U+0045 U+0024
+L	<?>	karri- with LOCATVE	Gurindji	1	U+004c
+O	<?>	karri- with LOCATVE	Gurindji	1	U+004f
+V	<?>	karri- with LOCATVE	Gurindji	1	U+0056
+-ngka (and allomorphs)	<???>	-ngka (and allomorphs)	Gurindji	1	U+002d U+006e U+0067 U+006b U+0061 U+0020 U+0028 U+0061 U+006e U+0064 U+0020 U+0061 U+006c U+006c U+006f U+006d U+006f U+0072 U+0070 U+0068 U+0073 U+0029

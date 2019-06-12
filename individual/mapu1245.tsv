@@ -1,0 +1,1414 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	41-1-1-1	7211254768603039	Mapudungun	mapu1245	the world	WORLD	965		mapu	mapu 
+2	41-1-21-1	7211254293462815	Mapudungun	mapu1245	the land	LAND	626		mapu	mapu 
+3	41-1-212-1	7211254856055887	Mapudungun	mapu1245	the soil	EARTH (SOIL)	1228		püllü	püllü 
+4	41-1-212-2	7211254965908677	Mapudungun	mapu1245	the soil	EARTH (SOIL)	1228		kuyüm	kuyüm 
+5	41-1-213-1	7211254600734787	Mapudungun	mapu1245	the dust	DUST	2		trufür	trufür 
+6	41-1-213-2	7211254686088233	Mapudungun	mapu1245	the dust	DUST	2		trufken	trufken 
+7	41-1-214-1	7211254733136159	Mapudungun	mapu1245	the mud	MUD	640		fotra	fotra 
+8	41-1-215-1	721125413964564	Mapudungun	mapu1245	the sand	SAND	671		kuyüm	kuyüm 
+9	41-1-215-2	7211254187749522	Mapudungun	mapu1245	the sand	SAND	671		achef kuyüm	achef kuyüm 
+10	41-1-22-1	7211254911334680	Mapudungun	mapu1245	the mountain or hill	MOUNTAIN OR HILL	2118		mawiza	mawiza 
+11	41-1-22-2	7211254189768552	Mapudungun	mapu1245	the mountain or hill	MOUNTAIN OR HILL	2118		wingkul	wingkul 
+12	41-1-22-3	76282317137994250	Mapudungun	mapu1245	the mountain or hill	MOUNTAIN OR HILL	2118		kalel	kalel 
+13	41-1-222-1	72112545532125	Mapudungun	mapu1245	the cliff or precipice	PRECIPICE	618		lil	lil 
+14	41-1-23-1	7211254821751023	Mapudungun	mapu1245	the plain	PLAIN	652		laf mapu	laf mapu 
+15	41-1-23-2	7211254930201495	Mapudungun	mapu1245	the plain	PLAIN	652		lelfün	lelfün 
+16	41-1-24-1	7211254952779022	Mapudungun	mapu1245	the valley	VALLEY	921		waw	waw 
+17	41-1-25-1	7211254773797158	Mapudungun	mapu1245	the island	ISLAND	622		wapi	wapi 
+18	41-1-26-1	7211254293462815	Mapudungun	mapu1245	the mainland	MAINLAND	166		mapu	mapu 
+19	41-1-27-1	7211254167724066	Mapudungun	mapu1245	the shore	SHORE	113		inaltu	inaltu 
+20	41-1-28-1	7211254452491450	Mapudungun	mapu1245	the cave	CAVE	1155		lolo	lolo 
+21	41-1-31-1	7211254516131498	Mapudungun	mapu1245	the water	WATER	948		ko	ko 
+22	41-1-32-1	7211254469509001	Mapudungun	mapu1245	the sea	SEA	1474		ḻafkeṉ	ḻafkeṉ 
+23	41-1-322-1	7211254191074186	Mapudungun	mapu1245	calm	CALM	258		ñüküf	ñüküf 
+24	41-1-322-2	7211254562234099	Mapudungun	mapu1245	calm	CALM	258		tüng	tüng 
+25	41-1-323-1	7211254864918821	Mapudungun	mapu1245	rough(2)	ROUGH (OF SEA)	259		illkuley	illkuley 
+26	41-1-324-1	7211254115442516	Mapudungun	mapu1245	the foam	FOAM	1768		trorfan	trorfan 
+27	41-1-324-2	7211254443119876	Mapudungun	mapu1245	the foam	FOAM	1768		tronün	tronün 
+28	41-1-329-1	7211254469509001	Mapudungun	mapu1245	the ocean	OCEAN	645		ḻafkeṉ	ḻafkeṉ 
+29	41-1-33-1	7211254469509001	Mapudungun	mapu1245	the lake	LAKE	624		ḻafkeṉ	ḻafkeṉ 
+30	41-1-341-1	7211254965931940	Mapudungun	mapu1245	the lagoon	LAGOON	623		pichi ḻafkeṉ	pichi ḻafkeṉ 
+31	41-1-341-2	813115809400529	Mapudungun	mapu1245	the lagoon	LAGOON	623		lawna	lawna 
+32	41-1-342-1	7211254648940523	Mapudungun	mapu1245	the reef	REEF	660		lil	lil 
+33	41-1-35-1	721125413978769	Mapudungun	mapu1245	the wave	WAVE	978		rew	rew 
+34	41-1-354-1	7211254341903646	Mapudungun	mapu1245	the high tide	HIGH TIDE	613		tripako	tripako 
+35	41-1-36-1	7211254958399900	Mapudungun	mapu1245	the river or stream	RIVER	666		ḻewfü	ḻewfü 
+36	41-1-36-2	7211254798864636	Mapudungun	mapu1245	the river or stream	RIVER	666		witrun ko	witrun ko 
+37	41-1-362-1	7211254423780259	Mapudungun	mapu1245	the whirlpool	WHIRLPOOL	1982		pewül ko	pewül ko 
+38	41-1-37-1	7211254893028163	Mapudungun	mapu1245	the spring or well	SPRING OR WELL	2144		wüf ko	wüf ko 
+39	41-1-37-2	7211254685227579	Mapudungun	mapu1245	the spring or well	SPRING OR WELL	2144		rüngan ko	rüngan ko 
+40	41-1-38-1	7211254787505252	Mapudungun	mapu1245	the swamp	SWAMP	1145		llozko	llozko 
+41	41-1-38-2	721125492126611	Mapudungun	mapu1245	the swamp	SWAMP	1145		menoko	menoko 
+42	41-1-39-1	7211254109749953	Mapudungun	mapu1245	the waterfall	WATERFALL	943		traytray ko	traytray ko 
+43	41-1-39-2	7211254601557973	Mapudungun	mapu1245	the waterfall	WATERFALL	943		witrun ko	witrun ko 
+44	41-1-41-1	7211254504435998	Mapudungun	mapu1245	the woods or forest	FOREST	420		lemu	lemu 
+45	41-1-43-1	7211254495146233	Mapudungun	mapu1245	the wood	WOOD	1803		mamüll	mamüll 
+46	41-1-44-1	7211254781225771	Mapudungun	mapu1245	the stone or rock	STONE OR ROCK	2125		kura	kura 
+47	41-1-44-2	7211254648940523	Mapudungun	mapu1245	the stone or rock	STONE OR ROCK	2125		lil	lil 
+48	41-1-45-1	7211254651985606	Mapudungun	mapu1245	the earthquake	EARTHQUAKE	6		nüyüṉ	nüyüṉ 
+49	41-1-51-1	7211254155604392	Mapudungun	mapu1245	the sky	SKY	1732		wenu mapu	wenu mapu 
+50	41-1-51-2	7211254125523907	Mapudungun	mapu1245	the sky	SKY	1732		wenu	wenu 
+51	41-1-52-1	7211254127865203	Mapudungun	mapu1245	the sun	SUN	1343		antü	antü 
+52	41-1-53-1	7211254891402585	Mapudungun	mapu1245	the moon	MOON	1313		küyeṉ	küyeṉ 
+53	41-1-54-1	7211254867713243	Mapudungun	mapu1245	the star	STAR	1430		wangüḻen	wangüḻen 
+54	41-1-55-1	7211254135325383	Mapudungun	mapu1245	the lightning	LIGHTNING	1654		llüfke	llüfke 
+55	41-1-56-1	721125453995034	Mapudungun	mapu1245	the thunder	THUNDER	1150		tralkan	tralkan 
+56	41-1-57-1	7211254135325383	Mapudungun	mapu1245	the bolt of lightning	BOLT (OF LIGHTNING)	2007		llüfke	llüfke 
+57	41-1-58-1	721125414524906	Mapudungun	mapu1245	the storm	STORM	858		lulul wenu	lulul wenu 
+58	41-1-58-2	7211254237444400	Mapudungun	mapu1245	the storm	STORM	858		küm küm wenu	küm küm wenu 
+59	41-1-59-1	7211254868808842	Mapudungun	mapu1245	the rainbow	RAINBOW	1733		relmu	relmu 
+60	41-1-61-1	7211254597156442	Mapudungun	mapu1245	the light	LIGHT (RADIATION)	630		pelon	pelon 
+61	41-1-62-1	7211254320452004	Mapudungun	mapu1245	the darkness	DARKNESS	11		zumiñ	zumiñ 
+62	41-1-63-1	7211254438175989	Mapudungun	mapu1245	the shade or shadow	SHADE	1388		llawfeñ	llawfeñ 
+63	41-1-63-2	7211254468137214	Mapudungun	mapu1245	the shade or shadow	SHADE	1388		aywiñ	aywiñ 
+64	41-1-64-1	7211254126511036	Mapudungun	mapu1245	the dew	DEW	1977		iḻwen	iḻwen 
+65	41-1-64-2	7211254858080397	Mapudungun	mapu1245	the dew	DEW	1977		müḻfeñ	müḻfeñ 
+66	41-1-64-3	7211254220029646	Mapudungun	mapu1245	the dew	DEW	1977		trangliñi	trangliñi 
+67	41-1-71-1	7211254236536330	Mapudungun	mapu1245	the air	AIR	27		kürüf	kürüf 
+68	41-1-72-1	7211254236536330	Mapudungun	mapu1245	the wind	WIND	960		kürüf	kürüf 
+69	41-1-73-1	7211254337989896	Mapudungun	mapu1245	the cloud	CLOUD	1489		tromü	tromü 
+70	41-1-74-1	721125481958468	Mapudungun	mapu1245	the fog	FOG	249		trukür	trukür 
+71	41-1-75-1	72112545973	Mapudungun	mapu1245	the rain	RAIN (PRECIPITATION)	658		mawüṉ	mawüṉ 
+72	41-1-76-1	7211254314212162	Mapudungun	mapu1245	the snow	SNOW	784		pire	pire 
+73	41-1-77-1	7211254521815106	Mapudungun	mapu1245	the ice	ICE	617		trangliñ	trangliñ 
+74	41-1-78-1	7211254127865203	Mapudungun	mapu1245	the weather	WEATHER	952		antü	antü 
+75	41-1-81-1	7211254721450744	Mapudungun	mapu1245	the fire	FIRE	221		kütral	kütral 
+76	41-1-82-1	7211254719029477	Mapudungun	mapu1245	the flame	FLAME	889		weywiñ	weywiñ 
+77	41-1-83-1	7211254954483457	Mapudungun	mapu1245	the smoke	SMOKE (EXHAUST)	778		fitrun	fitrun 
+78	41-1-84-1	7211254686088233	Mapudungun	mapu1245	the ash	ASH	646		trufken	trufken 
+79	41-1-84-2	7211254203685990	Mapudungun	mapu1245	the ash	ASH	646		liq kuyüm	liq kuyüm 
+80	41-1-841-1	7211254435918448	Mapudungun	mapu1245	the embers	EMBERS	67		ayḻen	ayḻen 
+81	41-1-851-1	721125483707680	Mapudungun	mapu1245	to burn(1)	BURN (SOMETHING)	141		pütren	pütren 
+82	41-1-851-2	7211254700968358	Mapudungun	mapu1245	to burn(1)	BURN (SOMETHING)	141		lüpümün	lüpümün 
+83	41-1-852-1	7211254350926623	Mapudungun	mapu1245	to burn(2)	BURNING	1428		üyün	üyün 
+84	41-1-86-1	721125479258948	Mapudungun	mapu1245	to light	LIGHT (IGNITE)	737		üyümün	üyümün 
+85	41-1-861-1	7211254313236600	Mapudungun	mapu1245	to extinguish	EXTINGUISH	127		chongümün	chongümün 
+86	41-1-87-1	7211254168019121	Mapudungun	mapu1245	the match	MATCH	1133		kütral	kütral 
+87	41-1-87-2	7211254733942101	Mapudungun	mapu1245	the match	MATCH	1133		foforo	foforo 
+88	41-1-88-1	7211254495146233	Mapudungun	mapu1245	the firewood	FIREWOOD	10		mamüll	mamüll 
+89	41-1-89-1	7211254294396869	Mapudungun	mapu1245	the charcoal	CHARCOAL	1188		kuyüḻ	kuyüḻ 
+90	41-1-89-2	712251557223365843	Mapudungun	mapu1245	the charcoal	CHARCOAL	1188		karfon	karfon 
+91	41-2-1-1	7211254221537057	Mapudungun	mapu1245	the person	PERSON	683		che	che 
+92	41-2-21-1	7211254274822557	Mapudungun	mapu1245	the man	MAN	1554		wentru	wentru 
+93	41-2-22-1	7211254555378572	Mapudungun	mapu1245	the woman	WOMAN	962		zomo	zomo 
+94	41-2-23-1	7211254274822557	Mapudungun	mapu1245	male(1)	MALE (OF ANIMAL)	2263		wentru	wentru 
+95	41-2-24-1	7211254555378572	Mapudungun	mapu1245	female(1)	FEMALE (OF PERSON)	2260		zomo	zomo 
+96	41-2-25-1	7211254364353906	Mapudungun	mapu1245	the boy	BOY	1366		weche wentru	weche wentru 
+97	41-2-251-1	7211254799984880	Mapudungun	mapu1245	the young man	YOUNG MAN	76		we che	we che 
+98	41-2-26-1	7211254404153996	Mapudungun	mapu1245	the girl	GIRL	1646		maḻeṉ	maḻeṉ 
+99	41-2-261-1	7211254431114589	Mapudungun	mapu1245	the young woman	YOUNG WOMAN	77		üllcha	üllcha 
+100	41-2-261-2	7211254459025231	Mapudungun	mapu1245	the young woman	YOUNG WOMAN	77		maḻeṉ	maḻeṉ 
+101	41-2-27-1	7211254180583397	Mapudungun	mapu1245	the child(1)	CHILD (YOUNG HUMAN)	1304		pichi wentru	pichi wentru 
+102	41-2-27-2	7211254997098222	Mapudungun	mapu1245	the child(1)	CHILD (YOUNG HUMAN)	1304		pichi zomo	pichi zomo 
+103	41-2-28-1	721125442699091	Mapudungun	mapu1245	the baby	BABY	1289		lluzu	lluzu 
+104	41-2-28-2	7211254658234899	Mapudungun	mapu1245	the baby	BABY	1289		metatu	metatu 
+105	41-2-28-3	7211254743428668	Mapudungun	mapu1245	the baby	BABY	1289		llushu	llushu 
+106	41-2-31-1	7211254664535936	Mapudungun	mapu1245	the husband	HUSBAND	1200		füta	füta 
+107	41-2-32-1	721125449998882	Mapudungun	mapu1245	the wife	WIFE	1199		kure	kure 
+108	41-2-33-1	721125438217740	Mapudungun	mapu1245	to marry	MARRY	203		kurengen	kurengen 
+109	41-2-33-2	7211254518723677	Mapudungun	mapu1245	to marry	MARRY	203		fütangen	fütangen 
+110	41-2-33-3	7211254836951459	Mapudungun	mapu1245	to marry	MARRY	203		kuretun	kuretun 
+111	41-2-34-1	7211254345457188	Mapudungun	mapu1245	the wedding	WEDDING	1259		kureyewün	kureyewün 
+112	41-2-35-1	7211254355763503	Mapudungun	mapu1245	the father	FATHER	1217		chaw	chaw 
+113	41-2-36-1	7211254590571462	Mapudungun	mapu1245	the mother	MOTHER	1216		ñuke	ñuke 
+114	41-2-37-1	7211254680654113	Mapudungun	mapu1245	the parents	PARENTS	505		epu fütake che	epu fütake che 
+115	41-2-38-1	7211254852358905	Mapudungun	mapu1245	the married man	MARRIED MAN	424		kurengen wentru	kurengen wentru 
+116	41-2-39-1	7211254709724743	Mapudungun	mapu1245	the married woman	MARRIED WOMAN	426		fütangen zomo	fütangen zomo 
+117	41-2-41-1	7211254834949546	Mapudungun	mapu1245	the son	SON	1620		fotüm	fotüm 
+118	41-2-41-2	7211254229749257	Mapudungun	mapu1245	the son	SON	1620		wentru püñeñ	wentru püñeñ 
+119	41-2-42-1	7211254685381091	Mapudungun	mapu1245	the daughter	DAUGHTER	1357		ñawe	ñawe 
+120	41-2-42-2	7211254783738582	Mapudungun	mapu1245	the daughter	DAUGHTER	1357		zomo püñeñ	zomo püñeñ 
+121	41-2-43-1	7211254108524952	Mapudungun	mapu1245	the child(2)	CHILD (DESCENDANT)	1801		yall	yall 
+122	41-2-43-2	7211254307944868	Mapudungun	mapu1245	the child(2)	CHILD (DESCENDANT)	1801		püñeñ	püñeñ 
+123	41-2-44-1	7211254975676557	Mapudungun	mapu1245	the brother	BROTHER	1262		peñi	peñi 
+124	41-2-44-2	7211254932208672	Mapudungun	mapu1245	the brother	BROTHER	1262		wentru lamngen	wentru lamngen 
+125	41-2-444-1	7211254824010219	Mapudungun	mapu1245	the older brother	OLDER BROTHER	1759		wünen peñi	wünen peñi 
+126	41-2-444-2	7211254671944728	Mapudungun	mapu1245	the older brother	OLDER BROTHER	1759		wünen wentru lamngen	wünen wentru lamngen 
+127	41-2-445-1	7211254763568606	Mapudungun	mapu1245	the younger brother	YOUNGER BROTHER	1760		inan peñi	inan peñi 
+128	41-2-445-2	7211254106095930	Mapudungun	mapu1245	the younger brother	YOUNGER BROTHER	1760		inan wentru lamngen	inan wentru lamngen 
+129	41-2-45-1	72112542005504	Mapudungun	mapu1245	the sister	SISTER	1263		lamngen	lamngen 
+130	41-2-45-2	7211254462649098	Mapudungun	mapu1245	the sister	SISTER	1263		zomo lamngen	zomo lamngen 
+131	41-2-45-3	98231440117068210	Mapudungun	mapu1245	the sister	SISTER	1263		ñaña	ñaña 
+132	41-2-454-1	7211254609813795	Mapudungun	mapu1245	the older sister	OLDER SISTER	1758		wünen lamngen	wünen lamngen 
+133	41-2-454-2	7211254626458180	Mapudungun	mapu1245	the older sister	OLDER SISTER	1758		wünen zomo lamngen	wünen zomo lamngen 
+134	41-2-455-1	7211254930541086	Mapudungun	mapu1245	the younger sister	YOUNGER SISTER	1761		inan lamngen	inan lamngen 
+135	41-2-455-2	7211254521057162	Mapudungun	mapu1245	the younger sister	YOUNGER SISTER	1761		inan zomo lamngen	inan zomo lamngen 
+136	41-2-456-1	7211254383052463	Mapudungun	mapu1245	the sibling	SIBLING	1640		lamngenwen	lamngenwen 
+137	41-2-46-1	7211254630265149	Mapudungun	mapu1245	the grandfather	GRANDFATHER	1383		ḻaku	ḻaku 
+138	41-2-46-2	7211254138629859	Mapudungun	mapu1245	the grandfather	GRANDFATHER	1383		chezki	chezki 
+139	41-2-46-3	7211254373246547	Mapudungun	mapu1245	the grandfather	GRANDFATHER	1383		cheche	cheche 
+140	41-2-461-1	7211254538306442	Mapudungun	mapu1245	the old man	OLD MAN	406		fücha	fücha 
+141	41-2-47-1	7211254717221444	Mapudungun	mapu1245	the grandmother	GRANDMOTHER	1496		kuku	kuku 
+142	41-2-47-2	7211254909112567	Mapudungun	mapu1245	the grandmother	GRANDMOTHER	1496		chuchu	chuchu 
+143	41-2-47-3	7211254805603310	Mapudungun	mapu1245	the grandmother	GRANDMOTHER	1496		awela	awela 
+144	41-2-471-1	7211254132254219	Mapudungun	mapu1245	the old woman	OLD WOMAN	907		kuse	kuse 
+145	41-2-471-2	7211254762932474	Mapudungun	mapu1245	the old woman	OLD WOMAN	907		kushe	kushe 
+146	41-2-48-1	7211254630265149	Mapudungun	mapu1245	the grandson	GRANDSON	1618		ḻaku	ḻaku 
+147	41-2-48-2	7211254717221444	Mapudungun	mapu1245	the grandson	GRANDSON	1618		kuku	kuku 
+148	41-2-48-3	7211254373246547	Mapudungun	mapu1245	the grandson	GRANDSON	1618		cheche	cheche 
+149	41-2-48-4	7211254138629859	Mapudungun	mapu1245	the grandson	GRANDSON	1618		chezki	chezki 
+150	41-2-49-1	7211254630265149	Mapudungun	mapu1245	the granddaughter	GRANDDAUGHTER	1619		ḻaku	ḻaku 
+151	41-2-49-2	7211254717221444	Mapudungun	mapu1245	the granddaughter	GRANDDAUGHTER	1619		kuku	kuku 
+152	41-2-49-3	7211254138629859	Mapudungun	mapu1245	the granddaughter	GRANDDAUGHTER	1619		chezki	chezki 
+153	41-2-49-4	7211254909112567	Mapudungun	mapu1245	the granddaughter	GRANDDAUGHTER	1619		chuchu	chuchu 
+154	41-2-49-5	7211254373246547	Mapudungun	mapu1245	the granddaughter	GRANDDAUGHTER	1619		cheche	cheche 
+155	41-2-511-1	7211254960983006	Mapudungun	mapu1245	the mother's brother	MOTHER'S BROTHER	1984		weku	weku 
+156	41-2-512-1	7211254962544823	Mapudungun	mapu1245	the father's brother	FATHER'S BROTHER	1985		malle	malle 
+157	41-2-521-1	7211254959903381	Mapudungun	mapu1245	the mother's sister	MOTHER'S SISTER	171		ñukentu	ñukentu 
+158	41-2-521-2	98231455415913680	Mapudungun	mapu1245	the mother's sister	MOTHER'S SISTER	171		kaka	kaka 
+159	41-2-522-1	7211254164469029	Mapudungun	mapu1245	the father's sister	FATHER'S SISTER	170		paḻu	paḻu 
+160	41-2-53-1	7211254220695203	Mapudungun	mapu1245	the nephew	NEPHEW	1063		malle fotüm	malle fotüm 
+161	41-2-53-2	7211254405676508	Mapudungun	mapu1245	the nephew	NEPHEW	1063		choküm	choküm 
+162	41-2-53-3	7211254438315136	Mapudungun	mapu1245	the nephew	NEPHEW	1063		paḻu	paḻu 
+163	41-2-53-4	7211254238610702	Mapudungun	mapu1245	the nephew	NEPHEW	1063		koñintu	koñintu 
+164	41-2-54-1	7211254850844360	Mapudungun	mapu1245	the niece	NIECE	1642		malle ñawe	malle ñawe 
+165	41-2-54-2	7211254405676508	Mapudungun	mapu1245	the niece	NIECE	1642		choküm	choküm 
+166	41-2-54-3	7211254438315136	Mapudungun	mapu1245	the niece	NIECE	1642		paḻu	paḻu 
+167	41-2-54-4	7211254238610702	Mapudungun	mapu1245	the niece	NIECE	1642		koñintu	koñintu 
+168	41-2-55-1	7211254196638302	Mapudungun	mapu1245	the cousin	COUSIN	1643		peñi	peñi 
+169	41-2-55-2	72112542005504	Mapudungun	mapu1245	the cousin	COUSIN	1643		lamngen	lamngen 
+170	41-2-55-3	7211254619008008	Mapudungun	mapu1245	the cousin	COUSIN	1643		müṉa	müṉa 
+171	41-2-56-1	721125435156837	Mapudungun	mapu1245	the ancestors	ANCESTORS	1669		kwifike che yem	kwifike che yem 
+172	41-2-57-1	721125471766179	Mapudungun	mapu1245	the descendants	DESCENDANTS	490		yom	yom 
+173	41-2-57-2	7211254833582204	Mapudungun	mapu1245	the descendants	DESCENDANTS	490		ta ñi pu el	ta ñi pu el 
+174	41-2-61-1	7211254715604993	Mapudungun	mapu1245	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		chezkuy	chezkuy 
+175	41-2-611-1	7211254767639612	Mapudungun	mapu1245	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		püñmu	püñmu 
+176	41-2-62-1	7211254859783367	Mapudungun	mapu1245	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		llalla	llalla 
+177	41-2-621-1	7211254484392550	Mapudungun	mapu1245	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		ṉaṉüng	ṉaṉüng 
+178	41-2-63-1	7211254715604993	Mapudungun	mapu1245	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		chezkuy	chezkuy 
+179	41-2-631-1	7211254767639612	Mapudungun	mapu1245	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		püñmu	püñmu 
+180	41-2-64-1	7211254767639612	Mapudungun	mapu1245	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		püñmu	püñmu 
+181	41-2-641-1	7211254484392550	Mapudungun	mapu1245	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		ṉaṉüng	ṉaṉüng 
+182	41-2-71-1	7211254145903823	Mapudungun	mapu1245	the stepfather	STEPFATHER	237		malle chaw	malle chaw 
+183	41-2-72-1	7211254848164878	Mapudungun	mapu1245	the stepmother	STEPMOTHER	236		ñeñe	ñeñe 
+184	41-2-73-1	7211254220695203	Mapudungun	mapu1245	the stepson	STEPSON	1059		malle fotüm	malle fotüm 
+185	41-2-74-1	7211254850844360	Mapudungun	mapu1245	the stepdaughter	STEPDAUGHTER	1058		malle ñawe	malle ñawe 
+186	41-2-75-1	7211254233007600	Mapudungun	mapu1245	the orphan	ORPHAN	1149		kuñifall	kuñifall 
+187	41-2-75-2	98231458694406121	Mapudungun	mapu1245	the orphan	ORPHAN	1149		wachol	wachol 
+188	41-2-76-1	7211254310915325	Mapudungun	mapu1245	the widow	WIDOW	1756		ḻantu zomo	ḻantu zomo 
+189	41-2-77-1	7211254153629727	Mapudungun	mapu1245	the widower	WIDOWER	1981		ḻantu wentru	ḻantu wentru 
+190	41-2-81-1	7211254390905965	Mapudungun	mapu1245	the relatives	RELATIVES	1644		reñma	reñma 
+191	41-2-82-1	7211254952344900	Mapudungun	mapu1245	the family	FAMILY	194		füren	füren 
+192	41-2-82-2	7211254682597450	Mapudungun	mapu1245	the family	FAMILY	194		familia	familia 
+193	41-2-91-1	7211254794047024	Mapudungun	mapu1245	I	I	1209		iñche	iñche 
+194	41-2-92-1	7211254944632452	Mapudungun	mapu1245	you (singular)	THOU	1215		eymi	eymi 
+195	41-2-93-1	7211254397336584	Mapudungun	mapu1245	he/she/it	HE OR SHE OR IT	262		fey	fey 
+196	41-2-94-1	7211254717758430	Mapudungun	mapu1245	we	WE	1212		iñchiñ	iñchiñ 
+197	41-2-94-2	7211254547871609	Mapudungun	mapu1245	we	WE	1212		iñchiw	iñchiw 
+198	41-2-95-1	7211254517628440	Mapudungun	mapu1245	you (plural)	YOU	1213		eymu	eymu 
+199	41-2-95-2	7211254916639965	Mapudungun	mapu1245	you (plural)	YOU	1213		eymün	eymün 
+200	41-2-96-1	7211254620359367	Mapudungun	mapu1245	they	THEY	817		feyengu	feyengu 
+201	41-2-96-2	7211254216642262	Mapudungun	mapu1245	they	THEY	817		feyengün	feyengün 
+202	41-3-11-1	7211254553439370	Mapudungun	mapu1245	the animal	ANIMAL	619		kulliñ	kulliñ 
+203	41-3-12-1	7211254601118229	Mapudungun	mapu1245	male(2)	MALE (OF PERSON)	2261		wentru	wentru 
+204	41-3-12-2	7211254583018433	Mapudungun	mapu1245	male(2)	MALE (OF PERSON)	2261		alka	alka 
+205	41-3-13-1	7211254499417768	Mapudungun	mapu1245	female(2)	FEMALE (OF ANIMAL)	2262		zomo	zomo 
+206	41-3-15-1	7211254553439370	Mapudungun	mapu1245	the livestock	LIVESTOCK	631		kulliñ	kulliñ 
+207	41-3-16-1	7211254312481979	Mapudungun	mapu1245	the pasture	PASTURE	649		potreru	potreru 
+208	41-3-18-1	7211254201888812	Mapudungun	mapu1245	the herdsman	HERDSMAN	263		kulliñ kamañ	kulliñ kamañ 
+209	41-3-19-1	7211254371902513	Mapudungun	mapu1245	the stable or stall	STABLE	851		walpon	walpon 
+210	41-3-21-1	7211254749538738	Mapudungun	mapu1245	the bull	BULL	1008		toro	toro 
+211	41-3-22-1	7211254285352782	Mapudungun	mapu1245	the ox	OX	1169		manshun	manshun 
+212	41-3-23-1	7211254839722069	Mapudungun	mapu1245	the cow	COW	1007		waka	waka 
+213	41-3-24-1	7211254282460739	Mapudungun	mapu1245	the calf	CALF	1989		pichi kulliñ	pichi kulliñ 
+214	41-3-25-1	7211254677746188	Mapudungun	mapu1245	the sheep	SHEEP	1331		ufisa	ufisa 
+215	41-3-25-2	721125438172869	Mapudungun	mapu1245	the sheep	SHEEP	1331		ofisha	ofisha 
+216	41-3-26-1	7211254587075684	Mapudungun	mapu1245	the ram	RAM	1344		kaniru	kaniru 
+217	41-3-29-1	7211254354792330	Mapudungun	mapu1245	the lamb	LAMB	820		pichi ofisha	pichi ofisha 
+218	41-3-29-2	712251825607548917	Mapudungun	mapu1245	the lamb	LAMB	820		korderu	korderu 
+219	41-3-32-1	7211254602555647	Mapudungun	mapu1245	the boar	BOAR	1348		sañi	sañi 
+220	41-3-32-2	712251947423970562	Mapudungun	mapu1245	the boar	BOAR	1348		foraku	foraku 
+221	41-3-34-1	7211254126312773	Mapudungun	mapu1245	the sow	SOW (FEMALE PIG)	1351		zomo sanchu	zomo sanchu 
+222	41-3-35-1	7211254979904009	Mapudungun	mapu1245	the pig	PIG	1337		sanchu	sanchu 
+223	41-3-35-2	7211254624833971	Mapudungun	mapu1245	the pig	PIG	1337		sañwe	sañwe 
+224	41-3-36-1	7211254183012018	Mapudungun	mapu1245	the goat	GOAT	1502		kapüra	kapüra 
+225	41-3-37-1	7211254183012018	Mapudungun	mapu1245	the he-goat	HE-GOAT	264		kapüra	kapüra 
+226	41-3-37-2	712251959403489539	Mapudungun	mapu1245	the he-goat	HE-GOAT	264		chifu	chifu 
+227	41-3-38-1	7211254517706976	Mapudungun	mapu1245	the kid	KID	1972		pichi kapüra	pichi kapüra 
+228	41-3-41-1	7211254880387207	Mapudungun	mapu1245	the horse	HORSE	615		kawell	kawell 
+229	41-3-42-1	7211254803743382	Mapudungun	mapu1245	the stallion	STALLION	936		potüro	potüro 
+230	41-3-44-1	7211254167498637	Mapudungun	mapu1245	the mare	MARE	938		zomo kawellu	zomo kawellu 
+231	41-3-44-2	7211254144290322	Mapudungun	mapu1245	the mare	MARE	938		yewa	yewa 
+232	41-3-45-1	7211254545307525	Mapudungun	mapu1245	the foal or colt	FOAL	1647		potrillo	potrillo 
+233	41-3-46-1	7211254352819861	Mapudungun	mapu1245	the donkey	DONKEY	1862		furiku	furiku 
+234	41-3-5-1	7211254270346005	Mapudungun	mapu1245	the fowl	FOWL	265		üñüm	üñüm 
+235	41-3-52-1	7211254583018433	Mapudungun	mapu1245	the cock/rooster	ROOSTER	1511		alka	alka 
+236	41-3-54-1	7211254960812552	Mapudungun	mapu1245	the hen	HEN	1514		zomo achawall	zomo achawall 
+237	41-3-55-1	7211254227872124	Mapudungun	mapu1245	the chicken	CHICKEN	1318		achawall	achawall 
+238	41-3-56-1	7211254263509804	Mapudungun	mapu1245	the goose	GOOSE	1187		kansu	kansu 
+239	41-3-57-1	7211254121038644	Mapudungun	mapu1245	the duck	DUCK	1360		patu	patu 
+240	41-3-57-2	7211254228960794	Mapudungun	mapu1245	the duck	DUCK	1360		wala	wala 
+241	41-3-58-1	7211254864763117	Mapudungun	mapu1245	the nest	NEST	539		zañe	zañe 
+242	41-3-581-1	7211254992755842	Mapudungun	mapu1245	the bird	BIRD	937		isüm	isüm 
+243	41-3-581-2	7211254293763521	Mapudungun	mapu1245	the bird	BIRD	937		üñüm	üñüm 
+244	41-3-582-1	7211254374889937	Mapudungun	mapu1245	the seagull	SEAGULL	950		kawkaw	kawkaw 
+245	41-3-582-2	7211254871754534	Mapudungun	mapu1245	the seagull	SEAGULL	950		chülle	chülle 
+246	41-3-584-1	721125474468149	Mapudungun	mapu1245	the eagle	EAGLE	1905		ñamku	ñamku 
+247	41-3-584-2	7211254309480928	Mapudungun	mapu1245	the eagle	EAGLE	1905		kalkiñ	kalkiñ 
+248	41-3-585-1	721125486836004	Mapudungun	mapu1245	the hawk	HAWK	307		llegllegkan	llegllegkan 
+249	41-3-586-1	7211254405396953	Mapudungun	mapu1245	the vulture	VULTURE	1185		kanin	kanin 
+250	41-3-592-1	7211254757323266	Mapudungun	mapu1245	the parrot	PARROT	882		choroy	choroy 
+251	41-3-592-2	7211254317787183	Mapudungun	mapu1245	the parrot	PARROT	882		rawillma	rawillma 
+252	41-3-593-1	7211254257630792	Mapudungun	mapu1245	the crow	CROW	913		yeku	yeku 
+253	41-3-596-1	7211254790056444	Mapudungun	mapu1245	the owl	OWL	735		pekeñ	pekeñ 
+254	41-3-61-1	7211254583746568	Mapudungun	mapu1245	the dog	DOG	2009		trewa	trewa 
+255	41-3-62-1	7211254569551331	Mapudungun	mapu1245	the cat	CAT	1208		narki	narki 
+256	41-3-63-1	7211254457961702	Mapudungun	mapu1245	the mouse or rat	MUROID (MOUSE OR RAT)	2139		zewü	zewü 
+257	41-3-65-1	7211254370820389	Mapudungun	mapu1245	the fish	FISH	227		challwa	challwa 
+258	41-3-655-1	8131031860012258	Mapudungun	mapu1245	the shell	SHELL	598		chakantu	chakantu 
+259	41-3-663-1	7211254781163907	Mapudungun	mapu1245	the whale	WHALE	957		yenü	yenü 
+260	41-3-72-1	7211254837438478	Mapudungun	mapu1245	the lion	LION	1386		pangi	pangi 
+261	41-3-72-2	721125434255193	Mapudungun	mapu1245	the lion	LION	1386		trapial	trapial 
+262	41-3-72-3	7630919278938845	Mapudungun	mapu1245	the lion	LION	1386		puma (1)	puma (1) 
+263	41-3-74-1	7211254319652049	Mapudungun	mapu1245	the fox	FOX	1312		ngürü	ngürü 
+264	41-3-75-1	721125440300217	Mapudungun	mapu1245	the deer	DEER	1936		puzu	puzu 
+265	41-3-81-1	7211254507213459	Mapudungun	mapu1245	the insect	INSECT	620		püḻü	püḻü 
+266	41-3-811-1	7211254810372693	Mapudungun	mapu1245	the head louse	HEAD LOUSE	310		tüṉ	tüṉ 
+267	41-3-812-1	7211254206412435	Mapudungun	mapu1245	the nit	NIT	267		ütren	ütren 
+268	41-3-813-1	7211254936424681	Mapudungun	mapu1245	the flea	FLEA	232		nerüm	nerüm 
+269	41-3-813-2	7630932544571178	Mapudungun	mapu1245	the flea	FLEA	232		pike	pike 
+270	41-3-817-1	7211254156184402	Mapudungun	mapu1245	the ant	ANT	587		kollella	kollella 
+271	41-3-818-1	721125488034729	Mapudungun	mapu1245	the spider	SPIDER	843		lalüng	lalüng 
+272	41-3-819-1	8131046194148798	Mapudungun	mapu1245	the spider web	SPIDER WEB	1065		ngüren lalüng	ngüren lalüng 
+273	41-3-82-1	7211254572609837	Mapudungun	mapu1245	the bee	BEE	665		ziwlliñ	ziwlliñ 
+274	41-3-82-2	7211254803007173	Mapudungun	mapu1245	the bee	BEE	665		kolmenia	kolmenia 
+275	41-3-821-1	7211254681338555	Mapudungun	mapu1245	the beeswax	BEESWAX	1931		müski	müski 
+276	41-3-823-1	7211254507213459	Mapudungun	mapu1245	the wasp	WASP	1517		püḻü	püḻü 
+277	41-3-83-1	7211254507213459	Mapudungun	mapu1245	the fly	FLY (INSECT)	1504		püḻü	püḻü 
+278	41-3-832-1	7211254434273318	Mapudungun	mapu1245	the mosquito	MOSQUITO	1509		pichike püḻü	pichike püḻü 
+279	41-3-84-1	7211254321597140	Mapudungun	mapu1245	the worm	WORM	1219		züllwi	züllwi 
+280	41-3-85-1	7211254121948416	Mapudungun	mapu1245	the snake	SNAKE	730		filu	filu 
+281	41-3-92-1	7211254526572204	Mapudungun	mapu1245	the butterfly	BUTTERFLY	1791		llampüzkeñ	llampüzkeñ 
+282	41-3-92-2	721125478658725	Mapudungun	mapu1245	the butterfly	BUTTERFLY	1791		tonton	tonton 
+283	41-3-92-3	76272343960378379	Mapudungun	mapu1245	the butterfly	BUTTERFLY	1791		kululu	kululu 
+284	41-3-93-1	7211254399276867	Mapudungun	mapu1245	the grasshopper	GRASSHOPPER	607		chori	chori 
+285	41-3-94-1	7211254890954554	Mapudungun	mapu1245	the snail	SNAIL	1543		müta piru	müta piru 
+286	41-3-95-1	7211254722900785	Mapudungun	mapu1245	the frog	FROG	503		llüngki	llüngki 
+287	41-3-96-1	7211254269941379	Mapudungun	mapu1245	the lizard	LIZARD	632		fillkuñ	fillkuñ 
+288	41-3-96-2	76272394160865	Mapudungun	mapu1245	the lizard	LIZARD	632		kelesia	kelesia 
+289	41-3-96-3	7630914300763474	Mapudungun	mapu1245	the lizard	LIZARD	632		palum	palum 
+290	41-3-96-4	7711229176656117	Mapudungun	mapu1245	the lizard	LIZARD	632		charaypuka	charaypuka 
+291	41-3-98-1	7211254416024400	Mapudungun	mapu1245	the turtle	TURTLE	112		peyu	peyu 
+292	41-4-11-1	7211254175253349	Mapudungun	mapu1245	the body	BODY	1480		kalül	kalül 
+293	41-4-12-1	7211254189458531	Mapudungun	mapu1245	the skin or hide	SKIN	763		trawa	trawa 
+294	41-4-13-1	7211254461153467	Mapudungun	mapu1245	the flesh	FLESH	2259		füṉ	füṉ 
+295	41-4-14-1	7211254965749298	Mapudungun	mapu1245	the hair	HAIR (HEAD)	2648		kaḻ longko	kaḻ longko 
+296	41-4-14-2	7211254519453225	Mapudungun	mapu1245	the hair	HAIR (HEAD)	2648		longko	longko 
+297	41-4-142-1	7211254107806714	Mapudungun	mapu1245	the beard	BEARD	678		payuṉ	payuṉ 
+298	41-4-144-1	721125476500813	Mapudungun	mapu1245	the body hair	HAIR (BODY)	189		kaḻ	kaḻ 
+299	41-4-145-1	7211254241598046	Mapudungun	mapu1245	the pubic hair	PUBIC HAIR	36		kallcha	kallcha 
+300	41-4-146-1	7211254100043805	Mapudungun	mapu1245	the dandruff	DANDRUFF	576		chef longko	chef longko 
+301	41-4-15-1	7211254468055488	Mapudungun	mapu1245	the blood	BLOOD	946		mollfüñ	mollfüñ 
+302	41-4-151-1	721125432266712	Mapudungun	mapu1245	the vein or artery	BLOOD VESSEL	525		chüll mollfüñ	chüll mollfüñ 
+303	41-4-16-1	7211254377933524	Mapudungun	mapu1245	the bone	BONE	1394		foro	foro 
+304	41-4-162-1	7211254574070768	Mapudungun	mapu1245	the rib	RIB	801		kazi	kazi 
+305	41-4-17-1	7211254574737851	Mapudungun	mapu1245	the horn	HORN (ANATOMY)	1393		müta	müta 
+306	41-4-18-1	7211254765294471	Mapudungun	mapu1245	the tail	TAIL	1220		külen	külen 
+307	41-4-19-1	7211254322738310	Mapudungun	mapu1245	the back	BACK	1291		furi	furi 
+308	41-4-191-1	7211254308506119	Mapudungun	mapu1245	the spine	SPINE	805		kuzi foro	kuzi foro 
+309	41-4-2-1	7211254519453225	Mapudungun	mapu1245	the head	HEAD	1256		longko	longko 
+310	41-4-201-1	7211254524640939	Mapudungun	mapu1245	the temples	TEMPLES	1604		üllaülla	üllaülla 
+311	41-4-202-1	7211254805810292	Mapudungun	mapu1245	the skull	SKULL	1605		lengleng	lengleng 
+312	41-4-203-1	7211254629706812	Mapudungun	mapu1245	the brain	BRAIN	1583		müllo	müllo 
+313	41-4-204-1	7211254860256478	Mapudungun	mapu1245	the face	FACE	1560		ange	ange 
+314	41-4-205-1	7211254822612576	Mapudungun	mapu1245	the forehead	FOREHEAD	123		toḻ	toḻ 
+315	41-4-207-1	7211254836423686	Mapudungun	mapu1245	the jaw	JAW	798		trangatranga	trangatranga 
+316	41-4-209-1	7211254974790164	Mapudungun	mapu1245	the chin	CHIN	1510		ketre	ketre 
+317	41-4-21-1	7211254674207909	Mapudungun	mapu1245	the eye	EYE	1248		nge	nge 
+318	41-4-212-1	7211254235937926	Mapudungun	mapu1245	the eyebrow	EYEBROW	1173		züñiñ	züñiñ 
+319	41-4-212-2	7211254699330947	Mapudungun	mapu1245	the eyebrow	EYEBROW	1173		ngeziñ	ngeziñ 
+320	41-4-213-1	7211254954807623	Mapudungun	mapu1245	the eyelid	EYELID	17		wente nge	wente nge 
+321	41-4-214-1	7211254683745524	Mapudungun	mapu1245	the eyelash	EYELASH	1540		ümi	ümi 
+322	41-4-215-1	7211254285296792	Mapudungun	mapu1245	to blink	BLINK	1655		ṉümiṉümitun	ṉümiṉümitun 
+323	41-4-22-1	7211254402860514	Mapudungun	mapu1245	the ear	EAR	1247		piluṉ	piluṉ 
+324	41-4-221-1	7211254780853161	Mapudungun	mapu1245	the earlobe	EARLOBE	18		llafkeñ piluṉ	llafkeñ piluṉ 
+325	41-4-222-1	7211254246391466	Mapudungun	mapu1245	the earwax	EARWAX	32		ferü pilun	ferü pilun 
+326	41-4-23-1	721125455479228	Mapudungun	mapu1245	the nose	NOSE	1221		yu	yu 
+327	41-4-231-1	721125478912533	Mapudungun	mapu1245	the nostril	NOSTRIL	1178		wechoz yu	wechoz yu 
+328	41-4-232-1	7211254162578980	Mapudungun	mapu1245	the nasal mucus	NASAL MUCUS (SNOT)	208		merun	merun 
+329	41-4-24-1	7211254569323004	Mapudungun	mapu1245	the mouth	MOUTH	674		wüṉ	wüṉ 
+330	41-4-241-1	7211254569323004	Mapudungun	mapu1245	the beak	BEAK	73		wüṉ	wüṉ 
+331	41-4-25-1	7211254865344114	Mapudungun	mapu1245	the lip	LIP	478		meḻfü	meḻfü 
+332	41-4-26-1	721125461442465	Mapudungun	mapu1245	the tongue	TONGUE	1205		kewüṉ	kewüṉ 
+333	41-4-27-1	7211254377933524	Mapudungun	mapu1245	the tooth	TOOTH	1380		foro	foro 
+334	41-4-271-1	7211254735565385	Mapudungun	mapu1245	the gums	GUMS	139		ürum	ürum 
+335	41-4-272-1	7211254805717834	Mapudungun	mapu1245	the molar tooth	MOLAR TOOTH	1049		ülnga foro	ülnga foro 
+336	41-4-28-1	7211254794470612	Mapudungun	mapu1245	the neck	NECK	1333		peḻ	peḻ 
+337	41-4-28-2	7211254596945016	Mapudungun	mapu1245	the neck	NECK	1333		topeḻ	topeḻ 
+338	41-4-281-1	7211254666065491	Mapudungun	mapu1245	the nape of the neck	NAPE (OF NECK)	1347		furi longko	furi longko 
+339	41-4-29-1	7211254794470612	Mapudungun	mapu1245	the throat	THROAT	1346		peḻ	peḻ 
+340	41-4-3-1	7211254437113820	Mapudungun	mapu1245	the shoulder	SHOULDER	1482		llangka foro	llangka foro 
+341	41-4-3-2	7211254369640612	Mapudungun	mapu1245	the shoulder	SHOULDER	1482		falke	falke 
+342	41-4-31-1	7211254207585677	Mapudungun	mapu1245	the arm	ARM	1673		lipang	lipang 
+343	41-4-312-1	7211254948668618	Mapudungun	mapu1245	the armpit	ARMPIT	1886		puñpuya	puñpuya 
+344	41-4-32-1	7211254489523213	Mapudungun	mapu1245	the elbow	ELBOW	981		choñoy	choñoy 
+345	41-4-321-1	7211254406466183	Mapudungun	mapu1245	the wrist	WRIST	799		troy kuwü	troy kuwü 
+346	41-4-33-1	7211254270444896	Mapudungun	mapu1245	the hand	HAND	1277		kuwü	kuwü 
+347	41-4-331-1	7211254262620898	Mapudungun	mapu1245	the palm of the hand	PALM OF HAND	1183		püḻay kuwü	püḻay kuwü 
+348	41-4-34-1	7211254261971577	Mapudungun	mapu1245	the finger	FINGER	1303		changüll	changüll 
+349	41-4-342-1	7211254330874730	Mapudungun	mapu1245	the thumb	THUMB	1781		fütra changüll kuwü	fütra changüll kuwü 
+350	41-4-344-1	7211254248477098	Mapudungun	mapu1245	the fingernail	FINGERNAIL	1258		wili	wili 
+351	41-4-345-1	7211254248477098	Mapudungun	mapu1245	the claw	CLAW	72		wili	wili 
+352	41-4-35-1	7211254124141691	Mapudungun	mapu1245	the leg	LEG	1297		chang	chang 
+353	41-4-351-1	7211254405372894	Mapudungun	mapu1245	the thigh	THIGH	800		llike	llike 
+354	41-4-352-1	7211254559778208	Mapudungun	mapu1245	the calf of the leg	CALF OF LEG	498		komofüṉ	komofüṉ 
+355	41-4-36-1	7211254116401219	Mapudungun	mapu1245	the knee	KNEE	1371		luku	luku 
+356	41-4-37-1	7211254164568860	Mapudungun	mapu1245	the foot	FOOT	1301		ṉamuṉ	ṉamuṉ 
+357	41-4-371-1	7211254145959702	Mapudungun	mapu1245	the ankle	ANKLE	803		pallipalli	pallipalli 
+358	41-4-372-1	7211254368957316	Mapudungun	mapu1245	the heel	HEEL	980		rüngkoy ṉamuṉ	rüngkoy ṉamuṉ 
+359	41-4-374-1	721125417127104	Mapudungun	mapu1245	the footprint	FOOTPRINT	318		pünon	pünon 
+360	41-4-38-1	7211254663908010	Mapudungun	mapu1245	the toe	TOE	1389		changüll ṉamuṉ	changüll ṉamuṉ 
+361	41-4-392-1	7211254256453913	Mapudungun	mapu1245	the wing	WING	1257		müpü	müpü 
+362	41-4-393-1	7211254923436499	Mapudungun	mapu1245	the feather	FEATHER	1201		pichuñ	pichuñ 
+363	41-4-4-1	721125492835801	Mapudungun	mapu1245	the chest	CHEST	1592		rüku	rüku 
+364	41-4-41-1	7211254206658103	Mapudungun	mapu1245	the breast	BREAST	1402		moyo	moyo 
+365	41-4-412-1	7211254265508830	Mapudungun	mapu1245	the nipple or teat	NIPPLE	796		longko moyo	longko moyo 
+366	41-4-42-1	7211254324413016	Mapudungun	mapu1245	the udder	UDDER	154		ngülla	ngülla 
+367	41-4-43-1	7211254420257488	Mapudungun	mapu1245	the navel	NAVEL	1838		füzo	füzo 
+368	41-4-44-1	721125479894913	Mapudungun	mapu1245	the heart	HEART	1223		piwke	piwke 
+369	41-4-441-1	7211254115369912	Mapudungun	mapu1245	the lung	LUNG	688		poṉon	poṉon 
+370	41-4-45-1	7211254570223056	Mapudungun	mapu1245	the liver	LIVER	1224		ke	ke 
+371	41-4-451-1	7211254996005054	Mapudungun	mapu1245	the kidney	KIDNEY	489		kuzakuza	kuzakuza 
+372	41-4-451-2	7211254983417170	Mapudungun	mapu1245	the kidney	KIDNEY	489		kushalkiñ	kushalkiñ 
+373	41-4-46-1	7211254574490773	Mapudungun	mapu1245	the stomach	STOMACH	819		pütra	pütra 
+374	41-4-461-1	7211254965331454	Mapudungun	mapu1245	the intestines or guts	INTESTINES	1991		küllche	küllche 
+375	41-4-462-1	7211254344528669	Mapudungun	mapu1245	the waist	WAIST	1681		trariwtuwe	trariwtuwe 
+376	41-4-463-1	7211254848016027	Mapudungun	mapu1245	the hip	HIP	1745		trutre	trutre 
+377	41-4-464-1	7211254249188660	Mapudungun	mapu1245	the buttocks	BUTTOCKS	834		anüwe	anüwe 
+378	41-4-47-1	7211254706819278	Mapudungun	mapu1245	the womb	WOMB	804		elkoñiwe	elkoñiwe 
+379	41-4-49-1	7211254403787943	Mapudungun	mapu1245	the testicles	TESTICLES	797		kütraw	kütraw 
+380	41-4-492-1	7211254691421663	Mapudungun	mapu1245	the penis	PENIS	1222		pünün	pünün 
+381	41-4-51-1	7211254195280440	Mapudungun	mapu1245	to breathe	BREATHE	1407		ṉeyün	ṉeyün 
+382	41-4-52-1	7211254461411596	Mapudungun	mapu1245	to yawn	YAWN	1028		üngapuwün	üngapuwün 
+383	41-4-521-1	7211254726581353	Mapudungun	mapu1245	to hiccough	HICCOUGH	162		ütrorün	ütrorün 
+384	41-4-53-1	7211254254835548	Mapudungun	mapu1245	to cough	COUGH	879		trüfonün	trüfonün 
+385	41-4-54-1	7211254896255756	Mapudungun	mapu1245	to sneeze	SNEEZE	1621		echüwün	echüwün 
+386	41-4-55-1	7211254187636947	Mapudungun	mapu1245	to perspire	SWEAT (PERSPIRE)	126		arofün	arofün 
+387	41-4-56-1	7211254774618496	Mapudungun	mapu1245	to spit	SPIT	1440		tofkün	tofkün 
+388	41-4-57-1	7211254614035127	Mapudungun	mapu1245	to vomit	VOMIT	1278		rapin	rapin 
+389	41-4-58-1	7211254636181400	Mapudungun	mapu1245	to bite	BITE	1403		ünatun	ünatun 
+390	41-4-59-1	7211254256826983	Mapudungun	mapu1245	to lick	LICK	319		küllman	küllman 
+391	41-4-61-1	7211254838028212	Mapudungun	mapu1245	to sleep	SLEEP	1585		umawtun	umawtun 
+392	41-4-612-1	7211254203425373	Mapudungun	mapu1245	to snore	SNORE	1983		traltralün	traltralün 
+393	41-4-62-1	7211254356591271	Mapudungun	mapu1245	to dream	DREAM (SOMETHING)	1920		pewman	pewman 
+394	41-4-62-2	7211254777250492	Mapudungun	mapu1245	to dream	DREAM (SOMETHING)	1920		pewütun	pewütun 
+395	41-4-63-1	7211254755315529	Mapudungun	mapu1245	to wake up	WAKE UP	1602		trepen	trepen 
+396	41-4-64-1	7211254839059226	Mapudungun	mapu1245	to fart	FART	1159		perkün	perkün 
+397	41-4-65-1	7211254557441950	Mapudungun	mapu1245	to piss	PISS	592		willin	willin 
+398	41-4-66-1	7211254829596611	Mapudungun	mapu1245	to shit	SHIT (DEFECATE)	676		men	men 
+399	41-4-67-1	7211254245606642	Mapudungun	mapu1245	to have sex	HAVE SEX	1785		kuretun	kuretun 
+400	41-4-68-1	7211254490593761	Mapudungun	mapu1245	to shiver	SHIVER	52		yafyafün	yafyafün 
+401	41-4-69-1	7211254425546276	Mapudungun	mapu1245	to bathe	BATHE	138		müñetun	müñetun 
+402	41-4-71-1	7211254826361931	Mapudungun	mapu1245	to beget	BEGET	1152		yallün	yallün 
+403	41-4-72-1	7211254374936792	Mapudungun	mapu1245	to be born	BE BORN	1090		mülen	mülen 
+404	41-4-72-2	7211254902799795	Mapudungun	mapu1245	to be born	BE BORN	1090		lleqün	lleqün 
+405	41-4-73-1	7211254540627918	Mapudungun	mapu1245	pregnant	PREGNANT	1123		niekoñiley	niekoñiley 
+406	41-4-732-1	7211254723834616	Mapudungun	mapu1245	to conceive	CONCEIVE	1087		nien	nien 
+407	41-4-74-1	7211254411099474	Mapudungun	mapu1245	to be alive	BE ALIVE	1422		mongelen	mongelen 
+408	41-4-75-1	721125489596581	Mapudungun	mapu1245	to die	DIE	1494		ḻay	ḻay 
+409	41-4-75-2	7211254543782718	Mapudungun	mapu1245	to die	DIE	1494		faltay	faltay 
+410	41-4-751-1	7211254186239122	Mapudungun	mapu1245	to drown	DROWN	1904		ürfin	ürfin 
+411	41-4-76-1	7211254609083785	Mapudungun	mapu1245	to kill	KILL	1417		ḻangümün	ḻangümün 
+412	41-4-77-1	7211254593877551	Mapudungun	mapu1245	the corpse	CORPSE	767		ḻa	ḻa 
+413	41-4-78-1	721125490537667	Mapudungun	mapu1245	to bury	BURY	1719		elün	elün 
+414	41-4-79-1	721125419738652	Mapudungun	mapu1245	the grave	GRAVE	1773		eltun	eltun 
+415	41-4-81-1	7211254882594915	Mapudungun	mapu1245	strong	STRONG	785		konalen	konalen 
+416	41-4-82-1	721125457063819	Mapudungun	mapu1245	weak	WEAK	1601		yafüngenon	yafüngenon 
+417	41-4-83-1	7211254717538434	Mapudungun	mapu1245	healthy	HEALTHY	1364		tremolen	tremolen 
+418	41-4-83-2	7211254945705169	Mapudungun	mapu1245	healthy	HEALTHY	1364		külfünkülen	külfünkülen 
+419	41-4-84-1	7211254836947242	Mapudungun	mapu1245	sick/ill	SICK	1847		kutran	kutran 
+420	41-4-841-1	7211254262648616	Mapudungun	mapu1245	the fever	FEVER	1534		aling kutran	aling kutran 
+421	41-4-843-1	7211254926067970	Mapudungun	mapu1245	the cold	COMMON COLD (DISEASE)	102		chafo	chafo 
+422	41-4-843-2	7211254304685132	Mapudungun	mapu1245	the cold	COMMON COLD (DISEASE)	102		rüle	rüle 
+423	41-4-85-1	721125487589777	Mapudungun	mapu1245	the wound or sore	WOUND	1109		allfeñ	allfeñ 
+424	41-4-852-1	721125487589777	Mapudungun	mapu1245	the bruise	BRUISE	1148		allfeñ	allfeñ 
+425	41-4-853-1	7211254922747808	Mapudungun	mapu1245	the swelling	SWELLING	1903		iñchalen	iñchalen 
+426	41-4-853-2	7630132592480935	Mapudungun	mapu1245	the swelling	SWELLING	1903		ponkwin	ponkwin 
+427	41-4-854-1	7211254918443498	Mapudungun	mapu1245	the itch	ITCH	148		üna	üna 
+428	41-4-855-1	7211254404685165	Mapudungun	mapu1245	the blister	BLISTER	1584		pitraw	pitraw 
+429	41-4-856-1	7211254961635064	Mapudungun	mapu1245	the boil	BOIL (OF SKIN)	793		pitru	pitru 
+430	41-4-857-1	7211254646763920	Mapudungun	mapu1245	the pus	PUS	1808		trar	trar 
+431	41-4-86-1	721125418044327	Mapudungun	mapu1245	to cure	CURE	499		mogelün	mogelün 
+432	41-4-87-1	7211254487156838	Mapudungun	mapu1245	the physician	PHYSICIAN	597		ḻaweṉtuchefe	ḻaweṉtuchefe 
+433	41-4-87-2	8131140207278954	Mapudungun	mapu1245	the physician	PHYSICIAN	597		doktor	doktor 
+434	41-4-88-1	7211254776142699	Mapudungun	mapu1245	the medicine	MEDICINE	1372		ḻaweṉ	ḻaweṉ 
+435	41-4-89-1	7211254314684952	Mapudungun	mapu1245	the poison	POISON	655		füñapuwe	füñapuwe 
+436	41-4-91-1	721125442739869	Mapudungun	mapu1245	tired	TIRED	1757		atrunkülen	atrunkülen 
+437	41-4-91-2	7211254977453738	Mapudungun	mapu1245	tired	TIRED	1757		ürkülen	ürkülen 
+438	41-4-91-3	7211254795996016	Mapudungun	mapu1245	tired	TIRED	1757		kansalen	kansalen 
+439	41-4-912-1	7211254294736019	Mapudungun	mapu1245	to rest	REST	168		ürkütun	ürkütun 
+440	41-4-912-2	7211254474820941	Mapudungun	mapu1245	to rest	REST	168		kansatun	kansatun 
+441	41-4-92-1	7211254967155484	Mapudungun	mapu1245	lazy	LAZY	1564		chofü	chofü 
+442	41-4-93-1	7211254525333615	Mapudungun	mapu1245	bald	BALD	1125		liftra longko	liftra longko 
+443	41-4-94-1	7211254389171690	Mapudungun	mapu1245	lame	LAME	320		engkañngen	engkañngen 
+444	41-4-95-1	721125443737278	Mapudungun	mapu1245	deaf	DEAF	996		pilu	pilu 
+445	41-4-96-1	7211254394837274	Mapudungun	mapu1245	mute	MUTE	1666		ketro	ketro 
+446	41-4-97-1	721125431881344	Mapudungun	mapu1245	blind	BLIND	1653		trawma	trawma 
+447	41-4-98-1	7211254380919342	Mapudungun	mapu1245	drunk	DRUNK	1463		ngollin	ngollin 
+448	41-4-99-1	7211254155942561	Mapudungun	mapu1245	naked	NAKED	590		triltrang	triltrang 
+449	41-5-11-1	7211254567357023	Mapudungun	mapu1245	to eat	EAT	1336		in	in 
+450	41-5-12-1	7211254923008869	Mapudungun	mapu1245	the food	FOOD	256		iyael	iyael 
+451	41-5-121-1	7211254360397609	Mapudungun	mapu1245	cooked	COOKED	269		afün	afün 
+452	41-5-122-1	7211254696841407	Mapudungun	mapu1245	raw	RAW	1959		karü	karü 
+453	41-5-123-1	7211254360397609	Mapudungun	mapu1245	ripe	RIPE	178		afün	afün 
+454	41-5-124-1	7211254696841407	Mapudungun	mapu1245	unripe	UNRIPE	1958		karü	karü 
+455	41-5-125-1	7211254208658286	Mapudungun	mapu1245	rotten	ROTTEN	1728		fuṉa	fuṉa 
+456	41-5-13-1	7211254824938736	Mapudungun	mapu1245	to drink	DRINK	1401		pütun	pütun 
+457	41-5-14-1	7211254598664456	Mapudungun	mapu1245	to be hungry	BE HUNGRY	1533		ngüñün	ngüñün 
+458	41-5-141-1	7211254598664456	Mapudungun	mapu1245	the famine	FAMINE	199		ngüñün	ngüñün 
+459	41-5-15-1	7211254918396014	Mapudungun	mapu1245	to be thirsty	THIRSTY	847		wüywün	wüywün 
+460	41-5-16-1	7211254745796240	Mapudungun	mapu1245	to suck	SUCK	1421		fochizün	fochizün 
+461	41-5-18-1	7211254978079643	Mapudungun	mapu1245	to chew	CHEW	321		changafün	changafün 
+462	41-5-181-1	721125472404128	Mapudungun	mapu1245	to swallow	SWALLOW	897		rulmen	rulmen 
+463	41-5-21-1	7211254438386240	Mapudungun	mapu1245	to cook	COOK (SOMETHING)	1100		afümiyaelün	afümiyaelün 
+464	41-5-22-1	7211254977467119	Mapudungun	mapu1245	to boil	BOIL (OF LIQUID)	792		wazkümün	wazkümün 
+465	41-5-23-1	7211254902673441	Mapudungun	mapu1245	to roast or fry	ROAST OR FRY	2146		kangkan	kangkan 
+466	41-5-23-2	7211254570970736	Mapudungun	mapu1245	to roast or fry	ROAST OR FRY	2146		kuen	kuen 
+467	41-5-23-3	7211254585516497	Mapudungun	mapu1245	to roast or fry	ROAST OR FRY	2146		fürin	fürin 
+468	41-5-24-1	7211254908455376	Mapudungun	mapu1245	to bake	BAKE	183		ronotun	ronotun 
+469	41-5-25-1	7211254183957189	Mapudungun	mapu1245	the oven	OVEN	1143		rono	rono 
+470	41-5-26-1	7211254440065713	Mapudungun	mapu1245	the pot	POT	1462		challa	challa 
+471	41-5-28-1	7211254926164655	Mapudungun	mapu1245	the pan	PAN	31		kaserola	kaserola 
+472	41-5-31-1	7211254458346351	Mapudungun	mapu1245	the dish	DISH	481		fwente	fwente 
+473	41-5-32-1	7211254207230834	Mapudungun	mapu1245	the plate	PLATE	480		rali	rali 
+474	41-5-33-1	721125467272962	Mapudungun	mapu1245	the bowl	BOWL	1530		tason	tason 
+475	41-5-34-1	7211254969870556	Mapudungun	mapu1245	the jug/pitcher	JUG	270		metawe	metawe 
+476	41-5-35-1	7211254606359676	Mapudungun	mapu1245	the cup	CUP	476		tasa	tasa 
+477	41-5-35-2	8131158823103871	Mapudungun	mapu1245	the cup	CUP	476		charu	charu 
+478	41-5-36-1	7211254913648391	Mapudungun	mapu1245	the saucer	SAUCER	271		pülatillu	pülatillu 
+479	41-5-37-1	7211254618935053	Mapudungun	mapu1245	the spoon	SPOON	1378		wütru	wütru 
+480	41-5-37-2	81312327897072	Mapudungun	mapu1245	the spoon	SPOON	1378		kuchara	kuchara 
+481	41-5-38-1	7211254650057831	Mapudungun	mapu1245	the knife(1)	KNIFE (FOR EATING)	3210		kuchillu	kuchillu 
+482	41-5-38-2	7211254699797358	Mapudungun	mapu1245	the knife(1)	KNIFE (FOR EATING)	3210		katrüwe	katrüwe 
+483	41-5-39-1	7211254948029157	Mapudungun	mapu1245	the fork	FORK	1302		tenedor	tenedor 
+484	41-5-391-1	7211254420175855	Mapudungun	mapu1245	the tongs	TONGS	272		tenasa	tenasa 
+485	41-5-391-2	7211254287035143	Mapudungun	mapu1245	the tongs	TONGS	272		ünawe	ünawe 
+486	41-5-41-1	7211254923008869	Mapudungun	mapu1245	the meal	MEAL	1526		iyael	iyael 
+487	41-5-42-1	7211254433426555	Mapudungun	mapu1245	the breakfast	BREAKFAST	1322		sayuno	sayuno 
+488	41-5-43-1	7211254547479101	Mapudungun	mapu1245	the lunch	LUNCH	768		almuerso	almuerso 
+489	41-5-46-1	7211254281944683	Mapudungun	mapu1245	to peel	PEEL	275		chafün	chafün 
+490	41-5-47-1	7211254669279319	Mapudungun	mapu1245	to sieve or to strain	SIEVE	86		chaytun	chaytun 
+491	41-5-48-1	7211254161508306	Mapudungun	mapu1245	to scrape	SCRAPE	1767		kafürün	kafürün 
+492	41-5-49-1	7211254511308655	Mapudungun	mapu1245	to stir or to mix	MIX	2017		reyfün	reyfün 
+493	41-5-51-1	721125481871373	Mapudungun	mapu1245	the bread	BREAD	1368		kofke	kofke 
+494	41-5-51-2	7211254974054808	Mapudungun	mapu1245	the bread	BREAD	1368		pan	pan 
+495	41-5-51-3	7711222158513590	Mapudungun	mapu1245	the bread	BREAD	1368		patay	patay 
+496	41-5-53-1	7211254238867698	Mapudungun	mapu1245	the dough	DOUGH	273		masa	masa 
+497	41-5-54-1	7211254656314473	Mapudungun	mapu1245	to knead	KNEAD	274		sofalün	sofalün 
+498	41-5-54-2	7211254853531243	Mapudungun	mapu1245	to knead	KNEAD	274		masan	masan 
+499	41-5-55-1	7211254163481865	Mapudungun	mapu1245	the flour	FLOUR	1594		rüngo	rüngo 
+500	41-5-56-1	7211254577760321	Mapudungun	mapu1245	to crush or to grind	GRIND	1033		rüngümün	rüngümün 
+501	41-5-57-1	7211254985068103	Mapudungun	mapu1245	the mill	MILL	636		molinu	molinu 
+502	41-5-58-1	7211254867292334	Mapudungun	mapu1245	the mortar(1)	MORTAR CRUSHER	224		tranawe	tranawe 
+503	41-5-61-1	7211254525357323	Mapudungun	mapu1245	the meat	MEAT	634		ilo	ilo 
+504	41-5-61-2	98231911206459385	Mapudungun	mapu1245	the meat	MEAT	634		charki	charki 
+505	41-5-64-1	7211254789966510	Mapudungun	mapu1245	the soup	SOUP	1547		korü	korü 
+506	41-5-65-1	7211254432599258	Mapudungun	mapu1245	the vegetables	VEGETABLES	924		ketran	ketran 
+507	41-5-66-1	7211254805603374	Mapudungun	mapu1245	the bean	BEAN	832		zengüll	zengüll 
+508	41-5-7-1	7211254364949759	Mapudungun	mapu1245	the potato	POTATO	593		poñü	poñü 
+509	41-5-7-2	76282130910766558	Mapudungun	mapu1245	the potato	POTATO	593		trawala	trawala 
+510	41-5-71-1	7211254291083200	Mapudungun	mapu1245	the fruit	FRUIT	1507		füṉ anümka	füṉ anümka 
+511	41-5-76-1	7211254554235472	Mapudungun	mapu1245	the grape	GRAPE	920		ofaz	ofaz 
+512	41-5-791-1	7211254979239441	Mapudungun	mapu1245	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		iwiñ	iwiñ 
+513	41-5-81-1	7211254689885418	Mapudungun	mapu1245	the salt	SALT	1274		chazi	chazi 
+514	41-5-821-1	7211254280065226	Mapudungun	mapu1245	the chili pepper	CHILI PEPPER	919		trapi	trapi 
+515	41-5-84-1	7211254681338555	Mapudungun	mapu1245	the honey	HONEY	942		müski	müski 
+516	41-5-85-1	7211254463366053	Mapudungun	mapu1245	the sugar	SUGAR	862		asukura	asukura 
+517	41-5-86-1	7211254977289812	Mapudungun	mapu1245	the milk	MILK	635		lichi	lichi 
+518	41-5-87-1	7211254464913234	Mapudungun	mapu1245	to milk	DRAW MILK	93		entulichin	entulichin 
+519	41-5-88-1	7211254339233119	Mapudungun	mapu1245	the cheese	CHEESE	1569		kesu	kesu 
+520	41-5-9-1	7211254710111228	Mapudungun	mapu1245	the drink	BEVERAGE	731		putupeyel	putupeyel 
+521	41-5-92-1	7211254689462032	Mapudungun	mapu1245	the wine	WINE	1524		pulku	pulku 
+522	41-5-92-2	7628231549055990	Mapudungun	mapu1245	the wine	WINE	1524		lamkja	lamkja 
+523	41-5-97-1	7211254340290843	Mapudungun	mapu1245	the egg	EGG	744		kuram	kuram 
+524	41-5-971-1	7211254706956717	Mapudungun	mapu1245	the yolk	YOLK	1556		choz kuram	choz kuram 
+525	41-6-11-1	7211254501600478	Mapudungun	mapu1245	to put on	PUT ON	158		tukutuwün	tukutuwün 
+526	41-6-12-1	7211254252057451	Mapudungun	mapu1245	the clothing or clothes	CLOTHES	1895		takuluwün	takuluwün 
+527	41-6-21-1	7211254245595791	Mapudungun	mapu1245	the cloth	CLOTH	1616		pañu	pañu 
+528	41-6-22-1	721125476500813	Mapudungun	mapu1245	the wool	WOOL	964		kaḻ	kaḻ 
+529	41-6-25-1	721125462071710	Mapudungun	mapu1245	the silk	SILK	1641		seza	seza 
+530	41-6-28-1	7211254349410357	Mapudungun	mapu1245	the fur	FUR	580		trülke	trülke 
+531	41-6-29-1	7211254349410357	Mapudungun	mapu1245	the leather	LEATHER	629		trülke	trülke 
+532	41-6-31-1	7211254749007559	Mapudungun	mapu1245	to spin	SPIN	121		füwün	füwün 
+533	41-6-32-1	7211254324542052	Mapudungun	mapu1245	the spindle	SPINDLE	277		kuliw	kuliw 
+534	41-6-33-1	7211254988145355	Mapudungun	mapu1245	to weave	WEAVE	133		ngüren	ngüren 
+535	41-6-34-1	7211254346162593	Mapudungun	mapu1245	the loom	LOOM	1787		witral	witral 
+536	41-6-35-1	7211254599580674	Mapudungun	mapu1245	to sew	SEW	1457		ñüzüfün	ñüzüfün 
+537	41-6-36-1	7211254940428764	Mapudungun	mapu1245	the needle(1)	NEEDLE (FOR SEWING)	1382		akucha	akucha 
+538	41-6-37-1	7211254718809172	Mapudungun	mapu1245	the awl	AWL	278		rütriñ	rütriñ 
+539	41-6-38-1	721125427757177	Mapudungun	mapu1245	the thread	THREAD	1161		füw	füw 
+540	41-6-39-1	7211254540377871	Mapudungun	mapu1245	to dye	DYE	157		tulün	tulün 
+541	41-6-41-1	9822121750449893	Mapudungun	mapu1245	the cloak	CLOAK	326		ükülla	ükülla 
+542	41-6-411-1	721125462908904	Mapudungun	mapu1245	the poncho	PONCHO	327		makuñ	makuñ 
+543	41-7-37-1	7211254623997920	Mapudungun	mapu1245	the ladder	LADDER	1464		pürapürawe	pürapürawe 
+544	41-7-37-2	7211254127042851	Mapudungun	mapu1245	the ladder	LADDER	1464		kalera	kalera 
+545	41-6-43-1	7211254993656069	Mapudungun	mapu1245	the coat	COAT	603		abrigo	abrigo 
+546	41-6-44-1	7211254974646227	Mapudungun	mapu1245	the shirt	SHIRT	1622		kamisa	kamisa 
+547	41-6-45-1	7211254842192315	Mapudungun	mapu1245	the collar	COLLAR	2012		kwellu	kwellu 
+548	41-6-46-1	7211254913979218	Mapudungun	mapu1245	the skirt	SKIRT	1600		pollera	pollera 
+549	41-6-48-1	7211254577701383	Mapudungun	mapu1245	the trousers	TROUSERS	809		pantalon	pantalon 
+550	41-6-49-1	7211254409272618	Mapudungun	mapu1245	the sock or stocking	STOCKING	329		mezia	mezia 
+551	41-6-51-1	7211254987846432	Mapudungun	mapu1245	the shoe	SHOE	1381		zapatu	zapatu 
+552	41-6-51-2	7211254980106489	Mapudungun	mapu1245	the shoe	SHOE	1381		sumel	sumel 
+553	41-6-52-1	7211254315629023	Mapudungun	mapu1245	the boot	BOOT	585		fota	fota 
+554	41-6-55-1	7211254476945563	Mapudungun	mapu1245	the hat or cap	HEADGEAR	2130		chumpiru	chumpiru 
+555	41-6-57-1	7211254587920830	Mapudungun	mapu1245	the belt	BELT	772		trariwe	trariwe 
+556	41-6-61-1	7211254204305975	Mapudungun	mapu1245	the pocket	POCKET	1851		fonsiku	fonsiku 
+557	41-6-62-1	7211254212954497	Mapudungun	mapu1245	the button	BUTTON	757		foton	foton 
+558	41-6-63-1	7211254906974336	Mapudungun	mapu1245	the pin	PIN	64		alfiler	alfiler 
+559	41-6-63-2	8131258857694982	Mapudungun	mapu1245	the pin	PIN	64		sükill	sükill 
+560	41-6-63-3	98231922770399881	Mapudungun	mapu1245	the pin	PIN	64		tupu	tupu 
+561	41-6-71-1	7211254616167403	Mapudungun	mapu1245	the ornament or adornment	ORNAMENT	917		peshkiñ	peshkiñ 
+562	41-6-73-1	7211254126402894	Mapudungun	mapu1245	the ring	RING	1374		iwüḻ kuwü	iwüḻ kuwü 
+563	41-6-75-1	721125421876393	Mapudungun	mapu1245	the necklace	NECKLACE	1961		llangkatu	llangkatu 
+564	41-6-77-1	7211254379483568	Mapudungun	mapu1245	the earring	EARRING	770		chaway	chaway 
+565	41-6-78-1	7211254803703350	Mapudungun	mapu1245	the headband or headdress	HEADBAND	330		trarilongko	trarilongko 
+566	41-6-81-1	7211254279173061	Mapudungun	mapu1245	the handkerchief or rag	RAG	332		pañuelu	pañuelu 
+567	41-6-82-1	7211254286871879	Mapudungun	mapu1245	the towel	TOWEL	1021		tuwalla	tuwalla 
+568	41-6-91-1	7211254773512255	Mapudungun	mapu1245	the comb	COMB	1475		rünatuwe	rünatuwe 
+569	41-6-91-2	7211254456139834	Mapudungun	mapu1245	the comb	COMB	1475		peine	peine 
+570	41-6-921-1	7211254942053294	Mapudungun	mapu1245	the plait/braid	BRAID	1043		chape	chape 
+571	41-6-93-1	7211254655633960	Mapudungun	mapu1245	the razor	RAZOR	151		payuntuwe	payuntuwe 
+572	41-6-94-1	8131326817521023	Mapudungun	mapu1245	the ointment	OINTMENT	1926		puma (2)	puma (2) 
+573	41-6-95-1	721125440628451	Mapudungun	mapu1245	the soap	SOAP	788		kafon	kafon 
+574	41-6-95-2	8131333199979027	Mapudungun	mapu1245	the soap	SOAP	788		küllay	küllay 
+575	41-6-96-1	721125473009829	Mapudungun	mapu1245	the mirror	MIRROR	1171		komütuwe	komütuwe 
+576	41-6-96-2	7211254202424080	Mapudungun	mapu1245	the mirror	MIRROR	1171		espeko	espeko 
+577	41-6-96-3	763013890338052	Mapudungun	mapu1245	the mirror	MIRROR	1171		lilpu	lilpu 
+578	41-7-11-1	7211254374936792	Mapudungun	mapu1245	to live	DWELL (LIVE, RESIDE)	363		mülen	mülen 
+579	41-7-12-1	7211254842292153	Mapudungun	mapu1245	the house	HOUSE	1252		ruka	ruka 
+580	41-7-13-1	7211254842292153	Mapudungun	mapu1245	the hut	HUT	1678		ruka	ruka 
+581	41-7-14-1	7211254385104894	Mapudungun	mapu1245	the tent	TENT	1316		tolto	tolto 
+582	41-7-21-1	7211254141886353	Mapudungun	mapu1245	the room	ROOM	1450		piesa	piesa 
+583	41-7-22-1	7211254132930967	Mapudungun	mapu1245	the door or gate	DOOR	1567		pwerta	pwerta 
+584	41-7-23-1	7211254163932663	Mapudungun	mapu1245	the lock	LOCK	1596		kanzaw	kanzaw 
+585	41-7-24-1	7211254854857142	Mapudungun	mapu1245	the key	KEY	1472		llafe	llafe 
+586	41-7-25-1	7211254444021085	Mapudungun	mapu1245	the window	WINDOW	1375		fentana	fentana 
+587	41-7-26-1	7211254856055887	Mapudungun	mapu1245	the floor	FLOOR	1632		püllü	püllü 
+588	41-7-31-1	7211254562765225	Mapudungun	mapu1245	the fireplace	FIREPLACE	185		kütralwe	kütralwe 
+589	41-7-42-1	721125473370980	Mapudungun	mapu1245	the bed	BED	1663		kawitu	kawitu 
+590	41-7-421-1	721125432511775	Mapudungun	mapu1245	the pillow	PILLOW	1044		metrül	metrül 
+591	41-7-422-1	7211254619008879	Mapudungun	mapu1245	the blanket	BLANKET	806		üḻtu	üḻtu 
+592	41-7-422-2	7211254400373227	Mapudungun	mapu1245	the blanket	BLANKET	806		fresada	fresada 
+593	41-7-43-1	7211254848490759	Mapudungun	mapu1245	the chair	CHAIR	1476		silla	silla 
+594	41-7-43-2	8131344256246723	Mapudungun	mapu1245	the chair	CHAIR	1476		anüpeyüm	anüpeyüm 
+595	41-7-44-1	7211254363803084	Mapudungun	mapu1245	the table	TABLE	1775		mesa	mesa 
+596	41-7-44-2	8131350372924417	Mapudungun	mapu1245	the table	TABLE	1775		rentrülwe	rentrülwe 
+597	41-7-45-1	7211254370688823	Mapudungun	mapu1245	the lamp or torch	TORCH OR LAMP	2131		küze	küze 
+598	41-7-45-2	7211254987935930	Mapudungun	mapu1245	the lamp or torch	TORCH OR LAMP	2131		choñchoñ	choñchoñ 
+599	41-7-46-1	721125489021407	Mapudungun	mapu1245	the candle	CANDLE	1273		fela	fela 
+600	41-7-47-1	8131350372924417	Mapudungun	mapu1245	the shelf	SHELF	745		rentrülwe	rentrülwe 
+601	41-7-48-1	7211254670794318	Mapudungun	mapu1245	the trough	TROUGH	205		fatia	fatia 
+602	41-7-51-1	7211254461669252	Mapudungun	mapu1245	the roof	ROOF	769		wente ruka	wente ruka 
+603	41-7-52-1	7211254611633902	Mapudungun	mapu1245	the thatch	THATCH	279		küna	küna 
+604	41-7-54-1	7211254732091098	Mapudungun	mapu1245	the rafter	RAFTER	829		viga	viga 
+605	41-7-55-1	7211254427615438	Mapudungun	mapu1245	the beam	BEAM	1132		alof	alof 
+606	41-7-56-1	7211254932980346	Mapudungun	mapu1245	the post or pole	POST	281		poste	poste 
+607	41-7-57-1	721125451043823	Mapudungun	mapu1245	the board	BOARD	1227		trafla	trafla 
+608	41-7-64-1	7211254973840302	Mapudungun	mapu1245	the adobe	ADOBE	901		fazofe	fazofe 
+609	41-8-11-1	7211254614320080	Mapudungun	mapu1245	the farmer	FARMER	979		paisano	paisano 
+610	41-8-12-1	7211254107703593	Mapudungun	mapu1245	the field	FIELD	212		chaküra	chaküra 
+611	41-8-12-2	7211254779435784	Mapudungun	mapu1245	the field	FIELD	212		kampo	kampo 
+612	41-8-12-3	8131422692693067	Mapudungun	mapu1245	the field	FIELD	212		ketrawe	ketrawe 
+613	41-8-13-1	7211254858717282	Mapudungun	mapu1245	the garden	GARDEN	586		werta	werta 
+614	41-8-15-1	7211254703179490	Mapudungun	mapu1245	to cultivate	CULTIVATE	1541		ngaṉün	ngaṉün 
+615	41-8-16-1	7211254784480273	Mapudungun	mapu1245	the fence	FENCE	1690		malal	malal 
+616	41-8-16-2	8131426103945427	Mapudungun	mapu1245	the fence	FENCE	1690		koral	koral 
+617	41-8-17-1	7211254373980719	Mapudungun	mapu1245	the ditch	DITCH	2002		sanka	sanka 
+618	41-8-17-2	8131433986981135	Mapudungun	mapu1245	the ditch	DITCH	2002		rüngan	rüngan 
+619	41-8-21-1	7211254165691434	Mapudungun	mapu1245	to plough/plow	PLOUGH	1921		ketramapun	ketramapun 
+620	41-8-212-1	7211254724178743	Mapudungun	mapu1245	the furrow	FURROW	1794		surko	surko 
+621	41-8-212-2	721125429759395	Mapudungun	mapu1245	the furrow	FURROW	1794		wirin	wirin 
+622	41-8-22-1	8131433986981135	Mapudungun	mapu1245	to dig	DIG	1418		rüngan	rüngan 
+623	41-8-24-1	7211254656273161	Mapudungun	mapu1245	the shovel	SHOVEL	1901		pala	pala 
+624	41-8-25-1	7211254866053122	Mapudungun	mapu1245	the hoe	HOE	284		asaon	asaon 
+625	41-8-26-1	7211254845122003	Mapudungun	mapu1245	the fork(2)/pitchfork	PITCHFORK	337		wilkita	wilkita 
+626	41-8-27-1	7211254139899392	Mapudungun	mapu1245	the rake	RAKE	338		ratrillu	ratrillu 
+627	41-8-27-2	813153860336818	Mapudungun	mapu1245	the rake	RAKE	338		kaupuwe	kaupuwe 
+628	41-8-31-1	7211254703179490	Mapudungun	mapu1245	to sow	SOW SEEDS	748		ngaṉün	ngaṉün 
+629	41-8-311-1	721125417691274	Mapudungun	mapu1245	the seed	SEED	714		semilla	semilla 
+630	41-8-311-2	8131512989569025	Mapudungun	mapu1245	the seed	SEED	714		kongi	kongi 
+631	41-8-311-3	7211254461153467	Mapudungun	mapu1245	the seed	SEED	714		füṉ	füṉ 
+632	41-8-32-1	7211254945803963	Mapudungun	mapu1245	to mow	MOW	190		katrüketranün	katrüketranün 
+633	41-8-33-1	7211254962702597	Mapudungun	mapu1245	the sickle or scythe	SICKLE OR SCYTHE	2132		wazaña	wazaña 
+634	41-8-33-2	7211254204888691	Mapudungun	mapu1245	the sickle or scythe	SICKLE OR SCYTHE	2132		ichona	ichona 
+635	41-8-34-1	7211254337937714	Mapudungun	mapu1245	to thresh	THRESH	285		trillar	trillar 
+636	41-8-35-1	72112544795436	Mapudungun	mapu1245	the threshing-floor	THRESHING-FLOOR	223		lila	lila 
+637	41-8-41-1	7211254334815017	Mapudungun	mapu1245	the harvest	HARVEST	611		püramkawün	püramkawün 
+638	41-8-41-2	8131522616714167	Mapudungun	mapu1245	the harvest	HARVEST	611		kosecha	kosecha 
+639	41-8-42-1	7211254707776549	Mapudungun	mapu1245	the grain	GRAIN	605		füṉ	füṉ 
+640	41-8-43-1	7211254540225015	Mapudungun	mapu1245	the wheat	WHEAT	1077		kachilla	kachilla 
+641	41-8-44-1	7211254462752046	Mapudungun	mapu1245	the barley	BARLEY	932		kawella	kawella 
+642	41-8-46-1	7211254883924906	Mapudungun	mapu1245	the oats	OAT	60		afena	afena 
+643	41-8-47-1	7211254497782064	Mapudungun	mapu1245	the maize/corn	MAIZE	506		uwa	uwa 
+644	41-8-51-1	7211254913569653	Mapudungun	mapu1245	the grass	GRASS	606		kachu	kachu 
+645	41-8-52-1	7211254475307116	Mapudungun	mapu1245	the hay	HAY	342		pinu	pinu 
+646	41-8-53-1	721125445709426	Mapudungun	mapu1245	the plant	PLANT (VEGETATION)	653		anümka	anümka 
+647	41-8-531-1	7211254415881499	Mapudungun	mapu1245	to plant	PLANT (SOMETHING)	1486		anümün	anümün 
+648	41-8-54-1	7211254624152915	Mapudungun	mapu1245	the root	ROOT	670		folil	folil 
+649	41-8-55-1	7211254438856610	Mapudungun	mapu1245	the branch	BRANCH OR TWIG	3223		row	row 
+650	41-8-56-1	7211254862619221	Mapudungun	mapu1245	the leaf	LEAF	628		tapül	tapül 
+651	41-8-57-1	7211254706501341	Mapudungun	mapu1245	the flower	FLOWER	239		rayen	rayen 
+652	41-8-57-2	7211254532389739	Mapudungun	mapu1245	the flower	FLOWER	239		fülor	fülor 
+653	41-8-6-1	7211254975873202	Mapudungun	mapu1245	the tree	TREE	906		aliwen	aliwen 
+654	41-8-6-2	7211254730579543	Mapudungun	mapu1245	the tree	TREE	906		mamüll	mamüll 
+655	41-8-6-3	7211254395816765	Mapudungun	mapu1245	the tree	TREE	906		monte	monte 
+656	41-8-61-1	7211254995000294	Mapudungun	mapu1245	the oak	OAK	644		koyam	koyam 
+657	41-8-64-1	7211254475307116	Mapudungun	mapu1245	the pine	PINE	1740		pinu	pinu 
+658	41-8-67-1	8131623750914547	Mapudungun	mapu1245	the vine	VINE	343		ufas foki	ufas foki 
+659	41-8-68-1	7211254124592247	Mapudungun	mapu1245	the tobacco	TOBACCO	974		pütrem	pütrem 
+660	41-8-69-1	7211254423227616	Mapudungun	mapu1245	to smoke	SMOKE (INHALE)	1689		pütremtun	pütremtun 
+661	41-8-691-1	7211254970714300	Mapudungun	mapu1245	the pipe	PIPE	1124		kitra	kitra 
+662	41-8-73-1	7211254905295174	Mapudungun	mapu1245	the tree trunk	TREE TRUNK	344		mutrung	mutrung 
+663	41-8-75-1	7211254931014703	Mapudungun	mapu1245	the bark	BARK	1204		trolüf	trolüf 
+664	41-8-76-1	7211254516131498	Mapudungun	mapu1245	the sap	SAP	345		ko	ko 
+665	41-8-931-1	721125447377665	Mapudungun	mapu1245	the pumpkin or squash	PUMPKIN	864		pengka	pengka 
+666	41-8-931-2	7211254607985038	Mapudungun	mapu1245	the pumpkin or squash	PUMPKIN	864		sapallu	sapallu 
+667	41-8-97-1	7211254905118516	Mapudungun	mapu1245	the nettle	NETTLE	33		kuri	kuri 
+668	41-9-12-1	7211254279457028	Mapudungun	mapu1245	the work	WORK (LABOUR)	984		küzaw	küzaw 
+669	41-9-14-1	7211254958976001	Mapudungun	mapu1245	to bend	BEND	2004		müchamün	müchamün 
+670	41-9-15-1	7211254958976001	Mapudungun	mapu1245	to fold	FOLD	1470		müchamün	müchamün 
+671	41-9-16-1	7211254640614314	Mapudungun	mapu1245	to tie	TIE	1917		trarin	trarin 
+672	41-9-161-1	7211254368854933	Mapudungun	mapu1245	to untie	UNTIE	352		entutrarin	entutrarin 
+673	41-9-19-1	7211254712463618	Mapudungun	mapu1245	the rope	ROPE	1218		zef	zef 
+674	41-9-192-1	721125412887888	Mapudungun	mapu1245	the knot	KNOT	760		püro	püro 
+675	41-9-21-1	7211254751453020	Mapudungun	mapu1245	to strike or hit or beat	STRIKE OR BEAT	2133		mütrongün	mütrongün 
+676	41-9-21-2	721125493232365	Mapudungun	mapu1245	to strike or hit or beat	STRIKE OR BEAT	2133		palolpaloltun	palolpaloltun 
+677	41-9-211-1	7211254833735911	Mapudungun	mapu1245	to pound	POUND	354		tralofün	tralofün 
+678	41-9-211-2	8131652151453786	Mapudungun	mapu1245	to pound	POUND	354		puñete	puñete 
+679	41-9-22-1	7211254716094766	Mapudungun	mapu1245	to cut	CUT	1432		katrün	katrün 
+680	41-9-221-1	7211254684025158	Mapudungun	mapu1245	to cut down	CUT DOWN	355		trantun	trantun 
+681	41-9-222-1	7211254212254574	Mapudungun	mapu1245	to chop	CHOP	155		katrükan	katrükan 
+682	41-9-223-1	7211254115362791	Mapudungun	mapu1245	to stab	STAB TO DEATH	3189		chüngarün	chüngarün 
+683	41-9-23-1	7211254650057831	Mapudungun	mapu1245	the knife(2)	KNIFE	1352		kuchillu	kuchillu 
+684	41-9-24-1	7211254590979694	Mapudungun	mapu1245	the scissors or shears	SHEARS	356		tikera	tikera 
+685	41-9-24-2	813172721750323	Mapudungun	mapu1245	the scissors or shears	SHEARS	356		kupilwe	kupilwe 
+686	41-9-25-1	7211254135253475	Mapudungun	mapu1245	the axe/ax	AXE	677		toki	toki 
+687	41-9-26-1	7211254634053904	Mapudungun	mapu1245	to break	BREAK (DESTROY OR GET DESTROYED)	680		trafon	trafon 
+688	41-9-261-1	7211254166071976	Mapudungun	mapu1245	broken	BROKEN (NOT WORKING)	3190		trafo	trafo 
+689	41-9-27-1	7211254741393276	Mapudungun	mapu1245	to split	SPLIT	1437		triran	triran 
+690	41-9-28-1	7211254519939111	Mapudungun	mapu1245	to tear	TEAR (SHRED)	1735		wükürün	wükürün 
+691	41-9-29-1	7211254242494762	Mapudungun	mapu1245	to skin	PULL OFF (SKIN)	291		lawümün	lawümün 
+692	41-9-31-1	721125473139468	Mapudungun	mapu1245	to rub	RUB	1449		ngüllfün	ngüllfün 
+693	41-9-32-1	721125481946158	Mapudungun	mapu1245	to stretch	STRETCH	214		winümün	winümün 
+694	41-9-33-1	7211254929016871	Mapudungun	mapu1245	to pull	PULL	1455		witran (1)	witran (1) 
+695	41-9-34-1	721125447173688	Mapudungun	mapu1245	to spread out	SPREAD OUT	38		ünifün	ünifün 
+696	41-9-34-2	7211254491292359	Mapudungun	mapu1245	to spread out	SPREAD OUT	38		pachüqün	pachüqün 
+697	41-9-341-1	7211254845606961	Mapudungun	mapu1245	to hang up	HANG UP	357		pültrün	pültrün 
+698	41-9-342-1	7211254950834479	Mapudungun	mapu1245	to press	PRESS	1913		ngürin	ngürin 
+699	41-9-343-1	7211254738503713	Mapudungun	mapu1245	to squeeze	SQUEEZE	1414		kütrün	kütrün 
+700	41-9-343-2	7211254138336349	Mapudungun	mapu1245	to squeeze	SQUEEZE	1414		ngütrarün	ngütrarün 
+701	41-9-35-1	7211254107190534	Mapudungun	mapu1245	to pour	POUR	1487		wellimün	wellimün 
+702	41-9-35-2	7211254734933833	Mapudungun	mapu1245	to pour	POUR	1487		witrulün	witrulün 
+703	41-9-36-1	7211254153480758	Mapudungun	mapu1245	to wash	WASH	1453		küchan	küchan 
+704	41-9-37-1	7211254500559672	Mapudungun	mapu1245	to sweep	SWEEP	230		lepün (1)	lepün (1) 
+705	41-9-38-1	7211254600063203	Mapudungun	mapu1245	the broom	BROOM	245		lepüwe	lepüwe 
+706	41-9-422-1	7211254590453612	Mapudungun	mapu1245	the tool	TOOL	1361		küzawam	küzawam 
+707	41-9-422-2	7211254849734885	Mapudungun	mapu1245	the tool	TOOL	1361		püṉepeyel	püṉepeyel 
+708	41-9-43-1	7211254204304506	Mapudungun	mapu1245	the carpenter	CARPENTER	1042		kalpinteru	kalpinteru 
+709	41-9-43-2	8131714845856929	Mapudungun	mapu1245	the carpenter	CARPENTER	1042		rukafe	rukafe 
+710	41-9-44-1	721125477804117	Mapudungun	mapu1245	to build	BUILD	1840		zewman	zewman 
+711	41-9-46-1	7211254566825292	Mapudungun	mapu1245	to bore	BORE	1501		katan	katan 
+712	41-9-461-1	7211254595172018	Mapudungun	mapu1245	to hollow out	HOLLOW OUT	46		wechozün	wechozün 
+713	41-9-48-1	721125422666336	Mapudungun	mapu1245	the saw	SAW	1948		seruchu	seruchu 
+714	41-9-49-1	7211254937753867	Mapudungun	mapu1245	the hammer	HAMMER	1481		martillu	martillu 
+715	41-9-5-1	721125437791516	Mapudungun	mapu1245	the nail	NAIL (TOOL)	502		külafo	külafo 
+716	41-9-63-1	7211254950749488	Mapudungun	mapu1245	to cast	CAST	211		lliwümün	lliwümün 
+717	41-9-64-1	7211254469887615	Mapudungun	mapu1245	the gold	GOLD	1369		milla	milla 
+718	41-9-65-1	7211254357025129	Mapudungun	mapu1245	the silver	SILVER	759		liqen	liqen 
+719	41-9-65-2	813184359740739	Mapudungun	mapu1245	the silver	SILVER	759		pulata	pulata 
+720	41-9-66-1	8131758491390843	Mapudungun	mapu1245	the copper	COPPER	1825		kelü pañilwe	kelü pañilwe 
+721	41-9-68-1	7211254612184266	Mapudungun	mapu1245	the lead	LEAD (CHEMICAL ELEMENT)	627		titi	titi 
+722	41-9-71-1	7211254443707417	Mapudungun	mapu1245	the potter	POTTER	359		wizüfe	wizüfe 
+723	41-9-72-1	7211254466584455	Mapudungun	mapu1245	to mould/mold	MOLD	289		wizün	wizün 
+724	41-9-73-1	7211254163971349	Mapudungun	mapu1245	the clay	CLAY	1399		raq	raq 
+725	41-9-74-1	7211254681551279	Mapudungun	mapu1245	the glass	GLASS	604		vidrio	vidrio 
+726	41-9-75-1	7211254177025972	Mapudungun	mapu1245	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		zamin	zamin 
+727	41-9-76-1	7211254595981207	Mapudungun	mapu1245	the basket	BASKET	1539		külko	külko 
+728	41-9-76-2	7211254845217562	Mapudungun	mapu1245	the basket	BASKET	1539		chaywe	chaywe 
+729	41-9-76-3	7211254234079971	Mapudungun	mapu1245	the basket	BASKET	1539		kanesta	kanesta 
+730	41-9-79-1	7211254587488055	Mapudungun	mapu1245	the fan	FAN (OBJECT)	1971		mefürwe	mefürwe 
+731	41-9-791-1	721125456889671	Mapudungun	mapu1245	to fan	FAN ACTION	360		mefürün	mefürün 
+732	41-9-88-1	7211254719665570	Mapudungun	mapu1245	the paint	PAINT (PIGMENTS)	647		pintura	pintura 
+733	41-9-89-1	7211254508913871	Mapudungun	mapu1245	to paint	PAINTING	2001		pintan	pintan 
+734	41-10-11-1	7211254688683840	Mapudungun	mapu1245	to move	MOVE	765		nengümün	nengümün 
+735	41-10-11-2	7211254527350560	Mapudungun	mapu1245	to move	MOVE	765		modan	modan 
+736	41-10-12-1	7211254252068902	Mapudungun	mapu1245	to turn	TURN	1588		wiñokintun	wiñokintun 
+737	41-10-13-1	7211254377147050	Mapudungun	mapu1245	to turn around	TURN (SOMETHING)	1445		chüwüzün	chüwüzün 
+738	41-10-14-1	7211254186306536	Mapudungun	mapu1245	to wrap	WRAP	1113		iwüzün	iwüzün 
+739	41-10-15-1	7211254445753193	Mapudungun	mapu1245	to roll	ROLL	827		chümpon	chümpon 
+740	41-10-16-1	7211254347653365	Mapudungun	mapu1245	to drop	DROP (SOMETHING)	2866		müñalün	müñalün 
+741	41-10-17-1	7211254937637113	Mapudungun	mapu1245	to twist	TWIST (AROUND)	3199		piwünün	piwünün 
+742	41-10-21-1	7211254618222936	Mapudungun	mapu1245	to rise	RISE (MOVE UPWARDS)	568		püran	püran 
+743	41-10-22-1	7211254497539426	Mapudungun	mapu1245	to raise or lift	LIFT	501		witrañpüramün	witrañpüramün 
+744	41-10-23-1	7211254646458713	Mapudungun	mapu1245	to fall	FALL	1280		ütrünaqün	ütrünaqün 
+745	41-10-24-1	7211254504223642	Mapudungun	mapu1245	to drip	DRIP (EMIT LIQUID)	2253		lüykün	lüykün 
+746	41-10-24-2	7211254534526880	Mapudungun	mapu1245	to drip	DRIP (EMIT LIQUID)	2253		naylükün	naylükün 
+747	41-10-25-1	7211254625460444	Mapudungun	mapu1245	to throw	THROW	1456		ütrüfentun	ütrüfentun 
+748	41-10-252-1	7211254661055857	Mapudungun	mapu1245	to catch	CATCH	702		pillaw	pillaw 
+749	41-10-252-2	7211254989051413	Mapudungun	mapu1245	to catch	CATCH	702		nün	nün 
+750	41-10-26-1	7211254526055597	Mapudungun	mapu1245	to shake	SHAKE	1909		mütrowün	mütrowün 
+751	41-10-32-1	7211254433099884	Mapudungun	mapu1245	to flow	FLOW	2003		witrun	witrun 
+752	41-10-33-1	7211254307611111	Mapudungun	mapu1245	to sink	SINK (DESCEND)	1088		ñamkonün	ñamkonün 
+753	41-10-34-1	7211254744791331	Mapudungun	mapu1245	to float	FLOAT	1574		zeñoyün	zeñoyün 
+754	41-10-35-1	7211254747986315	Mapudungun	mapu1245	to swim	SWIM	1439		weyelün	weyelün 
+755	41-10-352-1	7211254559427259	Mapudungun	mapu1245	to splash	SPLASH	365		wifültun	wifültun 
+756	41-10-352-2	7211254758500062	Mapudungun	mapu1245	to splash	SPLASH	365		püntefün	püntefün 
+757	41-10-37-1	7211254195845606	Mapudungun	mapu1245	to fly	FLY (MOVE THROUGH AIR)	1441		müpün	müpün 
+758	41-10-38-1	7211254654636750	Mapudungun	mapu1245	to blow	BLOW (OF WIND)	175		pimun	pimun 
+759	41-10-41-1	7211254467374949	Mapudungun	mapu1245	to crawl	CRAWL	96		winolün	winolün 
+760	41-10-412-1	7211254515694766	Mapudungun	mapu1245	to kneel	KNEEL	66		lukutun	lukutun 
+761	41-10-413-1	7211254166698908	Mapudungun	mapu1245	to crouch	CROUCH	296		chekoznaqün	chekoznaqün 
+762	41-10-42-1	7211254935830312	Mapudungun	mapu1245	to slide or slip	SLIP	1324		meyuzün	meyuzün 
+763	41-10-43-1	7211254106753625	Mapudungun	mapu1245	to jump	JUMP	1829		rüngkün	rüngkün 
+764	41-10-431-1	7211254553231891	Mapudungun	mapu1245	to kick	KICK	1135		mangkün	mangkün 
+765	41-10-44-1	7211254489914445	Mapudungun	mapu1245	to dance	DANCE	1879		purun	purun 
+766	41-10-45-1	7211254670085618	Mapudungun	mapu1245	to walk	WALK	1443		marchay	marchay 
+767	41-10-45-2	7211254121208805	Mapudungun	mapu1245	to walk	WALK	1443		trekan	trekan 
+768	41-10-451-1	7211254300272931	Mapudungun	mapu1245	to limp	LIMP	366		küntron	küntron 
+769	41-10-46-1	7211254691299505	Mapudungun	mapu1245	to run	RUN	1519		lefün	lefün 
+770	41-10-47-1	7211254151209842	Mapudungun	mapu1245	to go	GO	695		amun	amun 
+771	41-10-471-1	7211254618222936	Mapudungun	mapu1245	to go up	GO UP (ASCEND)	705		püran	püran 
+772	41-10-472-1	7211254618222936	Mapudungun	mapu1245	to climb	CLIMB	1102		püran	püran 
+773	41-10-473-1	721125482091044	Mapudungun	mapu1245	to go down	GO DOWN (DESCEND)	2014		naqün	naqün 
+774	41-10-474-1	7211254325887938	Mapudungun	mapu1245	to go out	GO OUT	1107		tripan	tripan 
+775	41-10-48-1	7211254221785948	Mapudungun	mapu1245	to come	COME	1446		küpan	küpan 
+776	41-10-481-1	7211254515628760	Mapudungun	mapu1245	to come back	COME BACK	581		wiñon	wiñon 
+777	41-10-49-1	7211254325887938	Mapudungun	mapu1245	to leave	LEAVE	1752		tripan	tripan 
+778	41-10-491-1	7211254687633419	Mapudungun	mapu1245	to disappear	DISAPPEAR	485		ñamün	ñamün 
+779	41-10-51-1	7211254164806637	Mapudungun	mapu1245	to flee	FLEE	956		lefmawün	lefmawün 
+780	41-10-52-1	7211254989455464	Mapudungun	mapu1245	to follow	FOLLOW	1085		inan	inan 
+781	41-10-53-1	7211254703275835	Mapudungun	mapu1245	to pursue	PURSUE	1047		inantukun	inantukun 
+782	41-10-55-1	7211254972886700	Mapudungun	mapu1245	to arrive	ARRIVE	1387		puwün	puwün 
+783	41-10-56-1	7211254250478435	Mapudungun	mapu1245	to approach	APPROACH	1778		fülkonün	fülkonün 
+784	41-10-56-2	7211254739482132	Mapudungun	mapu1245	to approach	APPROACH	1778		püllekonün	püllekonün 
+785	41-10-57-1	7211254200146069	Mapudungun	mapu1245	to enter	ENTER	749		konün	konün 
+786	41-10-61-1	7211254363496139	Mapudungun	mapu1245	to carry	CARRY	700		yen	yen 
+787	41-10-612-1	7211254470209295	Mapudungun	mapu1245	to carry in hand	CARRY IN HAND	412		yenien	yenien 
+788	41-10-613-1	7211254696266735	Mapudungun	mapu1245	to carry on shoulder	CARRY ON SHOULDER	413		meñkun	meñkun 
+789	41-10-62-1	7211254658519612	Mapudungun	mapu1245	to bring	BRING	692		küpalün	küpalün 
+790	41-10-63-1	7211254719475619	Mapudungun	mapu1245	to send	SEND	1127		yefalün	yefalün 
+791	41-10-65-1	7211254440090098	Mapudungun	mapu1245	to drive	DRIVE	741		amulün	amulün 
+792	41-10-66-1	7211254618222936	Mapudungun	mapu1245	to ride	RIDE	367		püran	püran 
+793	41-10-67-1	7211254174402650	Mapudungun	mapu1245	to push	PUSH	1452		rültren	rültren 
+794	41-10-72-1	7211254382849333	Mapudungun	mapu1245	the path	PATH	2252		rüpü	rüpü 
+795	41-10-74-1	7211254407959224	Mapudungun	mapu1245	the bridge	BRIDGE	1011		kuykuy	kuykuy 
+796	41-10-75-1	7211254251109314	Mapudungun	mapu1245	the cart or wagon	CART	122		kareta	kareta 
+797	41-10-76-1	7211254639288212	Mapudungun	mapu1245	the wheel	WHEEL	710		chüngküll	chüngküll 
+798	41-10-76-2	7211254352132143	Mapudungun	mapu1245	the wheel	WHEEL	710		rweda	rweda 
+799	41-10-77-1	7211254769892622	Mapudungun	mapu1245	the axle	AXLE	1769		eje	eje 
+800	41-10-78-1	7211254401651042	Mapudungun	mapu1245	the yoke	YOKE	14		yuku	yuku 
+801	41-10-83-1	7211254498865283	Mapudungun	mapu1245	the boat	BOAT	1844		fote	fote 
+802	41-10-831-1	7211254577010309	Mapudungun	mapu1245	the canoe	CANOE	1970		wampo	wampo 
+803	41-10-85-1	8131927640086923	Mapudungun	mapu1245	the oar	RUDDER	108		remo	remo 
+804	41-10-85-2	98231117144499754	Mapudungun	mapu1245	the oar	RUDDER	108		kawewe	kawewe 
+805	41-10-852-1	98231117422468908	Mapudungun	mapu1245	to row	ROW	1849		kawen	kawen 
+806	41-10-91-1	8131958407551627	Mapudungun	mapu1245	the port	PORT	610		fotetuwe	fotetuwe 
+807	41-11-11-1	7211254723834616	Mapudungun	mapu1245	to have	HAVE	773		nien	nien 
+808	41-11-12-1	7211254723834616	Mapudungun	mapu1245	to own	OWN	684		nien	nien 
+809	41-11-13-1	7211254623543358	Mapudungun	mapu1245	to take	TAKE	1749		tun	tun 
+810	41-11-14-1	7211254989051413	Mapudungun	mapu1245	to grasp	SEIZE	855		nün	nün 
+811	41-11-15-1	7211254638026451	Mapudungun	mapu1245	to hold	HOLD	1448		nünien	nünien 
+812	41-11-16-1	7211254723834616	Mapudungun	mapu1245	to get	GET	694		nien	nien 
+813	41-11-17-1	7211254872015831	Mapudungun	mapu1245	to keep	KEEP	1477		niekan	niekan 
+814	41-11-18-1	7211254691859200	Mapudungun	mapu1245	the thing	THING	738		chem rume	chem rume 
+815	41-11-18-2	7211254292694834	Mapudungun	mapu1245	the thing	THING	738		weshakelu	weshakelu 
+816	41-11-21-1	7211254507115379	Mapudungun	mapu1245	to give	GIVE	1447		wülün	wülün 
+817	41-11-22-1	7211254660916032	Mapudungun	mapu1245	to give back	GIVE BACK	85		wiñoltun	wiñoltun 
+818	41-11-24-1	7211254327938977	Mapudungun	mapu1245	to preserve	PRESERVE	1997		zapinien	zapinien 
+819	41-11-25-1	7211254121497173	Mapudungun	mapu1245	to rescue	RESCUE	2008		montulün	montulün 
+820	41-11-28-1	7211254722906386	Mapudungun	mapu1245	to injure	INJURE	44		allfülün	allfülün 
+821	41-11-31-1	7211254745580302	Mapudungun	mapu1245	to look for	LOOK FOR	1468		kintun	kintun 
+822	41-11-32-1	7211254764732709	Mapudungun	mapu1245	to find	FIND	719		pezan	pezan 
+823	41-11-33-1	7211254748160404	Mapudungun	mapu1245	to lose	LOSE	1660		ñamümün	ñamümün 
+824	41-11-34-1	7211254372883977	Mapudungun	mapu1245	to let go	LET GO OR SET FREE	1095		neykümün	neykümün 
+825	41-11-43-1	7211254203277248	Mapudungun	mapu1245	the money	MONEY	1559		plata	plata 
+826	41-11-44-1	8132018340064092	Mapudungun	mapu1245	the coin	COIN	1867		peso	peso 
+827	41-11-44-2	98231124548700088	Mapudungun	mapu1245	the coin	COIN	1867		chawcha	chawcha 
+828	41-11-51-1	7211254863267445	Mapudungun	mapu1245	rich	RICH	712		üḻmen che	üḻmen che 
+829	41-11-52-1	7211254233007600	Mapudungun	mapu1245	poor	POOR	1674		kuñifall	kuñifall 
+830	41-11-52-2	7211254896379408	Mapudungun	mapu1245	poor	POOR	1674		pofre	pofre 
+831	41-11-54-1	7211254201689478	Mapudungun	mapu1245	stingy	STINGY	1774		rükü	rükü 
+832	41-11-61-1	721125433619850	Mapudungun	mapu1245	to lend	LEND	582		arelün	arelün 
+833	41-11-62-1	721125491843367	Mapudungun	mapu1245	to borrow	BORROW	1823		aretun	aretun 
+834	41-11-63-1	7211254220365199	Mapudungun	mapu1245	to owe	OWE	369		zefen	zefen 
+835	41-11-64-1	7211254357024972	Mapudungun	mapu1245	the debt	DEBT	1914		zefe	zefe 
+836	41-11-65-1	7211254437967922	Mapudungun	mapu1245	to pay	PAY	718		kullin	kullin 
+837	41-11-77-1	7211254106381233	Mapudungun	mapu1245	to hire	HIRE	856		alkilan	alkilan 
+838	41-11-78-1	7211254437439281	Mapudungun	mapu1245	the wages	WAGES	1122		sweldo	sweldo 
+839	41-11-79-1	7211254744363710	Mapudungun	mapu1245	to earn	EARN	733		entun	entun 
+840	41-11-79-2	7211254832489318	Mapudungun	mapu1245	to earn	EARN	733		kanan	kanan 
+841	41-11-81-1	7211254494339058	Mapudungun	mapu1245	to buy	BUY	1869		ngillan	ngillan 
+842	41-11-82-1	7211254507115379	Mapudungun	mapu1245	to sell	SELL	1571		wülün	wülün 
+843	41-11-82-2	7211254407494726	Mapudungun	mapu1245	to sell	SELL	1571		fenzen	fenzen 
+844	41-11-83-1	7211254662522619	Mapudungun	mapu1245	to trade or barter	TRADE OR BARTER	2135		welukan	welukan 
+845	41-11-84-1	7211254185669433	Mapudungun	mapu1245	the merchant	MERCHANT	1082		ngillakafe	ngillakafe 
+846	41-11-88-1	721125469349090	Mapudungun	mapu1245	expensive	EXPENSIVE	1426		alü falin	alü falin 
+847	41-11-89-1	7211254816213901	Mapudungun	mapu1245	cheap	CHEAP	1887		pichi falin	pichi falin 
+848	41-11-89-2	8132041420984225	Mapudungun	mapu1245	cheap	CHEAP	1887		faratu	faratu 
+849	41-11-91-1	7211254428312868	Mapudungun	mapu1245	to share	SHARE	884		wüzamün	wüzamün 
+850	41-11-92-1	7211254257231506	Mapudungun	mapu1245	to weigh	WEIGH	1098		fanefanetun	fanefanetun 
+851	41-12-01-1	7211254605581335	Mapudungun	mapu1245	after	AFTER	1685		fey wüla	fey wüla 
+852	41-12-01-2	7211254397877065	Mapudungun	mapu1245	after	AFTER	1685		depwe	depwe 
+853	41-12-011-1	7211254548699131	Mapudungun	mapu1245	behind	BEHIND	1686		furitu	furitu 
+854	41-12-02-1	7211254171640442	Mapudungun	mapu1245	beside	BESIDE	1816		ina	ina 
+855	41-12-03-1	7211254781012029	Mapudungun	mapu1245	down	DOWN	1326		naqeltu	naqeltu 
+856	41-12-04-1	7211254297338103	Mapudungun	mapu1245	before	BEFORE	1882		wüne	wüne 
+857	41-12-041-1	7211254867610845	Mapudungun	mapu1245	in front of	IN FRONT OF	1883		puñ mew	puñ mew 
+858	41-12-041-2	7211254436267391	Mapudungun	mapu1245	in front of	IN FRONT OF	1883		itrotripa	itrotripa 
+859	41-12-05-1	7211254738918696	Mapudungun	mapu1245	inside	INSIDE	1606		ponwi	ponwi 
+860	41-12-06-1	7211254875682048	Mapudungun	mapu1245	outside	OUTSIDE	762		wekuntu	wekuntu 
+861	41-12-07-1	7211254376899649	Mapudungun	mapu1245	under	BELOW OR UNDER	1485		miñche	miñche 
+862	41-12-07-2	7211254895283855	Mapudungun	mapu1245	under	BELOW OR UNDER	1485		abajo	abajo 
+863	41-12-08-1	7211254914677675	Mapudungun	mapu1245	up	UP	1591		wenu	wenu 
+864	41-12-12-1	7211254271299550	Mapudungun	mapu1245	to put	PUT	998		tukun	tukun 
+865	41-12-13-1	7211254860610924	Mapudungun	mapu1245	to sit	SIT	1416		anün	anün 
+866	41-12-14-1	7211254405819100	Mapudungun	mapu1245	to lie down	LIE DOWN	215		tranawün	tranawün 
+867	41-12-14-2	7211254545973970	Mapudungun	mapu1245	to lie down	LIE DOWN	215		kuzun	kuzun 
+868	41-12-15-1	7211254546844482	Mapudungun	mapu1245	to stand	STAND	1442		witrapüran	witrapüran 
+869	41-12-16-1	7211254734234650	Mapudungun	mapu1245	to remain	REMAIN	987		mülekan	mülekan 
+870	41-12-17-1	7211254467086483	Mapudungun	mapu1245	the remains	REMAINS	838		mülewelu	mülewelu 
+871	41-12-17-2	7211254328909847	Mapudungun	mapu1245	the remains	REMAINS	838		sofran	sofran 
+872	41-12-21-1	7211254118101641	Mapudungun	mapu1245	to gather	GATHER	7		ngülümün	ngülümün 
+873	41-12-212-1	7211254302482368	Mapudungun	mapu1245	to pick up	PICK UP	371		ñimitun	ñimitun 
+874	41-12-213-1	7211254619450446	Mapudungun	mapu1245	to pile up	PILE UP	1576		wirkolün	wirkolün 
+875	41-12-22-1	7211254309377557	Mapudungun	mapu1245	to join	JOIN	1743		trawülün	trawülün 
+876	41-12-23-1	7211254420276515	Mapudungun	mapu1245	to separate	SEPARATE	1359		wüzalün	wüzalün 
+877	41-12-232-1	7211254899605434	Mapudungun	mapu1245	to divide	DIVIDE	1119		trirakan	trirakan 
+878	41-12-24-1	7211254332090259	Mapudungun	mapu1245	to open	OPEN	1156		nülan	nülan 
+879	41-12-25-1	7211254591901358	Mapudungun	mapu1245	to shut	SHUT	1046		nürüfün	nürüfün 
+880	41-12-25-2	7211254534749477	Mapudungun	mapu1245	to shut	SHUT	1046		seran	seran 
+881	41-12-26-1	7211254421315170	Mapudungun	mapu1245	to cover	COVER	761		takun	takun 
+882	41-12-27-1	7211254552913088	Mapudungun	mapu1245	to hide	HIDE (CONCEAL)	602		ellkan	ellkan 
+883	41-12-31-1	721125449385286	Mapudungun	mapu1245	high	HIGH	1265		alüpüra	alüpüra 
+884	41-12-32-1	7211254198707980	Mapudungun	mapu1245	low	LOW	721		laftra	laftra 
+885	41-12-33-1	7211254527549007	Mapudungun	mapu1245	the top	TOP	1753		wechuñ	wechuñ 
+886	41-12-34-1	7211254738918696	Mapudungun	mapu1245	the bottom	BOTTOM	690		ponwi	ponwi 
+887	41-12-35-1	7211254590582758	Mapudungun	mapu1245	the end(1)	END (OF SPACE)	742		wechuñtu	wechuñtu 
+888	41-12-352-1	7211254575119306	Mapudungun	mapu1245	pointed	POINTED	372		wechuñngechi	wechuñngechi 
+889	41-12-353-1	7211254420736463	Mapudungun	mapu1245	the edge	EDGE	863		üpül	üpül 
+890	41-12-36-1	7211254865541237	Mapudungun	mapu1245	the side	SIDE	682		afkazi	afkazi 
+891	41-12-37-1	7211254720074781	Mapudungun	mapu1245	the middle	MIDDLE	1093		rangiñ	rangiñ 
+892	41-12-41-1	7211254655571262	Mapudungun	mapu1245	right(1)	RIGHT	1019		man	man 
+893	41-12-42-1	7211254221760575	Mapudungun	mapu1245	left	LEFT	244		wele	wele 
+894	41-12-43-1	7211254554414099	Mapudungun	mapu1245	near	NEAR	1942		pülle	pülle 
+895	41-12-44-1	7211254231030091	Mapudungun	mapu1245	far	FAR	1406		kamapu	kamapu 
+896	41-12-45-1	7211254510678647	Mapudungun	mapu1245	the east	EAST	1877		puel	puel 
+897	41-12-46-1	7211254653031111	Mapudungun	mapu1245	the west	WEST	1817		ngulu	ngulu 
+898	41-12-47-1	7211254234919616	Mapudungun	mapu1245	the north	NORTH	1598		pikun	pikun 
+899	41-12-48-1	7211254309059780	Mapudungun	mapu1245	the south	SOUTH	1595		willi	willi 
+900	41-12-53-1	7211254694773312	Mapudungun	mapu1245	to grow	GROW	479		tremün	tremün 
+901	41-12-54-1	7211254383115750	Mapudungun	mapu1245	to measure	MEASURE	1506		nufkütun	nufkütun 
+902	41-12-541-1	7211254323508396	Mapudungun	mapu1245	the fathom	FATHOM	81		nufkü	nufkü 
+903	41-12-55-1	7211254672272668	Mapudungun	mapu1245	big	BIG	1202		fütra	fütra 
+904	41-12-56-1	7211254773098782	Mapudungun	mapu1245	small	SMALL	1246		pichi	pichi 
+905	41-12-57-1	7211254854807848	Mapudungun	mapu1245	long	LONG	1203		alütuw	alütuw 
+906	41-12-58-1	721125452426556	Mapudungun	mapu1245	tall	TALL	711		fütra witran	fütra witran 
+907	41-12-59-1	7211254589839642	Mapudungun	mapu1245	short	SHORT	1645		pichituw	pichituw 
+908	41-12-61-1	7211254479152555	Mapudungun	mapu1245	wide	WIDE	1243		fütrarupa	fütrarupa 
+909	41-12-62-1	7211254275109573	Mapudungun	mapu1245	narrow	NARROW	1267		pichirume	pichirume 
+910	41-12-63-1	7211254143167845	Mapudungun	mapu1245	thick	THICK	1244		fütrarume	fütrarume 
+911	41-12-65-1	7211254275109573	Mapudungun	mapu1245	thin	THIN (OF SHAPE OF OBJECT)	2249		pichirume	pichirume 
+912	41-12-67-1	7211254559550427	Mapudungun	mapu1245	deep	DEEP	1593		alükon	alükon 
+913	41-12-68-1	7211254566187290	Mapudungun	mapu1245	shallow	SHALLOW	193		pichikon	pichikon 
+914	41-12-71-1	7211254652864076	Mapudungun	mapu1245	flat	FLAT	1633		laf	laf 
+915	41-12-73-1	7211254485941828	Mapudungun	mapu1245	straight	STRAIGHT	1404		üngkü	üngkü 
+916	41-12-73-2	72112544019680	Mapudungun	mapu1245	straight	STRAIGHT	1404		nor	nor 
+917	41-12-74-1	7211254789801352	Mapudungun	mapu1245	crooked	CROOKED	297		trümpew	trümpew 
+918	41-12-74-2	7211254116788293	Mapudungun	mapu1245	crooked	CROOKED	297		wüchün	wüchün 
+919	41-12-75-1	7211254124141691	Mapudungun	mapu1245	the hook	HOOK	1071		chang	chang 
+920	41-12-76-1	7211254250103206	Mapudungun	mapu1245	the corner	CORNER	192		ngüyon	ngüyon 
+921	41-12-77-1	7211254171079332	Mapudungun	mapu1245	the cross	CROSS	1367		kürus	kürus 
+922	41-12-81-1	7211254357765559	Mapudungun	mapu1245	round	ROUND	1395		chüngküz	chüngküz 
+923	41-12-82-1	7211254357765559	Mapudungun	mapu1245	the circle	CIRCLE	1467		chüngküz	chüngküz 
+924	41-12-83-1	7211254417288183	Mapudungun	mapu1245	the ball	BALL	1845		mongkol	mongkol 
+925	41-12-83-2	813205972907318	Mapudungun	mapu1245	the ball	BALL	1845		pelota	pelota 
+926	41-12-84-1	721125429759395	Mapudungun	mapu1245	the line	LINE	1048		wirin	wirin 
+927	41-12-85-1	7211254375250220	Mapudungun	mapu1245	the hole	HOLE	1667		wechoz	wechoz 
+928	41-12-93-1	7211254778269747	Mapudungun	mapu1245	to change	CHANGE	1264		kakünun	kakünun 
+929	41-13-01-1	7211254130388131	Mapudungun	mapu1245	one	ONE	1493		kiñe	kiñe 
+930	41-13-02-1	72112541712155	Mapudungun	mapu1245	two	TWO	1498		epu	epu 
+931	41-13-03-1	7211254118628189	Mapudungun	mapu1245	three	THREE	492		küla	küla 
+932	41-13-04-1	7211254317937717	Mapudungun	mapu1245	four	FOUR	1500		meli	meli 
+933	41-13-05-1	7211254245417881	Mapudungun	mapu1245	five	FIVE	493		kechu	kechu 
+934	41-13-06-1	7211254909742688	Mapudungun	mapu1245	six	SIX	1703		kayu	kayu 
+935	41-13-07-1	7211254265379507	Mapudungun	mapu1245	seven	SEVEN	1704		reqle	reqle 
+936	41-13-08-1	7211254151374930	Mapudungun	mapu1245	eight	EIGHT	1705		pura	pura 
+937	41-13-09-1	7211254660021	Mapudungun	mapu1245	nine	NINE	1483		aylla	aylla 
+938	41-13-1-1	7211254126436800	Mapudungun	mapu1245	ten	TEN	1515		mari	mari 
+939	41-13-101-1	7211254939417475	Mapudungun	mapu1245	eleven	ELEVEN	1706		mari kiñe	mari kiñe 
+940	41-13-102-1	7211254452470660	Mapudungun	mapu1245	twelve	TWELVE	1707		mari epu	mari epu 
+941	41-13-103-1	7211254538472419	Mapudungun	mapu1245	fifteen	FIFTEEN	1709		mari kechu	mari kechu 
+942	41-13-104-1	7211254936977604	Mapudungun	mapu1245	twenty	TWENTY	1710		epu mari	epu mari 
+943	41-13-105-1	7211254476785941	Mapudungun	mapu1245	a hundred	HUNDRED	1634		pataka	pataka 
+944	41-13-106-1	7211254547293785	Mapudungun	mapu1245	a thousand	THOUSAND	1843		warangka	warangka 
+945	41-13-107-1	7211254714300998	Mapudungun	mapu1245	to count	COUNT	1420		rakin	rakin 
+946	41-13-14-1	7211254338661272	Mapudungun	mapu1245	all	ALL	98		kom	kom 
+947	41-13-15-1	7211254275871470	Mapudungun	mapu1245	many	MANY	1198		fentren	fentren 
+948	41-13-16-1	7211254321250613	Mapudungun	mapu1245	more	MORE	1992		zoy	zoy 
+949	41-13-17-1	7211254548779445	Mapudungun	mapu1245	few	FEW	1242		pichin	pichin 
+950	41-13-18-1	7211254548519105	Mapudungun	mapu1245	enough	ENOUGH	1881		alün	alün 
+951	41-13-181-1	721125488831783	Mapudungun	mapu1245	some	SOME	1241		kiñeke	kiñeke 
+952	41-13-19-1	7211254305147887	Mapudungun	mapu1245	the crowd	CROWD	2023		rume fentren che	rume fentren che 
+953	41-13-21-1	7211254864309057	Mapudungun	mapu1245	full	FULL	1429		apon	apon 
+954	41-13-22-1	7211254107354596	Mapudungun	mapu1245	empty	EMPTY	1624		wellin	wellin 
+955	41-13-23-1	7211254957414328	Mapudungun	mapu1245	the part	PART	779		kiñe triran	kiñe triran 
+956	41-13-23-2	7211254506642544	Mapudungun	mapu1245	the part	PART	779		kiñe katrün	kiñe katrün 
+957	41-13-23-3	7211254427735096	Mapudungun	mapu1245	the part	PART	779		kiñe trafon	kiñe trafon 
+958	41-13-23-4	7211254445440388	Mapudungun	mapu1245	the part	PART	779		pedaso	pedaso 
+959	41-13-24-1	7211254720074781	Mapudungun	mapu1245	the half	HALF	816		rangiñ	rangiñ 
+960	41-13-33-1	721125498998047	Mapudungun	mapu1245	only	ONLY	1580		kiñen	kiñen 
+961	41-13-34-1	7211254378996520	Mapudungun	mapu1245	first	FIRST	728		wünelelu	wünelelu 
+962	41-13-35-1	7211254221528961	Mapudungun	mapu1245	last	LAST (FINAL)	1529		inalelu	inalelu 
+963	41-13-36-1	7211254469091756	Mapudungun	mapu1245	second	SECOND	1384		epu inalelu	epu inalelu 
+964	41-13-37-1	7211254875810325	Mapudungun	mapu1245	the pair	PAIR	1888		mür	mür 
+965	41-13-38-1	7211254744708350	Mapudungun	mapu1245	twice/two times	TWICE	1546		epuchi	epuchi 
+966	41-13-42-1	7211254613565470	Mapudungun	mapu1245	third	THIRD	1859		küla inalelu	küla inalelu 
+967	41-13-44-1	7211254756733665	Mapudungun	mapu1245	three times	THREE TIMES	417		külachi	külachi 
+968	41-14-11-1	7211254127865203	Mapudungun	mapu1245	the time	TIME	892		antü	antü 
+969	41-14-12-1	7211254451959745	Mapudungun	mapu1245	the age	AGE	1789		tripantu	tripantu 
+970	41-14-13-1	7211254650467583	Mapudungun	mapu1245	new	NEW	1231		we	we 
+971	41-14-14-1	7211254792994394	Mapudungun	mapu1245	young	YOUNG	1207		weche	weche 
+972	41-14-15-1	7211254218196710	Mapudungun	mapu1245	old	OLD	1229		fücha	fücha 
+973	41-14-15-2	721125484941653	Mapudungun	mapu1245	old	OLD	1229		kuse	kuse 
+974	41-14-17-1	7211254363457220	Mapudungun	mapu1245	late	LATE	477		alü antü	alü antü 
+975	41-14-18-1	7211254221757394	Mapudungun	mapu1245	now	NOW	1376		fewla	fewla 
+976	41-14-19-1	7211254911637148	Mapudungun	mapu1245	immediately	IMMEDIATELY	1963		pürüm	pürüm 
+977	41-14-21-1	7211254911637148	Mapudungun	mapu1245	fast	FAST	1631		pürüm	pürüm 
+978	41-14-22-1	7211254482601003	Mapudungun	mapu1245	slow	SLOW	701		ñochi	ñochi 
+979	41-14-23-1	7211254452682915	Mapudungun	mapu1245	to hurry	HURRY	754		matukelün	matukelün 
+980	41-14-24-1	7211254283099076	Mapudungun	mapu1245	to be late	BE LATE	425		alüñman	alüñman 
+981	41-14-25-1	7211254430292908	Mapudungun	mapu1245	to begin	BEGIN	1806		llitun	llitun 
+982	41-14-252-1	7211254283099076	Mapudungun	mapu1245	to last	LAST (ENDURE)	1186		alüñman	alüñman 
+983	41-14-26-1	7211254720383731	Mapudungun	mapu1245	the end(2)	END (OF TIME)	743		afpun	afpun 
+984	41-14-27-1	7211254481438171	Mapudungun	mapu1245	to finish	FINISH	1766		wechulün	wechulün 
+985	41-14-28-1	7211254257452008	Mapudungun	mapu1245	to cease	CEASE	1928		fentekünun	fentekünun 
+986	41-14-29-1	7211254867600037	Mapudungun	mapu1245	ready	READY	790		elüwkülen	elüwkülen 
+987	41-14-31-1	721125410475418	Mapudungun	mapu1245	always	ALWAYS	1676		rumel	rumel 
+988	41-14-32-1	7211254288352118	Mapudungun	mapu1245	often	OFTEN	1852		müchaike	müchaike 
+989	41-14-33-1	7211254345165352	Mapudungun	mapu1245	sometimes	SOMETIMES	1544		kiñeke naq	kiñeke naq 
+990	41-14-33-2	72112547078373	Mapudungun	mapu1245	sometimes	SOMETIMES	1544		kiñeke rupa	kiñeke rupa 
+991	41-14-331-1	7211254299891960	Mapudungun	mapu1245	soon	SOON	703		mütamüten	mütamüten 
+992	41-14-332-1	72112541759525	Mapudungun	mapu1245	for a long time	FOR A LONG TIME	418		fentreñma	fentreñma 
+993	41-14-34-1	7211254129276155	Mapudungun	mapu1245	never	NEVER	1656		chumkaw rume	chumkaw rume 
+994	41-14-35-1	7211254354697322	Mapudungun	mapu1245	again	AGAIN	204		ka wiño	ka wiño 
+995	41-14-41-1	7211254127865203	Mapudungun	mapu1245	the day(1)	DAY (24 HOURS)	1260		antü	antü 
+996	41-14-42-1	7211254830175036	Mapudungun	mapu1245	the night	NIGHT	1233		puṉ	puṉ 
+997	41-14-43-1	7211254494541205	Mapudungun	mapu1245	the dawn	DAWN	729		epewün	epewün 
+998	41-14-44-1	7211254309215289	Mapudungun	mapu1245	the morning	MORNING	1339		liwen	liwen 
+999	41-14-45-1	7211254633727689	Mapudungun	mapu1245	the midday	MIDDAY	12		rangi antü	rangi antü 
+1000	41-14-451-1	7211254642693820	Mapudungun	mapu1245	the afternoon	AFTERNOON	1807		rupan antü	rupan antü 
+1001	41-14-46-1	7211254200032665	Mapudungun	mapu1245	the evening	EVENING	1629		zumzum	zumzum 
+1002	41-14-47-1	7211254562426712	Mapudungun	mapu1245	today	TODAY	1283		fachantü	fachantü 
+1003	41-14-48-1	7211254514172474	Mapudungun	mapu1245	tomorrow	TOMORROW	1329		wüle	wüle 
+1004	41-14-481-1	7211254591845073	Mapudungun	mapu1245	the day after tomorrow	DAY AFTER TOMORROW	1179		epuwe	epuwe 
+1005	41-14-49-1	7211254434294870	Mapudungun	mapu1245	yesterday	YESTERDAY	1174		wiya	wiya 
+1006	41-14-491-1	7211254591845073	Mapudungun	mapu1245	the day before yesterday	DAY BEFORE YESTERDAY	1180		epuwe	epuwe 
+1007	41-14-51-1	721125455911899	Mapudungun	mapu1245	the hour	HOUR	1353		ora	ora 
+1008	41-14-53-1	7211254251549446	Mapudungun	mapu1245	the clock	CLOCK	1323		relo	relo 
+1009	41-14-61-1	7211254682785817	Mapudungun	mapu1245	the week	WEEK	1469		semana	semana 
+1010	41-14-71-1	7211254891402585	Mapudungun	mapu1245	the month	MONTH	1370		küyeṉ	küyeṉ 
+1011	41-14-73-1	7211254451959745	Mapudungun	mapu1245	the year	YEAR	1226		tripantu	tripantu 
+1012	41-14-74-1	721125471320660	Mapudungun	mapu1245	the winter	WINTER	1471		pukem	pukem 
+1013	41-14-75-1	7211254843088211	Mapudungun	mapu1245	the spring(2)	SPRINGTIME	1537		pewü	pewü 
+1014	41-14-76-1	721125439553127	Mapudungun	mapu1245	the summer	SUMMER	1342		walüng	walüng 
+1015	41-14-77-1	7211254743795646	Mapudungun	mapu1245	the autumn/fall	AUTUMN	1276		trafkem	trafkem 
+1016	41-14-77-2	7211254716460652	Mapudungun	mapu1245	the autumn/fall	AUTUMN	1276		rümü	rümü 
+1017	41-15-21-1	7211254836391244	Mapudungun	mapu1245	to smell(1)	SMELL (STINK)	1587		ṉümüṉ	ṉümüṉ 
+1018	41-15-89-1	7211254923690887	Mapudungun	mapu1245	wrinkled	WRINKLED	380		müchamkalen	müchamkalen 
+1019	41-15-212-1	7211254538455212	Mapudungun	mapu1245	to sniff	SNIFF	375		ṉümüṉümütun	ṉümüṉümütun 
+1020	41-15-22-1	721125471536054	Mapudungun	mapu1245	to smell(2)	SMELL (PERCEIVE)	1586		ṉümütun	ṉümütun 
+1021	41-15-25-1	721125465618690	Mapudungun	mapu1245	fragrant	FRAGRANT	376		küme ṉümüṉngey	küme ṉümüṉngey 
+1022	41-15-26-1	7211254841957172	Mapudungun	mapu1245	stinking	STINKING	42		weza ṉümüṉngey	weza ṉümüṉngey 
+1023	41-15-31-1	7211254656245522	Mapudungun	mapu1245	to taste	TASTE (SOMETHING)	21		kümentun	kümentun 
+1024	41-15-35-1	7211254786840208	Mapudungun	mapu1245	sweet	SWEET	717		kochü	kochü 
+1025	41-15-36-1	7211254793695708	Mapudungun	mapu1245	salty	SALTY	1091		kotrü	kotrü 
+1026	41-15-37-1	7211254945809101	Mapudungun	mapu1245	bitter	BITTER	887		mukür	mukür 
+1027	41-15-38-1	7211254793695708	Mapudungun	mapu1245	sour	SOUR	1906		kotrü	kotrü 
+1028	41-15-39-1	7211254928646107	Mapudungun	mapu1245	brackish	BRACKISH	70		kotrü ko	kotrü ko 
+1029	41-15-41-1	7211254312634453	Mapudungun	mapu1245	to hear	HEAR	1408		allkün	allkün 
+1030	41-15-42-1	7211254340065532	Mapudungun	mapu1245	to listen	LISTEN	1608		allkütun	allkütun 
+1031	41-15-44-1	7211254769052738	Mapudungun	mapu1245	the sound or noise	SOUND OR NOISE	1811		zungun	zungun 
+1032	41-15-46-1	7211254191074186	Mapudungun	mapu1245	quiet	QUIET	1314		ñüküf	ñüküf 
+1033	41-15-51-1	7211254255603718	Mapudungun	mapu1245	to see	SEE	1409		pen	pen 
+1034	41-15-52-1	7211254861058816	Mapudungun	mapu1245	to look	LOOK	1819		lelinien	lelinien 
+1035	41-15-55-1	7211254543718813	Mapudungun	mapu1245	to show	SHOW	1039		pengelün	pengelün 
+1036	41-15-56-1	7211254106269813	Mapudungun	mapu1245	to shine	SHINE	708		wilüfün	wilüfün 
+1037	41-15-57-1	7211254457887440	Mapudungun	mapu1245	bright	BRIGHT	679		wilüf	wilüf 
+1038	41-15-63-1	7211254320452004	Mapudungun	mapu1245	dark	DARK	706		zumiñ	zumiñ 
+1039	41-15-64-1	7211254814307352	Mapudungun	mapu1245	white	WHITE	1335		liq	liq 
+1040	41-15-64-2	7211254448191395	Mapudungun	mapu1245	white	WHITE	1335		fülang	fülang 
+1041	41-15-64-3	7211254334683268	Mapudungun	mapu1245	white	WHITE	1335		plan	plan 
+1042	41-15-65-1	7211254580951497	Mapudungun	mapu1245	black	BLACK	163		kurü	kurü 
+1043	41-15-66-1	7211254803641135	Mapudungun	mapu1245	red	RED	156		kelü	kelü 
+1044	41-15-67-1	7211254328215222	Mapudungun	mapu1245	blue	BLUE	837		kallfü	kallfü 
+1045	41-15-68-1	7211254696841407	Mapudungun	mapu1245	green	GREEN	1425		karü	karü 
+1046	41-15-69-1	7211254932544867	Mapudungun	mapu1245	yellow	YELLOW	1424		choz	choz 
+1047	41-15-712-1	7211254821962199	Mapudungun	mapu1245	to pinch	PINCH	378		rutretun	rutretun 
+1048	41-15-72-1	7211254992649171	Mapudungun	mapu1245	to feel	FEEL	1079		malün	malün 
+1049	41-15-74-1	7211254271789250	Mapudungun	mapu1245	hard	HARD	1884		yafü	yafü 
+1050	41-15-75-1	7211254211467216	Mapudungun	mapu1245	soft	SOFT	1856		ngüfash	ngüfash 
+1051	41-15-76-1	7211254451770588	Mapudungun	mapu1245	rough(1)	ROUGH	1923		ningül	ningül 
+1052	41-15-77-1	7211254933400263	Mapudungun	mapu1245	smooth	SMOOTH	1234		pañush	pañush 
+1053	41-15-78-1	7211254990412074	Mapudungun	mapu1245	sharp	SHARP	1396		yungelen	yungelen 
+1054	41-15-81-1	7211254425877822	Mapudungun	mapu1245	heavy	HEAVY	1210		fane	fane 
+1055	41-15-82-1	7211254122240721	Mapudungun	mapu1245	light(1)	LIGHT (WEIGHT)	1052		fanelay	fanelay 
+1056	41-15-83-1	7211254490147551	Mapudungun	mapu1245	wet	WET	1726		kültraf	kültraf 
+1057	41-15-84-1	721125421716515	Mapudungun	mapu1245	dry	DRY	1398		piwün	piwün 
+1058	41-15-85-1	7211254920551729	Mapudungun	mapu1245	hot	HOT	1286		kofi	kofi 
+1059	41-15-851-1	7211254593346688	Mapudungun	mapu1245	warm	WARM	1232		are	are 
+1060	41-15-86-1	7211254521614074	Mapudungun	mapu1245	cold	COLD	1287		wütre	wütre 
+1061	41-15-86-2	7211254245256095	Mapudungun	mapu1245	cold	COLD	1287		fürkü	fürkü 
+1062	41-15-87-1	7211254607471039	Mapudungun	mapu1245	clean	CLEAN	704		lif	lif 
+1063	41-15-88-1	7211254798658369	Mapudungun	mapu1245	dirty	DIRTY	1230		poz	poz 
+1064	41-16-11-1	7211254426277595	Mapudungun	mapu1245	the soul or spirit	SOUL	811		püllü	püllü 
+1065	41-16-11-2	7211254429076818	Mapudungun	mapu1245	the soul or spirit	SOUL	811		am	am 
+1066	41-16-15-1	7211254452919163	Mapudungun	mapu1245	surprised or astonished	SURPRISED	1572		afmalewen	afmalewen 
+1067	41-16-23-1	7211254654591707	Mapudungun	mapu1245	happy	HAPPY	1495		ayüwkülen	ayüwkülen 
+1068	41-16-25-1	7211254278174266	Mapudungun	mapu1245	to laugh	LAUGH	1355		ayen	ayen 
+1069	41-16-251-1	7211254138333337	Mapudungun	mapu1245	to smile	SMILE	1451		üyerün	üyerün 
+1070	41-16-26-1	7211254683256345	Mapudungun	mapu1245	to play	PLAY	1413		awkantun	awkantun 
+1071	41-16-27-1	7211254140960279	Mapudungun	mapu1245	to love	LOVE	923		ayün	ayün 
+1072	41-16-27-2	7211254311084509	Mapudungun	mapu1245	to love	LOVE	923		poyen	poyen 
+1073	41-16-29-1	7211254828175837	Mapudungun	mapu1245	to kiss	KISS	578		truyun	truyun 
+1074	41-16-29-2	76301261708920	Mapudungun	mapu1245	to kiss	KISS	578		muchan	muchan 
+1075	41-16-3-1	721125427485863	Mapudungun	mapu1245	to embrace	EMBRACE	928		pangkon	pangkon 
+1076	41-16-31-1	7211254836947242	Mapudungun	mapu1245	the pain	PAIN	1783		kutran	kutran 
+1077	41-16-32-1	7211254665432262	Mapudungun	mapu1245	the grief	GRIEF	1668		llazken	llazken 
+1078	41-16-33-1	7211254353106774	Mapudungun	mapu1245	the anxiety	ANXIETY	1000		weñangkün	weñangkün 
+1079	41-16-35-1	7211254316976084	Mapudungun	mapu1245	the pity	PITY	1141		kutranyen	kutranyen 
+1080	41-16-37-1	7211254324551573	Mapudungun	mapu1245	to cry	CRY	1839		ngüman	ngüman 
+1081	41-16-37-2	76282341538433947	Mapudungun	mapu1245	to cry	CRY	1839		waylü-	waylü- 
+1082	41-16-38-1	721125496852459	Mapudungun	mapu1245	the tear	TEAR (OF EYE)	1651		külleñu	külleñu 
+1083	41-16-39-1	7211254638931490	Mapudungun	mapu1245	to groan	GROAN	716		etüngün	etüngün 
+1084	41-16-41-1	7211254264711531	Mapudungun	mapu1245	to hate	HATE	1607		üzen	üzen 
+1085	41-16-42-1	7211254573734692	Mapudungun	mapu1245	the anger	ANGER	82		illkun	illkun 
+1086	41-16-44-1	7211254822140297	Mapudungun	mapu1245	the envy or jealousy	ENVY	40		ütrir	ütrir 
+1087	41-16-45-1	7211254577022744	Mapudungun	mapu1245	the shame	SHAME	1776		yewen	yewen 
+1088	41-16-48-1	7211254931405311	Mapudungun	mapu1245	proud	PROUD	174		mallma	mallma 
+1089	41-16-51-1	721125434185981	Mapudungun	mapu1245	to dare	DARE	1779		animawün	animawün 
+1090	41-16-52-1	7211254530792482	Mapudungun	mapu1245	brave	BRAVE	3		füta piwkengen	füta piwkengen 
+1091	41-16-52-2	7211254389243344	Mapudungun	mapu1245	brave	BRAVE	3		wapo	wapo 
+1092	41-16-53-1	7211254580439914	Mapudungun	mapu1245	the fear	FEAR (FRIGHT)	781		llükan	llükan 
+1093	41-16-54-1	7211254322766311	Mapudungun	mapu1245	the danger	DANGER	1810		kuñiw	kuñiw 
+1094	41-16-62-1	721125480041619	Mapudungun	mapu1245	to want	WANT	1784		küpa	küpa 
+1095	41-16-622-1	7211254492148345	Mapudungun	mapu1245	to choose	CHOOSE	1750		zullin	zullin 
+1096	41-16-63-1	7211254400292438	Mapudungun	mapu1245	to hope	HOPE (SOMETHING)	3212		üngümün	üngümün 
+1097	41-16-66-1	7211254260107116	Mapudungun	mapu1245	true	TRUE	1657		rüf	rüf 
+1098	41-16-67-1	7211254224574097	Mapudungun	mapu1245	to lie(2)	LIE (MISLEAD)	601		koylatun	koylatun 
+1099	41-16-68-1	7211254850103598	Mapudungun	mapu1245	the deceit	DECEIT	13		ngünenkan	ngünenkan 
+1100	41-16-69-1	8132235512316392	Mapudungun	mapu1245	to forgive	FORGIVE	1528		perdonan	perdonan 
+1101	41-16-71-1	7211254644969832	Mapudungun	mapu1245	good	GOOD	1035		küme	küme 
+1102	41-16-72-1	7211254425777649	Mapudungun	mapu1245	bad	BAD	1292		weza	weza 
+1103	41-16-73-1	7211254607796379	Mapudungun	mapu1245	right(2)	CORRECT (RIGHT)	1725		nor che	nor che 
+1104	41-16-74-1	7211254734306075	Mapudungun	mapu1245	wrong	WRONG	1390		wezalkaley	wezalkaley 
+1105	41-16-77-1	7211254281325738	Mapudungun	mapu1245	the mistake	MISTAKE	1293		welulkan	welulkan 
+1106	41-16-78-1	7211254147195755	Mapudungun	mapu1245	the blame	BLAME	381		kulpa	kulpa 
+1107	41-16-81-1	7211254260775211	Mapudungun	mapu1245	beautiful	BEAUTIFUL	1427		küme azngen	küme azngen 
+1108	41-16-82-1	7211254454524055	Mapudungun	mapu1245	ugly	UGLY	1548		wesha azngen	wesha azngen 
+1109	41-16-84-1	7211254229871755	Mapudungun	mapu1245	clever	CLEVER	1310		pepilkawün	pepilkawün 
+1110	41-17-11-1	7211254815462232	Mapudungun	mapu1245	the mind	MIND	1562		rakizuam	rakizuam 
+1111	41-17-13-1	7211254920834448	Mapudungun	mapu1245	to think(1)	THINK (REFLECT)	1415		rakizuamün	rakizuamün 
+1112	41-17-14-1	7211254224928220	Mapudungun	mapu1245	to think(2)	THINK (BELIEVE)	1513		trokin	trokin 
+1113	41-17-15-1	7211254962761543	Mapudungun	mapu1245	to believe	BELIEVE	1890		feyentun	feyentun 
+1114	41-17-16-1	7211254312634453	Mapudungun	mapu1245	to understand	UNDERSTAND	1536		allkün	allkün 
+1115	41-17-17-1	7211254528955251	Mapudungun	mapu1245	to know	KNOW (SOMETHING)	1410		kimün	kimün 
+1116	41-17-171-1	7211254196092175	Mapudungun	mapu1245	to guess	GUESS	1932		mupin	mupin 
+1117	41-17-171-2	7211254703393234	Mapudungun	mapu1245	to guess	GUESS	1932		lleqnien	lleqnien 
+1118	41-17-172-1	7211254450038529	Mapudungun	mapu1245	to imitate	IMITATE	117		inawentun	inawentun 
+1119	41-17-18-1	7211254224928220	Mapudungun	mapu1245	to seem	SEEM	1521		trokin	trokin 
+1120	41-17-19-1	7211254655492611	Mapudungun	mapu1245	the idea	IDEA	1609		zungu	zungu 
+1121	41-17-21-1	7211254640751939	Mapudungun	mapu1245	wise	WISE	698		kimün che	kimün che 
+1122	41-17-22-1	7211254310318154	Mapudungun	mapu1245	stupid	STUPID	1518		noy	noy 
+1123	41-17-23-1	7211254269555828	Mapudungun	mapu1245	mad	MAD	1899		wezwez	wezwez 
+1124	41-17-23-2	7211254780467706	Mapudungun	mapu1245	mad	MAD	1899		pofo	pofo 
+1125	41-17-24-1	7211254210803087	Mapudungun	mapu1245	to learn	LEARN	504		azümün	azümün 
+1126	41-17-24-2	7211254528955251	Mapudungun	mapu1245	to learn	LEARN	504		kimün	kimün 
+1127	41-17-242-1	7211254862868579	Mapudungun	mapu1245	to study	STUDY	1929		chillkatun	chillkatun 
+1128	41-17-25-1	7211254232105015	Mapudungun	mapu1245	to teach	TEACH	709		kimelün	kimelün 
+1129	41-17-26-1	7211254283062584	Mapudungun	mapu1245	the pupil	PUPIL (STUDENT)	753		kimpelu	kimpelu 
+1130	41-17-26-2	7211254907295784	Mapudungun	mapu1245	the pupil	PUPIL (STUDENT)	753		azümpelu	azümpelu 
+1131	41-17-27-1	7211254437650791	Mapudungun	mapu1245	the teacher	TEACHER	1038		kimeltuchefe	kimeltuchefe 
+1132	41-17-28-1	7211254251352279	Mapudungun	mapu1245	the school	SCHOOL	673		eskuela	eskuela 
+1133	41-17-28-2	7211254894419797	Mapudungun	mapu1245	the school	SCHOOL	673		chillkatuwe ruka	chillkatuwe ruka 
+1134	41-17-28-3	7211254666198917	Mapudungun	mapu1245	the school	SCHOOL	673		kolekio	kolekio 
+1135	41-17-31-1	7211254824135940	Mapudungun	mapu1245	to remember	REMEMBER	707		tükulpatun	tükulpatun 
+1136	41-17-32-1	7211254158047496	Mapudungun	mapu1245	to forget	FORGET	1523		goyman	goyman 
+1137	41-17-35-1	7211254320452004	Mapudungun	mapu1245	obscure	OBSCURE	1764		zumiñ	zumiñ 
+1138	41-17-36-1	721125498409748	Mapudungun	mapu1245	secret	SECRET	1121		ellka zungu	ellka zungu 
+1139	41-17-37-1	7211254260107116	Mapudungun	mapu1245	certain	CERTAIN	509		rüf	rüf 
+1140	41-17-38-1	7211254218783803	Mapudungun	mapu1245	to explain	EXPLAIN	1626		nütramzungun	nütramzungun 
+1141	41-17-41-1	7211254223629044	Mapudungun	mapu1245	the intention	INTENTION	1162		zuam	zuam 
+1142	41-17-441-1	7211254980828003	Mapudungun	mapu1245	to betray	BETRAY	1902		ngüneñman	ngüneñman 
+1143	41-17-45-1	7211254223629044	Mapudungun	mapu1245	the need or necessity	NEED (NOUN)	643		zuam	zuam 
+1144	41-17-46-1	7211254436243789	Mapudungun	mapu1245	easy	EASY	686		küzawngenolu	küzawngenolu 
+1145	41-17-47-1	7211254156787527	Mapudungun	mapu1245	difficult	DIFFICULT	584		küzawngelu	küzawngelu 
+1146	41-17-48-1	7211254335424091	Mapudungun	mapu1245	to try	TRY	1812		azümazümtun	azümazümtun 
+1147	41-17-49-1	7211254201864370	Mapudungun	mapu1245	the manner	MANNER	488		femngechi	femngechi 
+1148	41-17-51-1	7211254476543834	Mapudungun	mapu1245	and	AND	1577		ka	ka 
+1149	41-17-52-1	7211254433579895	Mapudungun	mapu1245	because	BECAUSE	1157		porke	porke 
+1150	41-17-54-1	7211254304452050	Mapudungun	mapu1245	or	OR	1014		kam	kam 
+1151	41-17-55-1	7211254290537965	Mapudungun	mapu1245	yes	YES	1268		may	may 
+1152	41-17-56-1	7211254769237649	Mapudungun	mapu1245	no	NO	1269		no	no 
+1153	41-17-61-1	7211254995963089	Mapudungun	mapu1245	how?	HOW	1239		¿chumngechi?	¿chumngechi? 
+1154	41-17-62-1	7211254520711952	Mapudungun	mapu1245	how many?	HOW MANY	822		¿tunten?	¿tunten? 
+1155	41-17-62-2	7211254552765935	Mapudungun	mapu1245	how many?	HOW MANY	822		¿mufü?	¿mufü? 
+1156	41-17-63-1	7211254520711952	Mapudungun	mapu1245	how much?	HOW MUCH	531		¿tunten?	¿tunten? 
+1157	41-17-63-2	7211254552765935	Mapudungun	mapu1245	how much?	HOW MUCH	531		¿mufü?	¿mufü? 
+1158	41-17-64-1	7211254903063329	Mapudungun	mapu1245	what?	WHAT	1236		¿chem?	¿chem? 
+1159	41-17-65-1	7211254304763700	Mapudungun	mapu1245	when?	WHEN	1238		¿chumül?	¿chumül? 
+1160	41-17-66-1	7211254217613336	Mapudungun	mapu1245	where?	WHERE	1237		¿chew?	¿chew? 
+1161	41-17-67-1	721125498741371	Mapudungun	mapu1245	which?	WHICH	727		¿tuchi?	¿tuchi? 
+1162	41-17-67-2	7211254593796252	Mapudungun	mapu1245	which?	WHICH	727		¿chuchi?	¿chuchi? 
+1163	41-17-68-1	7211254705329909	Mapudungun	mapu1245	who?	WHO	1235		¿iney?	¿iney? 
+1164	41-17-69-1	7211254931343955	Mapudungun	mapu1245	why?	WHY	1270		¿chumngelu?	¿chumngelu? 
+1165	41-18-11-1	7211254302895479	Mapudungun	mapu1245	the voice	VOICE	1363		zugun	zugun 
+1166	41-18-12-1	7211254141931810	Mapudungun	mapu1245	to sing	SING	1261		üḻkantun	üḻkantun 
+1167	41-18-13-1	7211254643946953	Mapudungun	mapu1245	to shout	SHOUT	715		wirarün	wirarün 
+1168	41-18-15-1	7211254997043867	Mapudungun	mapu1245	to whisper	WHISPER	55		kafkün	kafkün 
+1169	41-18-16-1	7211254487414431	Mapudungun	mapu1245	to mumble	MUMBLE	128		ñochi zungun	ñochi zungun 
+1170	41-18-17-1	721125484256016	Mapudungun	mapu1245	to whistle	WHISTLE	1025		wikeñün	wikeñün 
+1171	41-18-19-1	721125476328206	Mapudungun	mapu1245	to howl	HOWL	526		wawlun	wawlun 
+1172	41-18-21-1	7211254394097513	Mapudungun	mapu1245	to speak or talk	SPEAK	1623		zungun	zungun 
+1173	41-18-21-2	7211254773543564	Mapudungun	mapu1245	to speak or talk	SPEAK	1623		nütramkan	nütramkan 
+1174	41-18-22-1	7211254193534721	Mapudungun	mapu1245	to say	SAY	1458		pin	pin 
+1175	41-18-221-1	7211254423284427	Mapudungun	mapu1245	to tell	TELL	1711		epewtun	epewtun 
+1176	41-18-221-2	7211254255454523	Mapudungun	mapu1245	to tell	TELL	1711		nütramtun	nütramtun 
+1177	41-18-222-1	7211254697979877	Mapudungun	mapu1245	the speech	SPEECH	1115		koyaqtun	koyaqtun 
+1178	41-18-23-1	7211254235876497	Mapudungun	mapu1245	to be silent	BE SILENT	48		ñüküfnaqün	ñüküfnaqün 
+1179	41-18-24-1	7211254302895479	Mapudungun	mapu1245	the language	LANGUAGE	1307		zugun	zugun 
+1180	41-18-24-2	721125461442465	Mapudungun	mapu1245	the language	LANGUAGE	1307		kewüṉ	kewüṉ 
+1181	41-18-28-1	7211254465329046	Mapudungun	mapu1245	the name	NAME	1405		üi	üi 
+1182	41-18-31-1	7211254469357642	Mapudungun	mapu1245	to ask(1)	ASK (INQUIRE)	1309		ramtun	ramtun 
+1183	41-18-32-1	7211254899169191	Mapudungun	mapu1245	to answer	ANSWER	1275		wiñolzungun	wiñolzungun 
+1184	41-18-34-1	7211254824493100	Mapudungun	mapu1245	to deny	DENY	755		neqan	neqan 
+1185	41-18-35-1	7211254473145939	Mapudungun	mapu1245	to ask(2)	ASK (REQUEST)	1828		ngillatun	ngillatun 
+1186	41-18-36-1	7211254679170286	Mapudungun	mapu1245	to promise	PROMISE	1675		feman pin	feman pin 
+1187	41-18-37-1	7211254779597089	Mapudungun	mapu1245	to refuse	REFUSE	49		pinon	pinon 
+1188	41-18-39-1	721125466740961	Mapudungun	mapu1245	to scold	SCOLD	299		illkutun	illkutun 
+1189	41-18-41-1	7211254182952988	Mapudungun	mapu1245	to call(1)	CALL	1084		mütrümün	mütrümün 
+1190	41-18-42-1	7211254931559231	Mapudungun	mapu1245	to call(2)	CALL BY NAME	180		üyelün	üyelün 
+1191	41-18-43-1	7211254757375919	Mapudungun	mapu1245	to announce	ANNOUNCE	9		wülzungun	wülzungun 
+1192	41-18-44-1	7211254771412464	Mapudungun	mapu1245	to threaten	THREATEN	1192		añelün	añelün 
+1193	41-18-45-1	7211254660635904	Mapudungun	mapu1245	to boast	BOAST	101		mallmakawün	mallmakawün 
+1194	41-18-51-1	721125429759395	Mapudungun	mapu1245	to write	WRITE	1672		wirin	wirin 
+1195	41-18-52-1	7211254862868579	Mapudungun	mapu1245	to read	READ	724		chillkatun	chillkatun 
+1196	41-18-56-1	7211254737251589	Mapudungun	mapu1245	the paper	PAPER	648		papel	papel 
+1197	41-18-61-1	7211254481866250	Mapudungun	mapu1245	the book	BOOK	963		lifru	lifru 
+1198	41-18-73-1	7211254637205334	Mapudungun	mapu1245	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		kullkull	kullkull 
+1199	41-18-74-1	7211254743640996	Mapudungun	mapu1245	the rattle	RATTLE	300		kazkawilla	kazkawilla 
+1200	41-19-15-1	7211254994883988	Mapudungun	mapu1245	the town	TOWN	1391		pweblo	pweblo 
+1201	41-19-16-1	7211254998069387	Mapudungun	mapu1245	the village	VILLAGE	930		waria	waria 
+1202	41-19-17-1	7211254876415426	Mapudungun	mapu1245	the boundary	BOUNDARY	1010		limite	limite 
+1203	41-19-21-1	7211254221537057	Mapudungun	mapu1245	the people	PEOPLE	789		che	che 
+1204	41-19-24-1	7211254519453225	Mapudungun	mapu1245	the chieftain	CHIEFTAIN	301		longko	longko 
+1205	41-19-25-1	7211254543110066	Mapudungun	mapu1245	the walking stick	WALKING STICK	1296		retrü	retrü 
+1206	41-19-41-1	7211254510064426	Mapudungun	mapu1245	the master	MASTER	383		ngen	ngen 
+1207	41-19-44-1	7211254840783693	Mapudungun	mapu1245	the freeman	FREEMAN	384		kisu ngünewkülen	kisu ngünewkülen 
+1208	41-19-45-1	7211254512796776	Mapudungun	mapu1245	to command or order	ORDER	1128		werkün	werkün 
+1209	41-19-46-1	7211254772938437	Mapudungun	mapu1245	to obey	OBEY	1635		tangkün	tangkün 
+1210	41-19-47-1	7211254764438676	Mapudungun	mapu1245	to permit	PERMIT	1003		eluñman	eluñman 
+1211	41-19-51-1	7211254238754113	Mapudungun	mapu1245	the friend	FRIEND	1325		weṉüy	weṉüy 
+1212	41-19-52-1	7211254184596993	Mapudungun	mapu1245	the enemy	ENEMY	1358		kayñe	kayñe 
+1213	41-19-52-2	7211254534142788	Mapudungun	mapu1245	the enemy	ENEMY	1358		awka	awka 
+1214	41-19-54-1	7211254729097417	Mapudungun	mapu1245	the neighbour	NEIGHBOUR	1332		karukatu	karukatu 
+1215	41-19-55-1	7211254224724148	Mapudungun	mapu1245	the stranger	STRANGER	791		ka che	ka che 
+1216	41-19-56-1	721125433525384	Mapudungun	mapu1245	the guest	GUEST	1782		witran (2)	witran (2) 
+1217	41-19-57-1	7211254722840438	Mapudungun	mapu1245	the host	HOST	1545		ngen ruka	ngen ruka 
+1218	41-19-58-1	7211254143326920	Mapudungun	mapu1245	to help	HELP	1897		kellun	kellun 
+1219	41-19-59-1	7211254930992618	Mapudungun	mapu1245	to prevent	PREVENT	1550		katrütun	katrütun 
+1220	41-19-61-1	7211254101655401	Mapudungun	mapu1245	the custom	CUSTOM	1747		wimtun	wimtun 
+1221	41-19-62-1	7211254128065621	Mapudungun	mapu1245	the quarrel	QUARREL	1848		kewan	kewan 
+1222	41-19-63-1	7211254276590960	Mapudungun	mapu1245	the plot	PLOT	2024		fapizungun	fapizungun 
+1223	41-19-65-1	7211254258600279	Mapudungun	mapu1245	to meet	MEET	1831		pen	pen 
+1224	41-19-65-2	7211254764732709	Mapudungun	mapu1245	to meet	MEET	1831		pezan	pezan 
+1225	41-20-11-1	7211254128065621	Mapudungun	mapu1245	to fight	FIGHT	1423		kewan	kewan 
+1226	41-20-13-1	7211254791958049	Mapudungun	mapu1245	the war or battle	BATTLE	579		awkan	awkan 
+1227	41-20-14-1	7211254195939136	Mapudungun	mapu1245	the peace	PEACE	1338		kümelkalen	kümelkalen 
+1228	41-20-14-2	7211254905387577	Mapudungun	mapu1245	the peace	PEACE	1338		tüngkülen	tüngkülen 
+1229	41-20-22-1	7211254682093196	Mapudungun	mapu1245	the club	CLUB	1763		karoti	karoti 
+1230	41-20-222-1	7211254135253475	Mapudungun	mapu1245	the battle-axe	BATTLE-AXE	386		toki	toki 
+1231	41-20-23-1	721125428626010	Mapudungun	mapu1245	the sling	SLING	387		witruwe	witruwe 
+1232	41-20-25-1	7211254977091924	Mapudungun	mapu1245	the arrow	ARROW	977		pülki	pülki 
+1233	41-20-26-1	7211254355043525	Mapudungun	mapu1245	the spear	SPEAR	945		wayki	wayki 
+1234	41-20-28-1	7211254157009545	Mapudungun	mapu1245	the gun	GUN	1566		tralka	tralka 
+1235	41-20-41-1	7211254341959276	Mapudungun	mapu1245	the victory	VICTORY	783		wewün	wewün 
+1236	41-20-42-1	7211254858132900	Mapudungun	mapu1245	the defeat	DEFEAT	782		wewngen	wewngen 
+1237	41-20-43-1	7211254928465598	Mapudungun	mapu1245	the attack	ATTACK	722		malon	malon 
+1238	41-20-44-1	7211254937366632	Mapudungun	mapu1245	to defend	DEFEND	1330		ingkan	ingkan 
+1239	41-20-45-1	7211254164806637	Mapudungun	mapu1245	to retreat	RETREAT	421		lefmawün	lefmawün 
+1240	41-20-46-1	7211254895089648	Mapudungun	mapu1245	to surrender	SURRENDER	1696		entrekawün	entrekawün 
+1241	41-20-47-1	7211254379494984	Mapudungun	mapu1245	the captive or prisoner	PRISONER	1072		kawtifangey	kawtifangey 
+1242	41-20-47-2	7211254426872133	Mapudungun	mapu1245	the captive or prisoner	PRISONER	1072		pürezu	pürezu 
+1243	41-20-49-1	7211254904175492	Mapudungun	mapu1245	the ambush	AMBUSH	65		lloftun	lloftun 
+1244	41-20-51-1	7211254352876038	Mapudungun	mapu1245	the fisherman	FISHERMAN	1858		challwafe	challwafe 
+1245	41-20-52-1	7211254412078527	Mapudungun	mapu1245	the fishhook	FISHHOOK	1074		küli	küli 
+1246	41-20-61-1	7211254989051413	Mapudungun	mapu1245	to hunt	HUNT	1435		nün	nün 
+1247	41-20-61-2	7211254623543358	Mapudungun	mapu1245	to hunt	HUNT	1435		tun	tun 
+1248	41-20-62-1	7211254646905619	Mapudungun	mapu1245	to shoot	SHOOT	1172		tralkatun	tralkatun 
+1249	41-20-63-1	7211254542865508	Mapudungun	mapu1245	to miss	MISS (A TARGET)	161		lleqnon	lleqnon 
+1250	41-20-64-1	7211254666337866	Mapudungun	mapu1245	the trap	TRAP (PITFALL)	1075		wachi	wachi 
+1251	41-20-65-1	7211254989051413	Mapudungun	mapu1245	to trap	TRAP (CATCH)	1170		nün	nün 
+1252	41-21-11-1	7211254728306791	Mapudungun	mapu1245	the law	LAW	1062		ley	ley 
+1253	41-12-013-1	7211254906282259	Mapudungun	mapu1245	at	AT	1461		mew	mew 
+1254	41-21-18-1	7211254521368187	Mapudungun	mapu1245	the judge	JUDGE	861		kues	kues 
+1255	41-21-23-1	7211254822642639	Mapudungun	mapu1245	the witness	WITNESS	1144		testiku	testiku 
+1256	41-21-31-1	7211254527654957	Mapudungun	mapu1245	to accuse	ACCUSE	1814		zallun	zallun 
+1257	41-21-33-1	721125474434633	Mapudungun	mapu1245	to convict	CONVICT	983		kulpatun	kulpatun 
+1258	41-21-35-1	7211254888209102	Mapudungun	mapu1245	guilty	GUILTY	1682		kulpafle	kulpafle 
+1259	41-21-37-1	7211254942354114	Mapudungun	mapu1245	the penalty or punishment	PUNISHMENT	390		kastiku	kastiku 
+1260	41-21-38-1	7211254266544079	Mapudungun	mapu1245	the fine	FINE (PENALTY)	218		multa	multa 
+1261	41-21-39-1	7211254629265960	Mapudungun	mapu1245	the prison	PRISON	1281		karsel	karsel 
+1262	41-21-42-1	721125482536873	Mapudungun	mapu1245	the murder	MURDER	845		ḻangümchen	ḻangümchen 
+1263	41-21-44-1	7211254121490178	Mapudungun	mapu1245	the rape	RAPE	953		nüntungen	nüntungen 
+1264	41-21-46-1	7211254161440596	Mapudungun	mapu1245	the arson	ARSON	1889		lüftukun	lüftukun 
+1265	41-21-51-1	7211254944576823	Mapudungun	mapu1245	to steal	STEAL	713		weñen	weñen 
+1266	41-21-52-1	7211254702598068	Mapudungun	mapu1245	the thief	THIEF	1160		weñefe	weñefe 
+1267	41-22-11-1	721125428789924	Mapudungun	mapu1245	the religion	RELIGION	661		relijion	relijion 
+1268	41-22-12-1	7211254261125899	Mapudungun	mapu1245	the god	DEITY	3231		dios/dio	dios 
+1269	41-22-12-2	7211254261125899	Mapudungun	mapu1245	the god	DEITY	3231		dios/dio	dio 
+1270	41-22-24-1	7211254683367979	Mapudungun	mapu1245	to curse	CURSE	8		malisian	malisian 
+1271	41-22-42-1	7211254166325998	Mapudungun	mapu1245	the magic	MAGIC	392		kalkutun	kalkutun 
+1272	41-22-43-1	7211254934269903	Mapudungun	mapu1245	the sorcerer or witch	MAGICIAN	2137		kalku	kalku 
+1273	41-22-45-1	7211254789365271	Mapudungun	mapu1245	the ghost	GHOST	1175		witranalwe	witranalwe 
+1274	41-22-47-1	7211254883268818	Mapudungun	mapu1245	the omen	OMEN	107		perimol	perimol 
+1275	41-23-1-1	7211254953289130	Mapudungun	mapu1245	the radio	RADIO	1315		razio	razio 
+1276	41-23-11-1	721125444655821	Mapudungun	mapu1245	the television	TELEVISION	1788		tele	tele 
+1277	41-23-12-1	7211254196753881	Mapudungun	mapu1245	the telephone	TELEPHONE	1379		telefonu	telefonu 
+1278	41-23-14-1	7211254813757449	Mapudungun	mapu1245	the car	CAR	1111		wingka kawell	wingka kawell 
+1279	41-23-14-2	7211254451767690	Mapudungun	mapu1245	the car	CAR	1111		auto	auto 
+1280	41-23-16-1	7211254894621718	Mapudungun	mapu1245	the airplane	AIRPLANE	1597		afion	afion 
+1281	41-23-2-1	7211254768146461	Mapudungun	mapu1245	the hospital	HOSPITAL	616		wingka lawentuwe ruka	wingka lawentuwe ruka 
+1282	41-23-2-2	7211254631344095	Mapudungun	mapu1245	the hospital	HOSPITAL	616		pital	pital 
+1283	41-23-22-1	7211254776142699	Mapudungun	mapu1245	the pill or tablet	PILL	395		ḻaweṉ	ḻaweṉ 
+1284	41-23-53-1	721125490075	Mapudungun	mapu1245	the mattress	MATTRESS	105		kolchon	kolchon 
+1285	41-23-31-1	7211254166518617	Mapudungun	mapu1245	the president	PRESIDENT	899		presidente	presidente 
+1286	41-23-32-1	7211254810360340	Mapudungun	mapu1245	the minister	MINISTER	486		ministro	ministro 
+1287	41-23-33-1	7211254108553517	Mapudungun	mapu1245	the police	POLICE	656		polisia	polisia 
+1288	41-23-38-1	7211254390675372	Mapudungun	mapu1245	the election	ELECTION	240		zullipresizenten	zullipresizenten 
+1289	41-23-4-1	7211254961125226	Mapudungun	mapu1245	the post/mail	MAIL	167		korew	korew 
+1290	41-23-41-1	7211254137946044	Mapudungun	mapu1245	the postage stamp	POSTAGE STAMP	596		tampilla	tampilla 
+1291	41-23-42-1	7211254937483933	Mapudungun	mapu1245	the letter	LETTER	1612		karta	karta 
+1292	41-23-54-1	7211254365567567	Mapudungun	mapu1245	the tin/can	CAN	1051		lata	lata 
+1293	41-23-55-1	7211254921994739	Mapudungun	mapu1245	the screw	SCREW	1802		tornillu	tornillu 
+1294	41-23-555-1	7211254886350098	Mapudungun	mapu1245	the screwdriver	SCREWDRIVER	836		entutornillan	entutornillan 
+1295	41-23-56-1	7211254304788967	Mapudungun	mapu1245	the bottle	BOTTLE	1321		fotilla	fotilla 
+1296	41-23-565-1	7211254920378414	Mapudungun	mapu1245	the candy/sweets	CANDY	874		patilla	patilla 
+1297	41-23-24-1	7211254119619867	Mapudungun	mapu1245	the spectacles/glasses	SPECTACLES	1898		antiojo	antiojo 
+1298	41-23-57-1	721125439536574	Mapudungun	mapu1245	the plastic	PLASTIC	654		pülatiko	pülatiko 
+1299	41-23-575-1	7211254535447756	Mapudungun	mapu1245	the bomb	BOMB	1804		fomfa	fomfa 
+1300	41-23-59-1	7211254124592247	Mapudungun	mapu1245	the cigarette	CIGARETTE	969		pütrem	pütrem 
+1301	41-23-61-1	7211254978831693	Mapudungun	mapu1245	the calendar	CALENDAR	1967		kalenzario	kalenzario 
+1302	41-23-64-1	7211254722420228	Mapudungun	mapu1245	the song	SONG	1096		üḻ	üḻ 
+1303	41-23-385-1	7211254969576165	Mapudungun	mapu1245	the address	ADDRESS	591		zireksion	zireksion 
+1304	41-23-155-1	7211254702456117	Mapudungun	mapu1245	the train	TRAIN	900		türen	türen 
+1305	41-23-36-1	7211254952585063	Mapudungun	mapu1245	the birth certificate	BIRTH CERTIFICATE	397		sertificaw	sertificaw 
+1306	41-23-195-1	7211254287129050	Mapudungun	mapu1245	the petroleum	PETROLEUM	650		kütral ko	kütral ko 
+1307	41-23-19-1	7211254533958038	Mapudungun	mapu1245	the machine	MACHINE	144		makina	makina 
+1308	41-23-13-1	7211254744250806	Mapudungun	mapu1245	the bicycle	BICYCLE	747		sikleta	sikleta 
+1309	41-23-395-1	7211254171665271	Mapudungun	mapu1245	the street	STREET	1362		kalle	kalle 
+1310	41-19-445-1	7211254347653365	Mapudungun	mapu1245	to liberate	LIBERATE	37		müñalün	müñalün 
+1311	41-19-565-1	7211254194064635	Mapudungun	mapu1245	to invite	INVITE	1611		mangelün	mangelün 
+1312	41-23-35-1	7211254403969254	Mapudungun	mapu1245	the license plate	LICENSE PLATE	1790		patente	patente 
+1313	41-24-01-1	7211254374936792	Mapudungun	mapu1245	to be	BE	1579		mülen	mülen 
+1314	41-24-13-1	7211254350510074	Mapudungun	mapu1245	same	SAME	200		ka femngechi	ka femngechi 
+1315	41-24-06-1	7211254357548280	Mapudungun	mapu1245	not	NOT	1240		-la	-la 
+1316	41-24-07-1	721125468900537	Mapudungun	mapu1245	this	THIS	1214		tüfachi	tüfachi 
+1317	41-24-08-1	7211254259247275	Mapudungun	mapu1245	that	THAT	78		tüfeychi	tüfeychi 
+1318	41-24-08-2	7211254561462233	Mapudungun	mapu1245	that	THAT	78		tüyechi	tüyechi 
+1319	41-24-09-1	7211254633841208	Mapudungun	mapu1245	here	HERE	136		faw	faw 
+1320	41-24-1-1	7211254875223942	Mapudungun	mapu1245	there	THERE	1937		tüyemu	tüyemu 
+1321	41-24-1-2	7211254712288203	Mapudungun	mapu1245	there	THERE	1937		üyew	üyew 
+1322	41-24-11-1	721125458469842	Mapudungun	mapu1245	other	OTHER	197		kangelu	kangelu 
+1323	41-4-493-1	7211254654199921	Mapudungun	mapu1245	the vagina	VAGINA	1836		kutri	kutri 
+1324	41-23-9-1	7211254260160487	Mapudungun	mapu1245	the tea	TEA	1373		te	te 
+1325	41-23-91-1	7211254200564338	Mapudungun	mapu1245	the coffee	COFFEE	1299		kafe	kafe 
+1326	41-24-12-1	7211254317401735	Mapudungun	mapu1245	next	NEXT	1354		püllelelu	püllelelu 
+1327	41-3-863-1	7211254922807699	Mapudungun	mapu1245	the hare	HARE	1190		mara	mara 
+1328	41-3-865-1	7211254177113518	Mapudungun	mapu1245	the quail	QUAIL	1893		füdü	füdü 
+1329	41-8-29-1	7211254563718713	Mapudungun	mapu1245	the lasso	LASSO	340		llasu	llasu 
+1330	41-7-67-1	7211254550829348	Mapudungun	mapu1245	to tan	TAN	247		sofaltrülken	sofaltrülken 
+1331	41-6-98-1	7211254705562020	Mapudungun	mapu1245	the snowshoe	SNOWSHOE	233		tranu	tranu 
+1332	41-8-996-1	7211254329083324	Mapudungun	mapu1245	the cone	CONE	287		ngülliw	ngülliw 
+1333	41-3-8112-1	7211254263318282	Mapudungun	mapu1245	the body louse	BODY LOUSE	311		pütrar	pütrar 
+1334	41-4-494-1	7211254684819734	Mapudungun	mapu1245	the vulva	VULVA	1837		metru	metru 
+1335	41-9-93-1	7211254723772561	Mapudungun	mapu1245	the whetstone	WHETSTONE	295		yungumwe kura	yungumwe kura 
+1336	41-9-9-1	7211254998879699	Mapudungun	mapu1245	to draw water	DRAW (WATER)	1911		entukon	entukon 
+1337	41-9-91-1	7211254241030876	Mapudungun	mapu1245	the peg	PEG	361		etaka	etaka 
+1338	41-10-58-1	7211254820806488	Mapudungun	mapu1245	to go or return home	RETURN HOME	142		wiñotun	wiñotun 
+1339	41-1-831-1	7211254814871971	Mapudungun	mapu1245	the steam	STEAM	1193		würwan	würwan 
+1340	41-2-5-1	721125471766179	Mapudungun	mapu1245	the grandchild	GRANDCHILD	1617		yom	yom 
+1341	41-2-6412-1	7211254246142379	Mapudungun	mapu1245	the sibling-in-law	SIBLING-IN-LAW	1832		ngillañ	ngillañ 
+1342	41-2-6412-2	7211254859292811	Mapudungun	mapu1245	the sibling-in-law	SIBLING-IN-LAW	1832		fillka	fillka 
+1343	41-2-6412-3	7211254646095244	Mapudungun	mapu1245	the sibling-in-law	SIBLING-IN-LAW	1832		ñazu	ñazu 
+1344	41-2-6412-4	7211254786519662	Mapudungun	mapu1245	the sibling-in-law	SIBLING-IN-LAW	1832		kürun	kürun 
+1345	41-2-931-1	7211254397336584	Mapudungun	mapu1245	he	HE	1211		fey	fey 
+1346	41-2-932-1	7211254397336584	Mapudungun	mapu1245	she	SHE	1834		fey	fey 
+1347	41-2-933-1	7211254397336584	Mapudungun	mapu1245	it	IT	169		fey	fey 
+1348	41-4-741-1	7211254676644678	Mapudungun	mapu1245	the life	LIFE	210		mongen	mongen 
+1349	41-4-771-1	7211254588828083	Mapudungun	mapu1245	the carcass	CARCASS	1770		ḻa kulliñ	ḻa kulliñ 
+1350	41-4-844-1	7211254836947242	Mapudungun	mapu1245	the disease	DISEASE	1986		kutran	kutran 
+1351	41-11-29-1	7211254262693205	Mapudungun	mapu1245	to damage	DAMAGE	1116		üñfitun	üñfitun 
+1352	41-12-081-1	7211254523543695	Mapudungun	mapu1245	above	ABOVE	1741		wente	wente 
+1353	41-12-081-2	7211254754279842	Mapudungun	mapu1245	above	ABOVE	1741		senchu	senchu 
+1354	41-13-331-1	72112546037581	Mapudungun	mapu1245	alone	ALONE	1964		kisulen	kisulen 
+1355	41-14-251-1	721125470205436	Mapudungun	mapu1245	the beginning	BEGINNING	1557		llitulu	llitulu 
+1356	41-14-411-1	7211254675872308	Mapudungun	mapu1245	the day(2)	DAY (NOT NIGHT)	1225		antü	antü 
+1357	41-24-14-1	7211254170353293	Mapudungun	mapu1245	nothing	NOTHING	687		chem no rume	chem no rume 
+1358	41-4-7501-1	7211254593877551	Mapudungun	mapu1245	dead	DEAD	1625		ḻa	ḻa 
+1359	41-4-8541-1	7211254326437810	Mapudungun	mapu1245	to scratch	SCRATCH	1436		ünan	ünan 
+1360	41-9-111-1	721125477804117	Mapudungun	mapu1245	to make	MAKE	734		zewman	zewman 
+1361	41-4-431-1	7211254574490773	Mapudungun	mapu1245	the belly	BELLY	1251		pütra	pütra 
+1362	41-9-311-1	7211254850100143	Mapudungun	mapu1245	to wipe	WIPE	1454		lipümün	lipümün 
+1363	41-1-775-1	7211254702704056	Mapudungun	mapu1245	to freeze	FREEZE	1431		trangliñün	trangliñün 
+1364	41-24-04-1	7211254806031194	Mapudungun	mapu1245	with	WITH	1340		mew	mew 
+1365	41-24-04-2	7211254432787723	Mapudungun	mapu1245	with	WITH	1340		engu	engu 
+1366	41-12-012-1	7211254906282259	Mapudungun	mapu1245	in	IN	1460		mew	mew 
+1367	41-3-99908-1	7628037775632299	Mapudungun	mapu1245	the barn owl				wuketril	wuketril 
+1368	41-3-99909-1	7628031169685579	Mapudungun	mapu1245	the bustard				tartajar	tartajar 
+1369	41-3-99913-1	763099323619874	Mapudungun	mapu1245	the condor				mañke	mañke 
+1370	41-3-99931-1	7627232335331257	Mapudungun	mapu1245	the sleepyhead bird				chuwuz	chuwuz 
+1371	41-3-99935-1	76272250171708694	Mapudungun	mapu1245	the plover				churchur	churchur 
+1372	41-3-99942-1	7211254891684737	Mapudungun	mapu1245	the tiger				nawel	nawel 
+1373	41-3-99942-2	7211254496636129	Mapudungun	mapu1245	the tiger				tigre	tigre 
+1374	41-5-99906-1	7211254470933025	Mapudungun	mapu1245	the biscuit				galleta	galleta 
+1375	41-6-99901-1	7211254954166344	Mapudungun	mapu1245	the bag				folso	folso 
+1376	41-6-99901-2	721125411783118	Mapudungun	mapu1245	the bag				folsa	folsa 
+1377	41-6-99901-3	7630150481304967	Mapudungun	mapu1245	the bag				wallka	wallka 
+1378	41-6-99907-1	7211254553934627	Mapudungun	mapu1245	the sandal				ekota	ekota 
+1379	41-6-99909-1	7211254785167533	Mapudungun	mapu1245	the smock				felantar	felantar 
+1380	41-7-99901-1	7211254271572496	Mapudungun	mapu1245	the bench				wangku	wangku 
+1381	41-8-99918-1	7711520897454209	Mapudungun	mapu1245	the dung				wañu	wañu 
+1382	41-8-99922-1	76282140649277570	Mapudungun	mapu1245	the jarilla				muye	muye 
+1383	41-8-99926-1	7211254922128420	Mapudungun	mapu1245	the lima beans				awar	awar 
+1384	41-8-99929-1	7628215421481138	Mapudungun	mapu1245	the mamuelchoique				yüskalaw	yüskalaw 
+1385	41-8-99952-1	721125466699868	Mapudungun	mapu1245	the turnip				napor	napor 
+1386	41-8-99957-1	76282159257487775	Mapudungun	mapu1245	the willow				weike	weike 
+1387	41-8-99957-2	76282242444899393	Mapudungun	mapu1245	the willow				sause	sause 
+1388	41-8-99959-1	76282253728825905	Mapudungun	mapu1245	the yerba mate				külüf	külüf 
+1389	41-9-99901-1	7211254428493607	Mapudungun	mapu1245	the barrel				faril	faril 
+1390	41-9-99904-1	7211254295477969	Mapudungun	mapu1245	the cable				kawle	kawle 
+1391	41-9-99915-1	721125456797495	Mapudungun	mapu1245	the pencil				lapi	lapi 
+1392	41-9-99922-1	7211254840693709	Mapudungun	mapu1245	the spur				ispwela	ispwela 
+1393	41-9-99933-1	7211254395935075	Mapudungun	mapu1245	to muddle				fürollan	fürollan 
+1394	41-10-99901-1	7211254255200469	Mapudungun	mapu1245	to accompany				kompañaeyew	kompañaeyew 
+1395	41-10-99905-1	7211254265739003	Mapudungun	mapu1245	to give a ride				angkashün	angkashün 
+1396	41-11-99907-1	7211254499789010	Mapudungun	mapu1245	to receive				resiwi-	resiwi- 
+1397	41-15-99901-1	76272222618544976	Mapudungun	mapu1245	brown				chumul	chumul 
+1398	41-16-99903-1	7211254528617528	Mapudungun	mapu1245	thank you!				kürasia	kürasia 
+1399	41-16-99909-1	7211254430525650	Mapudungun	mapu1245	to complain				kekawün	kekawün 
+1400	41-16-9991-1	7211254715328609	Mapudungun	mapu1245	to enthuse				entusiasmawün	entusiasmawün 
+1401	41-17-99906-1	7211254502322852	Mapudungun	mapu1245	the study				estudio	estudio 
+1402	41-19-9991-1	7211254935507868	Mapudungun	mapu1245	Sir				don	don 
+1403	41-19-99921-1	721125430443171	Mapudungun	mapu1245	the foreman				kapatangen	kapatangen 
+1404	41-19-99928-1	7211254617521549	Mapudungun	mapu1245	the partner				kompañ	kompañ 
+1405	41-19-99934-1	7211254243474414	Mapudungun	mapu1245	the socialism				sosialimu	sosialimu 
+1406	41-19-99941-1	7211254266216944	Mapudungun	mapu1245	to respect				repetan	repetan 
+1407	41-19-99941-2	7211254606944818	Mapudungun	mapu1245	to respect				yewewün	yewewün 
+1408	41-20-99908-1	7211254174269233	Mapudungun	mapu1245	to fish				pekan	pekan 
+1409	41-20-99908-2	7211254711147506	Mapudungun	mapu1245	to fish				challwan	challwan 
+1410	41-21-99901-1	7211254247326737	Mapudungun	mapu1245	the lawyer				awokaw	awokaw 
+1411	41-24-99902-1	7211254787788384	Mapudungun	mapu1245	can				pwede	pwede 
+1412	41-24-99905-1	7711233701394867	Mapudungun	mapu1245	(interrogative)				cha	cha 
+1413	41-19-99944-1	98232015217068376	Mapudungun	mapu1245	mate				mate	mate 

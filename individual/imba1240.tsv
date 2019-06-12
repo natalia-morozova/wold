@@ -1,0 +1,1320 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	37-1-1-1	71291454245634986	Imbabura Quechua	imba1240	the world	WORLD	965		pacha mama	pacha mama 
+2	37-1-21-1	71291454492231535	Imbabura Quechua	imba1240	the land	LAND	626		allpa	allpa 
+3	37-1-212-1	71291454492231535	Imbabura Quechua	imba1240	the soil	EARTH (SOIL)	1228		allpa	allpa 
+4	37-1-213-1	71291454323311499	Imbabura Quechua	imba1240	the dust	DUST	2		allpa jaku	allpa jaku 
+5	37-1-214-1	71291454877164919	Imbabura Quechua	imba1240	the mud	MUD	640		turu (1)	turu (1) 
+6	37-1-215-1	71291454615386452	Imbabura Quechua	imba1240	the sand	SAND	671		tiyu	tiyu 
+7	37-1-22-1	71291454567783771	Imbabura Quechua	imba1240	the mountain or hill	MOUNTAIN OR HILL	2118		urku	urku 
+8	37-1-222-1	71291454172268854	Imbabura Quechua	imba1240	the cliff or precipice	PRECIPICE	618		jaka	jaka 
+9	37-1-23-1	71291454334426283	Imbabura Quechua	imba1240	the plain	PLAIN	652		pamba	pamba 
+10	37-1-24-1	71291454558658147	Imbabura Quechua	imba1240	the valley	VALLEY	921		yunga	yunga 
+11	37-1-27-1	71291454846452679	Imbabura Quechua	imba1240	the shore	SHORE	113		manya (2)	manya (2) 
+12	37-1-28-1	71291454617850437	Imbabura Quechua	imba1240	the cave	CAVE	1155		utuju	utuju 
+13	37-1-31-1	71291454695957240	Imbabura Quechua	imba1240	the water	WATER	948		yaku	yaku 
+14	37-1-32-1	71291454327586385	Imbabura Quechua	imba1240	the sea	SEA	1474		mama kucha	mama kucha 
+15	37-1-324-1	71291454174481342	Imbabura Quechua	imba1240	the foam	FOAM	1768		putsuju	putsuju 
+16	37-1-329-1	71291454327586385	Imbabura Quechua	imba1240	the ocean	OCEAN	645		mama kucha	mama kucha 
+17	37-1-33-1	71291454426916287	Imbabura Quechua	imba1240	the lake	LAKE	624		kucha	kucha 
+18	37-1-341-1	71291454426916287	Imbabura Quechua	imba1240	the lagoon	LAGOON	623		kucha	kucha 
+19	37-1-35-1	71291454481959054	Imbabura Quechua	imba1240	the wave	WAVE	978		yaku wambuy	yaku wambuy 
+20	37-1-352-1	71291454481959054	Imbabura Quechua	imba1240	the tide	TIDE	891		yaku wambuy	yaku wambuy 
+21	37-1-36-1	71291454240097483	Imbabura Quechua	imba1240	the river or stream	RIVER	666		mayu	mayu 
+22	37-1-362-1	71291454643952579	Imbabura Quechua	imba1240	the whirlpool	WHIRLPOOL	1982		yaku akapana	yaku akapana 
+23	37-1-37-1	7129145417967464	Imbabura Quechua	imba1240	the spring or well	SPRING OR WELL	2144		pukyu	pukyu 
+24	37-1-38-1	71291454373020763	Imbabura Quechua	imba1240	the swamp	SWAMP	1145		turu allpa	turu allpa 
+25	37-1-39-1	71291454467062466	Imbabura Quechua	imba1240	the waterfall	WATERFALL	943		fajcha	fajcha 
+26	37-1-41-1	7129145417173337	Imbabura Quechua	imba1240	the woods or forest	FOREST	420		sacha	sacha 
+27	37-1-43-1	71291454686293288	Imbabura Quechua	imba1240	the wood	WOOD	1803		kaspi	kaspi 
+28	37-1-44-1	71291454379228213	Imbabura Quechua	imba1240	the stone or rock	STONE OR ROCK	2125		rumi	rumi 
+29	37-1-45-1	71291454977072073	Imbabura Quechua	imba1240	the earthquake	EARTHQUAKE	6		allpa chukchuy	allpa chukchuy 
+30	37-1-51-1	71291454646065797	Imbabura Quechua	imba1240	the sky	SKY	1732		jawa pacha	jawa pacha 
+31	37-1-52-1	71291454893680380	Imbabura Quechua	imba1240	the sun	SUN	1343		inti	inti 
+32	37-1-53-1	71291454377849256	Imbabura Quechua	imba1240	the moon	MOON	1313		killa (1)	killa (1) 
+33	37-1-54-1	71291454783416085	Imbabura Quechua	imba1240	the star	STAR	1430		luziru	luziru 
+34	37-1-55-1	71291454604572232	Imbabura Quechua	imba1240	the lightning	LIGHTNING	1654		rilampagu	rilampagu 
+35	37-1-56-1	71291454115046426	Imbabura Quechua	imba1240	the thunder	THUNDER	1150		kulun	kulun 
+36	37-1-57-1	71291454216384360	Imbabura Quechua	imba1240	the bolt of lightning	BOLT (OF LIGHTNING)	2007		rayu	rayu 
+37	37-1-58-1	71291454946069364	Imbabura Quechua	imba1240	the storm	STORM	858		ninan tamya	ninan tamya 
+38	37-1-59-1	71291454763067657	Imbabura Quechua	imba1240	the rainbow	RAINBOW	1733		kuychi	kuychi 
+39	37-1-61-1	71291454321959367	Imbabura Quechua	imba1240	the light	LIGHT (RADIATION)	630		micha	micha 
+40	37-1-62-1	71291454753835789	Imbabura Quechua	imba1240	the darkness	DARKNESS	11		amsa (2)	amsa (2) 
+41	37-1-63-1	71291454254927462	Imbabura Quechua	imba1240	the shade or shadow	SHADE	1388		llantu	llantu 
+42	37-1-64-1	7129145445853332	Imbabura Quechua	imba1240	the dew	DEW	1977		yaku wiki	yaku wiki 
+43	37-1-71-1	71291454602627738	Imbabura Quechua	imba1240	the air	AIR	27		samay	samay 
+44	37-1-72-1	71291454122238209	Imbabura Quechua	imba1240	the wind	WIND	960		wayra	wayra 
+45	37-1-73-1	71291454537361518	Imbabura Quechua	imba1240	the cloud	CLOUD	1489		fuyu	fuyu 
+46	37-1-74-1	71291454537361518	Imbabura Quechua	imba1240	the fog	FOG	249		fuyu	fuyu 
+47	37-1-75-1	71291454283014666	Imbabura Quechua	imba1240	the rain	RAIN (PRECIPITATION)	658		tamya	tamya 
+48	37-1-76-1	71291454239455822	Imbabura Quechua	imba1240	the snow	SNOW	784		rasu	rasu 
+49	37-1-77-1	71291454239455822	Imbabura Quechua	imba1240	the ice	ICE	617		rasu	rasu 
+50	37-1-81-1	71291454651323918	Imbabura Quechua	imba1240	the fire	FIRE	221		nina	nina 
+51	37-1-82-1	71291454651323918	Imbabura Quechua	imba1240	the flame	FLAME	889		nina	nina 
+52	37-1-83-1	71291454617734897	Imbabura Quechua	imba1240	the smoke	SMOKE (EXHAUST)	778		kushni	kushni 
+53	37-1-84-1	7129145487653831	Imbabura Quechua	imba1240	the ash	ASH	646		uchufa	uchufa 
+54	37-1-841-1	71291454638887401	Imbabura Quechua	imba1240	the embers	EMBERS	67		nina muru	nina muru 
+55	37-1-851-1	71291454990075740	Imbabura Quechua	imba1240	to burn(1)	BURN (SOMETHING)	141		rupachina (1)	rupachina (1) 
+56	37-1-852-1	71291454745726268	Imbabura Quechua	imba1240	to burn(2)	BURNING	1428		rupana	rupana 
+57	37-1-86-1	71291454167368782	Imbabura Quechua	imba1240	to light	LIGHT (IGNITE)	737		japichina	japichina 
+58	37-1-861-1	71291454381442506	Imbabura Quechua	imba1240	to extinguish	EXTINGUISH	127		wañuchina	wañuchina 
+59	37-1-87-1	71291454918205270	Imbabura Quechua	imba1240	the match	MATCH	1133		fúsfuru	fúsfuru 
+60	37-1-88-1	71291454372549549	Imbabura Quechua	imba1240	the firewood	FIREWOOD	10		yanta	yanta 
+61	37-1-89-1	71291454971429812	Imbabura Quechua	imba1240	the charcoal	CHARCOAL	1188		karbun	karbun 
+62	37-2-1-1	71291454832417093	Imbabura Quechua	imba1240	the person	PERSON	683		jinti (1)	jinti (1) 
+63	37-2-21-1	71291454431560323	Imbabura Quechua	imba1240	the man	MAN	1554		kari (1)	kari (1) 
+64	37-2-22-1	71291454581487979	Imbabura Quechua	imba1240	the woman	WOMAN	962		warmi (1)	warmi (1) 
+65	37-2-23-1	71291454889972830	Imbabura Quechua	imba1240	male(1)	MALE (OF ANIMAL)	2263		kari (2)	kari (2) 
+66	37-2-24-1	71291454263554685	Imbabura Quechua	imba1240	female(1)	FEMALE (OF PERSON)	2260		warmi (2)	warmi (2) 
+67	37-2-25-1	71291454342931228	Imbabura Quechua	imba1240	the boy	BOY	1366		wambra	wambra 
+68	37-2-251-1	71291454201020625	Imbabura Quechua	imba1240	the young man	YOUNG MAN	76		jatun wambra	jatun wambra 
+69	37-2-26-1	71291454625094153	Imbabura Quechua	imba1240	the girl	GIRL	1646		kuytsa	kuytsa 
+70	37-2-261-1	71291454249681435	Imbabura Quechua	imba1240	the young woman	YOUNG WOMAN	77		warmi (3)	warmi (3) 
+71	37-2-27-1	71291454289221575	Imbabura Quechua	imba1240	the child(1)	CHILD (YOUNG HUMAN)	1304		wawa (1)	wawa (1) 
+72	37-2-28-1	71291454743066751	Imbabura Quechua	imba1240	the baby	BABY	1289		wawa (2)	wawa (2) 
+73	37-2-31-1	71291454742027249	Imbabura Quechua	imba1240	the husband	HUSBAND	1200		kusa	kusa 
+74	37-2-32-1	71291454247527030	Imbabura Quechua	imba1240	the wife	WIFE	1199		warmi (4)	warmi (4) 
+75	37-2-33-1	71291454476824853	Imbabura Quechua	imba1240	to marry	MARRY	203		kazarana	kazarana 
+76	37-2-34-1	71291454204514972	Imbabura Quechua	imba1240	the wedding	WEDDING	1259		kazamintu	kazamintu 
+77	37-2-341-1	71291454391211476	Imbabura Quechua	imba1240	the divorce	DIVORCE	1134		dibursyu	dibursyu 
+78	37-2-35-1	71291454196874715	Imbabura Quechua	imba1240	the father	FATHER	1217		tayta	tayta 
+79	37-2-36-1	71291454906549231	Imbabura Quechua	imba1240	the mother	MOTHER	1216		mama	mama 
+80	37-2-37-1	71291454521753898	Imbabura Quechua	imba1240	the parents	PARENTS	505		yayamama	yayamama 
+81	37-2-38-1	71291454948570332	Imbabura Quechua	imba1240	the married man	MARRIED MAN	424		kazarashka runa	kazarashka runa 
+82	37-2-39-1	71291454979453843	Imbabura Quechua	imba1240	the married woman	MARRIED WOMAN	426		kazarashka warmi	kazarashka warmi 
+83	37-2-41-1	71291454232811594	Imbabura Quechua	imba1240	the son	SON	1620		churi	churi 
+84	37-2-42-1	71291454546926366	Imbabura Quechua	imba1240	the daughter	DAUGHTER	1357		ushi	ushi 
+85	37-2-43-1	7129145435857507	Imbabura Quechua	imba1240	the child(2)	CHILD (DESCENDANT)	1801		wawa	wawa 
+86	37-2-44-1	71291454860626051	Imbabura Quechua	imba1240	the brother	BROTHER	1262		wawki	wawki 
+87	37-2-444-1	71291454140327329	Imbabura Quechua	imba1240	the older brother	OLDER BROTHER	1759		ruku wawki	ruku wawki 
+88	37-2-445-1	71291454266523403	Imbabura Quechua	imba1240	the younger brother	YOUNGER BROTHER	1760		jipa wawki	jipa wawki 
+89	37-2-45-1	71291454770719513	Imbabura Quechua	imba1240	the sister	SISTER	1263		ñaña	ñaña 
+90	37-2-454-1	7129145463008036	Imbabura Quechua	imba1240	the older sister	OLDER SISTER	1758		paya ñaña	paya ñaña 
+91	37-2-455-1	71291454730912553	Imbabura Quechua	imba1240	the younger sister	YOUNGER SISTER	1761		jipa ñaña	jipa ñaña 
+92	37-2-458-1	71291454787570017	Imbabura Quechua	imba1240	the twins	TWINS	1005		millisus	millisus 
+93	37-2-46-1	71291454657587914	Imbabura Quechua	imba1240	the grandfather	GRANDFATHER	1383		awilu	awilu 
+94	37-2-461-1	71291454215144028	Imbabura Quechua	imba1240	the old man	OLD MAN	406		ruku runa	ruku runa 
+95	37-2-47-1	71291454448132322	Imbabura Quechua	imba1240	the grandmother	GRANDMOTHER	1496		awila	awila 
+96	37-2-471-1	7129145492505143	Imbabura Quechua	imba1240	the old woman	OLD WOMAN	907		paya warmi	paya warmi 
+97	37-2-48-1	71291454359092744	Imbabura Quechua	imba1240	the grandson	GRANDSON	1618		ñitu	ñitu 
+98	37-2-49-1	71291454214009213	Imbabura Quechua	imba1240	the granddaughter	GRANDDAUGHTER	1619		ñita	ñita 
+99	37-2-51-1	71291454398964186	Imbabura Quechua	imba1240	the uncle	UNCLE	1327		tiyu (1)	tiyu (1) 
+100	37-2-511-1	71291454437611648	Imbabura Quechua	imba1240	the mother's brother	MOTHER'S BROTHER	1984		tiyu (2)	tiyu (2) 
+101	37-2-512-1	71291454437611648	Imbabura Quechua	imba1240	the father's brother	FATHER'S BROTHER	1985		tiyu (2)	tiyu (2) 
+102	37-2-52-1	71291454295264561	Imbabura Quechua	imba1240	the aunt	AUNT	1272		tiya	tiya 
+103	37-2-521-1	71291454295264561	Imbabura Quechua	imba1240	the mother's sister	MOTHER'S SISTER	171		tiya	tiya 
+104	37-2-522-1	71291454295264561	Imbabura Quechua	imba1240	the father's sister	FATHER'S SISTER	170		tiya	tiya 
+105	37-2-53-1	71291454586665953	Imbabura Quechua	imba1240	the nephew	NEPHEW	1063		subrinu	subrinu 
+106	37-2-54-1	71291454676588671	Imbabura Quechua	imba1240	the niece	NIECE	1642		subrina	subrina 
+107	37-2-55-1	71291454354891935	Imbabura Quechua	imba1240	the cousin	COUSIN	1643		primu	primu 
+108	37-2-56-1	71291454510811409	Imbabura Quechua	imba1240	the ancestors	ANCESTORS	1669		ñaupa runakuna	ñaupa runakuna 
+109	37-2-57-1	71291454578652782	Imbabura Quechua	imba1240	the descendants	DESCENDANTS	490		churikuna	churikuna 
+110	37-2-61-1	71291454644587552	Imbabura Quechua	imba1240	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		swidru (1)	swidru (1) 
+111	37-2-611-1	71291454968887495	Imbabura Quechua	imba1240	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		swidru (2)	swidru (2) 
+112	37-2-62-1	712914548209175	Imbabura Quechua	imba1240	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		swidra (1)	swidra (1) 
+113	37-2-621-1	71291454106187279	Imbabura Quechua	imba1240	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		swidra (2)	swidra (2) 
+114	37-2-63-1	71291454263430667	Imbabura Quechua	imba1240	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		yirnu (1)	yirnu (1) 
+115	37-2-631-1	71291454230773753	Imbabura Quechua	imba1240	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		yirnu (2)	yirnu (2) 
+116	37-2-64-1	71291454417910601	Imbabura Quechua	imba1240	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		jachun (1)	jachun (1) 
+117	37-2-641-1	71291454466468094	Imbabura Quechua	imba1240	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		jachun (2)	jachun (2) 
+118	37-2-71-1	71291454479837286	Imbabura Quechua	imba1240	the stepfather	STEPFATHER	237		padastru	padastru 
+119	37-2-72-1	71291454735146830	Imbabura Quechua	imba1240	the stepmother	STEPMOTHER	236		madastra	madastra 
+120	37-2-73-1	71291454282623274	Imbabura Quechua	imba1240	the stepson	STEPSON	1059		intinadu	intinadu 
+121	37-2-74-1	71291454340032071	Imbabura Quechua	imba1240	the stepdaughter	STEPDAUGHTER	1058		intinada	intinada 
+122	37-2-75-1	71291454250607653	Imbabura Quechua	imba1240	the orphan	ORPHAN	1149		wajcha (2)	wajcha (2) 
+123	37-2-76-1	71291454572486960	Imbabura Quechua	imba1240	the widow	WIDOW	1756		byuda	byuda 
+124	37-2-77-1	71291454877814519	Imbabura Quechua	imba1240	the widower	WIDOWER	1981		byudu	byudu 
+125	37-2-81-1	71291454207252002	Imbabura Quechua	imba1240	the relatives	RELATIVES	1644		ayllu (2)	ayllu (2) 
+126	37-2-82-1	71291454794016842	Imbabura Quechua	imba1240	the family	FAMILY	194		ayllu (1)	ayllu (1) 
+127	37-2-91-1	71291454307810335	Imbabura Quechua	imba1240	I	I	1209		ñuka	ñuka 
+128	37-2-92-1	71291454575642223	Imbabura Quechua	imba1240	you (singular)	THOU	1215		kan	kan 
+129	37-2-93-1	71291454385418831	Imbabura Quechua	imba1240	he/she/it	HE OR SHE OR IT	262		pay	pay 
+130	37-2-94-1	71291454426595158	Imbabura Quechua	imba1240	we	WE	1212		ñukanchik	ñukanchik 
+131	37-2-95-1	71291454130255816	Imbabura Quechua	imba1240	you (plural)	YOU	1213		kankuna	kankuna 
+132	37-2-96-1	71291454558340256	Imbabura Quechua	imba1240	they	THEY	817		paykuna	paykuna 
+133	37-3-11-1	71291454668986269	Imbabura Quechua	imba1240	the animal	ANIMAL	619		animal	animal 
+134	37-3-12-1	71291454304560750	Imbabura Quechua	imba1240	male(2)	MALE (OF PERSON)	2261		kari	kari 
+135	37-3-13-1	71291454769021042	Imbabura Quechua	imba1240	female(2)	FEMALE (OF ANIMAL)	2262		warmi (5)	warmi (5) 
+136	37-3-15-1	71291454425796454	Imbabura Quechua	imba1240	the livestock	LIVESTOCK	631		wagra	wagra 
+137	37-3-16-1	71291454252544423	Imbabura Quechua	imba1240	the pasture	PASTURE	649		putru (1)	putru (1) 
+138	37-3-18-1	71291454495652887	Imbabura Quechua	imba1240	the herdsman	HERDSMAN	263		michik	michik 
+139	37-3-19-1	71291454369603761	Imbabura Quechua	imba1240	the stable or stall	STABLE	851		istablu	istablu 
+140	37-3-2-1	71291454425796454	Imbabura Quechua	imba1240	the cattle	CATTLE	1153		wagra	wagra 
+141	37-3-21-1	71291454425796454	Imbabura Quechua	imba1240	the bull	BULL	1008		wagra	wagra 
+142	37-3-22-1	71291454971366165	Imbabura Quechua	imba1240	the ox	OX	1169		buyi	buyi 
+143	37-3-23-1	71291454861326709	Imbabura Quechua	imba1240	the cow	COW	1007		baka	baka 
+144	37-3-24-1	71291454885205931	Imbabura Quechua	imba1240	the calf	CALF	1989		shiku	shiku 
+145	37-3-25-1	7129145424133205	Imbabura Quechua	imba1240	the sheep	SHEEP	1331		llama	llama 
+146	37-3-26-1	71291454170153420	Imbabura Quechua	imba1240	the ram	RAM	1344		karneru	karneru 
+147	37-3-28-1	7129145424133205	Imbabura Quechua	imba1240	the ewe	EWE	1345		llama	llama 
+148	37-3-29-1	7129145424133205	Imbabura Quechua	imba1240	the lamb	LAMB	820		llama	llama 
+149	37-3-32-1	8141547629979050	Imbabura Quechua	imba1240	the boar	BOAR	1348		sachaguagra	sachaguagra 
+150	37-3-34-1	71291454858506792	Imbabura Quechua	imba1240	the sow	SOW (FEMALE PIG)	1351		kuchi	kuchi 
+151	37-3-35-1	71291454858506792	Imbabura Quechua	imba1240	the pig	PIG	1337		kuchi	kuchi 
+152	37-3-36-1	71291454163493948	Imbabura Quechua	imba1240	the goat	GOAT	1502		chita	chita 
+153	37-3-37-1	71291454163493948	Imbabura Quechua	imba1240	the he-goat	HE-GOAT	264		chita	chita 
+154	37-3-38-1	71291454378544011	Imbabura Quechua	imba1240	the kid	KID	1972		wawa chita	wawa chita 
+155	37-3-41-1	71291454649654878	Imbabura Quechua	imba1240	the horse	HORSE	615		kaballu	kaballu 
+156	37-3-42-1	71291454649654878	Imbabura Quechua	imba1240	the stallion	STALLION	936		kaballu	kaballu 
+157	37-3-44-1	71291454803827810	Imbabura Quechua	imba1240	the mare	MARE	938		bistya	bistya 
+158	37-3-45-1	71291454838841230	Imbabura Quechua	imba1240	the foal or colt	FOAL	1647		putru (2)	putru (2) 
+159	37-3-46-1	71291454139540673	Imbabura Quechua	imba1240	the donkey	DONKEY	1862		burru	burru 
+160	37-3-47-1	71291454416449159	Imbabura Quechua	imba1240	the mule	MULE	890		mula	mula 
+161	37-3-5-1	71291454587520850	Imbabura Quechua	imba1240	the fowl	FOWL	265		atallpa	atallpa 
+162	37-3-52-1	71291454303982093	Imbabura Quechua	imba1240	the cock/rooster	ROOSTER	1511		gallu	gallu 
+163	37-3-54-1	71291454587520850	Imbabura Quechua	imba1240	the hen	HEN	1514		atallpa	atallpa 
+164	37-3-55-1	71291454863848025	Imbabura Quechua	imba1240	the chicken	CHICKEN	1318		pullu	pullu 
+165	37-3-56-1	71291454956155564	Imbabura Quechua	imba1240	the goose	GOOSE	1187		gansu	gansu 
+166	37-3-57-1	71291454528277433	Imbabura Quechua	imba1240	the duck	DUCK	1360		patu	patu 
+167	37-3-58-1	71291454231302010	Imbabura Quechua	imba1240	the nest	NEST	539		tazin	tazin 
+168	37-3-581-1	71291454870696186	Imbabura Quechua	imba1240	the bird	BIRD	937		pishku (1)	pishku (1) 
+169	37-3-583-1	71291454240576332	Imbabura Quechua	imba1240	the heron	HERON	758		garsa	garsa 
+170	37-3-584-1	71291454705932376	Imbabura Quechua	imba1240	the eagle	EAGLE	1905		anga (1)	anga (1) 
+171	37-3-585-1	7129145453207819	Imbabura Quechua	imba1240	the hawk	HAWK	307		anga (2)	anga (2) 
+172	37-3-586-1	71291454789041086	Imbabura Quechua	imba1240	the vulture	VULTURE	1185		kuriquinga	kuriquinga 
+173	37-3-591-1	71291454727678996	Imbabura Quechua	imba1240	the bat	BAT	1793		tupan	tupan 
+174	37-3-592-1	71291454185355850	Imbabura Quechua	imba1240	the parrot	PARROT	882		luru	luru 
+175	37-3-594-1	71291454987318295	Imbabura Quechua	imba1240	the dove	DOVE	1853		paluma	paluma 
+176	37-3-596-1	71291454246039765	Imbabura Quechua	imba1240	the owl	OWL	735		chushij	chushij 
+177	37-3-61-1	71291454396536149	Imbabura Quechua	imba1240	the dog	DOG	2009		allku	allku 
+178	37-3-614-1	71291454673965846	Imbabura Quechua	imba1240	the rabbit	RABBIT	1136		kunu	kunu 
+179	37-3-62-1	71291454559555575	Imbabura Quechua	imba1240	the cat	CAT	1208		misi	misi 
+180	37-3-622-1	71291454378312951	Imbabura Quechua	imba1240	the opossum	OPOSSUM	309		rapusa	rapusa 
+181	37-3-63-1	71291454396177486	Imbabura Quechua	imba1240	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ukucha	ukucha 
+182	37-3-65-1	71291454422155052	Imbabura Quechua	imba1240	the fish	FISH	227		piji	piji 
+183	37-3-71-1	71291454381786401	Imbabura Quechua	imba1240	the wolf	WOLF	522		atuk	atuk 
+184	37-3-72-1	8141556613547979	Imbabura Quechua	imba1240	the lion	LION	1386		liyón	liyón 
+185	37-3-73-1	71291454871863672	Imbabura Quechua	imba1240	the bear	BEAR	1820		usu	usu 
+186	37-3-74-1	71291454487360927	Imbabura Quechua	imba1240	the fox	FOX	1312		añas	añas 
+187	37-3-75-1	71291454437019441	Imbabura Quechua	imba1240	the deer	DEER	1936		taruga	taruga 
+188	37-3-76-1	71291454605890833	Imbabura Quechua	imba1240	the monkey	MONKEY	1350		munu	munu 
+189	37-3-77-1	71291454373658764	Imbabura Quechua	imba1240	the elephant	ELEPHANT	1290		elefanti	elefanti 
+190	37-3-811-1	7129145462224381	Imbabura Quechua	imba1240	the head louse	HEAD LOUSE	310		usa	usa 
+191	37-3-812-1	71291454759561045	Imbabura Quechua	imba1240	the nit	NIT	267		tsiya	tsiya 
+192	37-3-813-1	71291454153253713	Imbabura Quechua	imba1240	the flea	FLEA	232		piqui	piqui 
+193	37-3-814-1	71291454383779158	Imbabura Quechua	imba1240	the centipede	CENTIPEDE	1974		sintupis	sintupis 
+194	37-3-815-1	71291454874054415	Imbabura Quechua	imba1240	the scorpion	SCORPION	1538		alakrán	alakrán 
+195	37-3-817-1	7129145422836840	Imbabura Quechua	imba1240	the ant	ANT	587		añanku	añanku 
+196	37-3-818-1	7129145452723682	Imbabura Quechua	imba1240	the spider	SPIDER	843		añara	añara 
+197	37-3-819-1	8141615964071447	Imbabura Quechua	imba1240	the spider web	SPIDER WEB	1065		urukilla	urukilla 
+198	37-3-82-1	71291454722930894	Imbabura Quechua	imba1240	the bee	BEE	665		abija	abija 
+199	37-3-821-1	8141625794420225	Imbabura Quechua	imba1240	the beeswax	BEESWAX	1931		mishki wira	mishki wira 
+200	37-3-822-1	8141621785685029	Imbabura Quechua	imba1240	the beehive	BEEHIVE	88		mishki puru	mishki puru 
+201	37-3-823-1	8141636413536479	Imbabura Quechua	imba1240	the wasp	WASP	1517		punpuni	punpuni 
+202	37-3-83-1	71291454406241955	Imbabura Quechua	imba1240	the fly	FLY (INSECT)	1504		chuspi	chuspi 
+203	37-3-831-1	8141632260498682	Imbabura Quechua	imba1240	the sandfly or midge or gnat	SANDFLY	95		waña	waña 
+204	37-3-832-1	71291454320732865	Imbabura Quechua	imba1240	the mosquito	MOSQUITO	1509		chuspigu	chuspigu 
+205	37-3-84-1	71291454348117071	Imbabura Quechua	imba1240	the worm	WORM	1219		kuika	kuika 
+206	37-3-85-1	71291454231708361	Imbabura Quechua	imba1240	the snake	SNAKE	730		kulibra	kulibra 
+207	37-3-91-1	71291454535959470	Imbabura Quechua	imba1240	the firefly	FIREFLY	206		ninakuru	ninakuru 
+208	37-3-92-1	71291454438919285	Imbabura Quechua	imba1240	the butterfly	BUTTERFLY	1791		pinpillitu	pinpillitu 
+209	37-3-93-1	71291454730315737	Imbabura Quechua	imba1240	the grasshopper	GRASSHOPPER	607		dyablillu	dyablillu 
+210	37-3-94-1	71291454156689049	Imbabura Quechua	imba1240	the snail	SNAIL	1543		churu	churu 
+211	37-3-95-1	71291454764979441	Imbabura Quechua	imba1240	the frog	FROG	503		sapu	sapu 
+212	37-3-96-1	71291454220022153	Imbabura Quechua	imba1240	the lizard	LIZARD	632		palu kuku	palu kuku 
+213	37-3-97-1	71291454283714851	Imbabura Quechua	imba1240	the crocodile or alligator	CROCODILE	1857		kukudrilu	kukudrilu 
+214	37-3-98-1	71291454854070199	Imbabura Quechua	imba1240	the turtle	TURTLE	112		turtuga	turtuga 
+215	37-4-11-1	71291454635030249	Imbabura Quechua	imba1240	the body	BODY	1480		aycha	aycha 
+216	37-4-12-1	71291454427533832	Imbabura Quechua	imba1240	the skin or hide	SKIN	763		kara	kara 
+217	37-4-13-1	71291454766329391	Imbabura Quechua	imba1240	the flesh	FLESH	2259		aycha (1)	aycha (1) 
+218	37-4-14-1	7129145451838924	Imbabura Quechua	imba1240	the hair	HAIR (HEAD)	2648		akcha	akcha 
+219	37-4-142-1	71291454602748053	Imbabura Quechua	imba1240	the beard	BEARD	678		barbas	barbas 
+220	37-4-144-1	71291454377924691	Imbabura Quechua	imba1240	the body hair	HAIR (BODY)	189		milma (1)	milma (1) 
+221	37-4-145-1	71291454980840326	Imbabura Quechua	imba1240	the pubic hair	PUBIC HAIR	36		milma	milma 
+222	37-4-146-1	71291454619291596	Imbabura Quechua	imba1240	the dandruff	DANDRUFF	576		kaspa	kaspa 
+223	37-4-15-1	71291454255835026	Imbabura Quechua	imba1240	the blood	BLOOD	946		yawar	yawar 
+224	37-4-151-1	71291454814556050	Imbabura Quechua	imba1240	the vein or artery	BLOOD VESSEL	525		anku	anku 
+225	37-4-16-1	71291454342974200	Imbabura Quechua	imba1240	the bone	BONE	1394		tullu	tullu 
+226	37-4-162-1	71291454246881279	Imbabura Quechua	imba1240	the rib	RIB	801		kustilla	kustilla 
+227	37-4-17-1	71291454787376379	Imbabura Quechua	imba1240	the horn	HORN (ANATOMY)	1393		kachu	kachu 
+228	37-4-18-1	7129145469499169	Imbabura Quechua	imba1240	the tail	TAIL	1220		chupa	chupa 
+229	37-4-19-1	71291454174368242	Imbabura Quechua	imba1240	the back	BACK	1291		washa (1)	washa (1) 
+230	37-4-191-1	71291454725720594	Imbabura Quechua	imba1240	the spine	SPINE	805		washa tullu	washa tullu 
+231	37-4-2-1	71291454706083553	Imbabura Quechua	imba1240	the head	HEAD	1256		uma	uma 
+232	37-4-202-1	71291454706046745	Imbabura Quechua	imba1240	the skull	SKULL	1605		uma tullu	uma tullu 
+233	37-4-203-1	71291454211751335	Imbabura Quechua	imba1240	the brain	BRAIN	1583		ñutuju	ñutuju 
+234	37-4-204-1	71291454538393456	Imbabura Quechua	imba1240	the face	FACE	1560		ñawi (1)	ñawi (1) 
+235	37-4-205-1	71291454783953058	Imbabura Quechua	imba1240	the forehead	FOREHEAD	123		ñawi (2)	ñawi (2) 
+236	37-4-207-1	71291454865525741	Imbabura Quechua	imba1240	the jaw	JAW	798		kashtuna	kashtuna 
+237	37-4-208-1	71291454487392222	Imbabura Quechua	imba1240	the cheek	CHEEK	1730		ñawi chichu	ñawi chichu 
+238	37-4-209-1	8141658971170128	Imbabura Quechua	imba1240	the chin	CHIN	1510		jasha	jasha 
+239	37-4-21-1	71291454130581905	Imbabura Quechua	imba1240	the eye	EYE	1248		ñawi lulun	ñawi lulun 
+240	37-4-212-1	71291454288188393	Imbabura Quechua	imba1240	the eyebrow	EYEBROW	1173		ñawi milma	ñawi milma 
+241	37-4-213-1	71291454578959291	Imbabura Quechua	imba1240	the eyelid	EYELID	17		ñawi kara	ñawi kara 
+242	37-4-214-1	71291454288188393	Imbabura Quechua	imba1240	the eyelash	EYELASH	1540		ñawi milma	ñawi milma 
+243	37-4-215-1	71291454137964845	Imbabura Quechua	imba1240	to blink	BLINK	1655		kapitsina	kapitsina 
+244	37-4-22-1	71291454689447125	Imbabura Quechua	imba1240	the ear	EAR	1247		rinri	rinri 
+245	37-4-221-1	71291454665639227	Imbabura Quechua	imba1240	the earlobe	EARLOBE	18		rinri kara	rinri kara 
+246	37-4-222-1	71291454337254212	Imbabura Quechua	imba1240	the earwax	EARWAX	32		rinri mapa	rinri mapa 
+247	37-4-23-1	71291454792814054	Imbabura Quechua	imba1240	the nose	NOSE	1221		singa	singa 
+248	37-4-231-1	71291454620417332	Imbabura Quechua	imba1240	the nostril	NOSTRIL	1178		singa utuju	singa utuju 
+249	37-4-232-1	71291454191528031	Imbabura Quechua	imba1240	the nasal mucus	NASAL MUCUS (SNOT)	208		juña	juña 
+250	37-4-24-1	7129145472699159	Imbabura Quechua	imba1240	the mouth	MOUTH	674		shimi	shimi 
+251	37-4-241-1	71291454453059511	Imbabura Quechua	imba1240	the beak	BEAK	73		piku	piku 
+252	37-4-25-1	7129145472699159	Imbabura Quechua	imba1240	the lip	LIP	478		shimi	shimi 
+253	37-4-26-1	71291454604867349	Imbabura Quechua	imba1240	the tongue	TONGUE	1205		jallu	jallu 
+254	37-4-27-1	71291454704938150	Imbabura Quechua	imba1240	the tooth	TOOTH	1380		kiru	kiru 
+255	37-4-271-1	7129145478553620	Imbabura Quechua	imba1240	the gums	GUMS	139		kiru aycha	kiru aycha 
+256	37-4-272-1	71291454704938150	Imbabura Quechua	imba1240	the molar tooth	MOLAR TOOTH	1049		kiru	kiru 
+257	37-4-28-1	7129145487759570	Imbabura Quechua	imba1240	the neck	NECK	1333		kunga	kunga 
+258	37-4-281-1	71291454135706371	Imbabura Quechua	imba1240	the nape of the neck	NAPE (OF NECK)	1347		kunga nuka	kunga nuka 
+259	37-4-29-1	71291454210119786	Imbabura Quechua	imba1240	the throat	THROAT	1346		tunguri	tunguri 
+260	37-4-3-1	71291454468344024	Imbabura Quechua	imba1240	the shoulder	SHOULDER	1482		umbru	umbru 
+261	37-4-301-1	81417114868746	Imbabura Quechua	imba1240	the shoulderblade	SHOULDERBLADE	172		pillischaka	pillischaka 
+262	37-4-302-1	81417114868746	Imbabura Quechua	imba1240	the collarbone	COLLARBONE	1994		pillischaka	pillischaka 
+263	37-4-31-1	71291454550377128	Imbabura Quechua	imba1240	the arm	ARM	1673		rigra	rigra 
+264	37-4-312-1	7129145455830504	Imbabura Quechua	imba1240	the armpit	ARMPIT	1886		subaku	subaku 
+265	37-4-32-1	7129145491249179	Imbabura Quechua	imba1240	the elbow	ELBOW	981		rigra muku	rigra muku 
+266	37-4-321-1	71291454714899741	Imbabura Quechua	imba1240	the wrist	WRIST	799		maki muku	maki muku 
+267	37-4-33-1	71291454707444577	Imbabura Quechua	imba1240	the hand	HAND	1277		maki	maki 
+268	37-4-331-1	71291454911852987	Imbabura Quechua	imba1240	the palm of the hand	PALM OF HAND	1183		maki tabla	maki tabla 
+269	37-4-34-1	71291454936680877	Imbabura Quechua	imba1240	the finger	FINGER	1303		didu	didu 
+270	37-4-344-1	71291454721833291	Imbabura Quechua	imba1240	the fingernail	FINGERNAIL	1258		sillu	sillu 
+271	37-4-345-1	71291454721833291	Imbabura Quechua	imba1240	the claw	CLAW	72		sillu	sillu 
+272	37-4-35-1	71291454129840406	Imbabura Quechua	imba1240	the leg	LEG	1297		changa	changa 
+273	37-4-351-1	71291454810870115	Imbabura Quechua	imba1240	the thigh	THIGH	800		raku changa	raku changa 
+274	37-4-352-1	71291454129840406	Imbabura Quechua	imba1240	the calf of the leg	CALF OF LEG	498		changa	changa 
+275	37-4-36-1	7129145430613340	Imbabura Quechua	imba1240	the knee	KNEE	1371		kunguri	kunguri 
+276	37-4-37-1	71291454710501188	Imbabura Quechua	imba1240	the foot	FOOT	1301		chaki	chaki 
+277	37-4-371-1	71291454299586432	Imbabura Quechua	imba1240	the ankle	ANKLE	803		chaki muku	chaki muku 
+278	37-4-372-1	71291454415725316	Imbabura Quechua	imba1240	the heel	HEEL	980		talun	talun 
+279	37-4-374-1	71291454372309908	Imbabura Quechua	imba1240	the footprint	FOOTPRINT	318		chaki sarushka	chaki sarushka 
+280	37-4-38-1	71291454936680877	Imbabura Quechua	imba1240	the toe	TOE	1389		didu	didu 
+281	37-4-392-1	71291454372832088	Imbabura Quechua	imba1240	the wing	WING	1257		alas	alas 
+282	37-4-393-1	71291454372832088	Imbabura Quechua	imba1240	the feather	FEATHER	1201		alas	alas 
+283	37-4-4-1	71291454657083246	Imbabura Quechua	imba1240	the chest	CHEST	1592		pichu	pichu 
+284	37-4-41-1	71291454306164745	Imbabura Quechua	imba1240	the breast	BREAST	1402		chuchu (1)	chuchu (1) 
+285	37-4-412-1	71291454971321146	Imbabura Quechua	imba1240	the nipple or teat	NIPPLE	796		chuchu uma	chuchu uma 
+286	37-4-42-1	71291454404790180	Imbabura Quechua	imba1240	the udder	UDDER	154		chuchu (2)	chuchu (2) 
+287	37-4-43-1	71291454697908570	Imbabura Quechua	imba1240	the navel	NAVEL	1838		pupu	pupu 
+288	37-4-44-1	71291454463102490	Imbabura Quechua	imba1240	the heart	HEART	1223		shungu	shungu 
+289	37-4-441-1	71291454667618360	Imbabura Quechua	imba1240	the lung	LUNG	688		yurak shungu	yurak shungu 
+290	37-4-45-1	71291454547665780	Imbabura Quechua	imba1240	the liver	LIVER	1224		yana shungu (1)	yana shungu (1) 
+291	37-4-451-1	71291454417135791	Imbabura Quechua	imba1240	the kidney	KIDNEY	489		yana shungu (2)	yana shungu (2) 
+292	37-4-46-1	71291454279255709	Imbabura Quechua	imba1240	the stomach	STOMACH	819		puzun	puzun 
+293	37-4-461-1	71291454237729611	Imbabura Quechua	imba1240	the intestines or guts	INTESTINES	1991		chunchuli	chunchuli 
+294	37-4-462-1	71291454542824529	Imbabura Quechua	imba1240	the waist	WAIST	1681		sintura	sintura 
+295	37-4-463-1	8141716785089444	Imbabura Quechua	imba1240	the hip	HIP	1745		kangui	kangui 
+296	37-4-464-1	71291454939619819	Imbabura Quechua	imba1240	the buttocks	BUTTOCKS	834		siki	siki 
+297	37-4-47-1	71291454845021472	Imbabura Quechua	imba1240	the womb	WOMB	804		madri	madri 
+298	37-4-49-1	71291454174878362	Imbabura Quechua	imba1240	the testicles	TESTICLES	797		lulun	lulun 
+299	37-4-492-1	71291454841541646	Imbabura Quechua	imba1240	the penis	PENIS	1222		pishku (2)	pishku (2) 
+300	37-4-51-1	71291454885293438	Imbabura Quechua	imba1240	to breathe	BREATHE	1407		samay aysana	samay aysana 
+301	37-4-52-1	71291454274960225	Imbabura Quechua	imba1240	to yawn	YAWN	1028		amfana	amfana 
+302	37-4-521-1	71291454563055192	Imbabura Quechua	imba1240	to hiccough	HICCOUGH	162		jikiana	jikiana 
+303	37-4-53-1	71291454565035680	Imbabura Quechua	imba1240	to cough	COUGH	879		ujuna	ujuna 
+304	37-4-54-1	71291454938376531	Imbabura Quechua	imba1240	to sneeze	SNEEZE	1621		atsiana	atsiana 
+305	37-4-55-1	71291454436696330	Imbabura Quechua	imba1240	to perspire	SWEAT (PERSPIRE)	126		sudana	sudana 
+306	37-4-56-1	71291454334036166	Imbabura Quechua	imba1240	to spit	SPIT	1440		tukana	tukana 
+307	37-4-57-1	71291454293208023	Imbabura Quechua	imba1240	to vomit	VOMIT	1278		lanzana	lanzana 
+308	37-4-58-1	71291454630724513	Imbabura Quechua	imba1240	to bite	BITE	1403		kanina	kanina 
+309	37-4-59-1	71291454606574345	Imbabura Quechua	imba1240	to lick	LICK	319		lambina	lambina 
+310	37-4-591-1	8141719987174006	Imbabura Quechua	imba1240	to dribble	DRIBBLE	268		llaushana	llaushana 
+311	37-4-61-1	71291454408847273	Imbabura Quechua	imba1240	to sleep	SLEEP	1585		puñuna	puñuna 
+312	37-4-612-1	71291454561819979	Imbabura Quechua	imba1240	to snore	SNORE	1983		runkana	runkana 
+313	37-4-62-1	71291454278047199	Imbabura Quechua	imba1240	to dream	DREAM (SOMETHING)	1920		muskuna	muskuna 
+314	37-4-63-1	71291454294835696	Imbabura Quechua	imba1240	to wake up	WAKE UP	1602		rikcharina	rikcharina 
+315	37-4-64-1	7129145428842377	Imbabura Quechua	imba1240	to fart	FART	1159		supi	supi 
+316	37-4-65-1	71291454364184414	Imbabura Quechua	imba1240	to piss	PISS	592		ishpana	ishpana 
+317	37-4-66-1	71291454733682661	Imbabura Quechua	imba1240	to shit	SHIT (DEFECATE)	676		ismana	ismana 
+318	37-4-67-1	71291454803151226	Imbabura Quechua	imba1240	to have sex	HAVE SEX	1785		yumana	yumana 
+319	37-4-68-1	71291454907404212	Imbabura Quechua	imba1240	to shiver	SHIVER	52		chujchuna	chujchuna 
+320	37-4-69-1	7129145413478425	Imbabura Quechua	imba1240	to bathe	BATHE	138		armarina	armarina 
+321	37-4-71-1	71291454327266960	Imbabura Quechua	imba1240	to beget	BEGET	1152		wawachina	wawachina 
+322	37-4-72-1	7129145484334824	Imbabura Quechua	imba1240	to be born	BE BORN	1090		wacharina	wacharina 
+323	37-4-73-1	71291454852791828	Imbabura Quechua	imba1240	pregnant	PREGNANT	1123		bijsayuk	bijsayuk 
+324	37-4-732-1	71291454327266960	Imbabura Quechua	imba1240	to conceive	CONCEIVE	1087		wawachina	wawachina 
+325	37-4-74-1	71291454753266985	Imbabura Quechua	imba1240	to be alive	BE ALIVE	1422		kawsana	kawsana 
+326	37-4-75-1	71291454333336230	Imbabura Quechua	imba1240	to die	DIE	1494		wañuna	wañuna 
+327	37-4-751-1	71291454611253239	Imbabura Quechua	imba1240	to drown	DROWN	1904		awarina	awarina 
+328	37-4-76-1	71291454381442506	Imbabura Quechua	imba1240	to kill	KILL	1417		wañuchina	wañuchina 
+329	37-4-77-1	71291454220903971	Imbabura Quechua	imba1240	the corpse	CORPSE	767		wañushka	wañushka 
+330	37-4-78-1	71291454167223732	Imbabura Quechua	imba1240	to bury	BURY	1719		pambana	pambana 
+331	37-4-79-1	8141722616918613	Imbabura Quechua	imba1240	the grave	GRAVE	1773		pambana uku	pambana uku 
+332	37-4-81-1	71291454125530519	Imbabura Quechua	imba1240	strong	STRONG	785		shinchi	shinchi 
+333	37-4-82-1	71291454626437868	Imbabura Quechua	imba1240	weak	WEAK	1601		fangalla (1)	fangalla (1) 
+334	37-4-83-1	7129145460089825	Imbabura Quechua	imba1240	healthy	HEALTHY	1364		alli kawsay	alli kawsay 
+335	37-4-84-1	71291454989180746	Imbabura Quechua	imba1240	sick/ill	SICK	1847		unkushka	unkushka 
+336	37-4-841-1	71291454941212556	Imbabura Quechua	imba1240	the fever	FEVER	1534		kalintura	kalintura 
+337	37-4-842-1	71291454159511931	Imbabura Quechua	imba1240	the goitre/goiter	GOITER	1957		kutu	kutu 
+338	37-4-843-1	7129145486786298	Imbabura Quechua	imba1240	the cold	COMMON COLD (DISEASE)	102		rumas	rumas 
+339	37-4-85-1	71291454635357753	Imbabura Quechua	imba1240	the wound or sore	WOUND	1109		chugri	chugri 
+340	37-4-852-1	71291454863320206	Imbabura Quechua	imba1240	the bruise	BRUISE	1148		raumarishka	raumarishka 
+341	37-4-853-1	71291454875410255	Imbabura Quechua	imba1240	the swelling	SWELLING	1903		pungi	pungi 
+342	37-4-854-1	71291454996566218	Imbabura Quechua	imba1240	the itch	ITCH	148		shijshi	shijshi 
+343	37-4-855-1	71291454172242700	Imbabura Quechua	imba1240	the blister	BLISTER	1584		chupu (1)	chupu (1) 
+344	37-4-856-1	71291454466135580	Imbabura Quechua	imba1240	the boil	BOIL (OF SKIN)	793		chupu (2)	chupu (2) 
+345	37-4-857-1	71291454995721827	Imbabura Quechua	imba1240	the pus	PUS	1808		kiya	kiya 
+346	37-4-86-1	71291454934935297	Imbabura Quechua	imba1240	to cure	CURE	499		aliyana	aliyana 
+347	37-4-87-1	71291454346074724	Imbabura Quechua	imba1240	the physician	PHYSICIAN	597		jambik (1)	jambik (1) 
+348	37-4-88-1	71291454320147221	Imbabura Quechua	imba1240	the medicine	MEDICINE	1372		jambi	jambi 
+349	37-4-89-1	71291454559945403	Imbabura Quechua	imba1240	the poison	POISON	655		bininu	bininu 
+350	37-4-91-1	71291454926526012	Imbabura Quechua	imba1240	tired	TIRED	1757		shaijushka	shaijushka 
+351	37-4-912-1	71291454808419399	Imbabura Quechua	imba1240	to rest	REST	168		samana	samana 
+352	37-4-92-1	71291454748630171	Imbabura Quechua	imba1240	lazy	LAZY	1564		killa (2)	killa (2) 
+353	37-4-93-1	71291454720147762	Imbabura Quechua	imba1240	bald	BALD	1125		lluchu uma	lluchu uma 
+354	37-4-94-1	71291454640100935	Imbabura Quechua	imba1240	lame	LAME	320		kibishka	kibishka 
+355	37-4-95-1	71291454756996090	Imbabura Quechua	imba1240	deaf	DEAF	996		surdu	surdu 
+356	37-4-96-1	71291454346400497	Imbabura Quechua	imba1240	mute	MUTE	1666		upa	upa 
+357	37-4-97-1	71291454662979326	Imbabura Quechua	imba1240	blind	BLIND	1653		ñausa	ñausa 
+358	37-4-98-1	71291454919489230	Imbabura Quechua	imba1240	drunk	DRUNK	1463		machashka	machashka 
+359	37-4-99-1	71291454640372779	Imbabura Quechua	imba1240	naked	NAKED	590		lluchu	lluchu 
+360	37-5-11-1	71291454920403827	Imbabura Quechua	imba1240	to eat	EAT	1336		mikuna (1)	mikuna (1) 
+361	37-5-12-1	71291454385351643	Imbabura Quechua	imba1240	the food	FOOD	256		mikuna	mikuna 
+362	37-5-121-1	71291454333825898	Imbabura Quechua	imba1240	cooked	COOKED	269		yanushka	yanushka 
+363	37-5-122-1	71291454824471796	Imbabura Quechua	imba1240	raw	RAW	1959		chawa	chawa 
+364	37-5-123-1	71291454647314447	Imbabura Quechua	imba1240	ripe	RIPE	178		fukushka	fukushka 
+365	37-5-124-1	71291454600654710	Imbabura Quechua	imba1240	unripe	UNRIPE	1958		llullu (2)	llullu (2) 
+366	37-5-125-1	71291454114835501	Imbabura Quechua	imba1240	rotten	ROTTEN	1728		ismushka	ismushka 
+367	37-5-13-1	71291454939760035	Imbabura Quechua	imba1240	to drink	DRINK	1401		ufiana	ufiana 
+368	37-5-14-1	71291454623134149	Imbabura Quechua	imba1240	to be hungry	BE HUNGRY	1533		yarjana	yarjana 
+369	37-5-141-1	71291454125475877	Imbabura Quechua	imba1240	the famine	FAMINE	199		yarjay	yarjay 
+370	37-5-15-1	71291454969315896	Imbabura Quechua	imba1240	to be thirsty	THIRSTY	847		yakuyana	yakuyana 
+371	37-5-16-1	71291454406869946	Imbabura Quechua	imba1240	to suck	SUCK	1421		chupana (1)	chupana (1) 
+372	37-5-18-1	71291454642733926	Imbabura Quechua	imba1240	to chew	CHEW	321		akuna	akuna 
+373	37-5-181-1	71291454867553579	Imbabura Quechua	imba1240	to swallow	SWALLOW	897		millpuna	millpuna 
+374	37-5-19-1	71291454561056654	Imbabura Quechua	imba1240	to choke	CHOKE	129		awana (1)	awana (1) 
+375	37-5-21-1	71291454286930877	Imbabura Quechua	imba1240	to cook	COOK (SOMETHING)	1100		yanuna	yanuna 
+376	37-5-22-1	71291454540681428	Imbabura Quechua	imba1240	to boil	BOIL (OF LIQUID)	792		timbuna	timbuna 
+377	37-5-23-1	71291454546929487	Imbabura Quechua	imba1240	to roast or fry	ROAST OR FRY	2146		kusana (1)	kusana (1) 
+378	37-5-24-1	7129145486158923	Imbabura Quechua	imba1240	to bake	BAKE	183		kusana (2)	kusana (2) 
+379	37-5-25-1	71291454515545449	Imbabura Quechua	imba1240	the oven	OVEN	1143		jurnu	jurnu 
+380	37-5-26-1	71291454682338726	Imbabura Quechua	imba1240	the pot	POT	1462		manga	manga 
+381	37-5-27-1	71291454682338726	Imbabura Quechua	imba1240	the kettle	KETTLE	854		manga	manga 
+382	37-5-28-1	71291454819587601	Imbabura Quechua	imba1240	the pan	PAN	31		bichi	bichi 
+383	37-5-31-1	71291454869653432	Imbabura Quechua	imba1240	the dish	DISH	481		platu	platu 
+384	37-5-32-1	71291454869653432	Imbabura Quechua	imba1240	the plate	PLATE	480		platu	platu 
+385	37-5-33-1	71291454980222710	Imbabura Quechua	imba1240	the bowl	BOWL	1530		pilchi	pilchi 
+386	37-5-34-1	71291454602328723	Imbabura Quechua	imba1240	the jug/pitcher	JUG	270		jundu (1)	jundu (1) 
+387	37-5-35-1	71291454980222710	Imbabura Quechua	imba1240	the cup	CUP	476		pilchi	pilchi 
+388	37-5-36-1	712914546420114	Imbabura Quechua	imba1240	the saucer	SAUCER	271		platillu	platillu 
+389	37-5-37-1	71291454885937750	Imbabura Quechua	imba1240	the spoon	SPOON	1378		kuchara	kuchara 
+390	37-5-38-1	71291454662372381	Imbabura Quechua	imba1240	the knife(1)	KNIFE (FOR EATING)	3210		kuchillu	kuchillu 
+391	37-5-39-1	8141724326373467	Imbabura Quechua	imba1240	the fork	FORK	1302		tenedur	tenedur 
+392	37-5-41-1	71291454385351643	Imbabura Quechua	imba1240	the meal	MEAL	1526		mikuna	mikuna 
+393	37-5-42-1	71291454428844566	Imbabura Quechua	imba1240	the breakfast	BREAKFAST	1322		shungunchina	shungunchina 
+394	37-5-43-1	71291454631753807	Imbabura Quechua	imba1240	the lunch	LUNCH	768		almuza	almuza 
+395	37-5-44-1	71291454109862560	Imbabura Quechua	imba1240	the dinner	DINNER (SUPPER)	1833		sina	sina 
+396	37-5-45-1	71291454109862560	Imbabura Quechua	imba1240	the supper	DINNER (SUPPER)	1833		sina	sina 
+397	37-5-46-1	71291454536350240	Imbabura Quechua	imba1240	to peel	PEEL	275		llushtina	llushtina 
+398	37-5-47-1	71291454586541565	Imbabura Quechua	imba1240	to sieve or to strain	SIEVE	86		shushuna	shushuna 
+399	37-5-48-1	71291454921131431	Imbabura Quechua	imba1240	to scrape	SCRAPE	1767		aspina	aspina 
+400	37-5-49-1	71291454657140019	Imbabura Quechua	imba1240	to stir or to mix	MIX	2017		chapuna	chapuna 
+401	37-5-51-1	71291454506734353	Imbabura Quechua	imba1240	the bread	BREAD	1368		tanda	tanda 
+402	37-5-53-1	71291454825340208	Imbabura Quechua	imba1240	the dough	DOUGH	273		masa	masa 
+403	37-5-54-1	71291454355183858	Imbabura Quechua	imba1240	to knead	KNEAD	274		masana	masana 
+404	37-5-55-1	71291454822868467	Imbabura Quechua	imba1240	the flour	FLOUR	1594		jaku	jaku 
+405	37-5-56-1	71291454787233294	Imbabura Quechua	imba1240	to crush or to grind	GRIND	1033		kutana (1)	kutana (1) 
+406	37-5-57-1	71291454355773012	Imbabura Quechua	imba1240	the mill	MILL	636		kutana (2)	kutana (2) 
+407	37-5-58-1	8141728341718771	Imbabura Quechua	imba1240	the mortar(1)	MORTAR CRUSHER	224		kutuk rumi	kutuk rumi 
+408	37-5-59-1	8141728341718771	Imbabura Quechua	imba1240	the pestle	PESTLE	225		kutuk rumi	kutuk rumi 
+409	37-5-61-1	71291454697677070	Imbabura Quechua	imba1240	the meat	MEAT	634		aycha (2)	aycha (2) 
+410	37-5-64-1	71291454385351643	Imbabura Quechua	imba1240	the soup	SOUP	1547		mikuna	mikuna 
+411	37-5-65-1	71291454921451619	Imbabura Quechua	imba1240	the vegetables	VEGETABLES	924		yuyu	yuyu 
+412	37-5-66-1	71291454390371102	Imbabura Quechua	imba1240	the bean	BEAN	832		purutu	purutu 
+413	37-5-7-1	71291454905838620	Imbabura Quechua	imba1240	the potato	POTATO	593		papa	papa 
+414	37-5-71-1	8141732618739725	Imbabura Quechua	imba1240	the fruit	FRUIT	1507		muru	muru 
+415	37-5-712-1	815117840410266	Imbabura Quechua	imba1240	the bunch	BUNCH	1966		mullapa	mullapa 
+416	37-5-75-1	71291454532428045	Imbabura Quechua	imba1240	the fig	FIG	322		igus	igus 
+417	37-5-76-1	71291454783078654	Imbabura Quechua	imba1240	the grape	GRAPE	920		uba	uba 
+418	37-5-77-1	71291454541503999	Imbabura Quechua	imba1240	the nut	NUT	191		nuwis	nuwis 
+419	37-5-78-1	712914547794036	Imbabura Quechua	imba1240	the olive	OLIVE	1154		asituna	asituna 
+420	37-5-79-1	71291454994512797	Imbabura Quechua	imba1240	the oil	OIL (ORGANIC SUBSTANCE)	1484		asiyti	asiyti 
+421	37-5-791-1	7129145444357738	Imbabura Quechua	imba1240	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		vira	vira 
+422	37-5-81-1	71291454768156523	Imbabura Quechua	imba1240	the salt	SALT	1274		kachi	kachi 
+423	37-5-821-1	71291454937010562	Imbabura Quechua	imba1240	the chili pepper	CHILI PEPPER	919		uchu	uchu 
+424	37-5-84-1	71291454389069050	Imbabura Quechua	imba1240	the honey	HONEY	942		mishki (1)	mishki (1) 
+425	37-5-85-1	71291454825795559	Imbabura Quechua	imba1240	the sugar	SUGAR	862		mishki (2)	mishki (2) 
+426	37-5-86-1	71291454158661224	Imbabura Quechua	imba1240	the milk	MILK	635		lichi	lichi 
+427	37-5-87-1	71291454586654591	Imbabura Quechua	imba1240	to milk	DRAW MILK	93		chawana	chawana 
+428	37-5-88-1	71291454276902786	Imbabura Quechua	imba1240	the cheese	CHEESE	1569		kizu	kizu 
+429	37-5-89-1	7129145444357738	Imbabura Quechua	imba1240	the butter	BUTTER	1245		vira	vira 
+430	37-5-9-1	7129145413711439	Imbabura Quechua	imba1240	the drink	BEVERAGE	731		ufiay	ufiay 
+431	37-5-91-1	71291454714133989	Imbabura Quechua	imba1240	the mead	MEAD	941		mishki yaku	mishki yaku 
+432	37-5-92-1	71291454927885202	Imbabura Quechua	imba1240	the wine	WINE	1524		binu	binu 
+433	37-5-93-1	71291454185657139	Imbabura Quechua	imba1240	the beer	BEER	1639		serbisa	serbisa 
+434	37-5-94-1	71291454919538818	Imbabura Quechua	imba1240	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		asua	asua 
+435	37-5-97-1	71291454174878362	Imbabura Quechua	imba1240	the egg	EGG	744		lulun	lulun 
+436	37-5-971-1	71291454486822542	Imbabura Quechua	imba1240	the yolk	YOLK	1556		lulun killu	lulun killu 
+437	37-6-11-1	71291454398537766	Imbabura Quechua	imba1240	to put on	PUT ON	158		churajuna (1)	churajuna (1) 
+438	37-6-12-1	71291454617576795	Imbabura Quechua	imba1240	the clothing or clothes	CLOTHES	1895		churajuna (2)	churajuna (2) 
+439	37-6-21-1	71291454365074157	Imbabura Quechua	imba1240	the cloth	CLOTH	1616		facha	facha 
+440	37-6-22-1	71291454980840326	Imbabura Quechua	imba1240	the wool	WOOL	964		milma	milma 
+441	37-6-24-1	71291454657994159	Imbabura Quechua	imba1240	the cotton	COTTON	1850		algudun	algudun 
+442	37-6-25-1	71291454151886548	Imbabura Quechua	imba1240	the silk	SILK	1641		seda	seda 
+443	37-6-28-1	71291454427533832	Imbabura Quechua	imba1240	the fur	FUR	580		kara	kara 
+444	37-6-29-1	71291454427533832	Imbabura Quechua	imba1240	the leather	LEATHER	629		kara	kara 
+445	37-6-31-1	71291454358392578	Imbabura Quechua	imba1240	to spin	SPIN	121		puchana	puchana 
+446	37-6-32-1	7129145478999367	Imbabura Quechua	imba1240	the spindle	SPINDLE	277		sijsi	sijsi 
+447	37-6-33-1	71291454379366681	Imbabura Quechua	imba1240	to weave	WEAVE	133		awana (2)	awana (2) 
+448	37-6-34-1	71291454458082841	Imbabura Quechua	imba1240	the loom	LOOM	1787		tilar	tilar 
+449	37-6-35-1	71291454576722822	Imbabura Quechua	imba1240	to sew	SEW	1457		sirana	sirana 
+450	37-6-36-1	71291454395778648	Imbabura Quechua	imba1240	the needle(1)	NEEDLE (FOR SEWING)	1382		awuja	awuja 
+451	37-6-37-1	8151112427707785	Imbabura Quechua	imba1240	the awl	AWL	278		tuksina	tuksina 
+452	37-6-38-1	712914543646554	Imbabura Quechua	imba1240	the thread	THREAD	1161		pucha	pucha 
+453	37-6-39-1	712914546488488	Imbabura Quechua	imba1240	to dye	DYE	157		tiñina	tiñina 
+454	37-6-411-1	71291454691188119	Imbabura Quechua	imba1240	the poncho	PONCHO	327		rwana	rwana 
+455	37-7-37-1	71291454319896545	Imbabura Quechua	imba1240	the ladder	LADDER	1464		chakana	chakana 
+456	37-6-42-1	7129145433333772	Imbabura Quechua	imba1240	the (woman's) dress	DRESS	474		anaku (1)	anaku (1) 
+457	37-6-43-1	71291454521623908	Imbabura Quechua	imba1240	the coat	COAT	603		shwiter	shwiter 
+458	37-6-44-1	71291454365995347	Imbabura Quechua	imba1240	the shirt	SHIRT	1622		kamiza	kamiza 
+459	37-6-45-1	71291454947171322	Imbabura Quechua	imba1240	the collar	COLLAR	2012		walka	walka 
+460	37-6-46-1	71291454212582778	Imbabura Quechua	imba1240	the skirt	SKIRT	1600		anaku (2)	anaku (2) 
+461	37-6-48-1	71291454460214754	Imbabura Quechua	imba1240	the trousers	TROUSERS	809		pantalun	pantalun 
+462	37-6-49-1	71291454357705735	Imbabura Quechua	imba1240	the sock or stocking	STOCKING	329		midias	midias 
+463	37-6-51-1	7129145427510085	Imbabura Quechua	imba1240	the shoe	SHOE	1381		ushuta	ushuta 
+464	37-6-52-1	71291454874993220	Imbabura Quechua	imba1240	the boot	BOOT	585		butas	butas 
+465	37-6-55-1	71291454540328560	Imbabura Quechua	imba1240	the hat or cap	HEADGEAR	2130		muchiju	muchiju 
+466	37-6-57-1	71291454912777906	Imbabura Quechua	imba1240	the belt	BELT	772		chumbi	chumbi 
+467	37-6-61-1	71291454439887228	Imbabura Quechua	imba1240	the pocket	POCKET	1851		bulsiku	bulsiku 
+468	37-6-62-1	71291454405124274	Imbabura Quechua	imba1240	the button	BUTTON	757		butun	butun 
+469	37-6-73-1	71291454634999235	Imbabura Quechua	imba1240	the ring	RING	1374		surtijas	surtijas 
+470	37-6-75-1	71291454947171322	Imbabura Quechua	imba1240	the necklace	NECKLACE	1961		walka	walka 
+471	37-6-76-1	71291454465329015	Imbabura Quechua	imba1240	the bead	BEAD	1860		muyu (2)	muyu (2) 
+472	37-6-77-1	7129145450885923	Imbabura Quechua	imba1240	the earring	EARRING	770		sarsillu	sarsillu 
+473	37-6-78-1	71291454184227681	Imbabura Quechua	imba1240	the headband or headdress	HEADBAND	330		sinta	sinta 
+474	37-6-81-1	71291454324656460	Imbabura Quechua	imba1240	the handkerchief or rag	RAG	332		panilu	panilu 
+475	37-6-82-1	712914549916319	Imbabura Quechua	imba1240	the towel	TOWEL	1021		twalla	twalla 
+476	37-6-91-1	71291454230928375	Imbabura Quechua	imba1240	the comb	COMB	1475		ñajcha	ñajcha 
+477	37-6-92-1	71291454368030587	Imbabura Quechua	imba1240	the brush	BRUSH	1821		sipillu	sipillu 
+478	37-6-921-1	71291454765170704	Imbabura Quechua	imba1240	the plait/braid	BRAID	1043		chimbana	chimbana 
+479	37-6-94-1	8151121912526609	Imbabura Quechua	imba1240	the ointment	OINTMENT	1926		llutana jambi	llutana jambi 
+480	37-6-95-1	71291454238993934	Imbabura Quechua	imba1240	the soap	SOAP	788		jabun	jabun 
+481	37-6-96-1	71291454727537671	Imbabura Quechua	imba1240	the mirror	MIRROR	1171		ispiju	ispiju 
+482	37-7-11-1	71291454753266985	Imbabura Quechua	imba1240	to live	DWELL (LIVE, RESIDE)	363		kawsana	kawsana 
+483	37-7-12-1	71291454651896045	Imbabura Quechua	imba1240	the house	HOUSE	1252		wasi	wasi 
+484	37-7-13-1	71291454167011114	Imbabura Quechua	imba1240	the hut	HUT	1678		ujsha wasi	ujsha wasi 
+485	37-7-131-1	7129145476197272	Imbabura Quechua	imba1240	the garden-house	GARDEN-HOUSE	403		wirta	wirta 
+486	37-7-14-1	71291454980659381	Imbabura Quechua	imba1240	the tent	TENT	1316		tuldu	tuldu 
+487	37-7-15-1	71291454241585619	Imbabura Quechua	imba1240	the yard or court	YARD	736		kancha	kancha 
+488	37-7-17-1	71291454789004234	Imbabura Quechua	imba1240	the cookhouse	COOKHOUSE	334		yanuna uku	yanuna uku 
+489	37-7-18-1	71291454925602328	Imbabura Quechua	imba1240	the meeting house	MEETING HOUSE	335		tantanajuna wasi	tantanajuna wasi 
+490	37-7-21-1	71291454217289405	Imbabura Quechua	imba1240	the room	ROOM	1450		uku (2)	uku (2) 
+491	37-7-22-1	71291454582858088	Imbabura Quechua	imba1240	the door or gate	DOOR	1567		pungu	pungu 
+492	37-7-24-1	71291454879665735	Imbabura Quechua	imba1240	the key	KEY	1472		llabi	llabi 
+493	37-7-25-1	7129145426897831	Imbabura Quechua	imba1240	the window	WINDOW	1375		bintana	bintana 
+494	37-7-26-1	71291454492231535	Imbabura Quechua	imba1240	the floor	FLOOR	1632		allpa	allpa 
+495	37-7-27-1	71291454421958420	Imbabura Quechua	imba1240	the wall	WALL (OF HOUSE)	933		pirka	pirka 
+496	37-7-31-1	71291454546576024	Imbabura Quechua	imba1240	the fireplace	FIREPLACE	185		tulpa	tulpa 
+497	37-7-42-1	71291454370437272	Imbabura Quechua	imba1240	the bed	BED	1663		kama	kama 
+498	37-7-421-1	71291454436362785	Imbabura Quechua	imba1240	the pillow	PILLOW	1044		sauna	sauna 
+499	37-7-422-1	71291454215665834	Imbabura Quechua	imba1240	the blanket	BLANKET	806		jatana	jatana 
+500	37-7-43-1	71291454941115048	Imbabura Quechua	imba1240	the chair	CHAIR	1476		tiyarina (2)	tiyarina (2) 
+501	37-7-44-1	71291454177337789	Imbabura Quechua	imba1240	the table	TABLE	1775		miza	miza 
+502	37-7-45-1	71291454136305743	Imbabura Quechua	imba1240	the lamp or torch	TORCH OR LAMP	2131		lampara	lampara 
+503	37-7-46-1	71291454748656738	Imbabura Quechua	imba1240	the candle	CANDLE	1273		bila	bila 
+504	37-7-48-1	71291454192833624	Imbabura Quechua	imba1240	the trough	TROUGH	205		batiya	batiya 
+505	37-7-51-1	8141535278463818	Imbabura Quechua	imba1240	the roof	ROOF	769		wasikata	wasikata 
+506	37-7-52-1	815113089492598	Imbabura Quechua	imba1240	the thatch	THATCH	279		ujsha kata	ujsha kata 
+507	37-7-53-1	71291454918496470	Imbabura Quechua	imba1240	the ridgepole	RIDGEPOLE	280		kumbrira	kumbrira 
+508	37-7-54-1	71291454365378302	Imbabura Quechua	imba1240	the rafter	RAFTER	829		biga	biga 
+509	37-7-55-1	71291454365378302	Imbabura Quechua	imba1240	the beam	BEAM	1132		biga	biga 
+510	37-7-56-1	71291454686293288	Imbabura Quechua	imba1240	the post or pole	POST	281		kaspi	kaspi 
+511	37-7-57-1	71291454930840021	Imbabura Quechua	imba1240	the board	BOARD	1227		tabla	tabla 
+512	37-7-58-1	71291454775961240	Imbabura Quechua	imba1240	the arch	ARCH	876		arku	arku 
+513	37-7-61-1	71291454451755620	Imbabura Quechua	imba1240	the mason	MASON	877		albañil	albañil 
+514	37-7-62-1	7129145440030644	Imbabura Quechua	imba1240	the brick	BRICK	1006		ladrillu	ladrillu 
+515	37-7-64-1	71291454927659499	Imbabura Quechua	imba1240	the adobe	ADOBE	901		adubi	adubi 
+516	37-8-11-1	71291454936560942	Imbabura Quechua	imba1240	the farmer	FARMER	979		labradur	labradur 
+517	37-8-12-1	71291454201216882	Imbabura Quechua	imba1240	the field	FIELD	212		chakra	chakra 
+518	37-8-13-1	71291454447745565	Imbabura Quechua	imba1240	the garden	GARDEN	586		sisa pampa	sisa pampa 
+519	37-8-15-1	8151139597788057	Imbabura Quechua	imba1240	to cultivate	CULTIVATE	1541		chakrana	chakrana 
+520	37-8-16-1	7129145460982816	Imbabura Quechua	imba1240	the fence	FENCE	1690		kincha	kincha 
+521	37-8-17-1	71291454864057667	Imbabura Quechua	imba1240	the ditch	DITCH	2002		sanja	sanja 
+522	37-8-21-1	71291454472564945	Imbabura Quechua	imba1240	to plough/plow	PLOUGH	1921		yapuna	yapuna 
+523	37-8-212-1	71291454731751150	Imbabura Quechua	imba1240	the furrow	FURROW	1794		wachu (2)	wachu (2) 
+524	37-8-22-1	71291454280708166	Imbabura Quechua	imba1240	to dig	DIG	1418		allana	allana 
+525	37-8-23-1	71291454587853238	Imbabura Quechua	imba1240	the spade	SPADE	1176		azadun	azadun 
+526	37-8-24-1	71291454680042464	Imbabura Quechua	imba1240	the shovel	SHOVEL	1901		pala	pala 
+527	37-8-25-1	71291454587853238	Imbabura Quechua	imba1240	the hoe	HOE	284		azadun	azadun 
+528	37-8-26-1	7129145459982818	Imbabura Quechua	imba1240	the fork(2)/pitchfork	PITCHFORK	337		jurkita	jurkita 
+529	37-8-31-1	71291454386604429	Imbabura Quechua	imba1240	to sow	SOW SEEDS	748		tarpuna	tarpuna 
+530	37-8-311-1	7129145439922690	Imbabura Quechua	imba1240	the seed	SEED	714		muyu (1)	muyu (1) 
+531	37-8-32-1	71291454784078198	Imbabura Quechua	imba1240	to mow	MOW	190		kuzichana	kuzichana 
+532	37-8-33-1	71291454623061421	Imbabura Quechua	imba1240	the sickle or scythe	SICKLE OR SCYTHE	2132		usis	usis 
+533	37-8-34-1	71291454752601782	Imbabura Quechua	imba1240	to thresh	THRESH	285		ishkuna	ishkuna 
+534	37-8-35-1	71291454948769535	Imbabura Quechua	imba1240	the threshing-floor	THRESHING-FLOOR	223		ira pamba	ira pamba 
+535	37-8-41-1	71291454400031666	Imbabura Quechua	imba1240	the harvest	HARVEST	611		kuzicha	kuzicha 
+536	37-8-42-1	71291454328627119	Imbabura Quechua	imba1240	the grain	GRAIN	605		granu	granu 
+537	37-8-43-1	71291454217337087	Imbabura Quechua	imba1240	the wheat	WHEAT	1077		trigu	trigu 
+538	37-8-44-1	7129145426086128	Imbabura Quechua	imba1240	the barley	BARLEY	932		sibada	sibada 
+539	37-8-45-1	7129145485201330	Imbabura Quechua	imba1240	the rye	RYE	23		sintinu	sintinu 
+540	37-8-46-1	7129145437655230	Imbabura Quechua	imba1240	the oats	OAT	60		abina	abina 
+541	37-8-47-1	71291454912807137	Imbabura Quechua	imba1240	the maize/corn	MAIZE	506		sara	sara 
+542	37-8-48-1	71291454507024027	Imbabura Quechua	imba1240	the rice	RICE	926		arrusa	arrusa 
+543	37-8-51-1	71291454172332042	Imbabura Quechua	imba1240	the grass	GRASS	606		jiwa	jiwa 
+544	37-8-52-1	71291454809518164	Imbabura Quechua	imba1240	the hay	HAY	342		ujsha	ujsha 
+545	37-8-53-1	71291454940687257	Imbabura Quechua	imba1240	the plant	PLANT (VEGETATION)	653		yura	yura 
+546	37-8-531-1	71291454386604429	Imbabura Quechua	imba1240	to plant	PLANT (SOMETHING)	1486		tarpuna	tarpuna 
+547	37-8-54-1	71291454462140534	Imbabura Quechua	imba1240	the root	ROOT	670		sapi	sapi 
+548	37-8-55-1	71291454478133525	Imbabura Quechua	imba1240	the branch	BRANCH OR TWIG	3223		malki	malki 
+549	37-8-56-1	71291454479254374	Imbabura Quechua	imba1240	the leaf	LEAF	628		fanga	fanga 
+550	37-8-57-1	71291454597227640	Imbabura Quechua	imba1240	the flower	FLOWER	239		sisa	sisa 
+551	37-8-6-1	71291454940687257	Imbabura Quechua	imba1240	the tree	TREE	906		yura	yura 
+552	37-8-64-1	71291454879568390	Imbabura Quechua	imba1240	the pine	PINE	1740		pinu	pinu 
+553	37-8-67-1	71291454118768991	Imbabura Quechua	imba1240	the vine	VINE	343		angu (2)	angu (2) 
+554	37-8-68-1	71291454748079393	Imbabura Quechua	imba1240	the tobacco	TOBACCO	974		tabaku	tabaku 
+555	37-8-69-1	71291454210687003	Imbabura Quechua	imba1240	to smoke	SMOKE (INHALE)	1689		chupana (2)	chupana (2) 
+556	37-8-72-1	71291454562837063	Imbabura Quechua	imba1240	the tree stump	TREE STUMP	241		putu (1)	putu (1) 
+557	37-8-73-1	71291454166458771	Imbabura Quechua	imba1240	the tree trunk	TREE TRUNK	344		putu (2)	putu (2) 
+558	37-8-74-1	71291454180622326	Imbabura Quechua	imba1240	the forked branch	FORKED BRANCH	409		jurkita malki	jurkita malki 
+559	37-8-75-1	71291454851598694	Imbabura Quechua	imba1240	the bark	BARK	1204		kiru kara	kiru kara 
+560	37-8-76-1	71291454263884585	Imbabura Quechua	imba1240	the sap	SAP	345		kiru yaku	kiru yaku 
+561	37-8-81-1	8151142667809973	Imbabura Quechua	imba1240	the palm tree	PALM TREE	1181		chunta	chunta 
+562	37-8-82-1	71291454783531925	Imbabura Quechua	imba1240	the coconut	COCONUT	970		koku	koku 
+563	37-8-84-1	71291454796689781	Imbabura Quechua	imba1240	the banana	BANANA	868		platanu	platanu 
+564	37-8-91-1	71291454497767201	Imbabura Quechua	imba1240	the sweet potato	SWEET POTATO	159		kamuti	kamuti 
+565	37-8-92-1	71291454943057279	Imbabura Quechua	imba1240	the cassava/manioc	CASSAVA	925		yuka	yuka 
+566	37-8-93-1	71291454995890421	Imbabura Quechua	imba1240	the gourd	GOURD	411		zambu	zambu 
+567	37-8-931-1	71291454473044954	Imbabura Quechua	imba1240	the pumpkin or squash	PUMPKIN	864		sapallu	sapallu 
+568	37-8-94-1	71291454405012749	Imbabura Quechua	imba1240	the bamboo	BAMBOO	1927		suru	suru 
+569	37-8-941-1	71291454600864544	Imbabura Quechua	imba1240	the sugar cane	SUGAR CANE	146		wiru	wiru 
+570	37-8-97-1	71291454417505013	Imbabura Quechua	imba1240	the nettle	NETTLE	33		tsini	tsini 
+571	37-8-98-1	71291454390011750	Imbabura Quechua	imba1240	the mushroom	MUSHROOM	641		kallamba	kallamba 
+572	37-9-11-1	71291454975539152	Imbabura Quechua	imba1240	to do	DO	813		rurana	rurana 
+573	37-9-12-1	71291454947160418	Imbabura Quechua	imba1240	the work	WORK (LABOUR)	984		trabajana	trabajana 
+574	37-9-14-1	71291454590374641	Imbabura Quechua	imba1240	to bend	BEND	2004		patarina	patarina 
+575	37-9-15-1	71291454590374641	Imbabura Quechua	imba1240	to fold	FOLD	1470		patarina	patarina 
+576	37-9-16-1	71291454306019896	Imbabura Quechua	imba1240	to tie	TIE	1917		watana	watana 
+577	37-9-161-1	71291454202618729	Imbabura Quechua	imba1240	to untie	UNTIE	352		zafana	zafana 
+578	37-9-18-1	71291454375015551	Imbabura Quechua	imba1240	the chain	CHAIN	1627		kadena	kadena 
+579	37-9-19-1	71291454124432510	Imbabura Quechua	imba1240	the rope	ROPE	1218		waska	waska 
+580	37-9-192-1	71291454179029114	Imbabura Quechua	imba1240	the knot	KNOT	760		muku	muku 
+581	37-9-21-1	71291454679460355	Imbabura Quechua	imba1240	to strike or hit or beat	STRIKE OR BEAT	2133		takana	takana 
+582	37-9-211-1	8151147451968159	Imbabura Quechua	imba1240	to pound	POUND	354		chankana	chankana 
+583	37-9-22-1	71291454267645320	Imbabura Quechua	imba1240	to cut	CUT	1432		kuchuna	kuchuna 
+584	37-9-221-1	71291454130671032	Imbabura Quechua	imba1240	to cut down	CUT DOWN	355		urmachina	urmachina 
+585	37-9-222-1	71291454267645320	Imbabura Quechua	imba1240	to chop	CHOP	155		kuchuna	kuchuna 
+586	37-9-223-1	71291454713491748	Imbabura Quechua	imba1240	to stab	STAB TO DEATH	3189		kuchilluna	kuchilluna 
+587	37-9-23-1	71291454662372381	Imbabura Quechua	imba1240	the knife(2)	KNIFE	1352		kuchillu	kuchillu 
+588	37-9-24-1	71291454116153651	Imbabura Quechua	imba1240	the scissors or shears	SHEARS	356		tijiras	tijiras 
+589	37-9-25-1	71291454322655169	Imbabura Quechua	imba1240	the axe/ax	AXE	677		jacha	jacha 
+590	37-9-251-1	71291454375252105	Imbabura Quechua	imba1240	the adze	ADZE	290		aswila	aswila 
+591	37-9-26-1	71291454573638453	Imbabura Quechua	imba1240	to break	BREAK (DESTROY OR GET DESTROYED)	680		fakina	fakina 
+592	37-9-261-1	71291454398767392	Imbabura Quechua	imba1240	broken	BROKEN (NOT WORKING)	3190		fakishka	fakishka 
+593	37-9-27-1	71291454573638453	Imbabura Quechua	imba1240	to split	SPLIT	1437		fakina	fakina 
+594	37-9-28-1	71291454633582829	Imbabura Quechua	imba1240	to tear	TEAR (SHRED)	1735		likina	likina 
+595	37-9-29-1	71291454536350240	Imbabura Quechua	imba1240	to skin	PULL OFF (SKIN)	291		llushtina	llushtina 
+596	37-9-31-1	71291454221600810	Imbabura Quechua	imba1240	to rub	RUB	1449		jakuna	jakuna 
+597	37-9-32-1	71291454902152879	Imbabura Quechua	imba1240	to stretch	STRETCH	214		suniachina	suniachina 
+598	37-9-33-1	71291454369571673	Imbabura Quechua	imba1240	to pull	PULL	1455		aysana	aysana 
+599	37-9-34-1	71291454819063057	Imbabura Quechua	imba1240	to spread out	SPREAD OUT	38		shitana (1)	shitana (1) 
+600	37-9-341-1	71291454553421689	Imbabura Quechua	imba1240	to hang up	HANG UP	357		warkuna	warkuna 
+601	37-9-342-1	71291454904512739	Imbabura Quechua	imba1240	to press	PRESS	1913		ajustana	ajustana 
+602	37-9-343-1	71291454128921271	Imbabura Quechua	imba1240	to squeeze	SQUEEZE	1414		kapina	kapina 
+603	37-9-35-1	7129145437028787	Imbabura Quechua	imba1240	to pour	POUR	1487		talina	talina 
+604	37-9-36-1	71291454529218860	Imbabura Quechua	imba1240	to wash	WASH	1453		maillana	maillana 
+605	37-9-37-1	71291454649870824	Imbabura Quechua	imba1240	to sweep	SWEEP	230		fichana (1)	fichana (1) 
+606	37-9-38-1	71291454856017639	Imbabura Quechua	imba1240	the broom	BROOM	245		fichana (2)	fichana (2) 
+607	37-9-422-1	71291454669778020	Imbabura Quechua	imba1240	the tool	TOOL	1361		jirraminta	jirraminta 
+608	37-9-43-1	7129145477016575	Imbabura Quechua	imba1240	the carpenter	CARPENTER	1042		karpinteru	karpinteru 
+609	37-9-44-1	71291454671868380	Imbabura Quechua	imba1240	to build	BUILD	1840		wasichina	wasichina 
+610	37-9-46-1	71291454504000837	Imbabura Quechua	imba1240	to bore	BORE	1501		utujuna	utujuna 
+611	37-9-461-1	71291454504000837	Imbabura Quechua	imba1240	to hollow out	HOLLOW OUT	46		utujuna	utujuna 
+612	37-9-48-1	71291454587014763	Imbabura Quechua	imba1240	the saw	SAW	1948		sirruchu	sirruchu 
+613	37-9-49-1	71291454358258397	Imbabura Quechua	imba1240	the hammer	HAMMER	1481		martillu	martillu 
+614	37-9-5-1	71291454901817385	Imbabura Quechua	imba1240	the nail	NAIL (TOOL)	502		klabus	klabus 
+615	37-9-56-1	71291454672017970	Imbabura Quechua	imba1240	the glue	GLUE	1069		llutana	llutana 
+616	37-9-6-1	71291454705894455	Imbabura Quechua	imba1240	the blacksmith	BLACKSMITH	1001		jirriru	jirriru 
+617	37-9-64-1	71291454297152603	Imbabura Quechua	imba1240	the gold	GOLD	1369		kuri	kuri 
+618	37-9-65-1	71291454515466424	Imbabura Quechua	imba1240	the silver	SILVER	759		kulqui	kulqui 
+619	37-9-66-1	71291454635110666	Imbabura Quechua	imba1240	the copper	COPPER	1825		jirru	jirru 
+620	37-9-67-1	71291454635110666	Imbabura Quechua	imba1240	the iron	IRON	621		jirru	jirru 
+621	37-9-71-1	8151151125770159	Imbabura Quechua	imba1240	the potter	POTTER	359		manga rurak	manga rurak 
+622	37-9-72-1	71291454355183858	Imbabura Quechua	imba1240	to mould/mold	MOLD	289		masana	masana 
+623	37-9-73-1	71291454224864347	Imbabura Quechua	imba1240	the clay	CLAY	1399		turu (2)	turu (2) 
+624	37-9-75-1	71291454379366681	Imbabura Quechua	imba1240	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		awana (2)	awana (2) 
+625	37-9-76-1	71291454713695942	Imbabura Quechua	imba1240	the basket	BASKET	1539		kanastu	kanastu 
+626	37-9-77-1	71291454488412078	Imbabura Quechua	imba1240	the mat	MAT	195		ishtira	ishtira 
+627	37-9-78-1	7129145499379806	Imbabura Quechua	imba1240	the netbag	NETBAG	293		shigra	shigra 
+628	37-9-79-1	71291454239219132	Imbabura Quechua	imba1240	the fan	FAN (OBJECT)	1971		wayrachina (2)	wayrachina (2) 
+629	37-9-791-1	71291454637726916	Imbabura Quechua	imba1240	to fan	FAN ACTION	360		wayrachina (1)	wayrachina (1) 
+630	37-9-81-1	7129145484953219	Imbabura Quechua	imba1240	to carve	CARVE	228		llagllana	llagllana 
+631	37-9-82-1	7129145467848683	Imbabura Quechua	imba1240	the sculptor	SCULPTOR	914		llagllak	llagllak 
+632	37-9-84-1	71291454338261248	Imbabura Quechua	imba1240	the chisel	CHISEL	1979		sinsil	sinsil 
+633	37-9-88-1	71291454953915372	Imbabura Quechua	imba1240	the paint	PAINT (PIGMENTS)	647		tiñi	tiñi 
+634	37-9-89-1	712914546488488	Imbabura Quechua	imba1240	to paint	PAINTING	2001		tiñina	tiñina 
+635	37-10-11-1	71291454185482536	Imbabura Quechua	imba1240	to move	MOVE	765		juyuchina	juyuchina 
+636	37-10-12-1	71291454200339379	Imbabura Quechua	imba1240	to turn	TURN	1588		tigrarichina	tigrarichina 
+637	37-10-13-1	71291454761276082	Imbabura Quechua	imba1240	to turn around	TURN (SOMETHING)	1445		tigrarina (1)	tigrarina (1) 
+638	37-10-14-1	71291454728036104	Imbabura Quechua	imba1240	to wrap	WRAP	1113		pilluna	pilluna 
+639	37-10-15-1	71291454728036104	Imbabura Quechua	imba1240	to roll	ROLL	827		pilluna	pilluna 
+640	37-10-16-1	71291454637213569	Imbabura Quechua	imba1240	to drop	DROP (SOMETHING)	2866		kacharina (2)	kacharina (2) 
+641	37-10-17-1	71291454869061562	Imbabura Quechua	imba1240	to twist	TWIST (AROUND)	3199		kibina	kibina 
+642	37-10-21-1	71291454462847161	Imbabura Quechua	imba1240	to rise	RISE (MOVE UPWARDS)	568		bitsijana	bitsijana 
+643	37-10-22-1	7129145478037688	Imbabura Quechua	imba1240	to raise or lift	LIFT	501		shayachina (1)	shayachina (1) 
+644	37-10-23-1	7129145482837607	Imbabura Quechua	imba1240	to fall	FALL	1280		urmana	urmana 
+645	37-10-24-1	712914549667323	Imbabura Quechua	imba1240	to drip	DRIP (EMIT LIQUID)	2253		shutuna	shutuna 
+646	37-10-25-1	7129145419145092	Imbabura Quechua	imba1240	to throw	THROW	1456		shitana (2)	shitana (2) 
+647	37-10-252-1	71291454889571621	Imbabura Quechua	imba1240	to catch	CATCH	702		japina (1)	japina (1) 
+648	37-10-26-1	71291454230861392	Imbabura Quechua	imba1240	to shake	SHAKE	1909		chafsina	chafsina 
+649	37-10-32-1	71291454373739639	Imbabura Quechua	imba1240	to flow	FLOW	2003		kallpana	kallpana 
+650	37-10-33-1	71291454319770564	Imbabura Quechua	imba1240	to sink	SINK (DESCEND)	1088		washajuna	washajuna 
+651	37-10-34-1	71291454583732871	Imbabura Quechua	imba1240	to float	FLOAT	1574		wambuna	wambuna 
+652	37-10-35-1	71291454583732871	Imbabura Quechua	imba1240	to swim	SWIM	1439		wambuna	wambuna 
+653	37-10-352-1	71291454205689887	Imbabura Quechua	imba1240	to splash	SPLASH	365		tsirapachina	tsirapachina 
+654	37-10-37-1	7129145435336748	Imbabura Quechua	imba1240	to fly	FLY (MOVE THROUGH AIR)	1441		bulana	bulana 
+655	37-10-38-1	71291454234114712	Imbabura Quechua	imba1240	to blow	BLOW (OF WIND)	175		fukuna	fukuna 
+656	37-10-41-1	71291454771219741	Imbabura Quechua	imba1240	to crawl	CRAWL	96		llukana	llukana 
+657	37-10-412-1	71291454212035047	Imbabura Quechua	imba1240	to kneel	KNEEL	66		kungurina	kungurina 
+658	37-10-413-1	71291454834643524	Imbabura Quechua	imba1240	to crouch	CROUCH	296		kumurina	kumurina 
+659	37-10-42-1	71291454543128891	Imbabura Quechua	imba1240	to slide or slip	SLIP	1324		lluchijana	lluchijana 
+660	37-10-43-1	712914549594470	Imbabura Quechua	imba1240	to jump	JUMP	1829		fawana	fawana 
+661	37-10-431-1	71291454793639496	Imbabura Quechua	imba1240	to kick	KICK	1135		jaitana	jaitana 
+662	37-10-44-1	71291454396556227	Imbabura Quechua	imba1240	to dance	DANCE	1879		tushuna	tushuna 
+663	37-10-45-1	71291454189231043	Imbabura Quechua	imba1240	to walk	WALK	1443		purina	purina 
+664	37-10-451-1	71291454690307651	Imbabura Quechua	imba1240	to limp	LIMP	366		lisyana	lisyana 
+665	37-10-46-1	71291454150969948	Imbabura Quechua	imba1240	to run	RUN	1519		kalpana	kalpana 
+666	37-10-47-1	71291454387273566	Imbabura Quechua	imba1240	to go	GO	695		rina (1)	rina (1) 
+667	37-10-471-1	71291454462847161	Imbabura Quechua	imba1240	to go up	GO UP (ASCEND)	705		bitsijana	bitsijana 
+668	37-10-472-1	71291454462847161	Imbabura Quechua	imba1240	to climb	CLIMB	1102		bitsijana	bitsijana 
+669	37-10-473-1	71291454933349315	Imbabura Quechua	imba1240	to go down	GO DOWN (DESCEND)	2014		uriajuna	uriajuna 
+670	37-10-474-1	71291454744757006	Imbabura Quechua	imba1240	to go out	GO OUT	1107		llujshina	llujshina 
+671	37-10-48-1	71291454328713788	Imbabura Quechua	imba1240	to come	COME	1446		shamuna	shamuna 
+672	37-10-481-1	71291454984324637	Imbabura Quechua	imba1240	to come back	COME BACK	581		tigrana	tigrana 
+673	37-10-49-1	71291454888371930	Imbabura Quechua	imba1240	to leave	LEAVE	1752		rina (2)	rina (2) 
+674	37-10-491-1	7129145484460762	Imbabura Quechua	imba1240	to disappear	DISAPPEAR	485		chingana (2)	chingana (2) 
+675	37-10-51-1	71291454183514156	Imbabura Quechua	imba1240	to flee	FLEE	956		pakajuna	pakajuna 
+676	37-10-52-1	71291454219853922	Imbabura Quechua	imba1240	to follow	FOLLOW	1085		katina (1)	katina (1) 
+677	37-10-53-1	71291454262551780	Imbabura Quechua	imba1240	to pursue	PURSUE	1047		katina (2)	katina (2) 
+678	37-10-55-1	71291454329840384	Imbabura Quechua	imba1240	to arrive	ARRIVE	1387		chayana	chayana 
+679	37-10-56-1	71291454678545853	Imbabura Quechua	imba1240	to approach	APPROACH	1778		kayllayana	kayllayana 
+680	37-10-57-1	71291454589198638	Imbabura Quechua	imba1240	to enter	ENTER	749		yaykuna	yaykuna 
+681	37-10-61-1	71291454408615074	Imbabura Quechua	imba1240	to carry	CARRY	700		apana (1)	apana (1) 
+682	37-10-612-1	71291454408615074	Imbabura Quechua	imba1240	to carry in hand	CARRY IN HAND	412		apana (1)	apana (1) 
+683	37-10-613-1	71291454761928541	Imbabura Quechua	imba1240	to carry on shoulder	CARRY ON SHOULDER	413		umbrospi markana	umbrospi markana 
+684	37-10-614-1	71291454336223150	Imbabura Quechua	imba1240	to carry on head	CARRY ON HEAD	414		umapi apana	umapi apana 
+685	37-10-615-1	71291454416428762	Imbabura Quechua	imba1240	to carry under the arm	CARRY UNDER ARM	415		subakupi apana	subakupi apana 
+686	37-10-62-1	71291454321532800	Imbabura Quechua	imba1240	to bring	BRING	692		apamuna	apamuna 
+687	37-10-63-1	71291454309561969	Imbabura Quechua	imba1240	to send	SEND	1127		kachana (1)	kachana (1) 
+688	37-10-64-1	71291454890336342	Imbabura Quechua	imba1240	to lead	LEAD (GUIDE)	43		ñaupashpa apana	ñaupashpa apana 
+689	37-10-65-1	71291454618416584	Imbabura Quechua	imba1240	to drive	DRIVE	741		manijana	manijana 
+690	37-10-66-1	71291454287049568	Imbabura Quechua	imba1240	to ride	RIDE	367		kaballuna	kaballuna 
+691	37-10-67-1	71291454656349768	Imbabura Quechua	imba1240	to push	PUSH	1452		tangana	tangana 
+692	37-10-71-1	71291454140744368	Imbabura Quechua	imba1240	the road	ROAD	667		ñan	ñan 
+693	37-10-72-1	71291454140744368	Imbabura Quechua	imba1240	the path	PATH	2252		ñan	ñan 
+694	37-10-74-1	71291454730490970	Imbabura Quechua	imba1240	the bridge	BRIDGE	1011		chaka	chaka 
+695	37-10-75-1	8151154410054230	Imbabura Quechua	imba1240	the cart or wagon	CART	122		karritilla	karritilla 
+696	37-10-76-1	71291454973772699	Imbabura Quechua	imba1240	the wheel	WHEEL	710		rwida	rwida 
+697	37-10-78-1	71291454631761017	Imbabura Quechua	imba1240	the yoke	YOKE	14		yugu	yugu 
+698	37-10-83-1	71291454774134235	Imbabura Quechua	imba1240	the boat	BOAT	1844		kanuwa	kanuwa 
+699	37-10-831-1	71291454774134235	Imbabura Quechua	imba1240	the canoe	CANOE	1970		kanuwa	kanuwa 
+700	37-10-85-1	8151357673538830	Imbabura Quechua	imba1240	the oar	RUDDER	108		kawina	kawina 
+701	37-11-11-1	712914548121004	Imbabura Quechua	imba1240	to have	HAVE	773		charina (1)	charina (1) 
+702	37-11-12-1	71291454155155634	Imbabura Quechua	imba1240	to own	OWN	684		charina (2)	charina (2) 
+703	37-11-13-1	71291454889571621	Imbabura Quechua	imba1240	to take	TAKE	1749		japina (1)	japina (1) 
+704	37-11-14-1	71291454889571621	Imbabura Quechua	imba1240	to grasp	SEIZE	855		japina (1)	japina (1) 
+705	37-11-15-1	71291454889571621	Imbabura Quechua	imba1240	to hold	HOLD	1448		japina (1)	japina (1) 
+706	37-11-16-1	71291454670843734	Imbabura Quechua	imba1240	to get	GET	694		tarina (1)	tarina (1) 
+707	37-11-17-1	71291454644637525	Imbabura Quechua	imba1240	to keep	KEEP	1477		allichina	allichina 
+708	37-11-18-1	8151158354143658	Imbabura Quechua	imba1240	the thing	THING	738		kosa	kosa 
+709	37-11-21-1	7129145423971939	Imbabura Quechua	imba1240	to give	GIVE	1447		kuna	kuna 
+710	37-11-22-1	71291454714343798	Imbabura Quechua	imba1240	to give back	GIVE BACK	85		tigrachina (2)	tigrachina (2) 
+711	37-11-24-1	71291454644637525	Imbabura Quechua	imba1240	to preserve	PRESERVE	1997		allichina	allichina 
+712	37-11-25-1	71291454112167102	Imbabura Quechua	imba1240	to rescue	RESCUE	2008		kishpichina (1)	kishpichina (1) 
+713	37-11-27-1	71291454180423947	Imbabura Quechua	imba1240	to destroy	DESTROY	681		waglichina	waglichina 
+714	37-11-28-1	71291454769977943	Imbabura Quechua	imba1240	to injure	INJURE	44		chugrichina	chugrichina 
+715	37-11-31-1	71291454366775745	Imbabura Quechua	imba1240	to look for	LOOK FOR	1468		maskana	maskana 
+716	37-11-32-1	71291454202431624	Imbabura Quechua	imba1240	to find	FIND	719		tarina (2)	tarina (2) 
+717	37-11-33-1	7129145428803998	Imbabura Quechua	imba1240	to lose	LOSE	1660		chingana (1)	chingana (1) 
+718	37-11-34-1	71291454944024714	Imbabura Quechua	imba1240	to let go	LET GO OR SET FREE	1095		kacharina (1)	kacharina (1) 
+719	37-11-43-1	71291454405634348	Imbabura Quechua	imba1240	the money	MONEY	1559		kulki	kulki 
+720	37-11-44-1	71291454405634348	Imbabura Quechua	imba1240	the coin	COIN	1867		kulki	kulki 
+721	37-11-51-1	71291454400384382	Imbabura Quechua	imba1240	rich	RICH	712		charik	charik 
+722	37-11-52-1	71291454829093280	Imbabura Quechua	imba1240	poor	POOR	1674		wajcha (1)	wajcha (1) 
+723	37-11-53-1	7129145490584629	Imbabura Quechua	imba1240	the beggar	BEGGAR	1934		wajcha	wajcha 
+724	37-11-54-1	71291454653039841	Imbabura Quechua	imba1240	stingy	STINGY	1774		mitsaj	mitsaj 
+725	37-11-61-1	71291454912987240	Imbabura Quechua	imba1240	to lend	LEND	582		mañachina	mañachina 
+726	37-11-62-1	71291454424751616	Imbabura Quechua	imba1240	to borrow	BORROW	1823		mañana (2)	mañana (2) 
+727	37-11-63-1	71291454237969601	Imbabura Quechua	imba1240	to owe	OWE	369		dibina	dibina 
+728	37-11-64-1	71291454591648910	Imbabura Quechua	imba1240	the debt	DEBT	1914		debi	debi 
+729	37-11-65-1	71291454579500064	Imbabura Quechua	imba1240	to pay	PAY	718		pagana	pagana 
+730	37-11-66-1	71291454442568915	Imbabura Quechua	imba1240	the bill	BILL	1081		kwinta	kwinta 
+731	37-11-69-1	71291454584270685	Imbabura Quechua	imba1240	the tax	TAX	873		impwesto	impwesto 
+732	37-11-77-1	71291454984323737	Imbabura Quechua	imba1240	to hire	HIRE	856		alkilana	alkilana 
+733	37-11-79-1	71291454686289385	Imbabura Quechua	imba1240	to earn	EARN	733		ganana	ganana 
+734	37-11-81-1	71291454319286162	Imbabura Quechua	imba1240	to buy	BUY	1869		randina	randina 
+735	37-11-82-1	7129145488451598	Imbabura Quechua	imba1240	to sell	SELL	1571		jatuna	jatuna 
+736	37-11-83-1	71291454356888929	Imbabura Quechua	imba1240	to trade or barter	TRADE OR BARTER	2135		kambyana	kambyana 
+737	37-11-84-1	71291454643488349	Imbabura Quechua	imba1240	the merchant	MERCHANT	1082		nigusyante	nigusyante 
+738	37-11-85-1	71291454708114777	Imbabura Quechua	imba1240	the market	MARKET	633		jatuna pamba	jatuna pamba 
+739	37-11-86-1	71291454840829200	Imbabura Quechua	imba1240	the shop/store	STORE	752		tyinda	tyinda 
+740	37-11-87-1	71291454358760221	Imbabura Quechua	imba1240	the price	PRICE	657		prisyu	prisyu 
+741	37-11-88-1	71291454271414173	Imbabura Quechua	imba1240	expensive	EXPENSIVE	1426		karu (2)	karu (2) 
+742	37-11-89-1	71291454998006609	Imbabura Quechua	imba1240	cheap	CHEAP	1887		baratu	baratu 
+743	37-11-91-1	71291454658052753	Imbabura Quechua	imba1240	to share	SHARE	884		repartina	repartina 
+744	37-11-92-1	71291454173046445	Imbabura Quechua	imba1240	to weigh	WEIGH	1098		llashana	llashana 
+745	37-12-01-1	71291454922386382	Imbabura Quechua	imba1240	after	AFTER	1685		jipa	jipa 
+746	37-12-011-1	712914542402401	Imbabura Quechua	imba1240	behind	BEHIND	1686		washa (2)	washa (2) 
+747	37-12-02-1	7129145493437390	Imbabura Quechua	imba1240	beside	BESIDE	1816		manya (1)	manya (1) 
+748	37-12-03-1	71291454676640438	Imbabura Quechua	imba1240	down	DOWN	1326		uray (1)	uray (1) 
+749	37-12-04-1	71291454717403656	Imbabura Quechua	imba1240	before	BEFORE	1882		ñaupa (1)	ñaupa (1) 
+750	37-12-041-1	7129145426785244	Imbabura Quechua	imba1240	in front of	IN FRONT OF	1883		ñaupak	ñaupak 
+751	37-12-05-1	7129145480738421	Imbabura Quechua	imba1240	inside	INSIDE	1606		uku (1)	uku (1) 
+752	37-12-06-1	7129145410168197	Imbabura Quechua	imba1240	outside	OUTSIDE	762		kanlla	kanlla 
+753	37-12-07-1	71291454382369149	Imbabura Quechua	imba1240	under	BELOW OR UNDER	1485		uray (2)	uray (2) 
+754	37-12-08-1	71291454682678974	Imbabura Quechua	imba1240	up	UP	1591		jawa (1)	jawa (1) 
+755	37-12-11-1	71291454343723436	Imbabura Quechua	imba1240	the place	PLACE (POSITION)	723		pushtu	pushtu 
+756	37-12-12-1	71291454285641598	Imbabura Quechua	imba1240	to put	PUT	998		churana	churana 
+757	37-12-13-1	71291454288170088	Imbabura Quechua	imba1240	to sit	SIT	1416		tiyarina (1)	tiyarina (1) 
+758	37-12-14-1	71291454359655147	Imbabura Quechua	imba1240	to lie down	LIE DOWN	215		sirina	sirina 
+759	37-12-15-1	71291454432393819	Imbabura Quechua	imba1240	to stand	STAND	1442		shayarina	shayarina 
+760	37-12-16-1	71291454739570231	Imbabura Quechua	imba1240	to remain	REMAIN	987		sakirina	sakirina 
+761	37-12-17-1	71291454522184845	Imbabura Quechua	imba1240	the remains	REMAINS	838		puchu	puchu 
+762	37-12-21-1	71291454221932498	Imbabura Quechua	imba1240	to gather	GATHER	7		tandachina (1)	tandachina (1) 
+763	37-12-212-1	7129145437003458	Imbabura Quechua	imba1240	to pick up	PICK UP	371		tandachina (3)	tandachina (3) 
+764	37-12-213-1	71291454990952075	Imbabura Quechua	imba1240	to pile up	PILE UP	1576		muntunana	muntunana 
+765	37-12-22-1	71291454164599174	Imbabura Quechua	imba1240	to join	JOIN	1743		tandachina (2)	tandachina (2) 
+766	37-12-23-1	7129145491673550	Imbabura Quechua	imba1240	to separate	SEPARATE	1359		shicanyachina	shicanyachina 
+767	37-12-232-1	71291454767668037	Imbabura Quechua	imba1240	to divide	DIVIDE	1119		partina	partina 
+768	37-12-24-1	71291454733530955	Imbabura Quechua	imba1240	to open	OPEN	1156		pascana	pascana 
+769	37-12-25-1	71291454806059477	Imbabura Quechua	imba1240	to shut	SHUT	1046		bichkana	bichkana 
+770	37-12-26-1	71291454537782934	Imbabura Quechua	imba1240	to cover	COVER	761		killpana	killpana 
+771	37-12-27-1	71291454347497901	Imbabura Quechua	imba1240	to hide	HIDE (CONCEAL)	602		pakana	pakana 
+772	37-12-31-1	71291454108730736	Imbabura Quechua	imba1240	high	HIGH	1265		jatun	jatun 
+773	37-12-32-1	71291454875439616	Imbabura Quechua	imba1240	low	LOW	721		uchilla	uchilla 
+774	37-12-33-1	71291454304089675	Imbabura Quechua	imba1240	the top	TOP	1753		jawa (2)	jawa (2) 
+775	37-12-34-1	71291454584721003	Imbabura Quechua	imba1240	the bottom	BOTTOM	690		uku (3)	uku (3) 
+776	37-12-35-1	71291454777750871	Imbabura Quechua	imba1240	the end(1)	END (OF SPACE)	742		tukuri	tukuri 
+777	37-12-352-1	71291454779615354	Imbabura Quechua	imba1240	pointed	POINTED	372		filu	filu 
+778	37-12-353-1	71291454718403963	Imbabura Quechua	imba1240	the edge	EDGE	863		manya	manya 
+779	37-12-36-1	71291454718403963	Imbabura Quechua	imba1240	the side	SIDE	682		manya	manya 
+780	37-12-37-1	71291454389141318	Imbabura Quechua	imba1240	the middle	MIDDLE	1093		chaupi (1)	chaupi (1) 
+781	37-12-41-1	71291454541201007	Imbabura Quechua	imba1240	right(1)	RIGHT	1019		ali ladu	ali ladu 
+782	37-12-42-1	71291454544057132	Imbabura Quechua	imba1240	left	LEFT	244		lluki ladu	lluki ladu 
+783	37-12-43-1	71291454595571970	Imbabura Quechua	imba1240	near	NEAR	1942		kailllalla	kailllalla 
+784	37-12-44-1	71291454138434551	Imbabura Quechua	imba1240	far	FAR	1406		karu (1)	karu (1) 
+785	37-12-45-1	71291454185757105	Imbabura Quechua	imba1240	the east	EAST	1877		inti llujshina ladu	inti llujshina ladu 
+786	37-12-46-1	71291454303918603	Imbabura Quechua	imba1240	the west	WEST	1817		inti yaikuna ladu	inti yaikuna ladu 
+787	37-12-47-1	71291454226799917	Imbabura Quechua	imba1240	the north	NORTH	1598		urai	urai 
+788	37-12-48-1	71291454261160471	Imbabura Quechua	imba1240	the south	SOUTH	1595		bichai	bichai 
+789	37-12-53-1	71291454462089183	Imbabura Quechua	imba1240	to grow	GROW	479		jatunyana	jatunyana 
+790	37-12-54-1	71291454689747609	Imbabura Quechua	imba1240	to measure	MEASURE	1506		midina	midina 
+791	37-12-541-1	7129145499500720	Imbabura Quechua	imba1240	the fathom	FATHOM	81		brasa	brasa 
+792	37-12-55-1	71291454108730736	Imbabura Quechua	imba1240	big	BIG	1202		jatun	jatun 
+793	37-12-56-1	71291454875439616	Imbabura Quechua	imba1240	small	SMALL	1246		uchilla	uchilla 
+794	37-12-57-1	71291454183882420	Imbabura Quechua	imba1240	long	LONG	1203		suni	suni 
+795	37-12-58-1	71291454108730736	Imbabura Quechua	imba1240	tall	TALL	711		jatun	jatun 
+796	37-12-59-1	71291454875439616	Imbabura Quechua	imba1240	short	SHORT	1645		uchilla	uchilla 
+797	37-12-61-1	712914547418512	Imbabura Quechua	imba1240	wide	WIDE	1243		anchu	anchu 
+798	37-12-62-1	71291454741826780	Imbabura Quechua	imba1240	narrow	NARROW	1267		kichiji	kichiji 
+799	37-12-63-1	7129145497890439	Imbabura Quechua	imba1240	thick	THICK	1244		raku	raku 
+800	37-12-65-1	712914544310731	Imbabura Quechua	imba1240	thin	THIN (OF SHAPE OF OBJECT)	2249		ñañu	ñañu 
+801	37-12-67-1	71291454145974465	Imbabura Quechua	imba1240	deep	DEEP	1593		jundu (2)	jundu (2) 
+802	37-12-68-1	71291454441853292	Imbabura Quechua	imba1240	shallow	SHALLOW	193		ashalla	ashalla 
+803	37-12-71-1	71291454758242831	Imbabura Quechua	imba1240	flat	FLAT	1633		pamballa	pamballa 
+804	37-12-73-1	71291454824487850	Imbabura Quechua	imba1240	straight	STRAIGHT	1404		dirichu	dirichu 
+805	37-12-74-1	71291454830494853	Imbabura Quechua	imba1240	crooked	CROOKED	297		kingu	kingu 
+806	37-12-75-1	71291454225130252	Imbabura Quechua	imba1240	the hook	HOOK	1071		charina (3)	charina (3) 
+807	37-12-76-1	71291454326647799	Imbabura Quechua	imba1240	the corner	CORNER	192		kuchu	kuchu 
+808	37-12-77-1	71291454270571926	Imbabura Quechua	imba1240	the cross	CROSS	1367		krus	krus 
+809	37-12-78-1	71291454528338209	Imbabura Quechua	imba1240	the square	SQUARE	850		kwadradu	kwadradu 
+810	37-12-81-1	71291454646848906	Imbabura Quechua	imba1240	round	ROUND	1395		muyundi	muyundi 
+811	37-12-82-1	71291454359655936	Imbabura Quechua	imba1240	the circle	CIRCLE	1467		muyushka	muyushka 
+812	37-12-83-1	71291454114535692	Imbabura Quechua	imba1240	the ball	BALL	1845		muyundin	muyundin 
+813	37-12-84-1	71291454598465160	Imbabura Quechua	imba1240	the line	LINE	1048		wachu (1)	wachu (1) 
+814	37-12-85-1	71291454617850437	Imbabura Quechua	imba1240	the hole	HOLE	1667		utuju	utuju 
+815	37-12-92-1	7129145436233212	Imbabura Quechua	imba1240	similar	SIMILAR	1558		chayshina	chayshina 
+816	37-12-93-1	71291454356888929	Imbabura Quechua	imba1240	to change	CHANGE	1264		kambyana	kambyana 
+817	37-13-1	71291454149520448	Imbabura Quechua	imba1240	zero	ZERO	1294		illak (1)	illak (1) 
+818	37-13-01-1	7129145473588365	Imbabura Quechua	imba1240	one	ONE	1493		shuk	shuk 
+819	37-13-02-1	71291454224754278	Imbabura Quechua	imba1240	two	TWO	1498		ishkay	ishkay 
+820	37-13-03-1	71291454513763383	Imbabura Quechua	imba1240	three	THREE	492		kimsa	kimsa 
+821	37-13-04-1	71291454334088039	Imbabura Quechua	imba1240	four	FOUR	1500		chusku	chusku 
+822	37-13-05-1	71291454222008364	Imbabura Quechua	imba1240	five	FIVE	493		pishka	pishka 
+823	37-13-06-1	71291454985013621	Imbabura Quechua	imba1240	six	SIX	1703		sukta	sukta 
+824	37-13-07-1	7129145461168765	Imbabura Quechua	imba1240	seven	SEVEN	1704		kanchis	kanchis 
+825	37-13-08-1	71291454797596960	Imbabura Quechua	imba1240	eight	EIGHT	1705		pusak	pusak 
+826	37-13-09-1	71291454919847144	Imbabura Quechua	imba1240	nine	NINE	1483		iskun	iskun 
+827	37-13-1-1	71291454430037199	Imbabura Quechua	imba1240	ten	TEN	1515		chunga	chunga 
+828	37-13-101-1	71291454305204219	Imbabura Quechua	imba1240	eleven	ELEVEN	1706		chunga shuk	chunga shuk 
+829	37-13-102-1	71291454356580443	Imbabura Quechua	imba1240	twelve	TWELVE	1707		chunga ishkay	chunga ishkay 
+830	37-13-103-1	7129145436651616	Imbabura Quechua	imba1240	fifteen	FIFTEEN	1709		chunga pishka	chunga pishka 
+831	37-13-104-1	71291454697281702	Imbabura Quechua	imba1240	twenty	TWENTY	1710		ishkay chunga	ishkay chunga 
+832	37-13-105-1	71291454347750809	Imbabura Quechua	imba1240	a hundred	HUNDRED	1634		patsaj	patsaj 
+833	37-13-106-1	71291454820089904	Imbabura Quechua	imba1240	a thousand	THOUSAND	1843		waranga	waranga 
+834	37-13-107-1	71291454283962810	Imbabura Quechua	imba1240	to count	COUNT	1420		yupana (1)	yupana (1) 
+835	37-13-14-1	71291454460540005	Imbabura Quechua	imba1240	all	ALL	98		tukuy	tukuy 
+836	37-13-15-1	71291454673937244	Imbabura Quechua	imba1240	many	MANY	1198		achka (1)	achka (1) 
+837	37-13-16-1	71291454546876342	Imbabura Quechua	imba1240	more	MORE	1992		ashtawan	ashtawan 
+838	37-13-17-1	71291454379375321	Imbabura Quechua	imba1240	few	FEW	1242		asha	asha 
+839	37-13-18-1	71291454799828247	Imbabura Quechua	imba1240	enough	ENOUGH	1881		achka (2)	achka (2) 
+840	37-13-181-1	71291454864111379	Imbabura Quechua	imba1240	some	SOME	1241		wakin	wakin 
+841	37-13-19-1	71291454923541075	Imbabura Quechua	imba1240	the crowd	CROWD	2023		achka jinti	achka jinti 
+842	37-13-21-1	71291454619421487	Imbabura Quechua	imba1240	full	FULL	1429		junda	junda 
+843	37-13-22-1	71291454577787217	Imbabura Quechua	imba1240	empty	EMPTY	1624		chushaj	chushaj 
+844	37-13-23-1	71291454337776465	Imbabura Quechua	imba1240	the part	PART	779		fiti	fiti 
+845	37-13-24-1	71291454646765862	Imbabura Quechua	imba1240	the half	HALF	816		chaupi (2)	chaupi (2) 
+846	37-13-33-1	8152123982090876	Imbabura Quechua	imba1240	only	ONLY	1580		-lla	-lla 
+847	37-13-34-1	71291454332406980	Imbabura Quechua	imba1240	first	FIRST	728		ñaupa (2)	ñaupa (2) 
+848	37-13-35-1	71291454702454978	Imbabura Quechua	imba1240	last	LAST (FINAL)	1529		puchukay	puchukay 
+849	37-13-36-1	71291454482685168	Imbabura Quechua	imba1240	second	SECOND	1384		ishkayniki	ishkayniki 
+850	37-13-37-1	71291454163294329	Imbabura Quechua	imba1240	the pair	PAIR	1888		ishkantin	ishkantin 
+851	37-13-38-1	71291454275100834	Imbabura Quechua	imba1240	twice/two times	TWICE	1546		ishkay kutin	ishkay kutin 
+852	37-13-42-1	71291454794180507	Imbabura Quechua	imba1240	third	THIRD	1859		kimsaniki	kimsaniki 
+853	37-13-44-1	71291454617815307	Imbabura Quechua	imba1240	three times	THREE TIMES	417		kimsa kutin	kimsa kutin 
+854	37-14-11-1	71291454325854412	Imbabura Quechua	imba1240	the time	TIME	892		timpu	timpu 
+855	37-14-13-1	7129145482799244	Imbabura Quechua	imba1240	new	NEW	1231		mushuj	mushuj 
+856	37-14-14-1	71291454421379144	Imbabura Quechua	imba1240	young	YOUNG	1207		llullu (1)	llullu (1) 
+857	37-14-15-1	71291454658655423	Imbabura Quechua	imba1240	old	OLD	1229		ruku	ruku 
+858	37-14-16-1	71291454820600167	Imbabura Quechua	imba1240	early	EARLY	672		tutamanda	tutamanda 
+859	37-14-17-1	71291454374216374	Imbabura Quechua	imba1240	late	LATE	477		jipayashka	jipayashka 
+860	37-14-18-1	71291454143055318	Imbabura Quechua	imba1240	now	NOW	1376		kunan (1)	kunan (1) 
+861	37-14-19-1	7129145470723359	Imbabura Quechua	imba1240	immediately	IMMEDIATELY	1963		ñapash	ñapash 
+862	37-14-21-1	71291454750109917	Imbabura Quechua	imba1240	fast	FAST	1631		utya	utya 
+863	37-14-22-1	71291454853672254	Imbabura Quechua	imba1240	slow	SLOW	701		alimanda	alimanda 
+864	37-14-23-1	71291454952583785	Imbabura Quechua	imba1240	to hurry	HURRY	754		utkana	utkana 
+865	37-14-24-1	71291454897871791	Imbabura Quechua	imba1240	to be late	BE LATE	425		unayana	unayana 
+866	37-14-25-1	71291454521804861	Imbabura Quechua	imba1240	to begin	BEGIN	1806		kallarina	kallarina 
+867	37-14-26-1	71291454777750871	Imbabura Quechua	imba1240	the end(2)	END (OF TIME)	743		tukuri	tukuri 
+868	37-14-27-1	71291454674946843	Imbabura Quechua	imba1240	to finish	FINISH	1766		tukurina	tukurina 
+869	37-14-28-1	71291454792359141	Imbabura Quechua	imba1240	to cease	CEASE	1928		puchukana	puchukana 
+870	37-14-29-1	71291454892754812	Imbabura Quechua	imba1240	ready	READY	790		ña	ña 
+871	37-14-31-1	71291454773368709	Imbabura Quechua	imba1240	always	ALWAYS	1676		simpri	simpri 
+872	37-14-32-1	71291454431382071	Imbabura Quechua	imba1240	often	OFTEN	1852		kutin kutin	kutin kutin 
+873	37-14-33-1	71291454124211047	Imbabura Quechua	imba1240	sometimes	SOMETIMES	1544		wakinpi	wakinpi 
+874	37-14-331-1	7129145470723359	Imbabura Quechua	imba1240	soon	SOON	703		ñapash	ñapash 
+875	37-14-332-1	71291454199168156	Imbabura Quechua	imba1240	for a long time	FOR A LONG TIME	418		unay	unay 
+876	37-14-34-1	71291454226904348	Imbabura Quechua	imba1240	never	NEVER	1656		mana pacha	mana pacha 
+877	37-14-35-1	71291454524796963	Imbabura Quechua	imba1240	again	AGAIN	204		kutin	kutin 
+878	37-14-41-1	71291454150315686	Imbabura Quechua	imba1240	the day(1)	DAY (24 HOURS)	1260		puncha	puncha 
+879	37-14-42-1	71291454375638422	Imbabura Quechua	imba1240	the night	NIGHT	1233		tuta	tuta 
+880	37-14-43-1	71291454820600167	Imbabura Quechua	imba1240	the dawn	DAWN	729		tutamanda	tutamanda 
+881	37-14-45-1	71291454882936336	Imbabura Quechua	imba1240	the midday	MIDDAY	12		chaupi puncha	chaupi puncha 
+882	37-14-451-1	7129145480520666	Imbabura Quechua	imba1240	the afternoon	AFTERNOON	1807		chishi	chishi 
+883	37-14-46-1	71291454375638422	Imbabura Quechua	imba1240	the evening	EVENING	1629		tuta	tuta 
+884	37-14-47-1	71291454725513699	Imbabura Quechua	imba1240	today	TODAY	1283		kunan (2)	kunan (2) 
+885	37-14-48-1	71291454381836128	Imbabura Quechua	imba1240	tomorrow	TOMORROW	1329		kaya	kaya 
+886	37-14-481-1	71291454893171695	Imbabura Quechua	imba1240	the day after tomorrow	DAY AFTER TOMORROW	1179		mincha	mincha 
+887	37-14-49-1	71291454822481896	Imbabura Quechua	imba1240	yesterday	YESTERDAY	1174		kayna	kayna 
+888	37-14-491-1	71291454438039005	Imbabura Quechua	imba1240	the day before yesterday	DAY BEFORE YESTERDAY	1180		kayna chay shuk puncha	kayna chay shuk puncha 
+889	37-14-51-1	71291454711326949	Imbabura Quechua	imba1240	the hour	HOUR	1353		uras	uras 
+890	37-14-53-1	71291454720690501	Imbabura Quechua	imba1240	the clock	CLOCK	1323		riluju	riluju 
+891	37-14-61-1	7129145444823620	Imbabura Quechua	imba1240	the week	WEEK	1469		simana	simana 
+892	37-14-62-1	71291454575238098	Imbabura Quechua	imba1240	Sunday	SUNDAY	1699		dumingo	dumingo 
+893	37-14-63-1	71291454423915917	Imbabura Quechua	imba1240	Monday	MONDAY	1697		lunis	lunis 
+894	37-14-64-1	71291454472598824	Imbabura Quechua	imba1240	Tuesday	TUESDAY	1695		martis	martis 
+895	37-14-65-1	71291454851780597	Imbabura Quechua	imba1240	Wednesday	WEDNESDAY	1694		mircules	mircules 
+896	37-14-66-1	71291454784001296	Imbabura Quechua	imba1240	Thursday	THURSDAY	1693		jwibes	jwibes 
+897	37-14-67-1	71291454292760077	Imbabura Quechua	imba1240	Friday	FRIDAY	1692		birnes	birnes 
+898	37-14-68-1	71291454712612001	Imbabura Quechua	imba1240	Saturday	SATURDAY	1700		sabadu	sabadu 
+899	37-14-71-1	71291454492865262	Imbabura Quechua	imba1240	the month	MONTH	1370		killa (3)	killa (3) 
+900	37-14-73-1	71291454891890191	Imbabura Quechua	imba1240	the year	YEAR	1226		wata	wata 
+901	37-14-74-1	71291454764143876	Imbabura Quechua	imba1240	the winter	WINTER	1471		tamya killa	tamya killa 
+902	37-14-75-1	71291454721181645	Imbabura Quechua	imba1240	the spring(2)	SPRINGTIME	1537		sisa killa	sisa killa 
+903	37-14-76-1	71291454508479682	Imbabura Quechua	imba1240	the summer	SUMMER	1342		wayra killa	wayra killa 
+904	37-14-78-1	71291454840295650	Imbabura Quechua	imba1240	the season	SEASON	691		killa (4)	killa (4) 
+905	37-15-21-1	71291454391747520	Imbabura Quechua	imba1240	to smell(1)	SMELL (STINK)	1587		mutijina	mutijina 
+906	37-15-89-1	71291454926818216	Imbabura Quechua	imba1240	wrinkled	WRINKLED	380		sipulla	sipulla 
+907	37-15-212-1	71291454391747520	Imbabura Quechua	imba1240	to sniff	SNIFF	375		mutijina	mutijina 
+908	37-15-22-1	71291454391747520	Imbabura Quechua	imba1240	to smell(2)	SMELL (PERCEIVE)	1586		mutijina	mutijina 
+909	37-15-25-1	71291454480731562	Imbabura Quechua	imba1240	fragrant	FRAGRANT	376		sumak mutiji	sumak mutiji 
+910	37-15-26-1	71291454524131578	Imbabura Quechua	imba1240	stinking	STINKING	42		ashnajuk	ashnajuk 
+911	37-15-31-1	71291454617682447	Imbabura Quechua	imba1240	to taste	TASTE (SOMETHING)	21		gushtana	gushtana 
+912	37-15-35-1	71291454211862975	Imbabura Quechua	imba1240	sweet	SWEET	717		mishki	mishki 
+913	37-15-36-1	71291454781002077	Imbabura Quechua	imba1240	salty	SALTY	1091		kachiyashka	kachiyashka 
+914	37-15-37-1	71291454806313486	Imbabura Quechua	imba1240	bitter	BITTER	887		jayaj (1)	jayaj (1) 
+915	37-15-38-1	71291454199249744	Imbabura Quechua	imba1240	sour	SOUR	1906		jayaj (2)	jayaj (2) 
+916	37-15-39-1	71291454972078780	Imbabura Quechua	imba1240	brackish	BRACKISH	70		kachi yaku	kachi yaku 
+917	37-15-41-1	71291454507112422	Imbabura Quechua	imba1240	to hear	HEAR	1408		uyana (1)	uyana (1) 
+918	37-15-42-1	71291454506725351	Imbabura Quechua	imba1240	to listen	LISTEN	1608		uyana (2)	uyana (2) 
+919	37-15-44-1	71291454946681466	Imbabura Quechua	imba1240	the sound or noise	SOUND OR NOISE	1811		bulla	bulla 
+920	37-15-45-1	71291454764528368	Imbabura Quechua	imba1240	loud	LOUD	377		sinchi rimay	sinchi rimay 
+921	37-15-46-1	71291454969286443	Imbabura Quechua	imba1240	quiet	QUIET	1314		upalla	upalla 
+922	37-15-51-1	71291454333715694	Imbabura Quechua	imba1240	to see	SEE	1409		rikuna (1)	rikuna (1) 
+923	37-15-52-1	71291454541650166	Imbabura Quechua	imba1240	to look	LOOK	1819		rikuna (2)	rikuna (2) 
+924	37-15-55-1	71291454427081209	Imbabura Quechua	imba1240	to show	SHOW	1039		rikuchina	rikuchina 
+925	37-15-56-1	71291454553545996	Imbabura Quechua	imba1240	to shine	SHINE	708		punchashayana	punchashayana 
+926	37-15-57-1	71291454978339595	Imbabura Quechua	imba1240	bright	BRIGHT	679		punchalla	punchalla 
+927	37-15-61-1	71291454706018441	Imbabura Quechua	imba1240	the colour/color	COLOR	1613		kulur	kulur 
+928	37-15-62-1	71291454978339595	Imbabura Quechua	imba1240	light(2)	LIGHT (COLOR)	250		punchalla	punchalla 
+929	37-15-63-1	7129145484249862	Imbabura Quechua	imba1240	dark	DARK	706		yanalla	yanalla 
+930	37-15-64-1	71291454106526426	Imbabura Quechua	imba1240	white	WHITE	1335		yuraj	yuraj 
+931	37-15-65-1	71291454726400177	Imbabura Quechua	imba1240	black	BLACK	163		yana	yana 
+932	37-15-66-1	71291454959358608	Imbabura Quechua	imba1240	red	RED	156		puka	puka 
+933	37-15-67-1	71291454683816265	Imbabura Quechua	imba1240	blue	BLUE	837		asul	asul 
+934	37-15-68-1	71291454198619183	Imbabura Quechua	imba1240	green	GREEN	1425		birdi	birdi 
+935	37-15-69-1	71291454504749640	Imbabura Quechua	imba1240	yellow	YELLOW	1424		killu	killu 
+936	37-15-71-1	71291454740524030	Imbabura Quechua	imba1240	to touch	TOUCH	1892		takarina	takarina 
+937	37-15-712-1	71291454625110376	Imbabura Quechua	imba1240	to pinch	PINCH	378		tipsina	tipsina 
+938	37-15-72-1	71291454143130218	Imbabura Quechua	imba1240	to feel	FEEL	1079		sintina	sintina 
+939	37-15-74-1	71291454644134014	Imbabura Quechua	imba1240	hard	HARD	1884		sinchi	sinchi 
+940	37-15-75-1	71291454211839503	Imbabura Quechua	imba1240	soft	SOFT	1856		amuklla	amuklla 
+941	37-15-76-1	71291454172036354	Imbabura Quechua	imba1240	rough(1)	ROUGH	1923		shagra	shagra 
+942	37-15-77-1	71291454211839503	Imbabura Quechua	imba1240	smooth	SMOOTH	1234		amuklla	amuklla 
+943	37-15-78-1	71291454884477931	Imbabura Quechua	imba1240	sharp	SHARP	1396		filulla	filulla 
+944	37-15-79-1	71291454503258900	Imbabura Quechua	imba1240	blunt	BLUNT	379		llambu	llambu 
+945	37-15-81-1	71291454252883255	Imbabura Quechua	imba1240	heavy	HEAVY	1210		llashaj	llashaj 
+946	37-15-82-1	71291454231980290	Imbabura Quechua	imba1240	light(1)	LIGHT (WEIGHT)	1052		fangalla (2)	fangalla (2) 
+947	37-15-83-1	71291454228033890	Imbabura Quechua	imba1240	wet	WET	1726		shutushka	shutushka 
+948	37-15-84-1	71291454793563668	Imbabura Quechua	imba1240	dry	DRY	1398		chakishka	chakishka 
+949	37-15-85-1	71291454435162709	Imbabura Quechua	imba1240	hot	HOT	1286		kunuk	kunuk 
+950	37-15-851-1	71291454555845138	Imbabura Quechua	imba1240	warm	WARM	1232		kunuklla	kunuklla 
+951	37-15-86-1	71291454387150881	Imbabura Quechua	imba1240	cold	COLD	1287		chiri	chiri 
+952	37-15-87-1	71291454496517611	Imbabura Quechua	imba1240	clean	CLEAN	704		achiklla	achiklla 
+953	37-15-88-1	71291454301848895	Imbabura Quechua	imba1240	dirty	DIRTY	1230		mapa	mapa 
+954	37-16-11-1	71291454935229965	Imbabura Quechua	imba1240	the soul or spirit	SOUL	811		alma	alma 
+955	37-16-15-1	71291454834831875	Imbabura Quechua	imba1240	surprised or astonished	SURPRISED	1572		mancharishka	mancharishka 
+956	37-16-18-1	7129145476257557	Imbabura Quechua	imba1240	the good luck	GOOD LUCK	720		ali washa	ali washa 
+957	37-16-19-1	71291454623241022	Imbabura Quechua	imba1240	the bad luck	BAD LUCK	56		chiki	chiki 
+958	37-16-23-1	7129145481685446	Imbabura Quechua	imba1240	happy	HAPPY	1495		kushilla	kushilla 
+959	37-16-25-1	71291454488616919	Imbabura Quechua	imba1240	to laugh	LAUGH	1355		asina	asina 
+960	37-16-251-1	71291454546458745	Imbabura Quechua	imba1240	to smile	SMILE	1451		asirina	asirina 
+961	37-16-26-1	71291454456766347	Imbabura Quechua	imba1240	to play	PLAY	1413		pugllana	pugllana 
+962	37-16-27-1	71291454416448517	Imbabura Quechua	imba1240	to love	LOVE	923		juyana	juyana 
+963	37-16-29-1	71291454418187354	Imbabura Quechua	imba1240	to kiss	KISS	578		muchana	muchana 
+964	37-16-3-1	71291454880628785	Imbabura Quechua	imba1240	to embrace	EMBRACE	928		ugllana	ugllana 
+965	37-16-31-1	71291454761353407	Imbabura Quechua	imba1240	the pain	PAIN	1783		nanai	nanai 
+966	37-16-32-1	71291454401576905	Imbabura Quechua	imba1240	the grief	GRIEF	1668		llaki	llaki 
+967	37-16-33-1	71291454401576905	Imbabura Quechua	imba1240	the anxiety	ANXIETY	1000		llaki	llaki 
+968	37-16-34-1	7129145468074929	Imbabura Quechua	imba1240	to regret or be sorry	REGRET	1875		llakirina	llakirina 
+969	37-16-35-1	71291454580683486	Imbabura Quechua	imba1240	the pity	PITY	1141		llakina	llakina 
+970	37-16-37-1	71291454135419006	Imbabura Quechua	imba1240	to cry	CRY	1839		wakana	wakana 
+971	37-16-38-1	71291454517531994	Imbabura Quechua	imba1240	the tear	TEAR (OF EYE)	1651		biki	biki 
+972	37-16-39-1	71291454485413920	Imbabura Quechua	imba1240	to groan	GROAN	716		wakarina	wakarina 
+973	37-16-41-1	71291454810442537	Imbabura Quechua	imba1240	to hate	HATE	1607		fiñana	fiñana 
+974	37-16-42-1	71291454391141456	Imbabura Quechua	imba1240	the anger	ANGER	82		fiña (1)	fiña (1) 
+975	37-16-45-1	7129145426662215	Imbabura Quechua	imba1240	the shame	SHAME	1776		pingay	pingay 
+976	37-16-48-1	71291454123833325	Imbabura Quechua	imba1240	proud	PROUD	174		jariyashka	jariyashka 
+977	37-16-51-1	71291454365542753	Imbabura Quechua	imba1240	to dare	DARE	1779		atribina	atribina 
+978	37-16-52-1	71291454510436861	Imbabura Quechua	imba1240	brave	BRAVE	3		jari jari	jari jari 
+979	37-16-53-1	71291454932785119	Imbabura Quechua	imba1240	the fear	FEAR (FRIGHT)	781		manchay	manchay 
+980	37-16-54-1	71291454401576905	Imbabura Quechua	imba1240	the danger	DANGER	1810		llaki	llaki 
+981	37-16-62-1	71291454208482296	Imbabura Quechua	imba1240	to want	WANT	1784		munana	munana 
+982	37-16-622-1	71291454221770629	Imbabura Quechua	imba1240	to choose	CHOOSE	1750		akllana (1)	akllana (1) 
+983	37-16-65-1	71291454300733172	Imbabura Quechua	imba1240	faithful	FAITHFUL	100		ali shungu	ali shungu 
+984	37-16-66-1	7129145420069987	Imbabura Quechua	imba1240	true	TRUE	1657		ali willay	ali willay 
+985	37-16-67-1	71291454233021790	Imbabura Quechua	imba1240	to lie(2)	LIE (MISLEAD)	601		llullana (1)	llullana (1) 
+986	37-16-68-1	7129145424943205	Imbabura Quechua	imba1240	the deceit	DECEIT	13		llullay	llullay 
+987	37-16-69-1	71291454227846230	Imbabura Quechua	imba1240	to forgive	FORGIVE	1528		kishpichina (2)	kishpichina (2) 
+988	37-16-71-1	71291454281657258	Imbabura Quechua	imba1240	good	GOOD	1035		ali	ali 
+989	37-16-72-1	71291454998205825	Imbabura Quechua	imba1240	bad	BAD	1292		millay	millay 
+990	37-16-73-1	71291454281657258	Imbabura Quechua	imba1240	right(2)	CORRECT (RIGHT)	1725		ali	ali 
+991	37-16-74-1	71291454984488	Imbabura Quechua	imba1240	wrong	WRONG	1390		mana ali	mana ali 
+992	37-16-76-1	7129145452718650	Imbabura Quechua	imba1240	the fault	FAULT	134		jatun jucha (1)	jatun jucha (1) 
+993	37-16-77-1	71291454137892981	Imbabura Quechua	imba1240	the mistake	MISTAKE	1293		pantay	pantay 
+994	37-16-78-1	7129145431281984	Imbabura Quechua	imba1240	the blame	BLAME	381		jucha (2)	jucha (2) 
+995	37-16-79-1	71291454607110026	Imbabura Quechua	imba1240	the praise	PRAISE	1687		juyayay	juyayay 
+996	37-16-81-1	71291454541556823	Imbabura Quechua	imba1240	beautiful	BEAUTIFUL	1427		sumak	sumak 
+997	37-16-82-1	71291454441294103	Imbabura Quechua	imba1240	ugly	UGLY	1548		manchanayay	manchanayay 
+998	37-16-84-1	71291454327120829	Imbabura Quechua	imba1240	clever	CLEVER	1310		ushak	ushak 
+999	37-17-11-1	71291454990808619	Imbabura Quechua	imba1240	the mind	MIND	1562		yuyay (2)	yuyay (2) 
+1000	37-17-13-1	71291454648820306	Imbabura Quechua	imba1240	to think(1)	THINK (REFLECT)	1415		yuyana	yuyana 
+1001	37-17-14-1	71291454648820306	Imbabura Quechua	imba1240	to think(2)	THINK (BELIEVE)	1513		yuyana	yuyana 
+1002	37-17-15-1	71291454361603858	Imbabura Quechua	imba1240	to believe	BELIEVE	1890		kriyina	kriyina 
+1003	37-17-16-1	7129145410314442	Imbabura Quechua	imba1240	to understand	UNDERSTAND	1536		intindina	intindina 
+1004	37-17-17-1	71291454569309405	Imbabura Quechua	imba1240	to know	KNOW (SOMETHING)	1410		yachana	yachana 
+1005	37-17-171-1	71291454394968284	Imbabura Quechua	imba1240	to guess	GUESS	1932		adibinana	adibinana 
+1006	37-17-172-1	71291454845703138	Imbabura Quechua	imba1240	to imitate	IMITATE	117		katina (3)	katina (3) 
+1007	37-17-18-1	712914549660194	Imbabura Quechua	imba1240	to seem	SEEM	1521		rikchana	rikchana 
+1008	37-17-19-1	71291454232676032	Imbabura Quechua	imba1240	the idea	IDEA	1609		yuyay (1)	yuyay (1) 
+1009	37-17-21-1	71291454597502778	Imbabura Quechua	imba1240	wise	WISE	698		yachak	yachak 
+1010	37-17-22-1	71291454793253320	Imbabura Quechua	imba1240	stupid	STUPID	1518		muspa	muspa 
+1011	37-17-23-1	712914547501699	Imbabura Quechua	imba1240	mad	MAD	1899		yuyay chingashka	yuyay chingashka 
+1012	37-17-24-1	71291454597410525	Imbabura Quechua	imba1240	to learn	LEARN	504		yachajuna	yachajuna 
+1013	37-17-242-1	71291454597410525	Imbabura Quechua	imba1240	to study	STUDY	1929		yachajuna	yachajuna 
+1014	37-17-25-1	71291454360434091	Imbabura Quechua	imba1240	to teach	TEACH	709		yachachina	yachachina 
+1015	37-17-26-1	71291454268117425	Imbabura Quechua	imba1240	the pupil	PUPIL (STUDENT)	753		yachajuk	yachajuk 
+1016	37-17-27-1	71291454333751480	Imbabura Quechua	imba1240	the teacher	TEACHER	1038		yachachik	yachachik 
+1017	37-17-28-1	71291454166577238	Imbabura Quechua	imba1240	the school	SCHOOL	673		yachana wasi	yachana wasi 
+1018	37-17-31-1	71291454731162805	Imbabura Quechua	imba1240	to remember	REMEMBER	707		yuyarina	yuyarina 
+1019	37-17-32-1	71291454879189648	Imbabura Quechua	imba1240	to forget	FORGET	1523		kungana	kungana 
+1020	37-17-34-1	71291454978339595	Imbabura Quechua	imba1240	clear	CLEAR	989		punchalla	punchalla 
+1021	37-17-35-1	71291454962229230	Imbabura Quechua	imba1240	obscure	OBSCURE	1764		amsa (1)	amsa (1) 
+1022	37-17-36-1	71291454155315751	Imbabura Quechua	imba1240	secret	SECRET	1121		pakalla	pakalla 
+1023	37-17-37-1	71291454190576993	Imbabura Quechua	imba1240	certain	CERTAIN	509		siguru	siguru 
+1024	37-17-38-1	71291454450814597	Imbabura Quechua	imba1240	to explain	EXPLAIN	1626		willana	willana 
+1025	37-17-41-1	71291454232676032	Imbabura Quechua	imba1240	the intention	INTENTION	1162		yuyay (1)	yuyay (1) 
+1026	37-17-42-1	71291454913422489	Imbabura Quechua	imba1240	the cause	CAUSE	860		kawza	kawza 
+1027	37-17-43-1	71291454501160240	Imbabura Quechua	imba1240	the doubt	DOUBT	1308		nakrina	nakrina 
+1028	37-17-441-1	71291454541099998	Imbabura Quechua	imba1240	to betray	BETRAY	1902		llullana (2)	llullana (2) 
+1029	37-17-45-1	71291454110428297	Imbabura Quechua	imba1240	the need or necessity	NEED (NOUN)	643		minishtina	minishtina 
+1030	37-17-46-1	71291454719124287	Imbabura Quechua	imba1240	easy	EASY	686		jawalla	jawalla 
+1031	37-17-47-1	71291454644134014	Imbabura Quechua	imba1240	difficult	DIFFICULT	584		sinchi	sinchi 
+1032	37-17-48-1	71291454412160002	Imbabura Quechua	imba1240	to try	TRY	1812		malina	malina 
+1033	37-17-49-1	71291454995574230	Imbabura Quechua	imba1240	the manner	MANNER	488		shina	shina 
+1034	37-17-51-1	71291454695049493	Imbabura Quechua	imba1240	and	AND	1577		-pash	-pash 
+1035	37-17-52-1	7129145432256481	Imbabura Quechua	imba1240	because	BECAUSE	1157		-manta	-manta 
+1036	37-17-53-1	71291454650301497	Imbabura Quechua	imba1240	if	IF	1459		-kpi	-kpi 
+1037	37-17-54-1	71291454699828709	Imbabura Quechua	imba1240	or	OR	1014		o	o 
+1038	37-17-55-1	71291454298162343	Imbabura Quechua	imba1240	yes	YES	1268		ari	ari 
+1039	37-17-56-1	71291454107110528	Imbabura Quechua	imba1240	no	NO	1269		mana	mana 
+1040	37-17-61-1	71291454824047903	Imbabura Quechua	imba1240	how?	HOW	1239		imashina	imashina 
+1041	37-17-62-1	7129145437288505	Imbabura Quechua	imba1240	how many?	HOW MANY	822		mashna (1)	mashna (1) 
+1042	37-17-63-1	7129145438113224	Imbabura Quechua	imba1240	how much?	HOW MUCH	531		mashna (2)	mashna (2) 
+1043	37-17-64-1	71291454731987271	Imbabura Quechua	imba1240	what?	WHAT	1236		ima	ima 
+1044	37-17-65-1	71291454541984387	Imbabura Quechua	imba1240	when?	WHEN	1238		ima pacha	ima pacha 
+1045	37-17-66-1	71291454197150217	Imbabura Quechua	imba1240	where?	WHERE	1237		may	may 
+1046	37-17-67-1	71291454611949596	Imbabura Quechua	imba1240	which?	WHICH	727		mayjan	mayjan 
+1047	37-17-68-1	71291454638186664	Imbabura Quechua	imba1240	who?	WHO	1235		pi	pi 
+1048	37-17-69-1	71291454428778728	Imbabura Quechua	imba1240	why?	WHY	1270		ima nishpa	ima nishpa 
+1049	37-18-11-1	71291454577231575	Imbabura Quechua	imba1240	the voice	VOICE	1363		rimay	rimay 
+1050	37-18-12-1	71291454613188659	Imbabura Quechua	imba1240	to sing	SING	1261		takina	takina 
+1051	37-18-13-1	71291454148699152	Imbabura Quechua	imba1240	to shout	SHOUT	715		kaparina	kaparina 
+1052	37-18-15-1	7129145426178698	Imbabura Quechua	imba1240	to whisper	WHISPER	55		rimarina	rimarina 
+1053	37-18-16-1	7129145426178698	Imbabura Quechua	imba1240	to mumble	MUMBLE	128		rimarina	rimarina 
+1054	37-18-17-1	71291454863491817	Imbabura Quechua	imba1240	to whistle	WHISTLE	1025		silbana	silbana 
+1055	37-18-18-1	71291454148699152	Imbabura Quechua	imba1240	to shriek	SHRIEK	298		kaparina	kaparina 
+1056	37-18-19-1	71291454903866074	Imbabura Quechua	imba1240	to howl	HOWL	526		awllana	awllana 
+1057	37-18-21-1	71291454720476409	Imbabura Quechua	imba1240	to speak or talk	SPEAK	1623		rimana (1)	rimana (1) 
+1058	37-18-211-1	815129812486433	Imbabura Quechua	imba1240	to stutter or stammer	STUTTER	1866		mana ali rimak	mana ali rimak 
+1059	37-18-22-1	71291454681324798	Imbabura Quechua	imba1240	to say	SAY	1458		nina (1)	nina (1) 
+1060	37-18-221-1	71291454432233243	Imbabura Quechua	imba1240	to tell	TELL	1711		yupana (2)	yupana (2) 
+1061	37-18-222-1	71291454279158251	Imbabura Quechua	imba1240	the speech	SPEECH	1115		rimana (2)	rimana (2) 
+1062	37-18-23-1	71291454305335879	Imbabura Quechua	imba1240	to be silent	BE SILENT	48		upallayana	upallayana 
+1063	37-18-24-1	7129145472699159	Imbabura Quechua	imba1240	the language	LANGUAGE	1307		shimi	shimi 
+1064	37-18-26-1	7129145472699159	Imbabura Quechua	imba1240	the word	WORD	1599		shimi	shimi 
+1065	37-18-28-1	71291454229085950	Imbabura Quechua	imba1240	the name	NAME	1405		shuti	shuti 
+1066	37-18-31-1	71291454503806061	Imbabura Quechua	imba1240	to ask(1)	ASK (INQUIRE)	1309		tapuna	tapuna 
+1067	37-18-32-1	71291454292492431	Imbabura Quechua	imba1240	to answer	ANSWER	1275		kutichina	kutichina 
+1068	37-18-33-1	71291454727588918	Imbabura Quechua	imba1240	to admit	ADMIT	2022		ari nina	ari nina 
+1069	37-18-34-1	71291454804039306	Imbabura Quechua	imba1240	to deny	DENY	755		mana nina	mana nina 
+1070	37-18-35-1	71291454887631801	Imbabura Quechua	imba1240	to ask(2)	ASK (REQUEST)	1828		mañana (1)	mañana (1) 
+1071	37-18-36-1	71291454977387874	Imbabura Quechua	imba1240	to promise	PROMISE	1675		ufrisina	ufrisina 
+1072	37-18-37-1	7129145440694844	Imbabura Quechua	imba1240	to refuse	REFUSE	49		mana nina (1)	mana nina (1) 
+1073	37-18-38-1	71291454637227922	Imbabura Quechua	imba1240	to forbid	FORBID	83		mana nina (2)	mana nina (2) 
+1074	37-18-39-1	71291454864698512	Imbabura Quechua	imba1240	to scold	SCOLD	299		rimana (3)	rimana (3) 
+1075	37-18-41-1	71291454390602201	Imbabura Quechua	imba1240	to call(1)	CALL	1084		kayana (1)	kayana (1) 
+1076	37-18-42-1	8151213283728863	Imbabura Quechua	imba1240	to call(2)	CALL BY NAME	180		kayarina	kayarina 
+1077	37-18-43-1	71291454989577291	Imbabura Quechua	imba1240	to announce	ANNOUNCE	9		billana	billana 
+1078	37-18-44-1	71291454570828974	Imbabura Quechua	imba1240	to threaten	THREATEN	1192		manchachina	manchachina 
+1079	37-18-45-1	71291454682185120	Imbabura Quechua	imba1240	to boast	BOAST	101		yanga rimana	yanga rimana 
+1080	37-18-51-1	71291454343618103	Imbabura Quechua	imba1240	to write	WRITE	1672		kilkana	kilkana 
+1081	37-18-52-1	7129145442773115	Imbabura Quechua	imba1240	to read	READ	724		kilka katina	kilka katina 
+1082	37-18-56-1	71291454103039967	Imbabura Quechua	imba1240	the paper	PAPER	648		papil	papil 
+1083	37-18-57-1	71291454263949676	Imbabura Quechua	imba1240	the pen	PEN	794		kilkana kaspi	kilkana kaspi 
+1084	37-18-61-1	7129145444037429	Imbabura Quechua	imba1240	the book	BOOK	963		kamu	kamu 
+1085	37-18-71-1	71291454351087066	Imbabura Quechua	imba1240	the flute	FLUTE	777		flawta	flawta 
+1086	37-18-72-1	71291454179579757	Imbabura Quechua	imba1240	the drum	DRUM	908		tambur	tambur 
+1087	37-18-73-1	71291454751914411	Imbabura Quechua	imba1240	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		trumpita	trumpita 
+1088	37-19-11-1	7129145471128448	Imbabura Quechua	imba1240	the country	COUNTRY	1300		mama llakta	mama llakta 
+1089	37-19-12-1	7129145471128448	Imbabura Quechua	imba1240	the native country	NATIVE COUNTRY	89		mama llakta	mama llakta 
+1090	37-19-15-1	71291454108623204	Imbabura Quechua	imba1240	the town	TOWN	1391		billa	billa 
+1091	37-19-16-1	71291454174277768	Imbabura Quechua	imba1240	the village	VILLAGE	930		llakta	llakta 
+1092	37-19-17-1	71291454435766481	Imbabura Quechua	imba1240	the boundary	BOUNDARY	1010		linderu	linderu 
+1093	37-19-21-1	71291454850184434	Imbabura Quechua	imba1240	the people	PEOPLE	789		jinti (2)	jinti (2) 
+1094	37-19-23-1	71291454291157950	Imbabura Quechua	imba1240	the clan	CLAN	302		ayllu (3)	ayllu (3) 
+1095	37-19-24-1	71291454775557066	Imbabura Quechua	imba1240	the chieftain	CHIEFTAIN	301		apuk	apuk 
+1096	37-19-25-1	71291454532262701	Imbabura Quechua	imba1240	the walking stick	WALKING STICK	1296		tawna	tawna 
+1097	37-19-31-1	71291454819035186	Imbabura Quechua	imba1240	to rule or govern	RULE	1846		apana (2)	apana (2) 
+1098	37-19-32-1	71291454775557066	Imbabura Quechua	imba1240	the king	KING	1508		apuk	apuk 
+1099	37-19-33-1	71291454775557066	Imbabura Quechua	imba1240	the queen	QUEEN	1306		apuk	apuk 
+1100	37-19-41-1	71291454904971484	Imbabura Quechua	imba1240	the master	MASTER	383		amu	amu 
+1101	37-19-43-1	71291454882648362	Imbabura Quechua	imba1240	the servant	SERVANT	255		sirbyenti	sirbyenti 
+1102	37-19-44-1	71291454808138739	Imbabura Quechua	imba1240	the freeman	FREEMAN	384		swiltu	swiltu 
+1103	37-19-45-1	71291454913825621	Imbabura Quechua	imba1240	to command or order	ORDER	1128		kachana (2)	kachana (2) 
+1104	37-19-46-1	71291454507112422	Imbabura Quechua	imba1240	to obey	OBEY	1635		uyana (1)	uyana (1) 
+1105	37-19-47-1	71291454660007227	Imbabura Quechua	imba1240	to permit	PERMIT	1003		sakina	sakina 
+1106	37-19-51-1	7129145458183576	Imbabura Quechua	imba1240	the friend	FRIEND	1325		mashi	mashi 
+1107	37-19-52-1	71291454792434945	Imbabura Quechua	imba1240	the enemy	ENEMY	1358		fiña (2)	fiña (2) 
+1108	37-19-54-1	71291454719797565	Imbabura Quechua	imba1240	the neighbour	NEIGHBOUR	1332		bizinu	bizinu 
+1109	37-19-55-1	71291454319719256	Imbabura Quechua	imba1240	the stranger	STRANGER	791		wayra apamushka	wayra apamushka 
+1110	37-19-56-1	71291454186326795	Imbabura Quechua	imba1240	the guest	GUEST	1782		minkachishka	minkachishka 
+1111	37-19-57-1	71291454509566745	Imbabura Quechua	imba1240	the host	HOST	1545		minkachik	minkachik 
+1112	37-19-58-1	71291454429768003	Imbabura Quechua	imba1240	to help	HELP	1897		yanapana	yanapana 
+1113	37-19-59-1	71291454192897135	Imbabura Quechua	imba1240	to prevent	PREVENT	1550		jarkana	jarkana 
+1114	37-19-61-1	71291454626373705	Imbabura Quechua	imba1240	the custom	CUSTOM	1747		koshtumbri	koshtumbri 
+1115	37-19-62-1	71291454842988010	Imbabura Quechua	imba1240	the quarrel	QUARREL	1848		makanajuna (2)	makanajuna (2) 
+1116	37-19-65-1	7129145462058064	Imbabura Quechua	imba1240	to meet	MEET	1831		tandanajuna	tandanajuna 
+1117	37-19-72-1	71291454681865552	Imbabura Quechua	imba1240	the prostitute	PROSTITUTE	1610		waricha	waricha 
+1118	37-20-11-1	71291454300835382	Imbabura Quechua	imba1240	to fight	FIGHT	1423		makanajuna (1)	makanajuna (1) 
+1119	37-20-13-1	71291454927899418	Imbabura Quechua	imba1240	the war or battle	BATTLE	579		makanajuy	makanajuy 
+1120	37-20-15-1	71291454221934503	Imbabura Quechua	imba1240	the army	ARMY	1561		aukakuna	aukakuna 
+1121	37-20-17-1	71291454615014236	Imbabura Quechua	imba1240	the soldier	SOLDIER	1941		auka	auka 
+1122	37-20-21-1	8151223753180161	Imbabura Quechua	imba1240	the weapons	WEAPONS	951		makana	makana 
+1123	37-20-22-1	71291454686293288	Imbabura Quechua	imba1240	the club	CLUB	1763		kaspi	kaspi 
+1124	37-20-23-1	71291454543946244	Imbabura Quechua	imba1240	the sling	SLING	387		waraka	waraka 
+1125	37-20-27-1	71291454743981546	Imbabura Quechua	imba1240	the sword	SWORD	1535		ispada	ispada 
+1126	37-20-28-1	7129145497271543	Imbabura Quechua	imba1240	the gun	GUN	1566		iskupita	iskupita 
+1127	37-20-31-1	71291454405932096	Imbabura Quechua	imba1240	the armour	ARMOUR	1061		armadura	armadura 
+1128	37-20-34-1	71291454362565937	Imbabura Quechua	imba1240	the shield	SHIELD	1064		unancha	unancha 
+1129	37-20-36-1	71291454291240314	Imbabura Quechua	imba1240	the tower	TOWER	1671		durri	durri 
+1130	37-20-41-1	71291454952739755	Imbabura Quechua	imba1240	the victory	VICTORY	783		yaliy	yaliy 
+1131	37-20-44-1	71291454423733542	Imbabura Quechua	imba1240	to defend	DEFEND	1330		mitsana	mitsana 
+1132	37-20-45-1	71291454183514156	Imbabura Quechua	imba1240	to retreat	RETREAT	421		pakajuna	pakajuna 
+1133	37-20-47-1	71291454789879914	Imbabura Quechua	imba1240	the captive or prisoner	PRISONER	1072		bichashka	bichashka 
+1134	37-20-471-1	71291454917991666	Imbabura Quechua	imba1240	the guard	GUARD	1940		chapa	chapa 
+1135	37-20-51-1	8151234502446599	Imbabura Quechua	imba1240	the fisherman	FISHERMAN	1858		piji japik	piji japik 
+1136	37-20-54-1	8151350443071108	Imbabura Quechua	imba1240	the fishnet	FISHNET	388		llika	llika 
+1137	37-20-61-1	71291454889571621	Imbabura Quechua	imba1240	to hunt	HUNT	1435		japina (1)	japina (1) 
+1138	37-20-62-1	7129145419145092	Imbabura Quechua	imba1240	to shoot	SHOOT	1172		shitana (2)	shitana (2) 
+1139	37-20-63-1	71291454241109398	Imbabura Quechua	imba1240	to miss	MISS (A TARGET)	161		pantana	pantana 
+1140	37-20-64-1	71291454993590780	Imbabura Quechua	imba1240	the trap	TRAP (PITFALL)	1075		trampa	trampa 
+1141	37-20-65-1	71291454889571621	Imbabura Quechua	imba1240	to trap	TRAP (CATCH)	1170		japina (1)	japina (1) 
+1142	37-21-11-1	71291454622083589	Imbabura Quechua	imba1240	the law	LAW	1062		ley	ley 
+1143	37-21-15-1	71291454572333254	Imbabura Quechua	imba1240	the court	COURT	1068		tribunal	tribunal 
+1144	37-12-013-1	815164579533170	Imbabura Quechua	imba1240	at	AT	1461		-pi	-pi 
+1145	37-21-17-1	71291454975205968	Imbabura Quechua	imba1240	the judgment	JUDGMENT	1067		jwizhu	jwizhu 
+1146	37-21-18-1	71291454370273474	Imbabura Quechua	imba1240	the judge	JUDGE	861		jwis	jwis 
+1147	37-21-21-1	71291454350152663	Imbabura Quechua	imba1240	the plaintiff	PLAINTIFF	2020		dimandanti	dimandanti 
+1148	37-21-22-1	71291454632938141	Imbabura Quechua	imba1240	the defendant	DEFENDANT	1034		juchachishka (1)	juchachishka (1) 
+1149	37-21-23-1	71291454619085172	Imbabura Quechua	imba1240	the witness	WITNESS	1144		tistigu	tistigu 
+1150	37-21-24-1	71291454648040958	Imbabura Quechua	imba1240	to swear	SWEAR	1939		jurana	jurana 
+1151	37-21-25-1	71291454272456591	Imbabura Quechua	imba1240	the oath	OATH	1712		juramintu	juramintu 
+1152	37-21-31-1	71291454890054807	Imbabura Quechua	imba1240	to accuse	ACCUSE	1814		juchachina (1)	juchachina (1) 
+1153	37-21-33-1	71291454333660000	Imbabura Quechua	imba1240	to convict	CONVICT	983		juchachina (2)	juchachina (2) 
+1154	37-21-34-1	71291454411869049	Imbabura Quechua	imba1240	to acquit	ACQUIT	988		kishpichina	kishpichina 
+1155	37-21-35-1	71291454504271495	Imbabura Quechua	imba1240	guilty	GUILTY	1682		juchachishka (2)	juchachishka (2) 
+1156	37-21-36-1	71291454514203163	Imbabura Quechua	imba1240	innocent	INNOCENT	90		inusinti	inusinti 
+1157	37-21-37-1	71291454415809320	Imbabura Quechua	imba1240	the penalty or punishment	PUNISHMENT	390		kashtigu	kashtigu 
+1158	37-21-38-1	71291454180869394	Imbabura Quechua	imba1240	the fine	FINE (PENALTY)	218		multa	multa 
+1159	37-21-39-1	71291454790717558	Imbabura Quechua	imba1240	the prison	PRISON	1281		karsil	karsil 
+1160	37-21-42-1	71291454381442506	Imbabura Quechua	imba1240	the murder	MURDER	845		wañuchina	wañuchina 
+1161	37-21-44-1	8151624880182533	Imbabura Quechua	imba1240	the rape	RAPE	953		wakllichina	wakllichina 
+1162	37-21-46-1	71291454550732855	Imbabura Quechua	imba1240	the arson	ARSON	1889		rupachina (2)	rupachina (2) 
+1163	37-21-47-1	7129145424943205	Imbabura Quechua	imba1240	the perjury	PERJURY	1792		llullay	llullay 
+1164	37-21-51-1	71291454478643064	Imbabura Quechua	imba1240	to steal	STEAL	713		shuwana	shuwana 
+1165	37-21-52-1	71291454910275994	Imbabura Quechua	imba1240	the thief	THIEF	1160		shuwak	shuwak 
+1166	37-22-11-1	71291454550206547	Imbabura Quechua	imba1240	the religion	RELIGION	661		rilijyún	rilijyún 
+1167	37-22-12-1	71291454535593023	Imbabura Quechua	imba1240	the god	DEITY	3231		apunchik	apunchik 
+1168	37-22-13-1	71291454442600354	Imbabura Quechua	imba1240	the temple	TEMPLE	911		iglizya	iglizya 
+1169	37-22-14-1	71291454899285775	Imbabura Quechua	imba1240	the altar	ALTAR	853		altar	altar 
+1170	37-22-15-1	71291454575171802	Imbabura Quechua	imba1240	the sacrifice	SACRIFICE	1103		ufrinda	ufrinda 
+1171	37-22-16-1	7129145416755232	Imbabura Quechua	imba1240	to worship	WORSHIP	257		kultu	kultu 
+1172	37-22-17-1	71291454585709034	Imbabura Quechua	imba1240	to pray	PRAY	24		rizana	rizana 
+1173	37-22-18-1	71291454872668218	Imbabura Quechua	imba1240	the priest	PRIEST	852		tayta kura	tayta kura 
+1174	37-22-19-1	71291454346380345	Imbabura Quechua	imba1240	holy	HOLY	1702		santu	santu 
+1175	37-22-22-1	8151331916331972	Imbabura Quechua	imba1240	to preach	PREACH	304		kunana	kunana 
+1176	37-22-23-1	71291454499894683	Imbabura Quechua	imba1240	to bless	BLESS	391		bindisina	bindisina 
+1177	37-22-26-1	71291454663147481	Imbabura Quechua	imba1240	to fast	ABSTAIN FROM FOOD	303		ayunana	ayunana 
+1178	37-22-31-1	71291454597147268	Imbabura Quechua	imba1240	the heaven	HEAVEN	1565		silu	silu 
+1179	37-22-32-1	71291454390052375	Imbabura Quechua	imba1240	the hell	HELL	878		infirnu	infirnu 
+1180	37-22-35-1	71291454158915028	Imbabura Quechua	imba1240	the demon	DEMON	1973		aya	aya 
+1181	37-22-42-1	71291454539751288	Imbabura Quechua	imba1240	the magic	MAGIC	392		brujyana	brujyana 
+1182	37-22-43-1	71291454549448483	Imbabura Quechua	imba1240	the sorcerer or witch	MAGICIAN	2137		bruju	bruju 
+1183	37-22-44-1	71291454909153891	Imbabura Quechua	imba1240	the fairy or elf	ELF OR FAIRY	3206		dwindi	dwindi 
+1184	37-22-45-1	71291454927768933	Imbabura Quechua	imba1240	the ghost	GHOST	1175		fantasma	fantasma 
+1185	37-22-47-1	71291454623241022	Imbabura Quechua	imba1240	the omen	OMEN	107		chiki	chiki 
+1186	37-23-1-1	71291454968550113	Imbabura Quechua	imba1240	the radio	RADIO	1315		radyu	radyu 
+1187	37-23-11-1	71291454896402068	Imbabura Quechua	imba1240	the television	TELEVISION	1788		tilibisyún	tilibisyún 
+1188	37-23-12-1	71291454952883517	Imbabura Quechua	imba1240	the telephone	TELEPHONE	1379		tilefunu	tilefunu 
+1189	37-23-135-1	71291454408080878	Imbabura Quechua	imba1240	the motorcycle	MOTORCYCLE	638		mutu	mutu 
+1190	37-23-14-1	71291454369652296	Imbabura Quechua	imba1240	the car	CAR	1111		awtu	awtu 
+1191	37-23-15-1	71291454369652296	Imbabura Quechua	imba1240	the bus	BUS	1070		awtu	awtu 
+1192	37-23-16-1	71291454538586395	Imbabura Quechua	imba1240	the airplane	AIRPLANE	1597		abyun	abyun 
+1193	37-23-17-1	71291454321959367	Imbabura Quechua	imba1240	the electricity	ELECTRICITY	59		micha	micha 
+1194	37-23-175-1	71291454147434269	Imbabura Quechua	imba1240	the battery	BATTERY	662		pila	pila 
+1195	37-23-2-1	71291454397266060	Imbabura Quechua	imba1240	the hospital	HOSPITAL	616		uspital	uspital 
+1196	37-23-21-1	71291454151466965	Imbabura Quechua	imba1240	the nurse	NURSE	1104		jambik (2)	jambik (2) 
+1197	37-23-22-1	71291454766848151	Imbabura Quechua	imba1240	the pill or tablet	PILL	395		pastilla	pastilla 
+1198	37-23-23-1	71291454823210028	Imbabura Quechua	imba1240	the injection	INJECTION	1805		indijsyún	indijsyún 
+1199	37-23-5-1	71291454227603841	Imbabura Quechua	imba1240	the tap/faucet	FAUCET	1488		yaku llabi	yaku llabi 
+1200	37-23-51-1	71291454446980378	Imbabura Quechua	imba1240	the sink	SINK (BASIN)	915		lababu	lababu 
+1201	37-23-52-1	71291454633650103	Imbabura Quechua	imba1240	the toilet	TOILET	219		iskusadu	iskusadu 
+1202	37-23-53-1	71291454445996161	Imbabura Quechua	imba1240	the mattress	MATTRESS	105		mantana	mantana 
+1203	37-23-3-1	71291454520069955	Imbabura Quechua	imba1240	the government	GOVERNMENT	815		gubyernu	gubyernu 
+1204	37-23-31-1	71291454450489585	Imbabura Quechua	imba1240	the president	PRESIDENT	899		prisidinti	prisidinti 
+1205	37-23-32-1	71291454383451607	Imbabura Quechua	imba1240	the minister	MINISTER	486		ministru	ministru 
+1206	37-23-33-1	71291454344973100	Imbabura Quechua	imba1240	the police	POLICE	656		pulisiya	pulisiya 
+1207	37-23-37-1	7129145452718650	Imbabura Quechua	imba1240	the crime	CRIME	1066		jatun jucha (1)	jatun jucha (1) 
+1208	37-23-38-1	71291454427900401	Imbabura Quechua	imba1240	the election	ELECTION	240		akllana (2)	akllana (2) 
+1209	37-23-4-1	71291454659865752	Imbabura Quechua	imba1240	the post/mail	MAIL	167		chaski	chaski 
+1210	37-23-42-1	71291454944768189	Imbabura Quechua	imba1240	the letter	LETTER	1612		karta	karta 
+1211	37-23-44-1	71291454997052417	Imbabura Quechua	imba1240	the bank	BANK	1284		banku	banku 
+1212	37-23-54-1	71291454929065939	Imbabura Quechua	imba1240	the tin/can	CAN	1051		lata	lata 
+1213	37-23-55-1	71291454290071781	Imbabura Quechua	imba1240	the screw	SCREW	1802		turnillu	turnillu 
+1214	37-23-56-1	71291454494942228	Imbabura Quechua	imba1240	the bottle	BOTTLE	1321		butilla	butilla 
+1215	37-23-565-1	71291454211862975	Imbabura Quechua	imba1240	the candy/sweets	CANDY	874		mishki	mishki 
+1216	37-23-24-1	71291454820365847	Imbabura Quechua	imba1240	the spectacles/glasses	SPECTACLES	1898		antyujus	antyujus 
+1217	37-23-57-1	71291454672790573	Imbabura Quechua	imba1240	the plastic	PLASTIC	654		plastiku	plastiku 
+1218	37-23-575-1	71291454348433620	Imbabura Quechua	imba1240	the bomb	BOMB	1804		trwinu	trwinu 
+1219	37-23-58-1	71291454552708909	Imbabura Quechua	imba1240	the workshop	WORKSHOP	1677		fabrika	fabrika 
+1220	37-23-59-1	71291454748079393	Imbabura Quechua	imba1240	the cigarette	CIGARETTE	969		tabaku	tabaku 
+1221	37-23-61-1	71291454401061285	Imbabura Quechua	imba1240	the calendar	CALENDAR	1967		almanaki	almanaki 
+1222	37-23-62-1	71291454748985463	Imbabura Quechua	imba1240	the film/movie	MOVIE	216		pilíkula	pilíkula 
+1223	37-23-63-1	7129145421467742	Imbabura Quechua	imba1240	the music	MUSIC	642		muzika	muzika 
+1224	37-23-64-1	7129145444329701	Imbabura Quechua	imba1240	the song	SONG	1096		taki	taki 
+1225	37-23-39-1	71291454415528614	Imbabura Quechua	imba1240	the number	NUMBER	1356		yupay	yupay 
+1226	37-23-155-1	71291454490797944	Imbabura Quechua	imba1240	the train	TRAIN	900		trin	trin 
+1227	37-23-36-1	71291454557941075	Imbabura Quechua	imba1240	the birth certificate	BIRTH CERTIFICATE	397		partida	partida 
+1228	37-23-18-1	71291454564448505	Imbabura Quechua	imba1240	to brake	BRAKE	966		shayachina (2)	shayachina (2) 
+1229	37-23-195-1	71291454316087335	Imbabura Quechua	imba1240	the petroleum	PETROLEUM	650		pitrulyu	pitrulyu 
+1230	37-23-185-1	71291454640166849	Imbabura Quechua	imba1240	the motor	MOTOR	110		mutur	mutur 
+1231	37-23-19-1	71291454384746692	Imbabura Quechua	imba1240	the machine	MACHINE	144		makina	makina 
+1232	37-23-13-1	71291454553417325	Imbabura Quechua	imba1240	the bicycle	BICYCLE	747		bisiklita	bisiklita 
+1233	37-23-395-1	71291454140744368	Imbabura Quechua	imba1240	the street	STREET	1362		ñan	ñan 
+1234	37-19-445-1	71291454944024714	Imbabura Quechua	imba1240	to liberate	LIBERATE	37		kacharina (1)	kacharina (1) 
+1235	37-19-565-1	71291454124879812	Imbabura Quechua	imba1240	to invite	INVITE	1611		kayana (2)	kayana (2) 
+1236	37-24-01-1	71291454533821466	Imbabura Quechua	imba1240	to be	BE	1579		kana	kana 
+1237	37-24-02-1	71291454645899772	Imbabura Quechua	imba1240	to become	BECOME	1990		-yana	-yana 
+1238	37-24-03-1	71291454435564042	Imbabura Quechua	imba1240	without	WITHOUT	1478		illak (2)	illak (2) 
+1239	37-24-05-1	71291454743022976	Imbabura Quechua	imba1240	through	THROUGH	97		-ta (2)	-ta (2) 
+1240	37-24-13-1	8151443179259620	Imbabura Quechua	imba1240	same	SAME	200		-llatak	-llatak 
+1241	37-24-06-1	71291454513504178	Imbabura Quechua	imba1240	not	NOT	1240		-chu	-chu 
+1242	37-24-07-1	71291454582048721	Imbabura Quechua	imba1240	this	THIS	1214		kay	kay 
+1243	37-24-08-1	71291454151221762	Imbabura Quechua	imba1240	that	THAT	78		chay	chay 
+1244	37-24-09-1	71291454991590145	Imbabura Quechua	imba1240	here	HERE	136		kaypi	kaypi 
+1245	37-24-1-1	71291454557135686	Imbabura Quechua	imba1240	there	THERE	1937		chaypi	chaypi 
+1246	37-24-11-1	71291454284594669	Imbabura Quechua	imba1240	other	OTHER	197		kayllalla	kayllalla 
+1247	37-4-493-1	7129145494200059	Imbabura Quechua	imba1240	the vagina	VAGINA	1836		raka	raka 
+1248	37-23-9-1	8151341984973845	Imbabura Quechua	imba1240	the tea	TEA	1373		te	te 
+1249	37-23-91-1	8151339549557348	Imbabura Quechua	imba1240	the coffee	COFFEE	1299		kafé	kafé 
+1250	37-24-12-1	8151447293802306	Imbabura Quechua	imba1240	next	NEXT	1354		katik	katik 
+1251	37-3-863-1	71291454673965846	Imbabura Quechua	imba1240	the hare	HARE	1190		kunu	kunu 
+1252	37-3-865-1	71291454595285781	Imbabura Quechua	imba1240	the quail	QUAIL	1893		yuta	yuta 
+1253	37-3-869-1	71291454925162030	Imbabura Quechua	imba1240	the squirrel	SQUIRREL	1628		ardilla	ardilla 
+1254	37-8-29-1	71291454124432510	Imbabura Quechua	imba1240	the lasso	LASSO	340		waska	waska 
+1255	37-4-465-1	71291454596299730	Imbabura Quechua	imba1240	the sinew or tendon	TENDON	1137		angu (1)	angu (1) 
+1256	37-7-67-1	71291454224772673	Imbabura Quechua	imba1240	to tan	TAN	247		kurtina	kurtina 
+1257	37-3-8112-1	71291454292286997	Imbabura Quechua	imba1240	the body louse	BODY LOUSE	311		pilis	pilis 
+1258	37-4-494-1	7129145494200059	Imbabura Quechua	imba1240	the vulva	VULVA	1837		raka	raka 
+1259	37-3-99-1	8141547629979050	Imbabura Quechua	imba1240	the tapir	TAPIR	312		sachaguagra	sachaguagra 
+1260	37-9-93-1	71291454192694367	Imbabura Quechua	imba1240	the whetstone	WHETSTONE	295		afilana rumi	afilana rumi 
+1261	37-9-92-1	71291454912777906	Imbabura Quechua	imba1240	the tumpline	TUMPLINE	294		chumbi	chumbi 
+1262	37-7-65-1	71291454334426283	Imbabura Quechua	imba1240	the camp	CAMP	1105		pamba	pamba 
+1263	37-8-28-1	71291454745831160	Imbabura Quechua	imba1240	the digging stick (=yamstick)	DIGGING STICK	339		allana kaspi	allana kaspi 
+1264	37-3-834-1	7129145422836840	Imbabura Quechua	imba1240	the termites	TERMITE	883		añanku	añanku 
+1265	37-3-9-1	71291454360825369	Imbabura Quechua	imba1240	the jaguar	JAGUAR	1250		puma	puma 
+1266	37-7-66-1	71291454691357660	Imbabura Quechua	imba1240	the hammock	HAMMOCK	2019		jamaka	jamaka 
+1267	37-9-9-1	81514235712972	Imbabura Quechua	imba1240	to draw water	DRAW (WATER)	1911		yakuta surkuna	yakuta surkuna 
+1268	37-9-91-1	71291454246115353	Imbabura Quechua	imba1240	the peg	PEG	361		aru	aru 
+1269	37-10-58-1	71291454536439341	Imbabura Quechua	imba1240	to go or return home	RETURN HOME	142		tigramuna	tigramuna 
+1270	37-1-411-1	71291454334426283	Imbabura Quechua	imba1240	the savanna	SAVANNA	260		pamba	pamba 
+1271	37-1-831-1	71291454617734897	Imbabura Quechua	imba1240	the steam	STEAM	1193		kushni	kushni 
+1272	37-2-4711-1	81516190529675	Imbabura Quechua	imba1240	the grandparents	GRANDPARENTS	305		jatun yayamama	jatun yayamama 
+1273	37-2-5-1	815166615154953	Imbabura Quechua	imba1240	the grandchild	GRANDCHILD	1617		allchi	allchi 
+1274	37-2-541-1	71291454586665953	Imbabura Quechua	imba1240	the sibling’s child	SIBLING'S CHILD	173		subrinu	subrinu 
+1275	37-2-622-1	81521291954759	Imbabura Quechua	imba1240	the parents-in-law	PARENTS-IN-LAW	306		swidrus	swidrus 
+1276	37-2-931-1	71291454385418831	Imbabura Quechua	imba1240	he	HE	1211		pay	pay 
+1277	37-2-932-1	71291454385418831	Imbabura Quechua	imba1240	she	SHE	1834		pay	pay 
+1278	37-2-933-1	71291454385418831	Imbabura Quechua	imba1240	it	IT	169		pay	pay 
+1279	37-4-741-1	8151613855426262	Imbabura Quechua	imba1240	the life	LIFE	210		kawsay	kawsay 
+1280	37-4-771-1	71291454220903971	Imbabura Quechua	imba1240	the carcass	CARCASS	1770		wañushka	wañushka 
+1281	37-4-844-1	815161836331085	Imbabura Quechua	imba1240	the disease	DISEASE	1986		unkuy	unkuy 
+1282	37-11-29-1	8151624880182533	Imbabura Quechua	imba1240	to damage	DAMAGE	1116		wakllichina	wakllichina 
+1283	37-12-081-1	71291454682678974	Imbabura Quechua	imba1240	above	ABOVE	1741		jawa (1)	jawa (1) 
+1284	37-13-231-1	8151630343351483	Imbabura Quechua	imba1240	the piece	PIECE	594		piti	piti 
+1285	37-13-331-1	71291454886012126	Imbabura Quechua	imba1240	alone	ALONE	1964		sapalla	sapalla 
+1286	37-14-251-1	8151633841377150	Imbabura Quechua	imba1240	the beginning	BEGINNING	1557		kallarik	kallarik 
+1287	37-14-411-1	71291454150315686	Imbabura Quechua	imba1240	the day(2)	DAY (NOT NIGHT)	1225		puncha	puncha 
+1288	37-22-131-1	71291454442600354	Imbabura Quechua	imba1240	the church	CHURCH	1349		iglizya	iglizya 
+1289	37-24-14-1	815163521691353	Imbabura Quechua	imba1240	nothing	NOTHING	687		nanaima	nanaima 
+1290	37-4-7501-1	71291454220903971	Imbabura Quechua	imba1240	dead	DEAD	1625		wañushka	wañushka 
+1291	37-4-8541-1	71291454921131431	Imbabura Quechua	imba1240	to scratch	SCRATCH	1436		aspina	aspina 
+1292	37-9-111-1	71291454975539152	Imbabura Quechua	imba1240	to make	MAKE	734		rurana	rurana 
+1293	37-4-431-1	8151640124725720	Imbabura Quechua	imba1240	the belly	BELLY	1251		wiksa	wiksa 
+1294	37-9-311-1	8151642555624258	Imbabura Quechua	imba1240	to wipe	WIPE	1454		chakichina	chakichina 
+1295	37-1-775-1	815164622479766	Imbabura Quechua	imba1240	to freeze	FREEZE	1431		rasuchina	rasuchina 
+1296	37-24-04-1	71291454105189484	Imbabura Quechua	imba1240	with	WITH	1340		-ta (1)	-ta (1) 
+1297	37-12-012-1	815164579533170	Imbabura Quechua	imba1240	in	IN	1460		-pi	-pi 
+1298	37-3-99904-1	71291454717812190	Imbabura Quechua	imba1240	the Andean guinea pig				kuy	kuy 
+1299	37-3-99905-1	71291454781102071	Imbabura Quechua	imba1240	the Andean owl				pikpiga	pikpiga 
+1300	37-3-99906-1	71291454839506747	Imbabura Quechua	imba1240	the armadillo				armadillu	armadillu 
+1301	37-3-99917-1	71291454964476539	Imbabura Quechua	imba1240	the herd				ataju	ataju 
+1302	37-3-99919-1	71291454550071153	Imbabura Quechua	imba1240	the humming bird				kindi	kindi 
+1303	37-3-99939-1	71291454487360927	Imbabura Quechua	imba1240	the skunk				añas	añas 
+1304	37-3-9994-1	71291454143999064	Imbabura Quechua	imba1240	the songbird				zunfa	zunfa 
+1305	37-3-99941-1	71291454946777513	Imbabura Quechua	imba1240	the sparrow				kiliku	kiliku 
+1306	37-5-99919-1	71291454907817078	Imbabura Quechua	imba1240	the tamale				tamal	tamal 
+1307	37-5-99921-1	71291454177139605	Imbabura Quechua	imba1240	the tortilla				llapingachu	llapingachu 
+1308	37-8-99904-1	71291454611106724	Imbabura Quechua	imba1240	the Andean weed				pigala	pigala 
+1309	37-8-99916-1	71291454335288779	Imbabura Quechua	imba1240	the creeper				zunfu	zunfu 
+1310	37-8-99917-1	71291454703194189	Imbabura Quechua	imba1240	the mortiño				chugunda	chugunda 
+1311	37-8-99927-1	71291454274595524	Imbabura Quechua	imba1240	the lupin				tauri	tauri 
+1312	37-8-99945-1	712914546052382	Imbabura Quechua	imba1240	the sensitive mimosa				jundulungu	jundulungu 
+1313	37-8-99948-1	71291454213900140	Imbabura Quechua	imba1240	the tar				briya	briya 
+1314	37-8-99952-1	71291454921451619	Imbabura Quechua	imba1240	the turnip				yuyu	yuyu 
+1315	37-8-99953-1	71291454675071914	Imbabura Quechua	imba1240	the vetch				bisya	bisya 
+1316	37-8-99956-1	7129145452139303	Imbabura Quechua	imba1240	the wild maize				atuk sara	atuk sara 
+1317	37-8-99958-1	71291454249078674	Imbabura Quechua	imba1240	the woody shrub				kintsilgu	kintsilgu 
+1318	37-9-99912-1	71291454622755619	Imbabura Quechua	imba1240	the hearthstones				tulpa rumi	tulpa rumi 
+1319	37-17-99903-1	71291454882845874	Imbabura Quechua	imba1240	the same				shinallatak	shinallatak 

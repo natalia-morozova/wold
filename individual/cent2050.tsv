@@ -1,0 +1,1599 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	5-1-1-1	73101856881480411	Kanuri	cent2050	the world	WORLD	965		dúnyâ	dúnyâ 
+2	5-1-21-1	73101856945911387	Kanuri	cent2050	the land	LAND	626		cídí	cídí 
+3	5-1-21-2	7310185695473116	Kanuri	cent2050	the land	LAND	626		lárdə̀	lárdə̀ 
+4	5-1-212-1	73101856945911387	Kanuri	cent2050	the soil	EARTH (SOIL)	1228		cídí	cídí 
+5	5-1-213-1	73101856774362872	Kanuri	cent2050	the dust	DUST	2		bə́rbə̀r	bə́rbə̀r 
+6	5-1-214-1	73101856961386720	Kanuri	cent2050	the mud	MUD	640		tóló	tóló 
+7	5-1-215-1	73101856744017773	Kanuri	cent2050	the sand	SAND	671		césà	césà 
+8	5-1-215-2	73101856169673024	Kanuri	cent2050	the sand	SAND	671		kàttî	kàttî 
+9	5-1-22-1	7310185687267415	Kanuri	cent2050	the mountain or hill	MOUNTAIN OR HILL	2118		kâu	kâu 
+10	5-1-22-2	73101856813675580	Kanuri	cent2050	the mountain or hill	MOUNTAIN OR HILL	2118		kə̀rî	kə̀rî 
+11	5-1-222-1	73101856128245144	Kanuri	cent2050	the cliff or precipice	PRECIPICE	618		jòró	jòró 
+12	5-1-23-1	73101856378777718	Kanuri	cent2050	the plain	PLAIN	652		fárák	fárák 
+13	5-1-23-2	73101856139239087	Kanuri	cent2050	the plain	PLAIN	652		fáyà	fáyà 
+14	5-1-24-1	73101856998616994	Kanuri	cent2050	the valley	VALLEY	921		ngôr	ngôr 
+15	5-1-25-1	73101856539982124	Kanuri	cent2050	the island	ISLAND	622		kə́rtá	kə́rtá 
+16	5-1-25-2	73101856482956967	Kanuri	cent2050	the island	ISLAND	622		cúkú (1)	cúkú (1) 
+17	5-1-27-1	7310185681443367	Kanuri	cent2050	the shore	SHORE	113		cî njîbè	cî njîbè 
+18	5-1-27-2	73101856777140637	Kanuri	cent2050	the shore	SHORE	113		fòwòlí	fòwòlí 
+19	5-1-28-1	73101856349662597	Kanuri	cent2050	the cave	CAVE	1155		ngòrə̂m	ngòrə̂m 
+20	5-1-31-1	73101856877506116	Kanuri	cent2050	the water	WATER	948		njî	njî 
+21	5-1-32-1	73101856244248080	Kanuri	cent2050	the sea	SEA	1474		báhàr	báhàr 
+22	5-1-32-2	73101856262835774	Kanuri	cent2050	the sea	SEA	1474		njî kúrà	njî kúrà 
+23	5-1-324-1	73101856659298409	Kanuri	cent2050	the foam	FOAM	1768		bílwù	bílwù 
+24	5-1-329-1	73101856244248080	Kanuri	cent2050	the ocean	OCEAN	645		báhàr	báhàr 
+25	5-1-329-2	73101856262835774	Kanuri	cent2050	the ocean	OCEAN	645		njî kúrà	njî kúrà 
+26	5-1-33-1	73101856110439834	Kanuri	cent2050	the lake	LAKE	624		kùlúwù	kùlúwù 
+27	5-1-35-1	73101856103913615	Kanuri	cent2050	the wave	WAVE	978		kàzáà njîbè	kàzáà njîbè 
+28	5-1-36-1	73101856936961012	Kanuri	cent2050	the river or stream	RIVER	666		bə́rə̀m	bə́rə̀m 
+29	5-1-36-2	73101856817104984	Kanuri	cent2050	the river or stream	RIVER	666		ngàdà	ngàdà 
+30	5-1-36-3	7310185639589573	Kanuri	cent2050	the river or stream	RIVER	666		kə̀múdù	kə̀múdù 
+31	5-1-362-1	73101856888917512	Kanuri	cent2050	the whirlpool	WHIRLPOOL	1982		shîm njîbè	shîm njîbè 
+32	5-1-37-1	73101856820713573	Kanuri	cent2050	the spring or well	SPRING OR WELL	2144		báràm	báràm 
+33	5-1-38-1	73101856465002244	Kanuri	cent2050	the swamp	SWAMP	1145		njìbòné	njìbòné 
+34	5-1-41-1	73101856543452380	Kanuri	cent2050	the woods or forest	FOREST	420		kàráà sə́lə́m	kàráà sə́lə́m 
+35	5-1-41-2	73101856909984903	Kanuri	cent2050	the woods or forest	FOREST	420		də̂r	də̂r 
+36	5-1-43-1	7310185636419104	Kanuri	cent2050	the wood	WOOD	1803		kə̀ská	kə̀ská 
+37	5-1-44-1	7310185687267415	Kanuri	cent2050	the stone or rock	STONE OR ROCK	2125		kâu	kâu 
+38	5-1-45-1	73101856544582526	Kanuri	cent2050	the earthquake	EARTHQUAKE	6		cə́dí lólójì	cə́dí lólójì 
+39	5-1-51-1	73101856113679342	Kanuri	cent2050	the sky	SKY	1732		sàmî	sàmî 
+40	5-1-52-1	73101856565671824	Kanuri	cent2050	the sun	SUN	1343		kə́ngâl	kə́ngâl 
+41	5-1-53-1	73101856274352138	Kanuri	cent2050	the moon	MOON	1313		kə́mbàl	kə́mbàl 
+42	5-1-53-2	73101856518558133	Kanuri	cent2050	the moon	MOON	1313		kə̀ndáwù	kə̀ndáwù 
+43	5-1-54-1	73101856906181991	Kanuri	cent2050	the star	STAR	1430		shílówù	shílówù 
+44	5-1-55-1	73101856578932828	Kanuri	cent2050	the lightning	LIGHTNING	1654		rádə̀	rádə̀ 
+45	5-1-56-1	73101856376003559	Kanuri	cent2050	the thunder	THUNDER	1150		kégə́rà ngə̀rjî	kégə́rà ngə̀rjî 
+46	5-1-57-1	73101856578932828	Kanuri	cent2050	the bolt of lightning	BOLT (OF LIGHTNING)	2007		rádə̀	rádə̀ 
+47	5-1-58-1	73101856558747014	Kanuri	cent2050	the storm	STORM	858		kàrwàcìmé	kàrwàcìmé 
+48	5-1-59-1	73101856422851447	Kanuri	cent2050	the rainbow	RAINBOW	1733		kə̀mármà	kə̀mármà 
+49	5-1-61-1	73101856471349784	Kanuri	cent2050	the light	LIGHT (RADIATION)	630		nûr	nûr 
+50	5-1-61-2	73101856705544580	Kanuri	cent2050	the light	LIGHT (RADIATION)	630		kánnú	kánnú 
+51	5-1-62-1	73101856384262586	Kanuri	cent2050	the darkness	DARKNESS	11		nə̀kə̀lmə́skə̀	nə̀kə̀lmə́skə̀ 
+52	5-1-62-2	73101856528933562	Kanuri	cent2050	the darkness	DARKNESS	11		nə̀mcə́lə́m	nə̀mcə́lə́m 
+53	5-1-63-1	73101856776171299	Kanuri	cent2050	the shade or shadow	SHADE	1388		kàùdí	kàùdí 
+54	5-1-63-2	73101856349236224	Kanuri	cent2050	the shade or shadow	SHADE	1388		kàfíà	kàfíà 
+55	5-1-64-1	73101856712908651	Kanuri	cent2050	the dew	DEW	1977		kùlóngù	kùlóngù 
+56	5-1-71-1	73101856504437254	Kanuri	cent2050	the air	AIR	27		kàsâm	kàsâm 
+57	5-1-72-1	73101856205223918	Kanuri	cent2050	the wind	WIND	960		kàrwâ	kàrwâ 
+58	5-1-73-1	73101856180564727	Kanuri	cent2050	the cloud	CLOUD	1489		fówó	fówó 
+59	5-1-74-1	73101856992395891	Kanuri	cent2050	the fog	FOG	249		bàntə̀gə̀né	bàntə̀gə̀né 
+60	5-1-75-1	7310185652590414	Kanuri	cent2050	the rain	RAIN (PRECIPITATION)	658		də̀lágə̀	də̀lágə̀ 
+61	5-1-75-2	73101856977247455	Kanuri	cent2050	the rain	RAIN (PRECIPITATION)	658		njî sámìbè	njî sámìbè 
+62	5-1-76-1	73101856672306652	Kanuri	cent2050	the snow	SNOW	784		máfì	máfì 
+63	5-1-77-1	73101856672306652	Kanuri	cent2050	the ice	ICE	617		máfì	máfì 
+64	5-1-78-1	73101856345991594	Kanuri	cent2050	the weather	WEATHER	952		dùnyâ	dùnyâ 
+65	5-1-81-1	73101856705544580	Kanuri	cent2050	the fire	FIRE	221		kánnú	kánnú 
+66	5-1-82-1	73101856898256192	Kanuri	cent2050	the flame	FLAME	889		kánnú cámbî	kánnú cámbî 
+67	5-1-82-2	73101856745821240	Kanuri	cent2050	the flame	FLAME	889		tə́làm kánnúbè	tə́làm kánnúbè 
+68	5-1-83-1	7310185642734165	Kanuri	cent2050	the smoke	SMOKE (EXHAUST)	778		kàngê	kàngê 
+69	5-1-84-1	73101856953913290	Kanuri	cent2050	the ash	ASH	646		búgə́	búgə́ 
+70	5-1-841-1	73101856743085519	Kanuri	cent2050	the embers	EMBERS	67		kùndúwâl	kùndúwâl 
+71	5-1-851-1	73101856339656886	Kanuri	cent2050	to burn(1)	BURN (SOMETHING)	141		máltə́	máltə́ 
+72	5-1-852-1	73101856339656886	Kanuri	cent2050	to burn(2)	BURNING	1428		máltə́	máltə́ 
+73	5-1-86-1	73101856748351088	Kanuri	cent2050	to light	LIGHT (IGNITE)	737		wàstə́	wàstə́ 
+74	5-1-861-1	73101856986075968	Kanuri	cent2050	to extinguish	EXTINGUISH	127		njèzò	njèzò 
+75	5-1-861-2	73101856726379650	Kanuri	cent2050	to extinguish	EXTINGUISH	127		yàzò	yàzò 
+76	5-1-87-1	73101856741579169	Kanuri	cent2050	the match	MATCH	1133		àsháná	àsháná 
+77	5-1-88-1	73101856227343818	Kanuri	cent2050	the firewood	FIREWOOD	10		kə̀gə̀shì	kə̀gə̀shì 
+78	5-1-89-1	73101856901181141	Kanuri	cent2050	the charcoal	CHARCOAL	1188		kə́límì	kə́límì 
+79	5-2-1-1	73101856316645711	Kanuri	cent2050	the person	PERSON	683		kâm	kâm 
+80	5-2-21-1	7310185625762928	Kanuri	cent2050	the man	MAN	1554		kwâ	kwâ 
+81	5-2-21-2	73101856222833496	Kanuri	cent2050	the man	MAN	1554		kwângâ	kwângâ 
+82	5-2-22-1	73101856970442388	Kanuri	cent2050	the woman	WOMAN	962		kámú	kámú 
+83	5-2-23-1	73101856699877684	Kanuri	cent2050	male(1)	MALE (OF ANIMAL)	2263		bî	bî 
+84	5-2-24-1	73101856870927968	Kanuri	cent2050	female(1)	FEMALE (OF PERSON)	2260		kùrwúdì	kùrwúdì 
+85	5-2-25-1	73101856529042054	Kanuri	cent2050	the boy	BOY	1366		tádà	tádà 
+86	5-2-251-1	73101856278588501	Kanuri	cent2050	the young man	YOUNG MAN	76		tàdàmí	tàdàmí 
+87	5-2-26-1	73101856606691385	Kanuri	cent2050	the girl	GIRL	1646		férò	férò 
+88	5-2-261-1	73101856668802776	Kanuri	cent2050	the young woman	YOUNG WOMAN	77		fèròmí	fèròmí 
+89	5-2-27-1	73101856529042054	Kanuri	cent2050	the child(1)	CHILD (YOUNG HUMAN)	1304		tádà	tádà 
+90	5-2-28-1	73101856612210871	Kanuri	cent2050	the baby	BABY	1289		tíwàl	tíwàl 
+91	5-2-31-1	7310185625762928	Kanuri	cent2050	the husband	HUSBAND	1200		kwâ	kwâ 
+92	5-2-32-1	73101856970442388	Kanuri	cent2050	the wife	WIFE	1199		kámú	kámú 
+93	5-2-33-1	73101856299096828	Kanuri	cent2050	to marry	MARRY	203		nyìyàtə́	nyìyàtə́ 
+94	5-2-34-1	73101856127740846	Kanuri	cent2050	the wedding	WEDDING	1259		nyìyâ	nyìyâ 
+95	5-2-34-2	73101856215435118	Kanuri	cent2050	the wedding	WEDDING	1259		lòrúsà	lòrúsà 
+96	5-2-341-1	73101856826778261	Kanuri	cent2050	the divorce	DIVORCE	1134		də̀ptà	də̀ptà 
+97	5-2-35-1	73101856826355899	Kanuri	cent2050	the father	FATHER	1217		bàwá	bàwá 
+98	5-2-36-1	73101856589395430	Kanuri	cent2050	the mother	MOTHER	1216		yâ	yâ 
+99	5-2-38-1	73101856761456526	Kanuri	cent2050	the married man	MARRIED MAN	424		kwôngâ nyìyáà	kwôngâ nyìyáà 
+100	5-2-39-1	7310185642479188	Kanuri	cent2050	the married woman	MARRIED WOMAN	426		kámú nyìyáà	kámú nyìyáà 
+101	5-2-41-1	73101856529042054	Kanuri	cent2050	the son	SON	1620		tádà	tádà 
+102	5-2-42-1	73101856606691385	Kanuri	cent2050	the daughter	DAUGHTER	1357		férò	férò 
+103	5-2-43-1	73101856322081415	Kanuri	cent2050	the child(2)	CHILD (DESCENDANT)	1801		tàdá	tàdá 
+104	5-2-44-1	73101856573385963	Kanuri	cent2050	the brother	BROTHER	1262		yâànà	yâànà 
+105	5-2-444-1	73101856737690003	Kanuri	cent2050	the older brother	OLDER BROTHER	1759		yàá	yàá 
+106	5-2-445-1	73101856324046115	Kanuri	cent2050	the younger brother	YOUNGER BROTHER	1760		kə̀rámì	kə̀rámì 
+107	5-2-45-1	73101856573385963	Kanuri	cent2050	the sister	SISTER	1263		yâànà	yâànà 
+108	5-2-454-1	73101856737690003	Kanuri	cent2050	the older sister	OLDER SISTER	1758		yàá	yàá 
+109	5-2-455-1	73101856324046115	Kanuri	cent2050	the younger sister	YOUNGER SISTER	1761		kə̀rámì	kə̀rámì 
+110	5-2-456-1	73101856573385963	Kanuri	cent2050	the sibling	SIBLING	1640		yâànà	yâànà 
+111	5-2-458-1	73101856926714982	Kanuri	cent2050	the twins	TWINS	1005		káwú	káwú 
+112	5-2-46-1	73101856654926334	Kanuri	cent2050	the grandfather	GRANDFATHER	1383		kàká	kàká 
+113	5-2-461-1	73101856195381365	Kanuri	cent2050	the old man	OLD MAN	406		cárì	cárì 
+114	5-2-47-1	73101856654926334	Kanuri	cent2050	the grandmother	GRANDMOTHER	1496		kàká	kàká 
+115	5-2-471-1	73101856802546538	Kanuri	cent2050	the old woman	OLD WOMAN	907		kə̀múrcò	kə̀múrcò 
+116	5-2-48-1	73101856734253097	Kanuri	cent2050	the grandson	GRANDSON	1618		díwò kôngwâ	díwò kôngwâ 
+117	5-2-49-1	73101856799998656	Kanuri	cent2050	the granddaughter	GRANDDAUGHTER	1619		díwò férò	díwò férò 
+118	5-2-51-1	7310185639453513	Kanuri	cent2050	the uncle	UNCLE	1327		ráwà	ráwà 
+119	5-2-511-1	7310185639453513	Kanuri	cent2050	the mother's brother	MOTHER'S BROTHER	1984		ráwà	ráwà 
+120	5-2-512-1	73101856879775557	Kanuri	cent2050	the father's brother	FATHER'S BROTHER	1985		bàwá kúrà	bàwá kúrà 
+121	5-2-512-2	73101856284642262	Kanuri	cent2050	the father's brother	FATHER'S BROTHER	1985		bàwá gàná	bàwá gàná 
+122	5-2-52-1	73101856711946037	Kanuri	cent2050	the aunt	AUNT	1272		yînná	yînná 
+123	5-2-521-1	73101856711946037	Kanuri	cent2050	the mother's sister	MOTHER'S SISTER	171		yînná	yînná 
+124	5-2-521-2	73101856220097604	Kanuri	cent2050	the mother's sister	MOTHER'S SISTER	171		yâkúrà	yâkúrà 
+125	5-2-522-1	73101856495109332	Kanuri	cent2050	the father's sister	FATHER'S SISTER	170		báwà	báwà 
+126	5-2-55-1	73101856945224153	Kanuri	cent2050	the cousin	COUSIN	1643		báwànráwàngànà	báwànráwàngànà 
+127	5-2-56-1	73101856682479525	Kanuri	cent2050	the ancestors	ANCESTORS	1669		yèìyàrí	yèìyàrí 
+128	5-2-57-1	73101856446464961	Kanuri	cent2050	the descendants	DESCENDANTS	490		kàdúwù	kàdúwù 
+129	5-2-61-1	73101856267700531	Kanuri	cent2050	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		kə̀sáì	kə̀sáì 
+130	5-2-611-1	73101856255334051	Kanuri	cent2050	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		kə̀sâì	kə̀sâì 
+131	5-2-62-1	73101856267700531	Kanuri	cent2050	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		kə̀sáì	kə̀sáì 
+132	5-2-621-1	73101856255334051	Kanuri	cent2050	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		kə̀sâì	kə̀sâì 
+133	5-2-63-1	73101856267700531	Kanuri	cent2050	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		kə̀sáì	kə̀sáì 
+134	5-2-631-1	73101856255334051	Kanuri	cent2050	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		kə̀sâì	kə̀sâì 
+135	5-2-64-1	73101856267700531	Kanuri	cent2050	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		kə̀sáì	kə̀sáì 
+136	5-2-641-1	73101856255334051	Kanuri	cent2050	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		kə̀sâì	kə̀sâì 
+137	5-2-71-1	73101856637397006	Kanuri	cent2050	the stepfather	STEPFATHER	237		àwá cíntà	àwá cíntà 
+138	5-2-72-1	73101856906593892	Kanuri	cent2050	the stepmother	STEPMOTHER	236		yâ cíntà	yâ cíntà 
+139	5-2-73-1	73101856226594206	Kanuri	cent2050	the stepson	STEPSON	1059		tádà cíntà	tádà cíntà 
+140	5-2-74-1	73101856905651799	Kanuri	cent2050	the stepdaughter	STEPDAUGHTER	1058		férò cíntà	férò cíntà 
+141	5-2-75-1	73101856296474257	Kanuri	cent2050	the orphan	ORPHAN	1149		ngə́nyì	ngə́nyì 
+142	5-2-76-1	73101856471889380	Kanuri	cent2050	the widow	WIDOW	1756		kámbà	kámbà 
+143	5-2-77-1	73101856471889380	Kanuri	cent2050	the widower	WIDOWER	1981		kámbà	kámbà 
+144	5-2-81-1	73101856519944713	Kanuri	cent2050	the relatives	RELATIVES	1644		dûr	dûr 
+145	5-2-82-1	73101856432741851	Kanuri	cent2050	the family	FAMILY	194		yâl	yâl 
+146	5-2-91-1	7310185676833144	Kanuri	cent2050	I	I	1209		wú	wú 
+147	5-2-92-1	73101856611728862	Kanuri	cent2050	you (singular)	THOU	1215		nyí	nyí 
+148	5-2-93-1	73101856928785412	Kanuri	cent2050	he/she/it	HE OR SHE OR IT	262		tí	tí 
+149	5-2-94-1	7310185618347127	Kanuri	cent2050	we	WE	1212		àndí	àndí 
+150	5-2-942-1	73101856964292841	Kanuri	cent2050	we (exclusive)	WE (EXCLUSIVE)	1130		yàndí	yàndí 
+151	5-2-95-1	73101856161165322	Kanuri	cent2050	you (plural)	YOU	1213		nàndí	nàndí 
+152	5-2-96-1	73101856447811759	Kanuri	cent2050	they	THEY	817		tàndí	tàndí 
+153	5-3-11-1	7310185626390220	Kanuri	cent2050	the animal	ANIMAL	619		dábbà	dábbà 
+154	5-3-11-2	7310185622872966	Kanuri	cent2050	the animal	ANIMAL	619		lə̀mân	lə̀mân 
+155	5-3-12-1	73101856699877684	Kanuri	cent2050	male(2)	MALE (OF PERSON)	2261		bî	bî 
+156	5-3-13-1	73101856870927968	Kanuri	cent2050	female(2)	FEMALE (OF ANIMAL)	2262		kùrwúdì	kùrwúdì 
+157	5-3-15-1	7310185622872966	Kanuri	cent2050	the livestock	LIVESTOCK	631		lə̀mân	lə̀mân 
+158	5-3-16-1	73101856300506681	Kanuri	cent2050	the pasture	PASTURE	649		sùnyìrám	sùnyìrám 
+159	5-3-18-1	73101856933485075	Kanuri	cent2050	the herdsman	HERDSMAN	263		súnyí	súnyí 
+160	5-3-19-1	73101856478012789	Kanuri	cent2050	the stable or stall	STABLE	851		bə́rí	bə́rí 
+161	5-3-2-1	73101856496364335	Kanuri	cent2050	the cattle	CATTLE	1153		fê	fê 
+162	5-3-21-1	73101856178672484	Kanuri	cent2050	the bull	BULL	1008		dàló	dàló 
+163	5-3-21-2	73101856158645817	Kanuri	cent2050	the bull	BULL	1008		ngə́némù	ngə́némù 
+164	5-3-22-1	73101856496364335	Kanuri	cent2050	the ox	OX	1169		fê	fê 
+165	5-3-23-1	73101856496364335	Kanuri	cent2050	the cow	COW	1007		fê	fê 
+166	5-3-24-1	73101856982908316	Kanuri	cent2050	the calf	CALF	1989		kə́nná	kə́nná 
+167	5-3-25-1	73101856374135551	Kanuri	cent2050	the sheep	SHEEP	1331		dímì	dímì 
+168	5-3-26-1	73101856881925437	Kanuri	cent2050	the ram	RAM	1344		ngə́lárò	ngə́lárò 
+169	5-3-28-1	73101856374135551	Kanuri	cent2050	the ewe	EWE	1345		dímì	dímì 
+170	5-3-29-1	73101856483672286	Kanuri	cent2050	the lamb	LAMB	820		támà	támà 
+171	5-3-32-1	73101856512482898	Kanuri	cent2050	the boar	BOAR	1348		gòdú	gòdú 
+172	5-3-34-1	73101856787716523	Kanuri	cent2050	the sow	SOW (FEMALE PIG)	1351		áládə̀ kùrwúdì	áládə̀ kùrwúdì 
+173	5-3-35-1	7310185627736941	Kanuri	cent2050	the pig	PIG	1337		áládə̀	áládə̀ 
+174	5-3-36-1	73101856259268934	Kanuri	cent2050	the goat	GOAT	1502		kàní	kàní 
+175	5-3-37-1	73101856984148494	Kanuri	cent2050	the he-goat	HE-GOAT	264		dâl	dâl 
+176	5-3-38-1	73101856906414895	Kanuri	cent2050	the kid	KID	1972		kə̀láwò	kə̀láwò 
+177	5-3-41-1	73101856803570655	Kanuri	cent2050	the horse	HORSE	615		fə̂r	fə̂r 
+178	5-3-42-1	7310185648810706	Kanuri	cent2050	the stallion	STALLION	936		fə̂r ngə́rmà	fə̂r ngə́rmà 
+179	5-3-44-1	7310185647823963	Kanuri	cent2050	the mare	MARE	938		fə̂r kùrwúdì	fə̂r kùrwúdì 
+180	5-3-45-1	73101856123866802	Kanuri	cent2050	the foal or colt	FOAL	1647		ngə́rmà	ngə́rmà 
+181	5-3-46-1	73101856770918512	Kanuri	cent2050	the donkey	DONKEY	1862		kóró	kóró 
+182	5-3-47-1	73101856688218824	Kanuri	cent2050	the mule	MULE	890		làwátə́rà	làwátə́rà 
+183	5-3-5-1	73101856617828191	Kanuri	cent2050	the fowl	FOWL	265		kùwúì	kùwúì 
+184	5-3-52-1	73101856356317598	Kanuri	cent2050	the cock/rooster	ROOSTER	1511		gùdòwúm	gùdòwúm 
+185	5-3-54-1	73101856617828191	Kanuri	cent2050	the hen	HEN	1514		kùwúì	kùwúì 
+186	5-3-55-1	73101856630981586	Kanuri	cent2050	the chicken	CHICKEN	1318		kùwúì	kùwúì 
+187	5-3-56-1	73101856134492311	Kanuri	cent2050	the goose	GOOSE	1187		ngádákàwú	ngádákàwú 
+188	5-3-57-1	73101856997871033	Kanuri	cent2050	the duck	DUCK	1360		kùwúì yárwábè	kùwúì yárwábè 
+189	5-3-58-1	73101856583212920	Kanuri	cent2050	the nest	NEST	539		fátò ngúdòbè	fátò ngúdòbè 
+190	5-3-581-1	73101856199973215	Kanuri	cent2050	the bird	BIRD	937		ngúdò	ngúdò 
+191	5-3-583-1	73101856548545270	Kanuri	cent2050	the heron	HERON	758		gə̀ràgə́rà	gə̀ràgə́rà 
+192	5-3-584-1	73101856732081186	Kanuri	cent2050	the eagle	EAGLE	1905		kàdáwù	kàdáwù 
+193	5-3-585-1	73101856648412195	Kanuri	cent2050	the hawk	HAWK	307		dámgà	dámgà 
+194	5-3-586-1	73101856122991605	Kanuri	cent2050	the vulture	VULTURE	1185		kówù	kówù 
+195	5-3-586-2	7310185686351821	Kanuri	cent2050	the vulture	VULTURE	1185		ngə́rmù	ngə́rmù 
+196	5-3-591-1	7310185667084623	Kanuri	cent2050	the bat	BAT	1793		bàtátá	bàtátá 
+197	5-3-592-1	73101856865167752	Kanuri	cent2050	the parrot	PARROT	882		àkú	àkú 
+198	5-3-593-1	7310185696609532	Kanuri	cent2050	the crow	CROW	913		ngágə̀	ngágə̀ 
+199	5-3-594-1	73101856981931798	Kanuri	cent2050	the dove	DOVE	1853		bólàwúllàm	bólàwúllàm 
+200	5-3-596-1	73101856126975578	Kanuri	cent2050	the owl	OWL	735		dújì	dújì 
+201	5-3-61-1	73101856814749293	Kanuri	cent2050	the dog	DOG	2009		kə́rì	kə́rì 
+202	5-3-614-1	73101856765648371	Kanuri	cent2050	the rabbit	RABBIT	1136		tárwúnà	tárwúnà 
+203	5-3-62-1	731018568158293	Kanuri	cent2050	the cat	CAT	1208		ngàmfàtú	ngàmfàtú 
+204	5-3-62-2	73101856578450523	Kanuri	cent2050	the cat	CAT	1208		ngâm	ngâm 
+205	5-3-63-1	73101856759505787	Kanuri	cent2050	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ngárgə̀mà	ngárgə̀mà 
+206	5-3-63-2	73101856112957321	Kanuri	cent2050	the mouse or rat	MUROID (MOUSE OR RAT)	2139		jìlwá	jìlwá 
+207	5-3-65-1	73101856139771581	Kanuri	cent2050	the fish	FISH	227		bə́nyì	bə́nyì 
+208	5-3-652-1	73101856652684073	Kanuri	cent2050	the fin	FIN	213		kámbíràm	kámbíràm 
+209	5-3-653-1	73101856302810831	Kanuri	cent2050	the scale	SCALE	266		kàlígì	kàlígì 
+210	5-3-655-1	73101856536890668	Kanuri	cent2050	the shell	SHELL	598		kókkóyè	kókkóyè 
+211	5-3-665-1	73101856611513603	Kanuri	cent2050	the freshwater eel	FRESHWATER EEL	1013		kàdìkàdí	kàdìkàdí 
+212	5-3-72-1	73101856574876758	Kanuri	cent2050	the lion	LION	1386		ngâm kúrà	ngâm kúrà 
+213	5-3-72-2	73101856109562757	Kanuri	cent2050	the lion	LION	1386		bə́ndì	bə́ndì 
+214	5-3-74-1	73101856406840025	Kanuri	cent2050	the fox	FOX	1312		kə̀lə́gə̀	kə̀lə́gə̀ 
+215	5-3-75-1	7310185613200249	Kanuri	cent2050	the deer	DEER	1936		ngə́rí	ngə́rí 
+216	5-3-76-1	73101856652146193	Kanuri	cent2050	the monkey	MONKEY	1350		dágə̀l (1)	dágə̀l (1) 
+217	5-3-77-1	73101856688313883	Kanuri	cent2050	the elephant	ELEPHANT	1290		kə̀mówùn	kə̀mówùn 
+218	5-3-78-1	73101856499147823	Kanuri	cent2050	the camel	CAMEL	1871		kàlímò	kàlímò 
+219	5-3-81-1	73101856477795941	Kanuri	cent2050	the insect	INSECT	620		kùlí	kùlí 
+220	5-3-811-1	7310185625918494	Kanuri	cent2050	the head louse	HEAD LOUSE	310		kə̀ngə́sə̀	kə̀ngə́sə̀ 
+221	5-3-812-1	73101856389517045	Kanuri	cent2050	the nit	NIT	267		kángú	kángú 
+222	5-3-813-1	73101856288979741	Kanuri	cent2050	the flea	FLEA	232		tə́rgáwù	tə́rgáwù 
+223	5-3-814-1	73101856922608477	Kanuri	cent2050	the centipede	CENTIPEDE	1974		sáùràkə̀lànjì	sáùràkə̀lànjì 
+224	5-3-815-1	73101856891675205	Kanuri	cent2050	the scorpion	SCORPION	1538		kə̀lánjì	kə̀lánjì 
+225	5-3-816-1	73101856346579997	Kanuri	cent2050	the cockroach	COCKROACH	1575		nàná sálgámà	nàná sálgámà 
+226	5-3-817-1	73101856488908273	Kanuri	cent2050	the ant	ANT	587		cìdàcídà	cìdàcídà 
+227	5-3-818-1	73101856214065826	Kanuri	cent2050	the spider	SPIDER	843		tàùtáù	tàùtáù 
+228	5-3-819-1	73101856816728501	Kanuri	cent2050	the spider web	SPIDER WEB	1065		jê tàùtáùbè	jê tàùtáùbè 
+229	5-3-82-1	73101856206116526	Kanuri	cent2050	the bee	BEE	665		kúlìkə̀mágə̀n	kúlìkə̀mágə̀n 
+230	5-3-821-1	73101856231798017	Kanuri	cent2050	the beeswax	BEESWAX	1931		kə̀màgə̀nmí	kə̀màgə̀nmí 
+231	5-3-822-1	73101856682016834	Kanuri	cent2050	the beehive	BEEHIVE	88		fátò kúlìkə̀mágə̀nbè	fátò kúlìkə̀mágə̀nbè 
+232	5-3-823-1	7310185660548436	Kanuri	cent2050	the wasp	WASP	1517		màtàfífítò	màtàfífítò 
+233	5-3-83-1	73101856510569132	Kanuri	cent2050	the fly	FLY (INSECT)	1504		cíì	cíì 
+234	5-3-83-2	7310185661549551	Kanuri	cent2050	the fly	FLY (INSECT)	1504		kíyí	kíyí 
+235	5-3-832-1	73101856680085971	Kanuri	cent2050	the mosquito	MOSQUITO	1509		kàntánà	kàntánà 
+236	5-3-84-1	73101856477795941	Kanuri	cent2050	the worm	WORM	1219		kùlí	kùlí 
+237	5-3-85-1	73101856402542853	Kanuri	cent2050	the snake	SNAKE	730		kádí	kádí 
+238	5-3-91-1	73101856605951497	Kanuri	cent2050	the firefly	FIREFLY	206		wúllə́ràm	wúllə́ràm 
+239	5-3-92-1	73101856741887408	Kanuri	cent2050	the butterfly	BUTTERFLY	1791		fátáfátámà	fátáfátámà 
+240	5-3-93-1	73101856185218529	Kanuri	cent2050	the grasshopper	GRASSHOPPER	607		káwí	káwí 
+241	5-3-94-1	73101856617225000	Kanuri	cent2050	the snail	SNAIL	1543		kòkkòdó	kòkkòdó 
+242	5-3-95-1	73101856293255449	Kanuri	cent2050	the frog	FROG	503		kókkó	kókkó 
+243	5-3-96-1	73101856305094873	Kanuri	cent2050	the lizard	LIZARD	632		gàdángàré	gàdángàré 
+244	5-3-96-2	73101856336717138	Kanuri	cent2050	the lizard	LIZARD	632		gùrjámà	gùrjámà 
+245	5-3-97-1	73101856279491378	Kanuri	cent2050	the crocodile or alligator	CROCODILE	1857		kárám	kárám 
+246	5-3-98-1	73101856716412139	Kanuri	cent2050	the turtle	TURTLE	112		kúdú	kúdú 
+247	5-4-11-1	73101856318747859	Kanuri	cent2050	the body	BODY	1480		tígə̀	tígə̀ 
+248	5-4-12-1	73101856397305373	Kanuri	cent2050	the skin or hide	SKIN	763		kàráwì	kàráwì 
+249	5-4-13-1	73101856524080708	Kanuri	cent2050	the flesh	FLESH	2259		dâ	dâ 
+250	5-4-14-1	73101856384032630	Kanuri	cent2050	the hair	HAIR (HEAD)	2648		kùndúlì	kùndúlì 
+251	5-4-142-1	73101856110095778	Kanuri	cent2050	the beard	BEARD	678		njíshì	njíshì 
+252	5-4-144-1	73101856154512487	Kanuri	cent2050	the body hair	HAIR (BODY)	189		kùndúlì tígə̀bé	kùndúlì tígə̀bé 
+253	5-4-145-1	73101856529628011	Kanuri	cent2050	the pubic hair	PUBIC HAIR	36		tə́pshì	tə́pshì 
+254	5-4-145-2	73101856210531268	Kanuri	cent2050	the pubic hair	PUBIC HAIR	36		kùndúlì fúwùbè	kùndúlì fúwùbè 
+255	5-4-146-1	7310185692474102	Kanuri	cent2050	the dandruff	DANDRUFF	576		ngàjìbúl	ngàjìbúl 
+256	5-4-15-1	73101856635185743	Kanuri	cent2050	the blood	BLOOD	946		bû	bû 
+257	5-4-151-1	73101856334991121	Kanuri	cent2050	the vein or artery	BLOOD VESSEL	525		zâr bûbè	zâr bûbè 
+258	5-4-16-1	73101856642840164	Kanuri	cent2050	the bone	BONE	1394		shíllà	shíllà 
+259	5-4-162-1	73101856946624037	Kanuri	cent2050	the rib	RIB	801		shíllà shítíbè	shíllà shítíbè 
+260	5-4-17-1	73101856746308219	Kanuri	cent2050	the horn	HORN (ANATOMY)	1393		kàngádì	kàngádì 
+261	5-4-18-1	73101856451370611	Kanuri	cent2050	the tail	TAIL	1220		ngàwùrè	ngàwùrè 
+262	5-4-19-1	73101856536057469	Kanuri	cent2050	the back	BACK	1291		ngáwò	ngáwò 
+263	5-4-191-1	73101856161194519	Kanuri	cent2050	the spine	SPINE	805		kùlùwèrám	kùlùwèrám 
+264	5-4-2-1	73101856444609102	Kanuri	cent2050	the head	HEAD	1256		kə̀lâ	kə̀lâ 
+265	5-4-201-1	73101856309080212	Kanuri	cent2050	the temples	TEMPLES	1604		férí	férí 
+266	5-4-202-1	73101856312987168	Kanuri	cent2050	the skull	SKULL	1605		búwò kə̀lâbè	búwò kə̀lâbè 
+267	5-4-203-1	73101856957756040	Kanuri	cent2050	the brain	BRAIN	1583		kə́rgə́n	kə́rgə́n 
+268	5-4-204-1	7310185644741869	Kanuri	cent2050	the face	FACE	1560		fə́skà	fə́skà 
+269	5-4-205-1	7310185625239977	Kanuri	cent2050	the forehead	FOREHEAD	123		ngûm	ngûm 
+270	5-4-207-1	731018565044033	Kanuri	cent2050	the jaw	JAW	798		ngáìdò	ngáìdò 
+271	5-4-208-1	73101856184809706	Kanuri	cent2050	the cheek	CHEEK	1730		zə̀gàlí	zə̀gàlí 
+272	5-4-209-1	73101856268400227	Kanuri	cent2050	the chin	CHIN	1510		ngùmí	ngùmí 
+273	5-4-209-2	73101856713750565	Kanuri	cent2050	the chin	CHIN	1510		njìtìrám	njìtìrám 
+274	5-4-21-1	73101856476284398	Kanuri	cent2050	the eye	EYE	1248		shîm	shîm 
+275	5-4-212-1	73101856983108734	Kanuri	cent2050	the eyebrow	EYEBROW	1173		kùndúlì shîmbè	kùndúlì shîmbè 
+276	5-4-213-1	73101856296387233	Kanuri	cent2050	the eyelid	EYELID	17		fə́rtə̀ shîmbè	fə́rtə̀ shîmbè 
+277	5-4-214-1	7310185650899659	Kanuri	cent2050	the eyelash	EYELASH	1540		fòrtó	fòrtó 
+278	5-4-215-1	7310185613884603	Kanuri	cent2050	to blink	BLINK	1655		nzə̀místə́	nzə̀místə́ 
+279	5-4-22-1	73101856661045125	Kanuri	cent2050	the ear	EAR	1247		sə́mò	sə́mò 
+280	5-4-221-1	73101856575469333	Kanuri	cent2050	the earlobe	EARLOBE	18		fə́rtə̀ sə́mòbè	fə́rtə̀ sə́mòbè 
+281	5-4-222-1	73101856453954757	Kanuri	cent2050	the earwax	EARWAX	32		kàdáwù sə́mòbè	kàdáwù sə́mòbè 
+282	5-4-23-1	73101856984549517	Kanuri	cent2050	the nose	NOSE	1221		kə́nzà	kə́nzà 
+283	5-4-231-1	73101856212576428	Kanuri	cent2050	the nostril	NOSTRIL	1178		súwúlí kə́nzàbè	súwúlí kə́nzàbè 
+284	5-4-232-1	73101856706669630	Kanuri	cent2050	the nasal mucus	NASAL MUCUS (SNOT)	208		tə́lìn	tə́lìn 
+285	5-4-24-1	73101856646833116	Kanuri	cent2050	the mouth	MOUTH	674		cî	cî 
+286	5-4-241-1	73101856434062492	Kanuri	cent2050	the beak	BEAK	73		cî ngúdòbè	cî ngúdòbè 
+287	5-4-25-1	73101856133943571	Kanuri	cent2050	the lip	LIP	478		kâ cîbè	kâ cîbè 
+288	5-4-26-1	73101856954144650	Kanuri	cent2050	the tongue	TONGUE	1205		tə́làm	tə́làm 
+289	5-4-27-1	73101856143115592	Kanuri	cent2050	the tooth	TOOTH	1380		tímì	tímì 
+290	5-4-27-2	73101856833581282	Kanuri	cent2050	the tooth	TOOTH	1380		shélì	shélì 
+291	5-4-271-1	73101856553508236	Kanuri	cent2050	the gums	GUMS	139		kə̀lîn	kə̀lîn 
+292	5-4-272-1	73101856692253983	Kanuri	cent2050	the molar tooth	MOLAR TOOTH	1049		càmléléràm	càmléléràm 
+293	5-4-272-2	73101856392664935	Kanuri	cent2050	the molar tooth	MOLAR TOOTH	1049		kúrwú	kúrwú 
+294	5-4-28-1	73101856451994765	Kanuri	cent2050	the neck	NECK	1333		dáwú	dáwú 
+295	5-4-281-1	73101856841361422	Kanuri	cent2050	the nape of the neck	NAPE (OF NECK)	1347		múdí	múdí 
+296	5-4-29-1	73101856968672602	Kanuri	cent2050	the throat	THROAT	1346		ngùwòltó	ngùwòltó 
+297	5-4-3-1	73101856319352386	Kanuri	cent2050	the shoulder	SHOULDER	1482		ngáwánà	ngáwánà 
+298	5-4-301-1	73101856898306970	Kanuri	cent2050	the shoulderblade	SHOULDERBLADE	172		kə̀mbə́látə̀	kə̀mbə́látə̀ 
+299	5-4-302-1	73101856280236476	Kanuri	cent2050	the collarbone	COLLARBONE	1994		ngálngàl	ngálngàl 
+300	5-4-31-1	73101856641869887	Kanuri	cent2050	the arm	ARM	1673		múskò	múskò 
+301	5-4-312-1	73101856139765659	Kanuri	cent2050	the armpit	ARMPIT	1886		tə́lwù	tə́lwù 
+302	5-4-32-1	73101856946268047	Kanuri	cent2050	the elbow	ELBOW	981		njùrómí	njùrómí 
+303	5-4-321-1	73101856447654216	Kanuri	cent2050	the wrist	WRIST	799		dáwú múskòbè	dáwú múskòbè 
+304	5-4-33-1	73101856641869887	Kanuri	cent2050	the hand	HAND	1277		múskò	múskò 
+305	5-4-331-1	73101856764445239	Kanuri	cent2050	the palm of the hand	PALM OF HAND	1183		kàrádì	kàrádì 
+306	5-4-34-1	731018569510630	Kanuri	cent2050	the finger	FINGER	1303		ngùlòndó	ngùlòndó 
+307	5-4-342-1	73101856947090361	Kanuri	cent2050	the thumb	THUMB	1781		ngùlòndó bə̀lân	ngùlòndó bə̀lân 
+308	5-4-344-1	73101856704591763	Kanuri	cent2050	the fingernail	FINGERNAIL	1258		fə́rgámì	fə́rgámì 
+309	5-4-345-1	73101856240390211	Kanuri	cent2050	the claw	CLAW	72		fə́rgân	fə́rgân 
+310	5-4-35-1	7310185677374005	Kanuri	cent2050	the leg	LEG	1297		shî	shî 
+311	5-4-351-1	73101856810798720	Kanuri	cent2050	the thigh	THIGH	800		dúnó (2)	dúnó (2) 
+312	5-4-352-1	73101856484288280	Kanuri	cent2050	the calf of the leg	CALF OF LEG	498		də́ngə̀l	də́ngə̀l 
+313	5-4-36-1	73101856736620455	Kanuri	cent2050	the knee	KNEE	1371		ngùrúmngúrùm	ngùrúmngúrùm 
+314	5-4-37-1	7310185677374005	Kanuri	cent2050	the foot	FOOT	1301		shî	shî 
+315	5-4-371-1	73101856455060366	Kanuri	cent2050	the ankle	ANKLE	803		shîm shîbè	shîm shîbè 
+316	5-4-372-1	73101856138437299	Kanuri	cent2050	the heel	HEEL	980		gùdùgùdú	gùdùgùdú 
+317	5-4-374-1	73101856281509731	Kanuri	cent2050	the footprint	FOOTPRINT	318		shî	shî 
+318	5-4-38-1	73101856308341423	Kanuri	cent2050	the toe	TOE	1389		ngùlòndó shîbè	ngùlòndó shîbè 
+319	5-4-392-1	73101856803181892	Kanuri	cent2050	the wing	WING	1257		féfétò	féfétò 
+320	5-4-393-1	73101856384032630	Kanuri	cent2050	the feather	FEATHER	1201		kùndúlì	kùndúlì 
+321	5-4-393-2	73101856803181892	Kanuri	cent2050	the feather	FEATHER	1201		féfétò	féfétò 
+322	5-4-4-1	73101856754367113	Kanuri	cent2050	the chest	CHEST	1592		ngánjì	ngánjì 
+323	5-4-41-1	73101856296355355	Kanuri	cent2050	the breast	BREAST	1402		tə́gàm	tə́gàm 
+324	5-4-412-1	73101856925277085	Kanuri	cent2050	the nipple or teat	NIPPLE	796		nzə̀mbòràm	nzə̀mbòràm 
+325	5-4-42-1	73101856925277085	Kanuri	cent2050	the udder	UDDER	154		nzə̀mbòràm	nzə̀mbòràm 
+326	5-4-43-1	73101856765709609	Kanuri	cent2050	the navel	NAVEL	1838		dàwùdí	dàwùdí 
+327	5-4-44-1	73101856182596074	Kanuri	cent2050	the heart	HEART	1223		kárwù	kárwù 
+328	5-4-441-1	73101856155238389	Kanuri	cent2050	the lung	LUNG	688		fùfú	fùfú 
+329	5-4-45-1	73101856823228562	Kanuri	cent2050	the liver	LIVER	1224		kə̀máttə̀n	kə̀máttə̀n 
+330	5-4-45-2	73101856710160477	Kanuri	cent2050	the liver	LIVER	1224		dádámì	dádámì 
+331	5-4-451-1	73101856443892031	Kanuri	cent2050	the kidney	KIDNEY	489		kə̀ntə̀gə̀lìrám	kə̀ntə̀gə̀lìrám 
+332	5-4-46-1	731018562397845	Kanuri	cent2050	the stomach	STOMACH	819		súró	súró 
+333	5-4-46-2	73101856274161451	Kanuri	cent2050	the stomach	STOMACH	819		tìmbí	tìmbí 
+334	5-4-461-1	73101856457843040	Kanuri	cent2050	the intestines or guts	INTESTINES	1991		kàlə̂m	kàlə̂m 
+335	5-4-462-1	73101856886202966	Kanuri	cent2050	the waist	WAIST	1681		fárúwù	fárúwù 
+336	5-4-462-2	73101856434483544	Kanuri	cent2050	the waist	WAIST	1681		tə̀mbə́r	tə̀mbə́r 
+337	5-4-463-1	7310185619502632	Kanuri	cent2050	the hip	HIP	1745		kànzə́gə́	kànzə́gə́ 
+338	5-4-463-2	73101856739708759	Kanuri	cent2050	the hip	HIP	1745		cànzá	cànzá 
+339	5-4-464-1	73101856285908788	Kanuri	cent2050	the buttocks	BUTTOCKS	834		də̀mbə́r	də̀mbə́r 
+340	5-4-464-2	73101856261478383	Kanuri	cent2050	the buttocks	BUTTOCKS	834		dùwùlí	dùwùlí 
+341	5-4-47-1	73101856807062300	Kanuri	cent2050	the womb	WOMB	804		tàdàrám	tàdàrám 
+342	5-4-49-1	73101856989821009	Kanuri	cent2050	the testicles	TESTICLES	797		súsú tə́rwə́lə̀mbè	súsú tə́rwə́lə̀mbè 
+343	5-4-49-2	73101856536921660	Kanuri	cent2050	the testicles	TESTICLES	797		ngûr	ngûr 
+344	5-4-492-1	73101856414609208	Kanuri	cent2050	the penis	PENIS	1222		ngə́lì	ngə́lì 
+345	5-4-492-2	73101856356425869	Kanuri	cent2050	the penis	PENIS	1222		zákàr	zákàr 
+346	5-4-492-3	73101856768634987	Kanuri	cent2050	the penis	PENIS	1222		kwàngwàrám	kwàngwàrám 
+347	5-4-51-1	73101856187121327	Kanuri	cent2050	to breathe	BREATHE	1407		yìntə́	yìntə́ 
+348	5-4-52-1	73101856575137007	Kanuri	cent2050	to yawn	YAWN	1028		wásàm yikko	wásàm yikko 
+349	5-4-52-2	73101856855617307	Kanuri	cent2050	to yawn	YAWN	1028		hámmà	hámmà 
+350	5-4-521-1	73101856360824201	Kanuri	cent2050	to hiccough	HICCOUGH	162		sə́ngéttə́	sə́ngéttə́ 
+351	5-4-53-1	73101856483494918	Kanuri	cent2050	to cough	COUGH	879		nzàsə̀rà	nzàsə̀rà 
+352	5-4-54-1	73101856330880808	Kanuri	cent2050	to sneeze	SNEEZE	1621		wódíshà sèkkìn	wódíshà sèkkìn 
+353	5-4-55-1	73101856388939797	Kanuri	cent2050	to perspire	SWEAT (PERSPIRE)	126		zúngù fàntə́	zúngù fàntə́ 
+354	5-4-56-1	73101856634173998	Kanuri	cent2050	to spit	SPIT	1440		tə̀fátə́	tə̀fátə́ 
+355	5-4-56-2	73101856431444861	Kanuri	cent2050	to spit	SPIT	1440		njírə́ttə́	njírə́ttə́ 
+356	5-4-57-1	7310185629976768	Kanuri	cent2050	to vomit	VOMIT	1278		kə̀móló fítə́	kə̀móló fítə́ 
+357	5-4-57-2	73101856883772821	Kanuri	cent2050	to vomit	VOMIT	1278		káláktə́	káláktə́ 
+358	5-4-58-1	73101856813227932	Kanuri	cent2050	to bite	BITE	1403		tímìn tà	tímìn tà 
+359	5-4-58-2	73101856825918812	Kanuri	cent2050	to bite	BITE	1403		nàndò	nàndò 
+360	5-4-59-1	73101856563172079	Kanuri	cent2050	to lick	LICK	319		mə̀láttə́	mə̀láttə́ 
+361	5-4-591-1	73101856735418586	Kanuri	cent2050	to dribble	DRIBBLE	268		tùrú	tùrú 
+362	5-4-61-1	73101856353201303	Kanuri	cent2050	to sleep	SLEEP	1585		léttə́	léttə́ 
+363	5-4-612-1	73101856390823396	Kanuri	cent2050	to snore	SNORE	1983		súngòrí	súngòrí 
+364	5-4-62-1	73101856844733060	Kanuri	cent2050	to dream	DREAM (SOMETHING)	1920		kə̀náshîm yikko	kə̀náshîm yikko 
+365	5-4-63-1	73101856963988588	Kanuri	cent2050	to wake up	WAKE UP	1602		fátə́	fátə́ 
+366	5-4-64-1	73101856700142071	Kanuri	cent2050	to fart	FART	1159		kárgí fítə́	kárgí fítə́ 
+367	5-4-65-1	73101856105504026	Kanuri	cent2050	to piss	PISS	592		còlló	còlló 
+368	5-4-66-1	7310185666819395	Kanuri	cent2050	to shit	SHIT (DEFECATE)	676		yèrtà	yèrtà 
+369	5-4-67-1	73101856370910369	Kanuri	cent2050	to have sex	HAVE SEX	1785		ngə̀lə́ktə́	ngə̀lə́ktə́ 
+370	5-4-67-2	73101856447593382	Kanuri	cent2050	to have sex	HAVE SEX	1785		kámúrò kə̂mbâ	kámúrò kə̂mbâ 
+371	5-4-68-1	73101856204940803	Kanuri	cent2050	to shiver	SHIVER	52		lólótə́	lólótə́ 
+372	5-4-69-1	73101856295829373	Kanuri	cent2050	to bathe	BATHE	138		kásálà	kásálà 
+373	5-4-71-1	73101856117781866	Kanuri	cent2050	to beget	BEGET	1152		nzàmbò	nzàmbò 
+374	5-4-72-1	73101856117781866	Kanuri	cent2050	to be born	BE BORN	1090		nzàmbò	nzàmbò 
+375	5-4-73-1	7310185661430667	Kanuri	cent2050	pregnant	PREGNANT	1123		súróà	súróà 
+376	5-4-732-1	73101856209534072	Kanuri	cent2050	to conceive	CONCEIVE	1087		kə̀ndégə́	kə̀ndégə́ 
+377	5-4-74-1	73101856504276862	Kanuri	cent2050	to be alive	BE ALIVE	1422		rôà	rôà 
+378	5-4-75-1	73101856690501370	Kanuri	cent2050	to die	DIE	1494		nò	nò 
+379	5-4-751-1	73101856696704672	Kanuri	cent2050	to drown	DROWN	1904		njî ngótə́	njî ngótə́ 
+380	5-4-76-1	73101856986075968	Kanuri	cent2050	to kill	KILL	1417		njèzò	njèzò 
+381	5-4-77-1	73101856204670727	Kanuri	cent2050	the corpse	CORPSE	767		líwà	líwà 
+382	5-4-77-2	73101856147965714	Kanuri	cent2050	the corpse	CORPSE	767		kàwîn	kàwîn 
+383	5-4-78-1	73101856684604564	Kanuri	cent2050	to bury	BURY	1719		shìtə̀ràtə́	shìtə̀ràtə́ 
+384	5-4-79-1	73101856712611030	Kanuri	cent2050	the grave	GRAVE	1773		káwùrì	káwùrì 
+385	5-4-81-1	73101856186547968	Kanuri	cent2050	strong	STRONG	785		dúnò (1)	dúnò (1) 
+386	5-4-82-1	73101856269856307	Kanuri	cent2050	weak	WEAK	1601		lágə̀	lágə̀ 
+387	5-4-82-2	73101856243717155	Kanuri	cent2050	weak	WEAK	1601		dúnó bâ	dúnó bâ 
+388	5-4-83-1	73101856570459102	Kanuri	cent2050	healthy	HEALTHY	1364		nə̀mlèwáà	nə̀mlèwáà 
+389	5-4-84-1	7310185657586047	Kanuri	cent2050	sick/ill	SICK	1847		dóndì	dóndì 
+390	5-4-841-1	73101856798742632	Kanuri	cent2050	the fever	FEVER	1534		kàngê	kàngê 
+391	5-4-842-1	73101856748577479	Kanuri	cent2050	the goitre/goiter	GOITER	1957		búlè	búlè 
+392	5-4-843-1	7310185680543730	Kanuri	cent2050	the cold	COMMON COLD (DISEASE)	102		kə̀lâtə̀rə̀m	kə̀lâtə̀rə̀m 
+393	5-4-85-1	73101856198130639	Kanuri	cent2050	the wound or sore	WOUND	1109		túnú	túnú 
+394	5-4-852-1	73101856806852266	Kanuri	cent2050	the bruise	BRUISE	1148		dámbáshì	dámbáshì 
+395	5-4-853-1	73101856275198938	Kanuri	cent2050	the swelling	SWELLING	1903		fútə́	fútə́ 
+396	5-4-853-2	7310185658784838	Kanuri	cent2050	the swelling	SWELLING	1903		lèlènó	lèlènó 
+397	5-4-854-1	73101856648481249	Kanuri	cent2050	the itch	ITCH	148		kə̀lílìm	kə̀lílìm 
+398	5-4-855-1	73101856471834826	Kanuri	cent2050	the blister	BLISTER	1584		tótóltə́	tótóltə́ 
+399	5-4-856-1	73101856373239600	Kanuri	cent2050	the boil	BOIL (OF SKIN)	793		kúdù	kúdù 
+400	5-4-857-1	73101856293007800	Kanuri	cent2050	the pus	PUS	1808		kálì	kálì 
+401	5-4-858-1	73101856351774857	Kanuri	cent2050	the scar	SCAR	497		bálò	bálò 
+402	5-4-86-1	73101856694951343	Kanuri	cent2050	to cure	CURE	499		ngàtə́	ngàtə́ 
+403	5-4-87-1	73101856651896366	Kanuri	cent2050	the physician	PHYSICIAN	597		líítà	líítà 
+404	5-4-87-2	73101856158195966	Kanuri	cent2050	the physician	PHYSICIAN	597		kùrgùnmá	kùrgùnmá 
+405	5-4-88-1	73101856240617514	Kanuri	cent2050	the medicine	MEDICINE	1372		kùrgûn	kùrgûn 
+406	5-4-89-1	73101856856592882	Kanuri	cent2050	the poison	POISON	655		sûm	sûm 
+407	5-4-91-1	73101856840379990	Kanuri	cent2050	tired	TIRED	1757		kásə́mbá	kásə́mbá 
+408	5-4-912-1	73101856917457961	Kanuri	cent2050	to rest	REST	168		tùstə́	tùstə́ 
+409	5-4-92-1	73101856443440137	Kanuri	cent2050	lazy	LAZY	1564		máské	máské 
+410	5-4-92-2	73101856995849415	Kanuri	cent2050	lazy	LAZY	1564		sə̀lwáì	sə̀lwáì 
+411	5-4-92-3	73101856269856307	Kanuri	cent2050	lazy	LAZY	1564		lágə̀	lágə̀ 
+412	5-4-92-4	73101856572345026	Kanuri	cent2050	lazy	LAZY	1564		lúsùr	lúsùr 
+413	5-4-93-1	73101856937454535	Kanuri	cent2050	bald	BALD	1125		sə̀lé	sə̀lé 
+414	5-4-94-1	73101856175481437	Kanuri	cent2050	lame	LAME	320		dùngú	dùngú 
+415	5-4-95-1	73101856883508868	Kanuri	cent2050	deaf	DEAF	996		mùwá	mùwá 
+416	5-4-95-2	73101856726758949	Kanuri	cent2050	deaf	DEAF	996		bébé	bébé 
+417	5-4-96-1	73101856883508868	Kanuri	cent2050	mute	MUTE	1666		mùwá	mùwá 
+418	5-4-97-1	73101856958923954	Kanuri	cent2050	blind	BLIND	1653		kə́mbù	kə́mbù 
+419	5-4-98-1	73101856443282991	Kanuri	cent2050	drunk	DRUNK	1463		cánà lə́p	cánà lə́p 
+420	5-4-99-1	73101856328878740	Kanuri	cent2050	naked	NAKED	590		də̀mbə́r déà	də̀mbə́r déà 
+421	5-5-11-1	73101856779437172	Kanuri	cent2050	to eat	EAT	1336		bù	bù 
+422	5-5-12-1	73101856666218409	Kanuri	cent2050	the food	FOOD	256		kə̀mbû	kə̀mbû 
+423	5-5-121-1	73101856960130501	Kanuri	cent2050	cooked	COOKED	269		dégátà	dégátà 
+424	5-5-122-1	73101856440610926	Kanuri	cent2050	raw	RAW	1959		kə̀lî	kə̀lî 
+425	5-5-123-1	73101856142797207	Kanuri	cent2050	ripe	RIPE	178		bàfə́nà	bàfə́nà 
+426	5-5-124-1	73101856440610926	Kanuri	cent2050	unripe	UNRIPE	1958		kə̀lî	kə̀lî 
+427	5-5-125-1	73101856145244126	Kanuri	cent2050	rotten	ROTTEN	1728		mìstə́	mìstə́ 
+428	5-5-13-1	73101856404708590	Kanuri	cent2050	to drink	DRINK	1401		njâ	njâ 
+429	5-5-14-1	73101856757654407	Kanuri	cent2050	to be hungry	BE HUNGRY	1533		kə̀nâà	kə̀nâà 
+430	5-5-141-1	73101856657163872	Kanuri	cent2050	the famine	FAMINE	199		kə̀nâ kúrà	kə̀nâ kúrà 
+431	5-5-15-1	73101856561366938	Kanuri	cent2050	to be thirsty	THIRSTY	847		ngúdùà	ngúdùà 
+432	5-5-16-1	73101856563172079	Kanuri	cent2050	to suck	SUCK	1421		mə̀láttə́	mə̀láttə́ 
+433	5-5-16-2	73101856407379005	Kanuri	cent2050	to suck	SUCK	1421		yəmbò	yəmbò 
+434	5-5-18-1	73101856633918321	Kanuri	cent2050	to chew	CHEW	321		gə̀rò	gə̀rò 
+435	5-5-181-1	73101856184795001	Kanuri	cent2050	to swallow	SWALLOW	897		nzùndò	nzùndò 
+436	5-5-19-1	73101856469323324	Kanuri	cent2050	to choke	CHOKE	129		yúlóktə́	yúlóktə́ 
+437	5-5-21-1	73101856609628455	Kanuri	cent2050	to cook	COOK (SOMETHING)	1100		détə́	détə́ 
+438	5-5-22-1	73101856220889907	Kanuri	cent2050	to boil	BOIL (OF LIQUID)	792		lòrò	lòrò 
+439	5-5-23-1	73101856337094166	Kanuri	cent2050	to roast or fry	ROAST OR FRY	2146		wártə́	wártə́ 
+440	5-5-24-1	73101856337094166	Kanuri	cent2050	to bake	BAKE	183		wártə́	wártə́ 
+441	5-5-25-1	73101856437690638	Kanuri	cent2050	the oven	OVEN	1143		mə̀ktə́gə́ràm	mə̀ktə́gə́ràm 
+442	5-5-26-1	73101856641331039	Kanuri	cent2050	the pot	POT	1462		kóló	kóló 
+443	5-5-27-1	73101856996069236	Kanuri	cent2050	the kettle	KETTLE	854		sàkkân	sàkkân 
+444	5-5-28-1	73101856999884270	Kanuri	cent2050	the pan	PAN	31		kwánò	kwánò 
+445	5-5-31-1	73101856586908588	Kanuri	cent2050	the dish	DISH	481		tásà	tásà 
+446	5-5-32-1	73101856586908588	Kanuri	cent2050	the plate	PLATE	480		tásà	tásà 
+447	5-5-33-1	73101856187733142	Kanuri	cent2050	the bowl	BOWL	1530		búwúr	búwúr 
+448	5-5-33-2	73101856586908588	Kanuri	cent2050	the bowl	BOWL	1530		tásà	tásà 
+449	5-5-34-1	73101856987171705	Kanuri	cent2050	the jug/pitcher	JUG	270		búwùlè	búwùlè 
+450	5-5-34-2	73101856260786742	Kanuri	cent2050	the jug/pitcher	JUG	270		ngə̀mtó	ngə̀mtó 
+451	5-5-35-1	73101856164977986	Kanuri	cent2050	the cup	CUP	476		ngə̀mtógóràm	ngə̀mtógóràm 
+452	5-5-37-1	73101856609048850	Kanuri	cent2050	the spoon	SPOON	1378		cókkòl	cókkòl 
+453	5-5-38-1	73101856579990124	Kanuri	cent2050	the knife(1)	KNIFE (FOR EATING)	3210		zàná	zàná 
+454	5-5-39-1	73101856884881506	Kanuri	cent2050	the fork	FORK	1302		cókkòl ngùlòndóà	cókkòl ngùlòndóà 
+455	5-5-39-2	73101856391620121	Kanuri	cent2050	the fork	FORK	1302		fôk	fôk 
+456	5-5-391-1	73101856949752124	Kanuri	cent2050	the tongs	TONGS	272		tóngù	tóngù 
+457	5-5-41-1	7310185686301358	Kanuri	cent2050	the meal	MEAL	1526		bə́rì	bə́rì 
+458	5-5-42-1	73101856603350308	Kanuri	cent2050	the breakfast	BREAKFAST	1322		kə̀móló yòktà	kə̀móló yòktà 
+459	5-5-43-1	73101856603125219	Kanuri	cent2050	the lunch	LUNCH	768		bə́rì kǎùsùbè	bə́rì kǎùsùbè 
+460	5-5-44-1	73101856968234560	Kanuri	cent2050	the dinner	DINNER (SUPPER)	1833		bə́rì kàjíríbè	bə́rì kàjíríbè 
+461	5-5-45-1	73101856262910647	Kanuri	cent2050	the supper	DINNER (SUPPER)	1833		bə́rì búnébè	bə́rì búnébè 
+462	5-5-46-1	73101856359711008	Kanuri	cent2050	to peel	PEEL	275		kúwúltə́	kúwúltə́ 
+463	5-5-47-1	73101856882364525	Kanuri	cent2050	to sieve or to strain	SIEVE	86		sàktə́	sàktə́ 
+464	5-5-48-1	73101856429647712	Kanuri	cent2050	to scrape	SCRAPE	1767		kùràìtà	kùràìtà 
+465	5-5-48-2	73101856505181828	Kanuri	cent2050	to scrape	SCRAPE	1767		nzə̀gə́rtə́	nzə̀gə́rtə́ 
+466	5-5-49-1	73101856682762141	Kanuri	cent2050	to stir or to mix	MIX	2017		dìtə́	dìtə́ 
+467	5-5-49-2	73101856784790723	Kanuri	cent2050	to stir or to mix	MIX	2017		tùsátə́	tùsátə́ 
+468	5-5-51-1	73101856989384920	Kanuri	cent2050	the bread	BREAD	1368		búródì	búródì 
+469	5-5-53-1	73101856765939814	Kanuri	cent2050	the dough	DOUGH	273		kùnú	kùnú 
+470	5-5-54-1	73101856682762141	Kanuri	cent2050	to knead	KNEAD	274		dìtə́	dìtə́ 
+471	5-5-54-2	73101856107271717	Kanuri	cent2050	to knead	KNEAD	274		kə́mə́stə́	kə́mə́stə́ 
+472	5-5-55-1	73101856587103020	Kanuri	cent2050	the flour	FLOUR	1594		rúngù	rúngù 
+473	5-5-56-1	73101856328321557	Kanuri	cent2050	to crush or to grind	GRIND	1033		nyètə́	nyètə́ 
+474	5-5-56-2	73101856138528878	Kanuri	cent2050	to crush or to grind	GRIND	1033		gə̀wə́rtə́	gə̀wə́rtə́ 
+475	5-5-57-1	73101856130983097	Kanuri	cent2050	the mill	MILL	636		nyètə́ràm	nyètə́ràm 
+476	5-5-57-2	73101857557914114	Kanuri	cent2050	the mill	MILL	636		ínjìn	ínjìn 
+477	5-5-58-1	73101856884769432	Kanuri	cent2050	the mortar(1)	MORTAR CRUSHER	224		kûr	kûr 
+478	5-5-59-1	7310185614096623	Kanuri	cent2050	the pestle	PESTLE	225		kə̀rmó	kə̀rmó 
+479	5-5-61-1	73101856524080708	Kanuri	cent2050	the meat	MEAT	634		dâ	dâ 
+480	5-5-64-1	73101856678421323	Kanuri	cent2050	the soup	SOUP	1547		kə́nzə́n	kə́nzə́n 
+481	5-5-65-1	73101856736234898	Kanuri	cent2050	the vegetables	VEGETABLES	924		kə̀lìzùwó	kə̀lìzùwó 
+482	5-5-65-2	73101856485778975	Kanuri	cent2050	the vegetables	VEGETABLES	924		kárè zə́rbúbè	kárè zə́rbúbè 
+483	5-5-66-1	73101856230077216	Kanuri	cent2050	the bean	BEAN	832		ngálò	ngálò 
+484	5-5-7-1	7310185653602794	Kanuri	cent2050	the potato	POTATO	593		kùndúwù	kùndúwù 
+485	5-5-7-2	73101856831858606	Kanuri	cent2050	the potato	POTATO	593		dàngálì nàsàrá	dàngálì nàsàrá 
+486	5-5-71-1	73101856727156546	Kanuri	cent2050	the fruit	FRUIT	1507		tádà kə̀skábè	tádà kə̀skábè 
+487	5-5-712-1	73101856534594179	Kanuri	cent2050	the bunch	BUNCH	1966		démè	démè 
+488	5-5-76-1	73101856429667687	Kanuri	cent2050	the grape	GRAPE	920		yínàbí	yínàbí 
+489	5-5-77-1	73101856376904676	Kanuri	cent2050	the nut	NUT	191		nágə̀	nágə̀ 
+490	5-5-78-1	73101856228931193	Kanuri	cent2050	the olive	OLIVE	1154		zàìtûn	zàìtûn 
+491	5-5-79-1	73101856564385765	Kanuri	cent2050	the oil	OIL (ORGANIC SUBSTANCE)	1484		kə̀ndágə̀	kə̀ndágə̀ 
+492	5-5-791-1	73101856428662649	Kanuri	cent2050	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		kàísə̀	kàísə̀ 
+493	5-5-81-1	73101856755796366	Kanuri	cent2050	the salt	SALT	1274		mándá	mándá 
+494	5-5-82-1	73101856343678475	Kanuri	cent2050	the pepper	PEPPER	1385		njìttá	njìttá 
+495	5-5-82-2	73101856165637257	Kanuri	cent2050	the pepper	PEPPER	1385		mòsóró	mòsóró 
+496	5-5-821-1	73101856878244580	Kanuri	cent2050	the chili pepper	CHILI PEPPER	919		bàrwùnó	bàrwùnó 
+497	5-5-84-1	73101856689284047	Kanuri	cent2050	the honey	HONEY	942		kə̀mágə̀n	kə̀mágə̀n 
+498	5-5-85-1	73101856157493392	Kanuri	cent2050	the sugar	SUGAR	862		súwùr	súwùr 
+499	5-5-86-1	73101856976244968	Kanuri	cent2050	the milk	MILK	635		câm	câm 
+500	5-5-87-1	73101856845120253	Kanuri	cent2050	to milk	DRAW MILK	93		ngántə́	ngántə́ 
+501	5-5-88-1	73101856754844814	Kanuri	cent2050	the cheese	CHEESE	1569		cúkú (2)	cúkú (2) 
+502	5-5-89-1	73101856226998143	Kanuri	cent2050	the butter	BUTTER	1245		fə́là	fə́là 
+503	5-5-9-1	73101856449741195	Kanuri	cent2050	the drink	BEVERAGE	731		kə̀njâ	kə̀njâ 
+504	5-5-92-1	73101856184444341	Kanuri	cent2050	the wine	WINE	1524		mbàl	mbàl 
+505	5-5-93-1	73101856184444341	Kanuri	cent2050	the beer	BEER	1639		mbàl	mbàl 
+506	5-5-93-2	73101856400281421	Kanuri	cent2050	the beer	BEER	1639		kùmîl	kùmîl 
+507	5-5-97-1	7310185659537485	Kanuri	cent2050	the egg	EGG	744		ngə́wə́l	ngə́wə́l 
+508	5-5-971-1	73101856666414581	Kanuri	cent2050	the yolk	YOLK	1556		cìmê ngə́wə́lbè	cìmê ngə́wə́lbè 
+509	5-6-11-1	73101856517286827	Kanuri	cent2050	to put on	PUT ON	158		nzə̀kkò	nzə̀kkò 
+510	5-6-12-1	73101856733824726	Kanuri	cent2050	the clothing or clothes	CLOTHES	1895		kàzə́mù	kàzə́mù 
+511	5-6-13-1	73101856799375844	Kanuri	cent2050	the tailor	TAILOR	881		kèkémà	kèkémà 
+512	5-6-13-2	73101856811166107	Kanuri	cent2050	the tailor	TAILOR	881		télà	télà 
+513	5-6-21-1	73101856458370913	Kanuri	cent2050	the cloth	CLOTH	1616		báttà	báttà 
+514	5-6-21-2	73101856696282985	Kanuri	cent2050	the cloth	CLOTH	1616		yádì	yádì 
+515	5-6-22-1	73101856200499170	Kanuri	cent2050	the wool	WOOL	964		kùndúlì dímìbè	kùndúlì dímìbè 
+516	5-6-23-1	7310185644593611	Kanuri	cent2050	the linen	LINEN	916		lîn	lîn 
+517	5-6-24-1	73101856463702844	Kanuri	cent2050	the cotton	COTTON	1850		kàlwúsə̀n	kàlwúsə̀n 
+518	5-6-25-1	73101856943594494	Kanuri	cent2050	the silk	SILK	1641		sə̀lékì	sə̀lékì 
+519	5-6-25-2	7310185618794713	Kanuri	cent2050	the silk	SILK	1641		hàrîl	hàrîl 
+520	5-6-28-1	73101856397305373	Kanuri	cent2050	the fur	FUR	580		kàráwì	kàráwì 
+521	5-6-29-1	73101856407215	Kanuri	cent2050	the leather	LEATHER	629		njírì	njírì 
+522	5-6-31-1	73101856512699927	Kanuri	cent2050	to spin	SPIN	121		kórkórtə̀	kórkórtə̀ 
+523	5-6-32-1	73101856754748911	Kanuri	cent2050	the spindle	SPINDLE	277		tòkkûl	tòkkûl 
+524	5-6-33-1	73101856718069197	Kanuri	cent2050	to weave	WEAVE	133		dútó	dútó 
+525	5-6-34-1	73101856591122075	Kanuri	cent2050	the loom	LOOM	1787		ságá	ságá 
+526	5-6-35-1	73101856793209565	Kanuri	cent2050	to sew	SEW	1457		dùtò	dùtò 
+527	5-6-36-1	73101856372546388	Kanuri	cent2050	the needle(1)	NEEDLE (FOR SEWING)	1382		líwùlà	líwùlà 
+528	5-6-37-1	73101856443849981	Kanuri	cent2050	the awl	AWL	278		màsíllá	màsíllá 
+529	5-6-38-1	73101856107871429	Kanuri	cent2050	the thread	THREAD	1161		gə̀ràsáà	gə̀ràsáà 
+530	5-6-39-1	73101856570764856	Kanuri	cent2050	to dye	DYE	157		dáltə́	dáltə́ 
+531	5-6-41-1	73101856380084118	Kanuri	cent2050	the cloak	CLOAK	326		bàrmús	bàrmús 
+532	5-7-37-1	7310185627261068	Kanuri	cent2050	the ladder	LADDER	1464		dágə̀l (2)	dágə̀l (2) 
+533	5-7-37-2	73101856368529732	Kanuri	cent2050	the ladder	LADDER	1464		kùrángá	kùrángá 
+534	5-6-42-1	73101856112589022	Kanuri	cent2050	the (woman's) dress	DRESS	474		kámsàl	kámsàl 
+535	5-6-43-1	73101856142354362	Kanuri	cent2050	the coat	COAT	603		kôt	kôt 
+536	5-6-43-2	73101856114409990	Kanuri	cent2050	the coat	COAT	603		màntô	màntô 
+537	5-6-44-1	73101856280475622	Kanuri	cent2050	the shirt	SHIRT	1622		gə̀májè	gə̀májè 
+538	5-6-44-2	73101856689613556	Kanuri	cent2050	the shirt	SHIRT	1622		dánkíkì	dánkíkì 
+539	5-6-45-1	73101856324546193	Kanuri	cent2050	the collar	COLLAR	2012		kwálà	kwálà 
+540	5-6-45-2	73101856506318961	Kanuri	cent2050	the collar	COLLAR	2012		kwâl	kwâl 
+541	5-6-46-1	73101856779471867	Kanuri	cent2050	the skirt	SKIRT	1600		dántòbí	dántòbí 
+542	5-6-46-2	73101856427173198	Kanuri	cent2050	the skirt	SKIRT	1600		sìkêt	sìkêt 
+543	5-6-46-3	73101856482987168	Kanuri	cent2050	the skirt	SKIRT	1600		jîp	jîp 
+544	5-6-46-4	73101856635826196	Kanuri	cent2050	the skirt	SKIRT	1600		fàtàlí	fàtàlí 
+545	5-6-461-1	73101856639427687	Kanuri	cent2050	the grass-skirt	GRASS-SKIRT	328		bànté	bànté 
+546	5-6-48-1	73101856158464989	Kanuri	cent2050	the trousers	TROUSERS	809		yàngê	yàngê 
+547	5-6-49-1	73101856696545627	Kanuri	cent2050	the sock or stocking	STOCKING	329		sósì	sósì 
+548	5-6-51-1	73101856913605776	Kanuri	cent2050	the shoe	SHOE	1381		súnó	súnó 
+549	5-6-52-1	73101856190250152	Kanuri	cent2050	the boot	BOOT	585		kàdìmálánkànə́m	kàdìmálánkànə́m 
+550	5-6-52-2	73101856464799022	Kanuri	cent2050	the boot	BOOT	585		jìràwûn	jìràwûn 
+551	5-6-52-3	73101856140500634	Kanuri	cent2050	the boot	BOOT	585		kûp	kûp 
+552	5-6-54-1	73101856148547591	Kanuri	cent2050	the shoemaker	SHOEMAKER	875		kə̀lídə́mà	kə̀lídə́mà 
+553	5-6-55-1	7310185665428303	Kanuri	cent2050	the hat or cap	HEADGEAR	2130		jáwá	jáwá 
+554	5-6-55-2	73101856179127053	Kanuri	cent2050	the hat or cap	HEADGEAR	2130		gùrùmbá	gùrùmbá 
+555	5-6-57-1	7310185643808343	Kanuri	cent2050	the belt	BELT	772		làwùrjé	làwùrjé 
+556	5-6-57-2	73101856348767617	Kanuri	cent2050	the belt	BELT	772		bêl	bêl 
+557	5-6-59-1	73101856689728860	Kanuri	cent2050	the veil	VEIL	1151		hìjâp	hìjâp 
+558	5-6-61-1	73101856520648865	Kanuri	cent2050	the pocket	POCKET	1851		líwù	líwù 
+559	5-6-62-1	73101856910567940	Kanuri	cent2050	the button	BUTTON	757		àníní	àníní 
+560	5-6-62-2	73101856382814167	Kanuri	cent2050	the button	BUTTON	757		bùtô	bùtô 
+561	5-6-63-1	73101856310137142	Kanuri	cent2050	the pin	PIN	64		féngèl	féngèl 
+562	5-6-63-2	73101856637660398	Kanuri	cent2050	the pin	PIN	64		mùsùwár	mùsùwár 
+563	5-6-71-1	73101856519444456	Kanuri	cent2050	the ornament or adornment	ORNAMENT	917		záyèràm	záyèràm 
+564	5-6-72-1	73101856982061117	Kanuri	cent2050	the jewel	JEWEL	1029		kárè dáwùbè	kárè dáwùbè 
+565	5-6-73-1	73101856279932117	Kanuri	cent2050	the ring	RING	1374		kùlûm	kùlûm 
+566	5-6-74-1	73101856699554374	Kanuri	cent2050	the bracelet	BRACELET	1754		mùskòrám	mùskòrám 
+567	5-6-74-2	73101856579745694	Kanuri	cent2050	the bracelet	BRACELET	1754		njárángə̀	njárángə̀ 
+568	5-6-75-1	73101856153661241	Kanuri	cent2050	the necklace	NECKLACE	1961		dàwùrám	dàwùrám 
+569	5-6-76-1	73101856211773776	Kanuri	cent2050	the bead	BEAD	1860		kǔltù	kǔltù 
+570	5-6-77-1	73101856702913212	Kanuri	cent2050	the earring	EARRING	770		sə̀mòrám	sə̀mòrám 
+571	5-6-79-1	73101856582939178	Kanuri	cent2050	the tattoo	TATTOO	68		rétə́	rétə́ 
+572	5-6-81-1	73101856458370913	Kanuri	cent2050	the handkerchief or rag	RAG	332		báttà	báttà 
+573	5-6-81-2	73101856135456124	Kanuri	cent2050	the handkerchief or rag	RAG	332		àlwútà	àlwútà 
+574	5-6-82-1	73101856458370913	Kanuri	cent2050	the towel	TOWEL	1021		báttà	báttà 
+575	5-6-82-2	73101856454658557	Kanuri	cent2050	the towel	TOWEL	1021		táwùl	táwùl 
+576	5-6-91-1	73101856348409976	Kanuri	cent2050	the comb	COMB	1475		sàrtə̀rám	sàrtə̀rám 
+577	5-6-92-1	73101856178798234	Kanuri	cent2050	the brush	BRUSH	1821		bùrôs	bùrôs 
+578	5-6-921-1	7310185690100376	Kanuri	cent2050	the plait/braid	BRAID	1043		kə̀rtà	kə̀rtà 
+579	5-6-93-1	73101856481763358	Kanuri	cent2050	the razor	RAZOR	151		áská	áská 
+580	5-6-93-2	73101856863774817	Kanuri	cent2050	the razor	RAZOR	151		rézà	rézà 
+581	5-6-93-3	73101856398552453	Kanuri	cent2050	the razor	RAZOR	151		bélì	bélì 
+582	5-6-94-1	73101856564385765	Kanuri	cent2050	the ointment	OINTMENT	1926		kə̀ndágə̀	kə̀ndágə̀ 
+583	5-6-94-2	73101856521287253	Kanuri	cent2050	the ointment	OINTMENT	1926		gə̀rəˆs	gə̀rəˆs 
+584	5-6-95-1	73101856379101358	Kanuri	cent2050	the soap	SOAP	788		sàwûl, shàwûl	sàwûl 
+585	5-6-95-2	73101856379101358	Kanuri	cent2050	the soap	SOAP	788		sàwûl, shàwûl	shàwûl 
+586	5-6-96-1	73101856129791318	Kanuri	cent2050	the mirror	MIRROR	1171		kútə̀ràm	kútə̀ràm 
+587	5-7-11-1	73101856839662633	Kanuri	cent2050	to live	DWELL (LIVE, RESIDE)	363		də̀gâì	də̀gâì 
+588	5-7-12-1	73101856899118713	Kanuri	cent2050	the house	HOUSE	1252		fátò	fátò 
+589	5-7-13-1	7310185696245177	Kanuri	cent2050	the hut	HUT	1678		njîm	njîm 
+590	5-7-14-1	73101856511353548	Kanuri	cent2050	the tent	TENT	1316		tántì	tántì 
+591	5-7-14-2	73101856837364725	Kanuri	cent2050	the tent	TENT	1316		làímà	làímà 
+592	5-7-15-1	73101856316384185	Kanuri	cent2050	the yard or court	YARD	736		bàlbâl	bàlbâl 
+593	5-7-16-1	73101856495500832	Kanuri	cent2050	the men's house	MEN'S HOUSE	408		súwúmírám	súwúmírám 
+594	5-7-17-1	73101856762544251	Kanuri	cent2050	the cookhouse	COOKHOUSE	334		kànnùrám	kànnùrám 
+595	5-7-18-1	73101856957637725	Kanuri	cent2050	the meeting house	MEETING HOUSE	335		jáùrè	jáùrè 
+596	5-7-18-2	7310185648785774	Kanuri	cent2050	the meeting house	MEETING HOUSE	335		sóró cínnàbè	sóró cínnàbè 
+597	5-7-21-1	7310185696245177	Kanuri	cent2050	the room	ROOM	1450		njîm	njîm 
+598	5-7-22-1	73101856415880147	Kanuri	cent2050	the door or gate	DOOR	1567		cínnà	cínnà 
+599	5-7-221-1	73101856536140720	Kanuri	cent2050	the doorpost	DOORPOST	80		kə̀ská cínnàbé	kə̀ská cínnàbé 
+600	5-7-23-1	73101856293255449	Kanuri	cent2050	the lock	LOCK	1596		kókkó	kókkó 
+601	5-7-231-1	73101856293255449	Kanuri	cent2050	the latch or door-bolt	LATCH	1012		kókkó	kókkó 
+602	5-7-24-1	73101856935636277	Kanuri	cent2050	the key	KEY	1472		súwúràm	súwúràm 
+603	5-7-25-1	73101856275170031	Kanuri	cent2050	the window	WINDOW	1375		kàsàmrám	kàsàmrám 
+604	5-7-25-2	73101856845300056	Kanuri	cent2050	the window	WINDOW	1375		tákkà/táà	tákkà 
+605	5-7-25-3	73101856845300056	Kanuri	cent2050	the window	WINDOW	1375		tákkà/táà	táà 
+606	5-7-26-1	73101856188607289	Kanuri	cent2050	the floor	FLOOR	1632		dáwù njîmbè	dáwù njîmbè 
+607	5-7-27-1	7310185641647266	Kanuri	cent2050	the wall	WALL (OF HOUSE)	933		gàrú	gàrú 
+608	5-7-31-1	73101856807901732	Kanuri	cent2050	the fireplace	FIREPLACE	185		fúkò	fúkò 
+609	5-7-32-1	73101856807901732	Kanuri	cent2050	the stove	STOVE	859		fúkò	fúkò 
+610	5-7-33-1	73101856694277970	Kanuri	cent2050	the chimney	CHIMNEY	1305		kàngèrám	kàngèrám 
+611	5-7-42-1	73101856315199176	Kanuri	cent2050	the bed	BED	1663		də́gə́l	də́gə́l 
+612	5-7-421-1	73101856108025429	Kanuri	cent2050	the pillow	PILLOW	1044		bîr	bîr 
+613	5-7-422-1	73101856679334335	Kanuri	cent2050	the blanket	BLANKET	806		bòrkó	bòrkó 
+614	5-7-43-1	73101856559190091	Kanuri	cent2050	the chair	CHAIR	1476		kúrìs	kúrìs 
+615	5-7-44-1	7310185624610798	Kanuri	cent2050	the table	TABLE	1775		téwùr	téwùr 
+616	5-7-45-1	73101856861848752	Kanuri	cent2050	the lamp or torch	TORCH OR LAMP	2131		fàtə́là	fàtə́là 
+617	5-7-45-2	7310185648086857	Kanuri	cent2050	the lamp or torch	TORCH OR LAMP	2131		mósùwà	mósùwà 
+618	5-7-46-1	73101856991039978	Kanuri	cent2050	the candle	CANDLE	1273		shàmê	shàmê 
+619	5-7-46-2	73101856405262671	Kanuri	cent2050	the candle	CANDLE	1273		kéndìr	kéndìr 
+620	5-7-47-1	73101856328697549	Kanuri	cent2050	the shelf	SHELF	745		kántà	kántà 
+621	5-7-48-1	73101856802159102	Kanuri	cent2050	the trough	TROUGH	205		ngágə́rá	ngágə́rá 
+622	5-7-48-2	7310185630252605	Kanuri	cent2050	the trough	TROUGH	205		ndòròró	ndòròró 
+623	5-7-51-1	73101856228716145	Kanuri	cent2050	the roof	ROOF	769		cìngâl	cìngâl 
+624	5-7-52-1	73101856394785327	Kanuri	cent2050	the thatch	THATCH	279		kə̀lídò	kə̀lídò 
+625	5-7-53-1	73101856960487422	Kanuri	cent2050	the ridgepole	RIDGEPOLE	280		wásə́là	wásə́là 
+626	5-7-54-1	73101856193962703	Kanuri	cent2050	the rafter	RAFTER	829		kàràùjí	kàràùjí 
+627	5-7-55-1	73101856193962703	Kanuri	cent2050	the beam	BEAM	1132		kàràùjí	kàràùjí 
+628	5-7-56-1	73101856550583887	Kanuri	cent2050	the post or pole	POST	281		shíwò	shíwò 
+629	5-7-57-1	73101856914980575	Kanuri	cent2050	the board	BOARD	1227		kátákó	kátákó 
+630	5-7-58-1	73101856648058023	Kanuri	cent2050	the arch	ARCH	876		kábbì	kábbì 
+631	5-7-61-1	73101856776888204	Kanuri	cent2050	the mason	MASON	877		màsǒ	màsǒ 
+632	5-7-61-2	73101856418142399	Kanuri	cent2050	the mason	MASON	877		fátòtàndòmà	fátòtàndòmà 
+633	5-7-62-1	73101856761449574	Kanuri	cent2050	the brick	BRICK	1006		jə́làp	jə́làp 
+634	5-7-62-2	73101856222481483	Kanuri	cent2050	the brick	BRICK	1006		bə̀rkí	bə̀rkí 
+635	5-7-64-1	7310185693909144	Kanuri	cent2050	the adobe	ADOBE	901		jélàp	jélàp 
+636	5-7-64-2	73101856475393109	Kanuri	cent2050	the adobe	ADOBE	901		dìrìngêl	dìrìngêl 
+637	5-8-11-1	7310185611143078	Kanuri	cent2050	the farmer	FARMER	979		bàrèmá	bàrèmá 
+638	5-8-12-1	73101856742562333	Kanuri	cent2050	the field	FIELD	212		kúlò	kúlò 
+639	5-8-13-1	73101856169390438	Kanuri	cent2050	the garden	GARDEN	586		zə́rgə́	zə́rgə́ 
+640	5-8-15-1	73101856600937736	Kanuri	cent2050	to cultivate	CULTIVATE	1541		báré	báré 
+641	5-8-16-1	73101856589790662	Kanuri	cent2050	the fence	FENCE	1690		dángá	dángá 
+642	5-8-16-2	73101856967389381	Kanuri	cent2050	the fence	FENCE	1690		gâr	gâr 
+643	5-8-17-1	73101856326175576	Kanuri	cent2050	the ditch	DITCH	2002		jólóló	jólóló 
+644	5-8-17-2	7310185626571556	Kanuri	cent2050	the ditch	DITCH	2002		làmbàtû	làmbàtû 
+645	5-8-17-3	73101856148676886	Kanuri	cent2050	the ditch	DITCH	2002		bə̀lákà	bə̀lákà 
+646	5-8-21-1	73101856568581205	Kanuri	cent2050	to plough/plow	PLOUGH	1921		bàrétə́	bàrétə́ 
+647	5-8-212-1	73101856914602204	Kanuri	cent2050	the furrow	FURROW	1794		bóró	bóró 
+648	5-8-22-1	73101856803871028	Kanuri	cent2050	to dig	DIG	1418		tàbtə́	tàbtə́ 
+649	5-8-24-1	7310185619775782	Kanuri	cent2050	the shovel	SHOVEL	1901		fêl	fêl 
+650	5-8-25-1	73101856249249970	Kanuri	cent2050	the hoe	HOE	284		bánò	bánò 
+651	5-8-26-1	73101856964372495	Kanuri	cent2050	the fork(2)/pitchfork	PITCHFORK	337		cókkól shélìà	cókkól shélìà 
+652	5-8-27-1	73101856518397403	Kanuri	cent2050	the rake	RAKE	338		kàskâr	kàskâr 
+653	5-8-27-2	73101856867459309	Kanuri	cent2050	the rake	RAKE	338		ràtô	ràtô 
+654	5-8-31-1	73101856767920442	Kanuri	cent2050	to sow	SOW SEEDS	748		nàtò	nàtò 
+655	5-8-311-1	73101856588855609	Kanuri	cent2050	the seed	SEED	714		kùsúnyì	kùsúnyì 
+656	5-8-32-1	73101856441118833	Kanuri	cent2050	to mow	MOW	190		múktə́	múktə́ 
+657	5-8-33-1	73101856942120833	Kanuri	cent2050	the sickle or scythe	SICKLE OR SCYTHE	2132		táìdà	táìdà 
+658	5-8-34-1	73101856444613278	Kanuri	cent2050	to thresh	THRESH	285		wóstə́	wóstə́ 
+659	5-8-35-1	73101856732705297	Kanuri	cent2050	the threshing-floor	THRESHING-FLOOR	223		wóstə́rám	wóstə́rám 
+660	5-8-41-1	73101856651123780	Kanuri	cent2050	the harvest	HARVEST	611		sàl	sàl 
+661	5-8-42-1	73101856527764647	Kanuri	cent2050	the grain	GRAIN	605		àrgə̂m	àrgə̂m 
+662	5-8-43-1	73101856682848874	Kanuri	cent2050	the wheat	WHEAT	1077		làámà	làámà 
+663	5-8-44-1	73101856594770623	Kanuri	cent2050	the barley	BARLEY	932		sháìr	sháìr 
+664	5-8-47-1	73101856626626158	Kanuri	cent2050	the maize/corn	MAIZE	506		ngàwúlì másàrmì	ngàwúlì másàrmì 
+665	5-8-48-1	73101856311454139	Kanuri	cent2050	the rice	RICE	926		shànkáwá	shànkáwá 
+666	5-8-51-1	73101856781134476	Kanuri	cent2050	the grass	GRASS	606		kàzêm	kàzêm 
+667	5-8-52-1	73101856660029642	Kanuri	cent2050	the hay	HAY	342		kàzêm ngámdə̀	kàzêm ngámdə̀ 
+668	5-8-531-1	73101856272947978	Kanuri	cent2050	to plant	PLANT (SOMETHING)	1486		kóktə́	kóktə́ 
+669	5-8-54-1	73101856554653667	Kanuri	cent2050	the root	ROOT	670		fə́rtə̀	fə́rtə̀ 
+670	5-8-54-2	73101856938160259	Kanuri	cent2050	the root	ROOT	670		jâr	jâr 
+671	5-8-55-1	73101856570484803	Kanuri	cent2050	the branch	BRANCH OR TWIG	3223		də̀lám	də̀lám 
+672	5-8-56-1	73101856404108980	Kanuri	cent2050	the leaf	LEAF	628		kálú	kálú 
+673	5-8-56-2	73101856979325404	Kanuri	cent2050	the leaf	LEAF	628		lámbù	lámbù 
+674	5-8-57-1	73101856920239179	Kanuri	cent2050	the flower	FLOWER	239		fə̀lé	fə̀lé 
+675	5-8-57-2	73101856919622400	Kanuri	cent2050	the flower	FLOWER	239		kàmbîl	kàmbîl 
+676	5-8-6-1	73101856720012652	Kanuri	cent2050	the tree	TREE	906		kə̀ská	kə̀ská 
+677	5-8-68-1	73101856238500686	Kanuri	cent2050	the tobacco	TOBACCO	974		tàfâ	tàfâ 
+678	5-8-68-2	73101856930950731	Kanuri	cent2050	the tobacco	TOBACCO	974		tàwâ	tàwâ 
+679	5-8-69-1	7310185635363672	Kanuri	cent2050	to smoke	SMOKE (INHALE)	1689		tàwá nzà	tàwá nzà 
+680	5-8-691-1	73101856958252787	Kanuri	cent2050	the pipe	PIPE	1124		lófì	lófì 
+681	5-8-72-1	73101856368621511	Kanuri	cent2050	the tree stump	TREE STUMP	241		shî kə̀skábè	shî kə̀skábè 
+682	5-8-73-1	73101856795746913	Kanuri	cent2050	the tree trunk	TREE TRUNK	344		kórè	kórè 
+683	5-8-74-1	73101856408957975	Kanuri	cent2050	the forked branch	FORKED BRANCH	409		dédè	dédè 
+684	5-8-75-1	73101856112908061	Kanuri	cent2050	the bark	BARK	1204		kàskàshí	kàskàshí 
+685	5-8-76-1	7310185646505556	Kanuri	cent2050	the sap	SAP	345		njî kə̀skábè	njî kə̀skábè 
+686	5-8-81-1	73101856366871514	Kanuri	cent2050	the palm tree	PALM TREE	1181		jíínà	jíínà 
+687	5-8-81-2	73101856377221702	Kanuri	cent2050	the palm tree	PALM TREE	1181		kə́rzə́m	kə́rzə́m 
+688	5-8-81-3	73101856607890257	Kanuri	cent2050	the palm tree	PALM TREE	1181		dìfúnò	dìfúnò 
+689	5-8-82-1	73101856864779778	Kanuri	cent2050	the coconut	COCONUT	970		kwákwà	kwákwà 
+690	5-8-83-1	73101856912114388	Kanuri	cent2050	the citrus fruit	CITRUS FRUIT	1126		lèmûn	lèmûn 
+691	5-8-84-1	73101856863001196	Kanuri	cent2050	the banana	BANANA	868		àyàwà	àyàwà 
+692	5-8-91-1	73101856613658413	Kanuri	cent2050	the sweet potato	SWEET POTATO	159		dàngálì	dàngálì 
+693	5-8-91-2	73101856894452334	Kanuri	cent2050	the sweet potato	SWEET POTATO	159		kúndùwú	kúndùwú 
+694	5-8-912-1	73101856799695974	Kanuri	cent2050	the yam	YAM	410		dùndú	dùndú 
+695	5-8-92-1	7310185678297813	Kanuri	cent2050	the cassava/manioc	CASSAVA	925		kàrásà	kàrásà 
+696	5-8-92-2	73101856491736696	Kanuri	cent2050	the cassava/manioc	CASSAVA	925		gálísà	gálísà 
+697	5-8-93-1	73101856908809203	Kanuri	cent2050	the gourd	GOURD	411		kə́mó	kə́mó 
+698	5-8-931-1	73101856612894349	Kanuri	cent2050	the pumpkin or squash	PUMPKIN	864		sàgàdə̀	sàgàdə̀ 
+699	5-8-94-1	73101856337052639	Kanuri	cent2050	the bamboo	BAMBOO	1927		górà	górà 
+700	5-8-941-1	73101856561191598	Kanuri	cent2050	the sugar cane	SUGAR CANE	146		rèké	rèké 
+701	5-8-98-1	73101856337912852	Kanuri	cent2050	the mushroom	MUSHROOM	641		nə́ngə́lí	nə́ngə́lí 
+702	5-8-98-2	7310185650727093	Kanuri	cent2050	the mushroom	MUSHROOM	641		tə́mbàl kókóbè	tə́mbàl kókóbè 
+703	5-9-11-1	73101856810606805	Kanuri	cent2050	to do	DO	813		dìò	dìò 
+704	5-9-12-1	73101856940287599	Kanuri	cent2050	the work	WORK (LABOUR)	984		cídà	cídà 
+705	5-9-14-1	73101856951556107	Kanuri	cent2050	to bend	BEND	2004		dùngòktə́	dùngòktə́ 
+706	5-9-15-1	7310185699559330	Kanuri	cent2050	to fold	FOLD	1470		kə́lítə́	kə́lítə́ 
+707	5-9-16-1	73101856787847295	Kanuri	cent2050	to tie	TIE	1917		kúrtútə́	kúrtútə́ 
+708	5-9-161-1	73101856679963813	Kanuri	cent2050	to untie	UNTIE	352		wítə́	wítə́ 
+709	5-9-18-1	73101856201517497	Kanuri	cent2050	the chain	CHAIN	1627		sálgà	sálgà 
+710	5-9-18-2	73101856544236405	Kanuri	cent2050	the chain	CHAIN	1627		jìnjîr	jìnjîr 
+711	5-9-19-1	73101856841663429	Kanuri	cent2050	the rope	ROPE	1218		jê	jê 
+712	5-9-192-1	73101856752868547	Kanuri	cent2050	the knot	KNOT	760		ndə́wú	ndə́wú 
+713	5-9-21-1	73101856161246280	Kanuri	cent2050	to strike or hit or beat	STRIKE OR BEAT	2133		báktə́	báktə́ 
+714	5-9-211-1	73101856924519366	Kanuri	cent2050	to pound	POUND	354		kə̀tə̀fó	kə̀tə̀fó 
+715	5-9-22-1	73101856584684875	Kanuri	cent2050	to cut	CUT	1432		kámtə́	kámtə́ 
+716	5-9-221-1	73101856529148982	Kanuri	cent2050	to cut down	CUT DOWN	355		cáltə́, sáltə́	cáltə́ 
+717	5-9-221-2	73101856529148982	Kanuri	cent2050	to cut down	CUT DOWN	355		cáltə́, sáltə́	sáltə́ 
+718	5-9-222-1	73101856754778847	Kanuri	cent2050	to chop	CHOP	155		sàltə́	sàltə́ 
+719	5-9-223-1	73101856660888676	Kanuri	cent2050	to stab	STAB TO DEATH	3189		zátə́	zátə́ 
+720	5-9-23-1	731018566288902	Kanuri	cent2050	the knife(2)	KNIFE	1352		jèná	jèná 
+721	5-9-24-1	73101856670335708	Kanuri	cent2050	the scissors or shears	SHEARS	356		mágàsù	mágàsù 
+722	5-9-25-1	73101856818602847	Kanuri	cent2050	the axe/ax	AXE	677		béwó	béwó 
+723	5-9-26-1	73101856294217408	Kanuri	cent2050	to break	BREAK (DESTROY OR GET DESTROYED)	680		nàmtə́	nàmtə́ 
+724	5-9-261-1	73101856484837361	Kanuri	cent2050	broken	BROKEN (NOT WORKING)	3190		nàmgátà	nàmgátà 
+725	5-9-27-1	73101856143019724	Kanuri	cent2050	to split	SPLIT	1437		fáltə́	fáltə́ 
+726	5-9-28-1	73101856335117974	Kanuri	cent2050	to tear	TEAR (SHRED)	1735		kártə́	kártə́ 
+727	5-9-83-1	73101857125737587	Kanuri	cent2050	the statue	STATUE	1002		gúnkì	gúnkì 
+728	5-9-83-2	73101856873865634	Kanuri	cent2050	the statue	STATUE	1002		kàm-kám	kàm-kám 
+729	5-9-29-1	73101856627594881	Kanuri	cent2050	to skin	PULL OFF (SKIN)	291		gàktà	gàktà 
+730	5-9-31-1	73101856368410058	Kanuri	cent2050	to rub	RUB	1449		cíntə́	cíntə́ 
+731	5-9-31-2	73101856824251853	Kanuri	cent2050	to rub	RUB	1449		kákáktə́	kákáktə́ 
+732	5-9-32-1	73101856137170464	Kanuri	cent2050	to stretch	STRETCH	214		tártə́	tártə́ 
+733	5-9-33-1	73101856339461104	Kanuri	cent2050	to pull	PULL	1455		ngə́rtə́	ngə́rtə́ 
+734	5-9-34-1	73101856686465367	Kanuri	cent2050	to spread out	SPREAD OUT	38		fə́rtə́	fə́rtə́ 
+735	5-9-341-1	73101856667427157	Kanuri	cent2050	to hang up	HANG UP	357		rótə́gə́	rótə́gə́ 
+736	5-9-342-1	73101856730115483	Kanuri	cent2050	to press	PRESS	1913		mbə́ltə́	mbə́ltə́ 
+737	5-9-343-1	73101856458596690	Kanuri	cent2050	to squeeze	SQUEEZE	1414		ràttə́	ràttə́ 
+738	5-9-35-1	73101856630680694	Kanuri	cent2050	to pour	POUR	1487		fítə́	fítə́ 
+739	5-9-36-1	73101856265349711	Kanuri	cent2050	to wash	WASH	1453		túltə́	túltə́ 
+740	5-9-37-1	73101856350152227	Kanuri	cent2050	to sweep	SWEEP	230		fə́rátə́	fə́rátə́ 
+741	5-9-38-1	73101856248408258	Kanuri	cent2050	the broom	BROOM	245		fə̀ràtə̀rám	fə̀ràtə̀rám 
+742	5-9-38-2	73101856206978510	Kanuri	cent2050	the broom	BROOM	245		fə́ràtə́ràm	fə́ràtə́ràm 
+743	5-9-422-1	73101856790179709	Kanuri	cent2050	the tool	TOOL	1361		kárè cídàbè	kárè cídàbè 
+744	5-9-43-1	73101856776813054	Kanuri	cent2050	the carpenter	CARPENTER	1042		káfíntà	káfíntà 
+745	5-9-44-1	73101856232983307	Kanuri	cent2050	to build	BUILD	1840		tàndò	tàndò 
+746	5-9-44-2	73101856673726203	Kanuri	cent2050	to build	BUILD	1840		gártə́	gártə́ 
+747	5-9-46-1	73101856834921128	Kanuri	cent2050	to bore	BORE	1501		súktə́	súktə́ 
+748	5-9-461-1	73101856823714156	Kanuri	cent2050	to hollow out	HOLLOW OUT	46		wàìtà	wàìtà 
+749	5-9-48-1	7310185613412142	Kanuri	cent2050	the saw	SAW	1948		dártò	dártò 
+750	5-9-49-1	73101856298630132	Kanuri	cent2050	the hammer	HAMMER	1481		kólì	kólì 
+751	5-9-49-2	73101856104255239	Kanuri	cent2050	the hammer	HAMMER	1481		hámà	hámà 
+752	5-9-49-3	7310185659549429	Kanuri	cent2050	the hammer	HAMMER	1481		métə̀rà	métə̀rà 
+753	5-9-5-1	73101856637660398	Kanuri	cent2050	the nail	NAIL (TOOL)	502		mùsùwár	mùsùwár 
+754	5-9-56-1	73101856997595682	Kanuri	cent2050	the glue	GLUE	1069		kôl	kôl 
+755	5-9-56-2	7310185671921788	Kanuri	cent2050	the glue	GLUE	1069		kə́lə́r	kə́lə́r 
+756	5-9-6-1	73101856632634230	Kanuri	cent2050	the blacksmith	BLACKSMITH	1001		kágə́lmà	kágə́lmà 
+757	5-9-61-1	73101856733078483	Kanuri	cent2050	to forge	FORGE	288		kàrò	kàrò 
+758	5-9-62-1	73101856495351636	Kanuri	cent2050	the anvil	ANVIL	1648		kágə́l	kágə́l 
+759	5-9-63-1	73101856724351439	Kanuri	cent2050	to cast	CAST	211		tàptà	tàptà 
+760	5-9-64-1	73101856963021049	Kanuri	cent2050	the gold	GOLD	1369		dínàr	dínàr 
+761	5-9-65-1	73101856572985311	Kanuri	cent2050	the silver	SILVER	759		lìwúlà	lìwúlà 
+762	5-9-66-1	73101856838017296	Kanuri	cent2050	the copper	COPPER	1825		ngàrkìmé	ngàrkìmé 
+763	5-9-67-1	73101856816607213	Kanuri	cent2050	the iron	IRON	621		sû	sû 
+764	5-9-68-1	73101856238750514	Kanuri	cent2050	the lead	LEAD (CHEMICAL ELEMENT)	627		dálmà	dálmà 
+765	5-9-69-1	73101856358159579	Kanuri	cent2050	the tin or tinplate	TIN OR TINPLATE	3217		góngóng	góngóng 
+766	5-9-71-1	73101856273304244	Kanuri	cent2050	the potter	POTTER	359		njèmá	njèmá 
+767	5-9-72-1	73101856232983307	Kanuri	cent2050	to mould/mold	MOLD	289		tàndò	tàndò 
+768	5-9-73-1	73101856519095701	Kanuri	cent2050	the clay	CLAY	1399		túló	túló 
+769	5-9-74-1	73101856677125305	Kanuri	cent2050	the glass	GLASS	604		fìnjâl	fìnjâl 
+770	5-9-74-2	73101856545676778	Kanuri	cent2050	the glass	GLASS	604		gə̀lâs	gə̀lâs 
+771	5-9-75-1	73101856452850925	Kanuri	cent2050	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		sáátə́	sáátə́ 
+772	5-9-76-1	7310185645754665	Kanuri	cent2050	the basket	BASKET	1539		kə̀ndâì	kə̀ndâì 
+773	5-9-76-2	73101856484543030	Kanuri	cent2050	the basket	BASKET	1539		zówó	zówó 
+774	5-9-77-1	73101856910874013	Kanuri	cent2050	the mat	MAT	195		bə́shì	bə́shì 
+775	5-9-771-1	73101856722745409	Kanuri	cent2050	the rug	RUG	292		kə̀lə́sə́	kə̀lə́sə́ 
+776	5-9-78-1	73101856875498755	Kanuri	cent2050	the netbag	NETBAG	293		cálí	cálí 
+777	5-9-79-1	73101856795819960	Kanuri	cent2050	the fan	FAN (OBJECT)	1971		àmbə̀tí	àmbə̀tí 
+778	5-9-79-2	73101856598611544	Kanuri	cent2050	the fan	FAN (OBJECT)	1971		nzàwùtə́ràm	nzàwùtə́ràm 
+779	5-9-791-1	73101856980035099	Kanuri	cent2050	to fan	FAN ACTION	360		yàwùtò	yàwùtò 
+780	5-9-81-1	73101856733078483	Kanuri	cent2050	to carve	CARVE	228		kàrò	kàrò 
+781	5-9-82-1	73101856780907710	Kanuri	cent2050	the sculptor	SCULPTOR	914		kàròmà	kàròmà 
+782	5-9-84-1	73101856670335708	Kanuri	cent2050	the chisel	CHISEL	1979		mágàsù	mágàsù 
+783	5-9-88-1	73101856848392859	Kanuri	cent2050	the paint	PAINT (PIGMENTS)	647		féntì	féntì 
+784	5-9-89-1	73101856846186288	Kanuri	cent2050	to paint	PAINTING	2001		bòrtə́	bòrtə́ 
+785	5-9-89-2	73101856943840936	Kanuri	cent2050	to paint	PAINTING	2001		kùrtə́	kùrtə́ 
+786	5-10-11-1	73101856713960107	Kanuri	cent2050	to move	MOVE	765		gə̀ndò	gə̀ndò 
+787	5-10-12-1	73101856841665675	Kanuri	cent2050	to turn	TURN	1588		kòkòrtà	kòkòrtà 
+788	5-10-13-1	73101856883772821	Kanuri	cent2050	to turn around	TURN (SOMETHING)	1445		káláktə́	káláktə́ 
+789	5-10-14-1	73101856592139383	Kanuri	cent2050	to wrap	WRAP	1113		kə́létə́	kə́létə́ 
+790	5-10-15-1	73101856187385527	Kanuri	cent2050	to roll	ROLL	827		tàmbə́rtə́	tàmbə́rtə́ 
+791	5-10-16-1	73101856262105455	Kanuri	cent2050	to drop	DROP (SOMETHING)	2866		tòltə́	tòltə́ 
+792	5-10-17-1	73101856592139383	Kanuri	cent2050	to twist	TWIST (AROUND)	3199		kə́létə́	kə́létə́ 
+793	5-10-21-1	73101856779972695	Kanuri	cent2050	to rise	RISE (MOVE UPWARDS)	568		tàwátə́	tàwátə́ 
+794	5-10-22-1	73101856260994951	Kanuri	cent2050	to raise or lift	LIFT	501		sàngò	sàngò 
+795	5-10-23-1	73101856268148953	Kanuri	cent2050	to fall	FALL	1280		nzùrò	nzùrò 
+796	5-10-24-1	73101856475270968	Kanuri	cent2050	to drip	DRIP (EMIT LIQUID)	2253		tóltə́	tóltə́ 
+797	5-10-25-1	73101856464665794	Kanuri	cent2050	to throw	THROW	1456		gə̀btə́	gə̀btə́ 
+798	5-10-252-1	73101856973869588	Kanuri	cent2050	to catch	CATCH	702		tà	tà 
+799	5-10-26-1	73101856996803389	Kanuri	cent2050	to shake	SHAKE	1909		zə̀zə̀ktə́	zə̀zə̀ktə́ 
+800	5-10-32-1	73101856838787095	Kanuri	cent2050	to flow	FLOW	2003		kàsò	kàsò 
+801	5-10-33-1	73101856731383628	Kanuri	cent2050	to sink	SINK (DESCEND)	1088		nzùkkùrò	nzùkkùrò 
+802	5-10-34-1	73101856760312682	Kanuri	cent2050	to float	FLOAT	1574		kámbétə́	kámbétə́ 
+803	5-10-34-2	73101856854324526	Kanuri	cent2050	to float	FLOAT	1574		mbátə́	mbátə́ 
+804	5-10-35-1	73101856760312682	Kanuri	cent2050	to swim	SWIM	1439		kámbétə́	kámbétə́ 
+805	5-10-35-2	73101856875512228	Kanuri	cent2050	to swim	SWIM	1439		kàmbétə́	kàmbétə́ 
+806	5-10-351-1	73101856187565822	Kanuri	cent2050	to dive	DIVE	119		lə̀ktə́	lə̀ktə́ 
+807	5-10-352-1	73101856471189358	Kanuri	cent2050	to splash	SPLASH	365		càmbàltà	càmbàltà 
+808	5-10-36-1	73101856854324526	Kanuri	cent2050	to sail	SAIL	787		mbátə́	mbátə́ 
+809	5-10-37-1	73101856292859047	Kanuri	cent2050	to fly	FLY (MOVE THROUGH AIR)	1441		fàrtə́	fàrtə́ 
+810	5-10-38-1	73101856460961602	Kanuri	cent2050	to blow	BLOW (OF WIND)	175		fùtə́	fùtə́ 
+811	5-10-41-1	73101856474873674	Kanuri	cent2050	to crawl	CRAWL	96		gúgúrtə́	gúgúrtə́ 
+812	5-10-412-1	73101856402200635	Kanuri	cent2050	to kneel	KNEEL	66		tùngùrùmtə́	tùngùrùmtə́ 
+813	5-10-413-1	73101856541015145	Kanuri	cent2050	to crouch	CROUCH	296		njóltə́	njóltə́ 
+814	5-10-42-1	73101856942064085	Kanuri	cent2050	to slide or slip	SLIP	1324		sùlíttə́	sùlíttə́ 
+815	5-10-43-1	73101856963408316	Kanuri	cent2050	to jump	JUMP	1829		sə́ktə́	sə́ktə́ 
+816	5-10-431-1	73101856800439194	Kanuri	cent2050	to kick	KICK	1135		shîlàn báktə́	shîlàn báktə́ 
+817	5-10-44-1	73101856672254333	Kanuri	cent2050	to dance	DANCE	1879		bìské fàrtà	bìské fàrtà 
+818	5-10-45-1	73101856977458216	Kanuri	cent2050	to walk	WALK	1443		lètə́ (1)	lètə́ (1) 
+819	5-10-451-1	73101856897366636	Kanuri	cent2050	to limp	LIMP	366		də̀gə́ntə́	də̀gə́ntə́ 
+820	5-10-46-1	73101856568965356	Kanuri	cent2050	to run	RUN	1519		ngə́rə̀m	ngə́rə̀m 
+821	5-10-46-2	73101856816832120	Kanuri	cent2050	to run	RUN	1519		kàsò	kàsò 
+822	5-10-47-1	73101856113611857	Kanuri	cent2050	to go	GO	695		lètə̀	lètə̀ 
+823	5-10-471-1	7310185672738665	Kanuri	cent2050	to go up	GO UP (ASCEND)	705		bà	bà 
+824	5-10-471-2	73101856951601363	Kanuri	cent2050	to go up	GO UP (ASCEND)	705		tǎttə́	tǎttə́ 
+825	5-10-472-1	7310185672738665	Kanuri	cent2050	to climb	CLIMB	1102		bà	bà 
+826	5-10-473-1	73101856966467222	Kanuri	cent2050	to go down	GO DOWN (DESCEND)	2014		zə̀ptə́	zə̀ptə́ 
+827	5-10-474-1	73101856996161599	Kanuri	cent2050	to go out	GO OUT	1107		lùwò	lùwò 
+828	5-10-48-1	73101856797902906	Kanuri	cent2050	to come	COME	1446		ísò	ísò 
+829	5-10-481-1	73101856228625379	Kanuri	cent2050	to come back	COME BACK	581		wáltə́	wáltə́ 
+830	5-10-49-1	73101856959236185	Kanuri	cent2050	to leave	LEAVE	1752		cìtə́	cìtə́ 
+831	5-10-491-1	73101856338726602	Kanuri	cent2050	to disappear	DISAPPEAR	485		fáttə́gə́	fáttə́gə́ 
+832	5-10-51-1	73101856970586221	Kanuri	cent2050	to flee	FLEE	956		ngùzàtà	ngùzàtà 
+833	5-10-52-1	7310185638897729	Kanuri	cent2050	to follow	FOLLOW	1085		gà	gà 
+834	5-10-53-1	73101856331448990	Kanuri	cent2050	to pursue	PURSUE	1047		kádútə́	kádútə́ 
+835	5-10-55-1	73101856243717473	Kanuri	cent2050	to arrive	ARRIVE	1387		kə̀nshê	kə̀nshê 
+836	5-10-56-1	73101856639969620	Kanuri	cent2050	to approach	APPROACH	1778		kàrə̀ntə́	kàrə̀ntə́ 
+837	5-10-57-1	73101856952080643	Kanuri	cent2050	to enter	ENTER	749		ngàwò	ngàwò 
+838	5-10-61-1	73101856845592834	Kanuri	cent2050	to carry	CARRY	700		ngótə́	ngótə́ 
+839	5-10-612-1	73101856845592834	Kanuri	cent2050	to carry in hand	CARRY IN HAND	412		ngótə́	ngótə́ 
+840	5-10-613-1	73101856845592834	Kanuri	cent2050	to carry on shoulder	CARRY ON SHOULDER	413		ngótə́	ngótə́ 
+841	5-10-614-1	73101856266995604	Kanuri	cent2050	to carry on head	CARRY ON HEAD	414		tòngòrtà	tòngòrtà 
+842	5-10-615-1	73101856845592834	Kanuri	cent2050	to carry under the arm	CARRY UNDER ARM	415		ngótə́	ngótə́ 
+843	5-10-62-1	73101856993679465	Kanuri	cent2050	to bring	BRING	692		kùtò	kùtò 
+844	5-10-63-1	73101856848643942	Kanuri	cent2050	to send	SEND	1127		nòtò	nòtò 
+845	5-10-64-1	73101856861725457	Kanuri	cent2050	to lead	LEAD (GUIDE)	43		jétə́	jétə́ 
+846	5-10-65-1	73101856595151508	Kanuri	cent2050	to drive	DRIVE	741		kə̀rítə́	kə̀rítə́ 
+847	5-10-66-1	7310185678936710	Kanuri	cent2050	to ride	RIDE	367		fêrrò kə̀mbâ	fêrrò kə̀mbâ 
+848	5-10-67-1	73101856345104674	Kanuri	cent2050	to push	PUSH	1452		tə̀mbáltə́	tə̀mbáltə́ 
+849	5-10-71-1	73101856274450813	Kanuri	cent2050	the road	ROAD	667		záwál	záwál 
+850	5-10-72-1	73101856281843917	Kanuri	cent2050	the path	PATH	2252		túrwò	túrwò 
+851	5-10-74-1	73101856864659976	Kanuri	cent2050	the bridge	BRIDGE	1011		gádà	gádà 
+852	5-10-75-1	73101856332584742	Kanuri	cent2050	the cart or wagon	CART	122		ámálánké	ámálánké 
+853	5-10-76-1	73101856774548008	Kanuri	cent2050	the wheel	WHEEL	710		táyà	táyà 
+854	5-10-76-2	73101856236647234	Kanuri	cent2050	the wheel	WHEEL	710		shî mótàbé	shî mótàbé 
+855	5-10-81-1	73101856826082562	Kanuri	cent2050	the ship	SHIP	740		mààrá njîbè	mààrá njîbè 
+856	5-10-83-1	73101856826082562	Kanuri	cent2050	the boat	BOAT	1844		mààrá njîbè	mààrá njîbè 
+857	5-10-831-1	73101856129768193	Kanuri	cent2050	the canoe	CANOE	1970		kòlékòlé	kòlékòlé 
+858	5-10-831-2	73101856833048639	Kanuri	cent2050	the canoe	CANOE	1970		kàdáì	kàdáì 
+859	5-10-851-1	73101856563720146	Kanuri	cent2050	the paddle	PADDLE	234		kárwé	kárwé 
+860	5-10-851-2	73101856362077503	Kanuri	cent2050	the paddle	PADDLE	234		fə̀làìfə̀láì	fə̀làìfə̀láì 
+861	5-10-88-1	73101856364583351	Kanuri	cent2050	the sail	SAILCLOTH	786		kùbènó	kùbènó 
+862	5-10-91-1	73101856503888748	Kanuri	cent2050	the port	PORT	610		jóngò mààrá njîbè	jóngò mààrá njîbè 
+863	5-11-12-1	7310185682196000	Kanuri	cent2050	to own	OWN	684		hàláltə́	hàláltə́ 
+864	5-11-13-1	73101856700760518	Kanuri	cent2050	to take	TAKE	1749		gòtə̀	gòtə̀ 
+865	5-11-14-1	73101856973869588	Kanuri	cent2050	to grasp	SEIZE	855		tà	tà 
+866	5-11-15-1	73101856700760518	Kanuri	cent2050	to hold	HOLD	1448		gòtə̀	gòtə̀ 
+867	5-11-16-1	73101856867804207	Kanuri	cent2050	to get	GET	694		mòwò	mòwò 
+868	5-11-17-1	73101856717209092	Kanuri	cent2050	to keep	KEEP	1477		ròtà	ròtà 
+869	5-11-18-1	73101856287978731	Kanuri	cent2050	the thing	THING	738		àwó	àwó 
+870	5-11-21-1	73101856591040713	Kanuri	cent2050	to give	GIVE	1447		yìò	yìò 
+871	5-11-22-1	73101856147870595	Kanuri	cent2050	to give back	GIVE BACK	85		kàlàktà	kàlàktà 
+872	5-11-24-1	73101856683194007	Kanuri	cent2050	to preserve	PRESERVE	1997		lìwò	lìwò 
+873	5-11-27-1	73101856525912471	Kanuri	cent2050	to destroy	DESTROY	681		wùrtə́	wùrtə́ 
+874	5-11-28-1	73101856308822151	Kanuri	cent2050	to injure	INJURE	44		tə̀ptà	tə̀ptà 
+875	5-11-31-1	731018565023622	Kanuri	cent2050	to look for	LOOK FOR	1468		màtə́	màtə́ 
+876	5-11-32-1	73101856983540396	Kanuri	cent2050	to find	FIND	719		fàndò	fàndò 
+877	5-11-33-1	73101856354543148	Kanuri	cent2050	to lose	LOSE	1660		yìrwàtò	yìrwàtò 
+878	5-11-34-1	73101856397600382	Kanuri	cent2050	to let go	LET GO OR SET FREE	1095		kòltə́	kòltə́ 
+879	5-11-43-1	73101856496044148	Kanuri	cent2050	the money	MONEY	1559		kúngúnà	kúngúnà 
+880	5-11-43-2	73101856400864667	Kanuri	cent2050	the money	MONEY	1559		wúrì	wúrì 
+881	5-11-44-1	73101856566575506	Kanuri	cent2050	the coin	COIN	1867		júwù	júwù 
+882	5-11-51-1	73101856644233352	Kanuri	cent2050	rich	RICH	712		gárìwù	gárìwù 
+883	5-11-52-1	73101856547246840	Kanuri	cent2050	poor	POOR	1674		ngúdì	ngúdì 
+884	5-11-53-1	73101856798279449	Kanuri	cent2050	the beggar	BEGGAR	1934		lòwómà	lòwómà 
+885	5-11-54-1	73101856504770898	Kanuri	cent2050	stingy	STINGY	1774		bàyîl	bàyîl 
+886	5-11-54-2	73101856552199592	Kanuri	cent2050	stingy	STINGY	1774		jókkù	jókkù 
+887	5-11-61-1	73101856843324812	Kanuri	cent2050	to lend	LEND	582		sàrùtə́gə́	sàrùtə́gə́ 
+888	5-11-62-1	73101856170574899	Kanuri	cent2050	to borrow	BORROW	1823		sàrùtə́	sàrùtə́ 
+889	5-11-63-1	7310185638897729	Kanuri	cent2050	to owe	OWE	369		gà	gà 
+890	5-11-64-1	73101856636469179	Kanuri	cent2050	the debt	DEBT	1914		kùsû	kùsû 
+891	5-11-65-1	73101856715228714	Kanuri	cent2050	to pay	PAY	718		bìyàtə́	bìyàtə́ 
+892	5-11-65-2	73101856908858102	Kanuri	cent2050	to pay	PAY	718		rə̀mbò	rə̀mbò 
+893	5-11-66-1	73101856104261515	Kanuri	cent2050	the bill	BILL	1081		kùngə̀nàrám	kùngə̀nàrám 
+894	5-11-69-1	73101856900918688	Kanuri	cent2050	the tax	TAX	873		àrájì	àrájì 
+895	5-11-69-2	73101856408307448	Kanuri	cent2050	the tax	TAX	873		ákkì	ákkì 
+896	5-11-77-1	73101856577825230	Kanuri	cent2050	to hire	HIRE	856		àgə̀rìtə́	àgə̀rìtə́ 
+897	5-11-78-1	73101856509738342	Kanuri	cent2050	the wages	WAGES	1122		àlwúsùr	àlwúsùr 
+898	5-11-79-1	73101856593439027	Kanuri	cent2050	to earn	EARN	733		gàntò	gàntò 
+899	5-11-79-2	73101856571001355	Kanuri	cent2050	to earn	EARN	733		ríwà dìò	ríwà dìò 
+900	5-11-81-1	73101856705484699	Kanuri	cent2050	to buy	BUY	1869		yìwò	yìwò 
+901	5-11-82-1	73101856656348874	Kanuri	cent2050	to sell	SELL	1571		làdò	làdò 
+902	5-11-83-1	73101856476624224	Kanuri	cent2050	to trade or barter	TRADE OR BARTER	2135		lə̀wâ	lə̀wâ 
+903	5-11-83-2	73101856984896638	Kanuri	cent2050	to trade or barter	TRADE OR BARTER	2135		sáwə̀rtə́	sáwə̀rtə́ 
+904	5-11-84-1	73101856725267042	Kanuri	cent2050	the merchant	MERCHANT	1082		kàsùwùmá	kàsùwùmá 
+905	5-11-84-2	73101856454836365	Kanuri	cent2050	the merchant	MERCHANT	1082		sàwə̀rmá	sàwə̀rmá 
+906	5-11-85-1	73101856878312059	Kanuri	cent2050	the market	MARKET	633		kàsúwù	kàsúwù 
+907	5-11-86-1	73101856465263374	Kanuri	cent2050	the shop/store	STORE	752		kàntí	kàntí 
+908	5-11-87-1	73101856957271856	Kanuri	cent2050	the price	PRICE	657		támàn	támàn 
+909	5-11-88-1	73101856151350035	Kanuri	cent2050	expensive	EXPENSIVE	1426		jâu	jâu 
+910	5-11-89-1	73101856701940404	Kanuri	cent2050	cheap	CHEAP	1887		bútù	bútù 
+911	5-11-91-1	73101856939509849	Kanuri	cent2050	to share	SHARE	884		dàgàrtə̀	dàgàrtə̀ 
+912	5-11-92-1	7310185654488610	Kanuri	cent2050	to weigh	WEIGH	1098		ngáltə́	ngáltə́ 
+913	5-12-01-1	73101856481931695	Kanuri	cent2050	after	AFTER	1685		ngáwò…..bèn	ngáwò…..bèn 
+914	5-12-011-1	73101856248072668	Kanuri	cent2050	behind	BEHIND	1686		ngáwò.... bèn	ngáwò.... bèn 
+915	5-12-02-1	73101856822808909	Kanuri	cent2050	beside	BESIDE	1816		gə́rè…..bèn	gə́rè…..bèn 
+916	5-12-03-1	7310185613839855	Kanuri	cent2050	down	DOWN	1326		cídíyà	cídíyà 
+917	5-12-04-1	73101856820807698	Kanuri	cent2050	before	BEFORE	1882		kàwù	kàwù 
+918	5-12-04-2	73101856651951142	Kanuri	cent2050	before	BEFORE	1882		câ	câ 
+919	5-12-041-1	73101856305012314	Kanuri	cent2050	in front of	IN FRONT OF	1883		fúgə̀	fúgə̀ 
+920	5-12-05-1	73101856343933484	Kanuri	cent2050	inside	INSIDE	1606		cúró	cúró 
+921	5-12-06-1	73101856346872341	Kanuri	cent2050	outside	OUTSIDE	762		dégà	dégà 
+922	5-12-06-2	73101856247658255	Kanuri	cent2050	outside	OUTSIDE	762		táléá	táléá 
+923	5-12-07-1	7310185613839855	Kanuri	cent2050	under	BELOW OR UNDER	1485		cídíyà	cídíyà 
+924	5-12-08-1	73101856167936988	Kanuri	cent2050	up	UP	1591		kúntèn	kúntèn 
+925	5-12-11-1	73101856312609065	Kanuri	cent2050	the place	PLACE (POSITION)	723		nâ	nâ 
+926	5-12-12-1	73101856138312344	Kanuri	cent2050	to put	PUT	998		yìkkò	yìkkò 
+927	5-12-13-1	73101856901420056	Kanuri	cent2050	to sit	SIT	1416		náptə́	náptə́ 
+928	5-12-14-1	73101856887282783	Kanuri	cent2050	to lie down	LIE DOWN	215		bòtə́	bòtə́ 
+929	5-12-15-1	73101856705880761	Kanuri	cent2050	to stand	STAND	1442		dàtə́	dàtə́ 
+930	5-12-16-1	73101856159414058	Kanuri	cent2050	to remain	REMAIN	987		nàptə́	nàptə́ 
+931	5-12-17-1	73101856386011147	Kanuri	cent2050	the remains	REMAINS	838		gàpcìwùnó	gàpcìwùnó 
+932	5-12-21-1	73101856784114621	Kanuri	cent2050	to gather	GATHER	7		cábtə́	cábtə́ 
+933	5-12-212-1	73101856188763790	Kanuri	cent2050	to pick up	PICK UP	371		dòrò	dòrò 
+934	5-12-213-1	73101856664125212	Kanuri	cent2050	to pile up	PILE UP	1576		dàwètə́	dàwètə́ 
+935	5-12-22-1	73101856442036457	Kanuri	cent2050	to join	JOIN	1743		kə̀ltə́	kə̀ltə́ 
+936	5-12-23-1	73101856394859317	Kanuri	cent2050	to separate	SEPARATE	1359		tàrtə́	tàrtə́ 
+937	5-12-232-1	73101856956855473	Kanuri	cent2050	to divide	DIVIDE	1119		yàktə́	yàktə́ 
+938	5-12-24-1	73101856472539553	Kanuri	cent2050	to open	OPEN	1156		kátə́	kátə́ 
+939	5-12-25-1	7310185669150050	Kanuri	cent2050	to shut	SHUT	1046		jàktə́	jàktə́ 
+940	5-12-26-1	7310185669150050	Kanuri	cent2050	to cover	COVER	761		jàktə́	jàktə́ 
+941	5-12-27-1	73101856998222417	Kanuri	cent2050	to hide	HIDE (CONCEAL)	602		gə̀ràtə́	gə̀ràtə́ 
+942	5-12-31-1	73101856627091816	Kanuri	cent2050	high	HIGH	1265		dátə̀à	dátə̀à 
+943	5-12-32-1	73101856922606913	Kanuri	cent2050	low	LOW	721		cídíyàn	cídíyàn 
+944	5-12-33-1	7310185696758379	Kanuri	cent2050	the top	TOP	1753		tòlî	tòlî 
+945	5-12-34-1	7310185613839855	Kanuri	cent2050	the bottom	BOTTOM	690		cídíyà	cídíyà 
+946	5-12-35-1	73101856749383390	Kanuri	cent2050	the end(1)	END (OF SPACE)	742		dàtə́gə́ràm	dàtə́gə́ràm 
+947	5-12-352-1	73101856511016111	Kanuri	cent2050	pointed	POINTED	372		cóncón	cóncón 
+948	5-12-353-1	73101856646833116	Kanuri	cent2050	the edge	EDGE	863		cî	cî 
+949	5-12-36-1	73101856479917138	Kanuri	cent2050	the side	SIDE	682		fótò	fótò 
+950	5-12-36-2	73101856392664935	Kanuri	cent2050	the side	SIDE	682		kúrwú	kúrwú 
+951	5-12-36-3	73101856148294497	Kanuri	cent2050	the side	SIDE	682		shítì	shítì 
+952	5-12-37-1	73101856133142170	Kanuri	cent2050	the middle	MIDDLE	1093		dáwù	dáwù 
+953	5-12-41-1	73101856323465646	Kanuri	cent2050	right(1)	RIGHT	1019		kə̀mbùrám	kə̀mbùrám 
+954	5-12-42-1	73101856691881734	Kanuri	cent2050	left	LEFT	244		wòìlá	wòìlá 
+955	5-12-43-1	73101856310991874	Kanuri	cent2050	near	NEAR	1942		kàrə̂n	kàrə̂n 
+956	5-12-44-1	7310185621207204	Kanuri	cent2050	far	FAR	1406		cíndə̀	cíndə̀ 
+957	5-12-45-1	73101856732035027	Kanuri	cent2050	the east	EAST	1877		àdínnàm	àdínnàm 
+958	5-12-45-2	73101856777389606	Kanuri	cent2050	the east	EAST	1877		gə̀dí	gə̀dí 
+959	5-12-46-1	73101856659034485	Kanuri	cent2050	the west	WEST	1817		fùté	fùté 
+960	5-12-47-1	73101856918134467	Kanuri	cent2050	the north	NORTH	1598		yàlá	yàlá 
+961	5-12-48-1	73101856788777032	Kanuri	cent2050	the south	SOUTH	1595		ànə́m	ànə́m 
+962	5-12-53-1	73101856403344076	Kanuri	cent2050	to grow	GROW	479		wùràtə́	wùràtə́ 
+963	5-12-54-1	7310185654488610	Kanuri	cent2050	to measure	MEASURE	1506		ngáltə́	ngáltə́ 
+964	5-12-55-1	73101856480114331	Kanuri	cent2050	big	BIG	1202		kúrà	kúrà 
+965	5-12-56-1	73101856837305280	Kanuri	cent2050	small	SMALL	1246		gàná	gàná 
+966	5-12-56-2	73101856829544722	Kanuri	cent2050	small	SMALL	1246		kòrí	kòrí 
+967	5-12-56-3	73101856186190882	Kanuri	cent2050	small	SMALL	1246		kàbə́gə̀	kàbə́gə̀ 
+968	5-12-57-1	73101856386643526	Kanuri	cent2050	long	LONG	1203		kùrúwù	kùrúwù 
+969	5-12-57-2	73101856627091816	Kanuri	cent2050	long	LONG	1203		dátə̀à	dátə̀à 
+970	5-12-58-1	73101856386643526	Kanuri	cent2050	tall	TALL	711		kùrúwù	kùrúwù 
+971	5-12-58-2	73101856627091816	Kanuri	cent2050	tall	TALL	711		dátə̀à	dátə̀à 
+972	5-12-59-1	73101856829544722	Kanuri	cent2050	short	SHORT	1645		kòrí	kòrí 
+973	5-12-59-2	73101856726505788	Kanuri	cent2050	short	SHORT	1645		kàfúwù	kàfúwù 
+974	5-12-61-1	73101856447745423	Kanuri	cent2050	wide	WIDE	1243		fárán	fárán 
+975	5-12-62-1	73101856516911521	Kanuri	cent2050	narrow	NARROW	1267		zə́kkà	zə́kkà 
+976	5-12-63-1	73101856899389696	Kanuri	cent2050	thick	THICK	1244		gàjàjàk	gàjàjàk 
+977	5-12-65-1	73101856648853357	Kanuri	cent2050	thin	THIN (OF SHAPE OF OBJECT)	2249		tə́nénè	tə́nénè 
+978	5-12-65-2	73101856510974912	Kanuri	cent2050	thin	THIN (OF SHAPE OF OBJECT)	2249		njérérè	njérérè 
+979	5-12-65-3	73101856519523850	Kanuri	cent2050	thin	THIN (OF SHAPE OF OBJECT)	2249		sérsér	sérsér 
+980	5-12-67-1	73101856386643526	Kanuri	cent2050	deep	DEEP	1593		kùrúwù	kùrúwù 
+981	5-12-68-1	73101856683664295	Kanuri	cent2050	shallow	SHALLOW	193		dàngə̀résé	dàngə̀résé 
+982	5-12-71-1	73101856856496327	Kanuri	cent2050	flat	FLAT	1633		féllè	féllè 
+983	5-12-73-1	73101856862575456	Kanuri	cent2050	straight	STRAIGHT	1404		cík	cík 
+984	5-12-74-1	73101856484386195	Kanuri	cent2050	crooked	CROOKED	297		kə̀lígádà	kə̀lígádà 
+985	5-12-75-1	73101856423914334	Kanuri	cent2050	the hook	HOOK	1071		kùnjâr	kùnjâr 
+986	5-12-75-2	73101856572475946	Kanuri	cent2050	the hook	HOOK	1071		sû búltù	sû búltù 
+987	5-12-76-1	73101856697747820	Kanuri	cent2050	the corner	CORNER	192		ngògə̂m	ngògə̂m 
+988	5-12-76-2	73101856600467473	Kanuri	cent2050	the corner	CORNER	192		lúngù	lúngù 
+989	5-12-77-1	73101856306760093	Kanuri	cent2050	the cross	CROSS	1367		dégə́ràm	dégə́ràm 
+990	5-12-78-1	73101856303847724	Kanuri	cent2050	the square	SQUARE	850		fàrtàm	fàrtàm 
+991	5-12-81-1	73101856823718538	Kanuri	cent2050	round	ROUND	1395		dúkúrkúr	dúkúrkúr 
+992	5-12-81-2	73101856543639793	Kanuri	cent2050	round	ROUND	1395		kwáì mbók	kwáì mbók 
+993	5-12-82-1	73101856313909304	Kanuri	cent2050	the circle	CIRCLE	1467		kòrkór	kòrkór 
+994	5-12-83-1	73101856805760098	Kanuri	cent2050	the ball	BALL	1845		bôl	bôl 
+995	5-12-84-1	73101856743532827	Kanuri	cent2050	the line	LINE	1048		lâì	lâì 
+996	5-12-85-1	73101856934343109	Kanuri	cent2050	the hole	HOLE	1667		bə̀lágà	bə̀lágà 
+997	5-12-92-1	7310185614273002	Kanuri	cent2050	similar	SIMILAR	1558		ádə̀gǎì	ádə̀gǎì 
+998	5-12-93-1	73101856147931423	Kanuri	cent2050	to change	CHANGE	1264		fàltə́	fàltə́ 
+999	5-13-1	73101856594429347	Kanuri	cent2050	zero	ZERO	1294		sə́fə̀rí	sə́fə̀rí 
+1000	5-13-01-1	7310185654013345	Kanuri	cent2050	one	ONE	1493		tìló	tìló 
+1001	5-13-01-2	73101856440227566	Kanuri	cent2050	one	ONE	1493		fál	fál 
+1002	5-13-01-3	73101856316264127	Kanuri	cent2050	one	ONE	1493		lókkù	lókkù 
+1003	5-13-02-1	73101856135075848	Kanuri	cent2050	two	TWO	1498		ndí	ndí 
+1004	5-13-03-1	73101856770409114	Kanuri	cent2050	three	THREE	492		yàkkə́	yàkkə́ 
+1005	5-13-04-1	73101856966201622	Kanuri	cent2050	four	FOUR	1500		dìyáù	dìyáù 
+1006	5-13-05-1	73101856966658710	Kanuri	cent2050	five	FIVE	493		ùgú	ùgú 
+1007	5-13-06-1	7310185656040764	Kanuri	cent2050	six	SIX	1703		àràkkə́	àràkkə́ 
+1008	5-13-07-1	73101856542727898	Kanuri	cent2050	seven	SEVEN	1704		tùlôr	tùlôr 
+1009	5-13-08-1	73101856242494479	Kanuri	cent2050	eight	EIGHT	1705		wùskə́	wùskə́ 
+1010	5-13-09-1	73101856692773832	Kanuri	cent2050	nine	NINE	1483		lə̀gár	lə̀gár 
+1011	5-13-1-1	7310185642890996	Kanuri	cent2050	ten	TEN	1515		mèwú	mèwú 
+1012	5-13-101-1	73101856373098618	Kanuri	cent2050	eleven	ELEVEN	1706		mèwûn tìlôn	mèwûn tìlôn 
+1013	5-13-102-1	73101856247163224	Kanuri	cent2050	twelve	TWELVE	1707		mèwûn ndîn	mèwûn ndîn 
+1014	5-13-103-1	73101856184000022	Kanuri	cent2050	fifteen	FIFTEEN	1709		mèwú wùrí	mèwú wùrí 
+1015	5-13-104-1	7310185685123583	Kanuri	cent2050	twenty	TWENTY	1710		fíyìndì	fíyìndì 
+1016	5-13-105-1	7310185676948732	Kanuri	cent2050	a hundred	HUNDRED	1634		míyà	míyà 
+1017	5-13-105-2	73101856424060501	Kanuri	cent2050	a hundred	HUNDRED	1634		yôr	yôr 
+1018	5-13-106-1	7310185638798307	Kanuri	cent2050	a thousand	THOUSAND	1843		dúwú	dúwú 
+1019	5-13-107-1	73101856177509113	Kanuri	cent2050	to count	COUNT	1420		kòmtə́	kòmtə́ 
+1020	5-13-14-1	73101856126455965	Kanuri	cent2050	all	ALL	98		ngâsô	ngâsô 
+1021	5-13-14-2	7310185636218842	Kanuri	cent2050	all	ALL	98		sámmá	sámmá 
+1022	5-13-15-1	73101856518247166	Kanuri	cent2050	many	MANY	1198		ngə́wù	ngə́wù 
+1023	5-13-16-1	73101856369212796	Kanuri	cent2050	more	MORE	1992		kùrú	kùrú 
+1024	5-13-17-1	73101856837305280	Kanuri	cent2050	few	FEW	1242		gàná	gàná 
+1025	5-13-18-1	73101856459405638	Kanuri	cent2050	enough	ENOUGH	1881		tìò	tìò 
+1026	5-13-181-1	73101856972900737	Kanuri	cent2050	some	SOME	1241		lágá	lágá 
+1027	5-13-19-1	73101856285727573	Kanuri	cent2050	the crowd	CROWD	2023		sámnó	sámnó 
+1028	5-13-21-1	73101856241704547	Kanuri	cent2050	full	FULL	1429		zə̀mbə̀lí	zə̀mbə̀lí 
+1029	5-13-22-1	73101856985188578	Kanuri	cent2050	empty	EMPTY	1624		dê	dê 
+1030	5-13-23-1	73101856999215614	Kanuri	cent2050	the part	PART	779		fêllà	fêllà 
+1031	5-13-23-2	73101856185270202	Kanuri	cent2050	the part	PART	779		də̀gâr	də̀gâr 
+1032	5-13-24-1	73101856147194955	Kanuri	cent2050	the half	HALF	816		rétà	rétà 
+1033	5-13-33-1	73101856167567023	Kanuri	cent2050	only	ONLY	1580		bìyá	bìyá 
+1034	5-13-33-2	73101856761852963	Kanuri	cent2050	only	ONLY	1580		bás	bás 
+1035	5-13-34-1	73101856858200604	Kanuri	cent2050	first	FIRST	728		kə̀ntìlómì	kə̀ntìlómì 
+1036	5-13-35-1	73101856557661631	Kanuri	cent2050	last	LAST (FINAL)	1529		dàrgéyè	dàrgéyè 
+1037	5-13-36-1	73101856386981360	Kanuri	cent2050	second	SECOND	1384		kə̀nàndí	kə̀nàndí 
+1038	5-13-37-1	73101856666599211	Kanuri	cent2050	the pair	PAIR	1888		káwú	káwú 
+1039	5-13-38-1	73101856673650957	Kanuri	cent2050	twice/two times	TWICE	1546		ndírò	ndírò 
+1040	5-13-42-1	73101856883944922	Kanuri	cent2050	third	THIRD	1859		kə́nyàkkə́bè	kə́nyàkkə́bè 
+1041	5-13-44-1	73101856833143802	Kanuri	cent2050	three times	THREE TIMES	417		yàkkə́rò	yàkkə́rò 
+1042	5-14-11-1	73101856313092650	Kanuri	cent2050	the time	TIME	892		sâ	sâ 
+1043	5-14-11-2	73101856408857478	Kanuri	cent2050	the time	TIME	892		lóktù	lóktù 
+1044	5-14-12-1	73101856194638288	Kanuri	cent2050	the age	AGE	1789		kàwú	kàwú 
+1045	5-14-12-2	73101856749472386	Kanuri	cent2050	the age	AGE	1789		sàgá	sàgá 
+1046	5-14-13-1	73101856966275474	Kanuri	cent2050	new	NEW	1231		bə̀lîn	bə̀lîn 
+1047	5-14-14-1	73101856837305280	Kanuri	cent2050	young	YOUNG	1207		gàná	gàná 
+1048	5-14-15-1	73101856195381365	Kanuri	cent2050	old	OLD	1229		cárì	cárì 
+1049	5-14-16-1	73101856965151116	Kanuri	cent2050	early	EARLY	672		dùwân	dùwân 
+1050	5-14-17-1	73101856989088852	Kanuri	cent2050	late	LATE	477		wàhàrtə́	wàhàrtə́ 
+1051	5-14-18-1	73101856473549766	Kanuri	cent2050	now	NOW	1376		kə́rmá	kə́rmá 
+1052	5-14-19-1	73101856497079223	Kanuri	cent2050	immediately	IMMEDIATELY	1963		kə́rmámá	kə́rmámá 
+1053	5-14-21-1	73101856502933039	Kanuri	cent2050	fast	FAST	1631		nágàt	nágàt 
+1054	5-14-21-2	73101856937839943	Kanuri	cent2050	fast	FAST	1631		dôì	dôì 
+1055	5-14-22-1	73101856456728848	Kanuri	cent2050	slow	SLOW	701		yílàyèn	yílàyèn 
+1056	5-14-23-1	73101856175234668	Kanuri	cent2050	to hurry	HURRY	754		àzàltə́	àzàltə́ 
+1057	5-14-24-1	73101856174514004	Kanuri	cent2050	to be late	BE LATE	425		dúwómtə̀	dúwómtə̀ 
+1058	5-14-25-1	73101856520538327	Kanuri	cent2050	to begin	BEGIN	1806		bàdìtə́	bàdìtə́ 
+1059	5-14-252-1	73101856917457961	Kanuri	cent2050	to last	LAST (ENDURE)	1186		tùstə́	tùstə́ 
+1060	5-14-26-1	73101856995997359	Kanuri	cent2050	the end(2)	END (OF TIME)	743		dàtə́ràm	dàtə́ràm 
+1061	5-14-27-1	73101856393412774	Kanuri	cent2050	to finish	FINISH	1766		tàmòtə́	tàmòtə́ 
+1062	5-14-28-1	73101856705880761	Kanuri	cent2050	to cease	CEASE	1928		dàtə́	dàtə́ 
+1063	5-14-29-1	73101856737512621	Kanuri	cent2050	ready	READY	790		dàwàrgátà	dàwàrgátà 
+1064	5-14-31-1	73101856206237332	Kanuri	cent2050	always	ALWAYS	1676		sàbísó	sàbísó 
+1065	5-14-31-2	73101856464255013	Kanuri	cent2050	always	ALWAYS	1676		kúllúm	kúllúm 
+1066	5-14-32-1	73101856119589596	Kanuri	cent2050	often	OFTEN	1852		ngə́wùrò	ngə́wùrò 
+1067	5-14-33-1	73101856836982148	Kanuri	cent2050	sometimes	SOMETIMES	1544		sâ lágá	sâ lágá 
+1068	5-14-331-1	73101856467929188	Kanuri	cent2050	soon	SOON	703		sàm	sàm 
+1069	5-14-332-1	73101856480051501	Kanuri	cent2050	for a long time	FOR A LONG TIME	418		kûré	kûré 
+1070	5-14-34-1	73101856217891571	Kanuri	cent2050	never	NEVER	1656		ngáltè	ngáltè 
+1071	5-14-34-2	73101856690215608	Kanuri	cent2050	never	NEVER	1656		àbàdá	àbàdá 
+1072	5-14-35-1	73101856977698652	Kanuri	cent2050	again	AGAIN	204		kòró	kòró 
+1073	5-14-41-1	73101856337126883	Kanuri	cent2050	the day(1)	DAY (24 HOURS)	1260		yîm	yîm 
+1074	5-14-42-1	73101856293130059	Kanuri	cent2050	the night	NIGHT	1233		bə́né	bə́né 
+1075	5-14-43-1	73101856766112114	Kanuri	cent2050	the dawn	DAWN	729		fájàr	fájàr 
+1076	5-14-44-1	73101856847571657	Kanuri	cent2050	the morning	MORNING	1339		sə́wà	sə́wà 
+1077	5-14-45-1	73101856628924351	Kanuri	cent2050	the midday	MIDDAY	12		kə̀ngâl dáwù	kə̀ngâl dáwù 
+1078	5-14-451-1	73101856137606101	Kanuri	cent2050	the afternoon	AFTERNOON	1807		kàjílí	kàjílí 
+1079	5-14-451-2	73101856662862912	Kanuri	cent2050	the afternoon	AFTERNOON	1807		ásàr	ásàr 
+1080	5-14-46-1	73101856137606101	Kanuri	cent2050	the evening	EVENING	1629		kàjílí	kàjílí 
+1081	5-14-47-1	73101856626766622	Kanuri	cent2050	today	TODAY	1283		kû	kû 
+1082	5-14-48-1	7310185622130515	Kanuri	cent2050	tomorrow	TOMORROW	1329		bálì	bálì 
+1083	5-14-481-1	73101856669072375	Kanuri	cent2050	the day after tomorrow	DAY AFTER TOMORROW	1179		wágə̀ré	wágə̀ré 
+1084	5-14-49-1	73101856674971466	Kanuri	cent2050	yesterday	YESTERDAY	1174		bískà	bískà 
+1085	5-14-491-1	73101856578822575	Kanuri	cent2050	the day before yesterday	DAY BEFORE YESTERDAY	1180		bískántò	bískántò 
+1086	5-14-51-1	73101856313092650	Kanuri	cent2050	the hour	HOUR	1353		sâ	sâ 
+1087	5-14-53-1	7310185696033262	Kanuri	cent2050	the clock	CLOCK	1323		àgógó	àgógó 
+1088	5-14-61-1	73101856855895397	Kanuri	cent2050	the week	WEEK	1469		mágə̀	mágə̀ 
+1089	5-14-62-1	73101856371206193	Kanuri	cent2050	Sunday	SUNDAY	1699		ládə̀	ládə̀ 
+1090	5-14-63-1	73101856593638547	Kanuri	cent2050	Monday	MONDAY	1697		lìtìlîn	lìtìlîn 
+1091	5-14-64-1	73101856857418769	Kanuri	cent2050	Tuesday	TUESDAY	1695		tálàgə́	tálàgə́ 
+1092	5-14-65-1	73101856651148764	Kanuri	cent2050	Wednesday	WEDNESDAY	1694		láráwà	láráwà 
+1093	5-14-66-1	73101856374152509	Kanuri	cent2050	Thursday	THURSDAY	1693		làmísə̀	làmísə̀ 
+1094	5-14-67-1	73101856104537628	Kanuri	cent2050	Friday	FRIDAY	1692		júmmà	júmmà 
+1095	5-14-68-1	73101856916119473	Kanuri	cent2050	Saturday	SATURDAY	1700		sə́bdə̀	sə́bdə̀ 
+1096	5-14-71-1	73101856606737768	Kanuri	cent2050	the month	MONTH	1370		kə̀ntágə̀	kə̀ntágə̀ 
+1097	5-14-73-1	73101856749472386	Kanuri	cent2050	the year	YEAR	1226		sàgá	sàgá 
+1098	5-14-74-1	73101856163599811	Kanuri	cent2050	the winter	WINTER	1471		bínə́m	bínə́m 
+1099	5-14-75-1	73101856576329549	Kanuri	cent2050	the spring(2)	SPRINGTIME	1537		bê	bê 
+1100	5-14-76-1	73101856576329549	Kanuri	cent2050	the summer	SUMMER	1342		bê	bê 
+1101	5-14-77-1	73101856239336348	Kanuri	cent2050	the autumn/fall	AUTUMN	1276		bíkə̀là	bíkə̀là 
+1102	5-14-78-1	731018561799741	Kanuri	cent2050	the season	SEASON	691		zàmân	zàmân 
+1103	5-14-78-2	73101856313092650	Kanuri	cent2050	the season	SEASON	691		sâ	sâ 
+1104	5-15-21-1	731018561229634	Kanuri	cent2050	to smell(1)	SMELL (STINK)	1587		yìntà	yìntà 
+1105	5-15-89-1	73101856344315063	Kanuri	cent2050	wrinkled	WRINKLED	380		kúrsáshíà	kúrsáshíà 
+1106	5-15-212-1	731018561229634	Kanuri	cent2050	to sniff	SNIFF	375		yìntà	yìntà 
+1107	5-15-22-1	731018561229634	Kanuri	cent2050	to smell(2)	SMELL (PERCEIVE)	1586		yìntà	yìntà 
+1108	5-15-25-1	73101856293914826	Kanuri	cent2050	fragrant	FRAGRANT	376		bə́bə́ttə́	bə́bə́ttə́ 
+1109	5-15-26-1	73101856561036422	Kanuri	cent2050	stinking	STINKING	42		cíná	cíná 
+1110	5-15-31-1	73101856483626546	Kanuri	cent2050	to taste	TASTE (SOMETHING)	21		tàmbò	tàmbò 
+1111	5-15-35-1	73101856486439982	Kanuri	cent2050	sweet	SWEET	717		lélé	lélé 
+1112	5-15-35-2	73101856194937637	Kanuri	cent2050	sweet	SWEET	717		kə̀jî	kə̀jî 
+1113	5-15-36-1	73101856416071580	Kanuri	cent2050	salty	SALTY	1091		mándáà	mándáà 
+1114	5-15-37-1	73101856749602123	Kanuri	cent2050	bitter	BITTER	887		cîm	cîm 
+1115	5-15-38-1	73101856124281426	Kanuri	cent2050	sour	SOUR	1906		càmcàm	càmcàm 
+1116	5-15-39-1	73101856119203151	Kanuri	cent2050	brackish	BRACKISH	70		ngòyí	ngòyí 
+1117	5-15-41-1	73101856808704764	Kanuri	cent2050	to hear	HEAR	1408		fàntə́	fàntə́ 
+1118	5-15-42-1	73101856808704764	Kanuri	cent2050	to listen	LISTEN	1608		fàntə́	fàntə́ 
+1119	5-15-44-1	7310185631962116	Kanuri	cent2050	the sound or noise	SOUND OR NOISE	1811		kàlálà	kàlálà 
+1120	5-15-45-1	73101856644503443	Kanuri	cent2050	loud	LOUD	377		bàndîl	bàndîl 
+1121	5-15-46-1	7310185629440133	Kanuri	cent2050	quiet	QUIET	1314		kə́də́k	kə́də́k 
+1122	5-15-46-2	73101856435830675	Kanuri	cent2050	quiet	QUIET	1314		sə́ríú	sə́ríú 
+1123	5-15-51-1	73101856391617847	Kanuri	cent2050	to see	SEE	1409		rò	rò 
+1124	5-15-52-1	73101856712332111	Kanuri	cent2050	to look	LOOK	1819		wùtə́	wùtə́ 
+1125	5-15-55-1	73101856224044316	Kanuri	cent2050	to show	SHOW	1039		fə́lə́tə́gə́	fə́lə́tə́gə́ 
+1126	5-15-56-1	73101856461782925	Kanuri	cent2050	to shine	SHINE	708		yìwàltò	yìwàltò 
+1127	5-15-57-1	73101856707281068	Kanuri	cent2050	bright	BRIGHT	679		wáyáng	wáyáng 
+1128	5-15-61-1	73101856359329491	Kanuri	cent2050	the colour/color	COLOR	1613		lánnù	lánnù 
+1129	5-15-61-2	73101856618574475	Kanuri	cent2050	the colour/color	COLOR	1613		kálà	kálà 
+1130	5-15-62-1	73101856850584391	Kanuri	cent2050	light(2)	LIGHT (COLOR)	250		nûrrà	nûrrà 
+1131	5-15-63-1	73101856951391661	Kanuri	cent2050	dark	DARK	706		nə̀mkə̀lmə́skə̀	nə̀mkə̀lmə́skə̀ 
+1132	5-15-64-1	73101856272352091	Kanuri	cent2050	white	WHITE	1335		bûl	bûl 
+1133	5-15-65-1	73101856723143070	Kanuri	cent2050	black	BLACK	163		sə́lə́m	sə́lə́m 
+1134	5-15-66-1	73101856932100956	Kanuri	cent2050	red	RED	156		cìmé, kìmé	cìmé 
+1135	5-15-66-2	73101856932100956	Kanuri	cent2050	red	RED	156		cìmé, kìmé	kìmé 
+1136	5-15-67-1	73101856743055700	Kanuri	cent2050	blue	BLUE	837		lìwùllá	lìwùllá 
+1137	5-15-68-1	73101856440610926	Kanuri	cent2050	green	GREEN	1425		kə̀lî	kə̀lî 
+1138	5-15-69-1	73101856386188644	Kanuri	cent2050	yellow	YELLOW	1424		kúrnùm, kúrwùm	kúrnùm 
+1139	5-15-69-2	73101856386188644	Kanuri	cent2050	yellow	YELLOW	1424		kúrnùm, kúrwùm	kúrwùm 
+1140	5-15-69-3	73101856222643319	Kanuri	cent2050	yellow	YELLOW	1424		càsá	càsá 
+1141	5-15-71-1	73101856706560699	Kanuri	cent2050	to touch	TOUCH	1892		lètə́ (2)	lètə́ (2) 
+1142	5-15-712-1	73101856287510019	Kanuri	cent2050	to pinch	PINCH	378		còktə́	còktə́ 
+1143	5-15-72-1	73101856808704764	Kanuri	cent2050	to feel	FEEL	1079		fàntə́	fàntə́ 
+1144	5-15-74-1	73101856108577082	Kanuri	cent2050	hard	HARD	1884		cíbbù	cíbbù 
+1145	5-15-75-1	73101856146242086	Kanuri	cent2050	soft	SOFT	1856		tə́làlà	tə́làlà 
+1146	5-15-75-2	73101856738735419	Kanuri	cent2050	soft	SOFT	1856		kàwúsə̀	kàwúsə̀ 
+1147	5-15-76-1	73101856240788360	Kanuri	cent2050	rough(1)	ROUGH	1923		kə́rsàsà	kə́rsàsà 
+1148	5-15-77-1	73101856204773801	Kanuri	cent2050	smooth	SMOOTH	1234		sə́mə́l	sə́mə́l 
+1149	5-15-77-2	73101856561861099	Kanuri	cent2050	smooth	SMOOTH	1234		súlsúl	súlsúl 
+1150	5-15-78-1	73101856330277599	Kanuri	cent2050	sharp	SHARP	1396		tímìà	tímìà 
+1151	5-15-78-2	73101856511016111	Kanuri	cent2050	sharp	SHARP	1396		cóncón	cóncón 
+1152	5-15-79-1	73101856186498947	Kanuri	cent2050	blunt	BLUNT	379		gòrdó	gòrdó 
+1153	5-15-81-1	73101856917897098	Kanuri	cent2050	heavy	HEAVY	1210		kùrwówù	kùrwówù 
+1154	5-15-82-1	73101856386546591	Kanuri	cent2050	light(1)	LIGHT (WEIGHT)	1052		kàmbôì	kàmbôì 
+1155	5-15-82-2	73101856485057698	Kanuri	cent2050	light(1)	LIGHT (WEIGHT)	1052		fèlélé	fèlélé 
+1156	5-15-83-1	73101856173910145	Kanuri	cent2050	wet	WET	1726		kə́lî	kə́lî 
+1157	5-15-84-1	73101856677204700	Kanuri	cent2050	dry	DRY	1398		ngámdə́	ngámdə́ 
+1158	5-15-85-1	73101856942221515	Kanuri	cent2050	hot	HOT	1286		kánnúà	kánnúà 
+1159	5-15-851-1	73101856621460563	Kanuri	cent2050	warm	WARM	1232		jə́mjə́m	jə́mjə́m 
+1160	5-15-86-1	73101856991121058	Kanuri	cent2050	cold	COLD	1287		ámùsú	ámùsú 
+1161	5-15-86-2	73101856694899039	Kanuri	cent2050	cold	COLD	1287		kákkù	kákkù 
+1162	5-15-87-1	73101856707969181	Kanuri	cent2050	clean	CLEAN	704		ngə́là	ngə́là 
+1163	5-15-88-1	73101856363341564	Kanuri	cent2050	dirty	DIRTY	1230		kàdágə̀	kàdágə̀ 
+1164	5-16-11-1	73101856902041755	Kanuri	cent2050	the soul or spirit	SOUL	811		rô	rô 
+1165	5-16-15-1	73101856978797734	Kanuri	cent2050	surprised or astonished	SURPRISED	1572		ájàp	ájàp 
+1166	5-16-18-1	73101856313092650	Kanuri	cent2050	the good luck	GOOD LUCK	720		sâ	sâ 
+1167	5-16-19-1	73101856734955709	Kanuri	cent2050	the bad luck	BAD LUCK	56		bûì	bûì 
+1168	5-16-23-1	73101856339158157	Kanuri	cent2050	happy	HAPPY	1495		kúrnòà	kúrnòà 
+1169	5-16-25-1	73101856634510015	Kanuri	cent2050	to laugh	LAUGH	1355		kàsúsù	kàsúsù 
+1170	5-16-251-1	73101856219487868	Kanuri	cent2050	to smile	SMILE	1451		mə́mə́stə́	mə́mə́stə́ 
+1171	5-16-26-1	73101856387486155	Kanuri	cent2050	to play	PLAY	1413		bìské	bìské 
+1172	5-16-27-1	73101856593356607	Kanuri	cent2050	to love	LOVE	923		ràwò	ràwò 
+1173	5-16-29-1	73101856289504862	Kanuri	cent2050	to kiss	KISS	578		nzə̀mbò	nzə̀mbò 
+1174	5-16-3-1	73101856289504862	Kanuri	cent2050	to embrace	EMBRACE	928		nzə̀mbò	nzə̀mbò 
+1175	5-16-31-1	73101856637273679	Kanuri	cent2050	the pain	PAIN	1783		sə̀rèn	sə̀rèn 
+1176	5-16-31-2	73101856211639475	Kanuri	cent2050	the pain	PAIN	1783		nə̀mjàù	nə̀mjàù 
+1177	5-16-32-1	73101856211639475	Kanuri	cent2050	the grief	GRIEF	1668		nə̀mjàù	nə̀mjàù 
+1178	5-16-33-1	73101856426154924	Kanuri	cent2050	the anxiety	ANXIETY	1000		kàrúrútì	kàrúrútì 
+1179	5-16-33-2	73101856961822317	Kanuri	cent2050	the anxiety	ANXIETY	1000		rìndò	rìndò 
+1180	5-16-34-1	73101856965318328	Kanuri	cent2050	to regret or be sorry	REGRET	1875		tə́wə́rítə́	tə́wə́rítə́ 
+1181	5-16-35-1	73101856494915684	Kanuri	cent2050	the pity	PITY	1141		kànjímàlí	kànjímàlí 
+1182	5-16-37-1	73101856736025462	Kanuri	cent2050	to cry	CRY	1839		sô	sô 
+1183	5-16-38-1	73101856933638637	Kanuri	cent2050	the tear	TEAR (OF EYE)	1651		shímálò	shímálò 
+1184	5-16-39-1	73101856880778564	Kanuri	cent2050	to groan	GROAN	716		ndə́rtə́	ndə́rtə́ 
+1185	5-16-41-1	73101857421223827	Kanuri	cent2050	to hate	HATE	1607		wátə́	wátə́ 
+1186	5-16-42-1	73101856216688769	Kanuri	cent2050	the anger	ANGER	82		gə́rgátə́	gə́rgátə́ 
+1187	5-16-44-1	73101856166896856	Kanuri	cent2050	the envy or jealousy	ENVY	40		nə̀ndə́lì	nə̀ndə́lì 
+1188	5-16-45-1	73101856625765383	Kanuri	cent2050	the shame	SHAME	1776		nóngù	nóngù 
+1189	5-16-48-1	73101856975389376	Kanuri	cent2050	proud	PROUD	174		kùràmí	kùràmí 
+1190	5-16-51-1	73101856888096922	Kanuri	cent2050	to dare	DARE	1779		mánà mátə́	mánà mátə́ 
+1191	5-16-52-1	73101856503244305	Kanuri	cent2050	brave	BRAVE	3		kàrə́gə̀ cíbbú	kàrə́gə̀ cíbbú 
+1192	5-16-52-2	7310185688881902	Kanuri	cent2050	brave	BRAVE	3		kə̀mâr	kə̀mâr 
+1193	5-16-53-1	73101856740123193	Kanuri	cent2050	the fear	FEAR (FRIGHT)	781		rìtà	rìtà 
+1194	5-16-54-1	73101856406907186	Kanuri	cent2050	the danger	DANGER	1810		tájírwà	tájírwà 
+1195	5-16-62-1	73101856593356607	Kanuri	cent2050	to want	WANT	1784		ràwò	ràwò 
+1196	5-16-622-1	73101856937290006	Kanuri	cent2050	to choose	CHOOSE	1750		kàrtə́	kàrtə́ 
+1197	5-16-63-1	7310185677196670	Kanuri	cent2050	to hope	HOPE (SOMETHING)	3212		tə̀mâtə̀	tə̀mâtə̀ 
+1198	5-16-65-1	73101856405210416	Kanuri	cent2050	faithful	FAITHFUL	100		àmànmá	àmànmá 
+1199	5-16-66-1	731018569471851	Kanuri	cent2050	true	TRUE	1657		jírè	jírè 
+1200	5-16-67-1	7310185682155166	Kanuri	cent2050	to lie(2)	LIE (MISLEAD)	601		kárgí	kárgí 
+1201	5-16-68-1	73101856649447377	Kanuri	cent2050	the deceit	DECEIT	13		nə̀mmə̀náfùk	nə̀mmə̀náfùk 
+1202	5-16-69-1	73101856488994445	Kanuri	cent2050	to forgive	FORGIVE	1528		gàfə̀rtə́	gàfə̀rtə́ 
+1203	5-16-71-1	73101856194937637	Kanuri	cent2050	good	GOOD	1035		kə̀jî	kə̀jî 
+1204	5-16-72-1	73101856641040869	Kanuri	cent2050	bad	BAD	1292		kúttù	kúttù 
+1205	5-16-73-1	73101857315052475	Kanuri	cent2050	right(2)	CORRECT (RIGHT)	1725		kálkál	kálkál 
+1206	5-16-74-1	73101856179615940	Kanuri	cent2050	wrong	WRONG	1390		kálkál gə̀nyí	kálkál gə̀nyí 
+1207	5-16-76-1	73101856839785935	Kanuri	cent2050	the fault	FAULT	134		áìwù	áìwù 
+1208	5-16-77-1	73101856105427698	Kanuri	cent2050	the mistake	MISTAKE	1293		yéstə́	yéstə́ 
+1209	5-16-78-1	73101856553928681	Kanuri	cent2050	the blame	BLAME	381		sə́líwù	sə́líwù 
+1210	5-16-79-1	73101856907500892	Kanuri	cent2050	the praise	PRAISE	1687		nzòngòrò	nzòngòrò 
+1211	5-16-79-2	73101856516385654	Kanuri	cent2050	the praise	PRAISE	1687		kàràwàtà	kàràwàtà 
+1212	5-16-81-1	73101856707969181	Kanuri	cent2050	beautiful	BEAUTIFUL	1427		ngə́là	ngə́là 
+1213	5-16-81-2	73101856274654920	Kanuri	cent2050	beautiful	BEAUTIFUL	1427		sháwà	sháwà 
+1214	5-16-82-1	73101856415375285	Kanuri	cent2050	ugly	UGLY	1548		bàttí	bàttí 
+1215	5-16-83-1	73101856926054499	Kanuri	cent2050	greedy	GREEDY	2018		yámgà	yámgà 
+1216	5-16-83-2	73101856432177196	Kanuri	cent2050	greedy	GREEDY	2018		sùròkùrá	sùròkùrá 
+1217	5-16-84-1	73101856377998132	Kanuri	cent2050	clever	CLEVER	1310		ángàllà	ángàllà 
+1218	5-17-11-1	73101856727327728	Kanuri	cent2050	the mind	MIND	1562		hángàl	hángàl 
+1219	5-17-13-1	73101856348014217	Kanuri	cent2050	to think(1)	THINK (REFLECT)	1415		tàktə́	tàktə́ 
+1220	5-17-14-1	73101856373753979	Kanuri	cent2050	to think(2)	THINK (BELIEVE)	1513		tə̀mâtə́	tə̀mâtə́ 
+1221	5-17-15-1	73101856373753979	Kanuri	cent2050	to believe	BELIEVE	1890		tə̀mâtə́	tə̀mâtə́ 
+1222	5-17-16-1	73101856808704764	Kanuri	cent2050	to understand	UNDERSTAND	1536		fàntə́	fàntə́ 
+1223	5-17-17-1	73101856284036751	Kanuri	cent2050	to know	KNOW (SOMETHING)	1410		nòtə́	nòtə́ 
+1224	5-17-172-1	73101857792382921	Kanuri	cent2050	to imitate	IMITATE	117		yàngàngà	yàngàngà 
+1225	5-17-19-1	73101856443837003	Kanuri	cent2050	the idea	IDEA	1609		dàwárì	dàwárì 
+1226	5-17-19-2	73101856457732215	Kanuri	cent2050	the idea	IDEA	1609		sówórì	sówórì 
+1227	5-17-21-1	73101856408560739	Kanuri	cent2050	wise	WISE	698		búrwóà	búrwóà 
+1228	5-17-21-2	73101856935556782	Kanuri	cent2050	wise	WISE	698		nzúndù	nzúndù 
+1229	5-17-22-1	73101856257519830	Kanuri	cent2050	stupid	STUPID	1518		ángàl kúttùà	ángàl kúttùà 
+1230	5-17-23-1	73101856110601511	Kanuri	cent2050	mad	MAD	1899		jòlí	jòlí 
+1231	5-17-24-1	73101856526746154	Kanuri	cent2050	to learn	LEARN	504		lìò	lìò 
+1232	5-17-242-1	73101857195230634	Kanuri	cent2050	to study	STUDY	1929		kə̀ràtə́	kə̀ràtə́ 
+1233	5-17-25-1	73101856603548873	Kanuri	cent2050	to teach	TEACH	709		nzə̀kkə̀lìò	nzə̀kkə̀lìò 
+1234	5-17-26-1	73101856239019832	Kanuri	cent2050	the pupil	PUPIL (STUDENT)	753		fùwùrá	fùwùrá 
+1235	5-17-27-1	73101856270876225	Kanuri	cent2050	the teacher	TEACHER	1038		málə̀m	málə̀m 
+1236	5-17-28-1	73101856347837807	Kanuri	cent2050	the school	SCHOOL	673		màkàràndí	màkàràndí 
+1237	5-17-31-1	73101856348014217	Kanuri	cent2050	to remember	REMEMBER	707		tàktə́	tàktə́ 
+1238	5-17-32-1	73101856157186075	Kanuri	cent2050	to forget	FORGET	1523		ngèstə́	ngèstə́ 
+1239	5-17-34-1	73101856724338567	Kanuri	cent2050	clear	CLEAR	989		záhìr	záhìr 
+1240	5-17-35-1	73101856246935678	Kanuri	cent2050	obscure	OBSCURE	1764		gə̀ràgátà	gə̀ràgátà 
+1241	5-17-36-1	73101856212827522	Kanuri	cent2050	secret	SECRET	1121		àsír	àsír 
+1242	5-17-37-1	73101856120552869	Kanuri	cent2050	certain	CERTAIN	509		táwàt	táwàt 
+1243	5-17-38-1	73101856189251922	Kanuri	cent2050	to explain	EXPLAIN	1626		bàyèntə́	bàyèntə́ 
+1244	5-17-41-1	73101856139898463	Kanuri	cent2050	the intention	INTENTION	1162		nyâ	nyâ 
+1245	5-17-41-2	73101856552427830	Kanuri	cent2050	the intention	INTENTION	1162		kǎìdù	kǎìdù 
+1246	5-17-42-1	73101856990126761	Kanuri	cent2050	the cause	CAUSE	860		dàlíl	dàlíl 
+1247	5-17-43-1	73101856522069584	Kanuri	cent2050	the doubt	DOUBT	1308		shégə́	shégə́ 
+1248	5-17-44-1	7310185676593443	Kanuri	cent2050	to suspect	SUSPECT	1841		zàntà	zàntà 
+1249	5-17-441-1	73101857252345308	Kanuri	cent2050	to betray	BETRAY	1902		fìsàttə́	fìsàttə́ 
+1250	5-17-441-2	73101857665231401	Kanuri	cent2050	to betray	BETRAY	1902		àmân bò	àmân bò 
+1251	5-17-45-1	73101856886941946	Kanuri	cent2050	the need or necessity	NEED (NOUN)	643		lámbí	lámbí 
+1252	5-17-45-2	73101856806625719	Kanuri	cent2050	the need or necessity	NEED (NOUN)	643		màndàná	màndàná 
+1253	5-17-46-1	73101856967646131	Kanuri	cent2050	easy	EASY	686		kə̀skə̌	kə̀skə̌ 
+1254	5-17-47-1	73101856151350035	Kanuri	cent2050	difficult	DIFFICULT	584		jâu	jâu 
+1255	5-17-48-1	73101856115124527	Kanuri	cent2050	to try	TRY	1812		járáptə́	járáptə́ 
+1256	5-17-48-2	73101856364186165	Kanuri	cent2050	to try	TRY	1812		ngə̀stà	ngə̀stà 
+1257	5-17-49-1	73101856795137162	Kanuri	cent2050	the manner	MANNER	488		fútù	fútù 
+1258	5-17-51-1	73101856989615561	Kanuri	cent2050	and	AND	1577		-a	-a 
+1259	5-17-51-2	73101856684090490	Kanuri	cent2050	and	AND	1577		yé	yé 
+1260	5-17-52-1	73101856712005890	Kanuri	cent2050	because	BECAUSE	1157		nàngàrò	nàngàrò 
+1261	5-17-53-1	73101856592631656	Kanuri	cent2050	if	IF	1459		yà	yà 
+1262	5-17-54-1	73101856856294186	Kanuri	cent2050	or	OR	1014		âu	âu 
+1263	5-17-54-2	7310185714377557	Kanuri	cent2050	or	OR	1014		lâ	lâ 
+1264	5-17-55-1	73101857475374508	Kanuri	cent2050	yes	YES	1268		àâ	àâ 
+1265	5-17-55-2	73101857116626737	Kanuri	cent2050	yes	YES	1268		nà'ám	nà'ám 
+1266	5-17-56-1	73101857696047288	Kanuri	cent2050	no	NO	1269		á'à	á'à 
+1267	5-17-61-1	73101857723600568	Kanuri	cent2050	how?	HOW	1239		àbígǎìnyìn	àbígǎìnyìn 
+1268	5-17-62-1	73101857962836936	Kanuri	cent2050	how many?	HOW MANY	822		ndàwú	ndàwú 
+1269	5-17-63-1	73101857424163514	Kanuri	cent2050	how much?	HOW MUCH	531		ndàwûn	ndàwûn 
+1270	5-17-64-1	73101857343059157	Kanuri	cent2050	what?	WHAT	1236		àbí	àbí 
+1271	5-17-65-1	73101857299769233	Kanuri	cent2050	when?	WHEN	1238		sàmbí	sàmbí 
+1272	5-17-66-1	73101857753715651	Kanuri	cent2050	where?	WHERE	1237		ndárân	ndárân 
+1273	5-17-67-1	73101857932276001	Kanuri	cent2050	which?	WHICH	727		fí	fí 
+1274	5-17-68-1	73101857893166859	Kanuri	cent2050	who?	WHO	1235		ndú	ndú 
+1275	5-17-69-1	73101857534877719	Kanuri	cent2050	why?	WHY	1270		àbírò	àbírò 
+1276	5-18-11-1	73101857297573712	Kanuri	cent2050	the voice	VOICE	1363		kówò	kówò 
+1277	5-18-12-1	73101857319291520	Kanuri	cent2050	to sing	SING	1261		kàíyà yétə́	kàíyà yétə́ 
+1278	5-18-13-1	73101857684660916	Kanuri	cent2050	to shout	SHOUT	715		búrwù	búrwù 
+1279	5-18-15-1	73101857285192223	Kanuri	cent2050	to whisper	WHISPER	55		tàttàwí	tàttàwí 
+1280	5-18-16-1	73101857285192223	Kanuri	cent2050	to mumble	MUMBLE	128		tàttàwí	tàttàwí 
+1281	5-18-17-1	73101857375219722	Kanuri	cent2050	to whistle	WHISTLE	1025		fólídò dìò	fólídò dìò 
+1282	5-18-18-1	73101856880778564	Kanuri	cent2050	to shriek	SHRIEK	298		ndə́rtə́	ndə́rtə́ 
+1283	5-18-19-1	73101857777451197	Kanuri	cent2050	to howl	HOWL	526		yàlùtà	yàlùtà 
+1284	5-18-21-1	73101857637061296	Kanuri	cent2050	to speak or talk	SPEAK	1623		mánà	mánà 
+1285	5-18-211-1	7310185716691663	Kanuri	cent2050	to stutter or stammer	STUTTER	1866		kə̀mə́mə́gə̀	kə̀mə́mə́gə̀ 
+1286	5-18-22-1	73101857984009808	Kanuri	cent2050	to say	SAY	1458		nə̀	nə̀ 
+1287	5-18-22-2	73101857875502524	Kanuri	cent2050	to say	SAY	1458		gùltə́	gùltə́ 
+1288	5-18-221-1	73101857875502524	Kanuri	cent2050	to tell	TELL	1711		gùltə́	gùltə́ 
+1289	5-18-222-1	73101857609692868	Kanuri	cent2050	the speech	SPEECH	1115		kàwúlì	kàwúlì 
+1290	5-18-23-1	73101857565960437	Kanuri	cent2050	to be silent	BE SILENT	48		nə̀mkə́də́k	nə̀mkə́də́k 
+1291	5-18-23-2	73101857478079506	Kanuri	cent2050	to be silent	BE SILENT	48		sə́rín	sə́rín 
+1292	5-18-24-1	73101856954144650	Kanuri	cent2050	the language	LANGUAGE	1307		tə́làm	tə́làm 
+1293	5-18-26-1	73101857644027453	Kanuri	cent2050	the word	WORD	1599		kálìmá	kálìmá 
+1294	5-18-28-1	73101857831050746	Kanuri	cent2050	the name	NAME	1405		cû	cû 
+1295	5-18-31-1	73101857879139358	Kanuri	cent2050	to ask(1)	ASK (INQUIRE)	1309		kòrò	kòrò 
+1296	5-18-32-1	73101857331014057	Kanuri	cent2050	to answer	ANSWER	1275		mògò	mògò 
+1297	5-18-32-2	73101857684781352	Kanuri	cent2050	to answer	ANSWER	1275		jààptà	jààptà 
+1298	5-18-32-3	73101857895735787	Kanuri	cent2050	to answer	ANSWER	1275		jàáwù	jàáwù 
+1299	5-18-33-1	73101857264342113	Kanuri	cent2050	to admit	ADMIT	2022		kàsàttə́	kàsàttə́ 
+1300	5-18-33-2	7310185722724454	Kanuri	cent2050	to admit	ADMIT	2022		àrdìtə́	àrdìtə́ 
+1301	5-18-34-1	73101857421223827	Kanuri	cent2050	to deny	DENY	755		wátə́	wátə́ 
+1302	5-18-34-2	73101857707275227	Kanuri	cent2050	to deny	DENY	755		àngə̀rtə́	àngə̀rtə́ 
+1303	5-18-35-1	73101857879139358	Kanuri	cent2050	to ask(2)	ASK (REQUEST)	1828		kòrò	kòrò 
+1304	5-18-36-1	73101857500405699	Kanuri	cent2050	to promise	PROMISE	1675		wàdə̀ gòtə́	wàdə̀ gòtə́ 
+1305	5-18-37-1	73101857421223827	Kanuri	cent2050	to refuse	REFUSE	49		wátə́	wátə́ 
+1306	5-18-38-1	73101857760430913	Kanuri	cent2050	to forbid	FORBID	83		dàptə́gə́	dàptə́gə́ 
+1307	5-18-39-1	73101857782884376	Kanuri	cent2050	to scold	SCOLD	299		wùsátə́	wùsátə́ 
+1308	5-18-41-1	73101857315418802	Kanuri	cent2050	to call(1)	CALL	1084		bógótə̀	bógótə̀ 
+1309	5-18-42-1	73101857574466273	Kanuri	cent2050	to call(2)	CALL BY NAME	180		cû tà	cû tà 
+1310	5-18-43-1	73101857568986890	Kanuri	cent2050	to announce	ANNOUNCE	9		wòrmàtə́	wòrmàtə́ 
+1311	5-18-44-1	73101857782884376	Kanuri	cent2050	to threaten	THREATEN	1192		wùsátə́	wùsátə́ 
+1312	5-18-45-1	73101857981455572	Kanuri	cent2050	to boast	BOAST	101		wàmtə́	wàmtə́ 
+1313	5-18-45-2	73101857268864061	Kanuri	cent2050	to boast	BOAST	101		áwúlò dìò	áwúlò dìò 
+1314	5-18-51-1	73101857489296835	Kanuri	cent2050	to write	WRITE	1672		rùwùtə́	rùwùtə́ 
+1315	5-18-52-1	73101857195230634	Kanuri	cent2050	to read	READ	724		kə̀ràtə́	kə̀ràtə́ 
+1316	5-18-56-1	73101857587501036	Kanuri	cent2050	the paper	PAPER	648		kákkádə̀	kákkádə̀ 
+1317	5-18-57-1	73101857401710731	Kanuri	cent2050	the pen	PEN	794		àlgálàm	àlgálàm 
+1318	5-18-61-1	7310185792652047	Kanuri	cent2050	the book	BOOK	963		kìtáwù	kìtáwù 
+1319	5-18-67-1	73101857757420637	Kanuri	cent2050	the poet	POET	1045		kàìyàmá	kàìyàmá 
+1320	5-18-71-1	73101857282070820	Kanuri	cent2050	the flute	FLUTE	777		shìlá	shìlá 
+1321	5-18-71-2	73101857981297521	Kanuri	cent2050	the flute	FLUTE	777		lídòkó	lídòkó 
+1322	5-18-72-1	73101857154487804	Kanuri	cent2050	the drum	DRUM	908		gàngá	gàngá 
+1323	5-18-73-1	73101856746308219	Kanuri	cent2050	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		kàngádì	kàngádì 
+1324	5-18-74-1	73101857538372922	Kanuri	cent2050	the rattle	RATTLE	300		kázákázá	kázákázá 
+1325	5-19-11-1	7310185695473116	Kanuri	cent2050	the country	COUNTRY	1300		lárdə̀	lárdə̀ 
+1326	5-19-11-2	73101856945911387	Kanuri	cent2050	the country	COUNTRY	1300		cídí	cídí 
+1327	5-19-15-1	73101857168689682	Kanuri	cent2050	the town	TOWN	1391		bə́là	bə́là 
+1328	5-19-15-2	7310185712528347	Kanuri	cent2050	the town	TOWN	1391		bə́rnyí	bə́rnyí 
+1329	5-19-16-1	73101857485751288	Kanuri	cent2050	the village	VILLAGE	930		bə̀ládéyà	bə̀ládéyà 
+1330	5-19-16-2	73101857829456403	Kanuri	cent2050	the village	VILLAGE	930		ngúrò	ngúrò 
+1331	5-19-17-1	73101857431591580	Kanuri	cent2050	the boundary	BOUNDARY	1010		bə̀làlàngáì	bə̀làlàngáì 
+1332	5-19-21-1	73101857601130756	Kanuri	cent2050	the people	PEOPLE	789		jàmâ	jàmâ 
+1333	5-19-21-2	73101857539206338	Kanuri	cent2050	the people	PEOPLE	789		âm	âm 
+1334	5-19-23-1	73101857100912767	Kanuri	cent2050	the clan	CLAN	302		jílì	jílì 
+1335	5-19-24-1	73101857318308908	Kanuri	cent2050	the chieftain	CHIEFTAIN	301		mâì	mâì 
+1336	5-19-25-1	73101857559477048	Kanuri	cent2050	the walking stick	WALKING STICK	1296		kâ	kâ 
+1337	5-19-31-1	73101856848643942	Kanuri	cent2050	to rule or govern	RULE	1846		nòtò	nòtò 
+1338	5-19-32-1	73101857318308908	Kanuri	cent2050	the king	KING	1508		mâì	mâì 
+1339	5-19-33-1	73101857735911165	Kanuri	cent2050	the queen	QUEEN	1306		gúmsù	gúmsù 
+1340	5-19-36-1	7310185732586021	Kanuri	cent2050	the noble	NOBLE	482		mâìyá	mâìyá 
+1341	5-19-37-1	73101857944668138	Kanuri	cent2050	the citizen	CITIZEN	1032		ngáwàr	ngáwàr 
+1342	5-19-41-1	73101857430410359	Kanuri	cent2050	the master	MASTER	383		kə̀mâ	kə̀mâ 
+1343	5-19-42-1	73101857513195703	Kanuri	cent2050	the slave	SLAVE	812		cîr (f.), kîr (f.) kàléà	cîr (f.) 
+1344	5-19-42-2	73101857513195703	Kanuri	cent2050	the slave	SLAVE	812		cîr (f.), kîr (f.) kàléà	kîr (f.) kàléà 
+1345	5-19-43-1	73101857722649303	Kanuri	cent2050	the servant	SERVANT	255		kàléà	kàléà 
+1346	5-19-43-2	73101857479721915	Kanuri	cent2050	the servant	SERVANT	255		cîr (f.), kîr (f.)	cîr (f.) 
+1347	5-19-43-3	73101857479721915	Kanuri	cent2050	the servant	SERVANT	255		cîr (f.), kîr (f.)	kîr (f.) 
+1348	5-19-43-4	73101857811087313	Kanuri	cent2050	the servant	SERVANT	255		wàlàdí	wàlàdí 
+1349	5-19-44-1	7310185777269939	Kanuri	cent2050	the freeman	FREEMAN	384		kə̔lâbê	kə̔lâbê 
+1350	5-19-45-1	73101857103485148	Kanuri	cent2050	to command or order	ORDER	1128		dòwó dìò	dòwó dìò 
+1351	5-19-45-2	73101857994412799	Kanuri	cent2050	to command or order	ORDER	1128		ódà dìò	ódà dìò 
+1352	5-19-46-1	7310185638897729	Kanuri	cent2050	to obey	OBEY	1635		gà	gà 
+1353	5-19-46-2	73101856808704764	Kanuri	cent2050	to obey	OBEY	1635		fàntə́	fàntə́ 
+1354	5-19-47-1	73101857234235000	Kanuri	cent2050	to permit	PERMIT	1003		àmàrtə́	àmàrtə́ 
+1355	5-19-47-2	73101856397600382	Kanuri	cent2050	to permit	PERMIT	1003		kòltə́	kòltə́ 
+1356	5-19-51-1	73101857617834325	Kanuri	cent2050	the friend	FRIEND	1325		sáwà	sáwà 
+1357	5-19-52-1	73101857751627721	Kanuri	cent2050	the enemy	ENEMY	1358		wàtə̀má	wàtə̀má 
+1358	5-19-54-1	73101857460452684	Kanuri	cent2050	the neighbour	NEIGHBOUR	1332		kə̀máskí	kə̀máskí 
+1359	5-19-55-1	73101857974960141	Kanuri	cent2050	the stranger	STRANGER	791		kùsótò	kùsótò 
+1360	5-19-56-1	73101857974960141	Kanuri	cent2050	the guest	GUEST	1782		kùsótò	kùsótò 
+1361	5-19-57-1	73101857974960141	Kanuri	cent2050	the host	HOST	1545		kùsótò	kùsótò 
+1362	5-19-58-1	73101857962940010	Kanuri	cent2050	to help	HELP	1897		bánà	bánà 
+1363	5-19-59-1	73101857760430913	Kanuri	cent2050	to prevent	PREVENT	1550		dàptə́gə́	dàptə́gə́ 
+1364	5-19-61-1	73101857660006618	Kanuri	cent2050	the custom	CUSTOM	1747		ádà	ádà 
+1365	5-19-62-1	7310185788325685	Kanuri	cent2050	the quarrel	QUARREL	1848		lə̀wálà	lə̀wálà 
+1366	5-19-62-2	73101857159916611	Kanuri	cent2050	the quarrel	QUARREL	1848		lùwálà	lùwálà 
+1367	5-19-63-1	73101857989442015	Kanuri	cent2050	the plot	PLOT	2024		cìdìyàyémbèn	cìdìyàyémbèn 
+1368	5-19-65-1	73101857639533605	Kanuri	cent2050	to meet	MEET	1831		kə̀lâ kə̀ltà	kə̀lâ kə̀ltà 
+1369	5-19-72-1	73101857627427574	Kanuri	cent2050	the prostitute	PROSTITUTE	1610		hàlàngnómà	hàlàngnómà 
+1370	5-19-72-2	73101857195960	Kanuri	cent2050	the prostitute	PROSTITUTE	1610		kárùá	kárùá 
+1371	5-20-11-1	73101857159916611	Kanuri	cent2050	to fight	FIGHT	1423		lùwálà	lùwálà 
+1372	5-20-13-1	73101857549907827	Kanuri	cent2050	the war or battle	BATTLE	579		kə̀rígə̀	kə̀rígə̀ 
+1373	5-20-14-1	7310185782310082	Kanuri	cent2050	the peace	PEACE	1338		hêr	hêr 
+1374	5-20-15-1	7310185716212536	Kanuri	cent2050	the army	ARMY	1561		sójì	sójì 
+1375	5-20-15-2	7310185769656333	Kanuri	cent2050	the army	ARMY	1561		áskə̀r	áskə̀r 
+1376	5-20-17-1	7310185716212536	Kanuri	cent2050	the soldier	SOLDIER	1941		sójì	sójì 
+1377	5-20-17-2	7310185769656333	Kanuri	cent2050	the soldier	SOLDIER	1941		áskə̀r	áskə̀r 
+1378	5-20-21-1	73101857603572635	Kanuri	cent2050	the weapons	WEAPONS	951		bálímì	bálímì 
+1379	5-20-22-1	73101857787460648	Kanuri	cent2050	the club	CLUB	1763		klóp	klóp 
+1380	5-20-23-1	73101857187942279	Kanuri	cent2050	the sling	SLING	387		wáràwí	wáràwí 
+1381	5-20-24-1	73101857748934695	Kanuri	cent2050	the bow	BOW	994		kábbí	kábbí 
+1382	5-20-25-1	73101857682407911	Kanuri	cent2050	the arrow	ARROW	977		kə̀nígə́	kə̀nígə́ 
+1383	5-20-26-1	73101857556986166	Kanuri	cent2050	the spear	SPEAR	945		jálì	jálì 
+1384	5-20-27-1	73101857603834087	Kanuri	cent2050	the sword	SWORD	1535		kàjágà	kàjágà 
+1385	5-20-28-1	73101857526742853	Kanuri	cent2050	the gun	GUN	1566		búndúgə̀	búndúgə̀ 
+1386	5-20-31-1	73101857470423573	Kanuri	cent2050	the armour	ARMOUR	1061		súlwé	súlwé 
+1387	5-20-33-1	73101857559721231	Kanuri	cent2050	the helmet	HELMET	1680		hélmèt	hélmèt 
+1388	5-20-33-2	73101857543789125	Kanuri	cent2050	the helmet	HELMET	1680		záwà	záwà 
+1389	5-20-33-3	73101857568710299	Kanuri	cent2050	the helmet	HELMET	1680		záwà súbè	záwà súbè 
+1390	5-20-34-1	73101857956575174	Kanuri	cent2050	the shield	SHIELD	1064		ngóà	ngóà 
+1391	5-20-41-1	73101857171512644	Kanuri	cent2050	the victory	VICTORY	783		kə̀násàr	kə̀násàr 
+1392	5-20-42-1	73101857225552050	Kanuri	cent2050	the defeat	DEFEAT	782		wóptə́gə́	wóptə́gə́ 
+1393	5-20-42-2	73101856666218409	Kanuri	cent2050	the defeat	DEFEAT	782		kə̀mbû	kə̀mbû 
+1394	5-20-43-1	73101857930841358	Kanuri	cent2050	the attack	ATTACK	722		bàlímìtə́	bàlímìtə́ 
+1395	5-20-43-2	73101857252856759	Kanuri	cent2050	the attack	ATTACK	722		kə̀ntá	kə̀ntá 
+1396	5-20-44-1	7310185733114949	Kanuri	cent2050	to defend	DEFEND	1330		kàltə́	kàltə́ 
+1397	5-20-45-1	73101856838787095	Kanuri	cent2050	to retreat	RETREAT	421		kàsò	kàsò 
+1398	5-20-46-1	73101857726911532	Kanuri	cent2050	to surrender	SURRENDER	1696		kòltə̀gə̀	kòltə̀gə̀ 
+1399	5-20-47-1	73101857551795025	Kanuri	cent2050	the captive or prisoner	PRISONER	1072		kòsòmá	kòsòmá 
+1400	5-20-47-2	73101857752682987	Kanuri	cent2050	the captive or prisoner	PRISONER	1072		fə́rsə̀nà	fə́rsə̀nà 
+1401	5-20-471-1	73101857493624434	Kanuri	cent2050	the guard	GUARD	1940		gàdìmá	gàdìmá 
+1402	5-20-48-1	73101857937067226	Kanuri	cent2050	the booty	BOOTY	1022		gànímà	gànímà 
+1403	5-20-48-2	73101857370852230	Kanuri	cent2050	the booty	BOOTY	1022		kámá	kámá 
+1404	5-20-49-1	73101857996237856	Kanuri	cent2050	the ambush	AMBUSH	65		mbə́lántə́	mbə́lántə́ 
+1405	5-20-51-1	73101857789080488	Kanuri	cent2050	the fisherman	FISHERMAN	1858		bə̀nyìmá	bə̀nyìmá 
+1406	5-20-52-1	73101857966946622	Kanuri	cent2050	the fishhook	FISHHOOK	1074		kúnjàr	kúnjàr 
+1407	5-20-53-1	73101857980040892	Kanuri	cent2050	the fishing line	FISHING LINE	19		kàâm	kàâm 
+1408	5-20-54-1	73101857735138936	Kanuri	cent2050	the fishnet	FISHNET	388		zàrí càlícálì	zàrí càlícálì 
+1409	5-20-55-1	73101857282035206	Kanuri	cent2050	the fish trap	FISH TRAP	389		kálám	kálám 
+1410	5-20-61-1	73101857410065400	Kanuri	cent2050	to hunt	HUNT	1435		bàrà	bàrà 
+1411	5-20-62-1	73101857993114753	Kanuri	cent2050	to shoot	SHOOT	1172		báktà	báktà 
+1412	5-20-63-1	73101857569558191	Kanuri	cent2050	to miss	MISS (A TARGET)	161		zàràptà	zàràptà 
+1413	5-20-64-1	73101857602513714	Kanuri	cent2050	the trap	TRAP (PITFALL)	1075		kél	kél 
+1414	5-20-64-2	73101857900611506	Kanuri	cent2050	the trap	TRAP (PITFALL)	1075		kúttí	kúttí 
+1415	5-20-64-3	73101857788714323	Kanuri	cent2050	the trap	TRAP (PITFALL)	1075		bàccíà	bàccíà 
+1416	5-20-65-1	73101857951998532	Kanuri	cent2050	to trap	TRAP (CATCH)	1170		kúttîn tà	kúttîn tà 
+1417	5-21-11-1	73101857206161147	Kanuri	cent2050	the law	LAW	1062		shàrâ	shàrâ 
+1418	5-21-15-1	73101857628632255	Kanuri	cent2050	the court	COURT	1068		shàràrám	shàràrám 
+1419	5-12-013-1	7310185640734521	Kanuri	cent2050	at	AT	1461		-làn	-làn 
+1420	5-21-16-1	73101857423940135	Kanuri	cent2050	to adjudicate	ADJUDICATE	1818		shàrâ kàmtà	shàrâ kàmtà 
+1421	5-21-17-1	73101857209370693	Kanuri	cent2050	the judgment	JUDGMENT	1067		hówùm	hówùm 
+1422	5-21-18-1	73101857316755621	Kanuri	cent2050	the judge	JUDGE	861		lə̀gálì	lə̀gálì 
+1423	5-21-21-1	73101857572052308	Kanuri	cent2050	the plaintiff	PLAINTIFF	2020		sô njátòmà	sô njátòmà 
+1424	5-21-22-1	73101857292729457	Kanuri	cent2050	the defendant	DEFENDANT	1034		zànnù	zànnù 
+1425	5-21-23-1	73101857393765155	Kanuri	cent2050	the witness	WITNESS	1144		shàdàmá	shàdàmá 
+1426	5-21-24-1	731018575767459	Kanuri	cent2050	to swear	SWEAR	1939		káshí bù	káshí bù 
+1427	5-21-24-2	73101857618386123	Kanuri	cent2050	to swear	SWEAR	1939		àlàptà	àlàptà 
+1428	5-21-25-1	73101857759031832	Kanuri	cent2050	the oath	OATH	1712		káshí	káshí 
+1429	5-21-31-1	73101857676528123	Kanuri	cent2050	to accuse	ACCUSE	1814		sə̀rìwùtə̀	sə̀rìwùtə̀ 
+1430	5-21-32-1	73101857421223827	Kanuri	cent2050	to condemn	CONDEMN	484		wátə́	wátə́ 
+1431	5-21-33-1	73101857433068988	Kanuri	cent2050	to convict	CONVICT	983		hòwùmtə́	hòwùmtə́ 
+1432	5-21-34-1	7310185790200972	Kanuri	cent2050	to acquit	ACQUIT	988		kwàltə́	kwàltə́ 
+1433	5-21-35-1	73101857799027537	Kanuri	cent2050	guilty	GUILTY	1682		áìwúà	áìwúà 
+1434	5-21-36-1	73101857373029415	Kanuri	cent2050	innocent	INNOCENT	90		áìwù bâà	áìwù bâà 
+1435	5-21-37-1	73101857181895764	Kanuri	cent2050	the penalty or punishment	PUNISHMENT	390		hówùm	hówùm 
+1436	5-21-37-2	73101857230083766	Kanuri	cent2050	the penalty or punishment	PUNISHMENT	390		àzáwù	àzáwù 
+1437	5-21-38-1	73101857661618446	Kanuri	cent2050	the fine	FINE (PENALTY)	218		hàwà	hàwà 
+1438	5-21-39-1	73101857100300586	Kanuri	cent2050	the prison	PRISON	1281		kósò	kósò 
+1439	5-21-42-1	73101857100152433	Kanuri	cent2050	the murder	MURDER	845		kàmcèjí	kàmcèjí 
+1440	5-21-43-1	73101857197256859	Kanuri	cent2050	the adultery	ADULTERY	902		kə́nzə́nà	kə́nzə́nà 
+1441	5-21-44-1	73101857144851011	Kanuri	cent2050	the rape	RAPE	953		kámúrò yùkkùrùwò	kámúrò yùkkùrùwò 
+1442	5-21-47-1	73101857958286955	Kanuri	cent2050	the perjury	PERJURY	1792		hàlàktà	hàlàktà 
+1443	5-21-51-1	73101857332724974	Kanuri	cent2050	to steal	STEAL	713		ndàltə́	ndàltə́ 
+1444	5-21-52-1	73101857816501498	Kanuri	cent2050	the thief	THIEF	1160		bárwù	bárwù 
+1445	5-22-11-1	73101857279180256	Kanuri	cent2050	the religion	RELIGION	661		àdîn	àdîn 
+1446	5-22-12-1	73101857310468258	Kanuri	cent2050	the god	DEITY	3231		Álà	Álà 
+1447	5-22-13-1	73101857851997220	Kanuri	cent2050	the temple	TEMPLE	911		cócì	cócì 
+1448	5-22-15-1	73101857223510475	Kanuri	cent2050	the sacrifice	SACRIFICE	1103		bû fìtà	bû fìtà 
+1449	5-22-16-1	73101857867040922	Kanuri	cent2050	to worship	WORSHIP	257		àbàttə́	àbàttə́ 
+1450	5-22-17-1	73101857217994522	Kanuri	cent2050	to pray	PRAY	24		sàlìtə́	sàlìtə́ 
+1451	5-22-18-1	73101857530461020	Kanuri	cent2050	the priest	PRIEST	852		fàdá	fàdá 
+1452	5-22-19-1	73101857808344087	Kanuri	cent2050	holy	HOLY	1702		álàbè	álàbè 
+1453	5-22-22-1	73101857563745245	Kanuri	cent2050	to preach	PREACH	304		shìwá	shìwá 
+1454	5-22-23-1	73101857527123950	Kanuri	cent2050	to bless	BLESS	391		bárgà də́ptə́gə́	bárgà də́ptə́gə́ 
+1455	5-22-24-1	73101857933330839	Kanuri	cent2050	to curse	CURSE	8		bárgà gótə́	bárgà gótə́ 
+1456	5-22-26-1	73101857580161655	Kanuri	cent2050	to fast	ABSTAIN FROM FOOD	303		àshêm gòtə́	àshêm gòtə́ 
+1457	5-22-26-2	73101857952537481	Kanuri	cent2050	to fast	ABSTAIN FROM FOOD	303		àshêm zə̀mtə́	àshêm zə̀mtə́ 
+1458	5-22-31-1	73101856113679342	Kanuri	cent2050	the heaven	HEAVEN	1565		sàmî	sàmî 
+1459	5-22-32-1	73101857998837185	Kanuri	cent2050	the hell	HELL	878		kánnù	kánnù 
+1460	5-22-35-1	73101857457184833	Kanuri	cent2050	the demon	DEMON	1973		shètán	shètán 
+1461	5-22-37-1	73101857125737587	Kanuri	cent2050	the idol	IDOL	1945		gúnkì	gúnkì 
+1462	5-22-42-1	73101857979344190	Kanuri	cent2050	the magic	MAGIC	392		kárá	kárá 
+1463	5-22-42-2	73101857208547281	Kanuri	cent2050	the magic	MAGIC	392		kúndú	kúndú 
+1464	5-22-42-3	73101857704567962	Kanuri	cent2050	the magic	MAGIC	392		sàáwù	sàáwù 
+1465	5-22-42-4	73101857794529659	Kanuri	cent2050	the magic	MAGIC	392		dúwòdúwò	dúwòdúwò 
+1466	5-22-43-1	73101857827576242	Kanuri	cent2050	the sorcerer or witch	MAGICIAN	2137		kárámà	kárámà 
+1467	5-22-45-1	73101857546008579	Kanuri	cent2050	the ghost	GHOST	1175		jíndì	jíndì 
+1468	5-23-1-1	73101857231880995	Kanuri	cent2050	the radio	RADIO	1315		rédíyò	rédíyò 
+1469	5-23-11-1	73101857603018061	Kanuri	cent2050	the television	TELEVISION	1788		tíbî	tíbî 
+1470	5-23-12-1	73101857489780084	Kanuri	cent2050	the telephone	TELEPHONE	1379		wáyà	wáyà 
+1471	5-23-135-1	73101857492052188	Kanuri	cent2050	the motorcycle	MOTORCYCLE	638		bàbúr	bàbúr 
+1472	5-23-14-1	73101857335758660	Kanuri	cent2050	the car	CAR	1111		mátò	mátò 
+1473	5-23-15-1	73101857511552369	Kanuri	cent2050	the bus	BUS	1070		bâs	bâs 
+1474	5-23-15-2	73101857335758660	Kanuri	cent2050	the bus	BUS	1070		mátò	mátò 
+1475	5-23-16-1	73101857797921315	Kanuri	cent2050	the airplane	AIRPLANE	1597		mààrá sámíbè	mààrá sámíbè 
+1476	5-23-17-1	73101857591455079	Kanuri	cent2050	the electricity	ELECTRICITY	59		làntə̀ríkì	làntə̀ríkì 
+1477	5-23-175-1	73101857445650574	Kanuri	cent2050	the battery	BATTERY	662		bátə̀r	bátə̀r 
+1478	5-23-2-1	73101857862051619	Kanuri	cent2050	the hospital	HOSPITAL	616		lììtàrí	lììtàrí 
+1479	5-23-21-1	73101857949023896	Kanuri	cent2050	the nurse	NURSE	1104		dóktà	dóktà 
+1480	5-23-23-1	73101856372546388	Kanuri	cent2050	the injection	INJECTION	1805		líwùlà	líwùlà 
+1481	5-23-5-1	73101857967618980	Kanuri	cent2050	the tap/faucet	FAUCET	1488		fómfòm	fómfòm 
+1482	5-23-52-1	73101857910284380	Kanuri	cent2050	the toilet	TOILET	219		ngàwùdí	ngàwùdí 
+1483	5-23-52-2	73101857987192442	Kanuri	cent2050	the toilet	TOILET	219		sálgá	sálgá 
+1484	5-23-53-1	73101857617051897	Kanuri	cent2050	the mattress	MATTRESS	105		kàtífà	kàtífà 
+1485	5-23-3-1	73101857883102723	Kanuri	cent2050	the government	GOVERNMENT	815		gúmnátì	gúmnátì 
+1486	5-23-31-1	73101857616624400	Kanuri	cent2050	the president	PRESIDENT	899		fə̀rèsìdân	fə̀rèsìdân 
+1487	5-23-32-1	73101857504330357	Kanuri	cent2050	the minister	MINISTER	486		mìnístà	mìnístà 
+1488	5-23-33-1	73101857965118778	Kanuri	cent2050	the police	POLICE	656		pòlîs	pòlîs 
+1489	5-23-34-1	73101857907023932	Kanuri	cent2050	the driver's license	DRIVER'S LICENSE	599		kàkkádə̀ mátòbè	kàkkádə̀ mátòbè 
+1490	5-23-37-1	73101857267151697	Kanuri	cent2050	the crime	CRIME	1066		áìwú	áìwú 
+1491	5-23-38-1	7310185767047099	Kanuri	cent2050	the election	ELECTION	240		kárnó	kárnó 
+1492	5-23-4-1	73101857823955077	Kanuri	cent2050	the post/mail	MAIL	167		wòtíyà	wòtíyà 
+1493	5-23-41-1	73101857374515671	Kanuri	cent2050	the postage stamp	POSTAGE STAMP	596		kə̀lâ mâìbè	kə̀lâ mâìbè 
+1494	5-23-42-1	73101857823955077	Kanuri	cent2050	the letter	LETTER	1612		wòtíyà	wòtíyà 
+1495	5-23-44-1	73101857348721666	Kanuri	cent2050	the bank	BANK	1284		bánkì	bánkì 
+1496	5-23-54-1	73101856358159579	Kanuri	cent2050	the tin/can	CAN	1051		góngóng	góngóng 
+1497	5-23-55-1	73101857433863536	Kanuri	cent2050	the screw	SCREW	1802		kúsà	kúsà 
+1498	5-23-555-1	73101857180457439	Kanuri	cent2050	the screwdriver	SCREWDRIVER	836		wìtə́ràm	wìtə́ràm 
+1499	5-23-555-2	73101857952119710	Kanuri	cent2050	the screwdriver	SCREWDRIVER	836		sə̀kùldə̀réwà	sə̀kùldə̀réwà 
+1500	5-23-56-1	73101857447604944	Kanuri	cent2050	the bottle	BOTTLE	1321		gàsásà	gàsásà 
+1501	5-23-56-2	73101857552970337	Kanuri	cent2050	the bottle	BOTTLE	1321		kálwá	kálwá 
+1502	5-23-565-1	7310185730932142	Kanuri	cent2050	the candy/sweets	CANDY	874		míntì	míntì 
+1503	5-23-24-1	7310185785241008	Kanuri	cent2050	the spectacles/glasses	SPECTACLES	1898		mánzàr	mánzàr 
+1504	5-23-57-1	73101857432135112	Kanuri	cent2050	the plastic	PLASTIC	654		róbà	róbà 
+1505	5-23-575-1	73101857489430538	Kanuri	cent2050	the bomb	BOMB	1804		bôm	bôm 
+1506	5-23-58-1	73101857607118424	Kanuri	cent2050	the workshop	WORKSHOP	1677		sànyàrám	sànyàrám 
+1507	5-23-59-1	73101857636652833	Kanuri	cent2050	the cigarette	CIGARETTE	969		fòlí	fòlí 
+1508	5-23-59-2	73101857227603856	Kanuri	cent2050	the cigarette	CIGARETTE	969		sìgárì	sìgárì 
+1509	5-23-61-1	73101857329615160	Kanuri	cent2050	the calendar	CALENDAR	1967		kàlándà	kàlándà 
+1510	5-23-62-1	7310185779709997	Kanuri	cent2050	the film/movie	MOVIE	216		fîm	fîm 
+1511	5-23-63-1	7310185777948923	Kanuri	cent2050	the music	MUSIC	642		káíyá	káíyá 
+1512	5-23-63-2	73101857330066952	Kanuri	cent2050	the music	MUSIC	642		kàíyà	kàíyà 
+1513	5-23-64-1	7310185777948923	Kanuri	cent2050	the song	SONG	1096		káíyá	káíyá 
+1514	5-23-6-1	731018574292089	Kanuri	cent2050	the newspaper	NEWSPAPER	1298		jèrídà	jèrídà 
+1515	5-23-6-2	73101857831671435	Kanuri	cent2050	the newspaper	NEWSPAPER	1298		kàkkádə̀ hàwârbè	kàkkádə̀ hàwârbè 
+1516	5-23-385-1	73101857725009078	Kanuri	cent2050	the address	ADDRESS	591		àdréshì	àdréshì 
+1517	5-23-39-1	73101857392019445	Kanuri	cent2050	the number	NUMBER	1356		lámbà	lámbà 
+1518	5-23-155-1	73101857515200508	Kanuri	cent2050	the train	TRAIN	900		mààrá cídíbè	mààrá cídíbè 
+1519	5-23-36-1	73101857974426099	Kanuri	cent2050	the birth certificate	BIRTH CERTIFICATE	397		kàkkádə̀ tàmbòbè	kàkkádə̀ tàmbòbè 
+1520	5-23-18-1	73101857916016819	Kanuri	cent2050	to brake	BRAKE	966		bə̀rkì bàktà	bə̀rkì bàktà 
+1521	5-23-195-1	73101857575118033	Kanuri	cent2050	the petroleum	PETROLEUM	650		kànàndîr	kànàndîr 
+1522	5-23-185-1	73101857557914114	Kanuri	cent2050	the motor	MOTOR	110		ínjìn	ínjìn 
+1523	5-23-19-1	73101857557914114	Kanuri	cent2050	the machine	MACHINE	144		ínjìn	ínjìn 
+1524	5-23-13-1	73101857255268642	Kanuri	cent2050	the bicycle	BICYCLE	747		báskùr	báskùr 
+1525	5-23-395-1	73101856743532827	Kanuri	cent2050	the street	STREET	1362		lâì	lâì 
+1526	5-23-395-2	73101857255391116	Kanuri	cent2050	the street	STREET	1362		díwàl	díwàl 
+1527	5-19-445-1	73101857261321582	Kanuri	cent2050	to liberate	LIBERATE	37		kàmbètə́gə́	kàmbètə́gə́ 
+1528	5-19-565-1	73101857585507962	Kanuri	cent2050	to invite	INVITE	1611		bòwòtà	bòwòtà 
+1529	5-19-565-2	73101857541639376	Kanuri	cent2050	to invite	INVITE	1611		dòtə̀	dòtə̀ 
+1530	5-23-35-1	73101857374082653	Kanuri	cent2050	the license plate	LICENSE PLATE	1790		lámbà mótàbè	lámbà mótàbè 
+1531	5-23-43-1	73101857563792935	Kanuri	cent2050	the postcard	POSTCARD	1497		póskàt	póskàt 
+1532	5-24-02-1	73101857398458973	Kanuri	cent2050	to become	BECOME	1990		wàltà	wàltà 
+1533	5-24-03-1	73101857898683958	Kanuri	cent2050	without	WITHOUT	1478		bâ	bâ 
+1534	5-24-05-1	73101857748538685	Kanuri	cent2050	through	THROUGH	97		-mbèn	-mbèn 
+1535	5-24-13-1	73101857315052475	Kanuri	cent2050	same	SAME	200		kálkál	kálkál 
+1536	5-24-06-1	73101857898683958	Kanuri	cent2050	not	NOT	1240		bâ	bâ 
+1537	5-24-06-2	73101857855693220	Kanuri	cent2050	not	NOT	1240		gə̀nyí	gə̀nyí 
+1538	5-24-07-1	73101857712585167	Kanuri	cent2050	this	THIS	1214		ádə̀	ádə̀ 
+1539	5-24-08-1	73101857143820833	Kanuri	cent2050	that	THAT	78		túdù	túdù 
+1540	5-24-09-1	73101857850220242	Kanuri	cent2050	here	HERE	136		nâ ádə̀	nâ ádə̀ 
+1541	5-24-1-1	73101857827018593	Kanuri	cent2050	there	THERE	1937		nâ túdù	nâ túdù 
+1542	5-24-11-1	73101857290355954	Kanuri	cent2050	other	OTHER	197		gàdé	gàdé 
+1543	5-4-493-1	73101856350787023	Kanuri	cent2050	the vagina	VAGINA	1836		fárgì	fárgì 
+1544	5-4-493-2	73101856432698592	Kanuri	cent2050	the vagina	VAGINA	1836		kàmùrám	kàmùrám 
+1545	5-23-9-1	73101857280950026	Kanuri	cent2050	the tea	TEA	1373		tî	tî 
+1546	5-23-9-2	73101857407299673	Kanuri	cent2050	the tea	TEA	1373		sháyì	sháyì 
+1547	5-23-91-1	73101857711899272	Kanuri	cent2050	the coffee	COFFEE	1299		kófì	kófì 
+1548	5-24-12-1	73101857276641066	Kanuri	cent2050	next	NEXT	1354		fúwùbè	fúwùbè 
+1549	5-3-863-1	73101856782573799	Kanuri	cent2050	the hare	HARE	1190		tàrwúnà	tàrwúnà 
+1550	5-3-869-1	73101856632179134	Kanuri	cent2050	the squirrel	SQUIRREL	1628		kə̀nyérì	kə̀nyérì 
+1551	5-4-465-1	73101856507998476	Kanuri	cent2050	the sinew or tendon	TENDON	1137		cágə̀	cágə̀ 
+1552	5-7-67-1	73101856447925530	Kanuri	cent2050	to tan	TAN	247		mə́ndə́l dìò	mə́ndə́l dìò 
+1553	5-22-5-1	73101857634050698	Kanuri	cent2050	the circumcision	CIRCUMCISION	393		kàjâ	kàjâ 
+1554	5-3-8112-1	7310185625918494	Kanuri	cent2050	the body louse	BODY LOUSE	311		kə̀ngə́sə̀	kə̀ngə́sə̀ 
+1555	5-9-93-1	73101856863449084	Kanuri	cent2050	the whetstone	WHETSTONE	295		kâu kə̀ráttə́ràm	kâu kə̀ráttə́ràm 
+1556	5-7-65-1	73101856995863262	Kanuri	cent2050	the camp	CAMP	1105		gérgèr	gérgèr 
+1557	5-8-28-1	73101856565224561	Kanuri	cent2050	the digging stick (=yamstick)	DIGGING STICK	339		làtə́ràm	làtə́ràm 
+1558	5-3-834-1	73101856156309291	Kanuri	cent2050	the termites	TERMITE	883		kànâm	kànâm 
+1559	5-3-835-1	73101856665708259	Kanuri	cent2050	the tick	TICK	1527		kárí	kárí 
+1560	5-8-911-1	73101856603465698	Kanuri	cent2050	the millet or sorghum	MILLET	931		ngàwúlì	ngàwúlì 
+1561	5-3-913-1	7310185666672179	Kanuri	cent2050	the chameleon	CHAMELEON	1555		kàshíngò	kàshíngò 
+1562	5-9-9-1	73101856739248921	Kanuri	cent2050	to draw water	DRAW (WATER)	1911		gùtò	gùtò 
+1563	5-9-91-1	73101856984688994	Kanuri	cent2050	the peg	PEG	361		síwò	síwò 
+1564	5-10-58-1	73101856284530011	Kanuri	cent2050	to go or return home	RETURN HOME	142		wàltàà	wàltàà 
+1565	5-3-917-1	73101856506943699	Kanuri	cent2050	the buffalo	BUFFALO	934		ngáràn	ngáràn 
+1566	5-1-831-1	73101856835543306	Kanuri	cent2050	the steam	STEAM	1193		kàúdò	kàúdò 
+1567	5-2-4561-1	73101856737690003	Kanuri	cent2050	the older sibling	OLDER SIBLING	405		yàá	yàá 
+1568	5-2-4562-1	73101856917094712	Kanuri	cent2050	the younger sibling	YOUNGER SIBLING	427		kə̀rámì	kə̀rámì 
+1569	5-2-4711-1	73101856654926334	Kanuri	cent2050	the grandparents	GRANDPARENTS	305		kàká	kàká 
+1570	5-2-5-1	73101856924944130	Kanuri	cent2050	the grandchild	GRANDCHILD	1617		díwò	díwò 
+1571	5-2-622-1	73101856239461924	Kanuri	cent2050	the parents-in-law	PARENTS-IN-LAW	306		kə́sâì	kə́sâì 
+1572	5-2-6411-1	73101856255334051	Kanuri	cent2050	the child-in-law	CHILD-IN-LAW	1060		kə̀sâì	kə̀sâì 
+1573	5-2-6412-1	73101856234800617	Kanuri	cent2050	the sibling-in-law	SIBLING-IN-LAW	1832		tíwù	tíwù 
+1574	5-2-931-1	73101856505023176	Kanuri	cent2050	he	HE	1211		shí	shí 
+1575	5-2-932-1	73101856505023176	Kanuri	cent2050	she	SHE	1834		shí	shí 
+1576	5-4-741-1	73101856902041755	Kanuri	cent2050	the life	LIFE	210		rô	rô 
+1577	5-4-741-2	73101856740787581	Kanuri	cent2050	the life	LIFE	210		kə̀ndégà	kə̀ndégà 
+1578	5-4-771-1	73101856761341453	Kanuri	cent2050	the carcass	CARCASS	1770		líwà	líwà 
+1579	5-4-844-1	73101856699040803	Kanuri	cent2050	the disease	DISEASE	1986		kwásá	kwásá 
+1580	5-4-844-2	73101856712573042	Kanuri	cent2050	the disease	DISEASE	1986		kásúwá	kásúwá 
+1581	5-7-232-1	73101856293255449	Kanuri	cent2050	the padlock	PADLOCK	336		kókkó	kókkó 
+1582	5-11-29-1	73101856505519156	Kanuri	cent2050	to damage	DAMAGE	1116		lòrùtə́	lòrùtə́ 
+1583	5-12-081-1	73101856921995321	Kanuri	cent2050	above	ABOVE	1741		sámìlàn	sámìlàn 
+1584	5-13-231-1	73101856195836683	Kanuri	cent2050	the piece	PIECE	594		káránjì	káránjì 
+1585	5-13-331-1	73101856836640955	Kanuri	cent2050	alone	ALONE	1964		tílònzə́	tílònzə́ 
+1586	5-14-251-1	73101856777087369	Kanuri	cent2050	the beginning	BEGINNING	1557		bàdìtə́ràm	bàdìtə́ràm 
+1587	5-14-251-2	73101856134813289	Kanuri	cent2050	the beginning	BEGINNING	1557		búrwò	búrwò 
+1588	5-14-411-1	73101856337126883	Kanuri	cent2050	the day(2)	DAY (NOT NIGHT)	1225		yîm	yîm 
+1589	5-22-131-1	73101857851997220	Kanuri	cent2050	the church	CHURCH	1349		cócì	cócì 
+1590	5-22-132-1	73101857342382314	Kanuri	cent2050	the mosque	MOSQUE	1603		máshídì	máshídì 
+1591	5-24-14-1	731018578922764	Kanuri	cent2050	nothing	NOTHING	687		àbímà bâà	àbímà bâà 
+1592	5-4-7501-1	73101856357142497	Kanuri	cent2050	dead	DEAD	1625		núnà	núnà 
+1593	5-4-8541-1	73101856266217634	Kanuri	cent2050	to scratch	SCRATCH	1436		gàmbò	gàmbò 
+1594	5-9-111-1	73101856810606805	Kanuri	cent2050	to make	MAKE	734		dìò	dìò 
+1595	5-4-431-1	73101856274161451	Kanuri	cent2050	the belly	BELLY	1251		tìmbí	tìmbí 
+1596	5-9-311-1	73101856641636812	Kanuri	cent2050	to wipe	WIPE	1454		cìntà	cìntà 
+1597	5-1-775-1	73101856686105065	Kanuri	cent2050	to freeze	FREEZE	1431		kə̀rtə́	kə̀rtə́ 
+1598	5-12-012-1	7310185640734521	Kanuri	cent2050	in	IN	1460		-làn	-làn 

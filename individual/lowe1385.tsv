@@ -1,0 +1,1768 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	10-1-1-1	772134282987179	Lower Sorbian	lowe1385	the world	WORLD	965		swět	swět 
+2	10-1-21-1	7721342696087963	Lower Sorbian	lowe1385	the land	LAND	626		land	land 
+3	10-1-21-2	7721342764793474	Lower Sorbian	lowe1385	the land	LAND	626		kraj	kraj 
+4	10-1-212-1	7721342264487994	Lower Sorbian	lowe1385	the soil	EARTH (SOIL)	1228		zemja	zemja 
+5	10-1-213-1	7721342858409744	Lower Sorbian	lowe1385	the dust	DUST	2		proch	proch 
+6	10-1-213-2	7721342827407634	Lower Sorbian	lowe1385	the dust	DUST	2		kuŕ	kuŕ 
+7	10-1-214-1	7721342620043189	Lower Sorbian	lowe1385	the mud	MUD	640		para	para 
+8	10-1-215-1	7721342108338150	Lower Sorbian	lowe1385	the sand	SAND	671		pěsk	pěsk 
+9	10-1-22-1	7721342100374952	Lower Sorbian	lowe1385	the mountain or hill	MOUNTAIN OR HILL	2118		góra	góra 
+10	10-1-222-1	772134216370755	Lower Sorbian	lowe1385	the cliff or precipice	PRECIPICE	618		skała	skała 
+11	10-1-23-1	7721342584921638	Lower Sorbian	lowe1385	the plain	PLAIN	652		rownina	rownina 
+12	10-1-23-2	772134288464587	Lower Sorbian	lowe1385	the plain	PLAIN	652		płonina	płonina 
+13	10-1-24-1	7721342796809357	Lower Sorbian	lowe1385	the valley	VALLEY	921		doł	doł 
+14	10-1-25-1	7721342895092618	Lower Sorbian	lowe1385	the island	ISLAND	622		kupa	kupa 
+15	10-1-25-2	7721342870755008	Lower Sorbian	lowe1385	the island	ISLAND	622		inzula	inzula 
+16	10-1-26-1	7721342822533740	Lower Sorbian	lowe1385	the mainland	MAINLAND	166		(twarda) zemja	(twarda) zemja 
+17	10-1-27-1	7721342127061383	Lower Sorbian	lowe1385	the shore	SHORE	113		pśibrjog	pśibrjog 
+18	10-1-27-2	7721342322074731	Lower Sorbian	lowe1385	the shore	SHORE	113		brjog	brjog 
+19	10-1-28-1	7721342569708256	Lower Sorbian	lowe1385	the cave	CAVE	1155		jama	jama 
+20	10-1-31-1	77213423425182	Lower Sorbian	lowe1385	the water	WATER	948		wóda	wóda 
+21	10-1-32-1	7721342304802899	Lower Sorbian	lowe1385	the sea	SEA	1474		mórjo	mórjo 
+22	10-1-322-1	7721342594678705	Lower Sorbian	lowe1385	calm	CALM	258		měrny	měrny 
+23	10-1-323-1	7721342403106275	Lower Sorbian	lowe1385	rough(2)	ROUGH (OF SEA)	259		rozžwalony	rozžwalony 
+24	10-1-324-1	7721342190820993	Lower Sorbian	lowe1385	the foam	FOAM	1768		šum (1)	šum (1) 
+25	10-1-324-2	7721342375983591	Lower Sorbian	lowe1385	the foam	FOAM	1768		jěšć	jěšć 
+26	10-1-329-1	7721342173303479	Lower Sorbian	lowe1385	the ocean	OCEAN	645		ocean	ocean 
+27	10-1-33-1	7721342417889886	Lower Sorbian	lowe1385	the lake	LAKE	624		jazor	jazor 
+28	10-1-33-2	7721342738798712	Lower Sorbian	lowe1385	the lake	LAKE	624		jazoro	jazoro 
+29	10-1-34-1	7721342283859459	Lower Sorbian	lowe1385	the bay	BAY	663		buchta	buchta 
+30	10-1-34-2	7721342118213890	Lower Sorbian	lowe1385	the bay	BAY	663		mórski zalew	mórski zalew 
+31	10-1-341-1	7721342460235547	Lower Sorbian	lowe1385	the lagoon	LAGOON	623		laguna	laguna 
+32	10-1-342-1	7721342660788868	Lower Sorbian	lowe1385	the reef	REEF	660		riff	riff 
+33	10-1-35-1	7721342435145203	Lower Sorbian	lowe1385	the wave	WAVE	978		žwała	žwała 
+34	10-1-353-1	7721342222490147	Lower Sorbian	lowe1385	the low tide	LOW TIDE	1026		spadowanje mórja	spadowanje mórja 
+35	10-1-353-2	7721342520049517	Lower Sorbian	lowe1385	the low tide	LOW TIDE	1026		wótlew	wótlew 
+36	10-1-354-1	7721342797897072	Lower Sorbian	lowe1385	the high tide	HIGH TIDE	613		stupanje mórja	stupanje mórja 
+37	10-1-354-2	7721342534774028	Lower Sorbian	lowe1385	the high tide	HIGH TIDE	613		pśilew	pśilew 
+38	10-1-36-1	7721342124203748	Lower Sorbian	lowe1385	the river or stream	RIVER	666		rěka	rěka 
+39	10-1-362-1	7721342747242801	Lower Sorbian	lowe1385	the whirlpool	WHIRLPOOL	1982		kružoł	kružoł 
+40	10-1-37-1	7721342189372015	Lower Sorbian	lowe1385	the spring or well	SPRING OR WELL	2144		žrědło	žrědło 
+41	10-1-37-2	7721342754633089	Lower Sorbian	lowe1385	the spring or well	SPRING OR WELL	2144		studnia	studnia 
+42	10-1-38-1	7721342749769344	Lower Sorbian	lowe1385	the swamp	SWAMP	1145		bagno	bagno 
+43	10-1-38-2	7721342591993250	Lower Sorbian	lowe1385	the swamp	SWAMP	1145		tonidło	tonidło 
+44	10-1-39-1	7721342157362986	Lower Sorbian	lowe1385	the waterfall	WATERFALL	943		wódopad	wódopad 
+45	10-1-39-2	7721342175489862	Lower Sorbian	lowe1385	the waterfall	WATERFALL	943		wódowy spad	wódowy spad 
+46	10-1-41-1	7721342453859623	Lower Sorbian	lowe1385	the woods or forest	FOREST	420		góla	góla 
+47	10-1-43-1	7721342749426454	Lower Sorbian	lowe1385	the wood	WOOD	1803		drjewo	drjewo 
+48	10-1-44-1	7721342375308802	Lower Sorbian	lowe1385	the stone or rock	STONE OR ROCK	2125		kamjeń	kamjeń 
+49	10-1-45-1	7721342491991384	Lower Sorbian	lowe1385	the earthquake	EARTHQUAKE	6		zemjerdžanje	zemjerdžanje 
+50	10-1-51-1	7721342717947520	Lower Sorbian	lowe1385	the sky	SKY	1732		njebjo	njebjo 
+51	10-1-52-1	7721342988705891	Lower Sorbian	lowe1385	the sun	SUN	1343		słyńco	słyńco 
+52	10-1-53-1	7721342255598555	Lower Sorbian	lowe1385	the moon	MOON	1313		mjasec	mjasec 
+53	10-1-54-1	772134217093781	Lower Sorbian	lowe1385	the star	STAR	1430		gwežda	gwežda 
+54	10-1-55-1	7721342426754809	Lower Sorbian	lowe1385	the lightning	LIGHTNING	1654		błysk	błysk 
+55	10-1-56-1	7721342544874932	Lower Sorbian	lowe1385	the thunder	THUNDER	1150		grimanje	grimanje 
+56	10-1-57-1	7721342395476737	Lower Sorbian	lowe1385	the bolt of lightning	BOLT (OF LIGHTNING)	2007		njewjedro	njewjedro 
+57	10-1-58-1	77213426266415	Lower Sorbian	lowe1385	the storm	STORM	858		štorm	štorm 
+58	10-1-58-2	7721342454985466	Lower Sorbian	lowe1385	the storm	STORM	858		tergaty wětš	tergaty wětš 
+59	10-1-58-3	7721342220285087	Lower Sorbian	lowe1385	the storm	STORM	858		wichor	wichor 
+60	10-1-59-1	7721342774987867	Lower Sorbian	lowe1385	the rainbow	RAINBOW	1733		tyca	tyca 
+61	10-1-61-1	7721342297151728	Lower Sorbian	lowe1385	the light	LIGHT (RADIATION)	630		swětło	swětło 
+62	10-1-62-1	772134238407120	Lower Sorbian	lowe1385	the darkness	DARKNESS	11		śma	śma 
+63	10-1-63-1	7721342521832510	Lower Sorbian	lowe1385	the shade or shadow	SHADE	1388		seń	seń 
+64	10-1-64-1	7721342435205299	Lower Sorbian	lowe1385	the dew	DEW	1977		rosa	rosa 
+65	10-1-71-1	7721342928081846	Lower Sorbian	lowe1385	the air	AIR	27		luft	luft 
+66	10-1-71-2	7721342305712024	Lower Sorbian	lowe1385	the air	AIR	27		pówětš	pówětš 
+67	10-1-72-1	7721342149098117	Lower Sorbian	lowe1385	the wind	WIND	960		wětš	wětš 
+68	10-1-73-1	7721342244497205	Lower Sorbian	lowe1385	the cloud	CLOUD	1489		mrok	mrok 
+69	10-1-74-1	7721342887641022	Lower Sorbian	lowe1385	the fog	FOG	249		kurjawa	kurjawa 
+70	10-1-75-1	7721342847595275	Lower Sorbian	lowe1385	the rain	RAIN (PRECIPITATION)	658		dešć	dešć 
+71	10-1-76-1	7721342114105694	Lower Sorbian	lowe1385	the snow	SNOW	784		sněg	sněg 
+72	10-1-77-1	7721342153307611	Lower Sorbian	lowe1385	the ice	ICE	617		lod	lod 
+73	10-1-78-1	7721342393709433	Lower Sorbian	lowe1385	the weather	WEATHER	952		wjedro	wjedro 
+74	10-1-81-1	7721342989865609	Lower Sorbian	lowe1385	the fire	FIRE	221		wogeń	wogeń 
+75	10-1-82-1	7721342614224746	Lower Sorbian	lowe1385	the flame	FLAME	889		płomje	płomje 
+76	10-1-83-1	772134218198449	Lower Sorbian	lowe1385	the smoke	SMOKE (EXHAUST)	778		dym	dym 
+77	10-1-83-2	7721342827407634	Lower Sorbian	lowe1385	the smoke	SMOKE (EXHAUST)	778		kuŕ	kuŕ 
+78	10-1-84-1	772134221306844	Lower Sorbian	lowe1385	the ash	ASH	646		popjeł	popjeł 
+79	10-1-841-1	7721342205127911	Lower Sorbian	lowe1385	the embers	EMBERS	67		wugle	wugle 
+80	10-1-841-2	7721342950410163	Lower Sorbian	lowe1385	the embers	EMBERS	67		žagle	žagle 
+81	10-1-851-1	772134258728172	Lower Sorbian	lowe1385	to burn(1)	BURN (SOMETHING)	141		paliś	paliś 
+82	10-1-852-1	7721342725570439	Lower Sorbian	lowe1385	to burn(2)	BURNING	1428		paliś se	paliś se 
+83	10-1-86-1	7721342734372475	Lower Sorbian	lowe1385	to light	LIGHT (IGNITE)	737		zapaliś	zapaliś 
+84	10-1-861-1	7721342191425473	Lower Sorbian	lowe1385	to extinguish	EXTINGUISH	127		lašowaś	lašowaś 
+85	10-1-861-2	7721342918759179	Lower Sorbian	lowe1385	to extinguish	EXTINGUISH	127		gasyś	gasyś 
+86	10-1-87-1	7721342595196271	Lower Sorbian	lowe1385	the match	MATCH	1133		zapalka	zapalka 
+87	10-1-87-2	772134294013319	Lower Sorbian	lowe1385	the match	MATCH	1133		strajcholc	strajcholc 
+88	10-1-88-1	7721342619081308	Lower Sorbian	lowe1385	the firewood	FIREWOOD	10		(palne) drjewo	(palne) drjewo 
+89	10-1-89-1	7721342718254331	Lower Sorbian	lowe1385	the charcoal	CHARCOAL	1188		(drjewowy) wugel	(drjewowy) wugel 
+90	10-2-1-1	7721342324486994	Lower Sorbian	lowe1385	the person	PERSON	683		wósoba	wósoba 
+91	10-2-1-2	7721342724501137	Lower Sorbian	lowe1385	the person	PERSON	683		paršona	paršona 
+92	10-2-21-1	7721342500742032	Lower Sorbian	lowe1385	the man	MAN	1554		muski	muski 
+93	10-2-21-2	7721342921261269	Lower Sorbian	lowe1385	the man	MAN	1554		muž	muž 
+94	10-2-22-1	772134290883160	Lower Sorbian	lowe1385	the woman	WOMAN	962		žeńska	žeńska 
+95	10-2-23-1	7721342429885957	Lower Sorbian	lowe1385	male(1)	MALE (OF ANIMAL)	2263		muskecy	muskecy 
+96	10-2-24-1	7721342554962508	Lower Sorbian	lowe1385	female(1)	FEMALE (OF PERSON)	2260		žeńskecy	žeńskecy 
+97	10-2-25-1	7721342498320712	Lower Sorbian	lowe1385	the boy	BOY	1366		gólc	gólc 
+98	10-2-251-1	7721342925387492	Lower Sorbian	lowe1385	the young man	YOUNG MAN	76		młodostny	młodostny 
+99	10-2-26-1	77213428734975	Lower Sorbian	lowe1385	the girl	GIRL	1646		źowćo	źowćo 
+100	10-2-261-1	7721342484513104	Lower Sorbian	lowe1385	the young woman	YOUNG WOMAN	77		młodostna	młodostna 
+101	10-2-27-1	7721342211010525	Lower Sorbian	lowe1385	the child(1)	CHILD (YOUNG HUMAN)	1304		góle	góle 
+102	10-2-28-1	7721342999070217	Lower Sorbian	lowe1385	the baby	BABY	1289		góletko	góletko 
+103	10-2-31-1	7721342162432512	Lower Sorbian	lowe1385	the husband	HUSBAND	1200		cłowjek	cłowjek 
+104	10-2-32-1	772134290883160	Lower Sorbian	lowe1385	the wife	WIFE	1199		žeńska	žeńska 
+105	10-2-33-1	7721342214777608	Lower Sorbian	lowe1385	to marry	MARRY	203		ženiś se	ženiś se 
+106	10-2-34-1	7721342358099584	Lower Sorbian	lowe1385	the wedding	WEDDING	1259		swajźba	swajźba 
+107	10-2-341-1	7721342484344849	Lower Sorbian	lowe1385	the divorce	DIVORCE	1134		šejdowanje	šejdowanje 
+108	10-2-341-2	7721342595691088	Lower Sorbian	lowe1385	the divorce	DIVORCE	1134		rozwěrowanje	rozwěrowanje 
+109	10-2-341-3	7721342890593216	Lower Sorbian	lowe1385	the divorce	DIVORCE	1134		šejdunga	šejdunga 
+110	10-2-35-1	7721342361064165	Lower Sorbian	lowe1385	the father	FATHER	1217		nan	nan 
+111	10-2-35-2	772134240399197	Lower Sorbian	lowe1385	the father	FATHER	1217		foter	foter 
+112	10-2-36-1	7721342249932563	Lower Sorbian	lowe1385	the mother	MOTHER	1216		muter(ka)	muter(ka) 
+113	10-2-36-2	7721342291553076	Lower Sorbian	lowe1385	the mother	MOTHER	1216		maś	maś 
+114	10-2-36-3	7721342389525426	Lower Sorbian	lowe1385	the mother	MOTHER	1216		mama	mama 
+115	10-2-37-1	7721342709742460	Lower Sorbian	lowe1385	the parents	PARENTS	505		starjejšej	starjejšej 
+116	10-2-38-1	7721342140170374	Lower Sorbian	lowe1385	the married man	MARRIED MAN	424		(wó)ženjony	(wó)ženjony 
+117	10-2-39-1	772134223691303	Lower Sorbian	lowe1385	the married woman	MARRIED WOMAN	426		(wó)ženjona	(wó)ženjona 
+118	10-2-41-1	7721342512884493	Lower Sorbian	lowe1385	the son	SON	1620		syn	syn 
+119	10-2-42-1	7721342757372450	Lower Sorbian	lowe1385	the daughter	DAUGHTER	1357		źowka	źowka 
+120	10-3-662-1	772134283900786	Lower Sorbian	lowe1385	the porpoise or dolphin	DOLPHIN	1479		delfin	delfin 
+121	10-2-43-1	7721342151900415	Lower Sorbian	lowe1385	the child(2)	CHILD (DESCENDANT)	1801		źiśi	źiśi 
+122	10-2-44-1	7721342148889708	Lower Sorbian	lowe1385	the brother	BROTHER	1262		bratš	bratš 
+123	10-2-444-1	7721342862011254	Lower Sorbian	lowe1385	the older brother	OLDER BROTHER	1759		staršy bratš	staršy bratš 
+124	10-2-445-1	7721342783138366	Lower Sorbian	lowe1385	the younger brother	YOUNGER BROTHER	1760		młodšy bratš	młodšy bratš 
+125	10-2-45-1	772134224857715	Lower Sorbian	lowe1385	the sister	SISTER	1263		sotša	sotša 
+126	10-2-454-1	7721342902369	Lower Sorbian	lowe1385	the older sister	OLDER SISTER	1758		starša sotša	starša sotša 
+127	10-2-455-1	7721342226263298	Lower Sorbian	lowe1385	the younger sister	YOUNGER SISTER	1761		młodša sotša	młodša sotša 
+128	10-2-456-1	7721342133765189	Lower Sorbian	lowe1385	the sibling	SIBLING	1640		bratš a sotša	bratš a sotša 
+129	10-2-456-2	772134258861530	Lower Sorbian	lowe1385	the sibling	SIBLING	1640		bratš ze sotšu	bratš ze sotšu 
+130	10-2-458-1	7721342477159389	Lower Sorbian	lowe1385	the twins	TWINS	1005		dwójnika	dwójnika 
+131	10-2-46-1	7721342241475846	Lower Sorbian	lowe1385	the grandfather	GRANDFATHER	1383		stary nan	stary nan 
+132	10-2-46-2	7721342515220532	Lower Sorbian	lowe1385	the grandfather	GRANDFATHER	1383		grosk	grosk 
+133	10-2-46-3	7721342633262772	Lower Sorbian	lowe1385	the grandfather	GRANDFATHER	1383		grosnan	grosnan 
+134	10-2-46-4	7721342596244814	Lower Sorbian	lowe1385	the grandfather	GRANDFATHER	1383		grosfoter	grosfoter 
+135	10-2-461-1	7721342601790679	Lower Sorbian	lowe1385	the old man	OLD MAN	406		starki	starki 
+136	10-2-461-2	7721342279684491	Lower Sorbian	lowe1385	the old man	OLD MAN	406		starc	starc 
+137	10-2-47-1	7721342227020160	Lower Sorbian	lowe1385	the grandmother	GRANDMOTHER	1496		grosa	grosa 
+138	10-2-47-2	7721342114768811	Lower Sorbian	lowe1385	the grandmother	GRANDMOTHER	1496		grosmuter(ka)	grosmuter(ka) 
+139	10-2-47-3	7721342950898686	Lower Sorbian	lowe1385	the grandmother	GRANDMOTHER	1496		stara mama	stara mama 
+140	10-2-471-1	7721342579647691	Lower Sorbian	lowe1385	the old woman	OLD WOMAN	907		starka	starka 
+141	10-2-471-2	7721342953741895	Lower Sorbian	lowe1385	the old woman	OLD WOMAN	907		staručka	staručka 
+142	10-2-48-1	7721342507760253	Lower Sorbian	lowe1385	the grandson	GRANDSON	1618		enkelsyn	enkelsyn 
+143	10-2-48-2	7721342721212821	Lower Sorbian	lowe1385	the grandson	GRANDSON	1618		syna syn	syna syn 
+144	10-2-48-3	7721342353955627	Lower Sorbian	lowe1385	the grandson	GRANDSON	1618		źowki syn	źowki syn 
+145	10-2-49-1	7721342611953638	Lower Sorbian	lowe1385	the granddaughter	GRANDDAUGHTER	1619		enkelźowka	enkelźowka 
+146	10-2-49-2	7721342603078902	Lower Sorbian	lowe1385	the granddaughter	GRANDDAUGHTER	1619		syna źowka	syna źowka 
+147	10-2-49-3	7721342253654142	Lower Sorbian	lowe1385	the granddaughter	GRANDDAUGHTER	1619		źowki źowka	źowki źowka 
+148	10-2-51-1	7721342466371044	Lower Sorbian	lowe1385	the uncle	UNCLE	1327		wujk	wujk 
+149	10-2-511-1	7721342466371044	Lower Sorbian	lowe1385	the mother's brother	MOTHER'S BROTHER	1984		wujk	wujk 
+150	10-2-512-1	7721342466371044	Lower Sorbian	lowe1385	the father's brother	FATHER'S BROTHER	1985		wujk	wujk 
+151	10-2-52-1	7721342492353347	Lower Sorbian	lowe1385	the aunt	AUNT	1272		śota	śota 
+152	10-2-521-1	7721342492353347	Lower Sorbian	lowe1385	the mother's sister	MOTHER'S SISTER	171		śota	śota 
+153	10-2-522-1	7721342492353347	Lower Sorbian	lowe1385	the father's sister	FATHER'S SISTER	170		śota	śota 
+154	10-2-53-1	7721342286153240	Lower Sorbian	lowe1385	the nephew	NEPHEW	1063		bratša syn	bratša syn 
+155	10-2-53-2	7721342137130170	Lower Sorbian	lowe1385	the nephew	NEPHEW	1063		sotšy syn	sotšy syn 
+156	10-2-53-3	772134260694230	Lower Sorbian	lowe1385	the nephew	NEPHEW	1063		nefa	nefa 
+157	10-2-54-1	7721342523155815	Lower Sorbian	lowe1385	the niece	NIECE	1642		bratša źowka	bratša źowka 
+158	10-2-54-2	7721342966182355	Lower Sorbian	lowe1385	the niece	NIECE	1642		sotšy źowka	sotšy źowka 
+159	10-2-54-3	7721342595108771	Lower Sorbian	lowe1385	the niece	NIECE	1642		nichta	nichta 
+160	10-2-55-1	7721342463523686	Lower Sorbian	lowe1385	the cousin	COUSIN	1643		śeśko	śeśko 
+161	10-2-55-2	7721342660693994	Lower Sorbian	lowe1385	the cousin	COUSIN	1643		śeśenica	śeśenica 
+162	10-2-56-1	7721342143798794	Lower Sorbian	lowe1385	the ancestors	ANCESTORS	1669		prědowniki	prědowniki 
+163	10-2-57-1	772134221073331	Lower Sorbian	lowe1385	the descendants	DESCENDANTS	490		pótomniki	pótomniki 
+164	10-2-61-1	7721342895527922	Lower Sorbian	lowe1385	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		pśichodny nan	pśichodny nan 
+165	10-2-61-2	7721342320185144	Lower Sorbian	lowe1385	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		šwigernan	šwigernan 
+166	10-2-61-3	7721342625525187	Lower Sorbian	lowe1385	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		šwigerfoter	šwigerfoter 
+167	10-2-611-1	7721342625525187	Lower Sorbian	lowe1385	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		šwigerfoter	šwigerfoter 
+168	10-2-611-2	7721342320185144	Lower Sorbian	lowe1385	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		šwigernan	šwigernan 
+169	10-2-611-3	7721342895527922	Lower Sorbian	lowe1385	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		pśichodny nan	pśichodny nan 
+170	10-2-62-1	7721342234753170	Lower Sorbian	lowe1385	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		pśichodna maś	pśichodna maś 
+171	10-2-62-2	7721342279632249	Lower Sorbian	lowe1385	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		šwigermuter(ka)	šwigermuter(ka) 
+172	10-2-62-3	7721342574787168	Lower Sorbian	lowe1385	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		šwigermaś	šwigermaś 
+173	10-2-621-1	7721342574787168	Lower Sorbian	lowe1385	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		šwigermaś	šwigermaś 
+174	10-2-621-2	7721342234753170	Lower Sorbian	lowe1385	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		pśichodna maś	pśichodna maś 
+175	10-2-621-3	7721342279632249	Lower Sorbian	lowe1385	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		šwigermuter(ka)	šwigermuter(ka) 
+176	10-2-63-1	7721342659629055	Lower Sorbian	lowe1385	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		pśichodny syn	pśichodny syn 
+177	10-2-63-2	7721342258397610	Lower Sorbian	lowe1385	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		šwigersyn	šwigersyn 
+178	10-2-631-1	7721342258397610	Lower Sorbian	lowe1385	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		šwigersyn	šwigersyn 
+179	10-2-631-2	7721342659629055	Lower Sorbian	lowe1385	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		pśichodny syn	pśichodny syn 
+180	10-2-64-1	81261213826316300	Lower Sorbian	lowe1385	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		šwigerźowka	šwigerźowka 
+181	10-2-64-2	7721342856719832	Lower Sorbian	lowe1385	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		pśichodna źowka	pśichodna źowka 
+182	10-2-641-1	81261213826316300	Lower Sorbian	lowe1385	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		šwigerźowka	šwigerźowka 
+183	10-2-641-2	7721342856719832	Lower Sorbian	lowe1385	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		pśichodna źowka	pśichodna źowka 
+184	10-2-71-1	7721342198953412	Lower Sorbian	lowe1385	the stepfather	STEPFATHER	237		pśirodny nan	pśirodny nan 
+185	10-2-71-2	7721342743147142	Lower Sorbian	lowe1385	the stepfather	STEPFATHER	237		štifnan	štifnan 
+186	10-2-71-3	7721342221292686	Lower Sorbian	lowe1385	the stepfather	STEPFATHER	237		štifoter	štifoter 
+187	10-2-71-4	7721342666056509	Lower Sorbian	lowe1385	the stepfather	STEPFATHER	237		nank	nank 
+188	10-2-72-1	7721342115075222	Lower Sorbian	lowe1385	the stepmother	STEPMOTHER	236		pśirodna maś	pśirodna maś 
+189	10-2-72-2	7721342387495231	Lower Sorbian	lowe1385	the stepmother	STEPMOTHER	236		štifmuter(ka)	štifmuter(ka) 
+190	10-2-72-3	7721342274579230	Lower Sorbian	lowe1385	the stepmother	STEPMOTHER	236		štifmaś	štifmaś 
+191	10-2-72-4	7721342225762402	Lower Sorbian	lowe1385	the stepmother	STEPMOTHER	236		mamka	mamka 
+192	10-2-73-1	7721342803227673	Lower Sorbian	lowe1385	the stepson	STEPSON	1059		pśirodny syn	pśirodny syn 
+193	10-2-73-2	7721342887846717	Lower Sorbian	lowe1385	the stepson	STEPSON	1059		štifsyn	štifsyn 
+194	10-2-74-1	7721342661176661	Lower Sorbian	lowe1385	the stepdaughter	STEPDAUGHTER	1058		pśirodna źowka	pśirodna źowka 
+195	10-2-74-2	7721342540421968	Lower Sorbian	lowe1385	the stepdaughter	STEPDAUGHTER	1058		štifźowka	štifźowka 
+196	10-2-75-1	7721342255221542	Lower Sorbian	lowe1385	the orphan	ORPHAN	1149		syrota	syrota 
+197	10-2-76-1	7721342643857810	Lower Sorbian	lowe1385	the widow	WIDOW	1756		wudowa	wudowa 
+198	10-2-77-1	7721342450502235	Lower Sorbian	lowe1385	the widower	WIDOWER	1981		wudojc	wudojc 
+199	10-2-81-1	7721342612446264	Lower Sorbian	lowe1385	the relatives	RELATIVES	1644		swójźba	swójźba 
+200	10-2-82-1	7721342617962483	Lower Sorbian	lowe1385	the family	FAMILY	194		familija	familija 
+201	10-2-91-1	7721342653712408	Lower Sorbian	lowe1385	I	I	1209		ja	ja 
+202	10-2-92-1	772134222193679	Lower Sorbian	lowe1385	you (singular)	THOU	1215		ty	ty 
+203	10-2-93-1	7721342533109774	Lower Sorbian	lowe1385	he/she/it	HE OR SHE OR IT	262		wón/wóna/wóno	wón 
+204	10-2-93-2	7721342533109774	Lower Sorbian	lowe1385	he/she/it	HE OR SHE OR IT	262		wón/wóna/wóno	wóna 
+205	10-2-93-3	7721342533109774	Lower Sorbian	lowe1385	he/she/it	HE OR SHE OR IT	262		wón/wóna/wóno	wóno 
+206	10-2-94-1	7721342315451782	Lower Sorbian	lowe1385	we	WE	1212		my	my 
+207	10-2-941-1	7721342315451782	Lower Sorbian	lowe1385	we (inclusive)	WE (INCLUSIVE)	1131		my	my 
+208	10-2-942-1	7721342315451782	Lower Sorbian	lowe1385	we (exclusive)	WE (EXCLUSIVE)	1130		my	my 
+209	10-2-95-1	7721342888005800	Lower Sorbian	lowe1385	you (plural)	YOU	1213		wy	wy 
+210	10-2-96-1	7721342101358918	Lower Sorbian	lowe1385	they	THEY	817		wóni	wóni 
+211	10-3-11-1	7721342523590469	Lower Sorbian	lowe1385	the animal	ANIMAL	619		zwěrje	zwěrje 
+212	10-3-12-1	7721342429885957	Lower Sorbian	lowe1385	male(2)	MALE (OF PERSON)	2261		muskecy	muskecy 
+213	10-3-13-1	7721342554962508	Lower Sorbian	lowe1385	female(2)	FEMALE (OF ANIMAL)	2262		žeńskecy	žeńskecy 
+214	10-3-15-1	7721342320172478	Lower Sorbian	lowe1385	the livestock	LIVESTOCK	631		dobytk	dobytk 
+215	10-3-15-2	772134285036980	Lower Sorbian	lowe1385	the livestock	LIVESTOCK	631		zbóžo	zbóžo 
+216	10-3-16-1	7721342852696138	Lower Sorbian	lowe1385	the pasture	PASTURE	649		pastwa	pastwa 
+217	10-3-18-1	7721342547750833	Lower Sorbian	lowe1385	the herdsman	HERDSMAN	263		pastyŕ	pastyŕ 
+218	10-3-19-1	772134250553971	Lower Sorbian	lowe1385	the stable or stall	STABLE	851		groź	groź 
+219	10-3-2-1	772134244993463	Lower Sorbian	lowe1385	the cattle	CATTLE	1153		gowjedo	gowjedo 
+220	10-3-2-2	772134281206596	Lower Sorbian	lowe1385	the cattle	CATTLE	1153		gowjeź	gowjeź 
+221	10-3-21-1	7721342857777243	Lower Sorbian	lowe1385	the bull	BULL	1008		byk	byk 
+222	10-3-22-1	7721342959686744	Lower Sorbian	lowe1385	the ox	OX	1169		woł	woł 
+223	10-3-23-1	7721342313590069	Lower Sorbian	lowe1385	the cow	COW	1007		krowa	krowa 
+224	10-3-24-1	7721342436010238	Lower Sorbian	lowe1385	the calf	CALF	1989		śele	śele 
+225	10-3-25-1	7721342149318445	Lower Sorbian	lowe1385	the sheep	SHEEP	1331		wójca	wójca 
+226	10-3-26-1	772134280265803	Lower Sorbian	lowe1385	the ram	RAM	1344		baran	baran 
+227	10-3-28-1	7721342149318445	Lower Sorbian	lowe1385	the ewe	EWE	1345		wójca	wójca 
+228	10-3-29-1	7721342856204896	Lower Sorbian	lowe1385	the lamb	LAMB	820		jagnje	jagnje 
+229	10-3-32-1	772134242105982	Lower Sorbian	lowe1385	the boar	BOAR	1348		kjandroz	kjandroz 
+230	10-3-34-1	7721342609152980	Lower Sorbian	lowe1385	the sow	SOW (FEMALE PIG)	1351		rampa	rampa 
+231	10-3-35-1	7721342698305359	Lower Sorbian	lowe1385	the pig	PIG	1337		swinja	swinja 
+232	10-3-36-1	7721342377285425	Lower Sorbian	lowe1385	the goat	GOAT	1502		kóza	kóza 
+233	10-3-37-1	7721342427815783	Lower Sorbian	lowe1385	the he-goat	HE-GOAT	264		kózoł	kózoł 
+234	10-3-38-1	7721342916466757	Lower Sorbian	lowe1385	the kid	KID	1972		kózle	kózle 
+235	10-3-41-1	7721342615096590	Lower Sorbian	lowe1385	the horse	HORSE	615		koń	koń 
+236	10-3-42-1	7721342332750964	Lower Sorbian	lowe1385	the stallion	STALLION	936		hengist	hengist 
+237	10-3-44-1	7721342616522490	Lower Sorbian	lowe1385	the mare	MARE	938		kobyła	kobyła 
+238	10-3-45-1	7721342814183867	Lower Sorbian	lowe1385	the foal or colt	FOAL	1647		žrěbje	žrěbje 
+239	10-3-46-1	7721342883215183	Lower Sorbian	lowe1385	the donkey	DONKEY	1862		ezel	ezel 
+240	10-3-46-2	7721342552594018	Lower Sorbian	lowe1385	the donkey	DONKEY	1862		wósoł	wósoł 
+241	10-3-47-1	772134287152231	Lower Sorbian	lowe1385	the mule	MULE	890		mul	mul 
+242	10-3-5-1	7721342708226079	Lower Sorbian	lowe1385	the fowl	FOWL	265		pjerina	pjerina 
+243	10-3-52-1	7721342704348745	Lower Sorbian	lowe1385	the cock/rooster	ROOSTER	1511		kokot	kokot 
+244	10-3-54-1	7721342614740249	Lower Sorbian	lowe1385	the hen	HEN	1514		kokoš	kokoš 
+245	10-3-54-2	7721342317037436	Lower Sorbian	lowe1385	the hen	HEN	1514		kura	kura 
+246	10-3-55-1	7721342916563802	Lower Sorbian	lowe1385	the chicken	CHICKEN	1318		kurje	kurje 
+247	10-3-56-1	7721342276939551	Lower Sorbian	lowe1385	the goose	GOOSE	1187		gus	gus 
+248	10-3-57-1	772134276764960	Lower Sorbian	lowe1385	the duck	DUCK	1360		kacka	kacka 
+249	10-3-58-1	7721342195547670	Lower Sorbian	lowe1385	the nest	NEST	539		gnězdo	gnězdo 
+250	10-3-581-1	7721342758625893	Lower Sorbian	lowe1385	the bird	BIRD	937		ptašk	ptašk 
+251	10-3-582-1	7721342491020929	Lower Sorbian	lowe1385	the seagull	SEAGULL	950		rybnicy	rybnicy 
+252	10-3-582-2	7721342414141793	Lower Sorbian	lowe1385	the seagull	SEAGULL	950		ryborak	ryborak 
+253	10-3-583-1	7721342822174491	Lower Sorbian	lowe1385	the heron	HERON	758		šytawa	šytawa 
+254	10-3-584-1	7721342641201767	Lower Sorbian	lowe1385	the eagle	EAGLE	1905		hodlaŕ	hodlaŕ 
+255	10-3-584-2	7721342793043035	Lower Sorbian	lowe1385	the eagle	EAGLE	1905		jerjeł	jerjeł 
+256	10-3-585-1	7721342669229063	Lower Sorbian	lowe1385	the hawk	HAWK	307		sokoł	sokoł 
+257	10-3-585-2	772134269217456	Lower Sorbian	lowe1385	the hawk	HAWK	307		pašturlica	pašturlica 
+258	10-3-585-3	7721342811604839	Lower Sorbian	lowe1385	the hawk	HAWK	307		jastśeb	jastśeb 
+259	10-3-586-1	772134285887022	Lower Sorbian	lowe1385	the vulture	VULTURE	1185		sup	sup 
+260	10-3-591-1	7721342152148814	Lower Sorbian	lowe1385	the bat	BAT	1793		njetopyŕ	njetopyŕ 
+261	10-3-592-1	7721342367043488	Lower Sorbian	lowe1385	the parrot	PARROT	882		papagaj	papagaj 
+262	10-3-593-1	7721342440548211	Lower Sorbian	lowe1385	the crow	CROW	913		garona	garona 
+263	10-3-593-2	7721342321626779	Lower Sorbian	lowe1385	the crow	CROW	913		karwona	karwona 
+264	10-3-594-1	7721342397763617	Lower Sorbian	lowe1385	the dove	DOVE	1853		gołub	gołub 
+265	10-3-596-1	7721342901876951	Lower Sorbian	lowe1385	the owl	OWL	735		sowa	sowa 
+266	10-3-61-1	7721342476671347	Lower Sorbian	lowe1385	the dog	DOG	2009		pjas	pjas 
+267	10-3-614-1	77213426404952	Lower Sorbian	lowe1385	the rabbit	RABBIT	1136		karnikel	karnikel 
+268	10-3-62-1	7721342122356968	Lower Sorbian	lowe1385	the cat	CAT	1208		kócka	kócka 
+269	10-3-63-1	7721342303765535	Lower Sorbian	lowe1385	the mouse or rat	MUROID (MOUSE OR RAT)	2139		myš	myš 
+270	10-3-63-2	7721342135672329	Lower Sorbian	lowe1385	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ratwa	ratwa 
+271	10-3-63-3	7721342387838696	Lower Sorbian	lowe1385	the mouse or rat	MUROID (MOUSE OR RAT)	2139		wjelika myš	wjelika myš 
+272	10-3-65-1	7721342388964142	Lower Sorbian	lowe1385	the fish	FISH	227		ryba	ryba 
+273	10-3-652-1	7721342961696446	Lower Sorbian	lowe1385	the fin	FIN	213		pjeraso	pjeraso 
+274	10-3-653-1	7721342542304358	Lower Sorbian	lowe1385	the scale	SCALE	266		ceslina	ceslina 
+275	10-3-654-1	7721342655265982	Lower Sorbian	lowe1385	the gill	GILL	1916		chrapje	chrapje 
+276	10-3-655-1	772134217809640	Lower Sorbian	lowe1385	the shell	SHELL	598		mušla	mušla 
+277	10-3-661-1	7721342814788885	Lower Sorbian	lowe1385	the shark	SHARK	1110		hajryba	hajryba 
+278	10-3-661-2	7721342464892609	Lower Sorbian	lowe1385	the shark	SHARK	1110		haj	haj 
+279	10-3-661-3	7721342461965905	Lower Sorbian	lowe1385	the shark	SHARK	1110		žrawik	žrawik 
+280	10-3-663-1	7721342152475662	Lower Sorbian	lowe1385	the whale	WHALE	957		wjelryba	wjelryba 
+281	10-3-663-2	7721342174821588	Lower Sorbian	lowe1385	the whale	WHALE	957		walryba	walryba 
+282	10-3-665-1	7721342964521015	Lower Sorbian	lowe1385	the freshwater eel	FRESHWATER EEL	1013		wugoŕ	wugoŕ 
+283	10-3-665-2	7721342650563687	Lower Sorbian	lowe1385	the freshwater eel	FRESHWATER EEL	1013		al	al 
+284	10-3-71-1	7721342704444586	Lower Sorbian	lowe1385	the wolf	WOLF	522		wjelk	wjelk 
+285	10-3-72-1	7721342173389833	Lower Sorbian	lowe1385	the lion	LION	1386		law	law 
+286	10-3-73-1	7721342545951485	Lower Sorbian	lowe1385	the bear	BEAR	1820		mjadwjeź	mjadwjeź 
+287	10-3-74-1	7721342739817888	Lower Sorbian	lowe1385	the fox	FOX	1312		liška	liška 
+288	10-3-75-1	7721342319387733	Lower Sorbian	lowe1385	the deer	DEER	1936		jeleń	jeleń 
+289	10-3-75-2	7721342323874897	Lower Sorbian	lowe1385	the deer	DEER	1936		sarnja	sarnja 
+290	10-3-75-3	7721342306341003	Lower Sorbian	lowe1385	the deer	DEER	1936		jelenje	jelenje 
+291	10-3-76-1	7721342936526359	Lower Sorbian	lowe1385	the monkey	MONKEY	1350		nałpa	nałpa 
+292	10-3-76-2	77213423052453	Lower Sorbian	lowe1385	the monkey	MONKEY	1350		afeńc	afeńc 
+293	10-3-76-3	7721342777174771	Lower Sorbian	lowe1385	the monkey	MONKEY	1350		afa	afa 
+294	10-3-77-1	772134263332454	Lower Sorbian	lowe1385	the elephant	ELEPHANT	1290		elefant	elefant 
+295	10-3-77-2	7721342372777848	Lower Sorbian	lowe1385	the elephant	ELEPHANT	1290		słon	słon 
+296	10-3-78-1	7721342994829071	Lower Sorbian	lowe1385	the camel	CAMEL	1871		kamel	kamel 
+297	10-3-81-1	7721342242104256	Lower Sorbian	lowe1385	the insect	INSECT	620		insekt	insekt 
+298	10-3-811-1	7721342587634780	Lower Sorbian	lowe1385	the head louse	HEAD LOUSE	310		weš	weš 
+299	10-3-812-1	7721342102439793	Lower Sorbian	lowe1385	the nit	NIT	267		gnida	gnida 
+300	10-3-813-1	7721342485080344	Lower Sorbian	lowe1385	the flea	FLEA	232		pcha	pcha 
+301	10-3-815-1	7721342898712412	Lower Sorbian	lowe1385	the scorpion	SCORPION	1538		skorpion	skorpion 
+302	10-3-816-1	772134266300374	Lower Sorbian	lowe1385	the cockroach	COCKROACH	1575		šaba	šaba 
+303	10-3-816-2	7721342282530851	Lower Sorbian	lowe1385	the cockroach	COCKROACH	1575		šwoba	šwoba 
+304	10-3-817-1	7721342142929658	Lower Sorbian	lowe1385	the ant	ANT	587		mroja	mroja 
+305	10-3-818-1	7721342830845622	Lower Sorbian	lowe1385	the spider	SPIDER	843		pawk	pawk 
+306	10-3-819-1	7721342580888984	Lower Sorbian	lowe1385	the spider web	SPIDER WEB	1065		pawcyna	pawcyna 
+307	10-3-82-1	7721342492673377	Lower Sorbian	lowe1385	the bee	BEE	665		pcołka	pcołka 
+308	10-3-821-1	7721342293312403	Lower Sorbian	lowe1385	the beeswax	BEESWAX	1931		pcołkowy wósk	pcołkowy wósk 
+309	10-3-822-1	7721342816248532	Lower Sorbian	lowe1385	the beehive	BEEHIVE	88		wul	wul 
+310	10-3-822-2	772134277450284	Lower Sorbian	lowe1385	the beehive	BEEHIVE	88		kórb	kórb 
+311	10-3-823-1	7721342788796794	Lower Sorbian	lowe1385	the wasp	WASP	1517		wósa	wósa 
+312	10-3-83-1	7721342702725735	Lower Sorbian	lowe1385	the fly	FLY (INSECT)	1504		mucha	mucha 
+313	10-3-831-1	7721342394007617	Lower Sorbian	lowe1385	the sandfly or midge or gnat	SANDFLY	95		pšyca	pšyca 
+314	10-3-831-2	7721342368650312	Lower Sorbian	lowe1385	the sandfly or midge or gnat	SANDFLY	95		kuntwor(a)	kuntwor(a) 
+315	10-3-832-1	7721342338134218	Lower Sorbian	lowe1385	the mosquito	MOSQUITO	1509		moskit(o)	moskit(o) 
+316	10-3-84-1	7721342893983546	Lower Sorbian	lowe1385	the worm	WORM	1219		wužeńc	wužeńc 
+317	10-3-84-2	772134262434057	Lower Sorbian	lowe1385	the worm	WORM	1219		cerw	cerw 
+318	10-3-85-1	7721342631584300	Lower Sorbian	lowe1385	the snake	SNAKE	730		wuž	wuž 
+319	10-3-91-1	772134284126939	Lower Sorbian	lowe1385	the firefly	FIREFLY	206		latarnik	latarnik 
+320	10-3-92-1	7721342935967794	Lower Sorbian	lowe1385	the butterfly	BUTTERFLY	1791		mjatel	mjatel 
+321	10-3-93-1	7721342422548644	Lower Sorbian	lowe1385	the grasshopper	GRASSHOPPER	607		skóck	skóck 
+322	10-3-94-1	7721342174542984	Lower Sorbian	lowe1385	the snail	SNAIL	1543		slinik	slinik 
+323	10-3-94-2	7721342955278657	Lower Sorbian	lowe1385	the snail	SNAIL	1543		šneka	šneka 
+324	10-3-95-1	7721342401181311	Lower Sorbian	lowe1385	the frog	FROG	503		žaba	žaba 
+325	10-3-96-1	7721342150088667	Lower Sorbian	lowe1385	the lizard	LIZARD	632		jašćerica	jašćerica 
+326	10-3-97-1	7721342993646941	Lower Sorbian	lowe1385	the crocodile or alligator	CROCODILE	1857		krokodil	krokodil 
+327	10-3-98-1	7721342286234370	Lower Sorbian	lowe1385	the turtle	TURTLE	112		nopawa	nopawa 
+328	10-4-11-1	7721342133067334	Lower Sorbian	lowe1385	the body	BODY	1480		śěło	śěło 
+329	10-4-12-1	7721342362996838	Lower Sorbian	lowe1385	the skin or hide	SKIN	763		kóža	kóža 
+330	10-4-13-1	7721342452418142	Lower Sorbian	lowe1385	the flesh	FLESH	2259		měso	měso 
+331	10-4-14-1	772134244942016	Lower Sorbian	lowe1385	the hair	HAIR (HEAD)	2648		włos	włos 
+332	10-4-142-1	7721342995508496	Lower Sorbian	lowe1385	the beard	BEARD	678		broda	broda 
+333	10-4-144-1	7721342486299644	Lower Sorbian	lowe1385	the body hair	HAIR (BODY)	189		kósma	kósma 
+334	10-4-145-1	7721342119019761	Lower Sorbian	lowe1385	the pubic hair	PUBIC HAIR	36		sromne kósmy	sromne kósmy 
+335	10-4-146-1	7721342365687194	Lower Sorbian	lowe1385	the dandruff	DANDRUFF	576		spjerchlina	spjerchlina 
+336	10-4-15-1	7721342961830089	Lower Sorbian	lowe1385	the blood	BLOOD	946		kšej	kšej 
+337	10-4-151-1	7721342296206450	Lower Sorbian	lowe1385	the vein or artery	BLOOD VESSEL	525		žyła	žyła 
+338	10-4-151-2	7721342454620897	Lower Sorbian	lowe1385	the vein or artery	BLOOD VESSEL	525		wena	wena 
+339	10-4-151-3	772134255383056	Lower Sorbian	lowe1385	the vein or artery	BLOOD VESSEL	525		arteria	arteria 
+340	10-4-16-1	7721342151208526	Lower Sorbian	lowe1385	the bone	BONE	1394		knocha	knocha 
+341	10-4-16-2	7721342844742217	Lower Sorbian	lowe1385	the bone	BONE	1394		kósć	kósć 
+342	10-4-162-1	7721342473766516	Lower Sorbian	lowe1385	the rib	RIB	801		kórabja	kórabja 
+343	10-4-17-1	7721342301011916	Lower Sorbian	lowe1385	the horn	HORN (ANATOMY)	1393		rog (1)	rog (1) 
+344	10-4-18-1	7721342306379608	Lower Sorbian	lowe1385	the tail	TAIL	1220		wogon	wogon 
+345	10-4-19-1	7721342826375848	Lower Sorbian	lowe1385	the back	BACK	1291		kśebjat	kśebjat 
+346	10-4-191-1	7721342335169054	Lower Sorbian	lowe1385	the spine	SPINE	805		rěp	rěp 
+347	10-4-2-1	7721342545354389	Lower Sorbian	lowe1385	the head	HEAD	1256		głowa	głowa 
+348	10-4-201-1	7721342215259967	Lower Sorbian	lowe1385	the temples	TEMPLES	1604		psyki	psyki 
+349	10-4-202-1	7721342437801738	Lower Sorbian	lowe1385	the skull	SKULL	1605		nop	nop 
+350	10-4-202-2	7721342364612692	Lower Sorbian	lowe1385	the skull	SKULL	1605		knop	knop 
+351	10-4-203-1	7721342160245267	Lower Sorbian	lowe1385	the brain	BRAIN	1583		mórzgi	mórzgi 
+352	10-4-204-1	7721342801593375	Lower Sorbian	lowe1385	the face	FACE	1560		woblico	woblico 
+353	10-4-205-1	7721342745082998	Lower Sorbian	lowe1385	the forehead	FOREHEAD	123		coło	coło 
+354	10-4-207-1	7721342415719082	Lower Sorbian	lowe1385	the jaw	JAW	798		crjono	crjono 
+355	10-4-207-2	7721342212229777	Lower Sorbian	lowe1385	the jaw	JAW	798		škrjono	škrjono 
+356	10-4-208-1	7721342531993022	Lower Sorbian	lowe1385	the cheek	CHEEK	1730		lico	lico 
+357	10-4-209-1	7721342512891351	Lower Sorbian	lowe1385	the chin	CHIN	1510		pódguba	pódguba 
+358	10-4-21-1	7721342258681057	Lower Sorbian	lowe1385	the eye	EYE	1248		woko	woko 
+359	10-4-212-1	7721342687639355	Lower Sorbian	lowe1385	the eyebrow	EYEBROW	1173		wobwóco	wobwóco 
+360	10-4-213-1	7721342557612833	Lower Sorbian	lowe1385	the eyelid	EYELID	17		pówoko	pówoko 
+361	10-4-213-2	7721342784765172	Lower Sorbian	lowe1385	the eyelid	EYELID	17		lapka (na woku)	lapka (na woku) 
+362	10-4-214-1	7721342794298193	Lower Sorbian	lowe1385	the eyelash	EYELASH	1540		mykawka	mykawka 
+363	10-4-215-1	7721342535495447	Lower Sorbian	lowe1385	to blink	BLINK	1655		mykotaś	mykotaś 
+364	10-4-22-1	7721342333398600	Lower Sorbian	lowe1385	the ear	EAR	1247		wucho	wucho 
+365	10-4-221-1	7721342789653500	Lower Sorbian	lowe1385	the earlobe	EARLOBE	18		(wuchowa) lapka	(wuchowa) lapka 
+366	10-4-222-1	7721342565198825	Lower Sorbian	lowe1385	the earwax	EARWAX	32		taług (z wucha)	taług (z wucha) 
+367	10-4-23-1	772134264214124	Lower Sorbian	lowe1385	the nose	NOSE	1221		nos	nos 
+368	10-4-231-1	7721342796970044	Lower Sorbian	lowe1385	the nostril	NOSTRIL	1178		nosowa źěrka	nosowa źěrka 
+369	10-4-232-1	7721342741660178	Lower Sorbian	lowe1385	the nasal mucus	NASAL MUCUS (SNOT)	208		wochol	wochol 
+370	10-4-232-2	7721342987222285	Lower Sorbian	lowe1385	the nasal mucus	NASAL MUCUS (SNOT)	208		parskel	parskel 
+371	10-4-232-3	7721342421027799	Lower Sorbian	lowe1385	the nasal mucus	NASAL MUCUS (SNOT)	208		branzgel	branzgel 
+372	10-4-24-1	7721342165842161	Lower Sorbian	lowe1385	the mouth	MOUTH	674		guba	guba 
+373	10-4-241-1	7721342775310292	Lower Sorbian	lowe1385	the beak	BEAK	73		šnapac	šnapac 
+374	10-4-241-2	7721342726509617	Lower Sorbian	lowe1385	the beak	BEAK	73		šnobel	šnobel 
+375	10-4-241-3	7721342442611203	Lower Sorbian	lowe1385	the beak	BEAK	73		zob	zob 
+376	10-4-25-1	7721342165842161	Lower Sorbian	lowe1385	the lip	LIP	478		guba	guba 
+377	10-4-26-1	7721342312448799	Lower Sorbian	lowe1385	the tongue	TONGUE	1205		jězyk	jězyk 
+378	10-4-27-1	7721342170833315	Lower Sorbian	lowe1385	the tooth	TOOTH	1380		zub	zub 
+379	10-4-271-1	7721342600997667	Lower Sorbian	lowe1385	the gums	GUMS	139		źěsna	źěsna 
+380	10-4-272-1	772134249040104	Lower Sorbian	lowe1385	the molar tooth	MOLAR TOOTH	1049		crjonak	crjonak 
+381	10-4-28-1	7721342656838357	Lower Sorbian	lowe1385	the neck	NECK	1333		šyja	šyja 
+382	10-4-281-1	7721342973969963	Lower Sorbian	lowe1385	the nape of the neck	NAPE (OF NECK)	1347		tyło	tyło 
+383	10-4-281-2	7721342982851682	Lower Sorbian	lowe1385	the nape of the neck	NAPE (OF NECK)	1347		knyka	knyka 
+384	10-4-29-1	7721342629104335	Lower Sorbian	lowe1385	the throat	THROAT	1346		gjargawa	gjargawa 
+385	10-4-3-1	7721342519109509	Lower Sorbian	lowe1385	the shoulder	SHOULDER	1482		ramje	ramje 
+386	10-4-301-1	7721342239699017	Lower Sorbian	lowe1385	the shoulderblade	SHOULDERBLADE	172		łopatka	łopatka 
+387	10-4-301-2	7721342817027624	Lower Sorbian	lowe1385	the shoulderblade	SHOULDERBLADE	172		šupla	šupla 
+388	10-4-302-1	7721342587717012	Lower Sorbian	lowe1385	the collarbone	COLLARBONE	1994		klucyna	klucyna 
+389	10-4-31-1	7721342183396570	Lower Sorbian	lowe1385	the arm	ARM	1673		ruka	ruka 
+390	10-4-312-1	7721342322343114	Lower Sorbian	lowe1385	the armpit	ARMPIT	1886		(pód)paža	(pód)paža 
+391	10-4-32-1	7721342838527266	Lower Sorbian	lowe1385	the elbow	ELBOW	981		łokś	łokś 
+392	10-4-321-1	77213426966630	Lower Sorbian	lowe1385	the wrist	WRIST	799		rucne zgibk	rucne zgibk 
+393	10-4-321-2	7721342883521494	Lower Sorbian	lowe1385	the wrist	WRIST	799		lenk	lenk 
+394	10-4-33-1	7721342183396570	Lower Sorbian	lowe1385	the hand	HAND	1277		ruka	ruka 
+395	10-4-331-1	7721342600594850	Lower Sorbian	lowe1385	the palm of the hand	PALM OF HAND	1183		dłoń	dłoń 
+396	10-4-34-1	7721342706281981	Lower Sorbian	lowe1385	the finger	FINGER	1303		palc	palc 
+397	10-4-342-1	7721342908997259	Lower Sorbian	lowe1385	the thumb	THUMB	1781		wjeliki palc	wjeliki palc 
+398	10-4-344-1	7721342907420272	Lower Sorbian	lowe1385	the fingernail	FINGERNAIL	1258		nokś	nokś 
+399	10-4-345-1	7721342471653041	Lower Sorbian	lowe1385	the claw	CLAW	72		parnocht	parnocht 
+400	10-4-345-2	7721342506622676	Lower Sorbian	lowe1385	the claw	CLAW	72		pazora	pazora 
+401	10-4-35-1	7721342999854639	Lower Sorbian	lowe1385	the leg	LEG	1297		noga	noga 
+402	10-4-351-1	7721342572169862	Lower Sorbian	lowe1385	the thigh	THIGH	800		sćogno	sćogno 
+403	10-4-352-1	7721342749566119	Lower Sorbian	lowe1385	the calf of the leg	CALF OF LEG	498		brjuško	brjuško 
+404	10-4-36-1	7721342458240390	Lower Sorbian	lowe1385	the knee	KNEE	1371		kóleno	kóleno 
+405	10-4-37-1	7721342999854639	Lower Sorbian	lowe1385	the foot	FOOT	1301		noga	noga 
+406	10-4-371-1	7721342518854292	Lower Sorbian	lowe1385	the ankle	ANKLE	803		glozonk	glozonk 
+407	10-4-372-1	7721342670030583	Lower Sorbian	lowe1385	the heel	HEEL	980		pěta	pěta 
+408	10-4-374-1	7721342719963663	Lower Sorbian	lowe1385	the footprint	FOOTPRINT	318		stopa	stopa 
+409	10-4-38-1	7721342706281981	Lower Sorbian	lowe1385	the toe	TOE	1389		palc	palc 
+410	10-4-392-1	7721342256347927	Lower Sorbian	lowe1385	the wing	WING	1257		kśidło	kśidło 
+411	10-4-393-1	7721342509717601	Lower Sorbian	lowe1385	the feather	FEATHER	1201		pjero	pjero 
+412	10-4-4-1	7721342198996014	Lower Sorbian	lowe1385	the chest	CHEST	1592		brust	brust 
+413	10-4-4-2	7721342970551534	Lower Sorbian	lowe1385	the chest	CHEST	1592		gruź	gruź 
+414	10-4-41-1	772134229978023	Lower Sorbian	lowe1385	the breast	BREAST	1402		nadro	nadro 
+415	10-4-412-1	7721342421681064	Lower Sorbian	lowe1385	the nipple or teat	NIPPLE	796		brodajca	brodajca 
+416	10-4-412-2	7721342932565483	Lower Sorbian	lowe1385	the nipple or teat	NIPPLE	796		cyck	cyck 
+417	10-4-42-1	7721342588833513	Lower Sorbian	lowe1385	the udder	UDDER	154		wumje	wumje 
+418	10-4-43-1	7721342480243795	Lower Sorbian	lowe1385	the navel	NAVEL	1838		pup(k)	pup(k) 
+419	10-4-44-1	7721342754579756	Lower Sorbian	lowe1385	the heart	HEART	1223		wutšoba	wutšoba 
+420	10-4-441-1	7721342782321679	Lower Sorbian	lowe1385	the lung	LUNG	688		płuca	płuca 
+421	10-4-441-2	772134222177306	Lower Sorbian	lowe1385	the lung	LUNG	688		lunga	lunga 
+422	10-4-45-1	7721342143824679	Lower Sorbian	lowe1385	the liver	LIVER	1224		jětša	jětša 
+423	10-4-451-1	7721342114625821	Lower Sorbian	lowe1385	the kidney	KIDNEY	489		nerka	nerka 
+424	10-4-452-1	7721342749689676	Lower Sorbian	lowe1385	the spleen	SPLEEN	1744		słozyna	słozyna 
+425	10-4-46-1	7721342883700868	Lower Sorbian	lowe1385	the stomach	STOMACH	819		magan	magan 
+426	10-4-46-2	7721342750505078	Lower Sorbian	lowe1385	the stomach	STOMACH	819		žołdk	žołdk 
+427	10-4-461-1	7721342998772698	Lower Sorbian	lowe1385	the intestines or guts	INTESTINES	1991		crjowa	crjowa 
+428	10-4-462-1	7721342881416954	Lower Sorbian	lowe1385	the waist	WAIST	1681		talja	talja 
+429	10-4-463-1	7721342310770718	Lower Sorbian	lowe1385	the hip	HIP	1745		kłud	kłud 
+430	10-4-464-1	7721342934764865	Lower Sorbian	lowe1385	the buttocks	BUTTOCKS	834		slědk	slědk 
+431	10-4-47-1	7721342240690552	Lower Sorbian	lowe1385	the womb	WOMB	804		roźeńca	roźeńca 
+432	10-4-49-1	7721342972714985	Lower Sorbian	lowe1385	the testicles	TESTICLES	797		jajo	jajo 
+433	10-4-492-1	7721342695013231	Lower Sorbian	lowe1385	the penis	PENIS	1222		penis	penis 
+434	10-4-492-2	7721342183443043	Lower Sorbian	lowe1385	the penis	PENIS	1222		tšumpel	tšumpel 
+435	10-4-51-1	7721342512012664	Lower Sorbian	lowe1385	to breathe	BREATHE	1407		dychaś	dychaś 
+436	10-4-52-1	7721342302056199	Lower Sorbian	lowe1385	to yawn	YAWN	1028		zewaś	zewaś 
+437	10-4-521-1	7721342355486896	Lower Sorbian	lowe1385	to hiccough	HICCOUGH	162		hykaś	hykaś 
+438	10-4-53-1	772134257253530	Lower Sorbian	lowe1385	to cough	COUGH	879		kašliś	kašliś 
+439	10-4-54-1	7721342180048872	Lower Sorbian	lowe1385	to sneeze	SNEEZE	1621		tśichaś	tśichaś 
+440	10-4-55-1	7721342532427978	Lower Sorbian	lowe1385	to perspire	SWEAT (PERSPIRE)	126		znojś se	znojś se 
+441	10-4-56-1	772134298090555	Lower Sorbian	lowe1385	to spit	SPIT	1440		pluwaś	pluwaś 
+442	10-4-57-1	7721342347439239	Lower Sorbian	lowe1385	to vomit	VOMIT	1278		bluwaś	bluwaś 
+443	10-4-58-1	7721342566583039	Lower Sorbian	lowe1385	to bite	BITE	1403		kusaś	kusaś 
+444	10-4-59-1	7721342441248498	Lower Sorbian	lowe1385	to lick	LICK	319		lizaś	lizaś 
+445	10-4-591-1	7721342561784383	Lower Sorbian	lowe1385	to dribble	DRIBBLE	268		sliniś	sliniś 
+446	10-4-61-1	772134283917428	Lower Sorbian	lowe1385	to sleep	SLEEP	1585		spaś	spaś 
+447	10-4-612-1	7721342811679419	Lower Sorbian	lowe1385	to snore	SNORE	1983		smarcaś	smarcaś 
+448	10-4-62-1	7721342558531577	Lower Sorbian	lowe1385	to dream	DREAM (SOMETHING)	1920		cowaś	cowaś 
+449	10-4-63-1	7721342806874679	Lower Sorbian	lowe1385	to wake up	WAKE UP	1602		wócuśeś	wócuśeś 
+450	10-4-64-1	7721342729084659	Lower Sorbian	lowe1385	to fart	FART	1159		rikaś	rikaś 
+451	10-4-65-1	7721342848324217	Lower Sorbian	lowe1385	to piss	PISS	592		scaś	scaś 
+452	10-4-66-1	7721342702348244	Lower Sorbian	lowe1385	to shit	SHIT (DEFECATE)	676		sraś	sraś 
+453	10-4-67-1	7721342352909817	Lower Sorbian	lowe1385	to have sex	HAVE SEX	1785		wótspaś	wótspaś 
+454	10-4-67-2	7721342810475965	Lower Sorbian	lowe1385	to have sex	HAVE SEX	1785		walaś	walaś 
+455	10-4-67-3	7721342514862732	Lower Sorbian	lowe1385	to have sex	HAVE SEX	1785		spaś (z)	spaś (z) 
+456	10-4-68-1	772134255996323	Lower Sorbian	lowe1385	to shiver	SHIVER	52		tśěsć	tśěsć 
+457	10-4-69-1	772134236965959	Lower Sorbian	lowe1385	to bathe	BATHE	138		kupaś se	kupaś se 
+458	10-4-71-1	7721342839733988	Lower Sorbian	lowe1385	to beget	BEGET	1152		płoźiś	płoźiś 
+459	10-4-72-1	7721342287218396	Lower Sorbian	lowe1385	to be born	BE BORN	1090		naroźiś se	naroźiś se 
+460	10-4-73-1	7721342794159973	Lower Sorbian	lowe1385	pregnant	PREGNANT	1123		samadruga	samadruga 
+461	10-4-732-1	7721342598009963	Lower Sorbian	lowe1385	to conceive	CONCEIVE	1087		pódjeś	pódjeś 
+462	10-4-74-1	7721342910610290	Lower Sorbian	lowe1385	to be alive	BE ALIVE	1422		labowaś	labowaś 
+463	10-4-74-2	7721342862831471	Lower Sorbian	lowe1385	to be alive	BE ALIVE	1422		žywy byś	žywy byś 
+464	10-4-75-1	7721342567821667	Lower Sorbian	lowe1385	to die	DIE	1494		wumrěś	wumrěś 
+465	10-4-751-1	7721342841423021	Lower Sorbian	lowe1385	to drown	DROWN	1904		zalaś se	zalaś se 
+466	10-4-76-1	7721342932271073	Lower Sorbian	lowe1385	to kill	KILL	1417		zabiś	zabiś 
+467	10-4-77-1	7721342133067334	Lower Sorbian	lowe1385	the corpse	CORPSE	767		śěło	śěło 
+468	10-4-78-1	7721342350106910	Lower Sorbian	lowe1385	to bury	BURY	1719		zakopowaś	zakopowaś 
+469	10-4-79-1	7721342810968758	Lower Sorbian	lowe1385	the grave	GRAVE	1773		row	row 
+470	10-4-81-1	772134273950504	Lower Sorbian	lowe1385	strong	STRONG	785		mócny	mócny 
+471	10-4-82-1	7721342290726220	Lower Sorbian	lowe1385	weak	WEAK	1601		słaby	słaby 
+472	10-4-83-1	7721342189379255	Lower Sorbian	lowe1385	healthy	HEALTHY	1364		strowy	strowy 
+473	10-4-84-1	7721342314684880	Lower Sorbian	lowe1385	sick/ill	SICK	1847		chóry	chóry 
+474	10-4-841-1	7721342567497337	Lower Sorbian	lowe1385	the fever	FEVER	1534		zymnica	zymnica 
+475	10-4-841-2	7721342766407753	Lower Sorbian	lowe1385	the fever	FEVER	1534		fiber	fiber 
+476	10-4-842-1	7721342765230619	Lower Sorbian	lowe1385	the goitre/goiter	GOITER	1957		chrop	chrop 
+477	10-4-843-1	7721342527355130	Lower Sorbian	lowe1385	the cold	COMMON COLD (DISEASE)	102		pśezymnjenje	pśezymnjenje 
+478	10-4-85-1	7721342132625641	Lower Sorbian	lowe1385	the wound or sore	WOUND	1109		rana	rana 
+479	10-4-852-1	7721342535552305	Lower Sorbian	lowe1385	the bruise	BRUISE	1148		módry flak	módry flak 
+480	10-4-853-1	7721342747877115	Lower Sorbian	lowe1385	the swelling	SWELLING	1903		wopuklina	wopuklina 
+481	10-4-853-2	7721342536077489	Lower Sorbian	lowe1385	the swelling	SWELLING	1903		kula	kula 
+482	10-4-854-1	7721342127424245	Lower Sorbian	lowe1385	the itch	ITCH	148		swjerbjenje	swjerbjenje 
+483	10-4-855-1	7721342944475165	Lower Sorbian	lowe1385	the blister	BLISTER	1584		puchoŕ	puchoŕ 
+484	10-4-856-1	7721342809412705	Lower Sorbian	lowe1385	the boil	BOIL (OF SKIN)	793		wrjod	wrjod 
+485	10-4-856-2	7721342950616337	Lower Sorbian	lowe1385	the boil	BOIL (OF SKIN)	793		swińc	swińc 
+486	10-4-857-1	7721342130924604	Lower Sorbian	lowe1385	the pus	PUS	1808		taług	taług 
+487	10-4-857-2	7721342107842720	Lower Sorbian	lowe1385	the pus	PUS	1808		gnoj	gnoj 
+488	10-4-858-1	772134270305645	Lower Sorbian	lowe1385	the scar	SCAR	497		šmara	šmara 
+489	10-4-858-2	7721342110337173	Lower Sorbian	lowe1385	the scar	SCAR	497		bluzna	bluzna 
+490	10-4-86-1	7721342403784346	Lower Sorbian	lowe1385	to cure	CURE	499		gójś	gójś 
+491	10-4-87-1	7721342172771556	Lower Sorbian	lowe1385	the physician	PHYSICIAN	597		duchtaŕ	duchtaŕ 
+492	10-4-87-2	7721342953216464	Lower Sorbian	lowe1385	the physician	PHYSICIAN	597		gójc	gójc 
+493	10-4-88-1	772134230749775	Lower Sorbian	lowe1385	the medicine	MEDICINE	1372		medicina	medicina 
+494	10-4-88-2	7721342714706018	Lower Sorbian	lowe1385	the medicine	MEDICINE	1372		lěkarstwo	lěkarstwo 
+495	10-4-88-3	7721342301684796	Lower Sorbian	lowe1385	the medicine	MEDICINE	1372		gójarstwo	gójarstwo 
+496	10-4-89-1	7721342573588475	Lower Sorbian	lowe1385	the poison	POISON	655		gad	gad 
+497	10-4-89-2	7721342153050752	Lower Sorbian	lowe1385	the poison	POISON	655		gift	gift 
+498	10-4-91-1	7721342385676330	Lower Sorbian	lowe1385	tired	TIRED	1757		mucny	mucny 
+499	10-4-912-1	772134228310806	Lower Sorbian	lowe1385	to rest	REST	168		wótpócywaś	wótpócywaś 
+500	10-4-92-1	7721342254865361	Lower Sorbian	lowe1385	lazy	LAZY	1564		gniły	gniły 
+501	10-4-93-1	7721342344498490	Lower Sorbian	lowe1385	bald	BALD	1125		goły	goły 
+502	10-4-94-1	7721342745664381	Lower Sorbian	lowe1385	lame	LAME	320		chromy	chromy 
+503	10-4-95-1	7721342415088539	Lower Sorbian	lowe1385	deaf	DEAF	996		głuchy	głuchy 
+504	10-4-96-1	7721342157254891	Lower Sorbian	lowe1385	mute	MUTE	1666		nimy	nimy 
+505	10-4-97-1	7721342604583656	Lower Sorbian	lowe1385	blind	BLIND	1653		slěpy	slěpy 
+506	10-4-98-1	7721342262447434	Lower Sorbian	lowe1385	drunk	DRUNK	1463		napity	napity 
+507	10-4-98-2	7721342286131777	Lower Sorbian	lowe1385	drunk	DRUNK	1463		pijany	pijany 
+508	10-4-99-1	7721342176207535	Lower Sorbian	lowe1385	naked	NAKED	590		nagi	nagi 
+509	10-5-11-1	7721342252214937	Lower Sorbian	lowe1385	to eat	EAT	1336		jěsć	jěsć 
+510	10-5-12-1	7721342549344948	Lower Sorbian	lowe1385	the food	FOOD	256		jěza	jěza 
+511	10-5-121-1	7721342927583232	Lower Sorbian	lowe1385	cooked	COOKED	269		warjony	warjony 
+512	10-5-122-1	7721342910704391	Lower Sorbian	lowe1385	raw	RAW	1959		syry	syry 
+513	10-5-123-1	7721342196802279	Lower Sorbian	lowe1385	ripe	RIPE	178		zdrjały	zdrjały 
+514	10-5-124-1	772134271874307	Lower Sorbian	lowe1385	unripe	UNRIPE	1958		njezdrjały	njezdrjały 
+515	10-5-125-1	7721342683958074	Lower Sorbian	lowe1385	rotten	ROTTEN	1728		zgnity	zgnity 
+516	10-5-13-1	7721342508936501	Lower Sorbian	lowe1385	to drink	DRINK	1401		piś	piś 
+517	10-5-14-1	7721342996595582	Lower Sorbian	lowe1385	to be hungry	BE HUNGRY	1533		głodny byś	głodny byś 
+518	10-5-141-1	7721342452985509	Lower Sorbian	lowe1385	the famine	FAMINE	199		głod	głod 
+519	10-5-15-1	7721342607766612	Lower Sorbian	lowe1385	to be thirsty	THIRSTY	847		łacny byś	łacny byś 
+520	10-5-16-1	7721342881827407	Lower Sorbian	lowe1385	to suck	SUCK	1421		cycaś	cycaś 
+521	10-5-18-1	7721342566583039	Lower Sorbian	lowe1385	to chew	CHEW	321		kusaś	kusaś 
+522	10-5-181-1	7721342299699348	Lower Sorbian	lowe1385	to swallow	SWALLOW	897		póžrěś	póžrěś 
+523	10-5-19-1	7721342874333115	Lower Sorbian	lowe1385	to choke	CHOKE	129		zadušyś	zadušyś 
+524	10-5-21-1	7721342285809232	Lower Sorbian	lowe1385	to cook	COOK (SOMETHING)	1100		wariś	wariś 
+525	10-5-22-1	7721342197687071	Lower Sorbian	lowe1385	to boil	BOIL (OF LIQUID)	792		wariś se	wariś se 
+526	10-5-23-1	7721342515848751	Lower Sorbian	lowe1385	to roast or fry	ROAST OR FRY	2146		pjac (1)	pjac (1) 
+527	10-5-24-1	7721342515848751	Lower Sorbian	lowe1385	to bake	BAKE	183		pjac (1)	pjac (1) 
+528	10-5-25-1	7721342997971801	Lower Sorbian	lowe1385	the oven	OVEN	1143		pjac (2)	pjac (2) 
+529	10-5-26-1	7721342108035387	Lower Sorbian	lowe1385	the pot	POT	1462		gjarnc	gjarnc 
+530	10-5-27-1	7721342526206524	Lower Sorbian	lowe1385	the kettle	KETTLE	854		kóśeł	kóśeł 
+531	10-5-28-1	7721342263505393	Lower Sorbian	lowe1385	the pan	PAN	31		brotfana	brotfana 
+532	10-5-28-2	7721342995235480	Lower Sorbian	lowe1385	the pan	PAN	31		pan(w)ej	pan(w)ej 
+533	10-5-31-1	7721342116926183	Lower Sorbian	lowe1385	the dish	DISH	481		škla	škla 
+534	10-5-32-1	7721342417283349	Lower Sorbian	lowe1385	the plate	PLATE	480		talaŕ	talaŕ 
+535	10-5-33-1	7721342116926183	Lower Sorbian	lowe1385	the bowl	BOWL	1530		škla	škla 
+536	10-5-34-1	7721342713501741	Lower Sorbian	lowe1385	the jug/pitcher	JUG	270		kruž	kruž 
+537	10-5-34-2	7721342152558511	Lower Sorbian	lowe1385	the jug/pitcher	JUG	270		banja	banja 
+538	10-5-35-1	7721342853351031	Lower Sorbian	lowe1385	the cup	CUP	476		tasa	tasa 
+539	10-5-36-1	7721342774252789	Lower Sorbian	lowe1385	the saucer	SAUCER	271		šklicka	šklicka 
+540	10-5-37-1	7721342889540643	Lower Sorbian	lowe1385	the spoon	SPOON	1378		łžyca	łžyca 
+541	10-5-38-1	7721342795406697	Lower Sorbian	lowe1385	the knife(1)	KNIFE (FOR EATING)	3210		nož	nož 
+542	10-5-39-1	7721342235275692	Lower Sorbian	lowe1385	the fork	FORK	1302		widlicki	widlicki 
+543	10-5-391-1	7721342221875416	Lower Sorbian	lowe1385	the tongs	TONGS	272		klěšće	klěšće 
+544	10-5-41-1	7721342549344948	Lower Sorbian	lowe1385	the meal	MEAL	1526		jěza	jěza 
+545	10-5-42-1	772134235346007	Lower Sorbian	lowe1385	the breakfast	BREAKFAST	1322		fryštuka	fryštuka 
+546	10-5-42-2	7721342711549346	Lower Sorbian	lowe1385	the breakfast	BREAKFAST	1322		snědanje	snědanje 
+547	10-5-43-1	7721342254587558	Lower Sorbian	lowe1385	the lunch	LUNCH	768		wobjed	wobjed 
+548	10-5-45-1	7721342733601163	Lower Sorbian	lowe1385	the supper	DINNER (SUPPER)	1833		wjacerja	wjacerja 
+549	10-5-46-1	7721342124048479	Lower Sorbian	lowe1385	to peel	PEEL	275		běliś	běliś 
+550	10-5-47-1	7721342477742873	Lower Sorbian	lowe1385	to sieve or to strain	SIEVE	86		wósowaś	wósowaś 
+551	10-5-48-1	772134279819182	Lower Sorbian	lowe1385	to scrape	SCRAPE	1767		škrabaś	škrabaś 
+552	10-5-49-1	7721342982660511	Lower Sorbian	lowe1385	to stir or to mix	MIX	2017		měšaś	měšaś 
+553	10-5-51-1	772134210069153	Lower Sorbian	lowe1385	the bread	BREAD	1368		klěb	klěb 
+554	10-5-53-1	7721342825872456	Lower Sorbian	lowe1385	the dough	DOUGH	273		śěsto	śěsto 
+555	10-5-54-1	7721342522440922	Lower Sorbian	lowe1385	to knead	KNEAD	274		měsyś	měsyś 
+556	10-5-55-1	7721342270603309	Lower Sorbian	lowe1385	the flour	FLOUR	1594		muka	muka 
+557	10-5-56-1	7721342664472612	Lower Sorbian	lowe1385	to crush or to grind	GRIND	1033		mlaś	mlaś 
+558	10-5-57-1	772134285411117	Lower Sorbian	lowe1385	the mill	MILL	636		młyn	młyn 
+559	10-5-58-1	7721342711992834	Lower Sorbian	lowe1385	the mortar(1)	MORTAR CRUSHER	224		mjeržel	mjeržel 
+560	10-5-59-1	7721342822139369	Lower Sorbian	lowe1385	the pestle	PESTLE	225		tłucnik	tłucnik 
+561	10-5-61-1	7721342452418142	Lower Sorbian	lowe1385	the meat	MEAT	634		měso	měso 
+562	10-5-63-1	7721342418347043	Lower Sorbian	lowe1385	the sausage	SAUSAGE	1874		jěšnica	jěšnica 
+563	10-5-64-1	7721342374081941	Lower Sorbian	lowe1385	the soup	SOUP	1547		zupa	zupa 
+564	10-5-64-2	7721342507914561	Lower Sorbian	lowe1385	the soup	SOUP	1547		pólewanka	pólewanka 
+565	10-5-65-1	7721342311762566	Lower Sorbian	lowe1385	the vegetables	VEGETABLES	924		zelenina	zelenina 
+566	10-5-66-1	7721342686250614	Lower Sorbian	lowe1385	the bean	BEAN	832		bob	bob 
+567	10-5-66-2	7721342518614535	Lower Sorbian	lowe1385	the bean	BEAN	832		šnibob	šnibob 
+568	10-5-7-1	7721342444706611	Lower Sorbian	lowe1385	the potato	POTATO	593		kulka	kulka 
+569	10-5-71-1	7721342651217373	Lower Sorbian	lowe1385	the fruit	FRUIT	1507		płod	płod 
+570	10-5-712-1	7721342204221083	Lower Sorbian	lowe1385	the bunch	BUNCH	1966		bundel	bundel 
+571	10-5-75-1	7721342658814103	Lower Sorbian	lowe1385	the fig	FIG	322		figa	figa 
+572	10-5-76-1	7721342616213951	Lower Sorbian	lowe1385	the grape	GRAPE	920		granka	granka 
+573	10-5-77-1	7721342667419085	Lower Sorbian	lowe1385	the nut	NUT	191		wórjech	wórjech 
+574	10-5-78-1	7721342330324537	Lower Sorbian	lowe1385	the olive	OLIVE	1154		oliwa	oliwa 
+575	10-5-79-1	7721342851543581	Lower Sorbian	lowe1385	the oil	OIL (ORGANIC SUBSTANCE)	1484		wólej	wólej 
+576	10-5-791-1	772134255181021	Lower Sorbian	lowe1385	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		tucne	tucne 
+577	10-5-81-1	7721342454658366	Lower Sorbian	lowe1385	the salt	SALT	1274		sol	sol 
+578	10-5-82-1	7721342731484714	Lower Sorbian	lowe1385	the pepper	PEPPER	1385		pjepjeŕ	pjepjeŕ 
+579	10-5-821-1	7721342938441056	Lower Sorbian	lowe1385	the chili pepper	CHILI PEPPER	919		paprika	paprika 
+580	10-5-84-1	7721342216950283	Lower Sorbian	lowe1385	the honey	HONEY	942		mjod	mjod 
+581	10-5-85-1	7721342409660157	Lower Sorbian	lowe1385	the sugar	SUGAR	862		cukor	cukor 
+582	10-5-86-1	7721342770706775	Lower Sorbian	lowe1385	the milk	MILK	635		mloko	mloko 
+583	10-5-87-1	7721342250972597	Lower Sorbian	lowe1385	to milk	DRAW MILK	93		dojś (1)	dojś (1) 
+584	10-5-88-1	772134254008692	Lower Sorbian	lowe1385	the cheese	CHEESE	1569		twarožk	twarožk 
+585	10-5-89-1	7721342515631371	Lower Sorbian	lowe1385	the butter	BUTTER	1245		butra	butra 
+586	10-5-9-1	7721342283215623	Lower Sorbian	lowe1385	the drink	BEVERAGE	731		piśe	piśe 
+587	10-5-9-2	7721342916718548	Lower Sorbian	lowe1385	the drink	BEVERAGE	731		napoj	napoj 
+588	10-5-91-1	7721342880173287	Lower Sorbian	lowe1385	the mead	MEAD	941		mjodowina	mjodowina 
+589	10-5-92-1	7721342841938269	Lower Sorbian	lowe1385	the wine	WINE	1524		wino	wino 
+590	10-5-93-1	7721342196013883	Lower Sorbian	lowe1385	the beer	BEER	1639		piwo	piwo 
+591	10-5-97-1	7721342972714985	Lower Sorbian	lowe1385	the egg	EGG	744		jajo	jajo 
+592	10-5-971-1	7721342193590474	Lower Sorbian	lowe1385	the yolk	YOLK	1556		cenk	cenk 
+593	10-6-11-1	7721342412265673	Lower Sorbian	lowe1385	to put on	PUT ON	158		woblekaś	woblekaś 
+594	10-6-12-1	7721342482462938	Lower Sorbian	lowe1385	the clothing or clothes	CLOTHES	1895		drastwa	drastwa 
+595	10-6-13-1	7721342458062462	Lower Sorbian	lowe1385	the tailor	TAILOR	881		šlodaŕ	šlodaŕ 
+596	10-6-21-1	7721342839960601	Lower Sorbian	lowe1385	the cloth	CLOTH	1616		sukno	sukno 
+597	10-6-22-1	7721342346096747	Lower Sorbian	lowe1385	the wool	WOOL	964		wałma	wałma 
+598	10-6-23-1	7721342940711257	Lower Sorbian	lowe1385	the linen	LINEN	916		płat	płat 
+599	10-6-23-2	7721342918723245	Lower Sorbian	lowe1385	the linen	LINEN	916		lejwant	lejwant 
+600	10-6-24-1	7721342334494123	Lower Sorbian	lowe1385	the cotton	COTTON	1850		bałma	bałma 
+601	10-6-24-2	7721342284389681	Lower Sorbian	lowe1385	the cotton	COTTON	1850		bom(j)elwałma	bom(j)elwałma 
+602	10-6-25-1	7721342470294124	Lower Sorbian	lowe1385	the silk	SILK	1641		žyźe	žyźe 
+603	10-6-27-1	7721342422041271	Lower Sorbian	lowe1385	the felt	FELT	325		filc	filc 
+604	10-6-28-1	772134235528024	Lower Sorbian	lowe1385	the fur	FUR	580		kóžuch	kóžuch 
+605	10-6-29-1	7721342362996838	Lower Sorbian	lowe1385	the leather	LEATHER	629		kóža	kóža 
+606	10-6-31-1	7721342686854142	Lower Sorbian	lowe1385	to spin	SPIN	121		pśěsć	pśěsć 
+607	10-6-32-1	7721342427779609	Lower Sorbian	lowe1385	the spindle	SPINDLE	277		wrjeśeno	wrjeśeno 
+608	10-6-33-1	7721342386126281	Lower Sorbian	lowe1385	to weave	WEAVE	133		tkaś	tkaś 
+609	10-6-34-1	7721342859617305	Lower Sorbian	lowe1385	the loom	LOOM	1787		staśiwy	staśiwy 
+610	10-6-35-1	772134280147410	Lower Sorbian	lowe1385	to sew	SEW	1457		šyś	šyś 
+611	10-6-36-1	77213422385717	Lower Sorbian	lowe1385	the needle(1)	NEEDLE (FOR SEWING)	1382		glicka	glicka 
+612	10-6-36-2	7721342346536561	Lower Sorbian	lowe1385	the needle(1)	NEEDLE (FOR SEWING)	1382		šywalnica	šywalnica 
+613	10-6-37-1	7721342585382339	Lower Sorbian	lowe1385	the awl	AWL	278		šydło	šydło 
+614	10-6-38-1	7721342887721626	Lower Sorbian	lowe1385	the thread	THREAD	1161		niś	niś 
+615	10-6-39-1	7721342898366593	Lower Sorbian	lowe1385	to dye	DYE	157		barwiś	barwiś 
+616	10-6-41-1	7721342379089255	Lower Sorbian	lowe1385	the cloak	CLOAK	326		płašć	płašć 
+617	10-6-41-2	7721342553484490	Lower Sorbian	lowe1385	the cloak	CLOAK	326		mantel	mantel 
+618	10-6-411-1	7721342229422784	Lower Sorbian	lowe1385	the poncho	PONCHO	327		pontšo	pontšo 
+619	10-7-37-1	7721342936690606	Lower Sorbian	lowe1385	the ladder	LADDER	1464		jabeŕ	jabeŕ 
+620	10-6-42-1	7721342442570758	Lower Sorbian	lowe1385	the (woman's) dress	DRESS	474		suknja	suknja 
+621	10-6-42-2	7721342385638449	Lower Sorbian	lowe1385	the (woman's) dress	DRESS	474		klejd	klejd 
+622	10-6-43-1	7721342355850173	Lower Sorbian	lowe1385	the coat	COAT	603		jaka	jaka 
+623	10-6-43-2	7721342345747277	Lower Sorbian	lowe1385	the coat	COAT	603		kamzol	kamzol 
+624	10-6-44-1	772134266016610	Lower Sorbian	lowe1385	the shirt	SHIRT	1622		zgło	zgło 
+625	10-6-45-1	7721342127332732	Lower Sorbian	lowe1385	the collar	COLLAR	2012		kraga	kraga 
+626	10-6-45-2	7721342312223496	Lower Sorbian	lowe1385	the collar	COLLAR	2012		kłopka	kłopka 
+627	10-6-46-1	7721342939083308	Lower Sorbian	lowe1385	the skirt	SKIRT	1600		kóšula	kóšula 
+628	10-6-48-1	7721342640084703	Lower Sorbian	lowe1385	the trousers	TROUSERS	809		zec	zec 
+629	10-6-49-1	7721342240870621	Lower Sorbian	lowe1385	the sock or stocking	STOCKING	329		štrumpa	štrumpa 
+630	10-6-51-1	7721342156385527	Lower Sorbian	lowe1385	the shoe	SHOE	1381		crjej	crjej 
+631	10-6-52-1	7721342683440133	Lower Sorbian	lowe1385	the boot	BOOT	585		škórnja	škórnja 
+632	10-6-54-1	7721342773141004	Lower Sorbian	lowe1385	the shoemaker	SHOEMAKER	875		šejc	šejc 
+633	10-6-55-1	772134226248100	Lower Sorbian	lowe1385	the hat or cap	HEADGEAR	2130		kłobyk	kłobyk 
+634	10-6-57-1	7721342590838870	Lower Sorbian	lowe1385	the belt	BELT	772		pas	pas 
+635	10-6-58-1	7721342255817955	Lower Sorbian	lowe1385	the glove	GLOVE	867		rukajca	rukajca 
+636	10-6-59-1	7721342236589352	Lower Sorbian	lowe1385	the veil	VEIL	1151		šlewjeŕ	šlewjeŕ 
+637	10-6-61-1	7721342851586743	Lower Sorbian	lowe1385	the pocket	POCKET	1851		kapsa	kapsa 
+638	10-6-62-1	7721342962989192	Lower Sorbian	lowe1385	the button	BUTTON	757		bublin	bublin 
+639	10-6-63-1	7721342167277808	Lower Sorbian	lowe1385	the pin	PIN	64		(kulkata) glicka	(kulkata) glicka 
+640	10-6-71-1	7721342989706533	Lower Sorbian	lowe1385	the ornament or adornment	ORNAMENT	917		wupyšnjenje	wupyšnjenje 
+641	10-6-71-2	7721342687254400	Lower Sorbian	lowe1385	the ornament or adornment	ORNAMENT	917		pyšnjeńki	pyšnjeńki 
+642	10-6-71-3	7721342836810275	Lower Sorbian	lowe1385	the ornament or adornment	ORNAMENT	917		pyšnotka	pyšnotka 
+643	10-6-72-1	7721342688950550	Lower Sorbian	lowe1385	the jewel	JEWEL	1029		juwel	juwel 
+644	10-6-73-1	7721342974417359	Lower Sorbian	lowe1385	the ring	RING	1374		pjeršćeń	pjeršćeń 
+645	10-6-74-1	7721342289633478	Lower Sorbian	lowe1385	the bracelet	BRACELET	1754		narucnik	narucnik 
+646	10-6-75-1	7721342617222774	Lower Sorbian	lowe1385	the necklace	NECKLACE	1961		rjeśazk (wokoło šyje)	rjeśazk (wokoło šyje) 
+647	10-6-76-1	7721342336765756	Lower Sorbian	lowe1385	the bead	BEAD	1860		parla	parla 
+648	10-6-77-1	7721342438832843	Lower Sorbian	lowe1385	the earring	EARRING	770		zawušnik	zawušnik 
+649	10-6-78-1	7721342922191194	Lower Sorbian	lowe1385	the headband or headdress	HEADBAND	330		pódwijka	pódwijka 
+650	10-6-79-1	7721342882755101	Lower Sorbian	lowe1385	the tattoo	TATTOO	68		tetowěrowanje	tetowěrowanje 
+651	10-6-81-1	7721342594926040	Lower Sorbian	lowe1385	the handkerchief or rag	RAG	332		šnyptuch	šnyptuch 
+652	10-6-81-2	7721342564268830	Lower Sorbian	lowe1385	the handkerchief or rag	RAG	332		šantk	šantk 
+653	10-6-82-1	7721342619944551	Lower Sorbian	lowe1385	the towel	TOWEL	1021		hantwal	hantwal 
+654	10-6-91-1	7721342662396748	Lower Sorbian	lowe1385	the comb	COMB	1475		cesak	cesak 
+655	10-6-92-1	7721342767865569	Lower Sorbian	lowe1385	the brush	BRUSH	1821		bjeršta	bjeršta 
+656	10-6-921-1	7721342349887049	Lower Sorbian	lowe1385	the plait/braid	BRAID	1043		cop	cop 
+657	10-6-921-2	7721342319600731	Lower Sorbian	lowe1385	the plait/braid	BRAID	1043		zapleta	zapleta 
+658	10-6-93-1	77213428077437	Lower Sorbian	lowe1385	the razor	RAZOR	151		britwa	britwa 
+659	10-6-94-1	7721342743912561	Lower Sorbian	lowe1385	the ointment	OINTMENT	1926		žałba	žałba 
+660	10-6-95-1	7721342425305877	Lower Sorbian	lowe1385	the soap	SOAP	788		zejpa	zejpa 
+661	10-6-95-2	7721342925237484	Lower Sorbian	lowe1385	the soap	SOAP	788		mydło	mydło 
+662	10-6-96-1	7721342364394257	Lower Sorbian	lowe1385	the mirror	MIRROR	1171		glědałko	glědałko 
+663	10-7-11-1	7721342724984943	Lower Sorbian	lowe1385	to live	DWELL (LIVE, RESIDE)	363		bydliś	bydliś 
+664	10-7-12-1	7721342280080532	Lower Sorbian	lowe1385	the house	HOUSE	1252		dom	dom 
+665	10-7-12-2	7721342825315049	Lower Sorbian	lowe1385	the house	HOUSE	1252		śpa	śpa 
+666	10-7-13-1	7721342431888869	Lower Sorbian	lowe1385	the hut	HUT	1678		buda	buda 
+667	10-7-14-1	7721342599705680	Lower Sorbian	lowe1385	the tent	TENT	1316		celt	celt 
+668	10-7-14-2	772134299813909	Lower Sorbian	lowe1385	the tent	TENT	1316		stan	stan 
+669	10-7-15-1	7721342130658682	Lower Sorbian	lowe1385	the yard or court	YARD	736		dwór	dwór 
+670	10-7-17-1	7721342521417516	Lower Sorbian	lowe1385	the cookhouse	COOKHOUSE	334		kuchnja	kuchnja 
+671	10-7-21-1	7721342825315049	Lower Sorbian	lowe1385	the room	ROOM	1450		śpa	śpa 
+672	10-7-22-1	7721342443477661	Lower Sorbian	lowe1385	the door or gate	DOOR	1567		źurja	źurja 
+673	10-7-22-2	7721342936254795	Lower Sorbian	lowe1385	the door or gate	DOOR	1567		wrota	wrota 
+674	10-7-221-1	7721342561056357	Lower Sorbian	lowe1385	the doorpost	DOORPOST	80		(źuriny) słup	(źuriny) słup 
+675	10-7-23-1	7721342437832663	Lower Sorbian	lowe1385	the lock	LOCK	1596		pyto	pyto 
+676	10-7-231-1	7721342608451794	Lower Sorbian	lowe1385	the latch or door-bolt	LATCH	1012		zamk	zamk 
+677	10-7-24-1	7721342485939879	Lower Sorbian	lowe1385	the key	KEY	1472		kluc	kluc 
+678	10-7-25-1	7721342159147271	Lower Sorbian	lowe1385	the window	WINDOW	1375		wokno	wokno 
+679	10-7-26-1	7721342806900176	Lower Sorbian	lowe1385	the floor	FLOOR	1632		spódk	spódk 
+680	10-7-26-2	7721342992784375	Lower Sorbian	lowe1385	the floor	FLOOR	1632		špundowanje	špundowanje 
+681	10-7-27-1	7721342507145681	Lower Sorbian	lowe1385	the wall	WALL (OF HOUSE)	933		sćěna	sćěna 
+682	10-7-31-1	7721342755650519	Lower Sorbian	lowe1385	the fireplace	FIREPLACE	185		kamin	kamin 
+683	10-7-31-2	7721342808634640	Lower Sorbian	lowe1385	the fireplace	FIREPLACE	185		wognisćo	wognisćo 
+684	10-7-32-1	7721342793730436	Lower Sorbian	lowe1385	the stove	STOVE	859		kamjenki	kamjenki 
+685	10-7-33-1	7721342751778284	Lower Sorbian	lowe1385	the chimney	CHIMNEY	1305		fajernica	fajernica 
+686	10-7-33-2	772134214627579	Lower Sorbian	lowe1385	the chimney	CHIMNEY	1305		wugeń	wugeń 
+687	10-7-33-3	7721342259368374	Lower Sorbian	lowe1385	the chimney	CHIMNEY	1305		dymnica	dymnica 
+688	10-7-42-1	7721342962487388	Lower Sorbian	lowe1385	the bed	BED	1663		póstola	póstola 
+689	10-7-421-1	7721342200379779	Lower Sorbian	lowe1385	the pillow	PILLOW	1044		zagłowk	zagłowk 
+690	10-7-422-1	7721342197017283	Lower Sorbian	lowe1385	the blanket	BLANKET	806		deka	deka 
+691	10-7-422-2	7721342151434304	Lower Sorbian	lowe1385	the blanket	BLANKET	806		pókšywadło	pókšywadło 
+692	10-7-43-1	7721342317447584	Lower Sorbian	lowe1385	the chair	CHAIR	1476		stoł	stoł 
+693	10-7-44-1	7721342667397815	Lower Sorbian	lowe1385	the table	TABLE	1775		blido	blido 
+694	10-7-45-1	7721342833981194	Lower Sorbian	lowe1385	the lamp or torch	TORCH OR LAMP	2131		lampa	lampa 
+695	10-7-45-2	772134274246166	Lower Sorbian	lowe1385	the lamp or torch	TORCH OR LAMP	2131		fak(u)la	fak(u)la 
+696	10-7-45-3	7721342672572998	Lower Sorbian	lowe1385	the lamp or torch	TORCH OR LAMP	2131		pochornja	pochornja 
+697	10-7-46-1	7721342841765360	Lower Sorbian	lowe1385	the candle	CANDLE	1273		swěca	swěca 
+698	10-7-47-1	7721342422348425	Lower Sorbian	lowe1385	the shelf	SHELF	745		dela	dela 
+699	10-7-47-2	7721342997252712	Lower Sorbian	lowe1385	the shelf	SHELF	745		pólica	pólica 
+700	10-7-48-1	7721342205452018	Lower Sorbian	lowe1385	the trough	TROUGH	205		kóryto	kóryto 
+701	10-7-51-1	7721342439296271	Lower Sorbian	lowe1385	the roof	ROOF	769		kšywo	kšywo 
+702	10-7-52-1	7721342934971010	Lower Sorbian	lowe1385	the thatch	THATCH	279		słomjane kšywo	słomjane kšywo 
+703	10-7-53-1	7721342989258600	Lower Sorbian	lowe1385	the ridgepole	RIDGEPOLE	280		kopankowa grěda	kopankowa grěda 
+704	10-7-53-2	7721342331197113	Lower Sorbian	lowe1385	the ridgepole	RIDGEPOLE	280		kopankowa bałka	kopankowa bałka 
+705	10-7-53-3	772134252364999	Lower Sorbian	lowe1385	the ridgepole	RIDGEPOLE	280		rejtaŕ	rejtaŕ 
+706	10-7-54-1	7721342309992154	Lower Sorbian	lowe1385	the rafter	RAFTER	829		kózołnik	kózołnik 
+707	10-7-55-1	7721342809598876	Lower Sorbian	lowe1385	the beam	BEAM	1132		bałka	bałka 
+708	10-7-55-2	772134284551139	Lower Sorbian	lowe1385	the beam	BEAM	1132		grěda	grěda 
+709	10-7-56-1	7721342598367644	Lower Sorbian	lowe1385	the post or pole	POST	281		słup	słup 
+710	10-7-57-1	7721342422348425	Lower Sorbian	lowe1385	the board	BOARD	1227		dela	dela 
+711	10-7-58-1	7721342875518171	Lower Sorbian	lowe1385	the arch	ARCH	876		wobłuk	wobłuk 
+712	10-7-61-1	7721342729926077	Lower Sorbian	lowe1385	the mason	MASON	877		murjaŕ	murjaŕ 
+713	10-7-62-1	7721342448279725	Lower Sorbian	lowe1385	the brick	BRICK	1006		cygel	cygel 
+714	10-7-63-1	7721342460363853	Lower Sorbian	lowe1385	the mortar(2)	MORTAR BINDER	1731		mertel	mertel 
+715	10-8-11-1	7721342932236265	Lower Sorbian	lowe1385	the farmer	FARMER	979		bur	bur 
+716	10-8-12-1	7721342624570569	Lower Sorbian	lowe1385	the field	FIELD	212		pólo	pólo 
+717	10-8-13-1	7721342794179179	Lower Sorbian	lowe1385	the garden	GARDEN	586		zagroda	zagroda 
+718	10-8-13-2	7721342251631884	Lower Sorbian	lowe1385	the garden	GARDEN	586		gumno	gumno 
+719	10-8-15-1	7721342126218976	Lower Sorbian	lowe1385	to cultivate	CULTIVATE	1541		wobźěłaś	wobźěłaś 
+720	10-8-16-1	7721342750423445	Lower Sorbian	lowe1385	the fence	FENCE	1690		płot	płot 
+721	10-8-17-1	7721342250499568	Lower Sorbian	lowe1385	the ditch	DITCH	2002		grobla	grobla 
+722	10-8-21-1	7721342257856575	Lower Sorbian	lowe1385	to plough/plow	PLOUGH	1921		wóraś	wóraś 
+723	10-8-212-1	7721342992370675	Lower Sorbian	lowe1385	the furrow	FURROW	1794		brozda	brozda 
+724	10-8-22-1	7721342211987113	Lower Sorbian	lowe1385	to dig	DIG	1418		ryś (1)	ryś (1) 
+725	10-8-23-1	7721342639863529	Lower Sorbian	lowe1385	the spade	SPADE	1176		špóda	špóda 
+726	10-8-24-1	7721342260052040	Lower Sorbian	lowe1385	the shovel	SHOVEL	1901		šupa	šupa 
+727	10-8-25-1	7721342533193800	Lower Sorbian	lowe1385	the hoe	HOE	284		kopawa	kopawa 
+728	10-8-26-1	7721342339471781	Lower Sorbian	lowe1385	the fork(2)/pitchfork	PITCHFORK	337		widły	widły 
+729	10-8-27-1	7721342212838790	Lower Sorbian	lowe1385	the rake	RAKE	338		grabje	grabje 
+730	10-8-31-1	7721342929768441	Lower Sorbian	lowe1385	to sow	SOW SEEDS	748		seś	seś 
+731	10-8-311-1	7721342934014477	Lower Sorbian	lowe1385	the seed	SEED	714		semje	semje 
+732	10-8-32-1	7721342808586155	Lower Sorbian	lowe1385	to mow	MOW	190		sec	sec 
+733	10-8-33-1	7721342444565328	Lower Sorbian	lowe1385	the sickle or scythe	SICKLE OR SCYTHE	2132		serp	serp 
+734	10-8-33-2	7721342398349458	Lower Sorbian	lowe1385	the sickle or scythe	SICKLE OR SCYTHE	2132		hapa	hapa 
+735	10-8-33-3	7721342491513544	Lower Sorbian	lowe1385	the sickle or scythe	SICKLE OR SCYTHE	2132		knyp	knyp 
+736	10-8-34-1	7721342908417255	Lower Sorbian	lowe1385	to thresh	THRESH	285		młośiś	młośiś 
+737	10-8-35-1	7721342213103813	Lower Sorbian	lowe1385	the threshing-floor	THRESHING-FLOOR	223		tła	tła 
+738	10-8-41-1	7721342420905756	Lower Sorbian	lowe1385	the harvest	HARVEST	611		žni	žni 
+739	10-8-42-1	7721342903026259	Lower Sorbian	lowe1385	the grain	GRAIN	605		trajda	trajda 
+740	10-8-43-1	772134213781664	Lower Sorbian	lowe1385	the wheat	WHEAT	1077		pšenica	pšenica 
+741	10-8-44-1	772134223739275	Lower Sorbian	lowe1385	the barley	BARLEY	932		jacmjeń	jacmjeń 
+742	10-8-45-1	7721342194571502	Lower Sorbian	lowe1385	the rye	RYE	23		žyto	žyto 
+743	10-8-46-1	7721342256323769	Lower Sorbian	lowe1385	the oats	OAT	60		wows	wows 
+744	10-8-47-1	7721342207910453	Lower Sorbian	lowe1385	the maize/corn	MAIZE	506		majs	majs 
+745	10-8-48-1	772134295707480	Lower Sorbian	lowe1385	the rice	RICE	926		rajs	rajs 
+746	10-8-51-1	7721342189206838	Lower Sorbian	lowe1385	the grass	GRASS	606		tšawa	tšawa 
+747	10-8-52-1	7721342377062705	Lower Sorbian	lowe1385	the hay	HAY	342		seno	seno 
+748	10-8-53-1	7721342224240740	Lower Sorbian	lowe1385	the plant	PLANT (VEGETATION)	653		rostlina	rostlina 
+749	10-8-53-2	7721342303432746	Lower Sorbian	lowe1385	the plant	PLANT (VEGETATION)	653		flanca	flanca 
+750	10-8-531-1	7721342480717136	Lower Sorbian	lowe1385	to plant	PLANT (SOMETHING)	1486		sajźaś	sajźaś 
+751	10-8-54-1	7721342479741318	Lower Sorbian	lowe1385	the root	ROOT	670		kórjen	kórjen 
+752	10-8-55-1	7721342625726327	Lower Sorbian	lowe1385	the branch	BRANCH OR TWIG	3223		gałuz	gałuz 
+753	10-8-55-2	7721342312367149	Lower Sorbian	lowe1385	the branch	BRANCH OR TWIG	3223		gałuzka	gałuzka 
+754	10-8-56-1	7721342967675005	Lower Sorbian	lowe1385	the leaf	LEAF	628		łopjeno	łopjeno 
+755	10-8-57-1	7721342613243227	Lower Sorbian	lowe1385	the flower	FLOWER	239		kwět(k)	kwět(k) 
+756	10-8-57-2	7721342848314711	Lower Sorbian	lowe1385	the flower	FLOWER	239		štrus	štrus 
+757	10-8-6-1	7721342496420621	Lower Sorbian	lowe1385	the tree	TREE	906		bom	bom 
+758	10-8-61-1	7721342847717452	Lower Sorbian	lowe1385	the oak	OAK	644		dub	dub 
+759	10-8-62-1	7721342109240021	Lower Sorbian	lowe1385	the beech	BEECH	1950		buk	buk 
+760	10-8-62-2	7721342788545347	Lower Sorbian	lowe1385	the beech	BEECH	1950		grab	grab 
+761	10-8-63-1	7721342505324727	Lower Sorbian	lowe1385	the birch	BIRCH	1855		brjaza	brjaza 
+762	10-8-64-1	7721342446426179	Lower Sorbian	lowe1385	the pine	PINE	1740		chójca	chójca 
+763	10-8-65-1	7721342655511646	Lower Sorbian	lowe1385	the fir	FIR	1915		škrjok	škrjok 
+764	10-8-65-2	7721342149792428	Lower Sorbian	lowe1385	the fir	FIR	1915		jedła	jedła 
+765	10-8-66-1	7721342161331747	Lower Sorbian	lowe1385	the acorn	ACORN	968		klon	klon 
+766	10-8-66-2	7721342478867553	Lower Sorbian	lowe1385	the acorn	ACORN	968		jawor	jawor 
+767	10-8-67-1	7721342312540141	Lower Sorbian	lowe1385	the vine	VINE	343		winowy keŕ	winowy keŕ 
+768	10-8-68-1	7721342980917805	Lower Sorbian	lowe1385	the tobacco	TOBACCO	974		tubak	tubak 
+769	10-8-69-1	7721342146920912	Lower Sorbian	lowe1385	to smoke	SMOKE (INHALE)	1689		kuriś	kuriś 
+770	10-8-691-1	7721342359143655	Lower Sorbian	lowe1385	the pipe	PIPE	1124		fejfa	fejfa 
+771	10-8-72-1	7721342219136012	Lower Sorbian	lowe1385	the tree stump	TREE STUMP	241		pjeńk	pjeńk 
+772	10-8-73-1	7721342231446218	Lower Sorbian	lowe1385	the tree trunk	TREE TRUNK	344		štom	štom 
+773	10-8-74-1	7721342712298331	Lower Sorbian	lowe1385	the forked branch	FORKED BRANCH	409		rozsocha	rozsocha 
+774	10-8-75-1	7721342335373009	Lower Sorbian	lowe1385	the bark	BARK	1204		škóra	škóra 
+775	10-8-76-1	772134240748981	Lower Sorbian	lowe1385	the sap	SAP	345		brjacka	brjacka 
+776	10-8-81-1	7721342966797236	Lower Sorbian	lowe1385	the palm tree	PALM TREE	1181		palma	palma 
+777	10-8-81-2	7721342359397493	Lower Sorbian	lowe1385	the palm tree	PALM TREE	1181		palmowy bom	palmowy bom 
+778	10-8-82-1	7721342589737826	Lower Sorbian	lowe1385	the coconut	COCONUT	970		kokosowy wórjech	kokosowy wórjech 
+779	10-8-83-1	7721342381950264	Lower Sorbian	lowe1385	the citrus fruit	CITRUS FRUIT	1126		citrusowy płod	citrusowy płod 
+780	10-8-84-1	7721342978337399	Lower Sorbian	lowe1385	the banana	BANANA	868		banana	banana 
+781	10-8-92-1	7721342812486660	Lower Sorbian	lowe1385	the cassava/manioc	CASSAVA	925		maniok	maniok 
+782	10-8-931-1	7721342152558511	Lower Sorbian	lowe1385	the pumpkin or squash	PUMPKIN	864		banja	banja 
+783	10-8-94-1	7721342339837271	Lower Sorbian	lowe1385	the bamboo	BAMBOO	1927		bambus	bambus 
+784	10-8-941-1	7721342702718813	Lower Sorbian	lowe1385	the sugar cane	SUGAR CANE	146		cukorina	cukorina 
+785	10-8-97-1	7721342311582055	Lower Sorbian	lowe1385	the nettle	NETTLE	33		kopśiwa	kopśiwa 
+786	10-8-98-1	7721342821319010	Lower Sorbian	lowe1385	the mushroom	MUSHROOM	641		grib	grib 
+787	10-9-11-1	7721342294787005	Lower Sorbian	lowe1385	to do	DO	813		cyniś	cyniś 
+788	10-9-12-1	7721342384319649	Lower Sorbian	lowe1385	the work	WORK (LABOUR)	984		źěło	źěło 
+789	10-9-14-1	7721342570179119	Lower Sorbian	lowe1385	to bend	BEND	2004		zgibaś	zgibaś 
+790	10-9-15-1	7721342367568080	Lower Sorbian	lowe1385	to fold	FOLD	1470		złožyś	złožyś 
+791	10-9-16-1	7721342986005012	Lower Sorbian	lowe1385	to tie	TIE	1917		wězaś	wězaś 
+792	10-9-161-1	7721342452509689	Lower Sorbian	lowe1385	to untie	UNTIE	352		wótwězaś	wótwězaś 
+793	10-9-18-1	7721342813622292	Lower Sorbian	lowe1385	the chain	CHAIN	1627		rjeśaz	rjeśaz 
+794	10-9-19-1	7721342419493111	Lower Sorbian	lowe1385	the rope	ROPE	1218		powrjoz	powrjoz 
+795	10-9-192-1	7721342466604358	Lower Sorbian	lowe1385	the knot	KNOT	760		suk	suk 
+796	10-9-21-1	7721342358510106	Lower Sorbian	lowe1385	to strike or hit or beat	STRIKE OR BEAT	2133		biś	biś 
+797	10-9-211-1	7721342224058722	Lower Sorbian	lowe1385	to pound	POUND	354		deriś	deriś 
+798	10-9-22-1	772134215586782	Lower Sorbian	lowe1385	to cut	CUT	1432		rězaś	rězaś 
+799	10-9-221-1	772134263991758	Lower Sorbian	lowe1385	to cut down	CUT DOWN	355		pušćiś	pušćiś 
+800	10-9-222-1	7721342957779301	Lower Sorbian	lowe1385	to chop	CHOP	155		rubaś	rubaś 
+801	10-9-223-1	7721342640289565	Lower Sorbian	lowe1385	to stab	STAB TO DEATH	3189		štapiś	štapiś 
+802	10-9-23-1	7721342365908854	Lower Sorbian	lowe1385	the knife(2)	KNIFE	1352		hap(k)a	hap(k)a 
+803	10-9-24-1	7721342579821799	Lower Sorbian	lowe1385	the scissors or shears	SHEARS	356		nožyce	nožyce 
+804	10-9-25-1	7721342623285510	Lower Sorbian	lowe1385	the axe/ax	AXE	677		sekera	sekera 
+805	10-9-25-2	77213428437845	Lower Sorbian	lowe1385	the axe/ax	AXE	677		sekerc	sekerc 
+806	10-9-26-1	7721342783225285	Lower Sorbian	lowe1385	to break	BREAK (DESTROY OR GET DESTROYED)	680		złamaś	złamaś 
+807	10-9-261-1	7721342486658688	Lower Sorbian	lowe1385	broken	BROKEN (NOT WORKING)	3190		dokusow	dokusow 
+808	10-9-27-1	772134255999639	Lower Sorbian	lowe1385	to split	SPLIT	1437		kłojś	kłojś 
+809	10-9-28-1	7721342784892227	Lower Sorbian	lowe1385	to tear	TEAR (SHRED)	1735		ryś (2)	ryś (2) 
+810	10-9-83-1	7721342317783533	Lower Sorbian	lowe1385	the statue	STATUE	1002		statu(w)a	statu(w)a 
+811	10-9-29-1	7721342146930378	Lower Sorbian	lowe1385	to skin	PULL OFF (SKIN)	291		wodrěś	wodrěś 
+812	10-9-31-1	7721342255664158	Lower Sorbian	lowe1385	to rub	RUB	1449		šurowaś	šurowaś 
+813	10-9-32-1	7721342768439830	Lower Sorbian	lowe1385	to stretch	STRETCH	214		rozćěgnuś	rozćěgnuś 
+814	10-9-33-1	7721342642516124	Lower Sorbian	lowe1385	to pull	PULL	1455		śěgaś	śěgaś 
+815	10-9-34-1	7721342814863	Lower Sorbian	lowe1385	to spread out	SPREAD OUT	38		rozdźěliś	rozdźěliś 
+816	10-9-341-1	7721342110560976	Lower Sorbian	lowe1385	to hang up	HANG UP	357		powjesyś	powjesyś 
+817	10-9-342-1	7721342421238620	Lower Sorbian	lowe1385	to press	PRESS	1913		tłocyś	tłocyś 
+818	10-9-343-1	7721342739662377	Lower Sorbian	lowe1385	to squeeze	SQUEEZE	1414		prasowaś	prasowaś 
+819	10-9-343-2	7721342421238620	Lower Sorbian	lowe1385	to squeeze	SQUEEZE	1414		tłocyś	tłocyś 
+820	10-9-35-1	7721342371017336	Lower Sorbian	lowe1385	to pour	POUR	1487		laś	laś 
+821	10-9-36-1	7721342670618502	Lower Sorbian	lowe1385	to wash	WASH	1453		myś	myś 
+822	10-9-36-2	7721342927145249	Lower Sorbian	lowe1385	to wash	WASH	1453		pałkaś	pałkaś 
+823	10-9-37-1	7721342200787039	Lower Sorbian	lowe1385	to sweep	SWEEP	230		mjasć	mjasć 
+824	10-9-38-1	7721342457501622	Lower Sorbian	lowe1385	the broom	BROOM	245		chóžyšćo	chóžyšćo 
+825	10-9-422-1	7721342335719749	Lower Sorbian	lowe1385	the tool	TOOL	1361		rěd (1)	rěd (1) 
+826	10-9-43-1	7721342408653324	Lower Sorbian	lowe1385	the carpenter	CARPENTER	1042		twarc	twarc 
+827	10-9-44-1	7721342451065305	Lower Sorbian	lowe1385	to build	BUILD	1840		twariś	twariś 
+828	10-9-46-1	7721342882991681	Lower Sorbian	lowe1385	to bore	BORE	1501		wjerśeś	wjerśeś 
+829	10-9-461-1	772134286408486	Lower Sorbian	lowe1385	to hollow out	HOLLOW OUT	46		wužłobiś	wužłobiś 
+830	10-9-48-1	7721342528300244	Lower Sorbian	lowe1385	the saw	SAW	1948		piła	piła 
+831	10-9-49-1	7721342328198205	Lower Sorbian	lowe1385	the hammer	HAMMER	1481		klapac	klapac 
+832	10-9-5-1	7721342845994029	Lower Sorbian	lowe1385	the nail	NAIL (TOOL)	502		gózdź	gózdź 
+833	10-9-56-1	7721342453134263	Lower Sorbian	lowe1385	the glue	GLUE	1069		lim	lim 
+834	10-9-6-1	7721342597753863	Lower Sorbian	lowe1385	the blacksmith	BLACKSMITH	1001		kowal	kowal 
+835	10-9-61-1	7721342583015836	Lower Sorbian	lowe1385	to forge	FORGE	288		kowaś	kowaś 
+836	10-9-62-1	7721342238634810	Lower Sorbian	lowe1385	the anvil	ANVIL	1648		nakowa	nakowa 
+837	10-9-63-1	7721342371017336	Lower Sorbian	lowe1385	to cast	CAST	211		laś	laś 
+838	10-9-64-1	7721342934292638	Lower Sorbian	lowe1385	the gold	GOLD	1369		złoto	złoto 
+839	10-9-65-1	7721342952732698	Lower Sorbian	lowe1385	the silver	SILVER	759		slobro	slobro 
+840	10-9-66-1	7721342297595913	Lower Sorbian	lowe1385	the copper	COPPER	1825		kupor	kupor 
+841	10-9-67-1	7721342265164215	Lower Sorbian	lowe1385	the iron	IRON	621		zelezo	zelezo 
+842	10-9-68-1	7721342628099978	Lower Sorbian	lowe1385	the lead	LEAD (CHEMICAL ELEMENT)	627		wołoj	wołoj 
+843	10-9-69-1	7721342924326701	Lower Sorbian	lowe1385	the tin or tinplate	TIN OR TINPLATE	3217		cen	cen 
+844	10-9-71-1	7721342938223794	Lower Sorbian	lowe1385	the potter	POTTER	359		gjarncaŕ	gjarncaŕ 
+845	10-9-72-1	7721342321154103	Lower Sorbian	lowe1385	to mould/mold	MOLD	289		formowaś	formowaś 
+846	10-9-73-1	772134290423174	Lower Sorbian	lowe1385	the clay	CLAY	1399		glina	glina 
+847	10-9-74-1	7721342965527574	Lower Sorbian	lowe1385	the glass	GLASS	604		głažk	głažk 
+848	10-9-75-1	7721342799476922	Lower Sorbian	lowe1385	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		plasć	plasć 
+849	10-9-76-1	772134277450284	Lower Sorbian	lowe1385	the basket	BASKET	1539		kórb	kórb 
+850	10-9-77-1	7721342749966156	Lower Sorbian	lowe1385	the mat	MAT	195		mata	mata 
+851	10-9-771-1	7721342512865965	Lower Sorbian	lowe1385	the rug	RUG	292		tepich	tepich 
+852	10-9-771-2	7721342855590662	Lower Sorbian	lowe1385	the rug	RUG	292		pśestrěńc	pśestrěńc 
+853	10-9-79-1	7721342291653106	Lower Sorbian	lowe1385	the fan	FAN (OBJECT)	1971		machawka	machawka 
+854	10-9-791-1	7721342550103423	Lower Sorbian	lowe1385	to fan	FAN ACTION	360		machotaś	machotaś 
+855	10-9-81-1	7721342673304702	Lower Sorbian	lowe1385	to carve	CARVE	228		tšugaś	tšugaś 
+856	10-9-81-2	772134297210804	Lower Sorbian	lowe1385	to carve	CARVE	228		dłypaś	dłypaś 
+857	10-9-82-1	7721342552059346	Lower Sorbian	lowe1385	the sculptor	SCULPTOR	914		tśasaŕ	tśasaŕ 
+858	10-9-84-1	7721342994366215	Lower Sorbian	lowe1385	the chisel	CHISEL	1979		błosćo	błosćo 
+859	10-9-88-1	7721342580837153	Lower Sorbian	lowe1385	the paint	PAINT (PIGMENTS)	647		barwa	barwa 
+860	10-9-89-1	7721342898366593	Lower Sorbian	lowe1385	to paint	PAINTING	2001		barwiś	barwiś 
+861	10-9-89-2	7721342124048479	Lower Sorbian	lowe1385	to paint	PAINTING	2001		běliś	běliś 
+862	10-9-89-3	77213425103441	Lower Sorbian	lowe1385	to paint	PAINTING	2001		mólowaś	mólowaś 
+863	10-10-11-1	7721342794828847	Lower Sorbian	lowe1385	to move	MOVE	765		gibaś	gibaś 
+864	10-10-12-1	7721342876669367	Lower Sorbian	lowe1385	to turn	TURN	1588		wobrośiś	wobrośiś 
+865	10-10-13-1	7721342849915073	Lower Sorbian	lowe1385	to turn around	TURN (SOMETHING)	1445		wobrośiś se	wobrośiś se 
+866	10-10-14-1	7721342249157601	Lower Sorbian	lowe1385	to wrap	WRAP	1113		wiś	wiś 
+867	10-10-15-1	7721342413654096	Lower Sorbian	lowe1385	to roll	ROLL	827		kulaś	kulaś 
+868	10-10-15-2	7721342481905381	Lower Sorbian	lowe1385	to roll	ROLL	827		bulaś	bulaś 
+869	10-10-16-1	772134263991758	Lower Sorbian	lowe1385	to drop	DROP (SOMETHING)	2866		pušćiś	pušćiś 
+870	10-10-17-1	7721342882991681	Lower Sorbian	lowe1385	to twist	TWIST (AROUND)	3199		wjerśeś	wjerśeś 
+871	10-10-21-1	772134246071950	Lower Sorbian	lowe1385	to rise	RISE (MOVE UPWARDS)	568		schadaś	schadaś 
+872	10-10-22-1	772134250757807	Lower Sorbian	lowe1385	to raise or lift	LIFT	501		zwignuś	zwignuś 
+873	10-10-23-1	7721342430326377	Lower Sorbian	lowe1385	to fall	FALL	1280		padaś	padaś 
+874	10-10-24-1	7721342723198672	Lower Sorbian	lowe1385	to drip	DRIP (EMIT LIQUID)	2253		kapaś	kapaś 
+875	10-10-25-1	7721342188630161	Lower Sorbian	lowe1385	to throw	THROW	1456		chyśiś	chyśiś 
+876	10-10-252-1	7721342546001802	Lower Sorbian	lowe1385	to catch	CATCH	702		łapiś	łapiś 
+877	10-10-26-1	772134255996323	Lower Sorbian	lowe1385	to shake	SHAKE	1909		tśěsć	tśěsć 
+878	10-10-32-1	7721342912458199	Lower Sorbian	lowe1385	to flow	FLOW	2003		běžaś	běžaś 
+879	10-10-33-1	7721342383057720	Lower Sorbian	lowe1385	to sink	SINK (DESCEND)	1088		pódnuriś se	pódnuriś se 
+880	10-10-34-1	7721342474762041	Lower Sorbian	lowe1385	to float	FLOAT	1574		pławiś	pławiś 
+881	10-10-35-1	772134299575121	Lower Sorbian	lowe1385	to swim	SWIM	1439		plěś	plěś 
+882	10-10-351-1	7721342383057720	Lower Sorbian	lowe1385	to dive	DIVE	119		pódnuriś se	pódnuriś se 
+883	10-10-352-1	772134252564612	Lower Sorbian	lowe1385	to splash	SPLASH	365		kaliś	kaliś 
+884	10-10-36-1	7721342259085630	Lower Sorbian	lowe1385	to sail	SAIL	787		płachtowaś	płachtowaś 
+885	10-10-37-1	7721342541076704	Lower Sorbian	lowe1385	to fly	FLY (MOVE THROUGH AIR)	1441		lětaś	lětaś 
+886	10-10-38-1	7721342318761210	Lower Sorbian	lowe1385	to blow	BLOW (OF WIND)	175		duś	duś 
+887	10-10-41-1	7721342633608952	Lower Sorbian	lowe1385	to crawl	CRAWL	96		lězć	lězć 
+888	10-10-412-1	7721342928895999	Lower Sorbian	lowe1385	to kneel	KNEEL	66		kólenkowaś	kólenkowaś 
+889	10-10-413-1	772134284409063	Lower Sorbian	lowe1385	to crouch	CROUCH	296		kokacowaś	kokacowaś 
+890	10-10-42-1	7721342662535161	Lower Sorbian	lowe1385	to slide or slip	SLIP	1324		suwaś se	suwaś se 
+891	10-10-43-1	7721342702794699	Lower Sorbian	lowe1385	to jump	JUMP	1829		skokaś	skokaś 
+892	10-10-431-1	7721342391036424	Lower Sorbian	lowe1385	to kick	KICK	1135		kopaś	kopaś 
+893	10-10-44-1	7721342392304922	Lower Sorbian	lowe1385	to dance	DANCE	1879		rejowaś	rejowaś 
+894	10-10-45-1	7721342492437958	Lower Sorbian	lowe1385	to walk	WALK	1443		chójźiś	chójźiś 
+895	10-10-451-1	7721342345698715	Lower Sorbian	lowe1385	to limp	LIMP	366		klěcaś	klěcaś 
+896	10-10-451-2	772134283603135	Lower Sorbian	lowe1385	to limp	LIMP	366		hympliś	hympliś 
+897	10-10-46-1	7721342588774350	Lower Sorbian	lowe1385	to run	RUN	1519		ganjaś	ganjaś 
+898	10-10-47-1	7721342553207380	Lower Sorbian	lowe1385	to go	GO	695		hyś	hyś 
+899	10-10-47-2	7721342553950197	Lower Sorbian	lowe1385	to go	GO	695		jěś	jěś 
+900	10-10-471-1	7721342149154661	Lower Sorbian	lowe1385	to go up	GO UP (ASCEND)	705		górjej hyś	górjej hyś 
+901	10-10-472-1	7721342633608952	Lower Sorbian	lowe1385	to climb	CLIMB	1102		lězć	lězć 
+902	10-10-473-1	7721342252428539	Lower Sorbian	lowe1385	to go down	GO DOWN (DESCEND)	2014		dołoj hyš	dołoj hyš 
+903	10-10-474-1	7721342411766068	Lower Sorbian	lowe1385	to go out	GO OUT	1107		wen hyś	wen hyś 
+904	10-10-48-1	7721342571107845	Lower Sorbian	lowe1385	to come	COME	1446		pśiś	pśiś 
+905	10-10-481-1	7721342237798888	Lower Sorbian	lowe1385	to come back	COME BACK	581		wrośiś se	wrośiś se 
+906	10-10-481-2	7721342253963756	Lower Sorbian	lowe1385	to come back	COME BACK	581		slědk pśiś	slědk pśiś 
+907	10-10-49-1	7721342965359492	Lower Sorbian	lowe1385	to leave	LEAVE	1752		wótejś	wótejś 
+908	10-10-49-2	7721342569269227	Lower Sorbian	lowe1385	to leave	LEAVE	1752		pšec hyś	pšec hyś 
+909	10-10-491-1	7721342238964455	Lower Sorbian	lowe1385	to disappear	DISAPPEAR	485		minuś se	minuś se 
+910	10-10-51-1	7721342825546455	Lower Sorbian	lowe1385	to flee	FLEE	956		wuběgnuś	wuběgnuś 
+911	10-10-52-1	7721342990729232	Lower Sorbian	lowe1385	to follow	FOLLOW	1085		slědowaś	slědowaś 
+912	10-10-53-1	772134254920488	Lower Sorbian	lowe1385	to pursue	PURSUE	1047		pśeslědowaś	pśeslědowaś 
+913	10-10-55-1	7721342849612406	Lower Sorbian	lowe1385	to arrive	ARRIVE	1387		dojś (2)	dojś (2) 
+914	10-10-55-2	7721342571107845	Lower Sorbian	lowe1385	to arrive	ARRIVE	1387		pśiś	pśiś 
+915	10-10-56-1	7721342171977999	Lower Sorbian	lowe1385	to approach	APPROACH	1778		bližyś se	bližyś se 
+916	10-10-57-1	7721342315943488	Lower Sorbian	lowe1385	to enter	ENTER	749		nutś pśiś	nutś pśiś 
+917	10-10-57-2	7721342377825077	Lower Sorbian	lowe1385	to enter	ENTER	749		nutś hyś	nutś hyś 
+918	10-10-61-1	7721342449473616	Lower Sorbian	lowe1385	to carry	CARRY	700		njasć	njasć 
+919	10-10-62-1	7721342698170636	Lower Sorbian	lowe1385	to bring	BRING	692		pśinjasć	pśinjasć 
+920	10-10-63-1	7721342423114040	Lower Sorbian	lowe1385	to send	SEND	1127		pósłaś	pósłaś 
+921	10-10-64-1	7721342637006087	Lower Sorbian	lowe1385	to lead	LEAD (GUIDE)	43		wjasć	wjasć 
+922	10-10-65-1	7721342553950197	Lower Sorbian	lowe1385	to drive	DRIVE	741		jěś	jěś 
+923	10-10-66-1	7721342479807808	Lower Sorbian	lowe1385	to ride	RIDE	367		rejtowaś	rejtowaś 
+924	10-10-66-2	7721342668802479	Lower Sorbian	lowe1385	to ride	RIDE	367		jěchaś	jěchaś 
+925	10-10-67-1	772134290453407	Lower Sorbian	lowe1385	to push	PUSH	1452		starcyś	starcyś 
+926	10-10-71-1	7721342591181820	Lower Sorbian	lowe1385	the road	ROAD	667		droga	droga 
+927	10-10-72-1	7721342246458201	Lower Sorbian	lowe1385	the path	PATH	2252		sćažka	sćažka 
+928	10-10-74-1	7721342422168837	Lower Sorbian	lowe1385	the bridge	BRIDGE	1011		móst	móst 
+929	10-10-75-1	772134249203160	Lower Sorbian	lowe1385	the cart or wagon	CART	122		wóz	wóz 
+930	10-10-75-2	7721342720416226	Lower Sorbian	lowe1385	the cart or wagon	CART	122		kara	kara 
+931	10-10-76-1	7721342680915124	Lower Sorbian	lowe1385	the wheel	WHEEL	710		kólaso	kólaso 
+932	10-10-77-1	7721342890715078	Lower Sorbian	lowe1385	the axle	AXLE	1769		wós	wós 
+933	10-10-78-1	7721342290815367	Lower Sorbian	lowe1385	the yoke	YOKE	14		kokula	kokula 
+934	10-10-81-1	7721342906325074	Lower Sorbian	lowe1385	the ship	SHIP	740		łoź	łoź 
+935	10-10-83-1	772134260646815	Lower Sorbian	lowe1385	the boat	BOAT	1844		cołn	cołn 
+936	10-10-831-1	7721342504138035	Lower Sorbian	lowe1385	the canoe	CANOE	1970		kanu	kanu 
+937	10-10-832-1	7721342859578430	Lower Sorbian	lowe1385	the outrigger	OUTRIGGER	416		wukładowak	wukładowak 
+938	10-10-84-1	7721342888607367	Lower Sorbian	lowe1385	the raft	RAFT	1664		pław(nja)	pław(nja) 
+939	10-10-84-2	7721342968010768	Lower Sorbian	lowe1385	the raft	RAFT	1664		flos	flos 
+940	10-10-85-1	772134232553625	Lower Sorbian	lowe1385	the oar	RUDDER	108		wjasło	wjasło 
+941	10-10-851-1	7721342794907054	Lower Sorbian	lowe1385	the paddle	PADDLE	234		padla	padla 
+942	10-10-852-1	7721342925445182	Lower Sorbian	lowe1385	to row	ROW	1849		wjasłowaś	wjasłowaś 
+943	10-10-86-1	7721342690606043	Lower Sorbian	lowe1385	the rudder	RUDDER	108		wóźidło	wóźidło 
+944	10-10-86-2	7721342689186788	Lower Sorbian	lowe1385	the rudder	RUDDER	108		štyr	štyr 
+945	10-10-87-1	7721342475030799	Lower Sorbian	lowe1385	the mast	MAST	184		sćažor	sćažor 
+946	10-10-87-2	7721342552767711	Lower Sorbian	lowe1385	the mast	MAST	184		mast	mast 
+947	10-10-88-1	772134220330311	Lower Sorbian	lowe1385	the sail	SAILCLOTH	786		płachta	płachta 
+948	10-10-89-1	7721342290815367	Lower Sorbian	lowe1385	the anchor	ANCHOR	1870		kokula	kokula 
+949	10-10-91-1	7721342108911282	Lower Sorbian	lowe1385	the port	PORT	610		pśistaw	pśistaw 
+950	10-10-91-2	7721342603648799	Lower Sorbian	lowe1385	the port	PORT	610		wustawadło	wustawadło 
+951	10-10-92-1	7721342965792431	Lower Sorbian	lowe1385	to land	LAND (DESCEND)	1922		pśistajiś (1)	pśistajiś (1) 
+952	10-10-92-2	7721342720248411	Lower Sorbian	lowe1385	to land	LAND (DESCEND)	1922		pśizemjeś	pśizemjeś 
+953	10-11-11-1	7721342479170401	Lower Sorbian	lowe1385	to have	HAVE	773		měś	měś 
+954	10-11-12-1	7721342800883376	Lower Sorbian	lowe1385	to own	OWN	684		wobsejźeś	wobsejźeś 
+955	10-11-13-1	7721342602783453	Lower Sorbian	lowe1385	to take	TAKE	1749		braś	braś 
+956	10-11-14-1	7721342608598184	Lower Sorbian	lowe1385	to grasp	SEIZE	855		pśimaś	pśimaś 
+957	10-11-15-1	7721342423140101	Lower Sorbian	lowe1385	to hold	HOLD	1448		źaržaś	źaržaś 
+958	10-11-16-1	7721342228677990	Lower Sorbian	lowe1385	to get	GET	694		dostaś	dostaś 
+959	10-11-16-2	7721342334347652	Lower Sorbian	lowe1385	to get	GET	694		krydnuś	krydnuś 
+960	10-11-17-1	7721342506346892	Lower Sorbian	lowe1385	to keep	KEEP	1477		wobchowaś	wobchowaś 
+961	10-11-18-1	7721342170180068	Lower Sorbian	lowe1385	the thing	THING	738		wěc	wěc 
+962	10-11-21-1	7721342365367556	Lower Sorbian	lowe1385	to give	GIVE	1447		daś	daś 
+963	10-11-22-1	7721342380424698	Lower Sorbian	lowe1385	to give back	GIVE BACK	85		slědk daś	slědk daś 
+964	10-11-22-2	7721342509083618	Lower Sorbian	lowe1385	to give back	GIVE BACK	85		wrośiś	wrośiś 
+965	10-11-24-1	7721342543218345	Lower Sorbian	lowe1385	to preserve	PRESERVE	1997		(z)warnowaś	(z)warnowaś 
+966	10-11-24-2	7721342328630773	Lower Sorbian	lowe1385	to preserve	PRESERVE	1997		zdźaržaś	zdźaržaś 
+967	10-11-25-1	7721342250531089	Lower Sorbian	lowe1385	to rescue	RESCUE	2008		wumožyś	wumožyś 
+968	10-11-27-1	7721342651657590	Lower Sorbian	lowe1385	to destroy	DESTROY	681		znicyś	znicyś 
+969	10-11-28-1	7721342760499106	Lower Sorbian	lowe1385	to injure	INJURE	44		zraniś	zraniś 
+970	10-11-31-1	7721342292070579	Lower Sorbian	lowe1385	to look for	LOOK FOR	1468		pytaś	pytaś 
+971	10-11-32-1	772134287676174	Lower Sorbian	lowe1385	to find	FIND	719		namakaś	namakaś 
+972	10-11-33-1	7721342960893631	Lower Sorbian	lowe1385	to lose	LOSE	1660		zgubiś	zgubiś 
+973	10-11-34-1	772134263991758	Lower Sorbian	lowe1385	to let go	LET GO OR SET FREE	1095		pušćiś	pušćiś 
+974	10-11-43-1	7721342267773329	Lower Sorbian	lowe1385	the money	MONEY	1559		pjenjeze	pjenjeze 
+975	10-11-44-1	77213423964337	Lower Sorbian	lowe1385	the coin	COIN	1867		pjenjez	pjenjez 
+976	10-11-51-1	7721342656694760	Lower Sorbian	lowe1385	rich	RICH	712		bogaty	bogaty 
+977	10-11-52-1	7721342969990499	Lower Sorbian	lowe1385	poor	POOR	1674		chudy	chudy 
+978	10-11-53-1	7721342546702188	Lower Sorbian	lowe1385	the beggar	BEGGAR	1934		pšosaŕ	pšosaŕ 
+979	10-11-54-1	7721342580863678	Lower Sorbian	lowe1385	stingy	STINGY	1774		póžytny	póžytny 
+980	10-11-61-1	7721342982306556	Lower Sorbian	lowe1385	to lend	LEND	582		póžycyś	póžycyś 
+981	10-11-62-1	7721342958015424	Lower Sorbian	lowe1385	to borrow	BORROW	1823		póžycyś sebje	póžycyś sebje 
+982	10-11-63-1	772134221131921	Lower Sorbian	lowe1385	to owe	OWE	369		dłužyś	dłužyś 
+983	10-11-64-1	7721342744466931	Lower Sorbian	lowe1385	the debt	DEBT	1914		dług	dług 
+984	10-11-65-1	7721342331050473	Lower Sorbian	lowe1385	to pay	PAY	718		płaśiś	płaśiś 
+985	10-11-66-1	7721342451133052	Lower Sorbian	lowe1385	the bill	BILL	1081		zliceńka	zliceńka 
+986	10-11-66-2	7721342756960030	Lower Sorbian	lowe1385	the bill	BILL	1081		rachninga	rachninga 
+987	10-11-69-1	77213423904060	Lower Sorbian	lowe1385	the tax	TAX	873		dank	dank 
+988	10-11-77-1	7721342415928954	Lower Sorbian	lowe1385	to hire	HIRE	856		pśistajiś (2)	pśistajiś (2) 
+989	10-11-78-1	7721342389657230	Lower Sorbian	lowe1385	the wages	WAGES	1122		myto	myto 
+990	10-11-78-2	7721342486925226	Lower Sorbian	lowe1385	the wages	WAGES	1122		lon	lon 
+991	10-11-79-1	7721342676729625	Lower Sorbian	lowe1385	to earn	EARN	733		zasłužyś	zasłužyś 
+992	10-11-81-1	7721342210535992	Lower Sorbian	lowe1385	to buy	BUY	1869		kupiś	kupiś 
+993	10-11-82-1	7721342698499275	Lower Sorbian	lowe1385	to sell	SELL	1571		pśedaś	pśedaś 
+994	10-11-83-1	7721342839390537	Lower Sorbian	lowe1385	to trade or barter	TRADE OR BARTER	2135		wikowaś	wikowaś 
+995	10-11-83-2	7721342383046476	Lower Sorbian	lowe1385	to trade or barter	TRADE OR BARTER	2135		handlowaś	handlowaś 
+996	10-11-83-3	7721342603584506	Lower Sorbian	lowe1385	to trade or barter	TRADE OR BARTER	2135		pśekupowaś	pśekupowaś 
+997	10-11-84-1	7721342785676219	Lower Sorbian	lowe1385	the merchant	MERCHANT	1082		wikowaŕ	wikowaŕ 
+998	10-11-84-2	7721342176466253	Lower Sorbian	lowe1385	the merchant	MERCHANT	1082		handlaŕ	handlaŕ 
+999	10-11-84-3	7721342835385732	Lower Sorbian	lowe1385	the merchant	MERCHANT	1082		pśekupowaŕ	pśekupowaŕ 
+1000	10-11-85-1	7721342346798797	Lower Sorbian	lowe1385	the market	MARKET	633		wiki	wiki 
+1001	10-11-85-2	7721342507361866	Lower Sorbian	lowe1385	the market	MARKET	633		mark	mark 
+1002	10-11-86-1	7721342232457060	Lower Sorbian	lowe1385	the shop/store	STORE	752		wobchod	wobchod 
+1003	10-11-86-2	7721342744565812	Lower Sorbian	lowe1385	the shop/store	STORE	752		loda	loda 
+1004	10-11-87-1	7721342426603850	Lower Sorbian	lowe1385	the price	PRICE	657		płaśizna	płaśizna 
+1005	10-11-87-2	7721342353214963	Lower Sorbian	lowe1385	the price	PRICE	657		płaśenje	płaśenje 
+1006	10-11-88-1	7721342211033309	Lower Sorbian	lowe1385	expensive	EXPENSIVE	1426		drogi	drogi 
+1007	10-11-89-1	7721342142245227	Lower Sorbian	lowe1385	cheap	CHEAP	1887		tuni	tuni 
+1008	10-11-89-2	7721342855443933	Lower Sorbian	lowe1385	cheap	CHEAP	1887		bylich	bylich 
+1009	10-11-91-1	772134279637518	Lower Sorbian	lowe1385	to share	SHARE	884		źěliś	źěliś 
+1010	10-11-92-1	7721342958771906	Lower Sorbian	lowe1385	to weigh	WEIGH	1098		wažyś	wažyś 
+1011	10-12-01-1	7721342603908680	Lower Sorbian	lowe1385	after	AFTER	1685		pó	pó 
+1012	10-12-011-1	7721342536527112	Lower Sorbian	lowe1385	behind	BEHIND	1686		slězy	slězy 
+1013	10-12-011-2	7721342457623954	Lower Sorbian	lowe1385	behind	BEHIND	1686		za	za 
+1014	10-12-02-1	772134251575072	Lower Sorbian	lowe1385	beside	BESIDE	1816		pśi	pśi 
+1015	10-12-03-1	7721342591907851	Lower Sorbian	lowe1385	down	DOWN	1326		dołoj	dołoj 
+1016	10-12-04-1	7721342778515583	Lower Sorbian	lowe1385	before	BEFORE	1882		pśed	pśed 
+1017	10-12-041-1	7721342778515583	Lower Sorbian	lowe1385	in front of	IN FRONT OF	1883		pśed	pśed 
+1018	10-12-05-1	7721342983362955	Lower Sorbian	lowe1385	inside	INSIDE	1606		nutśi	nutśi 
+1019	10-12-06-1	772134291131969	Lower Sorbian	lowe1385	outside	OUTSIDE	762		wence	wence 
+1020	10-12-07-1	7721342462937446	Lower Sorbian	lowe1385	under	BELOW OR UNDER	1485		pód	pód 
+1021	10-12-08-1	7721342942068881	Lower Sorbian	lowe1385	up	UP	1591		górjej	górjej 
+1022	10-12-11-1	7721342958991823	Lower Sorbian	lowe1385	the place	PLACE (POSITION)	723		město	město 
+1023	10-12-12-1	7721342648875559	Lower Sorbian	lowe1385	to put	PUT	998		połožyś	połožyś 
+1024	10-12-12-2	7721342899517849	Lower Sorbian	lowe1385	to put	PUT	998		scyniś	scyniś 
+1025	10-12-13-1	7721342773538953	Lower Sorbian	lowe1385	to sit	SIT	1416		sejźeś	sejźeś 
+1026	10-12-14-1	7721342581794649	Lower Sorbian	lowe1385	to lie down	LIE DOWN	215		lagnuś se	lagnuś se 
+1027	10-12-15-1	77213426916068	Lower Sorbian	lowe1385	to stand	STAND	1442		stojaś	stojaś 
+1028	10-12-16-1	7721342492368260	Lower Sorbian	lowe1385	to remain	REMAIN	987		wóstaś	wóstaś 
+1029	10-12-17-1	7721342118582536	Lower Sorbian	lowe1385	the remains	REMAINS	838		wušk	wušk 
+1030	10-12-17-2	7721342553219574	Lower Sorbian	lowe1385	the remains	REMAINS	838		zbytk	zbytk 
+1031	10-12-21-1	7721342170686163	Lower Sorbian	lowe1385	to gather	GATHER	7		zběraś	zběraś 
+1032	10-12-212-1	772134262054291	Lower Sorbian	lowe1385	to pick up	PICK UP	371		wuzběraś	wuzběraś 
+1033	10-12-213-1	7721342583709383	Lower Sorbian	lowe1385	to pile up	PILE UP	1576		kopiś	kopiś 
+1034	10-12-22-1	7721342253572125	Lower Sorbian	lowe1385	to join	JOIN	1743		zwězaś	zwězaś 
+1035	10-12-23-1	772134279637518	Lower Sorbian	lowe1385	to separate	SEPARATE	1359		źěliś	źěliś 
+1036	10-12-232-1	772134279637518	Lower Sorbian	lowe1385	to divide	DIVIDE	1119		źěliś	źěliś 
+1037	10-12-24-1	7721342746559533	Lower Sorbian	lowe1385	to open	OPEN	1156		wótcyniś	wótcyniś 
+1038	10-12-25-1	7721342508035135	Lower Sorbian	lowe1385	to shut	SHUT	1046		zacyniś	zacyniś 
+1039	10-12-26-1	7721342870599463	Lower Sorbian	lowe1385	to cover	COVER	761		pókšyś	pókšyś 
+1040	10-12-27-1	7721342895573893	Lower Sorbian	lowe1385	to hide	HIDE (CONCEAL)	602		chowaś	chowaś 
+1041	10-12-31-1	7721342184115337	Lower Sorbian	lowe1385	high	HIGH	1265		wusoki	wusoki 
+1042	10-12-32-1	7721342800838061	Lower Sorbian	lowe1385	low	LOW	721		niski	niski 
+1043	10-12-33-1	7721342505821007	Lower Sorbian	lowe1385	the top	TOP	1753		wjerašk	wjerašk 
+1044	10-12-33-2	772134240012810	Lower Sorbian	lowe1385	the top	TOP	1753		špic(a)	špic(a) 
+1045	10-12-34-1	7721342210926545	Lower Sorbian	lowe1385	the bottom	BOTTOM	690		dno	dno 
+1046	10-12-35-1	7721342191229967	Lower Sorbian	lowe1385	the end(1)	END (OF SPACE)	742		kóńc	kóńc 
+1047	10-12-352-1	7721342508350742	Lower Sorbian	lowe1385	pointed	POINTED	372		špicny	špicny 
+1048	10-12-353-1	7721342680138409	Lower Sorbian	lowe1385	the edge	EDGE	863		kšoma	kšoma 
+1049	10-12-36-1	7721342345100518	Lower Sorbian	lowe1385	the side	SIDE	682		bok	bok 
+1050	10-12-37-1	7721342799250079	Lower Sorbian	lowe1385	the middle	MIDDLE	1093		srjejź	srjejź 
+1051	10-12-41-1	7721342228839953	Lower Sorbian	lowe1385	right(1)	RIGHT	1019		pšawy (1)	pšawy (1) 
+1052	10-12-42-1	7721342761655629	Lower Sorbian	lowe1385	left	LEFT	244		lěwy	lěwy 
+1053	10-12-43-1	7721342366201655	Lower Sorbian	lowe1385	near	NEAR	1942		blisko	blisko 
+1054	10-12-44-1	7721342569583446	Lower Sorbian	lowe1385	far	FAR	1406		daloko	daloko 
+1055	10-12-45-1	7721342450719645	Lower Sorbian	lowe1385	the east	EAST	1877		pódzajtšo	pódzajtšo 
+1056	10-12-46-1	7721342676983675	Lower Sorbian	lowe1385	the west	WEST	1817		pódwjacor	pódwjacor 
+1057	10-12-47-1	7721342949745760	Lower Sorbian	lowe1385	the north	NORTH	1598		połnoc	połnoc 
+1058	10-12-48-1	7721342656621320	Lower Sorbian	lowe1385	the south	SOUTH	1595		pódpołdnjo	pódpołdnjo 
+1059	10-12-53-1	7721342506972400	Lower Sorbian	lowe1385	to grow	GROW	479		rosć	rosć 
+1060	10-12-54-1	7721342761149994	Lower Sorbian	lowe1385	to measure	MEASURE	1506		měriś	měriś 
+1061	10-12-541-1	7721342468243892	Lower Sorbian	lowe1385	the fathom	FATHOM	81		kloftaŕ	kloftaŕ 
+1062	10-12-55-1	7721342735279161	Lower Sorbian	lowe1385	big	BIG	1202		wjeliki	wjeliki 
+1063	10-12-56-1	7721342699254105	Lower Sorbian	lowe1385	small	SMALL	1246		mały	mały 
+1064	10-12-57-1	7721342872864682	Lower Sorbian	lowe1385	long	LONG	1203		dłujki	dłujki 
+1065	10-12-58-1	7721342184115337	Lower Sorbian	lowe1385	tall	TALL	711		wusoki	wusoki 
+1066	10-12-59-1	772134249641302	Lower Sorbian	lowe1385	short	SHORT	1645		krotki	krotki 
+1067	10-12-61-1	7721342634843756	Lower Sorbian	lowe1385	wide	WIDE	1243		šyroki	šyroki 
+1068	10-12-62-1	7721342214365741	Lower Sorbian	lowe1385	narrow	NARROW	1267		wuski	wuski 
+1069	10-12-63-1	7721342950184800	Lower Sorbian	lowe1385	thick	THICK	1244		tłusty	tłusty 
+1070	10-12-65-1	7721342520472962	Lower Sorbian	lowe1385	thin	THIN (OF SHAPE OF OBJECT)	2249		śańki	śańki 
+1071	10-12-67-1	7721342835897576	Lower Sorbian	lowe1385	deep	DEEP	1593		dłymoki	dłymoki 
+1072	10-12-68-1	7721342759331363	Lower Sorbian	lowe1385	shallow	SHALLOW	193		měłki	měłki 
+1073	10-12-71-1	7721342241292106	Lower Sorbian	lowe1385	flat	FLAT	1633		płony	płony 
+1074	10-12-73-1	7721342528696074	Lower Sorbian	lowe1385	straight	STRAIGHT	1404		rowny	rowny 
+1075	10-12-74-1	7721342243946685	Lower Sorbian	lowe1385	crooked	CROOKED	297		kśiwy	kśiwy 
+1076	10-12-75-1	7721342290815367	Lower Sorbian	lowe1385	the hook	HOOK	1071		kokula	kokula 
+1077	10-12-76-1	7721342770945812	Lower Sorbian	lowe1385	the corner	CORNER	192		rog (2)	rog (2) 
+1078	10-12-77-1	7721342604596162	Lower Sorbian	lowe1385	the cross	CROSS	1367		kśica	kśica 
+1079	10-12-78-1	772134219553095	Lower Sorbian	lowe1385	the square	SQUARE	850		kwadrat	kwadrat 
+1080	10-12-78-2	7721342405051779	Lower Sorbian	lowe1385	the square	SQUARE	850		styrirog	styrirog 
+1081	10-12-81-1	7721342946869902	Lower Sorbian	lowe1385	round	ROUND	1395		kulowaty	kulowaty 
+1082	10-12-82-1	7721342742354336	Lower Sorbian	lowe1385	the circle	CIRCLE	1467		koło	koło 
+1083	10-12-82-2	7721342122361103	Lower Sorbian	lowe1385	the circle	CIRCLE	1467		krejz	krejz 
+1084	10-12-83-1	7721342536077489	Lower Sorbian	lowe1385	the ball	BALL	1845		kula	kula 
+1085	10-12-84-1	772134223275287	Lower Sorbian	lowe1385	the line	LINE	1048		rěd (2)	rěd (2) 
+1086	10-12-84-2	7721342229212202	Lower Sorbian	lowe1385	the line	LINE	1048		smuga	smuga 
+1087	10-12-84-3	7721342835456922	Lower Sorbian	lowe1385	the line	LINE	1048		linija	linija 
+1088	10-12-85-1	7721342644067088	Lower Sorbian	lowe1385	the hole	HOLE	1667		źěra	źěra 
+1089	10-12-92-1	7721342592531275	Lower Sorbian	lowe1385	similar	SIMILAR	1558		pódobny	pódobny 
+1090	10-12-93-1	7721342327215471	Lower Sorbian	lowe1385	to change	CHANGE	1264		změniś	změniś 
+1091	10-13-1	7721342352866511	Lower Sorbian	lowe1385	zero	ZERO	1294		nula	nula 
+1092	10-13-01-1	7721342443581573	Lower Sorbian	lowe1385	one	ONE	1493		jaden	jaden 
+1093	10-13-02-1	7721342597959926	Lower Sorbian	lowe1385	two	TWO	1498		dwa	dwa 
+1094	10-13-03-1	7721342655737167	Lower Sorbian	lowe1385	three	THREE	492		tśi	tśi 
+1095	10-13-04-1	7721342251545333	Lower Sorbian	lowe1385	four	FOUR	1500		styri	styri 
+1096	10-13-05-1	7721342840232204	Lower Sorbian	lowe1385	five	FIVE	493		pěś	pěś 
+1097	10-13-06-1	7721342935824532	Lower Sorbian	lowe1385	six	SIX	1703		šesć	šesć 
+1098	10-13-07-1	7721342323540147	Lower Sorbian	lowe1385	seven	SEVEN	1704		sedym	sedym 
+1099	10-13-08-1	7721342751420638	Lower Sorbian	lowe1385	eight	EIGHT	1705		wósym	wósym 
+1100	10-13-09-1	772134296048008	Lower Sorbian	lowe1385	nine	NINE	1483		źewjeś	źewjeś 
+1101	10-13-1-1	7721342530393508	Lower Sorbian	lowe1385	ten	TEN	1515		zaseś	zaseś 
+1102	10-13-101-1	7721342524210467	Lower Sorbian	lowe1385	eleven	ELEVEN	1706		jadnasćo	jadnasćo 
+1103	10-13-102-1	772134231015034	Lower Sorbian	lowe1385	twelve	TWELVE	1707		dwanasćo	dwanasćo 
+1104	10-13-103-1	7721342151456970	Lower Sorbian	lowe1385	fifteen	FIFTEEN	1709		pěśnasćo	pěśnasćo 
+1105	10-13-104-1	7721342916364381	Lower Sorbian	lowe1385	twenty	TWENTY	1710		dwaźasća	dwaźasća 
+1106	10-13-105-1	7721342869886455	Lower Sorbian	lowe1385	a hundred	HUNDRED	1634		sto	sto 
+1107	10-13-105-2	7721342354029738	Lower Sorbian	lowe1385	a hundred	HUNDRED	1634		hundert	hundert 
+1108	10-13-106-1	7721342892697571	Lower Sorbian	lowe1385	a thousand	THOUSAND	1843		tysac	tysac 
+1109	10-13-106-2	7721342482463080	Lower Sorbian	lowe1385	a thousand	THOUSAND	1843		towzynt	towzynt 
+1110	10-13-107-1	7721342814530750	Lower Sorbian	lowe1385	to count	COUNT	1420		licyś	licyś 
+1111	10-13-14-1	7721342760703497	Lower Sorbian	lowe1385	all	ALL	98		wše	wše 
+1112	10-13-15-1	7721342983400836	Lower Sorbian	lowe1385	many	MANY	1198		wjele	wjele 
+1113	10-13-16-1	7721342837002223	Lower Sorbian	lowe1385	more	MORE	1992		wěcej	wěcej 
+1114	10-13-17-1	772134277681556	Lower Sorbian	lowe1385	few	FEW	1242		mało	mało 
+1115	10-13-18-1	7721342369857398	Lower Sorbian	lowe1385	enough	ENOUGH	1881		dosć	dosć 
+1116	10-13-181-1	7721342228041692	Lower Sorbian	lowe1385	some	SOME	1241		někotare	někotare 
+1117	10-13-181-2	7721342319132365	Lower Sorbian	lowe1385	some	SOME	1241		pór (1)	pór (1) 
+1118	10-13-19-1	7721342375761668	Lower Sorbian	lowe1385	the crowd	CROWD	2023		kopica	kopica 
+1119	10-13-19-2	7721342207998234	Lower Sorbian	lowe1385	the crowd	CROWD	2023		mań	mań 
+1120	10-13-21-1	7721342254720901	Lower Sorbian	lowe1385	full	FULL	1429		połny	połny 
+1121	10-13-22-1	7721342694670940	Lower Sorbian	lowe1385	empty	EMPTY	1624		prozny	prozny 
+1122	10-13-23-1	7721342978066170	Lower Sorbian	lowe1385	the part	PART	779		źěl	źěl 
+1123	10-13-24-1	7721342281063673	Lower Sorbian	lowe1385	the half	HALF	816		połojca	połojca 
+1124	10-13-33-1	7721342253338951	Lower Sorbian	lowe1385	only	ONLY	1580		jano	jano 
+1125	10-13-34-1	7721342657562934	Lower Sorbian	lowe1385	first	FIRST	728		prědny	prědny 
+1126	10-13-35-1	7721342747801879	Lower Sorbian	lowe1385	last	LAST (FINAL)	1529		slědny	slědny 
+1127	10-13-36-1	7721342477582094	Lower Sorbian	lowe1385	second	SECOND	1384		drugi	drugi 
+1128	10-13-37-1	7721342164296895	Lower Sorbian	lowe1385	the pair	PAIR	1888		pór (2)	pór (2) 
+1129	10-13-38-1	772134285098311	Lower Sorbian	lowe1385	twice/two times	TWICE	1546		dwójcy	dwójcy 
+1130	10-13-42-1	7721342487876720	Lower Sorbian	lowe1385	third	THIRD	1859		tśeśi	tśeśi 
+1131	10-13-44-1	7721342726246663	Lower Sorbian	lowe1385	three times	THREE TIMES	417		tśi raze	tśi raze 
+1132	10-14-11-1	7721342373121170	Lower Sorbian	lowe1385	the time	TIME	892		cas	cas 
+1133	10-14-12-1	7721342811024162	Lower Sorbian	lowe1385	the age	AGE	1789		starstwo	starstwo 
+1134	10-14-13-1	7721342339496169	Lower Sorbian	lowe1385	new	NEW	1231		nowy	nowy 
+1135	10-14-14-1	7721342415542666	Lower Sorbian	lowe1385	young	YOUNG	1207		młody	młody 
+1136	10-14-15-1	7721342399253699	Lower Sorbian	lowe1385	old	OLD	1229		stary	stary 
+1137	10-14-16-1	77213422132907	Lower Sorbian	lowe1385	early	EARLY	672		rano	rano 
+1138	10-14-16-2	7721342642317968	Lower Sorbian	lowe1385	early	EARLY	672		jěsno	jěsno 
+1139	10-14-17-1	772134283248113	Lower Sorbian	lowe1385	late	LATE	477		pózny	pózny 
+1140	10-14-18-1	772134271683676	Lower Sorbian	lowe1385	now	NOW	1376		něto	něto 
+1141	10-14-19-1	77213427548909	Lower Sorbian	lowe1385	immediately	IMMEDIATELY	1963		ned	ned 
+1142	10-14-21-1	7721342661113544	Lower Sorbian	lowe1385	fast	FAST	1631		malsny	malsny 
+1143	10-14-21-2	7721342659314781	Lower Sorbian	lowe1385	fast	FAST	1631		spěšny	spěšny 
+1144	10-14-22-1	7721342395509115	Lower Sorbian	lowe1385	slow	SLOW	701		pómały	pómały 
+1145	10-14-23-1	7721342878433410	Lower Sorbian	lowe1385	to hurry	HURRY	754		chwataś	chwataś 
+1146	10-14-24-1	7721342217531615	Lower Sorbian	lowe1385	to be late	BE LATE	425		wopózdźiś se	wopózdźiś se 
+1147	10-14-25-1	7721342381746327	Lower Sorbian	lowe1385	to begin	BEGIN	1806		chopiś	chopiś 
+1148	10-14-252-1	7721342329272282	Lower Sorbian	lowe1385	to last	LAST (ENDURE)	1186		traś	traś 
+1149	10-14-252-2	7721342578108350	Lower Sorbian	lowe1385	to last	LAST (ENDURE)	1186		warnowaś	warnowaś 
+1150	10-14-26-1	7721342191229967	Lower Sorbian	lowe1385	the end(2)	END (OF TIME)	743		kóńc	kóńc 
+1151	10-14-27-1	7721342459860428	Lower Sorbian	lowe1385	to finish	FINISH	1766		kóńcyś	kóńcyś 
+1152	10-14-28-1	7721342941819478	Lower Sorbian	lowe1385	to cease	CEASE	1928		pśestaś	pśestaś 
+1153	10-14-29-1	7721342754317153	Lower Sorbian	lowe1385	ready	READY	790		gótowy	gótowy 
+1154	10-14-31-1	7721342479951992	Lower Sorbian	lowe1385	always	ALWAYS	1676		pśecej	pśecej 
+1155	10-14-32-1	7721342712851580	Lower Sorbian	lowe1385	often	OFTEN	1852		cesto	cesto 
+1156	10-14-33-1	7721342155630497	Lower Sorbian	lowe1385	sometimes	SOMETIMES	1544		wótergi	wótergi 
+1157	10-14-331-1	7721342691779714	Lower Sorbian	lowe1385	soon	SOON	703		skóro	skóro 
+1158	10-14-332-1	7721342977306374	Lower Sorbian	lowe1385	for a long time	FOR A LONG TIME	418		dłujko	dłujko 
+1159	10-14-34-1	7721342435160826	Lower Sorbian	lowe1385	never	NEVER	1656		nigdy	nigdy 
+1160	10-14-34-2	7721342149230239	Lower Sorbian	lowe1385	never	NEVER	1656		žednje	žednje 
+1161	10-14-35-1	7721342731279244	Lower Sorbian	lowe1385	again	AGAIN	204		zasej	zasej 
+1162	10-14-41-1	7721342776460864	Lower Sorbian	lowe1385	the day(1)	DAY (24 HOURS)	1260		źeń	źeń 
+1163	10-14-42-1	7721342234997637	Lower Sorbian	lowe1385	the night	NIGHT	1233		noc	noc 
+1164	10-14-43-1	7721342839818688	Lower Sorbian	lowe1385	the dawn	DAWN	729		switanje	switanje 
+1165	10-14-44-1	7721342274067765	Lower Sorbian	lowe1385	the morning	MORNING	1339		zajtšo	zajtšo 
+1166	10-14-45-1	7721342395843796	Lower Sorbian	lowe1385	the midday	MIDDAY	12		połdnjo	połdnjo 
+1167	10-14-451-1	7721342486985155	Lower Sorbian	lowe1385	the afternoon	AFTERNOON	1807		wótpołdnjo	wótpołdnjo 
+1168	10-14-46-1	7721342805536328	Lower Sorbian	lowe1385	the evening	EVENING	1629		wjacor	wjacor 
+1169	10-14-47-1	7721342487019662	Lower Sorbian	lowe1385	today	TODAY	1283		źinsa	źinsa 
+1170	10-14-48-1	7721342715968123	Lower Sorbian	lowe1385	tomorrow	TOMORROW	1329		witśe	witśe 
+1171	10-14-481-1	7721342637262619	Lower Sorbian	lowe1385	the day after tomorrow	DAY AFTER TOMORROW	1179		pśezwitśe	pśezwitśe 
+1172	10-14-49-1	7721342446506551	Lower Sorbian	lowe1385	yesterday	YESTERDAY	1174		cora	cora 
+1173	10-14-491-1	7721342754440334	Lower Sorbian	lowe1385	the day before yesterday	DAY BEFORE YESTERDAY	1180		pśedcora	pśedcora 
+1174	10-14-51-1	7721342825986684	Lower Sorbian	lowe1385	the hour	HOUR	1353		góźina	góźina 
+1175	10-14-51-2	7721342985943447	Lower Sorbian	lowe1385	the hour	HOUR	1353		štunda	štunda 
+1176	10-14-53-1	7721342874690480	Lower Sorbian	lowe1385	the clock	CLOCK	1323		zeger	zeger 
+1177	10-14-61-1	7721342149007632	Lower Sorbian	lowe1385	the week	WEEK	1469		tyźeń	tyźeń 
+1178	10-14-62-1	7721342580310744	Lower Sorbian	lowe1385	Sunday	SUNDAY	1699		njeźela	njeźela 
+1179	10-14-63-1	772134243758865	Lower Sorbian	lowe1385	Monday	MONDAY	1697		pónjeźele	pónjeźele 
+1180	10-14-64-1	772134222428657	Lower Sorbian	lowe1385	Tuesday	TUESDAY	1695		wałtora	wałtora 
+1181	10-14-65-1	772134212609745	Lower Sorbian	lowe1385	Wednesday	WEDNESDAY	1694		srjoda	srjoda 
+1182	10-14-66-1	7721342223091985	Lower Sorbian	lowe1385	Thursday	THURSDAY	1693		stwórtk	stwórtk 
+1183	10-14-67-1	772134274641338	Lower Sorbian	lowe1385	Friday	FRIDAY	1692		pětk	pětk 
+1184	10-14-68-1	772134224756899	Lower Sorbian	lowe1385	Saturday	SATURDAY	1700		sobota	sobota 
+1185	10-14-71-1	7721342255598555	Lower Sorbian	lowe1385	the month	MONTH	1370		mjasec	mjasec 
+1186	10-14-73-1	7721342508680274	Lower Sorbian	lowe1385	the year	YEAR	1226		lěto	lěto 
+1187	10-14-74-1	7721342257428694	Lower Sorbian	lowe1385	the winter	WINTER	1471		zyma	zyma 
+1188	10-14-75-1	7721342504683048	Lower Sorbian	lowe1385	the spring(2)	SPRINGTIME	1537		nalěśe	nalěśe 
+1189	10-14-76-1	7721342756335762	Lower Sorbian	lowe1385	the summer	SUMMER	1342		lěśe	lěśe 
+1190	10-14-77-1	7721342238098200	Lower Sorbian	lowe1385	the autumn/fall	AUTUMN	1276		nazyma	nazyma 
+1191	10-14-78-1	772134217561256	Lower Sorbian	lowe1385	the season	SEASON	691		lětny cas	lětny cas 
+1192	10-15-21-1	7721342321674646	Lower Sorbian	lowe1385	to smell(1)	SMELL (STINK)	1587		wónjaś	wónjaś 
+1193	10-15-89-1	7721342717540878	Lower Sorbian	lowe1385	wrinkled	WRINKLED	380		ropaty	ropaty 
+1194	10-15-212-1	7721342365748532	Lower Sorbian	lowe1385	to sniff	SNIFF	375		nuchaś	nuchaś 
+1195	10-15-22-1	7721342286541450	Lower Sorbian	lowe1385	to smell(2)	SMELL (PERCEIVE)	1586		cuś	cuś 
+1196	10-15-25-1	7721342646900344	Lower Sorbian	lowe1385	fragrant	FRAGRANT	376		wónjaty	wónjaty 
+1197	10-15-26-1	7721342175971951	Lower Sorbian	lowe1385	stinking	STINKING	42		smjerźecy	smjerźecy 
+1198	10-15-31-1	7721342745994749	Lower Sorbian	lowe1385	to taste	TASTE (SOMETHING)	21		słoźeś	słoźeś 
+1199	10-15-31-2	772134220075616	Lower Sorbian	lowe1385	to taste	TASTE (SOMETHING)	21		šmekowaś	šmekowaś 
+1200	10-15-35-1	7721342331971867	Lower Sorbian	lowe1385	sweet	SWEET	717		słodki	słodki 
+1201	10-15-36-1	7721342820413938	Lower Sorbian	lowe1385	salty	SALTY	1091		słony	słony 
+1202	10-15-37-1	7721342327557473	Lower Sorbian	lowe1385	bitter	BITTER	887		górki	górki 
+1203	10-15-38-1	7721342428213271	Lower Sorbian	lowe1385	sour	SOUR	1906		kisały	kisały 
+1204	10-15-41-1	772134217818570	Lower Sorbian	lowe1385	to hear	HEAR	1408		słyšaś	słyšaś 
+1205	10-15-42-1	7721342345009547	Lower Sorbian	lowe1385	to listen	LISTEN	1608		słuchaś	słuchaś 
+1206	10-15-44-1	7721342446486375	Lower Sorbian	lowe1385	the sound or noise	SOUND OR NOISE	1811		zuk	zuk 
+1207	10-15-44-2	7721342916264923	Lower Sorbian	lowe1385	the sound or noise	SOUND OR NOISE	1811		šum (2)	šum (2) 
+1208	10-15-45-1	7721342325489474	Lower Sorbian	lowe1385	loud	LOUD	377		głosny	głosny 
+1209	10-15-46-1	7721342961631956	Lower Sorbian	lowe1385	quiet	QUIET	1314		śichy	śichy 
+1210	10-15-51-1	772134259898841	Lower Sorbian	lowe1385	to see	SEE	1409		wiźeś	wiźeś 
+1211	10-15-52-1	7721342581383025	Lower Sorbian	lowe1385	to look	LOOK	1819		glědaś	glědaś 
+1212	10-15-55-1	7721342960404159	Lower Sorbian	lowe1385	to show	SHOW	1039		pokazaś	pokazaś 
+1213	10-15-56-1	7721342213260315	Lower Sorbian	lowe1385	to shine	SHINE	708		swěśiś	swěśiś 
+1214	10-15-57-1	7721342354202524	Lower Sorbian	lowe1385	bright	BRIGHT	679		swětły	swětły 
+1215	10-15-61-1	7721342580837153	Lower Sorbian	lowe1385	the colour/color	COLOR	1613		barwa	barwa 
+1216	10-15-62-1	7721342354202524	Lower Sorbian	lowe1385	light(2)	LIGHT (COLOR)	250		swětły	swětły 
+1217	10-15-63-1	7721342279183212	Lower Sorbian	lowe1385	dark	DARK	706		śamny	śamny 
+1218	10-15-64-1	7721342192399043	Lower Sorbian	lowe1385	white	WHITE	1335		běły	běły 
+1219	10-15-65-1	7721342636421851	Lower Sorbian	lowe1385	black	BLACK	163		carny	carny 
+1220	10-15-66-1	7721342773993232	Lower Sorbian	lowe1385	red	RED	156		cerwjeny	cerwjeny 
+1221	10-15-67-1	7721342578548180	Lower Sorbian	lowe1385	blue	BLUE	837		módry	módry 
+1222	10-15-68-1	7721342908783575	Lower Sorbian	lowe1385	green	GREEN	1425		zeleny	zeleny 
+1223	10-15-69-1	7721342678625588	Lower Sorbian	lowe1385	yellow	YELLOW	1424		žołty	žołty 
+1224	10-15-71-1	7721342130062744	Lower Sorbian	lowe1385	to touch	TOUCH	1892		tyknuś	tyknuś 
+1225	10-15-712-1	7721342265535973	Lower Sorbian	lowe1385	to pinch	PINCH	378		šćipaś	šćipaś 
+1226	10-15-72-1	772134293327456	Lower Sorbian	lowe1385	to feel	FEEL	1079		smasaś	smasaś 
+1227	10-15-74-1	7721342908503206	Lower Sorbian	lowe1385	hard	HARD	1884		twardy	twardy 
+1228	10-15-75-1	7721342382436273	Lower Sorbian	lowe1385	soft	SOFT	1856		měki	měki 
+1229	10-15-76-1	7721342174346814	Lower Sorbian	lowe1385	rough(1)	ROUGH	1923		gropny	gropny 
+1230	10-15-76-2	772134255088332	Lower Sorbian	lowe1385	rough(1)	ROUGH	1923		škropaty	škropaty 
+1231	10-15-77-1	7721342528696074	Lower Sorbian	lowe1385	smooth	SMOOTH	1234		rowny	rowny 
+1232	10-15-78-1	7721342685571074	Lower Sorbian	lowe1385	sharp	SHARP	1396		wótšy	wótšy 
+1233	10-15-79-1	7721342145176129	Lower Sorbian	lowe1385	blunt	BLUNT	379		tupy	tupy 
+1234	10-15-81-1	7721342145081625	Lower Sorbian	lowe1385	heavy	HEAVY	1210		śěžki	śěžki 
+1235	10-15-82-1	7721342276322809	Lower Sorbian	lowe1385	light(1)	LIGHT (WEIGHT)	1052		lažki	lažki 
+1236	10-15-83-1	7721342982522199	Lower Sorbian	lowe1385	wet	WET	1726		mokšy	mokšy 
+1237	10-15-84-1	7721342669413862	Lower Sorbian	lowe1385	dry	DRY	1398		suchy	suchy 
+1238	10-15-85-1	7721342463139710	Lower Sorbian	lowe1385	hot	HOT	1286		górucy	górucy 
+1239	10-15-851-1	7721342663162189	Lower Sorbian	lowe1385	warm	WARM	1232		śopły	śopły 
+1240	10-15-86-1	7721342605038101	Lower Sorbian	lowe1385	cold	COLD	1287		zymny	zymny 
+1241	10-15-87-1	7721342133474927	Lower Sorbian	lowe1385	clean	CLEAN	704		cysty	cysty 
+1242	10-15-88-1	7721342499305957	Lower Sorbian	lowe1385	dirty	DIRTY	1230		njerěšny	njerěšny 
+1243	10-15-88-2	7721342220321320	Lower Sorbian	lowe1385	dirty	DIRTY	1230		brudny	brudny 
+1244	10-16-11-1	7721342188940056	Lower Sorbian	lowe1385	the soul or spirit	SOUL	811		duša	duša 
+1245	10-16-15-1	7721342876951238	Lower Sorbian	lowe1385	surprised or astonished	SURPRISED	1572		pśechwatany	pśechwatany 
+1246	10-16-18-1	7721342570924110	Lower Sorbian	lowe1385	the good luck	GOOD LUCK	720		gluka	gluka 
+1247	10-16-19-1	7721342299604502	Lower Sorbian	lowe1385	the bad luck	BAD LUCK	56		njegluka	njegluka 
+1248	10-16-23-1	7721342561510298	Lower Sorbian	lowe1385	happy	HAPPY	1495		glucny	glucny 
+1249	10-16-23-2	7721342897832364	Lower Sorbian	lowe1385	happy	HAPPY	1495		radosny	radosny 
+1250	10-16-23-3	7721342174666631	Lower Sorbian	lowe1385	happy	HAPPY	1495		wjasoły	wjasoły 
+1251	10-16-25-1	7721342273000096	Lower Sorbian	lowe1385	to laugh	LAUGH	1355		smjaś se	smjaś se 
+1252	10-16-251-1	7721342494305732	Lower Sorbian	lowe1385	to smile	SMILE	1451		smjejkotaś se	smjejkotaś se 
+1253	10-16-26-1	7721342561733286	Lower Sorbian	lowe1385	to play	PLAY	1413		graś	graś 
+1254	10-16-27-1	7721342845322059	Lower Sorbian	lowe1385	to love	LOVE	923		lubowaś	lubowaś 
+1255	10-16-29-1	7721342657195426	Lower Sorbian	lowe1385	to kiss	KISS	578		póškaś	póškaś 
+1256	10-16-3-1	7721342832015859	Lower Sorbian	lowe1385	to embrace	EMBRACE	928		wobejmjeś	wobejmjeś 
+1257	10-16-31-1	7721342311076517	Lower Sorbian	lowe1385	the pain	PAIN	1783		ból	ból 
+1258	10-16-32-1	7721342823767241	Lower Sorbian	lowe1385	the grief	GRIEF	1668		tužyca	tužyca 
+1259	10-16-33-1	7721342690187687	Lower Sorbian	lowe1385	the anxiety	ANXIETY	1000		starosć	starosć 
+1260	10-16-34-1	7721342840889219	Lower Sorbian	lowe1385	to regret or be sorry	REGRET	1875		woblutowaś	woblutowaś 
+1261	10-16-35-1	7721342446821894	Lower Sorbian	lowe1385	the pity	PITY	1141		lutosć	lutosć 
+1262	10-16-37-1	7721342289046123	Lower Sorbian	lowe1385	to cry	CRY	1839		płakaś	płakaś 
+1263	10-16-38-1	7721342274996846	Lower Sorbian	lowe1385	the tear	TEAR (OF EYE)	1651		łdza	łdza 
+1264	10-16-39-1	7721342789160729	Lower Sorbian	lowe1385	to groan	GROAN	716		stukaś	stukaś 
+1265	10-16-39-2	7721342521931326	Lower Sorbian	lowe1385	to groan	GROAN	716		wajmerowaś	wajmerowaś 
+1266	10-16-41-1	7721342633874310	Lower Sorbian	lowe1385	to hate	HATE	1607		gramowaś	gramowaś 
+1267	10-16-42-1	7721342315106720	Lower Sorbian	lowe1385	the anger	ANGER	82		gniw	gniw 
+1268	10-16-44-1	7721342797695847	Lower Sorbian	lowe1385	the envy or jealousy	ENVY	40		zawisć	zawisć 
+1269	10-16-45-1	7721342579605360	Lower Sorbian	lowe1385	the shame	SHAME	1776		sromota	sromota 
+1270	10-16-48-1	7721342604248763	Lower Sorbian	lowe1385	proud	PROUD	174		gjardy	gjardy 
+1271	10-16-51-1	7721342706490416	Lower Sorbian	lowe1385	to dare	DARE	1779		wažyś se	wažyś se 
+1272	10-16-51-2	7721342180734243	Lower Sorbian	lowe1385	to dare	DARE	1779		wěriś se	wěriś se 
+1273	10-16-52-1	7721342376779274	Lower Sorbian	lowe1385	brave	BRAVE	3		skobodny	skobodny 
+1274	10-16-52-2	7721342974534640	Lower Sorbian	lowe1385	brave	BRAVE	3		zmužny	zmužny 
+1275	10-16-53-1	7721342910336162	Lower Sorbian	lowe1385	the fear	FEAR (FRIGHT)	781		tšach	tšach 
+1276	10-16-54-1	772134232733874	Lower Sorbian	lowe1385	the danger	DANGER	1810		tšachota	tšachota 
+1277	10-16-54-2	7721342910336162	Lower Sorbian	lowe1385	the danger	DANGER	1810		tšach	tšach 
+1278	10-16-62-1	7721342822309946	Lower Sorbian	lowe1385	to want	WANT	1784		póžedaś	póžedaś 
+1279	10-16-622-1	7721342870765970	Lower Sorbian	lowe1385	to choose	CHOOSE	1750		wubraś	wubraś 
+1280	10-16-63-1	7721342885064890	Lower Sorbian	lowe1385	to hope	HOPE (SOMETHING)	3212		naźejaś se	naźejaś se 
+1281	10-16-65-1	7721342413298726	Lower Sorbian	lowe1385	faithful	FAITHFUL	100		zwěrny	zwěrny 
+1282	10-16-66-1	7721342237916409	Lower Sorbian	lowe1385	true	TRUE	1657		wěrny	wěrny 
+1283	10-16-67-1	7721342156746037	Lower Sorbian	lowe1385	to lie(2)	LIE (MISLEAD)	601		łdgaś	łdgaś 
+1284	10-16-68-1	7721342183274892	Lower Sorbian	lowe1385	the deceit	DECEIT	13		wobšuda	wobšuda 
+1285	10-16-69-1	7721342955321344	Lower Sorbian	lowe1385	to forgive	FORGIVE	1528		wódaś	wódaś 
+1286	10-16-71-1	7721342617468607	Lower Sorbian	lowe1385	good	GOOD	1035		dobry	dobry 
+1287	10-16-72-1	7721342494229972	Lower Sorbian	lowe1385	bad	BAD	1292		zły	zły 
+1288	10-16-72-2	7721342960536100	Lower Sorbian	lowe1385	bad	BAD	1292		špatny	špatny 
+1289	10-16-73-1	7721342513866734	Lower Sorbian	lowe1385	right(2)	CORRECT (RIGHT)	1725		pšawy (2)	pšawy (2) 
+1290	10-16-74-1	772134220466461	Lower Sorbian	lowe1385	wrong	WRONG	1390		wopacny	wopacny 
+1291	10-16-74-2	7721342600998922	Lower Sorbian	lowe1385	wrong	WRONG	1390		njepšawy	njepšawy 
+1292	10-16-76-1	7721342200542641	Lower Sorbian	lowe1385	the fault	FAULT	134		wina	wina 
+1293	10-16-77-1	7721342185689097	Lower Sorbian	lowe1385	the mistake	MISTAKE	1293		zmólka	zmólka 
+1294	10-16-78-1	7721342344622191	Lower Sorbian	lowe1385	the blame	BLAME	381		pórok	pórok 
+1295	10-16-79-1	7721342582362926	Lower Sorbian	lowe1385	the praise	PRAISE	1687		chwalba	chwalba 
+1296	10-16-81-1	7721342452360034	Lower Sorbian	lowe1385	beautiful	BEAUTIFUL	1427		rědny	rědny 
+1297	10-16-81-2	7721342455120060	Lower Sorbian	lowe1385	beautiful	BEAUTIFUL	1427		pěkny	pěkny 
+1298	10-16-82-1	7721342388130034	Lower Sorbian	lowe1385	ugly	UGLY	1548		grozny	grozny 
+1299	10-16-83-1	7721342182163577	Lower Sorbian	lowe1385	greedy	GREEDY	2018		zekśěty	zekśěty 
+1300	10-16-84-1	7721342901067657	Lower Sorbian	lowe1385	clever	CLEVER	1310		mudry	mudry 
+1301	10-17-11-1	7721342862631299	Lower Sorbian	lowe1385	the mind	MIND	1562		rozym	rozym 
+1302	10-17-13-1	7721342302822781	Lower Sorbian	lowe1385	to think(1)	THINK (REFLECT)	1415		mysliś	mysliś 
+1303	10-17-14-1	7721342659969598	Lower Sorbian	lowe1385	to think(2)	THINK (BELIEVE)	1513		mysliś se	mysliś se 
+1304	10-17-14-2	7721342250866124	Lower Sorbian	lowe1385	to think(2)	THINK (BELIEVE)	1513		měniś	měniś 
+1305	10-17-15-1	7721342657769360	Lower Sorbian	lowe1385	to believe	BELIEVE	1890		wěriś	wěriś 
+1306	10-17-16-1	7721342131857159	Lower Sorbian	lowe1385	to understand	UNDERSTAND	1536		rozměś	rozměś 
+1307	10-17-17-1	7721342190558596	Lower Sorbian	lowe1385	to know	KNOW (SOMETHING)	1410		wěźeś	wěźeś 
+1308	10-17-171-1	7721342453300958	Lower Sorbian	lowe1385	to guess	GUESS	1932		gódaś	gódaś 
+1309	10-17-172-1	7721342519758783	Lower Sorbian	lowe1385	to imitate	IMITATE	117		napódobniś	napódobniś 
+1310	10-17-172-2	7721342767945002	Lower Sorbian	lowe1385	to imitate	IMITATE	117		imitěrowaś	imitěrowaś 
+1311	10-17-18-1	7721342330094251	Lower Sorbian	lowe1385	to seem	SEEM	1521		zdaś se	zdaś se 
+1312	10-17-19-1	7721342818538430	Lower Sorbian	lowe1385	the idea	IDEA	1609		ideja	ideja 
+1313	10-17-21-1	7721342901067657	Lower Sorbian	lowe1385	wise	WISE	698		mudry	mudry 
+1314	10-17-22-1	7721342152558406	Lower Sorbian	lowe1385	stupid	STUPID	1518		głupy	głupy 
+1315	10-17-23-1	7721342243238531	Lower Sorbian	lowe1385	mad	MAD	1899		błudny	błudny 
+1316	10-17-24-1	7721342245032429	Lower Sorbian	lowe1385	to learn	LEARN	504		wuknuś	wuknuś 
+1317	10-17-242-1	7721342322274418	Lower Sorbian	lowe1385	to study	STUDY	1929		študěrowaś	študěrowaś 
+1318	10-17-25-1	7721342634555217	Lower Sorbian	lowe1385	to teach	TEACH	709		wucyś	wucyś 
+1319	10-17-26-1	772134290360101	Lower Sorbian	lowe1385	the pupil	PUPIL (STUDENT)	753		wuknik	wuknik 
+1320	10-17-27-1	772134282504684	Lower Sorbian	lowe1385	the teacher	TEACHER	1038		ceptaŕ	ceptaŕ 
+1321	10-17-27-2	772134273224640	Lower Sorbian	lowe1385	the teacher	TEACHER	1038		wucabnik	wucabnik 
+1322	10-17-27-3	7721342884546611	Lower Sorbian	lowe1385	the teacher	TEACHER	1038		šulaŕ	šulaŕ 
+1323	10-17-28-1	7721342367523110	Lower Sorbian	lowe1385	the school	SCHOOL	673		šula	šula 
+1324	10-17-31-1	772134213504938	Lower Sorbian	lowe1385	to remember	REMEMBER	707		(do)pomnjeś se	(do)pomnjeś se 
+1325	10-17-32-1	7721342630072968	Lower Sorbian	lowe1385	to forget	FORGET	1523		zabyś	zabyś 
+1326	10-17-34-1	7721342573239419	Lower Sorbian	lowe1385	clear	CLEAR	989		jasny	jasny 
+1327	10-17-35-1	7721342340769111	Lower Sorbian	lowe1385	obscure	OBSCURE	1764		njejasny	njejasny 
+1328	10-17-36-1	7721342451735615	Lower Sorbian	lowe1385	secret	SECRET	1121		kšajźny	kšajźny 
+1329	10-17-36-2	7721342993925874	Lower Sorbian	lowe1385	secret	SECRET	1121		pótajmny	pótajmny 
+1330	10-17-37-1	7721342948354549	Lower Sorbian	lowe1385	certain	CERTAIN	509		wěsty	wěsty 
+1331	10-17-38-1	7721342625456812	Lower Sorbian	lowe1385	to explain	EXPLAIN	1626		wujasniś	wujasniś 
+1332	10-17-41-1	7721342452683596	Lower Sorbian	lowe1385	the intention	INTENTION	1162		wótglěd	wótglěd 
+1333	10-17-41-2	7721342351894772	Lower Sorbian	lowe1385	the intention	INTENTION	1162		zaměr	zaměr 
+1334	10-17-41-3	7721342584662331	Lower Sorbian	lowe1385	the intention	INTENTION	1162		cil	cil 
+1335	10-17-42-1	7721342682902249	Lower Sorbian	lowe1385	the cause	CAUSE	860		pśicyna	pśicyna 
+1336	10-17-42-2	772134291771636	Lower Sorbian	lowe1385	the cause	CAUSE	860		grunt	grunt 
+1337	10-17-42-3	7721342295010483	Lower Sorbian	lowe1385	the cause	CAUSE	860		zawina	zawina 
+1338	10-17-43-1	7721342297204303	Lower Sorbian	lowe1385	the doubt	DOUBT	1308		cwibel	cwibel 
+1339	10-17-44-1	7721342748820970	Lower Sorbian	lowe1385	to suspect	SUSPECT	1841		gódaś se	gódaś se 
+1340	10-17-441-1	7721342413896247	Lower Sorbian	lowe1385	to betray	BETRAY	1902		pśeraźiś	pśeraźiś 
+1341	10-17-45-1	7721342670642629	Lower Sorbian	lowe1385	the need or necessity	NEED (NOUN)	643		pótrjeba	pótrjeba 
+1342	10-17-45-2	7721342133390497	Lower Sorbian	lowe1385	the need or necessity	NEED (NOUN)	643		notnosć	notnosć 
+1343	10-17-45-3	7721342535567363	Lower Sorbian	lowe1385	the need or necessity	NEED (NOUN)	643		trěbnosć	trěbnosć 
+1344	10-17-46-1	7721342906141069	Lower Sorbian	lowe1385	easy	EASY	686		jadnory	jadnory 
+1345	10-17-47-1	7721342145081625	Lower Sorbian	lowe1385	difficult	DIFFICULT	584		śěžki	śěžki 
+1346	10-17-48-1	7721342678978103	Lower Sorbian	lowe1385	to try	TRY	1812		wopytaś	wopytaś 
+1347	10-17-49-1	7721342190914909	Lower Sorbian	lowe1385	the manner	MANNER	488		wašnja	wašnja 
+1348	10-17-49-2	7721342859538953	Lower Sorbian	lowe1385	the manner	MANNER	488		part	part 
+1349	10-17-49-3	772134284783786	Lower Sorbian	lowe1385	the manner	MANNER	488		wiza	wiza 
+1350	10-17-51-1	7721342519872344	Lower Sorbian	lowe1385	and	AND	1577		a	a 
+1351	10-17-52-1	7721342936433975	Lower Sorbian	lowe1385	because	BECAUSE	1157		dokulaž	dokulaž 
+1352	10-17-53-1	7721342519111472	Lower Sorbian	lowe1385	if	IF	1459		gaž	gaž 
+1353	10-17-54-1	7721342735577074	Lower Sorbian	lowe1385	or	OR	1014		abo	abo 
+1354	10-17-55-1	7721342499388862	Lower Sorbian	lowe1385	yes	YES	1268		jo	jo 
+1355	10-17-56-1	7721342721235492	Lower Sorbian	lowe1385	no	NO	1269		ně	ně 
+1356	10-17-61-1	7721342566429788	Lower Sorbian	lowe1385	how?	HOW	1239		kak?	kak? 
+1357	10-17-62-1	7721342944971658	Lower Sorbian	lowe1385	how many?	HOW MANY	822		wjele?	wjele? 
+1358	10-17-63-1	7721342944971658	Lower Sorbian	lowe1385	how much?	HOW MUCH	531		wjele?	wjele? 
+1359	10-17-64-1	7721342817357929	Lower Sorbian	lowe1385	what?	WHAT	1236		co?	co? 
+1360	10-17-65-1	7721342154202776	Lower Sorbian	lowe1385	when?	WHEN	1238		ga?	ga? 
+1361	10-17-66-1	7721342654513766	Lower Sorbian	lowe1385	where?	WHERE	1237		źo?	źo? 
+1362	10-17-67-1	7721342858603859	Lower Sorbian	lowe1385	which?	WHICH	727		kótary?	kótary? 
+1363	10-17-68-1	7721342669469911	Lower Sorbian	lowe1385	who?	WHO	1235		chto?	chto? 
+1364	10-17-69-1	7721342715704041	Lower Sorbian	lowe1385	why?	WHY	1270		cogodla?	cogodla? 
+1365	10-18-11-1	7721342642879230	Lower Sorbian	lowe1385	the voice	VOICE	1363		głos	głos 
+1366	10-18-12-1	7721342349066950	Lower Sorbian	lowe1385	to sing	SING	1261		spiwaś	spiwaś 
+1367	10-18-13-1	772134271535358	Lower Sorbian	lowe1385	to shout	SHOUT	715		drěś se	drěś se 
+1368	10-18-13-2	7721342407449244	Lower Sorbian	lowe1385	to shout	SHOUT	715		wołaś	wołaś 
+1369	10-18-15-1	7721342104251007	Lower Sorbian	lowe1385	to whisper	WHISPER	55		šepotaś	šepotaś 
+1370	10-18-16-1	7721342565311262	Lower Sorbian	lowe1385	to mumble	MUMBLE	128		borkotaś	borkotaś 
+1371	10-18-17-1	7721342120333154	Lower Sorbian	lowe1385	to whistle	WHISTLE	1025		šwicaś	šwicaś 
+1372	10-18-18-1	7721342443731343	Lower Sorbian	lowe1385	to shriek	SHRIEK	298		kwicaś	kwicaś 
+1373	10-18-19-1	7721342942755035	Lower Sorbian	lowe1385	to howl	HOWL	526		wuś	wuś 
+1374	10-18-21-1	7721342188641580	Lower Sorbian	lowe1385	to speak or talk	SPEAK	1623		powědaś	powědaś 
+1375	10-18-211-1	772134276536658	Lower Sorbian	lowe1385	to stutter or stammer	STUTTER	1866		jěkotaś	jěkotaś 
+1376	10-18-22-1	7721342204044326	Lower Sorbian	lowe1385	to say	SAY	1458		groniś	groniś 
+1377	10-18-221-1	7721342882496283	Lower Sorbian	lowe1385	to tell	TELL	1711		wulicowaś	wulicowaś 
+1378	10-18-222-1	7721342196052189	Lower Sorbian	lowe1385	the speech	SPEECH	1115		nagrono	nagrono 
+1379	10-18-23-1	7721342775072977	Lower Sorbian	lowe1385	to be silent	BE SILENT	48		mjelcaś	mjelcaś 
+1380	10-18-24-1	7721342828231688	Lower Sorbian	lowe1385	the language	LANGUAGE	1307		rěc	rěc 
+1381	10-18-26-1	7721342755942650	Lower Sorbian	lowe1385	the word	WORD	1599		słowo	słowo 
+1382	10-18-28-1	7721342818814611	Lower Sorbian	lowe1385	the name	NAME	1405		mě	mě 
+1383	10-18-31-1	7721342319008823	Lower Sorbian	lowe1385	to ask(1)	ASK (INQUIRE)	1309		pšašaś	pšašaś 
+1384	10-18-32-1	7721342970463814	Lower Sorbian	lowe1385	to answer	ANSWER	1275		wótgroniś	wótgroniś 
+1385	10-18-33-1	7721342449560329	Lower Sorbian	lowe1385	to admit	ADMIT	2022		pśiwdaś	pśiwdaś 
+1386	10-18-34-1	7721342852532532	Lower Sorbian	lowe1385	to deny	DENY	755		prěś	prěś 
+1387	10-18-35-1	7721342329747558	Lower Sorbian	lowe1385	to ask(2)	ASK (REQUEST)	1828		pšosyś	pšosyś 
+1388	10-18-36-1	7721342193262618	Lower Sorbian	lowe1385	to promise	PROMISE	1675		lubiś	lubiś 
+1389	10-18-37-1	7721342756281847	Lower Sorbian	lowe1385	to refuse	REFUSE	49		wótpokazaś	wótpokazaś 
+1390	10-18-38-1	7721342290999264	Lower Sorbian	lowe1385	to forbid	FORBID	83		zakazaś	zakazaś 
+1391	10-18-39-1	7721342538422852	Lower Sorbian	lowe1385	to scold	SCOLD	299		pórokowaś	pórokowaś 
+1392	10-18-39-2	7721342954971823	Lower Sorbian	lowe1385	to scold	SCOLD	299		mjenaś	mjenaś 
+1393	10-18-39-3	7721342166972047	Lower Sorbian	lowe1385	to scold	SCOLD	299		todlowaś	todlowaś 
+1394	10-18-39-4	7721342508517415	Lower Sorbian	lowe1385	to scold	SCOLD	299		šumpowaś	šumpowaś 
+1395	10-18-39-5	7721342382586730	Lower Sorbian	lowe1385	to scold	SCOLD	299		šćokaś	šćokaś 
+1396	10-18-41-1	7721342407449244	Lower Sorbian	lowe1385	to call(1)	CALL	1084		wołaś	wołaś 
+1397	10-18-42-1	7721342204044326	Lower Sorbian	lowe1385	to call(2)	CALL BY NAME	180		groniś	groniś 
+1398	10-18-43-1	7721342613152924	Lower Sorbian	lowe1385	to announce	ANNOUNCE	9		pśipowěźeś	pśipowěźeś 
+1399	10-18-44-1	7721342763636137	Lower Sorbian	lowe1385	to threaten	THREATEN	1192		grozyś	grozyś 
+1400	10-18-45-1	7721342743686270	Lower Sorbian	lowe1385	to boast	BOAST	101		wjelicaś se	wjelicaś se 
+1401	10-18-45-2	7721342919687213	Lower Sorbian	lowe1385	to boast	BOAST	101		prolowaś se	prolowaś se 
+1402	10-18-51-1	772134244035515	Lower Sorbian	lowe1385	to write	WRITE	1672		pisaś	pisaś 
+1403	10-18-52-1	7721342251324768	Lower Sorbian	lowe1385	to read	READ	724		cytaś	cytaś 
+1404	10-18-52-2	7721342910151874	Lower Sorbian	lowe1385	to read	READ	724		lazowaś	lazowaś 
+1405	10-18-56-1	7721342211996685	Lower Sorbian	lowe1385	the paper	PAPER	648		papjera	papjera 
+1406	10-18-57-1	7721342402124343	Lower Sorbian	lowe1385	the pen	PEN	794		pisak	pisak 
+1407	10-18-61-1	7721342867766809	Lower Sorbian	lowe1385	the book	BOOK	963		knigły	knigły 
+1408	10-18-67-1	7721342381277545	Lower Sorbian	lowe1385	the poet	POET	1045		basnikaŕ	basnikaŕ 
+1409	10-18-71-1	7721342433895775	Lower Sorbian	lowe1385	the flute	FLUTE	777		flejta	flejta 
+1410	10-18-72-1	7721342660132037	Lower Sorbian	lowe1385	the drum	DRUM	908		bubon	bubon 
+1411	10-18-73-1	7721342533150426	Lower Sorbian	lowe1385	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		trompeta	trompeta 
+1412	10-18-74-1	7721342115462055	Lower Sorbian	lowe1385	the rattle	RATTLE	300		šćerkotawa	šćerkotawa 
+1413	10-19-11-1	7721342764793474	Lower Sorbian	lowe1385	the country	COUNTRY	1300		kraj	kraj 
+1414	10-19-11-2	7721342696087963	Lower Sorbian	lowe1385	the country	COUNTRY	1300		land	land 
+1415	10-19-12-1	7721342248788979	Lower Sorbian	lowe1385	the native country	NATIVE COUNTRY	89		wóścny kraj	wóścny kraj 
+1416	10-19-12-2	7721342691100686	Lower Sorbian	lowe1385	the native country	NATIVE COUNTRY	89		domownja	domownja 
+1417	10-19-15-1	7721342958991823	Lower Sorbian	lowe1385	the town	TOWN	1391		město	město 
+1418	10-19-16-1	7721342676780531	Lower Sorbian	lowe1385	the village	VILLAGE	930		wjas	wjas 
+1419	10-19-17-1	7721342424129425	Lower Sorbian	lowe1385	the boundary	BOUNDARY	1010		granica	granica 
+1420	10-19-17-2	7721342892322643	Lower Sorbian	lowe1385	the boundary	BOUNDARY	1010		mroka	mroka 
+1421	10-19-21-1	7721342871061996	Lower Sorbian	lowe1385	the people	PEOPLE	789		lud	lud 
+1422	10-19-23-1	7721342791125911	Lower Sorbian	lowe1385	the clan	CLAN	302		rod	rod 
+1423	10-19-24-1	7721342479462094	Lower Sorbian	lowe1385	the chieftain	CHIEFTAIN	301		wjednik	wjednik 
+1424	10-19-25-1	7721342695008380	Lower Sorbian	lowe1385	the walking stick	WALKING STICK	1296		kij	kij 
+1425	10-19-31-1	7721342874866710	Lower Sorbian	lowe1385	to rule or govern	RULE	1846		kněžyś se	kněžyś se 
+1426	10-19-31-2	7721342836061335	Lower Sorbian	lowe1385	to rule or govern	RULE	1846		regěrowaś	regěrowaś 
+1427	10-19-32-1	7721342535772353	Lower Sorbian	lowe1385	the king	KING	1508		kral	kral 
+1428	10-19-33-1	7721342515048877	Lower Sorbian	lowe1385	the queen	QUEEN	1306		kralowka	kralowka 
+1429	10-19-36-1	7721342259185337	Lower Sorbian	lowe1385	the noble	NOBLE	482		zemjan	zemjan 
+1430	10-19-37-1	7721342301271665	Lower Sorbian	lowe1385	the citizen	CITIZEN	1032		bergaŕ	bergaŕ 
+1431	10-19-41-1	7721342855553355	Lower Sorbian	lowe1385	the master	MASTER	383		kněz	kněz 
+1432	10-19-42-1	772134271076421	Lower Sorbian	lowe1385	the slave	SLAVE	812		škloba	škloba 
+1433	10-19-42-2	772134247761304	Lower Sorbian	lowe1385	the slave	SLAVE	812		njewólnik	njewólnik 
+1434	10-19-43-1	7721342929828937	Lower Sorbian	lowe1385	the servant	SERVANT	255		słužabnik	słužabnik 
+1435	10-19-44-1	7721342847568231	Lower Sorbian	lowe1385	the freeman	FREEMAN	384		lichotny luź	lichotny luź 
+1436	10-19-44-2	7721342624731818	Lower Sorbian	lowe1385	the freeman	FREEMAN	384		fryj luź	fryj luź 
+1437	10-19-45-1	7721342119972226	Lower Sorbian	lowe1385	to command or order	ORDER	1128		pśikazaś	pśikazaś 
+1438	10-19-46-1	7721342345009547	Lower Sorbian	lowe1385	to obey	OBEY	1635		słuchaś	słuchaś 
+1439	10-19-47-1	7721342243831785	Lower Sorbian	lowe1385	to permit	PERMIT	1003		zwóliś	zwóliś 
+1440	10-19-51-1	7721342702088231	Lower Sorbian	lowe1385	the friend	FRIEND	1325		pśijaśel	pśijaśel 
+1441	10-19-52-1	7721342568473950	Lower Sorbian	lowe1385	the enemy	ENEMY	1358		winik	winik 
+1442	10-19-54-1	7721342900892693	Lower Sorbian	lowe1385	the neighbour	NEIGHBOUR	1332		sused	sused 
+1443	10-19-55-1	7721342987318408	Lower Sorbian	lowe1385	the stranger	STRANGER	791		cuzbnik	cuzbnik 
+1444	10-19-55-2	7721342145182177	Lower Sorbian	lowe1385	the stranger	STRANGER	791		cuzy	cuzy 
+1445	10-19-56-1	7721342174279019	Lower Sorbian	lowe1385	the guest	GUEST	1782		gósć	gósć 
+1446	10-19-57-1	7721342722432674	Lower Sorbian	lowe1385	the host	HOST	1545		gósćinaŕ	gósćinaŕ 
+1447	10-19-58-1	7721342419549286	Lower Sorbian	lowe1385	to help	HELP	1897		pómoc	pómoc 
+1448	10-19-59-1	7721342645549455	Lower Sorbian	lowe1385	to prevent	PREVENT	1550		zajźowaś	zajźowaś 
+1449	10-19-59-2	7721342294333769	Lower Sorbian	lowe1385	to prevent	PREVENT	1550		zadoraś	zadoraś 
+1450	10-19-61-1	7721342355570027	Lower Sorbian	lowe1385	the custom	CUSTOM	1747		nałog	nałog 
+1451	10-19-62-1	7721342654770052	Lower Sorbian	lowe1385	the quarrel	QUARREL	1848		zwada	zwada 
+1452	10-19-63-1	7721342566726194	Lower Sorbian	lowe1385	the plot	PLOT	2024		zapśisega	zapśisega 
+1453	10-19-65-1	7721342932083107	Lower Sorbian	lowe1385	to meet	MEET	1831		zmakaś (se)	zmakaś (se) 
+1454	10-19-65-2	7721342851419293	Lower Sorbian	lowe1385	to meet	MEET	1831		trjefiś	trjefiś 
+1455	10-19-72-1	772134243991991	Lower Sorbian	lowe1385	the prostitute	PROSTITUTE	1610		prostitutka	prostitutka 
+1456	10-19-72-2	772134275092333	Lower Sorbian	lowe1385	the prostitute	PROSTITUTE	1610		hura	hura 
+1457	10-20-11-1	7721342682635941	Lower Sorbian	lowe1385	to fight	FIGHT	1423		wójowaś	wójowaś 
+1458	10-20-13-1	7721342608247861	Lower Sorbian	lowe1385	the war or battle	BATTLE	579		wójna	wójna 
+1459	10-20-14-1	7721342198224652	Lower Sorbian	lowe1385	the peace	PEACE	1338		měr	měr 
+1460	10-20-15-1	7721342757305486	Lower Sorbian	lowe1385	the army	ARMY	1561		wójsko	wójsko 
+1461	10-20-15-2	7721342711342962	Lower Sorbian	lowe1385	the army	ARMY	1561		armeja	armeja 
+1462	10-20-17-1	7721342871375044	Lower Sorbian	lowe1385	the soldier	SOLDIER	1941		wójak	wójak 
+1463	10-20-21-1	7721342401032185	Lower Sorbian	lowe1385	the weapons	WEAPONS	951		broń	broń 
+1464	10-20-22-1	7721342653248774	Lower Sorbian	lowe1385	the club	CLUB	1763		heja	heja 
+1465	10-20-23-1	7721342680825522	Lower Sorbian	lowe1385	the sling	SLING	387		prokadło	prokadło 
+1466	10-20-24-1	7721342552813778	Lower Sorbian	lowe1385	the bow	BOW	994		pšužyna	pšužyna 
+1467	10-20-25-1	772134293444527	Lower Sorbian	lowe1385	the arrow	ARROW	977		klek	klek 
+1468	10-20-25-2	7721342524797082	Lower Sorbian	lowe1385	the arrow	ARROW	977		šypa	šypa 
+1469	10-20-26-1	7721342346964902	Lower Sorbian	lowe1385	the spear	SPEAR	945		kopje	kopje 
+1470	10-20-27-1	7721342653195992	Lower Sorbian	lowe1385	the sword	SWORD	1535		mjac	mjac 
+1471	10-20-28-1	772134288341400	Lower Sorbian	lowe1385	the gun	GUN	1566		flinta	flinta 
+1472	10-20-28-2	7721342106791488	Lower Sorbian	lowe1385	the gun	GUN	1566		buška	buška 
+1473	10-20-28-3	7721342828907025	Lower Sorbian	lowe1385	the gun	GUN	1566		stśělba	stśělba 
+1474	10-20-31-1	7721342181687007	Lower Sorbian	lowe1385	the armour	ARMOUR	1061		bronidło	bronidło 
+1475	10-20-33-1	772134262633611	Lower Sorbian	lowe1385	the helmet	HELMET	1680		nagłowk	nagłowk 
+1476	10-20-34-1	7721342631069184	Lower Sorbian	lowe1385	the shield	SHIELD	1064		šćit	šćit 
+1477	10-20-35-1	7721342535947183	Lower Sorbian	lowe1385	the fortress	FORTRESS	1938		twardnica	twardnica 
+1478	10-20-35-2	7721342603765022	Lower Sorbian	lowe1385	the fortress	FORTRESS	1938		festunga	festunga 
+1479	10-20-35-3	7721342672072460	Lower Sorbian	lowe1385	the fortress	FORTRESS	1938		twarźizna	twarźizna 
+1480	10-20-36-1	7721342393708512	Lower Sorbian	lowe1385	the tower	TOWER	1671		torm	torm 
+1481	10-20-41-1	7721342734933989	Lower Sorbian	lowe1385	the victory	VICTORY	783		dobyśe	dobyśe 
+1482	10-20-42-1	7721342406276447	Lower Sorbian	lowe1385	the defeat	DEFEAT	782		póbiśe	póbiśe 
+1483	10-20-43-1	7721342394733415	Lower Sorbian	lowe1385	the attack	ATTACK	722		napad	napad 
+1484	10-20-44-1	772134284775828	Lower Sorbian	lowe1385	to defend	DEFEND	1330		zašćitaś	zašćitaś 
+1485	10-20-45-1	7721342589015862	Lower Sorbian	lowe1385	to retreat	RETREAT	421		copaś	copaś 
+1486	10-20-46-1	7721342266088482	Lower Sorbian	lowe1385	to surrender	SURRENDER	1696		powdaś se	powdaś se 
+1487	10-20-47-1	772134233351540	Lower Sorbian	lowe1385	the captive or prisoner	PRISONER	1072		popajźony	popajźony 
+1488	10-20-47-2	772134254168472	Lower Sorbian	lowe1385	the captive or prisoner	PRISONER	1072		fangowany	fangowany 
+1489	10-20-471-1	7721342115151423	Lower Sorbian	lowe1385	the guard	GUARD	1940		stražnik	stražnik 
+1490	10-20-471-2	7721342866524601	Lower Sorbian	lowe1385	the guard	GUARD	1940		wajchtaŕ	wajchtaŕ 
+1491	10-20-48-1	7721342827628448	Lower Sorbian	lowe1385	the booty	BOOTY	1022		rubjeństwo	rubjeństwo 
+1492	10-20-48-2	7721342256571111	Lower Sorbian	lowe1385	the booty	BOOTY	1022		bejta	bejta 
+1493	10-20-49-1	7721342571115280	Lower Sorbian	lowe1385	the ambush	AMBUSH	65		zakšyśe	zakšyśe 
+1494	10-20-49-2	7721342641609212	Lower Sorbian	lowe1385	the ambush	AMBUSH	65		pasle	pasle 
+1495	10-20-51-1	7721342901062230	Lower Sorbian	lowe1385	the fisherman	FISHERMAN	1858		rybaŕ	rybaŕ 
+1496	10-20-52-1	7721342895425658	Lower Sorbian	lowe1385	the fishhook	FISHHOOK	1074		kokulka	kokulka 
+1497	10-20-53-1	7721342307997706	Lower Sorbian	lowe1385	the fishing line	FISHING LINE	19		(wuźeńska) šnora	(wuźeńska) šnora 
+1498	10-20-54-1	7721342101429943	Lower Sorbian	lowe1385	the fishnet	FISHNET	388		rybacny seś	rybacny seś 
+1499	10-20-55-1	7721342357206412	Lower Sorbian	lowe1385	the fish trap	FISH TRAP	389		bubańc	bubańc 
+1500	10-20-55-2	7721342833280240	Lower Sorbian	lowe1385	the fish trap	FISH TRAP	389		tunka	tunka 
+1501	10-20-56-1	7721342771053019	Lower Sorbian	lowe1385	the bait	BAIT	2013		łapotka	łapotka 
+1502	10-20-61-1	7721342958926746	Lower Sorbian	lowe1385	to hunt	HUNT	1435		góńtwowaś	góńtwowaś 
+1503	10-20-62-1	7721342670135000	Lower Sorbian	lowe1385	to shoot	SHOOT	1172		stśěliś	stśěliś 
+1504	10-20-63-1	7721342657295379	Lower Sorbian	lowe1385	to miss	MISS (A TARGET)	161		sfelowaś	sfelowaś 
+1505	10-20-64-1	7721342641609212	Lower Sorbian	lowe1385	the trap	TRAP (PITFALL)	1075		pasle	pasle 
+1506	10-20-65-1	7721342546001802	Lower Sorbian	lowe1385	to trap	TRAP (CATCH)	1170		łapiś	łapiś 
+1507	10-21-11-1	7721342293453816	Lower Sorbian	lowe1385	the law	LAW	1062		kazń	kazń 
+1508	10-21-15-1	7721342108774366	Lower Sorbian	lowe1385	the court	COURT	1068		sudnistwo	sudnistwo 
+1509	10-12-013-1	772134251575072	Lower Sorbian	lowe1385	at	AT	1461		pśi	pśi 
+1510	10-12-013-2	7721342999400281	Lower Sorbian	lowe1385	at	AT	1461		pla	pla 
+1511	10-21-16-1	7721342832885393	Lower Sorbian	lowe1385	to adjudicate	ADJUDICATE	1818		suźiś	suźiś 
+1512	10-21-17-1	7721342105223490	Lower Sorbian	lowe1385	the judgment	JUDGMENT	1067		wusud	wusud 
+1513	10-21-18-1	7721342151653053	Lower Sorbian	lowe1385	the judge	JUDGE	861		sudnik	sudnik 
+1514	10-21-21-1	7721342233370142	Lower Sorbian	lowe1385	the plaintiff	PLAINTIFF	2020		skjaržaŕ	skjaržaŕ 
+1515	10-21-22-1	7721342742560038	Lower Sorbian	lowe1385	the defendant	DEFENDANT	1034		pśeskjaržony	pśeskjaržony 
+1516	10-21-23-1	7721342393710290	Lower Sorbian	lowe1385	the witness	WITNESS	1144		znank	znank 
+1517	10-21-24-1	7721342419720132	Lower Sorbian	lowe1385	to swear	SWEAR	1939		pśisegaś	pśisegaś 
+1518	10-21-25-1	7721342331219085	Lower Sorbian	lowe1385	the oath	OATH	1712		pśisega	pśisega 
+1519	10-21-31-1	7721342808692302	Lower Sorbian	lowe1385	to accuse	ACCUSE	1814		pśeskjaržyś	pśeskjaržyś 
+1520	10-21-32-1	772134295578409	Lower Sorbian	lowe1385	to condemn	CONDEMN	484		zasuźiś	zasuźiś 
+1521	10-21-33-1	7721342441508466	Lower Sorbian	lowe1385	to convict	CONVICT	983		dopokazaś	dopokazaś 
+1522	10-21-34-1	7721342552204805	Lower Sorbian	lowe1385	to acquit	ACQUIT	988		wuwinowaś	wuwinowaś 
+1523	10-21-35-1	7721342765813652	Lower Sorbian	lowe1385	guilty	GUILTY	1682		winowaty	winowaty 
+1524	10-21-36-1	7721342816082610	Lower Sorbian	lowe1385	innocent	INNOCENT	90		njewinowaty	njewinowaty 
+1525	10-21-37-1	7721342618209597	Lower Sorbian	lowe1385	the penalty or punishment	PUNISHMENT	390		pokuta	pokuta 
+1526	10-21-37-2	7721342829946104	Lower Sorbian	lowe1385	the penalty or punishment	PUNISHMENT	390		štrofa	štrofa 
+1527	10-21-38-1	7721342523106211	Lower Sorbian	lowe1385	the fine	FINE (PENALTY)	218		pjenjezna pokuta	pjenjezna pokuta 
+1528	10-21-38-2	7721342413528528	Lower Sorbian	lowe1385	the fine	FINE (PENALTY)	218		pjenjezna štrofa	pjenjezna štrofa 
+1529	10-21-39-1	7721342959552890	Lower Sorbian	lowe1385	the prison	PRISON	1281		popajźeństwo	popajźeństwo 
+1530	10-21-42-1	7721342635003927	Lower Sorbian	lowe1385	the murder	MURDER	845		mordarstwo	mordarstwo 
+1531	10-21-43-1	7721342541909103	Lower Sorbian	lowe1385	the adultery	ADULTERY	902		łamanje manźelstwa	łamanje manźelstwa 
+1532	10-21-43-2	77213422540557	Lower Sorbian	lowe1385	the adultery	ADULTERY	902		ehebracharstwo	ehebracharstwo 
+1533	10-21-43-3	7721342106489470	Lower Sorbian	lowe1385	the adultery	ADULTERY	902		manźelstwołamanje	manźelstwołamanje 
+1534	10-21-44-1	7721342878274628	Lower Sorbian	lowe1385	the rape	RAPE	953		wótsromośenje	wótsromośenje 
+1535	10-21-46-1	7721342488244447	Lower Sorbian	lowe1385	the arson	ARSON	1889		pódpalowanje	pódpalowanje 
+1536	10-21-47-1	7721342292354148	Lower Sorbian	lowe1385	the perjury	PERJURY	1792		njepšawa pśisega	njepšawa pśisega 
+1537	10-21-51-1	7721342430656543	Lower Sorbian	lowe1385	to steal	STEAL	713		kšadnuś	kšadnuś 
+1538	10-21-52-1	7721342438875833	Lower Sorbian	lowe1385	the thief	THIEF	1160		złoźej	złoźej 
+1539	10-21-52-2	7721342237210890	Lower Sorbian	lowe1385	the thief	THIEF	1160		paduch	paduch 
+1540	10-22-11-1	7721342818146637	Lower Sorbian	lowe1385	the religion	RELIGION	661		religija	religija 
+1541	10-22-11-2	77213429741720	Lower Sorbian	lowe1385	the religion	RELIGION	661		nabóžnina	nabóžnina 
+1542	10-22-11-3	7721342401325883	Lower Sorbian	lowe1385	the religion	RELIGION	661		religion	religion 
+1543	10-22-12-1	772134219555510	Lower Sorbian	lowe1385	the god	DEITY	3231		bog	bog 
+1544	10-22-13-1	7721342722512000	Lower Sorbian	lowe1385	the temple	TEMPLE	911		tempel	tempel 
+1545	10-22-13-2	7721342744454949	Lower Sorbian	lowe1385	the temple	TEMPLE	911		cerkwja	cerkwja 
+1546	10-22-14-1	7721342603319504	Lower Sorbian	lowe1385	the altar	ALTAR	853		hołtaŕ	hołtaŕ 
+1547	10-22-15-1	7721342731333841	Lower Sorbian	lowe1385	the sacrifice	SACRIFICE	1103		wopor	wopor 
+1548	10-22-16-1	7721342445275076	Lower Sorbian	lowe1385	to worship	WORSHIP	257		namšu źaržaś	namšu źaržaś 
+1549	10-22-17-1	7721342852514321	Lower Sorbian	lowe1385	to pray	PRAY	24		bjatowaś	bjatowaś 
+1550	10-22-17-2	7721342662332051	Lower Sorbian	lowe1385	to pray	PRAY	24		módliś se	módliś se 
+1551	10-22-18-1	7721342790764104	Lower Sorbian	lowe1385	the priest	PRIEST	852		prjatkaŕ	prjatkaŕ 
+1552	10-22-18-2	7721342285228632	Lower Sorbian	lowe1385	the priest	PRIEST	852		faraŕ	faraŕ 
+1553	10-22-18-3	772134235462883	Lower Sorbian	lowe1385	the priest	PRIEST	852		mjeršnik	mjeršnik 
+1554	10-22-18-4	7721342192344060	Lower Sorbian	lowe1385	the priest	PRIEST	852		pop	pop 
+1555	10-22-19-1	7721342306260379	Lower Sorbian	lowe1385	holy	HOLY	1702		swěty	swěty 
+1556	10-22-22-1	7721342270632509	Lower Sorbian	lowe1385	to preach	PREACH	304		prjatkowaś	prjatkowaś 
+1557	10-22-23-1	7721342493859578	Lower Sorbian	lowe1385	to bless	BLESS	391		žognowaś	žognowaś 
+1558	10-22-24-1	7721342410986233	Lower Sorbian	lowe1385	to curse	CURSE	8		zaklinaś	zaklinaś 
+1559	10-22-26-1	7721342863754083	Lower Sorbian	lowe1385	to fast	ABSTAIN FROM FOOD	303		spóśiś se	spóśiś se 
+1560	10-22-31-1	7721342717947520	Lower Sorbian	lowe1385	the heaven	HEAVEN	1565		njebjo	njebjo 
+1561	10-22-32-1	7721342726023717	Lower Sorbian	lowe1385	the hell	HELL	878		hela	hela 
+1562	10-22-32-2	7721342530937662	Lower Sorbian	lowe1385	the hell	HELL	878		pjakło	pjakło 
+1563	10-22-35-1	7721342164800770	Lower Sorbian	lowe1385	the demon	DEMON	1973		cart	cart 
+1564	10-22-35-2	7721342847254268	Lower Sorbian	lowe1385	the demon	DEMON	1973		satan	satan 
+1565	10-22-35-3	7721342330110571	Lower Sorbian	lowe1385	the demon	DEMON	1973		zły duch	zły duch 
+1566	10-22-37-1	7721342268465838	Lower Sorbian	lowe1385	the idol	IDOL	1945		pśibog	pśibog 
+1567	10-22-42-1	7721342240166901	Lower Sorbian	lowe1385	the magic	MAGIC	392		chódośenje	chódośenje 
+1568	10-22-43-1	7721342170409569	Lower Sorbian	lowe1385	the sorcerer or witch	MAGICIAN	2137		chódota	chódota 
+1569	10-22-44-1	7721342776835438	Lower Sorbian	lowe1385	the fairy or elf	ELF OR FAIRY	3206		sonina	sonina 
+1570	10-22-45-1	7721342500811099	Lower Sorbian	lowe1385	the ghost	GHOST	1175		duch	duch 
+1571	10-22-47-1	7721342578398349	Lower Sorbian	lowe1385	the omen	OMEN	107		pśedznamje	pśedznamje 
+1572	10-22-47-2	7721342174412591	Lower Sorbian	lowe1385	the omen	OMEN	107		omen	omen 
+1573	10-23-1-1	7721342131910359	Lower Sorbian	lowe1385	the radio	RADIO	1315		radijo	radijo 
+1574	10-23-11-1	7721342565152873	Lower Sorbian	lowe1385	the television	TELEVISION	1788		telewizija	telewizija 
+1575	10-23-11-2	7721342605773583	Lower Sorbian	lowe1385	the television	TELEVISION	1788		fernzejn	fernzejn 
+1576	10-23-12-1	772134243509333	Lower Sorbian	lowe1385	the telephone	TELEPHONE	1379		telefon	telefon 
+1577	10-23-135-1	7721342473951603	Lower Sorbian	lowe1385	the motorcycle	MOTORCYCLE	638		motorske (kólaso)	motorske (kólaso) 
+1578	10-23-14-1	7721342174096346	Lower Sorbian	lowe1385	the car	CAR	1111		awto	awto 
+1579	10-23-15-1	7721342798478769	Lower Sorbian	lowe1385	the bus	BUS	1070		bus	bus 
+1580	10-23-16-1	7721342944868257	Lower Sorbian	lowe1385	the airplane	AIRPLANE	1597		lětadło	lětadło 
+1581	10-23-17-1	7721342743649788	Lower Sorbian	lowe1385	the electricity	ELECTRICITY	59		milina	milina 
+1582	10-23-17-2	7721342154780907	Lower Sorbian	lowe1385	the electricity	ELECTRICITY	59		štrom	štrom 
+1583	10-23-17-3	7721342363855594	Lower Sorbian	lowe1385	the electricity	ELECTRICITY	59		elektricita	elektricita 
+1584	10-23-175-1	7721342522025183	Lower Sorbian	lowe1385	the battery	BATTERY	662		baterija	baterija 
+1585	10-23-2-1	7721342372777833	Lower Sorbian	lowe1385	the hospital	HOSPITAL	616		chórownja	chórownja 
+1586	10-23-21-1	7721342552845625	Lower Sorbian	lowe1385	the nurse	NURSE	1104		chórobna sotša	chórobna sotša 
+1587	10-23-22-1	772134220360153	Lower Sorbian	lowe1385	the pill or tablet	PILL	395		tableta	tableta 
+1588	10-23-23-1	7721342930613693	Lower Sorbian	lowe1385	the injection	INJECTION	1805		šprica	šprica 
+1589	10-23-23-2	7721342496513382	Lower Sorbian	lowe1385	the injection	INJECTION	1805		sykawa	sykawa 
+1590	10-23-23-3	7721342542657523	Lower Sorbian	lowe1385	the injection	INJECTION	1805		injekcija	injekcija 
+1591	10-23-5-1	7721342576299799	Lower Sorbian	lowe1385	the tap/faucet	FAUCET	1488		(wódowy) kokotk	(wódowy) kokotk 
+1592	10-23-51-1	7721342864082489	Lower Sorbian	lowe1385	the sink	SINK (BASIN)	915		wašbeken	wašbeken 
+1593	10-23-51-2	7721342645865561	Lower Sorbian	lowe1385	the sink	SINK (BASIN)	915		myjnica	myjnica 
+1594	10-23-51-3	7721342844874874	Lower Sorbian	lowe1385	the sink	SINK (BASIN)	915		myśowa škla	myśowa škla 
+1595	10-23-52-1	7721342965508799	Lower Sorbian	lowe1385	the toilet	TOILET	219		toaleta	toaleta 
+1596	10-23-52-2	7721342273419049	Lower Sorbian	lowe1385	the toilet	TOILET	219		aptryt	aptryt 
+1597	10-23-53-1	7721342177730198	Lower Sorbian	lowe1385	the mattress	MATTRESS	105		matraca	matraca 
+1598	10-23-3-1	7721342419732690	Lower Sorbian	lowe1385	the government	GOVERNMENT	815		kněžarstwo	kněžarstwo 
+1599	10-23-3-2	7721342149381298	Lower Sorbian	lowe1385	the government	GOVERNMENT	815		regirunga	regirunga 
+1600	10-23-31-1	7721342742693036	Lower Sorbian	lowe1385	the president	PRESIDENT	899		prezident	prezident 
+1601	10-23-32-1	7721342196664082	Lower Sorbian	lowe1385	the minister	MINISTER	486		ministaŕ	ministaŕ 
+1602	10-23-33-1	7721342933140767	Lower Sorbian	lowe1385	the police	POLICE	656		policija	policija 
+1603	10-23-33-2	7721342594919495	Lower Sorbian	lowe1385	the police	POLICE	656		policaja	policaja 
+1604	10-23-34-1	7721342451134056	Lower Sorbian	lowe1385	the driver's license	DRIVER'S LICENSE	599		jězdna dowolnosć	jězdna dowolnosć 
+1605	10-23-34-2	7721342363132822	Lower Sorbian	lowe1385	the driver's license	DRIVER'S LICENSE	599		fireršejn	fireršejn 
+1606	10-23-37-1	7721342905621885	Lower Sorbian	lowe1385	the crime	CRIME	1066		złostnistwo	złostnistwo 
+1607	10-23-37-2	7721342211295384	Lower Sorbian	lowe1385	the crime	CRIME	1066		njestatk	njestatk 
+1608	10-23-38-1	772134290887587	Lower Sorbian	lowe1385	the election	ELECTION	240		wólba	wólba 
+1609	10-23-38-2	7721342614093681	Lower Sorbian	lowe1385	the election	ELECTION	240		wuzwólowanje	wuzwólowanje 
+1610	10-23-4-1	7721342720141475	Lower Sorbian	lowe1385	the post/mail	MAIL	167		post	post 
+1611	10-23-41-1	7721342999259077	Lower Sorbian	lowe1385	the postage stamp	POSTAGE STAMP	596		listowa znamka	listowa znamka 
+1612	10-23-41-2	7721342100588777	Lower Sorbian	lowe1385	the postage stamp	POSTAGE STAMP	596		brifmarka	brifmarka 
+1613	10-23-42-1	7721342225704104	Lower Sorbian	lowe1385	the letter	LETTER	1612		list	list 
+1614	10-23-44-1	7721342715474671	Lower Sorbian	lowe1385	the bank	BANK	1284		banka	banka 
+1615	10-23-54-1	772134266122437	Lower Sorbian	lowe1385	the tin/can	CAN	1051		tejza	tejza 
+1616	10-23-55-1	7721342443267320	Lower Sorbian	lowe1385	the screw	SCREW	1802		šruba	šruba 
+1617	10-23-555-1	7721342686091645	Lower Sorbian	lowe1385	the screwdriver	SCREWDRIVER	836		šrubowak	šrubowak 
+1618	10-23-555-2	7721342952737419	Lower Sorbian	lowe1385	the screwdriver	SCREWDRIVER	836		šrawbencihaŕ	šrawbencihaŕ 
+1619	10-23-56-1	7721342872539599	Lower Sorbian	lowe1385	the bottle	BOTTLE	1321		flaša	flaša 
+1620	10-23-565-1	7721342820070238	Lower Sorbian	lowe1385	the candy/sweets	CANDY	874		słodkosć	słodkosć 
+1621	10-23-24-1	7721342548194258	Lower Sorbian	lowe1385	the spectacles/glasses	SPECTACLES	1898		bryla	bryla 
+1622	10-23-57-1	7721342230841258	Lower Sorbian	lowe1385	the plastic	PLASTIC	654		plastika	plastika 
+1623	10-23-575-1	7721342581066035	Lower Sorbian	lowe1385	the bomb	BOMB	1804		bomba	bomba 
+1624	10-23-58-1	7721342885642186	Lower Sorbian	lowe1385	the workshop	WORKSHOP	1677		fabrika	fabrika 
+1625	10-23-58-2	7721342564630034	Lower Sorbian	lowe1385	the workshop	WORKSHOP	1677		gótnica	gótnica 
+1626	10-23-58-3	7721342239975494	Lower Sorbian	lowe1385	the workshop	WORKSHOP	1677		źěłarnja	źěłarnja 
+1627	10-23-58-4	7721342967223103	Lower Sorbian	lowe1385	the workshop	WORKSHOP	1677		zawod	zawod 
+1628	10-23-59-1	772134219179341	Lower Sorbian	lowe1385	the cigarette	CIGARETTE	969		cigareta	cigareta 
+1629	10-23-61-1	7721342341886296	Lower Sorbian	lowe1385	the calendar	CALENDAR	1967		kalendaŕ	kalendaŕ 
+1630	10-23-62-1	7721342442977452	Lower Sorbian	lowe1385	the film/movie	MOVIE	216		film	film 
+1631	10-23-63-1	7721342783975792	Lower Sorbian	lowe1385	the music	MUSIC	642		muzika	muzika 
+1632	10-23-64-1	7721342762436334	Lower Sorbian	lowe1385	the song	SONG	1096		spiw	spiw 
+1633	10-23-64-2	772134227594339	Lower Sorbian	lowe1385	the song	SONG	1096		štucka	štucka 
+1634	10-23-64-3	7721342892440993	Lower Sorbian	lowe1385	the song	SONG	1096		kjarliž	kjarliž 
+1635	10-23-6-1	7721342187865363	Lower Sorbian	lowe1385	the newspaper	NEWSPAPER	1298		casnik	casnik 
+1636	10-23-6-2	7721342175823438	Lower Sorbian	lowe1385	the newspaper	NEWSPAPER	1298		cajtunga	cajtunga 
+1637	10-23-385-1	7721342783403836	Lower Sorbian	lowe1385	the address	ADDRESS	591		adresa	adresa 
+1638	10-23-39-1	7721342956421975	Lower Sorbian	lowe1385	the number	NUMBER	1356		numer	numer 
+1639	10-23-39-2	7721342619975237	Lower Sorbian	lowe1385	the number	NUMBER	1356		cysło	cysło 
+1640	10-23-155-1	7721342612080597	Lower Sorbian	lowe1385	the train	TRAIN	900		śěg	śěg 
+1641	10-23-155-2	7721342528814996	Lower Sorbian	lowe1385	the train	TRAIN	900		cuk	cuk 
+1642	10-23-36-1	7721342318573514	Lower Sorbian	lowe1385	the birth certificate	BIRTH CERTIFICATE	397		wopismo naroźenja	wopismo naroźenja 
+1643	10-23-36-2	7721342705681739	Lower Sorbian	lowe1385	the birth certificate	BIRTH CERTIFICATE	397		geburtsurkunda	geburtsurkunda 
+1644	10-23-18-1	7721342889368440	Lower Sorbian	lowe1385	to brake	BRAKE	966		spinaś	spinaś 
+1645	10-23-18-2	772134275868628	Lower Sorbian	lowe1385	to brake	BRAKE	966		bremzowaś	bremzowaś 
+1646	10-23-195-1	7721342851543581	Lower Sorbian	lowe1385	the petroleum	PETROLEUM	650		wólej	wólej 
+1647	10-23-185-1	7721342845276100	Lower Sorbian	lowe1385	the motor	MOTOR	110		motor	motor 
+1648	10-23-19-1	7721342907320888	Lower Sorbian	lowe1385	the machine	MACHINE	144		mašina	mašina 
+1649	10-23-13-1	7721342680915124	Lower Sorbian	lowe1385	the bicycle	BICYCLE	747		kólaso	kólaso 
+1650	10-23-395-1	7721342591181820	Lower Sorbian	lowe1385	the street	STREET	1362		droga	droga 
+1651	10-19-445-1	7721342175625774	Lower Sorbian	lowe1385	to liberate	LIBERATE	37		wulichowaś	wulichowaś 
+1652	10-19-565-1	7721342739855571	Lower Sorbian	lowe1385	to invite	INVITE	1611		kazaś	kazaś 
+1653	10-19-565-2	7721342901879911	Lower Sorbian	lowe1385	to invite	INVITE	1611		pśepšosyś	pśepšosyś 
+1654	10-23-35-1	7721342258974594	Lower Sorbian	lowe1385	the license plate	LICENSE PLATE	1790		numerowa toflicka	numerowa toflicka 
+1655	10-23-35-2	7721342621264573	Lower Sorbian	lowe1385	the license plate	LICENSE PLATE	1790		cysłowa toflicka	cysłowa toflicka 
+1656	10-23-35-3	7721342998102588	Lower Sorbian	lowe1385	the license plate	LICENSE PLATE	1790		numeršilt	numeršilt 
+1657	10-23-43-1	772134297336259	Lower Sorbian	lowe1385	the postcard	POSTCARD	1497		postowa kórtka	postowa kórtka 
+1658	10-23-43-2	7721342712188499	Lower Sorbian	lowe1385	the postcard	POSTCARD	1497		postkórta	postkórta 
+1659	10-24-01-1	7721342527878546	Lower Sorbian	lowe1385	to be	BE	1579		byś	byś 
+1660	10-24-02-1	7721342244407998	Lower Sorbian	lowe1385	to become	BECOME	1990		bywaś	bywaś 
+1661	10-24-02-2	7721342313371831	Lower Sorbian	lowe1385	to become	BECOME	1990		wordowaś	wordowaś 
+1662	10-24-03-1	7721342376361162	Lower Sorbian	lowe1385	without	WITHOUT	1478		mimo	mimo 
+1663	10-24-03-2	7721342304799612	Lower Sorbian	lowe1385	without	WITHOUT	1478		bźez	bźez 
+1664	10-24-05-1	7721342703976999	Lower Sorbian	lowe1385	through	THROUGH	97		pśez	pśez 
+1665	10-24-13-1	772134237348191	Lower Sorbian	lowe1385	same	SAME	200		sam(sn)y	sam(sn)y 
+1666	10-24-06-1	7721342366189663	Lower Sorbian	lowe1385	not	NOT	1240		nje-	nje- 
+1667	10-24-06-2	7721342763976565	Lower Sorbian	lowe1385	not	NOT	1240		nic (2)	nic (2) 
+1668	10-24-07-1	7721342257320574	Lower Sorbian	lowe1385	this	THIS	1214		ten	ten 
+1669	10-24-08-1	7721342686526509	Lower Sorbian	lowe1385	that	THAT	78		wóny	wóny 
+1670	10-24-08-2	7721342317187030	Lower Sorbian	lowe1385	that	THAT	78		tamny	tamny 
+1671	10-24-09-1	7721342586103871	Lower Sorbian	lowe1385	here	HERE	136		how	how 
+1672	10-24-09-2	7721342721079035	Lower Sorbian	lowe1385	here	HERE	136		tudy	tudy 
+1673	10-24-1-1	7721342303331612	Lower Sorbian	lowe1385	there	THERE	1937		tam	tam 
+1674	10-24-11-1	7721342477582094	Lower Sorbian	lowe1385	other	OTHER	197		drugi	drugi 
+1675	10-4-493-1	7721342394788951	Lower Sorbian	lowe1385	the vagina	VAGINA	1836		wagina	wagina 
+1676	10-23-9-1	7721342844648113	Lower Sorbian	lowe1385	the tea	TEA	1373		tej	tej 
+1677	10-23-9-2	7721342839459692	Lower Sorbian	lowe1385	the tea	TEA	1373		čaj	čaj 
+1678	10-23-91-1	7721342436647501	Lower Sorbian	lowe1385	the coffee	COFFEE	1299		kafej	kafej 
+1679	10-24-12-1	7721342475594389	Lower Sorbian	lowe1385	next	NEXT	1354		pśiducy	pśiducy 
+1680	10-3-863-1	7721342794071358	Lower Sorbian	lowe1385	the hare	HARE	1190		wuchac	wuchac 
+1681	10-3-865-1	7721342322811613	Lower Sorbian	lowe1385	the quail	QUAIL	1893		paśpula	paśpula 
+1682	10-3-866-1	7721342344985330	Lower Sorbian	lowe1385	the raccoon	RACCOON	828		šup	šup 
+1683	10-3-869-1	7721342795514852	Lower Sorbian	lowe1385	the squirrel	SQUIRREL	1628		njewjericka	njewjericka 
+1684	10-3-871-1	7721342973334276	Lower Sorbian	lowe1385	the reindeer/caribou	REINDEER	1876		sob	sob 
+1685	10-3-872-1	7721342127384029	Lower Sorbian	lowe1385	the elk/moose	ELK	1772		łos	łos 
+1686	10-3-873-1	7721342258681716	Lower Sorbian	lowe1385	the beaver	BEAVER	1194		bobr	bobr 
+1687	10-10-79-1	7721342254088125	Lower Sorbian	lowe1385	the sledge/sled	SLED	16		sańki	sańki 
+1688	10-10-79-2	7721342122155278	Lower Sorbian	lowe1385	the sledge/sled	SLED	16		sanje	sanje 
+1689	10-8-29-1	7721342210330298	Lower Sorbian	lowe1385	the lasso	LASSO	340		lasso	lasso 
+1690	10-8-991-1	7721342442417620	Lower Sorbian	lowe1385	the larch	LARCH	116		larik	larik 
+1691	10-8-993-1	7721342481524551	Lower Sorbian	lowe1385	the needle(2)	NEEDLE TREE	286		jegła	jegła 
+1692	10-1-771-1	772134249119722	Lower Sorbian	lowe1385	the arctic lights	ARCTIC LIGHTS	261		połnocne zorja	połnocne zorja 
+1693	10-4-465-1	7721342296206450	Lower Sorbian	lowe1385	the sinew or tendon	TENDON	1137		žyła	žyła 
+1694	10-7-67-1	7721342583474443	Lower Sorbian	lowe1385	to tan	TAN	247		garbowaś	garbowaś 
+1695	10-22-5-1	7721342920973156	Lower Sorbian	lowe1385	the circumcision	CIRCUMCISION	393		wobrězanje	wobrězanje 
+1696	10-22-51-1	7721342398471233	Lower Sorbian	lowe1385	the initiation ceremony	INITIATION CEREMONY	1946		górjejbranje	górjejbranje 
+1697	10-22-51-2	7721342855961379	Lower Sorbian	lowe1385	the initiation ceremony	INITIATION CEREMONY	1946		konfirmacija	konfirmacija 
+1698	10-8-996-1	7721342682285416	Lower Sorbian	lowe1385	the cone	CONE	287		šyška	šyška 
+1699	10-3-8112-1	7721342587634780	Lower Sorbian	lowe1385	the body louse	BODY LOUSE	311		weš	weš 
+1700	10-4-494-1	7721342345974812	Lower Sorbian	lowe1385	the vulva	VULVA	1837		wulwa	wulwa 
+1701	10-3-99-1	7721342255367390	Lower Sorbian	lowe1385	the tapir	TAPIR	312		tapir	tapir 
+1702	10-9-93-1	7721342758727532	Lower Sorbian	lowe1385	the whetstone	WHETSTONE	295		wóslica	wóslica 
+1703	10-7-65-1	772134274729469	Lower Sorbian	lowe1385	the camp	CAMP	1105		lěgwo	lěgwo 
+1704	10-7-65-2	7721342467784972	Lower Sorbian	lowe1385	the camp	CAMP	1105		logor	logor 
+1705	10-3-597-1	7721342470898997	Lower Sorbian	lowe1385	the cormorant	CORMORANT	840		kormoran	kormoran 
+1706	10-3-833-1	7721342966018849	Lower Sorbian	lowe1385	the prawns or shrimp	PRAWNS	238		garnela	garnela 
+1707	10-3-834-1	7721342752799144	Lower Sorbian	lowe1385	the termites	TERMITE	883		termita	termita 
+1708	10-3-835-1	7721342265450324	Lower Sorbian	lowe1385	the tick	TICK	1527		klěšć	klěšć 
+1709	10-9-87-1	772134282448714	Lower Sorbian	lowe1385	the boomerang	BOOMERANG	135		bumerang	bumerang 
+1710	10-3-88-1	7721342783579555	Lower Sorbian	lowe1385	the kangaroo	KANGAROO	164		kenguru	kenguru 
+1711	10-3-9-1	772134274839804	Lower Sorbian	lowe1385	the jaguar	JAGUAR	1250		jaguar	jaguar 
+1712	10-5-983-1	7721342812486660	Lower Sorbian	lowe1385	the manioc bread	MANIOC BREAD	407		maniok	maniok 
+1713	10-7-66-1	7721342861491594	Lower Sorbian	lowe1385	the hammock	HAMMOCK	2019		bombawa	bombawa 
+1714	10-8-911-1	7721342345773704	Lower Sorbian	lowe1385	the millet or sorghum	MILLET	931		pšoso	pšoso 
+1715	10-8-911-2	7721342690411678	Lower Sorbian	lowe1385	the millet or sorghum	MILLET	931		jagły	jagły 
+1716	10-3-913-1	7721342270728835	Lower Sorbian	lowe1385	the chameleon	CHAMELEON	1555		chameleon	chameleon 
+1717	10-9-9-1	7721342861537904	Lower Sorbian	lowe1385	to draw water	DRAW (WATER)	1911		pócěraś	pócěraś 
+1718	10-9-91-1	7721342541913522	Lower Sorbian	lowe1385	the peg	PEG	361		pal(ik)	pal(ik) 
+1719	10-9-91-2	7721342167849323	Lower Sorbian	lowe1385	the peg	PEG	361		koł	koł 
+1720	10-10-58-1	7721342611401442	Lower Sorbian	lowe1385	to go or return home	RETURN HOME	142		domoj hyś	domoj hyś 
+1721	10-3-917-1	7721342477359925	Lower Sorbian	lowe1385	the buffalo	BUFFALO	934		buwoł	buwoł 
+1722	10-1-411-1	7721342764912885	Lower Sorbian	lowe1385	the savanna	SAVANNA	260		sawana	sawana 
+1723	10-1-831-1	7721342357934330	Lower Sorbian	lowe1385	the steam	STEAM	1193		spaŕ	spaŕ 
+1724	10-2-4711-1	7721342110434327	Lower Sorbian	lowe1385	the grandparents	GRANDPARENTS	305		starej starjejšej	starej starjejšej 
+1725	10-2-5-1	7721342992408798	Lower Sorbian	lowe1385	the grandchild	GRANDCHILD	1617		źiśiźiśe	źiśiźiśe 
+1726	10-2-5-2	8126143945680971	Lower Sorbian	lowe1385	the grandchild	GRANDCHILD	1617		enkelźiśe	enkelźiśe 
+1727	10-2-541-1	7721342523155815	Lower Sorbian	lowe1385	the sibling’s child	SIBLING'S CHILD	173		bratša źowka	bratša źowka 
+1728	10-2-541-2	7721342286153240	Lower Sorbian	lowe1385	the sibling’s child	SIBLING'S CHILD	173		bratša syn	bratša syn 
+1729	10-2-541-3	7721342137130170	Lower Sorbian	lowe1385	the sibling’s child	SIBLING'S CHILD	173		sotšy syn	sotšy syn 
+1730	10-2-541-4	7721342966182355	Lower Sorbian	lowe1385	the sibling’s child	SIBLING'S CHILD	173		sotšy źowka	sotšy źowka 
+1731	10-2-541-5	7721342595108771	Lower Sorbian	lowe1385	the sibling’s child	SIBLING'S CHILD	173		nichta	nichta 
+1732	10-2-541-6	772134260694230	Lower Sorbian	lowe1385	the sibling’s child	SIBLING'S CHILD	173		nefa	nefa 
+1733	10-2-622-1	7721342441014473	Lower Sorbian	lowe1385	the parents-in-law	PARENTS-IN-LAW	306		pśichodnej starjejšej	pśichodnej starjejšej 
+1734	10-2-622-2	7721342970925588	Lower Sorbian	lowe1385	the parents-in-law	PARENTS-IN-LAW	306		šwigerstarjejšej	šwigerstarjejšej 
+1735	10-2-6411-1	7721342659629055	Lower Sorbian	lowe1385	the child-in-law	CHILD-IN-LAW	1060		pśichodny syn	pśichodny syn 
+1736	10-2-6411-2	81261213826316300	Lower Sorbian	lowe1385	the child-in-law	CHILD-IN-LAW	1060		šwigerźowka	šwigerźowka 
+1737	10-2-6411-3	7721342258397610	Lower Sorbian	lowe1385	the child-in-law	CHILD-IN-LAW	1060		šwigersyn	šwigersyn 
+1738	10-2-6411-4	7721342856719832	Lower Sorbian	lowe1385	the child-in-law	CHILD-IN-LAW	1060		pśichodna źowka	pśichodna źowka 
+1739	10-2-6412-1	7721342250361772	Lower Sorbian	lowe1385	the sibling-in-law	SIBLING-IN-LAW	1832		šwogor	šwogor 
+1740	10-2-6412-2	772134277291044	Lower Sorbian	lowe1385	the sibling-in-law	SIBLING-IN-LAW	1832		šwogornica	šwogornica 
+1741	10-2-931-1	7721342791991798	Lower Sorbian	lowe1385	he	HE	1211		wón	wón 
+1742	10-2-932-1	7721342573226177	Lower Sorbian	lowe1385	she	SHE	1834		wóna	wóna 
+1743	10-2-933-1	7721342119234295	Lower Sorbian	lowe1385	it	IT	169		wóno	wóno 
+1744	10-4-741-1	7721342616343403	Lower Sorbian	lowe1385	the life	LIFE	210		žywjenje	žywjenje 
+1745	10-4-771-1	7721342378068499	Lower Sorbian	lowe1385	the carcass	CARCASS	1770		cerwišćo	cerwišćo 
+1746	10-4-844-1	7721342816365056	Lower Sorbian	lowe1385	the disease	DISEASE	1986		chórosć	chórosć 
+1747	10-7-232-1	7721342811283396	Lower Sorbian	lowe1385	the padlock	PADLOCK	336		pytko	pytko 
+1748	10-8-121-1	7721342894897213	Lower Sorbian	lowe1385	the paddy	PADDY FIELD	140		rajsowe pólo	rajsowe pólo 
+1749	10-11-29-1	7721342880521375	Lower Sorbian	lowe1385	to damage	DAMAGE	1116		wobškóźeś	wobškóźeś 
+1750	10-12-081-1	7721342923959593	Lower Sorbian	lowe1385	above	ABOVE	1741		nad	nad 
+1751	10-13-231-1	7721342792448017	Lower Sorbian	lowe1385	the piece	PIECE	594		kus	kus 
+1752	10-13-231-2	772134285285920	Lower Sorbian	lowe1385	the piece	PIECE	594		štuka	štuka 
+1753	10-13-331-1	7721342675055924	Lower Sorbian	lowe1385	alone	ALONE	1964		sam	sam 
+1754	10-14-251-1	7721342342224176	Lower Sorbian	lowe1385	the beginning	BEGINNING	1557		zachopjeńk	zachopjeńk 
+1755	10-14-411-1	7721342776460864	Lower Sorbian	lowe1385	the day(2)	DAY (NOT NIGHT)	1225		źeń	źeń 
+1756	10-22-131-1	7721342744454949	Lower Sorbian	lowe1385	the church	CHURCH	1349		cerkwja	cerkwja 
+1757	10-22-132-1	772134223894046	Lower Sorbian	lowe1385	the mosque	MOSQUE	1603		mošeja	mošeja 
+1758	10-24-14-1	7721342443853541	Lower Sorbian	lowe1385	nothing	NOTHING	687		nic (1)	nic (1) 
+1759	10-4-7501-1	7721342933681591	Lower Sorbian	lowe1385	dead	DEAD	1625		njabogi	njabogi 
+1760	10-4-7501-2	7721342936488867	Lower Sorbian	lowe1385	dead	DEAD	1625		wumarły	wumarły 
+1761	10-4-8541-1	7721342675553529	Lower Sorbian	lowe1385	to scratch	SCRATCH	1436		drapaś	drapaś 
+1762	10-9-111-1	7721342758762386	Lower Sorbian	lowe1385	to make	MAKE	734		gótowaś	gótowaś 
+1763	10-4-431-1	7721342424498968	Lower Sorbian	lowe1385	the belly	BELLY	1251		brjuch	brjuch 
+1764	10-9-311-1	7721342934154033	Lower Sorbian	lowe1385	to wipe	WIPE	1454		trěś	trěś 
+1765	10-1-775-1	7721342999660430	Lower Sorbian	lowe1385	to freeze	FREEZE	1431		zamarznuś	zamarznuś 
+1766	10-24-04-1	7721342831773558	Lower Sorbian	lowe1385	with	WITH	1340		z	z 
+1767	10-12-012-1	7721342246639754	Lower Sorbian	lowe1385	in	IN	1460		w	w 

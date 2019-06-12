@@ -1,0 +1,1359 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	29-1-1-1	71312238241247833	Takia	taki1248	the world	WORLD	965		tan tlyane-k	tan tlyane-k 
+2	29-1-21-1	71312238546002552	Takia	taki1248	the land	LAND	626		tan	tan 
+3	29-1-213-1	71312238365764983	Takia	taki1248	the dust	DUST	2		gfgaf	gfgaf 
+4	29-1-214-1	71312238540140737	Takia	taki1248	the mud	MUD	640		geo-geo	geo-geo 
+5	29-1-215-1	7131223822851750	Takia	taki1248	the sand	SAND	671		lul	lul 
+6	29-1-22-1	71312238443761428	Takia	taki1248	the mountain or hill	MOUNTAIN OR HILL	2118		did	did 
+7	29-1-222-1	71312238839424324	Takia	taki1248	the cliff or precipice	PRECIPICE	618		mal-pao-n	mal-pao-n 
+8	29-1-23-1	71312238379713825	Takia	taki1248	the plain	PLAIN	652		ate-	ate- 
+9	29-1-24-1	71312238920212552	Takia	taki1248	the valley	VALLEY	921		ilo-	ilo- 
+10	29-1-25-1	71312238297340506	Takia	taki1248	the island	ISLAND	622		nwi	nwi 
+11	29-1-26-1	71312238296290944	Takia	taki1248	the mainland	MAINLAND	166		tan tni-n	tan tni-n 
+12	29-1-26-2	71312238123269680	Takia	taki1248	the mainland	MAINLAND	166		tan tbu-n	tan tbu-n 
+13	29-1-27-1	71312238319114046	Takia	taki1248	the shore	SHORE	113		fon na	fon na 
+14	29-1-27-2	71312238231126780	Takia	taki1248	the shore	SHORE	113		loŋ	loŋ 
+15	29-1-28-1	71312238743806647	Takia	taki1248	the cave	CAVE	1155		gib	gib 
+16	29-1-31-1	71312238564960480	Takia	taki1248	the water	WATER	948		you	you 
+17	29-1-32-1	71312238337591326	Takia	taki1248	the sea	SEA	1474		beig	beig 
+18	29-1-322-1	71312238597845963	Takia	taki1248	calm	CALM	258		malin	malin 
+19	29-1-323-1	71312238433101128	Takia	taki1248	rough(2)	ROUGH (OF SEA)	259		saen-saen	saen-saen 
+20	29-1-324-1	7131223857292989	Takia	taki1248	the foam	FOAM	1768		sblbal	sblbal 
+21	29-1-329-1	71312238769412905	Takia	taki1248	the ocean	OCEAN	645		beig awa-n tbu-n	beig awa-n tbu-n 
+22	29-1-33-1	71312238808484191	Takia	taki1248	the lake	LAKE	624		you i-tlanti	you i-tlanti 
+23	29-1-34-1	71312238920212552	Takia	taki1248	the bay	BAY	663		ilo-	ilo- 
+24	29-1-341-1	71312238808484191	Takia	taki1248	the lagoon	LAGOON	623		you i-tlanti	you i-tlanti 
+25	29-1-342-1	71312238569778382	Takia	taki1248	the reef	REEF	660		mal	mal 
+26	29-1-343-1	71312238952182794	Takia	taki1248	the cape	CAPE	1662		damo-	damo- 
+27	29-1-35-1	7131223898113806	Takia	taki1248	the wave	WAVE	978		lalol	lalol 
+28	29-1-352-1	7131223863698476	Takia	taki1248	the tide	TIDE	891		you brruk	you brruk 
+29	29-1-353-1	71312238928526751	Takia	taki1248	the low tide	LOW TIDE	1026		grgor	grgor 
+30	29-1-354-1	71312238104756393	Takia	taki1248	the high tide	HIGH TIDE	613		sir	sir 
+31	29-1-36-1	71312238564960480	Takia	taki1248	the river or stream	RIVER	666		you	you 
+32	29-1-362-1	71312238707992898	Takia	taki1248	the whirlpool	WHIRLPOOL	1982		you mala-n	you mala-n 
+33	29-1-37-1	71312238197441895	Takia	taki1248	the spring or well	SPRING OR WELL	2144		you i-banai da	you i-banai da 
+34	29-1-38-1	7131223817140683	Takia	taki1248	the swamp	SWAMP	1145		geo	geo 
+35	29-1-39-1	71312238296709009	Takia	taki1248	the waterfall	WATERFALL	943		you i-skalik da	you i-skalik da 
+36	29-1-41-1	71312238104459078	Takia	taki1248	the woods or forest	FOREST	420		dagu	dagu 
+37	29-1-43-1	71312238658703992	Takia	taki1248	the wood	WOOD	1803		ai (1)	ai (1) 
+38	29-1-44-1	7131223889261989	Takia	taki1248	the stone or rock	STONE OR ROCK	2125		pat	pat 
+39	29-1-45-1	71312238672269739	Takia	taki1248	the earthquake	EARTHQUAKE	6		knawrig	knawrig 
+40	29-1-51-1	71312238526902536	Takia	taki1248	the sky	SKY	1732		keit	keit 
+41	29-1-52-1	71312238318605010	Takia	taki1248	the sun	SUN	1343		ad	ad 
+42	29-1-53-1	71312238192749018	Takia	taki1248	the moon	MOON	1313		kalam	kalam 
+43	29-1-54-1	71312238850434279	Takia	taki1248	the star	STAR	1430		patui	patui 
+44	29-1-55-1	71312238521944475	Takia	taki1248	the lightning	LIGHTNING	1654		weil i-raklawi da	weil i-raklawi da 
+45	29-1-56-1	71312238219751845	Takia	taki1248	the thunder	THUNDER	1150		weil	weil 
+46	29-1-57-1	71312238988637624	Takia	taki1248	the bolt of lightning	BOLT (OF LIGHTNING)	2007		weil i-fni	weil i-fni 
+47	29-1-58-1	71312238937258108	Takia	taki1248	the storm	STORM	858		dwadaw	dwadaw 
+48	29-1-59-1	71312238182813529	Takia	taki1248	the rainbow	RAINBOW	1733		galab	galab 
+49	29-1-61-1	71312238148248666	Takia	taki1248	the light	LIGHT (RADIATION)	630		llaman	llaman 
+50	29-1-62-1	71312238452327432	Takia	taki1248	the darkness	DARKNESS	11		trarou	trarou 
+51	29-1-63-1	71312238449736062	Takia	taki1248	the shade or shadow	SHADE	1388		mryaw	mryaw 
+52	29-1-64-1	71312238906705308	Takia	taki1248	the dew	DEW	1977		bug	bug 
+53	29-1-64-2	71312238248980954	Takia	taki1248	the dew	DEW	1977		dog	dog 
+54	29-1-71-1	71312238308918761	Takia	taki1248	the air	AIR	27		ur (1)	ur (1) 
+55	29-1-72-1	71312238648910888	Takia	taki1248	the wind	WIND	960		tim	tim 
+56	29-1-73-1	71312238384362993	Takia	taki1248	the cloud	CLOUD	1489		tim tae-n	tim tae-n 
+57	29-1-74-1	71312238958443833	Takia	taki1248	the fog	FOG	249		kawkaw	kawkaw 
+58	29-1-75-1	71312238303726562	Takia	taki1248	the rain	RAIN (PRECIPITATION)	658		ui	ui 
+59	29-1-76-1	71312238890542079	Takia	taki1248	the snow	SNOW	784		sno	sno 
+60	29-1-77-1	7131223846239053	Takia	taki1248	the ice	ICE	617		eis	eis 
+61	29-1-78-1	7131223872808643	Takia	taki1248	the weather	WEATHER	952		saen	saen 
+62	29-1-81-1	71312238616205755	Takia	taki1248	the fire	FIRE	221		yai	yai 
+63	29-1-82-1	71312238317473128	Takia	taki1248	the flame	FLAME	889		yai bale-n	yai bale-n 
+64	29-1-83-1	71312238859660917	Takia	taki1248	the smoke	SMOKE (EXHAUST)	778		yai-kas, ya-kas	yai-kas 
+65	29-1-83-2	71312238859660917	Takia	taki1248	the smoke	SMOKE (EXHAUST)	778		yai-kas, ya-kas	ya-kas 
+66	29-1-84-1	71312238447990996	Takia	taki1248	the ash	ASH	646		yai tae-n	yai tae-n 
+67	29-1-841-1	71312238348960521	Takia	taki1248	the embers	EMBERS	67		mdger	mdger 
+68	29-1-851-1	71312238435328704	Takia	taki1248	to burn(1)	BURN (SOMETHING)	141		-mari	-mari 
+69	29-1-852-1	71312238500680907	Takia	taki1248	to burn(2)	BURNING	1428		-ani (1)	-ani (1) 
+70	29-1-86-1	71312238109986780	Takia	taki1248	to light	LIGHT (IGNITE)	737		-tni	-tni 
+71	29-1-861-1	71312238427295695	Takia	taki1248	to extinguish	EXTINGUISH	127		-fni	-fni 
+72	29-1-87-1	71312238530205941	Takia	taki1248	the match	MATCH	1133		masis	masis 
+73	29-1-87-2	71312238787814575	Takia	taki1248	the match	MATCH	1133		snub	snub 
+74	29-1-88-1	71312238658703992	Takia	taki1248	the firewood	FIREWOOD	10		ai (1)	ai (1) 
+75	29-1-89-1	71312238451979699	Takia	taki1248	the charcoal	CHARCOAL	1188		sas	sas 
+76	29-2-1-1	71312238224504508	Takia	taki1248	the person	PERSON	683		tamol-pein, tal-pein	tamol-pein 
+77	29-2-1-2	71312238224504508	Takia	taki1248	the person	PERSON	683		tamol-pein, tal-pein	tal-pein 
+78	29-2-21-1	71312238439636639	Takia	taki1248	the man	MAN	1554		tamol	tamol 
+79	29-2-22-1	71312238630206159	Takia	taki1248	the woman	WOMAN	962		pein	pein 
+80	29-2-23-1	71312238439636639	Takia	taki1248	male(1)	MALE (OF ANIMAL)	2263		tamol	tamol 
+81	29-2-24-1	71312238630206159	Takia	taki1248	female(1)	FEMALE (OF PERSON)	2260		pein	pein 
+82	29-2-25-1	71312238918599784	Takia	taki1248	the boy	BOY	1366		nanu-k	nanu-k 
+83	29-2-251-1	71312238424501169	Takia	taki1248	the young man	YOUNG MAN	76		pnein	pnein 
+84	29-2-26-1	71312238918599784	Takia	taki1248	the girl	GIRL	1646		nanu-k	nanu-k 
+85	29-2-261-1	71312238895437527	Takia	taki1248	the young woman	YOUNG WOMAN	77		kbakan	kbakan 
+86	29-2-27-1	71312238918599784	Takia	taki1248	the child(1)	CHILD (YOUNG HUMAN)	1304		nanu-k	nanu-k 
+87	29-2-28-1	71312238247935091	Takia	taki1248	the baby	BABY	1289		nanuk swa te	nanuk swa te 
+88	29-2-31-1	71312238585596792	Takia	taki1248	the husband	HUSBAND	1200		iwo-	iwo- 
+89	29-2-32-1	71312238585596792	Takia	taki1248	the wife	WIFE	1199		iwo-	iwo- 
+90	29-2-33-1	71312238248224131	Takia	taki1248	to marry	MARRY	203		nug -ŋa	nug -ŋa 
+91	29-2-34-1	7131223881485223	Takia	taki1248	the wedding	WEDDING	1259		nug ŋane-k	nug ŋane-k 
+92	29-2-341-1	71312238217647674	Takia	taki1248	the divorce	DIVORCE	1134		nug -moy	nug -moy 
+93	29-2-35-1	71312238500288103	Takia	taki1248	the father	FATHER	1217		tama-	tama- 
+94	29-2-36-1	71312238434620510	Takia	taki1248	the mother	MOTHER	1216		tna-	tna- 
+95	29-2-37-1	71312238689622906	Takia	taki1248	the parents	PARENTS	505		tnan-n-taman-n	tnan-n-taman-n 
+96	29-2-38-1	71312238944071545	Takia	taki1248	the married man	MARRIED MAN	424		tamol iwo-n da ya	tamol iwo-n da ya 
+97	29-2-39-1	71312238734041539	Takia	taki1248	the married woman	MARRIED WOMAN	426		pein iwo-n da ya	pein iwo-n da ya 
+98	29-2-41-1	71312238918652926	Takia	taki1248	the son	SON	1620		nanu-	nanu- 
+99	29-2-42-1	71312238918652926	Takia	taki1248	the daughter	DAUGHTER	1357		nanu-	nanu- 
+100	29-3-662-1	71312238670285141	Takia	taki1248	the porpoise or dolphin	DOLPHIN	1479		lous	lous 
+101	29-2-43-1	71312238918652926	Takia	taki1248	the child(2)	CHILD (DESCENDANT)	1801		nanu-	nanu- 
+102	29-2-44-1	71312238179015054	Takia	taki1248	the brother	BROTHER	1262		tei-	tei- 
+103	29-2-444-1	71312238179015054	Takia	taki1248	the older brother	OLDER BROTHER	1759		tei-	tei- 
+104	29-2-445-1	71312238179015054	Takia	taki1248	the younger brother	YOUNGER BROTHER	1760		tei-	tei- 
+105	29-2-45-1	71312238179015054	Takia	taki1248	the sister	SISTER	1263		tei-	tei- 
+106	29-2-454-1	71312238179015054	Takia	taki1248	the older sister	OLDER SISTER	1758		tei-	tei- 
+107	29-2-455-1	71312238179015054	Takia	taki1248	the younger sister	YOUNGER SISTER	1761		tei-	tei- 
+108	29-2-456-1	71312238179015054	Takia	taki1248	the sibling	SIBLING	1640		tei-	tei- 
+109	29-2-456-2	71312238678451673	Takia	taki1248	the sibling	SIBLING	1640		lu-	lu- 
+110	29-2-458-1	7131223890930673	Takia	taki1248	the twins	TWINS	1005		bgug-aru	bgug-aru 
+111	29-2-46-1	71312238919971545	Takia	taki1248	the grandfather	GRANDFATHER	1383		tbu- (2)	tbu- (2) 
+112	29-2-461-1	71312238693582064	Takia	taki1248	the old man	OLD MAN	406		tamol bsmak	tamol bsmak 
+113	29-2-47-1	71312238919971545	Takia	taki1248	the grandmother	GRANDMOTHER	1496		tbu- (2)	tbu- (2) 
+114	29-2-471-1	71312238970413338	Takia	taki1248	the old woman	OLD WOMAN	907		pein bsmak	pein bsmak 
+115	29-2-48-1	71312238919971545	Takia	taki1248	the grandson	GRANDSON	1618		tbu- (2)	tbu- (2) 
+116	29-2-49-1	71312238919971545	Takia	taki1248	the granddaughter	GRANDDAUGHTER	1619		tbu- (2)	tbu- (2) 
+117	29-2-511-1	7131223854187728	Takia	taki1248	the mother's brother	MOTHER'S BROTHER	1984		ngai	ngai 
+118	29-2-512-1	71312238500288103	Takia	taki1248	the father's brother	FATHER'S BROTHER	1985		tama-	tama- 
+119	29-2-521-1	71312238434620510	Takia	taki1248	the mother's sister	MOTHER'S SISTER	171		tna-	tna- 
+120	29-2-522-1	71312238627807373	Takia	taki1248	the father's sister	FATHER'S SISTER	170		nbi	nbi 
+121	29-2-55-1	71312238136402015	Takia	taki1248	the cousin	COUSIN	1643		nkol (see also 2.456)	nkol (see also 2.456) 
+122	29-2-56-1	71312238937310976	Takia	taki1248	the ancestors	ANCESTORS	1669		mala-n fflu-n	mala-n fflu-n 
+123	29-2-57-1	71312238309626751	Takia	taki1248	the descendants	DESCENDANTS	490		mala-n kbla-n	mala-n kbla-n 
+124	29-2-61-1	71312238261172038	Takia	taki1248	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		nteŋ	nteŋ 
+125	29-2-611-1	71312238497199270	Takia	taki1248	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		irao-	irao- 
+126	29-2-62-1	71312238497199270	Takia	taki1248	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		irao-	irao- 
+127	29-2-621-1	71312238497199270	Takia	taki1248	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		irao-	irao- 
+128	29-2-63-1	71312238261172038	Takia	taki1248	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		nteŋ	nteŋ 
+129	29-2-631-1	71312238497199270	Takia	taki1248	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		irao-	irao- 
+130	29-2-64-1	71312238497199270	Takia	taki1248	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		irao-	irao- 
+131	29-2-641-1	71312238497199270	Takia	taki1248	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		irao-	irao- 
+132	29-2-71-1	71312238282963234	Takia	taki1248	the stepfather	STEPFATHER	237		tama-n ir-tarsin-ek	tama-n ir-tarsin-ek 
+133	29-2-72-1	71312238919155408	Takia	taki1248	the stepmother	STEPMOTHER	236		tna-n ir-tarsin-ek	tna-n ir-tarsin-ek 
+134	29-2-73-1	71312238733202976	Takia	taki1248	the stepson	STEPSON	1059		nanu-n ir-tarsin-ek	nanu-n ir-tarsin-ek 
+135	29-2-74-1	71312238733202976	Takia	taki1248	the stepdaughter	STEPDAUGHTER	1058		nanu-n ir-tarsin-ek	nanu-n ir-tarsin-ek 
+136	29-2-75-1	71312238435444020	Takia	taki1248	the orphan	ORPHAN	1149		bgabeg	bgabeg 
+137	29-2-76-1	71312238792751986	Takia	taki1248	the widow	WIDOW	1756		bwab	bwab 
+138	29-2-77-1	71312238651225485	Takia	taki1248	the widower	WIDOWER	1981		tamol sos	tamol sos 
+139	29-2-81-1	71312238915761792	Takia	taki1248	the relatives	RELATIVES	1644		dar-kaek	dar-kaek 
+140	29-2-82-1	71312238827974098	Takia	taki1248	the family	FAMILY	194		famili	famili 
+141	29-2-91-1	71312238207721489	Takia	taki1248	I	I	1209		ŋai	ŋai 
+142	29-2-92-1	7131223872707185	Takia	taki1248	you (singular)	THOU	1215		oŋ	oŋ 
+143	29-2-93-1	71312238308259750	Takia	taki1248	he/she/it	HE OR SHE OR IT	262		iŋ	iŋ 
+144	29-2-941-1	71312238909901223	Takia	taki1248	we (inclusive)	WE (INCLUSIVE)	1131		id	id 
+145	29-2-942-1	71312238309091639	Takia	taki1248	we (exclusive)	WE (EXCLUSIVE)	1130		maŋ	maŋ 
+146	29-2-95-1	71312238611631665	Takia	taki1248	you (plural)	YOU	1213		aŋ	aŋ 
+147	29-2-96-1	71312238308259750	Takia	taki1248	they	THEY	817		iŋ	iŋ 
+148	29-3-11-1	71312238532504728	Takia	taki1248	the animal	ANIMAL	619		bor-goun	bor-goun 
+149	29-3-12-1	71312238439636639	Takia	taki1248	male(2)	MALE (OF PERSON)	2261		tamol	tamol 
+150	29-3-13-1	71312238630206159	Takia	taki1248	female(2)	FEMALE (OF ANIMAL)	2262		pein	pein 
+151	29-3-15-1	71312238769091958	Takia	taki1248	the livestock	LIVESTOCK	631		flya-	flya- 
+152	29-3-16-1	71312238781828932	Takia	taki1248	the pasture	PASTURE	649		sasaw	sasaw 
+153	29-3-19-1	71312238471715931	Takia	taki1248	the stable or stall	STABLE	851		bor ab	bor ab 
+154	29-3-2-1	71312238730793226	Takia	taki1248	the cattle	CATTLE	1153		makao	makao 
+155	29-3-21-1	71312238730793226	Takia	taki1248	the bull	BULL	1008		makao	makao 
+156	29-3-22-1	71312238974869646	Takia	taki1248	the ox	OX	1169		bigbel	bigbel 
+157	29-3-23-1	71312238730793226	Takia	taki1248	the cow	COW	1007		makao	makao 
+158	29-3-24-1	71312238730793226	Takia	taki1248	the calf	CALF	1989		makao	makao 
+159	29-3-25-1	71312238331021370	Takia	taki1248	the sheep	SHEEP	1331		bllek	bllek 
+160	29-3-26-1	71312238331021370	Takia	taki1248	the ram	RAM	1344		bllek	bllek 
+161	29-3-28-1	71312238331021370	Takia	taki1248	the ewe	EWE	1345		bllek	bllek 
+162	29-3-29-1	71312238331021370	Takia	taki1248	the lamb	LAMB	820		bllek	bllek 
+163	29-3-35-1	7131223822424422	Takia	taki1248	the pig	PIG	1337		bor	bor 
+164	29-3-36-1	71312238331021370	Takia	taki1248	the goat	GOAT	1502		bllek	bllek 
+165	29-3-41-1	71312238256016276	Takia	taki1248	the horse	HORSE	615		wos	wos 
+166	29-3-42-1	71312238256016276	Takia	taki1248	the stallion	STALLION	936		wos	wos 
+167	29-3-44-1	71312238256016276	Takia	taki1248	the mare	MARE	938		wos	wos 
+168	29-3-45-1	71312238256016276	Takia	taki1248	the foal or colt	FOAL	1647		wos	wos 
+169	29-3-46-1	71312238221242713	Takia	taki1248	the donkey	DONKEY	1862		doŋki	doŋki 
+170	29-3-47-1	71312238221242713	Takia	taki1248	the mule	MULE	890		doŋki	doŋki 
+171	29-3-5-1	71312238590371925	Takia	taki1248	the fowl	FOWL	265		krek	krek 
+172	29-3-52-1	71312238590371925	Takia	taki1248	the cock/rooster	ROOSTER	1511		krek	krek 
+173	29-3-54-1	71312238590371925	Takia	taki1248	the hen	HEN	1514		krek	krek 
+174	29-3-55-1	71312238590371925	Takia	taki1248	the chicken	CHICKEN	1318		krek	krek 
+175	29-3-56-1	71312238796358613	Takia	taki1248	the goose	GOOSE	1187		patou	patou 
+176	29-3-58-1	71312238566053211	Takia	taki1248	the nest	NEST	539		ur (2)	ur (2) 
+177	29-3-581-1	7131223843059969	Takia	taki1248	the bird	BIRD	937		aŋkanak	aŋkanak 
+178	29-3-582-1	71312238504025609	Takia	taki1248	the seagull	SEAGULL	950		kanai	kanai 
+179	29-3-584-1	71312238702519190	Takia	taki1248	the eagle	EAGLE	1905		bog	bog 
+180	29-3-585-1	7131223822096291	Takia	taki1248	the hawk	HAWK	307		ŋsa-ŋes	ŋsa-ŋes 
+181	29-3-591-1	71312238102235010	Takia	taki1248	the bat	BAT	1793		yok (1)	yok (1) 
+182	29-3-591-2	71312238372679541	Takia	taki1248	the bat	BAT	1793		kdndur	kdndur 
+183	29-3-592-1	71312238420838861	Takia	taki1248	the parrot	PARROT	882		swir	swir 
+184	29-3-593-1	71312238149149973	Takia	taki1248	the crow	CROW	913		alal	alal 
+185	29-3-594-1	7131223889205967	Takia	taki1248	the dove	DOVE	1853		mluk	mluk 
+186	29-3-596-1	71312238839405104	Takia	taki1248	the owl	OWL	735		ŋkŋuk	ŋkŋuk 
+187	29-3-61-1	71312238485406224	Takia	taki1248	the dog	DOG	2009		goun	goun 
+188	29-3-614-1	71312238812473258	Takia	taki1248	the rabbit	RABBIT	1136		rebit	rebit 
+189	29-3-62-1	71312238700710702	Takia	taki1248	the cat	CAT	1208		mis	mis 
+190	29-3-622-1	71312238880916960	Takia	taki1248	the opossum	OPOSSUM	309		uranek	uranek 
+191	29-3-63-1	71312238344537906	Takia	taki1248	the mouse or rat	MUROID (MOUSE OR RAT)	2139		goub	goub 
+192	29-3-63-2	71312238216425	Takia	taki1248	the mouse or rat	MUROID (MOUSE OR RAT)	2139		mdagur	mdagur 
+193	29-3-65-1	71312238803656548	Takia	taki1248	the fish	FISH	227		i	i 
+194	29-3-652-1	7131223879625460	Takia	taki1248	the fin	FIN	213		ddi-	ddi- 
+195	29-3-653-1	71312238274560055	Takia	taki1248	the scale	SCALE	266		tbla-	tbla- 
+196	29-3-654-1	71312238406187334	Takia	taki1248	the gill	GILL	1916		ggare-	ggare- 
+197	29-3-655-1	71312238842830328	Takia	taki1248	the shell	SHELL	598		kape-	kape- 
+198	29-3-655-2	71312238862857272	Takia	taki1248	the shell	SHELL	598		ssei	ssei 
+199	29-3-661-1	71312238976695426	Takia	taki1248	the shark	SHARK	1110		sasam	sasam 
+200	29-3-663-1	71312238455052879	Takia	taki1248	the whale	WHALE	957		maoy	maoy 
+201	29-3-664-1	71312238847754293	Takia	taki1248	the stingray	STINGRAY	1910		lai-lai	lai-lai 
+202	29-3-665-1	71312238117115441	Takia	taki1248	the freshwater eel	FRESHWATER EEL	1013		kbram	kbram 
+203	29-3-71-1	71312238159393834	Takia	taki1248	the wolf	WOLF	522		weldok	weldok 
+204	29-3-72-1	71312238932464394	Takia	taki1248	the lion	LION	1386		laion	laion 
+205	29-3-76-1	71312238314260967	Takia	taki1248	the monkey	MONKEY	1350		moŋi	moŋi 
+206	29-3-77-1	7131223845979389	Takia	taki1248	the elephant	ELEPHANT	1290		elefan	elefan 
+207	29-3-78-1	71312238819629502	Takia	taki1248	the camel	CAMEL	1871		kamel	kamel 
+208	29-3-811-1	71312238735463195	Takia	taki1248	the head louse	HEAD LOUSE	310		ut	ut 
+209	29-3-812-1	71312238959039225	Takia	taki1248	the nit	NIT	267		ut patu-n	ut patu-n 
+210	29-3-813-1	7131223851103191	Takia	taki1248	the flea	FLEA	232		goun na ut	goun na ut 
+211	29-3-814-1	71312238669003147	Takia	taki1248	the centipede	CENTIPEDE	1974		lwaliu	lwaliu 
+212	29-3-815-1	71312238223718577	Takia	taki1248	the scorpion	SCORPION	1538		bramat	bramat 
+213	29-3-816-1	71312238316913727	Takia	taki1248	the cockroach	COCKROACH	1575		darir	darir 
+214	29-3-817-1	71312238295109717	Takia	taki1248	the ant	ANT	587		kmunan	kmunan 
+215	29-3-818-1	71312238777612393	Takia	taki1248	the spider	SPIDER	843		ksalom	ksalom 
+216	29-3-819-1	71312238601369841	Takia	taki1248	the spider web	SPIDER WEB	1065		dlaotik	dlaotik 
+217	29-3-82-1	7131223816725047	Takia	taki1248	the bee	BEE	665		hanibi	hanibi 
+218	29-3-823-1	71312238830798803	Takia	taki1248	the wasp	WASP	1517		nni	nni 
+219	29-3-83-1	71312238505832093	Takia	taki1248	the fly	FLY (INSECT)	1504		gbdai	gbdai 
+220	29-3-831-1	71312238782562527	Takia	taki1248	the sandfly or midge or gnat	SANDFLY	95		mrkis	mrkis 
+221	29-3-832-1	71312238756236475	Takia	taki1248	the mosquito	MOSQUITO	1509		nai	nai 
+222	29-3-84-1	71312238799091049	Takia	taki1248	the worm	WORM	1219		kllid	kllid 
+223	29-3-85-1	71312238734655099	Takia	taki1248	the snake	SNAKE	730		mot	mot 
+224	29-3-91-1	713122383665285	Takia	taki1248	the firefly	FIREFLY	206		ltot	ltot 
+225	29-3-92-1	71312238210138833	Takia	taki1248	the butterfly	BUTTERFLY	1791		ded	ded 
+226	29-3-93-1	71312238873843729	Takia	taki1248	the grasshopper	GRASSHOPPER	607		sis	sis 
+227	29-3-94-1	71312238842830328	Takia	taki1248	the snail	SNAIL	1543		kape-	kape- 
+228	29-3-95-1	71312238740897931	Takia	taki1248	the frog	FROG	503		grgroy	grgroy 
+229	29-3-96-1	7131223859013987	Takia	taki1248	the lizard	LIZARD	632		peik	peik 
+230	29-3-97-1	71312238607361560	Takia	taki1248	the crocodile or alligator	CROCODILE	1857		fai	fai 
+231	29-3-98-1	7131223886455544	Takia	taki1248	the turtle	TURTLE	112		fon	fon 
+232	29-4-11-1	71312238336295553	Takia	taki1248	the body	BODY	1480		tni-	tni- 
+233	29-4-12-1	71312238291654010	Takia	taki1248	the skin or hide	SKIN	763		sklo-, sŋlo-	sklo- 
+234	29-4-12-2	71312238291654010	Takia	taki1248	the skin or hide	SKIN	763		sklo-, sŋlo-	sŋlo- 
+235	29-4-13-1	71312238696686398	Takia	taki1248	the flesh	FLESH	2259		mda-	mda- 
+236	29-4-14-1	7131223834238783	Takia	taki1248	the hair	HAIR (HEAD)	2648		grma-rou-k	grma-rou-k 
+237	29-4-142-1	71312238272459513	Takia	taki1248	the beard	BEARD	678		awa-n dabi-n	awa-n dabi-n 
+238	29-4-144-1	7131223862720834	Takia	taki1248	the body hair	HAIR (BODY)	189		fflu-	fflu- 
+239	29-4-145-1	7131223862720834	Takia	taki1248	the pubic hair	PUBIC HAIR	36		fflu-	fflu- 
+240	29-4-146-1	71312238103262560	Takia	taki1248	the dandruff	DANDRUFF	576		klmo-kaw	klmo-kaw 
+241	29-4-15-1	71312238180015561	Takia	taki1248	the blood	BLOOD	946		dar	dar 
+242	29-4-151-1	71312238529525105	Takia	taki1248	the vein or artery	BLOOD VESSEL	525		im	im 
+243	29-4-16-1	71312238210677087	Takia	taki1248	the bone	BONE	1394		tatu	tatu 
+244	29-4-162-1	71312238551946708	Takia	taki1248	the rib	RIB	801		graŋe-n tatu	graŋe-n tatu 
+245	29-4-17-1	71312238607361560	Takia	taki1248	the horn	HORN (ANATOMY)	1393		fai	fai 
+246	29-4-18-1	71312238455033205	Takia	taki1248	the tail	TAIL	1220		uyu-	uyu- 
+247	29-4-19-1	7131223858778001	Takia	taki1248	the back	BACK	1291		patu- (1)	patu- (1) 
+248	29-4-191-1	71312238210677087	Takia	taki1248	the spine	SPINE	805		tatu	tatu 
+249	29-4-2-1	71312238491663097	Takia	taki1248	the head	HEAD	1256		grma-	grma- 
+250	29-4-201-1	71312238833674712	Takia	taki1248	the temples	TEMPLES	1604		kdaŋa-	kdaŋa- 
+251	29-4-202-1	71312238349408040	Takia	taki1248	the skull	SKULL	1605		grma-n kape-n	grma-n kape-n 
+252	29-4-203-1	71312238394413379	Takia	taki1248	the brain	BRAIN	1583		mmaŋe-	mmaŋe- 
+253	29-4-204-1	71312238751068306	Takia	taki1248	the face	FACE	1560		nao-	nao- 
+254	29-4-205-1	71312238655305730	Takia	taki1248	the forehead	FOREHEAD	123		nao-n kape-n	nao-n kape-n 
+255	29-4-207-1	71312238282369912	Takia	taki1248	the jaw	JAW	798		awa-n to-n	awa-n to-n 
+256	29-4-208-1	7131223884960979	Takia	taki1248	the cheek	CHEEK	1730		wala-	wala- 
+257	29-4-209-1	71312238282369912	Takia	taki1248	the chin	CHIN	1510		awa-n to-n	awa-n to-n 
+258	29-4-21-1	71312238919016307	Takia	taki1248	the eye	EYE	1248		mala- (1)	mala- (1) 
+259	29-4-212-1	71312238802387994	Takia	taki1248	the eyebrow	EYEBROW	1173		mala-n ddawe-n	mala-n ddawe-n 
+260	29-4-213-1	71312238877630176	Takia	taki1248	the eyelid	EYELID	17		mala-n sklo-n	mala-n sklo-n 
+261	29-4-214-1	71312238323875319	Takia	taki1248	the eyelash	EYELASH	1540		mala-n drbi-n	mala-n drbi-n 
+262	29-4-215-1	71312238936705696	Takia	taki1248	to blink	BLINK	1655		-puk -klakil	-puk -klakil 
+263	29-4-22-1	71312238743029262	Takia	taki1248	the ear	EAR	1247		kkdo-	kkdo- 
+264	29-4-221-1	71312238762367795	Takia	taki1248	the earlobe	EARLOBE	18		kkdo- awe-n	kkdo- awe-n 
+265	29-4-222-1	71312238670108706	Takia	taki1248	the earwax	EARWAX	32		kbol	kbol 
+266	29-4-23-1	71312238417414791	Takia	taki1248	the nose	NOSE	1221		ŋdu-	ŋdu- 
+267	29-4-231-1	71312238246386020	Takia	taki1248	the nostril	NOSTRIL	1178		ŋdu-n awa-n	ŋdu-n awa-n 
+268	29-4-232-1	71312238162475718	Takia	taki1248	the nasal mucus	NASAL MUCUS (SNOT)	208		mlaŋok	mlaŋok 
+269	29-4-24-1	71312238727758358	Takia	taki1248	the mouth	MOUTH	674		awa-	awa- 
+270	29-4-241-1	71312238182704004	Takia	taki1248	the beak	BEAK	73		skro-, sŋro-	skro- 
+271	29-4-241-2	71312238182704004	Takia	taki1248	the beak	BEAK	73		skro-, sŋro-	sŋro- 
+272	29-4-25-1	71312238633724246	Takia	taki1248	the lip	LIP	478		fari-	fari- 
+273	29-4-26-1	71312238859617017	Takia	taki1248	the tongue	TONGUE	1205		bale-	bale- 
+274	29-4-27-1	7131223885993150	Takia	taki1248	the tooth	TOOTH	1380		lwo-	lwo- 
+275	29-4-271-1	71312238898644206	Takia	taki1248	the gums	GUMS	139		gasi-	gasi- 
+276	29-4-272-1	71312238278402118	Takia	taki1248	the molar tooth	MOLAR TOOTH	1049		gama-	gama- 
+277	29-4-28-1	71312238799861252	Takia	taki1248	the neck	NECK	1333		bro-	bro- 
+278	29-4-281-1	71312238582342525	Takia	taki1248	the nape of the neck	NAPE (OF NECK)	1347		bro-n patu-n	bro-n patu-n 
+279	29-4-29-1	7131223871438131	Takia	taki1248	the throat	THROAT	1346		klagu-	klagu- 
+280	29-4-3-1	71312238765356514	Takia	taki1248	the shoulder	SHOULDER	1482		pao-	pao- 
+281	29-4-301-1	71312238735923868	Takia	taki1248	the shoulderblade	SHOULDERBLADE	172		yaro-n bale-n	yaro-n bale-n 
+282	29-4-302-1	71312238362422785	Takia	taki1248	the collarbone	COLLARBONE	1994		pao-n tatuw-a-n	pao-n tatuw-a-n 
+283	29-4-31-1	71312238289789140	Takia	taki1248	the arm	ARM	1673		to-	to- 
+284	29-4-312-1	71312238478783420	Takia	taki1248	the armpit	ARMPIT	1886		gbate-	gbate- 
+285	29-4-32-1	7131223816745703	Takia	taki1248	the elbow	ELBOW	981		skru-	skru- 
+286	29-4-321-1	71312238233365910	Takia	taki1248	the wrist	WRIST	799		bani-n ŋdu-n	bani-n ŋdu-n 
+287	29-4-33-1	71312238171010747	Takia	taki1248	the hand	HAND	1277		bani-	bani- 
+288	29-4-331-1	71312238540506956	Takia	taki1248	the palm of the hand	PALM OF HAND	1183		bani-n ate-n	bani-n ate-n 
+289	29-4-34-1	71312238256528201	Takia	taki1248	the finger	FINGER	1303		krŋe-	krŋe- 
+290	29-4-342-1	71312238268063	Takia	taki1248	the thumb	THUMB	1781		kafe-	kafe- 
+291	29-4-344-1	71312238840186713	Takia	taki1248	the fingernail	FINGERNAIL	1258		tka-	tka- 
+292	29-4-345-1	71312238289889276	Takia	taki1248	the claw	CLAW	72		alaw	alaw 
+293	29-4-35-1	71312238593899152	Takia	taki1248	the leg	LEG	1297		ŋe-	ŋe- 
+294	29-4-351-1	71312238957634637	Takia	taki1248	the thigh	THIGH	800		dge-	dge- 
+295	29-4-352-1	71312238497327167	Takia	taki1248	the calf of the leg	CALF OF LEG	498		ŋe-n labe-n	ŋe-n labe-n 
+296	29-4-36-1	71312238803517624	Takia	taki1248	the knee	KNEE	1371		tru-	tru- 
+297	29-4-37-1	71312238593899152	Takia	taki1248	the foot	FOOT	1301		ŋe-	ŋe- 
+298	29-4-371-1	71312238306688340	Takia	taki1248	the ankle	ANKLE	803		ŋe-n ŋdu-n	ŋe-n ŋdu-n 
+299	29-4-372-1	71312238194508048	Takia	taki1248	the heel	HEEL	980		ŋe-n gmi-n	ŋe-n gmi-n 
+300	29-4-374-1	71312238865610300	Takia	taki1248	the footprint	FOOTPRINT	318		ŋe-n aba-n	ŋe-n aba-n 
+301	29-4-38-1	71312238256528201	Takia	taki1248	the toe	TOE	1389		krŋe-	krŋe- 
+302	29-4-392-1	71312238668295660	Takia	taki1248	the wing	WING	1257		sbari-	sbari- 
+303	29-4-393-1	71312238365789330	Takia	taki1248	the feather	FEATHER	1201		kaluŋ	kaluŋ 
+304	29-4-4-1	71312238201355874	Takia	taki1248	the chest	CHEST	1592		mmre-	mmre- 
+305	29-4-41-1	71312238915331833	Takia	taki1248	the breast	BREAST	1402		su (1)	su (1) 
+306	29-4-412-1	71312238581095952	Takia	taki1248	the nipple or teat	NIPPLE	796		su mala-n	su mala-n 
+307	29-4-42-1	71312238915331833	Takia	taki1248	the udder	UDDER	154		su (1)	su (1) 
+308	29-4-43-1	71312238579605654	Takia	taki1248	the navel	NAVEL	1838		bso-	bso- 
+309	29-4-44-1	71312238745278871	Takia	taki1248	the heart	HEART	1223		babu, bbe-	babu 
+310	29-4-44-2	71312238745278871	Takia	taki1248	the heart	HEART	1223		babu, bbe-	bbe- 
+311	29-4-441-1	71312238630362878	Takia	taki1248	the lung	LUNG	688		samer	samer 
+312	29-4-45-1	71312238379713825	Takia	taki1248	the liver	LIVER	1224		ate-	ate- 
+313	29-4-451-1	7131223889261989	Takia	taki1248	the kidney	KIDNEY	489		pat	pat 
+314	29-4-452-1	71312238682189880	Takia	taki1248	the spleen	SPLEEN	1744		lage-	lage- 
+315	29-4-46-1	71312238640790885	Takia	taki1248	the stomach	STOMACH	819		kafod	kafod 
+316	29-4-461-1	71312238720717681	Takia	taki1248	the intestines or guts	INTESTINES	1991		tŋae-	tŋae- 
+317	29-4-462-1	71312238275174582	Takia	taki1248	the waist	WAIST	1681		gali-	gali- 
+318	29-4-463-1	71312238248290087	Takia	taki1248	the hip	HIP	1745		ai (2)	ai (2) 
+319	29-4-464-1	71312238732198749	Takia	taki1248	the buttocks	BUTTOCKS	834		tae-	tae- 
+320	29-4-47-1	71312238757113708	Takia	taki1248	the womb	WOMB	804		taŋe-	taŋe- 
+321	29-4-49-1	71312238600030930	Takia	taki1248	the testicles	TESTICLES	797		labe-	labe- 
+322	29-4-492-1	71312238854232834	Takia	taki1248	the penis	PENIS	1222		uti-	uti- 
+323	29-4-51-1	71312238394240562	Takia	taki1248	to breathe	BREATHE	1407		yaes -bal	yaes -bal 
+324	29-4-52-1	71312238176105189	Takia	taki1248	to yawn	YAWN	1028		awa- -abi (1)	awa- -abi (1) 
+325	29-4-521-1	71312238628503038	Takia	taki1248	to hiccough	HICCOUGH	162		-lkati	-lkati 
+326	29-4-53-1	71312238866105318	Takia	taki1248	to cough	COUGH	879		-fffu	-fffu 
+327	29-4-54-1	71312238493553726	Takia	taki1248	to sneeze	SNEEZE	1621		-tgrus	-tgrus 
+328	29-4-55-1	7131223819841872	Takia	taki1248	to perspire	SWEAT (PERSPIRE)	126		slali i-fni	slali i-fni 
+329	29-4-56-1	71312238773480741	Takia	taki1248	to spit	SPIT	1440		-lsu	-lsu 
+330	29-4-57-1	71312238710017834	Takia	taki1248	to vomit	VOMIT	1278		-lu	-lu 
+331	29-4-58-1	71312238805049663	Takia	taki1248	to bite	BITE	1403		-rati	-rati 
+332	29-4-59-1	71312238738927404	Takia	taki1248	to lick	LICK	319		-ple	-ple 
+333	29-4-591-1	71312238723599996	Takia	taki1248	to dribble	DRIBBLE	268		awa-n ura-n i-du	awa-n ura-n i-du 
+334	29-4-61-1	7131223843557497	Takia	taki1248	to sleep	SLEEP	1585		-en	-en 
+335	29-4-612-1	7131223873706924	Takia	taki1248	to snore	SNORE	1983		-ŋur	-ŋur 
+336	29-4-62-1	71312238378627726	Takia	taki1248	to dream	DREAM (SOMETHING)	1920		-en-amin	-en-amin 
+337	29-4-63-1	71312238317943428	Takia	taki1248	to wake up	WAKE UP	1602		-ma-sa	-ma-sa 
+338	29-4-64-1	71312238155539252	Takia	taki1248	to fart	FART	1159		-pis	-pis 
+339	29-4-65-1	71312238610779709	Takia	taki1248	to piss	PISS	592		-trek	-trek 
+340	29-4-66-1	71312238215131529	Takia	taki1248	to shit	SHIT (DEFECATE)	676		-bei	-bei 
+341	29-4-67-1	71312238439481801	Takia	taki1248	to have sex	HAVE SEX	1785		nug -li	nug -li 
+342	29-4-68-1	71312238279498857	Takia	taki1248	to shiver	SHIVER	52		-sror	-sror 
+343	29-4-69-1	71312238568648736	Takia	taki1248	to bathe	BATHE	138		-sug	-sug 
+344	29-4-72-1	71312238420361786	Takia	taki1248	to be born	BE BORN	1090		-la-sa	-la-sa 
+345	29-4-73-1	71312238250357078	Takia	taki1248	pregnant	PREGNANT	1123		lwa-n an da ya	lwa-n an da ya 
+346	29-4-732-1	7131223821825482	Takia	taki1248	to conceive	CONCEIVE	1087		pein i-mado da	pein i-mado da 
+347	29-4-74-1	71312238783654372	Takia	taki1248	to be alive	BE ALIVE	1422		kmae-	kmae- 
+348	29-4-75-1	71312238941193234	Takia	taki1248	to die	DIE	1494		-mat	-mat 
+349	29-4-751-1	71312238602226952	Takia	taki1248	to drown	DROWN	1904		awa-n i-la ya	awa-n i-la ya 
+350	29-4-76-1	71312238525272817	Takia	taki1248	to kill	KILL	1417		-fni-mat	-fni-mat 
+351	29-4-76-2	71312238368770451	Takia	taki1248	to kill	KILL	1417		-ga -mat	-ga -mat 
+352	29-4-77-1	71312238606424942	Takia	taki1248	the corpse	CORPSE	767		ssanu-	ssanu- 
+353	29-4-78-1	71312238323140172	Takia	taki1248	to bury	BURY	1719		-sare	-sare 
+354	29-4-79-1	71312238351335022	Takia	taki1248	the grave	GRAVE	1773		matmat	matmat 
+355	29-4-81-1	7131223897805811	Takia	taki1248	strong	STRONG	785		dabai	dabai 
+356	29-4-82-1	71312238783754947	Takia	taki1248	weak	WEAK	1601		dabai an tya i	dabai an tya i 
+357	29-4-83-1	71312238121493598	Takia	taki1248	healthy	HEALTHY	1364		uya-	uya- 
+358	29-4-84-1	71312238212203139	Takia	taki1248	sick/ill	SICK	1847		sbam	sbam 
+359	29-4-841-1	71312238232381745	Takia	taki1248	the fever	FEVER	1534		tni wanana-n	tni wanana-n 
+360	29-4-842-1	7131223862772921	Takia	taki1248	the goitre/goiter	GOITER	1957		bro-n gbu-n	bro-n gbu-n 
+361	29-4-843-1	7131223871581787	Takia	taki1248	the cold	COMMON COLD (DISEASE)	102		kfek	kfek 
+362	29-4-85-1	71312238916400610	Takia	taki1248	the wound or sore	WOUND	1109		baob	baob 
+363	29-4-852-1	71312238702283516	Takia	taki1248	the bruise	BRUISE	1148		bkabuk	bkabuk 
+364	29-4-853-1	71312238955449774	Takia	taki1248	the swelling	SWELLING	1903		ddi	ddi 
+365	29-4-854-1	71312238608131313	Takia	taki1248	the itch	ITCH	148		-mat-tkali	-mat-tkali 
+366	29-4-855-1	71312238710849411	Takia	taki1248	the blister	BLISTER	1584		tbrod	tbrod 
+367	29-4-856-1	71312238591396593	Takia	taki1248	the boil	BOIL (OF SKIN)	793		baras (1)	baras (1) 
+368	29-4-857-1	71312238213314725	Takia	taki1248	the pus	PUS	1808		nan	nan 
+369	29-4-858-1	71312238101888186	Takia	taki1248	the scar	SCAR	497		teb	teb 
+370	29-4-86-1	71312238270136232	Takia	taki1248	to cure	CURE	499		-wyu	-wyu 
+371	29-4-87-1	71312238370879685	Takia	taki1248	the physician	PHYSICIAN	597		doktai	doktai 
+372	29-4-88-1	71312238247748617	Takia	taki1248	the medicine	MEDICINE	1372		marasin	marasin 
+373	29-4-89-1	7131223822532893	Takia	taki1248	the poison	POISON	655		mel sae-n	mel sae-n 
+374	29-4-91-1	71312238878713789	Takia	taki1248	tired	TIRED	1757		to- tya i	to- tya i 
+375	29-4-912-1	71312238394240562	Takia	taki1248	to rest	REST	168		yaes -bal	yaes -bal 
+376	29-4-92-1	71312238831058073	Takia	taki1248	lazy	LAZY	1564		yaelis	yaelis 
+377	29-4-93-1	71312238592328978	Takia	taki1248	bald	BALD	1125		ppae-	ppae- 
+378	29-4-94-1	71312238261884121	Takia	taki1248	lame	LAME	320		ŋe-n sae-n	ŋe-n sae-n 
+379	29-4-95-1	713122383910173	Takia	taki1248	deaf	DEAF	996		kkdo-n i-taw	kkdo-n i-taw 
+380	29-4-96-1	71312238202912089	Takia	taki1248	mute	MUTE	1666		awa-itaw	awa-itaw 
+381	29-4-97-1	71312238372507793	Takia	taki1248	blind	BLIND	1653		mala-n tya i (1)	mala-n tya i (1) 
+382	29-4-98-1	71312238813288491	Takia	taki1248	drunk	DRUNK	1463		ŋewŋew i-fni	ŋewŋew i-fni 
+383	29-4-99-1	71312238519659640	Takia	taki1248	naked	NAKED	590		kao-	kao- 
+384	29-5-11-1	7131223815072177	Takia	taki1248	to eat	EAT	1336		-ani (2)	-ani (2) 
+385	29-5-12-1	71312238562550965	Takia	taki1248	the food	FOOD	256		an-aŋ	an-aŋ 
+386	29-5-121-1	71312238994819600	Takia	taki1248	cooked	COOKED	269		nae-k	nae-k 
+387	29-5-122-1	71312238783654372	Takia	taki1248	raw	RAW	1959		kmae-	kmae- 
+388	29-5-123-1	71312238340213186	Takia	taki1248	ripe	RIPE	178		-lboŋ	-lboŋ 
+389	29-5-124-1	71312238783654372	Takia	taki1248	unripe	UNRIPE	1958		kmae-	kmae- 
+390	29-5-125-1	7131223855037704	Takia	taki1248	rotten	ROTTEN	1728		-gan	-gan 
+391	29-5-13-1	71312238584396094	Takia	taki1248	to drink	DRINK	1401		-luk	-luk 
+392	29-5-14-1	71312238394433346	Takia	taki1248	to be hungry	BE HUNGRY	1533		mat-igen, mat-gigen	mat-igen 
+393	29-5-14-2	71312238394433346	Takia	taki1248	to be hungry	BE HUNGRY	1533		mat-igen, mat-gigen	mat-gigen 
+394	29-5-141-1	71312238575367518	Takia	taki1248	the famine	FAMINE	199		ftol	ftol 
+395	29-5-15-1	71312238179325051	Takia	taki1248	to be thirsty	THIRSTY	847		bro-gagaw	bro-gagaw 
+396	29-5-16-1	71312238767151449	Takia	taki1248	to suck	SUCK	1421		-su-ppi	-su-ppi 
+397	29-5-18-1	71312238364190717	Takia	taki1248	to chew	CHEW	321		-mam	-mam 
+398	29-5-181-1	71312238107473098	Takia	taki1248	to swallow	SWALLOW	897		-tŋali	-tŋali 
+399	29-5-19-1	71312238394533856	Takia	taki1248	to choke	CHOKE	129		-sae-kdani	-sae-kdani 
+400	29-5-21-1	7131223884286605	Takia	taki1248	to cook	COOK (SOMETHING)	1100		-ei	-ei 
+401	29-5-21-2	71312238622486542	Takia	taki1248	to cook	COOK (SOMETHING)	1100		-gasa	-gasa 
+402	29-5-22-1	71312238733820793	Takia	taki1248	to boil	BOIL (OF LIQUID)	792		-glwao	-glwao 
+403	29-5-23-1	71312238707433873	Takia	taki1248	to roast or fry	ROAST OR FRY	2146		-gtani	-gtani 
+404	29-5-24-1	71312238589230089	Takia	taki1248	to bake	BAKE	183		-dali	-dali 
+405	29-5-25-1	71312238351055771	Takia	taki1248	the oven	OVEN	1143		stop	stop 
+406	29-5-26-1	71312238787319576	Takia	taki1248	the pot	POT	1462		bod	bod 
+407	29-5-28-1	71312238112879973	Takia	taki1248	the pan	PAN	31		praipan	praipan 
+408	29-5-31-1	71312238888690897	Takia	taki1248	the dish	DISH	481		dis	dis 
+409	29-5-32-1	71312238796280582	Takia	taki1248	the plate	PLATE	480		plet	plet 
+410	29-5-33-1	71312238627211689	Takia	taki1248	the bowl	BOWL	1530		daeg	daeg 
+411	29-5-33-2	71312238673076903	Takia	taki1248	the bowl	BOWL	1530		boul	boul 
+412	29-5-34-1	71312238569608747	Takia	taki1248	the jug/pitcher	JUG	270		jag	jag 
+413	29-5-35-1	71312238976906263	Takia	taki1248	the cup	CUP	476		gab	gab 
+414	29-5-35-2	71312238420630853	Takia	taki1248	the cup	CUP	476		kap	kap 
+415	29-5-36-1	71312238753588410	Takia	taki1248	the saucer	SAUCER	271		sosa	sosa 
+416	29-5-37-1	71312238671279711	Takia	taki1248	the spoon	SPOON	1378		sai	sai 
+417	29-5-37-2	71312238100028230	Takia	taki1248	the spoon	SPOON	1378		spun	spun 
+418	29-5-38-1	71312238230869168	Takia	taki1248	the knife(1)	KNIFE (FOR EATING)	3210		meit	meit 
+419	29-5-39-1	71312238432667799	Takia	taki1248	the fork	FORK	1302		fok	fok 
+420	29-5-391-1	71312238856017591	Takia	taki1248	the tongs	TONGS	272		toŋs	toŋs 
+421	29-5-41-1	71312238667954291	Takia	taki1248	the meal	MEAL	1526		latamad	latamad 
+422	29-5-42-1	71312238781918593	Takia	taki1248	the breakfast	BREAKFAST	1322		brakpas	brakpas 
+423	29-5-43-1	71312238217583946	Takia	taki1248	the lunch	LUNCH	768		lans	lans 
+424	29-5-44-1	71312238846668991	Takia	taki1248	the dinner	DINNER (SUPPER)	1833		graian san anaŋ	graian san anaŋ 
+425	29-5-45-1	71312238846668991	Takia	taki1248	the supper	DINNER (SUPPER)	1833		graian san anaŋ	graian san anaŋ 
+426	29-5-46-1	71312238256434275	Takia	taki1248	to peel	PEEL	275		-spi	-spi 
+427	29-5-47-1	71312238620339575	Takia	taki1248	to sieve or to strain	SIEVE	86		-abi	-abi 
+428	29-5-48-1	71312238602537396	Takia	taki1248	to scrape	SCRAPE	1767		-rri	-rri 
+429	29-5-48-2	71312238933692428	Takia	taki1248	to scrape	SCRAPE	1767		-rasi	-rasi 
+430	29-5-49-1	71312238397703093	Takia	taki1248	to stir or to mix	MIX	2017		-kblam	-kblam 
+431	29-5-51-1	71312238482194946	Takia	taki1248	the bread	BREAD	1368		bret	bret 
+432	29-5-54-1	71312238620339575	Takia	taki1248	to knead	KNEAD	274		-abi	-abi 
+433	29-5-55-1	71312238735747388	Takia	taki1248	the flour	FLOUR	1594		flawa	flawa 
+434	29-5-56-1	71312238918621824	Takia	taki1248	to crush or to grind	GRIND	1033		-swe	-swe 
+435	29-5-58-1	71312238934850885	Takia	taki1248	the mortar(1)	MORTAR CRUSHER	224		knum	knum 
+436	29-5-59-1	71312238863111614	Takia	taki1248	the pestle	PESTLE	225		sw-aŋ	sw-aŋ 
+437	29-5-61-1	71312238696686398	Takia	taki1248	the meat	MEAT	634		mda-	mda- 
+438	29-5-63-1	71312238636318195	Takia	taki1248	the sausage	SAUSAGE	1874		sosis	sosis 
+439	29-5-64-1	7131223822824991	Takia	taki1248	the soup	SOUP	1547		tor	tor 
+440	29-5-64-2	7131223883634128	Takia	taki1248	the soup	SOUP	1547		sup	sup 
+441	29-5-66-1	71312238858866471	Takia	taki1248	the bean	BEAN	832		bin	bin 
+442	29-5-7-1	71312238889218823	Takia	taki1248	the potato	POTATO	593		patete	patete 
+443	29-5-71-1	71312238957401283	Takia	taki1248	the fruit	FRUIT	1507		nŋo-	nŋo- 
+444	29-5-712-1	7131223897059540	Takia	taki1248	the bunch	BUNCH	1966		kor	kor 
+445	29-5-75-1	71312238599512636	Takia	taki1248	the fig	FIG	322		fig	fig 
+446	29-5-76-1	71312238128869253	Takia	taki1248	the grape	GRAPE	920		wein nŋo-n	wein nŋo-n 
+447	29-5-77-1	71312238957401283	Takia	taki1248	the nut	NUT	191		nŋo-	nŋo- 
+448	29-5-78-1	71312238220657794	Takia	taki1248	the olive	OLIVE	1154		oliv	oliv 
+449	29-5-79-1	7131223876246869	Takia	taki1248	the oil	OIL (ORGANIC SUBSTANCE)	1484		greŋ	greŋ 
+450	29-5-791-1	71312238972479413	Takia	taki1248	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		ŋrŋur	ŋrŋur 
+451	29-5-81-1	71312238213891908	Takia	taki1248	the salt	SALT	1274		sol	sol 
+452	29-5-81-2	71312238337591326	Takia	taki1248	the salt	SALT	1274		beig	beig 
+453	29-5-821-1	71312238302043011	Takia	taki1248	the chili pepper	CHILI PEPPER	919		marup	marup 
+454	29-5-84-1	71312238997210764	Takia	taki1248	the honey	HONEY	942		hani	hani 
+455	29-5-85-1	71312238937396720	Takia	taki1248	the sugar	SUGAR	862		suga	suga 
+456	29-5-86-1	71312238915331833	Takia	taki1248	the milk	MILK	635		su (1)	su (1) 
+457	29-5-87-1	71312238283400657	Takia	taki1248	to milk	DRAW MILK	93		su -ppi	su -ppi 
+458	29-5-89-1	71312238142633756	Takia	taki1248	the butter	BUTTER	1245		bata	bata 
+459	29-5-9-1	71312238564960480	Takia	taki1248	the drink	BEVERAGE	731		you	you 
+460	29-5-92-1	71312238667166456	Takia	taki1248	the wine	WINE	1524		wein	wein 
+461	29-5-93-1	71312238971581738	Takia	taki1248	the beer	BEER	1639		bia	bia 
+462	29-5-97-1	71312238993818655	Takia	taki1248	the egg	EGG	744		patu- (2)	patu- (2) 
+463	29-5-971-1	7131223822171094	Takia	taki1248	the yolk	YOLK	1556		patu-n kdabog-an	patu-n kdabog-an 
+464	29-6-11-1	71312238733494940	Takia	taki1248	to put on	PUT ON	158		-gane, -ga	-gane 
+465	29-6-11-2	71312238733494940	Takia	taki1248	to put on	PUT ON	158		-gane, -ga	-ga 
+466	29-6-12-1	713122382601671	Takia	taki1248	the clothing or clothes	CLOTHES	1895		biaoŋ	biaoŋ 
+467	29-6-21-1	71312238673515137	Takia	taki1248	the cloth	CLOTH	1616		yamel	yamel 
+468	29-6-28-1	7131223862720834	Takia	taki1248	the fur	FUR	580		fflu-	fflu- 
+469	29-6-31-1	71312238838595566	Takia	taki1248	to spin	SPIN	121		-lŋani	-lŋani 
+470	29-6-33-1	71312238335214314	Takia	taki1248	to weave	WEAVE	133		-wei	-wei 
+471	29-6-35-1	71312238454623193	Takia	taki1248	to sew	SEW	1457		-sti (1)	-sti (1) 
+472	29-6-36-1	71312238763118613	Takia	taki1248	the needle(1)	NEEDLE (FOR SEWING)	1382		si	si 
+473	29-6-38-1	7131223841649648	Takia	taki1248	the thread	THREAD	1161		tret	tret 
+474	29-6-39-1	71312238135389878	Takia	taki1248	to dye	DYE	157		pen -pani	pen -pani 
+475	29-7-37-1	7131223859513702	Takia	taki1248	the ladder	LADDER	1464		tet	tet 
+476	29-6-42-1	71312238966213367	Takia	taki1248	the (woman's) dress	DRESS	474		dres	dres 
+477	29-6-43-1	71312238724533349	Takia	taki1248	the coat	COAT	603		cot	cot 
+478	29-6-44-1	71312238463881181	Takia	taki1248	the shirt	SHIRT	1622		siot	siot 
+479	29-6-45-1	71312238155880772	Takia	taki1248	the collar	COLLAR	2012		kola	kola 
+480	29-6-46-1	71312238137038404	Takia	taki1248	the skirt	SKIRT	1600		sket	sket 
+481	29-6-461-1	71312238837850179	Takia	taki1248	the grass-skirt	GRASS-SKIRT	328		ddir	ddir 
+482	29-6-48-1	71312238401059900	Takia	taki1248	the trousers	TROUSERS	809		traosis	traosis 
+483	29-6-49-1	71312238368393661	Takia	taki1248	the sock or stocking	STOCKING	329		soken	soken 
+484	29-6-51-1	71312238451718243	Takia	taki1248	the shoe	SHOE	1381		su (2)	su (2) 
+485	29-6-52-1	71312238852170923	Takia	taki1248	the boot	BOOT	585		subut	subut 
+486	29-6-55-1	71312238486025397	Takia	taki1248	the hat or cap	HEADGEAR	2130		ktkat	ktkat 
+487	29-6-55-2	71312238389782958	Takia	taki1248	the hat or cap	HEADGEAR	2130		hat	hat 
+488	29-6-57-1	71312238250801445	Takia	taki1248	the belt	BELT	772		let	let 
+489	29-6-58-1	71312238215264548	Takia	taki1248	the glove	GLOVE	867		glab	glab 
+490	29-6-61-1	71312238510421983	Takia	taki1248	the pocket	POCKET	1851		poket	poket 
+491	29-6-62-1	71312238549709426	Takia	taki1248	the button	BUTTON	757		baten	baten 
+492	29-6-63-1	71312238407814584	Takia	taki1248	the pin	PIN	64		pin	pin 
+493	29-6-71-1	71312238889827518	Takia	taki1248	the ornament or adornment	ORNAMENT	917		damag	damag 
+494	29-6-73-1	71312238135741779	Takia	taki1248	the ring	RING	1374		riŋ	riŋ 
+495	29-6-74-1	71312238588542375	Takia	taki1248	the bracelet	BRACELET	1754		ari	ari 
+496	29-6-75-1	71312238902479829	Takia	taki1248	the necklace	NECKLACE	1961		klloy	klloy 
+497	29-6-76-1	71312238902479829	Takia	taki1248	the bead	BEAD	1860		klloy	klloy 
+498	29-6-77-1	71312238690826799	Takia	taki1248	the earring	EARRING	770		yariŋ	yariŋ 
+499	29-6-78-1	71312238834195789	Takia	taki1248	the headband or headdress	HEADBAND	330		dou (1)	dou (1) 
+500	29-6-78-2	71312238807822469	Takia	taki1248	the headband or headdress	HEADBAND	330		hedben	hedben 
+501	29-6-79-1	71312238517660757	Takia	taki1248	the tattoo	TATTOO	68		mak	mak 
+502	29-6-81-1	71312238606174277	Takia	taki1248	the handkerchief or rag	RAG	332		haŋgisip	haŋgisip 
+503	29-6-82-1	713122387113037	Takia	taki1248	the towel	TOWEL	1021		taol	taol 
+504	29-6-91-1	71312238913065661	Takia	taki1248	the comb	COMB	1475		ggreŋ	ggreŋ 
+505	29-6-92-1	71312238666858439	Takia	taki1248	the brush	BRUSH	1821		bros	bros 
+506	29-6-921-1	71312238949413795	Takia	taki1248	the plait/braid	BRAID	1043		-pde	-pde 
+507	29-6-93-1	71312238434040569	Takia	taki1248	the razor	RAZOR	151		resa	resa 
+508	29-6-94-1	7131223876246869	Takia	taki1248	the ointment	OINTMENT	1926		greŋ	greŋ 
+509	29-6-95-1	71312238157995037	Takia	taki1248	the soap	SOAP	788		sop	sop 
+510	29-6-96-1	71312238142789457	Takia	taki1248	the mirror	MIRROR	1171		galas	galas 
+511	29-7-11-1	7131223885022592	Takia	taki1248	to live	DWELL (LIVE, RESIDE)	363		-mado, -ma	-mado 
+512	29-7-11-2	7131223885022592	Takia	taki1248	to live	DWELL (LIVE, RESIDE)	363		-mado, -ma	-ma 
+513	29-7-12-1	71312238314903637	Takia	taki1248	the house	HOUSE	1252		ab	ab 
+514	29-7-13-1	71312238920204326	Takia	taki1248	the hut	HUT	1678		lalai	lalai 
+515	29-7-131-1	71312238920204326	Takia	taki1248	the garden-house	GARDEN-HOUSE	403		lalai	lalai 
+516	29-7-16-1	71312238369370254	Takia	taki1248	the men's house	MEN'S HOUSE	408		barag ab	barag ab 
+517	29-7-17-1	71312238256350037	Takia	taki1248	the cookhouse	COOKHOUSE	334		nnae-ŋ ab	nnae-ŋ ab 
+518	29-7-18-1	71312238681626310	Takia	taki1248	the meeting house	MEETING HOUSE	335		tmane-k ab	tmane-k ab 
+519	29-7-21-1	71312238549522103	Takia	taki1248	the room	ROOM	1450		galuŋ	galuŋ 
+520	29-7-22-1	71312238593711652	Takia	taki1248	the door or gate	DOOR	1567		dal-wan	dal-wan 
+521	29-7-23-1	71312238822683628	Takia	taki1248	the lock	LOCK	1596		lok	lok 
+522	29-7-231-1	7131223844714589	Takia	taki1248	the latch or door-bolt	LATCH	1012		pedbol	pedbol 
+523	29-7-24-1	71312238169627036	Takia	taki1248	the key	KEY	1472		ki	ki 
+524	29-7-25-1	71312238102550351	Takia	taki1248	the window	WINDOW	1375		windua	windua 
+525	29-7-26-1	71312238981090713	Takia	taki1248	the floor	FLOOR	1632		parer	parer 
+526	29-7-26-2	71312238836018706	Takia	taki1248	the floor	FLOOR	1632		flou	flou 
+527	29-7-27-1	71312238333602450	Takia	taki1248	the wall	WALL (OF HOUSE)	933		sgsog	sgsog 
+528	29-7-31-1	7131223815489228	Takia	taki1248	the fireplace	FIREPLACE	185		utut	utut 
+529	29-7-32-1	71312238351055771	Takia	taki1248	the stove	STOVE	859		stop	stop 
+530	29-7-42-1	71312238950767080	Takia	taki1248	the bed	BED	1663		bet	bet 
+531	29-7-421-1	71312238959097588	Takia	taki1248	the pillow	PILLOW	1044		kalik	kalik 
+532	29-7-421-2	71312238409526652	Takia	taki1248	the pillow	PILLOW	1044		pelou	pelou 
+533	29-7-422-1	71312238780570275	Takia	taki1248	the blanket	BLANKET	806		plaŋgit	plaŋgit 
+534	29-7-43-1	7131223888660567	Takia	taki1248	the chair	CHAIR	1476		sia	sia 
+535	29-7-44-1	71312238704694957	Takia	taki1248	the table	TABLE	1775		tebol	tebol 
+536	29-7-45-1	71312238771965389	Takia	taki1248	the lamp or torch	TORCH OR LAMP	2131		sul	sul 
+537	29-7-45-2	71312238411813579	Takia	taki1248	the lamp or torch	TORCH OR LAMP	2131		lam	lam 
+538	29-7-46-1	71312238602328191	Takia	taki1248	the candle	CANDLE	1273		kendel	kendel 
+539	29-7-47-1	71312238541217342	Takia	taki1248	the shelf	SHELF	745		selp	selp 
+540	29-7-51-1	71312238737270560	Takia	taki1248	the roof	ROOF	769		klfuŋ	klfuŋ 
+541	29-7-52-1	71312238251213168	Takia	taki1248	the thatch	THATCH	279		ab irou-n	ab irou-n 
+542	29-7-53-1	71312238751585098	Takia	taki1248	the ridgepole	RIDGEPOLE	280		ŋul	ŋul 
+543	29-7-54-1	71312238533954825	Takia	taki1248	the rafter	RAFTER	829		rgeŋ, irgeŋ	rgeŋ 
+544	29-7-54-2	71312238533954825	Takia	taki1248	the rafter	RAFTER	829		rgeŋ, irgeŋ	irgeŋ 
+545	29-7-55-1	71312238120815124	Takia	taki1248	the beam	BEAM	1132		gub	gub 
+546	29-7-56-1	71312238544646144	Takia	taki1248	the post or pole	POST	281		kadaŋ	kadaŋ 
+547	29-7-57-1	71312238244002167	Takia	taki1248	the board	BOARD	1227		abaw	abaw 
+548	29-7-58-1	71312238103751361	Takia	taki1248	the arch	ARCH	876		llit	llit 
+549	29-7-62-1	71312238384330055	Takia	taki1248	the brick	BRICK	1006		brik	brik 
+550	29-8-11-1	71312238355410918	Takia	taki1248	the farmer	FARMER	979		fama	fama 
+551	29-8-13-1	71312238501007125	Takia	taki1248	the garden	GARDEN	586		abi	abi 
+552	29-8-15-1	71312238620339575	Takia	taki1248	to cultivate	CULTIVATE	1541		-abi	-abi 
+553	29-8-16-1	71312238234876753	Takia	taki1248	the fence	FENCE	1690		ar	ar 
+554	29-8-17-1	71312238296290944	Takia	taki1248	the ditch	DITCH	2002		tan tni-n	tan tni-n 
+555	29-8-212-1	71312238572749448	Takia	taki1248	the furrow	FURROW	1794		-tare (1)	-tare (1) 
+556	29-8-22-1	71312238918621824	Takia	taki1248	to dig	DIG	1418		-swe	-swe 
+557	29-8-23-1	713122383813440	Takia	taki1248	the spade	SPADE	1176		spaten	spaten 
+558	29-8-24-1	71312238646104257	Takia	taki1248	the shovel	SHOVEL	1901		sabol	sabol 
+559	29-8-25-1	71312238192054089	Takia	taki1248	the hoe	HOE	284		salu	salu 
+560	29-8-25-2	71312238474496158	Takia	taki1248	the hoe	HOE	284		baira	baira 
+561	29-8-26-1	71312238432667799	Takia	taki1248	the fork(2)/pitchfork	PITCHFORK	337		fok	fok 
+562	29-8-27-1	71312238141448490	Takia	taki1248	the rake	RAKE	338		rek	rek 
+563	29-8-31-1	71312238831312573	Takia	taki1248	to sow	SOW SEEDS	748		-pae	-pae 
+564	29-8-311-1	71312238993818655	Takia	taki1248	the seed	SEED	714		patu- (2)	patu- (2) 
+565	29-8-32-1	71312238773181482	Takia	taki1248	to mow	MOW	190		-tte	-tte 
+566	29-8-43-1	71312238776105300	Takia	taki1248	the wheat	WHEAT	1077		wit	wit 
+567	29-8-44-1	71312238834258982	Takia	taki1248	the barley	BARLEY	932		baliwit	baliwit 
+568	29-8-47-1	71312238834406529	Takia	taki1248	the maize/corn	MAIZE	506		kon	kon 
+569	29-8-48-1	71312238316430321	Takia	taki1248	the rice	RICE	926		reis	reis 
+570	29-8-51-1	71312238273170254	Takia	taki1248	the grass	GRASS	606		gnaffur	gnaffur 
+571	29-8-51-2	71312238262201374	Takia	taki1248	the grass	GRASS	606		garas	garas 
+572	29-8-53-1	71312238658703992	Takia	taki1248	the plant	PLANT (VEGETATION)	653		ai (1)	ai (1) 
+573	29-8-531-1	71312238831312573	Takia	taki1248	to plant	PLANT (SOMETHING)	1486		-pae	-pae 
+574	29-8-54-1	7131223826235827	Takia	taki1248	the root	ROOT	670		dabi-	dabi- 
+575	29-8-55-1	7131223876501538	Takia	taki1248	the branch	BRANCH OR TWIG	3223		irae-, rae-	irae- 
+576	29-8-55-2	7131223876501538	Takia	taki1248	the branch	BRANCH OR TWIG	3223		irae-, rae-	rae- 
+577	29-8-56-1	71312238231735773	Takia	taki1248	the leaf	LEAF	628		irou-, rou-	irou- 
+578	29-8-56-2	71312238231735773	Takia	taki1248	the leaf	LEAF	628		irou-, rou-	rou- 
+579	29-8-57-1	71312238931049266	Takia	taki1248	the flower	FLOWER	239		bob	bob 
+580	29-8-6-1	71312238658703992	Takia	taki1248	the tree	TREE	906		ai (1)	ai (1) 
+581	29-8-67-1	71312238958398093	Takia	taki1248	the vine	VINE	343		kam	kam 
+582	29-8-68-1	71312238948982931	Takia	taki1248	the tobacco	TOBACCO	974		kas	kas 
+583	29-8-69-1	71312238607016536	Takia	taki1248	to smoke	SMOKE (INHALE)	1689		-rae	-rae 
+584	29-8-691-1	71312238665009104	Takia	taki1248	the pipe	PIPE	1124		paep	paep 
+585	29-8-72-1	71312238363698078	Takia	taki1248	the tree stump	TREE STUMP	241		ai katuk	ai katuk 
+586	29-8-73-1	7131223866301945	Takia	taki1248	the tree trunk	TREE TRUNK	344		ai lwa-n	ai lwa-n 
+587	29-8-74-1	71312238531793624	Takia	taki1248	the forked branch	FORKED BRANCH	409		plage-	plage- 
+588	29-8-75-1	71312238642444843	Takia	taki1248	the bark	BARK	1204		ai sklo-n	ai sklo-n 
+589	29-8-76-1	71312238642279674	Takia	taki1248	the sap	SAP	345		ai pat-an	ai pat-an 
+590	29-8-82-1	71312238352829412	Takia	taki1248	the coconut	COCONUT	970		niu nŋo-n	niu nŋo-n 
+591	29-8-83-1	71312238136854261	Takia	taki1248	the citrus fruit	CITRUS FRUIT	1126		muli	muli 
+592	29-8-84-1	71312238537379226	Takia	taki1248	the banana	BANANA	868		fud	fud 
+593	29-8-85-1	71312238331780679	Takia	taki1248	the banyan	BANYAN	346		aiyaw	aiyaw 
+594	29-8-91-1	71312238780080975	Takia	taki1248	the sweet potato	SWEET POTATO	159		kbla-k	kbla-k 
+595	29-8-912-1	71312238747957863	Takia	taki1248	the yam	YAM	410		dabel	dabel 
+596	29-8-912-2	71312238894183346	Takia	taki1248	the yam	YAM	410		anŋ-anaŋ	anŋ-anaŋ 
+597	29-8-92-1	71312238403135712	Takia	taki1248	the cassava/manioc	CASSAVA	925		beb	beb 
+598	29-8-93-1	71312238432362978	Takia	taki1248	the gourd	GOURD	411		mmur	mmur 
+599	29-8-931-1	71312238816559408	Takia	taki1248	the pumpkin or squash	PUMPKIN	864		walu	walu 
+600	29-8-94-1	71312238374999901	Takia	taki1248	the bamboo	BAMBOO	1927		sduk	sduk 
+601	29-8-94-2	71312238913065661	Takia	taki1248	the bamboo	BAMBOO	1927		ggreŋ	ggreŋ 
+602	29-8-941-1	71312238838446015	Takia	taki1248	the sugar cane	SUGAR CANE	146		tou	tou 
+603	29-8-96-1	71312238872015675	Takia	taki1248	the fish poison	FISH POISON	348		sasos	sasos 
+604	29-8-97-1	7131223834973807	Takia	taki1248	the nettle	NETTLE	33		dalat	dalat 
+605	29-8-98-1	71312238612424863	Takia	taki1248	the mushroom	MUSHROOM	641		pnapaŋ	pnapaŋ 
+606	29-9-11-1	71312238733494940	Takia	taki1248	to do	DO	813		-gane, -ga	-gane 
+607	29-9-11-2	71312238733494940	Takia	taki1248	to do	DO	813		-gane, -ga	-ga 
+608	29-9-12-1	71312238454592630	Takia	taki1248	the work	WORK (LABOUR)	984		urat	urat 
+609	29-9-14-1	71312238694327816	Takia	taki1248	to bend	BEND	2004		-lwi	-lwi 
+610	29-9-15-1	71312238427295695	Takia	taki1248	to fold	FOLD	1470		-fni	-fni 
+611	29-9-16-1	713122382510788	Takia	taki1248	to tie	TIE	1917		-sbani	-sbani 
+612	29-9-161-1	71312238539517019	Takia	taki1248	to untie	UNTIE	352		-paesi	-paesi 
+613	29-9-18-1	71312238555031869	Takia	taki1248	the chain	CHAIN	1627		sen	sen 
+614	29-9-19-1	71312238958398093	Takia	taki1248	the rope	ROPE	1218		kam	kam 
+615	29-9-192-1	71312238694483354	Takia	taki1248	the knot	KNOT	760		btane-k	btane-k 
+616	29-9-21-1	71312238427295695	Takia	taki1248	to strike or hit or beat	STRIKE OR BEAT	2133		-fni	-fni 
+617	29-9-211-1	71312238427295695	Takia	taki1248	to pound	POUND	354		-fni	-fni 
+618	29-9-22-1	71312238997375364	Takia	taki1248	to cut	CUT	1432		-tare (2)	-tare (2) 
+619	29-9-221-1	71312238997375364	Takia	taki1248	to cut down	CUT DOWN	355		-tare (2)	-tare (2) 
+620	29-9-222-1	71312238430971946	Takia	taki1248	to chop	CHOP	155		-fle	-fle 
+621	29-9-223-1	71312238918621824	Takia	taki1248	to stab	STAB TO DEATH	3189		-swe	-swe 
+622	29-9-23-1	71312238787862919	Takia	taki1248	the knife(2)	KNIFE	1352		naip	naip 
+623	29-9-24-1	71312238472253805	Takia	taki1248	the scissors or shears	SHEARS	356		sisis	sisis 
+624	29-9-25-1	71312238349168066	Takia	taki1248	the axe/ax	AXE	677		plagis, plaŋis	plagis 
+625	29-9-25-2	71312238349168066	Takia	taki1248	the axe/ax	AXE	677		plagis, plaŋis	plaŋis 
+626	29-9-251-1	71312238600379365	Takia	taki1248	the adze	ADZE	290		tir	tir 
+627	29-9-251-2	71312238429423017	Takia	taki1248	the adze	ADZE	290		noŋ	noŋ 
+628	29-9-26-1	7131223834462711	Takia	taki1248	to break	BREAK (DESTROY OR GET DESTROYED)	680		-bal-s-sni	-bal-s-sni 
+629	29-9-261-1	71312238874567511	Takia	taki1248	broken	BROKEN (NOT WORKING)	3190		-puk	-puk 
+630	29-9-27-1	71312238996289346	Takia	taki1248	to split	SPLIT	1437		-g-fte	-g-fte 
+631	29-9-28-1	71312238790545753	Takia	taki1248	to tear	TEAR (SHRED)	1735		-srei	-srei 
+632	29-9-29-1	7131223837354100	Takia	taki1248	to skin	PULL OFF (SKIN)	291		-gle	-gle 
+633	29-9-31-1	71312238485098026	Takia	taki1248	to rub	RUB	1449		-sasi	-sasi 
+634	29-9-32-1	71312238316969051	Takia	taki1248	to stretch	STRETCH	214		-ra-ddari	-ra-ddari 
+635	29-9-33-1	71312238607016536	Takia	taki1248	to pull	PULL	1455		-rae	-rae 
+636	29-9-34-1	71312238668744199	Takia	taki1248	to spread out	SPREAD OUT	38		-ra-flale	-ra-flale 
+637	29-9-341-1	7131223895683840	Takia	taki1248	to hang up	HANG UP	357		-sŋani	-sŋani 
+638	29-9-342-1	71312238354868408	Takia	taki1248	to press	PRESS	1913		-apa-si	-apa-si 
+639	29-9-343-1	71312238919126962	Takia	taki1248	to squeeze	SQUEEZE	1414		-ppi	-ppi 
+640	29-9-35-1	71312238378995286	Takia	taki1248	to pour	POUR	1487		-wali	-wali 
+641	29-9-35-2	71312238776197634	Takia	taki1248	to pour	POUR	1487		-klaek	-klaek 
+642	29-9-36-1	7131223811520825	Takia	taki1248	to wash	WASH	1453		-flani	-flani 
+643	29-9-37-1	71312238852371964	Takia	taki1248	to sweep	SWEEP	230		-ryani	-ryani 
+644	29-9-38-1	71312238944303904	Takia	taki1248	the broom	BROOM	245		-rbrib	-rbrib 
+645	29-9-422-1	71312238374476178	Takia	taki1248	the tool	TOOL	1361		tuls	tuls 
+646	29-9-43-1	71312238718820853	Takia	taki1248	the carpenter	CARPENTER	1042		kapenta	kapenta 
+647	29-9-44-1	71312238620339575	Takia	taki1248	to build	BUILD	1840		-abi	-abi 
+648	29-9-46-1	7131223877845391	Takia	taki1248	to bore	BORE	1501		-bdi	-bdi 
+649	29-9-461-1	71312238433163339	Takia	taki1248	to hollow out	HOLLOW OUT	46		-pasi	-pasi 
+650	29-9-48-1	71312238254686638	Takia	taki1248	the saw	SAW	1948		sou	sou 
+651	29-9-49-1	71312238655963192	Takia	taki1248	the hammer	HAMMER	1481		ama	ama 
+652	29-9-5-1	71312238437096019	Takia	taki1248	the nail	NAIL (TOOL)	502		ttu	ttu 
+653	29-9-56-1	71312238588296288	Takia	taki1248	the glue	GLUE	1069		ag	ag 
+654	29-9-61-1	71312238638052057	Takia	taki1248	to forge	FORGE	288		mari	mari 
+655	29-9-62-1	71312238794998578	Takia	taki1248	the anvil	ANVIL	1648		anwil	anwil 
+656	29-9-64-1	71312238911296671	Takia	taki1248	the gold	GOLD	1369		gol	gol 
+657	29-9-65-1	71312238517617990	Takia	taki1248	the silver	SILVER	759		silwa	silwa 
+658	29-9-66-1	71312238648472483	Takia	taki1248	the copper	COPPER	1825		baras (2)	baras (2) 
+659	29-9-67-1	71312238606002944	Takia	taki1248	the iron	IRON	621		aen	aen 
+660	29-9-68-1	7131223864550575	Takia	taki1248	the lead	LEAD (CHEMICAL ELEMENT)	627		bol	bol 
+661	29-9-69-1	71312238101835539	Takia	taki1248	the tin or tinplate	TIN OR TINPLATE	3217		kapa	kapa 
+662	29-9-71-1	71312238668388571	Takia	taki1248	the potter	POTTER	359		bod be-k	bod be-k 
+663	29-9-72-1	71312238889939206	Takia	taki1248	to mould/mold	MOLD	289		-waebi	-waebi 
+664	29-9-73-1	71312238787319576	Takia	taki1248	the clay	CLAY	1399		bod	bod 
+665	29-9-74-1	71312238853178447	Takia	taki1248	the glass	GLASS	604		nad	nad 
+666	29-9-74-2	71312238142789457	Takia	taki1248	the glass	GLASS	604		galas	galas 
+667	29-9-75-1	71312238620339575	Takia	taki1248	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		-abi	-abi 
+668	29-9-76-1	71312238759293093	Takia	taki1248	the basket	BASKET	1539		kram	kram 
+669	29-9-76-2	7131223888564118	Takia	taki1248	the basket	BASKET	1539		sareg	sareg 
+670	29-9-76-3	7131223883046835	Takia	taki1248	the basket	BASKET	1539		basket	basket 
+671	29-9-77-1	7131223829115682	Takia	taki1248	the mat	MAT	195		gadab	gadab 
+672	29-9-77-2	71312238415227758	Takia	taki1248	the mat	MAT	195		mat	mat 
+673	29-9-771-1	71312238435575551	Takia	taki1248	the rug	RUG	292		kapet	kapet 
+674	29-9-78-1	71312238932494289	Takia	taki1248	the netbag	NETBAG	293		ktaok	ktaok 
+675	29-9-78-2	7131223830150033	Takia	taki1248	the netbag	NETBAG	293		badam	badam 
+676	29-9-79-1	71312238272457400	Takia	taki1248	the fan	FAN (OBJECT)	1971		ttawit	ttawit 
+677	29-9-791-1	71312238876023425	Takia	taki1248	to fan	FAN ACTION	360		-ttawi	-ttawi 
+678	29-9-81-1	71312238220955850	Takia	taki1248	to carve	CARVE	228		-swi	-swi 
+679	29-9-84-1	71312238931969637	Takia	taki1248	the chisel	CHISEL	1979		sisel	sisel 
+680	29-9-88-1	71312238459065920	Takia	taki1248	the paint	PAINT (PIGMENTS)	647		bala	bala 
+681	29-9-88-2	71312238445148811	Takia	taki1248	the paint	PAINT (PIGMENTS)	647		pen (2)	pen (2) 
+682	29-9-89-1	71312238135389878	Takia	taki1248	to paint	PAINTING	2001		pen -pani	pen -pani 
+683	29-10-11-1	71312238705919596	Takia	taki1248	to move	MOVE	765		-tor	-tor 
+684	29-10-12-1	71312238564381652	Takia	taki1248	to turn	TURN	1588		-ptlani	-ptlani 
+685	29-10-13-1	71312238672017606	Takia	taki1248	to turn around	TURN (SOMETHING)	1445		-bl-sa	-bl-sa 
+686	29-10-14-1	71312238550036433	Takia	taki1248	to wrap	WRAP	1113		-dni (1)	-dni (1) 
+687	29-10-15-1	713122383061917	Takia	taki1248	to roll	ROLL	827		-bbli	-bbli 
+688	29-10-16-1	71312238907620409	Takia	taki1248	to drop	DROP (SOMETHING)	2866		-bli	-bli 
+689	29-10-17-1	71312238328524454	Takia	taki1248	to twist	TWIST (AROUND)	3199		-bble	-bble 
+690	29-10-21-1	71312238949828108	Takia	taki1248	to rise	RISE (MOVE UPWARDS)	568		-sda	-sda 
+691	29-10-22-1	71312238580888727	Takia	taki1248	to raise or lift	LIFT	501		-abi-sa	-abi-sa 
+692	29-10-23-1	7131223865624394	Takia	taki1248	to fall	FALL	1280		-du	-du 
+693	29-10-24-1	7131223828470349	Takia	taki1248	to drip	DRIP (EMIT LIQUID)	2253		dut i-du	dut i-du 
+694	29-10-25-1	71312238321388881	Takia	taki1248	to throw	THROW	1456		-bal	-bal 
+695	29-10-252-1	71312238535991859	Takia	taki1248	to catch	CATCH	702		-sawi	-sawi 
+696	29-10-26-1	7131223891489401	Takia	taki1248	to shake	SHAKE	1909		-ggyani	-ggyani 
+697	29-10-32-1	71312238925348862	Takia	taki1248	to flow	FLOW	2003		-aw	-aw 
+698	29-10-33-1	7131223844557450	Takia	taki1248	to sink	SINK (DESCEND)	1088		-sarir	-sarir 
+699	29-10-34-1	71312238848537788	Takia	taki1248	to float	FLOAT	1574		-fot	-fot 
+700	29-10-35-1	7131223829586928	Takia	taki1248	to swim	SWIM	1439		-log	-log 
+701	29-10-351-1	71312238841173358	Takia	taki1248	to dive	DIVE	119		-patu	-patu 
+702	29-10-352-1	71312238931065026	Takia	taki1248	to splash	SPLASH	365		-bal-fr-ak	-bal-fr-ak 
+703	29-10-36-1	71312238640619319	Takia	taki1248	to sail	SAIL	787		-yawai	-yawai 
+704	29-10-37-1	71312238633904005	Takia	taki1248	to fly	FLY (MOVE THROUGH AIR)	1441		-rou	-rou 
+705	29-10-38-1	713122382010317	Takia	taki1248	to blow	BLOW (OF WIND)	175		-wi	-wi 
+706	29-10-41-1	71312238405908991	Takia	taki1248	to crawl	CRAWL	96		-karak	-karak 
+707	29-10-412-1	7131223831478381	Takia	taki1248	to kneel	KNEEL	66		tru- tan i-swe	tru- tan i-swe 
+708	29-10-413-1	71312238871298886	Takia	taki1248	to crouch	CROUCH	296		-krakor	-krakor 
+709	29-10-42-1	71312238611111373	Takia	taki1248	to slide or slip	SLIP	1324		-krir	-krir 
+710	29-10-43-1	71312238995593686	Takia	taki1248	to jump	JUMP	1829		-skalik	-skalik 
+711	29-10-431-1	71312238427295695	Takia	taki1248	to kick	KICK	1135		-fni	-fni 
+712	29-10-44-1	7131223836952178	Takia	taki1248	to dance	DANCE	1879		-tari	-tari 
+713	29-10-45-1	71312238716472326	Takia	taki1248	to walk	WALK	1443		-par	-par 
+714	29-10-451-1	71312238497074459	Takia	taki1248	to limp	LIMP	366		-par-wadik	-par-wadik 
+715	29-10-46-1	71312238872508503	Takia	taki1248	to run	RUN	1519		-ma-s-palu, -ma-sa-palu	-ma-s-palu 
+716	29-10-46-2	71312238872508503	Takia	taki1248	to run	RUN	1519		-ma-s-palu, -ma-sa-palu	-ma-sa-palu 
+717	29-10-47-1	71312238925348862	Takia	taki1248	to go	GO	695		-aw	-aw 
+718	29-10-471-1	71312238949828108	Takia	taki1248	to go up	GO UP (ASCEND)	705		-sda	-sda 
+719	29-10-472-1	71312238365217729	Takia	taki1248	to climb	CLIMB	1102		-sa	-sa 
+720	29-10-473-1	7131223865624394	Takia	taki1248	to go down	GO DOWN (DESCEND)	2014		-du	-du 
+721	29-10-474-1	71312238420361786	Takia	taki1248	to go out	GO OUT	1107		-la-sa	-la-sa 
+722	29-10-48-1	71312238663101629	Takia	taki1248	to come	COME	1446		-palu	-palu 
+723	29-10-481-1	71312238621938473	Takia	taki1248	to come back	COME BACK	581		-mul	-mul 
+724	29-10-49-1	71312238925348862	Takia	taki1248	to leave	LEAVE	1752		-aw	-aw 
+725	29-10-491-1	71312238934812935	Takia	taki1248	to disappear	DISAPPEAR	485		-myanuk	-myanuk 
+726	29-10-51-1	71312238229673668	Takia	taki1248	to flee	FLEE	956		-sol	-sol 
+727	29-10-52-1	71312238633949292	Takia	taki1248	to follow	FOLLOW	1085		-ri	-ri 
+728	29-10-53-1	71312238814406806	Takia	taki1248	to pursue	PURSUE	1047		-kdi (1)	-kdi (1) 
+729	29-10-55-1	71312238420361786	Takia	taki1248	to arrive	ARRIVE	1387		-la-sa	-la-sa 
+730	29-10-56-1	7131223845876723	Takia	taki1248	to approach	APPROACH	1778		-ni	-ni 
+731	29-10-57-1	71312238404254497	Takia	taki1248	to enter	ENTER	749		-lao-du	-lao-du 
+732	29-10-61-1	71312238936232323	Takia	taki1248	to carry	CARRY	700		-sni	-sni 
+733	29-10-612-1	71312238620339575	Takia	taki1248	to carry in hand	CARRY IN HAND	412		-abi	-abi 
+734	29-10-613-1	71312238936232323	Takia	taki1248	to carry on shoulder	CARRY ON SHOULDER	413		-sni	-sni 
+735	29-10-614-1	71312238706097066	Takia	taki1248	to carry on head	CARRY ON HEAD	414		-kdi (2)	-kdi (2) 
+736	29-10-615-1	71312238832436207	Takia	taki1248	to carry under the arm	CARRY UNDER ARM	415		-pni	-pni 
+737	29-10-62-1	71312238987691234	Takia	taki1248	to bring	BRING	692		-ŋa-palu	-ŋa-palu 
+738	29-10-63-1	71312238580155371	Takia	taki1248	to send	SEND	1127		-ga -aw	-ga -aw 
+739	29-10-64-1	71312238773832004	Takia	taki1248	to lead	LEAD (GUIDE)	43		-ug, -mug	-ug 
+740	29-10-64-2	71312238773832004	Takia	taki1248	to lead	LEAD (GUIDE)	43		-ug, -mug	-mug 
+741	29-10-67-1	71312238617687600	Takia	taki1248	to push	PUSH	1452		-sa-ddni	-sa-ddni 
+742	29-10-71-1	71312238680830010	Takia	taki1248	the road	ROAD	667		dal	dal 
+743	29-10-72-1	71312238680830010	Takia	taki1248	the path	PATH	2252		dal	dal 
+744	29-10-74-1	71312238991138904	Takia	taki1248	the bridge	BRIDGE	1011		bris	bris 
+745	29-10-76-1	7131223887988126	Takia	taki1248	the wheel	WHEEL	710		wil	wil 
+746	29-10-77-1	71312238414859710	Takia	taki1248	the axle	AXLE	1769		sap	sap 
+747	29-10-78-1	71312238788259148	Takia	taki1248	the yoke	YOKE	14		yok (2)	yok (2) 
+748	29-10-81-1	71312238291164395	Takia	taki1248	the ship	SHIP	740		sip	sip 
+749	29-10-83-1	71312238521567449	Takia	taki1248	the boat	BOAT	1844		bot	bot 
+750	29-10-831-1	7131223879113554	Takia	taki1248	the canoe	CANOE	1970		wog	wog 
+751	29-10-831-2	71312238692504817	Takia	taki1248	the canoe	CANOE	1970		kout	kout 
+752	29-10-832-1	71312238110974158	Takia	taki1248	the outrigger	OUTRIGGER	416		sam	sam 
+753	29-10-84-1	71312238305747443	Takia	taki1248	the raft	RAFT	1664		ragarag	ragarag 
+754	29-10-85-1	71312238930105738	Takia	taki1248	the oar	RUDDER	108		koy	koy 
+755	29-10-851-1	71312238175310346	Takia	taki1248	the paddle	PADDLE	234		fey	fey 
+756	29-10-852-1	7131223826832959	Takia	taki1248	to row	ROW	1849		-koy	-koy 
+757	29-10-86-1	71312238521106877	Takia	taki1248	the rudder	RUDDER	108		un	un 
+758	29-10-87-1	71312238899329414	Takia	taki1248	the mast	MAST	184		pyar	pyar 
+759	29-10-88-1	71312238979546699	Takia	taki1248	the sail	SAILCLOTH	786		lai	lai 
+760	29-10-89-1	71312238330232090	Takia	taki1248	the anchor	ANCHOR	1870		aŋgai	aŋgai 
+761	29-10-92-1	71312238397815727	Takia	taki1248	to land	LAND (DESCEND)	1922		-s-la	-s-la 
+762	29-11-11-1	71312238245213003	Takia	taki1248	to have	HAVE	773		da i	da i 
+763	29-11-12-1	7131223827811837	Takia	taki1248	to own	OWN	684		mroun	mroun 
+764	29-11-13-1	71312238690145420	Takia	taki1248	to take	TAKE	1749		-ŋane, -ŋa	-ŋane 
+765	29-11-13-2	71312238690145420	Takia	taki1248	to take	TAKE	1749		-ŋane, -ŋa	-ŋa 
+766	29-11-14-1	71312238620339575	Takia	taki1248	to grasp	SEIZE	855		-abi	-abi 
+767	29-11-15-1	71312238620339575	Takia	taki1248	to hold	HOLD	1448		-abi	-abi 
+768	29-11-16-1	71312238690145420	Takia	taki1248	to get	GET	694		-ŋane, -ŋa	-ŋane 
+769	29-11-16-2	71312238690145420	Takia	taki1248	to get	GET	694		-ŋane, -ŋa	-ŋa 
+770	29-11-17-1	71312238144980640	Takia	taki1248	to keep	KEEP	1477		-abi-tani	-abi-tani 
+771	29-11-18-1	71312238416207452	Takia	taki1248	the thing	THING	738		mel	mel 
+772	29-11-21-1	71312238593443256	Takia	taki1248	to give	GIVE	1447		-pani	-pani 
+773	29-11-22-1	71312238536303309	Takia	taki1248	to give back	GIVE BACK	85		-gane -mul	-gane -mul 
+774	29-11-24-1	71312238471252770	Takia	taki1248	to preserve	PRESERVE	1997		patu-n -pasi	patu-n -pasi 
+775	29-11-25-1	71312238471252770	Takia	taki1248	to rescue	RESCUE	2008		patu-n -pasi	patu-n -pasi 
+776	29-11-27-1	7131223893973939	Takia	taki1248	to destroy	DESTROY	681		-ptŋni	-ptŋni 
+777	29-11-28-1	71312238897638869	Takia	taki1248	to injure	INJURE	44		mala-n -swe	mala-n -swe 
+778	29-11-31-1	71312238702124901	Takia	taki1248	to look for	LOOK FOR	1468		-baŋ -le	-baŋ -le 
+779	29-11-32-1	71312238208320275	Takia	taki1248	to find	FIND	719		-le	-le 
+780	29-11-34-1	713122381741522	Takia	taki1248	to let go	LET GO OR SET FREE	1095		-bsei- -aw	-bsei- -aw 
+781	29-11-43-1	71312238338273900	Takia	taki1248	the money	MONEY	1559		moni	moni 
+782	29-11-44-1	71312238993818655	Takia	taki1248	the coin	COIN	1867		patu- (2)	patu- (2) 
+783	29-11-52-1	71312238158878040	Takia	taki1248	poor	POOR	1674		weir i-fni	weir i-fni 
+784	29-11-53-1	71312238214220616	Takia	taki1248	the beggar	BEGGAR	1934		gdgod tamol	gdgod tamol 
+785	29-11-54-1	71312238866533083	Takia	taki1248	stingy	STINGY	1774		gdged	gdged 
+786	29-11-61-1	71312238593443256	Takia	taki1248	to lend	LEND	582		-pani	-pani 
+787	29-11-62-1	71312238593443256	Takia	taki1248	to borrow	BORROW	1823		-pani	-pani 
+788	29-11-63-1	71312238164051799	Takia	taki1248	to owe	OWE	369		dina -pani	dina -pani 
+789	29-11-64-1	71312238472931851	Takia	taki1248	the debt	DEBT	1914		gbun	gbun 
+790	29-11-65-1	71312238776824240	Takia	taki1248	to pay	PAY	718		-dad	-dad 
+791	29-11-69-1	71312238402136244	Takia	taki1248	the tax	TAX	873		takis	takis 
+792	29-11-77-1	71312238762383854	Takia	taki1248	to hire	HIRE	856		haia	haia 
+793	29-11-78-1	71312238882361399	Takia	taki1248	the wages	WAGES	1122		urat nao-n	urat nao-n 
+794	29-11-81-1	71312238776824240	Takia	taki1248	to buy	BUY	1869		-dad	-dad 
+795	29-11-83-1	71312238776824240	Takia	taki1248	to trade or barter	TRADE OR BARTER	2135		-dad	-dad 
+796	29-11-84-1	7131223873723628	Takia	taki1248	the merchant	MERCHANT	1082		saina	saina 
+797	29-11-85-1	71312238533523501	Takia	taki1248	the market	MARKET	633		maket	maket 
+798	29-11-86-1	71312238985808852	Takia	taki1248	the shop/store	STORE	752		stua	stua 
+799	29-11-87-1	71312238751068306	Takia	taki1248	the price	PRICE	657		nao-	nao- 
+800	29-11-88-1	71312238469056172	Takia	taki1248	expensive	EXPENSIVE	1426		nao-n lak na ya	nao-n lak na ya 
+801	29-11-89-1	71312238625435229	Takia	taki1248	cheap	CHEAP	1887		nao-n tan na ya	nao-n tan na ya 
+802	29-11-91-1	71312238452931106	Takia	taki1248	to share	SHARE	884		-wae	-wae 
+803	29-11-92-1	71312238521770496	Takia	taki1248	to weigh	WEIGH	1098		skel -gane	skel -gane 
+804	29-12-01-1	71312238865968500	Takia	taki1248	after	AFTER	1685		mar na	mar na 
+805	29-12-011-1	71312238579484228	Takia	taki1248	behind	BEHIND	1686		patu-n fo	patu-n fo 
+806	29-12-02-1	71312238753239191	Takia	taki1248	beside	BESIDE	1816		srŋe-n na	srŋe-n na 
+807	29-12-03-1	7131223865624394	Takia	taki1248	down	DOWN	1326		-du	-du 
+808	29-12-041-1	71312238266654089	Takia	taki1248	in front of	IN FRONT OF	1883		nao-n na	nao-n na 
+809	29-12-05-1	71312238678847703	Takia	taki1248	inside	INSIDE	1606		ilo-n lo	ilo-n lo 
+810	29-12-06-1	71312238579484228	Takia	taki1248	outside	OUTSIDE	762		patu-n fo	patu-n fo 
+811	29-12-07-1	71312238179425791	Takia	taki1248	under	BELOW OR UNDER	1485		pae-n na	pae-n na 
+812	29-12-08-1	71312238949828108	Takia	taki1248	up	UP	1591		-sda	-sda 
+813	29-12-11-1	71312238788383313	Takia	taki1248	the place	PLACE (POSITION)	723		abe-	abe- 
+814	29-12-12-1	71312238733494940	Takia	taki1248	to put	PUT	998		-gane, -ga	-gane 
+815	29-12-12-2	71312238733494940	Takia	taki1248	to put	PUT	998		-gane, -ga	-ga 
+816	29-12-13-1	71312238827401364	Takia	taki1248	to sit	SIT	1416		-ma-si	-ma-si 
+817	29-12-14-1	71312238191103991	Takia	taki1248	to lie down	LIE DOWN	215		-en-si	-en-si 
+818	29-12-15-1	71312238904963766	Takia	taki1248	to stand	STAND	1442		-tur	-tur 
+819	29-12-16-1	7131223885022592	Takia	taki1248	to remain	REMAIN	987		-mado, -ma	-mado 
+820	29-12-16-2	7131223885022592	Takia	taki1248	to remain	REMAIN	987		-mado, -ma	-ma 
+821	29-12-17-1	71312238476938069	Takia	taki1248	the remains	REMAINS	838		wada-	wada- 
+822	29-12-21-1	71312238936232323	Takia	taki1248	to gather	GATHER	7		-sni	-sni 
+823	29-12-212-1	71312238580888727	Takia	taki1248	to pick up	PICK UP	371		-abi-sa	-abi-sa 
+824	29-12-213-1	7131223855662381	Takia	taki1248	to pile up	PILE UP	1576		-dri	-dri 
+825	29-12-22-1	71312238349307017	Takia	taki1248	to join	JOIN	1743		-btane	-btane 
+826	29-12-23-1	71312238846839622	Takia	taki1248	to separate	SEPARATE	1359		-ra-pasi	-ra-pasi 
+827	29-12-232-1	71312238722476501	Takia	taki1248	to divide	DIVIDE	1119		-tar-pale	-tar-pale 
+828	29-12-24-1	71312238433163339	Takia	taki1248	to open	OPEN	1156		-pasi	-pasi 
+829	29-12-25-1	71312238282922325	Takia	taki1248	to shut	SHUT	1046		-ftani	-ftani 
+830	29-12-26-1	71312238734594124	Takia	taki1248	to cover	COVER	761		-twani	-twani 
+831	29-12-27-1	71312238323513736	Takia	taki1248	to hide	HIDE (CONCEAL)	602		-myani	-myani 
+832	29-12-31-1	71312238403296505	Takia	taki1248	high	HIGH	1265		lak na	lak na 
+833	29-12-32-1	7131223860176934	Takia	taki1248	low	LOW	721		tan na	tan na 
+834	29-12-33-1	71312238249951798	Takia	taki1248	the top	TOP	1753		dŋdiŋ	dŋdiŋ 
+835	29-12-34-1	71312238494987987	Takia	taki1248	the bottom	BOTTOM	690		fu-	fu- 
+836	29-12-35-1	71312238476938069	Takia	taki1248	the end(1)	END (OF SPACE)	742		wada-	wada- 
+837	29-12-352-1	71312238279846406	Takia	taki1248	pointed	POINTED	372		mala-n sgsig	mala-n sgsig 
+838	29-12-353-1	71312238529465014	Takia	taki1248	the edge	EDGE	863		ggi-	ggi- 
+839	29-12-36-1	71312238661439752	Takia	taki1248	the side	SIDE	682		graŋe-	graŋe- 
+840	29-12-37-1	71312238564080624	Takia	taki1248	the middle	MIDDLE	1093		tŋ-tŋae-mi	tŋ-tŋae-mi 
+841	29-12-41-1	71312238266654089	Takia	taki1248	right(1)	RIGHT	1019		nao-n na	nao-n na 
+842	29-12-42-1	7131223828802902	Takia	taki1248	left	LEFT	244		ŋas	ŋas 
+843	29-12-43-1	71312238375613006	Takia	taki1248	near	NEAR	1942		smeik	smeik 
+844	29-12-44-1	71312238836474548	Takia	taki1248	far	FAR	1406		asaw	asaw 
+845	29-12-45-1	7131223843919788	Takia	taki1248	the east	EAST	1877		ad abe-n	ad abe-n 
+846	29-12-46-1	71312238393436585	Takia	taki1248	the west	WEST	1817		ad i-du da-k lo	ad i-du da-k lo 
+847	29-12-47-1	7131223833197113	Takia	taki1248	the north	NORTH	1598		yarti baŋe-n	yarti baŋe-n 
+848	29-12-53-1	71312238827908136	Takia	taki1248	to grow	GROW	479		-talbusi/-tabulsi	-talbusi 
+849	29-12-53-2	71312238827908136	Takia	taki1248	to grow	GROW	479		-talbusi/-tabulsi	-tabulsi 
+850	29-12-54-1	71312238725532313	Takia	taki1248	to measure	MEASURE	1506		mak -ga	mak -ga 
+851	29-12-55-1	71312238542008188	Takia	taki1248	big	BIG	1202		tbu- (1)	tbu- (1) 
+852	29-12-56-1	71312238741010192	Takia	taki1248	small	SMALL	1246		tsa-	tsa- 
+853	29-12-57-1	71312238896438663	Takia	taki1248	long	LONG	1203		mlae-	mlae- 
+854	29-12-58-1	71312238896438663	Takia	taki1248	tall	TALL	711		mlae-	mlae- 
+855	29-12-59-1	71312238972419024	Takia	taki1248	short	SHORT	1645		katka-	katka- 
+856	29-12-61-1	71312238815126988	Takia	taki1248	wide	WIDE	1243		bbaŋa-n tbu-n	bbaŋa-n tbu-n 
+857	29-12-62-1	71312238516000340	Takia	taki1248	narrow	NARROW	1267		pŋpoŋa-	pŋpoŋa- 
+858	29-12-63-1	7131223847323646	Takia	taki1248	thick	THICK	1244		mtnol/mtmol	mtnol 
+859	29-12-63-2	7131223847323646	Takia	taki1248	thick	THICK	1244		mtnol/mtmol	mtmol 
+860	29-12-65-1	71312238841728708	Takia	taki1248	thin	THIN (OF SHAPE OF OBJECT)	2249		mryasa-	mryasa- 
+861	29-12-67-1	71312238460311279	Takia	taki1248	deep	DEEP	1593		kror	kror 
+862	29-12-68-1	71312238969122741	Takia	taki1248	shallow	SHALLOW	193		ftfota-	ftfota- 
+863	29-12-71-1	71312238332737767	Takia	taki1248	flat	FLAT	1633		labaka-	labaka- 
+864	29-12-73-1	7131223847898872	Takia	taki1248	straight	STRAIGHT	1404		itouta-	itouta- 
+865	29-12-74-1	71312238444407715	Takia	taki1248	crooked	CROOKED	297		ikaela-	ikaela- 
+866	29-12-76-1	71312238490799063	Takia	taki1248	the corner	CORNER	192		srg-a-n	srg-a-n 
+867	29-12-77-1	71312238363282925	Takia	taki1248	the cross	CROSS	1367		ai-kbarek	ai-kbarek 
+868	29-12-78-1	71312238591758425	Takia	taki1248	the square	SQUARE	850		skwe	skwe 
+869	29-12-81-1	7131223863874100	Takia	taki1248	round	ROUND	1395		-tlanti	-tlanti 
+870	29-12-82-1	71312238208823702	Takia	taki1248	the circle	CIRCLE	1467		kalam-blbol	kalam-blbol 
+871	29-12-83-1	71312238501223693	Takia	taki1248	the ball	BALL	1845		bal	bal 
+872	29-12-84-1	71312238337528807	Takia	taki1248	the line	LINE	1048		laen	laen 
+873	29-12-85-1	71312238743806647	Takia	taki1248	the hole	HOLE	1667		gib	gib 
+874	29-12-92-1	71312238306001712	Takia	taki1248	similar	SIMILAR	1558		nao-n kaek	nao-n kaek 
+875	29-13-1	71312238548365080	Takia	taki1248	zero	ZERO	1294		not	not 
+876	29-13-01-1	71312238419296424	Takia	taki1248	one	ONE	1493		ksaek	ksaek 
+877	29-13-02-1	71312238159310945	Takia	taki1248	two	TWO	1498		raru, uraru	raru 
+878	29-13-02-2	71312238159310945	Takia	taki1248	two	TWO	1498		raru, uraru	uraru 
+879	29-13-03-1	71312238742091063	Takia	taki1248	three	THREE	492		utol	utol 
+880	29-13-04-1	71312238382455586	Takia	taki1248	four	FOUR	1500		iwaiwo	iwaiwo 
+881	29-13-05-1	71312238754230925	Takia	taki1248	five	FIVE	493		kafe-n da	kafe-n da 
+882	29-13-05-2	71312238471539338	Takia	taki1248	five	FIVE	493		faif	faif 
+883	29-13-06-1	71312238895886905	Takia	taki1248	six	SIX	1703		siks	siks 
+884	29-13-07-1	71312238456106581	Takia	taki1248	seven	SEVEN	1704		sabaen	sabaen 
+885	29-13-08-1	71312238232940282	Takia	taki1248	eight	EIGHT	1705		eit	eit 
+886	29-13-09-1	71312238756903	Takia	taki1248	nine	NINE	1483		naen	naen 
+887	29-13-1-1	71312238773846524	Takia	taki1248	ten	TEN	1515		ten	ten 
+888	29-13-101-1	71312238940948351	Takia	taki1248	eleven	ELEVEN	1706		elabaen	elabaen 
+889	29-13-102-1	71312238561920729	Takia	taki1248	twelve	TWELVE	1707		twelf	twelf 
+890	29-13-103-1	71312238129120021	Takia	taki1248	fifteen	FIFTEEN	1709		fiftin	fiftin 
+891	29-13-104-1	71312238768766240	Takia	taki1248	twenty	TWENTY	1710		twenti	twenti 
+892	29-13-105-1	71312238145283697	Takia	taki1248	a hundred	HUNDRED	1634		wanandet	wanandet 
+893	29-13-106-1	71312238646788101	Takia	taki1248	a thousand	THOUSAND	1843		wantousen	wantousen 
+894	29-13-107-1	71312238867743653	Takia	taki1248	to count	COUNT	1420		-sti (2)	-sti (2) 
+895	29-13-14-1	71312238506525048	Takia	taki1248	all	ALL	98		fdyan	fdyan 
+896	29-13-15-1	71312238500816475	Takia	taki1248	many	MANY	1198		wei	wei 
+897	29-13-17-1	71312238673944411	Takia	taki1248	few	FEW	1242		ta-ta	ta-ta 
+898	29-13-18-1	71312238376326596	Takia	taki1248	enough	ENOUGH	1881		da i-sda	da i-sda 
+899	29-13-181-1	71312238496619050	Takia	taki1248	some	SOME	1241		ta (1)	ta (1) 
+900	29-13-19-1	71312238695577692	Takia	taki1248	the crowd	CROWD	2023		mrareŋ	mrareŋ 
+901	29-13-21-1	71312238588774047	Takia	taki1248	full	FULL	1429		awa-n i-sa-i	awa-n i-sa-i 
+902	29-13-22-1	71312238519659640	Takia	taki1248	empty	EMPTY	1624		kao-	kao- 
+903	29-13-23-1	71312238752728803	Takia	taki1248	the part	PART	779		klake-	klake- 
+904	29-13-24-1	71312238476938069	Takia	taki1248	the half	HALF	816		wada-	wada- 
+905	29-13-33-1	71312238804190390	Takia	taki1248	only	ONLY	1580		kaek	kaek 
+906	29-13-34-1	71312238245860624	Takia	taki1248	first	FIRST	728		mal-mala-n	mal-mala-n 
+907	29-13-35-1	71312238417239242	Takia	taki1248	last	LAST (FINAL)	1529		wada-n-pasik	wada-n-pasik 
+908	29-13-36-1	7131223866714002	Takia	taki1248	second	SECOND	1384		seken	seken 
+909	29-13-37-1	71312238169147727	Takia	taki1248	the pair	PAIR	1888		uraru-mi	uraru-mi 
+910	29-13-38-1	71312238759654108	Takia	taki1248	twice/two times	TWICE	1546		nal uraru	nal uraru 
+911	29-13-42-1	713122385563835	Takia	taki1248	third	THIRD	1859		ted	ted 
+912	29-13-44-1	71312238109831160	Takia	taki1248	three times	THREE TIMES	417		nal utol	nal utol 
+913	29-14-11-1	7131223872808643	Takia	taki1248	the time	TIME	892		saen	saen 
+914	29-14-12-1	71312238226837682	Takia	taki1248	the age	AGE	1789		grismas	grismas 
+915	29-14-13-1	71312238916598726	Takia	taki1248	new	NEW	1231		fou-	fou- 
+916	29-14-14-1	71312238916598726	Takia	taki1248	young	YOUNG	1207		fou-	fou- 
+917	29-14-15-1	71312238180777308	Takia	taki1248	old	OLD	1229		wagama-	wagama- 
+918	29-14-16-1	71312238579992221	Takia	taki1248	early	EARLY	672		inug, imug	inug 
+919	29-14-16-2	71312238579992221	Takia	taki1248	early	EARLY	672		inug, imug	imug 
+920	29-14-17-1	71312238865968500	Takia	taki1248	late	LATE	477		mar na	mar na 
+921	29-14-18-1	71312238635562522	Takia	taki1248	now	NOW	1376		gamu	gamu 
+922	29-14-19-1	71312238865808141	Takia	taki1248	immediately	IMMEDIATELY	1963		gamu geig	gamu geig 
+923	29-14-21-1	71312238869927579	Takia	taki1248	fast	FAST	1631		wlwale-mi	wlwale-mi 
+924	29-14-22-1	71312238896732917	Takia	taki1248	slow	SLOW	701		pasak na-mi	pasak na-mi 
+925	29-14-23-1	71312238622631182	Takia	taki1248	to hurry	HURRY	754		wlwale-mi -aw	wlwale-mi -aw 
+926	29-14-24-1	71312238694788971	Takia	taki1248	to be late	BE LATE	425		-abi-twani	-abi-twani 
+927	29-14-26-1	71312238476938069	Takia	taki1248	the end(2)	END (OF TIME)	743		wada-	wada- 
+928	29-14-27-1	71312238890184836	Takia	taki1248	to finish	FINISH	1766		-tout	-tout 
+929	29-14-29-1	71312238153017764	Takia	taki1248	ready	READY	790		aria	aria 
+930	29-14-31-1	71312238110165145	Takia	taki1248	always	ALWAYS	1676		pempem	pempem 
+931	29-14-32-1	71312238209270753	Takia	taki1248	often	OFTEN	1852		nal pempem	nal pempem 
+932	29-14-33-1	7131223824701603	Takia	taki1248	sometimes	SOMETIMES	1544		nal kaek-kaek	nal kaek-kaek 
+933	29-14-331-1	71312238900866733	Takia	taki1248	soon	SOON	703		kteka-n da-p	kteka-n da-p 
+934	29-14-332-1	71312238538408646	Takia	taki1248	for a long time	FOR A LONG TIME	418		mlae-n-mi	mlae-n-mi 
+935	29-14-34-1	7131223832661592	Takia	taki1248	never	NEVER	1656		tya-geig	tya-geig 
+936	29-14-35-1	71312238146740291	Takia	taki1248	again	AGAIN	204		fou-n-mi	fou-n-mi 
+937	29-14-41-1	7131223813350125	Takia	taki1248	the day(1)	DAY (24 HOURS)	1260		adyan, ad-uyan	adyan 
+938	29-14-41-2	7131223813350125	Takia	taki1248	the day(1)	DAY (24 HOURS)	1260		adyan, ad-uyan	ad-uyan 
+939	29-14-42-1	7131223868500800	Takia	taki1248	the night	NIGHT	1233		tdom	tdom 
+940	29-14-43-1	71312238494984817	Takia	taki1248	the dawn	DAWN	729		salso	salso 
+941	29-14-44-1	71312238494570093	Takia	taki1248	the morning	MORNING	1339		tdom-mi	tdom-mi 
+942	29-14-45-1	71312238938170453	Takia	taki1248	the midday	MIDDAY	12		ad bibe-n	ad bibe-n 
+943	29-14-451-1	71312238790603610	Takia	taki1248	the afternoon	AFTERNOON	1807		graian	graian 
+944	29-14-46-1	71312238790603610	Takia	taki1248	the evening	EVENING	1629		graian	graian 
+945	29-14-47-1	71312238635562522	Takia	taki1248	today	TODAY	1283		gamu	gamu 
+946	29-14-48-1	71312238671010345	Takia	taki1248	tomorrow	TOMORROW	1329		gabulo=p	gabulo=p 
+947	29-14-481-1	71312238276202178	Takia	taki1248	the day after tomorrow	DAY AFTER TOMORROW	1179		salso=p	salso=p 
+948	29-14-49-1	71312238856648345	Takia	taki1248	yesterday	YESTERDAY	1174		nor	nor 
+949	29-14-491-1	71312238655359910	Takia	taki1248	the day before yesterday	DAY BEFORE YESTERDAY	1180		wari	wari 
+950	29-14-51-1	71312238925954200	Takia	taki1248	the hour	HOUR	1353		awa	awa 
+951	29-14-53-1	71312238176071521	Takia	taki1248	the clock	CLOCK	1323		klok	klok 
+952	29-14-61-1	7131223824286041	Takia	taki1248	the week	WEEK	1469		ubou	ubou 
+953	29-14-62-1	7131223824286041	Takia	taki1248	Sunday	SUNDAY	1699		ubou	ubou 
+954	29-14-63-1	71312238949766528	Takia	taki1248	Monday	MONDAY	1697		mandei	mandei 
+955	29-14-64-1	71312238785069433	Takia	taki1248	Tuesday	TUESDAY	1695		tudei	tudei 
+956	29-14-65-1	71312238460443176	Takia	taki1248	Wednesday	WEDNESDAY	1694		tridei	tridei 
+957	29-14-66-1	71312238947607493	Takia	taki1248	Thursday	THURSDAY	1693		fodei	fodei 
+958	29-14-67-1	71312238645004051	Takia	taki1248	Friday	FRIDAY	1692		fraidei	fraidei 
+959	29-14-68-1	71312238541862129	Takia	taki1248	Saturday	SATURDAY	1700		sarrei	sarrei 
+960	29-14-71-1	71312238192749018	Takia	taki1248	the month	MONTH	1370		kalam	kalam 
+961	29-14-73-1	71312238330585234	Takia	taki1248	the year	YEAR	1226		anaŋ-ar	anaŋ-ar 
+962	29-14-78-1	71312238139474188	Takia	taki1248	the season	SEASON	691		nal	nal 
+963	29-15-21-1	71312238377367473	Takia	taki1248	to smell(1)	SMELL (STINK)	1587		-wen	-wen 
+964	29-15-89-1	71312238354862979	Takia	taki1248	wrinkled	WRINKLED	380		isaŋi	isaŋi 
+965	29-15-212-1	71312238378249230	Takia	taki1248	to sniff	SNIFF	375		-rassani	-rassani 
+966	29-15-22-1	7131223897278337	Takia	taki1248	to smell(2)	SMELL (PERCEIVE)	1586		-wen -loŋ	-wen -loŋ 
+967	29-15-25-1	71312238964267192	Takia	taki1248	fragrant	FRAGRANT	376		-wen uya-n	-wen uya-n 
+968	29-15-26-1	71312238374904962	Takia	taki1248	stinking	STINKING	42		-wen sae-n	-wen sae-n 
+969	29-15-31-1	71312238729770716	Takia	taki1248	to taste	TASTE (SOMETHING)	21		-ple -le	-ple -le 
+970	29-15-35-1	71312238936573014	Takia	taki1248	sweet	SWEET	717		blbal	blbal 
+971	29-15-36-1	71312238197437197	Takia	taki1248	salty	SALTY	1091		beig-beig	beig-beig 
+972	29-15-37-1	71312238897817257	Takia	taki1248	bitter	BITTER	887		gge-	gge- 
+973	29-15-38-1	71312238723287245	Takia	taki1248	sour	SOUR	1906		mnak	mnak 
+974	29-15-39-1	7131223882248218	Takia	taki1248	brackish	BRACKISH	70		grger	grger 
+975	29-15-41-1	71312238856439048	Takia	taki1248	to hear	HEAR	1408		-loŋ	-loŋ 
+976	29-15-42-1	71312238856439048	Takia	taki1248	to listen	LISTEN	1608		-loŋ	-loŋ 
+977	29-15-44-1	71312238897732736	Takia	taki1248	the sound or noise	SOUND OR NOISE	1811		llŋan	llŋan 
+978	29-15-45-1	71312238542008188	Takia	taki1248	loud	LOUD	377		tbu- (1)	tbu- (1) 
+979	29-15-46-1	71312238597845963	Takia	taki1248	quiet	QUIET	1314		malin	malin 
+980	29-15-51-1	71312238208320275	Takia	taki1248	to see	SEE	1409		-le	-le 
+981	29-15-52-1	71312238208320275	Takia	taki1248	to look	LOOK	1819		-le	-le 
+982	29-15-55-1	71312238850466633	Takia	taki1248	to show	SHOW	1039		-kbyai	-kbyai 
+983	29-15-56-1	71312238467789833	Takia	taki1248	to shine	SHINE	708		-ded	-ded 
+984	29-15-57-1	71312238176302779	Takia	taki1248	bright	BRIGHT	679		mala- (2)	mala- (2) 
+985	29-15-61-1	71312238905387733	Takia	taki1248	the colour/color	COLOR	1613		kala	kala 
+986	29-15-64-1	71312238579321680	Takia	taki1248	white	WHITE	1335		malkouk	malkouk 
+987	29-15-65-1	71312238689682243	Takia	taki1248	black	BLACK	163		tdom-tbu-n	tdom-tbu-n 
+988	29-15-66-1	71312238792957943	Takia	taki1248	red	RED	156		dara-n	dara-n 
+989	29-15-67-1	71312238871099926	Takia	taki1248	blue	BLUE	837		yedyed	yedyed 
+990	29-15-68-1	71312238848662477	Takia	taki1248	green	GREEN	1425		ai-rou-k	ai-rou-k 
+991	29-15-69-1	71312238529169925	Takia	taki1248	yellow	YELLOW	1424		kdabog	kdabog 
+992	29-15-71-1	71312238620339575	Takia	taki1248	to touch	TOUCH	1892		-abi	-abi 
+993	29-15-712-1	71312238862443894	Takia	taki1248	to pinch	PINCH	378		-ktni	-ktni 
+994	29-15-72-1	7131223857214797	Takia	taki1248	to feel	FEEL	1079		-kbyani	-kbyani 
+995	29-15-74-1	71312238208631312	Takia	taki1248	hard	HARD	1884		sakar	sakar 
+996	29-15-75-1	71312238302769001	Takia	taki1248	soft	SOFT	1856		matala-	matala- 
+997	29-15-76-1	71312238866858645	Takia	taki1248	rough(1)	ROUGH	1923		raf	raf 
+998	29-15-77-1	71312238271422589	Takia	taki1248	smooth	SMOOTH	1234		smut	smut 
+999	29-15-78-1	71312238176302779	Takia	taki1248	sharp	SHARP	1396		mala- (2)	mala- (2) 
+1000	29-15-79-1	71312238372507793	Takia	taki1248	blunt	BLUNT	379		mala-n tya i (1)	mala-n tya i (1) 
+1001	29-15-81-1	71312238418742696	Takia	taki1248	heavy	HEAVY	1210		mrwa-	mrwa- 
+1002	29-15-82-1	7131223870047875	Takia	taki1248	light(1)	LIGHT (WEIGHT)	1052		pasama-	pasama- 
+1003	29-15-83-1	7131223855037704	Takia	taki1248	wet	WET	1726		-gan	-gan 
+1004	29-15-84-1	71312238672987141	Takia	taki1248	dry	DRY	1398		gos	gos 
+1005	29-15-85-1	71312238463725938	Takia	taki1248	hot	HOT	1286		wanana-	wanana- 
+1006	29-15-851-1	71312238463725938	Takia	taki1248	warm	WARM	1232		wanana-	wanana- 
+1007	29-15-86-1	7131223849873875	Takia	taki1248	cold	COLD	1287		bbarum	bbarum 
+1008	29-15-87-1	71312238579321680	Takia	taki1248	clean	CLEAN	704		malkouk	malkouk 
+1009	29-15-88-1	71312238739331679	Takia	taki1248	dirty	DIRTY	1230		nun a-n da ya	nun a-n da ya 
+1010	29-16-11-1	71312238350136695	Takia	taki1248	the soul or spirit	SOUL	811		ŋtu-	ŋtu- 
+1011	29-16-15-1	71312238279498857	Takia	taki1248	surprised or astonished	SURPRISED	1572		-sror	-sror 
+1012	29-16-23-1	71312238734843098	Takia	taki1248	happy	HAPPY	1495		uya-ssai	uya-ssai 
+1013	29-16-25-1	7131223878794870	Takia	taki1248	to laugh	LAUGH	1355		-sel	-sel 
+1014	29-16-251-1	7131223820966950	Takia	taki1248	to smile	SMILE	1451		-sel-ssi	-sel-ssi 
+1015	29-16-26-1	71312238413737799	Takia	taki1248	to play	PLAY	1413		-kok	-kok 
+1016	29-16-27-1	7131223871887868	Takia	taki1248	to love	LOVE	923		bbe- -pani	bbe- -pani 
+1017	29-16-29-1	71312238678670140	Takia	taki1248	to kiss	KISS	578		msuk -pani	msuk -pani 
+1018	29-16-3-1	71312238839733113	Takia	taki1248	to embrace	EMBRACE	928		-lati	-lati 
+1019	29-16-31-1	71312238654169167	Takia	taki1248	the pain	PAIN	1783		madai	madai 
+1020	29-16-32-1	71312238838811483	Takia	taki1248	the grief	GRIEF	1668		ilo-mŋane-k	ilo-mŋane-k 
+1021	29-16-33-1	71312238931812650	Takia	taki1248	the anxiety	ANXIETY	1000		ilo-mrwa-n	ilo-mrwa-n 
+1022	29-16-34-1	71312238753396975	Takia	taki1248	to regret or be sorry	REGRET	1875		ilo- -pani	ilo- -pani 
+1023	29-16-35-1	71312238219657801	Takia	taki1248	the pity	PITY	1141		ilo-pane-k	ilo-pane-k 
+1024	29-16-37-1	71312238602001808	Takia	taki1248	to cry	CRY	1839		-tata	-tata 
+1025	29-16-38-1	71312238438280826	Takia	taki1248	the tear	TEAR (OF EYE)	1651		iro-	iro- 
+1026	29-16-39-1	71312238192551175	Takia	taki1248	to groan	GROAN	716		-sasai	-sasai 
+1027	29-16-41-1	7131223889465744	Takia	taki1248	to hate	HATE	1607		syai	syai 
+1028	29-16-42-1	71312238446771196	Takia	taki1248	the anger	ANGER	82		ilo- sae-n	ilo- sae-n 
+1029	29-16-44-1	71312238313509981	Takia	taki1248	the envy or jealousy	ENVY	40		mala-se-k	mala-se-k 
+1030	29-16-45-1	71312238156888743	Takia	taki1248	the shame	SHAME	1776		myai	myai 
+1031	29-16-48-1	71312238508363404	Takia	taki1248	proud	PROUD	174		ptyanoy	ptyanoy 
+1032	29-16-52-1	71312238194291994	Takia	taki1248	brave	BRAVE	3		rre-k tya	rre-k tya 
+1033	29-16-53-1	71312238949342895	Takia	taki1248	the fear	FEAR (FRIGHT)	781		rre-k	rre-k 
+1034	29-16-54-1	71312238235727205	Takia	taki1248	the danger	DANGER	1810		ager	ager 
+1035	29-16-62-1	71312238232447657	Takia	taki1248	to want	WANT	1784		ilo-yen	ilo-yen 
+1036	29-16-622-1	71312238682111943	Takia	taki1248	to choose	CHOOSE	1750		-plani	-plani 
+1037	29-16-63-1	71312238718636874	Takia	taki1248	to hope	HOPE (SOMETHING)	3212		ilo-sou	ilo-sou 
+1038	29-16-65-1	71312238129834282	Takia	taki1248	faithful	FAITHFUL	100		kagin -pani (1)	kagin -pani (1) 
+1039	29-16-66-1	71312238976554389	Takia	taki1248	true	TRUE	1657		rmok	rmok 
+1040	29-16-67-1	71312238270827955	Takia	taki1248	to lie(2)	LIE (MISLEAD)	601		-rawi	-rawi 
+1041	29-16-68-1	71312238604281213	Takia	taki1248	the deceit	DECEIT	13		rawe-k	rawe-k 
+1042	29-16-69-1	71312238377126207	Takia	taki1248	to forgive	FORGIVE	1528		-pare -du	-pare -du 
+1043	29-16-71-1	71312238121493598	Takia	taki1248	good	GOOD	1035		uya-	uya- 
+1044	29-16-72-1	71312238971022242	Takia	taki1248	bad	BAD	1292		sae-	sae- 
+1045	29-16-73-1	71312238121493598	Takia	taki1248	right(2)	CORRECT (RIGHT)	1725		uya-	uya- 
+1046	29-16-74-1	71312238971022242	Takia	taki1248	wrong	WRONG	1390		sae-	sae- 
+1047	29-16-78-1	71312238375652780	Takia	taki1248	the blame	BLAME	381		ai wada-n	ai wada-n 
+1048	29-16-79-1	71312238453727149	Takia	taki1248	the praise	PRAISE	1687		yanga-n -abi-sa	yanga-n -abi-sa 
+1049	29-16-81-1	71312238121493598	Takia	taki1248	beautiful	BEAUTIFUL	1427		uya-	uya- 
+1050	29-16-82-1	71312238971022242	Takia	taki1248	ugly	UGLY	1548		sae-	sae- 
+1051	29-16-83-1	71312238759677789	Takia	taki1248	greedy	GREEDY	2018		-par-ftani	-par-ftani 
+1052	29-16-84-1	71312238987906881	Takia	taki1248	clever	CLEVER	1310		kawila-	kawila- 
+1053	29-17-11-1	71312238386856529	Takia	taki1248	the mind	MIND	1562		kankan	kankan 
+1054	29-17-14-1	71312238617202154	Takia	taki1248	to think(2)	THINK (BELIEVE)	1513		-bol	-bol 
+1055	29-17-15-1	71312238613350349	Takia	taki1248	to believe	BELIEVE	1890		ilo-rmok	ilo-rmok 
+1056	29-17-16-1	71312238856439048	Takia	taki1248	to understand	UNDERSTAND	1536		-loŋ	-loŋ 
+1057	29-17-17-1	71312238856439048	Takia	taki1248	to know	KNOW (SOMETHING)	1410		-loŋ	-loŋ 
+1058	29-17-171-1	71312238747960270	Takia	taki1248	to guess	GUESS	1932		kankan -gane	kankan -gane 
+1059	29-17-172-1	71312238943118188	Takia	taki1248	to imitate	IMITATE	117		-ttŋani	-ttŋani 
+1060	29-17-18-1	71312238911148989	Takia	taki1248	to seem	SEEM	1521		-bol=oŋ	-bol=oŋ 
+1061	29-17-19-1	71312238386856529	Takia	taki1248	the idea	IDEA	1609		kankan	kankan 
+1062	29-17-21-1	71312238474319899	Takia	taki1248	wise	WISE	698		kankan mlae-n	kankan mlae-n 
+1063	29-17-22-1	71312238998214144	Takia	taki1248	stupid	STUPID	1518		srawoy	srawoy 
+1064	29-17-23-1	7131223826931315	Takia	taki1248	mad	MAD	1899		braurau	braurau 
+1065	29-17-24-1	71312238326862208	Takia	taki1248	to learn	LEARN	504		maŋaw -loŋ	maŋaw -loŋ 
+1066	29-17-242-1	71312238722120797	Takia	taki1248	to study	STUDY	1929		-le -loŋ	-le -loŋ 
+1067	29-17-25-1	71312238310760052	Takia	taki1248	to teach	TEACH	709		-ptŋani	-ptŋani 
+1068	29-17-26-1	71312238571973514	Takia	taki1248	the pupil	PUPIL (STUDENT)	753		sumatin	sumatin 
+1069	29-17-27-1	71312238837713038	Takia	taki1248	the teacher	TEACHER	1038		gre-k maŋau	gre-k maŋau 
+1070	29-17-28-1	71312238960045445	Takia	taki1248	the school	SCHOOL	673		skul	skul 
+1071	29-17-31-1	71312238944344204	Takia	taki1248	to remember	REMEMBER	707		ilo- -sou	ilo- -sou 
+1072	29-17-32-1	71312238389358777	Takia	taki1248	to forget	FORGET	1523		ilo- -ŋauŋ	ilo- -ŋauŋ 
+1073	29-17-34-1	71312238767901298	Takia	taki1248	clear	CLEAR	989		kwai te ya	kwai te ya 
+1074	29-17-35-1	71312238437108017	Takia	taki1248	obscure	OBSCURE	1764		myanu-k	myanu-k 
+1075	29-17-36-1	71312238437108017	Takia	taki1248	secret	SECRET	1121		myanu-k	myanu-k 
+1076	29-17-37-1	71312238834365824	Takia	taki1248	certain	CERTAIN	509		mel-rmok	mel-rmok 
+1077	29-17-38-1	71312238560259498	Takia	taki1248	to explain	EXPLAIN	1626		-flale	-flale 
+1078	29-17-42-1	71312238733494940	Takia	taki1248	the cause	CAUSE	860		-gane, -ga	-gane 
+1079	29-17-42-2	71312238733494940	Takia	taki1248	the cause	CAUSE	860		-gane, -ga	-ga 
+1080	29-17-43-1	71312238797447659	Takia	taki1248	the doubt	DOUBT	1308		ilo- wei	ilo- wei 
+1081	29-17-441-1	71312238601054315	Takia	taki1248	to betray	BETRAY	1902		kwai te -gane	kwai te -gane 
+1082	29-17-46-1	7131223870047875	Takia	taki1248	easy	EASY	686		pasama-	pasama- 
+1083	29-17-47-1	71312238418742696	Takia	taki1248	difficult	DIFFICULT	584		mrwa-	mrwa- 
+1084	29-17-48-1	71312238647499760	Takia	taki1248	to try	TRY	1812		-ga -le	-ga -le 
+1085	29-17-49-1	71312238663273834	Takia	taki1248	the manner	MANNER	488		kagin	kagin 
+1086	29-17-52-1	71312238108733532	Takia	taki1248	because	BECAUSE	1157		=ta=g	=ta=g 
+1087	29-17-53-1	71312238855710933	Takia	taki1248	if	IF	1459		=ta=p	=ta=p 
+1088	29-17-54-1	71312238830704211	Takia	taki1248	or	OR	1014		o	o 
+1089	29-17-55-1	71312238284737989	Takia	taki1248	yes	YES	1268		awo	awo 
+1090	29-17-56-1	71312238543349657	Takia	taki1248	no	NO	1269		tya	tya 
+1091	29-17-61-1	71312238973012182	Takia	taki1248	how?	HOW	1239		dgo	dgo 
+1092	29-17-62-1	71312238585800606	Takia	taki1248	how many?	HOW MANY	822		sapita	sapita 
+1093	29-17-63-1	71312238585800606	Takia	taki1248	how much?	HOW MUCH	531		sapita	sapita 
+1094	29-17-64-1	71312238580846200	Takia	taki1248	what?	WHAT	1236		ata	ata 
+1095	29-17-65-1	71312238922263058	Takia	taki1248	when?	WHEN	1238		saŋe-p na	saŋe-p na 
+1096	29-17-66-1	71312238973012182	Takia	taki1248	where?	WHERE	1237		dgo	dgo 
+1097	29-17-67-1	71312238688338507	Takia	taki1248	which?	WHICH	727		dgo-mai	dgo-mai 
+1098	29-17-68-1	71312238766999517	Takia	taki1248	who?	WHO	1235		inti	inti 
+1099	29-17-69-1	71312238368093661	Takia	taki1248	why?	WHY	1270		intaw	intaw 
+1100	29-18-11-1	7131223871438131	Takia	taki1248	the voice	VOICE	1363		klagu-	klagu- 
+1101	29-18-12-1	71312238933252943	Takia	taki1248	to sing	SING	1261		-bar	-bar 
+1102	29-18-13-1	71312238192551175	Takia	taki1248	to shout	SHOUT	715		-sasai	-sasai 
+1103	29-18-15-1	71312238490210659	Takia	taki1248	to whisper	WHISPER	55		kssik -bol	kssik -bol 
+1104	29-18-16-1	71312238716795616	Takia	taki1248	to mumble	MUMBLE	128		-ŋr-ŋur	-ŋr-ŋur 
+1105	29-18-17-1	71312238822448644	Takia	taki1248	to whistle	WHISTLE	1025		-ped	-ped 
+1106	29-18-18-1	71312238615709189	Takia	taki1248	to shriek	SHRIEK	298		-sasai-li	-sasai-li 
+1107	29-18-19-1	71312238757178198	Takia	taki1248	to howl	HOWL	526		-bob	-bob 
+1108	29-18-21-1	71312238617202154	Takia	taki1248	to speak or talk	SPEAK	1623		-bol	-bol 
+1109	29-18-211-1	71312238786578650	Takia	taki1248	to stutter or stammer	STUTTER	1866		-bol -glle	-bol -glle 
+1110	29-18-22-1	71312238617202154	Takia	taki1248	to say	SAY	1458		-bol	-bol 
+1111	29-18-221-1	71312238438770432	Takia	taki1248	to tell	TELL	1711		-pas	-pas 
+1112	29-18-222-1	7131223890719883	Takia	taki1248	the speech	SPEECH	1115		boum	boum 
+1113	29-18-23-1	71312238526928098	Takia	taki1248	to be silent	BE SILENT	48		awa-n i-tawa-n	awa-n i-tawa-n 
+1114	29-18-24-1	71312238110795900	Takia	taki1248	the language	LANGUAGE	1307		ru, uru	ru 
+1115	29-18-24-2	71312238110795900	Takia	taki1248	the language	LANGUAGE	1307		ru, uru	uru 
+1116	29-18-26-1	71312238110795900	Takia	taki1248	the word	WORD	1599		ru, uru	ru 
+1117	29-18-26-2	71312238110795900	Takia	taki1248	the word	WORD	1599		ru, uru	uru 
+1118	29-18-28-1	71312238449024347	Takia	taki1248	the name	NAME	1405		yanga-	yanga- 
+1119	29-18-31-1	71312238965804256	Takia	taki1248	to ask(1)	ASK (INQUIRE)	1309		-smyani	-smyani 
+1120	29-18-32-1	71312238895539956	Takia	taki1248	to answer	ANSWER	1275		awa- -abi (2)	awa- -abi (2) 
+1121	29-18-33-1	71312238374913877	Takia	taki1248	to admit	ADMIT	2022		kwai te -bol	kwai te -bol 
+1122	29-18-34-1	71312238971371301	Takia	taki1248	to deny	DENY	755		-tot	-tot 
+1123	29-18-35-1	71312238828853743	Takia	taki1248	to ask(2)	ASK (REQUEST)	1828		-gdana	-gdana 
+1124	29-18-36-1	71312238737775575	Takia	taki1248	to promise	PROMISE	1675		promis	promis 
+1125	29-18-37-1	71312238546781394	Takia	taki1248	to refuse	REFUSE	49		-moy	-moy 
+1126	29-18-38-1	71312238633109123	Takia	taki1248	to forbid	FORBID	83		-padaw	-padaw 
+1127	29-18-39-1	71312238654631497	Takia	taki1248	to scold	SCOLD	299		-pei	-pei 
+1128	29-18-41-1	71312238947865778	Takia	taki1248	to call(1)	CALL	1084		-wagi, -gi	-wagi 
+1129	29-18-41-2	71312238947865778	Takia	taki1248	to call(1)	CALL	1084		-wagi, -gi	-gi 
+1130	29-18-42-1	71312238564807416	Takia	taki1248	to call(2)	CALL BY NAME	180		yaŋa- -bol	yaŋa- -bol 
+1131	29-18-43-1	71312238109530098	Takia	taki1248	to announce	ANNOUNCE	9		-bol -lasa	-bol -lasa 
+1132	29-18-44-1	71312238551602634	Takia	taki1248	to threaten	THREATEN	1192		ilo-rer -pani	ilo-rer -pani 
+1133	29-18-45-1	71312238417596064	Takia	taki1248	to boast	BOAST	101		se- yaŋa- -abi-sa	se- yaŋa- -abi-sa 
+1134	29-18-51-1	71312238627782264	Takia	taki1248	to write	WRITE	1672		-gre	-gre 
+1135	29-18-52-1	71312238867743653	Takia	taki1248	to read	READ	724		-sti (2)	-sti (2) 
+1136	29-18-56-1	71312238821052743	Takia	taki1248	the paper	PAPER	648		pepa	pepa 
+1137	29-18-57-1	71312238837325796	Takia	taki1248	the pen	PEN	794		pen (1)	pen (1) 
+1138	29-18-61-1	71312238481849085	Takia	taki1248	the book	BOOK	963		buk	buk 
+1139	29-18-71-1	71312238837717965	Takia	taki1248	the flute	FLUTE	777		dum	dum 
+1140	29-18-72-1	71312238380955131	Takia	taki1248	the drum	DRUM	908		dgadug	dgadug 
+1141	29-18-72-2	71312238749534850	Takia	taki1248	the drum	DRUM	908		dou (2)	dou (2) 
+1142	29-18-74-1	71312238131714645	Takia	taki1248	the rattle	RATTLE	300		glagol	glagol 
+1143	29-19-11-1	7131223874858704	Takia	taki1248	the country	COUNTRY	1300		kantri	kantri 
+1144	29-19-12-1	71312238687697645	Takia	taki1248	the native country	NATIVE COUNTRY	89		tan fu-n	tan fu-n 
+1145	29-19-15-1	71312238441354473	Takia	taki1248	the town	TOWN	1391		taon	taon 
+1146	29-19-16-1	71312238456176258	Takia	taki1248	the village	VILLAGE	930		panu	panu 
+1147	29-19-17-1	71312238517660757	Takia	taki1248	the boundary	BOUNDARY	1010		mak	mak 
+1148	29-19-21-1	71312238412657317	Takia	taki1248	the people	PEOPLE	789		tamol-pein	tamol-pein 
+1149	29-19-23-1	7131223875126193	Takia	taki1248	the clan	CLAN	302		ggoy	ggoy 
+1150	29-19-24-1	71312238491663097	Takia	taki1248	the chieftain	CHIEFTAIN	301		grma-	grma- 
+1151	29-19-25-1	71312238247998390	Takia	taki1248	the walking stick	WALKING STICK	1296		kdud	kdud 
+1152	29-19-31-1	71312238640511210	Takia	taki1248	to rule or govern	RULE	1846		-trni	-trni 
+1153	29-19-32-1	71312238522320390	Takia	taki1248	the king	KING	1508		kiŋ	kiŋ 
+1154	29-19-33-1	71312238120162411	Takia	taki1248	the queen	QUEEN	1306		kwin	kwin 
+1155	29-19-41-1	71312238944743767	Takia	taki1248	the master	MASTER	383		masta	masta 
+1156	29-19-42-1	71312238627680144	Takia	taki1248	the slave	SLAVE	812		sleb	sleb 
+1157	29-19-43-1	71312238886407315	Takia	taki1248	the servant	SERVANT	255		wokboy	wokboy 
+1158	29-19-44-1	7131223831112646	Takia	taki1248	the freeman	FREEMAN	384		fri	fri 
+1159	29-19-45-1	71312238193304246	Takia	taki1248	to command or order	ORDER	1128		kagin -pani (2)	kagin -pani (2) 
+1160	29-19-46-1	71312238346322286	Takia	taki1248	to obey	OBEY	1635		awa-n -r-pani	awa-n -r-pani 
+1161	29-19-47-1	71312238679294173	Takia	taki1248	to permit	PERMIT	1003		-le-fni	-le-fni 
+1162	29-19-51-1	71312238906340178	Takia	taki1248	the friend	FRIEND	1325		tra-	tra- 
+1163	29-19-52-1	71312238235727205	Takia	taki1248	the enemy	ENEMY	1358		ager	ager 
+1164	29-19-54-1	71312238784405867	Takia	taki1248	the neighbour	NEIGHBOUR	1332		mdban	mdban 
+1165	29-19-55-1	71312238168570768	Takia	taki1248	the stranger	STRANGER	791		tal-pein se-n	tal-pein se-n 
+1166	29-19-56-1	71312238695989778	Takia	taki1248	the guest	GUEST	1782		lou tamol	lou tamol 
+1167	29-19-57-1	71312238394899211	Takia	taki1248	the host	HOST	1545		ab mroun	ab mroun 
+1168	29-19-58-1	71312238456927796	Takia	taki1248	to help	HELP	1897		-dni (2)	-dni (2) 
+1169	29-19-59-1	71312238277847983	Takia	taki1248	to prevent	PREVENT	1550		-grani	-grani 
+1170	29-19-61-1	71312238778619465	Takia	taki1248	the custom	CUSTOM	1747		bui fran	bui fran 
+1171	29-19-62-1	71312238802502325	Takia	taki1248	the quarrel	QUARREL	1848		pae-k	pae-k 
+1172	29-19-63-1	71312238435291030	Takia	taki1248	the plot	PLOT	2024		pal-aŋ	pal-aŋ 
+1173	29-19-65-1	71312238992692788	Takia	taki1248	to meet	MEET	1831		-tmani	-tmani 
+1174	29-19-72-1	71312238942158785	Takia	taki1248	the prostitute	PROSTITUTE	1610		dal sa-n pein	dal sa-n pein 
+1175	29-20-11-1	71312238427295695	Takia	taki1248	to fight	FIGHT	1423		-fni	-fni 
+1176	29-20-13-1	71312238332626716	Takia	taki1248	the war or battle	BATTLE	579		yu	yu 
+1177	29-20-14-1	71312238196700192	Takia	taki1248	the peace	PEACE	1338		maror	maror 
+1178	29-20-15-1	71312238712872364	Takia	taki1248	the army	ARMY	1561		ami	ami 
+1179	29-20-17-1	71312238431456950	Takia	taki1248	the soldier	SOLDIER	1941		soldia	soldia 
+1180	29-20-21-1	71312238987689118	Takia	taki1248	the weapons	WEAPONS	951		yu sa-n byouŋ	yu sa-n byouŋ 
+1181	29-20-22-1	71312238965674733	Takia	taki1248	the club	CLUB	1763		gaŋgaŋ	gaŋgaŋ 
+1182	29-20-222-1	71312238305061030	Takia	taki1248	the battle-axe	BATTLE-AXE	386		gmagim	gmagim 
+1183	29-20-23-1	71312238354072266	Takia	taki1248	the sling	SLING	387		tabai	tabai 
+1184	29-20-24-1	71312238143957743	Takia	taki1248	the bow	BOW	994		fui	fui 
+1185	29-20-25-1	71312238280223082	Takia	taki1248	the arrow	ARROW	977		den	den 
+1186	29-20-26-1	71312238332626716	Takia	taki1248	the spear	SPEAR	945		yu	yu 
+1187	29-20-27-1	7131223852939987	Takia	taki1248	the sword	SWORD	1535		sabiri	sabiri 
+1188	29-20-28-1	71312238102288735	Takia	taki1248	the gun	GUN	1566		gan	gan 
+1189	29-20-33-1	71312238536215439	Takia	taki1248	the helmet	HELMET	1680		helmet	helmet 
+1190	29-20-34-1	71312238632584280	Takia	taki1248	the shield	SHIELD	1064		dmui	dmui 
+1191	29-20-35-1	71312238102151759	Takia	taki1248	the fortress	FORTRESS	1938		sep	sep 
+1192	29-20-41-1	71312238714282970	Takia	taki1248	the victory	VICTORY	783		samenak	samenak 
+1193	29-20-44-1	71312238269411261	Takia	taki1248	to defend	DEFEND	1330		-prani	-prani 
+1194	29-20-45-1	71312238621938473	Takia	taki1248	to retreat	RETREAT	421		-mul	-mul 
+1195	29-20-46-1	7131223821258190	Takia	taki1248	to surrender	SURRENDER	1696		pae-n na -aw	pae-n na -aw 
+1196	29-20-47-1	713122381633915	Takia	taki1248	the captive or prisoner	PRISONER	1072		sbane-k tamol	sbane-k tamol 
+1197	29-20-471-1	71312238500095822	Takia	taki1248	the guard	GUARD	1940		ttyane-k	ttyane-k 
+1198	29-20-49-1	71312238282922325	Takia	taki1248	the ambush	AMBUSH	65		-ftani	-ftani 
+1199	29-20-52-1	7131223864923467	Takia	taki1248	the fishhook	FISHHOOK	1074		oul	oul 
+1200	29-20-53-1	71312238435264864	Takia	taki1248	the fishing line	FISHING LINE	19		mol	mol 
+1201	29-20-54-1	71312238826370841	Takia	taki1248	the fishnet	FISHNET	388		kakaŋ	kakaŋ 
+1202	29-20-55-1	71312238129538577	Takia	taki1248	the fish trap	FISH TRAP	389		saeŋ	saeŋ 
+1203	29-20-56-1	71312238562550965	Takia	taki1248	the bait	BAIT	2013		an-aŋ	an-aŋ 
+1204	29-20-61-1	71312238814406806	Takia	taki1248	to hunt	HUNT	1435		-kdi (1)	-kdi (1) 
+1205	29-20-62-1	71312238624726722	Takia	taki1248	to shoot	SHOOT	1172		-pane	-pane 
+1206	29-20-63-1	71312238318391464	Takia	taki1248	to miss	MISS (A TARGET)	161		-frfi	-frfi 
+1207	29-20-64-1	71312238571844940	Takia	taki1248	the trap	TRAP (PITFALL)	1075		tur	tur 
+1208	29-20-64-2	71312238779596865	Takia	taki1248	the trap	TRAP (PITFALL)	1075		dob	dob 
+1209	29-20-65-1	71312238620339575	Takia	taki1248	to trap	TRAP (CATCH)	1170		-abi	-abi 
+1210	29-21-11-1	71312238606616821	Takia	taki1248	the law	LAW	1062		kbyae-ŋ	kbyae-ŋ 
+1211	29-21-15-1	71312238803012104	Takia	taki1248	the court	COURT	1068		kot	kot 
+1212	29-12-013-1	71312238756411958	Takia	taki1248	at	AT	1461		na	na 
+1213	29-21-18-1	71312238259298875	Takia	taki1248	the judge	JUDGE	861		jas	jas 
+1214	29-21-21-1	71312238779540704	Takia	taki1248	the plaintiff	PLAINTIFF	2020		compleina	compleina 
+1215	29-21-22-1	71312238715125440	Takia	taki1248	the defendant	DEFENDANT	1034		difenda	difenda 
+1216	29-21-25-1	71312238628700037	Takia	taki1248	the oath	OATH	1712		holim Baibel	holim Baibel 
+1217	29-21-31-1	71312238242658428	Takia	taki1248	to accuse	ACCUSE	1814		saspek	saspek 
+1218	29-21-34-1	71312238956861328	Takia	taki1248	to acquit	ACQUIT	988		dismis	dismis 
+1219	29-21-35-1	71312238604762167	Takia	taki1248	guilty	GUILTY	1682		gilti	gilti 
+1220	29-21-36-1	71312238154200011	Takia	taki1248	innocent	INNOCENT	90		inosen	inosen 
+1221	29-21-37-1	71312238751068306	Takia	taki1248	the penalty or punishment	PUNISHMENT	390		nao-	nao- 
+1222	29-21-38-1	71312238611286056	Takia	taki1248	the fine	FINE (PENALTY)	218		kotfain	kotfain 
+1223	29-21-39-1	71312238849174	Takia	taki1248	the prison	PRISON	1281		klabus	klabus 
+1224	29-21-42-1	71312238684169812	Takia	taki1248	the murder	MURDER	845		meda	meda 
+1225	29-21-43-1	71312238421802720	Takia	taki1248	the adultery	ADULTERY	902		adaltri	adaltri 
+1226	29-21-44-1	71312238281409914	Takia	taki1248	the rape	RAPE	953		rep	rep 
+1227	29-21-46-1	71312238435328704	Takia	taki1248	the arson	ARSON	1889		-mari	-mari 
+1228	29-21-51-1	71312238568625025	Takia	taki1248	to steal	STEAL	713		-gam	-gam 
+1229	29-21-52-1	7131223841220012	Takia	taki1248	the thief	THIEF	1160		gmagam tamol	gmagam tamol 
+1230	29-22-12-1	71312238432643098	Takia	taki1248	the god	DEITY	3231		tbud	tbud 
+1231	29-22-13-1	71312238680689874	Takia	taki1248	the temple	TEMPLE	911		tempel	tempel 
+1232	29-22-14-1	7131223871667816	Takia	taki1248	the altar	ALTAR	853		altar	altar 
+1233	29-22-15-1	71312238983124312	Takia	taki1248	the sacrifice	SACRIFICE	1103		per	per 
+1234	29-22-16-1	71312238453727149	Takia	taki1248	to worship	WORSHIP	257		yanga-n -abi-sa	yanga-n -abi-sa 
+1235	29-22-17-1	71312238354699386	Takia	taki1248	to pray	PRAY	24		-gdani	-gdani 
+1236	29-22-19-1	7131223810760539	Takia	taki1248	holy	HOLY	1702		gun	gun 
+1237	29-22-22-1	71312238560259498	Takia	taki1248	to preach	PREACH	304		-flale	-flale 
+1238	29-22-23-1	71312238933252943	Takia	taki1248	to bless	BLESS	391		-bar	-bar 
+1239	29-22-24-1	71312238220968685	Takia	taki1248	to curse	CURSE	8		-mslani	-mslani 
+1240	29-22-26-1	71312238580343761	Takia	taki1248	to fast	ABSTAIN FROM FOOD	303		fastiŋ	fastiŋ 
+1241	29-22-31-1	71312238103579912	Takia	taki1248	the heaven	HEAVEN	1565		did panu	did panu 
+1242	29-22-32-1	71312238900224124	Takia	taki1248	the hell	HELL	878		ades	ades 
+1243	29-22-35-1	71312238138581092	Takia	taki1248	the demon	DEMON	1973		bgai	bgai 
+1244	29-22-35-2	71312238929217908	Takia	taki1248	the demon	DEMON	1973		weit	weit 
+1245	29-22-42-1	71312238808404295	Takia	taki1248	the magic	MAGIC	392		nawir	nawir 
+1246	29-22-43-1	71312238808404295	Takia	taki1248	the sorcerer or witch	MAGICIAN	2137		nawir	nawir 
+1247	29-22-44-1	71312238874720212	Takia	taki1248	the fairy or elf	ELF OR FAIRY	3206		tamol-mol	tamol-mol 
+1248	29-22-45-1	71312238350136695	Takia	taki1248	the ghost	GHOST	1175		ŋtu-	ŋtu- 
+1249	29-22-47-1	71312238250655871	Takia	taki1248	the omen	OMEN	107		bagor	bagor 
+1250	29-23-1-1	71312238661945733	Takia	taki1248	the radio	RADIO	1315		redio	redio 
+1251	29-23-11-1	7131223894675506	Takia	taki1248	the television	TELEVISION	1788		tiwi	tiwi 
+1252	29-23-12-1	71312238560105328	Takia	taki1248	the telephone	TELEPHONE	1379		telefon	telefon 
+1253	29-23-135-1	71312238407935368	Takia	taki1248	the motorcycle	MOTORCYCLE	638		motobaik	motobaik 
+1254	29-23-14-1	7131223881252159	Takia	taki1248	the car	CAR	1111		kar	kar 
+1255	29-23-15-1	71312238910076657	Takia	taki1248	the bus	BUS	1070		bas	bas 
+1256	29-23-16-1	71312238535974839	Takia	taki1248	the airplane	AIRPLANE	1597		balus	balus 
+1257	29-23-17-1	71312238492097325	Takia	taki1248	the electricity	ELECTRICITY	59		pawa	pawa 
+1258	29-23-175-1	71312238792365161	Takia	taki1248	the battery	BATTERY	662		batri	batri 
+1259	29-23-2-1	71312238148246414	Takia	taki1248	the hospital	HOSPITAL	616		aosik	aosik 
+1260	29-23-21-1	71312238734166285	Takia	taki1248	the nurse	NURSE	1104		sista	sista 
+1261	29-23-22-1	71312238247748617	Takia	taki1248	the pill or tablet	PILL	395		marasin	marasin 
+1262	29-23-23-1	71312238627439333	Takia	taki1248	the injection	INJECTION	1805		sut	sut 
+1263	29-23-5-1	71312238647191164	Takia	taki1248	the tap/faucet	FAUCET	1488		kok	kok 
+1264	29-23-51-1	71312238314518761	Takia	taki1248	the sink	SINK (BASIN)	915		besin	besin 
+1265	29-23-52-1	71312238629298037	Takia	taki1248	the toilet	TOILET	219		toilet	toilet 
+1266	29-23-53-1	71312238265369525	Takia	taki1248	the mattress	MATTRESS	105		matres	matres 
+1267	29-23-3-1	71312238631629346	Takia	taki1248	the government	GOVERNMENT	815		gavman	gavman 
+1268	29-23-31-1	71312238451057877	Takia	taki1248	the president	PRESIDENT	899		presiden	presiden 
+1269	29-23-32-1	71312238397912518	Takia	taki1248	the minister	MINISTER	486		minista	minista 
+1270	29-23-33-1	71312238711084917	Takia	taki1248	the police	POLICE	656		polis	polis 
+1271	29-23-34-1	71312238827668665	Takia	taki1248	the driver's license	DRIVER'S LICENSE	599		draiva laisens	draiva laisens 
+1272	29-23-37-1	7131223836796296	Takia	taki1248	the crime	CRIME	1066		kriminol	kriminol 
+1273	29-23-38-1	71312238603644882	Takia	taki1248	the election	ELECTION	240		eleksin	eleksin 
+1274	29-23-4-1	7131223816989829	Takia	taki1248	the post/mail	MAIL	167		pos	pos 
+1275	29-23-41-1	71312238420829252	Takia	taki1248	the postage stamp	POSTAGE STAMP	596		stem	stem 
+1276	29-23-42-1	71312238350977005	Takia	taki1248	the letter	LETTER	1612		pas	pas 
+1277	29-23-44-1	71312238156991285	Takia	taki1248	the bank	BANK	1284		beng	beng 
+1278	29-23-54-1	71312238282232888	Takia	taki1248	the tin/can	CAN	1051		tin	tin 
+1279	29-23-55-1	71312238893529008	Takia	taki1248	the screw	SCREW	1802		skru	skru 
+1280	29-23-555-1	71312238717013303	Takia	taki1248	the screwdriver	SCREWDRIVER	836		skrudraiva	skrudraiva 
+1281	29-23-56-1	71312238842809089	Takia	taki1248	the bottle	BOTTLE	1321		botol	botol 
+1282	29-23-565-1	71312238957055186	Takia	taki1248	the candy/sweets	CANDY	874		loli	loli 
+1283	29-23-24-1	71312238250607051	Takia	taki1248	the spectacles/glasses	SPECTACLES	1898		aiglas	aiglas 
+1284	29-23-57-1	71312238381720566	Takia	taki1248	the plastic	PLASTIC	654		plastik	plastik 
+1285	29-23-575-1	7131223820265228	Takia	taki1248	the bomb	BOMB	1804		bom	bom 
+1286	29-23-58-1	71312238291244492	Takia	taki1248	the workshop	WORKSHOP	1677		woksap	woksap 
+1287	29-23-59-1	71312238392232473	Takia	taki1248	the cigarette	CIGARETTE	969		sigaret	sigaret 
+1288	29-23-61-1	71312238339934340	Takia	taki1248	the calendar	CALENDAR	1967		kalenda	kalenda 
+1289	29-23-62-1	71312238507982983	Takia	taki1248	the film/movie	MOVIE	216		filim	filim 
+1290	29-23-63-1	71312238350784671	Takia	taki1248	the music	MUSIC	642		bar	bar 
+1291	29-23-63-2	71312238317008422	Takia	taki1248	the music	MUSIC	642		musik	musik 
+1292	29-23-64-1	71312238832902368	Takia	taki1248	the song	SONG	1096		soŋ	soŋ 
+1293	29-23-6-1	71312238630561292	Takia	taki1248	the newspaper	NEWSPAPER	1298		niuspepa	niuspepa 
+1294	29-23-385-1	71312238602722569	Takia	taki1248	the address	ADDRESS	591		adres	adres 
+1295	29-23-39-1	71312238536160486	Takia	taki1248	the number	NUMBER	1356		namba	namba 
+1296	29-23-155-1	71312238853095289	Takia	taki1248	the train	TRAIN	900		tren	tren 
+1297	29-23-18-1	71312238917056637	Takia	taki1248	to brake	BRAKE	966		brek	brek 
+1298	29-23-195-1	71312238945539709	Takia	taki1248	the petroleum	PETROLEUM	650		wel	wel 
+1299	29-23-185-1	71312238838255389	Takia	taki1248	the motor	MOTOR	110		moto	moto 
+1300	29-23-19-1	71312238707408455	Takia	taki1248	the machine	MACHINE	144		masin	masin 
+1301	29-23-13-1	71312238968537444	Takia	taki1248	the bicycle	BICYCLE	747		wilwil	wilwil 
+1302	29-23-395-1	71312238653840313	Takia	taki1248	the street	STREET	1362		strit	strit 
+1303	29-23-35-1	71312238257417921	Takia	taki1248	the license plate	LICENSE PLATE	1790		nambaplet	nambaplet 
+1304	29-23-43-1	71312238264949442	Takia	taki1248	the postcard	POSTCARD	1497		piksakad	piksakad 
+1305	29-24-02-1	71312238420361786	Takia	taki1248	to become	BECOME	1990		-la-sa	-la-sa 
+1306	29-24-13-1	71312238306001712	Takia	taki1248	same	SAME	200		nao-n kaek	nao-n kaek 
+1307	29-24-06-1	71312238702401982	Takia	taki1248	not	NOT	1240		ta (2)	ta (2) 
+1308	29-24-07-1	71312238151730525	Takia	taki1248	this	THIS	1214		ye-n	ye-n 
+1309	29-24-08-1	71312238313354800	Takia	taki1248	that	THAT	78		a-n	a-n 
+1310	29-24-09-1	71312238295773880	Takia	taki1248	here	HERE	136		ye	ye 
+1311	29-24-1-1	71312238669895703	Takia	taki1248	there	THERE	1937		a	a 
+1312	29-24-11-1	71312238928213213	Takia	taki1248	other	OTHER	197		aenta	aenta 
+1313	29-4-493-1	7131223834655721	Takia	taki1248	the vagina	VAGINA	1836		dle-	dle- 
+1314	29-23-9-1	71312238386899470	Takia	taki1248	the tea	TEA	1373		ti	ti 
+1315	29-23-91-1	71312238915406080	Takia	taki1248	the coffee	COFFEE	1299		kofi	kofi 
+1316	29-24-12-1	71312238853560063	Takia	taki1248	next	NEXT	1354		irip	irip 
+1317	29-3-863-1	71312238812473258	Takia	taki1248	the hare	HARE	1190		rebit	rebit 
+1318	29-4-465-1	71312238529525105	Takia	taki1248	the sinew or tendon	TENDON	1137		im	im 
+1319	29-22-5-1	71312238989377941	Takia	taki1248	the circumcision	CIRCUMCISION	393		katim-skin	katim-skin 
+1320	29-22-51-1	71312238914745856	Takia	taki1248	the initiation ceremony	INITIATION CEREMONY	1946		mluŋ	mluŋ 
+1321	29-4-494-1	7131223834655721	Takia	taki1248	the vulva	VULVA	1837		dle-	dle- 
+1322	29-8-28-1	71312238293914996	Takia	taki1248	the digging stick (=yamstick)	DIGGING STICK	339		ŋei	ŋei 
+1323	29-3-833-1	71312238296963444	Takia	taki1248	the prawns or shrimp	PRAWNS	238		sabai	sabai 
+1324	29-3-834-1	71312238255636722	Takia	taki1248	the termites	TERMITE	883		ser	ser 
+1325	29-3-835-1	71312238271656940	Takia	taki1248	the tick	TICK	1527		kamed	kamed 
+1326	29-3-88-1	71312238122527459	Takia	taki1248	the kangaroo	KANGAROO	164		keŋgaru	keŋgaru 
+1327	29-3-913-1	71312238876238742	Takia	taki1248	the chameleon	CHAMELEON	1555		tni-ksalai	tni-ksalai 
+1328	29-10-58-1	71312238621938473	Takia	taki1248	to go or return home	RETURN HOME	142		-mul	-mul 
+1329	29-3-917-1	7131223874809796	Takia	taki1248	the buffalo	BUFFALO	934		bafolo	bafolo 
+1330	29-1-411-1	71312238540746287	Takia	taki1248	the savanna	SAVANNA	260		brai	brai 
+1331	29-1-831-1	71312238697893106	Takia	taki1248	the steam	STEAM	1193		you wanna-n san ur	you wanna-n san ur 
+1332	29-2-4561-1	71312238179015054	Takia	taki1248	the older sibling	OLDER SIBLING	405		tei-	tei- 
+1333	29-2-4562-1	71312238179015054	Takia	taki1248	the younger sibling	YOUNGER SIBLING	427		tei-	tei- 
+1334	29-2-4711-1	71312238919971545	Takia	taki1248	the grandparents	GRANDPARENTS	305		tbu- (2)	tbu- (2) 
+1335	29-2-5-1	71312238919971545	Takia	taki1248	the grandchild	GRANDCHILD	1617		tbu- (2)	tbu- (2) 
+1336	29-2-6412-1	71312238235198189	Takia	taki1248	the sibling-in-law	SIBLING-IN-LAW	1832		iwa- (see also 2.456)	iwa- (see also 2.456) 
+1337	29-4-741-1	71312238185212042	Takia	taki1248	the life	LIFE	210		mado-k	mado-k 
+1338	29-4-771-1	71312238402217431	Takia	taki1248	the carcass	CARCASS	1770		tbabu-	tbabu- 
+1339	29-4-844-1	71312238212203139	Takia	taki1248	the disease	DISEASE	1986		sbam	sbam 
+1340	29-7-232-1	71312238822683628	Takia	taki1248	the padlock	PADLOCK	336		lok	lok 
+1341	29-11-29-1	71312238897638869	Takia	taki1248	to damage	DAMAGE	1116		mala-n -swe	mala-n -swe 
+1342	29-12-081-1	71312238707738587	Takia	taki1248	above	ABOVE	1741		ffo na	ffo na 
+1343	29-13-231-1	71312238752728803	Takia	taki1248	the piece	PIECE	594		klake-	klake- 
+1344	29-13-331-1	71312238987905366	Takia	taki1248	alone	ALONE	1964		se-n kaek	se-n kaek 
+1345	29-14-251-1	71312238494987987	Takia	taki1248	the beginning	BEGINNING	1557		fu-	fu- 
+1346	29-14-411-1	71312238139474188	Takia	taki1248	the day(2)	DAY (NOT NIGHT)	1225		nal	nal 
+1347	29-22-131-1	71312238874436098	Takia	taki1248	the church	CHURCH	1349		ubou ab	ubou ab 
+1348	29-4-7501-1	71312238941193234	Takia	taki1248	dead	DEAD	1625		-mat	-mat 
+1349	29-4-8541-1	71312238976780313	Takia	taki1248	to scratch	SCRATCH	1436		-rare	-rare 
+1350	29-9-111-1	71312238733494940	Takia	taki1248	to make	MAKE	734		-gane, -ga	-gane 
+1351	29-9-111-2	71312238733494940	Takia	taki1248	to make	MAKE	734		-gane, -ga	-ga 
+1352	29-4-431-1	71312238357081144	Takia	taki1248	the belly	BELLY	1251		lwa-	lwa- 
+1353	29-9-311-1	71312238485098026	Takia	taki1248	to wipe	WIPE	1454		-sasi	-sasi 
+1354	29-1-775-1	71312238548119652	Takia	taki1248	to freeze	FREEZE	1431		i-bilsa eis	i-bilsa eis 
+1355	29-24-04-1	71312238815941063	Takia	taki1248	with	WITH	1340		da	da 
+1356	29-12-012-1	71312238738963688	Takia	taki1248	in	IN	1460		lo	lo 
+1357	29-3-99907-1	71312238539028928	Takia	taki1248	the bandicoot				madar	madar 
+1358	29-8-99949-1	71312238316929399	Takia	taki1248	the taro				mao	mao 

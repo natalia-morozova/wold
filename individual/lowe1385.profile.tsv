@@ -1,0 +1,201 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	bratša syn, pśichodna maś	Lower Sorbian	808	U+0061
+o	o	pśichodna źowka, sotšy źowka	Lower Sorbian	603	U+006f
+a$	a	pśichodna źowka, šwigerźowka	Lower Sorbian	419	U+0061 U+0024
+e	e	wjerśeś, žeńskecy	Lower Sorbian	414	U+0065
+n	n	pśichodny nan, pśichodna źowka	Lower Sorbian	403	U+006e
+r	r	šwigerźowka, pódnuriś se	Lower Sorbian	393	U+0072
+i	i	pśichodny syn, źiśiźiśe	Lower Sorbian	381	U+0069
+ś$	ś	źěliś, pušćiś	Lower Sorbian	329	U+015b U+0024
+j	j	njebjo, pśichodnej starjejšej	Lower Sorbian	327	U+006a
+u	u	geburtsurkunda, wujk	Lower Sorbian	276	U+0075
+t	t	śota, prostitutka	Lower Sorbian	263	U+0074
+k	k	pśichodna źowka, šwigerźowka	Lower Sorbian	246	U+006b
+^p	p	pśichodny syn, pśichodna źowka	Lower Sorbian	224	U+005e U+0070
+l	l	źěliś, kokula	Lower Sorbian	219	U+006c
+y	y	pśichodny syn, sotšy syn	Lower Sorbian	211	U+0079
+^w	w	wujk, wjerśeś	Lower Sorbian	199	U+005e U+0077
+w	w	pśichodna źowka, šwigerźowka	Lower Sorbian	192	U+0077
+d	d	pśichodny syn, pśichodna źowka	Lower Sorbian	179	U+0064
+s	s	pśichodny syn, pódnuriś se	Lower Sorbian	176	U+0073
+ł	ł	swětły, wołaś	Lower Sorbian	169	U+0142
+ó	ó	pódnuriś se, kóńc	Lower Sorbian	166	U+00f3
+ś	ś	pśichodny syn, pśichodna źowka	Lower Sorbian	149	U+015b
+ě	ě	źěliś, swětły	Lower Sorbian	140	U+011b
+^s	s	sotšy źowka, słuchaś	Lower Sorbian	139	U+005e U+0073
+^k	k	kokula, kóńc	Lower Sorbian	136	U+005e U+006b
+y$	y	my, swětły	Lower Sorbian	133	U+0079 U+0024
+o$	o	město, wóno	Lower Sorbian	132	U+006f U+0024
+p	p	śpa, njepšawa pśisega	Lower Sorbian	125	U+0070
+c	c	muskecy, žeńskecy	Lower Sorbian	124	U+0063
+_	_	pśichodny syn, pśichodna źowka	Lower Sorbian	123	U+005f
+m	m	šwigermaś, sromne kósmy	Lower Sorbian	118	U+006d
+b	b	guba, njebjo	Lower Sorbian	118	U+0062
+š	š	pušćiś, bratša syn	Lower Sorbian	112	U+0161
+^m	m	my, maniok	Lower Sorbian	103	U+005e U+006d
+g	g	šwigerźowka, šwigersyn	Lower Sorbian	98	U+0067
+e$	e	pódnuriś se, pasle	Lower Sorbian	96	U+0065 U+0024
+^g	g	guba, groniś	Lower Sorbian	90	U+005e U+0067
+^b	b	bratša syn, běliś	Lower Sorbian	88	U+005e U+0062
+k$	k	wujk, maniok	Lower Sorbian	82	U+006b U+0024
+z	z	lězć, jěza	Lower Sorbian	82	U+007a
+^z	z	zemjerdžanje, zliceńka	Lower Sorbian	75	U+005e U+007a
+^n	n	nichta, noga	Lower Sorbian	73	U+005e U+006e
+^š	š	škla, štifźowka	Lower Sorbian	70	U+005e U+0161
+^t	t	tśěsć, tšach	Lower Sorbian	61	U+005e U+0074
+ź	<?>	pśichodna źowka, šwigerźowka	Lower Sorbian	59	U+017a
+n$	n	pśichodny syn, šwigersyn	Lower Sorbian	56	U+006e U+0024
+^r	r	ruka, rowny	Lower Sorbian	53	U+005e U+0072
+ch	ch	pśichodna źowka, pśichodny syn	Lower Sorbian	52	U+0063 U+0068
+ž	ž	śěžki, kóža	Lower Sorbian	48	U+017e
+^d	d	droga, drugi	Lower Sorbian	48	U+005e U+0064
+^c	c	cerkwja, crjowa	Lower Sorbian	47	U+005e U+0063
+^l	l	lězć, laś	Lower Sorbian	46	U+005e U+006c
+i$	i	drugi, pśi	Lower Sorbian	44	U+0069 U+0024
+^j	j	jěś, jajo	Lower Sorbian	40	U+005e U+006a
+ŕ$	<?>	kuŕ, rejtaŕ	Lower Sorbian	38	U+0155 U+0024
+c$	c	kóńc, palc	Lower Sorbian	35	U+0063 U+0024
+l$	l	mjeržel, kamel	Lower Sorbian	30	U+006c U+0024
+f	f	šwigerfoter, nefa	Lower Sorbian	29	U+0066
+r$	r	šwigerfoter, jaguar	Lower Sorbian	28	U+0072 U+0024
+t$	t	płot, swět	Lower Sorbian	28	U+0074 U+0024
+ć$	<?>	tśěsć, lězć	Lower Sorbian	28	U+0107 U+0024
+d$	d	pśed, land	Lower Sorbian	27	U+0064 U+0024
+ć	<?>	pušćiś, gósćinaŕ	Lower Sorbian	26	U+0107
+j$	j	kraj, wólej	Lower Sorbian	26	U+006a U+0024
+^f	f	familija, fernzejn	Lower Sorbian	22	U+005e U+0066
+^ž	ž	žeńska, žyła	Lower Sorbian	22	U+005e U+017e
+^ź	<?>	źěliś, źeń	Lower Sorbian	21	U+005e U+017a
+^ś	ś	śota, śěło	Lower Sorbian	20	U+005e U+015b
+tw	tw	ratwa, hantwal	Lower Sorbian	20	U+0074 U+0077
+^ch	ch	chrapje, chowaś	Lower Sorbian	18	U+005e U+0063 U+0068
+ń	ń	kóńc, pyšnjeńki	Lower Sorbian	17	U+0144
+^h	h	hantwal, hengist	Lower Sorbian	17	U+005e U+0068
+^šw	šw	šwigersyn, šwigerźowka	Lower Sorbian	17	U+005e U+0161 U+0077
+s$	s	nos, gus	Lower Sorbian	16	U+0073 U+0024
+ós	ós	pcołkowy wósk, kósma	Lower Sorbian	16	U+00f3 U+0073
+ń$	ń	źeń, wugeń	Lower Sorbian	15	U+0144 U+0024
+m$	m	dom, štrom	Lower Sorbian	15	U+006d U+0024
+ěs	ěs	město, tśěsć	Lower Sorbian	14	U+011b U+0073
+b$	b	kórb, grab	Lower Sorbian	13	U+0062 U+0024
+^sw	sw	swětły, swinja	Lower Sorbian	13	U+005e U+0073 U+0077
+^ł	ł	łapiś, łapotka	Lower Sorbian	13	U+005e U+0142
+ch$	ch	tšach, duch	Lower Sorbian	13	U+0063 U+0068 U+0024
+ł$	ł	kružoł, sokoł	Lower Sorbian	12	U+0142 U+0024
+š$	š	weš, młodšy bratš	Lower Sorbian	12	U+0161 U+0024
+rs	rs	šwigersyn, mórski zalew	Lower Sorbian	12	U+0072 U+0073
+g$	g	bumerang, pśibrjog	Lower Sorbian	11	U+0067 U+0024
+p$	p	sup, serp	Lower Sorbian	11	U+0070 U+0024
+w$	w	spiw, how	Lower Sorbian	10	U+0077 U+0024
+z$	z	pjenjez, wóz	Lower Sorbian	10	U+007a U+0024
+^a	a	arteria, armeja	Lower Sorbian	9	U+005e U+0061
+?$	<?>	wjele?, cogodla?	Lower Sorbian	9	U+003f U+0024
+ź$	<?>	mjadwjeź, fryj luź	Lower Sorbian	9	U+017a U+0024
+h	h	dołoj hyš, šrawbencihaŕ	Lower Sorbian	8	U+0068
+rw	rw	barwiś, barwa	Lower Sorbian	7	U+0072 U+0077
+ž$	ž	dokulaž, wuž	Lower Sorbian	7	U+017e U+0024
+^e	e	elefant, enkelsyn	Lower Sorbian	7	U+005e U+0065
+^dw	dw	dwójnika, dwaźasća	Lower Sorbian	6	U+005e U+0064 U+0077
+^zw	zw	zwězaś, zwignuś	Lower Sorbian	6	U+005e U+007a U+0077
+^tw	tw	twardnica, twarc	Lower Sorbian	6	U+005e U+0074 U+0077
+ńs	ńs	žeńska, žeńskecy	Lower Sorbian	6	U+0144 U+0073
+^i	i	ideja, insekt	Lower Sorbian	5	U+005e U+0069
+ls	ls	manźelstwołamanje, enkelsyn	Lower Sorbian	4	U+006c U+0073
+dw	dw	mjadwjeź, pódwijka	Lower Sorbian	3	U+0064 U+0077
+ts	ts	wótspaś, wótsromośenje	Lower Sorbian	3	U+0074 U+0073
+zw	zw	rozwěrowanje, wuzwólowanje	Lower Sorbian	3	U+007a U+0077
+u$	u	kenguru, bratš ze sotšu	Lower Sorbian	3	U+0075 U+0024
+^o	o	omen, ocean	Lower Sorbian	3	U+005e U+006f
+ów	ów	pówětš, pówoko	Lower Sorbian	2	U+00f3 U+0077
+^kw	kw	kwicaś, kwadrat	Lower Sorbian	2	U+005e U+006b U+0077
+js$	js	rajs, majs	Lower Sorbian	2	U+006a U+0073 U+0024
+kw	kw	cerkwja	Lower Sorbian	2	U+006b U+0077
+^chw	chw	chwalba, chwataś	Lower Sorbian	2	U+005e U+0063 U+0068 U+0077
+ě$	ě	ně, mě	Lower Sorbian	2	U+011b U+0024
+ns	ns	źinsa, insekt	Lower Sorbian	2	U+006e U+0073
+pjac (1)	<???>	pjac (1)	Lower Sorbian	2	U+0070 U+006a U+0061 U+0063 U+0020 U+0028 U+0031 U+0029
+šwigermuter(ka)	<???>	šwigermuter(ka)	Lower Sorbian	2	U+0161 U+0077 U+0069 U+0067 U+0065 U+0072 U+006d U+0075 U+0074 U+0065 U+0072 U+0028 U+006b U+0061 U+0029
+js	js	rajsowe pólo, wójsko	Lower Sorbian	2	U+006a U+0073
+pór (2)	<???>	pór (2)	Lower Sorbian	1	U+0070 U+00f3 U+0072 U+0020 U+0028 U+0032 U+0029
+^žw	žw	žwała	Lower Sorbian	1	U+005e U+017e U+0077
+(do)pomnjeś se	<???>	(do)pomnjeś se	Lower Sorbian	1	U+0028 U+0064 U+006f U+0029 U+0070 U+006f U+006d U+006e U+006a U+0065 U+015b U+0020 U+0073 U+0065
+motorske (kólaso)	<???>	motorske (kólaso)	Lower Sorbian	1	U+006d U+006f U+0074 U+006f U+0072 U+0073 U+006b U+0065 U+0020 U+0028 U+006b U+00f3 U+006c U+0061 U+0073 U+006f U+0029
+č	č	staručka	Lower Sorbian	1	U+010d
+bs	bs	wobsejźeś	Lower Sorbian	1	U+0062 U+0073
+pśistajiś (1)	<???>	pśistajiś (1)	Lower Sorbian	1	U+0070 U+015b U+0069 U+0073 U+0074 U+0061 U+006a U+0069 U+015b U+0020 U+0028 U+0031 U+0029
+^z$	z	z	Lower Sorbian	1	U+005e U+007a U+0024
+šum (2)	<???>	šum (2)	Lower Sorbian	1	U+0161 U+0075 U+006d U+0020 U+0028 U+0032 U+0029
+rw$	rw	cerw	Lower Sorbian	1	U+0072 U+0077 U+0024
+gw	gw	lěgwo	Lower Sorbian	1	U+0067 U+0077
+rog (2)	<???>	rog (2)	Lower Sorbian	1	U+0072 U+006f U+0067 U+0020 U+0028 U+0032 U+0029
+(wó)ženjona	<???>	(wó)ženjona	Lower Sorbian	1	U+0028 U+0077 U+00f3 U+0029 U+017e U+0065 U+006e U+006a U+006f U+006e U+0061
+pup(k)	<???>	pup(k)	Lower Sorbian	1	U+0070 U+0075 U+0070 U+0028 U+006b U+0029
+rog (1)	<???>	rog (1)	Lower Sorbian	1	U+0072 U+006f U+0067 U+0020 U+0028 U+0031 U+0029
+(wuźeńska) šnora	<???>	(wuźeńska) šnora	Lower Sorbian	1	U+0028 U+0077 U+0075 U+017a U+0065 U+0144 U+0073 U+006b U+0061 U+0029 U+0020 U+0161 U+006e U+006f U+0072 U+0061
+pal(ik)	<???>	pal(ik)	Lower Sorbian	1	U+0070 U+0061 U+006c U+0028 U+0069 U+006b U+0029
+štifmuter(ka)	<???>	štifmuter(ka)	Lower Sorbian	1	U+0161 U+0074 U+0069 U+0066 U+006d U+0075 U+0074 U+0065 U+0072 U+0028 U+006b U+0061 U+0029
+fak(u)la	<???>	fak(u)la	Lower Sorbian	1	U+0066 U+0061 U+006b U+0028 U+0075 U+0029 U+006c U+0061
+^a$	a	a	Lower Sorbian	1	U+005e U+0061 U+0024
+rěd (1)	<???>	rěd (1)	Lower Sorbian	1	U+0072 U+011b U+0064 U+0020 U+0028 U+0031 U+0029
+ó$	ó	pó	Lower Sorbian	1	U+00f3 U+0024
+kuntwor(a)	<???>	kuntwor(a)	Lower Sorbian	1	U+006b U+0075 U+006e U+0074 U+0077 U+006f U+0072 U+0028 U+0061 U+0029
+^cw	cw	cwibel	Lower Sorbian	1	U+005e U+0063 U+0077
+^w$	w	w	Lower Sorbian	1	U+005e U+0077 U+0024
+pan(w)ej	<???>	pan(w)ej	Lower Sorbian	1	U+0070 U+0061 U+006e U+0028 U+0077 U+0029 U+0065 U+006a
+(drjewowy) wugel	<???>	(drjewowy) wugel	Lower Sorbian	1	U+0028 U+0064 U+0072 U+006a U+0065 U+0077 U+006f U+0077 U+0079 U+0029 U+0020 U+0077 U+0075 U+0067 U+0065 U+006c
+(kulkata) glicka	<???>	(kulkata) glicka	Lower Sorbian	1	U+0028 U+006b U+0075 U+006c U+006b U+0061 U+0074 U+0061 U+0029 U+0020 U+0067 U+006c U+0069 U+0063 U+006b U+0061
+muter(ka)	<???>	muter(ka)	Lower Sorbian	1	U+006d U+0075 U+0074 U+0065 U+0072 U+0028 U+006b U+0061 U+0029
+ss	ss	lasso	Lower Sorbian	1	U+0073 U+0073
+nic (1)	<???>	nic (1)	Lower Sorbian	1	U+006e U+0069 U+0063 U+0020 U+0028 U+0031 U+0029
+grosmuter(ka)	<???>	grosmuter(ka)	Lower Sorbian	1	U+0067 U+0072 U+006f U+0073 U+006d U+0075 U+0074 U+0065 U+0072 U+0028 U+006b U+0061 U+0029
+pšawy (2)	<???>	pšawy (2)	Lower Sorbian	1	U+0070 U+0161 U+0061 U+0077 U+0079 U+0020 U+0028 U+0032 U+0029
+lapka (na woku)	<???>	lapka (na woku)	Lower Sorbian	1	U+006c U+0061 U+0070 U+006b U+0061 U+0020 U+0028 U+006e U+0061 U+0020 U+0077 U+006f U+006b U+0075 U+0029
+(wuchowa) lapka	<???>	(wuchowa) lapka	Lower Sorbian	1	U+0028 U+0077 U+0075 U+0063 U+0068 U+006f U+0077 U+0061 U+0029 U+0020 U+006c U+0061 U+0070 U+006b U+0061
+chw	chw	pśechwatany	Lower Sorbian	1	U+0063 U+0068 U+0077
+kwět(k)	<???>	kwět(k)	Lower Sorbian	1	U+006b U+0077 U+011b U+0074 U+0028 U+006b U+0029
+bw	bw	wobwóco	Lower Sorbian	1	U+0062 U+0077
+bom(j)elwałma	<???>	bom(j)elwałma	Lower Sorbian	1	U+0062 U+006f U+006d U+0028 U+006a U+0029 U+0065 U+006c U+0077 U+0061 U+0142 U+006d U+0061
+pśistajiś (2)	<???>	pśistajiś (2)	Lower Sorbian	1	U+0070 U+015b U+0069 U+0073 U+0074 U+0061 U+006a U+0069 U+015b U+0020 U+0028 U+0032 U+0029
+ryś (1)	<???>	ryś (1)	Lower Sorbian	1	U+0072 U+0079 U+015b U+0020 U+0028 U+0031 U+0029
+pław(nja)	<???>	pław(nja)	Lower Sorbian	1	U+0070 U+0142 U+0061 U+0077 U+0028 U+006e U+006a U+0061 U+0029
+fs	fs	štifsyn	Lower Sorbian	1	U+0066 U+0073
+(wó)ženjony	<???>	(wó)ženjony	Lower Sorbian	1	U+0028 U+0077 U+00f3 U+0029 U+017e U+0065 U+006e U+006a U+006f U+006e U+0079
+ff$	ff	riff	Lower Sorbian	1	U+0066 U+0066 U+0024
+dojś (1)	<???>	dojś (1)	Lower Sorbian	1	U+0064 U+006f U+006a U+015b U+0020 U+0028 U+0031 U+0029
+taług (z wucha)	<???>	taług (z wucha)	Lower Sorbian	1	U+0074 U+0061 U+0142 U+0075 U+0067 U+0020 U+0028 U+007a U+0020 U+0077 U+0075 U+0063 U+0068 U+0061 U+0029
+^č	č	čaj	Lower Sorbian	1	U+005e U+010d
+nic (2)	<???>	nic (2)	Lower Sorbian	1	U+006e U+0069 U+0063 U+0020 U+0028 U+0032 U+0029
+pór (1)	<???>	pór (1)	Lower Sorbian	1	U+0070 U+00f3 U+0072 U+0020 U+0028 U+0031 U+0029
+zmakaś (se)	<???>	zmakaś (se)	Lower Sorbian	1	U+007a U+006d U+0061 U+006b U+0061 U+015b U+0020 U+0028 U+0073 U+0065 U+0029
+rjeśazk (wokoło šyje)	<???>	rjeśazk (wokoło šyje)	Lower Sorbian	1	U+0072 U+006a U+0065 U+015b U+0061 U+007a U+006b U+0020 U+0028 U+0077 U+006f U+006b U+006f U+0142 U+006f U+0020 U+0161 U+0079 U+006a U+0065 U+0029
+(źuriny) słup	<???>	(źuriny) słup	Lower Sorbian	1	U+0028 U+017a U+0075 U+0072 U+0069 U+006e U+0079 U+0029 U+0020 U+0073 U+0142 U+0075 U+0070
+špic(a)	<???>	špic(a)	Lower Sorbian	1	U+0161 U+0070 U+0069 U+0063 U+0028 U+0061 U+0029
+statu(w)a	<???>	statu(w)a	Lower Sorbian	1	U+0073 U+0074 U+0061 U+0074 U+0075 U+0028 U+0077 U+0029 U+0061
+ós$	ós	wós	Lower Sorbian	1	U+00f3 U+0073 U+0024
+spaś (z)	<???>	spaś (z)	Lower Sorbian	1	U+0073 U+0070 U+0061 U+015b U+0020 U+0028 U+007a U+0029
+moskit(o)	<???>	moskit(o)	Lower Sorbian	1	U+006d U+006f U+0073 U+006b U+0069 U+0074 U+0028 U+006f U+0029
+^gw	gw	gwežda	Lower Sorbian	1	U+005e U+0067 U+0077
+(twarda) zemja	<???>	(twarda) zemja	Lower Sorbian	1	U+0028 U+0074 U+0077 U+0061 U+0072 U+0064 U+0061 U+0029 U+0020 U+007a U+0065 U+006d U+006a U+0061
+ěw	ěw	lěwy	Lower Sorbian	1	U+011b U+0077
+(z)warnowaś	<???>	(z)warnowaś	Lower Sorbian	1	U+0028 U+007a U+0029 U+0077 U+0061 U+0072 U+006e U+006f U+0077 U+0061 U+015b
+(pód)paža	<???>	(pód)paža	Lower Sorbian	1	U+0028 U+0070 U+00f3 U+0064 U+0029 U+0070 U+0061 U+017e U+0061
+hap(k)a	<???>	hap(k)a	Lower Sorbian	1	U+0068 U+0061 U+0070 U+0028 U+006b U+0029 U+0061
+^ps	ps	psyki	Lower Sorbian	1	U+005e U+0070 U+0073
+(palne) drjewo	<???>	(palne) drjewo	Lower Sorbian	1	U+0028 U+0070 U+0061 U+006c U+006e U+0065 U+0029 U+0020 U+0064 U+0072 U+006a U+0065 U+0077 U+006f
+sam(sn)y	<???>	sam(sn)y	Lower Sorbian	1	U+0073 U+0061 U+006d U+0028 U+0073 U+006e U+0029 U+0079
+ps	ps	kapsa	Lower Sorbian	1	U+0070 U+0073
+lw	lw	wulwa	Lower Sorbian	1	U+006c U+0077
+ws$	ws	wows	Lower Sorbian	1	U+0077 U+0073 U+0024
+dojś (2)	<???>	dojś (2)	Lower Sorbian	1	U+0064 U+006f U+006a U+015b U+0020 U+0028 U+0032 U+0029
+-	<?>	nje-	Lower Sorbian	1	U+002d
+jw	jw	lejwant	Lower Sorbian	1	U+006a U+0077
+(wódowy) kokotk	<???>	(wódowy) kokotk	Lower Sorbian	1	U+0028 U+0077 U+00f3 U+0064 U+006f U+0077 U+0079 U+0029 U+0020 U+006b U+006f U+006b U+006f U+0074 U+006b
+rěd (2)	<???>	rěd (2)	Lower Sorbian	1	U+0072 U+011b U+0064 U+0020 U+0028 U+0032 U+0029
+pšawy (1)	<???>	pšawy (1)	Lower Sorbian	1	U+0070 U+0161 U+0061 U+0077 U+0079 U+0020 U+0028 U+0031 U+0029
+žw	žw	rozžwalony	Lower Sorbian	1	U+017e U+0077
+šum (1)	<???>	šum (1)	Lower Sorbian	1	U+0161 U+0075 U+006d U+0020 U+0028 U+0031 U+0029
+pjac (2)	<???>	pjac (2)	Lower Sorbian	1	U+0070 U+006a U+0061 U+0063 U+0020 U+0028 U+0032 U+0029
+ryś (2)	<???>	ryś (2)	Lower Sorbian	1	U+0072 U+0079 U+015b U+0020 U+0028 U+0032 U+0029
+zs	zs	rozsocha	Lower Sorbian	1	U+007a U+0073

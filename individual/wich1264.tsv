@@ -1,0 +1,1362 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	40-1-1-1	7221330855827254	Wichí	wich1264	the world	WORLD	965		hunhat	hunhat 
+2	40-1-21-1	7221330855827254	Wichí	wich1264	the land	LAND	626		hunhat	hunhat 
+3	40-1-212-1	7221330855827254	Wichí	wich1264	the soil	EARTH (SOIL)	1228		hunhat	hunhat 
+4	40-1-213-1	7221330472630591	Wichí	wich1264	the dust	DUST	2		hulu	hulu 
+5	40-1-213-2	7221330351327236	Wichí	wich1264	the dust	DUST	2		lamukw	lamukw 
+6	40-1-214-1	722133065574805	Wichí	wich1264	the mud	MUD	640		iyhot	iyhot 
+7	40-1-215-1	722133071393456	Wichí	wich1264	the sand	SAND	671		alena	alena 
+8	40-1-22-1	7221330424496977	Wichí	wich1264	the mountain or hill	MOUNTAIN OR HILL	2118		tachenaj	tachenaj 
+9	40-1-222-1	7221330259865215	Wichí	wich1264	the cliff or precipice	PRECIPICE	618		tewuk katchenaj	tewuk katchenaj 
+10	40-1-23-1	7221330250465747	Wichí	wich1264	the plain	PLAIN	652		alhu	alhu 
+11	40-1-24-1	7221330521658793	Wichí	wich1264	the valley	VALLEY	921		lakawayhi	lakawayhi 
+12	40-1-25-1	7221330885090716	Wichí	wich1264	the island	ISLAND	622		lhiletaj	lhiletaj 
+13	40-1-27-1	7221330426441944	Wichí	wich1264	the shore	SHORE	113		tewuk lhip	tewuk lhip 
+14	40-1-28-1	7221330106128595	Wichí	wich1264	the cave	CAVE	1155		chuwej	chuwej 
+15	40-1-31-1	722133052671670	Wichí	wich1264	the water	WATER	948		inot	inot 
+16	40-1-32-1	7221330974871307	Wichí	wich1264	the sea	SEA	1474		inot litak	inot litak 
+17	40-1-322-1	7221330788448125	Wichí	wich1264	calm	CALM	258		iwutamsecha	iwutamsecha 
+18	40-1-323-1	7221330986766092	Wichí	wich1264	rough(2)	ROUGH (OF SEA)	259		nilhek’alhi	nilhek’alhi 
+19	40-1-324-1	7221330372909737	Wichí	wich1264	the foam	FOAM	1768		lakuj	lakuj 
+20	40-1-329-1	7221330974871307	Wichí	wich1264	the ocean	OCEAN	645		inot litak	inot litak 
+21	40-1-33-1	7221330309482648	Wichí	wich1264	the lake	LAKE	624		lawumek	lawumek 
+22	40-1-33-2	7221330959902584	Wichí	wich1264	the lake	LAKE	624		lhemchitaj	lhemchitaj 
+23	40-1-341-1	7221330309482648	Wichí	wich1264	the lagoon	LAGOON	623		lawumek	lawumek 
+24	40-1-35-1	7221330910617130	Wichí	wich1264	the wave	WAVE	978		komoktaj	komoktaj 
+25	40-1-36-1	7221330872657244	Wichí	wich1264	the river or stream	RIVER	666		tewuk	tewuk 
+26	40-1-362-1	722133023730750	Wichí	wich1264	the whirlpool	WHIRLPOOL	1982		lalenchitaj	lalenchitaj 
+27	40-1-38-1	7221330438552928	Wichí	wich1264	the swamp	SWAMP	1145		inotw’et	inotw’et 
+28	40-1-39-1	722133083878829	Wichí	wich1264	the waterfall	WATERFALL	943		inot n’oyij	inot n’oyij 
+29	40-1-41-1	7221330611972657	Wichí	wich1264	the woods or forest	FOREST	420		tayhi	tayhi 
+30	40-1-43-1	722133016687629	Wichí	wich1264	the wood	WOOD	1803		hal’o	hal’o 
+31	40-1-44-1	7221330224421890	Wichí	wich1264	the stone or rock	STONE OR ROCK	2125		tente	tente 
+32	40-1-45-1	7221330421763696	Wichí	wich1264	the earthquake	EARTHQUAKE	6		hunhat w’ahi	hunhat w’ahi 
+33	40-1-51-1	7221330123993526	Wichí	wich1264	the sky	SKY	1732		pele	pele 
+34	40-1-52-1	7221330755311000	Wichí	wich1264	the sun	SUN	1343		fwala	fwala 
+35	40-1-53-1	7221330297485955	Wichí	wich1264	the moon	MOON	1313		wel’a	wel’a 
+36	40-1-54-1	7221330176532275	Wichí	wich1264	the star	STAR	1430		kates	kates 
+37	40-1-55-1	7221330720724576	Wichí	wich1264	the lightning	LIGHTNING	1654		yoklep	yoklep 
+38	40-1-56-1	722133032277234	Wichí	wich1264	the thunder	THUNDER	1150		pelhay y’iplhi	pelhay y’iplhi 
+39	40-1-57-1	722133030074294	Wichí	wich1264	the bolt of lightning	BOLT (OF LIGHTNING)	2007		pelhach’e	pelhach’e 
+40	40-1-58-1	7221330218526368	Wichí	wich1264	the storm	STORM	858		pelhay	pelhay 
+41	40-1-59-1	7221330814907980	Wichí	wich1264	the rainbow	RAINBOW	1733		lawu	lawu 
+42	40-1-61-1	7221330755311000	Wichí	wich1264	the light	LIGHT (RADIATION)	630		fwala	fwala 
+43	40-1-62-1	7221330728733396	Wichí	wich1264	the darkness	DARKNESS	11		hunataj	hunataj 
+44	40-1-63-1	7221330857578339	Wichí	wich1264	the shade or shadow	SHADE	1388		hipelh	hipelh 
+45	40-1-64-1	7221330545295658	Wichí	wich1264	the dew	DEW	1977		iyas	iyas 
+46	40-1-71-1	7221330414970366	Wichí	wich1264	the air	AIR	27		layalh	layalh 
+47	40-1-72-1	7221330560267482	Wichí	wich1264	the wind	WIND	960		ihwok	ihwok 
+48	40-1-73-1	7221330123993526	Wichí	wich1264	the cloud	CLOUD	1489		pele	pele 
+49	40-1-74-1	7221330544899046	Wichí	wich1264	the fog	FOG	249		tetsetaj	tetsetaj 
+50	40-1-75-1	7221330271397241	Wichí	wich1264	the rain	RAIN (PRECIPITATION)	658		iwumcho’	iwumcho’ 
+51	40-1-77-1	7221330777075776	Wichí	wich1264	the ice	ICE	617		fwiy’et	fwiy’et 
+52	40-1-78-1	7221330787679201	Wichí	wich1264	the weather	WEATHER	952		lawhoy	lawhoy 
+53	40-1-81-1	7221330910538871	Wichí	wich1264	the fire	FIRE	221		itoj	itoj 
+54	40-1-82-1	7221330110051238	Wichí	wich1264	the flame	FLAME	889		itoj lhalh	itoj lhalh 
+55	40-1-83-1	7221330542350392	Wichí	wich1264	the smoke	SMOKE (EXHAUST)	778		tetsey	tetsey 
+56	40-1-84-1	722133022476350	Wichí	wich1264	the ash	ASH	646		itoj mukw	itoj mukw 
+57	40-1-841-1	7221330633654539	Wichí	wich1264	the embers	EMBERS	67		fwiyhul	fwiyhul 
+58	40-1-851-1	7221330958241505	Wichí	wich1264	to burn(1)	BURN (SOMETHING)	141		hip’u	hip’u 
+59	40-1-852-1	7221330983029212	Wichí	wich1264	to burn(2)	BURNING	1428		lak’e	lak’e 
+60	40-1-86-1	7221330323629306	Wichí	wich1264	to light	LIGHT (IGNITE)	737		wen	wen 
+61	40-1-861-1	7221330313723968	Wichí	wich1264	to extinguish	EXTINGUISH	127		y’umet	y’umet 
+62	40-1-87-1	7221330719865450	Wichí	wich1264	the match	MATCH	1133		fwufwulu	fwufwulu 
+63	40-1-88-1	7221330472663397	Wichí	wich1264	the firewood	FIREWOOD	10		tolhetes	tolhetes 
+64	40-1-89-1	7221330633654539	Wichí	wich1264	the charcoal	CHARCOAL	1188		fwiyhul	fwiyhul 
+65	40-2-21-1	7221330842903792	Wichí	wich1264	the man	MAN	1554		hin’u	hin’u 
+66	40-2-22-1	7221330538649831	Wichí	wich1264	the woman	WOMAN	962		atsinha	atsinha 
+67	40-2-23-1	7221330842903792	Wichí	wich1264	male(1)	MALE (OF ANIMAL)	2263		hin’u	hin’u 
+68	40-2-24-1	7221330538649831	Wichí	wich1264	female(1)	FEMALE (OF PERSON)	2260		atsinha	atsinha 
+69	40-2-25-1	7221330122762579	Wichí	wich1264	the boy	BOY	1366		ha’no’fwaj	ha’no’fwaj 
+70	40-2-251-1	7221330857521546	Wichí	wich1264	the young man	YOUNG MAN	76		mamse	mamse 
+71	40-2-26-1	7221330101451481	Wichí	wich1264	the girl	GIRL	1646		lhetsha	lhetsha 
+72	40-2-261-1	7221330101451481	Wichí	wich1264	the young woman	YOUNG WOMAN	77		lhetsha	lhetsha 
+73	40-2-27-1	7221330122762579	Wichí	wich1264	the child(1)	CHILD (YOUNG HUMAN)	1304		ha’no’fwaj	ha’no’fwaj 
+74	40-2-28-1	7221330122762579	Wichí	wich1264	the baby	BABY	1289		ha’no’fwaj	ha’no’fwaj 
+75	40-2-31-1	7221330542123216	Wichí	wich1264	the husband	HUSBAND	1200		toch’efwa hin’u	toch’efwa hin’u 
+76	40-2-32-1	7221330675763859	Wichí	wich1264	the wife	WIFE	1199		toch’efwa atsinha	toch’efwa atsinha 
+77	40-2-33-1	7221330339194024	Wichí	wich1264	to marry	MARRY	203		tawhayey	tawhayey 
+78	40-2-34-1	7221330339194024	Wichí	wich1264	the wedding	WEDDING	1259		tawhayey	tawhayey 
+79	40-2-35-1	722133067534165	Wichí	wich1264	the father	FATHER	1217		tofwcha	tofwcha 
+80	40-2-36-1	722133049197651	Wichí	wich1264	the mother	MOTHER	1216		toku	toku 
+81	40-2-37-1	7221330352180554	Wichí	wich1264	the parents	PARENTS	505		tolhukwey	tolhukwey 
+82	40-2-38-1	722133053718472	Wichí	wich1264	the married man	MARRIED MAN	424		hin’u lach’efwa ihi	hin’u lach’efwa ihi 
+83	40-2-39-1	7221330695057619	Wichí	wich1264	the married woman	MARRIED WOMAN	426		atsinha lach’efwa ihi	atsinha lach’efwa ihi 
+84	40-2-41-1	7221330310513713	Wichí	wich1264	the son	SON	1620		tolhos	tolhos 
+85	40-2-42-1	7221330250703498	Wichí	wich1264	the daughter	DAUGHTER	1357		tolhose	tolhose 
+86	40-2-444-1	7221330998082984	Wichí	wich1264	the older brother	OLDER BROTHER	1759		tochila	tochila 
+87	40-2-445-1	7221330618292703	Wichí	wich1264	the younger brother	YOUNGER BROTHER	1760		toch’inij	toch’inij 
+88	40-2-454-1	7221330326697005	Wichí	wich1264	the older sister	OLDER SISTER	1758		tochita	tochita 
+89	40-2-455-1	7221330269422034	Wichí	wich1264	the younger sister	YOUNGER SISTER	1761		toch’inho	toch’inho 
+90	40-2-458-1	722133036890557	Wichí	wich1264	the twins	TWINS	1005		tokwhi	tokwhi 
+91	40-2-458-2	7221330168378958	Wichí	wich1264	the twins	TWINS	1005		meyisu	meyisu 
+92	40-2-46-1	7221330918428804	Wichí	wich1264	the grandfather	GRANDFATHER	1383		tochoti	tochoti 
+93	40-2-461-1	7221330616958383	Wichí	wich1264	the old man	OLD MAN	406		hin’u wemek	hin’u wemek 
+94	40-2-47-1	7221330304136810	Wichí	wich1264	the grandmother	GRANDMOTHER	1496		tokatela	tokatela 
+95	40-2-471-1	7221330425117925	Wichí	wich1264	the old woman	OLD WOMAN	907		atsinha wemek	atsinha wemek 
+96	40-2-48-1	7221330907072162	Wichí	wich1264	the grandson	GRANDSON	1618		tocheyos	tocheyos 
+97	40-2-49-1	7221330824393642	Wichí	wich1264	the granddaughter	GRANDDAUGHTER	1619		tocheyo	tocheyo 
+98	40-2-51-1	7221330799207792	Wichí	wich1264	the uncle	UNCLE	1327		towithuk	towithuk 
+99	40-2-511-1	7221330799207792	Wichí	wich1264	the mother's brother	MOTHER'S BROTHER	1984		towithuk	towithuk 
+100	40-2-512-1	7221330799207792	Wichí	wich1264	the father's brother	FATHER'S BROTHER	1985		towithuk	towithuk 
+101	40-2-52-1	722133039383835	Wichí	wich1264	the aunt	AUNT	1272		towit’uj	towit’uj 
+102	40-2-521-1	722133039383835	Wichí	wich1264	the mother's sister	MOTHER'S SISTER	171		towit’uj	towit’uj 
+103	40-2-522-1	722133039383835	Wichí	wich1264	the father's sister	FATHER'S SISTER	170		towit’uj	towit’uj 
+104	40-2-53-1	7221330970723398	Wichí	wich1264	the nephew	NEPHEW	1063		towal’a	towal’a 
+105	40-2-54-1	7221330466044507	Wichí	wich1264	the niece	NIECE	1642		towal’ani	towal’ani 
+106	40-2-56-1	7221330918839786	Wichí	wich1264	the ancestors	ANCESTORS	1669		pajchehen	pajchehen 
+107	40-2-57-1	7221330261923142	Wichí	wich1264	the descendants	DESCENDANTS	490		lapes lheley	lapes lheley 
+108	40-2-61-1	7221330918428804	Wichí	wich1264	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		tochoti	tochoti 
+109	40-2-611-1	7221330918428804	Wichí	wich1264	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		tochoti	tochoti 
+110	40-2-62-1	7221330304136810	Wichí	wich1264	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		tokatela	tokatela 
+111	40-2-621-1	7221330304136810	Wichí	wich1264	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		tokatela	tokatela 
+112	40-2-63-1	7221330716719302	Wichí	wich1264	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		tofwayenek	tofwayenek 
+113	40-2-631-1	7221330716719302	Wichí	wich1264	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		tofwayenek	tofwayenek 
+114	40-2-64-1	7221330980630108	Wichí	wich1264	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		totiche	totiche 
+115	40-2-641-1	7221330980630108	Wichí	wich1264	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		totiche	totiche 
+116	40-2-75-1	7221330106784376	Wichí	wich1264	the orphan	ORPHAN	1149		wajtsi	wajtsi 
+117	40-2-75-2	722133011739700	Wichí	wich1264	the orphan	ORPHAN	1149		chipena	chipena 
+118	40-2-76-1	7221330159501943	Wichí	wich1264	the widow	WIDOW	1756		tesa	tesa 
+119	40-2-77-1	7221330159501943	Wichí	wich1264	the widower	WIDOWER	1981		tesa	tesa 
+120	40-2-81-1	7221330106022571	Wichí	wich1264	the relatives	RELATIVES	1644		n’w’et lhele	n’w’et lhele 
+121	40-2-82-1	7221330106022571	Wichí	wich1264	the family	FAMILY	194		n’w’et lhele	n’w’et lhele 
+122	40-2-91-1	7221330924419555	Wichí	wich1264	I	I	1209		n’lham	n’lham 
+123	40-2-92-1	7221330449375730	Wichí	wich1264	you (singular)	THOU	1215		am	am 
+124	40-2-93-1	7221330936129176	Wichí	wich1264	he/she/it	HE OR SHE OR IT	262		lham	lham 
+125	40-2-941-1	7221330229404920	Wichí	wich1264	we (inclusive)	WE (INCLUSIVE)	1131		namilh	namilh 
+126	40-2-941-2	7221330307258442	Wichí	wich1264	we (inclusive)	WE (INCLUSIVE)	1131		n’lhamilh	n’lhamilh 
+127	40-2-942-1	7221330442628583	Wichí	wich1264	we (exclusive)	WE (EXCLUSIVE)	1130		tolhamilh	tolhamilh 
+128	40-2-95-1	7221330976715279	Wichí	wich1264	you (plural)	YOU	1213		amilh	amilh 
+129	40-2-96-1	7221330164059779	Wichí	wich1264	they	THEY	817		lhamilh	lhamilh 
+130	40-3-11-1	7221330316466609	Wichí	wich1264	the animal	ANIMAL	619		tshowet	tshowet 
+131	40-3-12-1	7221330241791754	Wichí	wich1264	male(2)	MALE (OF PERSON)	2261		asnak	asnak 
+132	40-3-13-1	7221330538649831	Wichí	wich1264	female(2)	FEMALE (OF ANIMAL)	2262		atsinha	atsinha 
+133	40-3-16-1	7221330793054241	Wichí	wich1264	the pasture	PASTURE	649		toloy lhokw’et	toloy lhokw’et 
+134	40-3-18-1	7221330743005561	Wichí	wich1264	the herdsman	HERDSMAN	263		tshotoywu	tshotoywu 
+135	40-3-19-1	7221330404331005	Wichí	wich1264	the stable or stall	STABLE	851		tshotoyw’et	tshotoyw’et 
+136	40-3-21-1	7221330744609984	Wichí	wich1264	the bull	BULL	1008		tulu asnak	tulu asnak 
+137	40-3-22-1	7221330906728892	Wichí	wich1264	the ox	OX	1169		weyis	weyis 
+138	40-3-23-1	722133042998394	Wichí	wich1264	the cow	COW	1007		tulu atsinha	tulu atsinha 
+139	40-3-24-1	7221330420127327	Wichí	wich1264	the calf	CALF	1989		teinelu	teinelu 
+140	40-3-24-2	7221330525895626	Wichí	wich1264	the calf	CALF	1989		tulu lhos	tulu lhos 
+141	40-3-25-1	7221330312923390	Wichí	wich1264	the sheep	SHEEP	1331		tsun’ataj	tsun’ataj 
+142	40-3-26-1	7221330781957023	Wichí	wich1264	the ram	RAM	1344		ch’inak	ch’inak 
+143	40-3-28-1	7221330115826476	Wichí	wich1264	the ewe	EWE	1345		tsun’ataj atsinha	tsun’ataj atsinha 
+144	40-3-29-1	7221330835015518	Wichí	wich1264	the lamb	LAMB	820		tsun’ataj lhos	tsun’ataj lhos 
+145	40-3-32-1	7221330728935301	Wichí	wich1264	the boar	BOAR	1348		awetsaj	awetsaj 
+146	40-3-34-1	7221330679562031	Wichí	wich1264	the sow	SOW (FEMALE PIG)	1351		nitsetaj atsinha	nitsetaj atsinha 
+147	40-3-34-2	7221330857628475	Wichí	wich1264	the sow	SOW (FEMALE PIG)	1351		kutsi atsinha	kutsi atsinha 
+148	40-3-35-1	7221330623920823	Wichí	wich1264	the pig	PIG	1337		kutsi	kutsi 
+149	40-3-35-2	7221330918009893	Wichí	wich1264	the pig	PIG	1337		nitsetaj asnak	nitsetaj asnak 
+150	40-3-36-1	7221330207428242	Wichí	wich1264	the goat	GOAT	1502		kaila	kaila 
+151	40-3-37-1	7221330612069064	Wichí	wich1264	the he-goat	HE-GOAT	264		kaila asnak	kaila asnak 
+152	40-3-38-1	7221330486168907	Wichí	wich1264	the kid	KID	1972		kaila lhos	kaila lhos 
+153	40-3-41-1	7221330881215181	Wichí	wich1264	the horse	HORSE	615		yel’ataj	yel’ataj 
+154	40-3-42-1	7221330272025989	Wichí	wich1264	the stallion	STALLION	936		yel’ataj asnak	yel’ataj asnak 
+155	40-3-44-1	7221330692634583	Wichí	wich1264	the mare	MARE	938		yel’ataj atsinha	yel’ataj atsinha 
+156	40-3-45-1	7221330671517793	Wichí	wich1264	the foal or colt	FOAL	1647		yel’ataj lhos	yel’ataj lhos 
+157	40-3-46-1	7221330905689545	Wichí	wich1264	the donkey	DONKEY	1862		asnu	asnu 
+158	40-3-47-1	7221330364219003	Wichí	wich1264	the mule	MULE	890		mula	mula 
+159	40-3-52-1	7221330278640246	Wichí	wich1264	the cock/rooster	ROOSTER	1511		hu’u	hu’u 
+160	40-3-54-1	7221330278640246	Wichí	wich1264	the hen	HEN	1514		hu’u	hu’u 
+161	40-3-55-1	7221330278640246	Wichí	wich1264	the chicken	CHICKEN	1318		hu’u	hu’u 
+162	40-3-56-1	722133072357622	Wichí	wich1264	the goose	GOOSE	1187		tsehistaj	tsehistaj 
+163	40-3-57-1	7221330252576316	Wichí	wich1264	the duck	DUCK	1360		fwu’yaj	fwu’yaj 
+164	40-3-58-1	7221330171334409	Wichí	wich1264	the nest	NEST	539		lhep	lhep 
+165	40-3-581-1	7221330314896702	Wichí	wich1264	the bird	BIRD	937		afwenche	afwenche 
+166	40-3-583-1	7221330781121246	Wichí	wich1264	the heron	HERON	758		mup’i	mup’i 
+167	40-3-583-2	7221330309096212	Wichí	wich1264	the heron	HERON	758		kalaktaj	kalaktaj 
+168	40-3-584-1	7221330163069385	Wichí	wich1264	the eagle	EAGLE	1905		istiwin	istiwin 
+169	40-3-585-1	7221330591883437	Wichí	wich1264	the hawk	HAWK	307		alhech’alu	alhech’alu 
+170	40-3-591-1	7221330234554247	Wichí	wich1264	the bat	BAT	1793		ases	ases 
+171	40-3-592-1	7221330762506578	Wichí	wich1264	the parrot	PARROT	882		ele	ele 
+172	40-3-593-1	7221330286552841	Wichí	wich1264	the crow	CROW	913		tsetwu	tsetwu 
+173	40-3-594-1	7221330509425252	Wichí	wich1264	the dove	DOVE	1853		hukwinataj	hukwinataj 
+174	40-3-596-1	722133041841306	Wichí	wich1264	the owl	OWL	735		sinalhchu’	sinalhchu’ 
+175	40-3-596-2	7221330990104503	Wichí	wich1264	the owl	OWL	735		wuk’u	wuk’u 
+176	40-3-596-3	7221330437748749	Wichí	wich1264	the owl	OWL	735		chilechakw	chilechakw 
+177	40-3-596-4	7221330783387483	Wichí	wich1264	the owl	OWL	735		amyolo	amyolo 
+178	40-3-61-1	7221330116228703	Wichí	wich1264	the dog	DOG	2009		asinoj	asinoj 
+179	40-3-614-1	7221330559508462	Wichí	wich1264	the rabbit	RABBIT	1136		note	note 
+180	40-3-62-1	7221330494091984	Wichí	wich1264	the cat	CAT	1208		mitsi	mitsi 
+181	40-3-622-1	7221330390165196	Wichí	wich1264	the opossum	OPOSSUM	309		lap’i	lap’i 
+182	40-3-63-1	7221330764246450	Wichí	wich1264	the mouse or rat	MUROID (MOUSE OR RAT)	2139		tsojtsoj	tsojtsoj 
+183	40-3-63-2	7221330169587258	Wichí	wich1264	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ama	ama 
+184	40-3-65-1	7221330977346905	Wichí	wich1264	the fish	FISH	227		w’ahat	w’ahat 
+185	40-3-652-1	722133017213498	Wichí	wich1264	the fin	FIN	213		lhefw	lhefw 
+186	40-3-653-1	722133019064435	Wichí	wich1264	the scale	SCALE	266		lafwinchu’	lafwinchu’ 
+187	40-3-654-1	7221330337387632	Wichí	wich1264	the gill	GILL	1916		lak’aysi	lak’aysi 
+188	40-3-655-1	7221330832035682	Wichí	wich1264	the shell	SHELL	598		lanek	lanek 
+189	40-3-664-1	72213303756033	Wichí	wich1264	the stingray	STINGRAY	1910		pujlhin	pujlhin 
+190	40-3-665-1	7221330806395666	Wichí	wich1264	the freshwater eel	FRESHWATER EEL	1013		iyha	iyha 
+191	40-3-71-1	7221330790613133	Wichí	wich1264	the wolf	WOLF	522		mawutaj	mawutaj 
+192	40-3-72-1	7221330928297405	Wichí	wich1264	the lion	LION	1386		p’uwalhaj	p’uwalhaj 
+193	40-3-73-1	7221330645037909	Wichí	wich1264	the bear	BEAR	1820		selaj	selaj 
+194	40-3-74-1	722133060706521	Wichí	wich1264	the fox	FOX	1312		mawu	mawu 
+195	40-3-75-1	722133085815466	Wichí	wich1264	the deer	DEER	1936		ch’iwase	ch’iwase 
+196	40-3-76-1	7221330604329695	Wichí	wich1264	the monkey	MONKEY	1350		hoton’i	hoton’i 
+197	40-3-77-1	7221330775922851	Wichí	wich1264	the elephant	ELEPHANT	1290		wetaj	wetaj 
+198	40-3-81-1	7221330210513270	Wichí	wich1264	the insect	INSECT	620		makwu	makwu 
+199	40-3-811-1	722133079819262	Wichí	wich1264	the head louse	HEAD LOUSE	310		lha’	lha’ 
+200	40-3-812-1	7221330804611935	Wichí	wich1264	the nit	NIT	267		lha’ lhech’elh	lha’ lhech’elh 
+201	40-3-813-1	7221330444488214	Wichí	wich1264	the flea	FLEA	232		mawuwu	mawuwu 
+202	40-3-814-1	7221330126452989	Wichí	wich1264	the centipede	CENTIPEDE	1974		alheposet	alheposet 
+203	40-3-815-1	722133080630048	Wichí	wich1264	the scorpion	SCORPION	1538		chostilhoj	chostilhoj 
+204	40-3-816-1	7221330410181526	Wichí	wich1264	the cockroach	COCKROACH	1575		nafwuluj	nafwuluj 
+205	40-3-817-1	7221330468184423	Wichí	wich1264	the ant	ANT	587		siwanhas	siwanhas 
+206	40-3-818-1	722133074507926	Wichí	wich1264	the spider	SPIDER	843		chuhut	chuhut 
+207	40-3-819-1	7221330939270600	Wichí	wich1264	the spider web	SPIDER WEB	1065		chuhut kaniyhoy	chuhut kaniyhoy 
+208	40-3-82-1	7221330787669509	Wichí	wich1264	the bee	BEE	665		nakwutaj	nakwutaj 
+209	40-3-82-2	7221330785722681	Wichí	wich1264	the bee	BEE	665		pini	pini 
+210	40-3-82-3	7221330899588651	Wichí	wich1264	the bee	BEE	665		kolonp’un	kolonp’un 
+211	40-3-82-4	7221330680191128	Wichí	wich1264	the bee	BEE	665		nakwu	nakwu 
+212	40-3-82-5	7221330801558545	Wichí	wich1264	the bee	BEE	665		simhat	simhat 
+213	40-3-82-6	7221330709019887	Wichí	wich1264	the bee	BEE	665		supfwetaj	supfwetaj 
+214	40-3-82-7	7221330913248445	Wichí	wich1264	the bee	BEE	665		akoyek	akoyek 
+215	40-3-82-8	7221330371438506	Wichí	wich1264	the bee	BEE	665		pemtsaj	pemtsaj 
+216	40-3-82-9	7221330879839172	Wichí	wich1264	the bee	BEE	665		neslo	neslo 
+217	40-3-82-10	762118515254137	Wichí	wich1264	the bee	BEE	665		wun’a (2)	wun’a (2) 
+218	40-3-82-11	76211851115639238	Wichí	wich1264	the bee	BEE	665		nuwalhek	nuwalhek 
+219	40-3-82-12	76211852502118076	Wichí	wich1264	the bee	BEE	665		tiklha	tiklha 
+220	40-3-82-13	76211853205388497	Wichí	wich1264	the bee	BEE	665		matsitaj	matsitaj 
+221	40-3-821-1	7221330608645735	Wichí	wich1264	the beeswax	BEESWAX	1931		akoyek lhes	akoyek lhes 
+222	40-3-822-1	7221330438800431	Wichí	wich1264	the beehive	BEEHIVE	88		hap’uk	hap’uk 
+223	40-3-823-1	7221330210513270	Wichí	wich1264	the wasp	WASP	1517		makwu	makwu 
+224	40-3-83-1	722133087985424	Wichí	wich1264	the fly	FLY (INSECT)	1504		atak	atak 
+225	40-3-831-1	7221330165486271	Wichí	wich1264	the sandfly or midge or gnat	SANDFLY	95		fwinatak	fwinatak 
+226	40-3-832-1	7221330354883189	Wichí	wich1264	the mosquito	MOSQUITO	1509		yaphin’a	yaphin’a 
+227	40-3-84-1	7221330563671437	Wichí	wich1264	the worm	WORM	1219		iwus	iwus 
+228	40-3-84-2	7221330162340883	Wichí	wich1264	the worm	WORM	1219		fwinayhay	fwinayhay 
+229	40-3-85-1	7221330699503504	Wichí	wich1264	the snake	SNAKE	730		afwotsaj	afwotsaj 
+230	40-3-91-1	7221330539492438	Wichí	wich1264	the firefly	FIREFLY	206		fwitonaj	fwitonaj 
+231	40-3-92-1	7221330551401794	Wichí	wich1264	the butterfly	BUTTERFLY	1791		chukuk	chukuk 
+232	40-3-93-1	7221330279716836	Wichí	wich1264	the grasshopper	GRASSHOPPER	607		chulh	chulh 
+233	40-3-94-1	722133042499898	Wichí	wich1264	the snail	SNAIL	1543		nahokwe’	nahokwe’ 
+234	40-3-94-2	7221330804178422	Wichí	wich1264	the snail	SNAIL	1543		lhelh	lhelh 
+235	40-3-95-1	7221330189382231	Wichí	wich1264	the frog	FROG	503		poy’i	poy’i 
+236	40-3-96-1	7221330446712425	Wichí	wich1264	the lizard	LIZARD	632		chal’a	chal’a 
+237	40-3-97-1	7221330221185363	Wichí	wich1264	the crocodile or alligator	CROCODILE	1857		alhetaj (1)	alhetaj (1) 
+238	40-3-98-1	7221330238550512	Wichí	wich1264	the turtle	TURTLE	112		chitan’i	chitan’i 
+239	40-4-11-1	7221330615716793	Wichí	wich1264	the body	BODY	1480		tosan	tosan 
+240	40-4-12-1	7221330497940927	Wichí	wich1264	the skin or hide	SKIN	763		tot’oj	tot’oj 
+241	40-4-13-1	722133030396255	Wichí	wich1264	the flesh	FLESH	2259		t’isan	t’isan 
+242	40-4-14-1	7221330853788898	Wichí	wich1264	the hair	HAIR (HEAD)	2648		tow’uley	tow’uley 
+243	40-4-142-1	7221330381926334	Wichí	wich1264	the beard	BEARD	678		toposey	toposey 
+244	40-4-144-1	7221330229201144	Wichí	wich1264	the body hair	HAIR (BODY)	189		topesey	topesey 
+245	40-4-145-1	722133034064658	Wichí	wich1264	the pubic hair	PUBIC HAIR	36		tolhu w’uley	tolhu w’uley 
+246	40-4-145-2	7221330930481331	Wichí	wich1264	the pubic hair	PUBIC HAIR	36		tose w’uley	tose w’uley 
+247	40-4-146-1	7221330436762429	Wichí	wich1264	the dandruff	DANDRUFF	576		tolhetekmukw	tolhetekmukw 
+248	40-4-15-1	7221330291393508	Wichí	wich1264	the blood	BLOOD	946		w’uyis	w’uyis 
+249	40-4-151-1	7221330665231470	Wichí	wich1264	the vein or artery	BLOOD VESSEL	525		tow’uyis n’oyij	tow’uyis n’oyij 
+250	40-4-16-1	7221330418702430	Wichí	wich1264	the bone	BONE	1394		lhile	lhile 
+251	40-4-162-1	7221330970288964	Wichí	wich1264	the rib	RIB	801		sijlhile	sijlhile 
+252	40-4-17-1	7221330863933802	Wichí	wich1264	the horn	HORN (ANATOMY)	1393		toch’e	toch’e 
+253	40-4-18-1	722133062190094	Wichí	wich1264	the tail	TAIL	1220		tochos	tochos 
+254	40-4-19-1	7221330725893952	Wichí	wich1264	the back	BACK	1291		towhu	towhu 
+255	40-4-191-1	7221330800814996	Wichí	wich1264	the spine	SPINE	805		towhu lhile	towhu lhile 
+256	40-4-2-1	7221330277306081	Wichí	wich1264	the head	HEAD	1256		tolhetek	tolhetek 
+257	40-4-202-1	7221330710464353	Wichí	wich1264	the skull	SKULL	1605		tolhetek lhile	tolhetek lhile 
+258	40-4-203-1	7221330350482604	Wichí	wich1264	the brain	BRAIN	1583		tokanhe	tokanhe 
+259	40-4-204-1	7221330706716242	Wichí	wich1264	the face	FACE	1560		tottey	tottey 
+260	40-4-205-1	7221330857180223	Wichí	wich1264	the forehead	FOREHEAD	123		totilho’	totilho’ 
+261	40-4-207-1	722133030545359	Wichí	wich1264	the jaw	JAW	798		toch’ay lhile	toch’ay lhile 
+262	40-4-208-1	7221330577929057	Wichí	wich1264	the cheek	CHEEK	1730		toch’alu	toch’alu 
+263	40-4-209-1	722133089181633	Wichí	wich1264	the chin	CHIN	1510		tokulun	tokulun 
+264	40-4-21-1	7221330911642962	Wichí	wich1264	the eye	EYE	1248		tottelhu	tottelhu 
+265	40-4-212-1	7221330152284189	Wichí	wich1264	the eyebrow	EYEBROW	1173		tochusey	tochusey 
+266	40-4-213-1	7221330190143527	Wichí	wich1264	the eyelid	EYELID	17		tottelhu t’oj	tottelhu t’oj 
+267	40-4-214-1	7221330983057343	Wichí	wich1264	the eyelash	EYELASH	1540		tottefwis	tottefwis 
+268	40-4-215-1	7221330495606422	Wichí	wich1264	to blink	BLINK	1655		tatets’im	tatets’im 
+269	40-4-22-1	7221330485896687	Wichí	wich1264	the ear	EAR	1247		toch’ute’	toch’ute’ 
+270	40-4-221-1	722133022456340	Wichí	wich1264	the earlobe	EARLOBE	18		toch’ute’san	toch’ute’san 
+271	40-4-222-1	7221330526173175	Wichí	wich1264	the earwax	EARWAX	32		toch’ute’ lhits’i	toch’ute’ lhits’i 
+272	40-4-23-1	7221330568075987	Wichí	wich1264	the nose	NOSE	1221		tonhes	tonhes 
+273	40-4-231-1	7221330443024101	Wichí	wich1264	the nostril	NOSTRIL	1178		tonhespe’	tonhespe’ 
+274	40-4-232-1	7221330734703944	Wichí	wich1264	the nasal mucus	NASAL MUCUS (SNOT)	208		chelhtaj	chelhtaj 
+275	40-4-24-1	7221330641067165	Wichí	wich1264	the mouth	MOUTH	674		tok’aj	tok’aj 
+276	40-4-241-1	7221330976698773	Wichí	wich1264	the beak	BEAK	73		toposet	toposet 
+277	40-4-25-1	7221330976698773	Wichí	wich1264	the lip	LIP	478		toposet	toposet 
+278	40-4-26-1	7221330941299407	Wichí	wich1264	the tongue	TONGUE	1205		tok’ajlhech’e	tok’ajlhech’e 
+279	40-4-27-1	7221330343189975	Wichí	wich1264	the tooth	TOOTH	1380		totsute	totsute 
+280	40-4-271-1	7221330468597174	Wichí	wich1264	the gums	GUMS	139		totsute lhiley	totsute lhiley 
+281	40-4-272-1	7221330671884603	Wichí	wich1264	the molar tooth	MOLAR TOOTH	1049		toch’alunchey	toch’alunchey 
+282	40-4-28-1	7221330912981071	Wichí	wich1264	the neck	NECK	1333		tow’u	tow’u 
+283	40-4-281-1	7221330694398390	Wichí	wich1264	the nape of the neck	NAPE (OF NECK)	1347		tow’utes	tow’utes 
+284	40-4-29-1	7221330857585729	Wichí	wich1264	the throat	THROAT	1346		toponhi	toponhi 
+285	40-4-3-1	7221330384351457	Wichí	wich1264	the shoulder	SHOULDER	1482		tofwapu	tofwapu 
+286	40-4-301-1	7221330729591431	Wichí	wich1264	the shoulderblade	SHOULDERBLADE	172		tofwapu lhile	tofwapu lhile 
+287	40-4-302-1	722133051312846	Wichí	wich1264	the collarbone	COLLARBONE	1994		towhulh	towhulh 
+288	40-4-31-1	7221330286061860	Wichí	wich1264	the arm	ARM	1673		totkwey	totkwey 
+289	40-4-312-1	7221330877509124	Wichí	wich1264	the armpit	ARMPIT	1886		towilisch’u	towilisch’u 
+290	40-4-32-1	7221330853246992	Wichí	wich1264	the elbow	ELBOW	981		tokatu	tokatu 
+291	40-4-321-1	7221330917568173	Wichí	wich1264	the wrist	WRIST	799		totkwew’u	totkwew’u 
+292	40-4-33-1	7221330204069322	Wichí	wich1264	the hand	HAND	1277		totkwe	totkwe 
+293	40-4-331-1	7221330426829372	Wichí	wich1264	the palm of the hand	PALM OF HAND	1183		totkwech’u	totkwech’u 
+294	40-4-34-1	7221330126378250	Wichí	wich1264	the finger	FINGER	1303		tofwefw	tofwefw 
+295	40-4-342-1	7221330865437155	Wichí	wich1264	the thumb	THUMB	1781		tofwefw lhukwe	tofwefw lhukwe 
+296	40-4-344-1	7221330373403047	Wichí	wich1264	the fingernail	FINGERNAIL	1258		tofwefwt’oj	tofwefwt’oj 
+297	40-4-345-1	7221330126378250	Wichí	wich1264	the claw	CLAW	72		tofwefw	tofwefw 
+298	40-4-35-1	7221330956303124	Wichí	wich1264	the leg	LEG	1297		totkolo	totkolo 
+299	40-4-351-1	7221330219769598	Wichí	wich1264	the thigh	THIGH	800		tolheche	tolheche 
+300	40-4-352-1	7221330958130679	Wichí	wich1264	the calf of the leg	CALF OF LEG	498		totkolots’e	totkolots’e 
+301	40-4-36-1	7221330367775665	Wichí	wich1264	the knee	KNEE	1371		top’ulhak	top’ulhak 
+302	40-4-37-1	7221330629267534	Wichí	wich1264	the foot	FOOT	1301		topach’u	topach’u 
+303	40-4-371-1	7221330693047461	Wichí	wich1264	the ankle	ANKLE	803		tokasup’a	tokasup’a 
+304	40-4-372-1	722133088619185	Wichí	wich1264	the heel	HEEL	980		topokhe	topokhe 
+305	40-4-374-1	7221330863935420	Wichí	wich1264	the footprint	FOOTPRINT	318		ton’oyij	ton’oyij 
+306	40-4-38-1	7221330577560240	Wichí	wich1264	the toe	TOE	1389		topach’u fwefw	topach’u fwefw 
+307	40-4-392-1	7221330310428558	Wichí	wich1264	the wing	WING	1257		tolhefw	tolhefw 
+308	40-4-393-1	7221330693297443	Wichí	wich1264	the feather	FEATHER	1201		afwenche w’ule	afwenche w’ule 
+309	40-4-4-1	7221330219451190	Wichí	wich1264	the chest	CHEST	1592		tot’ukwe	tot’ukwe 
+310	40-4-41-1	7221330304062475	Wichí	wich1264	the breast	BREAST	1402		tot’ate	tot’ate 
+311	40-4-412-1	7221330277015669	Wichí	wich1264	the nipple or teat	NIPPLE	796		tot’ate lapes	tot’ate lapes 
+312	40-4-42-1	7221330532234002	Wichí	wich1264	the udder	UDDER	154		tshowet t’atey	tshowet t’atey 
+313	40-4-43-1	7221330181216027	Wichí	wich1264	the navel	NAVEL	1838		tots’ak	tots’ak 
+314	40-4-44-1	7221330558233096	Wichí	wich1264	the heart	HEART	1223		tot’utle	tot’utle 
+315	40-4-441-1	7221330492419393	Wichí	wich1264	the lung	LUNG	688		toyalhhis	toyalhhis 
+316	40-4-45-1	7221330899191715	Wichí	wich1264	the liver	LIVER	1224		totonek	totonek 
+317	40-4-451-1	7221330416127657	Wichí	wich1264	the kidney	KIDNEY	489		tokatente	tokatente 
+318	40-4-452-1	7221330838826017	Wichí	wich1264	the spleen	SPLEEN	1744		tow’uyishi	tow’uyishi 
+319	40-4-46-1	7221330349917844	Wichí	wich1264	the stomach	STOMACH	819		tots’e	tots’e 
+320	40-4-461-1	7221330796186708	Wichí	wich1264	the intestines or guts	INTESTINES	1991		totkosley	totkosley 
+321	40-4-462-1	7221330219568621	Wichí	wich1264	the waist	WAIST	1681		toselak	toselak 
+322	40-4-463-1	7221330895589089	Wichí	wich1264	the hip	HIP	1745		towej lhile	towej lhile 
+323	40-4-464-1	7221330469097543	Wichí	wich1264	the buttocks	BUTTOCKS	834		towejch’alus	towejch’alus 
+324	40-4-49-1	7221330717818826	Wichí	wich1264	the testicles	TESTICLES	797		tochonis	tochonis 
+325	40-4-492-1	7221330631695966	Wichí	wich1264	the penis	PENIS	1222		tolhu	tolhu 
+326	40-4-51-1	7221330132127239	Wichí	wich1264	to breathe	BREATHE	1407		t’iyalh	t’iyalh 
+327	40-4-52-1	7221330397649315	Wichí	wich1264	to yawn	YAWN	1028		hich’enlhi lak’aj	hich’enlhi lak’aj 
+328	40-4-521-1	7221330566934802	Wichí	wich1264	to hiccough	HICCOUGH	162		yul’e	yul’e 
+329	40-4-53-1	7221330393856661	Wichí	wich1264	to cough	COUGH	879		takhosi	takhosi 
+330	40-4-54-1	7221330847946896	Wichí	wich1264	to sneeze	SNEEZE	1621		tanatshan	tanatshan 
+331	40-4-55-1	7221330844219841	Wichí	wich1264	to perspire	SWEAT (PERSPIRE)	126		chefw ilon	chefw ilon 
+332	40-4-56-1	722133096646848	Wichí	wich1264	to spit	SPIT	1440		ifwats’encho’	ifwats’encho’ 
+333	40-4-57-1	7221330643112758	Wichí	wich1264	to vomit	VOMIT	1278		tach’eylhi	tach’eylhi 
+334	40-4-58-1	7221330784198236	Wichí	wich1264	to bite	BITE	1403		yukwaj	yukwaj 
+335	40-4-59-1	7221330853387910	Wichí	wich1264	to lick	LICK	319		inap’e	inap’e 
+336	40-4-591-1	7221330442672058	Wichí	wich1264	to dribble	DRIBBLE	268		lak’ajt’i	lak’ajt’i 
+337	40-4-61-1	7221330933960746	Wichí	wich1264	to sleep	SLEEP	1585		imo	imo 
+338	40-4-612-1	7221330148323065	Wichí	wich1264	to snore	SNORE	1983		lanhes y’ip	lanhes y’ip 
+339	40-4-62-1	7221330532747903	Wichí	wich1264	to dream	DREAM (SOMETHING)	1920		tafwilhan	tafwilhan 
+340	40-4-63-1	7221330706619630	Wichí	wich1264	to wake up	WAKE UP	1602		t’iselit	t’iselit 
+341	40-4-64-1	7221330863279950	Wichí	wich1264	to fart	FART	1159		tefwtey	tefwtey 
+342	40-4-65-1	7221330474200056	Wichí	wich1264	to piss	PISS	592		t’elh	t’elh 
+343	40-4-66-1	7221330454798021	Wichí	wich1264	to shit	SHIT (DEFECATE)	676		t’alham	t’alham 
+344	40-4-67-1	7221330548456778	Wichí	wich1264	to have sex	HAVE SEX	1785		wanhen	wanhen 
+345	40-4-68-1	7221330460274221	Wichí	wich1264	to shiver	SHIVER	52		tachettilhi	tachettilhi 
+346	40-4-68-2	7221330162056753	Wichí	wich1264	to shiver	SHIVER	52		tachettiche	tachettiche 
+347	40-4-69-1	7221330516428640	Wichí	wich1264	to bathe	BATHE	138		inay	inay 
+348	40-4-71-1	7221330669514100	Wichí	wich1264	to beget	BEGET	1152		iwulhosahi	iwulhosahi 
+349	40-4-72-1	7221330613103837	Wichí	wich1264	to be born	BE BORN	1090		nichotcho’	nichotcho’ 
+350	40-4-73-1	7221330909045734	Wichí	wich1264	pregnant	PREGNANT	1123		hich’utshan	hich’utshan 
+351	40-4-73-2	722133036808379	Wichí	wich1264	pregnant	PREGNANT	1123		waple	waple 
+352	40-4-732-1	7221330960130433	Wichí	wich1264	to conceive	CONCEIVE	1087		iwulhosa	iwulhosa 
+353	40-4-74-1	7221330538925841	Wichí	wich1264	to be alive	BE ALIVE	1422		iloy	iloy 
+354	40-4-75-1	7221330594959655	Wichí	wich1264	to die	DIE	1494		y’ilh	y’ilh 
+355	40-4-75-2	7221330711477734	Wichí	wich1264	to die	DIE	1494		ileyej hunhat	ileyej hunhat 
+356	40-4-751-1	7221330580321631	Wichí	wich1264	to drown	DROWN	1904		hich’a	hich’a 
+357	40-4-76-1	7221330932446947	Wichí	wich1264	to kill	KILL	1417		ilon	ilon 
+358	40-4-77-1	7221330440062489	Wichí	wich1264	the corpse	CORPSE	767		top’itsek	top’itsek 
+359	40-4-78-1	7221330622277263	Wichí	wich1264	to bury	BURY	1719		iputpe’	iputpe’ 
+360	40-4-79-1	7221330242820846	Wichí	wich1264	the grave	GRAVE	1773		tot’u	tot’u 
+361	40-4-81-1	7221330468531658	Wichí	wich1264	strong	STRONG	785		takhajhay	takhajhay 
+362	40-4-82-1	722133082306305	Wichí	wich1264	weak	WEAK	1601		tak’efwiche	tak’efwiche 
+363	40-4-83-1	7221330468531658	Wichí	wich1264	healthy	HEALTHY	1364		takhajhay	takhajhay 
+364	40-4-84-1	7221330624845968	Wichí	wich1264	sick/ill	SICK	1847		lawit’oy ihi	lawit’oy ihi 
+365	40-4-841-1	7221330592019617	Wichí	wich1264	the fever	FEVER	1534		t’oj nichayu	t’oj nichayu 
+366	40-4-842-1	7221330256920705	Wichí	wich1264	the goitre/goiter	GOITER	1957		laponhi t’ikwa	laponhi t’ikwa 
+367	40-4-843-1	7221330734703944	Wichí	wich1264	the cold	COMMON COLD (DISEASE)	102		chelhtaj	chelhtaj 
+368	40-4-85-1	7221330216701074	Wichí	wich1264	the wound or sore	WOUND	1109		yomhu	yomhu 
+369	40-4-852-1	722133059980006	Wichí	wich1264	the bruise	BRUISE	1148		hits’etajhi	hits’etajhi 
+370	40-4-853-1	722133030770962	Wichí	wich1264	the swelling	SWELLING	1903		t’ikwa	t’ikwa 
+371	40-4-854-1	7221330448697367	Wichí	wich1264	the itch	ITCH	148		afwtsaj	afwtsaj 
+372	40-4-855-1	7221330590364595	Wichí	wich1264	the blister	BLISTER	1584		hits’ethen	hits’ethen 
+373	40-4-856-1	7221330313257568	Wichí	wich1264	the boil	BOIL (OF SKIN)	793		amuku	amuku 
+374	40-4-857-1	7221330188602123	Wichí	wich1264	the pus	PUS	1808		amut’i	amut’i 
+375	40-4-858-1	7221330195665096	Wichí	wich1264	the scar	SCAR	497		amuyik	amuyik 
+376	40-4-86-1	7221330239600077	Wichí	wich1264	to cure	CURE	499		ichesat	ichesat 
+377	40-4-87-1	7221330439156882	Wichí	wich1264	the physician	PHYSICIAN	597		luktul	luktul 
+378	40-4-87-2	7221330741676280	Wichí	wich1264	the physician	PHYSICIAN	597		kachawu	kachawu 
+379	40-4-88-1	7221330353186920	Wichí	wich1264	the medicine	MEDICINE	1372		tokacha	tokacha 
+380	40-4-89-1	7221330516834447	Wichí	wich1264	the poison	POISON	655		tot’ilek	tot’ilek 
+381	40-4-91-1	7221330626438872	Wichí	wich1264	tired	TIRED	1757		y’el	y’el 
+382	40-4-912-1	7221330788448125	Wichí	wich1264	to rest	REST	168		iwutamsecha	iwutamsecha 
+383	40-4-92-1	7221330515461037	Wichí	wich1264	lazy	LAZY	1564		lufwu	lufwu 
+384	40-4-92-2	7221330471440608	Wichí	wich1264	lazy	LAZY	1564		n’etojlhi	n’etojlhi 
+385	40-4-93-1	7221330663276199	Wichí	wich1264	bald	BALD	1125		pole’	pole’ 
+386	40-4-94-1	722133082306305	Wichí	wich1264	lame	LAME	320		tak’efwiche	tak’efwiche 
+387	40-4-95-1	7221330405302062	Wichí	wich1264	deaf	DEAF	996		ch’utech’u	ch’utech’u 
+388	40-4-96-1	7221330155776085	Wichí	wich1264	mute	MUTE	1666		wowo	wowo 
+389	40-4-97-1	7221330888369025	Wichí	wich1264	blind	BLIND	1653		asnam	asnam 
+390	40-4-98-1	722133062876089	Wichí	wich1264	drunk	DRUNK	1463		w’uknaj	w’uknaj 
+391	40-4-99-1	7221330778307454	Wichí	wich1264	naked	NAKED	590		tulajche	tulajche 
+392	40-5-11-1	7221330611751778	Wichí	wich1264	to eat	EAT	1336		tefw	tefw 
+393	40-5-12-1	7221330973765824	Wichí	wich1264	the food	FOOD	256		kumila	kumila 
+394	40-5-12-2	7221330381814758	Wichí	wich1264	the food	FOOD	256		tolhok	tolhok 
+395	40-5-121-1	7221330722349274	Wichí	wich1264	cooked	COOKED	269		y’u	y’u 
+396	40-5-122-1	7221330745588196	Wichí	wich1264	raw	RAW	1959		n’uya	n’uya 
+397	40-5-123-1	7221330722349274	Wichí	wich1264	ripe	RIPE	178		y’u	y’u 
+398	40-5-124-1	7221330745588196	Wichí	wich1264	unripe	UNRIPE	1958		n’uya	n’uya 
+399	40-5-125-1	7221330550190682	Wichí	wich1264	rotten	ROTTEN	1728		najhet	najhet 
+400	40-5-13-1	7221330709982678	Wichí	wich1264	to drink	DRINK	1401		iyoyej	iyoyej 
+401	40-5-14-1	7221330744080768	Wichí	wich1264	to be hungry	BE HUNGRY	1533		nicheye	nicheye 
+402	40-5-141-1	7221330689778659	Wichí	wich1264	the famine	FAMINE	199		nainlo	nainlo 
+403	40-5-15-1	7221330465745558	Wichí	wich1264	to be thirsty	THIRSTY	847		ichim	ichim 
+404	40-5-16-1	7221330583952153	Wichí	wich1264	to suck	SUCK	1421		hits’e	hits’e 
+405	40-5-18-1	7221330579900268	Wichí	wich1264	to chew	CHEW	321		yukwajhi	yukwajhi 
+406	40-5-181-1	722133043393755	Wichí	wich1264	to swallow	SWALLOW	897		tim	tim 
+407	40-5-19-1	7221330695146737	Wichí	wich1264	to choke	CHOKE	129		layalh ilon	layalh ilon 
+408	40-5-21-1	7221330229390570	Wichí	wich1264	to cook	COOK (SOMETHING)	1100		ipen	ipen 
+409	40-5-22-1	7221330229390570	Wichí	wich1264	to boil	BOIL (OF LIQUID)	792		ipen	ipen 
+410	40-5-23-1	7221330958241505	Wichí	wich1264	to roast or fry	ROAST OR FRY	2146		hip’u	hip’u 
+411	40-5-24-1	7221330958241505	Wichí	wich1264	to bake	BAKE	183		hip’u	hip’u 
+412	40-5-25-1	7221330726207778	Wichí	wich1264	the oven	OVEN	1143		wuy’uhi	wuy’uhi 
+413	40-5-26-1	7221330610688902	Wichí	wich1264	the pot	POT	1462		tuwej	tuwej 
+414	40-5-27-1	7221330537165616	Wichí	wich1264	the kettle	KETTLE	854		pawa	pawa 
+415	40-5-28-1	7221330367515010	Wichí	wich1264	the pan	PAN	31		kaslula	kaslula 
+416	40-5-31-1	7221330118049190	Wichí	wich1264	the dish	DISH	481		fwenti	fwenti 
+417	40-5-32-1	7221330510561589	Wichí	wich1264	the plate	PLATE	480		platu	platu 
+418	40-5-33-1	722133066317256	Wichí	wich1264	the bowl	BOWL	1530		ch’utetaj	ch’utetaj 
+419	40-5-34-1	7221330610688902	Wichí	wich1264	the jug/pitcher	JUG	270		tuwej	tuwej 
+420	40-5-35-1	7221330719946497	Wichí	wich1264	the cup	CUP	476		tolhothi	tolhothi 
+421	40-5-36-1	7221330744724688	Wichí	wich1264	the saucer	SAUCER	271		platules	platules 
+422	40-5-37-1	7221330832035682	Wichí	wich1264	the spoon	SPOON	1378		lanek	lanek 
+423	40-5-37-2	7221330466138505	Wichí	wich1264	the spoon	SPOON	1378		kutsala	kutsala 
+424	40-5-38-1	7221330416014226	Wichí	wich1264	the knife(1)	KNIFE (FOR EATING)	3210		lachinaj	lachinaj 
+425	40-5-39-1	7221330646244140	Wichí	wich1264	the fork	FORK	1302		poy’ifwes	poy’ifwes 
+426	40-5-391-1	722133084859755	Wichí	wich1264	the tongs	TONGS	272		tenasas	tenasas 
+427	40-5-41-1	7221330973765824	Wichí	wich1264	the meal	MEAL	1526		kumila	kumila 
+428	40-5-46-1	7221330931589490	Wichí	wich1264	to peel	PEEL	275		ilanhit’oj	ilanhit’oj 
+429	40-5-47-1	7221330438047048	Wichí	wich1264	to sieve or to strain	SIEVE	86		isaphi	isaphi 
+430	40-5-48-1	7221330486254394	Wichí	wich1264	to scrape	SCRAPE	1767		isit	isit 
+431	40-5-49-1	7221330923699978	Wichí	wich1264	to stir or to mix	MIX	2017		ilhahthi	ilhahthi 
+432	40-5-51-1	7221330620749132	Wichí	wich1264	the bread	BREAD	1368		pan	pan 
+433	40-5-53-1	722133036382762	Wichí	wich1264	the dough	DOUGH	273		kasu	kasu 
+434	40-5-54-1	7221330721338061	Wichí	wich1264	to knead	KNEAD	274		ilhethi	ilhethi 
+435	40-5-55-1	7221330315438077	Wichí	wich1264	the flour	FLOUR	1594		alina	alina 
+436	40-5-56-1	7221330557260664	Wichí	wich1264	to crush or to grind	GRIND	1033		ichufwaj	ichufwaj 
+437	40-5-57-1	7221330857309771	Wichí	wich1264	the mill	MILL	636		ihwokw lanek	ihwokw lanek 
+438	40-5-58-1	7221330794970357	Wichí	wich1264	the mortar(1)	MORTAR CRUSHER	224		fwelhek	fwelhek 
+439	40-5-59-1	722133058058723	Wichí	wich1264	the pestle	PESTLE	225		fwelhekcha	fwelhekcha 
+440	40-5-59-2	7221330559077545	Wichí	wich1264	the pestle	PESTLE	225		lanhat	lanhat 
+441	40-5-61-1	722133030396255	Wichí	wich1264	the meat	MEAT	634		t’isan	t’isan 
+442	40-5-64-1	722133054706198	Wichí	wich1264	the soup	SOUP	1547		sathi	sathi 
+443	40-5-66-1	7221330748094426	Wichí	wich1264	the bean	BEAN	832		pulutu	pulutu 
+444	40-5-66-2	7221330284402697	Wichí	wich1264	the bean	BEAN	832		onyaj	onyaj 
+445	40-5-7-1	7221330889586289	Wichí	wich1264	the potato	POTATO	593		papa	papa 
+446	40-5-71-1	7221330753762062	Wichí	wich1264	the fruit	FRUIT	1507		lha	lha 
+447	40-5-712-1	7221330731768518	Wichí	wich1264	the bunch	BUNCH	1966		totsanek	totsanek 
+448	40-5-76-1	722133017050131	Wichí	wich1264	the grape	GRAPE	920		uwa	uwa 
+449	40-5-78-1	722133015301174	Wichí	wich1264	the olive	OLIVE	1154		aceituna	aceituna 
+450	40-5-79-1	7221330648954526	Wichí	wich1264	the oil	OIL (ORGANIC SUBSTANCE)	1484		aseitaj	aseitaj 
+451	40-5-791-1	7221330359401287	Wichí	wich1264	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		tulupe’	tulupe’ 
+452	40-5-81-1	7221330714551934	Wichí	wich1264	the salt	SALT	1274		nisuy	nisuy 
+453	40-5-82-1	722133068672654	Wichí	wich1264	the pepper	PEPPER	1385		ponhontaj	ponhontaj 
+454	40-5-821-1	7221330354780249	Wichí	wich1264	the chili pepper	CHILI PEPPER	919		ponhon	ponhon 
+455	40-5-84-1	7221330913248445	Wichí	wich1264	the honey	HONEY	942		akoyek	akoyek 
+456	40-5-85-1	7221330427944401	Wichí	wich1264	the sugar	SUGAR	862		asukwi	asukwi 
+457	40-5-86-1	7221330494906179	Wichí	wich1264	the milk	MILK	635		letsi	letsi 
+458	40-5-87-1	722133075905284	Wichí	wich1264	to milk	DRAW MILK	93		hits’ifwin	hits’ifwin 
+459	40-5-88-1	7221330462974900	Wichí	wich1264	the cheese	CHEESE	1569		chesu	chesu 
+460	40-5-89-1	722133079331401	Wichí	wich1264	the butter	BUTTER	1245		manteka	manteka 
+461	40-5-9-1	7221330371288832	Wichí	wich1264	the drink	BEVERAGE	731		tolhot	tolhot 
+462	40-5-92-1	7221330238409885	Wichí	wich1264	the wine	WINE	1524		hat’es	hat’es 
+463	40-5-93-1	7221330379569207	Wichí	wich1264	the beer	BEER	1639		selwesa	selwesa 
+464	40-5-94-1	7221330238409885	Wichí	wich1264	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		hat’es	hat’es 
+465	40-5-97-1	722133033771251	Wichí	wich1264	the egg	EGG	744		lhech’e	lhech’e 
+466	40-5-971-1	7221330254419420	Wichí	wich1264	the yolk	YOLK	1556		laka’tekw	laka’tekw 
+467	40-6-11-1	7221330401138634	Wichí	wich1264	to put on	PUT ON	158		iwuw’eya	iwuw’eya 
+468	40-6-12-1	7221330200477951	Wichí	wich1264	the clothing or clothes	CLOTHES	1895		tow’ey	tow’ey 
+469	40-6-13-1	7221330282847848	Wichí	wich1264	the tailor	TAILOR	881		totsekkawu	totsekkawu 
+470	40-6-21-1	7221330140199084	Wichí	wich1264	the cloth	CLOTH	1616		sak’al	sak’al 
+471	40-6-22-1	7221330454936203	Wichí	wich1264	the wool	WOOL	964		tsun’ataj wule	tsun’ataj wule 
+472	40-6-24-1	7221330827465725	Wichí	wich1264	the cotton	COTTON	1850		wesetaj	wesetaj 
+473	40-6-25-1	7221330691407037	Wichí	wich1264	the silk	SILK	1641		seda	seda 
+474	40-6-28-1	7221330430686760	Wichí	wich1264	the fur	FUR	580		t’oj	t’oj 
+475	40-6-29-1	7221330430686760	Wichí	wich1264	the leather	LEATHER	629		t’oj	t’oj 
+476	40-6-31-1	7221330386089652	Wichí	wich1264	to spin	SPIN	121		ipotsinche	ipotsinche 
+477	40-6-33-1	7221330624964575	Wichí	wich1264	to weave	WEAVE	133		tayhin	tayhin 
+478	40-6-34-1	7221330445212519	Wichí	wich1264	the loom	LOOM	1787		toyik (1)	toyik (1) 
+479	40-6-35-1	7221330860029792	Wichí	wich1264	to sew	SEW	1457		itsek	itsek 
+480	40-6-36-1	7221330533265288	Wichí	wich1264	the needle(1)	NEEDLE (FOR SEWING)	1382		kanu	kanu 
+481	40-6-38-1	7221330496848252	Wichí	wich1264	the thread	THREAD	1161		ilu	ilu 
+482	40-6-39-1	7221330471488066	Wichí	wich1264	to dye	DYE	157		ipak	ipak 
+483	40-6-41-1	7221330886303828	Wichí	wich1264	the cloak	CLOAK	326		towhup’ut	towhup’ut 
+484	40-6-411-1	7221330240209424	Wichí	wich1264	the poncho	PONCHO	327		puntsu	puntsu 
+485	40-7-37-1	722133070262287	Wichí	wich1264	the ladder	LADDER	1464		tosaites	tosaites 
+486	40-6-42-1	7221330121225916	Wichí	wich1264	the (woman's) dress	DRESS	474		westilu	westilu 
+487	40-6-43-1	7221330679510287	Wichí	wich1264	the coat	COAT	603		fwiy’etcha	fwiy’etcha 
+488	40-6-44-1	7221330469745004	Wichí	wich1264	the shirt	SHIRT	1622		y’eche	y’eche 
+489	40-6-45-1	7221330492972193	Wichí	wich1264	the collar	COLLAR	2012		tolhamis	tolhamis 
+490	40-6-46-1	7221330121225916	Wichí	wich1264	the skirt	SKIRT	1600		westilu	westilu 
+491	40-6-461-1	7221330473418501	Wichí	wich1264	the grass-skirt	GRASS-SKIRT	328		totik	totik 
+492	40-6-48-1	7221330351899944	Wichí	wich1264	the trousers	TROUSERS	809		tokuset	tokuset 
+493	40-6-49-1	7221330708995463	Wichí	wich1264	the sock or stocking	STOCKING	329		melyus	melyus 
+494	40-6-51-1	7221330101166537	Wichí	wich1264	the shoe	SHOE	1381		tonisoj	tonisoj 
+495	40-6-52-1	7221330360346114	Wichí	wich1264	the boot	BOOT	585		wutas	wutas 
+496	40-6-54-1	7221330730148489	Wichí	wich1264	the shoemaker	SHOEMAKER	875		sapatuwu	sapatuwu 
+497	40-6-55-1	7221330196126880	Wichí	wich1264	the hat or cap	HEADGEAR	2130		wun’a (1)	wun’a (1) 
+498	40-6-57-1	7221330479756513	Wichí	wich1264	the belt	BELT	772		tokawak	tokawak 
+499	40-6-58-1	7221330212122831	Wichí	wich1264	the glove	GLOVE	867		tofweshi	tofweshi 
+500	40-6-59-1	7221330450282240	Wichí	wich1264	the veil	VEIL	1151		tottep’ut	tottep’ut 
+501	40-6-61-1	7221330259606488	Wichí	wich1264	the pocket	POCKET	1851		tokhoyhi	tokhoyhi 
+502	40-6-62-1	7221330221442675	Wichí	wich1264	the button	BUTTON	757		wutum	wutum 
+503	40-6-71-1	7221330774421346	Wichí	wich1264	the ornament or adornment	ORNAMENT	917		tohenettsek	tohenettsek 
+504	40-6-72-1	7221330774421346	Wichí	wich1264	the jewel	JEWEL	1029		tohenettsek	tohenettsek 
+505	40-6-73-1	7221330268052342	Wichí	wich1264	the ring	RING	1374		tofwefwhi	tofwefwhi 
+506	40-6-74-1	7221330385678829	Wichí	wich1264	the bracelet	BRACELET	1754		totkwet’ak	totkwet’ak 
+507	40-6-75-1	7221330492972193	Wichí	wich1264	the necklace	NECKLACE	1961		tolhamis	tolhamis 
+508	40-6-76-1	7221330492972193	Wichí	wich1264	the bead	BEAD	1860		tolhamis	tolhamis 
+509	40-6-77-1	7221330876926400	Wichí	wich1264	the earring	EARRING	770		toch’utelhele	toch’utelhele 
+510	40-6-78-1	7221330820315499	Wichí	wich1264	the headband or headdress	HEADBAND	330		tolhetekt’ak	tolhetekt’ak 
+511	40-6-79-1	7221330743186968	Wichí	wich1264	the tattoo	TATTOO	68		tolet	tolet 
+512	40-6-81-1	7221330574657234	Wichí	wich1264	the handkerchief or rag	RAG	332		tofwi	tofwi 
+513	40-6-82-1	7221330796642243	Wichí	wich1264	the towel	TOWEL	1021		towayu	towayu 
+514	40-6-91-1	7221330341810757	Wichí	wich1264	the comb	COMB	1475		tsunis	tsunis 
+515	40-6-92-1	7221330697804173	Wichí	wich1264	the brush	BRUSH	1821		sepiya	sepiya 
+516	40-6-921-1	7221330386089652	Wichí	wich1264	the plait/braid	BRAID	1043		ipotsinche	ipotsinche 
+517	40-6-93-1	7221330940387761	Wichí	wich1264	the razor	RAZOR	151		toposecha	toposecha 
+518	40-6-94-1	7221330456068814	Wichí	wich1264	the ointment	OINTMENT	1926		mak t’alho	mak t’alho 
+519	40-6-95-1	7221330252133002	Wichí	wich1264	the soap	SOAP	788		fwawun	fwawun 
+520	40-6-96-1	7221330214874717	Wichí	wich1264	the mirror	MIRROR	1171		topeyakhi	topeyakhi 
+521	40-7-11-1	722133036736432	Wichí	wich1264	to live	DWELL (LIVE, RESIDE)	363		ihi	ihi 
+522	40-7-12-1	7221330997557347	Wichí	wich1264	the house	HOUSE	1252		tow’et	tow’et 
+523	40-7-13-1	7221330993906880	Wichí	wich1264	the hut	HUT	1678		hep	hep 
+524	40-7-13-2	7221330280090748	Wichí	wich1264	the hut	HUT	1678		chechelhep	chechelhep 
+525	40-7-14-1	7221330280090748	Wichí	wich1264	the tent	TENT	1316		chechelhep	chechelhep 
+526	40-7-15-1	7221330738607841	Wichí	wich1264	the yard or court	YARD	736		tokuyw’et	tokuyw’et 
+527	40-7-17-1	7221330184932202	Wichí	wich1264	the cookhouse	COOKHOUSE	334		tolhatajw’et	tolhatajw’et 
+528	40-7-18-1	7221330161020223	Wichí	wich1264	the meeting house	MEETING HOUSE	335		toheseyw’et	toheseyw’et 
+529	40-7-21-1	7221330717714185	Wichí	wich1264	the room	ROOM	1450		tow’etch’ulh	tow’etch’ulh 
+530	40-7-22-1	7221330819644614	Wichí	wich1264	the door or gate	DOOR	1567		lape’	lape’ 
+531	40-7-23-1	7221330725680795	Wichí	wich1264	the lock	LOCK	1596		lape lhele	lape lhele 
+532	40-7-231-1	7221330725680795	Wichí	wich1264	the latch or door-bolt	LATCH	1012		lape lhele	lape lhele 
+533	40-7-24-1	7221330652462532	Wichí	wich1264	the key	KEY	1472		yawe	yawe 
+534	40-7-25-1	722133052805284	Wichí	wich1264	the window	WINDOW	1375		wentana	wentana 
+535	40-7-26-1	7221330855827254	Wichí	wich1264	the floor	FLOOR	1632		hunhat	hunhat 
+536	40-7-31-1	7221330517178131	Wichí	wich1264	the fireplace	FIREPLACE	185		itoj toj wefw	itoj toj wefw 
+537	40-7-33-1	7221330791986140	Wichí	wich1264	the chimney	CHIMNEY	1305		tetsaj n’oyij	tetsaj n’oyij 
+538	40-7-42-1	7221330830698960	Wichí	wich1264	the bed	BED	1663		tomow’et	tomow’et 
+539	40-7-421-1	722133021562900	Wichí	wich1264	the pillow	PILLOW	1044		tot’alaj	tot’alaj 
+540	40-7-422-1	7221330512619314	Wichí	wich1264	the blanket	BLANKET	806		kulhtsa	kulhtsa 
+541	40-7-43-1	7221330132183456	Wichí	wich1264	the chair	CHAIR	1476		towejw’et	towejw’et 
+542	40-7-43-2	7221330431415951	Wichí	wich1264	the chair	CHAIR	1476		siya	siya 
+543	40-7-44-1	7221330565677930	Wichí	wich1264	the table	TABLE	1775		mesa	mesa 
+544	40-7-45-1	722133035912668	Wichí	wich1264	the lamp or torch	TORCH OR LAMP	2131		tochokw	tochokw 
+545	40-7-46-1	7221330967784983	Wichí	wich1264	the candle	CANDLE	1273		wela	wela 
+546	40-7-47-1	7221330398460816	Wichí	wich1264	the shelf	SHELF	745		tokaw’et	tokaw’et 
+547	40-7-51-1	7221330262029186	Wichí	wich1264	the roof	ROOF	769		hep lhetekch’u	hep lhetekch’u 
+548	40-7-52-1	7221330262029186	Wichí	wich1264	the thatch	THATCH	279		hep lhetekch’u	hep lhetekch’u 
+549	40-7-53-1	7221330991720965	Wichí	wich1264	the ridgepole	RIDGEPOLE	280		lawhu lhile	lawhu lhile 
+550	40-7-54-1	7221330845140245	Wichí	wich1264	the rafter	RAFTER	829		hep sijlhiley	hep sijlhiley 
+551	40-7-55-1	7221330490646288	Wichí	wich1264	the beam	BEAM	1132		heplhip lheley	heplhip lheley 
+552	40-7-56-1	7221330566727864	Wichí	wich1264	the post or pole	POST	281		pusti	pusti 
+553	40-7-57-1	7221330868066110	Wichí	wich1264	the board	BOARD	1227		hal’o lhip	hal’o lhip 
+554	40-7-62-1	7221330216516986	Wichí	wich1264	the brick	BRICK	1006		alulis	alulis 
+555	40-7-64-1	7221330216516986	Wichí	wich1264	the adobe	ADOBE	901		alulis	alulis 
+556	40-8-12-1	7221330518283899	Wichí	wich1264	the field	FIELD	212		tokosw’et	tokosw’et 
+557	40-8-16-1	7221330981605641	Wichí	wich1264	the fence	FENCE	1690		tolafwek	tolafwek 
+558	40-8-17-1	7221330702791234	Wichí	wich1264	the ditch	DITCH	2002		toletsanek	toletsanek 
+559	40-8-21-1	7221330380784754	Wichí	wich1264	to plough/plow	PLOUGH	1921		isajhi	isajhi 
+560	40-8-212-1	7221330219321965	Wichí	wich1264	the furrow	FURROW	1794		tokos n’oyij	tokos n’oyij 
+561	40-8-22-1	7221330817009248	Wichí	wich1264	to dig	DIG	1418		tishi	tishi 
+562	40-8-23-1	7221330240730493	Wichí	wich1264	the spade	SPADE	1176		asala	asala 
+563	40-8-24-1	7221330957729609	Wichí	wich1264	the shovel	SHOVEL	1901		pala	pala 
+564	40-8-25-1	7221330371389848	Wichí	wich1264	the hoe	HOE	284		asalataj	asalataj 
+565	40-8-26-1	7221330777144877	Wichí	wich1264	the fork(2)/pitchfork	PITCHFORK	337		afwtsinaj	afwtsinaj 
+566	40-8-31-1	722133082237945	Wichí	wich1264	to sow	SOW SEEDS	748		tetchey	tetchey 
+567	40-8-31-2	7221330965912243	Wichí	wich1264	to sow	SOW SEEDS	748		itsayhat	itsayhat 
+568	40-8-311-1	7221330716369416	Wichí	wich1264	the seed	SEED	714		tokoslhu’	tokoslhu’ 
+569	40-8-32-1	7221330684266927	Wichí	wich1264	to mow	MOW	190		yiset	yiset 
+570	40-8-33-1	7221330214434928	Wichí	wich1264	the sickle or scythe	SICKLE OR SCYTHE	2132		matsetaj	matsetaj 
+571	40-8-34-1	7221330453820883	Wichí	wich1264	to thresh	THRESH	285		ilanche lhuy	ilanche lhuy 
+572	40-8-41-1	7221330574144231	Wichí	wich1264	the harvest	HARVEST	611		ilanche lakos	ilanche lakos 
+573	40-8-43-1	722133074001390	Wichí	wich1264	the wheat	WHEAT	1077		tiliwa	tiliwa 
+574	40-8-47-1	7221330769121696	Wichí	wich1264	the maize/corn	MAIZE	506		siputka	siputka 
+575	40-8-48-1	722133042723657	Wichí	wich1264	the rice	RICE	926		alus	alus 
+576	40-8-51-1	7221330993906880	Wichí	wich1264	the grass	GRASS	606		hep	hep 
+577	40-8-52-1	7221330993906880	Wichí	wich1264	the hay	HAY	342		hep	hep 
+578	40-8-53-1	7221330315566515	Wichí	wich1264	the plant	PLANT (VEGETATION)	653		tokos	tokos 
+579	40-8-531-1	7221330379220005	Wichí	wich1264	to plant	PLANT (SOMETHING)	1486		ithatcho’	ithatcho’ 
+580	40-8-531-2	722133082237945	Wichí	wich1264	to plant	PLANT (SOMETHING)	1486		tetchey	tetchey 
+581	40-8-54-1	7221330867390294	Wichí	wich1264	the root	ROOT	670		lafwettsi	lafwettsi 
+582	40-8-55-1	7221330966631764	Wichí	wich1264	the branch	BRANCH OR TWIG	3223		lhacha	lhacha 
+583	40-8-56-1	7221330728154028	Wichí	wich1264	the leaf	LEAF	628		lawule	lawule 
+584	40-8-57-1	7221330199681447	Wichí	wich1264	the flower	FLOWER	239		lhawu	lhawu 
+585	40-8-6-1	722133016687629	Wichí	wich1264	the tree	TREE	906		hal’o	hal’o 
+586	40-8-61-1	722133016687629	Wichí	wich1264	the oak	OAK	644		hal’o	hal’o 
+587	40-8-62-1	722133016687629	Wichí	wich1264	the beech	BEECH	1950		hal’o	hal’o 
+588	40-8-63-1	722133016687629	Wichí	wich1264	the birch	BIRCH	1855		hal’o	hal’o 
+589	40-8-64-1	722133016687629	Wichí	wich1264	the pine	PINE	1740		hal’o	hal’o 
+590	40-8-65-1	722133016687629	Wichí	wich1264	the fir	FIR	1915		hal’o	hal’o 
+591	40-8-67-1	722133049898799	Wichí	wich1264	the vine	VINE	343		fwiyelaj	fwiyelaj 
+592	40-8-67-2	7221330557063260	Wichí	wich1264	the vine	VINE	343		newukw	newukw 
+593	40-8-68-1	7221330626907451	Wichí	wich1264	the tobacco	TOBACCO	974		yukwas	yukwas 
+594	40-8-69-1	7221330685841340	Wichí	wich1264	to smoke	SMOKE (INHALE)	1689		iwuts’ekwa	iwuts’ekwa 
+595	40-8-691-1	7221330372258837	Wichí	wich1264	the pipe	PIPE	1124		tochethi	tochethi 
+596	40-8-72-1	722133016687629	Wichí	wich1264	the tree stump	TREE STUMP	241		hal’o	hal’o 
+597	40-8-73-1	7221330487026794	Wichí	wich1264	the tree trunk	TREE TRUNK	344		hal’otes	hal’otes 
+598	40-8-74-1	7221330966631764	Wichí	wich1264	the forked branch	FORKED BRANCH	409		lhacha	lhacha 
+599	40-8-75-1	7221330837290792	Wichí	wich1264	the bark	BARK	1204		tolhistek	tolhistek 
+600	40-8-76-1	7221330109281964	Wichí	wich1264	the sap	SAP	345		hal’o lhits’i	hal’o lhits’i 
+601	40-8-81-1	7221330821305653	Wichí	wich1264	the palm tree	PALM TREE	1181		fwitsekw	fwitsekw 
+602	40-8-84-1	722133058667065	Wichí	wich1264	the banana	BANANA	868		wanana	wanana 
+603	40-8-91-1	7221330726201066	Wichí	wich1264	the sweet potato	SWEET POTATO	159		watata	watata 
+604	40-8-92-1	7221330736902920	Wichí	wich1264	the cassava/manioc	CASSAVA	925		manyuku	manyuku 
+605	40-8-93-1	7221330941462517	Wichí	wich1264	the gourd	GOURD	411		ahwula	ahwula 
+606	40-8-931-1	7221330967490991	Wichí	wich1264	the pumpkin or squash	PUMPKIN	864		ischin	ischin 
+607	40-8-941-1	7221330597138346	Wichí	wich1264	the sugar cane	SUGAR CANE	146		kanuhi	kanuhi 
+608	40-8-97-1	7221330152046590	Wichí	wich1264	the nettle	NETTLE	33		chesoy	chesoy 
+609	40-8-98-1	7221330363252822	Wichí	wich1264	the mushroom	MUSHROOM	641		ahotlhu	ahotlhu 
+610	40-8-98-2	7221330424524190	Wichí	wich1264	the mushroom	MUSHROOM	641		mawutonek	mawutonek 
+611	40-9-11-1	722133034893238	Wichí	wich1264	to do	DO	813		iwuye	iwuye 
+612	40-9-12-1	7221330627364628	Wichí	wich1264	the work	WORK (LABOUR)	984		tochemet	tochemet 
+613	40-9-14-1	7221330400470965	Wichí	wich1264	to bend	BEND	2004		ichujnhathu	ichujnhathu 
+614	40-9-15-1	7221330659477315	Wichí	wich1264	to fold	FOLD	1470		hits’efwyenhu	hits’efwyenhu 
+615	40-9-16-1	7221330746640733	Wichí	wich1264	to tie	TIE	1917		inayhit	inayhit 
+616	40-9-161-1	7221330939856507	Wichí	wich1264	to untie	UNTIE	352		ilanhi	ilanhi 
+617	40-9-18-1	7221330296067483	Wichí	wich1264	the chain	CHAIN	1627		kalenis	kalenis 
+618	40-9-19-1	7221330938079306	Wichí	wich1264	the rope	ROPE	1218		niyokw	niyokw 
+619	40-9-192-1	7221330842915134	Wichí	wich1264	the knot	KNOT	760		lakutsu	lakutsu 
+620	40-9-21-1	7221330229222860	Wichí	wich1264	to strike or hit or beat	STRIKE OR BEAT	2133		yikojlhi	yikojlhi 
+621	40-9-211-1	7221330755642580	Wichí	wich1264	to pound	POUND	354		yikojhi	yikojhi 
+622	40-9-22-1	7221330684266927	Wichí	wich1264	to cut	CUT	1432		yiset	yiset 
+623	40-9-221-1	7221330684266927	Wichí	wich1264	to cut down	CUT DOWN	355		yiset	yiset 
+624	40-9-222-1	7221330356127379	Wichí	wich1264	to chop	CHOP	155		yenlhipeya	yenlhipeya 
+625	40-9-223-1	7221330275816520	Wichí	wich1264	to stab	STAB TO DEATH	3189		itsonhu	itsonhu 
+626	40-9-23-1	7221330416014226	Wichí	wich1264	the knife(2)	KNIFE	1352		lachinaj	lachinaj 
+627	40-9-24-1	7221330417995809	Wichí	wich1264	the scissors or shears	SHEARS	356		tishelis	tishelis 
+628	40-9-25-1	7221330521862053	Wichí	wich1264	the axe/ax	AXE	677		husan	husan 
+629	40-9-26-1	7221330502229453	Wichí	wich1264	to break	BREAK (DESTROY OR GET DESTROYED)	680		ichohot	ichohot 
+630	40-9-261-1	7221330338126987	Wichí	wich1264	broken	BROKEN (NOT WORKING)	3190		icho’	icho’ 
+631	40-9-27-1	7221330832827613	Wichí	wich1264	to split	SPLIT	1437		hich’esaj	hich’esaj 
+632	40-9-28-1	7221330316669471	Wichí	wich1264	to tear	TEAR (SHRED)	1735		y’ajhu	y’ajhu 
+633	40-9-83-1	7221330235644259	Wichí	wich1264	the statue	STATUE	1002		tolhenek	tolhenek 
+634	40-9-29-1	7221330931589490	Wichí	wich1264	to skin	PULL OFF (SKIN)	291		ilanhit’oj	ilanhit’oj 
+635	40-9-31-1	7221330817358173	Wichí	wich1264	to rub	RUB	1449		ifwetlhi	ifwetlhi 
+636	40-9-32-1	7221330595277687	Wichí	wich1264	to stretch	STRETCH	214		itunhi	itunhi 
+637	40-9-33-1	7221330595277687	Wichí	wich1264	to pull	PULL	1455		itunhi	itunhi 
+638	40-9-34-1	7221330642483394	Wichí	wich1264	to spread out	SPREAD OUT	38		itsoy	itsoy 
+639	40-9-34-2	7221330681856321	Wichí	wich1264	to spread out	SPREAD OUT	38		iti’pe’	iti’pe’ 
+640	40-9-341-1	722133086549744	Wichí	wich1264	to hang up	HANG UP	357		ifwehyenlhi	ifwehyenlhi 
+641	40-9-342-1	7221330413009440	Wichí	wich1264	to press	PRESS	1913		hits’ifwinhu	hits’ifwinhu 
+642	40-9-343-1	722133075905284	Wichí	wich1264	to squeeze	SQUEEZE	1414		hits’ifwin	hits’ifwin 
+643	40-9-35-1	7221330642483394	Wichí	wich1264	to pour	POUR	1487		itsoy	itsoy 
+644	40-9-36-1	7221330849710205	Wichí	wich1264	to wash	WASH	1453		ilej	ilej 
+645	40-9-37-1	7221330832347939	Wichí	wich1264	to sweep	SWEEP	230		isek	isek 
+646	40-9-38-1	7221330248580821	Wichí	wich1264	the broom	BROOM	245		eskuwa	eskuwa 
+647	40-9-422-1	7221330852708831	Wichí	wich1264	the tool	TOOL	1361		tochemetcha	tochemetcha 
+648	40-9-43-1	722133040096175	Wichí	wich1264	the carpenter	CARPENTER	1042		kalpintelu	kalpintelu 
+649	40-9-44-1	7221330412934424	Wichí	wich1264	to build	BUILD	1840		ipotsin	ipotsin 
+650	40-9-46-1	7221330914577539	Wichí	wich1264	to bore	BORE	1501		ituyen	ituyen 
+651	40-9-461-1	7221330195008142	Wichí	wich1264	to hollow out	HOLLOW OUT	46		tishu	tishu 
+652	40-9-48-1	7221330669479319	Wichí	wich1264	the saw	SAW	1948		alhetaj chos	alhetaj chos 
+653	40-9-49-1	7221330211791734	Wichí	wich1264	the hammer	HAMMER	1481		maltiya	maltiya 
+654	40-9-5-1	722133041055362	Wichí	wich1264	the nail	NAIL (TOOL)	502		hal’o lhele	hal’o lhele 
+655	40-9-6-1	7221330508224521	Wichí	wich1264	the blacksmith	BLACKSMITH	1001		herrero	herrero 
+656	40-9-64-1	7221330723353733	Wichí	wich1264	the gold	GOLD	1369		oro	oro 
+657	40-9-65-1	7221330262721165	Wichí	wich1264	the silver	SILVER	759		plata	plata 
+658	40-9-66-1	7221330500737579	Wichí	wich1264	the copper	COPPER	1825		bronce	bronce 
+659	40-9-67-1	7221330416014226	Wichí	wich1264	the iron	IRON	621		lachinaj	lachinaj 
+660	40-9-68-1	7221330743804786	Wichí	wich1264	the lead	LEAD (CHEMICAL ELEMENT)	627		lachinaj mukw	lachinaj mukw 
+661	40-9-71-1	7221330865424273	Wichí	wich1264	the potter	POTTER	359		tolhokwewu	tolhokwewu 
+662	40-9-72-1	7221330471299219	Wichí	wich1264	to mould/mold	MOLD	289		itech’aynej	itech’aynej 
+663	40-9-73-1	722133065574805	Wichí	wich1264	the clay	CLAY	1399		iyhot	iyhot 
+664	40-9-74-1	7221330164024328	Wichí	wich1264	the glass	GLASS	604		wiliu	wiliu 
+665	40-9-75-1	7221330386089652	Wichí	wich1264	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		ipotsinche	ipotsinche 
+666	40-9-76-1	7221330260403879	Wichí	wich1264	the basket	BASKET	1539		kanastu	kanastu 
+667	40-9-771-1	7221330489973572	Wichí	wich1264	the rug	RUG	292		wesaj	wesaj 
+668	40-9-78-1	7221330100651596	Wichí	wich1264	the netbag	NETBAG	293		hutanaj	hutanaj 
+669	40-9-79-1	7221330570868602	Wichí	wich1264	the fan	FAN (OBJECT)	1971		tohechefw	tohechefw 
+670	40-9-791-1	7221330651772504	Wichí	wich1264	to fan	FAN ACTION	360		lhayafwtej	lhayafwtej 
+671	40-9-81-1	7221330471299219	Wichí	wich1264	to carve	CARVE	228		itech’aynej	itech’aynej 
+672	40-9-88-1	7221330550559238	Wichí	wich1264	the paint	PAINT (PIGMENTS)	647		pintula	pintula 
+673	40-9-89-1	7221330461089415	Wichí	wich1264	to paint	PAINTING	2001		pinta	pinta 
+674	40-10-11-1	7221330169034499	Wichí	wich1264	to move	MOVE	765		iloyhatlhi	iloyhatlhi 
+675	40-10-12-1	7221330167536652	Wichí	wich1264	to turn	TURN	1588		ilenejlhi	ilenejlhi 
+676	40-10-13-1	7221330932624016	Wichí	wich1264	to turn around	TURN (SOMETHING)	1445		ilen	ilen 
+677	40-10-14-1	7221330268743213	Wichí	wich1264	to wrap	WRAP	1113		yikofwel	yikofwel 
+678	40-10-15-1	7221330436383587	Wichí	wich1264	to roll	ROLL	827		yikofwelhche	yikofwelhche 
+679	40-10-16-1	7221330664347818	Wichí	wich1264	to drop	DROP (SOMETHING)	2866		ileyej	ileyej 
+680	40-10-17-1	7221330349398419	Wichí	wich1264	to twist	TWIST (AROUND)	3199		hits’elhkatche	hits’elhkatche 
+681	40-10-21-1	7221330948738986	Wichí	wich1264	to rise	RISE (MOVE UPWARDS)	568		yihukpho	yihukpho 
+682	40-10-22-1	7221330816960005	Wichí	wich1264	to raise or lift	LIFT	501		itunpho	itunpho 
+683	40-10-23-1	7221330500159840	Wichí	wich1264	to fall	FALL	1280		tolhpho	tolhpho 
+684	40-10-24-1	722133074885174	Wichí	wich1264	to drip	DRIP (EMIT LIQUID)	2253		nitun	nitun 
+685	40-10-25-1	7221330309756986	Wichí	wich1264	to throw	THROW	1456		tafwumej	tafwumej 
+686	40-10-252-1	7221330757433008	Wichí	wich1264	to catch	CATCH	702		tachema	tachema 
+687	40-10-26-1	7221330407193139	Wichí	wich1264	to shake	SHAKE	1909		isichot	isichot 
+688	40-10-32-1	7221330869747112	Wichí	wich1264	to flow	FLOW	2003		yik (2)	yik (2) 
+689	40-10-33-1	7221330691332437	Wichí	wich1264	to sink	SINK (DESCEND)	1088		yeycho’	yeycho’ 
+690	40-10-34-1	722133022767445	Wichí	wich1264	to float	FLOAT	1574		ipe’not	ipe’not 
+691	40-10-35-1	7221330816066062	Wichí	wich1264	to swim	SWIM	1439		t’ilin	t’ilin 
+692	40-10-351-1	7221330691332437	Wichí	wich1264	to dive	DIVE	119		yeycho’	yeycho’ 
+693	40-10-36-1	7221330533405788	Wichí	wich1264	to sail	SAIL	787		tiyojche inot	tiyojche inot 
+694	40-10-37-1	7221330673780527	Wichí	wich1264	to fly	FLY (MOVE THROUGH AIR)	1441		wiy’o	wiy’o 
+695	40-10-38-1	722133018658177	Wichí	wich1264	to blow	BLOW (OF WIND)	175		yafwit	yafwit 
+696	40-10-41-1	7221330506443877	Wichí	wich1264	to crawl	CRAWL	96		takuslhi	takuslhi 
+697	40-10-412-1	7221330929343359	Wichí	wich1264	to kneel	KNEEL	66		itsinen lap’ulhkas	itsinen lap’ulhkas 
+698	40-10-413-1	7221330763257254	Wichí	wich1264	to crouch	CROUCH	296		nitselhot	nitselhot 
+699	40-10-42-1	7221330498955779	Wichí	wich1264	to slide or slip	SLIP	1324		hip’etaj	hip’etaj 
+700	40-10-43-1	7221330757119117	Wichí	wich1264	to jump	JUMP	1829		tiyojpho	tiyojpho 
+701	40-10-43-2	7221330919064691	Wichí	wich1264	to jump	JUMP	1829		takatin	takatin 
+702	40-10-43-3	7221330831372362	Wichí	wich1264	to jump	JUMP	1829		tiyojpe’	tiyojpe’ 
+703	40-10-431-1	7221330206724655	Wichí	wich1264	to kick	KICK	1135		y’aj	y’aj 
+704	40-10-44-1	72213301637497	Wichí	wich1264	to dance	DANCE	1879		wayla	wayla 
+705	40-10-44-2	7221330919064691	Wichí	wich1264	to dance	DANCE	1879		takatin	takatin 
+706	40-10-45-1	7221330869747112	Wichí	wich1264	to walk	WALK	1443		yik (2)	yik (2) 
+707	40-10-451-1	722133080503160	Wichí	wich1264	to limp	LIMP	366		ik’efwyenche	ik’efwyenche 
+708	40-10-46-1	7221330538812907	Wichí	wich1264	to run	RUN	1519		ine’alhuhu	ine’alhuhu 
+709	40-10-47-1	7221330869747112	Wichí	wich1264	to go	GO	695		yik (2)	yik (2) 
+710	40-10-471-1	7221330948738986	Wichí	wich1264	to go up	GO UP (ASCEND)	705		yihukpho	yihukpho 
+711	40-10-472-1	7221330422731634	Wichí	wich1264	to climb	CLIMB	1102		taw’elhu	taw’elhu 
+712	40-10-473-1	7221330528739173	Wichí	wich1264	to go down	GO DOWN (DESCEND)	2014		ineycho’	ineycho’ 
+713	40-10-474-1	7221330960228538	Wichí	wich1264	to go out	GO OUT	1107		yikch’uya	yikch’uya 
+714	40-10-48-1	7221330476104656	Wichí	wich1264	to come	COME	1446		nom	nom 
+715	40-10-481-1	7221330210926816	Wichí	wich1264	to come back	COME BACK	581		tapilh	tapilh 
+716	40-10-481-2	7221330630569132	Wichí	wich1264	to come back	COME BACK	581		yopilh	yopilh 
+717	40-10-49-1	7221330869747112	Wichí	wich1264	to leave	LEAVE	1752		yik (2)	yik (2) 
+718	40-10-491-1	7221330107818121	Wichí	wich1264	to disappear	DISAPPEAR	485		y’um	y’um 
+719	40-10-51-1	7221330687319268	Wichí	wich1264	to flee	FLEE	956		yihonlhi	yihonlhi 
+720	40-10-52-1	7221330196223536	Wichí	wich1264	to follow	FOLLOW	1085		yihon	yihon 
+721	40-10-53-1	7221330687319268	Wichí	wich1264	to pursue	PURSUE	1047		yihonlhi	yihonlhi 
+722	40-10-55-1	7221330998874032	Wichí	wich1264	to arrive	ARRIVE	1387		yomey (1)	yomey (1) 
+723	40-10-56-1	7221330496339992	Wichí	wich1264	to approach	APPROACH	1778		yomwhoye	yomwhoye 
+724	40-10-57-1	7221330988340085	Wichí	wich1264	to enter	ENTER	749		yihukfwi	yihukfwi 
+725	40-10-61-1	7221330938222107	Wichí	wich1264	to carry	CARRY	700		tilhoj	tilhoj 
+726	40-10-612-1	7221330309028430	Wichí	wich1264	to carry in hand	CARRY IN HAND	412		ichoj	ichoj 
+727	40-10-613-1	7221330938222107	Wichí	wich1264	to carry on shoulder	CARRY ON SHOULDER	413		tilhoj	tilhoj 
+728	40-10-614-1	7221330938222107	Wichí	wich1264	to carry on head	CARRY ON HEAD	414		tilhoj	tilhoj 
+729	40-10-615-1	7221330293436355	Wichí	wich1264	to carry under the arm	CARRY UNDER ARM	415		ichoj itikfwi lawilisch’u	ichoj itikfwi lawilisch’u 
+730	40-10-62-1	7221330564711685	Wichí	wich1264	to bring	BRING	692		ichoja	ichoja 
+731	40-10-63-1	7221330772125668	Wichí	wich1264	to send	SEND	1127		ithatey	ithatey 
+732	40-10-64-1	7221330312227784	Wichí	wich1264	to lead	LEAD (GUIDE)	43		ipoyenche	ipoyenche 
+733	40-10-65-1	722133076618177	Wichí	wich1264	to drive	DRIVE	741		manija	manija 
+734	40-10-66-1	7221330582787172	Wichí	wich1264	to ride	RIDE	367		ipe’	ipe’ 
+735	40-10-67-1	7221330951195053	Wichí	wich1264	to push	PUSH	1452		yihetche	yihetche 
+736	40-10-71-1	7221330267285251	Wichí	wich1264	the road	ROAD	667		n’oyij	n’oyij 
+737	40-10-72-1	7221330856533328	Wichí	wich1264	the path	PATH	2252		senda	senda 
+738	40-10-74-1	7221330785662331	Wichí	wich1264	the bridge	BRIDGE	1011		pwentu	pwentu 
+739	40-10-75-1	7221330171725203	Wichí	wich1264	the cart or wagon	CART	122		kaletaj	kaletaj 
+740	40-10-76-1	7221330245982382	Wichí	wich1264	the wheel	WHEEL	710		mak kolo	mak kolo 
+741	40-10-77-1	7221330648977704	Wichí	wich1264	the axle	AXLE	1769		totkolhlhile	totkolhlhile 
+742	40-10-78-1	7221330270141739	Wichí	wich1264	the yoke	YOKE	14		weyis w’uhi	weyis w’uhi 
+743	40-10-81-1	722133033505206	Wichí	wich1264	the ship	SHIP	740		walku	walku 
+744	40-10-83-1	7221330950280778	Wichí	wich1264	the boat	BOAT	1844		walku lhos	walku lhos 
+745	40-10-831-1	7221330847511522	Wichí	wich1264	the canoe	CANOE	1970		tsalana	tsalana 
+746	40-10-85-1	7221330116239436	Wichí	wich1264	the oar	RUDDER	108		tsalanacha	tsalanacha 
+747	40-10-851-1	7221330116239436	Wichí	wich1264	the paddle	PADDLE	234		tsalanacha	tsalanacha 
+748	40-10-852-1	7221330185495435	Wichí	wich1264	to row	ROW	1849		iseklo’ inot	iseklo’ inot 
+749	40-10-86-1	7221330419020008	Wichí	wich1264	the rudder	RUDDER	108		timon	timon 
+750	40-10-87-1	7221330492834342	Wichí	wich1264	the mast	MAST	184		wanderaw’et	wanderaw’et 
+751	40-10-89-1	722133053734649	Wichí	wich1264	the anchor	ANCHOR	1870		walku katmek	walku katmek 
+752	40-10-91-1	7221330450058575	Wichí	wich1264	the port	PORT	610		puerto	puerto 
+753	40-11-11-1	7221330494553208	Wichí	wich1264	to have	HAVE	773		tilhamej	tilhamej 
+754	40-11-12-1	7221330263993957	Wichí	wich1264	to own	OWN	684		hiw’en (2)	hiw’en (2) 
+755	40-11-13-1	7221330757433008	Wichí	wich1264	to take	TAKE	1749		tachema	tachema 
+756	40-11-14-1	7221330757433008	Wichí	wich1264	to grasp	SEIZE	855		tachema	tachema 
+757	40-11-15-1	7221330154057719	Wichí	wich1264	to hold	HOLD	1448		ichojlhi	ichojlhi 
+758	40-11-17-1	7221330892175801	Wichí	wich1264	to keep	KEEP	1477		yikanej	yikanej 
+759	40-11-18-1	7221330119796028	Wichí	wich1264	the thing	THING	738		mayek	mayek 
+760	40-11-21-1	7221330159975880	Wichí	wich1264	to give	GIVE	1447		hiw’enhu	hiw’enhu 
+761	40-11-22-1	7221330481384867	Wichí	wich1264	to give back	GIVE BACK	85		yachaj (1)	yachaj (1) 
+762	40-11-24-1	7221330892175801	Wichí	wich1264	to preserve	PRESERVE	1997		yikanej	yikanej 
+763	40-11-25-1	7221330245752648	Wichí	wich1264	to rescue	RESCUE	2008		ifwayhat	ifwayhat 
+764	40-11-27-1	7221330773784408	Wichí	wich1264	to destroy	DESTROY	681		yikonchi	yikonchi 
+765	40-11-28-1	7221330890447	Wichí	wich1264	to injure	INJURE	44		isaj	isaj 
+766	40-11-31-1	7221330630909747	Wichí	wich1264	to look for	LOOK FOR	1468		t’ekwe	t’ekwe 
+767	40-11-32-1	7221330809607690	Wichí	wich1264	to find	FIND	719		nesa	nesa 
+768	40-11-33-1	7221330889871196	Wichí	wich1264	to lose	LOSE	1660		tatoy	tatoy 
+769	40-11-34-1	7221330939856507	Wichí	wich1264	to let go	LET GO OR SET FREE	1095		ilanhi	ilanhi 
+770	40-11-34-2	7221330939394614	Wichí	wich1264	to let go	LET GO OR SET FREE	1095		yomet (2)	yomet (2) 
+771	40-11-34-3	7221330664347818	Wichí	wich1264	to let go	LET GO OR SET FREE	1095		ileyej	ileyej 
+772	40-11-43-1	7221330793338391	Wichí	wich1264	the money	MONEY	1559		tokow’oj	tokow’oj 
+773	40-11-44-1	7221330135232050	Wichí	wich1264	the coin	COIN	1867		munelu	munelu 
+774	40-11-51-1	7221330422815959	Wichí	wich1264	rich	RICH	712		niyat	niyat 
+775	40-11-52-1	7221330929776784	Wichí	wich1264	poor	POOR	1674		p’alitsaj	p’alitsaj 
+776	40-11-52-2	7221330251363701	Wichí	wich1264	poor	POOR	1674		pwili	pwili 
+777	40-11-53-1	7221330191457406	Wichí	wich1264	the beggar	BEGGAR	1934		w’aytsaj	w’aytsaj 
+778	40-11-54-1	7221330751784786	Wichí	wich1264	stingy	STINGY	1774		atsufwnaj	atsufwnaj 
+779	40-11-61-1	7221330215458809	Wichí	wich1264	to lend	LEND	582		icheihona	icheihona 
+780	40-11-62-1	7221330215458809	Wichí	wich1264	to borrow	BORROW	1823		icheihona	icheihona 
+781	40-11-63-1	7221330582429830	Wichí	wich1264	to owe	OWE	369		lacheyjonhat	lacheyjonhat 
+782	40-11-64-1	7221330534179684	Wichí	wich1264	the debt	DEBT	1914		lates	lates 
+783	40-11-65-1	7221330695198437	Wichí	wich1264	to pay	PAY	718		iwuhaya	iwuhaya 
+784	40-11-66-1	7221330113164295	Wichí	wich1264	the bill	BILL	1081		wuletu	wuletu 
+785	40-11-69-1	7221330717073164	Wichí	wich1264	the tax	TAX	873		impuesto	impuesto 
+786	40-11-77-1	722133043613867	Wichí	wich1264	to hire	HIRE	856		ichemyenlhi	ichemyenlhi 
+787	40-11-78-1	7221330953972353	Wichí	wich1264	the wages	WAGES	1122		lakow’oj	lakow’oj 
+788	40-11-79-1	7221330289895624	Wichí	wich1264	to earn	EARN	733		yikalhi lakow’oj	yikalhi lakow’oj 
+789	40-11-81-1	7221330309028430	Wichí	wich1264	to buy	BUY	1869		ichoj	ichoj 
+790	40-11-82-1	7221330564180915	Wichí	wich1264	to sell	SELL	1571		wende	wende 
+791	40-11-83-1	7221330349799798	Wichí	wich1264	to trade or barter	TRADE OR BARTER	2135		itemhatlo’ elh	itemhatlo’ elh 
+792	40-11-84-1	7221330302325471	Wichí	wich1264	the merchant	MERCHANT	1082		tienawu	tienawu 
+793	40-11-85-1	7221330339041626	Wichí	wich1264	the market	MARKET	633		tiena	tiena 
+794	40-11-86-1	7221330339041626	Wichí	wich1264	the shop/store	STORE	752		tiena	tiena 
+795	40-11-87-1	7221330303254520	Wichí	wich1264	the price	PRICE	657		laha	laha 
+796	40-11-88-1	7221330889860792	Wichí	wich1264	expensive	EXPENSIVE	1426		t’enhi	t’enhi 
+797	40-11-89-1	7221330585630740	Wichí	wich1264	cheap	CHEAP	1887		hat’enhihi	hat’enhihi 
+798	40-11-91-1	72213302117052	Wichí	wich1264	to share	SHARE	884		iwumlhi	iwumlhi 
+799	40-11-92-1	7221330199906999	Wichí	wich1264	to weigh	WEIGH	1098		pesa	pesa 
+800	40-12-01-1	7221330728791323	Wichí	wich1264	after	AFTER	1685		lapesey	lapesey 
+801	40-12-011-1	7221330533006575	Wichí	wich1264	behind	BEHIND	1686		iklafwete	iklafwete 
+802	40-12-02-1	722133024659906	Wichí	wich1264	beside	BESIDE	1816		iwhoye	iwhoye 
+803	40-12-03-1	7221330584851999	Wichí	wich1264	down	DOWN	1326		ikcho’	ikcho’ 
+804	40-12-041-1	7221330414567725	Wichí	wich1264	in front of	IN FRONT OF	1883		tataylo’	tataylo’ 
+805	40-12-05-1	7221330564539677	Wichí	wich1264	inside	INSIDE	1606		ikfwi	ikfwi 
+806	40-12-06-1	7221330157014265	Wichí	wich1264	outside	OUTSIDE	762		ihi alhu	ihi alhu 
+807	40-12-08-1	7221330405467041	Wichí	wich1264	up	UP	1591		ikpho	ikpho 
+808	40-12-11-1	7221330402400931	Wichí	wich1264	the place	PLACE (POSITION)	723		law’et	law’et 
+809	40-12-12-1	7221330138493203	Wichí	wich1264	to put	PUT	998		itihi	itihi 
+810	40-12-12-2	7221330409658893	Wichí	wich1264	to put	PUT	998		ithathu	ithathu 
+811	40-12-12-3	722133011766937	Wichí	wich1264	to put	PUT	998		itikfwi	itikfwi 
+812	40-12-12-4	7221330681856321	Wichí	wich1264	to put	PUT	998		iti’pe’	iti’pe’ 
+813	40-12-12-5	7221330318276910	Wichí	wich1264	to put	PUT	998		itiklafwete	itiklafwete 
+814	40-12-12-6	7221330766151397	Wichí	wich1264	to put	PUT	998		itikpho	itikpho 
+815	40-12-13-1	722133013541497	Wichí	wich1264	to sit	SIT	1416		tataypho	tataypho 
+816	40-12-14-1	7221330860488104	Wichí	wich1264	to lie down	LIE DOWN	215		lhipiyen	lhipiyen 
+817	40-12-14-2	7221330878470973	Wichí	wich1264	to lie down	LIE DOWN	215		imokatsi	imokatsi 
+818	40-12-15-1	7221330637860758	Wichí	wich1264	to stand	STAND	1442		takasit	takasit 
+819	40-12-16-1	7221330987867118	Wichí	wich1264	to remain	REMAIN	987		imolhehi	imolhehi 
+820	40-12-17-1	722133074543933	Wichí	wich1264	the remains	REMAINS	838		suwula’	suwula’ 
+821	40-12-17-2	722133088818780	Wichí	wich1264	the remains	REMAINS	838		imolhilhip	imolhilhip 
+822	40-12-21-1	7221330527252158	Wichí	wich1264	to gather	GATHER	7		t’okwe	t’okwe 
+823	40-12-21-2	7221330925835797	Wichí	wich1264	to gather	GATHER	7		yihethu	yihethu 
+824	40-12-212-1	7221330527252158	Wichí	wich1264	to pick up	PICK UP	371		t’okwe	t’okwe 
+825	40-12-213-1	7221330371879475	Wichí	wich1264	to pile up	PILE UP	1576		iskun	iskun 
+826	40-12-22-1	7221330925835797	Wichí	wich1264	to join	JOIN	1743		yihethu	yihethu 
+827	40-12-23-1	7221330259219252	Wichí	wich1264	to separate	SEPARATE	1359		w’enhat	w’enhat 
+828	40-12-23-2	7221330473662010	Wichí	wich1264	to separate	SEPARATE	1359		tiyejkanhi	tiyejkanhi 
+829	40-12-232-1	7221330832827613	Wichí	wich1264	to divide	DIVIDE	1119		hich’esaj	hich’esaj 
+830	40-12-24-1	7221330953250314	Wichí	wich1264	to open	OPEN	1156		iwum	iwum 
+831	40-12-25-1	7221330476794866	Wichí	wich1264	to shut	SHUT	1046		hipuhi	hipuhi 
+832	40-12-26-1	722133034413397	Wichí	wich1264	to cover	COVER	761		hipupe’	hipupe’ 
+833	40-12-27-1	7221330646450214	Wichí	wich1264	to hide	HIDE (CONCEAL)	602		iskat	iskat 
+834	40-12-31-1	7221330869178168	Wichí	wich1264	high	HIGH	1265		atufwpho	atufwpho 
+835	40-12-32-1	7221330547879641	Wichí	wich1264	low	LOW	721		atufwcho’	atufwcho’ 
+836	40-12-33-1	7221330405467041	Wichí	wich1264	the top	TOP	1753		ikpho	ikpho 
+837	40-12-34-1	7221330564539677	Wichí	wich1264	the bottom	BOTTOM	690		ikfwi	ikfwi 
+838	40-12-35-1	7221330946582475	Wichí	wich1264	the end(1)	END (OF SPACE)	742		lapes	lapes 
+839	40-12-352-1	7221330931879220	Wichí	wich1264	pointed	POINTED	372		latshelo’	latshelo’ 
+840	40-12-353-1	7221330138587385	Wichí	wich1264	the edge	EDGE	863		lhipey	lhipey 
+841	40-12-36-1	7221330581025613	Wichí	wich1264	the side	SIDE	682		lhip	lhip 
+842	40-12-37-1	7221330220482742	Wichí	wich1264	the middle	MIDDLE	1093		tochuwej	tochuwej 
+843	40-12-41-1	7221330203279142	Wichí	wich1264	right(1)	RIGHT	1019		tofwumkat	tofwumkat 
+844	40-12-42-1	7221330867712739	Wichí	wich1264	left	LEFT	244		tots’amkat	tots’amkat 
+845	40-12-43-1	7221330808927025	Wichí	wich1264	near	NEAR	1942		nitufwayey	nitufwayey 
+846	40-12-44-1	7221330191736375	Wichí	wich1264	far	FAR	1406		atufwey	atufwey 
+847	40-12-45-1	7221330842622239	Wichí	wich1264	the east	EAST	1877		tewuk choslhele	tewuk choslhele 
+848	40-12-46-1	7221330987985892	Wichí	wich1264	the west	WEST	1817		ikphomey	ikphomey 
+849	40-12-47-1	7221330600035498	Wichí	wich1264	the north	NORTH	1598		tolhu tayhi	tolhu tayhi 
+850	40-12-48-1	7221330573179043	Wichí	wich1264	the south	SOUTH	1595		tapinhi	tapinhi 
+851	40-12-53-1	7221330275508237	Wichí	wich1264	to grow	GROW	479		chiyhel	chiyhel 
+852	40-12-54-1	7221330563246918	Wichí	wich1264	to measure	MEASURE	1506		meli	meli 
+853	40-12-55-1	7221330316963649	Wichí	wich1264	big	BIG	1202		wefw	wefw 
+854	40-12-56-1	7221330993971915	Wichí	wich1264	small	SMALL	1246		niwefwa	niwefwa 
+855	40-12-56-2	7221330898159429	Wichí	wich1264	small	SMALL	1246		lhomsaj	lhomsaj 
+856	40-12-57-1	7221330209041239	Wichí	wich1264	long	LONG	1203		pitaj	pitaj 
+857	40-12-58-1	7221330209041239	Wichí	wich1264	tall	TALL	711		pitaj	pitaj 
+858	40-12-59-1	7221330579184778	Wichí	wich1264	short	SHORT	1645		niptaja	niptaja 
+859	40-12-61-1	7221330722293663	Wichí	wich1264	wide	WIDE	1243		chitsajhu	chitsajhu 
+860	40-12-61-2	7221330897575781	Wichí	wich1264	wide	WIDE	1243		chitsajpho	chitsajpho 
+861	40-12-62-1	7221330120810759	Wichí	wich1264	narrow	NARROW	1267		ilupenche	ilupenche 
+862	40-12-62-2	7221330697185253	Wichí	wich1264	narrow	NARROW	1267		niktsajahu	niktsajahu 
+863	40-12-63-1	7221330766560363	Wichí	wich1264	thick	THICK	1244		tach’upway	tach’upway 
+864	40-12-65-1	722133088589910	Wichí	wich1264	thin	THIN (OF SHAPE OF OBJECT)	2249		ilupen	ilupen 
+865	40-12-67-1	7221330893349562	Wichí	wich1264	deep	DEEP	1593		pitufw	pitufw 
+866	40-12-68-1	7221330491456768	Wichí	wich1264	shallow	SHALLOW	193		niwefwa toj pitufw	niwefwa toj pitufw 
+867	40-12-71-1	7221330422082812	Wichí	wich1264	flat	FLAT	1633		lhaw’awelhche	lhaw’awelhche 
+868	40-12-71-2	7221330902099968	Wichí	wich1264	flat	FLAT	1633		hip’akche	hip’akche 
+869	40-12-73-1	7221330382948413	Wichí	wich1264	straight	STRAIGHT	1404		tatshepiche	tatshepiche 
+870	40-12-74-1	7221330687385815	Wichí	wich1264	crooked	CROOKED	297		tats’efwihu	tats’efwihu 
+871	40-12-75-1	7221330575539737	Wichí	wich1264	the hook	HOOK	1071		tokek	tokek 
+872	40-12-76-1	7221330367275646	Wichí	wich1264	the corner	CORNER	192		latshelho’	latshelho’ 
+873	40-12-77-1	7221330306771262	Wichí	wich1264	the cross	CROSS	1367		klus	klus 
+874	40-12-81-1	7221330102442394	Wichí	wich1264	round	ROUND	1395		lhip’unlhi	lhip’unlhi 
+875	40-12-82-1	7221330102442394	Wichí	wich1264	the circle	CIRCLE	1467		lhip’unlhi	lhip’unlhi 
+876	40-12-83-1	722133043044761	Wichí	wich1264	the ball	BALL	1845		lhip’unlhi	lhip’unlhi 
+877	40-12-83-2	7221330309767023	Wichí	wich1264	the ball	BALL	1845		pelutaj	pelutaj 
+878	40-12-85-1	7221330209918072	Wichí	wich1264	the hole	HOLE	1667		lachuwej	lachuwej 
+879	40-12-92-1	7221330697135335	Wichí	wich1264	similar	SIMILAR	1558		nichotche	nichotche 
+880	40-12-93-1	7221330191730807	Wichí	wich1264	to change	CHANGE	1264		itey	itey 
+881	40-13-1	7221330140919854	Wichí	wich1264	zero	ZERO	1294		selu	selu 
+882	40-13-01-1	7221330456954951	Wichí	wich1264	one	ONE	1493		unu	unu 
+883	40-13-02-1	7221330725526084	Wichí	wich1264	two	TWO	1498		lus	lus 
+884	40-13-03-1	7221330510758555	Wichí	wich1264	three	THREE	492		tales	tales 
+885	40-13-04-1	7221330166197632	Wichí	wich1264	four	FOUR	1500		kwatlu	kwatlu 
+886	40-13-05-1	7221330463562831	Wichí	wich1264	five	FIVE	493		sinku	sinku 
+887	40-13-06-1	7221330830731013	Wichí	wich1264	six	SIX	1703		seis	seis 
+888	40-13-07-1	722133076847735	Wichí	wich1264	seven	SEVEN	1704		siete	siete 
+889	40-13-08-1	7221330191104316	Wichí	wich1264	eight	EIGHT	1705		ocho	ocho 
+890	40-13-09-1	7221330401591145	Wichí	wich1264	nine	NINE	1483		nwewe	nwewe 
+891	40-13-1-1	7221330694574885	Wichí	wich1264	ten	TEN	1515		lyes	lyes 
+892	40-13-101-1	7221330667113181	Wichí	wich1264	eleven	ELEVEN	1706		onsi	onsi 
+893	40-13-102-1	7221330213622823	Wichí	wich1264	twelve	TWELVE	1707		lusi	lusi 
+894	40-13-103-1	7221330779117875	Wichí	wich1264	fifteen	FIFTEEN	1709		kinsi	kinsi 
+895	40-13-104-1	7221330338438838	Wichí	wich1264	twenty	TWENTY	1710		wenti	wenti 
+896	40-13-105-1	722133038574193	Wichí	wich1264	a hundred	HUNDRED	1634		sien	sien 
+897	40-13-106-1	722133060931380	Wichí	wich1264	a thousand	THOUSAND	1843		mil	mil 
+898	40-13-107-1	7221330434863140	Wichí	wich1264	to count	COUNT	1420		kunta	kunta 
+899	40-13-14-1	7221330576180535	Wichí	wich1264	all	ALL	98		nufwu	nufwu 
+900	40-13-15-1	722133081675656	Wichí	wich1264	many	MANY	1198		nitokw	nitokw 
+901	40-13-17-1	7221330543163393	Wichí	wich1264	few	FEW	1242		lhimphaj	lhimphaj 
+902	40-13-17-2	7221330993971915	Wichí	wich1264	few	FEW	1242		niwefwa	niwefwa 
+903	40-13-18-1	7221330102311618	Wichí	wich1264	enough	ENOUGH	1881		wefwnaya	wefwnaya 
+904	40-13-181-1	7221330119796028	Wichí	wich1264	some	SOME	1241		mayek	mayek 
+905	40-13-19-1	7221330772960032	Wichí	wich1264	the crowd	CROWD	2023		wefwpe’	wefwpe’ 
+906	40-13-21-1	7221330473259173	Wichí	wich1264	full	FULL	1429		tapuyej	tapuyej 
+907	40-13-22-1	7221330666293608	Wichí	wich1264	empty	EMPTY	1624		lhajlheleya	lhajlheleya 
+908	40-13-23-1	7221330581025613	Wichí	wich1264	the part	PART	779		lhip	lhip 
+909	40-13-24-1	722133052831787	Wichí	wich1264	the half	HALF	816		lach’u	lach’u 
+910	40-13-24-2	7221330581025613	Wichí	wich1264	the half	HALF	816		lhip	lhip 
+911	40-13-33-1	7221330342226611	Wichí	wich1264	only	ONLY	1580		ts’ilak	ts’ilak 
+912	40-13-34-1	7221330905438694	Wichí	wich1264	first	FIRST	728		tachen	tachen 
+913	40-13-35-1	7221330380051940	Wichí	wich1264	last	LAST (FINAL)	1529		imolhhen	imolhhen 
+914	40-13-37-1	7221330761898612	Wichí	wich1264	the pair	PAIR	1888		ihi lus	ihi lus 
+915	40-14-11-1	7221330787679201	Wichí	wich1264	the time	TIME	892		lawhoy	lawhoy 
+916	40-14-12-1	7221330432370314	Wichí	wich1264	the age	AGE	1789		nekchom	nekchom 
+917	40-14-12-2	7221330497174200	Wichí	wich1264	the age	AGE	1789		anio	anio 
+918	40-14-13-1	722133073586496	Wichí	wich1264	new	NEW	1231		nech’ayik	nech’ayik 
+919	40-14-14-1	7221330857521546	Wichí	wich1264	young	YOUNG	1207		mamse	mamse 
+920	40-14-14-2	7221330379458362	Wichí	wich1264	young	YOUNG	1207		nipajache	nipajache 
+921	40-14-15-1	7221330138155418	Wichí	wich1264	old	OLD	1229		thalokw	thalokw 
+922	40-14-15-2	7221330415084117	Wichí	wich1264	old	OLD	1229		lawemek	lawemek 
+923	40-14-16-1	7221330844924238	Wichí	wich1264	early	EARLY	672		inathaj	inathaj 
+924	40-14-17-1	7221330559032605	Wichí	wich1264	late	LATE	477		hunaj	hunaj 
+925	40-14-18-1	7221330458780695	Wichí	wich1264	now	NOW	1376		athana	athana 
+926	40-14-19-1	7221330919158913	Wichí	wich1264	immediately	IMMEDIATELY	1963		yukfwajkwewet	yukfwajkwewet 
+927	40-14-21-1	7221330490586426	Wichí	wich1264	fast	FAST	1631		ilofwel	ilofwel 
+928	40-14-22-1	7221330239692781	Wichí	wich1264	slow	SLOW	701		yiwainlhaj	yiwainlhaj 
+929	40-14-24-1	7221330587401728	Wichí	wich1264	to be late	BE LATE	425		’utle	’utle 
+930	40-14-25-1	722133096940074	Wichí	wich1264	to begin	BEGIN	1806		ketlhi	ketlhi 
+931	40-14-26-1	7221330946582475	Wichí	wich1264	the end(2)	END (OF TIME)	743		lapes	lapes 
+932	40-14-27-1	7221330238801438	Wichí	wich1264	to finish	FINISH	1766		nufw	nufw 
+933	40-14-28-1	7221330664347818	Wichí	wich1264	to cease	CEASE	1928		ileyej	ileyej 
+934	40-14-29-1	722133097063377	Wichí	wich1264	ready	READY	790		wak’alh	wak’alh 
+935	40-14-34-1	7221330547219154	Wichí	wich1264	never	NEVER	1656		hayip	hayip 
+936	40-14-35-1	7221330269495380	Wichí	wich1264	again	AGAIN	204		yip	yip 
+937	40-14-41-1	7221330755311000	Wichí	wich1264	the day(1)	DAY (24 HOURS)	1260		fwala	fwala 
+938	40-14-42-1	7221330881276835	Wichí	wich1264	the night	NIGHT	1233		hunatsi	hunatsi 
+939	40-14-43-1	7221330652864394	Wichí	wich1264	the dawn	DAWN	729		fwala’ihlo’	fwala’ihlo’ 
+940	40-14-44-1	7221330844924238	Wichí	wich1264	the morning	MORNING	1339		inathaj	inathaj 
+941	40-14-45-1	7221330213622823	Wichí	wich1264	the midday	MIDDAY	12		lusi	lusi 
+942	40-14-451-1	7221330559032605	Wichí	wich1264	the afternoon	AFTERNOON	1807		hunaj	hunaj 
+943	40-14-46-1	7221330881276835	Wichí	wich1264	the evening	EVENING	1629		hunatsi	hunatsi 
+944	40-14-47-1	7221330554799159	Wichí	wich1264	today	TODAY	1283		fwalana	fwalana 
+945	40-14-48-1	7221330950580554	Wichí	wich1264	tomorrow	TOMORROW	1329		chefwala	chefwala 
+946	40-14-481-1	7221330420358679	Wichí	wich1264	the day after tomorrow	DAY AFTER TOMORROW	1179		temlok ifwala	temlok ifwala 
+947	40-14-49-1	7221330573657322	Wichí	wich1264	yesterday	YESTERDAY	1174		fwalanajtsu	fwalanajtsu 
+948	40-14-491-1	7221330758322768	Wichí	wich1264	the day before yesterday	DAY BEFORE YESTERDAY	1180		ifwala elhaji	ifwala elhaji 
+949	40-14-51-1	722133048091429	Wichí	wich1264	the hour	HOUR	1353		ora	ora 
+950	40-14-53-1	7221330178906347	Wichí	wich1264	the clock	CLOCK	1323		tokafwala	tokafwala 
+951	40-14-53-2	7221330978650763	Wichí	wich1264	the clock	CLOCK	1323		tokwe’fwat	tokwe’fwat 
+952	40-14-61-1	7221330865854307	Wichí	wich1264	the week	WEEK	1469		semanu	semanu 
+953	40-14-62-1	7221330237814797	Wichí	wich1264	Sunday	SUNDAY	1699		luminku	luminku 
+954	40-14-63-1	7221330910963682	Wichí	wich1264	Monday	MONDAY	1697		lunis	lunis 
+955	40-14-64-1	7221330432388507	Wichí	wich1264	Tuesday	TUESDAY	1695		maltis	maltis 
+956	40-14-65-1	7221330937713846	Wichí	wich1264	Wednesday	WEDNESDAY	1694		mielkulis	mielkulis 
+957	40-14-66-1	7221330234928392	Wichí	wich1264	Thursday	THURSDAY	1693		fwewis	fwewis 
+958	40-14-67-1	7221330769220335	Wichí	wich1264	Friday	FRIDAY	1692		welnis	welnis 
+959	40-14-68-1	7221330213613498	Wichí	wich1264	Saturday	SATURDAY	1700		sawulu	sawulu 
+960	40-14-71-1	7221330297485955	Wichí	wich1264	the month	MONTH	1370		wel’a	wel’a 
+961	40-14-73-1	7221330432370314	Wichí	wich1264	the year	YEAR	1226		nekchom	nekchom 
+962	40-14-74-1	7221330196157961	Wichí	wich1264	the winter	WINTER	1471		lup	lup 
+963	40-14-75-1	7221330211316318	Wichí	wich1264	the spring(2)	SPRINGTIME	1537		nawup	nawup 
+964	40-14-76-1	7221330812805635	Wichí	wich1264	the summer	SUMMER	1342		yachep	yachep 
+965	40-14-77-1	7221330815487183	Wichí	wich1264	the autumn/fall	AUTUMN	1276		chelhchep	chelhchep 
+966	40-14-78-1	7221330922123395	Wichí	wich1264	the season	SEASON	691		lawhoyis	lawhoyis 
+967	40-15-89-1	7221330783169680	Wichí	wich1264	wrinkled	WRINKLED	380		tasefwilhi	tasefwilhi 
+968	40-15-212-1	7221330879511245	Wichí	wich1264	to sniff	SNIFF	375		tan’isinch’uya	tan’isinch’uya 
+969	40-15-22-1	72213303509588	Wichí	wich1264	to smell(2)	SMELL (PERCEIVE)	1586		tan’isinej	tan’isinej 
+970	40-15-25-1	7221330785643246	Wichí	wich1264	fragrant	FRAGRANT	376		lan’ij akojche	lan’ij akojche 
+971	40-15-26-1	7221330368596784	Wichí	wich1264	stinking	STINKING	42		lan’ij oitaj	lan’ij oitaj 
+972	40-15-31-1	722133060757686	Wichí	wich1264	to taste	TASTE (SOMETHING)	21		yelhthu	yelhthu 
+973	40-15-35-1	7221330111645108	Wichí	wich1264	sweet	SWEET	717		nitsot	nitsot 
+974	40-15-36-1	7221330278179877	Wichí	wich1264	salty	SALTY	1091		nusuy	nusuy 
+975	40-15-37-1	7221330826049946	Wichí	wich1264	bitter	BITTER	887		tapay	tapay 
+976	40-15-39-1	7221330177137796	Wichí	wich1264	brackish	BRACKISH	70		nusyhi lhimphaj	nusyhi lhimphaj 
+977	40-15-41-1	7221330312803301	Wichí	wich1264	to hear	HEAR	1408		ilota	ilota 
+978	40-15-41-2	7221330916215226	Wichí	wich1264	to hear	HEAR	1408		ilotey	ilotey 
+979	40-15-42-1	7221330672473371	Wichí	wich1264	to listen	LISTEN	1608		ilotche	ilotche 
+980	40-15-44-1	722133011765166	Wichí	wich1264	the sound or noise	SOUND OR NOISE	1811		lapak	lapak 
+981	40-15-45-1	7221330535668153	Wichí	wich1264	loud	LOUD	377		lapak t’enche	lapak t’enche 
+982	40-15-46-1	7221330850323683	Wichí	wich1264	quiet	QUIET	1314		neweche makpak	neweche makpak 
+983	40-15-51-1	7221330395520599	Wichí	wich1264	to see	SEE	1409		hiw’en (1)	hiw’en (1) 
+984	40-15-52-1	7221330703792439	Wichí	wich1264	to look	LOOK	1819		iyahin	iyahin 
+985	40-15-55-1	7221330406139139	Wichí	wich1264	to show	SHOW	1039		ipoyna	ipoyna 
+986	40-15-56-1	722133056620683	Wichí	wich1264	to shine	SHINE	708		isi	isi 
+987	40-15-57-1	722133056620683	Wichí	wich1264	bright	BRIGHT	679		isi	isi 
+988	40-15-62-1	7221330463898495	Wichí	wich1264	light(2)	LIGHT (COLOR)	250		kalelhoj	kalelhoj 
+989	40-15-63-1	7221330136634089	Wichí	wich1264	dark	DARK	706		hunatsihu	hunatsihu 
+990	40-15-64-1	7221330178949088	Wichí	wich1264	white	WHITE	1335		ipelaj	ipelaj 
+991	40-15-65-1	7221330118634239	Wichí	wich1264	black	BLACK	163		chalaj	chalaj 
+992	40-15-66-1	722133023257683	Wichí	wich1264	red	RED	156		ichot	ichot 
+993	40-15-67-1	7221330691683182	Wichí	wich1264	blue	BLUE	837		asul	asul 
+994	40-15-67-2	7221330811878673	Wichí	wich1264	blue	BLUE	837		w’atshan	w’atshan 
+995	40-15-68-1	7221330811878673	Wichí	wich1264	green	GREEN	1425		w’atshan	w’atshan 
+996	40-15-69-1	7221330296141420	Wichí	wich1264	yellow	YELLOW	1424		ka’te	ka’te 
+997	40-15-71-1	7221330279590084	Wichí	wich1264	to touch	TOUCH	1892		tachasa	tachasa 
+998	40-15-712-1	722133075905284	Wichí	wich1264	to pinch	PINCH	378		hits’ifwin	hits’ifwin 
+999	40-15-72-1	7221330586237554	Wichí	wich1264	to feel	FEEL	1079		tachasch’uya	tachasch’uya 
+1000	40-15-74-1	7221330930696011	Wichí	wich1264	hard	HARD	1884		t’en	t’en 
+1001	40-15-75-1	7221330935320045	Wichí	wich1264	soft	SOFT	1856		tak’efwi	tak’efwi 
+1002	40-15-76-1	7221330772171308	Wichí	wich1264	rough(1)	ROUGH	1923		yelaj	yelaj 
+1003	40-15-77-1	7221330332281331	Wichí	wich1264	smooth	SMOOTH	1234		talich’i	talich’i 
+1004	40-15-78-1	7221330332316100	Wichí	wich1264	sharp	SHARP	1396		y’ey	y’ey 
+1005	40-15-81-1	7221330283028123	Wichí	wich1264	heavy	HEAVY	1210		nichuyhat	nichuyhat 
+1006	40-15-82-1	7221330303272161	Wichí	wich1264	light(1)	LIGHT (WEIGHT)	1052		ninchuyhata	ninchuyhata 
+1007	40-15-83-1	7221330519389950	Wichí	wich1264	wet	WET	1726		tasey	tasey 
+1008	40-15-84-1	7221330348163103	Wichí	wich1264	dry	DRY	1398		tamchoy	tamchoy 
+1009	40-15-85-1	7221330267811924	Wichí	wich1264	hot	HOT	1286		nichay’u	nichay’u 
+1010	40-15-851-1	722133064097726	Wichí	wich1264	warm	WARM	1232		nichay’ukwe	nichay’ukwe 
+1011	40-15-851-2	7221330186691169	Wichí	wich1264	warm	WARM	1232		nichay’uhi	nichay’uhi 
+1012	40-15-86-1	7221330320246353	Wichí	wich1264	cold	COLD	1287		nitechojche	nitechojche 
+1013	40-15-86-2	7221330197185199	Wichí	wich1264	cold	COLD	1287		nitechojhi	nitechojhi 
+1014	40-15-86-3	7221330676236227	Wichí	wich1264	cold	COLD	1287		nitechojlhi	nitechojlhi 
+1015	40-15-87-1	7221330257332714	Wichí	wich1264	clean	CLEAN	704		akojpho	akojpho 
+1016	40-15-88-1	7221330606933842	Wichí	wich1264	dirty	DIRTY	1230		kuk’apho	kuk’apho 
+1017	40-16-11-1	7221330778553158	Wichí	wich1264	the soul or spirit	SOUL	811		lahesek	lahesek 
+1018	40-16-15-1	722133044745345	Wichí	wich1264	surprised or astonished	SURPRISED	1572		iselitej	iselitej 
+1019	40-16-23-1	7221330663726137	Wichí	wich1264	happy	HAPPY	1495		akojlhi	akojlhi 
+1020	40-16-25-1	7221330862278061	Wichí	wich1264	to laugh	LAUGH	1355		t’ischey	t’ischey 
+1021	40-16-251-1	7221330256235919	Wichí	wich1264	to smile	SMILE	1451		t’ischeya	t’ischeya 
+1022	40-16-26-1	722133093490690	Wichí	wich1264	to play	PLAY	1413		yikuy	yikuy 
+1023	40-16-27-1	7221330256683052	Wichí	wich1264	to love	LOVE	923		yihemin	yihemin 
+1024	40-16-29-1	7221330290560293	Wichí	wich1264	to kiss	KISS	578		hits’e lach’alu	hits’e lach’alu 
+1025	40-16-29-2	7221330475642557	Wichí	wich1264	to kiss	KISS	578		hits’elhi elh	hits’elhi elh 
+1026	40-16-3-1	7221330168709979	Wichí	wich1264	to embrace	EMBRACE	928		tatsefwelej	tatsefwelej 
+1027	40-16-31-1	7221330662991657	Wichí	wich1264	the pain	PAIN	1783		oytaj	oytaj 
+1028	40-16-32-1	722133066998784	Wichí	wich1264	the grief	GRIEF	1668		nitichunlhi	nitichunlhi 
+1029	40-16-33-1	722133066998784	Wichí	wich1264	the anxiety	ANXIETY	1000		nitichunlhi	nitichunlhi 
+1030	40-16-34-1	7221330598694106	Wichí	wich1264	to regret or be sorry	REGRET	1875		tawokoyej	tawokoyej 
+1031	40-16-35-1	722133053952300	Wichí	wich1264	the pity	PITY	1141		alitsajhu	alitsajhu 
+1032	40-16-37-1	7221330903749307	Wichí	wich1264	to cry	CRY	1839		tafwlhi	tafwlhi 
+1033	40-16-38-1	722133016275669	Wichí	wich1264	the tear	TEAR (OF EYE)	1651		tat’eti	tat’eti 
+1034	40-16-39-1	7221330824208919	Wichí	wich1264	to groan	GROAN	716		y’ip	y’ip 
+1035	40-16-39-2	7221330958520616	Wichí	wich1264	to groan	GROAN	716		t’onlhi	t’onlhi 
+1036	40-16-41-1	7221330417054841	Wichí	wich1264	to hate	HATE	1607		ilonlhi	ilonlhi 
+1037	40-16-42-1	7221330857065381	Wichí	wich1264	the anger	ANGER	82		tawokwoylhi	tawokwoylhi 
+1038	40-16-44-1	7221330432055173	Wichí	wich1264	the envy or jealousy	ENVY	40		nicheyta’pe’	nicheyta’pe’ 
+1039	40-16-45-1	722133064711902	Wichí	wich1264	the shame	SHAME	1776		n’ofwel	n’ofwel 
+1040	40-16-48-1	7221330487654192	Wichí	wich1264	proud	PROUD	174		lhichojlhi	lhichojlhi 
+1041	40-16-51-1	7221330939459430	Wichí	wich1264	to dare	DARE	1779		atamkatej	atamkatej 
+1042	40-16-52-1	7221330299386729	Wichí	wich1264	brave	BRAVE	3		t’enche	t’enche 
+1043	40-16-53-1	722133083227606	Wichí	wich1264	the fear	FEAR (FRIGHT)	781		nuway	nuway 
+1044	40-16-54-1	7221330242609938	Wichí	wich1264	the danger	DANGER	1810		tahumatnhan	tahumatnhan 
+1045	40-16-62-1	7221330645368957	Wichí	wich1264	to want	WANT	1784		t’eynlo	t’eynlo 
+1046	40-16-622-1	7221330257183801	Wichí	wich1264	to choose	CHOOSE	1750		iyaynhen	iyaynhen 
+1047	40-16-63-1	7221330859864404	Wichí	wich1264	to hope	HOPE (SOMETHING)	3212		inihich’uya	inihich’uya 
+1048	40-16-65-1	7221330786014659	Wichí	wich1264	faithful	FAITHFUL	100		omyekalelhoj	omyekalelhoj 
+1049	40-16-66-1	722133072980172	Wichí	wich1264	true	TRUE	1657		matche	matche 
+1050	40-16-67-1	7221330586286339	Wichí	wich1264	to lie(2)	LIE (MISLEAD)	601		ifweyenlhi	ifweyenlhi 
+1051	40-16-69-1	7221330881078655	Wichí	wich1264	to forgive	FORGIVE	1528		hip’alhtsen	hip’alhtsen 
+1052	40-16-71-1	7221330279913486	Wichí	wich1264	good	GOOD	1035		is	is 
+1053	40-16-72-1	7221330257740084	Wichí	wich1264	bad	BAD	1292		fwitsaj	fwitsaj 
+1054	40-16-73-1	7221330267892645	Wichí	wich1264	right(2)	CORRECT (RIGHT)	1725		is’alhuhu	is’alhuhu 
+1055	40-16-74-1	7221330462888740	Wichí	wich1264	wrong	WRONG	1390		kamata	kamata 
+1056	40-16-74-2	7221330684788341	Wichí	wich1264	wrong	WRONG	1390		nisa’alhuhu	nisa’alhuhu 
+1057	40-16-76-1	7221330395220142	Wichí	wich1264	the fault	FAULT	134		tamenej	tamenej 
+1058	40-16-77-1	7221330140045318	Wichí	wich1264	the mistake	MISTAKE	1293		witayej	witayej 
+1059	40-16-78-1	7221330395220142	Wichí	wich1264	the blame	BLAME	381		tamenej	tamenej 
+1060	40-16-79-1	7221330685923680	Wichí	wich1264	the praise	PRAISE	1687		inokwiyej	inokwiyej 
+1061	40-16-81-1	7221330577524805	Wichí	wich1264	beautiful	BEAUTIFUL	1427		isilataj	isilataj 
+1062	40-16-82-1	7221330236209564	Wichí	wich1264	ugly	UGLY	1548		kats’iya	kats’iya 
+1063	40-16-84-1	7221330592007595	Wichí	wich1264	clever	CLEVER	1310		yihanej	yihanej 
+1064	40-17-11-1	7221330566575325	Wichí	wich1264	the mind	MIND	1562		totichunhayaj	totichunhayaj 
+1065	40-17-13-1	7221330108483609	Wichí	wich1264	to think(1)	THINK (REFLECT)	1415		tichunlhi	tichunlhi 
+1066	40-17-14-1	7221330108483609	Wichí	wich1264	to think(2)	THINK (BELIEVE)	1513		tichunlhi	tichunlhi 
+1067	40-17-15-1	7221330481081434	Wichí	wich1264	to believe	BELIEVE	1890		yeneyche	yeneyche 
+1068	40-17-16-1	7221330348674297	Wichí	wich1264	to understand	UNDERSTAND	1536		yihanej	yihanej 
+1069	40-17-17-1	7221330348674297	Wichí	wich1264	to know	KNOW (SOMETHING)	1410		yihanej	yihanej 
+1070	40-17-171-1	7221330272906589	Wichí	wich1264	to guess	GUESS	1932		pajche yihanch’uya	pajche yihanch’uya 
+1071	40-17-172-1	7221330885109202	Wichí	wich1264	to imitate	IMITATE	117		iten	iten 
+1072	40-17-18-1	7221330697135335	Wichí	wich1264	to seem	SEEM	1521		nichotche	nichotche 
+1073	40-17-19-1	7221330566575325	Wichí	wich1264	the idea	IDEA	1609		totichunhayaj	totichunhayaj 
+1074	40-17-21-1	7221330310779276	Wichí	wich1264	wise	WISE	698		yihanhunhate	yihanhunhate 
+1075	40-17-22-1	722133081546000	Wichí	wich1264	stupid	STUPID	1518		upa’	upa’ 
+1076	40-17-23-1	7221330664465896	Wichí	wich1264	mad	MAD	1899		amekwe	amekwe 
+1077	40-17-24-1	7221330348674297	Wichí	wich1264	to learn	LEARN	504		yihanej	yihanej 
+1078	40-17-242-1	7221330991190837	Wichí	wich1264	to study	STUDY	1929		lhaichefwen	lhaichefwen 
+1079	40-17-25-1	7221330106801830	Wichí	wich1264	to teach	TEACH	709		ichefwen	ichefwen 
+1080	40-17-26-1	7221330897465353	Wichí	wich1264	the pupil	PUPIL (STUDENT)	753		lachefwenek	lachefwenek 
+1081	40-17-27-1	7221330454788679	Wichí	wich1264	the teacher	TEACHER	1038		mayistalu	mayistalu 
+1082	40-17-28-1	7221330105656980	Wichí	wich1264	the school	SCHOOL	673		tochefwenyajw’et	tochefwenyajw’et 
+1083	40-17-28-2	7221330538121084	Wichí	wich1264	the school	SCHOOL	673		eskwelu	eskwelu 
+1084	40-17-31-1	7221330236803207	Wichí	wich1264	to remember	REMEMBER	707		yenhesecha	yenhesecha 
+1085	40-17-31-2	7221330194726906	Wichí	wich1264	to remember	REMEMBER	707		tichunche	tichunche 
+1086	40-17-32-1	7221330230002353	Wichí	wich1264	to forget	FORGET	1523		hip’ethat	hip’ethat 
+1087	40-17-34-1	7221330435488878	Wichí	wich1264	clear	CLEAR	989		yikalelhoj	yikalelhoj 
+1088	40-17-35-1	7221330738559247	Wichí	wich1264	obscure	OBSCURE	1764		naknelhoja	naknelhoja 
+1089	40-17-36-1	7221330604661900	Wichí	wich1264	secret	SECRET	1121		katofwenyaja	katofwenyaja 
+1090	40-17-37-1	722133072980172	Wichí	wich1264	certain	CERTAIN	509		matche	matche 
+1091	40-17-38-1	7221330518238151	Wichí	wich1264	to explain	EXPLAIN	1626		yithathu	yithathu 
+1092	40-17-42-1	7221330231363609	Wichí	wich1264	the cause	CAUSE	860		mak toj tamenej	mak toj tamenej 
+1093	40-17-43-1	722133059233171	Wichí	wich1264	the doubt	DOUBT	1308		nimatache	nimatache 
+1094	40-17-44-1	722133010983139	Wichí	wich1264	to suspect	SUSPECT	1841		titsefwana	titsefwana 
+1095	40-17-441-1	7221330585108990	Wichí	wich1264	to betray	BETRAY	1902		yachaj (2)	yachaj (2) 
+1096	40-17-45-1	7221330306817974	Wichí	wich1264	the need or necessity	NEED (NOUN)	643		iwatlo	iwatlo 
+1097	40-17-46-1	7221330704742348	Wichí	wich1264	easy	EASY	686		kathaya	kathaya 
+1098	40-17-47-1	7221330388687102	Wichí	wich1264	difficult	DIFFICULT	584		atha	atha 
+1099	40-17-48-1	7221330357594038	Wichí	wich1264	to try	TRY	1812		yelhta	yelhta 
+1100	40-17-51-1	7221330108463981	Wichí	wich1264	and	AND	1577		wet	wet 
+1101	40-17-52-1	7221330728927031	Wichí	wich1264	because	BECAUSE	1157		latesej	latesej 
+1102	40-17-53-1	7221330935420213	Wichí	wich1264	if	IF	1459		che	che 
+1103	40-17-54-1	7221330449037944	Wichí	wich1264	or	OR	1014		wuyche	wuyche 
+1104	40-17-55-1	7221330325866822	Wichí	wich1264	yes	YES	1268		ha	ha 
+1105	40-17-56-1	7221330743305799	Wichí	wich1264	no	NO	1269		ka	ka 
+1106	40-17-61-1	7221330341399116	Wichí	wich1264	how?	HOW	1239		e’wuye	e’wuye 
+1107	40-17-62-1	7221330745927218	Wichí	wich1264	how many?	HOW MANY	822		ehote	ehote 
+1108	40-17-63-1	7221330745927218	Wichí	wich1264	how much?	HOW MUCH	531		ehote	ehote 
+1109	40-17-64-1	7221330563448459	Wichí	wich1264	what?	WHAT	1236		at’ep	at’ep 
+1110	40-17-65-1	7221330324604297	Wichí	wich1264	when?	WHEN	1238		e’ihinaji	e’ihinaji 
+1111	40-17-65-2	722133043305958	Wichí	wich1264	when?	WHEN	1238		e’hotehlak	e’hotehlak 
+1112	40-17-66-1	7221330761894079	Wichí	wich1264	where?	WHERE	1237		e’ihi	e’ihi 
+1113	40-17-67-1	7221330622130804	Wichí	wich1264	which?	WHICH	727		at’e	at’e 
+1114	40-17-68-1	7221330622130804	Wichí	wich1264	who?	WHO	1235		at’e	at’e 
+1115	40-17-69-1	7221330830229815	Wichí	wich1264	why?	WHY	1270		ats’iyej	ats’iyej 
+1116	40-18-11-1	722133011765166	Wichí	wich1264	the voice	VOICE	1363		lapak	lapak 
+1117	40-18-12-1	7221330829478219	Wichí	wich1264	to sing	SING	1261		t’ich’uylhi	t’ich’uylhi 
+1118	40-18-13-1	7221330280842154	Wichí	wich1264	to shout	SHOUT	715		t’on	t’on 
+1119	40-18-15-1	7221330438547027	Wichí	wich1264	to whisper	WHISPER	55		isamsama	isamsama 
+1120	40-18-16-1	7221330438547027	Wichí	wich1264	to mumble	MUMBLE	128		isamsama	isamsama 
+1121	40-18-17-1	7221330143437619	Wichí	wich1264	to whistle	WHISTLE	1025		iwuposeta	iwuposeta 
+1122	40-18-19-1	7221330958520616	Wichí	wich1264	to howl	HOWL	526		t’onlhi	t’onlhi 
+1123	40-18-21-1	7221330145758298	Wichí	wich1264	to speak or talk	SPEAK	1623		yomlhi	yomlhi 
+1124	40-18-211-1	7221330139747045	Wichí	wich1264	to stutter or stammer	STUTTER	1866		ilej toj yomlhi	ilej toj yomlhi 
+1125	40-18-22-1	7221330524168680	Wichí	wich1264	to say	SAY	1458		yuk	yuk 
+1126	40-18-22-2	7221330938873043	Wichí	wich1264	to say	SAY	1458		fwelh	fwelh 
+1127	40-18-221-1	7221330835367062	Wichí	wich1264	to tell	TELL	1711		yomey (2)	yomey (2) 
+1128	40-18-23-1	7221330189091631	Wichí	wich1264	to be silent	BE SILENT	48		hatats’inhi	hatats’inhi 
+1129	40-18-24-1	72213307230272	Wichí	wich1264	the language	LANGUAGE	1307		lhomtes	lhomtes 
+1130	40-18-26-1	722133012587260	Wichí	wich1264	the word	WORD	1599		lhayhi	lhayhi 
+1131	40-18-28-1	7221330551828776	Wichí	wich1264	the name	NAME	1405		lhey	lhey 
+1132	40-18-31-1	7221330945647404	Wichí	wich1264	to ask(1)	ASK (INQUIRE)	1309		tay’otna	tay’otna 
+1133	40-18-32-1	7221330889197159	Wichí	wich1264	to answer	ANSWER	1275		nichelhu	nichelhu 
+1134	40-18-33-1	7221330948376142	Wichí	wich1264	to admit	ADMIT	2022		lhifwelh	lhifwelh 
+1135	40-18-34-1	7221330820596296	Wichí	wich1264	to deny	DENY	755		lhifwunlo’	lhifwunlo’ 
+1136	40-18-35-1	7221330606884840	Wichí	wich1264	to ask(2)	ASK (REQUEST)	1828		t’alha	t’alha 
+1137	40-18-36-1	7221330915566828	Wichí	wich1264	to promise	PROMISE	1675		ifwenhu	ifwenhu 
+1138	40-18-37-1	7221330853132473	Wichí	wich1264	to refuse	REFUSE	49		hatachemhinlo’	hatachemhinlo’ 
+1139	40-18-38-1	7221330947643280	Wichí	wich1264	to forbid	FORBID	83		n’oyej	n’oyej 
+1140	40-18-39-1	7221330105834044	Wichí	wich1264	to scold	SCOLD	299		iyeta	iyeta 
+1141	40-18-41-1	722133068680062	Wichí	wich1264	to call(1)	CALL	1084		t’ona	t’ona 
+1142	40-18-41-2	7221330295379337	Wichí	wich1264	to call(1)	CALL	1084		t’one	t’one 
+1143	40-18-41-3	7221330405860576	Wichí	wich1264	to call(1)	CALL	1084		t’oney	t’oney 
+1144	40-18-42-1	7221330629086696	Wichí	wich1264	to call(2)	CALL BY NAME	180		iwulheya	iwulheya 
+1145	40-18-43-1	7221330598613376	Wichí	wich1264	to announce	ANNOUNCE	9		ifwelhlhi	ifwelhlhi 
+1146	40-18-44-1	7221330316702178	Wichí	wich1264	to threaten	THREATEN	1192		y’oytena	y’oytena 
+1147	40-18-45-1	7221330487654192	Wichí	wich1264	to boast	BOAST	101		lhichojlhi	lhichojlhi 
+1148	40-18-51-1	7221330152151784	Wichí	wich1264	to write	WRITE	1672		ilesayen	ilesayen 
+1149	40-18-52-1	7221330790437608	Wichí	wich1264	to read	READ	724		tawhiyej	tawhiyej 
+1150	40-18-56-1	7221330810910646	Wichí	wich1264	the paper	PAPER	648		papel	papel 
+1151	40-18-61-1	7221330459683750	Wichí	wich1264	the book	BOOK	963		liwulu	liwulu 
+1152	40-18-71-1	7221330298422685	Wichí	wich1264	the flute	FLUTE	777		tofwulh	tofwulh 
+1153	40-18-72-1	7221330548050407	Wichí	wich1264	the drum	DRUM	908		topem	topem 
+1154	40-18-73-1	7221330298422685	Wichí	wich1264	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		tofwulh	tofwulh 
+1155	40-18-74-1	7221330892517324	Wichí	wich1264	the rattle	RATTLE	300		ch’’ilijtaj	ch’’ilijtaj 
+1156	40-18-74-2	7221330264689141	Wichí	wich1264	the rattle	RATTLE	300		tokato	tokato 
+1157	40-19-11-1	7221330559758774	Wichí	wich1264	the country	COUNTRY	1300		pais	pais 
+1158	40-19-15-1	7221330217541706	Wichí	wich1264	the town	TOWN	1391		pwewulu	pwewulu 
+1159	40-19-15-2	7221330762708683	Wichí	wich1264	the town	TOWN	1391		hepey	hepey 
+1160	40-19-16-1	7221330217541706	Wichí	wich1264	the village	VILLAGE	930		pwewulu	pwewulu 
+1161	40-19-16-2	7221330762708683	Wichí	wich1264	the village	VILLAGE	930		hepey	hepey 
+1162	40-19-17-1	7221330657285745	Wichí	wich1264	the boundary	BOUNDARY	1010		hunhat lakapes	hunhat lakapes 
+1163	40-19-21-1	7221330404203022	Wichí	wich1264	the people	PEOPLE	789		wichi	wichi 
+1164	40-19-23-1	7221330777650218	Wichí	wich1264	the clan	CLAN	302		wichi lhayis	wichi lhayis 
+1165	40-19-24-1	7221330422815959	Wichí	wich1264	the chieftain	CHIEFTAIN	301		niyat	niyat 
+1166	40-19-25-1	7221330104751163	Wichí	wich1264	the walking stick	WALKING STICK	1296		totset	totset 
+1167	40-19-31-1	7221330609419409	Wichí	wich1264	to rule or govern	RULE	1846		niyatej	niyatej 
+1168	40-19-32-1	7221330422815959	Wichí	wich1264	the king	KING	1508		niyat	niyat 
+1169	40-19-33-1	7221330422815959	Wichí	wich1264	the queen	QUEEN	1306		niyat	niyat 
+1170	40-19-41-1	7221330312959251	Wichí	wich1264	the master	MASTER	383		lawekw	lawekw 
+1171	40-19-42-1	7221330627266587	Wichí	wich1264	the slave	SLAVE	812		tokwenek	tokwenek 
+1172	40-19-43-1	7221330599309268	Wichí	wich1264	the servant	SERVANT	255		tokawu	tokawu 
+1173	40-19-44-1	722133023517132	Wichí	wich1264	the freeman	FREEMAN	384		ninahyayej mayek	ninahyayej mayek 
+1174	40-19-45-1	7221330369602339	Wichí	wich1264	to command or order	ORDER	1128		icheta	icheta 
+1175	40-19-46-1	7221330678045451	Wichí	wich1264	to obey	OBEY	1635		iwuyey	iwuyey 
+1176	40-19-47-1	7221330637304369	Wichí	wich1264	to permit	PERMIT	1003		iwainhej	iwainhej 
+1177	40-19-51-1	7221330158337805	Wichí	wich1264	the friend	FRIEND	1325		topunfwa	topunfwa 
+1178	40-19-51-2	7221330841233814	Wichí	wich1264	the friend	FRIEND	1325		amigo	amigo 
+1179	40-19-52-1	7221330453476677	Wichí	wich1264	the enemy	ENEMY	1358		totayfwa	totayfwa 
+1180	40-19-55-1	7221330680317188	Wichí	wich1264	the stranger	STRANGER	791		tolhejkanhi	tolhejkanhi 
+1181	40-19-56-1	7221330947152473	Wichí	wich1264	the guest	GUEST	1782		tokasiyak	tokasiyak 
+1182	40-19-58-1	722133030743802	Wichí	wich1264	to help	HELP	1897		tach’uta	tach’uta 
+1183	40-19-61-1	7221330369776748	Wichí	wich1264	the custom	CUSTOM	1747		tokey	tokey 
+1184	40-19-62-1	722133030693728	Wichí	wich1264	the quarrel	QUARREL	1848		totol’eyaj	totol’eyaj 
+1185	40-19-65-1	7221330395520599	Wichí	wich1264	to meet	MEET	1831		hiw’en (1)	hiw’en (1) 
+1186	40-19-72-1	7221330951602098	Wichí	wich1264	the prostitute	PROSTITUTE	1610		towahyenhay	towahyenhay 
+1187	40-20-11-1	7221330433090487	Wichí	wich1264	to fight	FIGHT	1423		tol’ey	tol’ey 
+1188	40-20-13-1	7221330205454261	Wichí	wich1264	the war or battle	BATTLE	579		katshayaj	katshayaj 
+1189	40-20-14-1	7221330648501019	Wichí	wich1264	the peace	PEACE	1338		totamsek	totamsek 
+1190	40-20-15-1	7221330250534297	Wichí	wich1264	the army	ARMY	1561		nifwutaj	nifwutaj 
+1191	40-20-17-1	7221330542690791	Wichí	wich1264	the soldier	SOLDIER	1941		sip’o	sip’o 
+1192	40-20-17-2	7221330886621602	Wichí	wich1264	the soldier	SOLDIER	1941		sulhtawu	sulhtawu 
+1193	40-20-21-1	7221330127543347	Wichí	wich1264	the weapons	WEAPONS	951		letses	letses 
+1194	40-20-22-1	722133012668096	Wichí	wich1264	the club	CLUB	1763		tot’ajnhat	tot’ajnhat 
+1195	40-20-22-2	7221330245502134	Wichí	wich1264	the club	CLUB	1763		lach’e	lach’e 
+1196	40-20-23-1	7221330596375582	Wichí	wich1264	the sling	SLING	387		tofwumti	tofwumti 
+1197	40-20-23-2	7221330123032158	Wichí	wich1264	the sling	SLING	387		tokawuma	tokawuma 
+1198	40-20-24-1	7221330202107304	Wichí	wich1264	the bow	BOW	994		toch’ohe’	toch’ohe’ 
+1199	40-20-25-1	72213304288684	Wichí	wich1264	the arrow	ARROW	977		lutek	lutek 
+1200	40-20-26-1	7221330933445789	Wichí	wich1264	the spear	SPEAR	945		tohen	tohen 
+1201	40-20-27-1	7221330100901494	Wichí	wich1264	the sword	SWORD	1535		lakatnhat	lakatnhat 
+1202	40-20-28-1	72213309412366	Wichí	wich1264	the gun	GUN	1566		alhetaj (2)	alhetaj (2) 
+1203	40-20-31-1	7221330170602026	Wichí	wich1264	the armour	ARMOUR	1061		lakatshayajput	lakatshayajput 
+1204	40-20-33-1	722133094482963	Wichí	wich1264	the helmet	HELMET	1680		lhetekhi	lhetekhi 
+1205	40-20-41-1	7221330415558807	Wichí	wich1264	the victory	VICTORY	783		yikalhi	yikalhi 
+1206	40-20-42-1	7221330889871196	Wichí	wich1264	the defeat	DEFEAT	782		tatoy	tatoy 
+1207	40-20-43-1	7221330352164985	Wichí	wich1264	the attack	ATTACK	722		ineya	ineya 
+1208	40-20-45-1	7221330687319268	Wichí	wich1264	to retreat	RETREAT	421		yihonlhi	yihonlhi 
+1209	40-20-47-1	7221330983333982	Wichí	wich1264	the captive or prisoner	PRISONER	1072		tonaytsek	tonaytsek 
+1210	40-20-471-1	7221330878205226	Wichí	wich1264	the guard	GUARD	1940		walia	walia 
+1211	40-20-51-1	7221330499525103	Wichí	wich1264	the fisherman	FISHERMAN	1858		w’ahatkut	w’ahatkut 
+1212	40-20-52-1	722133033726568	Wichí	wich1264	the fishhook	FISHHOOK	1074		timek	timek 
+1213	40-20-53-1	7221330549210751	Wichí	wich1264	the fishing line	FISHING LINE	19		timekt’ak	timekt’ak 
+1214	40-20-54-1	7221330100651596	Wichí	wich1264	the fishnet	FISHNET	388		hutanaj	hutanaj 
+1215	40-20-56-1	7221330344905116	Wichí	wich1264	the bait	BAIT	2013		tokonek	tokonek 
+1216	40-20-61-1	7221330695604778	Wichí	wich1264	to hunt	HUNT	1435		chel	chel 
+1217	40-20-62-1	7221330688100674	Wichí	wich1264	to shoot	SHOOT	1172		tiyoj	tiyoj 
+1218	40-20-63-1	722133051725525	Wichí	wich1264	to miss	MISS (A TARGET)	161		yomet (1)	yomet (1) 
+1219	40-20-64-1	722133033726568	Wichí	wich1264	the trap	TRAP (PITFALL)	1075		timek	timek 
+1220	40-20-65-1	7221330549183536	Wichí	wich1264	to trap	TRAP (CATCH)	1170		tsuklhi	tsuklhi 
+1221	40-21-11-1	7221330769203466	Wichí	wich1264	the law	LAW	1062		ley	ley 
+1222	40-21-15-1	7221330696127890	Wichí	wich1264	the court	COURT	1068		tribunales	tribunales 
+1223	40-21-18-1	7221330906974809	Wichí	wich1264	the judge	JUDGE	861		jwes	jwes 
+1224	40-21-23-1	7221330991611226	Wichí	wich1264	the witness	WITNESS	1144		testiwu	testiwu 
+1225	40-21-31-1	7221330928932136	Wichí	wich1264	to accuse	ACCUSE	1814		titsefwanaj	titsefwanaj 
+1226	40-21-34-1	7221330150769077	Wichí	wich1264	to acquit	ACQUIT	988		tip’alhtsen	tip’alhtsen 
+1227	40-21-35-1	7221330958878434	Wichí	wich1264	guilty	GUILTY	1682		lham toj tamenej	lham toj tamenej 
+1228	40-21-36-1	7221330735725080	Wichí	wich1264	innocent	INNOCENT	90		lhajlatesa	lhajlatesa 
+1229	40-21-39-1	7221330670556415	Wichí	wich1264	the prison	PRISON	1281		tonaintsekhi	tonaintsekhi 
+1230	40-21-42-1	7221330599666996	Wichí	wich1264	the murder	MURDER	845		tolonek	tolonek 
+1231	40-21-46-1	7221330336464242	Wichí	wich1264	the arson	ARSON	1889		tiwenhu	tiwenhu 
+1232	40-21-51-1	7221330646450214	Wichí	wich1264	to steal	STEAL	713		iskat	iskat 
+1233	40-21-52-1	7221330475657561	Wichí	wich1264	the thief	THIEF	1160		malewu	malewu 
+1234	40-22-12-1	7221330269150776	Wichí	wich1264	the god	DEITY	3231		lius	lius 
+1235	40-22-13-1	7221330193673509	Wichí	wich1264	the temple	TEMPLE	911		tohesew’et	tohesew’et 
+1236	40-22-14-1	7221330894718059	Wichí	wich1264	the altar	ALTAR	853		altal	altal 
+1237	40-22-15-1	7221330999162448	Wichí	wich1264	the sacrifice	SACRIFICE	1103		totw’ayhat	totw’ayhat 
+1238	40-22-16-1	7221330279016040	Wichí	wich1264	to worship	WORSHIP	257		iwutenecha	iwutenecha 
+1239	40-22-17-1	7221330597688001	Wichí	wich1264	to pray	PRAY	24		iwut’alhyaja	iwut’alhyaja 
+1240	40-22-18-1	722133099731127	Wichí	wich1264	the priest	PRIEST	852		pastul	pastul 
+1241	40-22-18-2	7221330267268621	Wichí	wich1264	the priest	PRIEST	852		tohesewu	tohesewu 
+1242	40-22-19-1	722133064487136	Wichí	wich1264	holy	HOLY	1702		t’amajchet	t’amajchet 
+1243	40-22-22-1	7221330810787815	Wichí	wich1264	to preach	PREACH	304		iwulhometa	iwulhometa 
+1244	40-22-23-1	7221330426640679	Wichí	wich1264	to bless	BLESS	391		takopfwaya	takopfwaya 
+1245	40-22-24-1	7221330133402382	Wichí	wich1264	to curse	CURSE	8		ithate lhomet toj ni’isa	ithate lhomet toj ni’isa 
+1246	40-22-26-1	7221330182037382	Wichí	wich1264	to fast	ABSTAIN FROM FOOD	303		lhicheyhat	lhicheyhat 
+1247	40-22-37-1	7221330882571364	Wichí	wich1264	the idol	IDOL	1945		toch’’ayaj	toch’’ayaj 
+1248	40-22-42-1	7221330679074721	Wichí	wich1264	the magic	MAGIC	392		iwelanhat mayek	iwelanhat mayek 
+1249	40-22-43-1	7221330218883405	Wichí	wich1264	the sorcerer or witch	MAGICIAN	2137		hayawe	hayawe 
+1250	40-22-47-1	7221330469659698	Wichí	wich1264	the omen	OMEN	107		tolhahwu	tolhahwu 
+1251	40-23-1-1	7221330611515117	Wichí	wich1264	the radio	RADIO	1315		laliu	laliu 
+1252	40-23-1-2	7221330559454265	Wichí	wich1264	the radio	RADIO	1315		yomlhintaj	yomlhintaj 
+1253	40-23-11-1	7221330150371539	Wichí	wich1264	the television	TELEVISION	1788		telewisiun	telewisiun 
+1254	40-23-12-1	7221330503754158	Wichí	wich1264	the telephone	TELEPHONE	1379		telefwu	telefwu 
+1255	40-23-135-1	7221330762128637	Wichí	wich1264	the motorcycle	MOTORCYCLE	638		mutu	mutu 
+1256	40-23-14-1	7221330981528711	Wichí	wich1264	the car	CAR	1111		wej itoj	wej itoj 
+1257	40-23-15-1	7221330877690951	Wichí	wich1264	the bus	BUS	1070		kuliktiwu	kuliktiwu 
+1258	40-23-15-2	72213307819868	Wichí	wich1264	the bus	BUS	1070		kuliktiwulhos	kuliktiwulhos 
+1259	40-23-16-1	7221330896495565	Wichí	wich1264	the airplane	AIRPLANE	1597		wiy’otaj	wiy’otaj 
+1260	40-23-175-1	7221330727604294	Wichí	wich1264	the battery	BATTERY	662		pila	pila 
+1261	40-23-2-1	7221330647181437	Wichí	wich1264	the hospital	HOSPITAL	616		uspital	uspital 
+1262	40-23-21-1	722133094632985	Wichí	wich1264	the nurse	NURSE	1104		enfwelmela	enfwelmela 
+1263	40-23-22-1	7221330192479831	Wichí	wich1264	the pill or tablet	PILL	395		pastiya	pastiya 
+1264	40-23-23-1	7221330731648360	Wichí	wich1264	the injection	INJECTION	1805		kanu indisiun	kanu indisiun 
+1265	40-23-5-1	7221330230156888	Wichí	wich1264	the tap/faucet	FAUCET	1488		kots’i	kots’i 
+1266	40-23-51-1	7221330810896951	Wichí	wich1264	the sink	SINK (BASIN)	915		toleshekhi	toleshekhi 
+1267	40-23-52-1	7221330615062724	Wichí	wich1264	the toilet	TOILET	219		y’amekwhi	y’amekwhi 
+1268	40-23-53-1	7221330812231431	Wichí	wich1264	the mattress	MATTRESS	105		kultsun	kultsun 
+1269	40-23-3-1	7221330422815959	Wichí	wich1264	the government	GOVERNMENT	815		niyat	niyat 
+1270	40-23-31-1	7221330422815959	Wichí	wich1264	the president	PRESIDENT	899		niyat	niyat 
+1271	40-23-32-1	7221330422815959	Wichí	wich1264	the minister	MINISTER	486		niyat	niyat 
+1272	40-23-33-1	7221330886621602	Wichí	wich1264	the police	POLICE	656		sulhtawu	sulhtawu 
+1273	40-23-34-1	7221330807388610	Wichí	wich1264	the driver's license	DRIVER'S LICENSE	599		karne	karne 
+1274	40-23-37-1	7221330599666996	Wichí	wich1264	the crime	CRIME	1066		tolonek	tolonek 
+1275	40-23-38-1	7221330596074087	Wichí	wich1264	the election	ELECTION	240		wutasiun	wutasiun 
+1276	40-23-41-1	7221330411770980	Wichí	wich1264	the postage stamp	POSTAGE STAMP	596		estampiya	estampiya 
+1277	40-23-42-1	7221330129767220	Wichí	wich1264	the letter	LETTER	1612		kalta	kalta 
+1278	40-23-44-1	7221330813275118	Wichí	wich1264	the bank	BANK	1284		wanku	wanku 
+1279	40-23-54-1	7221330256285539	Wichí	wich1264	the tin/can	CAN	1051		sitowu	sitowu 
+1280	40-23-55-1	7221330357231917	Wichí	wich1264	the screw	SCREW	1802		lhele	lhele 
+1281	40-23-56-1	7221330314739149	Wichí	wich1264	the bottle	BOTTLE	1321		wuteya	wuteya 
+1282	40-23-565-1	7221330388688116	Wichí	wich1264	the candy/sweets	CANDY	874		kalmelu	kalmelu 
+1283	40-23-24-1	7221330203532593	Wichí	wich1264	the spectacles/glasses	SPECTACLES	1898		tottelhuhis	tottelhuhis 
+1284	40-23-57-1	7221330387795904	Wichí	wich1264	the plastic	PLASTIC	654		plastiku	plastiku 
+1285	40-23-59-1	7221330626907451	Wichí	wich1264	the cigarette	CIGARETTE	969		yukwas	yukwas 
+1286	40-23-62-1	7221330307362	Wichí	wich1264	the film/movie	MOVIE	216		sine	sine 
+1287	40-23-63-1	7221330539432206	Wichí	wich1264	the music	MUSIC	642		musika	musika 
+1288	40-23-64-1	7221330517022813	Wichí	wich1264	the song	SONG	1096		tochus	tochus 
+1289	40-23-6-1	7221330902395009	Wichí	wich1264	the newspaper	NEWSPAPER	1298		diario	diario 
+1290	40-23-39-1	7221330547447815	Wichí	wich1264	the number	NUMBER	1356		numelu	numelu 
+1291	40-23-155-1	7221330299575715	Wichí	wich1264	the train	TRAIN	900		wapulh	wapulh 
+1292	40-23-18-1	7221330879447979	Wichí	wich1264	to brake	BRAKE	966		fwulena	fwulena 
+1293	40-23-185-1	7221330217500483	Wichí	wich1264	the motor	MOTOR	110		mutul	mutul 
+1294	40-23-19-1	7221330852708831	Wichí	wich1264	the machine	MACHINE	144		tochemetcha	tochemetcha 
+1295	40-23-13-1	7221330181717457	Wichí	wich1264	the bicycle	BICYCLE	747		wisikleta	wisikleta 
+1296	40-23-395-1	7221330940337330	Wichí	wich1264	the street	STREET	1362		kaye	kaye 
+1297	40-19-445-1	7221330939856507	Wichí	wich1264	to liberate	LIBERATE	37		ilanhi	ilanhi 
+1298	40-19-565-1	722133079910328	Wichí	wich1264	to invite	INVITE	1611		hiw’enhu lhip	hiw’enhu lhip 
+1299	40-23-35-1	7221330696318301	Wichí	wich1264	the license plate	LICENSE PLATE	1790		patente	patente 
+1300	40-24-01-1	722133036736432	Wichí	wich1264	to be	BE	1579		ihi	ihi 
+1301	40-24-01-2	7221330633922827	Wichí	wich1264	to be	BE	1579		hope	hope 
+1302	40-24-13-1	7221330217840002	Wichí	wich1264	same	SAME	200		molhyej	molhyej 
+1303	40-24-07-1	7221330725274696	Wichí	wich1264	this	THIS	1214		tojha	tojha 
+1304	40-24-09-1	7221330531058986	Wichí	wich1264	here	HERE	136		ikana	ikana 
+1305	40-24-1-1	7221330550878476	Wichí	wich1264	there	THERE	1937		iknhi	iknhi 
+1306	40-24-11-1	7221330350368276	Wichí	wich1264	other	OTHER	197		elh	elh 
+1307	40-4-493-1	7221330463864217	Wichí	wich1264	the vagina	VAGINA	1836		tose’	tose’ 
+1308	40-23-9-1	7221330943023510	Wichí	wich1264	the tea	TEA	1373		kusilu	kusilu 
+1309	40-23-9-2	7221330533837714	Wichí	wich1264	the tea	TEA	1373		te	te 
+1310	40-23-91-1	722133058948734	Wichí	wich1264	the coffee	COFFEE	1299		kafwe	kafwe 
+1311	40-24-12-1	7221330709331697	Wichí	wich1264	next	NEXT	1354		lawhoy elh	lawhoy elh 
+1312	40-3-862-1	722133060706521	Wichí	wich1264	the coyote	COYOTE	912		mawu	mawu 
+1313	40-3-863-1	7221330975491747	Wichí	wich1264	the hare	HARE	1190		moy’o	moy’o 
+1314	40-3-865-1	7221330354272165	Wichí	wich1264	the quail	QUAIL	1893		asnaj	asnaj 
+1315	40-3-871-1	7221330136585669	Wichí	wich1264	the reindeer/caribou	REINDEER	1876		ts’iwase	ts’iwase 
+1316	40-3-872-1	7221330136585669	Wichí	wich1264	the elk/moose	ELK	1772		ts’iwase	ts’iwase 
+1317	40-3-873-1	7221330895560841	Wichí	wich1264	the beaver	BEAVER	1194		onholotaj	onholotaj 
+1318	40-8-29-1	7221330512130435	Wichí	wich1264	the lasso	LASSO	340		lasu	lasu 
+1319	40-4-465-1	7221330648872817	Wichí	wich1264	the sinew or tendon	TENDON	1137		tosot	tosot 
+1320	40-22-5-1	7221330874050055	Wichí	wich1264	the circumcision	CIRCUMCISION	393		tolhiktsek	tolhiktsek 
+1321	40-22-51-1	7221330918532014	Wichí	wich1264	the initiation ceremony	INITIATION CEREMONY	1946		tiwutesa	tiwutesa 
+1322	40-3-8112-1	722133079819262	Wichí	wich1264	the body louse	BODY LOUSE	311		lha’	lha’ 
+1323	40-3-99-1	7221330795881912	Wichí	wich1264	the tapir	TAPIR	312		yel’a	yel’a 
+1324	40-9-93-1	7221330224421890	Wichí	wich1264	the whetstone	WHETSTONE	295		tente	tente 
+1325	40-9-92-1	7221330938079306	Wichí	wich1264	the tumpline	TUMPLINE	294		niyokw	niyokw 
+1326	40-7-65-1	7221330529348876	Wichí	wich1264	the camp	CAMP	1105		tochotw’et	tochotw’et 
+1327	40-3-597-1	7221330433923745	Wichí	wich1264	the cormorant	CORMORANT	840		askan	askan 
+1328	40-3-834-1	722133072057566	Wichí	wich1264	the termites	TERMITE	883		hal’owu	hal’owu 
+1329	40-3-835-1	7221330413671524	Wichí	wich1264	the tick	TICK	1527		fwech’ataj	fwech’ataj 
+1330	40-3-89-1	7221330645037909	Wichí	wich1264	the anteater	ANTEATER	181		selaj	selaj 
+1331	40-3-598-1	7221330231689131	Wichí	wich1264	the toucan	TOUCAN	308		tuk	tuk 
+1332	40-3-9-1	7221330955875034	Wichí	wich1264	the jaguar	JAGUAR	1250		hay’oj	hay’oj 
+1333	40-5-983-1	7221330736902920	Wichí	wich1264	the manioc bread	MANIOC BREAD	407		manyuku	manyuku 
+1334	40-7-66-1	722133056956713	Wichí	wich1264	the hammock	HAMMOCK	2019		tofweyekw	tofweyekw 
+1335	40-3-913-1	7221330965965173	Wichí	wich1264	the chameleon	CHAMELEON	1555		aypas	aypas 
+1336	40-9-9-1	7221330780995650	Wichí	wich1264	to draw water	DRAW (WATER)	1911		tachemhunot	tachemhunot 
+1337	40-9-91-1	7221330871160098	Wichí	wich1264	the peg	PEG	361		tokach’u	tokach’u 
+1338	40-10-58-1	7221330788914943	Wichí	wich1264	to go or return home	RETURN HOME	142		yople law’et	yople law’et 
+1339	40-3-917-1	7221330992916703	Wichí	wich1264	the buffalo	BUFFALO	934		tulutaj	tulutaj 
+1340	40-1-411-1	7221330611972657	Wichí	wich1264	the savanna	SAVANNA	260		tayhi	tayhi 
+1341	40-1-831-1	7221330562393381	Wichí	wich1264	the steam	STEAM	1193		fwak	fwak 
+1342	40-2-4711-1	72213306203607	Wichí	wich1264	the grandparents	GRANDPARENTS	305		tochotilis	tochotilis 
+1343	40-2-931-1	7221330936129176	Wichí	wich1264	he	HE	1211		lham	lham 
+1344	40-2-932-1	7221330936129176	Wichí	wich1264	she	SHE	1834		lham	lham 
+1345	40-2-933-1	7221330936129176	Wichí	wich1264	it	IT	169		lham	lham 
+1346	40-4-741-1	7221330167715986	Wichí	wich1264	the life	LIFE	210		tow’atshancheyaj	tow’atshancheyaj 
+1347	40-4-771-1	7221330473955215	Wichí	wich1264	the carcass	CARCASS	1770		tshowet p’itsek	tshowet p’itsek 
+1348	40-4-844-1	7221330886759470	Wichí	wich1264	the disease	DISEASE	1986		wit’oy	wit’oy 
+1349	40-7-232-1	7221330834191780	Wichí	wich1264	the padlock	PADLOCK	336		kandawu	kandawu 
+1350	40-8-121-1	7221330650645240	Wichí	wich1264	the paddy	PADDY FIELD	140		alusw’et	alusw’et 
+1351	40-12-081-1	7221330582787172	Wichí	wich1264	above	ABOVE	1741		ipe’	ipe’ 
+1352	40-13-231-1	7221330581025613	Wichí	wich1264	the piece	PIECE	594		lhip	lhip 
+1353	40-13-331-1	7221330923204692	Wichí	wich1264	alone	ALONE	1964		ts’ilaklhi	ts’ilaklhi 
+1354	40-14-411-1	7221330755311000	Wichí	wich1264	the day(2)	DAY (NOT NIGHT)	1225		fwala	fwala 
+1355	40-22-131-1	722133052770416	Wichí	wich1264	the church	CHURCH	1349		inlesia	inlesia 
+1356	40-24-14-1	7221330983110902	Wichí	wich1264	nothing	NOTHING	687		maych’’i	maych’’i 
+1357	40-4-7501-1	7221330599666996	Wichí	wich1264	dead	DEAD	1625		tolonek	tolonek 
+1358	40-4-8541-1	7221330883505500	Wichí	wich1264	to scratch	SCRATCH	1436		chasmajlhi	chasmajlhi 
+1359	40-9-111-1	7221330549763144	Wichí	wich1264	to make	MAKE	734		yenlhi	yenlhi 
+1360	40-4-431-1	7221330349917844	Wichí	wich1264	the belly	BELLY	1251		tots’e	tots’e 
+1361	40-24-04-1	7221330117448572	Wichí	wich1264	with	WITH	1340		lhoy’a	lhoy’a 

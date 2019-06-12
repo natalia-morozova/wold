@@ -1,0 +1,197 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+e	e	veroordelen, broer	Dutch	1262	U+0065
+i	i	initiatieplechtigheid, inwijdingsplechtigheid	Dutch	557	U+0069
+n$	n	dragen, in	Dutch	483	U+006e U+0024
+r	r	broer, dragen	Dutch	388	U+0072
+a	a	dragen, tante	Dutch	348	U+0061
+o	o	broer, coyote	Dutch	345	U+006f
+n	n	honing, aanranding	Dutch	334	U+006e
+l	l	schuld, naald	Dutch	258	U+006c
+t	t	tante, initiatieplechtigheid	Dutch	240	U+0074
+u	u	ruiken, schuld	Dutch	212	U+0075
+d	d	veroordelen, einde	Dutch	207	U+0064
+r$	r	broer, schoonvader	Dutch	167	U+0072 U+0024
+^s	s	schuld, schoonvader	Dutch	163	U+005e U+0073
+^v	v	veroordelen, vangen	Dutch	143	U+005e U+0076
+aa	aa	naald, lichaamshaar	Dutch	138	U+0061 U+0061
+^b	b	broer, borst	Dutch	137	U+005e U+0062
+t$	t	nicht, groot	Dutch	130	U+0074 U+0024
+ch	ch	schoondochter, schuld	Dutch	125	U+0063 U+0068
+g	g	dragen, vangen	Dutch	119	U+0067
+d$	d	schuld, naald	Dutch	112	U+0064 U+0024
+^k	k	ketting, knoop	Dutch	104	U+005e U+006b
+k	k	ruiken, koken	Dutch	103	U+006b
+l$	l	hemel, hoeveel	Dutch	98	U+006c U+0024
+oo	oo	schoonzoon, voorhoofd	Dutch	95	U+006f U+006f
+g$	g	ketting, hoog	Dutch	94	U+0067 U+0024
+j	j	meisje, strijdbijl	Dutch	93	U+006a
+^d	d	dragen, dag	Dutch	89	U+005e U+0064
+^h	h	hij, huilen	Dutch	88	U+005e U+0068
+k$	k	plank, vork	Dutch	88	U+006b U+0024
+^g	g	groot, gierig	Dutch	86	U+005e U+0067
+v	v	verven, hoeveel	Dutch	85	U+0076
+p	p	rode peper, optillen	Dutch	83	U+0070
+m	m	hemel, schoonmoeder	Dutch	79	U+006d
+^m	m	meisje, mes	Dutch	77	U+005e U+006d
+e$	e	tante, einde	Dutch	77	U+0065 U+0024
+ee	ee	neef, schreeuwen	Dutch	77	U+0065 U+0065
+^w	w	wij, weggaan	Dutch	74	U+005e U+0077
+s	s	meisje, oosten	Dutch	66	U+0073
+^l	l	lenen, luis	Dutch	65	U+005e U+006c
+^r	r	ruiken, ruw	Dutch	65	U+005e U+0072
+^t	t	tante, tapijt	Dutch	58	U+005e U+0074
+s$	s	luis, mes	Dutch	55	U+0073 U+0024
+^n	n	neef, nicht	Dutch	52	U+005e U+006e
+^p	p	plank, paard	Dutch	51	U+005e U+0070
+^z	z	ziekte, zich herinneren	Dutch	49	U+005e U+007a
+^o	o	optillen, oceaan	Dutch	48	U+005e U+006f
+m$	m	oom, bodem	Dutch	46	U+006d U+0024
+z	z	schoonzoon, niezen	Dutch	45	U+007a
+b	b	geboortebewijs, verbaasd	Dutch	42	U+0062
+_	_	naar huis gaan, in dienst nemen	Dutch	39	U+005f
+p$	p	knoop, scherp	Dutch	32	U+0070 U+0024
+^a	a	avondeten, armband	Dutch	30	U+005e U+0061
+f$	f	neef, twaalf	Dutch	28	U+0066 U+0024
+f	f	hoofd, weefgetouw	Dutch	28	U+0066
+w	w	schreeuwen, bouwen	Dutch	27	U+0077
+ll	ll	optillen, pellen	Dutch	24	U+006c U+006c
+rs	rs	borst, gerst	Dutch	24	U+0072 U+0073
+kk	kk	gemakkelijk, bedekken	Dutch	22	U+006b U+006b
+w$	w	ruw, gauw	Dutch	21	U+0077 U+0024
+^e	e	einde, enige	Dutch	21	U+005e U+0065
+nn	nn	spinnen, binnen	Dutch	19	U+006e U+006e
+^aa	aa	aan land gaan, aanstellen	Dutch	18	U+005e U+0061 U+0061
+^j	j	jas, jong	Dutch	17	U+005e U+006a
+^i	i	in, in dienst nemen	Dutch	15	U+005e U+0069
+^oo	oo	oom, oosten	Dutch	15	U+005e U+006f U+006f
+dd	dd	ladder, peddel	Dutch	13	U+0064 U+0064
+ts$	ts	muts, motorfiets	Dutch	13	U+0074 U+0073 U+0024
+ns	ns	in dienst nemen, aanstellen	Dutch	13	U+006e U+0073
+tt	tt	ketting, spatten	Dutch	13	U+0074 U+0074
+^f	f	fles, fuik	Dutch	12	U+005e U+0066
+^zw	zw	zwaard, zwanger worden	Dutch	12	U+005e U+007a U+0077
+pp	pp	aardappel, trappen	Dutch	12	U+0070 U+0070
+ss	ss	cassave, missen	Dutch	11	U+0073 U+0073
+i$	i	hooi, klei	Dutch	11	U+0069 U+0024
+h	h	naar huis gaan, zich herinneren	Dutch	11	U+0068
+j$	j	wij, hij	Dutch	11	U+006a U+0024
+gg	gg	weggaan, leggen	Dutch	10	U+0067 U+0067
+ee$	ee	zee, idee	Dutch	10	U+0065 U+0065 U+0024
+c	c	insect, oceaan	Dutch	9	U+0063
+^u	u	uitleggen, uil	Dutch	8	U+005e U+0075
+ts	ts	gootsteen, houtskool	Dutch	7	U+0074 U+0073
+^tw	tw	tweeling, tweede	Dutch	7	U+005e U+0074 U+0077
+ks	ks	seks hebben, bliksem	Dutch	7	U+006b U+0073
+^ee	ee	eed, eergisteren	Dutch	7	U+005e U+0065 U+0065
+gs	gs	oogst, verpleegster	Dutch	6	U+0067 U+0073
+rs$	rs	schoonouders, kaars	Dutch	6	U+0072 U+0073 U+0024
+bb	bb	hebben, dorst hebben	Dutch	6	U+0062 U+0062
+o$	o	radio, vlo	Dutch	6	U+006f U+0024
+uu	uu	duur, buur	Dutch	6	U+0075 U+0075
+ls$	ls	hals, els	Dutch	6	U+006c U+0073 U+0024
+mm	mm	klimmen, trommel	Dutch	6	U+006d U+006d
+zus(ter)	<???>	zus(ter)	Dutch	6	U+007a U+0075 U+0073 U+0028 U+0074 U+0065 U+0072 U+0029
+rw	rw	verwekken, onderwijzen	Dutch	6	U+0072 U+0077
+ds	ds	godsdienst, voedsel	Dutch	5	U+0064 U+0073
+^c	c	coyote, cassave	Dutch	5	U+005e U+0063
+ff	ff	koffie, buffel	Dutch	4	U+0066 U+0066
+js	js	rijstveld, vrijspreken	Dutch	4	U+006a U+0073
+js$	js	geboortebewijs, ijs	Dutch	4	U+006a U+0073 U+0024
+rh	rh	weerhouden, voorhoofd	Dutch	4	U+0072 U+0068
+ns$	ns	gans, grens	Dutch	4	U+006e U+0073 U+0024
+b$	b	eb, schub	Dutch	4	U+0062 U+0024
+a$	a	na, vagina	Dutch	4	U+0061 U+0024
+gh	gh	ooghaar, sorghum	Dutch	4	U+0067 U+0068
+th	th	uithollen, vasthouden	Dutch	3	U+0074 U+0068
+ms	ms	bliksemschicht, boomstam	Dutch	3	U+006d U+0073
+mh	mh	schaamhaar, omhoog	Dutch	3	U+006d U+0068
+dh	dh	verkoudheid, beeldhouwer	Dutch	3	U+0064 U+0068
+ps	ps	opstapelen, opscheppen	Dutch	3	U+0070 U+0073
+nh	nh	mannenhuis, tuinhuis	Dutch	3	U+006e U+0068
+rr	rr	merrie, verraden	Dutch	3	U+0072 U+0072
+ks$	ks	links, heks	Dutch	3	U+006b U+0073 U+0024
+-	<?>	vrouwtjes-, mannetjes-	Dutch	2	U+002d
+c$	c	wc, plastic	Dutch	2	U+0063 U+0024
+zw	zw	samenzwering, wild zwijn	Dutch	2	U+007a U+0077
+man (1)	<???>	man (1)	Dutch	2	U+006d U+0061 U+006e U+0020 U+0028 U+0031 U+0029
+^kw	kw	kwartel, kwijlen	Dutch	2	U+005e U+006b U+0077
+vrouw (1)	<???>	vrouw (1)	Dutch	2	U+0076 U+0072 U+006f U+0075 U+0077 U+0020 U+0028 U+0031 U+0029
+zij (1)	<???>	zij (1)	Dutch	2	U+007a U+0069 U+006a U+0020 U+0028 U+0031 U+0029
+ls	ls	wandelstok, aalscholver	Dutch	2	U+006c U+0073
+y	y	banyan, coyote	Dutch	2	U+0079
+kh	kh	sprinkhaan, eekhoorn	Dutch	2	U+006b U+0068
+ph	ph	ophangen, ophouden	Dutch	2	U+0070 U+0068
+ch$	ch	lunch, pech	Dutch	2	U+0063 U+0068 U+0024
+fs	fs	graafstok, herfst	Dutch	2	U+0066 U+0073
+stuk (2)	<???>	stuk (2)	Dutch	1	U+0073 U+0074 U+0075 U+006b U+0020 U+0028 U+0032 U+0029
+^uu	uu	uur	Dutch	1	U+005e U+0075 U+0075
+nagel (1)	<???>	nagel (1)	Dutch	1	U+006e U+0061 U+0067 U+0065 U+006c U+0020 U+0028 U+0031 U+0029
+licht (1)	<???>	licht (1)	Dutch	1	U+006c U+0069 U+0063 U+0068 U+0074 U+0020 U+0028 U+0031 U+0029
+post (2)	<???>	post (2)	Dutch	1	U+0070 U+006f U+0073 U+0074 U+0020 U+0028 U+0032 U+0029
+stof (2)	<???>	stof (2)	Dutch	1	U+0073 U+0074 U+006f U+0066 U+0020 U+0028 U+0032 U+0029
+licht (2)	<???>	licht (2)	Dutch	1	U+006c U+0069 U+0063 U+0068 U+0074 U+0020 U+0028 U+0032 U+0029
+ïs$	ïs	maïs	Dutch	1	U+00ef U+0073 U+0024
+y$	y	baby	Dutch	1	U+0079 U+0024
+bot (2)	<???>	bot (2)	Dutch	1	U+0062 U+006f U+0074 U+0020 U+0028 U+0032 U+0029
+meer (2)	<???>	meer (2)	Dutch	1	U+006d U+0065 U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
+palm (1)	<???>	palm (1)	Dutch	1	U+0070 U+0061 U+006c U+006d U+0020 U+0028 U+0031 U+0029
+leven (2)	<???>	leven (2)	Dutch	1	U+006c U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+geest (1)	<???>	geest (1)	Dutch	1	U+0067 U+0065 U+0065 U+0073 U+0074 U+0020 U+0028 U+0031 U+0029
+hel (1)	<???>	hel (1)	Dutch	1	U+0068 U+0065 U+006c U+0020 U+0028 U+0031 U+0029
+vrouw (2)	<???>	vrouw (2)	Dutch	1	U+0076 U+0072 U+006f U+0075 U+0077 U+0020 U+0028 U+0032 U+0029
+as (2)	<???>	as (2)	Dutch	1	U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
+wijs (2)	<???>	wijs (2)	Dutch	1	U+0077 U+0069 U+006a U+0073 U+0020 U+0028 U+0032 U+0029
+hoorn (1)	<???>	hoorn (1)	Dutch	1	U+0068 U+006f U+006f U+0072 U+006e U+0020 U+0028 U+0031 U+0029
+weer (2)	<???>	weer (2)	Dutch	1	U+0077 U+0065 U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
+as (1)	<???>	as (1)	Dutch	1	U+0061 U+0073 U+0020 U+0028 U+0031 U+0029
+boog (1)	<???>	boog (1)	Dutch	1	U+0062 U+006f U+006f U+0067 U+0020 U+0028 U+0031 U+0029
+^th	th	thee	Dutch	1	U+005e U+0074 U+0068
+nagel (2)	<???>	nagel (2)	Dutch	1	U+006e U+0061 U+0067 U+0065 U+006c U+0020 U+0028 U+0032 U+0029
+sh	sh	vishaak	Dutch	1	U+0073 U+0068
+ws	ws	sneeuwschoen	Dutch	1	U+0077 U+0073
+stof (1)	<???>	stof (1)	Dutch	1	U+0073 U+0074 U+006f U+0066 U+0020 U+0028 U+0031 U+0029
+geest (2)	<???>	geest (2)	Dutch	1	U+0067 U+0065 U+0065 U+0073 U+0074 U+0020 U+0028 U+0032 U+0029
+lam (1)	<???>	lam (1)	Dutch	1	U+006c U+0061 U+006d U+0020 U+0028 U+0031 U+0029
+getij(de)	<???>	getij(de)	Dutch	1	U+0067 U+0065 U+0074 U+0069 U+006a U+0028 U+0064 U+0065 U+0029
+hoorn (2)	<???>	hoorn (2)	Dutch	1	U+0068 U+006f U+006f U+0072 U+006e U+0020 U+0028 U+0032 U+0029
+mw	mw	glimworm	Dutch	1	U+006d U+0077
+arm (1)	<???>	arm (1)	Dutch	1	U+0061 U+0072 U+006d U+0020 U+0028 U+0031 U+0029
+middag (1)	<???>	middag (1)	Dutch	1	U+006d U+0069 U+0064 U+0064 U+0061 U+0067 U+0020 U+0028 U+0031 U+0029
+u$	u	nu	Dutch	1	U+0075 U+0024
+zout (1)	<???>	zout (1)	Dutch	1	U+007a U+006f U+0075 U+0074 U+0020 U+0028 U+0031 U+0029
+lam (2)	<???>	lam (2)	Dutch	1	U+006c U+0061 U+006d U+0020 U+0028 U+0032 U+0029
+waar (1)	<???>	waar (1)	Dutch	1	U+0077 U+0061 U+0061 U+0072 U+0020 U+0028 U+0031 U+0029
+zout (2)	<???>	zout (2)	Dutch	1	U+007a U+006f U+0075 U+0074 U+0020 U+0028 U+0032 U+0029
+elf (2)	<???>	elf (2)	Dutch	1	U+0065 U+006c U+0066 U+0020 U+0028 U+0032 U+0029
+arm (2)	<???>	arm (2)	Dutch	1	U+0061 U+0072 U+006d U+0020 U+0028 U+0032 U+0029
+ms$	ms	soms	Dutch	1	U+006d U+0073 U+0024
+bot (1)	<???>	bot (1)	Dutch	1	U+0062 U+006f U+0074 U+0020 U+0028 U+0031 U+0029
+dw	dw	verdwijnen	Dutch	1	U+0064 U+0077
+stuk (1)	<???>	stuk (1)	Dutch	1	U+0073 U+0074 U+0075 U+006b U+0020 U+0028 U+0031 U+0029
+waar (2)	<???>	waar (2)	Dutch	1	U+0077 U+0061 U+0061 U+0072 U+0020 U+0028 U+0032 U+0029
+zij (2)	<???>	zij (2)	Dutch	1	U+007a U+0069 U+006a U+0020 U+0028 U+0032 U+0029
+post (1)	<???>	post (1)	Dutch	1	U+0070 U+006f U+0073 U+0074 U+0020 U+0028 U+0031 U+0029
+kussen (2)	<???>	kussen (2)	Dutch	1	U+006b U+0075 U+0073 U+0073 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+kussen (1)	<???>	kussen (1)	Dutch	1	U+006b U+0075 U+0073 U+0073 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+elf (1)	<???>	elf (1)	Dutch	1	U+0065 U+006c U+0066 U+0020 U+0028 U+0031 U+0029
+ë	ë	tatoeëring	Dutch	1	U+00eb
+nw	nw	inwijdingsplechtigheid	Dutch	1	U+006e U+0077
+sle(d)e	<???>	sle(d)e	Dutch	1	U+0073 U+006c U+0065 U+0028 U+0064 U+0029 U+0065
+msh	msh	lichaamshaar	Dutch	1	U+006d U+0073 U+0068
+meer (1)	<???>	meer (1)	Dutch	1	U+006d U+0065 U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
+zeven (2)	<???>	zeven (2)	Dutch	1	U+007a U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+weer (1)	<???>	weer (1)	Dutch	1	U+0077 U+0065 U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
+hel (2)	<???>	hel (2)	Dutch	1	U+0068 U+0065 U+006c U+0020 U+0028 U+0032 U+0029
+tw	tw	antwoorden	Dutch	1	U+0074 U+0077
+zeven (1)	<???>	zeven (1)	Dutch	1	U+007a U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+^y	y	yam	Dutch	1	U+005e U+0079
+boog (2)	<???>	boog (2)	Dutch	1	U+0062 U+006f U+006f U+0067 U+0020 U+0028 U+0032 U+0029
+leven (1)	<???>	leven (1)	Dutch	1	U+006c U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+palm (2)	<???>	palm (2)	Dutch	1	U+0070 U+0061 U+006c U+006d U+0020 U+0028 U+0032 U+0029
+wijs (1)	<???>	wijs (1)	Dutch	1	U+0077 U+0069 U+006a U+0073 U+0020 U+0028 U+0031 U+0029
+licht (3)	<???>	licht (3)	Dutch	1	U+006c U+0069 U+0063 U+0068 U+0074 U+0020 U+0028 U+0033 U+0029
+bos(je)	<???>	bos(je)	Dutch	1	U+0062 U+006f U+0073 U+0028 U+006a U+0065 U+0029
+middag (2)	<???>	middag (2)	Dutch	1	U+006d U+0069 U+0064 U+0064 U+0061 U+0067 U+0020 U+0028 U+0032 U+0029
+man (2)	<???>	man (2)	Dutch	1	U+006d U+0061 U+006e U+0020 U+0028 U+0032 U+0029

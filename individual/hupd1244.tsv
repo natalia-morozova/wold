@@ -1,0 +1,1180 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	39-1-1-1	7251454112097635	Hup	hupd1244	the world	WORLD	965		j’áh	j’áh 
+2	39-1-21-1	7251454112097635	Hup	hupd1244	the land	LAND	626		j’áh	j’áh 
+3	39-1-212-1	7251454559630370	Hup	hupd1244	the soil	EARTH (SOIL)	1228		m’ǎj’	m’ǎj’ 
+4	39-1-213-1	7251454815876731	Hup	hupd1244	the dust	DUST	2		mɔy j’ɨ̌k	mɔy j’ɨ̌k 
+5	39-1-214-1	7251454138801649	Hup	hupd1244	the mud	MUD	640		b’ɔ̌k	b’ɔ̌k 
+6	39-1-215-1	7251454564394786	Hup	hupd1244	the sand	SAND	671		wæg yɔ̌h	wæg yɔ̌h 
+7	39-1-22-1	7251454206825192	Hup	hupd1244	the mountain or hill	MOUNTAIN OR HILL	2118		pǎç (1)	pǎç (1) 
+8	39-1-222-1	7251454206825192	Hup	hupd1244	the cliff or precipice	PRECIPICE	618		pǎç (1)	pǎç (1) 
+9	39-1-23-1	7251454279988503	Hup	hupd1244	the plain	PLAIN	652		hohód	hohód 
+10	39-1-25-1	7251454389113948	Hup	hupd1244	the island	ISLAND	622		pód	pód 
+11	39-1-27-1	725145456374369	Hup	hupd1244	the shore	SHORE	113		deh pə̌w	deh pə̌w 
+12	39-1-28-1	7251454623487861	Hup	hupd1244	the cave	CAVE	1155		pǎç mɔy	pǎç mɔy 
+13	39-1-31-1	7251454775694766	Hup	hupd1244	the water	WATER	948		děh	děh 
+14	39-1-324-1	7251454479635109	Hup	hupd1244	the foam	FOAM	1768		pǔh	pǔh 
+15	39-1-33-1	7251454527130631	Hup	hupd1244	the lake	LAKE	624		mɔ́h	mɔ́h 
+16	39-1-35-1	725145417063548	Hup	hupd1244	the wave	WAVE	978		ʔaʔáb	ʔaʔáb 
+17	39-1-35-2	7251455824648850	Hup	hupd1244	the wave	WAVE	978		capáw’	capáw’ 
+18	39-1-36-1	7251454541914141	Hup	hupd1244	the river or stream	RIVER	666		dehmí	dehmí 
+19	39-1-36-2	725145512941037	Hup	hupd1244	the river or stream	RIVER	666		má	má 
+20	39-1-362-1	7251454281826791	Hup	hupd1244	the whirlpool	WHIRLPOOL	1982		wɔ̃wɔ̃´y’	wɔ̃wɔ̃´y’ 
+21	39-1-37-1	7251454867067623	Hup	hupd1244	the spring or well	SPRING OR WELL	2144		děh mɔy	děh mɔy 
+22	39-1-38-1	7251454138801649	Hup	hupd1244	the swamp	SWAMP	1145		b’ɔ̌k	b’ɔ̌k 
+23	39-1-39-1	7251454426469195	Hup	hupd1244	the waterfall	WATERFALL	943		hǔh	hǔh 
+24	39-1-41-1	725145447006983	Hup	hupd1244	the woods or forest	FOREST	420		j’ǔg	j’ǔg 
+25	39-1-41-2	7251455136088	Hup	hupd1244	the woods or forest	FOREST	420		hǎy	hǎy 
+26	39-1-43-1	7251454498844294	Hup	hupd1244	the wood	WOOD	1803		těg	těg 
+27	39-1-44-1	725145490684390	Hup	hupd1244	the stone or rock	STONE OR ROCK	2125		pǎç (2)	pǎç (2) 
+28	39-1-45-1	7251454210389479	Hup	hupd1244	the earthquake	EARTHQUAKE	6		j’áh y’ũy’ũ´y’	j’áh y’ũy’ũ´y’ 
+29	39-1-51-1	7251454830808778	Hup	hupd1244	the sky	SKY	1732		pǎç (3)	pǎç (3) 
+30	39-1-52-1	7251454756967936	Hup	hupd1244	the sun	SUN	1343		wædhɔ́	wædhɔ́ 
+31	39-1-53-1	7251454756967936	Hup	hupd1244	the moon	MOON	1313		wædhɔ́	wædhɔ́ 
+32	39-1-54-1	7251454205057243	Hup	hupd1244	the star	STAR	1430		wædhɔm’æ̌h	wædhɔm’æ̌h 
+33	39-1-55-1	725145430897944	Hup	hupd1244	the lightning	LIGHTNING	1654		cə́p	cə́p 
+34	39-1-56-1	7251454360113359	Hup	hupd1244	the thunder	THUNDER	1150		pæ̃y	pæ̃y 
+35	39-1-57-1	7251454360113359	Hup	hupd1244	the bolt of lightning	BOLT (OF LIGHTNING)	2007		pæ̃y	pæ̃y 
+36	39-1-58-1	7251454484281914	Hup	hupd1244	the storm	STORM	858		bohǒt pɨ́b	bohǒt pɨ́b 
+37	39-1-59-1	7251454276159065	Hup	hupd1244	the rainbow	RAINBOW	1733		cɔ́	cɔ́ 
+38	39-1-61-1	725145468616569	Hup	hupd1244	the light	LIGHT (RADIATION)	630		b’ág	b’ág 
+39	39-1-62-1	7251454813730384	Hup	hupd1244	the darkness	DARKNESS	11		baʔtúk	baʔtúk 
+40	39-1-63-1	7251454938863335	Hup	hupd1244	the shade or shadow	SHADE	1388		nɨ́m	nɨ́m 
+41	39-1-64-1	7251454693935847	Hup	hupd1244	the dew	DEW	1977		wædhɔm’æ̌h nɔcáw	wædhɔm’æ̌h nɔcáw 
+42	39-1-64-2	7251455924366413	Hup	hupd1244	the dew	DEW	1977		paç náŋ	paç náŋ 
+43	39-1-72-1	7251454144294668	Hup	hupd1244	the wind	WIND	960		bohót	bohót 
+44	39-1-73-1	7251454716088389	Hup	hupd1244	the cloud	CLOUD	1489		j’ɨk kudú	j’ɨk kudú 
+45	39-1-74-1	7251454674906975	Hup	hupd1244	the fog	FOG	249		j’ɨ̌k	j’ɨ̌k 
+46	39-1-75-1	7251454775694766	Hup	hupd1244	the rain	RAIN (PRECIPITATION)	658		děh	děh 
+47	39-1-77-1	7251454147826199	Hup	hupd1244	the ice	ICE	617		cédu	cédu 
+48	39-1-77-2	7251455492142575	Hup	hupd1244	the ice	ICE	617		děh m’ǽ	děh m’ǽ 
+49	39-1-81-1	7251454393496985	Hup	hupd1244	the fire	FIRE	221		teg hɔ̃	teg hɔ̃ 
+50	39-1-82-1	7251454393496985	Hup	hupd1244	the flame	FLAME	889		teg hɔ̃	teg hɔ̃ 
+51	39-1-83-1	7251454674906975	Hup	hupd1244	the smoke	SMOKE (EXHAUST)	778		j’ɨ̌k	j’ɨ̌k 
+52	39-1-84-1	725145433496392	Hup	hupd1244	the ash	ASH	646		teg hɔ́w	teg hɔ́w 
+53	39-1-841-1	7251454393496985	Hup	hupd1244	the embers	EMBERS	67		teg hɔ̃	teg hɔ̃ 
+54	39-1-851-1	7251454322520533	Hup	hupd1244	to burn(1)	BURN (SOMETHING)	141		tujd’ak-	tujd’ak- 
+55	39-1-852-1	7251454684209141	Hup	hupd1244	to burn(2)	BURNING	1428		hɔ̃- (1)	hɔ̃- (1) 
+56	39-1-86-1	7251454322520533	Hup	hupd1244	to light	LIGHT (IGNITE)	737		tujd’ak-	tujd’ak- 
+57	39-1-86-2	7251455788896094	Hup	hupd1244	to light	LIGHT (IGNITE)	737		tǝʔ-	tǝʔ- 
+58	39-1-861-1	7251454428272488	Hup	hupd1244	to extinguish	EXTINGUISH	127		d’ɔk-	d’ɔk- 
+59	39-1-87-1	7251454378110578	Hup	hupd1244	the match	MATCH	1133		teg cáʔ	teg cáʔ 
+60	39-1-88-1	7251454498844294	Hup	hupd1244	the firewood	FIREWOOD	10		těg	těg 
+61	39-1-89-1	7251454765978251	Hup	hupd1244	the charcoal	CHARCOAL	1188		teg cə̌h	teg cə̌h 
+62	39-2-1-1	7251454513589645	Hup	hupd1244	the person	PERSON	683		húp	húp 
+63	39-2-21-1	7251454787311665	Hup	hupd1244	the man	MAN	1554		tiyǐʔ	tiyǐʔ 
+64	39-2-22-1	7251454840854442	Hup	hupd1244	the woman	WOMAN	962		tãʔáy	tãʔáy 
+65	39-2-23-1	7251454787311665	Hup	hupd1244	male(1)	MALE (OF ANIMAL)	2263		tiyǐʔ	tiyǐʔ 
+66	39-2-24-1	7251454840854442	Hup	hupd1244	female(1)	FEMALE (OF PERSON)	2260		tãʔáy	tãʔáy 
+67	39-2-25-1	7251454309422275	Hup	hupd1244	the boy	BOY	1366		tiyiʔ dóʔ	tiyiʔ dóʔ 
+68	39-2-251-1	7251454693056243	Hup	hupd1244	the young man	YOUNG MAN	76		-pæcǽw	-pæcǽw 
+69	39-2-26-1	7251454364690968	Hup	hupd1244	the girl	GIRL	1646		tãʔãy dóʔ	tãʔãy dóʔ 
+70	39-2-261-1	7251454621425501	Hup	hupd1244	the young woman	YOUNG WOMAN	77		taʔacáw	taʔacáw 
+71	39-2-27-1	7251454291835891	Hup	hupd1244	the child(1)	CHILD (YOUNG HUMAN)	1304		-dóʔ	-dóʔ 
+72	39-2-28-1	7251454517592172	Hup	hupd1244	the baby	BABY	1289		hɔ̃wǽ	hɔ̃wǽ 
+73	39-2-31-1	7251454778844294	Hup	hupd1244	the husband	HUSBAND	1200		tæ̃hʔíp	tæ̃hʔíp 
+74	39-2-32-1	7251454355075997	Hup	hupd1244	the wife	WIFE	1199		tæ̃hʔín	tæ̃hʔín 
+75	39-2-33-1	7251455483304332	Hup	hupd1244	to marry	MARRY	203		dapũh j’ɨ̃p-	dapũh j’ɨ̃p- 
+76	39-2-33-2	7251455340368467	Hup	hupd1244	to marry	MARRY	203		d’oʔ-	d’oʔ- 
+77	39-2-34-1	7251454893389774	Hup	hupd1244	the wedding	WEDDING	1259		dapũh j’ɨ̃p wág	dapũh j’ɨ̃p wág 
+78	39-2-35-1	7251454797395266	Hup	hupd1244	the father	FATHER	1217		ʔíp	ʔíp 
+79	39-2-36-1	7251454538853959	Hup	hupd1244	the mother	MOTHER	1216		ʔín	ʔín 
+80	39-2-41-1	7251454357718594	Hup	hupd1244	the son	SON	1620		tæ̃´h	tæ̃´h 
+81	39-2-42-1	7251454951303978	Hup	hupd1244	the daughter	DAUGHTER	1357		tóg	tóg 
+82	39-3-662-1	7251454266804192	Hup	hupd1244	the porpoise or dolphin	DOLPHIN	1479		tǎy	tǎy 
+83	39-2-43-1	7251454357718594	Hup	hupd1244	the child(2)	CHILD (DESCENDANT)	1801		tæ̃´h	tæ̃´h 
+84	39-2-44-1	7251454201246108	Hup	hupd1244	the brother	BROTHER	1262		báb’	báb’ 
+85	39-2-444-1	7251454660646952	Hup	hupd1244	the older brother	OLDER BROTHER	1759		cə̌t	cə̌t 
+86	39-2-445-1	7251454987389938	Hup	hupd1244	the younger brother	YOUNGER BROTHER	1760		yãwám	yãwám 
+87	39-2-45-1	7251454260347110	Hup	hupd1244	the sister	SISTER	1263		ʔũhʔãy	ʔũhʔãy 
+88	39-2-454-1	7251454306271035	Hup	hupd1244	the older sister	OLDER SISTER	1758		cǝtʔãy	cǝtʔãy 
+89	39-2-455-1	7251454141088962	Hup	hupd1244	the younger sister	YOUNGER SISTER	1761		yãwãmʔãy	yãwãmʔãy 
+90	39-2-455-2	7251455568836639	Hup	hupd1244	the younger sister	YOUNGER SISTER	1761		babmã´y	babmã´y 
+91	39-2-456-1	7251454201246108	Hup	hupd1244	the sibling	SIBLING	1640		báb’	báb’ 
+92	39-2-456-2	725145539637115	Hup	hupd1244	the sibling	SIBLING	1640		ʔũˇh	ʔũˇh 
+93	39-2-458-1	7251454883782087	Hup	hupd1244	the twins	TWINS	1005		báb’d’ǝh	báb’d’ǝh 
+94	39-2-46-1	7251454345084638	Hup	hupd1244	the grandfather	GRANDFATHER	1383		ʔǔw	ʔǔw 
+95	39-2-461-1	725145438671143	Hup	hupd1244	the old man	OLD MAN	406		-wǝhə́d	-wǝhə́d 
+96	39-2-47-1	7251454859242873	Hup	hupd1244	the grandmother	GRANDMOTHER	1496		ʔɔ́h	ʔɔ́h 
+97	39-2-471-1	7251454161802915	Hup	hupd1244	the old woman	OLD WOMAN	907		-wá	-wá 
+98	39-2-48-1	7251455467156147	Hup	hupd1244	the grandson	GRANDSON	1618		dú	dú 
+99	39-2-49-1	7251455467156147	Hup	hupd1244	the granddaughter	GRANDDAUGHTER	1619		dú	dú 
+100	39-2-511-1	7251454774275275	Hup	hupd1244	the mother's brother	MOTHER'S BROTHER	1984		g’ɔ́t	g’ɔ́t 
+101	39-2-512-1	7251454139002268	Hup	hupd1244	the father's brother	FATHER'S BROTHER	1985		pã´ç	pã´ç 
+102	39-2-521-1	7251454168105236	Hup	hupd1244	the mother's sister	MOTHER'S SISTER	171		ʔinhã´ç	ʔinhã´ç 
+103	39-2-522-1	7251454691804976	Hup	hupd1244	the father's sister	FATHER'S SISTER	170		pæ̃ʔǽy’	pæ̃ʔǽy’ 
+104	39-2-53-1	7251454357718594	Hup	hupd1244	the nephew	NEPHEW	1063		tæ̃´h	tæ̃´h 
+105	39-2-54-1	7251454951303978	Hup	hupd1244	the niece	NIECE	1642		tóg	tóg 
+106	39-2-55-1	7251454201246108	Hup	hupd1244	the cousin	COUSIN	1643		báb’	báb’ 
+107	39-2-56-1	725145498467249	Hup	hupd1244	the ancestors	ANCESTORS	1669		dúd’ǝh	dúd’ǝh 
+108	39-2-57-1	725145498467249	Hup	hupd1244	the descendants	DESCENDANTS	490		dúd’ǝh	dúd’ǝh 
+109	39-2-61-1	7251454774275275	Hup	hupd1244	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		g’ɔ́t	g’ɔ́t 
+110	39-2-611-1	7251454774275275	Hup	hupd1244	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		g’ɔ́t	g’ɔ́t 
+111	39-2-62-1	7251454691804976	Hup	hupd1244	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		pæ̃ʔǽy’	pæ̃ʔǽy’ 
+112	39-2-62-2	7251455686456469	Hup	hupd1244	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		tæ̃hʔɔ̌h	tæ̃hʔɔ̌h 
+113	39-2-621-1	7251454691804976	Hup	hupd1244	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		pæ̃ʔǽy’	pæ̃ʔǽy’ 
+114	39-2-621-2	7251455686456469	Hup	hupd1244	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		tæ̃hʔɔ̌h	tæ̃hʔɔ̌h 
+115	39-2-63-1	725145476138976	Hup	hupd1244	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		togtúg	togtúg 
+116	39-2-631-1	725145476138976	Hup	hupd1244	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		togtúg	togtúg 
+117	39-2-64-1	7251454619826419	Hup	hupd1244	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		tæ̃hʔǽm	tæ̃hʔǽm 
+118	39-2-641-1	7251454619826419	Hup	hupd1244	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		tæ̃hʔǽm	tæ̃hʔǽm 
+119	39-2-71-1	7251454576938674	Hup	hupd1244	the stepfather	STEPFATHER	237		ʔintúg	ʔintúg 
+120	39-2-72-1	7251454520360140	Hup	hupd1244	the stepmother	STEPMOTHER	236		ʔipʔǽm	ʔipʔǽm 
+121	39-2-73-1	7251454866894992	Hup	hupd1244	the stepson	STEPSON	1059		ʔæmtæ̃h	ʔæmtæ̃h 
+122	39-2-74-1	7251454627816152	Hup	hupd1244	the stepdaughter	STEPDAUGHTER	1058		ʔæmtóg	ʔæmtóg 
+123	39-2-81-1	7251454883782087	Hup	hupd1244	the relatives	RELATIVES	1644		báb’d’ǝh	báb’d’ǝh 
+124	39-2-91-1	7251454203932108	Hup	hupd1244	I	I	1209		ʔãh	ʔãh 
+125	39-2-92-1	7251454163242601	Hup	hupd1244	you (singular)	THOU	1215		ʔám	ʔám 
+126	39-2-93-1	7251454761097854	Hup	hupd1244	he/she/it	HE OR SHE OR IT	262		tɨ́h	tɨ́h 
+127	39-2-94-1	725145410432069	Hup	hupd1244	we	WE	1212		ʔɨ́n	ʔɨ́n 
+128	39-2-941-1	725145410432069	Hup	hupd1244	we (inclusive)	WE (INCLUSIVE)	1131		ʔɨ́n	ʔɨ́n 
+129	39-2-942-1	725145410432069	Hup	hupd1244	we (exclusive)	WE (EXCLUSIVE)	1130		ʔɨ́n	ʔɨ́n 
+130	39-2-95-1	7251454360533471	Hup	hupd1244	you (plural)	YOU	1213		nɨ́ŋ	nɨ́ŋ 
+131	39-2-96-1	7251454805990237	Hup	hupd1244	they	THEY	817		hɨ́d	hɨ́d 
+132	39-3-11-1	725145494110856	Hup	hupd1244	the animal	ANIMAL	619		hũ´	hũ´ 
+133	39-3-12-1	7251454787311665	Hup	hupd1244	male(2)	MALE (OF PERSON)	2261		tiyǐʔ	tiyǐʔ 
+134	39-3-13-1	7251454840854442	Hup	hupd1244	female(2)	FEMALE (OF ANIMAL)	2262		tãʔáy	tãʔáy 
+135	39-3-15-1	7251454603809649	Hup	hupd1244	the livestock	LIVESTOCK	631		bɨ́	bɨ́ 
+136	39-3-19-1	7251454774111809	Hup	hupd1244	the stable or stall	STABLE	851		tǎh mɔy	tǎh mɔy 
+137	39-3-2-1	7251454528924434	Hup	hupd1244	the cattle	CATTLE	1153		tǎhd’ǝh	tǎhd’ǝh 
+138	39-3-21-1	7251455434651608	Hup	hupd1244	the bull	BULL	1008		tǎh	tǎh 
+139	39-3-22-1	7251455434651608	Hup	hupd1244	the ox	OX	1169		tǎh	tǎh 
+140	39-3-23-1	7251455434651608	Hup	hupd1244	the cow	COW	1007		tǎh	tǎh 
+141	39-3-24-1	7251455434651608	Hup	hupd1244	the calf	CALF	1989		tǎh	tǎh 
+142	39-3-32-1	725145413874599	Hup	hupd1244	the boar	BOAR	1348		tɔ̃´h	tɔ̃´h 
+143	39-3-34-1	725145413874599	Hup	hupd1244	the sow	SOW (FEMALE PIG)	1351		tɔ̃´h	tɔ̃´h 
+144	39-3-35-1	725145413874599	Hup	hupd1244	the pig	PIG	1337		tɔ̃´h	tɔ̃´h 
+145	39-3-41-1	7251454196178731	Hup	hupd1244	the horse	HORSE	615		kawádu	kawádu 
+146	39-3-42-1	7251454196178731	Hup	hupd1244	the stallion	STALLION	936		kawádu	kawádu 
+147	39-3-44-1	7251454196178731	Hup	hupd1244	the mare	MARE	938		kawádu	kawádu 
+148	39-3-45-1	7251454196178731	Hup	hupd1244	the foal or colt	FOAL	1647		kawádu	kawádu 
+149	39-3-52-1	7251454960088049	Hup	hupd1244	the cock/rooster	ROOSTER	1511		cadakǎʔ	cadakǎʔ 
+150	39-3-54-1	7251454960088049	Hup	hupd1244	the hen	HEN	1514		cadakǎʔ	cadakǎʔ 
+151	39-3-55-1	7251454960088049	Hup	hupd1244	the chicken	CHICKEN	1318		cadakǎʔ	cadakǎʔ 
+152	39-3-57-1	7251454719786166	Hup	hupd1244	the duck	DUCK	1360		pátu	pátu 
+153	39-3-58-1	7251454516059166	Hup	hupd1244	the nest	NEST	539		hũtæ̃h cáʔ	hũtæ̃h cáʔ 
+154	39-3-581-1	7251454110082194	Hup	hupd1244	the bird	BIRD	937		hũtæ̃´h	hũtæ̃´h 
+155	39-3-583-1	7251454893042227	Hup	hupd1244	the heron	HERON	758		bohów’	bohów’ 
+156	39-3-585-1	7251454653626688	Hup	hupd1244	the hawk	HAWK	307		wǐh	wǐh 
+157	39-3-586-1	7251454804605940	Hup	hupd1244	the vulture	VULTURE	1185		wã´ʔ	wã´ʔ 
+158	39-3-591-1	7251454937263318	Hup	hupd1244	the bat	BAT	1793		cɨʔb’ɨ́h	cɨʔb’ɨ́h 
+159	39-3-592-1	7251454774812704	Hup	hupd1244	the parrot	PARROT	882		yǎk	yǎk 
+160	39-3-594-1	7251454740671635	Hup	hupd1244	the dove	DOVE	1853		wɔhwěw	wɔhwěw 
+161	39-3-596-1	7251454508253963	Hup	hupd1244	the owl	OWL	735		pǝpə́p	pǝpə́p 
+162	39-3-596-2	72514558087237	Hup	hupd1244	the owl	OWL	735		cǔk	cǔk 
+163	39-3-61-1	72514548100558	Hup	hupd1244	the dog	DOG	2009		yaʔamhóʔ	yaʔamhóʔ 
+164	39-3-62-1	7251454208955967	Hup	hupd1244	the cat	CAT	1208		picána	picána 
+165	39-3-622-1	7251454429058926	Hup	hupd1244	the opossum	OPOSSUM	309		caʔmáy	caʔmáy 
+166	39-3-63-1	7251454377699861	Hup	hupd1244	the mouse or rat	MUROID (MOUSE OR RAT)	2139		bǐʔ	bǐʔ 
+167	39-3-65-1	7251454320431894	Hup	hupd1244	the fish	FISH	227		hɔ̃ˇp	hɔ̃ˇp 
+168	39-3-652-1	7251454843508066	Hup	hupd1244	the fin	FIN	213		cɨ̃cɨ́n	cɨ̃cɨ́n 
+169	39-3-653-1	7251454650011803	Hup	hupd1244	the scale	SCALE	266		péc	péc 
+170	39-3-654-1	7251454506413628	Hup	hupd1244	the gill	GILL	1916		cecěw	cecěw 
+171	39-3-655-1	7251454572652091	Hup	hupd1244	the shell	SHELL	598		b’ɔ́k	b’ɔ́k 
+172	39-3-664-1	7251454390216683	Hup	hupd1244	the stingray	STINGRAY	1910		j’æ̌ʔ	j’æ̌ʔ 
+173	39-3-665-1	7251454239084665	Hup	hupd1244	the freshwater eel	FRESHWATER EEL	1013		cuʔbút	cuʔbút 
+174	39-3-75-1	7251454508284590	Hup	hupd1244	the deer	DEER	1936		mɔ̃hɔ̌y	mɔ̃hɔ̌y 
+175	39-3-76-1	7251454485344848	Hup	hupd1244	the monkey	MONKEY	1350		tǔg	tǔg 
+176	39-3-76-2	7251455833383720	Hup	hupd1244	the monkey	MONKEY	1350		yawǎç	yawǎç 
+177	39-3-811-1	725145454382360	Hup	hupd1244	the head louse	HEAD LOUSE	310		næ̌m	næ̌m 
+178	39-3-812-1	7251454366594188	Hup	hupd1244	the nit	NIT	267		næm típ	næm típ 
+179	39-3-813-1	7251454932110491	Hup	hupd1244	the flea	FLEA	232		n’ang’ɔ́b	n’ang’ɔ́b 
+180	39-3-814-1	7251454533696372	Hup	hupd1244	the centipede	CENTIPEDE	1974		cǎy	cǎy 
+181	39-3-815-1	7251454963140961	Hup	hupd1244	the scorpion	SCORPION	1538		cə́ʔ (1)	cə́ʔ (1) 
+182	39-3-816-1	7251454137623806	Hup	hupd1244	the cockroach	COCKROACH	1575		dadáp	dadáp 
+183	39-3-817-1	7251454769501821	Hup	hupd1244	the ant	ANT	587		yǔy (1)	yǔy (1) 
+184	39-3-817-2	7251455417696120	Hup	hupd1244	the ant	ANT	587		hǔd	hǔd 
+185	39-3-817-3	7251455413297657	Hup	hupd1244	the ant	ANT	587		bobób	bobób 
+186	39-3-818-1	7251454743225706	Hup	hupd1244	the spider	SPIDER	843		bɔyɔ́ʔ	bɔyɔ́ʔ 
+187	39-3-819-1	7251454564606065	Hup	hupd1244	the spider web	SPIDER WEB	1065		bɔyɔʔ yág	bɔyɔʔ yág 
+188	39-3-82-1	7251454607757948	Hup	hupd1244	the bee	BEE	665		næŋʔã´w	næŋʔã´w 
+189	39-3-821-1	7251454680855796	Hup	hupd1244	the beeswax	BEESWAX	1931		næ̌ŋ cak	næ̌ŋ cak 
+190	39-3-822-1	7251454403344586	Hup	hupd1244	the beehive	BEEHIVE	88		næ̌ŋ b’ak	næ̌ŋ b’ak 
+191	39-3-823-1	7251454504198659	Hup	hupd1244	the wasp	WASP	1517		yɔ̌ʔ	yɔ̌ʔ 
+192	39-3-83-1	7251454705837372	Hup	hupd1244	the fly	FLY (INSECT)	1504		wowǒw	wowǒw 
+193	39-3-83-2	7251455718930817	Hup	hupd1244	the fly	FLY (INSECT)	1504		bə́g	bə́g 
+194	39-3-831-1	7251454331969472	Hup	hupd1244	the sandfly or midge or gnat	SANDFLY	95		húʔ	húʔ 
+195	39-3-832-1	7251454484128039	Hup	hupd1244	the mosquito	MOSQUITO	1509		g’í (1)	g’í (1) 
+196	39-3-84-1	7251454564107863	Hup	hupd1244	the worm	WORM	1219		m’ɨ́ʔ	m’ɨ́ʔ 
+197	39-3-85-1	7251454394539254	Hup	hupd1244	the snake	SNAKE	730		m’æ̌h	m’æ̌h 
+198	39-3-85-2	7251455545146628	Hup	hupd1244	the snake	SNAKE	730		tɨ̃hɨ̃´y	tɨ̃hɨ̃´y 
+199	39-3-91-1	7251454284709510	Hup	hupd1244	the firefly	FIREFLY	206		kedó	kedó 
+200	39-3-91-2	725145513769494	Hup	hupd1244	the firefly	FIREFLY	206		huhǔy	huhǔy 
+201	39-3-92-1	7251454936501021	Hup	hupd1244	the butterfly	BUTTERFLY	1791		b’eb’ěp	b’eb’ěp 
+202	39-3-93-1	7251454116031387	Hup	hupd1244	the grasshopper	GRASSHOPPER	607		cũ´c	cũ´c 
+203	39-3-93-2	725145587090605	Hup	hupd1244	the grasshopper	GRASSHOPPER	607		tə́t	tə́t 
+204	39-3-94-1	725145487484296	Hup	hupd1244	the snail	SNAIL	1543		g’ɔ̃´j	g’ɔ̃´j 
+205	39-3-95-1	7251454479300524	Hup	hupd1244	the frog	FROG	503		j’ǎy	j’ǎy 
+206	39-3-95-2	7251455657884093	Hup	hupd1244	the frog	FROG	503		yə́h	yə́h 
+207	39-3-96-1	7251454320040629	Hup	hupd1244	the lizard	LIZARD	632		ʔɔ́w	ʔɔ́w 
+208	39-3-97-1	7251454921236153	Hup	hupd1244	the crocodile or alligator	CROCODILE	1857		hǎt (1)	hǎt (1) 
+209	39-3-98-1	7251454765217137	Hup	hupd1244	the turtle	TURTLE	112		mǐh	mǐh 
+210	39-4-11-1	7251454955006083	Hup	hupd1244	the body	BODY	1480		cáp	cáp 
+211	39-4-12-1	7251454113436796	Hup	hupd1244	the skin or hide	SKIN	763		b’ɔ́k (1)	b’ɔ́k (1) 
+212	39-4-13-1	7251454623402383	Hup	hupd1244	the flesh	FLESH	2259		d’áp	d’áp 
+213	39-4-14-1	7251454951660655	Hup	hupd1244	the hair	HAIR (HEAD)	2648		pã´t	pã´t 
+214	39-4-142-1	7251454120162187	Hup	hupd1244	the beard	BEARD	678		nɔcúg	nɔcúg 
+215	39-4-144-1	7251454951660655	Hup	hupd1244	the body hair	HAIR (BODY)	189		pã´t	pã´t 
+216	39-4-145-1	7251454116980621	Hup	hupd1244	the pubic hair	PUBIC HAIR	36		cán	cán 
+217	39-4-146-1	7251454545371227	Hup	hupd1244	the dandruff	DANDRUFF	576		nuh pohów’	nuh pohów’ 
+218	39-4-15-1	7251454274024337	Hup	hupd1244	the blood	BLOOD	946		biyǐw	biyǐw 
+219	39-4-151-1	7251454798399421	Hup	hupd1244	the vein or artery	BLOOD VESSEL	525		j’ɨ̃j’ɨ̃´p	j’ɨ̃j’ɨ̃´p 
+220	39-4-16-1	7251454947281340	Hup	hupd1244	the bone	BONE	1394		g’æ̌g	g’æ̌g 
+221	39-4-162-1	7251454239181514	Hup	hupd1244	the rib	RIB	801		hohóʔg’æg	hohóʔg’æg 
+222	39-4-17-1	7251454739962627	Hup	hupd1244	the horn	HORN (ANATOMY)	1393		cǎn’	cǎn’ 
+223	39-4-18-1	7251454985351722	Hup	hupd1244	the tail	TAIL	1220		d’ǔb	d’ǔb 
+224	39-4-19-1	7251454751455591	Hup	hupd1244	the back	BACK	1291		hupáh	hupáh 
+225	39-4-19-2	7251455105908513	Hup	hupd1244	the back	BACK	1291		cĩcĩʔ	cĩcĩʔ 
+226	39-4-191-1	7251454556941605	Hup	hupd1244	the spine	SPINE	805		j’ujtǐh	j’ujtǐh 
+227	39-4-2-1	7251454395063376	Hup	hupd1244	the head	HEAD	1256		núh	núh 
+228	39-4-201-1	7251454433732073	Hup	hupd1244	the temples	TEMPLES	1604		y’aʔáw’ d’ǝhj’ák	y’aʔáw’ d’ǝhj’ák 
+229	39-4-202-1	7251454496606664	Hup	hupd1244	the skull	SKULL	1605		nuh b’ɔ̌ʔ	nuh b’ɔ̌ʔ 
+230	39-4-203-1	725145450228553	Hup	hupd1244	the brain	BRAIN	1583		cɔ̃wɔ̃ˇh	cɔ̃wɔ̃ˇh 
+231	39-4-204-1	7251454583043438	Hup	hupd1244	the face	FACE	1560		dɔwɔ̌h	dɔwɔ̌h 
+232	39-4-204-2	7251455113229499	Hup	hupd1244	the face	FACE	1560		mig’ǒd	mig’ǒd 
+233	39-4-205-1	7251454472148601	Hup	hupd1244	the forehead	FOREHEAD	123		kág’	kág’ 
+234	39-4-207-1	7251454153044440	Hup	hupd1244	the jaw	JAW	798		tǝg cáʔ	tǝg cáʔ 
+235	39-4-208-1	7251454629710916	Hup	hupd1244	the cheek	CHEEK	1730		dɔwɔh búg’	dɔwɔh búg’ 
+236	39-4-209-1	7251454669282014	Hup	hupd1244	the chin	CHIN	1510		j’ǝj’ə́g	j’ǝj’ə́g 
+237	39-4-21-1	725145424718080	Hup	hupd1244	the eye	EYE	1248		kǝwə̌g	kǝwə̌g 
+238	39-4-212-1	7251454673961584	Hup	hupd1244	the eyebrow	EYEBROW	1173		kǝwǝg b’ɔk cũˇh	kǝwǝg b’ɔk cũˇh 
+239	39-4-212-2	725145528374536	Hup	hupd1244	the eyebrow	EYEBROW	1173		kǝwǝgpə̌w	kǝwǝgpə̌w 
+240	39-4-213-1	7251454504206372	Hup	hupd1244	the eyelid	EYELID	17		kǝwǝg b’ɔ́k	kǝwǝg b’ɔ́k 
+241	39-4-214-1	7251454675852424	Hup	hupd1244	the eyelash	EYELASH	1540		kǝwǝg pã´t	kǝwǝg pã´t 
+242	39-4-215-1	7251454783811653	Hup	hupd1244	to blink	BLINK	1655		ʔɔ̃hwiŋ-	ʔɔ̃hwiŋ- 
+243	39-4-22-1	7251454783702372	Hup	hupd1244	the ear	EAR	1247		bɔtɔ́k	bɔtɔ́k 
+244	39-4-222-1	7251454395216590	Hup	hupd1244	the earwax	EARWAX	32		cæ̃cæ̃ˇy’	cæ̃cæ̃ˇy’ 
+245	39-4-23-1	7251454959680834	Hup	hupd1244	the nose	NOSE	1221		tǒj	tǒj 
+246	39-4-231-1	7251454774380209	Hup	hupd1244	the nostril	NOSTRIL	1178		toj mɔ̌y	toj mɔ̌y 
+247	39-4-232-1	7251454332469958	Hup	hupd1244	the nasal mucus	NASAL MUCUS (SNOT)	208		tũhũ´ʔ	tũhũ´ʔ 
+248	39-4-24-1	7251454307109200	Hup	hupd1244	the mouth	MOUTH	674		nɔg’ǒd	nɔg’ǒd 
+249	39-4-241-1	7251454307109200	Hup	hupd1244	the beak	BEAK	73		nɔg’ǒd	nɔg’ǒd 
+250	39-4-25-1	7251454170197929	Hup	hupd1244	the lip	LIP	478		nɔj’ǐj	nɔj’ǐj 
+251	39-4-26-1	7251454895390774	Hup	hupd1244	the tongue	TONGUE	1205		nɔg’æ̌d	nɔg’æ̌d 
+252	39-4-27-1	7251454877518324	Hup	hupd1244	the tooth	TOOTH	1380		tə́g	tə́g 
+253	39-4-271-1	725145488553666	Hup	hupd1244	the gums	GUMS	139		tǝg pə́w	tǝg pə́w 
+254	39-4-272-1	7251454675398138	Hup	hupd1244	the molar tooth	MOLAR TOOTH	1049		tǝgpáb	tǝgpáb 
+255	39-4-28-1	7251454423113882	Hup	hupd1244	the neck	NECK	1333		kaʔtɨ́t	kaʔtɨ́t 
+256	39-4-281-1	725145419486512	Hup	hupd1244	the nape of the neck	NAPE (OF NECK)	1347		nuh totóy’	nuh totóy’ 
+257	39-4-29-1	7251454778662068	Hup	hupd1244	the throat	THROAT	1346		ʔɔ̃´g’	ʔɔ̃´g’ 
+258	39-4-3-1	7251454705040298	Hup	hupd1244	the shoulder	SHOULDER	1482		cǎc	cǎc 
+259	39-4-301-1	7251454169192071	Hup	hupd1244	the shoulderblade	SHOULDERBLADE	172		cǎc g’æg	cǎc g’æg 
+260	39-4-302-1	7251454677576238	Hup	hupd1244	the collarbone	COLLARBONE	1994		wǐh g’æg	wǐh g’æg 
+261	39-4-31-1	7251454454550967	Hup	hupd1244	the arm	ARM	1673		mumǔy	mumǔy 
+262	39-4-312-1	7251454991977948	Hup	hupd1244	the armpit	ARMPIT	1886		hahád	hahád 
+263	39-4-32-1	7251454533746995	Hup	hupd1244	the elbow	ELBOW	981		buyj’óg	buyj’óg 
+264	39-4-321-1	725145429555105	Hup	hupd1244	the wrist	WRIST	799		kinǐm	kinǐm 
+265	39-4-33-1	7251454345978467	Hup	hupd1244	the hand	HAND	1277		d’apũ´h	d’apũ´h 
+266	39-4-331-1	7251454465679173	Hup	hupd1244	the palm of the hand	PALM OF HAND	1183		n’apũh g’odhɔ́	n’apũh g’odhɔ́ 
+267	39-4-34-1	7251454458124229	Hup	hupd1244	the finger	FINGER	1303		cǒb	cǒb 
+268	39-4-342-1	7251454999647674	Hup	hupd1244	the thumb	THUMB	1781		cob popǒg	cob popǒg 
+269	39-4-344-1	7251454698786676	Hup	hupd1244	the fingernail	FINGERNAIL	1258		cob b’ɔ́k	cob b’ɔ́k 
+270	39-4-345-1	72514541688222	Hup	hupd1244	the claw	CLAW	72		j’ib b’ɔ́k	j’ib b’ɔ́k 
+271	39-4-351-1	7251454965843893	Hup	hupd1244	the thigh	THIGH	800		tɔ̌k	tɔ̌k 
+272	39-4-352-1	7251454839567838	Hup	hupd1244	the calf of the leg	CALF OF LEG	498		cɨ̌ʔ	cɨ̌ʔ 
+273	39-4-36-1	7251454396380645	Hup	hupd1244	the knee	KNEE	1371		wɔ̃ʔdǽ	wɔ̃ʔdǽ 
+274	39-4-37-1	7251454330343500	Hup	hupd1244	the foot	FOOT	1301		j’ǐb	j’ǐb 
+275	39-4-371-1	7251454523464058	Hup	hupd1244	the ankle	ANKLE	803		j’ib kãkã´w	j’ib kãkã´w 
+276	39-4-371-2	7251455393389793	Hup	hupd1244	the ankle	ANKLE	803		kabǎç	kabǎç 
+277	39-4-372-1	7251454901085194	Hup	hupd1244	the heel	HEEL	980		j’ib cə̌k	j’ib cə̌k 
+278	39-4-374-1	7251454373150333	Hup	hupd1244	the footprint	FOOTPRINT	318		j’ǐb-cud	j’ǐb-cud 
+279	39-4-38-1	7251454635334424	Hup	hupd1244	the toe	TOE	1389		j’ib tæ̃tæ̃´h	j’ib tæ̃tæ̃´h 
+280	39-4-38-2	7251455832775254	Hup	hupd1244	the toe	TOE	1389		j’ib popǒg	j’ib popǒg 
+281	39-4-392-1	7251454946365887	Hup	hupd1244	the wing	WING	1257		ké	ké 
+282	39-4-393-1	72514542858470	Hup	hupd1244	the feather	FEATHER	1201		hũtæ̃´h pã´t	hũtæ̃´h pã´t 
+283	39-4-4-1	7251454727243971	Hup	hupd1244	the chest	CHEST	1592		hɔ̃tə́g	hɔ̃tə́g 
+284	39-4-41-1	7251454809885806	Hup	hupd1244	the breast	BREAST	1402		pǔd	pǔd 
+285	39-4-412-1	7251454798050577	Hup	hupd1244	the nipple or teat	NIPPLE	796		pud núh	pud núh 
+286	39-4-42-1	7251454809885806	Hup	hupd1244	the udder	UDDER	154		pǔd	pǔd 
+287	39-4-43-1	7251454490233479	Hup	hupd1244	the navel	NAVEL	1838		pǔç	pǔç 
+288	39-4-44-1	7251454772884609	Hup	hupd1244	the heart	HEART	1223		hã´wɨg	hã´wɨg 
+289	39-4-441-1	7251454620971363	Hup	hupd1244	the lung	LUNG	688		hɔ wowǒw’	hɔ wowǒw’ 
+290	39-4-45-1	7251454686706674	Hup	hupd1244	the liver	LIVER	1224		hɔ́	hɔ́ 
+291	39-4-451-1	7251454211812052	Hup	hupd1244	the kidney	KIDNEY	489		kadawá	kadawá 
+292	39-4-46-1	7251454276456477	Hup	hupd1244	the stomach	STOMACH	819		tǒk	tǒk 
+293	39-4-461-1	7251454873664420	Hup	hupd1244	the intestines or guts	INTESTINES	1991		tok tɨ́t	tok tɨ́t 
+294	39-4-462-1	7251454744258301	Hup	hupd1244	the waist	WAIST	1681		tɔk tibd’ǎk	tɔk tibd’ǎk 
+295	39-4-463-1	7251454378383318	Hup	hupd1244	the hip	HIP	1745		pãpáŋ	pãpáŋ 
+296	39-4-464-1	7251454367381877	Hup	hupd1244	the buttocks	BUTTOCKS	834		cə̌k	cə̌k 
+297	39-4-47-1	7251454221770811	Hup	hupd1244	the womb	WOMB	804		tæ̃´h-yud	tæ̃´h-yud 
+298	39-4-49-1	7251454546989074	Hup	hupd1244	the testicles	TESTICLES	797		hatípwɨg	hatípwɨg 
+299	39-4-492-1	7251454311910676	Hup	hupd1244	the penis	PENIS	1222		tɨ́b	tɨ́b 
+300	39-4-51-1	7251454922976521	Hup	hupd1244	to breathe	BREATHE	1407		haŋcak-	haŋcak- 
+301	39-4-51-2	7251455880625867	Hup	hupd1244	to breathe	BREATHE	1407		haŋcɔw-	haŋcɔw- 
+302	39-4-52-1	7251454137784246	Hup	hupd1244	to yawn	YAWN	1028		nɔg’a-	nɔg’a- 
+303	39-4-521-1	7251454863834301	Hup	hupd1244	to hiccough	HICCOUGH	162		cǝbǝk-	cǝbǝk- 
+304	39-4-53-1	7251454899969724	Hup	hupd1244	to cough	COUGH	879		hohot-	hohot- 
+305	39-4-54-1	7251454918802820	Hup	hupd1244	to sneeze	SNEEZE	1621		hãcĩh-	hãcĩh- 
+306	39-4-55-1	7251454984915992	Hup	hupd1244	to perspire	SWEAT (PERSPIRE)	126		kub’áhdeh way-	kub’áhdeh way- 
+307	39-4-56-1	7251454306771852	Hup	hupd1244	to spit	SPIT	1440		j’ɔç-	j’ɔç- 
+308	39-4-57-1	7251454955145460	Hup	hupd1244	to vomit	VOMIT	1278		hɔn-	hɔn- 
+309	39-4-58-1	7251454196218724	Hup	hupd1244	to bite	BITE	1403		g’ǝç-	g’ǝç- 
+310	39-4-59-1	7251454310303329	Hup	hupd1244	to lick	LICK	319		n’æm’-	n’æm’- 
+311	39-4-591-1	7251455630887550	Hup	hupd1244	to dribble	DRIBBLE	268		hut-	hut- 
+312	39-4-61-1	7251454539854814	Hup	hupd1244	to sleep	SLEEP	1585		ʔɔ̃h-	ʔɔ̃h- 
+313	39-4-612-1	7251454867030064	Hup	hupd1244	to snore	SNORE	1983		hɔ̃hɔ̃k-	hɔ̃hɔ̃k- 
+314	39-4-62-1	7251454390860681	Hup	hupd1244	to dream	DREAM (SOMETHING)	1920		cɔ̃hni-	cɔ̃hni- 
+315	39-4-63-1	7251454353051210	Hup	hupd1244	to wake up	WAKE UP	1602		cǝwǝʔ-	cǝwǝʔ- 
+316	39-4-64-1	7251454978399817	Hup	hupd1244	to fart	FART	1159		tɔç-	tɔç- 
+317	39-4-65-1	725145449480484	Hup	hupd1244	to piss	PISS	592		ciʔ-	ciʔ- 
+318	39-4-66-1	7251454442255845	Hup	hupd1244	to shit	SHIT (DEFECATE)	676		y’æʔ-	y’æʔ- 
+319	39-4-67-1	7251454458829632	Hup	hupd1244	to have sex	HAVE SEX	1785		ʔan-	ʔan- 
+320	39-4-68-1	725145410712645	Hup	hupd1244	to shiver	SHIVER	52		wɨʔwɨʔ-	wɨʔwɨʔ- 
+321	39-4-69-1	7251454170981813	Hup	hupd1244	to bathe	BATHE	138		j’ɔm-	j’ɔm- 
+322	39-4-71-1	7251454934477586	Hup	hupd1244	to beget	BEGET	1152		tæ̃h bɨʔ-	tæ̃h bɨʔ- 
+323	39-4-72-1	7251454985284308	Hup	hupd1244	to be born	BE BORN	1090		macã-	macã- 
+324	39-4-73-1	7251454455003602	Hup	hupd1244	pregnant	PREGNANT	1123		tokni-	tokni- 
+325	39-4-732-1	7251454455003602	Hup	hupd1244	to conceive	CONCEIVE	1087		tokni-	tokni- 
+326	39-4-74-1	7251454865435664	Hup	hupd1244	to be alive	BE ALIVE	1422		ʔɨb’-	ʔɨb’- 
+327	39-4-75-1	7251454120978191	Hup	hupd1244	to die	DIE	1494		naʔ-	naʔ- 
+328	39-4-751-1	7251454494121416	Hup	hupd1244	to drown	DROWN	1904		g’ǝmnaʔ-	g’ǝmnaʔ- 
+329	39-4-76-1	7251454247475097	Hup	hupd1244	to kill	KILL	1417		m’æh-	m’æh- 
+330	39-4-77-1	725145430753465	Hup	hupd1244	the corpse	CORPSE	767		g’ɔg	g’ɔg 
+331	39-4-78-1	7251454739680330	Hup	hupd1244	to bury	BURY	1719		kæ̃ʔ-	kæ̃ʔ- 
+332	39-4-79-1	7251454192229665	Hup	hupd1244	the grave	GRAVE	1773		húp hod	húp hod 
+333	39-4-81-1	7251454697926356	Hup	hupd1244	strong	STRONG	785		pɨ́b	pɨ́b 
+334	39-4-82-1	7251454560879644	Hup	hupd1244	weak	WEAK	1601		wæ̌y	wæ̌y 
+335	39-4-83-1	7251455556884595	Hup	hupd1244	healthy	HEALTHY	1364		náw	náw 
+336	39-4-84-1	7251454703787487	Hup	hupd1244	sick/ill	SICK	1847		peʔ-	peʔ- 
+337	39-4-841-1	7251454373804360	Hup	hupd1244	the fever	FEVER	1534		peʔ wɨdnæ̌n	peʔ wɨdnæ̌n 
+338	39-4-843-1	7251454268096713	Hup	hupd1244	the cold	COMMON COLD (DISEASE)	102		tũhũ´ʔ ni-	tũhũ´ʔ ni- 
+339	39-4-85-1	7251454497779672	Hup	hupd1244	the wound or sore	WOUND	1109		hɔ́m	hɔ́m 
+340	39-4-852-1	7251454376039527	Hup	hupd1244	the bruise	BRUISE	1148		mamáŋ	mamáŋ 
+341	39-4-853-1	7251454316019210	Hup	hupd1244	the swelling	SWELLING	1903		puhú	puhú 
+342	39-4-854-1	7251454705614101	Hup	hupd1244	the itch	ITCH	148		j’uk-	j’uk- 
+343	39-4-855-1	7251454977617733	Hup	hupd1244	the blister	BLISTER	1584		páb’	páb’ 
+344	39-4-857-1	7251454148849406	Hup	hupd1244	the pus	PUS	1808		nunǔh	nunǔh 
+345	39-4-858-1	7251454630691442	Hup	hupd1244	the scar	SCAR	497		hɔm bɨ̌g	hɔm bɨ̌g 
+346	39-4-86-1	7251454546463025	Hup	hupd1244	to cure	CURE	499		hiwɔb-	hiwɔb- 
+347	39-4-87-1	7251454605550066	Hup	hupd1244	the physician	PHYSICIAN	597		yɔ̃ˇhʔĩh	yɔ̃ˇhʔĩh 
+348	39-4-88-1	7251454678612159	Hup	hupd1244	the medicine	MEDICINE	1372		yɔ̃ˇh	yɔ̃ˇh 
+349	39-4-89-1	7251454594306475	Hup	hupd1244	the poison	POISON	655		nǎm	nǎm 
+350	39-4-91-1	7251454961924470	Hup	hupd1244	tired	TIRED	1757		cɨh-	cɨh- 
+351	39-4-912-1	7251454680433762	Hup	hupd1244	to rest	REST	168		co-	co- 
+352	39-4-92-1	7251454962370129	Hup	hupd1244	lazy	LAZY	1564		hũtũynɨh	hũtũynɨh 
+353	39-4-93-1	7251454287513166	Hup	hupd1244	bald	BALD	1125		nuh hohód	nuh hohód 
+354	39-4-94-1	7251454380113684	Hup	hupd1244	lame	LAME	320		kɨnɨŋ-	kɨnɨŋ- 
+355	39-4-98-1	7251454108329586	Hup	hupd1244	drunk	DRUNK	1463		ʔǝgnaʔ-	ʔǝgnaʔ- 
+356	39-5-11-1	7251454682395353	Hup	hupd1244	to eat	EAT	1336		wæd-	wæd- 
+357	39-5-12-1	725145441293565	Hup	hupd1244	the food	FOOD	256		wæ̌d	wæ̌d 
+358	39-5-122-1	7251454865435664	Hup	hupd1244	raw	RAW	1959		ʔɨb’-	ʔɨb’- 
+359	39-5-123-1	7251454984030120	Hup	hupd1244	ripe	RIPE	178		hɔ̃- (2)	hɔ̃- (2) 
+360	39-5-124-1	7251454370160981	Hup	hupd1244	unripe	UNRIPE	1958		hɔ-	hɔ- 
+361	39-5-125-1	7251454253090221	Hup	hupd1244	rotten	ROTTEN	1728		d’ɔhyɨʔ-	d’ɔhyɨʔ- 
+362	39-5-13-1	7251454711530943	Hup	hupd1244	to drink	DRINK	1401		ʔǝg-	ʔǝg- 
+363	39-5-14-1	7251454413372833	Hup	hupd1244	to be hungry	BE HUNGRY	1533		g’ubnaʔ-	g’ubnaʔ- 
+364	39-5-141-1	7251454597307916	Hup	hupd1244	the famine	FAMINE	199		g’ub-	g’ub- 
+365	39-5-15-1	7251454203955754	Hup	hupd1244	to be thirsty	THIRSTY	847		hɔwæd-	hɔwæd- 
+366	39-5-16-1	7251454785269027	Hup	hupd1244	to suck	SUCK	1421		ʔay’-	ʔay’- 
+367	39-5-18-1	7251454581416253	Hup	hupd1244	to chew	CHEW	321		y’aw’-	y’aw’- 
+368	39-5-181-1	7251454328469904	Hup	hupd1244	to swallow	SWALLOW	897		yaŋ-	yaŋ- 
+369	39-5-19-1	7251454368290103	Hup	hupd1244	to choke	CHOKE	129		kãk-	kãk- 
+370	39-5-21-1	7251454332246428	Hup	hupd1244	to cook	COOK (SOMETHING)	1100		j’ɨw-	j’ɨw- 
+371	39-5-22-1	7251454143170097	Hup	hupd1244	to boil	BOIL (OF LIQUID)	792		wɔç-	wɔç- 
+372	39-5-23-1	7251454315026866	Hup	hupd1244	to roast or fry	ROAST OR FRY	2146		yæ̃ʔ-	yæ̃ʔ- 
+373	39-5-23-2	7251455870536173	Hup	hupd1244	to roast or fry	ROAST OR FRY	2146		prita-	prita- 
+374	39-5-24-1	7251454818453929	Hup	hupd1244	to bake	BAKE	183		b’aʔ-	b’aʔ- 
+375	39-5-25-1	7251454558705051	Hup	hupd1244	the oven	OVEN	1143		b’ɔkkáb	b’ɔkkáb 
+376	39-5-26-1	7251454844218769	Hup	hupd1244	the pot	POT	1462		mɔmb’ɔ́k	mɔmb’ɔ́k 
+377	39-5-28-1	7251454844218769	Hup	hupd1244	the pan	PAN	31		mɔmb’ɔ́k	mɔmb’ɔ́k 
+378	39-5-31-1	7251454279642587	Hup	hupd1244	the dish	DISH	481		wæ̌db’ɔk	wæ̌db’ɔk 
+379	39-5-31-2	7251455726054425	Hup	hupd1244	the dish	DISH	481		padátu	padátu 
+380	39-5-32-1	7251454279642587	Hup	hupd1244	the plate	PLATE	480		wæ̌db’ɔk	wæ̌db’ɔk 
+381	39-5-32-2	7251455726054425	Hup	hupd1244	the plate	PLATE	480		padátu	padátu 
+382	39-5-33-1	7251454953545505	Hup	hupd1244	the bowl	BOWL	1530		b’ɔ̌ʔ	b’ɔ̌ʔ 
+383	39-5-35-1	7251454135726249	Hup	hupd1244	the cup	CUP	476		kópu	kópu 
+384	39-5-35-2	7251455548897054	Hup	hupd1244	the cup	CUP	476		ʔə̌g b’ɔk	ʔə̌g b’ɔk 
+385	39-5-37-1	725145454953781	Hup	hupd1244	the spoon	SPOON	1378		wæ̌db’ah	wæ̌db’ah 
+386	39-5-37-2	7251455714874166	Hup	hupd1244	the spoon	SPOON	1378		koyéw	koyéw 
+387	39-5-38-1	7251454216853784	Hup	hupd1244	the knife(1)	KNIFE (FOR EATING)	3210		wǎn	wǎn 
+388	39-5-39-1	725145473473580	Hup	hupd1244	the fork	FORK	1302		cɔ̌hteg	cɔ̌hteg 
+389	39-5-41-1	7251454512259762	Hup	hupd1244	the meal	MEAL	1526		b’ɔ́k (2)	b’ɔ́k (2) 
+390	39-5-46-1	7251455588934530	Hup	hupd1244	to peel	PEEL	275		g’ob-	g’ob- 
+391	39-5-46-2	7251455568744763	Hup	hupd1244	to peel	PEEL	275		koʔ-	koʔ- 
+392	39-5-47-1	7251455298345216	Hup	hupd1244	to sieve or to strain	SIEVE	86		yah-	yah- 
+393	39-5-48-1	7251455645505496	Hup	hupd1244	to scrape	SCRAPE	1767		hæw-	hæw- 
+394	39-5-49-1	7251455480693666	Hup	hupd1244	to stir or to mix	MIX	2017		wot-	wot- 
+395	39-5-49-2	7251455575520589	Hup	hupd1244	to stir or to mix	MIX	2017		mɔnæ-	mɔnæ- 
+396	39-5-49-3	7251455526178969	Hup	hupd1244	to stir or to mix	MIX	2017		hikaku-	hikaku- 
+397	39-5-51-1	7251455287160093	Hup	hupd1244	the bread	BREAD	1368		pã´w	pã´w 
+398	39-5-53-1	725145589577021	Hup	hupd1244	the dough	DOUGH	273		cǎk	cǎk 
+399	39-5-54-1	7251455658780091	Hup	hupd1244	to knead	KNEAD	274		nuh-	nuh- 
+400	39-5-55-1	7251455835198296	Hup	hupd1244	the flour	FLOUR	1594		kæ̌n	kæ̌n 
+401	39-5-56-1	725145546594535	Hup	hupd1244	to crush or to grind	GRIND	1033		tok-	tok- 
+402	39-5-56-2	7251455559986611	Hup	hupd1244	to crush or to grind	GRIND	1033		dɨp-	dɨp- 
+403	39-5-58-1	7251455768355704	Hup	hupd1244	the mortar(1)	MORTAR CRUSHER	224		tǒkteg	tǒkteg 
+404	39-5-59-1	7251455768355704	Hup	hupd1244	the pestle	PESTLE	225		tǒkteg	tǒkteg 
+405	39-5-61-1	7251455935118999	Hup	hupd1244	the meat	MEAT	634		hũ d’áp	hũ d’áp 
+406	39-5-64-1	7251455256306754	Hup	hupd1244	the soup	SOUP	1547		cópa	cópa 
+407	39-5-65-1	7251455801091218	Hup	hupd1244	the vegetables	VEGETABLES	924		vedúra	vedúra 
+408	39-5-66-1	7251455618408584	Hup	hupd1244	the bean	BEAN	832		peyã´w	peyã´w 
+409	39-5-7-1	7251455792506168	Hup	hupd1244	the potato	POTATO	593		píʔ	píʔ 
+410	39-5-71-1	7251455912603503	Hup	hupd1244	the fruit	FRUIT	1507		ʔág	ʔág 
+411	39-5-712-1	7251455293336787	Hup	hupd1244	the bunch	BUNCH	1966		-b’ak	-b’ak 
+412	39-5-76-1	7251455923593880	Hup	hupd1244	the grape	GRAPE	920		pɨ̌ŋ	pɨ̌ŋ 
+413	39-5-77-1	7251455989953783	Hup	hupd1244	the nut	NUT	191		-tat	-tat 
+414	39-5-79-1	7251455432314683	Hup	hupd1244	the oil	OIL (ORGANIC SUBSTANCE)	1484		náŋ	náŋ 
+415	39-5-791-1	7251455432314683	Hup	hupd1244	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		náŋ	náŋ 
+416	39-5-81-1	7251455253219019	Hup	hupd1244	the salt	SALT	1274		b’ǒh	b’ǒh 
+417	39-5-821-1	7251455672071950	Hup	hupd1244	the chili pepper	CHILI PEPPER	919		kɔ́w	kɔ́w 
+418	39-5-84-1	7251455789809024	Hup	hupd1244	the honey	HONEY	942		nǽŋ	nǽŋ 
+419	39-5-85-1	7251455155216904	Hup	hupd1244	the sugar	SUGAR	862		ʔacúka	ʔacúka 
+420	39-5-86-1	7251455159358328	Hup	hupd1244	the milk	MILK	635		puděh	puděh 
+421	39-5-86-2	7251455546227747	Hup	hupd1244	the milk	MILK	635		déti	déti 
+422	39-5-9-1	7251455503333037	Hup	hupd1244	the drink	BEVERAGE	731		ʔə̌g	ʔə̌g 
+423	39-5-93-1	7251455847923794	Hup	hupd1244	the beer	BEER	1639		cervéca	cervéca 
+424	39-5-94-1	7251455491522631	Hup	hupd1244	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		húptok	húptok 
+425	39-5-97-1	7251455549675473	Hup	hupd1244	the egg	EGG	744		-tip	-tip 
+426	39-5-971-1	725145553559500	Hup	hupd1244	the yolk	YOLK	1556		tɨhdó	tɨhdó 
+427	39-6-11-1	7251455602167154	Hup	hupd1244	to put on	PUT ON	158		cud-	cud- 
+428	39-6-12-1	7251455394737100	Hup	hupd1244	the clothing or clothes	CLOTHES	1895		yǔd	yǔd 
+429	39-6-21-1	7251455394737100	Hup	hupd1244	the cloth	CLOTH	1616		yǔd	yǔd 
+430	39-6-24-1	7251455896329023	Hup	hupd1244	the cotton	COTTON	1850		cuwǔk	cuwǔk 
+431	39-6-28-1	725145511656707	Hup	hupd1244	the fur	FUR	580		hũ pã´t	hũ pã´t 
+432	39-6-29-1	72514553162592	Hup	hupd1244	the leather	LEATHER	629		hũ b’ɔ́k	hũ b’ɔ́k 
+433	39-6-31-1	7251455462336008	Hup	hupd1244	to spin	SPIN	121		cɔbɔt-	cɔbɔt- 
+434	39-6-33-1	725145580301311	Hup	hupd1244	to weave	WEAVE	133		d’ab-	d’ab- 
+435	39-6-35-1	7251455111323155	Hup	hupd1244	to sew	SEW	1457		hicuh-	hicuh- 
+436	39-6-36-1	7251455148784669	Hup	hupd1244	the needle(1)	NEEDLE (FOR SEWING)	1382		mǎcʔut	mǎcʔut 
+437	39-6-38-1	7251455400726122	Hup	hupd1244	the thread	THREAD	1161		yutá	yutá 
+438	39-7-37-1	7251455295568194	Hup	hupd1244	the ladder	LADDER	1464		cikáda	cikáda 
+439	39-7-37-2	725145581316158	Hup	hupd1244	the ladder	LADDER	1464		cákapteg	cákapteg 
+440	39-6-42-1	7251455695892499	Hup	hupd1244	the (woman's) dress	DRESS	474		tãʔã´y yud	tãʔã´y yud 
+441	39-6-44-1	7251455561331142	Hup	hupd1244	the shirt	SHIRT	1622		caccǔd	caccǔd 
+442	39-6-46-1	7251455695892499	Hup	hupd1244	the skirt	SKIRT	1600		tãʔã´y yud	tãʔã´y yud 
+443	39-6-48-1	7251455628702258	Hup	hupd1244	the trousers	TROUSERS	809		tɔkcǔd	tɔkcǔd 
+444	39-6-49-1	7251455979818882	Hup	hupd1244	the sock or stocking	STOCKING	329		méya	méya 
+445	39-6-51-1	7251455717569138	Hup	hupd1244	the shoe	SHOE	1381		candária	candária 
+446	39-6-51-2	7251455475744908	Hup	hupd1244	the shoe	SHOE	1381		capátu	capátu 
+447	39-6-52-1	7251455181696639	Hup	hupd1244	the boot	BOOT	585		bóta	bóta 
+448	39-6-55-1	7251455578763821	Hup	hupd1244	the hat or cap	HEADGEAR	2130		nuhuy-tǔk	nuhuy-tǔk 
+449	39-6-55-2	7251455500886921	Hup	hupd1244	the hat or cap	HEADGEAR	2130		boné	boné 
+450	39-6-57-1	7251455241882816	Hup	hupd1244	the belt	BELT	772		wãˇʔ	wãˇʔ 
+451	39-6-61-1	7251455234332390	Hup	hupd1244	the pocket	POCKET	1851		bóca	bóca 
+452	39-6-62-1	7251455170461955	Hup	hupd1244	the button	BUTTON	757		mutã´w	mutã´w 
+453	39-6-71-1	7251455306810423	Hup	hupd1244	the ornament or adornment	ORNAMENT	917		hup bɨ́ʔɨp	hup bɨ́ʔɨp 
+454	39-6-73-1	7251455800466347	Hup	hupd1244	the ring	RING	1374		d’apũh d’ǎk	d’apũh d’ǎk 
+455	39-6-74-1	7251455698417876	Hup	hupd1244	the bracelet	BRACELET	1754		mumuy d’ǎk	mumuy d’ǎk 
+456	39-6-75-1	7251455467388032	Hup	hupd1244	the necklace	NECKLACE	1961		g’ǎç	g’ǎç 
+457	39-6-76-1	7251455467388032	Hup	hupd1244	the bead	BEAD	1860		g’ǎç	g’ǎç 
+458	39-6-77-1	7251455528092573	Hup	hupd1244	the earring	EARRING	770		b’ɔtɔk g’ãˇʔ	b’ɔtɔk g’ãˇʔ 
+459	39-6-78-1	7251455613855651	Hup	hupd1244	the headband or headdress	HEADBAND	330		pãt tǔd	pãt tǔd 
+460	39-6-78-2	7251455303098361	Hup	hupd1244	the headband or headdress	HEADBAND	330		pãt wɔ̌t	pãt wɔ̌t 
+461	39-6-81-1	7251455523857227	Hup	hupd1244	the handkerchief or rag	RAG	332		nǽcũb’ah	nǽcũb’ah 
+462	39-6-82-1	7251455625302152	Hup	hupd1244	the towel	TOWEL	1021		toáya	toáya 
+463	39-6-91-1	7251455808170880	Hup	hupd1244	the comb	COMB	1475		pə̌ç	pə̌ç 
+464	39-6-92-1	7251455808170880	Hup	hupd1244	the brush	BRUSH	1821		pə̌ç	pə̌ç 
+465	39-6-921-1	7251455347963306	Hup	hupd1244	the plait/braid	BRAID	1043		b’ek-	b’ek- 
+466	39-6-94-1	7251455883844686	Hup	hupd1244	the ointment	OINTMENT	1926		wókteg	wókteg 
+467	39-6-95-1	7251455107946971	Hup	hupd1244	the soap	SOAP	788		cabonéci	cabonéci 
+468	39-6-96-1	7251455623561598	Hup	hupd1244	the mirror	MIRROR	1171		mɔyə̌k	mɔyə̌k 
+469	39-7-11-1	7251455888216555	Hup	hupd1244	to live	DWELL (LIVE, RESIDE)	363		ni-	ni- 
+470	39-7-12-1	7251455606635329	Hup	hupd1244	the house	HOUSE	1252		mɔ̌y	mɔ̌y 
+471	39-7-13-1	7251455130460613	Hup	hupd1244	the hut	HUT	1678		bɔyɔ̌h	bɔyɔ̌h 
+472	39-7-17-1	7251455866930619	Hup	hupd1244	the cookhouse	COOKHOUSE	334		wæ̌d bɨ̌ʔ mɔy	wæ̌d bɨ̌ʔ mɔy 
+473	39-7-18-1	7251455882895378	Hup	hupd1244	the meeting house	MEETING HOUSE	335		ʔə̌g mɔy	ʔə̌g mɔy 
+474	39-7-18-2	725145595575466	Hup	hupd1244	the meeting house	MEETING HOUSE	335		kudúbi	kudúbi 
+475	39-7-21-1	7251455893615252	Hup	hupd1244	the room	ROOM	1450		tóg’	tóg’ 
+476	39-7-22-1	7251455991760265	Hup	hupd1244	the door or gate	DOOR	1567		mɔyɔ́	mɔyɔ́ 
+477	39-7-221-1	7251455887476881	Hup	hupd1244	the doorpost	DOORPOST	80		mɔy túʔ	mɔy túʔ 
+478	39-7-23-1	72514559081987	Hup	hupd1244	the lock	LOCK	1596		bíb’teg	bíb’teg 
+479	39-7-24-1	7251455644518057	Hup	hupd1244	the key	KEY	1472		cáwi	cáwi 
+480	39-7-25-1	7251455991760265	Hup	hupd1244	the window	WINDOW	1375		mɔyɔ́	mɔyɔ́ 
+481	39-7-26-1	7251455193345734	Hup	hupd1244	the floor	FLOOR	1632		tú (1)	tú (1) 
+482	39-7-27-1	7251455322393833	Hup	hupd1244	the wall	WALL (OF HOUSE)	933		ʔúb	ʔúb 
+483	39-7-31-1	7251455174432381	Hup	hupd1244	the fireplace	FIREPLACE	185		těghod	těghod 
+484	39-7-42-1	7251455710859138	Hup	hupd1244	the bed	BED	1663		káma	káma 
+485	39-7-422-1	7251455349820205	Hup	hupd1244	the blanket	BLANKET	806		hikóp	hikóp 
+486	39-7-43-1	7251455954356028	Hup	hupd1244	the chair	CHAIR	1476		kə́d	kə́d 
+487	39-7-44-1	725145596757330	Hup	hupd1244	the table	TABLE	1775		mécab’ah	mécab’ah 
+488	39-7-45-1	7251455652351095	Hup	hupd1244	the lamp or torch	TORCH OR LAMP	2131		j’áʔ	j’áʔ 
+489	39-7-45-2	7251455523077097	Hup	hupd1244	the lamp or torch	TORCH OR LAMP	2131		tǔjtod’	tǔjtod’ 
+490	39-7-46-1	7251455478596026	Hup	hupd1244	the candle	CANDLE	1273		wéda	wéda 
+491	39-7-47-1	7251455730759932	Hup	hupd1244	the shelf	SHELF	745		wáb	wáb 
+492	39-7-48-1	7251455270896230	Hup	hupd1244	the trough	TROUGH	205		tǎh wæ̌dhɔb	tǎh wæ̌dhɔb 
+493	39-7-51-1	7251455666916010	Hup	hupd1244	the roof	ROOF	769		mɔ̌yb’ah	mɔ̌yb’ah 
+494	39-7-52-1	7251455318986981	Hup	hupd1244	the thatch	THATCH	279		tɔ́pg’æt	tɔ́pg’æt 
+495	39-7-53-1	7251455283210221	Hup	hupd1244	the ridgepole	RIDGEPOLE	280		mɔ̌y c’ujtǐh	mɔ̌y c’ujtǐh 
+496	39-7-54-1	7251455743839622	Hup	hupd1244	the rafter	RAFTER	829		mɔy yǒk	mɔy yǒk 
+497	39-7-55-1	7251455764614531	Hup	hupd1244	the beam	BEAM	1132		kǝtǝgd’ǎk	kǝtǝgd’ǎk 
+498	39-7-56-1	7251455887476881	Hup	hupd1244	the post or pole	POST	281		mɔy túʔ	mɔy túʔ 
+499	39-7-57-1	7251455476492988	Hup	hupd1244	the board	BOARD	1227		tábwab’ah	tábwab’ah 
+500	39-7-62-1	725145535214243	Hup	hupd1244	the brick	BRICK	1006		m’ǎy’ yæ̃ʔ	m’ǎy’ yæ̃ʔ 
+501	39-8-12-1	7251455629591324	Hup	hupd1244	the field	FIELD	212		b’ɔ̌t	b’ɔ̌t 
+502	39-8-16-1	72514558734979	Hup	hupd1244	the fence	FENCE	1690		hicǎd	hicǎd 
+503	39-8-17-1	725145594914264	Hup	hupd1244	the ditch	DITCH	2002		mamǎp	mamǎp 
+504	39-8-22-1	7251455510403749	Hup	hupd1244	to dig	DIG	1418		hat-	hat- 
+505	39-8-23-1	7251455968218377	Hup	hupd1244	the spade	SPADE	1176		pá	pá 
+506	39-8-24-1	7251455968218377	Hup	hupd1244	the shovel	SHOVEL	1901		pá	pá 
+507	39-8-25-1	7251455176829535	Hup	hupd1244	the hoe	HOE	284		cɔ̌c	cɔ̌c 
+508	39-8-311-1	7251455902364719	Hup	hupd1244	the seed	SEED	714		-wɨg	-wɨg 
+509	39-8-32-1	7251455632779379	Hup	hupd1244	to mow	MOW	190		maç-	maç- 
+510	39-8-47-1	72514551416922	Hup	hupd1244	the maize/corn	MAIZE	506		pɨhɨtyǔm	pɨhɨtyǔm 
+511	39-8-48-1	7251455516896374	Hup	hupd1244	the rice	RICE	926		ʔarócu	ʔarócu 
+512	39-8-51-1	7251455714603120	Hup	hupd1244	the grass	GRASS	606		cǐh	cǐh 
+513	39-8-52-1	7251455371443956	Hup	hupd1244	the hay	HAY	342		cǐh hə́b	cǐh hə́b 
+514	39-8-53-1	7251455915441516	Hup	hupd1244	the plant	PLANT (VEGETATION)	653		yúm	yúm 
+515	39-8-531-1	7251455326558826	Hup	hupd1244	to plant	PLANT (SOMETHING)	1486		yum-	yum- 
+516	39-8-531-2	7251455623994292	Hup	hupd1244	to plant	PLANT (SOMETHING)	1486		cĩy’-	cĩy’- 
+517	39-8-54-1	7251455824482221	Hup	hupd1244	the root	ROOT	670		tǐh	tǐh 
+518	39-8-55-1	7251455521834186	Hup	hupd1244	the branch	BRANCH OR TWIG	3223		-nɔw	-nɔw 
+519	39-8-56-1	7251455319546688	Hup	hupd1244	the leaf	LEAF	628		cug’æ̌t (2)	cug’æ̌t (2) 
+520	39-8-57-1	7251455254583273	Hup	hupd1244	the flower	FLOWER	239		c’ɔ́	c’ɔ́ 
+521	39-8-6-1	7251454571385669	Hup	hupd1244	the tree	TREE	906		tegd’ǔh	tegd’ǔh 
+522	39-8-67-1	7251455288093409	Hup	hupd1244	the vine	VINE	343		tɨ́t	tɨ́t 
+523	39-8-68-1	7251455704559684	Hup	hupd1244	the tobacco	TOBACCO	974		hũˇt	hũˇt 
+524	39-8-69-1	7251455301937533	Hup	hupd1244	to smoke	SMOKE (INHALE)	1689		ʔun’-	ʔun’- 
+525	39-8-72-1	7251455496982260	Hup	hupd1244	the tree stump	TREE STUMP	241		b’ɔ̌tdɨ́d	b’ɔ̌tdɨ́d 
+526	39-8-73-1	72514554943929	Hup	hupd1244	the tree trunk	TREE TRUNK	344		c’ǎt	c’ǎt 
+527	39-8-74-1	7251455133235882	Hup	hupd1244	the forked branch	FORKED BRANCH	409		nɔw cacác	nɔw cacác 
+528	39-8-75-1	72514554716390	Hup	hupd1244	the bark	BARK	1204		-b’ɔk	-b’ɔk 
+529	39-8-76-1	725145517712805	Hup	hupd1244	the sap	SAP	345		-deh	-deh 
+530	39-8-82-1	7251455537372952	Hup	hupd1244	the coconut	COCONUT	970		kóku	kóku 
+531	39-8-83-1	7251455887539094	Hup	hupd1244	the citrus fruit	CITRUS FRUIT	1126		naránya	naránya 
+532	39-8-83-2	7251455190375001	Hup	hupd1244	the citrus fruit	CITRUS FRUIT	1126		wirimɔ́	wirimɔ́ 
+533	39-8-84-1	7251455987971452	Hup	hupd1244	the banana	BANANA	868		pɨhɨ́t	pɨhɨ́t 
+534	39-8-92-1	7251455486340291	Hup	hupd1244	the cassava/manioc	CASSAVA	925		kayaktɔ́ʔ	kayaktɔ́ʔ 
+535	39-8-93-1	7251454953545505	Hup	hupd1244	the gourd	GOURD	411		b’ɔ̌ʔ	b’ɔ̌ʔ 
+536	39-8-931-1	7251455299153	Hup	hupd1244	the pumpkin or squash	PUMPKIN	864		b’ɔʔwæ̌d	b’ɔʔwæ̌d 
+537	39-8-941-1	7251455614856870	Hup	hupd1244	the sugar cane	SUGAR CANE	146		mǔhteg	mǔhteg 
+538	39-8-96-1	7251455642394415	Hup	hupd1244	the fish poison	FISH POISON	348		d’ǔç	d’ǔç 
+539	39-8-98-1	7251455770764543	Hup	hupd1244	the mushroom	MUSHROOM	641		pə́b’	pə́b’ 
+540	39-9-11-1	7251455769480029	Hup	hupd1244	to do	DO	813		bɨʔ-	bɨʔ- 
+541	39-9-12-1	7251455769480029	Hup	hupd1244	the work	WORK (LABOUR)	984		bɨʔ-	bɨʔ- 
+542	39-9-14-1	725145569417666	Hup	hupd1244	to bend	BEND	2004		totoy-	totoy- 
+543	39-9-15-1	7251455395077836	Hup	hupd1244	to fold	FOLD	1470		camam-	camam- 
+544	39-9-16-1	7251455596211457	Hup	hupd1244	to tie	TIE	1917		j’ɨp-	j’ɨp- 
+545	39-9-16-2	725145520448493	Hup	hupd1244	to tie	TIE	1917		hɔ̃w’-	hɔ̃w’- 
+546	39-9-161-1	7251455626014038	Hup	hupd1244	to untie	UNTIE	352		cod-	cod- 
+547	39-9-19-1	7251455288093409	Hup	hupd1244	the rope	ROPE	1218		tɨ́t	tɨ́t 
+548	39-9-192-1	7251455534813877	Hup	hupd1244	the knot	KNOT	760		hɔ̃´w’	hɔ̃´w’ 
+549	39-9-192-2	7251455442997043	Hup	hupd1244	the knot	KNOT	760		kukú	kukú 
+550	39-9-21-1	7251455132899760	Hup	hupd1244	to strike or hit or beat	STRIKE OR BEAT	2133		mæh-	mæh- 
+551	39-9-211-1	7251455532276381	Hup	hupd1244	to pound	POUND	354		j’ɔŋ-	j’ɔŋ- 
+552	39-9-22-1	7251455793277607	Hup	hupd1244	to cut	CUT	1432		hɔ̃k-	hɔ̃k- 
+553	39-9-221-1	7251455692938687	Hup	hupd1244	to cut down	CUT DOWN	355		b’ɔt-	b’ɔt- 
+554	39-9-222-1	7251455836036222	Hup	hupd1244	to chop	CHOP	155		kɨt-	kɨt- 
+555	39-9-223-1	7251455485892454	Hup	hupd1244	to stab	STAB TO DEATH	3189		yok-	yok- 
+556	39-9-23-1	7251454216853784	Hup	hupd1244	the knife(2)	KNIFE	1352		wǎn	wǎn 
+557	39-9-24-1	7251455757079104	Hup	hupd1244	the scissors or shears	SHEARS	356		hæ̌y’b’ah	hæ̌y’b’ah 
+558	39-9-25-1	7251455299440309	Hup	hupd1244	the axe/ax	AXE	677		mɔ̌m (1)	mɔ̌m (1) 
+559	39-9-26-1	7251455214776999	Hup	hupd1244	to break	BREAK (DESTROY OR GET DESTROYED)	680		kǝbǝk-	kǝbǝk- 
+560	39-9-26-2	7251455593773420	Hup	hupd1244	to break	BREAK (DESTROY OR GET DESTROYED)	680		tǝh-	tǝh- 
+561	39-9-261-1	7251455854739126	Hup	hupd1244	broken	BROKEN (NOT WORKING)	3190		payyɨʔ-	payyɨʔ- 
+562	39-9-27-1	7251455374694503	Hup	hupd1244	to split	SPLIT	1437		b’ah-	b’ah- 
+563	39-9-28-1	7251455797881002	Hup	hupd1244	to tear	TEAR (SHRED)	1735		cæ̃y’-	cæ̃y’- 
+564	39-9-29-1	7251455874771580	Hup	hupd1244	to skin	PULL OFF (SKIN)	291		yɔj-	yɔj- 
+565	39-9-31-1	7251455168713485	Hup	hupd1244	to rub	RUB	1449		yɔyɔp-	yɔyɔp- 
+566	39-9-32-1	7251455947168864	Hup	hupd1244	to stretch	STRETCH	214		y’ɔʔ-	y’ɔʔ- 
+567	39-9-33-1	7251455662437445	Hup	hupd1244	to pull	PULL	1455		kǝk-	kǝk- 
+568	39-9-34-1	7251455795862108	Hup	hupd1244	to spread out	SPREAD OUT	38		hicæp-	hicæp- 
+569	39-9-341-1	7251455330249826	Hup	hupd1244	to hang up	HANG UP	357		d’oʔg’ãʔ-	d’oʔg’ãʔ- 
+570	39-9-342-1	7251455603690848	Hup	hupd1244	to press	PRESS	1913		m’æc-	m’æc- 
+571	39-9-343-1	725145597320223	Hup	hupd1244	to squeeze	SQUEEZE	1414		koʔwow’-	koʔwow’- 
+572	39-9-35-1	7251455338309123	Hup	hupd1244	to pour	POUR	1487		b’ǝh-	b’ǝh- 
+573	39-9-36-1	7251455625542219	Hup	hupd1244	to wash	WASH	1453		j’id-	j’id- 
+574	39-9-37-1	725145527409301	Hup	hupd1244	to sweep	SWEEP	230		hæp-	hæp- 
+575	39-9-38-1	7251455563497317	Hup	hupd1244	the broom	BROOM	245		hæpb’ɔ̌g	hæpb’ɔ̌g 
+576	39-9-422-1	7251455889976378	Hup	hupd1244	the tool	TOOL	1361		bɨ̌ʔteg	bɨ̌ʔteg 
+577	39-9-44-1	7251455769480029	Hup	hupd1244	to build	BUILD	1840		bɨʔ-	bɨʔ- 
+578	39-9-46-1	7251455524195270	Hup	hupd1244	to bore	BORE	1501		yoktod-	yoktod- 
+579	39-9-461-1	7251455901622078	Hup	hupd1244	to hollow out	HOLLOW OUT	46		tod-	tod- 
+580	39-9-461-2	7251455206429774	Hup	hupd1244	to hollow out	HOLLOW OUT	46		cɔh-	cɔh- 
+581	39-9-48-1	7251455614720801	Hup	hupd1244	the saw	SAW	1948		tegd’uhhɔ̃ˇk	tegd’uhhɔ̃ˇk 
+582	39-9-49-1	7251455836054033	Hup	hupd1244	the hammer	HAMMER	1481		barutéru	barutéru 
+583	39-9-5-1	7251455722953867	Hup	hupd1244	the nail	NAIL (TOOL)	502		pǝrégu	pǝrégu 
+584	39-9-56-1	7251455475923829	Hup	hupd1244	the glue	GLUE	1069		tǎk	tǎk 
+585	39-9-56-2	7251455198238248	Hup	hupd1244	the glue	GLUE	1069		hicɨʔteg	hicɨʔteg 
+586	39-9-67-1	7251455503114728	Hup	hupd1244	the iron	IRON	621		mɔ̌m (2)	mɔ̌m (2) 
+587	39-9-68-1	7251455984424874	Hup	hupd1244	the lead	LEAD (CHEMICAL ELEMENT)	627		cúmbu	cúmbu 
+588	39-9-69-1	7251455166961685	Hup	hupd1244	the tin or tinplate	TIN OR TINPLATE	3217		mǎc	mǎc 
+589	39-9-72-1	7251455395898017	Hup	hupd1244	to mould/mold	MOLD	289		m’ǎy’b’ɔk bɨʔ-	m’ǎy’b’ɔk bɨʔ- 
+590	39-9-73-1	7251455864442550	Hup	hupd1244	the clay	CLAY	1399		m’ǎy’	m’ǎy’ 
+591	39-9-74-1	7251455174032742	Hup	hupd1244	the glass	GLASS	604		mɔyə̌kb’ah	mɔyə̌kb’ah 
+592	39-9-74-2	7251455477560930	Hup	hupd1244	the glass	GLASS	604		wídriu	wídriu 
+593	39-9-75-1	7251455589635975	Hup	hupd1244	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		cæ̃c-	cæ̃c- 
+594	39-9-75-2	7251455160872386	Hup	hupd1244	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		g’ud-	g’ud- 
+595	39-9-76-1	7251455972101215	Hup	hupd1244	the basket	BASKET	1539		máj	máj 
+596	39-9-79-1	7251455159970714	Hup	hupd1244	the fan	FAN (OBJECT)	1971		hěb’	hěb’ 
+597	39-9-791-1	7251455910901562	Hup	hupd1244	to fan	FAN ACTION	360		heb’-	heb’- 
+598	39-9-81-1	725145575296303	Hup	hupd1244	to carve	CARVE	228		cǝk-	cǝk- 
+599	39-9-88-1	725145550570422	Hup	hupd1244	the paint	PAINT (PIGMENTS)	647		pintáteg	pintáteg 
+600	39-9-88-2	7251455469159637	Hup	hupd1244	the paint	PAINT (PIGMENTS)	647		hə̌w	hə̌w 
+601	39-9-88-3	725145521603066	Hup	hupd1244	the paint	PAINT (PIGMENTS)	647		d’ǎd	d’ǎd 
+602	39-9-89-1	7251455877692751	Hup	hupd1244	to paint	PAINTING	2001		pinta-	pinta- 
+603	39-9-89-2	725145567783929	Hup	hupd1244	to paint	PAINTING	2001		hɨʔ-	hɨʔ- 
+604	39-9-89-3	7251455566897347	Hup	hupd1244	to paint	PAINTING	2001		wok-	wok- 
+605	39-10-13-1	7251455981799316	Hup	hupd1244	to turn around	TURN (SOMETHING)	1445		hupkǝd-	hupkǝd- 
+606	39-10-13-2	7251455362633205	Hup	hupd1244	to turn around	TURN (SOMETHING)	1445		d’oʔkǝd-	d’oʔkǝd- 
+607	39-10-14-1	7251455950802146	Hup	hupd1244	to wrap	WRAP	1113		bud’-	bud’- 
+608	39-10-15-1	7251455969240513	Hup	hupd1244	to roll	ROLL	827		d’oʔpǝpǝd-	d’oʔpǝpǝd- 
+609	39-10-16-1	72514552605152	Hup	hupd1244	to drop	DROP (SOMETHING)	2866		duʔ-	duʔ- 
+610	39-10-17-1	7251455611407125	Hup	hupd1244	to twist	TWIST (AROUND)	3199		kǝbǝt-	kǝbǝt- 
+611	39-10-21-1	725145550592575	Hup	hupd1244	to rise	RISE (MOVE UPWARDS)	568		cak-	cak- 
+612	39-10-22-1	7251455777119715	Hup	hupd1244	to raise or lift	LIFT	501		d’oʔcak-	d’oʔcak- 
+613	39-10-23-1	7251455962005696	Hup	hupd1244	to fall	FALL	1280		nɔh-	nɔh- 
+614	39-10-24-1	7251455630887550	Hup	hupd1244	to drip	DRIP (EMIT LIQUID)	2253		hut-	hut- 
+615	39-10-25-1	7251455527536200	Hup	hupd1244	to throw	THROW	1456		b’uy-	b’uy- 
+616	39-10-252-1	7251455386332025	Hup	hupd1244	to catch	CATCH	702		cuʔ-	cuʔ- 
+617	39-10-26-1	7251455777428465	Hup	hupd1244	to shake	SHAKE	1909		y’ũy’ũy’-	y’ũy’ũy’- 
+618	39-10-26-2	7251455314562398	Hup	hupd1244	to shake	SHAKE	1909		ʔoʔok-	ʔoʔok- 
+619	39-10-32-1	7251455518445340	Hup	hupd1244	to flow	FLOW	2003		hi-	hi- 
+620	39-10-33-1	7251455342904327	Hup	hupd1244	to sink	SINK (DESCEND)	1088		g’ǝm-	g’ǝm- 
+621	39-10-34-1	7251455967432153	Hup	hupd1244	to float	FLOAT	1574		popow-	popow- 
+622	39-10-35-1	7251455572996030	Hup	hupd1244	to swim	SWIM	1439		j’ɔmham-	j’ɔmham- 
+623	39-10-351-1	725145535485411	Hup	hupd1244	to dive	DIVE	119		j’ǝknɔhtuʔ-	j’ǝknɔhtuʔ- 
+624	39-10-352-1	7251455770401490	Hup	hupd1244	to splash	SPLASH	365		hicũ-	hicũ- 
+625	39-10-37-1	725145592694123	Hup	hupd1244	to fly	FLY (MOVE THROUGH AIR)	1441		wayd’oʔ-	wayd’oʔ- 
+626	39-10-38-1	7251455673139922	Hup	hupd1244	to blow	BLOW (OF WIND)	175		pohow’-	pohow’- 
+627	39-10-41-1	7251455831780989	Hup	hupd1244	to crawl	CRAWL	96		doy-	doy- 
+628	39-10-412-1	7251455757419930	Hup	hupd1244	to kneel	KNEEL	66		capæm-	capæm- 
+629	39-10-413-1	7251455239116521	Hup	hupd1244	to crouch	CROUCH	296		bogpæm-	bogpæm- 
+630	39-10-42-1	7251455581994945	Hup	hupd1244	to slide or slip	SLIP	1324		cædæw-	cædæw- 
+631	39-10-43-1	7251455747696366	Hup	hupd1244	to jump	JUMP	1829		j’ǝk-	j’ǝk- 
+632	39-10-431-1	7251455880674458	Hup	hupd1244	to kick	KICK	1135		tac-	tac- 
+633	39-10-44-1	7251455898215285	Hup	hupd1244	to dance	DANCE	1879		yam-	yam- 
+634	39-10-45-1	7251455347275125	Hup	hupd1244	to walk	WALK	1443		g’etg’oʔ-	g’etg’oʔ- 
+635	39-10-451-1	7251455456244884	Hup	hupd1244	to limp	LIMP	366		kidig-	kidig- 
+636	39-10-46-1	7251455590389876	Hup	hupd1244	to run	RUN	1519		tɔʔɔh-	tɔʔɔh- 
+637	39-10-47-1	7251455200038113	Hup	hupd1244	to go	GO	695		ham-	ham- 
+638	39-10-471-1	725145550592575	Hup	hupd1244	to go up	GO UP (ASCEND)	705		cak-	cak- 
+639	39-10-472-1	725145550592575	Hup	hupd1244	to climb	CLIMB	1102		cak-	cak- 
+640	39-10-473-1	7251455518445340	Hup	hupd1244	to go down	GO DOWN (DESCEND)	2014		hi-	hi- 
+641	39-10-474-1	7251455623605701	Hup	hupd1244	to go out	GO OUT	1107		way-	way- 
+642	39-10-48-1	7251455543218942	Hup	hupd1244	to come	COME	1446		næn-	næn- 
+643	39-10-481-1	7251455751829673	Hup	hupd1244	to come back	COME BACK	581		b’ay-	b’ay- 
+644	39-10-49-1	725145526277532	Hup	hupd1244	to leave	LEAVE	1752		hamyɨʔ-	hamyɨʔ- 
+645	39-10-51-1	7251455200038113	Hup	hupd1244	to flee	FLEE	956		ham-	ham- 
+646	39-10-52-1	7251455655630127	Hup	hupd1244	to follow	FOLLOW	1085		wɔn-	wɔn- 
+647	39-10-53-1	7251455655630127	Hup	hupd1244	to pursue	PURSUE	1047		wɔn-	wɔn- 
+648	39-10-55-1	7251455618495088	Hup	hupd1244	to arrive	ARRIVE	1387		hiwɨd-	hiwɨd- 
+649	39-10-56-1	7251455543218942	Hup	hupd1244	to approach	APPROACH	1778		næn-	næn- 
+650	39-10-57-1	7251455310748485	Hup	hupd1244	to enter	ENTER	749		ye-	ye- 
+651	39-10-61-1	7251455734087018	Hup	hupd1244	to carry	CARRY	700		cet-	cet- 
+652	39-10-612-1	7251455343792459	Hup	hupd1244	to carry in hand	CARRY IN HAND	412		yo-	yo- 
+653	39-10-612-2	7251455770561665	Hup	hupd1244	to carry in hand	CARRY IN HAND	412		tɔn-	tɔn- 
+654	39-10-613-1	7251455415579676	Hup	hupd1244	to carry on shoulder	CARRY ON SHOULDER	413		hũh-	hũh- 
+655	39-10-614-1	7251455935834180	Hup	hupd1244	to carry on head	CARRY ON HEAD	414		hitoy’-	hitoy’- 
+656	39-10-615-1	7251455238596763	Hup	hupd1244	to carry under the arm	CARRY UNDER ARM	415		kæmæm-	kæmæm- 
+657	39-10-62-1	7251455608426211	Hup	hupd1244	to bring	BRING	692		d’oʔnæn-	d’oʔnæn- 
+658	39-10-63-1	7251455374702180	Hup	hupd1244	to send	SEND	1127		d’ǝh-	d’ǝh- 
+659	39-10-64-1	7251455565514789	Hup	hupd1244	to lead	LEAD (GUIDE)	43		cob-	cob- 
+660	39-10-65-1	7251455164026743	Hup	hupd1244	to drive	DRIVE	741		wɔnd’ǝh-	wɔnd’ǝh- 
+661	39-10-66-1	7251455478015866	Hup	hupd1244	to ride	RIDE	367		wob-	wob- 
+662	39-10-67-1	7251455826149387	Hup	hupd1244	to push	PUSH	1452		tu-	tu- 
+663	39-10-67-2	7251455809661647	Hup	hupd1244	to push	PUSH	1452		tɨy-	tɨy- 
+664	39-10-71-1	7251455522080988	Hup	hupd1244	the road	ROAD	667		tiw pǒg	tiw pǒg 
+665	39-10-72-1	725145511340699	Hup	hupd1244	the path	PATH	2252		tíw	tíw 
+666	39-10-74-1	7251455565121857	Hup	hupd1244	the bridge	BRIDGE	1011		b’ěhteg	b’ěhteg 
+667	39-10-75-1	7251455349726504	Hup	hupd1244	the cart or wagon	CART	122		pǝpə́dteg	pǝpə́dteg 
+668	39-10-76-1	7251455964759723	Hup	hupd1244	the wheel	WHEEL	710		pǝpə́dpɔt	pǝpə́dpɔt 
+669	39-10-83-1	7251455707556241	Hup	hupd1244	the boat	BOAT	1844		nácia	nácia 
+670	39-10-831-1	7251455678649965	Hup	hupd1244	the canoe	CANOE	1970		hɔhtěg	hɔhtěg 
+671	39-10-84-1	7251455511720569	Hup	hupd1244	the raft	RAFT	1664		báwca	báwca 
+672	39-10-851-1	7251455300838412	Hup	hupd1244	the paddle	PADDLE	234		hæ̃ˇy’b’ah	hæ̃ˇy’b’ah 
+673	39-10-852-1	7251455737486094	Hup	hupd1244	to row	ROW	1849		hæ̃y’-	hæ̃y’- 
+674	39-10-91-1	7251455858664664	Hup	hupd1244	the port	PORT	610		dehd’óʔ	dehd’óʔ 
+675	39-10-92-1	7251455636972115	Hup	hupd1244	to land	LAND (DESCEND)	1922		pæyæt-	pæyæt- 
+676	39-10-92-2	7251455761706714	Hup	hupd1244	to land	LAND (DESCEND)	1922		hiyæt-	hiyæt- 
+677	39-11-11-1	7251455770561665	Hup	hupd1244	to have	HAVE	773		tɔn-	tɔn- 
+678	39-11-11-2	7251455700326194	Hup	hupd1244	to have	HAVE	773		nɨ-	nɨ- 
+679	39-11-12-1	7251455770561665	Hup	hupd1244	to own	OWN	684		tɔn-	tɔn- 
+680	39-11-13-1	7251455340368467	Hup	hupd1244	to take	TAKE	1749		d’oʔ-	d’oʔ- 
+681	39-11-14-1	7251455386332025	Hup	hupd1244	to grasp	SEIZE	855		cuʔ-	cuʔ- 
+682	39-11-15-1	7251455770561665	Hup	hupd1244	to hold	HOLD	1448		tɔn-	tɔn- 
+683	39-11-16-1	7251455340368467	Hup	hupd1244	to get	GET	694		d’oʔ-	d’oʔ- 
+684	39-11-18-1	7251455815781104	Hup	hupd1244	the thing	THING	738		-teg	-teg 
+685	39-11-18-2	7251455949035026	Hup	hupd1244	the thing	THING	738		hinín’ɨ̌h	hinín’ɨ̌h 
+686	39-11-21-1	7251455305986209	Hup	hupd1244	to give	GIVE	1447		nɔʔ-	nɔʔ- 
+687	39-11-22-1	7251455425977188	Hup	hupd1244	to give back	GIVE BACK	85		wi-	wi- 
+688	39-11-24-1	7251455234696867	Hup	hupd1244	to preserve	PRESERVE	1997		wɔy-	wɔy- 
+689	39-11-27-1	7251455571962587	Hup	hupd1244	to destroy	DESTROY	681		hipay-	hipay- 
+690	39-11-27-2	7251455756332547	Hup	hupd1244	to destroy	DESTROY	681		poʔ-	poʔ- 
+691	39-11-28-1	7251455571962587	Hup	hupd1244	to injure	INJURE	44		hipay-	hipay- 
+692	39-11-31-1	7251455764136823	Hup	hupd1244	to look for	LOOK FOR	1468		yɔhɔy-	yɔhɔy- 
+693	39-11-32-1	725145529357210	Hup	hupd1244	to find	FIND	719		yæ̃wæ̃c-	yæ̃wæ̃c- 
+694	39-11-33-1	7251455603412476	Hup	hupd1244	to lose	LOSE	1660		b’uyd’ǝhyɨʔ-	b’uyd’ǝhyɨʔ- 
+695	39-11-34-1	7251455756332547	Hup	hupd1244	to let go	LET GO OR SET FREE	1095		poʔ-	poʔ- 
+696	39-11-43-1	7251455535399102	Hup	hupd1244	the money	MONEY	1559		yénu	yénu 
+697	39-11-44-1	725145570660016	Hup	hupd1244	the coin	COIN	1867		yénuwɨg	yénuwɨg 
+698	39-11-54-1	7251455234696867	Hup	hupd1244	stingy	STINGY	1774		wɔy-	wɔy- 
+699	39-11-61-1	7251455623605701	Hup	hupd1244	to lend	LEND	582		way-	way- 
+700	39-11-62-1	7251455770679742	Hup	hupd1244	to borrow	BORROW	1823		wayyæ̃h-	wayyæ̃h- 
+701	39-11-63-1	7251455877112215	Hup	hupd1244	to owe	OWE	369		mæytubud-	mæytubud- 
+702	39-11-65-1	7251455527812951	Hup	hupd1244	to pay	PAY	718		mæy-	mæy- 
+703	39-11-78-1	7251455766952260	Hup	hupd1244	the wages	WAGES	1122		mæ̌y	mæ̌y 
+704	39-11-79-1	7251455816481132	Hup	hupd1244	to earn	EARN	733		mæ̌y d’oʔ-	mæ̌y d’oʔ- 
+705	39-11-81-1	7251455804522969	Hup	hupd1244	to buy	BUY	1869		du-	du- 
+706	39-11-82-1	7251455804522969	Hup	hupd1244	to sell	SELL	1571		du-	du- 
+707	39-11-83-1	7251455804522969	Hup	hupd1244	to trade or barter	TRADE OR BARTER	2135		du-	du- 
+708	39-11-86-1	7251455753197014	Hup	hupd1244	the shop/store	STORE	752		dú mɔy	dú mɔy 
+709	39-11-87-1	7251455766952260	Hup	hupd1244	the price	PRICE	657		mæ̌y	mæ̌y 
+710	39-11-88-1	7251455430062385	Hup	hupd1244	expensive	EXPENSIVE	1426		mæy pǒg	mæy pǒg 
+711	39-11-91-1	72514552037125	Hup	hupd1244	to share	SHARE	884		paha-	paha- 
+712	39-11-92-1	7251455601326402	Hup	hupd1244	to weigh	WEIGH	1098		tæ̃ʔkey-	tæ̃ʔkey- 
+713	39-12-01-1	7251455507918090	Hup	hupd1244	after	AFTER	1685		hũˇyʔah	hũˇyʔah 
+714	39-12-011-1	7251455507918090	Hup	hupd1244	behind	BEHIND	1686		hũˇyʔah	hũˇyʔah 
+715	39-12-02-1	7251455305038246	Hup	hupd1244	beside	BESIDE	1816		máh	máh 
+716	39-12-02-2	7251455976777634	Hup	hupd1244	beside	BESIDE	1816		tú (2)	tú (2) 
+717	39-12-03-1	7251455193345734	Hup	hupd1244	down	DOWN	1326		tú (1)	tú (1) 
+718	39-12-04-1	7251455837314437	Hup	hupd1244	before	BEFORE	1882		kɔ̌tʔah	kɔ̌tʔah 
+719	39-12-041-1	7251455837314437	Hup	hupd1244	in front of	IN FRONT OF	1883		kɔ̌tʔah	kɔ̌tʔah 
+720	39-12-05-1	7251455940528626	Hup	hupd1244	inside	INSIDE	1606		g’ǒdan	g’ǒdan 
+721	39-12-06-1	7251455693192169	Hup	hupd1244	outside	OUTSIDE	762		hǎyʔah	hǎyʔah 
+722	39-12-07-1	725145568100863	Hup	hupd1244	under	BELOW OR UNDER	1485		mɨ̌ʔ	mɨ̌ʔ 
+723	39-12-08-1	7251455222840262	Hup	hupd1244	up	UP	1591		póh	póh 
+724	39-12-11-1	7251455699607885	Hup	hupd1244	the place	PLACE (POSITION)	723		-coʔ	-coʔ 
+725	39-12-12-1	7251455969267626	Hup	hupd1244	to put	PUT	998		w’ob-	w’ob- 
+726	39-12-13-1	7251455255934847	Hup	hupd1244	to sit	SIT	1416		pæm-	pæm- 
+727	39-12-14-1	7251455383396755	Hup	hupd1244	to lie down	LIE DOWN	215		yæt-	yæt- 
+728	39-12-15-1	7251455759121976	Hup	hupd1244	to stand	STAND	1442		g’et-	g’et- 
+729	39-12-16-1	725145580458932	Hup	hupd1244	to remain	REMAIN	987		dɨʔ-	dɨʔ- 
+730	39-12-17-1	7251455629243043	Hup	hupd1244	the remains	REMAINS	838		dɨ̌ʔ	dɨ̌ʔ 
+731	39-12-21-1	7251455150510431	Hup	hupd1244	to gather	GATHER	7		cog-	cog- 
+732	39-12-212-1	7251455340368467	Hup	hupd1244	to pick up	PICK UP	371		d’oʔ-	d’oʔ- 
+733	39-12-213-1	725145547056188	Hup	hupd1244	to pile up	PILE UP	1576		bug’g’et-	bug’g’et- 
+734	39-12-22-1	7251455198516362	Hup	hupd1244	to join	JOIN	1743		d’oʔnæ-	d’oʔnæ- 
+735	39-12-23-1	7251455923268149	Hup	hupd1244	to separate	SEPARATE	1359		d’oʔkawa-	d’oʔkawa- 
+736	39-12-232-1	7251455923268149	Hup	hupd1244	to divide	DIVIDE	1119		d’oʔkawa-	d’oʔkawa- 
+737	39-12-24-1	7251455756332547	Hup	hupd1244	to open	OPEN	1156		poʔ-	poʔ- 
+738	39-12-25-1	725145552384519	Hup	hupd1244	to shut	SHUT	1046		bib’-	bib’- 
+739	39-12-26-1	7251455123425853	Hup	hupd1244	to cover	COVER	761		hicuʔ-	hicuʔ- 
+740	39-12-27-1	7251455422281773	Hup	hupd1244	to hide	HIDE (CONCEAL)	602		yǝd-	yǝd- 
+741	39-12-31-1	7251455222840262	Hup	hupd1244	high	HIGH	1265		póh	póh 
+742	39-12-32-1	7251455193345734	Hup	hupd1244	low	LOW	721		tú (1)	tú (1) 
+743	39-12-33-1	7251455945004599	Hup	hupd1244	the top	TOP	1753		buycóʔ	buycóʔ 
+744	39-12-34-1	7251455193345734	Hup	hupd1244	the bottom	BOTTOM	690		tú (1)	tú (1) 
+745	39-12-35-1	725145523595332	Hup	hupd1244	the end(1)	END (OF SPACE)	742		g’ætd’óh	g’ætd’óh 
+746	39-12-352-1	7251455237186869	Hup	hupd1244	pointed	POINTED	372		j’ɨ̌g	j’ɨ̌g 
+747	39-12-353-1	7251455640889833	Hup	hupd1244	the edge	EDGE	863		pə̌w	pə̌w 
+748	39-12-36-1	725145551206297	Hup	hupd1244	the side	SIDE	682		cáʔah	cáʔah 
+749	39-12-37-1	7251455336376983	Hup	hupd1244	the middle	MIDDLE	1093		hæyhɔ́	hæyhɔ́ 
+750	39-12-41-1	7251455479952142	Hup	hupd1244	right(1)	RIGHT	1019		pɨb cáʔah	pɨb cáʔah 
+751	39-12-42-1	7251455601138453	Hup	hupd1244	left	LEFT	244		cɔ̃h cáʔah	cɔ̃h cáʔah 
+752	39-12-43-1	7251455588413899	Hup	hupd1244	near	NEAR	1942		máhyɨʔ	máhyɨʔ 
+753	39-12-44-1	725145584102850	Hup	hupd1244	far	FAR	1406		w’ěh	w’ěh 
+754	39-12-53-1	7251455517607053	Hup	hupd1244	to grow	GROW	479		cap-	cap- 
+755	39-12-54-1	7251455601326402	Hup	hupd1244	to measure	MEASURE	1506		tæ̃ʔkey-	tæ̃ʔkey- 
+756	39-12-55-1	7251455780705473	Hup	hupd1244	big	BIG	1202		póg	póg 
+757	39-12-56-1	7251455919020567	Hup	hupd1244	small	SMALL	1246		cĩ´pm’æh	cĩ´pm’æh 
+758	39-12-57-1	7251455292173438	Hup	hupd1244	long	LONG	1203		w’ə̌t	w’ə̌t 
+759	39-12-58-1	7251455292173438	Hup	hupd1244	tall	TALL	711		w’ə̌t	w’ə̌t 
+760	39-12-61-1	7251455830940899	Hup	hupd1244	wide	WIDE	1243		hǽy	hǽy 
+761	39-12-63-1	7251455261438479	Hup	hupd1244	thick	THICK	1244		g’ə́ʔ	g’ə́ʔ 
+762	39-12-65-1	7251455399036891	Hup	hupd1244	thin	THIN (OF SHAPE OF OBJECT)	2249		cə̌pmæh	cə̌pmæh 
+763	39-12-67-1	7251455132340452	Hup	hupd1244	deep	DEEP	1593		wán	wán 
+764	39-12-71-1	7251455348058190	Hup	hupd1244	flat	FLAT	1633		ʔæ̌ytænyɨ́ʔ	ʔæ̌ytænyɨ́ʔ 
+765	39-12-73-1	7251455402117191	Hup	hupd1244	straight	STRAIGHT	1404		mɨnɨ́ŋ	mɨnɨ́ŋ 
+766	39-12-73-2	7251455892218613	Hup	hupd1244	straight	STRAIGHT	1404		yɔ́w	yɔ́w 
+767	39-12-74-1	725145569417666	Hup	hupd1244	crooked	CROOKED	297		totoy-	totoy- 
+768	39-12-75-1	7251455391769922	Hup	hupd1244	the hook	HOOK	1071		kĩkĩn-	kĩkĩn- 
+769	39-12-76-1	7251455106374552	Hup	hupd1244	the corner	CORNER	192		tóg’ j’ɨ̌g	tóg’ j’ɨ̌g 
+770	39-12-77-1	7251455249348344	Hup	hupd1244	the cross	CROSS	1367		kǝtǝg wob-	kǝtǝg wob- 
+771	39-12-78-1	725145554541328	Hup	hupd1244	the square	SQUARE	850		kwádru	kwádru 
+772	39-12-81-1	725145514787690	Hup	hupd1244	round	ROUND	1395		dedéb	dedéb 
+773	39-12-82-1	7251455408543980	Hup	hupd1244	the circle	CIRCLE	1467		pɔ̌t	pɔ̌t 
+774	39-12-83-1	7251455763139651	Hup	hupd1244	the ball	BALL	1845		bóda	bóda 
+775	39-12-83-2	7251455989953783	Hup	hupd1244	the ball	BALL	1845		-tat	-tat 
+776	39-12-85-1	7251455420029879	Hup	hupd1244	the hole	HOLE	1667		hǒd	hǒd 
+777	39-12-92-1	7251455855972861	Hup	hupd1244	similar	SIMILAR	1558		nɨh-	nɨh- 
+778	39-12-93-1	7251455222265014	Hup	hupd1244	to change	CHANGE	1264		hidoho-	hidoho- 
+779	39-13-01-1	7251455895477351	Hup	hupd1244	one	ONE	1493		ʔayǔp	ʔayǔp 
+780	39-13-02-1	7251455119023335	Hup	hupd1244	two	TWO	1498		koʔǎp	koʔǎp 
+781	39-13-03-1	7251455437239804	Hup	hupd1244	three	THREE	492		mɔtaʔǎp	mɔtaʔǎp 
+782	39-13-04-1	7251455352609262	Hup	hupd1244	four	FOUR	1500		hibab’ní	hibab’ní 
+783	39-13-05-1	7251455660115089	Hup	hupd1244	five	FIVE	493		ʔayup d’apũ´h	ʔayup d’apũ´h 
+784	39-13-06-1	7251455551431347	Hup	hupd1244	six	SIX	1703		céc	céc 
+785	39-13-07-1	7251455102809314	Hup	hupd1244	seven	SEVEN	1704		céci	céci 
+786	39-13-08-1	7251455683105612	Hup	hupd1244	eight	EIGHT	1705		ʔóytu	ʔóytu 
+787	39-13-09-1	7251455102949519	Hup	hupd1244	nine	NINE	1483		nówi	nówi 
+788	39-13-1-1	725145584146009	Hup	hupd1244	ten	TEN	1515		déc	déc 
+789	39-13-1-2	7251455169836402	Hup	hupd1244	ten	TEN	1515		d’apũh nihũ´ʔ	d’apũh nihũ´ʔ 
+790	39-13-101-1	725145550813839	Hup	hupd1244	eleven	ELEVEN	1706		ʔõ´ci	ʔõ´ci 
+791	39-13-102-1	7251455945467473	Hup	hupd1244	twelve	TWELVE	1707		dóci	dóci 
+792	39-13-103-1	7251455375368275	Hup	hupd1244	fifteen	FIFTEEN	1709		kĩci	kĩci 
+793	39-13-104-1	7251455540373679	Hup	hupd1244	twenty	TWENTY	1710		vĩ´ci	vĩ´ci 
+794	39-13-105-1	725145591813269	Hup	hupd1244	a hundred	HUNDRED	1634		cẽ´	cẽ´ 
+795	39-13-106-1	725145568188426	Hup	hupd1244	a thousand	THOUSAND	1843		míw	míw 
+796	39-13-107-1	7251455966632644	Hup	hupd1244	to count	COUNT	1420		dɔʔ-	dɔʔ- 
+797	39-13-14-1	7251455789525248	Hup	hupd1244	all	ALL	98		nihũ´ʔ	nihũ´ʔ 
+798	39-13-14-2	7251455649679832	Hup	hupd1244	all	ALL	98		ʔápyɨʔ	ʔápyɨʔ 
+799	39-13-15-1	7251455994133714	Hup	hupd1244	many	MANY	1198		də́b	də́b 
+800	39-13-16-1	7251455772626592	Hup	hupd1244	more	MORE	1992		-kǝd	-kǝd 
+801	39-13-181-1	7251455429916280	Hup	hupd1244	some	SOME	1241		ʔayup pɨ́d	ʔayup pɨ́d 
+802	39-13-19-1	7251455277617031	Hup	hupd1244	the crowd	CROWD	2023		pipiw’-	pipiw’- 
+803	39-13-21-1	7251455940515494	Hup	hupd1244	full	FULL	1429		hitab-	hitab- 
+804	39-13-23-1	7251455774432391	Hup	hupd1244	the part	PART	779		cə́g	cə́g 
+805	39-13-24-1	7251455336376983	Hup	hupd1244	the half	HALF	816		hæyhɔ́	hæyhɔ́ 
+806	39-13-33-1	7251455312685357	Hup	hupd1244	only	ONLY	1580		b’ɨ́yɨʔ	b’ɨ́yɨʔ 
+807	39-13-34-1	7251455431222141	Hup	hupd1244	first	FIRST	728		tɨhcúm	tɨhcúm 
+808	39-13-35-1	7251455563030222	Hup	hupd1244	last	LAST (FINAL)	1529		tɨhg’ætd’óh	tɨhg’ætd’óh 
+809	39-13-37-1	7251454883782087	Hup	hupd1244	the pair	PAIR	1888		báb’d’ǝh	báb’d’ǝh 
+810	39-13-38-1	7251455158604481	Hup	hupd1244	twice/two times	TWICE	1546		kaʔǎp mæ̌y	kaʔǎp mæ̌y 
+811	39-13-44-1	7251455167765259	Hup	hupd1244	three times	THREE TIMES	417		mɔtaʔap mæ̌y	mɔtaʔap mæ̌y 
+812	39-14-11-1	7251455217298843	Hup	hupd1244	the time	TIME	892		ʔóra	ʔóra 
+813	39-14-12-1	7251455850854174	Hup	hupd1244	the age	AGE	1789		ʔidáci	ʔidáci 
+814	39-14-13-1	7251455332679519	Hup	hupd1244	new	NEW	1231		d’ǝw-	d’ǝw- 
+815	39-14-13-2	7251455894888575	Hup	hupd1244	new	NEW	1231		hup	hup 
+816	39-14-14-1	7251455523549991	Hup	hupd1244	young	YOUNG	1207		tɨhdóʔ tæ	tɨhdóʔ tæ 
+817	39-14-15-1	7251455604065	Hup	hupd1244	old	OLD	1229		bɨ̌g (1)	bɨ̌g (1) 
+818	39-14-15-2	7251455556823984	Hup	hupd1244	old	OLD	1229		tɨhwǝhə́d	tɨhwǝhə́d 
+819	39-14-15-3	7251455946083919	Hup	hupd1244	old	OLD	1229		tɨhwá	tɨhwá 
+820	39-14-16-1	7251455169243807	Hup	hupd1244	early	EARLY	672		dɨʔ tǽyɨʔ	dɨʔ tǽyɨʔ 
+821	39-14-18-1	7251455451431774	Hup	hupd1244	now	NOW	1376		núpmæhyɨ́ʔ	núpmæhyɨ́ʔ 
+822	39-14-19-1	7251455628487636	Hup	hupd1244	immediately	IMMEDIATELY	1963		ʔopɨ́dyɨʔ	ʔopɨ́dyɨʔ 
+823	39-14-21-1	725145597731489	Hup	hupd1244	fast	FAST	1631		hæ̌ŋyɨʔ	hæ̌ŋyɨʔ 
+824	39-14-22-1	7251455866382702	Hup	hupd1244	slow	SLOW	701		hæ̌myɨʔ	hæ̌myɨʔ 
+825	39-14-23-1	7251455516014641	Hup	hupd1244	to hurry	HURRY	754		hæ̌ŋyɨʔ-	hæ̌ŋyɨʔ- 
+826	39-14-25-1	7251455489373540	Hup	hupd1244	to begin	BEGIN	1806		cumni-	cumni- 
+827	39-14-26-1	725145523595332	Hup	hupd1244	the end(2)	END (OF TIME)	743		g’ætd’óh	g’ætd’óh 
+828	39-14-27-1	725145546391837	Hup	hupd1244	to finish	FINISH	1766		hũʔ-	hũʔ- 
+829	39-14-28-1	725145578413712	Hup	hupd1244	to cease	CEASE	1928		yãhãʔ-	yãhãʔ- 
+830	39-14-31-1	7251455880397276	Hup	hupd1244	always	ALWAYS	1676		kǝkǝynɨ́h	kǝkǝynɨ́h 
+831	39-14-32-1	725145561373386	Hup	hupd1244	often	OFTEN	1852		bɨ́g (1)	bɨ́g (1) 
+832	39-14-331-1	7251455451431774	Hup	hupd1244	soon	SOON	703		núpmæhyɨ́ʔ	núpmæhyɨ́ʔ 
+833	39-14-332-1	7251455620261298	Hup	hupd1244	for a long time	FOR A LONG TIME	418		bɨ̌g (2)	bɨ̌g (2) 
+834	39-14-35-1	7251455692866137	Hup	hupd1244	again	AGAIN	204		cã´p taʔ	cã´p taʔ 
+835	39-14-41-1	725145567605588	Hup	hupd1244	the day(1)	DAY (24 HOURS)	1260		wág	wág 
+836	39-14-42-1	7251455984518642	Hup	hupd1244	the night	NIGHT	1233		j’ə́b	j’ə́b 
+837	39-14-43-1	7251455782474059	Hup	hupd1244	the dawn	DAWN	729		wág hiyǽt	wág hiyǽt 
+838	39-14-44-1	725145595495038	Hup	hupd1244	the morning	MORNING	1339		j’ǝb tǽyɨʔ	j’ǝb tǽyɨʔ 
+839	39-14-45-1	7251455189114723	Hup	hupd1244	the midday	MIDDAY	12		himɨ̌ʔg’et	himɨ̌ʔg’et 
+840	39-14-451-1	7251455329404826	Hup	hupd1244	the afternoon	AFTERNOON	1807		d’úʔ	d’úʔ 
+841	39-14-46-1	7251455400458179	Hup	hupd1244	the evening	EVENING	1629		j’ə́bay	j’ə́bay 
+842	39-14-47-1	7251455284130322	Hup	hupd1244	today	TODAY	1283		nutæ̌n	nutæ̌n 
+843	39-14-48-1	7251455796512658	Hup	hupd1244	tomorrow	TOMORROW	1329		ʔecáp	ʔecáp 
+844	39-14-481-1	7251455680964793	Hup	hupd1244	the day after tomorrow	DAY AFTER TOMORROW	1179		ʔecáp hɔtʔah	ʔecáp hɔtʔah 
+845	39-14-49-1	7251455315685370	Hup	hupd1244	yesterday	YESTERDAY	1174		j’ám	j’ám 
+846	39-14-491-1	7251455861049598	Hup	hupd1244	the day before yesterday	DAY BEFORE YESTERDAY	1180		j’ám hɔ̌tʔah	j’ám hɔ̌tʔah 
+847	39-14-51-1	7251455217298843	Hup	hupd1244	the hour	HOUR	1353		ʔóra	ʔóra 
+848	39-14-53-1	725145586976968	Hup	hupd1244	the clock	CLOCK	1323		wág tæ̃ʔkéy	wág tæ̃ʔkéy 
+849	39-14-61-1	7251455701756134	Hup	hupd1244	the week	WEEK	1469		camána	camána 
+850	39-14-62-1	7251455795276810	Hup	hupd1244	Sunday	SUNDAY	1699		cówag	cówag 
+851	39-14-63-1	7251455392001393	Hup	hupd1244	Monday	MONDAY	1697		cegúndawag	cegúndawag 
+852	39-14-64-1	7251455106314969	Hup	hupd1244	Tuesday	TUESDAY	1695		técawag	técawag 
+853	39-14-65-1	7251455953311716	Hup	hupd1244	Wednesday	WEDNESDAY	1694		kwátawag	kwátawag 
+854	39-14-66-1	7251455252298537	Hup	hupd1244	Thursday	THURSDAY	1693		kíntawag	kíntawag 
+855	39-14-67-1	7251455421449564	Hup	hupd1244	Friday	FRIDAY	1692		céctawag	céctawag 
+856	39-14-68-1	7251455893445421	Hup	hupd1244	Saturday	SATURDAY	1700		cáuru	cáuru 
+857	39-14-71-1	7251454756967936	Hup	hupd1244	the month	MONTH	1370		wædhɔ́	wædhɔ́ 
+858	39-14-73-1	7251455617301848	Hup	hupd1244	the year	YEAR	1226		g’ɨ́	g’ɨ́ 
+859	39-14-74-1	72514555518761	Hup	hupd1244	the winter	WINTER	1471		cɔ̃ˇhdeh	cɔ̃ˇhdeh 
+860	39-14-76-1	7251455617301848	Hup	hupd1244	the summer	SUMMER	1342		g’ɨ́	g’ɨ́ 
+861	39-15-21-1	7251455498953634	Hup	hupd1244	to smell(1)	SMELL (STINK)	1587		cĩh ni-	cĩh ni- 
+862	39-15-21-2	7251455108884337	Hup	hupd1244	to smell(1)	SMELL (STINK)	1587		múj ni-	múj ni- 
+863	39-15-89-1	725145569825581	Hup	hupd1244	wrinkled	WRINKLED	380		niniŋ-	niniŋ- 
+864	39-15-212-1	7251455120961946	Hup	hupd1244	to sniff	SNIFF	375		cĩhwɨʔ-	cĩhwɨʔ- 
+865	39-15-22-1	7251455120961946	Hup	hupd1244	to smell(2)	SMELL (PERCEIVE)	1586		cĩhwɨʔ-	cĩhwɨʔ- 
+866	39-15-25-1	7251455504484245	Hup	hupd1244	fragrant	FRAGRANT	376		cĩh náw	cĩh náw 
+867	39-15-26-1	7251455442719470	Hup	hupd1244	stinking	STINKING	42		múj-	múj- 
+868	39-15-31-1	7251455237772544	Hup	hupd1244	to taste	TASTE (SOMETHING)	21		wædtæ̃ʔkey-	wædtæ̃ʔkey- 
+869	39-15-35-1	7251455583986791	Hup	hupd1244	sweet	SWEET	717		g’ə́h	g’ə́h 
+870	39-15-36-1	725145550488567	Hup	hupd1244	salty	SALTY	1091		b’ǒh ni-	b’ǒh ni- 
+871	39-15-37-1	7251455835179821	Hup	hupd1244	bitter	BITTER	887		j’á (1)	j’á (1) 
+872	39-15-38-1	7251455997459516	Hup	hupd1244	sour	SOUR	1906		g’í (2)	g’í (2) 
+873	39-15-41-1	7251455636369960	Hup	hupd1244	to hear	HEAR	1408		wɨʔ-	wɨʔ- 
+874	39-15-42-1	7251455636369960	Hup	hupd1244	to listen	LISTEN	1608		wɨʔ-	wɨʔ- 
+875	39-15-44-1	7251455929016509	Hup	hupd1244	the sound or noise	SOUND OR NOISE	1811		hɔ̃ˇh	hɔ̃ˇh 
+876	39-15-45-1	7251455683877522	Hup	hupd1244	loud	LOUD	377		hɔ̃ˇh pɨ́b	hɔ̃ˇh pɨ́b 
+877	39-15-51-1	7251455191904092	Hup	hupd1244	to see	SEE	1409		key-	key- 
+878	39-15-52-1	7251455191904092	Hup	hupd1244	to look	LOOK	1819		key-	key- 
+879	39-15-55-1	7251455802892299	Hup	hupd1244	to show	SHOW	1039		be-	be- 
+880	39-15-56-1	7251455886000080	Hup	hupd1244	to shine	SHINE	708		b’ag-	b’ag- 
+881	39-15-57-1	7251455886000080	Hup	hupd1244	bright	BRIGHT	679		b’ag-	b’ag- 
+882	39-15-62-1	7251455886800451	Hup	hupd1244	light(2)	LIGHT (COLOR)	250		tohó	tohó 
+883	39-15-63-1	7251455398773784	Hup	hupd1244	dark	DARK	706		b’atúk	b’atúk 
+884	39-15-64-1	7251455886800451	Hup	hupd1244	white	WHITE	1335		tohó	tohó 
+885	39-15-65-1	7251455232392685	Hup	hupd1244	black	BLACK	163		j’á (2)	j’á (2) 
+886	39-15-66-1	725145571495662	Hup	hupd1244	red	RED	156		dó	dó 
+887	39-15-67-1	7251455167327095	Hup	hupd1244	blue	BLUE	837		pɔ̃pɔ̃´h	pɔ̃pɔ̃´h 
+888	39-15-68-1	7251455167327095	Hup	hupd1244	green	GREEN	1425		pɔ̃pɔ̃´h	pɔ̃pɔ̃´h 
+889	39-15-69-1	7251455460861072	Hup	hupd1244	yellow	YELLOW	1424		pohó	pohó 
+890	39-15-71-1	725145577091663	Hup	hupd1244	to touch	TOUCH	1892		hutiʔ-	hutiʔ- 
+891	39-15-712-1	7251455487966748	Hup	hupd1244	to pinch	PINCH	378		cuʔkey-	cuʔkey- 
+892	39-15-72-1	7251455195688875	Hup	hupd1244	to feel	FEEL	1079		huwɨʔ-	huwɨʔ- 
+893	39-15-74-1	7251455101847189	Hup	hupd1244	hard	HARD	1884		tab’áʔ	tab’áʔ 
+894	39-15-75-1	725145589821734	Hup	hupd1244	soft	SOFT	1856		y’úʔ	y’úʔ 
+895	39-15-76-1	7251455921480290	Hup	hupd1244	rough(1)	ROUGH	1923		kukuç-	kukuç- 
+896	39-15-77-1	7251455228719719	Hup	hupd1244	smooth	SMOOTH	1234		yíb	yíb 
+897	39-15-78-1	7251455124021629	Hup	hupd1244	sharp	SHARP	1396		j’ɨ́g	j’ɨ́g 
+898	39-15-81-1	725145596894266	Hup	hupd1244	heavy	HEAVY	1210		yiwík	yiwík 
+899	39-15-83-1	7251455565585558	Hup	hupd1244	wet	WET	1726		pu-	pu- 
+900	39-15-84-1	725145516026071	Hup	hupd1244	dry	DRY	1398		hǝb-	hǝb- 
+901	39-15-85-1	7251455617301848	Hup	hupd1244	hot	HOT	1286		g’ɨ́	g’ɨ́ 
+902	39-15-86-1	7251455669794575	Hup	hupd1244	cold	COLD	1287		tút	tút 
+903	39-15-86-2	725145570479633	Hup	hupd1244	cold	COLD	1287		m’ǽ	m’ǽ 
+904	39-15-88-1	7251455868801924	Hup	hupd1244	dirty	DIRTY	1230		titíʔ	titíʔ 
+905	39-15-88-2	7251455445665030	Hup	hupd1244	dirty	DIRTY	1230		j’ɔ̌w’	j’ɔ̌w’ 
+906	39-16-11-1	7251454772884609	Hup	hupd1244	the soul or spirit	SOUL	811		hã´wɨg	hã´wɨg 
+907	39-16-15-1	7251455760323416	Hup	hupd1244	surprised or astonished	SURPRISED	1572		cewe-	cewe- 
+908	39-16-23-1	7251455520627489	Hup	hupd1244	happy	HAPPY	1495		hicoco-	hicoco- 
+909	39-16-25-1	7251455795784122	Hup	hupd1244	to laugh	LAUGH	1355		tæ̃ʔnɔ-	tæ̃ʔnɔ- 
+910	39-16-251-1	7251455795784122	Hup	hupd1244	to smile	SMILE	1451		tæ̃ʔnɔ-	tæ̃ʔnɔ- 
+911	39-16-26-1	7251455530797363	Hup	hupd1244	to play	PLAY	1413		mũhũʔ-	mũhũʔ- 
+912	39-16-27-1	7251455234696867	Hup	hupd1244	to love	LOVE	923		wɔy-	wɔy- 
+913	39-16-29-1	7251455575459715	Hup	hupd1244	to kiss	KISS	578		beca-	beca- 
+914	39-16-29-2	7251455719949778	Hup	hupd1244	to kiss	KISS	578		dɔwɔ̌h ʔun’-	dɔwɔ̌h ʔun’- 
+915	39-16-3-1	7251455941730077	Hup	hupd1244	to embrace	EMBRACE	928		kay’-	kay’- 
+916	39-16-31-1	7251455651495266	Hup	hupd1244	the pain	PAIN	1783		pěʔ	pěʔ 
+917	39-16-32-1	7251455259800385	Hup	hupd1244	the grief	GRIEF	1668		hãwɨg hihũʔ-	hãwɨg hihũʔ- 
+918	39-16-33-1	7251455236497249	Hup	hupd1244	the anxiety	ANXIETY	1000		hɔni-	hɔni- 
+919	39-16-34-1	7251455236497249	Hup	hupd1244	to regret or be sorry	REGRET	1875		hɔni-	hɔni- 
+920	39-16-35-1	7251455236497249	Hup	hupd1244	the pity	PITY	1141		hɔni-	hɔni- 
+921	39-16-37-1	72514555179280	Hup	hupd1244	to cry	CRY	1839		ʔɔt-	ʔɔt- 
+922	39-16-38-1	7251455698391543	Hup	hupd1244	the tear	TEAR (OF EYE)	1651		kǝwǝg děh	kǝwǝg děh 
+923	39-16-39-1	7251455938062522	Hup	hupd1244	to groan	GROAN	716		papad-	papad- 
+924	39-16-41-1	7251455171292200	Hup	hupd1244	to hate	HATE	1607		keytǝw-	keytǝw- 
+925	39-16-42-1	7251455141733536	Hup	hupd1244	the anger	ANGER	82		tǝwway-	tǝwway- 
+926	39-16-44-1	7251455711023604	Hup	hupd1244	the envy or jealousy	ENVY	40		hib’i-	hib’i- 
+927	39-16-45-1	7251455331007148	Hup	hupd1244	the shame	SHAME	1776		hutbi-	hutbi- 
+928	39-16-48-1	7251455718785761	Hup	hupd1244	proud	PROUD	174		hãwɨg náw	hãwɨg náw 
+929	39-16-52-1	7251455805429275	Hup	hupd1244	brave	BRAVE	3		tɨhpɨ´b ʔĩh	tɨhpɨ´b ʔĩh 
+930	39-16-53-1	7251455700240174	Hup	hupd1244	the fear	FEAR (FRIGHT)	781		ʔɔm-	ʔɔm- 
+931	39-16-54-1	7251455953294622	Hup	hupd1244	the danger	DANGER	1810		yɔ̃ʔɔ́m	yɔ̃ʔɔ́m 
+932	39-16-62-1	7251455888375036	Hup	hupd1244	to want	WANT	1784		tuk-	tuk- 
+933	39-16-622-1	7251455880149017	Hup	hupd1244	to choose	CHOOSE	1750		hid-	hid- 
+934	39-16-66-1	7251455351885265	Hup	hupd1244	true	TRUE	1657		tɨhɨ́tyɨʔ	tɨhɨ́tyɨʔ 
+935	39-16-67-1	7251455434561487	Hup	hupd1244	to lie(2)	LIE (MISLEAD)	601		tɨh-	tɨh- 
+936	39-16-69-1	7251455652144206	Hup	hupd1244	to forgive	FORGIVE	1528		himɨhɨn-	himɨhɨn- 
+937	39-16-71-1	7251455556884595	Hup	hupd1244	good	GOOD	1035		náw	náw 
+938	39-16-72-1	7251455208588923	Hup	hupd1244	bad	BAD	1292		páy	páy 
+939	39-16-73-1	7251455148176154	Hup	hupd1244	right(2)	CORRECT (RIGHT)	1725		dɔʔkěy	dɔʔkěy 
+940	39-16-76-1	7251455339489394	Hup	hupd1244	the fault	FAULT	134		hiyóʔ	hiyóʔ 
+941	39-16-76-2	7251455988861476	Hup	hupd1244	the fault	FAULT	134		kúpa	kúpa 
+942	39-16-77-1	7251455835854439	Hup	hupd1244	the mistake	MISTAKE	1293		páy bɨʔ-	páy bɨʔ- 
+943	39-16-79-1	7251455372288646	Hup	hupd1244	the praise	PRAISE	1687		hitamaʔ-	hitamaʔ- 
+944	39-16-81-1	7251455641623131	Hup	hupd1244	beautiful	BEAUTIFUL	1427		tuhúp	tuhúp 
+945	39-16-82-1	7251455208588923	Hup	hupd1244	ugly	UGLY	1548		páy	páy 
+946	39-16-83-1	7251455234696867	Hup	hupd1244	greedy	GREEDY	2018		wɔy-	wɔy- 
+947	39-17-11-1	7251455779176415	Hup	hupd1244	the mind	MIND	1562		huphipãˇh	huphipãˇh 
+948	39-17-14-1	7251455562694730	Hup	hupd1244	to think(2)	THINK (BELIEVE)	1513		hipãh-	hipãh- 
+949	39-17-15-1	7251455562694730	Hup	hupd1244	to believe	BELIEVE	1890		hipãh-	hipãh- 
+950	39-17-16-1	7251455562694730	Hup	hupd1244	to understand	UNDERSTAND	1536		hipãh-	hipãh- 
+951	39-17-17-1	7251455562694730	Hup	hupd1244	to know	KNOW (SOMETHING)	1410		hipãh-	hipãh- 
+952	39-17-171-1	7251455583906045	Hup	hupd1244	to guess	GUESS	1932		keyhipãh-	keyhipãh- 
+953	39-17-172-1	7251455585547871	Hup	hupd1244	to imitate	IMITATE	117		hitæ̃ʔ-	hitæ̃ʔ- 
+954	39-17-18-1	7251455178171646	Hup	hupd1244	to seem	SEEM	1521		bahad-	bahad- 
+955	39-17-19-1	7251455426735930	Hup	hupd1244	the idea	IDEA	1609		hipãˇhteg	hipãˇhteg 
+956	39-17-23-1	7251455786235662	Hup	hupd1244	mad	MAD	1899		miŋ-	miŋ- 
+957	39-17-24-1	7251455573889259	Hup	hupd1244	to learn	LEARN	504		b’oy-	b’oy- 
+958	39-17-242-1	7251455573889259	Hup	hupd1244	to study	STUDY	1929		b’oy-	b’oy- 
+959	39-17-25-1	7251455573889259	Hup	hupd1244	to teach	TEACH	709		b’oy-	b’oy- 
+960	39-17-26-1	7251455912358715	Hup	hupd1244	the pupil	PUPIL (STUDENT)	753		b’ǒyopʔĩh	b’ǒyopʔĩh 
+961	39-17-27-1	7251455912358715	Hup	hupd1244	the teacher	TEACHER	1038		b’ǒyopʔĩh	b’ǒyopʔĩh 
+962	39-17-28-1	7251455257828757	Hup	hupd1244	the school	SCHOOL	673		b’ǒy mɔy	b’ǒy mɔy 
+963	39-17-31-1	7251455562694730	Hup	hupd1244	to remember	REMEMBER	707		hipãh-	hipãh- 
+964	39-17-32-1	7251455652144206	Hup	hupd1244	to forget	FORGET	1523		himɨhɨn-	himɨhɨn- 
+965	39-17-37-1	7251455351885265	Hup	hupd1244	certain	CERTAIN	509		tɨhɨ́tyɨʔ	tɨhɨ́tyɨʔ 
+966	39-17-38-1	7251455261789573	Hup	hupd1244	to explain	EXPLAIN	1626		tɔ̃h-	tɔ̃h- 
+967	39-17-41-1	7251455927534277	Hup	hupd1244	the intention	INTENTION	1162		wɨʔhamd’ə̌hteg	wɨʔhamd’ə̌hteg 
+968	39-17-42-1	7251455114923182	Hup	hupd1244	the cause	CAUSE	860		hicéʔ	hicéʔ 
+969	39-17-441-1	7251455122217067	Hup	hupd1244	to betray	BETRAY	1902		ʔɨdcud-	ʔɨdcud- 
+970	39-17-45-1	7251455699567772	Hup	hupd1244	the need or necessity	NEED (NOUN)	643		tǔk	tǔk 
+971	39-17-47-1	7251455722428885	Hup	hupd1244	difficult	DIFFICULT	584		hamhũynɨ́h	hamhũynɨ́h 
+972	39-17-48-1	7251455244524772	Hup	hupd1244	to try	TRY	1812		-key-	-key- 
+973	39-17-52-1	7251455968425532	Hup	hupd1244	because	BECAUSE	1157		keyóʔ	keyóʔ 
+974	39-17-53-1	7251455513065865	Hup	hupd1244	if	IF	1459		-tæn	-tæn 
+975	39-17-54-1	7251455979884252	Hup	hupd1244	or	OR	1014		ʔó	ʔó 
+976	39-17-55-1	7251455755864941	Hup	hupd1244	yes	YES	1268		hə̌ʔ	hə̌ʔ 
+977	39-17-56-1	7251455807760363	Hup	hupd1244	no	NO	1269		-nɨ́h	-nɨ́h 
+978	39-17-61-1	7251455411782503	Hup	hupd1244	how?	HOW	1239		hɨ̃p	hɨ̃p 
+979	39-17-62-1	7251455356596598	Hup	hupd1244	how many?	HOW MANY	822		hɨ̃ʔap	hɨ̃ʔap 
+980	39-17-63-1	7251455291250941	Hup	hupd1244	how much?	HOW MUCH	531		hɨ̃m’ǽ	hɨ̃m’ǽ 
+981	39-17-64-1	7251455810546576	Hup	hupd1244	what?	WHAT	1236		hɨ̃n’ɨ̌h	hɨ̃n’ɨ̌h 
+982	39-17-65-1	7251455291250941	Hup	hupd1244	when?	WHEN	1238		hɨ̃m’ǽ	hɨ̃m’ǽ 
+983	39-17-66-1	7251455828948231	Hup	hupd1244	where?	WHERE	1237		hɨ̃cóʔ	hɨ̃cóʔ 
+984	39-17-66-2	7251455116951991	Hup	hupd1244	where?	WHERE	1237		hɨ̃kán	hɨ̃kán 
+985	39-17-67-1	7251455411782503	Hup	hupd1244	which?	WHICH	727		hɨ̃p	hɨ̃p 
+986	39-17-68-1	7251455828328794	Hup	hupd1244	who?	WHO	1235		ʔǔy	ʔǔy 
+987	39-17-69-1	7251455679957577	Hup	hupd1244	why?	WHY	1270		hɨnɨykeyóʔ	hɨnɨykeyóʔ 
+988	39-18-11-1	7251455951359620	Hup	hupd1244	the voice	VOICE	1363		ʔɨ́d	ʔɨ́d 
+989	39-18-12-1	7251455990501844	Hup	hupd1244	to sing	SING	1261		yamhĩdɔʔ-	yamhĩdɔʔ- 
+990	39-18-13-1	7251455988901836	Hup	hupd1244	to shout	SHOUT	715		kaw-	kaw- 
+991	39-18-15-1	7251455514124802	Hup	hupd1244	to whisper	WHISPER	55		ʔɨdcacay-	ʔɨdcacay- 
+992	39-18-16-1	7251455538420648	Hup	hupd1244	to mumble	MUMBLE	128		ʔɨʔɨd-	ʔɨʔɨd- 
+993	39-18-17-1	725145549719254	Hup	hupd1244	to whistle	WHISTLE	1025		wiç-	wiç- 
+994	39-18-17-2	7251455657664052	Hup	hupd1244	to whistle	WHISTLE	1025		wɔ̃c-	wɔ̃c- 
+995	39-18-18-1	725145599750131	Hup	hupd1244	to shriek	SHRIEK	298		pĩk-	pĩk- 
+996	39-18-19-1	72514555179280	Hup	hupd1244	to howl	HOWL	526		ʔɔt-	ʔɔt- 
+997	39-18-21-1	725145519900687	Hup	hupd1244	to speak or talk	SPEAK	1623		ʔɨd-	ʔɨd- 
+998	39-18-211-1	7251455440172120	Hup	hupd1244	to stutter or stammer	STUTTER	1866		kukuʔ-	kukuʔ- 
+999	39-18-211-2	7251455212582173	Hup	hupd1244	to stutter or stammer	STUTTER	1866		w’ãʔw’ãʔ-	w’ãʔw’ãʔ- 
+1000	39-18-22-1	7251455873450650	Hup	hupd1244	to say	SAY	1458		nɔ-	nɔ- 
+1001	39-18-221-1	7251455212970186	Hup	hupd1244	to tell	TELL	1711		pɨnɨŋ-	pɨnɨŋ- 
+1002	39-18-222-1	7251455951359620	Hup	hupd1244	the speech	SPEECH	1115		ʔɨ́d	ʔɨ́d 
+1003	39-18-24-1	7251455951359620	Hup	hupd1244	the language	LANGUAGE	1307		ʔɨ́d	ʔɨ́d 
+1004	39-18-26-1	7251455951359620	Hup	hupd1244	the word	WORD	1599		ʔɨ́d	ʔɨ́d 
+1005	39-18-28-1	725145532583083	Hup	hupd1244	the name	NAME	1405		hǎt (2)	hǎt (2) 
+1006	39-18-31-1	7251455298039449	Hup	hupd1244	to ask(1)	ASK (INQUIRE)	1309		ʔihkey-	ʔihkey- 
+1007	39-18-32-1	7251455566748153	Hup	hupd1244	to answer	ANSWER	1275		g’ætd’oʔ-	g’ætd’oʔ- 
+1008	39-18-35-1	725145572232624	Hup	hupd1244	to ask(2)	ASK (REQUEST)	1828		ʔih-	ʔih- 
+1009	39-18-38-1	7251455426630268	Hup	hupd1244	to forbid	FORBID	83		yæ̃hnɨ́h	yæ̃hnɨ́h 
+1010	39-18-39-1	7251455369177349	Hup	hupd1244	to scold	SCOLD	299		tǝw-	tǝw- 
+1011	39-18-41-1	7251455169643425	Hup	hupd1244	to call(1)	CALL	1084		ʔey-	ʔey- 
+1012	39-18-42-1	7251455670922836	Hup	hupd1244	to call(2)	CALL BY NAME	180		hǎt ʔey-	hǎt ʔey- 
+1013	39-18-51-1	725145567783929	Hup	hupd1244	to write	WRITE	1672		hɨʔ-	hɨʔ- 
+1014	39-18-52-1	7251455574033029	Hup	hupd1244	to read	READ	724		cug’æ̌t key-	cug’æ̌t key- 
+1015	39-18-52-2	7251455943455168	Hup	hupd1244	to read	READ	724		de-	de- 
+1016	39-18-56-1	725145550326540	Hup	hupd1244	the paper	PAPER	648		cug’æ̌t (1)	cug’æ̌t (1) 
+1017	39-18-57-1	7251455681762597	Hup	hupd1244	the pen	PEN	794		dápi	dápi 
+1018	39-18-61-1	725145550326540	Hup	hupd1244	the book	BOOK	963		cug’æ̌t (1)	cug’æ̌t (1) 
+1019	39-18-71-1	7251455166780322	Hup	hupd1244	the flute	FLUTE	777		pĩˇhteg	pĩˇhteg 
+1020	39-18-72-1	7251455602622765	Hup	hupd1244	the drum	DRUM	908		mætb’ɔ́k	mætb’ɔ́k 
+1021	39-18-73-1	7251455790876395	Hup	hupd1244	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		mǔc	mǔc 
+1022	39-18-74-1	7251455703236435	Hup	hupd1244	the rattle	RATTLE	300		tǎj	tǎj 
+1023	39-19-11-1	7251454112097635	Hup	hupd1244	the country	COUNTRY	1300		j’áh	j’áh 
+1024	39-19-15-1	7251455352335443	Hup	hupd1244	the town	TOWN	1391		hayám	hayám 
+1025	39-19-16-1	7251455352335443	Hup	hupd1244	the village	VILLAGE	930		hayám	hayám 
+1026	39-19-17-1	7251455529737276	Hup	hupd1244	the boundary	BOUNDARY	1010		tǎʔ	tǎʔ 
+1027	39-19-23-1	7251455724206970	Hup	hupd1244	the clan	CLAN	302		tæ̃ˇhd’ǝh	tæ̃ˇhd’ǝh 
+1028	39-19-24-1	7251455502311217	Hup	hupd1244	the chieftain	CHIEFTAIN	301		kapitã´w	kapitã´w 
+1029	39-19-24-2	7251455792637626	Hup	hupd1244	the chieftain	CHIEFTAIN	301		yɔʔɔ̌mʔĩh	yɔʔɔ̌mʔĩh 
+1030	39-19-25-1	7251455426259208	Hup	hupd1244	the walking stick	WALKING STICK	1296		cǒhteg	cǒhteg 
+1031	39-19-43-1	7251455811899779	Hup	hupd1244	the servant	SERVANT	255		hũˇh	hũˇh 
+1032	39-19-45-1	7251455274190080	Hup	hupd1244	to command or order	ORDER	1128		yæ̃h-	yæ̃h- 
+1033	39-19-47-1	7251455882956763	Hup	hupd1244	to permit	PERMIT	1003		y’æt-	y’æt- 
+1034	39-19-51-1	7251455863169148	Hup	hupd1244	the friend	FRIEND	1325		ʔɨnɨtʔǔyʔĩh	ʔɨnɨtʔǔyʔĩh 
+1035	39-19-52-1	7251455933003688	Hup	hupd1244	the enemy	ENEMY	1358		keytə́wǝpʔĩh	keytə́wǝpʔĩh 
+1036	39-19-54-1	7251455882188020	Hup	hupd1244	the neighbour	NEIGHBOUR	1332		ʔɨn máhayʔĩh	ʔɨn máhayʔĩh 
+1037	39-19-55-1	7251455212630158	Hup	hupd1244	the stranger	STRANGER	791		w’ěheyʔĩh	w’ěheyʔĩh 
+1038	39-19-58-1	725145580570997	Hup	hupd1244	to help	HELP	1897		bɨʔhitam-	bɨʔhitam- 
+1039	39-19-58-2	7251455118041171	Hup	hupd1244	to help	HELP	1897		bɨʔnæ-	bɨʔnæ- 
+1040	39-19-59-1	7251455278780516	Hup	hupd1244	to prevent	PREVENT	1550		d’oʔyahãʔ-	d’oʔyahãʔ- 
+1041	39-19-61-1	7251455369453970	Hup	hupd1244	the custom	CUSTOM	1747		niteg	niteg 
+1042	39-19-62-1	7251455212349379	Hup	hupd1244	the quarrel	QUARREL	1848		ʔũhtǝw-	ʔũhtǝw- 
+1043	39-19-65-1	7251455776567043	Hup	hupd1244	to meet	MEET	1831		hitaʔ-	hitaʔ- 
+1044	39-19-65-2	725145529357210	Hup	hupd1244	to meet	MEET	1831		yæ̃wæ̃c-	yæ̃wæ̃c- 
+1045	39-20-11-1	7251455540746432	Hup	hupd1244	to fight	FIGHT	1423		ʔũhmæh-	ʔũhmæh- 
+1046	39-20-13-1	7251455912697953	Hup	hupd1244	the war or battle	BATTLE	579		ʔũhmæh	ʔũhmæh 
+1047	39-20-17-1	7251455544821797	Hup	hupd1244	the soldier	SOLDIER	1941		cudáda	cudáda 
+1048	39-20-21-1	7251455764763970	Hup	hupd1244	the weapons	WEAPONS	951		d’apb’ǔyteg	d’apb’ǔyteg 
+1049	39-20-22-1	7251455645255852	Hup	hupd1244	the club	CLUB	1763		tǎw	tǎw 
+1050	39-20-24-1	7251455588182677	Hup	hupd1244	the bow	BOW	994		g’ígb’ah	g’ígb’ah 
+1051	39-20-25-1	7251455662797109	Hup	hupd1244	the arrow	ARROW	977		mǔh	mǔh 
+1052	39-20-26-1	725145473473580	Hup	hupd1244	the spear	SPEAR	945		cɔ̌hteg	cɔ̌hteg 
+1053	39-20-28-1	7251455121607739	Hup	hupd1244	the gun	GUN	1566		teghɔ̃´teg	teghɔ̃´teg 
+1054	39-20-35-1	7251455857968287	Hup	hupd1244	the fortress	FORTRESS	1938		hicád	hicád 
+1055	39-20-41-1	7251455390037128	Hup	hupd1244	the victory	VICTORY	783		gaña-	gaña- 
+1056	39-20-43-1	7251455912697953	Hup	hupd1244	the attack	ATTACK	722		ʔũhmæh	ʔũhmæh 
+1057	39-20-44-1	7251455540746432	Hup	hupd1244	to defend	DEFEND	1330		ʔũhmæh-	ʔũhmæh- 
+1058	39-20-48-1	7251455657329898	Hup	hupd1244	the booty	BOOTY	1022		hæ̃ˇh	hæ̃ˇh 
+1059	39-20-51-1	7251455154710896	Hup	hupd1244	the fisherman	FISHERMAN	1858		hɔ̃p kə́kǝpʔĩh	hɔ̃p kə́kǝpʔĩh 
+1060	39-20-52-1	7251455765021318	Hup	hupd1244	the fishhook	FISHHOOK	1074		hɔ̃pkə́k	hɔ̃pkə́k 
+1061	39-20-53-1	725145515949122	Hup	hupd1244	the fishing line	FISHING LINE	19		hɔ̃pkǝk tɨ́t	hɔ̃pkǝk tɨ́t 
+1062	39-20-54-1	725145578691739	Hup	hupd1244	the fishnet	FISHNET	388		hɔ̃p cæ̌g	hɔ̃p cæ̌g 
+1063	39-20-55-1	7251455711313162	Hup	hupd1244	the fish trap	FISH TRAP	389		wɨ̌ç	wɨ̌ç 
+1064	39-20-61-1	7251455141163595	Hup	hupd1244	to hunt	HUNT	1435		hũ´ mæh-	hũ´ mæh- 
+1065	39-20-61-2	7251455678987421	Hup	hupd1244	to hunt	HUNT	1435		nɔway-	nɔway- 
+1066	39-20-62-1	725145530232991	Hup	hupd1244	to shoot	SHOOT	1172		teghɔ̃-	teghɔ̃- 
+1067	39-20-62-2	7251455922245838	Hup	hupd1244	to shoot	SHOOT	1172		g’ig-	g’ig- 
+1068	39-20-63-1	72514552605152	Hup	hupd1244	to miss	MISS (A TARGET)	161		duʔ-	duʔ- 
+1069	39-20-64-1	7251455560033147	Hup	hupd1244	the trap	TRAP (PITFALL)	1075		mɔh ká	mɔh ká 
+1070	39-20-65-1	7251455340368467	Hup	hupd1244	to trap	TRAP (CATCH)	1170		d’oʔ-	d’oʔ- 
+1071	39-21-18-1	725145578123133	Hup	hupd1244	the judge	JUDGE	861		yǔy (2)	yǔy (2) 
+1072	39-21-39-1	7251455939499447	Hup	hupd1244	the prison	PRISON	1281		pǝrécu mɔy	pǝrécu mɔy 
+1073	39-21-42-1	7251455132899760	Hup	hupd1244	the murder	MURDER	845		mæh-	mæh- 
+1074	39-21-43-1	7251455350127534	Hup	hupd1244	the adultery	ADULTERY	902		bɨʔyǝd-	bɨʔyǝd- 
+1075	39-21-44-1	7251455340368467	Hup	hupd1244	the rape	RAPE	953		d’oʔ-	d’oʔ- 
+1076	39-21-46-1	7251454322520533	Hup	hupd1244	the arson	ARSON	1889		tujd’ak-	tujd’ak- 
+1077	39-21-51-1	7251455669753589	Hup	hupd1244	to steal	STEAL	713		j’ek-	j’ek- 
+1078	39-21-52-1	7251455371915680	Hup	hupd1244	the thief	THIEF	1160		j’ekpóg	j’ekpóg 
+1079	39-22-12-1	7251455780074526	Hup	hupd1244	the god	DEITY	3231		g’æ̌gtæ̃h	g’æ̌gtæ̃h 
+1080	39-22-13-1	7251455218272290	Hup	hupd1244	the temple	TEMPLE	911		yumb’ǒy mɔy	yumb’ǒy mɔy 
+1081	39-22-16-1	7251455540826125	Hup	hupd1244	to worship	WORSHIP	257		yumb’oy-	yumb’oy- 
+1082	39-22-18-1	7251455147657663	Hup	hupd1244	the priest	PRIEST	852		p’ǎy	p’ǎy 
+1083	39-22-19-1	7251455289554978	Hup	hupd1244	holy	HOLY	1702		yumb’oywóbop	yumb’oywóbop 
+1084	39-22-22-1	725145519900687	Hup	hupd1244	to preach	PREACH	304		ʔɨd-	ʔɨd- 
+1085	39-22-23-1	7251455163857942	Hup	hupd1244	to bless	BLESS	391		biʔid-	biʔid- 
+1086	39-22-24-1	7251455742090466	Hup	hupd1244	to curse	CURSE	8		doh-	doh- 
+1087	39-22-31-1	7251455222840262	Hup	hupd1244	the heaven	HEAVEN	1565		póh	póh 
+1088	39-22-32-1	7251455516303107	Hup	hupd1244	the hell	HELL	878		teghɔ̃´	teghɔ̃´ 
+1089	39-22-35-1	7251455779280158	Hup	hupd1244	the demon	DEMON	1973		baʔtɨ̌b’	baʔtɨ̌b’ 
+1090	39-22-43-1	7251455744224652	Hup	hupd1244	the sorcerer or witch	MAGICIAN	2137		cə́w	cə́w 
+1091	39-22-45-1	7251455779280158	Hup	hupd1244	the ghost	GHOST	1175		baʔtɨ̌b’	baʔtɨ̌b’ 
+1092	39-22-47-1	7251455247051720	Hup	hupd1244	the omen	OMEN	107		nin’-	nin’- 
+1093	39-23-1-1	7251455602825742	Hup	hupd1244	the radio	RADIO	1315		hupnúh	hupnúh 
+1094	39-23-1-2	7251455715531277	Hup	hupd1244	the radio	RADIO	1315		pɨnɨŋwɨ̌ʔ	pɨnɨŋwɨ̌ʔ 
+1095	39-23-1-3	7251455197250790	Hup	hupd1244	the radio	RADIO	1315		hupʔɨd cáʔ	hupʔɨd cáʔ 
+1096	39-23-11-1	7251455972266807	Hup	hupd1244	the television	TELEVISION	1788		tedevicãw	tedevicãw 
+1097	39-23-12-1	7251455223502459	Hup	hupd1244	the telephone	TELEPHONE	1379		ʔɨd d’ǝhd’ǝhhámteg	ʔɨd d’ǝhd’ǝhhámteg 
+1098	39-23-135-1	7251455349726504	Hup	hupd1244	the motorcycle	MOTORCYCLE	638		pǝpə́dteg	pǝpə́dteg 
+1099	39-23-14-1	7251455349726504	Hup	hupd1244	the car	CAR	1111		pǝpə́dteg	pǝpə́dteg 
+1100	39-23-15-1	7251455349726504	Hup	hupd1244	the bus	BUS	1070		pǝpə́dteg	pǝpə́dteg 
+1101	39-23-16-1	7251455643722288	Hup	hupd1244	the airplane	AIRPLANE	1597		wayd’óʔteg	wayd’óʔteg 
+1102	39-23-17-1	7251454360113359	Hup	hupd1244	the electricity	ELECTRICITY	59		pæ̃y	pæ̃y 
+1103	39-23-175-1	7251455890437502	Hup	hupd1244	the battery	BATTERY	662		pídiya wɨg	pídiya wɨg 
+1104	39-23-175-2	7251455638205545	Hup	hupd1244	the battery	BATTERY	662		pæ̃´y caʔ	pæ̃´y caʔ 
+1105	39-23-2-1	7251455312522258	Hup	hupd1244	the hospital	HOSPITAL	616		yɔ̃ˇh mɔy	yɔ̃ˇh mɔy 
+1106	39-23-21-1	7251455847288904	Hup	hupd1244	the nurse	NURSE	1104		yɔ̃ˇhʔãy	yɔ̃ˇhʔãy 
+1107	39-23-22-1	7251455805504038	Hup	hupd1244	the pill or tablet	PILL	395		yɔ̃ˇhwɨg	yɔ̃ˇhwɨg 
+1108	39-23-23-1	7251455623994292	Hup	hupd1244	the injection	INJECTION	1805		cĩy’-	cĩy’- 
+1109	39-23-51-1	7251455249278512	Hup	hupd1244	the sink	SINK (BASIN)	915		bacíya	bacíya 
+1110	39-23-52-1	7251455921003804	Hup	hupd1244	the toilet	TOILET	219		y’æ̌ʔteg	y’æ̌ʔteg 
+1111	39-23-32-1	725145590101368	Hup	hupd1244	the minister	MINISTER	486		hɔwædnuhdó	hɔwædnuhdó 
+1112	39-23-33-1	7251455852052752	Hup	hupd1244	the police	POLICE	656		podíciya	podíciya 
+1113	39-23-42-1	725145550326540	Hup	hupd1244	the letter	LETTER	1612		cug’æ̌t (1)	cug’æ̌t (1) 
+1114	39-23-54-1	7251455653093293	Hup	hupd1244	the tin/can	CAN	1051		tód’	tód’ 
+1115	39-23-56-1	7251455653093293	Hup	hupd1244	the bottle	BOTTLE	1321		tód’	tód’ 
+1116	39-23-565-1	7251455988218886	Hup	hupd1244	the candy/sweets	CANDY	874		næ̌ŋ	næ̌ŋ 
+1117	39-23-24-1	7251455761645339	Hup	hupd1244	the spectacles/glasses	SPECTACLES	1898		kǝwǝgtúʔ	kǝwǝgtúʔ 
+1118	39-23-59-1	7251455704559684	Hup	hupd1244	the cigarette	CIGARETTE	969		hũˇt	hũˇt 
+1119	39-23-61-1	7251455705551741	Hup	hupd1244	the calendar	CALENDAR	1967		karendário	karendário 
+1120	39-23-63-1	7251455739012031	Hup	hupd1244	the music	MUSIC	642		yám	yám 
+1121	39-23-64-1	7251455739012031	Hup	hupd1244	the song	SONG	1096		yám	yám 
+1122	39-23-39-1	7251455423289421	Hup	hupd1244	the number	NUMBER	1356		númeru	númeru 
+1123	39-23-195-1	7251455432314683	Hup	hupd1244	the petroleum	PETROLEUM	650		náŋ	náŋ 
+1124	39-23-185-1	7251455520742770	Hup	hupd1244	the motor	MOTOR	110		motúdutat	motúdutat 
+1125	39-23-395-1	7251455541085951	Hup	hupd1244	the street	STREET	1362		tíw pǒg	tíw pǒg 
+1126	39-19-565-1	7251455151536747	Hup	hupd1244	to invite	INVITE	1611		ʔeyd’ǝh-	ʔeyd’ǝh- 
+1127	39-24-01-1	7251455888216555	Hup	hupd1244	to be	BE	1579		ni-	ni- 
+1128	39-24-02-1	7251455222265014	Hup	hupd1244	to become	BECOME	1990		hidoho-	hidoho- 
+1129	39-24-03-1	725145517328443	Hup	hupd1244	without	WITHOUT	1478		pãˇ	pãˇ 
+1130	39-24-13-1	7251455260337836	Hup	hupd1244	same	SAME	200		ʔayǔpyɨʔ	ʔayǔpyɨʔ 
+1131	39-24-06-1	7251455936457622	Hup	hupd1244	not	NOT	1240		-nɨh	-nɨh 
+1132	39-24-07-1	7251455743652552	Hup	hupd1244	this	THIS	1214		núp	núp 
+1133	39-24-08-1	7251455288261454	Hup	hupd1244	that	THAT	78		n’íp	n’íp 
+1134	39-24-08-2	7251455241736977	Hup	hupd1244	that	THAT	78		yúp	yúp 
+1135	39-24-09-1	7251455924321643	Hup	hupd1244	here	HERE	136		nút	nút 
+1136	39-24-1-1	725145579927864	Hup	hupd1244	there	THERE	1937		n’ít	n’ít 
+1137	39-24-11-1	7251455396201453	Hup	hupd1244	other	OTHER	197		j’ã´p	j’ã´p 
+1138	39-4-493-1	7251455653203254	Hup	hupd1244	the vagina	VAGINA	1836		b’ɔ̌y mɔy	b’ɔ̌y mɔy 
+1139	39-23-91-1	7251455110398537	Hup	hupd1244	the coffee	COFFEE	1299		kapé	kapé 
+1140	39-24-12-1	7251455788819289	Hup	hupd1244	next	NEXT	1354		yúp hũyʔah	yúp hũyʔah 
+1141	39-3-869-1	7251455245103372	Hup	hupd1244	the squirrel	SQUIRREL	1628		wɔ̌m	wɔ̌m 
+1142	39-3-8112-1	725145454382360	Hup	hupd1244	the body louse	BODY LOUSE	311		næ̌m	næ̌m 
+1143	39-4-494-1	7251455475352289	Hup	hupd1244	the vulva	VULVA	1837		b’ɔ̌y	b’ɔ̌y 
+1144	39-3-99-1	7251455434651608	Hup	hupd1244	the tapir	TAPIR	312		tǎh	tǎh 
+1145	39-9-93-1	725145490684390	Hup	hupd1244	the whetstone	WHETSTONE	295		pǎç (2)	pǎç (2) 
+1146	39-9-92-1	7251455439321138	Hup	hupd1244	the tumpline	TUMPLINE	294		cǽ	cǽ 
+1147	39-8-28-1	7251454498844294	Hup	hupd1244	the digging stick (=yamstick)	DIGGING STICK	339		těg	těg 
+1148	39-3-833-1	7251455766846374	Hup	hupd1244	the prawns or shrimp	PRAWNS	238		cə́ʔ (2)	cə́ʔ (2) 
+1149	39-3-834-1	7251455170785586	Hup	hupd1244	the termites	TERMITE	883		b’úʔ	b’úʔ 
+1150	39-3-835-1	7251455243868769	Hup	hupd1244	the tick	TICK	1527		tahcěb	tahcěb 
+1151	39-3-89-1	7251455812143256	Hup	hupd1244	the anteater	ANTEATER	181		bɨ́g (2)	bɨ́g (2) 
+1152	39-3-598-1	7251455377397638	Hup	hupd1244	the toucan	TOUCAN	308		cɔkw’ə́t	cɔkw’ə́t 
+1153	39-3-9-1	7251455438009645	Hup	hupd1244	the jaguar	JAGUAR	1250		yaʔám	yaʔám 
+1154	39-5-983-1	7251455394257771	Hup	hupd1244	the manioc bread	MANIOC BREAD	407		b’ǎʔ	b’ǎʔ 
+1155	39-7-66-1	7251455639844173	Hup	hupd1244	the hammock	HAMMOCK	2019		yág	yág 
+1156	39-9-9-1	7251455519887204	Hup	hupd1244	to draw water	DRAW (WATER)	1911		g’ɔp-	g’ɔp- 
+1157	39-10-58-1	7251455751829673	Hup	hupd1244	to go or return home	RETURN HOME	142		b’ay-	b’ay- 
+1158	39-3-917-1	7251455434651608	Hup	hupd1244	the buffalo	BUFFALO	934		tǎh	tǎh 
+1159	39-1-831-1	7251454674906975	Hup	hupd1244	the steam	STEAM	1193		j’ɨ̌k	j’ɨ̌k 
+1160	39-2-5-1	7251455467156147	Hup	hupd1244	the grandchild	GRANDCHILD	1617		dú	dú 
+1161	39-2-931-1	7251454761097854	Hup	hupd1244	he	HE	1211		tɨ́h	tɨ́h 
+1162	39-2-932-1	7251454761097854	Hup	hupd1244	she	SHE	1834		tɨ́h	tɨ́h 
+1163	39-2-933-1	7251454761097854	Hup	hupd1244	it	IT	169		tɨ́h	tɨ́h 
+1164	39-4-741-1	7251455687998871	Hup	hupd1244	the life	LIFE	210		ʔɨ̌b’	ʔɨ̌b’ 
+1165	39-4-844-1	7251455651495266	Hup	hupd1244	the disease	DISEASE	1986		pěʔ	pěʔ 
+1166	39-7-232-1	72514559081987	Hup	hupd1244	the padlock	PADLOCK	336		bíb’teg	bíb’teg 
+1167	39-11-29-1	7251455835854439	Hup	hupd1244	to damage	DAMAGE	1116		páy bɨʔ-	páy bɨʔ- 
+1168	39-12-081-1	7251455945004599	Hup	hupd1244	above	ABOVE	1741		buycóʔ	buycóʔ 
+1169	39-13-231-1	7251455774432391	Hup	hupd1244	the piece	PIECE	594		cə́g	cə́g 
+1170	39-13-331-1	7251455260337836	Hup	hupd1244	alone	ALONE	1964		ʔayǔpyɨʔ	ʔayǔpyɨʔ 
+1171	39-14-251-1	7251455431222141	Hup	hupd1244	the beginning	BEGINNING	1557		tɨhcúm	tɨhcúm 
+1172	39-14-411-1	725145567605588	Hup	hupd1244	the day(2)	DAY (NOT NIGHT)	1225		wág	wág 
+1173	39-22-131-1	7251455218272290	Hup	hupd1244	the church	CHURCH	1349		yumb’ǒy mɔy	yumb’ǒy mɔy 
+1174	39-4-7501-1	7251455279991793	Hup	hupd1244	dead	DEAD	1625		naʔyɨʔɨy	naʔyɨʔɨy 
+1175	39-4-8541-1	7251455988262765	Hup	hupd1244	to scratch	SCRATCH	1436		kokoj-	kokoj- 
+1176	39-9-111-1	7251455769480029	Hup	hupd1244	to make	MAKE	734		bɨʔ-	bɨʔ- 
+1177	39-4-431-1	7251454276456477	Hup	hupd1244	the belly	BELLY	1251		tǒk	tǒk 
+1178	39-12-012-1	7251455940528626	Hup	hupd1244	in	IN	1460		g’ǒdan	g’ǒdan 
+1179	39-5-99904-1	7251455263774342	Hup	hupd1244	the ayahuasca				kápiʔ	kápiʔ 

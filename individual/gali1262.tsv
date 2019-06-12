@@ -1,0 +1,1377 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	38-1-1-1	7582314411144247	Kali'na	gali1262	the world	WORLD	965		nono	nono 
+2	38-1-21-1	7582314411144247	Kali'na	gali1262	the land	LAND	626		nono	nono 
+3	38-1-212-1	7582314411144247	Kali'na	gali1262	the soil	EARTH (SOIL)	1228		nono	nono 
+4	38-1-213-1	758231476014388	Kali'na	gali1262	the dust	DUST	2		ekɨine	ekɨine 
+5	38-1-214-1	7582314206743816	Kali'na	gali1262	the mud	MUD	640		akulu	akulu 
+6	38-1-215-1	7582314541395824	Kali'na	gali1262	the sand	SAND	671		sakau	sakau 
+7	38-1-22-1	7582314337649028	Kali'na	gali1262	the mountain or hill	MOUNTAIN OR HILL	2118		wɨpɨ	wɨpɨ 
+8	38-1-222-1	7582314863893006	Kali'na	gali1262	the cliff or precipice	PRECIPICE	618		ankena	ankena 
+9	38-1-25-1	7582314189655437	Kali'na	gali1262	the island	ISLAND	622		pa’u	pa’u 
+10	38-1-26-1	7582314189655437	Kali'na	gali1262	the mainland	MAINLAND	166		pa’u	pa’u 
+11	38-1-27-1	7582314805639387	Kali'na	gali1262	the shore	SHORE	113		pe'a	pe'a 
+12	38-1-28-1	758231462329079	Kali'na	gali1262	the cave	CAVE	1155		-a’talɨ	-a’talɨ 
+13	38-1-31-1	7582314688311186	Kali'na	gali1262	the water	WATER	948		tuna	tuna 
+14	38-1-32-1	7582314582086074	Kali'na	gali1262	the sea	SEA	1474		palana	palana 
+15	38-1-322-1	7582314377974149	Kali'na	gali1262	calm	CALM	258		itɨme	itɨme 
+16	38-1-323-1	7582314420502542	Kali'na	gali1262	rough(2)	ROUGH (OF SEA)	259		palipe	palipe 
+17	38-1-324-1	7582314424840794	Kali'na	gali1262	the foam	FOAM	1768		akepun	akepun 
+18	38-1-329-1	7582314582086074	Kali'na	gali1262	the ocean	OCEAN	645		palana	palana 
+19	38-1-33-1	7582314769167663	Kali'na	gali1262	the lake	LAKE	624		itupalɨ	itupalɨ 
+20	38-1-34-1	7582314971995446	Kali'na	gali1262	the bay	BAY	663		ame’talɨ	ame’talɨ 
+21	38-1-341-1	7582314333995318	Kali'na	gali1262	the lagoon	LAGOON	623		elalɨ	elalɨ 
+22	38-1-342-1	7582314878377325	Kali'na	gali1262	the reef	REEF	660		-apotɨlɨ	-apotɨlɨ 
+23	38-1-35-1	7582314581096926	Kali'na	gali1262	the wave	WAVE	978		imukululu	imukululu 
+24	38-1-352-1	758231467857611	Kali'na	gali1262	the tide	TIDE	891		kunu	kunu 
+25	38-1-353-1	7582314703296751	Kali'na	gali1262	the low tide	LOW TIDE	1026		pama	pama 
+26	38-1-354-1	7582314336796714	Kali'na	gali1262	the high tide	HIGH TIDE	613		kuma	kuma 
+27	38-1-36-1	7582314633518885	Kali'na	gali1262	the river or stream	RIVER	666		ilo’ne	ilo’ne 
+28	38-1-362-1	758231463022696	Kali'na	gali1262	the whirlpool	WHIRLPOOL	1982		imamu	imamu 
+29	38-1-37-1	7582314104267159	Kali'na	gali1262	the spring or well	SPRING OR WELL	2144		topona	topona 
+30	38-1-38-1	7582314256371801	Kali'na	gali1262	the swamp	SWAMP	1145		pilipili	pilipili 
+31	38-1-39-1	7582314411077842	Kali'na	gali1262	the waterfall	WATERFALL	943		tuna isolɨ	tuna isolɨ 
+32	38-1-41-1	7582314319454576	Kali'na	gali1262	the woods or forest	FOREST	420		itulu	itulu 
+33	38-1-43-1	7582314517390375	Kali'na	gali1262	the wood	WOOD	1803		wewe	wewe 
+34	38-1-44-1	7582314248959945	Kali'na	gali1262	the stone or rock	STONE OR ROCK	2125		topu	topu 
+35	38-1-45-1	7582314142845674	Kali'na	gali1262	the earthquake	EARTHQUAKE	6		tɨtɨtɨ	tɨtɨtɨ 
+36	38-1-51-1	7582314428569620	Kali'na	gali1262	the sky	SKY	1732		kapu	kapu 
+37	38-1-52-1	7582314975255629	Kali'na	gali1262	the sun	SUN	1343		weyu	weyu 
+38	38-1-54-1	758231459153474	Kali'na	gali1262	the star	STAR	1430		siliko	siliko 
+39	38-1-55-1	7582314304567462	Kali'na	gali1262	the lightning	LIGHTNING	1654		kapekape	kapekape 
+40	38-1-56-1	7582314481339341	Kali'na	gali1262	the thunder	THUNDER	1150		konomelu	konomelu 
+41	38-1-58-1	7582314481339341	Kali'na	gali1262	the storm	STORM	858		konomelu	konomelu 
+42	38-1-59-1	7582314857699197	Kali'na	gali1262	the rainbow	RAINBOW	1733		palamu	palamu 
+43	38-1-61-1	7582314938189129	Kali'na	gali1262	the light	LIGHT (RADIATION)	630		awei	awei 
+44	38-1-62-1	7582314476021186	Kali'na	gali1262	the darkness	DARKNESS	11		ewalumɨ	ewalumɨ 
+45	38-1-63-1	7582314101696987	Kali'na	gali1262	the shade or shadow	SHADE	1388		-akalɨ	-akalɨ 
+46	38-1-64-1	7582314871651565	Kali'na	gali1262	the dew	DEW	1977		sitakun	sitakun 
+47	38-1-72-1	7582314649535115	Kali'na	gali1262	the wind	WIND	960		pepeito	pepeito 
+48	38-1-73-1	7582314179937240	Kali'na	gali1262	the cloud	CLOUD	1489		kapulutu	kapulutu 
+49	38-1-74-1	758231482332620	Kali'na	gali1262	the fog	FOG	249		kamelita	kamelita 
+50	38-1-75-1	7582314844290647	Kali'na	gali1262	the rain	RAIN (PRECIPITATION)	658		konopo	konopo 
+51	38-1-81-1	7582314693582545	Kali'na	gali1262	the fire	FIRE	221		wa'to	wa'to 
+52	38-1-82-1	7582314286267640	Kali'na	gali1262	the flame	FLAME	889		kamu	kamu 
+53	38-1-83-1	758231476014388	Kali'na	gali1262	the smoke	SMOKE (EXHAUST)	778		ekɨine	ekɨine 
+54	38-1-84-1	7582314132087376	Kali'na	gali1262	the ash	ASH	646		welunopo	welunopo 
+55	38-1-841-1	7582314421740828	Kali'na	gali1262	the embers	EMBERS	67		wa'topo	wa'topo 
+56	38-1-851-1	7582314848284884	Kali'na	gali1262	to burn(1)	BURN (SOMETHING)	141		kolo'ka	kolo'ka 
+57	38-1-852-1	7582314293655742	Kali'na	gali1262	to burn(2)	BURNING	1428		kolo'tɨ	kolo'tɨ 
+58	38-1-86-1	7582314322398270	Kali'na	gali1262	to light	LIGHT (IGNITE)	737		pomaka	pomaka 
+59	38-1-861-1	7582314507258482	Kali'na	gali1262	to extinguish	EXTINGUISH	127		ewuka	ewuka 
+60	38-1-87-1	7582314427789956	Kali'na	gali1262	the match	MATCH	1133		suwapulu	suwapulu 
+61	38-1-88-1	7582314239624218	Kali'na	gali1262	the firewood	FIREWOOD	10		kunapolan	kunapolan 
+62	38-1-88-2	8252030988014761	Kali'na	gali1262	the firewood	FIREWOOD	10		mulei	mulei 
+63	38-1-89-1	7582314421740828	Kali'na	gali1262	the charcoal	CHARCOAL	1188		wa'topo	wa'topo 
+64	38-2-21-1	7582314677025086	Kali'na	gali1262	the man	MAN	1554		wokɨlɨ	wokɨlɨ 
+65	38-2-22-1	7582314140759666	Kali'na	gali1262	the woman	WOMAN	962		wolɨi	wolɨi 
+66	38-2-23-1	7582314677025086	Kali'na	gali1262	male(1)	MALE (OF ANIMAL)	2263		wokɨlɨ	wokɨlɨ 
+67	38-2-24-1	7582314140759666	Kali'na	gali1262	female(1)	FEMALE (OF PERSON)	2260		wolɨi	wolɨi 
+68	38-2-25-1	7582314914469670	Kali'na	gali1262	the boy	BOY	1366		mɨlekoko	mɨlekoko 
+69	38-2-251-1	7582314968646213	Kali'na	gali1262	the young man	YOUNG MAN	76		pɨito	pɨito 
+70	38-2-26-1	7582314648692674	Kali'na	gali1262	the girl	GIRL	1646		amɨiyako	amɨiyako 
+71	38-2-261-1	7582314140759666	Kali'na	gali1262	the young woman	YOUNG WOMAN	77		wolɨi	wolɨi 
+72	38-2-27-1	7582314959787016	Kali'na	gali1262	the child(1)	CHILD (YOUNG HUMAN)	1304		pitani	pitani 
+73	38-2-28-1	7582314692822927	Kali'na	gali1262	the baby	BABY	1289		pitanimenpo	pitanimenpo 
+74	38-2-31-1	7582314290244607	Kali'na	gali1262	the husband	HUSBAND	1200		-ïino	-ïino 
+75	38-2-32-1	7582314560879654	Kali'na	gali1262	the wife	WIFE	1199		-pɨtɨ	-pɨtɨ 
+76	38-2-33-1	7582314786712525	Kali'na	gali1262	to marry	MARRY	203		aina apɨiyɨ	aina apɨiyɨ 
+77	38-2-33-2	7582314145963867	Kali'na	gali1262	to marry	MARRY	203		pɨta	pɨta 
+78	38-2-341-1	7582314493442142	Kali'na	gali1262	the divorce	DIVORCE	1134		nonta	nonta 
+79	38-2-35-1	758231444768702	Kali'na	gali1262	the father	FATHER	1217		-yumɨ	-yumɨ 
+80	38-2-36-1	7582314559676855	Kali'na	gali1262	the mother	MOTHER	1216		-sano	-sano 
+81	38-2-38-1	7582314750695359	Kali'na	gali1262	the married man	MARRIED MAN	424		tɨpɨken	tɨpɨken 
+82	38-2-39-1	7582314659164928	Kali'na	gali1262	the married woman	MARRIED WOMAN	426		tɨinonen	tɨinonen 
+83	38-2-41-1	758231421825479	Kali'na	gali1262	the son	SON	1620		-ɨ’me	-ɨ’me 
+84	38-2-42-1	7582314576527358	Kali'na	gali1262	the daughter	DAUGHTER	1357		-emɨiyɨ	-emɨiyɨ 
+85	38-3-662-1	7582314971988779	Kali'na	gali1262	the porpoise or dolphin	DOLPHIN	1479		ililikula	ililikula 
+86	38-2-43-1	758231421825479	Kali'na	gali1262	the child(2)	CHILD (DESCENDANT)	1801		-ɨ’me	-ɨ’me 
+87	38-2-444-1	7582314685478100	Kali'na	gali1262	the older brother	OLDER BROTHER	1759		-ɨlɨi	-ɨlɨi 
+88	38-2-445-1	7582314322190957	Kali'na	gali1262	the younger brother	YOUNGER BROTHER	1760		-pilɨ	-pilɨ 
+89	38-2-45-1	7582314669135292	Kali'na	gali1262	the sister	SISTER	1263		-enautɨ	-enautɨ 
+90	38-2-454-1	7582314242914192	Kali'na	gali1262	the older sister	OLDER SISTER	1758		-pailɨ	-pailɨ 
+91	38-2-455-1	7582314186766522	Kali'na	gali1262	the younger sister	YOUNGER SISTER	1761		-pitɨ	-pitɨ 
+92	38-2-458-1	7582314610050194	Kali'na	gali1262	the twins	TWINS	1005		asemonosi	asemonosi 
+93	38-2-46-1	7582314130231489	Kali'na	gali1262	the grandfather	GRANDFATHER	1383		-tamulu	-tamulu 
+94	38-2-461-1	7582314763816892	Kali'na	gali1262	the old man	OLD MAN	406		tampoko	tampoko 
+95	38-2-47-1	7582314749317631	Kali'na	gali1262	the grandmother	GRANDMOTHER	1496		-notɨ	-notɨ 
+96	38-2-471-1	7582314564077337	Kali'na	gali1262	the old woman	OLD WOMAN	907		nopoko	nopoko 
+97	38-2-48-1	7582314928104174	Kali'na	gali1262	the grandson	GRANDSON	1618		-palɨ	-palɨ 
+98	38-2-49-1	7582314928104174	Kali'na	gali1262	the granddaughter	GRANDDAUGHTER	1619		-palɨ	-palɨ 
+99	38-2-511-1	7582314189413282	Kali'na	gali1262	the mother's brother	MOTHER'S BROTHER	1984		-ka’topo	-ka’topo 
+100	38-2-521-1	7582314559676855	Kali'na	gali1262	the mother's sister	MOTHER'S SISTER	171		-sano	-sano 
+101	38-2-522-1	758231447907324	Kali'na	gali1262	the father's sister	FATHER'S SISTER	170		-opi	-opi 
+102	38-2-56-1	7582314583160608	Kali'na	gali1262	the ancestors	ANCESTORS	1669		-epɨ	-epɨ 
+103	38-2-61-1	7582314640378916	Kali'na	gali1262	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		-ɨme tamulu	-ɨme tamulu 
+104	38-2-611-1	7582314640378916	Kali'na	gali1262	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		-ɨme tamulu	-ɨme tamulu 
+105	38-2-62-1	7582314836453361	Kali'na	gali1262	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		-ɨme notɨ	-ɨme notɨ 
+106	38-2-63-1	7582314420536237	Kali'na	gali1262	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		-palɨmi	-palɨmi 
+107	38-2-631-1	7582314420536237	Kali'na	gali1262	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		-palɨmi	-palɨmi 
+108	38-2-64-1	7582314921750965	Kali'na	gali1262	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		-palɨ sano	-palɨ sano 
+109	38-2-641-1	7582314921750965	Kali'na	gali1262	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		-palɨ sano	-palɨ sano 
+110	38-2-71-1	7582314306994141	Kali'na	gali1262	the stepfather	STEPFATHER	237		-yumɨntone	-yumɨntone 
+111	38-2-72-1	7582314661790869	Kali'na	gali1262	the stepmother	STEPMOTHER	236		-sanotone	-sanotone 
+112	38-2-75-1	7582314468120759	Kali'na	gali1262	the orphan	ORPHAN	1149		isanoma	isanoma 
+113	38-2-75-2	8252030211233765	Kali'na	gali1262	the orphan	ORPHAN	1149		iyumɨma	iyumɨma 
+114	38-2-76-1	758231499377128	Kali'na	gali1262	the widow	WIDOW	1756		pɨtɨnpo	pɨtɨnpo 
+115	38-2-77-1	758231499377128	Kali'na	gali1262	the widower	WIDOWER	1981		pɨtɨnpo	pɨtɨnpo 
+116	38-2-81-1	7582314527755490	Kali'na	gali1262	the relatives	RELATIVES	1644		-omolɨ	-omolɨ 
+117	38-2-91-1	7582314266156137	Kali'na	gali1262	I	I	1209		awu	awu 
+118	38-2-92-1	7582314483363259	Kali'na	gali1262	you (singular)	THOU	1215		amolo	amolo 
+119	38-2-93-1	7582314372772434	Kali'na	gali1262	he/she/it	HE OR SHE OR IT	262		mo’ko	mo’ko 
+120	38-2-93-2	7582314424270831	Kali'na	gali1262	he/she/it	HE OR SHE OR IT	262		molo	molo 
+121	38-2-941-1	7582314904486786	Kali'na	gali1262	we (inclusive)	WE (INCLUSIVE)	1131		kɨ'ko	kɨ'ko 
+122	38-2-942-1	7582314480935520	Kali'na	gali1262	we (exclusive)	WE (EXCLUSIVE)	1130		na'na	na'na 
+123	38-2-95-1	7582314410129649	Kali'na	gali1262	you (plural)	YOU	1213		amoyalon	amoyalon 
+124	38-2-96-1	86241438813423892	Kali'na	gali1262	they	THEY	817		mokalon	mokalon 
+125	38-3-11-1	7582314707541556	Kali'na	gali1262	the animal	ANIMAL	619		tonomɨ	tonomɨ 
+126	38-3-12-1	7582314677025086	Kali'na	gali1262	male(2)	MALE (OF PERSON)	2261		wokɨlɨ	wokɨlɨ 
+127	38-3-13-1	7582314140759666	Kali'na	gali1262	female(2)	FEMALE (OF ANIMAL)	2262		wolɨi	wolɨi 
+128	38-3-21-1	758231474174894	Kali'na	gali1262	the bull	BULL	1008		paka wokɨlɨ	paka wokɨlɨ 
+129	38-3-22-1	7582314451823025	Kali'na	gali1262	the ox	OX	1169		paka	paka 
+130	38-3-23-1	7582314451823025	Kali'na	gali1262	the cow	COW	1007		paka	paka 
+131	38-3-24-1	7582314531824006	Kali'na	gali1262	the calf	CALF	1989		pakamenpo	pakamenpo 
+132	38-3-25-1	7582314306391047	Kali'na	gali1262	the sheep	SHEEP	1331		kapala	kapala 
+133	38-3-29-1	7582314824986155	Kali'na	gali1262	the lamb	LAMB	820		kapalamenpo	kapalamenpo 
+134	38-3-32-1	7582314326437696	Kali'na	gali1262	the boar	BOAR	1348		pɨinko	pɨinko 
+135	38-3-35-1	7582314598856940	Kali'na	gali1262	the pig	PIG	1337		pɨiluku	pɨiluku 
+136	38-3-36-1	7582314510911996	Kali'na	gali1262	the goat	GOAT	1502		kapilita	kapilita 
+137	38-3-38-1	7582314690533347	Kali'na	gali1262	the kid	KID	1972		kapilitamenpo	kapilitamenpo 
+138	38-3-41-1	7582314861193864	Kali'na	gali1262	the horse	HORSE	615		kawale	kawale 
+139	38-3-42-1	758231453569220	Kali'na	gali1262	the stallion	STALLION	936		kawale wokɨlɨ	kawale wokɨlɨ 
+140	38-3-45-1	7582314915508754	Kali'na	gali1262	the foal or colt	FOAL	1647		kawalemenpo	kawalemenpo 
+141	38-3-46-1	7582314123861523	Kali'na	gali1262	the donkey	DONKEY	1862		paliko	paliko 
+142	38-3-5-1	7582314360320352	Kali'na	gali1262	the fowl	FOWL	265		kolotoko	kolotoko 
+143	38-3-52-1	7582314360320352	Kali'na	gali1262	the cock/rooster	ROOSTER	1511		kolotoko	kolotoko 
+144	38-3-55-1	7582314278707324	Kali'na	gali1262	the chicken	CHICKEN	1318		kolotokomenpo	kolotokomenpo 
+145	38-3-56-1	7582314498684558	Kali'na	gali1262	the goose	GOOSE	1187		kuwakuwa	kuwakuwa 
+146	38-3-57-1	7582314309093049	Kali'na	gali1262	the duck	DUCK	1360		opono	opono 
+147	38-3-58-1	7582314607780034	Kali'na	gali1262	the nest	NEST	539		(tonolo) aponɨ	(tonolo) aponɨ 
+148	38-3-581-1	7582314172523852	Kali'na	gali1262	the bird	BIRD	937		tonolo	tonolo 
+149	38-3-581-2	8252030784987605	Kali'na	gali1262	the bird	BIRD	937		wasili	wasili 
+150	38-3-582-1	7582314240533220	Kali'na	gali1262	the seagull	SEAGULL	950		akawalu	akawalu 
+151	38-3-582-2	8252030645128228	Kali'na	gali1262	the seagull	SEAGULL	950		wanawanali	wanawanali 
+152	38-3-583-1	7582314945230753	Kali'na	gali1262	the heron	HERON	758		sawaku	sawaku 
+153	38-3-583-2	8252030185253147	Kali'na	gali1262	the heron	HERON	758		palanasau	palanasau 
+154	38-3-583-3	8252030546741077	Kali'na	gali1262	the heron	HERON	758		pisulu	pisulu 
+155	38-3-584-1	7582314526971754	Kali'na	gali1262	the eagle	EAGLE	1905		apakani	apakani 
+156	38-3-585-1	7582314818414948	Kali'na	gali1262	the hawk	HAWK	307		akawa	akawa 
+157	38-3-585-2	8252030302019369	Kali'na	gali1262	the hawk	HAWK	307		kalakala	kalakala 
+158	38-3-586-1	7582314119692223	Kali'na	gali1262	the vulture	VULTURE	1185		kulumɨ	kulumɨ 
+159	38-3-586-2	8252030189108517	Kali'na	gali1262	the vulture	VULTURE	1185		anuwana	anuwana 
+160	38-3-591-1	7582314674566785	Kali'na	gali1262	the bat	BAT	1793		lele	lele 
+161	38-3-592-1	7582314737082807	Kali'na	gali1262	the parrot	PARROT	882		kulewako	kulewako 
+162	38-3-592-2	8252030627044120	Kali'na	gali1262	the parrot	PARROT	882		kɨnolo	kɨnolo 
+163	38-3-594-1	7582314610092833	Kali'na	gali1262	the dove	DOVE	1853		akukuwa	akukuwa 
+164	38-3-594-2	8252030123968694	Kali'na	gali1262	the dove	DOVE	1853		welusi	welusi 
+165	38-3-596-1	7582314837295001	Kali'na	gali1262	the owl	OWL	735		ulukuleya	ulukuleya 
+166	38-3-596-2	8252030224716751	Kali'na	gali1262	the owl	OWL	735		ulutau	ulutau 
+167	38-3-61-1	7582314425555860	Kali'na	gali1262	the dog	DOG	2009		pelo	pelo 
+168	38-3-62-1	7582314245807905	Kali'na	gali1262	the cat	CAT	1208		pusipusi	pusipusi 
+169	38-3-622-1	7582314639237618	Kali'na	gali1262	the opossum	OPOSSUM	309		awale	awale 
+170	38-3-63-1	7582314807511572	Kali'na	gali1262	the mouse or rat	MUROID (MOUSE OR RAT)	2139		alata	alata 
+171	38-3-65-1	7582314103764027	Kali'na	gali1262	the fish	FISH	227		woto	woto 
+172	38-3-65-2	825213811859376	Kali'na	gali1262	the fish	FISH	227		akupa	akupa 
+173	38-3-65-3	82521395083671	Kali'na	gali1262	the fish	FISH	227		pasisi	pasisi 
+174	38-3-65-4	825213644812830	Kali'na	gali1262	the fish	FISH	227		watɨpa	watɨpa 
+175	38-3-65-5	825213257378401	Kali'na	gali1262	the fish	FISH	227		palika	palika 
+176	38-3-652-1	758231432283037	Kali'na	gali1262	the fin	FIN	213		woto apolɨ	woto apolɨ 
+177	38-3-653-1	7582314881192340	Kali'na	gali1262	the scale	SCALE	266		woto pipo	woto pipo 
+178	38-3-654-1	7582314328827804	Kali'na	gali1262	the gill	GILL	1916		-mɨsalɨ	-mɨsalɨ 
+179	38-3-655-1	7582314379400003	Kali'na	gali1262	the shell	SHELL	598		kuwenpo	kuwenpo 
+180	38-3-661-1	7582314859321655	Kali'na	gali1262	the shark	SHARK	1110		aipayawa	aipayawa 
+181	38-3-664-1	7582314703503395	Kali'na	gali1262	the stingray	STINGRAY	1910		sipali	sipali 
+182	38-3-665-1	7582314767380994	Kali'na	gali1262	the freshwater eel	FRESHWATER EEL	1013		pulake	pulake 
+183	38-3-74-1	7582314243888880	Kali'na	gali1262	the fox	FOX	1312		yoloko	yoloko 
+184	38-3-75-1	7582314168443592	Kali'na	gali1262	the deer	DEER	1936		kusali	kusali 
+185	38-3-75-2	825203063362426	Kali'na	gali1262	the deer	DEER	1936		kaliwaku	kaliwaku 
+186	38-3-76-1	7582314439050129	Kali'na	gali1262	the monkey	MONKEY	1350		me’ku	me’ku 
+187	38-3-76-2	7582314163938405	Kali'na	gali1262	the monkey	MONKEY	1350		alawata	alawata 
+188	38-3-76-3	71051810353155901	Kali'na	gali1262	the monkey	MONKEY	1350		kusili	kusili 
+189	38-3-811-1	7582314529950934	Kali'na	gali1262	the head louse	HEAD LOUSE	310		omɨ (1)	omɨ (1) 
+190	38-3-812-1	758231499301317	Kali'na	gali1262	the nit	NIT	267		omɨ ɨmo	omɨ ɨmo 
+191	38-3-813-1	7582314245976217	Kali'na	gali1262	the flea	FLEA	232		kusipo	kusipo 
+192	38-3-814-1	7582314756282239	Kali'na	gali1262	the centipede	CENTIPEDE	1974		kumapepe	kumapepe 
+193	38-3-815-1	7582314410502664	Kali'na	gali1262	the scorpion	SCORPION	1538		sipilili	sipilili 
+194	38-3-816-1	7582314143737605	Kali'na	gali1262	the cockroach	COCKROACH	1575		alawe	alawe 
+195	38-3-817-1	7582314151375603	Kali'na	gali1262	the ant	ANT	587		wenkosi	wenkosi 
+196	38-3-817-2	8252030862279268	Kali'na	gali1262	the ant	ANT	587		yuku	yuku 
+197	38-3-817-3	8252030543964031	Kali'na	gali1262	the ant	ANT	587		kumako	kumako 
+198	38-3-818-1	7582314258544469	Kali'na	gali1262	the spider	SPIDER	843		moyowai	moyowai 
+199	38-3-818-2	8252030376924059	Kali'na	gali1262	the spider	SPIDER	843		alauli	alauli 
+200	38-3-819-1	7582314605818895	Kali'na	gali1262	the spider web	SPIDER WEB	1065		moyowai etaweinɨ	moyowai etaweinɨ 
+201	38-3-82-1	7582314409588857	Kali'na	gali1262	the bee	BEE	665		wano	wano 
+202	38-3-821-1	758231436199486	Kali'na	gali1262	the beeswax	BEESWAX	1931		wano weti	wano weti 
+203	38-3-823-1	7582314520823927	Kali'na	gali1262	the wasp	WASP	1517		tapiyukan	tapiyukan 
+204	38-3-83-1	7582314169168693	Kali'na	gali1262	the fly	FLY (INSECT)	1504		welewele	welewele 
+205	38-3-831-1	7582314893519992	Kali'na	gali1262	the sandfly or midge or gnat	SANDFLY	95		wayawaya	wayawaya 
+206	38-3-832-1	7582314724122841	Kali'na	gali1262	the mosquito	MOSQUITO	1509		kalapana	kalapana 
+207	38-3-84-1	7582314932773453	Kali'na	gali1262	the worm	WORM	1219		mɨnsokoloi	mɨnsokoloi 
+208	38-3-85-1	758231425778878	Kali'na	gali1262	the snake	SNAKE	730		okoyu	okoyu 
+209	38-3-85-2	825203026116720	Kali'na	gali1262	the snake	SNAKE	730		alawoi	alawoi 
+210	38-3-85-3	8252030682839429	Kali'na	gali1262	the snake	SNAKE	730		asakaimo	asakaimo 
+211	38-3-91-1	7582314202898732	Kali'na	gali1262	the firefly	FIREFLY	206		pɨyu	pɨyu 
+212	38-3-92-1	758231476676166	Kali'na	gali1262	the butterfly	BUTTERFLY	1791		palanpalan	palanpalan 
+213	38-3-93-1	7582314729899702	Kali'na	gali1262	the grasshopper	GRASSHOPPER	607		kasapa	kasapa 
+214	38-3-94-1	7582314697722022	Kali'na	gali1262	the snail	SNAIL	1543		kuwe	kuwe 
+215	38-3-95-1	7582314367060282	Kali'na	gali1262	the frog	FROG	503		pilitala	pilitala 
+216	38-3-95-2	825203099298885	Kali'na	gali1262	the frog	FROG	503		kɨto	kɨto 
+217	38-3-95-3	8252030966619766	Kali'na	gali1262	the frog	FROG	503		kunawalu	kunawalu 
+218	38-3-95-4	8252030493014335	Kali'na	gali1262	the frog	FROG	503		waleko	waleko 
+219	38-3-95-5	8252030130434235	Kali'na	gali1262	the frog	FROG	503		wayoko	wayoko 
+220	38-3-96-1	7582314309693571	Kali'na	gali1262	the lizard	LIZARD	632		kankasapa	kankasapa 
+221	38-3-96-2	8252030687385478	Kali'na	gali1262	the lizard	LIZARD	632		waima	waima 
+222	38-3-97-1	7582314999455237	Kali'na	gali1262	the crocodile or alligator	CROCODILE	1857		akale	akale 
+223	38-3-98-1	7582314896578575	Kali'na	gali1262	the turtle	TURTLE	112		wayamɨ	wayamɨ 
+224	38-3-98-2	8252030540537681	Kali'na	gali1262	the turtle	TURTLE	112		pɨnkoweya	pɨnkoweya 
+225	38-3-98-3	8252030891663947	Kali'na	gali1262	the turtle	TURTLE	112		alakaka	alakaka 
+226	38-3-98-4	8252030380371437	Kali'na	gali1262	the turtle	TURTLE	112		wayulupeta	wayulupeta 
+227	38-3-98-5	8252030632821820	Kali'na	gali1262	the turtle	TURTLE	112		katalu	katalu 
+228	38-3-98-6	8252030473769206	Kali'na	gali1262	the turtle	TURTLE	112		kawana	kawana 
+229	38-4-11-1	7582314981784221	Kali'na	gali1262	the body	BODY	1480		-yamɨn	-yamɨn 
+230	38-4-12-1	7582314473370141	Kali'na	gali1262	the skin or hide	SKIN	763		-pipo	-pipo 
+231	38-4-13-1	7582314527146430	Kali'na	gali1262	the flesh	FLESH	2259		-punu	-punu 
+232	38-4-14-1	758231490534199	Kali'na	gali1262	the hair	HAIR (HEAD)	2648		-usetɨ	-usetɨ 
+233	38-4-142-1	75823148632841	Kali'na	gali1262	the beard	BEARD	678		-etapositɨlɨ	-etapositɨlɨ 
+234	38-4-144-1	7582314612160936	Kali'na	gali1262	the body hair	HAIR (BODY)	189		-ɨpotɨ	-ɨpotɨ 
+235	38-4-145-1	7582314754700033	Kali'na	gali1262	the pubic hair	PUBIC HAIR	36		-motɨ	-motɨ 
+236	38-4-146-1	7582314305284837	Kali'na	gali1262	the dandruff	DANDRUFF	576		u'piyaki	u'piyaki 
+237	38-4-15-1	7582314717862598	Kali'na	gali1262	the blood	BLOOD	946		mɨnɨ	mɨnɨ 
+238	38-4-151-1	7582314573153446	Kali'na	gali1262	the vein or artery	BLOOD VESSEL	525		-mitɨ	-mitɨ 
+239	38-4-16-1	7582314434480908	Kali'na	gali1262	the bone	BONE	1394		-yepo	-yepo 
+240	38-4-162-1	7582314834230653	Kali'na	gali1262	the rib	RIB	801		-solopalɨ	-solopalɨ 
+241	38-4-17-1	7582314637669446	Kali'na	gali1262	the horn	HORN (ANATOMY)	1393		-lemetɨlɨ	-lemetɨlɨ 
+242	38-4-18-1	7582314784242150	Kali'na	gali1262	the tail	TAIL	1220		-antɨkɨlɨ	-antɨkɨlɨ 
+243	38-4-19-1	7582314743019600	Kali'na	gali1262	the back	BACK	1291		-ɨnkanalɨ	-ɨnkanalɨ 
+244	38-4-191-1	7582314700421477	Kali'na	gali1262	the spine	SPINE	805		-katupulu	-katupulu 
+245	38-4-2-1	7582314415240205	Kali'na	gali1262	the head	HEAD	1256		-upupo	-upupo 
+246	38-4-201-1	7582314282114218	Kali'na	gali1262	the temples	TEMPLES	1604		-pasalɨ	-pasalɨ 
+247	38-4-202-1	7582314810727332	Kali'na	gali1262	the skull	SKULL	1605		upupo kuwaiyɨ	upupo kuwaiyɨ 
+248	38-4-203-1	7582314268521297	Kali'na	gali1262	the brain	BRAIN	1583		-u’sakɨlɨ	-u’sakɨlɨ 
+249	38-4-204-1	758231419719685	Kali'na	gali1262	the face	FACE	1560		-petalɨ	-petalɨ 
+250	38-4-205-1	7582314630765113	Kali'na	gali1262	the forehead	FOREHEAD	123		-emepɨ	-emepɨ 
+251	38-4-207-1	7582314199664663	Kali'na	gali1262	the jaw	JAW	798		-ekusalɨ yepo	-ekusalɨ yepo 
+252	38-4-208-1	758231419719685	Kali'na	gali1262	the cheek	CHEEK	1730		-petalɨ	-petalɨ 
+253	38-4-209-1	7582314555814377	Kali'na	gali1262	the chin	CHIN	1510		-ekusalɨ	-ekusalɨ 
+254	38-4-21-1	7582314829278642	Kali'na	gali1262	the eye	EYE	1248		-enulu	-enulu 
+255	38-4-212-1	7582314602961036	Kali'na	gali1262	the eyebrow	EYEBROW	1173		-eme’sukulu	-eme’sukulu 
+256	38-4-213-1	7582314689087046	Kali'na	gali1262	the eyelid	EYELID	17		-enu’pipo	-enu’pipo 
+257	38-4-214-1	7582314542323516	Kali'na	gali1262	the eyelash	EYELASH	1540		-epipotɨ	-epipotɨ 
+258	38-4-215-1	7582314773125372	Kali'na	gali1262	to blink	BLINK	1655		episamɨ	episamɨ 
+259	38-4-22-1	7582314567153666	Kali'na	gali1262	the ear	EAR	1247		pana	pana 
+260	38-4-221-1	7582314963243128	Kali'na	gali1262	the earlobe	EARLOBE	18		pana sepelelɨ	pana sepelelɨ 
+261	38-4-222-1	7582314801145663	Kali'na	gali1262	the earwax	EARWAX	32		-panalɨ wetɨ	-panalɨ wetɨ 
+262	38-4-23-1	7582314506177801	Kali'na	gali1262	the nose	NOSE	1221		-emolɨ	-emolɨ 
+263	38-4-23-2	7582314638362249	Kali'na	gali1262	the nose	NOSE	1221		-enatalɨ	-enatalɨ 
+264	38-4-231-1	7582314713497837	Kali'na	gali1262	the nostril	NOSTRIL	1178		-emolɨ sakɨlalɨ	-emolɨ sakɨlalɨ 
+265	38-4-232-1	7582314108803738	Kali'na	gali1262	the nasal mucus	NASAL MUCUS (SNOT)	208		enata aikulu	enata aikulu 
+266	38-4-24-1	7582314497099684	Kali'na	gali1262	the mouth	MOUTH	674		-ɨntalɨ	-ɨntalɨ 
+267	38-4-241-1	7582314229799450	Kali'na	gali1262	the beak	BEAK	73		-potɨlɨ	-potɨlɨ 
+268	38-4-25-1	7582314136424105	Kali'na	gali1262	the lip	LIP	478		-esipilɨ	-esipilɨ 
+269	38-4-26-1	7582314636173274	Kali'na	gali1262	the tongue	TONGUE	1205		-nulu	-nulu 
+270	38-4-27-1	7582314550175508	Kali'na	gali1262	the tooth	TOOTH	1380		-yelɨ	-yelɨ 
+271	38-4-271-1	7582314191386675	Kali'na	gali1262	the gums	GUMS	139		-yelɨ aponɨ	-yelɨ aponɨ 
+272	38-4-272-1	7582314739816150	Kali'na	gali1262	the molar tooth	MOLAR TOOTH	1049		ye’tawai	ye’tawai 
+273	38-4-28-1	7582314396915543	Kali'na	gali1262	the neck	NECK	1333		-pɨmɨlɨ	-pɨmɨlɨ 
+274	38-4-281-1	7582314299446893	Kali'na	gali1262	the nape of the neck	NAPE (OF NECK)	1347		-asalɨ	-asalɨ 
+275	38-4-29-1	7582314760489504	Kali'na	gali1262	the throat	THROAT	1346		-enasalɨ	-enasalɨ 
+276	38-4-3-1	758231446000611	Kali'na	gali1262	the shoulder	SHOULDER	1482		-mo’talɨ	-mo’talɨ 
+277	38-4-301-1	7582314800361394	Kali'na	gali1262	the shoulderblade	SHOULDERBLADE	172		-inpa	-inpa 
+278	38-4-302-1	7582314940554594	Kali'na	gali1262	the collarbone	COLLARBONE	1994		-palasalɨ	-palasalɨ 
+279	38-4-31-1	75823145931537	Kali'na	gali1262	the arm	ARM	1673		-apolɨ	-apolɨ 
+280	38-4-312-1	7582314847169485	Kali'na	gali1262	the armpit	ARMPIT	1886		-ewatalɨ	-ewatalɨ 
+281	38-4-32-1	7582314505055262	Kali'na	gali1262	the elbow	ELBOW	981		-apolɨ enalɨ	-apolɨ enalɨ 
+282	38-4-321-1	7582314543565156	Kali'na	gali1262	the wrist	WRIST	799		-amekun	-amekun 
+283	38-4-33-1	7582314867191968	Kali'na	gali1262	the hand	HAND	1277		-ainalɨ	-ainalɨ 
+284	38-4-331-1	7582314208541577	Kali'na	gali1262	the palm of the hand	PALM OF HAND	1183		aina lalɨ	aina lalɨ 
+285	38-4-34-1	7582314264964325	Kali'na	gali1262	the finger	FINGER	1303		aina sikɨlɨlɨ	aina sikɨlɨlɨ 
+286	38-4-342-1	7582314446341731	Kali'na	gali1262	the thumb	THUMB	1781		aina yumɨ	aina yumɨ 
+287	38-4-344-1	7582314150444101	Kali'na	gali1262	the fingernail	FINGERNAIL	1258		-amosaitɨlɨ	-amosaitɨlɨ 
+288	38-4-345-1	7582314150444101	Kali'na	gali1262	the claw	CLAW	72		-amosaitɨlɨ	-amosaitɨlɨ 
+289	38-4-35-1	7582314858123781	Kali'na	gali1262	the leg	LEG	1297		-ɨsaiyɨ	-ɨsaiyɨ 
+290	38-4-351-1	7582314496581112	Kali'na	gali1262	the thigh	THIGH	800		-petɨ	-petɨ 
+291	38-4-352-1	7582314457499693	Kali'na	gali1262	the calf of the leg	CALF OF LEG	498		-ɨsaipunu	-ɨsaipunu 
+292	38-4-36-1	7582314954708754	Kali'na	gali1262	the knee	KNEE	1371		-ekunalɨ	-ekunalɨ 
+293	38-4-37-1	7582314566644396	Kali'na	gali1262	the foot	FOOT	1301		-pupulu	-pupulu 
+294	38-4-371-1	7582314833513686	Kali'na	gali1262	the ankle	ANKLE	803		-makalilɨ	-makalilɨ 
+295	38-4-372-1	7582314563081042	Kali'na	gali1262	the heel	HEEL	980		-tapulu	-tapulu 
+296	38-4-374-1	7582314962179708	Kali'na	gali1262	the footprint	FOOTPRINT	318		wenapo	wenapo 
+297	38-4-38-1	758231421537669	Kali'na	gali1262	the toe	TOE	1389		pupu sikɨlɨlɨ	pupu sikɨlɨlɨ 
+298	38-4-392-1	758231424541888	Kali'na	gali1262	the wing	WING	1257		-apolilɨ	-apolilɨ 
+299	38-4-393-1	7582314601471112	Kali'na	gali1262	the feather	FEATHER	1201		-potï	-potï 
+300	38-4-4-1	7582314762896241	Kali'na	gali1262	the chest	CHEST	1592		-ɨpopulu	-ɨpopulu 
+301	38-4-41-1	7582314434367127	Kali'na	gali1262	the breast	BREAST	1402		-manatɨlɨ	-manatɨlɨ 
+302	38-4-412-1	7582314107825982	Kali'na	gali1262	the nipple or teat	NIPPLE	796		manatɨ potɨlɨ	manatɨ potɨlɨ 
+303	38-4-43-1	758231451028828	Kali'na	gali1262	the navel	NAVEL	1838		-powetɨ	-powetɨ 
+304	38-4-44-1	758231489333572	Kali'na	gali1262	the heart	HEART	1223		-tulupo	-tulupo 
+305	38-4-441-1	7582314624543997	Kali'na	gali1262	the lung	LUNG	688		-sawonalɨ	-sawonalɨ 
+306	38-4-45-1	7582314520764635	Kali'na	gali1262	the liver	LIVER	1224		-elelɨ	-elelɨ 
+307	38-4-451-1	758231444473505	Kali'na	gali1262	the kidney	KIDNEY	489		-apɨ	-apɨ 
+308	38-4-452-1	7582314257652941	Kali'na	gali1262	the spleen	SPLEEN	1744		-yeta	-yeta 
+309	38-4-46-1	758231434914355	Kali'na	gali1262	the stomach	STOMACH	819		uwenpo	uwenpo 
+310	38-4-461-1	7582314357198182	Kali'na	gali1262	the intestines or guts	INTESTINES	1991		uwempo sikilipo	uwempo sikilipo 
+311	38-4-462-1	7582314290803555	Kali'na	gali1262	the waist	WAIST	1681		-uwase	-uwase 
+312	38-4-463-1	7582314993979000	Kali'na	gali1262	the hip	HIP	1745		-ematalɨ	-ematalɨ 
+313	38-4-464-1	7582314456111200	Kali'na	gali1262	the buttocks	BUTTOCKS	834		wesen	wesen 
+314	38-4-47-1	7582314956510750	Kali'na	gali1262	the womb	WOMB	804		-imone	-imone 
+315	38-4-49-1	7582314170260869	Kali'na	gali1262	the testicles	TESTICLES	797		-emulu	-emulu 
+316	38-4-492-1	7582314453152938	Kali'na	gali1262	the penis	PENIS	1222		-alokɨlɨ	-alokɨlɨ 
+317	38-4-51-1	7582314629810219	Kali'na	gali1262	to breathe	BREATHE	1407		wotalemamɨ	wotalemamɨ 
+318	38-4-52-1	7582314125194069	Kali'na	gali1262	to yawn	YAWN	1028		ɨntakapa	ɨntakapa 
+319	38-4-521-1	7582314252474112	Kali'na	gali1262	to hiccough	HICCOUGH	162		sɨkɨwa	sɨkɨwa 
+320	38-4-53-1	7582314217399980	Kali'na	gali1262	to cough	COUGH	879		selewa	selewa 
+321	38-4-54-1	7582314222893871	Kali'na	gali1262	to sneeze	SNEEZE	1621		atɨsiwa	atɨsiwa 
+322	38-4-55-1	7582314714771931	Kali'na	gali1262	to perspire	SWEAT (PERSPIRE)	126		elamuta	elamuta 
+323	38-4-56-1	7582314724419541	Kali'na	gali1262	to spit	SPIT	1440		etata	etata 
+324	38-4-57-1	7582314648792357	Kali'na	gali1262	to vomit	VOMIT	1278		uwenata	uwenata 
+325	38-4-58-1	7582314160033499	Kali'na	gali1262	to bite	BITE	1403		eka	eka 
+326	38-4-59-1	758231435053156	Kali'na	gali1262	to lick	LICK	319		nuta	nuta 
+327	38-4-591-1	758231422178432	Kali'na	gali1262	to dribble	DRIBBLE	268		etasikolowa	etasikolowa 
+328	38-4-61-1	7582314251672797	Kali'na	gali1262	to sleep	SLEEP	1585		wonɨkɨ	wonɨkɨ 
+329	38-4-612-1	7582314586045364	Kali'na	gali1262	to snore	SNORE	1983		enapowa	enapowa 
+330	38-4-62-1	7582314336455826	Kali'na	gali1262	to dream	DREAM (SOMETHING)	1920		wonetɨ	wonetɨ 
+331	38-4-63-1	7582314686702908	Kali'na	gali1262	to wake up	WAKE UP	1602		u’paka	u’paka 
+332	38-4-64-1	7582314621568981	Kali'na	gali1262	to fart	FART	1159		wepikota	wepikota 
+333	38-4-65-1	7582314492052918	Kali'na	gali1262	to piss	PISS	592		wosika	wosika 
+334	38-4-66-1	7582314785366206	Kali'na	gali1262	to shit	SHIT (DEFECATE)	676		uweka	uweka 
+335	38-4-67-1	7582314143959636	Kali'na	gali1262	to have sex	HAVE SEX	1785		woku	woku 
+336	38-4-68-1	7582314257096368	Kali'na	gali1262	to shiver	SHIVER	52		wetɨtɨka	wetɨtɨka 
+337	38-4-69-1	7582314811459985	Kali'na	gali1262	to bathe	BATHE	138		wekupi	wekupi 
+338	38-4-71-1	7582314897318685	Kali'na	gali1262	to beget	BEGET	1152		ɨmeka	ɨmeka 
+339	38-4-72-1	7582314685952184	Kali'na	gali1262	to be born	BE BORN	1090		woma	woma 
+340	38-4-73-1	7582314247116420	Kali'na	gali1262	pregnant	PREGNANT	1123		mɨnotome	mɨnotome 
+341	38-4-732-1	7582314892710059	Kali'na	gali1262	to conceive	CONCEIVE	1087		ɨmekapo	ɨmekapo 
+342	38-4-74-1	7582314869707523	Kali'na	gali1262	to be alive	BE ALIVE	1422		nulo	nulo 
+343	38-4-75-1	7582314654984625	Kali'na	gali1262	to die	DIE	1494		lomopɨ	lomopɨ 
+344	38-4-76-1	7582314186099969	Kali'na	gali1262	to kill	KILL	1417		wo	wo 
+345	38-4-77-1	7582314738040071	Kali'na	gali1262	the corpse	CORPSE	767		akepu	akepu 
+346	38-4-78-1	7582314269144144	Kali'na	gali1262	to bury	BURY	1719		unamɨ	unamɨ 
+347	38-4-79-1	7582314526325089	Kali'na	gali1262	the grave	GRAVE	1773		tumun	tumun 
+348	38-4-81-1	7582314662065097	Kali'na	gali1262	strong	STRONG	785		panape	panape 
+349	38-4-82-1	7582314831768407	Kali'na	gali1262	weak	WEAK	1601		lume	lume 
+350	38-4-83-1	7582314852899242	Kali'na	gali1262	healthy	HEALTHY	1364		tanepole	tanepole 
+351	38-4-84-1	7582314769839887	Kali'na	gali1262	sick/ill	SICK	1847		yetunpe	yetunpe 
+352	38-4-841-1	7582314465746024	Kali'na	gali1262	the fever	FEVER	1534		komɨina	komɨina 
+353	38-4-843-1	758231495772017	Kali'na	gali1262	the cold	COMMON COLD (DISEASE)	102		otono	otono 
+354	38-4-85-1	758231476361065	Kali'na	gali1262	the wound or sore	WOUND	1109		owopo	owopo 
+355	38-4-852-1	7582314728383608	Kali'na	gali1262	the bruise	BRUISE	1148		alekï	alekï 
+356	38-4-853-1	7582314875650388	Kali'na	gali1262	the swelling	SWELLING	1903		a’mano	a’mano 
+357	38-4-854-1	758231423802939	Kali'na	gali1262	the itch	ITCH	148		kumisako	kumisako 
+358	38-4-856-1	7582314849797692	Kali'na	gali1262	the boil	BOIL (OF SKIN)	793		yuyu	yuyu 
+359	38-4-857-1	758231413525345	Kali'na	gali1262	the pus	PUS	1808		ku’nu	ku’nu 
+360	38-4-858-1	7582314643701577	Kali'na	gali1262	the scar	SCAR	497		ipapo	ipapo 
+361	38-4-86-1	7582314354411993	Kali'na	gali1262	to cure	CURE	499		etɨnoka	etɨnoka 
+362	38-4-87-1	7582314307541252	Kali'na	gali1262	the physician	PHYSICIAN	597		-epinonen	-epinonen 
+363	38-4-88-1	7582314509848083	Kali'na	gali1262	the medicine	MEDICINE	1372		apiwano	apiwano 
+364	38-4-89-1	7582314856943792	Kali'na	gali1262	the poison	POISON	655		ɨkako	ɨkako 
+365	38-4-91-1	7582314462750646	Kali'na	gali1262	tired	TIRED	1757		lupo	lupo 
+366	38-4-912-1	7582314562270012	Kali'na	gali1262	to rest	REST	168		wolema	wolema 
+367	38-4-92-1	7582314271659161	Kali'na	gali1262	lazy	LAZY	1564		akinupe	akinupe 
+368	38-4-93-1	7582314711745491	Kali'na	gali1262	bald	BALD	1125		use’pa	use’pa 
+369	38-4-94-1	7582314743678421	Kali'na	gali1262	lame	LAME	320		sɨkɨtame	sɨkɨtame 
+370	38-4-95-1	7582314488710614	Kali'na	gali1262	deaf	DEAF	996		ipanapa	ipanapa 
+371	38-4-96-1	7582314729883258	Kali'na	gali1262	mute	MUTE	1666		elupopa	elupopa 
+372	38-4-97-1	7582314966988373	Kali'na	gali1262	blind	BLIND	1653		enupa	enupa 
+373	38-4-98-1	7582314873375461	Kali'na	gali1262	drunk	DRUNK	1463		tɨwetɨiye	tɨwetɨiye 
+374	38-4-99-1	7582314449701906	Kali'na	gali1262	naked	NAKED	590		ikamisapa	ikamisapa 
+375	38-5-11-1	7582314664604381	Kali'na	gali1262	to eat	EAT	1336		onolɨ	onolɨ 
+376	38-5-11-2	7582314453439222	Kali'na	gali1262	to eat	EAT	1336		enɨlɨ	enɨlɨ 
+377	38-5-11-3	7582314474673274	Kali'na	gali1262	to eat	EAT	1336		wentame	wentame 
+378	38-5-12-1	7582314103764027	Kali'na	gali1262	the food	FOOD	256		woto	woto 
+379	38-5-121-1	7582314324789208	Kali'na	gali1262	cooked	COOKED	269		toto’e	toto’e 
+380	38-5-122-1	7582314848261953	Kali'na	gali1262	raw	RAW	1959		etolɨpa	etolɨpa 
+381	38-5-123-1	758231417441979	Kali'na	gali1262	ripe	RIPE	178		tapita	tapita 
+382	38-5-124-1	7582314538629581	Kali'na	gali1262	unripe	UNRIPE	1958		iyakɨlɨ	iyakɨlɨ 
+383	38-5-125-1	7582314279889287	Kali'na	gali1262	rotten	ROTTEN	1728		tɨkota	tɨkota 
+384	38-5-13-1	7582314453439222	Kali'na	gali1262	to drink	DRINK	1401		enɨlɨ	enɨlɨ 
+385	38-5-14-1	7582314348842607	Kali'na	gali1262	to be hungry	BE HUNGRY	1533		kumɨ	kumɨ 
+386	38-5-141-1	758231455671309	Kali'na	gali1262	the famine	FAMINE	199		alepa sanolɨ	alepa sanolɨ 
+387	38-5-15-1	758231465131614	Kali'na	gali1262	to be thirsty	THIRSTY	847		tuna se wailɨ	tuna se wailɨ 
+388	38-5-16-1	7582314981911146	Kali'na	gali1262	to suck	SUCK	1421		inuku	inuku 
+389	38-5-18-1	7582314474673274	Kali'na	gali1262	to chew	CHEW	321		wentame	wentame 
+390	38-5-181-1	7582314495080976	Kali'na	gali1262	to swallow	SWALLOW	897		emo’kɨ	emo’kɨ 
+391	38-5-19-1	7582314719358101	Kali'na	gali1262	to choke	CHOKE	129		mɨlɨpɨ	mɨlɨpɨ 
+392	38-5-21-1	758231481394359	Kali'na	gali1262	to cook	COOK (SOMETHING)	1100		etoka	etoka 
+393	38-5-22-1	7582314779420224	Kali'na	gali1262	to boil	BOIL (OF LIQUID)	792		ɨmoka	ɨmoka 
+394	38-5-23-1	7582314788943036	Kali'na	gali1262	to roast or fry	ROAST OR FRY	2146		ikalalaka	ikalalaka 
+395	38-5-24-1	7582314547908642	Kali'na	gali1262	to bake	BAKE	183		ekei	ekei 
+396	38-5-25-1	7582314487612449	Kali'na	gali1262	the oven	OVEN	1143		ekeitopo	ekeitopo 
+397	38-5-26-1	7582314298403130	Kali'na	gali1262	the pot	POT	1462		tuma	tuma 
+398	38-5-28-1	7582314805429805	Kali'na	gali1262	the pan	PAN	31		kalalakatopo	kalalakatopo 
+399	38-5-31-1	7582314289651726	Kali'na	gali1262	the dish	DISH	481		palapi	palapi 
+400	38-5-31-2	7582314406985653	Kali'na	gali1262	the dish	DISH	481		peleti	peleti 
+401	38-5-32-1	7582314545492728	Kali'na	gali1262	the plate	PLATE	480		tosipi	tosipi 
+402	38-5-33-1	7582314144567496	Kali'na	gali1262	the bowl	BOWL	1530		sapela	sapela 
+403	38-5-34-1	7582314245863685	Kali'na	gali1262	the jug/pitcher	JUG	270		watalakan	watalakan 
+404	38-5-35-1	7582314310644284	Kali'na	gali1262	the cup	CUP	476		komiki	komiki 
+405	38-5-37-1	7582314721507956	Kali'na	gali1262	the spoon	SPOON	1378		sipunu	sipunu 
+406	38-5-38-1	7582314111937092	Kali'na	gali1262	the knife(1)	KNIFE (FOR EATING)	3210		maliya	maliya 
+407	38-5-39-1	7582314721507956	Kali'na	gali1262	the fork	FORK	1302		sipunu	sipunu 
+408	38-5-391-1	7582314380809044	Kali'na	gali1262	the tongs	TONGS	272		akɨkatopo	akɨkatopo 
+409	38-5-41-1	7582314171216250	Kali'na	gali1262	the meal	MEAL	1526		alepa	alepa 
+410	38-5-46-1	7582314780280515	Kali'na	gali1262	to peel	PEEL	275		ipi’ka	ipi’ka 
+411	38-5-47-1	7582314498131633	Kali'na	gali1262	to sieve or to strain	SIEVE	86		isuka	isuka 
+412	38-5-48-1	7582314483540415	Kali'na	gali1262	to scrape	SCRAPE	1767		kɨ	kɨ 
+413	38-5-49-1	7582314300277876	Kali'na	gali1262	to stir or to mix	MIX	2017		ɨkoima	ɨkoima 
+414	38-5-51-1	7582314747202970	Kali'na	gali1262	the bread	BREAD	1368		pelele	pelele 
+415	38-5-54-1	7582314330307896	Kali'na	gali1262	to knead	KNEAD	274		akɨkapotɨ	akɨkapotɨ 
+416	38-5-55-1	7582314538168252	Kali'na	gali1262	the flour	FLOUR	1594		polomɨn	polomɨn 
+417	38-5-56-1	7582314647978030	Kali'na	gali1262	to crush or to grind	GRIND	1033		akuka	akuka 
+418	38-5-58-1	758231424885698	Kali'na	gali1262	the mortar(1)	MORTAR CRUSHER	224		ako	ako 
+419	38-5-59-1	7582314900792506	Kali'na	gali1262	the pestle	PESTLE	225		ako tano	ako tano 
+420	38-5-61-1	7582314707541556	Kali'na	gali1262	the meat	MEAT	634		tonomɨ	tonomɨ 
+421	38-5-64-1	7582314521379423	Kali'na	gali1262	the soup	SOUP	1547		aikupo	aikupo 
+422	38-5-65-1	7582314250733631	Kali'na	gali1262	the vegetables	VEGETABLES	924		wonatopo	wonatopo 
+423	38-5-66-1	7582314582488059	Kali'na	gali1262	the bean	BEAN	832		pesi	pesi 
+424	38-5-71-1	7582314765490344	Kali'na	gali1262	the fruit	FRUIT	1507		epelɨ	epelɨ 
+425	38-5-712-1	758231479418005	Kali'na	gali1262	the bunch	BUNCH	1966		imontɨ	imontɨ 
+426	38-5-79-1	7582314963526601	Kali'na	gali1262	the oil	OIL (ORGANIC SUBSTANCE)	1484		dilwil	dilwil 
+427	38-5-791-1	7582314960243839	Kali'na	gali1262	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		katɨ	katɨ 
+428	38-5-81-1	7582314380044024	Kali'na	gali1262	the salt	SALT	1274		wayo	wayo 
+429	38-5-821-1	7582314890939187	Kali'na	gali1262	the chili pepper	CHILI PEPPER	919		pomɨi	pomɨi 
+430	38-5-84-1	7582314409588857	Kali'na	gali1262	the honey	HONEY	942		wano	wano 
+431	38-5-85-1	7582314476830557	Kali'na	gali1262	the sugar	SUGAR	862		sukulu	sukulu 
+432	38-5-86-1	7582314933115339	Kali'na	gali1262	the milk	MILK	635		diletɨ	diletɨ 
+433	38-5-86-2	7582314886809019	Kali'na	gali1262	the milk	MILK	635		meliki	meliki 
+434	38-5-88-1	7582314473770341	Kali'na	gali1262	the cheese	CHEESE	1569		fromage	fromage 
+435	38-5-89-1	7582314533167166	Kali'na	gali1262	the butter	BUTTER	1245		dibe	dibe 
+436	38-5-89-2	7582314383587342	Kali'na	gali1262	the butter	BUTTER	1245		pelele kulipatopo	pelele kulipatopo 
+437	38-5-9-1	7582314203487735	Kali'na	gali1262	the drink	BEVERAGE	731		tanemɨ	tanemɨ 
+438	38-5-92-1	7582314211599383	Kali'na	gali1262	the wine	WINE	1524		winu	winu 
+439	38-5-93-1	7582314134217932	Kali'na	gali1262	the beer	BEER	1639		labye	labye 
+440	38-5-93-2	7582314223304501	Kali'na	gali1262	the beer	BEER	1639		takepulen	takepulen 
+441	38-5-94-1	7582314282201106	Kali'na	gali1262	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		kasili	kasili 
+442	38-5-97-1	7582314720308842	Kali'na	gali1262	the egg	EGG	744		i’mo	i’mo 
+443	38-5-971-1	7582314606975525	Kali'na	gali1262	the yolk	YOLK	1556		i’mo kamilɨ	i’mo kamilɨ 
+444	38-6-11-1	7582314192278050	Kali'na	gali1262	to put on	PUT ON	158		womɨnta	womɨnta 
+445	38-6-12-1	7582314297843074	Kali'na	gali1262	the clothing or clothes	CLOTHES	1895		womɨn	womɨn 
+446	38-6-21-1	758231443296894	Kali'na	gali1262	the cloth	CLOTH	1616		kamisa	kamisa 
+447	38-6-24-1	7582314483737816	Kali'na	gali1262	the cotton	COTTON	1850		maulu	maulu 
+448	38-6-29-1	7582314453426746	Kali'na	gali1262	the leather	LEATHER	629		paka pipo	paka pipo 
+449	38-6-31-1	7582314321737885	Kali'na	gali1262	to spin	SPIN	121		epɨi	epɨi 
+450	38-6-32-1	7582314722054356	Kali'na	gali1262	the spindle	SPINDLE	277		kuita	kuita 
+451	38-6-33-1	758231415704168	Kali'na	gali1262	to weave	WEAVE	133		apemɨlɨ	apemɨlɨ 
+452	38-6-35-1	7582314551175060	Kali'na	gali1262	to sew	SEW	1457		atokɨ	atokɨ 
+453	38-6-36-1	7582314716876935	Kali'na	gali1262	the needle(1)	NEEDLE (FOR SEWING)	1382		akusa	akusa 
+454	38-6-38-1	7582314297731464	Kali'na	gali1262	the thread	THREAD	1161		nimo	nimo 
+455	38-7-37-1	7582314463620654	Kali'na	gali1262	the ladder	LADDER	1464		talapu	talapu 
+456	38-6-42-1	7582314193366468	Kali'na	gali1262	the (woman's) dress	DRESS	474		koto (2)	koto (2) 
+457	38-6-42-2	7582314928492287	Kali'na	gali1262	the (woman's) dress	DRESS	474		saiya	saiya 
+458	38-6-44-1	7582314848562180	Kali'na	gali1262	the shirt	SHIRT	1622		empi	empi 
+459	38-6-44-2	758231443296894	Kali'na	gali1262	the shirt	SHIRT	1622		kamisa	kamisa 
+460	38-6-45-1	758231493819303	Kali'na	gali1262	the collar	COLLAR	2012		enasa	enasa 
+461	38-6-46-1	7582314703890169	Kali'na	gali1262	the skirt	SKIRT	1600		panki	panki 
+462	38-6-48-1	7582314510948670	Kali'na	gali1262	the trousers	TROUSERS	809		puluku	puluku 
+463	38-6-49-1	7582314449747039	Kali'na	gali1262	the sock or stocking	STOCKING	329		kosu	kosu 
+464	38-6-51-1	7582314513473193	Kali'na	gali1262	the shoe	SHOE	1381		sapato	sapato 
+465	38-6-55-1	7582314223335802	Kali'na	gali1262	the hat or cap	HEADGEAR	2130		sanpelelu	sanpelelu 
+466	38-6-57-1	7582314791414944	Kali'na	gali1262	the belt	BELT	772		ekuntɨ	ekuntɨ 
+467	38-6-61-1	7582314368826324	Kali'na	gali1262	the pocket	POCKET	1851		mapusuku	mapusuku 
+468	38-6-62-1	7582314382656348	Kali'na	gali1262	the button	BUTTON	757		konopu	konopu 
+469	38-6-62-2	7582314482920948	Kali'na	gali1262	the button	BUTTON	757		bouton	bouton 
+470	38-6-63-1	7582314193376394	Kali'na	gali1262	the pin	PIN	64		pini	pini 
+471	38-6-71-1	7582314279389516	Kali'na	gali1262	the ornament or adornment	ORNAMENT	917		kulamalɨ	kulamalɨ 
+472	38-6-72-1	758231423950509	Kali'na	gali1262	the jewel	JEWEL	1029		kalukuli	kalukuli 
+473	38-6-73-1	7582314304130467	Kali'na	gali1262	the ring	RING	1374		ainatano	ainatano 
+474	38-6-74-1	7582314339165121	Kali'na	gali1262	the bracelet	BRACELET	1754		amekuntɨ	amekuntɨ 
+475	38-6-75-1	7582314178813713	Kali'na	gali1262	the necklace	NECKLACE	1961		aneka	aneka 
+476	38-6-76-1	7582314216983466	Kali'na	gali1262	the bead	BEAD	1860		kasulu	kasulu 
+477	38-6-77-1	75823141926442	Kali'na	gali1262	the earring	EARRING	770		panatano	panatano 
+478	38-6-78-1	7582314451710059	Kali'na	gali1262	the headband or headdress	HEADBAND	330		umali	umali 
+479	38-6-79-1	7582314200949184	Kali'na	gali1262	the tattoo	TATTOO	68		-melɨ	-melɨ 
+480	38-6-81-1	7582314812301565	Kali'na	gali1262	the handkerchief or rag	RAG	332		ankɨsa	ankɨsa 
+481	38-6-81-2	7582314551243346	Kali'na	gali1262	the handkerchief or rag	RAG	332		kamisanpo	kamisanpo 
+482	38-6-82-1	7582314551243346	Kali'na	gali1262	the towel	TOWEL	1021		kamisanpo	kamisanpo 
+483	38-6-82-2	7582314303611929	Kali'na	gali1262	the towel	TOWEL	1021		serviette	serviette 
+484	38-6-91-1	7582314842919953	Kali'na	gali1262	the comb	COMB	1475		onkai	onkai 
+485	38-6-91-2	7582314116295955	Kali'na	gali1262	the comb	COMB	1475		palila	palila 
+486	38-6-92-1	7582314121511624	Kali'na	gali1262	the brush	BRUSH	1821		posolo	posolo 
+487	38-6-921-1	758231424030873	Kali'na	gali1262	the plait/braid	BRAID	1043		usemo	usemo 
+488	38-6-93-1	7582314229928959	Kali'na	gali1262	the razor	RAZOR	151		mawasa	mawasa 
+489	38-6-95-1	758231494867460	Kali'na	gali1262	the soap	SOAP	788		sopo	sopo 
+490	38-6-96-1	7582314504553192	Kali'na	gali1262	the mirror	MIRROR	1171		supikili	supikili 
+491	38-7-11-1	7582314922756009	Kali'na	gali1262	to live	DWELL (LIVE, RESIDE)	363		emamɨ	emamɨ 
+492	38-7-12-1	7582314677356593	Kali'na	gali1262	the house	HOUSE	1252		auto	auto 
+493	38-7-13-1	7582314828348609	Kali'na	gali1262	the hut	HUT	1678		pataya	pataya 
+494	38-7-15-1	7582314845738705	Kali'na	gali1262	the yard or court	YARD	736		pɨlolo	pɨlolo 
+495	38-7-17-1	7582314222939343	Kali'na	gali1262	the cookhouse	COOKHOUSE	334		wetumamukatopo	wetumamukatopo 
+496	38-7-21-1	7582314993237188	Kali'na	gali1262	the room	ROOM	1450		wonɨ’topo	wonɨ’topo 
+497	38-7-22-1	758231495351435	Kali'na	gali1262	the door or gate	DOOR	1567		pena	pena 
+498	38-7-221-1	7582314771412496	Kali'na	gali1262	the doorpost	DOORPOST	80		wakapu	wakapu 
+499	38-7-23-1	7582314408075041	Kali'na	gali1262	the lock	LOCK	1596		lakele	lakele 
+500	38-7-231-1	7582314408075041	Kali'na	gali1262	the latch or door-bolt	LATCH	1012		lakele	lakele 
+501	38-7-24-1	7582314408075041	Kali'na	gali1262	the key	KEY	1472		lakele	lakele 
+502	38-7-25-1	7582314280327667	Kali'na	gali1262	the window	WINDOW	1375		pesele	pesele 
+503	38-7-25-2	8252030676270151	Kali'na	gali1262	the window	WINDOW	1375		lafinèt	lafinèt 
+504	38-7-26-1	7582314483322425	Kali'na	gali1262	the floor	FLOOR	1632		-lalɨ	-lalɨ 
+505	38-7-27-1	7582314383509350	Kali'na	gali1262	the wall	WALL (OF HOUSE)	933		akototopo	akototopo 
+506	38-7-31-1	7582314511991615	Kali'na	gali1262	the fireplace	FIREPLACE	185		wato aponɨ	wato aponɨ 
+507	38-7-42-1	7582314706894903	Kali'na	gali1262	the bed	BED	1663		bedi	bedi 
+508	38-7-42-2	8252030278228232	Kali'na	gali1262	the bed	BED	1663		litɨ	litɨ 
+509	38-7-422-1	758231493486573	Kali'na	gali1262	the blanket	BLANKET	806		nopon	nopon 
+510	38-7-43-1	7582314237190483	Kali'na	gali1262	the chair	CHAIR	1476		aponano	aponano 
+511	38-7-44-1	7582314208937022	Kali'na	gali1262	the table	TABLE	1775		tapala	tapala 
+512	38-7-45-1	7582314339063300	Kali'na	gali1262	the lamp or torch	TORCH OR LAMP	2131		lampu	lampu 
+513	38-7-45-2	7582314738257471	Kali'na	gali1262	the lamp or torch	TORCH OR LAMP	2131		lanteli	lanteli 
+514	38-7-45-3	7582314655639529	Kali'na	gali1262	the lamp or torch	TORCH OR LAMP	2131		pil[ɨ]	pil[ɨ] 
+515	38-7-45-4	7582314966169445	Kali'na	gali1262	the lamp or torch	TORCH OR LAMP	2131		kokolampu	kokolampu 
+516	38-7-46-1	75823145380620	Kali'na	gali1262	the candle	CANDLE	1273		tuli	tuli 
+517	38-7-47-1	7582314182784968	Kali'na	gali1262	the shelf	SHELF	745		sula	sula 
+518	38-7-51-1	7582314677356593	Kali'na	gali1262	the roof	ROOF	769		auto	auto 
+519	38-7-52-1	7582314677356593	Kali'na	gali1262	the thatch	THATCH	279		auto	auto 
+520	38-7-53-1	7582314132516984	Kali'na	gali1262	the ridgepole	RIDGEPOLE	280		ileputɨ	ileputɨ 
+521	38-7-54-1	7582314808858831	Kali'na	gali1262	the rafter	RAFTER	829		yalalɨ	yalalɨ 
+522	38-7-55-1	7582314382732447	Kali'na	gali1262	the beam	BEAM	1132		sulapan	sulapan 
+523	38-7-56-1	7582314771412496	Kali'na	gali1262	the post or pole	POST	281		wakapu	wakapu 
+524	38-7-57-1	7582314926054976	Kali'na	gali1262	the board	BOARD	1227		palanka	palanka 
+525	38-7-62-1	7582314236803617	Kali'na	gali1262	the brick	BRICK	1006		kalon	kalon 
+526	38-8-11-1	7582314341435651	Kali'na	gali1262	the farmer	FARMER	979		maina pokono	maina pokono 
+527	38-8-12-1	7582314761319207	Kali'na	gali1262	the field	FIELD	212		maina	maina 
+528	38-8-13-1	7582314761319207	Kali'na	gali1262	the garden	GARDEN	586		maina	maina 
+529	38-8-22-1	7582314296322982	Kali'na	gali1262	to dig	DIG	1418		amika	amika 
+530	38-8-24-1	7582314719082661	Kali'na	gali1262	the shovel	SHOVEL	1901		sikopu	sikopu 
+531	38-8-24-2	8252030525116919	Kali'na	gali1262	the shovel	SHOVEL	1901		lapèl	lapèl 
+532	38-8-25-1	7582314872522084	Kali'na	gali1262	the hoe	HOE	284		sanpa	sanpa 
+533	38-8-27-1	7582314513774536	Kali'na	gali1262	the rake	RAKE	338		atakolonankatopo	atakolonankatopo 
+534	38-8-27-2	7582314641826163	Kali'na	gali1262	the rake	RAKE	338		salaika	salaika 
+535	38-8-31-1	7582314260328985	Kali'na	gali1262	to sow	SOW SEEDS	748		pomɨ	pomɨ 
+536	38-8-311-1	758231478547693	Kali'na	gali1262	the seed	SEED	714		epɨpo	epɨpo 
+537	38-8-42-1	758231478547693	Kali'na	gali1262	the grain	GRAIN	605		epɨpo	epɨpo 
+538	38-8-47-1	7582314112872995	Kali'na	gali1262	the maize/corn	MAIZE	506		awasi	awasi 
+539	38-8-48-1	7582314464213582	Kali'na	gali1262	the rice	RICE	926		aleisi	aleisi 
+540	38-8-51-1	7582314965918469	Kali'na	gali1262	the grass	GRASS	606		itupu	itupu 
+541	38-8-531-1	7582314260328985	Kali'na	gali1262	to plant	PLANT (SOMETHING)	1486		pomɨ	pomɨ 
+542	38-8-54-1	7582314573153446	Kali'na	gali1262	the root	ROOT	670		-mitɨ	-mitɨ 
+543	38-8-55-1	7582314891568983	Kali'na	gali1262	the branch	BRANCH OR TWIG	3223		-polilɨ	-polilɨ 
+544	38-8-56-1	758231493890795	Kali'na	gali1262	the leaf	LEAF	628		-alɨ	-alɨ 
+545	38-8-57-1	7582314996678460	Kali'na	gali1262	the flower	FLOWER	239		-epɨlɨlɨ	-epɨlɨlɨ 
+546	38-8-57-2	7582314193941695	Kali'na	gali1262	the flower	FLOWER	239		polomiki	polomiki 
+547	38-8-6-1	7582314517390375	Kali'na	gali1262	the tree	TREE	906		wewe	wewe 
+548	38-8-6-2	825213817114050	Kali'na	gali1262	the tree	TREE	906		kupii	kupii 
+549	38-8-6-3	825213410049247	Kali'na	gali1262	the tree	TREE	906		simili	simili 
+550	38-8-6-4	82521336884580	Kali'na	gali1262	the tree	TREE	906		wonu	wonu 
+551	38-8-6-5	825213461306238	Kali'na	gali1262	the tree	TREE	906		mo’pe	mo’pe 
+552	38-8-6-6	82521311643437	Kali'na	gali1262	the tree	TREE	906		panakoko	panakoko 
+553	38-8-6-7	825213264586395	Kali'na	gali1262	the tree	TREE	906		kwepi	kwepi 
+554	38-8-6-8	825216900441693	Kali'na	gali1262	the tree	TREE	906		takini	takini 
+555	38-8-68-1	7582314877173296	Kali'na	gali1262	the tobacco	TOBACCO	974		kulalu	kulalu 
+556	38-8-68-2	7582314611246763	Kali'na	gali1262	the tobacco	TOBACCO	974		tamɨ	tamɨ 
+557	38-8-69-1	7582314627212317	Kali'na	gali1262	to smoke	SMOKE (INHALE)	1689		aima	aima 
+558	38-8-691-1	7582314220415130	Kali'na	gali1262	the pipe	PIPE	1124		paipa	paipa 
+559	38-8-72-1	7582314281241521	Kali'na	gali1262	the tree stump	TREE STUMP	241		wewe untɨpo	wewe untɨpo 
+560	38-8-73-1	758231421123597	Kali'na	gali1262	the tree trunk	TREE TRUNK	344		wewe untɨ	wewe untɨ 
+561	38-8-74-1	7582314502522619	Kali'na	gali1262	the forked branch	FORKED BRANCH	409		tɨpantaken	tɨpantaken 
+562	38-8-75-1	7582314473370141	Kali'na	gali1262	the bark	BARK	1204		-pipo	-pipo 
+563	38-8-76-1	7582314186572422	Kali'na	gali1262	the sap	SAP	345		wewe aikulu	wewe aikulu 
+564	38-8-81-1	7582314318791077	Kali'na	gali1262	the palm tree	PALM TREE	1181		awala	awala 
+565	38-8-81-2	7929123130021421	Kali'na	gali1262	the palm tree	PALM TREE	1181		malipa	malipa 
+566	38-8-81-3	8252030131019220	Kali'na	gali1262	the palm tree	PALM TREE	1181		wasei	wasei 
+567	38-8-81-4	8252030128650777	Kali'na	gali1262	the palm tree	PALM TREE	1181		kumu	kumu 
+568	38-8-81-5	8252030332278296	Kali'na	gali1262	the palm tree	PALM TREE	1181		patawa	patawa 
+569	38-8-82-1	7582314354787065	Kali'na	gali1262	the coconut	COCONUT	970		ko’ko	ko’ko 
+570	38-8-83-1	7582314739535155	Kali'na	gali1262	the citrus fruit	CITRUS FRUIT	1126		alimiki	alimiki 
+571	38-8-84-1	758231436840474	Kali'na	gali1262	the banana	BANANA	868		palulu	palulu 
+572	38-8-91-1	7582314644478247	Kali'na	gali1262	the sweet potato	SWEET POTATO	159		napi	napi 
+573	38-8-912-1	7582314623067203	Kali'na	gali1262	the yam	YAM	410		napɨi	napɨi 
+574	38-8-92-1	7582314435416827	Kali'na	gali1262	the cassava/manioc	CASSAVA	925		kɨyele	kɨyele 
+575	38-8-92-2	8252030537292565	Kali'na	gali1262	the cassava/manioc	CASSAVA	925		yupo	yupo 
+576	38-8-93-1	7582314593355180	Kali'na	gali1262	the gourd	GOURD	411		kuwa'i	kuwa'i 
+577	38-8-931-1	7582314793536962	Kali'na	gali1262	the pumpkin or squash	PUMPKIN	864		awɨyama	awɨyama 
+578	38-8-94-1	7582314112816265	Kali'na	gali1262	the bamboo	BAMBOO	1927		kuwama	kuwama 
+579	38-8-941-1	7582314355119513	Kali'na	gali1262	the sugar cane	SUGAR CANE	146		asikalu	asikalu 
+580	38-8-96-1	7582314166982220	Kali'na	gali1262	the fish poison	FISH POISON	348		ineku	ineku 
+581	38-8-96-2	8252030839118509	Kali'na	gali1262	the fish poison	FISH POISON	348		kunami	kunami 
+582	38-8-96-3	8252030848180304	Kali'na	gali1262	the fish poison	FISH POISON	348		kunapalu	kunapalu 
+583	38-8-98-1	7582314707867557	Kali'na	gali1262	the mushroom	MUSHROOM	641		kalusaku	kalusaku 
+584	38-8-98-2	8252030507042983	Kali'na	gali1262	the mushroom	MUSHROOM	641		ulupe	ulupe 
+585	38-9-12-1	7582314648073506	Kali'na	gali1262	the work	WORK (LABOUR)	984		emamina	emamina 
+586	38-9-14-1	7582314130282540	Kali'na	gali1262	to bend	BEND	2004		ensuma	ensuma 
+587	38-9-15-1	7582314635495007	Kali'na	gali1262	to fold	FOLD	1470		anpi'mo	anpi'mo 
+588	38-9-16-1	758231495888381	Kali'na	gali1262	to tie	TIE	1917		mɨ	mɨ 
+589	38-9-161-1	7582314587692003	Kali'na	gali1262	to untie	UNTIE	352		inpoka	inpoka 
+590	38-9-18-1	7582314695700883	Kali'na	gali1262	the chain	CHAIN	1627		keti	keti 
+591	38-9-19-1	758231480331226	Kali'na	gali1262	the rope	ROPE	1218		kapuya	kapuya 
+592	38-9-19-2	7582314385349011	Kali'na	gali1262	the rope	ROPE	1218		kulawa	kulawa 
+593	38-9-192-1	7582314525096918	Kali'na	gali1262	the knot	KNOT	760		ɨmɨpo	ɨmɨpo 
+594	38-9-21-1	7582314186099969	Kali'na	gali1262	to strike or hit or beat	STRIKE OR BEAT	2133		wo	wo 
+595	38-9-211-1	7582314262897636	Kali'na	gali1262	to pound	POUND	354		kofuma	kofuma 
+596	38-9-22-1	7582314244004275	Kali'na	gali1262	to cut	CUT	1432		koto (1)	koto (1) 
+597	38-9-221-1	7582314351112828	Kali'na	gali1262	to cut down	CUT DOWN	355		akoto (1)	akoto (1) 
+598	38-9-222-1	7582314422235987	Kali'na	gali1262	to chop	CHOP	155		pu’ka	pu’ka 
+599	38-9-223-1	7582314385484665	Kali'na	gali1262	to stab	STAB TO DEATH	3189		soloka	soloka 
+600	38-9-23-1	7582314111937092	Kali'na	gali1262	the knife(2)	KNIFE	1352		maliya	maliya 
+601	38-9-24-1	7582314416140044	Kali'na	gali1262	the scissors or shears	SHEARS	356		welasi	welasi 
+602	38-9-25-1	7582314953590960	Kali'na	gali1262	the axe/ax	AXE	677		wɨwɨ	wɨwɨ 
+603	38-9-251-1	758231488180277	Kali'na	gali1262	the adze	ADZE	290		pulule	pulule 
+604	38-9-251-2	7582314541448514	Kali'na	gali1262	the adze	ADZE	290		pulusai	pulusai 
+605	38-9-26-1	7582314532607487	Kali'na	gali1262	to break	BREAK (DESTROY OR GET DESTROYED)	680		anpotɨ	anpotɨ 
+606	38-9-261-1	7582314819689491	Kali'na	gali1262	broken	BROKEN (NOT WORKING)	3190		tanpose	tanpose 
+607	38-9-27-1	758231411836392	Kali'na	gali1262	to split	SPLIT	1437		laka	laka 
+608	38-9-28-1	7582314775454126	Kali'na	gali1262	to tear	TEAR (SHRED)	1735		e’ka	e’ka 
+609	38-9-83-1	7582314975225615	Kali'na	gali1262	the statue	STATUE	1002		ukupo	ukupo 
+610	38-9-29-1	758231412898754	Kali'na	gali1262	to skin	PULL OFF (SKIN)	291		pipoka	pipoka 
+611	38-9-31-1	7582314800116263	Kali'na	gali1262	to rub	RUB	1449		sɨkɨsɨkɨma	sɨkɨsɨkɨma 
+612	38-9-32-1	7582314386563775	Kali'na	gali1262	to stretch	STRETCH	214		apika	apika 
+613	38-9-33-1	7582314156073942	Kali'na	gali1262	to pull	PULL	1455		tɨnka	tɨnka 
+614	38-9-34-1	7582314493179239	Kali'na	gali1262	to spread out	SPREAD OUT	38		alipa	alipa 
+615	38-9-341-1	7582314574470508	Kali'na	gali1262	to hang up	HANG UP	357		ewato	ewato 
+616	38-9-343-1	7582314507258482	Kali'na	gali1262	to squeeze	SQUEEZE	1414		ewuka	ewuka 
+617	38-9-35-1	7582314625136642	Kali'na	gali1262	to pour	POUR	1487		alɨmo	alɨmo 
+618	38-9-36-1	7582314589725619	Kali'na	gali1262	to wash	WASH	1453		kupi	kupi 
+619	38-9-37-1	7582314191772744	Kali'na	gali1262	to sweep	SWEEP	230		akoka	akoka 
+620	38-9-38-1	7582314173864793	Kali'na	gali1262	the broom	BROOM	245		paisawa	paisawa 
+621	38-9-422-1	7582314985672006	Kali'na	gali1262	the tool	TOOL	1361		kɨlɨ	kɨlɨ 
+622	38-9-44-1	758231476868193	Kali'na	gali1262	to build	BUILD	1840		amɨ (2)	amɨ (2) 
+623	38-9-46-1	7582314423040070	Kali'na	gali1262	to bore	BORE	1501		puka	puka 
+624	38-9-461-1	7582314296322982	Kali'na	gali1262	to hollow out	HOLLOW OUT	46		amika	amika 
+625	38-9-48-1	7582314261784376	Kali'na	gali1262	the saw	SAW	1948		sasa	sasa 
+626	38-9-49-1	7582314759902174	Kali'na	gali1262	the hammer	HAMMER	1481		maloto	maloto 
+627	38-9-5-1	7582314471042219	Kali'na	gali1262	the nail	NAIL (TOOL)	502		putuputuli	putuputuli 
+628	38-9-56-1	7582314449087910	Kali'na	gali1262	the glue	GLUE	1069		sipipa	sipipa 
+629	38-9-64-1	7582314957874463	Kali'na	gali1262	the gold	GOLD	1369		ikamipo	ikamipo 
+630	38-9-64-2	758231423950509	Kali'na	gali1262	the gold	GOLD	1369		kalukuli	kalukuli 
+631	38-9-65-1	7582314803175104	Kali'na	gali1262	the silver	SILVER	759		amununpo	amununpo 
+632	38-9-66-1	7582314172088285	Kali'na	gali1262	the copper	COPPER	1825		kopolo	kopolo 
+633	38-9-67-1	758231463663233	Kali'na	gali1262	the iron	IRON	621		sipalali	sipalali 
+634	38-9-68-1	7582314636722160	Kali'na	gali1262	the lead	LEAD (CHEMICAL ELEMENT)	627		piloto	piloto 
+635	38-9-71-1	7582314768558986	Kali'na	gali1262	the potter	POTTER	359		oli’no pokono	oli’no pokono 
+636	38-9-72-1	7582314581434829	Kali'na	gali1262	to mould/mold	MOLD	289		isamika	isamika 
+637	38-9-73-1	7582314672888339	Kali'na	gali1262	the clay	CLAY	1399		oli’no	oli’no 
+638	38-9-74-1	7582314879385111	Kali'na	gali1262	the glass	GLASS	604		tasiwɨinen	tasiwɨinen 
+639	38-9-75-1	758231415704168	Kali'na	gali1262	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		apemɨlɨ	apemɨlɨ 
+640	38-9-76-1	7582314497684384	Kali'na	gali1262	the basket	BASKET	1539		pasikita	pasikita 
+641	38-9-76-2	8252030461191679	Kali'na	gali1262	the basket	BASKET	1539		pakala	pakala 
+642	38-9-76-3	8252030922689887	Kali'na	gali1262	the basket	BASKET	1539		kulukulu	kulukulu 
+643	38-9-81-1	7582314668852098	Kali'na	gali1262	to carve	CARVE	228		melo	melo 
+644	38-9-82-1	7582314424577604	Kali'na	gali1262	the sculptor	SCULPTOR	914		ukunen	ukunen 
+645	38-1-99901-1	7582314805639387	Kali'na	gali1262	the beach				pe'a	pe'a 
+646	38-9-84-1	7582314322353535	Kali'na	gali1262	the chisel	CHISEL	1979		tanta	tanta 
+647	38-9-84-2	825216153822355	Kali'na	gali1262	the chisel	CHISEL	1979		tenten	tenten 
+648	38-9-88-1	7582314804664431	Kali'na	gali1262	the paint	PAINT (PIGMENTS)	647		kuli	kuli 
+649	38-9-89-1	7582314955148535	Kali'na	gali1262	to paint	PAINTING	2001		kulipa	kulipa 
+650	38-9-89-2	7582314264870280	Kali'na	gali1262	to paint	PAINTING	2001		pentire	pentire 
+651	38-10-11-1	7582314644820467	Kali'na	gali1262	to move	MOVE	765		kɨlino	kɨlino 
+652	38-10-12-1	7582314299363067	Kali'na	gali1262	to turn	TURN	1588		ulinta	ulinta 
+653	38-10-13-1	7582314753556569	Kali'na	gali1262	to turn around	TURN (SOMETHING)	1445		welama	welama 
+654	38-10-14-1	7582314881908403	Kali'na	gali1262	to wrap	WRAP	1113		amemɨ	amemɨ 
+655	38-10-15-1	7582314477203215	Kali'na	gali1262	to roll	ROLL	827		umɨlɨ	umɨlɨ 
+656	38-10-16-1	7582314493442142	Kali'na	gali1262	to drop	DROP (SOMETHING)	2866		nonta	nonta 
+657	38-10-17-1	7582314631453931	Kali'na	gali1262	to twist	TWIST (AROUND)	3199		ewu’ka	ewu’ka 
+658	38-10-21-1	7582314779751567	Kali'na	gali1262	to rise	RISE (MOVE UPWARDS)	568		awomɨ	awomɨ 
+659	38-10-22-1	7582314889589508	Kali'na	gali1262	to raise or lift	LIFT	501		awonka (2)	awonka (2) 
+660	38-10-23-1	7582314685952184	Kali'na	gali1262	to fall	FALL	1280		woma	woma 
+661	38-10-24-1	7582314125225697	Kali'na	gali1262	to drip	DRIP (EMIT LIQUID)	2253		wosewuka	wosewuka 
+662	38-10-25-1	758231499676010	Kali'na	gali1262	to throw	THROW	1456		ema	ema 
+663	38-10-252-1	83271411764586395	Kali'na	gali1262	to catch	CATCH	702		apɨi	apɨi 
+664	38-10-26-1	7582314610330537	Kali'na	gali1262	to shake	SHAKE	1909		susunka	susunka 
+665	38-10-32-1	7582314391396179	Kali'na	gali1262	to flow	FLOW	2003		aikuta	aikuta 
+666	38-10-33-1	7582314677907266	Kali'na	gali1262	to sink	SINK (DESCEND)	1088		ipekɨ	ipekɨ 
+667	38-10-34-1	7582314368971322	Kali'na	gali1262	to float	FLOAT	1574		uta	uta 
+668	38-10-35-1	7582314403406030	Kali'na	gali1262	to swim	SWIM	1439		weponumɨ	weponumɨ 
+669	38-10-351-1	7582314242563919	Kali'na	gali1262	to dive	DIVE	119		watumuku	watumuku 
+670	38-10-352-1	7582314918511702	Kali'na	gali1262	to splash	SPLASH	365		pisinka	pisinka 
+671	38-10-37-1	758231433834699	Kali'na	gali1262	to fly	FLY (MOVE THROUGH AIR)	1441		alilumɨ	alilumɨ 
+672	38-10-38-1	7582314871710465	Kali'na	gali1262	to blow	BLOW (OF WIND)	175		wotulo	wotulo 
+673	38-10-41-1	7582314779160480	Kali'na	gali1262	to crawl	CRAWL	96		-lalɨ poko wɨto	-lalɨ poko wɨto 
+674	38-10-412-1	7582314237503839	Kali'na	gali1262	to kneel	KNEEL	66		wekunama	wekunama 
+675	38-10-42-1	758231487262908	Kali'na	gali1262	to slide or slip	SLIP	1324		wokɨlɨlɨka	wokɨlɨlɨka 
+676	38-10-43-1	7582314196537453	Kali'na	gali1262	to jump	JUMP	1829		wotapolomɨ	wotapolomɨ 
+677	38-10-431-1	7582314186099969	Kali'na	gali1262	to kick	KICK	1135		wo	wo 
+678	38-10-44-1	7582314425357706	Kali'na	gali1262	to dance	DANCE	1879		uwa (2)	uwa (2) 
+679	38-10-45-1	7582314532569620	Kali'na	gali1262	to walk	WALK	1443		wɨto	wɨto 
+680	38-10-451-1	7582314979164258	Kali'na	gali1262	to limp	LIMP	366		sɨkɨtame wɨto	sɨkɨtame wɨto 
+681	38-10-46-1	7582314439307355	Kali'na	gali1262	to run	RUN	1519		ekatumɨ	ekatumɨ 
+682	38-10-47-1	7582314532569620	Kali'na	gali1262	to go	GO	695		wɨto	wɨto 
+683	38-10-471-1	7582314481027858	Kali'na	gali1262	to go up	GO UP (ASCEND)	705		wanuku	wanuku 
+684	38-10-472-1	7582314481027858	Kali'na	gali1262	to climb	CLIMB	1102		wanuku	wanuku 
+685	38-10-473-1	758231472580803	Kali'na	gali1262	to go down	GO DOWN (DESCEND)	2014		wonɨto	wonɨto 
+686	38-10-474-1	7582314868614192	Kali'na	gali1262	to go out	GO OUT	1107		epaka	epaka 
+687	38-10-48-1	7582314327806661	Kali'na	gali1262	to come	COME	1446		wopɨ	wopɨ 
+688	38-10-481-1	7582314252968789	Kali'na	gali1262	to come back	COME BACK	581		welema	welema 
+689	38-10-49-1	7582314532569620	Kali'na	gali1262	to leave	LEAVE	1752		wɨto	wɨto 
+690	38-10-49-2	7582314493442142	Kali'na	gali1262	to leave	LEAVE	1752		nonta	nonta 
+691	38-10-491-1	7582314509561550	Kali'na	gali1262	to disappear	DISAPPEAR	485		woneneka	woneneka 
+692	38-10-51-1	7582314743631356	Kali'na	gali1262	to flee	FLEE	956		wetuwalita	wetuwalita 
+693	38-10-52-1	7582314690992140	Kali'na	gali1262	to follow	FOLLOW	1085		wekena	wekena 
+694	38-10-53-1	7582314690992140	Kali'na	gali1262	to pursue	PURSUE	1047		wekena	wekena 
+695	38-10-55-1	7582314560550604	Kali'na	gali1262	to arrive	ARRIVE	1387		tunta	tunta 
+696	38-10-56-1	7582314620564226	Kali'na	gali1262	to approach	APPROACH	1778		wokɨlɨka	wokɨlɨka 
+697	38-10-57-1	7582314627429731	Kali'na	gali1262	to enter	ENTER	749		omɨ (2)	omɨ (2) 
+698	38-10-61-1	7582314194646047	Kali'na	gali1262	to carry	CARRY	700		alo	alo 
+699	38-10-62-1	7582314380294393	Kali'na	gali1262	to bring	BRING	692		enepɨ	enepɨ 
+700	38-10-63-1	7582314495080976	Kali'na	gali1262	to send	SEND	1127		emo’kɨ	emo’kɨ 
+701	38-10-64-1	7582314887176949	Kali'na	gali1262	to lead	LEAD (GUIDE)	43		untɨma	untɨma 
+702	38-10-65-1	7582314887176949	Kali'na	gali1262	to drive	DRIVE	741		untɨma	untɨma 
+703	38-10-67-1	7582314338666981	Kali'na	gali1262	to push	PUSH	1452		alima	alima 
+704	38-10-71-1	7582314457407825	Kali'na	gali1262	the road	ROAD	667		oma	oma 
+705	38-10-72-1	7582314457407825	Kali'na	gali1262	the path	PATH	2252		oma	oma 
+706	38-10-74-1	7582314463620654	Kali'na	gali1262	the bridge	BRIDGE	1011		talapu	talapu 
+707	38-10-76-1	7582314534854047	Kali'na	gali1262	the wheel	WHEEL	710		talala	talala 
+708	38-10-81-1	7582314865402570	Kali'na	gali1262	the ship	SHIP	740		tɨmiliken	tɨmiliken 
+709	38-10-83-1	7582314297183255	Kali'na	gali1262	the boat	BOAT	1844		paliki	paliki 
+710	38-10-831-1	7582314437607662	Kali'na	gali1262	the canoe	CANOE	1970		kuliyala	kuliyala 
+711	38-10-831-2	7582314356506345	Kali'na	gali1262	the canoe	CANOE	1970		kanawa	kanawa 
+712	38-10-84-1	7582314488133725	Kali'na	gali1262	the raft	RAFT	1664		alato	alato 
+713	38-10-85-1	7582314666883308	Kali'na	gali1262	the oar	RUDDER	108		lemɨ	lemɨ 
+714	38-10-851-1	7582314211714909	Kali'na	gali1262	the paddle	PADDLE	234		apukuita	apukuita 
+715	38-10-852-1	7582314555541876	Kali'na	gali1262	to row	ROW	1849		wotalima	wotalima 
+716	38-10-86-1	7582314518707630	Kali'na	gali1262	the rudder	RUDDER	108		simona	simona 
+717	38-10-87-1	7582314147224275	Kali'na	gali1262	the mast	MAST	184		pila epɨ	pila epɨ 
+718	38-10-88-1	7582314461534424	Kali'na	gali1262	the sail	SAILCLOTH	786		pila	pila 
+719	38-10-89-1	7582314536074656	Kali'na	gali1262	the anchor	ANCHOR	1870		ankala	ankala 
+720	38-10-91-1	7582314463620654	Kali'na	gali1262	the port	PORT	610		talapu	talapu 
+721	38-10-92-1	7582314374920343	Kali'na	gali1262	to land	LAND (DESCEND)	1922		wotɨto	wotɨto 
+722	38-11-12-1	7582314680418088	Kali'na	gali1262	to own	OWN	684		apolemɨ	apolemɨ 
+723	38-11-13-1	7582314194646047	Kali'na	gali1262	to take	TAKE	1749		alo	alo 
+724	38-11-14-1	83271411764586395	Kali'na	gali1262	to grasp	SEIZE	855		apɨi	apɨi 
+725	38-11-15-1	83271411764586395	Kali'na	gali1262	to hold	HOLD	1448		apɨi	apɨi 
+726	38-11-16-1	7582314989004484	Kali'na	gali1262	to get	GET	694		epolɨ	epolɨ 
+727	38-11-17-1	7582314159839268	Kali'na	gali1262	to keep	KEEP	1477		kulama	kulama 
+728	38-11-18-1	7582314907820108	Kali'na	gali1262	the thing	THING	738		otɨ	otɨ 
+729	38-11-21-1	7582314527627096	Kali'na	gali1262	to give	GIVE	1447		ɨlɨ	ɨlɨ 
+730	38-11-22-1	7582314918475000	Kali'na	gali1262	to give back	GIVE BACK	85		ipetakama	ipetakama 
+731	38-11-24-1	7582314220772107	Kali'na	gali1262	to preserve	PRESERVE	1997		solukuma	solukuma 
+732	38-11-25-1	7582314459965511	Kali'na	gali1262	to rescue	RESCUE	2008		pa’ka	pa’ka 
+733	38-11-27-1	7582314794774329	Kali'na	gali1262	to destroy	DESTROY	681		aka	aka 
+734	38-11-28-1	7582314964165966	Kali'na	gali1262	to injure	INJURE	44		wowo	wowo 
+735	38-11-31-1	758231429412357	Kali'na	gali1262	to look for	LOOK FOR	1468		upi	upi 
+736	38-11-32-1	7582314989004484	Kali'na	gali1262	to find	FIND	719		epolɨ	epolɨ 
+737	38-11-33-1	7582314860106252	Kali'na	gali1262	to lose	LOSE	1660		utaka	utaka 
+738	38-11-34-1	7582314493442142	Kali'na	gali1262	to let go	LET GO OR SET FREE	1095		nonta	nonta 
+739	38-11-43-1	7582314448281507	Kali'na	gali1262	the money	MONEY	1559		pɨlata	pɨlata 
+740	38-11-44-1	758231460602407	Kali'na	gali1262	the coin	COIN	1867		tilitili	tilitili 
+741	38-11-51-1	7582314586605861	Kali'na	gali1262	rich	RICH	712		tɨpɨlatake	tɨpɨlatake 
+742	38-11-52-1	7582314429263100	Kali'na	gali1262	poor	POOR	1674		piname	piname 
+743	38-11-54-1	7582314110492044	Kali'na	gali1262	stingy	STINGY	1774		amonpe	amonpe 
+744	38-11-61-1	7582314674323255	Kali'na	gali1262	to lend	LEND	582		yuluma	yuluma 
+745	38-11-62-1	7582314674323255	Kali'na	gali1262	to borrow	BORROW	1823		yuluma	yuluma 
+746	38-11-64-1	7582314926423010	Kali'na	gali1262	the debt	DEBT	1914		u’tano	u’tano 
+747	38-11-65-1	7582314590178220	Kali'na	gali1262	to pay	PAY	718		epema	epema 
+748	38-11-78-1	7582314322459248	Kali'na	gali1262	the wages	WAGES	1122		epetɨ	epetɨ 
+749	38-11-79-1	7582314989004484	Kali'na	gali1262	to earn	EARN	733		epolɨ	epolɨ 
+750	38-11-81-1	758231489223000	Kali'na	gali1262	to buy	BUY	1869		epekatɨ	epekatɨ 
+751	38-11-82-1	7582314444636992	Kali'na	gali1262	to sell	SELL	1571		ekalama	ekalama 
+752	38-11-83-1	7582314918475000	Kali'na	gali1262	to trade or barter	TRADE OR BARTER	2135		ipetakama	ipetakama 
+753	38-11-84-1	7582314378830189	Kali'na	gali1262	the merchant	MERCHANT	1082		ekelamanen	ekelamanen 
+754	38-11-85-1	7582314254803897	Kali'na	gali1262	the market	MARKET	633		maché	maché 
+755	38-11-85-2	7582314455531178	Kali'na	gali1262	the market	MARKET	633		wowoiyo	wowoiyo 
+756	38-11-86-1	7582314175843354	Kali'na	gali1262	the shop/store	STORE	752		wenkele	wenkele 
+757	38-11-87-1	7582314322459248	Kali'na	gali1262	the price	PRICE	657		epetɨ	epetɨ 
+758	38-11-88-1	7582314427603538	Kali'na	gali1262	expensive	EXPENSIVE	1426		tapene	tapene 
+759	38-11-89-1	7582314696178719	Kali'na	gali1262	cheap	CHEAP	1887		epe'ma	epe'ma 
+760	38-11-91-1	7582314152082030	Kali'na	gali1262	to share	SHARE	884		sasaka	sasaka 
+761	38-11-92-1	7582314919958486	Kali'na	gali1262	to weigh	WEIGH	1098		wekima	wekima 
+762	38-12-01-1	7582314522864546	Kali'na	gali1262	after	AFTER	1685		papota	papota 
+763	38-12-011-1	7582314592995540	Kali'na	gali1262	behind	BEHIND	1686		ɨnkana	ɨnkana 
+764	38-12-02-1	7582314434157712	Kali'na	gali1262	beside	BESIDE	1816		apolito	apolito 
+765	38-12-03-1	7582314810230833	Kali'na	gali1262	down	DOWN	1326		poponaka	poponaka 
+766	38-12-04-1	7582314882879516	Kali'na	gali1262	before	BEFORE	1882		uwapo	uwapo 
+767	38-12-041-1	7582314882879516	Kali'na	gali1262	in front of	IN FRONT OF	1883		uwapo	uwapo 
+768	38-12-05-1	7582314401336406	Kali'na	gali1262	inside	INSIDE	1606		-ta	-ta 
+769	38-12-06-1	7582314411627508	Kali'na	gali1262	outside	OUTSIDE	762		kulanto	kulanto 
+770	38-12-07-1	758231477243497	Kali'na	gali1262	under	BELOW OR UNDER	1485		upino	upino 
+771	38-12-08-1	7582314116869726	Kali'na	gali1262	up	UP	1591		letaka	letaka 
+772	38-12-11-1	7582314500690600	Kali'na	gali1262	the place	PLACE (POSITION)	723		pato	pato 
+773	38-1-99904-1	758231459153474	Kali'na	gali1262	the constellation				siliko	siliko 
+774	38-12-12-1	7582314527627096	Kali'na	gali1262	to put	PUT	998		ɨlɨ	ɨlɨ 
+775	38-12-13-1	7582314566021630	Kali'na	gali1262	to sit	SIT	1416		wotantɨmo	wotantɨmo 
+776	38-12-14-1	758231494656800	Kali'na	gali1262	to lie down	LIE DOWN	215		watunka	watunka 
+777	38-12-15-1	7582314665177660	Kali'na	gali1262	to stand	STAND	1442		pɨle	pɨle 
+778	38-12-16-1	7582314922756009	Kali'na	gali1262	to remain	REMAIN	987		emamɨ	emamɨ 
+779	38-12-17-1	7582314598697499	Kali'na	gali1262	the remains	REMAINS	838		akoinɨnpo	akoinɨnpo 
+780	38-12-21-1	7582314597544687	Kali'na	gali1262	to gather	GATHER	7		potɨ	potɨ 
+781	38-12-21-2	7582314894974521	Kali'na	gali1262	to gather	GATHER	7		anumɨ	anumɨ 
+782	38-12-212-1	7582314894974521	Kali'na	gali1262	to pick up	PICK UP	371		anumɨ	anumɨ 
+783	38-12-213-1	7582314444612670	Kali'na	gali1262	to pile up	PILE UP	1576		unsiko	unsiko 
+784	38-12-22-1	758231475644390	Kali'na	gali1262	to join	JOIN	1743		epopo	epopo 
+785	38-12-23-1	7582314187243514	Kali'na	gali1262	to separate	SEPARATE	1359		atasaka	atasaka 
+786	38-12-232-1	7582314187243514	Kali'na	gali1262	to divide	DIVIDE	1119		atasaka	atasaka 
+787	38-12-24-1	7582314185468486	Kali'na	gali1262	to open	OPEN	1156		awonka (1)	awonka (1) 
+788	38-12-25-1	7582314962096150	Kali'na	gali1262	to shut	SHUT	1046		etapu	etapu 
+789	38-12-26-1	7582314791845072	Kali'na	gali1262	to cover	COVER	761		noponto	noponto 
+790	38-12-27-1	7582314379472141	Kali'na	gali1262	to hide	HIDE (CONCEAL)	602		unemɨ	unemɨ 
+791	38-12-31-1	7582314290855760	Kali'na	gali1262	high	HIGH	1265		kawo	kawo 
+792	38-12-32-1	7582314269261246	Kali'na	gali1262	low	LOW	721		popo	popo 
+793	38-12-33-1	7582314895004658	Kali'na	gali1262	the top	TOP	1753		-letɨlɨ	-letɨlɨ 
+794	38-12-34-1	7582314483322425	Kali'na	gali1262	the bottom	BOTTOM	690		-lalɨ	-lalɨ 
+795	38-12-35-1	7582314539392090	Kali'na	gali1262	the end(1)	END (OF SPACE)	742		punusan	punusan 
+796	38-12-352-1	7582314249491515	Kali'na	gali1262	pointed	POINTED	372		tɨposite	tɨposite 
+797	38-12-353-1	7582314136424105	Kali'na	gali1262	the edge	EDGE	863		-esipilɨ	-esipilɨ 
+798	38-12-36-1	7582314484088852	Kali'na	gali1262	the side	SIDE	682		solopa	solopa 
+799	38-12-37-1	7582314684469131	Kali'na	gali1262	the middle	MIDDLE	1093		owaliyana	owaliyana 
+800	38-12-41-1	7582314718841589	Kali'na	gali1262	right(1)	RIGHT	1019		apotun	apotun 
+801	38-12-42-1	7582314298131271	Kali'na	gali1262	left	LEFT	244		apo'e	apo'e 
+802	38-12-43-1	7582314972570260	Kali'na	gali1262	near	NEAR	1942		tɨse watɨ	tɨse watɨ 
+803	38-12-44-1	7582314871243583	Kali'na	gali1262	far	FAR	1406		tɨse	tɨse 
+804	38-12-45-1	758231488688084	Kali'na	gali1262	the east	EAST	1877		untɨ	untɨ 
+805	38-12-46-1	7582314172055860	Kali'na	gali1262	the west	WEST	1817		aletɨlɨ	aletɨlɨ 
+806	38-12-47-1	7582314589507624	Kali'na	gali1262	the north	NORTH	1598		palana lalɨ	palana lalɨ 
+807	38-12-48-1	758231418605590	Kali'na	gali1262	the south	SOUTH	1595		itulu wɨino	itulu wɨino 
+808	38-12-53-1	7582314952950583	Kali'na	gali1262	to grow	GROW	479		ipuwa	ipuwa 
+809	38-12-54-1	758231460076147	Kali'na	gali1262	to measure	MEASURE	1506		u’ku	u’ku 
+810	38-12-55-1	7582314746684756	Kali'na	gali1262	big	BIG	1202		potome	potome 
+811	38-12-56-1	7582314481015207	Kali'na	gali1262	small	SMALL	1246		kowaloko	kowaloko 
+812	38-12-57-1	7582314281765290	Kali'na	gali1262	long	LONG	1203		masi’pe	masi’pe 
+813	38-12-58-1	7582314281765290	Kali'na	gali1262	tall	TALL	711		masi’pe	masi’pe 
+814	38-12-59-1	7582314319507070	Kali'na	gali1262	short	SHORT	1645		sanime	sanime 
+815	38-12-61-1	7582314735914154	Kali'na	gali1262	wide	WIDE	1243		tanpile	tanpile 
+816	38-12-62-1	7582314662347173	Kali'na	gali1262	narrow	NARROW	1267		silapime	silapime 
+817	38-12-63-1	758231414732003	Kali'na	gali1262	thick	THICK	1244		tɨpɨme	tɨpɨme 
+818	38-12-65-1	7582314662347173	Kali'na	gali1262	thin	THIN (OF SHAPE OF OBJECT)	2249		silapime	silapime 
+819	38-12-67-1	7582314785733547	Kali'na	gali1262	deep	DEEP	1593		iyansi’pe	iyansi’pe 
+820	38-12-68-1	7582314588725651	Kali'na	gali1262	shallow	SHALLOW	193		apipi’me	apipi’me 
+821	38-12-71-1	7582314443637136	Kali'na	gali1262	flat	FLAT	1633		tɨpipa’ke	tɨpipa’ke 
+822	38-12-73-1	7582314145648647	Kali'na	gali1262	straight	STRAIGHT	1404		sapatolo	sapatolo 
+823	38-12-74-1	7582314149000777	Kali'na	gali1262	crooked	CROOKED	297		tɨkowaiye	tɨkowaiye 
+824	38-12-75-1	758231457667839	Kali'na	gali1262	the hook	HOOK	1071		kowai	kowai 
+825	38-12-76-1	7582314524736653	Kali'na	gali1262	the corner	CORNER	192		-kuyalɨ	-kuyalɨ 
+826	38-12-81-1	7582314244431464	Kali'na	gali1262	round	ROUND	1395		tamumeleke	tamumeleke 
+827	38-12-82-1	7582314791414944	Kali'na	gali1262	the circle	CIRCLE	1467		ekuntɨ	ekuntɨ 
+828	38-12-83-1	758231452162707	Kali'na	gali1262	the ball	BALL	1845		bal	bal 
+829	38-12-85-1	7582314362651477	Kali'na	gali1262	the hole	HOLE	1667		ato	ato 
+830	38-12-92-1	7582314739509413	Kali'na	gali1262	similar	SIMILAR	1558		eneke	eneke 
+831	38-12-93-1	7582314170872869	Kali'na	gali1262	to change	CHANGE	1264		petakama	petakama 
+832	38-13-01-1	7582314321655060	Kali'na	gali1262	one	ONE	1493		o’win	o’win 
+833	38-13-02-1	7582314467697827	Kali'na	gali1262	two	TWO	1498		oko	oko 
+834	38-13-03-1	7582314784960867	Kali'na	gali1262	three	THREE	492		oluwa	oluwa 
+835	38-13-04-1	7582314215841385	Kali'na	gali1262	four	FOUR	1500		okupa’en	okupa’en 
+836	38-13-05-1	7582314343729533	Kali'na	gali1262	five	FIVE	493		ainatonen	ainatonen 
+837	38-13-06-1	7582314104251690	Kali'na	gali1262	six	SIX	1703		owintoima	owintoima 
+838	38-13-07-1	7582314681978990	Kali'na	gali1262	seven	SEVEN	1704		okotoima	okotoima 
+839	38-13-08-1	7582314326507873	Kali'na	gali1262	eight	EIGHT	1705		oluwatoima	oluwatoima 
+840	38-13-09-1	7582314596102048	Kali'na	gali1262	nine	NINE	1483		okupa'entoima	okupa'entoima 
+841	38-13-1-1	7582314877755441	Kali'na	gali1262	ten	TEN	1515		ainapa'tolo	ainapa'tolo 
+842	38-13-101-1	7582314482259534	Kali'na	gali1262	eleven	ELEVEN	1706		onze	onze 
+843	38-13-102-1	7582314487560425	Kali'na	gali1262	twelve	TWELVE	1707		douze	douze 
+844	38-13-103-1	7582314606066622	Kali'na	gali1262	fifteen	FIFTEEN	1709		atone epɨ	atone epɨ 
+845	38-13-104-1	7582314997249960	Kali'na	gali1262	twenty	TWENTY	1710		o’winkalina	o’winkalina 
+846	38-13-105-1	7582314627100121	Kali'na	gali1262	a hundred	HUNDRED	1634		ainatone kali'na	ainatone kali'na 
+847	38-13-106-1	7582314825058950	Kali'na	gali1262	a thousand	THOUSAND	1843		mille	mille 
+848	38-13-14-1	75823145881779	Kali'na	gali1262	all	ALL	98		pa’polo	pa’polo 
+849	38-13-15-1	7582314503808762	Kali'na	gali1262	many	MANY	1198		pɨime	pɨime 
+850	38-13-15-2	758231420839920	Kali'na	gali1262	many	MANY	1198		fulu	fulu 
+851	38-13-16-1	7582314364154787	Kali'na	gali1262	more	MORE	1992		nolo	nolo 
+852	38-13-17-1	7582314475274682	Kali'na	gali1262	few	FEW	1242		asiko	asiko 
+853	38-13-18-1	7582314749973437	Kali'na	gali1262	enough	ENOUGH	1881		ipolo (1)	ipolo (1) 
+854	38-13-181-1	7582314806042342	Kali'na	gali1262	some	SOME	1241		amɨ (1)	amɨ (1) 
+855	38-13-19-1	7582314394347313	Kali'na	gali1262	the crowd	CROWD	2023		apɨimɨn	apɨimɨn 
+856	38-13-21-1	7582314586941146	Kali'na	gali1262	full	FULL	1429		tanuse	tanuse 
+857	38-13-22-1	7582314229225605	Kali'na	gali1262	empty	EMPTY	1624		italɨpa	italɨpa 
+858	38-13-23-1	7582314837939234	Kali'na	gali1262	the part	PART	779		pisala	pisala 
+859	38-13-24-1	7582314315724854	Kali'na	gali1262	the half	HALF	816		asela	asela 
+860	38-13-33-1	7582314867436225	Kali'na	gali1262	only	ONLY	1580		o’wine	o’wine 
+861	38-13-34-1	7582314489308341	Kali'na	gali1262	first	FIRST	728		na’nen	na’nen 
+862	38-13-35-1	7582314280314642	Kali'na	gali1262	last	LAST (FINAL)	1529		iyonpolo	iyonpolo 
+863	38-13-36-1	7582314288294845	Kali'na	gali1262	second	SECOND	1384		okono	okono 
+864	38-13-37-1	7582314392712608	Kali'na	gali1262	the pair	PAIR	1888		okololo	okololo 
+865	38-13-38-1	7582314306088782	Kali'na	gali1262	twice/two times	TWICE	1546		okonpoto	okonpoto 
+866	38-13-42-1	7582314691549141	Kali'na	gali1262	third	THIRD	1859		oluwano	oluwano 
+867	38-13-44-1	7582314959021105	Kali'na	gali1262	three times	THREE TIMES	417		oluwanpoto	oluwanpoto 
+868	38-14-11-1	7582314831799919	Kali'na	gali1262	the time	TIME	892		yulu	yulu 
+869	38-14-13-1	7582314433375660	Kali'na	gali1262	new	NEW	1231		aselɨme	aselɨme 
+870	38-14-14-1	7582314914469670	Kali'na	gali1262	young	YOUNG	1207		mɨlekoko	mɨlekoko 
+871	38-14-15-1	7582314183149271	Kali'na	gali1262	old	OLD	1229		tampokome	tampokome 
+872	38-14-16-1	7582314967140289	Kali'na	gali1262	early	EARLY	672		kokolone	kokolone 
+873	38-14-17-1	7582314670621734	Kali'na	gali1262	late	LATE	477		ko’i watɨ	ko’i watɨ 
+874	38-14-18-1	7582314212167017	Kali'na	gali1262	now	NOW	1376		elome	elome 
+875	38-14-19-1	7582314540995107	Kali'na	gali1262	immediately	IMMEDIATELY	1963		elomelo	elomelo 
+876	38-14-21-1	7582314539303477	Kali'na	gali1262	fast	FAST	1631		takane	takane 
+877	38-14-22-1	7582314538545269	Kali'na	gali1262	slow	SLOW	701		eleka	eleka 
+878	38-14-23-1	7582314410462704	Kali'na	gali1262	to hurry	HURRY	754		wosima	wosima 
+879	38-14-24-1	758231492977767	Kali'na	gali1262	to be late	BE LATE	425		lomanka	lomanka 
+880	38-14-25-1	7582314572132601	Kali'na	gali1262	to begin	BEGIN	1806		amo	amo 
+881	38-14-26-1	7582314280314642	Kali'na	gali1262	the end(2)	END (OF TIME)	743		iyonpolo	iyonpolo 
+882	38-14-27-1	7582314233059426	Kali'na	gali1262	to finish	FINISH	1766		aitepɨ	aitepɨ 
+883	38-14-28-1	7582314226063232	Kali'na	gali1262	to cease	CEASE	1928		ɨmatɨ	ɨmatɨ 
+884	38-14-29-1	7582314222116057	Kali'na	gali1262	ready	READY	790		a’enpo	a’enpo 
+885	38-14-31-1	758231413991690	Kali'na	gali1262	always	ALWAYS	1676		moyalo	moyalo 
+886	38-14-32-1	7582314211925779	Kali'na	gali1262	often	OFTEN	1852		okapɨn	okapɨn 
+887	38-14-33-1	7582314739923869	Kali'na	gali1262	sometimes	SOMETIMES	1544		amɨnpome	amɨnpome 
+888	38-14-331-1	7582314714621837	Kali'na	gali1262	soon	SOON	703		amɨnpo	amɨnpo 
+889	38-14-332-1	7582314426892033	Kali'na	gali1262	for a long time	FOR A LONG TIME	418		akolepe	akolepe 
+890	38-14-34-1	758231439596678	Kali'na	gali1262	never	NEVER	1656		payo	payo 
+891	38-14-35-1	758231431057734	Kali'na	gali1262	again	AGAIN	204		lapa	lapa 
+892	38-14-41-1	7582314269690395	Kali'na	gali1262	the day(1)	DAY (24 HOURS)	1260		kulita	kulita 
+893	38-14-42-1	7582314599799829	Kali'na	gali1262	the night	NIGHT	1233		koko	koko 
+894	38-14-43-1	7582314805785938	Kali'na	gali1262	the dawn	DAWN	729		emamɨlɨ	emamɨlɨ 
+895	38-14-44-1	7582314313459624	Kali'na	gali1262	the morning	MORNING	1339		kokolo	kokolo 
+896	38-14-45-1	7582314257732741	Kali'na	gali1262	the midday	MIDDAY	12		kulitanene	kulitanene 
+897	38-14-451-1	7582314361657032	Kali'na	gali1262	the afternoon	AFTERNOON	1807		kulitanene papota	kulitanene papota 
+898	38-14-46-1	7582314532205024	Kali'na	gali1262	the evening	EVENING	1629		koine	koine 
+899	38-14-47-1	7582314212167017	Kali'na	gali1262	today	TODAY	1283		elome	elome 
+900	38-14-48-1	7582314413689699	Kali'na	gali1262	tomorrow	TOMORROW	1329		kolopo	kolopo 
+901	38-14-481-1	7582314677125389	Kali'na	gali1262	the day after tomorrow	DAY AFTER TOMORROW	1179		monɨ kolopo	monɨ kolopo 
+902	38-14-49-1	7582314353389744	Kali'na	gali1262	yesterday	YESTERDAY	1174		koinalo	koinalo 
+903	38-14-491-1	7582314595005609	Kali'na	gali1262	the day before yesterday	DAY BEFORE YESTERDAY	1180		monɨ koinalo	monɨ koinalo 
+904	38-14-51-1	7582314831799919	Kali'na	gali1262	the hour	HOUR	1353		yulu	yulu 
+905	38-14-53-1	7582314813297846	Kali'na	gali1262	the clock	CLOCK	1323		olosi	olosi 
+906	38-14-61-1	7582314863934669	Kali'na	gali1262	the week	WEEK	1469		simenn	simenn 
+907	38-14-62-1	758231455102095	Kali'na	gali1262	Sunday	SUNDAY	1699		sonde	sonde 
+908	38-14-63-1	7582314783518790	Kali'na	gali1262	Monday	MONDAY	1697		lundi	lundi 
+909	38-14-64-1	7582314314142744	Kali'na	gali1262	Tuesday	TUESDAY	1695		mardi	mardi 
+910	38-14-65-1	7582314624361627	Kali'na	gali1262	Wednesday	WEDNESDAY	1694		mercredi	mercredi 
+911	38-14-66-1	7582314792826070	Kali'na	gali1262	Thursday	THURSDAY	1693		jeudi	jeudi 
+912	38-14-67-1	7582314795583030	Kali'na	gali1262	Friday	FRIDAY	1692		vendredi	vendredi 
+913	38-14-68-1	758231436938424	Kali'na	gali1262	Saturday	SATURDAY	1700		samedi	samedi 
+914	38-14-73-1	758231459153474	Kali'na	gali1262	the year	YEAR	1226		siliko	siliko 
+915	38-14-74-1	758231467857611	Kali'na	gali1262	the winter	WINTER	1471		kunu	kunu 
+916	38-14-76-1	7582314210422630	Kali'na	gali1262	the summer	SUMMER	1342		ilomɨ	ilomɨ 
+917	38-14-78-1	7582314831799919	Kali'na	gali1262	the season	SEASON	691		yulu	yulu 
+918	38-15-21-1	7582314642085281	Kali'na	gali1262	to smell(1)	SMELL (STINK)	1587		waiponuku	waiponuku 
+919	38-15-89-1	7582314449725822	Kali'na	gali1262	wrinkled	WRINKLED	380		tametulike	tametulike 
+920	38-15-212-1	7582314248365240	Kali'na	gali1262	to sniff	SNIFF	375		ponuku	ponuku 
+921	38-15-22-1	7582314344521773	Kali'na	gali1262	to smell(2)	SMELL (PERCEIVE)	1586		eta	eta 
+922	38-15-25-1	7582314821187813	Kali'na	gali1262	fragrant	FRAGRANT	376		tɨpopole	tɨpopole 
+923	38-15-26-1	7582314439408097	Kali'na	gali1262	stinking	STINKING	42		tɨpole	tɨpole 
+924	38-15-35-1	7582314675305870	Kali'na	gali1262	sweet	SWEET	717		tɨpoisine	tɨpoisine 
+925	38-15-35-2	7582314887761722	Kali'na	gali1262	sweet	SWEET	717		tuketuke	tuketuke 
+926	38-15-36-1	7582314887761722	Kali'na	gali1262	salty	SALTY	1091		tuketuke	tuketuke 
+927	38-15-37-1	7582314524204404	Kali'na	gali1262	bitter	BITTER	887		itunpe	itunpe 
+928	38-15-38-1	7582314925300757	Kali'na	gali1262	sour	SOUR	1906		tɨyasakole	tɨyasakole 
+929	38-15-41-1	7582314344521773	Kali'na	gali1262	to hear	HEAR	1408		eta	eta 
+930	38-15-42-1	7582314447609062	Kali'na	gali1262	to listen	LISTEN	1608		epanama	epanama 
+931	38-15-44-1	7582314901516300	Kali'na	gali1262	the sound or noise	SOUND OR NOISE	1811		molɨ	molɨ 
+932	38-15-45-1	7582314338392687	Kali'na	gali1262	loud	LOUD	377		tɨmole	tɨmole 
+933	38-15-46-1	7582314377974149	Kali'na	gali1262	quiet	QUIET	1314		itɨme	itɨme 
+934	38-15-51-1	7582314961079910	Kali'na	gali1262	to see	SEE	1409		ene	ene 
+935	38-15-52-1	7582314961079910	Kali'na	gali1262	to look	LOOK	1819		ene	ene 
+936	38-15-55-1	7582314763442984	Kali'na	gali1262	to show	SHOW	1039		enepo	enepo 
+937	38-15-56-1	7582314945309402	Kali'na	gali1262	to shine	SHINE	708		potɨta	potɨta 
+938	38-15-57-1	7582314728414941	Kali'na	gali1262	bright	BRIGHT	679		tɨpotɨle	tɨpotɨle 
+939	38-15-62-1	7582314544107451	Kali'na	gali1262	light(2)	LIGHT (COLOR)	250		taweiye	taweiye 
+940	38-15-63-1	7582314566500544	Kali'na	gali1262	dark	DARK	706		tuwalume	tuwalume 
+941	38-15-64-1	7582314401091676	Kali'na	gali1262	white	WHITE	1335		tamune	tamune 
+942	38-15-65-1	7582314238469994	Kali'na	gali1262	black	BLACK	163		tɨkalaiye	tɨkalaiye 
+943	38-15-66-1	7582314297961949	Kali'na	gali1262	red	RED	156		tapile	tapile 
+944	38-15-67-1	7582314758019931	Kali'na	gali1262	blue	BLUE	837		tupulu	tupulu 
+945	38-15-68-1	7582314883015239	Kali'na	gali1262	green	GREEN	1425		tikile	tikile 
+946	38-15-69-1	7582314174735615	Kali'na	gali1262	yellow	YELLOW	1424		tɨkamile	tɨkamile 
+947	38-15-71-1	7582314370902698	Kali'na	gali1262	to touch	TOUCH	1892		ituka	ituka 
+948	38-15-712-1	7582314570235438	Kali'na	gali1262	to pinch	PINCH	378		akɨka	akɨka 
+949	38-15-72-1	7582314209564848	Kali'na	gali1262	to feel	FEEL	1079		apo	apo 
+950	38-15-74-1	7582314265608262	Kali'na	gali1262	hard	HARD	1884		tɨyanale	tɨyanale 
+951	38-15-75-1	7582314764075987	Kali'na	gali1262	soft	SOFT	1856		tɨmeiye	tɨmeiye 
+952	38-15-76-1	7582314117571167	Kali'na	gali1262	rough(1)	ROUGH	1923		tɨwakalake	tɨwakalake 
+953	38-15-77-1	7582314456384287	Kali'na	gali1262	smooth	SMOOTH	1234		tu’kapele	tu’kapele 
+954	38-15-78-1	7582314425090725	Kali'na	gali1262	sharp	SHARP	1396		tɨyeke	tɨyeke 
+955	38-15-79-1	7582314712073051	Kali'na	gali1262	blunt	BLUNT	379		tɨpomomele’ke	tɨpomomele’ke 
+956	38-15-81-1	7582314953217799	Kali'na	gali1262	heavy	HEAVY	1210		awosinpe	awosinpe 
+957	38-15-82-1	75823143425342	Kali'na	gali1262	light(1)	LIGHT (WEIGHT)	1052		sawone	sawone 
+958	38-15-83-1	7582314992882243	Kali'na	gali1262	wet	WET	1726		tɨkepule	tɨkepule 
+959	38-15-84-1	7582314154662242	Kali'na	gali1262	dry	DRY	1398		talule	talule 
+960	38-15-85-1	7582314909847886	Kali'na	gali1262	hot	HOT	1286		asinpe	asinpe 
+961	38-15-851-1	7582314909847886	Kali'na	gali1262	warm	WARM	1232		asinpe	asinpe 
+962	38-15-86-1	7582314674349810	Kali'na	gali1262	cold	COLD	1287		tɨsanole	tɨsanole 
+963	38-15-87-1	7582314269753893	Kali'na	gali1262	clean	CLEAN	704		tɨsakole	tɨsakole 
+964	38-15-88-1	7582314445949943	Kali'na	gali1262	dirty	DIRTY	1230		tuwelekite	tuwelekite 
+965	38-16-11-1	7582314101696987	Kali'na	gali1262	the soul or spirit	SOUL	811		-akalɨ	-akalɨ 
+966	38-16-15-1	7582314886016200	Kali'na	gali1262	surprised or astonished	SURPRISED	1572		polomɨka	polomɨka 
+967	38-16-18-1	7582314890397207	Kali'na	gali1262	the good luck	GOOD LUCK	720		tɨwomuka	tɨwomuka 
+968	38-16-19-1	7582314666037197	Kali'na	gali1262	the bad luck	BAD LUCK	56		omita	omita 
+969	38-16-23-1	7582314489332470	Kali'na	gali1262	happy	HAPPY	1495		apokupe	apokupe 
+970	38-16-25-1	7582314564379055	Kali'na	gali1262	to laugh	LAUGH	1355		auwa	auwa 
+971	38-16-251-1	7582314173846467	Kali'na	gali1262	to smile	SMILE	1451		ɨpotasiwa	ɨpotasiwa 
+972	38-16-26-1	7582314611289168	Kali'na	gali1262	to play	PLAY	1413		wesapima	wesapima 
+973	38-16-27-1	7582314159544251	Kali'na	gali1262	to love	LOVE	923		pɨna	pɨna 
+974	38-16-29-1	7582314800842746	Kali'na	gali1262	to kiss	KISS	578		posima	posima 
+975	38-16-3-1	7582314620446674	Kali'na	gali1262	to embrace	EMBRACE	928		ewama	ewama 
+976	38-16-31-1	7582314141204592	Kali'na	gali1262	the pain	PAIN	1783		yetun	yetun 
+977	38-16-32-1	7582314910322121	Kali'na	gali1262	the grief	GRIEF	1668		eketalɨ	eketalɨ 
+978	38-16-33-1	7582314433536872	Kali'na	gali1262	the anxiety	ANXIETY	1000		onumenkano	onumenkano 
+979	38-16-34-1	758231481377980	Kali'na	gali1262	to regret or be sorry	REGRET	1875		kotano	kotano 
+980	38-16-35-1	758231481377980	Kali'na	gali1262	the pity	PITY	1141		kotano	kotano 
+981	38-16-37-1	7582314235158569	Kali'na	gali1262	to cry	CRY	1839		watamo	watamo 
+982	38-16-37-2	83271411722041972	Kali'na	gali1262	to cry	CRY	1839		ko'ta	ko'ta 
+983	38-16-38-1	7582314294373520	Kali'na	gali1262	the tear	TEAR (OF EYE)	1651		-enakulu	-enakulu 
+984	38-16-39-1	7582314613709510	Kali'na	gali1262	to groan	GROAN	716		okonpa	okonpa 
+985	38-16-41-1	7582314546193635	Kali'na	gali1262	to hate	HATE	1607		yenonopɨ	yenonopɨ 
+986	38-16-42-1	7582314977095911	Kali'na	gali1262	the anger	ANGER	82		aleku	aleku 
+987	38-16-44-1	7582314815584967	Kali'na	gali1262	the envy or jealousy	ENVY	40		pokosento	pokosento 
+988	38-16-45-1	7582314827414758	Kali'na	gali1262	the shame	SHAME	1776		pɨiyɨ	pɨiyɨ 
+989	38-16-48-1	7582314389678615	Kali'na	gali1262	proud	PROUD	174		tawapole	tawapole 
+990	38-16-51-1	7582314398794299	Kali'na	gali1262	to dare	DARE	1779		wetalanka	wetalanka 
+991	38-16-52-1	7582314225032288	Kali'na	gali1262	brave	BRAVE	3		tutulupone	tutulupone 
+992	38-16-53-1	7582314854243555	Kali'na	gali1262	the fear	FEAR (FRIGHT)	781		analɨ	analɨ 
+993	38-16-54-1	7582314138856012	Kali'na	gali1262	the danger	DANGER	1810		yawan	yawan 
+994	38-16-62-1	7582314820406895	Kali'na	gali1262	to want	WANT	1784		se	se 
+995	38-16-622-1	7582314710493627	Kali'na	gali1262	to choose	CHOOSE	1750		imenka	imenka 
+996	38-16-65-1	7582314579599885	Kali'na	gali1262	faithful	FAITHFUL	100		ilumapa	ilumapa 
+997	38-16-66-1	83271411887435318	Kali'na	gali1262	true	TRUE	1657		ipolo (2)	ipolo (2) 
+998	38-16-67-1	7582314252412865	Kali'na	gali1262	to lie(2)	LIE (MISLEAD)	601		enapita	enapita 
+999	38-16-68-1	7582314770365928	Kali'na	gali1262	the deceit	DECEIT	13		emɨma	emɨma 
+1000	38-16-71-1	7582314984991160	Kali'na	gali1262	good	GOOD	1035		ilupa	ilupa 
+1001	38-16-72-1	7582314471984067	Kali'na	gali1262	bad	BAD	1292		yawame	yawame 
+1002	38-16-73-1	83271411887435318	Kali'na	gali1262	right(2)	CORRECT (RIGHT)	1725		ipolo (2)	ipolo (2) 
+1003	38-16-74-1	7582314998294503	Kali'na	gali1262	wrong	WRONG	1390		ipo’pa	ipo’pa 
+1004	38-16-76-1	7582314373010163	Kali'na	gali1262	the fault	FAULT	134		anɨma	anɨma 
+1005	38-16-77-1	7582314373010163	Kali'na	gali1262	the mistake	MISTAKE	1293		anɨma	anɨma 
+1006	38-16-81-1	7582314856386424	Kali'na	gali1262	beautiful	BEAUTIFUL	1427		ilume	ilume 
+1007	38-16-82-1	7582314770539349	Kali'na	gali1262	ugly	UGLY	1548		ipɨitopa	ipɨitopa 
+1008	38-16-83-1	7582314347129950	Kali'na	gali1262	greedy	GREEDY	2018		kumime	kumime 
+1009	38-16-84-1	7582314586614956	Kali'na	gali1262	clever	CLEVER	1310		t'uke	t'uke 
+1010	38-17-11-1	7582314176094906	Kali'na	gali1262	the mind	MIND	1562		wonumenkalɨ	wonumenkalɨ 
+1011	38-17-13-1	7582314433536872	Kali'na	gali1262	to think(1)	THINK (REFLECT)	1415		onumenkano	onumenkano 
+1012	38-17-13-2	7582314753008051	Kali'na	gali1262	to think(1)	THINK (REFLECT)	1415		wonumenka	wonumenka 
+1013	38-17-14-1	7582314847863009	Kali'na	gali1262	to think(2)	THINK (BELIEVE)	1513		ekanopɨ	ekanopɨ 
+1014	38-17-15-1	7582314143349196	Kali'na	gali1262	to believe	BELIEVE	1890		amɨita (1)	amɨita (1) 
+1015	38-17-16-1	7582314344521773	Kali'na	gali1262	to understand	UNDERSTAND	1536		eta	eta 
+1016	38-17-17-1	7582314566787934	Kali'na	gali1262	to know	KNOW (SOMETHING)	1410		ukutɨ	ukutɨ 
+1017	38-17-171-1	7582314566787934	Kali'na	gali1262	to guess	GUESS	1932		ukutɨ	ukutɨ 
+1018	38-17-172-1	7582314441708239	Kali'na	gali1262	to imitate	IMITATE	117		uku	uku 
+1019	38-17-18-1	7582314773889672	Kali'na	gali1262	to seem	SEEM	1521		wai	wai 
+1020	38-17-19-1	7582314176094906	Kali'na	gali1262	the idea	IDEA	1609		wonumenkalɨ	wonumenkalɨ 
+1021	38-17-21-1	7582314426863306	Kali'na	gali1262	wise	WISE	698		uku’nen	uku’nen 
+1022	38-17-22-1	7582314106021392	Kali'na	gali1262	stupid	STUPID	1518		tomelese	tomelese 
+1023	38-17-23-1	7582314106021392	Kali'na	gali1262	mad	MAD	1899		tomelese	tomelese 
+1024	38-17-24-1	7582314249864823	Kali'na	gali1262	to learn	LEARN	504		womepa	womepa 
+1025	38-17-242-1	7582314249864823	Kali'na	gali1262	to study	STUDY	1929		womepa	womepa 
+1026	38-17-25-1	7582314142637617	Kali'na	gali1262	to teach	TEACH	709		emepa	emepa 
+1027	38-17-26-1	7582314454994729	Kali'na	gali1262	the pupil	PUPIL (STUDENT)	753		womepatoto	womepatoto 
+1028	38-17-27-1	7582314721771288	Kali'na	gali1262	the teacher	TEACHER	1038		emepanen	emepanen 
+1029	38-17-28-1	7582314980227313	Kali'na	gali1262	the school	SCHOOL	673		omepatopo	omepatopo 
+1030	38-17-28-2	7582314924064773	Kali'na	gali1262	the school	SCHOOL	673		lekolɨ	lekolɨ 
+1031	38-17-31-1	7582314753008051	Kali'na	gali1262	to remember	REMEMBER	707		wonumenka	wonumenka 
+1032	38-17-32-1	7582314860106252	Kali'na	gali1262	to forget	FORGET	1523		utaka	utaka 
+1033	38-17-34-1	83271411887435318	Kali'na	gali1262	clear	CLEAR	989		ipolo (2)	ipolo (2) 
+1034	38-17-35-1	7582314171523123	Kali'na	gali1262	obscure	OBSCURE	1764		tawalume	tawalume 
+1035	38-17-36-1	7582314656094644	Kali'na	gali1262	secret	SECRET	1121		ukutɨpa	ukutɨpa 
+1036	38-17-37-1	7582314169224182	Kali'na	gali1262	certain	CERTAIN	509		ipolone	ipolone 
+1037	38-17-38-1	7582314469971835	Kali'na	gali1262	to explain	EXPLAIN	1626		ekalitɨ	ekalitɨ 
+1038	38-17-441-1	7582314444636992	Kali'na	gali1262	to betray	BETRAY	1902		ekalama	ekalama 
+1039	38-17-45-1	758231419754138	Kali'na	gali1262	the need or necessity	NEED (NOUN)	643		nisanolɨ	nisanolɨ 
+1040	38-17-46-1	758231494767172	Kali'na	gali1262	easy	EASY	686		tupi watɨ	tupi watɨ 
+1041	38-17-47-1	7582314819195190	Kali'na	gali1262	difficult	DIFFICULT	584		tupime	tupime 
+1042	38-17-48-1	7582314784426662	Kali'na	gali1262	to try	TRY	1812		weku	weku 
+1043	38-17-49-1	7582314774843241	Kali'na	gali1262	the manner	MANNER	488		emelɨ	emelɨ 
+1044	38-17-51-1	7582314329750030	Kali'na	gali1262	and	AND	1577		nanka	nanka 
+1045	38-17-52-1	758231415769570	Kali'na	gali1262	because	BECAUSE	1157		paské	paské 
+1046	38-17-53-1	7582314358956467	Kali'na	gali1262	if	IF	1459		ata	ata 
+1047	38-17-55-1	7582314652968646	Kali'na	gali1262	yes	YES	1268		a'a	a'a 
+1048	38-17-56-1	7582314695558809	Kali'na	gali1262	no	NO	1269		uwa (1)	uwa (1) 
+1049	38-17-61-1	758231422131080	Kali'na	gali1262	how?	HOW	1239		ɨnewala	ɨnewala 
+1050	38-17-62-1	7582314451088369	Kali'na	gali1262	how many?	HOW MANY	822		otolo	otolo 
+1051	38-17-63-1	7582314451088369	Kali'na	gali1262	how much?	HOW MUCH	531		otolo	otolo 
+1052	38-17-64-1	7582314448058323	Kali'na	gali1262	what?	WHAT	1236		otɨ ko	otɨ ko 
+1053	38-17-65-1	758231487681409	Kali'na	gali1262	when?	WHEN	1238		otɨ yako	otɨ yako 
+1054	38-17-66-1	7582314157346596	Kali'na	gali1262	where?	WHERE	1237		owe	owe 
+1055	38-17-67-1	7582314260029561	Kali'na	gali1262	which?	WHICH	727		nokɨ ko	nokɨ ko 
+1056	38-17-68-1	7582314260029561	Kali'na	gali1262	who?	WHO	1235		nokɨ ko	nokɨ ko 
+1057	38-17-69-1	7582314699027655	Kali'na	gali1262	why?	WHY	1270		otonome	otonome 
+1058	38-18-11-1	758231446582755	Kali'na	gali1262	the voice	VOICE	1363		aulan	aulan 
+1059	38-18-12-1	7582314587648561	Kali'na	gali1262	to sing	SING	1261		waleta	waleta 
+1060	38-18-13-1	7582314498426130	Kali'na	gali1262	to shout	SHOUT	715		ko’ta	ko’ta 
+1061	38-18-15-1	7582314674663557	Kali'na	gali1262	to whisper	WHISPER	55		maname aulana	maname aulana 
+1062	38-18-16-1	7582314674663557	Kali'na	gali1262	to mumble	MUMBLE	128		maname aulana	maname aulana 
+1063	38-18-17-1	7582314688154478	Kali'na	gali1262	to whistle	WHISTLE	1025		etakina	etakina 
+1064	38-18-18-1	7582314498426130	Kali'na	gali1262	to shriek	SHRIEK	298		ko’ta	ko’ta 
+1065	38-18-19-1	7582314132574315	Kali'na	gali1262	to howl	HOWL	526		wataitapo	wataitapo 
+1066	38-18-21-1	7582314177955071	Kali'na	gali1262	to speak or talk	SPEAK	1623		aulana	aulana 
+1067	38-18-211-1	7582314729883258	Kali'na	gali1262	to stutter or stammer	STUTTER	1866		elupopa	elupopa 
+1068	38-18-22-1	7582314396389574	Kali'na	gali1262	to say	SAY	1458		wɨka	wɨka 
+1069	38-18-221-1	7582314469971835	Kali'na	gali1262	to tell	TELL	1711		ekalitɨ	ekalitɨ 
+1070	38-18-222-1	7582314248778752	Kali'na	gali1262	the speech	SPEECH	1115		aulanano	aulanano 
+1071	38-18-23-1	7582314518883946	Kali'na	gali1262	to be silent	BE SILENT	48		ɨitɨna	ɨitɨna 
+1072	38-18-24-1	758231446582755	Kali'na	gali1262	the language	LANGUAGE	1307		aulan	aulan 
+1073	38-18-26-1	758231446582755	Kali'na	gali1262	the word	WORD	1599		aulan	aulan 
+1074	38-18-28-1	7582314395475497	Kali'na	gali1262	the name	NAME	1405		-etɨ	-etɨ 
+1075	38-18-31-1	758231427520170	Kali'na	gali1262	to ask(1)	ASK (INQUIRE)	1309		watulupo	watulupo 
+1076	38-18-32-1	758231412553288	Kali'na	gali1262	to answer	ANSWER	1275		eyuku	eyuku 
+1077	38-18-34-1	7582314309976564	Kali'na	gali1262	to deny	DENY	755		latolo	latolo 
+1078	38-18-35-1	758231427520170	Kali'na	gali1262	to ask(2)	ASK (REQUEST)	1828		watulupo	watulupo 
+1079	38-18-36-1	7582314396389574	Kali'na	gali1262	to promise	PROMISE	1675		wɨka	wɨka 
+1080	38-18-37-1	7582314543527389	Kali'na	gali1262	to refuse	REFUSE	49		amɨikapa	amɨikapa 
+1081	38-18-38-1	7582314458315359	Kali'na	gali1262	to forbid	FORBID	83		ayoma	ayoma 
+1082	38-18-39-1	7582314936517951	Kali'na	gali1262	to scold	SCOLD	299		emapotɨ	emapotɨ 
+1083	38-18-41-1	7582314563393202	Kali'na	gali1262	to call(1)	CALL	1084		koma	koma 
+1084	38-18-42-1	7582314442640968	Kali'na	gali1262	to call(2)	CALL BY NAME	180		eyato	eyato 
+1085	38-18-43-1	758231437473320	Kali'na	gali1262	to announce	ANNOUNCE	9		ekalo	ekalo 
+1086	38-18-44-1	7582314653895034	Kali'na	gali1262	to threaten	THREATEN	1192		-wolɨ eyato	-wolɨ eyato 
+1087	38-18-45-1	758231424776297	Kali'na	gali1262	to boast	BOAST	101		wotamɨika	wotamɨika 
+1088	38-18-51-1	7582314668852098	Kali'na	gali1262	to write	WRITE	1672		melo	melo 
+1089	38-18-52-1	7582314886907074	Kali'na	gali1262	to read	READ	724		lesima	lesima 
+1090	38-18-56-1	7582314970878763	Kali'na	gali1262	the paper	PAPER	648		kaleta	kaleta 
+1091	38-18-57-1	7582314294520035	Kali'na	gali1262	the pen	PEN	794		melotopo	melotopo 
+1092	38-18-61-1	7582314970878763	Kali'na	gali1262	the book	BOOK	963		kaleta	kaleta 
+1093	38-18-71-1	7582314724446288	Kali'na	gali1262	the flute	FLUTE	777		sinan	sinan 
+1094	38-18-72-1	7582314721540742	Kali'na	gali1262	the drum	DRUM	908		sanpula	sanpula 
+1095	38-18-73-1	7582314384915261	Kali'na	gali1262	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		kuti	kuti 
+1096	38-18-74-1	7582314298865399	Kali'na	gali1262	the rattle	RATTLE	300		malaka	malaka 
+1097	38-19-11-1	7582314945299235	Kali'na	gali1262	the country	COUNTRY	1300		kontele	kontele 
+1098	38-19-12-1	7582314411144247	Kali'na	gali1262	the native country	NATIVE COUNTRY	89		nono	nono 
+1099	38-19-15-1	7582314945299235	Kali'na	gali1262	the town	TOWN	1391		kontele	kontele 
+1100	38-19-16-1	7582314528680163	Kali'na	gali1262	the village	VILLAGE	930		waitopo	waitopo 
+1101	38-19-21-1	7582314221840211	Kali'na	gali1262	the people	PEOPLE	789		-ponokon	-ponokon 
+1102	38-19-24-1	7582314213207324	Kali'na	gali1262	the chieftain	CHIEFTAIN	301		kapiteni	kapiteni 
+1103	38-19-24-2	7582314352973969	Kali'na	gali1262	the chieftain	CHIEFTAIN	301		yopoto	yopoto 
+1104	38-19-25-1	7582314115229516	Kali'na	gali1262	the walking stick	WALKING STICK	1296		taposen	taposen 
+1105	38-19-31-1	7582314887176949	Kali'na	gali1262	to rule or govern	RULE	1846		untɨma	untɨma 
+1106	38-19-32-1	7582314833829402	Kali'na	gali1262	the king	KING	1508		konu	konu 
+1107	38-19-33-1	7582314833829402	Kali'na	gali1262	the queen	QUEEN	1306		konu	konu 
+1108	38-19-43-1	7582314968646213	Kali'na	gali1262	the servant	SERVANT	255		pɨito	pɨito 
+1109	38-19-46-1	7582314437442590	Kali'na	gali1262	to obey	OBEY	1635		amɨita (2)	amɨita (2) 
+1110	38-19-47-1	7582314151296319	Kali'na	gali1262	to permit	PERMIT	1003		epanopɨ	epanopɨ 
+1111	38-19-51-1	7582314383437965	Kali'na	gali1262	the friend	FRIEND	1325		akono	akono 
+1112	38-19-52-1	7582314426872887	Kali'na	gali1262	the enemy	ENEMY	1358		itoto	itoto 
+1113	38-19-54-1	7582314967940253	Kali'na	gali1262	the neighbour	NEIGHBOUR	1332		yemamɨlɨ akono	yemamɨlɨ akono 
+1114	38-19-55-1	7582314618131590	Kali'na	gali1262	the stranger	STRANGER	791		tɨwolono	tɨwolono 
+1115	38-19-56-1	7582314958070587	Kali'na	gali1262	the guest	GUEST	1782		eyukupo	eyukupo 
+1116	38-19-57-1	7582314867884014	Kali'na	gali1262	the host	HOST	1545		eyu’nen	eyu’nen 
+1117	38-19-58-1	7582314349761366	Kali'na	gali1262	to help	HELP	1897		epatoma	epatoma 
+1118	38-19-59-1	7582314424658266	Kali'na	gali1262	to prevent	PREVENT	1550		ako’to	ako’to 
+1119	38-19-61-1	7582314534589406	Kali'na	gali1262	the custom	CUSTOM	1747		amano	amano 
+1120	38-19-62-1	7582314251688839	Kali'na	gali1262	the quarrel	QUARREL	1848		owomano	owomano 
+1121	38-19-65-1	758231410659362	Kali'na	gali1262	to meet	MEET	1831		wopo	wopo 
+1122	38-19-72-1	7582314686868585	Kali'na	gali1262	the prostitute	PROSTITUTE	1610		moito	moito 
+1123	38-20-11-1	7582314180112944	Kali'na	gali1262	to fight	FIGHT	1423		owoma	owoma 
+1124	38-20-13-1	7582314977095911	Kali'na	gali1262	the war or battle	BATTLE	579		aleku	aleku 
+1125	38-20-13-2	7582314838130558	Kali'na	gali1262	the war or battle	BATTLE	579		waliyu	waliyu 
+1126	38-20-14-1	7582314410222406	Kali'na	gali1262	the peace	PEACE	1338		-tulupo antɨmo	-tulupo antɨmo 
+1127	38-20-15-1	7582314629162126	Kali'na	gali1262	the army	ARMY	1561		suntatɨ	suntatɨ 
+1128	38-20-17-1	7582314629162126	Kali'na	gali1262	the soldier	SOLDIER	1941		suntatɨ	suntatɨ 
+1129	38-20-21-1	7582314216303992	Kali'na	gali1262	the weapons	WEAPONS	951		owotopo	owotopo 
+1130	38-20-22-1	7582314175135818	Kali'na	gali1262	the club	CLUB	1763		putu	putu 
+1131	38-20-23-1	7582314724520533	Kali'na	gali1262	the sling	SLING	387		lapaletɨ	lapaletɨ 
+1132	38-20-24-1	758231424664506	Kali'na	gali1262	the bow	BOW	994		-ɨlapalɨ	-ɨlapalɨ 
+1133	38-20-25-1	7582314982197023	Kali'na	gali1262	the arrow	ARROW	977		pɨlɨwa	pɨlɨwa 
+1134	38-20-26-1	7582314815085204	Kali'na	gali1262	the spear	SPEAR	945		tomosen	tomosen 
+1135	38-20-28-1	7582314630483789	Kali'na	gali1262	the gun	GUN	1566		alakaposa	alakaposa 
+1136	38-20-42-1	758231441121073	Kali'na	gali1262	the defeat	DEFEAT	782		takeka	takeka 
+1137	38-20-44-1	7582314458315359	Kali'na	gali1262	to defend	DEFEND	1330		ayoma	ayoma 
+1138	38-20-45-1	7582314990320307	Kali'na	gali1262	to retreat	RETREAT	421		lupomamɨ	lupomamɨ 
+1139	38-20-46-1	7582314991297950	Kali'na	gali1262	to surrender	SURRENDER	1696		wokalama	wokalama 
+1140	38-20-47-1	7582314420959316	Kali'na	gali1262	the captive or prisoner	PRISONER	1072		cachot tano	cachot tano 
+1141	38-20-471-1	7582314894577115	Kali'na	gali1262	the guard	GUARD	1940		elan	elan 
+1142	38-20-48-1	7582314738040998	Kali'na	gali1262	the booty	BOOTY	1022		-wotolɨ	-wotolɨ 
+1143	38-20-49-1	7582314301539487	Kali'na	gali1262	the ambush	AMBUSH	65		o’pono	o’pono 
+1144	38-20-51-1	7582314349527479	Kali'na	gali1262	the fisherman	FISHERMAN	1858		woto pokono	woto pokono 
+1145	38-20-52-1	758231457667839	Kali'na	gali1262	the fishhook	FISHHOOK	1074		kowai	kowai 
+1146	38-20-53-1	7582314270542257	Kali'na	gali1262	the fishing line	FISHING LINE	19		sɨlɨsɨlɨ	sɨlɨsɨlɨ 
+1147	38-20-54-1	7582314133713926	Kali'na	gali1262	the fishnet	FISHNET	388		sipi	sipi 
+1148	38-20-55-1	7582314728329486	Kali'na	gali1262	the fish trap	FISH TRAP	389		bakɨsi	bakɨsi 
+1149	38-20-56-1	758231478528467	Kali'na	gali1262	the bait	BAIT	2013		sapa	sapa 
+1150	38-20-61-1	7582314571158231	Kali'na	gali1262	to hunt	HUNT	1435		wotalo	wotalo 
+1151	38-20-62-1	7582314892359955	Kali'na	gali1262	to shoot	SHOOT	1172		moluwa	moluwa 
+1152	38-20-62-2	7582314186099969	Kali'na	gali1262	to shoot	SHOOT	1172		wo	wo 
+1153	38-20-63-1	7582314613688186	Kali'na	gali1262	to miss	MISS (A TARGET)	161		amonopɨ	amonopɨ 
+1154	38-20-64-1	7582314303333773	Kali'na	gali1262	the trap	TRAP (PITFALL)	1075		onantɨ	onantɨ 
+1155	38-12-013-1	7582314960114278	Kali'na	gali1262	at	AT	1461		po	po 
+1156	38-21-17-1	7582314749377929	Kali'na	gali1262	the judgment	JUDGMENT	1067		opimano	opimano 
+1157	38-21-21-1	7582314946565841	Kali'na	gali1262	the plaintiff	PLAINTIFF	2020		opimatoto	opimatoto 
+1158	38-21-22-1	7582314296639302	Kali'na	gali1262	the defendant	DEFENDANT	1034		apoipo	apoipo 
+1159	38-21-23-1	7582314512413382	Kali'na	gali1262	the witness	WITNESS	1144		enenenɨnpo	enenenɨnpo 
+1160	38-21-31-1	7582314278748125	Kali'na	gali1262	to accuse	ACCUSE	1814		emento	emento 
+1161	38-21-36-1	7582314973684477	Kali'na	gali1262	innocent	INNOCENT	90		ipɨimeme	ipɨimeme 
+1162	38-21-39-1	758231433400005	Kali'na	gali1262	the prison	PRISON	1281		cachot	cachot 
+1163	38-21-42-1	7582314147814214	Kali'na	gali1262	the murder	MURDER	845		wonen	wonen 
+1164	38-21-44-1	7582314791209443	Kali'na	gali1262	the rape	RAPE	953		iyamitano	iyamitano 
+1165	38-21-51-1	758231420953394	Kali'na	gali1262	to steal	STEAL	713		monata	monata 
+1166	38-21-52-1	7582314881304486	Kali'na	gali1262	the thief	THIEF	1160		manamen	manamen 
+1167	38-22-12-1	7582314149822027	Kali'na	gali1262	the god	DEITY	3231		tamusi	tamusi 
+1168	38-22-17-1	7582314463829105	Kali'na	gali1262	to pray	PRAY	24		bekima	bekima 
+1169	38-22-18-1	7582314115180751	Kali'na	gali1262	the priest	PRIEST	852		mupelu	mupelu 
+1170	38-22-23-1	7582314758608971	Kali'na	gali1262	to bless	BLESS	391		beni	beni 
+1171	38-22-24-1	7582314341071850	Kali'na	gali1262	to curse	CURSE	8		akama	akama 
+1172	38-22-26-1	7582314307488138	Kali'na	gali1262	to fast	ABSTAIN FROM FOOD	303		onema	onema 
+1173	38-22-31-1	7582314428569620	Kali'na	gali1262	the heaven	HEAVEN	1565		kapu	kapu 
+1174	38-22-45-1	7582314441114407	Kali'na	gali1262	the ghost	GHOST	1175		akapo	akapo 
+1175	38-22-47-1	7582314716628346	Kali'na	gali1262	the omen	OMEN	107		pɨlopono	pɨlopono 
+1176	38-23-1-1	7582314513448874	Kali'na	gali1262	the radio	RADIO	1315		radio	radio 
+1177	38-23-11-1	758231412010673	Kali'na	gali1262	the television	TELEVISION	1788		tele	tele 
+1178	38-23-12-1	7582314385349011	Kali'na	gali1262	the telephone	TELEPHONE	1379		kulawa	kulawa 
+1179	38-23-135-1	7582314915851586	Kali'na	gali1262	the motorcycle	MOTORCYCLE	638		talala tɨmasinken	talala tɨmasinken 
+1180	38-23-14-1	7582314170316665	Kali'na	gali1262	the car	CAR	1111		oto	oto 
+1181	38-23-14-2	8252030869134148	Kali'na	gali1262	the car	CAR	1111		loto	loto 
+1182	38-23-15-1	7582314632665007	Kali'na	gali1262	the bus	BUS	1070		potosu oto	potosu oto 
+1183	38-23-16-1	7582314244238589	Kali'na	gali1262	the airplane	AIRPLANE	1597		oplan(ɨ]	oplan(ɨ] 
+1184	38-23-2-1	7582314170469506	Kali'na	gali1262	the hospital	HOSPITAL	616		lopital	lopital 
+1185	38-23-21-1	7582314307541252	Kali'na	gali1262	the nurse	NURSE	1104		-epinonen	-epinonen 
+1186	38-23-22-1	758231477089221	Kali'na	gali1262	the pill or tablet	PILL	395		kaché	kaché 
+1187	38-23-22-2	7582314509848083	Kali'na	gali1262	the pill or tablet	PILL	395		apiwano	apiwano 
+1188	38-23-52-1	758231477080116	Kali'na	gali1262	the toilet	TOILET	219		wekupitopo	wekupitopo 
+1189	38-23-3-1	7582314355352417	Kali'na	gali1262	the government	GOVERNMENT	815		leta	leta 
+1190	38-23-31-1	7582314833829402	Kali'na	gali1262	the president	PRESIDENT	899		konu	konu 
+1191	38-23-33-1	7582314629162126	Kali'na	gali1262	the police	POLICE	656		suntatɨ	suntatɨ 
+1192	38-23-38-1	7582314853954288	Kali'na	gali1262	the election	ELECTION	240		ekuno	ekuno 
+1193	38-23-4-1	7582314637895434	Kali'na	gali1262	the post/mail	MAIL	167		laposɨ	laposɨ 
+1194	38-23-42-1	7582314970878763	Kali'na	gali1262	the letter	LETTER	1612		kaleta	kaleta 
+1195	38-23-54-1	7582314611288500	Kali'na	gali1262	the tin/can	CAN	1051		akawana’u	akawana’u 
+1196	38-23-55-1	7582314252213076	Kali'na	gali1262	the screw	SCREW	1802		vis	vis 
+1197	38-23-555-1	7582314697931582	Kali'na	gali1262	the screwdriver	SCREWDRIVER	836		vis umenen	vis umenen 
+1198	38-23-56-1	7582314619406296	Kali'na	gali1262	the bottle	BOTTLE	1321		patele	patele 
+1199	38-23-565-1	7582314512376014	Kali'na	gali1262	the candy/sweets	CANDY	874		tɨpoisinamon	tɨpoisinamon 
+1200	38-23-24-1	7582314775277413	Kali'na	gali1262	the spectacles/glasses	SPECTACLES	1898		linetɨ	linetɨ 
+1201	38-23-57-1	7582314136987214	Kali'na	gali1262	the plastic	PLASTIC	654		plastique	plastique 
+1202	38-23-59-1	7582314611246763	Kali'na	gali1262	the cigarette	CIGARETTE	969		tamɨ	tamɨ 
+1203	38-23-61-1	7582314290640975	Kali'na	gali1262	the calendar	CALENDAR	1967		calendrier	calendrier 
+1204	38-23-63-1	7582314698873441	Kali'na	gali1262	the music	MUSIC	642		wale	wale 
+1205	38-23-64-1	7582314698873441	Kali'na	gali1262	the song	SONG	1096		wale	wale 
+1206	38-23-6-1	7582314970878763	Kali'na	gali1262	the newspaper	NEWSPAPER	1298		kaleta	kaleta 
+1207	38-23-39-1	7582314629257620	Kali'na	gali1262	the number	NUMBER	1356		numéro	numéro 
+1208	38-23-36-1	7582314970878763	Kali'na	gali1262	the birth certificate	BIRTH CERTIFICATE	397		kaleta	kaleta 
+1209	38-23-18-1	7582314298788385	Kali'na	gali1262	to brake	BRAKE	966		ipoloka	ipoloka 
+1210	38-23-195-1	758231419539172	Kali'na	gali1262	the petroleum	PETROLEUM	650		kalasinoli	kalasinoli 
+1211	38-23-195-2	7582314820320305	Kali'na	gali1262	the petroleum	PETROLEUM	650		sisɨ	sisɨ 
+1212	38-23-185-1	7582314262161197	Kali'na	gali1262	the motor	MOTOR	110		machine	machine 
+1213	38-23-19-1	7582314262161197	Kali'na	gali1262	the machine	MACHINE	144		machine	machine 
+1214	38-23-13-1	7582314902538702	Kali'na	gali1262	the bicycle	BICYCLE	747		baisɨkɨlɨ	baisɨkɨlɨ 
+1215	38-23-13-2	7582314507710847	Kali'na	gali1262	the bicycle	BICYCLE	747		velo	velo 
+1216	38-23-13-3	7582314534854047	Kali'na	gali1262	the bicycle	BICYCLE	747		talala	talala 
+1217	38-23-395-1	7582314457407825	Kali'na	gali1262	the street	STREET	1362		oma	oma 
+1218	38-19-445-1	7582314493442142	Kali'na	gali1262	to liberate	LIBERATE	37		nonta	nonta 
+1219	38-19-565-1	758231412553288	Kali'na	gali1262	to invite	INVITE	1611		eyuku	eyuku 
+1220	38-23-43-1	7582314970878763	Kali'na	gali1262	the postcard	POSTCARD	1497		kaleta	kaleta 
+1221	38-24-01-1	7582314773889672	Kali'na	gali1262	to be	BE	1579		wai	wai 
+1222	38-24-02-1	7582314773889672	Kali'na	gali1262	to become	BECOME	1990		wai	wai 
+1223	38-24-03-1	7582314493827979	Kali'na	gali1262	without	WITHOUT	1478		-pa, watɨ	-pa 
+1224	38-24-03-2	7582314493827979	Kali'na	gali1262	without	WITHOUT	1478		-pa, watɨ	watɨ 
+1225	38-24-13-1	7582314766226483	Kali'na	gali1262	same	SAME	200		aseneke	aseneke 
+1226	38-24-06-1	7582314923711317	Kali'na	gali1262	not	NOT	1240		-pa, i-...-pa	-pa 
+1227	38-24-06-2	7582314923711317	Kali'na	gali1262	not	NOT	1240		-pa, i-...-pa	i-...-pa 
+1228	38-24-07-1	7582314372772434	Kali'na	gali1262	this	THIS	1214		mo’ko	mo’ko 
+1229	38-24-08-1	7582314720861410	Kali'na	gali1262	that	THAT	78		mo’se	mo’se 
+1230	38-24-09-1	7582314373510847	Kali'na	gali1262	here	HERE	136		elopo	elopo 
+1231	38-24-1-1	758231457846561	Kali'na	gali1262	there	THERE	1937		molopo	molopo 
+1232	38-24-11-1	7582314383437965	Kali'na	gali1262	other	OTHER	197		akono	akono 
+1233	38-4-493-1	7582314956510750	Kali'na	gali1262	the vagina	VAGINA	1836		-imone	-imone 
+1234	38-23-9-1	758231420990052	Kali'na	gali1262	the tea	TEA	1373		asinpan	asinpan 
+1235	38-23-91-1	7582314105407991	Kali'na	gali1262	the coffee	COFFEE	1299		kafé	kafé 
+1236	38-24-12-1	7582314916002733	Kali'na	gali1262	next	NEXT	1354		monɨ	monɨ 
+1237	38-3-869-1	7582314158196268	Kali'na	gali1262	the squirrel	SQUIRREL	1628		sipulu	sipulu 
+1238	38-8-993-1	7582314409357633	Kali'na	gali1262	the needle(2)	NEEDLE TREE	286		-ekɨlɨ	-ekɨlɨ 
+1239	38-22-51-1	7582314679835557	Kali'na	gali1262	the initiation ceremony	INITIATION CEREMONY	1946		ainayukano	ainayukano 
+1240	38-3-8112-1	7582314529950934	Kali'na	gali1262	the body louse	BODY LOUSE	311		omɨ (1)	omɨ (1) 
+1241	38-3-99-1	7582314167195260	Kali'na	gali1262	the tapir	TAPIR	312		maipuli	maipuli 
+1242	38-7-65-1	7582314828348609	Kali'na	gali1262	the camp	CAMP	1105		pataya	pataya 
+1243	38-8-28-1	7582314625068920	Kali'na	gali1262	the digging stick (=yamstick)	DIGGING STICK	339		epɨ	epɨ 
+1244	38-3-597-1	7582314966671352	Kali'na	gali1262	the cormorant	CORMORANT	840		kalala	kalala 
+1245	38-3-833-1	7582314798370511	Kali'na	gali1262	the prawns or shrimp	PRAWNS	238		isulu	isulu 
+1246	38-3-834-1	7582314732530903	Kali'na	gali1262	the termites	TERMITE	883		kupisa	kupisa 
+1247	38-3-835-1	7582314824413034	Kali'na	gali1262	the tick	TICK	1527		kupali	kupali 
+1248	38-3-89-1	7582314910464631	Kali'na	gali1262	the anteater	ANTEATER	181		tamantuwa	tamantuwa 
+1249	38-3-89-2	8252030395079265	Kali'na	gali1262	the anteater	ANTEATER	181		walili	walili 
+1250	38-3-598-1	7582314773026600	Kali'na	gali1262	the toucan	TOUCAN	308		kuyaken	kuyaken 
+1251	38-3-598-2	8252030223784295	Kali'na	gali1262	the toucan	TOUCAN	308		ala’ali	ala’ali 
+1252	38-3-9-1	7582314491980731	Kali'na	gali1262	the jaguar	JAGUAR	1250		kaikusi	kaikusi 
+1253	38-3-9-2	8252030512116891	Kali'na	gali1262	the jaguar	JAGUAR	1250		awaluwape	awaluwape 
+1254	38-3-9-3	8252030802772376	Kali'na	gali1262	the jaguar	JAGUAR	1250		malakaya	malakaya 
+1255	38-5-983-1	7582314171216250	Kali'na	gali1262	the manioc bread	MANIOC BREAD	407		alepa	alepa 
+1256	38-7-66-1	7582314719457994	Kali'na	gali1262	the hammock	HAMMOCK	2019		nimoku	nimoku 
+1257	38-3-913-1	7582314309693571	Kali'na	gali1262	the chameleon	CHAMELEON	1555		kankasapa	kankasapa 
+1258	38-9-9-1	7582314677907266	Kali'na	gali1262	to draw water	DRAW (WATER)	1911		ipekɨ	ipekɨ 
+1259	38-10-58-1	7582314252968789	Kali'na	gali1262	to go or return home	RETURN HOME	142		welema	welema 
+1260	38-3-917-1	7582314604312110	Kali'na	gali1262	the buffalo	BUFFALO	934		asau	asau 
+1261	38-1-411-1	7582314812271323	Kali'na	gali1262	the savanna	SAVANNA	260		wo’i	wo’i 
+1262	38-1-831-1	758231476014388	Kali'na	gali1262	the steam	STEAM	1193		ekɨine	ekɨine 
+1263	38-2-5-1	7582314928104174	Kali'na	gali1262	the grandchild	GRANDCHILD	1617		-palɨ	-palɨ 
+1264	38-2-541-1	7582314934509718	Kali'na	gali1262	the sibling’s child	SIBLING'S CHILD	173		-mokusalɨ	-mokusalɨ 
+1265	38-2-6412-1	7582314934509718	Kali'na	gali1262	the sibling-in-law	SIBLING-IN-LAW	1832		-mokusalɨ	-mokusalɨ 
+1266	38-4-741-1	7582314534589406	Kali'na	gali1262	the life	LIFE	210		amano	amano 
+1267	38-4-771-1	7582314750702077	Kali'na	gali1262	the carcass	CARCASS	1770		kawe’po	kawe’po 
+1268	38-4-844-1	7582314325108482	Kali'na	gali1262	the disease	DISEASE	1986		anɨkɨ	anɨkɨ 
+1269	38-8-121-1	7582314434694208	Kali'na	gali1262	the paddy	PADDY FIELD	140		aleisi patɨ	aleisi patɨ 
+1270	38-11-29-1	758231450546010	Kali'na	gali1262	to damage	DAMAGE	1116		akoto (2)	akoto (2) 
+1271	38-12-081-1	7582314912516655	Kali'na	gali1262	above	ABOVE	1741		epo	epo 
+1272	38-13-231-1	7582314628084748	Kali'na	gali1262	the piece	PIECE	594		pisalapo	pisalapo 
+1273	38-13-331-1	7582314258749609	Kali'na	gali1262	alone	ALONE	1964		o’winpupo	o’winpupo 
+1274	38-14-251-1	7582314166731307	Kali'na	gali1262	the beginning	BEGINNING	1557		kolomo	kolomo 
+1275	38-14-411-1	7582314269690395	Kali'na	gali1262	the day(2)	DAY (NOT NIGHT)	1225		kulita	kulita 
+1276	38-22-131-1	7582314870514202	Kali'na	gali1262	the church	CHURCH	1349		keleke	keleke 
+1277	38-22-131-2	7929115319734916	Kali'na	gali1262	the church	CHURCH	1349		legliz	legliz 
+1278	38-24-14-1	758231462915691	Kali'na	gali1262	nothing	NOTHING	687		amɨ watɨ	amɨ watɨ 
+1279	38-4-7501-1	7582314177005427	Kali'na	gali1262	dead	DEAD	1625		tɨlomo’se	tɨlomo’se 
+1280	38-4-8541-1	7582314572359476	Kali'na	gali1262	to scratch	SCRATCH	1436		sisito	sisito 
+1281	38-9-111-1	7582314989767136	Kali'na	gali1262	to make	MAKE	734		kapɨ	kapɨ 
+1282	38-4-431-1	758231434914355	Kali'na	gali1262	the belly	BELLY	1251		uwenpo	uwenpo 
+1283	38-24-04-1	7582314435086368	Kali'na	gali1262	with	WITH	1340		malo	malo 
+1284	38-12-012-1	758231480228507	Kali'na	gali1262	in	IN	1460		ta	ta 
+1285	38-1-99906-1	825215564261813	Kali'na	gali1262	the loam				nonopi	nonopi 
+1286	38-1-99908-1	82521560603399	Kali'na	gali1262	the river mouth				-kenɨ	-kenɨ 
+1287	38-1-99909-1	825216577577398	Kali'na	gali1262	the short dry season				awala weyulu	awala weyulu 
+1288	38-3-99902-1	825215129250062	Kali'na	gali1262	the agouti				akuli	akuli 
+1289	38-3-99906-1	7582314542903592	Kali'na	gali1262	the armadillo				kapasi	kapasi 
+1290	38-3-99906-2	8252030116422228	Kali'na	gali1262	the armadillo				katupelu	katupelu 
+1291	38-3-9991-1	825215741209709	Kali'na	gali1262	the capibara				kapiwa	kapiwa 
+1292	38-3-99918-1	825215509986281	Kali'na	gali1262	the hocco				woko	woko 
+1293	38-3-9992-1	825215863737313	Kali'na	gali1262	the ibis				wala	wala 
+1294	38-3-99921-1	825215591214210	Kali'na	gali1262	the iguana				wayamaka	wayamaka 
+1295	38-3-99922-1	825215778020558	Kali'na	gali1262	the jabiru				tuyuyu	tuyuyu 
+1296	38-3-99928-1	825215633578860	Kali'na	gali1262	the marail				malai	malai 
+1297	38-3-9993-1	825215465908088	Kali'na	gali1262	the paca				ulana	ulana 
+1298	38-3-99932-1	825215666584916	Kali'na	gali1262	the partridge				inamu	inamu 
+1299	38-3-99933-1	8252163025487	Kali'na	gali1262	the pet				-yekɨ	-yekɨ 
+1300	38-3-99934-1	7582314312093964	Kali'na	gali1262	the piranha				pilai	pilai 
+1301	38-3-99943-1	825215506986680	Kali'na	gali1262	the trumpeter bird				akami	akami 
+1302	38-4-99913-1	758231451028828	Kali'na	gali1262	the umbilical cord				-powetɨ	-powetɨ 
+1303	38-5-99907-1	82521551567366	Kali'na	gali1262	the brandy				palantuwini	palantuwini 
+1304	38-5-99909-1	825215334526799	Kali'na	gali1262	the cassava flour				kiyelepun	kiyelepun 
+1305	38-5-99913-1	825216359548723	Kali'na	gali1262	the manioc juice				kasilipo	kasilipo 
+1306	38-5-99917-1	825215740214463	Kali'na	gali1262	the roasted cassava meal				kuwakɨ	kuwakɨ 
+1307	38-5-99918-1	82521628567709	Kali'na	gali1262	the smoked food				kanpo	kanpo 
+1308	38-6-99903-1	825216320526575	Kali'na	gali1262	the fringe				sesewu	sesewu 
+1309	38-6-99904-1	825216516645789	Kali'na	gali1262	the leg band				sepu	sepu 
+1310	38-6-99906-1	825216268686474	Kali'na	gali1262	the pompom				kuwasi	kuwasi 
+1311	38-7-99901-1	825216252835434	Kali'na	gali1262	the bench				mule	mule 
+1312	38-7-99902-1	825216820428998	Kali'na	gali1262	the case				tolonpulu	tolonpulu 
+1313	38-7-99903-1	825216168094304	Kali'na	gali1262	the griddle				alinatu	alinatu 
+1314	38-7-99905-1	825216884807259	Kali'na	gali1262	the mosquito net				kalden	kalden 
+1315	38-8-99901-1	825216300524653	Kali'na	gali1262	the almond				mantala	mantala 
+1316	38-8-99903-1	825216680412322	Kali'na	gali1262	the anatto				kusewe	kusewe 
+1317	38-8-99907-1	825216831112940	Kali'na	gali1262	the black tree dye				tapulupo	tapulupo 
+1318	38-8-99909-1	7582314385349011	Kali'na	gali1262	the bromelia				kulawa	kulawa 
+1319	38-8-99911-1	825216885646989	Kali'na	gali1262	the cashew				oloi	oloi 
+1320	38-8-99915-1	825216321991452	Kali'na	gali1262	the cottontree				kumaka	kumaka 
+1321	38-8-99921-1	825216531791177	Kali'na	gali1262	the guava				kuyapa	kuyapa 
+1322	38-8-99925-1	82521651925325	Kali'na	gali1262	the liana				simo	simo 
+1323	38-8-9993-1	825216257346106	Kali'na	gali1262	the mango				mankɨ	mankɨ 
+1324	38-8-99931-1	825216987196190	Kali'na	gali1262	the mangrove				kunapo	kunapo 
+1325	38-8-99931-2	825216289049228	Kali'na	gali1262	the mangrove				apaliyu	apaliyu 
+1326	38-8-99935-1	825216593052652	Kali'na	gali1262	the onion				ayunu	ayunu 
+1327	38-8-99935-2	825216202210259	Kali'na	gali1262	the onion				zonion	zonion 
+1328	38-8-99936-1	825216489118484	Kali'na	gali1262	the orange				apɨlisina	apɨlisina 
+1329	38-8-99937-1	7582314582488059	Kali'na	gali1262	the pea				pesi	pesi 
+1330	38-8-99939-1	825216714414218	Kali'na	gali1262	the pineapple				nana	nana 
+1331	38-8-99943-1	7582314982197023	Kali'na	gali1262	the reed				pɨlɨwa	pɨlɨwa 
+1332	38-8-99944-1	825216843809565	Kali'na	gali1262	the rubber tree				palata	palata 
+1333	38-8-9995-1	82521661004397	Kali'na	gali1262	the tree dye				kumetɨ	kumetɨ 
+1334	38-8-99954-1	825216855560456	Kali'na	gali1262	the watermelon				potɨiya	potɨiya 
+1335	38-8-99961-1	7582314894974521	Kali'na	gali1262	to pick				anumɨ	anumɨ 
+1336	38-9-99902-1	825216139817556	Kali'na	gali1262	the basketry				waluman	waluman 
+1337	38-9-99903-1	825216417243822	Kali'na	gali1262	the bucket				boketi	boketi 
+1338	38-9-99905-1	825216486198733	Kali'na	gali1262	the canvas sheet				puwela	puwela 
+1339	38-9-99906-1	825216961299786	Kali'na	gali1262	the corrugated iron				zeng, senki	zeng 
+1340	38-9-99906-2	825216961299786	Kali'na	gali1262	the corrugated iron				zeng, senki	senki 
+1341	38-9-99908-1	825216346645847	Kali'na	gali1262	the drill				kowekowe	kowekowe 
+1342	38-9-99909-1	825216753392404	Kali'na	gali1262	the file				kɨlɨkɨlɨ	kɨlɨkɨlɨ 
+1343	38-9-9991-1	7582314463620654	Kali'na	gali1262	the harbour				talapu	talapu 
+1344	38-9-99911-1	825216548335932	Kali'na	gali1262	the harpoon				alopon	alopon 
+1345	38-9-99912-1	75823142990646	Kali'na	gali1262	the hearthstones				tapu	tapu 
+1346	38-9-99914-1	825216493850705	Kali'na	gali1262	the manioc squeezer				matapi	matapi 
+1347	38-9-99915-1	7582314294520035	Kali'na	gali1262	the pencil				melotopo	melotopo 
+1348	38-9-99924-1	7582314962179708	Kali'na	gali1262	the trail				wenapo	wenapo 
+1349	38-9-99926-1	7582314805639387	Kali'na	gali1262	the wharf				pe'a	pe'a 
+1350	38-9-99927-1	825216388237236	Kali'na	gali1262	the wheelbarrow				buretɨ	buretɨ 
+1351	38-9-99928-1	825216761360226	Kali'na	gali1262	to barbecue				anoka	anoka 
+1352	38-9-9993-1	7582314668852098	Kali'na	gali1262	to draw				melo	melo 
+1353	38-9-99931-1	7582314922756009	Kali'na	gali1262	to dwell				emamɨ	emamɨ 
+1354	38-14-99905-1	7582314831799919	Kali'na	gali1262	the period				yulu	yulu 
+1355	38-15-99905-1	7582314643701577	Kali'na	gali1262	the trace				ipapo	ipapo 
+1356	38-16-99904-1	7582314138856012	Kali'na	gali1262	the evil				yawan	yawan 
+1357	38-17-99904-1	758231455671309	Kali'na	gali1262	the scarcity				alepa sanolɨ	alepa sanolɨ 
+1358	38-18-99912-1	7582314132574315	Kali'na	gali1262	to ululate				wataitapo	wataitapo 
+1359	38-19-99913-1	825216821348725	Kali'na	gali1262	the Brazilian				pulutekesi	pulutekesi 
+1360	38-19-99915-1	82521683963436	Kali'na	gali1262	the Chinese person				sinesi	sinesi 
+1361	38-19-99916-1	825216708818965	Kali'na	gali1262	the communal labour				musilo	musilo 
+1362	38-19-99917-1	825216171256871	Kali'na	gali1262	the European				palanakɨlɨ	palanakɨlɨ 
+1363	38-19-99917-2	825216597101009	Kali'na	gali1262	the European				sipolɨ	sipolɨ 
+1364	38-19-99918-1	825216691040712	Kali'na	gali1262	the Creole or black person				mati	mati 
+1365	38-19-99922-1	825216589261748	Kali'na	gali1262	the French person				palansi(sin)	palansi(sin) 
+1366	38-19-99923-1	7582314970878763	Kali'na	gali1262	the government document				kaleta	kaleta 
+1367	38-19-99927-1	825216524716532	Kali'na	gali1262	the mixed-race Kali’na				mɨlato	mɨlato 
+1368	38-20-99902-1	7582314998597289	Kali'na	gali1262	the cutlass				supala	supala 
+1369	38-20-99904-1	7582314707541556	Kali'na	gali1262	the game animal				tonomɨ	tonomɨ 
+1370	38-20-99905-1	825216741301228	Kali'na	gali1262	the letterwood bow				paila	paila 
+1371	38-22-99905-1	825216920949454	Kali'na	gali1262	the funeral				epe’kotono	epe’kotono 
+1372	38-22-99911-1	825216467181178	Kali'na	gali1262	the shaman				pɨyai	pɨyai 
+1373	38-22-99912-1	82521666745718	Kali'na	gali1262	the shaman’s spirit				yakuwa	yakuwa 
+1374	38-22-99913-1	825216996460402	Kali'na	gali1262	the shamanistic song				alemi	alemi 
+1375	38-22-99914-1	825216969820316	Kali'na	gali1262	the woman’s rattle				kalawasi	kalawasi 
+1376	38-24-9991-1	7582314838230721	Kali'na	gali1262	someone				suma	suma 

@@ -1,0 +1,179 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	larzan, madanm	Seychelles Creole	1162	U+0061
+e	e	leker, anmennen	Seychelles Creole	889	U+0065
+o	o	mouton, tonton	Seychelles Creole	770	U+006f
+r	r	gran frer, laboure	Seychelles Creole	543	U+0072
+i	i	pti gin, belfiy	Seychelles Creole	532	U+0069
+e$	e	laboure, krose	Seychelles Creole	446	U+0065 U+0024
+n	n	madanm, anmennen	Seychelles Creole	438	U+006e
+^l	l	laboure, laplim	Seychelles Creole	359	U+005e U+006c
+n$	n	anmennen, larzan	Seychelles Creole	332	U+006e U+0024
+t	t	bate, santi	Seychelles Creole	321	U+0074
+l	l	belfiy, laplim	Seychelles Creole	300	U+006c
+y	y	lesyel, riy riye	Seychelles Creole	248	U+0079
+u	u	laboure, lakour	Seychelles Creole	216	U+0075
+s	s	krose, lesyel	Seychelles Creole	208	U+0073
+r$	r	boper, kler	Seychelles Creole	202	U+0072 U+0024
+^k	k	krose, kler	Seychelles Creole	189	U+005e U+006b
+^p	p	piti, perl	Seychelles Creole	188	U+005e U+0070
+m	m	anmennen, belmer	Seychelles Creole	180	U+006d
+k	k	lekel ki, leker	Seychelles Creole	172	U+006b
+p	p	boper, laplim	Seychelles Creole	168	U+0070
+^b	b	belfiy, boper	Seychelles Creole	159	U+005e U+0062
+^s	s	santi, sizo	Seychelles Creole	158	U+005e U+0073
+z	z	larzan, sizo	Seychelles Creole	139	U+007a
+^m	m	madanm, mal	Seychelles Creole	138	U+005e U+006d
+t$	t	fot, bet	Seychelles Creole	131	U+0074 U+0024
+d	d	madanm, ride	Seychelles Creole	126	U+0064
+_	_	kan kok maron, pti frer	Seychelles Creole	125	U+005f
+i$	i	santi, piti	Seychelles Creole	124	U+0069 U+0024
+^d	d	dizef, dan	Seychelles Creole	122	U+005e U+0064
+^t	t	trou, tape	Seychelles Creole	121	U+005e U+0074
+b	b	laboure, anba anba	Seychelles Creole	111	U+0062
+^a	a	anmennen, avek	Seychelles Creole	106	U+005e U+0061
+^f	f	four, for	Seychelles Creole	103	U+005e U+0066
+v	v	avek, move	Seychelles Creole	100	U+0076
+l$	l	mal, poul	Seychelles Creole	90	U+006c U+0024
+f	f	belfiy, bofis	Seychelles Creole	88	U+0066
+a$	a	anba, lestoma	Seychelles Creole	87	U+0061 U+0024
+o$	o	baro, sizo	Seychelles Creole	84	U+006f U+0024
+^z	z	zann, zekler	Seychelles Creole	82	U+005e U+007a
+nn	nn	anmennen, kondannen	Seychelles Creole	79	U+006e U+006e
+s$	s	bofis, nyes	Seychelles Creole	74	U+0073 U+0024
+g	g	sagren, lager	Seychelles Creole	70	U+0067
+nn$	nn	zann, lapenn	Seychelles Creole	69	U+006e U+006e U+0024
+^r	r	rennyen, roule	Seychelles Creole	69	U+005e U+0072
+^g	g	grate, gele	Seychelles Creole	66	U+005e U+0067
+y$	y	belfiy, marmay	Seychelles Creole	62	U+0079 U+0024
+k$	k	ek, avek	Seychelles Creole	61	U+006b U+0024
+z$	z	akoz, legliz	Seychelles Creole	54	U+007a U+0024
+m$	m	madanm, laplim	Seychelles Creole	52	U+006d U+0024
+^v	v	viv, volay	Seychelles Creole	42	U+005e U+0076
+^n	n	nou, nanm	Seychelles Creole	37	U+005e U+006e
+u$	u	nou, trou	Seychelles Creole	35	U+0075 U+0024
+^e	e	ek, entelizan	Seychelles Creole	31	U+005e U+0065
+ns	ns	panse, piti ansanm	Seychelles Creole	30	U+006e U+0073
+g$	g	malang, zong	Seychelles Creole	30	U+0067 U+0024
+v$	v	viv, pov	Seychelles Creole	24	U+0076 U+0024
+rs	rs	fourset, serse	Seychelles Creole	23	U+0072 U+0073
+d$	d	rid, koud	Seychelles Creole	23	U+0064 U+0024
+f$	f	dizef, serf	Seychelles Creole	22	U+0066 U+0024
+p$	p	kap, latroup	Seychelles Creole	19	U+0070 U+0024
+^o	o	ou, oule	Seychelles Creole	18	U+005e U+006f
+ns$	ns	gran zans, dimans	Seychelles Creole	17	U+006e U+0073 U+0024
+b$	b	bib, letab	Seychelles Creole	17	U+0062 U+0024
+-	<?>	tranbleman-d-ter, anvwa-d-famiy	Seychelles Creole	16	U+002d
+rw	rw	trwi, landrwa	Seychelles Creole	14	U+0072 U+0077
+^kw	kw	kwar, kwi	Seychelles Creole	13	U+005e U+006b U+0077
+^i	i	irle, is karang	Seychelles Creole	12	U+005e U+0069
+^bw	bw	bwete, bwa	Seychelles Creole	10	U+005e U+0062 U+0077
+sw	sw	aswar, lanmaswar	Seychelles Creole	9	U+0073 U+0077
+^pw	pw	pwason, pwenti	Seychelles Creole	9	U+005e U+0070 U+0077
+pw	pw	lapwent, lespwar	Seychelles Creole	7	U+0070 U+0077
+rs$	rs	lars, ners	Seychelles Creole	7	U+0072 U+0073 U+0024
+fw	fw	annandefwa, kekfwa	Seychelles Creole	6	U+0066 U+0077
+^sw	sw	swazir, swiye	Seychelles Creole	6	U+005e U+0073 U+0077
+^w	w	war, wit	Seychelles Creole	6	U+005e U+0077
+^zw	zw	zwe, zwazo	Seychelles Creole	6	U+005e U+007a U+0077
+tw	tw	tatwaz, sitwayen	Seychelles Creole	5	U+0074 U+0077
+vw	vw	avwe, konsevwar	Seychelles Creole	5	U+0076 U+0077
+gw	gw	zegwiy, langwas	Seychelles Creole	5	U+0067 U+0077
+bw	bw	bonnonm dibwa, labwet	Seychelles Creole	4	U+0062 U+0077
+kw	kw	lakwis, lakwizin	Seychelles Creole	4	U+006b U+0077
+lw	lw	delwil, boulwar	Seychelles Creole	4	U+006c U+0077
+nw	nw	lannwit, grenwiy	Seychelles Creole	4	U+006e U+0077
+ks	ks	eksplike, leleksyon	Seychelles Creole	4	U+006b U+0073
+zw	zw	razwar, nazwar	Seychelles Creole	4	U+007a U+0077
+dw	dw	ledwa, kondwir	Seychelles Creole	4	U+0064 U+0077
+^i$	i	i	Seychelles Creole	4	U+005e U+0069 U+0024
+ks$	ks	laks, taks	Seychelles Creole	3	U+006b U+0073 U+0024
+^tw	tw	twalet, twa fey	Seychelles Creole	3	U+005e U+0074 U+0077
+koule (1)	<???>	koule (1)	Seychelles Creole	3	U+006b U+006f U+0075 U+006c U+0065 U+0020 U+0028 U+0031 U+0029
+aa	aa	laas, laans	Seychelles Creole	2	U+0061 U+0061
+plen (2)	<???>	plen (2)	Seychelles Creole	2	U+0070 U+006c U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+rsw	rsw	pourswiv, marswen	Seychelles Creole	2	U+0072 U+0073 U+0077
+gete (1)	<???>	gete (1)	Seychelles Creole	2	U+0067 U+0065 U+0074 U+0065 U+0020 U+0028 U+0031 U+0029
+^vw	vw	vwazen, vwal	Seychelles Creole	2	U+005e U+0076 U+0077
+pike (1)	<???>	pike (1)	Seychelles Creole	2	U+0070 U+0069 U+006b U+0065 U+0020 U+0028 U+0031 U+0029
+ver (2)	<???>	ver (2)	Seychelles Creole	2	U+0076 U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
+^nw	nw	nwar	Seychelles Creole	2	U+005e U+006e U+0077
+^mw	mw	mwan	Seychelles Creole	2	U+005e U+006d U+0077
+fer (1)	<???>	fer (1)	Seychelles Creole	2	U+0066 U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
+^lw	lw	lwen, lwe	Seychelles Creole	2	U+005e U+006c U+0077
+fri (1)	<???>	fri (1)	Seychelles Creole	2	U+0066 U+0072 U+0069 U+0020 U+0028 U+0031 U+0029
+boner (1)	<???>	boner (1)	Seychelles Creole	2	U+0062 U+006f U+006e U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
+mw	mw	temwen, lanmwotye	Seychelles Creole	2	U+006d U+0077
+pike (2)	<???>	pike (2)	Seychelles Creole	1	U+0070 U+0069 U+006b U+0065 U+0020 U+0028 U+0032 U+0029
+kann (2)	<???>	kann (2)	Seychelles Creole	1	U+006b U+0061 U+006e U+006e U+0020 U+0028 U+0032 U+0029
+ler (1)	<???>	ler (1)	Seychelles Creole	1	U+006c U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
+dir (1)	<???>	dir (1)	Seychelles Creole	1	U+0064 U+0069 U+0072 U+0020 U+0028 U+0031 U+0029
+ee	ee	speech	Seychelles Creole	1	U+0065 U+0065
+plen (1)	<???>	plen (1)	Seychelles Creole	1	U+0070 U+006c U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+kan (2)	<???>	kan (2)	Seychelles Creole	1	U+006b U+0061 U+006e U+0020 U+0028 U+0032 U+0029
+kot (1)	<???>	kot (1)	Seychelles Creole	1	U+006b U+006f U+0074 U+0020 U+0028 U+0031 U+0029
+ser (1)	<???>	ser (1)	Seychelles Creole	1	U+0073 U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
+ps	ps	soupsonnen	Seychelles Creole	1	U+0070 U+0073
+tire (1)	<???>	tire (1)	Seychelles Creole	1	U+0074 U+0069 U+0072 U+0065 U+0020 U+0028 U+0031 U+0029
+ls	ls	belser	Seychelles Creole	1	U+006c U+0073
+kok (1)	<???>	kok (1)	Seychelles Creole	1	U+006b U+006f U+006b U+0020 U+0028 U+0031 U+0029
+^M	<?>	Mous fe	Seychelles Creole	1	U+005e U+004d
+kote (1)	<???>	kote (1)	Seychelles Creole	1	U+006b U+006f U+0074 U+0065 U+0020 U+0028 U+0031 U+0029
+kale (1)	<???>	kale (1)	Seychelles Creole	1	U+006b U+0061 U+006c U+0065 U+0020 U+0028 U+0031 U+0029
+^K	<?>	Kaka zorey	Seychelles Creole	1	U+005e U+004b
+touse (1)	<???>	touse (1)	Seychelles Creole	1	U+0074 U+006f U+0075 U+0073 U+0065 U+0020 U+0028 U+0031 U+0029
+ms	ms	lanmson	Seychelles Creole	1	U+006d U+0073
+tire (2)	<???>	tire (2)	Seychelles Creole	1	U+0074 U+0069 U+0072 U+0065 U+0020 U+0028 U+0032 U+0029
+non (1)	<???>	non (1)	Seychelles Creole	1	U+006e U+006f U+006e U+0020 U+0028 U+0031 U+0029
+w$	w	daw	Seychelles Creole	1	U+0077 U+0024
+drwa (2)	<???>	drwa (2)	Seychelles Creole	1	U+0064 U+0072 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
+kann (1)	<???>	kann (1)	Seychelles Creole	1	U+006b U+0061 U+006e U+006e U+0020 U+0028 U+0031 U+0029
+lafen (1)	<???>	lafen (1)	Seychelles Creole	1	U+006c U+0061 U+0066 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+san (3)	<???>	san (3)	Seychelles Creole	1	U+0073 U+0061 U+006e U+0020 U+0028 U+0033 U+0029
+zennen (1)	<???>	zennen (1)	Seychelles Creole	1	U+007a U+0065 U+006e U+006e U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+^dw	dw	dwa	Seychelles Creole	1	U+005e U+0064 U+0077
+ch	ch	poncho	Seychelles Creole	1	U+0063 U+0068
+^e$	e	e	Seychelles Creole	1	U+005e U+0065 U+0024
+non (2)	<???>	non (2)	Seychelles Creole	1	U+006e U+006f U+006e U+0020 U+0028 U+0032 U+0029
+balye (2)	<???>	balye (2)	Seychelles Creole	1	U+0062 U+0061 U+006c U+0079 U+0065 U+0020 U+0028 U+0032 U+0029
+ser (2)	<???>	ser (2)	Seychelles Creole	1	U+0073 U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
+lafen (2)	<???>	lafen (2)	Seychelles Creole	1	U+006c U+0061 U+0066 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+envite (2)	<???>	envite (2)	Seychelles Creole	1	U+0065 U+006e U+0076 U+0069 U+0074 U+0065 U+0020 U+0028 U+0032 U+0029
+ll$	ll	waterfall	Seychelles Creole	1	U+006c U+006c U+0024
+ler (2)	<???>	ler (2)	Seychelles Creole	1	U+006c U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
+^y	y	yer	Seychelles Creole	1	U+005e U+0079
+envite (1)	<???>	envite (1)	Seychelles Creole	1	U+0065 U+006e U+0076 U+0069 U+0074 U+0065 U+0020 U+0028 U+0031 U+0029
+kote (2)	<???>	kote (2)	Seychelles Creole	1	U+006b U+006f U+0074 U+0065 U+0020 U+0028 U+0032 U+0029
+^j	j	jug	Seychelles Creole	1	U+005e U+006a
+prese (2)	<???>	prese (2)	Seychelles Creole	1	U+0070 U+0072 U+0065 U+0073 U+0065 U+0020 U+0028 U+0032 U+0029
+ver (1)	<???>	ver (1)	Seychelles Creole	1	U+0076 U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
+kot (2)	<???>	kot (2)	Seychelles Creole	1	U+006b U+006f U+0074 U+0020 U+0028 U+0032 U+0029
+kale (2)	<???>	kale (2)	Seychelles Creole	1	U+006b U+0061 U+006c U+0065 U+0020 U+0028 U+0032 U+0029
+pri (2)	<???>	pri (2)	Seychelles Creole	1	U+0070 U+0072 U+0069 U+0020 U+0028 U+0032 U+0029
+lant (2)	<???>	lant (2)	Seychelles Creole	1	U+006c U+0061 U+006e U+0074 U+0020 U+0028 U+0032 U+0029
+balye (1)	<???>	balye (1)	Seychelles Creole	1	U+0062 U+0061 U+006c U+0079 U+0065 U+0020 U+0028 U+0031 U+0029
+bs	bs	lobskirite	Seychelles Creole	1	U+0062 U+0073
+^c	c	countryside	Seychelles Creole	1	U+005e U+0063
+zennen (2)	<???>	zennen (2)	Seychelles Creole	1	U+007a U+0065 U+006e U+006e U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+fer (2)	<???>	fer (2)	Seychelles Creole	1	U+0066 U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
+c	c	mice	Seychelles Creole	1	U+0063
+lapat (2)	<???>	lapat (2)	Seychelles Creole	1	U+006c U+0061 U+0070 U+0061 U+0074 U+0020 U+0028 U+0032 U+0029
+lant (1)	<???>	lant (1)	Seychelles Creole	1	U+006c U+0061 U+006e U+0074 U+0020 U+0028 U+0031 U+0029
+ch$	ch	speech	Seychelles Creole	1	U+0063 U+0068 U+0024
+koule (2)	<???>	koule (2)	Seychelles Creole	1	U+006b U+006f U+0075 U+006c U+0065 U+0020 U+0028 U+0032 U+0029
+dir (2)	<???>	dir (2)	Seychelles Creole	1	U+0064 U+0069 U+0072 U+0020 U+0028 U+0032 U+0029
+lapat (1)	<???>	lapat (1)	Seychelles Creole	1	U+006c U+0061 U+0070 U+0061 U+0074 U+0020 U+0028 U+0031 U+0029
+gannyen (2)	<???>	gannyen (2)	Seychelles Creole	1	U+0067 U+0061 U+006e U+006e U+0079 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+dra (1)	<???>	dra (1)	Seychelles Creole	1	U+0064 U+0072 U+0061 U+0020 U+0028 U+0031 U+0029
+gs	gs	kingsayz	Seychelles Creole	1	U+0067 U+0073
+ba (1)	<???>	ba (1)	Seychelles Creole	1	U+0062 U+0061 U+0020 U+0028 U+0031 U+0029
+san (2)	<???>	san (2)	Seychelles Creole	1	U+0073 U+0061 U+006e U+0020 U+0028 U+0032 U+0029
+^sh	sh	shelf	Seychelles Creole	1	U+005e U+0073 U+0068
+kok (2)	<???>	kok (2)	Seychelles Creole	1	U+006b U+006f U+006b U+0020 U+0028 U+0032 U+0029
+gannyen (1)	<???>	gannyen (1)	Seychelles Creole	1	U+0067 U+0061 U+006e U+006e U+0079 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+kan (1)	<???>	kan (1)	Seychelles Creole	1	U+006b U+0061 U+006e U+0020 U+0028 U+0031 U+0029
+^o$	o	o	Seychelles Creole	1	U+005e U+006f U+0024
+pri (1)	<???>	pri (1)	Seychelles Creole	1	U+0070 U+0072 U+0069 U+0020 U+0028 U+0031 U+0029
+touse (2)	<???>	touse (2)	Seychelles Creole	1	U+0074 U+006f U+0075 U+0073 U+0065 U+0020 U+0028 U+0032 U+0029
+prese (1)	<???>	prese (1)	Seychelles Creole	1	U+0070 U+0072 U+0065 U+0073 U+0065 U+0020 U+0028 U+0031 U+0029

@@ -1,0 +1,258 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	sas, lahan lo	Archi	777	U+0061
+u	u	kɬummus, nusdur	Archi	461	U+0075
+i	i	ocis, dunil χiriχkumul	Archi	340	U+0069
+s$	s	sas, as	Archi	314	U+0073 U+0024
+o	o	q’orol bošor, bošor	Archi	251	U+006f
+r	r	barq barčʼurtːut raq, barq borkɬinnut raq	Archi	235	U+0072
+_	_	ʕejb itʼukul ocis as, lahan lo	Archi	216	U+005f
+e	e	ɬːenne lo, mekɬe lo	Archi	180	U+0065
+k	k	šːak kes, q’akul	Archi	175	U+006b
+l	l	lahan lo, parəla	Archi	157	U+006c
+b	b	baba, aʔbos	Archi	155	U+0062
+n	n	cʼunas, lahan lo	Archi	150	U+006e
+tː	tː	oɬːutːut, χalatːu	Archi	133	U+0074 U+02d0
+t$	t	oˤnt, oɬːutːut	Archi	127	U+0074 U+0024
+t	t	at’as, kart’ilit sas	Archi	114	U+0074
+m	m	eχmus, ɬːerumk'ul	Archi	109	U+006d
+i$	i	ɬːʷiri, arsi	Archi	103	U+0069 U+0024
+’	<?>	at’as, q’akul	Archi	96	U+2019
+u$	u	χˤurχˤu, q’urumnu	Archi	87	U+0075 U+0024
+^a	a	as, ačas	Archi	87	U+005e U+0061
+l$	l	cal, q’akul	Archi	83	U+006c U+0024
+a$	a	dada, hawa	Archi	83	U+0061 U+0024
+d	d	dada, nusdur	Archi	80	U+0064
+n$	n	gon, nen	Archi	78	U+006e U+0024
+^k	k	kɬos, kummul	Archi	77	U+005e U+006b
+^b	b	bos, baba	Archi	73	U+005e U+0062
+^d	d	dada, dunil	Archi	71	U+005e U+0064
+^q	q	q’akul, qarmaq	Archi	64	U+005e U+0071
+q	q	aqatːut, k'uc'illit q'ˤijq'is	Archi	64	U+0071
+χ	χ	eχmus, genuklin χaχatːub	Archi	62	U+03c7
+^m	m	muč, mekɬe	Archi	62	U+005e U+006d
+ɬ	ɬ	kɬos, okɬmus	Archi	61	U+026c
+s	s	χustaras, asmus deqˤes	Archi	57	U+0073
+š	š	gʷeniši, bošor	Archi	56	U+0161
+r$	r	nusdur, bošor	Archi	50	U+0072 U+0024
+č	č	ačas, čučəbos	Archi	50	U+010d
+^t	t	tow, tor	Archi	48	U+005e U+0074
+^h	h	hawa, harak	Archi	43	U+005e U+0068
+ə	ə	parəla, kaʁəra	Archi	41	U+0259
+^n	n	nen, noqː'ˤon	Archi	40	U+005e U+006e
+^i	i	iq, iqdut	Archi	38	U+005e U+0069
+^l	l	lahan lo, lo	Archi	35	U+005e U+006c
+^o	o	ocis, ocʼ	Archi	35	U+005e U+006f
+^č	č	čarχ, čaras	Archi	34	U+005e U+010d
+^χ	χ	χustaras, χol	Archi	34	U+005e U+03c7
+c	c	ecas, ocis	Archi	32	U+0063
+aˤ	aˤ	daˤzi, paˤtəla	Archi	32	U+0061 U+02e4
+^j	j	jatːik, jakɬʼad	Archi	31	U+005e U+006a
+o$	o	lahan lo, lo	Archi	30	U+006f U+0024
+j	j	ʕejb, šumijtʼu	Archi	30	U+006a
+^s	s	sas, sini	Archi	29	U+005e U+0073
+nn	nn	ɬːonnol, ɬːenne	Archi	28	U+006e U+006e
+^p	p	parəla, peč	Archi	28	U+005e U+0070
+^g	g	gon, gimi	Archi	27	U+005e U+0067
+z	z	daˤzi, buzma	Archi	27	U+007a
+mm	mm	kummul, kɬummus	Archi	26	U+006d U+006d
+kː	kː	kʷekːis, okːas	Archi	26	U+006b U+02d0
+k$	k	šːak, kɬʼarak	Archi	25	U+006b U+0024
+'ˤ	<?>	q'ˤas, noqː'ˤon	Archi	25	U+0027 U+02e4
+^ɬː	ɬː	ɬːan as, ɬːonnol	Archi	24	U+005e U+026c U+02d0
+g	g	ganga bičʼi, χːˤelmin dogi	Archi	23	U+0067
+tʼ	tʼ	šumijtʼu, kɬʼinčʼatʼi	Archi	23	U+0074 U+02bc
+^e	e	eχmus, ecas	Archi	23	U+005e U+0065
+h	h	lahan lo, albahdu	Archi	23	U+0068
+q$	q	raq, iq	Archi	23	U+0071 U+0024
+^sː	sː	sːon, sːaʕat	Archi	22	U+005e U+0073 U+02d0
+ɬʼ	ɬʼ	wakɬʼad, kɬʼarak	Archi	21	U+026c U+02bc
+^c	c	cal, cas	Archi	21	U+005e U+0063
+χˤ	χˤ	χˤurχˤu, aχˤas as	Archi	19	U+03c7 U+02e4
+čʼ	čʼ	kɬʼinčʼatʼi, haˤnčʼbos	Archi	19	U+010d U+02bc
+m$	m	sːam, dam	Archi	18	U+006d U+0024
+b$	b	sːob, ʕejb	Archi	17	U+0062 U+0024
+ll	ll	hallu, žihillu	Archi	17	U+006c U+006c
+'i	'i	k'uc'illit q'ˤijq'is, kɬ'inč'at'i kɬos	Archi	17	U+0027 U+0069
+ž	ž	inžir, ʕeleːžu	Archi	17	U+017e
+^u	u	uš-mu-n lo, uwt’u bos	Archi	17	U+005e U+0075
+^χː	χː	χːas, χːank'bos	Archi	17	U+005e U+03c7 U+02d0
+qˤ	qˤ	aqˤas, χːˤološqˤan	Archi	17	U+0071 U+02e4
+w	w	hawa, buwa	Archi	16	U+0077
+'a	'a	č'aq'ʷ, q'arq'i nocʼ	Archi	16	U+0027 U+0061
+^ʕ	ʕ	ʕejb, ʕejb it’utːu	Archi	15	U+005e U+0295
+j$	j	kulaj, χˤabχˤilin oj	Archi	15	U+006a U+0024
+ɬː	ɬː	oɬːutːut, dubɬːas	Archi	15	U+026c U+02d0
+'u	'u	ɬːerumk'ul, q'ʷˤét'u abutːib	Archi	14	U+0027 U+0075
+^oˤ	oˤ	oˤnt, oˤroˤs qʷˤib	Archi	14	U+005e U+006f U+02e4
+p	p	aˤpaˤsi, kope	Archi	13	U+0070
+^χˤ	χˤ	χˤurχˤu, χˤetːut	Archi	13	U+005e U+03c7 U+02e4
+^čʼ	čʼ	čʼan, čʼat	Archi	13	U+005e U+010d U+02bc
+χ$	χ	čarχ, noχ	Archi	13	U+03c7 U+0024
+ʁ	ʁ	kaʁəra, q’iʁbos	Archi	13	U+0281
+e$	e	ɬːenne, mekɬe	Archi	12	U+0065 U+0024
+^š	š	šumijtʼu, šoˤrtal as	Archi	12	U+005e U+0161
+č$	č	muč, peč	Archi	12	U+010d U+0024
+^kʷ	kʷ	kʷekːis, kʷ’atːu	Archi	12	U+005e U+006b U+02b7
+^qʼ	qʼ	qʼarzlis kɬos, qʼuretːut	Archi	12	U+005e U+0071 U+02bc
+^z	z	zulu, zukɬʼəra	Archi	12	U+005e U+007a
+oˤ	oˤ	noˤš, boˤkɬʼ	Archi	11	U+006f U+02e4
+^qˤ	qˤ	qˤes, qˤokdut	Archi	11	U+005e U+0071 U+02e4
+ɬʼ$	ɬʼ	nokɬʼ, boˤkɬʼ	Archi	11	U+026c U+02bc U+0024
+rs	rs	arsi, barsil gat’	Archi	10	U+0072 U+0073
+^r	r	raq, raˤhu	Archi	10	U+005e U+0072
+^w	w	wakɬʼad, wikɬ	Archi	10	U+005e U+0077
+^ž	ž	žara, žawab kɬordu	Archi	10	U+005e U+017e
+-	<?>	uš-mu-n lo, naˤkɬʼ-du-t	Archi	10	U+002d
+aː	aː	jaːχˤas, tamaːša itːut	Archi	9	U+0061 U+02d0
+š$	š	noˤš, iš	Archi	9	U+0161 U+0024
+'ʷ	'ʷ	ik'ʷ ostitːut, k'ʷet' χʷarši	Archi	9	U+0027 U+02b7
+’$	<?>	nac’, dič’	Archi	9	U+2019 U+0024
+^ħ	ħ	ħukumat, ħeleku	Archi	9	U+005e U+0127
+χː	χː	marχːəla, eˤčʼ sotʼu eχːas	Archi	9	U+03c7 U+02d0
+^cʼ	cʼ	cʼunas, cʼor	Archi	9	U+005e U+0063 U+02bc
+'i$	'i	hoti gʷarqː'i, k'uc'i	Archi	9	U+0027 U+0069 U+0024
+w$	w	tow, jonsaw	Archi	8	U+0077 U+0024
+'$	<?>	χʷimc', χːurk'	Archi	8	U+0027 U+0024
+'e	'e	k'ent'bos, margəč'em	Archi	8	U+0027 U+0065
+^ɬ	ɬ	ɬebila, ɬamc'a	Archi	8	U+005e U+026c
+^kʼ	kʼ	kʼočʼo, kʼalaj	Archi	8	U+005e U+006b U+02bc
+qː	qː	noqː'ˤon, hoti gʷarqː'i	Archi	8	U+0071 U+02d0
+^gʷ	gʷ	gʷeniši, gʷači	Archi	8	U+005e U+0067 U+02b7
+'ʷˤ	<?>	erq'ʷˤmus, q'ʷˤét'u abutːib	Archi	8	U+0027 U+02b7 U+02e4
+qʼ$	qʼ	diqʼ, huqʼ	Archi	8	U+0071 U+02bc U+0024
+^šː	šː	šːak, šːubus	Archi	8	U+005e U+0161 U+02d0
+^ɬːʷ	ɬːʷ	ɬːʷak, ɬːʷiri	Archi	7	U+005e U+026c U+02d0 U+02b7
+uˤ	uˤ	šːuˤmmuˤs, č‘uˤhdu	Archi	7	U+0075 U+02e4
+^tʼ	tʼ	tʼeˤ, tʼeˤčʼu	Archi	7	U+005e U+0074 U+02bc
+ʕ	ʕ	sːaʕat, maʕni	Archi	7	U+0295
+'o	'o	kɬ'ont'ol, moč'or	Archi	7	U+0027 U+006f
+cʼ$	cʼ	ocʼ, darcʼ	Archi	7	U+0063 U+02bc U+0024
+ħ	ħ	talaħ bitʼu, c’aħannin ustar	Archi	7	U+0127
+'_	'_	k'ʷet' χʷarši, χilikɬ' mač'	Archi	6	U+0027 U+005f
+χːˤ	χːˤ	beχːˤe kes, boχːˤo qˤes	Archi	6	U+03c7 U+02d0 U+02e4
+ɬ$	ɬ	wikɬ, oɬ	Archi	6	U+026c U+0024
+d$	d	wakɬʼad, jakɬʼad	Archi	6	U+0064 U+0024
+kʼ	kʼ	marzu-kʼolor, ikʼmitːut	Archi	6	U+006b U+02bc
+cʼ	cʼ	χacʼi, aːcʼutːut	Archi	5	U+0063 U+02bc
+t:	t:	ʁilit:ut, asmus orqat:ur	Archi	5	U+0074 U+003a
+eˤ	eˤ	čʼeˤn, peˤh	Archi	5	U+0065 U+02e4
+^χːˤ	χːˤ	χːˤel, χːˤološgértːi	Archi	5	U+005e U+03c7 U+02d0 U+02e4
+'b	'b	χːank'bos, k'ent'bos	Archi	5	U+0027 U+0062
+’ʷ	<?>	jaš ark’ʷmus, ik’ʷ ostitːut	Archi	5	U+2019 U+02b7
+p$	p	ištarap, žip	Archi	5	U+0070 U+0024
+tʼ$	tʼ	gatʼ, qʼˤutʼ	Archi	5	U+0074 U+02bc U+0024
+sː	sː	osːos, nesːen	Archi	5	U+0073 U+02d0
+'ʷ$	'ʷ	naq'ʷ, šːik'ʷ	Archi	4	U+0027 U+02b7 U+0024
+'ə	'ə	baq'ərənnu, beˤk'ərtːen gon	Archi	4	U+0027 U+0259
+^aˤ	aˤ	aˤnšaˤ bos, aˤrbatːut iq	Archi	4	U+005e U+0061 U+02e4
+c$	c	bac, hinc	Archi	4	U+0063 U+0024
+iˤ	iˤ	niˤšiˤt oq’is, diˤčatːut	Archi	4	U+0069 U+02e4
+’ˤ	<?>	jaq’ˤan as, oq’ˤmul	Archi	4	U+2019 U+02e4
+^eˤ	eˤ	eˤle, eˤhas	Archi	4	U+005e U+0065 U+02e4
+qˤ$	qˤ	daqˤ, ɬːánnaqˤ	Archi	4	U+0071 U+02e4 U+0024
+'uˤ	'uˤ	kɬ'uˤraˤmči, č'uˤbaˤ as	Archi	4	U+0027 U+0075 U+02e4
+kʼ$	kʼ	muštʼukʼ, kʼokʼ	Archi	4	U+006b U+02bc U+0024
+^aː	aː	aːtas, aːcʼutːut	Archi	4	U+005e U+0061 U+02d0
+čʼ$	čʼ	učʼ, lilmučʼ	Archi	4	U+010d U+02bc U+0024
+^qʷ	qʷ	qʷat'linnu, qʷan	Archi	4	U+005e U+0071 U+02b7
+ħ$	ħ	talaħ, tempiħ	Archi	4	U+0127 U+0024
+^ʁ	ʁ	ʁalbac', ʁatːəra	Archi	4	U+005e U+0281
+^χːʷ	χːʷ	χːʷak, χːʷalli	Archi	3	U+005e U+03c7 U+02d0 U+02b7
+gʷ	gʷ	kɬ'ir gʷarči, hoti gʷarqː'i	Archi	3	U+0067 U+02b7
+cː	cː	acː'ilinnu, darcː'an	Archi	3	U+0063 U+02d0
+^χʷ	χʷ	χʷimc', χʷetːi	Archi	3	U+005e U+03c7 U+02b7
+á	á	ɬːánnaqˤ, q'ˤábʁˤdut	Archi	3	U+00e1
+h$	h	peˤh, allah	Archi	3	U+0068 U+0024
+šː	šː	rišːitːu, uˤnšːəla	Archi	3	U+0161 U+02d0
+^uˤ	uˤ	uˤrdek, uˤnšːəla	Archi	3	U+005e U+0075 U+02e4
+qʼ	qʼ	paqʼut, kʷačʼetːut baqʼarankul	Archi	3	U+0071 U+02bc
+cːʼ	cːʼ	acːʼi, bucːʼičʼabu	Archi	3	U+0063 U+02d0 U+02bc
+'m	'm	ik'mis ekas, q'uc'mul	Archi	3	U+0027 U+006d
+g$	g	rang, tung	Archi	3	U+0067 U+0024
+í	í	iq'ˤíl as, kɬ'illíkɬ' berɬːi	Archi	3	U+00ed
+rh	rh	arhas	Archi	3	U+0072 U+0068
+χˤ$	χˤ	eχˤ, libχˤ	Archi	3	U+03c7 U+02e4 U+0024
+ʔ	ʔ	aʔbos, paʔbos	Archi	3	U+0294
+ʁˤ	ʁˤ	q'ˤábʁˤdut, burʁˤurbos	Archi	3	U+0281 U+02e4
+χʷ	χʷ	k'ʷet' χʷaršilin χal, k'ʷet' χʷarši	Archi	2	U+03c7 U+02b7
+ž$	ž	χarž, birinž	Archi	2	U+017e U+0024
+z$	z	qaz, kʼaz	Archi	2	U+007a U+0024
+^i$	i	i	Archi	2	U+005e U+0069 U+0024
+^iː	iː	iːzut, iːzut di	Archi	2	U+005e U+0069 U+02d0
+qʼˤ	qʼˤ	deqʼˤlin iq, aqʼˤul	Archi	2	U+0071 U+02bc U+02e4
+x	x	haraxut eɬmul, oxas	Archi	2	U+0078
+'aːˤ	'aːˤ	č'aːˤri, č'aːˤratːut	Archi	2	U+0027 U+0061 U+02d0 U+02e4
+^qʼʷ	qʼʷ	qʼʷil	Archi	2	U+005e U+0071 U+02bc U+02b7
+é	é	q'ʷˤét'u abutːib, χːˤološgértːi	Archi	2	U+00e9
+ʁ$	ʁ	jaraʁ, baʁ	Archi	2	U+0281 U+0024
+'l	'l	oˤč'lekːi, qʷat'linnu	Archi	2	U+0027 U+006c
+qʼʷ$	qʼʷ	naqʼʷ, biqʼʷ	Archi	2	U+0071 U+02bc U+02b7 U+0024
+eː	eː	ʕeleːžu, beːχutːut	Archi	2	U+0065 U+02d0
+qʼˤ$	qʼˤ	deqʼˤ, liqʼˤ	Archi	2	U+0071 U+02bc U+02e4 U+0024
+kʷ$	kʷ	makʷ, bakʷ	Archi	2	U+006b U+02b7 U+0024
+^qʼˤ	qʼˤ	qʼˤutʼ, qʼˤahba	Archi	2	U+005e U+0071 U+02bc U+02e4
+ɬʷ$	ɬʷ	diɬʷ, bikɬʷ	Archi	2	U+026c U+02b7 U+0024
+uː	uː	kuːt’atːut, huːliši	Archi	2	U+0075 U+02d0
+^šːʷ	šːʷ	šːʷit’bos, šːʷaˤltʼ	Archi	2	U+005e U+0161 U+02d0 U+02b7
+ɮ	ɮ	naˤɮdut, kɬ'eɮdut	Archi	2	U+026e
+oːˤ	oːˤ	doːˤzu ušdu, doːˤzur došdur	Archi	2	U+006f U+02d0 U+02e4
+^šˤ	šˤ	šˤal, šˤes	Archi	2	U+005e U+0161 U+02e4
+v	v	piva, četverg	Archi	2	U+0076
+'a$	'a	q'ˤart'a, ɬamc'a	Archi	2	U+0027 U+0061 U+0024
+noqː'ˤon (2)	<???>	noqː'ˤon (2)	Archi	1	U+006e U+006f U+0071 U+02d0 U+0027 U+02e4 U+006f U+006e U+0020 U+0028 U+0032 U+0029
+^x	x	xilikɬʼ sas	Archi	1	U+005e U+0078
+oː	oː	basahoːnu	Archi	1	U+006f U+02d0
+acas(1)	<???>	acas(1)	Archi	1	U+0061 U+0063 U+0061 U+0073 U+0028 U+0031 U+0029
+<	<?>	χːiriχ e<b>tːit:ub	Archi	1	U+003c
+^qʷˤ	qʷˤ	qʷˤen	Archi	1	U+005e U+0071 U+02b7 U+02e4
+^sw	sw	sweča	Archi	1	U+005e U+0073 U+0077
+rsː	rsː	barsːon	Archi	1	U+0072 U+0073 U+02d0
+^žʷ	žʷ	žʷen	Archi	1	U+005e U+017e U+02b7
+^ʁˤ	ʁˤ	ʁˤažbos	Archi	1	U+005e U+0281 U+02e4
+nac’ (2)	<???>	nac’ (2)	Archi	1	U+006e U+0061 U+0063 U+2019 U+0020 U+0028 U+0032 U+0029
+qːʼ	qːʼ	muqːʼa	Archi	1	U+0071 U+02d0 U+02bc
+ls	ls	ɬalsbos	Archi	1	U+006c U+0073
+^iˤ	iˤ	iˤntim maj	Archi	1	U+005e U+0069 U+02e4
+wh	wh	žawhar	Archi	1	U+0077 U+0068
+šːubus (2)	<???>	šːubus (2)	Archi	1	U+0161 U+02d0 U+0075 U+0062 U+0075 U+0073 U+0020 U+0028 U+0032 U+0029
+akɬis (2)	<???>	akɬis (2)	Archi	1	U+0061 U+006b U+026c U+0069 U+0073 U+0020 U+0028 U+0032 U+0029
+mekɬe (2)	<???>	mekɬe (2)	Archi	1	U+006d U+0065 U+006b U+026c U+0065 U+0020 U+0028 U+0032 U+0029
+'e$	'e	mecː'e	Archi	1	U+0027 U+0065 U+0024
+kʷ	kʷ	χˤabχˤilin kʷar	Archi	1	U+006b U+02b7
+pil (2)	<???>	pil (2)	Archi	1	U+0070 U+0069 U+006c U+0020 U+0028 U+0032 U+0029
+akɬis (1)	<???>	akɬis (1)	Archi	1	U+0061 U+006b U+026c U+0069 U+0073 U+0020 U+0028 U+0031 U+0029
+qʷˤ	qʷˤ	oˤroˤs qʷˤib	Archi	1	U+0071 U+02b7 U+02e4
+ss$	ss	qʼarzlis šːubuss	Archi	1	U+0073 U+0073 U+0024
+’ʷˤ	<?>	moc’or q’ʷˤe	Archi	1	U+2019 U+02b7 U+02e4
+šekertːu(r)	<???>	šekertːu(r)	Archi	1	U+0161 U+0065 U+006b U+0065 U+0072 U+0074 U+02d0 U+0075 U+0028 U+0072 U+0029
+χːˤel (2)	<???>	χːˤel (2)	Archi	1	U+03c7 U+02d0 U+02e4 U+0065 U+006c U+0020 U+0028 U+0032 U+0029
+pp	pp	qippus	Archi	1	U+0070 U+0070
+‘	<?>	č‘uˤhdu	Archi	1	U+2018
+acas (2)	<???>	acas (2)	Archi	1	U+0061 U+0063 U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
+^šʷ	šʷ	šʷitʼəla	Archi	1	U+005e U+0161 U+02b7
+'aˤ	'aˤ	č'aˤmmus	Archi	1	U+0027 U+0061 U+02e4
+uː$	uː	q'ˤásetːituː	Archi	1	U+0075 U+02d0 U+0024
+ns$	ns	ans	Archi	1	U+006e U+0073 U+0024
+’ʷ$	<?>	naq’ʷ	Archi	1	U+2019 U+02b7 U+0024
+tw	tw	atworka	Archi	1	U+0074 U+0077
+ms$	ms	χːams	Archi	1	U+006d U+0073 U+0024
+^oː	oː	oːk'ur	Archi	1	U+005e U+006f U+02d0
+>	<?>	χːiriχ e<b>tːit:ub	Archi	1	U+003e
+'tː	'tː	kɬ'okɬ'tːut	Archi	1	U+0027 U+0074 U+02d0
+ns	ns	jonsaw	Archi	1	U+006e U+0073
+^aːˤ	aːˤ	aːˤšas	Archi	1	U+005e U+0061 U+02d0 U+02e4
+'n	'n	zoˤk'noˤ	Archi	1	U+0027 U+006e
+aːˤ	aːˤ	čʼaːˤri	Archi	1	U+0061 U+02d0 U+02e4
+'ˤ$	<?>	diq'ˤ	Archi	1	U+0027 U+02e4 U+0024
+oˤ$	oˤ	zoˤk'noˤ	Archi	1	U+006f U+02e4 U+0024
+kʼʷ$	kʼʷ	ikʼʷ	Archi	1	U+006b U+02bc U+02b7 U+0024
+^ʁʷˤ	ʁʷˤ	ʁʷˤalqˤi	Archi	1	U+005e U+0281 U+02b7 U+02e4
+sana (2)	<???>	sana (2)	Archi	1	U+0073 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
+ʁʷˤ	ʁʷˤ	iʁʷˤdut	Archi	1	U+0281 U+02b7 U+02e4
+tenne (2)	<???>	tenne (2)	Archi	1	U+0074 U+0065 U+006e U+006e U+0065 U+0020 U+0028 U+0032 U+0029
+pil (1)	<???>	pil (1)	Archi	1	U+0070 U+0069 U+006c U+0020 U+0028 U+0031 U+0029
+'ʷˤ$	<?>	marq'ʷˤ	Archi	1	U+0027 U+02b7 U+02e4 U+0024
+eˤ$	eˤ	tʼeˤ	Archi	1	U+0065 U+02e4 U+0024
+’ˤ$	<?>	deq’ˤ	Archi	1	U+2019 U+02e4 U+0024

@@ -1,0 +1,1616 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	32-1-1-1	722142907651632	Yaqui	yaqu1251	the world	WORLD	965		ania (1)	ania (1) 
+2	32-1-21-1	722142811917597	Yaqui	yaqu1251	the land	LAND	626		bwia	bwia 
+3	32-1-212-1	722142811917597	Yaqui	yaqu1251	the soil	EARTH (SOIL)	1228		bwia	bwia 
+4	32-1-213-1	722142729938530	Yaqui	yaqu1251	the dust	DUST	2		toochia	toochia 
+5	32-1-214-1	72214256683231	Yaqui	yaqu1251	the mud	MUD	640		techoa	techoa 
+6	32-1-215-1	722142267781974	Yaqui	yaqu1251	the sand	SAND	671		see’e	see’e 
+7	32-1-22-1	722142816500891	Yaqui	yaqu1251	the mountain or hill	MOUNTAIN OR HILL	2118		kawi	kawi 
+8	32-1-222-1	722142140612219	Yaqui	yaqu1251	the cliff or precipice	PRECIPICE	618		siiba	siiba 
+9	32-1-23-1	722142987308351	Yaqui	yaqu1251	the plain	PLAIN	652		pa’aria	pa’aria 
+10	32-1-24-1	722142844696202	Yaqui	yaqu1251	the valley	VALLEY	921		pa’ala bwia	pa’ala bwia 
+11	32-1-25-1	722142973112212	Yaqui	yaqu1251	the island	ISLAND	622		chopo’oria	chopo’oria 
+12	32-1-26-1	722142861120300	Yaqui	yaqu1251	the mainland	MAINLAND	166		kontinente	kontinente 
+13	32-1-27-1	722142937519637	Yaqui	yaqu1251	the shore	SHORE	113		bawe mayoa	bawe mayoa 
+14	32-1-28-1	722142765367540	Yaqui	yaqu1251	the cave	CAVE	1155		teeso	teeso 
+15	32-1-31-1	722142965453420	Yaqui	yaqu1251	the water	WATER	948		ba’am	ba’am 
+16	32-1-32-1	722142248235934	Yaqui	yaqu1251	the sea	SEA	1474		baawe	baawe 
+17	32-1-322-1	722142876717286	Yaqui	yaqu1251	calm	CALM	258		kopalai	kopalai 
+18	32-1-323-1	722142353036896	Yaqui	yaqu1251	rough(2)	ROUGH (OF SEA)	259		ba’amojakte	ba’amojakte 
+19	32-1-324-1	722142545488411	Yaqui	yaqu1251	the foam	FOAM	1768		somo’ichia	somo’ichia 
+20	32-1-329-1	722142549538250	Yaqui	yaqu1251	the ocean	OCEAN	645		bwe’u baawe	bwe’u baawe 
+21	32-1-33-1	722142729649670	Yaqui	yaqu1251	the lake	LAKE	624		bauba’a	bauba’a 
+22	32-1-34-1	722142923974272	Yaqui	yaqu1251	the bay	BAY	663		wolpo	wolpo 
+23	32-1-341-1	722142729649670	Yaqui	yaqu1251	the lagoon	LAGOON	623		bauba’a	bauba’a 
+24	32-1-342-1	722142366917726	Yaqui	yaqu1251	the reef	REEF	660		tetmajau	tetmajau 
+25	32-1-343-1	722142717691518	Yaqui	yaqu1251	the cape	CAPE	1662		punta	punta 
+26	32-1-35-1	722142483215756	Yaqui	yaqu1251	the wave	WAVE	978		bawero’aktim	bawero’aktim 
+27	32-1-352-1	722142483215756	Yaqui	yaqu1251	the tide	TIDE	891		bawero’aktim	bawero’aktim 
+28	32-1-353-1	722142820775942	Yaqui	yaqu1251	the low tide	LOW TIDE	1026		sumia	sumia 
+29	32-1-354-1	722142234059	Yaqui	yaqu1251	the high tide	HIGH TIDE	613		bawe jikat bo’oka	bawe jikat bo’oka 
+30	32-1-36-1	722142592688714	Yaqui	yaqu1251	the river or stream	RIVER	666		batwe	batwe 
+31	32-1-36-2	72214272343063	Yaqui	yaqu1251	the river or stream	RIVER	666		jakia	jakia 
+32	32-1-362-1	722142205856227	Yaqui	yaqu1251	the whirlpool	WHIRLPOOL	1982		ba’a emo kuria	ba’a emo kuria 
+33	32-1-362-2	72214253794840	Yaqui	yaqu1251	the whirlpool	WHIRLPOOL	1982		baikuria	baikuria 
+34	32-1-37-1	722142595554764	Yaqui	yaqu1251	the spring or well	SPRING OR WELL	2144		sene’eka	sene’eka 
+35	32-1-37-2	7221428099251	Yaqui	yaqu1251	the spring or well	SPRING OR WELL	2144		pooso	pooso 
+36	32-1-38-1	722142497770271	Yaqui	yaqu1251	the swamp	SWAMP	1145		ba’ajeelo	ba’ajeelo 
+37	32-1-39-1	722142268465187	Yaqui	yaqu1251	the waterfall	WATERFALL	943		ba’akomwechia	ba’akomwechia 
+38	32-1-41-1	722142681832223	Yaqui	yaqu1251	the woods or forest	FOREST	420		juya	juya 
+39	32-1-43-1	722142879333377	Yaqui	yaqu1251	the wood	WOOD	1803		kuta	kuta 
+40	32-1-44-1	722142179299485	Yaqui	yaqu1251	the stone or rock	STONE OR ROCK	2125		teta	teta 
+41	32-1-45-1	722142571067101	Yaqui	yaqu1251	the earthquake	EARTHQUAKE	6		bwia emo yoa	bwia emo yoa 
+42	32-1-51-1	722142929786894	Yaqui	yaqu1251	the sky	SKY	1732		teeka	teeka 
+43	32-1-52-1	722142139668060	Yaqui	yaqu1251	the sun	SUN	1343		taa’a	taa’a 
+44	32-1-53-1	722142763652435	Yaqui	yaqu1251	the moon	MOON	1313		meecha	meecha 
+45	32-1-54-1	722142637644978	Yaqui	yaqu1251	the star	STAR	1430		choki	choki 
+46	32-1-55-1	722142373547526	Yaqui	yaqu1251	the lightning	LIGHTNING	1654		yuku be’oktia	yuku be’oktia 
+47	32-1-56-1	722142223222138	Yaqui	yaqu1251	the thunder	THUNDER	1150		yuku jimaari	yuku jimaari 
+48	32-1-57-1	722142223222138	Yaqui	yaqu1251	the bolt of lightning	BOLT (OF LIGHTNING)	2007		yuku jimaari	yuku jimaari 
+49	32-1-58-1	722142127909868	Yaqui	yaqu1251	the storm	STORM	858		yuku jeka	yuku jeka 
+50	32-1-59-1	722142109378201	Yaqui	yaqu1251	the rainbow	RAINBOW	1733		kurues	kurues 
+51	32-1-61-1	722142264366163	Yaqui	yaqu1251	the light	LIGHT (RADIATION)	630		tachiria	tachiria 
+52	32-1-62-1	722142603996357	Yaqui	yaqu1251	the darkness	DARKNESS	11		kutwaate	kutwaate 
+53	32-1-63-1	7221424878986	Yaqui	yaqu1251	the shade or shadow	SHADE	1388		jekka	jekka 
+54	32-1-64-1	722142383464587	Yaqui	yaqu1251	the dew	DEW	1977		siijo’ote	siijo’ote 
+55	32-1-71-1	722142375349724	Yaqui	yaqu1251	the air	AIR	27		jeeka	jeeka 
+56	32-1-72-1	722142375349724	Yaqui	yaqu1251	the wind	WIND	960		jeeka	jeeka 
+57	32-1-73-1	722142787368092	Yaqui	yaqu1251	the cloud	CLOUD	1489		naamu	naamu 
+58	32-1-74-1	72214255659456	Yaqui	yaqu1251	the fog	FOG	249		bajewa	bajewa 
+59	32-1-75-1	722142815436052	Yaqui	yaqu1251	the rain	RAIN (PRECIPITATION)	658		yuku	yuku 
+60	32-1-76-1	722142895784035	Yaqui	yaqu1251	the snow	SNOW	784		sapam	sapam 
+61	32-1-77-1	722142895784035	Yaqui	yaqu1251	the ice	ICE	617		sapam	sapam 
+62	32-1-78-1	722142450224086	Yaqui	yaqu1251	the weather	WEATHER	952		tiempo	tiempo 
+63	32-1-81-1	722142275186737	Yaqui	yaqu1251	the fire	FIRE	221		taji	taji 
+64	32-1-82-1	72214242486239	Yaqui	yaqu1251	the flame	FLAME	889		buaktia	buaktia 
+65	32-1-83-1	722142197996603	Yaqui	yaqu1251	the smoke	SMOKE (EXHAUST)	778		bwichia	bwichia 
+66	32-1-84-1	722142653953028	Yaqui	yaqu1251	the ash	ASH	646		naposa	naposa 
+67	32-1-841-1	722142643859878	Yaqui	yaqu1251	the embers	EMBERS	67		oubam	oubam 
+68	32-1-851-1	722142326419523	Yaqui	yaqu1251	to burn(1)	BURN (SOMETHING)	141		taya	taya 
+69	32-1-852-1	722142651338027	Yaqui	yaqu1251	to burn(2)	BURNING	1428		beete	beete 
+70	32-1-86-1	722142326419523	Yaqui	yaqu1251	to light	LIGHT (IGNITE)	737		taya	taya 
+71	32-1-861-1	722142308490143	Yaqui	yaqu1251	to extinguish	EXTINGUISH	127		tuucha	tuucha 
+72	32-1-87-1	722142491125335	Yaqui	yaqu1251	the match	MATCH	1133		seriom	seriom 
+73	32-1-87-2	722142304351028	Yaqui	yaqu1251	the match	MATCH	1133		pojporo	pojporo 
+74	32-1-88-1	722142660125476	Yaqui	yaqu1251	the firewood	FIREWOOD	10		kutam	kutam 
+75	32-1-89-1	722142145552010	Yaqui	yaqu1251	the charcoal	CHARCOAL	1188		maatum	maatum 
+76	32-2-1-1	722142326846741	Yaqui	yaqu1251	the person	PERSON	683		bato’i	bato’i 
+77	32-2-21-1	722142477464075	Yaqui	yaqu1251	the man	MAN	1554		o’ou	o’ou 
+78	32-2-22-1	722142220182564	Yaqui	yaqu1251	the woman	WOMAN	962		jamut	jamut 
+79	32-2-23-1	722142477464075	Yaqui	yaqu1251	male(1)	MALE (OF ANIMAL)	2263		o’ou	o’ou 
+80	32-2-24-1	722142220182564	Yaqui	yaqu1251	female(1)	FEMALE (OF PERSON)	2260		jamut	jamut 
+81	32-2-25-1	72214286772620	Yaqui	yaqu1251	the boy	BOY	1366		usi ju’ubwa yo’otume	usi ju’ubwa yo’otume 
+82	32-2-251-1	72214286772620	Yaqui	yaqu1251	the young man	YOUNG MAN	76		usi ju’ubwa yo’otume	usi ju’ubwa yo’otume 
+83	32-2-26-1	722142930845509	Yaqui	yaqu1251	the girl	GIRL	1646		ili jamut	ili jamut 
+84	32-2-261-1	722142426604764	Yaqui	yaqu1251	the young woman	YOUNG WOMAN	77		uusi beeme	uusi beeme 
+85	32-2-27-1	722142867335495	Yaqui	yaqu1251	the child(1)	CHILD (YOUNG HUMAN)	1304		uusi	uusi 
+86	32-2-28-1	722142895981318	Yaqui	yaqu1251	the baby	BABY	1289		ili uusi	ili uusi 
+87	32-2-31-1	72214239699444	Yaqui	yaqu1251	the husband	HUSBAND	1200		kuuna	kuuna 
+88	32-2-32-1	722142570203706	Yaqui	yaqu1251	the wife	WIFE	1199		jubi	jubi 
+89	32-2-33-1	722142851665726	Yaqui	yaqu1251	to marry	MARRY	203		juube	juube 
+90	32-2-33-2	72214239699444	Yaqui	yaqu1251	to marry	MARRY	203		kuuna	kuuna 
+91	32-2-34-1	722142227670061	Yaqui	yaqu1251	the wedding	WEDDING	1259		jujupwame	jujupwame 
+92	32-2-341-1	722142619673640	Yaqui	yaqu1251	the divorce	DIVORCE	1134		su’utojiwame	su’utojiwame 
+93	32-2-35-1	722142102867107	Yaqui	yaqu1251	the father	FATHER	1217		achai	achai 
+94	32-2-36-1	722142682838717	Yaqui	yaqu1251	the mother	MOTHER	1216		ae	ae 
+95	32-2-36-2	722142306845299	Yaqui	yaqu1251	the mother	MOTHER	1216		maala	maala 
+96	32-2-37-1	722142137229697	Yaqui	yaqu1251	the parents	PARENTS	505		yo’owam	yo’owam 
+97	32-2-38-1	722142859748538	Yaqui	yaqu1251	the married man	MARRIED MAN	424		jupla	jupla 
+98	32-2-39-1	722142315847219	Yaqui	yaqu1251	the married woman	MARRIED WOMAN	426		kunala	kunala 
+99	32-2-41-1	722142867335495	Yaqui	yaqu1251	the son	SON	1620		uusi	uusi 
+100	32-2-41-2	722142244519526	Yaqui	yaqu1251	the son	SON	1620		pale ~ paale	pale ~ paale 
+101	32-2-42-1	72214232977238	Yaqui	yaqu1251	the daughter	DAUGHTER	1357		asoa	asoa 
+102	32-3-662-1	722142994326273	Yaqui	yaqu1251	the porpoise or dolphin	DOLPHIN	1479		relpin	relpin 
+103	32-2-43-1	722142891109219	Yaqui	yaqu1251	the child(2)	CHILD (DESCENDANT)	1801		yoemia	yoemia 
+104	32-2-44-1	722142181564582	Yaqui	yaqu1251	the brother	BROTHER	1262		saila	saila 
+105	32-2-44-2	722142525966350	Yaqui	yaqu1251	the brother	BROTHER	1262		sai	sai 
+106	32-2-444-1	722142525966350	Yaqui	yaqu1251	the older brother	OLDER BROTHER	1759		sai	sai 
+107	32-2-445-1	722142181564582	Yaqui	yaqu1251	the younger brother	YOUNGER BROTHER	1760		saila	saila 
+108	32-2-45-1	722142312191616	Yaqui	yaqu1251	the sister	SISTER	1263		ako	ako 
+109	32-2-454-1	722142312191616	Yaqui	yaqu1251	the older sister	OLDER SISTER	1758		ako	ako 
+110	32-2-455-1	722142488462588	Yaqui	yaqu1251	the younger sister	YOUNGER SISTER	1761		wai	wai 
+111	32-2-458-1	722142551400609	Yaqui	yaqu1251	the twins	TWINS	1005		wo’orim	wo’orim 
+112	32-2-46-1	722142890648293	Yaqui	yaqu1251	the grandfather	GRANDFATHER	1383		apa	apa 
+113	32-2-46-2	722142506487765	Yaqui	yaqu1251	the grandfather	GRANDFATHER	1383		jaboi	jaboi 
+114	32-2-461-1	722142930252593	Yaqui	yaqu1251	the old man	OLD MAN	406		yoemyo’otui	yoemyo’otui 
+115	32-2-47-1	722142365993325	Yaqui	yaqu1251	the grandmother	GRANDMOTHER	1496		asu	asu 
+116	32-2-471-1	722142437312505	Yaqui	yaqu1251	the old woman	OLD WOMAN	907		jamyo’ola	jamyo’ola 
+117	32-2-471-2	722142996392467	Yaqui	yaqu1251	the old woman	OLD WOMAN	907		jamut yo’otui	jamut yo’otui 
+118	32-2-48-1	722142178517246	Yaqui	yaqu1251	the grandson	GRANDSON	1618		apala ~ apara	apala ~ apara 
+119	32-2-48-2	722142658584042	Yaqui	yaqu1251	the grandson	GRANDSON	1618		amu	amu 
+120	32-2-48-3	722142159339735	Yaqui	yaqu1251	the grandson	GRANDSON	1618		jakara	jakara 
+121	32-2-49-1	722142178517246	Yaqui	yaqu1251	the granddaughter	GRANDDAUGHTER	1619		apala ~ apara	apala ~ apara 
+122	32-2-49-2	722142159339735	Yaqui	yaqu1251	the granddaughter	GRANDDAUGHTER	1619		jakara	jakara 
+123	32-2-51-1	722142706192272	Yaqui	yaqu1251	the uncle	UNCLE	1327		samai	samai 
+124	32-2-51-2	722142869012431	Yaqui	yaqu1251	the uncle	UNCLE	1327		taata (1)	taata (1) 
+125	32-2-51-3	722142243916110	Yaqui	yaqu1251	the uncle	UNCLE	1327		kumui	kumui 
+126	32-2-51-4	722142767127679	Yaqui	yaqu1251	the uncle	UNCLE	1327		jaabi	jaabi 
+127	32-2-511-1	722142767127679	Yaqui	yaqu1251	the mother's brother	MOTHER'S BROTHER	1984		jaabi	jaabi 
+128	32-2-512-1	722142964575698	Yaqui	yaqu1251	the father's brother	FATHER'S BROTHER	1985		jabai	jabai 
+129	32-2-52-1	722142353972315	Yaqui	yaqu1251	the aunt	AUNT	1272		chi’ila	chi’ila 
+130	32-2-52-2	72214249122232	Yaqui	yaqu1251	the aunt	AUNT	1272		ja’aka	ja’aka 
+131	32-2-52-3	722142235170173	Yaqui	yaqu1251	the aunt	AUNT	1272		ne’esa	ne’esa 
+132	32-2-521-1	722142353972315	Yaqui	yaqu1251	the mother's sister	MOTHER'S SISTER	171		chi’ila	chi’ila 
+133	32-2-521-2	722142235170173	Yaqui	yaqu1251	the mother's sister	MOTHER'S SISTER	171		ne’esa	ne’esa 
+134	32-2-522-1	722142177623578	Yaqui	yaqu1251	the father's sister	FATHER'S SISTER	170		jaaka	jaaka 
+135	32-2-53-1	722142748169132	Yaqui	yaqu1251	the nephew	NEPHEW	1063		asowaara ~ asowaala	asowaara ~ asowaala 
+136	32-2-53-2	722142159339735	Yaqui	yaqu1251	the nephew	NEPHEW	1063		jakara	jakara 
+137	32-2-53-3	722142483548107	Yaqui	yaqu1251	the nephew	NEPHEW	1063		samali	samali 
+138	32-2-53-4	722142344266598	Yaqui	yaqu1251	the nephew	NEPHEW	1063		jabire	jabire 
+139	32-2-54-1	722142344266598	Yaqui	yaqu1251	the niece	NIECE	1642		jabire	jabire 
+140	32-2-54-2	722142159339735	Yaqui	yaqu1251	the niece	NIECE	1642		jakara	jakara 
+141	32-2-54-3	722142748169132	Yaqui	yaqu1251	the niece	NIECE	1642		asowaara ~ asowaala	asowaara ~ asowaala 
+142	32-2-55-1	722142312191616	Yaqui	yaqu1251	the cousin	COUSIN	1643		ako	ako 
+143	32-2-56-1	722142338024556	Yaqui	yaqu1251	the ancestors	ANCESTORS	1669		yo’owe ~ yoowe	yo’owe ~ yoowe 
+144	32-2-57-1	722142633200754	Yaqui	yaqu1251	the descendants	DESCENDANTS	490		chukula katriam	chukula katriam 
+145	32-2-57-2	72214211020332	Yaqui	yaqu1251	the descendants	DESCENDANTS	490		basiulam	basiulam 
+146	32-2-61-1	722142573882816	Yaqui	yaqu1251	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		ase’ebwa	ase’ebwa 
+147	32-2-611-1	722142969598799	Yaqui	yaqu1251	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		aseka	aseka 
+148	32-2-63-1	722142759409661	Yaqui	yaqu1251	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		mo’one	mo’one 
+149	32-2-631-1	722142759409661	Yaqui	yaqu1251	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		mo’one	mo’one 
+150	32-2-64-1	72214285836788	Yaqui	yaqu1251	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		jaborai	jaborai 
+151	32-2-641-1	72214285836788	Yaqui	yaqu1251	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		jaborai	jaborai 
+152	32-2-71-1	72214247887336	Yaqui	yaqu1251	the stepfather	STEPFATHER	237		waim achai	waim achai 
+153	32-2-72-1	722142716271942	Yaqui	yaqu1251	the stepmother	STEPMOTHER	236		waim maala	waim maala 
+154	32-2-73-1	722142779905144	Yaqui	yaqu1251	the stepson	STEPSON	1059		waim usi	waim usi 
+155	32-2-74-1	722142291826743	Yaqui	yaqu1251	the stepdaughter	STEPDAUGHTER	1058		waim mara	waim mara 
+156	32-2-74-2	722142458251684	Yaqui	yaqu1251	the stepdaughter	STEPDAUGHTER	1058		waim asoa	waim asoa 
+157	32-2-75-1	722142659816885	Yaqui	yaqu1251	the orphan	ORPHAN	1149		leepe	leepe 
+158	32-2-76-1	722142514073107	Yaqui	yaqu1251	the widow	WIDOW	1756		jokoptui	jokoptui 
+159	32-2-77-1	722142514073107	Yaqui	yaqu1251	the widower	WIDOWER	1981		jokoptui	jokoptui 
+160	32-2-81-1	722142153971225	Yaqui	yaqu1251	the relatives	RELATIVES	1644		wawaira	wawaira 
+161	32-2-82-1	722142891109219	Yaqui	yaqu1251	the family	FAMILY	194		yoemia	yoemia 
+162	32-2-91-1	722142649307304	Yaqui	yaqu1251	I	I	1209		inepo	inepo 
+163	32-2-92-1	722142537178117	Yaqui	yaqu1251	you (singular)	THOU	1215		empo	empo 
+164	32-2-93-1	722142211972171	Yaqui	yaqu1251	he/she/it	HE OR SHE OR IT	262		aapo	aapo 
+165	32-2-94-1	72214290640114	Yaqui	yaqu1251	we	WE	1212		itepo	itepo 
+166	32-2-941-1	72214290640114	Yaqui	yaqu1251	we (inclusive)	WE (INCLUSIVE)	1131		itepo	itepo 
+167	32-2-942-1	72214290640114	Yaqui	yaqu1251	we (exclusive)	WE (EXCLUSIVE)	1130		itepo	itepo 
+168	32-2-95-1	722142866545481	Yaqui	yaqu1251	you (plural)	YOU	1213		eme’e	eme’e 
+169	32-2-96-1	722142795841331	Yaqui	yaqu1251	they	THEY	817		bempo	bempo 
+170	32-3-11-1	722142680593006	Yaqui	yaqu1251	the animal	ANIMAL	619		animaal	animaal 
+171	32-3-12-1	722142477464075	Yaqui	yaqu1251	male(2)	MALE (OF PERSON)	2261		o’ou	o’ou 
+172	32-3-13-1	722142220182564	Yaqui	yaqu1251	female(2)	FEMALE (OF ANIMAL)	2262		jamut	jamut 
+173	32-3-15-1	722142929509077	Yaqui	yaqu1251	the livestock	LIVESTOCK	631		wakasim	wakasim 
+174	32-3-16-1	722142100643381	Yaqui	yaqu1251	the pasture	PASTURE	649		poteo	poteo 
+175	32-3-18-1	722142735385351	Yaqui	yaqu1251	the herdsman	HERDSMAN	263		kapyeo	kapyeo 
+176	32-3-19-1	722142954257437	Yaqui	yaqu1251	the stable or stall	STABLE	851		rancho	rancho 
+177	32-3-2-1	722142929509077	Yaqui	yaqu1251	the cattle	CATTLE	1153		wakasim	wakasim 
+178	32-3-21-1	722142991581094	Yaqui	yaqu1251	the bull	BULL	1008		too ~ tooro	too ~ tooro 
+179	32-3-22-1	722142292395430	Yaqui	yaqu1251	the ox	OX	1169		boes	boes 
+180	32-3-23-1	722142192304748	Yaqui	yaqu1251	the cow	COW	1007		waakas	waakas 
+181	32-3-24-1	722142213079220	Yaqui	yaqu1251	the calf	CALF	1989		beseo	beseo 
+182	32-3-25-1	722142577211852	Yaqui	yaqu1251	the sheep	SHEEP	1331		bwara	bwara 
+183	32-3-26-1	72214263165408	Yaqui	yaqu1251	the ram	RAM	1344		obeso	obeso 
+184	32-3-28-1	722142577211852	Yaqui	yaqu1251	the ewe	EWE	1345		bwara	bwara 
+185	32-3-29-1	722142577211852	Yaqui	yaqu1251	the lamb	LAMB	820		bwara	bwara 
+186	32-3-32-1	722142443288136	Yaqui	yaqu1251	the boar	BOAR	1348		juakowi	juakowi 
+187	32-3-34-1	722142393761508	Yaqui	yaqu1251	the sow	SOW (FEMALE PIG)	1351		kowi jamut	kowi jamut 
+188	32-3-35-1	722142109812780	Yaqui	yaqu1251	the pig	PIG	1337		kowi o’ou	kowi o’ou 
+189	32-3-36-1	722142218325771	Yaqui	yaqu1251	the goat	GOAT	1502		kabaa	kabaa 
+190	32-3-36-2	722142432247761	Yaqui	yaqu1251	the goat	GOAT	1502		chiba’ato	chiba’ato 
+191	32-3-37-1	722142218325771	Yaqui	yaqu1251	the he-goat	HE-GOAT	264		kabaa	kabaa 
+192	32-3-38-1	722142469456370	Yaqui	yaqu1251	the kid	KID	1972		ili chiba’ato	ili chiba’ato 
+193	32-3-41-1	722142292385883	Yaqui	yaqu1251	the horse	HORSE	615		kaba’i	kaba’i 
+194	32-3-42-1	722142567160631	Yaqui	yaqu1251	the stallion	STALLION	936		kaayojan	kaayojan 
+195	32-3-44-1	722142614856221	Yaqui	yaqu1251	the mare	MARE	938		yeewa	yeewa 
+196	32-3-44-2	722142500101920	Yaqui	yaqu1251	the mare	MARE	938		kaba’i jamut	kaba’i jamut 
+197	32-3-45-1	722142966182764	Yaqui	yaqu1251	the foal or colt	FOAL	1647		ili kaba’i	ili kaba’i 
+198	32-3-46-1	722142311234561	Yaqui	yaqu1251	the donkey	DONKEY	1862		buuru	buuru 
+199	32-3-47-1	72214217983450	Yaqui	yaqu1251	the mule	MULE	890		muura	muura 
+200	32-3-52-1	722142288725259	Yaqui	yaqu1251	the cock/rooster	ROOSTER	1511		totoi o’owia	totoi o’owia 
+201	32-3-54-1	72214270345933	Yaqui	yaqu1251	the hen	HEN	1514		totoi jamut	totoi jamut 
+202	32-3-55-1	722142802960265	Yaqui	yaqu1251	the chicken	CHICKEN	1318		totoi	totoi 
+203	32-3-56-1	72214234533081	Yaqui	yaqu1251	the goose	GOOSE	1187		kanso	kanso 
+204	32-3-57-1	72214272078325	Yaqui	yaqu1251	the duck	DUCK	1360		ba’a mojakte’ela	ba’a mojakte’ela 
+205	32-3-57-2	722142413127487	Yaqui	yaqu1251	the duck	DUCK	1360		paato	paato 
+206	32-3-58-1	722142113282161	Yaqui	yaqu1251	the nest	NEST	539		toosa	toosa 
+207	32-3-581-1	72214261290253	Yaqui	yaqu1251	the bird	BIRD	937		wiikit	wiikit 
+208	32-3-582-1	722142526168649	Yaqui	yaqu1251	the seagull	SEAGULL	950		baetabeo	baetabeo 
+209	32-3-583-1	722142274833532	Yaqui	yaqu1251	the heron	HERON	758		baawo’i	baawo’i 
+210	32-3-584-1	722142241141857	Yaqui	yaqu1251	the eagle	EAGLE	1905		suluma	suluma 
+211	32-3-585-1	722142843043507	Yaqui	yaqu1251	the hawk	HAWK	307		taawe	taawe 
+212	32-3-586-1	722142664093221	Yaqui	yaqu1251	the vulture	VULTURE	1185		tekoe	tekoe 
+213	32-3-591-1	722142955494131	Yaqui	yaqu1251	the bat	BAT	1793		sochik	sochik 
+214	32-3-592-1	72214219906837	Yaqui	yaqu1251	the parrot	PARROT	882		baro	baro 
+215	32-3-593-1	722142166665145	Yaqui	yaqu1251	the crow	CROW	913		kooni	kooni 
+216	32-3-594-1	722142791274356	Yaqui	yaqu1251	the dove	DOVE	1853		wokkoi	wokkoi 
+217	32-3-596-1	722142800643185	Yaqui	yaqu1251	the owl	OWL	735		muu’u	muu’u 
+218	32-3-61-1	722142175072084	Yaqui	yaqu1251	the dog	DOG	2009		chuu’u	chuu’u 
+219	32-3-614-1	722142797730035	Yaqui	yaqu1251	the rabbit	RABBIT	1136		taabu	taabu 
+220	32-3-62-1	722142868543847	Yaqui	yaqu1251	the cat	CAT	1208		miisi	miisi 
+221	32-3-622-1	722142486968007	Yaqui	yaqu1251	the opossum	OPOSSUM	309		takwaachi	takwaachi 
+222	32-3-63-1	722142331559487	Yaqui	yaqu1251	the mouse or rat	MUROID (MOUSE OR RAT)	2139		tori	tori 
+223	32-3-65-1	722142653500837	Yaqui	yaqu1251	the fish	FISH	227		kuchu	kuchu 
+224	32-3-652-1	7221424391646	Yaqui	yaqu1251	the fin	FIN	213		masam	masam 
+225	32-3-653-1	722142506364072	Yaqui	yaqu1251	the scale	SCALE	266		kuupe	kuupe 
+226	32-3-661-1	722142577806738	Yaqui	yaqu1251	the shark	SHARK	1110		tamekame	tamekame 
+227	32-3-663-1	722142322685823	Yaqui	yaqu1251	the whale	WHALE	957		bujteme	bujteme 
+228	32-3-664-1	722142833617835	Yaqui	yaqu1251	the stingray	STINGRAY	1910		raaya	raaya 
+229	32-3-664-2	72214210720326	Yaqui	yaqu1251	the stingray	STINGRAY	1910		yabarai	yabarai 
+230	32-3-71-1	722142744020864	Yaqui	yaqu1251	the wolf	WOLF	522		juya chu’u	juya chu’u 
+231	32-3-72-1	722142120818442	Yaqui	yaqu1251	the lion	LION	1386		ousei	ousei 
+232	32-3-73-1	722142904376749	Yaqui	yaqu1251	the bear	BEAR	1820		ooso	ooso 
+233	32-3-74-1	722142183923339	Yaqui	yaqu1251	the fox	FOX	1312		kawis	kawis 
+234	32-3-75-1	72214294688543	Yaqui	yaqu1251	the deer	DEER	1936		maaso	maaso 
+235	32-3-76-1	722142836972403	Yaqui	yaqu1251	the monkey	MONKEY	1350		cholua	cholua 
+236	32-3-77-1	72214215243796	Yaqui	yaqu1251	the elephant	ELEPHANT	1290		elepante	elepante 
+237	32-3-78-1	722142835598473	Yaqui	yaqu1251	the camel	CAMEL	1871		kameo	kameo 
+238	32-3-81-1	722142317600373	Yaqui	yaqu1251	the insect	INSECT	620		yoeria	yoeria 
+239	32-3-81-2	722142621401582	Yaqui	yaqu1251	the insect	INSECT	620		insekto	insekto 
+240	32-3-811-1	722142279319001	Yaqui	yaqu1251	the head louse	HEAD LOUSE	310		ete	ete 
+241	32-3-812-1	722142880208206	Yaqui	yaqu1251	the nit	NIT	267		natchi’ika	natchi’ika 
+242	32-3-813-1	722142358630776	Yaqui	yaqu1251	the flea	FLEA	232		teput	teput 
+243	32-3-814-1	722142485196362	Yaqui	yaqu1251	the centipede	CENTIPEDE	1974		masiwe	masiwe 
+244	32-3-815-1	722142604353122	Yaqui	yaqu1251	the scorpion	SCORPION	1538		maachil	maachil 
+245	32-3-816-1	722142954140806	Yaqui	yaqu1251	the cockroach	COCKROACH	1575		kuka	kuka 
+246	32-3-817-1	722142811148491	Yaqui	yaqu1251	the ant	ANT	587		eeye	eeye 
+247	32-3-818-1	722142901399526	Yaqui	yaqu1251	the spider	SPIDER	843		jubaje	jubaje 
+248	32-3-819-1	722142115368402	Yaqui	yaqu1251	the spider web	SPIDER WEB	1065		witosa	witosa 
+249	32-3-82-1	72214255123714	Yaqui	yaqu1251	the bee	BEE	665		muumu	muumu 
+250	32-3-821-1	722142427135704	Yaqui	yaqu1251	the beeswax	BEESWAX	1931		sito’ori	sito’ori 
+251	32-3-821-2	722142245946857	Yaqui	yaqu1251	the beeswax	BEESWAX	1931		mumu jo’ara	mumu jo’ara 
+252	32-3-822-1	722142684137563	Yaqui	yaqu1251	the beehive	BEEHIVE	88		muumum	muumum 
+253	32-3-822-2	722142876356617	Yaqui	yaqu1251	the beehive	BEEHIVE	88		kolmeenam	kolmeenam 
+254	32-3-823-1	722142906071291	Yaqui	yaqu1251	the wasp	WASP	1517		jimawikia	jimawikia 
+255	32-3-823-2	722142189037986	Yaqui	yaqu1251	the wasp	WASP	1517		bitaachi	bitaachi 
+256	32-3-83-1	72214233579633	Yaqui	yaqu1251	the fly	FLY (INSECT)	1504		se’eboi	se’eboi 
+257	32-3-831-1	722142717596420	Yaqui	yaqu1251	the sandfly or midge or gnat	SANDFLY	95		kuru	kuru 
+258	32-3-832-1	722142392687000	Yaqui	yaqu1251	the mosquito	MOSQUITO	1509		woo’o	woo’o 
+259	32-3-84-1	722142759115221	Yaqui	yaqu1251	the worm	WORM	1219		chumkuria	chumkuria 
+260	32-3-84-2	72214290522069	Yaqui	yaqu1251	the worm	WORM	1219		bwitchia	bwitchia 
+261	32-3-85-1	722142145521040	Yaqui	yaqu1251	the snake	SNAKE	730		baakot	baakot 
+262	32-3-85-2	72214236793847	Yaqui	yaqu1251	the snake	SNAKE	730		baba’atukut	baba’atukut 
+263	32-3-91-1	722142447556444	Yaqui	yaqu1251	the firefly	FIREFLY	206		kuupis	kuupis 
+264	32-3-92-1	722142670089145	Yaqui	yaqu1251	the butterfly	BUTTERFLY	1791		baise’eboli	baise’eboli 
+265	32-3-93-1	722142836617137	Yaqui	yaqu1251	the grasshopper	GRASSHOPPER	607		wakawo’ochi	wakawo’ochi 
+266	32-3-94-1	722142109556910	Yaqui	yaqu1251	the snail	SNAIL	1543		kuakteme	kuakteme 
+267	32-3-95-1	722142666340111	Yaqui	yaqu1251	the frog	FROG	503		batat	batat 
+268	32-3-96-1	722142179270060	Yaqui	yaqu1251	the lizard	LIZARD	632		wikuim	wikuim 
+269	32-3-97-1	722142392908343	Yaqui	yaqu1251	the crocodile or alligator	CROCODILE	1857		kama (1)	kama (1) 
+270	32-3-98-1	722142423698905	Yaqui	yaqu1251	the turtle	TURTLE	112		mochik	mochik 
+271	32-4-11-1	722142239135774	Yaqui	yaqu1251	the body	BODY	1480		takaa	takaa 
+272	32-4-12-1	722142369590112	Yaqui	yaqu1251	the skin or hide	SKIN	763		beea	beea 
+273	32-4-13-1	722142192304748	Yaqui	yaqu1251	the flesh	FLESH	2259		waakas	waakas 
+274	32-4-13-2	722142961443911	Yaqui	yaqu1251	the flesh	FLESH	2259		tekua	tekua 
+275	32-4-14-1	722142504189475	Yaqui	yaqu1251	the hair	HAIR (HEAD)	2648		choonim	choonim 
+276	32-4-142-1	722142388680895	Yaqui	yaqu1251	the beard	BEARD	678		chao boam	chao boam 
+277	32-4-144-1	722142460764341	Yaqui	yaqu1251	the body hair	HAIR (BODY)	189		boam	boam 
+278	32-4-145-1	722142460764341	Yaqui	yaqu1251	the pubic hair	PUBIC HAIR	36		boam	boam 
+279	32-4-146-1	722142786524656	Yaqui	yaqu1251	the dandruff	DANDRUFF	576		koba beea	koba beea 
+280	32-4-15-1	722142493635270	Yaqui	yaqu1251	the blood	BLOOD	946		ojbo	ojbo 
+281	32-4-151-1	722142278063539	Yaqui	yaqu1251	the vein or artery	BLOOD VESSEL	525		ojbo wii’i	ojbo wii’i 
+282	32-4-16-1	722142404907870	Yaqui	yaqu1251	the bone	BONE	1394		ota	ota 
+283	32-4-162-1	722142154213748	Yaqui	yaqu1251	the rib	RIB	801		sana’im	sana’im 
+284	32-4-17-1	722142336462093	Yaqui	yaqu1251	the horn	HORN (ANATOMY)	1393		aawam	aawam 
+285	32-4-18-1	722142590397813	Yaqui	yaqu1251	the tail	TAIL	1220		bwasia	bwasia 
+286	32-4-19-1	722142380405538	Yaqui	yaqu1251	the back	BACK	1291		joo’o	joo’o 
+287	32-4-191-1	72214244238026	Yaqui	yaqu1251	the spine	SPINE	805		joo ota	joo ota 
+288	32-4-2-1	722142320777669	Yaqui	yaqu1251	the head	HEAD	1256		koba	koba 
+289	32-4-201-1	722142321474556	Yaqui	yaqu1251	the temples	TEMPLES	1604		kobananaa	kobananaa 
+290	32-4-202-1	722142866446237	Yaqui	yaqu1251	the skull	SKULL	1605		koba ota	koba ota 
+291	32-4-203-1	722142979420245	Yaqui	yaqu1251	the brain	BRAIN	1583		o’oream	o’oream 
+292	32-4-204-1	722142240780253	Yaqui	yaqu1251	the face	FACE	1560		pujba	pujba 
+293	32-4-205-1	722142202526449	Yaqui	yaqu1251	the forehead	FOREHEAD	123		koba meje’eria	koba meje’eria 
+294	32-4-207-1	722142587436136	Yaqui	yaqu1251	the jaw	JAW	798		tabawasa’im	tabawasa’im 
+295	32-4-208-1	722142308568489	Yaqui	yaqu1251	the cheek	CHEEK	1730		jopem	jopem 
+296	32-4-209-1	72214251076505	Yaqui	yaqu1251	the chin	CHIN	1510		chao	chao 
+297	32-4-21-1	722142411912213	Yaqui	yaqu1251	the eye	EYE	1248		puusim	puusim 
+298	32-4-212-1	722142374634409	Yaqui	yaqu1251	the eyebrow	EYEBROW	1173		kumsakam	kumsakam 
+299	32-4-213-1	722142854602429	Yaqui	yaqu1251	the eyelid	EYELID	17		pujbeam	pujbeam 
+300	32-4-214-1	722142685285698	Yaqui	yaqu1251	the eyelash	EYELASH	1540		pusse’ebem	pusse’ebem 
+301	32-4-215-1	72214223172782	Yaqui	yaqu1251	to blink	BLINK	1655		kupikte	kupikte 
+302	32-4-22-1	722142585161799	Yaqui	yaqu1251	the ear	EAR	1247		nakam	nakam 
+303	32-4-221-1	722142585161799	Yaqui	yaqu1251	the earlobe	EARLOBE	18		nakam	nakam 
+304	32-4-222-1	722142469525912	Yaqui	yaqu1251	the earwax	EARWAX	32		naka bwita	naka bwita 
+305	32-4-23-1	722142903438970	Yaqui	yaqu1251	the nose	NOSE	1221		yeka	yeka 
+306	32-4-231-1	722142998260229	Yaqui	yaqu1251	the nostril	NOSTRIL	1178		yeka wojo’oria	yeka wojo’oria 
+307	32-4-232-1	722142298022703	Yaqui	yaqu1251	the nasal mucus	NASAL MUCUS (SNOT)	208		chomkoria	chomkoria 
+308	32-4-24-1	722142949060228	Yaqui	yaqu1251	the mouth	MOUTH	674		teeni	teeni 
+309	32-4-241-1	722142949060228	Yaqui	yaqu1251	the beak	BEAK	73		teeni	teeni 
+310	32-4-241-2	722142542411963	Yaqui	yaqu1251	the beak	BEAK	73		piiko	piiko 
+311	32-4-25-1	722142413513682	Yaqui	yaqu1251	the lip	LIP	478		tenberia	tenberia 
+312	32-4-26-1	722142379729422	Yaqui	yaqu1251	the tongue	TONGUE	1205		nini	nini 
+313	32-4-27-1	722142699087770	Yaqui	yaqu1251	the tooth	TOOTH	1380		tamim	tamim 
+314	32-4-271-1	722142843672844	Yaqui	yaqu1251	the gums	GUMS	139		tamtekwa	tamtekwa 
+315	32-4-272-1	722142699087770	Yaqui	yaqu1251	the molar tooth	MOLAR TOOTH	1049		tamim	tamim 
+316	32-4-28-1	722142146785175	Yaqui	yaqu1251	the neck	NECK	1333		kutanaa	kutanaa 
+317	32-4-281-1	722142578757534	Yaqui	yaqu1251	the nape of the neck	NAPE (OF NECK)	1347		bi’am	bi’am 
+318	32-4-29-1	722142146785175	Yaqui	yaqu1251	the throat	THROAT	1346		kutanaa	kutanaa 
+319	32-4-29-2	72214226962110	Yaqui	yaqu1251	the throat	THROAT	1346		kusia	kusia 
+320	32-4-3-1	722142871779346	Yaqui	yaqu1251	the shoulder	SHOULDER	1482		jenom	jenom 
+321	32-4-301-1	722142496293288	Yaqui	yaqu1251	the shoulderblade	SHOULDERBLADE	172		omooplato	omooplato 
+322	32-4-301-2	722142540491027	Yaqui	yaqu1251	the shoulderblade	SHOULDERBLADE	172		paleetam	paleetam 
+323	32-4-302-1	722142271797358	Yaqui	yaqu1251	the collarbone	COLLARBONE	1994		tau ota	tau ota 
+324	32-4-31-1	72214212891436	Yaqui	yaqu1251	the arm	ARM	1673		mamam	mamam 
+325	32-4-312-1	722142964500940	Yaqui	yaqu1251	the armpit	ARMPIT	1886		seekam	seekam 
+326	32-4-32-1	722142614493658	Yaqui	yaqu1251	the elbow	ELBOW	981		techom	techom 
+327	32-4-321-1	722142651781883	Yaqui	yaqu1251	the wrist	WRIST	799		koomim	koomim 
+328	32-4-321-2	722142999088127	Yaqui	yaqu1251	the wrist	WRIST	799		munyeeka	munyeeka 
+329	32-4-33-1	72214212891436	Yaqui	yaqu1251	the hand	HAND	1277		mamam	mamam 
+330	32-4-331-1	722142297095858	Yaqui	yaqu1251	the palm of the hand	PALM OF HAND	1183		mam beta’ariam	mam beta’ariam 
+331	32-4-34-1	722142648446257	Yaqui	yaqu1251	the finger	FINGER	1303		pusiam	pusiam 
+332	32-4-342-1	722142545759646	Yaqui	yaqu1251	the thumb	THUMB	1781		mampusiam	mampusiam 
+333	32-4-344-1	722142654770573	Yaqui	yaqu1251	the fingernail	FINGERNAIL	1258		sutum	sutum 
+334	32-4-345-1	722142654770573	Yaqui	yaqu1251	the claw	CLAW	72		sutum	sutum 
+335	32-4-35-1	722142971174542	Yaqui	yaqu1251	the leg	LEG	1297		macham	macham 
+336	32-4-351-1	722142971174542	Yaqui	yaqu1251	the thigh	THIGH	800		macham	macham 
+337	32-4-352-1	722142339695764	Yaqui	yaqu1251	the calf of the leg	CALF OF LEG	498		woktomam	woktomam 
+338	32-4-36-1	722142916156577	Yaqui	yaqu1251	the knee	KNEE	1371		tonom	tonom 
+339	32-4-37-1	722142463213512	Yaqui	yaqu1251	the foot	FOOT	1301		wokim	wokim 
+340	32-4-371-1	722142466820312	Yaqui	yaqu1251	the ankle	ANKLE	803		tero’okim	tero’okim 
+341	32-4-372-1	722142490029602	Yaqui	yaqu1251	the heel	HEEL	980		pempe’im	pempe’im 
+342	32-4-374-1	722142211456364	Yaqui	yaqu1251	the footprint	FOOTPRINT	318		wokjajai (buscar pie)	wokjajai (buscar pie) 
+343	32-4-38-1	722142916559367	Yaqui	yaqu1251	the toe	TOE	1389		bwe’u wokpusiam	bwe’u wokpusiam 
+344	32-4-392-1	7221424391646	Yaqui	yaqu1251	the wing	WING	1257		masam	masam 
+345	32-4-393-1	72214282794473	Yaqui	yaqu1251	the feather	FEATHER	1201		boa	boa 
+346	32-4-4-1	722142599703131	Yaqui	yaqu1251	the chest	CHEST	1592		tawi	tawi 
+347	32-4-41-1	722142969902849	Yaqui	yaqu1251	the breast	BREAST	1402		pipim	pipim 
+348	32-4-412-1	722142208343099	Yaqui	yaqu1251	the nipple or teat	NIPPLE	796		pipkoba	pipkoba 
+349	32-4-42-1	722142969902849	Yaqui	yaqu1251	the udder	UDDER	154		pipim	pipim 
+350	32-4-43-1	722142499921240	Yaqui	yaqu1251	the navel	NAVEL	1838		siiku	siiku 
+351	32-4-44-1	722142879052143	Yaqui	yaqu1251	the heart	HEART	1223		jiapsi	jiapsi 
+352	32-4-44-2	722142465375834	Yaqui	yaqu1251	the heart	HEART	1223		sula	sula 
+353	32-4-441-1	722142628175538	Yaqui	yaqu1251	the lung	LUNG	688		sare’echia	sare’echia 
+354	32-4-45-1	722142237806498	Yaqui	yaqu1251	the liver	LIVER	1224		jeemam	jeemam 
+355	32-4-451-1	722142105327316	Yaqui	yaqu1251	the kidney	KIDNEY	489		sikupuriam	sikupuriam 
+356	32-4-452-1	722142426993484	Yaqui	yaqu1251	the spleen	SPLEEN	1744		baaso	baaso 
+357	32-4-452-2	722142421548340	Yaqui	yaqu1251	the spleen	SPLEEN	1744		koyyoi	koyyoi 
+358	32-4-46-1	722142966825809	Yaqui	yaqu1251	the stomach	STOMACH	819		toma	toma 
+359	32-4-461-1	722142606426869	Yaqui	yaqu1251	the intestines or guts	INTESTINES	1991		siiam	siiam 
+360	32-4-462-1	7221428148322	Yaqui	yaqu1251	the waist	WAIST	1681		wikosa	wikosa 
+361	32-4-463-1	7221428148322	Yaqui	yaqu1251	the hip	HIP	1745		wikosa	wikosa 
+362	32-4-464-1	722142541681069	Yaqui	yaqu1251	the buttocks	BUTTOCKS	834		chobe	chobe 
+363	32-4-47-1	722142452397921	Yaqui	yaqu1251	the womb	WOMB	804		asoakari	asoakari 
+364	32-4-47-2	722142258542603	Yaqui	yaqu1251	the womb	WOMB	804		souka	souka 
+365	32-4-47-3	722142966825809	Yaqui	yaqu1251	the womb	WOMB	804		toma	toma 
+366	32-4-49-1	722142884503605	Yaqui	yaqu1251	the testicles	TESTICLES	797		robonim	robonim 
+367	32-4-49-2	722142993212203	Yaqui	yaqu1251	the testicles	TESTICLES	797		bichoom	bichoom 
+368	32-4-492-1	722142569842703	Yaqui	yaqu1251	the penis	PENIS	1222		ju’i	ju’i 
+369	32-4-492-2	722142993086306	Yaqui	yaqu1251	the penis	PENIS	1222		bichoo	bichoo 
+370	32-4-51-1	722142260577256	Yaqui	yaqu1251	to breathe	BREATHE	1407		jiabijte(i)	jiabijte(i) 
+371	32-4-52-1	7221426816983	Yaqui	yaqu1251	to yawn	YAWN	1028		wa’awa’akte	wa’awa’akte 
+372	32-4-521-1	72214263149259	Yaqui	yaqu1251	to hiccough	HICCOUGH	162		je’okte	je’okte 
+373	32-4-53-1	722142820142722	Yaqui	yaqu1251	to cough	COUGH	879		tase	tase 
+374	32-4-54-1	722142604279454	Yaqui	yaqu1251	to sneeze	SNEEZE	1621		ja’achijte	ja’achijte 
+375	32-4-55-1	722142640722567	Yaqui	yaqu1251	to perspire	SWEAT (PERSPIRE)	126		tatabujte	tatabujte 
+376	32-4-56-1	722142769712588	Yaqui	yaqu1251	to spit	SPIT	1440		chikwatte	chikwatte 
+377	32-4-57-1	72214221481519	Yaqui	yaqu1251	to vomit	VOMIT	1278		bisata	bisata 
+378	32-4-58-1	722142984753427	Yaqui	yaqu1251	to bite	BITE	1403		ke’e	ke’e 
+379	32-4-59-1	722142803535728	Yaqui	yaqu1251	to lick	LICK	319		be’okta	be’okta 
+380	32-4-591-1	722142689651033	Yaqui	yaqu1251	to dribble	DRIBBLE	268		chakte	chakte 
+381	32-4-591-2	72214229374676	Yaqui	yaqu1251	to dribble	DRIBBLE	268		chichek	chichek 
+382	32-4-61-1	722142478671962	Yaqui	yaqu1251	to sleep	SLEEP	1585		koche	koche 
+383	32-4-612-1	722142558984759	Yaqui	yaqu1251	to snore	SNORE	1983		jororo’oti jiia	jororo’oti jiia 
+384	32-4-62-1	722142924151952	Yaqui	yaqu1251	to dream	DREAM (SOMETHING)	1920		tenku	tenku 
+385	32-4-63-1	722142848099093	Yaqui	yaqu1251	to wake up	WAKE UP	1602		busa	busa 
+386	32-4-64-1	722142915603824	Yaqui	yaqu1251	to fart	FART	1159		juujam	juujam 
+387	32-4-65-1	722142973932892	Yaqui	yaqu1251	to piss	PISS	592		siise	siise 
+388	32-4-66-1	722142496664189	Yaqui	yaqu1251	to shit	SHIT (DEFECATE)	676		bwita	bwita 
+389	32-4-67-1	72214232630479	Yaqui	yaqu1251	to have sex	HAVE SEX	1785		nau to’ote	nau to’ote 
+390	32-4-67-2	722142638145764	Yaqui	yaqu1251	to have sex	HAVE SEX	1785		soa	soa 
+391	32-4-68-1	722142835848376	Yaqui	yaqu1251	to shiver	SHIVER	52		emo yooa	emo yooa 
+392	32-4-69-1	722142344000422	Yaqui	yaqu1251	to bathe	BATHE	138		uba	uba 
+393	32-4-69-2	722142838935496	Yaqui	yaqu1251	to bathe	BATHE	138		ubba	ubba 
+394	32-4-71-1	722142863737636	Yaqui	yaqu1251	to beget	BEGET	1152		te’ochia	te’ochia 
+395	32-4-72-1	722142845438276	Yaqui	yaqu1251	to be born	BE BORN	1090		tomtek	tomtek 
+396	32-4-72-2	722142449159748	Yaqui	yaqu1251	to be born	BE BORN	1090		tomta	tomta 
+397	32-4-73-1	722142779571233	Yaqui	yaqu1251	pregnant	PREGNANT	1123		bwe’u	bwe’u 
+398	32-4-732-1	722142485650455	Yaqui	yaqu1251	to conceive	CONCEIVE	1087		yeu nu’upa	yeu nu’upa 
+399	32-4-74-1	722142329268171	Yaqui	yaqu1251	to be alive	BE ALIVE	1422		jiapsa	jiapsa 
+400	32-4-75-1	722142513520499	Yaqui	yaqu1251	to die	DIE	1494		muuke	muuke 
+401	32-4-751-1	722142630042588	Yaqui	yaqu1251	to drown	DROWN	1904		ba’apo mukia	ba’apo mukia 
+402	32-4-76-1	722142273063973	Yaqui	yaqu1251	to kill	KILL	1417		me’a	me’a 
+403	32-4-76-2	72214232031469	Yaqui	yaqu1251	to kill	KILL	1417		sua	sua 
+404	32-4-77-1	722142775189349	Yaqui	yaqu1251	the corpse	CORPSE	767		mukila	mukila 
+405	32-4-78-1	722142323187809	Yaqui	yaqu1251	to bury	BURY	1719		maa’a	maa’a 
+406	32-4-79-1	722142447865991	Yaqui	yaqu1251	the grave	GRAVE	1773		jimai	jimai 
+407	32-4-81-1	722142863269547	Yaqui	yaqu1251	strong	STRONG	785		utte’ak	utte’ak 
+408	32-4-82-1	7221428255499	Yaqui	yaqu1251	weak	WEAK	1601		kaa utte’ak	kaa utte’ak 
+409	32-4-83-1	722142564194481	Yaqui	yaqu1251	healthy	HEALTHY	1364		kaa ko’okoe	kaa ko’okoe 
+410	32-4-84-1	722142612886032	Yaqui	yaqu1251	sick/ill	SICK	1847		ko’okoe	ko’okoe 
+411	32-4-841-1	7221422818236	Yaqui	yaqu1251	the fever	FEVER	1534		taji wechia	taji wechia 
+412	32-4-842-1	722142336120989	Yaqui	yaqu1251	the goitre/goiter	GOITER	1957		kutana bajila	kutana bajila 
+413	32-4-843-1	722142786142158	Yaqui	yaqu1251	the cold	COMMON COLD (DISEASE)	102		chomko’okoa	chomko’okoa 
+414	32-4-85-1	722142792202345	Yaqui	yaqu1251	the wound or sore	WOUND	1109		sa’awa	sa’awa 
+415	32-4-852-1	722142652768155	Yaqui	yaqu1251	the bruise	BRUISE	1148		taako’ei	taako’ei 
+416	32-4-853-1	722142501645587	Yaqui	yaqu1251	the swelling	SWELLING	1903		bajila	bajila 
+417	32-4-854-1	722142763937753	Yaqui	yaqu1251	the itch	ITCH	148		elesikia	elesikia 
+418	32-4-855-1	722142513558793	Yaqui	yaqu1251	the blister	BLISTER	1584		boyoria	boyoria 
+419	32-4-856-1	722142309482696	Yaqui	yaqu1251	the boil	BOIL (OF SKIN)	793		purunkulo	purunkulo 
+420	32-4-857-1	722142198386505	Yaqui	yaqu1251	the pus	PUS	1808		bikaa	bikaa 
+421	32-4-858-1	722142855048134	Yaqui	yaqu1251	the scar	SCAR	497		yore’eria	yore’eria 
+422	32-4-86-1	722142269525883	Yaqui	yaqu1251	to cure	CURE	499		tu’irea	tu’irea 
+423	32-4-86-2	722142259885955	Yaqui	yaqu1251	to cure	CURE	499		tu’itua	tu’itua 
+424	32-4-87-1	722142252985821	Yaqui	yaqu1251	the physician	PHYSICIAN	597		jitebii	jitebii 
+425	32-4-87-2	722142151415462	Yaqui	yaqu1251	the physician	PHYSICIAN	597		lotor ~ lotoor	lotor ~ lotoor 
+426	32-4-87-3	722142252513498	Yaqui	yaqu1251	the physician	PHYSICIAN	597		yoi jitebi	yoi jitebi 
+427	32-4-88-1	722142205134183	Yaqui	yaqu1251	the medicine	MEDICINE	1372		jittoa	jittoa 
+428	32-4-89-1	722142374242585	Yaqui	yaqu1251	the poison	POISON	655		joyo	joyo 
+429	32-4-89-2	722142906518042	Yaqui	yaqu1251	the poison	POISON	655		pajti	pajti 
+430	32-4-91-1	722142214902824	Yaqui	yaqu1251	tired	TIRED	1757		lottila	lottila 
+431	32-4-912-1	722142113471846	Yaqui	yaqu1251	to rest	REST	168		yumjoe	yumjoe 
+432	32-4-92-1	722142661098209	Yaqui	yaqu1251	lazy	LAZY	1564		obe’a	obe’a 
+433	32-4-93-1	722142270360320	Yaqui	yaqu1251	bald	BALD	1125		kaa kobaboak	kaa kobaboak 
+434	32-4-94-1	722142612886032	Yaqui	yaqu1251	lame	LAME	320		ko’okoe	ko’okoe 
+435	32-4-95-1	722142337432283	Yaqui	yaqu1251	deaf	DEAF	996		nakapit	nakapit 
+436	32-4-96-1	72214288705376	Yaqui	yaqu1251	mute	MUTE	1666		muuro	muuro 
+437	32-4-96-2	72214235382008	Yaqui	yaqu1251	mute	MUTE	1666		kaa nonoka	kaa nonoka 
+438	32-4-97-1	722142206978097	Yaqui	yaqu1251	blind	BLIND	1653		lipti ~ ripti	lipti ~ ripti 
+439	32-4-98-1	72214288705379	Yaqui	yaqu1251	drunk	DRUNK	1463		naamukia	naamukia 
+440	32-4-99-1	722142814861702	Yaqui	yaqu1251	naked	NAKED	590		biichi	biichi 
+441	32-4-99-2	722142216873853	Yaqui	yaqu1251	naked	NAKED	590		kaa tajo’orek	kaa tajo’orek 
+442	32-5-11-1	722142230253085	Yaqui	yaqu1251	to eat	EAT	1336		ji’ibwa	ji’ibwa 
+443	32-5-11-2	72214260410148	Yaqui	yaqu1251	to eat	EAT	1336		bwa’e	bwa’e 
+444	32-5-12-1	722142295011840	Yaqui	yaqu1251	the food	FOOD	256		bwa’ame	bwa’ame 
+445	32-5-121-1	72214283624861	Yaqui	yaqu1251	cooked	COOKED	269		bwasa’i	bwasa’i 
+446	32-5-122-1	722142552882220	Yaqui	yaqu1251	raw	RAW	1959		kaa bwasi	kaa bwasi 
+447	32-5-123-1	72214271574321	Yaqui	yaqu1251	ripe	RIPE	178		momoi	momoi 
+448	32-5-124-1	7221425196610	Yaqui	yaqu1251	unripe	UNRIPE	1958		kaa momoi	kaa momoi 
+449	32-5-125-1	722142624332716	Yaqui	yaqu1251	rotten	ROTTEN	1728		bikala	bikala 
+450	32-5-13-1	722142195725871	Yaqui	yaqu1251	to drink	DRINK	1401		je’e	je’e 
+451	32-5-14-1	722142764066960	Yaqui	yaqu1251	to be hungry	BE HUNGRY	1533		tebaure	tebaure 
+452	32-5-141-1	722142764066960	Yaqui	yaqu1251	the famine	FAMINE	199		tebaure	tebaure 
+453	32-5-15-1	722142564696984	Yaqui	yaqu1251	to be thirsty	THIRSTY	847		ba’a muuke	ba’a muuke 
+454	32-5-16-1	722142626222130	Yaqui	yaqu1251	to suck	SUCK	1421		che’e	che’e 
+455	32-5-16-2	722142523482343	Yaqui	yaqu1251	to suck	SUCK	1421		chuune	chuune 
+456	32-5-18-1	722142828010321	Yaqui	yaqu1251	to chew	CHEW	321		ko’a	ko’a 
+457	32-5-181-1	722142881920937	Yaqui	yaqu1251	to swallow	SWALLOW	897		wi’ukta	wi’ukta 
+458	32-5-19-1	722142587033894	Yaqui	yaqu1251	to choke	CHOKE	129		u’ukte	u’ukte 
+459	32-5-21-1	722142519336891	Yaqui	yaqu1251	to cook	COOK (SOMETHING)	1100		kisaroa	kisaroa 
+460	32-5-21-2	722142924152130	Yaqui	yaqu1251	to cook	COOK (SOMETHING)	1100		bwasa	bwasa 
+461	32-5-22-1	722142542228634	Yaqui	yaqu1251	to boil	BOIL (OF LIQUID)	792		pojte (1)	pojte (1) 
+462	32-5-22-2	722142290433115	Yaqui	yaqu1251	to boil	BOIL (OF LIQUID)	792		pojtia	pojtia 
+463	32-5-23-1	722142793239587	Yaqui	yaqu1251	to roast or fry	ROAST OR FRY	2146		soba	soba 
+464	32-5-23-2	722142571216766	Yaqui	yaqu1251	to roast or fry	ROAST OR FRY	2146		kisaaroa	kisaaroa 
+465	32-5-24-1	722142155193691	Yaqui	yaqu1251	to bake	BAKE	183		orniaroa	orniaroa 
+466	32-5-25-1	722142833639832	Yaqui	yaqu1251	the oven	OVEN	1143		joona	joona 
+467	32-5-26-1	722142942990301	Yaqui	yaqu1251	the pot	POT	1462		soto’i	soto’i 
+468	32-5-27-1	722142942990301	Yaqui	yaqu1251	the kettle	KETTLE	854		soto’i	soto’i 
+469	32-5-27-2	722142854836664	Yaqui	yaqu1251	the kettle	KETTLE	854		bwe’u soto’i	bwe’u soto’i 
+470	32-5-28-1	722142876846235	Yaqui	yaqu1251	the pan	PAN	31		kaaso	kaaso 
+471	32-5-31-1	722142472293323	Yaqui	yaqu1251	the dish	DISH	481		pu’ato	pu’ato 
+472	32-5-32-1	722142472293323	Yaqui	yaqu1251	the plate	PLATE	480		pu’ato	pu’ato 
+473	32-5-33-1	722142891264363	Yaqui	yaqu1251	the bowl	BOWL	1530		pu’ato joroi	pu’ato joroi 
+474	32-5-34-1	722142674593982	Yaqui	yaqu1251	the jug/pitcher	JUG	270		picheel	picheel 
+475	32-5-34-2	722142942990301	Yaqui	yaqu1251	the jug/pitcher	JUG	270		soto’i	soto’i 
+476	32-5-35-1	722142899455108	Yaqui	yaqu1251	the cup	CUP	476		taasa	taasa 
+477	32-5-36-1	722142643914658	Yaqui	yaqu1251	the saucer	SAUCER	271		ili pu’ato	ili pu’ato 
+478	32-5-37-1	722142332420837	Yaqui	yaqu1251	the spoon	SPOON	1378		kucha’ara ~ kucha’a	kucha’ara ~ kucha’a 
+479	32-5-38-1	72214248208163	Yaqui	yaqu1251	the knife(1)	KNIFE (FOR EATING)	3210		kuchi’im	kuchi’im 
+480	32-5-39-1	722142362790720	Yaqui	yaqu1251	the fork	FORK	1302		teneror	teneror 
+481	32-5-391-1	722142831821903	Yaqui	yaqu1251	the tongs	TONGS	272		tena’asam	tena’asam 
+482	32-5-41-1	722142295011840	Yaqui	yaqu1251	the meal	MEAL	1526		bwa’ame	bwa’ame 
+483	32-5-42-1	722142561991920	Yaqui	yaqu1251	the breakfast	BREAKFAST	1322		ketwo bwa’ame	ketwo bwa’ame 
+484	32-5-43-1	722142834617987	Yaqui	yaqu1251	the lunch	LUNCH	768		ketwi bwa’ame	ketwi bwa’ame 
+485	32-5-44-1	722142884519657	Yaqui	yaqu1251	the dinner	DINNER (SUPPER)	1833		luula katek bwa’ame	luula katek bwa’ame 
+486	32-5-45-1	72214215664148	Yaqui	yaqu1251	the supper	DINNER (SUPPER)	1833		kupteo bwa’ame	kupteo bwa’ame 
+487	32-5-45-2	722142512357887	Yaqui	yaqu1251	the supper	DINNER (SUPPER)	1833		kaa machiak bwa’ame	kaa machiak bwa’ame 
+488	32-5-46-1	722142781896370	Yaqui	yaqu1251	to peel	PEEL	275		besuma	besuma 
+489	32-5-47-1	722142996979412	Yaqui	yaqu1251	to sieve or to strain	SIEVE	86		kolaroa	kolaroa 
+490	32-5-48-1	722142823512217	Yaqui	yaqu1251	to scrape	SCRAPE	1767		bekta	bekta 
+491	32-5-49-1	722142949177215	Yaqui	yaqu1251	to stir or to mix	MIX	2017		kuuta	kuuta 
+492	32-5-51-1	722142449184315	Yaqui	yaqu1251	the bread	BREAD	1368		paanim	paanim 
+493	32-5-53-1	722142241834476	Yaqui	yaqu1251	the dough	DOUGH	273		kittim	kittim 
+494	32-5-54-1	722142507754687	Yaqui	yaqu1251	to knead	KNEAD	274		kitta	kitta 
+495	32-5-55-1	722142460179014	Yaqui	yaqu1251	the flour	FLOUR	1594		ainam	ainam 
+496	32-5-56-1	722142291000984	Yaqui	yaqu1251	to crush or to grind	GRIND	1033		tuuse	tuuse 
+497	32-5-57-1	722142594210110	Yaqui	yaqu1251	the mill	MILL	636		moina	moina 
+498	32-5-58-1	72214272012095	Yaqui	yaqu1251	the mortar(1)	MORTAR CRUSHER	224		tutua	tutua 
+499	32-5-59-1	722142917719038	Yaqui	yaqu1251	the pestle	PESTLE	225		teta tutua	teta tutua 
+500	32-5-61-1	722142192304748	Yaqui	yaqu1251	the meat	MEAT	634		waakas	waakas 
+501	32-5-63-1	722142472854648	Yaqui	yaqu1251	the sausage	SAUSAGE	1874		salchiicha	salchiicha 
+502	32-5-64-1	72214271384673	Yaqui	yaqu1251	the soup	SOUP	1547		soopam	soopam 
+503	32-5-65-1	722142960820533	Yaqui	yaqu1251	the vegetables	VEGETABLES	924		bejetaalim	bejetaalim 
+504	32-5-66-1	722142327089067	Yaqui	yaqu1251	the bean	BEAN	832		muunim	muunim 
+505	32-5-7-1	722142179085685	Yaqui	yaqu1251	the potato	POTATO	593		paapa	paapa 
+506	32-5-71-1	72214299479228	Yaqui	yaqu1251	the fruit	FRUIT	1507		taakam	taakam 
+507	32-5-712-1	722142588288485	Yaqui	yaqu1251	the bunch	BUNCH	1966		ibaktia	ibaktia 
+508	32-5-712-2	722142748012092	Yaqui	yaqu1251	the bunch	BUNCH	1966		bwijria	bwijria 
+509	32-5-75-1	722142255310025	Yaqui	yaqu1251	the fig	FIG	322		chuuna	chuuna 
+510	32-5-76-1	722142350240319	Yaqui	yaqu1251	the grape	GRAPE	920		uuba	uuba 
+511	32-5-77-1	722142689001845	Yaqui	yaqu1251	the nut	NUT	191		nues	nues 
+512	32-5-78-1	722142558905483	Yaqui	yaqu1251	the olive	OLIVE	1154		aseituuna	aseituuna 
+513	32-5-79-1	722142150788494	Yaqui	yaqu1251	the oil	OIL (ORGANIC SUBSTANCE)	1484		aseite	aseite 
+514	32-5-791-1	722142770359168	Yaqui	yaqu1251	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		awira	awira 
+515	32-5-81-1	722142295389944	Yaqui	yaqu1251	the salt	SALT	1274		oona	oona 
+516	32-5-82-1	72214266877738	Yaqui	yaqu1251	the pepper	PEPPER	1385		pimientam	pimientam 
+517	32-5-821-1	722142744746763	Yaqui	yaqu1251	the chili pepper	CHILI PEPPER	919		ko’okoi	ko’okoi 
+518	32-5-84-1	722142622319797	Yaqui	yaqu1251	the honey	HONEY	942		mielim	mielim 
+519	32-5-84-2	722142241350788	Yaqui	yaqu1251	the honey	HONEY	942		kakam	kakam 
+520	32-5-84-3	722142644114937	Yaqui	yaqu1251	the honey	HONEY	942		mumu ba’awam	mumu ba’awam 
+521	32-5-85-1	722142887118815	Yaqui	yaqu1251	the sugar	SUGAR	862		asuka	asuka 
+522	32-5-86-1	722142752307702	Yaqui	yaqu1251	the milk	MILK	635		kauwam	kauwam 
+523	32-5-87-1	722142511930824	Yaqui	yaqu1251	to milk	DRAW MILK	93		jipi’ike	jipi’ike 
+524	32-5-88-1	722142636407128	Yaqui	yaqu1251	the cheese	CHEESE	1569		keesum	keesum 
+525	32-5-88-2	722142234755773	Yaqui	yaqu1251	the cheese	CHEESE	1569		jipiknojim	jipiknojim 
+526	32-5-89-1	722142993739054	Yaqui	yaqu1251	the butter	BUTTER	1245		mantekia	mantekia 
+527	32-5-9-1	722142813604468	Yaqui	yaqu1251	the drink	BEVERAGE	731		pomti	pomti 
+528	32-5-9-2	72214270824194	Yaqui	yaqu1251	the drink	BEVERAGE	731		ji’iwame	ji’iwame 
+529	32-5-91-1	72214278008317	Yaqui	yaqu1251	the mead	MEAD	941		ku’uba’a	ku’uba’a 
+530	32-5-92-1	7221425400475	Yaqui	yaqu1251	the wine	WINE	1524		biino	biino 
+531	32-5-93-1	722142922718112	Yaqui	yaqu1251	the beer	BEER	1639		serbeesa	serbeesa 
+532	32-5-94-1	722142413819688	Yaqui	yaqu1251	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		ba’ajipo’okoim	ba’ajipo’okoim 
+533	32-5-97-1	722142236605373	Yaqui	yaqu1251	the egg	EGG	744		kabam	kabam 
+534	32-5-971-1	722142249157956	Yaqui	yaqu1251	the yolk	YOLK	1556		kaba jiapsi	kaba jiapsi 
+535	32-6-11-1	722142723757171	Yaqui	yaqu1251	to put on	PUT ON	158		tajo’ote	tajo’ote 
+536	32-6-11-2	722142989724454	Yaqui	yaqu1251	to put on	PUT ON	158		tajo’otua	tajo’otua 
+537	32-6-12-1	722142396159325	Yaqui	yaqu1251	the clothing or clothes	CLOTHES	1895		tajo’ori	tajo’ori 
+538	32-6-13-1	72214234812173	Yaqui	yaqu1251	the tailor	TAILOR	881		tajo’ota jojoame	tajo’ota jojoame 
+539	32-6-21-1	722142654156495	Yaqui	yaqu1251	the cloth	CLOTH	1616		teela	teela 
+540	32-6-22-1	722142777293458	Yaqui	yaqu1251	the wool	WOOL	964		bwara boa	bwara boa 
+541	32-6-23-1	722142170419445	Yaqui	yaqu1251	the linen	LINEN	916		liino	liino 
+542	32-6-24-1	722142463562935	Yaqui	yaqu1251	the cotton	COTTON	1850		chiinim	chiinim 
+543	32-6-25-1	722142602764133	Yaqui	yaqu1251	the silk	SILK	1641		seeda	seeda 
+544	32-6-27-1	722142581389664	Yaqui	yaqu1251	the felt	FELT	325		piltro	piltro 
+545	32-6-28-1	722142564868328	Yaqui	yaqu1251	the fur	FUR	580		yoawa beea	yoawa beea 
+546	32-6-28-2	722142369590112	Yaqui	yaqu1251	the fur	FUR	580		beea	beea 
+547	32-6-29-1	722142369590112	Yaqui	yaqu1251	the leather	LEATHER	629		beea	beea 
+548	32-6-31-1	722142632299493	Yaqui	yaqu1251	to spin	SPIN	121		wikiata jooa	wikiata jooa 
+549	32-6-31-2	72214250269234	Yaqui	yaqu1251	to spin	SPIN	121		ji’ika	ji’ika 
+550	32-6-32-1	722142629729975	Yaqui	yaqu1251	the spindle	SPINDLE	277		wi’i chaya’aria	wi’i chaya’aria 
+551	32-6-33-1	72214250269234	Yaqui	yaqu1251	to weave	WEAVE	133		ji’ika	ji’ika 
+552	32-6-34-1	722142610332645	Yaqui	yaqu1251	the loom	LOOM	1787		wikiata joowa’apo	wikiata joowa’apo 
+553	32-6-35-1	72214250269234	Yaqui	yaqu1251	to sew	SEW	1457		ji’ika	ji’ika 
+554	32-6-36-1	722142962096036	Yaqui	yaqu1251	the needle(1)	NEEDLE (FOR SEWING)	1382		ji’ikiam	ji’ikiam 
+555	32-6-37-1	722142106886657	Yaqui	yaqu1251	the awl	AWL	278		bwe’u ji’ikiam	bwe’u ji’ikiam 
+556	32-6-38-1	722142403832921	Yaqui	yaqu1251	the thread	THREAD	1161		wii’i	wii’i 
+557	32-6-39-1	722142206067482	Yaqui	yaqu1251	to dye	DYE	157		tojta	tojta 
+558	32-6-41-1	722142846929360	Yaqui	yaqu1251	the cloak	CLOAK	326		jiniam	jiniam 
+559	32-6-41-2	722142540476309	Yaqui	yaqu1251	the cloak	CLOAK	326		bepa’aria	bepa’aria 
+560	32-6-411-1	722142792849017	Yaqui	yaqu1251	the poncho	PONCHO	327		joronwom	joronwom 
+561	32-7-37-1	722142872319864	Yaqui	yaqu1251	the ladder	LADDER	1464		ejkalea	ejkalea 
+562	32-6-42-1	722142195464523	Yaqui	yaqu1251	the (woman's) dress	DRESS	474		supem	supem 
+563	32-6-43-1	722142543404819	Yaqui	yaqu1251	the coat	COAT	603		suka supem	suka supem 
+564	32-6-43-2	722142331596204	Yaqui	yaqu1251	the coat	COAT	603		saakom	saakom 
+565	32-6-44-1	722142195464523	Yaqui	yaqu1251	the shirt	SHIRT	1622		supem	supem 
+566	32-6-45-1	722142925284108	Yaqui	yaqu1251	the collar	COLLAR	2012		kutana	kutana 
+567	32-6-45-2	722142664285456	Yaqui	yaqu1251	the collar	COLLAR	2012		kueyo	kueyo 
+568	32-6-46-1	722142327370894	Yaqui	yaqu1251	the skirt	SKIRT	1600		ko’arim	ko’arim 
+569	32-6-48-1	722142381837353	Yaqui	yaqu1251	the trousers	TROUSERS	809		saaweam	saaweam 
+570	32-6-48-2	72214263755241	Yaqui	yaqu1251	the trousers	TROUSERS	809		pantaroonim	pantaroonim 
+571	32-6-49-1	722142475633010	Yaqui	yaqu1251	the sock or stocking	STOCKING	329		wokboosam	wokboosam 
+572	32-6-49-2	722142850898695	Yaqui	yaqu1251	the sock or stocking	STOCKING	329		meriam	meriam 
+573	32-6-49-3	722142607207198	Yaqui	yaqu1251	the sock or stocking	STOCKING	329		kalsetiinim	kalsetiinim 
+574	32-6-51-1	722142376051827	Yaqui	yaqu1251	the shoe	SHOE	1381		boocham	boocham 
+575	32-6-52-1	722142703368317	Yaqui	yaqu1251	the boot	BOOT	585		bootam	bootam 
+576	32-6-54-1	722142454047995	Yaqui	yaqu1251	the shoemaker	SHOEMAKER	875		sapateo	sapateo 
+577	32-6-54-2	722142978900435	Yaqui	yaqu1251	the shoemaker	SHOEMAKER	875		bochareo	bochareo 
+578	32-6-55-1	722142913609297	Yaqui	yaqu1251	the hat or cap	HEADGEAR	2130		mo’obei	mo’obei 
+579	32-6-57-1	7221428148322	Yaqui	yaqu1251	the belt	BELT	772		wikosa	wikosa 
+580	32-6-57-2	722142412107157	Yaqui	yaqu1251	the belt	BELT	772		toma jisumiam	toma jisumiam 
+581	32-6-58-1	722142858326370	Yaqui	yaqu1251	the glove	GLOVE	867		mamboosam	mamboosam 
+582	32-6-58-2	722142156423205	Yaqui	yaqu1251	the glove	GLOVE	867		wantem	wantem 
+583	32-6-59-1	722142326246052	Yaqui	yaqu1251	the veil	VEIL	1151		beelom	beelom 
+584	32-6-61-1	722142218033549	Yaqui	yaqu1251	the pocket	POCKET	1851		bolsiom	bolsiom 
+585	32-6-61-2	722142360327637	Yaqui	yaqu1251	the pocket	POCKET	1851		boosam	boosam 
+586	32-6-62-1	722142730316505	Yaqui	yaqu1251	the button	BUTTON	757		booton	booton 
+587	32-6-63-1	72214258264536	Yaqui	yaqu1251	the pin	PIN	64		alpiler	alpiler 
+588	32-6-71-1	722142843373483	Yaqui	yaqu1251	the ornament or adornment	ORNAMENT	917		arorno	arorno 
+589	32-6-72-1	722142112512883	Yaqui	yaqu1251	the jewel	JEWEL	1029		jooyam	jooyam 
+590	32-6-73-1	722142573209112	Yaqui	yaqu1251	the ring	RING	1374		aniilio	aniilio 
+591	32-6-74-1	722142906126286	Yaqui	yaqu1251	the bracelet	BRACELET	1754		pulseera	pulseera 
+592	32-6-75-1	722142789452456	Yaqui	yaqu1251	the necklace	NECKLACE	1961		kooka	kooka 
+593	32-6-76-1	722142346896012	Yaqui	yaqu1251	the bead	BEAD	1860		kookam	kookam 
+594	32-6-77-1	722142483173944	Yaqui	yaqu1251	the earring	EARRING	770		reepam	reepam 
+595	32-6-78-1	722142746290844	Yaqui	yaqu1251	the headband or headdress	HEADBAND	330		tokila	tokila 
+596	32-6-81-1	722142756052269	Yaqui	yaqu1251	the handkerchief or rag	RAG	332		paayum	paayum 
+597	32-6-81-2	722142947853045	Yaqui	yaqu1251	the handkerchief or rag	RAG	332		tajo’orim	tajo’orim 
+598	32-6-82-1	722142531209186	Yaqui	yaqu1251	the towel	TOWEL	1021		toayam	toayam 
+599	32-6-91-1	722142858127109	Yaqui	yaqu1251	the comb	COMB	1475		chichikia	chichikia 
+600	32-6-92-1	722142778663413	Yaqui	yaqu1251	the brush	BRUSH	1821		sepio	sepio 
+601	32-6-921-1	722142657385818	Yaqui	yaqu1251	the plait/braid	BRAID	1043		bwassuma	bwassuma 
+602	32-6-93-1	722142358792852	Yaqui	yaqu1251	the razor	RAZOR	151		rajtiom	rajtiom 
+603	32-6-94-1	722142205134183	Yaqui	yaqu1251	the ointment	OINTMENT	1926		jittoa	jittoa 
+604	32-6-95-1	722142301121438	Yaqui	yaqu1251	the soap	SOAP	788		saabum	saabum 
+605	32-6-96-1	722142542659606	Yaqui	yaqu1251	the mirror	MIRROR	1171		ejpeeko	ejpeeko 
+606	32-7-11-1	722142414227443	Yaqui	yaqu1251	to live	DWELL (LIVE, RESIDE)	363		jo’ak	jo’ak 
+607	32-7-12-1	722142299016049	Yaqui	yaqu1251	the house	HOUSE	1252		kari	kari 
+608	32-7-13-1	72214265426276	Yaqui	yaqu1251	the hut	HUT	1678		ramaa	ramaa 
+609	32-7-131-1	722142571147547	Yaqui	yaqu1251	the garden-house	GARDEN-HOUSE	403		raanja	raanja 
+610	32-7-14-1	722142540476309	Yaqui	yaqu1251	the tent	TENT	1316		bepa’aria	bepa’aria 
+611	32-7-15-1	722142295798700	Yaqui	yaqu1251	the yard or court	YARD	736		kancha	kancha 
+612	32-7-17-1	722142103009035	Yaqui	yaqu1251	the cookhouse	COOKHOUSE	334		kosina	kosina 
+613	32-7-18-1	722142129408699	Yaqui	yaqu1251	the meeting house	MEETING HOUSE	335		auritoorio	auritoorio 
+614	32-7-18-2	722142419955915	Yaqui	yaqu1251	the meeting house	MEETING HOUSE	335		yaajiwa’apo	yaajiwa’apo 
+615	32-7-21-1	722142601851540	Yaqui	yaqu1251	the room	ROOM	1450		koato	koato 
+616	32-7-22-1	722142502925984	Yaqui	yaqu1251	the door or gate	DOOR	1567		pueta	pueta 
+617	32-7-221-1	722142726818647	Yaqui	yaqu1251	the doorpost	DOORPOST	80		marko	marko 
+618	32-7-221-2	722142423000774	Yaqui	yaqu1251	the doorpost	DOORPOST	80		pueta mayoa	pueta mayoa 
+619	32-7-23-1	722142513792555	Yaqui	yaqu1251	the lock	LOCK	1596		kanraom	kanraom 
+620	32-7-24-1	722142798566126	Yaqui	yaqu1251	the key	KEY	1472		yaabem	yaabem 
+621	32-7-25-1	722142783332602	Yaqui	yaqu1251	the window	WINDOW	1375		bentaana	bentaana 
+622	32-7-26-1	722142811917597	Yaqui	yaqu1251	the floor	FLOOR	1632		bwia	bwia 
+623	32-7-27-1	722142852445226	Yaqui	yaqu1251	the wall	WALL (OF HOUSE)	933		sapti	sapti 
+624	32-7-31-1	722142324837275	Yaqui	yaqu1251	the fireplace	FIREPLACE	185		orniam	orniam 
+625	32-7-32-1	722142833639832	Yaqui	yaqu1251	the stove	STOVE	859		joona	joona 
+626	32-7-33-1	722142471631923	Yaqui	yaqu1251	the chimney	CHIMNEY	1305		chimenea	chimenea 
+627	32-7-33-2	722142435275971	Yaqui	yaqu1251	the chimney	CHIMNEY	1305		jibwitwojo’oria	jibwitwojo’oria 
+628	32-7-42-1	722142435600056	Yaqui	yaqu1251	the bed	BED	1663		kaamam	kaamam 
+629	32-7-421-1	722142319215160	Yaqui	yaqu1251	the pillow	PILLOW	1044		muteka	muteka 
+630	32-7-422-1	722142612422973	Yaqui	yaqu1251	the blanket	BLANKET	806		piisam	piisam 
+631	32-7-43-1	722142485125035	Yaqui	yaqu1251	the chair	CHAIR	1476		banko (1)	banko (1) 
+632	32-7-44-1	722142952480189	Yaqui	yaqu1251	the table	TABLE	1775		meesa	meesa 
+633	32-7-45-1	722142478477904	Yaqui	yaqu1251	the lamp or torch	TORCH OR LAMP	2131		lampaa	lampaa 
+634	32-7-46-1	722142169050145	Yaqui	yaqu1251	the candle	CANDLE	1273		kanteelam	kanteelam 
+635	32-7-47-1	722142263560621	Yaqui	yaqu1251	the shelf	SHELF	745		repiisa	repiisa 
+636	32-7-48-1	722142660096389	Yaqui	yaqu1251	the trough	TROUGH	205		batea	batea 
+637	32-7-51-1	722142540476309	Yaqui	yaqu1251	the roof	ROOF	769		bepa’aria	bepa’aria 
+638	32-7-52-1	72214265426276	Yaqui	yaqu1251	the thatch	THATCH	279		ramaa	ramaa 
+639	32-7-54-1	722142969194815	Yaqui	yaqu1251	the rafter	RAFTER	829		biika	biika 
+640	32-7-55-1	722142969194815	Yaqui	yaqu1251	the beam	BEAM	1132		biika	biika 
+641	32-7-56-1	722142214040473	Yaqui	yaqu1251	the post or pole	POST	281		pojte (2)	pojte (2) 
+642	32-7-57-1	722142973110127	Yaqui	yaqu1251	the board	BOARD	1227		tappla	tappla 
+643	32-7-58-1	722142899633388	Yaqui	yaqu1251	the arch	ARCH	876		arko	arko 
+644	32-7-61-1	72214299813292	Yaqui	yaqu1251	the mason	MASON	877		albanyil	albanyil 
+645	32-7-62-1	722142878715206	Yaqui	yaqu1251	the brick	BRICK	1006		lakrio	lakrio 
+646	32-7-63-1	722142407673850	Yaqui	yaqu1251	the mortar(2)	MORTAR BINDER	1731		chu’aktiria	chu’aktiria 
+647	32-7-64-1	722142746373895	Yaqui	yaqu1251	the adobe	ADOBE	901		saami	saami 
+648	32-8-11-1	722142867803655	Yaqui	yaqu1251	the farmer	FARMER	979		rancheo	rancheo 
+649	32-8-12-1	722142597860483	Yaqui	yaqu1251	the field	FIELD	212		wajo’ori	wajo’ori 
+650	32-8-13-1	722142211370329	Yaqui	yaqu1251	the garden	GARDEN	586		echimu	echimu 
+651	32-8-15-1	722142368403394	Yaqui	yaqu1251	to cultivate	CULTIVATE	1541		eecha	eecha 
+652	32-8-16-1	722142212449156	Yaqui	yaqu1251	the fence	FENCE	1690		kora	kora 
+653	32-8-17-1	722142644032532	Yaqui	yaqu1251	the ditch	DITCH	2002		sanja	sanja 
+654	32-8-21-1	722142350127085	Yaqui	yaqu1251	to plough/plow	PLOUGH	1921		mo’ite	mo’ite 
+655	32-8-212-1	722142945557466	Yaqui	yaqu1251	the furrow	FURROW	1794		suuko	suuko 
+656	32-8-22-1	722142586869161	Yaqui	yaqu1251	to dig	DIG	1418		ji’ibweje	ji’ibweje 
+657	32-8-23-1	722142600247050	Yaqui	yaqu1251	the spade	SPADE	1176		wojo’oria	wojo’oria 
+658	32-8-24-1	722142833268005	Yaqui	yaqu1251	the shovel	SHOVEL	1901		paalam	paalam 
+659	32-8-25-1	722142382859326	Yaqui	yaqu1251	the hoe	HOE	284		asaroonim	asaroonim 
+660	32-8-26-1	722142821075766	Yaqui	yaqu1251	the fork(2)/pitchfork	PITCHFORK	337		orkeetam	orkeetam 
+661	32-8-26-2	722142283238235	Yaqui	yaqu1251	the fork(2)/pitchfork	PITCHFORK	337		orkiam	orkiam 
+662	32-8-27-1	722142358792852	Yaqui	yaqu1251	the rake	RAKE	338		rajtiom	rajtiom 
+663	32-8-31-1	722142368403394	Yaqui	yaqu1251	to sow	SOW SEEDS	748		eecha	eecha 
+664	32-8-311-1	722142500728330	Yaqui	yaqu1251	the seed	SEED	714		bachia	bachia 
+665	32-8-32-1	722142524652512	Yaqui	yaqu1251	to mow	MOW	190		jipesuma	jipesuma 
+666	32-8-33-1	722142407214418	Yaqui	yaqu1251	the sickle or scythe	SICKLE OR SCYTHE	2132		oosam	oosam 
+667	32-8-34-1	722142392403674	Yaqui	yaqu1251	to thresh	THRESH	285		jichiwe	jichiwe 
+668	32-8-35-1	722142821635312	Yaqui	yaqu1251	the threshing-floor	THRESHING-FLOOR	223		alajea	alajea 
+669	32-8-41-1	722142180722815	Yaqui	yaqu1251	the harvest	HARVEST	611		jipesuma’i	jipesuma’i 
+670	32-8-42-1	722142500728330	Yaqui	yaqu1251	the grain	GRAIN	605		bachia	bachia 
+671	32-8-43-1	722142303333196	Yaqui	yaqu1251	the wheat	WHEAT	1077		tiikom	tiikom 
+672	32-8-44-1	722142751617251	Yaqui	yaqu1251	the barley	BARLEY	932		sebaara	sebaara 
+673	32-8-46-1	722142879390589	Yaqui	yaqu1251	the oats	OAT	60		abeena	abeena 
+674	32-8-47-1	72214233591989	Yaqui	yaqu1251	the maize/corn	MAIZE	506		bachi	bachi 
+675	32-8-48-1	722142596573483	Yaqui	yaqu1251	the rice	RICE	926		arosim	arosim 
+676	32-8-51-1	72214259998888	Yaqui	yaqu1251	the grass	GRASS	606		baso	baso 
+677	32-8-52-1	72214259998888	Yaqui	yaqu1251	the hay	HAY	342		baso	baso 
+678	32-8-53-1	722142681832223	Yaqui	yaqu1251	the plant	PLANT (VEGETATION)	653		juya	juya 
+679	32-8-531-1	722142368403394	Yaqui	yaqu1251	to plant	PLANT (SOMETHING)	1486		eecha	eecha 
+680	32-8-54-1	722142346095212	Yaqui	yaqu1251	the root	ROOT	670		naawa	naawa 
+681	32-8-55-1	722142288384722	Yaqui	yaqu1251	the branch	BRANCH OR TWIG	3223		buja	buja 
+682	32-8-56-1	722142497006300	Yaqui	yaqu1251	the leaf	LEAF	628		saawa	saawa 
+683	32-8-57-1	72214267588021	Yaqui	yaqu1251	the flower	FLOWER	239		seewa	seewa 
+684	32-8-6-1	722142681832223	Yaqui	yaqu1251	the tree	TREE	906		juya	juya 
+685	32-8-62-1	722142276239767	Yaqui	yaqu1251	the beech	BEECH	1950		oko taaka	oko taaka 
+686	32-8-64-1	722142872767133	Yaqui	yaqu1251	the pine	PINE	1740		oko	oko 
+687	32-8-64-2	722142245865931	Yaqui	yaqu1251	the pine	PINE	1740		piino	piino 
+688	32-8-67-1	722142677686912	Yaqui	yaqu1251	the vine	VINE	343		wiroa	wiroa 
+689	32-8-68-1	722142390778858	Yaqui	yaqu1251	the tobacco	TOBACCO	974		biiba	biiba 
+690	32-8-69-1	722142262765669	Yaqui	yaqu1251	to smoke	SMOKE (INHALE)	1689		yena	yena 
+691	32-8-691-1	722142149112654	Yaqui	yaqu1251	the pipe	PIPE	1124		piipa	piipa 
+692	32-8-691-2	722142536859490	Yaqui	yaqu1251	the pipe	PIPE	1124		ama yeyenwame	ama yeyenwame 
+693	32-8-72-1	722142346095212	Yaqui	yaqu1251	the tree stump	TREE STUMP	241		naawa	naawa 
+694	32-8-73-1	722142346095212	Yaqui	yaqu1251	the tree trunk	TREE TRUNK	344		naawa	naawa 
+695	32-8-74-1	72214230682734	Yaqui	yaqu1251	the forked branch	FORKED BRANCH	409		nassa’akaria	nassa’akaria 
+696	32-8-74-2	72214261489689	Yaqui	yaqu1251	the forked branch	FORKED BRANCH	409		taka’aria	taka’aria 
+697	32-8-75-1	722142369590112	Yaqui	yaqu1251	the bark	BARK	1204		beea	beea 
+698	32-8-76-1	722142670635093	Yaqui	yaqu1251	the sap	SAP	345		juya ba’a	juya ba’a 
+699	32-8-81-1	722142504903228	Yaqui	yaqu1251	the palm tree	PALM TREE	1181		tako	tako 
+700	32-8-82-1	722142826965471	Yaqui	yaqu1251	the coconut	COCONUT	970		kooko	kooko 
+701	32-8-83-1	722142164014082	Yaqui	yaqu1251	the citrus fruit	CITRUS FRUIT	1126		sittriko	sittriko 
+702	32-8-84-1	722142924740950	Yaqui	yaqu1251	the banana	BANANA	868		laatano ~ plaatano	laatano ~ plaatano 
+703	32-8-91-1	722142293259490	Yaqui	yaqu1251	the sweet potato	SWEET POTATO	159		kamoote	kamoote 
+704	32-8-93-1	722142980348587	Yaqui	yaqu1251	the gourd	GOURD	411		aokos	aokos 
+705	32-8-93-2	722142978993129	Yaqui	yaqu1251	the gourd	GOURD	411		arokosi	arokosi 
+706	32-8-931-1	722142663638354	Yaqui	yaqu1251	the pumpkin or squash	PUMPKIN	864		kama	kama 
+707	32-8-94-1	722142602000551	Yaqui	yaqu1251	the bamboo	BAMBOO	1927		bakao	bakao 
+708	32-8-941-1	722142887118815	Yaqui	yaqu1251	the sugar cane	SUGAR CANE	146		asuka	asuka 
+709	32-8-941-2	722142380701687	Yaqui	yaqu1251	the sugar cane	SUGAR CANE	146		yoisana	yoisana 
+710	32-8-96-1	722142374242585	Yaqui	yaqu1251	the fish poison	FISH POISON	348		joyo	joyo 
+711	32-8-96-2	722142906518042	Yaqui	yaqu1251	the fish poison	FISH POISON	348		pajti	pajti 
+712	32-8-97-1	722142598063972	Yaqui	yaqu1251	the nettle	NETTLE	33		wicha	wicha 
+713	32-8-98-1	722142625113590	Yaqui	yaqu1251	the mushroom	MUSHROOM	641		burusiisi	burusiisi 
+714	32-9-11-1	722142559024224	Yaqui	yaqu1251	to do	DO	813		jooa	jooa 
+715	32-9-12-1	722142137596372	Yaqui	yaqu1251	the work	WORK (LABOUR)	984		tekipanoa	tekipanoa 
+716	32-9-14-1	722142753762696	Yaqui	yaqu1251	to bend	BEND	2004		po’olachaya	po’olachaya 
+717	32-9-14-2	722142984022933	Yaqui	yaqu1251	to bend	BEND	2004		po’olacha’atu	po’olacha’atu 
+718	32-9-15-1	722142703922637	Yaqui	yaqu1251	to fold	FOLD	1470		totta	totta 
+719	32-9-16-1	722142171127699	Yaqui	yaqu1251	to tie	TIE	1917		suma	suma 
+720	32-9-161-1	72214274575732	Yaqui	yaqu1251	to untie	UNTIE	352		butta	butta 
+721	32-9-18-1	722142681060315	Yaqui	yaqu1251	the chain	CHAIN	1627		karenam	karenam 
+722	32-9-19-1	722142391337353	Yaqui	yaqu1251	the rope	ROPE	1218		wikia	wikia 
+723	32-9-192-1	722142397946865	Yaqui	yaqu1251	the knot	KNOT	760		tenko’i	tenko’i 
+724	32-9-21-1	72214274854671	Yaqui	yaqu1251	to strike or hit or beat	STRIKE OR BEAT	2133		beba	beba 
+725	32-9-211-1	722142643784516	Yaqui	yaqu1251	to pound	POUND	354		tutuse	tutuse 
+726	32-9-22-1	722142439116833	Yaqui	yaqu1251	to cut	CUT	1432		chukta	chukta 
+727	32-9-221-1	722142947842536	Yaqui	yaqu1251	to cut down	CUT DOWN	355		tatabe	tatabe 
+728	32-9-222-1	722142439116833	Yaqui	yaqu1251	to chop	CHOP	155		chukta	chukta 
+729	32-9-223-1	722142638145764	Yaqui	yaqu1251	to stab	STAB TO DEATH	3189		soa	soa 
+730	32-9-223-2	722142926803153	Yaqui	yaqu1251	to stab	STAB TO DEATH	3189		kuchi’isoa	kuchi’isoa 
+731	32-9-23-1	72214248208163	Yaqui	yaqu1251	the knife(2)	KNIFE	1352		kuchi’im	kuchi’im 
+732	32-9-24-1	722142419391191	Yaqui	yaqu1251	the scissors or shears	SHEARS	356		chaptiam	chaptiam 
+733	32-9-25-1	722142983282669	Yaqui	yaqu1251	the axe/ax	AXE	677		tepuam	tepuam 
+734	32-9-26-1	722142746496389	Yaqui	yaqu1251	to break	BREAK (DESTROY OR GET DESTROYED)	680		jamte	jamte 
+735	32-9-26-2	722142489208791	Yaqui	yaqu1251	to break	BREAK (DESTROY OR GET DESTROYED)	680		jamta	jamta 
+736	32-9-261-1	722142914156701	Yaqui	yaqu1251	broken	BROKEN (NOT WORKING)	3190		jamtila	jamtila 
+737	32-9-27-1	722142439116833	Yaqui	yaqu1251	to split	SPLIT	1437		chukta	chukta 
+738	32-9-28-1	722142899795696	Yaqui	yaqu1251	to tear	TEAR (SHRED)	1735		siuta	siuta 
+739	32-9-83-1	722142154371677	Yaqui	yaqu1251	the statue	STATUE	1002		ejtaatua	ejtaatua 
+740	32-9-29-1	722142581031231	Yaqui	yaqu1251	to skin	PULL OFF (SKIN)	291		beayecha	beayecha 
+741	32-9-31-1	722142524302259	Yaqui	yaqu1251	to rub	RUB	1449		ruuse	ruuse 
+742	32-9-32-1	722142668049393	Yaqui	yaqu1251	to stretch	STRETCH	214		sunte	sunte 
+743	32-9-32-2	72214234594613	Yaqui	yaqu1251	to stretch	STRETCH	214		sunta	sunta 
+744	32-9-33-1	722142696049991	Yaqui	yaqu1251	to pull	PULL	1455		wike	wike 
+745	32-9-34-1	722142373997348	Yaqui	yaqu1251	to spread out	SPREAD OUT	38		na’ikimte	na’ikimte 
+746	32-9-341-1	722142902118815	Yaqui	yaqu1251	to hang up	HANG UP	357		chaya	chaya 
+747	32-9-342-1	72214259062352	Yaqui	yaqu1251	to press	PRESS	1913		kutta	kutta 
+748	32-9-343-1	722142950732351	Yaqui	yaqu1251	to squeeze	SQUEEZE	1414		piike	piike 
+749	32-9-35-1	722142395482119	Yaqui	yaqu1251	to pour	POUR	1487		yeu wo’ota	yeu wo’ota 
+750	32-9-36-1	72214267237869	Yaqui	yaqu1251	to wash	WASH	1453		baksia	baksia 
+751	32-9-37-1	722142128399607	Yaqui	yaqu1251	to sweep	SWEEP	230		jichike	jichike 
+752	32-9-38-1	722142268790821	Yaqui	yaqu1251	the broom	BROOM	245		jichikia	jichikia 
+753	32-9-422-1	722142658146953	Yaqui	yaqu1251	the tool	TOOL	1361		eramienta	eramienta 
+754	32-9-422-2	722142791435932	Yaqui	yaqu1251	the tool	TOOL	1361		sisi’iwoochi	sisi’iwoochi 
+755	32-9-43-1	722142566824232	Yaqui	yaqu1251	the carpenter	CARPENTER	1042		kapinteo	kapinteo 
+756	32-9-44-1	722142887921290	Yaqui	yaqu1251	to build	BUILD	1840		kaate (1)	kaate (1) 
+757	32-9-46-1	722142682675254	Yaqui	yaqu1251	to bore	BORE	1501		wojokta	wojokta 
+758	32-9-461-1	72214257558497	Yaqui	yaqu1251	to hollow out	HOLLOW OUT	46		bwekaate	bwekaate 
+759	32-9-48-1	722142931310194	Yaqui	yaqu1251	the saw	SAW	1948		seruuchom	seruuchom 
+760	32-9-49-1	722142742108385	Yaqui	yaqu1251	the hammer	HAMMER	1481		martiom	martiom 
+761	32-9-5-1	722142714783429	Yaqui	yaqu1251	the nail	NAIL (TOOL)	502		laabos	laabos 
+762	32-9-56-1	722142407673850	Yaqui	yaqu1251	the glue	GLUE	1069		chu’aktiria	chu’aktiria 
+763	32-9-6-1	722142550256897	Yaqui	yaqu1251	the blacksmith	BLACKSMITH	1001		ereo	ereo 
+764	32-9-61-1	722142833639832	Yaqui	yaqu1251	to forge	FORGE	288		joona	joona 
+765	32-9-63-1	722142794413414	Yaqui	yaqu1251	to cast	CAST	211		pundiaroa	pundiaroa 
+766	32-9-64-1	722142766231768	Yaqui	yaqu1251	the gold	GOLD	1369		ooro	ooro 
+767	32-9-65-1	722142125955179	Yaqui	yaqu1251	the silver	SILVER	759		laata ~ plaata	laata ~ plaata 
+768	32-9-66-1	722142982741361	Yaqui	yaqu1251	the copper	COPPER	1825		koppre	koppre 
+769	32-9-66-2	72214286207579	Yaqui	yaqu1251	the copper	COPPER	1825		ronse	ronse 
+770	32-9-67-1	722142658137873	Yaqui	yaqu1251	the iron	IRON	621		sisi’iwoki	sisi’iwoki 
+771	32-9-68-1	72214280469881	Yaqui	yaqu1251	the lead	LEAD (CHEMICAL ELEMENT)	627		ploomo	ploomo 
+772	32-9-69-1	722142991370316	Yaqui	yaqu1251	the tin or tinplate	TIN OR TINPLATE	3217		ejtanyo	ejtanyo 
+773	32-9-71-1	722142556807048	Yaqui	yaqu1251	the potter	POTTER	359		alpareo	alpareo 
+774	32-9-72-1	722142559024224	Yaqui	yaqu1251	to mould/mold	MOLD	289		jooa	jooa 
+775	32-9-73-1	722142293444374	Yaqui	yaqu1251	the clay	CLAY	1399		baabu	baabu 
+776	32-9-74-1	722142943873617	Yaqui	yaqu1251	the glass	GLASS	604		limeete	limeete 
+777	32-9-75-1	722142657385818	Yaqui	yaqu1251	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		bwassuma	bwassuma 
+778	32-9-75-2	72214250269234	Yaqui	yaqu1251	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		ji’ika	ji’ika 
+779	32-9-76-1	722142184987609	Yaqui	yaqu1251	the basket	BASKET	1539		waari	waari 
+780	32-9-77-1	722142548577517	Yaqui	yaqu1251	the mat	MAT	195		jipetam	jipetam 
+781	32-9-78-1	722142365831829	Yaqui	yaqu1251	the netbag	NETBAG	293		maayam boosa	maayam boosa 
+782	32-9-79-1	722142768983687	Yaqui	yaqu1251	the fan	FAN (OBJECT)	1971		abaniiko	abaniiko 
+783	32-9-791-1	722142207664046	Yaqui	yaqu1251	to fan	FAN ACTION	360		abanikaroa	abanikaroa 
+784	32-9-791-2	722142209232325	Yaqui	yaqu1251	to fan	FAN ACTION	360		baijekta	baijekta 
+785	32-9-81-1	722142748142153	Yaqui	yaqu1251	to carve	CARVE	228		ejkulpiaroa	ejkulpiaroa 
+786	32-9-82-1	722142549727157	Yaqui	yaqu1251	the sculptor	SCULPTOR	914		ejkultoor	ejkultoor 
+787	32-9-84-1	722142299162443	Yaqui	yaqu1251	the chisel	CHISEL	1979		ponchumu’uria	ponchumu’uria 
+788	32-9-88-1	722142802595869	Yaqui	yaqu1251	the paint	PAINT (PIGMENTS)	647		yokia	yokia 
+789	32-9-89-1	722142842301048	Yaqui	yaqu1251	to paint	PAINTING	2001		yoka	yoka 
+790	32-10-11-1	722142138200624	Yaqui	yaqu1251	to move	MOVE	765		rukta	rukta 
+791	32-10-11-2	722142255721078	Yaqui	yaqu1251	to move	MOVE	765		mobeiaroa	mobeiaroa 
+792	32-10-12-1	72214279835022	Yaqui	yaqu1251	to turn	TURN	1588		kuakte	kuakte 
+793	32-10-13-1	722142517996070	Yaqui	yaqu1251	to turn around	TURN (SOMETHING)	1445		kuakta	kuakta 
+794	32-10-14-1	722142301657975	Yaqui	yaqu1251	to wrap	WRAP	1113		bi’ita	bi’ita 
+795	32-10-15-1	722142665990896	Yaqui	yaqu1251	to roll	ROLL	827		biakta	biakta 
+796	32-10-16-1	72214229534962	Yaqui	yaqu1251	to drop	DROP (SOMETHING)	2866		kom tatabe	kom tatabe 
+797	32-10-17-1	722142703922637	Yaqui	yaqu1251	to twist	TWIST (AROUND)	3199		totta	totta 
+798	32-10-21-1	722142472115081	Yaqui	yaqu1251	to rise	RISE (MOVE UPWARDS)	568		ja’amu	ja’amu 
+799	32-10-22-1	722142534841775	Yaqui	yaqu1251	to raise or lift	LIFT	501		pu’akta	pu’akta 
+800	32-10-23-1	722142596024144	Yaqui	yaqu1251	to fall	FALL	1280		kom weche	kom weche 
+801	32-10-24-1	722142689651033	Yaqui	yaqu1251	to drip	DRIP (EMIT LIQUID)	2253		chakte	chakte 
+802	32-10-25-1	722142345106001	Yaqui	yaqu1251	to throw	THROW	1456		jimaa	jimaa 
+803	32-10-252-1	722142936842317	Yaqui	yaqu1251	to catch	CATCH	702		bwise	bwise 
+804	32-10-26-1	722142953756862	Yaqui	yaqu1251	to shake	SHAKE	1909		tatake	tatake 
+805	32-10-32-1	722142468259614	Yaqui	yaqu1251	to flow	FLOW	2003		bwite	bwite 
+806	32-10-33-1	722142790521995	Yaqui	yaqu1251	to sink	SINK (DESCEND)	1088		ba’apo kom siime	ba’apo kom siime 
+807	32-10-33-2	722142971920440	Yaqui	yaqu1251	to sink	SINK (DESCEND)	1088		ba’a kom simtua	ba’a kom simtua 
+808	32-10-34-1	722142925039575	Yaqui	yaqu1251	to float	FLOAT	1574		ba’apo cha’asisime	ba’apo cha’asisime 
+809	32-10-35-1	722142620261525	Yaqui	yaqu1251	to swim	SWIM	1439		bajume	bajume 
+810	32-10-351-1	722142731850886	Yaqui	yaqu1251	to dive	DIVE	119		ropte	ropte 
+811	32-10-352-1	722142516955472	Yaqui	yaqu1251	to splash	SPLASH	365		chijakte	chijakte 
+812	32-10-352-2	722142986603782	Yaqui	yaqu1251	to splash	SPLASH	365		chijakta	chijakta 
+813	32-10-36-1	722142531698108	Yaqui	yaqu1251	to sail	SAIL	787		ba’ajoa	ba’ajoa 
+814	32-10-37-1	722142549495649	Yaqui	yaqu1251	to fly	FLY (MOVE THROUGH AIR)	1441		ne’e	ne’e 
+815	32-10-38-1	722142801282954	Yaqui	yaqu1251	to blow	BLOW (OF WIND)	175		pujta	pujta 
+816	32-10-38-2	722142701737725	Yaqui	yaqu1251	to blow	BLOW (OF WIND)	175		pujte	pujte 
+817	32-10-41-1	722142798023735	Yaqui	yaqu1251	to crawl	CRAWL	96		waka’ate	waka’ate 
+818	32-10-412-1	722142525570046	Yaqui	yaqu1251	to kneel	KNEEL	66		tonommea kikte	tonommea kikte 
+819	32-10-412-2	722142986408028	Yaqui	yaqu1251	to kneel	KNEEL	66		tonommea japte	tonommea japte 
+820	32-10-413-1	722142483679949	Yaqui	yaqu1251	to crouch	CROUCH	296		po’okte	po’okte 
+821	32-10-42-1	722142805642370	Yaqui	yaqu1251	to slide or slip	SLIP	1324		suulu	suulu 
+822	32-10-43-1	722142408250707	Yaqui	yaqu1251	to jump	JUMP	1829		tubukte	tubukte 
+823	32-10-43-2	722142811203243	Yaqui	yaqu1251	to jump	JUMP	1829		chepte	chepte 
+824	32-10-431-1	722142681726635	Yaqui	yaqu1251	to kick	KICK	1135		tetemu	tetemu 
+825	32-10-44-1	722142190433474	Yaqui	yaqu1251	to dance	DANCE	1879		ye’e	ye’e 
+826	32-10-45-1	722142724309289	Yaqui	yaqu1251	to walk	WALK	1443		weye	weye 
+827	32-10-45-2	722142726198214	Yaqui	yaqu1251	to walk	WALK	1443		kaate (2)	kaate (2) 
+828	32-10-451-1	722142636712594	Yaqui	yaqu1251	to limp	LIMP	366		ro’ite	ro’ite 
+829	32-10-46-1	722142468259614	Yaqui	yaqu1251	to run	RUN	1519		bwite	bwite 
+830	32-10-46-2	722142903368308	Yaqui	yaqu1251	to run	RUN	1519		tenne	tenne 
+831	32-10-47-1	722142799420282	Yaqui	yaqu1251	to go	GO	695		siika	siika 
+832	32-10-471-1	722142472115081	Yaqui	yaqu1251	to go up	GO UP (ASCEND)	705		ja’amu	ja’amu 
+833	32-10-472-1	722142472115081	Yaqui	yaqu1251	to climb	CLIMB	1102		ja’amu	ja’amu 
+834	32-10-473-1	722142900451208	Yaqui	yaqu1251	to go down	GO DOWN (DESCEND)	2014		kom yecha	kom yecha 
+835	32-10-473-2	72214298549655	Yaqui	yaqu1251	to go down	GO DOWN (DESCEND)	2014		kom joa	kom joa 
+836	32-10-474-1	722142249616520	Yaqui	yaqu1251	to go out	GO OUT	1107		yeu weye	yeu weye 
+837	32-10-474-2	722142493630430	Yaqui	yaqu1251	to go out	GO OUT	1107		yeu siime	yeu siime 
+838	32-10-48-1	722142775199828	Yaqui	yaqu1251	to come	COME	1446		a’abo weye	a’abo weye 
+839	32-10-481-1	722142593965045	Yaqui	yaqu1251	to come back	COME BACK	581		notte	notte 
+840	32-10-49-1	722142168274977	Yaqui	yaqu1251	to leave	LEAVE	1752		si’ime (1)	si’ime (1) 
+841	32-10-491-1	722142244720668	Yaqui	yaqu1251	to disappear	DISAPPEAR	485		lu’ute	lu’ute 
+842	32-10-51-1	722142468259614	Yaqui	yaqu1251	to flee	FLEE	956		bwite	bwite 
+843	32-10-52-1	722142628912526	Yaqui	yaqu1251	to follow	FOLLOW	1085		jajase	jajase 
+844	32-10-53-1	722142628912526	Yaqui	yaqu1251	to pursue	PURSUE	1047		jajase	jajase 
+845	32-10-55-1	722142278405947	Yaqui	yaqu1251	to arrive	ARRIVE	1387		jajame	jajame 
+846	32-10-56-1	722142443070431	Yaqui	yaqu1251	to approach	APPROACH	1778		rukte	rukte 
+847	32-10-56-2	722142138200624	Yaqui	yaqu1251	to approach	APPROACH	1778		rukta	rukta 
+848	32-10-57-1	722142782083897	Yaqui	yaqu1251	to enter	ENTER	749		kibake	kibake 
+849	32-10-61-1	722142642150264	Yaqui	yaqu1251	to carry	CARRY	700		weiya	weiya 
+850	32-10-612-1	722142848756546	Yaqui	yaqu1251	to carry in hand	CARRY IN HAND	412		machu’ute	machu’ute 
+851	32-10-613-1	722142643551133	Yaqui	yaqu1251	to carry on shoulder	CARRY ON SHOULDER	413		pu’akte	pu’akte 
+852	32-10-614-1	722142203614935	Yaqui	yaqu1251	to carry on head	CARRY ON HEAD	414		mobe’ete	mobe’ete 
+853	32-10-615-1	722142597346939	Yaqui	yaqu1251	to carry under the arm	CARRY UNDER ARM	415		sekawaasime	sekawaasime 
+854	32-10-62-1	722142823247441	Yaqui	yaqu1251	to bring	BRING	692		nu’upa	nu’upa 
+855	32-10-63-1	722142466875395	Yaqui	yaqu1251	to send	SEND	1127		bittua	bittua 
+856	32-10-64-1	722142379722849	Yaqui	yaqu1251	to lead	LEAD (GUIDE)	43		bo’otoja	bo’otoja 
+857	32-10-65-1	722142503675843	Yaqui	yaqu1251	to drive	DRIVE	741		weetua	weetua 
+858	32-10-66-1	722142272579531	Yaqui	yaqu1251	to ride	RIDE	367		kaba’ite	kaba’ite 
+859	32-10-66-2	722142551615019	Yaqui	yaqu1251	to ride	RIDE	367		choopo	choopo 
+860	32-10-67-1	722142945045896	Yaqui	yaqu1251	to push	PUSH	1452		yu’a	yu’a 
+861	32-10-71-1	722142397102693	Yaqui	yaqu1251	the road	ROAD	667		kareteera	kareteera 
+862	32-10-72-1	722142975150657	Yaqui	yaqu1251	the path	PATH	2252		boo’o	boo’o 
+863	32-10-74-1	722142793028763	Yaqui	yaqu1251	the bridge	BRIDGE	1011		puentes	puentes 
+864	32-10-75-1	722142382187679	Yaqui	yaqu1251	the cart or wagon	CART	122		kareeta	kareeta 
+865	32-10-76-1	722142492253900	Yaqui	yaqu1251	the wheel	WHEEL	710		rueram	rueram 
+866	32-10-77-1	722142137014266	Yaqui	yaqu1251	the axle	AXLE	1769		eeje	eeje 
+867	32-10-78-1	72214270438593	Yaqui	yaqu1251	the yoke	YOKE	14		tenko’oria	tenko’oria 
+868	32-10-81-1	722142356816884	Yaqui	yaqu1251	the ship	SHIP	740		bajut	bajut 
+869	32-10-81-2	722142622962925	Yaqui	yaqu1251	the ship	SHIP	740		barko	barko 
+870	32-10-83-1	722142356816884	Yaqui	yaqu1251	the boat	BOAT	1844		bajut	bajut 
+871	32-10-83-2	722142253061382	Yaqui	yaqu1251	the boat	BOAT	1844		boote	boote 
+872	32-10-831-1	722142356816884	Yaqui	yaqu1251	the canoe	CANOE	1970		bajut	bajut 
+873	32-10-831-2	722142628296552	Yaqui	yaqu1251	the canoe	CANOE	1970		kanoa	kanoa 
+874	32-10-832-1	722142514491181	Yaqui	yaqu1251	the outrigger	OUTRIGGER	416		batanka	batanka 
+875	32-10-84-1	722142356816884	Yaqui	yaqu1251	the raft	RAFT	1664		bajut	bajut 
+876	32-10-85-1	722142520387039	Yaqui	yaqu1251	the oar	RUDDER	108		reemom	reemom 
+877	32-10-851-1	722142327352887	Yaqui	yaqu1251	the paddle	PADDLE	234		ilitchi reemom	ilitchi reemom 
+878	32-10-852-1	722142606674931	Yaqui	yaqu1251	to row	ROW	1849		remaroa	remaroa 
+879	32-10-86-1	722142307447813	Yaqui	yaqu1251	the rudder	RUDDER	108		tiimon	tiimon 
+880	32-10-87-1	722142635179051	Yaqui	yaqu1251	the mast	MAST	184		majtil	majtil 
+881	32-10-88-1	722142647206622	Yaqui	yaqu1251	the sail	SAILCLOTH	786		beelam	beelam 
+882	32-10-89-1	722142322799660	Yaqui	yaqu1251	the anchor	ANCHOR	1870		amklam	amklam 
+883	32-10-91-1	722142226523363	Yaqui	yaqu1251	the port	PORT	610		pueto	pueto 
+884	32-10-92-1	722142279349963	Yaqui	yaqu1251	to land	LAND (DESCEND)	1922		resembarkaroa	resembarkaroa 
+885	32-11-11-1	722142115981174	Yaqui	yaqu1251	to have	HAVE	773		jippue	jippue 
+886	32-11-12-1	722142115981174	Yaqui	yaqu1251	to own	OWN	684		jippue	jippue 
+887	32-11-13-1	72214287403793	Yaqui	yaqu1251	to take	TAKE	1749		nu’e	nu’e 
+888	32-11-14-1	722142515998417	Yaqui	yaqu1251	to grasp	SEIZE	855		bwisi	bwisi 
+889	32-11-15-1	722142115981174	Yaqui	yaqu1251	to hold	HOLD	1448		jippue	jippue 
+890	32-11-15-2	722142848756546	Yaqui	yaqu1251	to hold	HOLD	1448		machu’ute	machu’ute 
+891	32-11-16-1	722142935557235	Yaqui	yaqu1251	to get	GET	694		nu’uka	nu’uka 
+892	32-11-17-1	722142115981174	Yaqui	yaqu1251	to keep	KEEP	1477		jippue	jippue 
+893	32-11-18-1	72214257717114	Yaqui	yaqu1251	the thing	THING	738		jita	jita 
+894	32-11-21-1	722142326829472	Yaqui	yaqu1251	to give	GIVE	1447		maka	maka 
+895	32-11-22-1	722142419018144	Yaqui	yaqu1251	to give back	GIVE BACK	85		notta	notta 
+896	32-11-24-1	722142386926691	Yaqui	yaqu1251	to preserve	PRESERVE	1997		ania (2)	ania (2) 
+897	32-11-25-1	722142386926691	Yaqui	yaqu1251	to rescue	RESCUE	2008		ania (2)	ania (2) 
+898	32-11-25-2	72214215629895	Yaqui	yaqu1251	to rescue	RESCUE	2008		salbaroa	salbaroa 
+899	32-11-27-1	72214239590509	Yaqui	yaqu1251	to destroy	DESTROY	681		mojakta	mojakta 
+900	32-11-28-1	722142248794711	Yaqui	yaqu1251	to injure	INJURE	44		ko’okosi yaa	ko’okosi yaa 
+901	32-11-31-1	722142158022371	Yaqui	yaqu1251	to look for	LOOK FOR	1468		jariwa	jariwa 
+902	32-11-32-1	722142277866508	Yaqui	yaqu1251	to find	FIND	719		tea	tea 
+903	32-11-33-1	722142237065565	Yaqui	yaqu1251	to lose	LOSE	1660		ta’aru	ta’aru 
+904	32-11-34-1	722142997791946	Yaqui	yaqu1251	to let go	LET GO OR SET FREE	1095		su’utoja	su’utoja 
+905	32-11-43-1	722142668154646	Yaqui	yaqu1251	the money	MONEY	1559		tomi	tomi 
+906	32-11-44-1	722142668154646	Yaqui	yaqu1251	the coin	COIN	1867		tomi	tomi 
+907	32-11-51-1	722142199616769	Yaqui	yaqu1251	rich	RICH	712		tomekame	tomekame 
+908	32-11-52-1	72214235194196	Yaqui	yaqu1251	poor	POOR	1674		poloobe	poloobe 
+909	32-11-53-1	722142346576117	Yaqui	yaqu1251	the beggar	BEGGAR	1934		poobe	poobe 
+910	32-11-54-1	722142498741626	Yaqui	yaqu1251	stingy	STINGY	1774		emo jiokoera	emo jiokoera 
+911	32-11-61-1	722142942684334	Yaqui	yaqu1251	to lend	LEND	582		reuwa	reuwa 
+912	32-11-62-1	722142850431870	Yaqui	yaqu1251	to borrow	BORROW	1823		rewe	rewe 
+913	32-11-63-1	722142573431623	Yaqui	yaqu1251	to owe	OWE	369		wikiria	wikiria 
+914	32-11-64-1	722142587855364	Yaqui	yaqu1251	the debt	DEBT	1914		wikiriawame	wikiriawame 
+915	32-11-65-1	722142809575573	Yaqui	yaqu1251	to pay	PAY	718		beje’etua	beje’etua 
+916	32-11-66-1	722142413028614	Yaqui	yaqu1251	the bill	BILL	1081		kueenta	kueenta 
+917	32-11-69-1	722142187814571	Yaqui	yaqu1251	the tax	TAX	873		impuejtom	impuejtom 
+918	32-11-77-1	722142396349750	Yaqui	yaqu1251	to hire	HIRE	856		takea	takea 
+919	32-11-78-1	722142762634091	Yaqui	yaqu1251	the wages	WAGES	1122		tomiyo’ori	tomiyo’ori 
+920	32-11-79-1	722142444564101	Yaqui	yaqu1251	to earn	EARN	733		yo’o	yo’o 
+921	32-11-81-1	722142931983037	Yaqui	yaqu1251	to buy	BUY	1869		jinu	jinu 
+922	32-11-82-1	722142349462349	Yaqui	yaqu1251	to sell	SELL	1571		nenka	nenka 
+923	32-11-83-1	722142191631160	Yaqui	yaqu1251	to trade or barter	TRADE OR BARTER	2135		nakulia	nakulia 
+924	32-11-84-1	722142326313866	Yaqui	yaqu1251	the merchant	MERCHANT	1082		jita nenenkame	jita nenenkame 
+925	32-11-85-1	722142771609209	Yaqui	yaqu1251	the market	MARKET	633		jita nenenkiwa’apo	jita nenenkiwa’apo 
+926	32-11-85-2	722142615162896	Yaqui	yaqu1251	the market	MARKET	633		merkao	merkao 
+927	32-11-86-1	722142925223568	Yaqui	yaqu1251	the shop/store	STORE	752		tienra	tienra 
+928	32-11-87-1	722142125331837	Yaqui	yaqu1251	the price	PRICE	657		beje’ewa	beje’ewa 
+929	32-11-88-1	722142623949046	Yaqui	yaqu1251	expensive	EXPENSIVE	1426		beje’e	beje’e 
+930	32-11-89-1	72214279002347	Yaqui	yaqu1251	cheap	CHEAP	1887		kaa beje’e	kaa beje’e 
+931	32-11-91-1	722142373997348	Yaqui	yaqu1251	to share	SHARE	884		na’ikimte	na’ikimte 
+932	32-11-92-1	72214252512198	Yaqui	yaqu1251	to weigh	WEIGH	1098		pesaroa	pesaroa 
+933	32-12-01-1	722142387432104	Yaqui	yaqu1251	after	AFTER	1685		chukula	chukula 
+934	32-12-011-1	72214247682094	Yaqui	yaqu1251	behind	BEHIND	1686		amapo	amapo 
+935	32-12-02-1	722142249654650	Yaqui	yaqu1251	beside	BESIDE	1816		chaka’aku	chaka’aku 
+936	32-12-03-1	722142425661410	Yaqui	yaqu1251	down	DOWN	1326		betuku	betuku 
+937	32-12-04-1	722142947451746	Yaqui	yaqu1251	before	BEFORE	1882		bichapo	bichapo 
+938	32-12-041-1	722142947451746	Yaqui	yaqu1251	in front of	IN FRONT OF	1883		bichapo	bichapo 
+939	32-12-05-1	722142325052835	Yaqui	yaqu1251	inside	INSIDE	1606		wajiwa	wajiwa 
+940	32-12-06-1	722142959109357	Yaqui	yaqu1251	outside	OUTSIDE	762		pa’aku	pa’aku 
+941	32-12-07-1	722142425661410	Yaqui	yaqu1251	under	BELOW OR UNDER	1485		betuku	betuku 
+942	32-12-08-1	722142129726164	Yaqui	yaqu1251	up	UP	1591		bepa	bepa 
+943	32-12-11-1	722142793664465	Yaqui	yaqu1251	the place	PLACE (POSITION)	723		jakria	jakria 
+944	32-12-12-1	722142649460868	Yaqui	yaqu1251	to put	PUT	998		yecha	yecha 
+945	32-12-12-2	722142741963941	Yaqui	yaqu1251	to put	PUT	998		joa	joa 
+946	32-12-13-1	722142172779618	Yaqui	yaqu1251	to sit	SIT	1416		yejte	yejte 
+947	32-12-13-2	722142888000230	Yaqui	yaqu1251	to sit	SIT	1416		joote	joote 
+948	32-12-14-1	722142849306798	Yaqui	yaqu1251	to lie down	LIE DOWN	215		bo’ote	bo’ote 
+949	32-12-14-2	722142462395552	Yaqui	yaqu1251	to lie down	LIE DOWN	215		to’ote	to’ote 
+950	32-12-15-1	722142774319379	Yaqui	yaqu1251	to stand	STAND	1442		kikte (1)	kikte (1) 
+951	32-12-15-2	722142353625926	Yaqui	yaqu1251	to stand	STAND	1442		japte (1)	japte (1) 
+952	32-12-16-1	722142401377079	Yaqui	yaqu1251	to remain	REMAIN	987		tawala	tawala 
+953	32-12-17-1	722142421384426	Yaqui	yaqu1251	the remains	REMAINS	838		be’eri	be’eri 
+954	32-12-21-1	722142205406643	Yaqui	yaqu1251	to gather	GATHER	7		nautoja	nautoja 
+955	32-12-212-1	722142205406643	Yaqui	yaqu1251	to pick up	PICK UP	371		nautoja	nautoja 
+956	32-12-213-1	722142421932302	Yaqui	yaqu1251	to pile up	PILE UP	1576		naumonto	naumonto 
+957	32-12-22-1	722142205406643	Yaqui	yaqu1251	to join	JOIN	1743		nautoja	nautoja 
+958	32-12-23-1	722142373997348	Yaqui	yaqu1251	to separate	SEPARATE	1359		na’ikimte	na’ikimte 
+959	32-12-232-1	722142373997348	Yaqui	yaqu1251	to divide	DIVIDE	1119		na’ikimte	na’ikimte 
+960	32-12-24-1	722142177887700	Yaqui	yaqu1251	to open	OPEN	1156		etapo	etapo 
+961	32-12-25-1	722142607550618	Yaqui	yaqu1251	to shut	SHUT	1046		eta	eta 
+962	32-12-26-1	722142544605969	Yaqui	yaqu1251	to cover	COVER	761		patta	patta 
+963	32-12-26-2	722142329948861	Yaqui	yaqu1251	to cover	COVER	761		jinte	jinte 
+964	32-12-27-1	72214294346885	Yaqui	yaqu1251	to hide	HIDE (CONCEAL)	602		e’eria	e’eria 
+965	32-12-31-1	722142581169563	Yaqui	yaqu1251	high	HIGH	1265		mekjikachi	mekjikachi 
+966	32-12-32-1	72214248759956	Yaqui	yaqu1251	low	LOW	721		ko’ome’ela	ko’ome’ela 
+967	32-12-33-1	722142540476309	Yaqui	yaqu1251	the top	TOP	1753		bepa’aria	bepa’aria 
+968	32-12-34-1	722142496307980	Yaqui	yaqu1251	the bottom	BOTTOM	690		komria	komria 
+969	32-12-35-1	722142604280604	Yaqui	yaqu1251	the end(1)	END (OF SPACE)	742		lu’utek	lu’utek 
+970	32-12-352-1	722142972478258	Yaqui	yaqu1251	pointed	POINTED	372		bwawisibulai	bwawisibulai 
+971	32-12-353-1	722142279235258	Yaqui	yaqu1251	the edge	EDGE	863		mayoa	mayoa 
+972	32-12-36-1	722142543688859	Yaqui	yaqu1251	the side	SIDE	682		chaka’aria	chaka’aria 
+973	32-12-37-1	722142779600781	Yaqui	yaqu1251	the middle	MIDDLE	1093		nasukria	nasukria 
+974	32-12-37-2	722142599910680	Yaqui	yaqu1251	the middle	MIDDLE	1093		sentro	sentro 
+975	32-12-41-1	722142840844932	Yaqui	yaqu1251	right(1)	RIGHT	1019		batam	batam 
+976	32-12-42-1	722142267389896	Yaqui	yaqu1251	left	LEFT	244		mikko’im	mikko’im 
+977	32-12-43-1	722142782690850	Yaqui	yaqu1251	near	NEAR	1942		kaa mekka	kaa mekka 
+978	32-12-44-1	722142394804911	Yaqui	yaqu1251	far	FAR	1406		mekka	mekka 
+979	32-12-45-1	72214290891616	Yaqui	yaqu1251	the east	EAST	1877		kawbetana	kawbetana 
+980	32-12-45-2	72214293048296	Yaqui	yaqu1251	the east	EAST	1877		ejte	ejte 
+981	32-12-46-1	72214220626341	Yaqui	yaqu1251	the west	WEST	1817		bawebetana	bawebetana 
+982	32-12-46-2	722142755332840	Yaqui	yaqu1251	the west	WEST	1817		oejte	oejte 
+983	32-12-47-1	722142728652980	Yaqui	yaqu1251	the north	NORTH	1598		ta’ata aman komwechebetana	ta’ata aman komwechebetana 
+984	32-12-47-2	722142409453669	Yaqui	yaqu1251	the north	NORTH	1598		noote	noote 
+985	32-12-48-1	722142242726658	Yaqui	yaqu1251	the south	SOUTH	1595		ta’ata yeu weye betana	ta’ata yeu weye betana 
+986	32-12-48-2	722142918969913	Yaqui	yaqu1251	the south	SOUTH	1595		suur	suur 
+987	32-12-53-1	722142241269598	Yaqui	yaqu1251	to grow	GROW	479		yo’otu	yo’otu 
+988	32-12-54-1	722142219136625	Yaqui	yaqu1251	to measure	MEASURE	1506		tamachia	tamachia 
+989	32-12-54-2	722142382222181	Yaqui	yaqu1251	to measure	MEASURE	1506		meriaroa	meriaroa 
+990	32-12-541-1	722142128290474	Yaqui	yaqu1251	the fathom	FATHOM	81		mambebeme’eku	mambebeme’eku 
+991	32-12-55-1	722142779571233	Yaqui	yaqu1251	big	BIG	1202		bwe’u	bwe’u 
+992	32-12-56-1	72214259299138	Yaqui	yaqu1251	small	SMALL	1246		ilitchi	ilitchi 
+993	32-12-57-1	722142506629203	Yaqui	yaqu1251	long	LONG	1203		teebe	teebe 
+994	32-12-58-1	722142506629203	Yaqui	yaqu1251	tall	TALL	711		teebe	teebe 
+995	32-12-59-1	722142197534526	Yaqui	yaqu1251	short	SHORT	1645		pochilai	pochilai 
+996	32-12-61-1	722142782090944	Yaqui	yaqu1251	wide	WIDE	1243		bweeka	bweeka 
+997	32-12-62-1	722142161728637	Yaqui	yaqu1251	narrow	NARROW	1267		na’ulai	na’ulai 
+998	32-12-63-1	722142151593324	Yaqui	yaqu1251	thick	THICK	1244		ousi maachi	ousi maachi 
+999	32-12-65-1	722142339103416	Yaqui	yaqu1251	thin	THIN (OF SHAPE OF OBJECT)	2249		wakila	wakila 
+1000	32-12-67-1	722142208373637	Yaqui	yaqu1251	deep	DEEP	1593		mekka ko’omi	mekka ko’omi 
+1001	32-12-68-1	722142961909574	Yaqui	yaqu1251	shallow	SHALLOW	193		kaa tua mekka ko’omi	kaa tua mekka ko’omi 
+1002	32-12-71-1	722142213430512	Yaqui	yaqu1251	flat	FLAT	1633		chitabetalai	chitabetalai 
+1003	32-12-73-1	72214252132511	Yaqui	yaqu1251	straight	STRAIGHT	1404		lutulai	lutulai 
+1004	32-12-74-1	722142260450591	Yaqui	yaqu1251	crooked	CROOKED	297		tottia	tottia 
+1005	32-12-75-1	72214298856024	Yaqui	yaqu1251	the hook	HOOK	1071		kancho	kancho 
+1006	32-12-76-1	722142400269583	Yaqui	yaqu1251	the corner	CORNER	192		kobi’iria	kobi’iria 
+1007	32-12-76-2	722142592936788	Yaqui	yaqu1251	the corner	CORNER	192		ejkiina	ejkiina 
+1008	32-12-77-1	722142931317521	Yaqui	yaqu1251	the cross	CROSS	1367		kuus ~ kurus	kuus ~ kurus 
+1009	32-12-78-1	722142824688148	Yaqui	yaqu1251	the square	SQUARE	850		koarao	koarao 
+1010	32-12-81-1	722142415327998	Yaqui	yaqu1251	round	ROUND	1395		lobolai	lobolai 
+1011	32-12-82-1	722142431505299	Yaqui	yaqu1251	the circle	CIRCLE	1467		ko’elai	ko’elai 
+1012	32-12-83-1	72214221597883	Yaqui	yaqu1251	the ball	BALL	1845		pelo’otam	pelo’otam 
+1013	32-12-84-1	722142403832921	Yaqui	yaqu1251	the line	LINE	1048		wii’i	wii’i 
+1014	32-12-85-1	722142600247050	Yaqui	yaqu1251	the hole	HOLE	1667		wojo’oria	wojo’oria 
+1015	32-12-92-1	722142190515049	Yaqui	yaqu1251	similar	SIMILAR	1558		nana’ana	nana’ana 
+1016	32-12-93-1	722142191631160	Yaqui	yaqu1251	to change	CHANGE	1264		nakulia	nakulia 
+1017	32-13-1	722142165602164	Yaqui	yaqu1251	zero	ZERO	1294		kaita	kaita 
+1018	32-13-2	722142788480279	Yaqui	yaqu1251	zero	ZERO	1294		sero	sero 
+1019	32-13-01-1	722142363732768	Yaqui	yaqu1251	one	ONE	1493		wepulai	wepulai 
+1020	32-13-01-2	72214230130180	Yaqui	yaqu1251	one	ONE	1493		uno	uno 
+1021	32-13-02-1	72214239681130	Yaqui	yaqu1251	two	TWO	1498		woi	woi 
+1022	32-13-02-2	72214252678300	Yaqui	yaqu1251	two	TWO	1498		los ~ dos	los ~ dos 
+1023	32-13-03-1	722142886524724	Yaqui	yaqu1251	three	THREE	492		baji	baji 
+1024	32-13-03-2	722142413599567	Yaqui	yaqu1251	three	THREE	492		tres	tres 
+1025	32-13-04-1	722142663339039	Yaqui	yaqu1251	four	FOUR	1500		naiki	naiki 
+1026	32-13-04-2	722142582818446	Yaqui	yaqu1251	four	FOUR	1500		kuatro	kuatro 
+1027	32-13-05-1	722142394391221	Yaqui	yaqu1251	five	FIVE	493		mamni	mamni 
+1028	32-13-05-2	722142470173077	Yaqui	yaqu1251	five	FIVE	493		sinko	sinko 
+1029	32-13-06-1	722142889459064	Yaqui	yaqu1251	six	SIX	1703		busani	busani 
+1030	32-13-06-2	722142825400812	Yaqui	yaqu1251	six	SIX	1703		seis	seis 
+1031	32-13-07-1	722142977218323	Yaqui	yaqu1251	seven	SEVEN	1704		wobusani	wobusani 
+1032	32-13-07-2	722142956918540	Yaqui	yaqu1251	seven	SEVEN	1704		siete	siete 
+1033	32-13-08-1	722142875272507	Yaqui	yaqu1251	eight	EIGHT	1705		wojnaiki	wojnaiki 
+1034	32-13-08-2	722142127921811	Yaqui	yaqu1251	eight	EIGHT	1705		ocho	ocho 
+1035	32-13-09-1	722142157925041	Yaqui	yaqu1251	nine	NINE	1483		batani	batani 
+1036	32-13-09-2	722142910758869	Yaqui	yaqu1251	nine	NINE	1483		nuebe	nuebe 
+1037	32-13-1-1	722142377416410	Yaqui	yaqu1251	ten	TEN	1515		wojmamni	wojmamni 
+1038	32-13-1-2	72214262475243	Yaqui	yaqu1251	ten	TEN	1515		dies	dies 
+1039	32-13-101-1	722142217710394	Yaqui	yaqu1251	eleven	ELEVEN	1706		wojmamni ama wepulai	wojmamni ama wepulai 
+1040	32-13-101-2	7221427554124	Yaqui	yaqu1251	eleven	ELEVEN	1706		onse	onse 
+1041	32-13-102-1	722142513569788	Yaqui	yaqu1251	twelve	TWELVE	1707		wojmamni ama woi	wojmamni ama woi 
+1042	32-13-102-2	722142640935106	Yaqui	yaqu1251	twelve	TWELVE	1707		dose	dose 
+1043	32-13-103-1	722142515023393	Yaqui	yaqu1251	fifteen	FIFTEEN	1709		wojmamni ama mamni	wojmamni ama mamni 
+1044	32-13-103-2	72214287292629	Yaqui	yaqu1251	fifteen	FIFTEEN	1709		kinse	kinse 
+1045	32-13-104-1	72214214561749	Yaqui	yaqu1251	twenty	TWENTY	1710		senu takaa	senu takaa 
+1046	32-13-104-2	722142948842759	Yaqui	yaqu1251	twenty	TWENTY	1710		beinte	beinte 
+1047	32-13-105-1	722142919905393	Yaqui	yaqu1251	a hundred	HUNDRED	1634		mamni takaa	mamni takaa 
+1048	32-13-105-2	722142589060107	Yaqui	yaqu1251	a hundred	HUNDRED	1634		sien	sien 
+1049	32-13-106-1	722142890508564	Yaqui	yaqu1251	a thousand	THOUSAND	1843		miil	miil 
+1050	32-13-107-1	722142278369297	Yaqui	yaqu1251	to count	COUNT	1420		jina’ikia	jina’ikia 
+1051	32-13-14-1	722142888569899	Yaqui	yaqu1251	all	ALL	98		si’ime (2)	si’ime (2) 
+1052	32-13-15-1	722142682280400	Yaqui	yaqu1251	many	MANY	1198		ousi	ousi 
+1053	32-13-16-1	72214223417794	Yaqui	yaqu1251	more	MORE	1992		bu’u	bu’u 
+1054	32-13-16-2	722142682280400	Yaqui	yaqu1251	more	MORE	1992		ousi	ousi 
+1055	32-13-17-1	722142991992462	Yaqui	yaqu1251	few	FEW	1242		iliiki	iliiki 
+1056	32-13-18-1	72214223417794	Yaqui	yaqu1251	enough	ENOUGH	1881		bu’u	bu’u 
+1057	32-13-181-1	72214257717114	Yaqui	yaqu1251	some	SOME	1241		jita	jita 
+1058	32-13-19-1	722142969821742	Yaqui	yaqu1251	the crowd	CROWD	2023		bu’ura	bu’ura 
+1059	32-13-21-1	722142323553297	Yaqui	yaqu1251	full	FULL	1429		tapunia	tapunia 
+1060	32-13-22-1	722142135877623	Yaqui	yaqu1251	empty	EMPTY	1624		june’ela	june’ela 
+1061	32-13-23-1	722142591643797	Yaqui	yaqu1251	the part	PART	779		rebei	rebei 
+1062	32-13-24-1	722142209369420	Yaqui	yaqu1251	the half	HALF	816		nasuk amani	nasuk amani 
+1063	32-13-33-1	722142271942557	Yaqui	yaqu1251	only	ONLY	1580		jiba	jiba 
+1064	32-13-34-1	72214286166457	Yaqui	yaqu1251	first	FIRST	728		wepulria	wepulria 
+1065	32-13-35-1	722142399166972	Yaqui	yaqu1251	last	LAST (FINAL)	1529		amau weyeme	amau weyeme 
+1066	32-13-36-1	72214260825002	Yaqui	yaqu1251	second	SECOND	1384		woiria	woiria 
+1067	32-13-37-1	72214239681130	Yaqui	yaqu1251	the pair	PAIR	1888		woi	woi 
+1068	32-13-38-1	7221422480320	Yaqui	yaqu1251	twice/two times	TWICE	1546		woisia	woisia 
+1069	32-13-42-1	722142310224713	Yaqui	yaqu1251	third	THIRD	1859		bajiria	bajiria 
+1070	32-13-44-1	722142330990040	Yaqui	yaqu1251	three times	THREE TIMES	417		bajisia	bajisia 
+1071	32-14-11-1	722142450224086	Yaqui	yaqu1251	the time	TIME	892		tiempo	tiempo 
+1072	32-14-12-1	722142761119669	Yaqui	yaqu1251	the age	AGE	1789		wasuktia	wasuktia 
+1073	32-14-13-1	722142516136276	Yaqui	yaqu1251	new	NEW	1231		bemela	bemela 
+1074	32-14-14-1	722142125405441	Yaqui	yaqu1251	young	YOUNG	1207		uusi ju’ubwa yo’otume	uusi ju’ubwa yo’otume 
+1075	32-14-15-1	722142248879323	Yaqui	yaqu1251	old	OLD	1229		o’ora	o’ora 
+1076	32-14-16-1	722142333399572	Yaqui	yaqu1251	early	EARLY	672		ketwo	ketwo 
+1077	32-14-17-1	722142992389086	Yaqui	yaqu1251	late	LATE	477		kupteo	kupteo 
+1078	32-14-18-1	722142206796763	Yaqui	yaqu1251	now	NOW	1376		ian ~ i’ani	ian ~ i’ani 
+1079	32-14-19-1	72214264436474	Yaqui	yaqu1251	immediately	IMMEDIATELY	1963		jaleppana	jaleppana 
+1080	32-14-21-1	722142847805427	Yaqui	yaqu1251	fast	FAST	1631		chumti	chumti 
+1081	32-14-21-2	722142329100723	Yaqui	yaqu1251	fast	FAST	1631		u’ute	u’ute 
+1082	32-14-21-3	722142455613229	Yaqui	yaqu1251	fast	FAST	1631		lauti	lauti 
+1083	32-14-22-1	72214229832992	Yaqui	yaqu1251	slow	SLOW	701		laautia	laautia 
+1084	32-14-23-1	722142478365404	Yaqui	yaqu1251	to hurry	HURRY	754		bamse	bamse 
+1085	32-14-24-1	722142645552940	Yaqui	yaqu1251	to be late	BE LATE	425		binwatu	binwatu 
+1086	32-14-25-1	722142470085408	Yaqui	yaqu1251	to begin	BEGIN	1806		naate	naate 
+1087	32-14-252-1	722142582393983	Yaqui	yaqu1251	to last	LAST (ENDURE)	1186		wasuktek	wasuktek 
+1088	32-14-252-2	722142812307844	Yaqui	yaqu1251	to last	LAST (ENDURE)	1186		meechak	meechak 
+1089	32-14-252-3	722142588798935	Yaqui	yaqu1251	to last	LAST (ENDURE)	1186		taewaek	taewaek 
+1090	32-14-26-1	722142604280604	Yaqui	yaqu1251	the end(2)	END (OF TIME)	743		lu’utek	lu’utek 
+1091	32-14-27-1	722142993992404	Yaqui	yaqu1251	to finish	FINISH	1766		lu’uta	lu’uta 
+1092	32-14-27-2	722142774057319	Yaqui	yaqu1251	to finish	FINISH	1766		tejale	tejale 
+1093	32-14-27-3	722142575816484	Yaqui	yaqu1251	to finish	FINISH	1766		ansu	ansu 
+1094	32-14-28-1	722142287839036	Yaqui	yaqu1251	to cease	CEASE	1928		kikte (2)	kikte (2) 
+1095	32-14-28-2	722142810643460	Yaqui	yaqu1251	to cease	CEASE	1928		japte (2)	japte (2) 
+1096	32-14-29-1	722142466945882	Yaqui	yaqu1251	ready	READY	790		beja	beja 
+1097	32-14-31-1	722142271942557	Yaqui	yaqu1251	always	ALWAYS	1676		jiba	jiba 
+1098	32-14-31-2	722142502437742	Yaqui	yaqu1251	always	ALWAYS	1676		chikti	chikti 
+1099	32-14-32-1	722142381078767	Yaqui	yaqu1251	often	OFTEN	1852		jiba jeela	jiba jeela 
+1100	32-14-33-1	72214224583194	Yaqui	yaqu1251	sometimes	SOMETIMES	1544		amako	amako 
+1101	32-14-331-1	722142812058046	Yaqui	yaqu1251	soon	SOON	703		lautia	lautia 
+1102	32-14-331-2	722142505089502	Yaqui	yaqu1251	soon	SOON	703		leptia	leptia 
+1103	32-14-331-3	722142947271403	Yaqui	yaqu1251	soon	SOON	703		sepia ~ sep	sepia ~ sep 
+1104	32-14-332-1	722142858020633	Yaqui	yaqu1251	for a long time	FOR A LONG TIME	418		bejako	bejako 
+1105	32-14-34-1	72214228143097	Yaqui	yaqu1251	never	NEVER	1656		kaibu	kaibu 
+1106	32-14-34-2	722142772399137	Yaqui	yaqu1251	never	NEVER	1656		katchan	katchan 
+1107	32-14-35-1	722142589232895	Yaqui	yaqu1251	again	AGAIN	204		intuchia	intuchia 
+1108	32-14-35-2	722142197464673	Yaqui	yaqu1251	again	AGAIN	204		juchia	juchia 
+1109	32-14-41-1	722142654957090	Yaqui	yaqu1251	the day(1)	DAY (24 HOURS)	1260		taewai	taewai 
+1110	32-14-42-1	722142336166195	Yaqui	yaqu1251	the night	NIGHT	1233		tukaa	tukaa 
+1111	32-14-42-2	722142354105184	Yaqui	yaqu1251	the night	NIGHT	1233		tukaaria	tukaaria 
+1112	32-14-43-1	722142678279693	Yaqui	yaqu1251	the dawn	DAWN	729		maukaa	maukaa 
+1113	32-14-43-2	722142272157570	Yaqui	yaqu1251	the dawn	DAWN	729		alba	alba 
+1114	32-14-44-1	722142918926855	Yaqui	yaqu1251	the morning	MORNING	1339		yokoria	yokoria 
+1115	32-14-45-1	722142263117844	Yaqui	yaqu1251	the midday	MIDDAY	12		luulakateko	luulakateko 
+1116	32-14-451-1	722142992389086	Yaqui	yaqu1251	the afternoon	AFTERNOON	1807		kupteo	kupteo 
+1117	32-14-46-1	722142465235301	Yaqui	yaqu1251	the evening	EVENING	1629		bijpaam	bijpaam 
+1118	32-14-47-1	722142993690925	Yaqui	yaqu1251	today	TODAY	1283		i’ani	i’ani 
+1119	32-14-48-1	722142204841498	Yaqui	yaqu1251	tomorrow	TOMORROW	1329		yooko	yooko 
+1120	32-14-481-1	722142709575552	Yaqui	yaqu1251	the day after tomorrow	DAY AFTER TOMORROW	1179		matchuko	matchuko 
+1121	32-14-49-1	722142718708608	Yaqui	yaqu1251	yesterday	YESTERDAY	1174		tuuka	tuuka 
+1122	32-14-491-1	722142983057190	Yaqui	yaqu1251	the day before yesterday	DAY BEFORE YESTERDAY	1180		battuuka	battuuka 
+1123	32-14-51-1	722142395900235	Yaqui	yaqu1251	the hour	HOUR	1353		oora	oora 
+1124	32-14-53-1	72214212000192	Yaqui	yaqu1251	the clock	CLOCK	1323		relok	relok 
+1125	32-14-61-1	722142257926993	Yaqui	yaqu1251	the week	WEEK	1469		semaana	semaana 
+1126	32-14-62-1	722142621437121	Yaqui	yaqu1251	Sunday	SUNDAY	1699		lominko	lominko 
+1127	32-14-63-1	722142695080527	Yaqui	yaqu1251	Monday	MONDAY	1697		luunes	luunes 
+1128	32-14-64-1	722142991520075	Yaqui	yaqu1251	Tuesday	TUESDAY	1695		maates	maates 
+1129	32-14-65-1	722142481332445	Yaqui	yaqu1251	Wednesday	WEDNESDAY	1694		miekoles	miekoles 
+1130	32-14-66-1	722142674619538	Yaqui	yaqu1251	Thursday	THURSDAY	1693		juebes	juebes 
+1131	32-14-67-1	722142376558792	Yaqui	yaqu1251	Friday	FRIDAY	1692		bienes	bienes 
+1132	32-14-68-1	722142337807159	Yaqui	yaqu1251	Saturday	SATURDAY	1700		sabala	sabala 
+1133	32-14-71-1	722142763652435	Yaqui	yaqu1251	the month	MONTH	1370		meecha	meecha 
+1134	32-14-73-1	722142761119669	Yaqui	yaqu1251	the year	YEAR	1226		wasuktia	wasuktia 
+1135	32-14-74-1	722142893494445	Yaqui	yaqu1251	the winter	WINTER	1471		sebe meecha	sebe meecha 
+1136	32-14-75-1	722142399089822	Yaqui	yaqu1251	the spring(2)	SPRINGTIME	1537		sewa meecha	sewa meecha 
+1137	32-14-76-1	722142246393877	Yaqui	yaqu1251	the summer	SUMMER	1342		tat meecha	tat meecha 
+1138	32-14-77-1	722142351153228	Yaqui	yaqu1251	the autumn/fall	AUTUMN	1276		sawawet meecha	sawawet meecha 
+1139	32-14-78-1	72214236815332	Yaqui	yaqu1251	the season	SEASON	691		metkuaktia	metkuaktia 
+1140	32-15-21-1	722142453539211	Yaqui	yaqu1251	to smell(1)	SMELL (STINK)	1587		winjuba	winjuba 
+1141	32-15-89-1	722142117729410	Yaqui	yaqu1251	wrinkled	WRINKLED	380		chookarai	chookarai 
+1142	32-15-212-1	722142301579909	Yaqui	yaqu1251	to sniff	SNIFF	375		jukjukta	jukjukta 
+1143	32-15-22-1	722142208572430	Yaqui	yaqu1251	to smell(2)	SMELL (PERCEIVE)	1586		jukta	jukta 
+1144	32-15-25-1	722142453539211	Yaqui	yaqu1251	fragrant	FRAGRANT	376		winjuba	winjuba 
+1145	32-15-26-1	722142317672931	Yaqui	yaqu1251	stinking	STINKING	42		juuba	juuba 
+1146	32-15-31-1	722142816075670	Yaqui	yaqu1251	to taste	TASTE (SOMETHING)	21		tu’ure	tu’ure 
+1147	32-15-31-2	722142718902395	Yaqui	yaqu1251	to taste	TASTE (SOMETHING)	21		kiale	kiale 
+1148	32-15-35-1	722142240989028	Yaqui	yaqu1251	sweet	SWEET	717		kaka	kaka 
+1149	32-15-36-1	722142919395875	Yaqui	yaqu1251	salty	SALTY	1091		cho’oko	cho’oko 
+1150	32-15-37-1	722142577646033	Yaqui	yaqu1251	bitter	BITTER	887		chiibu	chiibu 
+1151	32-15-38-1	722142577646033	Yaqui	yaqu1251	sour	SOUR	1906		chiibu	chiibu 
+1152	32-15-39-1	722142919395875	Yaqui	yaqu1251	brackish	BRACKISH	70		cho’oko	cho’oko 
+1153	32-15-41-1	722142923801405	Yaqui	yaqu1251	to hear	HEAR	1408		jikkaja	jikkaja 
+1154	32-15-42-1	722142923801405	Yaqui	yaqu1251	to listen	LISTEN	1608		jikkaja	jikkaja 
+1155	32-15-44-1	722142655177328	Yaqui	yaqu1251	the sound or noise	SOUND OR NOISE	1811		jaiti jiia	jaiti jiia 
+1156	32-15-45-1	722142655177328	Yaqui	yaqu1251	loud	LOUD	377		jaiti jiia	jaiti jiia 
+1157	32-15-46-1	722142876717286	Yaqui	yaqu1251	quiet	QUIET	1314		kopalai	kopalai 
+1158	32-15-51-1	722142573897311	Yaqui	yaqu1251	to see	SEE	1409		bicha	bicha 
+1159	32-15-52-1	722142791088337	Yaqui	yaqu1251	to look	LOOK	1819		bitchu	bitchu 
+1160	32-15-55-1	722142466875395	Yaqui	yaqu1251	to show	SHOW	1039		bittua	bittua 
+1161	32-15-56-1	722142651933682	Yaqui	yaqu1251	to shine	SHINE	708		beojtachichi’ite	beojtachichi’ite 
+1162	32-15-57-1	72214236393219	Yaqui	yaqu1251	bright	BRIGHT	679		beojtaachi	beojtaachi 
+1163	32-15-61-1	72214223728917	Yaqui	yaqu1251	the colour/color	COLOR	1613		jiyoki	jiyoki 
+1164	32-15-61-2	722142802595869	Yaqui	yaqu1251	the colour/color	COLOR	1613		yokia	yokia 
+1165	32-15-62-1	722142340869059	Yaqui	yaqu1251	light(2)	LIGHT (COLOR)	250		tosali	tosali 
+1166	32-15-63-1	72214245313594	Yaqui	yaqu1251	dark	DARK	706		chukuli	chukuli 
+1167	32-15-64-1	722142340869059	Yaqui	yaqu1251	white	WHITE	1335		tosali	tosali 
+1168	32-15-65-1	72214245313594	Yaqui	yaqu1251	black	BLACK	163		chukuli	chukuli 
+1169	32-15-66-1	722142346878585	Yaqui	yaqu1251	red	RED	156		sikili	sikili 
+1170	32-15-67-1	722142163906448	Yaqui	yaqu1251	blue	BLUE	837		teweli	teweli 
+1171	32-15-68-1	722142751404450	Yaqui	yaqu1251	green	GREEN	1425		siali	siali 
+1172	32-15-69-1	722142611970539	Yaqui	yaqu1251	yellow	YELLOW	1424		sawali	sawali 
+1173	32-15-71-1	722142936842317	Yaqui	yaqu1251	to touch	TOUCH	1892		bwise	bwise 
+1174	32-15-712-1	722142559195163	Yaqui	yaqu1251	to pinch	PINCH	378		susuke	susuke 
+1175	32-15-72-1	722142221786915	Yaqui	yaqu1251	to feel	FEEL	1079		ine’a	ine’a 
+1176	32-15-74-1	722142745166787	Yaqui	yaqu1251	hard	HARD	1884		namaka	namaka 
+1177	32-15-75-1	722142371091616	Yaqui	yaqu1251	soft	SOFT	1856		bwalko	bwalko 
+1178	32-15-76-1	722142143543470	Yaqui	yaqu1251	rough(1)	ROUGH	1923		sosoko	sosoko 
+1179	32-15-77-1	722142213430512	Yaqui	yaqu1251	smooth	SMOOTH	1234		chitabetalai	chitabetalai 
+1180	32-15-78-1	722142591759640	Yaqui	yaqu1251	sharp	SHARP	1396		bwaawi	bwaawi 
+1181	32-15-79-1	722142771102715	Yaqui	yaqu1251	blunt	BLUNT	379		rumui	rumui 
+1182	32-15-81-1	722142965866145	Yaqui	yaqu1251	heavy	HEAVY	1210		bette	bette 
+1183	32-15-82-1	722142979134839	Yaqui	yaqu1251	light(1)	LIGHT (WEIGHT)	1052		kaa bette	kaa bette 
+1184	32-15-83-1	72214221504823	Yaqui	yaqu1251	wet	WET	1726		ba’ari	ba’ari 
+1185	32-15-84-1	72214259009790	Yaqui	yaqu1251	dry	DRY	1398		wakia	wakia 
+1186	32-15-85-1	72214225788791	Yaqui	yaqu1251	hot	HOT	1286		taata (2)	taata (2) 
+1187	32-15-851-1	722142970803570	Yaqui	yaqu1251	warm	WARM	1232		suka	suka 
+1188	32-15-86-1	722142899114000	Yaqui	yaqu1251	cold	COLD	1287		sebe	sebe 
+1189	32-15-87-1	722142390702836	Yaqui	yaqu1251	clean	CLEAN	704		kaa jaiti maachi	kaa jaiti maachi 
+1190	32-15-88-1	722142943408980	Yaqui	yaqu1251	dirty	DIRTY	1230		jaiti maachi	jaiti maachi 
+1191	32-16-11-1	722142879052143	Yaqui	yaqu1251	the soul or spirit	SOUL	811		jiapsi	jiapsi 
+1192	32-16-15-1	722142529552439	Yaqui	yaqu1251	surprised or astonished	SURPRISED	1572		suumeiya	suumeiya 
+1193	32-16-18-1	722142467798164	Yaqui	yaqu1251	the good luck	GOOD LUCK	720		tu’i suertek	tu’i suertek 
+1194	32-16-19-1	722142437185519	Yaqui	yaqu1251	the bad luck	BAD LUCK	56		kaa suertek	kaa suertek 
+1195	32-16-23-1	722142316578162	Yaqui	yaqu1251	happy	HAPPY	1495		allea	allea 
+1196	32-16-25-1	722142787893311	Yaqui	yaqu1251	to laugh	LAUGH	1355		aache	aache 
+1197	32-16-251-1	722142787893311	Yaqui	yaqu1251	to smile	SMILE	1451		aache	aache 
+1198	32-16-26-1	722142410916885	Yaqui	yaqu1251	to play	PLAY	1413		yeewe	yeewe 
+1199	32-16-27-1	722142374933507	Yaqui	yaqu1251	to love	LOVE	923		waata	waata 
+1200	32-16-29-1	7221421609951	Yaqui	yaqu1251	to kiss	KISS	578		liuta	liuta 
+1201	32-16-3-1	722142215722566	Yaqui	yaqu1251	to embrace	EMBRACE	928		ibakta	ibakta 
+1202	32-16-31-1	7221423661492	Yaqui	yaqu1251	the pain	PAIN	1783		ko’oko	ko’oko 
+1203	32-16-32-1	722142104954981	Yaqui	yaqu1251	the grief	GRIEF	1668		ko’okole	ko’okole 
+1204	32-16-33-1	722142436792197	Yaqui	yaqu1251	the anxiety	ANXIETY	1000		jiokot ea	jiokot ea 
+1205	32-16-34-1	722142741068825	Yaqui	yaqu1251	to regret or be sorry	REGRET	1875		jiokole	jiokole 
+1206	32-16-35-1	722142339842108	Yaqui	yaqu1251	the pity	PITY	1141		poloobele	poloobele 
+1207	32-16-35-2	722142741068825	Yaqui	yaqu1251	the pity	PITY	1141		jiokole	jiokole 
+1208	32-16-37-1	722142706704184	Yaqui	yaqu1251	to cry	CRY	1839		bwaana	bwaana 
+1209	32-16-38-1	722142190791080	Yaqui	yaqu1251	the tear	TEAR (OF EYE)	1651		opoam	opoam 
+1210	32-16-39-1	722142706704184	Yaqui	yaqu1251	to groan	GROAN	716		bwaana	bwaana 
+1211	32-16-41-1	722142651046494	Yaqui	yaqu1251	to hate	HATE	1607		omta	omta 
+1212	32-16-42-1	722142209304043	Yaqui	yaqu1251	the anger	ANGER	82		omtia	omtia 
+1213	32-16-44-1	722142619778361	Yaqui	yaqu1251	the envy or jealousy	ENVY	40		selaaroa	selaaroa 
+1214	32-16-45-1	72214272557529	Yaqui	yaqu1251	the shame	SHAME	1776		tiiwe	tiiwe 
+1215	32-16-48-1	722142364231947	Yaqui	yaqu1251	proud	PROUD	174		emo eiya	emo eiya 
+1216	32-16-51-1	722142247443467	Yaqui	yaqu1251	to dare	DARE	1779		kaa majae	kaa majae 
+1217	32-16-52-1	722142840517438	Yaqui	yaqu1251	brave	BRAVE	3		emo ouleme	emo ouleme 
+1218	32-16-53-1	72214251311098	Yaqui	yaqu1251	the fear	FEAR (FRIGHT)	781		majairi	majairi 
+1219	32-16-54-1	722142777190674	Yaqui	yaqu1251	the danger	DANGER	1810		jinilwachi	jinilwachi 
+1220	32-16-62-1	722142374933507	Yaqui	yaqu1251	to want	WANT	1784		waata	waata 
+1221	32-16-622-1	722142126584002	Yaqui	yaqu1251	to choose	CHOOSE	1750		yeu pua	yeu pua 
+1222	32-16-63-1	722142804059301	Yaqui	yaqu1251	to hope	HOPE (SOMETHING)	3212		uu’eiya	uu’eiya 
+1223	32-16-65-1	722142323472417	Yaqui	yaqu1251	faithful	FAITHFUL	100		kaa anoki’ichi	kaa anoki’ichi 
+1224	32-16-66-1	722142894048989	Yaqui	yaqu1251	true	TRUE	1657		tua	tua 
+1225	32-16-67-1	722142393858034	Yaqui	yaqu1251	to lie(2)	LIE (MISLEAD)	601		kaa lutu’uriata nooka	kaa lutu’uriata nooka 
+1226	32-16-68-1	722142579176696	Yaqui	yaqu1251	the deceit	DECEIT	13		baita’a	baita’a 
+1227	32-16-69-1	722142932988294	Yaqui	yaqu1251	to forgive	FORGIVE	1528		jiokoe	jiokoe 
+1228	32-16-71-1	72214277643643	Yaqui	yaqu1251	good	GOOD	1035		tu’i	tu’i 
+1229	32-16-72-1	722142783543922	Yaqui	yaqu1251	bad	BAD	1292		kaa tu’i	kaa tu’i 
+1230	32-16-73-1	72214277643643	Yaqui	yaqu1251	right(2)	CORRECT (RIGHT)	1725		tu’i	tu’i 
+1231	32-16-74-1	722142397399111	Yaqui	yaqu1251	wrong	WRONG	1390		kaa lutu’uria	kaa lutu’uria 
+1232	32-16-74-2	722142429211083	Yaqui	yaqu1251	wrong	WRONG	1390		kaa tua	kaa tua 
+1233	32-16-76-1	722142993169169	Yaqui	yaqu1251	the fault	FAULT	134		kulpa	kulpa 
+1234	32-16-77-1	722142876503504	Yaqui	yaqu1251	the mistake	MISTAKE	1293		ji’opria	ji’opria 
+1235	32-16-78-1	722142993169169	Yaqui	yaqu1251	the blame	BLAME	381		kulpa	kulpa 
+1236	32-16-79-1	72214232449172	Yaqui	yaqu1251	the praise	PRAISE	1687		jikat jippue	jikat jippue 
+1237	32-16-81-1	722142563382957	Yaqui	yaqu1251	beautiful	BEAUTIFUL	1427		tutu’uli	tutu’uli 
+1238	32-16-81-2	722142463880588	Yaqui	yaqu1251	beautiful	BEAUTIFUL	1427		ujyooli	ujyooli 
+1239	32-16-82-1	722142140717442	Yaqui	yaqu1251	ugly	UGLY	1548		junera	junera 
+1240	32-16-83-1	722142236183973	Yaqui	yaqu1251	greedy	GREEDY	2018		jantiachi	jantiachi 
+1241	32-16-84-1	722142178430308	Yaqui	yaqu1251	clever	CLEVER	1310		aawe	aawe 
+1242	32-17-11-1	722142442206459	Yaqui	yaqu1251	the mind	MIND	1562		kobanamyai	kobanamyai 
+1243	32-17-13-1	722142339979620	Yaqui	yaqu1251	to think(1)	THINK (REFLECT)	1415		ea	ea 
+1244	32-17-14-1	722142921022532	Yaqui	yaqu1251	to think(2)	THINK (BELIEVE)	1513		jumaktule	jumaktule 
+1245	32-17-15-1	722142105365113	Yaqui	yaqu1251	to believe	BELIEVE	1890		suale	suale 
+1246	32-17-16-1	722142361016734	Yaqui	yaqu1251	to understand	UNDERSTAND	1536		mammatte	mammatte 
+1247	32-17-17-1	722142253260207	Yaqui	yaqu1251	to know	KNOW (SOMETHING)	1410		ju’unea	ju’unea 
+1248	32-17-171-1	722142182162191	Yaqui	yaqu1251	to guess	GUESS	1932		ju’une’ea	ju’une’ea 
+1249	32-17-172-1	722142992030899	Yaqui	yaqu1251	to imitate	IMITATE	117		mamato	mamato 
+1250	32-17-18-1	722142998747831	Yaqui	yaqu1251	to seem	SEEM	1521		machia	machia 
+1251	32-17-19-1	722142305810493	Yaqui	yaqu1251	the idea	IDEA	1609		jitasa teuwa	jitasa teuwa 
+1252	32-17-21-1	722142357488122	Yaqui	yaqu1251	wise	WISE	698		jita ta’ame	jita ta’ame 
+1253	32-17-22-1	722142301451351	Yaqui	yaqu1251	stupid	STUPID	1518		neesio	neesio 
+1254	32-17-23-1	722142797055763	Yaqui	yaqu1251	mad	MAD	1899		kaa suak	kaa suak 
+1255	32-17-24-1	722142319338577	Yaqui	yaqu1251	to learn	LEARN	504		a’awe	a’awe 
+1256	32-17-242-1	7221424144655	Yaqui	yaqu1251	to study	STUDY	1929		emo majta	emo majta 
+1257	32-17-25-1	722142267893548	Yaqui	yaqu1251	to teach	TEACH	709		majta	majta 
+1258	32-17-26-1	722142864644819	Yaqui	yaqu1251	the pupil	PUPIL (STUDENT)	753		majtawame	majtawame 
+1259	32-17-27-1	722142155343121	Yaqui	yaqu1251	the teacher	TEACHER	1038		maejto	maejto 
+1260	32-17-27-2	72214219092821	Yaqui	yaqu1251	the teacher	TEACHER	1038		propesor	propesor 
+1261	32-17-28-1	722142173529198	Yaqui	yaqu1251	the school	SCHOOL	673		ejkuela	ejkuela 
+1262	32-17-31-1	722142809329247	Yaqui	yaqu1251	to remember	REMEMBER	707		wawaate	wawaate 
+1263	32-17-32-1	72214284858145	Yaqui	yaqu1251	to forget	FORGET	1523		kopta	kopta 
+1264	32-17-32-2	7221429202844	Yaqui	yaqu1251	to forget	FORGET	1523		kopte	kopte 
+1265	32-17-34-1	722142551329368	Yaqui	yaqu1251	clear	CLEAR	989		maachi	maachi 
+1266	32-17-35-1	722142247777306	Yaqui	yaqu1251	obscure	OBSCURE	1764		kaa maachi	kaa maachi 
+1267	32-17-36-1	722142300406707	Yaqui	yaqu1251	secret	SECRET	1121		sekreeto	sekreeto 
+1268	32-17-37-1	722142894048989	Yaqui	yaqu1251	certain	CERTAIN	509		tua	tua 
+1269	32-17-38-1	722142660437512	Yaqui	yaqu1251	to explain	EXPLAIN	1626		tetejwa	tetejwa 
+1270	32-17-41-1	722142638059820	Yaqui	yaqu1251	the intention	INTENTION	1162		inie betchi’ibo	inie betchi’ibo 
+1271	32-17-42-1	722142638059820	Yaqui	yaqu1251	the cause	CAUSE	860		inie betchi’ibo	inie betchi’ibo 
+1272	32-17-43-1	722142139074149	Yaqui	yaqu1251	the doubt	DOUBT	1308		dudaroa ~ ruraroa	dudaroa ~ ruraroa 
+1273	32-17-44-1	722142303615462	Yaqui	yaqu1251	to suspect	SUSPECT	1841		junentule	junentule 
+1274	32-17-441-1	722142544335237	Yaqui	yaqu1251	to betray	BETRAY	1902		traisionaroa	traisionaroa 
+1275	32-17-45-1	722142519970419	Yaqui	yaqu1251	the need or necessity	NEED (NOUN)	643		nesesira	nesesira 
+1276	32-17-46-1	722142497822346	Yaqui	yaqu1251	easy	EASY	686		kaa obiachi	kaa obiachi 
+1277	32-17-47-1	722142931652709	Yaqui	yaqu1251	difficult	DIFFICULT	584		obiachi	obiachi 
+1278	32-17-48-1	722142276516201	Yaqui	yaqu1251	to try	TRY	1812		bitne	bitne 
+1279	32-17-48-2	722142155872618	Yaqui	yaqu1251	to try	TRY	1812		jiune	jiune 
+1280	32-17-48-3	722142942523018	Yaqui	yaqu1251	to try	TRY	1812		probaroa	probaroa 
+1281	32-17-51-1	722142613436235	Yaqui	yaqu1251	and	AND	1577		into	into 
+1282	32-17-52-1	72214297390168	Yaqui	yaqu1251	because	BECAUSE	1157		bwe’ituk	bwe’ituk 
+1283	32-17-53-1	722142758261216	Yaqui	yaqu1251	if	IF	1459		-ko	-ko 
+1284	32-17-54-1	722142762999656	Yaqui	yaqu1251	or	OR	1014		o	o 
+1285	32-17-55-1	722142629333150	Yaqui	yaqu1251	yes	YES	1268		jeewi ~ eewi	jeewi ~ eewi 
+1286	32-17-55-2	722142175837968	Yaqui	yaqu1251	yes	YES	1268		na’aka	na’aka 
+1287	32-17-56-1	722142214900650	Yaqui	yaqu1251	no	NO	1269		kaa	kaa 
+1288	32-17-56-2	722142322328402	Yaqui	yaqu1251	no	NO	1269		e’e (1)	e’e (1) 
+1289	32-17-61-1	722142629462292	Yaqui	yaqu1251	how?	HOW	1239		jachinia	jachinia 
+1290	32-17-62-1	722142832540390	Yaqui	yaqu1251	how many?	HOW MANY	822		jaikim	jaikim 
+1291	32-17-63-1	722142329228681	Yaqui	yaqu1251	how much?	HOW MUCH	531		jaiki	jaiki 
+1292	32-17-64-1	72214257717114	Yaqui	yaqu1251	what?	WHAT	1236		jita	jita 
+1293	32-17-65-1	722142991665665	Yaqui	yaqu1251	when?	WHEN	1238		jakko	jakko 
+1294	32-17-66-1	722142715480079	Yaqui	yaqu1251	where?	WHERE	1237		jaksa	jaksa 
+1295	32-17-67-1	72214257717114	Yaqui	yaqu1251	which?	WHICH	727		jita	jita 
+1296	32-17-68-1	722142502061743	Yaqui	yaqu1251	who?	WHO	1235		jabesa	jabesa 
+1297	32-17-69-1	722142219968953	Yaqui	yaqu1251	why?	WHY	1270		jaisakai	jaisakai 
+1298	32-18-11-1	722142202859497	Yaqui	yaqu1251	the voice	VOICE	1363		jiawai	jiawai 
+1299	32-18-12-1	722142257983725	Yaqui	yaqu1251	to sing	SING	1261		bwiika	bwiika 
+1300	32-18-13-1	722142562703378	Yaqui	yaqu1251	to shout	SHOUT	715		chaae	chaae 
+1301	32-18-15-1	722142824187875	Yaqui	yaqu1251	to whisper	WHISPER	55		kuchichi’iti nooka	kuchichi’iti nooka 
+1302	32-18-16-1	722142824187875	Yaqui	yaqu1251	to mumble	MUMBLE	128		kuchichi’iti nooka	kuchichi’iti nooka 
+1303	32-18-17-1	722142886944569	Yaqui	yaqu1251	to whistle	WHISTLE	1025		bikue	bikue 
+1304	32-18-18-1	722142706704184	Yaqui	yaqu1251	to shriek	SHRIEK	298		bwaana	bwaana 
+1305	32-18-19-1	722142706704184	Yaqui	yaqu1251	to howl	HOWL	526		bwaana	bwaana 
+1306	32-18-21-1	722142722549555	Yaqui	yaqu1251	to speak or talk	SPEAK	1623		nooka	nooka 
+1307	32-18-211-1	722142372156877	Yaqui	yaqu1251	to stutter or stammer	STUTTER	1866		nene’otu	nene’otu 
+1308	32-18-22-1	722142461557061	Yaqui	yaqu1251	to say	SAY	1458		tejwa	tejwa 
+1309	32-18-221-1	722142882227338	Yaqui	yaqu1251	to tell	TELL	1711		teuwa	teuwa 
+1310	32-18-222-1	722142790854807	Yaqui	yaqu1251	the speech	SPEECH	1115		nokta teuwa	nokta teuwa 
+1311	32-18-23-1	722142876717286	Yaqui	yaqu1251	to be silent	BE SILENT	48		kopalai	kopalai 
+1312	32-18-24-1	72214277291944	Yaqui	yaqu1251	the language	LANGUAGE	1307		nooki	nooki 
+1313	32-18-26-1	72214277291944	Yaqui	yaqu1251	the word	WORD	1599		nooki	nooki 
+1314	32-18-28-1	722142243660648	Yaqui	yaqu1251	the name	NAME	1405		team	team 
+1315	32-18-31-1	722142444586436	Yaqui	yaqu1251	to ask(1)	ASK (INQUIRE)	1309		nattemae	nattemae 
+1316	32-18-32-1	722142153790921	Yaqui	yaqu1251	to answer	ANSWER	1275		yoopna	yoopna 
+1317	32-18-33-1	722142969070357	Yaqui	yaqu1251	to admit	ADMIT	2022		konpesaroa	konpesaroa 
+1318	32-18-34-1	722142537180332	Yaqui	yaqu1251	to deny	DENY	755		nekaroa	nekaroa 
+1319	32-18-34-2	722142975385027	Yaqui	yaqu1251	to deny	DENY	755		kaa a mabeta	kaa a mabeta 
+1320	32-18-35-1	722142489756879	Yaqui	yaqu1251	to ask(2)	ASK (REQUEST)	1828		a’awa	a’awa 
+1321	32-18-36-1	722142589439831	Yaqui	yaqu1251	to promise	PROMISE	1675		prometiaroa	prometiaroa 
+1322	32-18-37-1	722142975385027	Yaqui	yaqu1251	to refuse	REFUSE	49		kaa a mabeta	kaa a mabeta 
+1323	32-18-38-1	722142115674424	Yaqui	yaqu1251	to forbid	FORBID	83		proibiaroa	proibiaroa 
+1324	32-18-39-1	722142660437512	Yaqui	yaqu1251	to scold	SCOLD	299		tetejwa	tetejwa 
+1325	32-18-41-1	722142882227338	Yaqui	yaqu1251	to call(1)	CALL	1084		teuwa	teuwa 
+1326	32-18-42-1	722142277866508	Yaqui	yaqu1251	to call(2)	CALL BY NAME	180		tea	tea 
+1327	32-18-43-1	722142838226132	Yaqui	yaqu1251	to announce	ANNOUNCE	9		anunsiaroa	anunsiaroa 
+1328	32-18-43-2	722142461557061	Yaqui	yaqu1251	to announce	ANNOUNCE	9		tejwa	tejwa 
+1329	32-18-44-1	722142786466804	Yaqui	yaqu1251	to threaten	THREATEN	1192		menasaroa	menasaroa 
+1330	32-18-45-1	722142364231947	Yaqui	yaqu1251	to boast	BOAST	101		emo eiya	emo eiya 
+1331	32-18-51-1	722142908293004	Yaqui	yaqu1251	to write	WRITE	1672		ji’ojte	ji’ojte 
+1332	32-18-52-1	722142487785607	Yaqui	yaqu1251	to read	READ	724		le’iaroa	le’iaroa 
+1333	32-18-56-1	722142628772350	Yaqui	yaqu1251	the paper	PAPER	648		ji’osia	ji’osia 
+1334	32-18-57-1	722142482566900	Yaqui	yaqu1251	the pen	PEN	794		pluuma	pluuma 
+1335	32-18-61-1	722142434543330	Yaqui	yaqu1251	the book	BOOK	963		liprom	liprom 
+1336	32-18-67-1	722142545626285	Yaqui	yaqu1251	the poet	POET	1045		tu’uli nokame	tu’uli nokame 
+1337	32-18-71-1	72214226962110	Yaqui	yaqu1251	the flute	FLUTE	777		kusia	kusia 
+1338	32-18-72-1	722142320268847	Yaqui	yaqu1251	the drum	DRUM	908		kubaji	kubaji 
+1339	32-18-73-1	72214226962110	Yaqui	yaqu1251	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		kusia	kusia 
+1340	32-18-74-1	722142843391848	Yaqui	yaqu1251	the rattle	RATTLE	300		teneboim	teneboim 
+1341	32-18-74-2	722142685967638	Yaqui	yaqu1251	the rattle	RATTLE	300		ayam	ayam 
+1342	32-19-11-1	722142655371832	Yaqui	yaqu1251	the country	COUNTRY	1300		bwia toosa	bwia toosa 
+1343	32-19-12-1	722142655371832	Yaqui	yaqu1251	the native country	NATIVE COUNTRY	89		bwia toosa	bwia toosa 
+1344	32-19-15-1	722142209203843	Yaqui	yaqu1251	the town	TOWN	1391		bwe’u jo’ara	bwe’u jo’ara 
+1345	32-19-16-1	722142392586465	Yaqui	yaqu1251	the village	VILLAGE	930		puepplo	puepplo 
+1346	32-19-17-1	722142184157713	Yaqui	yaqu1251	the boundary	BOUNDARY	1010		mamlo	mamlo 
+1347	32-19-21-1	722142392586465	Yaqui	yaqu1251	the people	PEOPLE	789		puepplo	puepplo 
+1348	32-19-23-1	722142785415653	Yaqui	yaqu1251	the clan	CLAN	302		triibu	triibu 
+1349	32-19-24-1	722142501448938	Yaqui	yaqu1251	the chieftain	CHIEFTAIN	301		ya’ut	ya’ut 
+1350	32-19-25-1	722142321783435	Yaqui	yaqu1251	the walking stick	WALKING STICK	1296		baara	baara 
+1351	32-19-31-1	722142737238434	Yaqui	yaqu1251	to rule or govern	RULE	1846		kobanaroa	kobanaroa 
+1352	32-19-32-1	722142501448938	Yaqui	yaqu1251	the king	KING	1508		ya’ut	ya’ut 
+1353	32-19-32-2	722142499438139	Yaqui	yaqu1251	the king	KING	1508		kobanaao	kobanaao 
+1354	32-19-37-1	722142891109219	Yaqui	yaqu1251	the citizen	CITIZEN	1032		yoemia	yoemia 
+1355	32-19-41-1	722142860975363	Yaqui	yaqu1251	the master	MASTER	383		teeko	teeko 
+1356	32-19-44-1	722142655106558	Yaqui	yaqu1251	the freeman	FREEMAN	384		yoeme aapolai	yoeme aapolai 
+1357	32-19-44-2	722142798365166	Yaqui	yaqu1251	the freeman	FREEMAN	384		liipre	liipre 
+1358	32-19-45-1	722142419171102	Yaqui	yaqu1251	to command or order	ORDER	1128		sawe	sawe 
+1359	32-19-46-1	722142923801405	Yaqui	yaqu1251	to obey	OBEY	1635		jikkaja	jikkaja 
+1360	32-19-47-1	722142997791946	Yaqui	yaqu1251	to permit	PERMIT	1003		su’utoja	su’utoja 
+1361	32-19-51-1	722142463111420	Yaqui	yaqu1251	the friend	FRIEND	1325		jala’i	jala’i 
+1362	32-19-51-2	722142814286406	Yaqui	yaqu1251	the friend	FRIEND	1325		joiwai	joiwai 
+1363	32-19-52-1	722142680106684	Yaqui	yaqu1251	the enemy	ENEMY	1358		enemiko	enemiko 
+1364	32-19-54-1	722142694610487	Yaqui	yaqu1251	the neighbour	NEIGHBOUR	1332		konila jo’akame	konila jo’akame 
+1365	32-19-55-1	722142237864547	Yaqui	yaqu1251	the stranger	STRANGER	791		ejtanjeo	ejtanjeo 
+1366	32-19-55-2	722142547801683	Yaqui	yaqu1251	the stranger	STRANGER	791		yooi	yooi 
+1367	32-19-56-1	722142738628087	Yaqui	yaqu1251	the guest	GUEST	1782		bisitaroame	bisitaroame 
+1368	32-19-57-1	722142654448078	Yaqui	yaqu1251	the host	HOST	1545		joakame	joakame 
+1369	32-19-58-1	722142386926691	Yaqui	yaqu1251	to help	HELP	1897		ania (2)	ania (2) 
+1370	32-19-59-1	722142461557061	Yaqui	yaqu1251	to prevent	PREVENT	1550		tejwa	tejwa 
+1371	32-19-59-2	722142445802712	Yaqui	yaqu1251	to prevent	PREVENT	1550		prebiniaroa	prebiniaroa 
+1372	32-19-59-3	722142666445685	Yaqui	yaqu1251	to prevent	PREVENT	1550		ejtorbaroa	ejtorbaroa 
+1373	32-19-61-1	722142526515017	Yaqui	yaqu1251	the custom	CUSTOM	1747		kojtumrem ~ kojtumbrem	kojtumrem ~ kojtumbrem 
+1374	32-19-62-1	722142221397914	Yaqui	yaqu1251	the quarrel	QUARREL	1848		nassuawame	nassuawame 
+1375	32-19-63-1	722142430557109	Yaqui	yaqu1251	the plot	PLOT	2024		nau eewame	nau eewame 
+1376	32-19-65-1	722142277866508	Yaqui	yaqu1251	to meet	MEET	1831		tea	tea 
+1377	32-19-72-1	722142788802362	Yaqui	yaqu1251	the prostitute	PROSTITUTE	1610		kia weamame	kia weamame 
+1378	32-20-11-1	722142816327142	Yaqui	yaqu1251	to fight	FIGHT	1423		nassua	nassua 
+1379	32-20-13-1	722142871118760	Yaqui	yaqu1251	the war or battle	BATTLE	579		jusakana	jusakana 
+1380	32-20-13-2	722142580188212	Yaqui	yaqu1251	the war or battle	BATTLE	579		geer	geer 
+1381	32-20-14-1	722142739927899	Yaqui	yaqu1251	the peace	PEACE	1338		yanti jote’ewame	yanti jote’ewame 
+1382	32-20-14-2	722142558440131	Yaqui	yaqu1251	the peace	PEACE	1338		paas	paas 
+1383	32-20-15-1	722142314518842	Yaqui	yaqu1251	the army	ARMY	1561		troopa	troopa 
+1384	32-20-17-1	722142363178616	Yaqui	yaqu1251	the soldier	SOLDIER	1941		sontao	sontao 
+1385	32-20-21-1	722142930078159	Yaqui	yaqu1251	the weapons	WEAPONS	951		wiko’i	wiko’i 
+1386	32-20-22-1	722142879333377	Yaqui	yaqu1251	the club	CLUB	1763		kuta	kuta 
+1387	32-20-222-1	722142983282669	Yaqui	yaqu1251	the battle-axe	BATTLE-AXE	386		tepuam	tepuam 
+1388	32-20-23-1	722142723975262	Yaqui	yaqu1251	the sling	SLING	387		wicha’arakiam	wicha’arakiam 
+1389	32-20-24-1	722142989140710	Yaqui	yaqu1251	the bow	BOW	994		kuta wiko’i	kuta wiko’i 
+1390	32-20-25-1	72214254524821	Yaqui	yaqu1251	the arrow	ARROW	977		kuta juiwam	kuta juiwam 
+1391	32-20-26-1	722142960623130	Yaqui	yaqu1251	the spear	SPEAR	945		lansam	lansam 
+1392	32-20-27-1	722142551323929	Yaqui	yaqu1251	the sword	SWORD	1535		ejpaam	ejpaam 
+1393	32-20-28-1	722142930078159	Yaqui	yaqu1251	the gun	GUN	1566		wiko’i	wiko’i 
+1394	32-20-28-2	72214257746659	Yaqui	yaqu1251	the gun	GUN	1566		kanyon	kanyon 
+1395	32-20-41-1	722142444564101	Yaqui	yaqu1251	the victory	VICTORY	783		yo’o	yo’o 
+1396	32-20-42-1	722142105146983	Yaqui	yaqu1251	the defeat	DEFEAT	782		koobe	koobe 
+1397	32-20-43-1	722142906813575	Yaqui	yaqu1251	the attack	ATTACK	722		atakaroa	atakaroa 
+1398	32-20-44-1	722142386926691	Yaqui	yaqu1251	to defend	DEFEND	1330		ania (2)	ania (2) 
+1399	32-20-45-1	7221429088017	Yaqui	yaqu1251	to retreat	RETREAT	421		euse	euse 
+1400	32-20-46-1	722142195460425	Yaqui	yaqu1251	to surrender	SURRENDER	1696		emo su’utoja	emo su’utoja 
+1401	32-20-47-1	722142153486966	Yaqui	yaqu1251	the captive or prisoner	PRISONER	1072		eta’i	eta’i 
+1402	32-20-471-1	722142806730924	Yaqui	yaqu1251	the guard	GUARD	1940		waaria	waaria 
+1403	32-20-48-1	722142668154646	Yaqui	yaqu1251	the booty	BOOTY	1022		tomi	tomi 
+1404	32-20-49-1	722142273614230	Yaqui	yaqu1251	the ambush	AMBUSH	65		bo’o yejteria	bo’o yejteria 
+1405	32-20-51-1	722142528551072	Yaqui	yaqu1251	the fisherman	FISHERMAN	1858		kuchureo	kuchureo 
+1406	32-20-52-1	722142805135485	Yaqui	yaqu1251	the fishhook	FISHHOOK	1074		ansueelom	ansueelom 
+1407	32-20-53-1	722142403832921	Yaqui	yaqu1251	the fishing line	FISHING LINE	19		wii’i	wii’i 
+1408	32-20-54-1	722142614751530	Yaqui	yaqu1251	the fishnet	FISHNET	388		jite’im	jite’im 
+1409	32-20-55-1	722142482177242	Yaqui	yaqu1251	the fish trap	FISH TRAP	389		taampa	taampa 
+1410	32-20-56-1	722142295011840	Yaqui	yaqu1251	the bait	BAIT	2013		bwa’ame	bwa’ame 
+1411	32-20-61-1	722142872388567	Yaqui	yaqu1251	to hunt	HUNT	1435		aamu	aamu 
+1412	32-20-62-1	722142236900820	Yaqui	yaqu1251	to shoot	SHOOT	1172		pusilaroa	pusilaroa 
+1413	32-20-63-1	722142207100574	Yaqui	yaqu1251	to miss	MISS (A TARGET)	161		ji’obe	ji’obe 
+1414	32-20-63-2	72214290959203	Yaqui	yaqu1251	to miss	MISS (A TARGET)	161		payaroa	payaroa 
+1415	32-20-64-1	722142482177242	Yaqui	yaqu1251	the trap	TRAP (PITFALL)	1075		taampa	taampa 
+1416	32-20-65-1	722142936842317	Yaqui	yaqu1251	to trap	TRAP (CATCH)	1170		bwise	bwise 
+1417	32-21-11-1	722142144660714	Yaqui	yaqu1251	the law	LAW	1062		lei	lei 
+1418	32-21-15-1	72214282694241	Yaqui	yaqu1251	the court	COURT	1068		tribunaal	tribunaal 
+1419	32-12-013-1	722142871403280	Yaqui	yaqu1251	at	AT	1461		-chi	-chi 
+1420	32-12-013-2	722142552187567	Yaqui	yaqu1251	at	AT	1461		-po	-po 
+1421	32-21-16-1	722142194224847	Yaqui	yaqu1251	to adjudicate	ADJUDICATE	1818		juskaroa	juskaroa 
+1422	32-21-17-1	722142191525716	Yaqui	yaqu1251	the judgment	JUDGMENT	1067		juisio	juisio 
+1423	32-21-18-1	722142227445790	Yaqui	yaqu1251	the judge	JUDGE	861		joes	joes 
+1424	32-21-21-1	722142846197423	Yaqui	yaqu1251	the plaintiff	PLAINTIFF	2020		jikku’ubwame	jikku’ubwame 
+1425	32-21-22-1	722142133768972	Yaqui	yaqu1251	the defendant	DEFENDANT	1034		jiku’ubwai	jiku’ubwai 
+1426	32-21-22-2	722142574865651	Yaqui	yaqu1251	the defendant	DEFENDANT	1034		yeu bwijri	yeu bwijri 
+1427	32-21-23-1	722142615458089	Yaqui	yaqu1251	the witness	WITNESS	1144		tejtiiko	tejtiiko 
+1428	32-21-24-1	722142871782752	Yaqui	yaqu1251	to swear	SWEAR	1939		juraroa	juraroa 
+1429	32-21-25-1	722142320758685	Yaqui	yaqu1251	the oath	OATH	1712		juraroawame	juraroawame 
+1430	32-21-31-1	722142577001411	Yaqui	yaqu1251	to accuse	ACCUSE	1814		jiku’ubwa	jiku’ubwa 
+1431	32-21-31-2	722142858981230	Yaqui	yaqu1251	to accuse	ACCUSE	1814		yeu bwise	yeu bwise 
+1432	32-21-32-1	722142277248819	Yaqui	yaqu1251	to condemn	CONDEMN	484		konrenaroa	konrenaroa 
+1433	32-21-33-1	722142277248819	Yaqui	yaqu1251	to convict	CONVICT	983		konrenaroa	konrenaroa 
+1434	32-21-34-1	722142842793791	Yaqui	yaqu1251	to acquit	ACQUIT	988		kulpata a u’ura	kulpata a u’ura 
+1435	32-21-35-1	722142714600249	Yaqui	yaqu1251	guilty	GUILTY	1682		kulpakame	kulpakame 
+1436	32-21-36-1	72214250319595	Yaqui	yaqu1251	innocent	INNOCENT	90		kaa inen ayukame	kaa inen ayukame 
+1437	32-21-37-1	722142751476957	Yaqui	yaqu1251	the penalty or punishment	PUNISHMENT	390		kajtiiko	kajtiiko 
+1438	32-21-37-2	722142146214224	Yaqui	yaqu1251	the penalty or punishment	PUNISHMENT	390		peena	peena 
+1439	32-21-38-1	722142964376716	Yaqui	yaqu1251	the fine	FINE (PENALTY)	218		multa	multa 
+1440	32-21-39-1	722142440833335	Yaqui	yaqu1251	the prison	PRISON	1281		kasel	kasel 
+1441	32-21-42-1	722142484356935	Yaqui	yaqu1251	the murder	MURDER	845		mukwame	mukwame 
+1442	32-21-43-1	722142579176696	Yaqui	yaqu1251	the adultery	ADULTERY	902		baita’a	baita’a 
+1443	32-21-44-1	722142145021223	Yaqui	yaqu1251	the rape	RAPE	953		kaa yoyo’orek	kaa yoyo’orek 
+1444	32-21-44-2	72214261966236	Yaqui	yaqu1251	the rape	RAPE	953		biolasion	biolasion 
+1445	32-21-46-1	722142702155231	Yaqui	yaqu1251	the arson	ARSON	1889		ju’unakteka jittaji	ju’unakteka jittaji 
+1446	32-21-47-1	72214297166984	Yaqui	yaqu1251	the perjury	PERJURY	1792		anoki’ichia	anoki’ichia 
+1447	32-21-51-1	722142799635507	Yaqui	yaqu1251	to steal	STEAL	713		etbwa	etbwa 
+1448	32-21-52-1	722142527826757	Yaqui	yaqu1251	the thief	THIEF	1160		lakrom	lakrom 
+1449	32-22-11-1	722142782222892	Yaqui	yaqu1251	the religion	RELIGION	661		relijion	relijion 
+1450	32-22-12-1	722142872438471	Yaqui	yaqu1251	the god	DEITY	3231		lios	lios 
+1451	32-22-13-1	722142574573735	Yaqui	yaqu1251	the temple	TEMPLE	911		te’opo (1)	te’opo (1) 
+1452	32-22-14-1	722142582997491	Yaqui	yaqu1251	the altar	ALTAR	853		altaar	altaar 
+1453	32-22-15-1	722142495505023	Yaqui	yaqu1251	the sacrifice	SACRIFICE	1103		miika	miika 
+1454	32-22-16-1	722142383236523	Yaqui	yaqu1251	to worship	WORSHIP	257		yo’ore	yo’ore 
+1455	32-22-17-1	722142317033448	Yaqui	yaqu1251	to pray	PRAY	24		lionoka	lionoka 
+1456	32-22-17-2	722142387640073	Yaqui	yaqu1251	to pray	PRAY	24		resaroa	resaroa 
+1457	32-22-18-1	722142513275742	Yaqui	yaqu1251	the priest	PRIEST	852		paare	paare 
+1458	32-22-19-1	722142722946012	Yaqui	yaqu1251	holy	HOLY	1702		yo’oriwa	yo’oriwa 
+1459	32-22-22-1	722142317033448	Yaqui	yaqu1251	to preach	PREACH	304		lionoka	lionoka 
+1460	32-22-23-1	722142936548470	Yaqui	yaqu1251	to bless	BLESS	391		tu’isiawa	tu’isiawa 
+1461	32-22-24-1	722142890570452	Yaqui	yaqu1251	to curse	CURSE	8		jaaniawa	jaaniawa 
+1462	32-22-26-1	722142337939976	Yaqui	yaqu1251	to fast	ABSTAIN FROM FOOD	303		kaa jibwa	kaa jibwa 
+1463	32-22-31-1	722142151175517	Yaqui	yaqu1251	the heaven	HEAVEN	1565		yoo ania	yoo ania 
+1464	32-22-32-1	722142678305161	Yaqui	yaqu1251	the hell	HELL	878		inpierno	inpierno 
+1465	32-22-32-2	722142733010619	Yaqui	yaqu1251	the hell	HELL	878		yoojoara	yoojoara 
+1466	32-22-35-1	722142458877491	Yaqui	yaqu1251	the demon	DEMON	1973		bebeje’eri	bebeje’eri 
+1467	32-22-42-1	722142562349481	Yaqui	yaqu1251	the magic	MAGIC	392		yee sisibowame	yee sisibowame 
+1468	32-22-43-1	722142765344293	Yaqui	yaqu1251	the sorcerer or witch	MAGICIAN	2137		yee sisibome	yee sisibome 
+1469	32-22-44-1	722142223787771	Yaqui	yaqu1251	the fairy or elf	ELF OR FAIRY	3206		chooni	chooni 
+1470	32-22-45-1	722142392404611	Yaqui	yaqu1251	the ghost	GHOST	1175		mukia	mukia 
+1471	32-22-45-2	722142879052143	Yaqui	yaqu1251	the ghost	GHOST	1175		jiapsi	jiapsi 
+1472	32-22-45-3	722142617290983	Yaqui	yaqu1251	the ghost	GHOST	1175		chichijal	chichijal 
+1473	32-22-47-1	72214216860433	Yaqui	yaqu1251	the omen	OMEN	107		eeri	eeri 
+1474	32-23-1-1	722142794431215	Yaqui	yaqu1251	the radio	RADIO	1315		rario	rario 
+1475	32-23-11-1	72214247183344	Yaqui	yaqu1251	the television	TELEVISION	1788		teele	teele 
+1476	32-23-12-1	722142128589425	Yaqui	yaqu1251	the telephone	TELEPHONE	1379		teleepono	teleepono 
+1477	32-23-135-1	722142156832368	Yaqui	yaqu1251	the motorcycle	MOTORCYCLE	638		mooto	mooto 
+1478	32-23-14-1	722142318086990	Yaqui	yaqu1251	the car	CAR	1111		kaaro	kaaro 
+1479	32-23-15-1	722142455896462	Yaqui	yaqu1251	the bus	BUS	1070		kamion	kamion 
+1480	32-23-16-1	722142908689510	Yaqui	yaqu1251	the airplane	AIRPLANE	1597		abion	abion 
+1481	32-23-17-1	722142685219821	Yaqui	yaqu1251	the electricity	ELECTRICITY	59		luus	luus 
+1482	32-23-175-1	722142517494062	Yaqui	yaqu1251	the battery	BATTERY	662		bateriiam	bateriiam 
+1483	32-23-2-1	722142482481232	Yaqui	yaqu1251	the hospital	HOSPITAL	616		ojpital	ojpital 
+1484	32-23-21-1	722142769090657	Yaqui	yaqu1251	the nurse	NURSE	1104		empermea	empermea 
+1485	32-23-22-1	722142942113563	Yaqui	yaqu1251	the pill or tablet	PILL	395		pajtiam	pajtiam 
+1486	32-23-23-1	722142602195338	Yaqui	yaqu1251	the injection	INJECTION	1805		inyeksionim	inyeksionim 
+1487	32-23-5-1	722142341091189	Yaqui	yaqu1251	the tap/faucet	FAUCET	1488		mamam babaksiawa’apo	mamam babaksiawa’apo 
+1488	32-23-5-2	722142169290741	Yaqui	yaqu1251	the tap/faucet	FAUCET	1488		labareo	labareo 
+1489	32-23-51-1	722142807503911	Yaqui	yaqu1251	the sink	SINK (BASIN)	915		pu’atom babaksiawa’apo	pu’atom babaksiawa’apo 
+1490	32-23-52-1	722142624817893	Yaqui	yaqu1251	the toilet	TOILET	219		komon	komon 
+1491	32-23-53-1	722142379468289	Yaqui	yaqu1251	the mattress	MATTRESS	105		kolchoonim	kolchoonim 
+1492	32-23-3-1	72214243698841	Yaqui	yaqu1251	the government	GOVERNMENT	815		kobanaroawame	kobanaroawame 
+1493	32-23-31-1	722142150801015	Yaqui	yaqu1251	the president	PRESIDENT	899		presirente	presirente 
+1494	32-23-33-1	722142194801816	Yaqui	yaqu1251	the police	POLICE	656		polisiia	polisiia 
+1495	32-23-34-1	722142317379811	Yaqui	yaqu1251	the driver's license	DRIVER'S LICENSE	599		lisensia	lisensia 
+1496	32-23-37-1	722142557518659	Yaqui	yaqu1251	the crime	CRIME	1066		leriito	leriito 
+1497	32-23-38-1	722142886197085	Yaqui	yaqu1251	the election	ELECTION	240		eleksion	eleksion 
+1498	32-23-4-1	722142916780361	Yaqui	yaqu1251	the post/mail	MAIL	167		koreo	koreo 
+1499	32-23-41-1	722142703448979	Yaqui	yaqu1251	the postage stamp	POSTAGE STAMP	596		ejtampia	ejtampia 
+1500	32-23-42-1	722142437891270	Yaqui	yaqu1251	the letter	LETTER	1612		kaata	kaata 
+1501	32-23-44-1	7611240416714673	Yaqui	yaqu1251	the bank	BANK	1284		banko (2)	banko (2) 
+1502	32-23-54-1	722142513122563	Yaqui	yaqu1251	the tin/can	CAN	1051		ampora	ampora 
+1503	32-23-55-1	722142815613442	Yaqui	yaqu1251	the screw	SCREW	1802		tornio	tornio 
+1504	32-23-555-1	722142237057364	Yaqui	yaqu1251	the screwdriver	SCREWDRIVER	836		resarmaroorim	resarmaroorim 
+1505	32-23-56-1	722142174758406	Yaqui	yaqu1251	the bottle	BOTTLE	1321		botea	botea 
+1506	32-23-565-1	722142241350788	Yaqui	yaqu1251	the candy/sweets	CANDY	874		kakam	kakam 
+1507	32-23-24-1	722142129586073	Yaqui	yaqu1251	the spectacles/glasses	SPECTACLES	1898		lentem	lentem 
+1508	32-23-57-1	72214251792875	Yaqui	yaqu1251	the plastic	PLASTIC	654		uuli	uuli 
+1509	32-23-575-1	722142609202710	Yaqui	yaqu1251	the bomb	BOMB	1804		bombam	bombam 
+1510	32-23-58-1	722142560245295	Yaqui	yaqu1251	the workshop	WORKSHOP	1677		paprika	paprika 
+1511	32-23-59-1	722142390778858	Yaqui	yaqu1251	the cigarette	CIGARETTE	969		biiba	biiba 
+1512	32-23-61-1	722142456223112	Yaqui	yaqu1251	the calendar	CALENDAR	1967		almanaakem	almanaakem 
+1513	32-23-62-1	722142210205793	Yaqui	yaqu1251	the film/movie	MOVIE	216		peliikulam	peliikulam 
+1514	32-23-63-1	722142202859497	Yaqui	yaqu1251	the music	MUSIC	642		jiawai	jiawai 
+1515	32-23-64-1	722142253088935	Yaqui	yaqu1251	the song	SONG	1096		wuiikam	wuiikam 
+1516	32-23-6-1	722142814444180	Yaqui	yaqu1251	the newspaper	NEWSPAPER	1298		perioriko	perioriko 
+1517	32-23-385-1	722142328762243	Yaqui	yaqu1251	the address	ADDRESS	591		jakunria	jakunria 
+1518	32-23-39-1	722142844381378	Yaqui	yaqu1251	the number	NUMBER	1356		jina’ikiawame	jina’ikiawame 
+1519	32-23-39-2	722142376415566	Yaqui	yaqu1251	the number	NUMBER	1356		numero	numero 
+1520	32-23-155-1	722142962623327	Yaqui	yaqu1251	the train	TRAIN	900		treen	treen 
+1521	32-23-36-1	722142786721872	Yaqui	yaqu1251	the birth certificate	BIRTH CERTIFICATE	397		nasimiento akta	nasimiento akta 
+1522	32-23-36-2	722142227758990	Yaqui	yaqu1251	the birth certificate	BIRTH CERTIFICATE	397		yeu tomtia ji’osia	yeu tomtia ji’osia 
+1523	32-23-18-1	722142465509232	Yaqui	yaqu1251	to brake	BRAKE	966		manitua	manitua 
+1524	32-23-195-1	722142150788494	Yaqui	yaqu1251	the petroleum	PETROLEUM	650		aseite	aseite 
+1525	32-23-185-1	722142660489267	Yaqui	yaqu1251	the motor	MOTOR	110		motor	motor 
+1526	32-23-19-1	722142272152315	Yaqui	yaqu1251	the machine	MACHINE	144		maakina	maakina 
+1527	32-23-13-1	722142935647568	Yaqui	yaqu1251	the bicycle	BICYCLE	747		bisikleeta	bisikleeta 
+1528	32-23-395-1	722142975150657	Yaqui	yaqu1251	the street	STREET	1362		boo’o	boo’o 
+1529	32-19-445-1	722142997791946	Yaqui	yaqu1251	to liberate	LIBERATE	37		su’utoja	su’utoja 
+1530	32-19-565-1	722142347670222	Yaqui	yaqu1251	to invite	INVITE	1611		nunu	nunu 
+1531	32-23-35-1	722142317379811	Yaqui	yaqu1251	the license plate	LICENSE PLATE	1790		lisensia	lisensia 
+1532	32-23-43-1	722142785108462	Yaqui	yaqu1251	the postcard	POSTCARD	1497		taajeta	taajeta 
+1533	32-24-02-1	722142915165732	Yaqui	yaqu1251	to become	BECOME	1990		ayune	ayune 
+1534	32-24-03-1	722142562548186	Yaqui	yaqu1251	without	WITHOUT	1478		kaa a weiya	kaa a weiya 
+1535	32-24-05-1	722142856722164	Yaqui	yaqu1251	through	THROUGH	97		e’e (2)	e’e (2) 
+1536	32-24-13-1	722142190515049	Yaqui	yaqu1251	same	SAME	200		nana’ana	nana’ana 
+1537	32-24-06-1	722142480061063	Yaqui	yaqu1251	not	NOT	1240		ini’i	ini’i 
+1538	32-24-07-1	72214221063088	Yaqui	yaqu1251	this	THIS	1214		junu’u	junu’u 
+1539	32-24-08-1	722142453022441	Yaqui	yaqu1251	that	THAT	78		inimi’i	inimi’i 
+1540	32-24-09-1	722142757245728	Yaqui	yaqu1251	here	HERE	136		junumu’u	junumu’u 
+1541	32-24-1-1	722142406245203	Yaqui	yaqu1251	there	THERE	1937		seenu	seenu 
+1542	32-24-11-1	722142406245203	Yaqui	yaqu1251	other	OTHER	197		seenu	seenu 
+1543	32-4-493-1	722142216114543	Yaqui	yaqu1251	the vagina	VAGINA	1836		koim	koim 
+1544	32-23-9-1	722142296869398	Yaqui	yaqu1251	the tea	TEA	1373		te	te 
+1545	32-23-91-1	722142585282121	Yaqui	yaqu1251	the coffee	COFFEE	1299		kapee	kapee 
+1546	32-3-862-1	722142274424349	Yaqui	yaqu1251	the coyote	COYOTE	912		wo’i	wo’i 
+1547	32-3-863-1	722142287344009	Yaqui	yaqu1251	the hare	HARE	1190		paaros	paaros 
+1548	32-3-865-1	72214268361752	Yaqui	yaqu1251	the quail	QUAIL	1893		suba’i	suba’i 
+1549	32-3-866-1	722142221499420	Yaqui	yaqu1251	the raccoon	RACCOON	828		chooparau	chooparau 
+1550	32-3-869-1	722142999176655	Yaqui	yaqu1251	the squirrel	SQUIRREL	1628		teku	teku 
+1551	32-1-771-1	722142834360764	Yaqui	yaqu1251	the arctic lights	ARCTIC LIGHTS	261		tachia	tachia 
+1552	32-4-465-1	722142244401710	Yaqui	yaqu1251	the sinew or tendon	TENDON	1137		tate	tate 
+1553	32-7-67-1	722142326419523	Yaqui	yaqu1251	to tan	TAN	247		taya	taya 
+1554	32-7-67-2	7221421945015	Yaqui	yaqu1251	to tan	TAN	247		emo taya	emo taya 
+1555	32-8-996-1	722142872767133	Yaqui	yaqu1251	the cone	CONE	287		oko	oko 
+1556	32-3-8112-1	722142279319001	Yaqui	yaqu1251	the body louse	BODY LOUSE	311		ete	ete 
+1557	32-4-494-1	722142216114543	Yaqui	yaqu1251	the vulva	VULVA	1837		koim	koim 
+1558	32-7-65-1	722142475351010	Yaqui	yaqu1251	the camp	CAMP	1105		jo’oteria	jo’oteria 
+1559	32-3-833-1	722142712976089	Yaqui	yaqu1251	the prawns or shrimp	PRAWNS	238		bawo’ochi	bawo’ochi 
+1560	32-3-834-1	722142938193670	Yaqui	yaqu1251	the termites	TERMITE	883		basu’uchi	basu’uchi 
+1561	32-3-89-1	72214294688543	Yaqui	yaqu1251	the anteater	ANTEATER	181		maaso	maaso 
+1562	32-3-9-1	722142120818442	Yaqui	yaqu1251	the jaguar	JAGUAR	1250		ousei	ousei 
+1563	32-7-66-1	722142284029965	Yaqui	yaqu1251	the hammock	HAMMOCK	2019		maaka	maaka 
+1564	32-8-911-1	722142661272682	Yaqui	yaqu1251	the millet or sorghum	MILLET	931		sorwo	sorwo 
+1565	32-3-913-1	722142762124969	Yaqui	yaqu1251	the chameleon	CHAMELEON	1555		motcho’okol	motcho’okol 
+1566	32-10-58-1	722142187909660	Yaqui	yaqu1251	to go or return home	RETURN HOME	142		jo’arau notte	jo’arau notte 
+1567	32-1-411-1	722142987308351	Yaqui	yaqu1251	the savanna	SAVANNA	260		pa’aria	pa’aria 
+1568	32-1-831-1	722142719445804	Yaqui	yaqu1251	the steam	STEAM	1193		jaawa	jaawa 
+1569	32-2-4561-1	722142312191616	Yaqui	yaqu1251	the older sibling	OLDER SIBLING	405		ako	ako 
+1570	32-2-4561-2	722142374079539	Yaqui	yaqu1251	the older sibling	OLDER SIBLING	405		jaka yo’owe	jaka yo’owe 
+1571	32-2-4561-3	722142367338734	Yaqui	yaqu1251	the older sibling	OLDER SIBLING	405		abachi	abachi 
+1572	32-2-4561-4	722142525966350	Yaqui	yaqu1251	the older sibling	OLDER SIBLING	405		sai	sai 
+1573	32-2-4562-1	722142488462588	Yaqui	yaqu1251	the younger sibling	YOUNGER SIBLING	427		wai	wai 
+1574	32-2-4562-2	722142742810103	Yaqui	yaqu1251	the younger sibling	YOUNGER SIBLING	427		beme ja’aka	beme ja’aka 
+1575	32-2-4562-3	722142519509889	Yaqui	yaqu1251	the younger sibling	YOUNGER SIBLING	427		pale	pale 
+1576	32-2-4562-4	722142181564582	Yaqui	yaqu1251	the younger sibling	YOUNGER SIBLING	427		saila	saila 
+1577	32-2-4711-1	722142177623578	Yaqui	yaqu1251	the grandparents	GRANDPARENTS	305		jaaka	jaaka 
+1578	32-2-4711-2	722142347066101	Yaqui	yaqu1251	the grandparents	GRANDPARENTS	305		asu	asu 
+1579	32-2-4711-3	722142890648293	Yaqui	yaqu1251	the grandparents	GRANDPARENTS	305		apa	apa 
+1580	32-2-4711-4	722142506487765	Yaqui	yaqu1251	the grandparents	GRANDPARENTS	305		jaboi	jaboi 
+1581	32-2-5-1	722142212724797	Yaqui	yaqu1251	the grandchild	GRANDCHILD	1617		apala ~ aparai	apala ~ aparai 
+1582	32-2-541-1	722142748169132	Yaqui	yaqu1251	the sibling’s child	SIBLING'S CHILD	173		asowaara ~ asowaala	asowaara ~ asowaala 
+1583	32-2-541-2	722142344266598	Yaqui	yaqu1251	the sibling’s child	SIBLING'S CHILD	173		jabire	jabire 
+1584	32-2-541-3	722142159339735	Yaqui	yaqu1251	the sibling’s child	SIBLING'S CHILD	173		jakara	jakara 
+1585	32-2-541-4	722142483548107	Yaqui	yaqu1251	the sibling’s child	SIBLING'S CHILD	173		samali	samali 
+1586	32-2-622-1	722142573882816	Yaqui	yaqu1251	the parents-in-law	PARENTS-IN-LAW	306		ase’ebwa	ase’ebwa 
+1587	32-2-622-2	722142969598799	Yaqui	yaqu1251	the parents-in-law	PARENTS-IN-LAW	306		aseka	aseka 
+1588	32-2-6411-1	722142759409661	Yaqui	yaqu1251	the child-in-law	CHILD-IN-LAW	1060		mo’one	mo’one 
+1589	32-2-6412-1	72214285836788	Yaqui	yaqu1251	the sibling-in-law	SIBLING-IN-LAW	1832		jaborai	jaborai 
+1590	32-2-931-1	722142211972171	Yaqui	yaqu1251	he	HE	1211		aapo	aapo 
+1591	32-2-932-1	722142211972171	Yaqui	yaqu1251	she	SHE	1834		aapo	aapo 
+1592	32-4-771-1	722142345297784	Yaqui	yaqu1251	the carcass	CARCASS	1770		mukila	mukila 
+1593	32-4-844-1	722142749671762	Yaqui	yaqu1251	the disease	DISEASE	1986		ko’okoa	ko’okoa 
+1594	32-7-232-1	72214276387229	Yaqui	yaqu1251	the padlock	PADLOCK	336		kandao	kandao 
+1595	32-11-29-1	722142499546549	Yaqui	yaqu1251	to damage	DAMAGE	1116		nasonta	nasonta 
+1596	32-12-081-1	722142129726164	Yaqui	yaqu1251	above	ABOVE	1741		bepa	bepa 
+1597	32-13-231-1	722142585379438	Yaqui	yaqu1251	the piece	PIECE	594		lebelai	lebelai 
+1598	32-13-231-2	722142591643797	Yaqui	yaqu1251	the piece	PIECE	594		rebei	rebei 
+1599	32-13-331-1	722142889978117	Yaqui	yaqu1251	alone	ALONE	1964		aapola	aapola 
+1600	32-22-131-1	7661716288197321	Yaqui	yaqu1251	the church	CHURCH	1349		te’opo	te’opo 
+1601	32-24-14-1	722142165602164	Yaqui	yaqu1251	nothing	NOTHING	687		kaita	kaita 
+1602	32-4-7501-1	722142392404611	Yaqui	yaqu1251	dead	DEAD	1625		mukia	mukia 
+1603	32-4-8541-1	722142874796172	Yaqui	yaqu1251	to scratch	SCRATCH	1436		wo’oke	wo’oke 
+1604	32-9-111-1	722142559024224	Yaqui	yaqu1251	to make	MAKE	734		jooa	jooa 
+1605	32-9-111-2	72214246278987	Yaqui	yaqu1251	to make	MAKE	734		yaa	yaa 
+1606	32-4-431-1	72214241344680	Yaqui	yaqu1251	the belly	BELLY	1251		to’ona	to’ona 
+1607	32-1-775-1	722142731370827	Yaqui	yaqu1251	to freeze	FREEZE	1431		sapa weche	sapa weche 
+1608	32-24-04-1	722142511824956	Yaqui	yaqu1251	with	WITH	1340		naabujtia	naabujtia 
+1609	32-12-012-1	722142552187567	Yaqui	yaqu1251	in	IN	1460		-po	-po 
+1610	32-3-99917-1	72214223011372	Yaqui	yaqu1251	the herd				manara	manara 
+1611	32-3-99924-1	722142279319001	Yaqui	yaqu1251	the louse				ete	ete 
+1612	32-3-99938-1	722142538481521	Yaqui	yaqu1251	the roadrunner				taruk	taruk 
+1613	32-3-99939-1	722142228187547	Yaqui	yaqu1251	the skunk				jupa	jupa 
+1614	32-5-99919-1	722142821204997	Yaqui	yaqu1251	the tamale				nojim	nojim 
+1615	32-5-99921-1	722142231765958	Yaqui	yaqu1251	the tortilla				tajkaim	tajkaim 

@@ -1,0 +1,1414 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	33-1-1-1	7214231572332013	Zinacantán Tzotzil	tzot1259	the world	WORLD	965		balamil	balamil 
+2	33-1-21-1	7214231572332013	Zinacantán Tzotzil	tzot1259	the land	LAND	626		balamil	balamil 
+3	33-1-21-2	72142315209283187	Zinacantán Tzotzil	tzot1259	the land	LAND	626		7osil	7osil 
+4	33-1-212-1	72142315230767094	Zinacantán Tzotzil	tzot1259	the soil	EARTH (SOIL)	1228		puksat balamil	puksat balamil 
+5	33-1-213-1	72142315975768276	Zinacantán Tzotzil	tzot1259	the dust	DUST	2		7ik'ubal	7ik'ubal 
+6	33-1-213-2	72142315148797240	Zinacantán Tzotzil	tzot1259	the dust	DUST	2		pukuk	pukuk 
+7	33-1-214-1	72142315975768276	Zinacantán Tzotzil	tzot1259	the mud	MUD	640		7ik'ubal	7ik'ubal 
+8	33-1-214-2	72142315212494634	Zinacantán Tzotzil	tzot1259	the mud	MUD	640		tatal	tatal 
+9	33-1-214-3	72142315997451686	Zinacantán Tzotzil	tzot1259	the mud	MUD	640		7ach'el	7ach'el 
+10	33-1-215-1	72142315421799807	Zinacantán Tzotzil	tzot1259	the sand	SAND	671		yi'	yi' 
+11	33-1-22-1	72142315796873010	Zinacantán Tzotzil	tzot1259	the mountain or hill	MOUNTAIN OR HILL	2118		vitz	vitz 
+12	33-1-222-1	72142315310961666	Zinacantán Tzotzil	tzot1259	the cliff or precipice	PRECIPICE	618		ch'en	ch'en 
+13	33-1-222-2	72142315742680421	Zinacantán Tzotzil	tzot1259	the cliff or precipice	PRECIPICE	618		k'ulebal	k'ulebal 
+14	33-1-23-1	72142315728282076	Zinacantán Tzotzil	tzot1259	the plain	PLAIN	652		pach'altik	pach'altik 
+15	33-1-24-1	72142315757689169	Zinacantán Tzotzil	tzot1259	the valley	VALLEY	921		pul'osil	pul'osil 
+16	33-1-24-2	72142315384984866	Zinacantán Tzotzil	tzot1259	the valley	VALLEY	921		pulav	pulav 
+17	33-1-27-1	7214231567752609	Zinacantán Tzotzil	tzot1259	the shore	SHORE	113		ti' _________	ti' _________ 
+18	33-1-28-1	72142315310961666	Zinacantán Tzotzil	tzot1259	the cave	CAVE	1155		ch'en	ch'en 
+19	33-1-28-2	72142315726320499	Zinacantán Tzotzil	tzot1259	the cave	CAVE	1155		nail ch'en	nail ch'en 
+20	33-1-28-3	72142315742680421	Zinacantán Tzotzil	tzot1259	the cave	CAVE	1155		k'ulebal	k'ulebal 
+21	33-1-31-1	72142315501822912	Zinacantán Tzotzil	tzot1259	the water	WATER	948		vo'	vo' 
+22	33-1-31-2	72142315878964733	Zinacantán Tzotzil	tzot1259	the water	WATER	948		7a'al	7a'al 
+23	33-1-32-1	72142315998095923	Zinacantán Tzotzil	tzot1259	the sea	SEA	1474		nab	nab 
+24	33-1-322-1	72142315250881217	Zinacantán Tzotzil	tzot1259	calm	CALM	258		vashal	vashal 
+25	33-1-324-1	72142315482593781	Zinacantán Tzotzil	tzot1259	the foam	FOAM	1768		vok	vok 
+26	33-1-329-1	72142315998095923	Zinacantán Tzotzil	tzot1259	the ocean	OCEAN	645		nab	nab 
+27	33-1-33-1	72142315998095923	Zinacantán Tzotzil	tzot1259	the lake	LAKE	624		nab	nab 
+28	33-1-36-1	72142315998095923	Zinacantán Tzotzil	tzot1259	the river or stream	RIVER	666		nab	nab 
+29	33-1-36-2	72142315681314711	Zinacantán Tzotzil	tzot1259	the river or stream	RIVER	666		7uk’um	7uk’um 
+30	33-1-37-1	72142315594806696	Zinacantán Tzotzil	tzot1259	the spring or well	SPRING OR WELL	2144		ninab	ninab 
+31	33-1-38-1	72142315858886140	Zinacantán Tzotzil	tzot1259	the swamp	SWAMP	1145		7ach'eltik	7ach'eltik 
+32	33-1-38-2	72142315100639082	Zinacantán Tzotzil	tzot1259	the swamp	SWAMP	1145		sha7ab	sha7ab 
+33	33-1-39-1	72142315482701414	Zinacantán Tzotzil	tzot1259	the waterfall	WATERFALL	943		yaleb vo'	yaleb vo' 
+34	33-1-41-1	72142315209283187	Zinacantán Tzotzil	tzot1259	the woods or forest	FOREST	420		7osil	7osil 
+35	33-1-41-2	72142315706812701	Zinacantán Tzotzil	tzot1259	the woods or forest	FOREST	420		te7tik	te7tik 
+36	33-1-43-1	72142315755852539	Zinacantán Tzotzil	tzot1259	the wood	WOOD	1803		takite7	takite7 
+37	33-1-44-1	72142315647277009	Zinacantán Tzotzil	tzot1259	the stone or rock	STONE OR ROCK	2125		ton	ton 
+38	33-1-45-1	7214231564680909	Zinacantán Tzotzil	tzot1259	the earthquake	EARTHQUAKE	6		nikel	nikel 
+39	33-1-51-1	72142315115653062	Zinacantán Tzotzil	tzot1259	the sky	SKY	1732		vinahel	vinahel 
+40	33-1-52-1	72142315175765045	Zinacantán Tzotzil	tzot1259	the sun	SUN	1343		k'ak'al	k'ak'al 
+41	33-1-53-1	72142315528136076	Zinacantán Tzotzil	tzot1259	the moon	MOON	1313		7u	7u 
+42	33-1-53-2	72142315973952417	Zinacantán Tzotzil	tzot1259	the moon	MOON	1313		luna	luna 
+43	33-1-54-1	72142315145964250	Zinacantán Tzotzil	tzot1259	the star	STAR	1430		k’anal	k’anal 
+44	33-1-55-1	72142315877705126	Zinacantán Tzotzil	tzot1259	the lightning	LIGHTNING	1654		saktzeul	saktzeul 
+45	33-1-55-2	72142315968859246	Zinacantán Tzotzil	tzot1259	the lightning	LIGHTNING	1654		chauk	chauk 
+46	33-1-56-1	72142315968859246	Zinacantán Tzotzil	tzot1259	the thunder	THUNDER	1150		chauk	chauk 
+47	33-1-56-2	72142315895436824	Zinacantán Tzotzil	tzot1259	the thunder	THUNDER	1150		me7 vo7	me7 vo7 
+48	33-1-57-1	72142315968859246	Zinacantán Tzotzil	tzot1259	the bolt of lightning	BOLT (OF LIGHTNING)	2007		chauk	chauk 
+49	33-1-58-1	72142315422540122	Zinacantán Tzotzil	tzot1259	the storm	STORM	858		tzuh ton	tzuh ton 
+50	33-1-59-1	72142315957559493	Zinacantán Tzotzil	tzot1259	the rainbow	RAINBOW	1733		me7 k’inubal	me7 k’inubal 
+51	33-1-59-2	72142315475733597	Zinacantán Tzotzil	tzot1259	the rainbow	RAINBOW	1733		vaknab	vaknab 
+52	33-1-61-1	72142315210200286	Zinacantán Tzotzil	tzot1259	the light	LIGHT (RADIATION)	630		k’ak’al	k’ak’al 
+53	33-1-61-2	72142315477997600	Zinacantán Tzotzil	tzot1259	the light	LIGHT (RADIATION)	630		k’ok’	k’ok’ 
+54	33-1-61-3	72142315783573268	Zinacantán Tzotzil	tzot1259	the light	LIGHT (RADIATION)	630		lus	lus 
+55	33-1-62-1	72142315576303911	Zinacantán Tzotzil	tzot1259	the darkness	DARKNESS	11		7ik’7osil	7ik’7osil 
+56	33-1-63-1	72142315988290868	Zinacantán Tzotzil	tzot1259	the shade or shadow	SHADE	1388		kevu	kevu 
+57	33-1-63-2	72142315650987256	Zinacantán Tzotzil	tzot1259	the shade or shadow	SHADE	1388		nak’obal	nak’obal 
+58	33-1-64-1	72142315292296136	Zinacantán Tzotzil	tzot1259	the dew	DEW	1977		7ov 7osil	7ov 7osil 
+59	33-1-71-1	72142315560388304	Zinacantán Tzotzil	tzot1259	the air	AIR	27		7ik’	7ik’ 
+60	33-1-72-1	72142315560388304	Zinacantán Tzotzil	tzot1259	the wind	WIND	960		7ik’	7ik’ 
+61	33-1-73-1	72142315367794899	Zinacantán Tzotzil	tzot1259	the cloud	CLOUD	1489		tok	tok 
+62	33-1-74-1	72142315930573680	Zinacantán Tzotzil	tzot1259	the fog	FOG	249		lumal tok	lumal tok 
+63	33-1-75-1	72142315189979249	Zinacantán Tzotzil	tzot1259	the rain	RAIN (PRECIPITATION)	658		vo7	vo7 
+64	33-1-77-1	72142315818028858	Zinacantán Tzotzil	tzot1259	the ice	ICE	617		bot	bot 
+65	33-1-77-2	72142315250985592	Zinacantán Tzotzil	tzot1259	the ice	ICE	617		taiv	taiv 
+66	33-1-81-1	72142315477997600	Zinacantán Tzotzil	tzot1259	the fire	FIRE	221		k’ok’	k’ok’ 
+67	33-1-82-1	7214231513412540	Zinacantán Tzotzil	tzot1259	the flame	FLAME	889		7at k’ok’	7at k’ok’ 
+68	33-1-83-1	72142315104280096	Zinacantán Tzotzil	tzot1259	the smoke	SMOKE (EXHAUST)	778		ch’ail	ch’ail 
+69	33-1-84-1	72142315714697455	Zinacantán Tzotzil	tzot1259	the ash	ASH	646		tan	tan 
+70	33-1-851-1	72142315237218513	Zinacantán Tzotzil	tzot1259	to burn(1)	BURN (SOMETHING)	141		chik’	chik’ 
+71	33-1-852-1	72142315926660281	Zinacantán Tzotzil	tzot1259	to burn(2)	BURNING	1428		k’ak’	k’ak’ 
+72	33-1-86-1	72142315190321791	Zinacantán Tzotzil	tzot1259	to light	LIGHT (IGNITE)	737		tiles	tiles 
+73	33-1-861-1	72142315982911414	Zinacantán Tzotzil	tzot1259	to extinguish	EXTINGUISH	127		tup’	tup’ 
+74	33-1-87-1	7214231572348930	Zinacantán Tzotzil	tzot1259	the match	MATCH	1133		posporo	posporo 
+75	33-1-87-2	72142315441297805	Zinacantán Tzotzil	tzot1259	the match	MATCH	1133		serio	serio 
+76	33-1-88-1	72142315598753407	Zinacantán Tzotzil	tzot1259	the firewood	FIREWOOD	10		si7	si7 
+77	33-1-89-1	72142315465240766	Zinacantán Tzotzil	tzot1259	the charcoal	CHARCOAL	1188		7ak’al	7ak’al 
+78	33-2-1-1	72142315868860786	Zinacantán Tzotzil	tzot1259	the person	PERSON	683		krishchnano	krishchnano 
+79	33-2-21-1	72142315521221199	Zinacantán Tzotzil	tzot1259	the man	MAN	1554		mol	mol 
+80	33-2-21-2	72142315875686602	Zinacantán Tzotzil	tzot1259	the man	MAN	1554		vinik	vinik 
+81	33-2-22-1	7214231590568926	Zinacantán Tzotzil	tzot1259	the woman	WOMAN	962		7antz	7antz 
+82	33-2-25-1	72142315464444441	Zinacantán Tzotzil	tzot1259	the boy	BOY	1366		muchacho	muchacho 
+83	33-2-26-1	72142315349504784	Zinacantán Tzotzil	tzot1259	the girl	GIRL	1646		tzeb	tzeb 
+84	33-2-261-1	72142315140506120	Zinacantán Tzotzil	tzot1259	the young woman	YOUNG WOMAN	77		bik’tal 7antz	bik’tal 7antz 
+85	33-2-27-1	72142315532177909	Zinacantán Tzotzil	tzot1259	the child(1)	CHILD (YOUNG HUMAN)	1304		7olol	7olol 
+86	33-2-28-1	72142315368006433	Zinacantán Tzotzil	tzot1259	the baby	BABY	1289		nene7	nene7 
+87	33-2-28-2	72142315995327957	Zinacantán Tzotzil	tzot1259	the baby	BABY	1289		7unen	7unen 
+88	33-2-31-1	72142315176555828	Zinacantán Tzotzil	tzot1259	the husband	HUSBAND	1200		malalil	malalil 
+89	33-2-31-2	72142315417830362	Zinacantán Tzotzil	tzot1259	the husband	HUSBAND	1200		mol	mol 
+90	33-2-32-1	72142315471086748	Zinacantán Tzotzil	tzot1259	the wife	WIFE	1199		7ahnilal	7ahnilal 
+91	33-2-32-2	72142315488884242	Zinacantán Tzotzil	tzot1259	the wife	WIFE	1199		7ahval na	7ahval na 
+92	33-2-32-3	7214231564014198	Zinacantán Tzotzil	tzot1259	the wife	WIFE	1199		7antzilal	7antzilal 
+93	33-2-33-1	72142315880155633	Zinacantán Tzotzil	tzot1259	to marry	MARRY	203		7ik’ (2)	7ik’ (2) 
+94	33-2-33-2	72142315873615418	Zinacantán Tzotzil	tzot1259	to marry	MARRY	203		7ik’ baik	7ik’ baik 
+95	33-2-33-3	72142315611110680	Zinacantán Tzotzil	tzot1259	to marry	MARRY	203		nupun	nupun 
+96	33-2-34-1	721423153843534	Zinacantán Tzotzil	tzot1259	the wedding	WEDDING	1259		mishail	mishail 
+97	33-2-341-1	72142315473170650	Zinacantán Tzotzil	tzot1259	the divorce	DIVORCE	1134		7iktaehbail	7iktaehbail 
+98	33-2-341-2	72142315246823973	Zinacantán Tzotzil	tzot1259	the divorce	DIVORCE	1134		ch’akbail	ch’akbail 
+99	33-2-35-1	72142315671108763	Zinacantán Tzotzil	tzot1259	the father	FATHER	1217		totil	totil 
+100	33-2-36-1	7214231592844873	Zinacantán Tzotzil	tzot1259	the mother	MOTHER	1216		me7il	me7il 
+101	33-2-41-1	72142315664618107	Zinacantán Tzotzil	tzot1259	the son	SON	1620		kerem	kerem 
+102	33-2-42-1	72142315393361688	Zinacantán Tzotzil	tzot1259	the daughter	DAUGHTER	1357		tzebil	tzebil 
+103	33-2-42-2	72142315349504784	Zinacantán Tzotzil	tzot1259	the daughter	DAUGHTER	1357		tzeb	tzeb 
+104	33-2-43-1	72142315884561142	Zinacantán Tzotzil	tzot1259	the child(2)	CHILD (DESCENDANT)	1801		7olil	7olil 
+105	33-2-43-2	72142315359054472	Zinacantán Tzotzil	tzot1259	the child(2)	CHILD (DESCENDANT)	1801		nich’nab	nich’nab 
+106	33-2-43-3	72142315809767393	Zinacantán Tzotzil	tzot1259	the child(2)	CHILD (DESCENDANT)	1801		nich’onil	nich’onil 
+107	33-2-444-1	72142315208878517	Zinacantán Tzotzil	tzot1259	the older brother	OLDER BROTHER	1759		shibnelal	shibnelal 
+108	33-2-444-2	72142315240192654	Zinacantán Tzotzil	tzot1259	the older brother	OLDER BROTHER	1759		bankilal	bankilal 
+109	33-2-445-1	72142315978179197	Zinacantán Tzotzil	tzot1259	the younger brother	YOUNGER BROTHER	1760		mukil	mukil 
+110	33-2-445-2	72142315722981185	Zinacantán Tzotzil	tzot1259	the younger brother	YOUNGER BROTHER	1760		7itz’inal	7itz’inal 
+111	33-2-454-1	72142315275856088	Zinacantán Tzotzil	tzot1259	the older sister	OLDER SISTER	1758		vishil	vishil 
+112	33-2-455-1	721423155512921	Zinacantán Tzotzil	tzot1259	the younger sister	YOUNGER SISTER	1761		mukil	mukil 
+113	33-2-455-2	72142315607977212	Zinacantán Tzotzil	tzot1259	the younger sister	YOUNGER SISTER	1761		7ishlelil	7ishlelil 
+114	33-2-456-1	72142315486144410	Zinacantán Tzotzil	tzot1259	the sibling	SIBLING	1640		chi7ilil	chi7ilil 
+115	33-2-458-1	72142315734246746	Zinacantán Tzotzil	tzot1259	the twins	TWINS	1005		vach	vach 
+116	33-2-46-1	72142315190756485	Zinacantán Tzotzil	tzot1259	the grandfather	GRANDFATHER	1383		muk’ta totil	muk’ta totil 
+117	33-2-47-1	72142315113795582	Zinacantán Tzotzil	tzot1259	the grandmother	GRANDMOTHER	1496		muk’ta me7il	muk’ta me7il 
+118	33-2-471-1	72142315187421294	Zinacantán Tzotzil	tzot1259	the old woman	OLD WOMAN	907		me7el	me7el 
+119	33-2-48-1	72142315792637673	Zinacantán Tzotzil	tzot1259	the grandson	GRANDSON	1618		momil	momil 
+120	33-2-49-1	72142315792637673	Zinacantán Tzotzil	tzot1259	the granddaughter	GRANDDAUGHTER	1619		momil	momil 
+121	33-2-51-1	72142315693081084	Zinacantán Tzotzil	tzot1259	the uncle	UNCLE	1327		jun totil	jun totil 
+122	33-2-52-1	72142315113795582	Zinacantán Tzotzil	tzot1259	the aunt	AUNT	1272		muk’ta me7il	muk’ta me7il 
+123	33-2-55-1	72142315190756485	Zinacantán Tzotzil	tzot1259	the cousin	COUSIN	1643		muk’ta totil	muk’ta totil 
+124	33-2-55-2	72142315155700116	Zinacantán Tzotzil	tzot1259	the cousin	COUSIN	1643		7utz’ 7alalil	7utz’ 7alalil 
+125	33-2-55-3	72142315398205413	Zinacantán Tzotzil	tzot1259	the cousin	COUSIN	1643		hun totil	hun totil 
+126	33-2-55-4	72142315642694041	Zinacantán Tzotzil	tzot1259	the cousin	COUSIN	1643		hun ch’amalil	hun ch’amalil 
+127	33-2-55-5	72142315282544779	Zinacantán Tzotzil	tzot1259	the cousin	COUSIN	1643		hun nich’onil	hun nich’onil 
+128	33-2-55-6	72142315298215305	Zinacantán Tzotzil	tzot1259	the cousin	COUSIN	1643		hun 7olil	hun 7olil 
+129	33-2-56-1	72142315812682773	Zinacantán Tzotzil	tzot1259	the ancestors	ANCESTORS	1669		7antivo	7antivo 
+130	33-2-61-1	72142315826950113	Zinacantán Tzotzil	tzot1259	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		ni7 molil	ni7 molil 
+131	33-2-611-1	72142315669931411	Zinacantán Tzotzil	tzot1259	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		7alib molil	7alib molil 
+132	33-2-62-1	72142315951096768	Zinacantán Tzotzil	tzot1259	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		ni7 me7elil	ni7 me7elil 
+133	33-2-621-1	72142315241275624	Zinacantán Tzotzil	tzot1259	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		7alib me7elil	7alib me7elil 
+134	33-2-63-1	72142315101763235	Zinacantán Tzotzil	tzot1259	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		ni7il	ni7il 
+135	33-2-631-1	72142315101763235	Zinacantán Tzotzil	tzot1259	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		ni7il	ni7il 
+136	33-2-64-1	72142315940502425	Zinacantán Tzotzil	tzot1259	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		7alibal	7alibal 
+137	33-2-641-1	72142315940502425	Zinacantán Tzotzil	tzot1259	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		7alibal	7alibal 
+138	33-2-71-1	72142315431602654	Zinacantán Tzotzil	tzot1259	the stepfather	STEPFATHER	237		tot	tot 
+139	33-2-73-1	72142315522463931	Zinacantán Tzotzil	tzot1259	the stepson	STEPSON	1059		ch'amalin	ch'amalin 
+140	33-2-75-1	72142315221030721	Zinacantán Tzotzil	tzot1259	the orphan	ORPHAN	1149		me7on	me7on 
+141	33-2-76-1	72142315968461506	Zinacantán Tzotzil	tzot1259	the widow	WIDOW	1756		me7anal 7antz	me7anal 7antz 
+142	33-2-77-1	72142315780706184	Zinacantán Tzotzil	tzot1259	the widower	WIDOWER	1981		me7anal vinik	me7anal vinik 
+143	33-2-81-1	72142315486144410	Zinacantán Tzotzil	tzot1259	the relatives	RELATIVES	1644		chi7ilil	chi7ilil 
+144	33-2-82-1	72142315418700525	Zinacantán Tzotzil	tzot1259	the family	FAMILY	194		chop	chop 
+145	33-2-92-1	72142315895647247	Zinacantán Tzotzil	tzot1259	you (singular)	THOU	1215		vo7ot	vo7ot 
+146	33-2-941-1	72142315547209245	Zinacantán Tzotzil	tzot1259	we (inclusive)	WE (INCLUSIVE)	1131		vo7otik	vo7otik 
+147	33-2-942-1	72142315418391287	Zinacantán Tzotzil	tzot1259	we (exclusive)	WE (EXCLUSIVE)	1130		vo7otikotik	vo7otikotik 
+148	33-2-95-1	72142315293339923	Zinacantán Tzotzil	tzot1259	you (plural)	YOU	1213		vo7oshuk	vo7oshuk 
+149	33-3-11-1	72142315423839147	Zinacantán Tzotzil	tzot1259	the animal	ANIMAL	619		7animal	7animal 
+150	33-3-11-2	72142315240752215	Zinacantán Tzotzil	tzot1259	the animal	ANIMAL	619		chanulil	chanulil 
+151	33-3-11-3	72142315938713071	Zinacantán Tzotzil	tzot1259	the animal	ANIMAL	619		chon	chon 
+152	33-3-12-1	72142315311926244	Zinacantán Tzotzil	tzot1259	male(2)	MALE (OF PERSON)	2261		tot _______________	tot _______________ 
+153	33-3-13-1	72142315185257621	Zinacantán Tzotzil	tzot1259	female(2)	FEMALE (OF ANIMAL)	2262		me7 _______________	me7 _______________ 
+154	33-3-16-1	72142315120215489	Zinacantán Tzotzil	tzot1259	the pasture	PASTURE	649		koleb	koleb 
+155	33-3-16-2	72142315594255540	Zinacantán Tzotzil	tzot1259	the pasture	PASTURE	649		potrero	potrero 
+156	33-3-18-1	72142315909977360	Zinacantán Tzotzil	tzot1259	the herdsman	HERDSMAN	263		jmak-_	jmak-_ 
+157	33-3-19-1	72142315763456693	Zinacantán Tzotzil	tzot1259	the stable or stall	STABLE	851		na ___	na ___ 
+158	33-3-21-1	72142315213439237	Zinacantán Tzotzil	tzot1259	the bull	BULL	1008		toro	toro 
+159	33-3-21-2	721423158664844	Zinacantán Tzotzil	tzot1259	the bull	BULL	1008		vakash	vakash 
+160	33-3-22-1	72142315177771044	Zinacantán Tzotzil	tzot1259	the ox	OX	1169		wey	wey 
+161	33-3-23-1	72142315757313741	Zinacantán Tzotzil	tzot1259	the cow	COW	1007		vaca	vaca 
+162	33-3-23-2	72142315472726280	Zinacantán Tzotzil	tzot1259	the cow	COW	1007		me7 baka	me7 baka 
+163	33-3-23-3	72142315598749076	Zinacantán Tzotzil	tzot1259	the cow	COW	1007		vacash	vacash 
+164	33-3-24-1	72142315932356249	Zinacantán Tzotzil	tzot1259	the calf	CALF	1989		nich'onil	nich'onil 
+165	33-3-25-1	7214231538555931	Zinacantán Tzotzil	tzot1259	the sheep	SHEEP	1331		chih	chih 
+166	33-3-26-1	72142315351632405	Zinacantán Tzotzil	tzot1259	the ram	RAM	1344		karnero	karnero 
+167	33-3-29-1	72142315308256620	Zinacantán Tzotzil	tzot1259	the lamb	LAMB	820		mimi7	mimi7 
+168	33-3-35-1	72142315328544076	Zinacantán Tzotzil	tzot1259	the pig	PIG	1337		chitom	chitom 
+169	33-3-36-1	72142315446919084	Zinacantán Tzotzil	tzot1259	the goat	GOAT	1502		chivo	chivo 
+170	33-3-41-1	72142315740560574	Zinacantán Tzotzil	tzot1259	the horse	HORSE	615		ka7	ka7 
+171	33-3-42-1	7214231522243643	Zinacantán Tzotzil	tzot1259	the stallion	STALLION	936		batz’i ka7	batz’i ka7 
+172	33-3-42-2	7214231521692683	Zinacantán Tzotzil	tzot1259	the stallion	STALLION	936		potro	potro 
+173	33-3-44-1	72142315612184671	Zinacantán Tzotzil	tzot1259	the mare	MARE	938		yevash	yevash 
+174	33-3-46-1	72142315371797078	Zinacantán Tzotzil	tzot1259	the donkey	DONKEY	1862		buro	buro 
+175	33-3-47-1	72142315740560574	Zinacantán Tzotzil	tzot1259	the mule	MULE	890		ka7	ka7 
+176	33-3-52-1	72142315681442476	Zinacantán Tzotzil	tzot1259	the cock/rooster	ROOSTER	1511		kelem	kelem 
+177	33-3-54-1	72142315200522931	Zinacantán Tzotzil	tzot1259	the hen	HEN	1514		me7 7alak’	me7 7alak’ 
+178	33-3-54-2	72142315124286824	Zinacantán Tzotzil	tzot1259	the hen	HEN	1514		me7 kashlan	me7 kashlan 
+179	33-3-55-1	72142315825821323	Zinacantán Tzotzil	tzot1259	the chicken	CHICKEN	1318		7alak’	7alak’ 
+180	33-3-55-2	72142315862348739	Zinacantán Tzotzil	tzot1259	the chicken	CHICKEN	1318		kashlan	kashlan 
+181	33-3-57-1	72142315702741870	Zinacantán Tzotzil	tzot1259	the duck	DUCK	1360		pech’	pech’ 
+182	33-3-58-1	7214231547793744	Zinacantán Tzotzil	tzot1259	the nest	NEST	539		tzo7op	tzo7op 
+183	33-3-581-1	7214231580026734	Zinacantán Tzotzil	tzot1259	the bird	BIRD	937		mut	mut 
+184	33-3-583-1	72142315917138289	Zinacantán Tzotzil	tzot1259	the heron	HERON	758		karsa	karsa 
+185	33-3-583-2	72142315137045690	Zinacantán Tzotzil	tzot1259	the heron	HERON	758		htzakchoy	htzakchoy 
+186	33-3-585-1	72142315160150413	Zinacantán Tzotzil	tzot1259	the hawk	HAWK	307		shik	shik 
+187	33-3-586-1	72142315636396876	Zinacantán Tzotzil	tzot1259	the vulture	VULTURE	1185		shulem	shulem 
+188	33-3-591-1	72142315626389892	Zinacantán Tzotzil	tzot1259	the bat	BAT	1793		sotz’	sotz’ 
+189	33-3-592-1	72142315790759210	Zinacantán Tzotzil	tzot1259	the parrot	PARROT	882		loro	loro 
+190	33-3-592-2	72142315814401712	Zinacantán Tzotzil	tzot1259	the parrot	PARROT	882		periko	periko 
+191	33-3-593-1	72142315545037335	Zinacantán Tzotzil	tzot1259	the crow	CROW	913		hoh	hoh 
+192	33-3-594-1	72142315404867278	Zinacantán Tzotzil	tzot1259	the dove	DOVE	1853		pulivok	pulivok 
+193	33-3-594-2	72142315198269309	Zinacantán Tzotzil	tzot1259	the dove	DOVE	1853		tzuin	tzuin 
+194	33-3-596-1	72142315719493845	Zinacantán Tzotzil	tzot1259	the owl	OWL	735		kushkush	kushkush 
+195	33-3-596-2	72142315101402544	Zinacantán Tzotzil	tzot1259	the owl	OWL	735		7ichin	7ichin 
+196	33-3-61-1	72142315557839053	Zinacantán Tzotzil	tzot1259	the dog	DOG	2009		tz’i7	tz’i7 
+197	33-3-614-1	72142315433274992	Zinacantán Tzotzil	tzot1259	the rabbit	RABBIT	1136		t'ul	t'ul 
+198	33-3-62-1	72142315938713071	Zinacantán Tzotzil	tzot1259	the cat	CAT	1208		chon	chon 
+199	33-3-62-2	72142315814315761	Zinacantán Tzotzil	tzot1259	the cat	CAT	1208		katu7	katu7 
+200	33-3-62-3	72142315205804794	Zinacantán Tzotzil	tzot1259	the cat	CAT	1208		manu7	manu7 
+201	33-3-62-4	72142315783328251	Zinacantán Tzotzil	tzot1259	the cat	CAT	1208		mashu7	mashu7 
+202	33-3-62-5	7214231519433418	Zinacantán Tzotzil	tzot1259	the cat	CAT	1208		moshit	moshit 
+203	33-3-62-6	72142315818224258	Zinacantán Tzotzil	tzot1259	the cat	CAT	1208		shalu7	shalu7 
+204	33-3-622-1	72142315313908849	Zinacantán Tzotzil	tzot1259	the opossum	OPOSSUM	309		7uch	7uch 
+205	33-3-63-1	72142315935858498	Zinacantán Tzotzil	tzot1259	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ch’o	ch’o 
+206	33-3-65-1	72142315223938455	Zinacantán Tzotzil	tzot1259	the fish	FISH	227		choy	choy 
+207	33-3-652-1	72142315915316619	Zinacantán Tzotzil	tzot1259	the fin	FIN	213		shik’	shik’ 
+208	33-3-653-1	72142315621742383	Zinacantán Tzotzil	tzot1259	the scale	SCALE	266		merio choy	merio choy 
+209	33-3-655-1	72142315157498951	Zinacantán Tzotzil	tzot1259	the shell	SHELL	598		konsha	konsha 
+210	33-3-72-1	72142315604883339	Zinacantán Tzotzil	tzot1259	the lion	LION	1386		leon	leon 
+211	33-3-73-1	72142315335993503	Zinacantán Tzotzil	tzot1259	the bear	BEAR	1820		7osov	7osov 
+212	33-3-74-1	72142315587579811	Zinacantán Tzotzil	tzot1259	the fox	FOX	1312		vet	vet 
+213	33-3-75-1	7214231538555931	Zinacantán Tzotzil	tzot1259	the deer	DEER	1936		chih	chih 
+214	33-3-76-1	72142315839727897	Zinacantán Tzotzil	tzot1259	the monkey	MONKEY	1350		mash	mash 
+215	33-3-81-1	72142315175063696	Zinacantán Tzotzil	tzot1259	the insect	INSECT	620		chon	chon 
+216	33-3-811-1	72142315785346981	Zinacantán Tzotzil	tzot1259	the head louse	HEAD LOUSE	310		7uch’	7uch’ 
+217	33-3-812-1	72142315260272389	Zinacantán Tzotzil	tzot1259	the nit	NIT	267		ton 7uch’	ton 7uch’ 
+218	33-3-813-1	72142315658011171	Zinacantán Tzotzil	tzot1259	the flea	FLEA	232		ch’ak (2)	ch’ak (2) 
+219	33-3-814-1	72142315535803276	Zinacantán Tzotzil	tzot1259	the centipede	CENTIPEDE	1974		chame-`at	chame-`at 
+220	33-3-815-1	72142315839047382	Zinacantán Tzotzil	tzot1259	the scorpion	SCORPION	1538		tzek	tzek 
+221	33-3-816-1	7214231516039754	Zinacantán Tzotzil	tzot1259	the cockroach	COCKROACH	1575		mako7	mako7 
+222	33-3-817-1	72142315828865643	Zinacantán Tzotzil	tzot1259	the ant	ANT	587		shinich	shinich 
+223	33-3-818-1	7214231514736642	Zinacantán Tzotzil	tzot1259	the spider	SPIDER	843		7om	7om 
+224	33-3-82-1	72142315315030180	Zinacantán Tzotzil	tzot1259	the bee	BEE	665		chanul pom	chanul pom 
+225	33-3-82-2	72142315181617874	Zinacantán Tzotzil	tzot1259	the bee	BEE	665		kachimpa pom	kachimpa pom 
+226	33-3-82-3	72142315407356070	Zinacantán Tzotzil	tzot1259	the bee	BEE	665		mermeho	mermeho 
+227	33-3-82-4	72142315227408237	Zinacantán Tzotzil	tzot1259	the bee	BEE	665		mishik’ pom	mishik’ pom 
+228	33-3-82-5	7214231533798259	Zinacantán Tzotzil	tzot1259	the bee	BEE	665		ton pom	ton pom 
+229	33-3-821-1	7214231542925740	Zinacantán Tzotzil	tzot1259	the beeswax	BEESWAX	1931		sera 7ahapom	sera 7ahapom 
+230	33-3-822-1	72142315473256804	Zinacantán Tzotzil	tzot1259	the beehive	BEEHIVE	88		na pom	na pom 
+231	33-3-823-1	72142315559048820	Zinacantán Tzotzil	tzot1259	the wasp	WASP	1517		7ovishpo	7ovishpo 
+232	33-3-823-2	72142315686595120	Zinacantán Tzotzil	tzot1259	the wasp	WASP	1517		chanul 7akov	chanul 7akov 
+233	33-3-83-1	72142315134930718	Zinacantán Tzotzil	tzot1259	the fly	FLY (INSECT)	1504		vo	vo 
+234	33-3-831-1	72142315597640191	Zinacantán Tzotzil	tzot1259	the sandfly or midge or gnat	SANDFLY	95		7us	7us 
+235	33-3-832-1	721423153947681	Zinacantán Tzotzil	tzot1259	the mosquito	MOSQUITO	1509		shenen	shenen 
+236	33-3-84-1	72142315250166577	Zinacantán Tzotzil	tzot1259	the worm	WORM	1219		shuit	shuit 
+237	33-3-85-1	72142315938713071	Zinacantán Tzotzil	tzot1259	the snake	SNAKE	730		chon	chon 
+238	33-3-91-1	72142315731561697	Zinacantán Tzotzil	tzot1259	the firefly	FIREFLY	206		kukay	kukay 
+239	33-3-92-1	7214231530209362	Zinacantán Tzotzil	tzot1259	the butterfly	BUTTERFLY	1791		pepen	pepen 
+240	33-3-93-1	7214231518115870	Zinacantán Tzotzil	tzot1259	the grasshopper	GRASSHOPPER	607		p’ilish	p’ilish 
+241	33-3-94-1	72142315470573765	Zinacantán Tzotzil	tzot1259	the snail	SNAIL	1543		puy	puy 
+242	33-3-94-2	72142315663463702	Zinacantán Tzotzil	tzot1259	the snail	SNAIL	1543		poshil chuvah	poshil chuvah 
+243	33-3-94-3	72142315785294043	Zinacantán Tzotzil	tzot1259	the snail	SNAIL	1543		puyal 7uk’um	puyal 7uk’um 
+244	33-3-95-1	72142315329987197	Zinacantán Tzotzil	tzot1259	the frog	FROG	503		shpokok	shpokok 
+245	33-3-96-1	72142315951665076	Zinacantán Tzotzil	tzot1259	the lizard	LIZARD	632		patish	patish 
+246	33-3-96-2	7214231570119233	Zinacantán Tzotzil	tzot1259	the lizard	LIZARD	632		7okotz	7okotz 
+247	33-3-97-1	72142315942084116	Zinacantán Tzotzil	tzot1259	the crocodile or alligator	CROCODILE	1857		lagarto	lagarto 
+248	33-3-98-1	72142315782742658	Zinacantán Tzotzil	tzot1259	the turtle	TURTLE	112		7ok	7ok 
+249	33-4-11-1	72142315423652644	Zinacantán Tzotzil	tzot1259	the body	BODY	1480		takopal	takopal 
+250	33-4-12-1	72142315415490994	Zinacantán Tzotzil	tzot1259	the skin or hide	SKIN	763		nukul	nukul 
+251	33-4-12-2	72142315232540469	Zinacantán Tzotzil	tzot1259	the skin or hide	SKIN	763		nukulal	nukulal 
+252	33-4-13-1	72142315720361836	Zinacantán Tzotzil	tzot1259	the flesh	FLESH	2259		bek’tal	bek’tal 
+253	33-4-14-1	7214231597073804	Zinacantán Tzotzil	tzot1259	the hair	HAIR (HEAD)	2648		tzotz	tzotz 
+254	33-4-14-2	72142315422704287	Zinacantán Tzotzil	tzot1259	the hair	HAIR (HEAD)	2648		tzatzal	tzatzal 
+255	33-4-142-1	72142315444368610	Zinacantán Tzotzil	tzot1259	the beard	BEARD	678		7isimil	7isimil 
+256	33-4-145-1	72142315114218444	Zinacantán Tzotzil	tzot1259	the pubic hair	PUBIC HAIR	36		tzisanil	tzisanil 
+257	33-4-145-2	72142315583972440	Zinacantán Tzotzil	tzot1259	the pubic hair	PUBIC HAIR	36		tzon	tzon 
+258	33-4-146-1	72142315912731296	Zinacantán Tzotzil	tzot1259	the dandruff	DANDRUFF	576		sakil 7apon	sakil 7apon 
+259	33-4-146-2	72142315126673379	Zinacantán Tzotzil	tzot1259	the dandruff	DANDRUFF	576		sal 7apon	sal 7apon 
+260	33-4-15-1	72142315986015038	Zinacantán Tzotzil	tzot1259	the blood	BLOOD	946		ch’ich’	ch’ich’ 
+261	33-4-15-2	7214231572857124	Zinacantán Tzotzil	tzot1259	the blood	BLOOD	946		ch’ch’elil	ch’ch’elil 
+262	33-4-15-3	72142315757448453	Zinacantán Tzotzil	tzot1259	the blood	BLOOD	946		sankre	sankre 
+263	33-4-151-1	72142315561979618	Zinacantán Tzotzil	tzot1259	the vein or artery	BLOOD VESSEL	525		be ch’ich’elil	be ch’ich’elil 
+264	33-4-16-1	72142315685746344	Zinacantán Tzotzil	tzot1259	the bone	BONE	1394		bak	bak 
+265	33-4-16-2	72142315548767956	Zinacantán Tzotzil	tzot1259	the bone	BONE	1394		bakelil	bakelil 
+266	33-4-162-1	72142315816482458	Zinacantán Tzotzil	tzot1259	the rib	RIB	801		ch’elopil	ch’elopil 
+267	33-4-162-2	72142315827744306	Zinacantán Tzotzil	tzot1259	the rib	RIB	801		ch’ilte7il	ch’ilte7il 
+268	33-4-17-1	72142315979322939	Zinacantán Tzotzil	tzot1259	the horn	HORN (ANATOMY)	1393		shulub	shulub 
+269	33-4-18-1	72142315698025070	Zinacantán Tzotzil	tzot1259	the tail	TAIL	1220		neil	neil 
+270	33-4-19-1	72142315276751735	Zinacantán Tzotzil	tzot1259	the back	BACK	1291		patil	patil 
+271	33-4-191-1	72142315225109344	Zinacantán Tzotzil	tzot1259	the spine	SPINE	805		ch’ich patil	ch’ich patil 
+272	33-4-2-1	72142315197678094	Zinacantán Tzotzil	tzot1259	the head	HEAD	1256		holol	holol 
+273	33-4-202-1	72142315323712241	Zinacantán Tzotzil	tzot1259	the skull	SKULL	1605		hol 7anima	hol 7anima 
+274	33-4-202-2	72142315298408967	Zinacantán Tzotzil	tzot1259	the skull	SKULL	1605		bakel hol 7anima	bakel hol 7anima 
+275	33-4-203-1	72142315563595415	Zinacantán Tzotzil	tzot1259	the brain	BRAIN	1583		chinamil	chinamil 
+276	33-4-204-1	72142315282507728	Zinacantán Tzotzil	tzot1259	the face	FACE	1560		satil	satil 
+277	33-4-205-1	72142315899742850	Zinacantán Tzotzil	tzot1259	the forehead	FOREHEAD	123		ti` bail	ti` bail 
+278	33-4-208-1	72142315228055054	Zinacantán Tzotzil	tzot1259	the cheek	CHEEK	1730		ton satil	ton satil 
+279	33-4-209-1	72142315200008721	Zinacantán Tzotzil	tzot1259	the chin	CHIN	1510		kolomil	kolomil 
+280	33-4-209-2	72142315261442658	Zinacantán Tzotzil	tzot1259	the chin	CHIN	1510		kovovil	kovovil 
+281	33-4-21-1	72142315282507728	Zinacantán Tzotzil	tzot1259	the eye	EYE	1248		satil	satil 
+282	33-4-21-2	72142315665665000	Zinacantán Tzotzil	tzot1259	the eye	EYE	1248		yashavo7	yashavo7 
+283	33-4-212-1	72142315541122704	Zinacantán Tzotzil	tzot1259	the eyebrow	EYEBROW	1173		motzobil	motzobil 
+284	33-4-214-1	72142315893799932	Zinacantán Tzotzil	tzot1259	the eyelash	EYELASH	1540		shik’ satil	shik’ satil 
+285	33-4-215-1	72142315834339952	Zinacantán Tzotzil	tzot1259	to blink	BLINK	1655		mutz’ilan	mutz’ilan 
+286	33-4-22-1	72142315590928487	Zinacantán Tzotzil	tzot1259	the ear	EAR	1247		chikinil	chikinil 
+287	33-4-221-1	7214231582335235	Zinacantán Tzotzil	tzot1259	the earlobe	EARLOBE	18		k’unil chikinil	k’unil chikinil 
+288	33-4-23-1	72142315448988025	Zinacantán Tzotzil	tzot1259	the nose	NOSE	1221		ni7	ni7 
+289	33-4-231-1	7214231541883958	Zinacantán Tzotzil	tzot1259	the nostril	NOSTRIL	1178		be sim	be sim 
+290	33-4-232-1	72142315811817307	Zinacantán Tzotzil	tzot1259	the nasal mucus	NASAL MUCUS (SNOT)	208		simal	simal 
+291	33-4-24-1	72142315445554575	Zinacantán Tzotzil	tzot1259	the mouth	MOUTH	674		7eal	7eal 
+292	33-4-241-1	72142315448988025	Zinacantán Tzotzil	tzot1259	the beak	BEAK	73		ni7	ni7 
+293	33-4-25-1	72142315123140473	Zinacantán Tzotzil	tzot1259	the lip	LIP	478		7anal 7eal	7anal 7eal 
+294	33-4-25-2	72142315607140645	Zinacantán Tzotzil	tzot1259	the lip	LIP	478		pak’al 7eal	pak’al 7eal 
+295	33-4-26-1	72142315682381686	Zinacantán Tzotzil	tzot1259	the tongue	TONGUE	1205		7ok’	7ok’ 
+296	33-4-27-1	72142315445554575	Zinacantán Tzotzil	tzot1259	the tooth	TOOTH	1380		7eal	7eal 
+297	33-4-27-2	72142315635961938	Zinacantán Tzotzil	tzot1259	the tooth	TOOTH	1380		tan (2)	tan (2) 
+298	33-4-27-3	7214231521394796	Zinacantán Tzotzil	tzot1259	the tooth	TOOTH	1380		tanal 7eal	tanal 7eal 
+299	33-4-272-1	72142315118623465	Zinacantán Tzotzil	tzot1259	the molar tooth	MOLAR TOOTH	1049		cho7obil	cho7obil 
+300	33-4-28-1	72142315218259058	Zinacantán Tzotzil	tzot1259	the neck	NECK	1333		nuk’il	nuk’il 
+301	33-4-29-1	72142315218259058	Zinacantán Tzotzil	tzot1259	the throat	THROAT	1346		nuk’il	nuk’il 
+302	33-4-29-2	72142315262721600	Zinacantán Tzotzil	tzot1259	the throat	THROAT	1346		turum	turum 
+303	33-4-3-1	72142315357063532	Zinacantán Tzotzil	tzot1259	the shoulder	SHOULDER	1482		nekebal	nekebal 
+304	33-4-302-1	72142315554547783	Zinacantán Tzotzil	tzot1259	the collarbone	COLLARBONE	1994		7ual bakel	7ual bakel 
+305	33-4-31-1	72142315633135995	Zinacantán Tzotzil	tzot1259	the arm	ARM	1673		k’obol	k’obol 
+306	33-4-312-1	72142315524233928	Zinacantán Tzotzil	tzot1259	the armpit	ARMPIT	1886		lotz’opil	lotz’opil 
+307	33-4-32-1	72142315679713322	Zinacantán Tzotzil	tzot1259	the elbow	ELBOW	981		shuk’omil	shuk’omil 
+308	33-4-321-1	72142315724564281	Zinacantán Tzotzil	tzot1259	the wrist	WRIST	799		nuk’ k’obol	nuk’ k’obol 
+309	33-4-33-1	72142315565306808	Zinacantán Tzotzil	tzot1259	the hand	HAND	1277		k’abal	k’abal 
+310	33-4-33-2	72142315633135995	Zinacantán Tzotzil	tzot1259	the hand	HAND	1277		k’obol	k’obol 
+311	33-4-331-1	72142315154703043	Zinacantán Tzotzil	tzot1259	the palm of the hand	PALM OF HAND	1183		7ut k’obol	7ut k’obol 
+312	33-4-331-2	72142315615701783	Zinacantán Tzotzil	tzot1259	the palm of the hand	PALM OF HAND	1183		pachomal k’obol	pachomal k’obol 
+313	33-4-34-1	72142315109835231	Zinacantán Tzotzil	tzot1259	the finger	FINGER	1303		bik’tal k’obol	bik’tal k’obol 
+314	33-4-34-2	7214231577857498	Zinacantán Tzotzil	tzot1259	the finger	FINGER	1303		ni7 k’obol	ni7 k’obol 
+315	33-4-342-1	72142315939707986	Zinacantán Tzotzil	tzot1259	the thumb	THUMB	1781		me7 k’obol	me7 k’obol 
+316	33-4-344-1	72142315408893632	Zinacantán Tzotzil	tzot1259	the fingernail	FINGERNAIL	1258		ni7 7ich’akil	ni7 7ich’akil 
+317	33-4-345-1	72142315227173111	Zinacantán Tzotzil	tzot1259	the claw	CLAW	72		7ich’akil	7ich’akil 
+318	33-4-35-1	72142315110877675	Zinacantán Tzotzil	tzot1259	the leg	LEG	1297		7akanil	7akanil 
+319	33-4-35-2	72142315680322145	Zinacantán Tzotzil	tzot1259	the leg	LEG	1297		7okol	7okol 
+320	33-4-351-1	72142315356563104	Zinacantán Tzotzil	tzot1259	the thigh	THIGH	800		7o7il	7o7il 
+321	33-4-36-1	72142315134496054	Zinacantán Tzotzil	tzot1259	the knee	KNEE	1371		hol 7akan	hol 7akan 
+322	33-4-36-2	72142315917303833	Zinacantán Tzotzil	tzot1259	the knee	KNEE	1371		holov 7akan	holov 7akan 
+323	33-4-36-3	72142315490817286	Zinacantán Tzotzil	tzot1259	the knee	KNEE	1371		k’uhav	k’uhav 
+324	33-4-37-1	72142315680322145	Zinacantán Tzotzil	tzot1259	the foot	FOOT	1301		7okol	7okol 
+325	33-4-371-1	72142315877019029	Zinacantán Tzotzil	tzot1259	the ankle	ANKLE	803		nuk’ 7okol	nuk’ 7okol 
+326	33-4-372-1	72142315545028054	Zinacantán Tzotzil	tzot1259	the heel	HEEL	980		chak 7okol	chak 7okol 
+327	33-4-372-2	72142315735218471	Zinacantán Tzotzil	tzot1259	the heel	HEEL	980		chakil	chakil 
+328	33-4-374-1	72142315130203753	Zinacantán Tzotzil	tzot1259	the footprint	FOOTPRINT	318		7av 7okol	7av 7okol 
+329	33-4-38-1	72142315440102424	Zinacantán Tzotzil	tzot1259	the toe	TOE	1389		bik’tal 7okol	bik’tal 7okol 
+330	33-4-38-2	72142315549406308	Zinacantán Tzotzil	tzot1259	the toe	TOE	1389		ni7 7okol	ni7 7okol 
+331	33-4-392-1	72142315915316619	Zinacantán Tzotzil	tzot1259	the wing	WING	1257		shik’	shik’ 
+332	33-4-393-1	72142315357054446	Zinacantán Tzotzil	tzot1259	the feather	FEATHER	1201		k’uk’umal	k’uk’umal 
+333	33-4-4-1	72142315723466400	Zinacantán Tzotzil	tzot1259	the chest	CHEST	1592		ti7 7o7onil	ti7 7o7onil 
+334	33-4-41-1	72142315663743560	Zinacantán Tzotzil	tzot1259	the breast	BREAST	1402		chu7il	chu7il 
+335	33-4-412-1	7214231510034484	Zinacantán Tzotzil	tzot1259	the nipple or teat	NIPPLE	796		ni7 chu’ul	ni7 chu’ul 
+336	33-4-42-1	72142315663743560	Zinacantán Tzotzil	tzot1259	the udder	UDDER	154		chu7il	chu7il 
+337	33-4-43-1	72142315382883879	Zinacantán Tzotzil	tzot1259	the navel	NAVEL	1838		mishik’il	mishik’il 
+338	33-4-44-1	72142315875249475	Zinacantán Tzotzil	tzot1259	the heart	HEART	1223		7o7onil	7o7onil 
+339	33-4-45-1	72142315515299713	Zinacantán Tzotzil	tzot1259	the liver	LIVER	1224		sekub	sekub 
+340	33-4-451-1	72142315826660890	Zinacantán Tzotzil	tzot1259	the kidney	KIDNEY	489		rinyon	rinyon 
+341	33-4-452-1	72142315371272699	Zinacantán Tzotzil	tzot1259	the spleen	SPLEEN	1744		7ach’el	7ach’el 
+342	33-4-46-1	72142315216805098	Zinacantán Tzotzil	tzot1259	the stomach	STOMACH	819		ch’util	ch’util 
+343	33-4-461-1	7214231516371282	Zinacantán Tzotzil	tzot1259	the intestines or guts	INTESTINES	1991		bikil	bikil 
+344	33-4-461-2	72142315790324749	Zinacantán Tzotzil	tzot1259	the intestines or guts	INTESTINES	1991		tzo7	tzo7 
+345	33-4-462-1	72142315216805098	Zinacantán Tzotzil	tzot1259	the waist	WAIST	1681		ch’util	ch’util 
+346	33-4-462-2	72142315532819186	Zinacantán Tzotzil	tzot1259	the waist	WAIST	1681		chukbenal	chukbenal 
+347	33-4-463-1	72142315356563104	Zinacantán Tzotzil	tzot1259	the hip	HIP	1745		7o7il	7o7il 
+348	33-4-464-1	72142315735218471	Zinacantán Tzotzil	tzot1259	the buttocks	BUTTOCKS	834		chakil	chakil 
+349	33-4-464-2	72142315640692099	Zinacantán Tzotzil	tzot1259	the buttocks	BUTTOCKS	834		likav chakil	likav chakil 
+350	33-4-464-3	72142315311513871	Zinacantán Tzotzil	tzot1259	the buttocks	BUTTOCKS	834		pech chakil	pech chakil 
+351	33-4-47-1	72142315125275157	Zinacantán Tzotzil	tzot1259	the womb	WOMB	804		7av 7ol	7av 7ol 
+352	33-4-47-2	72142315810005907	Zinacantán Tzotzil	tzot1259	the womb	WOMB	804		7av 7unen	7av 7unen 
+353	33-4-49-1	72142315975465823	Zinacantán Tzotzil	tzot1259	the testicles	TESTICLES	797		bek’ 7atil	bek’ 7atil 
+354	33-4-49-2	72142315725319235	Zinacantán Tzotzil	tzot1259	the testicles	TESTICLES	797		ton 7at	ton 7at 
+355	33-4-492-1	72142315567254420	Zinacantán Tzotzil	tzot1259	the penis	PENIS	1222		7at	7at 
+356	33-4-492-2	72142315811652925	Zinacantán Tzotzil	tzot1259	the penis	PENIS	1222		7ushubil	7ushubil 
+357	33-4-51-1	72142315532916424	Zinacantán Tzotzil	tzot1259	to breathe	BREATHE	1407		7ich’ 7ik’	7ich’ 7ik’ 
+358	33-4-52-1	72142315354543070	Zinacantán Tzotzil	tzot1259	to yawn	YAWN	1028		hach’7eal	hach’7eal 
+359	33-4-521-1	72142315608948334	Zinacantán Tzotzil	tzot1259	to hiccough	HICCOUGH	162		shuk’shuk’	shuk’shuk’ 
+360	33-4-53-1	72142315323041793	Zinacantán Tzotzil	tzot1259	to cough	COUGH	879		7obah	7obah 
+361	33-4-54-1	72142315908537618	Zinacantán Tzotzil	tzot1259	to sneeze	SNEEZE	1621		hat’isah	hat’isah 
+362	33-4-55-1	72142315524339230	Zinacantán Tzotzil	tzot1259	to perspire	SWEAT (PERSPIRE)	126		chik’inah	chik’inah 
+363	33-4-56-1	72142315103451360	Zinacantán Tzotzil	tzot1259	to spit	SPIT	1440		tubah	tubah 
+364	33-4-57-1	72142315259741247	Zinacantán Tzotzil	tzot1259	to vomit	VOMIT	1278		shen	shen 
+365	33-4-58-1	72142315885332917	Zinacantán Tzotzil	tzot1259	to bite	BITE	1403		tzak	tzak 
+366	33-4-58-2	7214231532211458	Zinacantán Tzotzil	tzot1259	to bite	BITE	1403		ti7	ti7 
+367	33-4-59-1	72142315712161328	Zinacantán Tzotzil	tzot1259	to lick	LICK	319		lek’	lek’ 
+368	33-4-61-1	72142315978139527	Zinacantán Tzotzil	tzot1259	to sleep	SLEEP	1585		vay	vay 
+369	33-4-61-2	72142315782119090	Zinacantán Tzotzil	tzot1259	to sleep	SLEEP	1585		bat ch’ulel	bat ch’ulel 
+370	33-4-612-1	72142315633785147	Zinacantán Tzotzil	tzot1259	to snore	SNORE	1983		hokbe vayel	hokbe vayel 
+371	33-4-62-1	7214231511409470	Zinacantán Tzotzil	tzot1259	to dream	DREAM (SOMETHING)	1920		vaychin	vaychin 
+372	33-4-63-1	72142315908845694	Zinacantán Tzotzil	tzot1259	to wake up	WAKE UP	1602		hulav	hulav 
+373	33-4-63-2	72142315521525918	Zinacantán Tzotzil	tzot1259	to wake up	WAKE UP	1602		vik’es ba	vik’es ba 
+374	33-4-64-1	72142315231906513	Zinacantán Tzotzil	tzot1259	to fart	FART	1159		tzisin	tzisin 
+375	33-4-65-1	72142315883536805	Zinacantán Tzotzil	tzot1259	to piss	PISS	592		k’abin	k’abin 
+376	33-4-66-1	72142315967935058	Zinacantán Tzotzil	tzot1259	to shit	SHIT (DEFECATE)	676		tza’an	tza’an 
+377	33-4-66-2	72142315700150180	Zinacantán Tzotzil	tzot1259	to shit	SHIT (DEFECATE)	676		ch’ay ba	ch’ay ba 
+378	33-4-67-1	72142315218810420	Zinacantán Tzotzil	tzot1259	to have sex	HAVE SEX	1785		pas mul	pas mul 
+379	33-4-67-2	72142315873615418	Zinacantán Tzotzil	tzot1259	to have sex	HAVE SEX	1785		7ik’ baik	7ik’ baik 
+380	33-4-68-1	72142315602567785	Zinacantán Tzotzil	tzot1259	to shiver	SHIVER	52		nik	nik 
+381	33-4-69-1	7214231540039953	Zinacantán Tzotzil	tzot1259	to bathe	BATHE	138		7atiltas	7atiltas 
+382	33-4-72-1	72142315845157655	Zinacantán Tzotzil	tzot1259	to be born	BE BORN	1090		vinkilah	vinkilah 
+383	33-4-732-1	72142315650017758	Zinacantán Tzotzil	tzot1259	to conceive	CONCEIVE	1087		tz’anesbe	tz’anesbe 
+384	33-4-74-1	72142315198495574	Zinacantán Tzotzil	tzot1259	to be alive	BE ALIVE	1422		kushul	kushul 
+385	33-4-75-1	72142315959507129	Zinacantán Tzotzil	tzot1259	to die	DIE	1494		cham	cham 
+386	33-4-751-1	72142315510858691	Zinacantán Tzotzil	tzot1259	to drown	DROWN	1904		hik’av	hik’av 
+387	33-4-76-1	72142315138633875	Zinacantán Tzotzil	tzot1259	to kill	KILL	1417		mil	mil 
+388	33-4-76-2	72142315454785762	Zinacantán Tzotzil	tzot1259	to kill	KILL	1417		chames	chames 
+389	33-4-76-3	72142315688627332	Zinacantán Tzotzil	tzot1259	to kill	KILL	1417		milvan	milvan 
+390	33-4-78-1	7214231594898648	Zinacantán Tzotzil	tzot1259	to bury	BURY	1719		but’i	but’i 
+391	33-4-78-2	72142315832686550	Zinacantán Tzotzil	tzot1259	to bury	BURY	1719		muk	muk 
+392	33-4-78-3	72142315213889607	Zinacantán Tzotzil	tzot1259	to bury	BURY	1719		tenu	tenu 
+393	33-4-79-1	72142315815467030	Zinacantán Tzotzil	tzot1259	the grave	GRAVE	1773		ch’enal	ch’enal 
+394	33-4-81-1	72142315969346872	Zinacantán Tzotzil	tzot1259	strong	STRONG	785		tzatzal (2)	tzatzal (2) 
+395	33-4-81-2	72142315110941590	Zinacantán Tzotzil	tzot1259	strong	STRONG	785		tzotz (2)	tzotz (2) 
+396	33-4-82-1	72142315338735309	Zinacantán Tzotzil	tzot1259	weak	WEAK	1601		k’un	k’un 
+397	33-4-83-1	72142315477997600	Zinacantán Tzotzil	tzot1259	healthy	HEALTHY	1364		k’ok’	k’ok’ 
+398	33-4-84-1	72142315656425189	Zinacantán Tzotzil	tzot1259	sick/ill	SICK	1847		7ip	7ip 
+399	33-4-841-1	72142315477997600	Zinacantán Tzotzil	tzot1259	the fever	FEVER	1534		k’ok’	k’ok’ 
+400	33-4-841-2	72142315210200286	Zinacantán Tzotzil	tzot1259	the fever	FEVER	1534		k’ak’al	k’ak’al 
+401	33-4-842-1	72142315448420664	Zinacantán Tzotzil	tzot1259	the goitre/goiter	GOITER	1957		vevech	vevech 
+402	33-4-843-1	721423152126631	Zinacantán Tzotzil	tzot1259	the cold	COMMON COLD (DISEASE)	102		simil 7obal	simil 7obal 
+403	33-4-85-1	72142315425362043	Zinacantán Tzotzil	tzot1259	the wound or sore	WOUND	1109		lastima	lastima 
+404	33-4-852-1	72142315211024682	Zinacantán Tzotzil	tzot1259	the bruise	BRUISE	1148		lep'	lep' 
+405	33-4-853-1	72142315510656005	Zinacantán Tzotzil	tzot1259	the swelling	SWELLING	1903		situbel	situbel 
+406	33-4-854-1	721423157151471	Zinacantán Tzotzil	tzot1259	the itch	ITCH	148		ch’ininul	ch’ininul 
+407	33-4-855-1	72142315292885813	Zinacantán Tzotzil	tzot1259	the blister	BLISTER	1584		vochemal	vochemal 
+408	33-4-856-1	72142315235612986	Zinacantán Tzotzil	tzot1259	the boil	BOIL (OF SKIN)	793		chakal	chakal 
+409	33-4-857-1	72142315817301672	Zinacantán Tzotzil	tzot1259	the pus	PUS	1808		pohov	pohov 
+410	33-4-857-2	72142315334727979	Zinacantán Tzotzil	tzot1259	the pus	PUS	1808		vahobal	vahobal 
+411	33-4-858-1	72142315173588503	Zinacantán Tzotzil	tzot1259	the scar	SCAR	497		7av lastima	7av lastima 
+412	33-4-858-2	72142315240855936	Zinacantán Tzotzil	tzot1259	the scar	SCAR	497		senya	senya 
+413	33-4-86-1	72142315931314724	Zinacantán Tzotzil	tzot1259	to cure	CURE	499		yu7 7u7un	yu7 7u7un 
+414	33-4-87-1	72142315352418292	Zinacantán Tzotzil	tzot1259	the physician	PHYSICIAN	597		hposhtavaneh	hposhtavaneh 
+415	33-4-87-2	72142315708025350	Zinacantán Tzotzil	tzot1259	the physician	PHYSICIAN	597		lo*ktor	lo*ktor 
+416	33-4-88-1	72142315297308908	Zinacantán Tzotzil	tzot1259	the medicine	MEDICINE	1372		poshil	poshil 
+417	33-4-89-1	72142315385223717	Zinacantán Tzotzil	tzot1259	the poison	POISON	655		beneno	beneno 
+418	33-4-912-1	72142315335170699	Zinacantán Tzotzil	tzot1259	to rest	REST	168		kush	kush 
+419	33-4-92-1	72142315382246975	Zinacantán Tzotzil	tzot1259	lazy	LAZY	1564		ch’ah	ch’ah 
+420	33-4-92-2	72142315462623702	Zinacantán Tzotzil	tzot1259	lazy	LAZY	1564		plo*ho	plo*ho 
+421	33-4-93-1	72142315786980775	Zinacantán Tzotzil	tzot1259	bald	BALD	1125		bochol	bochol 
+422	33-4-93-2	72142315678989481	Zinacantán Tzotzil	tzot1259	bald	BALD	1125		kanel	kanel 
+423	33-4-94-1	72142315244120616	Zinacantán Tzotzil	tzot1259	lame	LAME	320		kosho	kosho 
+424	33-4-95-1	7214231566213475	Zinacantán Tzotzil	tzot1259	deaf	DEAF	996		kok	kok 
+425	33-4-95-2	72142315177061393	Zinacantán Tzotzil	tzot1259	deaf	DEAF	996		sorto	sorto 
+426	33-4-96-1	72142315853641960	Zinacantán Tzotzil	tzot1259	mute	MUTE	1666		7uma7	7uma7 
+427	33-4-97-1	7214231514388435	Zinacantán Tzotzil	tzot1259	blind	BLIND	1653		kuk	kuk 
+428	33-4-98-1	72142315500356537	Zinacantán Tzotzil	tzot1259	drunk	DRUNK	1463		tzinil	tzinil 
+429	33-4-99-1	72142315644065219	Zinacantán Tzotzil	tzot1259	naked	NAKED	590		t’analik	t’analik 
+430	33-5-11-1	72142315489246144	Zinacantán Tzotzil	tzot1259	to eat	EAT	1336		7ochan	7ochan 
+431	33-5-11-2	7214231575938584	Zinacantán Tzotzil	tzot1259	to eat	EAT	1336		lahes	lahes 
+432	33-5-11-3	7214231532211458	Zinacantán Tzotzil	tzot1259	to eat	EAT	1336		ti7	ti7 
+433	33-5-12-1	72142315566797834	Zinacantán Tzotzil	tzot1259	the food	FOOD	256		ve`el ___	ve`el ___ 
+434	33-5-121-1	72142315586722458	Zinacantán Tzotzil	tzot1259	cooked	COOKED	269		tok’on	tok’on 
+435	33-5-123-1	72142315586722458	Zinacantán Tzotzil	tzot1259	ripe	RIPE	178		tok’on	tok’on 
+436	33-5-124-1	72142315995327957	Zinacantán Tzotzil	tzot1259	unripe	UNRIPE	1958		7unen	7unen 
+437	33-5-124-2	72142315216112682	Zinacantán Tzotzil	tzot1259	unripe	UNRIPE	1958		tze	tze 
+438	33-5-125-1	72142315933138818	Zinacantán Tzotzil	tzot1259	rotten	ROTTEN	1728		k’a7al	k’a7al 
+439	33-5-125-2	72142315552847725	Zinacantán Tzotzil	tzot1259	rotten	ROTTEN	1728		k’o7	k’o7 
+440	33-5-125-3	72142315742533924	Zinacantán Tzotzil	tzot1259	rotten	ROTTEN	1728		puk’ulik	puk’ulik 
+441	33-5-13-1	72142315460638219	Zinacantán Tzotzil	tzot1259	to drink	DRINK	1401		7uch’ (2)	7uch’ (2) 
+442	33-5-14-1	72142315356225349	Zinacantán Tzotzil	tzot1259	to be hungry	BE HUNGRY	1533		ve7	ve7 
+443	33-5-14-2	72142315503341355	Zinacantán Tzotzil	tzot1259	to be hungry	BE HUNGRY	1533		vi7nah	vi7nah 
+444	33-5-141-1	72142315330216978	Zinacantán Tzotzil	tzot1259	the famine	FAMINE	199		vi7naltik	vi7naltik 
+445	33-5-15-1	72142315486938648	Zinacantán Tzotzil	tzot1259	to be thirsty	THIRSTY	847		takih ti7	takih ti7 
+446	33-5-16-1	72142315261066436	Zinacantán Tzotzil	tzot1259	to suck	SUCK	1421		tz’utz’	tz’utz’ 
+447	33-5-18-1	7214231550024667	Zinacantán Tzotzil	tzot1259	to chew	CHEW	321		xax	xax 
+448	33-5-181-1	72142315523873160	Zinacantán Tzotzil	tzot1259	to swallow	SWALLOW	897		bik’	bik’ 
+449	33-5-19-1	72142315510858691	Zinacantán Tzotzil	tzot1259	to choke	CHOKE	129		hik’av	hik’av 
+450	33-5-21-1	72142315461487241	Zinacantán Tzotzil	tzot1259	to cook	COOK (SOMETHING)	1100		ta7ahes	ta7ahes 
+451	33-5-22-1	72142315496275426	Zinacantán Tzotzil	tzot1259	to boil	BOIL (OF LIQUID)	792		lakan	lakan 
+452	33-5-22-2	72142315286560851	Zinacantán Tzotzil	tzot1259	to boil	BOIL (OF LIQUID)	792		bulomah	bulomah 
+453	33-5-22-3	72142315258392396	Zinacantán Tzotzil	tzot1259	to boil	BOIL (OF LIQUID)	792		vokan	vokan 
+454	33-5-23-1	72142315358724129	Zinacantán Tzotzil	tzot1259	to roast or fry	ROAST OR FRY	2146		vo (2)	vo (2) 
+455	33-5-23-2	72142315578492815	Zinacantán Tzotzil	tzot1259	to roast or fry	ROAST OR FRY	2146		ch’il	ch’il 
+456	33-5-24-1	72142315457062109	Zinacantán Tzotzil	tzot1259	to bake	BAKE	183		meltzan	meltzan 
+457	33-5-25-1	72142315938935396	Zinacantán Tzotzil	tzot1259	the oven	OVEN	1143		horno	horno 
+458	33-5-26-1	72142315317895196	Zinacantán Tzotzil	tzot1259	the pot	POT	1462		p’in	p’in 
+459	33-5-26-2	72142315328550436	Zinacantán Tzotzil	tzot1259	the pot	POT	1462		rosa	rosa 
+460	33-5-28-1	7214231539803966	Zinacantán Tzotzil	tzot1259	the pan	PAN	31		pasob ve`elil	pasob ve`elil 
+461	33-5-32-1	72142315550289833	Zinacantán Tzotzil	tzot1259	the plate	PLATE	480		plato	plato 
+462	33-5-33-1	72142315350987811	Zinacantán Tzotzil	tzot1259	the bowl	BOWL	1530		pulatu	pulatu 
+463	33-5-34-1	72142315328550436	Zinacantán Tzotzil	tzot1259	the jug/pitcher	JUG	270		rosa	rosa 
+464	33-5-34-2	72142315299909423	Zinacantán Tzotzil	tzot1259	the jug/pitcher	JUG	270		rosa p’in	rosa p’in 
+465	33-5-35-1	7214231596891188	Zinacantán Tzotzil	tzot1259	the cup	CUP	476		tasa	tasa 
+466	33-5-35-2	7214231514280869	Zinacantán Tzotzil	tzot1259	the cup	CUP	476		tasa boch	tasa boch 
+467	33-5-37-1	72142315749096126	Zinacantán Tzotzil	tzot1259	the spoon	SPOON	1378		kuchara	kuchara 
+468	33-5-38-1	72142315898628571	Zinacantán Tzotzil	tzot1259	the knife(1)	KNIFE (FOR EATING)	3210		kuchilu	kuchilu 
+469	33-5-391-1	72142315108119155	Zinacantán Tzotzil	tzot1259	the tongs	TONGS	272		lotz'ob	lotz'ob 
+470	33-5-41-1	72142315288246221	Zinacantán Tzotzil	tzot1259	the meal	MEAL	1526		ve7el	ve7el 
+471	33-5-41-2	72142315118230864	Zinacantán Tzotzil	tzot1259	the meal	MEAL	1526		ve7lil	ve7lil 
+472	33-5-42-1	72142315151864121	Zinacantán Tzotzil	tzot1259	the breakfast	BREAKFAST	1322		traste	traste 
+473	33-5-46-1	72142315671344927	Zinacantán Tzotzil	tzot1259	to peel	PEEL	275		cho7	cho7 
+474	33-5-47-1	7214231538555931	Zinacantán Tzotzil	tzot1259	to sieve or to strain	SIEVE	86		chih	chih 
+475	33-5-47-2	72142315967871564	Zinacantán Tzotzil	tzot1259	to sieve or to strain	SIEVE	86		chichin	chichin 
+476	33-5-48-1	72142315845682987	Zinacantán Tzotzil	tzot1259	to scrape	SCRAPE	1767		hos	hos 
+477	33-5-49-1	72142315813454240	Zinacantán Tzotzil	tzot1259	to stir or to mix	MIX	2017		huy	huy 
+478	33-5-49-2	72142315305313755	Zinacantán Tzotzil	tzot1259	to stir or to mix	MIX	2017		nikes	nikes 
+479	33-5-49-3	72142315574014110	Zinacantán Tzotzil	tzot1259	to stir or to mix	MIX	2017		kap	kap 
+480	33-5-51-1	72142315753370903	Zinacantán Tzotzil	tzot1259	the bread	BREAD	1368		kashlan 7ot	kashlan 7ot 
+481	33-5-51-2	72142315715615021	Zinacantán Tzotzil	tzot1259	the bread	BREAD	1368		kashlan vah	kashlan vah 
+482	33-5-51-3	72142315185990891	Zinacantán Tzotzil	tzot1259	the bread	BREAD	1368		pan	pan 
+483	33-5-53-1	72142315159079457	Zinacantán Tzotzil	tzot1259	the dough	DOUGH	273		puk'	puk' 
+484	33-5-54-1	72142315646671432	Zinacantán Tzotzil	tzot1259	to knead	KNEAD	274		votz’	votz’ 
+485	33-5-55-1	7214231573531462	Zinacantán Tzotzil	tzot1259	the flour	FLOUR	1594		harina	harina 
+486	33-5-56-1	7214231594111989	Zinacantán Tzotzil	tzot1259	to crush or to grind	GRIND	1033		huch’un	huch’un 
+487	33-5-56-2	72142315208953514	Zinacantán Tzotzil	tzot1259	to crush or to grind	GRIND	1033		net’	net’ 
+488	33-5-56-3	72142315923118040	Zinacantán Tzotzil	tzot1259	to crush or to grind	GRIND	1033		petz’k’un	petz’k’un 
+489	33-5-57-1	72142315613692268	Zinacantán Tzotzil	tzot1259	the mill	MILL	636		mulino	mulino 
+490	33-5-58-1	721423156166694	Zinacantán Tzotzil	tzot1259	the mortar(1)	MORTAR CRUSHER	224		kamaro	kamaro 
+491	33-5-61-1	72142315647552854	Zinacantán Tzotzil	tzot1259	the meat	MEAT	634		bek’et	bek’et 
+492	33-5-61-2	72142315243353906	Zinacantán Tzotzil	tzot1259	the meat	MEAT	634		ti7bol	ti7bol 
+493	33-5-63-1	72142315545625745	Zinacantán Tzotzil	tzot1259	the sausage	SAUSAGE	1874		choris	choris 
+494	33-5-63-2	72142315749719038	Zinacantán Tzotzil	tzot1259	the sausage	SAUSAGE	1874		lonkanisyo	lonkanisyo 
+495	33-5-65-1	72142315807747424	Zinacantán Tzotzil	tzot1259	the vegetables	VEGETABLES	924		7itaj	7itaj 
+496	33-5-66-1	72142315870221369	Zinacantán Tzotzil	tzot1259	the bean	BEAN	832		chenek’	chenek’ 
+497	33-5-7-1	72142315435946330	Zinacantán Tzotzil	tzot1259	the potato	POTATO	593		7isak’	7isak’ 
+498	33-5-7-2	72142315457920100	Zinacantán Tzotzil	tzot1259	the potato	POTATO	593		batz’i 7isak’	batz’i 7isak’ 
+499	33-5-7-3	72142315374796656	Zinacantán Tzotzil	tzot1259	the potato	POTATO	593		sakil tranhero 7isak’	sakil tranhero 7isak’ 
+500	33-5-71-1	72142315282507728	Zinacantán Tzotzil	tzot1259	the fruit	FRUIT	1507		satil	satil 
+501	33-5-712-1	72142315858703790	Zinacantán Tzotzil	tzot1259	the bunch	BUNCH	1966		keplej	keplej 
+502	33-5-75-1	72142315467241001	Zinacantán Tzotzil	tzot1259	the fig	FIG	322		7ik’ush	7ik’ush 
+503	33-5-76-1	72142315970833363	Zinacantán Tzotzil	tzot1259	the grape	GRAPE	920		tz’usub	tz’usub 
+504	33-5-76-2	72142315453884242	Zinacantán Tzotzil	tzot1259	the grape	GRAPE	920		ve7el 7inatab	ve7el 7inatab 
+505	33-5-79-1	72142315554872180	Zinacantán Tzotzil	tzot1259	the oil	OIL (ORGANIC SUBSTANCE)	1484		7asete	7asete 
+506	33-5-791-1	72142315798598124	Zinacantán Tzotzil	tzot1259	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		hup’el	hup’el 
+507	33-5-791-2	72142315809363006	Zinacantán Tzotzil	tzot1259	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		sheru	sheru 
+508	33-5-81-1	72142315764245318	Zinacantán Tzotzil	tzot1259	the salt	SALT	1274		7atz’am	7atz’am 
+509	33-5-82-1	72142315212941766	Zinacantán Tzotzil	tzot1259	the pepper	PEPPER	1385		pimenta	pimenta 
+510	33-5-821-1	72142315223324630	Zinacantán Tzotzil	tzot1259	the chili pepper	CHILI PEPPER	919		7ich	7ich 
+511	33-5-84-1	72142315110714114	Zinacantán Tzotzil	tzot1259	the honey	HONEY	942		7aha	7aha 
+512	33-5-84-2	72142315356942725	Zinacantán Tzotzil	tzot1259	the honey	HONEY	942		7ahapom	7ahapom 
+513	33-5-85-1	7214231556708837	Zinacantán Tzotzil	tzot1259	the sugar	SUGAR	862		7asuka	7asuka 
+514	33-5-86-1	72142315261659497	Zinacantán Tzotzil	tzot1259	the milk	MILK	635		lech	lech 
+515	33-5-87-1	72142315723966182	Zinacantán Tzotzil	tzot1259	to milk	DRAW MILK	93		pitz’	pitz’ 
+516	33-5-88-1	72142315448769255	Zinacantán Tzotzil	tzot1259	the cheese	CHEESE	1569		keshu	keshu 
+517	33-5-9-1	72142315141131475	Zinacantán Tzotzil	tzot1259	the drink	BEVERAGE	731		7uch'bajel	7uch'bajel 
+518	33-5-92-1	72142315834993617	Zinacantán Tzotzil	tzot1259	the wine	WINE	1524		bino	bino 
+519	33-5-93-1	72142315164588156	Zinacantán Tzotzil	tzot1259	the beer	BEER	1639		servesa	servesa 
+520	33-5-97-1	72142315209554485	Zinacantán Tzotzil	tzot1259	the egg	EGG	744		tanal	tanal 
+521	33-5-97-2	72142315647277009	Zinacantán Tzotzil	tzot1259	the egg	EGG	744		ton	ton 
+522	33-5-971-1	72142315688144789	Zinacantán Tzotzil	tzot1259	the yolk	YOLK	1556		k’anal (2)	k’anal (2) 
+523	33-5-971-2	72142315303032766	Zinacantán Tzotzil	tzot1259	the yolk	YOLK	1556		k'anal	k'anal 
+524	33-6-11-1	72142315503761612	Zinacantán Tzotzil	tzot1259	to put on	PUT ON	158		kajan	kajan 
+525	33-6-12-1	72142315920661760	Zinacantán Tzotzil	tzot1259	the clothing or clothes	CLOTHES	1895		k’u7il	k’u7il 
+526	33-6-12-2	72142315765546210	Zinacantán Tzotzil	tzot1259	the clothing or clothes	CLOTHES	1895		pok’	pok’ 
+527	33-6-22-1	7214231597073804	Zinacantán Tzotzil	tzot1259	the wool	WOOL	964		tzotz	tzotz 
+528	33-6-24-1	72142315293735213	Zinacantán Tzotzil	tzot1259	the cotton	COTTON	1850		tushnuk’	tushnuk’ 
+529	33-6-25-1	72142315652062886	Zinacantán Tzotzil	tzot1259	the silk	SILK	1641		sat xela	sat xela 
+530	33-6-28-1	7214231597073804	Zinacantán Tzotzil	tzot1259	the fur	FUR	580		tzotz	tzotz 
+531	33-6-29-1	72142315696951008	Zinacantán Tzotzil	tzot1259	the leather	LEATHER	629		nukulal ___	nukulal ___ 
+532	33-6-31-1	72142315799216184	Zinacantán Tzotzil	tzot1259	to spin	SPIN	121		nahomah	nahomah 
+533	33-6-31-2	72142315701415950	Zinacantán Tzotzil	tzot1259	to spin	SPIN	121		navu	navu 
+534	33-6-32-1	72142315912441301	Zinacantán Tzotzil	tzot1259	the spindle	SPINDLE	277		petet	petet 
+535	33-6-33-1	72142315175147953	Zinacantán Tzotzil	tzot1259	to weave	WEAVE	133		hal	hal 
+536	33-6-34-1	72142315379620784	Zinacantán Tzotzil	tzot1259	the loom	LOOM	1787		holobil	holobil 
+537	33-6-35-1	72142315491820138	Zinacantán Tzotzil	tzot1259	to sew	SEW	1457		tz’is	tz’is 
+538	33-6-36-1	72142315257383193	Zinacantán Tzotzil	tzot1259	the needle(1)	NEEDLE (FOR SEWING)	1382		7akusha	7akusha 
+539	33-6-38-1	72142315584488976	Zinacantán Tzotzil	tzot1259	the thread	THREAD	1161		no	no 
+540	33-6-38-2	72142315210069887	Zinacantán Tzotzil	tzot1259	the thread	THREAD	1161		navul	navul 
+541	33-6-38-3	72142315749663984	Zinacantán Tzotzil	tzot1259	the thread	THREAD	1161		7ilera	7ilera 
+542	33-6-39-1	72142315288759082	Zinacantán Tzotzil	tzot1259	to dye	DYE	157		bon	bon 
+543	33-6-411-1	72142315179975575	Zinacantán Tzotzil	tzot1259	the poncho	PONCHO	327		chuhil	chuhil 
+544	33-7-37-1	72142315747105158	Zinacantán Tzotzil	tzot1259	the ladder	LADDER	1464		moch te7	moch te7 
+545	33-7-37-2	72142315408792053	Zinacantán Tzotzil	tzot1259	the ladder	LADDER	1464		muyebal	muyebal 
+546	33-7-37-3	72142315500392348	Zinacantán Tzotzil	tzot1259	the ladder	LADDER	1464		tek’obal	tek’obal 
+547	33-6-44-1	72142315110407203	Zinacantán Tzotzil	tzot1259	the shirt	SHIRT	1622		moketeil	moketeil 
+548	33-6-45-1	72142315218259058	Zinacantán Tzotzil	tzot1259	the collar	COLLAR	2012		nuk’il	nuk’il 
+549	33-6-46-1	72142315917697334	Zinacantán Tzotzil	tzot1259	the skirt	SKIRT	1600		tzekil	tzekil 
+550	33-6-49-1	72142315958958582	Zinacantán Tzotzil	tzot1259	the sock or stocking	STOCKING	329		na 7okol	na 7okol 
+551	33-6-51-1	72142315120154378	Zinacantán Tzotzil	tzot1259	the shoe	SHOE	1381		sapato	sapato 
+552	33-6-52-1	72142315178557682	Zinacantán Tzotzil	tzot1259	the boot	BOOT	585		botin	botin 
+553	33-6-55-1	72142315182152868	Zinacantán Tzotzil	tzot1259	the hat or cap	HEADGEAR	2130		pishol	pishol 
+554	33-6-57-1	72142315960834131	Zinacantán Tzotzil	tzot1259	the belt	BELT	772		chuk ch’util	chuk ch’util 
+555	33-6-58-1	7214231596362690	Zinacantán Tzotzil	tzot1259	the glove	GLOVE	867		na k’obol	na k’obol 
+556	33-6-62-1	72142315389192407	Zinacantán Tzotzil	tzot1259	the button	BUTTON	757		boton	boton 
+557	33-6-75-1	72142315435119147	Zinacantán Tzotzil	tzot1259	the necklace	NECKLACE	1961		natz’il	natz’il 
+558	33-6-76-1	72142315282507728	Zinacantán Tzotzil	tzot1259	the bead	BEAD	1860		satil	satil 
+559	33-6-77-1	72142315512645030	Zinacantán Tzotzil	tzot1259	the earring	EARRING	770		tak’in chikinil	tak’in chikinil 
+560	33-6-78-1	72142315283582058	Zinacantán Tzotzil	tzot1259	the headband or headdress	HEADBAND	330		chuk halal	chuk halal 
+561	33-6-81-1	72142315847323863	Zinacantán Tzotzil	tzot1259	the handkerchief or rag	RAG	332		kusob	kusob 
+562	33-6-91-1	7214231533735085	Zinacantán Tzotzil	tzot1259	the comb	COMB	1475		hach’ubil	hach’ubil 
+563	33-6-921-1	72142315184812908	Zinacantán Tzotzil	tzot1259	the plait/braid	BRAID	1043		pech’benal	pech’benal 
+564	33-6-93-1	72142315468481627	Zinacantán Tzotzil	tzot1259	the razor	RAZOR	151		chilete	chilete 
+565	33-6-95-1	72142315380251417	Zinacantán Tzotzil	tzot1259	the soap	SOAP	788		shavon	shavon 
+566	33-6-96-1	72142315484262284	Zinacantán Tzotzil	tzot1259	the mirror	MIRROR	1171		nen	nen 
+567	33-6-96-2	72142315397207891	Zinacantán Tzotzil	tzot1259	the mirror	MIRROR	1171		k’elobbail	k’elobbail 
+568	33-7-11-1	72142315101813934	Zinacantán Tzotzil	tzot1259	to live	DWELL (LIVE, RESIDE)	363		naki	naki 
+569	33-7-12-1	7214231555228320	Zinacantán Tzotzil	tzot1259	the house	HOUSE	1252		na	na 
+570	33-7-13-1	72142315496206417	Zinacantán Tzotzil	tzot1259	the hut	HUT	1678		lechepat	lechepat 
+571	33-7-131-1	72142315865961241	Zinacantán Tzotzil	tzot1259	the garden-house	GARDEN-HOUSE	403		nail chobtik	nail chobtik 
+572	33-7-15-1	72142315462448077	Zinacantán Tzotzil	tzot1259	the yard or court	YARD	736		7amak'	7amak' 
+573	33-7-17-1	72142315900432140	Zinacantán Tzotzil	tzot1259	the cookhouse	COOKHOUSE	334		kusina	kusina 
+574	33-7-22-1	72142315684234977	Zinacantán Tzotzil	tzot1259	the door or gate	DOOR	1567		mak na	mak na 
+575	33-7-22-2	72142315552506204	Zinacantán Tzotzil	tzot1259	the door or gate	DOOR	1567		mak ti7 na	mak ti7 na 
+576	33-7-22-3	72142315167751943	Zinacantán Tzotzil	tzot1259	the door or gate	DOOR	1567		ti7 na	ti7 na 
+577	33-7-23-1	72142315975078995	Zinacantán Tzotzil	tzot1259	the lock	LOCK	1596		k’oh te7	k’oh te7 
+578	33-7-231-1	72142315902857335	Zinacantán Tzotzil	tzot1259	the latch or door-bolt	LATCH	1012		7altavo	7altavo 
+579	33-7-24-1	72142315701109082	Zinacantán Tzotzil	tzot1259	the key	KEY	1472		yave	yave 
+580	33-7-25-1	72142315140747638	Zinacantán Tzotzil	tzot1259	the window	WINDOW	1375		ventana	ventana 
+581	33-7-26-1	72142315495446869	Zinacantán Tzotzil	tzot1259	the floor	FLOOR	1632		lumtik	lumtik 
+582	33-7-27-1	72142315158881944	Zinacantán Tzotzil	tzot1259	the wall	WALL (OF HOUSE)	933		7ibel	7ibel 
+583	33-7-27-2	72142315982472462	Zinacantán Tzotzil	tzot1259	the wall	WALL (OF HOUSE)	933		pak’ na	pak’ na 
+584	33-7-42-1	72142315331881497	Zinacantán Tzotzil	tzot1259	the bed	BED	1663		tem	tem 
+585	33-7-42-2	72142315830548346	Zinacantán Tzotzil	tzot1259	the bed	BED	1663		vayebal	vayebal 
+586	33-7-421-1	72142315967546854	Zinacantán Tzotzil	tzot1259	the pillow	PILLOW	1044		shon holil	shon holil 
+587	33-7-422-1	72142315648889603	Zinacantán Tzotzil	tzot1259	the blanket	BLANKET	806		chamaroil	chamaroil 
+588	33-7-422-2	7214231538555931	Zinacantán Tzotzil	tzot1259	the blanket	BLANKET	806		chih	chih 
+589	33-7-43-1	72142315121818983	Zinacantán Tzotzil	tzot1259	the chair	CHAIR	1476		shila	shila 
+590	33-7-44-1	72142315416394163	Zinacantán Tzotzil	tzot1259	the table	TABLE	1775		mesha	mesha 
+591	33-7-45-1	72142315473339297	Zinacantán Tzotzil	tzot1259	the lamp or torch	TORCH OR LAMP	2131		7av kas	7av kas 
+592	33-7-45-2	72142315211293433	Zinacantán Tzotzil	tzot1259	the lamp or torch	TORCH OR LAMP	2131		kantil	kantil 
+593	33-7-46-1	72142315519994449	Zinacantán Tzotzil	tzot1259	the candle	CANDLE	1273		kantela	kantela 
+594	33-7-47-1	7214231510871099	Zinacantán Tzotzil	tzot1259	the shelf	SHELF	745		kahanab	kahanab 
+595	33-7-48-1	72142315168639728	Zinacantán Tzotzil	tzot1259	the trough	TROUGH	205		hom	hom 
+596	33-7-51-1	72142315197678094	Zinacantán Tzotzil	tzot1259	the roof	ROOF	769		holol	holol 
+597	33-7-52-1	72142315611394802	Zinacantán Tzotzil	tzot1259	the thatch	THATCH	279		hobel	hobel 
+598	33-7-53-1	72142315667428343	Zinacantán Tzotzil	tzot1259	the ridgepole	RIDGEPOLE	280		hol tzel	hol tzel 
+599	33-7-53-2	72142315304747162	Zinacantán Tzotzil	tzot1259	the ridgepole	RIDGEPOLE	280		hol chuk	hol chuk 
+600	33-7-54-1	72142315775187036	Zinacantán Tzotzil	tzot1259	the rafter	RAFTER	829		te7el na	te7el na 
+601	33-7-54-2	72142315898823890	Zinacantán Tzotzil	tzot1259	the rafter	RAFTER	829		natikil te7	natikil te7 
+602	33-7-55-1	72142315474377217	Zinacantán Tzotzil	tzot1259	the beam	BEAM	1132		chantzelav te7	chantzelav te7 
+603	33-7-56-1	72142315753347965	Zinacantán Tzotzil	tzot1259	the post or pole	POST	281		7oy	7oy 
+604	33-7-57-1	72142315395977440	Zinacantán Tzotzil	tzot1259	the board	BOARD	1227		tenel te7	tenel te7 
+605	33-7-58-1	72142315146043220	Zinacantán Tzotzil	tzot1259	the arch	ARCH	876		7alku7	7alku7 
+606	33-7-61-1	72142315687788770	Zinacantán Tzotzil	tzot1259	the mason	MASON	877		7alvanil	7alvanil 
+607	33-7-62-1	72142315179465476	Zinacantán Tzotzil	tzot1259	the brick	BRICK	1006		lagrio	lagrio 
+608	33-7-64-1	7214231531325993	Zinacantán Tzotzil	tzot1259	the adobe	ADOBE	901		shamit	shamit 
+609	33-8-12-1	72142315811579403	Zinacantán Tzotzil	tzot1259	the field	FIELD	212		kampo	kampo 
+610	33-8-16-1	7214231554904134	Zinacantán Tzotzil	tzot1259	the fence	FENCE	1690		makol	makol 
+611	33-8-16-2	72142315272978811	Zinacantán Tzotzil	tzot1259	the fence	FENCE	1690		mok	mok 
+612	33-8-17-1	72142315610467091	Zinacantán Tzotzil	tzot1259	the ditch	DITCH	2002		beo7	beo7 
+613	33-8-21-1	72142315634399822	Zinacantán Tzotzil	tzot1259	to plough/plow	PLOUGH	1921		7araro	7araro 
+614	33-8-22-1	72142315583175484	Zinacantán Tzotzil	tzot1259	to dig	DIG	1418		ch’oh	ch’oh 
+615	33-8-22-2	72142315486410111	Zinacantán Tzotzil	tzot1259	to dig	DIG	1418		hok’	hok’ 
+616	33-8-23-1	72142315134369851	Zinacantán Tzotzil	tzot1259	the spade	SPADE	1176		kova	kova 
+617	33-8-24-1	7214231553021450	Zinacantán Tzotzil	tzot1259	the shovel	SHOVEL	1901		pala	pala 
+618	33-8-25-1	72142315943756635	Zinacantán Tzotzil	tzot1259	the hoe	HOE	284		7asaluna	7asaluna 
+619	33-8-27-1	72142315206809735	Zinacantán Tzotzil	tzot1259	the rake	RAKE	338		jotzobil	jotzobil 
+620	33-8-31-1	72142315679773275	Zinacantán Tzotzil	tzot1259	to sow	SOW SEEDS	748		vih	vih 
+621	33-8-311-1	7214231543228519	Zinacantán Tzotzil	tzot1259	the seed	SEED	714		bek’	bek’ 
+622	33-8-33-1	72142315163858650	Zinacantán Tzotzil	tzot1259	the sickle or scythe	SICKLE OR SCYTHE	2132		hos (2)	hos (2) 
+623	33-8-35-1	72142315546921738	Zinacantán Tzotzil	tzot1259	the threshing-floor	THRESHING-FLOOR	223		7era	7era 
+624	33-8-41-1	72142315351265412	Zinacantán Tzotzil	tzot1259	the harvest	HARVEST	611		k’ahoh	k’ahoh 
+625	33-8-43-1	72142315119577516	Zinacantán Tzotzil	tzot1259	the wheat	WHEAT	1077		triko	triko 
+626	33-8-47-1	72142315973593394	Zinacantán Tzotzil	tzot1259	the maize/corn	MAIZE	506		7ishim	7ishim 
+627	33-8-48-1	7214231570223259	Zinacantán Tzotzil	tzot1259	the rice	RICE	926		7aros	7aros 
+628	33-8-51-1	72142315611394802	Zinacantán Tzotzil	tzot1259	the grass	GRASS	606		hobel	hobel 
+629	33-8-53-1	72142315554917933	Zinacantán Tzotzil	tzot1259	the plant	PLANT (VEGETATION)	653		tz'i7lel	tz'i7lel 
+630	33-8-531-1	72142315651716948	Zinacantán Tzotzil	tzot1259	to plant	PLANT (SOMETHING)	1486		tz’un	tz’un 
+631	33-8-54-1	72142315158881944	Zinacantán Tzotzil	tzot1259	the root	ROOT	670		7ibel	7ibel 
+632	33-8-54-2	72142315444368610	Zinacantán Tzotzil	tzot1259	the root	ROOT	670		7isimil	7isimil 
+633	33-8-55-1	72142315633135995	Zinacantán Tzotzil	tzot1259	the branch	BRANCH OR TWIG	3223		k’obol	k’obol 
+634	33-8-56-1	72142315371128330	Zinacantán Tzotzil	tzot1259	the leaf	LEAF	628		7anal	7anal 
+635	33-8-57-1	72142315123559304	Zinacantán Tzotzil	tzot1259	the flower	FLOWER	239		nich	nich 
+636	33-8-6-1	72142315267752481	Zinacantán Tzotzil	tzot1259	the tree	TREE	906		te7	te7 
+637	33-8-61-1	72142315381464560	Zinacantán Tzotzil	tzot1259	the oak	OAK	644		tulan	tulan 
+638	33-8-64-1	7214231548901731	Zinacantán Tzotzil	tzot1259	the pine	PINE	1740		toh	toh 
+639	33-8-66-1	72142315802748361	Zinacantán Tzotzil	tzot1259	the acorn	ACORN	968		chochob	chochob 
+640	33-8-67-1	72142315871232156	Zinacantán Tzotzil	tzot1259	the vine	VINE	343		7ak’ (2)	7ak’ (2) 
+641	33-8-68-1	72142315753514387	Zinacantán Tzotzil	tzot1259	the tobacco	TOBACCO	974		moy	moy 
+642	33-8-69-1	72142315757910151	Zinacantán Tzotzil	tzot1259	to smoke	SMOKE (INHALE)	1689		butz’	butz’ 
+643	33-8-72-1	7214231553232077	Zinacantán Tzotzil	tzot1259	the tree stump	TREE STUMP	241		chak te7	chak te7 
+644	33-8-72-2	72142315221206402	Zinacantán Tzotzil	tzot1259	the tree stump	TREE STUMP	241		chuman te7	chuman te7 
+645	33-8-73-1	72142315680322145	Zinacantán Tzotzil	tzot1259	the tree trunk	TREE TRUNK	344		7okol	7okol 
+646	33-8-74-1	72142315611354524	Zinacantán Tzotzil	tzot1259	the forked branch	FORKED BRANCH	409		jet te7	jet te7 
+647	33-8-75-1	72142315276751735	Zinacantán Tzotzil	tzot1259	the bark	BARK	1204		patil	patil 
+648	33-8-76-1	72142315705869418	Zinacantán Tzotzil	tzot1259	the sap	SAP	345		chu7	chu7 
+649	33-8-76-2	72142315817301672	Zinacantán Tzotzil	tzot1259	the sap	SAP	345		pohov	pohov 
+650	33-8-81-1	72142315115018108	Zinacantán Tzotzil	tzot1259	the palm tree	PALM TREE	1181		shan	shan 
+651	33-8-82-1	72142315989054720	Zinacantán Tzotzil	tzot1259	the coconut	COCONUT	970		koko	koko 
+652	33-8-84-1	72142315629044609	Zinacantán Tzotzil	tzot1259	the banana	BANANA	868		kinya	kinya 
+653	33-8-84-2	72142315686087205	Zinacantán Tzotzil	tzot1259	the banana	BANANA	868		lo7bol	lo7bol 
+654	33-8-912-1	72142315764877851	Zinacantán Tzotzil	tzot1259	the yam	YAM	410		tz'itesob `at	tz'itesob `at 
+655	33-8-92-1	72142315391571426	Zinacantán Tzotzil	tzot1259	the cassava/manioc	CASSAVA	925		tz'in-te7	tz'in-te7 
+656	33-8-93-1	72142315916468727	Zinacantán Tzotzil	tzot1259	the gourd	GOURD	411		tzu	tzu 
+657	33-8-931-1	72142315589602632	Zinacantán Tzotzil	tzot1259	the pumpkin or squash	PUMPKIN	864		su	su 
+658	33-8-94-1	72142315177063361	Zinacantán Tzotzil	tzot1259	the bamboo	BAMBOO	1927		bish	bish 
+659	33-8-94-2	72142315949136966	Zinacantán Tzotzil	tzot1259	the bamboo	BAMBOO	1927		7otot	7otot 
+660	33-8-94-3	72142315128605812	Zinacantán Tzotzil	tzot1259	the bamboo	BAMBOO	1927		taro	taro 
+661	33-8-941-1	72142315456010534	Zinacantán Tzotzil	tzot1259	the sugar cane	SUGAR CANE	146		vale7	vale7 
+662	33-8-97-1	72142315823159080	Zinacantán Tzotzil	tzot1259	the nettle	NETTLE	33		la	la 
+663	33-8-98-1	72142315787409551	Zinacantán Tzotzil	tzot1259	the mushroom	MUSHROOM	641		chan	chan 
+664	33-8-98-2	72142315945352293	Zinacantán Tzotzil	tzot1259	the mushroom	MUSHROOM	641		chanul te7tik	chanul te7tik 
+665	33-9-11-1	72142315936821162	Zinacantán Tzotzil	tzot1259	to do	DO	813		7al	7al 
+666	33-9-11-2	7214231543251248	Zinacantán Tzotzil	tzot1259	to do	DO	813		pas	pas 
+667	33-9-12-1	72142315688685807	Zinacantán Tzotzil	tzot1259	the work	WORK (LABOUR)	984		`abtelil	`abtelil 
+668	33-9-14-1	72142315897998258	Zinacantán Tzotzil	tzot1259	to bend	BEND	2004		lu7	lu7 
+669	33-9-15-1	72142315148260538	Zinacantán Tzotzil	tzot1259	to fold	FOLD	1470		pak	pak 
+670	33-9-16-1	72142315465627096	Zinacantán Tzotzil	tzot1259	to tie	TIE	1917		timan	timan 
+671	33-9-161-1	72142315811696260	Zinacantán Tzotzil	tzot1259	to untie	UNTIE	352		titin	titin 
+672	33-9-18-1	72142315403399129	Zinacantán Tzotzil	tzot1259	the chain	CHAIN	1627		karina	karina 
+673	33-9-19-1	7214231587520987	Zinacantán Tzotzil	tzot1259	the rope	ROPE	1218		laso	laso 
+674	33-9-192-1	72142315278374746	Zinacantán Tzotzil	tzot1259	the knot	KNOT	760		p’ok	p’ok 
+675	33-9-21-1	72142315540771612	Zinacantán Tzotzil	tzot1259	to strike or hit or beat	STRIKE OR BEAT	2133		mah	mah 
+676	33-9-21-2	72142315517380500	Zinacantán Tzotzil	tzot1259	to strike or hit or beat	STRIKE OR BEAT	2133		bah	bah 
+677	33-9-211-1	72142315940406787	Zinacantán Tzotzil	tzot1259	to pound	POUND	354		t’us	t’us 
+678	33-9-22-1	72142315360173230	Zinacantán Tzotzil	tzot1259	to cut	CUT	1432		boh	boh 
+679	33-9-22-2	72142315833785202	Zinacantán Tzotzil	tzot1259	to cut	CUT	1432		tuch’	tuch’ 
+680	33-9-221-1	72142315360173230	Zinacantán Tzotzil	tzot1259	to cut down	CUT DOWN	355		boh	boh 
+681	33-9-222-1	72142315360173230	Zinacantán Tzotzil	tzot1259	to chop	CHOP	155		boh	boh 
+682	33-9-223-1	72142315806997738	Zinacantán Tzotzil	tzot1259	to stab	STAB TO DEATH	3189		pahbe	pahbe 
+683	33-9-23-1	72142315898628571	Zinacantán Tzotzil	tzot1259	the knife(2)	KNIFE	1352		kuchilu	kuchilu 
+684	33-9-24-1	72142315873720475	Zinacantán Tzotzil	tzot1259	the scissors or shears	SHEARS	356		tesheresh	tesheresh 
+685	33-9-25-1	72142315235757525	Zinacantán Tzotzil	tzot1259	the axe/ax	AXE	677		7ek’el	7ek’el 
+686	33-9-26-1	72142315519246245	Zinacantán Tzotzil	tzot1259	to break	BREAK (DESTROY OR GET DESTROYED)	680		k’as	k’as 
+687	33-9-26-2	72142315373260725	Zinacantán Tzotzil	tzot1259	to break	BREAK (DESTROY OR GET DESTROYED)	680		vok’	vok’ 
+688	33-9-261-1	72142315415389211	Zinacantán Tzotzil	tzot1259	broken	BROKEN (NOT WORKING)	3190		tuch’el	tuch’el 
+689	33-9-261-2	7214231551374925	Zinacantán Tzotzil	tzot1259	broken	BROKEN (NOT WORKING)	3190		vok’olik	vok’olik 
+690	33-9-27-1	72142315663897555	Zinacantán Tzotzil	tzot1259	to split	SPLIT	1437		hav	hav 
+691	33-9-27-2	72142315106375184	Zinacantán Tzotzil	tzot1259	to split	SPLIT	1437		t’ah	t’ah 
+692	33-9-28-1	72142315184228982	Zinacantán Tzotzil	tzot1259	to tear	TEAR (SHRED)	1735		hat	hat 
+693	33-9-29-1	72142315671344927	Zinacantán Tzotzil	tzot1259	to skin	PULL OFF (SKIN)	291		cho7	cho7 
+694	33-9-31-1	72142315784914547	Zinacantán Tzotzil	tzot1259	to rub	RUB	1449		biulan	biulan 
+695	33-9-32-1	72142315953438922	Zinacantán Tzotzil	tzot1259	to stretch	STRETCH	214		li7 (2)	li7 (2) 
+696	33-9-33-1	72142315939082639	Zinacantán Tzotzil	tzot1259	to pull	PULL	1455		nit	nit 
+697	33-9-34-1	72142315396441799	Zinacantán Tzotzil	tzot1259	to spread out	SPREAD OUT	38		yi`lej	yi`lej 
+698	33-9-341-1	72142315479989323	Zinacantán Tzotzil	tzot1259	to hang up	HANG UP	357		hipan	hipan 
+699	33-9-341-2	72142315341601827	Zinacantán Tzotzil	tzot1259	to hang up	HANG UP	357		hok’an	hok’an 
+700	33-9-341-3	72142315573553415	Zinacantán Tzotzil	tzot1259	to hang up	HANG UP	357		vitan	vitan 
+701	33-9-343-1	72142315723966182	Zinacantán Tzotzil	tzot1259	to squeeze	SQUEEZE	1414		pitz’	pitz’ 
+702	33-9-35-1	72142315912287930	Zinacantán Tzotzil	tzot1259	to pour	POUR	1487		k’eb	k’eb 
+703	33-9-35-2	72142315155261578	Zinacantán Tzotzil	tzot1259	to pour	POUR	1487		kol	kol 
+704	33-9-36-1	7214231542166775	Zinacantán Tzotzil	tzot1259	to wash	WASH	1453		pok	pok 
+705	33-9-36-2	7214231528003904	Zinacantán Tzotzil	tzot1259	to wash	WASH	1453		chuk’	chuk’ 
+706	33-9-37-1	72142315507323335	Zinacantán Tzotzil	tzot1259	to sweep	SWEEP	230		mes	mes 
+707	33-9-38-1	72142315675664803	Zinacantán Tzotzil	tzot1259	the broom	BROOM	245		mesehob	mesehob 
+708	33-9-422-1	72142315980842789	Zinacantán Tzotzil	tzot1259	the tool	TOOL	1361		7abtehebal	7abtehebal 
+709	33-9-43-1	72142315515333146	Zinacantán Tzotzil	tzot1259	the carpenter	CARPENTER	1042		kalpintero	kalpintero 
+710	33-9-44-1	72142315457062109	Zinacantán Tzotzil	tzot1259	to build	BUILD	1840		meltzan	meltzan 
+711	33-9-44-2	72142315548163624	Zinacantán Tzotzil	tzot1259	to build	BUILD	1840		p’ehan	p’ehan 
+712	33-9-44-3	72142315603594017	Zinacantán Tzotzil	tzot1259	to build	BUILD	1840		va7an	va7an 
+713	33-9-461-1	72142315791516824	Zinacantán Tzotzil	tzot1259	to hollow out	HOLLOW OUT	46		kujtzanan	kujtzanan 
+714	33-9-48-1	72142315670374273	Zinacantán Tzotzil	tzot1259	the saw	SAW	1948		kupob	kupob 
+715	33-9-49-1	72142315447849727	Zinacantán Tzotzil	tzot1259	the hammer	HAMMER	1481		martio	martio 
+716	33-9-5-1	72142315428765848	Zinacantán Tzotzil	tzot1259	the nail	NAIL (TOOL)	502		lavush	lavush 
+717	33-9-56-1	72142315948506739	Zinacantán Tzotzil	tzot1259	the glue	GLUE	1069		nap'ob	nap'ob 
+718	33-9-6-1	72142315692716231	Zinacantán Tzotzil	tzot1259	the blacksmith	BLACKSMITH	1001		htentak’in	htentak’in 
+719	33-9-64-1	72142315157817471	Zinacantán Tzotzil	tzot1259	the gold	GOLD	1369		7oro	7oro 
+720	33-9-71-1	72142315705943421	Zinacantán Tzotzil	tzot1259	the potter	POTTER	359		hpotob	hpotob 
+721	33-9-72-1	72142315265737876	Zinacantán Tzotzil	tzot1259	to mould/mold	MOLD	289		pat	pat 
+722	33-9-73-1	72142315102078420	Zinacantán Tzotzil	tzot1259	the clay	CLAY	1399		chablum	chablum 
+723	33-9-75-1	72142315175147953	Zinacantán Tzotzil	tzot1259	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		hal	hal 
+724	33-9-76-1	72142315410924994	Zinacantán Tzotzil	tzot1259	the basket	BASKET	1539		moch	moch 
+725	33-9-77-1	72142315596578353	Zinacantán Tzotzil	tzot1259	the mat	MAT	195		pop	pop 
+726	33-9-79-1	72142315132782852	Zinacantán Tzotzil	tzot1259	the fan	FAN (OBJECT)	1971		velob	velob 
+727	33-9-791-1	72142315312147107	Zinacantán Tzotzil	tzot1259	to fan	FAN ACTION	360		hik’a	hik’a 
+728	33-9-791-2	72142315507000596	Zinacantán Tzotzil	tzot1259	to fan	FAN ACTION	360		vel	vel 
+729	33-9-81-1	72142315587139245	Zinacantán Tzotzil	tzot1259	to carve	CARVE	228		7an	7an 
+730	33-9-84-1	7214231548882700	Zinacantán Tzotzil	tzot1259	the chisel	CHISEL	1979		7anob	7anob 
+731	33-9-88-1	72142315288759082	Zinacantán Tzotzil	tzot1259	the paint	PAINT (PIGMENTS)	647		bon	bon 
+732	33-9-89-1	72142315288759082	Zinacantán Tzotzil	tzot1259	to paint	PAINTING	2001		bon	bon 
+733	33-10-11-1	72142315368338206	Zinacantán Tzotzil	tzot1259	to move	MOVE	765		helubtas	helubtas 
+734	33-10-12-1	72142315710786401	Zinacantán Tzotzil	tzot1259	to turn	TURN	1588		7ak’ bwelta	7ak’ bwelta 
+735	33-10-13-1	72142315710786401	Zinacantán Tzotzil	tzot1259	to turn around	TURN (SOMETHING)	1445		7ak’ bwelta	7ak’ bwelta 
+736	33-10-13-2	72142315122109950	Zinacantán Tzotzil	tzot1259	to turn around	TURN (SOMETHING)	1445		hoyihes	hoyihes 
+737	33-10-14-1	72142315136638521	Zinacantán Tzotzil	tzot1259	to wrap	WRAP	1113		potzan	potzan 
+738	33-10-15-1	72142315567394126	Zinacantán Tzotzil	tzot1259	to roll	ROLL	827		tishk’uh	tishk’uh 
+739	33-10-16-1	72142315182318331	Zinacantán Tzotzil	tzot1259	to drop	DROP (SOMETHING)	2866		p’ahes	p’ahes 
+740	33-10-17-1	72142315998898946	Zinacantán Tzotzil	tzot1259	to twist	TWIST (AROUND)	3199		tz’ot	tz’ot 
+741	33-10-21-1	72142315703377752	Zinacantán Tzotzil	tzot1259	to rise	RISE (MOVE UPWARDS)	568		muy	muy 
+742	33-10-21-2	72142315133123639	Zinacantán Tzotzil	tzot1259	to rise	RISE (MOVE UPWARDS)	568		kah	kah 
+743	33-10-22-1	72142315682305547	Zinacantán Tzotzil	tzot1259	to raise or lift	LIFT	501		toy	toy 
+744	33-10-22-2	72142315438043761	Zinacantán Tzotzil	tzot1259	to raise or lift	LIFT	501		lik	lik 
+745	33-10-22-3	72142315799456485	Zinacantán Tzotzil	tzot1259	to raise or lift	LIFT	501		tam	tam 
+746	33-10-22-4	7214231575245831	Zinacantán Tzotzil	tzot1259	to raise or lift	LIFT	501		totz	totz 
+747	33-10-23-1	72142315567394126	Zinacantán Tzotzil	tzot1259	to fall	FALL	1280		tishk’uh	tishk’uh 
+748	33-10-23-2	72142315565909354	Zinacantán Tzotzil	tzot1259	to fall	FALL	1280		p’ah	p’ah 
+749	33-10-24-1	72142315859518599	Zinacantán Tzotzil	tzot1259	to drip	DRIP (EMIT LIQUID)	2253		tz’uh	tz’uh 
+750	33-10-25-1	72142315307224420	Zinacantán Tzotzil	tzot1259	to throw	THROW	1456		hip	hip 
+751	33-10-25-2	72142315438997272	Zinacantán Tzotzil	tzot1259	to throw	THROW	1456		ten	ten 
+752	33-10-252-1	72142315932341753	Zinacantán Tzotzil	tzot1259	to catch	CATCH	702		tzakan	tzakan 
+753	33-10-26-1	72142315616150154	Zinacantán Tzotzil	tzot1259	to shake	SHAKE	1909		7okilan	7okilan 
+754	33-10-26-2	72142315976651559	Zinacantán Tzotzil	tzot1259	to shake	SHAKE	1909		lilin	lilin 
+755	33-10-26-3	72142315375867068	Zinacantán Tzotzil	tzot1259	to shake	SHAKE	1909		vuyilan	vuyilan 
+756	33-10-26-4	72142315784883614	Zinacantán Tzotzil	tzot1259	to shake	SHAKE	1909		yo7ilan	yo7ilan 
+757	33-10-33-1	72142315832686550	Zinacantán Tzotzil	tzot1259	to sink	SINK (DESCEND)	1088		muk	muk 
+758	33-10-34-1	72142315357257018	Zinacantán Tzotzil	tzot1259	to float	FLOAT	1574		kahi	kahi 
+759	33-10-35-1	72142315248018677	Zinacantán Tzotzil	tzot1259	to swim	SWIM	1439		nushih	nushih 
+760	33-10-352-1	72142315297661430	Zinacantán Tzotzil	tzot1259	to splash	SPLASH	365		ch’ites	ch’ites 
+761	33-10-37-1	7214231510234701	Zinacantán Tzotzil	tzot1259	to fly	FLY (MOVE THROUGH AIR)	1441		vil	vil 
+762	33-10-412-1	72142315435572617	Zinacantán Tzotzil	tzot1259	to kneel	KNEEL	66		kehi	kehi 
+763	33-10-413-1	72142315303538017	Zinacantán Tzotzil	tzot1259	to crouch	CROUCH	296		tzuban ba	tzuban ba 
+764	33-10-42-1	72142315467862451	Zinacantán Tzotzil	tzot1259	to slide or slip	SLIP	1324		tzul	tzul 
+765	33-10-42-2	72142315267190589	Zinacantán Tzotzil	tzot1259	to slide or slip	SLIP	1324		hashk’un	hashk’un 
+766	33-10-42-3	72142315718336871	Zinacantán Tzotzil	tzot1259	to slide or slip	SLIP	1324		bilk’uh	bilk’uh 
+767	33-10-43-1	72142315448382882	Zinacantán Tzotzil	tzot1259	to jump	JUMP	1829		p’it	p’it 
+768	33-10-431-1	72142315669962981	Zinacantán Tzotzil	tzot1259	to kick	KICK	1135		lik ta tek’el	lik ta tek’el 
+769	33-10-431-2	72142315661941042	Zinacantán Tzotzil	tzot1259	to kick	KICK	1135		puh ta tek’el	puh ta tek’el 
+770	33-10-44-1	72142315853858399	Zinacantán Tzotzil	tzot1259	to dance	DANCE	1879		7ak’otah	7ak’otah 
+771	33-10-45-1	7214231553543266	Zinacantán Tzotzil	tzot1259	to walk	WALK	1443		shanav	shanav 
+772	33-10-451-1	72142315226212663	Zinacantán Tzotzil	tzot1259	to limp	LIMP	366		koshkonah	koshkonah 
+773	33-10-451-2	72142315458490135	Zinacantán Tzotzil	tzot1259	to limp	LIMP	366		lit’lonah	lit’lonah 
+774	33-10-451-3	72142315690011364	Zinacantán Tzotzil	tzot1259	to limp	LIMP	366		pehponah	pehponah 
+775	33-10-46-1	72142315845385799	Zinacantán Tzotzil	tzot1259	to run	RUN	1519		7anilah	7anilah 
+776	33-10-47-1	72142315370073580	Zinacantán Tzotzil	tzot1259	to go	GO	695		bat	bat 
+777	33-10-472-1	72142315703377752	Zinacantán Tzotzil	tzot1259	to climb	CLIMB	1102		muy	muy 
+778	33-10-473-1	72142315423499567	Zinacantán Tzotzil	tzot1259	to go down	GO DOWN (DESCEND)	2014		pek'i	pek'i 
+779	33-10-474-1	72142315281925358	Zinacantán Tzotzil	tzot1259	to go out	GO OUT	1107		lok’	lok’ 
+780	33-10-48-1	72142315364909779	Zinacantán Tzotzil	tzot1259	to come	COME	1446		tal	tal 
+781	33-10-481-1	72142315469016262	Zinacantán Tzotzil	tzot1259	to come back	COME BACK	581		sut	sut 
+782	33-10-49-1	72142315458576849	Zinacantán Tzotzil	tzot1259	to leave	LEAVE	1752		totz ech’el	totz ech’el 
+783	33-10-491-1	72142315978829722	Zinacantán Tzotzil	tzot1259	to disappear	DISAPPEAR	485		sakch’ay	sakch’ay 
+784	33-10-51-1	72142315431516858	Zinacantán Tzotzil	tzot1259	to flee	FLEE	956		hatav	hatav 
+785	33-10-52-1	72142315452628027	Zinacantán Tzotzil	tzot1259	to follow	FOLLOW	1085		tihi	tihi 
+786	33-10-55-1	72142315990193489	Zinacantán Tzotzil	tzot1259	to arrive	ARRIVE	1387		yul	yul 
+787	33-10-55-2	72142315825250170	Zinacantán Tzotzil	tzot1259	to arrive	ARRIVE	1387		k’ot	k’ot 
+788	33-10-55-3	72142315364909779	Zinacantán Tzotzil	tzot1259	to arrive	ARRIVE	1387		tal	tal 
+789	33-10-56-1	72142315911964529	Zinacantán Tzotzil	tzot1259	to approach	APPROACH	1778		nopoj	nopoj 
+790	33-10-57-1	72142315501150201	Zinacantán Tzotzil	tzot1259	to enter	ENTER	749		7och	7och 
+791	33-10-61-1	7214231575242230	Zinacantán Tzotzil	tzot1259	to carry	CARRY	700		7ich’	7ich’ 
+792	33-10-613-1	72142315528355201	Zinacantán Tzotzil	tzot1259	to carry on shoulder	CARRY ON SHOULDER	413		poy ech’el	poy ech’el 
+793	33-10-62-1	72142315733127484	Zinacantán Tzotzil	tzot1259	to bring	BRING	692		7ich’ tal	7ich’ tal 
+794	33-10-63-1	72142315432687466	Zinacantán Tzotzil	tzot1259	to send	SEND	1127		tak’i	tak’i 
+795	33-10-64-1	72142315844856965	Zinacantán Tzotzil	tzot1259	to lead	LEAD (GUIDE)	43		7ak’ punto	7ak’ punto 
+796	33-10-67-1	72142315266019903	Zinacantán Tzotzil	tzot1259	to push	PUSH	1452		shuh	shuh 
+797	33-10-67-2	72142315208953514	Zinacantán Tzotzil	tzot1259	to push	PUSH	1452		net’	net’ 
+798	33-10-71-1	72142315223722817	Zinacantán Tzotzil	tzot1259	the road	ROAD	667		be	be 
+799	33-10-71-2	72142315732026249	Zinacantán Tzotzil	tzot1259	the road	ROAD	667		kaya	kaya 
+800	33-10-72-1	72142315223722817	Zinacantán Tzotzil	tzot1259	the path	PATH	2252		be	be 
+801	33-10-72-2	72142315636240939	Zinacantán Tzotzil	tzot1259	the path	PATH	2252		7ileb	7ileb 
+802	33-10-74-1	7214231559646701	Zinacantán Tzotzil	tzot1259	the bridge	BRIDGE	1011		k’o	k’o 
+803	33-10-74-2	7214231532550802	Zinacantán Tzotzil	tzot1259	the bridge	BRIDGE	1011		ba k’o	ba k’o 
+804	33-10-76-1	72142315770721864	Zinacantán Tzotzil	tzot1259	the wheel	WHEEL	710		karos	karos 
+805	33-10-78-1	72142315973416612	Zinacantán Tzotzil	tzot1259	the yoke	YOKE	14		choh	choh 
+806	33-10-78-2	72142315759599962	Zinacantán Tzotzil	tzot1259	the yoke	YOKE	14		mankornal	mankornal 
+807	33-10-831-1	72142315168639728	Zinacantán Tzotzil	tzot1259	the canoe	CANOE	1970		hom	hom 
+808	33-10-85-1	7214231549553423	Zinacantán Tzotzil	tzot1259	the oar	RUDDER	108		pala te7	pala te7 
+809	33-10-852-1	7214231593996297	Zinacantán Tzotzil	tzot1259	to row	ROW	1849		hub	hub 
+810	33-11-13-1	7214231575242230	Zinacantán Tzotzil	tzot1259	to take	TAKE	1749		7ich’	7ich’ 
+811	33-11-13-2	72142315880155633	Zinacantán Tzotzil	tzot1259	to take	TAKE	1749		7ik’ (2)	7ik’ (2) 
+812	33-11-13-3	72142315885332917	Zinacantán Tzotzil	tzot1259	to take	TAKE	1749		tzak	tzak 
+813	33-11-13-4	72142315799456485	Zinacantán Tzotzil	tzot1259	to take	TAKE	1749		tam	tam 
+814	33-11-15-1	72142315210286802	Zinacantán Tzotzil	tzot1259	to hold	HOLD	1448		tom	tom 
+815	33-11-16-1	72142315992134443	Zinacantán Tzotzil	tzot1259	to get	GET	694		ta (2)	ta (2) 
+816	33-11-16-2	72142315870630469	Zinacantán Tzotzil	tzot1259	to get	GET	694		tama	tama 
+817	33-11-17-1	72142315901426044	Zinacantán Tzotzil	tzot1259	to keep	KEEP	1477		k’eh	k’eh 
+818	33-11-17-2	72142315242225500	Zinacantán Tzotzil	tzot1259	to keep	KEEP	1477		nak’	nak’ 
+819	33-11-18-1	72142315722188227	Zinacantán Tzotzil	tzot1259	the thing	THING	738		k’usuk 7u7un	k’usuk 7u7un 
+820	33-11-21-1	7214231565559634	Zinacantán Tzotzil	tzot1259	to give	GIVE	1447		7ak’	7ak’ 
+821	33-11-22-1	72142315967380758	Zinacantán Tzotzil	tzot1259	to give back	GIVE BACK	85		sutes tal	sutes tal 
+822	33-11-25-1	72142315737212121	Zinacantán Tzotzil	tzot1259	to rescue	RESCUE	2008		poh 7u7un	poh 7u7un 
+823	33-11-28-1	72142315523375036	Zinacantán Tzotzil	tzot1259	to injure	INJURE	44		yayijemal	yayijemal 
+824	33-11-31-1	72142315226799643	Zinacantán Tzotzil	tzot1259	to look for	LOOK FOR	1468		sa7	sa7 
+825	33-11-32-1	72142315992134443	Zinacantán Tzotzil	tzot1259	to find	FIND	719		ta (2)	ta (2) 
+826	33-11-33-1	72142315614135885	Zinacantán Tzotzil	tzot1259	to lose	LOSE	1660		ch’ay	ch’ay 
+827	33-11-43-1	72142315679528055	Zinacantán Tzotzil	tzot1259	the money	MONEY	1559		sentavo	sentavo 
+828	33-11-43-2	72142315143127689	Zinacantán Tzotzil	tzot1259	the money	MONEY	1559		tak’in	tak’in 
+829	33-11-44-1	7214231546758952	Zinacantán Tzotzil	tzot1259	the coin	COIN	1867		`antivo tak'in	`antivo tak'in 
+830	33-11-51-1	72142315773153026	Zinacantán Tzotzil	tzot1259	rich	RICH	712		riko	riko 
+831	33-11-52-1	72142315363770040	Zinacantán Tzotzil	tzot1259	poor	POOR	1674		povre	povre 
+832	33-11-53-1	72142315695863577	Zinacantán Tzotzil	tzot1259	the beggar	BEGGAR	1934		hk’anlimushno	hk’anlimushno 
+833	33-11-54-1	72142315215285487	Zinacantán Tzotzil	tzot1259	stingy	STINGY	1774		t’ut’	t’ut’ 
+834	33-11-62-1	72142315481007475	Zinacantán Tzotzil	tzot1259	to borrow	BORROW	1823		ch’amun	ch’amun 
+835	33-11-62-2	7214231513447505	Zinacantán Tzotzil	tzot1259	to borrow	BORROW	1823		7och’ ta ch’om	7och’ ta ch’om 
+836	33-11-64-1	72142315535475908	Zinacantán Tzotzil	tzot1259	the debt	DEBT	1914		7ilil	7ilil 
+837	33-11-64-2	72142315413591656	Zinacantán Tzotzil	tzot1259	the debt	DEBT	1914		kwenta	kwenta 
+838	33-11-65-1	72142315350908220	Zinacantán Tzotzil	tzot1259	to pay	PAY	718		toh (2)	toh (2) 
+839	33-11-69-1	72142315275876148	Zinacantán Tzotzil	tzot1259	the tax	TAX	873		tojel `ak'el	tojel `ak'el 
+840	33-11-78-1	72142315218093726	Zinacantán Tzotzil	tzot1259	the wages	WAGES	1122		tohol	tohol 
+841	33-11-79-1	72142315871636601	Zinacantán Tzotzil	tzot1259	to earn	EARN	733		7ich’ tohel	7ich’ tohel 
+842	33-11-81-1	72142315912015719	Zinacantán Tzotzil	tzot1259	to buy	BUY	1869		man	man 
+843	33-11-82-1	72142315938713071	Zinacantán Tzotzil	tzot1259	to sell	SELL	1571		chon	chon 
+844	33-11-83-1	72142315853923341	Zinacantán Tzotzil	tzot1259	to trade or barter	TRADE OR BARTER	2135		hel	hel 
+845	33-11-83-2	72142315697852090	Zinacantán Tzotzil	tzot1259	to trade or barter	TRADE OR BARTER	2135		tukulta	tukulta 
+846	33-11-84-1	72142315288926281	Zinacantán Tzotzil	tzot1259	the merchant	MERCHANT	1082		hchonolahel	hchonolahel 
+847	33-11-84-2	72142315226246843	Zinacantán Tzotzil	tzot1259	the merchant	MERCHANT	1082		hp’olmahel	hp’olmahel 
+848	33-11-84-3	72142315375427744	Zinacantán Tzotzil	tzot1259	the merchant	MERCHANT	1082		marchante	marchante 
+849	33-11-85-1	72142315176889670	Zinacantán Tzotzil	tzot1259	the market	MARKET	633		ch’ivit	ch’ivit 
+850	33-11-86-1	72142315309155376	Zinacantán Tzotzil	tzot1259	the shop/store	STORE	752		tyenta	tyenta 
+851	33-11-87-1	72142315218093726	Zinacantán Tzotzil	tzot1259	the price	PRICE	657		tohol	tohol 
+852	33-11-88-1	7214231595402990	Zinacantán Tzotzil	tzot1259	expensive	EXPENSIVE	1426		kil tak’in	kil tak’in 
+853	33-11-89-1	72142315966413037	Zinacantán Tzotzil	tzot1259	cheap	CHEAP	1887		yalem	yalem 
+854	33-11-91-1	72142315591429256	Zinacantán Tzotzil	tzot1259	to share	SHARE	884		komonta	komonta 
+855	33-12-011-1	7214231568769803	Zinacantán Tzotzil	tzot1259	behind	BEHIND	1686		ta pat	ta pat 
+856	33-12-03-1	72142315252292765	Zinacantán Tzotzil	tzot1259	down	DOWN	1326		yalel	yalel 
+857	33-12-04-1	72142315275627324	Zinacantán Tzotzil	tzot1259	before	BEFORE	1882		ta	ta 
+858	33-12-041-1	7214231586534565	Zinacantán Tzotzil	tzot1259	in front of	IN FRONT OF	1883		7elav	7elav 
+859	33-12-041-2	72142315357478162	Zinacantán Tzotzil	tzot1259	in front of	IN FRONT OF	1883		7ichonil	7ichonil 
+860	33-12-05-1	72142315363679669	Zinacantán Tzotzil	tzot1259	inside	INSIDE	1606		`util	`util 
+861	33-12-06-1	7214231523161880	Zinacantán Tzotzil	tzot1259	outside	OUTSIDE	762		pana	pana 
+862	33-12-11-1	72142315981789587	Zinacantán Tzotzil	tzot1259	the place	PLACE (POSITION)	723		7avil	7avil 
+863	33-12-11-2	7214231572332013	Zinacantán Tzotzil	tzot1259	the place	PLACE (POSITION)	723		balamil	balamil 
+864	33-12-11-3	72142315947663887	Zinacantán Tzotzil	tzot1259	the place	PLACE (POSITION)	723		lugar	lugar 
+865	33-12-12-1	7214231565559634	Zinacantán Tzotzil	tzot1259	to put	PUT	998		7ak’	7ak’ 
+866	33-12-13-1	72142315996655788	Zinacantán Tzotzil	tzot1259	to sit	SIT	1416		tzuni	tzuni 
+867	33-12-14-1	72142315110489267	Zinacantán Tzotzil	tzot1259	to lie down	LIE DOWN	215		puch’etah	puch’etah 
+868	33-12-15-1	7214231537789662	Zinacantán Tzotzil	tzot1259	to stand	STAND	1442		noch'	noch' 
+869	33-12-16-1	72142315648266763	Zinacantán Tzotzil	tzot1259	to remain	REMAIN	987		kom	kom 
+870	33-12-21-1	72142315783379648	Zinacantán Tzotzil	tzot1259	to gather	GATHER	7		tzuk	tzuk 
+871	33-12-212-1	72142315799456485	Zinacantán Tzotzil	tzot1259	to pick up	PICK UP	371		tam	tam 
+872	33-12-213-1	7214231594521299	Zinacantán Tzotzil	tzot1259	to pile up	PILE UP	1576		yem ba	yem ba 
+873	33-12-23-1	7214231523389490	Zinacantán Tzotzil	tzot1259	to separate	SEPARATE	1359		ch’ak	ch’ak 
+874	33-12-232-1	7214231523389490	Zinacantán Tzotzil	tzot1259	to divide	DIVIDE	1119		ch’ak	ch’ak 
+875	33-12-24-1	72142315486791241	Zinacantán Tzotzil	tzot1259	to open	OPEN	1156		ham	ham 
+876	33-12-25-1	72142315579693848	Zinacantán Tzotzil	tzot1259	to shut	SHUT	1046		nup' ba	nup' ba 
+877	33-12-26-1	7214231550572853	Zinacantán Tzotzil	tzot1259	to cover	COVER	761		mak	mak 
+878	33-12-27-1	72142315242225500	Zinacantán Tzotzil	tzot1259	to hide	HIDE (CONCEAL)	602		nak’	nak’ 
+879	33-12-31-1	72142315149055804	Zinacantán Tzotzil	tzot1259	high	HIGH	1265		toyol	toyol 
+880	33-12-32-1	72142315568848600	Zinacantán Tzotzil	tzot1259	low	LOW	721		pek’el	pek’el 
+881	33-12-33-1	72142315866118246	Zinacantán Tzotzil	tzot1259	the top	TOP	1753		bail	bail 
+882	33-12-34-1	72142315735218471	Zinacantán Tzotzil	tzot1259	the bottom	BOTTOM	690		chakil	chakil 
+883	33-12-35-1	72142315115959778	Zinacantán Tzotzil	tzot1259	the end(1)	END (OF SPACE)	742		pajeb	pajeb 
+884	33-12-352-1	7214231574361430	Zinacantán Tzotzil	tzot1259	pointed	POINTED	372		tz’upul	tz’upul 
+885	33-12-353-1	72142315175082076	Zinacantán Tzotzil	tzot1259	the edge	EDGE	863		ti7il	ti7il 
+886	33-12-36-1	72142315158881944	Zinacantán Tzotzil	tzot1259	the side	SIDE	682		7ibel	7ibel 
+887	33-12-36-2	72142315422269554	Zinacantán Tzotzil	tzot1259	the side	SIDE	682		shokon	shokon 
+888	33-12-37-1	72142315235455551	Zinacantán Tzotzil	tzot1259	the middle	MIDDLE	1093		7o7lol	7o7lol 
+889	33-12-41-1	72142315544385266	Zinacantán Tzotzil	tzot1259	right(1)	RIGHT	1019		batz'i k'obol	batz'i k'obol 
+890	33-12-42-1	72142315801344786	Zinacantán Tzotzil	tzot1259	left	LEFT	244		tz’et	tz’et 
+891	33-12-42-2	72142315967012805	Zinacantán Tzotzil	tzot1259	left	LEFT	244		surto	surto 
+892	33-12-43-1	72142315295190693	Zinacantán Tzotzil	tzot1259	near	NEAR	1942		nopol	nopol 
+893	33-12-44-1	72142315290936860	Zinacantán Tzotzil	tzot1259	far	FAR	1406		nom	nom 
+894	33-12-45-1	72142315138796301	Zinacantán Tzotzil	tzot1259	the east	EAST	1877		7ak’ol	7ak’ol 
+895	33-12-45-2	72142315256180911	Zinacantán Tzotzil	tzot1259	the east	EAST	1877		lok’eb k’ak’al	lok’eb k’ak’al 
+896	33-12-46-1	72142315625798812	Zinacantán Tzotzil	tzot1259	the west	WEST	1817		7olon	7olon 
+897	33-12-46-2	72142315217879335	Zinacantán Tzotzil	tzot1259	the west	WEST	1817		maleb k’ak’al	maleb k’ak’al 
+898	33-12-47-1	72142315695710000	Zinacantán Tzotzil	tzot1259	the north	NORTH	1598		shokon vinahel	shokon vinahel 
+899	33-12-48-1	72142315695710000	Zinacantán Tzotzil	tzot1259	the south	SOUTH	1595		shokon vinahel	shokon vinahel 
+900	33-12-53-1	72142315692213418	Zinacantán Tzotzil	tzot1259	to grow	GROW	479		ch’i	ch’i 
+901	33-12-54-1	72142315712499382	Zinacantán Tzotzil	tzot1259	to measure	MEASURE	1506		p’is	p’is 
+902	33-12-55-1	72142315380968460	Zinacantán Tzotzil	tzot1259	big	BIG	1202		muk’	muk’ 
+903	33-12-56-1	72142315738394682	Zinacantán Tzotzil	tzot1259	small	SMALL	1246		bik’it	bik’it 
+904	33-12-57-1	72142315604310012	Zinacantán Tzotzil	tzot1259	long	LONG	1203		bitzbitz	bitzbitz 
+905	33-12-57-2	7214231574361430	Zinacantán Tzotzil	tzot1259	long	LONG	1203		tz’upul	tz’upul 
+906	33-12-57-3	72142315518107955	Zinacantán Tzotzil	tzot1259	long	LONG	1203		natil	natil 
+907	33-12-57-4	72142315939478221	Zinacantán Tzotzil	tzot1259	long	LONG	1203		tintin	tintin 
+908	33-12-58-1	72142315518107955	Zinacantán Tzotzil	tzot1259	tall	TALL	711		natil	natil 
+909	33-12-58-2	72142315720186987	Zinacantán Tzotzil	tzot1259	tall	TALL	711		vatz’al	vatz’al 
+910	33-12-59-1	72142315797457253	Zinacantán Tzotzil	tzot1259	short	SHORT	1645		tzapo	tzapo 
+911	33-12-61-1	72142315162186593	Zinacantán Tzotzil	tzot1259	wide	WIDE	1243		hamal	hamal 
+912	33-12-61-2	72142315647371912	Zinacantán Tzotzil	tzot1259	wide	WIDE	1243		shemel	shemel 
+913	33-12-62-1	72142315197783830	Zinacantán Tzotzil	tzot1259	narrow	NARROW	1267		japajtik	japajtik 
+914	33-12-63-1	72142315176008698	Zinacantán Tzotzil	tzot1259	thick	THICK	1244		pim	pim 
+915	33-12-65-1	72142315263036559	Zinacantán Tzotzil	tzot1259	thin	THIN (OF SHAPE OF OBJECT)	2249		hoy	hoy 
+916	33-12-67-1	72142315518107955	Zinacantán Tzotzil	tzot1259	deep	DEEP	1593		natil	natil 
+917	33-12-67-2	72142315149055804	Zinacantán Tzotzil	tzot1259	deep	DEEP	1593		toyol	toyol 
+918	33-12-68-1	72142315263036559	Zinacantán Tzotzil	tzot1259	shallow	SHALLOW	193		hoy	hoy 
+919	33-12-71-1	72142315853148263	Zinacantán Tzotzil	tzot1259	flat	FLAT	1633		pach’al	pach’al 
+920	33-12-73-1	72142315230141657	Zinacantán Tzotzil	tzot1259	straight	STRAIGHT	1404		tuk’	tuk’ 
+921	33-12-74-1	72142315159429801	Zinacantán Tzotzil	tzot1259	crooked	CROOKED	297		lukluk	lukluk 
+922	33-12-75-1	72142315724516738	Zinacantán Tzotzil	tzot1259	the hook	HOOK	1071		hiplebal	hiplebal 
+923	33-12-75-2	72142315987206944	Zinacantán Tzotzil	tzot1259	the hook	HOOK	1071		hok’leb	hok’leb 
+924	33-12-76-1	72142315112208933	Zinacantán Tzotzil	tzot1259	the corner	CORNER	192		xuk'av	xuk'av 
+925	33-12-77-1	72142315674552022	Zinacantán Tzotzil	tzot1259	the cross	CROSS	1367		krus	krus 
+926	33-12-81-1	72142315706322183	Zinacantán Tzotzil	tzot1259	round	ROUND	1395		setset	setset 
+927	33-12-82-1	7214231553505484	Zinacantán Tzotzil	tzot1259	the circle	CIRCLE	1467		sentro	sentro 
+928	33-12-83-1	72142315867409847	Zinacantán Tzotzil	tzot1259	the ball	BALL	1845		pelota	pelota 
+929	33-12-85-1	72142315119947253	Zinacantán Tzotzil	tzot1259	the hole	HOLE	1667		ch’en	ch’en 
+930	33-12-85-2	72142315486746698	Zinacantán Tzotzil	tzot1259	the hole	HOLE	1667		ch’ohbenal	ch’ohbenal 
+931	33-12-85-3	72142315934041348	Zinacantán Tzotzil	tzot1259	the hole	HOLE	1667		vombenal	vombenal 
+932	33-12-92-1	72142315897660317	Zinacantán Tzotzil	tzot1259	similar	SIMILAR	1558		ko7ol	ko7ol 
+933	33-12-92-2	72142315213137691	Zinacantán Tzotzil	tzot1259	similar	SIMILAR	1558		pareho	pareho 
+934	33-12-93-1	72142315710469044	Zinacantán Tzotzil	tzot1259	to change	CHANGE	1264		k'ex	k'ex 
+935	33-13-01-1	72142315950878093	Zinacantán Tzotzil	tzot1259	one	ONE	1493		hun	hun 
+936	33-13-02-1	72142315510954159	Zinacantán Tzotzil	tzot1259	two	TWO	1498		cha7	cha7 
+937	33-13-03-1	72142315126510364	Zinacantán Tzotzil	tzot1259	three	THREE	492		7osh	7osh 
+938	33-13-04-1	72142315797091219	Zinacantán Tzotzil	tzot1259	four	FOUR	1500		chan (2)	chan (2) 
+939	33-13-05-1	72142315735604016	Zinacantán Tzotzil	tzot1259	five	FIVE	493		vo7	vo7 
+940	33-13-06-1	72142315541933300	Zinacantán Tzotzil	tzot1259	six	SIX	1703		vak	vak 
+941	33-13-07-1	72142315836375328	Zinacantán Tzotzil	tzot1259	seven	SEVEN	1704		vuk	vuk 
+942	33-13-08-1	72142315926006956	Zinacantán Tzotzil	tzot1259	eight	EIGHT	1705		vashak	vashak 
+943	33-13-09-1	72142315146410226	Zinacantán Tzotzil	tzot1259	nine	NINE	1483		balun	balun 
+944	33-13-1-1	72142315577185921	Zinacantán Tzotzil	tzot1259	ten	TEN	1515		lahun	lahun 
+945	33-13-101-1	7214231588606712	Zinacantán Tzotzil	tzot1259	eleven	ELEVEN	1706		buluch	buluch 
+946	33-13-102-1	72142315336602532	Zinacantán Tzotzil	tzot1259	twelve	TWELVE	1707		lahcha	lahcha 
+947	33-13-103-1	72142315509785367	Zinacantán Tzotzil	tzot1259	fifteen	FIFTEEN	1709		vo7 lahuneb	vo7 lahuneb 
+948	33-13-104-1	72142315399380550	Zinacantán Tzotzil	tzot1259	twenty	TWENTY	1710		tob	tob 
+949	33-13-105-1	72142315785141144	Zinacantán Tzotzil	tzot1259	a hundred	HUNDRED	1634		syen	syen 
+950	33-13-105-2	72142315703816123	Zinacantán Tzotzil	tzot1259	a hundred	HUNDRED	1634		vo7vinik	vo7vinik 
+951	33-13-106-1	72142315663629379	Zinacantán Tzotzil	tzot1259	a thousand	THOUSAND	1843		mil (2)	mil (2) 
+952	33-13-107-1	72142315947117506	Zinacantán Tzotzil	tzot1259	to count	COUNT	1420		pas kwenta	pas kwenta 
+953	33-13-14-1	72142315985379001	Zinacantán Tzotzil	tzot1259	all	ALL	98		kotol	kotol 
+954	33-13-14-2	72142315548839082	Zinacantán Tzotzil	tzot1259	all	ALL	98		labal	labal 
+955	33-13-15-1	72142315524438188	Zinacantán Tzotzil	tzot1259	many	MANY	1198		7ep	7ep 
+956	33-13-16-1	72142315855253739	Zinacantán Tzotzil	tzot1259	more	MORE	1992		mas	mas 
+957	33-13-16-2	72142315643082205	Zinacantán Tzotzil	tzot1259	more	MORE	1992		yan	yan 
+958	33-13-17-1	72142315903837234	Zinacantán Tzotzil	tzot1259	few	FEW	1242		hay ___________	hay ___________ 
+959	33-13-21-1	72142315395796827	Zinacantán Tzotzil	tzot1259	full	FULL	1429		noh	noh 
+960	33-13-22-1	72142315772851575	Zinacantán Tzotzil	tzot1259	empty	EMPTY	1624		shokol	shokol 
+961	33-13-33-1	72142315647265481	Zinacantán Tzotzil	tzot1259	only	ONLY	1580		k’ahom	k’ahom 
+962	33-13-33-2	72142315151125502	Zinacantán Tzotzil	tzot1259	only	ONLY	1580		naka	naka 
+963	33-13-33-3	72142315536111552	Zinacantán Tzotzil	tzot1259	only	ONLY	1580		pu*ro	pu*ro 
+964	33-13-34-1	72142315100176469	Zinacantán Tzotzil	tzot1259	first	FIRST	728		t’ab	t’ab 
+965	33-13-34-2	72142315724404010	Zinacantán Tzotzil	tzot1259	first	FIRST	728		primero	primero 
+966	33-13-34-3	72142315142351881	Zinacantán Tzotzil	tzot1259	first	FIRST	728		ba7yi	ba7yi 
+967	33-14-11-1	72142315676725704	Zinacantán Tzotzil	tzot1259	the time	TIME	892		7ora	7ora 
+968	33-14-11-2	72142315654863325	Zinacantán Tzotzil	tzot1259	the time	TIME	892		tyempo	tyempo 
+969	33-14-12-1	72142315951431687	Zinacantán Tzotzil	tzot1259	the age	AGE	1789		ch’iel	ch’iel 
+970	33-14-13-1	72142315483262403	Zinacantán Tzotzil	tzot1259	new	NEW	1231		7ach’	7ach’ 
+971	33-14-14-1	72142315995327957	Zinacantán Tzotzil	tzot1259	young	YOUNG	1207		7unen	7unen 
+972	33-14-15-1	72142315197765394	Zinacantán Tzotzil	tzot1259	old	OLD	1229		k’a7	k’a7 
+973	33-14-15-2	72142315521221199	Zinacantán Tzotzil	tzot1259	old	OLD	1229		mol	mol 
+974	33-14-18-1	72142315931691048	Zinacantán Tzotzil	tzot1259	now	NOW	1376		li7	li7 
+975	33-14-18-2	72142315714123507	Zinacantán Tzotzil	tzot1259	now	NOW	1376		sha	sha 
+976	33-14-19-1	72142315679233497	Zinacantán Tzotzil	tzot1259	immediately	IMMEDIATELY	1963		kahkah	kahkah 
+977	33-14-21-1	7214231556459826	Zinacantán Tzotzil	tzot1259	fast	FAST	1631		suhem	suhem 
+978	33-14-22-1	72142315338735309	Zinacantán Tzotzil	tzot1259	slow	SLOW	701		k’un	k’un 
+979	33-14-23-1	72142315257091662	Zinacantán Tzotzil	tzot1259	to hurry	HURRY	754		nikah	nikah 
+980	33-14-23-2	72142315127538233	Zinacantán Tzotzil	tzot1259	to hurry	HURRY	754		suh	suh 
+981	33-14-23-3	72142315429282744	Zinacantán Tzotzil	tzot1259	to hurry	HURRY	754		sobah	sobah 
+982	33-14-25-1	72142315438043761	Zinacantán Tzotzil	tzot1259	to begin	BEGIN	1806		lik	lik 
+983	33-14-25-2	72142315799456485	Zinacantán Tzotzil	tzot1259	to begin	BEGIN	1806		tam	tam 
+984	33-14-252-1	72142315370073580	Zinacantán Tzotzil	tzot1259	to last	LAST (ENDURE)	1186		bat	bat 
+985	33-14-27-1	7214231512030081	Zinacantán Tzotzil	tzot1259	to finish	FINISH	1766		tz’akubtas	tz’akubtas 
+986	33-14-27-2	7214231528441491	Zinacantán Tzotzil	tzot1259	to finish	FINISH	1766		lah	lah 
+987	33-14-29-1	72142315502931087	Zinacantán Tzotzil	tzot1259	ready	READY	790		chapal	chapal 
+988	33-14-29-2	72142315118422311	Zinacantán Tzotzil	tzot1259	ready	READY	790		listo	listo 
+989	33-14-29-3	72142315675527557	Zinacantán Tzotzil	tzot1259	ready	READY	790		va7al	va7al 
+990	33-14-31-1	72142315908634076	Zinacantán Tzotzil	tzot1259	always	ALWAYS	1676		sempre	sempre 
+991	33-14-32-1	72142315149055804	Zinacantán Tzotzil	tzot1259	often	OFTEN	1852		toyol	toyol 
+992	33-14-33-1	72142315791300930	Zinacantán Tzotzil	tzot1259	sometimes	SOMETIMES	1544		7oy....7oy	7oy....7oy 
+993	33-14-33-2	72142315883618527	Zinacantán Tzotzil	tzot1259	sometimes	SOMETIMES	1544		bak’intik	bak’intik 
+994	33-14-331-1	72142315295190693	Zinacantán Tzotzil	tzot1259	soon	SOON	703		nopol	nopol 
+995	33-14-34-1	72142315670934971	Zinacantán Tzotzil	tzot1259	never	NEVER	1656		mu7 nosh	mu7 nosh 
+996	33-14-35-1	72142315454315031	Zinacantán Tzotzil	tzot1259	again	AGAIN	204		noshtok	noshtok 
+997	33-14-41-1	72142315209283187	Zinacantán Tzotzil	tzot1259	the day(1)	DAY (24 HOURS)	1260		7osil	7osil 
+998	33-14-41-2	72142315210200286	Zinacantán Tzotzil	tzot1259	the day(1)	DAY (24 HOURS)	1260		k’ak’al	k’ak’al 
+999	33-14-42-1	72142315310365709	Zinacantán Tzotzil	tzot1259	the night	NIGHT	1233		7ak’ubal	7ak’ubal 
+1000	33-14-42-2	72142315576303911	Zinacantán Tzotzil	tzot1259	the night	NIGHT	1233		7ik’7osil	7ik’7osil 
+1001	33-14-43-1	7214231515058649	Zinacantán Tzotzil	tzot1259	the dawn	DAWN	729		sak7osil	sak7osil 
+1002	33-14-45-1	72142315623384010	Zinacantán Tzotzil	tzot1259	the midday	MIDDAY	12		7ol k’ak’al	7ol k’ak’al 
+1003	33-14-45-2	72142315798276890	Zinacantán Tzotzil	tzot1259	the midday	MIDDAY	12		7ol (2)	7ol (2) 
+1004	33-14-451-1	72142315731622085	Zinacantán Tzotzil	tzot1259	the afternoon	AFTERNOON	1807		shmal	shmal 
+1005	33-14-47-1	72142315169428751	Zinacantán Tzotzil	tzot1259	today	TODAY	1283		lavi	lavi 
+1006	33-14-47-2	72142315119456080	Zinacantán Tzotzil	tzot1259	today	TODAY	1283		tani	tani 
+1007	33-14-48-1	72142315402816925	Zinacantán Tzotzil	tzot1259	tomorrow	TOMORROW	1329		7ok’ob	7ok’ob 
+1008	33-14-481-1	72142315971848537	Zinacantán Tzotzil	tzot1259	the day after tomorrow	DAY AFTER TOMORROW	1179		cha7eh	cha7eh 
+1009	33-14-49-1	72142315159048376	Zinacantán Tzotzil	tzot1259	yesterday	YESTERDAY	1174		volhe	volhe 
+1010	33-14-491-1	72142315622482412	Zinacantán Tzotzil	tzot1259	the day before yesterday	DAY BEFORE YESTERDAY	1180		chabhe	chabhe 
+1011	33-14-51-1	72142315676725704	Zinacantán Tzotzil	tzot1259	the hour	HOUR	1353		7ora	7ora 
+1012	33-14-53-1	72142315369661728	Zinacantán Tzotzil	tzot1259	the clock	CLOCK	1323		reloho	reloho 
+1013	33-14-61-1	72142315683027688	Zinacantán Tzotzil	tzot1259	the week	WEEK	1469		shemana	shemana 
+1014	33-14-62-1	72142315556207775	Zinacantán Tzotzil	tzot1259	Sunday	SUNDAY	1699		rominko	rominko 
+1015	33-14-63-1	72142315911872632	Zinacantán Tzotzil	tzot1259	Monday	MONDAY	1697		lunesh	lunesh 
+1016	33-14-64-1	72142315154898922	Zinacantán Tzotzil	tzot1259	Tuesday	TUESDAY	1695		martesh	martesh 
+1017	33-14-65-1	72142315513911473	Zinacantán Tzotzil	tzot1259	Wednesday	WEDNESDAY	1694		melkulesh	melkulesh 
+1018	33-14-66-1	72142315833176374	Zinacantán Tzotzil	tzot1259	Thursday	THURSDAY	1693		hweves	hweves 
+1019	33-14-67-1	72142315464653140	Zinacantán Tzotzil	tzot1259	Friday	FRIDAY	1692		byernesh	byernesh 
+1020	33-14-68-1	72142315825016033	Zinacantán Tzotzil	tzot1259	Saturday	SATURDAY	1700		savaro	savaro 
+1021	33-14-71-1	72142315528136076	Zinacantán Tzotzil	tzot1259	the month	MONTH	1370		7u	7u 
+1022	33-14-73-1	72142315759656414	Zinacantán Tzotzil	tzot1259	the year	YEAR	1226		habil	habil 
+1023	33-14-78-1	72142315676725704	Zinacantán Tzotzil	tzot1259	the season	SEASON	691		7ora	7ora 
+1024	33-14-78-2	72142315654863325	Zinacantán Tzotzil	tzot1259	the season	SEASON	691		tyempo	tyempo 
+1025	33-15-89-1	72142315475263361	Zinacantán Tzotzil	tzot1259	wrinkled	WRINKLED	380		puxantik	puxantik 
+1026	33-15-212-1	72142315502360285	Zinacantán Tzotzil	tzot1259	to sniff	SNIFF	375		7a7ibe 7ik’	7a7ibe 7ik’ 
+1027	33-15-22-1	72142315502360285	Zinacantán Tzotzil	tzot1259	to smell(2)	SMELL (PERCEIVE)	1586		7a7ibe 7ik’	7a7ibe 7ik’ 
+1028	33-15-25-1	72142315920874739	Zinacantán Tzotzil	tzot1259	fragrant	FRAGRANT	376		mu	mu 
+1029	33-15-26-1	7214231574443777	Zinacantán Tzotzil	tzot1259	stinking	STINKING	42		tu	tu 
+1030	33-15-31-1	72142315689901592	Zinacantán Tzotzil	tzot1259	to taste	TASTE (SOMETHING)	21		pas preva	pas preva 
+1031	33-15-35-1	7214231594162069	Zinacantán Tzotzil	tzot1259	sweet	SWEET	717		chi7	chi7 
+1032	33-15-36-1	7214231594162069	Zinacantán Tzotzil	tzot1259	salty	SALTY	1091		chi7	chi7 
+1033	33-15-37-1	72142315759200940	Zinacantán Tzotzil	tzot1259	bitter	BITTER	887		ch’a	ch’a 
+1034	33-15-38-1	7214231598409663	Zinacantán Tzotzil	tzot1259	sour	SOUR	1906		poh	poh 
+1035	33-15-41-1	72142315283400639	Zinacantán Tzotzil	tzot1259	to hear	HEAR	1408		7a7i	7a7i 
+1036	33-15-42-1	72142315283400639	Zinacantán Tzotzil	tzot1259	to listen	LISTEN	1608		7a7i	7a7i 
+1037	33-15-45-1	72142315110941590	Zinacantán Tzotzil	tzot1259	loud	LOUD	377		tzotz (2)	tzotz (2) 
+1038	33-15-46-1	72142315338735309	Zinacantán Tzotzil	tzot1259	quiet	QUIET	1314		k’un	k’un 
+1039	33-15-46-2	72142315250881217	Zinacantán Tzotzil	tzot1259	quiet	QUIET	1314		vashal	vashal 
+1040	33-15-51-1	72142315364597222	Zinacantán Tzotzil	tzot1259	to see	SEE	1409		7il	7il 
+1041	33-15-51-2	72142315173589600	Zinacantán Tzotzil	tzot1259	to see	SEE	1409		7ilbe sat	7ilbe sat 
+1042	33-15-51-3	72142315272888042	Zinacantán Tzotzil	tzot1259	to see	SEE	1409		k’ot sat	k’ot sat 
+1043	33-15-52-1	72142315592920410	Zinacantán Tzotzil	tzot1259	to look	LOOK	1819		k’e	k’e 
+1044	33-15-55-1	72142315716843320	Zinacantán Tzotzil	tzot1259	to show	SHOW	1039		7ak’ ta k’elel	7ak’ ta k’elel 
+1045	33-15-55-2	72142315435982098	Zinacantán Tzotzil	tzot1259	to show	SHOW	1039		ye7	ye7 
+1046	33-15-57-1	72142315210200286	Zinacantán Tzotzil	tzot1259	bright	BRIGHT	679		k’ak’al	k’ak’al 
+1047	33-15-57-2	72142315846371931	Zinacantán Tzotzil	tzot1259	bright	BRIGHT	679		sak	sak 
+1048	33-15-61-1	72142315288759082	Zinacantán Tzotzil	tzot1259	the colour/color	COLOR	1613		bon	bon 
+1049	33-15-63-1	72142315161734187	Zinacantán Tzotzil	tzot1259	dark	DARK	706		tup’et	tup’et 
+1050	33-15-64-1	72142315846371931	Zinacantán Tzotzil	tzot1259	white	WHITE	1335		sak	sak 
+1051	33-15-64-2	72142315963532462	Zinacantán Tzotzil	tzot1259	white	WHITE	1335		meko	meko 
+1052	33-15-65-1	72142315893451111	Zinacantán Tzotzil	tzot1259	black	BLACK	163		7ik’ (3)	7ik’ (3) 
+1053	33-15-66-1	72142315564301833	Zinacantán Tzotzil	tzot1259	red	RED	156		tzoh	tzoh 
+1054	33-15-66-2	72142315962009538	Zinacantán Tzotzil	tzot1259	red	RED	156		chak-	chak- 
+1055	33-15-67-1	72142315644092478	Zinacantán Tzotzil	tzot1259	blue	BLUE	837		yosh	yosh 
+1056	33-15-68-1	72142315644092478	Zinacantán Tzotzil	tzot1259	green	GREEN	1425		yosh	yosh 
+1057	33-15-69-1	72142315734509798	Zinacantán Tzotzil	tzot1259	yellow	YELLOW	1424		k’on	k’on 
+1058	33-15-71-1	72142315544560577	Zinacantán Tzotzil	tzot1259	to touch	TOUCH	1892		pik	pik 
+1059	33-15-712-1	72142315424133397	Zinacantán Tzotzil	tzot1259	to pinch	PINCH	378		shut’	shut’ 
+1060	33-15-72-1	72142315283400639	Zinacantán Tzotzil	tzot1259	to feel	FEEL	1079		7a7i	7a7i 
+1061	33-15-72-2	72142315238155570	Zinacantán Tzotzil	tzot1259	to feel	FEEL	1079		hashpik	hashpik 
+1062	33-15-74-1	72142315110941590	Zinacantán Tzotzil	tzot1259	hard	HARD	1884		tzotz (2)	tzotz (2) 
+1063	33-15-75-1	72142315338735309	Zinacantán Tzotzil	tzot1259	soft	SOFT	1856		k’un	k’un 
+1064	33-15-76-1	72142315319569952	Zinacantán Tzotzil	tzot1259	rough(1)	ROUGH	1923		ch'ixaltik	ch'ixaltik 
+1065	33-15-77-1	72142315742989759	Zinacantán Tzotzil	tzot1259	smooth	SMOOTH	1234		ch’ulul	ch’ulul 
+1066	33-15-77-2	72142315677525338	Zinacantán Tzotzil	tzot1259	smooth	SMOOTH	1234		lich’ich’	lich’ich’ 
+1067	33-15-81-1	7214231512892350	Zinacantán Tzotzil	tzot1259	heavy	HEAVY	1210		7ol	7ol 
+1068	33-15-82-1	72142315267010857	Zinacantán Tzotzil	tzot1259	light(1)	LIGHT (WEIGHT)	1052		sipson	sipson 
+1069	33-15-83-1	72142315268545631	Zinacantán Tzotzil	tzot1259	wet	WET	1726		t’ushul	t’ushul 
+1070	33-15-84-1	72142315507999320	Zinacantán Tzotzil	tzot1259	dry	DRY	1398		takin	takin 
+1071	33-15-85-1	72142315477997600	Zinacantán Tzotzil	tzot1259	hot	HOT	1286		k’ok’	k’ok’ 
+1072	33-15-851-1	72142315244460395	Zinacantán Tzotzil	tzot1259	warm	WARM	1232		k’isin	k’isin 
+1073	33-15-86-1	72142315293334102	Zinacantán Tzotzil	tzot1259	cold	COLD	1287		sik	sik 
+1074	33-15-87-1	72142315846371931	Zinacantán Tzotzil	tzot1259	clean	CLEAN	704		sak	sak 
+1075	33-15-88-1	72142315893451111	Zinacantán Tzotzil	tzot1259	dirty	DIRTY	1230		7ik’ (3)	7ik’ (3) 
+1076	33-16-11-1	7214231521682923	Zinacantán Tzotzil	tzot1259	the soul or spirit	SOUL	811		7anima	7anima 
+1077	33-16-15-1	7214231522650509	Zinacantán Tzotzil	tzot1259	surprised or astonished	SURPRISED	1572		ch’aytzail	ch’aytzail 
+1078	33-16-19-1	72142315157644486	Zinacantán Tzotzil	tzot1259	the bad luck	BAD LUCK	56		tzahal 7ora	tzahal 7ora 
+1079	33-16-23-1	72142315995543914	Zinacantán Tzotzil	tzot1259	happy	HAPPY	1495		kontento	kontento 
+1080	33-16-25-1	72142315989318171	Zinacantán Tzotzil	tzot1259	to laugh	LAUGH	1355		tze7in	tze7in 
+1081	33-16-26-1	72142315304726927	Zinacantán Tzotzil	tzot1259	to play	PLAY	1413		tahin	tahin 
+1082	33-16-27-1	72142315793168786	Zinacantán Tzotzil	tzot1259	to love	LOVE	923		k’an	k’an 
+1083	33-16-29-1	72142315757910151	Zinacantán Tzotzil	tzot1259	to kiss	KISS	578		butz’	butz’ 
+1084	33-16-3-1	72142315810262545	Zinacantán Tzotzil	tzot1259	to embrace	EMBRACE	928		mey	mey 
+1085	33-16-3-2	72142315973820216	Zinacantán Tzotzil	tzot1259	to embrace	EMBRACE	928		pet	pet 
+1086	33-16-31-1	72142315910334978	Zinacantán Tzotzil	tzot1259	the pain	PAIN	1783		k’ushul	k’ushul 
+1087	33-16-31-2	72142315548604460	Zinacantán Tzotzil	tzot1259	the pain	PAIN	1783		moch’	moch’ 
+1088	33-16-32-1	72142315185750970	Zinacantán Tzotzil	tzot1259	the grief	GRIEF	1668		me7anal	me7anal 
+1089	33-16-33-1	72142315490865585	Zinacantán Tzotzil	tzot1259	the anxiety	ANXIETY	1000		k’op 7o7on	k’op 7o7on 
+1090	33-16-34-1	72142315242392109	Zinacantán Tzotzil	tzot1259	to regret or be sorry	REGRET	1875		na7	na7 
+1091	33-16-37-1	7214231596700220	Zinacantán Tzotzil	tzot1259	to cry	CRY	1839		7ok’ (2)	7ok’ (2) 
+1092	33-16-39-1	72142315239340960	Zinacantán Tzotzil	tzot1259	to groan	GROAN	716		7akanah	7akanah 
+1093	33-16-41-1	72142315493020529	Zinacantán Tzotzil	tzot1259	to hate	HATE	1607		7oy k’ak’al 7o7on	7oy k’ak’al 7o7on 
+1094	33-16-42-1	72142315210200286	Zinacantán Tzotzil	tzot1259	the anger	ANGER	82		k’ak’al	k’ak’al 
+1095	33-16-44-1	72142315771920927	Zinacantán Tzotzil	tzot1259	the envy or jealousy	ENVY	40		k’ak’al 7o7onil	k’ak’al 7o7onil 
+1096	33-16-45-1	72142315447102644	Zinacantán Tzotzil	tzot1259	the shame	SHAME	1776		k’eshlal	k’eshlal 
+1097	33-16-53-1	72142315433434903	Zinacantán Tzotzil	tzot1259	the fear	FEAR (FRIGHT)	781		shi7el ba	shi7el ba 
+1098	33-16-62-1	72142315283400639	Zinacantán Tzotzil	tzot1259	to want	WANT	1784		7a7i	7a7i 
+1099	33-16-62-2	72142315793168786	Zinacantán Tzotzil	tzot1259	to want	WANT	1784		k’an	k’an 
+1100	33-16-62-3	72142315662150174	Zinacantán Tzotzil	tzot1259	to want	WANT	1784		nopilan	nopilan 
+1101	33-16-622-1	72142315491938831	Zinacantán Tzotzil	tzot1259	to choose	CHOOSE	1750		t’uh	t’uh 
+1102	33-16-66-1	72142315339262857	Zinacantán Tzotzil	tzot1259	true	TRUE	1657		melel	melel 
+1103	33-16-67-1	72142315783379648	Zinacantán Tzotzil	tzot1259	to lie(2)	LIE (MISLEAD)	601		tzuk	tzuk 
+1104	33-16-67-2	72142315952292590	Zinacantán Tzotzil	tzot1259	to lie(2)	LIE (MISLEAD)	601		nop k’op	nop k’op 
+1105	33-16-67-3	72142315643425802	Zinacantán Tzotzil	tzot1259	to lie(2)	LIE (MISLEAD)	601		yech pas	yech pas 
+1106	33-16-68-1	72142315930266974	Zinacantán Tzotzil	tzot1259	the deceit	DECEIT	13		vesk’unel	vesk’unel 
+1107	33-16-69-1	72142315245035477	Zinacantán Tzotzil	tzot1259	to forgive	FORGIVE	1528		7ak’ pertonal	7ak’ pertonal 
+1108	33-16-69-2	72142315589286589	Zinacantán Tzotzil	tzot1259	to forgive	FORGIVE	1528		lah 7o7on	lah 7o7on 
+1109	33-16-71-1	72142315137690589	Zinacantán Tzotzil	tzot1259	good	GOOD	1035		7utz	7utz 
+1110	33-16-71-2	72142315568337949	Zinacantán Tzotzil	tzot1259	good	GOOD	1035		lek	lek 
+1111	33-16-71-3	72142315791239156	Zinacantán Tzotzil	tzot1259	good	GOOD	1035		pino	pino 
+1112	33-16-72-1	7214231542670649	Zinacantán Tzotzil	tzot1259	bad	BAD	1292		chopol	chopol 
+1113	33-16-76-1	72142315137137037	Zinacantán Tzotzil	tzot1259	the fault	FAULT	134		palta	palta 
+1114	33-16-78-1	72142315274313838	Zinacantán Tzotzil	tzot1259	the blame	BLAME	381		mulil	mulil 
+1115	33-16-81-1	72142315627020578	Zinacantán Tzotzil	tzot1259	beautiful	BEAUTIFUL	1427		leklek ba	leklek ba 
+1116	33-16-82-1	7214231542670649	Zinacantán Tzotzil	tzot1259	ugly	UGLY	1548		chopol	chopol 
+1117	33-16-83-1	72142315264500646	Zinacantán Tzotzil	tzot1259	greedy	GREEDY	2018		pas hamparoal	pas hamparoal 
+1118	33-16-84-1	72142315532907905	Zinacantán Tzotzil	tzot1259	clever	CLEVER	1310		p’ij	p’ij 
+1119	33-17-13-1	72142315283400639	Zinacantán Tzotzil	tzot1259	to think(1)	THINK (REFLECT)	1415		7a7i	7a7i 
+1120	33-17-13-2	72142315242392109	Zinacantán Tzotzil	tzot1259	to think(1)	THINK (REFLECT)	1415		na7	na7 
+1121	33-17-13-3	72142315616031136	Zinacantán Tzotzil	tzot1259	to think(1)	THINK (REFLECT)	1415		nop	nop 
+1122	33-17-14-1	72142315616031136	Zinacantán Tzotzil	tzot1259	to think(2)	THINK (BELIEVE)	1513		nop	nop 
+1123	33-17-15-1	72142315432216118	Zinacantán Tzotzil	tzot1259	to believe	BELIEVE	1890		ch’un	ch’un 
+1124	33-17-16-1	72142315283400639	Zinacantán Tzotzil	tzot1259	to understand	UNDERSTAND	1536		7a7i	7a7i 
+1125	33-17-17-1	72142315242392109	Zinacantán Tzotzil	tzot1259	to know	KNOW (SOMETHING)	1410		na7	na7 
+1126	33-17-17-2	72142315208182119	Zinacantán Tzotzil	tzot1259	to know	KNOW (SOMETHING)	1410		tz’ak	tz’ak 
+1127	33-17-17-3	72142315509962548	Zinacantán Tzotzil	tzot1259	to know	KNOW (SOMETHING)	1410		7ohtikin	7ohtikin 
+1128	33-17-171-1	7214231534155465	Zinacantán Tzotzil	tzot1259	to guess	GUESS	1932		yules ta hol	yules ta hol 
+1129	33-17-172-1	72142315787724785	Zinacantán Tzotzil	tzot1259	to imitate	IMITATE	117		chanbe	chanbe 
+1130	33-17-21-1	72142315177993541	Zinacantán Tzotzil	tzot1259	wise	WISE	698		pas rason	pas rason 
+1131	33-17-22-1	72142315489550505	Zinacantán Tzotzil	tzot1259	stupid	STUPID	1518		bol	bol 
+1132	33-17-22-2	72142315371797078	Zinacantán Tzotzil	tzot1259	stupid	STUPID	1518		buro	buro 
+1133	33-17-22-3	72142315174833380	Zinacantán Tzotzil	tzot1259	stupid	STUPID	1518		choriso	choriso 
+1134	33-17-22-4	72142315384979054	Zinacantán Tzotzil	tzot1259	stupid	STUPID	1518		chuman te7 hol	chuman te7 hol 
+1135	33-17-24-1	72142315438215840	Zinacantán Tzotzil	tzot1259	to learn	LEARN	504		chan (3)	chan (3) 
+1136	33-17-24-2	72142315836639616	Zinacantán Tzotzil	tzot1259	to learn	LEARN	504		p’ihub	p’ihub 
+1137	33-17-25-1	72142315291394696	Zinacantán Tzotzil	tzot1259	to teach	TEACH	709		chanubtas	chanubtas 
+1138	33-17-25-2	72142315240840526	Zinacantán Tzotzil	tzot1259	to teach	TEACH	709		p’ihubtas	p’ihubtas 
+1139	33-17-26-1	72142315635356139	Zinacantán Tzotzil	tzot1259	the pupil	PUPIL (STUDENT)	753		hchanvun	hchanvun 
+1140	33-17-27-1	72142315401858359	Zinacantán Tzotzil	tzot1259	the teacher	TEACHER	1038		hchanubtavaneh	hchanubtavaneh 
+1141	33-17-27-2	72142315855303896	Zinacantán Tzotzil	tzot1259	the teacher	TEACHER	1038		mayshtro	mayshtro 
+1142	33-17-28-1	72142315585811287	Zinacantán Tzotzil	tzot1259	the school	SCHOOL	673		chanob vun	chanob vun 
+1143	33-17-31-1	72142315242392109	Zinacantán Tzotzil	tzot1259	to remember	REMEMBER	707		na7	na7 
+1144	33-17-31-2	72142315361928187	Zinacantán Tzotzil	tzot1259	to remember	REMEMBER	707		yul ta hol	yul ta hol 
+1145	33-17-32-1	72142315186486290	Zinacantán Tzotzil	tzot1259	to forget	FORGET	1523		ch’ay 7a7i	ch’ay 7a7i 
+1146	33-17-32-2	7214231521322265	Zinacantán Tzotzil	tzot1259	to forget	FORGET	1523		ch’ay7o7onih	ch’ay7o7onih 
+1147	33-17-36-1	72142315416160028	Zinacantán Tzotzil	tzot1259	secret	SECRET	1121		mukul	mukul 
+1148	33-17-37-1	72142315339262857	Zinacantán Tzotzil	tzot1259	certain	CERTAIN	509		melel	melel 
+1149	33-17-38-1	72142315918222461	Zinacantán Tzotzil	tzot1259	to explain	EXPLAIN	1626		chap	chap 
+1150	33-17-45-1	72142315343246061	Zinacantán Tzotzil	tzot1259	the need or necessity	NEED (NOUN)	643		pwersa	pwersa 
+1151	33-17-46-1	72142315568337949	Zinacantán Tzotzil	tzot1259	easy	EASY	686		lek	lek 
+1152	33-17-47-1	72142315480763262	Zinacantán Tzotzil	tzot1259	difficult	DIFFICULT	584		vokol	vokol 
+1153	33-17-48-1	72142315689901592	Zinacantán Tzotzil	tzot1259	to try	TRY	1812		pas preva	pas preva 
+1154	33-17-51-1	72142315181887309	Zinacantán Tzotzil	tzot1259	and	AND	1577		7i	7i 
+1155	33-17-52-1	72142315527324914	Zinacantán Tzotzil	tzot1259	because	BECAUSE	1157		k’u ti	k’u ti 
+1156	33-17-52-2	72142315714906767	Zinacantán Tzotzil	tzot1259	because	BECAUSE	1157		porke	porke 
+1157	33-17-53-1	72142315729273694	Zinacantán Tzotzil	tzot1259	if	IF	1459		mi	mi 
+1158	33-17-55-1	72142315420381522	Zinacantán Tzotzil	tzot1259	yes	YES	1268		ha7	ha7 
+1159	33-17-55-2	7214231529536405	Zinacantán Tzotzil	tzot1259	yes	YES	1268		hi7	hi7 
+1160	33-17-56-1	72142315978917529	Zinacantán Tzotzil	tzot1259	no	NO	1269		mu7yuk	mu7yuk 
+1161	33-17-56-2	72142315604291032	Zinacantán Tzotzil	tzot1259	no	NO	1269		muk’ (2)	muk’ (2) 
+1162	33-17-61-1	72142315205080689	Zinacantán Tzotzil	tzot1259	how?	HOW	1239		k’u cha7al	k’u cha7al 
+1163	33-17-62-1	72142315191281979	Zinacantán Tzotzil	tzot1259	how many?	HOW MANY	822		hay ______________	hay ______________ 
+1164	33-17-62-2	72142315358171717	Zinacantán Tzotzil	tzot1259	how many?	HOW MANY	822		k’u 7epal	k’u 7epal 
+1165	33-17-63-1	72142315358171717	Zinacantán Tzotzil	tzot1259	how much?	HOW MUCH	531		k’u 7epal	k’u 7epal 
+1166	33-17-64-1	72142315199501507	Zinacantán Tzotzil	tzot1259	what?	WHAT	1236		k’u	k’u 
+1167	33-17-65-1	72142315654580330	Zinacantán Tzotzil	tzot1259	when?	WHEN	1238		k’u 7ora	k’u 7ora 
+1168	33-17-66-1	72142315760827909	Zinacantán Tzotzil	tzot1259	where?	WHERE	1237		bu	bu 
+1169	33-17-67-1	72142315155232178	Zinacantán Tzotzil	tzot1259	which?	WHICH	727		bu hunukal	bu hunukal 
+1170	33-17-68-1	7214231590731279	Zinacantán Tzotzil	tzot1259	who?	WHO	1235		buch’u	buch’u 
+1171	33-17-68-2	72142315205080689	Zinacantán Tzotzil	tzot1259	who?	WHO	1235		k’u cha7al	k’u cha7al 
+1172	33-17-69-1	72142315205080689	Zinacantán Tzotzil	tzot1259	why?	WHY	1270		k’u cha7al	k’u cha7al 
+1173	33-18-11-1	72142315445554575	Zinacantán Tzotzil	tzot1259	the voice	VOICE	1363		7eal	7eal 
+1174	33-18-12-1	72142315291288510	Zinacantán Tzotzil	tzot1259	to sing	SING	1261		k’evuhin	k’evuhin 
+1175	33-18-13-1	72142315316239652	Zinacantán Tzotzil	tzot1259	to shout	SHOUT	715		7avan	7avan 
+1176	33-18-15-1	72142315807746522	Zinacantán Tzotzil	tzot1259	to whisper	WHISPER	55		mishmish k’op	mishmish k’op 
+1177	33-18-15-2	72142315848647724	Zinacantán Tzotzil	tzot1259	to whisper	WHISPER	55		vishvish k’op	vishvish k’op 
+1178	33-18-17-1	72142315552249384	Zinacantán Tzotzil	tzot1259	to whistle	WHISTLE	1025		pietah	pietah 
+1179	33-18-17-2	72142315451121841	Zinacantán Tzotzil	tzot1259	to whistle	WHISTLE	1025		shushubah	shushubah 
+1180	33-18-19-1	72142315316239652	Zinacantán Tzotzil	tzot1259	to howl	HOWL	526		7avan	7avan 
+1181	33-18-21-1	72142315460701874	Zinacantán Tzotzil	tzot1259	to speak or talk	SPEAK	1623		k’opoh	k’opoh 
+1182	33-18-22-1	72142315936821162	Zinacantán Tzotzil	tzot1259	to say	SAY	1458		7al	7al 
+1183	33-18-221-1	72142315936821162	Zinacantán Tzotzil	tzot1259	to tell	TELL	1711		7al	7al 
+1184	33-18-221-2	72142315866873793	Zinacantán Tzotzil	tzot1259	to tell	TELL	1711		7ut	7ut 
+1185	33-18-24-1	72142315292694100	Zinacantán Tzotzil	tzot1259	the language	LANGUAGE	1307		k’op	k’op 
+1186	33-18-26-1	72142315292694100	Zinacantán Tzotzil	tzot1259	the word	WORD	1599		k’op	k’op 
+1187	33-18-28-1	72142315424024877	Zinacantán Tzotzil	tzot1259	the name	NAME	1405		biil	biil 
+1188	33-18-31-1	72142315384090256	Zinacantán Tzotzil	tzot1259	to ask(1)	ASK (INQUIRE)	1309		hak’	hak’ 
+1189	33-18-32-1	72142315915852414	Zinacantán Tzotzil	tzot1259	to answer	ANSWER	1275		tak’	tak’ 
+1190	33-18-33-1	7214231586993278	Zinacantán Tzotzil	tzot1259	to admit	ADMIT	2022		hamal 7al	hamal 7al 
+1191	33-18-34-1	72142315662596396	Zinacantán Tzotzil	tzot1259	to deny	DENY	755		halan	halan 
+1192	33-18-35-1	72142315793168786	Zinacantán Tzotzil	tzot1259	to ask(2)	ASK (REQUEST)	1828		k’an	k’an 
+1193	33-18-36-1	72142315700195272	Zinacantán Tzotzil	tzot1259	to promise	PROMISE	1675		7ak’ k’op	7ak’ k’op 
+1194	33-18-36-2	7214231571019152	Zinacantán Tzotzil	tzot1259	to promise	PROMISE	1675		7al k’op	7al k’op 
+1195	33-18-37-1	72142315326295074	Zinacantán Tzotzil	tzot1259	to refuse	REFUSE	49		p’ah (2)	p’ah (2) 
+1196	33-18-39-1	72142315351854863	Zinacantán Tzotzil	tzot1259	to scold	SCOLD	299		7ilin	7ilin 
+1197	33-18-39-2	72142315866873793	Zinacantán Tzotzil	tzot1259	to scold	SCOLD	299		7ut	7ut 
+1198	33-18-41-1	72142315175349180	Zinacantán Tzotzil	tzot1259	to call(1)	CALL	1084		tak	tak 
+1199	33-18-41-2	72142315432687466	Zinacantán Tzotzil	tzot1259	to call(1)	CALL	1084		tak’i	tak’i 
+1200	33-18-41-3	72142315880155633	Zinacantán Tzotzil	tzot1259	to call(1)	CALL	1084		7ik’ (2)	7ik’ (2) 
+1201	33-18-42-1	72142315131709914	Zinacantán Tzotzil	tzot1259	to call(2)	CALL BY NAME	180		biin	biin 
+1202	33-18-43-1	72142315936821162	Zinacantán Tzotzil	tzot1259	to announce	ANNOUNCE	9		7al	7al 
+1203	33-18-44-1	72142315330682930	Zinacantán Tzotzil	tzot1259	to threaten	THREATEN	1192		sibtas	sibtas 
+1204	33-18-51-1	72142315265552192	Zinacantán Tzotzil	tzot1259	to write	WRITE	1672		tz’iba	tz’iba 
+1205	33-18-52-1	72142315150582359	Zinacantán Tzotzil	tzot1259	to read	READ	724		k’el vun	k’el vun 
+1206	33-18-56-1	72142315543389064	Zinacantán Tzotzil	tzot1259	the paper	PAPER	648		vun	vun 
+1207	33-18-61-1	72142315543389064	Zinacantán Tzotzil	tzot1259	the book	BOOK	963		vun	vun 
+1208	33-18-61-2	7214231546958844	Zinacantán Tzotzil	tzot1259	the book	BOOK	963		livro	livro 
+1209	33-18-71-1	72142315870449758	Zinacantán Tzotzil	tzot1259	the flute	FLUTE	777		7ama	7ama 
+1210	33-18-72-1	72142315606294740	Zinacantán Tzotzil	tzot1259	the drum	DRUM	908		tampol	tampol 
+1211	33-18-72-2	7214231524298307	Zinacantán Tzotzil	tzot1259	the drum	DRUM	908		vob	vob 
+1212	33-18-73-1	72142315144201737	Zinacantán Tzotzil	tzot1259	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		korneta	korneta 
+1213	33-18-74-1	72142315681688986	Zinacantán Tzotzil	tzot1259	the rattle	RATTLE	300		sot	sot 
+1214	33-19-15-1	72142315294345221	Zinacantán Tzotzil	tzot1259	the town	TOWN	1391		teklumal	teklumal 
+1215	33-19-17-1	72142315782735783	Zinacantán Tzotzil	tzot1259	the boundary	BOUNDARY	1010		tz’ak (2)	tz’ak (2) 
+1216	33-19-25-1	72142315700958412	Zinacantán Tzotzil	tzot1259	the walking stick	WALKING STICK	1296		namte7al	namte7al 
+1217	33-19-25-2	72142315267752481	Zinacantán Tzotzil	tzot1259	the walking stick	WALKING STICK	1296		te7	te7 
+1218	33-19-32-1	7214231536105083	Zinacantán Tzotzil	tzot1259	the king	KING	1508		rey	rey 
+1219	33-19-43-1	72142315270677723	Zinacantán Tzotzil	tzot1259	the servant	SERVANT	255		moso	moso 
+1220	33-19-45-1	72142315432687466	Zinacantán Tzotzil	tzot1259	to command or order	ORDER	1128		tak’i	tak’i 
+1221	33-19-46-1	72142315781778353	Zinacantán Tzotzil	tzot1259	to obey	OBEY	1635		ch’un mantal	ch’un mantal 
+1222	33-19-47-1	7214231565559634	Zinacantán Tzotzil	tzot1259	to permit	PERMIT	1003		7ak’	7ak’ 
+1223	33-19-51-1	72142315231665967	Zinacantán Tzotzil	tzot1259	the friend	FRIEND	1325		`amiko	`amiko 
+1224	33-19-52-1	72142315756005156	Zinacantán Tzotzil	tzot1259	the enemy	ENEMY	1358		krontail	krontail 
+1225	33-19-54-1	7214231523161880	Zinacantán Tzotzil	tzot1259	the neighbour	NEIGHBOUR	1332		pana	pana 
+1226	33-19-54-2	72142315582653982	Zinacantán Tzotzil	tzot1259	the neighbour	NEIGHBOUR	1332		shokan na	shokan na 
+1227	33-19-58-1	72142315727650759	Zinacantán Tzotzil	tzot1259	to help	HELP	1897		kolta	kolta 
+1228	33-19-58-2	72142315212057355	Zinacantán Tzotzil	tzot1259	to help	HELP	1897		7ich’ ta k’ush	7ich’ ta k’ush 
+1229	33-19-59-1	72142315369653673	Zinacantán Tzotzil	tzot1259	to prevent	PREVENT	1550		metz’ta	metz’ta 
+1230	33-19-61-1	72142315921293725	Zinacantán Tzotzil	tzot1259	the custom	CUSTOM	1747		tz’unbal	tz’unbal 
+1231	33-19-61-2	72142315591502347	Zinacantán Tzotzil	tzot1259	the custom	CUSTOM	1747		tasalul	tasalul 
+1232	33-19-62-1	72142315808865850	Zinacantán Tzotzil	tzot1259	the quarrel	QUARREL	1848		pletu	pletu 
+1233	33-19-65-1	72142315503546554	Zinacantán Tzotzil	tzot1259	to meet	MEET	1831		nup	nup 
+1234	33-19-72-1	72142315765912750	Zinacantán Tzotzil	tzot1259	the prostitute	PROSTITUTE	1610		hmulavi 7antz	hmulavi 7antz 
+1235	33-20-11-1	72142315133610568	Zinacantán Tzotzil	tzot1259	to fight	FIGHT	1423		pas baik ta preva	pas baik ta preva 
+1236	33-20-11-2	72142315304726927	Zinacantán Tzotzil	tzot1259	to fight	FIGHT	1423		tahin	tahin 
+1237	33-20-11-3	7214231527329168	Zinacantán Tzotzil	tzot1259	to fight	FIGHT	1423		tzak bail	tzak bail 
+1238	33-20-13-1	72142315808865850	Zinacantán Tzotzil	tzot1259	the war or battle	BATTLE	579		pletu	pletu 
+1239	33-20-13-2	72142315292694100	Zinacantán Tzotzil	tzot1259	the war or battle	BATTLE	579		k’op	k’op 
+1240	33-20-17-1	72142315202585091	Zinacantán Tzotzil	tzot1259	the soldier	SOLDIER	1941		soltaro	soltaro 
+1241	33-20-17-2	72142315681781792	Zinacantán Tzotzil	tzot1259	the soldier	SOLDIER	1941		h7ak’ k’ok’	h7ak’ k’ok’ 
+1242	33-20-21-1	72142315740733177	Zinacantán Tzotzil	tzot1259	the weapons	WEAPONS	951		pojob bail	pojob bail 
+1243	33-20-23-1	72142315248216740	Zinacantán Tzotzil	tzot1259	the sling	SLING	387		himich	himich 
+1244	33-20-24-1	72142315509588744	Zinacantán Tzotzil	tzot1259	the bow	BOW	994		yolob	yolob 
+1245	33-20-25-1	72142315632565643	Zinacantán Tzotzil	tzot1259	the arrow	ARROW	977		p’ilom te7	p’ilom te7 
+1246	33-20-26-1	72142315947722962	Zinacantán Tzotzil	tzot1259	the spear	SPEAR	945		lansa	lansa 
+1247	33-20-27-1	72142315390020313	Zinacantán Tzotzil	tzot1259	the sword	SWORD	1535		7espara	7espara 
+1248	33-20-35-1	72142315239948824	Zinacantán Tzotzil	tzot1259	the fortress	FORTRESS	1938		7ak’ob k’ok’	7ak’ob k’ok’ 
+1249	33-20-44-1	72142315144205075	Zinacantán Tzotzil	tzot1259	to defend	DEFEND	1330		poh (2)	poh (2) 
+1250	33-20-44-2	72142315108151418	Zinacantán Tzotzil	tzot1259	to defend	DEFEND	1330		va7an ba	va7an ba 
+1251	33-20-47-1	72142315351313486	Zinacantán Tzotzil	tzot1259	the captive or prisoner	PRISONER	1072		hchukel	hchukel 
+1252	33-20-471-1	72142315453230800	Zinacantán Tzotzil	tzot1259	the guard	GUARD	1940		hchabivaneh	hchabivaneh 
+1253	33-20-52-1	72142315417638824	Zinacantán Tzotzil	tzot1259	the fishhook	FISHHOOK	1074		tzakob choy	tzakob choy 
+1254	33-20-54-1	72142315417638824	Zinacantán Tzotzil	tzot1259	the fishnet	FISHNET	388		tzakob choy	tzakob choy 
+1255	33-20-62-1	7214231585297911	Zinacantán Tzotzil	tzot1259	to shoot	SHOOT	1172		lok’es bala	lok’es bala 
+1256	33-20-62-2	72142315587149078	Zinacantán Tzotzil	tzot1259	to shoot	SHOOT	1172		lok’es tiro	lok’es tiro 
+1257	33-20-62-3	72142315360772126	Zinacantán Tzotzil	tzot1259	to shoot	SHOOT	1172		nitbe bala	nitbe bala 
+1258	33-20-62-4	72142315868727655	Zinacantán Tzotzil	tzot1259	to shoot	SHOOT	1172		vom ta bala	vom ta bala 
+1259	33-20-63-1	72142315242392109	Zinacantán Tzotzil	tzot1259	to miss	MISS (A TARGET)	161		na7	na7 
+1260	33-20-64-1	7214231526600304	Zinacantán Tzotzil	tzot1259	the trap	TRAP (PITFALL)	1075		petz’	petz’ 
+1261	33-20-65-1	72142315163418685	Zinacantán Tzotzil	tzot1259	to trap	TRAP (CATCH)	1170		yak	yak 
+1262	33-21-15-1	72142315399282556	Zinacantán Tzotzil	tzot1259	the court	COURT	1068		kavilto	kavilto 
+1263	33-12-013-1	72142315275627324	Zinacantán Tzotzil	tzot1259	at	AT	1461		ta	ta 
+1264	33-21-21-1	72142315695143248	Zinacantán Tzotzil	tzot1259	the plaintiff	PLAINTIFF	2020		hk’anparte	hk’anparte 
+1265	33-21-23-1	72142315140475418	Zinacantán Tzotzil	tzot1259	the witness	WITNESS	1144		reshtiko	reshtiko 
+1266	33-21-35-1	7214231539920812	Zinacantán Tzotzil	tzot1259	guilty	GUILTY	1682		ta mul	ta mul 
+1267	33-21-37-1	72142315192706565	Zinacantán Tzotzil	tzot1259	the penalty or punishment	PUNISHMENT	390		kastiko	kastiko 
+1268	33-21-37-2	72142315370039399	Zinacantán Tzotzil	tzot1259	the penalty or punishment	PUNISHMENT	390		lok’esob manya	lok’esob manya 
+1269	33-21-38-1	72142315292904579	Zinacantán Tzotzil	tzot1259	the fine	FINE (PENALTY)	218		multa	multa 
+1270	33-21-39-1	72142315836195059	Zinacantán Tzotzil	tzot1259	the prison	PRISON	1281		chukebal	chukebal 
+1271	33-21-44-1	72142315705269100	Zinacantán Tzotzil	tzot1259	the rape	RAPE	953		mulilal k’op	mulilal k’op 
+1272	33-21-51-1	72142315686185757	Zinacantán Tzotzil	tzot1259	to steal	STEAL	713		7elk’ah	7elk’ah 
+1273	33-21-51-2	72142315947765758	Zinacantán Tzotzil	tzot1259	to steal	STEAL	713		tz’al	tz’al 
+1274	33-21-51-3	72142315612224114	Zinacantán Tzotzil	tzot1259	to steal	STEAL	713		pas 7abtel	pas 7abtel 
+1275	33-21-52-1	72142315304388911	Zinacantán Tzotzil	tzot1259	the thief	THIEF	1160		hbak’el krishchano	hbak’el krishchano 
+1276	33-22-12-1	72142315791278393	Zinacantán Tzotzil	tzot1259	the god	DEITY	3231		riosh totil	riosh totil 
+1277	33-22-13-1	72142315404688587	Zinacantán Tzotzil	tzot1259	the temple	TEMPLE	911		7eklixya	7eklixya 
+1278	33-22-14-1	72142315822726361	Zinacantán Tzotzil	tzot1259	the altar	ALTAR	853		7altal	7altal 
+1279	33-22-15-1	72142315842211144	Zinacantán Tzotzil	tzot1259	the sacrifice	SACRIFICE	1103		mil k'exolil	mil k'exolil 
+1280	33-22-16-1	72142315376781366	Zinacantán Tzotzil	tzot1259	to worship	WORSHIP	257		nup kahvaltik	nup kahvaltik 
+1281	33-22-16-2	72142315630197419	Zinacantán Tzotzil	tzot1259	to worship	WORSHIP	257		nup riosh	nup riosh 
+1282	33-22-16-3	72142315292762006	Zinacantán Tzotzil	tzot1259	to worship	WORSHIP	257		ta ta na7el	ta ta na7el 
+1283	33-22-16-4	72142315804662739	Zinacantán Tzotzil	tzot1259	to worship	WORSHIP	257		tik’ riosh to 7o7on	tik’ riosh to 7o7on 
+1284	33-22-17-1	72142315460701874	Zinacantán Tzotzil	tzot1259	to pray	PRAY	24		k’opoh	k’opoh 
+1285	33-22-18-1	72142315680342307	Zinacantán Tzotzil	tzot1259	the priest	PRIEST	852		pale	pale 
+1286	33-22-19-1	72142315188286081	Zinacantán Tzotzil	tzot1259	holy	HOLY	1702		ch’ul ___________	ch’ul ___________ 
+1287	33-22-19-2	72142315244757419	Zinacantán Tzotzil	tzot1259	holy	HOLY	1702		haral	haral 
+1288	33-22-23-1	72142315516127841	Zinacantán Tzotzil	tzot1259	to bless	BLESS	391		7ak’ bentisyon	7ak’ bentisyon 
+1289	33-22-24-1	72142315793295051	Zinacantán Tzotzil	tzot1259	to curse	CURSE	8		7ak ta maltisyon	7ak ta maltisyon 
+1290	33-22-26-1	72142315775936329	Zinacantán Tzotzil	tzot1259	to fast	ABSTAIN FROM FOOD	303		ch’abah	ch’abah 
+1291	33-22-26-2	72142315491141133	Zinacantán Tzotzil	tzot1259	to fast	ABSTAIN FROM FOOD	303		tz’ikbail	tz’ikbail 
+1292	33-22-31-1	72142315115653062	Zinacantán Tzotzil	tzot1259	the heaven	HEAVEN	1565		vinahel	vinahel 
+1293	33-22-32-1	72142315453782277	Zinacantán Tzotzil	tzot1259	the hell	HELL	878		7impyerno	7impyerno 
+1294	33-22-32-2	72142315477997600	Zinacantán Tzotzil	tzot1259	the hell	HELL	878		k’ok’	k’ok’ 
+1295	33-22-35-1	72142315704520847	Zinacantán Tzotzil	tzot1259	the demon	DEMON	1973		pukuh	pukuh 
+1296	33-22-43-1	72142315704520847	Zinacantán Tzotzil	tzot1259	the sorcerer or witch	MAGICIAN	2137		pukuh	pukuh 
+1297	33-22-43-2	72142315595332198	Zinacantán Tzotzil	tzot1259	the sorcerer or witch	MAGICIAN	2137		h7ak’-chamel	h7ak’-chamel 
+1298	33-22-43-3	72142315301374504	Zinacantán Tzotzil	tzot1259	the sorcerer or witch	MAGICIAN	2137		htuch’7ora	htuch’7ora 
+1299	33-22-43-4	72142315664621920	Zinacantán Tzotzil	tzot1259	the sorcerer or witch	MAGICIAN	2137		htuch’kantela	htuch’kantela 
+1300	33-22-45-1	7214231521682923	Zinacantán Tzotzil	tzot1259	the ghost	GHOST	1175		7anima	7anima 
+1301	33-22-45-2	72142315920554303	Zinacantán Tzotzil	tzot1259	the ghost	GHOST	1175		lahebal	lahebal 
+1302	33-23-12-1	72142315642426003	Zinacantán Tzotzil	tzot1259	the telephone	TELEPHONE	1379		ch’ohon tak’in	ch’ohon tak’in 
+1303	33-23-14-1	72142315477997600	Zinacantán Tzotzil	tzot1259	the car	CAR	1111		k’ok’	k’ok’ 
+1304	33-23-14-2	72142315994080476	Zinacantán Tzotzil	tzot1259	the car	CAR	1111		turismu	turismu 
+1305	33-23-15-1	72142315477997600	Zinacantán Tzotzil	tzot1259	the bus	BUS	1070		k’ok’	k’ok’ 
+1306	33-23-15-2	7214231589436342	Zinacantán Tzotzil	tzot1259	the bus	BUS	1070		7aktavus	7aktavus 
+1307	33-23-15-3	72142315316249787	Zinacantán Tzotzil	tzot1259	the bus	BUS	1070		karo	karo 
+1308	33-23-16-1	72142315688252959	Zinacantán Tzotzil	tzot1259	the airplane	AIRPLANE	1597		7avyon	7avyon 
+1309	33-23-16-2	721423159186096	Zinacantán Tzotzil	tzot1259	the airplane	AIRPLANE	1597		shulem k’ok’	shulem k’ok’ 
+1310	33-23-16-3	72142315975140908	Zinacantán Tzotzil	tzot1259	the airplane	AIRPLANE	1597		vilem k’ok’	vilem k’ok’ 
+1311	33-23-17-1	72142315783573268	Zinacantán Tzotzil	tzot1259	the electricity	ELECTRICITY	59		lus	lus 
+1312	33-23-175-1	72142315206307769	Zinacantán Tzotzil	tzot1259	the battery	BATTERY	662		bateria	bateria 
+1313	33-23-175-2	72142315319077970	Zinacantán Tzotzil	tzot1259	the battery	BATTERY	662		bek’ k’ok’	bek’ k’ok’ 
+1314	33-23-2-1	72142315871677129	Zinacantán Tzotzil	tzot1259	the hospital	HOSPITAL	616		respital	respital 
+1315	33-23-21-1	72142315352418292	Zinacantán Tzotzil	tzot1259	the nurse	NURSE	1104		hposhtavaneh	hposhtavaneh 
+1316	33-23-23-1	72142315257383193	Zinacantán Tzotzil	tzot1259	the injection	INJECTION	1805		7akusha	7akusha 
+1317	33-23-23-2	72142315640233704	Zinacantán Tzotzil	tzot1259	the injection	INJECTION	1805		7inteksyon	7inteksyon 
+1318	33-23-52-1	72142315427039432	Zinacantán Tzotzil	tzot1259	the toilet	TOILET	219		k'ablebal	k'ablebal 
+1319	33-23-3-1	72142315249642505	Zinacantán Tzotzil	tzot1259	the government	GOVERNMENT	815		kovyerno	kovyerno 
+1320	33-23-31-1	72142315322051753	Zinacantán Tzotzil	tzot1259	the president	PRESIDENT	899		preserente	preserente 
+1321	33-23-37-1	72142315910579112	Zinacantán Tzotzil	tzot1259	the crime	CRIME	1066		maltisyon	maltisyon 
+1322	33-23-37-2	72142315274313838	Zinacantán Tzotzil	tzot1259	the crime	CRIME	1066		mulil	mulil 
+1323	33-23-38-1	72142315294984467	Zinacantán Tzotzil	tzot1259	the election	ELECTION	240		7elekyson	7elekyson 
+1324	33-23-4-1	72142315261551380	Zinacantán Tzotzil	tzot1259	the post/mail	MAIL	167		timpre	timpre 
+1325	33-23-41-1	72142315261551380	Zinacantán Tzotzil	tzot1259	the postage stamp	POSTAGE STAMP	596		timpre	timpre 
+1326	33-23-42-1	72142315543389064	Zinacantán Tzotzil	tzot1259	the letter	LETTER	1612		vun	vun 
+1327	33-23-44-1	72142315471103953	Zinacantán Tzotzil	tzot1259	the bank	BANK	1284		banko	banko 
+1328	33-23-565-1	72142315547844186	Zinacantán Tzotzil	tzot1259	the candy/sweets	CANDY	874		lurse	lurse 
+1329	33-23-24-1	72142315958969294	Zinacantán Tzotzil	tzot1259	the spectacles/glasses	SPECTACLES	1898		nen sat	nen sat 
+1330	33-23-57-1	72142315587962318	Zinacantán Tzotzil	tzot1259	the plastic	PLASTIC	654		nailo	nailo 
+1331	33-23-59-1	72142315386328119	Zinacantán Tzotzil	tzot1259	the cigarette	CIGARETTE	969		sik’alal	sik’alal 
+1332	33-23-62-1	72142315288592602	Zinacantán Tzotzil	tzot1259	the film/movie	MOVIE	216		sin	sin 
+1333	33-23-63-1	72142315205786196	Zinacantán Tzotzil	tzot1259	the music	MUSIC	642		son	son 
+1334	33-23-64-1	72142315337497103	Zinacantán Tzotzil	tzot1259	the song	SONG	1096		tz’uhulal	tz’uhulal 
+1335	33-23-64-2	72142315867754776	Zinacantán Tzotzil	tzot1259	the song	SONG	1096		k’evuh	k’evuh 
+1336	33-23-39-1	72142315490810504	Zinacantán Tzotzil	tzot1259	the number	NUMBER	1356		lumero	lumero 
+1337	33-23-19-1	72142315477997600	Zinacantán Tzotzil	tzot1259	the machine	MACHINE	144		k’ok’	k’ok’ 
+1338	33-23-395-1	72142315732026249	Zinacantán Tzotzil	tzot1259	the street	STREET	1362		kaya	kaya 
+1339	33-24-02-1	7214231543251248	Zinacantán Tzotzil	tzot1259	to become	BECOME	1990		pas	pas 
+1340	33-24-05-1	7214231558693052	Zinacantán Tzotzil	tzot1259	through	THROUGH	97		7ut 7ut	7ut 7ut 
+1341	33-24-13-1	72142315581390853	Zinacantán Tzotzil	tzot1259	same	SAME	200		mismo	mismo 
+1342	33-24-06-1	72142315329990466	Zinacantán Tzotzil	tzot1259	not	NOT	1240		mu (2)	mu (2) 
+1343	33-24-07-1	72142315931691048	Zinacantán Tzotzil	tzot1259	this	THIS	1214		li7	li7 
+1344	33-24-08-1	72142315352416934	Zinacantán Tzotzil	tzot1259	that	THAT	78		tah	tah 
+1345	33-24-08-2	72142315230569536	Zinacantán Tzotzil	tzot1259	that	THAT	78		ti	ti 
+1346	33-24-09-1	72142315931691048	Zinacantán Tzotzil	tzot1259	here	HERE	136		li7	li7 
+1347	33-24-1-1	72142315352416934	Zinacantán Tzotzil	tzot1259	there	THERE	1937		tah	tah 
+1348	33-24-1-2	72142315292512213	Zinacantán Tzotzil	tzot1259	there	THERE	1937		le7	le7 
+1349	33-24-1-3	72142315574365452	Zinacantán Tzotzil	tzot1259	there	THERE	1937		te	te 
+1350	33-24-11-1	72142315657400884	Zinacantán Tzotzil	tzot1259	other	OTHER	197		yantik	yantik 
+1351	33-4-493-1	72142315539277811	Zinacantán Tzotzil	tzot1259	the vagina	VAGINA	1836		be 7unen	be 7unen 
+1352	33-4-493-2	72142315205804794	Zinacantán Tzotzil	tzot1259	the vagina	VAGINA	1836		manu7	manu7 
+1353	33-4-493-3	72142315400166525	Zinacantán Tzotzil	tzot1259	the vagina	VAGINA	1836		mis	mis 
+1354	33-4-493-4	72142315475054621	Zinacantán Tzotzil	tzot1259	the vagina	VAGINA	1836		7etelil	7etelil 
+1355	33-23-91-1	72142315716690135	Zinacantán Tzotzil	tzot1259	the coffee	COFFEE	1299		kahve	kahve 
+1356	33-24-12-1	72142315615728341	Zinacantán Tzotzil	tzot1259	next	NEXT	1354		7o	7o 
+1357	33-3-862-1	72142315564487289	Zinacantán Tzotzil	tzot1259	the coyote	COYOTE	912		7ok’il	7ok’il 
+1358	33-3-862-2	72142315241727444	Zinacantán Tzotzil	tzot1259	the coyote	COYOTE	912		hti7oval chon	hti7oval chon 
+1359	33-3-865-1	72142315137859631	Zinacantán Tzotzil	tzot1259	the quail	QUAIL	1893		7ub	7ub 
+1360	33-3-865-2	7214231543648775	Zinacantán Tzotzil	tzot1259	the quail	QUAIL	1893		chintuli7	chintuli7 
+1361	33-3-866-1	72142315163857093	Zinacantán Tzotzil	tzot1259	the raccoon	RACCOON	828		napach	napach 
+1362	33-3-866-2	72142315723883984	Zinacantán Tzotzil	tzot1259	the raccoon	RACCOON	828		me7el chon	me7el chon 
+1363	33-3-869-1	72142315848685912	Zinacantán Tzotzil	tzot1259	the squirrel	SQUIRREL	1628		chuch	chuch 
+1364	33-8-29-1	72142315742510191	Zinacantán Tzotzil	tzot1259	the lasso	LASSO	340		riata	riata 
+1365	33-8-29-2	72142315546213133	Zinacantán Tzotzil	tzot1259	the lasso	LASSO	340		shohbe 7ak’il	shohbe 7ak’il 
+1366	33-8-993-1	72142315282507728	Zinacantán Tzotzil	tzot1259	the needle(2)	NEEDLE TREE	286		satil	satil 
+1367	33-4-465-1	72142315846928824	Zinacantán Tzotzil	tzot1259	the sinew or tendon	TENDON	1137		ch’ushuvil	ch’ushuvil 
+1368	33-8-996-1	72142315345019221	Zinacantán Tzotzil	tzot1259	the cone	CONE	287		tuluk'	tuluk' 
+1369	33-3-8112-1	72142315785346981	Zinacantán Tzotzil	tzot1259	the body louse	BODY LOUSE	311		7uch’	7uch’ 
+1370	33-4-494-1	72142315475054621	Zinacantán Tzotzil	tzot1259	the vulva	VULVA	1837		7etelil	7etelil 
+1371	33-3-99-1	72142315491586502	Zinacantán Tzotzil	tzot1259	the tapir	TAPIR	312		tzemen	tzemen 
+1372	33-9-93-1	72142315260184049	Zinacantán Tzotzil	tzot1259	the whetstone	WHETSTONE	295		vush ton	vush ton 
+1373	33-9-92-1	72142315640503319	Zinacantán Tzotzil	tzot1259	the tumpline	TUMPLINE	294		pek’	pek’ 
+1374	33-7-65-1	72142315239948824	Zinacantán Tzotzil	tzot1259	the camp	CAMP	1105		7ak’ob k’ok’	7ak’ob k’ok’ 
+1375	33-8-28-1	72142315947488630	Zinacantán Tzotzil	tzot1259	the digging stick (=yamstick)	DIGGING STICK	339		jok'ob	jok'ob 
+1376	33-3-833-1	72142315784058192	Zinacantán Tzotzil	tzot1259	the prawns or shrimp	PRAWNS	238		kamaron	kamaron 
+1377	33-3-833-2	72142315197973450	Zinacantán Tzotzil	tzot1259	the prawns or shrimp	PRAWNS	238		kamaron choy	kamaron choy 
+1378	33-3-835-1	72142315323625465	Zinacantán Tzotzil	tzot1259	the tick	TICK	1527		sip	sip 
+1379	33-3-89-1	72142315641679577	Zinacantán Tzotzil	tzot1259	the anteater	ANTEATER	181		tz’utz’unchab	tz’utz’unchab 
+1380	33-3-9-1	72142315197636986	Zinacantán Tzotzil	tzot1259	the jaguar	JAGUAR	1250		bolom	bolom 
+1381	33-8-911-1	72142315355291876	Zinacantán Tzotzil	tzot1259	the millet or sorghum	MILLET	931		tukum h7ik’al	tukum h7ik’al 
+1382	33-3-913-1	72142315501091048	Zinacantán Tzotzil	tzot1259	the chameleon	CHAMELEON	1555		7utz’utz’ ni7	7utz’utz’ ni7 
+1383	33-9-9-1	72142315846133156	Zinacantán Tzotzil	tzot1259	to draw water	DRAW (WATER)	1911		ha7av	ha7av 
+1384	33-9-9-2	72142315152491244	Zinacantán Tzotzil	tzot1259	to draw water	DRAW (WATER)	1911		lup	lup 
+1385	33-9-9-3	7214231563849780	Zinacantán Tzotzil	tzot1259	to draw water	DRAW (WATER)	1911		pul	pul 
+1386	33-1-831-1	72142315601466150	Zinacantán Tzotzil	tzot1259	the steam	STEAM	1193		sobal	sobal 
+1387	33-2-4561-1	72142315795152800	Zinacantán Tzotzil	tzot1259	the older sibling	OLDER SIBLING	405		vixil	vixil 
+1388	33-2-4562-1	72142315559858158	Zinacantán Tzotzil	tzot1259	the younger sibling	YOUNGER SIBLING	427		7utz’il	7utz’il 
+1389	33-2-4711-1	7214231566843236	Zinacantán Tzotzil	tzot1259	the grandparents	GRANDPARENTS	305		muk'ta totil	muk'ta totil 
+1390	33-2-5-1	72142315792637673	Zinacantán Tzotzil	tzot1259	the grandchild	GRANDCHILD	1617		momil	momil 
+1391	33-2-622-1	7214231597866455	Zinacantán Tzotzil	tzot1259	the parents-in-law	PARENTS-IN-LAW	306		`alib me`elil	`alib me`elil 
+1392	33-2-6411-1	72142315101763235	Zinacantán Tzotzil	tzot1259	the child-in-law	CHILD-IN-LAW	1060		ni7il	ni7il 
+1393	33-2-6412-1	72142315818904806	Zinacantán Tzotzil	tzot1259	the sibling-in-law	SIBLING-IN-LAW	1832		bolil	bolil 
+1394	33-4-741-1	72142315905456206	Zinacantán Tzotzil	tzot1259	the life	LIFE	210		kushleh	kushleh 
+1395	33-4-844-1	72142315679364481	Zinacantán Tzotzil	tzot1259	the disease	DISEASE	1986		ch’amuhel	ch’amuhel 
+1396	33-12-081-1	7214231589623496	Zinacantán Tzotzil	tzot1259	above	ABOVE	1741		`ak'ol	`ak'ol 
+1397	33-13-231-1	72142315428673347	Zinacantán Tzotzil	tzot1259	the piece	PIECE	594		tuch’ulil	tuch’ulil 
+1398	33-13-331-1	72142315761456408	Zinacantán Tzotzil	tzot1259	alone	ALONE	1964		tuk	tuk 
+1399	33-14-251-1	72142315279337334	Zinacantán Tzotzil	tzot1259	the beginning	BEGINNING	1557		7ochel	7ochel 
+1400	33-14-251-2	72142315642807030	Zinacantán Tzotzil	tzot1259	the beginning	BEGINNING	1557		likebal	likebal 
+1401	33-14-411-1	72142315886005072	Zinacantán Tzotzil	tzot1259	the day(2)	DAY (NOT NIGHT)	1225		malel	malel 
+1402	33-22-131-1	72142315552124006	Zinacantán Tzotzil	tzot1259	the church	CHURCH	1349		7eklishya	7eklishya 
+1403	33-24-14-1	72142315493958373	Zinacantán Tzotzil	tzot1259	nothing	NOTHING	687		yech	yech 
+1404	33-4-7501-1	72142315593106323	Zinacantán Tzotzil	tzot1259	dead	DEAD	1625		chame ___________	chame ___________ 
+1405	33-4-8541-1	72142315600007669	Zinacantán Tzotzil	tzot1259	to scratch	SCRATCH	1436		hot’	hot’ 
+1406	33-9-111-1	7214231543251248	Zinacantán Tzotzil	tzot1259	to make	MAKE	734		pas	pas 
+1407	33-9-111-2	72142315457062109	Zinacantán Tzotzil	tzot1259	to make	MAKE	734		meltzan	meltzan 
+1408	33-4-431-1	72142315208818515	Zinacantán Tzotzil	tzot1259	the belly	BELLY	1251		tzukut	tzukut 
+1409	33-9-311-1	72142315699635292	Zinacantán Tzotzil	tzot1259	to wipe	WIPE	1454		kus	kus 
+1410	33-24-04-1	72142315740961098	Zinacantán Tzotzil	tzot1259	with	WITH	1340		chi7uk	chi7uk 
+1411	33-24-04-2	72142315820455591	Zinacantán Tzotzil	tzot1259	with	WITH	1340		tohol (2)	tohol (2) 
+1412	33-12-012-1	72142315678791648	Zinacantán Tzotzil	tzot1259	in	IN	1460		k’al	k’al 
+1413	33-12-012-2	72142315275627324	Zinacantán Tzotzil	tzot1259	in	IN	1460		ta	ta 

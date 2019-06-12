@@ -1,0 +1,1673 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	4-1-1-1	73101839221561044	Hausa	haus1257	the world	WORLD	965		dúuníyàa	dúuníyàa 
+2	4-1-21-1	73101839578931380	Hausa	haus1257	the land	LAND	626		ƙásáa	ƙásáa 
+3	4-1-212-1	73101839578931380	Hausa	haus1257	the soil	EARTH (SOIL)	1228		ƙásáa	ƙásáa 
+4	4-1-213-1	73101839326746903	Hausa	haus1257	the dust	DUST	2		ƙùuráa	ƙùuráa 
+5	4-1-214-1	73101839376009506	Hausa	haus1257	the mud	MUD	640		tàɓóo	tàɓóo 
+6	4-1-215-1	73101839760034357	Hausa	haus1257	the sand	SAND	671		yàashíi	yàashíi 
+7	4-1-215-2	73101839578931380	Hausa	haus1257	the sand	SAND	671		ƙásáa	ƙásáa 
+8	4-1-22-1	7310183922231862	Hausa	haus1257	the mountain or hill	MOUNTAIN OR HILL	2118		tsáunìi	tsáunìi 
+9	4-1-22-2	73101839531361252	Hausa	haus1257	the mountain or hill	MOUNTAIN OR HILL	2118		dúutsèe	dúutsèe 
+10	4-1-22-3	73101839520738405	Hausa	haus1257	the mountain or hill	MOUNTAIN OR HILL	2118		túdùu	túdùu 
+11	4-1-222-1	73101839297141366	Hausa	haus1257	the cliff or precipice	PRECIPICE	618		háyìi	háyìi 
+12	4-1-23-1	73101839801668795	Hausa	haus1257	the plain	PLAIN	652		fíilíi	fíilíi 
+13	4-1-24-1	73101839339963347	Hausa	haus1257	the valley	VALLEY	921		kwárìi	kwárìi 
+14	4-1-24-2	73101839665354033	Hausa	haus1257	the valley	VALLEY	921		ràafíi	ràafíi 
+15	4-1-25-1	73101839325131461	Hausa	haus1257	the island	ISLAND	622		tsìbíríi	tsìbíríi 
+16	4-1-27-1	73101839607489922	Hausa	haus1257	the shore	SHORE	113		bàakín ruwaa	bàakín ruwaa 
+17	4-1-27-2	73101839481491358	Hausa	haus1257	the shore	SHORE	113		gáaɓàa	gáaɓàa 
+18	4-1-28-1	73101839206405972	Hausa	haus1257	the cave	CAVE	1155		kòogóo	kòogóo 
+19	4-1-31-1	73101839203468731	Hausa	haus1257	the water	WATER	948		rúwáa	rúwáa 
+20	4-1-32-1	7310183933040001	Hausa	haus1257	the sea	SEA	1474		tèekú	tèekú 
+21	4-1-32-2	73101839313714226	Hausa	haus1257	the sea	SEA	1474		báhàa, báhàr̃	báhàa 
+22	4-1-32-3	73101839313714226	Hausa	haus1257	the sea	SEA	1474		báhàa, báhàr̃	báhàr̃ 
+23	4-1-324-1	73101839768932896	Hausa	haus1257	the foam	FOAM	1768		kúmfáa	kúmfáa 
+24	4-1-329-1	7310183933040001	Hausa	haus1257	the ocean	OCEAN	645		tèekú	tèekú 
+25	4-1-329-2	73101839313714226	Hausa	haus1257	the ocean	OCEAN	645		báhàa, báhàr̃	báhàa 
+26	4-1-329-3	73101839313714226	Hausa	haus1257	the ocean	OCEAN	645		báhàa, báhàr̃	báhàr̃ 
+27	4-1-33-1	73101839814323526	Hausa	haus1257	the lake	LAKE	624		táfkìi	táfkìi 
+28	4-1-35-1	73101839302937623	Hausa	haus1257	the wave	WAVE	978		ígíyàr̃ rúwáa	ígíyàr̃ rúwáa 
+29	4-1-35-2	73101839632824476	Hausa	haus1257	the wave	WAVE	978		ràaƙúmín rúwáa	ràaƙúmín rúwáa 
+30	4-1-36-1	73101839142402878	Hausa	haus1257	the river or stream	RIVER	666		kòogíi	kòogíi 
+31	4-1-362-1	73101839823959780	Hausa	haus1257	the whirlpool	WHIRLPOOL	1982		gùugúwàa	gùugúwàa 
+32	4-1-37-1	73101839477539866	Hausa	haus1257	the spring or well	SPRING OR WELL	2144		ríijìyáa	ríijìyáa 
+33	4-1-38-1	73101839185002388	Hausa	haus1257	the swamp	SWAMP	1145		fàdámàa	fàdámàa 
+34	4-1-41-1	7310183994883937	Hausa	haus1257	the woods or forest	FOREST	420		dáajìi	dáajìi 
+35	4-1-41-2	73101839834577305	Hausa	haus1257	the woods or forest	FOREST	420		kúrmíi	kúrmíi 
+36	4-1-43-1	73101839896905661	Hausa	haus1257	the wood	WOOD	1803		ítàacée	ítàacée 
+37	4-1-44-1	73101839531361252	Hausa	haus1257	the stone or rock	STONE OR ROCK	2125		dúutsèe	dúutsèe 
+38	4-1-45-1	73101839893800871	Hausa	haus1257	the earthquake	EARTHQUAKE	6		gìgízàr̃ ƙásáa	gìgízàr̃ ƙásáa 
+39	4-1-51-1	73101839562734005	Hausa	haus1257	the sky	SKY	1732		sámà	sámà 
+40	4-1-52-1	73101839934963598	Hausa	haus1257	the sun	SUN	1343		ráanáa	ráanáa 
+41	4-1-53-1	73101839339167957	Hausa	haus1257	the moon	MOON	1313		wátàa	wátàa 
+42	4-1-54-1	73101839873161288	Hausa	haus1257	the star	STAR	1430		tàuràaróo	tàuràaróo 
+43	4-1-55-1	73101839394126983	Hausa	haus1257	the lightning	LIGHTNING	1654		mài háskée	mài háskée 
+44	4-1-56-1	73101839668997833	Hausa	haus1257	the thunder	THUNDER	1150		tsáawáa	tsáawáa 
+45	4-1-57-1	73101839669089553	Hausa	haus1257	the bolt of lightning	BOLT (OF LIGHTNING)	2007		àr̃áadùu	àr̃áadùu 
+46	4-1-57-2	73101839635962996	Hausa	haus1257	the bolt of lightning	BOLT (OF LIGHTNING)	2007		tár̃nátsáa	tár̃nátsáa 
+47	4-1-58-1	7310183914583596	Hausa	haus1257	the storm	STORM	858		hádàríi	hádàríi 
+48	4-1-59-1	73101839963068066	Hausa	haus1257	the rainbow	RAINBOW	1733		bàkán gízòo	bàkán gízòo 
+49	4-1-61-1	73101839806304056	Hausa	haus1257	the light	LIGHT (RADIATION)	630		háskée	háskée 
+50	4-1-62-1	73101839255094579	Hausa	haus1257	the darkness	DARKNESS	11		dúhùu	dúhùu 
+51	4-1-63-1	73101839103782815	Hausa	haus1257	the shade or shadow	SHADE	1388		ínúwàa	ínúwàa 
+52	4-1-64-1	731018398934027	Hausa	haus1257	the dew	DEW	1977		ráaɓáa	ráaɓáa 
+53	4-1-71-1	73101839211396087	Hausa	haus1257	the air	AIR	27		ískàa	ískàa 
+54	4-1-72-1	73101839211396087	Hausa	haus1257	the wind	WIND	960		ískàa	ískàa 
+55	4-1-73-1	7310183913038236	Hausa	haus1257	the cloud	CLOUD	1489		gàajìmàarée	gàajìmàarée 
+56	4-1-74-1	7310183995297817	Hausa	haus1257	the fog	FOG	249		házóo	házóo 
+57	4-1-75-1	73101839418678856	Hausa	haus1257	the rain	RAIN (PRECIPITATION)	658		rúwán sámàa	rúwán sámàa 
+58	4-1-76-1	73101839461589427	Hausa	haus1257	the snow	SNOW	784		ƙànƙáráa	ƙànƙáráa 
+59	4-1-77-1	73101839461589427	Hausa	haus1257	the ice	ICE	617		ƙànƙáráa	ƙànƙáráa 
+60	4-1-78-1	73101839169684160	Hausa	haus1257	the weather	WEATHER	952		yána$yìi	yána$yìi 
+61	4-1-81-1	73101839706267868	Hausa	haus1257	the fire	FIRE	221		wútáa	wútáa 
+62	4-1-82-1	73101839432131475	Hausa	haus1257	the flame	FLAME	889		hárshèn wútáa	hárshèn wútáa 
+63	4-1-83-1	73101839438823819	Hausa	haus1257	the smoke	SMOKE (EXHAUST)	778		háyáaûíi	háyáaûíi 
+64	4-1-84-1	73101839125102763	Hausa	haus1257	the ash	ASH	646		tòokáa	tòokáa 
+65	4-1-841-1	73101839196739157	Hausa	haus1257	the embers	EMBERS	67		gárwáashíi	gárwáashíi 
+66	4-1-851-1	73101839419222097	Hausa	haus1257	to burn(1)	BURN (SOMETHING)	141		ƙóonàa	ƙóonàa 
+67	4-1-852-1	73101839334058616	Hausa	haus1257	to burn(2)	BURNING	1428		ƙóonèe	ƙóonèe 
+68	4-1-86-1	73101839478824889	Hausa	haus1257	to light	LIGHT (IGNITE)	737		kúnnàa	kúnnàa 
+69	4-1-86-2	73101839322577527	Hausa	haus1257	to light	LIGHT (IGNITE)	737		húuràa	húuràa 
+70	4-1-861-1	73101839389740842	Hausa	haus1257	to extinguish	EXTINGUISH	127		káshèe	káshèe 
+71	4-1-87-1	73101839159164721	Hausa	haus1257	the match	MATCH	1133		àsháanáa	àsháanáa 
+72	4-1-88-1	73101839568751256	Hausa	haus1257	the firewood	FIREWOOD	10		ícèe	ícèe 
+73	4-1-89-1	73101839885249243	Hausa	haus1257	the charcoal	CHARCOAL	1188		gáwàyíi	gáwàyíi 
+74	4-2-1-1	73101839507542924	Hausa	haus1257	the person	PERSON	683		mùtûm	mùtûm 
+75	4-2-21-1	73101839845257588	Hausa	haus1257	the man	MAN	1554		námíjì	námíjì 
+76	4-2-22-1	73101839362447306	Hausa	haus1257	the woman	WOMAN	962		màcè	màcè 
+77	4-2-23-1	73101839845257588	Hausa	haus1257	male(1)	MALE (OF ANIMAL)	2263		námíjì	námíjì 
+78	4-2-24-1	73101839518812321	Hausa	haus1257	female(1)	FEMALE (OF PERSON)	2260		támàcè	támàcè 
+79	4-2-25-1	73101839681686663	Hausa	haus1257	the boy	BOY	1366		yáaròo	yáaròo 
+80	4-2-251-1	7310183999967090	Hausa	haus1257	the young man	YOUNG MAN	76		mátàashíi	mátàashíi 
+81	4-2-26-1	73101839784047962	Hausa	haus1257	the girl	GIRL	1646		yáarínyàa	yáarínyàa 
+82	4-2-261-1	73101839707336161	Hausa	haus1257	the young woman	YOUNG WOMAN	77		bùdúrwáa	bùdúrwáa 
+83	4-2-27-1	73101839176810402	Hausa	haus1257	the child(1)	CHILD (YOUNG HUMAN)	1304		ɗáa	ɗáa 
+84	4-2-27-2	73101839149684150	Hausa	haus1257	the child(1)	CHILD (YOUNG HUMAN)	1304		'yáa	'yáa 
+85	4-2-28-1	73101839745743243	Hausa	haus1257	the baby	BABY	1289		jàríirìi	jàríirìi 
+86	4-2-31-1	73101839381307537	Hausa	haus1257	the husband	HUSBAND	1200		míjìi	míjìi 
+87	4-2-32-1	73101839555608061	Hausa	haus1257	the wife	WIFE	1199		màatáa	màatáa 
+88	4-2-33-1	73101839329388675	Hausa	haus1257	to marry	MARRY	203		àuráa	àuráa 
+89	4-2-34-1	73101839317639556	Hausa	haus1257	the wedding	WEDDING	1259		áurée	áurée 
+90	4-2-341-1	7310183944525549	Hausa	haus1257	the divorce	DIVORCE	1134		káshè áurée	káshè áurée 
+91	4-2-35-1	73101839787510460	Hausa	haus1257	the father	FATHER	1217		ùbáa	ùbáa 
+92	4-2-36-1	73101839168650982	Hausa	haus1257	the mother	MOTHER	1216		úwáa	úwáa 
+93	4-2-37-1	73101839728339152	Hausa	haus1257	the parents	PARENTS	505		íyàayée	íyàayée 
+94	4-2-37-2	73101839643856078	Hausa	haus1257	the parents	PARENTS	505		máhàifáa	máhàifáa 
+95	4-2-38-1	73101839381307537	Hausa	haus1257	the married man	MARRIED MAN	424		míjìi	míjìi 
+96	4-2-38-2	73101839137269658	Hausa	haus1257	the married man	MARRIED MAN	424		ángòo	ángòo 
+97	4-2-39-1	73101839555608061	Hausa	haus1257	the married woman	MARRIED WOMAN	426		màatáa	màatáa 
+98	4-2-39-2	7310183939608795	Hausa	haus1257	the married woman	MARRIED WOMAN	426		ámáríyáa	ámáríyáa 
+99	4-2-41-1	73101839176810402	Hausa	haus1257	the son	SON	1620		ɗáa	ɗáa 
+100	4-2-42-1	73101839149684150	Hausa	haus1257	the daughter	DAUGHTER	1357		'yáa	'yáa 
+101	4-2-43-1	73101839176810402	Hausa	haus1257	the child(2)	CHILD (DESCENDANT)	1801		ɗáa	ɗáa 
+102	4-2-44-1	73101839644780195	Hausa	haus1257	the brother	BROTHER	1262		ɗán úwáa	ɗán úwáa 
+103	4-2-444-1	73101839410462022	Hausa	haus1257	the older brother	OLDER BROTHER	1759		yàayáa	yàayáa 
+104	4-2-445-1	73101839809493941	Hausa	haus1257	the younger brother	YOUNGER BROTHER	1760		ƙánèe	ƙánèe 
+105	4-2-45-1	73101839298377663	Hausa	haus1257	the sister	SISTER	1263		'yár̃ úwáa	'yár̃ úwáa 
+106	4-2-454-1	73101839410462022	Hausa	haus1257	the older sister	OLDER SISTER	1758		yàayáa	yàayáa 
+107	4-2-455-1	73101839211347021	Hausa	haus1257	the younger sister	YOUNGER SISTER	1761		ƙánúwàa	ƙánúwàa 
+108	4-2-456-1	73101839644780195	Hausa	haus1257	the sibling	SIBLING	1640		ɗán úwáa	ɗán úwáa 
+109	4-2-456-2	73101839298377663	Hausa	haus1257	the sibling	SIBLING	1640		'yár̃ úwáa	'yár̃ úwáa 
+110	4-2-458-1	73101839200017755	Hausa	haus1257	the twins	TWINS	1005		tágwàayée	tágwàayée 
+111	4-2-46-1	73101839321450503	Hausa	haus1257	the grandfather	GRANDFATHER	1383		kàakáa (1)	kàakáa (1) 
+112	4-2-461-1	73101839208215795	Hausa	haus1257	the old man	OLD MAN	406		tsóohóo	tsóohóo 
+113	4-2-47-1	73101839321450503	Hausa	haus1257	the grandmother	GRANDMOTHER	1496		kàakáa (1)	kàakáa (1) 
+114	4-2-471-1	73101839435135472	Hausa	haus1257	the old woman	OLD WOMAN	907		tsóohúwáa	tsóohúwáa 
+115	4-2-48-1	73101839397670921	Hausa	haus1257	the grandson	GRANDSON	1618		jíikàa	jíikàa 
+116	4-2-49-1	73101839397670921	Hausa	haus1257	the granddaughter	GRANDDAUGHTER	1619		jíikàa	jíikàa 
+117	4-2-51-1	73101839498792588	Hausa	haus1257	the uncle	UNCLE	1327		kàawúu	kàawúu 
+118	4-2-51-2	73101839215606141	Hausa	haus1257	the uncle	UNCLE	1327		r̃áafàníi	r̃áafàníi 
+119	4-2-511-1	73101839498792588	Hausa	haus1257	the mother's brother	MOTHER'S BROTHER	1984		kàawúu	kàawúu 
+120	4-2-511-2	73101839126692962	Hausa	haus1257	the mother's brother	MOTHER'S BROTHER	1984		r̃áafàníi	r̃áafàníi 
+121	4-2-512-1	73101839220769855	Hausa	haus1257	the father's brother	FATHER'S BROTHER	1985		bàabáaníi	bàabáaníi 
+122	4-2-512-2	73101839128889869	Hausa	haus1257	the father's brother	FATHER'S BROTHER	1985		ábbàaníi	ábbàaníi 
+123	4-2-52-1	7310183991744254	Hausa	haus1257	the aunt	AUNT	1272		ínnàa	ínnàa 
+124	4-2-521-1	7310183991744254	Hausa	haus1257	the mother's sister	MOTHER'S SISTER	171		ínnàa	ínnàa 
+125	4-2-521-2	73101839940203061	Hausa	haus1257	the mother's sister	MOTHER'S SISTER	171		íyàa	íyàa 
+126	4-2-522-1	73101839427783563	Hausa	haus1257	the father's sister	FATHER'S SISTER	170		báabà	báabà 
+127	4-2-522-2	73101839339566002	Hausa	haus1257	the father's sister	FATHER'S SISTER	170		báabàaníi	báabàaníi 
+128	4-2-522-3	73101839437326847	Hausa	haus1257	the father's sister	FATHER'S SISTER	170		gwággò	gwággò 
+129	4-2-53-1	73101839448762278	Hausa	haus1257	the nephew	NEPHEW	1063		ɗán wâa	ɗán wâa 
+130	4-2-54-1	73101839350178901	Hausa	haus1257	the niece	NIECE	1642		'yár̃ wâa	'yár̃ wâa 
+131	4-2-55-1	73101839644780195	Hausa	haus1257	the cousin	COUSIN	1643		ɗán úwáa	ɗán úwáa 
+132	4-2-55-2	73101839298377663	Hausa	haus1257	the cousin	COUSIN	1643		'yár̃ úwáa	'yár̃ úwáa 
+133	4-2-56-1	73101839400625318	Hausa	haus1257	the ancestors	ANCESTORS	1669		kàakán kàakáa	kàakán kàakáa 
+134	4-2-57-1	73101839690739392	Hausa	haus1257	the descendants	DESCENDANTS	490		zúur̃íyàa	zúur̃íyàa 
+135	4-2-61-1	73101839552062823	Hausa	haus1257	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		sùrúkíi	sùrúkíi 
+136	4-2-611-1	73101839552062823	Hausa	haus1257	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		sùrúkíi	sùrúkíi 
+137	4-2-62-1	73101839349003452	Hausa	haus1257	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		sùrúkáa	sùrúkáa 
+138	4-2-621-1	73101839349003452	Hausa	haus1257	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		sùrúkáa	sùrúkáa 
+139	4-2-63-1	73101839552062823	Hausa	haus1257	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		sùrúkíi	sùrúkíi 
+140	4-2-631-1	73101839552062823	Hausa	haus1257	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		sùrúkíi	sùrúkíi 
+141	4-2-64-1	73101839349003452	Hausa	haus1257	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		sùrúkáa	sùrúkáa 
+142	4-2-641-1	73101839349003452	Hausa	haus1257	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		sùrúkáa	sùrúkáa 
+143	4-2-71-1	73101839877164708	Hausa	haus1257	the stepfather	STEPFATHER	237		ùbáa kíntàa	ùbáa kíntàa 
+144	4-2-72-1	73101839405541828	Hausa	haus1257	the stepmother	STEPMOTHER	236		úwáa kíntàa	úwáa kíntàa 
+145	4-2-73-1	73101839966245167	Hausa	haus1257	the stepson	STEPSON	1059		ágòolà	ágòolà 
+146	4-2-74-1	73101839109811061	Hausa	haus1257	the stepdaughter	STEPDAUGHTER	1058		ágóolìyáa	ágóolìyáa 
+147	4-2-75-1	73101839650456008	Hausa	haus1257	the orphan	ORPHAN	1149		màráayàa	màráayàa 
+148	4-2-75-2	73101839747319505	Hausa	haus1257	the orphan	ORPHAN	1149		màráinìyáa	màráinìyáa 
+149	4-2-76-1	73101839349642812	Hausa	haus1257	the widow	WIDOW	1756		bàzáwàr̃áa	bàzáwàr̃áa 
+150	4-2-77-1	73101839423673043	Hausa	haus1257	the widower	WIDOWER	1981		gwáuróo	gwáuróo 
+151	4-2-81-1	73101839873532982	Hausa	haus1257	the relatives	RELATIVES	1644		dángìi	dángìi 
+152	4-2-82-1	73101839181033043	Hausa	haus1257	the family	FAMILY	194		ìyáalìi	ìyáalìi 
+153	4-2-91-1	73101839962845491	Hausa	haus1257	I	I	1209		níi	níi 
+154	4-2-92-1	73101839116602577	Hausa	haus1257	you (singular)	THOU	1215		kái (1)	kái (1) 
+155	4-2-92-2	73101839841781075	Hausa	haus1257	you (singular)	THOU	1215		kée	kée 
+156	4-2-93-1	73101839439383879	Hausa	haus1257	he/she/it	HE OR SHE OR IT	262		shíi	shíi 
+157	4-2-93-2	73101839618225719	Hausa	haus1257	he/she/it	HE OR SHE OR IT	262		ítá	ítá 
+158	4-2-94-1	73101839529836677	Hausa	haus1257	we	WE	1212		múu	múu 
+159	4-2-941-1	73101839529836677	Hausa	haus1257	we (inclusive)	WE (INCLUSIVE)	1131		múu	múu 
+160	4-2-942-1	73101839543748616	Hausa	haus1257	we (exclusive)	WE (EXCLUSIVE)	1130		múu (ná)	múu (ná) 
+161	4-2-95-1	73101839882915999	Hausa	haus1257	you (plural)	YOU	1213		kúu	kúu 
+162	4-2-96-1	73101839325586088	Hausa	haus1257	they	THEY	817		súu	súu 
+163	4-3-11-1	73101839517886819	Hausa	haus1257	the animal	ANIMAL	619		dábbàa	dábbàa 
+164	4-3-12-1	73101839845257588	Hausa	haus1257	male(2)	MALE (OF PERSON)	2261		námíjì	námíjì 
+165	4-3-13-1	73101839518812321	Hausa	haus1257	female(2)	FEMALE (OF ANIMAL)	2262		támàcè	támàcè 
+166	4-3-15-1	7310183957400996	Hausa	haus1257	the livestock	LIVESTOCK	631		dábbóobíi	dábbóobíi 
+167	4-3-15-2	73101839253445441	Hausa	haus1257	the livestock	LIVESTOCK	631		gárkèe	gárkèe 
+168	4-3-16-1	73101839463460555	Hausa	haus1257	the pasture	PASTURE	649		mákíyáayáa	mákíyáayáa 
+169	4-3-18-1	73101839731771336	Hausa	haus1257	the herdsman	HERDSMAN	263		mákìyàayíi	mákìyàayíi 
+170	4-3-19-1	73101839594239723	Hausa	haus1257	the stable or stall	STABLE	851		bàr̃gáa	bàr̃gáa 
+171	4-3-19-2	73101839253445441	Hausa	haus1257	the stable or stall	STABLE	851		gárkèe	gárkèe 
+172	4-3-2-1	73101839665112993	Hausa	haus1257	the cattle	CATTLE	1153		sháanúu	sháanúu 
+173	4-3-2-2	73101839255849853	Hausa	haus1257	the cattle	CATTLE	1153		gárkèn sháanúu	gárkèn sháanúu 
+174	4-3-21-1	73101839852069722	Hausa	haus1257	the bull	BULL	1008		bìjímíi	bìjímíi 
+175	4-3-22-1	73101839614932036	Hausa	haus1257	the ox	OX	1169		sâa (1)	sâa (1) 
+176	4-3-23-1	73101839766615613	Hausa	haus1257	the cow	COW	1007		sáanìyáa	sáanìyáa 
+177	4-3-24-1	73101839380317106	Hausa	haus1257	the calf	CALF	1989		màráƙíi	màráƙíi 
+178	4-3-25-1	73101839256966874	Hausa	haus1257	the sheep	SHEEP	1331		túnkìyáa	túnkìyáa 
+179	4-3-26-1	73101839869436942	Hausa	haus1257	the ram	RAM	1344		ràagóo	ràagóo 
+180	4-3-28-1	73101839256966874	Hausa	haus1257	the ewe	EWE	1345		túnkìyáa	túnkìyáa 
+181	4-3-29-1	73101839547342172	Hausa	haus1257	the lamb	LAMB	820		ɗán ràagóo	ɗán ràagóo 
+182	4-3-29-2	73101839271231688	Hausa	haus1257	the lamb	LAMB	820		'yár̃ túnkìyáa	'yár̃ túnkìyáa 
+183	4-3-32-1	73101839853754208	Hausa	haus1257	the boar	BOAR	1348		gàdúu	gàdúu 
+184	4-3-34-1	73101839160502977	Hausa	haus1257	the sow	SOW (FEMALE PIG)	1351		támàcèn àládèe	támàcèn àládèe 
+185	4-3-35-1	73101839986631560	Hausa	haus1257	the pig	PIG	1337		àládèe	àládèe 
+186	4-3-36-1	73101839215364455	Hausa	haus1257	the goat	GOAT	1502		àkwíyàa	àkwíyàa 
+187	4-3-37-1	7310183945228480	Hausa	haus1257	the he-goat	HE-GOAT	264		bùnsúrúu	bùnsúrúu 
+188	4-3-38-1	73101839425042625	Hausa	haus1257	the kid	KID	1972		ɗán àkwíyàa	ɗán àkwíyàa 
+189	4-3-38-2	73101839959454902	Hausa	haus1257	the kid	KID	1972		'yár̃ àkwíyàa	'yár̃ àkwíyàa 
+190	4-3-41-1	73101839183722281	Hausa	haus1257	the horse	HORSE	615		dóokìi	dóokìi 
+191	4-3-42-1	73101839180815559	Hausa	haus1257	the stallion	STALLION	936		íngár̃màa	íngár̃màa 
+192	4-3-44-1	73101839947760539	Hausa	haus1257	the mare	MARE	938		góoɗíyáa	góoɗíyáa 
+193	4-3-45-1	73101839227951550	Hausa	haus1257	the foal or colt	FOAL	1647		dùƙúshíi	dùƙúshíi 
+194	4-3-46-1	73101839966054999	Hausa	haus1257	the donkey	DONKEY	1862		jàakíi	jàakíi 
+195	4-3-47-1	73101839283697753	Hausa	haus1257	the mule	MULE	890		àlfádàr̃íi	àlfádàr̃íi 
+196	4-3-5-1	73101839725378108	Hausa	haus1257	the fowl	FOWL	265		kàazáa	kàazáa 
+197	4-3-52-1	73101839202477932	Hausa	haus1257	the cock/rooster	ROOSTER	1511		zàkáràa	zàkáràa 
+198	4-3-54-1	73101839725378108	Hausa	haus1257	the hen	HEN	1514		kàazáa	kàazáa 
+199	4-3-54-2	73101839559082123	Hausa	haus1257	the hen	HEN	1514		dáƙwálwáa	dáƙwálwáa 
+200	4-3-55-1	73101839725378108	Hausa	haus1257	the chicken	CHICKEN	1318		kàazáa	kàazáa 
+201	4-3-55-2	73101839220062427	Hausa	haus1257	the chicken	CHICKEN	1318		sàagáráa	sàagáráa 
+202	4-3-56-1	73101839464699728	Hausa	haus1257	the goose	GOOSE	1187		dínyáa	dínyáa 
+203	4-3-57-1	7310183912604788	Hausa	haus1257	the duck	DUCK	1360		àgwàagwá	àgwàagwá 
+204	4-3-58-1	73101839463098817	Hausa	haus1257	the nest	NEST	539		shèeƙáa (1)	shèeƙáa (1) 
+205	4-3-581-1	73101839248233225	Hausa	haus1257	the bird	BIRD	937		tsúntsúu	tsúntsúu 
+206	4-3-583-1	7310183974994592	Hausa	haus1257	the heron	HERON	758		zálɓèe	zálɓèe 
+207	4-3-584-1	73101839473575207	Hausa	haus1257	the eagle	EAGLE	1905		gággáfáa	gággáfáa 
+208	4-3-585-1	73101839895023930	Hausa	haus1257	the hawk	HAWK	307		sháahòo	sháahòo 
+209	4-3-586-1	73101839273138560	Hausa	haus1257	the vulture	VULTURE	1185		ùngùlúu	ùngùlúu 
+210	4-3-591-1	73101839104864081	Hausa	haus1257	the bat	BAT	1793		jéemáagèe	jéemáagèe 
+211	4-3-592-1	73101839552118181	Hausa	haus1257	the parrot	PARROT	882		àkú	àkú 
+212	4-3-593-1	73101839481160493	Hausa	haus1257	the crow	CROW	913		hànkáakàa	hànkáakàa 
+213	4-3-594-1	73101839610071700	Hausa	haus1257	the dove	DOVE	1853		kúrcíyáa	kúrcíyáa 
+214	4-3-596-1	73101839841553247	Hausa	haus1257	the owl	OWL	735		múujìyáa	múujìyáa 
+215	4-3-61-1	73101839545201142	Hausa	haus1257	the dog	DOG	2009		kàrée	kàrée 
+216	4-3-614-1	73101839238779000	Hausa	haus1257	the rabbit	RABBIT	1136		zóomóo	zóomóo 
+217	4-3-62-1	73101839510723062	Hausa	haus1257	the cat	CAT	1208		màagée	màagée 
+218	4-3-62-2	73101839703112376	Hausa	haus1257	the cat	CAT	1208		ƙyânwáa	ƙyânwáa 
+219	4-3-63-1	73101839840936989	Hausa	haus1257	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ɓéer̃áa	ɓéer̃áa 
+220	4-3-65-1	73101839702841059	Hausa	haus1257	the fish	FISH	227		kíifíi	kíifíi 
+221	4-3-652-1	73101839301510387	Hausa	haus1257	the fin	FIN	213		ƙéegée	ƙéegée 
+222	4-3-653-1	73101839489831898	Hausa	haus1257	the scale	SCALE	266		ƙáayàa	ƙáayàa 
+223	4-3-654-1	73101839158173418	Hausa	haus1257	the gill	GILL	1916		hàrzáa	hàrzáa 
+224	4-3-655-1	73101839321903911	Hausa	haus1257	the shell	SHELL	598		ƙùmbáa	ƙùmbáa 
+225	4-3-665-1	73101839327987088	Hausa	haus1257	the freshwater eel	FRESHWATER EEL	1013		gwándòo	gwándòo 
+226	4-3-72-1	73101839499107284	Hausa	haus1257	the lion	LION	1386		záakìi	záakìi 
+227	4-3-74-1	73101839535574142	Hausa	haus1257	the fox	FOX	1312		yânyáawàa	yânyáawàa 
+228	4-3-75-1	73101839109727838	Hausa	haus1257	the deer	DEER	1936		bàréewáa	bàréewáa 
+229	4-3-76-1	73101839208686819	Hausa	haus1257	the monkey	MONKEY	1350		bírìi	bírìi 
+230	4-3-77-1	73101839785626869	Hausa	haus1257	the elephant	ELEPHANT	1290		gíiwáa	gíiwáa 
+231	4-3-78-1	73101839902349085	Hausa	haus1257	the camel	CAMEL	1871		ràaƙúmíi	ràaƙúmíi 
+232	4-3-81-1	73101839519197489	Hausa	haus1257	the insect	INSECT	620		ƙwàaróo	ƙwàaróo 
+233	4-3-811-1	7310183941942239	Hausa	haus1257	the head louse	HEAD LOUSE	310		kwàlkwátàa	kwàlkwátàa 
+234	4-3-812-1	73101839348644629	Hausa	haus1257	the nit	NIT	267		ƙyáayáa	ƙyáayáa 
+235	4-3-813-1	73101839214209382	Hausa	haus1257	the flea	FLEA	232		ƙùmáa	ƙùmáa 
+236	4-3-813-2	73101839229168773	Hausa	haus1257	the flea	FLEA	232		tùnkùyáu	tùnkùyáu 
+237	4-3-814-1	73101839950622063	Hausa	haus1257	the centipede	CENTIPEDE	1974		shànshàaníi	shànshàaníi 
+238	4-3-815-1	7310183992410077	Hausa	haus1257	the scorpion	SCORPION	1538		kùnáamàa	kùnáamàa 
+239	4-3-816-1	73101839203335129	Hausa	haus1257	the cockroach	COCKROACH	1575		kyànkyásòo	kyànkyásòo 
+240	4-3-817-1	73101839792033294	Hausa	haus1257	the ant	ANT	587		kíyáashíi	kíyáashíi 
+241	4-3-818-1	73101839886640132	Hausa	haus1257	the spider	SPIDER	843		gízòo	gízòo 
+242	4-3-818-2	73101839524660316	Hausa	haus1257	the spider	SPIDER	843		tàutáu	tàutáu 
+243	4-3-819-1	73101839858879869	Hausa	haus1257	the spider web	SPIDER WEB	1065		sáaƙàr̃ gízòo	sáaƙàr̃ gízòo 
+244	4-3-82-1	73101839376423334	Hausa	haus1257	the bee	BEE	665		zúmàa	zúmàa 
+245	4-3-821-1	73101839752012781	Hausa	haus1257	the beeswax	BEESWAX	1931		káakìn zúmàa	káakìn zúmàa 
+246	4-3-822-1	73101839601294988	Hausa	haus1257	the beehive	BEEHIVE	88		ámyàa	ámyàa 
+247	4-3-823-1	73101839301970467	Hausa	haus1257	the wasp	WASP	1517		zànzáróo	zànzáróo 
+248	4-3-83-1	73101839612488207	Hausa	haus1257	the fly	FLY (INSECT)	1504		ƙúdáa	ƙúdáa 
+249	4-3-831-1	7310183989021484	Hausa	haus1257	the sandfly or midge or gnat	SANDFLY	95		ƙyáashíi	ƙyáashíi 
+250	4-3-832-1	73101839433698438	Hausa	haus1257	the mosquito	MOSQUITO	1509		sáuróo	sáuróo 
+251	4-3-84-1	73101839796767203	Hausa	haus1257	the worm	WORM	1219		tsúutsàa	tsúutsàa 
+252	4-3-85-1	73101839964850186	Hausa	haus1257	the snake	SNAKE	730		mácìijíi	mácìijíi 
+253	4-3-91-1	73101839295651125	Hausa	haus1257	the firefly	FIREFLY	206		màƙèesúu	màƙèesúu 
+254	4-3-92-1	73101839827134518	Hausa	haus1257	the butterfly	BUTTERFLY	1791		máalàm bùuɗè líttáafíi	máalàm bùuɗè líttáafíi 
+255	4-3-93-1	73101839755413643	Hausa	haus1257	the grasshopper	GRASSHOPPER	607		fàaráa	fàaráa 
+256	4-3-94-1	7310183935860934	Hausa	haus1257	the snail	SNAIL	1543		dòodón kwàɗíi	dòodón kwàɗíi 
+257	4-3-95-1	73101839407551130	Hausa	haus1257	the frog	FROG	503		kwàɗóo	kwàɗóo 
+258	4-3-96-1	73101839346203626	Hausa	haus1257	the lizard	LIZARD	632		ƙàdángárèe	ƙàdángárèe 
+259	4-3-97-1	73101839493542988	Hausa	haus1257	the crocodile or alligator	CROCODILE	1857		kádàa	kádàa 
+260	4-3-98-1	73101839951420610	Hausa	haus1257	the turtle	TURTLE	112		kìfíifíyàa	kìfíifíyàa 
+261	4-4-11-1	73101839173487334	Hausa	haus1257	the body	BODY	1480		jìkíi	jìkíi 
+262	4-4-12-1	73101839638554548	Hausa	haus1257	the skin or hide	SKIN	763		fáatàa	fáatàa 
+263	4-4-13-1	73101839667326087	Hausa	haus1257	the flesh	FLESH	2259		náamàa	náamàa 
+264	4-4-14-1	73101839804358797	Hausa	haus1257	the hair	HAIR (HEAD)	2648		gáashìi	gáashìi 
+265	4-4-142-1	73101839661679371	Hausa	haus1257	the beard	BEARD	678		géemùu	géemùu 
+266	4-4-144-1	73101839188522340	Hausa	haus1257	the body hair	HAIR (BODY)	189		gáashìn jìkíi	gáashìn jìkíi 
+267	4-4-145-1	73101839540116296	Hausa	haus1257	the pubic hair	PUBIC HAIR	36		gáashìn gàbáa	gáashìn gàbáa 
+268	4-4-145-2	73101839894262681	Hausa	haus1257	the pubic hair	PUBIC HAIR	36		záazáa	záazáa 
+269	4-4-146-1	73101839613533779	Hausa	haus1257	the dandruff	DANDRUFF	576		àmóosànín kâi	àmóosànín kâi 
+270	4-4-15-1	73101839217046340	Hausa	haus1257	the blood	BLOOD	946		jíníi	jíníi 
+271	4-4-151-1	73101839708695017	Hausa	haus1257	the vein or artery	BLOOD VESSEL	525		jíijíyàr̃ jíníi	jíijíyàr̃ jíníi 
+272	4-4-16-1	73101839569176349	Hausa	haus1257	the bone	BONE	1394		ƙàshíi	ƙàshíi 
+273	4-4-162-1	73101839917559700	Hausa	haus1257	the rib	RIB	801		hàƙárƙàríi	hàƙárƙàríi 
+274	4-4-17-1	73101839461203644	Hausa	haus1257	the horn	HORN (ANATOMY)	1393		ƙàhóo	ƙàhóo 
+275	4-4-18-1	73101839769420767	Hausa	haus1257	the tail	TAIL	1220		wútsíyàa	wútsíyàa 
+276	4-4-19-1	73101839356515043	Hausa	haus1257	the back	BACK	1291		báayáa	báayáa 
+277	4-4-191-1	73101839536739425	Hausa	haus1257	the spine	SPINE	805		ƙàshín báayáa	ƙàshín báayáa 
+278	4-4-2-1	73101839730890182	Hausa	haus1257	the head	HEAD	1256		kâi	kâi 
+279	4-4-201-1	73101839891261725	Hausa	haus1257	the temples	TEMPLES	1604		kwíɓìi	kwíɓìi 
+280	4-4-202-1	73101839200131488	Hausa	haus1257	the skull	SKULL	1605		kwányáa	kwányáa 
+281	4-4-203-1	73101839316267896	Hausa	haus1257	the brain	BRAIN	1583		ƙwálƙwálwáa	ƙwálƙwálwáa 
+282	4-4-204-1	73101839323693970	Hausa	haus1257	the face	FACE	1560		fúskàa	fúskàa 
+283	4-4-205-1	73101839504264750	Hausa	haus1257	the forehead	FOREHEAD	123		gòoshíi	gòoshíi 
+284	4-4-207-1	73101839724011015	Hausa	haus1257	the jaw	JAW	798		háɓàa	háɓàa 
+285	4-4-208-1	7310183986038668	Hausa	haus1257	the cheek	CHEEK	1730		kúncìi	kúncìi 
+286	4-4-208-2	73101839698281508	Hausa	haus1257	the cheek	CHEEK	1730		kúmàatúu	kúmàatúu 
+287	4-4-209-1	73101839724011015	Hausa	haus1257	the chin	CHIN	1510		háɓàa	háɓàa 
+288	4-4-21-1	7310183953420635	Hausa	haus1257	the eye	EYE	1248		ídòo	ídòo 
+289	4-4-212-1	73101839903595471	Hausa	haus1257	the eyebrow	EYEBROW	1173		gíráa	gíráa 
+290	4-4-213-1	73101839674143669	Hausa	haus1257	the eyelid	EYELID	17		fáatàr̃ ídòo	fáatàr̃ ídòo 
+291	4-4-214-1	73101839195847283	Hausa	haus1257	the eyelash	EYELASH	1540		gáashìn ídòo	gáashìn ídòo 
+292	4-4-215-1	7310183953714898	Hausa	haus1257	to blink	BLINK	1655		ƙíftàa	ƙíftàa 
+293	4-4-22-1	73101839341639459	Hausa	haus1257	the ear	EAR	1247		kûnnée	kûnnée 
+294	4-4-221-1	73101839689128393	Hausa	haus1257	the earlobe	EARLOBE	18		fáatàr̃ kûnnée	fáatàr̃ kûnnée 
+295	4-4-222-1	73101839556853090	Hausa	haus1257	the earwax	EARWAX	32		dáuɗàr̃ kûnnée	dáuɗàr̃ kûnnée 
+296	4-4-23-1	73101839671561824	Hausa	haus1257	the nose	NOSE	1221		háncìi	háncìi 
+297	4-4-231-1	73101839852029457	Hausa	haus1257	the nostril	NOSTRIL	1178		kàfár̃ háncìi	kàfár̃ háncìi 
+298	4-4-232-1	73101839352861875	Hausa	haus1257	the nasal mucus	NASAL MUCUS (SNOT)	208		kàakíi	kàakíi 
+299	4-4-24-1	73101839787120874	Hausa	haus1257	the mouth	MOUTH	674		bàakíi	bàakíi 
+300	4-4-241-1	73101839532495772	Hausa	haus1257	the beak	BEAK	73		bàakín tsúntsúu	bàakín tsúntsúu 
+301	4-4-25-1	73101839890335378	Hausa	haus1257	the lip	LIP	478		léeɓèe	léeɓèe 
+302	4-4-26-1	73101839831428782	Hausa	haus1257	the tongue	TONGUE	1205		hárshèe	hárshèe 
+303	4-4-27-1	73101839517327161	Hausa	haus1257	the tooth	TOOTH	1380		hákóoríi	hákóoríi 
+304	4-4-271-1	73101839912054895	Hausa	haus1257	the gums	GUMS	139		dáasàshíi	dáasàshíi 
+305	4-4-272-1	73101839419144347	Hausa	haus1257	the molar tooth	MOLAR TOOTH	1049		mátáuníi	mátáuníi 
+306	4-4-28-1	73101839928115862	Hausa	haus1257	the neck	NECK	1333		wúyàa	wúyàa 
+307	4-4-281-1	73101839853399176	Hausa	haus1257	the nape of the neck	NAPE (OF NECK)	1347		ƙéeyàa	ƙéeyàa 
+308	4-4-29-1	7310183986334704	Hausa	haus1257	the throat	THROAT	1346		màƙwágwàróo	màƙwágwàróo 
+309	4-4-3-1	73101839691409126	Hausa	haus1257	the shoulder	SHOULDER	1482		kàafáaɗàa	kàafáaɗàa 
+310	4-4-301-1	73101839100367056	Hausa	haus1257	the shoulderblade	SHOULDERBLADE	172		àllón kàafáaɗàa	àllón kàafáaɗàa 
+311	4-4-302-1	73101839924599394	Hausa	haus1257	the collarbone	COLLARBONE	1994		ƙàshín kàafáaɗàa	ƙàshín kàafáaɗàa 
+312	4-4-31-1	73101839915016952	Hausa	haus1257	the arm	ARM	1673		hánnúu	hánnúu 
+313	4-4-312-1	73101839172837069	Hausa	haus1257	the armpit	ARMPIT	1886		hámmàtáa	hámmàtáa 
+314	4-4-32-1	73101839637488114	Hausa	haus1257	the elbow	ELBOW	981		gwíiwàr̃ hánnúu	gwíiwàr̃ hánnúu 
+315	4-4-321-1	73101839998021684	Hausa	haus1257	the wrist	WRIST	799		wúyàn hánnúu	wúyàn hánnúu 
+316	4-4-33-1	73101839915016952	Hausa	haus1257	the hand	HAND	1277		hánnúu	hánnúu 
+317	4-4-331-1	73101839696494219	Hausa	haus1257	the palm of the hand	PALM OF HAND	1183		tàafín hánnúu	tàafín hánnúu 
+318	4-4-34-1	73101839727730071	Hausa	haus1257	the finger	FINGER	1303		yátsàa	yátsàa 
+319	4-4-342-1	73101839180972006	Hausa	haus1257	the thumb	THUMB	1781		bàbbán ɗán yátsàa	bàbbán ɗán yátsàa 
+320	4-4-344-1	73101839353276172	Hausa	haus1257	the fingernail	FINGERNAIL	1258		fárcèe	fárcèe 
+321	4-4-345-1	73101839230333592	Hausa	haus1257	the claw	CLAW	72		ákàifáa	ákàifáa 
+322	4-4-35-1	7310183930114160	Hausa	haus1257	the leg	LEG	1297		ƙáfàa	ƙáfàa 
+323	4-4-351-1	73101839278212902	Hausa	haus1257	the thigh	THIGH	800		cínyàa	cínyàa 
+324	4-4-352-1	7310183919931062	Hausa	haus1257	the calf of the leg	CALF OF LEG	498		ƙwàuríi	ƙwàuríi 
+325	4-4-36-1	73101839991594528	Hausa	haus1257	the knee	KNEE	1371		gwíwàa	gwíwàa 
+326	4-4-37-1	7310183930114160	Hausa	haus1257	the foot	FOOT	1301		ƙáfàa	ƙáfàa 
+327	4-4-371-1	73101839189227745	Hausa	haus1257	the ankle	ANKLE	803		díddígèe	díddígèe 
+328	4-4-372-1	73101839189227745	Hausa	haus1257	the heel	HEEL	980		díddígèe	díddígèe 
+329	4-4-374-1	73101839874890932	Hausa	haus1257	the footprint	FOOTPRINT	318		sáawúu	sáawúu 
+330	4-4-38-1	73101839230333592	Hausa	haus1257	the toe	TOE	1389		ákàifáa	ákàifáa 
+331	4-4-392-1	73101839533394309	Hausa	haus1257	the wing	WING	1257		fíffíkèe	fíffíkèe 
+332	4-4-393-1	73101839804358797	Hausa	haus1257	the feather	FEATHER	1201		gáashìi	gáashìi 
+333	4-4-4-1	73101839916107159	Hausa	haus1257	the chest	CHEST	1592		ƙìrjíi	ƙìrjíi 
+334	4-4-41-1	73101839958161094	Hausa	haus1257	the breast	BREAST	1402		nóonòo	nóonòo 
+335	4-4-412-1	73101839616406159	Hausa	haus1257	the nipple or teat	NIPPLE	796		bàakín màamá	bàakín màamá 
+336	4-4-42-1	73101839845680912	Hausa	haus1257	the udder	UDDER	154		hántsàa	hántsàa 
+337	4-4-43-1	73101839682054160	Hausa	haus1257	the navel	NAVEL	1838		cíibíyàa	cíibíyàa 
+338	4-4-44-1	73101839212121150	Hausa	haus1257	the heart	HEART	1223		zúucìyáa	zúucìyáa 
+339	4-4-441-1	73101839263377241	Hausa	haus1257	the lung	LUNG	688		hùuhúu	hùuhúu 
+340	4-4-45-1	73101839776753437	Hausa	haus1257	the liver	LIVER	1224		hántàa	hántàa 
+341	4-4-451-1	73101839658080559	Hausa	haus1257	the kidney	KIDNEY	489		ƙóodàa	ƙóodàa 
+342	4-4-452-1	73101839894877578	Hausa	haus1257	the spleen	SPLEEN	1744		sáifàa	sáifàa 
+343	4-4-46-1	73101839961131639	Hausa	haus1257	the stomach	STOMACH	819		tùmbíi	tùmbíi 
+344	4-4-461-1	7310183930796327	Hausa	haus1257	the intestines or guts	INTESTINES	1991		hánjíi	hánjíi 
+345	4-4-462-1	731018395703345	Hausa	haus1257	the waist	WAIST	1681		tsátsòo	tsátsòo 
+346	4-4-463-1	73101839907768162	Hausa	haus1257	the hip	HIP	1745		gìndíi	gìndíi 
+347	4-4-463-2	73101839278212902	Hausa	haus1257	the hip	HIP	1745		cínyàa	cínyàa 
+348	4-4-464-1	73101839985138622	Hausa	haus1257	the buttocks	BUTTOCKS	834		ɗúwàawúu	ɗúwàawúu 
+349	4-4-47-1	73101839180888602	Hausa	haus1257	the womb	WOMB	804		máháifáa	máháifáa 
+350	4-4-49-1	73101839887814525	Hausa	haus1257	the testicles	TESTICLES	797		góolóo	góolóo 
+351	4-4-492-1	73101839901869452	Hausa	haus1257	the penis	PENIS	1222		bùuráa	bùuráa 
+352	4-4-492-2	73101839240589605	Hausa	haus1257	the penis	PENIS	1222		àzzákàr̃íi	àzzákàr̃íi 
+353	4-4-51-1	73101839946136474	Hausa	haus1257	to breathe	BREATHE	1407		yí númfáashíi	yí númfáashíi 
+354	4-4-52-1	73101839760829070	Hausa	haus1257	to yawn	YAWN	1028		yí hámmàa	yí hámmàa 
+355	4-4-521-1	73101839495744541	Hausa	haus1257	to hiccough	HICCOUGH	162		yí sháƙúwàa	yí sháƙúwàa 
+356	4-4-53-1	73101839827355619	Hausa	haus1257	to cough	COUGH	879		yí tàaríi	yí tàaríi 
+357	4-4-54-1	73101839918793798	Hausa	haus1257	to sneeze	SNEEZE	1621		yí átìsháa	yí átìsháa 
+358	4-4-55-1	73101839498388146	Hausa	haus1257	to perspire	SWEAT (PERSPIRE)	126		yí gùmíi	yí gùmíi 
+359	4-4-55-2	73101839660310847	Hausa	haus1257	to perspire	SWEAT (PERSPIRE)	126		yí jìɓíi	yí jìɓíi 
+360	4-4-55-3	73101839250476831	Hausa	haus1257	to perspire	SWEAT (PERSPIRE)	126		yí zúfàa	yí zúfàa 
+361	4-4-56-1	73101839140491468	Hausa	haus1257	to spit	SPIT	1440		tóofàa	tóofàa 
+362	4-4-57-1	73101839188606338	Hausa	haus1257	to vomit	VOMIT	1278		yí ámái	yí ámái 
+363	4-4-58-1	73101839614852642	Hausa	haus1257	to bite	BITE	1403		cìizáa	cìizáa 
+364	4-4-59-1	73101839909708923	Hausa	haus1257	to lick	LICK	319		làasáa	làasáa 
+365	4-4-591-1	73101839735079783	Hausa	haus1257	to dribble	DRIBBLE	268		dàláalà	dàláalà 
+366	4-4-61-1	73101839632915048	Hausa	haus1257	to sleep	SLEEP	1585		yí bárcíi	yí bárcíi 
+367	4-4-612-1	73101839664252229	Hausa	haus1257	to snore	SNORE	1983		yí mínsháaríi	yí mínsháaríi 
+368	4-4-612-2	73101839887892656	Hausa	haus1257	to snore	SNORE	1983		yí káakáaríi	yí káakáaríi 
+369	4-4-62-1	73101839171117606	Hausa	haus1257	to dream	DREAM (SOMETHING)	1920		yí máfár̃kíi	yí máfár̃kíi 
+370	4-4-63-1	73101839722257349	Hausa	haus1257	to wake up	WAKE UP	1602		fár̃kàa	fár̃kàa 
+371	4-4-64-1	73101839289552866	Hausa	haus1257	to fart	FART	1159		yí túusàa	yí túusàa 
+372	4-4-65-1	73101839298631492	Hausa	haus1257	to piss	PISS	592		yí físáaríi	yí físáaríi 
+373	4-4-66-1	73101839908132594	Hausa	haus1257	to shit	SHIT (DEFECATE)	676		yí káashíi	yí káashíi 
+374	4-4-67-1	73101839927805877	Hausa	haus1257	to have sex	HAVE SEX	1785		kwántàa dà màcè	kwántàa dà màcè 
+375	4-4-67-2	73101839102246858	Hausa	haus1257	to have sex	HAVE SEX	1785		cí màcè	cí màcè 
+376	4-4-67-3	73101839947352366	Hausa	haus1257	to have sex	HAVE SEX	1785		yí jìmmáa'ìi	yí jìmmáa'ìi 
+377	4-4-67-4	7310183922481653	Hausa	haus1257	to have sex	HAVE SEX	1785		yí sàadúwáa	yí sàadúwáa 
+378	4-4-68-1	73101839116379033	Hausa	haus1257	to shiver	SHIVER	52		yí kár̃kár̃wàa	yí kár̃kár̃wàa 
+379	4-4-68-2	73101839334306682	Hausa	haus1257	to shiver	SHIVER	52		yí kyár̃máa	yí kyár̃máa 
+380	4-4-69-1	73101839338117078	Hausa	haus1257	to bathe	BATHE	138		yí wánkáa	yí wánkáa 
+381	4-4-71-1	73101839347454257	Hausa	haus1257	to beget	BEGET	1152		hàifáa	hàifáa 
+382	4-4-72-1	73101839347454257	Hausa	haus1257	to be born	BE BORN	1090		hàifáa	hàifáa 
+383	4-4-73-1	7310183985983650	Hausa	haus1257	pregnant	PREGNANT	1123		dà cíkìi	dà cíkìi 
+384	4-4-732-1	73101839218462224	Hausa	haus1257	to conceive	CONCEIVE	1087		ɗáu cíkìi	ɗáu cíkìi 
+385	4-4-74-1	73101839274657142	Hausa	haus1257	to be alive	BE ALIVE	1422		dà râi	dà râi 
+386	4-4-75-1	73101839434307825	Hausa	haus1257	to die	DIE	1494		mútù	mútù 
+387	4-4-751-1	73101839220186511	Hausa	haus1257	to drown	DROWN	1904		cîn rúwáa	cîn rúwáa 
+388	4-4-751-2	73101839198144352	Hausa	haus1257	to drown	DROWN	1904		nítsèe	nítsèe 
+389	4-4-76-1	73101839389740842	Hausa	haus1257	to kill	KILL	1417		káshèe	káshèe 
+390	4-4-77-1	73101839206748535	Hausa	haus1257	the corpse	CORPSE	767		gáawáa	gáawáa 
+391	4-4-78-1	7310183969784090	Hausa	haus1257	to bury	BURY	1719		bínnèe	bínnèe 
+392	4-4-79-1	73101839895318444	Hausa	haus1257	the grave	GRAVE	1773		kábàr̃íi	kábàr̃íi 
+393	4-4-81-1	73101839126025224	Hausa	haus1257	strong	STRONG	785		mài ƙárfíi	mài ƙárfíi 
+394	4-4-82-1	73101839279671681	Hausa	haus1257	weak	WEAK	1601		rágóo	rágóo 
+395	4-4-83-1	73101839559954435	Hausa	haus1257	healthy	HEALTHY	1364		mài láafíyàa	mài láafíyàa 
+396	4-4-84-1	73101839832770276	Hausa	haus1257	sick/ill	SICK	1847		máràs láafíyàa	máràs láafíyàa 
+397	4-4-841-1	73101839329620271	Hausa	haus1257	the fever	FEVER	1534		zàzzàɓíi	zàzzàɓíi 
+398	4-4-842-1	73101839534844708	Hausa	haus1257	the goitre/goiter	GOITER	1957		màƙóoƙòo	màƙóoƙòo 
+399	4-4-843-1	73101839408200018	Hausa	haus1257	the cold	COMMON COLD (DISEASE)	102		múr̃àa	múr̃àa 
+400	4-4-85-1	73101839117190134	Hausa	haus1257	the wound or sore	WOUND	1109		ràuníi	ràuníi 
+401	4-4-85-2	73101839255942664	Hausa	haus1257	the wound or sore	WOUND	1109		ƙúrjíi	ƙúrjíi 
+402	4-4-852-1	73101839776570559	Hausa	haus1257	the bruise	BRUISE	1148		kúujèe	kúujèe 
+403	4-4-853-1	73101839265900612	Hausa	haus1257	the swelling	SWELLING	1903		kùmbúríi	kùmbúríi 
+404	4-4-854-1	73101839406994814	Hausa	haus1257	the itch	ITCH	148		ƙàiƙàyíi	ƙàiƙàyíi 
+405	4-4-855-1	73101839255942664	Hausa	haus1257	the blister	BLISTER	1584		ƙúrjíi	ƙúrjíi 
+406	4-4-856-1	73101839159022643	Hausa	haus1257	the boil	BOIL (OF SKIN)	793		màarúurùu	màarúurùu 
+407	4-4-857-1	73101839786665808	Hausa	haus1257	the pus	PUS	1808		múgúnyàa	múgúnyàa 
+408	4-4-858-1	73101839974807115	Hausa	haus1257	the scar	SCAR	497		tábòo	tábòo 
+409	4-4-86-1	73101839618196911	Hausa	haus1257	to cure	CURE	499		wárkèe	wárkèe 
+410	4-4-87-1	73101839953902863	Hausa	haus1257	the physician	PHYSICIAN	597		líkítà	líkítà 
+411	4-4-88-1	73101839679344026	Hausa	haus1257	the medicine	MEDICINE	1372		máagàníi	máagàníi 
+412	4-4-89-1	73101839211748825	Hausa	haus1257	the poison	POISON	655		gúbàa	gúbàa 
+413	4-4-91-1	73101839210196695	Hausa	haus1257	tired	TIRED	1757		gàjí	gàjí 
+414	4-4-912-1	73101839611433549	Hausa	haus1257	to rest	REST	168		húutàa	húutàa 
+415	4-4-92-1	73101839834634522	Hausa	haus1257	lazy	LAZY	1564		málàalàcíi	málàalàcíi 
+416	4-4-92-2	73101839279671681	Hausa	haus1257	lazy	LAZY	1564		rágóo	rágóo 
+417	4-4-93-1	7310183988492292	Hausa	haus1257	bald	BALD	1125		mài sánƙóo	mài sánƙóo 
+418	4-4-94-1	73101839298066821	Hausa	haus1257	lame	LAME	320		gúrgùu	gúrgùu 
+419	4-4-95-1	73101839163321366	Hausa	haus1257	deaf	DEAF	996		béebée	béebée 
+420	4-4-95-2	73101839423062476	Hausa	haus1257	deaf	DEAF	996		kúrmáa	kúrmáa 
+421	4-4-96-1	73101839423062476	Hausa	haus1257	mute	MUTE	1666		kúrmáa	kúrmáa 
+422	4-4-97-1	73101839217381720	Hausa	haus1257	blind	BLIND	1653		màkáafòo	màkáafòo 
+423	4-4-98-1	73101839643871401	Hausa	haus1257	drunk	DRUNK	1463		bùgú	bùgú 
+424	4-4-99-1	7310183918773753	Hausa	haus1257	naked	NAKED	590		ɓútúk	ɓútúk 
+425	4-4-99-2	73101839976510049	Hausa	haus1257	naked	NAKED	590		tsiráaràa	tsiráaràa 
+426	4-5-11-1	73101839787384591	Hausa	haus1257	to eat	EAT	1336		cí	cí 
+427	4-5-12-1	73101839899148356	Hausa	haus1257	the food	FOOD	256		àbíncí	àbíncí 
+428	4-5-121-1	73101839125193877	Hausa	haus1257	cooked	COOKED	269		dàfáffée	dàfáffée 
+429	4-5-122-1	73101839557854305	Hausa	haus1257	raw	RAW	1959		ɗányée	ɗányée 
+430	4-5-123-1	73101839373786073	Hausa	haus1257	ripe	RIPE	178		nùuná	nùuná 
+431	4-5-124-1	73101839557854305	Hausa	haus1257	unripe	UNRIPE	1958		ɗányée	ɗányée 
+432	4-5-125-1	73101839905300629	Hausa	haus1257	rotten	ROTTEN	1728		rúɓèe	rúɓèe 
+433	4-5-13-1	73101839666514734	Hausa	haus1257	to drink	DRINK	1401		sháa	sháa 
+434	4-5-14-1	73101839995453062	Hausa	haus1257	to be hungry	BE HUNGRY	1533		jí yúnwàa	jí yúnwàa 
+435	4-5-141-1	73101839330406526	Hausa	haus1257	the famine	FAMINE	199		bàláa'ìn yúnwàa	bàláa'ìn yúnwàa 
+436	4-5-15-1	73101839612213416	Hausa	haus1257	to be thirsty	THIRSTY	847		jí ƙíshírwáa	jí ƙíshírwáa 
+437	4-5-16-1	73101839822125	Hausa	haus1257	to suck	SUCK	1421		láasàa	láasàa 
+438	4-5-16-2	7310183931751869	Hausa	haus1257	to suck	SUCK	1421		tsóotsàa	tsóotsàa 
+439	4-5-18-1	73101839898154556	Hausa	haus1257	to chew	CHEW	321		táunàa	táunàa 
+440	4-5-181-1	73101839758825831	Hausa	haus1257	to swallow	SWALLOW	897		háɗèe	háɗèe 
+441	4-5-19-1	73101839322811538	Hausa	haus1257	to choke	CHOKE	129		ƙwàrú	ƙwàrú 
+442	4-5-21-1	73101839332152837	Hausa	haus1257	to cook	COOK (SOMETHING)	1100		dáfàa	dáfàa 
+443	4-5-22-1	73101839426437303	Hausa	haus1257	to boil	BOIL (OF LIQUID)	792		tàfásà	tàfásà 
+444	4-5-23-1	7310183948558427	Hausa	haus1257	to roast or fry	ROAST OR FRY	2146		gásàa	gásàa 
+445	4-5-24-1	7310183948558427	Hausa	haus1257	to bake	BAKE	183		gásàa	gásàa 
+446	4-5-25-1	73101839644293968	Hausa	haus1257	the oven	OVEN	1143		húur̃ùu	húur̃ùu 
+447	4-5-25-2	73101839583601383	Hausa	haus1257	the oven	OVEN	1143		óobìn	óobìn 
+448	4-5-26-1	73101839909979530	Hausa	haus1257	the pot	POT	1462		túkúnyáa	túkúnyáa 
+449	4-5-27-1	73101839224766589	Hausa	haus1257	the kettle	KETTLE	854		sàkáanìi	sàkáanìi 
+450	4-5-28-1	73101839765037255	Hausa	haus1257	the pan	PAN	31		kwáanòo	kwáanòo 
+451	4-5-31-1	73101839399412798	Hausa	haus1257	the dish	DISH	481		táasàa	táasàa 
+452	4-5-32-1	73101839399412798	Hausa	haus1257	the plate	PLATE	480		táasàa	táasàa 
+453	4-5-33-1	73101839765037255	Hausa	haus1257	the bowl	BOWL	1530		kwáanòo	kwáanòo 
+454	4-5-33-2	73101839696326472	Hausa	haus1257	the bowl	BOWL	1530		ákùushíi	ákùushíi 
+455	4-5-33-3	73101839533814408	Hausa	haus1257	the bowl	BOWL	1530		búkúr̃úu	búkúr̃úu 
+456	4-5-34-1	73101839343790196	Hausa	haus1257	the jug/pitcher	JUG	270		tùulúu	tùulúu 
+457	4-5-35-1	73101839163897343	Hausa	haus1257	the cup	CUP	476		móodáa	móodáa 
+458	4-5-35-2	73101839860131162	Hausa	haus1257	the cup	CUP	476		kwâf	kwâf 
+459	4-5-36-1	73101839399412798	Hausa	haus1257	the saucer	SAUCER	271		táasàa	táasàa 
+460	4-5-37-1	73101839740669309	Hausa	haus1257	the spoon	SPOON	1378		ƙòoshíyàa	ƙòoshíyàa 
+461	4-5-37-2	73101839630778278	Hausa	haus1257	the spoon	SPOON	1378		cóokàlíi	cóokàlíi 
+462	4-5-38-1	73101839520996981	Hausa	haus1257	the knife(1)	KNIFE (FOR EATING)	3210		wúƙáa	wúƙáa 
+463	4-5-39-1	73101839100454908	Hausa	haus1257	the fork	FORK	1302		cóokàlíi mài yáatsàa	cóokàlíi mài yáatsàa 
+464	4-5-39-2	73101839597198044	Hausa	haus1257	the fork	FORK	1302		fôk	fôk 
+465	4-5-39-3	73101839474105527	Hausa	haus1257	the fork	FORK	1302		kùr̃shêt	kùr̃shêt 
+466	4-5-39-4	73101839812807753	Hausa	haus1257	the fork	FORK	1302		hùr̃shéetìi	hùr̃shéetìi 
+467	4-5-391-1	73101839253273024	Hausa	haus1257	the tongs	TONGS	272		hàntsákíi	hàntsákíi 
+468	4-5-41-1	73101839899148356	Hausa	haus1257	the meal	MEAL	1526		àbíncí	àbíncí 
+469	4-5-41-2	73101839558776213	Hausa	haus1257	the meal	MEAL	1526		túwóo	túwóo 
+470	4-5-42-1	73101839103632763	Hausa	haus1257	the breakfast	BREAKFAST	1322		kárìn kùmállóo	kárìn kùmállóo 
+471	4-5-43-1	73101839118236725	Hausa	haus1257	the lunch	LUNCH	768		àbíncín ráanáa	àbíncín ráanáa 
+472	4-5-44-1	73101839891094118	Hausa	haus1257	the dinner	DINNER (SUPPER)	1833		àbíncín dárée	àbíncín dárée 
+473	4-5-45-1	73101839380803234	Hausa	haus1257	the supper	DINNER (SUPPER)	1833		àbíncín yâmmáa	àbíncín yâmmáa 
+474	4-5-46-1	73101839224918225	Hausa	haus1257	to peel	PEEL	275		ɓáarèe	ɓáarèe 
+475	4-5-47-1	73101839179753937	Hausa	haus1257	to sieve or to strain	SIEVE	86		ráaríyáa	ráaríyáa 
+476	4-5-47-2	73101839173006651	Hausa	haus1257	to sieve or to strain	SIEVE	86		tánkàɗáa	tánkàɗáa 
+477	4-5-48-1	73101839499860123	Hausa	haus1257	to scrape	SCRAPE	1767		kár̃tàa	kár̃tàa 
+478	4-5-49-1	73101839670604381	Hausa	haus1257	to stir or to mix	MIX	2017		dáamàa	dáamàa 
+479	4-5-49-2	73101839100258498	Hausa	haus1257	to stir or to mix	MIX	2017		cáakùɗáa	cáakùɗáa 
+480	4-5-49-3	73101839668043828	Hausa	haus1257	to stir or to mix	MIX	2017		yáamùtsée	yáamùtsée 
+481	4-5-51-1	73101839436973547	Hausa	haus1257	the bread	BREAD	1368		búr̃óodìi	búr̃óodìi 
+482	4-5-53-1	731018393281550	Hausa	haus1257	the dough	DOUGH	273		ƙùllúu	ƙùllúu 
+483	4-5-54-1	73101839163826162	Hausa	haus1257	to knead	KNEAD	274		cúuɗàa	cúuɗàa 
+484	4-5-54-2	73101839312169397	Hausa	haus1257	to knead	KNEAD	274		múlmùláa	múlmùláa 
+485	4-5-55-1	73101839855710766	Hausa	haus1257	the flour	FLOUR	1594		gàaríi	gàaríi 
+486	4-5-56-1	731018397112117	Hausa	haus1257	to crush or to grind	GRIND	1033		dákàa	dákàa 
+487	4-5-56-2	73101839172607812	Hausa	haus1257	to crush or to grind	GRIND	1033		níƙàa	níƙàa 
+488	4-5-57-1	73101839502923643	Hausa	haus1257	the mill	MILL	636		má'áikátáa	má'áikátáa 
+489	4-5-57-2	73101839307945738	Hausa	haus1257	the mill	MILL	636		ínjìn níƙàa	ínjìn níƙàa 
+490	4-5-58-1	73101839144264033	Hausa	haus1257	the mortar(1)	MORTAR CRUSHER	224		túrmíi	túrmíi 
+491	4-5-59-1	73101839626481849	Hausa	haus1257	the pestle	PESTLE	225		táɓáryáa	táɓáryáa 
+492	4-5-61-1	73101839667326087	Hausa	haus1257	the meat	MEAT	634		náamàa	náamàa 
+493	4-5-64-1	73101839514203717	Hausa	haus1257	the soup	SOUP	1547		róomóo	róomóo 
+494	4-5-65-1	7310183991603375	Hausa	haus1257	the vegetables	VEGETABLES	924		káayán làmbúu	káayán làmbúu 
+495	4-5-66-1	73101839346347191	Hausa	haus1257	the bean	BEAN	832		wáakée	wáakée 
+496	4-5-7-1	73101839502765361	Hausa	haus1257	the potato	POTATO	593		dànkálìn násáar̃áa	dànkálìn násáar̃áa 
+497	4-5-71-1	73101839304944242	Hausa	haus1257	the fruit	FRUIT	1507		’yár̃ ítàacée	’yár̃ ítàacée 
+498	4-5-712-1	73101839535914776	Hausa	haus1257	the bunch	BUNCH	1966		ɗáurìi	ɗáurìi 
+499	4-5-75-1	73101839258730651	Hausa	haus1257	the fig	FIG	322		ɓáurée	ɓáurée 
+500	4-5-76-1	73101839442729310	Hausa	haus1257	the grape	GRAPE	920		ínàbíi	ínàbíi 
+501	4-5-77-1	73101839138325648	Hausa	haus1257	the nut	NUT	191		ƙwàayáa	ƙwàayáa 
+502	4-5-78-1	73101839655691424	Hausa	haus1257	the olive	OLIVE	1154		zàitúunìi	zàitúunìi 
+503	4-5-79-1	73101839219538989	Hausa	haus1257	the oil	OIL (ORGANIC SUBSTANCE)	1484		mâi	mâi 
+504	4-5-791-1	7310183979164952	Hausa	haus1257	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		máiƙòo	máiƙòo 
+505	4-5-81-1	73101839971536570	Hausa	haus1257	the salt	SALT	1274		gíshíríi	gíshíríi 
+506	4-5-82-1	7310183915606375	Hausa	haus1257	the pepper	PEPPER	1385		màsóor̃óo	màsóor̃óo 
+507	4-5-821-1	73101839687522870	Hausa	haus1257	the chili pepper	CHILI PEPPER	919		bàr̃kònóo	bàr̃kònóo 
+508	4-5-84-1	73101839376423334	Hausa	haus1257	the honey	HONEY	942		zúmàa	zúmàa 
+509	4-5-85-1	73101839883870316	Hausa	haus1257	the sugar	SUGAR	862		súkàr̃íi	súkàr̃íi 
+510	4-5-86-1	73101839958161094	Hausa	haus1257	the milk	MILK	635		nóonòo	nóonòo 
+511	4-5-87-1	73101839110268991	Hausa	haus1257	to milk	DRAW MILK	93		tàatsáa	tàatsáa 
+512	4-5-88-1	73101839117039247	Hausa	haus1257	the cheese	CHEESE	1569		cúkúu	cúkúu 
+513	4-5-89-1	73101839593299625	Hausa	haus1257	the butter	BUTTER	1245		mân sháanúu	mân sháanúu 
+514	4-5-9-1	73101839335733059	Hausa	haus1257	the drink	BEVERAGE	731		àbín shâa	àbín shâa 
+515	4-5-92-1	73101839833735402	Hausa	haus1257	the wine	WINE	1524		gíyàa	gíyàa 
+516	4-5-92-2	73101839442729310	Hausa	haus1257	the wine	WINE	1524		ínàbíi	ínàbíi 
+517	4-5-93-1	73101839833735402	Hausa	haus1257	the beer	BEER	1639		gíyàa	gíyàa 
+518	4-5-93-2	73101839277168523	Hausa	haus1257	the beer	BEER	1639		bùr̃kùtù	bùr̃kùtù 
+519	4-5-97-1	73101839273064371	Hausa	haus1257	the egg	EGG	744		ƙwái	ƙwái 
+520	4-5-971-1	73101839533944792	Hausa	haus1257	the yolk	YOLK	1556		ƙwándùwáa	ƙwándùwáa 
+521	4-6-11-1	73101839959917659	Hausa	haus1257	to put on	PUT ON	158		sâa (2)	sâa (2) 
+522	4-6-12-1	73101839454054907	Hausa	haus1257	the clothing or clothes	CLOTHES	1895		túfáafìi	túfáafìi 
+523	4-6-13-1	73101839937330929	Hausa	haus1257	the tailor	TAILOR	881		máɗìnkíi	máɗìnkíi 
+524	4-6-13-2	73101839888988857	Hausa	haus1257	the tailor	TAILOR	881		téelà	téelà 
+525	4-6-21-1	73101839449939100	Hausa	haus1257	the cloth	CLOTH	1616		yáadìi	yáadìi 
+526	4-6-21-2	73101839405362349	Hausa	haus1257	the cloth	CLOTH	1616		tìsî	tìsî 
+527	4-6-22-1	73101839417972831	Hausa	haus1257	the wool	WOOL	964		úulù	úulù 
+528	4-6-23-1	73101839374991679	Hausa	haus1257	the linen	LINEN	916		lílìn	lílìn 
+529	4-6-24-1	73101839293999519	Hausa	haus1257	the cotton	COTTON	1850		áudùgáa	áudùgáa 
+530	4-6-25-1	73101839585734639	Hausa	haus1257	the silk	SILK	1641		sìlíkìi	sìlíkìi 
+531	4-6-25-2	73101839983155330	Hausa	haus1257	the silk	SILK	1641		àlhàr̃íníi	àlhàr̃íníi 
+532	4-6-28-1	73101839638554548	Hausa	haus1257	the fur	FUR	580		fáatàa	fáatàa 
+533	4-6-29-1	73101839638554548	Hausa	haus1257	the leather	LEATHER	629		fáatàa	fáatàa 
+534	4-6-31-1	731018398635092	Hausa	haus1257	to spin	SPIN	121		káɗàa	káɗàa 
+535	4-6-32-1	73101839870464336	Hausa	haus1257	the spindle	SPINDLE	277		kwárkwáróo	kwárkwáróo 
+536	4-6-32-2	73101839153902273	Hausa	haus1257	the spindle	SPINDLE	277		mázáríi	mázáríi 
+537	4-6-33-1	73101839751024929	Hausa	haus1257	to weave	WEAVE	133		sáaƙàa	sáaƙàa 
+538	4-6-34-1	73101839751024929	Hausa	haus1257	the loom	LOOM	1787		sáaƙàa	sáaƙàa 
+539	4-6-35-1	73101839280895761	Hausa	haus1257	to sew	SEW	1457		ɗínkàa	ɗínkàa 
+540	4-6-36-1	73101839355725103	Hausa	haus1257	the needle(1)	NEEDLE (FOR SEWING)	1382		àllúur̃àa	àllúur̃àa 
+541	4-6-37-1	73101839435033087	Hausa	haus1257	the awl	AWL	278		bàsílláa	bàsílláa 
+542	4-6-37-2	73101839514204675	Hausa	haus1257	the awl	AWL	278		tásúbálà	tásúbálà 
+543	4-6-38-1	73101839513387515	Hausa	haus1257	the thread	THREAD	1161		zàrée	zàrée 
+544	4-6-39-1	73101839883970883	Hausa	haus1257	to dye	DYE	157		rínàa	rínàa 
+545	4-6-41-1	73101839142969443	Hausa	haus1257	the cloak	CLOAK	326		àlkyábbàa	àlkyábbàa 
+546	4-7-37-1	73101839328403644	Hausa	haus1257	the ladder	LADDER	1464		kwàr̃ángáa	kwàr̃ángáa 
+547	4-6-42-1	73101839564142964	Hausa	haus1257	the (woman's) dress	DRESS	474		rìigár̃ máatáa	rìigár̃ máatáa 
+548	4-6-42-2	73101839972050019	Hausa	haus1257	the (woman's) dress	DRESS	474		r̃ôb	r̃ôb 
+549	4-6-43-1	73101839774703017	Hausa	haus1257	the coat	COAT	603		kwât	kwât 
+550	4-6-43-2	73101839637878195	Hausa	haus1257	the coat	COAT	603		màntôo	màntôo 
+551	4-6-44-1	73101839895920169	Hausa	haus1257	the shirt	SHIRT	1622		tágúwàa	tágúwàa 
+552	4-6-44-2	73101839365327376	Hausa	haus1257	the shirt	SHIRT	1622		shât	shât 
+553	4-6-44-3	73101839280208928	Hausa	haus1257	the shirt	SHIRT	1622		'yár̃ cíkìi	'yár̃ cíkìi 
+554	4-6-45-1	73101839827435247	Hausa	haus1257	the collar	COLLAR	2012		kwálàa	kwálàa 
+555	4-6-45-2	73101839400035981	Hausa	haus1257	the collar	COLLAR	2012		kwâl	kwâl 
+556	4-6-46-1	73101839854852408	Hausa	haus1257	the skirt	SKIRT	1600		tòofíi	tòofíi 
+557	4-6-46-2	73101839694001762	Hausa	haus1257	the skirt	SKIRT	1600		sìkêt	sìkêt 
+558	4-6-46-3	73101839152356921	Hausa	haus1257	the skirt	SKIRT	1600		jîp	jîp 
+559	4-6-46-4	73101839377726986	Hausa	haus1257	the skirt	SKIRT	1600		fàatàaríi	fàatàaríi 
+560	4-6-461-1	73101839587775083	Hausa	haus1257	the grass-skirt	GRASS-SKIRT	328		bàntée	bàntée 
+561	4-6-48-1	73101839377653831	Hausa	haus1257	the trousers	TROUSERS	809		wàndóo	wàndóo 
+562	4-6-49-1	73101839698660036	Hausa	haus1257	the sock or stocking	STOCKING	329		sóocì	sóocì 
+563	4-6-49-2	73101839948018107	Hausa	haus1257	the sock or stocking	STOCKING	329		sàafáa	sàafáa 
+564	4-6-51-1	7310183916951376	Hausa	haus1257	the shoe	SHOE	1381		tàakàlmíi	tàakàlmíi 
+565	4-6-52-1	73101839988689498	Hausa	haus1257	the boot	BOOT	585		bóotìi	bóotìi 
+566	4-6-52-2	73101839862156525	Hausa	haus1257	the boot	BOOT	585		bût	bût 
+567	4-6-54-1	73101839831524053	Hausa	haus1257	the shoemaker	SHOEMAKER	875		bàdúukùu	bàdúukùu 
+568	4-6-54-2	73101839316972454	Hausa	haus1257	the shoemaker	SHOEMAKER	875		shûuméekàa	shûuméekàa 
+569	4-6-55-1	73101839162838261	Hausa	haus1257	the hat or cap	HEADGEAR	2130		hùuláa	hùuláa 
+570	4-6-55-2	73101839918553569	Hausa	haus1257	the hat or cap	HEADGEAR	2130		màlàfáa	màlàfáa 
+571	4-6-57-1	73101839958718521	Hausa	haus1257	the belt	BELT	772		ɗàmáràa	ɗàmáràa 
+572	4-6-57-2	73101839949336572	Hausa	haus1257	the belt	BELT	772		bêl	bêl 
+573	4-6-59-1	73101839714217271	Hausa	haus1257	the veil	VEIL	1151		hìjáabìi	hìjáabìi 
+574	4-6-61-1	73101839890748027	Hausa	haus1257	the pocket	POCKET	1851		àljíhúu	àljíhúu 
+575	4-6-62-1	73101839476834037	Hausa	haus1257	the button	BUTTON	757		máɓállíi	máɓállíi 
+576	4-6-62-2	73101839589991684	Hausa	haus1257	the button	BUTTON	757		bùtôo	bùtôo 
+577	4-6-62-3	73101839678572776	Hausa	haus1257	the button	BUTTON	757		àníiníi	àníiníi 
+578	4-6-62-4	73101839721154773	Hausa	haus1257	the button	BUTTON	757		bóotìn	bóotìn 
+579	4-6-63-1	73101839476648753	Hausa	haus1257	the pin	PIN	64		fîn	fîn 
+580	4-6-71-1	73101839877451625	Hausa	haus1257	the ornament or adornment	ORNAMENT	917		ƙwállìyáa	ƙwállìyáa 
+581	4-6-71-2	73101839608888593	Hausa	haus1257	the ornament or adornment	ORNAMENT	917		ádóo	ádóo 
+582	4-6-72-1	73101839740746409	Hausa	haus1257	the jewel	JEWEL	1029		dúutsèn wúyàa	dúutsèn wúyàa 
+583	4-6-73-1	73101839899667968	Hausa	haus1257	the ring	RING	1374		zóobèe	zóobèe 
+584	4-6-74-1	73101839184488596	Hausa	haus1257	the bracelet	BRACELET	1754		múndúwáa	múndúwáa 
+585	4-6-74-2	73101839220164690	Hausa	haus1257	the bracelet	BRACELET	1754		wáráwáróo	wáráwáróo 
+586	4-6-74-3	73101839580286626	Hausa	haus1257	the bracelet	BRACELET	1754		àbín hánnùu	àbín hánnùu 
+587	4-6-75-1	73101839557353016	Hausa	haus1257	the necklace	NECKLACE	1961		'yár̃ wúyàa	'yár̃ wúyàa 
+588	4-6-76-1	73101839506660634	Hausa	haus1257	the bead	BEAD	1860		dúutsèn ádòo	dúutsèn ádòo 
+589	4-6-77-1	7310183926461510	Hausa	haus1257	the earring	EARRING	770		yàríi	yàríi 
+590	4-6-77-2	73101839260291610	Hausa	haus1257	the earring	EARRING	770		'yán kúnnée	'yán kúnnée 
+591	4-6-79-1	73101839699511346	Hausa	haus1257	the tattoo	TATTOO	68		shâusháawàa	shâusháawàa 
+592	4-6-79-2	73101839370551109	Hausa	haus1257	the tattoo	TATTOO	68		tsàagáa	tsàagáa 
+593	4-6-79-3	73101839264291641	Hausa	haus1257	the tattoo	TATTOO	68		jàr̃fáa	jàr̃fáa 
+594	4-6-81-1	73101839966235933	Hausa	haus1257	the handkerchief or rag	RAG	332		máyáaníi	máyáaníi 
+595	4-6-81-2	73101839422863755	Hausa	haus1257	the handkerchief or rag	RAG	332		hánkícì	hánkícì 
+596	4-6-81-3	73101839576122041	Hausa	haus1257	the handkerchief or rag	RAG	332		múshúwàr̃íi	múshúwàr̃íi 
+597	4-6-81-4	7310183911528189	Hausa	haus1257	the handkerchief or rag	RAG	332		tsûmmáa	tsûmmáa 
+598	4-6-82-1	73101839824632068	Hausa	haus1257	the towel	TOWEL	1021		táawùl	táawùl 
+599	4-6-82-2	73101839581054058	Hausa	haus1257	the towel	TOWEL	1021		sàr̃béetì	sàr̃béetì 
+600	4-6-91-1	73101839761659526	Hausa	haus1257	the comb	COMB	1475		mátséefíi	mátséefíi 
+601	4-6-91-2	73101839368057240	Hausa	haus1257	the comb	COMB	1475		másár̃cíi	másár̃cíi 
+602	4-6-91-3	73101839361028528	Hausa	haus1257	the comb	COMB	1475		kûm	kûm 
+603	4-6-91-4	73101839159354168	Hausa	haus1257	the comb	COMB	1475		fénnì	fénnì 
+604	4-6-92-1	731018394034420	Hausa	haus1257	the brush	BRUSH	1821		bùr̃óoshìi	bùr̃óoshìi 
+605	4-6-92-2	73101839375951622	Hausa	haus1257	the brush	BRUSH	1821		mágóogíi	mágóogíi 
+606	4-6-921-1	73101839459183715	Hausa	haus1257	the plait/braid	BRAID	1043		kitsèe	kitsèe 
+607	4-6-93-1	73101839862346680	Hausa	haus1257	the razor	RAZOR	151		áskáa	áskáa 
+608	4-6-93-2	73101839901431797	Hausa	haus1257	the razor	RAZOR	151		r̃éezàa	r̃éezàa 
+609	4-6-94-1	73101839219538989	Hausa	haus1257	the ointment	OINTMENT	1926		mâi	mâi 
+610	4-6-95-1	73101839223143709	Hausa	haus1257	the soap	SOAP	788		sàabúlìi	sàabúlìi 
+611	4-6-96-1	73101839896838537	Hausa	haus1257	the mirror	MIRROR	1171		mádúubíi	mádúubíi 
+612	4-7-11-1	73101839463745989	Hausa	haus1257	to live	DWELL (LIVE, RESIDE)	363		zámá	zámá 
+613	4-7-12-1	73101839397575479	Hausa	haus1257	the house	HOUSE	1252		gídáa	gídáa 
+614	4-7-13-1	73101839703431208	Hausa	haus1257	the hut	HUT	1678		ɗáakìi	ɗáakìi 
+615	4-7-14-1	73101839101291566	Hausa	haus1257	the tent	TENT	1316		tántìi	tántìi 
+616	4-7-14-2	73101839392182831	Hausa	haus1257	the tent	TENT	1316		mài láimàa	mài láimàa 
+617	4-7-15-1	73101839165153175	Hausa	haus1257	the yard or court	YARD	736		fáadàa	fáadàa 
+618	4-7-15-2	73101839801668795	Hausa	haus1257	the yard or court	YARD	736		fíilíi	fíilíi 
+619	4-7-16-1	73101839919675194	Hausa	haus1257	the men's house	MEN'S HOUSE	408		ɗáakìn mázáa	ɗáakìn mázáa 
+620	4-7-17-1	73101839639289385	Hausa	haus1257	the cookhouse	COOKHOUSE	334		gírkìi	gírkìi 
+621	4-7-18-1	73101839792638138	Hausa	haus1257	the meeting house	MEETING HOUSE	335		záurèe	záurèe 
+622	4-7-18-2	73101839570608688	Hausa	haus1257	the meeting house	MEETING HOUSE	335		sóor̃óo	sóor̃óo 
+623	4-7-21-1	73101839703431208	Hausa	haus1257	the room	ROOM	1450		ɗáakìi	ɗáakìi 
+624	4-7-22-1	73101839239021930	Hausa	haus1257	the door or gate	DOOR	1567		ƙóofàa	ƙóofàa 
+625	4-7-221-1	73101839214807347	Hausa	haus1257	the doorpost	DOORPOST	80		íccèn ƙóofàa	íccèn ƙóofàa 
+626	4-7-23-1	73101839431611550	Hausa	haus1257	the lock	LOCK	1596		kwàaɗóo	kwàaɗóo 
+627	4-7-231-1	73101839431611550	Hausa	haus1257	the latch or door-bolt	LATCH	1012		kwàaɗóo	kwàaɗóo 
+628	4-7-24-1	73101839372410822	Hausa	haus1257	the key	KEY	1472		mábúuɗíi	mábúuɗíi 
+629	4-7-25-1	73101839301618639	Hausa	haus1257	the window	WINDOW	1375		táagàa	táagàa 
+630	4-7-26-1	73101839306833625	Hausa	haus1257	the floor	FLOOR	1632		fíilín ɗáakìi	fíilín ɗáakìi 
+631	4-7-27-1	73101839687976876	Hausa	haus1257	the wall	WALL (OF HOUSE)	933		kátángáa	kátángáa 
+632	4-7-27-2	73101839371292575	Hausa	haus1257	the wall	WALL (OF HOUSE)	933		gàar̃úu	gàar̃úu 
+633	4-7-31-1	73101839246609832	Hausa	haus1257	the fireplace	FIREPLACE	185		múrhùu	múrhùu 
+634	4-7-32-1	73101839246609832	Hausa	haus1257	the stove	STOVE	859		múrhùu	múrhùu 
+635	4-7-33-1	73101839340954369	Hausa	haus1257	the chimney	CHIMNEY	1305		búutúutúu	búutúutúu 
+636	4-7-42-1	73101839973522580	Hausa	haus1257	the bed	BED	1663		gádóo	gádóo 
+637	4-7-421-1	7310183938869703	Hausa	haus1257	the pillow	PILLOW	1044		mátáashín kâi	mátáashín kâi 
+638	4-7-422-1	73101839706726267	Hausa	haus1257	the blanket	BLANKET	806		bàr̃góo	bàr̃góo 
+639	4-7-43-1	7310183990120467	Hausa	haus1257	the chair	CHAIR	1476		kújèeráa	kújèeráa 
+640	4-7-44-1	73101839194548728	Hausa	haus1257	the table	TABLE	1775		téebùr̃	téebùr̃ 
+641	4-7-45-1	73101839546702320	Hausa	haus1257	the lamp or torch	TORCH OR LAMP	2131		fìtílàa	fìtílàa 
+642	4-7-46-1	73101839446072780	Hausa	haus1257	the candle	CANDLE	1273		kéndìr̃	kéndìr̃ 
+643	4-7-47-1	73101839896402093	Hausa	haus1257	the shelf	SHELF	745		kántàa	kántàa 
+644	4-7-48-1	73101839643880864	Hausa	haus1257	the trough	TROUGH	205		kóomíi	kóomíi 
+645	4-7-48-2	73101839950959410	Hausa	haus1257	the trough	TROUGH	205		àkálàa	àkálàa 
+646	4-7-51-1	73101839570278879	Hausa	haus1257	the roof	ROOF	769		rúfìi	rúfìi 
+647	4-7-51-2	73101839899776171	Hausa	haus1257	the roof	ROOF	769		jínkàa	jínkàa 
+648	4-7-52-1	73101839951752928	Hausa	haus1257	the thatch	THATCH	279		jínkáa	jínkáa 
+649	4-7-53-1	73101839745669233	Hausa	haus1257	the ridgepole	RIDGEPOLE	280		jíjjígèe	jíjjígèe 
+650	4-7-54-1	73101839745669233	Hausa	haus1257	the rafter	RAFTER	829		jíjjígèe	jíjjígèe 
+651	4-7-55-1	73101839817538875	Hausa	haus1257	the beam	BEAM	1132		jijjigèe	jijjigèe 
+652	4-7-56-1	7310183923747052	Hausa	haus1257	the post or pole	POST	281		túrkèe	túrkèe 
+653	4-7-57-1	731018397000602	Hausa	haus1257	the board	BOARD	1227		káatáakóo	káatáakóo 
+654	4-7-58-1	73101839608365829	Hausa	haus1257	the arch	ARCH	876		bàkáa	bàkáa 
+655	4-7-61-1	73101839585477477	Hausa	haus1257	the mason	MASON	877		mágìnín gídáa	mágìnín gídáa 
+656	4-7-61-2	73101839280863864	Hausa	haus1257	the mason	MASON	877		màasôn	màasôn 
+657	4-7-62-1	73101839145346927	Hausa	haus1257	the brick	BRICK	1006		bìr̃kíi	bìr̃kíi 
+658	4-7-62-2	73101839999835513	Hausa	haus1257	the brick	BRICK	1006		bùlôo	bùlôo 
+659	4-7-63-1	7310183990652467	Hausa	haus1257	the mortar(2)	MORTAR BINDER	1731		gwáaɓìi	gwáaɓìi 
+660	4-7-64-1	73101839102431028	Hausa	haus1257	the adobe	ADOBE	901		túubàlíi	túubàlíi 
+661	4-8-11-1	73101839558895710	Hausa	haus1257	the farmer	FARMER	979		mánòomíi	mánòomíi 
+662	4-8-12-1	73101839387750872	Hausa	haus1257	the field	FIELD	212		góonáa	góonáa 
+663	4-8-13-1	73101839207038103	Hausa	haus1257	the garden	GARDEN	586		làmbúu	làmbúu 
+664	4-8-13-2	73101839754197961	Hausa	haus1257	the garden	GARDEN	586		gárkáa	gárkáa 
+665	4-8-15-1	73101839373430511	Hausa	haus1257	to cultivate	CULTIVATE	1541		yí nóomáa	yí nóomáa 
+666	4-8-16-1	73101839319729501	Hausa	haus1257	the fence	FENCE	1690		dángáa	dángáa 
+667	4-8-16-2	73101839110122115	Hausa	haus1257	the fence	FENCE	1690		záanáa	záanáa 
+668	4-8-16-3	73101839600230393	Hausa	haus1257	the fence	FENCE	1690		shíngée	shíngée 
+669	4-8-17-1	73101839797132333	Hausa	haus1257	the ditch	DITCH	2002		làmbàtûu	làmbàtûu 
+670	4-8-17-2	73101839463625167	Hausa	haus1257	the ditch	DITCH	2002		kwálbátì	kwálbátì 
+671	4-8-17-3	73101839814803934	Hausa	haus1257	the ditch	DITCH	2002		gátàa	gátàa 
+672	4-8-17-4	73101839274447174	Hausa	haus1257	the ditch	DITCH	2002		gwálálóo	gwálálóo 
+673	4-8-21-1	73101839455417394	Hausa	haus1257	to plough/plow	PLOUGH	1921		nóomèe	nóomèe 
+674	4-8-212-1	7310183942848243	Hausa	haus1257	the furrow	FURROW	1794		húuɗàa	húuɗàa 
+675	4-8-212-2	73101839455897771	Hausa	haus1257	the furrow	FURROW	1794		kúnyáa	kúnyáa 
+676	4-8-22-1	73101839376749188	Hausa	haus1257	to dig	DIG	1418		háƙàa	háƙàa 
+677	4-8-22-2	73101839625111174	Hausa	haus1257	to dig	DIG	1418		tóonàa	tóonàa 
+678	4-8-23-1	73101839539299278	Hausa	haus1257	the spade	SPADE	1176		shéebùr̃	shéebùr̃ 
+679	4-8-24-1	73101839539299278	Hausa	haus1257	the shovel	SHOVEL	1901		shéebùr̃	shéebùr̃ 
+680	4-8-24-2	73101839265996907	Hausa	haus1257	the shovel	SHOVEL	1901		fêl	fêl 
+681	4-8-25-1	73101839915161141	Hausa	haus1257	the hoe	HOE	284		fár̃tányàa	fár̃tányàa 
+682	4-8-25-2	73101839524162806	Hausa	haus1257	the hoe	HOE	284		gàr̃máa	gàr̃máa 
+683	4-8-26-1	73101839597198044	Hausa	haus1257	the fork(2)/pitchfork	PITCHFORK	337		fôk	fôk 
+684	4-8-27-1	73101839655524806	Hausa	haus1257	the rake	RAKE	338		másháaríi	másháaríi 
+685	4-8-27-2	73101839322932463	Hausa	haus1257	the rake	RAKE	338		r̃àatôo	r̃àatôo 
+686	4-8-31-1	73101839278412912	Hausa	haus1257	to sow	SOW SEEDS	748		shúukàa	shúukàa 
+687	4-8-311-1	73101839779722666	Hausa	haus1257	the seed	SEED	714		írìi	írìi 
+688	4-8-32-1	73101839206920949	Hausa	haus1257	to mow	MOW	190		fíigáa	fíigáa 
+689	4-8-32-2	73101839805436585	Hausa	haus1257	to mow	MOW	190		gírbèe	gírbèe 
+690	4-8-32-3	73101839607769453	Hausa	haus1257	to mow	MOW	190		círèe	círèe 
+691	4-8-33-1	73101839440102330	Hausa	haus1257	the sickle or scythe	SICKLE OR SCYTHE	2132		làujée	làujée 
+692	4-8-34-1	73101839257745234	Hausa	haus1257	to thresh	THRESH	285		bùusáa	bùusáa 
+693	4-8-35-1	73101839486289613	Hausa	haus1257	the threshing-floor	THRESHING-FLOOR	223		wúrín bùusáa	wúrín bùusáa 
+694	4-8-41-1	73101839936069126	Hausa	haus1257	the harvest	HARVEST	611		gírbìi	gírbìi 
+695	4-8-42-1	73101839505937569	Hausa	haus1257	the grain	GRAIN	605		ƙwàyáa	ƙwàyáa 
+696	4-8-43-1	73101839158744930	Hausa	haus1257	the wheat	WHEAT	1077		àlkámàa	àlkámàa 
+697	4-8-44-1	73101839834080242	Hausa	haus1257	the barley	BARLEY	932		shà'îr̃	shà'îr̃ 
+698	4-8-47-1	73101839733521250	Hausa	haus1257	the maize/corn	MAIZE	506		másàr̃áa	másàr̃áa 
+699	4-8-48-1	73101839308824114	Hausa	haus1257	the rice	RICE	926		shìnkáafáa	shìnkáafáa 
+700	4-8-51-1	73101839361124914	Hausa	haus1257	the grass	GRASS	606		cìyáawàa	cìyáawàa 
+701	4-8-52-1	73101839274912028	Hausa	haus1257	the hay	HAY	342		báròo	báròo 
+702	4-8-53-1	73101839278412912	Hausa	haus1257	the plant	PLANT (VEGETATION)	653		shúukàa	shúukàa 
+703	4-8-531-1	73101839278412912	Hausa	haus1257	to plant	PLANT (SOMETHING)	1486		shúukàa	shúukàa 
+704	4-8-54-1	73101839922906684	Hausa	haus1257	the root	ROOT	670		jíijíyàa	jíijíyàa 
+705	4-8-54-2	73101839640736357	Hausa	haus1257	the root	ROOT	670		sâiwáa	sâiwáa 
+706	4-8-55-1	73101839885910972	Hausa	haus1257	the branch	BRANCH OR TWIG	3223		réeshèe	réeshèe 
+707	4-8-56-1	73101839661247114	Hausa	haus1257	the leaf	LEAF	628		gányée	gányée 
+708	4-8-57-1	73101839556946117	Hausa	haus1257	the flower	FLOWER	239		fùrée	fùrée 
+709	4-8-6-1	73101839896905661	Hausa	haus1257	the tree	TREE	906		ítàacée	ítàacée 
+710	4-8-67-1	73101839442729310	Hausa	haus1257	the vine	VINE	343		ínàbíi	ínàbíi 
+711	4-8-68-1	73101839372831653	Hausa	haus1257	the tobacco	TOBACCO	974		táabàa	táabàa 
+712	4-8-69-1	73101839453422914	Hausa	haus1257	to smoke	SMOKE (INHALE)	1689		sháa táabàa	sháa táabàa 
+713	4-8-691-1	73101839772258500	Hausa	haus1257	the pipe	PIPE	1124		lóofíi	lóofíi 
+714	4-8-72-1	7310183945236908	Hausa	haus1257	the tree stump	TREE STUMP	241		kútúttúrèe	kútúttúrèe 
+715	4-8-73-1	73101839477718114	Hausa	haus1257	the tree trunk	TREE TRUNK	344		gàngár̃ jìkíi	gàngár̃ jìkíi 
+716	4-8-74-1	73101839521082198	Hausa	haus1257	the forked branch	FORKED BRANCH	409		gwàfáa	gwàfáa 
+717	4-8-75-1	73101839934912476	Hausa	haus1257	the bark	BARK	1204		ɓáawóo	ɓáawóo 
+718	4-8-76-1	73101839454089300	Hausa	haus1257	the sap	SAP	345		rúwán bíshíyàa	rúwán bíshíyàa 
+719	4-8-81-1	73101839498835603	Hausa	haus1257	the palm tree	PALM TREE	1181		gígínyàa	gígínyàa 
+720	4-8-81-2	731018391147305	Hausa	haus1257	the palm tree	PALM TREE	1181		gòorúbàa	gòorúbàa 
+721	4-8-82-1	73101839214833994	Hausa	haus1257	the coconut	COCONUT	970		kwáakwàa	kwáakwàa 
+722	4-8-83-1	73101839981911824	Hausa	haus1257	the citrus fruit	CITRUS FRUIT	1126		lèemóo	lèemóo 
+723	4-8-84-1	73101839247106886	Hausa	haus1257	the banana	BANANA	868		àyàbà	àyàbà 
+724	4-8-91-1	73101839844251246	Hausa	haus1257	the sweet potato	SWEET POTATO	159		dànkálìi	dànkálìi 
+725	4-8-912-1	73101839220511153	Hausa	haus1257	the yam	YAM	410		dùndúu	dùndúu 
+726	4-8-92-1	7310183957329731	Hausa	haus1257	the cassava/manioc	CASSAVA	925		dóoyàa	dóoyàa 
+727	4-8-93-1	73101839194657763	Hausa	haus1257	the gourd	GOURD	411		ƙwáryáa	ƙwáryáa 
+728	4-8-931-1	73101839932811355	Hausa	haus1257	the pumpkin or squash	PUMPKIN	864		kàbéewàa	kàbéewàa 
+729	4-8-94-1	73101839642982752	Hausa	haus1257	the bamboo	BAMBOO	1927		góoràa	góoràa 
+730	4-8-941-1	73101839608427136	Hausa	haus1257	the sugar cane	SUGAR CANE	146		ràkée	ràkée 
+731	4-8-98-1	73101839542332839	Hausa	haus1257	the mushroom	MUSHROOM	641		náamàn kàazáa	náamàn kàazáa 
+732	4-9-11-1	73101839324163846	Hausa	haus1257	to do	DO	813		yí	yí 
+733	4-9-12-1	73101839726391207	Hausa	haus1257	the work	WORK (LABOUR)	984		áikìi	áikìi 
+734	4-9-14-1	73101839793949415	Hausa	haus1257	to bend	BEND	2004		lánƙwàsáa	lánƙwàsáa 
+735	4-9-14-2	73101839830377919	Hausa	haus1257	to bend	BEND	2004		kár̃kàtáa	kár̃kàtáa 
+736	4-9-15-1	73101839646450099	Hausa	haus1257	to fold	FOLD	1470		náɗàa	náɗàa 
+737	4-9-15-2	73101839974682324	Hausa	haus1257	to fold	FOLD	1470		káryàa	káryàa 
+738	4-9-16-1	73101839789752804	Hausa	haus1257	to tie	TIE	1917		ɗáurèe	ɗáurèe 
+739	4-9-161-1	73101839385651778	Hausa	haus1257	to untie	UNTIE	352		kwáncèe	kwáncèe 
+740	4-9-18-1	73101839726800510	Hausa	haus1257	the chain	CHAIN	1627		sárkàa	sárkàa 
+741	4-9-19-1	73101839244511173	Hausa	haus1257	the rope	ROPE	1218		ígíyàa	ígíyàa 
+742	4-9-192-1	73101839500481443	Hausa	haus1257	the knot	KNOT	760		ƙúllàa	ƙúllàa 
+743	4-9-21-1	73101839258135118	Hausa	haus1257	to strike or hit or beat	STRIKE OR BEAT	2133		búgàa	búgàa 
+744	4-9-211-1	731018397351147	Hausa	haus1257	to pound	POUND	354		dòokáa	dòokáa 
+745	4-9-211-2	73101839967864140	Hausa	haus1257	to pound	POUND	354		kùtùfóo	kùtùfóo 
+746	4-9-22-1	73101839983745389	Hausa	haus1257	to cut	CUT	1432		yánkèe	yánkèe 
+747	4-9-221-1	73101839863805978	Hausa	haus1257	to cut down	CUT DOWN	355		sàaráa	sàaráa 
+748	4-9-222-1	73101839977391534	Hausa	haus1257	to chop	CHOP	155		fíllèe	fíllèe 
+749	4-9-223-1	7310183912085589	Hausa	haus1257	to stab	STAB TO DEATH	3189		sòokáa	sòokáa 
+750	4-9-23-1	73101839520996981	Hausa	haus1257	the knife(2)	KNIFE	1352		wúƙáa	wúƙáa 
+751	4-9-24-1	73101839386236737	Hausa	haus1257	the scissors or shears	SHEARS	356		àlmákàshíi	àlmákàshíi 
+752	4-9-25-1	73101839151147809	Hausa	haus1257	the axe/ax	AXE	677		gàatáríi	gàatáríi 
+753	4-9-251-1	73101839436917596	Hausa	haus1257	the adze	ADZE	290		gìzàagóo	gìzàagóo 
+754	4-9-26-1	7310183949428958	Hausa	haus1257	to break	BREAK (DESTROY OR GET DESTROYED)	680		káryèe	káryèe 
+755	4-9-261-1	73101839368115220	Hausa	haus1257	broken	BROKEN (NOT WORKING)	3190		à kàryé	à kàryé 
+756	4-9-27-1	73101839241766383	Hausa	haus1257	to split	SPLIT	1437		fáskàráa	fáskàráa 
+757	4-9-27-2	73101839663157630	Hausa	haus1257	to split	SPLIT	1437		fásàa	fásàa 
+758	4-9-28-1	73101839607769453	Hausa	haus1257	to tear	TEAR (SHRED)	1735		círèe	círèe 
+759	4-9-83-1	73101839944157191	Hausa	haus1257	the statue	STATUE	1002		gúnkìi	gúnkìi 
+760	4-9-83-2	73101839554738340	Hausa	haus1257	the statue	STATUE	1002		mùtûm-mùtùmíi	mùtûm-mùtùmíi 
+761	4-9-29-1	7310183911580486	Hausa	haus1257	to skin	PULL OFF (SKIN)	291		féeɗèe	féeɗèe 
+762	4-9-31-1	73101839916672851	Hausa	haus1257	to rub	RUB	1449		sháafèe	sháafèe 
+763	4-9-31-2	73101839138922625	Hausa	haus1257	to rub	RUB	1449		góogèe	góogèe 
+764	4-9-32-1	7310183963691238	Hausa	haus1257	to stretch	STRETCH	214		wáatsàa	wáatsàa 
+765	4-9-33-1	73101839170426714	Hausa	haus1257	to pull	PULL	1455		jáa (1)	jáa (1) 
+766	4-9-34-1	73101839340855474	Hausa	haus1257	to spread out	SPREAD OUT	38		shímfìɗáa	shímfìɗáa 
+767	4-9-34-2	7310183963691238	Hausa	haus1257	to spread out	SPREAD OUT	38		wáatsàa	wáatsàa 
+768	4-9-341-1	73101839683696831	Hausa	haus1257	to hang up	HANG UP	357		ráatàyáa	ráatàyáa 
+769	4-9-342-1	73101839321086915	Hausa	haus1257	to press	PRESS	1913		dánnàa	dánnàa 
+770	4-9-343-1	73101839567717664	Hausa	haus1257	to squeeze	SQUEEZE	1414		mátsàa	mátsàa 
+771	4-9-35-1	73101839467700605	Hausa	haus1257	to pour	POUR	1487		zúb dà	zúb dà 
+772	4-9-36-1	7310183935513807	Hausa	haus1257	to wash	WASH	1453		wánkèe	wánkèe 
+773	4-9-37-1	73101839392805861	Hausa	haus1257	to sweep	SWEEP	230		yí sháaráa	yí sháaráa 
+774	4-9-38-1	73101839655524806	Hausa	haus1257	the broom	BROOM	245		másháaríi	másháaríi 
+775	4-9-422-1	73101839314032970	Hausa	haus1257	the tool	TOOL	1361		káayán áikìi	káayán áikìi 
+776	4-9-43-1	73101839477715057	Hausa	haus1257	the carpenter	CARPENTER	1042		káafíntàa	káafíntàa 
+777	4-9-43-2	73101839671460035	Hausa	haus1257	the carpenter	CARPENTER	1042		másàssàƙíi	másàssàƙíi 
+778	4-9-44-1	73101839393786265	Hausa	haus1257	to build	BUILD	1840		gínàa	gínàa 
+779	4-9-46-1	73101839159469926	Hausa	haus1257	to bore	BORE	1501		húudàa	húudàa 
+780	4-9-461-1	73101839625111174	Hausa	haus1257	to hollow out	HOLLOW OUT	46		tóonàa	tóonàa 
+781	4-9-48-1	73101839705677587	Hausa	haus1257	the saw	SAW	1948		zár̃tòo	zár̃tòo 
+782	4-9-49-1	73101839364893282	Hausa	haus1257	the hammer	HAMMER	1481		hámàa	hámàa 
+783	4-9-49-2	73101839843074094	Hausa	haus1257	the hammer	HAMMER	1481		gùdúmàa	gùdúmàa 
+784	4-9-49-3	7310183974573756	Hausa	haus1257	the hammer	HAMMER	1481		màr̃tȏo	màr̃tȏo 
+785	4-9-5-1	73101839287147118	Hausa	haus1257	the nail	NAIL (TOOL)	502		ƙúusàa	ƙúusàa 
+786	4-9-56-1	73101839586800606	Hausa	haus1257	the glue	GLUE	1069		gâm	gâm 
+787	4-9-6-1	73101839769920378	Hausa	haus1257	the blacksmith	BLACKSMITH	1001		máƙèeríi	máƙèeríi 
+788	4-9-61-1	73101839283793966	Hausa	haus1257	to forge	FORGE	288		ƙéeràa	ƙéeràa 
+789	4-9-62-1	73101839780412159	Hausa	haus1257	the anvil	ANVIL	1648		úwár̃ máƙéeráa	úwár̃ máƙéeráa 
+790	4-9-63-1	73101839850621116	Hausa	haus1257	to cast	CAST	211		yí zúbìi	yí zúbìi 
+791	4-9-64-1	73101839435435571	Hausa	haus1257	the gold	GOLD	1369		zínáar̃ìyáa	zínáar̃ìyáa 
+792	4-9-65-1	73101839897695992	Hausa	haus1257	the silver	SILVER	759		ázùr̃fáa	ázùr̃fáa 
+793	4-9-66-1	73101839246206497	Hausa	haus1257	the copper	COPPER	1825		tágùlláa	tágùlláa 
+794	4-9-66-2	7310183943664766	Hausa	haus1257	the copper	COPPER	1825		ján ƙárfèe	ján ƙárfèe 
+795	4-9-67-1	73101839487505568	Hausa	haus1257	the iron	IRON	621		ƙárfèe	ƙárfèe 
+796	4-9-68-1	73101839931490276	Hausa	haus1257	the lead	LEAD (CHEMICAL ELEMENT)	627		dár̃màa	dár̃màa 
+797	4-9-69-1	73101839505102463	Hausa	haus1257	the tin or tinplate	TIN OR TINPLATE	3217		gwángwáníi	gwángwáníi 
+798	4-9-69-2	73101839931490276	Hausa	haus1257	the tin or tinplate	TIN OR TINPLATE	3217		dár̃màa	dár̃màa 
+799	4-9-71-1	73101839529528787	Hausa	haus1257	the potter	POTTER	359		mài túkwàanée	mài túkwàanée 
+800	4-9-72-1	73101839850621116	Hausa	haus1257	to mould/mold	MOLD	289		yí zúbìi	yí zúbìi 
+801	4-9-73-1	73101839558757531	Hausa	haus1257	the clay	CLAY	1399		yúmɓúu	yúmɓúu 
+802	4-9-74-1	73101839448530128	Hausa	haus1257	the glass	GLASS	604		gìláashìi	gìláashìi 
+803	4-9-75-1	73101839751024929	Hausa	haus1257	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		sáaƙàa	sáaƙàa 
+804	4-9-76-1	73101839317191987	Hausa	haus1257	the basket	BASKET	1539		kwàndóo	kwàndóo 
+805	4-9-77-1	7310183972935560	Hausa	haus1257	the mat	MAT	195		tàabármáa	tàabármáa 
+806	4-9-771-1	73101839803205692	Hausa	haus1257	the rug	RUG	292		kìlíishíi	kìlíishíi 
+807	4-9-78-1	73101839219024778	Hausa	haus1257	the netbag	NETBAG	293		ráagáa	ráagáa 
+808	4-9-79-1	73101839348868446	Hausa	haus1257	the fan	FAN (OBJECT)	1971		máfícíi	máfícíi 
+809	4-9-791-1	7310183962484172	Hausa	haus1257	to fan	FAN ACTION	360		fíifíitáa	fíifíitáa 
+810	4-9-81-1	73101839813938528	Hausa	haus1257	to carve	CARVE	228		sássàƙáa	sássàƙáa 
+811	4-9-82-1	73101839671460035	Hausa	haus1257	the sculptor	SCULPTOR	914		másàssàƙíi	másàssàƙíi 
+812	4-9-84-1	73101839882056981	Hausa	haus1257	the chisel	CHISEL	1979		cízìl	cízìl 
+813	4-9-84-2	73101839159112300	Hausa	haus1257	the chisel	CHISEL	1979		máƙánƙáríi	máƙánƙáríi 
+814	4-9-88-1	73101839472046850	Hausa	haus1257	the paint	PAINT (PIGMENTS)	647		féntì	féntì 
+815	4-9-89-1	73101839792314537	Hausa	haus1257	to paint	PAINTING	2001		záanàa	záanàa 
+816	4-10-11-1	73101839506159540	Hausa	haus1257	to move	MOVE	765		yí mòotsíi	yí mòotsíi 
+817	4-10-12-1	73101839120671978	Hausa	haus1257	to turn	TURN	1588		máyár̃ dà	máyár̃ dà 
+818	4-10-13-1	73101839833053501	Hausa	haus1257	to turn around	TURN (SOMETHING)	1445		wáiwàyáa	wáiwàyáa 
+819	4-10-14-1	7310183917191537	Hausa	haus1257	to wrap	WRAP	1113		ƙúnsàa	ƙúnsàa 
+820	4-10-14-2	73101839569758474	Hausa	haus1257	to wrap	WRAP	1113		náɗèe	náɗèe 
+821	4-10-15-1	73101839646450099	Hausa	haus1257	to roll	ROLL	827		náɗàa	náɗàa 
+822	4-10-16-1	73101839625515098	Hausa	haus1257	to drop	DROP (SOMETHING)	2866		fáaɗì	fáaɗì 
+823	4-10-17-1	7310183990633877	Hausa	haus1257	to twist	TWIST (AROUND)	3199		múr̃ɗàa	múr̃ɗàa 
+824	4-10-21-1	73101839688360974	Hausa	haus1257	to rise	RISE (MOVE UPWARDS)	568		táashì	táashì 
+825	4-10-22-1	7310183935741423	Hausa	haus1257	to raise or lift	LIFT	501		háu	háu 
+826	4-10-22-2	73101839523745144	Hausa	haus1257	to raise or lift	LIFT	501		táa dà	táa dà 
+827	4-10-23-1	73101839625515098	Hausa	haus1257	to fall	FALL	1280		fáaɗì	fáaɗì 
+828	4-10-24-1	73101839563379721	Hausa	haus1257	to drip	DRIP (EMIT LIQUID)	2253		ɗígàa	ɗígàa 
+829	4-10-25-1	73101839753979864	Hausa	haus1257	to throw	THROW	1456		jéefàa	jéefàa 
+830	4-10-252-1	73101839927396392	Hausa	haus1257	to catch	CATCH	702		káamàa	káamàa 
+831	4-10-26-1	7310183941452866	Hausa	haus1257	to shake	SHAKE	1909		gír̃gìzáa	gír̃gìzáa 
+832	4-10-26-2	73101839505149717	Hausa	haus1257	to shake	SHAKE	1909		zàzzágàa	zàzzágàa 
+833	4-10-32-1	73101839100739573	Hausa	haus1257	to flow	FLOW	2003		kwàráarà	kwàráarà 
+834	4-10-32-2	7310183939061339	Hausa	haus1257	to flow	FLOW	2003		màláalà	màláalà 
+835	4-10-33-1	73101839116653102	Hausa	haus1257	to sink	SINK (DESCEND)	1088		nútsàa	nútsàa 
+836	4-10-33-2	73101839698278978	Hausa	haus1257	to sink	SINK (DESCEND)	1088		tsúndùmáa	tsúndùmáa 
+837	4-10-34-1	73101839968234403	Hausa	haus1257	to float	FLOAT	1574		yí líilòo	yí líilòo 
+838	4-10-35-1	73101839543773590	Hausa	haus1257	to swim	SWIM	1439		yí íyóo	yí íyóo 
+839	4-10-351-1	73101839116653102	Hausa	haus1257	to dive	DIVE	119		nútsàa	nútsàa 
+840	4-10-352-1	7310183987415200	Hausa	haus1257	to splash	SPLASH	365		cáfàa	cáfàa 
+841	4-10-36-1	73101839688360974	Hausa	haus1257	to sail	SAIL	787		táashì	táashì 
+842	4-10-37-1	73101839688360974	Hausa	haus1257	to fly	FLY (MOVE THROUGH AIR)	1441		táashì	táashì 
+843	4-10-38-1	73101839488307779	Hausa	haus1257	to blow	BLOW (OF WIND)	175		búusàa	búusàa 
+844	4-10-38-2	73101839322577527	Hausa	haus1257	to blow	BLOW (OF WIND)	175		húuràa	húuràa 
+845	4-10-41-1	73101839851416606	Hausa	haus1257	to crawl	CRAWL	96		rárràfáa	rárràfáa 
+846	4-10-412-1	73101839284740645	Hausa	haus1257	to kneel	KNEEL	66		dúrƙùsáa	dúrƙùsáa 
+847	4-10-413-1	73101839463312461	Hausa	haus1257	to crouch	CROUCH	296		tàakúrà	tàakúrà 
+848	4-10-42-1	73101839888178808	Hausa	haus1257	to slide or slip	SLIP	1324		zùráarà	zùráarà 
+849	4-10-43-1	73101839725406538	Hausa	haus1257	to jump	JUMP	1829		díràa	díràa 
+850	4-10-43-2	73101839238467284	Hausa	haus1257	to jump	JUMP	1829		tsállàkée	tsállàkée 
+851	4-10-431-1	73101839816679029	Hausa	haus1257	to kick	KICK	1135		hàr̃báa	hàr̃báa 
+852	4-10-44-1	73101839696955817	Hausa	haus1257	to dance	DANCE	1879		yí ráawáa	yí ráawáa 
+853	4-10-45-1	73101839553296676	Hausa	haus1257	to walk	WALK	1443		tàfí	tàfí 
+854	4-10-451-1	73101839761108701	Hausa	haus1257	to limp	LIMP	366		yí ɗíngíshíi	yí ɗíngíshíi 
+855	4-10-46-1	73101839390996268	Hausa	haus1257	to run	RUN	1519		gúdù	gúdù 
+856	4-10-47-1	7310183979286559	Hausa	haus1257	to go	GO	695		jée	jée 
+857	4-10-47-2	73101839553296676	Hausa	haus1257	to go	GO	695		tàfí	tàfí 
+858	4-10-471-1	7310183935741423	Hausa	haus1257	to go up	GO UP (ASCEND)	705		háu	háu 
+859	4-10-472-1	7310183935741423	Hausa	haus1257	to climb	CLIMB	1102		háu	háu 
+860	4-10-472-2	7310183956536116	Hausa	haus1257	to climb	CLIMB	1102		háuràa	háuràa 
+861	4-10-473-1	73101839763216906	Hausa	haus1257	to go down	GO DOWN (DESCEND)	2014		sàuká	sàuká 
+862	4-10-474-1	73101839268551546	Hausa	haus1257	to go out	GO OUT	1107		fìtá	fìtá 
+863	4-10-48-1	73101839338998154	Hausa	haus1257	to come	COME	1446		zóo	zóo 
+864	4-10-481-1	73101839827247903	Hausa	haus1257	to come back	COME BACK	581		dáawóo	dáawóo 
+865	4-10-49-1	73101839688360974	Hausa	haus1257	to leave	LEAVE	1752		táashì	táashì 
+866	4-10-491-1	73101839999645130	Hausa	haus1257	to disappear	DISAPPEAR	485		ɓácèe	ɓácèe 
+867	4-10-51-1	73101839390996268	Hausa	haus1257	to flee	FLEE	956		gúdù	gúdù 
+868	4-10-52-1	73101839298890701	Hausa	haus1257	to follow	FOLLOW	1085		bí	bí 
+869	4-10-53-1	73101839298890701	Hausa	haus1257	to pursue	PURSUE	1047		bí	bí 
+870	4-10-53-2	73101839420556317	Hausa	haus1257	to pursue	PURSUE	1047		fàafáràa	fàafáràa 
+871	4-10-55-1	73101839911021893	Hausa	haus1257	to arrive	ARRIVE	1387		ìsá	ìsá 
+872	4-10-55-2	73101839118943288	Hausa	haus1257	to arrive	ARRIVE	1387		kái (2)	kái (2) 
+873	4-10-56-1	7310183959501549	Hausa	haus1257	to approach	APPROACH	1778		kúsàntáa	kúsàntáa 
+874	4-10-56-2	73101839482790942	Hausa	haus1257	to approach	APPROACH	1778		gàbáatàa	gàbáatàa 
+875	4-10-57-1	73101839543914381	Hausa	haus1257	to enter	ENTER	749		shìgá	shìgá 
+876	4-10-61-1	73101839561856993	Hausa	haus1257	to carry	CARRY	700		ɗáukàa	ɗáukàa 
+877	4-10-612-1	73101839561856993	Hausa	haus1257	to carry in hand	CARRY IN HAND	412		ɗáukàa	ɗáukàa 
+878	4-10-613-1	73101839561856993	Hausa	haus1257	to carry on shoulder	CARRY ON SHOULDER	413		ɗáukàa	ɗáukàa 
+879	4-10-614-1	73101839561856993	Hausa	haus1257	to carry on head	CARRY ON HEAD	414		ɗáukàa	ɗáukàa 
+880	4-10-615-1	73101839561856993	Hausa	haus1257	to carry under the arm	CARRY UNDER ARM	415		ɗáukàa	ɗáukàa 
+881	4-10-62-1	73101839761564273	Hausa	haus1257	to bring	BRING	692		káawóo	káawóo 
+882	4-10-63-1	73101839257732765	Hausa	haus1257	to send	SEND	1127		àikáa	àikáa 
+883	4-10-64-1	73101839482790942	Hausa	haus1257	to lead	LEAD (GUIDE)	43		gàbáatàa	gàbáatàa 
+884	4-10-65-1	73101839878391585	Hausa	haus1257	to drive	DRIVE	741		túuƙàa	túuƙàa 
+885	4-10-66-1	73101839605124108	Hausa	haus1257	to ride	RIDE	367		háu dóokìi	háu dóokìi 
+886	4-10-67-1	73101839270145404	Hausa	haus1257	to push	PUSH	1452		túuràa	túuràa 
+887	4-10-71-1	73101839841121066	Hausa	haus1257	the road	ROAD	667		hányàa	hányàa 
+888	4-10-72-1	73101839902973805	Hausa	haus1257	the path	PATH	2252		túrbàa	túrbàa 
+889	4-10-72-2	73101839841121066	Hausa	haus1257	the path	PATH	2252		hányàa	hányàa 
+890	4-10-74-1	73101839143430711	Hausa	haus1257	the bridge	BRIDGE	1011		gádàa	gádàa 
+891	4-10-75-1	73101839560023566	Hausa	haus1257	the cart or wagon	CART	122		ámálánkée	ámálánkée 
+892	4-10-76-1	73101839262216901	Hausa	haus1257	the wheel	WHEEL	710		táayàa	táayàa 
+893	4-10-78-1	73101839975465665	Hausa	haus1257	the yoke	YOKE	14		bàutáa	bàutáa 
+894	4-10-78-2	73101839335008654	Hausa	haus1257	the yoke	YOKE	14		kángíi	kángíi 
+895	4-10-81-1	73101839312043841	Hausa	haus1257	the ship	SHIP	740		jírgín rúwáa	jírgín rúwáa 
+896	4-10-83-1	73101839312043841	Hausa	haus1257	the boat	BOAT	1844		jírgín rúwáa	jírgín rúwáa 
+897	4-10-831-1	73101839725249650	Hausa	haus1257	the canoe	CANOE	1970		jírgíi	jírgíi 
+898	4-10-831-2	73101839810379445	Hausa	haus1257	the canoe	CANOE	1970		kwàléekwàlée	kwàléekwàlée 
+899	4-10-84-1	73101839408112904	Hausa	haus1257	the raft	RAFT	1664		gádón fítôowaa	gádón fítôowaa 
+900	4-10-85-1	73101839244366754	Hausa	haus1257	the oar	RUDDER	108		mátúuƙíi	mátúuƙíi 
+901	4-10-85-2	73101839776578138	Hausa	haus1257	the oar	RUDDER	108		fílàafílíi	fílàafílíi 
+902	4-10-851-1	73101839776578138	Hausa	haus1257	the paddle	PADDLE	234		fílàafílíi	fílàafílíi 
+903	4-10-851-2	73101839244366754	Hausa	haus1257	the paddle	PADDLE	234		mátúuƙíi	mátúuƙíi 
+904	4-10-852-1	73101839776578138	Hausa	haus1257	to row	ROW	1849		fílàafílíi	fílàafílíi 
+905	4-10-86-1	73101839244366754	Hausa	haus1257	the rudder	RUDDER	108		mátúuƙíi	mátúuƙíi 
+906	4-10-87-1	7310183923747052	Hausa	haus1257	the mast	MAST	184		túrkèe	túrkèe 
+907	4-10-89-1	73101839115667067	Hausa	haus1257	the anchor	ANCHOR	1870		ángàa	ángàa 
+908	4-10-91-1	73101839425663089	Hausa	haus1257	the port	PORT	610		táshàr̃ jírgín rúwáa	táshàr̃ jírgín rúwáa 
+909	4-10-92-1	73101839763216906	Hausa	haus1257	to land	LAND (DESCEND)	1922		sàuká	sàuká 
+910	4-11-12-1	7310183956597687	Hausa	haus1257	to own	OWN	684		màllákàa	màllákàa 
+911	4-11-13-1	73101839561856993	Hausa	haus1257	to take	TAKE	1749		ɗáukàa	ɗáukàa 
+912	4-11-14-1	73101839927396392	Hausa	haus1257	to grasp	SEIZE	855		káamàa	káamàa 
+913	4-11-15-1	73101839591873598	Hausa	haus1257	to hold	HOLD	1448		ríƙèe	ríƙèe 
+914	4-11-16-1	73101839689487516	Hausa	haus1257	to get	GET	694		sáamùu	sáamùu 
+915	4-11-17-1	73101839591873598	Hausa	haus1257	to keep	KEEP	1477		ríƙèe	ríƙèe 
+916	4-11-18-1	73101839180353726	Hausa	haus1257	the thing	THING	738		àbù	àbù 
+917	4-11-21-1	73101839965875570	Hausa	haus1257	to give	GIVE	1447		báa	báa 
+918	4-11-22-1	7310183994490041	Hausa	haus1257	to give back	GIVE BACK	85		mái dà	mái dà 
+919	4-11-24-1	73101839181723882	Hausa	haus1257	to preserve	PRESERVE	1997		tsárèe	tsárèe 
+920	4-11-25-1	73101839844670989	Hausa	haus1257	to rescue	RESCUE	2008		cèetáa	cèetáa 
+921	4-11-27-1	73101839972697503	Hausa	haus1257	to destroy	DESTROY	681		rúushèe	rúushèe 
+922	4-11-27-2	73101839131199432	Hausa	haus1257	to destroy	DESTROY	681		ɓáatàa	ɓáatàa 
+923	4-11-28-1	73101839131199432	Hausa	haus1257	to injure	INJURE	44		ɓáatàa	ɓáatàa 
+924	4-11-28-2	73101839153177486	Hausa	haus1257	to injure	INJURE	44		yíi wà wani ràuníi	yíi wà wani ràuníi 
+925	4-11-31-1	73101839150315339	Hausa	haus1257	to look for	LOOK FOR	1468		nèemáa	nèemáa 
+926	4-11-31-2	73101839529476272	Hausa	haus1257	to look for	LOOK FOR	1468		bìɗáa	bìɗáa 
+927	4-11-32-1	73101839689487516	Hausa	haus1257	to find	FIND	719		sáamùu	sáamùu 
+928	4-11-33-1	73101839794300727	Hausa	haus1257	to lose	LOSE	1660		rásàa	rásàa 
+929	4-11-34-1	73101839308613720	Hausa	haus1257	to let go	LET GO OR SET FREE	1095		sàkaa	sàkaa 
+930	4-11-43-1	73101839473894647	Hausa	haus1257	the money	MONEY	1559		kúɗíi	kúɗíi 
+931	4-11-44-1	7310183964909301	Hausa	haus1257	the coin	COIN	1867		tsáabàr̃ kúɗíi	tsáabàr̃ kúɗíi 
+932	4-11-51-1	73101839165855131	Hausa	haus1257	rich	RICH	712		mài ár̃zìkíi	mài ár̃zìkíi 
+933	4-11-51-2	73101839709006449	Hausa	haus1257	rich	RICH	712		táajìr̃íi	táajìr̃íi 
+934	4-11-52-1	73101839571619386	Hausa	haus1257	poor	POOR	1674		mátàlàucíi	mátàlàucíi 
+935	4-11-52-2	73101839276065433	Hausa	haus1257	poor	POOR	1674		mátsìiyàacíi	mátsìiyàacíi 
+936	4-11-52-3	73101839953886046	Hausa	haus1257	poor	POOR	1674		fàkíir̃ìi	fàkíir̃ìi 
+937	4-11-53-1	73101839149586578	Hausa	haus1257	the beggar	BEGGAR	1934		máròoƙíi	máròoƙíi 
+938	4-11-54-1	73101839994231487	Hausa	haus1257	stingy	STINGY	1774		máròowàcíi	máròowàcíi 
+939	4-11-61-1	73101839295429315	Hausa	haus1257	to lend	LEND	582		àráa	àráa 
+940	4-11-62-1	73101839295429315	Hausa	haus1257	to borrow	BORROW	1823		àráa	àráa 
+941	4-11-63-1	73101839298890701	Hausa	haus1257	to owe	OWE	369		bí	bí 
+942	4-11-64-1	73101839736768241	Hausa	haus1257	the debt	DEBT	1914		báashìi	báashìi 
+943	4-11-65-1	73101839606827968	Hausa	haus1257	to pay	PAY	718		bíyáa	bíyáa 
+944	4-11-66-1	73101839538759942	Hausa	haus1257	the bill	BILL	1081		díiwáanìi	díiwáanìi 
+945	4-11-69-1	73101839893203176	Hausa	haus1257	the tax	TAX	873		hàr̃áajìi	hàr̃áajìi 
+946	4-11-69-2	73101839783338798	Hausa	haus1257	the tax	TAX	873		gándúu	gándúu 
+947	4-11-77-1	73101839829646188	Hausa	haus1257	to hire	HIRE	856		háyàa	háyàa 
+948	4-11-78-1	73101839303195260	Hausa	haus1257	the wages	WAGES	1122		àlbâashíi	àlbâashíi 
+949	4-11-79-1	73101839259766051	Hausa	haus1257	to earn	EARN	733		cí r̃íibàa	cí r̃íibàa 
+950	4-11-81-1	73101839456160759	Hausa	haus1257	to buy	BUY	1869		sàyáa	sàyáa 
+951	4-11-82-1	73101839713224461	Hausa	haus1257	to sell	SELL	1571		sáyár̃ dà	sáyár̃ dà 
+952	4-11-83-1	73101839350161309	Hausa	haus1257	to trade or barter	TRADE OR BARTER	2135		yí cìníkíi	yí cìníkíi 
+953	4-11-83-2	73101839981310758	Hausa	haus1257	to trade or barter	TRADE OR BARTER	2135		fátáucìi	fátáucìi 
+954	4-11-84-1	73101839614427537	Hausa	haus1257	the merchant	MERCHANT	1082		ɗán kàasúwáa	ɗán kàasúwáa 
+955	4-11-85-1	73101839670740140	Hausa	haus1257	the market	MARKET	633		kàasúwáa	kàasúwáa 
+956	4-11-86-1	73101839994264885	Hausa	haus1257	the shop/store	STORE	752		kàntíi	kàntíi 
+957	4-11-87-1	73101839473894647	Hausa	haus1257	the price	PRICE	657		kúɗíi	kúɗíi 
+958	4-11-88-1	73101839507140304	Hausa	haus1257	expensive	EXPENSIVE	1426		mài tsàadáa	mài tsàadáa 
+959	4-11-89-1	73101839788056115	Hausa	haus1257	cheap	CHEAP	1887		mài àr̃àháa	mài àr̃àháa 
+960	4-11-91-1	7310183989391585	Hausa	haus1257	to share	SHARE	884		rábàa	rábàa 
+961	4-11-92-1	73101839259901476	Hausa	haus1257	to weigh	WEIGH	1098		áunàa	áunàa 
+962	4-12-01-1	73101839408779171	Hausa	haus1257	after	AFTER	1685		báayán	báayán 
+963	4-12-011-1	73101839408779171	Hausa	haus1257	behind	BEHIND	1686		báayán	báayán 
+964	4-12-02-1	73101839496671338	Hausa	haus1257	beside	BESIDE	1816		kúsá dà	kúsá dà 
+965	4-12-03-1	73101839209957407	Hausa	haus1257	down	DOWN	1326		ƙàr̃ƙáshín	ƙàr̃ƙáshín 
+966	4-12-04-1	73101839953447788	Hausa	haus1257	before	BEFORE	1882		kàafín	kàafín 
+967	4-12-041-1	73101839411245221	Hausa	haus1257	in front of	IN FRONT OF	1883		à gàbán	à gàbán 
+968	4-12-05-1	73101839165513295	Hausa	haus1257	inside	INSIDE	1606		à cíkín	à cíkín 
+969	4-12-06-1	73101839133354597	Hausa	haus1257	outside	OUTSIDE	762		wàjée	wàjée 
+970	4-12-07-1	73101839209957407	Hausa	haus1257	under	BELOW OR UNDER	1485		ƙàr̃ƙáshín	ƙàr̃ƙáshín 
+971	4-12-08-1	73101839173449755	Hausa	haus1257	up	UP	1591		bisà	bisà 
+972	4-12-11-1	7310183933722071	Hausa	haus1257	the place	PLACE (POSITION)	723		wúríi	wúríi 
+973	4-12-11-2	73101839995349185	Hausa	haus1257	the place	PLACE (POSITION)	723		wájée	wájée 
+974	4-12-12-1	73101839959917659	Hausa	haus1257	to put	PUT	998		sâa (2)	sâa (2) 
+975	4-12-13-1	73101839405701771	Hausa	haus1257	to sit	SIT	1416		záunàa	záunàa 
+976	4-12-14-1	7310183966829047	Hausa	haus1257	to lie down	LIE DOWN	215		kwántàa	kwántàa 
+977	4-12-15-1	73101839688360974	Hausa	haus1257	to stand	STAND	1442		táashì	táashì 
+978	4-12-16-1	73101839463745989	Hausa	haus1257	to remain	REMAIN	987		zámá	zámá 
+979	4-12-17-1	7310183924722346	Hausa	haus1257	the remains	REMAINS	838		sáuráa	sáuráa 
+980	4-12-21-1	73101839984304961	Hausa	haus1257	to gather	GATHER	7		táaràa	táaràa 
+981	4-12-212-1	73101839561856993	Hausa	haus1257	to pick up	PICK UP	371		ɗáukàa	ɗáukàa 
+982	4-12-212-2	73101839834788977	Hausa	haus1257	to pick up	PICK UP	371		táttàaráa	táttàaráa 
+983	4-12-213-1	73101839984304961	Hausa	haus1257	to pile up	PILE UP	1576		táaràa	táaràa 
+984	4-12-22-1	73101839275437292	Hausa	haus1257	to join	JOIN	1743		háɗàa	háɗàa 
+985	4-12-22-2	7310183977211813	Hausa	haus1257	to join	JOIN	1743		gámàa (1)	gámàa (1) 
+986	4-12-23-1	7310183989391585	Hausa	haus1257	to separate	SEPARATE	1359		rábàa	rábàa 
+987	4-12-232-1	73101839478655618	Hausa	haus1257	to divide	DIVIDE	1119		kásàa	kásàa 
+988	4-12-232-2	7310183989391585	Hausa	haus1257	to divide	DIVIDE	1119		rábàa	rábàa 
+989	4-12-24-1	73101839716583922	Hausa	haus1257	to open	OPEN	1156		búuɗèe	búuɗèe 
+990	4-12-25-1	73101839250280242	Hausa	haus1257	to shut	SHUT	1046		rúfèe	rúfèe 
+991	4-12-26-1	73101839250280242	Hausa	haus1257	to cover	COVER	761		rúfèe	rúfèe 
+992	4-12-27-1	73101839870460719	Hausa	haus1257	to hide	HIDE (CONCEAL)	602		ɓóoyèe	ɓóoyèe 
+993	4-12-31-1	73101839562734005	Hausa	haus1257	high	HIGH	1265		sámà	sámà 
+994	4-12-32-1	73101839462905428	Hausa	haus1257	low	LOW	721		ƙásà	ƙásà 
+995	4-12-33-1	73101839562734005	Hausa	haus1257	the top	TOP	1753		sámà	sámà 
+996	4-12-33-2	73101839853344692	Hausa	haus1257	the top	TOP	1753		ƙólóolówáa	ƙólóolówáa 
+997	4-12-34-1	73101839907768162	Hausa	haus1257	the bottom	BOTTOM	690		gìndíi	gìndíi 
+998	4-12-35-1	73101839956122509	Hausa	haus1257	the end(1)	END (OF SPACE)	742		ƙàrshée	ƙàrshée 
+999	4-12-352-1	73101839267782903	Hausa	haus1257	pointed	POINTED	372		mài tsìiníi	mài tsìiníi 
+1000	4-12-353-1	73101839787120874	Hausa	haus1257	the edge	EDGE	863		bàakíi	bàakíi 
+1001	4-12-353-2	73101839481491358	Hausa	haus1257	the edge	EDGE	863		gáaɓàa	gáaɓàa 
+1002	4-12-36-1	73101839771576125	Hausa	haus1257	the side	SIDE	682		géefèe	géefèe 
+1003	4-12-37-1	73101839489008259	Hausa	haus1257	the middle	MIDDLE	1093		tsákíyàa	tsákíyàa 
+1004	4-12-41-1	73101839699149716	Hausa	haus1257	right(1)	RIGHT	1019		dáamá	dáamá 
+1005	4-12-42-1	73101839353984275	Hausa	haus1257	left	LEFT	244		hágú	hágú 
+1006	4-12-43-1	73101839679252871	Hausa	haus1257	near	NEAR	1942		kúsá	kúsá 
+1007	4-12-44-1	73101839523595307	Hausa	haus1257	far	FAR	1406		níisá	níisá 
+1008	4-12-45-1	73101839308722004	Hausa	haus1257	the east	EAST	1877		gábàs	gábàs 
+1009	4-12-46-1	7310183984299371	Hausa	haus1257	the west	WEST	1817		yâmmá	yâmmá 
+1010	4-12-47-1	73101839474465293	Hausa	haus1257	the north	NORTH	1598		árèewá	árèewá 
+1011	4-12-48-1	73101839419978580	Hausa	haus1257	the south	SOUTH	1595		kúdù	kúdù 
+1012	4-12-53-1	73101839943201515	Hausa	haus1257	to grow	GROW	479		gírmá	gírmá 
+1013	4-12-54-1	73101839259901476	Hausa	haus1257	to measure	MEASURE	1506		áunàa	áunàa 
+1014	4-12-541-1	73101839313534190	Hausa	haus1257	the fathom	FATHOM	81		gàbáa	gàbáa 
+1015	4-12-55-1	73101839725673866	Hausa	haus1257	big	BIG	1202		bàbbá	bàbbá 
+1016	4-12-56-1	7310183928235520	Hausa	haus1257	small	SMALL	1246		ƙàrámíi	ƙàrámíi 
+1017	4-12-57-1	73101839354380463	Hausa	haus1257	long	LONG	1203		mài tsáwóo	mài tsáwóo 
+1018	4-12-58-1	73101839596934899	Hausa	haus1257	tall	TALL	711		dóogóo	dóogóo 
+1019	4-12-59-1	73101839367255175	Hausa	haus1257	short	SHORT	1645		gàjéerée	gàjéerée 
+1020	4-12-61-1	73101839375699148	Hausa	haus1257	wide	WIDE	1243		mài fáaɗíi	mài fáaɗíi 
+1021	4-12-62-1	73101839840542365	Hausa	haus1257	narrow	NARROW	1267		à màtsé	à màtsé 
+1022	4-12-63-1	73101839553313190	Hausa	haus1257	thick	THICK	1244		mài káuríi	mài káuríi 
+1023	4-12-63-2	73101839577893430	Hausa	haus1257	thick	THICK	1244		ɓúɓɓúkéekèe	ɓúɓɓúkéekèe 
+1024	4-12-65-1	73101839771064866	Hausa	haus1257	thin	THIN (OF SHAPE OF OBJECT)	2249		sìir̃íir̃ìi	sìir̃íir̃ìi 
+1025	4-12-67-1	73101839317772664	Hausa	haus1257	deep	DEEP	1593		mài zúrfíi	mài zúrfíi 
+1026	4-12-68-1	7310183973603556	Hausa	haus1257	shallow	SHALLOW	193		máràs zúrfíi	máràs zúrfíi 
+1027	4-12-71-1	73101839145905743	Hausa	haus1257	flat	FLAT	1633		à kwàncé	à kwàncé 
+1028	4-12-73-1	73101839173218270	Hausa	haus1257	straight	STRAIGHT	1404		à mìiƙé	à mìiƙé 
+1029	4-12-74-1	73101839764581981	Hausa	haus1257	crooked	CROOKED	297		à kántàré	à kántàré 
+1030	4-12-74-2	73101839646701889	Hausa	haus1257	crooked	CROOKED	297		à shàagìɗé	à shàagìɗé 
+1031	4-12-75-1	73101839457474432	Hausa	haus1257	the hook	HOOK	1071		ƙúugìyáa	ƙúugìyáa 
+1032	4-12-76-1	73101839194996215	Hausa	haus1257	the corner	CORNER	192		kúsùrwáa	kúsùrwáa 
+1033	4-12-76-2	73101839913985438	Hausa	haus1257	the corner	CORNER	192		kwánàa	kwánàa 
+1034	4-12-77-1	73101839508567709	Hausa	haus1257	the cross	CROSS	1367		gícìyée	gícìyée 
+1035	4-12-78-1	73101839801668795	Hausa	haus1257	the square	SQUARE	850		fíilíi	fíilíi 
+1036	4-12-81-1	73101839551000294	Hausa	haus1257	round	ROUND	1395		kèewàyáyyée	kèewàyáyyée 
+1037	4-12-81-2	73101839732610014	Hausa	haus1257	round	ROUND	1395		ƙwállóo	ƙwállóo 
+1038	4-12-82-1	73101839393543919	Hausa	haus1257	the circle	CIRCLE	1467		gùndúwàa	gùndúwàa 
+1039	4-12-82-2	73101839578277967	Hausa	haus1257	the circle	CIRCLE	1467		dáa'ìr̃áa	dáa'ìr̃áa 
+1040	4-12-83-1	73101839732610014	Hausa	haus1257	the ball	BALL	1845		ƙwállóo	ƙwállóo 
+1041	4-12-84-1	73101839516918227	Hausa	haus1257	the line	LINE	1048		láayìi	láayìi 
+1042	4-12-84-2	73101839695362094	Hausa	haus1257	the line	LINE	1048		jéerìi	jéerìi 
+1043	4-12-85-1	73101839659480207	Hausa	haus1257	the hole	HOLE	1667		ráamìi	ráamìi 
+1044	4-12-92-1	73101839818166422	Hausa	haus1257	similar	SIMILAR	1558		kàmár̃	kàmár̃ 
+1045	4-12-93-1	73101839469445984	Hausa	haus1257	to change	CHANGE	1264		sáakèe	sáakèe 
+1046	4-12-93-2	73101839793478753	Hausa	haus1257	to change	CHANGE	1264		cánjàa	cánjàa 
+1047	4-13-1	73101839775106318	Hausa	haus1257	zero	ZERO	1294		sífìr̃íi	sífìr̃íi 
+1048	4-13-01-1	73101839836650052	Hausa	haus1257	one	ONE	1493		ɗáyá	ɗáyá 
+1049	4-13-02-1	73101839884150167	Hausa	haus1257	two	TWO	1498		bíyú	bíyú 
+1050	4-13-03-1	7310183936362794	Hausa	haus1257	three	THREE	492		úkù	úkù 
+1051	4-13-04-1	73101839462723733	Hausa	haus1257	four	FOUR	1500		húɗú	húɗú 
+1052	4-13-05-1	73101839679584813	Hausa	haus1257	five	FIVE	493		bìyár̃	bìyár̃ 
+1053	4-13-06-1	73101839365266991	Hausa	haus1257	six	SIX	1703		shídà	shídà 
+1054	4-13-07-1	73101839860766833	Hausa	haus1257	seven	SEVEN	1704		bákwài	bákwài 
+1055	4-13-08-1	7310183976312345	Hausa	haus1257	eight	EIGHT	1705		tákwàs	tákwàs 
+1056	4-13-09-1	73101839475701490	Hausa	haus1257	nine	NINE	1483		tár̃à	tár̃à 
+1057	4-13-1-1	73101839788615121	Hausa	haus1257	ten	TEN	1515		góomà	góomà 
+1058	4-13-101-1	73101839861085713	Hausa	haus1257	eleven	ELEVEN	1706		shâa ɗáyá	shâa ɗáyá 
+1059	4-13-102-1	73101839834518634	Hausa	haus1257	twelve	TWELVE	1707		shâa bíyú	shâa bíyú 
+1060	4-13-103-1	73101839635072036	Hausa	haus1257	fifteen	FIFTEEN	1709		shâa bìyár̃	shâa bìyár̃ 
+1061	4-13-104-1	73101839807033042	Hausa	haus1257	twenty	TWENTY	1710		àshìr̃ín	àshìr̃ín 
+1062	4-13-105-1	73101839667874028	Hausa	haus1257	a hundred	HUNDRED	1634		ɗàríi	ɗàríi 
+1063	4-13-106-1	73101839512610003	Hausa	haus1257	a thousand	THOUSAND	1843		dúbúu	dúbúu 
+1064	4-13-107-1	73101839326611831	Hausa	haus1257	to count	COUNT	1420		ƙírgàa	ƙírgàa 
+1065	4-13-14-1	73101839716563509	Hausa	haus1257	all	ALL	98		dúkà	dúkà 
+1066	4-13-15-1	73101839291421944	Hausa	haus1257	many	MANY	1198		yáwàa	yáwàa 
+1067	4-13-16-1	73101839316112518	Hausa	haus1257	more	MORE	1992		kúmáa	kúmáa 
+1068	4-13-17-1	73101839332353388	Hausa	haus1257	few	FEW	1242		kàɗán	kàɗán 
+1069	4-13-18-1	73101839911021893	Hausa	haus1257	enough	ENOUGH	1881		ìsá	ìsá 
+1070	4-13-181-1	73101839919743524	Hausa	haus1257	some	SOME	1241		wású	wású 
+1071	4-13-19-1	73101839291421944	Hausa	haus1257	the crowd	CROWD	2023		yáwàa	yáwàa 
+1072	4-13-21-1	73101839730045607	Hausa	haus1257	full	FULL	1429		à cìké	à cìké 
+1073	4-13-22-1	73101839678574356	Hausa	haus1257	empty	EMPTY	1624		émtì	émtì 
+1074	4-13-22-2	73101839336784295	Hausa	haus1257	empty	EMPTY	1624		wòofíi	wòofíi 
+1075	4-13-23-1	73101839903035654	Hausa	haus1257	the part	PART	779		káshìi	káshìi 
+1076	4-13-24-1	73101839118931617	Hausa	haus1257	the half	HALF	816		rábìi	rábìi 
+1077	4-13-33-1	73101839802019040	Hausa	haus1257	only	ONLY	1580		káwài	káwài 
+1078	4-13-33-2	73101839321015618	Hausa	haus1257	only	ONLY	1580		káɗái	káɗái 
+1079	4-13-34-1	73101839530958106	Hausa	haus1257	first	FIRST	728		ná fárkóo	ná fárkóo 
+1080	4-13-35-1	73101839176704009	Hausa	haus1257	last	LAST (FINAL)	1529		ná ƙàrshée	ná ƙàrshée 
+1081	4-13-36-1	73101839371566781	Hausa	haus1257	second	SECOND	1384		ná bíyú	ná bíyú 
+1082	4-13-37-1	73101839200017755	Hausa	haus1257	the pair	PAIR	1888		tágwàayée	tágwàayée 
+1083	4-13-38-1	73101839297192546	Hausa	haus1257	twice/two times	TWICE	1546		sàu bíyú	sàu bíyú 
+1084	4-13-42-1	7310183980884406	Hausa	haus1257	third	THIRD	1859		ná úkù	ná úkù 
+1085	4-13-44-1	7310183916381311	Hausa	haus1257	three times	THREE TIMES	417		sàu úkù	sàu úkù 
+1086	4-14-11-1	73101839140705224	Hausa	haus1257	the time	TIME	892		lóokàcíi	lóokàcíi 
+1087	4-14-11-2	73101839733751144	Hausa	haus1257	the time	TIME	892		sáa'àa	sáa'àa 
+1088	4-14-12-1	73101839321141270	Hausa	haus1257	the age	AGE	1789		shèeƙáràa	shèeƙáràa 
+1089	4-14-13-1	73101839993719982	Hausa	haus1257	new	NEW	1231		sáabóo	sáabóo 
+1090	4-14-14-1	73101839681686663	Hausa	haus1257	young	YOUNG	1207		yáaròo	yáaròo 
+1091	4-14-15-1	73101839208215795	Hausa	haus1257	old	OLD	1229		tsóohóo	tsóohóo 
+1092	4-14-16-1	73101839657912690	Hausa	haus1257	early	EARLY	672		dà wúríi	dà wúríi 
+1093	4-14-17-1	7310183949364676	Hausa	haus1257	late	LATE	477		à màkàré	à màkàré 
+1094	4-14-18-1	73101839951899784	Hausa	haus1257	now	NOW	1376		yànzú	yànzú 
+1095	4-14-19-1	73101839764759716	Hausa	haus1257	immediately	IMMEDIATELY	1963		yànzú-yànzú	yànzú-yànzú 
+1096	4-14-21-1	73101839324402496	Hausa	haus1257	fast	FAST	1631		sáuríi	sáuríi 
+1097	4-14-21-2	73101839193598603	Hausa	haus1257	fast	FAST	1631		mázá	mázá 
+1098	4-14-22-1	73101839199168570	Hausa	haus1257	slow	SLOW	701		sànnú-sànnú	sànnú-sànnú 
+1099	4-14-23-1	73101839647738553	Hausa	haus1257	to hurry	HURRY	754		yí hánzáríi	yí hánzáríi 
+1100	4-14-24-1	73101839829495842	Hausa	haus1257	to be late	BE LATE	425		màkárà	màkárà 
+1101	4-14-25-1	73101839877346751	Hausa	haus1257	to begin	BEGIN	1806		fáaràa	fáaràa 
+1102	4-14-252-1	73101839570655886	Hausa	haus1257	to last	LAST (ENDURE)	1186		dáɗèe	dáɗèe 
+1103	4-14-252-2	73101839496619731	Hausa	haus1257	to last	LAST (ENDURE)	1186		jímàa	jímàa 
+1104	4-14-26-1	73101839956122509	Hausa	haus1257	the end(2)	END (OF TIME)	743		ƙàrshée	ƙàrshée 
+1105	4-14-27-1	73101839750423221	Hausa	haus1257	to finish	FINISH	1766		gámàa (2)	gámàa (2) 
+1106	4-14-28-1	73101839190987606	Hausa	haus1257	to cease	CEASE	1928		tsáyàa	tsáyàa 
+1107	4-14-29-1	73101839557080711	Hausa	haus1257	ready	READY	790		à shìryé	à shìryé 
+1108	4-14-31-1	73101839914498841	Hausa	haus1257	always	ALWAYS	1676		kúllúm	kúllúm 
+1109	4-14-32-1	73101839188659275	Hausa	haus1257	often	OFTEN	1852		sàu dà yáwàa	sàu dà yáwàa 
+1110	4-14-33-1	73101839110521622	Hausa	haus1257	sometimes	SOMETIMES	1544		lóokàcí-lóokàcí	lóokàcí-lóokàcí 
+1111	4-14-331-1	73101839485346242	Hausa	haus1257	soon	SOON	703		jìm kàɗán	jìm kàɗán 
+1112	4-14-332-1	73101839995318898	Hausa	haus1257	for a long time	FOR A LONG TIME	418		dâa	dâa 
+1113	4-14-34-1	73101839358867260	Hausa	haus1257	never	NEVER	1656		àbàdá	àbàdá 
+1114	4-14-35-1	73101839316112518	Hausa	haus1257	again	AGAIN	204		kúmáa	kúmáa 
+1115	4-14-41-1	73101839934963598	Hausa	haus1257	the day(1)	DAY (24 HOURS)	1260		ráanáa	ráanáa 
+1116	4-14-42-1	73101839216750400	Hausa	haus1257	the night	NIGHT	1233		dárée	dárée 
+1117	4-14-43-1	73101839338331254	Hausa	haus1257	the dawn	DAWN	729		àlfíjìr̃	àlfíjìr̃ 
+1118	4-14-43-2	73101839160244105	Hausa	haus1257	the dawn	DAWN	729		jìjjífíi	jìjjífíi 
+1119	4-14-44-1	73101839354175859	Hausa	haus1257	the morning	MORNING	1339		sáafée	sáafée 
+1120	4-14-45-1	7310183988246037	Hausa	haus1257	the midday	MIDDAY	12		ráanáa tsákàa	ráanáa tsákàa 
+1121	4-14-451-1	73101839292589420	Hausa	haus1257	the afternoon	AFTERNOON	1807		dà yâmmá	dà yâmmá 
+1122	4-14-46-1	73101839462014594	Hausa	haus1257	the evening	EVENING	1629		màràicée	màràicée 
+1123	4-14-47-1	73101839792256881	Hausa	haus1257	today	TODAY	1283		yâu	yâu 
+1124	4-14-48-1	73101839836000428	Hausa	haus1257	tomorrow	TOMORROW	1329		gòobé	gòobé 
+1125	4-14-481-1	73101839210059725	Hausa	haus1257	the day after tomorrow	DAY AFTER TOMORROW	1179		jíibí	jíibí 
+1126	4-14-49-1	73101839222443230	Hausa	haus1257	yesterday	YESTERDAY	1174		jíyà	jíyà 
+1127	4-14-491-1	73101839889702180	Hausa	haus1257	the day before yesterday	DAY BEFORE YESTERDAY	1180		shéekáránjíyà	shéekáránjíyà 
+1128	4-14-51-1	73101839487505568	Hausa	haus1257	the hour	HOUR	1353		ƙárfèe	ƙárfèe 
+1129	4-14-51-2	73101839805842988	Hausa	haus1257	the hour	HOUR	1353		áwàa	áwàa 
+1130	4-14-53-1	7310183973186432	Hausa	haus1257	the clock	CLOCK	1323		àgóogó	àgóogó 
+1131	4-14-61-1	73101839515926834	Hausa	haus1257	the week	WEEK	1469		máakòo	máakòo 
+1132	4-14-61-2	73101839746451836	Hausa	haus1257	the week	WEEK	1469		sáatíi	sáatíi 
+1133	4-14-62-1	73101839154669073	Hausa	haus1257	Sunday	SUNDAY	1699		Láhádì	Láhádì 
+1134	4-14-63-1	73101839957351399	Hausa	haus1257	Monday	MONDAY	1697		Lìtìnîn	Lìtìnîn 
+1135	4-14-64-1	73101839230132214	Hausa	haus1257	Tuesday	TUESDAY	1695		Tàláatà	Tàláatà 
+1136	4-14-65-1	73101839304999097	Hausa	haus1257	Wednesday	WEDNESDAY	1694		Láar~ábà (Niger); Làar~àbá (Standard, Nigeria)	Láar~ábà (Niger) 
+1137	4-14-65-2	73101839304999097	Hausa	haus1257	Wednesday	WEDNESDAY	1694		Láar~ábà (Niger); Làar~àbá (Standard, Nigeria)	Làar~àbá (Standard, Nigeria) 
+1138	4-14-66-1	73101839704026449	Hausa	haus1257	Thursday	THURSDAY	1693		Àlhàmîs	Àlhàmîs 
+1139	4-14-67-1	73101839884632846	Hausa	haus1257	Friday	FRIDAY	1692		Júmmá’àa	Júmmá’àa 
+1140	4-14-68-1	73101839612703216	Hausa	haus1257	Saturday	SATURDAY	1700		Àsábàr̃	Àsábàr̃ 
+1141	4-14-68-2	73101839805335716	Hausa	haus1257	Saturday	SATURDAY	1700		sáatìi	sáatìi 
+1142	4-14-68-3	73101839312649739	Hausa	haus1257	Saturday	SATURDAY	1700		súbdìi	súbdìi 
+1143	4-14-71-1	73101839339167957	Hausa	haus1257	the month	MONTH	1370		wátàa	wátàa 
+1144	4-14-73-1	73101839351847422	Hausa	haus1257	the year	YEAR	1226		shèeƙáràa, shèekáràa	shèeƙáràa 
+1145	4-14-73-2	73101839351847422	Hausa	haus1257	the year	YEAR	1226		shèeƙáràa, shèekáràa	shèekáràa 
+1146	4-14-74-1	73101839242955738	Hausa	haus1257	the winter	WINTER	1471		hùntúur̃ùu	hùntúur̃ùu 
+1147	4-14-74-2	73101839145929900	Hausa	haus1257	the winter	WINTER	1471		mài ɗáaríi	mài ɗáaríi 
+1148	4-14-75-1	73101839961251980	Hausa	haus1257	the spring(2)	SPRINGTIME	1537		ráaníi	ráaníi 
+1149	4-14-76-1	73101839961251980	Hausa	haus1257	the summer	SUMMER	1342		ráaníi	ráaníi 
+1150	4-14-77-1	73101839331124378	Hausa	haus1257	the autumn/fall	AUTUMN	1276		kàakáa (2)	kàakáa (2) 
+1151	4-14-78-1	73101839272574931	Hausa	haus1257	the season	SEASON	691		fásàlíi	fásàlíi 
+1152	4-14-78-2	73101839140705224	Hausa	haus1257	the season	SEASON	691		lóokàcíi	lóokàcíi 
+1153	4-15-21-1	73101839870784358	Hausa	haus1257	to smell(1)	SMELL (STINK)	1587		jí	jí 
+1154	4-15-89-1	73101839314075837	Hausa	haus1257	wrinkled	WRINKLED	380		dúƙúnƙùnée	dúƙúnƙùnée 
+1155	4-15-212-1	73101839568930143	Hausa	haus1257	to sniff	SNIFF	375		shèeƙáa (2)	shèeƙáa (2) 
+1156	4-15-212-2	7310183984924991	Hausa	haus1257	to sniff	SNIFF	375		shínshìnáa	shínshìnáa 
+1157	4-15-212-3	73101839451245847	Hausa	haus1257	to sniff	SNIFF	375		sánsànáa	sánsànáa 
+1158	4-15-22-1	73101839870784358	Hausa	haus1257	to smell(2)	SMELL (PERCEIVE)	1586		jí	jí 
+1159	4-15-25-1	73101839162559431	Hausa	haus1257	fragrant	FRAGRANT	376		mài ƙánshíi	mài ƙánshíi 
+1160	4-15-26-1	73101839163567807	Hausa	haus1257	stinking	STINKING	42		mài wáaríi	mài wáaríi 
+1161	4-15-31-1	7310183940964014	Hausa	haus1257	to taste	TASTE (SOMETHING)	21		ɗánɗànáa	ɗánɗànáa 
+1162	4-15-35-1	7310183966422299	Hausa	haus1257	sweet	SWEET	717		mài záaƙíi	mài záaƙíi 
+1163	4-15-35-2	73101839816177606	Hausa	haus1257	sweet	SWEET	717		mài dáaɗíi	mài dáaɗíi 
+1164	4-15-36-1	73101839339033272	Hausa	haus1257	salty	SALTY	1091		mài gíshír̃íi	mài gíshír̃íi 
+1165	4-15-36-2	73101839676541114	Hausa	haus1257	salty	SALTY	1091		mài zártsíi	mài zártsíi 
+1166	4-15-37-1	73101839418971179	Hausa	haus1257	bitter	BITTER	887		mài ɗáacíi	mài ɗáacíi 
+1167	4-15-38-1	73101839630465739	Hausa	haus1257	sour	SOUR	1906		mài tsáamíi	mài tsáamíi 
+1168	4-15-41-1	73101839870784358	Hausa	haus1257	to hear	HEAR	1408		jí	jí 
+1169	4-15-42-1	73101839870784358	Hausa	haus1257	to listen	LISTEN	1608		jí	jí 
+1170	4-15-42-2	73101839492586992	Hausa	haus1257	to listen	LISTEN	1608		sáuràaráa	sáuràaráa 
+1171	4-15-44-1	73101839195676019	Hausa	haus1257	the sound or noise	SOUND OR NOISE	1811		ƙáaráa	ƙáaráa 
+1172	4-15-45-1	73101839652576091	Hausa	haus1257	loud	LOUD	377		mài ƙáaráa	mài ƙáaráa 
+1173	4-15-46-1	73101839765085594	Hausa	haus1257	quiet	QUIET	1314		shírúu	shírúu 
+1174	4-15-46-2	73101839866868891	Hausa	haus1257	quiet	QUIET	1314		mài nàtsúwáa	mài nàtsúwáa 
+1175	4-15-51-1	73101839274594019	Hausa	haus1257	to see	SEE	1409		gáníi	gáníi 
+1176	4-15-52-1	73101839371618034	Hausa	haus1257	to look	LOOK	1819		dúubàa	dúubàa 
+1177	4-15-52-2	73101839646629433	Hausa	haus1257	to look	LOOK	1819		kàlláa	kàlláa 
+1178	4-15-55-1	73101839348632161	Hausa	haus1257	to show	SHOW	1039		núunàa	núunàa 
+1179	4-15-56-1	73101839194058726	Hausa	haus1257	to shine	SHINE	708		yí wàlƙíyáa	yí wàlƙíyáa 
+1180	4-15-56-2	73101839943891523	Hausa	haus1257	to shine	SHINE	708		ƙyálƙyàláa	ƙyálƙyàláa 
+1181	4-15-57-1	73101839394126983	Hausa	haus1257	bright	BRIGHT	679		mài háskée	mài háskée 
+1182	4-15-61-1	73101839821810784	Hausa	haus1257	the colour/color	COLOR	1613		láunìi	láunìi 
+1183	4-15-61-2	73101839779722666	Hausa	haus1257	the colour/color	COLOR	1613		írìi	írìi 
+1184	4-15-61-3	73101839687173259	Hausa	haus1257	the colour/color	COLOR	1613		kálàa	kálàa 
+1185	4-15-62-1	73101839860342360	Hausa	haus1257	light(2)	LIGHT (COLOR)	250		mài háskée	mài háskée 
+1186	4-15-63-1	73101839882549405	Hausa	haus1257	dark	DARK	706		mài dúhúu	mài dúhúu 
+1187	4-15-64-1	73101839239616215	Hausa	haus1257	white	WHITE	1335		fáríi	fáríi 
+1188	4-15-65-1	73101839878065843	Hausa	haus1257	black	BLACK	163		báƙíi	báƙíi 
+1189	4-15-66-1	73101839892942647	Hausa	haus1257	red	RED	156		jáa (2)	jáa (2) 
+1190	4-15-67-1	73101839821294108	Hausa	haus1257	blue	BLUE	837		shúuɗìi	shúuɗìi 
+1191	4-15-68-1	73101839350659341	Hausa	haus1257	green	GREEN	1425		tsánwáa	tsánwáa 
+1192	4-15-68-2	73101839392920418	Hausa	haus1257	green	GREEN	1425		kóor̃èe	kóor̃èe 
+1193	4-15-69-1	73101839792536814	Hausa	haus1257	yellow	YELLOW	1424		ràawáyàa	ràawáyàa 
+1194	4-15-71-1	73101839980253573	Hausa	haus1257	to touch	TOUCH	1892		táɓàa	táɓàa 
+1195	4-15-712-1	73101839853776757	Hausa	haus1257	to pinch	PINCH	378		tsúnkùláa	tsúnkùláa 
+1196	4-15-72-1	73101839870784358	Hausa	haus1257	to feel	FEEL	1079		jí	jí 
+1197	4-15-74-1	73101839705031703	Hausa	haus1257	hard	HARD	1884		mài táuríi	mài táuríi 
+1198	4-15-75-1	73101839845423827	Hausa	haus1257	soft	SOFT	1856		mài láushíi	mài láushíi 
+1199	4-15-76-1	7310183917358070	Hausa	haus1257	rough(1)	ROUGH	1923		mài káushíi	mài káushíi 
+1200	4-15-77-1	73101839436708323	Hausa	haus1257	smooth	SMOOTH	1234		mài sántsíi	mài sántsíi 
+1201	4-15-78-1	73101839937429069	Hausa	haus1257	sharp	SHARP	1396		mài káifíi	mài káifíi 
+1202	4-15-79-1	73101839838400638	Hausa	haus1257	blunt	BLUNT	379		dáakùsáa	dáakùsáa 
+1203	4-15-81-1	73101839355194213	Hausa	haus1257	heavy	HEAVY	1210		mài náuyíi	mài náuyíi 
+1204	4-15-82-1	7310183980810528	Hausa	haus1257	light(1)	LIGHT (WEIGHT)	1052		máràs náuyíi	máràs náuyíi 
+1205	4-15-83-1	73101839392182831	Hausa	haus1257	wet	WET	1726		mài láimàa	mài láimàa 
+1206	4-15-84-1	73101839285681531	Hausa	haus1257	dry	DRY	1398		à bùushé	à bùushé 
+1207	4-15-85-1	73101839526060743	Hausa	haus1257	hot	HOT	1286		mài záafíi	mài záafíi 
+1208	4-15-851-1	73101839645781788	Hausa	haus1257	warm	WARM	1232		mài ɗìmíi	mài ɗìmíi 
+1209	4-15-86-1	731018396556806	Hausa	haus1257	cold	COLD	1287		mài sányíi	mài sányíi 
+1210	4-15-86-2	73101839145929900	Hausa	haus1257	cold	COLD	1287		mài ɗáaríi	mài ɗáaríi 
+1211	4-15-87-1	73101839627606740	Hausa	haus1257	clean	CLEAN	704		mài tsábtàa	mài tsábtàa 
+1212	4-15-88-1	73101839270862169	Hausa	haus1257	dirty	DIRTY	1230		mài dáuɗàa	mài dáuɗàa 
+1213	4-16-11-1	73101839214615740	Hausa	haus1257	the soul or spirit	SOUL	811		râi	râi 
+1214	4-16-15-1	73101839502057201	Hausa	haus1257	surprised or astonished	SURPRISED	1572		yí màamáakìi	yí màamáakìi 
+1215	4-16-18-1	73101839733751144	Hausa	haus1257	the good luck	GOOD LUCK	720		sáa'àa	sáa'àa 
+1216	4-16-19-1	73101839915616804	Hausa	haus1257	the bad luck	BAD LUCK	56		ráshìn sáa'àa	ráshìn sáa'àa 
+1217	4-16-23-1	73101839609974145	Hausa	haus1257	happy	HAPPY	1495		yí múr̃nàa	yí múr̃nàa 
+1218	4-16-25-1	73101839856058132	Hausa	haus1257	to laugh	LAUGH	1355		dàaríyáa	dàaríyáa 
+1219	4-16-251-1	73101839997502454	Hausa	haus1257	to smile	SMILE	1451		yí mùr̃múshíi	yí mùr̃múshíi 
+1220	4-16-26-1	7310183987586618	Hausa	haus1257	to play	PLAY	1413		yí wàasáa	yí wàasáa 
+1221	4-16-27-1	73101839428357717	Hausa	haus1257	to love	LOVE	923		sôo	sôo 
+1222	4-16-27-2	73101839955162196	Hausa	haus1257	to love	LOVE	923		yí ƙàunáa	yí ƙàunáa 
+1223	4-16-29-1	73101839475598372	Hausa	haus1257	to kiss	KISS	578		súmbàtáa	súmbàtáa 
+1224	4-16-3-1	73101839818421353	Hausa	haus1257	to embrace	EMBRACE	928		rùngúmàa	rùngúmàa 
+1225	4-16-31-1	73101839278985219	Hausa	haus1257	the pain	PAIN	1783		cíiwòo	cíiwòo 
+1226	4-16-32-1	73101839278985219	Hausa	haus1257	the grief	GRIEF	1668		cíiwòo	cíiwòo 
+1227	4-16-32-2	73101839876512179	Hausa	haus1257	the grief	GRIEF	1668		báƙín cíkìi	báƙín cíkìi 
+1228	4-16-33-1	73101839881091094	Hausa	haus1257	the anxiety	ANXIETY	1000		tsòoróo	tsòoróo 
+1229	4-16-33-2	73101839196166150	Hausa	haus1257	the anxiety	ANXIETY	1000		jùuyàayíi	jùuyàayíi 
+1230	4-16-34-1	73101839423235540	Hausa	haus1257	to regret or be sorry	REGRET	1875		túubá	túubá 
+1231	4-16-35-1	73101839286559496	Hausa	haus1257	the pity	PITY	1141		jînƙái	jînƙái 
+1232	4-16-37-1	7310183939160360	Hausa	haus1257	to cry	CRY	1839		kúuká	kúuká 
+1233	4-16-38-1	73101839804376123	Hausa	haus1257	the tear	TEAR (OF EYE)	1651		háwàayée	háwàayée 
+1234	4-16-39-1	73101839843470261	Hausa	haus1257	to groan	GROAN	716		yí gùnàagúníi	yí gùnàagúníi 
+1235	4-16-41-1	73101839499950559	Hausa	haus1257	to hate	HATE	1607		tsànáa	tsànáa 
+1236	4-16-42-1	73101839478441680	Hausa	haus1257	the anger	ANGER	82		fúshíi	fúshíi 
+1237	4-16-44-1	73101839195529248	Hausa	haus1257	the envy or jealousy	ENVY	40		kíishìi	kíishìi 
+1238	4-16-45-1	73101839480557451	Hausa	haus1257	the shame	SHAME	1776		kúnyàa	kúnyàa 
+1239	4-16-48-1	73101839861587186	Hausa	haus1257	proud	PROUD	174		yí tàaƙámáa	yí tàaƙámáa 
+1240	4-16-51-1	73101839206019919	Hausa	haus1257	to dare	DARE	1779		ƙàalùubàlántàa	ƙàalùubàlántàa 
+1241	4-16-52-1	73101839116310464	Hausa	haus1257	brave	BRAVE	3		jáar̃ùmíi	jáar̃ùmíi 
+1242	4-16-53-1	73101839881091094	Hausa	haus1257	the fear	FEAR (FRIGHT)	781		tsòoróo	tsòoróo 
+1243	4-16-54-1	73101839209128194	Hausa	haus1257	the danger	DANGER	1810		háɗàr̃íi	háɗàr̃íi 
+1244	4-16-62-1	73101839225965592	Hausa	haus1257	to want	WANT	1784		sóo	sóo 
+1245	4-16-622-1	73101839202747726	Hausa	haus1257	to choose	CHOOSE	1750		zàaɓáa	zàaɓáa 
+1246	4-16-63-1	73101839176261887	Hausa	haus1257	to hope	HOPE (SOMETHING)	3212		yí fáatáa	yí fáatáa 
+1247	4-16-65-1	73101839466894885	Hausa	haus1257	faithful	FAITHFUL	100		àmìntáccée	àmìntáccée 
+1248	4-16-66-1	73101839471927040	Hausa	haus1257	true	TRUE	1657		ná gáskíyáa	ná gáskíyáa 
+1249	4-16-67-1	73101839897983403	Hausa	haus1257	to lie(2)	LIE (MISLEAD)	601		yí ƙáryáa	yí ƙáryáa 
+1250	4-16-68-1	73101839752678331	Hausa	haus1257	the deceit	DECEIT	13		múnáafúncìi	múnáafúncìi 
+1251	4-16-69-1	73101839996308402	Hausa	haus1257	to forgive	FORGIVE	1528		yáafèe	yáafèe 
+1252	4-16-71-1	73101839816177606	Hausa	haus1257	good	GOOD	1035		mài dáaɗíi	mài dáaɗíi 
+1253	4-16-71-2	73101839973759953	Hausa	haus1257	good	GOOD	1035		mài kyâu	mài kyâu 
+1254	4-16-72-1	73101839795577959	Hausa	haus1257	bad	BAD	1292		múugùu	múugùu 
+1255	4-16-72-2	7310183999715257	Hausa	haus1257	bad	BAD	1292		bâa kyâu	bâa kyâu 
+1256	4-16-73-1	73101839130422491	Hausa	haus1257	right(2)	CORRECT (RIGHT)	1725		dáidái	dáidái 
+1257	4-16-74-1	73101839814732851	Hausa	haus1257	wrong	WRONG	1390		bàrbái	bàrbái 
+1258	4-16-74-2	73101839333459280	Hausa	haus1257	wrong	WRONG	1390		bàa dáidái bá nèe	bàa dáidái bá nèe 
+1259	4-16-76-1	73101839124357951	Hausa	haus1257	the fault	FAULT	134		kúskúrèe	kúskúrèe 
+1260	4-16-76-2	73101839877101717	Hausa	haus1257	the fault	FAULT	134		lâifíi	lâifíi 
+1261	4-16-77-1	73101839124357951	Hausa	haus1257	the mistake	MISTAKE	1293		kúskúrèe	kúskúrèe 
+1262	4-16-77-2	73101839877101717	Hausa	haus1257	the mistake	MISTAKE	1293		lâifíi	lâifíi 
+1263	4-16-78-1	73101839877101717	Hausa	haus1257	the blame	BLAME	381		lâifíi	lâifíi 
+1264	4-16-79-1	73101839510106650	Hausa	haus1257	the praise	PRAISE	1687		yàbáa	yàbáa 
+1265	4-16-81-1	73101839973759953	Hausa	haus1257	beautiful	BEAUTIFUL	1427		mài kyâu	mài kyâu 
+1266	4-16-82-1	73101839601820621	Hausa	haus1257	ugly	UGLY	1548		mài múunìi	mài múunìi 
+1267	4-16-83-1	73101839776654412	Hausa	haus1257	greedy	GREEDY	2018		mài máƙòo	mài máƙòo 
+1268	4-16-84-1	73101839870297887	Hausa	haus1257	clever	CLEVER	1310		mài hánkàlíi	mài hánkàlíi 
+1269	4-16-84-2	73101839123621421	Hausa	haus1257	clever	CLEVER	1310		mài wàayóo	mài wàayóo 
+1270	4-17-11-1	73101839230034350	Hausa	haus1257	the mind	MIND	1562		r̃á’àyíi	r̃á’àyíi 
+1271	4-17-13-1	73101839343161311	Hausa	haus1257	to think(1)	THINK (REFLECT)	1415		yí tùnàaníi	yí tùnàaníi 
+1272	4-17-14-1	73101839677603511	Hausa	haus1257	to think(2)	THINK (BELIEVE)	1513		yí tsàmmáaníi	yí tsàmmáaníi 
+1273	4-17-15-1	7310183961117920	Hausa	haus1257	to believe	BELIEVE	1890		zàtáa	zàtáa 
+1274	4-17-16-1	73101839633516199	Hausa	haus1257	to understand	UNDERSTAND	1536		gáanèe	gáanèe 
+1275	4-17-16-2	73101839882717116	Hausa	haus1257	to understand	UNDERSTAND	1536		fàhímtàa	fàhímtàa 
+1276	4-17-17-1	73101839585472328	Hausa	haus1257	to know	KNOW (SOMETHING)	1410		sánìi	sánìi 
+1277	4-17-171-1	73101839653310283	Hausa	haus1257	to guess	GUESS	1932		cìitáa	cìitáa 
+1278	4-17-172-1	73101839692978900	Hausa	haus1257	to imitate	IMITATE	117		kwàikwáyàa	kwàikwáyàa 
+1279	4-17-18-1	73101839669830655	Hausa	haus1257	to seem	SEEM	1521		yí àláamàa	yí àláamàa 
+1280	4-17-19-1	73101839465782705	Hausa	haus1257	the idea	IDEA	1609		dàbáar̃àa	dàbáar̃àa 
+1281	4-17-19-2	73101839230034350	Hausa	haus1257	the idea	IDEA	1609		r̃á’àyíi	r̃á’àyíi 
+1282	4-17-21-1	73101839892266800	Hausa	haus1257	wise	WISE	698		másàníi	másàníi 
+1283	4-17-21-2	73101839549032267	Hausa	haus1257	wise	WISE	698		dáttíijòo	dáttíijòo 
+1284	4-17-22-1	73101839853581387	Hausa	haus1257	stupid	STUPID	1518		wáawáa	wáawáa 
+1285	4-17-23-1	73101839258436543	Hausa	haus1257	mad	MAD	1899		máhàukàcíi	máhàukàcíi 
+1286	4-17-24-1	73101839733497181	Hausa	haus1257	to learn	LEARN	504		kòoyáa	kòoyáa 
+1287	4-17-242-1	7310183928964972	Hausa	haus1257	to study	STUDY	1929		kár̃àntáa	kár̃àntáa 
+1288	4-17-242-2	73101839594873660	Hausa	haus1257	to study	STUDY	1929		yí názàr̃íi	yí názàr̃íi 
+1289	4-17-25-1	73101839907298729	Hausa	haus1257	to teach	TEACH	709		kóoyár̃ dà	kóoyár̃ dà 
+1290	4-17-26-1	73101839907832802	Hausa	haus1257	the pupil	PUPIL (STUDENT)	753		ɗáalìbíi	ɗáalìbíi 
+1291	4-17-27-1	7310183912674897	Hausa	haus1257	the teacher	TEACHER	1038		máalàmíi	máalàmíi 
+1292	4-17-28-1	73101839945519265	Hausa	haus1257	the school	SCHOOL	673		mákár̃ántáa	mákár̃ántáa 
+1293	4-17-31-1	73101839916509365	Hausa	haus1257	to remember	REMEMBER	707		túnàa	túnàa 
+1294	4-17-32-1	73101839464732310	Hausa	haus1257	to forget	FORGET	1523		mântáa	mântáa 
+1295	4-17-34-1	73101839882054141	Hausa	haus1257	clear	CLEAR	989		gáráu	gáráu 
+1296	4-17-35-1	7310183952099326	Hausa	haus1257	obscure	OBSCURE	1764		ɓòoyáyyée	ɓòoyáyyée 
+1297	4-17-35-2	73101839539858976	Hausa	haus1257	obscure	OBSCURE	1764		mài dúhùu	mài dúhùu 
+1298	4-17-36-1	73101839293674117	Hausa	haus1257	secret	SECRET	1121		ná àsíir̃íi	ná àsíir̃íi 
+1299	4-17-37-1	73101839981776640	Hausa	haus1257	certain	CERTAIN	509		tábbàt	tábbàt 
+1300	4-17-38-1	73101839780188684	Hausa	haus1257	to explain	EXPLAIN	1626		báyyànáa	báyyànáa 
+1301	4-17-41-1	73101839127966990	Hausa	haus1257	the intention	INTENTION	1162		mánúfáa	mánúfáa 
+1302	4-17-41-2	73101839289456235	Hausa	haus1257	the intention	INTENTION	1162		búurìi	búurìi 
+1303	4-17-42-1	73101839807756893	Hausa	haus1257	the cause	CAUSE	860		dàlíilìi	dàlíilìi 
+1304	4-17-43-1	73101839753076885	Hausa	haus1257	the doubt	DOUBT	1308		shákkàa	shákkàa 
+1305	4-17-44-1	7310183998337231	Hausa	haus1257	to suspect	SUSPECT	1841		tùhúmtàa	tùhúmtàa 
+1306	4-17-441-1	73101839317837713	Hausa	haus1257	to betray	BETRAY	1902		cí àmáanàa	cí àmáanàa 
+1307	4-17-45-1	73101839700121696	Hausa	haus1257	the need or necessity	NEED (NOUN)	643		bùƙáatàa	bùƙáatàa 
+1308	4-17-46-1	73101839108918672	Hausa	haus1257	easy	EASY	686		mài sáuƙíi	mài sáuƙíi 
+1309	4-17-47-1	73101839185623036	Hausa	haus1257	difficult	DIFFICULT	584		mài wùyáa	mài wùyáa 
+1310	4-17-48-1	73101839146835485	Hausa	haus1257	to try	TRY	1812		gwádàa	gwádàa 
+1311	4-17-48-2	73101839635581539	Hausa	haus1257	to try	TRY	1812		jár̃r̃àbáa	jár̃r̃àbáa 
+1312	4-17-49-1	73101839397902533	Hausa	haus1257	the manner	MANNER	488		hákà	hákà 
+1313	4-17-49-2	73101839217986059	Hausa	haus1257	the manner	MANNER	488		sálóo	sálóo 
+1314	4-17-51-1	73101839316112518	Hausa	haus1257	and	AND	1577		kúmáa	kúmáa 
+1315	4-17-51-2	73101839702849686	Hausa	haus1257	and	AND	1577		dà	dà 
+1316	4-17-52-1	73101839882181018	Hausa	haus1257	because	BECAUSE	1157		sábòodà	sábòodà 
+1317	4-17-53-1	73101839548405583	Hausa	haus1257	if	IF	1459		ín	ín 
+1318	4-17-54-1	73101839866204184	Hausa	haus1257	or	OR	1014		kóo	kóo 
+1319	4-17-55-1	73101839746253255	Hausa	haus1257	yes	YES	1268		íi	íi 
+1320	4-17-55-2	73101839208769214	Hausa	haus1257	yes	YES	1268		ná’àm	ná’àm 
+1321	4-17-56-1	73101839444134975	Hausa	haus1257	no	NO	1269		áa'àa	áa'àa 
+1322	4-17-61-1	7310183919583945	Hausa	haus1257	how?	HOW	1239		yàayàa	yàayàa 
+1323	4-17-62-1	73101839773159545	Hausa	haus1257	how many?	HOW MANY	822		náwà	náwà 
+1324	4-17-63-1	73101839773159545	Hausa	haus1257	how much?	HOW MUCH	531		náwà	náwà 
+1325	4-17-64-1	7310183930991730	Hausa	haus1257	what?	WHAT	1236		mèe	mèe 
+1326	4-17-65-1	7310183916970423	Hausa	haus1257	when?	WHEN	1238		yàushè	yàushè 
+1327	4-17-66-1	7310183962766345	Hausa	haus1257	where?	WHERE	1237		ìnaa	ìnaa 
+1328	4-17-67-1	73101839597038570	Hausa	haus1257	which?	WHICH	727		wànè	wànè 
+1329	4-17-68-1	73101839340518496	Hausa	haus1257	who?	WHO	1235		wàa	wàa 
+1330	4-17-69-1	73101839677958048	Hausa	haus1257	why?	WHY	1270		dón mèe	dón mèe 
+1331	4-18-11-1	73101839400443045	Hausa	haus1257	the voice	VOICE	1363		múryàa	múryàa 
+1332	4-18-12-1	73101839928924910	Hausa	haus1257	to sing	SING	1261		réerà wáaƙàa	réerà wáaƙàa 
+1333	4-18-13-1	731018391280557	Hausa	haus1257	to shout	SHOUT	715		yí íihùu	yí íihùu 
+1334	4-18-13-2	73101839832819927	Hausa	haus1257	to shout	SHOUT	715		yí ƙáaráa	yí ƙáaráa 
+1335	4-18-15-1	73101839727681526	Hausa	haus1257	to whisper	WHISPER	55		ráɗàa	ráɗàa 
+1336	4-18-16-1	73101839727681526	Hausa	haus1257	to mumble	MUMBLE	128		ráɗàa	ráɗàa 
+1337	4-18-16-2	73101839725516683	Hausa	haus1257	to mumble	MUMBLE	128		gùngùníi	gùngùníi 
+1338	4-18-17-1	73101839298947515	Hausa	haus1257	to whistle	WHISTLE	1025		yí fíitòo	yí fíitòo 
+1339	4-18-18-1	73101839832819927	Hausa	haus1257	to shriek	SHRIEK	298		yí ƙáaráa	yí ƙáaráa 
+1340	4-18-19-1	73101839986303854	Hausa	haus1257	to howl	HOWL	526		yí ƙúugíi	yí ƙúugíi 
+1341	4-18-21-1	73101839301037018	Hausa	haus1257	to speak or talk	SPEAK	1623		yí màgánàa	yí màgánàa 
+1342	4-18-211-1	73101839725903173	Hausa	haus1257	to stutter or stammer	STUTTER	1866		ì’ìnáa	ì’ìnáa 
+1343	4-18-22-1	73101839553289267	Hausa	haus1257	to say	SAY	1458		cêe	cêe 
+1344	4-18-22-2	73101839743626900	Hausa	haus1257	to say	SAY	1458		fáɗìi	fáɗìi 
+1345	4-18-221-1	73101839493594716	Hausa	haus1257	to tell	TELL	1711		gáyàa	gáyàa 
+1346	4-18-222-1	73101839585088247	Hausa	haus1257	the speech	SPEECH	1115		jàwáabìi	jàwáabìi 
+1347	4-18-23-1	73101839258012953	Hausa	haus1257	to be silent	BE SILENT	48		yí shírúu	yí shírúu 
+1348	4-18-24-1	73101839831428782	Hausa	haus1257	the language	LANGUAGE	1307		hárshèe	hárshèe 
+1349	4-18-26-1	73101839638201589	Hausa	haus1257	the word	WORD	1599		kálmàa	kálmàa 
+1350	4-18-28-1	73101839568521305	Hausa	haus1257	the name	NAME	1405		súunáa	súunáa 
+1351	4-18-31-1	73101839431980623	Hausa	haus1257	to ask(1)	ASK (INQUIRE)	1309		tàmbáyàa	tàmbáyàa 
+1352	4-18-32-1	73101839707063121	Hausa	haus1257	to answer	ANSWER	1275		ámsàa	ámsàa 
+1353	4-18-32-2	73101839778449726	Hausa	haus1257	to answer	ANSWER	1275		báa dà jàwáabìi	báa dà jàwáabìi 
+1354	4-18-33-1	73101839228070436	Hausa	haus1257	to admit	ADMIT	2022		yàr̃dá	yàr̃dá 
+1355	4-18-33-2	7310183924581572	Hausa	haus1257	to admit	ADMIT	2022		ámìncée	ámìncée 
+1356	4-18-33-3	73101839293482639	Hausa	haus1257	to admit	ADMIT	2022		túubá	túubá 
+1357	4-18-34-1	73101839476787171	Hausa	haus1257	to deny	DENY	755		ƙí	ƙí 
+1358	4-18-34-2	73101839476624952	Hausa	haus1257	to deny	DENY	755		músùntáa	músùntáa 
+1359	4-18-35-1	73101839431980623	Hausa	haus1257	to ask(2)	ASK (REQUEST)	1828		tàmbáyàa	tàmbáyàa 
+1360	4-18-36-1	73101839304325685	Hausa	haus1257	to promise	PROMISE	1675		yí àlkáwár̃ìi	yí àlkáwár̃ìi 
+1361	4-18-37-1	73101839476787171	Hausa	haus1257	to refuse	REFUSE	49		ƙí	ƙí 
+1362	4-18-38-1	73101839572674562	Hausa	haus1257	to forbid	FORBID	83		hánàa	hánàa 
+1363	4-18-39-1	73101839645115497	Hausa	haus1257	to scold	SCOLD	299		yí tsáawáa	yí tsáawáa 
+1364	4-18-41-1	73101839610971170	Hausa	haus1257	to call(1)	CALL	1084		kíráa	kíráa 
+1365	4-18-42-1	73101839610971170	Hausa	haus1257	to call(2)	CALL BY NAME	180		kíráa	kíráa 
+1366	4-18-43-1	73101839160737872	Hausa	haus1257	to announce	ANNOUNCE	9		sánár̃ dà	sánár̃ dà 
+1367	4-18-44-1	73101839340736300	Hausa	haus1257	to threaten	THREATEN	1192		yí bùr̃gáa	yí bùr̃gáa 
+1368	4-18-45-1	7310183952484240	Hausa	haus1257	to boast	BOAST	101		yí cìkà bàakíi	yí cìkà bàakíi 
+1369	4-18-51-1	73101839844127511	Hausa	haus1257	to write	WRITE	1672		r̃úbùutáa	r̃úbùutáa 
+1370	4-18-52-1	7310183928964972	Hausa	haus1257	to read	READ	724		kár̃àntáa	kár̃àntáa 
+1371	4-18-56-1	7310183954555011	Hausa	haus1257	the paper	PAPER	648		tákàr̃dáa	tákàr̃dáa 
+1372	4-18-57-1	73101839408508051	Hausa	haus1257	the pen	PEN	794		àlƙálàmíi	àlƙálàmíi 
+1373	4-18-61-1	73101839904491833	Hausa	haus1257	the book	BOOK	963		líttáafìi	líttáafìi 
+1374	4-18-67-1	73101839237693340	Hausa	haus1257	the poet	POET	1045		sháa’ìr̃íi	sháa’ìr̃íi 
+1375	4-18-67-2	73101839978160708	Hausa	haus1257	the poet	POET	1045		máwàaƙíi	máwàaƙíi 
+1376	4-18-71-1	73101839898539212	Hausa	haus1257	the flute	FLUTE	777		sàareewàa	sàareewàa 
+1377	4-18-71-2	73101839358390409	Hausa	haus1257	the flute	FLUTE	777		sàréewàa	sàréewàa 
+1378	4-18-72-1	73101839868715402	Hausa	haus1257	the drum	DRUM	908		gàngáa	gàngáa 
+1379	4-18-73-1	73101839461203644	Hausa	haus1257	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		ƙàhóo	ƙàhóo 
+1380	4-18-74-1	73101839618526560	Hausa	haus1257	the rattle	RATTLE	300		cákìi	cákìi 
+1381	4-19-11-1	73101839578931380	Hausa	haus1257	the country	COUNTRY	1300		ƙásáa	ƙásáa 
+1382	4-19-12-1	73101839397575479	Hausa	haus1257	the native country	NATIVE COUNTRY	89		gídáa	gídáa 
+1383	4-19-15-1	73101839674985993	Hausa	haus1257	the town	TOWN	1391		gàríi	gàríi 
+1384	4-19-15-2	73101839911166043	Hausa	haus1257	the town	TOWN	1391		bír̃níi	bír̃níi 
+1385	4-19-16-1	7310183953903776	Hausa	haus1257	the village	VILLAGE	930		ƙáuyèe	ƙáuyèe 
+1386	4-19-17-1	7310183927284312	Hausa	haus1257	the boundary	BOUNDARY	1010		íyàakáa	íyàakáa 
+1387	4-19-21-1	73101839929907016	Hausa	haus1257	the people	PEOPLE	789		jàmá'àa	jàmá'àa 
+1388	4-19-21-2	73101839386291311	Hausa	haus1257	the people	PEOPLE	789		mútàanée	mútàanée 
+1389	4-19-23-1	73101839972580901	Hausa	haus1257	the clan	CLAN	302		kàbíilàa	kàbíilàa 
+1390	4-19-24-1	73101839584537119	Hausa	haus1257	the chieftain	CHIEFTAIN	301		sárkíi	sárkíi 
+1391	4-19-25-1	73101839603782411	Hausa	haus1257	the walking stick	WALKING STICK	1296		sàndáa	sàndáa 
+1392	4-19-31-1	7310183956597687	Hausa	haus1257	to rule or govern	RULE	1846		màllákàa	màllákàa 
+1393	4-19-32-1	73101839584537119	Hausa	haus1257	the king	KING	1508		sárkíi	sárkíi 
+1394	4-19-33-1	73101839372273312	Hausa	haus1257	the queen	QUEEN	1306		sàráunìyáa	sàráunìyáa 
+1395	4-19-36-1	73101839552983621	Hausa	haus1257	the noble	NOBLE	482		áadàlíi	áadàlíi 
+1396	4-19-37-1	73101839855612371	Hausa	haus1257	the citizen	CITIZEN	1032		ɗán ƙásáa	ɗán ƙásáa 
+1397	4-19-41-1	7310183924215605	Hausa	haus1257	the master	MASTER	383		mài gídáa	mài gídáa 
+1398	4-19-42-1	73101839771701684	Hausa	haus1257	the slave	SLAVE	812		báawàa	báawàa 
+1399	4-19-43-1	73101839989675044	Hausa	haus1257	the servant	SERVANT	255		báràa	báràa 
+1400	4-19-45-1	73101839499704297	Hausa	haus1257	to command or order	ORDER	1128		ùmúr̃tàa	ùmúr̃tàa 
+1401	4-19-45-2	73101839355189657	Hausa	haus1257	to command or order	ORDER	1128		yí óodàa	yí óodàa 
+1402	4-19-46-1	73101839277855958	Hausa	haus1257	to obey	OBEY	1635		bí ùmùr̃níi	bí ùmùr̃níi 
+1403	4-19-46-2	73101839514074338	Hausa	haus1257	to obey	OBEY	1635		bâutáa	bâutáa 
+1404	4-19-47-1	73101839241168390	Hausa	haus1257	to permit	PERMIT	1003		yár̃jèe	yár̃jèe 
+1405	4-19-47-2	7310183924581572	Hausa	haus1257	to permit	PERMIT	1003		ámìncée	ámìncée 
+1406	4-19-51-1	73101839863730934	Hausa	haus1257	the friend	FRIEND	1325		àbóokíi	àbóokíi 
+1407	4-19-51-2	73101839757203389	Hausa	haus1257	the friend	FRIEND	1325		àmíinìi	àmíinìi 
+1408	4-19-52-1	73101839785726583	Hausa	haus1257	the enemy	ENEMY	1358		máƙìyíi	máƙìyíi 
+1409	4-19-54-1	73101839161919989	Hausa	haus1257	the neighbour	NEIGHBOUR	1332		máƙwàbcíi	máƙwàbcíi 
+1410	4-19-55-1	73101839882143892	Hausa	haus1257	the stranger	STRANGER	791		bàaƙóo	bàaƙóo 
+1411	4-19-56-1	73101839882143892	Hausa	haus1257	the guest	GUEST	1782		bàaƙóo	bàaƙóo 
+1412	4-19-57-1	73101839882143892	Hausa	haus1257	the host	HOST	1545		bàaƙóo	bàaƙóo 
+1413	4-19-58-1	73101839963506206	Hausa	haus1257	to help	HELP	1897		tàimákàa	tàimákàa 
+1414	4-19-59-1	73101839572674562	Hausa	haus1257	to prevent	PREVENT	1550		hánàa	hánàa 
+1415	4-19-61-1	73101839610844365	Hausa	haus1257	the custom	CUSTOM	1747		àl'áadàa	àl'áadàa 
+1416	4-19-62-1	73101839205961789	Hausa	haus1257	the quarrel	QUARREL	1848		fáɗàa	fáɗàa 
+1417	4-19-63-1	73101839763444962	Hausa	haus1257	the plot	PLOT	2024		máƙár̃ƙáshìyáa	máƙár̃ƙáshìyáa 
+1418	4-19-65-1	73101839881279534	Hausa	haus1257	to meet	MEET	1831		sàadú	sàadú 
+1419	4-19-72-1	73101839230095367	Hausa	haus1257	the prostitute	PROSTITUTE	1610		káar̃ùwà	káar̃ùwà 
+1420	4-20-11-1	73101839558931506	Hausa	haus1257	to fight	FIGHT	1423		yí fáɗàa	yí fáɗàa 
+1421	4-20-13-1	73101839368829959	Hausa	haus1257	the war or battle	BATTLE	579		yáaƙìi	yáaƙìi 
+1422	4-20-14-1	73101839728389390	Hausa	haus1257	the peace	PEACE	1338		zámán láafíyàa	zámán láafíyàa 
+1423	4-20-15-1	73101839865227583	Hausa	haus1257	the army	ARMY	1561		rúndúnàa	rúndúnàa 
+1424	4-20-17-1	73101839783157673	Hausa	haus1257	the soldier	SOLDIER	1941		sóojàa	sóojàa 
+1425	4-20-21-1	73101839268350841	Hausa	haus1257	the weapons	WEAPONS	951		mákáamíi	mákáamíi 
+1426	4-20-22-1	73101839249212763	Hausa	haus1257	the club	CLUB	1763		kúlkíi	kúlkíi 
+1427	4-20-23-1	7310183949828602	Hausa	haus1257	the sling	SLING	387		májájjáawaa	májájjáawaa 
+1428	4-20-24-1	73101839608365829	Hausa	haus1257	the bow	BOW	994		bàkáa	bàkáa 
+1429	4-20-25-1	7310183977947191	Hausa	haus1257	the arrow	ARROW	977		kíbíyàa	kíbíyàa 
+1430	4-20-26-1	73101839167888180	Hausa	haus1257	the spear	SPEAR	945		máashìi	máashìi 
+1431	4-20-27-1	7310183913463357	Hausa	haus1257	the sword	SWORD	1535		tákòobíi	tákòobíi 
+1432	4-20-28-1	73101839212807995	Hausa	haus1257	the gun	GUN	1566		bíndígàa	bíndígàa 
+1433	4-20-31-1	73101839966064172	Hausa	haus1257	the armour	ARMOUR	1061		súlkée	súlkée 
+1434	4-20-33-1	73101839726490210	Hausa	haus1257	the helmet	HELMET	1680		hùulár̃ kwáanòo	hùulár̃ kwáanòo 
+1435	4-20-33-2	73101839180064378	Hausa	haus1257	the helmet	HELMET	1680		búukèe	búukèe 
+1436	4-20-34-1	73101839254816172	Hausa	haus1257	the shield	SHIELD	1064		gàrkúwáa	gàrkúwáa 
+1437	4-20-35-1	73101839371292575	Hausa	haus1257	the fortress	FORTRESS	1938		gàar̃úu	gàar̃úu 
+1438	4-20-36-1	73101839313501765	Hausa	haus1257	the tower	TOWER	1671		hàsúumíyàa	hàsúumíyàa 
+1439	4-20-41-1	73101839878106604	Hausa	haus1257	the victory	VICTORY	783		násár̃àa	násár̃àa 
+1440	4-20-42-1	73101839463648740	Hausa	haus1257	the defeat	DEFEAT	782		káayèe	káayèe 
+1441	4-20-43-1	73101839772821857	Hausa	haus1257	the attack	ATTACK	722		kái hárìi	kái hárìi 
+1442	4-20-44-1	73101839198913606	Hausa	haus1257	to defend	DEFEND	1330		káarèe	káarèe 
+1443	4-20-45-1	73101839393913815	Hausa	haus1257	to retreat	RETREAT	421		tséerèe	tséerèe 
+1444	4-20-45-2	73101839390996268	Hausa	haus1257	to retreat	RETREAT	421		gúdù	gúdù 
+1445	4-20-45-3	73101839605087297	Hausa	haus1257	to retreat	RETREAT	421		jáa báayáa	jáa báayáa 
+1446	4-20-46-1	73101839999427081	Hausa	haus1257	to surrender	SURRENDER	1696		báa dà kâi	báa dà kâi 
+1447	4-20-47-1	7310183926284079	Hausa	haus1257	the captive or prisoner	PRISONER	1072		kàamámmée	kàamámmée 
+1448	4-20-47-2	73101839794444938	Hausa	haus1257	the captive or prisoner	PRISONER	1072		fúr̃súnàa	fúr̃súnàa 
+1449	4-20-471-1	7310183948427575	Hausa	haus1257	the guard	GUARD	1940		gáadìi	gáadìi 
+1450	4-20-48-1	73101839748993197	Hausa	haus1257	the booty	BOOTY	1022		gàníimàa	gàníimàa 
+1451	4-20-49-1	73101839346382963	Hausa	haus1257	the ambush	AMBUSH	65		fàkóo	fàkóo 
+1452	4-20-49-2	73101839583022926	Hausa	haus1257	the ambush	AMBUSH	65		kwántóo	kwántóo 
+1453	4-20-51-1	73101839326734287	Hausa	haus1257	the fisherman	FISHERMAN	1858		másùncíi	másùncíi 
+1454	4-20-52-1	73101839369905514	Hausa	haus1257	the fishhook	FISHHOOK	1074		fátsáa	fátsáa 
+1455	4-20-53-1	73101839573416695	Hausa	haus1257	the fishing line	FISHING LINE	19		múrímúríi	múrímúríi 
+1456	4-20-54-1	7310183999686862	Hausa	haus1257	the fishnet	FISHNET	388		hóomáa	hóomáa 
+1457	4-20-54-2	73101839269818644	Hausa	haus1257	the fishnet	FISHNET	388		táarúu	táarúu 
+1458	4-20-56-1	73101839526398246	Hausa	haus1257	the bait	BAIT	2013		ƙóotóo	ƙóotóo 
+1459	4-20-61-1	73101839709056488	Hausa	haus1257	to hunt	HUNT	1435		fàráutàa	fàráutàa 
+1460	4-20-62-1	73101839258135118	Hausa	haus1257	to shoot	SHOOT	1172		búgàa	búgàa 
+1461	4-20-62-2	73101839445800495	Hausa	haus1257	to shoot	SHOOT	1172		hàrbáa	hàrbáa 
+1462	4-20-62-3	73101839387660486	Hausa	haus1257	to shoot	SHOOT	1172		jèefáa	jèefáa 
+1463	4-20-63-1	7310183951396020	Hausa	haus1257	to miss	MISS (A TARGET)	161		yí kúskúrèe	yí kúskúrèe 
+1464	4-20-63-2	73101839794300727	Hausa	haus1257	to miss	MISS (A TARGET)	161		rásàa	rásàa 
+1465	4-20-64-1	7310183950812706	Hausa	haus1257	the trap	TRAP (PITFALL)	1075		tárkòo	tárkòo 
+1466	4-20-65-1	73101839515862654	Hausa	haus1257	to trap	TRAP (CATCH)	1170		káamàa dà tárkòo	káamàa dà tárkòo 
+1467	4-21-11-1	73101839966131648	Hausa	haus1257	the law	LAW	1062		shàr̃i'àa	shàr̃i'àa 
+1468	4-21-15-1	7310183934792723	Hausa	haus1257	the court	COURT	1068		fáadàr̃ àlƙáalíi	fáadàr̃ àlƙáalíi 
+1469	4-21-15-2	73101839927300361	Hausa	haus1257	the court	COURT	1068		kóotù	kóotù 
+1470	4-12-013-1	73101839357638008	Hausa	haus1257	at	AT	1461		à	à 
+1471	4-21-16-1	73101839791676098	Hausa	haus1257	to adjudicate	ADJUDICATE	1818		yánkè húnkúncìi	yánkè húnkúncìi 
+1472	4-21-17-1	73101839472987723	Hausa	haus1257	the judgment	JUDGMENT	1067		húnkúncìi	húnkúncìi 
+1473	4-21-18-1	73101839993363711	Hausa	haus1257	the judge	JUDGE	861		àlƙáalíi	àlƙáalíi 
+1474	4-21-18-2	73101839460418642	Hausa	haus1257	the judge	JUDGE	861		júujù	júujù 
+1475	4-21-18-3	73101839523442572	Hausa	haus1257	the judge	JUDGE	861		jóojìi	jóojìi 
+1476	4-21-21-1	73101839826096636	Hausa	haus1257	the plaintiff	PLAINTIFF	2020		mài kái ƙáaráa	mài kái ƙáaráa 
+1477	4-21-22-1	73101839236375911	Hausa	haus1257	the defendant	DEFENDANT	1034		wândà ákà gúr̃fànáa	wândà ákà gúr̃fànáa 
+1478	4-21-23-1	73101839557360421	Hausa	haus1257	the witness	WITNESS	1144		shâidáa	shâidáa 
+1479	4-21-24-1	73101839509154647	Hausa	haus1257	to swear	SWEAR	1939		rántsèe	rántsèe 
+1480	4-21-25-1	73101839648441852	Hausa	haus1257	the oath	OATH	1712		rántsúwáa	rántsúwáa 
+1481	4-21-31-1	73101839100446998	Hausa	haus1257	to accuse	ACCUSE	1814		kái ƙáaráa	kái ƙáaráa 
+1482	4-21-31-2	73101839187702399	Hausa	haus1257	to accuse	ACCUSE	1814		túhùmtáa	túhùmtáa 
+1483	4-21-32-1	73101839599479470	Hausa	haus1257	to condemn	CONDEMN	484		hùkúmtàa	hùkúmtàa 
+1484	4-21-33-1	73101839627071775	Hausa	haus1257	to convict	CONVICT	983		tábbátár̃ dà lâifíi	tábbátár̃ dà lâifíi 
+1485	4-21-33-2	73101839166344826	Hausa	haus1257	to convict	CONVICT	983		sáamùu dà lâifíi	sáamùu dà lâifíi 
+1486	4-21-34-1	73101839337868346	Hausa	haus1257	to acquit	ACQUIT	988		sàkáa	sàkáa 
+1487	4-21-35-1	73101839437541405	Hausa	haus1257	guilty	GUILTY	1682		mài lâifíi	mài lâifíi 
+1488	4-21-36-1	73101839327224320	Hausa	haus1257	innocent	INNOCENT	90		máràs lâifíi	máràs lâifíi 
+1489	4-21-37-1	73101839939551854	Hausa	haus1257	the penalty or punishment	PUNISHMENT	390		hòoróo	hòoróo 
+1490	4-21-37-2	73101839223456240	Hausa	haus1257	the penalty or punishment	PUNISHMENT	390		húkúncìi	húkúncìi 
+1491	4-21-38-1	73101839598498489	Hausa	haus1257	the fine	FINE (PENALTY)	218		tàaráa	tàaráa 
+1492	4-21-39-1	7310183968730205	Hausa	haus1257	the prison	PRISON	1281		kùr̃kúkùu	kùr̃kúkùu 
+1493	4-21-39-2	73101839634387954	Hausa	haus1257	the prison	PRISON	1281		kásòo	kásòo 
+1494	4-21-42-1	73101839752056389	Hausa	haus1257	the murder	MURDER	845		kísàn kâi	kísàn kâi 
+1495	4-21-43-1	73101839854620059	Hausa	haus1257	the adultery	ADULTERY	902		zìnáa	zìnáa 
+1496	4-21-44-1	73101839128901098	Hausa	haus1257	the rape	RAPE	953		fyàaɗée	fyàaɗée 
+1497	4-21-44-2	73101839131199432	Hausa	haus1257	the rape	RAPE	953		ɓáatàa	ɓáatàa 
+1498	4-21-46-1	73101839706267868	Hausa	haus1257	the arson	ARSON	1889		wútáa	wútáa 
+1499	4-21-47-1	73101839855580394	Hausa	haus1257	the perjury	PERJURY	1792		sháidàr̃ zûr̃	sháidàr̃ zûr̃ 
+1500	4-21-51-1	73101839126916416	Hausa	haus1257	to steal	STEAL	713		sàatáa	sàatáa 
+1501	4-21-52-1	73101839545916562	Hausa	haus1257	the thief	THIEF	1160		ɓàráawòo	ɓàráawòo 
+1502	4-22-11-1	7310183983887485	Hausa	haus1257	the religion	RELIGION	661		àdíinìi	àdíinìi 
+1503	4-22-12-1	73101839519914403	Hausa	haus1257	the god	DEITY	3231		Allàh	Allàh 
+1504	4-22-13-1	73101839868469069	Hausa	haus1257	the temple	TEMPLE	911		cóocìi	cóocìi 
+1505	4-22-15-1	73101839656178069	Hausa	haus1257	the sacrifice	SACRIFICE	1103		sádáukâr̃wáa	sádáukâr̃wáa 
+1506	4-22-16-1	73101839216250274	Hausa	haus1257	to worship	WORSHIP	257		yí ìbáadàa	yí ìbáadàa 
+1507	4-22-16-2	73101839514074338	Hausa	haus1257	to worship	WORSHIP	257		bâutáa	bâutáa 
+1508	4-22-17-1	73101839608977965	Hausa	haus1257	to pray	PRAY	24		yí sállàa	yí sállàa 
+1509	4-22-17-2	73101839104262399	Hausa	haus1257	to pray	PRAY	24		yí àddú'àa	yí àddú'àa 
+1510	4-22-18-1	73101839135916522	Hausa	haus1257	the priest	PRIEST	852		fàadáa	fàadáa 
+1511	4-22-19-1	73101839512243231	Hausa	haus1257	holy	HOLY	1702		mài tsárkíi	mài tsárkíi 
+1512	4-22-22-1	73101839603079133	Hausa	haus1257	to preach	PREACH	304		yí wá'àzíi	yí wá'àzíi 
+1513	4-22-23-1	73101839737628660	Hausa	haus1257	to bless	BLESS	391		àlbár̃kàtáa	àlbár̃kàtáa 
+1514	4-22-24-1	73101839765959354	Hausa	haus1257	to curse	CURSE	8		yí tír̃	yí tír̃ 
+1515	4-22-24-2	73101839110506278	Hausa	haus1257	to curse	CURSE	8		tsíinèe wà	tsíinèe wà 
+1516	4-22-26-1	73101839886630253	Hausa	haus1257	to fast	ABSTAIN FROM FOOD	303		yí ázùmíi	yí ázùmíi 
+1517	4-22-31-1	73101839562734005	Hausa	haus1257	the heaven	HEAVEN	1565		sámà	sámà 
+1518	4-22-31-2	73101839293771654	Hausa	haus1257	the heaven	HEAVEN	1565		sàmáanìyáa	sàmáanìyáa 
+1519	4-22-32-1	73101839339751433	Hausa	haus1257	the hell	HELL	878		wútán jàhánnàmàa	wútán jàhánnàmàa 
+1520	4-22-35-1	7310183985114637	Hausa	haus1257	the demon	DEMON	1973		shàiɗán	shàiɗán 
+1521	4-22-37-1	73101839944157191	Hausa	haus1257	the idol	IDOL	1945		gúnkìi	gúnkìi 
+1522	4-22-42-1	73101839591360842	Hausa	haus1257	the magic	MAGIC	392		mâitáa	mâitáa 
+1523	4-22-43-1	73101839289300136	Hausa	haus1257	the sorcerer or witch	MAGICIAN	2137		máayèe	máayèe 
+1524	4-22-44-1	73101839788073544	Hausa	haus1257	the fairy or elf	ELF OR FAIRY	3206		àljánáa	àljánáa 
+1525	4-22-45-1	73101839733224243	Hausa	haus1257	the ghost	GHOST	1175		fàtálwáa	fàtálwáa 
+1526	4-22-47-1	73101839361085992	Hausa	haus1257	the omen	OMEN	107		ìsháar̃àa	ìsháar̃àa 
+1527	4-23-1-1	7310183917637916	Hausa	haus1257	the radio	RADIO	1315		r̃éedíyòo	r̃éedíyòo 
+1528	4-23-11-1	73101839439730572	Hausa	haus1257	the television	TELEVISION	1788		tálàbíjìn	tálàbíjìn 
+1529	4-23-12-1	73101839999274040	Hausa	haus1257	the telephone	TELEPHONE	1379		wáyàa	wáyàa 
+1530	4-23-12-2	73101839660715264	Hausa	haus1257	the telephone	TELEPHONE	1379		tàr̃hôo	tàr̃hôo 
+1531	4-23-135-1	7310183916814608	Hausa	haus1257	the motorcycle	MOTORCYCLE	638		bàabúr̃	bàabúr̃ 
+1532	4-23-135-2	73101839388007708	Hausa	haus1257	the motorcycle	MOTORCYCLE	638		mòotôo	mòotôo 
+1533	4-23-14-1	73101839120069543	Hausa	haus1257	the car	CAR	1111		móotàa	móotàa 
+1534	4-23-15-1	73101839428066024	Hausa	haus1257	the bus	BUS	1070		bâs	bâs 
+1535	4-23-16-1	73101839894078699	Hausa	haus1257	the airplane	AIRPLANE	1597		jírgín sámàa	jírgín sámàa 
+1536	4-23-17-1	73101839422454631	Hausa	haus1257	the electricity	ELECTRICITY	59		làntár̃kìi	làntár̃kìi 
+1537	4-23-175-1	73101839108082029	Hausa	haus1257	the battery	BATTERY	662		báatìr̃	báatìr̃ 
+1538	4-23-2-1	73101839916486447	Hausa	haus1257	the hospital	HOSPITAL	616		ásìbítì	ásìbítì 
+1539	4-23-21-1	73101839730187975	Hausa	haus1257	the nurse	NURSE	1104		mài jíyyàa	mài jíyyàa 
+1540	4-23-22-1	73101839505382978	Hausa	haus1257	the pill or tablet	PILL	395		ƙwàayár̃ máagàníi	ƙwàayár̃ máagàníi 
+1541	4-23-23-1	73101839355725103	Hausa	haus1257	the injection	INJECTION	1805		àllúur̃àa	àllúur̃àa 
+1542	4-23-5-1	73101839286076571	Hausa	haus1257	the tap/faucet	FAUCET	1488		kân fámfòo	kân fámfòo 
+1543	4-23-52-1	73101839770615488	Hausa	haus1257	the toilet	TOILET	219		báayán gídáa	báayán gídáa 
+1544	4-23-53-1	7310183919673757	Hausa	haus1257	the mattress	MATTRESS	105		kàtíifàa	kàtíifàa 
+1545	4-23-3-1	73101839665146646	Hausa	haus1257	the government	GOVERNMENT	815		gwámnátì	gwámnátì 
+1546	4-23-31-1	73101839931569282	Hausa	haus1257	the president	PRESIDENT	899		shùugàbáa	shùugàbáa 
+1547	4-23-31-2	73101839341490264	Hausa	haus1257	the president	PRESIDENT	899		fàr̃zìdân	fàr̃zìdân 
+1548	4-23-32-1	73101839493174725	Hausa	haus1257	the minister	MINISTER	486		mínístà	mínístà 
+1549	4-23-33-1	73101839890944605	Hausa	haus1257	the police	POLICE	656		ɗán sàndáa	ɗán sàndáa 
+1550	4-23-34-1	73101839308645631	Hausa	haus1257	the driver's license	DRIVER'S LICENSE	599		láasìn	láasìn 
+1551	4-23-34-2	73101839485149258	Hausa	haus1257	the driver's license	DRIVER'S LICENSE	599		fàr̃mîi	fàr̃mîi 
+1552	4-23-37-1	73101839877101717	Hausa	haus1257	the crime	CRIME	1066		lâifíi	lâifíi 
+1553	4-23-37-2	73101839686749833	Hausa	haus1257	the crime	CRIME	1066		là’ánàa	là’ánàa 
+1554	4-23-38-1	73101839960667478	Hausa	haus1257	the election	ELECTION	240		zàaɓée	zàaɓée 
+1555	4-23-4-1	73101839901679023	Hausa	haus1257	the post/mail	MAIL	167		gídán wáyàa	gídán wáyàa 
+1556	4-23-41-1	73101839729178604	Hausa	haus1257	the postage stamp	POSTAGE STAMP	596		kân sárkíi	kân sárkíi 
+1557	4-23-42-1	73101839478145587	Hausa	haus1257	the letter	LETTER	1612		wàsíiƙàa	wàsíiƙàa 
+1558	4-23-44-1	73101839589547175	Hausa	haus1257	the bank	BANK	1284		bánkìi	bánkìi 
+1559	4-23-54-1	73101839505102463	Hausa	haus1257	the tin/can	CAN	1051		gwángwáníi	gwángwáníi 
+1560	4-23-55-1	73101839287147118	Hausa	haus1257	the screw	SCREW	1802		ƙúusàa	ƙúusàa 
+1561	4-23-55-2	73101839759104465	Hausa	haus1257	the screw	SCREW	1802		bîs	bîs 
+1562	4-23-555-1	73101839912064578	Hausa	haus1257	the screwdriver	SCREWDRIVER	836		sùkùndìr̃éebàa	sùkùndìr̃éebàa 
+1563	4-23-555-2	73101839705693175	Hausa	haus1257	the screwdriver	SCREWDRIVER	836		tùr̃nàbîs	tùr̃nàbîs 
+1564	4-23-56-1	73101839998729929	Hausa	haus1257	the bottle	BOTTLE	1321		kwálbaa	kwálbaa 
+1565	4-23-565-1	73101839712563474	Hausa	haus1257	the candy/sweets	CANDY	874		àléewàa	àléewàa 
+1566	4-23-565-2	73101839355540421	Hausa	haus1257	the candy/sweets	CANDY	874		bàmbô	bàmbô 
+1567	4-23-24-1	73101839896838537	Hausa	haus1257	the spectacles/glasses	SPECTACLES	1898		mádúubíi	mádúubíi 
+1568	4-23-24-2	73101839837923081	Hausa	haus1257	the spectacles/glasses	SPECTACLES	1898		tàbàráu	tàbàráu 
+1569	4-23-24-3	73101839832440872	Hausa	haus1257	the spectacles/glasses	SPECTACLES	1898		lùuléetì	lùuléetì 
+1570	4-23-57-1	7310183997448780	Hausa	haus1257	the plastic	PLASTIC	654		r̃óobàa	r̃óobàa 
+1571	4-23-575-1	73101839315651905	Hausa	haus1257	the bomb	BOMB	1804		bôm	bôm 
+1572	4-23-58-1	73101839588503951	Hausa	haus1257	the workshop	WORKSHOP	1677		má’áikátáa	má’áikátáa 
+1573	4-23-59-1	73101839372831653	Hausa	haus1257	the cigarette	CIGARETTE	969		táabàa	táabàa 
+1574	4-23-61-1	73101839591335456	Hausa	haus1257	the calendar	CALENDAR	1967		kàléndà	kàléndà 
+1575	4-23-62-1	73101839273582290	Hausa	haus1257	the film/movie	MOVIE	216		fîm	fîm 
+1576	4-23-63-1	73101839719658223	Hausa	haus1257	the music	MUSIC	642		kíɗàa	kíɗàa 
+1577	4-23-64-1	7310183992827473	Hausa	haus1257	the song	SONG	1096		wáaƙàa	wáaƙàa 
+1578	4-23-6-1	73101839129153454	Hausa	haus1257	the newspaper	NEWSPAPER	1298		jàr̃íidàa	jàr̃íidàa 
+1579	4-23-385-1	73101839765905884	Hausa	haus1257	the address	ADDRESS	591		àdìr̃éeshìi	àdìr̃éeshìi 
+1580	4-23-39-1	73101839753697731	Hausa	haus1257	the number	NUMBER	1356		lámbàa	lámbàa 
+1581	4-23-155-1	73101839625558533	Hausa	haus1257	the train	TRAIN	900		jírgín ƙásà	jírgín ƙásà 
+1582	4-23-36-1	73101839611925685	Hausa	haus1257	the birth certificate	BIRTH CERTIFICATE	397		tákàr̃dár̃ háihùwáa	tákàr̃dár̃ háihùwáa 
+1583	4-23-18-1	7310183916584108	Hausa	haus1257	to brake	BRAKE	966		jáa bír̃kìi	jáa bír̃kìi 
+1584	4-23-195-1	73101839760502708	Hausa	haus1257	the petroleum	PETROLEUM	650		mân féetùr̃	mân féetùr̃ 
+1585	4-23-185-1	73101839406891456	Hausa	haus1257	the motor	MOTOR	110		ínjìn	ínjìn 
+1586	4-23-19-1	7310183920195311	Hausa	haus1257	the machine	MACHINE	144		ínjìi	ínjìi 
+1587	4-23-13-1	73101839551387525	Hausa	haus1257	the bicycle	BICYCLE	747		kèekée	kèekée 
+1588	4-23-13-2	73101839361994961	Hausa	haus1257	the bicycle	BICYCLE	747		dóokìn ƙárfèe	dóokìn ƙárfèe 
+1589	4-23-13-3	73101839536255399	Hausa	haus1257	the bicycle	BICYCLE	747		báasúkùr̃	báasúkùr̃ 
+1590	4-23-395-1	7310183973565838	Hausa	haus1257	the street	STREET	1362		tíitìi	tíitìi 
+1591	4-23-395-2	73101839841121066	Hausa	haus1257	the street	STREET	1362		hányàa	hányàa 
+1592	4-19-445-1	73101839909171087	Hausa	haus1257	to liberate	LIBERATE	37		ƴântaa	ƴântaa 
+1593	4-19-565-1	73101839871780422	Hausa	haus1257	to invite	INVITE	1611		gàyyatàa	gàyyatàa 
+1594	4-23-35-1	73101839905323613	Hausa	haus1257	the license plate	LICENSE PLATE	1790		lámbàr̃ móotàa	lámbàr̃ móotàa 
+1595	4-23-43-1	73101839677170674	Hausa	haus1257	the postcard	POSTCARD	1497		káatìn gáisúwáa	káatìn gáisúwáa 
+1596	4-24-02-1	73101839463745989	Hausa	haus1257	to become	BECOME	1990		zámá	zámá 
+1597	4-24-03-1	73101839856449049	Hausa	haus1257	without	WITHOUT	1478		bán dà	bán dà 
+1598	4-24-05-1	73101839948406628	Hausa	haus1257	through	THROUGH	97		tá	tá 
+1599	4-24-13-1	73101839123835071	Hausa	haus1257	same	SAME	200		dúk ɗáyá	dúk ɗáyá 
+1600	4-24-06-1	73101839285255674	Hausa	haus1257	not	NOT	1240		bà.....bá	bà.....bá 
+1601	4-24-07-1	73101839971478638	Hausa	haus1257	this	THIS	1214		wánnàn	wánnàn 
+1602	4-24-08-1	73101839292165049	Hausa	haus1257	that	THAT	78		wáncàn	wáncàn 
+1603	4-24-09-1	73101839477851280	Hausa	haus1257	here	HERE	136		nân	nân 
+1604	4-24-1-1	73101839135812788	Hausa	haus1257	there	THERE	1937		cân	cân 
+1605	4-24-11-1	73101839676836246	Hausa	haus1257	other	OTHER	197		dàbám	dàbám 
+1606	4-4-493-1	73101839896992391	Hausa	haus1257	the vagina	VAGINA	1836		fár̃jìi	fár̃jìi 
+1607	4-4-493-2	73101839364317139	Hausa	haus1257	the vagina	VAGINA	1836		dúurìi	dúurìi 
+1608	4-4-493-3	73101839325879745	Hausa	haus1257	the vagina	VAGINA	1836		gátòo	gátòo 
+1609	4-23-9-1	73101839152576776	Hausa	haus1257	the tea	TEA	1373		sháayìi	sháayìi 
+1610	4-23-91-1	73101839592937487	Hausa	haus1257	the coffee	COFFEE	1299		kóofìi	kóofìi 
+1611	4-23-91-2	73101839674216218	Hausa	haus1257	the coffee	COFFEE	1299		gàháawàa	gàháawàa 
+1612	4-23-91-3	73101839164910508	Hausa	haus1257	the coffee	COFFEE	1299		kàfê	kàfê 
+1613	4-24-12-1	73101839371427003	Hausa	haus1257	next	NEXT	1354		mài zúwàa	mài zúwàa 
+1614	4-3-863-1	73101839238779000	Hausa	haus1257	the hare	HARE	1190		zóomóo	zóomóo 
+1615	4-3-865-1	73101839989261658	Hausa	haus1257	the quail	QUAIL	1893		ɓàrɓárwáa	ɓàrɓárwáa 
+1616	4-3-869-1	73101839113216782	Hausa	haus1257	the squirrel	SQUIRREL	1628		kùréegée	kùréegée 
+1617	4-8-29-1	73101839790998673	Hausa	haus1257	the lasso	LASSO	340		sárɓée	sárɓée 
+1618	4-8-993-1	73101839489831898	Hausa	haus1257	the needle(2)	NEEDLE TREE	286		ƙáayàa	ƙáayàa 
+1619	4-4-465-1	73101839922906684	Hausa	haus1257	the sinew or tendon	TENDON	1137		jíijíyàa	jíijíyàa 
+1620	4-7-67-1	73101839335697286	Hausa	haus1257	to tan	TAN	247		jéemàa	jéemàa 
+1621	4-22-5-1	73101839842777210	Hausa	haus1257	the circumcision	CIRCUMCISION	393		kàcíyàa	kàcíyàa 
+1622	4-3-8112-1	73101839799236306	Hausa	haus1257	the body louse	BODY LOUSE	311		kwàr̃kwátàa	kwàr̃kwátàa 
+1623	4-4-494-1	73101839896992391	Hausa	haus1257	the vulva	VULVA	1837		fár̃jìi	fár̃jìi 
+1624	4-7-65-1	7310183994691678	Hausa	haus1257	the camp	CAMP	1105		sánsáníi	sánsáníi 
+1625	4-8-28-1	73101839892852278	Hausa	haus1257	the digging stick (=yamstick)	DIGGING STICK	339		dír̃kàa	dír̃kàa 
+1626	4-3-597-1	73101839206650000	Hausa	haus1257	the cormorant	CORMORANT	840		dìmílmílóo	dìmílmílóo 
+1627	4-3-834-1	73101839351503008	Hausa	haus1257	the termites	TERMITE	883		gàráa	gàráa 
+1628	4-3-835-1	73101839991456324	Hausa	haus1257	the tick	TICK	1527		káskàa	káskàa 
+1629	4-3-89-1	73101839311917049	Hausa	haus1257	the anteater	ANTEATER	181		dábgìi	dábgìi 
+1630	4-8-911-1	73101839252230941	Hausa	haus1257	the millet or sorghum	MILLET	931		hátsíi	hátsíi 
+1631	4-8-911-2	73101839298695793	Hausa	haus1257	the millet or sorghum	MILLET	931		dáawàa	dáawàa 
+1632	4-3-913-1	7310183974019558	Hausa	haus1257	the chameleon	CHAMELEON	1555		hàwáinìyáa	hàwáinìyáa 
+1633	4-9-9-1	73101839193368905	Hausa	haus1257	to draw water	DRAW (WATER)	1911		ɗíibàa	ɗíibàa 
+1634	4-10-58-1	73101839312154665	Hausa	haus1257	to go or return home	RETURN HOME	142		kóomàa	kóomàa 
+1635	4-10-58-2	73101839827247903	Hausa	haus1257	to go or return home	RETURN HOME	142		dáawóo	dáawóo 
+1636	4-3-917-1	73101839188631380	Hausa	haus1257	the buffalo	BUFFALO	934		ɓáunáa	ɓáunáa 
+1637	4-1-411-1	7310183994883937	Hausa	haus1257	the savanna	SAVANNA	260		dáajìi	dáajìi 
+1638	4-1-831-1	7310183989569157	Hausa	haus1257	the steam	STEAM	1193		tùrùríi	tùrùríi 
+1639	4-2-4561-1	73101839341026635	Hausa	haus1257	the older sibling	OLDER SIBLING	405		wâa	wâa 
+1640	4-2-4561-2	73101839310926419	Hausa	haus1257	the older sibling	OLDER SIBLING	405		yâa	yâa 
+1641	4-2-4562-1	73101839893337480	Hausa	haus1257	the younger sibling	YOUNGER SIBLING	427		àutáa	àutáa 
+1642	4-2-4711-1	73101839387595810	Hausa	haus1257	the grandparents	GRANDPARENTS	305		kàakànníi	kàakànníi 
+1643	4-2-5-1	73101839397670921	Hausa	haus1257	the grandchild	GRANDCHILD	1617		jíikàa	jíikàa 
+1644	4-2-541-1	73101839295160001	Hausa	haus1257	the sibling’s child	SIBLING'S CHILD	173		ƴar̃ wâa or ɗan wâa	ƴar̃ wâa or ɗan wâa 
+1645	4-2-622-1	73101839992790351	Hausa	haus1257	the parents-in-law	PARENTS-IN-LAW	306		sùrùkái	sùrùkái 
+1646	4-2-6411-1	73101839966245167	Hausa	haus1257	the child-in-law	CHILD-IN-LAW	1060		ágòolà	ágòolà 
+1647	4-2-931-1	73101839439383879	Hausa	haus1257	he	HE	1211		shíi	shíi 
+1648	4-2-932-1	73101839767934706	Hausa	haus1257	she	SHE	1834		ita	ita 
+1649	4-4-741-1	73101839347304463	Hausa	haus1257	the life	LIFE	210		ràayúwáa	ràayúwáa 
+1650	4-4-771-1	73101839183852039	Hausa	haus1257	the carcass	CARCASS	1770		ƙwàràngwál	ƙwàràngwál 
+1651	4-4-844-1	73101839278985219	Hausa	haus1257	the disease	DISEASE	1986		cíiwòo	cíiwòo 
+1652	4-4-844-2	7310183918373042	Hausa	haus1257	the disease	DISEASE	1986		cùutáa	cùutáa 
+1653	4-7-232-1	73101839431611550	Hausa	haus1257	the padlock	PADLOCK	336		kwàaɗóo	kwàaɗóo 
+1654	4-11-29-1	73101839140394196	Hausa	haus1257	to damage	DAMAGE	1116		ɓàrnáa	ɓàrnáa 
+1655	4-12-081-1	73101839835492765	Hausa	haus1257	above	ABOVE	1741		bísà	bísà 
+1656	4-12-081-2	73101839562734005	Hausa	haus1257	above	ABOVE	1741		sámà	sámà 
+1657	4-13-231-1	73101839117554497	Hausa	haus1257	the piece	PIECE	594		gútsúrèe	gútsúrèe 
+1658	4-13-331-1	73101839321015618	Hausa	haus1257	alone	ALONE	1964		káɗái	káɗái 
+1659	4-14-251-1	73101839277210472	Hausa	haus1257	the beginning	BEGINNING	1557		fárkóo	fárkóo 
+1660	4-14-411-1	73101839934963598	Hausa	haus1257	the day(2)	DAY (NOT NIGHT)	1225		ráanáa	ráanáa 
+1661	4-14-411-2	73101839196441712	Hausa	haus1257	the day(2)	DAY (NOT NIGHT)	1225		kwáanáa	kwáanáa 
+1662	4-22-131-1	73101839628055844	Hausa	haus1257	the church	CHURCH	1349		cóocì	cóocì 
+1663	4-22-132-1	73101839372806140	Hausa	haus1257	the mosque	MOSQUE	1603		másálláacíi	másálláacíi 
+1664	4-24-14-1	73101839629138176	Hausa	haus1257	nothing	NOTHING	687		báabù kóomée	báabù kóomée 
+1665	4-4-7501-1	73101839972331236	Hausa	haus1257	dead	DEAD	1625		à màcé	à màcé 
+1666	4-4-8541-1	73101839355333337	Hausa	haus1257	to scratch	SCRATCH	1436		sóosàa	sóosàa 
+1667	4-9-111-1	73101839324163846	Hausa	haus1257	to make	MAKE	734		yí	yí 
+1668	4-4-431-1	73101839620862151	Hausa	haus1257	the belly	BELLY	1251		cíkìi	cíkìi 
+1669	4-9-311-1	73101839916672851	Hausa	haus1257	to wipe	WIPE	1454		sháafèe	sháafèe 
+1670	4-1-775-1	73101839153633668	Hausa	haus1257	to freeze	FREEZE	1431		dáaskàrée	dáaskàrée 
+1671	4-24-04-1	73101839702849686	Hausa	haus1257	with	WITH	1340		dà	dà 
+1672	4-12-012-1	73101839165513295	Hausa	haus1257	in	IN	1460		à cíkín	à cíkín 

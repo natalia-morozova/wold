@@ -1,0 +1,1545 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	30-1-1-1	7281641551300635	Hawaiian	hawa1245	the world	WORLD	965		honua	honua 
+2	30-1-21-1	7281641599463319	Hawaiian	hawa1245	the land	LAND	626		`āina	`āina 
+3	30-1-212-1	7281641480890823	Hawaiian	hawa1245	the soil	EARTH (SOIL)	1228		lepo	lepo 
+4	30-1-213-1	7281641345957679	Hawaiian	hawa1245	the dust	DUST	2		`ehu	`ehu 
+5	30-1-214-1	7281641530246116	Hawaiian	hawa1245	the mud	MUD	640		kelekele	kelekele 
+6	30-1-215-1	7281641577086168	Hawaiian	hawa1245	the sand	SAND	671		one	one 
+7	30-1-22-1	7281641941744300	Hawaiian	hawa1245	the mountain or hill	MOUNTAIN OR HILL	2118		mauna	mauna 
+8	30-1-222-1	7281641367276330	Hawaiian	hawa1245	the cliff or precipice	PRECIPICE	618		pali	pali 
+9	30-1-23-1	7281641480033839	Hawaiian	hawa1245	the plain	PLAIN	652		kula (1)	kula (1) 
+10	30-1-24-1	7281641223632977	Hawaiian	hawa1245	the valley	VALLEY	921		awāwa	awāwa 
+11	30-1-25-1	7281641290676098	Hawaiian	hawa1245	the island	ISLAND	622		mokupuni	mokupuni 
+12	30-1-25-2	75151651936562474	Hawaiian	hawa1245	the island	ISLAND	622		`ailana	`ailana 
+13	30-1-26-1	728164176848533	Hawaiian	hawa1245	the mainland	MAINLAND	166		`āina nui	`āina nui 
+14	30-1-27-1	7281641868886878	Hawaiian	hawa1245	the shore	SHORE	113		kahakai	kahakai 
+15	30-1-28-1	7281641569496596	Hawaiian	hawa1245	the cave	CAVE	1155		ana (1)	ana (1) 
+16	30-1-31-1	7281641464415149	Hawaiian	hawa1245	the water	WATER	948		wai (1)	wai (1) 
+17	30-1-32-1	7281641627541723	Hawaiian	hawa1245	the sea	SEA	1474		kai	kai 
+18	30-1-322-1	728164122218814	Hawaiian	hawa1245	calm	CALM	258		mālie	mālie 
+19	30-1-323-1	7281641642016615	Hawaiian	hawa1245	rough(2)	ROUGH (OF SEA)	259		`ōkaikai	`ōkaikai 
+20	30-1-324-1	7281641746091017	Hawaiian	hawa1245	the foam	FOAM	1768		hu`a	hu`a 
+21	30-1-329-1	7281641902367133	Hawaiian	hawa1245	the ocean	OCEAN	645		moana (1)	moana (1) 
+22	30-1-33-1	7281641636484104	Hawaiian	hawa1245	the lake	LAKE	624		loko wai	loko wai 
+23	30-1-34-1	7281641321226718	Hawaiian	hawa1245	the bay	BAY	663		hono	hono 
+24	30-1-341-1	7281641518160287	Hawaiian	hawa1245	the lagoon	LAGOON	623		loko kai	loko kai 
+25	30-1-342-1	728164165160643	Hawaiian	hawa1245	the reef	REEF	660		papa (1)	papa (1) 
+26	30-1-343-1	7281641105028285	Hawaiian	hawa1245	the cape	CAPE	1662		lae (1)	lae (1) 
+27	30-1-35-1	7281641899004712	Hawaiian	hawa1245	the wave	WAVE	978		nalu	nalu 
+28	30-1-352-1	7281641627541723	Hawaiian	hawa1245	the tide	TIDE	891		kai	kai 
+29	30-1-353-1	7281641387781562	Hawaiian	hawa1245	the low tide	LOW TIDE	1026		kai malo`o	kai malo`o 
+30	30-1-354-1	7281641934866013	Hawaiian	hawa1245	the high tide	HIGH TIDE	613		kai piha	kai piha 
+31	30-1-36-1	7281641840189569	Hawaiian	hawa1245	the river or stream	RIVER	666		kahawai	kahawai 
+32	30-1-362-1	7281641703344821	Hawaiian	hawa1245	the whirlpool	WHIRLPOOL	1982		wiliwai	wiliwai 
+33	30-1-37-1	7281641613746071	Hawaiian	hawa1245	the spring or well	SPRING OR WELL	2144		puna (1)	puna (1) 
+34	30-1-38-1	728164156273766	Hawaiian	hawa1245	the swamp	SWAMP	1145		kele (1)	kele (1) 
+35	30-1-39-1	7281641157062342	Hawaiian	hawa1245	the waterfall	WATERFALL	943		wailele	wailele 
+36	30-1-41-1	7281641241716077	Hawaiian	hawa1245	the woods or forest	FOREST	420		nahele	nahele 
+37	30-1-43-1	728164133693150	Hawaiian	hawa1245	the wood	WOOD	1803		lā`au	lā`au 
+38	30-1-44-1	7281641826199277	Hawaiian	hawa1245	the stone or rock	STONE OR ROCK	2125		pōhaku	pōhaku 
+39	30-1-45-1	7281641299944101	Hawaiian	hawa1245	the earthquake	EARTHQUAKE	6		`ōla`i	`ōla`i 
+40	30-1-51-1	7281641500457755	Hawaiian	hawa1245	the sky	SKY	1732		lani	lani 
+41	30-1-52-1	7281641395640479	Hawaiian	hawa1245	the sun	SUN	1343		lā (1)	lā (1) 
+42	30-1-53-1	7281641807712670	Hawaiian	hawa1245	the moon	MOON	1313		mahina	mahina 
+43	30-1-54-1	7281641847857119	Hawaiian	hawa1245	the star	STAR	1430		hōkū	hōkū 
+44	30-1-55-1	7281641196464492	Hawaiian	hawa1245	the lightning	LIGHTNING	1654		uila	uila 
+45	30-1-56-1	728164177440559	Hawaiian	hawa1245	the thunder	THUNDER	1150		hekili	hekili 
+46	30-1-57-1	7281641196464492	Hawaiian	hawa1245	the bolt of lightning	BOLT (OF LIGHTNING)	2007		uila	uila 
+47	30-1-58-1	7281641685340972	Hawaiian	hawa1245	the storm	STORM	858		`ino (1)	`ino (1) 
+48	30-1-59-1	7281641399417178	Hawaiian	hawa1245	the rainbow	RAINBOW	1733		ānuenue	ānuenue 
+49	30-1-61-1	7281641645840904	Hawaiian	hawa1245	the light	LIGHT (RADIATION)	630		kukui	kukui 
+50	30-1-62-1	7281641926867682	Hawaiian	hawa1245	the darkness	DARKNESS	11		pō`ele`ele	pō`ele`ele 
+51	30-1-63-1	7281641543810037	Hawaiian	hawa1245	the shade or shadow	SHADE	1388		malu	malu 
+52	30-1-64-1	7281641472964949	Hawaiian	hawa1245	the dew	DEW	1977		hau	hau 
+53	30-1-71-1	7281641427533204	Hawaiian	hawa1245	the air	AIR	27		ea	ea 
+54	30-1-72-1	7281641330206727	Hawaiian	hawa1245	the wind	WIND	960		makani	makani 
+55	30-1-73-1	7281641292796727	Hawaiian	hawa1245	the cloud	CLOUD	1489		ao (1)	ao (1) 
+56	30-1-74-1	7281641947697751	Hawaiian	hawa1245	the fog	FOG	249		`ohu	`ohu 
+57	30-1-75-1	7281641815055848	Hawaiian	hawa1245	the rain	RAIN (PRECIPITATION)	658		ua	ua 
+58	30-1-76-1	7281641472964949	Hawaiian	hawa1245	the snow	SNOW	784		hau	hau 
+59	30-1-77-1	7281641472964949	Hawaiian	hawa1245	the ice	ICE	617		hau	hau 
+60	30-1-78-1	7281641441426159	Hawaiian	hawa1245	the weather	WEATHER	952		anilā	anilā 
+61	30-1-81-1	7281641209789279	Hawaiian	hawa1245	the fire	FIRE	221		ahi	ahi 
+62	30-1-82-1	7281641973407356	Hawaiian	hawa1245	the flame	FLAME	889		lapa ahi	lapa ahi 
+63	30-1-83-1	7281641672358875	Hawaiian	hawa1245	the smoke	SMOKE (EXHAUST)	778		uahi	uahi 
+64	30-1-84-1	7281641880702493	Hawaiian	hawa1245	the ash	ASH	646		lehu	lehu 
+65	30-1-851-1	7281641970978381	Hawaiian	hawa1245	to burn(1)	BURN (SOMETHING)	141		puhi (1)	puhi (1) 
+66	30-1-852-1	7281641811556157	Hawaiian	hawa1245	to burn(2)	BURNING	1428		`ā	`ā 
+67	30-1-86-1	728164139803590	Hawaiian	hawa1245	to light	LIGHT (IGNITE)	737		hō`ā	hō`ā 
+68	30-1-861-1	7281641307245479	Hawaiian	hawa1245	to extinguish	EXTINGUISH	127		ho`opio	ho`opio 
+69	30-1-88-1	7281641533029099	Hawaiian	hawa1245	the firewood	FIREWOOD	10		wahie	wahie 
+70	30-1-89-1	7281641823297244	Hawaiian	hawa1245	the charcoal	CHARCOAL	1188		nānahu	nānahu 
+71	30-2-1-1	7281641775897933	Hawaiian	hawa1245	the person	PERSON	683		kanaka	kanaka 
+72	30-2-21-1	7281641775897933	Hawaiian	hawa1245	the man	MAN	1554		kanaka	kanaka 
+73	30-2-22-1	728164160836913	Hawaiian	hawa1245	the woman	WOMAN	962		wahine (1)	wahine (1) 
+74	30-2-23-1	7281641679324445	Hawaiian	hawa1245	male(1)	MALE (OF ANIMAL)	2263		kāne (1)	kāne (1) 
+75	30-2-24-1	728164160836913	Hawaiian	hawa1245	female(1)	FEMALE (OF PERSON)	2260		wahine (1)	wahine (1) 
+76	30-2-25-1	7281641643615937	Hawaiian	hawa1245	the boy	BOY	1366		keikikāne	keikikāne 
+77	30-2-25-2	751516534007011	Hawaiian	hawa1245	the boy	BOY	1366		poi	poi 
+78	30-2-251-1	7281641711602125	Hawaiian	hawa1245	the young man	YOUNG MAN	76		kāne `ōpio	kāne `ōpio 
+79	30-2-26-1	7281641159755207	Hawaiian	hawa1245	the girl	GIRL	1646		kaikamahine	kaikamahine 
+80	30-2-261-1	7281641520659390	Hawaiian	hawa1245	the young woman	YOUNG WOMAN	77		wahine `ōpio	wahine `ōpio 
+81	30-2-27-1	7281641466271217	Hawaiian	hawa1245	the child(1)	CHILD (YOUNG HUMAN)	1304		keiki	keiki 
+82	30-2-28-1	7281641513746393	Hawaiian	hawa1245	the baby	BABY	1289		pēpē	pēpē 
+83	30-2-31-1	7281641247950298	Hawaiian	hawa1245	the husband	HUSBAND	1200		kāne	kāne 
+84	30-2-32-1	7281641827253025	Hawaiian	hawa1245	the wife	WIFE	1199		wahine	wahine 
+85	30-2-33-1	728164135957154	Hawaiian	hawa1245	to marry	MARRY	203		male	male 
+86	30-2-34-1	7281641136589056	Hawaiian	hawa1245	the wedding	WEDDING	1259		male `ana	male `ana 
+87	30-2-341-1	7281641703353570	Hawaiian	hawa1245	the divorce	DIVORCE	1134		`oki male	`oki male 
+88	30-2-35-1	7281641107757269	Hawaiian	hawa1245	the father	FATHER	1217		makuakāne	makuakāne 
+89	30-2-36-1	7281641563067049	Hawaiian	hawa1245	the mother	MOTHER	1216		makuahine	makuahine 
+90	30-2-37-1	7281641305865303	Hawaiian	hawa1245	the parents	PARENTS	505		mākua	mākua 
+91	30-2-38-1	7281641667518882	Hawaiian	hawa1245	the married man	MARRIED MAN	424		kāne (2)	kāne (2) 
+92	30-2-39-1	7281641482792242	Hawaiian	hawa1245	the married woman	MARRIED WOMAN	426		wahine (2)	wahine (2) 
+93	30-2-41-1	7281641175777137	Hawaiian	hawa1245	the son	SON	1620		keiki kāne	keiki kāne 
+94	30-2-42-1	7281641159755207	Hawaiian	hawa1245	the daughter	DAUGHTER	1357		kaikamahine	kaikamahine 
+95	30-3-662-1	7281641966375241	Hawaiian	hawa1245	the porpoise or dolphin	DOLPHIN	1479		nai`a	nai`a 
+96	30-2-43-1	7281641466271217	Hawaiian	hawa1245	the child(2)	CHILD (DESCENDANT)	1801		keiki	keiki 
+97	30-2-44-1	7281641294482645	Hawaiian	hawa1245	the brother	BROTHER	1262		kaikua`ana	kaikua`ana 
+98	30-2-44-2	7281641827392802	Hawaiian	hawa1245	the brother	BROTHER	1262		kaikaina	kaikaina 
+99	30-2-44-3	7281641162957135	Hawaiian	hawa1245	the brother	BROTHER	1262		kaikunāne	kaikunāne 
+100	30-2-444-1	7281641294482645	Hawaiian	hawa1245	the older brother	OLDER BROTHER	1759		kaikua`ana	kaikua`ana 
+101	30-2-444-2	7281641162957135	Hawaiian	hawa1245	the older brother	OLDER BROTHER	1759		kaikunāne	kaikunāne 
+102	30-2-445-1	7281641827392802	Hawaiian	hawa1245	the younger brother	YOUNGER BROTHER	1760		kaikaina	kaikaina 
+103	30-2-45-1	7281641294482645	Hawaiian	hawa1245	the sister	SISTER	1263		kaikua`ana	kaikua`ana 
+104	30-2-45-2	7281641827392802	Hawaiian	hawa1245	the sister	SISTER	1263		kaikaina	kaikaina 
+105	30-2-45-3	7281641870227994	Hawaiian	hawa1245	the sister	SISTER	1263		kaikuahine	kaikuahine 
+106	30-2-454-1	7281641294482645	Hawaiian	hawa1245	the older sister	OLDER SISTER	1758		kaikua`ana	kaikua`ana 
+107	30-2-454-2	7281641870227994	Hawaiian	hawa1245	the older sister	OLDER SISTER	1758		kaikuahine	kaikuahine 
+108	30-2-455-1	7281641827392802	Hawaiian	hawa1245	the younger sister	YOUNGER SISTER	1761		kaikaina	kaikaina 
+109	30-2-456-1	7281641464011696	Hawaiian	hawa1245	the sibling	SIBLING	1640		hānau mua	hānau mua 
+110	30-2-456-2	7281641631018906	Hawaiian	hawa1245	the sibling	SIBLING	1640		pōki`i	pōki`i 
+111	30-2-458-1	7281641287540950	Hawaiian	hawa1245	the twins	TWINS	1005		māhoe	māhoe 
+112	30-2-46-1	7281641270531172	Hawaiian	hawa1245	the grandfather	GRANDFATHER	1383		kupuna kāne	kupuna kāne 
+113	30-2-461-1	7281641113387822	Hawaiian	hawa1245	the old man	OLD MAN	406		`elemakule	`elemakule 
+114	30-2-461-2	75151651722606372	Hawaiian	hawa1245	the old man	OLD MAN	406		`olomana	`olomana 
+115	30-2-47-1	7281641458793226	Hawaiian	hawa1245	the grandmother	GRANDMOTHER	1496		kupuna wahine	kupuna wahine 
+116	30-2-471-1	728164112811029	Hawaiian	hawa1245	the old woman	OLD WOMAN	907		luahine	luahine 
+117	30-2-48-1	7281641307758226	Hawaiian	hawa1245	the grandson	GRANDSON	1618		mo`opuna	mo`opuna 
+118	30-2-49-1	7281641307758226	Hawaiian	hawa1245	the granddaughter	GRANDDAUGHTER	1619		mo`opuna	mo`opuna 
+119	30-2-51-1	7281641905670682	Hawaiian	hawa1245	the uncle	UNCLE	1327		`anakala	`anakala 
+120	30-2-511-1	7281641905670682	Hawaiian	hawa1245	the mother's brother	MOTHER'S BROTHER	1984		`anakala	`anakala 
+121	30-2-512-1	7281641905670682	Hawaiian	hawa1245	the father's brother	FATHER'S BROTHER	1985		`anakala	`anakala 
+122	30-2-52-1	7281641971872935	Hawaiian	hawa1245	the aunt	AUNT	1272		`anakē	`anakē 
+123	30-2-521-1	7281641971872935	Hawaiian	hawa1245	the mother's sister	MOTHER'S SISTER	171		`anakē	`anakē 
+124	30-2-522-1	7281641971872935	Hawaiian	hawa1245	the father's sister	FATHER'S SISTER	170		`anakē	`anakē 
+125	30-2-53-1	7281641323976150	Hawaiian	hawa1245	the nephew	NEPHEW	1063		`ohana keiki	`ohana keiki 
+126	30-2-54-1	7281641323976150	Hawaiian	hawa1245	the niece	NIECE	1642		`ohana keiki	`ohana keiki 
+127	30-2-55-1	7281641152606222	Hawaiian	hawa1245	the cousin	COUSIN	1643		hoahānau	hoahānau 
+128	30-2-56-1	7281641604942980	Hawaiian	hawa1245	the ancestors	ANCESTORS	1669		kūpuna	kūpuna 
+129	30-2-57-1	7281641307758226	Hawaiian	hawa1245	the descendants	DESCENDANTS	490		mo`opuna	mo`opuna 
+130	30-2-61-1	7281641185419667	Hawaiian	hawa1245	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		makuahūnōai kāne	makuahūnōai kāne 
+131	30-2-611-1	7281641185419667	Hawaiian	hawa1245	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		makuahūnōai kāne	makuahūnōai kāne 
+132	30-2-62-1	7281641620631257	Hawaiian	hawa1245	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		makuahūnōai wahine	makuahūnōai wahine 
+133	30-2-621-1	7281641620631257	Hawaiian	hawa1245	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		makuahūnōai wahine	makuahūnōai wahine 
+134	30-2-63-1	7281641580436257	Hawaiian	hawa1245	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		hūnōna kāne	hūnōna kāne 
+135	30-2-631-1	7281641580436257	Hawaiian	hawa1245	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		hūnōna kāne	hūnōna kāne 
+136	30-2-64-1	7281641984794857	Hawaiian	hawa1245	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		hūnōna wahine	hūnōna wahine 
+137	30-2-641-1	7281641984794857	Hawaiian	hawa1245	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		hūnōna wahine	hūnōna wahine 
+138	30-2-71-1	7281641711165114	Hawaiian	hawa1245	the stepfather	STEPFATHER	237		makua kāne kōlea	makua kāne kōlea 
+139	30-2-72-1	7281641994774402	Hawaiian	hawa1245	the stepmother	STEPMOTHER	236		makuahine kōlea	makuahine kōlea 
+140	30-2-73-1	7281641542856714	Hawaiian	hawa1245	the stepson	STEPSON	1059		keiki hānai	keiki hānai 
+141	30-2-74-1	7281641542856714	Hawaiian	hawa1245	the stepdaughter	STEPDAUGHTER	1058		keiki hānai	keiki hānai 
+142	30-2-75-1	728164141613818	Hawaiian	hawa1245	the orphan	ORPHAN	1149		keiki makua `ole	keiki makua `ole 
+143	30-2-76-1	7281641884616912	Hawaiian	hawa1245	the widow	WIDOW	1756		wahine kāne make	wahine kāne make 
+144	30-2-77-1	7281641522838154	Hawaiian	hawa1245	the widower	WIDOWER	1981		kāne wahine make	kāne wahine make 
+145	30-2-81-1	7281641604320431	Hawaiian	hawa1245	the relatives	RELATIVES	1644		`ohana	`ohana 
+146	30-2-82-1	7281641604320431	Hawaiian	hawa1245	the family	FAMILY	194		`ohana	`ohana 
+147	30-2-91-1	7281641568563810	Hawaiian	hawa1245	I	I	1209		wau	wau 
+148	30-2-92-1	7281641386274707	Hawaiian	hawa1245	you (singular)	THOU	1215		`oe	`oe 
+149	30-2-93-1	7281641383499742	Hawaiian	hawa1245	he/she/it	HE OR SHE OR IT	262		ia	ia 
+150	30-2-94-1	7281641655629481	Hawaiian	hawa1245	we	WE	1212		kāua	kāua 
+151	30-2-94-2	7281641248498076	Hawaiian	hawa1245	we	WE	1212		kākou	kākou 
+152	30-2-94-3	7281641408298006	Hawaiian	hawa1245	we	WE	1212		māua	māua 
+153	30-2-94-4	7281641581895146	Hawaiian	hawa1245	we	WE	1212		mākou	mākou 
+154	30-2-941-1	7281641655629481	Hawaiian	hawa1245	we (inclusive)	WE (INCLUSIVE)	1131		kāua	kāua 
+155	30-2-941-2	7281641248498076	Hawaiian	hawa1245	we (inclusive)	WE (INCLUSIVE)	1131		kākou	kākou 
+156	30-2-942-1	7281641408298006	Hawaiian	hawa1245	we (exclusive)	WE (EXCLUSIVE)	1130		māua	māua 
+157	30-2-942-2	7281641581895146	Hawaiian	hawa1245	we (exclusive)	WE (EXCLUSIVE)	1130		mākou	mākou 
+158	30-2-95-1	7281641208961564	Hawaiian	hawa1245	you (plural)	YOU	1213		`olua	`olua 
+159	30-2-95-2	7281641232905312	Hawaiian	hawa1245	you (plural)	YOU	1213		`oukou	`oukou 
+160	30-2-96-1	7281641887276182	Hawaiian	hawa1245	they	THEY	817		lāua	lāua 
+161	30-2-96-2	7281641606251990	Hawaiian	hawa1245	they	THEY	817		lākou	lākou 
+162	30-3-11-1	7281641611169875	Hawaiian	hawa1245	the animal	ANIMAL	619		holoholona	holoholona 
+163	30-3-12-1	7281641679324445	Hawaiian	hawa1245	male(2)	MALE (OF PERSON)	2261		kāne (1)	kāne (1) 
+164	30-3-13-1	728164160836913	Hawaiian	hawa1245	female(2)	FEMALE (OF ANIMAL)	2262		wahine (1)	wahine (1) 
+165	30-3-15-1	728164178887017	Hawaiian	hawa1245	the livestock	LIVESTOCK	631		holoholona hānai	holoholona hānai 
+166	30-3-16-1	7281641149448274	Hawaiian	hawa1245	the pasture	PASTURE	649		kula holoholona	kula holoholona 
+167	30-3-18-1	7281641569149440	Hawaiian	hawa1245	the herdsman	HERDSMAN	263		kahu pipi	kahu pipi 
+168	30-3-19-1	7281641764563529	Hawaiian	hawa1245	the stable or stall	STABLE	851		hale holoholona	hale holoholona 
+169	30-3-2-1	7281641206965018	Hawaiian	hawa1245	the cattle	CATTLE	1153		pipi	pipi 
+170	30-3-21-1	7281641287940306	Hawaiian	hawa1245	the bull	BULL	1008		pipi kāne	pipi kāne 
+171	30-3-22-1	7281641435326173	Hawaiian	hawa1245	the ox	OX	1169		pipi po`a	pipi po`a 
+172	30-3-23-1	7281641341873357	Hawaiian	hawa1245	the cow	COW	1007		pipi wahine	pipi wahine 
+173	30-3-24-1	7281641178908658	Hawaiian	hawa1245	the calf	CALF	1989		pipi keiki	pipi keiki 
+174	30-3-25-1	7281641627007464	Hawaiian	hawa1245	the sheep	SHEEP	1331		hipa	hipa 
+175	30-3-26-1	7281641727369628	Hawaiian	hawa1245	the ram	RAM	1344		hipa kāne	hipa kāne 
+176	30-3-28-1	7281641815119369	Hawaiian	hawa1245	the ewe	EWE	1345		hipa wahine	hipa wahine 
+177	30-3-29-1	7281641828098223	Hawaiian	hawa1245	the lamb	LAMB	820		hipa keiki	hipa keiki 
+178	30-3-32-1	7281641176356035	Hawaiian	hawa1245	the boar	BOAR	1348		pua`a kāne	pua`a kāne 
+179	30-3-34-1	7281641575097524	Hawaiian	hawa1245	the sow	SOW (FEMALE PIG)	1351		pua`a wahine	pua`a wahine 
+180	30-3-35-1	7281641132423835	Hawaiian	hawa1245	the pig	PIG	1337		pua`a	pua`a 
+181	30-3-36-1	7281641701545219	Hawaiian	hawa1245	the goat	GOAT	1502		kao	kao 
+182	30-3-37-1	7281641400831851	Hawaiian	hawa1245	the he-goat	HE-GOAT	264		kao kāne	kao kāne 
+183	30-3-38-1	7281641895431022	Hawaiian	hawa1245	the kid	KID	1972		kao keiki	kao keiki 
+184	30-3-41-1	7281641736376143	Hawaiian	hawa1245	the horse	HORSE	615		lio	lio 
+185	30-3-42-1	7281641194415287	Hawaiian	hawa1245	the stallion	STALLION	936		lio laho	lio laho 
+186	30-3-44-1	7281641445113101	Hawaiian	hawa1245	the mare	MARE	938		lio wahine	lio wahine 
+187	30-3-45-1	7281641193963780	Hawaiian	hawa1245	the foal or colt	FOAL	1647		lio keiki	lio keiki 
+188	30-3-46-1	728164121772655	Hawaiian	hawa1245	the donkey	DONKEY	1862		kēkake	kēkake 
+189	30-3-47-1	7281641243151763	Hawaiian	hawa1245	the mule	MULE	890		miula	miula 
+190	30-3-5-1	7281641737808759	Hawaiian	hawa1245	the fowl	FOWL	265		moa	moa 
+191	30-3-52-1	7281641896934208	Hawaiian	hawa1245	the cock/rooster	ROOSTER	1511		moa kāne	moa kāne 
+192	30-3-54-1	7281641872570724	Hawaiian	hawa1245	the hen	HEN	1514		moa wahine	moa wahine 
+193	30-3-55-1	7281641737808759	Hawaiian	hawa1245	the chicken	CHICKEN	1318		moa	moa 
+194	30-3-56-1	7281641377935190	Hawaiian	hawa1245	the goose	GOOSE	1187		nēnē	nēnē 
+195	30-3-57-1	7281641849828261	Hawaiian	hawa1245	the duck	DUCK	1360		kakā	kakā 
+196	30-3-58-1	7281641648475091	Hawaiian	hawa1245	the nest	NEST	539		pūnana	pūnana 
+197	30-3-581-1	7281641980356745	Hawaiian	hawa1245	the bird	BIRD	937		manu	manu 
+198	30-3-582-1	7281641774789342	Hawaiian	hawa1245	the seagull	SEAGULL	950		kalapuna	kalapuna 
+199	30-3-583-1	7281641884467045	Hawaiian	hawa1245	the heron	HERON	758		`uku`u	`uku`u 
+200	30-3-584-1	7281641785134357	Hawaiian	hawa1245	the eagle	EAGLE	1905		`aeko	`aeko 
+201	30-3-585-1	7281641833062180	Hawaiian	hawa1245	the hawk	HAWK	307		`io	`io 
+202	30-3-586-1	7281641113801783	Hawaiian	hawa1245	the vulture	VULTURE	1185		wulekula	wulekula 
+203	30-3-591-1	7281641394208808	Hawaiian	hawa1245	the bat	BAT	1793		`ōpe`ape`a	`ōpe`ape`a 
+204	30-3-592-1	7281641691901962	Hawaiian	hawa1245	the parrot	PARROT	882		manu aloha	manu aloha 
+205	30-3-593-1	7281641765351670	Hawaiian	hawa1245	the crow	CROW	913		`alalā	`alalā 
+206	30-3-594-1	7281641398566543	Hawaiian	hawa1245	the dove	DOVE	1853		manu kū	manu kū 
+207	30-3-596-1	7281641394264240	Hawaiian	hawa1245	the owl	OWL	735		pueo	pueo 
+208	30-3-61-1	7281641706979715	Hawaiian	hawa1245	the dog	DOG	2009		`īlio	`īlio 
+209	30-3-614-1	7281641749097034	Hawaiian	hawa1245	the rabbit	RABBIT	1136		lāpaki	lāpaki 
+210	30-3-62-1	7281641757155034	Hawaiian	hawa1245	the cat	CAT	1208		pōpoki	pōpoki 
+211	30-3-622-1	7281641172976415	Hawaiian	hawa1245	the opossum	OPOSSUM	309		`opakuma	`opakuma 
+212	30-3-63-1	7281641449407532	Hawaiian	hawa1245	the mouse or rat	MUROID (MOUSE OR RAT)	2139		`iole	`iole 
+213	30-3-65-1	7281641473660679	Hawaiian	hawa1245	the fish	FISH	227		i`a	i`a 
+214	30-3-652-1	7281641724146760	Hawaiian	hawa1245	the fin	FIN	213		lā (2)	lā (2) 
+215	30-3-653-1	7281641607578281	Hawaiian	hawa1245	the scale	SCALE	266		unahi	unahi 
+216	30-3-654-1	7281641937332940	Hawaiian	hawa1245	the gill	GILL	1916		pihapiha	pihapiha 
+217	30-3-655-1	7281641413001795	Hawaiian	hawa1245	the shell	SHELL	598		pūpū (1)	pūpū (1) 
+218	30-3-661-1	7281641266026995	Hawaiian	hawa1245	the shark	SHARK	1110		manō	manō 
+219	30-3-663-1	7281641619806857	Hawaiian	hawa1245	the whale	WHALE	957		koholā	koholā 
+220	30-3-664-1	728164198208407	Hawaiian	hawa1245	the stingray	STINGRAY	1910		hīhīmanu	hīhīmanu 
+221	30-3-665-1	7281641561422358	Hawaiian	hawa1245	the freshwater eel	FRESHWATER EEL	1013		puhi (2)	puhi (2) 
+222	30-3-71-1	728164122615527	Hawaiian	hawa1245	the wolf	WOLF	522		`īlio hae	`īlio hae 
+223	30-3-72-1	7281641811732648	Hawaiian	hawa1245	the lion	LION	1386		liona	liona 
+224	30-3-73-1	7281641937874816	Hawaiian	hawa1245	the bear	BEAR	1820		pea	pea 
+225	30-3-74-1	7281641380083575	Hawaiian	hawa1245	the fox	FOX	1312		`alopeka	`alopeka 
+226	30-3-75-1	7281641896608059	Hawaiian	hawa1245	the deer	DEER	1936		kia (1)	kia (1) 
+227	30-3-76-1	7281641724218099	Hawaiian	hawa1245	the monkey	MONKEY	1350		keko	keko 
+228	30-3-77-1	7281641487075950	Hawaiian	hawa1245	the elephant	ELEPHANT	1290		`elepani	`elepani 
+229	30-3-78-1	7281641128370534	Hawaiian	hawa1245	the camel	CAMEL	1871		kāmelo	kāmelo 
+230	30-3-81-1	7281641784664019	Hawaiian	hawa1245	the insect	INSECT	620		`iniseka	`iniseka 
+231	30-3-811-1	7281641826218918	Hawaiian	hawa1245	the head louse	HEAD LOUSE	310		`uku	`uku 
+232	30-3-812-1	7281641199954663	Hawaiian	hawa1245	the nit	NIT	267		liha	liha 
+233	30-3-813-1	7281641469712691	Hawaiian	hawa1245	the flea	FLEA	232		`uku lele	`uku lele 
+234	30-3-814-1	7281641653472925	Hawaiian	hawa1245	the centipede	CENTIPEDE	1974		kanapī	kanapī 
+235	30-3-815-1	7281641866147844	Hawaiian	hawa1245	the scorpion	SCORPION	1538		kopiana	kopiana 
+236	30-3-816-1	7281641806471468	Hawaiian	hawa1245	the cockroach	COCKROACH	1575		`elelū	`elelū 
+237	30-3-817-1	7281641978551199	Hawaiian	hawa1245	the ant	ANT	587		naonao	naonao 
+238	30-3-818-1	7281641703611377	Hawaiian	hawa1245	the spider	SPIDER	843		nananana	nananana 
+239	30-3-819-1	7281641653104953	Hawaiian	hawa1245	the spider web	SPIDER WEB	1065		`upena nananana	`upena nananana 
+240	30-3-82-1	7281641454842639	Hawaiian	hawa1245	the bee	BEE	665		nalo meli	nalo meli 
+241	30-3-821-1	7281641961903163	Hawaiian	hawa1245	the beeswax	BEESWAX	1931		kūkaenalo	kūkaenalo 
+242	30-3-822-1	7281641870996863	Hawaiian	hawa1245	the beehive	BEEHIVE	88		pahu meli	pahu meli 
+243	30-3-823-1	728164144904452	Hawaiian	hawa1245	the wasp	WASP	1517		kopena	kopena 
+244	30-3-83-1	7281641444106104	Hawaiian	hawa1245	the fly	FLY (INSECT)	1504		nalo	nalo 
+245	30-3-831-1	7281641338273210	Hawaiian	hawa1245	the sandfly or midge or gnat	SANDFLY	95		makika	makika 
+246	30-3-832-1	7281641338273210	Hawaiian	hawa1245	the mosquito	MOSQUITO	1509		makika	makika 
+247	30-3-84-1	7281641809963154	Hawaiian	hawa1245	the worm	WORM	1219		ko`e	ko`e 
+248	30-3-85-1	7281641646601741	Hawaiian	hawa1245	the snake	SNAKE	730		nahesa	nahesa 
+249	30-3-91-1	7281641566598166	Hawaiian	hawa1245	the firefly	FIREFLY	206		nalo `ui`uiki	nalo `ui`uiki 
+250	30-3-92-1	7281641697074767	Hawaiian	hawa1245	the butterfly	BUTTERFLY	1791		pulelehua	pulelehua 
+251	30-3-93-1	7281641312430	Hawaiian	hawa1245	the grasshopper	GRASSHOPPER	607		`ūhini	`ūhini 
+252	30-3-94-1	7281641413001795	Hawaiian	hawa1245	the snail	SNAIL	1543		pūpū (1)	pūpū (1) 
+253	30-3-95-1	7281641878865578	Hawaiian	hawa1245	the frog	FROG	503		poloka	poloka 
+254	30-3-96-1	728164154925601	Hawaiian	hawa1245	the lizard	LIZARD	632		mo`o	mo`o 
+255	30-3-97-1	7281641829395516	Hawaiian	hawa1245	the crocodile or alligator	CROCODILE	1857		mo`o nui	mo`o nui 
+256	30-3-98-1	7281641980558551	Hawaiian	hawa1245	the turtle	TURTLE	112		honu	honu 
+257	30-4-11-1	7281641818508963	Hawaiian	hawa1245	the body	BODY	1480		kino	kino 
+258	30-4-12-1	7281641633968370	Hawaiian	hawa1245	the skin or hide	SKIN	763		`ili	`ili 
+259	30-4-13-1	7281641581112788	Hawaiian	hawa1245	the flesh	FLESH	2259		`i`o	`i`o 
+260	30-4-14-1	7281641945566384	Hawaiian	hawa1245	the hair	HAIR (HEAD)	2648		lauoho	lauoho 
+261	30-4-142-1	7281641266780845	Hawaiian	hawa1245	the beard	BEARD	678		`umi`umi	`umi`umi 
+262	30-4-144-1	7281641129581882	Hawaiian	hawa1245	the body hair	HAIR (BODY)	189		huluhulu	huluhulu 
+263	30-4-145-1	7281641129581882	Hawaiian	hawa1245	the pubic hair	PUBIC HAIR	36		huluhulu	huluhulu 
+264	30-4-146-1	7281641289931854	Hawaiian	hawa1245	the dandruff	DANDRUFF	576		kēpia	kēpia 
+265	30-4-15-1	7281641117432331	Hawaiian	hawa1245	the blood	BLOOD	946		koko	koko 
+266	30-4-151-1	7281641326458068	Hawaiian	hawa1245	the vein or artery	BLOOD VESSEL	525		a`a koko	a`a koko 
+267	30-4-16-1	7281641232490769	Hawaiian	hawa1245	the bone	BONE	1394		iwi	iwi 
+268	30-4-162-1	728164148398959	Hawaiian	hawa1245	the rib	RIB	801		iwi `ao`ao	iwi `ao`ao 
+269	30-4-17-1	7281641711383487	Hawaiian	hawa1245	the horn	HORN (ANATOMY)	1393		kiwi	kiwi 
+270	30-4-18-1	7281641435607155	Hawaiian	hawa1245	the tail	TAIL	1220		huelo	huelo 
+271	30-4-19-1	7281641790279732	Hawaiian	hawa1245	the back	BACK	1291		kua	kua 
+272	30-4-191-1	7281641917970255	Hawaiian	hawa1245	the spine	SPINE	805		kuamo`o	kuamo`o 
+273	30-4-2-1	7281641164384570	Hawaiian	hawa1245	the head	HEAD	1256		po`o	po`o 
+274	30-4-201-1	7281641881873379	Hawaiian	hawa1245	the temples	TEMPLES	1604		maha	maha 
+275	30-4-202-1	7281641818054251	Hawaiian	hawa1245	the skull	SKULL	1605		iwi po`o	iwi po`o 
+276	30-4-203-1	7281641969947325	Hawaiian	hawa1245	the brain	BRAIN	1583		lolo	lolo 
+277	30-4-204-1	7281641346629008	Hawaiian	hawa1245	the face	FACE	1560		helehelena	helehelena 
+278	30-4-205-1	7281641754349941	Hawaiian	hawa1245	the forehead	FOREHEAD	123		lae (2)	lae (2) 
+279	30-4-207-1	7281641760517033	Hawaiian	hawa1245	the jaw	JAW	798		ā	ā 
+280	30-4-208-1	7281641117143807	Hawaiian	hawa1245	the cheek	CHEEK	1730		pāpālina	pāpālina 
+281	30-4-209-1	7281641551362472	Hawaiian	hawa1245	the chin	CHIN	1510		`auwae	`auwae 
+282	30-4-21-1	7281641967449238	Hawaiian	hawa1245	the eye	EYE	1248		maka (1)	maka (1) 
+283	30-4-212-1	7281641474278608	Hawaiian	hawa1245	the eyebrow	EYEBROW	1173		ku`emaka	ku`emaka 
+284	30-4-213-1	7281641588095602	Hawaiian	hawa1245	the eyelid	EYELID	17		lihilihi maka	lihilihi maka 
+285	30-4-214-1	7281641588095602	Hawaiian	hawa1245	the eyelash	EYELASH	1540		lihilihi maka	lihilihi maka 
+286	30-4-215-1	7281641475323016	Hawaiian	hawa1245	to blink	BLINK	1655		`i`imo	`i`imo 
+287	30-4-22-1	7281641908444367	Hawaiian	hawa1245	the ear	EAR	1247		pepeiao	pepeiao 
+288	30-4-221-1	7281641526665108	Hawaiian	hawa1245	the earlobe	EARLOBE	18		lepe pepeiao	lepe pepeiao 
+289	30-4-222-1	7281641795925658	Hawaiian	hawa1245	the earwax	EARWAX	32		kokuli	kokuli 
+290	30-4-23-1	7281641612824590	Hawaiian	hawa1245	the nose	NOSE	1221		ihu	ihu 
+291	30-4-231-1	7281641482312509	Hawaiian	hawa1245	the nostril	NOSTRIL	1178		pukaihu	pukaihu 
+292	30-4-232-1	72816415945846	Hawaiian	hawa1245	the nasal mucus	NASAL MUCUS (SNOT)	208		hūpē	hūpē 
+293	30-4-24-1	7281641980417168	Hawaiian	hawa1245	the mouth	MOUTH	674		waha	waha 
+294	30-4-241-1	7281641945279439	Hawaiian	hawa1245	the beak	BEAK	73		nuku (1)	nuku (1) 
+295	30-4-25-1	7281641885429132	Hawaiian	hawa1245	the lip	LIP	478		lehelehe	lehelehe 
+296	30-4-26-1	7281641113418913	Hawaiian	hawa1245	the tongue	TONGUE	1205		alelo	alelo 
+297	30-4-27-1	7281641927749112	Hawaiian	hawa1245	the tooth	TOOTH	1380		niho	niho 
+298	30-4-271-1	7281641411030975	Hawaiian	hawa1245	the gums	GUMS	139		`i`o pale niho	`i`o pale niho 
+299	30-4-272-1	7281641278237254	Hawaiian	hawa1245	the molar tooth	MOLAR TOOTH	1049		ku`i (1)	ku`i (1) 
+300	30-4-28-1	7281641474671402	Hawaiian	hawa1245	the neck	NECK	1333		`ā`ī	`ā`ī 
+301	30-4-281-1	7281641692756905	Hawaiian	hawa1245	the nape of the neck	NAPE (OF NECK)	1347		hokua	hokua 
+302	30-4-29-1	728164180092160	Hawaiian	hawa1245	the throat	THROAT	1346		pu`u	pu`u 
+303	30-4-3-1	7281641919504404	Hawaiian	hawa1245	the shoulder	SHOULDER	1482		po`ohiwi	po`ohiwi 
+304	30-4-301-1	7281641583676724	Hawaiian	hawa1245	the shoulderblade	SHOULDERBLADE	172		iwi hoehoe	iwi hoehoe 
+305	30-4-302-1	7281641105579954	Hawaiian	hawa1245	the collarbone	COLLARBONE	1994		iwi lei	iwi lei 
+306	30-4-31-1	7281641401566616	Hawaiian	hawa1245	the arm	ARM	1673		lima (1)	lima (1) 
+307	30-4-312-1	7281641160969280	Hawaiian	hawa1245	the armpit	ARMPIT	1886		po`ae`ae	po`ae`ae 
+308	30-4-32-1	7281641738011951	Hawaiian	hawa1245	the elbow	ELBOW	981		ku`eku`e lima	ku`eku`e lima 
+309	30-4-321-1	7281641999625848	Hawaiian	hawa1245	the wrist	WRIST	799		pūlima	pūlima 
+310	30-4-33-1	7281641401566616	Hawaiian	hawa1245	the hand	HAND	1277		lima (1)	lima (1) 
+311	30-4-331-1	7281641331735912	Hawaiian	hawa1245	the palm of the hand	PALM OF HAND	1183		poho lima	poho lima 
+312	30-4-34-1	7281641347110148	Hawaiian	hawa1245	the finger	FINGER	1303		manamana lima	manamana lima 
+313	30-4-342-1	7281641731480498	Hawaiian	hawa1245	the thumb	THUMB	1781		manamana lima nui	manamana lima nui 
+314	30-4-344-1	7281641678383961	Hawaiian	hawa1245	the fingernail	FINGERNAIL	1258		miki`ao	miki`ao 
+315	30-4-345-1	7281641678383961	Hawaiian	hawa1245	the claw	CLAW	72		miki`ao	miki`ao 
+316	30-4-35-1	7281641724787263	Hawaiian	hawa1245	the leg	LEG	1297		wāwae	wāwae 
+317	30-4-351-1	7281641267413942	Hawaiian	hawa1245	the thigh	THIGH	800		`ūhā	`ūhā 
+318	30-4-352-1	7281641742344956	Hawaiian	hawa1245	the calf of the leg	CALF OF LEG	498		`olo`olo wāwae	`olo`olo wāwae 
+319	30-4-36-1	7281641736326377	Hawaiian	hawa1245	the knee	KNEE	1371		kuli (1)	kuli (1) 
+320	30-4-37-1	7281641724787263	Hawaiian	hawa1245	the foot	FOOT	1301		wāwae	wāwae 
+321	30-4-371-1	7281641723845067	Hawaiian	hawa1245	the ankle	ANKLE	803		ku`eku`e wāwae	ku`eku`e wāwae 
+322	30-4-372-1	7281641723845067	Hawaiian	hawa1245	the heel	HEEL	980		ku`eku`e wāwae	ku`eku`e wāwae 
+323	30-4-374-1	7281641424875825	Hawaiian	hawa1245	the footprint	FOOTPRINT	318		kapua`i	kapua`i 
+324	30-4-38-1	7281641195433384	Hawaiian	hawa1245	the toe	TOE	1389		manamana wāwae	manamana wāwae 
+325	30-4-392-1	728164166615421	Hawaiian	hawa1245	the wing	WING	1257		`ēheu	`ēheu 
+326	30-4-393-1	7281641944573326	Hawaiian	hawa1245	the feather	FEATHER	1201		hulu (1)	hulu (1) 
+327	30-4-4-1	7281641113554194	Hawaiian	hawa1245	the chest	CHEST	1592		umauma	umauma 
+328	30-4-41-1	7281641744768087	Hawaiian	hawa1245	the breast	BREAST	1402		poli	poli 
+329	30-4-412-1	7281641223523930	Hawaiian	hawa1245	the nipple or teat	NIPPLE	796		maka waiū	maka waiū 
+330	30-4-42-1	7281641337847880	Hawaiian	hawa1245	the udder	UDDER	154		ū	ū 
+331	30-4-43-1	7281641128484787	Hawaiian	hawa1245	the navel	NAVEL	1838		piko	piko 
+332	30-4-44-1	7281641523430332	Hawaiian	hawa1245	the heart	HEART	1223		pu`uwai	pu`uwai 
+333	30-4-441-1	7281641797057576	Hawaiian	hawa1245	the lung	LUNG	688		akemāmā	akemāmā 
+334	30-4-45-1	7281641738972388	Hawaiian	hawa1245	the liver	LIVER	1224		ake	ake 
+335	30-4-451-1	728164175596693	Hawaiian	hawa1245	the kidney	KIDNEY	489		haku`ala	haku`ala 
+336	30-4-452-1	7281641385916844	Hawaiian	hawa1245	the spleen	SPLEEN	1744		akenī`au	akenī`au 
+337	30-4-46-1	7281641522873148	Hawaiian	hawa1245	the stomach	STOMACH	819		`ōpū	`ōpū 
+338	30-4-461-1	7281641798125023	Hawaiian	hawa1245	the intestines or guts	INTESTINES	1991		na`au	na`au 
+339	30-4-462-1	7281641913983243	Hawaiian	hawa1245	the waist	WAIST	1681		pūhaka	pūhaka 
+340	30-4-463-1	7281641961312732	Hawaiian	hawa1245	the hip	HIP	1745		kīkala	kīkala 
+341	30-4-464-1	7281641884232014	Hawaiian	hawa1245	the buttocks	BUTTOCKS	834		`ēlemu	`ēlemu 
+342	30-4-47-1	7281641232080722	Hawaiian	hawa1245	the womb	WOMB	804		pū`ao	pū`ao 
+343	30-4-49-1	7281641439686386	Hawaiian	hawa1245	the testicles	TESTICLES	797		hua (1)	hua (1) 
+344	30-4-492-1	728164172026224	Hawaiian	hawa1245	the penis	PENIS	1222		ule	ule 
+345	30-4-51-1	7281641238974127	Hawaiian	hawa1245	to breathe	BREATHE	1407		hanu	hanu 
+346	30-4-52-1	7281641101141139	Hawaiian	hawa1245	to yawn	YAWN	1028		hāmama	hāmama 
+347	30-4-521-1	7281641924519516	Hawaiian	hawa1245	to hiccough	HICCOUGH	162		mauli`awa	mauli`awa 
+348	30-4-53-1	7281641699455568	Hawaiian	hawa1245	to cough	COUGH	879		kunu	kunu 
+349	30-4-54-1	7281641320745873	Hawaiian	hawa1245	to sneeze	SNEEZE	1621		kihe	kihe 
+350	30-4-55-1	7281641667721724	Hawaiian	hawa1245	to perspire	SWEAT (PERSPIRE)	126		hou (1)	hou (1) 
+351	30-4-56-1	7281641178652213	Hawaiian	hawa1245	to spit	SPIT	1440		kuha	kuha 
+352	30-4-57-1	7281641638491811	Hawaiian	hawa1245	to vomit	VOMIT	1278		lua`i	lua`i 
+353	30-4-58-1	7281641400206334	Hawaiian	hawa1245	to bite	BITE	1403		nahu	nahu 
+354	30-4-59-1	7281641340492938	Hawaiian	hawa1245	to lick	LICK	319		palu	palu 
+355	30-4-591-1	7281641676417242	Hawaiian	hawa1245	to dribble	DRIBBLE	268		hā`ae	hā`ae 
+356	30-4-61-1	7281641995340729	Hawaiian	hawa1245	to sleep	SLEEP	1585		hiamoe	hiamoe 
+357	30-4-612-1	7281641467989129	Hawaiian	hawa1245	to snore	SNORE	1983		nonō	nonō 
+358	30-4-62-1	72816417625167	Hawaiian	hawa1245	to dream	DREAM (SOMETHING)	1920		moe`uhane	moe`uhane 
+359	30-4-63-1	7281641940361810	Hawaiian	hawa1245	to wake up	WAKE UP	1602		ala (1)	ala (1) 
+360	30-4-64-1	7281641272871210	Hawaiian	hawa1245	to fart	FART	1159		pūhi`u	pūhi`u 
+361	30-4-65-1	7281641735787511	Hawaiian	hawa1245	to piss	PISS	592		mimi	mimi 
+362	30-4-66-1	7281641581618046	Hawaiian	hawa1245	to shit	SHIT (DEFECATE)	676		hana lepo	hana lepo 
+363	30-4-67-1	7281641304760392	Hawaiian	hawa1245	to have sex	HAVE SEX	1785		ai	ai 
+364	30-4-68-1	7281641897839357	Hawaiian	hawa1245	to shiver	SHIVER	52		ha`ukeke	ha`ukeke 
+365	30-4-69-1	7281641474323714	Hawaiian	hawa1245	to bathe	BATHE	138		`au`au	`au`au 
+366	30-4-71-1	7281641673193477	Hawaiian	hawa1245	to beget	BEGET	1152		ho`omakua kāne	ho`omakua kāne 
+367	30-4-72-1	7281641294740351	Hawaiian	hawa1245	to be born	BE BORN	1090		hānau `ia	hānau `ia 
+368	30-4-73-1	7281641468662629	Hawaiian	hawa1245	pregnant	PREGNANT	1123		hāpai (1)	hāpai (1) 
+369	30-4-732-1	728164162312599	Hawaiian	hawa1245	to conceive	CONCEIVE	1087		ho`ohāpai	ho`ohāpai 
+370	30-4-74-1	7281641296272457	Hawaiian	hawa1245	to be alive	BE ALIVE	1422		ola	ola 
+371	30-4-75-1	7281641783027420	Hawaiian	hawa1245	to die	DIE	1494		make	make 
+372	30-4-751-1	7281641675907009	Hawaiian	hawa1245	to drown	DROWN	1904		piholo	piholo 
+373	30-4-76-1	7281641239087947	Hawaiian	hawa1245	to kill	KILL	1417		ho`omake	ho`omake 
+374	30-4-77-1	7281641865994614	Hawaiian	hawa1245	the corpse	CORPSE	767		kupapa`u	kupapa`u 
+375	30-4-78-1	7281641615752841	Hawaiian	hawa1245	to bury	BURY	1719		kanu	kanu 
+376	30-4-79-1	7281641615844818	Hawaiian	hawa1245	the grave	GRAVE	1773		lua kupapa`u	lua kupapa`u 
+377	30-4-81-1	7281641258783827	Hawaiian	hawa1245	strong	STRONG	785		ikaika	ikaika 
+378	30-4-82-1	7281641343505592	Hawaiian	hawa1245	weak	WEAK	1601		nāwaliwali	nāwaliwali 
+379	30-4-83-1	7281641588382541	Hawaiian	hawa1245	healthy	HEALTHY	1364		olakino maika`i	olakino maika`i 
+380	30-4-84-1	7281641138352817	Hawaiian	hawa1245	sick/ill	SICK	1847		ma`i	ma`i 
+381	30-4-841-1	7281641268337660	Hawaiian	hawa1245	the fever	FEVER	1534		piwa (2)	piwa (2) 
+382	30-4-841-2	75151653701492283	Hawaiian	hawa1245	the fever	FEVER	1534		piwa	piwa 
+383	30-4-842-1	7281641284136050	Hawaiian	hawa1245	the goitre/goiter	GOITER	1957		`ā`ī`olo`olo	`ā`ī`olo`olo 
+384	30-4-843-1	7281641673230950	Hawaiian	hawa1245	the cold	COMMON COLD (DISEASE)	102		anu	anu 
+385	30-4-85-1	7281641446892632	Hawaiian	hawa1245	the wound or sore	WOUND	1109		`eha	`eha 
+386	30-4-852-1	7281641725198607	Hawaiian	hawa1245	the bruise	BRUISE	1148		māui	māui 
+387	30-4-853-1	7281641891075752	Hawaiian	hawa1245	the swelling	SWELLING	1903		pehu	pehu 
+388	30-4-854-1	7281641626921770	Hawaiian	hawa1245	the itch	ITCH	148		mane`o	mane`o 
+389	30-4-855-1	7281641955836804	Hawaiian	hawa1245	the blister	BLISTER	1584		`olopū	`olopū 
+390	30-4-856-1	7281641390257196	Hawaiian	hawa1245	the boil	BOIL (OF SKIN)	793		palapū	palapū 
+391	30-4-857-1	7281641108580761	Hawaiian	hawa1245	the pus	PUS	1808		palahēhē	palahēhē 
+392	30-4-858-1	7281641440103588	Hawaiian	hawa1245	the scar	SCAR	497		`ālina	`ālina 
+393	30-4-86-1	7281641808134149	Hawaiian	hawa1245	to cure	CURE	499		hō`ola	hō`ola 
+394	30-4-87-1	7281641923875957	Hawaiian	hawa1245	the physician	PHYSICIAN	597		kauka	kauka 
+395	30-4-88-1	7281641245118889	Hawaiian	hawa1245	the medicine	MEDICINE	1372		lā`au lapa`au	lā`au lapa`au 
+396	30-4-89-1	7281641983039524	Hawaiian	hawa1245	the poison	POISON	655		la`au make	la`au make 
+397	30-4-91-1	728164177793613	Hawaiian	hawa1245	tired	TIRED	1757		māluhiluhi	māluhiluhi 
+398	30-4-912-1	7281641647223147	Hawaiian	hawa1245	to rest	REST	168		ho`omaha	ho`omaha 
+399	30-4-92-1	7281641420834350	Hawaiian	hawa1245	lazy	LAZY	1564		moloā	moloā 
+400	30-4-93-1	7281641900175890	Hawaiian	hawa1245	bald	BALD	1125		`ōhule	`ōhule 
+401	30-4-94-1	7281641584596186	Hawaiian	hawa1245	lame	LAME	320		`o`opa	`o`opa 
+402	30-4-95-1	7281641395747960	Hawaiian	hawa1245	deaf	DEAF	996		kuli (2)	kuli (2) 
+403	30-4-96-1	7281641263888270	Hawaiian	hawa1245	mute	MUTE	1666		mū	mū 
+404	30-4-97-1	7281641346890027	Hawaiian	hawa1245	blind	BLIND	1653		maka pō	maka pō 
+405	30-4-98-1	728164112856022	Hawaiian	hawa1245	drunk	DRUNK	1463		`ona (1)	`ona (1) 
+406	30-4-99-1	7281641572098354	Hawaiian	hawa1245	naked	NAKED	590		hele wale	hele wale 
+407	30-5-11-1	7281641301463029	Hawaiian	hawa1245	to eat	EAT	1336		`ai	`ai 
+408	30-5-12-1	7281641164144305	Hawaiian	hawa1245	the food	FOOD	256		mea`ai	mea`ai 
+409	30-5-121-1	7281641888909289	Hawaiian	hawa1245	cooked	COOKED	269		mo`a	mo`a 
+410	30-5-122-1	7281641148230133	Hawaiian	hawa1245	raw	RAW	1959		maka (2)	maka (2) 
+411	30-5-123-1	7281641223702450	Hawaiian	hawa1245	ripe	RIPE	178		pala	pala 
+412	30-5-124-1	7281641148230133	Hawaiian	hawa1245	unripe	UNRIPE	1958		maka (2)	maka (2) 
+413	30-5-125-1	72816414653912	Hawaiian	hawa1245	rotten	ROTTEN	1728		palahū	palahū 
+414	30-5-13-1	7281641912672378	Hawaiian	hawa1245	to drink	DRINK	1401		inu	inu 
+415	30-5-14-1	7281641545213236	Hawaiian	hawa1245	to be hungry	BE HUNGRY	1533		pōloli	pōloli 
+416	30-5-141-1	7281641990327603	Hawaiian	hawa1245	the famine	FAMINE	199		wī	wī 
+417	30-5-15-1	7281641890980646	Hawaiian	hawa1245	to be thirsty	THIRSTY	847		make wai	make wai 
+418	30-5-16-1	7281641215841144	Hawaiian	hawa1245	to suck	SUCK	1421		omo	omo 
+419	30-5-18-1	7281641697807812	Hawaiian	hawa1245	to chew	CHEW	321		namu (1)	namu (1) 
+420	30-5-181-1	7281641774421844	Hawaiian	hawa1245	to swallow	SWALLOW	897		moni	moni 
+421	30-5-19-1	7281641360467374	Hawaiian	hawa1245	to choke	CHOKE	129		pu`ua	pu`ua 
+422	30-5-21-1	728164190931092	Hawaiian	hawa1245	to cook	COOK (SOMETHING)	1100		kuke	kuke 
+423	30-5-22-1	7281641433756675	Hawaiian	hawa1245	to boil	BOIL (OF LIQUID)	792		paila (1)	paila (1) 
+424	30-5-23-1	7281641196023221	Hawaiian	hawa1245	to roast or fry	ROAST OR FRY	2146		palai	palai 
+425	30-5-24-1	7281641384248629	Hawaiian	hawa1245	to bake	BAKE	183		`oma	`oma 
+426	30-5-25-1	7281641384248629	Hawaiian	hawa1245	the oven	OVEN	1143		`oma	`oma 
+427	30-5-26-1	7281641105444016	Hawaiian	hawa1245	the pot	POT	1462		ipu hao	ipu hao 
+428	30-5-27-1	7281641227574762	Hawaiian	hawa1245	the kettle	KETTLE	854		kikila	kikila 
+429	30-5-28-1	7281641282309378	Hawaiian	hawa1245	the pan	PAN	31		pā palai	pā palai 
+430	30-5-31-1	7281641820673552	Hawaiian	hawa1245	the dish	DISH	481		pā (1)	pā (1) 
+431	30-5-32-1	7281641820673552	Hawaiian	hawa1245	the plate	PLATE	480		pā (1)	pā (1) 
+432	30-5-33-1	7281641552918137	Hawaiian	hawa1245	the bowl	BOWL	1530		pola	pola 
+433	30-5-34-1	7281641609713980	Hawaiian	hawa1245	the jug/pitcher	JUG	270		pika	pika 
+434	30-5-35-1	7281641665768340	Hawaiian	hawa1245	the cup	CUP	476		kī`aha	kī`aha 
+435	30-5-36-1	7281641667804232	Hawaiian	hawa1245	the saucer	SAUCER	271		pā li`ili`i	pā li`ili`i 
+436	30-5-37-1	7281641969982109	Hawaiian	hawa1245	the spoon	SPOON	1378		puna (2)	puna (2) 
+437	30-5-38-1	7281641447499050	Hawaiian	hawa1245	the knife(1)	KNIFE (FOR EATING)	3210		pahi	pahi 
+438	30-5-39-1	7281641521341411	Hawaiian	hawa1245	the fork	FORK	1302		`ō	`ō 
+439	30-5-391-1	7281641464705161	Hawaiian	hawa1245	the tongs	TONGS	272		`ūpā	`ūpā 
+440	30-5-41-1	7281641583942597	Hawaiian	hawa1245	the meal	MEAL	1526		pā`ina	pā`ina 
+441	30-5-42-1	7281641866088333	Hawaiian	hawa1245	the breakfast	BREAKFAST	1322		`aina kakahiaka	`aina kakahiaka 
+442	30-5-43-1	7281641496601285	Hawaiian	hawa1245	the lunch	LUNCH	768		`aina awakea	`aina awakea 
+443	30-5-44-1	7281641402838523	Hawaiian	hawa1245	the dinner	DINNER (SUPPER)	1833		`aina ahiahi	`aina ahiahi 
+444	30-5-45-1	7281641402838523	Hawaiian	hawa1245	the supper	DINNER (SUPPER)	1833		`aina ahiahi	`aina ahiahi 
+445	30-5-46-1	7281641596700657	Hawaiian	hawa1245	to peel	PEEL	275		koli	koli 
+446	30-5-47-1	7281641410577498	Hawaiian	hawa1245	to sieve or to strain	SIEVE	86		kālana	kālana 
+447	30-5-48-1	7281641975787328	Hawaiian	hawa1245	to scrape	SCRAPE	1767		wa`u	wa`u 
+448	30-5-49-1	7281641310393049	Hawaiian	hawa1245	to stir or to mix	MIX	2017		kāwili	kāwili 
+449	30-5-51-1	7281641353305042	Hawaiian	hawa1245	the bread	BREAD	1368		palaoa	palaoa 
+450	30-5-53-1	7281641843670698	Hawaiian	hawa1245	the dough	DOUGH	273		palaoa ho`owili`ia	palaoa ho`owili`ia 
+451	30-5-54-1	7281641860520555	Hawaiian	hawa1245	to knead	KNEAD	274		lomi	lomi 
+452	30-5-55-1	7281641353305042	Hawaiian	hawa1245	the flour	FLOUR	1594		palaoa	palaoa 
+453	30-5-56-1	7281641843741592	Hawaiian	hawa1245	to crush or to grind	GRIND	1033		`uī	`uī 
+454	30-5-57-1	7281641279369874	Hawaiian	hawa1245	the mill	MILL	636		wili (1)	wili (1) 
+455	30-5-58-1	7281641446946654	Hawaiian	hawa1245	the mortar(1)	MORTAR CRUSHER	224		ipu ku`i	ipu ku`i 
+456	30-5-59-1	7281641564466390	Hawaiian	hawa1245	the pestle	PESTLE	225		mea ku`i	mea ku`i 
+457	30-5-61-1	7281641581112788	Hawaiian	hawa1245	the meat	MEAT	634		`i`o	`i`o 
+458	30-5-63-1	7281641732928280	Hawaiian	hawa1245	the sausage	SAUSAGE	1874		na`aukake	na`aukake 
+459	30-5-64-1	7281641433756675	Hawaiian	hawa1245	the soup	SOUP	1547		paila (1)	paila (1) 
+460	30-5-65-1	7281641951118451	Hawaiian	hawa1245	the vegetables	VEGETABLES	924		lau`ai	lau`ai 
+461	30-5-66-1	7281641714999805	Hawaiian	hawa1245	the bean	BEAN	832		pī (1)	pī (1) 
+462	30-5-7-1	7281641485401616	Hawaiian	hawa1245	the potato	POTATO	593		`uala kahiki	`uala kahiki 
+463	30-5-71-1	7281641931009274	Hawaiian	hawa1245	the fruit	FRUIT	1507		hua `ai	hua `ai 
+464	30-5-712-1	7281641783985473	Hawaiian	hawa1245	the bunch	BUNCH	1966		pūpū (2)	pūpū (2) 
+465	30-5-75-1	7281641546814177	Hawaiian	hawa1245	the fig	FIG	322		piku	piku 
+466	30-5-76-1	7281641629583639	Hawaiian	hawa1245	the grape	GRAPE	920		hua waina	hua waina 
+467	30-5-77-1	7281641244074315	Hawaiian	hawa1245	the nut	NUT	191		kukui haole	kukui haole 
+468	30-5-78-1	7281641316788693	Hawaiian	hawa1245	the olive	OLIVE	1154		`oliwa	`oliwa 
+469	30-5-79-1	7281641514536549	Hawaiian	hawa1245	the oil	OIL (ORGANIC SUBSTANCE)	1484		`aila	`aila 
+470	30-5-791-1	7281641514536549	Hawaiian	hawa1245	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		`aila	`aila 
+471	30-5-81-1	7281641252658912	Hawaiian	hawa1245	the salt	SALT	1274		pa`akai	pa`akai 
+472	30-5-82-1	7281641683882006	Hawaiian	hawa1245	the pepper	PEPPER	1385		pepa (2)	pepa (2) 
+473	30-5-821-1	7281641908031877	Hawaiian	hawa1245	the chili pepper	CHILI PEPPER	919		kili	kili 
+474	30-5-84-1	7281641780505297	Hawaiian	hawa1245	the honey	HONEY	942		meli	meli 
+475	30-5-85-1	7281641253990720	Hawaiian	hawa1245	the sugar	SUGAR	862		kōpa`a	kōpa`a 
+476	30-5-86-1	7281641297178920	Hawaiian	hawa1245	the milk	MILK	635		waiū	waiū 
+477	30-5-87-1	7281641843741592	Hawaiian	hawa1245	to milk	DRAW MILK	93		`uī	`uī 
+478	30-5-88-1	7281641203898702	Hawaiian	hawa1245	the cheese	CHEESE	1569		waiūpa`a	waiūpa`a 
+479	30-5-89-1	7281641534576595	Hawaiian	hawa1245	the butter	BUTTER	1245		waiūpaka	waiūpaka 
+480	30-5-9-1	7281641177553099	Hawaiian	hawa1245	the drink	BEVERAGE	731		mea inu	mea inu 
+481	30-5-92-1	728164135861333	Hawaiian	hawa1245	the wine	WINE	1524		waina	waina 
+482	30-5-93-1	728164182209491	Hawaiian	hawa1245	the beer	BEER	1639		pia	pia 
+483	30-5-94-1	7281641396021828	Hawaiian	hawa1245	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		`alekohola	`alekohola 
+484	30-5-97-1	7281641226022352	Hawaiian	hawa1245	the egg	EGG	744		hua (2)	hua (2) 
+485	30-5-971-1	7281641828780338	Hawaiian	hawa1245	the yolk	YOLK	1556		kauō	kauō 
+486	30-6-11-1	7281641265176238	Hawaiian	hawa1245	to put on	PUT ON	158		komo (3)	komo (3) 
+487	30-6-12-1	7281641926925357	Hawaiian	hawa1245	the clothing or clothes	CLOTHES	1895		lole	lole 
+488	30-6-13-1	7281641658063567	Hawaiian	hawa1245	the tailor	TAILOR	881		kela	kela 
+489	30-6-21-1	7281641926925357	Hawaiian	hawa1245	the cloth	CLOTH	1616		lole	lole 
+490	30-6-22-1	7281641115094746	Hawaiian	hawa1245	the wool	WOOL	964		hulu (2)	hulu (2) 
+491	30-6-23-1	7281641891312905	Hawaiian	hawa1245	the linen	LINEN	916		lilina	lilina 
+492	30-6-24-1	7281641332747193	Hawaiian	hawa1245	the cotton	COTTON	1850		pulupulu	pulupulu 
+493	30-6-25-1	7281641790319304	Hawaiian	hawa1245	the silk	SILK	1641		kilika	kilika 
+494	30-6-27-1	7281641376398061	Hawaiian	hawa1245	the felt	FELT	325		mānoanoa	mānoanoa 
+495	30-6-28-1	7281641115094746	Hawaiian	hawa1245	the fur	FUR	580		hulu (2)	hulu (2) 
+496	30-6-29-1	7281641633968370	Hawaiian	hawa1245	the leather	LEATHER	629		`ili	`ili 
+497	30-6-31-1	7281641965056566	Hawaiian	hawa1245	to spin	SPIN	121		hilo	hilo 
+498	30-6-32-1	7281641212698186	Hawaiian	hawa1245	the spindle	SPINDLE	277		kālī	kālī 
+499	30-6-33-1	7281641284306104	Hawaiian	hawa1245	to weave	WEAVE	133		ulana	ulana 
+500	30-6-34-1	7281641266436447	Hawaiian	hawa1245	the loom	LOOM	1787		`ōmau	`ōmau 
+501	30-6-35-1	7281641492847963	Hawaiian	hawa1245	to sew	SEW	1457		humuhumu	humuhumu 
+502	30-6-36-1	7281641764987581	Hawaiian	hawa1245	the needle(1)	NEEDLE (FOR SEWING)	1382		kui (1)	kui (1) 
+503	30-6-37-1	7281641398516882	Hawaiian	hawa1245	the awl	AWL	278		kui houhou	kui houhou 
+504	30-6-38-1	7281641707039564	Hawaiian	hawa1245	the thread	THREAD	1161		lopi	lopi 
+505	30-6-39-1	7281641389365107	Hawaiian	hawa1245	to dye	DYE	157		waiho`olu`u	waiho`olu`u 
+506	30-6-41-1	7281641479126694	Hawaiian	hawa1245	the cloak	CLOAK	326		koloka	koloka 
+507	30-6-411-1	7281641288255793	Hawaiian	hawa1245	the poncho	PONCHO	327		kīpuka	kīpuka 
+508	30-7-37-1	7281641568262980	Hawaiian	hawa1245	the ladder	LADDER	1464		alapi`i	alapi`i 
+509	30-6-42-1	7281641477352021	Hawaiian	hawa1245	the (woman's) dress	DRESS	474		mu`umu`u	mu`umu`u 
+510	30-6-43-1	7281641262966338	Hawaiian	hawa1245	the coat	COAT	603		kuka	kuka 
+511	30-6-44-1	7281641425336224	Hawaiian	hawa1245	the shirt	SHIRT	1622		pālule	pālule 
+512	30-6-45-1	7281641624990011	Hawaiian	hawa1245	the collar	COLLAR	2012		kala (1)	kala (1) 
+513	30-6-46-1	7281641142861678	Hawaiian	hawa1245	the skirt	SKIRT	1600		pā`ū	pā`ū 
+514	30-6-48-1	7281641943186423	Hawaiian	hawa1245	the trousers	TROUSERS	809		lole wāwae	lole wāwae 
+515	30-6-49-1	7281641167930354	Hawaiian	hawa1245	the sock or stocking	STOCKING	329		kākini	kākini 
+516	30-6-51-1	7281641909292831	Hawaiian	hawa1245	the shoe	SHOE	1381		kāma`a	kāma`a 
+517	30-6-52-1	7281641252590517	Hawaiian	hawa1245	the boot	BOOT	585		puki	puki 
+518	30-6-54-1	7281641222405965	Hawaiian	hawa1245	the shoemaker	SHOEMAKER	875		kūmeka	kūmeka 
+519	30-6-55-1	7281641711113205	Hawaiian	hawa1245	the hat or cap	HEADGEAR	2130		pāpale	pāpale 
+520	30-6-57-1	7281641578435840	Hawaiian	hawa1245	the belt	BELT	772		kuapo	kuapo 
+521	30-6-58-1	7281641638857788	Hawaiian	hawa1245	the glove	GLOVE	867		mikilima	mikilima 
+522	30-6-59-1	7281641807902470	Hawaiian	hawa1245	the veil	VEIL	1151		uhi (1)	uhi (1) 
+523	30-6-61-1	7281641386860900	Hawaiian	hawa1245	the pocket	POCKET	1851		pākeke	pākeke 
+524	30-6-62-1	7281641445415751	Hawaiian	hawa1245	the button	BUTTON	757		pihi	pihi 
+525	30-6-63-1	7281641926887833	Hawaiian	hawa1245	the pin	PIN	64		pine	pine 
+526	30-6-71-1	7281641906472903	Hawaiian	hawa1245	the ornament or adornment	ORNAMENT	917		wehi	wehi 
+527	30-6-73-1	7281641407104402	Hawaiian	hawa1245	the ring	RING	1374		komo (2)	komo (2) 
+528	30-6-74-1	7281641789773549	Hawaiian	hawa1245	the bracelet	BRACELET	1754		apo lima	apo lima 
+529	30-6-75-1	7281641312766393	Hawaiian	hawa1245	the necklace	NECKLACE	1961		lei	lei 
+530	30-6-76-1	7281641950908950	Hawaiian	hawa1245	the bead	BEAD	1860		olopī	olopī 
+531	30-6-77-1	7281641223977710	Hawaiian	hawa1245	the earring	EARRING	770		kulapepeiao	kulapepeiao 
+532	30-6-78-1	7281641889919348	Hawaiian	hawa1245	the headband or headdress	HEADBAND	330		lei po`o	lei po`o 
+533	30-6-79-1	7281641807902470	Hawaiian	hawa1245	the tattoo	TATTOO	68		uhi (1)	uhi (1) 
+534	30-6-81-1	7281641949005660	Hawaiian	hawa1245	the handkerchief or rag	RAG	332		welu	welu 
+535	30-6-82-1	7281641995427322	Hawaiian	hawa1245	the towel	TOWEL	1021		kāwele	kāwele 
+536	30-6-91-1	7281641754002048	Hawaiian	hawa1245	the comb	COMB	1475		kahi (2)	kahi (2) 
+537	30-6-92-1	7281641130026836	Hawaiian	hawa1245	the brush	BRUSH	1821		palaki	palaki 
+538	30-6-921-1	7281641937248664	Hawaiian	hawa1245	the plait/braid	BRAID	1043		hili	hili 
+539	30-6-93-1	7281641550004669	Hawaiian	hawa1245	the razor	RAZOR	151		pahi `umi`umi	pahi `umi`umi 
+540	30-6-94-1	7281641643056481	Hawaiian	hawa1245	the ointment	OINTMENT	1926		mea hamo	mea hamo 
+541	30-6-95-1	7281641295383265	Hawaiian	hawa1245	the soap	SOAP	788		kopa	kopa 
+542	30-6-96-1	7281641463112145	Hawaiian	hawa1245	the mirror	MIRROR	1171		aniani	aniani 
+543	30-7-11-1	7281641728788574	Hawaiian	hawa1245	to live	DWELL (LIVE, RESIDE)	363		noho (1)	noho (1) 
+544	30-7-12-1	7281641628397885	Hawaiian	hawa1245	the house	HOUSE	1252		hale	hale 
+545	30-7-13-1	7281641675593050	Hawaiian	hawa1245	the hut	HUT	1678		hale pili	hale pili 
+546	30-7-131-1	7281641628397885	Hawaiian	hawa1245	the garden-house	GARDEN-HOUSE	403		hale	hale 
+547	30-7-14-1	7281641468045960	Hawaiian	hawa1245	the tent	TENT	1316		hale pe`a	hale pe`a 
+548	30-7-15-1	7281641842466782	Hawaiian	hawa1245	the yard or court	YARD	736		pā hale	pā hale 
+549	30-7-16-1	7281641628397885	Hawaiian	hawa1245	the men's house	MEN'S HOUSE	408		hale	hale 
+550	30-7-17-1	728164117747349	Hawaiian	hawa1245	the cookhouse	COOKHOUSE	334		hale kuke	hale kuke 
+551	30-7-18-1	7281641878389794	Hawaiian	hawa1245	the meeting house	MEETING HOUSE	335		hale hālāwai	hale hālāwai 
+552	30-7-21-1	7281641116771499	Hawaiian	hawa1245	the room	ROOM	1450		lumi	lumi 
+553	30-7-22-1	7281641875507983	Hawaiian	hawa1245	the door or gate	DOOR	1567		puka	puka 
+554	30-7-221-1	7281641284544007	Hawaiian	hawa1245	the doorpost	DOORPOST	80		lā`au kū	lā`au kū 
+555	30-7-23-1	7281641677335949	Hawaiian	hawa1245	the lock	LOCK	1596		laka	laka 
+556	30-7-231-1	75151652963146904	Hawaiian	hawa1245	the latch or door-bolt	LATCH	1012		kī (3)	kī (3) 
+557	30-7-25-1	7281641253125127	Hawaiian	hawa1245	the window	WINDOW	1375		pukaaniani	pukaaniani 
+558	30-7-26-1	728164148106767	Hawaiian	hawa1245	the floor	FLOOR	1632		papahele	papahele 
+559	30-7-27-1	7281641115960427	Hawaiian	hawa1245	the wall	WALL (OF HOUSE)	933		paia	paia 
+560	30-7-31-1	7281641159181907	Hawaiian	hawa1245	the fireplace	FIREPLACE	185		kapuahi	kapuahi 
+561	30-7-32-1	7281641159181907	Hawaiian	hawa1245	the stove	STOVE	859		kapuahi	kapuahi 
+562	30-7-33-1	7281641479419658	Hawaiian	hawa1245	the chimney	CHIMNEY	1305		puka uahi	puka uahi 
+563	30-7-42-1	7281641882619741	Hawaiian	hawa1245	the bed	BED	1663		moe (1)	moe (1) 
+564	30-7-421-1	7281641699510376	Hawaiian	hawa1245	the pillow	PILLOW	1044		uluna	uluna 
+565	30-7-422-1	7281641746439889	Hawaiian	hawa1245	the blanket	BLANKET	806		kapa moe	kapa moe 
+566	30-7-43-1	7281641724201985	Hawaiian	hawa1245	the chair	CHAIR	1476		noho (2)	noho (2) 
+567	30-7-44-1	7281641557280598	Hawaiian	hawa1245	the table	TABLE	1775		pākaukau	pākaukau 
+568	30-7-45-1	7281641509035503	Hawaiian	hawa1245	the lamp or torch	TORCH OR LAMP	2131		lama	lama 
+569	30-7-46-1	7281641195105775	Hawaiian	hawa1245	the candle	CANDLE	1273		ihoiho	ihoiho 
+570	30-7-47-1	7281641485857833	Hawaiian	hawa1245	the shelf	SHELF	745		haka kau	haka kau 
+571	30-7-48-1	7281641883867387	Hawaiian	hawa1245	the trough	TROUGH	205		holowa`a	holowa`a 
+572	30-7-51-1	7281641961668963	Hawaiian	hawa1245	the roof	ROOF	769		kaupoku	kaupoku 
+573	30-7-52-1	728164148905590	Hawaiian	hawa1245	the thatch	THATCH	279		pili	pili 
+574	30-7-53-1	7281641961668963	Hawaiian	hawa1245	the ridgepole	RIDGEPOLE	280		kaupoku	kaupoku 
+575	30-7-54-1	7281641446667486	Hawaiian	hawa1245	the rafter	RAFTER	829		o`a	o`a 
+576	30-7-55-1	7281641894252478	Hawaiian	hawa1245	the beam	BEAM	1132		kuku	kuku 
+577	30-7-56-1	7281641933372985	Hawaiian	hawa1245	the post or pole	POST	281		pou	pou 
+578	30-7-57-1	7281641886753855	Hawaiian	hawa1245	the board	BOARD	1227		papa (2)	papa (2) 
+579	30-7-58-1	7281641904817183	Hawaiian	hawa1245	the arch	ARCH	876		hoaka	hoaka 
+580	30-7-61-1	7281641953399329	Hawaiian	hawa1245	the mason	MASON	877		makona	makona 
+581	30-7-62-1	7281641762737884	Hawaiian	hawa1245	the brick	BRICK	1006		winihapa	winihapa 
+582	30-7-63-1	7281641656993905	Hawaiian	hawa1245	the mortar(2)	MORTAR BINDER	1731		puna (3)	puna (3) 
+583	30-7-64-1	7281641713499789	Hawaiian	hawa1245	the adobe	ADOBE	901		lepo kāwili	lepo kāwili 
+584	30-8-11-1	7281641285206980	Hawaiian	hawa1245	the farmer	FARMER	979		mahi `ai	mahi `ai 
+585	30-8-12-1	7281641480033839	Hawaiian	hawa1245	the field	FIELD	212		kula (1)	kula (1) 
+586	30-8-13-1	7281641704061106	Hawaiian	hawa1245	the garden	GARDEN	586		māla	māla 
+587	30-8-15-1	7281641472265666	Hawaiian	hawa1245	to cultivate	CULTIVATE	1541		mahi	mahi 
+588	30-8-16-1	7281641636618947	Hawaiian	hawa1245	the fence	FENCE	1690		pā (2)	pā (2) 
+589	30-8-17-1	7281641103831107	Hawaiian	hawa1245	the ditch	DITCH	2002		`auwai	`auwai 
+590	30-8-21-1	7281641925647968	Hawaiian	hawa1245	to plough/plow	PLOUGH	1921		palau	palau 
+591	30-8-212-1	728164141572307	Hawaiian	hawa1245	the furrow	FURROW	1794		`auwaha	`auwaha 
+592	30-8-22-1	7281641302554212	Hawaiian	hawa1245	to dig	DIG	1418		`eli	`eli 
+593	30-8-23-1	7281641504576796	Hawaiian	hawa1245	the spade	SPADE	1176		`ō`ō	`ō`ō 
+594	30-8-24-1	7281641587586641	Hawaiian	hawa1245	the shovel	SHOVEL	1901		kopalā	kopalā 
+595	30-8-25-1	728164156426642	Hawaiian	hawa1245	the hoe	HOE	284		hō	hō 
+596	30-8-26-1	7281641521341411	Hawaiian	hawa1245	the fork(2)/pitchfork	PITCHFORK	337		`ō	`ō 
+597	30-8-27-1	7281641536082055	Hawaiian	hawa1245	the rake	RAKE	338		kope (1)	kope (1) 
+598	30-8-31-1	7281641544025641	Hawaiian	hawa1245	to sow	SOW SEEDS	748		lūlū	lūlū 
+599	30-8-311-1	7281641818729408	Hawaiian	hawa1245	the seed	SEED	714		`ano`ano	`ano`ano 
+600	30-8-32-1	7281641167411398	Hawaiian	hawa1245	to mow	MOW	190		`oki mau`u	`oki mau`u 
+601	30-8-33-1	7281641423515354	Hawaiian	hawa1245	the sickle or scythe	SICKLE OR SCYTHE	2132		pahi kākiwi	pahi kākiwi 
+602	30-8-34-1	7281641142852996	Hawaiian	hawa1245	to thresh	THRESH	285		hehi palaoa	hehi palaoa 
+603	30-8-35-1	728164187033970	Hawaiian	hawa1245	the threshing-floor	THRESHING-FLOOR	223		kahua hehi	kahua hehi 
+604	30-8-41-1	7281641429540339	Hawaiian	hawa1245	the harvest	HARVEST	611		loa`a	loa`a 
+605	30-8-42-1	7281641889916275	Hawaiian	hawa1245	the grain	GRAIN	605		huika	huika 
+606	30-8-42-2	7281641222480236	Hawaiian	hawa1245	the grain	GRAIN	605		palaoa huluhulu	palaoa huluhulu 
+607	30-8-42-3	7281641225712533	Hawaiian	hawa1245	the grain	GRAIN	605		lai	lai 
+608	30-8-42-4	7281641658529032	Hawaiian	hawa1245	the grain	GRAIN	605		`oka (1)	`oka (1) 
+609	30-8-42-5	7281641112024175	Hawaiian	hawa1245	the grain	GRAIN	605		kūlina	kūlina 
+610	30-8-42-6	7281641310698085	Hawaiian	hawa1245	the grain	GRAIN	605		laiki	laiki 
+611	30-8-43-1	7281641889916275	Hawaiian	hawa1245	the wheat	WHEAT	1077		huika	huika 
+612	30-8-44-1	7281641222480236	Hawaiian	hawa1245	the barley	BARLEY	932		palaoa huluhulu	palaoa huluhulu 
+613	30-8-45-1	7281641225712533	Hawaiian	hawa1245	the rye	RYE	23		lai	lai 
+614	30-8-46-1	7281641658529032	Hawaiian	hawa1245	the oats	OAT	60		`oka (1)	`oka (1) 
+615	30-8-47-1	7281641112024175	Hawaiian	hawa1245	the maize/corn	MAIZE	506		kūlina	kūlina 
+616	30-8-48-1	7281641310698085	Hawaiian	hawa1245	the rice	RICE	926		laiki	laiki 
+617	30-8-51-1	7281641165915305	Hawaiian	hawa1245	the grass	GRASS	606		mau`u	mau`u 
+618	30-8-52-1	7281641907188753	Hawaiian	hawa1245	the hay	HAY	342		hē	hē 
+619	30-8-53-1	7281641629115774	Hawaiian	hawa1245	the plant	PLANT (VEGETATION)	653		mea kanu	mea kanu 
+620	30-8-531-1	7281641615752841	Hawaiian	hawa1245	to plant	PLANT (SOMETHING)	1486		kanu	kanu 
+621	30-8-54-1	728164161765445	Hawaiian	hawa1245	the root	ROOT	670		a`a	a`a 
+622	30-8-55-1	7281641962957933	Hawaiian	hawa1245	the branch	BRANCH OR TWIG	3223		lālā	lālā 
+623	30-8-56-1	7281641494369564	Hawaiian	hawa1245	the leaf	LEAF	628		lau	lau 
+624	30-8-57-1	7281641800235264	Hawaiian	hawa1245	the flower	FLOWER	239		pua (1)	pua (1) 
+625	30-8-6-1	7281641517239099	Hawaiian	hawa1245	the tree	TREE	906		kumulā`au	kumulā`au 
+626	30-8-61-1	728164169616858	Hawaiian	hawa1245	the oak	OAK	644		`oka (2)	`oka (2) 
+627	30-8-63-1	7281641637491658	Hawaiian	hawa1245	the birch	BIRCH	1855		pūkowi	pūkowi 
+628	30-8-64-1	7281641903109971	Hawaiian	hawa1245	the pine	PINE	1740		paina	paina 
+629	30-8-65-1	728164190122506	Hawaiian	hawa1245	the fir	FIR	1915		pila (1)	pila (1) 
+630	30-8-66-1	7281641569737009	Hawaiian	hawa1245	the acorn	ACORN	968		`ēkona	`ēkona 
+631	30-8-67-1	7281641441902461	Hawaiian	hawa1245	the vine	VINE	343		lā`au hihi	lā`au hihi 
+632	30-8-68-1	7281641176449121	Hawaiian	hawa1245	the tobacco	TOBACCO	974		paka	paka 
+633	30-8-69-1	7281641785642664	Hawaiian	hawa1245	to smoke	SMOKE (INHALE)	1689		puhi (3)	puhi (3) 
+634	30-8-691-1	7281641617052403	Hawaiian	hawa1245	the pipe	PIPE	1124		ipu (2)	ipu (2) 
+635	30-8-72-1	7281641392994973	Hawaiian	hawa1245	the tree stump	TREE STUMP	241		`ōkumu	`ōkumu 
+636	30-8-73-1	7281641222134138	Hawaiian	hawa1245	the tree trunk	TREE TRUNK	344		kumu (1)	kumu (1) 
+637	30-8-75-1	7281641633968370	Hawaiian	hawa1245	the bark	BARK	1204		`ili	`ili 
+638	30-8-76-1	7281641464415149	Hawaiian	hawa1245	the sap	SAP	345		wai (1)	wai (1) 
+639	30-8-81-1	728164127428986	Hawaiian	hawa1245	the palm tree	PALM TREE	1181		pāma	pāma 
+640	30-8-82-1	7281641830900473	Hawaiian	hawa1245	the coconut	COCONUT	970		niu	niu 
+641	30-8-83-1	7281641423111164	Hawaiian	hawa1245	the citrus fruit	CITRUS FRUIT	1126		`ohana `ālani	`ohana `ālani 
+642	30-8-84-1	7281641397786532	Hawaiian	hawa1245	the banana	BANANA	868		mai`a	mai`a 
+643	30-8-85-1	7281641967994025	Hawaiian	hawa1245	the banyan	BANYAN	346		paniana	paniana 
+644	30-8-91-1	7281641438003457	Hawaiian	hawa1245	the sweet potato	SWEET POTATO	159		`uala	`uala 
+645	30-8-912-1	7281641872632918	Hawaiian	hawa1245	the yam	YAM	410		uhi (2)	uhi (2) 
+646	30-8-92-1	7281641112862978	Hawaiian	hawa1245	the cassava/manioc	CASSAVA	925		manioka	manioka 
+647	30-8-93-1	728164183762216	Hawaiian	hawa1245	the gourd	GOURD	411		ipu (1)	ipu (1) 
+648	30-8-931-1	7281641381797959	Hawaiian	hawa1245	the pumpkin or squash	PUMPKIN	864		pala`ai	pala`ai 
+649	30-8-94-1	7281641338242301	Hawaiian	hawa1245	the bamboo	BAMBOO	1927		`ohe	`ohe 
+650	30-8-941-1	7281641789572705	Hawaiian	hawa1245	the sugar cane	SUGAR CANE	146		kō	kō 
+651	30-8-97-1	7281641564664745	Hawaiian	hawa1245	the nettle	NETTLE	33		nahele mane`o	nahele mane`o 
+652	30-8-98-1	7281641932592877	Hawaiian	hawa1245	the mushroom	MUSHROOM	641		kūkaelio	kūkaelio 
+653	30-9-11-1	7281641983616973	Hawaiian	hawa1245	to do	DO	813		hana	hana 
+654	30-9-12-1	7281641983616973	Hawaiian	hawa1245	the work	WORK (LABOUR)	984		hana	hana 
+655	30-9-14-1	728164176476934	Hawaiian	hawa1245	to bend	BEND	2004		pelu	pelu 
+656	30-9-15-1	728164176476934	Hawaiian	hawa1245	to fold	FOLD	1470		pelu	pelu 
+657	30-9-16-1	7281641762770081	Hawaiian	hawa1245	to tie	TIE	1917		nāki`i	nāki`i 
+658	30-9-161-1	7281641466763956	Hawaiian	hawa1245	to untie	UNTIE	352		wehe	wehe 
+659	30-9-18-1	7281641937670158	Hawaiian	hawa1245	the chain	CHAIN	1627		kaula hao	kaula hao 
+660	30-9-19-1	7281641543260020	Hawaiian	hawa1245	the rope	ROPE	1218		kaula	kaula 
+661	30-9-192-1	7281641762770081	Hawaiian	hawa1245	the knot	KNOT	760		nāki`i	nāki`i 
+662	30-9-21-1	728164182140997	Hawaiian	hawa1245	to strike or hit or beat	STRIKE OR BEAT	2133		ku`i (2)	ku`i (2) 
+663	30-9-211-1	728164182140997	Hawaiian	hawa1245	to pound	POUND	354		ku`i (2)	ku`i (2) 
+664	30-9-22-1	7281641614703344	Hawaiian	hawa1245	to cut	CUT	1432		`oki	`oki 
+665	30-9-221-1	7281641614703344	Hawaiian	hawa1245	to cut down	CUT DOWN	355		`oki	`oki 
+666	30-9-222-1	7281641932561628	Hawaiian	hawa1245	to chop	CHOP	155		`oki`oki	`oki`oki 
+667	30-9-223-1	7281641671231875	Hawaiian	hawa1245	to stab	STAB TO DEATH	3189		hou (2)	hou (2) 
+668	30-9-23-1	7281641447499050	Hawaiian	hawa1245	the knife(2)	KNIFE	1352		pahi	pahi 
+669	30-9-24-1	7281641464705161	Hawaiian	hawa1245	the scissors or shears	SHEARS	356		`ūpā	`ūpā 
+670	30-9-25-1	7281641473663089	Hawaiian	hawa1245	the axe/ax	AXE	677		ko`i	ko`i 
+671	30-9-251-1	7281641473663089	Hawaiian	hawa1245	the adze	ADZE	290		ko`i	ko`i 
+672	30-9-26-1	7281641466934447	Hawaiian	hawa1245	to break	BREAK (DESTROY OR GET DESTROYED)	680		ho`opoloke	ho`opoloke 
+673	30-9-261-1	728164138790171	Hawaiian	hawa1245	broken	BROKEN (NOT WORKING)	3190		poloke	poloke 
+674	30-9-27-1	7281641462005661	Hawaiian	hawa1245	to split	SPLIT	1437		wāhi	wāhi 
+675	30-9-28-1	7281641954131410	Hawaiian	hawa1245	to tear	TEAR (SHRED)	1735		nahae	nahae 
+676	30-9-83-1	7281641502311593	Hawaiian	hawa1245	the statue	STATUE	1002		ki`i (1)	ki`i (1) 
+677	30-9-29-1	7281641153315801	Hawaiian	hawa1245	to skin	PULL OFF (SKIN)	291		pākā	pākā 
+678	30-9-31-1	7281641860520555	Hawaiian	hawa1245	to rub	RUB	1449		lomi	lomi 
+679	30-9-32-1	7281641347265584	Hawaiian	hawa1245	to stretch	STRETCH	214		kīko`o	kīko`o 
+680	30-9-33-1	7281641217880009	Hawaiian	hawa1245	to pull	PULL	1455		huki	huki 
+681	30-9-34-1	7281641484626873	Hawaiian	hawa1245	to spread out	SPREAD OUT	38		hāli`i	hāli`i 
+682	30-9-341-1	7281641380058660	Hawaiian	hawa1245	to hang up	HANG UP	357		kau (1)	kau (1) 
+683	30-9-342-1	7281641122622871	Hawaiian	hawa1245	to press	PRESS	1913		kaomi	kaomi 
+684	30-9-343-1	7281641843741592	Hawaiian	hawa1245	to squeeze	SQUEEZE	1414		`uī	`uī 
+685	30-9-35-1	728164163803453	Hawaiian	hawa1245	to pour	POUR	1487		ninini	ninini 
+686	30-9-36-1	7281641484944970	Hawaiian	hawa1245	to wash	WASH	1453		holoi	holoi 
+687	30-9-37-1	7281641720836734	Hawaiian	hawa1245	to sweep	SWEEP	230		pūlumi	pūlumi 
+688	30-9-38-1	7281641720836734	Hawaiian	hawa1245	the broom	BROOM	245		pūlumi	pūlumi 
+689	30-9-422-1	7281641917843876	Hawaiian	hawa1245	the tool	TOOL	1361		mea hana	mea hana 
+690	30-9-43-1	7281641899456958	Hawaiian	hawa1245	the carpenter	CARPENTER	1042		kamanā	kamanā 
+691	30-9-44-1	728164135368156	Hawaiian	hawa1245	to build	BUILD	1840		kūkulu	kūkulu 
+692	30-9-46-1	7281641671231875	Hawaiian	hawa1245	to bore	BORE	1501		hou (2)	hou (2) 
+693	30-9-461-1	7281641513687781	Hawaiian	hawa1245	to hollow out	HOLLOW OUT	46		poho	poho 
+694	30-9-48-1	7281641675620121	Hawaiian	hawa1245	the saw	SAW	1948		pahi olo	pahi olo 
+695	30-9-49-1	7281641922055581	Hawaiian	hawa1245	the hammer	HAMMER	1481		hāmale	hāmale 
+696	30-9-5-1	7281641617559859	Hawaiian	hawa1245	the nail	NAIL (TOOL)	502		kui (2)	kui (2) 
+697	30-9-56-1	7281641677004468	Hawaiian	hawa1245	the glue	GLUE	1069		tuko	tuko 
+698	30-9-6-1	7281641564266643	Hawaiian	hawa1245	the blacksmith	BLACKSMITH	1001		ku`i hao	ku`i hao 
+699	30-9-61-1	7281641564266643	Hawaiian	hawa1245	to forge	FORGE	288		ku`i hao	ku`i hao 
+700	30-9-62-1	7281641678670600	Hawaiian	hawa1245	the anvil	ANVIL	1648		kua hao	kua hao 
+701	30-9-63-1	7281641848845856	Hawaiian	hawa1245	to cast	CAST	211		ho`ohehe`e	ho`ohehe`e 
+702	30-9-64-1	728164128888413	Hawaiian	hawa1245	the gold	GOLD	1369		kula (2)	kula (2) 
+703	30-9-65-1	7281641538808169	Hawaiian	hawa1245	the silver	SILVER	759		kālā ke`oke`o	kālā ke`oke`o 
+704	30-9-66-1	7281641756593620	Hawaiian	hawa1245	the copper	COPPER	1825		keleawe	keleawe 
+705	30-9-67-1	7281641842618915	Hawaiian	hawa1245	the iron	IRON	621		hao	hao 
+706	30-9-68-1	7281641929891569	Hawaiian	hawa1245	the lead	LEAD (CHEMICAL ELEMENT)	627		kēpau	kēpau 
+707	30-9-69-1	7281641219877109	Hawaiian	hawa1245	the tin or tinplate	TIN OR TINPLATE	3217		kini	kini 
+708	30-9-71-1	7281641454959939	Hawaiian	hawa1245	the potter	POTTER	359		pokela	pokela 
+709	30-9-72-1	7281641366028529	Hawaiian	hawa1245	to mould/mold	MOLD	289		hō`omo`omo	hō`omo`omo 
+710	30-9-73-1	728164181319327	Hawaiian	hawa1245	the clay	CLAY	1399		pālolo	pālolo 
+711	30-9-74-1	7281641463112145	Hawaiian	hawa1245	the glass	GLASS	604		aniani	aniani 
+712	30-9-75-1	7281641284306104	Hawaiian	hawa1245	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		ulana	ulana 
+713	30-9-76-1	728164175616524	Hawaiian	hawa1245	the basket	BASKET	1539		`eke	`eke 
+714	30-9-77-1	7281641882361244	Hawaiian	hawa1245	the mat	MAT	195		moena	moena 
+715	30-9-771-1	7281641882361244	Hawaiian	hawa1245	the rug	RUG	292		moena	moena 
+716	30-9-78-1	728164175616524	Hawaiian	hawa1245	the netbag	NETBAG	293		`eke	`eke 
+717	30-9-79-1	7281641335959807	Hawaiian	hawa1245	the fan	FAN (OBJECT)	1971		pe`ahi	pe`ahi 
+718	30-9-791-1	7281641335959807	Hawaiian	hawa1245	to fan	FAN ACTION	360		pe`ahi	pe`ahi 
+719	30-9-81-1	728164113837468	Hawaiian	hawa1245	to carve	CARVE	228		kālai	kālai 
+720	30-9-82-1	72816416912156	Hawaiian	hawa1245	the sculptor	SCULPTOR	914		mea kālai ki`i	mea kālai ki`i 
+721	30-9-84-1	7281641237804160	Hawaiian	hawa1245	the chisel	CHISEL	1979		kila	kila 
+722	30-9-88-1	7281641306424319	Hawaiian	hawa1245	the paint	PAINT (PIGMENTS)	647		pena	pena 
+723	30-9-89-1	7281641306424319	Hawaiian	hawa1245	to paint	PAINTING	2001		pena	pena 
+724	30-10-11-1	7281641629770847	Hawaiian	hawa1245	to move	MOVE	765		ho`one`e	ho`one`e 
+725	30-10-12-1	7281641230835670	Hawaiian	hawa1245	to turn	TURN	1588		ho`ohuli	ho`ohuli 
+726	30-10-13-1	7281641407709113	Hawaiian	hawa1245	to turn around	TURN (SOMETHING)	1445		huli (1)	huli (1) 
+727	30-10-14-1	7281641404165887	Hawaiian	hawa1245	to wrap	WRAP	1113		wahī	wahī 
+728	30-10-15-1	7281641800677577	Hawaiian	hawa1245	to roll	ROLL	827		ho`okaka`a	ho`okaka`a 
+729	30-10-16-1	7281641514532352	Hawaiian	hawa1245	to drop	DROP (SOMETHING)	2866		ho`ohā`ule	ho`ohā`ule 
+730	30-10-17-1	7281641435048273	Hawaiian	hawa1245	to twist	TWIST (AROUND)	3199		wili (2)	wili (2) 
+731	30-10-21-1	7281641246058317	Hawaiian	hawa1245	to rise	RISE (MOVE UPWARDS)	568		pi`i	pi`i 
+732	30-10-22-1	7281641899505990	Hawaiian	hawa1245	to raise or lift	LIFT	501		hāpai (2)	hāpai (2) 
+733	30-10-23-1	7281641894770315	Hawaiian	hawa1245	to fall	FALL	1280		hā`ule	hā`ule 
+734	30-10-24-1	7281641560385018	Hawaiian	hawa1245	to drip	DRIP (EMIT LIQUID)	2253		kulu	kulu 
+735	30-10-25-1	7281641633452378	Hawaiian	hawa1245	to throw	THROW	1456		kiloi	kiloi 
+736	30-10-252-1	7281641344962282	Hawaiian	hawa1245	to catch	CATCH	702		hopu	hopu 
+737	30-10-26-1	7281641896906421	Hawaiian	hawa1245	to shake	SHAKE	1909		ho`oluli	ho`oluli 
+738	30-10-32-1	7281641169015334	Hawaiian	hawa1245	to flow	FLOW	2003		kahe	kahe 
+739	30-10-33-1	7281641675907009	Hawaiian	hawa1245	to sink	SINK (DESCEND)	1088		piholo	piholo 
+740	30-10-34-1	7281641895599299	Hawaiian	hawa1245	to float	FLOAT	1574		lana	lana 
+741	30-10-35-1	7281641732532350	Hawaiian	hawa1245	to swim	SWIM	1439		`au	`au 
+742	30-10-351-1	7281641325335022	Hawaiian	hawa1245	to dive	DIVE	119		lu`u	lu`u 
+743	30-10-352-1	7281641826323999	Hawaiian	hawa1245	to splash	SPLASH	365		pakī	pakī 
+744	30-10-36-1	7281641218079606	Hawaiian	hawa1245	to sail	SAIL	787		kele (2)	kele (2) 
+745	30-10-37-1	7281641470089385	Hawaiian	hawa1245	to fly	FLY (MOVE THROUGH AIR)	1441		lele	lele 
+746	30-10-38-1	7281641785642664	Hawaiian	hawa1245	to blow	BLOW (OF WIND)	175		puhi (3)	puhi (3) 
+747	30-10-41-1	7281641975130896	Hawaiian	hawa1245	to crawl	CRAWL	96		kolo	kolo 
+748	30-10-412-1	7281641486991002	Hawaiian	hawa1245	to kneel	KNEEL	66		kukuli	kukuli 
+749	30-10-413-1	7281641448712670	Hawaiian	hawa1245	to crouch	CROUCH	296		`ōku`u	`ōku`u 
+750	30-10-42-1	7281641139353726	Hawaiian	hawa1245	to slide or slip	SLIP	1324		he`e	he`e 
+751	30-10-43-1	7281641470089385	Hawaiian	hawa1245	to jump	JUMP	1829		lele	lele 
+752	30-10-431-1	7281641607105030	Hawaiian	hawa1245	to kick	KICK	1135		peku	peku 
+753	30-10-44-1	7281641435446765	Hawaiian	hawa1245	to dance	DANCE	1879		hula	hula 
+754	30-10-45-1	7281641447126975	Hawaiian	hawa1245	to walk	WALK	1443		hele wāwae	hele wāwae 
+755	30-10-451-1	7281641584596186	Hawaiian	hawa1245	to limp	LIMP	366		`o`opa	`o`opa 
+756	30-10-46-1	7281641802817955	Hawaiian	hawa1245	to run	RUN	1519		holo	holo 
+757	30-10-47-1	7281641501176035	Hawaiian	hawa1245	to go	GO	695		hele	hele 
+758	30-10-471-1	7281641246058317	Hawaiian	hawa1245	to go up	GO UP (ASCEND)	705		pi`i	pi`i 
+759	30-10-472-1	7281641246058317	Hawaiian	hawa1245	to climb	CLIMB	1102		pi`i	pi`i 
+760	30-10-473-1	7281641623644677	Hawaiian	hawa1245	to go down	GO DOWN (DESCEND)	2014		iho (1)	iho (1) 
+761	30-10-474-1	7281641228567796	Hawaiian	hawa1245	to go out	GO OUT	1107		ha`alele	ha`alele 
+762	30-10-48-1	728164177680696	Hawaiian	hawa1245	to come	COME	1446		hele mai	hele mai 
+763	30-10-481-1	7281641990226005	Hawaiian	hawa1245	to come back	COME BACK	581		ho`i	ho`i 
+764	30-10-49-1	7281641228567796	Hawaiian	hawa1245	to leave	LEAVE	1752		ha`alele	ha`alele 
+765	30-10-491-1	728164187425171	Hawaiian	hawa1245	to disappear	DISAPPEAR	485		nalowale	nalowale 
+766	30-10-51-1	7281641365078640	Hawaiian	hawa1245	to flee	FLEE	956		pupuhi	pupuhi 
+767	30-10-52-1	7281641961763493	Hawaiian	hawa1245	to follow	FOLLOW	1085		hahai	hahai 
+768	30-10-53-1	7281641961763493	Hawaiian	hawa1245	to pursue	PURSUE	1047		hahai	hahai 
+769	30-10-55-1	7281641436880508	Hawaiian	hawa1245	to arrive	ARRIVE	1387		hō`ea	hō`ea 
+770	30-10-56-1	7281641691931994	Hawaiian	hawa1245	to approach	APPROACH	1778		ho`okokoke	ho`okokoke 
+771	30-10-57-1	7281641580883662	Hawaiian	hawa1245	to enter	ENTER	749		komo (1)	komo (1) 
+772	30-10-61-1	7281641899505990	Hawaiian	hawa1245	to carry	CARRY	700		hāpai (2)	hāpai (2) 
+773	30-10-612-1	7281641899505990	Hawaiian	hawa1245	to carry in hand	CARRY IN HAND	412		hāpai (2)	hāpai (2) 
+774	30-10-613-1	7281641899505990	Hawaiian	hawa1245	to carry on shoulder	CARRY ON SHOULDER	413		hāpai (2)	hāpai (2) 
+775	30-10-614-1	7281641899505990	Hawaiian	hawa1245	to carry on head	CARRY ON HEAD	414		hāpai (2)	hāpai (2) 
+776	30-10-615-1	7281641899505990	Hawaiian	hawa1245	to carry under the arm	CARRY UNDER ARM	415		hāpai (2)	hāpai (2) 
+777	30-10-62-1	7281641491819733	Hawaiian	hawa1245	to bring	BRING	692		lawe mai	lawe mai 
+778	30-10-63-1	7281641719283548	Hawaiian	hawa1245	to send	SEND	1127		ho`ouna	ho`ouna 
+779	30-10-64-1	7281641206826309	Hawaiian	hawa1245	to lead	LEAD (GUIDE)	43		alaka`i	alaka`i 
+780	30-10-65-1	7281641661079852	Hawaiian	hawa1245	to drive	DRIVE	741		kalaiwa	kalaiwa 
+781	30-10-66-1	7281641802817955	Hawaiian	hawa1245	to ride	RIDE	367		holo	holo 
+782	30-10-67-1	7281641723097877	Hawaiian	hawa1245	to push	PUSH	1452		pahu (1)	pahu (1) 
+783	30-10-71-1	7281641962054654	Hawaiian	hawa1245	the road	ROAD	667		alanui	alanui 
+784	30-10-72-1	7281641500177362	Hawaiian	hawa1245	the path	PATH	2252		ala (2)	ala (2) 
+785	30-10-74-1	728164155759786	Hawaiian	hawa1245	the bridge	BRIDGE	1011		uapo	uapo 
+786	30-10-75-1	7281641391406078	Hawaiian	hawa1245	the cart or wagon	CART	122		ka`a	ka`a 
+787	30-10-76-1	728164187292387	Hawaiian	hawa1245	the wheel	WHEEL	710		huila	huila 
+788	30-10-77-1	7281641921844173	Hawaiian	hawa1245	the axle	AXLE	1769		iho (2)	iho (2) 
+789	30-10-78-1	7281641358960970	Hawaiian	hawa1245	the yoke	YOKE	14		lei pipi	lei pipi 
+790	30-10-81-1	7281641225995809	Hawaiian	hawa1245	the ship	SHIP	740		moku	moku 
+791	30-10-83-1	7281641225995809	Hawaiian	hawa1245	the boat	BOAT	1844		moku	moku 
+792	30-10-831-1	7281641953363511	Hawaiian	hawa1245	the canoe	CANOE	1970		wa`a	wa`a 
+793	30-10-832-1	7281641300470566	Hawaiian	hawa1245	the outrigger	OUTRIGGER	416		ama	ama 
+794	30-10-84-1	7281641862911207	Hawaiian	hawa1245	the raft	RAFT	1664		huinalā`aulana	huinalā`aulana 
+795	30-10-85-1	7281641429842075	Hawaiian	hawa1245	the oar	RUDDER	108		hoe	hoe 
+796	30-10-851-1	7281641429842075	Hawaiian	hawa1245	the paddle	PADDLE	234		hoe	hoe 
+797	30-10-852-1	7281641429842075	Hawaiian	hawa1245	to row	ROW	1849		hoe	hoe 
+798	30-10-86-1	7281641773279570	Hawaiian	hawa1245	the rudder	RUDDER	108		hoe uli	hoe uli 
+799	30-10-87-1	728164176433743	Hawaiian	hawa1245	the mast	MAST	184		kia (2)	kia (2) 
+800	30-10-87-2	7281641933372985	Hawaiian	hawa1245	the mast	MAST	184		pou	pou 
+801	30-10-88-1	7281641218079606	Hawaiian	hawa1245	the sail	SAILCLOTH	786		kele (2)	kele (2) 
+802	30-10-89-1	7281641615356297	Hawaiian	hawa1245	the anchor	ANCHOR	1870		`anakā	`anakā 
+803	30-10-91-1	7281641701069874	Hawaiian	hawa1245	the port	PORT	610		awa	awa 
+804	30-10-92-1	7281641640168844	Hawaiian	hawa1245	to land	LAND (DESCEND)	1922		ku`u	ku`u 
+805	30-11-11-1	7281641429540339	Hawaiian	hawa1245	to have	HAVE	773		loa`a	loa`a 
+806	30-11-13-1	7281641380213704	Hawaiian	hawa1245	to take	TAKE	1749		lawe	lawe 
+807	30-11-14-1	7281641294817515	Hawaiian	hawa1245	to grasp	SEIZE	855		`apo	`apo 
+808	30-11-15-1	7281641413608331	Hawaiian	hawa1245	to hold	HOLD	1448		pa`a (1)	pa`a (1) 
+809	30-11-16-1	7281641429540339	Hawaiian	hawa1245	to get	GET	694		loa`a	loa`a 
+810	30-11-17-1	7281641262016446	Hawaiian	hawa1245	to keep	KEEP	1477		mālama	mālama 
+811	30-11-18-1	7281641948709093	Hawaiian	hawa1245	the thing	THING	738		mea	mea 
+812	30-11-21-1	7281641317407146	Hawaiian	hawa1245	to give	GIVE	1447		hā`awi	hā`awi 
+813	30-11-22-1	7281641996128237	Hawaiian	hawa1245	to give back	GIVE BACK	85		ho`iho`i	ho`iho`i 
+814	30-11-24-1	7281641262016446	Hawaiian	hawa1245	to preserve	PRESERVE	1997		mālama	mālama 
+815	30-11-25-1	7281641224683004	Hawaiian	hawa1245	to rescue	RESCUE	2008		ho`opakele	ho`opakele 
+816	30-11-27-1	7281641879822278	Hawaiian	hawa1245	to destroy	DESTROY	681		luku	luku 
+817	30-11-28-1	7281641954850333	Hawaiian	hawa1245	to injure	INJURE	44		ho`oino	ho`oino 
+818	30-11-31-1	7281641115424006	Hawaiian	hawa1245	to look for	LOOK FOR	1468		huli (2)	huli (2) 
+819	30-11-32-1	7281641429540339	Hawaiian	hawa1245	to find	FIND	719		loa`a	loa`a 
+820	30-11-33-1	728164187425171	Hawaiian	hawa1245	to lose	LOSE	1660		nalowale	nalowale 
+821	30-11-34-1	7281641909080154	Hawaiian	hawa1245	to let go	LET GO OR SET FREE	1095		ho`oku`u	ho`oku`u 
+822	30-11-34-2	75151652137960894	Hawaiian	hawa1245	to let go	LET GO OR SET FREE	1095		leikō	leikō 
+823	30-11-43-1	7281641851842603	Hawaiian	hawa1245	the money	MONEY	1559		kālā	kālā 
+824	30-11-44-1	7281641116991974	Hawaiian	hawa1245	the coin	COIN	1867		kenikeni	kenikeni 
+825	30-11-51-1	7281641441736899	Hawaiian	hawa1245	rich	RICH	712		waiwai	waiwai 
+826	30-11-52-1	7281641273291491	Hawaiian	hawa1245	poor	POOR	1674		`ilihune	`ilihune 
+827	30-11-53-1	7281641950205140	Hawaiian	hawa1245	the beggar	BEGGAR	1934		mākilo	mākilo 
+828	30-11-54-1	7281641513527115	Hawaiian	hawa1245	stingy	STINGY	1774		pī (2)	pī (2) 
+829	30-11-62-1	7281641699816176	Hawaiian	hawa1245	to borrow	BORROW	1823		lawe`ai`ē	lawe`ai`ē 
+830	30-11-63-1	7281641116769755	Hawaiian	hawa1245	to owe	OWE	369		`ai`ē	`ai`ē 
+831	30-11-64-1	7281641116769755	Hawaiian	hawa1245	the debt	DEBT	1914		`ai`ē	`ai`ē 
+832	30-11-65-1	728164165011535	Hawaiian	hawa1245	to pay	PAY	718		uku	uku 
+833	30-11-65-2	75151653306908340	Hawaiian	hawa1245	to pay	PAY	718		pē	pē 
+834	30-11-66-1	7281641508295019	Hawaiian	hawa1245	the bill	BILL	1081		pila (2)	pila (2) 
+835	30-11-69-1	7281641130971736	Hawaiian	hawa1245	the tax	TAX	873		`auhau	`auhau 
+836	30-11-77-1	7281641857407615	Hawaiian	hawa1245	to hire	HIRE	856		limalima	limalima 
+837	30-11-77-2	75151651937968932	Hawaiian	hawa1245	to hire	HIRE	856		hai	hai 
+838	30-11-78-1	728164165011535	Hawaiian	hawa1245	the wages	WAGES	1122		uku	uku 
+839	30-11-79-1	7281641429540339	Hawaiian	hawa1245	to earn	EARN	733		loa`a	loa`a 
+840	30-11-81-1	7281641885155382	Hawaiian	hawa1245	to buy	BUY	1869		kū`ai	kū`ai 
+841	30-11-82-1	7281641153233076	Hawaiian	hawa1245	to sell	SELL	1571		kū`ai aku	kū`ai aku 
+842	30-11-83-1	7521142867616411	Hawaiian	hawa1245	to trade or barter	TRADE OR BARTER	2135		hailawe	hailawe 
+843	30-11-84-1	7281641933956193	Hawaiian	hawa1245	the merchant	MERCHANT	1082		kālepa	kālepa 
+844	30-11-85-1	7281641573332807	Hawaiian	hawa1245	the market	MARKET	633		mākeke	mākeke 
+845	30-11-86-1	7281641478339145	Hawaiian	hawa1245	the shop/store	STORE	752		hale kū`ai	hale kū`ai 
+846	30-11-87-1	7281641778116882	Hawaiian	hawa1245	the price	PRICE	657		kumu kū`ai	kumu kū`ai 
+847	30-11-88-1	7281641598623128	Hawaiian	hawa1245	expensive	EXPENSIVE	1426		pipi`i	pipi`i 
+848	30-11-89-1	7281641210015790	Hawaiian	hawa1245	cheap	CHEAP	1887		emi	emi 
+849	30-11-91-1	728164129749204	Hawaiian	hawa1245	to share	SHARE	884		ka`ana like	ka`ana like 
+850	30-11-92-1	728164197556500	Hawaiian	hawa1245	to weigh	WEIGH	1098		kaupaona	kaupaona 
+851	30-12-01-1	7281641533109036	Hawaiian	hawa1245	after	AFTER	1685		hope	hope 
+852	30-12-011-1	7281641533109036	Hawaiian	hawa1245	behind	BEHIND	1686		hope	hope 
+853	30-12-02-1	728164147798823	Hawaiian	hawa1245	beside	BESIDE	1816		ma	ma 
+854	30-12-02-2	7281641395024085	Hawaiian	hawa1245	beside	BESIDE	1816		i	i 
+855	30-12-03-1	7281641737774053	Hawaiian	hawa1245	down	DOWN	1326		lalo	lalo 
+856	30-12-04-1	728164114941689	Hawaiian	hawa1245	before	BEFORE	1882		mua	mua 
+857	30-12-041-1	728164114941689	Hawaiian	hawa1245	in front of	IN FRONT OF	1883		mua	mua 
+858	30-12-05-1	7281641423663681	Hawaiian	hawa1245	inside	INSIDE	1606		loko	loko 
+859	30-12-06-1	7281641535191714	Hawaiian	hawa1245	outside	OUTSIDE	762		waho	waho 
+860	30-12-07-1	7281641737774053	Hawaiian	hawa1245	under	BELOW OR UNDER	1485		lalo	lalo 
+861	30-12-08-1	7281641841540580	Hawaiian	hawa1245	up	UP	1591		luna	luna 
+862	30-12-11-1	7281641411747242	Hawaiian	hawa1245	the place	PLACE (POSITION)	723		wahi	wahi 
+863	30-12-12-1	7281641510398972	Hawaiian	hawa1245	to put	PUT	998		waiho	waiho 
+864	30-12-13-1	7281641728788574	Hawaiian	hawa1245	to sit	SIT	1416		noho (1)	noho (1) 
+865	30-12-14-1	7281641455908897	Hawaiian	hawa1245	to lie down	LIE DOWN	215		moe (2)	moe (2) 
+866	30-12-15-1	7281641679065904	Hawaiian	hawa1245	to stand	STAND	1442		kū	kū 
+867	30-12-16-1	7281641728788574	Hawaiian	hawa1245	to remain	REMAIN	987		noho (1)	noho (1) 
+868	30-12-17-1	7281641454191209	Hawaiian	hawa1245	the remains	REMAINS	838		koena	koena 
+869	30-12-21-1	7281641737069449	Hawaiian	hawa1245	to gather	GATHER	7		`ohi	`ohi 
+870	30-12-212-1	7281641879742309	Hawaiian	hawa1245	to pick up	PICK UP	371		ki`i (2)	ki`i (2) 
+871	30-12-213-1	7281641355908325	Hawaiian	hawa1245	to pile up	PILE UP	1576		paila (2)	paila (2) 
+872	30-12-22-1	7281641666983461	Hawaiian	hawa1245	to join	JOIN	1743		ho`opili (2)	ho`opili (2) 
+873	30-12-23-1	7281641742999951	Hawaiian	hawa1245	to separate	SEPARATE	1359		ka`awale	ka`awale 
+874	30-12-232-1	7281641104591370	Hawaiian	hawa1245	to divide	DIVIDE	1119		mahele	mahele 
+875	30-12-24-1	7281641466763956	Hawaiian	hawa1245	to open	OPEN	1156		wehe	wehe 
+876	30-12-25-1	7281641939458809	Hawaiian	hawa1245	to shut	SHUT	1046		pani	pani 
+877	30-12-26-1	7281641807902470	Hawaiian	hawa1245	to cover	COVER	761		uhi (1)	uhi (1) 
+878	30-12-27-1	7281641842536088	Hawaiian	hawa1245	to hide	HIDE (CONCEAL)	602		hūnā	hūnā 
+879	30-12-31-1	7281641841540580	Hawaiian	hawa1245	high	HIGH	1265		luna	luna 
+880	30-12-32-1	7281641737774053	Hawaiian	hawa1245	low	LOW	721		lalo	lalo 
+881	30-12-33-1	7281641978179720	Hawaiian	hawa1245	the top	TOP	1753		wēkiu	wēkiu 
+882	30-12-34-1	7281641737774053	Hawaiian	hawa1245	the bottom	BOTTOM	690		lalo	lalo 
+883	30-12-34-2	752115854019327	Hawaiian	hawa1245	the bottom	BOTTOM	690		mole	mole 
+884	30-12-34-3	7281641222134138	Hawaiian	hawa1245	the bottom	BOTTOM	690		kumu (1)	kumu (1) 
+885	30-12-35-1	7281641467694783	Hawaiian	hawa1245	the end(1)	END (OF SPACE)	742		pau `ana	pau `ana 
+886	30-12-352-1	7281641665768035	Hawaiian	hawa1245	pointed	POINTED	372		`oi`oi	`oi`oi 
+887	30-12-353-1	7281641988436409	Hawaiian	hawa1245	the edge	EDGE	863		lihi	lihi 
+888	30-12-36-1	7281641921002356	Hawaiian	hawa1245	the side	SIDE	682		`ao`ao	`ao`ao 
+889	30-12-37-1	7281641510274444	Hawaiian	hawa1245	the middle	MIDDLE	1093		waena	waena 
+890	30-12-41-1	7281641631151994	Hawaiian	hawa1245	right(1)	RIGHT	1019		`akau	`akau 
+891	30-12-42-1	7281641238400971	Hawaiian	hawa1245	left	LEFT	244		hema (1)	hema (1) 
+892	30-12-43-1	7281641536335900	Hawaiian	hawa1245	near	NEAR	1942		kokoke	kokoke 
+893	30-12-44-1	7281641632989793	Hawaiian	hawa1245	far	FAR	1406		mamao	mamao 
+894	30-12-45-1	7281641382378646	Hawaiian	hawa1245	the east	EAST	1877		hikina	hikina 
+895	30-12-46-1	7281641136374221	Hawaiian	hawa1245	the west	WEST	1817		komohana	komohana 
+896	30-12-47-1	7281641496484049	Hawaiian	hawa1245	the north	NORTH	1598		`ākau	`ākau 
+897	30-12-48-1	752189429582428	Hawaiian	hawa1245	the south	SOUTH	1595		hema (2)	hema (2) 
+898	30-12-53-1	7281641478586242	Hawaiian	hawa1245	to grow	GROW	479		ho`oulu	ho`oulu 
+899	30-12-54-1	7281641498745964	Hawaiian	hawa1245	to measure	MEASURE	1506		ana (2)	ana (2) 
+900	30-12-541-1	7281641874804392	Hawaiian	hawa1245	the fathom	FATHOM	81		anana	anana 
+901	30-12-55-1	7281641538972433	Hawaiian	hawa1245	big	BIG	1202		nui	nui 
+902	30-12-56-1	7281641347773100	Hawaiian	hawa1245	small	SMALL	1246		li`ili`i	li`ili`i 
+903	30-12-57-1	7281641102927530	Hawaiian	hawa1245	long	LONG	1203		lō`ihi	lō`ihi 
+904	30-12-58-1	7281641288694670	Hawaiian	hawa1245	tall	TALL	711		ki`eki`e	ki`eki`e 
+905	30-12-58-2	7281641102927530	Hawaiian	hawa1245	tall	TALL	711		lō`ihi	lō`ihi 
+906	30-12-58-3	7281641674147146	Hawaiian	hawa1245	tall	TALL	711		loloa	loloa 
+907	30-12-59-1	7281641846074572	Hawaiian	hawa1245	short	SHORT	1645		pōkole	pōkole 
+908	30-12-61-1	7281641462482432	Hawaiian	hawa1245	wide	WIDE	1243		ākea	ākea 
+909	30-12-62-1	7281641659695335	Hawaiian	hawa1245	narrow	NARROW	1267		hāiki	hāiki 
+910	30-12-63-1	7281641549609628	Hawaiian	hawa1245	thick	THICK	1244		mānoa	mānoa 
+911	30-12-65-1	7281641626829774	Hawaiian	hawa1245	thin	THIN (OF SHAPE OF OBJECT)	2249		wīwī	wīwī 
+912	30-12-67-1	7281641869026538	Hawaiian	hawa1245	deep	DEEP	1593		hohonu	hohonu 
+913	30-12-68-1	7281641782455199	Hawaiian	hawa1245	shallow	SHALLOW	193		pāpa`u	pāpa`u 
+914	30-12-71-1	7281641728293258	Hawaiian	hawa1245	flat	FLAT	1633		pālahalaha	pālahalaha 
+915	30-12-73-1	7281641699484626	Hawaiian	hawa1245	straight	STRAIGHT	1404		pololei	pololei 
+916	30-12-74-1	7281641248686101	Hawaiian	hawa1245	crooked	CROOKED	297		kapakahi	kapakahi 
+917	30-12-75-1	7281641194453592	Hawaiian	hawa1245	the hook	HOOK	1071		lou	lou 
+918	30-12-76-1	7281641325204656	Hawaiian	hawa1245	the corner	CORNER	192		kū`ono	kū`ono 
+919	30-12-76-2	7281641193663070	Hawaiian	hawa1245	the corner	CORNER	192		kihi	kihi 
+920	30-12-77-1	7281641819999324	Hawaiian	hawa1245	the cross	CROSS	1367		ke`a	ke`a 
+921	30-12-78-1	7281641203437291	Hawaiian	hawa1245	the square	SQUARE	850		huinahā	huinahā 
+922	30-12-81-1	7281641235375186	Hawaiian	hawa1245	round	ROUND	1395		poepoe	poepoe 
+923	30-12-82-1	7281641235375186	Hawaiian	hawa1245	the circle	CIRCLE	1467		poepoe	poepoe 
+924	30-12-83-1	7281641235375186	Hawaiian	hawa1245	the ball	BALL	1845		poepoe	poepoe 
+925	30-12-84-1	7281641203883794	Hawaiian	hawa1245	the line	LINE	1048		laina	laina 
+926	30-12-85-1	7281641875507983	Hawaiian	hawa1245	the hole	HOLE	1667		puka	puka 
+927	30-12-92-1	7281641259522677	Hawaiian	hawa1245	similar	SIMILAR	1558		like	like 
+928	30-12-93-1	7281641504495413	Hawaiian	hawa1245	to change	CHANGE	1264		loli	loli 
+929	30-13-1	7281641929858203	Hawaiian	hawa1245	zero	ZERO	1294		`ole	`ole 
+930	30-13-01-1	7281641856360140	Hawaiian	hawa1245	one	ONE	1493		kahi (1)	kahi (1) 
+931	30-13-02-1	7281641599475761	Hawaiian	hawa1245	two	TWO	1498		lua (1)	lua (1) 
+932	30-13-03-1	7281641210894481	Hawaiian	hawa1245	three	THREE	492		kolu	kolu 
+933	30-13-04-1	72816417226687	Hawaiian	hawa1245	four	FOUR	1500		hā	hā 
+934	30-13-05-1	7281641411675841	Hawaiian	hawa1245	five	FIVE	493		lima (2)	lima (2) 
+935	30-13-06-1	7281641121593584	Hawaiian	hawa1245	six	SIX	1703		ono	ono 
+936	30-13-07-1	7281641191207751	Hawaiian	hawa1245	seven	SEVEN	1704		hiku	hiku 
+937	30-13-08-1	7281641279056847	Hawaiian	hawa1245	eight	EIGHT	1705		walu	walu 
+938	30-13-09-1	7281641868124225	Hawaiian	hawa1245	nine	NINE	1483		iwa	iwa 
+939	30-13-1-1	7281641661706771	Hawaiian	hawa1245	ten	TEN	1515		`umi	`umi 
+940	30-13-101-1	7281641307308962	Hawaiian	hawa1245	eleven	ELEVEN	1706		`umi kūmākahi	`umi kūmākahi 
+941	30-13-102-1	7281641927255193	Hawaiian	hawa1245	twelve	TWELVE	1707		`umi kūmālua	`umi kūmālua 
+942	30-13-103-1	7281641721351841	Hawaiian	hawa1245	fifteen	FIFTEEN	1709		`umi kūmālima	`umi kūmālima 
+943	30-13-104-1	7281641728634851	Hawaiian	hawa1245	twenty	TWENTY	1710		iwakālua	iwakālua 
+944	30-13-105-1	7281641657427245	Hawaiian	hawa1245	a hundred	HUNDRED	1634		haneli	haneli 
+945	30-13-106-1	728164199518192	Hawaiian	hawa1245	a thousand	THOUSAND	1843		kaukani	kaukani 
+946	30-13-107-1	7281641242216506	Hawaiian	hawa1245	to count	COUNT	1420		helu	helu 
+947	30-13-14-1	7281641221103102	Hawaiian	hawa1245	all	ALL	98		āpau	āpau 
+948	30-13-15-1	7281641538972433	Hawaiian	hawa1245	many	MANY	1198		nui	nui 
+949	30-13-16-1	7281641285748537	Hawaiian	hawa1245	more	MORE	1992		`oi aku	`oi aku 
+950	30-13-17-1	7281641215610419	Hawaiian	hawa1245	few	FEW	1242		kaka`ikahi	kaka`ikahi 
+951	30-13-18-1	7281641452897449	Hawaiian	hawa1245	enough	ENOUGH	1881		lawa	lawa 
+952	30-13-181-1	7281641470656404	Hawaiian	hawa1245	some	SOME	1241		kekahi	kekahi 
+953	30-13-19-1	7281641973108727	Hawaiian	hawa1245	the crowd	CROWD	2023		lehulehu	lehulehu 
+954	30-13-21-1	7281641483283785	Hawaiian	hawa1245	full	FULL	1429		piha	piha 
+955	30-13-22-1	7281641626416370	Hawaiian	hawa1245	empty	EMPTY	1624		hakahaka	hakahaka 
+956	30-13-23-1	728164143230493	Hawaiian	hawa1245	the part	PART	779		`āpana	`āpana 
+957	30-13-24-1	7281641738961335	Hawaiian	hawa1245	the half	HALF	816		hapa	hapa 
+958	30-13-33-1	728164126414062	Hawaiian	hawa1245	only	ONLY	1580		wale nō	wale nō 
+959	30-13-34-1	728164114941689	Hawaiian	hawa1245	first	FIRST	728		mua	mua 
+960	30-13-35-1	7281641533109036	Hawaiian	hawa1245	last	LAST (FINAL)	1529		hope	hope 
+961	30-13-36-1	7281641967401402	Hawaiian	hawa1245	second	SECOND	1384		lua (2)	lua (2) 
+962	30-13-37-1	7281641231623513	Hawaiian	hawa1245	the pair	PAIR	1888		pa`a (2)	pa`a (2) 
+963	30-13-38-1	7281641831175474	Hawaiian	hawa1245	twice/two times	TWICE	1546		`elua manawa	`elua manawa 
+964	30-13-42-1	7281641210894481	Hawaiian	hawa1245	third	THIRD	1859		kolu	kolu 
+965	30-13-44-1	7281641706888578	Hawaiian	hawa1245	three times	THREE TIMES	417		`ekolu manawa	`ekolu manawa 
+966	30-14-11-1	7281641631487636	Hawaiian	hawa1245	the time	TIME	892		manawa	manawa 
+967	30-14-12-1	7281641420700776	Hawaiian	hawa1245	the age	AGE	1789		wā	wā 
+968	30-14-13-1	7281641702202613	Hawaiian	hawa1245	new	NEW	1231		hou (3)	hou (3) 
+969	30-14-14-1	7281641728622377	Hawaiian	hawa1245	young	YOUNG	1207		`ōpio	`ōpio 
+970	30-14-15-1	7281641152043338	Hawaiian	hawa1245	old	OLD	1229		kahiko	kahiko 
+971	30-14-15-2	7281641113387822	Hawaiian	hawa1245	old	OLD	1229		`elemakule	`elemakule 
+972	30-14-15-3	728164112811029	Hawaiian	hawa1245	old	OLD	1229		luahine	luahine 
+973	30-14-16-1	7281641413612276	Hawaiian	hawa1245	early	EARLY	672		miki`ala	miki`ala 
+974	30-14-17-1	7281641658207879	Hawaiian	hawa1245	late	LATE	477		lohi	lohi 
+975	30-14-18-1	7281641400352462	Hawaiian	hawa1245	now	NOW	1376		`ānō	`ānō 
+976	30-14-19-1	7281641758544181	Hawaiian	hawa1245	immediately	IMMEDIATELY	1963		koke	koke 
+977	30-14-21-1	7281641840855268	Hawaiian	hawa1245	fast	FAST	1631		wikiwiki	wikiwiki 
+978	30-14-22-1	7281641658207879	Hawaiian	hawa1245	slow	SLOW	701		lohi	lohi 
+979	30-14-23-1	7521846792835819	Hawaiian	hawa1245	to hurry	HURRY	754		`āwīwī	`āwīwī 
+980	30-14-24-1	7281641658207879	Hawaiian	hawa1245	to be late	BE LATE	425		lohi	lohi 
+981	30-14-25-1	7281641206133305	Hawaiian	hawa1245	to begin	BEGIN	1806		ho`omaka	ho`omaka 
+982	30-14-252-1	7281641174909831	Hawaiian	hawa1245	to last	LAST (ENDURE)	1186		ho`omau	ho`omau 
+983	30-14-26-1	7281641988566054	Hawaiian	hawa1245	the end(2)	END (OF TIME)	743		hopena	hopena 
+984	30-14-27-1	7281641904886570	Hawaiian	hawa1245	to finish	FINISH	1766		ho`opau	ho`opau 
+985	30-14-28-1	7281641316148715	Hawaiian	hawa1245	to cease	CEASE	1928		hō`oki	hō`oki 
+986	30-14-29-1	7281641879872942	Hawaiian	hawa1245	ready	READY	790		mākaukau	mākaukau 
+987	30-14-31-1	7281641982019419	Hawaiian	hawa1245	always	ALWAYS	1676		mau	mau 
+988	30-14-32-1	7281641894134288	Hawaiian	hawa1245	often	OFTEN	1852		pinepine	pinepine 
+989	30-14-33-1	7281641324030091	Hawaiian	hawa1245	sometimes	SOMETIMES	1544		kekahi manawa	kekahi manawa 
+990	30-14-331-1	7281641758544181	Hawaiian	hawa1245	soon	SOON	703		koke	koke 
+991	30-14-332-1	7281641175835120	Hawaiian	hawa1245	for a long time	FOR A LONG TIME	418		no ka manawa lō`ihi	no ka manawa lō`ihi 
+992	30-14-34-1	7281641611113500	Hawaiian	hawa1245	never	NEVER	1656		`a`ole loa	`a`ole loa 
+993	30-14-35-1	7281641817559360	Hawaiian	hawa1245	again	AGAIN	204		hou (4)	hou (4) 
+994	30-14-41-1	7281641414057615	Hawaiian	hawa1245	the day(1)	DAY (24 HOURS)	1260		ao (2)	ao (2) 
+995	30-14-42-1	7281641488506819	Hawaiian	hawa1245	the night	NIGHT	1233		pō	pō 
+996	30-14-43-1	7281641283850878	Hawaiian	hawa1245	the dawn	DAWN	729		wana`ao	wana`ao 
+997	30-14-44-1	7281641438872030	Hawaiian	hawa1245	the morning	MORNING	1339		kakahiaka	kakahiaka 
+998	30-14-45-1	728164140286983	Hawaiian	hawa1245	the midday	MIDDAY	12		awakea	awakea 
+999	30-14-451-1	7281641300142274	Hawaiian	hawa1245	the afternoon	AFTERNOON	1807		`auinalā	`auinalā 
+1000	30-14-46-1	7281641447825125	Hawaiian	hawa1245	the evening	EVENING	1629		ahiahi	ahiahi 
+1001	30-14-47-1	7281641987931923	Hawaiian	hawa1245	today	TODAY	1283		kēia lā	kēia lā 
+1002	30-14-48-1	7281641986988866	Hawaiian	hawa1245	tomorrow	TOMORROW	1329		`apōpō	`apōpō 
+1003	30-14-481-1	7281641532848424	Hawaiian	hawa1245	the day after tomorrow	DAY AFTER TOMORROW	1179		`apōpō ā ia lā aku	`apōpō ā ia lā aku 
+1004	30-14-49-1	7281641971350118	Hawaiian	hawa1245	yesterday	YESTERDAY	1174		nehinei	nehinei 
+1005	30-14-51-1	7281641813178629	Hawaiian	hawa1245	the hour	HOUR	1353		hola	hola 
+1006	30-14-53-1	7281641526442735	Hawaiian	hawa1245	the clock	CLOCK	1323		uaki	uaki 
+1007	30-14-61-1	7281641602709609	Hawaiian	hawa1245	the week	WEEK	1469		pule	pule 
+1008	30-14-62-1	7281641367279778	Hawaiian	hawa1245	Sunday	SUNDAY	1699		Lāpule	Lāpule 
+1009	30-14-63-1	7281641155618860	Hawaiian	hawa1245	Monday	MONDAY	1697		pō`akahi	pō`akahi 
+1010	30-14-64-1	7281641183890758	Hawaiian	hawa1245	Tuesday	TUESDAY	1695		pō`alua	pō`alua 
+1011	30-14-65-1	7281641231368648	Hawaiian	hawa1245	Wednesday	WEDNESDAY	1694		pō`akolu	pō`akolu 
+1012	30-14-66-1	7281641874619350	Hawaiian	hawa1245	Thursday	THURSDAY	1693		pō`ahā	pō`ahā 
+1013	30-14-67-1	7281641870697707	Hawaiian	hawa1245	Friday	FRIDAY	1692		pō`alima	pō`alima 
+1014	30-14-68-1	7281641561855347	Hawaiian	hawa1245	Saturday	SATURDAY	1700		pō`aono	pō`aono 
+1015	30-14-71-1	7281641807712670	Hawaiian	hawa1245	the month	MONTH	1370		mahina	mahina 
+1016	30-14-73-1	7281641848349308	Hawaiian	hawa1245	the year	YEAR	1226		makahiki	makahiki 
+1017	30-14-74-1	7281641268822739	Hawaiian	hawa1245	the winter	WINTER	1471		ho`oilo	ho`oilo 
+1018	30-14-75-1	728164164457230	Hawaiian	hawa1245	the spring(2)	SPRINGTIME	1537		kupulau	kupulau 
+1019	30-14-76-1	7281641963693122	Hawaiian	hawa1245	the summer	SUMMER	1342		kau wela	kau wela 
+1020	30-14-77-1	7281641554897398	Hawaiian	hawa1245	the autumn/fall	AUTUMN	1276		hā`ule lau	hā`ule lau 
+1021	30-14-78-1	7281641312747007	Hawaiian	hawa1245	the season	SEASON	691		kau (2)	kau (2) 
+1022	30-15-21-1	7281641412511909	Hawaiian	hawa1245	to smell(1)	SMELL (STINK)	1587		honi	honi 
+1023	30-15-89-1	7281641180082091	Hawaiian	hawa1245	wrinkled	WRINKLED	380		minomino	minomino 
+1024	30-15-212-1	7281641412511909	Hawaiian	hawa1245	to sniff	SNIFF	375		honi	honi 
+1025	30-15-22-1	7281641412511909	Hawaiian	hawa1245	to smell(2)	SMELL (PERCEIVE)	1586		honi	honi 
+1026	30-15-25-1	7281641381886691	Hawaiian	hawa1245	fragrant	FRAGRANT	376		`a`ala	`a`ala 
+1027	30-15-26-1	7281641758177189	Hawaiian	hawa1245	stinking	STINKING	42		hohono	hohono 
+1028	30-15-31-1	7281641963058267	Hawaiian	hawa1245	to taste	TASTE (SOMETHING)	21		ho`ā`o	ho`ā`o 
+1029	30-15-35-1	728164123819538	Hawaiian	hawa1245	sweet	SWEET	717		momona	momona 
+1030	30-15-36-1	7281641299217004	Hawaiian	hawa1245	salty	SALTY	1091		li`u	li`u 
+1031	30-15-37-1	7281641220262651	Hawaiian	hawa1245	bitter	BITTER	887		`awa`awa	`awa`awa 
+1032	30-15-38-1	7281641220262651	Hawaiian	hawa1245	sour	SOUR	1906		`awa`awa	`awa`awa 
+1033	30-15-39-1	7281641434067600	Hawaiian	hawa1245	brackish	BRACKISH	70		wai kai	wai kai 
+1034	30-15-41-1	728164189931917	Hawaiian	hawa1245	to hear	HEAR	1408		lohe	lohe 
+1035	30-15-42-1	7281641795015098	Hawaiian	hawa1245	to listen	LISTEN	1608		ho`olohe	ho`olohe 
+1036	30-15-44-1	7281641992429690	Hawaiian	hawa1245	the sound or noise	SOUND OR NOISE	1811		kani	kani 
+1037	30-15-45-1	7281641104319930	Hawaiian	hawa1245	loud	LOUD	377		kulikuli	kulikuli 
+1038	30-15-46-1	728164122218814	Hawaiian	hawa1245	quiet	QUIET	1314		mālie	mālie 
+1039	30-15-51-1	7281641604057215	Hawaiian	hawa1245	to see	SEE	1409		`ike	`ike 
+1040	30-15-52-1	7281641955432128	Hawaiian	hawa1245	to look	LOOK	1819		nānā	nānā 
+1041	30-15-55-1	7281641200567730	Hawaiian	hawa1245	to show	SHOW	1039		hō`ike	hō`ike 
+1042	30-15-56-1	728164114823876	Hawaiian	hawa1245	to shine	SHINE	708		pā (3)	pā (3) 
+1043	30-15-57-1	7281641450581075	Hawaiian	hawa1245	bright	BRIGHT	679		`ōlino	`ōlino 
+1044	30-15-61-1	7281641389365107	Hawaiian	hawa1245	the colour/color	COLOR	1613		waiho`olu`u	waiho`olu`u 
+1045	30-15-62-1	7281641789851536	Hawaiian	hawa1245	light(2)	LIGHT (COLOR)	250		halakea	halakea 
+1046	30-15-63-1	7281641216619484	Hawaiian	hawa1245	dark	DARK	706		uli	uli 
+1047	30-15-64-1	7281641999148418	Hawaiian	hawa1245	white	WHITE	1335		ke`oke`o	ke`oke`o 
+1048	30-15-65-1	7281641588269252	Hawaiian	hawa1245	black	BLACK	163		`ele`ele	`ele`ele 
+1049	30-15-66-1	728164111622114	Hawaiian	hawa1245	red	RED	156		`ula`ula	`ula`ula 
+1050	30-15-67-1	7281641813180705	Hawaiian	hawa1245	blue	BLUE	837		uliuli	uliuli 
+1051	30-15-67-2	7281641556955710	Hawaiian	hawa1245	blue	BLUE	837		polū	polū 
+1052	30-15-68-1	728164145468089	Hawaiian	hawa1245	green	GREEN	1425		`ōma`oma`o	`ōma`oma`o 
+1053	30-15-69-1	7281641939470635	Hawaiian	hawa1245	yellow	YELLOW	1424		melemele	melemele 
+1054	30-15-71-1	728164114823876	Hawaiian	hawa1245	to touch	TOUCH	1892		pā (3)	pā (3) 
+1055	30-15-712-1	7281641988322273	Hawaiian	hawa1245	to pinch	PINCH	378		`ūmiki	`ūmiki 
+1056	30-15-72-1	728164114823876	Hawaiian	hawa1245	to feel	FEEL	1079		pā (3)	pā (3) 
+1057	30-15-74-1	7281641413608331	Hawaiian	hawa1245	hard	HARD	1884		pa`a (1)	pa`a (1) 
+1058	30-15-75-1	7281641188070738	Hawaiian	hawa1245	soft	SOFT	1856		palupalu	palupalu 
+1059	30-15-76-1	7281641301430439	Hawaiian	hawa1245	rough(1)	ROUGH	1923		`ōkala	`ōkala 
+1060	30-15-76-2	7281641643132014	Hawaiian	hawa1245	rough(1)	ROUGH	1923		`ōka`ika`i	`ōka`ika`i 
+1061	30-15-76-3	7281641683245553	Hawaiian	hawa1245	rough(1)	ROUGH	1923		`ālualua	`ālualua 
+1062	30-15-77-1	728164121187897	Hawaiian	hawa1245	smooth	SMOOTH	1234		palaha	palaha 
+1063	30-15-78-1	7281641886123930	Hawaiian	hawa1245	sharp	SHARP	1396		`oi	`oi 
+1064	30-15-79-1	7281641532982746	Hawaiian	hawa1245	blunt	BLUNT	379		kūmūmū	kūmūmū 
+1065	30-15-81-1	7281641672820353	Hawaiian	hawa1245	heavy	HEAVY	1210		kaumaha	kaumaha 
+1066	30-15-82-1	7281641340020487	Hawaiian	hawa1245	light(1)	LIGHT (WEIGHT)	1052		māmā	māmā 
+1067	30-15-83-1	7281641233750780	Hawaiian	hawa1245	wet	WET	1726		pulu	pulu 
+1068	30-15-84-1	7281641694446652	Hawaiian	hawa1245	dry	DRY	1398		malo`o	malo`o 
+1069	30-15-85-1	7281641573331509	Hawaiian	hawa1245	hot	HOT	1286		wela	wela 
+1070	30-15-851-1	7281641197962388	Hawaiian	hawa1245	warm	WARM	1232		mehana	mehana 
+1071	30-15-86-1	7281641793110432	Hawaiian	hawa1245	cold	COLD	1287		anuanu	anuanu 
+1072	30-15-87-1	7281641672647897	Hawaiian	hawa1245	clean	CLEAN	704		ma`ema`e	ma`ema`e 
+1073	30-15-88-1	7281641480890823	Hawaiian	hawa1245	dirty	DIRTY	1230		lepo	lepo 
+1074	30-16-11-1	7281641270124316	Hawaiian	hawa1245	the soul or spirit	SOUL	811		`uhane	`uhane 
+1075	30-16-15-1	7281641645643806	Hawaiian	hawa1245	surprised or astonished	SURPRISED	1572		pū`iwa	pū`iwa 
+1076	30-16-18-1	7281641373296291	Hawaiian	hawa1245	the good luck	GOOD LUCK	720		laki maika`i	laki maika`i 
+1077	30-16-19-1	7281641602861876	Hawaiian	hawa1245	the bad luck	BAD LUCK	56		pō`ino	pō`ino 
+1078	30-16-23-1	7281641783347425	Hawaiian	hawa1245	happy	HAPPY	1495		hau`oli	hau`oli 
+1079	30-16-25-1	7281641207701711	Hawaiian	hawa1245	to laugh	LAUGH	1355		`aka`aka	`aka`aka 
+1080	30-16-251-1	7281641190603770	Hawaiian	hawa1245	to smile	SMILE	1451		mino`aka	mino`aka 
+1081	30-16-26-1	728164152676458	Hawaiian	hawa1245	to play	PLAY	1413		pā`ani	pā`ani 
+1082	30-16-27-1	728164167828424	Hawaiian	hawa1245	to love	LOVE	923		aloha	aloha 
+1083	30-16-29-1	7281641412511909	Hawaiian	hawa1245	to kiss	KISS	578		honi	honi 
+1084	30-16-3-1	7281641651655582	Hawaiian	hawa1245	to embrace	EMBRACE	928		pūliki	pūliki 
+1085	30-16-31-1	7281641446892632	Hawaiian	hawa1245	the pain	PAIN	1783		`eha	`eha 
+1086	30-16-32-1	7281641672820353	Hawaiian	hawa1245	the grief	GRIEF	1668		kaumaha	kaumaha 
+1087	30-16-33-1	7281641356842952	Hawaiian	hawa1245	the anxiety	ANXIETY	1000		hopohopo	hopohopo 
+1088	30-16-34-1	7281641877372289	Hawaiian	hawa1245	to regret or be sorry	REGRET	1875		mihi	mihi 
+1089	30-16-35-1	728164167828424	Hawaiian	hawa1245	the pity	PITY	1141		aloha	aloha 
+1090	30-16-37-1	7281641113798795	Hawaiian	hawa1245	to cry	CRY	1839		uē	uē 
+1091	30-16-38-1	7281641120369857	Hawaiian	hawa1245	the tear	TEAR (OF EYE)	1651		waimaka	waimaka 
+1092	30-16-39-1	728164159624116	Hawaiian	hawa1245	to groan	GROAN	716		nū	nū 
+1093	30-16-41-1	7281641646330687	Hawaiian	hawa1245	to hate	HATE	1607		mana`o `ino	mana`o `ino 
+1094	30-16-42-1	7281641720104172	Hawaiian	hawa1245	the anger	ANGER	82		huhū	huhū 
+1095	30-16-44-1	7281641731649448	Hawaiian	hawa1245	the envy or jealousy	ENVY	40		lili	lili 
+1096	30-16-45-1	7281641376033712	Hawaiian	hawa1245	the shame	SHAME	1776		hilahila	hilahila 
+1097	30-16-48-1	7281641814299703	Hawaiian	hawa1245	proud	PROUD	174		ha`aheo	ha`aheo 
+1098	30-16-51-1	7281641438382048	Hawaiian	hawa1245	to dare	DARE	1779		hō`a`ano	hō`a`ano 
+1099	30-16-52-1	7281641177291291	Hawaiian	hawa1245	brave	BRAVE	3		wiwo `ole	wiwo `ole 
+1100	30-16-53-1	7281641419914209	Hawaiian	hawa1245	the fear	FEAR (FRIGHT)	781		maka`u	maka`u 
+1101	30-16-54-1	7281641245218830	Hawaiian	hawa1245	the danger	DANGER	1810		mea pō`ino	mea pō`ino 
+1102	30-16-62-1	7281641400074980	Hawaiian	hawa1245	to want	WANT	1784		makemake	makemake 
+1103	30-16-622-1	7281641951905451	Hawaiian	hawa1245	to choose	CHOOSE	1750		koho	koho 
+1104	30-16-63-1	7281641598955593	Hawaiian	hawa1245	to hope	HOPE (SOMETHING)	3212		mana`olana	mana`olana 
+1105	30-16-65-1	7281641752761572	Hawaiian	hawa1245	faithful	FAITHFUL	100		kūpa`a	kūpa`a 
+1106	30-16-66-1	7281641878070525	Hawaiian	hawa1245	true	TRUE	1657		`oia`i`o	`oia`i`o 
+1107	30-16-67-1	7281641578435771	Hawaiian	hawa1245	to lie(2)	LIE (MISLEAD)	601		ho`opunipuni	ho`opunipuni 
+1108	30-16-68-1	7281641578435771	Hawaiian	hawa1245	the deceit	DECEIT	13		ho`opunipuni	ho`opunipuni 
+1109	30-16-69-1	7281641850712602	Hawaiian	hawa1245	to forgive	FORGIVE	1528		kala (2)	kala (2) 
+1110	30-16-71-1	7281641992551790	Hawaiian	hawa1245	good	GOOD	1035		maika`i	maika`i 
+1111	30-16-72-1	7281641832424009	Hawaiian	hawa1245	bad	BAD	1292		maika`i `ole	maika`i `ole 
+1112	30-16-73-1	7281641699484626	Hawaiian	hawa1245	right(2)	CORRECT (RIGHT)	1725		pololei	pololei 
+1113	30-16-74-1	728164182738686	Hawaiian	hawa1245	wrong	WRONG	1390		hewa	hewa 
+1114	30-16-76-1	728164182738686	Hawaiian	hawa1245	the fault	FAULT	134		hewa	hewa 
+1115	30-16-77-1	728164182738686	Hawaiian	hawa1245	the mistake	MISTAKE	1293		hewa	hewa 
+1116	30-16-78-1	7281641196283977	Hawaiian	hawa1245	the blame	BLAME	381		`āhewa	`āhewa 
+1117	30-16-79-1	7281641550235663	Hawaiian	hawa1245	the praise	PRAISE	1687		paipai	paipai 
+1118	30-16-81-1	7281641696402294	Hawaiian	hawa1245	beautiful	BEAUTIFUL	1427		nani	nani 
+1119	30-16-82-1	7281641430626861	Hawaiian	hawa1245	ugly	UGLY	1548		pupuka	pupuka 
+1120	30-16-84-1	7281641103705350	Hawaiian	hawa1245	clever	CLEVER	1310		akamai	akamai 
+1121	30-17-11-1	7281641798125023	Hawaiian	hawa1245	the mind	MIND	1562		na`au	na`au 
+1122	30-17-13-1	7281641609953256	Hawaiian	hawa1245	to think(1)	THINK (REFLECT)	1415		no`ono`o	no`ono`o 
+1123	30-17-14-1	7281641574067752	Hawaiian	hawa1245	to think(2)	THINK (BELIEVE)	1513		mana`o	mana`o 
+1124	30-17-15-1	7281641740924622	Hawaiian	hawa1245	to believe	BELIEVE	1890		piliwi	piliwi 
+1125	30-17-16-1	7281641935376176	Hawaiian	hawa1245	to understand	UNDERSTAND	1536		maopopo	maopopo 
+1126	30-17-17-1	7281641604057215	Hawaiian	hawa1245	to know	KNOW (SOMETHING)	1410		`ike	`ike 
+1127	30-17-171-1	7281641951905451	Hawaiian	hawa1245	to guess	GUESS	1932		koho	koho 
+1128	30-17-172-1	7281641456671677	Hawaiian	hawa1245	to imitate	IMITATE	117		ho`opili (1)	ho`opili (1) 
+1129	30-17-19-1	7281641574067752	Hawaiian	hawa1245	the idea	IDEA	1609		mana`o	mana`o 
+1130	30-17-21-1	7281641335228078	Hawaiian	hawa1245	wise	WISE	698		na`auao	na`auao 
+1131	30-17-22-1	728164192980711	Hawaiian	hawa1245	stupid	STUPID	1518		na`aupō	na`aupō 
+1132	30-17-23-1	7281641609305138	Hawaiian	hawa1245	mad	MAD	1899		pupule	pupule 
+1133	30-17-24-1	728164141914010	Hawaiian	hawa1245	to learn	LEARN	504		a`o	a`o 
+1134	30-17-242-1	7281641287566220	Hawaiian	hawa1245	to study	STUDY	1929		ho`opa`a ha`awina	ho`opa`a ha`awina 
+1135	30-17-25-1	728164141914010	Hawaiian	hawa1245	to teach	TEACH	709		a`o	a`o 
+1136	30-17-26-1	7281641651770316	Hawaiian	hawa1245	the pupil	PUPIL (STUDENT)	753		haumana	haumana 
+1137	30-17-27-1	7281641517888747	Hawaiian	hawa1245	the teacher	TEACHER	1038		kumu (2)	kumu (2) 
+1138	30-17-28-1	7281641613481416	Hawaiian	hawa1245	the school	SCHOOL	673		kula (3)	kula (3) 
+1139	30-17-31-1	7281641969555529	Hawaiian	hawa1245	to remember	REMEMBER	707		ho`omana`o	ho`omana`o 
+1140	30-17-32-1	7281641974154879	Hawaiian	hawa1245	to forget	FORGET	1523		poina	poina 
+1141	30-17-34-1	728164178539100	Hawaiian	hawa1245	clear	CLEAR	989		moakaka	moakaka 
+1142	30-17-35-1	7281641419043397	Hawaiian	hawa1245	obscure	OBSCURE	1764		pohihihi	pohihihi 
+1143	30-17-36-1	7281641887192743	Hawaiian	hawa1245	secret	SECRET	1121		mea huna	mea huna 
+1144	30-17-37-1	7281641485339899	Hawaiian	hawa1245	certain	CERTAIN	509		maopopo loa	maopopo loa 
+1145	30-17-38-1	7281641590034430	Hawaiian	hawa1245	to explain	EXPLAIN	1626		wehewehe	wehewehe 
+1146	30-17-41-1	7281641574067752	Hawaiian	hawa1245	the intention	INTENTION	1162		mana`o	mana`o 
+1147	30-17-42-1	7281641517888747	Hawaiian	hawa1245	the cause	CAUSE	860		kumu (2)	kumu (2) 
+1148	30-17-43-1	7281641356842952	Hawaiian	hawa1245	the doubt	DOUBT	1308		hopohopo	hopohopo 
+1149	30-17-44-1	7281641732489633	Hawaiian	hawa1245	to suspect	SUSPECT	1841		ho`ohuoi	ho`ohuoi 
+1150	30-17-441-1	7281641755004428	Hawaiian	hawa1245	to betray	BETRAY	1902		paokoke	paokoke 
+1151	30-17-45-1	7281641601500743	Hawaiian	hawa1245	the need or necessity	NEED (NOUN)	643		pono	pono 
+1152	30-17-46-1	7281641579419161	Hawaiian	hawa1245	easy	EASY	686		ma`alahi	ma`alahi 
+1153	30-17-47-1	7281641735060257	Hawaiian	hawa1245	difficult	DIFFICULT	584		pa`akīkī	pa`akīkī 
+1154	30-17-48-1	7281641963058267	Hawaiian	hawa1245	to try	TRY	1812		ho`ā`o	ho`ā`o 
+1155	30-17-49-1	7281641265155731	Hawaiian	hawa1245	the manner	MANNER	488		`ano	`ano 
+1156	30-17-51-1	7281641923761845	Hawaiian	hawa1245	and	AND	1577		a	a 
+1157	30-17-51-2	7281641352323298	Hawaiian	hawa1245	and	AND	1577		a me	a me 
+1158	30-17-52-1	7281641234152602	Hawaiian	hawa1245	because	BECAUSE	1157		no	no 
+1159	30-17-53-1	7281641406522293	Hawaiian	hawa1245	if	IF	1459		inā	inā 
+1160	30-17-54-1	7281641703223880	Hawaiian	hawa1245	or	OR	1014		o	o 
+1161	30-17-55-1	7281641986178191	Hawaiian	hawa1245	yes	YES	1268		`ae	`ae 
+1162	30-17-56-1	7281641588577742	Hawaiian	hawa1245	no	NO	1269		`a`ole	`a`ole 
+1163	30-17-61-1	7281641371882793	Hawaiian	hawa1245	how?	HOW	1239		pehea	pehea 
+1164	30-17-62-1	7281641997185625	Hawaiian	hawa1245	how many?	HOW MANY	822		`ehia	`ehia 
+1165	30-17-63-1	7281641997185625	Hawaiian	hawa1245	how much?	HOW MUCH	531		`ehia	`ehia 
+1166	30-17-64-1	7281641455919251	Hawaiian	hawa1245	what?	WHAT	1236		aha	aha 
+1167	30-17-65-1	7281641758592942	Hawaiian	hawa1245	when?	WHEN	1238		āhea	āhea 
+1168	30-17-65-2	7281641570945975	Hawaiian	hawa1245	when?	WHEN	1238		ināhea	ināhea 
+1169	30-17-66-1	7281641890976317	Hawaiian	hawa1245	where?	WHERE	1237		hea (1)	hea (1) 
+1170	30-17-67-1	7281641890976317	Hawaiian	hawa1245	which?	WHICH	727		hea (1)	hea (1) 
+1171	30-17-68-1	7281641933637908	Hawaiian	hawa1245	who?	WHO	1235		wai (2)	wai (2) 
+1172	30-17-69-1	7281641455919251	Hawaiian	hawa1245	why?	WHY	1270		aha	aha 
+1173	30-18-11-1	72816412736439	Hawaiian	hawa1245	the voice	VOICE	1363		leo	leo 
+1174	30-18-12-1	72816412736439	Hawaiian	hawa1245	to sing	SING	1261		leo	leo 
+1175	30-18-13-1	7281641590140229	Hawaiian	hawa1245	to shout	SHOUT	715		`uā	`uā 
+1176	30-18-15-1	7281641301416114	Hawaiian	hawa1245	to whisper	WHISPER	55		hāwanawana	hāwanawana 
+1177	30-18-16-1	7281641438312230	Hawaiian	hawa1245	to mumble	MUMBLE	128		namu (2)	namu (2) 
+1178	30-18-17-1	7281641388926960	Hawaiian	hawa1245	to whistle	WHISTLE	1025		hōkiokio	hōkiokio 
+1179	30-18-18-1	7281641371336690	Hawaiian	hawa1245	to shriek	SHRIEK	298		pū`alalā	pū`alalā 
+1180	30-18-19-1	7281641122451131	Hawaiian	hawa1245	to howl	HOWL	526		puō	puō 
+1181	30-18-21-1	7281641766026938	Hawaiian	hawa1245	to speak or talk	SPEAK	1623		`ōlelo	`ōlelo 
+1182	30-18-211-1	7281641559242293	Hawaiian	hawa1245	to stutter or stammer	STUTTER	1866		`ū`ū	`ū`ū 
+1183	30-18-22-1	7281641766026938	Hawaiian	hawa1245	to say	SAY	1458		`ōlelo	`ōlelo 
+1184	30-18-221-1	728164155361794	Hawaiian	hawa1245	to tell	TELL	1711		ha`i	ha`i 
+1185	30-18-222-1	7281641254409853	Hawaiian	hawa1245	the speech	SPEECH	1115		ha`i`ōlelo	ha`i`ōlelo 
+1186	30-18-23-1	7281641194295902	Hawaiian	hawa1245	to be silent	BE SILENT	48		hāmau	hāmau 
+1187	30-18-24-1	7281641766026938	Hawaiian	hawa1245	the language	LANGUAGE	1307		`ōlelo	`ōlelo 
+1188	30-18-26-1	7281641399102769	Hawaiian	hawa1245	the word	WORD	1599		hua `ōlelo	hua `ōlelo 
+1189	30-18-28-1	7281641416833989	Hawaiian	hawa1245	the name	NAME	1405		inoa	inoa 
+1190	30-18-31-1	7281641935557112	Hawaiian	hawa1245	to ask(1)	ASK (INQUIRE)	1309		nīnau	nīnau 
+1191	30-18-32-1	7281641217310038	Hawaiian	hawa1245	to answer	ANSWER	1275		pane	pane 
+1192	30-18-33-1	7281641986178191	Hawaiian	hawa1245	to admit	ADMIT	2022		`ae	`ae 
+1193	30-18-34-1	7281641220060619	Hawaiian	hawa1245	to deny	DENY	755		hō`ole	hō`ole 
+1194	30-18-35-1	7281641763475847	Hawaiian	hawa1245	to ask(2)	ASK (REQUEST)	1828		noi	noi 
+1195	30-18-36-1	7281641401419346	Hawaiian	hawa1245	to promise	PROMISE	1675		ho`ohiki	ho`ohiki 
+1196	30-18-37-1	7281641220060619	Hawaiian	hawa1245	to refuse	REFUSE	49		hō`ole	hō`ole 
+1197	30-18-38-1	7281641952348098	Hawaiian	hawa1245	to forbid	FORBID	83		pāpā	pāpā 
+1198	30-18-39-1	7281641336334559	Hawaiian	hawa1245	to scold	SCOLD	299		nuku (2)	nuku (2) 
+1199	30-18-41-1	7281641946471102	Hawaiian	hawa1245	to call(1)	CALL	1084		kāhea	kāhea 
+1200	30-18-42-1	7281641839906619	Hawaiian	hawa1245	to call(2)	CALL BY NAME	180		hea (2)	hea (2) 
+1201	30-18-43-1	7281641649030110	Hawaiian	hawa1245	to announce	ANNOUNCE	9		kūkala	kūkala 
+1202	30-18-44-1	7281641819059338	Hawaiian	hawa1245	to threaten	THREATEN	1192		`ōlelo ho`oweliweli	`ōlelo ho`oweliweli 
+1203	30-18-45-1	7281641107949177	Hawaiian	hawa1245	to boast	BOAST	101		kaena	kaena 
+1204	30-18-51-1	7281641472028998	Hawaiian	hawa1245	to write	WRITE	1672		kākau	kākau 
+1205	30-18-52-1	7281641294031084	Hawaiian	hawa1245	to read	READ	724		heluhelu	heluhelu 
+1206	30-18-56-1	7281641308340699	Hawaiian	hawa1245	the paper	PAPER	648		pepa (1)	pepa (1) 
+1207	30-18-57-1	728164186205306	Hawaiian	hawa1245	the pen	PEN	794		peni	peni 
+1208	30-18-61-1	7281641507128759	Hawaiian	hawa1245	the book	BOOK	963		puke	puke 
+1209	30-18-61-2	75151652858082086	Hawaiian	hawa1245	the book	BOOK	963		liwele	liwele 
+1210	30-18-67-1	7281641286914084	Hawaiian	hawa1245	the poet	POET	1045		haku poema	haku poema 
+1211	30-18-71-1	7281641338242301	Hawaiian	hawa1245	the flute	FLUTE	777		`ohe	`ohe 
+1212	30-18-72-1	728164166121905	Hawaiian	hawa1245	the drum	DRUM	908		pahu (2)	pahu (2) 
+1213	30-18-73-1	72816412120939	Hawaiian	hawa1245	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		pū (1)	pū (1) 
+1214	30-18-74-1	7281641983298384	Hawaiian	hawa1245	the rattle	RATTLE	300		ko`ele	ko`ele 
+1215	30-19-11-1	7281641599463319	Hawaiian	hawa1245	the country	COUNTRY	1300		`āina	`āina 
+1216	30-19-12-1	7281641548347455	Hawaiian	hawa1245	the native country	NATIVE COUNTRY	89		one hānau	one hānau 
+1217	30-19-15-1	7281641939939493	Hawaiian	hawa1245	the town	TOWN	1391		kaona	kaona 
+1218	30-19-16-1	7281641560542903	Hawaiian	hawa1245	the village	VILLAGE	930		kūlanakauhale	kūlanakauhale 
+1219	30-19-17-1	7281641662018251	Hawaiian	hawa1245	the boundary	BOUNDARY	1010		palena	palena 
+1220	30-19-21-1	7281641219952439	Hawaiian	hawa1245	the people	PEOPLE	789		maka‘āinana	maka‘āinana 
+1221	30-19-23-1	7281641604320431	Hawaiian	hawa1245	the clan	CLAN	302		`ohana	`ohana 
+1222	30-19-24-1	7281641351585330	Hawaiian	hawa1245	the chieftain	CHIEFTAIN	301		ali`i	ali`i 
+1223	30-19-25-1	7281641409944876	Hawaiian	hawa1245	the walking stick	WALKING STICK	1296		ko`oko`o	ko`oko`o 
+1224	30-19-31-1	7281641519364836	Hawaiian	hawa1245	to rule or govern	RULE	1846		noho aupuni	noho aupuni 
+1225	30-19-32-1	7281641862961030	Hawaiian	hawa1245	the king	KING	1508		mō`ī	mō`ī 
+1226	30-19-33-1	7281641311534606	Hawaiian	hawa1245	the queen	QUEEN	1306		mō`ī wahine	mō`ī wahine 
+1227	30-19-36-1	7281641351585330	Hawaiian	hawa1245	the noble	NOBLE	482		ali`i	ali`i 
+1228	30-19-37-1	7521943875459292	Hawaiian	hawa1245	the citizen	CITIZEN	1032		kupa	kupa 
+1229	30-19-41-1	7281641127913747	Hawaiian	hawa1245	the master	MASTER	383		haku	haku 
+1230	30-19-42-1	7281641384538305	Hawaiian	hawa1245	the slave	SLAVE	812		kauā	kauā 
+1231	30-19-43-1	7281641258331966	Hawaiian	hawa1245	the servant	SERVANT	255		kanaka hana	kanaka hana 
+1232	30-19-43-2	7281641261859583	Hawaiian	hawa1245	the servant	SERVANT	255		wahine hana	wahine hana 
+1233	30-19-45-1	7281641957761971	Hawaiian	hawa1245	to command or order	ORDER	1128		kauoha	kauoha 
+1234	30-19-46-1	752194794566490	Hawaiian	hawa1245	to obey	OBEY	1635		ho‘olono	ho‘olono 
+1235	30-19-47-1	7281641986178191	Hawaiian	hawa1245	to permit	PERMIT	1003		`ae	`ae 
+1236	30-19-51-1	7281641528713534	Hawaiian	hawa1245	the friend	FRIEND	1325		hoaloha	hoaloha 
+1237	30-19-52-1	7281641213046703	Hawaiian	hawa1245	the enemy	ENEMY	1358		`enemi	`enemi 
+1238	30-19-54-1	7281641517174157	Hawaiian	hawa1245	the neighbour	NEIGHBOUR	1332		hoa kaiahome	hoa kaiahome 
+1239	30-19-55-1	7281641680550925	Hawaiian	hawa1245	the stranger	STRANGER	791		malihini	malihini 
+1240	30-19-56-1	7281641680550925	Hawaiian	hawa1245	the guest	GUEST	1782		malihini	malihini 
+1241	30-19-57-1	7281641993217593	Hawaiian	hawa1245	the host	HOST	1545		mea ho`okipa	mea ho`okipa 
+1242	30-19-58-1	7281641652747268	Hawaiian	hawa1245	to help	HELP	1897		kōkua	kōkua 
+1243	30-19-59-1	7281641663023811	Hawaiian	hawa1245	to prevent	PREVENT	1550		pale	pale 
+1244	30-19-61-1	7281641843081911	Hawaiian	hawa1245	the custom	CUSTOM	1747		loina	loina 
+1245	30-19-62-1	7281641754880495	Hawaiian	hawa1245	the quarrel	QUARREL	1848		paio	paio 
+1246	30-19-63-1	7281641387965462	Hawaiian	hawa1245	the plot	PLOT	2024		`ōhumu	`ōhumu 
+1247	30-19-65-1	728164185901184	Hawaiian	hawa1245	to meet	MEET	1831		hui	hui 
+1248	30-19-72-1	7281641738034940	Hawaiian	hawa1245	the prostitute	PROSTITUTE	1610		wahine ho`okamakama	wahine ho`okamakama 
+1249	30-20-11-1	7281641523449043	Hawaiian	hawa1245	to fight	FIGHT	1423		hakakā	hakakā 
+1250	30-20-13-1	7281641391561537	Hawaiian	hawa1245	the war or battle	BATTLE	579		kaua	kaua 
+1251	30-20-14-1	7281641936870595	Hawaiian	hawa1245	the peace	PEACE	1338		maluhia	maluhia 
+1252	30-20-15-1	7281641711699514	Hawaiian	hawa1245	the army	ARMY	1561		pū`ali koa	pū`ali koa 
+1253	30-20-17-1	7281641548660325	Hawaiian	hawa1245	the soldier	SOLDIER	1941		koa	koa 
+1254	30-20-21-1	7281641476377621	Hawaiian	hawa1245	the weapons	WEAPONS	951		mea kaua	mea kaua 
+1255	30-20-22-1	7281641817402676	Hawaiian	hawa1245	the club	CLUB	1763		pālau	pālau 
+1256	30-20-222-1	7281641350721193	Hawaiian	hawa1245	the battle-axe	BATTLE-AXE	386		ko`i pāhoa	ko`i pāhoa 
+1257	30-20-23-1	728164117871772	Hawaiian	hawa1245	the sling	SLING	387		ma`a	ma`a 
+1258	30-20-24-1	7281641239086588	Hawaiian	hawa1245	the bow	BOW	994		pana	pana 
+1259	30-20-25-1	7281641217800704	Hawaiian	hawa1245	the arrow	ARROW	977		pua (2)	pua (2) 
+1260	30-20-26-1	7281641981587950	Hawaiian	hawa1245	the spear	SPEAR	945		ihe	ihe 
+1261	30-20-27-1	7281641750653592	Hawaiian	hawa1245	the sword	SWORD	1535		pahi kaua	pahi kaua 
+1262	30-20-28-1	7281641704731644	Hawaiian	hawa1245	the gun	GUN	1566		pū (2)	pū (2) 
+1263	30-20-31-1	7281641271947192	Hawaiian	hawa1245	the armour	ARMOUR	1061		`a`ahu kaua	`a`ahu kaua 
+1264	30-20-33-1	7281641382327555	Hawaiian	hawa1245	the helmet	HELMET	1680		mahiole	mahiole 
+1265	30-20-34-1	7281641663023811	Hawaiian	hawa1245	the shield	SHIELD	1064		pale	pale 
+1266	30-20-35-1	7281641461957667	Hawaiian	hawa1245	the fortress	FORTRESS	1938		pāpū	pāpū 
+1267	30-20-36-1	7281641758177208	Hawaiian	hawa1245	the tower	TOWER	1671		pū`o`a	pū`o`a 
+1268	30-20-41-1	7281641969590984	Hawaiian	hawa1245	the victory	VICTORY	783		lanakila	lanakila 
+1269	30-20-42-1	7281641604397057	Hawaiian	hawa1245	the defeat	DEFEAT	782		eo	eo 
+1270	30-20-43-1	7281641123892278	Hawaiian	hawa1245	the attack	ATTACK	722		pu`e	pu`e 
+1271	30-20-44-1	7281641749351577	Hawaiian	hawa1245	to defend	DEFEND	1330		kūpale	kūpale 
+1272	30-20-45-1	728164121937686	Hawaiian	hawa1245	to retreat	RETREAT	421		ne`ehope	ne`ehope 
+1273	30-20-46-1	7281641389846116	Hawaiian	hawa1245	to surrender	SURRENDER	1696		hā`awipio	hā`awipio 
+1274	30-20-47-1	7281641654667738	Hawaiian	hawa1245	the captive or prisoner	PRISONER	1072		pio	pio 
+1275	30-20-471-1	7281641737241742	Hawaiian	hawa1245	the guard	GUARD	1940		kia`i	kia`i 
+1276	30-20-48-1	7281641340205704	Hawaiian	hawa1245	the booty	BOOTY	1022		waiwai pio	waiwai pio 
+1277	30-20-49-1	7281641331314082	Hawaiian	hawa1245	the ambush	AMBUSH	65		hālua	hālua 
+1278	30-20-51-1	7281641237684066	Hawaiian	hawa1245	the fisherman	FISHERMAN	1858		lawai`a	lawai`a 
+1279	30-20-52-1	7281641604847773	Hawaiian	hawa1245	the fishhook	FISHHOOK	1074		makau	makau 
+1280	30-20-53-1	7281641456805669	Hawaiian	hawa1245	the fishing line	FISHING LINE	19		aho	aho 
+1281	30-20-54-1	7281641668170722	Hawaiian	hawa1245	the fishnet	FISHNET	388		`upena	`upena 
+1282	30-20-55-1	7281641720040633	Hawaiian	hawa1245	the fish trap	FISH TRAP	389		hīna`i	hīna`i 
+1283	30-20-56-1	7281641620125653	Hawaiian	hawa1245	the bait	BAIT	2013		maunu	maunu 
+1284	30-20-61-1	728164195057812	Hawaiian	hawa1245	to hunt	HUNT	1435		alualu	alualu 
+1285	30-20-62-1	7281641508168063	Hawaiian	hawa1245	to shoot	SHOOT	1172		kī (4)	kī (4) 
+1286	30-20-63-1	7281641869787793	Hawaiian	hawa1245	to miss	MISS (A TARGET)	161		hūhewa	hūhewa 
+1287	30-20-64-1	7281641462012908	Hawaiian	hawa1245	the trap	TRAP (PITFALL)	1075		`umiki	`umiki 
+1288	30-20-65-1	7281641462012908	Hawaiian	hawa1245	to trap	TRAP (CATCH)	1170		`umiki	`umiki 
+1289	30-21-11-1	7281641382787630	Hawaiian	hawa1245	the law	LAW	1062		kānāwai	kānāwai 
+1290	30-21-15-1	7281641542508795	Hawaiian	hawa1245	the court	COURT	1068		`aha	`aha 
+1291	30-12-013-1	728164147798823	Hawaiian	hawa1245	at	AT	1461		ma	ma 
+1292	30-12-013-2	7281641395024085	Hawaiian	hawa1245	at	AT	1461		i	i 
+1293	30-12-013-3	7281641828848712	Hawaiian	hawa1245	at	AT	1461		iā	iā 
+1294	30-21-16-1	7281641951905451	Hawaiian	hawa1245	to adjudicate	ADJUDICATE	1818		koho	koho 
+1295	30-21-17-1	7281641951905451	Hawaiian	hawa1245	the judgment	JUDGMENT	1067		koho	koho 
+1296	30-21-18-1	7281641278951232	Hawaiian	hawa1245	the judge	JUDGE	861		luna kānāwai	luna kānāwai 
+1297	30-21-21-1	7281641636619480	Hawaiian	hawa1245	the plaintiff	PLAINTIFF	2020		mea ho`opi`i	mea ho`opi`i 
+1298	30-21-22-1	7281641172412098	Hawaiian	hawa1245	the defendant	DEFENDANT	1034		mea ho`opi`i `ia	mea ho`opi`i `ia 
+1299	30-21-23-1	7281641342391030	Hawaiian	hawa1245	the witness	WITNESS	1144		hō`ike pa`a	hō`ike pa`a 
+1300	30-21-24-1	7281641401419346	Hawaiian	hawa1245	to swear	SWEAR	1939		ho`ohiki	ho`ohiki 
+1301	30-21-24-2	7515165292759482	Hawaiian	hawa1245	to swear	SWEAR	1939		kuea	kuea 
+1302	30-21-25-1	7281641268065205	Hawaiian	hawa1245	the oath	OATH	1712		`ōlelo ho`ohiki	`ōlelo ho`ohiki 
+1303	30-21-31-1	7281641710768364	Hawaiian	hawa1245	to accuse	ACCUSE	1814		ho`āhewa	ho`āhewa 
+1304	30-21-32-1	7281641196283977	Hawaiian	hawa1245	to condemn	CONDEMN	484		`āhewa	`āhewa 
+1305	30-21-33-1	7281641196283977	Hawaiian	hawa1245	to convict	CONVICT	983		`āhewa	`āhewa 
+1306	30-21-34-1	752203342345106	Hawaiian	hawa1245	to acquit	ACQUIT	988		ho‘oku‘u	ho‘oku‘u 
+1307	30-21-35-1	7281641710768364	Hawaiian	hawa1245	guilty	GUILTY	1682		ho`āhewa	ho`āhewa 
+1308	30-21-36-1	7281641618511334	Hawaiian	hawa1245	innocent	INNOCENT	90		hewa`ole	hewa`ole 
+1309	30-21-37-1	7281641722903009	Hawaiian	hawa1245	the penalty or punishment	PUNISHMENT	390		ho`opa`i	ho`opa`i 
+1310	30-21-38-1	728164121189788	Hawaiian	hawa1245	the fine	FINE (PENALTY)	218		uku ho`opa`i	uku ho`opa`i 
+1311	30-21-39-1	7281641369962915	Hawaiian	hawa1245	the prison	PRISON	1281		hale pa`ahao	hale pa`ahao 
+1312	30-21-42-1	7281641748791406	Hawaiian	hawa1245	the murder	MURDER	845		pepehi kanaka	pepehi kanaka 
+1313	30-21-43-1	7281641221615182	Hawaiian	hawa1245	the adultery	ADULTERY	902		moekolohe	moekolohe 
+1314	30-21-44-1	7281641123892278	Hawaiian	hawa1245	the rape	RAPE	953		pu`e	pu`e 
+1315	30-21-46-1	7281641275469220	Hawaiian	hawa1245	the arson	ARSON	1889		puhi ahi	puhi ahi 
+1316	30-21-47-1	7281641426313624	Hawaiian	hawa1245	the perjury	PERJURY	1792		hō`ike wahahe`e	hō`ike wahahe`e 
+1317	30-21-51-1	7281641490522187	Hawaiian	hawa1245	to steal	STEAL	713		`aihue	`aihue 
+1318	30-21-52-1	7281641490522187	Hawaiian	hawa1245	the thief	THIEF	1160		`aihue	`aihue 
+1319	30-22-11-1	7281641509799966	Hawaiian	hawa1245	the religion	RELIGION	661		ho`omana	ho`omana 
+1320	30-22-12-1	7281641503767563	Hawaiian	hawa1245	the god	DEITY	3231		akua	akua 
+1321	30-22-13-1	7281641361001061	Hawaiian	hawa1245	the temple	TEMPLE	911		heiau	heiau 
+1322	30-22-15-1	7281641455890434	Hawaiian	hawa1245	the sacrifice	SACRIFICE	1103		mōhai	mōhai 
+1323	30-22-16-1	7281641509799966	Hawaiian	hawa1245	to worship	WORSHIP	257		ho`omana	ho`omana 
+1324	30-22-17-1	7281641602709609	Hawaiian	hawa1245	to pray	PRAY	24		pule	pule 
+1325	30-22-18-1	7281641823226542	Hawaiian	hawa1245	the priest	PRIEST	852		kahuna	kahuna 
+1326	30-22-19-1	7281641570956764	Hawaiian	hawa1245	holy	HOLY	1702		hemolele	hemolele 
+1327	30-22-22-1	7281641254409853	Hawaiian	hawa1245	to preach	PREACH	304		ha`i`ōlelo	ha`i`ōlelo 
+1328	30-22-23-1	7281641707877851	Hawaiian	hawa1245	to bless	BLESS	391		ho`opōmaika`i	ho`opōmaika`i 
+1329	30-22-24-1	7281641231390135	Hawaiian	hawa1245	to curse	CURSE	8		kūamuamu	kūamuamu 
+1330	30-22-26-1	7281641939148131	Hawaiian	hawa1245	to fast	ABSTAIN FROM FOOD	303		waiho `ai	waiho `ai 
+1331	30-22-31-1	7281641500457755	Hawaiian	hawa1245	the heaven	HEAVEN	1565		lani	lani 
+1332	30-22-32-1	728164179804231	Hawaiian	hawa1245	the hell	HELL	878		kehena	kehena 
+1333	30-22-35-1	7281641511891606	Hawaiian	hawa1245	the demon	DEMON	1973		kiapolō	kiapolō 
+1334	30-22-35-2	75151651305674411	Hawaiian	hawa1245	the demon	DEMON	1973		kaimoni	kaimoni 
+1335	30-22-37-1	7281641294737135	Hawaiian	hawa1245	the idol	IDOL	1945		ki`i akua	ki`i akua 
+1336	30-22-42-1	7281641421181886	Hawaiian	hawa1245	the magic	MAGIC	392		ho`okalakupua	ho`okalakupua 
+1337	30-22-43-1	7281641847723941	Hawaiian	hawa1245	the sorcerer or witch	MAGICIAN	2137		kupua	kupua 
+1338	30-22-44-1	728164192922877	Hawaiian	hawa1245	the fairy or elf	ELF OR FAIRY	3206		Menehune	Menehune 
+1339	30-22-45-1	7281641987556650	Hawaiian	hawa1245	the ghost	GHOST	1175		lapu	lapu 
+1340	30-22-47-1	7281641844830342	Hawaiian	hawa1245	the omen	OMEN	107		hō`ailona	hō`ailona 
+1341	30-23-1-1	7281641807079636	Hawaiian	hawa1245	the radio	RADIO	1315		lekiō	lekiō 
+1342	30-23-11-1	7281641763299173	Hawaiian	hawa1245	the television	TELEVISION	1788		kīwī	kīwī 
+1343	30-23-12-1	7281641716150763	Hawaiian	hawa1245	the telephone	TELEPHONE	1379		kelepona	kelepona 
+1344	30-23-135-1	7281641612219875	Hawaiian	hawa1245	the motorcycle	MOTORCYCLE	638		mokokaikala	mokokaikala 
+1345	30-23-14-1	7281641391406078	Hawaiian	hawa1245	the car	CAR	1111		ka`a	ka`a 
+1346	30-23-15-1	7281641205299025	Hawaiian	hawa1245	the bus	BUS	1070		ka`a `ōhua	ka`a `ōhua 
+1347	30-23-16-1	72816412302066	Hawaiian	hawa1245	the airplane	AIRPLANE	1597		mokulele	mokulele 
+1348	30-23-17-1	7281641196464492	Hawaiian	hawa1245	the electricity	ELECTRICITY	59		uila	uila 
+1349	30-23-175-1	72816414953251	Hawaiian	hawa1245	the battery	BATTERY	662		iho (3)	iho (3) 
+1350	30-23-2-1	7281641515986496	Hawaiian	hawa1245	the hospital	HOSPITAL	616		haukapila	haukapila 
+1351	30-23-21-1	7281641732555018	Hawaiian	hawa1245	the nurse	NURSE	1104		kahu ma`i	kahu ma`i 
+1352	30-23-22-1	7281641650352565	Hawaiian	hawa1245	the pill or tablet	PILL	395		huaale	huaale 
+1353	30-23-23-1	7281641149149074	Hawaiian	hawa1245	the injection	INJECTION	1805		pahu kui	pahu kui 
+1354	30-23-5-1	7281641130071305	Hawaiian	hawa1245	the tap/faucet	FAUCET	1488		kī wai	kī wai 
+1355	30-23-51-1	7281641916107284	Hawaiian	hawa1245	the sink	SINK (BASIN)	915		kinika	kinika 
+1356	30-23-52-1	7281641967401402	Hawaiian	hawa1245	the toilet	TOILET	219		lua (2)	lua (2) 
+1357	30-23-53-1	7281641452998764	Hawaiian	hawa1245	the mattress	MATTRESS	105		pela moe	pela moe 
+1358	30-23-3-1	7281641250082463	Hawaiian	hawa1245	the government	GOVERNMENT	815		aupuni	aupuni 
+1359	30-23-31-1	7281641374678237	Hawaiian	hawa1245	the president	PRESIDENT	899		pelekikena	pelekikena 
+1360	30-23-32-1	7281641710463332	Hawaiian	hawa1245	the minister	MINISTER	486		kuhina	kuhina 
+1361	30-23-33-1	728164161062530	Hawaiian	hawa1245	the police	POLICE	656		māka`i	māka`i 
+1362	30-23-34-1	728164189002787	Hawaiian	hawa1245	the driver's license	DRIVER'S LICENSE	599		laikini kalaiwa ka`a	laikini kalaiwa ka`a 
+1363	30-23-37-1	7281641726904893	Hawaiian	hawa1245	the crime	CRIME	1066		kalaima	kalaima 
+1364	30-23-38-1	7281641238070854	Hawaiian	hawa1245	the election	ELECTION	240		koho pāloka	koho pāloka 
+1365	30-23-4-1	7281641830099632	Hawaiian	hawa1245	the post/mail	MAIL	167		leka	leka 
+1366	30-23-41-1	7281641186131529	Hawaiian	hawa1245	the postage stamp	POSTAGE STAMP	596		po`oleka	po`oleka 
+1367	30-23-42-1	7281641830099632	Hawaiian	hawa1245	the letter	LETTER	1612		leka	leka 
+1368	30-23-44-1	728164128023629	Hawaiian	hawa1245	the bank	BANK	1284		panakō	panakō 
+1369	30-23-54-1	7281641219877109	Hawaiian	hawa1245	the tin/can	CAN	1051		kini	kini 
+1370	30-23-55-1	7281641141289216	Hawaiian	hawa1245	the screw	SCREW	1802		kolū	kolū 
+1371	30-23-555-1	728164142520418	Hawaiian	hawa1245	the screwdriver	SCREWDRIVER	836		kolūkalaiwa	kolūkalaiwa 
+1372	30-23-56-1	7281641328070816	Hawaiian	hawa1245	the bottle	BOTTLE	1321		`ōmole	`ōmole 
+1373	30-23-565-1	7281641218958381	Hawaiian	hawa1245	the candy/sweets	CANDY	874		kanakē	kanakē 
+1374	30-23-24-1	728164180508663	Hawaiian	hawa1245	the spectacles/glasses	SPECTACLES	1898		makaaniani	makaaniani 
+1375	30-23-57-1	7281641653149187	Hawaiian	hawa1245	the plastic	PLASTIC	654		`ea	`ea 
+1376	30-23-575-1	7281641341389371	Hawaiian	hawa1245	the bomb	BOMB	1804		pōkā pahū	pōkā pahū 
+1377	30-23-58-1	7281641476924875	Hawaiian	hawa1245	the workshop	WORKSHOP	1677		wahi hana	wahi hana 
+1378	30-23-59-1	7281641572688694	Hawaiian	hawa1245	the cigarette	CIGARETTE	969		kikaliki	kikaliki 
+1379	30-23-61-1	7281641895606478	Hawaiian	hawa1245	the calendar	CALENDAR	1967		`alemanaka	`alemanaka 
+1380	30-23-61-2	75151651605305504	Hawaiian	hawa1245	the calendar	CALENDAR	1967		alemamaka	alemamaka 
+1381	30-23-62-1	728164195338569	Hawaiian	hawa1245	the film/movie	MOVIE	216		ki`i `oni`oni	ki`i `oni`oni 
+1382	30-23-63-1	7281641134028940	Hawaiian	hawa1245	the music	MUSIC	642		mele	mele 
+1383	30-23-63-2	756911519429479	Hawaiian	hawa1245	the music	MUSIC	642		puolo	puolo 
+1384	30-23-64-1	7281641134028940	Hawaiian	hawa1245	the song	SONG	1096		mele	mele 
+1385	30-23-6-1	7281641357903124	Hawaiian	hawa1245	the newspaper	NEWSPAPER	1298		nūpepa	nūpepa 
+1386	30-23-385-1	7281641290723404	Hawaiian	hawa1245	the address	ADDRESS	591		helu wahi	helu wahi 
+1387	30-23-39-1	7281641242216506	Hawaiian	hawa1245	the number	NUMBER	1356		helu	helu 
+1388	30-23-155-1	7281641970333818	Hawaiian	hawa1245	the train	TRAIN	900		ka`aahi	ka`aahi 
+1389	30-23-36-1	7281641792249743	Hawaiian	hawa1245	the birth certificate	BIRTH CERTIFICATE	397		palapala hānau	palapala hānau 
+1390	30-23-18-1	7281641203720077	Hawaiian	hawa1245	to brake	BRAKE	966		nahā	nahā 
+1391	30-23-195-1	7281641855691010	Hawaiian	hawa1245	the petroleum	PETROLEUM	650		kakalina	kakalina 
+1392	30-23-185-1	7281641343888206	Hawaiian	hawa1245	the motor	MOTOR	110		`enekini	`enekini 
+1393	30-23-19-1	728164149558729	Hawaiian	hawa1245	the machine	MACHINE	144		mīkini	mīkini 
+1394	30-23-13-1	7281641870875121	Hawaiian	hawa1245	the bicycle	BICYCLE	747		paikikala	paikikala 
+1395	30-23-395-1	7281641962054654	Hawaiian	hawa1245	the street	STREET	1362		alanui	alanui 
+1396	30-19-445-1	7281641909080154	Hawaiian	hawa1245	to liberate	LIBERATE	37		ho`oku`u	ho`oku`u 
+1397	30-19-565-1	7281641916791055	Hawaiian	hawa1245	to invite	INVITE	1611		kono	kono 
+1398	30-23-35-1	7281641816714698	Hawaiian	hawa1245	the license plate	LICENSE PLATE	1790		laikini ka`a	laikini ka`a 
+1399	30-23-43-1	7281641176071540	Hawaiian	hawa1245	the postcard	POSTCARD	1497		kāleka po`oleka	kāleka po`oleka 
+1400	30-24-02-1	7281641957951921	Hawaiian	hawa1245	to become	BECOME	1990		lilo	lilo 
+1401	30-24-03-1	7281641929858203	Hawaiian	hawa1245	without	WITHOUT	1478		`ole	`ole 
+1402	30-24-13-1	7281641259522677	Hawaiian	hawa1245	same	SAME	200		like	like 
+1403	30-24-06-1	7281641929858203	Hawaiian	hawa1245	not	NOT	1240		`ole	`ole 
+1404	30-24-07-1	7281641321833488	Hawaiian	hawa1245	this	THIS	1214		kēia	kēia 
+1405	30-24-08-1	7281641149479636	Hawaiian	hawa1245	that	THAT	78		kēlā	kēlā 
+1406	30-24-08-2	7281641484835321	Hawaiian	hawa1245	that	THAT	78		kēnā	kēnā 
+1407	30-24-09-1	7281641505477489	Hawaiian	hawa1245	here	HERE	136		`ane`i	`ane`i 
+1408	30-24-1-1	728164132065678	Hawaiian	hawa1245	there	THERE	1937		laila	laila 
+1409	30-24-11-1	7281641491721642	Hawaiian	hawa1245	other	OTHER	197		`ē a`e	`ē a`e 
+1410	30-4-493-1	7281641421470580	Hawaiian	hawa1245	the vagina	VAGINA	1836		kohe	kohe 
+1411	30-23-9-1	75151652811637888	Hawaiian	hawa1245	the tea	TEA	1373		kī (1)	kī (1) 
+1412	30-23-91-1	7281641146854372	Hawaiian	hawa1245	the coffee	COFFEE	1299		kope (2)	kope (2) 
+1413	30-24-12-1	7281641525048584	Hawaiian	hawa1245	next	NEXT	1354		a`e	a`e 
+1414	30-3-862-1	728164192164119	Hawaiian	hawa1245	the coyote	COYOTE	912		kaioke	kaioke 
+1415	30-3-863-1	7281641749097034	Hawaiian	hawa1245	the hare	HARE	1190		lāpaki	lāpaki 
+1416	30-3-865-1	7281641413701657	Hawaiian	hawa1245	the quail	QUAIL	1893		manu kapalulu	manu kapalulu 
+1417	30-3-866-1	7281641497889494	Hawaiian	hawa1245	the raccoon	RACCOON	828		lakuna	lakuna 
+1418	30-3-869-1	7281641339683855	Hawaiian	hawa1245	the squirrel	SQUIRREL	1628		kiulela	kiulela 
+1419	30-3-871-1	7281641365444831	Hawaiian	hawa1245	the reindeer/caribou	REINDEER	1876		leinekia	leinekia 
+1420	30-3-872-1	728164146601709	Hawaiian	hawa1245	the elk/moose	ELK	1772		`ēleka	`ēleka 
+1421	30-3-873-1	7281641102753547	Hawaiian	hawa1245	the beaver	BEAVER	1194		piwa (1)	piwa (1) 
+1422	30-3-873-2	756835398881128	Hawaiian	hawa1245	the beaver	BEAVER	1194		peawa	peawa 
+1423	30-10-79-1	7281641995846192	Hawaiian	hawa1245	the sledge/sled	SLED	16		hōlua	hōlua 
+1424	30-8-29-1	7281641900393123	Hawaiian	hawa1245	the lasso	LASSO	340		kaula ho`ohei	kaula ho`ohei 
+1425	30-1-771-1	7281641512026149	Hawaiian	hawa1245	the arctic lights	ARCTIC LIGHTS	261		`olili`ula	`olili`ula 
+1426	30-4-465-1	7281641513152756	Hawaiian	hawa1245	the sinew or tendon	TENDON	1137		a`ahuki	a`ahuki 
+1427	30-7-67-1	7281641716752953	Hawaiian	hawa1245	to tan	TAN	247		hana `ili	hana `ili 
+1428	30-22-51-1	7281641558557041	Hawaiian	hawa1245	the initiation ceremony	INITIATION CEREMONY	1946		komo pae	komo pae 
+1429	30-3-8112-1	7281641826218918	Hawaiian	hawa1245	the body louse	BODY LOUSE	311		`uku	`uku 
+1430	30-4-494-1	7281641885429132	Hawaiian	hawa1245	the vulva	VULVA	1837		lehelehe	lehelehe 
+1431	30-9-93-1	7281641618189083	Hawaiian	hawa1245	the whetstone	WHETSTONE	295		hoana	hoana 
+1432	30-7-65-1	7281641550564863	Hawaiian	hawa1245	the camp	CAMP	1105		moana (2)	moana (2) 
+1433	30-8-28-1	7281641521341411	Hawaiian	hawa1245	the digging stick (=yamstick)	DIGGING STICK	339		`ō	`ō 
+1434	30-3-597-1	7281641892232548	Hawaiian	hawa1245	the cormorant	CORMORANT	840		kakalakeke	kakalakeke 
+1435	30-3-833-1	7281641913899823	Hawaiian	hawa1245	the prawns or shrimp	PRAWNS	238		`ōpae	`ōpae 
+1436	30-3-834-1	7281641397905319	Hawaiian	hawa1245	the termites	TERMITE	883		huhu	huhu 
+1437	30-3-835-1	728164183221913	Hawaiian	hawa1245	the tick	TICK	1527		`uku hipa	`uku hipa 
+1438	30-9-87-1	7281641706979824	Hawaiian	hawa1245	the boomerang	BOOMERANG	135		ku`uku`u	ku`uku`u 
+1439	30-3-88-1	7281641879700895	Hawaiian	hawa1245	the kangaroo	KANGAROO	164		kanakalū	kanakalū 
+1440	30-3-89-1	7281641987543880	Hawaiian	hawa1245	the anteater	ANTEATER	181		`ainaonao	`ainaonao 
+1441	30-3-598-1	7281641193270168	Hawaiian	hawa1245	the toucan	TOUCAN	308		tūkana	tūkana 
+1442	30-3-9-1	7281641975057768	Hawaiian	hawa1245	the jaguar	JAGUAR	1250		iākua	iākua 
+1443	30-7-66-1	7281641320964162	Hawaiian	hawa1245	the hammock	HAMMOCK	2019		moelewa	moelewa 
+1444	30-8-911-1	7281641329615863	Hawaiian	hawa1245	the millet or sorghum	MILLET	931		mileka	mileka 
+1445	30-3-913-1	7281641550828964	Hawaiian	hawa1245	the chameleon	CHAMELEON	1555		kameleona	kameleona 
+1446	30-9-91-1	7281641617559859	Hawaiian	hawa1245	the peg	PEG	361		kui (2)	kui (2) 
+1447	30-10-58-1	7281641990226005	Hawaiian	hawa1245	to go or return home	RETURN HOME	142		ho`i	ho`i 
+1448	30-3-917-1	7281641861060715	Hawaiian	hawa1245	the buffalo	BUFFALO	934		pāpulō	pāpulō 
+1449	30-1-411-1	7281641803615341	Hawaiian	hawa1245	the savanna	SAVANNA	260		sawana	sawana 
+1450	30-1-831-1	7281641988067121	Hawaiian	hawa1245	the steam	STEAM	1193		māhu	māhu 
+1451	30-2-4561-1	7281641464011696	Hawaiian	hawa1245	the older sibling	OLDER SIBLING	405		hānau mua	hānau mua 
+1452	30-2-4562-1	7281641631018906	Hawaiian	hawa1245	the younger sibling	YOUNGER SIBLING	427		pōki`i	pōki`i 
+1453	30-2-4711-1	7281641604942980	Hawaiian	hawa1245	the grandparents	GRANDPARENTS	305		kūpuna	kūpuna 
+1454	30-2-5-1	7281641307758226	Hawaiian	hawa1245	the grandchild	GRANDCHILD	1617		mo`opuna	mo`opuna 
+1455	30-2-541-1	7281641323976150	Hawaiian	hawa1245	the sibling’s child	SIBLING'S CHILD	173		`ohana keiki	`ohana keiki 
+1456	30-2-622-1	7281641886566468	Hawaiian	hawa1245	the parents-in-law	PARENTS-IN-LAW	306		makuahūnōai	makuahūnōai 
+1457	30-2-6411-1	7281641493694529	Hawaiian	hawa1245	the child-in-law	CHILD-IN-LAW	1060		hūnōna	hūnōna 
+1458	30-2-6412-1	7281641839934110	Hawaiian	hawa1245	the sibling-in-law	SIBLING-IN-LAW	1832		ko`eke	ko`eke 
+1459	30-2-931-1	7281641383499742	Hawaiian	hawa1245	he	HE	1211		ia	ia 
+1460	30-2-932-1	7281641383499742	Hawaiian	hawa1245	she	SHE	1834		ia	ia 
+1461	30-2-933-1	7281641383499742	Hawaiian	hawa1245	it	IT	169		ia	ia 
+1462	30-4-741-1	7281641296272457	Hawaiian	hawa1245	the life	LIFE	210		ola	ola 
+1463	30-4-771-1	7281641865994614	Hawaiian	hawa1245	the carcass	CARCASS	1770		kupapa`u	kupapa`u 
+1464	30-4-844-1	7281641138352817	Hawaiian	hawa1245	the disease	DISEASE	1986		ma`i	ma`i 
+1465	30-7-232-1	7281641677335949	Hawaiian	hawa1245	the padlock	PADLOCK	336		laka	laka 
+1466	30-8-121-1	7281641803861050	Hawaiian	hawa1245	the paddy	PADDY FIELD	140		lo`i	lo`i 
+1467	30-11-29-1	7281641870243543	Hawaiian	hawa1245	to damage	DAMAGE	1116		`ino (2)	`ino (2) 
+1468	30-12-081-1	7281641841540580	Hawaiian	hawa1245	above	ABOVE	1741		luna	luna 
+1469	30-13-231-1	728164143230493	Hawaiian	hawa1245	the piece	PIECE	594		`āpana	`āpana 
+1470	30-13-331-1	7281641401169181	Hawaiian	hawa1245	alone	ALONE	1964		ho`okahi	ho`okahi 
+1471	30-14-251-1	7281641811037142	Hawaiian	hawa1245	the beginning	BEGINNING	1557		ho`omaka `ana	ho`omaka `ana 
+1472	30-14-411-1	7281641951849634	Hawaiian	hawa1245	the day(2)	DAY (NOT NIGHT)	1225		lā (3)	lā (3) 
+1473	30-22-131-1	728164126735690	Hawaiian	hawa1245	the church	CHURCH	1349		hale pule	hale pule 
+1474	30-22-132-1	7281641162425198	Hawaiian	hawa1245	the mosque	MOSQUE	1603		mokeko	mokeko 
+1475	30-24-14-1	7281641929858203	Hawaiian	hawa1245	nothing	NOTHING	687		`ole	`ole 
+1476	30-4-7501-1	7281641783027420	Hawaiian	hawa1245	dead	DEAD	1625		make	make 
+1477	30-4-8541-1	7281641975787328	Hawaiian	hawa1245	to scratch	SCRATCH	1436		wa`u	wa`u 
+1478	30-9-111-1	7281641983616973	Hawaiian	hawa1245	to make	MAKE	734		hana	hana 
+1479	30-4-431-1	7281641522873148	Hawaiian	hawa1245	the belly	BELLY	1251		`ōpū	`ōpū 
+1480	30-9-311-1	7281641995427322	Hawaiian	hawa1245	to wipe	WIPE	1454		kāwele	kāwele 
+1481	30-1-775-1	7281641964894750	Hawaiian	hawa1245	to freeze	FREEZE	1431		ho`opa`ahau	ho`opa`ahau 
+1482	30-24-04-1	7281641255155853	Hawaiian	hawa1245	with	WITH	1340		me	me 
+1483	30-12-012-1	7281641423663681	Hawaiian	hawa1245	in	IN	1460		loko	loko 
+1484	30-1-99905-1	75697951006928	Hawaiian	hawa1245	the jade or jadeite				pounamu	pounamu 
+1485	30-2-99916-1	75151651661385763	Hawaiian	hawa1245	the spouse				`epukane	`epukane 
+1486	30-3-99903-1	756844618734138	Hawaiian	hawa1245	the amphibian				pepe`ekua	pepe`ekua 
+1487	30-3-99912-1	75151653867400815	Hawaiian	hawa1245	the codfish				pakaliao	pakaliao 
+1488	30-3-99923-1	756812196740082	Hawaiian	hawa1245	the kingfisher				pakūka`ā	pakūka`ā 
+1489	30-3-99925-1	7551758297494562	Hawaiian	hawa1245	the Maine lobster				`ōmā	`ōmā 
+1490	30-3-99929-1	75671333661306	Hawaiian	hawa1245	the mole				mio`awi	mio`awi 
+1491	30-3-99937-1	756344714840254	Hawaiian	hawa1245	the prairie dog				kokei`a	kokei`a 
+1492	30-3-99939-1	75694950591662	Hawaiian	hawa1245	the skunk				ponī	ponī 
+1493	30-4-99904-1	756722476052986	Hawaiian	hawa1245	the cholesterol				na`okoko	na`okoko 
+1494	30-4-99908-1	756910780689080	Hawaiian	hawa1245	the metabolism				pūnao	pūnao 
+1495	30-5-99903-1	75151652243542973	Hawaiian	hawa1245	the soy sauce				koiū	koiū 
+1496	30-5-9991-1	75151651148251046	Hawaiian	hawa1245	the cream				kalima	kalima 
+1497	30-5-99911-1	756020527089342	Hawaiian	hawa1245	the Japanese fish cake				kamapoko	kamapoko 
+1498	30-5-99914-1	756714944595382	Hawaiian	hawa1245	the mochi				mōchī	mōchī 
+1499	30-5-99915-1	7552359797599563	Hawaiian	hawa1245	the ramen noodles				kaimine	kaimine 
+1500	30-5-99916-1	756721263916681	Hawaiian	hawa1245	the rice ball or musubi				musubī	musubī 
+1501	30-5-9992-1	756101986133602	Hawaiian	hawa1245	the tofu or bean curd				tōfū	tōfū 
+1502	30-6-9991-1	75151651394113672	Hawaiian	hawa1245	the style or fashion				kaila	kaila 
+1503	30-8-99902-1	75151651260022438	Hawaiian	hawa1245	the amomum				`amomo	`amomo 
+1504	30-8-99905-1	75151653310693830	Hawaiian	hawa1245	the apple				poma	poma 
+1505	30-8-99906-1	75151651643920494	Hawaiian	hawa1245	the ash tree				`ōlena	`ōlena 
+1506	30-8-99908-1	7568132285619	Hawaiian	hawa1245	the broccoli				palakalī	palakalī 
+1507	30-8-99912-1	75151652633071326	Hawaiian	hawa1245	the Chinese rice flower				mikilana	mikilana 
+1508	30-8-99955-1	75151651911766424	Hawaiian	hawa1245	the whip				huipa	huipa 
+1509	30-9-99907-1	75151651129310978	Hawaiian	hawa1245	the deck				`oneki	`oneki 
+1510	30-9-99918-1	75151651240071036	Hawaiian	hawa1245	the scraper				kalepa	kalepa 
+1511	30-9-99932-1	75151652748395843	Hawaiian	hawa1245	to go away				kōwē	kōwē 
+1512	30-11-99905-1	75151653227721319	Hawaiian	hawa1245	the string instrument				pila	pila 
+1513	30-13-99904-1	756257984431494	Hawaiian	hawa1245	the centigram				kenikalame	kenikalame 
+1514	30-13-99905-1	754209168831850	Hawaiian	hawa1245	the yard				`īā	`īā 
+1515	30-14-99901-1	75151652251545785	Hawaiian	hawa1245	Chinese New Year				konohī	konohī 
+1516	30-14-99903-1	75151652857151511	Hawaiian	hawa1245	New Year				nūia	nūia 
+1517	30-18-99902-1	756445419946365	Hawaiian	hawa1245	the hieroglyph or hieroglyphics				lalinoka	lalinoka 
+1518	30-18-99905-1	756547999330578	Hawaiian	hawa1245	the upper case or capital letter				ma`aka	ma`aka 
+1519	30-18-99908-1	75151652382521956	Hawaiian	hawa1245	to chat				keaka	keaka 
+1520	30-18-9991-1	75151653674659004	Hawaiian	hawa1245	to spell				pela	pela 
+1521	30-19-99902-1	75151652473757560	Hawaiian	hawa1245	Australia				Nuhōlani	Nuhōlani 
+1522	30-19-99903-1	75151653810429438	Hawaiian	hawa1245	China				Pākē	Pākē 
+1523	30-19-99904-1	75151651335213674	Hawaiian	hawa1245	Egypt				`Aikupika	`Aikupika 
+1524	30-19-99906-1	75151651316402303	Hawaiian	hawa1245	Greece				Helene	Helene 
+1525	30-19-99909-1	75151652127657217	Hawaiian	hawa1245	Rarotonga				Lalako`a	Lalako`a 
+1526	30-19-99911-1	75151653202898559	Hawaiian	hawa1245	Spain				Paniolo	Paniolo 
+1527	30-19-99911-2	75151652622735904	Hawaiian	hawa1245	Spain				Kepania	Kepania 
+1528	30-19-9992-1	75151651135064589	Hawaiian	hawa1245	the fool				kamipulu	kamipulu 
+1529	30-19-99924-1	75151651979576086	Hawaiian	hawa1245	the hermit				`elemika	`elemika 
+1530	30-19-99925-1	7552230564763054	Hawaiian	hawa1245	the hockey				hōkē	hōkē 
+1531	30-19-99926-1	7515165288367669	Hawaiian	hawa1245	the layman				laimana	laimana 
+1532	30-19-99933-1	75151651529764712	Hawaiian	hawa1245	the small change				`ukeni	`ukeni 
+1533	30-19-99935-1	755214715353965	Hawaiian	hawa1245	the sport				ha`uki	ha`uki 
+1534	30-19-99937-1	75151653518553760	Hawaiian	hawa1245	the vote or ballot or pole				pāloka	pāloka 
+1535	30-19-99942-1	75691448997971	Hawaiian	hawa1245	to retire				rītaia	rītaia 
+1536	30-19-99943-1	75151652979205237	Hawaiian	hawa1245	to say goodbye				kupae	kupae 
+1537	30-20-99906-1	75151652773081497	Hawaiian	hawa1245	the warship				manuā	manuā 
+1538	30-22-99901-1	75151652341355216	Hawaiian	hawa1245	Christ				Kristo	Kristo 
+1539	30-22-99903-1	75151653278495899	Hawaiian	hawa1245	Easter				Pakoa	Pakoa 
+1540	30-22-99904-1	75151653739623713	Hawaiian	hawa1245	the bishop				pīhopa	pīhopa 
+1541	30-22-99907-1	75151651627951208	Hawaiian	hawa1245	the hymn				hīmeni	hīmeni 
+1542	30-22-99908-1	75151651571731835	Hawaiian	hawa1245	the lent				Kalema	Kalema 
+1543	30-22-9991-1	75151652827341265	Hawaiian	hawa1245	the rosary				lōkālio	lōkālio 
+1544	30-3-99944-1	7541813129496220	Hawaiian	hawa1245	the chipmunk				`akuiki	`akuiki 

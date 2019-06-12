@@ -1,0 +1,1589 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	12-1-1-1	72181920638650235	Dutch	dutc1256	the world	WORLD	965		wereld	wereld 
+2	12-1-21-1	72181920189967087	Dutch	dutc1256	the land	LAND	626		land	land 
+3	12-1-212-1	72181920781775959	Dutch	dutc1256	the soil	EARTH (SOIL)	1228		bodem	bodem 
+4	12-1-213-1	72181920148349588	Dutch	dutc1256	the dust	DUST	2		stof (1)	stof (1) 
+5	12-1-214-1	72181920932085874	Dutch	dutc1256	the mud	MUD	640		modder	modder 
+6	12-1-215-1	72181920700791591	Dutch	dutc1256	the sand	SAND	671		zand	zand 
+7	12-1-22-1	72181920121058476	Dutch	dutc1256	the mountain or hill	MOUNTAIN OR HILL	2118		berg	berg 
+8	12-1-22-2	72181920489408821	Dutch	dutc1256	the mountain or hill	MOUNTAIN OR HILL	2118		heuvel	heuvel 
+9	12-1-222-1	72181920764082778	Dutch	dutc1256	the cliff or precipice	PRECIPICE	618		klif	klif 
+10	12-1-23-1	72181920415437984	Dutch	dutc1256	the plain	PLAIN	652		vlakte	vlakte 
+11	12-1-24-1	7218192031505143	Dutch	dutc1256	the valley	VALLEY	921		vallei	vallei 
+12	12-1-24-2	72181920325500396	Dutch	dutc1256	the valley	VALLEY	921		dal	dal 
+13	12-1-25-1	72181920833072587	Dutch	dutc1256	the island	ISLAND	622		eiland	eiland 
+14	12-1-26-1	72181920968877708	Dutch	dutc1256	the mainland	MAINLAND	166		vasteland	vasteland 
+15	12-1-27-1	72181920442858156	Dutch	dutc1256	the shore	SHORE	113		oever	oever 
+16	12-1-28-1	72181920344789019	Dutch	dutc1256	the cave	CAVE	1155		grot	grot 
+17	12-1-31-1	72181920580604126	Dutch	dutc1256	the water	WATER	948		water	water 
+18	12-1-32-1	72181920499158014	Dutch	dutc1256	the sea	SEA	1474		zee	zee 
+19	12-1-322-1	72181920878218931	Dutch	dutc1256	calm	CALM	258		kalm	kalm 
+20	12-1-322-2	7424613898751702	Dutch	dutc1256	calm	CALM	258		rustig	rustig 
+21	12-1-323-1	72181920557155350	Dutch	dutc1256	rough(2)	ROUGH (OF SEA)	259		ruw	ruw 
+22	12-1-324-1	72181920572759556	Dutch	dutc1256	the foam	FOAM	1768		schuim	schuim 
+23	12-1-329-1	72181920696029275	Dutch	dutc1256	the ocean	OCEAN	645		oceaan	oceaan 
+24	12-1-33-1	72181920482634506	Dutch	dutc1256	the lake	LAKE	624		meer (1)	meer (1) 
+25	12-1-34-1	72181920537218984	Dutch	dutc1256	the bay	BAY	663		baai	baai 
+26	12-1-341-1	72181920674240965	Dutch	dutc1256	the lagoon	LAGOON	623		lagune	lagune 
+27	12-1-342-1	72181920536664408	Dutch	dutc1256	the reef	REEF	660		rif	rif 
+28	12-1-343-1	72181920934729794	Dutch	dutc1256	the cape	CAPE	1662		kaap	kaap 
+29	12-1-35-1	72181920874351586	Dutch	dutc1256	the wave	WAVE	978		golf	golf 
+30	12-1-352-1	7218192083235582	Dutch	dutc1256	the tide	TIDE	891		getij(de)	getij(de) 
+31	12-1-353-1	72181920275809293	Dutch	dutc1256	the low tide	LOW TIDE	1026		eb	eb 
+32	12-1-354-1	72181920215572916	Dutch	dutc1256	the high tide	HIGH TIDE	613		vloed	vloed 
+33	12-1-36-1	72181920846803699	Dutch	dutc1256	the river or stream	RIVER	666		rivier	rivier 
+34	12-1-36-2	72181920599718144	Dutch	dutc1256	the river or stream	RIVER	666		stroom	stroom 
+35	12-1-362-1	72181920339742711	Dutch	dutc1256	the whirlpool	WHIRLPOOL	1982		draaikolk	draaikolk 
+36	12-1-37-1	72181920173779121	Dutch	dutc1256	the spring or well	SPRING OR WELL	2144		bron	bron 
+37	12-1-38-1	7218192062948326	Dutch	dutc1256	the swamp	SWAMP	1145		moeras	moeras 
+38	12-1-39-1	72181920433820910	Dutch	dutc1256	the waterfall	WATERFALL	943		waterval	waterval 
+39	12-1-41-1	72181920178827236	Dutch	dutc1256	the woods or forest	FOREST	420		bos	bos 
+40	12-1-41-2	72181920536147434	Dutch	dutc1256	the woods or forest	FOREST	420		woud	woud 
+41	12-1-43-1	72181920609525086	Dutch	dutc1256	the wood	WOOD	1803		hout	hout 
+42	12-1-44-1	72181920710002386	Dutch	dutc1256	the stone or rock	STONE OR ROCK	2125		rots	rots 
+43	12-1-44-2	72181920154916585	Dutch	dutc1256	the stone or rock	STONE OR ROCK	2125		steen	steen 
+44	12-1-45-1	72181920588426696	Dutch	dutc1256	the earthquake	EARTHQUAKE	6		aardbeving	aardbeving 
+45	12-1-51-1	72181920984583705	Dutch	dutc1256	the sky	SKY	1732		hemel	hemel 
+46	12-1-52-1	72181920747035554	Dutch	dutc1256	the sun	SUN	1343		zon	zon 
+47	12-1-53-1	72181920745405995	Dutch	dutc1256	the moon	MOON	1313		maan	maan 
+48	12-1-54-1	72181920126630645	Dutch	dutc1256	the star	STAR	1430		ster	ster 
+49	12-1-55-1	72181920174609052	Dutch	dutc1256	the lightning	LIGHTNING	1654		bliksem	bliksem 
+50	12-1-56-1	72181920153065588	Dutch	dutc1256	the thunder	THUNDER	1150		donder	donder 
+51	12-1-57-1	72181920830886547	Dutch	dutc1256	the bolt of lightning	BOLT (OF LIGHTNING)	2007		bliksemschicht	bliksemschicht 
+52	12-1-58-1	72181920490045585	Dutch	dutc1256	the storm	STORM	858		storm	storm 
+53	12-1-59-1	72181920909328623	Dutch	dutc1256	the rainbow	RAINBOW	1733		regenboog	regenboog 
+54	12-1-61-1	72181920641074887	Dutch	dutc1256	the light	LIGHT (RADIATION)	630		licht (1)	licht (1) 
+55	12-1-62-1	72181920139814721	Dutch	dutc1256	the darkness	DARKNESS	11		duisternis	duisternis 
+56	12-1-63-1	72181920694747578	Dutch	dutc1256	the shade or shadow	SHADE	1388		schaduw	schaduw 
+57	12-1-64-1	72181920579267070	Dutch	dutc1256	the dew	DEW	1977		dauw	dauw 
+58	12-1-71-1	72181920245082402	Dutch	dutc1256	the air	AIR	27		lucht	lucht 
+59	12-1-72-1	72181920614889140	Dutch	dutc1256	the wind	WIND	960		wind	wind 
+60	12-1-73-1	72181920316403980	Dutch	dutc1256	the cloud	CLOUD	1489		wolk	wolk 
+61	12-1-74-1	72181920997985199	Dutch	dutc1256	the fog	FOG	249		mist	mist 
+62	12-1-75-1	72181920767473317	Dutch	dutc1256	the rain	RAIN (PRECIPITATION)	658		regen	regen 
+63	12-1-76-1	72181920482416722	Dutch	dutc1256	the snow	SNOW	784		sneeuw	sneeuw 
+64	12-1-77-1	72181920852663051	Dutch	dutc1256	the ice	ICE	617		ijs	ijs 
+65	12-1-78-1	72181920622954728	Dutch	dutc1256	the weather	WEATHER	952		weer (1)	weer (1) 
+66	12-1-81-1	7218192010605509	Dutch	dutc1256	the fire	FIRE	221		vuur	vuur 
+67	12-1-82-1	72181920416136705	Dutch	dutc1256	the flame	FLAME	889		vlam	vlam 
+68	12-1-83-1	72181920692507651	Dutch	dutc1256	the smoke	SMOKE (EXHAUST)	778		rook	rook 
+69	12-1-84-1	72181920628638752	Dutch	dutc1256	the ash	ASH	646		as (1)	as (1) 
+70	12-1-841-1	72181920946425423	Dutch	dutc1256	the embers	EMBERS	67		sintel	sintel 
+71	12-1-851-1	72181920651062114	Dutch	dutc1256	to burn(1)	BURN (SOMETHING)	141		verbranden	verbranden 
+72	12-1-852-1	72181920112926285	Dutch	dutc1256	to burn(2)	BURNING	1428		branden	branden 
+73	12-1-86-1	72181920514345578	Dutch	dutc1256	to light	LIGHT (IGNITE)	737		aansteken	aansteken 
+74	12-1-861-1	72181920943515129	Dutch	dutc1256	to extinguish	EXTINGUISH	127		doven	doven 
+75	12-1-87-1	72181920198588503	Dutch	dutc1256	the match	MATCH	1133		lucifer	lucifer 
+76	12-1-88-1	72181920719534254	Dutch	dutc1256	the firewood	FIREWOOD	10		brandhout	brandhout 
+77	12-1-89-1	72181920955189969	Dutch	dutc1256	the charcoal	CHARCOAL	1188		houtskool	houtskool 
+78	12-2-1-1	72181920556546530	Dutch	dutc1256	the person	PERSON	683		persoon	persoon 
+79	12-2-1-2	72181920456327930	Dutch	dutc1256	the person	PERSON	683		mens	mens 
+80	12-2-21-1	72181920170920788	Dutch	dutc1256	the man	MAN	1554		man (1)	man (1) 
+81	12-2-22-1	721819206095825	Dutch	dutc1256	the woman	WOMAN	962		vrouw (1)	vrouw (1) 
+82	12-2-23-1	72181920354266587	Dutch	dutc1256	male(1)	MALE (OF ANIMAL)	2263		mannelijk	mannelijk 
+83	12-2-24-1	7218192059458554	Dutch	dutc1256	female(1)	FEMALE (OF PERSON)	2260		vrouwelijk	vrouwelijk 
+84	12-2-25-1	72181920840106819	Dutch	dutc1256	the boy	BOY	1366		jongen	jongen 
+85	12-2-251-1	72181920288481088	Dutch	dutc1256	the young man	YOUNG MAN	76		jongeman	jongeman 
+86	12-2-26-1	72181920150520581	Dutch	dutc1256	the girl	GIRL	1646		meisje	meisje 
+87	12-2-261-1	72181920150520581	Dutch	dutc1256	the young woman	YOUNG WOMAN	77		meisje	meisje 
+88	12-2-27-1	72181920450938140	Dutch	dutc1256	the child(1)	CHILD (YOUNG HUMAN)	1304		kind	kind 
+89	12-2-28-1	72181920405586751	Dutch	dutc1256	the baby	BABY	1289		baby	baby 
+90	12-2-31-1	7218192098337764	Dutch	dutc1256	the husband	HUSBAND	1200		echtgenoot	echtgenoot 
+91	12-2-31-2	721819204399185	Dutch	dutc1256	the husband	HUSBAND	1200		man (2)	man (2) 
+92	12-2-32-1	72181920799534070	Dutch	dutc1256	the wife	WIFE	1199		echtgenote	echtgenote 
+93	12-2-32-2	72181920857274974	Dutch	dutc1256	the wife	WIFE	1199		vrouw (2)	vrouw (2) 
+94	12-2-33-1	72181920420431885	Dutch	dutc1256	to marry	MARRY	203		trouwen	trouwen 
+95	12-2-34-1	72181920768214440	Dutch	dutc1256	the wedding	WEDDING	1259		bruiloft	bruiloft 
+96	12-2-341-1	72181920355337702	Dutch	dutc1256	the divorce	DIVORCE	1134		scheiding	scheiding 
+97	12-2-35-1	7218192097645946	Dutch	dutc1256	the father	FATHER	1217		vader	vader 
+98	12-2-36-1	72181920123412443	Dutch	dutc1256	the mother	MOTHER	1216		moeder	moeder 
+99	12-2-37-1	72181920919864108	Dutch	dutc1256	the parents	PARENTS	505		ouders	ouders 
+100	12-2-38-1	72181920888838701	Dutch	dutc1256	the married man	MARRIED MAN	424		getrouwde man	getrouwde man 
+101	12-2-39-1	72181920193332778	Dutch	dutc1256	the married woman	MARRIED WOMAN	426		getrouwde vrouw	getrouwde vrouw 
+102	12-2-41-1	72181920700084697	Dutch	dutc1256	the son	SON	1620		zoon	zoon 
+103	12-2-42-1	72181920172532379	Dutch	dutc1256	the daughter	DAUGHTER	1357		dochter	dochter 
+104	12-3-662-1	72181920383884198	Dutch	dutc1256	the porpoise or dolphin	DOLPHIN	1479		dolfijn	dolfijn 
+105	12-2-43-1	72181920450938140	Dutch	dutc1256	the child(2)	CHILD (DESCENDANT)	1801		kind	kind 
+106	12-2-44-1	72181920909242341	Dutch	dutc1256	the brother	BROTHER	1262		broer	broer 
+107	12-2-444-1	72181920909242341	Dutch	dutc1256	the older brother	OLDER BROTHER	1759		broer	broer 
+108	12-2-445-1	72181920909242341	Dutch	dutc1256	the younger brother	YOUNGER BROTHER	1760		broer	broer 
+109	12-2-45-1	7218192056748678	Dutch	dutc1256	the sister	SISTER	1263		zus(ter)	zus(ter) 
+110	12-2-454-1	7218192056748678	Dutch	dutc1256	the older sister	OLDER SISTER	1758		zus(ter)	zus(ter) 
+111	12-2-455-1	7218192056748678	Dutch	dutc1256	the younger sister	YOUNGER SISTER	1761		zus(ter)	zus(ter) 
+112	12-2-456-1	72181920909242341	Dutch	dutc1256	the sibling	SIBLING	1640		broer	broer 
+113	12-2-456-2	7218192056748678	Dutch	dutc1256	the sibling	SIBLING	1640		zus(ter)	zus(ter) 
+114	12-2-458-1	72181920535279827	Dutch	dutc1256	the twins	TWINS	1005		tweeling	tweeling 
+115	12-2-46-1	72181920566945705	Dutch	dutc1256	the grandfather	GRANDFATHER	1383		grootvader	grootvader 
+116	12-2-461-1	72181920170920788	Dutch	dutc1256	the old man	OLD MAN	406		man (1)	man (1) 
+117	12-2-47-1	72181920578788064	Dutch	dutc1256	the grandmother	GRANDMOTHER	1496		grootmoeder	grootmoeder 
+118	12-2-471-1	721819206095825	Dutch	dutc1256	the old woman	OLD WOMAN	907		vrouw (1)	vrouw (1) 
+119	12-2-48-1	72181920298117539	Dutch	dutc1256	the grandson	GRANDSON	1618		kleinzoon	kleinzoon 
+120	12-2-49-1	72181920893008874	Dutch	dutc1256	the granddaughter	GRANDDAUGHTER	1619		kleindochter	kleindochter 
+121	12-2-51-1	72181920110416170	Dutch	dutc1256	the uncle	UNCLE	1327		oom	oom 
+122	12-2-511-1	72181920110416170	Dutch	dutc1256	the mother's brother	MOTHER'S BROTHER	1984		oom	oom 
+123	12-2-512-1	72181920110416170	Dutch	dutc1256	the father's brother	FATHER'S BROTHER	1985		oom	oom 
+124	12-2-52-1	72181920599066761	Dutch	dutc1256	the aunt	AUNT	1272		tante	tante 
+125	12-2-521-1	72181920599066761	Dutch	dutc1256	the mother's sister	MOTHER'S SISTER	171		tante	tante 
+126	12-2-522-1	72181920599066761	Dutch	dutc1256	the father's sister	FATHER'S SISTER	170		tante	tante 
+127	12-2-53-1	72181920111144429	Dutch	dutc1256	the nephew	NEPHEW	1063		neef	neef 
+128	12-2-54-1	72181920369644066	Dutch	dutc1256	the niece	NIECE	1642		nicht	nicht 
+129	12-2-55-1	72181920111144429	Dutch	dutc1256	the cousin	COUSIN	1643		neef	neef 
+130	12-2-55-2	72181920369644066	Dutch	dutc1256	the cousin	COUSIN	1643		nicht	nicht 
+131	12-2-56-1	72181920470675907	Dutch	dutc1256	the ancestors	ANCESTORS	1669		voorouders	voorouders 
+132	12-2-57-1	72181920522052598	Dutch	dutc1256	the descendants	DESCENDANTS	490		nazaten	nazaten 
+133	12-2-57-2	72181920688693504	Dutch	dutc1256	the descendants	DESCENDANTS	490		nakomelingen	nakomelingen 
+134	12-2-61-1	72181920535218379	Dutch	dutc1256	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		schoonvader	schoonvader 
+135	12-2-611-1	72181920535218379	Dutch	dutc1256	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		schoonvader	schoonvader 
+136	12-2-62-1	72181920844792507	Dutch	dutc1256	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		schoonmoeder	schoonmoeder 
+137	12-2-621-1	72181920844792507	Dutch	dutc1256	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		schoonmoeder	schoonmoeder 
+138	12-2-63-1	72181920325089665	Dutch	dutc1256	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		schoonzoon	schoonzoon 
+139	12-2-631-1	72181920325089665	Dutch	dutc1256	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		schoonzoon	schoonzoon 
+140	12-2-64-1	7218192072842957	Dutch	dutc1256	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		schoondochter	schoondochter 
+141	12-2-641-1	7218192072842957	Dutch	dutc1256	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		schoondochter	schoondochter 
+142	12-2-71-1	72181920650668764	Dutch	dutc1256	the stepfather	STEPFATHER	237		stiefvader	stiefvader 
+143	12-2-72-1	72181920645120186	Dutch	dutc1256	the stepmother	STEPMOTHER	236		stiefmoeder	stiefmoeder 
+144	12-2-73-1	72181920696070236	Dutch	dutc1256	the stepson	STEPSON	1059		stiefzoon	stiefzoon 
+145	12-2-74-1	72181920396691050	Dutch	dutc1256	the stepdaughter	STEPDAUGHTER	1058		stiefdochter	stiefdochter 
+146	12-2-75-1	72181920248459926	Dutch	dutc1256	the orphan	ORPHAN	1149		wees	wees 
+147	12-2-76-1	7218192084812001	Dutch	dutc1256	the widow	WIDOW	1756		weduwe	weduwe 
+148	12-2-77-1	72181920144580558	Dutch	dutc1256	the widower	WIDOWER	1981		weduwnaar	weduwnaar 
+149	12-2-81-1	72181920834491148	Dutch	dutc1256	the relatives	RELATIVES	1644		familie	familie 
+150	12-2-81-2	7218192043445274	Dutch	dutc1256	the relatives	RELATIVES	1644		verwanten	verwanten 
+151	12-2-82-1	72181920723976709	Dutch	dutc1256	the family	FAMILY	194		gezin	gezin 
+152	12-2-91-1	72181920971873618	Dutch	dutc1256	I	I	1209		ik	ik 
+153	12-2-92-1	72181920526247096	Dutch	dutc1256	you (singular)	THOU	1215		jij	jij 
+154	12-2-93-1	72181920447248058	Dutch	dutc1256	he/she/it	HE OR SHE OR IT	262		het	het 
+155	12-2-93-2	72181920288400812	Dutch	dutc1256	he/she/it	HE OR SHE OR IT	262		hij	hij 
+156	12-2-93-3	72181920559748683	Dutch	dutc1256	he/she/it	HE OR SHE OR IT	262		zij (1)	zij (1) 
+157	12-2-94-1	72181920472282065	Dutch	dutc1256	we	WE	1212		wij	wij 
+158	12-2-941-1	72181920472282065	Dutch	dutc1256	we (inclusive)	WE (INCLUSIVE)	1131		wij	wij 
+159	12-2-942-1	72181920472282065	Dutch	dutc1256	we (exclusive)	WE (EXCLUSIVE)	1130		wij	wij 
+160	12-2-95-1	72181920781409044	Dutch	dutc1256	you (plural)	YOU	1213		jullie	jullie 
+161	12-2-96-1	72181920766266310	Dutch	dutc1256	they	THEY	817		zij (2)	zij (2) 
+162	12-3-11-1	72181920549673633	Dutch	dutc1256	the animal	ANIMAL	619		dier	dier 
+163	12-3-11-2	72181920317874515	Dutch	dutc1256	the animal	ANIMAL	619		beest	beest 
+164	12-3-12-1	72181920535110022	Dutch	dutc1256	male(2)	MALE (OF PERSON)	2261		mannetjes-	mannetjes- 
+165	12-3-13-1	72181920671917602	Dutch	dutc1256	female(2)	FEMALE (OF ANIMAL)	2262		vrouwtjes-	vrouwtjes- 
+166	12-3-15-1	72181920486153045	Dutch	dutc1256	the livestock	LIVESTOCK	631		vee	vee 
+167	12-3-16-1	7218192070083396	Dutch	dutc1256	the pasture	PASTURE	649		weide	weide 
+168	12-3-18-1	72181920604471741	Dutch	dutc1256	the herdsman	HERDSMAN	263		herder	herder 
+169	12-3-19-1	72181920397008026	Dutch	dutc1256	the stable or stall	STABLE	851		stal	stal 
+170	12-3-2-1	72181920155493728	Dutch	dutc1256	the cattle	CATTLE	1153		rund	rund 
+171	12-3-21-1	72181920556421930	Dutch	dutc1256	the bull	BULL	1008		stier	stier 
+172	12-3-22-1	72181920580427996	Dutch	dutc1256	the ox	OX	1169		os	os 
+173	12-3-23-1	72181920369539047	Dutch	dutc1256	the cow	COW	1007		koe	koe 
+174	12-3-24-1	7218192066021312	Dutch	dutc1256	the calf	CALF	1989		kalf	kalf 
+175	12-3-25-1	72181920907625665	Dutch	dutc1256	the sheep	SHEEP	1331		schaap	schaap 
+176	12-3-26-1	72181920564706109	Dutch	dutc1256	the ram	RAM	1344		ram	ram 
+177	12-3-28-1	72181920401700893	Dutch	dutc1256	the ewe	EWE	1345		ooi	ooi 
+178	12-3-29-1	72181920998106659	Dutch	dutc1256	the lamb	LAMB	820		lam (1)	lam (1) 
+179	12-3-32-1	72181920369192371	Dutch	dutc1256	the boar	BOAR	1348		wild zwijn	wild zwijn 
+180	12-3-34-1	7218192047880633	Dutch	dutc1256	the sow	SOW (FEMALE PIG)	1351		zeug	zeug 
+181	12-3-35-1	72181920329770758	Dutch	dutc1256	the pig	PIG	1337		varken	varken 
+182	12-3-36-1	72181920351730003	Dutch	dutc1256	the goat	GOAT	1502		geit	geit 
+183	12-3-37-1	72181920882948446	Dutch	dutc1256	the he-goat	HE-GOAT	264		bok	bok 
+184	12-3-38-1	72181920485252256	Dutch	dutc1256	the kid	KID	1972		geitje	geitje 
+185	12-3-41-1	72181920214031616	Dutch	dutc1256	the horse	HORSE	615		paard	paard 
+186	12-3-42-1	72181920352083952	Dutch	dutc1256	the stallion	STALLION	936		hengst	hengst 
+187	12-3-44-1	72181920908675121	Dutch	dutc1256	the mare	MARE	938		merrie	merrie 
+188	12-3-45-1	72181920908317040	Dutch	dutc1256	the foal or colt	FOAL	1647		veulen	veulen 
+189	12-3-46-1	72181920680674821	Dutch	dutc1256	the donkey	DONKEY	1862		ezel	ezel 
+190	12-3-47-1	72181920184346327	Dutch	dutc1256	the mule	MULE	890		muilezel	muilezel 
+191	12-3-47-2	72181920439406332	Dutch	dutc1256	the mule	MULE	890		muildier	muildier 
+192	12-3-5-1	72181920372530914	Dutch	dutc1256	the fowl	FOWL	265		kip	kip 
+193	12-3-5-2	72181920827312693	Dutch	dutc1256	the fowl	FOWL	265		pluimvee	pluimvee 
+194	12-3-52-1	72181920162210881	Dutch	dutc1256	the cock/rooster	ROOSTER	1511		haan	haan 
+195	12-3-54-1	72181920568625611	Dutch	dutc1256	the hen	HEN	1514		hen	hen 
+196	12-3-55-1	72181920383765184	Dutch	dutc1256	the chicken	CHICKEN	1318		kuiken	kuiken 
+197	12-3-56-1	72181920474645187	Dutch	dutc1256	the goose	GOOSE	1187		gans	gans 
+198	12-3-57-1	72181920455788184	Dutch	dutc1256	the duck	DUCK	1360		eend	eend 
+199	12-3-58-1	72181920258842636	Dutch	dutc1256	the nest	NEST	539		nest	nest 
+200	12-3-581-1	72181920320823957	Dutch	dutc1256	the bird	BIRD	937		vogel	vogel 
+201	12-3-582-1	72181920920623667	Dutch	dutc1256	the seagull	SEAGULL	950		meeuw	meeuw 
+202	12-3-583-1	72181920620869682	Dutch	dutc1256	the heron	HERON	758		reiger	reiger 
+203	12-3-584-1	72181920412474745	Dutch	dutc1256	the eagle	EAGLE	1905		adelaar	adelaar 
+204	12-3-585-1	72181920423935120	Dutch	dutc1256	the hawk	HAWK	307		havik	havik 
+205	12-3-586-1	72181920265825172	Dutch	dutc1256	the vulture	VULTURE	1185		gier	gier 
+206	12-3-591-1	7218192016022082	Dutch	dutc1256	the bat	BAT	1793		vleermuis	vleermuis 
+207	12-3-592-1	72181920320408151	Dutch	dutc1256	the parrot	PARROT	882		papegaai	papegaai 
+208	12-3-593-1	72181920253991456	Dutch	dutc1256	the crow	CROW	913		kraai	kraai 
+209	12-3-594-1	72181920342867156	Dutch	dutc1256	the dove	DOVE	1853		duif	duif 
+210	12-3-596-1	72181920493340795	Dutch	dutc1256	the owl	OWL	735		uil	uil 
+211	12-3-61-1	72181920988855776	Dutch	dutc1256	the dog	DOG	2009		hond	hond 
+212	12-3-614-1	72181920450271430	Dutch	dutc1256	the rabbit	RABBIT	1136		konijn	konijn 
+213	12-3-62-1	72181920527128341	Dutch	dutc1256	the cat	CAT	1208		kat	kat 
+214	12-3-622-1	72181920509902630	Dutch	dutc1256	the opossum	OPOSSUM	309		opossum	opossum 
+215	12-3-63-1	7218192069343098	Dutch	dutc1256	the mouse or rat	MUROID (MOUSE OR RAT)	2139		muis	muis 
+216	12-3-63-2	72181920707350809	Dutch	dutc1256	the mouse or rat	MUROID (MOUSE OR RAT)	2139		rat	rat 
+217	12-3-65-1	72181920491312412	Dutch	dutc1256	the fish	FISH	227		vis	vis 
+218	12-3-652-1	72181920529308279	Dutch	dutc1256	the fin	FIN	213		vin	vin 
+219	12-3-653-1	72181920447386712	Dutch	dutc1256	the scale	SCALE	266		schub	schub 
+220	12-3-654-1	72181920164948022	Dutch	dutc1256	the gill	GILL	1916		kieuw	kieuw 
+221	12-3-655-1	72181920130530706	Dutch	dutc1256	the shell	SHELL	598		schelp	schelp 
+222	12-3-661-1	72181920815124786	Dutch	dutc1256	the shark	SHARK	1110		haai	haai 
+223	12-3-663-1	72181920918439559	Dutch	dutc1256	the whale	WHALE	957		walvis	walvis 
+224	12-3-664-1	72181920648859749	Dutch	dutc1256	the stingray	STINGRAY	1910		rog	rog 
+225	12-3-665-1	72181920266813621	Dutch	dutc1256	the freshwater eel	FRESHWATER EEL	1013		paling	paling 
+226	12-3-71-1	72181920756275095	Dutch	dutc1256	the wolf	WOLF	522		wolf	wolf 
+227	12-3-72-1	72181920452340597	Dutch	dutc1256	the lion	LION	1386		leeuw	leeuw 
+228	12-3-73-1	72181920294337674	Dutch	dutc1256	the bear	BEAR	1820		beer	beer 
+229	12-3-74-1	7218192062472014	Dutch	dutc1256	the fox	FOX	1312		vos	vos 
+230	12-3-75-1	72181920295951685	Dutch	dutc1256	the deer	DEER	1936		hert	hert 
+231	12-3-76-1	72181920441245103	Dutch	dutc1256	the monkey	MONKEY	1350		aap	aap 
+232	12-3-77-1	72181920936346820	Dutch	dutc1256	the elephant	ELEPHANT	1290		olifant	olifant 
+233	12-3-78-1	72181920752571378	Dutch	dutc1256	the camel	CAMEL	1871		kameel	kameel 
+234	12-3-81-1	72181920485545535	Dutch	dutc1256	the insect	INSECT	620		insect	insect 
+235	12-3-811-1	72181920861190858	Dutch	dutc1256	the head louse	HEAD LOUSE	310		luis	luis 
+236	12-3-811-2	72181920180697195	Dutch	dutc1256	the head louse	HEAD LOUSE	310		hoofdluis	hoofdluis 
+237	12-3-812-1	72181920308269599	Dutch	dutc1256	the nit	NIT	267		neet	neet 
+238	12-3-813-1	72181920695703434	Dutch	dutc1256	the flea	FLEA	232		vlo	vlo 
+239	12-3-814-1	72181920372225596	Dutch	dutc1256	the centipede	CENTIPEDE	1974		duizendpoot	duizendpoot 
+240	12-3-815-1	72181920402708755	Dutch	dutc1256	the scorpion	SCORPION	1538		schorpioen	schorpioen 
+241	12-3-816-1	72181920773825891	Dutch	dutc1256	the cockroach	COCKROACH	1575		kakkerlak	kakkerlak 
+242	12-3-817-1	72181920145788261	Dutch	dutc1256	the ant	ANT	587		mier	mier 
+243	12-3-818-1	72181920726515244	Dutch	dutc1256	the spider	SPIDER	843		spin	spin 
+244	12-3-819-1	72181920385049603	Dutch	dutc1256	the spider web	SPIDER WEB	1065		web	web 
+245	12-3-82-1	72181920981965249	Dutch	dutc1256	the bee	BEE	665		bij	bij 
+246	12-3-821-1	7218192065647923	Dutch	dutc1256	the beeswax	BEESWAX	1931		honing	honing 
+247	12-3-822-1	72181920925437464	Dutch	dutc1256	the beehive	BEEHIVE	88		bijenkorf	bijenkorf 
+248	12-3-823-1	72181920451607103	Dutch	dutc1256	the wasp	WASP	1517		wesp	wesp 
+249	12-3-83-1	72181920439024116	Dutch	dutc1256	the fly	FLY (INSECT)	1504		vlieg	vlieg 
+250	12-3-831-1	72181920107991061	Dutch	dutc1256	the sandfly or midge or gnat	SANDFLY	95		mug	mug 
+251	12-3-832-1	72181920877867860	Dutch	dutc1256	the mosquito	MOSQUITO	1509		muskiet	muskiet 
+252	12-3-84-1	72181920358535876	Dutch	dutc1256	the worm	WORM	1219		worm	worm 
+253	12-3-85-1	72181920447551599	Dutch	dutc1256	the snake	SNAKE	730		slang	slang 
+254	12-3-91-1	72181920587264089	Dutch	dutc1256	the firefly	FIREFLY	206		glimworm	glimworm 
+255	12-3-92-1	72181920393137868	Dutch	dutc1256	the butterfly	BUTTERFLY	1791		vlinder	vlinder 
+256	12-3-93-1	72181920495200298	Dutch	dutc1256	the grasshopper	GRASSHOPPER	607		sprinkhaan	sprinkhaan 
+257	12-3-94-1	72181920120280232	Dutch	dutc1256	the snail	SNAIL	1543		slak	slak 
+258	12-3-95-1	72181920603947323	Dutch	dutc1256	the frog	FROG	503		kikker	kikker 
+259	12-3-96-1	72181920547751850	Dutch	dutc1256	the lizard	LIZARD	632		hagedis	hagedis 
+260	12-3-97-1	72181920671403009	Dutch	dutc1256	the crocodile or alligator	CROCODILE	1857		alligator	alligator 
+261	12-3-97-2	72181920426376493	Dutch	dutc1256	the crocodile or alligator	CROCODILE	1857		krokodil	krokodil 
+262	12-3-98-1	72181920736631139	Dutch	dutc1256	the turtle	TURTLE	112		schildpad	schildpad 
+263	12-4-11-1	72181920654563118	Dutch	dutc1256	the body	BODY	1480		lichaam	lichaam 
+264	12-4-12-1	72181920806582289	Dutch	dutc1256	the skin or hide	SKIN	763		huid	huid 
+265	12-4-13-1	72181920111759269	Dutch	dutc1256	the flesh	FLESH	2259		vlees	vlees 
+266	12-4-14-1	72181920421404347	Dutch	dutc1256	the hair	HAIR (HEAD)	2648		haar	haar 
+267	12-4-142-1	72181920990878996	Dutch	dutc1256	the beard	BEARD	678		baard	baard 
+268	12-4-144-1	72181920996910026	Dutch	dutc1256	the body hair	HAIR (BODY)	189		lichaamshaar	lichaamshaar 
+269	12-4-145-1	72181920342765370	Dutch	dutc1256	the pubic hair	PUBIC HAIR	36		schaamhaar	schaamhaar 
+270	12-4-146-1	72181920455612983	Dutch	dutc1256	the dandruff	DANDRUFF	576		roos	roos 
+271	12-4-15-1	72181920846997057	Dutch	dutc1256	the blood	BLOOD	946		bloed	bloed 
+272	12-4-151-1	72181920843880999	Dutch	dutc1256	the vein or artery	BLOOD VESSEL	525		bloedvat	bloedvat 
+273	12-4-151-2	72181920970411946	Dutch	dutc1256	the vein or artery	BLOOD VESSEL	525		ader	ader 
+274	12-4-16-1	72181920652516787	Dutch	dutc1256	the bone	BONE	1394		bot (1)	bot (1) 
+275	12-4-162-1	72181920857646308	Dutch	dutc1256	the rib	RIB	801		rib	rib 
+276	12-4-17-1	72181920884821301	Dutch	dutc1256	the horn	HORN (ANATOMY)	1393		hoorn (1)	hoorn (1) 
+277	12-4-18-1	72181920742683775	Dutch	dutc1256	the tail	TAIL	1220		staart	staart 
+278	12-4-19-1	72181920796088526	Dutch	dutc1256	the back	BACK	1291		rug	rug 
+279	12-4-191-1	72181920269029947	Dutch	dutc1256	the spine	SPINE	805		ruggengraat	ruggengraat 
+280	12-4-2-1	72181920568140934	Dutch	dutc1256	the head	HEAD	1256		hoofd	hoofd 
+281	12-4-201-1	72181920672243676	Dutch	dutc1256	the temples	TEMPLES	1604		slaap	slaap 
+282	12-4-202-1	72181920746286601	Dutch	dutc1256	the skull	SKULL	1605		schedel	schedel 
+283	12-4-203-1	7218192029885496	Dutch	dutc1256	the brain	BRAIN	1583		hersenen	hersenen 
+284	12-4-204-1	72181920595020077	Dutch	dutc1256	the face	FACE	1560		gezicht	gezicht 
+285	12-4-205-1	72181920841864613	Dutch	dutc1256	the forehead	FOREHEAD	123		voorhoofd	voorhoofd 
+286	12-4-207-1	72181920561564110	Dutch	dutc1256	the jaw	JAW	798		kaak	kaak 
+287	12-4-208-1	72181920907173293	Dutch	dutc1256	the cheek	CHEEK	1730		wang	wang 
+288	12-4-209-1	72181920412854261	Dutch	dutc1256	the chin	CHIN	1510		kin	kin 
+289	12-4-21-1	7218192076580557	Dutch	dutc1256	the eye	EYE	1248		oog	oog 
+290	12-4-212-1	72181920276513858	Dutch	dutc1256	the eyebrow	EYEBROW	1173		wenkbrauw	wenkbrauw 
+291	12-4-213-1	72181920630426505	Dutch	dutc1256	the eyelid	EYELID	17		ooglid	ooglid 
+292	12-4-214-1	72181920752207687	Dutch	dutc1256	the eyelash	EYELASH	1540		ooghaar	ooghaar 
+293	12-4-215-1	72181920383192859	Dutch	dutc1256	to blink	BLINK	1655		knipperen	knipperen 
+294	12-4-22-1	72181920104784416	Dutch	dutc1256	the ear	EAR	1247		oor	oor 
+295	12-4-221-1	72181920194199311	Dutch	dutc1256	the earlobe	EARLOBE	18		oorlel	oorlel 
+296	12-4-222-1	72181920537546581	Dutch	dutc1256	the earwax	EARWAX	32		oorsmeer	oorsmeer 
+297	12-4-23-1	72181920695720226	Dutch	dutc1256	the nose	NOSE	1221		neus	neus 
+298	12-4-231-1	72181920375646326	Dutch	dutc1256	the nostril	NOSTRIL	1178		neusvleugel	neusvleugel 
+299	12-4-232-1	72181920185648641	Dutch	dutc1256	the nasal mucus	NASAL MUCUS (SNOT)	208		snot	snot 
+300	12-4-24-1	72181920217750320	Dutch	dutc1256	the mouth	MOUTH	674		mond	mond 
+301	12-4-241-1	72181920226809692	Dutch	dutc1256	the beak	BEAK	73		bek	bek 
+302	12-4-25-1	72181920903761729	Dutch	dutc1256	the lip	LIP	478		lip	lip 
+303	12-4-26-1	72181920131980364	Dutch	dutc1256	the tongue	TONGUE	1205		tong	tong 
+304	12-4-27-1	72181920857642626	Dutch	dutc1256	the tooth	TOOTH	1380		tand	tand 
+305	12-4-271-1	72181920582954315	Dutch	dutc1256	the gums	GUMS	139		tandvlees	tandvlees 
+306	12-4-272-1	72181920657587067	Dutch	dutc1256	the molar tooth	MOLAR TOOTH	1049		kies	kies 
+307	12-4-28-1	72181920741952543	Dutch	dutc1256	the neck	NECK	1333		hals	hals 
+308	12-4-281-1	72181920640919192	Dutch	dutc1256	the nape of the neck	NAPE (OF NECK)	1347		nek	nek 
+309	12-4-29-1	72181920170164164	Dutch	dutc1256	the throat	THROAT	1346		keel	keel 
+310	12-4-3-1	72181920964219534	Dutch	dutc1256	the shoulder	SHOULDER	1482		schouder	schouder 
+311	12-4-301-1	72181920339002222	Dutch	dutc1256	the shoulderblade	SHOULDERBLADE	172		schouderblad	schouderblad 
+312	12-4-302-1	72181920619168981	Dutch	dutc1256	the collarbone	COLLARBONE	1994		sleutelbeen	sleutelbeen 
+313	12-4-31-1	72181920866008556	Dutch	dutc1256	the arm	ARM	1673		arm (1)	arm (1) 
+314	12-4-312-1	72181920844035157	Dutch	dutc1256	the armpit	ARMPIT	1886		oksel	oksel 
+315	12-4-32-1	72181920642350599	Dutch	dutc1256	the elbow	ELBOW	981		elleboog	elleboog 
+316	12-4-321-1	7218192045066275	Dutch	dutc1256	the wrist	WRIST	799		pols	pols 
+317	12-4-33-1	72181920458248357	Dutch	dutc1256	the hand	HAND	1277		hand	hand 
+318	12-4-331-1	7218192059858643	Dutch	dutc1256	the palm of the hand	PALM OF HAND	1183		palm (1)	palm (1) 
+319	12-4-34-1	72181920420357280	Dutch	dutc1256	the finger	FINGER	1303		vinger	vinger 
+320	12-4-342-1	72181920773111957	Dutch	dutc1256	the thumb	THUMB	1781		duim	duim 
+321	12-4-344-1	72181920152676656	Dutch	dutc1256	the fingernail	FINGERNAIL	1258		nagel (2)	nagel (2) 
+322	12-4-345-1	7218192045219460	Dutch	dutc1256	the claw	CLAW	72		klauw	klauw 
+323	12-4-35-1	72181920289474127	Dutch	dutc1256	the leg	LEG	1297		been	been 
+324	12-4-351-1	72181920141941513	Dutch	dutc1256	the thigh	THIGH	800		dij	dij 
+325	12-4-352-1	72181920677262508	Dutch	dutc1256	the calf of the leg	CALF OF LEG	498		kuit	kuit 
+326	12-4-36-1	72181920819924491	Dutch	dutc1256	the knee	KNEE	1371		knie	knie 
+327	12-4-37-1	72181920236551040	Dutch	dutc1256	the foot	FOOT	1301		voet	voet 
+328	12-4-371-1	72181920318698154	Dutch	dutc1256	the ankle	ANKLE	803		enkel	enkel 
+329	12-4-372-1	72181920246398988	Dutch	dutc1256	the heel	HEEL	980		hiel	hiel 
+330	12-4-374-1	72181920990584325	Dutch	dutc1256	the footprint	FOOTPRINT	318		voetafdruk	voetafdruk 
+331	12-4-38-1	72181920881356703	Dutch	dutc1256	the toe	TOE	1389		teen	teen 
+332	12-4-392-1	72181920932403781	Dutch	dutc1256	the wing	WING	1257		vleugel	vleugel 
+333	12-4-393-1	72181920978723487	Dutch	dutc1256	the feather	FEATHER	1201		veer	veer 
+334	12-4-4-1	72181920136027757	Dutch	dutc1256	the chest	CHEST	1592		borst	borst 
+335	12-4-41-1	72181920136027757	Dutch	dutc1256	the breast	BREAST	1402		borst	borst 
+336	12-4-412-1	72181920405792853	Dutch	dutc1256	the nipple or teat	NIPPLE	796		tepel	tepel 
+337	12-4-42-1	72181920300768264	Dutch	dutc1256	the udder	UDDER	154		uier	uier 
+338	12-4-43-1	7218192077325871	Dutch	dutc1256	the navel	NAVEL	1838		navel	navel 
+339	12-4-44-1	72181920943768552	Dutch	dutc1256	the heart	HEART	1223		hart	hart 
+340	12-4-441-1	72181920122642785	Dutch	dutc1256	the lung	LUNG	688		long	long 
+341	12-4-45-1	72181920335916783	Dutch	dutc1256	the liver	LIVER	1224		lever	lever 
+342	12-4-451-1	72181920997794387	Dutch	dutc1256	the kidney	KIDNEY	489		nier	nier 
+343	12-4-452-1	72181920856133297	Dutch	dutc1256	the spleen	SPLEEN	1744		milt	milt 
+344	12-4-46-1	72181920914062479	Dutch	dutc1256	the stomach	STOMACH	819		maag	maag 
+345	12-4-461-1	72181920243653466	Dutch	dutc1256	the intestines or guts	INTESTINES	1991		ingewanden	ingewanden 
+346	12-4-462-1	72181920882167255	Dutch	dutc1256	the waist	WAIST	1681		middel	middel 
+347	12-4-463-1	72181920640783395	Dutch	dutc1256	the hip	HIP	1745		heup	heup 
+348	12-4-464-1	72181920499416489	Dutch	dutc1256	the buttocks	BUTTOCKS	834		billen	billen 
+349	12-4-47-1	72181920779093347	Dutch	dutc1256	the womb	WOMB	804		baarmoeder	baarmoeder 
+350	12-4-49-1	7218192073979461	Dutch	dutc1256	the testicles	TESTICLES	797		ballen	ballen 
+351	12-4-49-2	72181920205849889	Dutch	dutc1256	the testicles	TESTICLES	797		testikels	testikels 
+352	12-4-492-1	7218192090837936	Dutch	dutc1256	the penis	PENIS	1222		penis	penis 
+353	12-4-51-1	7218192027155030	Dutch	dutc1256	to breathe	BREATHE	1407		ademen	ademen 
+354	12-4-52-1	72181920279732448	Dutch	dutc1256	to yawn	YAWN	1028		geeuwen	geeuwen 
+355	12-4-521-1	72181920687672159	Dutch	dutc1256	to hiccough	HICCOUGH	162		hikken	hikken 
+356	12-4-53-1	72181920650747536	Dutch	dutc1256	to cough	COUGH	879		hoesten	hoesten 
+357	12-4-54-1	72181920636217892	Dutch	dutc1256	to sneeze	SNEEZE	1621		niezen	niezen 
+358	12-4-55-1	72181920289797923	Dutch	dutc1256	to perspire	SWEAT (PERSPIRE)	126		zweten	zweten 
+359	12-4-56-1	72181920322057702	Dutch	dutc1256	to spit	SPIT	1440		spugen	spugen 
+360	12-4-57-1	72181920652079230	Dutch	dutc1256	to vomit	VOMIT	1278		braken	braken 
+361	12-4-58-1	72181920631980078	Dutch	dutc1256	to bite	BITE	1403		bijten	bijten 
+362	12-4-59-1	72181920255270716	Dutch	dutc1256	to lick	LICK	319		likken	likken 
+363	12-4-591-1	72181920528422462	Dutch	dutc1256	to dribble	DRIBBLE	268		kwijlen	kwijlen 
+364	12-4-61-1	72181920677404302	Dutch	dutc1256	to sleep	SLEEP	1585		slapen	slapen 
+365	12-4-612-1	72181920875285989	Dutch	dutc1256	to snore	SNORE	1983		snurken	snurken 
+366	12-4-62-1	72181920758802053	Dutch	dutc1256	to dream	DREAM (SOMETHING)	1920		dromen	dromen 
+367	12-4-63-1	72181920847543350	Dutch	dutc1256	to wake up	WAKE UP	1602		wekken	wekken 
+368	12-4-64-1	72181920435769275	Dutch	dutc1256	to fart	FART	1159		een scheet laten	een scheet laten 
+369	12-4-65-1	72181920196529800	Dutch	dutc1256	to piss	PISS	592		pissen	pissen 
+370	12-4-65-2	72181920384426329	Dutch	dutc1256	to piss	PISS	592		plassen	plassen 
+371	12-4-66-1	72181920128686059	Dutch	dutc1256	to shit	SHIT (DEFECATE)	676		poepen	poepen 
+372	12-4-66-2	72181920264070754	Dutch	dutc1256	to shit	SHIT (DEFECATE)	676		schijten	schijten 
+373	12-4-67-1	72181920130418225	Dutch	dutc1256	to have sex	HAVE SEX	1785		seks hebben	seks hebben 
+374	12-4-68-1	72181920561924649	Dutch	dutc1256	to shiver	SHIVER	52		rillen	rillen 
+375	12-4-69-1	72181920859637016	Dutch	dutc1256	to bathe	BATHE	138		baden	baden 
+376	12-4-71-1	72181920579521305	Dutch	dutc1256	to beget	BEGET	1152		verwekken	verwekken 
+377	12-4-72-1	72181920718890928	Dutch	dutc1256	to be born	BE BORN	1090		geboren worden	geboren worden 
+378	12-4-73-1	7218192094515754	Dutch	dutc1256	pregnant	PREGNANT	1123		zwanger	zwanger 
+379	12-4-732-1	72181920717080853	Dutch	dutc1256	to conceive	CONCEIVE	1087		zwanger worden	zwanger worden 
+380	12-4-74-1	72181920861507938	Dutch	dutc1256	to be alive	BE ALIVE	1422		leven (1)	leven (1) 
+381	12-4-75-1	72181920272105494	Dutch	dutc1256	to die	DIE	1494		sterven	sterven 
+382	12-4-751-1	72181920166355561	Dutch	dutc1256	to drown	DROWN	1904		verdrinken	verdrinken 
+383	12-4-76-1	72181920132842482	Dutch	dutc1256	to kill	KILL	1417		doden	doden 
+384	12-4-77-1	72181920810456582	Dutch	dutc1256	the corpse	CORPSE	767		lijk	lijk 
+385	12-4-78-1	72181920271059954	Dutch	dutc1256	to bury	BURY	1719		begraven	begraven 
+386	12-4-79-1	72181920880019231	Dutch	dutc1256	the grave	GRAVE	1773		graf	graf 
+387	12-4-81-1	72181920669651655	Dutch	dutc1256	strong	STRONG	785		sterk	sterk 
+388	12-4-82-1	72181920960509680	Dutch	dutc1256	weak	WEAK	1601		zwak	zwak 
+389	12-4-83-1	72181920238366386	Dutch	dutc1256	healthy	HEALTHY	1364		gezond	gezond 
+390	12-4-84-1	72181920815653331	Dutch	dutc1256	sick/ill	SICK	1847		ziek	ziek 
+391	12-4-841-1	72181920861427595	Dutch	dutc1256	the fever	FEVER	1534		koorts	koorts 
+392	12-4-842-1	72181920704690290	Dutch	dutc1256	the goitre/goiter	GOITER	1957		krop	krop 
+393	12-4-843-1	72181920738031735	Dutch	dutc1256	the cold	COMMON COLD (DISEASE)	102		verkoudheid	verkoudheid 
+394	12-4-85-1	72181920562158896	Dutch	dutc1256	the wound or sore	WOUND	1109		wond	wond 
+395	12-4-852-1	72181920612376453	Dutch	dutc1256	the bruise	BRUISE	1148		kneuzing	kneuzing 
+396	12-4-853-1	72181920392272440	Dutch	dutc1256	the swelling	SWELLING	1903		zwelling	zwelling 
+397	12-4-854-1	72181920458469364	Dutch	dutc1256	the itch	ITCH	148		jeuk	jeuk 
+398	12-4-855-1	72181920853975761	Dutch	dutc1256	the blister	BLISTER	1584		blaar	blaar 
+399	12-4-856-1	72181920585686220	Dutch	dutc1256	the boil	BOIL (OF SKIN)	793		steenpuist	steenpuist 
+400	12-4-857-1	72181920138690212	Dutch	dutc1256	the pus	PUS	1808		pus	pus 
+401	12-4-857-2	7420930450400565	Dutch	dutc1256	the pus	PUS	1808		etter	etter 
+402	12-4-858-1	7218192022669249	Dutch	dutc1256	the scar	SCAR	497		litteken	litteken 
+403	12-4-86-1	72181920947886959	Dutch	dutc1256	to cure	CURE	499		genezen	genezen 
+404	12-4-87-1	72181920922360355	Dutch	dutc1256	the physician	PHYSICIAN	597		arts	arts 
+405	12-4-87-2	72181920539370004	Dutch	dutc1256	the physician	PHYSICIAN	597		dokter	dokter 
+406	12-4-88-1	72181920294282358	Dutch	dutc1256	the medicine	MEDICINE	1372		medicijn	medicijn 
+407	12-4-89-1	72181920478772014	Dutch	dutc1256	the poison	POISON	655		gif	gif 
+408	12-4-91-1	72181920741043070	Dutch	dutc1256	tired	TIRED	1757		moe	moe 
+409	12-4-912-1	72181920471159234	Dutch	dutc1256	to rest	REST	168		rusten	rusten 
+410	12-4-92-1	72181920526749062	Dutch	dutc1256	lazy	LAZY	1564		lui	lui 
+411	12-4-93-1	72181920536630428	Dutch	dutc1256	bald	BALD	1125		kaal	kaal 
+412	12-4-94-1	72181920294756056	Dutch	dutc1256	lame	LAME	320		lam (2)	lam (2) 
+413	12-4-95-1	7218192018312880	Dutch	dutc1256	deaf	DEAF	996		doof	doof 
+414	12-4-96-1	72181920777455801	Dutch	dutc1256	mute	MUTE	1666		stom	stom 
+415	12-4-97-1	72181920733509280	Dutch	dutc1256	blind	BLIND	1653		blind	blind 
+416	12-4-98-1	72181920466619312	Dutch	dutc1256	drunk	DRUNK	1463		dronken	dronken 
+417	12-4-99-1	72181920810784868	Dutch	dutc1256	naked	NAKED	590		naakt	naakt 
+418	12-5-11-1	72181920422539819	Dutch	dutc1256	to eat	EAT	1336		eten	eten 
+419	12-5-12-1	72181920119471301	Dutch	dutc1256	the food	FOOD	256		voedsel	voedsel 
+420	12-5-121-1	7218192024711142	Dutch	dutc1256	cooked	COOKED	269		gekookt	gekookt 
+421	12-5-122-1	72181920495783027	Dutch	dutc1256	raw	RAW	1959		rauw	rauw 
+422	12-5-123-1	7218192070747530	Dutch	dutc1256	ripe	RIPE	178		rijp	rijp 
+423	12-5-124-1	72181920391088764	Dutch	dutc1256	unripe	UNRIPE	1958		onrijp	onrijp 
+424	12-5-125-1	72181920198005834	Dutch	dutc1256	rotten	ROTTEN	1728		rot	rot 
+425	12-5-13-1	72181920924013742	Dutch	dutc1256	to drink	DRINK	1401		drinken	drinken 
+426	12-5-14-1	72181920166922275	Dutch	dutc1256	to be hungry	BE HUNGRY	1533		honger hebben	honger hebben 
+427	12-5-141-1	72181920647457842	Dutch	dutc1256	the famine	FAMINE	199		hongersnood	hongersnood 
+428	12-5-15-1	72181920167278014	Dutch	dutc1256	to be thirsty	THIRSTY	847		dorst hebben	dorst hebben 
+429	12-5-16-1	72181920305219913	Dutch	dutc1256	to suck	SUCK	1421		zuigen	zuigen 
+430	12-5-18-1	72181920855930729	Dutch	dutc1256	to chew	CHEW	321		kauwen	kauwen 
+431	12-5-181-1	72181920764818929	Dutch	dutc1256	to swallow	SWALLOW	897		doorslikken	doorslikken 
+432	12-5-19-1	72181920888667039	Dutch	dutc1256	to choke	CHOKE	129		verstikken	verstikken 
+433	12-5-21-1	72181920945209613	Dutch	dutc1256	to cook	COOK (SOMETHING)	1100		koken	koken 
+434	12-5-22-1	72181920945209613	Dutch	dutc1256	to boil	BOIL (OF LIQUID)	792		koken	koken 
+435	12-5-23-1	72181920670329666	Dutch	dutc1256	to roast or fry	ROAST OR FRY	2146		braden	braden 
+436	12-5-24-1	72181920851334593	Dutch	dutc1256	to bake	BAKE	183		bakken	bakken 
+437	12-5-25-1	72181920987568908	Dutch	dutc1256	the oven	OVEN	1143		oven	oven 
+438	12-5-26-1	72181920224258703	Dutch	dutc1256	the pot	POT	1462		pot	pot 
+439	12-5-27-1	72181920878557649	Dutch	dutc1256	the kettle	KETTLE	854		ketel	ketel 
+440	12-5-28-1	72181920809461856	Dutch	dutc1256	the pan	PAN	31		pan	pan 
+441	12-5-31-1	72181920569663492	Dutch	dutc1256	the dish	DISH	481		schaal	schaal 
+442	12-5-32-1	72181920969362809	Dutch	dutc1256	the plate	PLATE	480		bord	bord 
+443	12-5-33-1	72181920827007444	Dutch	dutc1256	the bowl	BOWL	1530		kom	kom 
+444	12-5-34-1	72181920726521565	Dutch	dutc1256	the jug/pitcher	JUG	270		kruik	kruik 
+445	12-5-35-1	7218192070562586	Dutch	dutc1256	the cup	CUP	476		kop	kop 
+446	12-5-36-1	72181920105562173	Dutch	dutc1256	the saucer	SAUCER	271		schotel	schotel 
+447	12-5-37-1	72181920357305565	Dutch	dutc1256	the spoon	SPOON	1378		lepel	lepel 
+448	12-5-38-1	72181920419497892	Dutch	dutc1256	the knife(1)	KNIFE (FOR EATING)	3210		mes	mes 
+449	12-5-39-1	72181920202953808	Dutch	dutc1256	the fork	FORK	1302		vork	vork 
+450	12-5-391-1	72181920753690783	Dutch	dutc1256	the tongs	TONGS	272		tang	tang 
+451	12-5-41-1	72181920273675856	Dutch	dutc1256	the meal	MEAL	1526		maaltijd	maaltijd 
+452	12-5-42-1	72181920980411267	Dutch	dutc1256	the breakfast	BREAKFAST	1322		ontbijt	ontbijt 
+453	12-5-43-1	72181920791465921	Dutch	dutc1256	the lunch	LUNCH	768		lunch	lunch 
+454	12-5-43-2	72181920596835129	Dutch	dutc1256	the lunch	LUNCH	768		middageten	middageten 
+455	12-5-44-1	72181920431687364	Dutch	dutc1256	the dinner	DINNER (SUPPER)	1833		diner	diner 
+456	12-5-44-2	72181920844640358	Dutch	dutc1256	the dinner	DINNER (SUPPER)	1833		avondeten	avondeten 
+457	12-5-45-1	72181920844640358	Dutch	dutc1256	the supper	DINNER (SUPPER)	1833		avondeten	avondeten 
+458	12-5-46-1	72181920745930558	Dutch	dutc1256	to peel	PEEL	275		pellen	pellen 
+459	12-5-46-2	72181920803324775	Dutch	dutc1256	to peel	PEEL	275		schillen	schillen 
+460	12-5-47-1	72181920834349137	Dutch	dutc1256	to sieve or to strain	SIEVE	86		zeven (1)	zeven (1) 
+461	12-5-48-1	72181920759496702	Dutch	dutc1256	to scrape	SCRAPE	1767		schrappen	schrappen 
+462	12-5-49-1	72181920102521746	Dutch	dutc1256	to stir or to mix	MIX	2017		roeren	roeren 
+463	12-5-51-1	72181920658076600	Dutch	dutc1256	the bread	BREAD	1368		brood	brood 
+464	12-5-53-1	72181920678736817	Dutch	dutc1256	the dough	DOUGH	273		deeg	deeg 
+465	12-5-54-1	7218192014656097	Dutch	dutc1256	to knead	KNEAD	274		kneden	kneden 
+466	12-5-55-1	72181920237175685	Dutch	dutc1256	the flour	FLOUR	1594		meel	meel 
+467	12-5-56-1	72181920648188416	Dutch	dutc1256	to crush or to grind	GRIND	1033		malen	malen 
+468	12-5-56-2	72181920905275103	Dutch	dutc1256	to crush or to grind	GRIND	1033		fijnmalen	fijnmalen 
+469	12-5-57-1	72181920458784338	Dutch	dutc1256	the mill	MILL	636		molen	molen 
+470	12-5-58-1	72181920770439722	Dutch	dutc1256	the mortar(1)	MORTAR CRUSHER	224		vijzel	vijzel 
+471	12-5-59-1	72181920351668210	Dutch	dutc1256	the pestle	PESTLE	225		stamper	stamper 
+472	12-5-61-1	72181920111759269	Dutch	dutc1256	the meat	MEAT	634		vlees	vlees 
+473	12-5-63-1	7218192078990365	Dutch	dutc1256	the sausage	SAUSAGE	1874		worst	worst 
+474	12-5-64-1	7218192019719266	Dutch	dutc1256	the soup	SOUP	1547		soep	soep 
+475	12-5-65-1	72181920467510041	Dutch	dutc1256	the vegetables	VEGETABLES	924		groente	groente 
+476	12-5-66-1	72181920630785133	Dutch	dutc1256	the bean	BEAN	832		boon	boon 
+477	12-5-7-1	72181920740619444	Dutch	dutc1256	the potato	POTATO	593		aardappel	aardappel 
+478	12-5-71-1	721819201403849	Dutch	dutc1256	the fruit	FRUIT	1507		fruit	fruit 
+479	12-5-712-1	7218192070644384	Dutch	dutc1256	the bunch	BUNCH	1966		bos(je)	bos(je) 
+480	12-5-75-1	72181920707475879	Dutch	dutc1256	the fig	FIG	322		vijg	vijg 
+481	12-5-76-1	72181920791394055	Dutch	dutc1256	the grape	GRAPE	920		druif	druif 
+482	12-5-77-1	72181920215927221	Dutch	dutc1256	the nut	NUT	191		noot	noot 
+483	12-5-78-1	72181920847030561	Dutch	dutc1256	the olive	OLIVE	1154		olijf	olijf 
+484	12-5-79-1	72181920585120884	Dutch	dutc1256	the oil	OIL (ORGANIC SUBSTANCE)	1484		olie	olie 
+485	12-5-791-1	72181920810862203	Dutch	dutc1256	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		vet	vet 
+486	12-5-81-1	72181920209006469	Dutch	dutc1256	the salt	SALT	1274		zout (1)	zout (1) 
+487	12-5-82-1	7218192011941287	Dutch	dutc1256	the pepper	PEPPER	1385		peper	peper 
+488	12-5-821-1	72181920595228249	Dutch	dutc1256	the chili pepper	CHILI PEPPER	919		rode peper	rode peper 
+489	12-5-84-1	7218192065647923	Dutch	dutc1256	the honey	HONEY	942		honing	honing 
+490	12-5-85-1	72181920433029287	Dutch	dutc1256	the sugar	SUGAR	862		suiker	suiker 
+491	12-5-86-1	72181920286817776	Dutch	dutc1256	the milk	MILK	635		melk	melk 
+492	12-5-87-1	72181920137551830	Dutch	dutc1256	to milk	DRAW MILK	93		melken	melken 
+493	12-5-88-1	72181920417733925	Dutch	dutc1256	the cheese	CHEESE	1569		kaas	kaas 
+494	12-5-89-1	7218192048638465	Dutch	dutc1256	the butter	BUTTER	1245		boter	boter 
+495	12-5-9-1	72181920494867111	Dutch	dutc1256	the drink	BEVERAGE	731		drank	drank 
+496	12-5-91-1	72181920260359034	Dutch	dutc1256	the mead	MEAD	941		mede	mede 
+497	12-5-92-1	72181920289358279	Dutch	dutc1256	the wine	WINE	1524		wijn	wijn 
+498	12-5-93-1	72181920203098084	Dutch	dutc1256	the beer	BEER	1639		bier	bier 
+499	12-5-94-1	72181920191298942	Dutch	dutc1256	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		alcoholische drank	alcoholische drank 
+500	12-5-97-1	72181920334369539	Dutch	dutc1256	the egg	EGG	744		ei	ei 
+501	12-5-971-1	72181920254347985	Dutch	dutc1256	the yolk	YOLK	1556		dooier	dooier 
+502	12-6-11-1	72181920324399031	Dutch	dutc1256	to put on	PUT ON	158		aantrekken	aantrekken 
+503	12-6-12-1	72181920601089123	Dutch	dutc1256	the clothing or clothes	CLOTHES	1895		kleren	kleren 
+504	12-6-12-2	72181920863921577	Dutch	dutc1256	the clothing or clothes	CLOTHES	1895		kleding	kleding 
+505	12-6-13-1	72181920952705014	Dutch	dutc1256	the tailor	TAILOR	881		kleermaker	kleermaker 
+506	12-6-21-1	72181920916867289	Dutch	dutc1256	the cloth	CLOTH	1616		stof (2)	stof (2) 
+507	12-6-22-1	72181920154394411	Dutch	dutc1256	the wool	WOOL	964		wol	wol 
+508	12-6-23-1	72181920808024632	Dutch	dutc1256	the linen	LINEN	916		linnen	linnen 
+509	12-6-24-1	72181920722319066	Dutch	dutc1256	the cotton	COTTON	1850		katoen	katoen 
+510	12-6-25-1	7218192072912445	Dutch	dutc1256	the silk	SILK	1641		zijde	zijde 
+511	12-6-27-1	72181920740748455	Dutch	dutc1256	the felt	FELT	325		vilt	vilt 
+512	12-6-28-1	72181920318444466	Dutch	dutc1256	the fur	FUR	580		bont	bont 
+513	12-6-29-1	72181920517477995	Dutch	dutc1256	the leather	LEATHER	629		leer	leer 
+514	12-6-31-1	72181920266825196	Dutch	dutc1256	to spin	SPIN	121		spinnen	spinnen 
+515	12-6-32-1	72181920237012448	Dutch	dutc1256	the spindle	SPINDLE	277		spindel	spindel 
+516	12-6-33-1	72181920454171027	Dutch	dutc1256	to weave	WEAVE	133		weven	weven 
+517	12-6-34-1	72181920398603320	Dutch	dutc1256	the loom	LOOM	1787		weefgetouw	weefgetouw 
+518	12-6-35-1	72181920205274132	Dutch	dutc1256	to sew	SEW	1457		naaien	naaien 
+519	12-6-36-1	72181920712162154	Dutch	dutc1256	the needle(1)	NEEDLE (FOR SEWING)	1382		naald	naald 
+520	12-6-37-1	72181920457688289	Dutch	dutc1256	the awl	AWL	278		els	els 
+521	12-6-37-2	72181920218170501	Dutch	dutc1256	the awl	AWL	278		priem	priem 
+522	12-6-38-1	72181920517122124	Dutch	dutc1256	the thread	THREAD	1161		draad	draad 
+523	12-6-39-1	72181920676741706	Dutch	dutc1256	to dye	DYE	157		verven	verven 
+524	12-6-41-1	72181920466123449	Dutch	dutc1256	the cloak	CLOAK	326		jas	jas 
+525	12-6-41-2	72181920697078893	Dutch	dutc1256	the cloak	CLOAK	326		mantel	mantel 
+526	12-6-411-1	72181920903550242	Dutch	dutc1256	the poncho	PONCHO	327		poncho	poncho 
+527	12-7-37-1	72181920598461388	Dutch	dutc1256	the ladder	LADDER	1464		ladder	ladder 
+528	12-6-42-1	72181920427995913	Dutch	dutc1256	the (woman's) dress	DRESS	474		jurk	jurk 
+529	12-6-43-1	72181920466123449	Dutch	dutc1256	the coat	COAT	603		jas	jas 
+530	12-6-44-1	72181920579334869	Dutch	dutc1256	the shirt	SHIRT	1622		hemd	hemd 
+531	12-6-45-1	72181920940818480	Dutch	dutc1256	the collar	COLLAR	2012		kraag	kraag 
+532	12-6-46-1	72181920924860340	Dutch	dutc1256	the skirt	SKIRT	1600		rok	rok 
+533	12-6-461-1	72181920903289177	Dutch	dutc1256	the grass-skirt	GRASS-SKIRT	328		grasrokje	grasrokje 
+534	12-6-48-1	72181920770937397	Dutch	dutc1256	the trousers	TROUSERS	809		broek	broek 
+535	12-6-49-1	72181920445580239	Dutch	dutc1256	the sock or stocking	STOCKING	329		kous	kous 
+536	12-6-49-2	72181920306641942	Dutch	dutc1256	the sock or stocking	STOCKING	329		sok	sok 
+537	12-6-51-1	72181920560136436	Dutch	dutc1256	the shoe	SHOE	1381		schoen	schoen 
+538	12-6-52-1	72181920879674422	Dutch	dutc1256	the boot	BOOT	585		laars	laars 
+539	12-6-54-1	72181920836347423	Dutch	dutc1256	the shoemaker	SHOEMAKER	875		schoenmaker	schoenmaker 
+540	12-6-55-1	72181920694054640	Dutch	dutc1256	the hat or cap	HEADGEAR	2130		hoed	hoed 
+541	12-6-55-2	72181920172089387	Dutch	dutc1256	the hat or cap	HEADGEAR	2130		muts	muts 
+542	12-6-57-1	7218192079789944	Dutch	dutc1256	the belt	BELT	772		ceintuur	ceintuur 
+543	12-6-57-2	72181920571232655	Dutch	dutc1256	the belt	BELT	772		gordel	gordel 
+544	12-6-58-1	72181920666546026	Dutch	dutc1256	the glove	GLOVE	867		handschoen	handschoen 
+545	12-6-59-1	72181920532116854	Dutch	dutc1256	the veil	VEIL	1151		sluier	sluier 
+546	12-6-61-1	72181920959802982	Dutch	dutc1256	the pocket	POCKET	1851		zak	zak 
+547	12-6-62-1	72181920166034124	Dutch	dutc1256	the button	BUTTON	757		knoop	knoop 
+548	12-6-63-1	72181920620513807	Dutch	dutc1256	the pin	PIN	64		speld	speld 
+549	12-6-71-1	72181920426851943	Dutch	dutc1256	the ornament or adornment	ORNAMENT	917		sieraad	sieraad 
+550	12-6-72-1	72181920814649951	Dutch	dutc1256	the jewel	JEWEL	1029		juweel	juweel 
+551	12-6-73-1	72181920863492713	Dutch	dutc1256	the ring	RING	1374		ring	ring 
+552	12-6-74-1	72181920182238398	Dutch	dutc1256	the bracelet	BRACELET	1754		armband	armband 
+553	12-6-75-1	72181920979850720	Dutch	dutc1256	the necklace	NECKLACE	1961		ketting	ketting 
+554	12-6-76-1	7218192090895552	Dutch	dutc1256	the bead	BEAD	1860		kraal	kraal 
+555	12-6-77-1	72181920757200877	Dutch	dutc1256	the earring	EARRING	770		oorbel	oorbel 
+556	12-6-78-1	72181920586239613	Dutch	dutc1256	the headband or headdress	HEADBAND	330		hoofdband	hoofdband 
+557	12-6-79-1	72181920650519056	Dutch	dutc1256	the tattoo	TATTOO	68		tatoeëring	tatoeëring 
+558	12-6-81-1	7218192071104853	Dutch	dutc1256	the handkerchief or rag	RAG	332		zakdoek	zakdoek 
+559	12-6-82-1	72181920128204624	Dutch	dutc1256	the towel	TOWEL	1021		handdoek	handdoek 
+560	12-6-91-1	72181920884442743	Dutch	dutc1256	the comb	COMB	1475		kam	kam 
+561	12-6-92-1	72181920797182615	Dutch	dutc1256	the brush	BRUSH	1821		borstel	borstel 
+562	12-6-921-1	72181920705761283	Dutch	dutc1256	the plait/braid	BRAID	1043		vlecht	vlecht 
+563	12-6-93-1	72181920966646007	Dutch	dutc1256	the razor	RAZOR	151		scheermes	scheermes 
+564	12-6-94-1	72181920806856719	Dutch	dutc1256	the ointment	OINTMENT	1926		zalf	zalf 
+565	12-6-95-1	7218192036946511	Dutch	dutc1256	the soap	SOAP	788		zeep	zeep 
+566	12-6-96-1	72181920602593268	Dutch	dutc1256	the mirror	MIRROR	1171		spiegel	spiegel 
+567	12-7-11-1	7218192035694547	Dutch	dutc1256	to live	DWELL (LIVE, RESIDE)	363		wonen	wonen 
+568	12-7-12-1	72181920413881358	Dutch	dutc1256	the house	HOUSE	1252		huis	huis 
+569	12-7-13-1	721819201591564	Dutch	dutc1256	the hut	HUT	1678		hut	hut 
+570	12-7-131-1	72181920585156987	Dutch	dutc1256	the garden-house	GARDEN-HOUSE	403		tuinhuis	tuinhuis 
+571	12-7-14-1	72181920529868525	Dutch	dutc1256	the tent	TENT	1316		tent	tent 
+572	12-7-15-1	72181920210492345	Dutch	dutc1256	the yard or court	YARD	736		binnenplaats	binnenplaats 
+573	12-7-15-2	72181920363323619	Dutch	dutc1256	the yard or court	YARD	736		hof	hof 
+574	12-7-16-1	72181920803502165	Dutch	dutc1256	the men's house	MEN'S HOUSE	408		mannenhuis	mannenhuis 
+575	12-7-17-1	72181920650610479	Dutch	dutc1256	the cookhouse	COOKHOUSE	334		keuken	keuken 
+576	12-7-18-1	72181920594876610	Dutch	dutc1256	the meeting house	MEETING HOUSE	335		vergaderhuis	vergaderhuis 
+577	12-7-21-1	72181920378210549	Dutch	dutc1256	the room	ROOM	1450		kamer	kamer 
+578	12-7-22-1	72181920661243916	Dutch	dutc1256	the door or gate	DOOR	1567		deur	deur 
+579	12-7-22-2	72181920872647630	Dutch	dutc1256	the door or gate	DOOR	1567		poort	poort 
+580	12-7-221-1	72181920667402523	Dutch	dutc1256	the doorpost	DOORPOST	80		deurpost	deurpost 
+581	12-7-23-1	72181920201406543	Dutch	dutc1256	the lock	LOCK	1596		slot	slot 
+582	12-7-231-1	72181920769501523	Dutch	dutc1256	the latch or door-bolt	LATCH	1012		klink	klink 
+583	12-7-24-1	72181920749335112	Dutch	dutc1256	the key	KEY	1472		sleutel	sleutel 
+584	12-7-25-1	72181920323194278	Dutch	dutc1256	the window	WINDOW	1375		raam	raam 
+585	12-7-25-2	7218192041746943	Dutch	dutc1256	the window	WINDOW	1375		venster	venster 
+586	12-7-26-1	7218192053430180	Dutch	dutc1256	the floor	FLOOR	1632		vloer	vloer 
+587	12-7-27-1	72181920938049904	Dutch	dutc1256	the wall	WALL (OF HOUSE)	933		muur	muur 
+588	12-7-31-1	72181920989692782	Dutch	dutc1256	the fireplace	FIREPLACE	185		haard	haard 
+589	12-7-32-1	72181920588234170	Dutch	dutc1256	the stove	STOVE	859		kachel	kachel 
+590	12-7-33-1	72181920196828978	Dutch	dutc1256	the chimney	CHIMNEY	1305		schoorsteen	schoorsteen 
+591	12-7-42-1	72181920512841111	Dutch	dutc1256	the bed	BED	1663		bed	bed 
+592	12-7-421-1	72181920414092214	Dutch	dutc1256	the pillow	PILLOW	1044		kussen (1)	kussen (1) 
+593	12-7-422-1	72181920929490998	Dutch	dutc1256	the blanket	BLANKET	806		deken	deken 
+594	12-7-43-1	72181920983305430	Dutch	dutc1256	the chair	CHAIR	1476		stoel	stoel 
+595	12-7-44-1	72181920221672279	Dutch	dutc1256	the table	TABLE	1775		tafel	tafel 
+596	12-7-45-1	72181920427195344	Dutch	dutc1256	the lamp or torch	TORCH OR LAMP	2131		lamp	lamp 
+597	12-7-46-1	72181920591007968	Dutch	dutc1256	the candle	CANDLE	1273		kaars	kaars 
+598	12-7-47-1	72181920919496907	Dutch	dutc1256	the shelf	SHELF	745		plank	plank 
+599	12-7-48-1	72181920115541608	Dutch	dutc1256	the trough	TROUGH	205		trog	trog 
+600	12-7-51-1	72181920719154733	Dutch	dutc1256	the roof	ROOF	769		dak	dak 
+601	12-7-52-1	72181920545231339	Dutch	dutc1256	the thatch	THATCH	279		strodak	strodak 
+602	12-7-53-1	72181920175223633	Dutch	dutc1256	the ridgepole	RIDGEPOLE	280		nok	nok 
+603	12-7-54-1	7218192070394821	Dutch	dutc1256	the rafter	RAFTER	829		dakspar	dakspar 
+604	12-7-55-1	72181920918967903	Dutch	dutc1256	the beam	BEAM	1132		balk	balk 
+605	12-7-56-1	72181920918424889	Dutch	dutc1256	the post or pole	POST	281		post (1)	post (1) 
+606	12-7-56-2	72181920120318965	Dutch	dutc1256	the post or pole	POST	281		paal	paal 
+607	12-7-57-1	72181920919496907	Dutch	dutc1256	the board	BOARD	1227		plank	plank 
+608	12-7-58-1	72181920103503707	Dutch	dutc1256	the arch	ARCH	876		boog (1)	boog (1) 
+609	12-7-61-1	72181920808086494	Dutch	dutc1256	the mason	MASON	877		metselaar	metselaar 
+610	12-7-62-1	72181920750706399	Dutch	dutc1256	the brick	BRICK	1006		baksteen	baksteen 
+611	12-7-63-1	72181920254891499	Dutch	dutc1256	the mortar(2)	MORTAR BINDER	1731		mortel	mortel 
+612	12-7-63-2	72181920979506674	Dutch	dutc1256	the mortar(2)	MORTAR BINDER	1731		specie	specie 
+613	12-7-64-1	72181920555447699	Dutch	dutc1256	the adobe	ADOBE	901		lemen baksteen	lemen baksteen 
+614	12-8-11-1	72181920181930336	Dutch	dutc1256	the farmer	FARMER	979		boer	boer 
+615	12-8-12-1	72181920661742915	Dutch	dutc1256	the field	FIELD	212		akker	akker 
+616	12-8-12-2	72181920304595565	Dutch	dutc1256	the field	FIELD	212		veld	veld 
+617	12-8-13-1	72181920130835424	Dutch	dutc1256	the garden	GARDEN	586		tuin	tuin 
+618	12-8-15-1	72181920541918342	Dutch	dutc1256	to cultivate	CULTIVATE	1541		ontginnen	ontginnen 
+619	12-8-16-1	72181920196281707	Dutch	dutc1256	the fence	FENCE	1690		hek	hek 
+620	12-8-17-1	72181920809790107	Dutch	dutc1256	the ditch	DITCH	2002		sloot	sloot 
+621	12-8-21-1	72181920945838321	Dutch	dutc1256	to plough/plow	PLOUGH	1921		ploegen	ploegen 
+622	12-8-212-1	72181920326240412	Dutch	dutc1256	the furrow	FURROW	1794		vore	vore 
+623	12-8-22-1	72181920392792991	Dutch	dutc1256	to dig	DIG	1418		graven	graven 
+624	12-8-23-1	72181920892117808	Dutch	dutc1256	the spade	SPADE	1176		spade	spade 
+625	12-8-24-1	72181920728221715	Dutch	dutc1256	the shovel	SHOVEL	1901		schop	schop 
+626	12-8-25-1	72181920889276775	Dutch	dutc1256	the hoe	HOE	284		schoffel	schoffel 
+627	12-8-26-1	72181920202953808	Dutch	dutc1256	the fork(2)/pitchfork	PITCHFORK	337		vork	vork 
+628	12-8-26-2	72181920467784315	Dutch	dutc1256	the fork(2)/pitchfork	PITCHFORK	337		mestvork	mestvork 
+629	12-8-27-1	72181920175973816	Dutch	dutc1256	the rake	RAKE	338		hark	hark 
+630	12-8-31-1	72181920483397547	Dutch	dutc1256	to sow	SOW SEEDS	748		zaaien	zaaien 
+631	12-8-311-1	72181920116877830	Dutch	dutc1256	the seed	SEED	714		zaad	zaad 
+632	12-8-32-1	72181920989305459	Dutch	dutc1256	to mow	MOW	190		maaien	maaien 
+633	12-8-33-1	7218192026877038	Dutch	dutc1256	the sickle or scythe	SICKLE OR SCYTHE	2132		zeis	zeis 
+634	12-8-34-1	72181920112859422	Dutch	dutc1256	to thresh	THRESH	285		dorsen	dorsen 
+635	12-8-35-1	72181920116875815	Dutch	dutc1256	the threshing-floor	THRESHING-FLOOR	223		dorsvloer	dorsvloer 
+636	12-8-41-1	72181920932558164	Dutch	dutc1256	the harvest	HARVEST	611		oogst	oogst 
+637	12-8-42-1	72181920843987028	Dutch	dutc1256	the grain	GRAIN	605		graan	graan 
+638	12-8-43-1	72181920340482903	Dutch	dutc1256	the wheat	WHEAT	1077		tarwe	tarwe 
+639	12-8-44-1	72181920492180936	Dutch	dutc1256	the barley	BARLEY	932		gerst	gerst 
+640	12-8-45-1	72181920393452435	Dutch	dutc1256	the rye	RYE	23		rogge	rogge 
+641	12-8-46-1	72181920388675995	Dutch	dutc1256	the oats	OAT	60		haver	haver 
+642	12-8-47-1	7218192050536145	Dutch	dutc1256	the maize/corn	MAIZE	506		maïs	maïs 
+643	12-8-48-1	72181920587424781	Dutch	dutc1256	the rice	RICE	926		rijst	rijst 
+644	12-8-51-1	7218192093980871	Dutch	dutc1256	the grass	GRASS	606		gras	gras 
+645	12-8-52-1	72181920451155034	Dutch	dutc1256	the hay	HAY	342		hooi	hooi 
+646	12-8-53-1	72181920329914054	Dutch	dutc1256	the plant	PLANT (VEGETATION)	653		plant	plant 
+647	12-8-531-1	72181920672433723	Dutch	dutc1256	to plant	PLANT (SOMETHING)	1486		planten	planten 
+648	12-8-54-1	72181920127267658	Dutch	dutc1256	the root	ROOT	670		wortel	wortel 
+649	12-8-55-1	72181920779496575	Dutch	dutc1256	the branch	BRANCH OR TWIG	3223		tak	tak 
+650	12-8-56-1	72181920578686080	Dutch	dutc1256	the leaf	LEAF	628		blad	blad 
+651	12-8-57-1	72181920757224567	Dutch	dutc1256	the flower	FLOWER	239		bloem	bloem 
+652	12-8-6-1	72181920307328133	Dutch	dutc1256	the tree	TREE	906		boom	boom 
+653	12-8-61-1	72181920888042041	Dutch	dutc1256	the oak	OAK	644		eik	eik 
+654	12-8-62-1	72181920993610389	Dutch	dutc1256	the beech	BEECH	1950		beuk	beuk 
+655	12-8-63-1	72181920838911020	Dutch	dutc1256	the birch	BIRCH	1855		berk	berk 
+656	12-8-64-1	72181920135204483	Dutch	dutc1256	the pine	PINE	1740		pijnboom	pijnboom 
+657	12-8-64-2	72181920211947661	Dutch	dutc1256	the pine	PINE	1740		den	den 
+658	12-8-65-1	72181920651786102	Dutch	dutc1256	the fir	FIR	1915		spar	spar 
+659	12-8-66-1	72181920894025519	Dutch	dutc1256	the acorn	ACORN	968		eikel	eikel 
+660	12-8-67-1	72181920335732808	Dutch	dutc1256	the vine	VINE	343		wingerd	wingerd 
+661	12-8-68-1	72181920965689795	Dutch	dutc1256	the tobacco	TOBACCO	974		tabak	tabak 
+662	12-8-69-1	72181920109412768	Dutch	dutc1256	to smoke	SMOKE (INHALE)	1689		roken	roken 
+663	12-8-691-1	72181920247509759	Dutch	dutc1256	the pipe	PIPE	1124		pijp	pijp 
+664	12-8-72-1	72181920780856629	Dutch	dutc1256	the tree stump	TREE STUMP	241		stronk	stronk 
+665	12-8-73-1	72181920416425130	Dutch	dutc1256	the tree trunk	TREE TRUNK	344		boomstam	boomstam 
+666	12-8-74-1	72181920524556149	Dutch	dutc1256	the forked branch	FORKED BRANCH	409		gevorkte tak	gevorkte tak 
+667	12-8-75-1	7218192049063720	Dutch	dutc1256	the bark	BARK	1204		bast	bast 
+668	12-8-76-1	72181920237824465	Dutch	dutc1256	the sap	SAP	345		sap	sap 
+669	12-8-81-1	72181920913807502	Dutch	dutc1256	the palm tree	PALM TREE	1181		palm (2)	palm (2) 
+670	12-8-82-1	72181920910999285	Dutch	dutc1256	the coconut	COCONUT	970		kokosnoot	kokosnoot 
+671	12-8-83-1	7218192047120710	Dutch	dutc1256	the citrus fruit	CITRUS FRUIT	1126		citrusvrucht	citrusvrucht 
+672	12-8-84-1	72181920209042274	Dutch	dutc1256	the banana	BANANA	868		banaan	banaan 
+673	12-8-85-1	72181920712528966	Dutch	dutc1256	the banyan	BANYAN	346		banyan	banyan 
+674	12-8-91-1	72181920938042577	Dutch	dutc1256	the sweet potato	SWEET POTATO	159		bataat	bataat 
+675	12-8-91-2	72181920209486775	Dutch	dutc1256	the sweet potato	SWEET POTATO	159		zoete aardappel	zoete aardappel 
+676	12-8-912-1	72181920578025779	Dutch	dutc1256	the yam	YAM	410		yam	yam 
+677	12-8-92-1	7218192020763552	Dutch	dutc1256	the cassava/manioc	CASSAVA	925		cassave	cassave 
+678	12-8-92-2	72181920468748321	Dutch	dutc1256	the cassava/manioc	CASSAVA	925		maniok	maniok 
+679	12-8-93-1	72181920443954612	Dutch	dutc1256	the gourd	GOURD	411		kalebas	kalebas 
+680	12-8-931-1	72181920710694314	Dutch	dutc1256	the pumpkin or squash	PUMPKIN	864		pompoen	pompoen 
+681	12-8-94-1	72181920375827663	Dutch	dutc1256	the bamboo	BAMBOO	1927		bamboe	bamboe 
+682	12-8-941-1	72181920491853302	Dutch	dutc1256	the sugar cane	SUGAR CANE	146		suikerriet	suikerriet 
+683	12-8-96-1	72181920599576779	Dutch	dutc1256	the fish poison	FISH POISON	348		vissengif	vissengif 
+684	12-8-97-1	72181920276356288	Dutch	dutc1256	the nettle	NETTLE	33		netel	netel 
+685	12-8-98-1	72181920496341263	Dutch	dutc1256	the mushroom	MUSHROOM	641		paddenstoel	paddenstoel 
+686	12-9-11-1	72181920995900004	Dutch	dutc1256	to do	DO	813		doen	doen 
+687	12-9-12-1	72181920258680314	Dutch	dutc1256	the work	WORK (LABOUR)	984		werk	werk 
+688	12-9-14-1	72181920389647728	Dutch	dutc1256	to bend	BEND	2004		buigen	buigen 
+689	12-9-15-1	72181920846841208	Dutch	dutc1256	to fold	FOLD	1470		vouwen	vouwen 
+690	12-9-16-1	72181920680588223	Dutch	dutc1256	to tie	TIE	1917		binden	binden 
+691	12-9-161-1	72181920308052296	Dutch	dutc1256	to untie	UNTIE	352		losmaken	losmaken 
+692	12-9-18-1	72181920269861793	Dutch	dutc1256	the chain	CHAIN	1627		keten	keten 
+693	12-9-18-2	72181920979850720	Dutch	dutc1256	the chain	CHAIN	1627		ketting	ketting 
+694	12-9-19-1	72181920633937007	Dutch	dutc1256	the rope	ROPE	1218		touw	touw 
+695	12-9-192-1	72181920166034124	Dutch	dutc1256	the knot	KNOT	760		knoop	knoop 
+696	12-9-21-1	72181920113024261	Dutch	dutc1256	to strike or hit or beat	STRIKE OR BEAT	2133		slaan	slaan 
+697	12-9-211-1	72181920866760651	Dutch	dutc1256	to pound	POUND	354		bonzen	bonzen 
+698	12-9-22-1	72181920552550517	Dutch	dutc1256	to cut	CUT	1432		doorsnijden	doorsnijden 
+699	12-9-221-1	72181920411801450	Dutch	dutc1256	to cut down	CUT DOWN	355		vellen	vellen 
+700	12-9-222-1	72181920274158139	Dutch	dutc1256	to chop	CHOP	155		hakken	hakken 
+701	12-9-223-1	72181920737397096	Dutch	dutc1256	to stab	STAB TO DEATH	3189		steken	steken 
+702	12-9-23-1	72181920419497892	Dutch	dutc1256	the knife(2)	KNIFE	1352		mes	mes 
+703	12-9-24-1	72181920340969827	Dutch	dutc1256	the scissors or shears	SHEARS	356		schaar	schaar 
+704	12-9-25-1	72181920890169463	Dutch	dutc1256	the axe/ax	AXE	677		bijl	bijl 
+705	12-9-251-1	72181920722666239	Dutch	dutc1256	the adze	ADZE	290		dissel	dissel 
+706	12-9-26-1	72181920582660701	Dutch	dutc1256	to break	BREAK (DESTROY OR GET DESTROYED)	680		breken	breken 
+707	12-9-261-1	72181920270998642	Dutch	dutc1256	broken	BROKEN (NOT WORKING)	3190		kapot	kapot 
+708	12-9-261-2	72181920875183065	Dutch	dutc1256	broken	BROKEN (NOT WORKING)	3190		stuk (2)	stuk (2) 
+709	12-9-27-1	72181920640082969	Dutch	dutc1256	to split	SPLIT	1437		splijten	splijten 
+710	12-9-28-1	72181920910690538	Dutch	dutc1256	to tear	TEAR (SHRED)	1735		scheuren	scheuren 
+711	12-9-83-1	72181920697338187	Dutch	dutc1256	the statue	STATUE	1002		standbeeld	standbeeld 
+712	12-9-29-1	72181920840712440	Dutch	dutc1256	to skin	PULL OFF (SKIN)	291		villen	villen 
+713	12-9-31-1	72181920928273871	Dutch	dutc1256	to rub	RUB	1449		wrijven	wrijven 
+714	12-9-32-1	72181920241700248	Dutch	dutc1256	to stretch	STRETCH	214		uitrekken	uitrekken 
+715	12-9-33-1	72181920401443529	Dutch	dutc1256	to pull	PULL	1455		trekken	trekken 
+716	12-9-34-1	72181920310448731	Dutch	dutc1256	to spread out	SPREAD OUT	38		uitspreiden	uitspreiden 
+717	12-9-341-1	72181920417931458	Dutch	dutc1256	to hang up	HANG UP	357		ophangen	ophangen 
+718	12-9-342-1	72181920222732583	Dutch	dutc1256	to press	PRESS	1913		drukken	drukken 
+719	12-9-343-1	72181920652505925	Dutch	dutc1256	to squeeze	SQUEEZE	1414		uitpersen	uitpersen 
+720	12-9-35-1	72181920390275321	Dutch	dutc1256	to pour	POUR	1487		schenken	schenken 
+721	12-9-36-1	72181920305191650	Dutch	dutc1256	to wash	WASH	1453		wassen	wassen 
+722	12-9-37-1	72181920541108525	Dutch	dutc1256	to sweep	SWEEP	230		vegen	vegen 
+723	12-9-38-1	72181920268612460	Dutch	dutc1256	the broom	BROOM	245		bezem	bezem 
+724	12-9-422-1	72181920560915523	Dutch	dutc1256	the tool	TOOL	1361		gereedschap	gereedschap 
+725	12-9-422-2	72181920223460825	Dutch	dutc1256	the tool	TOOL	1361		werktuig	werktuig 
+726	12-9-43-1	72181920766116015	Dutch	dutc1256	the carpenter	CARPENTER	1042		timmerman	timmerman 
+727	12-9-44-1	7218192059804073	Dutch	dutc1256	to build	BUILD	1840		bouwen	bouwen 
+728	12-9-46-1	72181920373319197	Dutch	dutc1256	to bore	BORE	1501		boren	boren 
+729	12-9-461-1	72181920306905931	Dutch	dutc1256	to hollow out	HOLLOW OUT	46		uithollen	uithollen 
+730	12-9-48-1	72181920408790819	Dutch	dutc1256	the saw	SAW	1948		zaag	zaag 
+731	12-9-49-1	72181920123019722	Dutch	dutc1256	the hammer	HAMMER	1481		hamer	hamer 
+732	12-9-5-1	72181920742094003	Dutch	dutc1256	the nail	NAIL (TOOL)	502		nagel (1)	nagel (1) 
+733	12-9-5-2	72181920169301541	Dutch	dutc1256	the nail	NAIL (TOOL)	502		spijker	spijker 
+734	12-9-56-1	72181920590151108	Dutch	dutc1256	the glue	GLUE	1069		lijm	lijm 
+735	12-9-6-1	72181920145538230	Dutch	dutc1256	the blacksmith	BLACKSMITH	1001		smid	smid 
+736	12-9-61-1	72181920320351239	Dutch	dutc1256	to forge	FORGE	288		smeden	smeden 
+737	12-9-62-1	72181920490279808	Dutch	dutc1256	the anvil	ANVIL	1648		aambeeld	aambeeld 
+738	12-9-63-1	72181920765394342	Dutch	dutc1256	to cast	CAST	211		gieten	gieten 
+739	12-9-64-1	72181920221469006	Dutch	dutc1256	the gold	GOLD	1369		goud	goud 
+740	12-9-65-1	72181920631580597	Dutch	dutc1256	the silver	SILVER	759		zilver	zilver 
+741	12-9-66-1	72181920862492273	Dutch	dutc1256	the copper	COPPER	1825		koper	koper 
+742	12-9-67-1	72181920268582990	Dutch	dutc1256	the iron	IRON	621		ijzer	ijzer 
+743	12-9-68-1	72181920529540033	Dutch	dutc1256	the lead	LEAD (CHEMICAL ELEMENT)	627		lood	lood 
+744	12-9-69-1	72181920645332851	Dutch	dutc1256	the tin or tinplate	TIN OR TINPLATE	3217		tin	tin 
+745	12-9-71-1	72181920326967300	Dutch	dutc1256	the potter	POTTER	359		pottenbakker	pottenbakker 
+746	12-9-72-1	72181920733879649	Dutch	dutc1256	to mould/mold	MOLD	289		boetseren	boetseren 
+747	12-9-73-1	72181920421055282	Dutch	dutc1256	the clay	CLAY	1399		klei	klei 
+748	12-9-74-1	72181920210369990	Dutch	dutc1256	the glass	GLASS	604		glas	glas 
+749	12-9-75-1	72181920641232087	Dutch	dutc1256	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		vlechten	vlechten 
+750	12-9-76-1	72181920880458194	Dutch	dutc1256	the basket	BASKET	1539		mand	mand 
+751	12-9-77-1	72181920996189522	Dutch	dutc1256	the mat	MAT	195		mat	mat 
+752	12-9-771-1	72181920894848511	Dutch	dutc1256	the rug	RUG	292		tapijt	tapijt 
+753	12-9-78-1	72181920481894037	Dutch	dutc1256	the netbag	NETBAG	293		nettas	nettas 
+754	12-9-79-1	72181920797083833	Dutch	dutc1256	the fan	FAN (OBJECT)	1971		waaier	waaier 
+755	12-9-791-1	72181920610929382	Dutch	dutc1256	to fan	FAN ACTION	360		koelte toewaaien	koelte toewaaien 
+756	12-9-81-1	72181920197171011	Dutch	dutc1256	to carve	CARVE	228		kerven	kerven 
+757	12-9-82-1	7218192029955548	Dutch	dutc1256	the sculptor	SCULPTOR	914		beeldhouwer	beeldhouwer 
+758	12-9-84-1	72181920599404787	Dutch	dutc1256	the chisel	CHISEL	1979		beitel	beitel 
+759	12-9-88-1	72181920567841046	Dutch	dutc1256	the paint	PAINT (PIGMENTS)	647		verf	verf 
+760	12-9-89-1	72181920570032221	Dutch	dutc1256	to paint	PAINTING	2001		schilderen	schilderen 
+761	12-9-89-2	72181920676741706	Dutch	dutc1256	to paint	PAINTING	2001		verven	verven 
+762	12-10-11-1	72181920831360381	Dutch	dutc1256	to move	MOVE	765		bewegen	bewegen 
+763	12-10-12-1	72181920997943009	Dutch	dutc1256	to turn	TURN	1588		omdraaien	omdraaien 
+764	12-10-13-1	72181920429704764	Dutch	dutc1256	to turn around	TURN (SOMETHING)	1445		zich omdraaien	zich omdraaien 
+765	12-10-14-1	72181920646277522	Dutch	dutc1256	to wrap	WRAP	1113		wikkelen	wikkelen 
+766	12-10-15-1	72181920500131678	Dutch	dutc1256	to roll	ROLL	827		rollen	rollen 
+767	12-10-16-1	72181920689525212	Dutch	dutc1256	to drop	DROP (SOMETHING)	2866		laten vallen	laten vallen 
+768	12-10-17-1	7218192089526306	Dutch	dutc1256	to twist	TWIST (AROUND)	3199		draaien	draaien 
+769	12-10-21-1	72181920201384757	Dutch	dutc1256	to rise	RISE (MOVE UPWARDS)	568		opkomen	opkomen 
+770	12-10-22-1	72181920979938646	Dutch	dutc1256	to raise or lift	LIFT	501		optillen	optillen 
+771	12-10-23-1	72181920460544915	Dutch	dutc1256	to fall	FALL	1280		vallen	vallen 
+772	12-10-24-1	72181920510145729	Dutch	dutc1256	to drip	DRIP (EMIT LIQUID)	2253		druppelen	druppelen 
+773	12-10-25-1	72181920714172198	Dutch	dutc1256	to throw	THROW	1456		gooien	gooien 
+774	12-10-25-2	72181920482383426	Dutch	dutc1256	to throw	THROW	1456		werpen	werpen 
+775	12-10-252-1	72181920568928020	Dutch	dutc1256	to catch	CATCH	702		vangen	vangen 
+776	12-10-26-1	72181920750527627	Dutch	dutc1256	to shake	SHAKE	1909		schudden	schudden 
+777	12-10-32-1	72181920586475503	Dutch	dutc1256	to flow	FLOW	2003		stromen	stromen 
+778	12-10-33-1	72181920752238	Dutch	dutc1256	to sink	SINK (DESCEND)	1088		zinken	zinken 
+779	12-10-34-1	72181920584190906	Dutch	dutc1256	to float	FLOAT	1574		drijven	drijven 
+780	12-10-35-1	72181920372861702	Dutch	dutc1256	to swim	SWIM	1439		zwemmen	zwemmen 
+781	12-10-351-1	72181920222677584	Dutch	dutc1256	to dive	DIVE	119		duiken	duiken 
+782	12-10-352-1	72181920905815874	Dutch	dutc1256	to splash	SPLASH	365		spatten	spatten 
+783	12-10-36-1	72181920495419009	Dutch	dutc1256	to sail	SAIL	787		zeilen	zeilen 
+784	12-10-37-1	72181920521213365	Dutch	dutc1256	to fly	FLY (MOVE THROUGH AIR)	1441		vliegen	vliegen 
+785	12-10-38-1	72181920919555029	Dutch	dutc1256	to blow	BLOW (OF WIND)	175		blazen	blazen 
+786	12-10-41-1	72181920100866917	Dutch	dutc1256	to crawl	CRAWL	96		kruipen	kruipen 
+787	12-10-412-1	72181920640747912	Dutch	dutc1256	to kneel	KNEEL	66		knielen	knielen 
+788	12-10-413-1	72181920214458985	Dutch	dutc1256	to crouch	CROUCH	296		hurken	hurken 
+789	12-10-42-1	72181920244235398	Dutch	dutc1256	to slide or slip	SLIP	1324		glijden	glijden 
+790	12-10-43-1	72181920545489575	Dutch	dutc1256	to jump	JUMP	1829		springen	springen 
+791	12-10-431-1	72181920476081644	Dutch	dutc1256	to kick	KICK	1135		trappen	trappen 
+792	12-10-44-1	72181920271026869	Dutch	dutc1256	to dance	DANCE	1879		dansen	dansen 
+793	12-10-45-1	72181920251035287	Dutch	dutc1256	to walk	WALK	1443		lopen	lopen 
+794	12-10-451-1	72181920332325472	Dutch	dutc1256	to limp	LIMP	366		hinken	hinken 
+795	12-10-46-1	72181920861076813	Dutch	dutc1256	to run	RUN	1519		rennen	rennen 
+796	12-10-47-1	72181920615326601	Dutch	dutc1256	to go	GO	695		gaan	gaan 
+797	12-10-471-1	72181920104625396	Dutch	dutc1256	to go up	GO UP (ASCEND)	705		naar boven gaan	naar boven gaan 
+798	12-10-472-1	72181920337194563	Dutch	dutc1256	to climb	CLIMB	1102		klimmen	klimmen 
+799	12-10-473-1	72181920163350363	Dutch	dutc1256	to go down	GO DOWN (DESCEND)	2014		naar beneden gaan	naar beneden gaan 
+800	12-10-474-1	72181920582179335	Dutch	dutc1256	to go out	GO OUT	1107		weggaan	weggaan 
+801	12-10-48-1	72181920556965299	Dutch	dutc1256	to come	COME	1446		komen	komen 
+802	12-10-481-1	72181920544939969	Dutch	dutc1256	to come back	COME BACK	581		terugkomen	terugkomen 
+803	12-10-49-1	72181920582179335	Dutch	dutc1256	to leave	LEAVE	1752		weggaan	weggaan 
+804	12-10-491-1	72181920538930573	Dutch	dutc1256	to disappear	DISAPPEAR	485		verdwijnen	verdwijnen 
+805	12-10-51-1	72181920317478352	Dutch	dutc1256	to flee	FLEE	956		vluchten	vluchten 
+806	12-10-52-1	7218192056287677	Dutch	dutc1256	to follow	FOLLOW	1085		volgen	volgen 
+807	12-10-53-1	72181920338255040	Dutch	dutc1256	to pursue	PURSUE	1047		achtervolgen	achtervolgen 
+808	12-10-55-1	72181920967540756	Dutch	dutc1256	to arrive	ARRIVE	1387		aankomen	aankomen 
+809	12-10-56-1	72181920905335412	Dutch	dutc1256	to approach	APPROACH	1778		naderen	naderen 
+810	12-10-57-1	72181920273299296	Dutch	dutc1256	to enter	ENTER	749		binnenkomen	binnenkomen 
+811	12-10-61-1	72181920893219100	Dutch	dutc1256	to carry	CARRY	700		dragen	dragen 
+812	12-10-612-1	72181920893219100	Dutch	dutc1256	to carry in hand	CARRY IN HAND	412		dragen	dragen 
+813	12-10-613-1	72181920893219100	Dutch	dutc1256	to carry on shoulder	CARRY ON SHOULDER	413		dragen	dragen 
+814	12-10-614-1	72181920893219100	Dutch	dutc1256	to carry on head	CARRY ON HEAD	414		dragen	dragen 
+815	12-10-615-1	72181920893219100	Dutch	dutc1256	to carry under the arm	CARRY UNDER ARM	415		dragen	dragen 
+816	12-10-62-1	72181920991186642	Dutch	dutc1256	to bring	BRING	692		brengen	brengen 
+817	12-10-63-1	72181920917695876	Dutch	dutc1256	to send	SEND	1127		sturen	sturen 
+818	12-10-63-2	72181920192808153	Dutch	dutc1256	to send	SEND	1127		zenden	zenden 
+819	12-10-64-1	72181920679877295	Dutch	dutc1256	to lead	LEAD (GUIDE)	43		leiden	leiden 
+820	12-10-65-1	72181920314164830	Dutch	dutc1256	to drive	DRIVE	741		autorijden	autorijden 
+821	12-10-66-1	7218192068183719	Dutch	dutc1256	to ride	RIDE	367		rijden	rijden 
+822	12-10-67-1	72181920597516841	Dutch	dutc1256	to push	PUSH	1452		duwen	duwen 
+823	12-10-71-1	72181920529312283	Dutch	dutc1256	the road	ROAD	667		weg	weg 
+824	12-10-72-1	72181920688094116	Dutch	dutc1256	the path	PATH	2252		pad	pad 
+825	12-10-74-1	72181920794500221	Dutch	dutc1256	the bridge	BRIDGE	1011		brug	brug 
+826	12-10-75-1	72181920494657020	Dutch	dutc1256	the cart or wagon	CART	122		kar	kar 
+827	12-10-75-2	72181920164241379	Dutch	dutc1256	the cart or wagon	CART	122		wagen	wagen 
+828	12-10-76-1	72181920980637973	Dutch	dutc1256	the wheel	WHEEL	710		wiel	wiel 
+829	12-10-77-1	72181920850197803	Dutch	dutc1256	the axle	AXLE	1769		as (2)	as (2) 
+830	12-10-78-1	72181920271495850	Dutch	dutc1256	the yoke	YOKE	14		juk	juk 
+831	12-10-81-1	72181920433202110	Dutch	dutc1256	the ship	SHIP	740		schip	schip 
+832	12-10-83-1	72181920389671761	Dutch	dutc1256	the boat	BOAT	1844		boot	boot 
+833	12-10-831-1	72181920916265055	Dutch	dutc1256	the canoe	CANOE	1970		kano	kano 
+834	12-10-832-1	72181920806264125	Dutch	dutc1256	the outrigger	OUTRIGGER	416		outrigger	outrigger 
+835	12-10-84-1	72181920147408298	Dutch	dutc1256	the raft	RAFT	1664		vlot	vlot 
+836	12-10-85-1	72181920382935533	Dutch	dutc1256	the oar	RUDDER	108		riem	riem 
+837	12-10-851-1	72181920206531967	Dutch	dutc1256	the paddle	PADDLE	234		peddel	peddel 
+838	12-10-852-1	72181920493963230	Dutch	dutc1256	to row	ROW	1849		roeien	roeien 
+839	12-10-86-1	7218192010949185	Dutch	dutc1256	the rudder	RUDDER	108		roer	roer 
+840	12-10-87-1	72181920581841422	Dutch	dutc1256	the mast	MAST	184		mast	mast 
+841	12-10-88-1	72181920933349153	Dutch	dutc1256	the sail	SAILCLOTH	786		zeil	zeil 
+842	12-10-89-1	72181920383896407	Dutch	dutc1256	the anchor	ANCHOR	1870		anker	anker 
+843	12-10-91-1	72181920862358012	Dutch	dutc1256	the port	PORT	610		haven	haven 
+844	12-10-92-1	7218192055169870	Dutch	dutc1256	to land	LAND (DESCEND)	1922		aan land gaan	aan land gaan 
+845	12-11-11-1	72181920150234805	Dutch	dutc1256	to have	HAVE	773		hebben	hebben 
+846	12-11-12-1	72181920308392989	Dutch	dutc1256	to own	OWN	684		bezitten	bezitten 
+847	12-11-13-1	72181920133752388	Dutch	dutc1256	to take	TAKE	1749		nemen	nemen 
+848	12-11-14-1	72181920345240947	Dutch	dutc1256	to grasp	SEIZE	855		vastpakken	vastpakken 
+849	12-11-15-1	72181920219842492	Dutch	dutc1256	to hold	HOLD	1448		vasthouden	vasthouden 
+850	12-11-16-1	72181920273373424	Dutch	dutc1256	to get	GET	694		krijgen	krijgen 
+851	12-11-17-1	72181920943901342	Dutch	dutc1256	to keep	KEEP	1477		houden	houden 
+852	12-11-18-1	7218192044217847	Dutch	dutc1256	the thing	THING	738		ding	ding 
+853	12-11-21-1	72181920628291909	Dutch	dutc1256	to give	GIVE	1447		geven	geven 
+854	12-11-22-1	72181920325975222	Dutch	dutc1256	to give back	GIVE BACK	85		teruggeven	teruggeven 
+855	12-11-24-1	72181920620564797	Dutch	dutc1256	to preserve	PRESERVE	1997		behouden	behouden 
+856	12-11-24-2	72181920997305047	Dutch	dutc1256	to preserve	PRESERVE	1997		bewaren	bewaren 
+857	12-11-25-1	72181920361081092	Dutch	dutc1256	to rescue	RESCUE	2008		redden	redden 
+858	12-11-27-1	72181920894853782	Dutch	dutc1256	to destroy	DESTROY	681		vernietigen	vernietigen 
+859	12-11-28-1	72181920793081626	Dutch	dutc1256	to injure	INJURE	44		verwonden	verwonden 
+860	12-11-31-1	72181920615468285	Dutch	dutc1256	to look for	LOOK FOR	1468		zoeken	zoeken 
+861	12-11-32-1	72181920576717427	Dutch	dutc1256	to find	FIND	719		vinden	vinden 
+862	12-11-33-1	72181920813716403	Dutch	dutc1256	to lose	LOSE	1660		verliezen	verliezen 
+863	12-11-34-1	72181920664711641	Dutch	dutc1256	to let go	LET GO OR SET FREE	1095		loslaten	loslaten 
+864	12-11-43-1	72181920197058130	Dutch	dutc1256	the money	MONEY	1559		geld	geld 
+865	12-11-44-1	72181920346854448	Dutch	dutc1256	the coin	COIN	1867		munt	munt 
+866	12-11-51-1	72181920953758923	Dutch	dutc1256	rich	RICH	712		rijk	rijk 
+867	12-11-52-1	72181920824509073	Dutch	dutc1256	poor	POOR	1674		arm (2)	arm (2) 
+868	12-11-53-1	72181920717334022	Dutch	dutc1256	the beggar	BEGGAR	1934		bedelaar	bedelaar 
+869	12-11-54-1	72181920900285876	Dutch	dutc1256	stingy	STINGY	1774		gierig	gierig 
+870	12-11-61-1	72181920147161701	Dutch	dutc1256	to lend	LEND	582		lenen	lenen 
+871	12-11-62-1	72181920147161701	Dutch	dutc1256	to borrow	BORROW	1823		lenen	lenen 
+872	12-11-63-1	72181920588478671	Dutch	dutc1256	to owe	OWE	369		schuldig zijn	schuldig zijn 
+873	12-11-64-1	72181920748906602	Dutch	dutc1256	the debt	DEBT	1914		schuld	schuld 
+874	12-11-65-1	72181920395189255	Dutch	dutc1256	to pay	PAY	718		betalen	betalen 
+875	12-11-66-1	72181920198855715	Dutch	dutc1256	the bill	BILL	1081		rekening	rekening 
+876	12-11-69-1	72181920976749169	Dutch	dutc1256	the tax	TAX	873		belasting	belasting 
+877	12-11-77-1	72181920200742744	Dutch	dutc1256	to hire	HIRE	856		in dienst nemen	in dienst nemen 
+878	12-11-77-2	72181920204270333	Dutch	dutc1256	to hire	HIRE	856		aanstellen	aanstellen 
+879	12-11-78-1	72181920880110378	Dutch	dutc1256	the wages	WAGES	1122		loon	loon 
+880	12-11-78-2	72181920127364712	Dutch	dutc1256	the wages	WAGES	1122		salaris	salaris 
+881	12-11-79-1	72181920561432467	Dutch	dutc1256	to earn	EARN	733		verdienen	verdienen 
+882	12-11-81-1	72181920289511855	Dutch	dutc1256	to buy	BUY	1869		kopen	kopen 
+883	12-11-82-1	72181920529117205	Dutch	dutc1256	to sell	SELL	1571		verkopen	verkopen 
+884	12-11-83-1	72181920473037000	Dutch	dutc1256	to trade or barter	TRADE OR BARTER	2135		handelen	handelen 
+885	12-11-83-2	72181920193687531	Dutch	dutc1256	to trade or barter	TRADE OR BARTER	2135		ruilen	ruilen 
+886	12-11-84-1	72181920145453384	Dutch	dutc1256	the merchant	MERCHANT	1082		handelaar	handelaar 
+887	12-11-85-1	72181920886385548	Dutch	dutc1256	the market	MARKET	633		markt	markt 
+888	12-11-86-1	72181920818982493	Dutch	dutc1256	the shop/store	STORE	752		winkel	winkel 
+889	12-11-87-1	72181920482782494	Dutch	dutc1256	the price	PRICE	657		prijs	prijs 
+890	12-11-88-1	72181920767985994	Dutch	dutc1256	expensive	EXPENSIVE	1426		duur	duur 
+891	12-11-89-1	7218192053751943	Dutch	dutc1256	cheap	CHEAP	1887		goedkoop	goedkoop 
+892	12-11-91-1	72181920224859777	Dutch	dutc1256	to share	SHARE	884		delen	delen 
+893	12-11-92-1	72181920161493290	Dutch	dutc1256	to weigh	WEIGH	1098		wegen	wegen 
+894	12-12-01-1	72181920336993377	Dutch	dutc1256	after	AFTER	1685		na	na 
+895	12-12-011-1	72181920171408703	Dutch	dutc1256	behind	BEHIND	1686		achter	achter 
+896	12-12-02-1	72181920578442629	Dutch	dutc1256	beside	BESIDE	1816		naast	naast 
+897	12-12-03-1	72181920296100217	Dutch	dutc1256	down	DOWN	1326		naar beneden	naar beneden 
+898	12-12-03-2	72181920556759404	Dutch	dutc1256	down	DOWN	1326		omlaag	omlaag 
+899	12-12-04-1	72181920951307362	Dutch	dutc1256	before	BEFORE	1882		voor	voor 
+900	12-12-041-1	72181920951307362	Dutch	dutc1256	in front of	IN FRONT OF	1883		voor	voor 
+901	12-12-05-1	72181920299009237	Dutch	dutc1256	inside	INSIDE	1606		binnen	binnen 
+902	12-12-05-2	72181920365229368	Dutch	dutc1256	inside	INSIDE	1606		in	in 
+903	12-12-06-1	72181920512378289	Dutch	dutc1256	outside	OUTSIDE	762		buiten	buiten 
+904	12-12-07-1	72181920752083568	Dutch	dutc1256	under	BELOW OR UNDER	1485		onder	onder 
+905	12-12-08-1	72181920453519785	Dutch	dutc1256	up	UP	1591		omhoog	omhoog 
+906	12-12-11-1	72181920801174923	Dutch	dutc1256	the place	PLACE (POSITION)	723		plaats	plaats 
+907	12-12-12-1	72181920969303069	Dutch	dutc1256	to put	PUT	998		leggen	leggen 
+908	12-12-13-1	72181920167459970	Dutch	dutc1256	to sit	SIT	1416		zitten	zitten 
+909	12-12-14-1	72181920160126114	Dutch	dutc1256	to lie down	LIE DOWN	215		gaan liggen	gaan liggen 
+910	12-12-15-1	72181920195322820	Dutch	dutc1256	to stand	STAND	1442		staan	staan 
+911	12-12-16-1	72181920209408427	Dutch	dutc1256	to remain	REMAIN	987		blijven	blijven 
+912	12-12-17-1	7218192037546884	Dutch	dutc1256	the remains	REMAINS	838		resten	resten 
+913	12-12-17-2	72181920311678121	Dutch	dutc1256	the remains	REMAINS	838		overblijfels	overblijfels 
+914	12-12-21-1	72181920468056196	Dutch	dutc1256	to gather	GATHER	7		verzamelen	verzamelen 
+915	12-12-212-1	72181920979938646	Dutch	dutc1256	to pick up	PICK UP	371		optillen	optillen 
+916	12-12-213-1	72181920795778811	Dutch	dutc1256	to pile up	PILE UP	1576		opstapelen	opstapelen 
+917	12-12-22-1	72181920314215310	Dutch	dutc1256	to join	JOIN	1743		samenvoegen	samenvoegen 
+918	12-12-22-2	72181920198843110	Dutch	dutc1256	to join	JOIN	1743		verbinden	verbinden 
+919	12-12-23-1	72181920718342648	Dutch	dutc1256	to separate	SEPARATE	1359		scheiden	scheiden 
+920	12-12-232-1	7218192046270965	Dutch	dutc1256	to divide	DIVIDE	1119		verdelen	verdelen 
+921	12-12-24-1	72181920560459452	Dutch	dutc1256	to open	OPEN	1156		openen	openen 
+922	12-12-25-1	7218192070598363	Dutch	dutc1256	to shut	SHUT	1046		sluiten	sluiten 
+923	12-12-26-1	72181920151874956	Dutch	dutc1256	to cover	COVER	761		bedekken	bedekken 
+924	12-12-27-1	72181920422456048	Dutch	dutc1256	to hide	HIDE (CONCEAL)	602		verbergen	verbergen 
+925	12-12-27-2	72181920545716773	Dutch	dutc1256	to hide	HIDE (CONCEAL)	602		verstoppen	verstoppen 
+926	12-12-31-1	72181920375219844	Dutch	dutc1256	high	HIGH	1265		hoog	hoog 
+927	12-12-32-1	72181920983139415	Dutch	dutc1256	low	LOW	721		laag	laag 
+928	12-12-33-1	72181920713884870	Dutch	dutc1256	the top	TOP	1753		top	top 
+929	12-12-34-1	72181920781775959	Dutch	dutc1256	the bottom	BOTTOM	690		bodem	bodem 
+930	12-12-35-1	72181920636093502	Dutch	dutc1256	the end(1)	END (OF SPACE)	742		einde	einde 
+931	12-12-352-1	7218192086640510	Dutch	dutc1256	pointed	POINTED	372		spits	spits 
+932	12-12-353-1	72181920591849976	Dutch	dutc1256	the edge	EDGE	863		kant	kant 
+933	12-12-353-2	72181920335289233	Dutch	dutc1256	the edge	EDGE	863		rand	rand 
+934	12-12-36-1	72181920591849976	Dutch	dutc1256	the side	SIDE	682		kant	kant 
+935	12-12-37-1	72181920339273813	Dutch	dutc1256	the middle	MIDDLE	1093		midden	midden 
+936	12-12-41-1	72181920869247562	Dutch	dutc1256	right(1)	RIGHT	1019		rechts	rechts 
+937	12-12-42-1	7218192062018413	Dutch	dutc1256	left	LEFT	244		links	links 
+938	12-12-43-1	72181920408430618	Dutch	dutc1256	near	NEAR	1942		dichtbij	dichtbij 
+939	12-12-44-1	72181920436303985	Dutch	dutc1256	far	FAR	1406		ver	ver 
+940	12-12-45-1	72181920864655863	Dutch	dutc1256	the east	EAST	1877		oosten	oosten 
+941	12-12-46-1	7218192091155052	Dutch	dutc1256	the west	WEST	1817		westen	westen 
+942	12-12-47-1	72181920874678865	Dutch	dutc1256	the north	NORTH	1598		noorden	noorden 
+943	12-12-48-1	72181920754262095	Dutch	dutc1256	the south	SOUTH	1595		zuiden	zuiden 
+944	12-12-53-1	72181920160004402	Dutch	dutc1256	to grow	GROW	479		groeien	groeien 
+945	12-12-54-1	72181920770500173	Dutch	dutc1256	to measure	MEASURE	1506		meten	meten 
+946	12-12-541-1	72181920387671638	Dutch	dutc1256	the fathom	FATHOM	81		vadem	vadem 
+947	12-12-55-1	72181920159267715	Dutch	dutc1256	big	BIG	1202		groot	groot 
+948	12-12-56-1	72181920449511208	Dutch	dutc1256	small	SMALL	1246		klein	klein 
+949	12-12-57-1	72181920982609339	Dutch	dutc1256	long	LONG	1203		lang	lang 
+950	12-12-58-1	72181920375219844	Dutch	dutc1256	tall	TALL	711		hoog	hoog 
+951	12-12-58-2	72181920159267715	Dutch	dutc1256	tall	TALL	711		groot	groot 
+952	12-12-59-1	72181920647978500	Dutch	dutc1256	short	SHORT	1645		kort	kort 
+953	12-12-61-1	72181920667017552	Dutch	dutc1256	wide	WIDE	1243		breed	breed 
+954	12-12-61-2	72181920459111217	Dutch	dutc1256	wide	WIDE	1243		wijd	wijd 
+955	12-12-62-1	72181920448642037	Dutch	dutc1256	narrow	NARROW	1267		nauw	nauw 
+956	12-12-63-1	72181920501475876	Dutch	dutc1256	thick	THICK	1244		dik	dik 
+957	12-12-65-1	721819209601339	Dutch	dutc1256	thin	THIN (OF SHAPE OF OBJECT)	2249		dun	dun 
+958	12-12-67-1	7218192092758739	Dutch	dutc1256	deep	DEEP	1593		diep	diep 
+959	12-12-68-1	72181920794981966	Dutch	dutc1256	shallow	SHALLOW	193		ondiep	ondiep 
+960	12-12-71-1	72181920561832636	Dutch	dutc1256	flat	FLAT	1633		plat	plat 
+961	12-12-71-2	72181920739833249	Dutch	dutc1256	flat	FLAT	1633		vlak	vlak 
+962	12-12-73-1	72181920184078763	Dutch	dutc1256	straight	STRAIGHT	1404		recht	recht 
+963	12-12-74-1	72181920426707118	Dutch	dutc1256	crooked	CROOKED	297		krom	krom 
+964	12-12-75-1	72181920405094724	Dutch	dutc1256	the hook	HOOK	1071		haak	haak 
+965	12-12-76-1	721819201307624	Dutch	dutc1256	the corner	CORNER	192		hoek	hoek 
+966	12-12-77-1	72181920530894120	Dutch	dutc1256	the cross	CROSS	1367		kruis	kruis 
+967	12-12-78-1	72181920802949901	Dutch	dutc1256	the square	SQUARE	850		vierkant	vierkant 
+968	12-12-81-1	72181920596001287	Dutch	dutc1256	round	ROUND	1395		rond	rond 
+969	12-12-82-1	72181920558829956	Dutch	dutc1256	the circle	CIRCLE	1467		cirkel	cirkel 
+970	12-12-83-1	72181920306987962	Dutch	dutc1256	the ball	BALL	1845		bal	bal 
+971	12-12-83-2	72181920864620974	Dutch	dutc1256	the ball	BALL	1845		bol	bol 
+972	12-12-84-1	72181920361773549	Dutch	dutc1256	the line	LINE	1048		lijn	lijn 
+973	12-12-85-1	72181920746557641	Dutch	dutc1256	the hole	HOLE	1667		gat	gat 
+974	12-12-92-1	72181920147608544	Dutch	dutc1256	similar	SIMILAR	1558		gelijk	gelijk 
+975	12-12-93-1	72181920203177035	Dutch	dutc1256	to change	CHANGE	1264		veranderen	veranderen 
+976	12-13-1	72181920306509761	Dutch	dutc1256	zero	ZERO	1294		nul	nul 
+977	12-13-01-1	72181920758667338	Dutch	dutc1256	one	ONE	1493		een	een 
+978	12-13-02-1	72181920589390075	Dutch	dutc1256	two	TWO	1498		twee	twee 
+979	12-13-03-1	72181920914992867	Dutch	dutc1256	three	THREE	492		drie	drie 
+980	12-13-04-1	72181920545896291	Dutch	dutc1256	four	FOUR	1500		vier	vier 
+981	12-13-05-1	72181920626737890	Dutch	dutc1256	five	FIVE	493		vijf	vijf 
+982	12-13-06-1	7218192070917048	Dutch	dutc1256	six	SIX	1703		zes	zes 
+983	12-13-07-1	72181920590631291	Dutch	dutc1256	seven	SEVEN	1704		zeven (2)	zeven (2) 
+984	12-13-08-1	72181920936777869	Dutch	dutc1256	eight	EIGHT	1705		acht	acht 
+985	12-13-09-1	72181920559444380	Dutch	dutc1256	nine	NINE	1483		negen	negen 
+986	12-13-1-1	72181920887037884	Dutch	dutc1256	ten	TEN	1515		tien	tien 
+987	12-13-101-1	72181920225172928	Dutch	dutc1256	eleven	ELEVEN	1706		elf (1)	elf (1) 
+988	12-13-102-1	72181920275720706	Dutch	dutc1256	twelve	TWELVE	1707		twaalf	twaalf 
+989	12-13-103-1	72181920860696880	Dutch	dutc1256	fifteen	FIFTEEN	1709		vijftien	vijftien 
+990	12-13-104-1	72181920600031861	Dutch	dutc1256	twenty	TWENTY	1710		twintig	twintig 
+991	12-13-105-1	72181920699115211	Dutch	dutc1256	a hundred	HUNDRED	1634		honderd	honderd 
+992	12-13-106-1	7218192086083427	Dutch	dutc1256	a thousand	THOUSAND	1843		duizend	duizend 
+993	12-13-107-1	72181920390837298	Dutch	dutc1256	to count	COUNT	1420		tellen	tellen 
+994	12-13-14-1	72181920110402033	Dutch	dutc1256	all	ALL	98		alle	alle 
+995	12-13-15-1	72181920727155493	Dutch	dutc1256	many	MANY	1198		veel	veel 
+996	12-13-16-1	72181920342522579	Dutch	dutc1256	more	MORE	1992		meer (2)	meer (2) 
+997	12-13-17-1	7218192054718387	Dutch	dutc1256	few	FEW	1242		weinig	weinig 
+998	12-13-18-1	72181920458704495	Dutch	dutc1256	enough	ENOUGH	1881		genoeg	genoeg 
+999	12-13-181-1	7218192097534580	Dutch	dutc1256	some	SOME	1241		enkele	enkele 
+1000	12-13-19-1	72181920536293493	Dutch	dutc1256	the crowd	CROWD	2023		menigte	menigte 
+1001	12-13-21-1	72181920728539884	Dutch	dutc1256	full	FULL	1429		vol	vol 
+1002	12-13-22-1	72181920627962113	Dutch	dutc1256	empty	EMPTY	1624		leeg	leeg 
+1003	12-13-23-1	72181920694731543	Dutch	dutc1256	the part	PART	779		deel	deel 
+1004	12-13-24-1	7218192065927066	Dutch	dutc1256	the half	HALF	816		helft	helft 
+1005	12-13-33-1	72181920371062895	Dutch	dutc1256	only	ONLY	1580		enige	enige 
+1006	12-13-34-1	72181920133954924	Dutch	dutc1256	first	FIRST	728		eerste	eerste 
+1007	12-13-35-1	72181920579029904	Dutch	dutc1256	last	LAST (FINAL)	1529		laatste	laatste 
+1008	12-13-36-1	72181920395242199	Dutch	dutc1256	second	SECOND	1384		tweede	tweede 
+1009	12-13-37-1	72181920288186136	Dutch	dutc1256	the pair	PAIR	1888		paar	paar 
+1010	12-13-38-1	72181920182283506	Dutch	dutc1256	twice/two times	TWICE	1546		tweemaal	tweemaal 
+1011	12-13-42-1	72181920635566684	Dutch	dutc1256	third	THIRD	1859		derde	derde 
+1012	12-13-44-1	72181920586574275	Dutch	dutc1256	three times	THREE TIMES	417		driemaal	driemaal 
+1013	12-14-11-1	72181920334939289	Dutch	dutc1256	the time	TIME	892		tijd	tijd 
+1014	12-14-12-1	7218192027640670	Dutch	dutc1256	the age	AGE	1789		leeftijd	leeftijd 
+1015	12-14-13-1	72181920638659728	Dutch	dutc1256	new	NEW	1231		nieuw	nieuw 
+1016	12-14-14-1	72181920756494214	Dutch	dutc1256	young	YOUNG	1207		jong	jong 
+1017	12-14-15-1	72181920549701119	Dutch	dutc1256	old	OLD	1229		oud	oud 
+1018	12-14-16-1	72181920664547217	Dutch	dutc1256	early	EARLY	672		vroeg	vroeg 
+1019	12-14-17-1	7218192031219082	Dutch	dutc1256	late	LATE	477		laat	laat 
+1020	12-14-18-1	72181920722507782	Dutch	dutc1256	now	NOW	1376		nu	nu 
+1021	12-14-19-1	72181920285460583	Dutch	dutc1256	immediately	IMMEDIATELY	1963		direct	direct 
+1022	12-14-19-2	72181920584328652	Dutch	dutc1256	immediately	IMMEDIATELY	1963		onmiddellijk	onmiddellijk 
+1023	12-14-21-1	72181920996151878	Dutch	dutc1256	fast	FAST	1631		snel	snel 
+1024	12-14-22-1	7218192036705737	Dutch	dutc1256	slow	SLOW	701		langzaam	langzaam 
+1025	12-14-22-2	7424611217761660	Dutch	dutc1256	slow	SLOW	701		traag	traag 
+1026	12-14-23-1	72181920312476266	Dutch	dutc1256	to hurry	HURRY	754		zich haasten	zich haasten 
+1027	12-14-24-1	72181920172882416	Dutch	dutc1256	to be late	BE LATE	425		laat zijn	laat zijn 
+1028	12-14-25-1	72181920163382658	Dutch	dutc1256	to begin	BEGIN	1806		beginnen	beginnen 
+1029	12-14-252-1	72181920343066685	Dutch	dutc1256	to last	LAST (ENDURE)	1186		duren	duren 
+1030	12-14-26-1	72181920636093502	Dutch	dutc1256	the end(2)	END (OF TIME)	743		einde	einde 
+1031	12-14-27-1	72181920693063801	Dutch	dutc1256	to finish	FINISH	1766		afmaken	afmaken 
+1032	12-14-28-1	72181920237091728	Dutch	dutc1256	to cease	CEASE	1928		ophouden	ophouden 
+1033	12-14-28-2	72181920936771168	Dutch	dutc1256	to cease	CEASE	1928		stoppen	stoppen 
+1034	12-14-29-1	72181920701223963	Dutch	dutc1256	ready	READY	790		klaar	klaar 
+1035	12-14-29-2	7424612681780938	Dutch	dutc1256	ready	READY	790		gereed	gereed 
+1036	12-14-31-1	72181920837221697	Dutch	dutc1256	always	ALWAYS	1676		altijd	altijd 
+1037	12-14-32-1	72181920632484715	Dutch	dutc1256	often	OFTEN	1852		vaak	vaak 
+1038	12-14-33-1	72181920124257516	Dutch	dutc1256	sometimes	SOMETIMES	1544		soms	soms 
+1039	12-14-331-1	72181920332791429	Dutch	dutc1256	soon	SOON	703		gauw	gauw 
+1040	12-14-331-2	72181920665306336	Dutch	dutc1256	soon	SOON	703		spoedig	spoedig 
+1041	12-14-332-1	72181920982609339	Dutch	dutc1256	for a long time	FOR A LONG TIME	418		lang	lang 
+1042	12-14-34-1	72181920127996889	Dutch	dutc1256	never	NEVER	1656		nooit	nooit 
+1043	12-14-35-1	72181920201100029	Dutch	dutc1256	again	AGAIN	204		opnieuw	opnieuw 
+1044	12-14-35-2	72181920176190810	Dutch	dutc1256	again	AGAIN	204		weer (2)	weer (2) 
+1045	12-14-41-1	72181920958496954	Dutch	dutc1256	the day(1)	DAY (24 HOURS)	1260		dag	dag 
+1046	12-14-42-1	72181920781926240	Dutch	dutc1256	the night	NIGHT	1233		nacht	nacht 
+1047	12-14-43-1	72181920891702046	Dutch	dutc1256	the dawn	DAWN	729		dageraad	dageraad 
+1048	12-14-43-2	72181920248084804	Dutch	dutc1256	the dawn	DAWN	729		ochtendgloren	ochtendgloren 
+1049	12-14-44-1	72181920168429304	Dutch	dutc1256	the morning	MORNING	1339		ochtend	ochtend 
+1050	12-14-45-1	72181920725054371	Dutch	dutc1256	the midday	MIDDAY	12		middag (1)	middag (1) 
+1051	12-14-451-1	72181920676848882	Dutch	dutc1256	the afternoon	AFTERNOON	1807		middag (2)	middag (2) 
+1052	12-14-46-1	72181920682951378	Dutch	dutc1256	the evening	EVENING	1629		avond	avond 
+1053	12-14-47-1	72181920706121730	Dutch	dutc1256	today	TODAY	1283		vandaag	vandaag 
+1054	12-14-48-1	72181920959850583	Dutch	dutc1256	tomorrow	TOMORROW	1329		morgen	morgen 
+1055	12-14-481-1	72181920818701547	Dutch	dutc1256	the day after tomorrow	DAY AFTER TOMORROW	1179		overmorgen	overmorgen 
+1056	12-14-49-1	72181920937163007	Dutch	dutc1256	yesterday	YESTERDAY	1174		gisteren	gisteren 
+1057	12-14-491-1	72181920103427644	Dutch	dutc1256	the day before yesterday	DAY BEFORE YESTERDAY	1180		eergisteren	eergisteren 
+1058	12-14-51-1	7218192094748011	Dutch	dutc1256	the hour	HOUR	1353		uur	uur 
+1059	12-14-53-1	72181920548073991	Dutch	dutc1256	the clock	CLOCK	1323		klok	klok 
+1060	12-14-61-1	72181920629553944	Dutch	dutc1256	the week	WEEK	1469		week	week 
+1061	12-14-62-1	72181920727351387	Dutch	dutc1256	Sunday	SUNDAY	1699		zondag	zondag 
+1062	12-14-63-1	72181920379847004	Dutch	dutc1256	Monday	MONDAY	1697		maandag	maandag 
+1063	12-14-64-1	72181920940373558	Dutch	dutc1256	Tuesday	TUESDAY	1695		dinsdag	dinsdag 
+1064	12-14-65-1	72181920939558447	Dutch	dutc1256	Wednesday	WEDNESDAY	1694		woensdag	woensdag 
+1065	12-14-66-1	72181920298406641	Dutch	dutc1256	Thursday	THURSDAY	1693		donderdag	donderdag 
+1066	12-14-67-1	72181920422201367	Dutch	dutc1256	Friday	FRIDAY	1692		vrijdag	vrijdag 
+1067	12-14-68-1	72181920821498562	Dutch	dutc1256	Saturday	SATURDAY	1700		zaterdag	zaterdag 
+1068	12-14-71-1	7218192045392324	Dutch	dutc1256	the month	MONTH	1370		maand	maand 
+1069	12-14-73-1	72181920113837223	Dutch	dutc1256	the year	YEAR	1226		jaar	jaar 
+1070	12-14-74-1	72181920831966719	Dutch	dutc1256	the winter	WINTER	1471		winter	winter 
+1071	12-14-75-1	7218192044772786	Dutch	dutc1256	the spring(2)	SPRINGTIME	1537		lente	lente 
+1072	12-14-75-2	72181920408240720	Dutch	dutc1256	the spring(2)	SPRINGTIME	1537		voorjaar	voorjaar 
+1073	12-14-76-1	72181920647323624	Dutch	dutc1256	the summer	SUMMER	1342		zomer	zomer 
+1074	12-14-77-1	72181920919823433	Dutch	dutc1256	the autumn/fall	AUTUMN	1276		herfst	herfst 
+1075	12-14-77-2	72181920519404710	Dutch	dutc1256	the autumn/fall	AUTUMN	1276		najaar	najaar 
+1076	12-14-78-1	72181920299813257	Dutch	dutc1256	the season	SEASON	691		seizoen	seizoen 
+1077	12-15-21-1	72181920234635715	Dutch	dutc1256	to smell(1)	SMELL (STINK)	1587		ruiken	ruiken 
+1078	12-15-89-1	72181920414574512	Dutch	dutc1256	wrinkled	WRINKLED	380		rimpelig	rimpelig 
+1079	12-15-89-2	7218192064152240	Dutch	dutc1256	wrinkled	WRINKLED	380		gerimpeld	gerimpeld 
+1080	12-15-212-1	72181920234635715	Dutch	dutc1256	to sniff	SNIFF	375		ruiken	ruiken 
+1081	12-15-22-1	72181920234635715	Dutch	dutc1256	to smell(2)	SMELL (PERCEIVE)	1586		ruiken	ruiken 
+1082	12-15-25-1	72181920607371173	Dutch	dutc1256	fragrant	FRAGRANT	376		welriekend	welriekend 
+1083	12-15-26-1	72181920624140767	Dutch	dutc1256	stinking	STINKING	42		stinkend	stinkend 
+1084	12-15-31-1	72181920203057804	Dutch	dutc1256	to taste	TASTE (SOMETHING)	21		proeven	proeven 
+1085	12-15-31-2	72181920277747999	Dutch	dutc1256	to taste	TASTE (SOMETHING)	21		smaken	smaken 
+1086	12-15-35-1	72181920136242409	Dutch	dutc1256	sweet	SWEET	717		zoet	zoet 
+1087	12-15-36-1	72181920375357158	Dutch	dutc1256	salty	SALTY	1091		zout (2)	zout (2) 
+1088	12-15-37-1	7218192017799539	Dutch	dutc1256	bitter	BITTER	887		bitter	bitter 
+1089	12-15-38-1	72181920393958390	Dutch	dutc1256	sour	SOUR	1906		zuur	zuur 
+1090	12-15-39-1	72181920612304532	Dutch	dutc1256	brackish	BRACKISH	70		brak	brak 
+1091	12-15-41-1	72181920700487620	Dutch	dutc1256	to hear	HEAR	1408		horen	horen 
+1092	12-15-42-1	72181920644647842	Dutch	dutc1256	to listen	LISTEN	1608		luisteren	luisteren 
+1093	12-15-44-1	72181920375857989	Dutch	dutc1256	the sound or noise	SOUND OR NOISE	1811		geluid	geluid 
+1094	12-15-45-1	72181920105975456	Dutch	dutc1256	loud	LOUD	377		luid	luid 
+1095	12-15-46-1	72181920337299682	Dutch	dutc1256	quiet	QUIET	1314		stil	stil 
+1096	12-15-51-1	72181920601095121	Dutch	dutc1256	to see	SEE	1409		zien	zien 
+1097	12-15-52-1	72181920789355210	Dutch	dutc1256	to look	LOOK	1819		kijken	kijken 
+1098	12-15-55-1	72181920339922624	Dutch	dutc1256	to show	SHOW	1039		tonen	tonen 
+1099	12-15-56-1	72181920721195281	Dutch	dutc1256	to shine	SHINE	708		schijnen	schijnen 
+1100	12-15-57-1	72181920552510823	Dutch	dutc1256	bright	BRIGHT	679		hel (1)	hel (1) 
+1101	12-15-57-2	72181920504179989	Dutch	dutc1256	bright	BRIGHT	679		helder	helder 
+1102	12-15-61-1	72181920985955187	Dutch	dutc1256	the colour/color	COLOR	1613		kleur	kleur 
+1103	12-15-62-1	72181920868097191	Dutch	dutc1256	light(2)	LIGHT (COLOR)	250		licht (2)	licht (2) 
+1104	12-15-63-1	72181920705668823	Dutch	dutc1256	dark	DARK	706		donker	donker 
+1105	12-15-64-1	72181920914602909	Dutch	dutc1256	white	WHITE	1335		wit	wit 
+1106	12-15-65-1	72181920221993697	Dutch	dutc1256	black	BLACK	163		zwart	zwart 
+1107	12-15-66-1	72181920345232895	Dutch	dutc1256	red	RED	156		rood	rood 
+1108	12-15-67-1	72181920136804479	Dutch	dutc1256	blue	BLUE	837		blauw	blauw 
+1109	12-15-68-1	72181920654058523	Dutch	dutc1256	green	GREEN	1425		groen	groen 
+1110	12-15-69-1	72181920949712103	Dutch	dutc1256	yellow	YELLOW	1424		geel	geel 
+1111	12-15-71-1	72181920260143680	Dutch	dutc1256	to touch	TOUCH	1892		aanraken	aanraken 
+1112	12-15-712-1	72181920575137838	Dutch	dutc1256	to pinch	PINCH	378		knijpen	knijpen 
+1113	12-15-72-1	72181920688062780	Dutch	dutc1256	to feel	FEEL	1079		voelen	voelen 
+1114	12-15-74-1	72181920140208184	Dutch	dutc1256	hard	HARD	1884		hard	hard 
+1115	12-15-75-1	72181920388587074	Dutch	dutc1256	soft	SOFT	1856		zacht	zacht 
+1116	12-15-76-1	72181920557155350	Dutch	dutc1256	rough(1)	ROUGH	1923		ruw	ruw 
+1117	12-15-77-1	72181920779032407	Dutch	dutc1256	smooth	SMOOTH	1234		glad	glad 
+1118	12-15-78-1	72181920641875835	Dutch	dutc1256	sharp	SHARP	1396		scherp	scherp 
+1119	12-15-79-1	72181920217878967	Dutch	dutc1256	blunt	BLUNT	379		bot (2)	bot (2) 
+1120	12-15-81-1	72181920299643944	Dutch	dutc1256	heavy	HEAVY	1210		zwaar	zwaar 
+1121	12-15-82-1	72181920633264939	Dutch	dutc1256	light(1)	LIGHT (WEIGHT)	1052		licht (3)	licht (3) 
+1122	12-15-83-1	72181920253337253	Dutch	dutc1256	wet	WET	1726		nat	nat 
+1123	12-15-84-1	72181920426510095	Dutch	dutc1256	dry	DRY	1398		droog	droog 
+1124	12-15-85-1	7218192069562144	Dutch	dutc1256	hot	HOT	1286		heet	heet 
+1125	12-15-851-1	72181920183235985	Dutch	dutc1256	warm	WARM	1232		warm	warm 
+1126	12-15-86-1	72181920727395048	Dutch	dutc1256	cold	COLD	1287		koud	koud 
+1127	12-15-87-1	72181920475196253	Dutch	dutc1256	clean	CLEAN	704		schoon	schoon 
+1128	12-15-88-1	7218192036987762	Dutch	dutc1256	dirty	DIRTY	1230		vuil	vuil 
+1129	12-16-11-1	72181920719273254	Dutch	dutc1256	the soul or spirit	SOUL	811		geest (1)	geest (1) 
+1130	12-16-11-2	72181920865219863	Dutch	dutc1256	the soul or spirit	SOUL	811		ziel	ziel 
+1131	12-16-15-1	72181920585315261	Dutch	dutc1256	surprised or astonished	SURPRISED	1572		verbaasd	verbaasd 
+1132	12-16-18-1	72181920414465912	Dutch	dutc1256	the good luck	GOOD LUCK	720		geluk	geluk 
+1133	12-16-19-1	72181920319794593	Dutch	dutc1256	the bad luck	BAD LUCK	56		pech	pech 
+1134	12-16-19-2	72181920907988549	Dutch	dutc1256	the bad luck	BAD LUCK	56		ongeluk	ongeluk 
+1135	12-16-23-1	7218192043652208	Dutch	dutc1256	happy	HAPPY	1495		gelukkig	gelukkig 
+1136	12-16-25-1	72181920460653470	Dutch	dutc1256	to laugh	LAUGH	1355		lachen	lachen 
+1137	12-16-251-1	72181920984914624	Dutch	dutc1256	to smile	SMILE	1451		glimlachen	glimlachen 
+1138	12-16-26-1	72181920211212714	Dutch	dutc1256	to play	PLAY	1413		spelen	spelen 
+1139	12-16-27-1	72181920249727946	Dutch	dutc1256	to love	LOVE	923		houden van	houden van 
+1140	12-16-29-1	72181920387492104	Dutch	dutc1256	to kiss	KISS	578		kussen (2)	kussen (2) 
+1141	12-16-3-1	72181920643928018	Dutch	dutc1256	to embrace	EMBRACE	928		omhelzen	omhelzen 
+1142	12-16-31-1	72181920118455504	Dutch	dutc1256	the pain	PAIN	1783		pijn	pijn 
+1143	12-16-32-1	72181920330110954	Dutch	dutc1256	the grief	GRIEF	1668		verdriet	verdriet 
+1144	12-16-33-1	72181920214953595	Dutch	dutc1256	the anxiety	ANXIETY	1000		zorg	zorg 
+1145	12-16-34-1	72181920828202467	Dutch	dutc1256	to regret or be sorry	REGRET	1875		spijt hebben	spijt hebben 
+1146	12-16-35-1	72181920946972506	Dutch	dutc1256	the pity	PITY	1141		medelijden	medelijden 
+1147	12-16-37-1	72181920315666043	Dutch	dutc1256	to cry	CRY	1839		huilen	huilen 
+1148	12-16-37-2	72181920594474098	Dutch	dutc1256	to cry	CRY	1839		wenen	wenen 
+1149	12-16-38-1	72181920234909595	Dutch	dutc1256	the tear	TEAR (OF EYE)	1651		traan	traan 
+1150	12-16-39-1	72181920240817568	Dutch	dutc1256	to groan	GROAN	716		kreunen	kreunen 
+1151	12-16-41-1	72181920922232466	Dutch	dutc1256	to hate	HATE	1607		haten	haten 
+1152	12-16-42-1	72181920528808139	Dutch	dutc1256	the anger	ANGER	82		woede	woede 
+1153	12-16-44-1	72181920733371768	Dutch	dutc1256	the envy or jealousy	ENVY	40		jaloezie	jaloezie 
+1154	12-16-44-2	72181920180626563	Dutch	dutc1256	the envy or jealousy	ENVY	40		afgunst	afgunst 
+1155	12-16-45-1	72181920142497625	Dutch	dutc1256	the shame	SHAME	1776		schaamte	schaamte 
+1156	12-16-48-1	72181920158533153	Dutch	dutc1256	proud	PROUD	174		trots	trots 
+1157	12-16-51-1	72181920671303544	Dutch	dutc1256	to dare	DARE	1779		durven	durven 
+1158	12-16-52-1	72181920118358977	Dutch	dutc1256	brave	BRAVE	3		dapper	dapper 
+1159	12-16-53-1	72181920909077913	Dutch	dutc1256	the fear	FEAR (FRIGHT)	781		angst	angst 
+1160	12-16-54-1	72181920749043890	Dutch	dutc1256	the danger	DANGER	1810		gevaar	gevaar 
+1161	12-16-62-1	72181920737308467	Dutch	dutc1256	to want	WANT	1784		verlangen	verlangen 
+1162	12-16-62-2	72181920544705502	Dutch	dutc1256	to want	WANT	1784		wensen	wensen 
+1163	12-16-622-1	72181920909076506	Dutch	dutc1256	to choose	CHOOSE	1750		kiezen	kiezen 
+1164	12-16-63-1	72181920126387676	Dutch	dutc1256	to hope	HOPE (SOMETHING)	3212		hopen	hopen 
+1165	12-16-65-1	72181920800190100	Dutch	dutc1256	faithful	FAITHFUL	100		trouw	trouw 
+1166	12-16-66-1	72181920420230777	Dutch	dutc1256	true	TRUE	1657		waar (1)	waar (1) 
+1167	12-16-67-1	7218192057327804	Dutch	dutc1256	to lie(2)	LIE (MISLEAD)	601		liegen	liegen 
+1168	12-16-68-1	72181920122486971	Dutch	dutc1256	the deceit	DECEIT	13		bedrog	bedrog 
+1169	12-16-69-1	72181920235847490	Dutch	dutc1256	to forgive	FORGIVE	1528		vergeven	vergeven 
+1170	12-16-71-1	72181920551403965	Dutch	dutc1256	good	GOOD	1035		goed	goed 
+1171	12-16-72-1	72181920938527604	Dutch	dutc1256	bad	BAD	1292		slecht	slecht 
+1172	12-16-73-1	72181920123163528	Dutch	dutc1256	right(2)	CORRECT (RIGHT)	1725		juist	juist 
+1173	12-16-74-1	72181920101369710	Dutch	dutc1256	wrong	WRONG	1390		verkeerd	verkeerd 
+1174	12-16-76-1	72181920748906602	Dutch	dutc1256	the fault	FAULT	134		schuld	schuld 
+1175	12-16-77-1	72181920490790417	Dutch	dutc1256	the mistake	MISTAKE	1293		fout	fout 
+1176	12-16-78-1	72181920748906602	Dutch	dutc1256	the blame	BLAME	381		schuld	schuld 
+1177	12-16-79-1	72181920649249298	Dutch	dutc1256	the praise	PRAISE	1687		lof	lof 
+1178	12-16-81-1	72181920672171463	Dutch	dutc1256	beautiful	BEAUTIFUL	1427		mooi	mooi 
+1179	12-16-82-1	7218192067354790	Dutch	dutc1256	ugly	UGLY	1548		lelijk	lelijk 
+1180	12-16-83-1	72181920535833067	Dutch	dutc1256	greedy	GREEDY	2018		gulzig	gulzig 
+1181	12-16-84-1	72181920312437533	Dutch	dutc1256	clever	CLEVER	1310		slim	slim 
+1182	12-17-11-1	72181920849598670	Dutch	dutc1256	the mind	MIND	1562		verstand	verstand 
+1183	12-17-11-2	72181920238772367	Dutch	dutc1256	the mind	MIND	1562		geest (2)	geest (2) 
+1184	12-17-13-1	72181920477169928	Dutch	dutc1256	to think(1)	THINK (REFLECT)	1415		denken	denken 
+1185	12-17-14-1	72181920204123502	Dutch	dutc1256	to think(2)	THINK (BELIEVE)	1513		menen	menen 
+1186	12-17-15-1	72181920734770922	Dutch	dutc1256	to believe	BELIEVE	1890		geloven	geloven 
+1187	12-17-16-1	72181920155924122	Dutch	dutc1256	to understand	UNDERSTAND	1536		begrijpen	begrijpen 
+1188	12-17-17-1	72181920384553825	Dutch	dutc1256	to know	KNOW (SOMETHING)	1410		weten	weten 
+1189	12-17-171-1	72181920174598424	Dutch	dutc1256	to guess	GUESS	1932		gissen	gissen 
+1190	12-17-171-2	72181920831615544	Dutch	dutc1256	to guess	GUESS	1932		raden	raden 
+1191	12-17-172-1	72181920608074836	Dutch	dutc1256	to imitate	IMITATE	117		nadoen	nadoen 
+1192	12-17-172-2	72181920411202528	Dutch	dutc1256	to imitate	IMITATE	117		imiteren	imiteren 
+1193	12-17-18-1	72181920871768787	Dutch	dutc1256	to seem	SEEM	1521		lijken	lijken 
+1194	12-17-19-1	72181920705254370	Dutch	dutc1256	the idea	IDEA	1609		idee	idee 
+1195	12-17-21-1	72181920297887900	Dutch	dutc1256	wise	WISE	698		wijs (1)	wijs (1) 
+1196	12-17-21-2	72181920502866917	Dutch	dutc1256	wise	WISE	698		verstandig	verstandig 
+1197	12-17-22-1	72181920978901387	Dutch	dutc1256	stupid	STUPID	1518		dom	dom 
+1198	12-17-23-1	7218192089392772	Dutch	dutc1256	mad	MAD	1899		gek	gek 
+1199	12-17-24-1	72181920921476443	Dutch	dutc1256	to learn	LEARN	504		leren	leren 
+1200	12-17-242-1	72181920990524948	Dutch	dutc1256	to study	STUDY	1929		studeren	studeren 
+1201	12-17-25-1	7218192095242218	Dutch	dutc1256	to teach	TEACH	709		onderwijzen	onderwijzen 
+1202	12-17-26-1	72181920590156266	Dutch	dutc1256	the pupil	PUPIL (STUDENT)	753		leerling	leerling 
+1203	12-17-27-1	72181920202668498	Dutch	dutc1256	the teacher	TEACHER	1038		leraar	leraar 
+1204	12-17-28-1	72181920171931843	Dutch	dutc1256	the school	SCHOOL	673		school	school 
+1205	12-17-31-1	7218192083383302	Dutch	dutc1256	to remember	REMEMBER	707		zich herinneren	zich herinneren 
+1206	12-17-32-1	72181920157051299	Dutch	dutc1256	to forget	FORGET	1523		vergeten	vergeten 
+1207	12-17-34-1	72181920465471276	Dutch	dutc1256	clear	CLEAR	989		duidelijk	duidelijk 
+1208	12-17-35-1	72181920902317617	Dutch	dutc1256	obscure	OBSCURE	1764		onduidelijk	onduidelijk 
+1209	12-17-36-1	72181920951667793	Dutch	dutc1256	secret	SECRET	1121		geheim	geheim 
+1210	12-17-37-1	72181920373494512	Dutch	dutc1256	certain	CERTAIN	509		zeker	zeker 
+1211	12-17-38-1	72181920614940964	Dutch	dutc1256	to explain	EXPLAIN	1626		uitleggen	uitleggen 
+1212	12-17-41-1	72181920201940836	Dutch	dutc1256	the intention	INTENTION	1162		bedoeling	bedoeling 
+1213	12-17-42-1	72181920650076957	Dutch	dutc1256	the cause	CAUSE	860		oorzaak	oorzaak 
+1214	12-17-42-2	72181920229971255	Dutch	dutc1256	the cause	CAUSE	860		reden	reden 
+1215	12-17-43-1	72181920676188475	Dutch	dutc1256	the doubt	DOUBT	1308		twijfel	twijfel 
+1216	12-17-44-1	72181920452691761	Dutch	dutc1256	to suspect	SUSPECT	1841		vermoeden	vermoeden 
+1217	12-17-441-1	7218192068283183	Dutch	dutc1256	to betray	BETRAY	1902		verraden	verraden 
+1218	12-17-45-1	72181920271861528	Dutch	dutc1256	the need or necessity	NEED (NOUN)	643		noodzaak	noodzaak 
+1219	12-17-46-1	72181920221889020	Dutch	dutc1256	easy	EASY	686		gemakkelijk	gemakkelijk 
+1220	12-17-47-1	7218192029790168	Dutch	dutc1256	difficult	DIFFICULT	584		moeilijk	moeilijk 
+1221	12-17-48-1	7218192052840443	Dutch	dutc1256	to try	TRY	1812		proberen	proberen 
+1222	12-17-48-2	72181920880065451	Dutch	dutc1256	to try	TRY	1812		trachten	trachten 
+1223	12-17-49-1	7218192065351617	Dutch	dutc1256	the manner	MANNER	488		manier	manier 
+1224	12-17-49-2	72181920306187747	Dutch	dutc1256	the manner	MANNER	488		wijs (2)	wijs (2) 
+1225	12-17-51-1	72181920662435992	Dutch	dutc1256	and	AND	1577		en	en 
+1226	12-17-52-1	72181920103069970	Dutch	dutc1256	because	BECAUSE	1157		omdat	omdat 
+1227	12-17-53-1	72181920487524517	Dutch	dutc1256	if	IF	1459		als	als 
+1228	12-17-53-2	72181920414603811	Dutch	dutc1256	if	IF	1459		indien	indien 
+1229	12-17-54-1	72181920395163446	Dutch	dutc1256	or	OR	1014		of	of 
+1230	12-17-55-1	72181920584575577	Dutch	dutc1256	yes	YES	1268		ja	ja 
+1231	12-17-56-1	72181920118663703	Dutch	dutc1256	no	NO	1269		nee	nee 
+1232	12-17-61-1	72181920499551337	Dutch	dutc1256	how?	HOW	1239		hoe	hoe 
+1233	12-17-62-1	72181920745715658	Dutch	dutc1256	how many?	HOW MANY	822		hoeveel	hoeveel 
+1234	12-17-63-1	72181920745715658	Dutch	dutc1256	how much?	HOW MUCH	531		hoeveel	hoeveel 
+1235	12-17-64-1	72181920963260170	Dutch	dutc1256	what?	WHAT	1236		wat	wat 
+1236	12-17-65-1	72181920909494469	Dutch	dutc1256	when?	WHEN	1238		wanneer	wanneer 
+1237	12-17-66-1	72181920928722574	Dutch	dutc1256	where?	WHERE	1237		waar (2)	waar (2) 
+1238	12-17-67-1	7218192059557577	Dutch	dutc1256	which?	WHICH	727		welke	welke 
+1239	12-17-68-1	72181920515777479	Dutch	dutc1256	who?	WHO	1235		wie	wie 
+1240	12-17-69-1	72181920557469061	Dutch	dutc1256	why?	WHY	1270		waarom	waarom 
+1241	12-18-11-1	72181920131355501	Dutch	dutc1256	the voice	VOICE	1363		stem	stem 
+1242	12-18-12-1	72181920427725918	Dutch	dutc1256	to sing	SING	1261		zingen	zingen 
+1243	12-18-13-1	72181920886052612	Dutch	dutc1256	to shout	SHOUT	715		schreeuwen	schreeuwen 
+1244	12-18-15-1	72181920463290506	Dutch	dutc1256	to whisper	WHISPER	55		fluisteren	fluisteren 
+1245	12-18-16-1	72181920244324498	Dutch	dutc1256	to mumble	MUMBLE	128		mompelen	mompelen 
+1246	12-18-17-1	72181920990280550	Dutch	dutc1256	to whistle	WHISTLE	1025		fluiten	fluiten 
+1247	12-18-18-1	72181920937441975	Dutch	dutc1256	to shriek	SHRIEK	298		krijsen	krijsen 
+1248	12-18-18-2	72181920886052612	Dutch	dutc1256	to shriek	SHRIEK	298		schreeuwen	schreeuwen 
+1249	12-18-19-1	72181920315666043	Dutch	dutc1256	to howl	HOWL	526		huilen	huilen 
+1250	12-18-21-1	72181920496281035	Dutch	dutc1256	to speak or talk	SPEAK	1623		spreken	spreken 
+1251	12-18-211-1	72181920967931590	Dutch	dutc1256	to stutter or stammer	STUTTER	1866		stamelen	stamelen 
+1252	12-18-211-2	72181920569813704	Dutch	dutc1256	to stutter or stammer	STUTTER	1866		stotteren	stotteren 
+1253	12-18-22-1	72181920698917615	Dutch	dutc1256	to say	SAY	1458		zeggen	zeggen 
+1254	12-18-221-1	72181920621020901	Dutch	dutc1256	to tell	TELL	1711		vertellen	vertellen 
+1255	12-18-222-1	72181920297266079	Dutch	dutc1256	the speech	SPEECH	1115		toespraak	toespraak 
+1256	12-18-23-1	72181920952407561	Dutch	dutc1256	to be silent	BE SILENT	48		zwijgen	zwijgen 
+1257	12-18-24-1	72181920852433297	Dutch	dutc1256	the language	LANGUAGE	1307		taal	taal 
+1258	12-18-26-1	72181920149730652	Dutch	dutc1256	the word	WORD	1599		woord	woord 
+1259	12-18-28-1	72181920351368662	Dutch	dutc1256	the name	NAME	1405		naam	naam 
+1260	12-18-31-1	72181920148859230	Dutch	dutc1256	to ask(1)	ASK (INQUIRE)	1309		vragen	vragen 
+1261	12-18-32-1	72181920515202722	Dutch	dutc1256	to answer	ANSWER	1275		antwoorden	antwoorden 
+1262	12-18-33-1	72181920989561705	Dutch	dutc1256	to admit	ADMIT	2022		bekennen	bekennen 
+1263	12-18-33-2	72181920686699651	Dutch	dutc1256	to admit	ADMIT	2022		toegeven	toegeven 
+1264	12-18-34-1	72181920412580113	Dutch	dutc1256	to deny	DENY	755		ontkennen	ontkennen 
+1265	12-18-35-1	72181920148859230	Dutch	dutc1256	to ask(2)	ASK (REQUEST)	1828		vragen	vragen 
+1266	12-18-35-2	72181920668749814	Dutch	dutc1256	to ask(2)	ASK (REQUEST)	1828		verzoeken	verzoeken 
+1267	12-18-36-1	72181920881583143	Dutch	dutc1256	to promise	PROMISE	1675		beloven	beloven 
+1268	12-18-37-1	72181920463456987	Dutch	dutc1256	to refuse	REFUSE	49		weigeren	weigeren 
+1269	12-18-38-1	72181920862304394	Dutch	dutc1256	to forbid	FORBID	83		verbieden	verbieden 
+1270	12-18-39-1	72181920767492432	Dutch	dutc1256	to scold	SCOLD	299		berispen	berispen 
+1271	12-18-41-1	72181920630742570	Dutch	dutc1256	to call(1)	CALL	1084		bijeenroepen	bijeenroepen 
+1272	12-18-42-1	72181920904293201	Dutch	dutc1256	to call(2)	CALL BY NAME	180		noemen	noemen 
+1273	12-18-43-1	72181920207095981	Dutch	dutc1256	to announce	ANNOUNCE	9		aankondigen	aankondigen 
+1274	12-18-44-1	72181920541606063	Dutch	dutc1256	to threaten	THREATEN	1192		dreigen	dreigen 
+1275	12-18-45-1	7218192033896534	Dutch	dutc1256	to boast	BOAST	101		opscheppen	opscheppen 
+1276	12-18-51-1	72181920337869590	Dutch	dutc1256	to write	WRITE	1672		schrijven	schrijven 
+1277	12-18-52-1	72181920167749089	Dutch	dutc1256	to read	READ	724		lezen	lezen 
+1278	12-18-56-1	7218192015221924	Dutch	dutc1256	the paper	PAPER	648		papier	papier 
+1279	12-18-57-1	721819202466881	Dutch	dutc1256	the pen	PEN	794		pen	pen 
+1280	12-18-61-1	72181920728752913	Dutch	dutc1256	the book	BOOK	963		boek	boek 
+1281	12-18-67-1	72181920340601022	Dutch	dutc1256	the poet	POET	1045		dichter	dichter 
+1282	12-18-71-1	72181920213849275	Dutch	dutc1256	the flute	FLUTE	777		fluit	fluit 
+1283	12-18-72-1	72181920105743441	Dutch	dutc1256	the drum	DRUM	908		trommel	trommel 
+1284	12-18-72-2	72181920501761864	Dutch	dutc1256	the drum	DRUM	908		trom	trom 
+1285	12-18-73-1	72181920541350600	Dutch	dutc1256	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		hoorn (2)	hoorn (2) 
+1286	12-18-73-2	72181920846417385	Dutch	dutc1256	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		trompet	trompet 
+1287	12-18-74-1	72181920108274281	Dutch	dutc1256	the rattle	RATTLE	300		ratel	ratel 
+1288	12-19-11-1	72181920189967087	Dutch	dutc1256	the country	COUNTRY	1300		land	land 
+1289	12-19-12-1	72181920147990387	Dutch	dutc1256	the native country	NATIVE COUNTRY	89		vaderland	vaderland 
+1290	12-19-15-1	72181920626445254	Dutch	dutc1256	the town	TOWN	1391		stad	stad 
+1291	12-19-16-1	72181920262201329	Dutch	dutc1256	the village	VILLAGE	930		dorp	dorp 
+1292	12-19-17-1	72181920362624244	Dutch	dutc1256	the boundary	BOUNDARY	1010		grens	grens 
+1293	12-19-21-1	72181920468135181	Dutch	dutc1256	the people	PEOPLE	789		bevolking	bevolking 
+1294	12-19-23-1	72181920580023299	Dutch	dutc1256	the clan	CLAN	302		geslacht	geslacht 
+1295	12-19-24-1	72181920258484100	Dutch	dutc1256	the chieftain	CHIEFTAIN	301		leider	leider 
+1296	12-19-25-1	72181920882054651	Dutch	dutc1256	the walking stick	WALKING STICK	1296		wandelstok	wandelstok 
+1297	12-19-31-1	72181920402712615	Dutch	dutc1256	to rule or govern	RULE	1846		heersen	heersen 
+1298	12-19-31-2	72181920572745437	Dutch	dutc1256	to rule or govern	RULE	1846		regeren	regeren 
+1299	12-19-32-1	72181920117053827	Dutch	dutc1256	the king	KING	1508		koning	koning 
+1300	12-19-33-1	7218192076569273	Dutch	dutc1256	the queen	QUEEN	1306		koningin	koningin 
+1301	12-19-36-1	72181920520498759	Dutch	dutc1256	the noble	NOBLE	482		edele	edele 
+1302	12-19-37-1	72181920104136825	Dutch	dutc1256	the citizen	CITIZEN	1032		burger	burger 
+1303	12-19-41-1	72181920361994926	Dutch	dutc1256	the master	MASTER	383		baas	baas 
+1304	12-19-41-2	7218192085991338	Dutch	dutc1256	the master	MASTER	383		meester	meester 
+1305	12-19-42-1	72181920748689118	Dutch	dutc1256	the slave	SLAVE	812		slaaf	slaaf 
+1306	12-19-43-1	72181920860890237	Dutch	dutc1256	the servant	SERVANT	255		bediende	bediende 
+1307	12-19-44-1	72181920905150100	Dutch	dutc1256	the freeman	FREEMAN	384		vrije	vrije 
+1308	12-19-45-1	72181920985164429	Dutch	dutc1256	to command or order	ORDER	1128		bevelen	bevelen 
+1309	12-19-45-2	72181920271144908	Dutch	dutc1256	to command or order	ORDER	1128		opdragen	opdragen 
+1310	12-19-46-1	72181920201915515	Dutch	dutc1256	to obey	OBEY	1635		gehoorzamen	gehoorzamen 
+1311	12-19-47-1	72181920193125428	Dutch	dutc1256	to permit	PERMIT	1003		toestaan	toestaan 
+1312	12-19-51-1	72181920527897728	Dutch	dutc1256	the friend	FRIEND	1325		vriend	vriend 
+1313	12-19-52-1	72181920575759296	Dutch	dutc1256	the enemy	ENEMY	1358		vijand	vijand 
+1314	12-19-54-1	72181920488772324	Dutch	dutc1256	the neighbour	NEIGHBOUR	1332		buur	buur 
+1315	12-19-55-1	72181920499791726	Dutch	dutc1256	the stranger	STRANGER	791		vreemdeling	vreemdeling 
+1316	12-19-55-2	72181920867804597	Dutch	dutc1256	the stranger	STRANGER	791		vreemde	vreemde 
+1317	12-19-56-1	72181920169147546	Dutch	dutc1256	the guest	GUEST	1782		gast	gast 
+1318	12-19-57-1	7218192085473478	Dutch	dutc1256	the host	HOST	1545		gastheer	gastheer 
+1319	12-19-58-1	72181920503747850	Dutch	dutc1256	to help	HELP	1897		helpen	helpen 
+1320	12-19-59-1	7218192086507941	Dutch	dutc1256	to prevent	PREVENT	1550		verhinderen	verhinderen 
+1321	12-19-59-2	72181920652932116	Dutch	dutc1256	to prevent	PREVENT	1550		weerhouden	weerhouden 
+1322	12-19-61-1	72181920576824672	Dutch	dutc1256	the custom	CUSTOM	1747		gewoonte	gewoonte 
+1323	12-19-62-1	72181920488517071	Dutch	dutc1256	the quarrel	QUARREL	1848		ruzie	ruzie 
+1324	12-19-63-1	72181920352635406	Dutch	dutc1256	the plot	PLOT	2024		samenzwering	samenzwering 
+1325	12-19-65-1	72181920151296863	Dutch	dutc1256	to meet	MEET	1831		ontmoeten	ontmoeten 
+1326	12-19-72-1	72181920933906234	Dutch	dutc1256	the prostitute	PROSTITUTE	1610		hoer	hoer 
+1327	12-19-72-2	72181920596906328	Dutch	dutc1256	the prostitute	PROSTITUTE	1610		prostituee	prostituee 
+1328	12-20-11-1	72181920432290028	Dutch	dutc1256	to fight	FIGHT	1423		strijden	strijden 
+1329	12-20-11-2	72181920356186893	Dutch	dutc1256	to fight	FIGHT	1423		vechten	vechten 
+1330	12-20-13-1	72181920210536790	Dutch	dutc1256	the war or battle	BATTLE	579		oorlog	oorlog 
+1331	12-20-13-2	72181920727831471	Dutch	dutc1256	the war or battle	BATTLE	579		gevecht	gevecht 
+1332	12-20-13-3	72181920639225748	Dutch	dutc1256	the war or battle	BATTLE	579		strijd	strijd 
+1333	12-20-14-1	72181920279183506	Dutch	dutc1256	the peace	PEACE	1338		vrede	vrede 
+1334	12-20-15-1	72181920190103406	Dutch	dutc1256	the army	ARMY	1561		leger	leger 
+1335	12-20-17-1	72181920260126337	Dutch	dutc1256	the soldier	SOLDIER	1941		soldaat	soldaat 
+1336	12-20-21-1	72181920334143057	Dutch	dutc1256	the weapons	WEAPONS	951		wapens	wapens 
+1337	12-20-22-1	72181920375120645	Dutch	dutc1256	the club	CLUB	1763		knuppel	knuppel 
+1338	12-20-222-1	72181920699177679	Dutch	dutc1256	the battle-axe	BATTLE-AXE	386		strijdbijl	strijdbijl 
+1339	12-20-23-1	7218192046380560	Dutch	dutc1256	the sling	SLING	387		katapult	katapult 
+1340	12-20-24-1	72181920326061646	Dutch	dutc1256	the bow	BOW	994		boog (2)	boog (2) 
+1341	12-20-25-1	72181920895465175	Dutch	dutc1256	the arrow	ARROW	977		pijl	pijl 
+1342	12-20-26-1	72181920717210647	Dutch	dutc1256	the spear	SPEAR	945		speer	speer 
+1343	12-20-27-1	72181920465137475	Dutch	dutc1256	the sword	SWORD	1535		zwaard	zwaard 
+1344	12-20-28-1	72181920348710673	Dutch	dutc1256	the gun	GUN	1566		geweer	geweer 
+1345	12-20-31-1	72181920443053243	Dutch	dutc1256	the armour	ARMOUR	1061		harnas	harnas 
+1346	12-20-33-1	72181920845223205	Dutch	dutc1256	the helmet	HELMET	1680		helm	helm 
+1347	12-20-34-1	72181920297229748	Dutch	dutc1256	the shield	SHIELD	1064		schild	schild 
+1348	12-20-35-1	7218192067646752	Dutch	dutc1256	the fortress	FORTRESS	1938		vesting	vesting 
+1349	12-20-36-1	72181920206808954	Dutch	dutc1256	the tower	TOWER	1671		toren	toren 
+1350	12-20-41-1	72181920474613119	Dutch	dutc1256	the victory	VICTORY	783		overwinning	overwinning 
+1351	12-20-42-1	72181920636854934	Dutch	dutc1256	the defeat	DEFEAT	782		nederlaag	nederlaag 
+1352	12-20-43-1	72181920839084328	Dutch	dutc1256	the attack	ATTACK	722		aanval	aanval 
+1353	12-20-44-1	72181920591654160	Dutch	dutc1256	to defend	DEFEND	1330		verdedigen	verdedigen 
+1354	12-20-45-1	72181920394198575	Dutch	dutc1256	to retreat	RETREAT	421		zich terugtrekken	zich terugtrekken 
+1355	12-20-46-1	72181920114825245	Dutch	dutc1256	to surrender	SURRENDER	1696		zich overgeven	zich overgeven 
+1356	12-20-47-1	72181920359264917	Dutch	dutc1256	the captive or prisoner	PRISONER	1072		gevangene	gevangene 
+1357	12-20-471-1	72181920832374816	Dutch	dutc1256	the guard	GUARD	1940		bewaker	bewaker 
+1358	12-20-48-1	72181920214294438	Dutch	dutc1256	the booty	BOOTY	1022		buit	buit 
+1359	12-20-49-1	72181920557842988	Dutch	dutc1256	the ambush	AMBUSH	65		hinderlaag	hinderlaag 
+1360	12-20-51-1	72181920145392995	Dutch	dutc1256	the fisherman	FISHERMAN	1858		visser	visser 
+1361	12-20-52-1	7218192079216305	Dutch	dutc1256	the fishhook	FISHHOOK	1074		vishaak	vishaak 
+1362	12-20-53-1	72181920447661373	Dutch	dutc1256	the fishing line	FISHING LINE	19		vislijn	vislijn 
+1363	12-20-54-1	72181920663181493	Dutch	dutc1256	the fishnet	FISHNET	388		visnet	visnet 
+1364	12-20-55-1	72181920673824147	Dutch	dutc1256	the fish trap	FISH TRAP	389		fuik	fuik 
+1365	12-20-56-1	72181920981543306	Dutch	dutc1256	the bait	BAIT	2013		aas	aas 
+1366	12-20-61-1	72181920851920449	Dutch	dutc1256	to hunt	HUNT	1435		jagen	jagen 
+1367	12-20-62-1	72181920528021042	Dutch	dutc1256	to shoot	SHOOT	1172		schieten	schieten 
+1368	12-20-63-1	72181920764604564	Dutch	dutc1256	to miss	MISS (A TARGET)	161		missen	missen 
+1369	12-20-64-1	72181920779811216	Dutch	dutc1256	the trap	TRAP (PITFALL)	1075		val	val 
+1370	12-20-64-2	72181920705028154	Dutch	dutc1256	the trap	TRAP (PITFALL)	1075		strik	strik 
+1371	12-20-65-1	72181920568928020	Dutch	dutc1256	to trap	TRAP (CATCH)	1170		vangen	vangen 
+1372	12-21-11-1	72181920929782632	Dutch	dutc1256	the law	LAW	1062		wet	wet 
+1373	12-21-15-1	72181920928964346	Dutch	dutc1256	the court	COURT	1068		rechtbank	rechtbank 
+1374	12-12-013-1	7218192072510063	Dutch	dutc1256	at	AT	1461		op	op 
+1375	12-12-013-2	72181920176782904	Dutch	dutc1256	at	AT	1461		te	te 
+1376	12-12-013-3	72181920365229368	Dutch	dutc1256	at	AT	1461		in	in 
+1377	12-21-16-1	72181920765759194	Dutch	dutc1256	to adjudicate	ADJUDICATE	1818		rechtspreken	rechtspreken 
+1378	12-21-17-1	72181920393670131	Dutch	dutc1256	the judgment	JUDGMENT	1067		vonnis	vonnis 
+1379	12-21-18-1	72181920297230375	Dutch	dutc1256	the judge	JUDGE	861		rechter	rechter 
+1380	12-21-21-1	72181920745514778	Dutch	dutc1256	the plaintiff	PLAINTIFF	2020		aanklager	aanklager 
+1381	12-21-22-1	72181920444354743	Dutch	dutc1256	the defendant	DEFENDANT	1034		gedaagde	gedaagde 
+1382	12-21-22-2	72181920711423950	Dutch	dutc1256	the defendant	DEFENDANT	1034		verdachte	verdachte 
+1383	12-21-23-1	72181920157071144	Dutch	dutc1256	the witness	WITNESS	1144		getuige	getuige 
+1384	12-21-24-1	72181920981767419	Dutch	dutc1256	to swear	SWEAR	1939		zweren	zweren 
+1385	12-21-25-1	72181920788109222	Dutch	dutc1256	the oath	OATH	1712		eed	eed 
+1386	12-21-31-1	72181920902319188	Dutch	dutc1256	to accuse	ACCUSE	1814		beschuldigen	beschuldigen 
+1387	12-21-32-1	72181920760978345	Dutch	dutc1256	to condemn	CONDEMN	484		veroordelen	veroordelen 
+1388	12-21-33-1	72181920760978345	Dutch	dutc1256	to convict	CONVICT	983		veroordelen	veroordelen 
+1389	12-21-34-1	72181920188896620	Dutch	dutc1256	to acquit	ACQUIT	988		vrijspreken	vrijspreken 
+1390	12-21-35-1	72181920425583511	Dutch	dutc1256	guilty	GUILTY	1682		schuldig	schuldig 
+1391	12-21-36-1	7218192035637810	Dutch	dutc1256	innocent	INNOCENT	90		onschuldig	onschuldig 
+1392	12-21-37-1	72181920532523334	Dutch	dutc1256	the penalty or punishment	PUNISHMENT	390		straf	straf 
+1393	12-21-38-1	72181920557511740	Dutch	dutc1256	the fine	FINE (PENALTY)	218		boete	boete 
+1394	12-21-39-1	72181920862892144	Dutch	dutc1256	the prison	PRISON	1281		gevangenis	gevangenis 
+1395	12-21-42-1	72181920451627257	Dutch	dutc1256	the murder	MURDER	845		moord	moord 
+1396	12-21-43-1	72181920311054655	Dutch	dutc1256	the adultery	ADULTERY	902		overspel	overspel 
+1397	12-21-44-1	72181920490822452	Dutch	dutc1256	the rape	RAPE	953		aanranding	aanranding 
+1398	12-21-46-1	7218192044067536	Dutch	dutc1256	the arson	ARSON	1889		brandstichting	brandstichting 
+1399	12-21-47-1	72181920127131445	Dutch	dutc1256	the perjury	PERJURY	1792		meineed	meineed 
+1400	12-21-51-1	72181920758286163	Dutch	dutc1256	to steal	STEAL	713		stelen	stelen 
+1401	12-21-52-1	72181920654848131	Dutch	dutc1256	the thief	THIEF	1160		dief	dief 
+1402	12-22-11-1	72181920147426421	Dutch	dutc1256	the religion	RELIGION	661		godsdienst	godsdienst 
+1403	12-22-12-1	72181920984038476	Dutch	dutc1256	the god	DEITY	3231		god	god 
+1404	12-22-13-1	72181920984463473	Dutch	dutc1256	the temple	TEMPLE	911		tempel	tempel 
+1405	12-22-14-1	72181920202467666	Dutch	dutc1256	the altar	ALTAR	853		altaar	altaar 
+1406	12-22-15-1	72181920208964386	Dutch	dutc1256	the sacrifice	SACRIFICE	1103		offer	offer 
+1407	12-22-16-1	72181920632091848	Dutch	dutc1256	to worship	WORSHIP	257		aanbidden	aanbidden 
+1408	12-22-16-2	72181920336075019	Dutch	dutc1256	to worship	WORSHIP	257		vereren	vereren 
+1409	12-22-17-1	72181920783138410	Dutch	dutc1256	to pray	PRAY	24		bidden	bidden 
+1410	12-22-18-1	72181920839551837	Dutch	dutc1256	the priest	PRIEST	852		priester	priester 
+1411	12-22-19-1	72181920513997049	Dutch	dutc1256	holy	HOLY	1702		heilig	heilig 
+1412	12-22-22-1	7218192047383058	Dutch	dutc1256	to preach	PREACH	304		preken	preken 
+1413	12-22-23-1	72181920466533468	Dutch	dutc1256	to bless	BLESS	391		zegenen	zegenen 
+1414	12-22-24-1	72181920362202662	Dutch	dutc1256	to curse	CURSE	8		vervloeken	vervloeken 
+1415	12-22-26-1	72181920495557122	Dutch	dutc1256	to fast	ABSTAIN FROM FOOD	303		vasten	vasten 
+1416	12-22-31-1	72181920984583705	Dutch	dutc1256	the heaven	HEAVEN	1565		hemel	hemel 
+1417	12-22-32-1	72181920293166186	Dutch	dutc1256	the hell	HELL	878		hel (2)	hel (2) 
+1418	12-22-35-1	72181920842812301	Dutch	dutc1256	the demon	DEMON	1973		demon	demon 
+1419	12-22-37-1	72181920242719370	Dutch	dutc1256	the idol	IDOL	1945		afgod	afgod 
+1420	12-22-42-1	72181920699612266	Dutch	dutc1256	the magic	MAGIC	392		toverij	toverij 
+1421	12-22-43-1	72181920872305786	Dutch	dutc1256	the sorcerer or witch	MAGICIAN	2137		heks	heks 
+1422	12-22-43-2	72181920599747499	Dutch	dutc1256	the sorcerer or witch	MAGICIAN	2137		tovenaar	tovenaar 
+1423	12-22-44-1	72181920573184686	Dutch	dutc1256	the fairy or elf	ELF OR FAIRY	3206		elf (2)	elf (2) 
+1424	12-22-44-2	7218192039127819	Dutch	dutc1256	the fairy or elf	ELF OR FAIRY	3206		fee	fee 
+1425	12-22-45-1	72181920734555298	Dutch	dutc1256	the ghost	GHOST	1175		spook	spook 
+1426	12-22-47-1	7218192081625411	Dutch	dutc1256	the omen	OMEN	107		voorteken	voorteken 
+1427	12-23-1-1	72181920614319559	Dutch	dutc1256	the radio	RADIO	1315		radio	radio 
+1428	12-23-11-1	72181920545957400	Dutch	dutc1256	the television	TELEVISION	1788		televisie	televisie 
+1429	12-23-12-1	72181920268661068	Dutch	dutc1256	the telephone	TELEPHONE	1379		telefoon	telefoon 
+1430	12-23-135-1	72181920935116629	Dutch	dutc1256	the motorcycle	MOTORCYCLE	638		motorfiets	motorfiets 
+1431	12-23-14-1	72181920492215070	Dutch	dutc1256	the car	CAR	1111		auto	auto 
+1432	12-23-15-1	72181920250134341	Dutch	dutc1256	the bus	BUS	1070		bus	bus 
+1433	12-23-16-1	72181920598824716	Dutch	dutc1256	the airplane	AIRPLANE	1597		vliegtuig	vliegtuig 
+1434	12-23-17-1	72181920181579664	Dutch	dutc1256	the electricity	ELECTRICITY	59		elektriciteit	elektriciteit 
+1435	12-23-175-1	7218192016678484	Dutch	dutc1256	the battery	BATTERY	662		batterij	batterij 
+1436	12-23-2-1	72181920768857030	Dutch	dutc1256	the hospital	HOSPITAL	616		ziekenhuis	ziekenhuis 
+1437	12-23-21-1	72181920996155066	Dutch	dutc1256	the nurse	NURSE	1104		verpleegster	verpleegster 
+1438	12-23-22-1	72181920342005694	Dutch	dutc1256	the pill or tablet	PILL	395		pil	pil 
+1439	12-23-23-1	72181920994888281	Dutch	dutc1256	the injection	INJECTION	1805		injectie	injectie 
+1440	12-23-5-1	72181920390551421	Dutch	dutc1256	the tap/faucet	FAUCET	1488		kraan	kraan 
+1441	12-23-51-1	72181920602471294	Dutch	dutc1256	the sink	SINK (BASIN)	915		gootsteen	gootsteen 
+1442	12-23-52-1	72181920400275455	Dutch	dutc1256	the toilet	TOILET	219		toilet	toilet 
+1443	12-23-52-2	72181920654277714	Dutch	dutc1256	the toilet	TOILET	219		wc	wc 
+1444	12-23-53-1	7218192042858904	Dutch	dutc1256	the mattress	MATTRESS	105		matras	matras 
+1445	12-23-3-1	72181920558469055	Dutch	dutc1256	the government	GOVERNMENT	815		regering	regering 
+1446	12-23-31-1	72181920840866584	Dutch	dutc1256	the president	PRESIDENT	899		president	president 
+1447	12-23-32-1	7218192098404804	Dutch	dutc1256	the minister	MINISTER	486		minister	minister 
+1448	12-23-33-1	72181920788647252	Dutch	dutc1256	the police	POLICE	656		politie	politie 
+1449	12-23-34-1	72181920641536271	Dutch	dutc1256	the driver's license	DRIVER'S LICENSE	599		rijbewijs	rijbewijs 
+1450	12-23-37-1	72181920873367790	Dutch	dutc1256	the crime	CRIME	1066		misdaad	misdaad 
+1451	12-23-38-1	72181920560428174	Dutch	dutc1256	the election	ELECTION	240		verkiezing	verkiezing 
+1452	12-23-4-1	72181920616610133	Dutch	dutc1256	the post/mail	MAIL	167		post (2)	post (2) 
+1453	12-23-41-1	72181920558184732	Dutch	dutc1256	the postage stamp	POSTAGE STAMP	596		postzegel	postzegel 
+1454	12-23-42-1	72181920874258787	Dutch	dutc1256	the letter	LETTER	1612		brief	brief 
+1455	12-23-44-1	72181920911951602	Dutch	dutc1256	the bank	BANK	1284		bank	bank 
+1456	12-23-54-1	72181920751013328	Dutch	dutc1256	the tin/can	CAN	1051		blik	blik 
+1457	12-23-55-1	72181920999572528	Dutch	dutc1256	the screw	SCREW	1802		schroef	schroef 
+1458	12-23-555-1	72181920467833328	Dutch	dutc1256	the screwdriver	SCREWDRIVER	836		schroevendraaier	schroevendraaier 
+1459	12-23-56-1	72181920623630561	Dutch	dutc1256	the bottle	BOTTLE	1321		fles	fles 
+1460	12-23-565-1	72181920831347458	Dutch	dutc1256	the candy/sweets	CANDY	874		snoep	snoep 
+1461	12-23-24-1	72181920573750731	Dutch	dutc1256	the spectacles/glasses	SPECTACLES	1898		bril	bril 
+1462	12-23-57-1	72181920539580988	Dutch	dutc1256	the plastic	PLASTIC	654		plastic	plastic 
+1463	12-23-575-1	72181920548521809	Dutch	dutc1256	the bomb	BOMB	1804		bom	bom 
+1464	12-23-58-1	72181920848815262	Dutch	dutc1256	the workshop	WORKSHOP	1677		werkplaats	werkplaats 
+1465	12-23-59-1	72181920999998939	Dutch	dutc1256	the cigarette	CIGARETTE	969		sigaret	sigaret 
+1466	12-23-61-1	72181920751436832	Dutch	dutc1256	the calendar	CALENDAR	1967		kalender	kalender 
+1467	12-23-62-1	72181920494398456	Dutch	dutc1256	the film/movie	MOVIE	216		film	film 
+1468	12-23-63-1	72181920833998972	Dutch	dutc1256	the music	MUSIC	642		muziek	muziek 
+1469	12-23-64-1	72181920315351128	Dutch	dutc1256	the song	SONG	1096		lied	lied 
+1470	12-23-6-1	72181920769181266	Dutch	dutc1256	the newspaper	NEWSPAPER	1298		krant	krant 
+1471	12-23-385-1	72181920883203526	Dutch	dutc1256	the address	ADDRESS	591		adres	adres 
+1472	12-23-39-1	72181920678243936	Dutch	dutc1256	the number	NUMBER	1356		getal	getal 
+1473	12-23-155-1	72181920552264200	Dutch	dutc1256	the train	TRAIN	900		trein	trein 
+1474	12-23-36-1	72181920894770387	Dutch	dutc1256	the birth certificate	BIRTH CERTIFICATE	397		geboortebewijs	geboortebewijs 
+1475	12-23-18-1	72181920222727602	Dutch	dutc1256	to brake	BRAKE	966		remmen	remmen 
+1476	12-23-195-1	72181920877942973	Dutch	dutc1256	the petroleum	PETROLEUM	650		aardolie	aardolie 
+1477	12-23-185-1	72181920722429956	Dutch	dutc1256	the motor	MOTOR	110		motor	motor 
+1478	12-23-19-1	72181920616341116	Dutch	dutc1256	the machine	MACHINE	144		machine	machine 
+1479	12-23-13-1	72181920209677605	Dutch	dutc1256	the bicycle	BICYCLE	747		fiets	fiets 
+1480	12-23-395-1	72181920879145378	Dutch	dutc1256	the street	STREET	1362		straat	straat 
+1481	12-19-445-1	72181920888916628	Dutch	dutc1256	to liberate	LIBERATE	37		bevrijden	bevrijden 
+1482	12-19-565-1	72181920968086967	Dutch	dutc1256	to invite	INVITE	1611		uitnodigen	uitnodigen 
+1483	12-23-35-1	72181920524921982	Dutch	dutc1256	the license plate	LICENSE PLATE	1790		nummerplaat	nummerplaat 
+1484	12-23-43-1	72181920153239347	Dutch	dutc1256	the postcard	POSTCARD	1497		briefkaart	briefkaart 
+1485	12-24-01-1	72181920322599575	Dutch	dutc1256	to be	BE	1579		zijn	zijn 
+1486	12-24-02-1	72181920942393879	Dutch	dutc1256	to become	BECOME	1990		worden	worden 
+1487	12-24-03-1	7218192081342496	Dutch	dutc1256	without	WITHOUT	1478		zonder	zonder 
+1488	12-24-05-1	72181920841677761	Dutch	dutc1256	through	THROUGH	97		door	door 
+1489	12-24-13-1	72181920201764108	Dutch	dutc1256	same	SAME	200		dezelfde	dezelfde 
+1490	12-24-06-1	72181920784486222	Dutch	dutc1256	not	NOT	1240		niet	niet 
+1491	12-24-07-1	72181920589046797	Dutch	dutc1256	this	THIS	1214		deze	deze 
+1492	12-24-08-1	72181920471286801	Dutch	dutc1256	that	THAT	78		die	die 
+1493	12-24-09-1	72181920652696503	Dutch	dutc1256	here	HERE	136		hier	hier 
+1494	12-24-1-1	72181920877115435	Dutch	dutc1256	there	THERE	1937		daar	daar 
+1495	12-24-11-1	7218192048706456	Dutch	dutc1256	other	OTHER	197		andere	andere 
+1496	12-4-493-1	72181920585041395	Dutch	dutc1256	the vagina	VAGINA	1836		schede	schede 
+1497	12-4-493-2	72181920401552833	Dutch	dutc1256	the vagina	VAGINA	1836		vagina	vagina 
+1498	12-23-9-1	72181920771240174	Dutch	dutc1256	the tea	TEA	1373		thee	thee 
+1499	12-23-91-1	72181920861848291	Dutch	dutc1256	the coffee	COFFEE	1299		koffie	koffie 
+1500	12-24-12-1	72181920344628890	Dutch	dutc1256	next	NEXT	1354		volgende	volgende 
+1501	12-3-862-1	72181920490673132	Dutch	dutc1256	the coyote	COYOTE	912		coyote	coyote 
+1502	12-3-863-1	72181920444385275	Dutch	dutc1256	the hare	HARE	1190		haas	haas 
+1503	12-3-865-1	72181920859873648	Dutch	dutc1256	the quail	QUAIL	1893		kwartel	kwartel 
+1504	12-3-866-1	72181920319435049	Dutch	dutc1256	the raccoon	RACCOON	828		wasbeer	wasbeer 
+1505	12-3-869-1	72181920210270854	Dutch	dutc1256	the squirrel	SQUIRREL	1628		eekhoorn	eekhoorn 
+1506	12-3-871-1	7218192010984818	Dutch	dutc1256	the reindeer/caribou	REINDEER	1876		kariboe	kariboe 
+1507	12-3-871-2	72181920387029670	Dutch	dutc1256	the reindeer/caribou	REINDEER	1876		rendier	rendier 
+1508	12-3-872-1	72181920349593277	Dutch	dutc1256	the elk/moose	ELK	1772		eland	eland 
+1509	12-3-873-1	72181920276309739	Dutch	dutc1256	the beaver	BEAVER	1194		bever	bever 
+1510	12-10-79-1	72181920844307709	Dutch	dutc1256	the sledge/sled	SLED	16		sle(d)e	sle(d)e 
+1511	12-8-29-1	72181920834587383	Dutch	dutc1256	the lasso	LASSO	340		lasso	lasso 
+1512	12-8-991-1	72181920791345526	Dutch	dutc1256	the larch	LARCH	116		lariks	lariks 
+1513	12-8-993-1	72181920712162154	Dutch	dutc1256	the needle(2)	NEEDLE TREE	286		naald	naald 
+1514	12-1-771-1	72181920228802552	Dutch	dutc1256	the arctic lights	ARCTIC LIGHTS	261		noorderlicht	noorderlicht 
+1515	12-4-465-1	72181920755470777	Dutch	dutc1256	the sinew or tendon	TENDON	1137		zenuw	zenuw 
+1516	12-7-67-1	72181920682958579	Dutch	dutc1256	to tan	TAN	247		looien	looien 
+1517	12-6-98-1	72181920410755783	Dutch	dutc1256	the snowshoe	SNOWSHOE	233		sneeuwschoen	sneeuwschoen 
+1518	12-22-5-1	72181920571513516	Dutch	dutc1256	the circumcision	CIRCUMCISION	393		besnijdenis	besnijdenis 
+1519	12-22-51-1	72181920974005999	Dutch	dutc1256	the initiation ceremony	INITIATION CEREMONY	1946		inwijdingsplechtigheid	inwijdingsplechtigheid 
+1520	12-22-51-2	72181920517696204	Dutch	dutc1256	the initiation ceremony	INITIATION CEREMONY	1946		initiatieplechtigheid	initiatieplechtigheid 
+1521	12-8-996-1	72181920481021885	Dutch	dutc1256	the cone	CONE	287		dennenappel	dennenappel 
+1522	12-3-8112-1	72181920861190858	Dutch	dutc1256	the body louse	BODY LOUSE	311		luis	luis 
+1523	12-4-494-1	72181920254177045	Dutch	dutc1256	the vulva	VULVA	1837		schaamspleet	schaamspleet 
+1524	12-4-494-2	72181920420471030	Dutch	dutc1256	the vulva	VULVA	1837		vulva	vulva 
+1525	12-3-99-1	72181920809451550	Dutch	dutc1256	the tapir	TAPIR	312		tapir	tapir 
+1526	12-9-93-1	72181920264866007	Dutch	dutc1256	the whetstone	WHETSTONE	295		slijpsteen	slijpsteen 
+1527	12-9-92-1	72181920752732907	Dutch	dutc1256	the tumpline	TUMPLINE	294		draagband	draagband 
+1528	12-7-65-1	72181920275818000	Dutch	dutc1256	the camp	CAMP	1105		kamp	kamp 
+1529	12-8-28-1	72181920896462802	Dutch	dutc1256	the digging stick (=yamstick)	DIGGING STICK	339		graafstok	graafstok 
+1530	12-3-597-1	72181920467485626	Dutch	dutc1256	the cormorant	CORMORANT	840		aalscholver	aalscholver 
+1531	12-3-833-1	72181920987194844	Dutch	dutc1256	the prawns or shrimp	PRAWNS	238		garnaal	garnaal 
+1532	12-3-834-1	72181920264137428	Dutch	dutc1256	the termites	TERMITE	883		termiet	termiet 
+1533	12-3-835-1	72181920783664740	Dutch	dutc1256	the tick	TICK	1527		teek	teek 
+1534	12-9-87-1	72181920403754005	Dutch	dutc1256	the boomerang	BOOMERANG	135		boemerang	boemerang 
+1535	12-3-88-1	72181920163672647	Dutch	dutc1256	the kangaroo	KANGAROO	164		kangoeroe	kangoeroe 
+1536	12-3-89-1	72181920944064618	Dutch	dutc1256	the anteater	ANTEATER	181		miereneter	miereneter 
+1537	12-3-598-1	72181920366421870	Dutch	dutc1256	the toucan	TOUCAN	308		toekan	toekan 
+1538	12-3-9-1	72181920273007751	Dutch	dutc1256	the jaguar	JAGUAR	1250		jaguar	jaguar 
+1539	12-5-983-1	72181920501052054	Dutch	dutc1256	the manioc bread	MANIOC BREAD	407		maniokbrood	maniokbrood 
+1540	12-7-66-1	72181920656106757	Dutch	dutc1256	the hammock	HAMMOCK	2019		hangmat	hangmat 
+1541	12-8-911-1	72181920283574979	Dutch	dutc1256	the millet or sorghum	MILLET	931		gierst	gierst 
+1542	12-8-911-2	72181920476625736	Dutch	dutc1256	the millet or sorghum	MILLET	931		sorghum	sorghum 
+1543	12-3-913-1	7218192090189705	Dutch	dutc1256	the chameleon	CHAMELEON	1555		kameleon	kameleon 
+1544	12-9-9-1	72181920859578818	Dutch	dutc1256	to draw water	DRAW (WATER)	1911		water putten	water putten 
+1545	12-9-91-1	72181920571265174	Dutch	dutc1256	the peg	PEG	361		haring	haring 
+1546	12-9-91-2	72181920616742278	Dutch	dutc1256	the peg	PEG	361		pin	pin 
+1547	12-10-58-1	721819205861656	Dutch	dutc1256	to go or return home	RETURN HOME	142		naar huis gaan	naar huis gaan 
+1548	12-3-917-1	7218192092467329	Dutch	dutc1256	the buffalo	BUFFALO	934		buffel	buffel 
+1549	12-1-411-1	72181920114513871	Dutch	dutc1256	the savanna	SAVANNA	260		savanne	savanne 
+1550	12-1-831-1	72181920587148057	Dutch	dutc1256	the steam	STEAM	1193		stoom	stoom 
+1551	12-2-4561-1	72181920909242341	Dutch	dutc1256	the older sibling	OLDER SIBLING	405		broer	broer 
+1552	12-2-4561-2	7218192056748678	Dutch	dutc1256	the older sibling	OLDER SIBLING	405		zus(ter)	zus(ter) 
+1553	12-2-4562-1	72181920909242341	Dutch	dutc1256	the younger sibling	YOUNGER SIBLING	427		broer	broer 
+1554	12-2-4562-2	7218192056748678	Dutch	dutc1256	the younger sibling	YOUNGER SIBLING	427		zus(ter)	zus(ter) 
+1555	12-2-4711-1	72181920938250882	Dutch	dutc1256	the grandparents	GRANDPARENTS	305		grootouders	grootouders 
+1556	12-2-5-1	72181920850583514	Dutch	dutc1256	the grandchild	GRANDCHILD	1617		kleinkind	kleinkind 
+1557	12-2-541-1	72181920111144429	Dutch	dutc1256	the sibling’s child	SIBLING'S CHILD	173		neef	neef 
+1558	12-2-541-2	72181920369644066	Dutch	dutc1256	the sibling’s child	SIBLING'S CHILD	173		nicht	nicht 
+1559	12-2-622-1	7218192074422727	Dutch	dutc1256	the parents-in-law	PARENTS-IN-LAW	306		schoonouders	schoonouders 
+1560	12-2-6411-1	7218192043530588	Dutch	dutc1256	the child-in-law	CHILD-IN-LAW	1060		schoonkind	schoonkind 
+1561	12-2-6412-1	72181920393445098	Dutch	dutc1256	the sibling-in-law	SIBLING-IN-LAW	1832		schoonbroer	schoonbroer 
+1562	12-2-6412-2	72181920463918599	Dutch	dutc1256	the sibling-in-law	SIBLING-IN-LAW	1832		schoonzuster	schoonzuster 
+1563	12-2-6412-3	72181920861081729	Dutch	dutc1256	the sibling-in-law	SIBLING-IN-LAW	1832		zwager	zwager 
+1564	12-2-931-1	72181920288400812	Dutch	dutc1256	he	HE	1211		hij	hij 
+1565	12-2-932-1	72181920559748683	Dutch	dutc1256	she	SHE	1834		zij (1)	zij (1) 
+1566	12-2-933-1	72181920447248058	Dutch	dutc1256	it	IT	169		het	het 
+1567	12-4-741-1	7218192012559593	Dutch	dutc1256	the life	LIFE	210		leven (2)	leven (2) 
+1568	12-4-771-1	72181920917997309	Dutch	dutc1256	the carcass	CARCASS	1770		kadaver	kadaver 
+1569	12-4-844-1	72181920178220879	Dutch	dutc1256	the disease	DISEASE	1986		ziekte	ziekte 
+1570	12-7-232-1	72181920187096151	Dutch	dutc1256	the padlock	PADLOCK	336		hangslot	hangslot 
+1571	12-8-121-1	72181920723212582	Dutch	dutc1256	the paddy	PADDY FIELD	140		rijstveld	rijstveld 
+1572	12-11-29-1	72181920555204402	Dutch	dutc1256	to damage	DAMAGE	1116		beschadigen	beschadigen 
+1573	12-12-081-1	72181920654119562	Dutch	dutc1256	above	ABOVE	1741		boven	boven 
+1574	12-13-231-1	72181920806521078	Dutch	dutc1256	the piece	PIECE	594		stuk (1)	stuk (1) 
+1575	12-13-331-1	72181920786517050	Dutch	dutc1256	alone	ALONE	1964		alleen	alleen 
+1576	12-14-251-1	72181920526021234	Dutch	dutc1256	the beginning	BEGINNING	1557		begin	begin 
+1577	12-14-411-1	72181920958496954	Dutch	dutc1256	the day(2)	DAY (NOT NIGHT)	1225		dag	dag 
+1578	12-22-131-1	7218192029000284	Dutch	dutc1256	the church	CHURCH	1349		kerk	kerk 
+1579	12-22-132-1	72181920370317460	Dutch	dutc1256	the mosque	MOSQUE	1603		moskee	moskee 
+1580	12-24-14-1	72181920292153312	Dutch	dutc1256	nothing	NOTHING	687		niets	niets 
+1581	12-4-7501-1	72181920186776333	Dutch	dutc1256	dead	DEAD	1625		dood	dood 
+1582	12-4-8541-1	72181920612102512	Dutch	dutc1256	to scratch	SCRATCH	1436		krabben	krabben 
+1583	12-9-111-1	72181920107466073	Dutch	dutc1256	to make	MAKE	734		maken	maken 
+1584	12-4-431-1	72181920214808264	Dutch	dutc1256	the belly	BELLY	1251		buik	buik 
+1585	12-9-311-1	72181920474377200	Dutch	dutc1256	to wipe	WIPE	1454		afvegen	afvegen 
+1586	12-1-775-1	72181920283669653	Dutch	dutc1256	to freeze	FREEZE	1431		bevriezen	bevriezen 
+1587	12-24-04-1	72181920442681178	Dutch	dutc1256	with	WITH	1340		met	met 
+1588	12-12-012-1	72181920365229368	Dutch	dutc1256	in	IN	1460		in	in 

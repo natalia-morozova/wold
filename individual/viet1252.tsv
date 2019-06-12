@@ -1,0 +1,1536 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	24-1-1-1	7215023866830705	Vietnamese	viet1252	the world	WORLD	965		thế giới	thế giới 
+2	24-1-21-1	7215023710038378	Vietnamese	viet1252	the land	LAND	626		đất (1)	đất (1) 
+3	24-1-212-1	7215023826312771	Vietnamese	viet1252	the soil	EARTH (SOIL)	1228		đất (2)	đất (2) 
+4	24-1-213-1	7215023935236407	Vietnamese	viet1252	the dust	DUST	2		bụi	bụi 
+5	24-1-214-1	7215023120185628	Vietnamese	viet1252	the mud	MUD	640		bùn	bùn 
+6	24-1-215-1	7215023506783343	Vietnamese	viet1252	the sand	SAND	671		cát	cát 
+7	24-1-22-1	7215023873550156	Vietnamese	viet1252	the mountain or hill	MOUNTAIN OR HILL	2118		núi	núi 
+8	24-1-22-2	7215023616888234	Vietnamese	viet1252	the mountain or hill	MOUNTAIN OR HILL	2118		đồi	đồi 
+9	24-1-222-1	7215023104538439	Vietnamese	viet1252	the cliff or precipice	PRECIPICE	618		vách đá	vách đá 
+10	24-1-23-1	7215023186225445	Vietnamese	viet1252	the plain	PLAIN	652		đồng bằng	đồng bằng 
+11	24-1-24-1	721502367407419	Vietnamese	viet1252	the valley	VALLEY	921		thung lũng	thung lũng 
+12	24-1-24-2	7215023764103155	Vietnamese	viet1252	the valley	VALLEY	921		lưu vực	lưu vực 
+13	24-1-25-1	721502340947831	Vietnamese	viet1252	the island	ISLAND	622		đảo	đảo 
+14	24-1-25-2	7215023943451379	Vietnamese	viet1252	the island	ISLAND	622		cù lao	cù lao 
+15	24-1-26-1	7215023167545975	Vietnamese	viet1252	the mainland	MAINLAND	166		đại lục	đại lục 
+16	24-1-27-1	7215023825167303	Vietnamese	viet1252	the shore	SHORE	113		bờ	bờ 
+17	24-1-28-1	7215023788733894	Vietnamese	viet1252	the cave	CAVE	1155		hang	hang 
+18	24-1-31-1	721502379439364	Vietnamese	viet1252	the water	WATER	948		nước	nước 
+19	24-1-32-1	7215023298576466	Vietnamese	viet1252	the sea	SEA	1474		biển	biển 
+20	24-1-322-1	7215023566972433	Vietnamese	viet1252	calm	CALM	258		không nổi sóng	không nổi sóng 
+21	24-1-323-1	7215023803474358	Vietnamese	viet1252	rough(2)	ROUGH (OF SEA)	259		động	động 
+22	24-1-324-1	7215023898374872	Vietnamese	viet1252	the foam	FOAM	1768		bọt	bọt 
+23	24-1-329-1	721502324210100	Vietnamese	viet1252	the ocean	OCEAN	645		đại dương	đại dương 
+24	24-1-33-1	721502379018900	Vietnamese	viet1252	the lake	LAKE	624		hồ	hồ 
+25	24-1-34-1	7215023446678652	Vietnamese	viet1252	the bay	BAY	663		vịnh	vịnh 
+26	24-1-341-1	7215023494127447	Vietnamese	viet1252	the lagoon	LAGOON	623		phá	phá 
+27	24-1-342-1	7215023505871442	Vietnamese	viet1252	the reef	REEF	660		đá ngầm	đá ngầm 
+28	24-1-343-1	7215023144420723	Vietnamese	viet1252	the cape	CAPE	1662		mũi đất	mũi đất 
+29	24-1-35-1	7215023650492821	Vietnamese	viet1252	the wave	WAVE	978		sóng	sóng 
+30	24-1-352-1	7215023359152363	Vietnamese	viet1252	the tide	TIDE	891		triều	triều 
+31	24-1-353-1	7215023760703556	Vietnamese	viet1252	the low tide	LOW TIDE	1026		triều thấp	triều thấp 
+32	24-1-354-1	7215023683674546	Vietnamese	viet1252	the high tide	HIGH TIDE	613		triều cao	triều cao 
+33	24-1-36-1	7215023303685891	Vietnamese	viet1252	the river or stream	RIVER	666		sông	sông 
+34	24-1-362-1	721502372214422	Vietnamese	viet1252	the whirlpool	WHIRLPOOL	1982		dòng nước xoáy	dòng nước xoáy 
+35	24-1-37-1	7215023143394986	Vietnamese	viet1252	the spring or well	SPRING OR WELL	2144		giếng	giếng 
+36	24-1-38-1	7215023157428652	Vietnamese	viet1252	the swamp	SWAMP	1145		đầm lầy	đầm lầy 
+37	24-1-39-1	7215023113473841	Vietnamese	viet1252	the waterfall	WATERFALL	943		thác nước	thác nước 
+38	24-1-41-1	7215023833630542	Vietnamese	viet1252	the woods or forest	FOREST	420		rừng	rừng 
+39	24-1-43-1	7215023293068163	Vietnamese	viet1252	the wood	WOOD	1803		gỗ	gỗ 
+40	24-1-44-1	7215023789213743	Vietnamese	viet1252	the stone or rock	STONE OR ROCK	2125		đá (1)	đá (1) 
+41	24-1-45-1	7215023847386207	Vietnamese	viet1252	the earthquake	EARTHQUAKE	6		địa động	địa động 
+42	24-1-51-1	7215023996201727	Vietnamese	viet1252	the sky	SKY	1732		trời	trời 
+43	24-1-52-1	721502330568616	Vietnamese	viet1252	the sun	SUN	1343		mặt trời	mặt trời 
+44	24-1-53-1	7215023694817551	Vietnamese	viet1252	the moon	MOON	1313		mặt trăng	mặt trăng 
+45	24-1-54-1	7215023181554081	Vietnamese	viet1252	the star	STAR	1430		sao (1)	sao (1) 
+46	24-1-55-1	7215023159212488	Vietnamese	viet1252	the lightning	LIGHTNING	1654		chớp	chớp 
+47	24-1-56-1	7215023401930750	Vietnamese	viet1252	the thunder	THUNDER	1150		sấm	sấm 
+48	24-1-57-1	7215023159212488	Vietnamese	viet1252	the bolt of lightning	BOLT (OF LIGHTNING)	2007		chớp	chớp 
+49	24-1-58-1	7215023743514975	Vietnamese	viet1252	the storm	STORM	858		bão	bão 
+50	24-1-59-1	7215023624423739	Vietnamese	viet1252	the rainbow	RAINBOW	1733		cầu vồng	cầu vồng 
+51	24-1-61-1	7215023739637343	Vietnamese	viet1252	the light	LIGHT (RADIATION)	630		ánh sáng	ánh sáng 
+52	24-1-62-1	721502361272742	Vietnamese	viet1252	the darkness	DARKNESS	11		bóng tối	bóng tối 
+53	24-1-63-1	721502353716615	Vietnamese	viet1252	the shade or shadow	SHADE	1388		bóng (1)	bóng (1) 
+54	24-1-64-1	7215023576900913	Vietnamese	viet1252	the dew	DEW	1977		sương	sương 
+55	24-1-71-1	7215023634039454	Vietnamese	viet1252	the air	AIR	27		không khí	không khí 
+56	24-1-71-2	721502358867376	Vietnamese	viet1252	the air	AIR	27		hơi	hơi 
+57	24-1-72-1	7215023492512552	Vietnamese	viet1252	the wind	WIND	960		gío	gío 
+58	24-1-73-1	7215023362340160	Vietnamese	viet1252	the cloud	CLOUD	1489		mây	mây 
+59	24-1-74-1	7215023386885311	Vietnamese	viet1252	the fog	FOG	249		sương mù	sương mù 
+60	24-1-75-1	7215023328407961	Vietnamese	viet1252	the rain	RAIN (PRECIPITATION)	658		mưa	mưa 
+61	24-1-76-1	7215023172000576	Vietnamese	viet1252	the snow	SNOW	784		tuyết	tuyết 
+62	24-1-77-1	7215023688066962	Vietnamese	viet1252	the ice	ICE	617		đá (2)	đá (2) 
+63	24-1-78-1	7215023109166412	Vietnamese	viet1252	the weather	WEATHER	952		thời tiết	thời tiết 
+64	24-1-81-1	7215023725045168	Vietnamese	viet1252	the fire	FIRE	221		lửa	lửa 
+65	24-1-82-1	7215023458717760	Vietnamese	viet1252	the flame	FLAME	889		ngọn lửa	ngọn lửa 
+66	24-1-83-1	7215023500819256	Vietnamese	viet1252	the smoke	SMOKE (EXHAUST)	778		khói	khói 
+67	24-1-84-1	7215023797472383	Vietnamese	viet1252	the ash	ASH	646		tro	tro 
+68	24-1-841-1	7215023458861141	Vietnamese	viet1252	the embers	EMBERS	67		than hồng	than hồng 
+69	24-1-851-1	7215023951032889	Vietnamese	viet1252	to burn(1)	BURN (SOMETHING)	141		đốt cháy	đốt cháy 
+70	24-1-852-1	7215023420612911	Vietnamese	viet1252	to burn(2)	BURNING	1428		cháy	cháy 
+71	24-1-86-1	7215023627828831	Vietnamese	viet1252	to light	LIGHT (IGNITE)	737		đốt	đốt 
+72	24-1-861-1	7215023681766167	Vietnamese	viet1252	to extinguish	EXTINGUISH	127		tắt	tắt 
+73	24-1-87-1	721502392906261	Vietnamese	viet1252	the match	MATCH	1133		diêm	diêm 
+74	24-1-88-1	7215023824876945	Vietnamese	viet1252	the firewood	FIREWOOD	10		củi	củi 
+75	24-1-89-1	7215023645579143	Vietnamese	viet1252	the charcoal	CHARCOAL	1188		than	than 
+76	24-2-1-1	7215023392509700	Vietnamese	viet1252	the person	PERSON	683		người	người 
+77	24-2-21-1	7215023341485720	Vietnamese	viet1252	the man	MAN	1554		đàn ông	đàn ông 
+78	24-2-22-1	7215023459685971	Vietnamese	viet1252	the woman	WOMAN	962		đàn bà	đàn bà 
+79	24-2-23-1	721502348595683	Vietnamese	viet1252	male(1)	MALE (OF ANIMAL)	2263		trai	trai 
+80	24-2-24-1	7215023174645905	Vietnamese	viet1252	female(1)	FEMALE (OF PERSON)	2260		gái	gái 
+81	24-2-25-1	721502392689726	Vietnamese	viet1252	the boy	BOY	1366		con trai (1)	con trai (1) 
+82	24-2-251-1	7215023214454752	Vietnamese	viet1252	the young man	YOUNG MAN	76		người bạn trai	người bạn trai 
+83	24-2-26-1	7215023844339070	Vietnamese	viet1252	the girl	GIRL	1646		con gái (1)	con gái (1) 
+84	24-2-261-1	7215023666254893	Vietnamese	viet1252	the young woman	YOUNG WOMAN	77		thiếu nữ	thiếu nữ 
+85	24-2-27-1	7215023979862639	Vietnamese	viet1252	the child(1)	CHILD (YOUNG HUMAN)	1304		con (1)	con (1) 
+86	24-2-28-1	7215023593348327	Vietnamese	viet1252	the baby	BABY	1289		con bé	con bé 
+87	24-2-31-1	7215023899777206	Vietnamese	viet1252	the husband	HUSBAND	1200		chồng	chồng 
+88	24-2-32-1	7215023430058160	Vietnamese	viet1252	the wife	WIFE	1199		vợ	vợ 
+89	24-2-33-1	7215023708188454	Vietnamese	viet1252	to marry	MARRY	203		cưới	cưới 
+90	24-2-33-2	7215023636614641	Vietnamese	viet1252	to marry	MARRY	203		lấy (1)	lấy (1) 
+91	24-2-33-3	7215023266252005	Vietnamese	viet1252	to marry	MARRY	203		gả	gả 
+92	24-2-34-1	7215023919792227	Vietnamese	viet1252	the wedding	WEDDING	1259		đám cưới	đám cưới 
+93	24-2-341-1	7215023638716841	Vietnamese	viet1252	the divorce	DIVORCE	1134		ly dị	ly dị 
+94	24-2-35-1	7215023181813860	Vietnamese	viet1252	the father	FATHER	1217		bố	bố 
+95	24-2-36-1	7215023761836967	Vietnamese	viet1252	the mother	MOTHER	1216		mẹ	mẹ 
+96	24-2-37-1	7215023120593338	Vietnamese	viet1252	the parents	PARENTS	505		bố mẹ	bố mẹ 
+97	24-2-38-1	7215023113303364	Vietnamese	viet1252	the married man	MARRIED MAN	424		đàn ông có vợ	đàn ông có vợ 
+98	24-2-39-1	7215023133418243	Vietnamese	viet1252	the married woman	MARRIED WOMAN	426		đàn bà có chồng	đàn bà có chồng 
+99	24-2-41-1	7215023124156763	Vietnamese	viet1252	the son	SON	1620		con trai (2)	con trai (2) 
+100	24-2-42-1	7215023420810052	Vietnamese	viet1252	the daughter	DAUGHTER	1357		con gái (2)	con gái (2) 
+101	24-3-662-1	7215023372389967	Vietnamese	viet1252	the porpoise or dolphin	DOLPHIN	1479		cá heo mỏ	cá heo mỏ 
+102	24-2-43-1	7215023959224999	Vietnamese	viet1252	the child(2)	CHILD (DESCENDANT)	1801		con (2)	con (2) 
+103	24-2-44-1	7215023894313748	Vietnamese	viet1252	the brother	BROTHER	1262		em trai	em trai 
+104	24-2-44-2	7215023359538684	Vietnamese	viet1252	the brother	BROTHER	1262		anh em	anh em 
+105	24-2-444-1	7215023364060945	Vietnamese	viet1252	the older brother	OLDER BROTHER	1759		anh	anh 
+106	24-2-445-1	7215023894313748	Vietnamese	viet1252	the younger brother	YOUNGER BROTHER	1760		em trai	em trai 
+107	24-2-45-1	7215023113361106	Vietnamese	viet1252	the sister	SISTER	1263		chị em gái	chị em gái 
+108	24-2-454-1	721502392104089	Vietnamese	viet1252	the older sister	OLDER SISTER	1758		chị	chị 
+109	24-2-455-1	7215023206274975	Vietnamese	viet1252	the younger sister	YOUNGER SISTER	1761		em gái	em gái 
+110	24-2-456-1	721502310760133	Vietnamese	viet1252	the sibling	SIBLING	1640		anh chị em	anh chị em 
+111	24-2-458-1	7215023204453389	Vietnamese	viet1252	the twins	TWINS	1005		sinh đôi	sinh đôi 
+112	24-2-46-1	7215023957236773	Vietnamese	viet1252	the grandfather	GRANDFATHER	1383		ông (1)	ông (1) 
+113	24-2-461-1	7215023868986699	Vietnamese	viet1252	the old man	OLD MAN	406		ông (2)	ông (2) 
+114	24-2-47-1	7215023577718193	Vietnamese	viet1252	the grandmother	GRANDMOTHER	1496		bà (1)	bà (1) 
+115	24-2-471-1	7215023384542036	Vietnamese	viet1252	the old woman	OLD WOMAN	907		bà (2)	bà (2) 
+116	24-2-48-1	7215023568877721	Vietnamese	viet1252	the grandson	GRANDSON	1618		cháu trai	cháu trai 
+117	24-2-49-1	7215023706182200	Vietnamese	viet1252	the granddaughter	GRANDDAUGHTER	1619		cháu gái	cháu gái 
+118	24-2-51-1	721502388766934	Vietnamese	viet1252	the uncle	UNCLE	1327		bác	bác 
+119	24-2-51-2	7215023292940302	Vietnamese	viet1252	the uncle	UNCLE	1327		chú	chú 
+120	24-2-511-1	721502334198391	Vietnamese	viet1252	the mother's brother	MOTHER'S BROTHER	1984		cậu	cậu 
+121	24-2-512-1	721502388766934	Vietnamese	viet1252	the father's brother	FATHER'S BROTHER	1985		bác	bác 
+122	24-2-52-1	7215023912552406	Vietnamese	viet1252	the aunt	AUNT	1272		cô	cô 
+123	24-2-52-2	7215023736930354	Vietnamese	viet1252	the aunt	AUNT	1272		dì	dì 
+124	24-2-521-1	7215023477063497	Vietnamese	viet1252	the mother's sister	MOTHER'S SISTER	171		m	m 
+125	24-2-522-1	7215023943976526	Vietnamese	viet1252	the father's sister	FATHER'S SISTER	170		thím	thím 
+126	24-2-522-2	7215023912552406	Vietnamese	viet1252	the father's sister	FATHER'S SISTER	170		cô	cô 
+127	24-2-53-1	7215023568877721	Vietnamese	viet1252	the nephew	NEPHEW	1063		cháu trai	cháu trai 
+128	24-2-54-1	7215023706182200	Vietnamese	viet1252	the niece	NIECE	1642		cháu gái	cháu gái 
+129	24-2-55-1	7215023260470503	Vietnamese	viet1252	the cousin	COUSIN	1643		anh chị em họ	anh chị em họ 
+130	24-2-56-1	7215023374938489	Vietnamese	viet1252	the ancestors	ANCESTORS	1669		tổ tiên	tổ tiên 
+131	24-2-57-1	7215023974495543	Vietnamese	viet1252	the descendants	DESCENDANTS	490		hậu duệ	hậu duệ 
+132	24-2-61-1	7215023124278463	Vietnamese	viet1252	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		bố vợ	bố vợ 
+133	24-2-611-1	7215023853494556	Vietnamese	viet1252	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		bố chồng	bố chồng 
+134	24-2-62-1	7215023277374544	Vietnamese	viet1252	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		mẹ vợ	mẹ vợ 
+135	24-2-621-1	7215023386409571	Vietnamese	viet1252	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		mẹ chồng	mẹ chồng 
+136	24-2-63-1	7215023656297984	Vietnamese	viet1252	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		con rể	con rể 
+137	24-2-631-1	7215023656297984	Vietnamese	viet1252	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		con rể	con rể 
+138	24-2-64-1	7215023655165483	Vietnamese	viet1252	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		con dâu	con dâu 
+139	24-2-641-1	7215023596955995	Vietnamese	viet1252	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		con dấu	con dấu 
+140	24-2-71-1	7215023222558461	Vietnamese	viet1252	the stepfather	STEPFATHER	237		bố dượng	bố dượng 
+141	24-2-72-1	7215023992620126	Vietnamese	viet1252	the stepmother	STEPMOTHER	236		mẹ ghẻ	mẹ ghẻ 
+142	24-2-73-1	7215023169429697	Vietnamese	viet1252	the stepson	STEPSON	1059		con trai riêng	con trai riêng 
+143	24-2-74-1	7215023710378149	Vietnamese	viet1252	the stepdaughter	STEPDAUGHTER	1058		con gái riêng	con gái riêng 
+144	24-2-75-1	7215023251236753	Vietnamese	viet1252	the orphan	ORPHAN	1149		mồ côi	mồ côi 
+145	24-2-76-1	7215023290995226	Vietnamese	viet1252	the widow	WIDOW	1756		bà goá chồng	bà goá chồng 
+146	24-2-76-2	7215023689042992	Vietnamese	viet1252	the widow	WIDOW	1756		quả phụ	quả phụ 
+147	24-2-77-1	7215023960271719	Vietnamese	viet1252	the widower	WIDOWER	1981		ông goá vợ	ông goá vợ 
+148	24-2-81-1	7215023431924753	Vietnamese	viet1252	the relatives	RELATIVES	1644		bà con	bà con 
+149	24-2-82-1	7215023805319910	Vietnamese	viet1252	the family	FAMILY	194		gia đình	gia đình 
+150	24-2-91-1	7215023437763001	Vietnamese	viet1252	I	I	1209		tao	tao 
+151	24-2-91-2	7215023948398304	Vietnamese	viet1252	I	I	1209		tôi	tôi 
+152	24-2-92-1	7215023452252557	Vietnamese	viet1252	you (singular)	THOU	1215		mày (1)	mày (1) 
+153	24-2-93-1	7215023600847654	Vietnamese	viet1252	he/she/it	HE OR SHE OR IT	262		nó	nó 
+154	24-2-94-1	7215023478164862	Vietnamese	viet1252	we	WE	1212		ta	ta 
+155	24-2-941-1	7215023953703229	Vietnamese	viet1252	we (inclusive)	WE (INCLUSIVE)	1131		chúng tôi	chúng tôi 
+156	24-2-942-1	7215023508125786	Vietnamese	viet1252	we (exclusive)	WE (EXCLUSIVE)	1130		chúng ta	chúng ta 
+157	24-2-95-1	7215023246098544	Vietnamese	viet1252	you (plural)	YOU	1213		các mày	các mày 
+158	24-2-96-1	7215023611550403	Vietnamese	viet1252	they	THEY	817		họ	họ 
+159	24-2-96-2	7215023677179321	Vietnamese	viet1252	they	THEY	817		chúng	chúng 
+160	24-3-11-1	7215023500188783	Vietnamese	viet1252	the animal	ANIMAL	619		động mật	động mật 
+161	24-3-12-1	7215023414783470	Vietnamese	viet1252	male(2)	MALE (OF PERSON)	2261		đực	đực 
+162	24-3-13-1	7215023847254024	Vietnamese	viet1252	female(2)	FEMALE (OF ANIMAL)	2262		cái	cái 
+163	24-3-15-1	7215023532483775	Vietnamese	viet1252	the livestock	LIVESTOCK	631		vật nuôi	vật nuôi 
+164	24-3-16-1	7215023147347270	Vietnamese	viet1252	the pasture	PASTURE	649		đồng cỏ	đồng cỏ 
+165	24-3-18-1	7215023886164064	Vietnamese	viet1252	the herdsman	HERDSMAN	263		người chăn súc vật	người chăn súc vật 
+166	24-3-19-1	7215023473509450	Vietnamese	viet1252	the stable or stall	STABLE	851		chuồng	chuồng 
+167	24-3-2-1	721502379875882	Vietnamese	viet1252	the cattle	CATTLE	1153		bò (1)	bò (1) 
+168	24-3-21-1	7215023497329578	Vietnamese	viet1252	the bull	BULL	1008		bò đực	bò đực 
+169	24-3-22-1	7215023497329578	Vietnamese	viet1252	the ox	OX	1169		bò đực	bò đực 
+170	24-3-23-1	7215023612659106	Vietnamese	viet1252	the cow	COW	1007		bò cái	bò cái 
+171	24-3-24-1	7215023733600136	Vietnamese	viet1252	the calf	CALF	1989		bò con	bò con 
+172	24-3-25-1	7215023645031667	Vietnamese	viet1252	the sheep	SHEEP	1331		cừu	cừu 
+173	24-3-26-1	7215023547743326	Vietnamese	viet1252	the ram	RAM	1344		cừu đực	cừu đực 
+174	24-3-28-1	7215023878219511	Vietnamese	viet1252	the ewe	EWE	1345		cừu cái	cừu cái 
+175	24-3-29-1	7215023119836214	Vietnamese	viet1252	the lamb	LAMB	820		cừu con	cừu con 
+176	24-3-32-1	721502378185541	Vietnamese	viet1252	the boar	BOAR	1348		lợn rừng	lợn rừng 
+177	24-3-34-1	7215023582582194	Vietnamese	viet1252	the sow	SOW (FEMALE PIG)	1351		lợn cái	lợn cái 
+178	24-3-35-1	7215023743416154	Vietnamese	viet1252	the pig	PIG	1337		lợn	lợn 
+179	24-3-36-1	7215023614080362	Vietnamese	viet1252	the goat	GOAT	1502		dê	dê 
+180	24-3-37-1	7215023354117130	Vietnamese	viet1252	the he-goat	HE-GOAT	264		dê đực	dê đực 
+181	24-3-38-1	7215023275576032	Vietnamese	viet1252	the kid	KID	1972		dê con	dê con 
+182	24-3-41-1	721502362259297	Vietnamese	viet1252	the horse	HORSE	615		ngựa	ngựa 
+183	24-3-42-1	7215023472545044	Vietnamese	viet1252	the stallion	STALLION	936		ngựa đực	ngựa đực 
+184	24-3-44-1	7215023532063822	Vietnamese	viet1252	the mare	MARE	938		ngựa cái	ngựa cái 
+185	24-3-45-1	7215023858975776	Vietnamese	viet1252	the foal or colt	FOAL	1647		ngựa con	ngựa con 
+186	24-3-46-1	7215023952347125	Vietnamese	viet1252	the donkey	DONKEY	1862		lừa	lừa 
+187	24-3-47-1	7215023900896723	Vietnamese	viet1252	the mule	MULE	890		la (1)	la (1) 
+188	24-3-5-1	7215023328541175	Vietnamese	viet1252	the fowl	FOWL	265		gà	gà 
+189	24-3-52-1	7215023670337433	Vietnamese	viet1252	the cock/rooster	ROOSTER	1511		gà trống	gà trống 
+190	24-3-54-1	7215023214542065	Vietnamese	viet1252	the hen	HEN	1514		gà mái	gà mái 
+191	24-3-55-1	7215023328541175	Vietnamese	viet1252	the chicken	CHICKEN	1318		gà	gà 
+192	24-3-56-1	721502332977522	Vietnamese	viet1252	the goose	GOOSE	1187		ngan	ngan 
+193	24-3-56-2	7215023919343893	Vietnamese	viet1252	the goose	GOOSE	1187		ngỗng	ngỗng 
+194	24-3-57-1	7215023283645602	Vietnamese	viet1252	the duck	DUCK	1360		vịt	vịt 
+195	24-3-58-1	7215023899776279	Vietnamese	viet1252	the nest	NEST	539		ổ	ổ 
+196	24-3-581-1	721502396252592	Vietnamese	viet1252	the bird	BIRD	937		chim	chim 
+197	24-3-582-1	7215023727372633	Vietnamese	viet1252	the seagull	SEAGULL	950		mòng biển	mòng biển 
+198	24-3-583-1	7215023563943719	Vietnamese	viet1252	the heron	HERON	758		diệc	diệc 
+199	24-3-584-1	7215023912536072	Vietnamese	viet1252	the eagle	EAGLE	1905		chim đại bàng	chim đại bàng 
+200	24-3-585-1	7215023591802986	Vietnamese	viet1252	the hawk	HAWK	307		ưng	ưng 
+201	24-3-586-1	7215023220164668	Vietnamese	viet1252	the vulture	VULTURE	1185		chim kền kền	chim kền kền 
+202	24-3-591-1	7215023373319272	Vietnamese	viet1252	the bat	BAT	1793		dơi	dơi 
+203	24-3-592-1	7215023514735185	Vietnamese	viet1252	the parrot	PARROT	882		vẹt	vẹt 
+204	24-3-593-1	7215023450169435	Vietnamese	viet1252	the crow	CROW	913		ác	ác 
+205	24-3-594-1	7215023624854177	Vietnamese	viet1252	the dove	DOVE	1853		bồ câu	bồ câu 
+206	24-3-596-1	7215023838793868	Vietnamese	viet1252	the owl	OWL	735		cú	cú 
+207	24-3-61-1	7215023795152987	Vietnamese	viet1252	the dog	DOG	2009		chó	chó 
+208	24-3-614-1	7215023365822612	Vietnamese	viet1252	the rabbit	RABBIT	1136		thỏ	thỏ 
+209	24-3-62-1	7215023895287828	Vietnamese	viet1252	the cat	CAT	1208		mèo	mèo 
+210	24-3-622-1	7215023261335485	Vietnamese	viet1252	the opossum	OPOSSUM	309		ôpôt	ôpôt 
+211	24-3-63-1	7215023993537386	Vietnamese	viet1252	the mouse or rat	MUROID (MOUSE OR RAT)	2139		chuột	chuột 
+212	24-3-65-1	7215023436538294	Vietnamese	viet1252	the fish	FISH	227		cá	cá 
+213	24-3-652-1	7215023854098672	Vietnamese	viet1252	the fin	FIN	213		vây cá	vây cá 
+214	24-3-653-1	7215023427215281	Vietnamese	viet1252	the scale	SCALE	266		vảy	vảy 
+215	24-3-654-1	7215023327612580	Vietnamese	viet1252	the gill	GILL	1916		mang (1)	mang (1) 
+216	24-3-655-1	7215023500531959	Vietnamese	viet1252	the shell	SHELL	598		vỏ	vỏ 
+217	24-3-661-1	7215023655066446	Vietnamese	viet1252	the shark	SHARK	1110		cá mập	cá mập 
+218	24-3-663-1	7215023649856237	Vietnamese	viet1252	the whale	WHALE	957		cá voi	cá voi 
+219	24-3-664-1	7215023608765156	Vietnamese	viet1252	the stingray	STINGRAY	1910		cá đuối gai độc	cá đuối gai độc 
+220	24-3-665-1	7215023505713230	Vietnamese	viet1252	the freshwater eel	FRESHWATER EEL	1013		lươn	lươn 
+221	24-3-71-1	7215023750181624	Vietnamese	viet1252	the wolf	WOLF	522		chó sói	chó sói 
+222	24-3-72-1	7215023250560132	Vietnamese	viet1252	the lion	LION	1386		sư tử	sư tử 
+223	24-3-73-1	7215023240880543	Vietnamese	viet1252	the bear	BEAR	1820		gấu	gấu 
+224	24-3-74-1	7215023457329934	Vietnamese	viet1252	the fox	FOX	1312		cáo	cáo 
+225	24-3-75-1	7215023419713366	Vietnamese	viet1252	the deer	DEER	1936		nai	nai 
+226	24-3-76-1	7215023714724644	Vietnamese	viet1252	the monkey	MONKEY	1350		khỉ	khỉ 
+227	24-3-77-1	7215023127993274	Vietnamese	viet1252	the elephant	ELEPHANT	1290		voi	voi 
+228	24-3-78-1	7215023435995968	Vietnamese	viet1252	the camel	CAMEL	1871		lạc đà	lạc đà 
+229	24-3-81-1	7215023829321685	Vietnamese	viet1252	the insect	INSECT	620		côn trùng	côn trùng 
+230	24-3-81-2	7215023288695112	Vietnamese	viet1252	the insect	INSECT	620		sâu bọ	sâu bọ 
+231	24-3-811-1	7215023475678678	Vietnamese	viet1252	the head louse	HEAD LOUSE	310		chấy	chấy 
+232	24-3-812-1	7215023461004152	Vietnamese	viet1252	the nit	NIT	267		trứng chấy	trứng chấy 
+233	24-3-813-1	7215023154693393	Vietnamese	viet1252	the flea	FLEA	232		bọ chét	bọ chét 
+234	24-3-814-1	7215023253624041	Vietnamese	viet1252	the centipede	CENTIPEDE	1974		rết	rết 
+235	24-3-815-1	7215023725666371	Vietnamese	viet1252	the scorpion	SCORPION	1538		bọ cạp	bọ cạp 
+236	24-3-816-1	7215023492013014	Vietnamese	viet1252	the cockroach	COCKROACH	1575		gián	gián 
+237	24-3-817-1	7215023695198139	Vietnamese	viet1252	the ant	ANT	587		kiến	kiến 
+238	24-3-818-1	7215023456068802	Vietnamese	viet1252	the spider	SPIDER	843		nhện	nhện 
+239	24-3-819-1	7215023765545453	Vietnamese	viet1252	the spider web	SPIDER WEB	1065		mạng nhện	mạng nhện 
+240	24-3-82-1	721502337593528	Vietnamese	viet1252	the bee	BEE	665		ong	ong 
+241	24-3-821-1	7215023765513910	Vietnamese	viet1252	the beeswax	BEESWAX	1931		sáp ong	sáp ong 
+242	24-3-822-1	7215023323162595	Vietnamese	viet1252	the beehive	BEEHIVE	88		tổ ong	tổ ong 
+243	24-3-823-1	721502337593528	Vietnamese	viet1252	the wasp	WASP	1517		ong	ong 
+244	24-3-83-1	7215023703461185	Vietnamese	viet1252	the fly	FLY (INSECT)	1504		ruổi	ruổi 
+245	24-3-831-1	7215023431249135	Vietnamese	viet1252	the sandfly or midge or gnat	SANDFLY	95		muỗi nhỏ	muỗi nhỏ 
+246	24-3-832-1	721502335090541	Vietnamese	viet1252	the mosquito	MOSQUITO	1509		muỗi	muỗi 
+247	24-3-84-1	7215023615851508	Vietnamese	viet1252	the worm	WORM	1219		giun	giun 
+248	24-3-85-1	7215023493811747	Vietnamese	viet1252	the snake	SNAKE	730		rắn	rắn 
+249	24-3-91-1	7215023578408066	Vietnamese	viet1252	the firefly	FIREFLY	206		đom đóm	đom đóm 
+250	24-3-92-1	7215023783634470	Vietnamese	viet1252	the butterfly	BUTTERFLY	1791		bươm bướm	bươm bướm 
+251	24-3-93-1	7215023300006134	Vietnamese	viet1252	the grasshopper	GRASSHOPPER	607		châu chấu	châu chấu 
+252	24-3-94-1	7215023570012925	Vietnamese	viet1252	the snail	SNAIL	1543		ốc	ốc 
+253	24-3-95-1	7215023111204298	Vietnamese	viet1252	the frog	FROG	503		ếch	ếch 
+254	24-3-96-1	7215023752773336	Vietnamese	viet1252	the lizard	LIZARD	632		thằn lằn	thằn lằn 
+255	24-3-97-1	7215023734584841	Vietnamese	viet1252	the crocodile or alligator	CROCODILE	1857		cá sấu	cá sấu 
+256	24-3-98-1	7215023388693012	Vietnamese	viet1252	the turtle	TURTLE	112		rùa	rùa 
+257	24-3-98-2	7215023896300612	Vietnamese	viet1252	the turtle	TURTLE	112		ba ba	ba ba 
+258	24-4-11-1	7215023840843766	Vietnamese	viet1252	the body	BODY	1480		thân thể	thân thể 
+259	24-4-11-2	721502367672810	Vietnamese	viet1252	the body	BODY	1480		mình	mình 
+260	24-4-12-1	7215023520649463	Vietnamese	viet1252	the skin or hide	SKIN	763		da	da 
+261	24-4-13-1	7215023350247447	Vietnamese	viet1252	the flesh	FLESH	2259		thịt	thịt 
+262	24-4-14-1	7215023902661782	Vietnamese	viet1252	the hair	HAIR (HEAD)	2648		tóc	tóc 
+263	24-4-142-1	7215023628899046	Vietnamese	viet1252	the beard	BEARD	678		râu	râu 
+264	24-4-144-1	7215023524752679	Vietnamese	viet1252	the body hair	HAIR (BODY)	189		lông	lông 
+265	24-4-145-1	7215023524752679	Vietnamese	viet1252	the pubic hair	PUBIC HAIR	36		lông	lông 
+266	24-4-146-1	7215023581192021	Vietnamese	viet1252	the dandruff	DANDRUFF	576		gàu	gàu 
+267	24-4-15-1	7215023397188030	Vietnamese	viet1252	the blood	BLOOD	946		máu	máu 
+268	24-4-151-1	7215023170733002	Vietnamese	viet1252	the vein or artery	BLOOD VESSEL	525		tĩnh mạch	tĩnh mạch 
+269	24-4-16-1	7215023525750255	Vietnamese	viet1252	the bone	BONE	1394		xương	xương 
+270	24-4-162-1	7215023662794580	Vietnamese	viet1252	the rib	RIB	801		xương sườn	xương sườn 
+271	24-4-17-1	7215023336150708	Vietnamese	viet1252	the horn	HORN (ANATOMY)	1393		sừng	sừng 
+272	24-4-18-1	7215023286234077	Vietnamese	viet1252	the tail	TAIL	1220		đuổi (1)	đuổi (1) 
+273	24-4-19-1	7215023400217664	Vietnamese	viet1252	the back	BACK	1291		lưng	lưng 
+274	24-4-191-1	7215023528336771	Vietnamese	viet1252	the spine	SPINE	805		xương sống	xương sống 
+275	24-4-2-1	7215023368137078	Vietnamese	viet1252	the head	HEAD	1256		đầu	đầu 
+276	24-4-201-1	7215023562652430	Vietnamese	viet1252	the temples	TEMPLES	1604		thái dương	thái dương 
+277	24-4-201-2	7215023283004249	Vietnamese	viet1252	the temples	TEMPLES	1604		mang tai	mang tai 
+278	24-4-202-1	7215023363973181	Vietnamese	viet1252	the skull	SKULL	1605		đầu óc	đầu óc 
+279	24-4-203-1	7215023917045831	Vietnamese	viet1252	the brain	BRAIN	1583		óc	óc 
+280	24-4-204-1	7215023139809758	Vietnamese	viet1252	the face	FACE	1560		mặt	mặt 
+281	24-4-205-1	721502396898838	Vietnamese	viet1252	the forehead	FOREHEAD	123		trán	trán 
+282	24-4-207-1	7215023709597756	Vietnamese	viet1252	the jaw	JAW	798		hàm	hàm 
+283	24-4-208-1	7215023221759950	Vietnamese	viet1252	the cheek	CHEEK	1730		má	má 
+284	24-4-209-1	7215023968659695	Vietnamese	viet1252	the chin	CHIN	1510		cằm	cằm 
+285	24-4-21-1	7215023949569846	Vietnamese	viet1252	the eye	EYE	1248		mắt	mắt 
+286	24-4-212-1	7215023331169162	Vietnamese	viet1252	the eyebrow	EYEBROW	1173		mày (2)	mày (2) 
+287	24-4-213-1	721502398366890	Vietnamese	viet1252	the eyelid	EYELID	17		mí	mí 
+288	24-4-214-1	7215023164671795	Vietnamese	viet1252	the eyelash	EYELASH	1540		lông mi	lông mi 
+289	24-4-215-1	7215023505542571	Vietnamese	viet1252	to blink	BLINK	1655		nháy	nháy 
+290	24-4-22-1	7215023766514280	Vietnamese	viet1252	the ear	EAR	1247		tai	tai 
+291	24-4-221-1	7215023876016708	Vietnamese	viet1252	the earlobe	EARLOBE	18		trái tai	trái tai 
+292	24-4-222-1	7215023367297161	Vietnamese	viet1252	the earwax	EARWAX	32		ráy	ráy 
+293	24-4-23-1	7215023644014488	Vietnamese	viet1252	the nose	NOSE	1221		mũi	mũi 
+294	24-4-231-1	7215023247634805	Vietnamese	viet1252	the nostril	NOSTRIL	1178		lỗ mũi	lỗ mũi 
+295	24-4-232-1	7215023230627898	Vietnamese	viet1252	the nasal mucus	NASAL MUCUS (SNOT)	208		nhầy	nhầy 
+296	24-4-24-1	7215023266640224	Vietnamese	viet1252	the mouth	MOUTH	674		miệng	miệng 
+297	24-4-241-1	721502388010569	Vietnamese	viet1252	the beak	BEAK	73		mỏ	mỏ 
+298	24-4-25-1	7215023693256119	Vietnamese	viet1252	the lip	LIP	478		môi	môi 
+299	24-4-26-1	7215023784073043	Vietnamese	viet1252	the tongue	TONGUE	1205		lưỡi	lưỡi 
+300	24-4-27-1	7215023150556109	Vietnamese	viet1252	the tooth	TOOTH	1380		răng	răng 
+301	24-4-271-1	7215023244641645	Vietnamese	viet1252	the gums	GUMS	139		lợi	lợi 
+302	24-4-272-1	7215023260996534	Vietnamese	viet1252	the molar tooth	MOLAR TOOTH	1049		răng hàm	răng hàm 
+303	24-4-28-1	7215023333239506	Vietnamese	viet1252	the neck	NECK	1333		cổ	cổ 
+304	24-4-281-1	7215023544076403	Vietnamese	viet1252	the nape of the neck	NAPE (OF NECK)	1347		gáy	gáy 
+305	24-4-29-1	7215023583051499	Vietnamese	viet1252	the throat	THROAT	1346		họng	họng 
+306	24-4-3-1	7215023360021959	Vietnamese	viet1252	the shoulder	SHOULDER	1482		vai	vai 
+307	24-4-301-1	7215023297170436	Vietnamese	viet1252	the shoulderblade	SHOULDERBLADE	172		xương vai	xương vai 
+308	24-4-302-1	7215023263116575	Vietnamese	viet1252	the collarbone	COLLARBONE	1994		xương đòn	xương đòn 
+309	24-4-31-1	7215023355298208	Vietnamese	viet1252	the arm	ARM	1673		tay	tay 
+310	24-4-312-1	7215023878531264	Vietnamese	viet1252	the armpit	ARMPIT	1886		nách	nách 
+311	24-4-32-1	721502333373693	Vietnamese	viet1252	the elbow	ELBOW	981		khuyủ tay	khuyủ tay 
+312	24-4-321-1	721502353370361	Vietnamese	viet1252	the wrist	WRIST	799		cổ tay	cổ tay 
+313	24-4-33-1	7215023355298208	Vietnamese	viet1252	the hand	HAND	1277		tay	tay 
+314	24-4-331-1	7215023527144834	Vietnamese	viet1252	the palm of the hand	PALM OF HAND	1183		lòng bàn tay	lòng bàn tay 
+315	24-4-34-1	7215023405627838	Vietnamese	viet1252	the finger	FINGER	1303		ngón tay	ngón tay 
+316	24-4-342-1	7215023543980286	Vietnamese	viet1252	the thumb	THUMB	1781		ngón tay cái	ngón tay cái 
+317	24-4-344-1	7215023170486078	Vietnamese	viet1252	the fingernail	FINGERNAIL	1258		móng tay	móng tay 
+318	24-4-345-1	7215023331229651	Vietnamese	viet1252	the claw	CLAW	72		vuốt	vuốt 
+319	24-4-35-1	7215023458232405	Vietnamese	viet1252	the leg	LEG	1297		chân	chân 
+320	24-4-351-1	7215023538798634	Vietnamese	viet1252	the thigh	THIGH	800		đùi	đùi 
+321	24-4-352-1	7215023509299237	Vietnamese	viet1252	the calf of the leg	CALF OF LEG	498		bắp chân	bắp chân 
+322	24-4-36-1	7215023883934604	Vietnamese	viet1252	the knee	KNEE	1371		đầu gối	đầu gối 
+323	24-4-37-1	7215023368182100	Vietnamese	viet1252	the foot	FOOT	1301		bàn chân	bàn chân 
+324	24-4-371-1	721502375788145	Vietnamese	viet1252	the ankle	ANKLE	803		cổ chân	cổ chân 
+325	24-4-372-1	7215023239987871	Vietnamese	viet1252	the heel	HEEL	980		gót	gót 
+326	24-4-374-1	7215023608798301	Vietnamese	viet1252	the footprint	FOOTPRINT	318		dấu chân	dấu chân 
+327	24-4-38-1	7215023993551063	Vietnamese	viet1252	the toe	TOE	1389		ngón chân	ngón chân 
+328	24-4-392-1	7215023610098983	Vietnamese	viet1252	the wing	WING	1257		cánh	cánh 
+329	24-4-393-1	721502332211369	Vietnamese	viet1252	the feather	FEATHER	1201		lông chim	lông chim 
+330	24-4-4-1	7215023731049543	Vietnamese	viet1252	the chest	CHEST	1592		ngực	ngực 
+331	24-4-41-1	7215023731049543	Vietnamese	viet1252	the breast	BREAST	1402		ngực	ngực 
+332	24-4-412-1	721502315037953	Vietnamese	viet1252	the nipple or teat	NIPPLE	796		vú	vú 
+333	24-4-42-1	7215023900910786	Vietnamese	viet1252	the udder	UDDER	154		bầu vú	bầu vú 
+334	24-4-43-1	7215023732659159	Vietnamese	viet1252	the navel	NAVEL	1838		rốn	rốn 
+335	24-4-44-1	7215023801886317	Vietnamese	viet1252	the heart	HEART	1223		tim	tim 
+336	24-4-441-1	7215023279423182	Vietnamese	viet1252	the lung	LUNG	688		phổi	phổi 
+337	24-4-45-1	7215023927008856	Vietnamese	viet1252	the liver	LIVER	1224		gan	gan 
+338	24-4-451-1	7215023318853072	Vietnamese	viet1252	the kidney	KIDNEY	489		thận	thận 
+339	24-4-452-1	7215023219467219	Vietnamese	viet1252	the spleen	SPLEEN	1744		lách	lách 
+340	24-4-46-1	7215023271772689	Vietnamese	viet1252	the stomach	STOMACH	819		dạ	dạ 
+341	24-4-461-1	7215023792245152	Vietnamese	viet1252	the intestines or guts	INTESTINES	1991		ruột	ruột 
+342	24-4-462-1	7215023324576062	Vietnamese	viet1252	the waist	WAIST	1681		eo	eo 
+343	24-4-463-1	7215023731614705	Vietnamese	viet1252	the hip	HIP	1745		hông	hông 
+344	24-4-464-1	721502394436246	Vietnamese	viet1252	the buttocks	BUTTOCKS	834		mông	mông 
+345	24-4-47-1	721502342118257	Vietnamese	viet1252	the womb	WOMB	804		dạ con	dạ con 
+346	24-4-49-1	7215023373804025	Vietnamese	viet1252	the testicles	TESTICLES	797		hòn dái	hòn dái 
+347	24-4-49-2	7215023356979426	Vietnamese	viet1252	the testicles	TESTICLES	797		tinh hoàn	tinh hoàn 
+348	24-4-492-1	7215023546062981	Vietnamese	viet1252	the penis	PENIS	1222		dương vật	dương vật 
+349	24-4-51-1	7215023206649202	Vietnamese	viet1252	to breathe	BREATHE	1407		thở	thở 
+350	24-4-52-1	7215023839182524	Vietnamese	viet1252	to yawn	YAWN	1028		ngáp	ngáp 
+351	24-4-521-1	7215023913423316	Vietnamese	viet1252	to hiccough	HICCOUGH	162		nấc	nấc 
+352	24-4-53-1	7215023796909498	Vietnamese	viet1252	to cough	COUGH	879		ho	ho 
+353	24-4-54-1	7215023317172749	Vietnamese	viet1252	to sneeze	SNEEZE	1621		hắt hơi	hắt hơi 
+354	24-4-55-1	721502383328263	Vietnamese	viet1252	to perspire	SWEAT (PERSPIRE)	126		ra mồ hôi	ra mồ hôi 
+355	24-4-56-1	7215023748075274	Vietnamese	viet1252	to spit	SPIT	1440		khạc	khạc 
+356	24-4-57-1	7215023972930181	Vietnamese	viet1252	to vomit	VOMIT	1278		mửa	mửa 
+357	24-4-58-1	7215023285363923	Vietnamese	viet1252	to bite	BITE	1403		cắn	cắn 
+358	24-4-59-1	7215023572564850	Vietnamese	viet1252	to lick	LICK	319		liếm	liếm 
+359	24-4-591-1	7215023152450642	Vietnamese	viet1252	to dribble	DRIBBLE	268		chảy nhỏ giọt	chảy nhỏ giọt 
+360	24-4-61-1	7215023950290318	Vietnamese	viet1252	to sleep	SLEEP	1585		ngủ	ngủ 
+361	24-4-612-1	7215023665359034	Vietnamese	viet1252	to snore	SNORE	1983		ngáy	ngáy 
+362	24-4-62-1	7215023366904705	Vietnamese	viet1252	to dream	DREAM (SOMETHING)	1920		mơ	mơ 
+363	24-4-63-1	7215023688596921	Vietnamese	viet1252	to wake up	WAKE UP	1602		tỉnh	tỉnh 
+364	24-4-64-1	7215023934244698	Vietnamese	viet1252	to fart	FART	1159		rắm	rắm 
+365	24-4-65-1	7215023253553559	Vietnamese	viet1252	to piss	PISS	592		đi đái	đi đái 
+366	24-4-65-2	721502337406678	Vietnamese	viet1252	to piss	PISS	592		tiểu tiện	tiểu tiện 
+367	24-4-66-1	7215023178764616	Vietnamese	viet1252	to shit	SHIT (DEFECATE)	676		iả	iả 
+368	24-4-66-2	7215023106679517	Vietnamese	viet1252	to shit	SHIT (DEFECATE)	676		đại tiện	đại tiện 
+369	24-4-67-1	721502348787870	Vietnamese	viet1252	to have sex	HAVE SEX	1785		làm tình	làm tình 
+370	24-4-68-1	7215023371841250	Vietnamese	viet1252	to shiver	SHIVER	52		run	run 
+371	24-4-69-1	7215023818570070	Vietnamese	viet1252	to bathe	BATHE	138		tắm	tắm 
+372	24-4-71-1	721502310720040	Vietnamese	viet1252	to beget	BEGET	1152		sinh (1)	sinh (1) 
+373	24-4-71-2	7215023868565732	Vietnamese	viet1252	to beget	BEGET	1152		đẻ	đẻ 
+374	24-4-72-1	7215023823608069	Vietnamese	viet1252	to be born	BE BORN	1090		sinh (2)	sinh (2) 
+375	24-4-73-1	7215023567685644	Vietnamese	viet1252	pregnant	PREGNANT	1123		có mang	có mang 
+376	24-4-732-1	7215023796339504	Vietnamese	viet1252	to conceive	CONCEIVE	1087		thụ thai	thụ thai 
+377	24-4-74-1	721502357365765	Vietnamese	viet1252	to be alive	BE ALIVE	1422		sống (1)	sống (1) 
+378	24-4-75-1	721502368106760	Vietnamese	viet1252	to die	DIE	1494		chết (1)	chết (1) 
+379	24-4-751-1	7215023178314646	Vietnamese	viet1252	to drown	DROWN	1904		chết đuối	chết đuối 
+380	24-4-76-1	721502325564304	Vietnamese	viet1252	to kill	KILL	1417		giết	giết 
+381	24-4-77-1	7215023617609418	Vietnamese	viet1252	the corpse	CORPSE	767		xác	xác 
+382	24-4-78-1	7215023106550617	Vietnamese	viet1252	to bury	BURY	1719		chôn	chôn 
+383	24-4-79-1	7215023174481461	Vietnamese	viet1252	the grave	GRAVE	1773		mả	mả 
+384	24-4-81-1	7215023446352609	Vietnamese	viet1252	strong	STRONG	785		mạnh	mạnh 
+385	24-4-82-1	7215023964167856	Vietnamese	viet1252	weak	WEAK	1601		yếu	yếu 
+386	24-4-83-1	7215023128023924	Vietnamese	viet1252	healthy	HEALTHY	1364		khỏe	khỏe 
+387	24-4-84-1	7215023983421355	Vietnamese	viet1252	sick/ill	SICK	1847		bệnh	bệnh 
+388	24-4-841-1	7215023404136288	Vietnamese	viet1252	the fever	FEVER	1534		sốt	sốt 
+389	24-4-842-1	7215023291624641	Vietnamese	viet1252	the goitre/goiter	GOITER	1957		bươú	bươú 
+390	24-4-843-1	7215023654059248	Vietnamese	viet1252	the cold	COMMON COLD (DISEASE)	102		cảm	cảm 
+391	24-4-85-1	7215023745152848	Vietnamese	viet1252	the wound or sore	WOUND	1109		thương tích	thương tích 
+392	24-4-852-1	7215023248955469	Vietnamese	viet1252	the bruise	BRUISE	1148		vết thâm tím	vết thâm tím 
+393	24-4-853-1	7215023334796616	Vietnamese	viet1252	the swelling	SWELLING	1903		sự sưng lên	sự sưng lên 
+394	24-4-854-1	7215023527647299	Vietnamese	viet1252	the itch	ITCH	148		sự ngứa	sự ngứa 
+395	24-4-855-1	721502343638967	Vietnamese	viet1252	the blister	BLISTER	1584		chỗ giộp da	chỗ giộp da 
+396	24-4-856-1	7215023309351306	Vietnamese	viet1252	the boil	BOIL (OF SKIN)	793		nhọt	nhọt 
+397	24-4-857-1	7215023820706110	Vietnamese	viet1252	the pus	PUS	1808		mủ	mủ 
+398	24-4-858-1	7215023631902289	Vietnamese	viet1252	the scar	SCAR	497		sẹo	sẹo 
+399	24-4-86-1	7215023990437778	Vietnamese	viet1252	to cure	CURE	499		chữa (bệnh)	chữa (bệnh) 
+400	24-4-87-1	7215023397435216	Vietnamese	viet1252	the physician	PHYSICIAN	597		bác sĩ	bác sĩ 
+401	24-4-88-1	7215023226174380	Vietnamese	viet1252	the medicine	MEDICINE	1372		thuộc (1)	thuộc (1) 
+402	24-4-89-1	7215023564228205	Vietnamese	viet1252	the poison	POISON	655		độc	độc 
+403	24-4-91-1	7215023236856380	Vietnamese	viet1252	tired	TIRED	1757		mệt	mệt 
+404	24-4-912-1	7215023694010326	Vietnamese	viet1252	to rest	REST	168		nghỉ	nghỉ 
+405	24-4-92-1	7215023781445494	Vietnamese	viet1252	lazy	LAZY	1564		lười	lười 
+406	24-4-93-1	7215023426692908	Vietnamese	viet1252	bald	BALD	1125		hói	hói 
+407	24-4-94-1	7215023585599230	Vietnamese	viet1252	lame	LAME	320		què	què 
+408	24-4-95-1	7215023347133855	Vietnamese	viet1252	deaf	DEAF	996		điếc	điếc 
+409	24-4-96-1	7215023182058917	Vietnamese	viet1252	mute	MUTE	1666		câm	câm 
+410	24-4-97-1	721502315592007	Vietnamese	viet1252	blind	BLIND	1653		mù	mù 
+411	24-4-98-1	7215023216981045	Vietnamese	viet1252	drunk	DRUNK	1463		say	say 
+412	24-4-99-1	7215023593239649	Vietnamese	viet1252	naked	NAKED	590		trần	trần 
+413	24-5-11-1	721502395053406	Vietnamese	viet1252	to eat	EAT	1336		ăn	ăn 
+414	24-5-12-1	7215023119982999	Vietnamese	viet1252	the food	FOOD	256		đồ ăn	đồ ăn 
+415	24-5-12-2	7215023400055884	Vietnamese	viet1252	the food	FOOD	256		thực phẩm	thực phẩm 
+416	24-5-121-1	7215023189904579	Vietnamese	viet1252	cooked	COOKED	269		chín (1)	chín (1) 
+417	24-5-122-1	7215023540626332	Vietnamese	viet1252	raw	RAW	1959		sống (2)	sống (2) 
+418	24-5-123-1	7215023317992919	Vietnamese	viet1252	ripe	RIPE	178		chín (2)	chín (2) 
+419	24-5-124-1	7215023216399045	Vietnamese	viet1252	unripe	UNRIPE	1958		chưa chín	chưa chín 
+420	24-5-125-1	7215023911840156	Vietnamese	viet1252	rotten	ROTTEN	1728		thối	thối 
+421	24-5-13-1	7215023506619353	Vietnamese	viet1252	to drink	DRINK	1401		uống	uống 
+422	24-5-14-1	7215023217111707	Vietnamese	viet1252	to be hungry	BE HUNGRY	1533		đói	đói 
+423	24-5-141-1	7215023354314787	Vietnamese	viet1252	the famine	FAMINE	199		nạn đói kém	nạn đói kém 
+424	24-5-15-1	7215023613114843	Vietnamese	viet1252	to be thirsty	THIRSTY	847		khát	khát 
+425	24-5-16-1	7215023188541852	Vietnamese	viet1252	to suck	SUCK	1421		bú	bú 
+426	24-5-18-1	7215023154922355	Vietnamese	viet1252	to chew	CHEW	321		nhai	nhai 
+427	24-5-181-1	7215023245062114	Vietnamese	viet1252	to swallow	SWALLOW	897		nuốt	nuốt 
+428	24-5-19-1	7215023758542538	Vietnamese	viet1252	to choke	CHOKE	129		nghẹt	nghẹt 
+429	24-5-21-1	721502388611510	Vietnamese	viet1252	to cook	COOK (SOMETHING)	1100		nấu	nấu 
+430	24-5-22-1	7215023842945724	Vietnamese	viet1252	to boil	BOIL (OF LIQUID)	792		sôi	sôi 
+431	24-5-23-1	7215023946471331	Vietnamese	viet1252	to roast or fry	ROAST OR FRY	2146		quay (1)	quay (1) 
+432	24-5-23-2	7215023645717249	Vietnamese	viet1252	to roast or fry	ROAST OR FRY	2146		rán	rán 
+433	24-5-23-3	721502361166870	Vietnamese	viet1252	to roast or fry	ROAST OR FRY	2146		chiên	chiên 
+434	24-5-23-4	7215023431072462	Vietnamese	viet1252	to roast or fry	ROAST OR FRY	2146		sào	sào 
+435	24-5-24-1	7215023900976624	Vietnamese	viet1252	to bake	BAKE	183		bỏ lò	bỏ lò 
+436	24-5-25-1	721502337691668	Vietnamese	viet1252	the oven	OVEN	1143		lò	lò 
+437	24-5-26-1	7215023554714368	Vietnamese	viet1252	the pot	POT	1462		ấm (1)	ấm (1) 
+438	24-5-27-1	7215023554714368	Vietnamese	viet1252	the kettle	KETTLE	854		ấm (1)	ấm (1) 
+439	24-5-28-1	7215023443308705	Vietnamese	viet1252	the pan	PAN	31		chảo	chảo 
+440	24-5-31-1	7215023698017531	Vietnamese	viet1252	the dish	DISH	481		đĩa	đĩa 
+441	24-5-32-1	7215023698017531	Vietnamese	viet1252	the plate	PLATE	480		đĩa	đĩa 
+442	24-5-33-1	7215023493692741	Vietnamese	viet1252	the bowl	BOWL	1530		bát	bát 
+443	24-5-33-2	7215023926362107	Vietnamese	viet1252	the bowl	BOWL	1530		chén	chén 
+444	24-5-34-1	7215023847313018	Vietnamese	viet1252	the jug/pitcher	JUG	270		bình	bình 
+445	24-5-35-1	7215023926362107	Vietnamese	viet1252	the cup	CUP	476		chén	chén 
+446	24-5-36-1	7215023560746078	Vietnamese	viet1252	the saucer	SAUCER	271		đĩa nhỏ	đĩa nhỏ 
+447	24-5-37-1	7215023734342491	Vietnamese	viet1252	the spoon	SPOON	1378		thìa	thìa 
+448	24-5-37-2	7215023787533888	Vietnamese	viet1252	the spoon	SPOON	1378		muỗng	muỗng 
+449	24-5-38-1	7215023905714520	Vietnamese	viet1252	the knife(1)	KNIFE (FOR EATING)	3210		dao (1)	dao (1) 
+450	24-5-39-1	7215023780552361	Vietnamese	viet1252	the fork	FORK	1302		nĩa	nĩa 
+451	24-5-391-1	7215023773828973	Vietnamese	viet1252	the tongs	TONGS	272		kẹp	kẹp 
+452	24-5-41-1	7215023259755475	Vietnamese	viet1252	the meal	MEAL	1526		bữa ăn	bữa ăn 
+453	24-5-42-1	7215023872941723	Vietnamese	viet1252	the breakfast	BREAKFAST	1322		bữa ăn sáng	bữa ăn sáng 
+454	24-5-43-1	7215023725237319	Vietnamese	viet1252	the lunch	LUNCH	768		bữa ăn trưa	bữa ăn trưa 
+455	24-5-44-1	7215023841725930	Vietnamese	viet1252	the dinner	DINNER (SUPPER)	1833		bữa ăn tối	bữa ăn tối 
+456	24-5-45-1	7215023841725930	Vietnamese	viet1252	the supper	DINNER (SUPPER)	1833		bữa ăn tối	bữa ăn tối 
+457	24-5-46-1	7215023516936988	Vietnamese	viet1252	to peel	PEEL	275		bóc	bóc 
+458	24-5-47-1	7215023705232619	Vietnamese	viet1252	to sieve or to strain	SIEVE	86		giần	giần 
+459	24-5-48-1	7215023905594645	Vietnamese	viet1252	to scrape	SCRAPE	1767		cạo	cạo 
+460	24-5-49-1	7215023470709596	Vietnamese	viet1252	to stir or to mix	MIX	2017		khuấy	khuấy 
+461	24-5-51-1	721502383121743	Vietnamese	viet1252	the bread	BREAD	1368		bánh mì	bánh mì 
+462	24-5-53-1	7215023947578867	Vietnamese	viet1252	the dough	DOUGH	273		bột nhào	bột nhào 
+463	24-5-54-1	7215023853781651	Vietnamese	viet1252	to knead	KNEAD	274		nhào	nhào 
+464	24-5-55-1	7215023724617490	Vietnamese	viet1252	the flour	FLOUR	1594		bột	bột 
+465	24-5-56-1	7215023556199041	Vietnamese	viet1252	to crush or to grind	GRIND	1033		xay	xay 
+466	24-5-57-1	7215023724590047	Vietnamese	viet1252	the mill	MILL	636		máy xay	máy xay 
+467	24-5-58-1	7215023335353992	Vietnamese	viet1252	the mortar(1)	MORTAR CRUSHER	224		cối	cối 
+468	24-5-59-1	7215023863553331	Vietnamese	viet1252	the pestle	PESTLE	225		chày	chày 
+469	24-5-61-1	7215023350247447	Vietnamese	viet1252	the meat	MEAT	634		thịt	thịt 
+470	24-5-63-1	7215023719803524	Vietnamese	viet1252	the sausage	SAUSAGE	1874		lạp xưởng	lạp xưởng 
+471	24-5-64-1	7215023924403141	Vietnamese	viet1252	the soup	SOUP	1547		canh	canh 
+472	24-5-64-2	7215023786080698	Vietnamese	viet1252	the soup	SOUP	1547		xúp	xúp 
+473	24-5-64-3	7215023460415601	Vietnamese	viet1252	the soup	SOUP	1547		cháo	cháo 
+474	24-5-65-1	7215023331288173	Vietnamese	viet1252	the vegetables	VEGETABLES	924		rau	rau 
+475	24-5-66-1	7215023112710507	Vietnamese	viet1252	the bean	BEAN	832		đậu	đậu 
+476	24-5-7-1	7215023169051708	Vietnamese	viet1252	the potato	POTATO	593		khoai	khoai 
+477	24-5-71-1	7215023962649506	Vietnamese	viet1252	the fruit	FRUIT	1507		quả	quả 
+478	24-5-71-2	7215023920279827	Vietnamese	viet1252	the fruit	FRUIT	1507		trái (1)	trái (1) 
+479	24-5-712-1	7215023349962979	Vietnamese	viet1252	the bunch	BUNCH	1966		chùm	chùm 
+480	24-5-75-1	7215023627462701	Vietnamese	viet1252	the fig	FIG	322		sung	sung 
+481	24-5-76-1	7215023913193166	Vietnamese	viet1252	the grape	GRAPE	920		nho	nho 
+482	24-5-77-1	7215023278425816	Vietnamese	viet1252	the nut	NUT	191		quả hạch	quả hạch 
+483	24-5-78-1	721502323949915	Vietnamese	viet1252	the olive	OLIVE	1154		ôliu	ôliu 
+484	24-5-79-1	7215023393039915	Vietnamese	viet1252	the oil	OIL (ORGANIC SUBSTANCE)	1484		dầu	dầu 
+485	24-5-791-1	7215023912670101	Vietnamese	viet1252	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		mỡ	mỡ 
+486	24-5-81-1	7215023399984495	Vietnamese	viet1252	the salt	SALT	1274		muối	muối 
+487	24-5-82-1	7215023734208287	Vietnamese	viet1252	the pepper	PEPPER	1385		tiêu	tiêu 
+488	24-5-821-1	7215023834595547	Vietnamese	viet1252	the chili pepper	CHILI PEPPER	919		ớt	ớt 
+489	24-5-84-1	7215023476829313	Vietnamese	viet1252	the honey	HONEY	942		mật	mật 
+490	24-5-85-1	72150231183167	Vietnamese	viet1252	the sugar	SUGAR	862		đường (1)	đường (1) 
+491	24-5-86-1	7215023551394267	Vietnamese	viet1252	the milk	MILK	635		sữa	sữa 
+492	24-5-87-1	7215023969285048	Vietnamese	viet1252	to milk	DRAW MILK	93		vắt sữa	vắt sữa 
+493	24-5-88-1	7215023950087872	Vietnamese	viet1252	the cheese	CHEESE	1569		phó mát	phó mát 
+494	24-5-89-1	7215023231990505	Vietnamese	viet1252	the butter	BUTTER	1245		bơ	bơ 
+495	24-5-9-1	7215023289259217	Vietnamese	viet1252	the drink	BEVERAGE	731		đồ uống	đồ uống 
+496	24-5-91-1	7215023825733948	Vietnamese	viet1252	the mead	MEAD	941		rượu mật ong	rượu mật ong 
+497	24-5-92-1	7215023998532146	Vietnamese	viet1252	the wine	WINE	1524		vang	vang 
+498	24-5-93-1	7215023840923682	Vietnamese	viet1252	the beer	BEER	1639		bia	bia 
+499	24-5-94-1	7215023419868870	Vietnamese	viet1252	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		rượu	rượu 
+500	24-5-97-1	7215023815914750	Vietnamese	viet1252	the egg	EGG	744		trứng	trứng 
+501	24-5-971-1	7215023721408036	Vietnamese	viet1252	the yolk	YOLK	1556		lòng đỏ trứng	lòng đỏ trứng 
+502	24-6-11-1	7215023811109162	Vietnamese	viet1252	to put on	PUT ON	158		đội (1)	đội (1) 
+503	24-6-11-2	7215023765476136	Vietnamese	viet1252	to put on	PUT ON	158		mặc	mặc 
+504	24-6-12-1	7215023454306104	Vietnamese	viet1252	the clothing or clothes	CLOTHES	1895		quần aó	quần aó 
+505	24-6-12-2	7215023574445699	Vietnamese	viet1252	the clothing or clothes	CLOTHES	1895		y phục	y phục 
+506	24-6-13-1	7215023691278034	Vietnamese	viet1252	the tailor	TAILOR	881		thợ may	thợ may 
+507	24-6-21-1	7215023682652434	Vietnamese	viet1252	the cloth	CLOTH	1616		vải	vải 
+508	24-6-22-1	7215023212196689	Vietnamese	viet1252	the wool	WOOL	964		len	len 
+509	24-6-23-1	7215023523906668	Vietnamese	viet1252	the linen	LINEN	916		(vải) lanh	(vải) lanh 
+510	24-6-24-1	7215023351843317	Vietnamese	viet1252	the cotton	COTTON	1850		bông (1)	bông (1) 
+511	24-6-25-1	7215023652033587	Vietnamese	viet1252	the silk	SILK	1641		tơ	tơ 
+512	24-6-27-1	7215023205793451	Vietnamese	viet1252	the felt	FELT	325		nỉ	nỉ 
+513	24-6-28-1	7215023724925635	Vietnamese	viet1252	the fur	FUR	580		lông (2)	lông (2) 
+514	24-6-29-1	7215023999597799	Vietnamese	viet1252	the leather	LEATHER	629		da thuộc	da thuộc 
+515	24-6-31-1	7215023722670847	Vietnamese	viet1252	to spin	SPIN	121		quay (2)	quay (2) 
+516	24-6-32-1	7215023555515627	Vietnamese	viet1252	the spindle	SPINDLE	277		suốt	suốt 
+517	24-6-33-1	7215023812233743	Vietnamese	viet1252	to weave	WEAVE	133		đan	đan 
+518	24-6-34-1	7215023178068013	Vietnamese	viet1252	the loom	LOOM	1787		khung cửi dệt vải	khung cửi dệt vải 
+519	24-6-35-1	7215023223691970	Vietnamese	viet1252	to sew	SEW	1457		may	may 
+520	24-6-36-1	7215023409375573	Vietnamese	viet1252	the needle(1)	NEEDLE (FOR SEWING)	1382		kim	kim 
+521	24-6-37-1	7215023313337841	Vietnamese	viet1252	the awl	AWL	278		dùi/giùi	dùi 
+522	24-6-37-2	7215023313337841	Vietnamese	viet1252	the awl	AWL	278		dùi/giùi	giùi 
+523	24-6-38-1	7215023104359817	Vietnamese	viet1252	the thread	THREAD	1161		chỉ (1)	chỉ (1) 
+524	24-6-39-1	7215023942435807	Vietnamese	viet1252	to dye	DYE	157		nhuộm	nhuộm 
+525	24-6-41-1	7215023779412727	Vietnamese	viet1252	the cloak	CLOAK	326		aó choàng	aó choàng 
+526	24-6-411-1	7215023408867999	Vietnamese	viet1252	the poncho	PONCHO	327		aó ponsô	aó ponsô 
+527	24-7-37-1	7215023512061229	Vietnamese	viet1252	the ladder	LADDER	1464		thang	thang 
+528	24-6-42-1	7215023982897059	Vietnamese	viet1252	the (woman's) dress	DRESS	474		aó dài	aó dài 
+529	24-6-43-1	7215023147939981	Vietnamese	viet1252	the coat	COAT	603		aó lạnh	aó lạnh 
+530	24-6-44-1	7215023544930543	Vietnamese	viet1252	the shirt	SHIRT	1622		aó sơ mi	aó sơ mi 
+531	24-6-45-1	7215023226293203	Vietnamese	viet1252	the collar	COLLAR	2012		cổ aó	cổ aó 
+532	24-6-46-1	7215023524946984	Vietnamese	viet1252	the skirt	SKIRT	1600		váy	váy 
+533	24-6-48-1	7215023350388148	Vietnamese	viet1252	the trousers	TROUSERS	809		quần	quần 
+534	24-6-49-1	7215023331185653	Vietnamese	viet1252	the sock or stocking	STOCKING	329		vớ	vớ 
+535	24-6-51-1	7215023218926163	Vietnamese	viet1252	the shoe	SHOE	1381		giày	giày 
+536	24-6-52-1	7215023312102212	Vietnamese	viet1252	the boot	BOOT	585		giày ống	giày ống 
+537	24-6-54-1	7215023499286446	Vietnamese	viet1252	the shoemaker	SHOEMAKER	875		thợ đóng giày	thợ đóng giày 
+538	24-6-55-1	7215023640481473	Vietnamese	viet1252	the hat or cap	HEADGEAR	2130		mũ	mũ 
+539	24-6-55-2	7215023446044830	Vietnamese	viet1252	the hat or cap	HEADGEAR	2130		nón	nón 
+540	24-6-57-1	7215023403026422	Vietnamese	viet1252	the belt	BELT	772		dây lưng	dây lưng 
+541	24-6-58-1	7215023360430684	Vietnamese	viet1252	the glove	GLOVE	867		bao tay	bao tay 
+542	24-6-59-1	7215023602816236	Vietnamese	viet1252	the veil	VEIL	1151		mạng che mặt	mạng che mặt 
+543	24-6-61-1	7215023159142178	Vietnamese	viet1252	the pocket	POCKET	1851		túi	túi 
+544	24-6-62-1	7215023562820042	Vietnamese	viet1252	the button	BUTTON	757		nút (1)	nút (1) 
+545	24-6-63-1	7215023482589365	Vietnamese	viet1252	the pin	PIN	64		ghim	ghim 
+546	24-6-71-1	7215023407874596	Vietnamese	viet1252	the ornament or adornment	ORNAMENT	917		đồ trang trí	đồ trang trí 
+547	24-6-72-1	7215023120631230	Vietnamese	viet1252	the jewel	JEWEL	1029		ngọc đá qúy	ngọc đá qúy 
+548	24-6-73-1	7215023739392588	Vietnamese	viet1252	the ring	RING	1374		nhẫn	nhẫn 
+549	24-6-74-1	7215023870640566	Vietnamese	viet1252	the bracelet	BRACELET	1754		vòng tay	vòng tay 
+550	24-6-75-1	7215023873743444	Vietnamese	viet1252	the necklace	NECKLACE	1961		chuỗi hạt	chuỗi hạt 
+551	24-6-76-1	7215023412233295	Vietnamese	viet1252	the bead	BEAD	1860		hạt (1)	hạt (1) 
+552	24-6-77-1	7215023953754340	Vietnamese	viet1252	the earring	EARRING	770		hoa tai	hoa tai 
+553	24-6-78-1	7215023100317204	Vietnamese	viet1252	the headband or headdress	HEADBAND	330		băng buộc đầu	băng buộc đầu 
+554	24-6-79-1	7215023963738443	Vietnamese	viet1252	the tattoo	TATTOO	68		sự xăm hình	sự xăm hình 
+555	24-6-81-1	7215023787825850	Vietnamese	viet1252	the handkerchief or rag	RAG	332		khăn tay	khăn tay 
+556	24-6-82-1	7215023286470690	Vietnamese	viet1252	the towel	TOWEL	1021		khăn	khăn 
+557	24-6-91-1	721502365459308	Vietnamese	viet1252	the comb	COMB	1475		lược	lược 
+558	24-6-92-1	7215023361204848	Vietnamese	viet1252	the brush	BRUSH	1821		chải	chải 
+559	24-6-921-1	7215023360801313	Vietnamese	viet1252	the plait/braid	BRAID	1043		dải viền	dải viền 
+560	24-6-93-1	7215023870059971	Vietnamese	viet1252	the razor	RAZOR	151		dao cạo	dao cạo 
+561	24-6-94-1	7215023463415457	Vietnamese	viet1252	the ointment	OINTMENT	1926		thuốc mỡ	thuốc mỡ 
+562	24-6-95-1	7215023110598366	Vietnamese	viet1252	the soap	SOAP	788		xà phòng	xà phòng 
+563	24-6-96-1	7215023830864411	Vietnamese	viet1252	the mirror	MIRROR	1171		gương	gương 
+564	24-7-11-1	7215023290092960	Vietnamese	viet1252	to live	DWELL (LIVE, RESIDE)	363		ở (1)	ở (1) 
+565	24-7-12-1	7215023621685505	Vietnamese	viet1252	the house	HOUSE	1252		nhà	nhà 
+566	24-7-13-1	7215023679820040	Vietnamese	viet1252	the hut	HUT	1678		túp lều	túp lều 
+567	24-7-131-1	7215023723607980	Vietnamese	viet1252	the garden-house	GARDEN-HOUSE	403		nhà vườn	nhà vườn 
+568	24-7-14-1	7215023321545153	Vietnamese	viet1252	the tent	TENT	1316		lều	lều 
+569	24-7-15-1	7215023995189125	Vietnamese	viet1252	the yard or court	YARD	736		sân	sân 
+570	24-7-16-1	7215023534367723	Vietnamese	viet1252	the men's house	MEN'S HOUSE	408		nhà đàn ông	nhà đàn ông 
+571	24-7-17-1	7215023908918730	Vietnamese	viet1252	the cookhouse	COOKHOUSE	334		nhà bếp	nhà bếp 
+572	24-7-18-1	721502345909418	Vietnamese	viet1252	the meeting house	MEETING HOUSE	335		nhà thờ	nhà thờ 
+573	24-7-21-1	7215023708785416	Vietnamese	viet1252	the room	ROOM	1450		phòng	phòng 
+574	24-7-21-2	7215023273638786	Vietnamese	viet1252	the room	ROOM	1450		buồng	buồng 
+575	24-7-22-1	7215023231888330	Vietnamese	viet1252	the door or gate	DOOR	1567		cửa	cửa 
+576	24-7-221-1	7215023386651352	Vietnamese	viet1252	the doorpost	DOORPOST	80		gióng cửa	gióng cửa 
+577	24-7-23-1	7215023848087204	Vietnamese	viet1252	the lock	LOCK	1596		khóa	khóa 
+578	24-7-231-1	7215023909626117	Vietnamese	viet1252	the latch or door-bolt	LATCH	1012		chốt cửa	chốt cửa 
+579	24-7-24-1	7215023263930113	Vietnamese	viet1252	the key	KEY	1472		chìa (khoá)	chìa (khoá) 
+580	24-7-25-1	721502343955826	Vietnamese	viet1252	the window	WINDOW	1375		cửa sổ	cửa sổ 
+581	24-7-26-1	7215023195553553	Vietnamese	viet1252	the floor	FLOOR	1632		sàn	sàn 
+582	24-7-27-1	7215023267496296	Vietnamese	viet1252	the wall	WALL (OF HOUSE)	933		tường	tường 
+583	24-7-31-1	7215023282122564	Vietnamese	viet1252	the fireplace	FIREPLACE	185		lò sưởi	lò sưởi 
+584	24-7-32-1	721502337691668	Vietnamese	viet1252	the stove	STOVE	859		lò	lò 
+585	24-7-33-1	7215023673491083	Vietnamese	viet1252	the chimney	CHIMNEY	1305		ống khói	ống khói 
+586	24-7-42-1	721502333048631	Vietnamese	viet1252	the bed	BED	1663		giường	giường 
+587	24-7-421-1	7215023878058140	Vietnamese	viet1252	the pillow	PILLOW	1044		gối	gối 
+588	24-7-422-1	7215023490443901	Vietnamese	viet1252	the blanket	BLANKET	806		mền	mền 
+589	24-7-43-1	7215023376589161	Vietnamese	viet1252	the chair	CHAIR	1476		ghế	ghế 
+590	24-7-44-1	7215023381078369	Vietnamese	viet1252	the table	TABLE	1775		bàn	bàn 
+591	24-7-45-1	7215023966671335	Vietnamese	viet1252	the lamp or torch	TORCH OR LAMP	2131		đuốc	đuốc 
+592	24-7-46-1	721502373221166	Vietnamese	viet1252	the candle	CANDLE	1273		nến	nến 
+593	24-7-47-1	7215023273685346	Vietnamese	viet1252	the shelf	SHELF	745		giá (1)	giá (1) 
+594	24-7-47-2	7215023573256177	Vietnamese	viet1252	the shelf	SHELF	745		tủ	tủ 
+595	24-7-48-1	7215023958376527	Vietnamese	viet1252	the trough	TROUGH	205		máng ăn	máng ăn 
+596	24-7-51-1	7215023818003605	Vietnamese	viet1252	the roof	ROOF	769		mái nhà	mái nhà 
+597	24-7-52-1	7215023987297862	Vietnamese	viet1252	the thatch	THATCH	279		tranh	tranh 
+598	24-7-53-1	7215023629687030	Vietnamese	viet1252	the ridgepole	RIDGEPOLE	280		xà nóc	xà nóc 
+599	24-7-54-1	7215023455665845	Vietnamese	viet1252	the rafter	RAFTER	829		rui	rui 
+600	24-7-55-1	7215023739398761	Vietnamese	viet1252	the beam	BEAM	1132		xà	xà 
+601	24-7-56-1	7215023173685152	Vietnamese	viet1252	the post or pole	POST	281		cột trụ	cột trụ 
+602	24-7-57-1	72150239539271	Vietnamese	viet1252	the board	BOARD	1227		ván	ván 
+603	24-7-58-1	7215023128679826	Vietnamese	viet1252	the arch	ARCH	876		cửa tò vò	cửa tò vò 
+604	24-7-61-1	7215023874423844	Vietnamese	viet1252	the mason	MASON	877		thợ nề	thợ nề 
+605	24-7-62-1	7215023840287652	Vietnamese	viet1252	the brick	BRICK	1006		gạch	gạch 
+606	24-7-63-1	7215023932521100	Vietnamese	viet1252	the mortar(2)	MORTAR BINDER	1731		vữa	vữa 
+607	24-7-64-1	7215023834563949	Vietnamese	viet1252	the adobe	ADOBE	901		gạch sống	gạch sống 
+608	24-8-11-1	7215023993447558	Vietnamese	viet1252	the farmer	FARMER	979		nông dân	nông dân 
+609	24-8-12-1	7215023191740941	Vietnamese	viet1252	the field	FIELD	212		đồng ruộng	đồng ruộng 
+610	24-8-12-2	7215023655712259	Vietnamese	viet1252	the field	FIELD	212		rẫy	rẫy 
+611	24-8-13-1	7215023912026287	Vietnamese	viet1252	the garden	GARDEN	586		vườn	vườn 
+612	24-8-15-1	7215023878177414	Vietnamese	viet1252	to cultivate	CULTIVATE	1541		trồng trọt	trồng trọt 
+613	24-8-16-1	7215023845383430	Vietnamese	viet1252	the fence	FENCE	1690		rào	rào 
+614	24-8-17-1	7215023497549886	Vietnamese	viet1252	the ditch	DITCH	2002		mương	mương 
+615	24-8-21-1	7215023210470801	Vietnamese	viet1252	to plough/plow	PLOUGH	1921		cày	cày 
+616	24-8-212-1	7215023460217356	Vietnamese	viet1252	the furrow	FURROW	1794		luống cày	luống cày 
+617	24-8-22-1	721502346231871	Vietnamese	viet1252	to dig	DIG	1418		đào	đào 
+618	24-8-23-1	7215023286571887	Vietnamese	viet1252	the spade	SPADE	1176		pích	pích 
+619	24-8-24-1	7215023784079055	Vietnamese	viet1252	the shovel	SHOVEL	1901		xẻng	xẻng 
+620	24-8-25-1	7215023599104248	Vietnamese	viet1252	the hoe	HOE	284		cuốc	cuốc 
+621	24-8-26-1	7215023903792875	Vietnamese	viet1252	the fork(2)/pitchfork	PITCHFORK	337		chĩa	chĩa 
+622	24-8-27-1	7215023924827882	Vietnamese	viet1252	the rake	RAKE	338		cào (2)	cào (2) 
+623	24-8-31-1	72150235168411	Vietnamese	viet1252	to sow	SOW SEEDS	748		gieo	gieo 
+624	24-8-311-1	7215023307704825	Vietnamese	viet1252	the seed	SEED	714		hạt (2)	hạt (2) 
+625	24-8-32-1	7215023409747292	Vietnamese	viet1252	to mow	MOW	190		cắt (2)	cắt (2) 
+626	24-8-33-1	7215023880367224	Vietnamese	viet1252	the sickle or scythe	SICKLE OR SCYTHE	2132		liềm	liềm 
+627	24-8-34-1	7215023488215735	Vietnamese	viet1252	to thresh	THRESH	285		đập	đập 
+628	24-8-35-1	7215023434327373	Vietnamese	viet1252	the threshing-floor	THRESHING-FLOOR	223		sân đập lúa	sân đập lúa 
+629	24-8-41-1	7215023381327603	Vietnamese	viet1252	the harvest	HARVEST	611		thu hoạch	thu hoạch 
+630	24-8-42-1	7215023880422654	Vietnamese	viet1252	the grain	GRAIN	605		thóc lúa	thóc lúa 
+631	24-8-43-1	7215023408701670	Vietnamese	viet1252	the wheat	WHEAT	1077		lúa mì	lúa mì 
+632	24-8-44-1	7215023504127007	Vietnamese	viet1252	the barley	BARLEY	932		mạch	mạch 
+633	24-8-45-1	7215023465238237	Vietnamese	viet1252	the rye	RYE	23		lúa mạch đen	lúa mạch đen 
+634	24-8-46-1	7215023259754338	Vietnamese	viet1252	the oats	OAT	60		yến mạch	yến mạch 
+635	24-8-47-1	7215023248758638	Vietnamese	viet1252	the maize/corn	MAIZE	506		ngô	ngô 
+636	24-8-48-1	7215023529255402	Vietnamese	viet1252	the rice	RICE	926		cơm	cơm 
+637	24-8-48-2	7215023544454485	Vietnamese	viet1252	the rice	RICE	926		gạo	gạo 
+638	24-8-48-3	7215023257800174	Vietnamese	viet1252	the rice	RICE	926		lúa	lúa 
+639	24-8-51-1	7215023963984103	Vietnamese	viet1252	the grass	GRASS	606		cỏ	cỏ 
+640	24-8-52-1	7215023133896734	Vietnamese	viet1252	the hay	HAY	342		cỏ khô	cỏ khô 
+641	24-8-53-1	721502379937672	Vietnamese	viet1252	the plant	PLANT (VEGETATION)	653		thực vật	thực vật 
+642	24-8-531-1	7215023301993014	Vietnamese	viet1252	to plant	PLANT (SOMETHING)	1486		trồng	trồng 
+643	24-8-54-1	7215023368375568	Vietnamese	viet1252	the root	ROOT	670		rễ	rễ 
+644	24-8-55-1	7215023192360448	Vietnamese	viet1252	the branch	BRANCH OR TWIG	3223		cành	cành 
+645	24-8-56-1	721502386324413	Vietnamese	viet1252	the leaf	LEAF	628		lá	lá 
+646	24-8-57-1	7215023601989025	Vietnamese	viet1252	the flower	FLOWER	239		hoa	hoa 
+647	24-8-57-2	72150232317711	Vietnamese	viet1252	the flower	FLOWER	239		bông (2)	bông (2) 
+648	24-8-6-1	7215023447285244	Vietnamese	viet1252	the tree	TREE	906		cây	cây 
+649	24-8-61-1	721502364495177	Vietnamese	viet1252	the oak	OAK	644		sồi	sồi 
+650	24-8-62-1	721502364495177	Vietnamese	viet1252	the beech	BEECH	1950		sồi	sồi 
+651	24-8-63-1	7215023296584375	Vietnamese	viet1252	the birch	BIRCH	1855		bulô	bulô 
+652	24-8-64-1	7215023734605671	Vietnamese	viet1252	the pine	PINE	1740		thông	thông 
+653	24-8-65-1	7215023734605671	Vietnamese	viet1252	the fir	FIR	1915		thông	thông 
+654	24-8-66-1	7215023217128568	Vietnamese	viet1252	the acorn	ACORN	968		quả đấu	quả đấu 
+655	24-8-67-1	721502314452348	Vietnamese	viet1252	the vine	VINE	343		cây nho	cây nho 
+656	24-8-68-1	721502392578117	Vietnamese	viet1252	the tobacco	TOBACCO	974		thuốc lá	thuốc lá 
+657	24-8-69-1	7215023118714256	Vietnamese	viet1252	to smoke	SMOKE (INHALE)	1689		hút thuốc	hút thuốc 
+658	24-8-691-1	7215023307666637	Vietnamese	viet1252	the pipe	PIPE	1124		ống điếu	ống điếu 
+659	24-8-72-1	7215023470389138	Vietnamese	viet1252	the tree stump	TREE STUMP	241		gốc	gốc 
+660	24-8-73-1	7215023191486097	Vietnamese	viet1252	the tree trunk	TREE TRUNK	344		gốc cây	gốc cây 
+661	24-8-74-1	7215023475017491	Vietnamese	viet1252	the forked branch	FORKED BRANCH	409		cánh hình chạc	cánh hình chạc 
+662	24-8-75-1	7215023500531959	Vietnamese	viet1252	the bark	BARK	1204		vỏ	vỏ 
+663	24-8-76-1	7215023173492810	Vietnamese	viet1252	the sap	SAP	345		nhựa	nhựa 
+664	24-8-81-1	7215023498735725	Vietnamese	viet1252	the palm tree	PALM TREE	1181		cọ	cọ 
+665	24-8-82-1	7215023177543467	Vietnamese	viet1252	the coconut	COCONUT	970		dừa	dừa 
+666	24-8-83-1	7215023117597689	Vietnamese	viet1252	the citrus fruit	CITRUS FRUIT	1126		giống cam quít	giống cam quít 
+667	24-8-84-1	7215023455637881	Vietnamese	viet1252	the banana	BANANA	868		chuối	chuối 
+668	24-8-85-1	721502351540061	Vietnamese	viet1252	the banyan	BANYAN	346		si	si 
+669	24-8-91-1	721502347858055	Vietnamese	viet1252	the sweet potato	SWEET POTATO	159		khoai lang	khoai lang 
+670	24-8-912-1	721502347858055	Vietnamese	viet1252	the yam	YAM	410		khoai lang	khoai lang 
+671	24-8-92-1	7215023343575258	Vietnamese	viet1252	the cassava/manioc	CASSAVA	925		sắn	sắn 
+672	24-8-93-1	7215023772489485	Vietnamese	viet1252	the gourd	GOURD	411		bí	bí 
+673	24-8-931-1	7215023772489485	Vietnamese	viet1252	the pumpkin or squash	PUMPKIN	864		bí	bí 
+674	24-8-94-1	7215023982917008	Vietnamese	viet1252	the bamboo	BAMBOO	1927		tre	tre 
+675	24-8-941-1	7215023854367447	Vietnamese	viet1252	the sugar cane	SUGAR CANE	146		mía	mía 
+676	24-8-96-1	7215023639310587	Vietnamese	viet1252	the fish poison	FISH POISON	348		Thuốc độc cho con cá	Thuốc độc cho con cá 
+677	24-8-97-1	7215023125767275	Vietnamese	viet1252	the nettle	NETTLE	33		tầm ma	tầm ma 
+678	24-8-98-1	7215023180706259	Vietnamese	viet1252	the mushroom	MUSHROOM	641		nấm	nấm 
+679	24-9-11-1	7215023354494620	Vietnamese	viet1252	to do	DO	813		làm	làm 
+680	24-9-12-1	7215023688260582	Vietnamese	viet1252	the work	WORK (LABOUR)	984		làm việc	làm việc 
+681	24-9-14-1	7215023685608608	Vietnamese	viet1252	to bend	BEND	2004		uốn cong	uốn cong 
+682	24-9-15-1	7215023375780815	Vietnamese	viet1252	to fold	FOLD	1470		gấp	gấp 
+683	24-9-16-1	7215023112685911	Vietnamese	viet1252	to tie	TIE	1917		buộc	buộc 
+684	24-9-161-1	7215023862274817	Vietnamese	viet1252	to untie	UNTIE	352		cởi	cởi 
+685	24-9-18-1	721502346758739	Vietnamese	viet1252	the chain	CHAIN	1627		xích	xích 
+686	24-9-19-1	7215023925978503	Vietnamese	viet1252	the rope	ROPE	1218		dây	dây 
+687	24-9-192-1	7215023454293814	Vietnamese	viet1252	the knot	KNOT	760		nút (2)	nút (2) 
+688	24-9-21-1	7215023513197070	Vietnamese	viet1252	to strike or hit or beat	STRIKE OR BEAT	2133		đánh	đánh 
+689	24-9-211-1	721502380506179	Vietnamese	viet1252	to pound	POUND	354		đâm	đâm 
+690	24-9-211-2	7215023488215735	Vietnamese	viet1252	to pound	POUND	354		đập	đập 
+691	24-9-22-1	7215023720828871	Vietnamese	viet1252	to cut	CUT	1432		cắt (1)	cắt (1) 
+692	24-9-221-1	7215023824452639	Vietnamese	viet1252	to cut down	CUT DOWN	355		đốn	đốn 
+693	24-9-222-1	721502323154282	Vietnamese	viet1252	to chop	CHOP	155		chặt	chặt 
+694	24-9-223-1	7215023297207013	Vietnamese	viet1252	to stab	STAB TO DEATH	3189		đâm	đâm 
+695	24-9-23-1	7215023146185503	Vietnamese	viet1252	the knife(2)	KNIFE	1352		dao (2)	dao (2) 
+696	24-9-24-1	7215023140686807	Vietnamese	viet1252	the scissors or shears	SHEARS	356		kéo (1)	kéo (1) 
+697	24-9-25-1	7215023785715042	Vietnamese	viet1252	the axe/ax	AXE	677		rìu	rìu 
+698	24-9-251-1	7215023774578640	Vietnamese	viet1252	the adze	ADZE	290		rìu lưỡi vòm	rìu lưỡi vòm 
+699	24-9-26-1	7215023402564312	Vietnamese	viet1252	to break	BREAK (DESTROY OR GET DESTROYED)	680		làm vỡ	làm vỡ 
+700	24-9-261-1	721502356896393	Vietnamese	viet1252	broken	BROKEN (NOT WORKING)	3190		vỡ	vỡ 
+701	24-9-27-1	7215023553244267	Vietnamese	viet1252	to split	SPLIT	1437		chẻ	chẻ 
+702	24-9-28-1	7215023415528339	Vietnamese	viet1252	to tear	TEAR (SHRED)	1735		xé	xé 
+703	24-9-83-1	7215023724771914	Vietnamese	viet1252	the statue	STATUE	1002		tượng	tượng 
+704	24-9-29-1	7215023742833394	Vietnamese	viet1252	to skin	PULL OFF (SKIN)	291		lột da	lột da 
+705	24-9-31-1	7215023611746352	Vietnamese	viet1252	to rub	RUB	1449		chà	chà 
+706	24-9-31-2	7215023187228358	Vietnamese	viet1252	to rub	RUB	1449		xát	xát 
+707	24-9-32-1	7215023456488778	Vietnamese	viet1252	to stretch	STRETCH	214		kéo dài ra	kéo dài ra 
+708	24-9-33-1	7215023290748251	Vietnamese	viet1252	to pull	PULL	1455		kéo (2)	kéo (2) 
+709	24-9-34-1	7215023195408475	Vietnamese	viet1252	to spread out	SPREAD OUT	38		trải	trải 
+710	24-9-341-1	7215023955560952	Vietnamese	viet1252	to hang up	HANG UP	357		treo	treo 
+711	24-9-342-1	7215023624632186	Vietnamese	viet1252	to press	PRESS	1913		ép	ép 
+712	24-9-343-1	7215023624632186	Vietnamese	viet1252	to squeeze	SQUEEZE	1414		ép	ép 
+713	24-9-35-1	7215023893819308	Vietnamese	viet1252	to pour	POUR	1487		đổ	đổ 
+714	24-9-35-2	7215023665196047	Vietnamese	viet1252	to pour	POUR	1487		rót	rót 
+715	24-9-36-1	7215023271067903	Vietnamese	viet1252	to wash	WASH	1453		rửa	rửa 
+716	24-9-37-1	7215023604861674	Vietnamese	viet1252	to sweep	SWEEP	230		quét	quét 
+717	24-9-38-1	7215023364619191	Vietnamese	viet1252	the broom	BROOM	245		chổi	chổi 
+718	24-9-422-1	7215023310669925	Vietnamese	viet1252	the tool	TOOL	1361		dụng cụ	dụng cụ 
+719	24-9-43-1	7215023509597441	Vietnamese	viet1252	the carpenter	CARPENTER	1042		thợ mộc	thợ mộc 
+720	24-9-44-1	7215023213357530	Vietnamese	viet1252	to build	BUILD	1840		xây dựng	xây dựng 
+721	24-9-46-1	7215023506677923	Vietnamese	viet1252	to bore	BORE	1501		khoan đào	khoan đào 
+722	24-9-461-1	721502316722283	Vietnamese	viet1252	to hollow out	HOLLOW OUT	46		làm rỗng	làm rỗng 
+723	24-9-48-1	7215023484348119	Vietnamese	viet1252	the saw	SAW	1948		cưa	cưa 
+724	24-9-49-1	7215023476058899	Vietnamese	viet1252	the hammer	HAMMER	1481		búa	búa 
+725	24-9-5-1	7215023681316505	Vietnamese	viet1252	the nail	NAIL (TOOL)	502		đinh	đinh 
+726	24-9-56-1	7215023266431301	Vietnamese	viet1252	the glue	GLUE	1069		keo	keo 
+727	24-9-6-1	7215023473796013	Vietnamese	viet1252	the blacksmith	BLACKSMITH	1001		thợ rèn	thợ rèn 
+728	24-9-61-1	7215023220629018	Vietnamese	viet1252	to forge	FORGE	288		rèn	rèn 
+729	24-9-62-1	7215023325956289	Vietnamese	viet1252	the anvil	ANVIL	1648		đe	đe 
+730	24-9-63-1	7215023716381640	Vietnamese	viet1252	to cast	CAST	211		đổ khuôn	đổ khuôn 
+731	24-9-64-1	7215023345551299	Vietnamese	viet1252	the gold	GOLD	1369		vàng	vàng 
+732	24-9-65-1	7215023709849242	Vietnamese	viet1252	the silver	SILVER	759		bạc	bạc 
+733	24-9-65-2	7215023684669497	Vietnamese	viet1252	the silver	SILVER	759		ngân	ngân 
+734	24-9-66-1	7215023442511114	Vietnamese	viet1252	the copper	COPPER	1825		đồng	đồng 
+735	24-9-67-1	7215023520659087	Vietnamese	viet1252	the iron	IRON	621		sắt	sắt 
+736	24-9-68-1	7215023988322133	Vietnamese	viet1252	the lead	LEAD (CHEMICAL ELEMENT)	627		chì	chì 
+737	24-9-69-1	7215023400953399	Vietnamese	viet1252	the tin or tinplate	TIN OR TINPLATE	3217		thiếc	thiếc 
+738	24-9-71-1	7215023304498141	Vietnamese	viet1252	the potter	POTTER	359		thợ gốm	thợ gốm 
+739	24-9-72-1	7215023387875585	Vietnamese	viet1252	to mould/mold	MOLD	289		đúc	đúc 
+740	24-9-73-1	7215023892374115	Vietnamese	viet1252	the clay	CLAY	1399		sét	sét 
+741	24-9-74-1	7215023886589853	Vietnamese	viet1252	the glass	GLASS	604		kính (1)	kính (1) 
+742	24-9-75-1	7215023226254966	Vietnamese	viet1252	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		dệt	dệt 
+743	24-9-76-1	7215023952283543	Vietnamese	viet1252	the basket	BASKET	1539		rổ	rổ 
+744	24-9-76-2	7215023681713610	Vietnamese	viet1252	the basket	BASKET	1539		nong	nong 
+745	24-9-77-1	7215023630372878	Vietnamese	viet1252	the mat	MAT	195		chiếu (1)	chiếu (1) 
+746	24-9-771-1	7215023121763306	Vietnamese	viet1252	the rug	RUG	292		thảm	thảm 
+747	24-9-79-1	7215023714660861	Vietnamese	viet1252	the fan	FAN (OBJECT)	1971		quạt (1)	quạt (1) 
+748	24-9-791-1	7215023202464278	Vietnamese	viet1252	to fan	FAN ACTION	360		quạt (2)	quạt (2) 
+749	24-9-81-1	7215023702632468	Vietnamese	viet1252	to carve	CARVE	228		khắc	khắc 
+750	24-9-81-2	7215023516864688	Vietnamese	viet1252	to carve	CARVE	228		vạc	vạc 
+751	24-9-82-1	721502346933910	Vietnamese	viet1252	the sculptor	SCULPTOR	914		thợ chạm	thợ chạm 
+752	24-9-84-1	7215023517180576	Vietnamese	viet1252	the chisel	CHISEL	1979		đục	đục 
+753	24-9-88-1	7215023996749532	Vietnamese	viet1252	the paint	PAINT (PIGMENTS)	647		sơn	sơn 
+754	24-9-89-1	7215023669583801	Vietnamese	viet1252	to paint	PAINTING	2001		vẽ	vẽ 
+755	24-10-11-1	7215023539091661	Vietnamese	viet1252	to move	MOVE	765		chuyển	chuyển 
+756	24-10-12-1	7215023722670847	Vietnamese	viet1252	to turn	TURN	1588		quay (2)	quay (2) 
+757	24-10-13-1	7215023627218406	Vietnamese	viet1252	to turn around	TURN (SOMETHING)	1445		quay vòng	quay vòng 
+758	24-10-14-1	7215023875032515	Vietnamese	viet1252	to wrap	WRAP	1113		gói	gói 
+759	24-10-15-1	7215023152793348	Vietnamese	viet1252	to roll	ROLL	827		cuốn	cuốn 
+760	24-10-16-1	7215023577578800	Vietnamese	viet1252	to drop	DROP (SOMETHING)	2866		bỏ xuống	bỏ xuống 
+761	24-10-17-1	7215023462740379	Vietnamese	viet1252	to twist	TWIST (AROUND)	3199		cuộn	cuộn 
+762	24-10-21-1	7215023442731619	Vietnamese	viet1252	to rise	RISE (MOVE UPWARDS)	568		lên	lên 
+763	24-10-22-1	7215023962624857	Vietnamese	viet1252	to raise or lift	LIFT	501		nâng	nâng 
+764	24-10-23-1	721502374417008	Vietnamese	viet1252	to fall	FALL	1280		rơi	rơi 
+765	24-10-24-1	7215023152450642	Vietnamese	viet1252	to drip	DRIP (EMIT LIQUID)	2253		chảy nhỏ giọt	chảy nhỏ giọt 
+766	24-10-25-1	7215023867800462	Vietnamese	viet1252	to throw	THROW	1456		vứt	vứt 
+767	24-10-252-1	7215023306544865	Vietnamese	viet1252	to catch	CATCH	702		bắt	bắt 
+768	24-10-26-1	7215023136504812	Vietnamese	viet1252	to shake	SHAKE	1909		làm rung	làm rung 
+769	24-10-32-1	7215023478389348	Vietnamese	viet1252	to flow	FLOW	2003		chảy	chảy 
+770	24-10-33-1	7215023699816771	Vietnamese	viet1252	to sink	SINK (DESCEND)	1088		chìm	chìm 
+771	24-10-33-2	7215023358509260	Vietnamese	viet1252	to sink	SINK (DESCEND)	1088		trầm	trầm 
+772	24-10-34-1	721502329203019	Vietnamese	viet1252	to float	FLOAT	1574		nổi	nổi 
+773	24-10-35-1	7215023664378709	Vietnamese	viet1252	to swim	SWIM	1439		lội	lội 
+774	24-10-35-2	721502371716435	Vietnamese	viet1252	to swim	SWIM	1439		bơi	bơi 
+775	24-10-351-1	7215023998219282	Vietnamese	viet1252	to dive	DIVE	119		lặn	lặn 
+776	24-10-352-1	7215023551324900	Vietnamese	viet1252	to splash	SPLASH	365		té	té 
+777	24-10-36-1	7215023962956295	Vietnamese	viet1252	to sail	SAIL	787		đi tàu thủy	đi tàu thủy 
+778	24-10-37-1	7215023859801715	Vietnamese	viet1252	to fly	FLY (MOVE THROUGH AIR)	1441		bay	bay 
+779	24-10-38-1	7215023171872321	Vietnamese	viet1252	to blow	BLOW (OF WIND)	175		thổi	thổi 
+780	24-10-41-1	7215023576649724	Vietnamese	viet1252	to crawl	CRAWL	96		bò (2)	bò (2) 
+781	24-10-412-1	721502367779655	Vietnamese	viet1252	to kneel	KNEEL	66		quì	quì 
+782	24-10-413-1	7215023588216893	Vietnamese	viet1252	to crouch	CROUCH	296		ngồi xổm	ngồi xổm 
+783	24-10-42-1	7215023462528889	Vietnamese	viet1252	to slide or slip	SLIP	1324		trượt	trượt 
+784	24-10-43-1	7215023207931211	Vietnamese	viet1252	to jump	JUMP	1829		nhảy	nhảy 
+785	24-10-431-1	72150239518925	Vietnamese	viet1252	to kick	KICK	1135		đá (3)	đá (3) 
+786	24-10-44-1	7215023183905057	Vietnamese	viet1252	to dance	DANCE	1879		khiễu vũ	khiễu vũ 
+787	24-10-44-2	7215023207931211	Vietnamese	viet1252	to dance	DANCE	1879		nhảy	nhảy 
+788	24-10-45-1	7215023912658304	Vietnamese	viet1252	to walk	WALK	1443		đi bộ	đi bộ 
+789	24-10-451-1	7215023510842104	Vietnamese	viet1252	to limp	LIMP	366		khập khiễng	khập khiễng 
+790	24-10-46-1	7215023539459648	Vietnamese	viet1252	to run	RUN	1519		chạy	chạy 
+791	24-10-47-1	7215023593448444	Vietnamese	viet1252	to go	GO	695		đi	đi 
+792	24-10-471-1	7215023442731619	Vietnamese	viet1252	to go up	GO UP (ASCEND)	705		lên	lên 
+793	24-10-472-1	7215023884481482	Vietnamese	viet1252	to climb	CLIMB	1102		leo	leo 
+794	24-10-473-1	7215023704979599	Vietnamese	viet1252	to go down	GO DOWN (DESCEND)	2014		xuống	xuống 
+795	24-10-474-1	7215023163258405	Vietnamese	viet1252	to go out	GO OUT	1107		ra	ra 
+796	24-10-48-1	7215023364170508	Vietnamese	viet1252	to come	COME	1446		đến	đến 
+797	24-10-48-2	7215023290041578	Vietnamese	viet1252	to come	COME	1446		lại (1)	lại (1) 
+798	24-10-481-1	7215023478415330	Vietnamese	viet1252	to come back	COME BACK	581		về	về 
+799	24-10-49-1	7215023732374733	Vietnamese	viet1252	to leave	LEAVE	1752		rời	rời 
+800	24-10-491-1	7215023889975205	Vietnamese	viet1252	to disappear	DISAPPEAR	485		biến mất	biến mất 
+801	24-10-51-1	7215023198653496	Vietnamese	viet1252	to flee	FLEE	956		trốn	trốn 
+802	24-10-52-1	7215023307409589	Vietnamese	viet1252	to follow	FOLLOW	1085		theo	theo 
+803	24-10-53-1	7215023163158892	Vietnamese	viet1252	to pursue	PURSUE	1047		đuổi (2)	đuổi (2) 
+804	24-10-55-1	7215023364170508	Vietnamese	viet1252	to arrive	ARRIVE	1387		đến	đến 
+805	24-10-56-1	7215023121309480	Vietnamese	viet1252	to approach	APPROACH	1778		đến gần	đến gần 
+806	24-10-57-1	721502313977203	Vietnamese	viet1252	to enter	ENTER	749		vào	vào 
+807	24-10-61-1	7215023934946174	Vietnamese	viet1252	to carry	CARRY	700		mang	mang 
+808	24-10-612-1	7215023934946174	Vietnamese	viet1252	to carry in hand	CARRY IN HAND	412		mang	mang 
+809	24-10-613-1	7215023264221245	Vietnamese	viet1252	to carry on shoulder	CARRY ON SHOULDER	413		vác	vác 
+810	24-10-614-1	7215023502759332	Vietnamese	viet1252	to carry on head	CARRY ON HEAD	414		đội (2)	đội (2) 
+811	24-10-615-1	7215023930247354	Vietnamese	viet1252	to carry under the arm	CARRY UNDER ARM	415		cắp	cắp 
+812	24-10-62-1	7215023372823376	Vietnamese	viet1252	to bring	BRING	692		đem	đem 
+813	24-10-63-1	721502387568354	Vietnamese	viet1252	to send	SEND	1127		gửi	gửi 
+814	24-10-64-1	7215023324612359	Vietnamese	viet1252	to lead	LEAD (GUIDE)	43		dẫn	dẫn 
+815	24-10-65-1	7215023673002702	Vietnamese	viet1252	to drive	DRIVE	741		lái	lái 
+816	24-10-66-1	7215023387832120	Vietnamese	viet1252	to ride	RIDE	367		cưỡi	cưỡi 
+817	24-10-66-2	72150232186868	Vietnamese	viet1252	to ride	RIDE	367		đáp	đáp 
+818	24-10-67-1	7215023181709562	Vietnamese	viet1252	to push	PUSH	1452		xô	xô 
+819	24-10-71-1	7215023817581073	Vietnamese	viet1252	the road	ROAD	667		đường (2)	đường (2) 
+820	24-10-72-1	7215023801298472	Vietnamese	viet1252	the path	PATH	2252		đường nhỏ	đường nhỏ 
+821	24-10-74-1	7215023616620311	Vietnamese	viet1252	the bridge	BRIDGE	1011		cầu (1)	cầu (1) 
+822	24-10-75-1	7215023900064567	Vietnamese	viet1252	the cart or wagon	CART	122		xe	xe 
+823	24-10-76-1	7215023265644000	Vietnamese	viet1252	the wheel	WHEEL	710		bánh	bánh 
+824	24-10-77-1	7215023516274040	Vietnamese	viet1252	the axle	AXLE	1769		trục	trục 
+825	24-10-78-1	7215023386394670	Vietnamese	viet1252	the yoke	YOKE	14		ách	ách 
+826	24-10-81-1	7215023806715208	Vietnamese	viet1252	the ship	SHIP	740		tàu thủy	tàu thủy 
+827	24-10-83-1	7215023571492515	Vietnamese	viet1252	the boat	BOAT	1844		thuyền	thuyền 
+828	24-10-83-2	7215023410535779	Vietnamese	viet1252	the boat	BOAT	1844		tàu	tàu 
+829	24-10-831-1	7215023435561367	Vietnamese	viet1252	the canoe	CANOE	1970		xuồng	xuồng 
+830	24-10-832-1	7215023402954894	Vietnamese	viet1252	the outrigger	OUTRIGGER	416		móc chèo	móc chèo 
+831	24-10-84-1	7215023931672136	Vietnamese	viet1252	the raft	RAFT	1664		bè	bè 
+832	24-10-85-1	7215023996895879	Vietnamese	viet1252	the oar	RUDDER	108		chèo (1)	chèo (1) 
+833	24-10-851-1	7215023391130792	Vietnamese	viet1252	the paddle	PADDLE	234		mái chèo	mái chèo 
+834	24-10-852-1	7215023810261657	Vietnamese	viet1252	to row	ROW	1849		chèo (2)	chèo (2) 
+835	24-10-86-1	7215023360542421	Vietnamese	viet1252	the rudder	RUDDER	108		bánh lái	bánh lái 
+836	24-10-87-1	7215023652630985	Vietnamese	viet1252	the mast	MAST	184		cột buồm	cột buồm 
+837	24-10-88-1	7215023241358887	Vietnamese	viet1252	the sail	SAILCLOTH	786		buồm	buồm 
+838	24-10-89-1	7215023389403188	Vietnamese	viet1252	the anchor	ANCHOR	1870		neo	neo 
+839	24-10-91-1	7215023358240723	Vietnamese	viet1252	the port	PORT	610		cảng	cảng 
+840	24-10-92-1	7215023886493080	Vietnamese	viet1252	to land	LAND (DESCEND)	1922		hạ cánh	hạ cánh 
+841	24-11-11-1	7215023263172092	Vietnamese	viet1252	to have	HAVE	773		có	có 
+842	24-11-12-1	7215023120052059	Vietnamese	viet1252	to own	OWN	684		chiếm hữu	chiếm hữu 
+843	24-11-13-1	7215023598718305	Vietnamese	viet1252	to take	TAKE	1749		lấy (2)	lấy (2) 
+844	24-11-14-1	7215023647215835	Vietnamese	viet1252	to grasp	SEIZE	855		nắm	nắm 
+845	24-11-15-1	7215023193078755	Vietnamese	viet1252	to hold	HOLD	1448		cầm	cầm 
+846	24-11-16-1	7215023919359893	Vietnamese	viet1252	to get	GET	694		được	được 
+847	24-11-17-1	7215023799203489	Vietnamese	viet1252	to keep	KEEP	1477		giữ	giữ 
+848	24-11-18-1	7215023971636452	Vietnamese	viet1252	the thing	THING	738		đồ	đồ 
+849	24-11-21-1	7215023925752995	Vietnamese	viet1252	to give	GIVE	1447		cho	cho 
+850	24-11-22-1	7215023467984613	Vietnamese	viet1252	to give back	GIVE BACK	85		trả	trả 
+851	24-11-24-1	7215023155562853	Vietnamese	viet1252	to preserve	PRESERVE	1997		bảo quản	bảo quản 
+852	24-11-25-1	7215023320024920	Vietnamese	viet1252	to rescue	RESCUE	2008		cứu	cứu 
+853	24-11-27-1	7215023151562664	Vietnamese	viet1252	to destroy	DESTROY	681		phá hoại	phá hoại 
+854	24-11-28-1	7215023484977751	Vietnamese	viet1252	to injure	INJURE	44		hại	hại 
+855	24-11-31-1	7215023657196677	Vietnamese	viet1252	to look for	LOOK FOR	1468		tìm	tìm 
+856	24-11-32-1	7215023310618449	Vietnamese	viet1252	to find	FIND	719		tìm thấy	tìm thấy 
+857	24-11-33-1	7215023698012973	Vietnamese	viet1252	to lose	LOSE	1660		mất	mất 
+858	24-11-34-1	7215023581871380	Vietnamese	viet1252	to let go	LET GO OR SET FREE	1095		buông	buông 
+859	24-11-43-1	7215023175070730	Vietnamese	viet1252	the money	MONEY	1559		tiền	tiền 
+860	24-11-44-1	7215023579058553	Vietnamese	viet1252	the coin	COIN	1867		đồng tiền	đồng tiền 
+861	24-11-51-1	7215023535227534	Vietnamese	viet1252	rich	RICH	712		giàu	giàu 
+862	24-11-52-1	7215023778765794	Vietnamese	viet1252	poor	POOR	1674		nghèo	nghèo 
+863	24-11-53-1	7215023777440765	Vietnamese	viet1252	the beggar	BEGGAR	1934		người ăn mày	người ăn mày 
+864	24-11-54-1	7215023569749004	Vietnamese	viet1252	stingy	STINGY	1774		keo kiệt	keo kiệt 
+865	24-11-61-1	7215023646697780	Vietnamese	viet1252	to lend	LEND	582		cho vay	cho vay 
+866	24-11-62-1	7215023921992693	Vietnamese	viet1252	to borrow	BORROW	1823		vay	vay 
+867	24-11-63-1	7215023924922219	Vietnamese	viet1252	to owe	OWE	369		nợ (1)	nợ (1) 
+868	24-11-64-1	7215023977470210	Vietnamese	viet1252	the debt	DEBT	1914		nợ (2)	nợ (2) 
+869	24-11-65-1	7215023378498926	Vietnamese	viet1252	to pay	PAY	718		trả tiền	trả tiền 
+870	24-11-66-1	7215023773573041	Vietnamese	viet1252	the bill	BILL	1081		hoá đơn	hoá đơn 
+871	24-11-69-1	7215023746557390	Vietnamese	viet1252	the tax	TAX	873		thuế	thuế 
+872	24-11-77-1	7215023718840311	Vietnamese	viet1252	to hire	HIRE	856		thuê	thuê 
+873	24-11-78-1	7215023715850796	Vietnamese	viet1252	the wages	WAGES	1122		tiền công	tiền công 
+874	24-11-79-1	7215023276460479	Vietnamese	viet1252	to earn	EARN	733		thu	thu 
+875	24-11-81-1	721502395170914	Vietnamese	viet1252	to buy	BUY	1869		mua	mua 
+876	24-11-82-1	721502358825712	Vietnamese	viet1252	to sell	SELL	1571		bán	bán 
+877	24-11-83-1	7215023176144952	Vietnamese	viet1252	to trade or barter	TRADE OR BARTER	2135		buôn bán	buôn bán 
+878	24-11-84-1	7215023999285621	Vietnamese	viet1252	the merchant	MERCHANT	1082		nhà buôn	nhà buôn 
+879	24-11-85-1	7215023978347909	Vietnamese	viet1252	the market	MARKET	633		chợ	chợ 
+880	24-11-86-1	7215023719861810	Vietnamese	viet1252	the shop/store	STORE	752		cửa hàng	cửa hàng 
+881	24-11-87-1	7215023666346391	Vietnamese	viet1252	the price	PRICE	657		giá (2)	giá (2) 
+882	24-11-88-1	7215023619586384	Vietnamese	viet1252	expensive	EXPENSIVE	1426		đắt	đắt 
+883	24-11-89-1	721502393469176	Vietnamese	viet1252	cheap	CHEAP	1887		rẻ	rẻ 
+884	24-11-91-1	7215023851803906	Vietnamese	viet1252	to share	SHARE	884		chia (1)	chia (1) 
+885	24-11-92-1	7215023825596720	Vietnamese	viet1252	to weigh	WEIGH	1098		cân	cân 
+886	24-12-01-1	7215023444953465	Vietnamese	viet1252	after	AFTER	1685		sau	sau 
+887	24-12-011-1	7215023444953465	Vietnamese	viet1252	behind	BEHIND	1686		sau	sau 
+888	24-12-02-1	7215023445460231	Vietnamese	viet1252	beside	BESIDE	1816		bên cạnh	bên cạnh 
+889	24-12-03-1	7215023704979599	Vietnamese	viet1252	down	DOWN	1326		xuống	xuống 
+890	24-12-04-1	7215023487651329	Vietnamese	viet1252	before	BEFORE	1882		trước	trước 
+891	24-12-041-1	7215023487651329	Vietnamese	viet1252	in front of	IN FRONT OF	1883		trước	trước 
+892	24-12-05-1	7215023231343108	Vietnamese	viet1252	inside	INSIDE	1606		trong (1)	trong (1) 
+893	24-12-06-1	7215023240024595	Vietnamese	viet1252	outside	OUTSIDE	762		ngoài	ngoài 
+894	24-12-07-1	7215023365262954	Vietnamese	viet1252	under	BELOW OR UNDER	1485		dưới	dưới 
+895	24-12-08-1	7215023889316954	Vietnamese	viet1252	up	UP	1591		lên (2)	lên (2) 
+896	24-12-11-1	721502329348053	Vietnamese	viet1252	the place	PLACE (POSITION)	723		nơi	nơi 
+897	24-12-11-2	7215023463363114	Vietnamese	viet1252	the place	PLACE (POSITION)	723		chỗ	chỗ 
+898	24-12-12-1	7215023274171322	Vietnamese	viet1252	to put	PUT	998		để	để 
+899	24-12-13-1	7215023303141113	Vietnamese	viet1252	to sit	SIT	1416		ngồi	ngồi 
+900	24-12-14-1	7215023861810835	Vietnamese	viet1252	to lie down	LIE DOWN	215		nằm	nằm 
+901	24-12-15-1	7215023867910937	Vietnamese	viet1252	to stand	STAND	1442		đứng	đứng 
+902	24-12-16-1	7215023771034408	Vietnamese	viet1252	to remain	REMAIN	987		lưu (lại)	lưu (lại) 
+903	24-12-17-1	7215023465570651	Vietnamese	viet1252	the remains	REMAINS	838		đồ thừa	đồ thừa 
+904	24-12-21-1	7215023505161058	Vietnamese	viet1252	to gather	GATHER	7		thu thập	thu thập 
+905	24-12-212-1	7215023558410240	Vietnamese	viet1252	to pick up	PICK UP	371		nhặt	nhặt 
+906	24-12-213-1	7215023691632419	Vietnamese	viet1252	to pile up	PILE UP	1576		chất	chất 
+907	24-12-22-1	7215023917384021	Vietnamese	viet1252	to join	JOIN	1743		nối	nối 
+908	24-12-23-1	7215023197952909	Vietnamese	viet1252	to separate	SEPARATE	1359		tách	tách 
+909	24-12-232-1	7215023262744179	Vietnamese	viet1252	to divide	DIVIDE	1119		chia (2)	chia (2) 
+910	24-12-24-1	7215023938678799	Vietnamese	viet1252	to open	OPEN	1156		mở	mở 
+911	24-12-25-1	721502316406117	Vietnamese	viet1252	to shut	SHUT	1046		đóng	đóng 
+912	24-12-26-1	7215023272601488	Vietnamese	viet1252	to cover	COVER	761		che	che 
+913	24-12-27-1	721502384816749	Vietnamese	viet1252	to hide	HIDE (CONCEAL)	602		giấu	giấu 
+914	24-12-31-1	7215023788307535	Vietnamese	viet1252	high	HIGH	1265		cao (1)	cao (1) 
+915	24-12-32-1	7215023369309457	Vietnamese	viet1252	low	LOW	721		thấp	thấp 
+916	24-12-33-1	7215023610021127	Vietnamese	viet1252	the top	TOP	1753		đỉnh	đỉnh 
+917	24-12-34-1	721502352590005	Vietnamese	viet1252	the bottom	BOTTOM	690		đáy	đáy 
+918	24-12-35-1	7215023599032703	Vietnamese	viet1252	the end(1)	END (OF SPACE)	742		cuối	cuối 
+919	24-12-352-1	7215023523419647	Vietnamese	viet1252	pointed	POINTED	372		nhọn	nhọn 
+920	24-12-353-1	7215023686527399	Vietnamese	viet1252	the edge	EDGE	863		bên (2)	bên (2) 
+921	24-12-36-1	7215023316443893	Vietnamese	viet1252	the side	SIDE	682		bên (1)	bên (1) 
+922	24-12-37-1	721502351584790	Vietnamese	viet1252	the middle	MIDDLE	1093		giữa	giữa 
+923	24-12-41-1	7215023854978372	Vietnamese	viet1252	right(1)	RIGHT	1019		phải	phải 
+924	24-12-42-1	7215023773486189	Vietnamese	viet1252	left	LEFT	244		trái (2)	trái (2) 
+925	24-12-43-1	7215023368801615	Vietnamese	viet1252	near	NEAR	1942		gần	gần 
+926	24-12-44-1	7215023616341614	Vietnamese	viet1252	far	FAR	1406		xa	xa 
+927	24-12-45-1	7215023551555109	Vietnamese	viet1252	the east	EAST	1877		đông (2)	đông (2) 
+928	24-12-46-1	7215023262120626	Vietnamese	viet1252	the west	WEST	1817		tây	tây 
+929	24-12-47-1	7215023861426597	Vietnamese	viet1252	the north	NORTH	1598		bắc	bắc 
+930	24-12-48-1	7215023122544731	Vietnamese	viet1252	the south	SOUTH	1595		nam	nam 
+931	24-12-53-1	7215023679921957	Vietnamese	viet1252	to grow	GROW	479		lớn lên	lớn lên 
+932	24-12-54-1	7215023303811018	Vietnamese	viet1252	to measure	MEASURE	1506		đo	đo 
+933	24-12-541-1	7215023867790740	Vietnamese	viet1252	the fathom	FATHOM	81		sải	sải 
+934	24-12-55-1	7215023218192900	Vietnamese	viet1252	big	BIG	1202		to (1)	to (1) 
+935	24-12-56-1	7215023734572362	Vietnamese	viet1252	small	SMALL	1246		nhỏ	nhỏ 
+936	24-12-57-1	7215023949021531	Vietnamese	viet1252	long	LONG	1203		dài	dài 
+937	24-12-58-1	7215023467960410	Vietnamese	viet1252	tall	TALL	711		cao (2)	cao (2) 
+938	24-12-59-1	721502325590057	Vietnamese	viet1252	short	SHORT	1645		ngắn	ngắn 
+939	24-12-61-1	7215023951001163	Vietnamese	viet1252	wide	WIDE	1243		rộng	rộng 
+940	24-12-62-1	7215023886401506	Vietnamese	viet1252	narrow	NARROW	1267		hẹp	hẹp 
+941	24-12-63-1	7215023790313838	Vietnamese	viet1252	thick	THICK	1244		dày	dày 
+942	24-12-65-1	7215023502540326	Vietnamese	viet1252	thin	THIN (OF SHAPE OF OBJECT)	2249		mỏng	mỏng 
+943	24-12-67-1	7215023443961512	Vietnamese	viet1252	deep	DEEP	1593		sâu	sâu 
+944	24-12-68-1	7215023247083246	Vietnamese	viet1252	shallow	SHALLOW	193		nông	nông 
+945	24-12-71-1	7215023199007028	Vietnamese	viet1252	flat	FLAT	1633		bằng	bằng 
+946	24-12-73-1	7215023781501019	Vietnamese	viet1252	straight	STRAIGHT	1404		thẳng	thẳng 
+947	24-12-74-1	7215023715416828	Vietnamese	viet1252	crooked	CROOKED	297		cong	cong 
+948	24-12-75-1	7215023665566796	Vietnamese	viet1252	the hook	HOOK	1071		móc	móc 
+949	24-12-76-1	7215023523174628	Vietnamese	viet1252	the corner	CORNER	192		góc	góc 
+950	24-12-77-1	7215023558450957	Vietnamese	viet1252	the cross	CROSS	1367		chữ thập	chữ thập 
+951	24-12-78-1	7215023336542609	Vietnamese	viet1252	the square	SQUARE	850		vuông	vuông 
+952	24-12-81-1	7215023985499512	Vietnamese	viet1252	round	ROUND	1395		tròn	tròn 
+953	24-12-82-1	7215023277059192	Vietnamese	viet1252	the circle	CIRCLE	1467		vòng	vòng 
+954	24-12-83-1	7215023436216226	Vietnamese	viet1252	the ball	BALL	1845		bóng (2)	bóng (2) 
+955	24-12-84-1	7215023705067806	Vietnamese	viet1252	the line	LINE	1048		hàng	hàng 
+956	24-12-85-1	721502329179397	Vietnamese	viet1252	the hole	HOLE	1667		lỗ	lỗ 
+957	24-12-92-1	7215023716057728	Vietnamese	viet1252	similar	SIMILAR	1558		tương tự	tương tự 
+958	24-12-93-1	7215023122729490	Vietnamese	viet1252	to change	CHANGE	1264		đổi	đổi 
+959	24-12-93-2	7215023501894934	Vietnamese	viet1252	to change	CHANGE	1264		biến	biến 
+960	24-13-1	7215023539466256	Vietnamese	viet1252	zero	ZERO	1294		số không	số không 
+961	24-13-01-1	7215023575853436	Vietnamese	viet1252	one	ONE	1493		một	một 
+962	24-13-02-1	7215023477874590	Vietnamese	viet1252	two	TWO	1498		hai	hai 
+963	24-13-03-1	7215023896203400	Vietnamese	viet1252	three	THREE	492		ba	ba 
+964	24-13-04-1	7215023727038666	Vietnamese	viet1252	four	FOUR	1500		bốn	bốn 
+965	24-13-05-1	7215023354053045	Vietnamese	viet1252	five	FIVE	493		năm (1)	năm (1) 
+966	24-13-06-1	7215023980285636	Vietnamese	viet1252	six	SIX	1703		sáu	sáu 
+967	24-13-07-1	7215023590406789	Vietnamese	viet1252	seven	SEVEN	1704		bảy	bảy 
+968	24-13-08-1	7215023991101444	Vietnamese	viet1252	eight	EIGHT	1705		tám	tám 
+969	24-13-09-1	7215023191779853	Vietnamese	viet1252	nine	NINE	1483		chín (3)	chín (3) 
+970	24-13-1-1	721502392021626	Vietnamese	viet1252	ten	TEN	1515		mười	mười 
+971	24-13-101-1	7215023417305140	Vietnamese	viet1252	eleven	ELEVEN	1706		mười một	mười một 
+972	24-13-102-1	7215023665591544	Vietnamese	viet1252	twelve	TWELVE	1707		mười hai	mười hai 
+973	24-13-103-1	7215023923725791	Vietnamese	viet1252	fifteen	FIFTEEN	1709		mười lăm	mười lăm 
+974	24-13-104-1	7215023561650385	Vietnamese	viet1252	twenty	TWENTY	1710		hai mươi	hai mươi 
+975	24-13-105-1	7215023755358778	Vietnamese	viet1252	a hundred	HUNDRED	1634		trăm	trăm 
+976	24-13-106-1	7215023506773140	Vietnamese	viet1252	a thousand	THOUSAND	1843		nghìn	nghìn 
+977	24-13-107-1	7215023198069989	Vietnamese	viet1252	to count	COUNT	1420		đếm	đếm 
+978	24-13-14-1	721502375200745	Vietnamese	viet1252	all	ALL	98		toàn bộ	toàn bộ 
+979	24-13-14-2	7215023725149381	Vietnamese	viet1252	all	ALL	98		tất cả	tất cả 
+980	24-13-15-1	7215023597821736	Vietnamese	viet1252	many	MANY	1198		nhiều	nhiều 
+981	24-13-16-1	7215023435069357	Vietnamese	viet1252	more	MORE	1992		nữa	nữa 
+982	24-13-17-1	7215023506082551	Vietnamese	viet1252	few	FEW	1242		ít	ít 
+983	24-13-18-1	7215023728238578	Vietnamese	viet1252	enough	ENOUGH	1881		đủ	đủ 
+984	24-13-181-1	7215023323225376	Vietnamese	viet1252	some	SOME	1241		một vài	một vài 
+985	24-13-19-1	7215023615144755	Vietnamese	viet1252	the crowd	CROWD	2023		quần chúng	quần chúng 
+986	24-13-21-1	7215023720181458	Vietnamese	viet1252	full	FULL	1429		đầy	đầy 
+987	24-13-22-1	7215023274676798	Vietnamese	viet1252	empty	EMPTY	1624		trống (1)	trống (1) 
+988	24-13-23-1	721502336224074	Vietnamese	viet1252	the part	PART	779		bộ phận	bộ phận 
+989	24-13-24-1	7215023744523041	Vietnamese	viet1252	the half	HALF	816		nửa	nửa 
+990	24-13-33-1	7215023583816635	Vietnamese	viet1252	only	ONLY	1580		chỉ (2)	chỉ (2) 
+991	24-13-34-1	7215023873620692	Vietnamese	viet1252	first	FIRST	728		đầu tiên	đầu tiên 
+992	24-13-35-1	721502337304791	Vietnamese	viet1252	last	LAST (FINAL)	1529		cuối cùng	cuối cùng 
+993	24-13-36-1	7215023803401924	Vietnamese	viet1252	second	SECOND	1384		thứ hai	thứ hai 
+994	24-13-37-1	7215023358647064	Vietnamese	viet1252	the pair	PAIR	1888		đôi	đôi 
+995	24-13-38-1	7215023316123157	Vietnamese	viet1252	twice/two times	TWICE	1546		hai lần	hai lần 
+996	24-13-42-1	7215023762365554	Vietnamese	viet1252	third	THIRD	1859		thứ ba	thứ ba 
+997	24-13-44-1	7215023143300913	Vietnamese	viet1252	three times	THREE TIMES	417		ba lần	ba lần 
+998	24-14-11-1	7215023236493583	Vietnamese	viet1252	the time	TIME	892		thời gian	thời gian 
+999	24-14-12-1	7215023649381314	Vietnamese	viet1252	the age	AGE	1789		tuổi	tuổi 
+1000	24-14-13-1	7215023854510378	Vietnamese	viet1252	new	NEW	1231		mới	mới 
+1001	24-14-14-1	7215023821196043	Vietnamese	viet1252	young	YOUNG	1207		trẻ	trẻ 
+1002	24-14-15-1	7215023241235346	Vietnamese	viet1252	old	OLD	1229		già	già 
+1003	24-14-15-2	7215023563326323	Vietnamese	viet1252	old	OLD	1229		cũ	cũ 
+1004	24-14-16-1	7215023545360497	Vietnamese	viet1252	early	EARLY	672		sớm	sớm 
+1005	24-14-17-1	7215023253830466	Vietnamese	viet1252	late	LATE	477		muộn (2)	muộn (2) 
+1006	24-14-18-1	7215023539016209	Vietnamese	viet1252	now	NOW	1376		hiện tại	hiện tại 
+1007	24-14-18-2	7215023291489669	Vietnamese	viet1252	now	NOW	1376		bây giờ	bây giờ 
+1008	24-14-19-1	7215023184504019	Vietnamese	viet1252	immediately	IMMEDIATELY	1963		ngay	ngay 
+1009	24-14-21-1	7215023428913621	Vietnamese	viet1252	fast	FAST	1631		nhanh	nhanh 
+1010	24-14-22-1	7215023457927505	Vietnamese	viet1252	slow	SLOW	701		chậm	chậm 
+1011	24-14-23-1	7215023402752255	Vietnamese	viet1252	to hurry	HURRY	754		vội	vội 
+1012	24-14-24-1	721502389753773	Vietnamese	viet1252	to be late	BE LATE	425		muộn (1)	muộn (1) 
+1013	24-14-25-1	7215023325673843	Vietnamese	viet1252	to begin	BEGIN	1806		bắt đầu	bắt đầu 
+1014	24-14-252-1	721502390616481	Vietnamese	viet1252	to last	LAST (ENDURE)	1186		tồn tại	tồn tại 
+1015	24-14-26-1	7215023941368881	Vietnamese	viet1252	the end(2)	END (OF TIME)	743		sự kết thúc	sự kết thúc 
+1016	24-14-27-1	7215023943033852	Vietnamese	viet1252	to finish	FINISH	1766		kết thúc	kết thúc 
+1017	24-14-28-1	721502374026277	Vietnamese	viet1252	to cease	CEASE	1928		ngừng	ngừng 
+1018	24-14-29-1	7215023235175701	Vietnamese	viet1252	ready	READY	790		sẵn sàng	sẵn sàng 
+1019	24-14-29-2	7215023359987550	Vietnamese	viet1252	ready	READY	790		chuẩn bị	chuẩn bị 
+1020	24-14-31-1	7215023501637245	Vietnamese	viet1252	always	ALWAYS	1676		luôn luôn	luôn luôn 
+1021	24-14-32-1	7215023965942372	Vietnamese	viet1252	often	OFTEN	1852		thường	thường 
+1022	24-14-33-1	721502391872793	Vietnamese	viet1252	sometimes	SOMETIMES	1544		đôi khi	đôi khi 
+1023	24-14-331-1	7215023176349489	Vietnamese	viet1252	soon	SOON	703		tí nửa	tí nửa 
+1024	24-14-332-1	7215023371270186	Vietnamese	viet1252	for a long time	FOR A LONG TIME	418		lâu	lâu 
+1025	24-14-34-1	7215023762899121	Vietnamese	viet1252	never	NEVER	1656		không bao giờ	không bao giờ 
+1026	24-14-35-1	7215023151644865	Vietnamese	viet1252	again	AGAIN	204		lại (2)	lại (2) 
+1027	24-14-41-1	7215023566115598	Vietnamese	viet1252	the day(1)	DAY (24 HOURS)	1260		ban ngày	ban ngày 
+1028	24-14-42-1	7215023410378849	Vietnamese	viet1252	the night	NIGHT	1233		đêm	đêm 
+1029	24-14-43-1	7215023947566142	Vietnamese	viet1252	the dawn	DAWN	729		bình minh	bình minh 
+1030	24-14-44-1	7215023768434282	Vietnamese	viet1252	the morning	MORNING	1339		buổi sáng	buổi sáng 
+1031	24-14-45-1	7215023495227242	Vietnamese	viet1252	the midday	MIDDAY	12		buổi trưa	buổi trưa 
+1032	24-14-451-1	7215023747406645	Vietnamese	viet1252	the afternoon	AFTERNOON	1807		buổi chiều	buổi chiều 
+1033	24-14-46-1	7215023291615224	Vietnamese	viet1252	the evening	EVENING	1629		buổi tối	buổi tối 
+1034	24-14-47-1	721502311707395	Vietnamese	viet1252	today	TODAY	1283		hôm nay	hôm nay 
+1035	24-14-48-1	7215023519490354	Vietnamese	viet1252	tomorrow	TOMORROW	1329		ngày mai	ngày mai 
+1036	24-14-481-1	7215023706765258	Vietnamese	viet1252	the day after tomorrow	DAY AFTER TOMORROW	1179		ngày kia	ngày kia 
+1037	24-14-49-1	7215023801777515	Vietnamese	viet1252	yesterday	YESTERDAY	1174		hôm qua	hôm qua 
+1038	24-14-491-1	7215023116668076	Vietnamese	viet1252	the day before yesterday	DAY BEFORE YESTERDAY	1180		hôm kia	hôm kia 
+1039	24-14-51-1	7215023167220296	Vietnamese	viet1252	the hour	HOUR	1353		tiếng (1)	tiếng (1) 
+1040	24-14-53-1	7215023629413948	Vietnamese	viet1252	the clock	CLOCK	1323		đồng hồ	đồng hồ 
+1041	24-14-61-1	7215023926369223	Vietnamese	viet1252	the week	WEEK	1469		tuần lễ	tuần lễ 
+1042	24-14-62-1	7215023684312420	Vietnamese	viet1252	Sunday	SUNDAY	1699		chủ nhật	chủ nhật 
+1043	24-14-63-1	7215023699961215	Vietnamese	viet1252	Monday	MONDAY	1697		ngày thứ hai	ngày thứ hai 
+1044	24-14-64-1	72150232045236	Vietnamese	viet1252	Tuesday	TUESDAY	1695		ngày thứ ba	ngày thứ ba 
+1045	24-14-65-1	7215023652579853	Vietnamese	viet1252	Wednesday	WEDNESDAY	1694		ngày thứ tư	ngày thứ tư 
+1046	24-14-66-1	7215023578499344	Vietnamese	viet1252	Thursday	THURSDAY	1693		ngày thứ năm	ngày thứ năm 
+1047	24-14-67-1	7215023189681445	Vietnamese	viet1252	Friday	FRIDAY	1692		ngày thứ sáu	ngày thứ sáu 
+1048	24-14-68-1	7215023697476489	Vietnamese	viet1252	Saturday	SATURDAY	1700		ngày thứ bảy	ngày thứ bảy 
+1049	24-14-71-1	7215023490661753	Vietnamese	viet1252	the month	MONTH	1370		tháng	tháng 
+1050	24-14-73-1	7215023148279164	Vietnamese	viet1252	the year	YEAR	1226		năm (2)	năm (2) 
+1051	24-14-74-1	7215023735345623	Vietnamese	viet1252	the winter	WINTER	1471		(mùa) đông	(mùa) đông 
+1052	24-14-75-1	7215023870540976	Vietnamese	viet1252	the spring(2)	SPRINGTIME	1537		(mùa) xuân	(mùa) xuân 
+1053	24-14-76-1	7215023438092339	Vietnamese	viet1252	the summer	SUMMER	1342		(mùa) hẹ	(mùa) hẹ 
+1054	24-14-77-1	7215023435100289	Vietnamese	viet1252	the autumn/fall	AUTUMN	1276		(mùa) thu	(mùa) thu 
+1055	24-14-78-1	7215023698580648	Vietnamese	viet1252	the season	SEASON	691		mùa	mùa 
+1056	24-15-21-1	7215023291953764	Vietnamese	viet1252	to smell(1)	SMELL (STINK)	1587		có mùi	có mùi 
+1057	24-15-89-1	7215023981180707	Vietnamese	viet1252	wrinkled	WRINKLED	380		nhăn	nhăn 
+1058	24-15-212-1	7215023807234822	Vietnamese	viet1252	to sniff	SNIFF	375		ngửi	ngửi 
+1059	24-15-22-1	7215023807234822	Vietnamese	viet1252	to smell(2)	SMELL (PERCEIVE)	1586		ngửi	ngửi 
+1060	24-15-25-1	7215023775030738	Vietnamese	viet1252	fragrant	FRAGRANT	376		thơm	thơm 
+1061	24-15-26-1	7215023791506610	Vietnamese	viet1252	stinking	STINKING	42		thúi	thúi 
+1062	24-15-31-1	721502315555867	Vietnamese	viet1252	to taste	TASTE (SOMETHING)	21		có vị	có vị 
+1063	24-15-35-1	7215023590593548	Vietnamese	viet1252	sweet	SWEET	717		ngọt	ngọt 
+1064	24-15-36-1	7215023127242136	Vietnamese	viet1252	salty	SALTY	1091		mặn	mặn 
+1065	24-15-37-1	7215023302946292	Vietnamese	viet1252	bitter	BITTER	887		đắng	đắng 
+1066	24-15-38-1	7215023773652951	Vietnamese	viet1252	sour	SOUR	1906		chua	chua 
+1067	24-15-39-1	7215023838770586	Vietnamese	viet1252	brackish	BRACKISH	70		hơi mặn	hơi mặn 
+1068	24-15-41-1	7215023494271409	Vietnamese	viet1252	to hear	HEAR	1408		nghe	nghe 
+1069	24-15-42-1	7215023494271409	Vietnamese	viet1252	to listen	LISTEN	1608		nghe	nghe 
+1070	24-15-44-1	721502390864331	Vietnamese	viet1252	the sound or noise	SOUND OR NOISE	1811		âm thanh	âm thanh 
+1071	24-15-45-1	7215023875391900	Vietnamese	viet1252	loud	LOUD	377		to (2)	to (2) 
+1072	24-15-46-1	721502390025111	Vietnamese	viet1252	quiet	QUIET	1314		im	im 
+1073	24-15-51-1	7215023942173811	Vietnamese	viet1252	to see	SEE	1409		thấy	thấy 
+1074	24-15-52-1	7215023914857712	Vietnamese	viet1252	to look	LOOK	1819		nhìn	nhìn 
+1075	24-15-55-1	7215023536541169	Vietnamese	viet1252	to show	SHOW	1039		cho xem	cho xem 
+1076	24-15-56-1	7215023658818416	Vietnamese	viet1252	to shine	SHINE	708		chiếu (2)	chiếu (2) 
+1077	24-15-57-1	7215023278479396	Vietnamese	viet1252	bright	BRIGHT	679		sáng	sáng 
+1078	24-15-61-1	721502316525297	Vietnamese	viet1252	the colour/color	COLOR	1613		màu	màu 
+1079	24-15-62-1	7215023470629596	Vietnamese	viet1252	light(2)	LIGHT (COLOR)	250		nhạt	nhạt 
+1080	24-15-63-1	7215023650744985	Vietnamese	viet1252	dark	DARK	706		sẫm	sẫm 
+1081	24-15-64-1	7215023713876000	Vietnamese	viet1252	white	WHITE	1335		trắng	trắng 
+1082	24-15-65-1	7215023461066240	Vietnamese	viet1252	black	BLACK	163		đen	đen 
+1083	24-15-66-1	7215023437211467	Vietnamese	viet1252	red	RED	156		đỏ	đỏ 
+1084	24-15-67-1	7215023715673392	Vietnamese	viet1252	blue	BLUE	837		xanh	xanh 
+1085	24-15-68-1	7215023705557663	Vietnamese	viet1252	green	GREEN	1425		xanh lá cây	xanh lá cây 
+1086	24-15-69-1	7215023345551299	Vietnamese	viet1252	yellow	YELLOW	1424		vàng	vàng 
+1087	24-15-71-1	7215023684785873	Vietnamese	viet1252	to touch	TOUCH	1892		mó	mó 
+1088	24-15-71-2	7215023371886792	Vietnamese	viet1252	to touch	TOUCH	1892		sờ	sờ 
+1089	24-15-712-1	7215023159339359	Vietnamese	viet1252	to pinch	PINCH	378		ngắt	ngắt 
+1090	24-15-72-1	7215023684785873	Vietnamese	viet1252	to feel	FEEL	1079		mó	mó 
+1091	24-15-74-1	7215023857127257	Vietnamese	viet1252	hard	HARD	1884		cứng	cứng 
+1092	24-15-75-1	7215023235846675	Vietnamese	viet1252	soft	SOFT	1856		mềm	mềm 
+1093	24-15-76-1	7215023621873763	Vietnamese	viet1252	rough(1)	ROUGH	1923		ráp	ráp 
+1094	24-15-77-1	7215023722947769	Vietnamese	viet1252	smooth	SMOOTH	1234		nhẵn	nhẵn 
+1095	24-15-78-1	7215023130761154	Vietnamese	viet1252	sharp	SHARP	1396		sắc	sắc 
+1096	24-15-79-1	7215023243929307	Vietnamese	viet1252	blunt	BLUNT	379		cùn	cùn 
+1097	24-15-81-1	7215023276652473	Vietnamese	viet1252	heavy	HEAVY	1210		nặng	nặng 
+1098	24-15-82-1	7215023749518615	Vietnamese	viet1252	light(1)	LIGHT (WEIGHT)	1052		nhẹ	nhẹ 
+1099	24-15-83-1	7215023439486250	Vietnamese	viet1252	wet	WET	1726		ướt	ướt 
+1100	24-15-84-1	7215023221948208	Vietnamese	viet1252	dry	DRY	1398		khô	khô 
+1101	24-15-85-1	7215023663481811	Vietnamese	viet1252	hot	HOT	1286		nóng	nóng 
+1102	24-15-851-1	7215023240867219	Vietnamese	viet1252	warm	WARM	1232		ấm (2)	ấm (2) 
+1103	24-15-86-1	7215023969453351	Vietnamese	viet1252	cold	COLD	1287		lạnh	lạnh 
+1104	24-15-87-1	7215023799355477	Vietnamese	viet1252	clean	CLEAN	704		sạch	sạch 
+1105	24-15-88-1	7215023374744146	Vietnamese	viet1252	dirty	DIRTY	1230		bẩn	bẩn 
+1106	24-16-11-1	7215023757936220	Vietnamese	viet1252	the soul or spirit	SOUL	811		linh hồn	linh hồn 
+1107	24-16-15-1	7215023767973929	Vietnamese	viet1252	surprised or astonished	SURPRISED	1572		ngạc nhiên	ngạc nhiên 
+1108	24-16-18-1	7215023970296791	Vietnamese	viet1252	the good luck	GOOD LUCK	720		vận may	vận may 
+1109	24-16-19-1	7215023301177329	Vietnamese	viet1252	the bad luck	BAD LUCK	56		vận rủi	vận rủi 
+1110	24-16-23-1	7215023184610664	Vietnamese	viet1252	happy	HAPPY	1495		vui	vui 
+1111	24-16-25-1	7215023875472513	Vietnamese	viet1252	to laugh	LAUGH	1355		cười	cười 
+1112	24-16-251-1	7215023327836406	Vietnamese	viet1252	to smile	SMILE	1451		mỉm	mỉm 
+1113	24-16-26-1	7215023155863483	Vietnamese	viet1252	to play	PLAY	1413		chơi	chơi 
+1114	24-16-27-1	7215023715101324	Vietnamese	viet1252	to love	LOVE	923		yêu	yêu 
+1115	24-16-29-1	7215023619529517	Vietnamese	viet1252	to kiss	KISS	578		hôn	hôn 
+1116	24-16-3-1	7215023517224615	Vietnamese	viet1252	to embrace	EMBRACE	928		ôm	ôm 
+1117	24-16-31-1	7215023454920505	Vietnamese	viet1252	the pain	PAIN	1783		đau	đau 
+1118	24-16-32-1	7215023689748037	Vietnamese	viet1252	the grief	GRIEF	1668		nỗi đau buồn	nỗi đau buồn 
+1119	24-16-33-1	7215023272150003	Vietnamese	viet1252	the anxiety	ANXIETY	1000		mối lo	mối lo 
+1120	24-16-34-1	7215023924894892	Vietnamese	viet1252	to regret or be sorry	REGRET	1875		tiếc	tiếc 
+1121	24-16-35-1	7215023680925727	Vietnamese	viet1252	the pity	PITY	1141		lòng trắc ẩn	lòng trắc ẩn 
+1122	24-16-37-1	7215023721332509	Vietnamese	viet1252	to cry	CRY	1839		khóc	khóc 
+1123	24-16-38-1	7215023493341271	Vietnamese	viet1252	the tear	TEAR (OF EYE)	1651		lệ	lệ 
+1124	24-16-39-1	721502320844978	Vietnamese	viet1252	to groan	GROAN	716		rên	rên 
+1125	24-16-41-1	7215023940509250	Vietnamese	viet1252	to hate	HATE	1607		ghét	ghét 
+1126	24-16-42-1	7215023249421408	Vietnamese	viet1252	the anger	ANGER	82		sự tức giận	sự tức giận 
+1127	24-16-44-1	7215023684083291	Vietnamese	viet1252	the envy or jealousy	ENVY	40		lòng ghen	lòng ghen 
+1128	24-16-45-1	7215023474771664	Vietnamese	viet1252	the shame	SHAME	1776		sự xấu hộ	sự xấu hộ 
+1129	24-16-48-1	7215023603196215	Vietnamese	viet1252	proud	PROUD	174		kiêu ngạo	kiêu ngạo 
+1130	24-16-51-1	7215023155557116	Vietnamese	viet1252	to dare	DARE	1779		dám	dám 
+1131	24-16-52-1	7215023264092305	Vietnamese	viet1252	brave	BRAVE	3		can đảm	can đảm 
+1132	24-16-53-1	7215023291496855	Vietnamese	viet1252	the fear	FEAR (FRIGHT)	781		sự sợ	sự sợ 
+1133	24-16-54-1	7215023295890196	Vietnamese	viet1252	the danger	DANGER	1810		sự nguy hiểm	sự nguy hiểm 
+1134	24-16-62-1	7215023543662800	Vietnamese	viet1252	to want	WANT	1784		muốn	muốn 
+1135	24-16-622-1	721502319616491	Vietnamese	viet1252	to choose	CHOOSE	1750		chọn	chọn 
+1136	24-16-63-1	721502330339849	Vietnamese	viet1252	to hope	HOPE (SOMETHING)	3212		hy vọng	hy vọng 
+1137	24-16-63-2	7215023524937505	Vietnamese	viet1252	to hope	HOPE (SOMETHING)	3212		mong	mong 
+1138	24-16-65-1	7215023428348687	Vietnamese	viet1252	faithful	FAITHFUL	100		trung thành	trung thành 
+1139	24-16-66-1	7215023243705793	Vietnamese	viet1252	true	TRUE	1657		thật	thật 
+1140	24-16-67-1	7215023789145821	Vietnamese	viet1252	to lie(2)	LIE (MISLEAD)	601		nói dối	nói dối 
+1141	24-16-68-1	7215023999361369	Vietnamese	viet1252	the deceit	DECEIT	13		sự lừa dối	sự lừa dối 
+1142	24-16-69-1	7215023950934278	Vietnamese	viet1252	to forgive	FORGIVE	1528		tha	tha 
+1143	24-16-71-1	7215023474323618	Vietnamese	viet1252	good	GOOD	1035		tốt	tốt 
+1144	24-16-72-1	7215023248486832	Vietnamese	viet1252	bad	BAD	1292		xấu (1)	xấu (1) 
+1145	24-16-73-1	7215023519656430	Vietnamese	viet1252	right(2)	CORRECT (RIGHT)	1725		đúng	đúng 
+1146	24-16-74-1	7215023235670257	Vietnamese	viet1252	wrong	WRONG	1390		sai	sai 
+1147	24-16-76-1	7215023890933783	Vietnamese	viet1252	the fault	FAULT	134		lỗi	lỗi 
+1148	24-16-77-1	7215023890933783	Vietnamese	viet1252	the mistake	MISTAKE	1293		lỗi	lỗi 
+1149	24-16-78-1	721502358122397	Vietnamese	viet1252	the blame	BLAME	381		sự khiển trách	sự khiển trách 
+1150	24-16-79-1	721502367245576	Vietnamese	viet1252	the praise	PRAISE	1687		sự ca ngợi	sự ca ngợi 
+1151	24-16-81-1	7215023825653615	Vietnamese	viet1252	beautiful	BEAUTIFUL	1427		đẹp	đẹp 
+1152	24-16-82-1	7215023658381535	Vietnamese	viet1252	ugly	UGLY	1548		xấu (2)	xấu (2) 
+1153	24-16-83-1	7215023803526263	Vietnamese	viet1252	greedy	GREEDY	2018		tham	tham 
+1154	24-16-84-1	7215023343838279	Vietnamese	viet1252	clever	CLEVER	1310		thông minh	thông minh 
+1155	24-17-11-1	7215023596926091	Vietnamese	viet1252	the mind	MIND	1562		tâm trí	tâm trí 
+1156	24-17-13-1	7215023302627963	Vietnamese	viet1252	to think(1)	THINK (REFLECT)	1415		suy nghĩ	suy nghĩ 
+1157	24-17-14-1	721502359968110	Vietnamese	viet1252	to think(2)	THINK (BELIEVE)	1513		tưởng	tưởng 
+1158	24-17-15-1	7215023686316691	Vietnamese	viet1252	to believe	BELIEVE	1890		tin	tin 
+1159	24-17-16-1	7215023730816036	Vietnamese	viet1252	to understand	UNDERSTAND	1536		hiểu	hiểu 
+1160	24-17-17-1	7215023732573811	Vietnamese	viet1252	to know	KNOW (SOMETHING)	1410		biết	biết 
+1161	24-17-171-1	7215024101635136	Vietnamese	viet1252	to guess	GUESS	1932		đoán	đoán 
+1162	24-17-172-1	7215024585408085	Vietnamese	viet1252	to imitate	IMITATE	117		bắt chước	bắt chước 
+1163	24-17-18-1	7215023688159714	Vietnamese	viet1252	to seem	SEEM	1521		hình như	hình như 
+1164	24-17-19-1	7215023582446730	Vietnamese	viet1252	the idea	IDEA	1609		ý kiến	ý kiến 
+1165	24-17-21-1	7215023476054177	Vietnamese	viet1252	wise	WISE	698		khôn	khôn 
+1166	24-17-22-1	7215023749148233	Vietnamese	viet1252	stupid	STUPID	1518		ngu	ngu 
+1167	24-17-23-1	7215023927857870	Vietnamese	viet1252	mad	MAD	1899		diên cuồng	diên cuồng 
+1168	24-17-24-1	7215024223459837	Vietnamese	viet1252	to learn	LEARN	504		học	học 
+1169	24-17-242-1	7215024223459837	Vietnamese	viet1252	to study	STUDY	1929		học	học 
+1170	24-17-25-1	7215023296136200	Vietnamese	viet1252	to teach	TEACH	709		dạy	dạy 
+1171	24-17-26-1	7215023860456829	Vietnamese	viet1252	the pupil	PUPIL (STUDENT)	753		học sinh	học sinh 
+1172	24-17-27-1	7215023400345335	Vietnamese	viet1252	the teacher	TEACHER	1038		giáo viên	giáo viên 
+1173	24-17-27-2	7215023978602275	Vietnamese	viet1252	the teacher	TEACHER	1038		thầy	thầy 
+1174	24-17-28-1	721502346923493	Vietnamese	viet1252	the school	SCHOOL	673		trường học	trường học 
+1175	24-17-31-1	7215023576635658	Vietnamese	viet1252	to remember	REMEMBER	707		nhớ	nhớ 
+1176	24-17-32-1	7215023251521760	Vietnamese	viet1252	to forget	FORGET	1523		quên	quên 
+1177	24-17-34-1	7215023873534045	Vietnamese	viet1252	clear	CLEAR	989		trong (2)	trong (2) 
+1178	24-17-35-1	7215023478415211	Vietnamese	viet1252	obscure	OBSCURE	1764		mờ	mờ 
+1179	24-17-36-1	7215023825671503	Vietnamese	viet1252	secret	SECRET	1121		bí mật	bí mật 
+1180	24-17-37-1	7215023686947629	Vietnamese	viet1252	certain	CERTAIN	509		chắc	chắc 
+1181	24-17-38-1	7215023491156609	Vietnamese	viet1252	to explain	EXPLAIN	1626		giảng giải	giảng giải 
+1182	24-17-41-1	7215023202993149	Vietnamese	viet1252	the intention	INTENTION	1162		mục dích	mục dích 
+1183	24-17-42-1	7215023279153995	Vietnamese	viet1252	the cause	CAUSE	860		nguyên nhân	nguyên nhân 
+1184	24-17-43-1	7215023716238430	Vietnamese	viet1252	the doubt	DOUBT	1308		sự nghi ngờ	sự nghi ngờ 
+1185	24-17-44-1	7215023407475406	Vietnamese	viet1252	to suspect	SUSPECT	1841		nghi	nghi 
+1186	24-17-441-1	7215024690596498	Vietnamese	viet1252	to betray	BETRAY	1902		phản bội	phản bội 
+1187	24-17-45-1	7215023138631557	Vietnamese	viet1252	the need or necessity	NEED (NOUN)	643		sự cấn	sự cấn 
+1188	24-17-46-1	7215023274534605	Vietnamese	viet1252	easy	EASY	686		dễ	dễ 
+1189	24-17-47-1	7215023665227454	Vietnamese	viet1252	difficult	DIFFICULT	584		khó	khó 
+1190	24-17-48-1	721502371865996	Vietnamese	viet1252	to try	TRY	1812		thử	thử 
+1191	24-17-49-1	7215023727196913	Vietnamese	viet1252	the manner	MANNER	488		cách	cách 
+1192	24-17-51-1	7215023205830890	Vietnamese	viet1252	and	AND	1577		và	và 
+1193	24-17-52-1	7215023188152680	Vietnamese	viet1252	because	BECAUSE	1157		vì	vì 
+1194	24-17-52-2	7215023380662986	Vietnamese	viet1252	because	BECAUSE	1157		tại (2)	tại (2) 
+1195	24-17-53-1	7215023559504123	Vietnamese	viet1252	if	IF	1459		nếu	nếu 
+1196	24-17-54-1	7215023358505171	Vietnamese	viet1252	or	OR	1014		hoặc	hoặc 
+1197	24-17-56-1	7215023306525242	Vietnamese	viet1252	no	NO	1269		không	không 
+1198	24-17-61-1	7215024872773030	Vietnamese	viet1252	how?	HOW	1239		sao (2)	sao (2) 
+1199	24-17-62-1	7215024257874946	Vietnamese	viet1252	how many?	HOW MANY	822		mấy	mấy 
+1200	24-17-63-1	7215024822666457	Vietnamese	viet1252	how much?	HOW MUCH	531		bao nhiêu	bao nhiêu 
+1201	24-17-64-1	7215024167149974	Vietnamese	viet1252	what?	WHAT	1236		gì	gì 
+1202	24-17-65-1	7215024596586370	Vietnamese	viet1252	when?	WHEN	1238		khi nào	khi nào 
+1203	24-17-66-1	7215024279160895	Vietnamese	viet1252	where?	WHERE	1237		đâu	đâu 
+1204	24-17-67-1	721502412747558	Vietnamese	viet1252	which?	WHICH	727		nào	nào 
+1205	24-17-68-1	7215024756046403	Vietnamese	viet1252	who?	WHO	1235		ai	ai 
+1206	24-17-69-1	7215024945113487	Vietnamese	viet1252	why?	WHY	1270		tại sao	tại sao 
+1207	24-18-11-1	7215024503202213	Vietnamese	viet1252	the voice	VOICE	1363		tiếng (2)	tiếng (2) 
+1208	24-18-12-1	7215024552745651	Vietnamese	viet1252	to sing	SING	1261		hát	hát 
+1209	24-18-13-1	7215024719382979	Vietnamese	viet1252	to shout	SHOUT	715		la (2)	la (2) 
+1210	24-18-15-1	7215024556846559	Vietnamese	viet1252	to whisper	WHISPER	55		xì xào	xì xào 
+1211	24-18-16-1	7215024342932429	Vietnamese	viet1252	to mumble	MUMBLE	128		lẩm bẩm	lẩm bẩm 
+1212	24-18-17-1	721502449253784	Vietnamese	viet1252	to whistle	WHISTLE	1025		húyt sáo	húyt sáo 
+1213	24-18-18-1	7215024549801946	Vietnamese	viet1252	to shriek	SHRIEK	298		la	la 
+1214	24-18-19-1	7215024448697513	Vietnamese	viet1252	to howl	HOWL	526		hú	hú 
+1215	24-18-21-1	7215024748668766	Vietnamese	viet1252	to speak or talk	SPEAK	1623		nói	nói 
+1216	24-18-211-1	7215024414924281	Vietnamese	viet1252	to stutter or stammer	STUTTER	1866		nói lắp	nói lắp 
+1217	24-18-22-1	7215024748668766	Vietnamese	viet1252	to say	SAY	1458		nói	nói 
+1218	24-18-221-1	7215024419994591	Vietnamese	viet1252	to tell	TELL	1711		cho biết	cho biết 
+1219	24-18-222-1	7215024222153187	Vietnamese	viet1252	the speech	SPEECH	1115		diễn văn	diễn văn 
+1220	24-18-23-1	721502390025111	Vietnamese	viet1252	to be silent	BE SILENT	48		im	im 
+1221	24-18-24-1	7215024409467584	Vietnamese	viet1252	the language	LANGUAGE	1307		ngôn ngữ	ngôn ngữ 
+1222	24-18-26-1	7215024355430326	Vietnamese	viet1252	the word	WORD	1599		từ	từ 
+1223	24-18-26-2	7215024483322740	Vietnamese	viet1252	the word	WORD	1599		chữ	chữ 
+1224	24-18-28-1	7215024491910740	Vietnamese	viet1252	the name	NAME	1405		tên (1)	tên (1) 
+1225	24-18-31-1	7215024210113926	Vietnamese	viet1252	to ask(1)	ASK (INQUIRE)	1309		hỏi	hỏi 
+1226	24-18-32-1	7215024880148878	Vietnamese	viet1252	to answer	ANSWER	1275		trả lời	trả lời 
+1227	24-18-33-1	7215024736102721	Vietnamese	viet1252	to admit	ADMIT	2022		thừa nhận	thừa nhận 
+1228	24-18-34-1	7215024530937633	Vietnamese	viet1252	to deny	DENY	755		phủ nhận	phủ nhận 
+1229	24-18-35-1	7215024924680858	Vietnamese	viet1252	to ask(2)	ASK (REQUEST)	1828		xin	xin 
+1230	24-18-36-1	7215024201609253	Vietnamese	viet1252	to promise	PROMISE	1675		hứa	hứa 
+1231	24-18-36-2	7215024126524060	Vietnamese	viet1252	to promise	PROMISE	1675		thề	thề 
+1232	24-18-37-1	7215024486776696	Vietnamese	viet1252	to refuse	REFUSE	49		từ chối	từ chối 
+1233	24-18-38-1	7215024616427360	Vietnamese	viet1252	to forbid	FORBID	83		cấm	cấm 
+1234	24-18-39-1	7215024970169059	Vietnamese	viet1252	to scold	SCOLD	299		mắng	mắng 
+1235	24-18-41-1	7215024966354690	Vietnamese	viet1252	to call(1)	CALL	1084		kêu	kêu 
+1236	24-18-42-1	7215024504319302	Vietnamese	viet1252	to call(2)	CALL BY NAME	180		gọi	gọi 
+1237	24-18-43-1	7215024410268197	Vietnamese	viet1252	to announce	ANNOUNCE	9		báo (1)	báo (1) 
+1238	24-18-44-1	7215024152608400	Vietnamese	viet1252	to threaten	THREATEN	1192		đe doạ	đe doạ 
+1239	24-18-45-1	7215024769746514	Vietnamese	viet1252	to boast	BOAST	101		khoe	khoe 
+1240	24-18-51-1	7215024179439883	Vietnamese	viet1252	to write	WRITE	1672		viết	viết 
+1241	24-18-52-1	7215024213068071	Vietnamese	viet1252	to read	READ	724		đọc	đọc 
+1242	24-18-56-1	7215024732169543	Vietnamese	viet1252	the paper	PAPER	648		giấy	giấy 
+1243	24-18-57-1	7215024972835865	Vietnamese	viet1252	the pen	PEN	794		bút	bút 
+1244	24-18-61-1	7215024844676656	Vietnamese	viet1252	the book	BOOK	963		sách	sách 
+1245	24-18-67-1	7215024673885207	Vietnamese	viet1252	the poet	POET	1045		thi nhân	thi nhân 
+1246	24-18-67-2	7215024660225527	Vietnamese	viet1252	the poet	POET	1045		nhà thơ	nhà thơ 
+1247	24-18-71-1	7215024836428637	Vietnamese	viet1252	the flute	FLUTE	777		sáo	sáo 
+1248	24-18-72-1	7215024705659689	Vietnamese	viet1252	the drum	DRUM	908		trống (2)	trống (2) 
+1249	24-18-73-1	7215024157545774	Vietnamese	viet1252	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		kèn	kèn 
+1250	24-18-74-1	7215024890419660	Vietnamese	viet1252	the rattle	RATTLE	300		trống lắc	trống lắc 
+1251	24-19-11-1	72150248187691	Vietnamese	viet1252	the country	COUNTRY	1300		quốc gia	quốc gia 
+1252	24-19-12-1	7215024410188926	Vietnamese	viet1252	the native country	NATIVE COUNTRY	89		tổ quốc	tổ quốc 
+1253	24-19-15-1	7215024964485699	Vietnamese	viet1252	the town	TOWN	1391		thành thị	thành thị 
+1254	24-19-15-2	7215024262418202	Vietnamese	viet1252	the town	TOWN	1391		thành phố	thành phố 
+1255	24-19-16-1	7215024399983879	Vietnamese	viet1252	the village	VILLAGE	930		thôn	thôn 
+1256	24-19-17-1	7215024571941572	Vietnamese	viet1252	the boundary	BOUNDARY	1010		biên giới	biên giới 
+1257	24-19-21-1	7215024639563532	Vietnamese	viet1252	the people	PEOPLE	789		dân tộc	dân tộc 
+1258	24-19-23-1	7215024464781586	Vietnamese	viet1252	the clan	CLAN	302		thị tộc	thị tộc 
+1259	24-19-24-1	7215024464179624	Vietnamese	viet1252	the chieftain	CHIEFTAIN	301		thủ lĩnh	thủ lĩnh 
+1260	24-19-25-1	7215024380727694	Vietnamese	viet1252	the walking stick	WALKING STICK	1296		gậy	gậy 
+1261	24-19-31-1	721502429964770	Vietnamese	viet1252	to rule or govern	RULE	1846		thống trị	thống trị 
+1262	24-19-32-1	7215024617652546	Vietnamese	viet1252	the king	KING	1508		vua	vua 
+1263	24-19-32-2	7215024490909938	Vietnamese	viet1252	the king	KING	1508		vương	vương 
+1264	24-19-32-3	7215024473745555	Vietnamese	viet1252	the king	KING	1508		hoàng đế	hoàng đế 
+1265	24-19-33-1	7215024285058030	Vietnamese	viet1252	the queen	QUEEN	1306		nữ hoàng	nữ hoàng 
+1266	24-19-36-1	7215024463062262	Vietnamese	viet1252	the noble	NOBLE	482		qúy tộc	qúy tộc 
+1267	24-19-37-1	7215024865337055	Vietnamese	viet1252	the citizen	CITIZEN	1032		công dân	công dân 
+1268	24-19-41-1	7215024278010636	Vietnamese	viet1252	the master	MASTER	383		chủ	chủ 
+1269	24-19-41-2	7215024529709358	Vietnamese	viet1252	the master	MASTER	383		chúa (1)	chúa (1) 
+1270	24-19-42-1	7215024660111130	Vietnamese	viet1252	the slave	SLAVE	812		nô lệ	nô lệ 
+1271	24-19-43-1	7215024316333050	Vietnamese	viet1252	the servant	SERVANT	255		người ở	người ở 
+1272	24-19-44-1	7215024592786059	Vietnamese	viet1252	the freeman	FREEMAN	384		tự do	tự do 
+1273	24-19-45-1	721502412408475	Vietnamese	viet1252	to command or order	ORDER	1128		mệnh lệnh	mệnh lệnh 
+1274	24-19-46-1	7215024994831719	Vietnamese	viet1252	to obey	OBEY	1635		tuân (theo)	tuân (theo) 
+1275	24-19-47-1	7215024253063631	Vietnamese	viet1252	to permit	PERMIT	1003		cho phép	cho phép 
+1276	24-19-51-1	7215024626119148	Vietnamese	viet1252	the friend	FRIEND	1325		bạn	bạn 
+1277	24-19-52-1	7215024236205394	Vietnamese	viet1252	the enemy	ENEMY	1358		kẻ thù	kẻ thù 
+1278	24-19-54-1	7215024792301796	Vietnamese	viet1252	the neighbour	NEIGHBOUR	1332		hàng xóm	hàng xóm 
+1279	24-19-55-1	721502427247302	Vietnamese	viet1252	the stranger	STRANGER	791		người lạ	người lạ 
+1280	24-19-56-1	7215024811982353	Vietnamese	viet1252	the guest	GUEST	1782		khách	khách 
+1281	24-19-57-1	7215024576292536	Vietnamese	viet1252	the host	HOST	1545		chủ nhà	chủ nhà 
+1282	24-19-58-1	7215024608130934	Vietnamese	viet1252	to help	HELP	1897		giúp	giúp 
+1283	24-19-59-1	7215024898235694	Vietnamese	viet1252	to prevent	PREVENT	1550		ngăn	ngăn 
+1284	24-19-61-1	7215024963296513	Vietnamese	viet1252	the custom	CUSTOM	1747		phong tục	phong tục 
+1285	24-19-62-1	7215024896288917	Vietnamese	viet1252	the quarrel	QUARREL	1848		sự cãi nhau	sự cãi nhau 
+1286	24-19-63-1	721502447134164	Vietnamese	viet1252	the plot	PLOT	2024		âm mưu	âm mưu 
+1287	24-19-65-1	7215024488523571	Vietnamese	viet1252	to meet	MEET	1831		gặp	gặp 
+1288	24-19-72-1	7215024654233482	Vietnamese	viet1252	the prostitute	PROSTITUTE	1610		đĩ	đĩ 
+1289	24-20-11-1	7215024366531220	Vietnamese	viet1252	to fight	FIGHT	1423		chiến đấu	chiến đấu 
+1290	24-20-13-1	7215024270957743	Vietnamese	viet1252	the war or battle	BATTLE	579		chiến tranh	chiến tranh 
+1291	24-20-14-1	7215024228505560	Vietnamese	viet1252	the peace	PEACE	1338		hoà bình	hoà bình 
+1292	24-20-15-1	7215024224269038	Vietnamese	viet1252	the army	ARMY	1561		quân đội	quân đội 
+1293	24-20-17-1	7215024477003216	Vietnamese	viet1252	the soldier	SOLDIER	1941		quân nhân	quân nhân 
+1294	24-20-21-1	7215024128585931	Vietnamese	viet1252	the weapons	WEAPONS	951		vũ khí	vũ khí 
+1295	24-20-22-1	7215024322248653	Vietnamese	viet1252	the club	CLUB	1763		dùi	dùi 
+1296	24-20-222-1	7215024843760616	Vietnamese	viet1252	the battle-axe	BATTLE-AXE	386		rìu chiến	rìu chiến 
+1297	24-20-23-1	7215024110789518	Vietnamese	viet1252	the sling	SLING	387		ná bắn đá	ná bắn đá 
+1298	24-20-24-1	7215024434709345	Vietnamese	viet1252	the bow	BOW	994		cung	cung 
+1299	24-20-25-1	7215024726472281	Vietnamese	viet1252	the arrow	ARROW	977		tên (2)	tên (2) 
+1300	24-20-26-1	7215024858273505	Vietnamese	viet1252	the spear	SPEAR	945		giáo	giáo 
+1301	24-20-27-1	7215024867239167	Vietnamese	viet1252	the sword	SWORD	1535		gươm	gươm 
+1302	24-20-28-1	7215024879483182	Vietnamese	viet1252	the gun	GUN	1566		súng	súng 
+1303	24-20-31-1	7215024792674806	Vietnamese	viet1252	the armour	ARMOUR	1061		vỏ sắt	vỏ sắt 
+1304	24-20-33-1	7215024827938665	Vietnamese	viet1252	the helmet	HELMET	1680		mũ sắt	mũ sắt 
+1305	24-20-34-1	7215024575051889	Vietnamese	viet1252	the shield	SHIELD	1064		khiên	khiên 
+1306	24-20-35-1	7215024334915294	Vietnamese	viet1252	the fortress	FORTRESS	1938		pháo đài	pháo đài 
+1307	24-20-36-1	7215024835714096	Vietnamese	viet1252	the tower	TOWER	1671		tháp	tháp 
+1308	24-20-41-1	7215024502188019	Vietnamese	viet1252	the victory	VICTORY	783		chiến thắng	chiến thắng 
+1309	24-20-42-1	7215024277049827	Vietnamese	viet1252	the defeat	DEFEAT	782		thất bại	thất bại 
+1310	24-20-43-1	721502439359675	Vietnamese	viet1252	the attack	ATTACK	722		tấn công	tấn công 
+1311	24-20-44-1	7215024517901257	Vietnamese	viet1252	to defend	DEFEND	1330		bảo vệ	bảo vệ 
+1312	24-20-45-1	7215024371561205	Vietnamese	viet1252	to retreat	RETREAT	421		rút lui	rút lui 
+1313	24-20-46-1	7215024150014406	Vietnamese	viet1252	to surrender	SURRENDER	1696		đầu hàng	đầu hàng 
+1314	24-20-47-1	7215024668272036	Vietnamese	viet1252	the captive or prisoner	PRISONER	1072		tù phạm	tù phạm 
+1315	24-20-471-1	7215024435833467	Vietnamese	viet1252	the guard	GUARD	1940		người bảo vệ	người bảo vệ 
+1316	24-20-48-1	7215024634926760	Vietnamese	viet1252	the booty	BOOTY	1022		chiến lợi phẩm	chiến lợi phẩm 
+1317	24-20-49-1	7215024581075080	Vietnamese	viet1252	the ambush	AMBUSH	65		phục kích	phục kích 
+1318	24-20-51-1	72150244577131	Vietnamese	viet1252	the fisherman	FISHERMAN	1858		người bắt cá	người bắt cá 
+1319	24-20-52-1	7215024132007191	Vietnamese	viet1252	the fishhook	FISHHOOK	1074		lưỡi câu	lưỡi câu 
+1320	24-20-53-1	7215024260294357	Vietnamese	viet1252	the fishing line	FISHING LINE	19		dây câu	dây câu 
+1321	24-20-54-1	7215024480598924	Vietnamese	viet1252	the fishnet	FISHNET	388		lưới đánh cá	lưới đánh cá 
+1322	24-20-55-1	7215024524520999	Vietnamese	viet1252	the fish trap	FISH TRAP	389		bẫy cá	bẫy cá 
+1323	24-20-56-1	7215024780212939	Vietnamese	viet1252	the bait	BAIT	2013		mồi	mồi 
+1324	24-20-61-1	7215024461728592	Vietnamese	viet1252	to hunt	HUNT	1435		săn	săn 
+1325	24-20-62-1	721502428765182	Vietnamese	viet1252	to shoot	SHOOT	1172		bắn	bắn 
+1326	24-20-63-1	7215024418105929	Vietnamese	viet1252	to miss	MISS (A TARGET)	161		trệch	trệch 
+1327	24-20-64-1	7215024826444058	Vietnamese	viet1252	the trap	TRAP (PITFALL)	1075		bẫy (1)	bẫy (1) 
+1328	24-20-65-1	7215024225271722	Vietnamese	viet1252	to trap	TRAP (CATCH)	1170		bẫy (2)	bẫy (2) 
+1329	24-21-11-1	7215024169816967	Vietnamese	viet1252	the law	LAW	1062		pháp luật	pháp luật 
+1330	24-21-15-1	7215024658824363	Vietnamese	viet1252	the court	COURT	1068		pháp viện	pháp viện 
+1331	24-12-013-1	7215023710366196	Vietnamese	viet1252	at	AT	1461		tại (1)	tại (1) 
+1332	24-12-013-2	7215023399358481	Vietnamese	viet1252	at	AT	1461		ở (2)	ở (2) 
+1333	24-21-16-1	7215024435110342	Vietnamese	viet1252	to adjudicate	ADJUDICATE	1818		phân xử	phân xử 
+1334	24-21-17-1	7215024722568001	Vietnamese	viet1252	the judgment	JUDGMENT	1067		phán quyết	phán quyết 
+1335	24-21-18-1	7215024615946021	Vietnamese	viet1252	the judge	JUDGE	861		quan tòa	quan tòa 
+1336	24-21-21-1	721502490709746	Vietnamese	viet1252	the plaintiff	PLAINTIFF	2020		nguyên cáo	nguyên cáo 
+1337	24-21-22-1	721502491558232	Vietnamese	viet1252	the defendant	DEFENDANT	1034		bị cáo	bị cáo 
+1338	24-21-23-1	721502474385222	Vietnamese	viet1252	the witness	WITNESS	1144		người chứng kiến	người chứng kiến 
+1339	24-21-24-1	7215024126524060	Vietnamese	viet1252	to swear	SWEAR	1939		thề	thề 
+1340	24-21-25-1	7215024591567765	Vietnamese	viet1252	the oath	OATH	1712		lời thề	lời thề 
+1341	24-21-31-1	7215024461703051	Vietnamese	viet1252	to accuse	ACCUSE	1814		tố cáo	tố cáo 
+1342	24-21-32-1	7215024444930930	Vietnamese	viet1252	to condemn	CONDEMN	484		kết án	kết án 
+1343	24-21-33-1	7215024444930930	Vietnamese	viet1252	to convict	CONVICT	983		kết án	kết án 
+1344	24-21-34-1	7215024456268597	Vietnamese	viet1252	to acquit	ACQUIT	988		tha bổng	tha bổng 
+1345	24-21-35-1	7215024215700226	Vietnamese	viet1252	guilty	GUILTY	1682		phạm tội	phạm tội 
+1346	24-21-35-2	7215024295783431	Vietnamese	viet1252	guilty	GUILTY	1682		có phạm	có phạm 
+1347	24-21-36-1	721502442490134	Vietnamese	viet1252	innocent	INNOCENT	90		vô tội	vô tội 
+1348	24-21-37-1	7215024887187870	Vietnamese	viet1252	the penalty or punishment	PUNISHMENT	390		hình phạt	hình phạt 
+1349	24-21-38-1	7215024826622583	Vietnamese	viet1252	the fine	FINE (PENALTY)	218		tiền phạt	tiền phạt 
+1350	24-21-39-1	7215024921169581	Vietnamese	viet1252	the prison	PRISON	1281		nhà tù	nhà tù 
+1351	24-21-42-1	7215024719895318	Vietnamese	viet1252	the murder	MURDER	845		tội ám sát	tội ám sát 
+1352	24-21-43-1	721502499704647	Vietnamese	viet1252	the adultery	ADULTERY	902		tội ngoại tình	tội ngoại tình 
+1353	24-21-44-1	7215024964839252	Vietnamese	viet1252	the rape	RAPE	953		sự cưỡng dâm	sự cưỡng dâm 
+1354	24-21-46-1	7215024130730096	Vietnamese	viet1252	the arson	ARSON	1889		sự đốt phá	sự đốt phá 
+1355	24-21-47-1	7215024777618693	Vietnamese	viet1252	the perjury	PERJURY	1792		sự phản bội lời thề	sự phản bội lời thề 
+1356	24-21-51-1	7215024480641198	Vietnamese	viet1252	to steal	STEAL	713		ăn cắp	ăn cắp 
+1357	24-21-52-1	7215024591480381	Vietnamese	viet1252	the thief	THIEF	1160		kẻ cắp	kẻ cắp 
+1358	24-22-11-1	7215024308269513	Vietnamese	viet1252	the religion	RELIGION	661		tôn giáo	tôn giáo 
+1359	24-22-12-1	7215024801616660	Vietnamese	viet1252	the god	DEITY	3231		thần	thần 
+1360	24-22-12-2	7215024115838629	Vietnamese	viet1252	the god	DEITY	3231		chúa (2)	chúa (2) 
+1361	24-22-13-1	7215024964304508	Vietnamese	viet1252	the temple	TEMPLE	911		dền	dền 
+1362	24-22-13-2	7215024295496217	Vietnamese	viet1252	the temple	TEMPLE	911		miếu	miếu 
+1363	24-22-14-1	7215024838449451	Vietnamese	viet1252	the altar	ALTAR	853		bàn thờ	bàn thờ 
+1364	24-22-15-1	7215024819062420	Vietnamese	viet1252	the sacrifice	SACRIFICE	1103		cúng tế	cúng tế 
+1365	24-22-16-1	7215024723552515	Vietnamese	viet1252	to worship	WORSHIP	257		thờ	thờ 
+1366	24-22-17-1	7215024563748890	Vietnamese	viet1252	to pray	PRAY	24		cầu (2)	cầu (2) 
+1367	24-22-18-1	721502415392867	Vietnamese	viet1252	the priest	PRIEST	852		giáo sĩ	giáo sĩ 
+1368	24-22-19-1	7215024619763270	Vietnamese	viet1252	holy	HOLY	1702		linh thiêng	linh thiêng 
+1369	24-22-22-1	7215024207367593	Vietnamese	viet1252	to preach	PREACH	304		giảng đạo	giảng đạo 
+1370	24-22-23-1	7215024972671444	Vietnamese	viet1252	to bless	BLESS	391		ban phúc	ban phúc 
+1371	24-22-24-1	7215024934935033	Vietnamese	viet1252	to curse	CURSE	8		nguyền rủa	nguyền rủa 
+1372	24-22-26-1	7215024926074276	Vietnamese	viet1252	to fast	ABSTAIN FROM FOOD	303		ăn kiêng	ăn kiêng 
+1373	24-22-31-1	7215024127769117	Vietnamese	viet1252	the heaven	HEAVEN	1565		thiên đường	thiên đường 
+1374	24-22-32-1	7215024284884025	Vietnamese	viet1252	the hell	HELL	878		địa ngục	địa ngục 
+1375	24-22-35-1	7215024314992739	Vietnamese	viet1252	the demon	DEMON	1973		ma qủy	ma qủy 
+1376	24-22-37-1	7215024412753338	Vietnamese	viet1252	the idol	IDOL	1945		thần tượng	thần tượng 
+1377	24-22-42-1	7215024136286353	Vietnamese	viet1252	the magic	MAGIC	392		ma thuật	ma thuật 
+1378	24-22-43-1	721502449977921	Vietnamese	viet1252	the sorcerer or witch	MAGICIAN	2137		phù thủy	phù thủy 
+1379	24-22-44-1	7215024862258566	Vietnamese	viet1252	the fairy or elf	ELF OR FAIRY	3206		tiên	tiên 
+1380	24-22-45-1	7215024366337579	Vietnamese	viet1252	the ghost	GHOST	1175		ma	ma 
+1381	24-22-47-1	7215024532285243	Vietnamese	viet1252	the omen	OMEN	107		điềm	điềm 
+1382	24-23-1-1	721502498877694	Vietnamese	viet1252	the radio	RADIO	1315		rađiô	rađiô 
+1383	24-23-11-1	7215024749668904	Vietnamese	viet1252	the television	TELEVISION	1788		truyền hình	truyền hình 
+1384	24-23-11-2	7215024956399685	Vietnamese	viet1252	the television	TELEVISION	1788		ti vi	ti vi 
+1385	24-23-12-1	7215024938927376	Vietnamese	viet1252	the telephone	TELEPHONE	1379		điện thoại	điện thoại 
+1386	24-23-135-1	7215024525484753	Vietnamese	viet1252	the motorcycle	MOTORCYCLE	638		xe mô tô	xe mô tô 
+1387	24-23-14-1	7215024660005131	Vietnamese	viet1252	the car	CAR	1111		(xe) ô tô	(xe) ô tô 
+1388	24-23-15-1	7215024990733788	Vietnamese	viet1252	the bus	BUS	1070		(xe) búyt	(xe) búyt 
+1389	24-23-16-1	7215024631297020	Vietnamese	viet1252	the airplane	AIRPLANE	1597		máy bay	máy bay 
+1390	24-23-16-2	7215024476338351	Vietnamese	viet1252	the airplane	AIRPLANE	1597		phi cơ	phi cơ 
+1391	24-23-17-1	7215024894576650	Vietnamese	viet1252	the electricity	ELECTRICITY	59		điện	điện 
+1392	24-23-175-1	7215024913773930	Vietnamese	viet1252	the battery	BATTERY	662		pin	pin 
+1393	24-23-2-1	7215024309842938	Vietnamese	viet1252	the hospital	HOSPITAL	616		bệnh viện	bệnh viện 
+1394	24-23-21-1	7215024973086515	Vietnamese	viet1252	the nurse	NURSE	1104		y tá	y tá 
+1395	24-23-22-1	7215024130860648	Vietnamese	viet1252	the pill or tablet	PILL	395		viên	viên 
+1396	24-23-23-1	7215024668638816	Vietnamese	viet1252	the injection	INJECTION	1805		sự tiêm	sự tiêm 
+1397	24-23-5-1	7215024736952776	Vietnamese	viet1252	the tap/faucet	FAUCET	1488		vòi	vòi 
+1398	24-23-51-1	7215024428801942	Vietnamese	viet1252	the sink	SINK (BASIN)	915		bồn	bồn 
+1399	24-23-52-1	7215024592090404	Vietnamese	viet1252	the toilet	TOILET	219		phòng vệ sinh	phòng vệ sinh 
+1400	24-23-53-1	7215024255457420	Vietnamese	viet1252	the mattress	MATTRESS	105		nệm	nệm 
+1401	24-23-3-1	7215024465013910	Vietnamese	viet1252	the government	GOVERNMENT	815		chính phủ	chính phủ 
+1402	24-23-31-1	7215024845911029	Vietnamese	viet1252	the president	PRESIDENT	899		tổng thống	tổng thống 
+1403	24-23-32-1	7215024449708914	Vietnamese	viet1252	the minister	MINISTER	486		bộ trưởng	bộ trưởng 
+1404	24-23-33-1	7215024228709502	Vietnamese	viet1252	the police	POLICE	656		cảnh sát	cảnh sát 
+1405	24-23-34-1	7215024929581451	Vietnamese	viet1252	the driver's license	DRIVER'S LICENSE	599		bằng lái xe	bằng lái xe 
+1406	24-23-37-1	7215024778735972	Vietnamese	viet1252	the crime	CRIME	1066		tội ác	tội ác 
+1407	24-23-38-1	7215024292690678	Vietnamese	viet1252	the election	ELECTION	240		cuộc tuyển cử	cuộc tuyển cử 
+1408	24-23-4-1	7215024795319351	Vietnamese	viet1252	the post/mail	MAIL	167		bưu kiện	bưu kiện 
+1409	24-23-41-1	721502417751456	Vietnamese	viet1252	the postage stamp	POSTAGE STAMP	596		tem	tem 
+1410	24-23-42-1	7215024654370242	Vietnamese	viet1252	the letter	LETTER	1612		thư	thư 
+1411	24-23-44-1	7215024929170939	Vietnamese	viet1252	the bank	BANK	1284		ngân hàng	ngân hàng 
+1412	24-23-44-2	7215024713900490	Vietnamese	viet1252	the bank	BANK	1284		băng	băng 
+1413	24-23-54-1	7215024853277171	Vietnamese	viet1252	the tin/can	CAN	1051		hộp	hộp 
+1414	24-23-55-1	7215024277618893	Vietnamese	viet1252	the screw	SCREW	1802		đinh vít	đinh vít 
+1415	24-23-555-1	7215024798958289	Vietnamese	viet1252	the screwdriver	SCREWDRIVER	836		tua vít	tua vít 
+1416	24-23-56-1	7215024187171850	Vietnamese	viet1252	the bottle	BOTTLE	1321		chai	chai 
+1417	24-23-565-1	7215024908348978	Vietnamese	viet1252	the candy/sweets	CANDY	874		kẹo	kẹo 
+1418	24-23-24-1	7215024550918204	Vietnamese	viet1252	the spectacles/glasses	SPECTACLES	1898		kính (2)	kính (2) 
+1419	24-23-57-1	7215024311348449	Vietnamese	viet1252	the plastic	PLASTIC	654		chất dẻo	chất dẻo 
+1420	24-23-575-1	721502453037247	Vietnamese	viet1252	the bomb	BOMB	1804		bom	bom 
+1421	24-23-58-1	7215024212269752	Vietnamese	viet1252	the workshop	WORKSHOP	1677		xưởng	xưởng 
+1422	24-23-59-1	721502392578117	Vietnamese	viet1252	the cigarette	CIGARETTE	969		thuốc lá	thuốc lá 
+1423	24-23-61-1	7215024836927135	Vietnamese	viet1252	the calendar	CALENDAR	1967		lịch	lịch 
+1424	24-23-62-1	7215024478301726	Vietnamese	viet1252	the film/movie	MOVIE	216		phim	phim 
+1425	24-23-63-1	7215024339272225	Vietnamese	viet1252	the music	MUSIC	642		âm nhạc	âm nhạc 
+1426	24-23-64-1	7215024990166270	Vietnamese	viet1252	the song	SONG	1096		bài hát	bài hát 
+1427	24-23-6-1	7215024558490732	Vietnamese	viet1252	the newspaper	NEWSPAPER	1298		báo (2)	báo (2) 
+1428	24-23-385-1	7215024102686875	Vietnamese	viet1252	the address	ADDRESS	591		địa chỉ	địa chỉ 
+1429	24-23-39-1	7215024514699799	Vietnamese	viet1252	the number	NUMBER	1356		số	số 
+1430	24-23-155-1	7215024866876580	Vietnamese	viet1252	the train	TRAIN	900		xe lửa	xe lửa 
+1431	24-23-155-2	7215024439114998	Vietnamese	viet1252	the train	TRAIN	900		hoả xa	hoả xa 
+1432	24-23-36-1	721502482324857	Vietnamese	viet1252	the birth certificate	BIRTH CERTIFICATE	397		giấy khai sinh	giấy khai sinh 
+1433	24-23-18-1	7215024932608849	Vietnamese	viet1252	to brake	BRAKE	966		hãm	hãm 
+1434	24-23-195-1	7215024805688750	Vietnamese	viet1252	the petroleum	PETROLEUM	650		dầu hoả	dầu hoả 
+1435	24-23-185-1	7215024679991649	Vietnamese	viet1252	the motor	MOTOR	110		mô tô	mô tô 
+1436	24-23-19-1	7215024420114600	Vietnamese	viet1252	the machine	MACHINE	144		cơ giới	cơ giới 
+1437	24-23-13-1	7215024642648646	Vietnamese	viet1252	the bicycle	BICYCLE	747		xe đạp	xe đạp 
+1438	24-23-395-1	7215023817581073	Vietnamese	viet1252	the street	STREET	1362		đường (2)	đường (2) 
+1439	24-19-445-1	7215024652417072	Vietnamese	viet1252	to liberate	LIBERATE	37		giải phóng	giải phóng 
+1440	24-19-565-1	7215024517104252	Vietnamese	viet1252	to invite	INVITE	1611		mời	mời 
+1441	24-23-35-1	7215024597950435	Vietnamese	viet1252	the license plate	LICENSE PLATE	1790		bảng số	bảng số 
+1442	24-23-43-1	7215024787776039	Vietnamese	viet1252	the postcard	POSTCARD	1497		bưu thiếp	bưu thiếp 
+1443	24-24-01-1	7215024698800182	Vietnamese	viet1252	to be	BE	1579		là	là 
+1444	24-24-02-1	7215024147558105	Vietnamese	viet1252	to become	BECOME	1990		trở thành	trở thành 
+1445	24-24-03-1	7215024494507538	Vietnamese	viet1252	without	WITHOUT	1478		không có	không có 
+1446	24-24-05-1	7215024306371032	Vietnamese	viet1252	through	THROUGH	97		qua	qua 
+1447	24-24-13-1	7215024798792207	Vietnamese	viet1252	same	SAME	200		giống	giống 
+1448	24-24-06-1	7215023306525242	Vietnamese	viet1252	not	NOT	1240		không	không 
+1449	24-24-07-1	7215024686036293	Vietnamese	viet1252	this	THIS	1214		này	này 
+1450	24-24-08-1	7215024375900512	Vietnamese	viet1252	that	THAT	78		đó	đó 
+1451	24-24-09-1	7215024882250380	Vietnamese	viet1252	here	HERE	136		đây	đây 
+1452	24-24-1-1	7215024977027298	Vietnamese	viet1252	there	THERE	1937		kia	kia 
+1453	24-24-11-1	7215024346156559	Vietnamese	viet1252	other	OTHER	197		khác	khác 
+1454	24-4-493-1	7215023625239717	Vietnamese	viet1252	the vagina	VAGINA	1836		âm vật	âm vật 
+1455	24-23-9-1	7215024613889324	Vietnamese	viet1252	the tea	TEA	1373		chè	chè 
+1456	24-23-91-1	7215024738030953	Vietnamese	viet1252	the coffee	COFFEE	1299		cà phê	cà phê 
+1457	24-24-12-1	7215024777549547	Vietnamese	viet1252	next	NEXT	1354		sau (3)	sau (3) 
+1458	24-3-862-1	7215023867422320	Vietnamese	viet1252	the coyote	COYOTE	912		chó sói đồng cỏ	chó sói đồng cỏ 
+1459	24-3-863-1	7215023365822612	Vietnamese	viet1252	the hare	HARE	1190		thỏ	thỏ 
+1460	24-3-865-1	7215023544095276	Vietnamese	viet1252	the quail	QUAIL	1893		chim cút	chim cút 
+1461	24-3-866-1	7215023509355171	Vietnamese	viet1252	the raccoon	RACCOON	828		racoon	racoon 
+1462	24-3-869-1	7215023724096895	Vietnamese	viet1252	the squirrel	SQUIRREL	1628		sóc	sóc 
+1463	24-3-871-1	7215023803490715	Vietnamese	viet1252	the reindeer/caribou	REINDEER	1876		nai tuyết	nai tuyết 
+1464	24-3-872-1	7215023393061893	Vietnamese	viet1252	the elk/moose	ELK	1772		nai sừng tấm	nai sừng tấm 
+1465	24-3-873-1	7215023859719445	Vietnamese	viet1252	the beaver	BEAVER	1194		hải ly	hải ly 
+1466	24-10-79-1	7215023864214742	Vietnamese	viet1252	the sledge/sled	SLED	16		xe trượt tuyết	xe trượt tuyết 
+1467	24-8-29-1	72150234752634	Vietnamese	viet1252	the lasso	LASSO	340		dây thòng lọng	dây thòng lọng 
+1468	24-8-991-1	7215023679207267	Vietnamese	viet1252	the larch	LARCH	116		cây thông rụng lá	cây thông rụng lá 
+1469	24-8-993-1	7215023139209896	Vietnamese	viet1252	the needle(2)	NEEDLE TREE	286		lá kim	lá kim 
+1470	24-1-771-1	7215023252317915	Vietnamese	viet1252	the arctic lights	ARCTIC LIGHTS	261		cực quang	cực quang 
+1471	24-4-465-1	7215023143733115	Vietnamese	viet1252	the sinew or tendon	TENDON	1137		gân	gân 
+1472	24-7-67-1	7215023227151609	Vietnamese	viet1252	to tan	TAN	247		thuộc (2)	thuộc (2) 
+1473	24-6-98-1	7215023743762300	Vietnamese	viet1252	the snowshoe	SNOWSHOE	233		giày đi tuyết	giày đi tuyết 
+1474	24-22-5-1	7215024824942108	Vietnamese	viet1252	the circumcision	CIRCUMCISION	393		sự cắt bao quy đầu	sự cắt bao quy đầu 
+1475	24-8-996-1	7215023206385106	Vietnamese	viet1252	the cone	CONE	287		trái thông	trái thông 
+1476	24-3-8112-1	7215023313624845	Vietnamese	viet1252	the body louse	BODY LOUSE	311		rận	rận 
+1477	24-4-494-1	7215023430341372	Vietnamese	viet1252	the vulva	VULVA	1837		âm hộ	âm hộ 
+1478	24-3-99-1	7215023843129687	Vietnamese	viet1252	the tapir	TAPIR	312		heo vòi	heo vòi 
+1479	24-9-93-1	7215023281678613	Vietnamese	viet1252	the whetstone	WHETSTONE	295		đá mài	đá mài 
+1480	24-7-65-1	7215023622730362	Vietnamese	viet1252	the camp	CAMP	1105		trại	trại 
+1481	24-3-597-1	7215023664002117	Vietnamese	viet1252	the cormorant	CORMORANT	840		cốc	cốc 
+1482	24-3-833-1	7215023956404324	Vietnamese	viet1252	the prawns or shrimp	PRAWNS	238		tôm	tôm 
+1483	24-3-834-1	7215023614859731	Vietnamese	viet1252	the termites	TERMITE	883		mọt	mọt 
+1484	24-3-835-1	7215023267552394	Vietnamese	viet1252	the tick	TICK	1527		bét	bét 
+1485	24-9-87-1	7215023673950310	Vietnamese	viet1252	the boomerang	BOOMERANG	135		bumơrang	bumơrang 
+1486	24-3-88-1	7215023465743769	Vietnamese	viet1252	the kangaroo	KANGAROO	164		canguru	canguru 
+1487	24-3-89-1	7215023717152488	Vietnamese	viet1252	the anteater	ANTEATER	181		loài thú ăn kiến	loài thú ăn kiến 
+1488	24-3-598-1	7215023844939961	Vietnamese	viet1252	the toucan	TOUCAN	308		tucăng	tucăng 
+1489	24-3-9-1	7215023780137814	Vietnamese	viet1252	the jaguar	JAGUAR	1250		báo đốm	báo đốm 
+1490	24-5-983-1	7215023900579220	Vietnamese	viet1252	the manioc bread	MANIOC BREAD	407		bánh bột sắn	bánh bột sắn 
+1491	24-7-66-1	721502348886210	Vietnamese	viet1252	the hammock	HAMMOCK	2019		võng	võng 
+1492	24-8-911-1	7215023507796742	Vietnamese	viet1252	the millet or sorghum	MILLET	931		kê	kê 
+1493	24-3-913-1	7215023860331906	Vietnamese	viet1252	the chameleon	CHAMELEON	1555		tắc kè hoa	tắc kè hoa 
+1494	24-9-9-1	7215023219566233	Vietnamese	viet1252	to draw water	DRAW (WATER)	1911		xách	xách 
+1495	24-9-91-1	7215023502053168	Vietnamese	viet1252	the peg	PEG	361		chốt	chốt 
+1496	24-10-58-1	7215023816385890	Vietnamese	viet1252	to go or return home	RETURN HOME	142		về nhà	về nhà 
+1497	24-3-917-1	7215023941601559	Vietnamese	viet1252	the buffalo	BUFFALO	934		trâu	trâu 
+1498	24-1-411-1	7215023108898100	Vietnamese	viet1252	the savanna	SAVANNA	260		thảo nguyên	thảo nguyên 
+1499	24-1-831-1	7215023193903614	Vietnamese	viet1252	the steam	STEAM	1193		hơi nước	hơi nước 
+1500	24-2-4561-1	7215023799684688	Vietnamese	viet1252	the older sibling	OLDER SIBLING	405		anh chị	anh chị 
+1501	24-2-4562-1	7215023749642217	Vietnamese	viet1252	the younger sibling	YOUNGER SIBLING	427		em	em 
+1502	24-2-4711-1	7215023772686002	Vietnamese	viet1252	the grandparents	GRANDPARENTS	305		ông bà	ông bà 
+1503	24-2-5-1	7215023664932199	Vietnamese	viet1252	the grandchild	GRANDCHILD	1617		cháu	cháu 
+1504	24-2-541-1	7215023664932199	Vietnamese	viet1252	the sibling’s child	SIBLING'S CHILD	173		cháu	cháu 
+1505	24-2-622-1	7215023437288537	Vietnamese	viet1252	the parents-in-law	PARENTS-IN-LAW	306		bố mẹ vợ chồng	bố mẹ vợ chồng 
+1506	24-2-6411-1	7215023656297984	Vietnamese	viet1252	the child-in-law	CHILD-IN-LAW	1060		con rể	con rể 
+1507	24-2-6411-2	7215023655165483	Vietnamese	viet1252	the child-in-law	CHILD-IN-LAW	1060		con dâu	con dâu 
+1508	24-2-6411-3	7215023596955995	Vietnamese	viet1252	the child-in-law	CHILD-IN-LAW	1060		con dấu	con dấu 
+1509	24-2-6412-1	7215023990788686	Vietnamese	viet1252	the sibling-in-law	SIBLING-IN-LAW	1832		chị dâu	chị dâu 
+1510	24-2-931-1	7215023894391295	Vietnamese	viet1252	he	HE	1211		hắn	hắn 
+1511	24-2-932-1	7215023197026101	Vietnamese	viet1252	she	SHE	1834		cô ta	cô ta 
+1512	24-2-933-1	7215023600847654	Vietnamese	viet1252	it	IT	169		nó	nó 
+1513	24-4-741-1	7215023524653613	Vietnamese	viet1252	the life	LIFE	210		cuộc sống	cuộc sống 
+1514	24-4-771-1	7215023814741322	Vietnamese	viet1252	the carcass	CARCASS	1770		xác súc vật	xác súc vật 
+1515	24-4-844-1	7215023191016533	Vietnamese	viet1252	the disease	DISEASE	1986		bệnh tật	bệnh tật 
+1516	24-7-232-1	7215023397509080	Vietnamese	viet1252	the padlock	PADLOCK	336		khóa móc	khóa móc 
+1517	24-8-121-1	7215023545762327	Vietnamese	viet1252	the paddy	PADDY FIELD	140		ruộng lúa	ruộng lúa 
+1518	24-11-29-1	721502344542756	Vietnamese	viet1252	to damage	DAMAGE	1116		làm hư hại	làm hư hại 
+1519	24-12-081-1	7215023740166578	Vietnamese	viet1252	above	ABOVE	1741		trên	trên 
+1520	24-13-231-1	7215023972795220	Vietnamese	viet1252	the piece	PIECE	594		mảnh	mảnh 
+1521	24-13-331-1	7215023459176435	Vietnamese	viet1252	alone	ALONE	1964		một mình	một mình 
+1522	24-14-251-1	7215023134102304	Vietnamese	viet1252	the beginning	BEGINNING	1557		lúc bắt đầu	lúc bắt đầu 
+1523	24-14-411-1	7215023168869445	Vietnamese	viet1252	the day(2)	DAY (NOT NIGHT)	1225		ngày	ngày 
+1524	24-22-131-1	721502345909418	Vietnamese	viet1252	the church	CHURCH	1349		nhà thờ	nhà thờ 
+1525	24-22-132-1	7215024254775732	Vietnamese	viet1252	the mosque	MOSQUE	1603		nhà thờ Hồi giáo	nhà thờ Hồi giáo 
+1526	24-24-14-1	7215024211006466	Vietnamese	viet1252	nothing	NOTHING	687		sự không có	sự không có 
+1527	24-4-7501-1	7215023927723000	Vietnamese	viet1252	dead	DEAD	1625		chết (2)	chết (2) 
+1528	24-4-8541-1	7215023202276882	Vietnamese	viet1252	to scratch	SCRATCH	1436		cào (1)	cào (1) 
+1529	24-9-111-1	7215023354494620	Vietnamese	viet1252	to make	MAKE	734		làm	làm 
+1530	24-9-111-2	721502326996781	Vietnamese	viet1252	to make	MAKE	734		chế tạo	chế tạo 
+1531	24-4-431-1	7215023592994072	Vietnamese	viet1252	the belly	BELLY	1251		bụng	bụng 
+1532	24-9-311-1	7215023806706421	Vietnamese	viet1252	to wipe	WIPE	1454		lau	lau 
+1533	24-1-775-1	7215023326709693	Vietnamese	viet1252	to freeze	FREEZE	1431		đông lại	đông lại 
+1534	24-24-04-1	721502476830720	Vietnamese	viet1252	with	WITH	1340		với	với 
+1535	24-12-012-1	7215023231343108	Vietnamese	viet1252	in	IN	1460		trong (1)	trong (1) 

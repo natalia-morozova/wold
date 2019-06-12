@@ -1,0 +1,1809 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	9-1-1-1	75101356629862098	Selice Romani	west2376	the world	WORLD	965		világo	világo 
+2	9-1-21-1	75101356356993989	Selice Romani	west2376	the land	LAND	626		phú	phú 
+3	9-1-212-1	75101356356993989	Selice Romani	west2376	the soil	EARTH (SOIL)	1228		phú	phú 
+4	9-1-213-1	75101356503465252	Selice Romani	west2376	the dust	DUST	2		praho	praho 
+5	9-1-214-1	75101356536035680	Selice Romani	west2376	the mud	MUD	640		čik	čik 
+6	9-1-215-1	75101356993183101	Selice Romani	west2376	the sand	SAND	671		póši	póši 
+7	9-1-22-1	75101356569043968	Selice Romani	west2376	the mountain or hill	MOUNTAIN OR HILL	2118		heďo	heďo 
+8	9-1-22-2	75101356146375003	Selice Romani	west2376	the mountain or hill	MOUNTAIN OR HILL	2118		dombo	dombo 
+9	9-1-23-1	75101356722146893	Selice Romani	west2376	the plain	PLAIN	652		igeňeššígo	igeňeššígo 
+10	9-1-25-1	75101356349380029	Selice Romani	west2376	the island	ISLAND	622		sigeto	sigeto 
+11	9-1-27-1	75101356291149270	Selice Romani	west2376	the shore	SHORE	113		parto	parto 
+12	9-1-28-1	75101356251980757	Selice Romani	west2376	the cave	CAVE	1155		barlango	barlango 
+13	9-1-31-1	75101356910209862	Selice Romani	west2376	the water	WATER	948		páňi	páňi 
+14	9-1-32-1	75101356934632213	Selice Romani	west2376	the sea	SEA	1474		tengeri	tengeri 
+15	9-1-322-1	75101356313231957	Selice Romani	west2376	calm	CALM	258		ňugotno	ňugotno 
+16	9-1-323-1	75101356699524852	Selice Romani	west2376	rough(2)	ROUGH (OF SEA)	259		zavarošno	zavarošno 
+17	9-1-324-1	75101356164091190	Selice Romani	west2376	the foam	FOAM	1768		habo	habo 
+18	9-1-341-1	75101356468659394	Selice Romani	west2376	the lagoon	LAGOON	623		lagúna	lagúna 
+19	9-1-35-1	75101356101491467	Selice Romani	west2376	the wave	WAVE	978		hullámo	hullámo 
+20	9-1-36-1	75101356910209862	Selice Romani	west2376	the river or stream	RIVER	666		páňi	páňi 
+21	9-1-36-2	75101356989935917	Selice Romani	west2376	the river or stream	RIVER	666		fojó	fojó 
+22	9-1-36-3	75101356929393430	Selice Romani	west2376	the river or stream	RIVER	666		patako	patako 
+23	9-1-362-1	75101356697535414	Selice Romani	west2376	the whirlpool	WHIRLPOOL	1982		forgó (1)	forgó (1) 
+24	9-1-37-1	75101356627092378	Selice Romani	west2376	the spring or well	SPRING OR WELL	2144		haňig	haňig 
+25	9-1-37-2	75101356148544427	Selice Romani	west2376	the spring or well	SPRING OR WELL	2144		féhaňig	féhaňig 
+26	9-1-38-1	75101356268168034	Selice Romani	west2376	the swamp	SWAMP	1145		močára	močára 
+27	9-1-39-1	75101356541647605	Selice Romani	west2376	the waterfall	WATERFALL	943		ešíši	ešíši 
+28	9-1-41-1	75101356919060238	Selice Romani	west2376	the woods or forest	FOREST	420		véš	véš 
+29	9-1-43-1	75101356499589042	Selice Romani	west2376	the wood	WOOD	1803		kašt	kašt 
+30	9-1-44-1	75101356181330603	Selice Romani	west2376	the stone or rock	STONE OR ROCK	2125		bár (1)	bár (1) 
+31	9-1-44-2	75101356511919004	Selice Romani	west2376	the stone or rock	STONE OR ROCK	2125		kėvėčo	kėvėčo 
+32	9-1-45-1	75101356332836431	Selice Romani	west2376	the earthquake	EARTHQUAKE	6		feldrengíši	feldrengíši 
+33	9-1-51-1	75101356118277078	Selice Romani	west2376	the sky	SKY	1732		nebo	nebo 
+34	9-1-52-1	75101356510788358	Selice Romani	west2376	the sun	SUN	1343		kham	kham 
+35	9-1-53-1	75101356776366196	Selice Romani	west2376	the moon	MOON	1313		čhon	čhon 
+36	9-1-53-2	75101356180181074	Selice Romani	west2376	the moon	MOON	1313		hódačka	hódačka 
+37	9-1-54-1	75101356122617146	Selice Romani	west2376	the star	STAR	1430		čillaga	čillaga 
+38	9-1-55-1	75101356926263721	Selice Romani	west2376	the lightning	LIGHTNING	1654		villámo	villámo 
+39	9-1-55-2	78246880209418	Selice Romani	west2376	the lightning	LIGHTNING	1654		villámláši	villámláši 
+40	9-1-56-1	75101356280625814	Selice Romani	west2376	the thunder	THUNDER	1150		zengíši	zengíši 
+41	9-1-57-1	75101356926263721	Selice Romani	west2376	the bolt of lightning	BOLT (OF LIGHTNING)	2007		villámo	villámo 
+42	9-1-58-1	75101356454951881	Selice Romani	west2376	the storm	STORM	858		zivatalo	zivatalo 
+43	9-1-59-1	75101356753223643	Selice Romani	west2376	the rainbow	RAINBOW	1733		sivárváňi	sivárváňi 
+44	9-1-61-1	75101356301684622	Selice Romani	west2376	the light	LIGHT (RADIATION)	630		világšágo	világšágo 
+45	9-1-61-2	7724154208812717	Selice Romani	west2376	the light	LIGHT (RADIATION)	630		világoššágo	világoššágo 
+46	9-1-62-1	75101356956332748	Selice Romani	west2376	the darkness	DARKNESS	11		šetítšígo	šetítšígo 
+47	9-1-63-1	75101356999316310	Selice Romani	west2376	the shade or shadow	SHADE	1388		árňíko	árňíko 
+48	9-1-64-1	75101356544713129	Selice Romani	west2376	the dew	DEW	1977		dėro	dėro 
+49	9-1-71-1	75101356585080000	Selice Romani	west2376	the air	AIR	27		levegó, levegóva	levegó 
+50	9-1-71-2	75101356585080000	Selice Romani	west2376	the air	AIR	27		levegó, levegóva	levegóva 
+51	9-1-72-1	75101356137361362	Selice Romani	west2376	the wind	WIND	960		balval	balval 
+52	9-1-73-1	75101356357803120	Selice Romani	west2376	the cloud	CLOUD	1489		felhó, felhóva	felhó 
+53	9-1-73-2	75101356357803120	Selice Romani	west2376	the cloud	CLOUD	1489		felhó, felhóva	felhóva 
+54	9-1-74-1	7510135625447754	Selice Romani	west2376	the fog	FOG	249		kedo	kedo 
+55	9-1-75-1	75101356204604312	Selice Romani	west2376	the rain	RAIN (PRECIPITATION)	658		brišind	brišind 
+56	9-1-76-1	75101356776134934	Selice Romani	west2376	the snow	SNOW	784		jiv	jiv 
+57	9-1-77-1	75101356837249076	Selice Romani	west2376	the ice	ICE	617		jego	jego 
+58	9-1-78-1	75101356234764448	Selice Romani	west2376	the weather	WEATHER	952		díve, dí	díve 
+59	9-1-78-2	75101356234764448	Selice Romani	west2376	the weather	WEATHER	952		díve, dí	dí 
+60	9-1-81-1	75101356954652818	Selice Romani	west2376	the fire	FIRE	221		jag	jag 
+61	9-1-82-1	75101356444541693	Selice Romani	west2376	the flame	FLAME	889		lánga	lánga 
+62	9-1-83-1	75101356107283210	Selice Romani	west2376	the smoke	SMOKE (EXHAUST)	778		fišto	fišto 
+63	9-1-84-1	75101356760589072	Selice Romani	west2376	the ash	ASH	646		hamu	hamu 
+64	9-1-841-1	7510135669058704	Selice Romani	west2376	the embers	EMBERS	67		izgó, izgóva	izgó 
+65	9-1-841-2	7510135669058704	Selice Romani	west2376	the embers	EMBERS	67		izgó, izgóva	izgóva 
+66	9-1-851-1	75101356165267863	Selice Romani	west2376	to burn(1)	BURN (SOMETHING)	141		tháren	tháren 
+67	9-1-852-1	75101356661862254	Selice Romani	west2376	to burn(2)	BURNING	1428		thabon	thabon 
+68	9-1-86-1	75101356574093705	Selice Romani	west2376	to light	LIGHT (IGNITE)	737		dživďaren	dživďaren 
+69	9-1-861-1	75101356919760367	Selice Romani	west2376	to extinguish	EXTINGUISH	127		murdaren ári	murdaren ári 
+70	9-1-87-1	75101356541668603	Selice Romani	west2376	the match	MATCH	1133		ďújtó	ďújtó 
+71	9-1-88-1	75101356499589042	Selice Romani	west2376	the firewood	FIREWOOD	10		kašt	kašt 
+72	9-1-89-1	75101356562742579	Selice Romani	west2376	the charcoal	CHARCOAL	1188		kaštuno angar	kaštuno angar 
+73	9-2-1-1	75101356995215608	Selice Romani	west2376	the person	PERSON	683		manuš	manuš 
+74	9-2-1-2	75101356835659054	Selice Romani	west2376	the person	PERSON	683		manušni	manušni 
+75	9-2-1-3	75101356576391988	Selice Romani	west2376	the person	PERSON	683		džéne	džéne 
+76	9-2-21-1	75101356366489976	Selice Romani	west2376	the man	MAN	1554		murš	murš 
+77	9-2-22-1	75101356615441553	Selice Romani	west2376	the woman	WOMAN	962		džuvli	džuvli 
+78	9-2-23-1	75101356542357172	Selice Romani	west2376	male(1)	MALE (OF ANIMAL)	2263		muršikáno	muršikáno 
+79	9-2-24-1	7510135638680135	Selice Romani	west2376	female(1)	FEMALE (OF PERSON)	2260		džuvlikáno	džuvlikáno 
+80	9-2-25-1	75101356756569819	Selice Romani	west2376	the boy	BOY	1366		čhavóro	čhavóro 
+81	9-2-251-1	75101356247491461	Selice Romani	west2376	the young man	YOUNG MAN	76		čhá	čhá 
+82	9-2-251-2	7510135618342991	Selice Romani	west2376	the young man	YOUNG MAN	76		raklo	raklo 
+83	9-2-26-1	75101356954865011	Selice Romani	west2376	the girl	GIRL	1646		čhajóri	čhajóri 
+84	9-2-261-1	75101356707363229	Selice Romani	west2376	the young woman	YOUNG WOMAN	77		čhaj	čhaj 
+85	9-2-261-2	75101356411174671	Selice Romani	west2376	the young woman	YOUNG WOMAN	77		rakli	rakli 
+86	9-2-27-1	75101356756569819	Selice Romani	west2376	the child(1)	CHILD (YOUNG HUMAN)	1304		čhavóro	čhavóro 
+87	9-2-28-1	75101356126674362	Selice Romani	west2376	the baby	BABY	1289		tiknóro	tiknóro 
+88	9-2-28-2	75101356204034207	Selice Romani	west2376	the baby	BABY	1289		miminko	miminko 
+89	9-2-31-1	75101356212982750	Selice Romani	west2376	the husband	HUSBAND	1200		rom	rom 
+90	9-2-32-1	7510135670971441	Selice Romani	west2376	the wife	WIFE	1199		romni	romni 
+91	9-2-33-1	7510135663585411	Selice Romani	west2376	to marry	MARRY	203		džan romeste	džan romeste 
+92	9-2-33-2	75101356215352829	Selice Romani	west2376	to marry	MARRY	203		len romňa	len romňa 
+93	9-2-33-3	75191324666554741	Selice Romani	west2376	to marry	MARRY	203		len romňake	len romňake 
+94	9-2-33-4	75191331636067541	Selice Romani	west2376	to marry	MARRY	203		len romeske	len romeske 
+95	9-2-33-5	75101356352314109	Selice Romani	west2376	to marry	MARRY	203		sojharen	sojharen 
+96	9-2-34-1	75101356291414814	Selice Romani	west2376	the wedding	WEDDING	1259		bijav	bijav 
+97	9-2-341-1	75101356942352996	Selice Romani	west2376	the divorce	DIVORCE	1134		mukáši	mukáši 
+98	9-2-35-1	75101356606122803	Selice Romani	west2376	the father	FATHER	1217		dad	dad 
+99	9-2-35-2	7724103867219884	Selice Romani	west2376	the father	FATHER	1217		tata	tata 
+100	9-2-36-1	75101356553696838	Selice Romani	west2376	the mother	MOTHER	1216		daj	daj 
+101	9-2-36-2	77241037814503960	Selice Romani	west2376	the mother	MOTHER	1216		mama	mama 
+102	9-2-37-1	75101356587291958	Selice Romani	west2376	the parents	PARENTS	505		daj (taj) dad	daj (taj) dad 
+103	9-2-37-2	7715955270126907	Selice Romani	west2376	the parents	PARENTS	505		silei, sülei	silei 
+104	9-2-37-3	7715955270126907	Selice Romani	west2376	the parents	PARENTS	505		silei, sülei	sülei 
+105	9-2-38-1	75101356212982750	Selice Romani	west2376	the married man	MARRIED MAN	424		rom	rom 
+106	9-2-39-1	7510135670971441	Selice Romani	west2376	the married woman	MARRIED WOMAN	426		romni	romni 
+107	9-2-41-1	75101356247491461	Selice Romani	west2376	the son	SON	1620		čhá	čhá 
+108	9-2-42-1	75101356707363229	Selice Romani	west2376	the daughter	DAUGHTER	1357		čhaj	čhaj 
+109	9-3-662-1	7510135657577101	Selice Romani	west2376	the porpoise or dolphin	DOLPHIN	1479		delfíno	delfíno 
+110	9-2-43-1	75101356247491461	Selice Romani	west2376	the child(2)	CHILD (DESCENDANT)	1801		čhá	čhá 
+111	9-2-44-1	75101356418274544	Selice Romani	west2376	the brother	BROTHER	1262		pral	pral 
+112	9-2-45-1	75101356772738222	Selice Romani	west2376	the sister	SISTER	1263		phen	phen 
+113	9-2-456-1	7510135613881326	Selice Romani	west2376	the sibling	SIBLING	1640		prala pheňa	prala pheňa 
+114	9-2-456-2	75101356395254319	Selice Romani	west2376	the sibling	SIBLING	1640		teštvírno	teštvírno 
+115	9-2-458-1	75101356218532359	Selice Romani	west2376	the twins	TWINS	1005		kettéšno	kettéšno 
+116	9-2-46-1	75101356850552468	Selice Romani	west2376	the grandfather	GRANDFATHER	1383		papu	papu 
+117	9-2-461-1	7510135675342231	Selice Romani	west2376	the old man	OLD MAN	406		phúro (2)	phúro (2) 
+118	9-2-47-1	7510135680832714	Selice Romani	west2376	the grandmother	GRANDMOTHER	1496		baba	baba 
+119	9-2-471-1	75101356996565532	Selice Romani	west2376	the old woman	OLD WOMAN	907		phúri	phúri 
+120	9-2-48-1	75101356224784386	Selice Romani	west2376	the grandson	GRANDSON	1618		onoka (1)	onoka (1) 
+121	9-2-49-1	75101356267752636	Selice Romani	west2376	the granddaughter	GRANDDAUGHTER	1619		onoka (2)	onoka (2) 
+122	9-2-511-1	75101356744638429	Selice Romani	west2376	the mother's brother	MOTHER'S BROTHER	1984		dakero pral	dakero pral 
+123	9-2-512-1	75101356669324701	Selice Romani	west2376	the father's brother	FATHER'S BROTHER	1985		dadeskero pral	dadeskero pral 
+124	9-2-521-1	75101356830735529	Selice Romani	west2376	the mother's sister	MOTHER'S SISTER	171		dakeri phen	dakeri phen 
+125	9-2-522-1	75101356948854195	Selice Romani	west2376	the father's sister	FATHER'S SISTER	170		dadeskeri phen	dadeskeri phen 
+126	9-2-53-1	75101356309670220	Selice Romani	west2376	the nephew	NEPHEW	1063		praleskero čhá	praleskero čhá 
+127	9-2-53-2	75101356750854419	Selice Romani	west2376	the nephew	NEPHEW	1063		pheňakero čhá	pheňakero čhá 
+128	9-2-54-1	75101356976538834	Selice Romani	west2376	the niece	NIECE	1642		praleskeri čhaj	praleskeri čhaj 
+129	9-2-54-2	75101356553712236	Selice Romani	west2376	the niece	NIECE	1642		pheňakeri čhaj	pheňakeri čhaj 
+130	9-2-55-1	75101356394868172	Selice Romani	west2376	the cousin	COUSIN	1643		onokateštvírno	onokateštvírno 
+131	9-2-55-2	751013564726748	Selice Romani	west2376	the cousin	COUSIN	1643		onokateštvíro	onokateštvíro 
+132	9-2-55-3	75101356199447799	Selice Romani	west2376	the cousin	COUSIN	1643		onokateštvírkiňa	onokateštvírkiňa 
+133	9-2-61-1	75101356447408803	Selice Romani	west2376	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		sástro	sástro 
+134	9-2-61-2	7510135686047659	Selice Romani	west2376	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		apóši	apóši 
+135	9-2-611-1	75101356447408803	Selice Romani	west2376	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		sástro	sástro 
+136	9-2-611-2	7510135686047659	Selice Romani	west2376	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		apóši	apóši 
+137	9-2-62-1	75101356953606665	Selice Romani	west2376	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		sasuj	sasuj 
+138	9-2-62-2	75101356625255265	Selice Romani	west2376	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		aňóša	aňóša 
+139	9-2-62-3	75101356672734274	Selice Romani	west2376	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		aňóškiňa	aňóškiňa 
+140	9-2-621-1	75101356953606665	Selice Romani	west2376	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		sasuj	sasuj 
+141	9-2-621-2	75101356625255265	Selice Romani	west2376	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		aňóša	aňóša 
+142	9-2-621-3	75101356672734274	Selice Romani	west2376	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		aňóškiňa	aňóškiňa 
+143	9-2-63-1	75101356970318836	Selice Romani	west2376	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		vėjo	vėjo 
+144	9-2-631-1	75101356970318836	Selice Romani	west2376	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		vėjo	vėjo 
+145	9-2-64-1	75101356473493148	Selice Romani	west2376	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		bóri	bóri 
+146	9-2-64-2	75101356632667471	Selice Romani	west2376	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		meňėčkė	meňėčkė 
+147	9-2-641-1	75101356473493148	Selice Romani	west2376	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		bóri	bóri 
+148	9-2-641-2	75101356632667471	Selice Romani	west2376	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		meňėčkė	meňėčkė 
+149	9-2-71-1	75101356764710056	Selice Romani	west2376	the stepfather	STEPFATHER	237		moštóno dad	moštóno dad 
+150	9-2-72-1	75101356784620101	Selice Romani	west2376	the stepmother	STEPMOTHER	236		moštóni daj	moštóni daj 
+151	9-2-73-1	7510135627790614	Selice Romani	west2376	the stepson	STEPSON	1059		moštóno čhá	moštóno čhá 
+152	9-2-74-1	75101356431514694	Selice Romani	west2376	the stepdaughter	STEPDAUGHTER	1058		moštóni čhaj	moštóni čhaj 
+153	9-2-75-1	75101356176865894	Selice Romani	west2376	the orphan	ORPHAN	1149		árvasto	árvasto 
+154	9-2-76-1	75101356307082428	Selice Romani	west2376	the widow	WIDOW	1756		phivli džuvli	phivli džuvli 
+155	9-2-76-2	75101356280011835	Selice Romani	west2376	the widow	WIDOW	1756		özvėdni	özvėdni 
+156	9-2-76-3	75101356453131511	Selice Romani	west2376	the widow	WIDOW	1756		özvėdni džuvli	özvėdni džuvli 
+157	9-2-77-1	7510135660743885	Selice Romani	west2376	the widower	WIDOWER	1981		özvėdno	özvėdno 
+158	9-2-77-2	75101356758723079	Selice Romani	west2376	the widower	WIDOWER	1981		özvėdno murš	özvėdno murš 
+159	9-2-81-1	75101356528685527	Selice Romani	west2376	the relatives	RELATIVES	1644		rokoňi	rokoňi 
+160	9-2-81-2	75101356758807611	Selice Romani	west2376	the relatives	RELATIVES	1644		rokoňšágo	rokoňšágo 
+161	9-2-82-1	75101356933330235	Selice Romani	west2376	the family	FAMILY	194		čaládo	čaládo 
+162	9-2-91-1	75101356197175246	Selice Romani	west2376	I	I	1209		me	me 
+163	9-2-92-1	75101356277179227	Selice Romani	west2376	you (singular)	THOU	1215		tu	tu 
+164	9-2-94-1	75101356546502682	Selice Romani	west2376	we	WE	1212		amen	amen 
+165	9-2-95-1	75101356710359613	Selice Romani	west2376	you (plural)	YOU	1213		tumen	tumen 
+166	9-2-96-1	7510135640424634	Selice Romani	west2376	they	THEY	817		ón	ón 
+167	9-3-11-1	75101356414367121	Selice Romani	west2376	the animal	ANIMAL	619		áloto	áloto 
+168	9-3-12-1	75101356542357172	Selice Romani	west2376	male(2)	MALE (OF PERSON)	2261		muršikáno	muršikáno 
+169	9-3-13-1	7510135638680135	Selice Romani	west2376	female(2)	FEMALE (OF ANIMAL)	2262		džuvlikáno	džuvlikáno 
+170	9-3-15-1	75101356414367121	Selice Romani	west2376	the livestock	LIVESTOCK	631		áloto	áloto 
+171	9-3-16-1	75101356969914417	Selice Romani	west2376	the pasture	PASTURE	649		lėgėló	lėgėló 
+172	9-3-19-1	75101356665987363	Selice Romani	west2376	the stable or stall	STABLE	851		ištálló, ištállóva, ištálla	ištálló 
+173	9-3-19-2	75101356665987363	Selice Romani	west2376	the stable or stall	STABLE	851		ištálló, ištállóva, ištálla	ištállóva 
+174	9-3-19-3	75101356665987363	Selice Romani	west2376	the stable or stall	STABLE	851		ištálló, ištállóva, ištálla	ištálla 
+175	9-3-21-1	75101356679939992	Selice Romani	west2376	the bull	BULL	1008		bika	bika 
+176	9-3-22-1	75101356679939992	Selice Romani	west2376	the ox	OX	1169		bika	bika 
+177	9-3-23-1	75101356674595424	Selice Romani	west2376	the cow	COW	1007		gurumni	gurumni 
+178	9-3-24-1	75101356884547750	Selice Romani	west2376	the calf	CALF	1989		borjúko	borjúko 
+179	9-3-25-1	75101356509971713	Selice Romani	west2376	the sheep	SHEEP	1331		bakro	bakro 
+180	9-3-29-1	75101356991915481	Selice Romani	west2376	the lamb	LAMB	820		báránka	báránka 
+181	9-3-32-1	75101356163107885	Selice Romani	west2376	the boar	BOAR	1348		kano	kano 
+182	9-3-32-2	75101356658494505	Selice Romani	west2376	the boar	BOAR	1348		vadno bálo	vadno bálo 
+183	9-3-35-1	7510135656411788	Selice Romani	west2376	the pig	PIG	1337		bálo	bálo 
+184	9-3-35-2	75101356990814977	Selice Romani	west2376	the pig	PIG	1337		baličho	baličho 
+185	9-3-36-1	75101356175218406	Selice Romani	west2376	the goat	GOAT	1502		kėčkė, kėčka	kėčkė 
+186	9-3-36-2	75101356175218406	Selice Romani	west2376	the goat	GOAT	1502		kėčkė, kėčka	kėčka 
+187	9-3-41-1	75101356117360512	Selice Romani	west2376	the horse	HORSE	615		gra	gra 
+188	9-3-42-1	75101356173182602	Selice Romani	west2376	the stallion	STALLION	936		čéderi	čéderi 
+189	9-3-45-1	75101356162903940	Selice Romani	west2376	the foal or colt	FOAL	1647		čikó	čikó 
+190	9-3-46-1	75101356948600967	Selice Romani	west2376	the donkey	DONKEY	1862		samara	samara 
+191	9-3-52-1	7510135659740471	Selice Romani	west2376	the cock/rooster	ROOSTER	1511		kokaši	kokaši 
+192	9-3-54-1	75101356616193372	Selice Romani	west2376	the hen	HEN	1514		kaňhi	kaňhi 
+193	9-3-55-1	75101356143849988	Selice Romani	west2376	the chicken	CHICKEN	1318		čibóka	čibóka 
+194	9-3-56-1	75101356754042616	Selice Romani	west2376	the goose	GOOSE	1187		papiň	papiň 
+195	9-3-57-1	75101356841686968	Selice Romani	west2376	the duck	DUCK	1360		káča	káča 
+196	9-3-58-1	7510135628256332	Selice Romani	west2376	the nest	NEST	539		ficko	ficko 
+197	9-3-581-1	75101356923630157	Selice Romani	west2376	the bird	BIRD	937		čirikli	čirikli 
+198	9-3-591-1	75101356906369541	Selice Romani	west2376	the bat	BAT	1793		bérmadara	bérmadara 
+199	9-3-592-1	75101356593270011	Selice Romani	west2376	the parrot	PARROT	882		papagáji	papagáji 
+200	9-3-593-1	75101356714684152	Selice Romani	west2376	the crow	CROW	913		varjú	varjú 
+201	9-3-593-2	7510135684571710	Selice Romani	west2376	the crow	CROW	913		varjúka	varjúka 
+202	9-3-594-1	75101356866553222	Selice Romani	west2376	the dove	DOVE	1853		galamba	galamba 
+203	9-3-596-1	75101356510599827	Selice Romani	west2376	the owl	OWL	735		čuviko	čuviko 
+204	9-3-61-1	7510135690423696	Selice Romani	west2376	the dog	DOG	2009		džukel	džukel 
+205	9-3-614-1	7510135686251607	Selice Romani	west2376	the rabbit	RABBIT	1136		šošoj	šošoj 
+206	9-3-62-1	75101356616763154	Selice Romani	west2376	the cat	CAT	1208		mačka (1)	mačka (1) 
+207	9-3-63-1	75101356140953409	Selice Romani	west2376	the mouse or rat	MUROID (MOUSE OR RAT)	2139		pociko	pociko 
+208	9-3-63-2	75101356378339439	Selice Romani	west2376	the mouse or rat	MUROID (MOUSE OR RAT)	2139		patkáňi	patkáňi 
+209	9-3-65-1	75101356100092620	Selice Romani	west2376	the fish	FISH	227		máčho	máčho 
+210	9-3-653-1	75101356892583826	Selice Romani	west2376	the scale	SCALE	266		haja	haja 
+211	9-3-655-1	75101356589905528	Selice Romani	west2376	the shell	SHELL	598		čiga	čiga 
+212	9-3-661-1	75101356797334355	Selice Romani	west2376	the shark	SHARK	1110		žraloko	žraloko 
+213	9-3-663-1	75101356381718065	Selice Romani	west2376	the whale	WHALE	957		velriba	velriba 
+214	9-3-665-1	75101356861812838	Selice Romani	west2376	the freshwater eel	FRESHWATER EEL	1013		úhori	úhori 
+215	9-3-665-2	75101356766533980	Selice Romani	west2376	the freshwater eel	FRESHWATER EEL	1013		kijócko máčho	kijócko máčho 
+216	9-3-71-1	75101356920290603	Selice Romani	west2376	the wolf	WOLF	522		farkaši	farkaši 
+217	9-3-72-1	75101356776809421	Selice Romani	west2376	the lion	LION	1386		orosláňa	orosláňa 
+218	9-3-73-1	75101356894357966	Selice Romani	west2376	the bear	BEAR	1820		mėdvė, mėdva	mėdvė 
+219	9-3-73-2	75101356894357966	Selice Romani	west2376	the bear	BEAR	1820		mėdvė, mėdva	mėdva 
+220	9-3-74-1	7510135694109606	Selice Romani	west2376	the fox	FOX	1312		róka	róka 
+221	9-3-75-1	7510135650444114	Selice Romani	west2376	the deer	DEER	1936		sarvaši	sarvaši 
+222	9-3-76-1	75101356306354047	Selice Romani	west2376	the monkey	MONKEY	1350		majmo	majmo 
+223	9-3-77-1	75101356132323688	Selice Romani	west2376	the elephant	ELEPHANT	1290		elefanto	elefanto 
+224	9-3-78-1	75101356386174802	Selice Romani	west2376	the camel	CAMEL	1871		púpoštėvė, púpoštėva	púpoštėvė 
+225	9-3-78-2	75101356386174802	Selice Romani	west2376	the camel	CAMEL	1871		púpoštėvė, púpoštėva	púpoštėva 
+226	9-3-81-1	75101356725261363	Selice Romani	west2376	the insect	INSECT	620		bugari	bugari 
+227	9-3-811-1	75101356361517561	Selice Romani	west2376	the head louse	HEAD LOUSE	310		džuv	džuv 
+228	9-3-812-1	7510135649248194	Selice Romani	west2376	the nit	NIT	267		likh	likh 
+229	9-3-813-1	75101356751771387	Selice Romani	west2376	the flea	FLEA	232		pišum	pišum 
+230	9-3-814-1	75101356659977102	Selice Romani	west2376	the centipede	CENTIPEDE	1974		šelprengeri patmačka	šelprengeri patmačka 
+231	9-3-815-1	75101356439711555	Selice Romani	west2376	the scorpion	SCORPION	1538		škorpióni	škorpióni 
+232	9-3-816-1	75101356624563166	Selice Romani	west2376	the cockroach	COCKROACH	1575		švábo	švábo 
+233	9-3-817-1	75101356444426469	Selice Romani	west2376	the ant	ANT	587		hanďa	hanďa 
+234	9-3-818-1	75101356364246450	Selice Romani	west2376	the spider	SPIDER	843		póko	póko 
+235	9-3-819-1	75101356669528822	Selice Romani	west2376	the spider web	SPIDER WEB	1065		pókháló	pókháló 
+236	9-3-82-1	75101356665269051	Selice Romani	west2376	the bee	BEE	665		míhėčkė, míhėčka	míhėčkė 
+237	9-3-82-2	75101356665269051	Selice Romani	west2376	the bee	BEE	665		míhėčkė, míhėčka	míhėčka 
+238	9-3-82-3	75101356821362194	Selice Romani	west2376	the bee	BEE	665		fullánka	fullánka 
+239	9-3-823-1	75101356756302278	Selice Romani	west2376	the wasp	WASP	1517		daráža	daráža 
+240	9-3-823-2	75101356821362194	Selice Romani	west2376	the wasp	WASP	1517		fullánka	fullánka 
+241	9-3-83-1	75101356158994495	Selice Romani	west2376	the fly	FLY (INSECT)	1504		máťhi, máťha	máťhi 
+242	9-3-83-2	75101356158994495	Selice Romani	west2376	the fly	FLY (INSECT)	1504		máťhi, máťha	máťha 
+243	9-3-832-1	75101356593045478	Selice Romani	west2376	the mosquito	MOSQUITO	1509		súňoga	súňoga 
+244	9-3-84-1	75101356526641908	Selice Romani	west2376	the worm	WORM	1219		ťirmo	ťirmo 
+245	9-3-85-1	751013565739624	Selice Romani	west2376	the snake	SNAKE	730		kijó	kijó 
+246	9-3-92-1	7510135658738918	Selice Romani	west2376	the butterfly	BUTTERFLY	1791		lėpkė	lėpkė 
+247	9-3-93-1	75101356402685682	Selice Romani	west2376	the grasshopper	GRASSHOPPER	607		tikno gra	tikno gra 
+248	9-3-94-1	75101356467006661	Selice Romani	west2376	the snail	SNAIL	1543		čigabiga	čigabiga 
+249	9-3-95-1	75101356327658062	Selice Romani	west2376	the frog	FROG	503		bíka	bíka 
+250	9-3-96-1	75101356168234775	Selice Romani	west2376	the lizard	LIZARD	632		ďíko	ďíko 
+251	9-3-97-1	75101356449096505	Selice Romani	west2376	the crocodile or alligator	CROCODILE	1857		krokodíli	krokodíli 
+252	9-3-98-1	75101356476423094	Selice Romani	west2376	the turtle	TURTLE	112		tėkňéšbíka	tėkňéšbíka 
+253	9-4-11-1	75101356123241416	Selice Romani	west2376	the body	BODY	1480		tėšto	tėšto 
+254	9-4-12-1	75101356763679338	Selice Romani	west2376	the skin or hide	SKIN	763		cipa	cipa 
+255	9-4-13-1	75101356900141300	Selice Romani	west2376	the flesh	FLESH	2259		mas	mas 
+256	9-4-14-1	75101356937411805	Selice Romani	west2376	the hair	HAIR (HEAD)	2648		bal	bal 
+257	9-4-14-2	75101356743644633	Selice Romani	west2376	the hair	HAIR (HEAD)	2648		hajsálo	hajsálo 
+258	9-4-142-1	75101356498104861	Selice Romani	west2376	the beard	BEARD	678		sakálla	sakálla 
+259	9-4-144-1	75101356394929153	Selice Romani	west2376	the body hair	HAIR (BODY)	189		zár	zár 
+260	9-4-145-1	75101356394929153	Selice Romani	west2376	the pubic hair	PUBIC HAIR	36		zár	zár 
+261	9-4-146-1	75101356922947683	Selice Romani	west2376	the dandruff	DANDRUFF	576		korpa	korpa 
+262	9-4-15-1	75101356285225644	Selice Romani	west2376	the blood	BLOOD	946		rat (1)	rat (1) 
+263	9-4-151-1	75101356388948014	Selice Romani	west2376	the vein or artery	BLOOD VESSEL	525		era	era 
+264	9-4-151-2	781133397113226	Selice Romani	west2376	the vein or artery	BLOOD VESSEL	525		žila	žila 
+265	9-4-16-1	75101356319446312	Selice Romani	west2376	the bone	BONE	1394		kokal	kokal 
+266	9-4-162-1	75101356350556279	Selice Romani	west2376	the rib	RIB	801		pašváro	pašváro 
+267	9-4-162-2	75101356478811421	Selice Romani	west2376	the rib	RIB	801		ódalbordo	ódalbordo 
+268	9-4-17-1	75101356356693439	Selice Romani	west2376	the horn	HORN (ANATOMY)	1393		sarva	sarva 
+269	9-4-18-1	7510135639246550	Selice Romani	west2376	the tail	TAIL	1220		farka	farka 
+270	9-4-19-1	75101356481532423	Selice Romani	west2376	the back	BACK	1291		dumo	dumo 
+271	9-4-191-1	75101356991044921	Selice Romani	west2376	the spine	SPINE	805		hátgerinci	hátgerinci 
+272	9-4-2-1	75101356862048921	Selice Romani	west2376	the head	HEAD	1256		šéro	šéro 
+273	9-4-201-1	75101356286643543	Selice Romani	west2376	the temples	TEMPLES	1604		halántíko	halántíko 
+274	9-4-202-1	75101356884618542	Selice Romani	west2376	the skull	SKULL	1605		kopoňa	kopoňa 
+275	9-4-203-1	75101356835429171	Selice Romani	west2376	the brain	BRAIN	1583		gódi	gódi 
+276	9-4-204-1	75101356506411647	Selice Romani	west2376	the face	FACE	1560		muj	muj 
+277	9-4-205-1	75101356154529689	Selice Romani	west2376	the forehead	FOREHEAD	123		čekat	čekat 
+278	9-4-207-1	75101356544083906	Selice Romani	west2376	the jaw	JAW	798		állarckapča	állarckapča 
+279	9-4-208-1	75101356888458575	Selice Romani	west2376	the cheek	CHEEK	1730		čham	čham 
+280	9-4-209-1	75101356305244234	Selice Romani	west2376	the chin	CHIN	1510		álla	álla 
+281	9-4-21-1	75101356332392478	Selice Romani	west2376	the eye	EYE	1248		jakh	jakh 
+282	9-4-212-1	7510135625168421	Selice Romani	west2376	the eyebrow	EYEBROW	1173		cimbla	cimbla 
+283	9-4-212-2	7812025560724667	Selice Romani	west2376	the eyebrow	EYEBROW	1173		semeldeko	semeldeko 
+284	9-4-213-1	7812025560724667	Selice Romani	west2376	the eyelid	EYELID	17		semeldeko	semeldeko 
+285	9-4-214-1	75101356236544229	Selice Romani	west2376	the eyelash	EYELASH	1540		sempilla	sempilla 
+286	9-4-215-1	75101356392667653	Selice Romani	west2376	to blink	BLINK	1655		pillogatinen	pillogatinen 
+287	9-4-215-2	75101356164740932	Selice Romani	west2376	to blink	BLINK	1655		kačingatinen	kačingatinen 
+288	9-4-22-1	75101356437972475	Selice Romani	west2376	the ear	EAR	1247		kan	kan 
+289	9-4-222-1	75101356237055579	Selice Romani	west2376	the earwax	EARWAX	32		kanengere khula	kanengere khula 
+290	9-4-23-1	75101356917915898	Selice Romani	west2376	the nose	NOSE	1221		nakh	nakh 
+291	9-4-231-1	75101356873939206	Selice Romani	west2376	the nostril	NOSTRIL	1178		turňa	turňa 
+292	9-4-232-1	75101356299994022	Selice Romani	west2376	the nasal mucus	NASAL MUCUS (SNOT)	208		lim	lim 
+293	9-4-24-1	75101356506411647	Selice Romani	west2376	the mouth	MOUTH	674		muj	muj 
+294	9-4-241-1	75101356917915898	Selice Romani	west2376	the beak	BEAK	73		nakh	nakh 
+295	9-4-25-1	7510135628590049	Selice Romani	west2376	the lip	LIP	478		vošt	vošt 
+296	9-4-26-1	75101356736215894	Selice Romani	west2376	the tongue	TONGUE	1205		čhib	čhib 
+297	9-4-27-1	75101356981964023	Selice Romani	west2376	the tooth	TOOTH	1380		dand	dand 
+298	9-4-271-1	75101356841405528	Selice Romani	west2376	the gums	GUMS	139		íňa	íňa 
+299	9-4-28-1	75101356709483684	Selice Romani	west2376	the neck	NECK	1333		men	men 
+300	9-4-281-1	75101356958953515	Selice Romani	west2376	the nape of the neck	NAPE (OF NECK)	1347		ňakačiga, ňakčiga	ňakačiga 
+301	9-4-281-2	75101356958953515	Selice Romani	west2376	the nape of the neck	NAPE (OF NECK)	1347		ňakačiga, ňakčiga	ňakčiga 
+302	9-4-29-1	75101356404559916	Selice Romani	west2376	the throat	THROAT	1346		kello	kello 
+303	9-4-29-2	75101356226647339	Selice Romani	west2376	the throat	THROAT	1346		gerkáňi	gerkáňi 
+304	9-4-3-1	75101356935476649	Selice Romani	west2376	the shoulder	SHOULDER	1482		vállo	vállo 
+305	9-4-301-1	75101356296306177	Selice Romani	west2376	the shoulderblade	SHOULDERBLADE	172		lapocka	lapocka 
+306	9-4-31-1	75101356561093480	Selice Romani	west2376	the arm	ARM	1673		va	va 
+307	9-4-31-2	75101356232123365	Selice Romani	west2376	the arm	ARM	1673		músi	músi 
+308	9-4-312-1	75101356925655838	Selice Romani	west2376	the armpit	ARMPIT	1886		khak	khak 
+309	9-4-32-1	75101356815765767	Selice Romani	west2376	the elbow	ELBOW	981		keňeka	keňeka 
+310	9-4-321-1	75101356128784927	Selice Romani	west2376	the wrist	WRIST	799		čukló	čukló 
+311	9-4-33-1	75101356561093480	Selice Romani	west2376	the hand	HAND	1277		va	va 
+312	9-4-331-1	7510135650995798	Selice Romani	west2376	the palm of the hand	PALM OF HAND	1183		burňik	burňik 
+313	9-4-34-1	7510135657865523	Selice Romani	west2376	the finger	FINGER	1303		angušť	angušť 
+314	9-4-342-1	75101356452543039	Selice Romani	west2376	the thumb	THUMB	1781		phuro angušť	phuro angušť 
+315	9-4-344-1	75101356826179785	Selice Romani	west2376	the fingernail	FINGERNAIL	1258		naj	naj 
+316	9-4-345-1	75101356826179785	Selice Romani	west2376	the claw	CLAW	72		naj	naj 
+317	9-4-35-1	75101356849996973	Selice Romani	west2376	the leg	LEG	1297		pro	pro 
+318	9-4-351-1	75101356172383603	Selice Romani	west2376	the thigh	THIGH	800		čang	čang 
+319	9-4-351-2	75101356868491831	Selice Romani	west2376	the thigh	THIGH	800		combo	combo 
+320	9-4-36-1	75101356328302618	Selice Romani	west2376	the knee	KNEE	1371		térďa	térďa 
+321	9-4-37-1	75101356849996973	Selice Romani	west2376	the foot	FOOT	1301		pro	pro 
+322	9-4-371-1	75101356243768300	Selice Romani	west2376	the ankle	ANKLE	803		boka (1)	boka (1) 
+323	9-4-372-1	75101356705059467	Selice Romani	west2376	the heel	HEEL	980		šarka	šarka 
+324	9-4-374-1	75101356892180058	Selice Romani	west2376	the footprint	FOOTPRINT	318		ňoma	ňoma 
+325	9-4-374-2	7510135637762488	Selice Romani	west2376	the footprint	FOOTPRINT	318		lípíši	lípíši 
+326	9-4-38-1	7510135657865523	Selice Romani	west2376	the toe	TOE	1389		angušť	angušť 
+327	9-4-38-2	75101356360344149	Selice Romani	west2376	the toe	TOE	1389		paprečko	paprečko 
+328	9-4-392-1	75101356595395095	Selice Romani	west2376	the wing	WING	1257		sárňa	sárňa 
+329	9-4-393-1	75101356633328066	Selice Romani	west2376	the feather	FEATHER	1201		pór	pór 
+330	9-4-4-1	75101356122403303	Selice Romani	west2376	the chest	CHEST	1592		kolin	kolin 
+331	9-4-4-2	75101356374736008	Selice Romani	west2376	the chest	CHEST	1592		mello	mello 
+332	9-4-41-1	75101356302243544	Selice Romani	west2376	the breast	BREAST	1402		čúči	čúči 
+333	9-4-412-1	75101356302243544	Selice Romani	west2376	the nipple or teat	NIPPLE	796		čúči	čúči 
+334	9-4-412-2	75101356726086845	Selice Romani	west2376	the nipple or teat	NIPPLE	796		čuččengero semo	čuččengero semo 
+335	9-4-42-1	75101356302243544	Selice Romani	west2376	the udder	UDDER	154		čúči	čúči 
+336	9-4-43-1	75101356146161107	Selice Romani	west2376	the navel	NAVEL	1838		puppa	puppa 
+337	9-4-44-1	75101356107319665	Selice Romani	west2376	the heart	HEART	1223		jílo	jílo 
+338	9-4-441-1	75101356950550104	Selice Romani	west2376	the lung	LUNG	688		tidó	tidó 
+339	9-4-45-1	75101356841315859	Selice Romani	west2376	the liver	LIVER	1224		búko	búko 
+340	9-4-45-2	75101356439256002	Selice Romani	west2376	the liver	LIVER	1224		májo	májo 
+341	9-4-451-1	75101356248726903	Selice Romani	west2376	the kidney	KIDNEY	489		vešó	vešó 
+342	9-4-452-1	75101356925854332	Selice Romani	west2376	the spleen	SPLEEN	1744		sléžinka, slíženka	sléžinka 
+343	9-4-452-2	75101356925854332	Selice Romani	west2376	the spleen	SPLEEN	1744		sléžinka, slíženka	slíženka 
+344	9-4-46-1	75101356125441599	Selice Romani	west2376	the stomach	STOMACH	819		ďomra	ďomra 
+345	9-4-461-1	75101356464233082	Selice Romani	west2376	the intestines or guts	INTESTINES	1991		gój	gój 
+346	9-4-462-1	75101356716966027	Selice Romani	west2376	the waist	WAIST	1681		derko	derko 
+347	9-4-463-1	75101356480680794	Selice Romani	west2376	the hip	HIP	1745		boka (2)	boka (2) 
+348	9-4-463-2	75101356405357236	Selice Romani	west2376	the hip	HIP	1745		forgó (2)	forgó (2) 
+349	9-4-463-3	75101356580305025	Selice Romani	west2376	the hip	HIP	1745		forgókokal	forgókokal 
+350	9-4-464-1	75101356420686905	Selice Romani	west2376	the buttocks	BUTTOCKS	834		bul	bul 
+351	9-4-47-1	75101356195422654	Selice Romani	west2376	the womb	WOMB	804		míha	míha 
+352	9-4-49-1	75101356642045976	Selice Romani	west2376	the testicles	TESTICLES	797		péle	péle 
+353	9-4-492-1	75101356678965796	Selice Romani	west2376	the penis	PENIS	1222		kár	kár 
+354	9-4-51-1	75101356212050862	Selice Romani	west2376	to breathe	BREATHE	1407		lílegzinen	lílegzinen 
+355	9-4-52-1	75101356201017942	Selice Romani	west2376	to yawn	YAWN	1028		ášítozinen	ášítozinen 
+356	9-4-521-1	75101356713836663	Selice Romani	west2376	to hiccough	HICCOUGH	162		čuklinen	čuklinen 
+357	9-4-53-1	75101356243975577	Selice Romani	west2376	to cough	COUGH	879		kėhėginen	kėhėginen 
+358	9-4-54-1	75101356893364888	Selice Romani	west2376	to sneeze	SNEEZE	1621		triskinen	triskinen 
+359	9-4-55-1	75101356600610700	Selice Romani	west2376	to perspire	SWEAT (PERSPIRE)	126		iddzadinen	iddzadinen 
+360	9-4-56-1	75101356177009136	Selice Romani	west2376	to spit	SPIT	1440		čhungeren	čhungeren 
+361	9-4-57-1	75101356274092806	Selice Romani	west2376	to vomit	VOMIT	1278		čhanden	čhanden 
+362	9-4-58-1	75101356307557909	Selice Romani	west2376	to bite	BITE	1403		danderen	danderen 
+363	9-4-59-1	75101356168532085	Selice Romani	west2376	to lick	LICK	319		čáren	čáren 
+364	9-4-59-2	7520212696280152	Selice Romani	west2376	to lick	LICK	319		ňálozinen	ňálozinen 
+365	9-4-591-1	7510135667360318	Selice Romani	west2376	to dribble	DRIBBLE	268		ňáli čujon	ňáli čujon 
+366	9-4-61-1	75101356264787703	Selice Romani	west2376	to sleep	SLEEP	1585		soven	soven 
+367	9-4-612-1	75101356306271417	Selice Romani	west2376	to snore	SNORE	1983		horšoginen	horšoginen 
+368	9-4-62-1	75101356835285908	Selice Romani	west2376	to dream	DREAM (SOMETHING)	1920		dikhen súno	dikhen súno 
+369	9-4-63-1	75101356881924350	Selice Romani	west2376	to wake up	WAKE UP	1602		ušťen	ušťen 
+370	9-4-64-1	75101356539348956	Selice Romani	west2376	to fart	FART	1159		khaňaren	khaňaren 
+371	9-4-64-2	77241636425063288	Selice Romani	west2376	to fart	FART	1159		khaň	khaň 
+372	9-4-65-1	75101356611565181	Selice Romani	west2376	to piss	PISS	592		mutren	mutren 
+373	9-4-66-1	75101356528079647	Selice Romani	west2376	to shit	SHIT (DEFECATE)	676		hijen	hijen 
+374	9-4-67-1	7510135616604338	Selice Romani	west2376	to have sex	HAVE SEX	1785		kúren	kúren 
+375	9-4-67-2	75101356264787703	Selice Romani	west2376	to have sex	HAVE SEX	1785		soven	soven 
+376	9-4-68-1	75101356163776351	Selice Romani	west2376	to shiver	SHIVER	52		rezdaven pe/pumen	rezdaven pe 
+377	9-4-68-2	75101356163776351	Selice Romani	west2376	to shiver	SHIVER	52		rezdaven pe/pumen	pumen 
+378	9-4-68-3	75101356950340812	Selice Romani	west2376	to shiver	SHIVER	52		rezdan	rezdan 
+379	9-4-68-4	7510135653864885	Selice Romani	west2376	to shiver	SHIVER	52		tresinen pe/pumen	tresinen pe 
+380	9-4-68-5	7510135653864885	Selice Romani	west2376	to shiver	SHIVER	52		tresinen pe/pumen	pumen 
+381	9-4-69-1	75101356373090522	Selice Romani	west2376	to bathe	BATHE	138		firdinen	firdinen 
+382	9-4-69-2	75101356145213780	Selice Romani	west2376	to bathe	BATHE	138		firistinen	firistinen 
+383	9-4-72-1	7510135657386304	Selice Romani	west2376	to be born	BE BORN	1090		oven (1)	oven (1) 
+384	9-4-73-1	75101356962744441	Selice Romani	west2376	pregnant	PREGNANT	1123		khamno	khamno 
+385	9-4-732-1	7510135632268574	Selice Romani	west2376	to conceive	CONCEIVE	1087		peren khamni	peren khamni 
+386	9-4-74-1	75101356403683407	Selice Romani	west2376	to be alive	BE ALIVE	1422		dživen	dživen 
+387	9-4-75-1	75101356558760775	Selice Romani	west2376	to die	DIE	1494		meren	meren 
+388	9-4-75-2	7714178381053928	Selice Romani	west2376	to die	DIE	1494		murdajon	murdajon 
+389	9-4-751-1	75101356801684773	Selice Romani	west2376	to drown	DROWN	1904		tasson	tasson 
+390	9-4-76-1	75101356710483806	Selice Romani	west2376	to kill	KILL	1417		murdaren	murdaren 
+391	9-4-76-2	781211220797687	Selice Romani	west2376	to kill	KILL	1417		ďilkolinen	ďilkolinen 
+392	9-4-77-1	7618351786214025	Selice Romani	west2376	the corpse	CORPSE	767		múlo (2)	múlo (2) 
+393	9-4-78-1	75101356291047502	Selice Romani	west2376	to bury	BURY	1719		tėmėtinen	tėmėtinen 
+394	9-4-79-1	75101356237866604	Selice Romani	west2376	the grave	GRAVE	1773		šíra	šíra 
+395	9-4-81-1	75101356857724385	Selice Romani	west2376	strong	STRONG	785		zorálo	zorálo 
+396	9-4-82-1	75101356152836608	Selice Romani	west2376	weak	WEAK	1601		ďengavo	ďengavo 
+397	9-4-83-1	75101356421008906	Selice Romani	west2376	healthy	HEALTHY	1364		sásto	sásto 
+398	9-4-84-1	7510135683240830	Selice Romani	west2376	sick/ill	SICK	1847		nasválo	nasválo 
+399	9-4-841-1	75101356167279662	Selice Romani	west2376	the fever	FEVER	1534		lázo	lázo 
+400	9-4-843-1	75101356892850572	Selice Romani	west2376	the cold	COMMON COLD (DISEASE)	102		nátha	nátha 
+401	9-4-85-1	75101356352104518	Selice Romani	west2376	the wound or sore	WOUND	1109		šėbo	šėbo 
+402	9-4-85-2	75101356973261582	Selice Romani	west2376	the wound or sore	WOUND	1109		bėlešėto	bėlešėto 
+403	9-4-852-1	75101356132231257	Selice Romani	west2376	the bruise	BRUISE	1148		kíknipe	kíknipe 
+404	9-4-853-1	75101356195928076	Selice Romani	west2376	the swelling	SWELLING	1903		šulipe	šulipe 
+405	9-4-854-1	75101356900704489	Selice Romani	west2376	the itch	ITCH	148		handžibe	handžibe 
+406	9-4-855-1	75101356624250041	Selice Romani	west2376	the blister	BLISTER	1584		hólaga	hólaga 
+407	9-4-856-1	75101356603691226	Selice Romani	west2376	the boil	BOIL (OF SKIN)	793		himló	himló 
+408	9-4-857-1	75101356428263589	Selice Romani	west2376	the pus	PUS	1808		geňňo	geňňo 
+409	9-4-858-1	75101356487063147	Selice Romani	west2376	the scar	SCAR	497		jėlo	jėlo 
+410	9-4-86-1	75101356711266639	Selice Romani	west2376	to cure	CURE	499		sasťaren	sasťaren 
+411	9-4-87-1	75101356221453908	Selice Romani	west2376	the physician	PHYSICIAN	597		orvoši	orvoši 
+412	9-4-88-1	75101356140101234	Selice Romani	west2376	the medicine	MEDICINE	1372		orvoššágo	orvoššágo 
+413	9-4-88-2	75101356517111592	Selice Romani	west2376	the medicine	MEDICINE	1372		ďócceri	ďócceri 
+414	9-4-89-1	75101356932832112	Selice Romani	west2376	the poison	POISON	655		mirgo	mirgo 
+415	9-4-91-1	75101356182976385	Selice Romani	west2376	tired	TIRED	1757		fárotno, fárutno	fárotno 
+416	9-4-91-2	75101356182976385	Selice Romani	west2376	tired	TIRED	1757		fárotno, fárutno	fárutno 
+417	9-4-912-1	75101356801558739	Selice Romani	west2376	to rest	REST	168		pihėlinen	pihėlinen 
+418	9-4-92-1	75101356357516010	Selice Romani	west2376	lazy	LAZY	1564		luštavo	luštavo 
+419	9-4-93-1	75101356756558092	Selice Romani	west2376	bald	BALD	1125		kopasno	kopasno 
+420	9-4-94-1	75101356811231430	Selice Romani	west2376	lame	LAME	320		bénavo	bénavo 
+421	9-4-94-2	75101356902290325	Selice Romani	west2376	lame	LAME	320		bango	bango 
+422	9-4-95-1	75101356685093929	Selice Romani	west2376	deaf	DEAF	996		kašuko	kašuko 
+423	9-4-96-1	75101356680186136	Selice Romani	west2376	mute	MUTE	1666		nímavo	nímavo 
+424	9-4-97-1	75101356574680484	Selice Romani	west2376	blind	BLIND	1653		koro	koro 
+425	9-4-98-1	75101356651596977	Selice Romani	west2376	drunk	DRUNK	1463		máto	máto 
+426	9-4-99-1	75101356919635647	Selice Romani	west2376	naked	NAKED	590		nango	nango 
+427	9-5-11-1	75101356690054877	Selice Romani	west2376	to eat	EAT	1336		han	han 
+428	9-5-12-1	75101356893438416	Selice Romani	west2376	the food	FOOD	256		hábe	hábe 
+429	9-5-121-1	751013565112327	Selice Romani	west2376	cooked	COOKED	269		tádo	tádo 
+430	9-5-122-1	75101356213177994	Selice Romani	west2376	raw	RAW	1959		jálo	jálo 
+431	9-5-123-1	75101356922070351	Selice Romani	west2376	ripe	RIPE	178		íretno	íretno 
+432	9-5-125-1	75101356184664828	Selice Romani	west2376	rotten	ROTTEN	1728		pošvatno	pošvatno 
+433	9-5-13-1	7510135644853915	Selice Romani	west2376	to drink	DRINK	1401		pijen	pijen 
+434	9-5-13-2	75101356663300282	Selice Romani	west2376	to drink	DRINK	1401		khapaven	khapaven 
+435	9-5-14-1	75101356329295820	Selice Romani	west2376	to be hungry	BE HUNGRY	1533		bokhajon	bokhajon 
+436	9-5-141-1	75101356731733043	Selice Romani	west2376	the famine	FAMINE	199		bokh	bokh 
+437	9-5-15-1	7510135627002386	Selice Romani	west2376	to be thirsty	THIRSTY	847		trušajon	trušajon 
+438	9-5-15-2	75101356904674082	Selice Romani	west2376	to be thirsty	THIRSTY	847		oven trušálo	oven trušálo 
+439	9-5-16-1	7510135644853915	Selice Romani	west2376	to suck	SUCK	1421		pijen	pijen 
+440	9-5-16-2	75101356260528596	Selice Romani	west2376	to suck	SUCK	1421		ciden	ciden 
+441	9-5-18-1	75101356267098193	Selice Romani	west2376	to chew	CHEW	321		ráginen	ráginen 
+442	9-5-18-2	75101356272834024	Selice Romani	west2376	to chew	CHEW	321		žuvačkázinen	žuvačkázinen 
+443	9-5-181-1	75101356890491943	Selice Romani	west2376	to swallow	SWALLOW	897		nakhaven	nakhaven 
+444	9-5-19-1	75101356117611523	Selice Romani	west2376	to choke	CHOKE	129		tasaven	tasaven 
+445	9-5-19-2	75101356976687496	Selice Romani	west2376	to choke	CHOKE	129		tassaren	tassaren 
+446	9-5-21-1	7510135645667354	Selice Romani	west2376	to cook	COOK (SOMETHING)	1100		táven	táven 
+447	9-5-22-1	75101356372764531	Selice Romani	west2376	to boil	BOIL (OF LIQUID)	792		kerďol	kerďol 
+448	9-5-23-1	75101356413196718	Selice Romani	west2376	to roast or fry	ROAST OR FRY	2146		peken	peken 
+449	9-5-24-1	75101356413196718	Selice Romani	west2376	to bake	BAKE	183		peken	peken 
+450	9-5-25-1	75101356141888042	Selice Romani	west2376	the oven	OVEN	1143		péťa	péťa 
+451	9-5-25-2	75101356463962676	Selice Romani	west2376	the oven	OVEN	1143		kėmėncė	kėmėncė 
+452	9-5-26-1	75101356310022867	Selice Romani	west2376	the pot	POT	1462		píri	píri 
+453	9-5-26-2	75101356597982176	Selice Romani	west2376	the pot	POT	1462		šėrpėňó, šėrpėňóva	šėrpėňó 
+454	9-5-26-3	75101356597982176	Selice Romani	west2376	the pot	POT	1462		šėrpėňó, šėrpėňóva	šėrpėňóva 
+455	9-5-27-1	75101356310022867	Selice Romani	west2376	the kettle	KETTLE	854		píri	píri 
+456	9-5-27-2	75101356682321716	Selice Romani	west2376	the kettle	KETTLE	854		kávéfézó	kávéfézó 
+457	9-5-28-1	75101356830864620	Selice Romani	west2376	the pan	PAN	31		palacinkašító	palacinkašító 
+458	9-5-31-1	75101356805883393	Selice Romani	west2376	the dish	DISH	481		čáro	čáro 
+459	9-5-32-1	75101356873814226	Selice Romani	west2376	the plate	PLATE	480		táňíri	táňíri 
+460	9-5-33-1	75101356805883393	Selice Romani	west2376	the bowl	BOWL	1530		čáro	čáro 
+461	9-5-34-1	75101356304784354	Selice Romani	west2376	the jug/pitcher	JUG	270		koršó	koršó 
+462	9-5-35-1	75101356752263634	Selice Romani	west2376	the cup	CUP	476		kúči	kúči 
+463	9-5-37-1	75101356567823440	Selice Romani	west2376	the spoon	SPOON	1378		roj	roj 
+464	9-5-38-1	75101356102745425	Selice Romani	west2376	the knife(1)	KNIFE (FOR EATING)	3210		čhúri	čhúri 
+465	9-5-39-1	75101356137744691	Selice Romani	west2376	the fork	FORK	1302		vella	vella 
+466	9-5-391-1	75101356178982728	Selice Romani	west2376	the tongs	TONGS	272		fogó	fogó 
+467	9-5-41-1	75101356893438416	Selice Romani	west2376	the meal	MEAL	1526		hábe	hábe 
+468	9-5-42-1	75101356145563202	Selice Romani	west2376	the breakfast	BREAKFAST	1322		reggeli	reggeli 
+469	9-5-43-1	75101356931309219	Selice Romani	west2376	the lunch	LUNCH	768		ebído	ebído 
+470	9-5-45-1	75101356623212309	Selice Romani	west2376	the supper	DINNER (SUPPER)	1833		vačora	vačora 
+471	9-5-46-1	7510135652348951	Selice Romani	west2376	to peel	PEEL	275		šužaren	šužaren 
+472	9-5-47-1	75101356708100357	Selice Romani	west2376	to sieve or to strain	SIEVE	86		sitálinen	sitálinen 
+473	9-5-47-2	75101356869473513	Selice Romani	west2376	to sieve or to strain	SIEVE	86		čujaren	čujaren 
+474	9-5-48-1	7510135652348951	Selice Romani	west2376	to scrape	SCRAPE	1767		šužaren	šužaren 
+475	9-5-48-2	751013564464241	Selice Romani	west2376	to scrape	SCRAPE	1767		pucolinen	pucolinen 
+476	9-5-49-1	75101356268757213	Selice Romani	west2376	to stir or to mix	MIX	2017		kėvėrinen	kėvėrinen 
+477	9-5-51-1	75101356601108936	Selice Romani	west2376	the bread	BREAD	1368		máro	máro 
+478	9-5-53-1	75101356189725488	Selice Romani	west2376	the dough	DOUGH	273		kovási	kovási 
+479	9-5-53-2	75272251420399956	Selice Romani	west2376	the dough	DOUGH	273		humer	humer 
+480	9-5-54-1	75101356489569410	Selice Romani	west2376	to knead	KNEAD	274		dagastinen	dagastinen 
+481	9-5-54-2	75101356247975233	Selice Romani	west2376	to knead	KNEAD	274		ďúrinen	ďúrinen 
+482	9-5-55-1	75101356377549820	Selice Romani	west2376	the flour	FLOUR	1594		járo	járo 
+483	9-5-56-1	75101356247975233	Selice Romani	west2376	to crush or to grind	GRIND	1033		ďúrinen	ďúrinen 
+484	9-5-56-2	75101356853753754	Selice Romani	west2376	to crush or to grind	GRIND	1033		phageren	phageren 
+485	9-5-56-3	75101356238453189	Selice Romani	west2376	to crush or to grind	GRIND	1033		élinen	élinen 
+486	9-5-57-1	75101356453991722	Selice Romani	west2376	the mill	MILL	636		mlíno	mlíno 
+487	9-5-61-1	75101356900141300	Selice Romani	west2376	the meat	MEAT	634		mas	mas 
+488	9-5-63-1	75101356464233082	Selice Romani	west2376	the sausage	SAUSAGE	1874		gój	gój 
+489	9-5-63-2	75101356508356916	Selice Romani	west2376	the sausage	SAUSAGE	1874		kóbáskiňa	kóbáskiňa 
+490	9-5-64-1	75101356321795648	Selice Romani	west2376	the soup	SOUP	1547		zumi	zumi 
+491	9-5-65-1	75101356837140078	Selice Romani	west2376	the vegetables	VEGETABLES	924		zéčígo	zéčígo 
+492	9-5-66-1	75101356840575582	Selice Romani	west2376	the bean	BEAN	832		babo	babo 
+493	9-5-7-1	75101356293604844	Selice Romani	west2376	the potato	POTATO	593		krumpja	krumpja 
+494	9-5-71-1	75101356184188733	Selice Romani	west2376	the fruit	FRUIT	1507		ďiméčo	ďiméčo 
+495	9-5-712-1	75101356931804213	Selice Romani	west2376	the bunch	BUNCH	1966		čomó	čomó 
+496	9-5-75-1	75101356571030408	Selice Romani	west2376	the fig	FIG	322		figa	figa 
+497	9-5-76-1	75101356791126190	Selice Romani	west2376	the grape	GRAPE	920		sélló, séllóva	sélló 
+498	9-5-76-2	75101356791126190	Selice Romani	west2376	the grape	GRAPE	920		sélló, séllóva	séllóva 
+499	9-5-77-1	75101356725520026	Selice Romani	west2376	the nut	NUT	191		ákhor	ákhor 
+500	9-5-78-1	75101356349563596	Selice Romani	west2376	the olive	OLIVE	1154		oliva	oliva 
+501	9-5-79-1	75101356479421396	Selice Romani	west2376	the oil	OIL (ORGANIC SUBSTANCE)	1484		olaji	olaji 
+502	9-5-791-1	75101356597862144	Selice Romani	west2376	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		čiken	čiken 
+503	9-5-81-1	75101356912144216	Selice Romani	west2376	the salt	SALT	1274		lon	lon 
+504	9-5-82-1	75101356758835251	Selice Romani	west2376	the pepper	PEPPER	1385		pepšo	pepšo 
+505	9-5-821-1	75101356317268211	Selice Romani	west2376	the chili pepper	CHILI PEPPER	919		paprika	paprika 
+506	9-5-84-1	75101356509918011	Selice Romani	west2376	the honey	HONEY	942		míza	míza 
+507	9-5-85-1	75101356761653120	Selice Romani	west2376	the sugar	SUGAR	862		cukro	cukro 
+508	9-5-86-1	75101356378556064	Selice Romani	west2376	the milk	MILK	635		thud	thud 
+509	9-5-87-1	75101356400666459	Selice Romani	west2376	to milk	DRAW MILK	93		pišen	pišen 
+510	9-5-88-1	75101356880629721	Selice Romani	west2376	the cheese	CHEESE	1569		šajto	šajto 
+511	9-5-88-2	75101356671286858	Selice Romani	west2376	the cheese	CHEESE	1569		ťiral	ťiral 
+512	9-5-89-1	7510135612122002	Selice Romani	west2376	the butter	BUTTER	1245		ťhil	ťhil 
+513	9-5-9-1	75101356804223222	Selice Romani	west2376	the drink	BEVERAGE	731		italo	italo 
+514	9-5-92-1	75101356803448649	Selice Romani	west2376	the wine	WINE	1524		mol (1)	mol (1) 
+515	9-5-93-1	75101356641808614	Selice Romani	west2376	the beer	BEER	1639		šero	šero 
+516	9-5-97-1	75101356943920909	Selice Romani	west2376	the egg	EGG	744		tojáši	tojáši 
+517	9-5-97-2	7510135613981156	Selice Romani	west2376	the egg	EGG	744		kaňhajáro	kaňhajáro 
+518	9-5-971-1	75101356240130239	Selice Romani	west2376	the yolk	YOLK	1556		žuto (2)	žuto (2) 
+519	9-6-11-1	75101356819526242	Selice Romani	west2376	to put on	PUT ON	158		urďen	urďen 
+520	9-6-12-1	77252327503733183	Selice Romani	west2376	the clothing or clothes	CLOTHES	1895		gáda	gáda 
+521	9-6-13-1	75101356919788717	Selice Romani	west2376	the tailor	TAILOR	881		sabó	sabó 
+522	9-6-13-2	75101356836327637	Selice Romani	west2376	the tailor	TAILOR	881		varó	varó 
+523	9-6-21-1	75101356639525861	Selice Romani	west2376	the cloth	CLOTH	1616		aňago	aňago 
+524	9-6-22-1	75101356188939520	Selice Romani	west2376	the wool	WOOL	964		ďapjúšno aňago	ďapjúšno aňago 
+525	9-6-22-2	75101356177326594	Selice Romani	west2376	the wool	WOOL	964		ďapjúaňago	ďapjúaňago 
+526	9-6-23-1	75101356300210398	Selice Romani	west2376	the linen	LINEN	916		vásoňi	vásoňi 
+527	9-6-24-1	75101356686600623	Selice Romani	west2376	the cotton	COTTON	1850		pamuko	pamuko 
+528	9-6-25-1	75101356288911260	Selice Romani	west2376	the silk	SILK	1641		šėjmo	šėjmo 
+529	9-6-28-1	75101356277365851	Selice Romani	west2376	the fur	FUR	580		bunda	bunda 
+530	9-6-29-1	75101356763679338	Selice Romani	west2376	the leather	LEATHER	629		cipa	cipa 
+531	9-6-33-1	75101356677759123	Selice Romani	west2376	to weave	WEAVE	133		ketinen	ketinen 
+532	9-6-35-1	75101356681828843	Selice Romani	west2376	to sew	SEW	1457		siven	siven 
+533	9-6-36-1	75101356617918891	Selice Romani	west2376	the needle(1)	NEEDLE (FOR SEWING)	1382		sú	sú 
+534	9-6-38-1	75101356722430611	Selice Romani	west2376	the thread	THREAD	1161		cérna	cérna 
+535	9-6-39-1	7510135659093413	Selice Romani	west2376	to dye	DYE	157		fėštinen	fėštinen 
+536	9-6-41-1	75101356225760903	Selice Romani	west2376	the cloak	CLOAK	326		palášťa	palášťa 
+537	9-6-411-1	75101356666759475	Selice Romani	west2376	the poncho	PONCHO	327		keppeňi	keppeňi 
+538	9-7-37-1	75101356533017508	Selice Romani	west2376	the ladder	LADDER	1464		létra	létra 
+539	9-6-42-1	77252327503733183	Selice Romani	west2376	the (woman's) dress	DRESS	474		gáda	gáda 
+540	9-6-43-1	75101356397896732	Selice Romani	west2376	the coat	COAT	603		kabáto	kabáto 
+541	9-6-44-1	75101356640948252	Selice Romani	west2376	the shirt	SHIRT	1622		gad	gad 
+542	9-6-45-1	75101356210173578	Selice Romani	west2376	the collar	COLLAR	2012		gallíra	gallíra 
+543	9-6-46-1	75101356846571575	Selice Romani	west2376	the skirt	SKIRT	1600		pasterni	pasterni 
+544	9-6-48-1	75101356113176218	Selice Romani	west2376	the trousers	TROUSERS	809		holev	holev 
+545	9-6-49-1	75101356526091519	Selice Romani	west2376	the sock or stocking	STOCKING	329		zokni	zokni 
+546	9-6-49-2	75101356417656368	Selice Romani	west2376	the sock or stocking	STOCKING	329		harišňa	harišňa 
+547	9-6-49-3	7710033441792638	Selice Romani	west2376	the sock or stocking	STOCKING	329		fusekla	fusekla 
+548	9-6-51-1	7510135698998720	Selice Romani	west2376	the shoe	SHOE	1381		topánka	topánka 
+549	9-6-51-2	75271133815775340	Selice Romani	west2376	the shoe	SHOE	1381		čuka	čuka 
+550	9-6-52-1	75101356624766423	Selice Romani	west2376	the boot	BOOT	585		ťirhaj	ťirhaj 
+551	9-6-54-1	75101356122554199	Selice Romani	west2376	the shoemaker	SHOEMAKER	875		šusteri	šusteri 
+552	9-6-55-1	75101356247352873	Selice Romani	west2376	the hat or cap	HEADGEAR	2130		kalapa	kalapa 
+553	9-6-55-2	75101356106879256	Selice Romani	west2376	the hat or cap	HEADGEAR	2130		šipka	šipka 
+554	9-6-57-1	75101356878716546	Selice Romani	west2376	the belt	BELT	772		síja	síja 
+555	9-6-58-1	75101356438807334	Selice Romani	west2376	the glove	GLOVE	867		kesťú, kesťúva	kesťú 
+556	9-6-58-2	75101356438807334	Selice Romani	west2376	the glove	GLOVE	867		kesťú, kesťúva	kesťúva 
+557	9-6-59-1	7510135692085800	Selice Romani	west2376	the veil	VEIL	1151		fáťuli	fáťuli 
+558	9-6-61-1	75101356514611754	Selice Romani	west2376	the pocket	POCKET	1851		posiťi	posiťi 
+559	9-6-62-1	75101356890731092	Selice Romani	west2376	the button	BUTTON	757		gombo	gombo 
+560	9-6-63-1	75101356637950857	Selice Romani	west2376	the pin	PIN	64		špendlíko	špendlíko 
+561	9-6-63-2	75101356438559669	Selice Romani	west2376	the pin	PIN	64		gembešťú	gembešťú 
+562	9-6-71-1	75101356705614940	Selice Romani	west2376	the ornament or adornment	ORNAMENT	917		díso	díso 
+563	9-6-72-1	75101356323813900	Selice Romani	west2376	the jewel	JEWEL	1029		šperko	šperko 
+564	9-6-73-1	75101356585084723	Selice Romani	west2376	the ring	RING	1374		angrusti	angrusti 
+565	9-6-74-1	75101356100314953	Selice Romani	west2376	the bracelet	BRACELET	1754		kėrpėlėcė, kėrpėlėca	kėrpėlėcė 
+566	9-6-74-2	75101356100314953	Selice Romani	west2376	the bracelet	BRACELET	1754		kėrpėlėcė, kėrpėlėca	kėrpėlėca 
+567	9-6-75-1	75101356263050641	Selice Romani	west2376	the necklace	NECKLACE	1961		lánco	lánco 
+568	9-6-76-1	7510135698603476	Selice Romani	west2376	the bead	BEAD	1860		mirikli	mirikli 
+569	9-6-76-2	7728131224734350	Selice Romani	west2376	the bead	BEAD	1860		ďenďo	ďenďo 
+570	9-6-77-1	75101356818073167	Selice Romani	west2376	the earring	EARRING	770		fingó, fingóva	fingó 
+571	9-6-77-2	75101356818073167	Selice Romani	west2376	the earring	EARRING	770		fingó, fingóva	fingóva 
+572	9-6-78-1	75101356275859763	Selice Romani	west2376	the headband or headdress	HEADBAND	330		čelenka	čelenka 
+573	9-6-79-1	751013569145657	Selice Romani	west2376	the tattoo	TATTOO	68		tetováláši	tetováláši 
+574	9-6-81-1	75101356525193935	Selice Romani	west2376	the handkerchief or rag	RAG	332		žepkendó	žepkendó 
+575	9-6-81-2	75101356363491887	Selice Romani	west2376	the handkerchief or rag	RAG	332		ronďo	ronďo 
+576	9-6-81-3	7718172326692540	Selice Romani	west2376	the handkerchief or rag	RAG	332		patavo	patavo 
+577	9-6-82-1	75101356192746034	Selice Romani	west2376	the towel	TOWEL	1021		teríkezó	teríkezó 
+578	9-6-91-1	75101356125077733	Selice Romani	west2376	the comb	COMB	1475		kángli	kángli 
+579	9-6-91-2	77271250838511015	Selice Romani	west2376	the comb	COMB	1475		hulaven	hulaven 
+580	9-6-92-1	75101356236957538	Selice Romani	west2376	the brush	BRUSH	1821		kėfė, kėfa	kėfė 
+581	9-6-92-2	75101356236957538	Selice Romani	west2376	the brush	BRUSH	1821		kėfė, kėfa	kėfa 
+582	9-6-921-1	75101356948798473	Selice Romani	west2376	the plait/braid	BRAID	1043		konťo	konťo 
+583	9-6-93-1	75101356870517150	Selice Romani	west2376	the razor	RAZOR	151		beretva	beretva 
+584	9-6-94-1	75101356184696938	Selice Romani	west2376	the ointment	OINTMENT	1926		kėnéčė	kėnéčė 
+585	9-6-95-1	75101356150154965	Selice Romani	west2376	the soap	SOAP	788		sapuňi	sapuňi 
+586	9-6-96-1	75101356110670512	Selice Romani	west2376	the mirror	MIRROR	1171		ďíkeri	ďíkeri 
+587	9-7-11-1	75101356194105727	Selice Romani	west2376	to live	DWELL (LIVE, RESIDE)	363		bešen	bešen 
+588	9-7-12-1	75101356595215600	Selice Romani	west2376	the house	HOUSE	1252		kher	kher 
+589	9-7-13-1	75101356733889181	Selice Romani	west2376	the hut	HUT	1678		guňhó, guňhóva	guňhó 
+590	9-7-13-2	75101356733889181	Selice Romani	west2376	the hut	HUT	1678		guňhó, guňhóva	guňhóva 
+591	9-7-14-1	75101356522241459	Selice Romani	west2376	the tent	TENT	1316		stano	stano 
+592	9-7-14-2	75101356116462570	Selice Romani	west2376	the tent	TENT	1316		šátori	šátori 
+593	9-7-15-1	75101356540619844	Selice Romani	west2376	the yard or court	YARD	736		udvara	udvara 
+594	9-7-17-1	75101356672899762	Selice Romani	west2376	the cookhouse	COOKHOUSE	334		koňha	koňha 
+595	9-7-21-1	75101356261675202	Selice Romani	west2376	the room	ROOM	1450		soba	soba 
+596	9-7-21-2	75101356849409895	Selice Romani	west2376	the room	ROOM	1450		hejšígo	hejšígo 
+597	9-7-22-1	75101356766906232	Selice Romani	west2376	the door or gate	DOOR	1567		vuder	vuder 
+598	9-7-22-2	75101356977617571	Selice Romani	west2376	the door or gate	DOOR	1567		kaputa	kaputa 
+599	9-7-221-1	75101356219145277	Selice Romani	west2376	the doorpost	DOORPOST	80		futro	futro 
+600	9-7-221-2	7510135645573270	Selice Romani	west2376	the doorpost	DOORPOST	80		zárubňa	zárubňa 
+601	9-7-221-3	7724233262590658	Selice Romani	west2376	the doorpost	DOORPOST	80		ajtóragastó	ajtóragastó 
+602	9-7-23-1	7510135639837060	Selice Romani	west2376	the lock	LOCK	1596		záro	záro 
+603	9-7-231-1	75101356546940831	Selice Romani	west2376	the latch or door-bolt	LATCH	1012		reteza	reteza 
+604	9-7-231-2	75101356370017701	Selice Romani	west2376	the latch or door-bolt	LATCH	1012		kallanťú, kallanťúva	kallanťú 
+605	9-7-231-3	75101356370017701	Selice Romani	west2376	the latch or door-bolt	LATCH	1012		kallanťú, kallanťúva	kallanťúva 
+606	9-7-24-1	75101356785965964	Selice Romani	west2376	the key	KEY	1472		klúčo	klúčo 
+607	9-7-25-1	751013561499251	Selice Romani	west2376	the window	WINDOW	1375		bloka	bloka 
+608	9-7-26-1	75101356809128133	Selice Romani	west2376	the floor	FLOOR	1632		paló	paló 
+609	9-7-26-2	75101356356993989	Selice Romani	west2376	the floor	FLOOR	1632		phú	phú 
+610	9-7-26-3	752002746335722	Selice Romani	west2376	the floor	FLOOR	1632		ėmėlėto	ėmėlėto 
+611	9-7-27-1	75101356605886896	Selice Romani	west2376	the wall	WALL (OF HOUSE)	933		falo	falo 
+612	9-7-31-1	75101356776823171	Selice Romani	west2376	the fireplace	FIREPLACE	185		kandalló	kandalló 
+613	9-7-32-1	75101356446705518	Selice Romani	west2376	the stove	STOVE	859		kájha	kájha 
+614	9-7-32-2	75101356849569001	Selice Romani	west2376	the stove	STOVE	859		šporhelto	šporhelto 
+615	9-7-33-1	75101356613884002	Selice Romani	west2376	the chimney	CHIMNEY	1305		kímíňi	kímíňi 
+616	9-7-42-1	75101356451367570	Selice Romani	west2376	the bed	BED	1663		vodro	vodro 
+617	9-7-42-2	75101356439787088	Selice Romani	west2376	the bed	BED	1663		than	than 
+618	9-7-421-1	75101356687149123	Selice Romani	west2376	the pillow	PILLOW	1044		perníca	perníca 
+619	9-7-421-2	7727235814970819	Selice Romani	west2376	the pillow	PILLOW	1044		šerand	šerand 
+620	9-7-422-1	75101356435968191	Selice Romani	west2376	the blanket	BLANKET	806		pokróca, pakróca	pokróca 
+621	9-7-422-2	75101356435968191	Selice Romani	west2376	the blanket	BLANKET	806		pokróca, pakróca	pakróca 
+622	9-7-422-3	75101356192697097	Selice Romani	west2376	the blanket	BLANKET	806		takaró	takaró 
+623	9-7-422-4	75101356418112984	Selice Romani	west2376	the blanket	BLANKET	806		paplaňi	paplaňi 
+624	9-7-422-5	7822345416078766	Selice Romani	west2376	the blanket	BLANKET	806		larisa	larisa 
+625	9-7-43-1	75101356313278097	Selice Romani	west2376	the chair	CHAIR	1476		séko	séko 
+626	9-7-44-1	75101356338912945	Selice Romani	west2376	the table	TABLE	1775		kafidi	kafidi 
+627	9-7-45-1	7510135669794303	Selice Romani	west2376	the lamp or torch	TORCH OR LAMP	2131		lampa	lampa 
+628	9-7-45-2	75101356480345262	Selice Romani	west2376	the lamp or torch	TORCH OR LAMP	2131		lampáši	lampáši 
+629	9-7-45-3	75271155253005182	Selice Romani	west2376	the lamp or torch	TORCH OR LAMP	2131		villalampa	villalampa 
+630	9-7-46-1	75101356987927945	Selice Romani	west2376	the candle	CANDLE	1273		ďerťa	ďerťa 
+631	9-7-47-1	75101356578109761	Selice Romani	west2376	the shelf	SHELF	745		póco	póco 
+632	9-7-47-2	75101356928548362	Selice Romani	west2376	the shelf	SHELF	745		polička	polička 
+633	9-7-47-3	75101356648755286	Selice Romani	west2376	the shelf	SHELF	745		regáli	regáli 
+634	9-7-48-1	75101356491204054	Selice Romani	west2376	the trough	TROUGH	205		kopana	kopana 
+635	9-7-51-1	75101356544429560	Selice Romani	west2376	the roof	ROOF	769		serha	serha 
+636	9-7-55-1	7510135671494103	Selice Romani	west2376	the beam	BEAM	1132		gerenda	gerenda 
+637	9-7-56-1	75101356225804580	Selice Romani	west2376	the post or pole	POST	281		oslopo	oslopo 
+638	9-7-57-1	75101356365372585	Selice Romani	west2376	the board	BOARD	1227		deska	deska 
+639	9-7-58-1	75101356693246565	Selice Romani	west2376	the arch	ARCH	876		klenba	klenba 
+640	9-7-61-1	7510135665890877	Selice Romani	west2376	the mason	MASON	877		kémívėši	kémívėši 
+641	9-7-62-1	75101356782776174	Selice Romani	west2376	the brick	BRICK	1006		tégla	tégla 
+642	9-7-63-1	75101356548473547	Selice Romani	west2376	the mortar(2)	MORTAR BINDER	1731		malta	malta 
+643	9-7-64-1	75101356613601357	Selice Romani	west2376	the adobe	ADOBE	901		válka	válka 
+644	9-8-11-1	7811459163460082	Selice Romani	west2376	the farmer	FARMER	979		gazda	gazda 
+645	9-8-11-2	7811515186986299	Selice Romani	west2376	the farmer	FARMER	979		jezeďáko	jezeďáko 
+646	9-8-12-1	75101356356993989	Selice Romani	west2376	the field	FIELD	212		phú	phú 
+647	9-8-13-1	75101356411475846	Selice Romani	west2376	the garden	GARDEN	586		bár (2)	bár (2) 
+648	9-8-16-1	75101356648487234	Selice Romani	west2376	the fence	FENCE	1690		kerítíši	kerítíši 
+649	9-8-17-1	75101356241693111	Selice Romani	west2376	the ditch	DITCH	2002		járko	járko 
+650	9-8-21-1	75101356707229409	Selice Romani	west2376	to plough/plow	PLOUGH	1921		sántinen	sántinen 
+651	9-8-22-1	75101356754863444	Selice Romani	west2376	to dig	DIG	1418		kapálinen	kapálinen 
+652	9-8-23-1	75101356463810082	Selice Romani	west2376	the spade	SPADE	1176		ášó	ášó 
+653	9-8-24-1	75101356651659271	Selice Romani	west2376	the shovel	SHOVEL	1901		lapáta	lapáta 
+654	9-8-25-1	75101356458227716	Selice Romani	west2376	the hoe	HOE	284		kapa	kapa 
+655	9-8-26-1	75101356137744691	Selice Romani	west2376	the fork(2)/pitchfork	PITCHFORK	337		vella	vella 
+656	9-8-27-1	75101356964084185	Selice Romani	west2376	the rake	RAKE	338		gėrėblė	gėrėblė 
+657	9-8-31-1	75101356291625360	Selice Romani	west2376	to sow	SOW SEEDS	748		čhiven	čhiven 
+658	9-8-311-1	7510135675699967	Selice Romani	west2376	the seed	SEED	714		mago	mago 
+659	9-8-32-1	7510135644776056	Selice Romani	west2376	to mow	MOW	190		kasálinen	kasálinen 
+660	9-8-33-1	75101356473849258	Selice Romani	west2376	the sickle or scythe	SICKLE OR SCYTHE	2132		šalló, šallóva	šalló 
+661	9-8-33-2	75101356473849258	Selice Romani	west2376	the sickle or scythe	SICKLE OR SCYTHE	2132		šalló, šallóva	šallóva 
+662	9-8-33-3	75271151742727906	Selice Romani	west2376	the sickle or scythe	SICKLE OR SCYTHE	2132		kasa	kasa 
+663	9-8-41-1	75101356467438928	Selice Romani	west2376	the harvest	HARVEST	611		aratáši	aratáši 
+664	9-8-42-1	75101356908239234	Selice Romani	west2376	the grain	GRAIN	605		gabona	gabona 
+665	9-8-42-2	75101356648142540	Selice Romani	west2376	the grain	GRAIN	605		semo	semo 
+666	9-8-43-1	75101356126797099	Selice Romani	west2376	the wheat	WHEAT	1077		šužo jiv	šužo jiv 
+667	9-8-44-1	75101356282798162	Selice Romani	west2376	the barley	BARLEY	932		arpa	arpa 
+668	9-8-45-1	75101356132525497	Selice Romani	west2376	the rye	RYE	23		rožo	rožo 
+669	9-8-46-1	7510135642001056	Selice Romani	west2376	the oats	OAT	60		zabo	zabo 
+670	9-8-47-1	75101356358648664	Selice Romani	west2376	the maize/corn	MAIZE	506		bobo	bobo 
+671	9-8-48-1	75101356130204569	Selice Romani	west2376	the rice	RICE	926		riža	riža 
+672	9-8-51-1	75101356138252887	Selice Romani	west2376	the grass	GRASS	606		mezó, mezóva	mezó 
+673	9-8-51-2	75101356138252887	Selice Romani	west2376	the grass	GRASS	606		mezó, mezóva	mezóva 
+674	9-8-52-1	75101356586375960	Selice Romani	west2376	the hay	HAY	342		sína	sína 
+675	9-8-53-1	75101356755705028	Selice Romani	west2376	the plant	PLANT (VEGETATION)	653		zelenipe	zelenipe 
+676	9-8-531-1	75101356754216087	Selice Romani	west2376	to plant	PLANT (SOMETHING)	1486		ítėtinen	ítėtinen 
+677	9-8-54-1	75101356278588845	Selice Romani	west2376	the root	ROOT	670		tėvo	tėvo 
+678	9-8-55-1	75101356624676633	Selice Romani	west2376	the branch	BRANCH OR TWIG	3223		ága	ága 
+679	9-8-55-2	75101356470143642	Selice Romani	west2376	the branch	BRANCH OR TWIG	3223		fentó, fentóva	fentó 
+680	9-8-55-3	75101356470143642	Selice Romani	west2376	the branch	BRANCH OR TWIG	3223		fentó, fentóva	fentóva 
+681	9-8-56-1	75101356230425495	Selice Romani	west2376	the leaf	LEAF	628		lėvėlė, lėvėla	lėvėlė 
+682	9-8-56-2	75101356230425495	Selice Romani	west2376	the leaf	LEAF	628		lėvėlė, lėvėla	lėvėla 
+683	9-8-57-1	75101356462142226	Selice Romani	west2376	the flower	FLOWER	239		virága	virága 
+684	9-8-57-2	752711306357694	Selice Romani	west2376	the flower	FLOWER	239		luluďi	luluďi 
+685	9-8-6-1	75101356499589042	Selice Romani	west2376	the tree	TREE	906		kašt	kašt 
+686	9-8-61-1	75101356838108153	Selice Romani	west2376	the oak	OAK	644		telďo	telďo 
+687	9-8-62-1	75101356164219852	Selice Romani	west2376	the beech	BEECH	1950		biko	biko 
+688	9-8-66-1	75101356761293549	Selice Romani	west2376	the acorn	ACORN	968		makko	makko 
+689	9-8-67-1	75101356791126190	Selice Romani	west2376	the vine	VINE	343		sélló, séllóva	sélló 
+690	9-8-67-2	75101356791126190	Selice Romani	west2376	the vine	VINE	343		sélló, séllóva	séllóva 
+691	9-8-68-1	75101356726522186	Selice Romani	west2376	the tobacco	TOBACCO	974		duhano	duhano 
+692	9-8-69-1	751013565305357	Selice Romani	west2376	to smoke	SMOKE (INHALE)	1689		cigarettázinen	cigarettázinen 
+693	9-8-69-2	7510135644853915	Selice Romani	west2376	to smoke	SMOKE (INHALE)	1689		pijen	pijen 
+694	9-8-691-1	75101356546767664	Selice Romani	west2376	the pipe	PIPE	1124		pípa	pípa 
+695	9-8-72-1	75101356408720469	Selice Romani	west2376	the tree stump	TREE STUMP	241		tékó, tékóva	tékó 
+696	9-8-72-2	75101356408720469	Selice Romani	west2376	the tree stump	TREE STUMP	241		tékó, tékóva	tékóva 
+697	9-8-73-1	75101356608664794	Selice Romani	west2376	the tree trunk	TREE TRUNK	344		terčo	terčo 
+698	9-8-75-1	75101356763679338	Selice Romani	west2376	the bark	BARK	1204		cipa	cipa 
+699	9-8-76-1	75101356489899020	Selice Romani	west2376	the sap	SAP	345		eňva	eňva 
+700	9-8-81-1	75101356595814680	Selice Romani	west2376	the palm tree	PALM TREE	1181		palma	palma 
+701	9-8-82-1	75101356963184247	Selice Romani	west2376	the coconut	COCONUT	970		kokosi	kokosi 
+702	9-8-83-1	75101356226437177	Selice Romani	west2376	the citrus fruit	CITRUS FRUIT	1126		citroňi	citroňi 
+703	9-8-83-2	75101356616694614	Selice Romani	west2376	the citrus fruit	CITRUS FRUIT	1126		naranči	naranči 
+704	9-8-84-1	75101356267349341	Selice Romani	west2376	the banana	BANANA	868		banáno	banáno 
+705	9-8-93-1	75101356854619462	Selice Romani	west2376	the gourd	GOURD	411		dudum	dudum 
+706	9-8-931-1	75101356854619462	Selice Romani	west2376	the pumpkin or squash	PUMPKIN	864		dudum	dudum 
+707	9-8-94-1	75101356696630996	Selice Romani	west2376	the bamboo	BAMBOO	1927		bambusi	bambusi 
+708	9-8-941-1	75101356217509116	Selice Romani	west2376	the sugar cane	SUGAR CANE	146		cukornádo	cukornádo 
+709	9-8-97-1	75101356417785333	Selice Romani	west2376	the nettle	NETTLE	33		čóváňi	čóváňi 
+710	9-8-98-1	75101356190574070	Selice Romani	west2376	the mushroom	MUSHROOM	641		huhur, huhura	huhur 
+711	9-8-98-2	75101356190574070	Selice Romani	west2376	the mushroom	MUSHROOM	641		huhur, huhura	huhura 
+712	9-9-11-1	75101356493697296	Selice Romani	west2376	to do	DO	813		keren	keren 
+713	9-9-12-1	7510135631541672	Selice Romani	west2376	the work	WORK (LABOUR)	984		búti	búti 
+714	9-9-12-2	75101356101139325	Selice Romani	west2376	the work	WORK (LABOUR)	984		dógozinen	dógozinen 
+715	9-9-14-1	75101356276124030	Selice Romani	west2376	to bend	BEND	2004		banďaren	banďaren 
+716	9-9-15-1	75101356985140219	Selice Romani	west2376	to fold	FOLD	1470		hajtinen	hajtinen 
+717	9-9-16-1	75101356384353602	Selice Romani	west2376	to tie	TIE	1917		phanden	phanden 
+718	9-9-161-1	75101356937049917	Selice Romani	west2376	to untie	UNTIE	352		phanden ári	phanden ári 
+719	9-9-18-1	75101356263050641	Selice Romani	west2376	the chain	CHAIN	1627		lánco	lánco 
+720	9-9-19-1	75101356893637473	Selice Romani	west2376	the rope	ROPE	1218		šéllo, šélló	šéllo 
+721	9-9-19-2	75101356893637473	Selice Romani	west2376	the rope	ROPE	1218		šéllo, šélló	šélló 
+722	9-9-192-1	75101356931804213	Selice Romani	west2376	the knot	KNOT	760		čomó	čomó 
+723	9-9-21-1	7510135687660633	Selice Romani	west2376	to strike or hit or beat	STRIKE OR BEAT	2133		máren	máren 
+724	9-9-21-2	75101356367212874	Selice Romani	west2376	to strike or hit or beat	STRIKE OR BEAT	2133		čalaven	čalaven 
+725	9-9-21-3	75101356413196718	Selice Romani	west2376	to strike or hit or beat	STRIKE OR BEAT	2133		peken	peken 
+726	9-9-211-1	75101356367212874	Selice Romani	west2376	to pound	POUND	354		čalaven	čalaven 
+727	9-9-22-1	751013563457393	Selice Romani	west2376	to cut	CUT	1432		čhinen	čhinen 
+728	9-9-22-2	75101356969373353	Selice Romani	west2376	to cut	CUT	1432		ňírinen	ňírinen 
+729	9-9-22-3	77281241112415425	Selice Romani	west2376	to cut	CUT	1432		čúren	čúren 
+730	9-9-221-1	75101356679451155	Selice Romani	west2376	to cut down	CUT DOWN	355		čhoren téle	čhoren téle 
+731	9-9-222-1	75101356790363867	Selice Romani	west2376	to chop	CHOP	155		čhingeren	čhingeren 
+732	9-9-222-2	7510135657021937	Selice Romani	west2376	to chop	CHOP	155		saňaren	saňaren 
+733	9-9-223-1	75101356968145919	Selice Romani	west2376	to stab	STAB TO DEATH	3189		phosaven	phosaven 
+734	9-9-23-1	75101356102745425	Selice Romani	west2376	the knife(2)	KNIFE	1352		čhúri	čhúri 
+735	9-9-24-1	75101356352346714	Selice Romani	west2376	the scissors or shears	SHEARS	356		alló, allóva	alló 
+736	9-9-24-2	75101356352346714	Selice Romani	west2376	the scissors or shears	SHEARS	356		alló, allóva	allóva 
+737	9-9-25-1	75101356359260060	Selice Romani	west2376	the axe/ax	AXE	677		tover	tover 
+738	9-9-26-1	75101356278131879	Selice Romani	west2376	to break	BREAK (DESTROY OR GET DESTROYED)	680		phagen	phagen 
+739	9-9-261-1	75101356391495640	Selice Romani	west2376	broken	BROKEN (NOT WORKING)	3190		rumime	rumime 
+740	9-9-261-2	75101356666215143	Selice Romani	west2376	broken	BROKEN (NOT WORKING)	3190		phágo	phágo 
+741	9-9-27-1	75101356210961250	Selice Romani	west2376	to split	SPLIT	1437		čhinen sít	čhinen sít 
+742	9-9-28-1	7510135681569753	Selice Romani	west2376	to tear	TEAR (SHRED)	1735		pharaven	pharaven 
+743	9-9-83-1	7510135683353527	Selice Romani	west2376	the statue	STATUE	1002		sobro	sobro 
+744	9-9-29-1	75101356590394605	Selice Romani	west2376	to skin	PULL OFF (SKIN)	291		kušen	kušen 
+745	9-9-31-1	75101356891681468	Selice Romani	west2376	to rub	RUB	1449		dergelinen	dergelinen 
+746	9-9-32-1	75101356808148311	Selice Romani	west2376	to stretch	STRETCH	214		ciden ári	ciden ári 
+747	9-9-32-2	75101356166148823	Selice Romani	west2376	to stretch	STRETCH	214		ciden sít	ciden sít 
+748	9-9-33-1	75101356260528596	Selice Romani	west2376	to pull	PULL	1455		ciden	ciden 
+749	9-9-34-1	75101356808148311	Selice Romani	west2376	to spread out	SPREAD OUT	38		ciden ári	ciden ári 
+750	9-9-341-1	75101356293694079	Selice Romani	west2376	to hang up	HANG UP	357		akastinen	akastinen 
+751	9-9-342-1	7510135658659369	Selice Romani	west2376	to press	PRESS	1913		ňominen, ňuminen	ňominen 
+752	9-9-342-2	7510135658659369	Selice Romani	west2376	to press	PRESS	1913		ňominen, ňuminen	ňuminen 
+753	9-9-343-1	75101356464961308	Selice Romani	west2376	to squeeze	SQUEEZE	1414		ňúzinen	ňúzinen 
+754	9-9-343-2	7510135658659369	Selice Romani	west2376	to squeeze	SQUEEZE	1414		ňominen, ňuminen	ňominen 
+755	9-9-343-3	7510135658659369	Selice Romani	west2376	to squeeze	SQUEEZE	1414		ňominen, ňuminen	ňuminen 
+756	9-9-343-4	77181644869679741	Selice Romani	west2376	to squeeze	SQUEEZE	1414		ňomkodinen	ňomkodinen 
+757	9-9-35-1	75101356525884719	Selice Romani	west2376	to pour	POUR	1487		čhoren	čhoren 
+758	9-9-36-1	75101356333146672	Selice Romani	west2376	to wash	WASH	1453		thoven (1)	thoven (1) 
+759	9-9-37-1	75101356280900304	Selice Romani	west2376	to sweep	SWEEP	230		šeprinen	šeprinen 
+760	9-9-38-1	75101356415329558	Selice Romani	west2376	the broom	BROOM	245		šeprú, šeprúva	šeprú 
+761	9-9-38-2	75101356415329558	Selice Romani	west2376	the broom	BROOM	245		šeprú, šeprúva	šeprúva 
+762	9-9-422-1	75101356571413116	Selice Romani	west2376	the tool	TOOL	1361		sersámo	sersámo 
+763	9-9-43-1	75101356551165684	Selice Romani	west2376	the carpenter	CARPENTER	1042		áčo	áčo 
+764	9-9-44-1	7510135615948734	Selice Romani	west2376	to build	BUILD	1840		ípítinen	ípítinen 
+765	9-9-46-1	75101356614062310	Selice Romani	west2376	to bore	BORE	1501		fúrinen	fúrinen 
+766	9-9-461-1	75101356290146275	Selice Romani	west2376	to hollow out	HOLLOW OUT	46		víšinen	víšinen 
+767	9-9-48-1	7510135692269190	Selice Romani	west2376	the saw	SAW	1948		fírísi	fírísi 
+768	9-9-49-1	75101356164199364	Selice Romani	west2376	the hammer	HAMMER	1481		kalapáči	kalapáči 
+769	9-9-5-1	75101356454537275	Selice Romani	west2376	the nail	NAIL (TOOL)	502		klinco	klinco 
+770	9-9-56-1	7510135657782904	Selice Romani	west2376	the glue	GLUE	1069		ragastó	ragastó 
+771	9-9-6-1	75101356773636838	Selice Romani	west2376	the blacksmith	BLACKSMITH	1001		kováči	kováči 
+772	9-9-62-1	75101356754793924	Selice Romani	west2376	the anvil	ANVIL	1648		ílló	ílló 
+773	9-9-62-2	782422799182484	Selice Romani	west2376	the anvil	ANVIL	1648		amoňi	amoňi 
+774	9-9-63-1	75101356525884719	Selice Romani	west2376	to cast	CAST	211		čhoren	čhoren 
+775	9-9-64-1	75101356637095693	Selice Romani	west2376	the gold	GOLD	1369		somnakaj	somnakaj 
+776	9-9-64-2	7510135627152029	Selice Romani	west2376	the gold	GOLD	1369		araňo	araňo 
+777	9-9-65-1	75101356129285504	Selice Romani	west2376	the silver	SILVER	759		ėzišto	ėzišto 
+778	9-9-67-1	75101356483658422	Selice Romani	west2376	the iron	IRON	621		trast	trast 
+779	9-9-68-1	75101356323281170	Selice Romani	west2376	the lead	LEAD (CHEMICAL ELEMENT)	627		ólmo	ólmo 
+780	9-9-69-1	75101356117721703	Selice Romani	west2376	the tin or tinplate	TIN OR TINPLATE	3217		cíno	cíno 
+781	9-9-69-2	75101356941860432	Selice Romani	west2376	the tin or tinplate	TIN OR TINPLATE	3217		plého	plého 
+782	9-9-73-1	75101356356993989	Selice Romani	west2376	the clay	CLAY	1399		phú	phú 
+783	9-9-73-2	7510135698920900	Selice Romani	west2376	the clay	CLAY	1399		aďago	aďago 
+784	9-9-74-1	75101356756663496	Selice Romani	west2376	the glass	GLASS	604		caklo	caklo 
+785	9-9-75-1	75101356876527208	Selice Romani	west2376	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		khuven	khuven 
+786	9-9-76-1	75101356164354728	Selice Romani	west2376	the basket	BASKET	1539		košara	košara 
+787	9-9-77-1	75101356220757632	Selice Romani	west2376	the mat	MAT	195		séňėgo	séňėgo 
+788	9-9-771-1	75101356220757632	Selice Romani	west2376	the rug	RUG	292		séňėgo	séňėgo 
+789	9-9-78-1	75101356800045668	Selice Romani	west2376	the netbag	NETBAG	293		cekkeri	cekkeri 
+790	9-9-79-1	75101356487230691	Selice Romani	west2376	the fan	FAN (OBJECT)	1971		lėďezó	lėďezó 
+791	9-9-791-1	7510135610236752	Selice Romani	west2376	to fan	FAN ACTION	360		lėďezinen	lėďezinen 
+792	9-9-791-2	7510135641316556	Selice Romani	west2376	to fan	FAN ACTION	360		balvajáren	balvajáren 
+793	9-9-81-1	75101356963320945	Selice Romani	west2376	to carve	CARVE	228		faraginen	faraginen 
+794	9-9-82-1	75101356755318098	Selice Romani	west2376	the sculptor	SCULPTOR	914		sobrási	sobrási 
+795	9-9-84-1	75101356543706140	Selice Romani	west2376	the chisel	CHISEL	1979		víšó	víšó 
+796	9-9-88-1	75101356951819326	Selice Romani	west2376	the paint	PAINT (PIGMENTS)	647		fėštíko	fėštíko 
+797	9-9-89-1	7510135659093413	Selice Romani	west2376	to paint	PAINTING	2001		fėštinen	fėštinen 
+798	9-10-11-1	75101356267163519	Selice Romani	west2376	to move	MOVE	765		mozginen	mozginen 
+799	9-10-11-2	77181917874460722	Selice Romani	west2376	to move	MOVE	765		mozgatinel	mozgatinel 
+800	9-10-11-3	7831926830698515	Selice Romani	west2376	to move	MOVE	765		mozdítinen	mozdítinen 
+801	9-10-12-1	75101356470753456	Selice Romani	west2376	to turn	TURN	1588		irinen	irinen 
+802	9-10-13-1	75101356999747138	Selice Romani	west2376	to turn around	TURN (SOMETHING)	1445		irinďon	irinďon 
+803	9-10-13-2	75101356248565232	Selice Romani	west2376	to turn around	TURN (SOMETHING)	1445		irinen pe/pumen	irinen pe 
+804	9-10-13-3	75101356248565232	Selice Romani	west2376	to turn around	TURN (SOMETHING)	1445		irinen pe/pumen	pumen 
+805	9-10-14-1	75101356901810005	Selice Romani	west2376	to wrap	WRAP	1113		čomagolinen	čomagolinen 
+806	9-10-15-1	75101356505734325	Selice Romani	west2376	to roll	ROLL	827		ušinen	ušinen 
+807	9-10-15-2	75101356992577858	Selice Romani	west2376	to roll	ROLL	827		šodrinen	šodrinen 
+808	9-10-15-3	75101356247975233	Selice Romani	west2376	to roll	ROLL	827		ďúrinen	ďúrinen 
+809	9-10-15-4	7831912119404943	Selice Romani	west2376	to roll	ROLL	827		gurítinen	gurítinen 
+810	9-10-16-1	75101356898756725	Selice Romani	west2376	to drop	DROP (SOMETHING)	2866		muken	muken 
+811	9-10-17-1	75101356783314311	Selice Romani	west2376	to twist	TWIST (AROUND)	3199		čavarinen	čavarinen 
+812	9-10-17-2	75101356992577858	Selice Romani	west2376	to twist	TWIST (AROUND)	3199		šodrinen	šodrinen 
+813	9-10-21-1	75101356881924350	Selice Romani	west2376	to rise	RISE (MOVE UPWARDS)	568		ušťen	ušťen 
+814	9-10-21-2	75101356895787456	Selice Romani	west2376	to rise	RISE (MOVE UPWARDS)	568		džan upre	džan upre 
+815	9-10-22-1	75101356168105176	Selice Romani	west2376	to raise or lift	LIFT	501		ėmėlinen	ėmėlinen 
+816	9-10-22-2	75101356485389364	Selice Romani	west2376	to raise or lift	LIFT	501		vazden	vazden 
+817	9-10-23-1	75101356334087999	Selice Romani	west2376	to fall	FALL	1280		peren	peren 
+818	9-10-24-1	75101356870171120	Selice Romani	west2376	to drip	DRIP (EMIT LIQUID)	2253		čepeginen	čepeginen 
+819	9-10-25-1	75101356393954583	Selice Romani	west2376	to throw	THROW	1456		čhiden	čhiden 
+820	9-10-252-1	7510135667684578	Selice Romani	west2376	to catch	CATCH	702		astaren	astaren 
+821	9-10-252-2	75101356635624884	Selice Romani	west2376	to catch	CATCH	702		uštiden	uštiden 
+822	9-10-26-1	75101356823914073	Selice Romani	west2376	to shake	SHAKE	1909		rezdaven	rezdaven 
+823	9-10-26-2	752041430216258	Selice Romani	west2376	to shake	SHAKE	1909		tresinen	tresinen 
+824	9-10-32-1	75101356953201494	Selice Romani	west2376	to flow	FLOW	2003		čujon	čujon 
+825	9-10-33-1	75101356341799690	Selice Romani	west2376	to sink	SINK (DESCEND)	1088		bukinen	bukinen 
+826	9-10-34-1	75101356504310343	Selice Romani	west2376	to float	FLOAT	1574		džan	džan 
+827	9-10-35-1	75101356122404159	Selice Romani	west2376	to swim	SWIM	1439		úsinen	úsinen 
+828	9-10-351-1	75101356341799690	Selice Romani	west2376	to dive	DIVE	119		bukinen	bukinen 
+829	9-10-352-1	75101356804513339	Selice Romani	west2376	to splash	SPLASH	365		freččelinen	freččelinen 
+830	9-10-37-1	75101356350406604	Selice Romani	west2376	to fly	FLY (MOVE THROUGH AIR)	1441		repilinen, repelinen	repilinen 
+831	9-10-37-2	75101356350406604	Selice Romani	west2376	to fly	FLY (MOVE THROUGH AIR)	1441		repilinen, repelinen	repelinen 
+832	9-10-38-1	75101356633550245	Selice Romani	west2376	to blow	BLOW (OF WIND)	175		phuden	phuden 
+833	9-10-41-1	75101356849756247	Selice Romani	west2376	to crawl	CRAWL	96		ťúsinen	ťúsinen 
+834	9-10-41-2	75101356321200287	Selice Romani	west2376	to crawl	CRAWL	96		másinen	másinen 
+835	9-10-412-1	75101356538242084	Selice Romani	west2376	to kneel	KNEEL	66		terbėkelinen	terbėkelinen 
+836	9-10-413-1	75101356629691847	Selice Romani	west2376	to crouch	CROUCH	296		gugolinen	gugolinen 
+837	9-10-42-1	75101356849756247	Selice Romani	west2376	to slide or slip	SLIP	1324		ťúsinen	ťúsinen 
+838	9-10-43-1	75101356881924350	Selice Romani	west2376	to jump	JUMP	1829		ušťen	ušťen 
+839	9-10-431-1	75101356487756193	Selice Romani	west2376	to kick	KICK	1135		pruťinen	pruťinen 
+840	9-10-44-1	75101356578531617	Selice Romani	west2376	to dance	DANCE	1879		khelen	khelen 
+841	9-10-45-1	7510135645481581	Selice Romani	west2376	to walk	WALK	1443		phíren	phíren 
+842	9-10-45-2	7510135613543066	Selice Romani	west2376	to walk	WALK	1443		šétálinen	šétálinen 
+843	9-10-451-1	75101356839484812	Selice Romani	west2376	to limp	LIMP	366		banďon	banďon 
+844	9-10-46-1	75101356182090106	Selice Romani	west2376	to run	RUN	1519		nášen	nášen 
+845	9-10-47-1	75101356504310343	Selice Romani	west2376	to go	GO	695		džan	džan 
+846	9-10-47-2	7510135645481581	Selice Romani	west2376	to go	GO	695		phíren	phíren 
+847	9-10-471-1	75101356895787456	Selice Romani	west2376	to go up	GO UP (ASCEND)	705		džan upre	džan upre 
+848	9-10-472-1	75101356321200287	Selice Romani	west2376	to climb	CLIMB	1102		másinen	másinen 
+849	9-10-473-1	75101356869601698	Selice Romani	west2376	to go down	GO DOWN (DESCEND)	2014		džan téle	džan téle 
+850	9-10-474-1	75101356443578613	Selice Romani	west2376	to go out	GO OUT	1107		džan ári	džan ári 
+851	9-10-48-1	75101356411112401	Selice Romani	west2376	to come	COME	1446		aven	aven 
+852	9-10-481-1	75101356668392707	Selice Romani	west2376	to come back	COME BACK	581		aven pále	aven pále 
+853	9-10-49-1	75101356504310343	Selice Romani	west2376	to leave	LEAVE	1752		džan	džan 
+854	9-10-49-2	75101356109796659	Selice Romani	west2376	to leave	LEAVE	1752		džan peske/pumenge	džan peske 
+855	9-10-49-3	75101356109796659	Selice Romani	west2376	to leave	LEAVE	1752		džan peske/pumenge	pumenge 
+856	9-10-491-1	75101356179706929	Selice Romani	west2376	to disappear	DISAPPEAR	485		naššon	naššon 
+857	9-10-491-2	75101356553187489	Selice Romani	west2376	to disappear	DISAPPEAR	485		tílinen	tílinen 
+858	9-10-51-1	75101356748493282	Selice Romani	west2376	to flee	FLEE	956		čhiven pe/pumen	čhiven pe 
+859	9-10-51-2	75101356748493282	Selice Romani	west2376	to flee	FLEE	956		čhiven pe/pumen	pumen 
+860	9-10-53-1	75101356965116940	Selice Romani	west2376	to pursue	PURSUE	1047		ňomozinen	ňomozinen 
+861	9-10-53-2	75101356128993850	Selice Romani	west2376	to pursue	PURSUE	1047		lešinen	lešinen 
+862	9-10-55-1	75101356554269313	Selice Romani	west2376	to arrive	ARRIVE	1387		resen	resen 
+863	9-10-56-1	75101356145092631	Selice Romani	west2376	to approach	APPROACH	1778		resaďon	resaďon 
+864	9-10-57-1	75101356178920849	Selice Romani	west2376	to enter	ENTER	749		aven ánde	aven ánde 
+865	9-10-57-2	75221155777211479	Selice Romani	west2376	to enter	ENTER	749		džan ánde	džan ánde 
+866	9-10-61-1	751013566391142	Selice Romani	west2376	to carry	CARRY	700		phíraven	phíraven 
+867	9-10-61-2	75101356193898218	Selice Romani	west2376	to carry	CARRY	700		ledžen	ledžen 
+868	9-10-62-1	75101356978699399	Selice Romani	west2376	to bring	BRING	692		anen	anen 
+869	9-10-63-1	7510135644610304	Selice Romani	west2376	to send	SEND	1127		bičhaven	bičhaven 
+870	9-10-64-1	75101356193898218	Selice Romani	west2376	to lead	LEAD (GUIDE)	43		ledžen	ledžen 
+871	9-10-65-1	7510135668763756	Selice Romani	west2376	to drive	DRIVE	741		vėzėtinen	vėzėtinen 
+872	9-10-65-2	75101356121415473	Selice Romani	west2376	to drive	DRIVE	741		tráden	tráden 
+873	9-10-66-1	7510135645481581	Selice Romani	west2376	to ride	RIDE	367		phíren	phíren 
+874	9-10-67-1	7510135658659369	Selice Romani	west2376	to push	PUSH	1452		ňominen, ňuminen	ňominen 
+875	9-10-67-2	7510135658659369	Selice Romani	west2376	to push	PUSH	1452		ňominen, ňuminen	ňuminen 
+876	9-10-67-3	75101356822882777	Selice Romani	west2376	to push	PUSH	1452		definen	definen 
+877	9-10-67-4	782113065936687	Selice Romani	west2376	to push	PUSH	1452		tolinen	tolinen 
+878	9-10-71-1	75101356254344510	Selice Romani	west2376	the road	ROAD	667		drom	drom 
+879	9-10-71-2	75101356243356009	Selice Romani	west2376	the road	ROAD	667		orságúto	orságúto 
+880	9-10-72-1	75101356254344510	Selice Romani	west2376	the path	PATH	2252		drom	drom 
+881	9-10-74-1	75101356255244008	Selice Romani	west2376	the bridge	BRIDGE	1011		hída	hída 
+882	9-10-75-1	75101356536495934	Selice Romani	west2376	the cart or wagon	CART	122		koči	koči 
+883	9-10-75-2	75101356883213608	Selice Romani	west2376	the cart or wagon	CART	122		verda	verda 
+884	9-10-76-1	75101356496344749	Selice Romani	west2376	the wheel	WHEEL	710		kereko	kereko 
+885	9-10-76-2	7719106235463432	Selice Romani	west2376	the wheel	WHEEL	710		kórmáňi	kórmáňi 
+886	9-10-77-1	75101356861926711	Selice Romani	west2376	the axle	AXLE	1769		tengó, tengóva	tengó 
+887	9-10-77-2	75101356861926711	Selice Romani	west2376	the axle	AXLE	1769		tengó, tengóva	tengóva 
+888	9-10-81-1	7510135648326040	Selice Romani	west2376	the ship	SHIP	740		hajó, hajóva	hajó 
+889	9-10-81-2	7510135648326040	Selice Romani	west2376	the ship	SHIP	740		hajó, hajóva	hajóva 
+890	9-10-83-1	75101356225103322	Selice Romani	west2376	the boat	BOAT	1844		čónako	čónako 
+891	9-10-83-2	75101356266635597	Selice Romani	west2376	the boat	BOAT	1844		ladiko	ladiko 
+892	9-10-84-1	75101356895165889	Selice Romani	west2376	the raft	RAFT	1664		kompo	kompo 
+893	9-10-85-1	75101356339992826	Selice Romani	west2376	the oar	RUDDER	108		ėvėdzó, ėvėzó	ėvėdzó 
+894	9-10-85-2	75101356339992826	Selice Romani	west2376	the oar	RUDDER	108		ėvėdzó, ėvėzó	ėvėzó 
+895	9-10-851-1	75101356339992826	Selice Romani	west2376	the paddle	PADDLE	234		ėvėdzó, ėvėzó	ėvėdzó 
+896	9-10-851-2	75101356339992826	Selice Romani	west2376	the paddle	PADDLE	234		ėvėdzó, ėvėzó	ėvėzó 
+897	9-10-852-1	75101356390519546	Selice Romani	west2376	to row	ROW	1849		ėvėdzinen	ėvėdzinen 
+898	9-10-86-1	75101356685501279	Selice Romani	west2376	the rudder	RUDDER	108		hajókórmáňi	hajókórmáňi 
+899	9-10-86-2	771002090688041	Selice Romani	west2376	the rudder	RUDDER	108		hajóskero kórmáňi	hajóskero kórmáňi 
+900	9-10-86-3	7719106235463432	Selice Romani	west2376	the rudder	RUDDER	108		kórmáňi	kórmáňi 
+901	9-10-88-1	75101356294260668	Selice Romani	west2376	the sail	SAILCLOTH	786		plasta	plasta 
+902	9-10-89-1	75101356724593334	Selice Romani	west2376	the anchor	ANCHOR	1870		mačka (2)	mačka (2) 
+903	9-10-92-1	75101356402370180	Selice Romani	west2376	to land	LAND (DESCEND)	1922		terďon	terďon 
+904	9-11-13-1	75101356523415090	Selice Romani	west2376	to take	TAKE	1749		len	len 
+905	9-11-14-1	7510135667684578	Selice Romani	west2376	to grasp	SEIZE	855		astaren	astaren 
+906	9-11-14-2	75101356407251186	Selice Romani	west2376	to grasp	SEIZE	855		ispiden	ispiden 
+907	9-11-14-3	75101356635624884	Selice Romani	west2376	to grasp	SEIZE	855		uštiden	uštiden 
+908	9-11-15-1	75101356605460476	Selice Romani	west2376	to hold	HOLD	1448		ikren	ikren 
+909	9-11-16-1	75101356635624884	Selice Romani	west2376	to get	GET	694		uštiden	uštiden 
+910	9-11-17-1	75101356898756725	Selice Romani	west2376	to keep	KEEP	1477		muken	muken 
+911	9-11-17-2	75101356605460476	Selice Romani	west2376	to keep	KEEP	1477		ikren	ikren 
+912	9-11-18-1	7510135631541672	Selice Romani	west2376	the thing	THING	738		búti	búti 
+913	9-11-21-1	75101356767643676	Selice Romani	west2376	to give	GIVE	1447		den	den 
+914	9-11-22-1	75101356891498682	Selice Romani	west2376	to give back	GIVE BACK	85		den pále	den pále 
+915	9-11-24-1	75101356605460476	Selice Romani	west2376	to preserve	PRESERVE	1997		ikren	ikren 
+916	9-1-99903-1	7727234925750175	Selice Romani	west2376	the coal				angar	angar 
+917	9-11-25-1	75101356920576112	Selice Romani	west2376	to rescue	RESCUE	2008		mentinen	mentinen 
+918	9-11-27-1	75101356849449765	Selice Romani	west2376	to destroy	DESTROY	681		šemmiššítinen	šemmiššítinen 
+919	9-11-27-2	75101356931519503	Selice Romani	west2376	to destroy	DESTROY	681		thoven tėnkrė	thoven tėnkrė 
+920	9-11-28-1	7510135687660633	Selice Romani	west2376	to injure	INJURE	44		máren	máren 
+921	9-11-31-1	75101356376834737	Selice Romani	west2376	to look for	LOOK FOR	1468		roden	roden 
+922	9-11-32-1	75101356728622291	Selice Romani	west2376	to find	FIND	719		alakhen	alakhen 
+923	9-11-33-1	7510135680887145	Selice Romani	west2376	to lose	LOSE	1660		našaven	našaven 
+924	9-11-34-1	75101356898756725	Selice Romani	west2376	to let go	LET GO OR SET FREE	1095		muken	muken 
+925	9-11-43-1	75101356472483643	Selice Romani	west2376	the money	MONEY	1559		lóvo	lóvo 
+926	9-11-44-1	75101356472483643	Selice Romani	west2376	the coin	COIN	1867		lóvo	lóvo 
+927	9-11-51-1	75101356953306291	Selice Romani	west2376	rich	RICH	712		barválo	barválo 
+928	9-11-52-1	75101356857956402	Selice Romani	west2376	poor	POOR	1674		čoro	čoro 
+929	9-11-53-1	75101356523729496	Selice Romani	west2376	the beggar	BEGGAR	1934		kódúši	kódúši 
+930	9-11-54-1	75101356932310777	Selice Romani	west2376	stingy	STINGY	1774		žugorotno	žugorotno 
+931	9-11-54-2	75101356354514531	Selice Romani	west2376	stingy	STINGY	1774		žuvárno	žuvárno 
+932	9-11-61-1	75101356805181734	Selice Romani	west2376	to lend	LEND	582		den kéčen	den kéčen 
+933	9-11-62-1	75101356569946218	Selice Romani	west2376	to borrow	BORROW	1823		len kéčen	len kéčen 
+934	9-11-63-1	751013562717538	Selice Romani	west2376	to owe	OWE	369		kamen	kamen 
+935	9-11-64-1	75101356995402915	Selice Romani	west2376	the debt	DEBT	1914		kéčeno	kéčeno 
+936	9-11-65-1	75101356839676088	Selice Romani	west2376	to pay	PAY	718		poťinen	poťinen 
+937	9-11-66-1	75101356531645934	Selice Romani	west2376	the bill	BILL	1081		sámla	sámla 
+938	9-11-66-2	75101356178624217	Selice Romani	west2376	the bill	BILL	1081		účeto	účeto 
+939	9-11-69-1	75101356169446234	Selice Romani	west2376	the tax	TAX	873		sázollíko	sázollíko 
+940	9-11-69-2	75101356816573128	Selice Romani	west2376	the tax	TAX	873		daňe	daňe 
+941	9-11-78-1	75101356905136624	Selice Romani	west2376	the wages	WAGES	1122		poťinibe	poťinibe 
+942	9-11-78-2	75101356132791487	Selice Romani	west2376	the wages	WAGES	1122		fizėtíši	fizėtíši 
+943	9-11-78-3	7719104269966466	Selice Romani	west2376	the wages	WAGES	1122		órabíro	órabíro 
+944	9-11-79-1	75101356376834737	Selice Romani	west2376	to earn	EARN	733		roden	roden 
+945	9-11-81-1	75101356964983504	Selice Romani	west2376	to buy	BUY	1869		ťinen	ťinen 
+946	9-11-82-1	75101356578600314	Selice Romani	west2376	to sell	SELL	1571		biknen	biknen 
+947	9-11-83-1	75101356767244215	Selice Romani	west2376	to trade or barter	TRADE OR BARTER	2135		paruven	paruven 
+948	9-11-83-2	75101356781733184	Selice Romani	west2376	to trade or barter	TRADE OR BARTER	2135		kereškedinen	kereškedinen 
+949	9-11-83-3	75101356770579067	Selice Romani	west2376	to trade or barter	TRADE OR BARTER	2135		kofázinen	kofázinen 
+950	9-11-83-4	783017159730353	Selice Romani	west2376	to trade or barter	TRADE OR BARTER	2135		šeftelinen	šeftelinen 
+951	9-11-84-1	75101356829400000	Selice Romani	west2376	the merchant	MERCHANT	1082		kereškedó	kereškedó 
+952	9-11-84-2	75101356681945103	Selice Romani	west2376	the merchant	MERCHANT	1082		kofa	kofa 
+953	9-11-85-1	75101356427239894	Selice Romani	west2376	the market	MARKET	633		pijarci	pijarci 
+954	9-11-86-1	75101356325101719	Selice Romani	west2376	the shop/store	STORE	752		bóta	bóta 
+955	9-11-86-2	75101356982045290	Selice Romani	west2376	the shop/store	STORE	752		izleto	izleto 
+956	9-11-87-1	75101356188700110	Selice Romani	west2376	the price	PRICE	657		írtíko	írtíko 
+957	9-11-88-1	75101356294316353	Selice Romani	west2376	expensive	EXPENSIVE	1426		kuč	kuč 
+958	9-11-89-1	75101356436241876	Selice Romani	west2376	cheap	CHEAP	1887		óčóno	óčóno 
+959	9-11-91-1	75101356683097299	Selice Romani	west2376	to share	SHARE	884		ulaven	ulaven 
+960	9-12-01-1	75101356432760003	Selice Romani	west2376	after	AFTER	1685		pal	pal 
+961	9-12-011-1	75101356432760003	Selice Romani	west2376	behind	BEHIND	1686		pal	pal 
+962	9-12-02-1	75101356985268217	Selice Romani	west2376	beside	BESIDE	1816		paš	paš 
+963	9-12-02-2	7651653940794597	Selice Romani	west2376	beside	BESIDE	1816		uze	uze 
+964	9-12-03-1	7510135692412162	Selice Romani	west2376	down	DOWN	1326		téle	téle 
+965	9-12-03-2	7510135692871822	Selice Romani	west2376	down	DOWN	1326		télal	télal 
+966	9-12-04-1	75101356247043685	Selice Romani	west2376	before	BEFORE	1882		angli	angli 
+967	9-12-041-1	75101356247043685	Selice Romani	west2376	in front of	IN FRONT OF	1883		angli	angli 
+968	9-12-05-1	75101356296172564	Selice Romani	west2376	inside	INSIDE	1606		andi	andi 
+969	9-12-05-2	75101356128569922	Selice Romani	west2376	inside	INSIDE	1606		onďánde	onďánde 
+970	9-12-05-3	75101356713382318	Selice Romani	west2376	inside	INSIDE	1606		ánde	ánde 
+971	9-12-06-1	75101356721571748	Selice Romani	west2376	outside	OUTSIDE	762		onďári	onďári 
+972	9-12-06-2	75101356863526771	Selice Romani	west2376	outside	OUTSIDE	762		ári	ári 
+973	9-12-07-1	75101356418404913	Selice Romani	west2376	under	BELOW OR UNDER	1485		tal	tal 
+974	9-12-08-1	75101356531925681	Selice Romani	west2376	up	UP	1591		upre, uppe	upre 
+975	9-12-08-2	75101356531925681	Selice Romani	west2376	up	UP	1591		upre, uppe	uppe 
+976	9-12-08-3	7510135630977936	Selice Romani	west2376	up	UP	1591		upral	upral 
+977	9-12-11-1	75101356439787088	Selice Romani	west2376	the place	PLACE (POSITION)	723		than	than 
+978	9-12-12-1	75101356902025279	Selice Romani	west2376	to put	PUT	998		thoven (2)	thoven (2) 
+979	9-12-13-1	75101356194105727	Selice Romani	west2376	to sit	SIT	1416		bešen	bešen 
+980	9-12-14-1	75101356557341147	Selice Romani	west2376	to lie down	LIE DOWN	215		paššon	paššon 
+981	9-12-15-1	75101356402370180	Selice Romani	west2376	to stand	STAND	1442		terďon	terďon 
+982	9-12-16-1	75101356609778603	Selice Romani	west2376	to remain	REMAIN	987		áčhon, áčhen	áčhon 
+983	9-12-16-2	75101356609778603	Selice Romani	west2376	to remain	REMAIN	987		áčhon, áčhen	áčhen 
+984	9-12-17-1	75101356711020172	Selice Romani	west2376	the remains	REMAINS	838		maradíko	maradíko 
+985	9-12-21-1	75101356491120433	Selice Romani	west2376	to gather	GATHER	7		keden	keden 
+986	9-12-212-1	75101356168105176	Selice Romani	west2376	to pick up	PICK UP	371		ėmėlinen	ėmėlinen 
+987	9-12-213-1	75101356883211964	Selice Romani	west2376	to pile up	PILE UP	1576		keden eketháne	keden eketháne 
+988	9-12-23-1	75101356913917987	Selice Romani	west2376	to separate	SEPARATE	1359		keren sít	keren sít 
+989	9-12-23-2	75101356805862406	Selice Romani	west2376	to separate	SEPARATE	1359		ostinen	ostinen 
+990	9-12-232-1	75101356683097299	Selice Romani	west2376	to divide	DIVIDE	1119		ulaven	ulaven 
+991	9-12-232-2	75101356805862406	Selice Romani	west2376	to divide	DIVIDE	1119		ostinen	ostinen 
+992	9-12-24-1	75101356168275530	Selice Romani	west2376	to open	OPEN	1156		praven	praven 
+993	9-12-24-2	75101356299948220	Selice Romani	west2376	to open	OPEN	1156		keren ári	keren ári 
+994	9-12-25-1	75101356291146275	Selice Romani	west2376	to shut	SHUT	1046		keren ánde	keren ánde 
+995	9-12-26-1	75101356321558837	Selice Romani	west2376	to cover	COVER	761		učharen	učharen 
+996	9-12-27-1	7510135681189954	Selice Romani	west2376	to hide	HIDE (CONCEAL)	602		garuven	garuven 
+997	9-12-31-1	75101356166042595	Selice Romani	west2376	high	HIGH	1265		účo	účo 
+998	9-12-32-1	75101356216727190	Selice Romani	west2376	low	LOW	721		alačonno	alačonno 
+999	9-12-33-1	75101356473419122	Selice Romani	west2376	the top	TOP	1753		špicco	špicco 
+1000	9-12-33-2	75101356946072895	Selice Romani	west2376	the top	TOP	1753		upruno	upruno 
+1001	9-12-34-1	75101356419285961	Selice Romani	west2376	the bottom	BOTTOM	690		fėnėkė, fėnėka	fėnėkė 
+1002	9-12-34-2	75101356419285961	Selice Romani	west2376	the bottom	BOTTOM	690		fėnėkė, fėnėka	fėnėka 
+1003	9-12-35-1	75101356839844986	Selice Romani	west2376	the end(1)	END (OF SPACE)	742		vígo	vígo 
+1004	9-12-352-1	75101356630064288	Selice Romani	west2376	pointed	POINTED	372		heďešno	heďešno 
+1005	9-12-353-1	7510135679555593	Selice Romani	west2376	the edge	EDGE	863		sílo	sílo 
+1006	9-12-353-2	75101356705059467	Selice Romani	west2376	the edge	EDGE	863		šarka	šarka 
+1007	9-12-36-1	75101356685499430	Selice Romani	west2376	the side	SIDE	682		epaš	epaš 
+1008	9-12-37-1	7510135655448733	Selice Romani	west2376	the middle	MIDDLE	1093		kėzėpo	kėzėpo 
+1009	9-12-41-1	75101356858995005	Selice Romani	west2376	right(1)	RIGHT	1019		jobno	jobno 
+1010	9-12-42-1	75101356325984678	Selice Romani	west2376	left	LEFT	244		balogno	balogno 
+1011	9-12-42-2	75101356477941775	Selice Romani	west2376	left	LEFT	244		balgačno	balgačno 
+1012	9-12-43-1	7510135647826598	Selice Romani	west2376	near	NEAR	1942		kėzé	kėzé 
+1013	9-12-44-1	75101356908305722	Selice Romani	west2376	far	FAR	1406		dúr	dúr 
+1014	9-12-45-1	781224412780846	Selice Romani	west2376	the east	EAST	1877		víkhodo, víxodo	víkhodo 
+1015	9-12-45-2	781224412780846	Selice Romani	west2376	the east	EAST	1877		víkhodo, víxodo	víxodo 
+1016	9-12-46-1	7812215337653665	Selice Romani	west2376	the west	WEST	1817		západo	západo 
+1017	9-12-53-1	75101356941691453	Selice Romani	west2376	to grow	GROW	479		bárďon	bárďon 
+1018	9-12-54-1	7510135637840870	Selice Romani	west2376	to measure	MEASURE	1506		mírinen	mírinen 
+1019	9-12-55-1	75101356334999456	Selice Romani	west2376	big	BIG	1202		báro	báro 
+1020	9-12-56-1	75101356374131465	Selice Romani	west2376	small	SMALL	1246		tikno	tikno 
+1021	9-12-56-2	7728101056356878	Selice Romani	west2376	small	SMALL	1246		hurdo	hurdo 
+1022	9-12-57-1	75101356175898511	Selice Romani	west2376	long	LONG	1203		dugo	dugo 
+1023	9-12-58-1	75101356166042595	Selice Romani	west2376	tall	TALL	711		účo	účo 
+1024	9-12-59-1	75101356902339545	Selice Romani	west2376	short	SHORT	1645		harno	harno 
+1025	9-12-61-1	75101356805456474	Selice Romani	west2376	wide	WIDE	1243		bulho	bulho 
+1026	9-12-62-1	75101356173274269	Selice Romani	west2376	narrow	NARROW	1267		síkno	síkno 
+1027	9-12-63-1	75101356805456474	Selice Romani	west2376	thick	THICK	1244		bulho	bulho 
+1028	9-12-63-2	7727131944607789	Selice Romani	west2376	thick	THICK	1244		thúlo	thúlo 
+1029	9-12-65-1	75101356578892121	Selice Romani	west2376	thin	THIN (OF SHAPE OF OBJECT)	2249		sáno	sáno 
+1030	9-12-65-2	77271250258046440	Selice Romani	west2376	thin	THIN (OF SHAPE OF OBJECT)	2249		čišlo	čišlo 
+1031	9-12-67-1	75101356909449479	Selice Romani	west2376	deep	DEEP	1593		mílno	mílno 
+1032	9-12-68-1	75101356407181499	Selice Romani	west2376	shallow	SHALLOW	193		čekílno	čekílno 
+1033	9-12-71-1	75101356154140624	Selice Romani	west2376	flat	FLAT	1633		lapošno	lapošno 
+1034	9-12-73-1	75101356737477014	Selice Romani	west2376	straight	STRAIGHT	1404		igeňešno	igeňešno 
+1035	9-12-74-1	75101356902290325	Selice Romani	west2376	crooked	CROOKED	297		bango	bango 
+1036	9-12-75-1	75101356479928694	Selice Romani	west2376	the hook	HOOK	1071		horga	horga 
+1037	9-12-76-1	75101356705059467	Selice Romani	west2376	the corner	CORNER	192		šarka	šarka 
+1038	9-12-77-1	7510135641858530	Selice Romani	west2376	the cross	CROSS	1367		keresto	keresto 
+1039	9-12-78-1	75101356320524074	Selice Romani	west2376	the square	SQUARE	850		kocka	kocka 
+1040	9-12-81-1	75101356557319192	Selice Romani	west2376	round	ROUND	1395		gembelígno	gembelígno 
+1041	9-12-82-1	75101356255082463	Selice Romani	west2376	the circle	CIRCLE	1467		kero	kero 
+1042	9-12-83-1	75101356222802281	Selice Romani	west2376	the ball	BALL	1845		guló	guló 
+1043	9-12-84-1	75101356711008110	Selice Romani	west2376	the line	LINE	1048		číko	číko 
+1044	9-12-85-1	7510135677919116	Selice Romani	west2376	the hole	HOLE	1667		hév	hév 
+1045	9-12-85-2	75101356190524919	Selice Romani	west2376	the hole	HOLE	1667		luka	luka 
+1046	9-12-92-1	75101356701113119	Selice Romani	west2376	similar	SIMILAR	1558		asso féliko	asso féliko 
+1047	9-12-92-2	75101356406650074	Selice Romani	west2376	similar	SIMILAR	1558		hašollóno	hašollóno 
+1048	9-12-92-3	75101356367212874	Selice Romani	west2376	similar	SIMILAR	1558		čalaven	čalaven 
+1049	9-12-93-1	75101356879356749	Selice Romani	west2376	to change	CHANGE	1264		váltostatinen	váltostatinen 
+1050	9-12-93-2	75101356821718596	Selice Romani	west2376	to change	CHANGE	1264		változinen	változinen 
+1051	9-13-1	75101356689852382	Selice Romani	west2376	zero	ZERO	1294		nulla	nulla 
+1052	9-13-01-1	7510135665150698	Selice Romani	west2376	one	ONE	1493		jékh	jékh 
+1053	9-13-02-1	75101356662863924	Selice Romani	west2376	two	TWO	1498		dúj	dúj 
+1054	9-13-03-1	75101356862040147	Selice Romani	west2376	three	THREE	492		trín	trín 
+1055	9-13-04-1	7510135696046640	Selice Romani	west2376	four	FOUR	1500		štár	štár 
+1056	9-13-05-1	7510135645104023	Selice Romani	west2376	five	FIVE	493		pándž	pándž 
+1057	9-13-06-1	75101356711956570	Selice Romani	west2376	six	SIX	1703		šó	šó 
+1058	9-13-07-1	75101356422429361	Selice Romani	west2376	seven	SEVEN	1704		efta	efta 
+1059	9-13-08-1	75101356575148747	Selice Romani	west2376	eight	EIGHT	1705		ofto	ofto 
+1060	9-13-09-1	75101356566059482	Selice Romani	west2376	nine	NINE	1483		eňňa	eňňa 
+1061	9-13-1-1	75101356313040091	Selice Romani	west2376	ten	TEN	1515		deš	deš 
+1062	9-13-101-1	75101356721999498	Selice Romani	west2376	eleven	ELEVEN	1706		dešujékh	dešujékh 
+1063	9-13-102-1	75101356559402997	Selice Romani	west2376	twelve	TWELVE	1707		dešudúj	dešudúj 
+1064	9-13-103-1	75101356111730409	Selice Romani	west2376	fifteen	FIFTEEN	1709		dešupándž	dešupándž 
+1065	9-13-104-1	75101356830612953	Selice Romani	west2376	twenty	TWENTY	1710		biš	biš 
+1066	9-13-105-1	75101356664583419	Selice Romani	west2376	a hundred	HUNDRED	1634		šel	šel 
+1067	9-13-106-1	75101356840085826	Selice Romani	west2376	a thousand	THOUSAND	1843		ezeri	ezeri 
+1068	9-13-107-1	75101356216336541	Selice Romani	west2376	to count	COUNT	1420		genen	genen 
+1069	9-13-14-1	75101356687140294	Selice Romani	west2376	all	ALL	98		sogodi	sogodi 
+1070	9-13-14-2	75101356545410289	Selice Romani	west2376	all	ALL	98		cilo	cilo 
+1071	9-13-14-3	7510135689309791	Selice Romani	west2376	all	ALL	98		sa	sa 
+1072	9-13-15-1	75101356923810885	Selice Romani	west2376	many	MANY	1198		but	but 
+1073	9-13-16-1	75101356561092031	Selice Romani	west2376	more	MORE	1992		buter	buter 
+1074	9-13-17-1	75101356207737949	Selice Romani	west2376	few	FEW	1242		čulo	čulo 
+1075	9-13-17-2	75101356679453647	Selice Romani	west2376	few	FEW	1242		čepo	čepo 
+1076	9-13-18-1	7510135658248984	Selice Romani	west2376	enough	ENOUGH	1881		dosta, dost	dosta 
+1077	9-13-18-2	7510135658248984	Selice Romani	west2376	enough	ENOUGH	1881		dosta, dost	dost 
+1078	9-13-181-1	75101356779305789	Selice Romani	west2376	some	SOME	1241		valakiťi	valakiťi 
+1079	9-13-19-1	75101356167736127	Selice Romani	west2376	the crowd	CROWD	2023		šoro	šoro 
+1080	9-13-19-2	7510135676351547	Selice Romani	west2376	the crowd	CROWD	2023		pherdo (2)	pherdo (2) 
+1081	9-13-21-1	75101356901378721	Selice Romani	west2376	full	FULL	1429		pherdo (1)	pherdo (1) 
+1082	9-13-22-1	75101356204536558	Selice Romani	west2376	empty	EMPTY	1624		čúčo	čúčo 
+1083	9-13-23-1	75101356685499430	Selice Romani	west2376	the part	PART	779		epaš	epaš 
+1084	9-13-24-1	75101356685499430	Selice Romani	west2376	the half	HALF	816		epaš	epaš 
+1085	9-13-33-1	75101356603227029	Selice Romani	west2376	only	ONLY	1580		čak	čak 
+1086	9-13-34-1	75101356419629922	Selice Romani	west2376	first	FIRST	728		éšéno	éšéno 
+1087	9-13-35-1	7510135660042037	Selice Romani	west2376	last	LAST (FINAL)	1529		utóšóno	utóšóno 
+1088	9-13-36-1	7510135655797531	Selice Romani	west2376	second	SECOND	1384		dújto	dújto 
+1089	9-13-37-1	751013563029426	Selice Romani	west2376	the pair	PAIR	1888		páro	páro 
+1090	9-13-38-1	75101356794641131	Selice Romani	west2376	twice/two times	TWICE	1546		dúvar	dúvar 
+1091	9-13-42-1	75101356373392583	Selice Romani	west2376	third	THIRD	1859		trito	trito 
+1092	9-13-44-1	7510135651188284	Selice Romani	west2376	three times	THREE TIMES	417		trínval	trínval 
+1093	9-14-11-1	75101356234764448	Selice Romani	west2376	the time	TIME	892		díve, dí	díve 
+1094	9-14-11-2	75101356234764448	Selice Romani	west2376	the time	TIME	892		díve, dí	dí 
+1095	9-14-13-1	75101356106981860	Selice Romani	west2376	new	NEW	1231		névo	névo 
+1096	9-14-14-1	75101356739442399	Selice Romani	west2376	young	YOUNG	1207		térno	térno 
+1097	9-14-15-1	75101356260875825	Selice Romani	west2376	old	OLD	1229		phúro (1)	phúro (1) 
+1098	9-14-15-2	75101356684986226	Selice Romani	west2376	old	OLD	1229		puráno	puráno 
+1099	9-14-16-1	75101356527248371	Selice Romani	west2376	early	EARLY	672		sig	sig 
+1100	9-14-16-2	75101356949545285	Selice Romani	west2376	early	EARLY	672		korán, korá	korán 
+1101	9-14-16-3	75101356949545285	Selice Romani	west2376	early	EARLY	672		korán, korá	korá 
+1102	9-14-16-4	7812244423538159	Selice Romani	west2376	early	EARLY	672		hajnábo	hajnábo 
+1103	9-14-17-1	75101356307750363	Selice Romani	west2376	late	LATE	477		kíšén	kíšén 
+1104	9-14-18-1	75101356679576589	Selice Romani	west2376	now	NOW	1376		akán	akán 
+1105	9-14-19-1	75101356202541305	Selice Romani	west2376	immediately	IMMEDIATELY	1963		minďár	minďár 
+1106	9-14-19-2	75101356667757373	Selice Romani	west2376	immediately	IMMEDIATELY	1963		folva	folva 
+1107	9-14-19-3	7510135657321519	Selice Romani	west2376	immediately	IMMEDIATELY	1963		rekten	rekten 
+1108	9-14-21-1	75101356253771297	Selice Romani	west2376	fast	FAST	1631		ďoršan	ďoršan 
+1109	9-14-22-1	75101356209837737	Selice Romani	west2376	slow	SLOW	701		polóke	polóke 
+1110	9-14-23-1	7510135619768463	Selice Romani	west2376	to hurry	HURRY	754		siďanen	siďanen 
+1111	9-14-23-2	75101356720712912	Selice Romani	west2376	to hurry	HURRY	754		šijėtinen	šijėtinen 
+1112	9-14-24-1	75101356830986204	Selice Romani	west2376	to be late	BE LATE	425		kíšlinen	kíšlinen 
+1113	9-14-25-1	75101356370693941	Selice Romani	west2376	to begin	BEGIN	1806		kėzdinen	kėzdinen 
+1114	9-14-252-1	75101356605460476	Selice Romani	west2376	to last	LAST (ENDURE)	1186		ikren	ikren 
+1115	9-14-26-1	75101356839844986	Selice Romani	west2376	the end(2)	END (OF TIME)	743		vígo	vígo 
+1116	9-14-27-1	75101356106839921	Selice Romani	west2376	to finish	FINISH	1766		vígzinen	vígzinen 
+1117	9-14-28-1	75101356868555060	Selice Romani	west2376	to cease	CEASE	1928		muken abba	muken abba 
+1118	9-14-29-1	75101356632523149	Selice Romani	west2376	ready	READY	790		kísno	kísno 
+1119	9-14-29-2	75101356865778850	Selice Romani	west2376	ready	READY	790		kísítime	kísítime 
+1120	9-14-31-1	75101356508132718	Selice Romani	west2376	always	ALWAYS	1676		mindig, mindíg	mindig 
+1121	9-14-31-2	75101356508132718	Selice Romani	west2376	always	ALWAYS	1676		mindig, mindíg	mindíg 
+1122	9-14-31-3	7526232619150664	Selice Romani	west2376	always	ALWAYS	1676		furt, fur	furt 
+1123	9-14-31-4	7526232619150664	Selice Romani	west2376	always	ALWAYS	1676		furt, fur	fur 
+1124	9-14-31-5	75262310852396434	Selice Romani	west2376	always	ALWAYS	1676		álondóvan	álondóvan 
+1125	9-14-32-1	75101356102425259	Selice Romani	west2376	often	OFTEN	1852		ďakran	ďakran 
+1126	9-14-32-2	7713175945511668	Selice Romani	west2376	often	OFTEN	1852		butvar	butvar 
+1127	9-14-33-1	75101356499376430	Selice Romani	west2376	sometimes	SOMETIMES	1544		valakana	valakana 
+1128	9-14-33-2	75101356394915460	Selice Romani	west2376	sometimes	SOMETIMES	1544		valamikor	valamikor 
+1129	9-14-33-3	75101356829586734	Selice Romani	west2376	sometimes	SOMETIMES	1544		níha	níha 
+1130	9-14-331-1	75101356527248371	Selice Romani	west2376	soon	SOON	703		sig	sig 
+1131	9-14-332-1	75101356181621418	Selice Romani	west2376	for a long time	FOR A LONG TIME	418		šoká	šoká 
+1132	9-14-332-2	75101356923810885	Selice Romani	west2376	for a long time	FOR A LONG TIME	418		but	but 
+1133	9-14-34-1	75101356545476977	Selice Romani	west2376	never	NEVER	1656		šoha	šoha 
+1134	9-14-35-1	751013567891532	Selice Romani	west2376	again	AGAIN	204		papaleg	papaleg 
+1135	9-14-35-2	75101356803736531	Selice Romani	west2376	again	AGAIN	204		újra	újra 
+1136	9-14-35-3	75101356535766124	Selice Romani	west2376	again	AGAIN	204		újbú	újbú 
+1137	9-14-41-1	75101356234764448	Selice Romani	west2376	the day(1)	DAY (24 HOURS)	1260		díve, dí	díve 
+1138	9-14-41-2	75101356234764448	Selice Romani	west2376	the day(1)	DAY (24 HOURS)	1260		díve, dí	dí 
+1139	9-14-42-1	75101356307051699	Selice Romani	west2376	the night	NIGHT	1233		rat (2)	rat (2) 
+1140	9-14-43-1	75101356715345995	Selice Romani	west2376	the dawn	DAWN	729		veradáši	veradáši 
+1141	9-14-43-2	7812243636437514	Selice Romani	west2376	the dawn	DAWN	729		hajnalo	hajnalo 
+1142	9-14-44-1	75101356311490810	Selice Romani	west2376	the morning	MORNING	1339		raťaha	raťaha 
+1143	9-14-45-1	75101356604843414	Selice Romani	west2376	the midday	MIDDAY	12		dílo	dílo 
+1144	9-14-451-1	75101356316676537	Selice Romani	west2376	the afternoon	AFTERNOON	1807		palodílo	palodílo 
+1145	9-14-46-1	7510135679371226	Selice Romani	west2376	the evening	EVENING	1629		kéráti	kéráti 
+1146	9-14-47-1	75101356388260503	Selice Romani	west2376	today	TODAY	1283		adádí	adádí 
+1147	9-14-48-1	75101356782464372	Selice Romani	west2376	tomorrow	TOMORROW	1329		táha	táha 
+1148	9-14-481-1	75101356621707040	Selice Romani	west2376	the day after tomorrow	DAY AFTER TOMORROW	1179		palotáha	palotáha 
+1149	9-14-49-1	75101356113978886	Selice Romani	west2376	yesterday	YESTERDAY	1174		ídž	ídž 
+1150	9-14-491-1	75101356881512281	Selice Romani	west2376	the day before yesterday	DAY BEFORE YESTERDAY	1180		prekuídž	prekuídž 
+1151	9-14-51-1	75101356615948794	Selice Romani	west2376	the hour	HOUR	1353		óra	óra 
+1152	9-14-53-1	75101356615948794	Selice Romani	west2376	the clock	CLOCK	1323		óra	óra 
+1153	9-14-61-1	75101356820685550	Selice Romani	west2376	the week	WEEK	1469		kurko	kurko 
+1154	9-14-62-1	75101356820685550	Selice Romani	west2376	Sunday	SUNDAY	1699		kurko	kurko 
+1155	9-14-63-1	75101356766662997	Selice Romani	west2376	Monday	MONDAY	1697		hėtfeno	hėtfeno 
+1156	9-14-64-1	75101356266177043	Selice Romani	west2376	Tuesday	TUESDAY	1695		kėddo	kėddo 
+1157	9-14-65-1	75101356909680570	Selice Romani	west2376	Wednesday	WEDNESDAY	1694		serda	serda 
+1158	9-14-66-1	75101356220545596	Selice Romani	west2376	Thursday	THURSDAY	1693		čiterteko	čiterteko 
+1159	9-14-67-1	75101356408799221	Selice Romani	west2376	Friday	FRIDAY	1692		pinteko	pinteko 
+1160	9-14-67-2	75101356194645639	Selice Romani	west2376	Friday	FRIDAY	1692		parašťú	parašťú 
+1161	9-14-68-1	75101356335454626	Selice Romani	west2376	Saturday	SATURDAY	1700		sobota	sobota 
+1162	9-14-71-1	7510135634803531	Selice Romani	west2376	the month	MONTH	1370		masek	masek 
+1163	9-14-73-1	75101356667679285	Selice Romani	west2376	the year	YEAR	1226		berš	berš 
+1164	9-14-74-1	75101356408757535	Selice Romani	west2376	the winter	WINTER	1471		jevend	jevend 
+1165	9-14-75-1	75101356983510412	Selice Romani	west2376	the spring(2)	SPRINGTIME	1537		tavasi	tavasi 
+1166	9-14-76-1	75101356124654548	Selice Romani	west2376	the summer	SUMMER	1342		linaj	linaj 
+1167	9-14-77-1	75101356749721237	Selice Romani	west2376	the autumn/fall	AUTUMN	1276		éso	éso 
+1168	9-15-21-1	75101356594180837	Selice Romani	west2376	to smell(1)	SMELL (STINK)	1587		oven sagošno	oven sagošno 
+1169	9-15-89-1	75101356847412411	Selice Romani	west2376	wrinkled	WRINKLED	380		ráncošno	ráncošno 
+1170	9-15-212-1	75101356702209777	Selice Romani	west2376	to sniff	SNIFF	375		sagulinen	sagulinen 
+1171	9-15-22-1	75101356148797368	Selice Romani	west2376	to smell(2)	SMELL (PERCEIVE)	1586		hajon	hajon 
+1172	9-15-25-1	75101356704112205	Selice Romani	west2376	fragrant	FRAGRANT	376		sagošno	sagošno 
+1173	9-15-26-1	75101356301181747	Selice Romani	west2376	stinking	STINKING	42		khanden	khanden 
+1174	9-15-31-1	75101356654447754	Selice Romani	west2376	to taste	TASTE (SOMETHING)	21		izlinen	izlinen 
+1175	9-15-35-1	75101356812367441	Selice Romani	west2376	sweet	SWEET	717		gullo	gullo 
+1176	9-15-36-1	75101356738886673	Selice Romani	west2376	salty	SALTY	1091		londo	londo 
+1177	9-15-37-1	75101356493938429	Selice Romani	west2376	bitter	BITTER	887		kerko	kerko 
+1178	9-15-38-1	75101356765908672	Selice Romani	west2376	sour	SOUR	1906		šutlo	šutlo 
+1179	9-15-39-1	75101356757122821	Selice Romani	west2376	brackish	BRACKISH	70		londasto	londasto 
+1180	9-15-41-1	75101356985068092	Selice Romani	west2376	to hear	HEAR	1408		šunen	šunen 
+1181	9-15-42-1	75101356985068092	Selice Romani	west2376	to listen	LISTEN	1608		šunen	šunen 
+1182	9-15-44-1	75101356250361006	Selice Romani	west2376	the sound or noise	SOUND OR NOISE	1811		hango	hango 
+1183	9-15-44-2	75101356842668342	Selice Romani	west2376	the sound or noise	SOUND OR NOISE	1811		lárma	lárma 
+1184	9-15-45-1	75101356802994401	Selice Romani	west2376	loud	LOUD	377		hangošno	hangošno 
+1185	9-15-46-1	75101356607725085	Selice Romani	west2376	quiet	QUIET	1314		čendešno	čendešno 
+1186	9-15-51-1	7510135647853730	Selice Romani	west2376	to see	SEE	1409		dikhen	dikhen 
+1187	9-15-52-1	7510135647853730	Selice Romani	west2376	to look	LOOK	1819		dikhen	dikhen 
+1188	9-15-52-2	7812258657227183	Selice Romani	west2376	to look	LOOK	1819		bámulinen	bámulinen 
+1189	9-15-55-1	75101356134051514	Selice Romani	west2376	to show	SHOW	1039		sikaven	sikaven 
+1190	9-15-56-1	7510135669068581	Selice Romani	west2376	to shine	SHINE	708		világítinen	világítinen 
+1191	9-15-56-2	75101356541303172	Selice Romani	west2376	to shine	SHINE	708		raďoginen	raďoginen 
+1192	9-15-57-1	75101356756912136	Selice Romani	west2376	bright	BRIGHT	679		šúžo	šúžo 
+1193	9-15-61-1	75101356373363491	Selice Romani	west2376	the colour/color	COLOR	1613		síňo	síňo 
+1194	9-15-62-1	75101356662599139	Selice Romani	west2376	light(2)	LIGHT (COLOR)	250		világošno	világošno 
+1195	9-15-63-1	75101356547887278	Selice Romani	west2376	dark	DARK	706		šetítno	šetítno 
+1196	9-15-64-1	7510135662876008	Selice Romani	west2376	white	WHITE	1335		párno	párno 
+1197	9-15-65-1	75101356353599575	Selice Romani	west2376	black	BLACK	163		kálo	kálo 
+1198	9-15-66-1	75101356984010728	Selice Romani	west2376	red	RED	156		lólo	lólo 
+1199	9-15-67-1	75101356174192082	Selice Romani	west2376	blue	BLUE	837		kíkno	kíkno 
+1200	9-15-68-1	75101356932871176	Selice Romani	west2376	green	GREEN	1425		zeleno	zeleno 
+1201	9-15-69-1	75101356343693879	Selice Romani	west2376	yellow	YELLOW	1424		žuto (1)	žuto (1) 
+1202	9-15-71-1	7510135667684578	Selice Romani	west2376	to touch	TOUCH	1892		astaren	astaren 
+1203	9-15-712-1	75101356836378190	Selice Romani	west2376	to pinch	PINCH	378		čípinen	čípinen 
+1204	9-15-72-1	75101356148797368	Selice Romani	west2376	to feel	FEEL	1079		hajon	hajon 
+1205	9-15-74-1	75101356857724385	Selice Romani	west2376	hard	HARD	1884		zorálo	zorálo 
+1206	9-15-75-1	751013569435671	Selice Romani	west2376	soft	SOFT	1856		kólo	kólo 
+1207	9-15-76-1	75101356863800278	Selice Romani	west2376	rough(1)	ROUGH	1923		durvavo	durvavo 
+1208	9-15-77-1	7510135615332920	Selice Romani	west2376	smooth	SMOOTH	1234		šímavo	šímavo 
+1209	9-15-78-1	75101356853783028	Selice Romani	west2376	sharp	SHARP	1396		élešno	élešno 
+1210	9-15-79-1	75101356928876012	Selice Romani	west2376	blunt	BLUNT	379		tompavo	tompavo 
+1211	9-15-81-1	75101356535772570	Selice Romani	west2376	heavy	HEAVY	1210		pháro	pháro 
+1212	9-15-82-1	75101356425203644	Selice Romani	west2376	light(1)	LIGHT (WEIGHT)	1052		keňňíno	keňňíno 
+1213	9-15-83-1	75101356943815902	Selice Romani	west2376	wet	WET	1726		sapáno	sapáno 
+1214	9-15-83-2	7715931483831976	Selice Romani	west2376	wet	WET	1726		nedvešno	nedvešno 
+1215	9-15-84-1	7510135696949692	Selice Romani	west2376	dry	DRY	1398		šúko	šúko 
+1216	9-15-85-1	75101356797968517	Selice Romani	west2376	hot	HOT	1286		foróno	foróno 
+1217	9-15-85-2	75101356342283555	Selice Romani	west2376	hot	HOT	1286		táto	táto 
+1218	9-15-851-1	75101356342283555	Selice Romani	west2376	warm	WARM	1232		táto	táto 
+1219	9-15-86-1	75101356364004917	Selice Romani	west2376	cold	COLD	1287		šilálo	šilálo 
+1220	9-15-86-2	75101356350881536	Selice Romani	west2376	cold	COLD	1287		šudro	šudro 
+1221	9-15-87-1	75101356756912136	Selice Romani	west2376	clean	CLEAN	704		šúžo	šúžo 
+1222	9-15-88-1	75101356802068611	Selice Romani	west2376	dirty	DIRTY	1230		melálo	melálo 
+1223	9-16-11-1	75101356397287571	Selice Romani	west2376	the soul or spirit	SOUL	811		lėlko	lėlko 
+1224	9-16-15-1	7812251608210888	Selice Romani	west2376	surprised or astonished	SURPRISED	1572		dikhen báro	dikhen báro 
+1225	9-16-15-2	7812251750481804	Selice Romani	west2376	surprised or astonished	SURPRISED	1572		čudákozinen	čudákozinen 
+1226	9-16-15-3	7812258657227183	Selice Romani	west2376	surprised or astonished	SURPRISED	1572		bámulinen	bámulinen 
+1227	9-16-18-1	75101356181973304	Selice Romani	west2376	the good luck	GOOD LUCK	720		bast	bast 
+1228	9-16-19-1	75101356576742428	Selice Romani	west2376	the bad luck	BAD LUCK	56		nabast	nabast 
+1229	9-16-23-1	75101356790468788	Selice Romani	west2376	happy	HAPPY	1495		bastálo	bastálo 
+1230	9-16-25-1	75101356199073141	Selice Romani	west2376	to laugh	LAUGH	1355		asan	asan 
+1231	9-16-251-1	75101356199073141	Selice Romani	west2376	to smile	SMILE	1451		asan	asan 
+1232	9-16-26-1	75101356578531617	Selice Romani	west2376	to play	PLAY	1413		khelen	khelen 
+1233	9-16-26-2	75101356223789721	Selice Romani	west2376	to play	PLAY	1413		bašaven	bašaven 
+1234	9-16-27-1	751013562717538	Selice Romani	west2376	to love	LOVE	923		kamen	kamen 
+1235	9-16-29-1	75101356704044971	Selice Romani	west2376	to kiss	KISS	578		čumiden	čumiden 
+1236	9-16-3-1	75101356833051100	Selice Romani	west2376	to embrace	EMBRACE	928		ňalábolinen	ňalábolinen 
+1237	9-16-3-2	75101356505280759	Selice Romani	west2376	to embrace	EMBRACE	928		astaren préku	astaren préku 
+1238	9-16-3-3	7715922715423026	Selice Romani	west2376	to embrace	EMBRACE	928		elelinen, ölelinen	elelinen 
+1239	9-16-3-4	7715922715423026	Selice Romani	west2376	to embrace	EMBRACE	928		elelinen, ölelinen	ölelinen 
+1240	9-16-31-1	75101356537683591	Selice Romani	west2376	the pain	PAIN	1783		dukh	dukh 
+1241	9-16-32-1	75101356182230103	Selice Romani	west2376	the grief	GRIEF	1668		somorúšágo	somorúšágo 
+1242	9-16-33-1	75101356690112096	Selice Romani	west2376	the anxiety	ANXIETY	1000		gondo	gondo 
+1243	9-16-34-1	75101356567176446	Selice Romani	west2376	to regret or be sorry	REGRET	1875		šajnálinen	šajnálinen 
+1244	9-16-35-1	75101356308512067	Selice Romani	west2376	the pity	PITY	1141		šajnálato	šajnálato 
+1245	9-16-37-1	75101356413228155	Selice Romani	west2376	to cry	CRY	1839		roven	roven 
+1246	9-16-38-1	75101356971803792	Selice Romani	west2376	the tear	TEAR (OF EYE)	1651		ásva	ásva 
+1247	9-16-39-1	75101356511837820	Selice Romani	west2376	to groan	GROAN	716		jajgatinen	jajgatinen 
+1248	9-16-42-1	75101356302483745	Selice Romani	west2376	the anger	ANGER	82		hóli	hóli 
+1249	9-16-42-2	75101356738093183	Selice Romani	west2376	the anger	ANGER	82		idegeššígo	idegeššígo 
+1250	9-16-42-3	77271533621697775	Selice Romani	west2376	the anger	ANGER	82		rušen	rušen 
+1251	9-16-44-1	75101356214887447	Selice Romani	west2376	the envy or jealousy	ENVY	40		íriččígo	íriččígo 
+1252	9-16-44-2	75101356431074966	Selice Romani	west2376	the envy or jealousy	ENVY	40		darajibe	darajibe 
+1253	9-16-45-1	75101356309595618	Selice Romani	west2376	the shame	SHAME	1776		ladžavo	ladžavo 
+1254	9-16-48-1	75101356843246073	Selice Romani	west2376	proud	PROUD	174		gizdavo	gizdavo 
+1255	9-16-48-2	75101356487294165	Selice Romani	west2376	proud	PROUD	174		kíňešno	kíňešno 
+1256	9-16-51-1	75101356947662242	Selice Romani	west2376	to dare	DARE	1779		troman	troman 
+1257	9-16-52-1	75101356364921628	Selice Romani	west2376	brave	BRAVE	3		bátorno	bátorno 
+1258	9-16-53-1	75101356984506355	Selice Romani	west2376	the fear	FEAR (FRIGHT)	781		dár	dár 
+1259	9-16-62-1	751013562717538	Selice Romani	west2376	to want	WANT	1784		kamen	kamen 
+1260	9-16-622-1	75101356573169396	Selice Romani	west2376	to choose	CHOOSE	1750		válostinen	válostinen 
+1261	9-16-63-1	75101356715521348	Selice Romani	west2376	to hope	HOPE (SOMETHING)	3212		paťan	paťan 
+1262	9-16-66-1	75101356335756737	Selice Romani	west2376	true	TRUE	1657		čáčo	čáčo 
+1263	9-16-66-2	75101356844862929	Selice Romani	west2376	true	TRUE	1657		čačukáno	čačukáno 
+1264	9-16-67-1	75101356659192174	Selice Romani	west2376	to lie(2)	LIE (MISLEAD)	601		hazudinen	hazudinen 
+1265	9-16-68-1	7510135681926667	Selice Romani	west2376	the deceit	DECEIT	13		bečapáši	bečapáši 
+1266	9-16-68-2	75101356568787183	Selice Romani	west2376	the deceit	DECEIT	13		ándepekibe	ándepekibe 
+1267	9-16-69-1	75101356600633254	Selice Romani	west2376	to forgive	FORGIVE	1528		bočájtinen	bočájtinen 
+1268	9-16-71-1	75101356862242244	Selice Romani	west2376	good	GOOD	1035		láčho	láčho 
+1269	9-16-72-1	75101356277470315	Selice Romani	west2376	bad	BAD	1292		erďavo	erďavo 
+1270	9-16-73-1	75101356862242244	Selice Romani	west2376	right(2)	CORRECT (RIGHT)	1725		láčho	láčho 
+1271	9-16-74-1	75101356277470315	Selice Romani	west2376	wrong	WRONG	1390		erďavo	erďavo 
+1272	9-16-76-1	75101356169610432	Selice Romani	west2376	the fault	FAULT	134		hiba	hiba 
+1273	9-16-77-1	75101356169610432	Selice Romani	west2376	the mistake	MISTAKE	1293		hiba	hiba 
+1274	9-16-78-1	782453172304036	Selice Romani	west2376	the blame	BLAME	381		uprečhidkeribe	uprečhidkeribe 
+1275	9-16-78-2	75101356169610432	Selice Romani	west2376	the blame	BLAME	381		hiba	hiba 
+1276	9-16-79-1	75101356778960944	Selice Romani	west2376	the praise	PRAISE	1687		ašaribe	ašaribe 
+1277	9-16-81-1	7510135628076975	Selice Romani	west2376	beautiful	BEAUTIFUL	1427		šukár	šukár 
+1278	9-16-82-1	75101356691652057	Selice Romani	west2376	ugly	UGLY	1548		džungálo	džungálo 
+1279	9-16-83-1	75101356932310777	Selice Romani	west2376	greedy	GREEDY	2018		žugorotno	žugorotno 
+1280	9-16-83-2	75101356487154572	Selice Romani	west2376	greedy	GREEDY	2018		íhéhótlanno	íhéhótlanno 
+1281	9-16-84-1	75101356902081150	Selice Romani	west2376	clever	CLEVER	1310		goďaver	goďaver 
+1282	9-16-84-2	75101356982408468	Selice Romani	west2376	clever	CLEVER	1310		budžando	budžando 
+1283	9-17-11-1	75101356835429171	Selice Romani	west2376	the mind	MIND	1562		gódi	gódi 
+1284	9-17-13-1	75101356428390801	Selice Romani	west2376	to think(1)	THINK (REFLECT)	1415		gondúkozinen	gondúkozinen 
+1285	9-17-14-1	75101356452520291	Selice Romani	west2376	to think(2)	THINK (BELIEVE)	1513		gondolinen, gondulinen	gondolinen 
+1286	9-17-14-2	75101356452520291	Selice Romani	west2376	to think(2)	THINK (BELIEVE)	1513		gondolinen, gondulinen	gondulinen 
+1287	9-17-14-3	75101356948765752	Selice Romani	west2376	to think(2)	THINK (BELIEVE)	1513		džanen	džanen 
+1288	9-17-15-1	75101356715521348	Selice Romani	west2376	to believe	BELIEVE	1890		paťan	paťan 
+1289	9-17-16-1	75101356148797368	Selice Romani	west2376	to understand	UNDERSTAND	1536		hajon	hajon 
+1290	9-17-17-1	75101356948765752	Selice Romani	west2376	to know	KNOW (SOMETHING)	1410		džanen	džanen 
+1291	9-17-17-2	77131523283945585	Selice Romani	west2376	to know	KNOW (SOMETHING)	1410		pindžaren	pindžaren 
+1292	9-17-171-1	75101356754403786	Selice Romani	west2376	to guess	GUESS	1932		találinen	találinen 
+1293	9-17-172-1	75101356297609834	Selice Romani	west2376	to imitate	IMITATE	117		utánozinen	utánozinen 
+1294	9-17-18-1	75101356804631588	Selice Romani	west2376	to seem	SEEM	1521		diťhol	diťhol 
+1295	9-17-19-1	75101356434489079	Selice Romani	west2376	the idea	IDEA	1609		gondulato	gondulato 
+1296	9-17-21-1	75101356473260930	Selice Romani	west2376	wise	WISE	698		okošno	okošno 
+1297	9-17-21-2	75101356902081150	Selice Romani	west2376	wise	WISE	698		goďaver	goďaver 
+1298	9-17-22-1	75101356844544095	Selice Romani	west2376	stupid	STUPID	1518		dilino	dilino 
+1299	9-17-22-2	75101356580480465	Selice Romani	west2376	stupid	STUPID	1518		butavo	butavo 
+1300	9-17-22-3	75101356601086068	Selice Romani	west2376	stupid	STUPID	1518		bambavo	bambavo 
+1301	9-17-23-1	75101356844544095	Selice Romani	west2376	mad	MAD	1899		dilino	dilino 
+1302	9-17-23-2	75101356699524852	Selice Romani	west2376	mad	MAD	1899		zavarošno	zavarošno 
+1303	9-17-24-1	75101356566264135	Selice Romani	west2376	to learn	LEARN	504		sikjon	sikjon 
+1304	9-17-242-1	75101356566264135	Selice Romani	west2376	to study	STUDY	1929		sikjon	sikjon 
+1305	9-17-25-1	75101356134051514	Selice Romani	west2376	to teach	TEACH	709		sikaven	sikaven 
+1306	9-17-25-2	75101356559057268	Selice Romani	west2376	to teach	TEACH	709		sikjaren	sikjaren 
+1307	9-17-26-1	7510135633358276	Selice Romani	west2376	the pupil	PUPIL (STUDENT)	753		iškoláši	iškoláši 
+1308	9-17-26-2	75101356530463475	Selice Romani	west2376	the pupil	PUPIL (STUDENT)	753		tanuló	tanuló 
+1309	9-17-26-3	75101356115390930	Selice Romani	west2376	the pupil	PUPIL (STUDENT)	753		dijáko	dijáko 
+1310	9-17-27-1	7510135636088814	Selice Romani	west2376	the teacher	TEACHER	1038		tanító, tėnító	tanító 
+1311	9-17-27-2	7510135636088814	Selice Romani	west2376	the teacher	TEACHER	1038		tanító, tėnító	tėnító 
+1312	9-17-27-3	75222228572377495	Selice Romani	west2376	the teacher	TEACHER	1038		tanítókiňa, tėnítókiňa	tanítókiňa 
+1313	9-17-27-4	75222228572377495	Selice Romani	west2376	the teacher	TEACHER	1038		tanítókiňa, tėnítókiňa	tėnítókiňa 
+1314	9-17-28-1	75101356450680995	Selice Romani	west2376	the school	SCHOOL	673		iškola	iškola 
+1315	9-17-31-1	75101356822294534	Selice Romani	west2376	to remember	REMEMBER	707		emlékezinen, emléksinen	emlékezinen 
+1316	9-17-31-2	75101356822294534	Selice Romani	west2376	to remember	REMEMBER	707		emlékezinen, emléksinen	emléksinen 
+1317	9-17-31-3	77131827866018922	Selice Romani	west2376	to remember	REMEMBER	707		aven andi gódi	aven andi gódi 
+1318	9-17-32-1	75101356451156791	Selice Romani	west2376	to forget	FORGET	1523		pobiskeren	pobiskeren 
+1319	9-17-34-1	75101356662599139	Selice Romani	west2376	clear	CLEAR	989		világošno	világošno 
+1320	9-17-34-2	75101356756912136	Selice Romani	west2376	clear	CLEAR	989		šúžo	šúžo 
+1321	9-17-36-1	75101356756502834	Selice Romani	west2376	secret	SECRET	1121		titkošno	titkošno 
+1322	9-17-37-1	75101356978848103	Selice Romani	west2376	certain	CERTAIN	509		bistošno	bistošno 
+1323	9-17-38-1	75101356988138516	Selice Romani	west2376	to explain	EXPLAIN	1626		maďarázinen	maďarázinen 
+1324	9-17-41-1	751013567604788	Selice Romani	west2376	the intention	INTENTION	1162		sándíko	sándíko 
+1325	9-17-43-1	782318460357139	Selice Romani	west2376	the doubt	DOUBT	1308		kítelkedíši	kítelkedíši 
+1326	9-17-44-1	75101356649819277	Selice Romani	west2376	to suspect	SUSPECT	1841		kítelkedinen	kítelkedinen 
+1327	9-17-441-1	75101356479497458	Selice Romani	west2376	to betray	BETRAY	1902		peken ánde	peken ánde 
+1328	9-17-45-1	75101356226328912	Selice Romani	west2376	the need or necessity	NEED (NOUN)	643		site	site 
+1329	9-17-45-2	75101356651816028	Selice Romani	west2376	the need or necessity	NEED (NOUN)	643		kampe	kampe 
+1330	9-17-45-3	75101356666117582	Selice Romani	west2376	the need or necessity	NEED (NOUN)	643		kampon	kampon 
+1331	9-17-45-4	77131836445632136	Selice Romani	west2376	the need or necessity	NEED (NOUN)	643		sikšígo	sikšígo 
+1332	9-17-46-1	75101356425203644	Selice Romani	west2376	easy	EASY	686		keňňíno	keňňíno 
+1333	9-17-47-1	75101356535772570	Selice Romani	west2376	difficult	DIFFICULT	584		pháro	pháro 
+1334	9-17-48-1	75101356914819956	Selice Romani	west2376	to try	TRY	1812		próbinen	próbinen 
+1335	9-17-48-2	75101356113217501	Selice Romani	west2376	to try	TRY	1812		próbálinen	próbálinen 
+1336	9-17-51-1	75101356953504104	Selice Romani	west2376	and	AND	1577		taj	taj 
+1337	9-17-52-1	75101356340923255	Selice Romani	west2376	because	BECAUSE	1157		mėrt, mėr	mėrt 
+1338	9-17-52-2	75101356340923255	Selice Romani	west2376	because	BECAUSE	1157		mėrt, mėr	mėr 
+1339	9-17-52-3	75101356602092839	Selice Romani	west2376	because	BECAUSE	1157		mivėl	mivėl 
+1340	9-17-53-1	751013568450480	Selice Romani	west2376	if	IF	1459		te	te 
+1341	9-17-54-1	75101356627166207	Selice Romani	west2376	or	OR	1014		vaď	vaď 
+1342	9-17-55-1	7510135689464338	Selice Romani	west2376	yes	YES	1268		hát, há	hát 
+1343	9-17-55-2	7510135689464338	Selice Romani	west2376	yes	YES	1268		hát, há	há 
+1344	9-17-56-1	75101356216020557	Selice Romani	west2376	no	NO	1269		na	na 
+1345	9-17-61-1	75101356978495325	Selice Romani	west2376	how?	HOW	1239		sar	sar 
+1346	9-17-62-1	7510135656656748	Selice Romani	west2376	how many?	HOW MANY	822		kiťi	kiťi 
+1347	9-17-63-1	7510135656656748	Selice Romani	west2376	how much?	HOW MUCH	531		kiťi	kiťi 
+1348	9-17-64-1	75101356171171364	Selice Romani	west2376	what?	WHAT	1236		so	so 
+1349	9-17-65-1	75101356285062087	Selice Romani	west2376	when?	WHEN	1238		kana	kana 
+1350	9-17-66-1	75101356606934979	Selice Romani	west2376	where?	WHERE	1237		káj	káj 
+1351	9-17-66-2	75101356893017767	Selice Romani	west2376	where?	WHERE	1237		kija	kija 
+1352	9-17-67-1	75101356485541976	Selice Romani	west2376	which?	WHICH	727		savo	savo 
+1353	9-17-68-1	75101356826622340	Selice Romani	west2376	who?	WHO	1235		ko	ko 
+1354	9-17-69-1	75101356129071308	Selice Romani	west2376	why?	WHY	1270		soske	soske 
+1355	9-17-69-2	75101356171171364	Selice Romani	west2376	why?	WHY	1270		so	so 
+1356	9-18-11-1	75101356250361006	Selice Romani	west2376	the voice	VOICE	1363		hango	hango 
+1357	9-18-12-1	7510135685724159	Selice Romani	west2376	to sing	SING	1261		ďijázinen	ďijázinen 
+1358	9-18-13-1	75101356554746436	Selice Romani	west2376	to shout	SHOUT	715		vičinen	vičinen 
+1359	9-18-15-1	75101356578451881	Selice Romani	west2376	to whisper	WHISPER	55		šušoginen	šušoginen 
+1360	9-18-16-1	75101356462277372	Selice Romani	west2376	to mumble	MUMBLE	128		morginen	morginen 
+1361	9-18-17-1	75101356109758540	Selice Romani	west2376	to whistle	WHISTLE	1025		fiťelinen	fiťelinen 
+1362	9-18-18-1	7510135695383421	Selice Romani	west2376	to shriek	SHRIEK	298		ordítinen	ordítinen 
+1363	9-18-18-2	7510135647929437	Selice Romani	west2376	to shriek	SHRIEK	298		ňerítinen	ňerítinen 
+1364	9-18-18-3	77141043788194634	Selice Romani	west2376	to shriek	SHRIEK	298		šikójtinen	šikójtinen 
+1365	9-18-19-1	75101356413228155	Selice Romani	west2376	to howl	HOWL	526		roven	roven 
+1366	9-18-21-1	75101356799400216	Selice Romani	west2376	to speak or talk	SPEAK	1623		vakeren	vakeren 
+1367	9-18-211-1	7510135681647065	Selice Romani	west2376	to stutter or stammer	STUTTER	1866		hėbėginen	hėbėginen 
+1368	9-18-22-1	75101356275541643	Selice Romani	west2376	to say	SAY	1458		phenen	phenen 
+1369	9-18-221-1	75101356799400216	Selice Romani	west2376	to tell	TELL	1711		vakeren	vakeren 
+1370	9-18-222-1	75101356525073071	Selice Romani	west2376	the speech	SPEECH	1115		vakeribe	vakeribe 
+1371	9-18-23-1	75101356387722260	Selice Romani	west2376	to be silent	BE SILENT	48		halgatinen	halgatinen 
+1372	9-18-24-1	75101356736215894	Selice Romani	west2376	the language	LANGUAGE	1307		čhib	čhib 
+1373	9-18-26-1	75101356430521370	Selice Romani	west2376	the word	WORD	1599		álav	álav 
+1374	9-18-28-1	7510135662443432	Selice Romani	west2376	the name	NAME	1405		ánav	ánav 
+1375	9-18-31-1	75101356823332246	Selice Romani	west2376	to ask(1)	ASK (INQUIRE)	1309		phučen	phučen 
+1376	9-18-32-1	75101356697291670	Selice Romani	west2376	to answer	ANSWER	1275		fėlėlinen	fėlėlinen 
+1377	9-18-33-1	75101356938648221	Selice Romani	west2376	to admit	ADMIT	2022		pindžaren ánde	pindžaren ánde 
+1378	9-18-34-1	75101356314906264	Selice Romani	west2376	to deny	DENY	755		tagadinen	tagadinen 
+1379	9-18-35-1	75101356875856933	Selice Romani	west2376	to ask(2)	ASK (REQUEST)	1828		mangen	mangen 
+1380	9-18-36-1	7510135626404274	Selice Romani	west2376	to promise	PROMISE	1675		priminen	priminen 
+1381	9-18-37-1	75101356539891941	Selice Romani	west2376	to refuse	REFUSE	49		phenen pále	phenen pále 
+1382	9-18-38-1	75101356546700291	Selice Romani	west2376	to forbid	FORBID	83		tiltinen	tiltinen 
+1383	9-18-39-1	7510135691575126	Selice Romani	west2376	to scold	SCOLD	299		phenen téle	phenen téle 
+1384	9-18-41-1	75101356884220516	Selice Romani	west2376	to call(1)	CALL	1084		akharen	akharen 
+1385	9-18-42-1	75101356884220516	Selice Romani	west2376	to call(2)	CALL BY NAME	180		akharen	akharen 
+1386	9-18-42-2	7831225812733940	Selice Romani	west2376	to call(2)	CALL BY NAME	180		nevezinen	nevezinen 
+1387	9-18-43-1	75101356937217168	Selice Romani	west2376	to announce	ANNOUNCE	9		jėlentinen	jėlentinen 
+1388	9-18-44-1	75101356443644016	Selice Romani	west2376	to threaten	THREATEN	1192		daraven	daraven 
+1389	9-18-45-1	75101356505352289	Selice Romani	west2376	to boast	BOAST	101		ašaren pe/pumen	ašaren pe 
+1390	9-18-45-2	75101356505352289	Selice Romani	west2376	to boast	BOAST	101		ašaren pe/pumen	pumen 
+1391	9-18-51-1	75101356386718820	Selice Romani	west2376	to write	WRITE	1672		írinen	írinen 
+1392	9-18-52-1	75101356216336541	Selice Romani	west2376	to read	READ	724		genen	genen 
+1393	9-18-56-1	75101356415227734	Selice Romani	west2376	the paper	PAPER	648		papíri	papíri 
+1394	9-18-57-1	7510135639749975	Selice Romani	west2376	the pen	PEN	794		tollo	tollo 
+1395	9-18-61-1	75101356345189031	Selice Romani	west2376	the book	BOOK	963		keňvo	keňvo 
+1396	9-18-67-1	75101356353203915	Selice Romani	west2376	the poet	POET	1045		veršíró	veršíró 
+1397	9-18-71-1	75101356118791165	Selice Romani	west2376	the flute	FLUTE	777		šípa	šípa 
+1398	9-18-72-1	75101356335771134	Selice Romani	west2376	the drum	DRUM	908		dobo	dobo 
+1399	9-18-73-1	75101356748248232	Selice Romani	west2376	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		trombita	trombita 
+1400	9-18-74-1	75101356470113787	Selice Romani	west2376	the rattle	RATTLE	300		čerginen	čerginen 
+1401	9-18-74-2	75101356897207222	Selice Romani	west2376	the rattle	RATTLE	300		čergó, čergóva	čergó 
+1402	9-18-74-3	75101356897207222	Selice Romani	west2376	the rattle	RATTLE	300		čergó, čergóva	čergóva 
+1403	9-19-11-1	75101356431562613	Selice Romani	west2376	the country	COUNTRY	1300		álmo	álmo 
+1404	9-19-11-2	75101356356993989	Selice Romani	west2376	the country	COUNTRY	1300		phú	phú 
+1405	9-19-12-1	75101356505181628	Selice Romani	west2376	the native country	NATIVE COUNTRY	89		hazájo	hazájo 
+1406	9-19-15-1	75101356444716829	Selice Romani	west2376	the town	TOWN	1391		fóro	fóro 
+1407	9-19-16-1	75101356467166628	Selice Romani	west2376	the village	VILLAGE	930		gav	gav 
+1408	9-19-17-1	75101356312777473	Selice Romani	west2376	the boundary	BOUNDARY	1010		határi	határi 
+1409	9-19-21-1	75101356678809448	Selice Romani	west2376	the people	PEOPLE	789		nípo	nípo 
+1410	9-19-23-1	75101356647198515	Selice Romani	west2376	the clan	CLAN	302		fajta	fajta 
+1411	9-19-24-1	75101356416104	Selice Romani	west2376	the chieftain	CHIEFTAIN	301		vajda	vajda 
+1412	9-19-24-2	75101356735022712	Selice Romani	west2376	the chieftain	CHIEFTAIN	301		vėzėtó	vėzėtó 
+1413	9-19-24-3	7624127691050078	Selice Romani	west2376	the chieftain	CHIEFTAIN	301		fé	fé 
+1414	9-19-25-1	75101356424575822	Selice Romani	west2376	the walking stick	WALKING STICK	1296		kopaj	kopaj 
+1415	9-19-25-2	75101356279600256	Selice Romani	west2376	the walking stick	WALKING STICK	1296		bota	bota 
+1416	9-19-31-1	7510135668763756	Selice Romani	west2376	to rule or govern	RULE	1846		vėzėtinen	vėzėtinen 
+1417	9-19-32-1	75101356729657982	Selice Romani	west2376	the king	KING	1508		királi	királi 
+1418	9-19-33-1	75101356516793331	Selice Romani	west2376	the queen	QUEEN	1306		kiráckiňa	kiráckiňa 
+1419	9-19-36-1	75101356523838467	Selice Romani	west2376	the noble	NOBLE	482		raj	raj 
+1420	9-19-36-2	7727232606619508	Selice Romani	west2376	the noble	NOBLE	482		ráni	ráni 
+1421	9-19-41-1	75101356523838467	Selice Romani	west2376	the master	MASTER	383		raj	raj 
+1422	9-19-41-2	7727232606619508	Selice Romani	west2376	the master	MASTER	383		ráni	ráni 
+1423	9-19-42-1	75101356726324016	Selice Romani	west2376	the slave	SLAVE	812		rabo	rabo 
+1424	9-19-43-1	75101356346717465	Selice Romani	west2376	the servant	SERVANT	255		solga	solga 
+1425	9-19-45-1	75101356469479293	Selice Romani	west2376	to command or order	ORDER	1128		parančolinen	parančolinen 
+1426	9-19-46-1	75101356142480356	Selice Romani	west2376	to obey	OBEY	1635		kanden	kanden 
+1427	9-19-47-1	75101356898756725	Selice Romani	west2376	to permit	PERMIT	1003		muken	muken 
+1428	9-19-47-2	75101356762688202	Selice Romani	west2376	to permit	PERMIT	1003		engedinen	engedinen 
+1429	9-19-51-1	75101356847194887	Selice Romani	west2376	the friend	FRIEND	1325		baráto	baráto 
+1430	9-19-51-2	75101356200683770	Selice Romani	west2376	the friend	FRIEND	1325		haveri	haveri 
+1431	9-19-51-3	75101356636350195	Selice Romani	west2376	the friend	FRIEND	1325		pajtáši	pajtáši 
+1432	9-19-52-1	75101356171251704	Selice Romani	west2376	the enemy	ENEMY	1358		ellėnšígo	ellėnšígo 
+1433	9-19-54-1	75101356254644781	Selice Romani	west2376	the neighbour	NEIGHBOUR	1332		somsído	somsído 
+1434	9-19-55-1	75101356540827604	Selice Romani	west2376	the stranger	STRANGER	791		idegenno	idegenno 
+1435	9-19-56-1	75101356156118705	Selice Romani	west2376	the guest	GUEST	1782		vėndígo	vėndígo 
+1436	9-19-57-1	782329659560965	Selice Romani	west2376	the host	HOST	1545		vėndígelinav	vėndígelinav 
+1437	9-19-58-1	75101356868865027	Selice Romani	west2376	to help	HELP	1897		šegítinen	šegítinen 
+1438	9-19-59-1	75101356539975898	Selice Romani	west2376	to prevent	PREVENT	1550		vídinen	vídinen 
+1439	9-19-61-1	75101356573894021	Selice Romani	west2376	the custom	CUSTOM	1747		sokáši	sokáši 
+1440	9-19-62-1	75101356487920032	Selice Romani	west2376	the quarrel	QUARREL	1848		feleškedíši	feleškedíši 
+1441	9-19-62-2	75101356889628216	Selice Romani	west2376	the quarrel	QUARREL	1848		pellíši	pellíši 
+1442	9-19-62-3	75101356795214955	Selice Romani	west2376	the quarrel	QUARREL	1848		pelinibe	pelinibe 
+1443	9-19-65-1	75101356854789677	Selice Romani	west2376	to meet	MEET	1831		talákozinen	talákozinen 
+1444	9-19-72-1	75101356329970515	Selice Romani	west2376	the prostitute	PROSTITUTE	1610		lubni	lubni 
+1445	9-20-11-1	75101356547498437	Selice Romani	west2376	to fight	FIGHT	1423		marakodinen	marakodinen 
+1446	9-20-11-2	75101356389553954	Selice Romani	west2376	to fight	FIGHT	1423		háborúzinen	háborúzinen 
+1447	9-20-13-1	7510135626987563	Selice Romani	west2376	the war or battle	BATTLE	579		háború	háború 
+1448	9-20-14-1	75101356598759779	Selice Romani	west2376	the peace	PEACE	1338		bíkeššígo	bíkeššígo 
+1449	9-20-14-2	7651653867707751	Selice Romani	west2376	the peace	PEACE	1338		smírom	smírom 
+1450	9-20-15-1	75101356806374798	Selice Romani	west2376	the army	ARMY	1561		lukestašágo	lukestašágo 
+1451	9-20-17-1	75101356862082552	Selice Romani	west2376	the soldier	SOLDIER	1941		lukesto	lukesto 
+1452	9-20-21-1	75101356658860810	Selice Romani	west2376	the weapons	WEAPONS	951		itlėko	itlėko 
+1453	9-20-21-2	75101356871689676	Selice Romani	west2376	the weapons	WEAPONS	951		feďveri	feďveri 
+1454	9-20-22-1	75101356424575822	Selice Romani	west2376	the club	CLUB	1763		kopaj	kopaj 
+1455	9-20-23-1	75101356653109579	Selice Romani	west2376	the sling	SLING	387		pariťťa	pariťťa 
+1456	9-20-24-1	75101356277982133	Selice Romani	west2376	the bow	BOW	994		ňila	ňila 
+1457	9-20-25-1	75101356463654463	Selice Romani	west2376	the arrow	ARROW	977		šípo	šípo 
+1458	9-20-26-1	75101356186744472	Selice Romani	west2376	the spear	SPEAR	945		ošťepo	ošťepo 
+1459	9-20-27-1	75101356787280405	Selice Romani	west2376	the sword	SWORD	1535		kardo	kardo 
+1460	9-20-28-1	75101356132107186	Selice Romani	west2376	the gun	GUN	1566		puška	puška 
+1461	9-20-31-1	782342877174917	Selice Romani	west2376	the armour	ARMOUR	1061		páncílke gáda	páncílke gáda 
+1462	9-20-33-1	75101356257202808	Selice Romani	west2376	the helmet	HELMET	1680		šišako	šišako 
+1463	9-20-33-2	75101356508310756	Selice Romani	west2376	the helmet	HELMET	1680		helma	helma 
+1464	9-20-36-1	75101356451365824	Selice Romani	west2376	the tower	TOWER	1671		torňo	torňo 
+1465	9-20-41-1	75101356645441034	Selice Romani	west2376	the victory	VICTORY	783		ňeríši	ňeríši 
+1466	9-20-41-2	75101356129239584	Selice Romani	west2376	the victory	VICTORY	783		ňerinibe	ňerinibe 
+1467	9-20-42-1	75101356996268361	Selice Romani	west2376	the defeat	DEFEAT	782		vestíši	vestíši 
+1468	9-20-43-1	75101356397079984	Selice Romani	west2376	the attack	ATTACK	722		támodáši	támodáši 
+1469	9-20-44-1	75101356539975898	Selice Romani	west2376	to defend	DEFEND	1330		vídinen	vídinen 
+1470	9-20-45-1	75101356733274666	Selice Romani	west2376	to retreat	RETREAT	421		lípinen pále	lípinen pále 
+1471	9-20-46-1	75101356488991417	Selice Romani	west2376	to surrender	SURRENDER	1696		phenen upre	phenen upre 
+1472	9-20-47-1	75101356213237049	Selice Romani	west2376	the captive or prisoner	PRISONER	1072		fogla	fogla 
+1473	9-20-47-2	75101356309932	Selice Romani	west2376	the captive or prisoner	PRISONER	1072		bertenéreši	bertenéreši 
+1474	9-20-47-3	75101356726324016	Selice Romani	west2376	the captive or prisoner	PRISONER	1072		rabo	rabo 
+1475	9-20-471-1	75101356320711345	Selice Romani	west2376	the guard	GUARD	1940		viďázó	viďázó 
+1476	9-20-471-2	75101356938352217	Selice Romani	west2376	the guard	GUARD	1940		éršígo	éršígo 
+1477	9-20-471-3	75101356606914657	Selice Romani	west2376	the guard	GUARD	1940		baxo	baxo 
+1478	9-20-51-1	75101356927772838	Selice Romani	west2376	the fisherman	FISHERMAN	1858		halási	halási 
+1479	9-20-52-1	75101356479928694	Selice Romani	west2376	the fishhook	FISHHOOK	1074		horga	horga 
+1480	9-20-53-1	75101356415365167	Selice Romani	west2376	the fishing line	FISHING LINE	19		žinego	žinego 
+1481	9-20-54-1	75101356182182137	Selice Romani	west2376	the fishnet	FISHNET	388		hálló	hálló 
+1482	9-20-56-1	75101356959530821	Selice Romani	west2376	the bait	BAIT	2013		čaló, čálló	čaló 
+1483	9-20-56-2	75101356959530821	Selice Romani	west2376	the bait	BAIT	2013		čaló, čálló	čálló 
+1484	9-20-61-1	75101356695132019	Selice Romani	west2376	to hunt	HUNT	1435		vadásinen	vadásinen 
+1485	9-20-62-1	75101356361179309	Selice Romani	west2376	to shoot	SHOOT	1172		levinen	levinen 
+1486	9-20-62-2	75101356148546370	Selice Romani	west2376	to shoot	SHOOT	1172		lédezinen	lédezinen 
+1487	9-20-62-3	75271114200307182	Selice Romani	west2376	to shoot	SHOOT	1172		kárjázinen	kárjázinen 
+1488	9-20-62-4	75271124175435216	Selice Romani	west2376	to shoot	SHOOT	1172		den kárja	den kárja 
+1489	9-20-63-1	75101356763251570	Selice Romani	west2376	to miss	MISS (A TARGET)	161		múlinen	múlinen 
+1490	9-20-64-1	75101356319872218	Selice Romani	west2376	the trap	TRAP (PITFALL)	1075		čabda	čabda 
+1491	9-21-11-1	75101356928018761	Selice Romani	west2376	the law	LAW	1062		tervíňa	tervíňa 
+1492	9-21-15-1	7510135665785784	Selice Romani	west2376	the court	COURT	1068		bíróšágo	bíróšágo 
+1493	9-21-15-2	75101356503455393	Selice Romani	west2376	the court	COURT	1068		súdo	súdo 
+1494	9-21-15-3	75101356162525919	Selice Romani	west2376	the court	COURT	1068		kríza, krísa	kríza 
+1495	9-21-15-4	75101356162525919	Selice Romani	west2376	the court	COURT	1068		kríza, krísa	krísa 
+1496	9-12-013-1	75101356438995172	Selice Romani	west2376	at	AT	1461		ki	ki 
+1497	9-21-16-1	75101356525884719	Selice Romani	west2376	to adjudicate	ADJUDICATE	1818		čhoren	čhoren 
+1498	9-21-17-1	7510135665785784	Selice Romani	west2376	the judgment	JUDGMENT	1067		bíróšágo	bíróšágo 
+1499	9-21-18-1	75101356779051986	Selice Romani	west2376	the judge	JUDGE	861		bíró	bíró 
+1500	9-21-23-1	75101356884601698	Selice Romani	west2376	the witness	WITNESS	1144		tanú	tanú 
+1501	9-21-24-1	75101356352314109	Selice Romani	west2376	to swear	SWEAR	1939		sojharen	sojharen 
+1502	9-21-25-1	75101356401808584	Selice Romani	west2376	the oath	OATH	1712		sojharibe	sojharibe 
+1503	9-21-25-2	75101356544946326	Selice Romani	west2376	the oath	OATH	1712		sojhar	sojhar 
+1504	9-21-32-1	751013561570486	Selice Romani	west2376	to condemn	CONDEMN	484		ítílinen	ítílinen 
+1505	9-21-33-1	75101356952582452	Selice Romani	west2376	to convict	CONVICT	983		sikaven ánde	sikaven ánde 
+1506	9-21-35-1	75101356952676854	Selice Romani	west2376	guilty	GUILTY	1682		bínešno	bínešno 
+1507	9-21-35-2	75101356229887746	Selice Romani	west2376	guilty	GUILTY	1682		hibášno	hibášno 
+1508	9-21-36-1	75101356154986687	Selice Romani	west2376	innocent	INNOCENT	90		bíntelėnno	bíntelėnno 
+1509	9-21-37-1	75101356392704943	Selice Romani	west2376	the penalty or punishment	PUNISHMENT	390		bíntetíši	bíntetíši 
+1510	9-21-39-1	75101356806840993	Selice Romani	west2376	the prison	PRISON	1281		berteno	berteno 
+1511	9-21-42-1	75101356400297378	Selice Romani	west2376	the murder	MURDER	845		murdaribe	murdaribe 
+1512	9-21-42-2	7812058943369712	Selice Romani	west2376	the murder	MURDER	845		ďilkoššágo	ďilkoššágo 
+1513	9-21-43-1	75101356747612880	Selice Romani	west2376	the adultery	ADULTERY	902		lubipe	lubipe 
+1514	9-21-44-1	75101356879907278	Selice Romani	west2376	the rape	RAPE	953		erésakolláši	erésakolláši 
+1515	9-21-51-1	75101356517572859	Selice Romani	west2376	to steal	STEAL	713		čóren	čóren 
+1516	9-21-52-1	75101356431339912	Selice Romani	west2376	the thief	THIEF	1160		čór	čór 
+1517	9-21-52-2	75101356411163659	Selice Romani	west2376	the thief	THIEF	1160		čórkiňa	čórkiňa 
+1518	9-22-11-1	75101356519901425	Selice Romani	west2376	the religion	RELIGION	661		hito	hito 
+1519	9-22-12-1	75101356846706414	Selice Romani	west2376	the god	DEITY	3231		dél	dél 
+1520	9-22-13-1	75101356524030231	Selice Romani	west2376	the temple	TEMPLE	911		khangéri	khangéri 
+1521	9-22-14-1	75101356823867641	Selice Romani	west2376	the altar	ALTAR	853		oltári	oltári 
+1522	9-22-17-1	75101356395647884	Selice Romani	west2376	to pray	PRAY	24		molinen	molinen 
+1523	9-22-18-1	75101356686174394	Selice Romani	west2376	the priest	PRIEST	852		rašaj	rašaj 
+1524	9-22-19-1	75101356255669834	Selice Romani	west2376	holy	HOLY	1702		sentno	sentno 
+1525	9-22-22-1	75101356421083181	Selice Romani	west2376	to preach	PREACH	304		prédikálinen	prédikálinen 
+1526	9-22-23-1	75101356721255432	Selice Romani	west2376	to bless	BLESS	391		áldinen	áldinen 
+1527	9-22-24-1	75101356965911353	Selice Romani	west2376	to curse	CURSE	8		átkozinen	átkozinen 
+1528	9-22-24-2	77271533798429064	Selice Romani	west2376	to curse	CURSE	8		košen	košen 
+1529	9-22-26-1	75101356638305208	Selice Romani	west2376	to fast	ABSTAIN FROM FOOD	303		bétlinen	bétlinen 
+1530	9-22-31-1	75101356118277078	Selice Romani	west2376	the heaven	HEAVEN	1565		nebo	nebo 
+1531	9-22-32-1	75101356405570368	Selice Romani	west2376	the hell	HELL	878		poklo	poklo 
+1532	9-22-35-1	75101356753995144	Selice Romani	west2376	the demon	DEMON	1973		béng	béng 
+1533	9-22-42-1	75101356433545567	Selice Romani	west2376	the magic	MAGIC	392		čohanipe	čohanipe 
+1534	9-22-43-1	75101356332915856	Selice Romani	west2376	the sorcerer or witch	MAGICIAN	2137		čoháni	čoháni 
+1535	9-22-43-2	75101356307475741	Selice Romani	west2376	the sorcerer or witch	MAGICIAN	2137		čoháno	čoháno 
+1536	9-22-44-1	75101356181615373	Selice Romani	west2376	the fairy or elf	ELF OR FAIRY	3206		víla	víla 
+1537	9-22-44-2	75101356571461858	Selice Romani	west2376	the fairy or elf	ELF OR FAIRY	3206		véšeskeri džuvli	véšeskeri džuvli 
+1538	9-22-44-3	75101356646077831	Selice Romani	west2376	the fairy or elf	ELF OR FAIRY	3206		páňiskeri džuvli	páňiskeri džuvli 
+1539	9-22-44-4	75101356271143084	Selice Romani	west2376	the fairy or elf	ELF OR FAIRY	3206		škráteko	škráteko 
+1540	9-22-45-1	75101356749993165	Selice Romani	west2376	the ghost	GHOST	1175		sėllėmo	sėllėmo 
+1541	9-22-45-2	7618351786214025	Selice Romani	west2376	the ghost	GHOST	1175		múlo (2)	múlo (2) 
+1542	9-22-47-1	75101356600831849	Selice Romani	west2376	the omen	OMEN	107		jelentíši	jelentíši 
+1543	9-23-1-1	75101356982405531	Selice Romani	west2376	the radio	RADIO	1315		rádió	rádió 
+1544	9-23-11-1	75101356748709108	Selice Romani	west2376	the television	TELEVISION	1788		televízijó	televízijó 
+1545	9-23-12-1	75101356890437168	Selice Romani	west2376	the telephone	TELEPHONE	1379		telefono	telefono 
+1546	9-23-135-1	75101356700308730	Selice Romani	west2376	the motorcycle	MOTORCYCLE	638		motorka	motorka 
+1547	9-23-14-1	75101356955519740	Selice Romani	west2376	the car	CAR	1111		avutó	avutó 
+1548	9-23-15-1	75101356479499633	Selice Romani	west2376	the bus	BUS	1070		busi	busi 
+1549	9-23-16-1	7510135648807116	Selice Romani	west2376	the airplane	AIRPLANE	1597		repilló	repilló 
+1550	9-23-17-1	75101356914341893	Selice Romani	west2376	the electricity	ELECTRICITY	59		villaňi	villaňi 
+1551	9-23-175-1	7510135683396647	Selice Romani	west2376	the battery	BATTERY	662		ėllemo	ėllemo 
+1552	9-23-175-2	75101356936392314	Selice Romani	west2376	the battery	BATTERY	662		baterka	baterka 
+1553	9-23-2-1	75101356274686081	Selice Romani	west2376	the hospital	HOSPITAL	616		korházo	korházo 
+1554	9-23-21-1	75101356418532088	Selice Romani	west2376	the nurse	NURSE	1104		sestrička	sestrička 
+1555	9-23-22-1	75101356876832157	Selice Romani	west2376	the pill or tablet	PILL	395		tabletta	tabletta 
+1556	9-23-23-1	75101356230530495	Selice Romani	west2376	the injection	INJECTION	1805		inekció	inekció 
+1557	9-23-5-1	75101356981938471	Selice Romani	west2376	the tap/faucet	FAUCET	1488		čapo	čapo 
+1558	9-23-51-1	75101356713921380	Selice Romani	west2376	the sink	SINK (BASIN)	915		moždó	moždó 
+1559	9-23-52-1	75101356477195828	Selice Romani	west2376	the toilet	TOILET	219		vécė, véca	vécė 
+1560	9-23-52-2	75101356477195828	Selice Romani	west2376	the toilet	TOILET	219		vécė, véca	véca 
+1561	9-23-52-3	75101356708180005	Selice Romani	west2376	the toilet	TOILET	219		klozeto	klozeto 
+1562	9-23-53-1	75101356983453936	Selice Romani	west2376	the mattress	MATTRESS	105		madraci	madraci 
+1563	9-23-3-1	75101356519821713	Selice Romani	west2376	the government	GOVERNMENT	815		vláda	vláda 
+1564	9-23-31-1	75101356196316162	Selice Romani	west2376	the president	PRESIDENT	899		prezidento	prezidento 
+1565	9-23-32-1	75101356125692975	Selice Romani	west2376	the minister	MINISTER	486		ministeri	ministeri 
+1566	9-23-33-1	75101356800393142	Selice Romani	west2376	the police	POLICE	656		čendéri	čendéri 
+1567	9-23-33-2	75101356331332927	Selice Romani	west2376	the police	POLICE	656		čendéršígo	čendéršígo 
+1568	9-23-33-3	7526227762837560	Selice Romani	west2376	the police	POLICE	656		čačuno	čačuno 
+1569	9-23-34-1	75101356835003602	Selice Romani	west2376	the driver's license	DRIVER'S LICENSE	599		voďičáko	voďičáko 
+1570	9-23-34-2	75101356415227734	Selice Romani	west2376	the driver's license	DRIVER'S LICENSE	599		papíri	papíri 
+1571	9-23-38-1	75101356807190511	Selice Romani	west2376	the election	ELECTION	240		válostáši	válostáši 
+1572	9-23-4-1	75101356465349605	Selice Romani	west2376	the post/mail	MAIL	167		póšta	póšta 
+1573	9-23-41-1	75101356536161755	Selice Romani	west2376	the postage stamp	POSTAGE STAMP	596		billego	billego 
+1574	9-23-42-1	75101356800714156	Selice Romani	west2376	the letter	LETTER	1612		kárťa	kárťa 
+1575	9-23-44-1	75101356453632032	Selice Romani	west2376	the bank	BANK	1284		banka	banka 
+1576	9-23-54-1	75101356101298877	Selice Romani	west2376	the tin/can	CAN	1051		bátogó	bátogó 
+1577	9-23-54-2	75101356431048684	Selice Romani	west2376	the tin/can	CAN	1051		konzerva	konzerva 
+1578	9-23-55-1	75101356172313713	Selice Romani	west2376	the screw	SCREW	1802		čavaró	čavaró 
+1579	9-23-55-2	75101356118021863	Selice Romani	west2376	the screw	SCREW	1802		šrófo	šrófo 
+1580	9-23-555-1	75101356293429808	Selice Romani	west2376	the screwdriver	SCREWDRIVER	836		čavarhúzó	čavarhúzó 
+1581	9-23-56-1	75101356756663496	Selice Romani	west2376	the bottle	BOTTLE	1321		caklo	caklo 
+1582	9-23-565-1	75101356265331017	Selice Romani	west2376	the candy/sweets	CANDY	874		gullipe	gullipe 
+1583	9-23-565-2	75101356584804750	Selice Romani	west2376	the candy/sweets	CANDY	874		pekibe	pekibe 
+1584	9-23-24-1	75101356381456466	Selice Romani	west2376	the spectacles/glasses	SPECTACLES	1898		sėmivėgo	sėmivėgo 
+1585	9-23-57-1	7510135638746411	Selice Romani	west2376	the plastic	PLASTIC	654		míaňago	míaňago 
+1586	9-23-575-1	75101356165218561	Selice Romani	west2376	the bomb	BOMB	1804		bomba	bomba 
+1587	9-23-58-1	75101356441490542	Selice Romani	west2376	the workshop	WORKSHOP	1677		míhėlė	míhėlė 
+1588	9-23-59-1	75101356723032955	Selice Romani	west2376	the cigarette	CIGARETTE	969		cigaretta	cigaretta 
+1589	9-23-61-1	75101356772613448	Selice Romani	west2376	the calendar	CALENDAR	1967		naptári	naptári 
+1590	9-23-62-1	7510135660289268	Selice Romani	west2376	the film/movie	MOVIE	216		mozi	mozi 
+1591	9-23-63-1	75101356647626381	Selice Romani	west2376	the music	MUSIC	642		zėnė	zėnė 
+1592	9-23-63-2	7526219629506401	Selice Romani	west2376	the music	MUSIC	642		bašajibe	bašajibe 
+1593	9-23-64-1	7510135678143565	Selice Romani	west2376	the song	SONG	1096		ďíli	ďíli 
+1594	9-23-6-1	7510135636032611	Selice Romani	west2376	the newspaper	NEWSPAPER	1298		újšágo	újšágo 
+1595	9-23-385-1	75101356496096456	Selice Romani	west2376	the address	ADDRESS	591		címo	címo 
+1596	9-23-39-1	75101356967527732	Selice Romani	west2376	the number	NUMBER	1356		sámo	sámo 
+1597	9-23-155-1	75101356337591218	Selice Romani	west2376	the train	TRAIN	900		vonato	vonato 
+1598	9-23-36-1	75101356334638504	Selice Romani	west2376	the birth certificate	BIRTH CERTIFICATE	397		kerestlėvėlo	kerestlėvėlo 
+1599	9-23-18-1	75101356229654324	Selice Romani	west2376	to brake	BRAKE	966		fékezinen	fékezinen 
+1600	9-23-195-1	75101356981938125	Selice Romani	west2376	the petroleum	PETROLEUM	650		nafta	nafta 
+1601	9-23-195-2	75101356672048158	Selice Romani	west2376	the petroleum	PETROLEUM	650		petrolímo	petrolímo 
+1602	9-23-185-1	75101356460460813	Selice Romani	west2376	the motor	MOTOR	110		motori	motori 
+1603	9-23-19-1	75101356210569549	Selice Romani	west2376	the machine	MACHINE	144		gípo	gípo 
+1604	9-23-13-1	75101356855957165	Selice Romani	west2376	the bicycle	BICYCLE	747		bicigli	bicigli 
+1605	9-23-395-1	75101356662886087	Selice Romani	west2376	the street	STREET	1362		ucca	ucca 
+1606	9-19-445-1	75101356478419461	Selice Romani	west2376	to liberate	LIBERATE	37		sabadítinen	sabadítinen 
+1607	9-19-565-1	75101356884220516	Selice Romani	west2376	to invite	INVITE	1611		akharen	akharen 
+1608	9-23-35-1	75101356767105646	Selice Romani	west2376	the license plate	LICENSE PLATE	1790		tábla	tábla 
+1609	9-23-43-1	75101356378090184	Selice Romani	west2376	the postcard	POSTCARD	1497		kípešlapo	kípešlapo 
+1610	9-24-01-1	77141755201315548	Selice Romani	west2376	to be	BE	1579		oven (2)	oven (2) 
+1611	9-24-02-1	7510135657386304	Selice Romani	west2376	to become	BECOME	1990		oven (1)	oven (1) 
+1612	9-24-03-1	75101356612161221	Selice Romani	west2376	without	WITHOUT	1478		bi	bi 
+1613	9-24-03-2	75101356445878725	Selice Romani	west2376	without	WITHOUT	1478		bisti	bisti 
+1614	9-24-03-3	75101356550791131	Selice Romani	west2376	without	WITHOUT	1478		bistal	bistal 
+1615	9-24-05-1	75101356312212152	Selice Romani	west2376	through	THROUGH	97		perdal	perdal 
+1616	9-24-05-2	7651653405930130	Selice Romani	west2376	through	THROUGH	97		préku	préku 
+1617	9-24-13-1	75101356240570171	Selice Romani	west2376	same	SAME	200		uďanodá	uďanodá 
+1618	9-24-06-1	75101356216020557	Selice Romani	west2376	not	NOT	1240		na	na 
+1619	9-24-06-2	75101356994682085	Selice Romani	west2376	not	NOT	1240		ma	ma 
+1620	9-24-07-1	75101356444121829	Selice Romani	west2376	this	THIS	1214		adá	adá 
+1621	9-24-07-2	75101356888823368	Selice Romani	west2376	this	THIS	1214		aká	aká 
+1622	9-24-08-1	7510135624887108	Selice Romani	west2376	that	THAT	78		odá	odá 
+1623	9-24-08-2	75101356972836049	Selice Romani	west2376	that	THAT	78		oká	oká 
+1624	9-24-09-1	75101356251987577	Selice Romani	west2376	here	HERE	136		adaj	adaj 
+1625	9-24-09-2	75101356854834475	Selice Romani	west2376	here	HERE	136		anďa	anďa 
+1626	9-24-09-3	75101356593400754	Selice Romani	west2376	here	HERE	136		ákaj	ákaj 
+1627	9-24-09-4	75101356490501468	Selice Romani	west2376	here	HERE	136		akija	akija 
+1628	9-24-1-1	75101356253169351	Selice Romani	west2376	there	THERE	1937		odoj	odoj 
+1629	9-24-1-2	75101356539862984	Selice Romani	west2376	there	THERE	1937		onďa	onďa 
+1630	9-24-1-3	75101356769375875	Selice Romani	west2376	there	THERE	1937		okoj	okoj 
+1631	9-24-1-4	7510135650439607	Selice Romani	west2376	there	THERE	1937		okija	okija 
+1632	9-24-11-1	75101356376092568	Selice Romani	west2376	other	OTHER	197		áver	áver 
+1633	9-24-11-2	75101356561092031	Selice Romani	west2376	other	OTHER	197		buter	buter 
+1634	9-4-493-1	75101356525081918	Selice Romani	west2376	the vagina	VAGINA	1836		mindž	mindž 
+1635	9-23-9-1	75101356776180618	Selice Romani	west2376	the tea	TEA	1373		teja	teja 
+1636	9-23-91-1	75101356529806992	Selice Romani	west2376	the coffee	COFFEE	1299		kávéja	kávéja 
+1637	9-24-12-1	75101356376092568	Selice Romani	west2376	next	NEXT	1354		áver	áver 
+1638	9-3-863-1	7510135686251607	Selice Romani	west2376	the hare	HARE	1190		šošoj	šošoj 
+1639	9-3-869-1	75101356552485994	Selice Romani	west2376	the squirrel	SQUIRREL	1628		mókuši	mókuši 
+1640	9-10-79-1	75101356884720897	Selice Romani	west2376	the sledge/sled	SLED	16		sánkó, sánkóva	sánkó 
+1641	9-10-79-2	75101356884720897	Selice Romani	west2376	the sledge/sled	SLED	16		sánkó, sánkóva	sánkóva 
+1642	9-4-465-1	781133397113226	Selice Romani	west2376	the sinew or tendon	TENDON	1137		žila	žila 
+1643	9-8-996-1	75101356570552140	Selice Romani	west2376	the cone	CONE	287		šiška	šiška 
+1644	9-3-8112-1	75101356751771387	Selice Romani	west2376	the body louse	BODY LOUSE	311		pišum	pišum 
+1645	9-4-494-1	75101356525081918	Selice Romani	west2376	the vulva	VULVA	1837		mindž	mindž 
+1646	9-9-93-1	7510135634254387	Selice Romani	west2376	the whetstone	WHETSTONE	295		éllešító	éllešító 
+1647	9-7-65-1	75101356824664466	Selice Romani	west2376	the camp	CAMP	1105		tábori	tábori 
+1648	9-3-835-1	75101356664177076	Selice Romani	west2376	the tick	TICK	1527		kullánča	kullánča 
+1649	9-9-87-1	75101356926225186	Selice Romani	west2376	the boomerang	BOOMERANG	135		bumerango	bumerango 
+1650	9-3-88-1	75101356963829245	Selice Romani	west2376	the kangaroo	KANGAROO	164		kengura	kengura 
+1651	9-3-9-1	75101356644642753	Selice Romani	west2376	the jaguar	JAGUAR	1250		jaguári	jaguári 
+1652	9-7-66-1	75101356394716194	Selice Romani	west2376	the hammock	HAMMOCK	2019		hinta	hinta 
+1653	9-7-66-2	75101356867150470	Selice Romani	west2376	the hammock	HAMMOCK	2019		hállóhinta	hállóhinta 
+1654	9-9-9-1	75101356324392294	Selice Romani	west2376	to draw water	DRAW (WATER)	1911		cidaven páňi	cidaven páňi 
+1655	9-9-91-1	75101356490806366	Selice Romani	west2376	the peg	PEG	361		íko	íko 
+1656	9-9-91-2	7812044428108134	Selice Romani	west2376	the peg	PEG	361		čipesi	čipesi 
+1657	9-10-58-1	75101356504459978	Selice Romani	west2376	to go or return home	RETURN HOME	142		džan khére	džan khére 
+1658	9-3-917-1	75101356359467036	Selice Romani	west2376	the buffalo	BUFFALO	934		búvoli	búvoli 
+1659	9-1-831-1	75101356730512969	Selice Romani	west2376	the steam	STEAM	1193		gézo	gézo 
+1660	9-2-5-1	75101356224784386	Selice Romani	west2376	the grandchild	GRANDCHILD	1617		onoka (1)	onoka (1) 
+1661	9-2-6412-1	75101356358305110	Selice Romani	west2376	the sibling-in-law	SIBLING-IN-LAW	1832		šógori	šógori 
+1662	9-2-6412-2	75101356901090081	Selice Romani	west2376	the sibling-in-law	SIBLING-IN-LAW	1832		šógorkiňa	šógorkiňa 
+1663	9-2-931-1	75101356868828112	Selice Romani	west2376	he	HE	1211		ój (1)	ój (1) 
+1664	9-2-932-1	75101356765112384	Selice Romani	west2376	she	SHE	1834		ój (2)	ój (2) 
+1665	9-2-933-1	7510135624887108	Selice Romani	west2376	it	IT	169		odá	odá 
+1666	9-4-741-1	75101356693721936	Selice Romani	west2376	the life	LIFE	210		íleto	íleto 
+1667	9-4-771-1	75101356805460293	Selice Romani	west2376	the carcass	CARCASS	1770		dėgo	dėgo 
+1668	9-4-844-1	75101356925623156	Selice Romani	west2376	the disease	DISEASE	1986		nasvalipe	nasvalipe 
+1669	9-7-232-1	75101356701118993	Selice Romani	west2376	the padlock	PADLOCK	336		lakato	lakato 
+1670	9-11-29-1	75101356668883915	Selice Romani	west2376	to damage	DAMAGE	1116		ruminen	ruminen 
+1671	9-11-29-2	751013569887502	Selice Romani	west2376	to damage	DAMAGE	1116		zijand, zijėnd	zijand 
+1672	9-11-29-3	751013569887502	Selice Romani	west2376	to damage	DAMAGE	1116		zijand, zijėnd	zijėnd 
+1673	9-12-081-1	75101356312212152	Selice Romani	west2376	above	ABOVE	1741		perdal	perdal 
+1674	9-13-231-1	75101356169796195	Selice Romani	west2376	the piece	PIECE	594		kotor	kotor 
+1675	9-13-331-1	75101356676463296	Selice Romani	west2376	alone	ALONE	1964		korkóro	korkóro 
+1676	9-14-251-1	75101356311706202	Selice Romani	west2376	the beginning	BEGINNING	1557		kezdíši	kezdíši 
+1677	9-14-411-1	75101356234764448	Selice Romani	west2376	the day(2)	DAY (NOT NIGHT)	1225		díve, dí	díve 
+1678	9-14-411-2	75101356234764448	Selice Romani	west2376	the day(2)	DAY (NOT NIGHT)	1225		díve, dí	dí 
+1679	9-22-131-1	75101356524030231	Selice Romani	west2376	the church	CHURCH	1349		khangéri	khangéri 
+1680	9-22-132-1	75101356218039337	Selice Romani	west2376	the mosque	MOSQUE	1603		muslimki khangéri	muslimki khangéri 
+1681	9-22-132-2	75101356639875031	Selice Romani	west2376	the mosque	MOSQUE	1603		muslimkhangéri	muslimkhangéri 
+1682	9-24-14-1	75101356307505764	Selice Romani	west2376	nothing	NOTHING	687		ništa, ništ	ništa 
+1683	9-24-14-2	75101356307505764	Selice Romani	west2376	nothing	NOTHING	687		ništa, ništ	ništ 
+1684	9-4-7501-1	75101356413931834	Selice Romani	west2376	dead	DEAD	1625		múlo (1)	múlo (1) 
+1685	9-4-7501-2	77141729839617025	Selice Romani	west2376	dead	DEAD	1625		murdálo	murdálo 
+1686	9-4-8541-1	75101356513934309	Selice Romani	west2376	to scratch	SCRATCH	1436		kaparinen	kaparinen 
+1687	9-4-8541-2	77271250783467443	Selice Romani	west2376	to scratch	SCRATCH	1436		haruven	haruven 
+1688	9-9-111-1	75101356493697296	Selice Romani	west2376	to make	MAKE	734		keren	keren 
+1689	9-4-431-1	75101356592982859	Selice Romani	west2376	the belly	BELLY	1251		pér	pér 
+1690	9-9-311-1	7510135694286908	Selice Romani	west2376	to wipe	WIPE	1454		khosen	khosen 
+1691	9-1-775-1	75101356705111761	Selice Romani	west2376	to freeze	FREEZE	1431		faďinen	faďinen 
+1692	9-24-04-1	75101356153442667	Selice Romani	west2376	with	WITH	1340		-ha ~ -hė ~ -ca	-ha ~ -hė ~ -ca 
+1693	9-12-012-1	75101356296172564	Selice Romani	west2376	in	IN	1460		andi	andi 
+1694	9-1-99911-1	77271534804939189	Selice Romani	west2376	to blaze				labďon	labďon 
+1695	9-1-99912-1	77271533942808757	Selice Romani	west2376	to melt				bijon	bijon 
+1696	9-1-99912-2	7727153387678414	Selice Romani	west2376	to melt				bijaren	bijaren 
+1697	9-2-99902-1	7651143222096733	Selice Romani	west2376	step-				moštóno	moštóno 
+1698	9-2-99903-1	75101356228485037	Selice Romani	west2376	the co-father-in-law				kirivo	kirivo 
+1699	9-2-99903-2	75252345606180613	Selice Romani	west2376	the co-father-in-law				náso	náso 
+1700	9-2-99904-1	75101356446868192	Selice Romani	west2376	the co-mother-in-law				kirivi	kirivi 
+1701	9-2-99904-2	75252347715262086	Selice Romani	west2376	the co-mother-in-law				náskiňa	náskiňa 
+1702	9-2-99906-1	7651638336832469	Selice Romani	west2376	the German				ninco	ninco 
+1703	9-2-99907-1	7617016173727658	Selice Romani	west2376	the Hungarian				ungro	ungro 
+1704	9-2-99908-1	7727233416088108	Selice Romani	west2376	the lover				piráno	piráno 
+1705	9-2-99908-2	7727233703264486	Selice Romani	west2376	the lover				piráni	piráni 
+1706	9-2-9991-1	7651653570769159	Selice Romani	west2376	the non-Gypsy				prósto	prósto 
+1707	9-2-9991-2	7612170609442327	Selice Romani	west2376	the non-Gypsy				gádžo	gádžo 
+1708	9-2-9991-3	7612172905546991	Selice Romani	west2376	the non-Gypsy				próstkiňa	próstkiňa 
+1709	9-2-9991-4	761217149545852	Selice Romani	west2376	the non-Gypsy				gádži	gádži 
+1710	9-2-99915-1	7617015744646322	Selice Romani	west2376	the Slovak				servo	servo 
+1711	9-2-99918-1	7651653964605902	Selice Romani	west2376	the Vlax Gypsy				pojáko	pojáko 
+1712	9-3-99911-1	7527122853575493	Selice Romani	west2376	the caterpillar				patmačka	patmačka 
+1713	9-3-99936-1	7651652667929318	Selice Romani	west2376	the pouched marmot				pekenuca	pekenuca 
+1714	9-3-99936-2	77292030324942069	Selice Romani	west2376	the pouched marmot				irgė, irga	irgė 
+1715	9-3-99936-3	77292030324942069	Selice Romani	west2376	the pouched marmot				irgė, irga	irga 
+1716	9-4-99901-1	77272031710327769	Selice Romani	west2376	barefoot				pernango	pernango 
+1717	9-4-99902-1	77271350628615534	Selice Romani	west2376	swollen				šúlo	šúlo 
+1718	9-4-99906-1	7727231621561473	Selice Romani	west2376	the fist				dumuk	dumuk 
+1719	9-4-99907-1	75101356875502061	Selice Romani	west2376	the lap				angáli	angáli 
+1720	9-4-9991-1	77232157683817332	Selice Romani	west2376	the saliva				ňálo	ňálo 
+1721	9-4-99911-1	7727235633552856	Selice Romani	west2376	the scabies				gér	gér 
+1722	9-4-99912-1	77281010364490101	Selice Romani	west2376	the strength				zór	zór 
+1723	9-4-99914-1	77312141158346798	Selice Romani	west2376	to itch				handžon	handžon 
+1724	9-5-99902-1	77271511691229437	Selice Romani	west2376	sated				čálo	čálo 
+1725	9-5-99905-1	7727230373178984	Selice Romani	west2376	the bacon				balevas	balevas 
+1726	9-5-99908-1	75101356168937293	Selice Romani	west2376	the cabbage				ármiň	ármiň 
+1727	9-5-99912-1	76162321558544163	Selice Romani	west2376	the jelly				pisti	pisti 
+1728	9-5-99922-1	7727228234120659	Selice Romani	west2376	the vinegar				šut	šut 
+1729	9-6-99908-1	7727233704123166	Selice Romani	west2376	the sleeve				baj	baj 
+1730	9-6-99911-1	77131418520405919	Selice Romani	west2376	to wear				phiraven	phiraven 
+1731	9-7-99904-1	75101356610602421	Selice Romani	west2376	the guestroom				vėndígsoba	vėndígsoba 
+1732	9-7-99906-1	7811419430283157	Selice Romani	west2376	the roof tile				čerpo	čerpo 
+1733	9-8-99905-1	7727229730244787	Selice Romani	west2376	the apple				phába	phába 
+1734	9-8-9991-1	75101356288134874	Selice Romani	west2376	the carrot				repaňi	repaňi 
+1735	9-8-99914-1	7811539527802966	Selice Romani	west2376	the coniferous tree				karáčoňiko kašt	karáčoňiko kašt 
+1736	9-8-99924-1	76232053852773003	Selice Romani	west2376	the kohlrabi				karalábé	karalábé 
+1737	9-8-99932-1	75101356193854051	Selice Romani	west2376	the melon				ďiňňa	ďiňňa 
+1738	9-8-99935-1	7726229151773875	Selice Romani	west2376	the onion				purum	purum 
+1739	9-8-99938-1	765164831908013	Selice Romani	west2376	the pear				kruška	kruška 
+1740	9-8-99941-1	7651653689725451	Selice Romani	west2376	the plum				šlíva	šlíva 
+1741	9-8-99946-1	75101356801693031	Selice Romani	west2376	the straw				phus	phus 
+1742	9-8-99955-1	77281010474709097	Selice Romani	west2376	the whip				čuňik	čuňik 
+1743	9-8-9996-1	75101356772863	Selice Romani	west2376	to grow(2)				termelinen	termelinen 
+1744	9-8-99962-1	75101356772863	Selice Romani	west2376	to raise				termelinen	termelinen 
+1745	9-9-99916-1	768147575384710	Selice Romani	west2376	the rust				rožda	rožda 
+1746	9-9-99917-1	77231729914927031	Selice Romani	west2376	the sack				góno	góno 
+1747	9-9-99921-1	7727232817580378	Selice Romani	west2376	the slap				mostar	mostar 
+1748	9-9-99923-1	7727234696600531	Selice Romani	west2376	the string or cord				dorik	dorik 
+1749	9-9-99934-1	77312056533792918	Selice Romani	west2376	to prepare				kísítinen	kísítinen 
+1750	9-9-99936-1	7727159969207206	Selice Romani	west2376	to smear				makhen	makhen 
+1751	9-10-99904-1	77241142180166871	Selice Romani	west2376	to dip				bolen	bolen 
+1752	9-10-99906-1	77271532126313708	Selice Romani	west2376	to pass				ašti	ašti 
+1753	9-10-99907-1	7692257550160698	Selice Romani	west2376	to step				lípinen	lípinen 
+1754	9-10-99908-1	7724112160587351	Selice Romani	west2376	to wait				užaren	užaren 
+1755	9-11-99901-1	77281011195131184	Selice Romani	west2376	for free				pativake	pativake 
+1756	9-11-99906-1	77211417863759331	Selice Romani	west2376	to be worth				mol (2)	mol (2) 
+1757	9-12-99901-1	77311722995473198	Selice Romani	west2376	apart				sít	sít 
+1758	9-12-99902-1	76161916719380529	Selice Romani	west2376	back				pále	pále 
+1759	9-13-99901-1	75101356937688937	Selice Romani	west2376	a little				buka	buka 
+1760	9-13-99901-2	75101356679453647	Selice Romani	west2376	a little				čepo	čepo 
+1761	9-13-99901-3	75101356207737949	Selice Romani	west2376	a little				čulo	čulo 
+1762	9-13-99902-1	7651652268706718	Selice Romani	west2376	by				po	po 
+1763	9-13-99903-1	7651653350532836	Selice Romani	west2376	each or every				sako	sako 
+1764	9-13-99906-1	75101356487230408	Selice Romani	west2376	thirty				trijanda	trijanda 
+1765	9-13-99907-1	77271532185399385	Selice Romani	west2376	to fill				pheren	pheren 
+1766	9-14-99902-1	75101356725247445	Selice Romani	west2376	long ago				čilla	čilla 
+1767	9-15-99901-1	7681218621169245	Selice Romani	west2376	brown				barnavo	barnavo 
+1768	9-15-99902-1	7681159228627495	Selice Romani	west2376	grey				sirkavo	sirkavo 
+1769	9-15-99902-2	7681218335887913	Selice Romani	west2376	grey				ésno	ésno 
+1770	9-15-99903-1	7681237412615072	Selice Romani	west2376	orange				narančsiňíno	narančsiňíno 
+1771	9-15-99904-1	7681218199083306	Selice Romani	west2376	pink				rúžasinko	rúžasinko 
+1772	9-15-99906-1	7681240169821408	Selice Romani	west2376	violet				lilavo	lilavo 
+1773	9-16-99901-1	77251716139851720	Selice Romani	west2376	better				feder	feder 
+1774	9-16-99902-1	77281011195131184	Selice Romani	west2376	in vain				pativake	pativake 
+1775	9-16-99905-1	765165378095894	Selice Romani	west2376	the mood				vója	vója 
+1776	9-16-99906-1	765163970181519	Selice Romani	west2376	the trouble				bríga	bríga 
+1777	9-16-99907-1	77271511741684525	Selice Romani	west2376	to be ashamed				ladžan pe/pumen	ladžan pe 
+1778	9-16-99907-2	77271511741684525	Selice Romani	west2376	to be ashamed				ladžan pe/pumen	pumen 
+1779	9-16-99908-1	77281010574966239	Selice Romani	west2376	to be glad				lošanen	lošanen 
+1780	9-16-99911-1	77281010574966239	Selice Romani	west2376	to look forward				lošanen	lošanen 
+1781	9-16-99912-1	7612952974141271	Selice Romani	west2376	to praise				ašaren	ašaren 
+1782	9-16-99913-1	76121637804189018	Selice Romani	west2376	voluptuous				lubikáno	lubikáno 
+1783	9-16-99914-1	7692345780039335	Selice Romani	west2376	wild				vadno	vadno 
+1784	9-16-99915-1	7651640598769343	Selice Romani	west2376	worse				goreder	goreder 
+1785	9-17-99901-1	765165316393037	Selice Romani	west2376	on purpose				silaha	silaha 
+1786	9-17-99902-1	7728109894805381	Selice Romani	west2376	the possibility				šaj	šaj 
+1787	9-17-99902-2	77281114720093117	Selice Romani	west2376	the possibility				lėhėtéšígo	lėhėtéšígo 
+1788	9-18-99901-1	75101356890206656	Selice Romani	west2376	the fairy tale				paramisi	paramisi 
+1789	9-18-99903-1	7727233891099908	Selice Romani	west2376	the joke				perhas	perhas 
+1790	9-18-99903-2	772741627034129	Selice Romani	west2376	the joke				vicco	vicco 
+1791	9-18-99906-1	7821134741921460	Selice Romani	west2376	the violin				lavuta	lavuta 
+1792	9-18-99907-1	7821136750526282	Selice Romani	west2376	the violin player				lavutári	lavutári 
+1793	9-18-99909-1	77271251350565379	Selice Romani	west2376	to greet				palikeren	palikeren 
+1794	9-18-99911-1	77271251350565379	Selice Romani	west2376	to thank				palikeren	palikeren 
+1795	9-19-99905-1	7610232330862672	Selice Romani	west2376	free				sabadno	sabadno 
+1796	9-19-99931-1	77281010364490101	Selice Romani	west2376	the power				zór	zór 
+1797	9-19-99932-1	75101356214608341	Selice Romani	west2376	the settlement				péro, péró	péro 
+1798	9-19-99932-2	75101356214608341	Selice Romani	west2376	the settlement				péro, péró	péró 
+1799	9-20-99903-1	77281010364490101	Selice Romani	west2376	the force				zór	zór 
+1800	9-20-99909-1	7731212840163386	Selice Romani	west2376	to win				ňerinen	ňerinen 
+1801	9-22-99902-1	7811551196348796	Selice Romani	west2376	Christmas				karáčoňa	karáčoňa 
+1802	9-22-99906-1	7651653694390646	Selice Romani	west2376	the holiday				sveco	sveco 
+1803	9-22-99909-1	77312111931835179	Selice Romani	west2376	the Muslim				muslimo	muslimo 
+1804	9-24-99904-1	75101356382044624	Selice Romani	west2376	hey!				more	more 
+1805	9-24-99906-1	7651652540538792	Selice Romani	west2376	let				nek	nek 
+1806	9-24-99908-1	7651652689287436	Selice Romani	west2376	neither				ni	ni 
+1807	9-24-99909-1	7651652689287436	Selice Romani	west2376	nor				ni	ni 
+1808	9-24-99912-1	76161916624521757	Selice Romani	west2376	then				paleg	paleg 

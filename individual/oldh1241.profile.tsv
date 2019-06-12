@@ -1,0 +1,260 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	bihaltan, nagal	Old High German	517	U+0061
+i	i	niowiht, biwerien	Old High German	461	U+0069
+e	e	zellen, fellen	Old High German	370	U+0065
+n$	n	stôzan, bihaltan	Old High German	362	U+006e U+0024
+r	r	irbarmida, êrgesteren	Old High German	303	U+0072
+n	n	enti, anafang	Old High German	234	U+006e
+u	u	muscula, turistuodal	Old High German	231	U+0075
+o	o	snora, koufen	Old High German	208	U+006f
+l	l	nâdala, sculd	Old High German	192	U+006c
+t	t	stioftohter, enti	Old High German	190	U+0074
+^s	s	stôzan, sculd	Old High German	180	U+005e U+0073
+a$	a	nâdala, snora	Old High German	171	U+0061 U+0024
+g	g	nagal, reganbogo	Old High German	118	U+0067
+o$	o	bogo, (h)wio	Old High German	108	U+006f U+0024
+^b	b	bitten, bihaltan	Old High German	101	U+005e U+0062
+^f	f	fedara, fleisc	Old High German	93	U+005e U+0066
+t$	t	niowiht, lant	Old High German	89	U+0074 U+0024
+^h	h	hôh, himil	Old High German	89	U+005e U+0068
+b	b	trîban, rîbil	Old High German	86	U+0062
+i$	i	enti, kwiti	Old High German	84	U+0069 U+0024
+r$	r	ander, (h)wer	Old High German	83	U+0072 U+0024
+s	s	mezzisahs, brust	Old High German	81	U+0073
+^w	w	wîsi, weih	Old High German	78	U+005e U+0077
+ô	ô	tarôn, stôzan	Old High German	77	U+00f4
+k	k	enkilîn, ackus	Old High German	75	U+006b
+m	m	zimbarman, himil	Old High German	68	U+006d
+d	d	nâdala, ander	Old High German	68	U+0064
+â	â	nâdala, nâtâri	Old High German	68	U+00e2
+^g	g	giozan, graban	Old High German	67	U+005e U+0067
+^k	k	knopf, koufen	Old High German	59	U+005e U+006b
+^m	m	mezzisahs, meto	Old High German	58	U+005e U+006d
+î	î	trîban, enkilîn	Old High German	58	U+00ee
+f	f	pfîfôn, koufen	Old High German	56	U+0066
+l$	l	nagal, himil	Old High German	54	U+006c U+0024
+^t	t	tarôn, teilen	Old High German	52	U+005e U+0074
+^l	l	lant, lûs	Old High German	49	U+005e U+006c
+c	c	sculd, ackus	Old High German	46	U+0063
+h	h	bihaltan, swehur	Old High German	44	U+0068
+^n	n	nâdala, nâh	Old High German	43	U+005e U+006e
+^r	r	ruodar, rûh	Old High German	42	U+005e U+0072
+z	z	stôzan, giozan	Old High German	42	U+007a
+^a	a	ander, ackus	Old High German	40	U+005e U+0061
+g$	g	kruog, sâlig	Old High German	40	U+0067 U+0024
+^e	e	enti, er	Old High German	39	U+005e U+0065
+ê	ê	werên, folgên	Old High German	34	U+00ea
+^z	z	zellen, zala	Old High German	34	U+005e U+007a
+hh	hh	riohhan, nihhus	Old High German	31	U+0068 U+0068
+p	p	knopf, sparro	Old High German	31	U+0070
+w	w	biwerien, niowiht	Old High German	30	U+0077
+^d	d	degan, desêr	Old High German	30	U+005e U+0064
+zz	zz	mezzisahs, krazzôn	Old High German	28	U+007a U+007a
+nn	nn	rennen, mennisco	Old High German	27	U+006e U+006e
+^i	i	iz, ir	Old High German	26	U+005e U+0069
+z$	z	iz, kurz	Old High German	26	U+007a U+0024
+h$	h	weih, ih	Old High German	22	U+0068 U+0024
+f$	f	knopf, tiof	Old High German	21	U+0066 U+0024
+û	û	drûbo, scûfla	Old High German	21	U+00fb
+d$	d	sculd, kind	Old High German	20	U+0064 U+0024
+m$	m	bodam, eidum	Old High German	19	U+006d U+0024
+b$	b	toub, lob	Old High German	17	U+0062 U+0024
+ll	ll	stilli, zellen	Old High German	16	U+006c U+006c
+c$	c	fleisc, tranc	Old High German	15	U+0063 U+0024
+u$	u	siu, ibu	Old High German	14	U+0075 U+0024
+)w	<?>	(h)wio, (h)wie	Old High German	14	U+0029 U+0077
+tt	tt	bitten, mitti	Old High German	14	U+0074 U+0074
+^sw	sw	swigar, swehur	Old High German	14	U+005e U+0073 U+0077
+^(h	<?>	(h)wio, (h)wie	Old High German	14	U+005e U+0028 U+0068
+^o	o	ohso, odo	Old High German	14	U+005e U+006f
+^u	u	ubar, unsemfti	Old High German	14	U+005e U+0075
+^p	p	pelliz, perula	Old High German	12	U+005e U+0070
+î$	î	holî, lârî	Old High German	11	U+00ee U+0024
+^j	j	jagôn, jussal	Old High German	11	U+005e U+006a
+rs	rs	arsbelli, first	Old High German	9	U+0072 U+0073
+^â	â	âbandmuos, âla	Old High German	9	U+005e U+00e2
+gg	gg	mugga, roggo	Old High German	9	U+0067 U+0067
+e$	e	(h)wie, sie	Old High German	9	U+0065 U+0024
+ff	ff	pheffur, gioffanôn	Old High German	9	U+0066 U+0066
+âh	âh	fâhan, hâhan	Old High German	8	U+00e2 U+0068
+rr	rr	firrâtan, sparro	Old High German	8	U+0072 U+0072
+ns	ns	finstarnessi, unsemfti	Old High German	7	U+006e U+0073
+s$	s	ackus, nihhus	Old High German	7	U+0073 U+0024
+^zw	zw	zwiniling, zwisila	Old High German	7	U+005e U+007a U+0077
+hs	hs	ohso, wahsan	Old High German	7	U+0068 U+0073
+^th	th	thrucken, thah	Old High German	6	U+005e U+0074 U+0068
+âw	âw	brâwezzen, klâwa	Old High German	6	U+00e2 U+0077
+kk	kk	hewiskrekko, akkarman	Old High German	6	U+006b U+006b
+ss	ss	finstarnessi, jussal	Old High German	6	U+0073 U+0073
+ûs$	ûs	lûs, mûs	Old High German	6	U+00fb U+0073 U+0024
+mm	mm	stimma, gomman	Old High German	5	U+006d U+006d
+hs$	hs	mezzisahs, wîzwahs	Old High German	5	U+0068 U+0073 U+0024
+^û	û	ûtar, ûfgangan	Old High German	4	U+005e U+00fb
+ôh$	ôh	hôh, fôh	Old High German	4	U+00f4 U+0068 U+0024
+^ô	ô	ôrlappa, ôrring	Old High German	4	U+005e U+00f4
+îh	îh	lîhan, lîhti	Old High German	4	U+00ee U+0068
+îh$	îh	anagilîh, hazlîh	Old High German	4	U+00ee U+0068 U+0024
+bb	bb	lubbi, ribbi	Old High German	4	U+0062 U+0062
+îw	îw	spîwan, hîwiski	Old High German	3	U+00ee U+0077
+îhh	îhh	rîhhi, manalîhha	Old High German	3	U+00ee U+0068 U+0068
+ls	ls	halsbant, halsen	Old High German	3	U+006c U+0073
+ph	ph	tuphin, trophôn	Old High German	3	U+0070 U+0068
+rw	rw	irwahhên, narwa	Old High German	3	U+0072 U+0077
+_	_	giboran werdan, wio manage	Old High German	3	U+005f
+^kw	kw	kwiti, kwena	Old High German	3	U+005e U+006b U+0077
+^q	q	queman, quemaling	Old High German	3	U+005e U+0071
+ûh$	ûh	rûh, bûh	Old High German	3	U+00fb U+0068 U+0024
+ts	ts	intsliozan, hantscuoh	Old High German	3	U+0074 U+0073
+v	v	zwîval, ovan	Old High German	3	U+0076
+îs	îs	wîsi, wîsa	Old High German	3	U+00ee U+0073
+nh	nh	innarûnhalb, einhunt	Old High German	3	U+006e U+0068
+tw	tw	samantwist, antwurten	Old High German	2	U+0074 U+0077
+ôs	ôs	lôsen, hintarôsto	Old High German	2	U+00f4 U+0073
+^êw	êw	êwa, êwawarto	Old High German	2	U+005e U+00ea U+0077
+^ê	ê	êristo, êrgesteren	Old High German	2	U+005e U+00ea
+(h)ruofan	<???>	(h)ruofan	Old High German	2	U+0028 U+0068 U+0029 U+0072 U+0075 U+006f U+0066 U+0061 U+006e
+^ph	ph	pheffur, pheffar	Old High German	2	U+005e U+0070 U+0068
+q	q	biqueman, anaqueman	Old High German	2	U+0071
+ûs	ûs	dûsunt, rûsa	Old High German	2	U+00fb U+0073
+âhh	âhh	lâhhan, sprâhhûs	Old High German	2	U+00e2 U+0068 U+0068
+âh$	âh	nâh	Old High German	2	U+00e2 U+0068 U+0024
+û$	û	dû, sû	Old High German	2	U+00fb U+0024
+far(a)wa	<???>	far(a)wa	Old High German	2	U+0066 U+0061 U+0072 U+0028 U+0061 U+0029 U+0077 U+0061
+zw	zw	wîzwahs, gizwiggen	Old High German	2	U+007a U+0077
+sw	sw	eddeswanne, giswulst	Old High German	2	U+0073 U+0077
+dd	dd	feddah, eddeswanne	Old High German	2	U+0064 U+0064
+fs	fs	wefsa, stiofsunu	Old High German	2	U+0066 U+0073
+(h)naph	<???>	(h)naph	Old High German	2	U+0028 U+0068 U+0029 U+006e U+0061 U+0070 U+0068
+eban(i)	<???>	eban(i)	Old High German	2	U+0065 U+0062 U+0061 U+006e U+0028 U+0069 U+0029
+zs	zs	fuozspor, flôzskip	Old High German	2	U+007a U+0073
+pp	pp	ôrlappa, rippi	Old High German	2	U+0070 U+0070
+lebên (1)	<???>	lebên (1)	Old High German	2	U+006c U+0065 U+0062 U+00ea U+006e U+0020 U+0028 U+0031 U+0029
+âs	âs	kâsi, blâsa	Old High German	2	U+00e2 U+0073
+(h)niosan	<???>	(h)niosan	Old High German	1	U+0028 U+0068 U+0029 U+006e U+0069 U+006f U+0073 U+0061 U+006e
+ô$	ô	naskô	Old High German	1	U+00f4 U+0024
+(h)lûta	<???>	(h)lûta	Old High German	1	U+0028 U+0068 U+0029 U+006c U+00fb U+0074 U+0061
+krâ(h/j/w)a	<???>	krâ(h/j/w)a	Old High German	1	U+006b U+0072 U+00e2 U+0028 U+0068 U+002f U+006a U+002f U+0077 U+0029 U+0061
+(h)leitara	<???>	(h)leitara	Old High German	1	U+0028 U+0068 U+0029 U+006c U+0065 U+0069 U+0074 U+0061 U+0072 U+0061
+nift(a)	<???>	nift(a)	Old High German	1	U+006e U+0069 U+0066 U+0074 U+0028 U+0061 U+0029
+(gi)beran	<???>	(gi)beran	Old High German	1	U+0028 U+0067 U+0069 U+0029 U+0062 U+0065 U+0072 U+0061 U+006e
+fers(a)na	<???>	fers(a)na	Old High German	1	U+0066 U+0065 U+0072 U+0073 U+0028 U+0061 U+0029 U+006e U+0061
+lioht (2)	<???>	lioht (2)	Old High German	1	U+006c U+0069 U+006f U+0068 U+0074 U+0020 U+0028 U+0032 U+0029
+îsa(r)n	<???>	îsa(r)n	Old High German	1	U+00ee U+0073 U+0061 U+0028 U+0072 U+0029 U+006e
+knab(b)o	<???>	knab(b)o	Old High German	1	U+006b U+006e U+0061 U+0062 U+0028 U+0062 U+0029 U+006f
+stumph (2)	<???>	stumph (2)	Old High German	1	U+0073 U+0074 U+0075 U+006d U+0070 U+0068 U+0020 U+0028 U+0032 U+0029
+kamb(o)	<???>	kamb(o)	Old High German	1	U+006b U+0061 U+006d U+0062 U+0028 U+006f U+0029
+(h)ros	<???>	(h)ros	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+006f U+0073
+nift(ila)	<???>	nift(ila)	Old High German	1	U+006e U+0069 U+0066 U+0074 U+0028 U+0069 U+006c U+0061 U+0029
+ketin(n)a	<???>	ketin(n)a	Old High German	1	U+006b U+0065 U+0074 U+0069 U+006e U+0028 U+006e U+0029 U+0061
+scuob(b)a	<???>	scuob(b)a	Old High German	1	U+0073 U+0063 U+0075 U+006f U+0062 U+0028 U+0062 U+0029 U+0061
+ûw	ûw	bûwan	Old High German	1	U+00fb U+0077
+sil(a)bar	<???>	sil(a)bar	Old High German	1	U+0073 U+0069 U+006c U+0028 U+0061 U+0029 U+0062 U+0061 U+0072
+hir(u)z	<???>	hir(u)z	Old High German	1	U+0068 U+0069 U+0072 U+0028 U+0075 U+0029 U+007a
+ch	ch	gisnarchôn	Old High German	1	U+0063 U+0068
+(h)retten	<???>	(h)retten	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0065 U+0074 U+0074 U+0065 U+006e
+nw	nw	sinwel	Old High German	1	U+006e U+0077
+for(a)	<???>	for(a)	Old High German	1	U+0066 U+006f U+0072 U+0028 U+0061 U+0029
+zunt(a)ra	<???>	zunt(a)ra	Old High German	1	U+007a U+0075 U+006e U+0074 U+0028 U+0061 U+0029 U+0072 U+0061
+leg(g)en	<???>	leg(g)en	Old High German	1	U+006c U+0065 U+0067 U+0028 U+0067 U+0029 U+0065 U+006e
+k$	k	gidank	Old High German	1	U+006b U+0024
+mw	mw	boumwolla	Old High German	1	U+006d U+0077
+far(a)wen	<???>	far(a)wen	Old High German	1	U+0066 U+0061 U+0072 U+0028 U+0061 U+0029 U+0077 U+0065 U+006e
+tagarôt(î)	<???>	tagarôt(î)	Old High German	1	U+0074 U+0061 U+0067 U+0061 U+0072 U+00f4 U+0074 U+0028 U+00ee U+0029
+ns$	ns	gans	Old High German	1	U+006e U+0073 U+0024
+rh	rh	irhuggen	Old High German	1	U+0072 U+0068
+gleim(o)	<???>	gleim(o)	Old High German	1	U+0067 U+006c U+0065 U+0069 U+006d U+0028 U+006f U+0029
+skel(l)en	<???>	skel(l)en	Old High German	1	U+0073 U+006b U+0065 U+006c U+0028 U+006c U+0029 U+0065 U+006e
+(h)redan	<???>	(h)redan	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0065 U+0064 U+0061 U+006e
+nord(an)	<???>	nord(an)	Old High German	1	U+006e U+006f U+0072 U+0064 U+0028 U+0061 U+006e U+0029
+leim(o)	<???>	leim(o)	Old High German	1	U+006c U+0065 U+0069 U+006d U+0028 U+006f U+0029
+(h)ruggi	<???>	(h)ruggi	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0075 U+0067 U+0067 U+0069
+(h)ring	<???>	(h)ring	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0069 U+006e U+0067
+far(a)h	<???>	far(a)h	Old High German	1	U+0066 U+0061 U+0072 U+0028 U+0061 U+0029 U+0068
+nidarleg(g)en	<???>	nidarleg(g)en	Old High German	1	U+006e U+0069 U+0064 U+0061 U+0072 U+006c U+0065 U+0067 U+0028 U+0067 U+0029 U+0065 U+006e
+hî(w)a	<???>	hî(w)a	Old High German	1	U+0068 U+00ee U+0028 U+0077 U+0029 U+0061
+fs$	fs	lefs	Old High German	1	U+0066 U+0073 U+0024
+stumph (1)	<???>	stumph (1)	Old High German	1	U+0073 U+0074 U+0075 U+006d U+0070 U+0068 U+0020 U+0028 U+0031 U+0029
+(h)lût	<???>	(h)lût	Old High German	1	U+0028 U+0068 U+0029 U+006c U+00fb U+0074
+(gi)wâti()	<???>	(gi)wâti()	Old High German	1	U+0028 U+0067 U+0069 U+0029 U+0077 U+00e2 U+0074 U+0069 U+0028 U+0029
+ahs(a)la	<???>	ahs(a)la	Old High German	1	U+0061 U+0068 U+0073 U+0028 U+0061 U+0029 U+006c U+0061
+hî(w)o	<???>	hî(w)o	Old High German	1	U+0068 U+00ee U+0028 U+0077 U+0029 U+006f
+mitti(l)tag	<???>	mitti(l)tag	Old High German	1	U+006d U+0069 U+0074 U+0074 U+0069 U+0028 U+006c U+0029 U+0074 U+0061 U+0067
+p$	p	flôzskip	Old High German	1	U+0070 U+0024
+gisunt(i)	<???>	gisunt(i)	Old High German	1	U+0067 U+0069 U+0073 U+0075 U+006e U+0074 U+0028 U+0069 U+0029
+(h)nac	<???>	(h)nac	Old High German	1	U+0028 U+0068 U+0029 U+006e U+0061 U+0063
+â$	â	wantâ	Old High German	1	U+00e2 U+0024
+zwêne (zwô, zwâ, zwei)	<???>	zwêne (zwô, zwâ, zwei)	Old High German	1	U+007a U+0077 U+00ea U+006e U+0065 U+0020 U+0028 U+007a U+0077 U+00f4 U+002c U+0020 U+007a U+0077 U+00e2 U+002c U+0020 U+007a U+0077 U+0065 U+0069 U+0029
+ûhh	ûhh	intûhhan	Old High German	1	U+00fb U+0068 U+0068
+zan(d)	<???>	zan(d)	Old High German	1	U+007a U+0061 U+006e U+0028 U+0064 U+0029
+swer(i)en	<???>	swer(i)en	Old High German	1	U+0073 U+0077 U+0065 U+0072 U+0028 U+0069 U+0029 U+0065 U+006e
+unsli(h)t	<???>	unsli(h)t	Old High German	1	U+0075 U+006e U+0073 U+006c U+0069 U+0028 U+0068 U+0029 U+0074
+kinnizan(d)	<???>	kinnizan(d)	Old High German	1	U+006b U+0069 U+006e U+006e U+0069 U+007a U+0061 U+006e U+0028 U+0064 U+0029
+bul(l)a	<???>	bul(l)a	Old High German	1	U+0062 U+0075 U+006c U+0028 U+006c U+0029 U+0061
+ls$	ls	hals	Old High German	1	U+006c U+0073 U+0024
+wolka(n)	<???>	wolka(n)	Old High German	1	U+0077 U+006f U+006c U+006b U+0061 U+0028 U+006e U+0029
+eih(ha)	<???>	eih(ha)	Old High German	1	U+0065 U+0069 U+0068 U+0028 U+0068 U+0061 U+0029
+(h)niz	<???>	(h)niz	Old High German	1	U+0028 U+0068 U+0029 U+006e U+0069 U+007a
+(h)lahhên	<???>	(h)lahhên	Old High German	1	U+0028 U+0068 U+0029 U+006c U+0061 U+0068 U+0068 U+00ea U+006e
+^v	v	vanga	Old High German	1	U+005e U+0076
+frî(j)atag	<???>	frî(j)atag	Old High German	1	U+0066 U+0072 U+00ee U+0028 U+006a U+0029 U+0061 U+0074 U+0061 U+0067
+^ôh	ôh	ôheim	Old High German	1	U+005e U+00f4 U+0068
+stam(m)alôn	<???>	stam(m)alôn	Old High German	1	U+0073 U+0074 U+0061 U+006d U+0028 U+006d U+0029 U+0061 U+006c U+00f4 U+006e
+lh	lh	kelhnezzi	Old High German	1	U+006c U+0068
+quirn(a)	<???>	quirn(a)	Old High German	1	U+0071 U+0075 U+0069 U+0072 U+006e U+0028 U+0061 U+0029
+ôw	ôw	gilôwôn	Old High German	1	U+00f4 U+0077
+^âh	âh	âhten	Old High German	1	U+005e U+00e2 U+0068
+lebên (2)	<???>	lebên (2)	Old High German	1	U+006c U+0065 U+0062 U+00ea U+006e U+0020 U+0028 U+0032 U+0029
+gest(e)re	<???>	gest(e)re	Old High German	1	U+0067 U+0065 U+0073 U+0074 U+0028 U+0065 U+0029 U+0072 U+0065
+lioht (1)	<???>	lioht (1)	Old High German	1	U+006c U+0069 U+006f U+0068 U+0074 U+0020 U+0028 U+0031 U+0029
+^ôs	ôs	ôstan	Old High German	1	U+005e U+00f4 U+0073
+uzar(ûn)halb	<???>	uzar(ûn)halb	Old High German	1	U+0075 U+007a U+0061 U+0072 U+0028 U+00fb U+006e U+0029 U+0068 U+0061 U+006c U+0062
+an(a)	<???>	an(a)	Old High German	1	U+0061 U+006e U+0028 U+0061 U+0029
+(ir)louben	<???>	(ir)louben	Old High German	1	U+0028 U+0069 U+0072 U+0029 U+006c U+006f U+0075 U+0062 U+0065 U+006e
+tep(p)it	<???>	tep(p)it	Old High German	1	U+0074 U+0065 U+0070 U+0028 U+0070 U+0029 U+0069 U+0074
+(h)loufan	<???>	(h)loufan	Old High German	1	U+0028 U+0068 U+0029 U+006c U+006f U+0075 U+0066 U+0061 U+006e
+êw	êw	wêwa	Old High German	1	U+00ea U+0077
+giziug(i)	<???>	giziug(i)	Old High German	1	U+0067 U+0069 U+007a U+0069 U+0075 U+0067 U+0028 U+0069 U+0029
+(h)ruoren	<???>	(h)ruoren	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0075 U+006f U+0072 U+0065 U+006e
+fî(j)ant	<???>	fî(j)ant	Old High German	1	U+0066 U+00ee U+0028 U+006a U+0029 U+0061 U+006e U+0074
+scorp(i)o	<???>	scorp(i)o	Old High German	1	U+0073 U+0063 U+006f U+0072 U+0070 U+0028 U+0069 U+0029 U+006f
+^dw	dw	dwahila	Old High German	1	U+005e U+0064 U+0077
+^ûw	ûw	ûwila	Old High German	1	U+005e U+00fb U+0077
+^î	î	îlen	Old High German	1	U+005e U+00ee
+un(h)rîfi	<???>	un(h)rîfi	Old High German	1	U+0075 U+006e U+0028 U+0068 U+0029 U+0072 U+00ee U+0066 U+0069
+lîh(hamo)	<???>	lîh(hamo)	Old High German	1	U+006c U+00ee U+0068 U+0028 U+0068 U+0061 U+006d U+006f U+0029
+rsw	rsw	firswintan	Old High German	1	U+0072 U+0073 U+0077
+arbeit(i)	<???>	arbeit(i)	Old High German	1	U+0061 U+0072 U+0062 U+0065 U+0069 U+0074 U+0028 U+0069 U+0029
+scarf(i)	<???>	scarf(i)	Old High German	1	U+0073 U+0063 U+0061 U+0072 U+0066 U+0028 U+0069 U+0029
+(gi)smecken	<???>	(gi)smecken	Old High German	1	U+0028 U+0067 U+0069 U+0029 U+0073 U+006d U+0065 U+0063 U+006b U+0065 U+006e
+th	th	firthionôn	Old High German	1	U+0074 U+0068
+fîfalt(a)ra	<???>	fîfalt(a)ra	Old High German	1	U+0066 U+00ee U+0066 U+0061 U+006c U+0074 U+0028 U+0061 U+0029 U+0072 U+0061
+sund(an)	<???>	sund(an)	Old High German	1	U+0073 U+0075 U+006e U+0064 U+0028 U+0061 U+006e U+0029
+^îs$	îs	îs	Old High German	1	U+005e U+00ee U+0073 U+0024
+(h)riuwôn	<???>	(h)riuwôn	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0069 U+0075 U+0077 U+00f4 U+006e
+arm (1)	<???>	arm (1)	Old High German	1	U+0061 U+0072 U+006d U+0020 U+0028 U+0031 U+0029
+hû(wi)lôn	<???>	hû(wi)lôn	Old High German	1	U+0068 U+00fb U+0028 U+0077 U+0069 U+0029 U+006c U+00f4 U+006e
+(h)reini	<???>	(h)reini	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0065 U+0069 U+006e U+0069
+bes(a)mo	<???>	bes(a)mo	Old High German	1	U+0062 U+0065 U+0073 U+0028 U+0061 U+0029 U+006d U+006f
+(h)rô	<???>	(h)rô	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+00f4
+widar(i)	<???>	widar(i)	Old High German	1	U+0077 U+0069 U+0064 U+0061 U+0072 U+0028 U+0069 U+0029
+gs	gs	langsam	Old High German	1	U+0067 U+0073
+man(a)lîh	<???>	man(a)lîh	Old High German	1	U+006d U+0061 U+006e U+0028 U+0061 U+0029 U+006c U+00ee U+0068
+lungun(na)	<???>	lungun(na)	Old High German	1	U+006c U+0075 U+006e U+0067 U+0075 U+006e U+0028 U+006e U+0061 U+0029
+bi(h)ruoren	<???>	bi(h)ruoren	Old High German	1	U+0062 U+0069 U+0028 U+0068 U+0029 U+0072 U+0075 U+006f U+0072 U+0065 U+006e
+(h)nuz	<???>	(h)nuz	Old High German	1	U+0028 U+0068 U+0029 U+006e U+0075 U+007a
+ch$	ch	fettach	Old High German	1	U+0063 U+0068 U+0024
+ph$	ph	kroph	Old High German	1	U+0070 U+0068 U+0024
+nâhgibûr(o)	<???>	nâhgibûr(o)	Old High German	1	U+006e U+00e2 U+0068 U+0067 U+0069 U+0062 U+00fb U+0072 U+0028 U+006f U+0029
+(gi)kniuwen	<???>	(gi)kniuwen	Old High German	1	U+0028 U+0067 U+0069 U+0029 U+006b U+006e U+0069 U+0075 U+0077 U+0065 U+006e
+êh	êh	zêha	Old High German	1	U+00ea U+0068
+rh$	rh	furh	Old High German	1	U+0072 U+0068 U+0024
+(h)rind	<???>	(h)rind	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0069 U+006e U+0064
+kol(o)	<???>	kol(o)	Old High German	1	U+006b U+006f U+006c U+0028 U+006f U+0029
+(w)rist	<???>	(w)rist	Old High German	1	U+0028 U+0077 U+0029 U+0072 U+0069 U+0073 U+0074
+arm (2)	<???>	arm (2)	Old High German	1	U+0061 U+0072 U+006d U+0020 U+0028 U+0032 U+0029
+swam(b)	<???>	swam(b)	Old High German	1	U+0073 U+0077 U+0061 U+006d U+0028 U+0062 U+0029
+(h)ruomen	<???>	(h)ruomen	Old High German	1	U+0028 U+0068 U+0029 U+0072 U+0075 U+006f U+006d U+0065 U+006e
+wâ(h)en	<???>	wâ(h)en	Old High German	1	U+0077 U+00e2 U+0028 U+0068 U+0029 U+0065 U+006e
+salb(a)	<???>	salb(a)	Old High German	1	U+0073 U+0061 U+006c U+0062 U+0028 U+0061 U+0029

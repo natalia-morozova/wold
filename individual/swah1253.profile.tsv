@@ -1,0 +1,187 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	mwana wa kambo, majira ya kupukutika kwa majani	Swahili	1002	U+0061
+a$	a	mwana, mkubwa	Swahili	725	U+0061 U+0024
+i	i	miali ya kaskazini ya dunia, -fikiri	Swahili	672	U+0069
+n	n	mwana, konokono	Swahili	525	U+006e
+u	u	ndugu, mkubwa	Swahili	516	U+0075
+-	<?>	-refu, -funga	Swahili	512	U+002d
+i$	i	chini, jani	Swahili	480	U+0069 U+0024
+m	m	-embamba, umeme	Swahili	356	U+006d
+e	e	ukelele, kelele	Swahili	316	U+0065
+k	k	mkubwa, kaka	Swahili	295	U+006b
+^m	m	mkwe, mdogo	Swahili	275	U+005e U+006d
+o	o	mdogo, konokono	Swahili	268	U+006f
+g	g	ndugu, mdogo	Swahili	260	U+0067
+^k	k	kaka, -kaa	Swahili	250	U+005e U+006b
+r	r	-tiririka, -ororo	Swahili	217	U+0072
+l	l	ukelele, kelele	Swahili	212	U+006c
+b	b	-embamba, mjomba	Swahili	211	U+0062
+o$	o	mdogo, mdomo	Swahili	199	U+006f U+0024
+t	t	mtoto, moto	Swahili	198	U+0074
+u$	u	ndugu, -refu	Swahili	196	U+0075 U+0024
+_	_	mwana wa kambo, majira ya kupukutika kwa majani	Swahili	164	U+005f
+d	d	ndugu, mdogo	Swahili	158	U+0064
+z	z	mzee, shangazi	Swahili	139	U+007a
+s	s	sisi, kosa	Swahili	130	U+0073
+e$	e	mkwe, yeye	Swahili	127	U+0065 U+0024
+y	y	unyoya, yeye	Swahili	125	U+0079
+^n	n	ndugu, njaa	Swahili	122	U+005e U+006e
+^s	s	sisi, sepeto	Swahili	104	U+005e U+0073
+^t	t	titi, -tia rangi	Swahili	98	U+005e U+0074
+p	p	kipepeo, -fupi	Swahili	97	U+0070
+^u	u	unyoya, ukelele	Swahili	96	U+005e U+0075
+j	j	mjukuu, mjomba	Swahili	92	U+006a
+^b	b	baba, bahari	Swahili	87	U+005e U+0062
+^p	p	-pata, pepo	Swahili	83	U+005e U+0070
+^ch	ch	chini, chawa	Swahili	79	U+005e U+0063 U+0068
+f	f	-refu, mafuta	Swahili	77	U+0066
+w	w	chawa, -chelewa	Swahili	75	U+0077
+^j	j	juu, jani	Swahili	63	U+005e U+006a
+ch	ch	chakula cha mchana, -acha	Swahili	59	U+0063 U+0068
+^f	f	-funga, -fupi	Swahili	58	U+005e U+0066
+v	v	mviringo, -bivu	Swahili	58	U+0076
+h	h	rahisi, bahari	Swahili	57	U+0068
+sh	sh	mwisho, beleshi	Swahili	53	U+0073 U+0068
+^h	h	-hifadhi, haraka	Swahili	47	U+005e U+0068
+^mw	mw	mwana, mwisho	Swahili	43	U+005e U+006d U+0077
+^a	a	-acha, -amka	Swahili	43	U+005e U+0061
+^sh	sh	shangazi, -shika	Swahili	39	U+005e U+0073 U+0068
+aa$	aa	-kaa, jamaa	Swahili	35	U+0061 U+0061 U+0024
+^r	r	-refu, -ruka	Swahili	34	U+005e U+0072
+^g	g	-gawanya, -gumu	Swahili	31	U+005e U+0067
+^w	w	-wa, wao	Swahili	31	U+005e U+0077
+^d	d	dada, duara	Swahili	30	U+005e U+0064
+^l	l	-laani, -lala	Swahili	28	U+005e U+006c
+^e	e	-elea, -embamba	Swahili	22	U+005e U+0065
+^o	o	-oga, -ona	Swahili	20	U+005e U+006f
+^i	i	-inua, -ita	Swahili	19	U+005e U+0069
+uu$	uu	juu, mjukuu	Swahili	19	U+0075 U+0075 U+0024
+kw	kw	mkwe, -rukwa na akili	Swahili	16	U+006b U+0077
+^z	z	zimwi, -zuia pumzi	Swahili	16	U+005e U+007a
+oo$	oo	kioo, koo	Swahili	16	U+006f U+006f U+0024
+^v	v	viwele, -vivu	Swahili	13	U+005e U+0076
+^ms	ms	msonobari, msalaba	Swahili	12	U+005e U+006d U+0073
+^kw	kw	kwa nini, kwapa	Swahili	11	U+005e U+006b U+0077
+^dh	dh	dhahabu, dhaifu	Swahili	11	U+005e U+0064 U+0068
+bw	bw	mkubwa, -kubwa	Swahili	11	U+0062 U+0077
+^y	y	yeye, yule yule	Swahili	10	U+005e U+0079
+dh	dh	-hifadhi, fedha	Swahili	10	U+0064 U+0068
+^msh	msh	mshahara, mshipi	Swahili	10	U+005e U+006d U+0073 U+0068
+aa	aa	-laani, maawio	Swahili	9	U+0061 U+0061
+gw	gw	kongwa, muungwana	Swahili	7	U+0067 U+0077
+’	<?>	ng’ombe, -ng’aa	Swahili	7	U+2019
+pw	pw	mpwa, maji kupwa	Swahili	6	U+0070 U+0077
+mw	mw	kamwe, zimwi	Swahili	5	U+006d U+0077
+^J	<?>	Jumapili, Jumatatu	Swahili	5	U+005e U+004a
+ee$	ee	mzee, pekee	Swahili	4	U+0065 U+0065 U+0024
+ii$	ii	-tii, -jamii	Swahili	3	U+0069 U+0069 U+0024
+-panda (2)	<???>	-panda (2)	Swahili	3	U+002d U+0070 U+0061 U+006e U+0064 U+0061 U+0020 U+0028 U+0032 U+0029
+gh	gh	lugha, magharibi	Swahili	3	U+0067 U+0068
+jw	jw	mgonjwa, ugonjwa	Swahili	2	U+006a U+0077
+ua (1)	<???>	ua (1)	Swahili	2	U+0075 U+0061 U+0020 U+0028 U+0031 U+0029
+…$	<?>	-wa na …, -kaa na …	Swahili	2	U+2026 U+0024
+barabara (1)	<???>	barabara (1)	Swahili	2	U+0062 U+0061 U+0072 U+0061 U+0062 U+0061 U+0072 U+0061 U+0020 U+0028 U+0031 U+0029
+^B	<?>	Bukini, Buki	Swahili	2	U+005e U+0042
+^th	th	-thubutu, theluji	Swahili	2	U+005e U+0074 U+0068
+msh	msh	kiamshakinywa, chamshakinywa	Swahili	2	U+006d U+0073 U+0068
+dw	dw	-shindwa, bodwe	Swahili	2	U+0064 U+0077
+^M	<?>	Mola, Manga	Swahili	2	U+005e U+004d
+ks	ks	soksi, ekseli	Swahili	2	U+006b U+0073
+-panda (1)	<???>	-panda (1)	Swahili	2	U+002d U+0070 U+0061 U+006e U+0064 U+0061 U+0020 U+0028 U+0031 U+0029
+chw	chw	mchwa, kichwa	Swahili	2	U+0063 U+0068 U+0077
+-chungu (2)	<???>	-chungu (2)	Swahili	2	U+002d U+0063 U+0068 U+0075 U+006e U+0067 U+0075 U+0020 U+0028 U+0032 U+0029
+^tw	tw	-twanga, -twaa	Swahili	2	U+005e U+0074 U+0077
+mwamba (1)	<???>	mwamba (1)	Swahili	2	U+006d U+0077 U+0061 U+006d U+0062 U+0061 U+0020 U+0028 U+0031 U+0029
+^gh	gh	ghuba, ghali	Swahili	2	U+005e U+0067 U+0068
+panda (2) (la uso)	<???>	panda (2) (la uso)	Swahili	1	U+0070 U+0061 U+006e U+0064 U+0061 U+0020 U+0028 U+0032 U+0029 U+0020 U+0028 U+006c U+0061 U+0020 U+0075 U+0073 U+006f U+0029
+mto (1)	<???>	mto (1)	Swahili	1	U+006d U+0074 U+006f U+0020 U+0028 U+0031 U+0029
+^H	<?>	Hindi	Swahili	1	U+005e U+0048
+wimbi (1)	<???>	wimbi (1)	Swahili	1	U+0077 U+0069 U+006d U+0062 U+0069 U+0020 U+0028 U+0031 U+0029
+kidole (cha mkono)	<???>	kidole (cha mkono)	Swahili	1	U+006b U+0069 U+0064 U+006f U+006c U+0065 U+0020 U+0028 U+0063 U+0068 U+0061 U+0020 U+006d U+006b U+006f U+006e U+006f U+0029
+-tema (2) mate	<???>	-tema (2) mate	Swahili	1	U+002d U+0074 U+0065 U+006d U+0061 U+0020 U+0028 U+0032 U+0029 U+0020 U+006d U+0061 U+0074 U+0065
+mwamba (2)	<???>	mwamba (2)	Swahili	1	U+006d U+0077 U+0061 U+006d U+0062 U+0061 U+0020 U+0028 U+0032 U+0029
+-kopesa (macho)	<???>	-kopesa (macho)	Swahili	1	U+002d U+006b U+006f U+0070 U+0065 U+0073 U+0061 U+0020 U+0028 U+006d U+0061 U+0063 U+0068 U+006f U+0029
+ns	ns	dansi	Swahili	1	U+006e U+0073
+maji (ya) kujaa na kupwa	<???>	maji (ya) kujaa na kupwa	Swahili	1	U+006d U+0061 U+006a U+0069 U+0020 U+0028 U+0079 U+0061 U+0029 U+0020 U+006b U+0075 U+006a U+0061 U+0061 U+0020 U+006e U+0061 U+0020 U+006b U+0075 U+0070 U+0077 U+0061
+udongo (wa mfinyanzi)	<???>	udongo (wa mfinyanzi)	Swahili	1	U+0075 U+0064 U+006f U+006e U+0067 U+006f U+0020 U+0028 U+0077 U+0061 U+0020 U+006d U+0066 U+0069 U+006e U+0079 U+0061 U+006e U+007a U+0069 U+0029
+shavu (la samaki)	<???>	shavu (la samaki)	Swahili	1	U+0073 U+0068 U+0061 U+0076 U+0075 U+0020 U+0028 U+006c U+0061 U+0020 U+0073 U+0061 U+006d U+0061 U+006b U+0069 U+0029
+taa (2)	<???>	taa (2)	Swahili	1	U+0074 U+0061 U+0061 U+0020 U+0028 U+0032 U+0029
+kamba (1)	<???>	kamba (1)	Swahili	1	U+006b U+0061 U+006d U+0062 U+0061 U+0020 U+0028 U+0031 U+0029
+kiko (1)	<???>	kiko (1)	Swahili	1	U+006b U+0069 U+006b U+006f U+0020 U+0028 U+0031 U+0029
+ii	ii	kiini cha yai	Swahili	1	U+0069 U+0069
+ziwa (1)	<???>	ziwa (1)	Swahili	1	U+007a U+0069 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
+nw	nw	anwani	Swahili	1	U+006e U+0077
+nn	nn	Jumanne	Swahili	1	U+006e U+006e
+wimbi (2)	<???>	wimbi (2)	Swahili	1	U+0077 U+0069 U+006d U+0062 U+0069 U+0020 U+0028 U+0032 U+0029
+kombe (la mbega)	<???>	kombe (la mbega)	Swahili	1	U+006b U+006f U+006d U+0062 U+0065 U+0020 U+0028 U+006c U+0061 U+0020 U+006d U+0062 U+0065 U+0067 U+0061 U+0029
+mota (2)	<???>	mota (2)	Swahili	1	U+006d U+006f U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
+kamba (2)	<???>	kamba (2)	Swahili	1	U+006b U+0061 U+006d U+0062 U+0061 U+0020 U+0028 U+0032 U+0029
+kuku (jike)	<???>	kuku (jike)	Swahili	1	U+006b U+0075 U+006b U+0075 U+0020 U+0028 U+006a U+0069 U+006b U+0065 U+0029
+(kidole) gumba	<???>	(kidole) gumba	Swahili	1	U+0028 U+006b U+0069 U+0064 U+006f U+006c U+0065 U+0029 U+0020 U+0067 U+0075 U+006d U+0062 U+0061
+kadi (ya posta)	<???>	kadi (ya posta)	Swahili	1	U+006b U+0061 U+0064 U+0069 U+0020 U+0028 U+0079 U+0061 U+0020 U+0070 U+006f U+0073 U+0074 U+0061 U+0029
+panda (1)	<???>	panda (1)	Swahili	1	U+0070 U+0061 U+006e U+0064 U+0061 U+0020 U+0028 U+0031 U+0029
+uti (wa mgongo)	<???>	uti (wa mgongo)	Swahili	1	U+0075 U+0074 U+0069 U+0020 U+0028 U+0077 U+0061 U+0020 U+006d U+0067 U+006f U+006e U+0067 U+006f U+0029
+uu	uu	muungwana	Swahili	1	U+0075 U+0075
+nguruwe (mwitu)	<???>	nguruwe (mwitu)	Swahili	1	U+006e U+0067 U+0075 U+0072 U+0075 U+0077 U+0065 U+0020 U+0028 U+006d U+0077 U+0069 U+0074 U+0075 U+0029
+bahati (njema)	<???>	bahati (njema)	Swahili	1	U+0062 U+0061 U+0068 U+0061 U+0074 U+0069 U+0020 U+0028 U+006e U+006a U+0065 U+006d U+0061 U+0029
+-lia (1) (mlio mkali)	<???>	-lia (1) (mlio mkali)	Swahili	1	U+002d U+006c U+0069 U+0061 U+0020 U+0028 U+0031 U+0029 U+0020 U+0028 U+006d U+006c U+0069 U+006f U+0020 U+006d U+006b U+0061 U+006c U+0069 U+0029
+-vuta (sigara)	<???>	-vuta (sigara)	Swahili	1	U+002d U+0076 U+0075 U+0074 U+0061 U+0020 U+0028 U+0073 U+0069 U+0067 U+0061 U+0072 U+0061 U+0029
+mhimili (wa mlango)	<???>	mhimili (wa mlango)	Swahili	1	U+006d U+0068 U+0069 U+006d U+0069 U+006c U+0069 U+0020 U+0028 U+0077 U+0061 U+0020 U+006d U+006c U+0061 U+006e U+0067 U+006f U+0029
+kororo (la shingo)	<???>	kororo (la shingo)	Swahili	1	U+006b U+006f U+0072 U+006f U+0072 U+006f U+0020 U+0028 U+006c U+0061 U+0020 U+0073 U+0068 U+0069 U+006e U+0067 U+006f U+0029
+kh$	kh	shekh	Swahili	1	U+006b U+0068 U+0024
+chungu (4)	<???>	chungu (4)	Swahili	1	U+0063 U+0068 U+0075 U+006e U+0067 U+0075 U+0020 U+0028 U+0034 U+0029
+-ota (ndoto)	<???>	-ota (ndoto)	Swahili	1	U+002d U+006f U+0074 U+0061 U+0020 U+0028 U+006e U+0064 U+006f U+0074 U+006f U+0029
+^I	<?>	Ijumaa	Swahili	1	U+005e U+0049
+kidole (cha mguu)	<???>	kidole (cha mguu)	Swahili	1	U+006b U+0069 U+0064 U+006f U+006c U+0065 U+0020 U+0028 U+0063 U+0068 U+0061 U+0020 U+006d U+0067 U+0075 U+0075 U+0029
+kulia (2)	<???>	kulia (2)	Swahili	1	U+006b U+0075 U+006c U+0069 U+0061 U+0020 U+0028 U+0032 U+0029
+uga (wa kupuria nafaka)	<???>	uga (wa kupuria nafaka)	Swahili	1	U+0075 U+0067 U+0061 U+0020 U+0028 U+0077 U+0061 U+0020 U+006b U+0075 U+0070 U+0075 U+0072 U+0069 U+0061 U+0020 U+006e U+0061 U+0066 U+0061 U+006b U+0061 U+0029
+-zima (2)	<???>	-zima (2)	Swahili	1	U+002d U+007a U+0069 U+006d U+0061 U+0020 U+0028 U+0032 U+0029
+^bw	bw	bwana	Swahili	1	U+005e U+0062 U+0077
+ziwa (2)	<???>	ziwa (2)	Swahili	1	U+007a U+0069 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
+-tema (1) kuni	<???>	-tema (1) kuni	Swahili	1	U+002d U+0074 U+0065 U+006d U+0061 U+0020 U+0028 U+0031 U+0029 U+0020 U+006b U+0075 U+006e U+0069
+(kwa) sababu	<???>	(kwa) sababu	Swahili	1	U+0028 U+006b U+0077 U+0061 U+0029 U+0020 U+0073 U+0061 U+0062 U+0061 U+0062 U+0075
+upinde (wa mvua)	<???>	upinde (wa mvua)	Swahili	1	U+0075 U+0070 U+0069 U+006e U+0064 U+0065 U+0020 U+0028 U+0077 U+0061 U+0020 U+006d U+0076 U+0075 U+0061 U+0029
+^mm	mm	mmea	Swahili	1	U+005e U+006d U+006d
+^pw	pw	pwani	Swahili	1	U+005e U+0070 U+0077
+fuu (la kichwa)	<???>	fuu (la kichwa)	Swahili	1	U+0066 U+0075 U+0075 U+0020 U+0028 U+006c U+0061 U+0020 U+006b U+0069 U+0063 U+0068 U+0077 U+0061 U+0029
+bupuru (la kichwa)	<???>	bupuru (la kichwa)	Swahili	1	U+0062 U+0075 U+0070 U+0075 U+0072 U+0075 U+0020 U+0028 U+006c U+0061 U+0020 U+006b U+0069 U+0063 U+0068 U+0077 U+0061 U+0029
+mto (2)	<???>	mto (2)	Swahili	1	U+006d U+0074 U+006f U+0020 U+0028 U+0032 U+0029
+utando (wa buibui)	<???>	utando (wa buibui)	Swahili	1	U+0075 U+0074 U+0061 U+006e U+0064 U+006f U+0020 U+0028 U+0077 U+0061 U+0020 U+0062 U+0075 U+0069 U+0062 U+0075 U+0069 U+0029
+tetemeko (la ardhi)	<???>	tetemeko (la ardhi)	Swahili	1	U+0074 U+0065 U+0074 U+0065 U+006d U+0065 U+006b U+006f U+0020 U+0028 U+006c U+0061 U+0020 U+0061 U+0072 U+0064 U+0068 U+0069 U+0029
+ksh	ksh	-nakshi	Swahili	1	U+006b U+0073 U+0068
+^shw	shw	shwari	Swahili	1	U+005e U+0073 U+0068 U+0077
+kiwiko (cha mkono)	<???>	kiwiko (cha mkono)	Swahili	1	U+006b U+0069 U+0077 U+0069 U+006b U+006f U+0020 U+0028 U+0063 U+0068 U+0061 U+0020 U+006d U+006b U+006f U+006e U+006f U+0029
+chungu (1)	<???>	chungu (1)	Swahili	1	U+0063 U+0068 U+0075 U+006e U+0067 U+0075 U+0020 U+0028 U+0031 U+0029
+-lia (1)	<???>	-lia (1)	Swahili	1	U+002d U+006c U+0069 U+0061 U+0020 U+0028 U+0031 U+0029
+taa (1)	<???>	taa (1)	Swahili	1	U+0074 U+0061 U+0061 U+0020 U+0028 U+0031 U+0029
+-pepesa (macho)	<???>	-pepesa (macho)	Swahili	1	U+002d U+0070 U+0065 U+0070 U+0065 U+0073 U+0061 U+0020 U+0028 U+006d U+0061 U+0063 U+0068 U+006f U+0029
+^A	<?>	Alhamisi	Swahili	1	U+005e U+0041
+lh	lh	Alhamisi	Swahili	1	U+006c U+0068
+s$	s	rais	Swahili	1	U+0073 U+0024
+barabara (2)	<???>	barabara (2)	Swahili	1	U+0062 U+0061 U+0072 U+0061 U+0062 U+0061 U+0072 U+0061 U+0020 U+0028 U+0032 U+0029
+tw	tw	kesho kutwa	Swahili	1	U+0074 U+0077
+ua (2)	<???>	ua (2)	Swahili	1	U+0075 U+0061 U+0020 U+0028 U+0032 U+0029
+gari (la) moshi	<???>	gari (la) moshi	Swahili	1	U+0067 U+0061 U+0072 U+0069 U+0020 U+0028 U+006c U+0061 U+0029 U+0020 U+006d U+006f U+0073 U+0068 U+0069
+-kisi (2)	<???>	-kisi (2)	Swahili	1	U+002d U+006b U+0069 U+0073 U+0069 U+0020 U+0028 U+0032 U+0029
+-zima (1)	<???>	-zima (1)	Swahili	1	U+002d U+007a U+0069 U+006d U+0061 U+0020 U+0028 U+0031 U+0029
+th	th	kiatu cha theluji	Swahili	1	U+0074 U+0068
+k$	k	sheik	Swahili	1	U+006b U+0024
+makaa (ya moto)	<???>	makaa (ya moto)	Swahili	1	U+006d U+0061 U+006b U+0061 U+0061 U+0020 U+0028 U+0079 U+0061 U+0020 U+006d U+006f U+0074 U+006f U+0029
+matamvua (ya samaki)	<???>	matamvua (ya samaki)	Swahili	1	U+006d U+0061 U+0074 U+0061 U+006d U+0076 U+0075 U+0061 U+0020 U+0028 U+0079 U+0061 U+0020 U+0073 U+0061 U+006d U+0061 U+006b U+0069 U+0029
+mchongaji (wa sanamu)	<???>	mchongaji (wa sanamu)	Swahili	1	U+006d U+0063 U+0068 U+006f U+006e U+0067 U+0061 U+006a U+0069 U+0020 U+0028 U+0077 U+0061 U+0020 U+0073 U+0061 U+006e U+0061 U+006d U+0075 U+0029
+oo	oo	-nyooka	Swahili	1	U+006f U+006f
+-chuma (mshahara, fedha)	<???>	-chuma (mshahara, fedha)	Swahili	1	U+002d U+0063 U+0068 U+0075 U+006d U+0061 U+0020 U+0028 U+006d U+0073 U+0068 U+0061 U+0068 U+0061 U+0072 U+0061 U+002c U+0020 U+0066 U+0065 U+0064 U+0068 U+0061 U+0029
+mota (1)	<???>	mota (1)	Swahili	1	U+006d U+006f U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
+-rushia (maji)	<???>	-rushia (maji)	Swahili	1	U+002d U+0072 U+0075 U+0073 U+0068 U+0069 U+0061 U+0020 U+0028 U+006d U+0061 U+006a U+0069 U+0029
+mhunzi (wa chuma)	<???>	mhunzi (wa chuma)	Swahili	1	U+006d U+0068 U+0075 U+006e U+007a U+0069 U+0020 U+0028 U+0077 U+0061 U+0020 U+0063 U+0068 U+0075 U+006d U+0061 U+0029
+chungu (3) (nzima)	<???>	chungu (3) (nzima)	Swahili	1	U+0063 U+0068 U+0075 U+006e U+0067 U+0075 U+0020 U+0028 U+0033 U+0029 U+0020 U+0028 U+006e U+007a U+0069 U+006d U+0061 U+0029
+^sw	sw	-swaga	Swahili	1	U+005e U+0073 U+0077
+(kwa) sababu gani	<???>	(kwa) sababu gani	Swahili	1	U+0028 U+006b U+0077 U+0061 U+0029 U+0020 U+0073 U+0061 U+0062 U+0061 U+0062 U+0075 U+0020 U+0067 U+0061 U+006e U+0069
+kiko (2)	<???>	kiko (2)	Swahili	1	U+006b U+0069 U+006b U+006f U+0020 U+0028 U+0032 U+0029
+mkungu (wa ndizi)	<???>	mkungu (wa ndizi)	Swahili	1	U+006d U+006b U+0075 U+006e U+0067 U+0075 U+0020 U+0028 U+0077 U+0061 U+0020 U+006e U+0064 U+0069 U+007a U+0069 U+0029
+maporomoko (ya maji)	<???>	maporomoko (ya maji)	Swahili	1	U+006d U+0061 U+0070 U+006f U+0072 U+006f U+006d U+006f U+006b U+006f U+0020 U+0028 U+0079 U+0061 U+0020 U+006d U+0061 U+006a U+0069 U+0029
+-kisi (1)	<???>	-kisi (1)	Swahili	1	U+002d U+006b U+0069 U+0073 U+0069 U+0020 U+0028 U+0031 U+0029
+taya (la chini)	<???>	taya (la chini)	Swahili	1	U+0074 U+0061 U+0079 U+0061 U+0020 U+0028 U+006c U+0061 U+0020 U+0063 U+0068 U+0069 U+006e U+0069 U+0029
+^mh	mh	mhimili	Swahili	1	U+005e U+006d U+0068

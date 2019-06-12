@@ -1,0 +1,1474 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	14-1-1-1	7426161690487297	Kildin Saami	kild1236	the world	WORLD	965	э̄ллманнт	ēllmannt	ēllmannt 
+2	14-1-1-2	74261616353205501	Kildin Saami	kild1236	the world	WORLD	965	мырр	mɨrr	mɨrr 
+3	14-1-21-1	74261616634457381	Kildin Saami	kild1236	the land	LAND	626	е̄ммьне	jēmm’n’e	jēmm’n’e 
+4	14-1-212-1	74261616180775157	Kildin Saami	kild1236	the soil	EARTH (SOIL)	1228	лаввьн	lavv’n	lavv’n 
+5	14-1-213-1	74261616891716849	Kildin Saami	kild1236	the dust	DUST	2	пуэнн	puenn	puenn 
+6	14-1-214-1	74261616909210335	Kildin Saami	kild1236	the mud	MUD	640	ниввьл	njivv’l	njivv’l 
+7	14-1-215-1	74261616919213344	Kildin Saami	kild1236	the sand	SAND	671	вӯнтас	vūntas	vūntas 
+8	14-1-22-1	7426161658332885	Kildin Saami	kild1236	the mountain or hill	MOUNTAIN OR HILL	2118	пāһкь	pāhk’	pāhk’ 
+9	14-1-222-1	74261616855443882	Kildin Saami	kild1236	the cliff or precipice	PRECIPICE	618	уррьт	urr’t	urr’t 
+10	14-1-23-1	7426161658983717	Kildin Saami	kild1236	the plain	PLAIN	652	пуэшенҍ	pueš’en’	pueš’en’ 
+11	14-1-23-2	74261616224865828	Kildin Saami	kild1236	the plain	PLAIN	652	поаля	poal’a	poal’a 
+12	14-1-24-1	74261616386110653	Kildin Saami	kild1236	the valley	VALLEY	921	вӯммь	vūmm’	vūmm’ 
+13	14-1-24-2	7426161619855364	Kildin Saami	kild1236	the valley	VALLEY	921	ле̄гкь	liegk’	liegk’ 
+14	14-1-24-3	74261616707076193	Kildin Saami	kild1236	the valley	VALLEY	921	ле̄кьш	liek’š	liek’š 
+15	14-1-25-1	74261616600480893	Kildin Saami	kild1236	the island	ISLAND	622	суэл	suel	suel 
+16	14-1-26-1	74261616144972365	Kildin Saami	kild1236	the mainland	MAINLAND	166	мо̄нтэр	mōnter	mōnter 
+17	14-1-27-1	7426161638537231	Kildin Saami	kild1236	the shore	SHORE	113	рыннт	rɨnnt	rɨnnt 
+18	14-1-27-2	7426161676296226	Kildin Saami	kild1236	the shore	SHORE	113	ка̄ннҍт	kānn’t	kānn’t 
+19	14-1-28-1	74261616436258233	Kildin Saami	kild1236	the cave	CAVE	1155	вуэӈӈк	vueŋŋk	vueŋŋk 
+20	14-1-31-1	74261616123916950	Kildin Saami	kild1236	the water	WATER	948	ча̄дзь	čāʒ’	čāʒ’ 
+21	14-1-32-1	7426161673937155	Kildin Saami	kild1236	the sea	SEA	1474	ме̄рр	mierr	mierr 
+22	14-1-322-1	74261616143872835	Kildin Saami	kild1236	calm	CALM	258	куэӆӆьк	kuellh’k	kuellh’k 
+23	14-1-323-1	74261616194813673	Kildin Saami	kild1236	rough(2)	ROUGH (OF SEA)	259	шэ̄ӈӈ	šēŋŋ	šēŋŋ 
+24	14-1-324-1	74261616279371892	Kildin Saami	kild1236	the foam	FOAM	1768	со̄ппт	sōppt	sōppt 
+25	14-1-329-1	74261616226236946	Kildin Saami	kild1236	the ocean	OCEAN	645	акеан	ak’eán	ak’eán 
+26	14-1-33-1	74261616972282323	Kildin Saami	kild1236	the lake	LAKE	624	я̄ввьр	jāvv’r	jāvv’r 
+27	14-1-34-1	74261616960863711	Kildin Saami	kild1236	the bay	BAY	663	вӯнн	vūnn	vūnn 
+28	14-1-34-2	7426161677414710	Kildin Saami	kild1236	the bay	BAY	663	лӯххт	lūxxt	lūxxt 
+29	14-1-341-1	74261616817034440	Kildin Saami	kild1236	the lagoon	LAGOON	623	лагуна	lagúna	lagúna 
+30	14-1-342-1	74261616274971007	Kildin Saami	kild1236	the reef	REEF	660	куэррк	kuerrk	kuerrk 
+31	14-1-343-1	74261616764506108	Kildin Saami	kild1236	the cape	CAPE	1662	нёаррк	njoarrk	njoarrk 
+32	14-1-35-1	74261616730456851	Kildin Saami	kild1236	the wave	WAVE	978	нэ̄ммп	nēmmp	nēmmp 
+33	14-1-352-1	74261616170826479	Kildin Saami	kild1236	the tide	TIDE	891	цуэгкь я адзь	cuegk’ ja aʒ’	cuegk’ ja aʒ’ 
+34	14-1-353-1	74261616249124272	Kildin Saami	kild1236	the low tide	LOW TIDE	1026	цуэгкь	cuegk’	cuegk’ 
+35	14-1-354-1	74261616664612847	Kildin Saami	kild1236	the high tide	HIGH TIDE	613	тиввт ча̄дзь	tivvt čāʒ’	tivvt čāʒ’ 
+36	14-1-354-2	74261616844711705	Kildin Saami	kild1236	the high tide	HIGH TIDE	613	адзь	aʒ’	aʒ’ 
+37	14-1-36-1	74261616337707220	Kildin Saami	kild1236	the river or stream	RIVER	666	ё̄гк	jōgk	jōgk 
+38	14-1-362-1	74261616627026432	Kildin Saami	kild1236	the whirlpool	WHIRLPOOL	1982	вырр	vɨrr	vɨrr 
+39	14-1-362-2	74261616420726807	Kildin Saami	kild1236	the whirlpool	WHIRLPOOL	1982	ча̄дзь-чуллм	čāʒ’-čullm	čāʒ’-čullm 
+40	14-1-37-1	74261616234379513	Kildin Saami	kild1236	the spring or well	SPRING OR WELL	2144	ка̄ййв	kājjv	kājjv 
+41	14-1-38-1	74261616523821575	Kildin Saami	kild1236	the swamp	SWAMP	1145	ла̄ммьп	lāmm’p	lāmm’p 
+42	14-1-39-1	74261616225394220	Kildin Saami	kild1236	the waterfall	WATERFALL	943	кӯшшк	kūššk	kūššk 
+43	14-1-41-1	74261616671106276	Kildin Saami	kild1236	the woods or forest	FOREST	420	ва̄ррь	vārr’	vārr’ 
+44	14-1-43-1	74261616791447752	Kildin Saami	kild1236	the wood	WOOD	1803	мӯрр	mūrr	mūrr 
+45	14-1-44-1	74261616241982544	Kildin Saami	kild1236	the stone or rock	STONE OR ROCK	2125	ке̄ддҍк	kiedd’k	kiedd’k 
+46	14-1-45-1	74261616605197657	Kildin Saami	kild1236	the earthquake	EARTHQUAKE	6	е̄ммьне-пушштнэһкь	jēmm’n’e-pušštnehk’	jēmm’n’e-pušštnehk’ 
+47	14-1-51-1	74261616769564081	Kildin Saami	kild1236	the sky	SKY	1732	алльм	all’m	all’m 
+48	14-1-52-1	74261616854068875	Kildin Saami	kild1236	the sun	SUN	1343	пе̄ййв	piejjv	piejjv 
+49	14-1-53-1	74261616466434969	Kildin Saami	kild1236	the moon	MOON	1313	ма̄нн	mānn	mānn 
+50	14-1-54-1	7426161638798811	Kildin Saami	kild1236	the star	STAR	1430	тāссьт	tāss’t	tāss’t 
+51	14-1-55-1	74261616498238194	Kildin Saami	kild1236	the lightning	LIGHTNING	1654	тӣрьмесь-нюлл	tīr’m’es’-ŋull	tīr’m’es’-ŋull 
+52	14-1-56-1	74261616433961137	Kildin Saami	kild1236	the thunder	THUNDER	1150	ча̄рркэ	čārrke	čārrke 
+53	14-1-56-2	74261616908940747	Kildin Saami	kild1236	the thunder	THUNDER	1150	тӣрьмэсь	tīr’mes’	tīr’mes’ 
+54	14-1-57-1	74261616932950117	Kildin Saami	kild1236	the bolt of lightning	BOLT (OF LIGHTNING)	2007	то̄ллкасск	tōllkassk	tōllkassk 
+55	14-1-58-1	74261616579613904	Kildin Saami	kild1236	the storm	STORM	858	по̄ррк	pōrrk	pōrrk 
+56	14-1-59-1	74261616756062303	Kildin Saami	kild1236	the rainbow	RAINBOW	1733	тӣрьмесь-ю̄ккс	tīr’mes’-jūkks	tīr’mes’-jūkks 
+57	14-1-61-1	74261616919257951	Kildin Saami	kild1236	the light	LIGHT (RADIATION)	630	чӯвв	čūvv	čūvv 
+58	14-1-62-1	74261616518938116	Kildin Saami	kild1236	the darkness	DARKNESS	11	се̄ввьн	sievv’n	sievv’n 
+59	14-1-63-1	74261616833950488	Kildin Saami	kild1236	the shade or shadow	SHADE	1388	кыввьн	kɨvv’n	kɨvv’n 
+60	14-1-64-1	74261616538452035	Kildin Saami	kild1236	the dew	DEW	1977	лаппьс	lapp’s	lapp’s 
+61	14-1-71-1	74261616991372156	Kildin Saami	kild1236	the air	AIR	27	вӯйнас	vūjnas	vūjnas 
+62	14-1-72-1	74261616115458364	Kildin Saami	kild1236	the wind	WIND	960	пӣӈӈк	pīŋŋk	pīŋŋk 
+63	14-1-73-1	74261616175472144	Kildin Saami	kild1236	the cloud	CLOUD	1489	пэ̄ввл	pēvvl	pēvvl 
+64	14-1-74-1	74261616817530407	Kildin Saami	kild1236	the fog	FOG	249	цӣгк	cīgk	cīgk 
+65	14-1-75-1	74261616988833537	Kildin Saami	kild1236	the rain	RAIN (PRECIPITATION)	658	а̄ббьр	ābb’r	ābb’r 
+66	14-1-76-1	74261616188642553	Kildin Saami	kild1236	the snow	SNOW	784	вэ̄дз	vēʒ	vēʒ 
+67	14-1-77-1	74261616828743329	Kildin Saami	kild1236	the ice	ICE	617	ӣӈӈ	īŋŋ	īŋŋ 
+68	14-1-78-1	74261616593484098	Kildin Saami	kild1236	the weather	WEATHER	952	е̄ррк	jērrk	jērrk 
+69	14-1-81-1	74261616783003911	Kildin Saami	kild1236	the fire	FIRE	221	то̄лл	tōll	tōll 
+70	14-1-82-1	74261616853401687	Kildin Saami	kild1236	the flame	FLAME	889	то̄лню̄ххчемь	tōlnjūxxčem’	tōlnjūxxčem’ 
+71	14-1-83-1	74261616903061823	Kildin Saami	kild1236	the smoke	SMOKE (EXHAUST)	778	сӯвв	sūvv	sūvv 
+72	14-1-84-1	74261616680038818	Kildin Saami	kild1236	the ash	ASH	646	кунн	kunn	kunn 
+73	14-1-841-1	7426161640359878	Kildin Saami	kild1236	the embers	EMBERS	67	ылас	ɨlas	ɨlas 
+74	14-1-851-1	74261616391652361	Kildin Saami	kild1236	to burn(1)	BURN (SOMETHING)	141	пуэлльтэ	puell’te	puell’te 
+75	14-1-852-1	74261616902727073	Kildin Saami	kild1236	to burn(2)	BURNING	1428	пӯлле	pūll’e	pūll’e 
+76	14-1-86-1	74261616391652361	Kildin Saami	kild1236	to light	LIGHT (IGNITE)	737	пуэлльтэ	puell’te	puell’te 
+77	14-1-861-1	74261616212890742	Kildin Saami	kild1236	to extinguish	EXTINGUISH	127	чуаццктэ	čuacckte	čuacckte 
+78	14-1-87-1	74261616248880978	Kildin Saami	kild1236	the match	MATCH	1133	спичка	spička	spička 
+79	14-1-88-1	74261616791447752	Kildin Saami	kild1236	the firewood	FIREWOOD	10	мӯрр	mūrr	mūrr 
+80	14-1-89-1	74261616115457450	Kildin Saami	kild1236	the charcoal	CHARCOAL	1188	ылл	ɨll	ɨll 
+81	14-1-89-2	74261616263869030	Kildin Saami	kild1236	the charcoal	CHARCOAL	1188	мӯрр-ылл	mūrr-ɨll	mūrr-ɨll 
+82	14-2-1-1	74261616930820994	Kildin Saami	kild1236	the person	PERSON	683	олма	olma	olma 
+83	14-2-21-1	74261616817775675	Kildin Saami	kild1236	the man	MAN	1554	оалмолма	oalmolma	oalmolma 
+84	14-2-22-1	74261616148113199	Kildin Saami	kild1236	the woman	WOMAN	962	нызан	nɨzan	nɨzan 
+85	14-2-23-1	74261616612983857	Kildin Saami	kild1236	male(1)	MALE (OF ANIMAL)	2263	оалмолма-	oalmolma-	oalmolma- 
+86	14-2-24-1	7426161687008145	Kildin Saami	kild1236	female(1)	FEMALE (OF PERSON)	2260	нызан-	nɨzan-	nɨzan- 
+87	14-2-25-1	74261616201618742	Kildin Saami	kild1236	the boy	BOY	1366	па̄ррьн	pārr’ša	pārr’ša 
+88	14-2-251-1	74261616253128165	Kildin Saami	kild1236	the young man	YOUNG MAN	76	па̄ррьшя	pārr’n	pārr’n 
+89	14-2-26-1	74261616394981444	Kildin Saami	kild1236	the girl	GIRL	1646	нӣйта	nījta	nījta 
+90	14-2-261-1	74261616827718538	Kildin Saami	kild1236	the young woman	YOUNG WOMAN	77	нӣййт	nījjt	nījjt 
+91	14-2-27-1	74261616122131632	Kildin Saami	kild1236	the child(1)	CHILD (YOUNG HUMAN)	1304	па̄рнэнч	pārnenč	pārnenč 
+92	14-2-28-1	74261616122131632	Kildin Saami	kild1236	the baby	BABY	1289	па̄рнэнч	pārnenč	pārnenč 
+93	14-2-31-1	74261616590539350	Kildin Saami	kild1236	the husband	HUSBAND	1200	кӯйй	kūjj	kūjj 
+94	14-2-32-1	74261616600540574	Kildin Saami	kild1236	the wife	WIFE	1199	коаб	koab	koab 
+95	14-2-32-2	74261616402441337	Kildin Saami	kild1236	the wife	WIFE	1199	а̄һкь	āhk’	āhk’ 
+96	14-2-33-1	74261616967055487	Kildin Saami	kild1236	to marry	MARRY	203	выййтэ кӯйе	vɨjjte kūjje	vɨjjte kūjje 
+97	14-2-34-1	74261616876223620	Kildin Saami	kild1236	the wedding	WEDDING	1259	на̄им	nāim	nāim 
+98	14-2-341-1	7426161631175289	Kildin Saami	kild1236	the divorce	DIVORCE	1134	ро̄а̄тткъе	roattkje	roattkje 
+99	14-2-35-1	74261616642130160	Kildin Saami	kild1236	the father	FATHER	1217	аджь	aǯ	aǯ 
+100	14-2-36-1	74261616717637711	Kildin Saami	kild1236	the mother	MOTHER	1216	е̄ннҍ	jēnn’	jēnn’ 
+101	14-2-37-1	74261616344065252	Kildin Saami	kild1236	the parents	PARENTS	505	ро̄дҍхель	rōd’x’el’	rōd’x’el’ 
+102	14-2-38-1	74261616532482408	Kildin Saami	kild1236	the married man	MARRIED MAN	424	ноаҋҋтма	noajjhtma	noajjhtma 
+103	14-2-39-1	7426161683095481	Kildin Saami	kild1236	the married woman	MARRIED WOMAN	426	кӯесь	kūjes’	kūjes’ 
+104	14-2-41-1	74261616423399985	Kildin Saami	kild1236	the son	SON	1620	алльк	all’k	all’k 
+105	14-2-42-1	74261616827718538	Kildin Saami	kild1236	the daughter	DAUGHTER	1357	нӣййт	nījjt	nījjt 
+106	14-3-662-1	74261616706041200	Kildin Saami	kild1236	the porpoise or dolphin	DOLPHIN	1479	нышш	nɨšš	nɨšš 
+107	14-2-43-1	74261616476047148	Kildin Saami	kild1236	the child(2)	CHILD (DESCENDANT)	1801	па̄ррнэ	pārrne	pārrne 
+108	14-2-44-1	74261616698804867	Kildin Saami	kild1236	the brother	BROTHER	1262	вӣлльй	vīllj	vīllj 
+109	14-2-444-1	74261616295106207	Kildin Saami	kild1236	the older brother	OLDER BROTHER	1759	пуарса вӣлльй	puarsa vīllj	puarsa vīllj 
+110	14-2-445-1	74261616375760758	Kildin Saami	kild1236	the younger brother	YOUNGER BROTHER	1760	нӯра вӣлльй	nūra vīll’j	nūra vīll’j 
+111	14-2-45-1	7426161622629307	Kildin Saami	kild1236	the sister	SISTER	1263	вуэррьпэнҍ	vuerr’pen’	vuerr’pen’ 
+112	14-2-454-1	74261616862943271	Kildin Saami	kild1236	the older sister	OLDER SISTER	1758	пуарса вуэррьпэнҍ	puarsa vuerr’pen’	puarsa vuerr’pen’ 
+113	14-2-455-1	74261616386173926	Kildin Saami	kild1236	the younger sister	YOUNGER SISTER	1761	нӯра вуэррьпэнҍ	nūra vuerr’pen’	nūra vuerr’pen’ 
+114	14-2-456-1	74261616764032186	Kildin Saami	kild1236	the sibling	SIBLING	1640	вуэррьпэнҍ я вӣльй	vuerr’pen’ ja vīlj	vuerr’pen’ ja vīlj 
+115	14-2-458-1	74261616465693323	Kildin Saami	kild1236	the twins	TWINS	1005	ю̄меһк	jūm’ehk	jūm’ehk 
+116	14-2-46-1	74261616841445078	Kildin Saami	kild1236	the grandfather	GRANDFATHER	1383	айй	ajj	ajj 
+117	14-2-461-1	74261616223123220	Kildin Saami	kild1236	the old man	OLD MAN	406	ка̄ллесь	kāll’es’	kāll’es’ 
+118	14-2-47-1	74261616759529377	Kildin Saami	kild1236	the grandmother	GRANDMOTHER	1496	оаһка	oahka	oahka 
+119	14-2-47-2	74261616779114165	Kildin Saami	kild1236	the grandmother	GRANDMOTHER	1496	а̄ка	āka	āka 
+120	14-2-471-1	74261616779114165	Kildin Saami	kild1236	the old woman	OLD WOMAN	907	а̄ка	āka	āka 
+121	14-2-471-2	74261616402441337	Kildin Saami	kild1236	the old woman	OLD WOMAN	907	а̄һкь	āhk’	āhk’ 
+122	14-2-48-1	74261616745248082	Kildin Saami	kild1236	the grandson	GRANDSON	1618	а̄һкэв	āhkev	āhkev 
+123	14-2-49-1	74261616777704731	Kildin Saami	kild1236	the granddaughter	GRANDDAUGHTER	1619	а̄йев	ājjev	ājjev 
+124	14-2-51-1	74261616796360964	Kildin Saami	kild1236	the uncle	UNCLE	1327	ӣнн	īnn (1)	īnn (1) 
+125	14-2-51-2	74261616680395494	Kildin Saami	kild1236	the uncle	UNCLE	1327	че̄дзь	čieʒ’	čieʒ’ 
+126	14-2-51-3	74261616564750432	Kildin Saami	kild1236	the uncle	UNCLE	1327	е̄гкь	jēgk’	jēgk’ 
+127	14-2-512-1	74261616564750432	Kildin Saami	kild1236	the father's brother	FATHER'S BROTHER	1985	е̄гкь	jēgk’	jēgk’ 
+128	14-2-52-1	74261616109323700	Kildin Saami	kild1236	the aunt	AUNT	1272	сӣссь	sīss’	sīss’ 
+129	14-2-52-2	74261616824785247	Kildin Saami	kild1236	the aunt	AUNT	1272	куэсськ	kuess’k	kuess’k 
+130	14-2-521-1	74261616824785247	Kildin Saami	kild1236	the mother's sister	MOTHER'S SISTER	171	куэсськ	kuess’k	kuess’k 
+131	14-2-522-1	74261616339039629	Kildin Saami	kild1236	the father's sister	FATHER'S SISTER	170	мӯдт	mūdt	mūdt 
+132	14-2-53-1	74261616297991049	Kildin Saami	kild1236	the nephew	NEPHEW	1063	племэниһк	pl’eménihk	pl’eménihk 
+133	14-2-53-2	74261616815823493	Kildin Saami	kild1236	the nephew	NEPHEW	1063	няпай	neapaj	neapaj 
+134	14-2-54-1	74261616297991049	Kildin Saami	kild1236	the niece	NIECE	1642	племэниһк	pl’eménihk	pl’eménihk 
+135	14-2-55-1	74261616243927482	Kildin Saami	kild1236	the cousin	COUSIN	1643	вилльй-пе̄лль	vīll’j-piell’	vīll’j-piell’ 
+136	14-2-55-2	74261616397726789	Kildin Saami	kild1236	the cousin	COUSIN	1643	вуэррь-пе̄лль	vuerr’-piell’	vuerr’-piell’ 
+137	14-2-56-1	74261616163193694	Kildin Saami	kild1236	the ancestors	ANCESTORS	1669	ма̄дтэр	mādter	mādter 
+138	14-2-61-1	74261616451949929	Kildin Saami	kild1236	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255	вӯффп	vūffp	vūffp 
+139	14-2-611-1	74261616605164874	Kildin Saami	kild1236	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254	вӯһп	vūhp	vūhp 
+140	14-2-62-1	74261616395859066	Kildin Saami	kild1236	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256	вӯннҍ	vūnn’	vūnn’ 
+141	14-2-621-1	74261616395859066	Kildin Saami	kild1236	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257	вӯннҍ	vūnn’	vūnn’ 
+142	14-2-63-1	74261616334205131	Kildin Saami	kild1236	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267	зя̄һтҍ	zeaht’	zeaht’ 
+143	14-2-63-2	74261616225562931	Kildin Saami	kild1236	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267	вывв	vɨvv	vɨvv 
+144	14-2-631-1	74261616225562931	Kildin Saami	kild1236	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266	вывв	vɨvv	vɨvv 
+145	14-2-631-2	74261616334205131	Kildin Saami	kild1236	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266	зя̄һтҍ	zeaht’	zeaht’ 
+146	14-2-64-1	74261616196335569	Kildin Saami	kild1236	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265	кӯим	kūim	kūim 
+147	14-2-641-1	742616162594419	Kildin Saami	kild1236	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264	маннь	mannj	mannj 
+148	14-2-71-1	74261616392053255	Kildin Saami	kild1236	the stepfather	STEPFATHER	237	а̄джь-пе̄лль	āǯ-piell’	āǯ-piell’ 
+149	14-2-72-1	7426161636693540	Kildin Saami	kild1236	the stepmother	STEPMOTHER	236	е̄ннҍ-пе̄лль	jēnn’-piell’	jēnn’-piell’ 
+150	14-2-73-1	74261616401536024	Kildin Saami	kild1236	the stepson	STEPSON	1059	алльк-пе̄лль	all’k-piell’	all’k-piell’ 
+151	14-2-74-1	74261616587017387	Kildin Saami	kild1236	the stepdaughter	STEPDAUGHTER	1058	нӣййт-пе̄лль	nījjt-piell’	nījjt-piell’ 
+152	14-2-75-1	87161917539788536	Kildin Saami	kild1236	the orphan	ORPHAN	1149	ажьхэм-е̄нҍхэм	až’xem-jēn’xem	až’xem-jēn’xem 
+153	14-2-76-1	74261616320103340	Kildin Saami	kild1236	the widow	WIDOW	1756	ле̄сск	liessk	liessk 
+154	14-2-76-2	74261616481722330	Kildin Saami	kild1236	the widow	WIDOW	1756	ле̄сск-а̄һкь	liessk-āhk’	liessk-āhk’ 
+155	14-2-77-1	74261616332580688	Kildin Saami	kild1236	the widower	WIDOWER	1981	ле̄сск-ка̄ллесь	liessk-kāll’es’	liessk-kāll’es’ 
+156	14-2-81-1	74261616393575162	Kildin Saami	kild1236	the relatives	RELATIVES	1644	ро̄дт	rōdt	rōdt 
+157	14-2-82-1	74261616804296865	Kildin Saami	kild1236	the family	FAMILY	194	пӣрас	pīras	pīras 
+158	14-2-91-1	74261616670492554	Kildin Saami	kild1236	I	I	1209	мунн	munn	munn 
+159	14-2-92-1	74261616879587704	Kildin Saami	kild1236	you (singular)	THOU	1215	то̄нн	tōnn	tōnn 
+160	14-2-93-1	74261616945546853	Kildin Saami	kild1236	he/she/it	HE OR SHE OR IT	262	со̄нн	sōnn	sōnn 
+161	14-2-94-1	74261616636964569	Kildin Saami	kild1236	we	WE	1212	мыйй	mɨjj	mɨjj 
+162	14-2-95-1	74261616853185551	Kildin Saami	kild1236	you (plural)	YOU	1213	тыйй	tɨjj	tɨjj 
+163	14-2-96-1	74261616940674204	Kildin Saami	kild1236	they	THEY	817	сыйй	sɨjj	sɨjj 
+164	14-3-11-1	74261616431105376	Kildin Saami	kild1236	the animal	ANIMAL	619	жыва	žɨva	žɨva 
+165	14-3-12-1	74261616222356980	Kildin Saami	kild1236	male(2)	MALE (OF PERSON)	2261	оаресь	oar’es’	oar’es’ 
+166	14-3-13-1	74261616822198384	Kildin Saami	kild1236	female(2)	FEMALE (OF ANIMAL)	2262	ниӈӈлэсс	niŋŋless	niŋŋless 
+167	14-3-15-1	74261616900866522	Kildin Saami	kild1236	the livestock	LIVESTOCK	631	куэдтҍ-жыва	kuedt’-žɨva	kuedt’-žɨva 
+168	14-3-16-1	74261616162118006	Kildin Saami	kild1236	the pasture	PASTURE	649	каралль	karall’	karall’ 
+169	14-3-18-1	74261616341230635	Kildin Saami	kild1236	the herdsman	HERDSMAN	263	пынней	pɨ̄nnej	pɨ̄nnej 
+170	14-3-19-1	74261616517263285	Kildin Saami	kild1236	the stable or stall	STABLE	851	ле̅фф	lieff	lieff 
+171	14-3-2-1	74261616142487633	Kildin Saami	kild1236	the cattle	CATTLE	1153	шӯрр на̄ввьт	šūrr nāvv’t	šūrr nāvv’t 
+172	14-3-21-1	74261616269201710	Kildin Saami	kild1236	the bull	BULL	1008	оаресь-лӣхемь	oar’es’-līx’em’	oar’es’-līx’em’ 
+173	14-3-22-1	87171639969778683	Kildin Saami	kild1236	the ox	OX	1169	е̄ррьк	jērr’k	jērr’k 
+174	14-3-23-1	74261616449985212	Kildin Saami	kild1236	the cow	COW	1007	лӣхемь	līx’em’	līx’em’ 
+175	14-3-24-1	74261616515815405	Kildin Saami	kild1236	the calf	CALF	1989	лӣхемь-алка	līx’еm’-alka	līx’еm’-alka 
+176	14-3-25-1	74261616223225887	Kildin Saami	kild1236	the sheep	SHEEP	1331	ла̄мьпэсь	lām’pes’	lām’pes’ 
+177	14-3-26-1	7426161676831962	Kildin Saami	kild1236	the ram	RAM	1344	оаресь-ла̄мьпесь	oar’es’-lām’pes’	oar’es’-lām’pes’ 
+178	14-3-28-1	74261616223225887	Kildin Saami	kild1236	the ewe	EWE	1345	ла̄мьпэсь	lām’pes’	lām’pes’ 
+179	14-3-29-1	74261616251885782	Kildin Saami	kild1236	the lamb	LAMB	820	ла̄мьпесь-алка	lām’pes’-alka	lām’pes’-alka 
+180	14-3-32-1	74261616967501368	Kildin Saami	kild1236	the boar	BOAR	1348	кабан	kabán	kabán 
+181	14-3-34-1	74261616159205219	Kildin Saami	kild1236	the sow	SOW (FEMALE PIG)	1351	е̄ннҍ-шагкь	jēnn’-šagk’	jēnn’-šagk’ 
+182	14-3-35-1	74261616580772231	Kildin Saami	kild1236	the pig	PIG	1337	шагкь	šagk’	šagk’ 
+183	14-3-36-1	74261616603527521	Kildin Saami	kild1236	the goat	GOAT	1502	коаза	koaza	koaza 
+184	14-3-37-1	74261616500234725	Kildin Saami	kild1236	the he-goat	HE-GOAT	264	оаресь-коаза	oar’es’-koaza	oar’es’-koaza 
+185	14-3-38-1	74261616547525435	Kildin Saami	kild1236	the kid	KID	1972	коаза-алка	koaza-alka	koaza-alka 
+186	14-3-41-1	74261616449683353	Kildin Saami	kild1236	the horse	HORSE	615	е̄башь	jēbaš’	jēbaš’ 
+187	14-3-42-1	74261616333950062	Kildin Saami	kild1236	the stallion	STALLION	936	оаресь-е̄бешь	oar’es’-jēb’eš’	oar’es’-jēb’eš’ 
+188	14-3-44-1	74261616951055933	Kildin Saami	kild1236	the mare	MARE	938	ниӈӈлэсс е̄бешь	niŋŋless jēb’eš’	niŋŋless jēb’eš’ 
+189	14-3-45-1	74261616341455320	Kildin Saami	kild1236	the foal or colt	FOAL	1647	ēбешь-алка	jēb’eš’-alkа	jēb’eš’-alkа 
+190	14-3-46-1	7426161681992631	Kildin Saami	kild1236	the donkey	DONKEY	1862	о̄ссел	ōss’el	ōss’el 
+191	14-3-5-1	74261616857111691	Kildin Saami	kild1236	the fowl	FOWL	265	куэдтҍ-лоаннҍт	kuedt’-loann’t	kuedt’-loann’t 
+192	14-3-52-1	74261616938655597	Kildin Saami	kild1236	the cock/rooster	ROOSTER	1511	петтэх	piettex	piettex 
+193	14-3-54-1	74261616531623243	Kildin Saami	kild1236	the hen	HEN	1514	ка̄ннҍ	kānn’	kānn’ 
+194	14-3-55-1	74261616328064378	Kildin Saami	kild1236	the chicken	CHICKEN	1318	ка̄ннҍ-пура	kānn’-pura	kānn’-pura 
+195	14-3-56-1	74261616291184509	Kildin Saami	kild1236	the goose	GOOSE	1187	чуэнь	čuenj	čuenj 
+196	14-3-57-1	74261616836504539	Kildin Saami	kild1236	the duck	DUCK	1360	ча̄дзь-лоаннҍт	čāʒ’-loann’t	čāʒ’-loann’t 
+197	14-3-57-2	74261616365927786	Kildin Saami	kild1236	the duck	DUCK	1360	чӯҏҏьш	čūrrh’š	čūrrh’š 
+198	14-3-58-1	74261616529061195	Kildin Saami	kild1236	the nest	NEST	539	пе̄ссь	piess’	piess’ 
+199	14-3-581-1	74261616737032782	Kildin Saami	kild1236	the bird	BIRD	937	лоаннҍт	loann’t	loann’t 
+200	14-3-582-1	74261616811723052	Kildin Saami	kild1236	the seagull	SEAGULL	950	ча̅бар	čābar	čābar 
+201	14-3-584-1	74261616626800545	Kildin Saami	kild1236	the eagle	EAGLE	1905	куэцькэмь	kuec’kem’	kuec’kem’ 
+202	14-3-585-1	74261616583038050	Kildin Saami	kild1236	the hawk	HAWK	307	ва̄лль	vāll’	vāll’ 
+203	14-3-591-1	74261616776407168	Kildin Saami	kild1236	the bat	BAT	1793	кыррьтэй-са̄һплиӈӈк	kɨrr’tej-sāhpliŋk	kɨrr’tej-sāhpliŋk 
+204	14-3-592-1	74261616928929442	Kildin Saami	kild1236	the parrot	PARROT	882	са̄рнэм-лоаннҍт	sārnem-loann’t	sārnem-loann’t 
+205	14-3-593-1	74261616409805314	Kildin Saami	kild1236	the crow	CROW	913	ка̄рьнэсь	kār’nes’	kār’nes’ 
+206	14-3-596-1	74261616806460983	Kildin Saami	kild1236	the owl	OWL	735	чоафэн	čoafen	čoafen 
+207	14-3-61-1	74261616762002801	Kildin Saami	kild1236	the dog	DOG	2009	пе̄ннэ	pienne	pienne 
+208	14-3-614-1	74261616931350701	Kildin Saami	kild1236	the rabbit	RABBIT	1136	нюэммель	njuemmel’	njuemmel’ 
+209	14-3-62-1	74261616259862104	Kildin Saami	kild1236	the cat	CAT	1208	коасс	koass	koass 
+210	14-3-63-1	74261616308162910	Kildin Saami	kild1236	the mouse or rat	MUROID (MOUSE OR RAT)	2139	са̄һплиӈӈк	sāhpliŋk	sāhpliŋk 
+211	14-3-65-1	74261616850176952	Kildin Saami	kild1236	the fish	FISH	227	кӯлль	kūll’	kūll’ 
+212	14-3-652-1	74261616682470724	Kildin Saami	kild1236	the fin	FIN	213	ве̄ппьс	viepp’s	viepp’s 
+213	14-3-653-1	74261616466934026	Kildin Saami	kild1236	the scale	SCALE	266	чӯмм	čūmm	čūmm 
+214	14-3-654-1	74261616884006927	Kildin Saami	kild1236	the gill	GILL	1916	суввьт	suvv’t	suvv’t 
+215	14-3-655-1	74261616135324398	Kildin Saami	kild1236	the shell	SHELL	598	ка̄ӆӆьч	kāllh’č	kāllh’č 
+216	14-3-661-1	74261616783552176	Kildin Saami	kild1236	the shark	SHARK	1110	а̄һклиӈк	āhkliŋk	āhkliŋk 
+217	14-3-663-1	7426161692185918	Kildin Saami	kild1236	the whale	WHALE	957	ва̄лесь	vāl’es’	vāl’es’ 
+218	14-3-71-1	74261616670701908	Kildin Saami	kild1236	the wolf	WOLF	522	пальтэсь	pal’tes’	pal’tes’ 
+219	14-3-71-2	74261616115131002	Kildin Saami	kild1236	the wolf	WOLF	522	на̄ввьт	nāvv’t	nāvv’t 
+220	14-3-71-3	74261616884230202	Kildin Saami	kild1236	the wolf	WOLF	522	скуммьп	skumm’p	skumm’p 
+221	14-3-72-1	74261616130264887	Kildin Saami	kild1236	the lion	LION	1386	левв	lievv	lievv 
+222	14-3-73-1	74261616539767986	Kildin Saami	kild1236	the bear	BEAR	1820	та̄лл	tāll	tāll 
+223	14-3-74-1	7426161699990352	Kildin Saami	kild1236	the fox	FOX	1312	рӣммьн	rīmm’n	rīmm’n 
+224	14-3-75-1	74261616337184032	Kildin Saami	kild1236	the deer	DEER	1936	коанҍт	koan’t	koan’t 
+225	14-3-76-1	8715224678122520	Kildin Saami	kild1236	the monkey	MONKEY	1350	абезьяна	ab’ezjána	ab’ezjána 
+226	14-3-77-1	74261616668862865	Kildin Saami	kild1236	the elephant	ELEPHANT	1290	слонн	slonn	slonn 
+227	14-3-78-1	74261616889213987	Kildin Saami	kild1236	the camel	CAMEL	1871	ве̄рблюд	vierbl’ud	vierbl’ud 
+228	14-3-81-1	74261616431105376	Kildin Saami	kild1236	the insect	INSECT	620	жыва	žɨva	žɨva 
+229	14-3-811-1	74261616151204511	Kildin Saami	kild1236	the head louse	HEAD LOUSE	310	тыһкь	tɨhk’	tɨhk’ 
+230	14-3-812-1	74261616134768095	Kildin Saami	kild1236	the nit	NIT	267	чивврас	čivvras	čivvras 
+231	14-3-813-1	74261616520605044	Kildin Saami	kild1236	the flea	FLEA	232	пе̄ннэ-тыһкь	pienne-tɨhk’	pienne-tɨhk’ 
+232	14-3-814-1	87161949930830504	Kildin Saami	kild1236	the centipede	CENTIPEDE	1974	е̄нас-ю̄лльк	jēnas-jūll’k	jēnas-jūll’k 
+233	14-3-816-1	74261616286620820	Kildin Saami	kild1236	the cockroach	COCKROACH	1575	тоаркан	toarkan	toarkan 
+234	14-3-817-1	74261616725555000	Kildin Saami	kild1236	the ant	ANT	587	ко̄ттк	kōttk	kōttk 
+235	14-3-818-1	74261616684770238	Kildin Saami	kild1236	the spider	SPIDER	843	оаз	oaz (1)	oaz (1) 
+236	14-3-818-2	74261616252372216	Kildin Saami	kild1236	the spider	SPIDER	843	е̄внэш	jevneš	jevneš 
+237	14-3-819-1	74261616752420033	Kildin Saami	kild1236	the spider web	SPIDER WEB	1065	оадзэ са̄ййм	oaʒe sājjm	oaʒe sājjm 
+238	14-3-82-1	74261616928062453	Kildin Saami	kild1236	the bee	BEE	665	ме̄даш	miedаš	miedаš 
+239	14-3-821-1	74261616959725208	Kildin Saami	kild1236	the beeswax	BEESWAX	1931	вязвушк-та̄ррьв	veazvušk-tārr’v	veazvušk-tārr’v 
+240	14-3-822-1	74261616373891353	Kildin Saami	kild1236	the beehive	BEEHIVE	88	вязвушк-пе̄ссь	veazvušk-piess’	veazvušk-piess’ 
+241	14-3-823-1	74261616267970904	Kildin Saami	kild1236	the wasp	WASP	1517	вязвэш	veazveš	veazveš 
+242	14-3-83-1	74261616871646784	Kildin Saami	kild1236	the fly	FLY (INSECT)	1504	чуэраш	čueraš	čueraš 
+243	14-3-831-1	74261616308332603	Kildin Saami	kild1236	the sandfly or midge or gnat	SANDFLY	95	ме̄герь	mieg’er’	mieg’er’ 
+244	14-3-832-1	74261616572835357	Kildin Saami	kild1236	the mosquito	MOSQUITO	1509	чӯшшк	čūššk	čūššk 
+245	14-3-84-1	74261616571215890	Kildin Saami	kild1236	the worm	WORM	1219	ма̄дт	mādt	mādt 
+246	14-3-85-1	74261616622042094	Kildin Saami	kild1236	the snake	SNAKE	730	кӯввьт	kūvv’t	kūvv’t 
+247	14-3-91-1	74261616124553712	Kildin Saami	kild1236	the firefly	FIREFLY	206	пыӆькэй-чӯшшк	pɨlh’kej-čūššk	pɨlh’kej-čūššk 
+248	14-3-92-1	74261616672505856	Kildin Saami	kild1236	the butterfly	BUTTERFLY	1791	а̄лльп	āll’p	āll’p 
+249	14-3-93-1	7426161673294939	Kildin Saami	kild1236	the grasshopper	GRASSHOPPER	607	сӯййн-нюччкэй	sūjjn-njuččkej	sūjjn-njuččkej 
+250	14-3-95-1	74261616893274806	Kildin Saami	kild1236	the frog	FROG	503	цуэмп	cuemp	cuemp 
+251	14-3-96-1	74261616747751963	Kildin Saami	kild1236	the lizard	LIZARD	632	те̄йнчлиӈк	tiejnčliŋk	tiejnčliŋk 
+252	14-3-97-1	87152158275034225	Kildin Saami	kild1236	the crocodile or alligator	CROCODILE	1857	крокадил	krokadíl	krokadíl 
+253	14-4-11-1	74261616820271088	Kildin Saami	kild1236	the body	BODY	1480	роаӈӈҍк	roaŋŋ’k	roaŋŋ’k 
+254	14-4-12-1	74261616717347143	Kildin Saami	kild1236	the skin or hide	SKIN	763	тӯлльй	tūllj	tūllj 
+255	14-4-13-1	74261616955431267	Kildin Saami	kild1236	the flesh	FLESH	2259	вуэннч	vuennč	vuennč 
+256	14-4-14-1	74261616602428901	Kildin Saami	kild1236	the hair	HAIR (HEAD)	2648	вӯппт	vūppt	vūppt 
+257	14-4-142-1	74261616541440122	Kildin Saami	kild1236	the beard	BEARD	678	ся̄м	seam	seam 
+258	14-4-144-1	74261616196711305	Kildin Saami	kild1236	the body hair	HAIR (BODY)	189	сэфс	sefs	sefs 
+259	14-4-145-1	74261616132210143	Kildin Saami	kild1236	the pubic hair	PUBIC HAIR	36	сипп	sipp	sipp 
+260	14-4-146-1	74261616917926295	Kildin Saami	kild1236	the dandruff	DANDRUFF	576	кэ̄нн	kēnn	kēnn 
+261	14-4-15-1	74261616972806543	Kildin Saami	kild1236	the blood	BLOOD	946	вэ̄рр	vērr	vērr 
+262	14-4-151-1	74261616284776267	Kildin Saami	kild1236	the vein or artery	BLOOD VESSEL	525	вэ̄рр-сӯнн	vērr-sūnn	vērr-sūnn 
+263	14-4-151-2	74261616570175553	Kildin Saami	kild1236	the vein or artery	BLOOD VESSEL	525	сӯнн	sūnn	sūnn 
+264	14-4-16-1	74261616459644926	Kildin Saami	kild1236	the bone	BONE	1394	та̄ххьт	tāxx’t	tāxx’t 
+265	14-4-162-1	74261616284711900	Kildin Saami	kild1236	the rib	RIB	801	е̄ҏҏьт-та̄ххьт	jērrh’t-tāxx’t	jērrh’t-tāxx’t 
+266	14-4-17-1	74261616381280361	Kildin Saami	kild1236	the horn	HORN (ANATOMY)	1393	чуэррьв	čuerr’v	čuerr’v 
+267	14-4-18-1	74261616763477477	Kildin Saami	kild1236	the tail	TAIL	1220	се̄ййп	siejjp	siejjp 
+268	14-4-19-1	74261616104997447	Kildin Saami	kild1236	the back	BACK	1291	се̄лльк	siell’k	siell’k 
+269	14-4-191-1	74261616182833903	Kildin Saami	kild1236	the spine	SPINE	805	чо̄ла	čōla	čōla 
+270	14-4-2-1	74261616128878938	Kildin Saami	kild1236	the head	HEAD	1256	вуэййв	vuejjv	vuejjv 
+271	14-4-201-1	74261616135676005	Kildin Saami	kild1236	the temples	TEMPLES	1604	рӯдтӭ-пе̄лль	rūdt’e-piell’	rūdt’e-piell’ 
+272	14-4-202-1	74261616979660527	Kildin Saami	kild1236	the skull	SKULL	1605	вуэййв-ка̄бпь	vuejjv-kābp’	vuejjv-kābp’ 
+273	14-4-203-1	74261616147239537	Kildin Saami	kild1236	the brain	BRAIN	1583	э̄д	ēd	ēd 
+274	14-4-204-1	74261616898100130	Kildin Saami	kild1236	the face	FACE	1560	ка̄ссв	kāssv	kāssv 
+275	14-4-205-1	7426161671999080	Kildin Saami	kild1236	the forehead	FOREHEAD	123	вуэһць	vuehc’	vuehc’ 
+276	14-4-207-1	74261616707428488	Kildin Saami	kild1236	the jaw	JAW	798	вуаллнешш	vuallneš	vuallneš 
+277	14-4-208-1	74261616533611777	Kildin Saami	kild1236	the cheek	CHEEK	1730	нӣрр	nīrr	nīrr 
+278	14-4-209-1	74261616931123896	Kildin Saami	kild1236	the chin	CHIN	1510	ка̄ййп	kājjp	kājjp 
+279	14-4-21-1	74261616857944588	Kildin Saami	kild1236	the eye	EYE	1248	чалльм	čall’m	čall’m 
+280	14-4-212-1	74261616132408187	Kildin Saami	kild1236	the eyebrow	EYEBROW	1173	кулльм	kull’m	kull’m 
+281	14-4-213-1	74261616726511912	Kildin Saami	kild1236	the eyelid	EYELID	17	чалльм-рӯмтас	čall’m-rūmtas	čall’m-rūmtas 
+282	14-4-214-1	74261616155236134	Kildin Saami	kild1236	the eyelash	EYELASH	1540	ре̄ммас	riemas	riemas 
+283	14-4-215-1	74261616896504022	Kildin Saami	kild1236	to blink	BLINK	1655	цырмшуввэ	cɨrmšuvve	cɨrmšuvve 
+284	14-4-22-1	74261616183532173	Kildin Saami	kild1236	the ear	EAR	1247	пе̄лльй	piellj	piellj 
+285	14-4-221-1	74261616678670992	Kildin Saami	kild1236	the earlobe	EARLOBE	18	пе̄лльй-ке̄дтҍк	piellj-kiedt’k	piellj-kiedt’k 
+286	14-4-222-1	74261616258836752	Kildin Saami	kild1236	the earwax	EARWAX	32	ка̄ссь	kāss’	kāss’ 
+287	14-4-23-1	74261616152128516	Kildin Saami	kild1236	the nose	NOSE	1221	нюннҍ	njunn’	njunn’ 
+288	14-4-231-1	74261616926361229	Kildin Saami	kild1236	the nostril	NOSTRIL	1178	се̄ррэм	sērrem	sērrem 
+289	14-4-232-1	74261616407197886	Kildin Saami	kild1236	the nasal mucus	NASAL MUCUS (SNOT)	208	ре̄гкь	rēgk’	rēgk’ 
+290	14-4-24-1	74261616850526465	Kildin Saami	kild1236	the mouth	MOUTH	674	ня̄лльм	njāll’m	njāll’m 
+291	14-4-241-1	74261616152128516	Kildin Saami	kild1236	the beak	BEAK	73	нюннҍ	njunn’	njunn’ 
+292	14-4-25-1	74261616612501141	Kildin Saami	kild1236	the lip	LIP	478	пэ̄фс	piefs	piefs 
+293	14-4-26-1	74261616748400443	Kildin Saami	kild1236	the tongue	TONGUE	1205	нюхчемь	njuxčem’	njuxčem’ 
+294	14-4-27-1	74261616968662661	Kildin Saami	kild1236	the tooth	TOOTH	1380	па̄ннҍ	pānn’	pānn’ 
+295	14-4-271-1	74261616887144343	Kildin Saami	kild1236	the gums	GUMS	139	эллэн	ellân	ellân 
+296	14-4-272-1	74261616981838594	Kildin Saami	kild1236	the molar tooth	MOLAR TOOTH	1049	моант-паннь	moant-pannj	moant-pannj 
+297	14-4-28-1	74261616585137274	Kildin Saami	kild1236	the neck	NECK	1333	ча̄пэх	čāpex	čāpex 
+298	14-4-281-1	74261616815005215	Kildin Saami	kild1236	the nape of the neck	NAPE (OF NECK)	1347	нышшьк	nɨšš’k	nɨšš’k 
+299	14-4-29-1	7426161653078836	Kildin Saami	kild1236	the throat	THROAT	1346	чонт	čont	čont 
+300	14-4-3-1	74261616385102580	Kildin Saami	kild1236	the shoulder	SHOULDER	1482	вуэлльк	vuell’k	vuell’k 
+301	14-4-301-1	74261616857955969	Kildin Saami	kild1236	the shoulderblade	SHOULDERBLADE	172	лӯбпь	lūbp’	lūbp’ 
+302	14-4-302-1	74261616768837171	Kildin Saami	kild1236	the collarbone	COLLARBONE	1994	вуэлльк-таххьт	vuеll’k-taхх’t	vuеll’k-taхх’t 
+303	14-4-31-1	74261616493266745	Kildin Saami	kild1236	the arm	ARM	1673	кӣдт	kīdt	kīdt 
+304	14-4-312-1	74261616551382091	Kildin Saami	kild1236	the armpit	ARMPIT	1886	кайнал	kajnal	kajnal 
+305	14-4-32-1	74261616135183401	Kildin Saami	kild1236	the elbow	ELBOW	981	карьнэль	kar’nel’	kar’nel’ 
+306	14-4-321-1	74261616372254173	Kildin Saami	kild1236	the wrist	WRIST	799	кӣдт-ла̄бпь	kīdt-lābp’	kīdt-lābp’ 
+307	14-4-33-1	74261616493266745	Kildin Saami	kild1236	the hand	HAND	1277	кӣдт	kīdt	kīdt 
+308	14-4-331-1	74261616323363004	Kildin Saami	kild1236	the palm of the hand	PALM OF HAND	1183	кӣдт-коаллдэгк	kīdt-koalldegk	kīdt-koalldegk 
+309	14-4-331-2	74261616608490691	Kildin Saami	kild1236	the palm of the hand	PALM OF HAND	1183	куэммерь	kuemm’er’	kuemm’er’ 
+310	14-4-34-1	74261616909298475	Kildin Saami	kild1236	the finger	FINGER	1303	цēһп	ciehp	ciehp 
+311	14-4-342-1	74261616543335810	Kildin Saami	kild1236	the thumb	THUMB	1781	пе̄лльк	piell’k	piell’k 
+312	14-4-344-1	74261616182641633	Kildin Saami	kild1236	the fingernail	FINGERNAIL	1258	кэ̄ннц	kēnnc	kēnnc 
+313	14-4-345-1	74261616182641633	Kildin Saami	kild1236	the claw	CLAW	72	кэ̄ннц	kēnnc	kēnnc 
+314	14-4-35-1	74261616608628292	Kildin Saami	kild1236	the leg	LEG	1297	ю̄лльк	jūll’k	jūll’k 
+315	14-4-351-1	7426161619805607	Kildin Saami	kild1236	the thigh	THIGH	800	чуарр-пе̄лль	čuarr-piell’	čuarr-piell’ 
+316	14-4-352-1	74261616441633832	Kildin Saami	kild1236	the calf of the leg	CALF OF LEG	498	пе̄ццк	piecck	piecck 
+317	14-4-36-1	74261616290339282	Kildin Saami	kild1236	the knee	KNEE	1371	пӯввл	pūvvl	pūvvl 
+318	14-4-37-1	74261616608628292	Kildin Saami	kild1236	the foot	FOOT	1301	ю̄лльк	jūll’k	jūll’k 
+319	14-4-371-1	74261616186173644	Kildin Saami	kild1236	the ankle	ANKLE	803	куэммерь	kuemmer’	kuemmer’ 
+320	14-4-372-1	74261616419741872	Kildin Saami	kild1236	the heel	HEEL	980	ка̄ннт	kānnt	kānnt 
+321	14-4-374-1	74261616444002377	Kildin Saami	kild1236	the footprint	FOOTPRINT	318	ю̄лльк-кӣй	jūll’k-kīj	jūll’k-kīj 
+322	14-4-38-1	74261616578275666	Kildin Saami	kild1236	the toe	TOE	1389	ю̄лльк-це̄һп	jūll’k-ciehp	jūll’k-ciehp 
+323	14-4-392-1	74261616318338186	Kildin Saami	kild1236	the wing	WING	1257	суэйй	suejj	suejj 
+324	14-4-393-1	74261616852467595	Kildin Saami	kild1236	the feather	FEATHER	1201	по̄ннц	pōnnc	pōnnc 
+325	14-4-4-1	74261616292953125	Kildin Saami	kild1236	the chest	CHEST	1592	мӣллк	mīllk	mīllk 
+326	14-4-41-1	74261616255396679	Kildin Saami	kild1236	the breast	BREAST	1402	ниннч	ninnč	ninnč 
+327	14-4-41-2	74261616243858093	Kildin Saami	kild1236	the breast	BREAST	1402	раннҍт	rann’t	rann’t 
+328	14-4-412-1	74261616770985425	Kildin Saami	kild1236	the nipple or teat	NIPPLE	796	вуайва	vuajva	vuajva 
+329	14-4-42-1	74261616255396679	Kildin Saami	kild1236	the udder	UDDER	154	ниннч	ninnč	ninnč 
+330	14-4-43-1	74261616585139909	Kildin Saami	kild1236	the navel	NAVEL	1838	на̄бпь	nābp’	nābp’ 
+331	14-4-44-1	74261616859472069	Kildin Saami	kild1236	the heart	HEART	1223	кӯттьк	kūtt’k	kūtt’k 
+332	14-4-44-2	74261616841884348	Kildin Saami	kild1236	the heart	HEART	1223	са̄ррьт	sārr’t	sārr’t 
+333	14-4-441-1	74261616437594060	Kildin Saami	kild1236	the lung	LUNG	688	ке̄һпьнэсс	kiehp’ness	kiehp’ness 
+334	14-4-45-1	74261616826504858	Kildin Saami	kild1236	the liver	LIVER	1224	вӯйвас	vūjvas	vūjvas 
+335	14-4-451-1	74261616314993208	Kildin Saami	kild1236	the kidney	KIDNEY	489	манӭмь-чалльм	man’em’-čall’m	man’em’-čall’m 
+336	14-4-452-1	7426161654377254	Kildin Saami	kild1236	the spleen	SPLEEN	1744	та̄ммьп	tāmm’p	tāmm’p 
+337	14-4-46-1	74261616795430356	Kildin Saami	kild1236	the stomach	STOMACH	819	чуэййв	čuejjv	čuejjv 
+338	14-4-46-2	742616163160602	Kildin Saami	kild1236	the stomach	STOMACH	819	тоаӈӈьк	toaŋŋ’k	toaŋŋ’k 
+339	14-4-461-1	74261616487477471	Kildin Saami	kild1236	the intestines or guts	INTESTINES	1991	чуэлль	čuell’	čuell’ 
+340	14-4-462-1	74261616820271088	Kildin Saami	kild1236	the waist	WAIST	1681	роаӈӈҍк	roaŋŋ’k	roaŋŋ’k 
+341	14-4-463-1	7426161619805607	Kildin Saami	kild1236	the hip	HIP	1745	чуарр-пе̄лль	čuarr-piell’	čuarr-piell’ 
+342	14-4-464-1	7426161619805607	Kildin Saami	kild1236	the buttocks	BUTTOCKS	834	чуарр-пе̄лль	čuarr-piell’	čuarr-piell’ 
+343	14-4-47-1	74261616316281532	Kildin Saami	kild1236	the womb	WOMB	804	пӯӈӈ	pūŋŋ	pūŋŋ 
+344	14-4-49-1	74261616776842249	Kildin Saami	kild1236	the testicles	TESTICLES	797	кӯлл	kūll	kūll 
+345	14-4-492-1	74261616820642777	Kildin Saami	kild1236	the penis	PENIS	1222	пӯдц	pūdc	pūdc 
+346	14-4-51-1	74261616663273749	Kildin Saami	kild1236	to breathe	BREATHE	1407	вӯййнэ	vūjjne	vūjjne 
+347	14-4-52-1	74261616667714540	Kildin Saami	kild1236	to yawn	YAWN	1028	а̄ммьсэ	āmm’se	āmm’se 
+348	14-4-521-1	74261616261859977	Kildin Saami	kild1236	to hiccough	HICCOUGH	162	шлэ̄һклэ	šlēhkle	šlēhkle 
+349	14-4-53-1	74261616389058099	Kildin Saami	kild1236	to cough	COUGH	879	коссэ	kosse (1)	kosse (1) 
+350	14-4-54-1	74261616738955499	Kildin Saami	kild1236	to sneeze	SNEEZE	1621	кашшьнэ	kašš’ne	kašš’ne 
+351	14-4-55-1	74261616478525125	Kildin Saami	kild1236	to perspire	SWEAT (PERSPIRE)	126	пӣввсэ	pīvvse	pīvvse 
+352	14-4-56-1	74261616896830218	Kildin Saami	kild1236	to spit	SPIT	1440	чо̄ллкэ	čōllke	čōllke 
+353	14-4-57-1	74261616796327681	Kildin Saami	kild1236	to vomit	VOMIT	1278	вуккьсэ	vukk’se	vukk’se 
+354	14-4-58-1	74261616214999817	Kildin Saami	kild1236	to bite	BITE	1403	ка̄ццькэ	kācc’ke	kācc’ke 
+355	14-4-59-1	74261616614726026	Kildin Saami	kild1236	to lick	LICK	319	нюаллэ	njualle	njualle 
+356	14-4-591-1	74261616967639451	Kildin Saami	kild1236	to dribble	DRIBBLE	268	шоайвал	šoajval	šoajval 
+357	14-4-61-1	74261616753742848	Kildin Saami	kild1236	to sleep	SLEEP	1585	вуэдтӭ	vuedt’e	vuedt’e 
+358	14-4-61-2	74261616572543259	Kildin Saami	kild1236	to sleep	SLEEP	1585	нагерь	nager’	nager’ 
+359	14-4-612-1	74261616419998597	Kildin Saami	kild1236	to snore	SNORE	1983	корсэ	korse	korse 
+360	14-4-62-1	74261616572543259	Kildin Saami	kild1236	to dream	DREAM (SOMETHING)	1920	нагерь	nager’	nager’ 
+361	14-4-63-1	74261616227338291	Kildin Saami	kild1236	to wake up	WAKE UP	1602	руэкхэ	ruekxe	ruekxe 
+362	14-4-64-1	74261616362406949	Kildin Saami	kild1236	to fart	FART	1159	пӯцкэ	pūcke	pūcke 
+363	14-4-65-1	74261616714932842	Kildin Saami	kild1236	to piss	PISS	592	ко̄ннче	kōnnče	kōnnče 
+364	14-4-66-1	74261616723800395	Kildin Saami	kild1236	to shit	SHIT (DEFECATE)	676	па̄шшькэ	pāšš’ke	pāšš’ke 
+365	14-4-67-1	74261616948704829	Kildin Saami	kild1236	to have sex	HAVE SEX	1785	наррькэ	narr’ke	narr’ke 
+366	14-4-68-1	74261616152736966	Kildin Saami	kild1236	to shiver	SHIVER	52	кыррьтэ	kɨrr’te	kɨrr’te 
+367	14-4-69-1	74261616861478957	Kildin Saami	kild1236	to bathe	BATHE	138	ву̅йнэдтэ	vūjnedte	vūjnedte 
+368	14-4-71-1	74261616961519104	Kildin Saami	kild1236	to beget	BEGET	1152	лэһкэ	lehke	lehke 
+369	14-4-72-1	74261616198483662	Kildin Saami	kild1236	to be born	BE BORN	1090	шэ̄ннтэ	šēnnte	šēnnte 
+370	14-4-73-1	74261616121437796	Kildin Saami	kild1236	pregnant	PREGNANT	1123	я̄рас	jāras	jāras 
+371	14-4-732-1	74261616576394064	Kildin Saami	kild1236	to conceive	CONCEIVE	1087	пӯӈӈлуввэ	pūŋŋluvve	pūŋŋluvve 
+372	14-4-74-1	74261616898394701	Kildin Saami	kild1236	to be alive	BE ALIVE	1422	е̄ллей	jēllej	jēllej 
+373	14-4-75-1	74261616775959621	Kildin Saami	kild1236	to die	DIE	1494	ёамме	joamm’e	joamm’e 
+374	14-4-751-1	74261616813129669	Kildin Saami	kild1236	to drown	DROWN	1904	kэ̄ццкэ	kēccke	kēccke 
+375	14-4-76-1	74261616293466040	Kildin Saami	kild1236	to kill	KILL	1417	коаннҍтэ	koann’te	koann’te 
+376	14-4-77-1	74261616380259448	Kildin Saami	kild1236	the corpse	CORPSE	767	ёамм-олма	joam-molma	joam-molma 
+377	14-4-78-1	74261616822761395	Kildin Saami	kild1236	to bury	BURY	1719	рӯһке	rūhk’e	rūhk’e 
+378	14-4-79-1	74261616603323050	Kildin Saami	kild1236	the grave	GRAVE	1773	ка̄лльм	kāll’m	kāll’m 
+379	14-4-81-1	74261616988568318	Kildin Saami	kild1236	strong	STRONG	785	роавас	roavas	roavas 
+380	14-4-82-1	74261616637005652	Kildin Saami	kild1236	weak	WEAK	1601	рашь	raš’	raš’ 
+381	14-4-83-1	74261616881619747	Kildin Saami	kild1236	healthy	HEALTHY	1364	тӣрвас	tīrvas	tīrvas 
+382	14-4-84-1	74261616692974423	Kildin Saami	kild1236	sick/ill	SICK	1847	кэ̄бп	kēbp	kēbp 
+383	14-4-841-1	74261616733004707	Kildin Saami	kild1236	the fever	FEVER	1534	жоарр	žoarr	žoarr 
+384	14-4-842-1	87171435264454992	Kildin Saami	kild1236	the goitre/goiter	GOITER	1957	помчас	pomčas	pomčas 
+385	14-4-843-1	74261616692974423	Kildin Saami	kild1236	the cold	COMMON COLD (DISEASE)	102	кэ̄бп	kēbp	kēbp 
+386	14-4-85-1	74261616389545587	Kildin Saami	kild1236	the wound or sore	WOUND	1109	ра̄ӊӊь	rānn’	rānn’ 
+387	14-4-852-1	74261616961269790	Kildin Saami	kild1236	the bruise	BRUISE	1148	чӯдзлэмушш	čūʒlemušš	čūʒlemušš 
+388	14-4-853-1	74261616926684713	Kildin Saami	kild1236	the swelling	SWELLING	1903	поаз	poaz	poaz 
+389	14-4-854-1	74261616739567245	Kildin Saami	kild1236	the itch	ITCH	148	сувв	suvv	suvv 
+390	14-4-855-1	74261616418534556	Kildin Saami	kild1236	the blister	BLISTER	1584	ча̄дзь-коплэгк	čāʒ’-koplеgk	čāʒ’-koplеgk 
+391	14-4-856-1	74261616887106976	Kildin Saami	kild1236	the boil	BOIL (OF SKIN)	793	рӯммьп	rūmm’p	rūmm’p 
+392	14-4-857-1	7426161689851389	Kildin Saami	kild1236	the pus	PUS	1808	сӣйй	sījj	sījj 
+393	14-4-858-1	74261616150312849	Kildin Saami	kild1236	the scar	SCAR	497	а̄ррьп	ārr’p	ārr’p 
+394	14-4-858-2	74261616779472768	Kildin Saami	kild1236	the scar	SCAR	497	аввь-сайй	avv’-sajj	avv’-sajj 
+395	14-4-86-1	7426161696286941	Kildin Saami	kild1236	to cure	CURE	499	лыһцэ	lɨhce	lɨhce 
+396	14-4-87-1	74261616156448444	Kildin Saami	kild1236	the physician	PHYSICIAN	597	лыһцей	lɨhcej	lɨhcej 
+397	14-4-88-1	74261616368102238	Kildin Saami	kild1236	the medicine	MEDICINE	1372	лоаддв	loaddv	loaddv 
+398	14-4-89-1	74261616258959144	Kildin Saami	kild1236	the poison	POISON	655	суллем	sull’em	sull’em 
+399	14-4-91-1	74261616659640075	Kildin Saami	kild1236	tired	TIRED	1757	вӣссма	vīssma	vīssma 
+400	14-4-912-1	74261616957368962	Kildin Saami	kild1236	to rest	REST	168	вуэӈӈэ	vueŋŋe	vueŋŋe 
+401	14-4-92-1	74261616668270487	Kildin Saami	kild1236	lazy	LAZY	1564	ла̅шькэсь	lāš’kes’	lāš’kes’ 
+402	14-4-93-1	74261616917274602	Kildin Saami	kild1236	bald	BALD	1125	лӣшш	līšš	līšš 
+403	14-4-94-1	74261616828366839	Kildin Saami	kild1236	lame	LAME	320	лэхклэ	lexkle	lexkle 
+404	14-4-95-1	74261616729351736	Kildin Saami	kild1236	deaf	DEAF	996	пе̄лльйхэм	pielljxem	pielljxem 
+405	14-4-96-1	74261616630136744	Kildin Saami	kild1236	mute	MUTE	1666	мулльй	mull’j	mull’j 
+406	14-4-97-1	74261616303526713	Kildin Saami	kild1236	blind	BLIND	1653	чалльмхэм	čall’mxem	čall’mxem 
+407	14-4-98-1	74261616124503445	Kildin Saami	kild1236	drunk	DRUNK	1463	югкма	jugkma	jugkma 
+408	14-4-99-1	74261616475066670	Kildin Saami	kild1236	naked	NAKED	590	па̄льяс	pāljаs	pāljаs 
+409	14-5-11-1	74261616188573629	Kildin Saami	kild1236	to eat	EAT	1336	по̄ррэ	pōrre	pōrre 
+410	14-5-12-1	74261616215627045	Kildin Saami	kild1236	the food	FOOD	256	пе̄ррк	pierrk	pierrk 
+411	14-5-121-1	74261616853801423	Kildin Saami	kild1236	cooked	COOKED	269	кыппьтма	kɨpp’tma	kɨpp’tma 
+412	14-5-122-1	74261616219650915	Kildin Saami	kild1236	raw	RAW	1959	ню̄ццк	njūcck	njūcck 
+413	14-5-123-1	74261616796945009	Kildin Saami	kild1236	ripe	RIPE	178	лоаннтэ	loannte	loannte 
+414	14-5-124-1	74261616599546787	Kildin Saami	kild1236	unripe	UNRIPE	1958	руэнн	ruenn	ruenn 
+415	14-5-125-1	74261616736500674	Kildin Saami	kild1236	rotten	ROTTEN	1728	кӯдц	kūdc	kūdc 
+416	14-5-13-1	74261616688159787	Kildin Saami	kild1236	to drink	DRINK	1401	югкэ	jugke	jugke 
+417	14-5-14-1	74261616578980294	Kildin Saami	kild1236	to be hungry	BE HUNGRY	1533	ня̄ллкэ	njāllke	njāllke 
+418	14-5-141-1	74261616610158080	Kildin Saami	kild1236	the famine	FAMINE	199	не̄лльк	njēll’k	njēll’k 
+419	14-5-15-1	74261616138766680	Kildin Saami	kild1236	to be thirsty	THIRSTY	847	ко̄шшкэ	kōšške	kōšške 
+420	14-5-16-1	74261616835261924	Kildin Saami	kild1236	to suck	SUCK	1421	нюммэ	njumme	njumme 
+421	14-5-18-1	7426161648777453	Kildin Saami	kild1236	to chew	CHEW	321	сӯсскэ	sūsske	sūsske 
+422	14-5-181-1	74261616866024160	Kildin Saami	kild1236	to swallow	SWALLOW	897	нӣллэ	njīlle	njīlle 
+423	14-5-19-1	74261616804007209	Kildin Saami	kild1236	to choke	CHOKE	129	какьсэ	kak’se	kak’se 
+424	14-5-22-1	74261616365415239	Kildin Saami	kild1236	to boil	BOIL (OF LIQUID)	792	тӯллтэ	tūllte	tūllte 
+425	14-5-23-1	74261616722077277	Kildin Saami	kild1236	to roast or fry	ROAST OR FRY	2146	куэррьтэ	kuerr’te	kuerr’te 
+426	14-5-24-1	74261616239286719	Kildin Saami	kild1236	to bake	BAKE	183	па̄шшьтэ	pāšš’te	pāšš’te 
+427	14-5-25-1	74261616764802839	Kildin Saami	kild1236	the oven	OVEN	1143	пе̄һц	piehc	piehc 
+428	14-5-26-1	74261616797994251	Kildin Saami	kild1236	the pot	POT	1462	кӣммьн	kīmm’n	kīmm’n 
+429	14-5-27-1	74261616797994251	Kildin Saami	kild1236	the kettle	KETTLE	854	кӣммьн	kīmm’n	kīmm’n 
+430	14-5-28-1	74261616680120479	Kildin Saami	kild1236	the pan	PAN	31	ла̄ттҍк	lātt’k	lātt’k 
+431	14-5-31-1	74261616504988596	Kildin Saami	kild1236	the dish	DISH	481	оассьтэ	oass’te	oass’te 
+432	14-5-32-1	74261616436480549	Kildin Saami	kild1236	the plate	PLATE	480	пе̄ккарак	piekkarak	piekkarak 
+433	14-5-33-1	74261616715320392	Kildin Saami	kild1236	the bowl	BOWL	1530	ка̄ррь	kārr’	kārr’ 
+434	14-5-34-1	74261616227445317	Kildin Saami	kild1236	the jug/pitcher	JUG	270	ча̄дзь-ка̄ррь	čāʒ’-kārr’	čāʒ’-kārr’ 
+435	14-5-35-1	74261616298511398	Kildin Saami	kild1236	the cup	CUP	476	на̄һпь	nāhp’	nāhp’ 
+436	14-5-36-1	74261616601502829	Kildin Saami	kild1236	the saucer	SAUCER	271	ю̄дтҍ	jūdt’	jūdt’ 
+437	14-5-37-1	74261616550398172	Kildin Saami	kild1236	the spoon	SPOON	1378	пасьтэмь	pas’tem’	pas’tem’ 
+438	14-5-38-1	74261616102815688	Kildin Saami	kild1236	the knife(1)	KNIFE (FOR EATING)	3210	ныййп	nɨjjp	nɨjjp 
+439	14-5-39-1	74261616239190399	Kildin Saami	kild1236	the fork	FORK	1302	виллк	villk	villk 
+440	14-5-391-1	74261616943668381	Kildin Saami	kild1236	the tongs	TONGS	272	цыппьц	cɨpp’c	cɨpp’c 
+441	14-5-41-1	74261616215445773	Kildin Saami	kild1236	the meal	MEAL	1526	по̄ррмушш	pōrrmušš	pōrrmušš 
+442	14-5-42-1	74261616653726958	Kildin Saami	kild1236	the breakfast	BREAKFAST	1322	ӣнцэсь-пе̄ррк	īnces’-pierrk	īnces’-pierrk 
+443	14-5-43-1	74261616481141895	Kildin Saami	kild1236	the lunch	LUNCH	768	пе̄ййв-пе̄ррк	piejjv-pierrk	piejjv-pierrk 
+444	14-5-44-1	74261616485124693	Kildin Saami	kild1236	the dinner	DINNER (SUPPER)	1833	пе̄ййв-вя̄рр	piejjv-vearr	piejjv-vearr 
+445	14-5-45-1	74261616157786710	Kildin Saami	kild1236	the supper	DINNER (SUPPER)	1833	е̄кесь-пе̄ррк	jēk’es’-pierrk	jēk’es’-pierrk 
+446	14-5-46-1	74261616538524283	Kildin Saami	kild1236	to peel	PEEL	275	чисстэ	čisste	čisste 
+447	14-5-47-1	74261616492246655	Kildin Saami	kild1236	to sieve or to strain	SIEVE	86	сейе	siejje	siejje 
+448	14-5-48-1	74261616153463879	Kildin Saami	kild1236	to scrape	SCRAPE	1767	вэ̄ццкэ	vēcckе	vēcckе 
+449	14-5-49-1	74261616506645017	Kildin Saami	kild1236	to stir or to mix	MIX	2017	вӣршэ	vīrše	vīrše 
+450	14-5-51-1	74261616697104287	Kildin Saami	kild1236	the bread	BREAD	1368	ле̄ййп	liejjp	liejjp 
+451	14-5-53-1	74261616951723195	Kildin Saami	kild1236	the dough	DOUGH	273	ва̄шенҍ	vāšen’	vāšen’ 
+452	14-5-54-1	74261616838425583	Kildin Saami	kild1236	to knead	KNEAD	274	шо̄тткэ	šōttke	šōttke 
+453	14-5-55-1	74261616937022690	Kildin Saami	kild1236	the flour	FLOUR	1594	я̄вв	jāvv	jāvv 
+454	14-5-56-1	7426161633102861	Kildin Saami	kild1236	to crush or to grind	GRIND	1033	ме̄ллэ	mielle	mielle 
+455	14-5-57-1	74261616565323592	Kildin Saami	kild1236	the mill	MILL	636	ме̄лл	miell	miell 
+456	14-5-61-1	74261616955431267	Kildin Saami	kild1236	the meat	MEAT	634	вуэннч	vuennč	vuennč 
+457	14-5-63-1	74261616536190066	Kildin Saami	kild1236	the sausage	SAUSAGE	1874	калпас	kalpas	kalpas 
+458	14-5-64-1	74261616387689446	Kildin Saami	kild1236	the soup	SOUP	1547	вя̄рр	vearr	vearr 
+459	14-5-64-2	74261616238755365	Kildin Saami	kild1236	the soup	SOUP	1547	лимм	limm	limm 
+460	14-5-65-1	74261616151613610	Kildin Saami	kild1236	the vegetables	VEGETABLES	924	ра̄ссь	rāss’	rāss’ 
+461	14-5-66-1	7426161679504863	Kildin Saami	kild1236	the bean	BEAN	832	фассэль	fassel’	fassel’ 
+462	14-5-7-1	74261616523495103	Kildin Saami	kild1236	the potato	POTATO	593	картошкэ	kartoške	kartoške 
+463	14-5-71-1	74261616963879270	Kildin Saami	kild1236	the fruit	FRUIT	1507	шаннт	šannt	šannt 
+464	14-5-75-1	74261616292073930	Kildin Saami	kild1236	the fig	FIG	322	кыппьтэ	fīga	fīga 
+465	14-5-75-2	74261616650173588	Kildin Saami	kild1236	the fig	FIG	322	фӣга	fīga	fīga 
+466	14-5-76-1	74261616775003204	Kildin Saami	kild1236	the grape	GRAPE	920	выннҍмӯррьй	vɨnn’mūrrj	vɨnn’mūrrj 
+467	14-5-76-2	74261616852069003	Kildin Saami	kild1236	the grape	GRAPE	920	мӯррмӯррьй	mūrrmūrr’j	mūrrmūrr’j 
+468	14-5-77-1	74261616264552259	Kildin Saami	kild1236	the nut	NUT	191	орех	or’ex	or’ex 
+469	14-5-79-1	74261616435355458	Kildin Saami	kild1236	the oil	OIL (ORGANIC SUBSTANCE)	1484	поснэвӯйй	posnevūjj	posnevūjj 
+470	14-5-79-2	74261616475097281	Kildin Saami	kild1236	the oil	OIL (ORGANIC SUBSTANCE)	1484	вуйй	vūjj	vūjj 
+471	14-5-791-1	74261616328595355	Kildin Saami	kild1236	the grease or fat	FAT (ORGANIC SUBSTANCE)	323	пӯййт	pūjjt	pūjjt 
+472	14-5-81-1	74261616869354498	Kildin Saami	kild1236	the salt	SALT	1274	сӯлль	sūll’	sūll’ 
+473	14-5-82-1	742616166863796	Kildin Saami	kild1236	the pepper	PEPPER	1385	пе̄рэц	pierec	pierec 
+474	14-5-821-1	87151635588009501	Kildin Saami	kild1236	the chili pepper	CHILI PEPPER	919	чо̄гк-пе̄рэц	čōgk-pierec	čōgk-pierec 
+475	14-5-84-1	74261616750569454	Kildin Saami	kild1236	the honey	HONEY	942	мӣдт	mīdt	mīdt 
+476	14-5-85-1	74261616841185841	Kildin Saami	kild1236	the sugar	SUGAR	862	сāхар	sāxar	sāxar 
+477	14-5-86-1	74261616739829349	Kildin Saami	kild1236	the milk	MILK	635	ма̄ййт	mājjt	mājjt 
+478	14-5-87-1	74261616231363826	Kildin Saami	kild1236	to milk	DRAW MILK	93	лаппьсэ	lapp’se	lapp’se 
+479	14-5-88-1	74261616999788378	Kildin Saami	kild1236	the cheese	CHEESE	1569	сырр	sɨrr	sɨrr 
+480	14-5-89-1	74261616954908510	Kildin Saami	kild1236	the butter	BUTTER	1245	кузвӯйй	kuzvūjj	kuzvūjj 
+481	14-5-9-1	74261616278721392	Kildin Saami	kild1236	the drink	BEVERAGE	731	югкмушш	jugkmušš	jugkmušš 
+482	14-5-91-1	74261616468106055	Kildin Saami	kild1236	the mead	MEAD	941	мӣдт-югкмушш	mīdt-jugkmušš	mīdt-jugkmušš 
+483	14-5-92-1	74261616694895065	Kildin Saami	kild1236	the wine	WINE	1524	выннҍ	vɨnn’	vɨnn’ 
+484	14-5-93-1	74261616829520755	Kildin Saami	kild1236	the beer	BEER	1639	пӣва	pīva	pīva 
+485	14-5-94-1	74261616937022690	Kildin Saami	kild1236	the fermented drink	ALCOHOL (FERMENTED DRINK)	404	я̄вв	jāvv	jāvv 
+486	14-5-97-1	74261616140866098	Kildin Saami	kild1236	the egg	EGG	744	маннҍ	mann’	mann’ 
+487	14-5-971-1	74261616482502154	Kildin Saami	kild1236	the yolk	YOLK	1556	руххк	ruxxk	ruxxk 
+488	14-6-11-1	74261616584462442	Kildin Saami	kild1236	to put on	PUT ON	158	ца̄гке	cāgke	cāgke 
+489	14-6-12-1	74261616930609206	Kildin Saami	kild1236	the clothing or clothes	CLOTHES	1895	оаз	oaz (2)	oaz (2) 
+490	14-6-13-1	74261616426927505	Kildin Saami	kild1236	the tailor	TAILOR	881	куаррэй	kuarrеj	kuarrеj 
+491	14-6-21-1	74261616848654170	Kildin Saami	kild1236	the cloth	CLOTH	1616	рыбпехь	rɨbp’ex’	rɨbp’ex’ 
+492	14-6-22-1	74261616687035941	Kildin Saami	kild1236	the wool	WOOL	964	улл	ull	ull 
+493	14-6-23-1	74261616273645111	Kildin Saami	kild1236	the linen	LINEN	916	лыййн	lɨjjn	lɨjjn 
+494	14-6-24-1	74261616446568832	Kildin Saami	kild1236	the cotton	COTTON	1850	ва̄та	vāta	vāta 
+495	14-6-25-1	7426161644426394	Kildin Saami	kild1236	the silk	SILK	1641	цуӆӆк	cullhk	cullhk 
+496	14-6-27-1	74261616553362032	Kildin Saami	kild1236	the felt	FELT	325	са̄ррьк	sārr’k	sārr’k 
+497	14-6-28-1	74261616196711305	Kildin Saami	kild1236	the fur	FUR	580	сэфс	sefs	sefs 
+498	14-6-29-1	74261616442289913	Kildin Saami	kild1236	the leather	LEATHER	629	шышшенҍ	šɨšš’en’	šɨšš’en’ 
+499	14-6-31-1	74261616154929817	Kildin Saami	kild1236	to spin	SPIN	121	поаннэ	poanne	poanne 
+500	14-6-32-1	74261616198256380	Kildin Saami	kild1236	the spindle	SPINDLE	277	ноалльтэ	noall’te	noall’te 
+501	14-6-33-1	74261616339601581	Kildin Saami	kild1236	to weave	WEAVE	133	паррьктэ	parr’kte	parr’kte 
+502	14-6-35-1	74261616890401769	Kildin Saami	kild1236	to sew	SEW	1457	куаррэ	kuarre	kuarre 
+503	14-6-36-1	74261616630460147	Kildin Saami	kild1236	the needle(1)	NEEDLE (FOR SEWING)	1382	нӣввьл	nīvv’l	nīvv’l 
+504	14-6-37-1	74261616931192878	Kildin Saami	kild1236	the awl	AWL	278	вуэррь	vuerr’	vuerr’ 
+505	14-6-38-1	74261616570175553	Kildin Saami	kild1236	the thread	THREAD	1161	сӯнн	sūnn	sūnn 
+506	14-6-39-1	74261616282232832	Kildin Saami	kild1236	to dye	DYE	157	цыдз	cɨʒ	cɨʒ 
+507	14-6-41-1	74261616285843455	Kildin Saami	kild1236	the cloak	CLOAK	326	плашш	plašš	plašš 
+508	14-6-411-1	74261616210607724	Kildin Saami	kild1236	the poncho	PONCHO	327	пончо	pončo	pončo 
+509	14-7-37-1	74261616347481786	Kildin Saami	kild1236	the ladder	LADDER	1464	лествец	liestvec	liestvec 
+510	14-6-42-1	74261616490141655	Kildin Saami	kild1236	the (woman's) dress	DRESS	474	ма̄цэх	mācex	mācex 
+511	14-6-42-2	74261616558531873	Kildin Saami	kild1236	the (woman's) dress	DRESS	474	юпа	jupa	jupa 
+512	14-6-43-1	74261616922373984	Kildin Saami	kild1236	the coat	COAT	603	палльтэ	pall’te	pall’te 
+513	14-6-44-1	74261616349244616	Kildin Saami	kild1236	the shirt	SHIRT	1622	па̄ййт	pājjt	pājjt 
+514	14-6-45-1	742616168808855	Kildin Saami	kild1236	the collar	COLLAR	2012	коавлас	koavlas	koavlas 
+515	14-6-46-1	74261616241602374	Kildin Saami	kild1236	the skirt	SKIRT	1600	са̄рфанн	sārfann	sārfann 
+516	14-6-48-1	74261616820640413	Kildin Saami	kild1236	the trousers	TROUSERS	809	пуффс	puffs	puffs 
+517	14-6-49-1	74261616456866704	Kildin Saami	kild1236	the sock or stocking	STOCKING	329	суһк	suhk	suhk 
+518	14-6-51-1	74261616333394	Kildin Saami	kild1236	the shoe	SHOE	1381	коаммэ	koame	koame 
+519	14-6-52-1	7426161660033615	Kildin Saami	kild1236	the boot	BOOT	585	са̄һпе	sāhp’e	sāhp’e 
+520	14-6-54-1	74261616977665539	Kildin Saami	kild1236	the shoemaker	SHOEMAKER	875	са̄һпе-коаррэй	sāhp’e-koarrej	sāhp’e-koarrej 
+521	14-6-55-1	7426161620253517	Kildin Saami	kild1236	the hat or cap	HEADGEAR	2130	кабперь	kabp’er’	kabp’er’ 
+522	14-6-57-1	74261616583833839	Kildin Saami	kild1236	the belt	BELT	772	пуэгенҍ	pueg’en’	pueg’en’ 
+523	14-6-58-1	7426161612438730	Kildin Saami	kild1236	the glove	GLOVE	867	воаһц	voahc	voahc 
+524	14-6-59-1	87171650386596122	Kildin Saami	kild1236	the veil	VEIL	1151	ка̄ссв-коаһтэсс	kāssv-koahtess	kāssv-koahtess 
+525	14-6-61-1	74261616315119332	Kildin Saami	kild1236	the pocket	POCKET	1851	ка̄ӆӆт	kāllht	kāllht 
+526	14-6-62-1	74261616741589570	Kildin Saami	kild1236	the button	BUTTON	757	пуалл	puall	puall 
+527	14-6-63-1	74261616510703664	Kildin Saami	kild1236	the pin	PIN	64	саӈӈк	saŋŋk	saŋŋk 
+528	14-6-63-2	74261616402917839	Kildin Saami	kild1236	the pin	PIN	64	вуэййв-нӣввьл	vuejjv-nīvv’l	vuejjv-nīvv’l 
+529	14-6-71-1	74261616802604947	Kildin Saami	kild1236	the ornament or adornment	ORNAMENT	917	кыррьй	kɨrrj	kɨrrj 
+530	14-6-72-1	74261616118372950	Kildin Saami	kild1236	the jewel	JEWEL	1029	чалльм-сӯрмас	čall’m-sūrmas	čall’m-sūrmas 
+531	14-6-73-1	74261616104061118	Kildin Saami	kild1236	the ring	RING	1374	сӯрмас	sūrmas	sūrmas 
+532	14-6-75-1	74261616242073746	Kildin Saami	kild1236	the necklace	NECKLACE	1961	цуэттҍк	cuett’k	cuett’k 
+533	14-6-76-1	74261616857944588	Kildin Saami	kild1236	the bead	BEAD	1860	чалльм	čall’m	čall’m 
+534	14-6-77-1	74261616759295961	Kildin Saami	kild1236	the earring	EARRING	770	ре̄ӊӊьк	riennh’k	riennh’k 
+535	14-6-78-1	74261616358966293	Kildin Saami	kild1236	the headband or headdress	HEADBAND	330	пе̄рьвеськ	pier’ves’k	pier’ves’k 
+536	14-6-81-1	7426161694720894	Kildin Saami	kild1236	the handkerchief or rag	RAG	332	носо-рыбпехь	noso-rɨbp’ex’	noso-rɨbp’ex’ 
+537	14-6-82-1	74261616505541614	Kildin Saami	kild1236	the towel	TOWEL	1021	отеральнэһк	oteral’nehk	oteral’nehk 
+538	14-6-91-1	74261616619026048	Kildin Saami	kild1236	the comb	COMB	1475	чоагкь	čoagk’	čoagk’ 
+539	14-6-92-1	74261616619026048	Kildin Saami	kild1236	the brush	BRUSH	1821	чоагкь	čoagk’	čoagk’ 
+540	14-6-921-1	7426161698133987	Kildin Saami	kild1236	the plait/braid	BRAID	1043	коассь	koass’	koass’ 
+541	14-6-93-1	87171635252733480	Kildin Saami	kild1236	the razor	RAZOR	151	вэ̄цкнэдтэм-ныййп	vēcknedtem-nɨjjp	vēcknedtem-nɨjjp 
+542	14-6-94-1	74261616895902214	Kildin Saami	kild1236	the ointment	OINTMENT	1926	моажант	moažant	moažant 
+543	14-6-95-1	74261616903155890	Kildin Saami	kild1236	the soap	SOAP	788	муӆӆьт	mullh’t	mullh’t 
+544	14-6-96-1	74261616290358096	Kildin Saami	kild1236	the mirror	MIRROR	1171	зе̄ркал	zierkal	zierkal 
+545	14-7-11-1	74261616360035156	Kildin Saami	kild1236	to live	DWELL (LIVE, RESIDE)	363	е̄лле	jēll’e	jēll’e 
+546	14-7-12-1	74261616846678151	Kildin Saami	kild1236	the house	HOUSE	1252	пэ̄ҏҏт	pērrht	pērrht 
+547	14-7-13-1	742616162680656	Kildin Saami	kild1236	the hut	HUT	1678	куэдтҍ	kuedt’	kuedt’ 
+548	14-7-131-1	74261616688596183	Kildin Saami	kild1236	the garden-house	GARDEN-HOUSE	403	дача	dača	dača 
+549	14-7-14-1	74261616649975503	Kildin Saami	kild1236	the tent	TENT	1316	чум	čum	čum 
+550	14-7-14-2	74261616986976790	Kildin Saami	kild1236	the tent	TENT	1316	коавас	koavas	koavas 
+551	14-7-15-1	74261616916633212	Kildin Saami	kild1236	the yard or court	YARD	736	кӣннт	kīnnt	kīnnt 
+552	14-7-17-1	74261616369671243	Kildin Saami	kild1236	the cookhouse	COOKHOUSE	334	кухня	kūxn’a	kūxn’a 
+553	14-7-18-1	8716210736654260	Kildin Saami	kild1236	the meeting house	MEETING HOUSE	335	со̄бэр-пэ̄ҏҏт	sōber-pērrht	sōber-pērrht 
+554	14-7-21-1	74261616167730776	Kildin Saami	kild1236	the room	ROOM	1450	комната	komnata	komnata 
+555	14-7-22-1	74261616757465826	Kildin Saami	kild1236	the door or gate	DOOR	1567	уккс	ukks	ukks 
+556	14-7-221-1	74261616911483982	Kildin Saami	kild1236	the doorpost	DOORPOST	80	стуэлльп	stuell’p	stuell’p 
+557	14-7-23-1	74261616443967328	Kildin Saami	kild1236	the lock	LOCK	1596	ло̄һк	lōhk	lōhk 
+558	14-7-231-1	74261616443967328	Kildin Saami	kild1236	the latch or door-bolt	LATCH	1012	ло̄һк	lōhk	lōhk 
+559	14-7-24-1	74261616692372597	Kildin Saami	kild1236	the key	KEY	1472	ло̄һк-чуэввт	lōhk-čuevvt	lōhk-čuevvt 
+560	14-7-25-1	74261616583598970	Kildin Saami	kild1236	the window	WINDOW	1375	эһкан	ehkan	ehkan 
+561	14-7-26-1	7426161652171223	Kildin Saami	kild1236	the floor	FLOOR	1632	шалльт	šall’t	šall’t 
+562	14-7-27-1	74261616258047077	Kildin Saami	kild1236	the wall	WALL (OF HOUSE)	933	сте̄нн	stienn	stienn 
+563	14-7-31-1	74261616385801819	Kildin Saami	kild1236	the fireplace	FIREPLACE	185	та̄гкь	tāgk’	tāgk’ 
+564	14-7-32-1	74261616682607978	Kildin Saami	kild1236	the stove	STOVE	859	кыввкан	kɨvvkan	kɨvvkan 
+565	14-7-33-1	74261616393054522	Kildin Saami	kild1236	the chimney	CHIMNEY	1305	ре̄һпенҍ	riehpen’	riehpen’ 
+566	14-7-42-1	74261616847514913	Kildin Saami	kild1236	the bed	BED	1663	кроаваһт	kroavaht	kroavaht 
+567	14-7-421-1	74261616756047819	Kildin Saami	kild1236	the pillow	PILLOW	1044	по̄дэшк	pōdešk	pōdešk 
+568	14-7-422-1	74261616619520092	Kildin Saami	kild1236	the blanket	BLANKET	806	ра̄нн	rānn	rānn 
+569	14-7-43-1	74261616281661193	Kildin Saami	kild1236	the chair	CHAIR	1476	стӯла	stūla	stūla 
+570	14-7-44-1	7426161669193639	Kildin Saami	kild1236	the table	TABLE	1775	туэлль	tuell’	tuell’ 
+571	14-7-45-1	74261616508040050	Kildin Saami	kild1236	the lamp or torch	TORCH OR LAMP	2131	ламмп	lammp	lammp 
+572	14-7-46-1	74261616300057829	Kildin Saami	kild1236	the candle	CANDLE	1273	тӯвас	tūvas	tūvas 
+573	14-7-47-1	74261616805819093	Kildin Saami	kild1236	the shelf	SHELF	745	ылльтэ	ɨll’te	ɨll’te 
+574	14-7-48-1	74261616715320392	Kildin Saami	kild1236	the trough	TROUGH	205	ка̄ррь	kārr’	kārr’ 
+575	14-7-51-1	74261616668818184	Kildin Saami	kild1236	the roof	ROOF	769	пэ̄ҏҏт-э̄лля	pērrht-ēll’а	pērrht-ēll’а 
+576	14-7-55-1	74261616700814655	Kildin Saami	kild1236	the beam	BEAM	1132	о̄ллк	ōllk	ōllk 
+577	14-7-56-1	74261616911483982	Kildin Saami	kild1236	the post or pole	POST	281	стуэлльп	stuell’p	stuell’p 
+578	14-7-57-1	7426161642605293	Kildin Saami	kild1236	the board	BOARD	1227	лӯввьт	lūvv’t	lūvv’t 
+579	14-7-58-1	87171632242082574	Kildin Saami	kild1236	the arch	ARCH	876	арка	arka	arka 
+580	14-7-61-1	74261616529087832	Kildin Saami	kild1236	the mason	MASON	877	каменщик	kam’enš’ik	kam’enš’ik 
+581	14-7-62-1	74261616918177846	Kildin Saami	kild1236	the brick	BRICK	1006	кӣрпэһч	kīrpehč	kīrpehč 
+582	14-8-11-1	74261616566268894	Kildin Saami	kild1236	the farmer	FARMER	979	лӣхемь-пынней	līx’em’-pɨnnej	līx’em’-pɨnnej 
+583	14-8-12-1	74261616224865828	Kildin Saami	kild1236	the field	FIELD	212	поаля	poal’a	poal’a 
+584	14-8-13-1	74261616315370313	Kildin Saami	kild1236	the garden	GARDEN	586	са̄д	sād	sād 
+585	14-8-13-2	74261616371046880	Kildin Saami	kild1236	the garden	GARDEN	586	ряд	riad	riad 
+586	14-8-15-1	74261616123996764	Kildin Saami	kild1236	to cultivate	CULTIVATE	1541	е̄ммьнетҍ куаййвэ	jēm’n’et’ kuajjve	jēm’n’et’ kuajjve 
+587	14-8-16-1	74261616209323973	Kildin Saami	kild1236	the fence	FENCE	1690	а̄ййт	ājjt	ājjt 
+588	14-8-17-1	74261616812980242	Kildin Saami	kild1236	the ditch	DITCH	2002	вуэйй	vuejj	vuejj 
+589	14-8-21-1	8716212664585354	Kildin Saami	kild1236	to plough/plow	PLOUGH	1921	плӯгк	plūgk	plūgk 
+590	14-8-212-1	74261616619489454	Kildin Saami	kild1236	the furrow	FURROW	1794	коабпь	koabp’	koabp’ 
+591	14-8-212-2	7426161699229293	Kildin Saami	kild1236	the furrow	FURROW	1794	курр	kurr	kurr 
+592	14-8-22-1	74261616246502137	Kildin Saami	kild1236	to dig	DIG	1418	куаййвэ	kuajjve	kuajjve 
+593	14-8-23-1	74261616990754184	Kildin Saami	kild1236	the spade	SPADE	1176	куаййв	kuajjv	kuajjv 
+594	14-8-24-1	74261616709243110	Kildin Saami	kild1236	the shovel	SHOVEL	1901	куаййв	kuajjv	kuajjv 
+595	14-8-25-1	74261616482658107	Kildin Saami	kild1236	the hoe	HOE	284	мотыга	motɨga	motɨga 
+596	14-8-26-1	74261616340658554	Kildin Saami	kild1236	the fork(2)/pitchfork	PITCHFORK	337	вилы	vilɨ	vilɨ 
+597	14-8-27-1	74261616254323038	Kildin Saami	kild1236	the rake	RAKE	338	грабля	grabl’a	grabl’a 
+598	14-8-31-1	74261616492246655	Kildin Saami	kild1236	to sow	SOW SEEDS	748	сейе	siejje	siejje 
+599	14-8-311-1	74261616458561555	Kildin Saami	kild1236	the seed	SEED	714	се̄м	siem	siem 
+600	14-8-32-1	74261616218431184	Kildin Saami	kild1236	to mow	MOW	190	коссэ	kosse (2)	kosse (2) 
+601	14-8-33-1	74261616611784182	Kildin Saami	kild1236	the sickle or scythe	SICKLE OR SCYTHE	2132	ко̄сс	kōss	kōss 
+602	14-8-34-1	74261616354662332	Kildin Saami	kild1236	to thresh	THRESH	285	та̄гкэ	tāgke	tāgke 
+603	14-8-35-1	74261616955498280	Kildin Saami	kild1236	the threshing-floor	THRESHING-FLOOR	223	я̄вв се̄м таһкэм-пэ̄ҏҏт	jāvv siem tahkem pērrht	jāvv siem tahkem pērrht 
+604	14-8-41-1	74261616899413993	Kildin Saami	kild1236	the harvest	HARVEST	611	шэнтнэгк	šentnegk	šentnegk 
+605	14-8-41-2	74261616957467343	Kildin Saami	kild1236	the harvest	HARVEST	611	чӯһпэм	čūhpem	čūhpem 
+606	14-8-42-1	74261616278679219	Kildin Saami	kild1236	the grain	GRAIN	605	ле̄ййп-сӯййн	liejjp-sūjjn	liejjp-sūjjn 
+607	14-8-43-1	74261616233175579	Kildin Saami	kild1236	the wheat	WHEAT	1077	ше̄ннҍ	šienn’	šienn’ 
+608	14-8-45-1	74261616281091383	Kildin Saami	kild1236	the rye	RYE	23	ро̄шшь	rōšš’	rōšš’ 
+609	14-8-46-1	74261616364577592	Kildin Saami	kild1236	the oats	OAT	60	каура	kaura	kaura 
+610	14-8-46-2	74261616906325250	Kildin Saami	kild1236	the oats	OAT	60	оввесь	ovves’	ovves’ 
+611	14-8-47-1	74261616426680710	Kildin Saami	kild1236	the maize/corn	MAIZE	506	кукуруза	kukurúza	kukurúza 
+612	14-8-48-1	74261616350479987	Kildin Saami	kild1236	the rice	RICE	926	рӣсс	rīss	rīss 
+613	14-8-51-1	74261616151613610	Kildin Saami	kild1236	the grass	GRASS	606	ра̄ссь	rāss’	rāss’ 
+614	14-8-52-1	74261616597300683	Kildin Saami	kild1236	the hay	HAY	342	сӯййн	sūjjn	sūjjn 
+615	14-8-53-1	74261616151613610	Kildin Saami	kild1236	the plant	PLANT (VEGETATION)	653	ра̄ссь	rāss’	rāss’ 
+616	14-8-531-1	74261616786594314	Kildin Saami	kild1236	to plant	PLANT (SOMETHING)	1486	пыйе е̄ммьнье	pɨjje jēmm’nje	pɨjje jēmm’nje 
+617	14-8-54-1	74261616161377410	Kildin Saami	kild1236	the root	ROOT	670	вуэнҍтэсь	vuen’tes’	vuen’tes’ 
+618	14-8-55-1	74261616750739311	Kildin Saami	kild1236	the branch	BRANCH OR TWIG	3223	сӯррь	sūrr’	sūrr’ 
+619	14-8-55-2	74261616210457314	Kildin Saami	kild1236	the branch	BRANCH OR TWIG	3223	вуэккьс	vuekk’s	vuekk’s 
+620	14-8-56-1	74261616199512959	Kildin Saami	kild1236	the leaf	LEAF	628	лэ̄сст	lēsst	lēsst 
+621	14-8-57-1	74261616151613610	Kildin Saami	kild1236	the flower	FLOWER	239	ра̄ссь	rāss’	rāss’ 
+622	14-8-6-1	74261616791447752	Kildin Saami	kild1236	the tree	TREE	906	мӯрр	mūrr	mūrr 
+623	14-8-61-1	74261616186633467	Kildin Saami	kild1236	the oak	OAK	644	че̄ррь-мӯрр	čērr’-mūrr	čērr’-mūrr 
+624	14-8-63-1	74261616943580791	Kildin Saami	kild1236	the birch	BIRCH	1855	кӣрре	kīrr’e	kīrr’e 
+625	14-8-63-2	74261616281409264	Kildin Saami	kild1236	the birch	BIRCH	1855	пе̄ссь-мӯрр	pēss’-mūrr	pēss’-mūrr 
+626	14-8-63-3	74261616944033276	Kildin Saami	kild1236	the birch	BIRCH	1855	суэгкь	suegk’	suegk’ 
+627	14-8-64-1	74261616142304740	Kildin Saami	kild1236	the pine	PINE	1740	пе̄дзь	pieʒ’	pieʒ’ 
+628	14-8-65-1	74261616124390354	Kildin Saami	kild1236	the fir	FIR	1915	кӯсс	kūss	kūss 
+629	14-8-67-1	7426161610258181	Kildin Saami	kild1236	the vine	VINE	343	выннҍ-мӯрр	vɨnn’-mūrr	vɨnn’-mūrr 
+630	14-8-68-1	74261616987570630	Kildin Saami	kild1236	the tobacco	TOBACCO	974	та̄бэх	tābex	tābex 
+631	14-8-69-1	74261616671867314	Kildin Saami	kild1236	to smoke	SMOKE (INHALE)	1689	кӯррэ	kūrre	kūrre 
+632	14-8-691-1	74261616944997910	Kildin Saami	kild1236	the pipe	PIPE	1124	трупкэ	trupke	trupke 
+633	14-8-72-1	74261616307393199	Kildin Saami	kild1236	the tree stump	TREE STUMP	241	чӯллт	čūllt	čūllt 
+634	14-8-73-1	74261616944033276	Kildin Saami	kild1236	the tree trunk	TREE TRUNK	344	суэгкь	suegk’	suegk’ 
+635	14-8-74-1	74261616597054843	Kildin Saami	kild1236	the forked branch	FORKED BRANCH	409	суррь-рыссе	surr’-rɨsse	surr’-rɨsse 
+636	14-8-75-1	74261616843201131	Kildin Saami	kild1236	the bark	BARK	1204	па̄ҏҏк	pārrhk	pārrhk 
+637	14-8-75-2	7426161615239538	Kildin Saami	kild1236	the bark	BARK	1204	кэ̄рр	kērr	kērr 
+638	14-8-75-3	74261616447157108	Kildin Saami	kild1236	the bark	BARK	1204	пе̄ссь	pēss’	pēss’ 
+639	14-8-76-1	74261616869210397	Kildin Saami	kild1236	the sap	SAP	345	са̄һпь	sahp’	sahp’ 
+640	14-8-81-1	74261616398218574	Kildin Saami	kild1236	the palm tree	PALM TREE	1181	пальма	pal’ma	pal’ma 
+641	14-8-82-1	74261616691212673	Kildin Saami	kild1236	the coconut	COCONUT	970	кокос	kokós	kokós 
+642	14-8-83-1	87171630244856989	Kildin Saami	kild1236	the citrus fruit	CITRUS FRUIT	1126	руччкесь па̄лл	ruččkes’ pāll	ruččkes’ pāll 
+643	14-8-84-1	74261616200320652	Kildin Saami	kild1236	the banana	BANANA	868	бананн	banann	banann 
+644	14-8-91-1	7426161625629948	Kildin Saami	kild1236	the sweet potato	SWEET POTATO	159	батат	batát	batát 
+645	14-8-912-1	74261616920492233	Kildin Saami	kild1236	the yam	YAM	410	ня̄лькэсь картошкэ	njāl’kes’ kartoške	njāl’kes’ kartoške 
+646	14-8-92-1	74261616878615568	Kildin Saami	kild1236	the cassava/manioc	CASSAVA	925	маниок	maniók	maniók 
+647	14-8-93-1	74261616335508617	Kildin Saami	kild1236	the gourd	GOURD	411	тыква	tɨkva	tɨkva 
+648	14-8-931-1	74261616335508617	Kildin Saami	kild1236	the pumpkin or squash	PUMPKIN	864	тыква	tɨkva	tɨkva 
+649	14-8-94-1	74261616468316531	Kildin Saami	kild1236	the bamboo	BAMBOO	1927	бамбук	bambúk	bambúk 
+650	14-8-96-1	74261616977237661	Kildin Saami	kild1236	the fish poison	FISH POISON	348	кӯлль-са̄һпь	kūll’-sāhp’	kūll’-sāhp’ 
+651	14-8-97-1	8716212747589115	Kildin Saami	kild1236	the nettle	NETTLE	33	чо̄гк-ра̄ссь	čōgk-rāss’	čōgk-rāss’ 
+652	14-8-98-1	74261616584516745	Kildin Saami	kild1236	the mushroom	MUSHROOM	641	кӯмпар	kūmpar	kūmpar 
+653	14-9-11-1	74261616245848881	Kildin Saami	kild1236	to do	DO	813	лыһкэ	lɨhke	lɨhke 
+654	14-9-12-1	74261616267373970	Kildin Saami	kild1236	the work	WORK (LABOUR)	984	туйй	tujj	tujj 
+655	14-9-14-1	7426161686998864	Kildin Saami	kild1236	to bend	BEND	2004	соҋтэ	sojhte	sojhte 
+656	14-9-15-1	74261616140976474	Kildin Saami	kild1236	to fold	FOLD	1470	моадзтэ	moaʒte	moaʒte 
+657	14-9-16-1	74261616477237476	Kildin Saami	kild1236	to tie	TIE	1917	ко̄ррэ	kōrre	kōrre 
+658	14-9-161-1	74261616172479744	Kildin Saami	kild1236	to untie	UNTIE	352	пе̄ссьтэ	piess’te	piess’te 
+659	14-9-18-1	74261616199856840	Kildin Saami	kild1236	the chain	CHAIN	1627	цӣп	cīp	cīp 
+660	14-9-19-1	74261616828832411	Kildin Saami	kild1236	the rope	ROPE	1218	нӯррь	nurr’	nurr’ 
+661	14-9-192-1	74261616627649213	Kildin Saami	kild1236	the knot	KNOT	760	чӯллм	čūllm	čūllm 
+662	14-9-21-1	74261616311355915	Kildin Saami	kild1236	to strike or hit or beat	STRIKE OR BEAT	2133	васстэ	vasste	vasste 
+663	14-9-211-1	74261616354662332	Kildin Saami	kild1236	to pound	POUND	354	та̄гкэ	tāgke	tāgke 
+664	14-9-22-1	74261616162626260	Kildin Saami	kild1236	to cut	CUT	1432	чӯһпэ	čūhpe	čūhpe 
+665	14-9-22-2	74261616947352423	Kildin Saami	kild1236	to cut	CUT	1432	вэ̄йе	vējje	vējje 
+666	14-9-221-1	742616163623735	Kildin Saami	kild1236	to cut down	CUT DOWN	355	уцьнэ	uc’ne	uc’ne 
+667	14-9-222-1	74261616534408600	Kildin Saami	kild1236	to chop	CHOP	155	те̄ҏҏпэ	tierrhpe	tierrhpe 
+668	14-9-223-1	74261616384668011	Kildin Saami	kild1236	to stab	STAB TO DEATH	3189	чо̄һкэ	čōhke	čōhke 
+669	14-9-23-1	74261616102815688	Kildin Saami	kild1236	the knife(2)	KNIFE	1352	ныййп	nɨjjp	nɨjjp 
+670	14-9-24-1	74261616311681638	Kildin Saami	kild1236	the scissors or shears	SHEARS	356	рӯввьт	rūvv’t	rūvv’t 
+671	14-9-25-1	74261616901241353	Kildin Saami	kild1236	the axe/ax	AXE	677	оаккшэ	oakkše	oakkše 
+672	14-9-251-1	74261616952625970	Kildin Saami	kild1236	the adze	ADZE	290	веррэ	vierre	vierre 
+673	14-9-26-1	74261616444143557	Kildin Saami	kild1236	to break	BREAK (DESTROY OR GET DESTROYED)	680	муррьтэ	murr’te	murr’te 
+674	14-9-26-2	74261616990155049	Kildin Saami	kild1236	to break	BREAK (DESTROY OR GET DESTROYED)	680	пуатткэ	puattke	puattke 
+675	14-9-261-1	7426161614447314	Kildin Saami	kild1236	broken	BROKEN (NOT WORKING)	3190	мурртма	murrtma	murrtma 
+676	14-9-27-1	74261616813325133	Kildin Saami	kild1236	to split	SPLIT	1437	луэннҍтэ	luenn’te	luenn’te 
+677	14-9-28-1	7426161610292860	Kildin Saami	kild1236	to tear	TEAR (SHRED)	1735	кышшкэ	kɨšškе	kɨšškе 
+678	14-9-29-1	74261616257889152	Kildin Saami	kild1236	to skin	PULL OFF (SKIN)	291	ню̄ввэ	njūvvе	njūvvе 
+679	14-9-31-1	74261616614262517	Kildin Saami	kild1236	to rub	RUB	1449	е̄ррэ	jērre	jērre 
+680	14-9-32-1	74261616130281874	Kildin Saami	kild1236	to stretch	STRETCH	214	вэ̄ннэ	vēnne	vēnne 
+681	14-9-33-1	74261616163790679	Kildin Saami	kild1236	to pull	PULL	1455	ке̄ссе	kiess’e	kiess’e 
+682	14-9-34-1	74261616732183167	Kildin Saami	kild1236	to spread out	SPREAD OUT	38	ле̄ввэ	lievve	lievve 
+683	14-9-341-1	74261616248104439	Kildin Saami	kild1236	to hang up	HANG UP	357	коадзэ	koaʒe	koaʒe 
+684	14-9-342-1	74261616661365067	Kildin Saami	kild1236	to press	PRESS	1913	падже	paǯe	paǯe 
+685	14-9-343-1	74261616661365067	Kildin Saami	kild1236	to squeeze	SQUEEZE	1414	падже	paǯe	paǯe 
+686	14-9-35-1	74261616427517804	Kildin Saami	kild1236	to pour	POUR	1487	ва̄ллэ	vālle	vālle 
+687	14-9-36-1	74261616578968945	Kildin Saami	kild1236	to wash	WASH	1453	пэ̄ссэ	pēsse	pēsse 
+688	14-9-37-1	74261616780919752	Kildin Saami	kild1236	to sweep	SWEEP	230	поашшэ	poašše	poašše 
+689	14-9-38-1	7426161674429286	Kildin Saami	kild1236	the broom	BROOM	245	ва̄сст	vāsst	vāsst 
+690	14-9-422-1	74261616447881163	Kildin Saami	kild1236	the tool	TOOL	1361	инструмент	instrum’ént	instrum’ént 
+691	14-9-43-1	74261616490059454	Kildin Saami	kild1236	the carpenter	CARPENTER	1042	пло̄тнеһк	plōtn’ehk	plōtn’ehk 
+692	14-9-44-1	74261616458688354	Kildin Saami	kild1236	to build	BUILD	1840	тӯййшэ	tūjjše	tūjjše 
+693	14-9-46-1	7426161661321242	Kildin Saami	kild1236	to bore	BORE	1501	по̄гкэ	pōgke	pōgke 
+694	14-9-461-1	74261616892684402	Kildin Saami	kild1236	to hollow out	HOLLOW OUT	46	цеввнэ	cievvne	cievvne 
+695	14-9-48-1	74261616506575959	Kildin Saami	kild1236	the saw	SAW	1948	пыла	pɨla	pɨla 
+696	14-9-48-2	74261616589697095	Kildin Saami	kild1236	the saw	SAW	1948	са̄гк	sāgk	sāgk 
+697	14-9-49-1	7426161669623680	Kildin Saami	kild1236	the hammer	HAMMER	1481	ве̄жяр	viež’ar	viež’ar 
+698	14-9-5-1	74261616747238777	Kildin Saami	kild1236	the nail	NAIL (TOOL)	502	на̄ввьл	nāvv’l	nāvv’l 
+699	14-9-56-1	74261616264137802	Kildin Saami	kild1236	the glue	GLUE	1069	нямм	njаmm	njаmm 
+700	14-9-6-1	74261616652510847	Kildin Saami	kild1236	the blacksmith	BLACKSMITH	1001	ра̄ввьт	rāvv’t	rāvv’t 
+701	14-9-61-1	74261616354662332	Kildin Saami	kild1236	to forge	FORGE	288	та̄гкэ	tāgke	tāgke 
+702	14-9-62-1	74261616412968143	Kildin Saami	kild1236	the anvil	ANVIL	1648	та̄гкэм-са̄йй	tāgkem-sājj	tāgkem-sājj 
+703	14-9-63-1	74261616427517804	Kildin Saami	kild1236	to cast	CAST	211	ва̄ллэ	vālle	vālle 
+704	14-9-64-1	74261616844075013	Kildin Saami	kild1236	the gold	GOLD	1369	коалль	koall’	koall’ 
+705	14-9-65-1	7426161632287184	Kildin Saami	kild1236	the silver	SILVER	759	сыллп	sɨllp	sɨllp 
+706	14-9-66-1	74261616965148971	Kildin Saami	kild1236	the copper	COPPER	1825	ве̄шшьк	viešš’k	viešš’k 
+707	14-9-67-1	74261616311681638	Kildin Saami	kild1236	the iron	IRON	621	рӯввьт	rūvv’t	rūvv’t 
+708	14-9-68-1	74261616534823748	Kildin Saami	kild1236	the lead	LEAD (CHEMICAL ELEMENT)	627	вынньц	vɨnn’c	vɨnn’c 
+709	14-9-69-1	74261616620803248	Kildin Saami	kild1236	the tin or tinplate	TIN OR TINPLATE	3217	ка̄ррьт	kārr’t	kārr’t 
+710	14-9-72-1	74261616952625970	Kildin Saami	kild1236	to mould/mold	MOLD	289	веррэ	vierre	vierre 
+711	14-9-73-1	74261616660621469	Kildin Saami	kild1236	the clay	CLAY	1399	чуййв	čujjv	čujjv 
+712	14-9-74-1	74261616422950104	Kildin Saami	kild1236	the glass	GLASS	604	сте̄клэ	stiekle	stiekle 
+713	14-9-75-1	74261616299913059	Kildin Saami	kild1236	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294	по̄нне	pōnnje	pōnnje 
+714	14-9-76-1	74261616611015734	Kildin Saami	kild1236	the basket	BASKET	1539	кӯшшь	kūšš’	kūšš’ 
+715	14-9-76-2	74261616652047220	Kildin Saami	kild1236	the basket	BASKET	1539	ко̄ррэб	kōrreb	kōrreb 
+716	14-9-77-1	87171652540625189	Kildin Saami	kild1236	the mat	MAT	195	шалльт-коаһтесс	šall’t-koahtess	šall’t-koahtess 
+717	14-9-771-1	87171654888809769	Kildin Saami	kild1236	the rug	RUG	292	сте̄нн-коаһтэсс	stienn-koahtess	stienn-koahtess 
+718	14-9-78-1	74261616943610507	Kildin Saami	kild1236	the netbag	NETBAG	293	са̄һк	sāhk	sāhk 
+719	14-9-79-1	74261616358089915	Kildin Saami	kild1236	the fan	FAN (OBJECT)	1971	пӣӈӈк-поссэй	pīŋŋk-possej	pīŋŋk-possej 
+720	14-9-81-1	74261616619720371	Kildin Saami	kild1236	to carve	CARVE	228	е̄дтэ	jēdte	jēdte 
+721	14-9-84-1	87152147461481543	Kildin Saami	kild1236	the chisel	CHISEL	1979	е̄дтэй-ка̄ввьн	jēdtej-kāvv’n	jēdtej-kāvv’n 
+722	14-9-88-1	74261616685196266	Kildin Saami	kild1236	the paint	PAINT (PIGMENTS)	647	поаййн	poajjn	poajjn 
+723	14-9-89-1	74261616985625980	Kildin Saami	kild1236	to paint	PAINTING	2001	поаййнэ	poajjne	poajjne 
+724	14-10-11-1	74261616793941257	Kildin Saami	kild1236	to move	MOVE	765	лыгкнэ	lɨgkne	lɨgkne 
+725	14-10-12-1	74261616988033954	Kildin Saami	kild1236	to turn	TURN	1588	ёҏтътэллэ	jorhttelle	jorhttelle 
+726	14-10-13-1	74261616337242060	Kildin Saami	kild1236	to turn around	TURN (SOMETHING)	1445	ле̄вхэ	lievxe	lievxe 
+727	14-10-14-1	7426161659657704	Kildin Saami	kild1236	to wrap	WRAP	1113	кӣссэ	kīsse	kīsse 
+728	14-10-15-1	74261616787250089	Kildin Saami	kild1236	to roll	ROLL	827	ёҏтътэ	jorhtte	jorhtte 
+729	14-10-16-1	74261616658236968	Kildin Saami	kild1236	to drop	DROP (SOMETHING)	2866	ёҏтэ	jorhte	jorhte 
+730	14-10-17-1	74261616154929817	Kildin Saami	kild1236	to twist	TWIST (AROUND)	3199	поаннэ	poanne	poanne 
+731	14-10-21-1	7426161643234020	Kildin Saami	kild1236	to rise	RISE (MOVE UPWARDS)	568	пэ̄ййнэ	pējjne	pējjne 
+732	14-10-21-2	74261616742626910	Kildin Saami	kild1236	to rise	RISE (MOVE UPWARDS)	568	пайнэдтэ	pajnedte	pajnedte 
+733	14-10-22-1	74261616173931648	Kildin Saami	kild1236	to raise or lift	LIFT	501	пайнэллэ	pajnelle	pajnelle 
+734	14-10-23-1	74261616231906721	Kildin Saami	kild1236	to fall	FALL	1280	кэ̄һче	kēhče	kēhče 
+735	14-10-24-1	74261616574644053	Kildin Saami	kild1236	to drip	DRIP (EMIT LIQUID)	2253	куашшкэ	kuašške	kuašške 
+736	14-10-25-1	74261616186977180	Kildin Saami	kild1236	to throw	THROW	1456	чаццькэ	čacc’ke	čacc’ke 
+737	14-10-252-1	7426161696037388	Kildin Saami	kild1236	to catch	CATCH	702	шылле	šɨll’e	šɨll’e 
+738	14-10-26-1	74261616794033708	Kildin Saami	kild1236	to shake	SHAKE	1909	пушшьтэ	pušš’te	pušš’te 
+739	14-10-32-1	74261616889078119	Kildin Saami	kild1236	to flow	FLOW	2003	ко̄ллкэ	kōllke	kōllke 
+740	14-10-33-1	74261616813129669	Kildin Saami	kild1236	to sink	SINK (DESCEND)	1088	kэ̄ццкэ	kēccke	kēccke 
+741	14-10-34-1	74261616705141750	Kildin Saami	kild1236	to float	FLOAT	1574	вӯйе	vūjje	vūjje 
+742	14-10-35-1	74261616705141750	Kildin Saami	kild1236	to swim	SWIM	1439	вӯйе	vūjje	vūjje 
+743	14-10-351-1	74261616295014222	Kildin Saami	kild1236	to dive	DIVE	119	чоаӈӈэ	čoaŋŋe	čoaŋŋe 
+744	14-10-352-1	74261616760927626	Kildin Saami	kild1236	to splash	SPLASH	365	туэррпэ	tuerrpe	tuerrpe 
+745	14-10-36-1	74261616109395858	Kildin Saami	kild1236	to sail	SAIL	787	по̄рьйсэ	pōr’se	pōr’se 
+746	14-10-37-1	74261616152736966	Kildin Saami	kild1236	to fly	FLY (MOVE THROUGH AIR)	1441	кыррьтэ	kɨrr’te	kɨrr’te 
+747	14-10-38-1	74261616224565567	Kildin Saami	kild1236	to blow	BLOW (OF WIND)	175	поассэ	poasse	poasse 
+748	14-10-41-1	74261616508628570	Kildin Saami	kild1236	to crawl	CRAWL	96	пе̄гке	piegk’e	piegk’e 
+749	14-10-412-1	74261616987161073	Kildin Saami	kild1236	to kneel	KNEEL	66	чуэннчле пӯвл э̄л	čuennčle pūvl ēl	čuennčle pūvl ēl 
+750	14-10-413-1	74261616332292094	Kildin Saami	kild1236	to crouch	CROUCH	296	ышштнэ	ɨšštne	ɨšštne 
+751	14-10-42-1	74261616322563341	Kildin Saami	kild1236	to slide or slip	SLIP	1324	няффькэ	njаff’ke	njаff’ke 
+752	14-10-43-1	74261616608374243	Kildin Saami	kild1236	to jump	JUMP	1829	нюччкэ	njuččke	njuččke 
+753	14-10-431-1	74261616795504867	Kildin Saami	kild1236	to kick	KICK	1135	ко̄ффкэ	kōffke	kōffke 
+754	14-10-44-1	74261616859794942	Kildin Saami	kild1236	to dance	DANCE	1879	пляссъе	pl’аssje	pl’аssje 
+755	14-10-45-1	74261616833459755	Kildin Saami	kild1236	to walk	WALK	1443	ва̄ннҍцэ	vānn’ce	vānn’ce 
+756	14-10-451-1	74261616894001835	Kildin Saami	kild1236	to limp	LIMP	366	лыһклэ	lɨhkle	lɨhkle 
+757	14-10-46-1	7426161667744288	Kildin Saami	kild1236	to run	RUN	1519	вӣдже	vīǯe	vīǯe 
+758	14-10-47-1	74261616561527374	Kildin Saami	kild1236	to go	GO	695	мэ̄ннэ	mēnne	mēnne 
+759	14-10-471-1	7426161680320201	Kildin Saami	kild1236	to go up	GO UP (ASCEND)	705	э̄ллнэ	ēllne	ēllne 
+760	14-10-472-1	74261616798668085	Kildin Saami	kild1236	to climb	CLIMB	1102	паййнэ	pajjne	pajjne 
+761	14-10-473-1	74261616734288749	Kildin Saami	kild1236	to go down	GO DOWN (DESCEND)	2014	вуэллнэ	vuellne	vuellne 
+762	14-10-474-1	74261616812500943	Kildin Saami	kild1236	to go out	GO OUT	1107	выййтэ	vɨjjte	vɨjjte 
+763	14-10-48-1	74261616890607578	Kildin Saami	kild1236	to come	COME	1446	пуэдтӭ	puedt’e	puedt’e 
+764	14-10-481-1	74261616416005728	Kildin Saami	kild1236	to come back	COME BACK	581	ма̄һце	māhc’e	māhc’e 
+765	14-10-49-1	74261616996528312	Kildin Saami	kild1236	to leave	LEAVE	1752	уййтэ	ujjte	ujjte 
+766	14-10-491-1	74261616815724124	Kildin Saami	kild1236	to disappear	DISAPPEAR	485	ка̄дэ	kāde	kāde 
+767	14-10-51-1	7426161667744288	Kildin Saami	kild1236	to flee	FLEE	956	вӣдже	vīǯe	vīǯe 
+768	14-10-52-1	74261616280677700	Kildin Saami	kild1236	to follow	FOLLOW	1085	кийе милльтэ ёадтэ	kijje mill’te ёadte	kijje mill’te ёadte 
+769	14-10-53-1	74261616737757272	Kildin Saami	kild1236	to pursue	PURSUE	1047	выххчтэ	vɨxxčte	vɨxxčte 
+770	14-10-55-1	74261616887157043	Kildin Saami	kild1236	to arrive	ARRIVE	1387	ю̄ввтэ	jūvvte	jūvvte 
+771	14-10-56-1	74261616960043582	Kildin Saami	kild1236	to approach	APPROACH	1778	э̄ллтнэ	ēlltne	ēlltne 
+772	14-10-57-1	74261616491051749	Kildin Saami	kild1236	to enter	ENTER	749	суаӈӈэ	suaŋŋe	suaŋŋe 
+773	14-10-61-1	74261616267324307	Kildin Saami	kild1236	to carry	CARRY	700	кӯннҍтэ	kūnn’te	kūnn’te 
+774	14-10-612-1	7426161662823460	Kildin Saami	kild1236	to carry in hand	CARRY IN HAND	412	кӯннҍтэ кидэ альн	kūnn’te kide al’n	kūnn’te kide al’n 
+775	14-10-613-1	74261616533292962	Kildin Saami	kild1236	to carry on shoulder	CARRY ON SHOULDER	413	кӯннҍтэ вуэлькэ альн	kūnn’te vuel’ke al’n	kūnn’te vuel’ke al’n 
+776	14-10-614-1	74261616876751426	Kildin Saami	kild1236	to carry on head	CARRY ON HEAD	414	кӯннҍтэ вуэйв альн	kūnn’te vuejv al’n	kūnn’te vuejv al’n 
+777	14-10-615-1	74261616397911987	Kildin Saami	kild1236	to carry under the arm	CARRY UNDER ARM	415	кӯннҍтэ карьнэль вульн	kūnn’te kar’nel’ vul’n	kūnn’te kar’nel’ vul’n 
+778	14-10-62-1	74261616323822718	Kildin Saami	kild1236	to bring	BRING	692	пыһтӭ	pɨht’e	pɨht’e 
+779	14-10-63-1	7426161663776863	Kildin Saami	kild1236	to send	SEND	1127	вӯлкхэ	vūlkxe	vūlkxe 
+780	14-10-64-1	74261616497152116	Kildin Saami	kild1236	to lead	LEAD (GUIDE)	43	во̄дтэ	vōdte	vōdte 
+781	14-10-65-1	74261616231316121	Kildin Saami	kild1236	to drive	DRIVE	741	выйе	vɨjje	vɨjje 
+782	14-10-66-1	74261616303498022	Kildin Saami	kild1236	to ride	RIDE	367	выйе е̄бшанҍ	vɨjje jēbšan’	vɨjje jēbšan’ 
+783	14-10-67-1	74261616407910675	Kildin Saami	kild1236	to push	PUSH	1452	оййкъе	ojjkje	ojjkje 
+784	14-10-71-1	74261616336933597	Kildin Saami	kild1236	the road	ROAD	667	кя̄ййн	keajjn	keajjn 
+785	14-10-72-1	7426161619356228	Kildin Saami	kild1236	the path	PATH	2252	ю̄нн	jūnn	jūnn 
+786	14-10-72-2	74261616900891778	Kildin Saami	kild1236	the path	PATH	2252	поалкас	poalkas	poalkas 
+787	14-10-74-1	74261616891585815	Kildin Saami	kild1236	the bridge	BRIDGE	1011	mо̄sst	mōsst	mōsst 
+788	14-10-74-2	7426161652171223	Kildin Saami	kild1236	the bridge	BRIDGE	1011	шалльт	šall’t	šall’t 
+789	14-10-75-1	74261616165583227	Kildin Saami	kild1236	the cart or wagon	CART	122	возвэ-соанн	vozve-soann	vozve-soann 
+790	14-10-76-1	74261616727949809	Kildin Saami	kild1236	the wheel	WHEEL	710	коалес	koal’es	koal’es 
+791	14-10-78-1	74261616457520914	Kildin Saami	kild1236	the yoke	YOKE	14	соан	soan	soan 
+792	14-10-81-1	7426161671617990	Kildin Saami	kild1236	the ship	SHIP	740	парходт	parxodt	parxodt 
+793	14-10-83-1	74261616432413062	Kildin Saami	kild1236	the boat	BOAT	1844	вэнс	vens	vens 
+794	14-10-831-1	74261616820068154	Kildin Saami	kild1236	the canoe	CANOE	1970	ё̄лла	jōlla	jōlla 
+795	14-10-832-1	74261616680622273	Kildin Saami	kild1236	the outrigger	OUTRIGGER	416	коччех	koččex	koččex 
+796	14-10-84-1	74261616649852683	Kildin Saami	kild1236	the raft	RAFT	1664	пуэррев	puerr’ev	puerr’ev 
+797	14-10-85-1	74261616913456143	Kildin Saami	kild1236	the oar	RUDDER	108	а̄ррьй	ārrj	ārrj 
+798	14-10-851-1	74261616535506097	Kildin Saami	kild1236	the paddle	PADDLE	234	ме̄лль	miell’	miell’ 
+799	14-10-852-1	74261616548652010	Kildin Saami	kild1236	to row	ROW	1849	сугкэ	sugke	sugke 
+800	14-10-86-1	74261616578650530	Kildin Saami	kild1236	the rudder	RUDDER	108	вӯһпь	vūhp’	vūhp’ 
+801	14-10-87-1	74261616698492379	Kildin Saami	kild1236	the mast	MAST	184	пӣлл	pīll	pīll 
+802	14-10-88-1	74261616154872430	Kildin Saami	kild1236	the sail	SAILCLOTH	786	порьяс	porjas	porjas 
+803	14-10-89-1	74261616679967883	Kildin Saami	kild1236	the anchor	ANCHOR	1870	ёакар	joakar	joakar 
+804	14-10-91-1	7426161622271898	Kildin Saami	kild1236	the port	PORT	610	са̄ттк	sāttk	sāttk 
+805	14-10-92-1	74261616793879730	Kildin Saami	kild1236	to land	LAND (DESCEND)	1922	ся̄ййвэ	seajjve	seajjve 
+806	14-11-12-1	74261616637259947	Kildin Saami	kild1236	to own	OWN	684	владье	vladje	vladje 
+807	14-11-13-1	74261616253635632	Kildin Saami	kild1236	to take	TAKE	1749	ва̄лльтэ	vāll’te	vāll’te 
+808	14-11-14-1	74261616706963983	Kildin Saami	kild1236	to grasp	SEIZE	855	каһце	kahc’e	kahc’e 
+809	14-11-15-1	74261616476130079	Kildin Saami	kild1236	to hold	HOLD	1448	оаннӭ	oann’e	oann’e 
+810	14-11-16-1	74261616594319579	Kildin Saami	kild1236	to get	GET	694	вуаннче	vuannče	vuannče 
+811	14-11-17-1	74261616767296961	Kildin Saami	kild1236	to keep	KEEP	1477	рӯкнэ	rūkne	rūkne 
+812	14-11-18-1	74261616205985608	Kildin Saami	kild1236	the thing	THING	738	ве̄шшь	viešš’	viešš’ 
+813	14-11-21-1	74261616499877857	Kildin Saami	kild1236	to give	GIVE	1447	аннҍтэ	ann’te	ann’te 
+814	14-11-22-1	74261616799872894	Kildin Saami	kild1236	to give back	GIVE BACK	85	ма̄цьхэ	māhc’xe	māhc’xe 
+815	14-11-24-1	74261616832423317	Kildin Saami	kild1236	to preserve	PRESERVE	1997	пынне	pɨnn’e	pɨnn’e 
+816	14-11-25-1	74261616784888645	Kildin Saami	kild1236	to rescue	RESCUE	2008	вуаннче	vuannče	vuannče 
+817	14-11-27-1	74261616381258587	Kildin Saami	kild1236	to destroy	DESTROY	681	муррьтэ	murr’tе	murr’tе 
+818	14-11-31-1	74261616846715912	Kildin Saami	kild1236	to look for	LOOK FOR	1468	о̄дзэ	ōʒe	ōʒe 
+819	14-11-32-1	74261616783509131	Kildin Saami	kild1236	to find	FIND	719	коаввнэ	koavvne	koavvne 
+820	14-11-33-1	74261616878671674	Kildin Saami	kild1236	to lose	LOSE	1660	ка̄дхэ	kādxe	kādxe 
+821	14-11-34-1	74261616354682884	Kildin Saami	kild1236	to let go	LET GO OR SET FREE	1095	лӯшшьтэ	lūšš’te	lūšš’te 
+822	14-11-43-1	74261616818225716	Kildin Saami	kild1236	the money	MONEY	1559	те̄ӈӈьк	tieŋŋ’k	tieŋŋ’k 
+823	14-11-44-1	74261616818225716	Kildin Saami	kild1236	the coin	COIN	1867	те̄ӈӈьк	tieŋŋ’k	tieŋŋ’k 
+824	14-11-51-1	74261616827512105	Kildin Saami	kild1236	rich	RICH	712	ва̄птэгк	vāptegk	vāptegk 
+825	14-11-52-1	74261616610214715	Kildin Saami	kild1236	poor	POOR	1674	ва̄йваш	vājvaš	vājvaš 
+826	14-11-53-1	74261616610214715	Kildin Saami	kild1236	the beggar	BEGGAR	1934	ва̄йваш	vājvaš	vājvaš 
+827	14-11-54-1	74261616944241702	Kildin Saami	kild1236	stingy	STINGY	1774	куһпесь	kuhp’es’	kuhp’es’ 
+828	14-11-61-1	74261616406468632	Kildin Saami	kild1236	to lend	LEND	582	ла̄йнсэ	lājnse	lājnse 
+829	14-11-62-1	74261616537523426	Kildin Saami	kild1236	to borrow	BORROW	1823	ла̄ййнэ	lājjne	lājjne 
+830	14-11-63-1	74261616588568182	Kildin Saami	kild1236	to owe	OWE	369	вя̄ллктуввэ	veallktuvve	veallktuvve 
+831	14-11-64-1	74261616555598432	Kildin Saami	kild1236	the debt	DEBT	1914	ве̄лльк	viell’k	viell’k 
+832	14-11-65-1	74261616650284257	Kildin Saami	kild1236	to pay	PAY	718	ма̄кьсэ	māk’se	māk’se 
+833	14-11-66-1	74261616248134447	Kildin Saami	kild1236	the bill	BILL	1081	лоагк	loagk	loagk 
+834	14-11-69-1	74261616325718974	Kildin Saami	kild1236	the tax	TAX	873	ма̄кьсэмуж	māk’semuž	māk’semuž 
+835	14-11-77-1	87152146320494976	Kildin Saami	kild1236	to hire	HIRE	856	па̄ӆӆьктэ	pāllh’kte	pāllh’kte 
+836	14-11-78-1	7426161614331161	Kildin Saami	kild1236	the wages	WAGES	1122	па̄ӆӆьк	pāllh’k	pāllh’k 
+837	14-11-79-1	74261616594319579	Kildin Saami	kild1236	to earn	EARN	733	вуаннче	vuannče	vuannče 
+838	14-11-81-1	74261616335354072	Kildin Saami	kild1236	to buy	BUY	1869	вуэссьтэ	vuess’te	vuess’te 
+839	14-11-82-1	74261616852630306	Kildin Saami	kild1236	to sell	SELL	1571	мӣгкэ	mīgke	mīgke 
+840	14-11-83-1	74261616685294913	Kildin Saami	kild1236	to trade or barter	TRADE OR BARTER	2135	воайхэ	voajxe	voajxe 
+841	14-11-84-1	74261616263320888	Kildin Saami	kild1236	the merchant	MERCHANT	1082	мӣгкэй	mīgkej	mīgkej 
+842	14-11-85-1	74261616908713002	Kildin Saami	kild1236	the market	MARKET	633	шӯрр сыййт	šūrr sɨjjt	šūrr sɨjjt 
+843	14-11-86-1	74261616923006515	Kildin Saami	kild1236	the shop/store	STORE	752	ла̅ффьк	lāff’k	lāff’k 
+844	14-11-87-1	74261616684846397	Kildin Saami	kild1236	the price	PRICE	657	а̄ррв	ārrv	ārrv 
+845	14-11-88-1	74261616174845723	Kildin Saami	kild1236	expensive	EXPENSIVE	1426	коаллэш	koalleš	koalleš 
+846	14-11-89-1	74261616939383445	Kildin Saami	kild1236	cheap	CHEAP	1887	вӯгаc	vūgas	vūgas 
+847	14-11-91-1	74261616686421541	Kildin Saami	kild1236	to share	SHARE	884	ю̄гке	jūgk’e	jūgk’e 
+848	14-11-92-1	74261616952925771	Kildin Saami	kild1236	to weigh	WEIGH	1098	виссьтэ	viss’te	viss’te 
+849	14-12-01-1	74261616586548361	Kildin Saami	kild1236	after	AFTER	1685	маӈӈа	maŋŋa	maŋŋa 
+850	14-12-011-1	83171552367703728	Kildin Saami	kild1236	behind	BEHIND	1686	маӈельт	maŋ’el’t	maŋ’el’t 
+851	14-12-02-1	74261616171960980	Kildin Saami	kild1236	beside	BESIDE	1816	луннҍ	lunn’	lunn’ 
+852	14-12-03-1	74261616484675408	Kildin Saami	kild1236	down	DOWN	1326	вэлас	velas	velas 
+853	14-12-04-1	74261616954254376	Kildin Saami	kild1236	before	BEFORE	1882	э̄ввтэль	ēvvtel’	ēvvtel’ 
+854	14-12-041-1	8317155989261205	Kildin Saami	kild1236	in front of	IN FRONT OF	1883	эвтэс	evtes	evtes 
+855	14-12-05-1	74261616193104840	Kildin Saami	kild1236	inside	INSIDE	1606	сызьн	sɨz’n	sɨz’n 
+856	14-12-06-1	74261616293499759	Kildin Saami	kild1236	outside	OUTSIDE	762	оаллкэнҍ	oallken’	oallken’ 
+857	14-12-07-1	742616161024787	Kildin Saami	kild1236	under	BELOW OR UNDER	1485	вульн	vul’n	vul’n 
+858	14-12-08-1	7426161620638574	Kildin Saami	kild1236	up	UP	1591	паяс	pajas	pajas 
+859	14-12-11-1	74261616836343618	Kildin Saami	kild1236	the place	PLACE (POSITION)	723	сайй	sajj	sajj 
+860	14-12-11-2	74261616832874603	Kildin Saami	kild1236	the place	PLACE (POSITION)	723	па̄ҋҋк	pājjhk	pājjhk 
+861	14-12-12-1	83291655637578300	Kildin Saami	kild1236	to put	PUT	998	пыйе	pɨjje	pɨjje 
+862	14-12-13-1	83291658430028112	Kildin Saami	kild1236	to sit	SIT	1416	ышштэ	ɨššte	ɨššte 
+863	14-12-14-1	74261616546677916	Kildin Saami	kild1236	to lie down	LIE DOWN	215	луввэ	luvve	luvve 
+864	14-12-15-1	7426161664885178	Kildin Saami	kild1236	to stand	STAND	1442	чуэннчэ	čuennče	čuennče 
+865	14-12-16-1	74261616850984624	Kildin Saami	kild1236	to remain	REMAIN	987	кӯдтсэллэ	kūdtselle	kūdtselle 
+866	14-12-17-1	74261616789400	Kildin Saami	kild1236	the remains	REMAINS	838	кудтъеш	kudtješ	kudtješ 
+867	14-12-21-1	74261616441177730	Kildin Saami	kild1236	to gather	GATHER	7	уссэ	usse	usse 
+868	14-12-21-2	74261616162504925	Kildin Saami	kild1236	to gather	GATHER	7	ко̄ппче	kōppče	kōppče 
+869	14-12-212-1	74261616327950481	Kildin Saami	kild1236	to pick up	PICK UP	371	пайнэ	pajne	pajne 
+870	14-12-213-1	74261616265772249	Kildin Saami	kild1236	to pile up	PILE UP	1576	поаррьтэ	poarr’te	poarr’te 
+871	14-12-22-1	74261616326159435	Kildin Saami	kild1236	to join	JOIN	1743	э̄ххтэ	ēxxte	ēxxte 
+872	14-12-23-1	74261616142461728	Kildin Saami	kild1236	to separate	SEPARATE	1359	ра̄ттҍкэ	rātt’ke	rātt’ke 
+873	14-12-232-1	7426161623088709	Kildin Saami	kild1236	to divide	DIVIDE	1119	ю̄гке	jūgke	jūgke 
+874	14-12-24-1	74261616105455148	Kildin Saami	kild1236	to open	OPEN	1156	а̄ввьдэ	āvv’de	āvv’de 
+875	14-12-25-1	74261616741377390	Kildin Saami	kild1236	to shut	SHUT	1046	ка̄һтӭ	kāht’e	kāht’e 
+876	14-12-26-1	74261616741377390	Kildin Saami	kild1236	to cover	COVER	761	ка̄һтӭ	kāht’e	kāht’e 
+877	14-12-27-1	74261616843974932	Kildin Saami	kild1236	to hide	HIDE (CONCEAL)	602	чӣгкэ	čīgke	čīgke 
+878	14-12-31-1	74261616572480192	Kildin Saami	kild1236	high	HIGH	1265	э̄лл	ēll	ēll 
+879	14-12-32-1	74261616651051137	Kildin Saami	kild1236	low	LOW	721	вӯлльгесь	vūll’ges’	vūll’ges’ 
+880	14-12-33-1	74261616281772003	Kildin Saami	kild1236	the top	TOP	1753	ладдҍв	ladd’v	ladd’v 
+881	14-12-34-1	7426161621369419	Kildin Saami	kild1236	the bottom	BOTTOM	690	поаннҍ	poann’	poann’ 
+882	14-12-35-1	74261616584112700	Kildin Saami	kild1236	the end(1)	END (OF SPACE)	742	ке̄джь	kieǯ	kieǯ 
+883	14-12-352-1	74261616675684988	Kildin Saami	kild1236	pointed	POINTED	372	чо̄гк	čōgk	čōgk 
+884	14-12-353-1	74261616838647622	Kildin Saami	kild1236	the edge	EDGE	863	рӯммт	rūmmt	rūmmt 
+885	14-12-36-1	74261616208274370	Kildin Saami	kild1236	the side	SIDE	682	е̄ҏҏьт	jērrh’t	jērrh’t 
+886	14-12-37-1	74261616452316897	Kildin Saami	kild1236	the middle	MIDDLE	1093	кэ̄сск	kēssk	kēssk 
+887	14-12-41-1	74261616201113842	Kildin Saami	kild1236	right(1)	RIGHT	1019	вуэлькесь	vuel’kes’	vuel’kes’ 
+888	14-12-42-1	74261616128196856	Kildin Saami	kild1236	left	LEFT	244	чинч	činč	činč 
+889	14-12-43-1	74261616123135153	Kildin Saami	kild1236	near	NEAR	1942	алльт	all’t	all’t 
+890	14-12-44-1	74261616253738657	Kildin Saami	kild1236	far	FAR	1406	куһкенҍ	kuhk’en’	kuhk’en’ 
+891	14-12-45-1	74261616392804761	Kildin Saami	kild1236	the east	EAST	1877	нуҏҏьт	nurrh’t	nurrh’t 
+892	14-12-46-1	74261616719607580	Kildin Saami	kild1236	the west	WEST	1817	вуэрьял	vuerjal	vuerjal 
+893	14-12-47-1	74261616977369490	Kildin Saami	kild1236	the north	NORTH	1598	таввял	tavv’аl	tavv’аl 
+894	14-12-48-1	74261616793753497	Kildin Saami	kild1236	the south	SOUTH	1595	со̄а̄ййв	soajjv	soajjv 
+895	14-12-53-1	74261616198483662	Kildin Saami	kild1236	to grow	GROW	479	шэ̄ннтэ	šēnnte	šēnnte 
+896	14-12-54-1	74261616957922981	Kildin Saami	kild1236	to measure	MEASURE	1506	сэ̄ллдэ	sēllde	sēllde 
+897	14-12-541-1	74261616282717722	Kildin Saami	kild1236	the fathom	FATHOM	81	сэ̄лл	sēll	sēll 
+898	14-12-55-1	74261616360817567	Kildin Saami	kild1236	big	BIG	1202	шӯрр	šūrr	šūrr 
+899	14-12-56-1	74261616820410823	Kildin Saami	kild1236	small	SMALL	1246	удць	udc’	udc’ 
+900	14-12-57-1	74261616136432106	Kildin Saami	kild1236	long	LONG	1203	кукесь	kuk’es’	kuk’es’ 
+901	14-12-58-1	74261616360817567	Kildin Saami	kild1236	tall	TALL	711	шӯрр	šūrr	šūrr 
+902	14-12-59-1	74261616255830975	Kildin Saami	kild1236	short	SHORT	1645	оаньхесь	oan’xes’	oan’xes’ 
+903	14-12-61-1	74261616978167334	Kildin Saami	kild1236	wide	WIDE	1243	ко̄ммьтэсь	kōmm’tes’	kōmm’tes’ 
+904	14-12-62-1	74261616281633578	Kildin Saami	kild1236	narrow	NARROW	1267	ке̄нҍцесь	kien’ces’	kien’ces’ 
+905	14-12-63-1	74261616931578458	Kildin Saami	kild1236	thick	THICK	1244	кэ̄сс	kēss	kēss 
+906	14-12-65-1	74261616168445529	Kildin Saami	kild1236	thin	THIN (OF SHAPE OF OBJECT)	2249	се̄ӈькесь	sieŋ’kes’	sieŋ’kes’ 
+907	14-12-67-1	74261616816687780	Kildin Saami	kild1236	deep	DEEP	1593	чӣӈӈлэ	čīŋŋle	čīŋŋle 
+908	14-12-68-1	74261616822374286	Kildin Saami	kild1236	shallow	SHALLOW	193	цуэгесь	cueg’es’	cueg’es’ 
+909	14-12-71-1	74261616707830084	Kildin Saami	kild1236	flat	FLAT	1633	нёллькесь	njoll’kes’	njoll’kes’ 
+910	14-12-73-1	74261616635789926	Kildin Saami	kild1236	straight	STRAIGHT	1404	нёллкэ	njollke	njollke 
+911	14-12-74-1	74261616442082587	Kildin Saami	kild1236	crooked	CROOKED	297	поаннь	poannj	poannj 
+912	14-12-75-1	74261616504667754	Kildin Saami	kild1236	the hook	HOOK	1071	ваӈӈьк	vaŋŋ’k	vaŋŋ’k 
+913	14-12-76-1	74261616389786982	Kildin Saami	kild1236	the corner	CORNER	192	чӣгк	čīgk	čīgk 
+914	14-12-77-1	74261616641929418	Kildin Saami	kild1236	the cross	CROSS	1367	рысст	rɨsst	rɨsst 
+915	14-12-78-1	7426161622514135	Kildin Saami	kild1236	the square	SQUARE	850	не̄лльй-чӣгк	njiellj-čīgk	njiellj-čīgk 
+916	14-12-81-1	8411317696849159	Kildin Saami	kild1236	round	ROUND	1395	ёррьпесь	jorr’pes’	jorr’pes’ 
+917	14-12-82-1	74261616438086491	Kildin Saami	kild1236	the circle	CIRCLE	1467	пырр-ёррьпесь	pɨrr-jorr’pes’	pɨrr-jorr’pes’ 
+918	14-12-83-1	7426161633803359	Kildin Saami	kild1236	the ball	BALL	1845	па̄лл	pāll	pāll 
+919	14-12-84-1	74261616414058439	Kildin Saami	kild1236	the line	LINE	1048	цякас	ceakas	ceakas 
+920	14-12-85-1	74261616673452024	Kildin Saami	kild1236	the hole	HOLE	1667	ра̄ййк	rājjk	rājjk 
+921	14-12-92-1	74261616883053084	Kildin Saami	kild1236	similar	SIMILAR	1558	эфтналшэм	eftnalšem	eftnalšem 
+922	14-12-93-1	74261616685294913	Kildin Saami	kild1236	to change	CHANGE	1264	воайхэ	voajxe	voajxe 
+923	14-13-1	74261616868871196	Kildin Saami	kild1236	zero	ZERO	1294	нолл	noll	noll 
+924	14-13-01-1	8411328409930379	Kildin Saami	kild1236	one	ONE	1493	э̄ххт	ēxxt	ēxxt 
+925	14-13-02-1	74261616551976515	Kildin Saami	kild1236	two	TWO	1498	кӯһт	kūht	kūht 
+926	14-13-03-1	74261616769423777	Kildin Saami	kild1236	three	THREE	492	ко̄ллм	kōllm	kōllm 
+927	14-13-04-1	74261616860424209	Kildin Saami	kild1236	four	FOUR	1500	не̄лльй	njiellj	njiellj 
+928	14-13-05-1	7426161652004459	Kildin Saami	kild1236	five	FIVE	493	выдт	vɨdt	vɨdt 
+929	14-13-06-1	74261616435420871	Kildin Saami	kild1236	six	SIX	1703	кудт	kudt	kudt 
+930	14-13-07-1	74261616383373244	Kildin Saami	kild1236	seven	SEVEN	1704	кыджемь	kɨǯem’	kɨǯem’ 
+931	14-13-08-1	74261616557287096	Kildin Saami	kild1236	eight	EIGHT	1705	ка̄ххц	kāxxc	kāxxc 
+932	14-13-09-1	74261616271497741	Kildin Saami	kild1236	nine	NINE	1483	аххц	axxc	axxc 
+933	14-13-1-1	74261616484343510	Kildin Saami	kild1236	ten	TEN	1515	лоагкь	loagk’	loagk’ 
+934	14-13-101-1	74261616324696694	Kildin Saami	kild1236	eleven	ELEVEN	1706	э̄ххтэмплоагкь	ēxxtemploagk’	ēxxtemploagk’ 
+935	14-13-102-1	74261616929863074	Kildin Saami	kild1236	twelve	TWELVE	1707	куххтэмплоагкь	kuxxtemploagk’	kuxxtemploagk’ 
+936	14-13-103-1	74261616458836726	Kildin Saami	kild1236	fifteen	FIFTEEN	1709	выдтэмплоагкь	vɨdtemploagk’	vɨdtemploagk’ 
+937	14-13-104-1	74261616279113301	Kildin Saami	kild1236	twenty	TWENTY	1710	куххтлоагкь	kuxxtloagk’	kuxxtloagk’ 
+938	14-13-105-1	74261616883453008	Kildin Saami	kild1236	a hundred	HUNDRED	1634	чӯдть	čūdt’	čūdt’ 
+939	14-13-106-1	74261616336273996	Kildin Saami	kild1236	a thousand	THOUSAND	1843	тоафант	toafant	toafant 
+940	14-13-107-1	74261616467413850	Kildin Saami	kild1236	to count	COUNT	1420	ло̄гкэ	lōgke	lōgke 
+941	14-13-14-1	74261616466141969	Kildin Saami	kild1236	all	ALL	98	пугк	pugk	pugk 
+942	14-13-15-1	7426161684259608	Kildin Saami	kild1236	many	MANY	1198	е̄ннэ	jēnne	jēnne 
+943	14-13-16-1	74261616247470407	Kildin Saami	kild1236	more	MORE	1992	е̄на	jēna	jēna 
+944	14-13-17-1	74261616881334936	Kildin Saami	kild1236	few	FEW	1242	ва̄нас	vānas	vānas 
+945	14-13-18-1	74261616539780962	Kildin Saami	kild1236	enough	ENOUGH	1881	те̄ввт	tievvt	tievvt 
+946	14-13-181-1	74261616647909317	Kildin Saami	kild1236	some	SOME	1241	мугка-ве̄рьт	mugka-vier’t	mugka-vier’t 
+947	14-13-19-1	74261616306204927	Kildin Saami	kild1236	the crowd	CROWD	2023	ла̄ннҍт	lānn’t	lānn’t 
+948	14-13-21-1	74261616539780962	Kildin Saami	kild1236	full	FULL	1429	те̄ввт	tievvt	tievvt 
+949	14-13-22-1	74261616376392305	Kildin Saami	kild1236	empty	EMPTY	1624	курас	kuras	kuras 
+950	14-13-23-1	74261616963794278	Kildin Saami	kild1236	the part	PART	779	кусськ	kuss’k	kuss’k 
+951	14-13-24-1	74261616442355029	Kildin Saami	kild1236	the half	HALF	816	пе̄лль	piell’	piell’ 
+952	14-13-33-1	74261616199806951	Kildin Saami	kild1236	only	ONLY	1580	о̄ххтэ	ōxxte	ōxxte 
+953	14-13-34-1	74261616386477848	Kildin Saami	kild1236	first	FIRST	728	пе̄рвэ	pierve	pierve 
+954	14-13-34-2	7426161651077571	Kildin Saami	kild1236	first	FIRST	728	авьтмусс	av’tmuss	av’tmuss 
+955	14-13-35-1	74261616787785684	Kildin Saami	kild1236	last	LAST (FINAL)	1529	ма̄ӈьесь	māŋjes’	māŋjes’ 
+956	14-13-36-1	74261616171549749	Kildin Saami	kild1236	second	SECOND	1384	ныммьп второй ныммьп	nɨmm’p	nɨmm’p 
+957	14-13-37-1	74261616294886218	Kildin Saami	kild1236	the pair	PAIR	1888	кутӓс	kut’as	kut’as 
+958	14-13-38-1	74261616313618211	Kildin Saami	kild1236	twice/two times	TWICE	1546	кӯһт вуэр	kūht vuer	kūht vuer 
+959	14-13-42-1	742616163356063	Kildin Saami	kild1236	third	THIRD	1859	куаллмант	kuallmant	kuallmant 
+960	14-13-44-1	74261616354013679	Kildin Saami	kild1236	three times	THREE TIMES	417	ко̄лм вуэр	kōlm vuer	kōlm vuer 
+961	14-14-11-1	74261616602645365	Kildin Saami	kild1236	the time	TIME	892	а̄ййк	ājjk	ājjk 
+962	14-14-12-1	74261616534471425	Kildin Saami	kild1236	the age	AGE	1789	агкь	agk’	agk’ 
+963	14-14-13-1	74261616922960096	Kildin Saami	kild1236	new	NEW	1231	о̄дт	ōdt	ōdt 
+964	14-14-14-1	74261616654592261	Kildin Saami	kild1236	young	YOUNG	1207	нӯрр	nūrr	nūrr 
+965	14-14-15-1	74261616425118544	Kildin Saami	kild1236	old	OLD	1229	пуэресь	puer’es’	puer’es’ 
+966	14-14-15-2	74261616432788036	Kildin Saami	kild1236	old	OLD	1229	вӯрас	vūras	vūras 
+967	14-14-16-1	74261616239397859	Kildin Saami	kild1236	early	EARLY	672	а̄йкалт	ājkalt	ājkalt 
+968	14-14-17-1	74261616238630429	Kildin Saami	kild1236	late	LATE	477	маӈӈедҍ	maŋŋ’ed’	maŋŋ’ed’ 
+969	14-14-18-1	74261616852776782	Kildin Saami	kild1236	now	NOW	1376	есськ	jess’k	jess’k 
+970	14-14-19-1	74261616120606592	Kildin Saami	kild1236	immediately	IMMEDIATELY	1963	тала-тала	tala-tala	tala-tala 
+971	14-14-21-1	74261616750991993	Kildin Saami	kild1236	fast	FAST	1631	ӯдлэсь	ūdles’	ūdles’ 
+972	14-14-22-1	74261616628035528	Kildin Saami	kild1236	slow	SLOW	701	мя̄лкас	mealkas	mealkas 
+973	14-14-23-1	74261616868476653	Kildin Saami	kild1236	to hurry	HURRY	754	кыҏтэ	kɨrhte	kɨrhte 
+974	14-14-24-1	74261616941380273	Kildin Saami	kild1236	to be late	BE LATE	425	маӈӈнэ	maŋŋne	maŋŋne 
+975	14-14-25-1	74261616901975429	Kildin Saami	kild1236	to begin	BEGIN	1806	аллькэ	all’ke	all’ke 
+976	14-14-252-1	74261616561527374	Kildin Saami	kild1236	to last	LAST (ENDURE)	1186	мэ̄ннэ	mēnne	mēnne 
+977	14-14-26-1	74261616584112700	Kildin Saami	kild1236	the end(2)	END (OF TIME)	743	ке̄джь	kieǯ	kieǯ 
+978	14-14-27-1	74261616137045502	Kildin Saami	kild1236	to finish	FINISH	1766	луэппьтэ	luepp’te	luepp’te 
+979	14-14-28-1	74261616273397287	Kildin Saami	kild1236	to cease	CEASE	1928	кӣрркнэ	kīrrkne	kīrrkne 
+980	14-14-29-1	74261616987220592	Kildin Saami	kild1236	ready	READY	790	воалмаш	voalmaš	voalmaš 
+981	14-14-31-1	74261616583367195	Kildin Saami	kild1236	always	ALWAYS	1676	пай	paj	paj 
+982	14-14-32-1	74261616501918980	Kildin Saami	kild1236	often	OFTEN	1852	тоаййв	toajjv	toajjv 
+983	14-14-33-1	74261616809538227	Kildin Saami	kild1236	sometimes	SOMETIMES	1544	мудта-вуэр	mudta-vuer	mudta-vuer 
+984	14-14-331-1	74261616199009873	Kildin Saami	kild1236	soon	SOON	703	вэхтэнне	vextenn’e	vextenn’e 
+985	14-14-332-1	74261616611699899	Kildin Saami	kild1236	for a long time	FOR A LONG TIME	418	кугкь-вуэр	kugk’-vuer	kugk’-vuer 
+986	14-14-34-1	74261616127733669	Kildin Saami	kild1236	never	NEVER	1656	никуэссь	nikuess’	nikuess’ 
+987	14-14-35-1	74261616956355073	Kildin Saami	kild1236	again	AGAIN	204	аввта	avvta	avvta 
+988	14-14-41-1	74261616854068875	Kildin Saami	kild1236	the day(1)	DAY (24 HOURS)	1260	пе̄ййв	piejjv	piejjv 
+989	14-14-42-1	74261616464448264	Kildin Saami	kild1236	the night	NIGHT	1233	ыйй	ɨjj	ɨjj 
+990	14-14-43-1	74261616569597494	Kildin Saami	kild1236	the dawn	DAWN	729	куэфс	kuefs	kuefs 
+991	14-14-44-1	74261616109041276	Kildin Saami	kild1236	the morning	MORNING	1339	ӣнцкэнч	īnckenč	īnckenč 
+992	14-14-45-1	742616162094438	Kildin Saami	kild1236	the midday	MIDDAY	12	пе̄ййв-кэ̄сск	piejjv-kēssk	piejjv-kēssk 
+993	14-14-451-1	74261616474273769	Kildin Saami	kild1236	the afternoon	AFTERNOON	1807	маӈӈа пе̄ййвкэсск	maŋŋa piejjvkessk	maŋŋa piejjvkessk 
+994	14-14-46-1	74261616122000917	Kildin Saami	kild1236	the evening	EVENING	1629	е̄кьнэнч	jēk’nenč	jēk’nenč 
+995	14-14-47-1	74261616379597273	Kildin Saami	kild1236	today	TODAY	1283	та̄ррьм	tārr’m	tārr’m 
+996	14-14-48-1	74261616501788624	Kildin Saami	kild1236	tomorrow	TOMORROW	1329	ента	jenta	jenta 
+997	14-14-481-1	74261616513862163	Kildin Saami	kild1236	the day after tomorrow	DAY AFTER TOMORROW	1179	маӈӈа ента	maŋŋa jenta	maŋŋa jenta 
+998	14-14-49-1	74261616780110913	Kildin Saami	kild1236	yesterday	YESTERDAY	1174	еххта	jexxta	jexxta 
+999	14-14-491-1	74261616372152339	Kildin Saami	kild1236	the day before yesterday	DAY BEFORE YESTERDAY	1180	тунн-пе̄йвэсьт	tunn-piejves’t	tunn-piejves’t 
+1000	14-14-51-1	74261616882915627	Kildin Saami	kild1236	the hour	HOUR	1353	ча̄сс	čāss	čāss 
+1001	14-14-53-1	74261616882915627	Kildin Saami	kild1236	the clock	CLOCK	1323	ча̄сс	čāss	čāss 
+1002	14-14-61-1	74261616311864260	Kildin Saami	kild1236	the week	WEEK	1469	не̄дтӭль	niedt’el’	niedt’el’ 
+1003	14-14-62-1	74261616576594802	Kildin Saami	kild1236	Sunday	SUNDAY	1699	па̄ссь-пе̄ййв	pāss’-piejjv	pāss’-piejjv 
+1004	14-14-63-1	74261616909048397	Kildin Saami	kild1236	Monday	MONDAY	1697	вӯсоаррк	vūsoarrk	vūsoarrk 
+1005	14-14-64-1	74261616906466034	Kildin Saami	kild1236	Tuesday	TUESDAY	1695	ныммьпоарк	nɨmm’poark	nɨmm’poark 
+1006	14-14-65-1	7426161620904095	Kildin Saami	kild1236	Wednesday	WEDNESDAY	1694	кӯа̄лмант-пе̄ййв	kualmant-piejjv	kualmant-piejjv 
+1007	14-14-66-1	74261616284439673	Kildin Saami	kild1236	Thursday	THURSDAY	1693	ня̄льянт-пе̄ййв	njealjаnt-piejjv	njealjаnt-piejjv 
+1008	14-14-67-1	74261616961631100	Kildin Saami	kild1236	Friday	FRIDAY	1692	выдант-пе̄ййв	vɨdant-piejjv	vɨdant-piejjv 
+1009	14-14-68-1	74261616574470342	Kildin Saami	kild1236	Saturday	SATURDAY	1700	сӯвведҍ	sūvv’ed’	sūvv’ed’ 
+1010	14-14-71-1	74261616466434969	Kildin Saami	kild1236	the month	MONTH	1370	ма̄нн	mānn	mānn 
+1011	14-14-73-1	74261616684786314	Kildin Saami	kild1236	the year	YEAR	1226	ыгкь	ɨgk’	ɨgk’ 
+1012	14-14-74-1	74261616741993798	Kildin Saami	kild1236	the winter	WINTER	1471	та̄лльв	tāll’v	tāll’v 
+1013	14-14-75-1	7426161644075428	Kildin Saami	kild1236	the spring(2)	SPRINGTIME	1537	кыдт	kɨdt	kɨdt 
+1014	14-14-76-1	7426161643341771	Kildin Saami	kild1236	the summer	SUMMER	1342	ке̄ссь	kiess’	kiess’ 
+1015	14-14-77-1	7426161675347603	Kildin Saami	kild1236	the autumn/fall	AUTUMN	1276	че̄ххч	čēxxč	čēxxč 
+1016	14-14-78-1	74261616568138183	Kildin Saami	kild1236	the season	SEASON	691	ыгкь-па̄лль	ɨgk’-pāll’	ɨgk’-pāll’ 
+1017	14-15-21-1	74261616554344874	Kildin Saami	kild1236	to smell(1)	SMELL (STINK)	1587	аппьсэ	app’se	app’se 
+1018	14-15-89-1	742616162079068	Kildin Saami	kild1236	wrinkled	WRINKLED	380	меллъюввма	mielljuvvma	mielljuvvma 
+1019	14-15-212-1	74261616554344874	Kildin Saami	kild1236	to sniff	SNIFF	375	аппьсэ	app’se	app’se 
+1020	14-15-22-1	74261616554344874	Kildin Saami	kild1236	to smell(2)	SMELL (PERCEIVE)	1586	аппьсэ	app’se	app’se 
+1021	14-15-25-1	74261616665970756	Kildin Saami	kild1236	fragrant	FRAGRANT	376	лэ̄гкье	lēgkje	lēgkje 
+1022	14-15-26-1	74261616879388628	Kildin Saami	kild1236	stinking	STINKING	42	апс	aps	aps 
+1023	14-15-31-1	74261616153945179	Kildin Saami	kild1236	to taste	TASTE (SOMETHING)	21	ня̄лльк	njāll’k	njāll’k 
+1024	14-15-35-1	74261616469484159	Kildin Saami	kild1236	sweet	SWEET	717	ня̄лькесь	njāl’kes’	njāl’kes’ 
+1025	14-15-36-1	74261616869354498	Kildin Saami	kild1236	salty	SALTY	1091	сӯлль	sūll’	sūll’ 
+1026	14-15-37-1	7426161687999002	Kildin Saami	kild1236	bitter	BITTER	887	пыччкэр	pɨččker	pɨččker 
+1027	14-15-38-1	74261616382855665	Kildin Saami	kild1236	sour	SOUR	1906	кӯцц	kūcc	kūcc 
+1028	14-15-39-1	74261616549078421	Kildin Saami	kild1236	brackish	BRACKISH	70	ва̄ннҍ-сӯлль	vānn’-sūll’	vānn’-sūll’ 
+1029	14-15-41-1	74261616634207326	Kildin Saami	kild1236	to hear	HEAR	1408	куллэ	kulle	kulle 
+1030	14-15-42-1	74261616634207326	Kildin Saami	kild1236	to listen	LISTEN	1608	куллэ	kulle	kulle 
+1031	14-15-44-1	74261616111656924	Kildin Saami	kild1236	the sound or noise	SOUND OR NOISE	1811	ёафф	joaff	joaff 
+1032	14-15-45-1	7426161683233501	Kildin Saami	kild1236	loud	LOUD	377	иннҍесь	innjes’	innjes’ 
+1033	14-15-46-1	74261616173537924	Kildin Saami	kild1236	quiet	QUIET	1314	суэнӭсь	suen’es’	suen’es’ 
+1034	14-15-51-1	74261616102877611	Kildin Saami	kild1236	to see	SEE	1409	уййнэ	ujjne	ujjne 
+1035	14-15-52-1	74261616215475218	Kildin Saami	kild1236	to look	LOOK	1819	кӣһче	kīhče	kīhče 
+1036	14-15-55-1	74261616182171293	Kildin Saami	kild1236	to show	SHOW	1039	вӯзьхэ	vūz’xe	vūz’xe 
+1037	14-15-56-1	74261616239286719	Kildin Saami	kild1236	to shine	SHINE	708	па̄шшьтэ	pāšš’te	pāšš’te 
+1038	14-15-56-2	74261616763559433	Kildin Saami	kild1236	to shine	SHINE	708	чуввэ	čuvve	čuvve 
+1039	14-15-56-3	7426161664833117	Kildin Saami	kild1236	to shine	SHINE	708	тӯссэ	tūsse	tūsse 
+1040	14-15-56-4	74261616802247347	Kildin Saami	kild1236	to shine	SHINE	708	кыҋҋм	kɨjjhm	kɨjjhm 
+1041	14-15-57-1	74261616281507822	Kildin Saami	kild1236	bright	BRIGHT	679	чӯввесь	čūvv’es’	čūvv’es’ 
+1042	14-15-61-1	74261616966355036	Kildin Saami	kild1236	the colour/color	COLOR	1613	ыввьн	ɨvv’n	ɨvv’n 
+1043	14-15-62-1	74261616281507822	Kildin Saami	kild1236	light(2)	LIGHT (COLOR)	250	чӯввесь	čūvv’es’	čūvv’es’ 
+1044	14-15-63-1	74261616724332644	Kildin Saami	kild1236	dark	DARK	706	се̄вьнесь	siev’njes’	siev’njes’ 
+1045	14-15-64-1	74261616584294210	Kildin Saami	kild1236	white	WHITE	1335	вӣллкэ	vīllke	vīllke 
+1046	14-15-65-1	7426161699339740	Kildin Saami	kild1236	black	BLACK	163	чоаһпэ	čoahpe	čoahpe 
+1047	14-15-66-1	74261616917506753	Kildin Saami	kild1236	red	RED	156	рӯппсэ	rūppse	rūppse 
+1048	14-15-67-1	74261616436102917	Kildin Saami	kild1236	blue	BLUE	837	алех	al’ex	al’ex 
+1049	14-15-68-1	74261616599546787	Kildin Saami	kild1236	green	GREEN	1425	руэнн	ruenn	ruenn 
+1050	14-15-69-1	74261616595667329	Kildin Saami	kild1236	yellow	YELLOW	1424	руччкесь	ruččkes’	ruččkes’ 
+1051	14-15-71-1	74261616978409	Kildin Saami	kild1236	to touch	TOUCH	1892	лыкхэллэ	lɨkxelle	lɨkxelle 
+1052	14-15-712-1	74261616375435040	Kildin Saami	kild1236	to pinch	PINCH	378	ра̄ппче	rāppče	rāppče 
+1053	14-15-72-1	74261616634207326	Kildin Saami	kild1236	to feel	FEEL	1079	куллэ	kulle	kulle 
+1054	14-15-74-1	7426161615239538	Kildin Saami	kild1236	hard	HARD	1884	кэ̄рр	kērr	kērr 
+1055	14-15-75-1	74261616170747411	Kildin Saami	kild1236	soft	SOFT	1856	сӯбпесь	sūbp’es’	sūbp’es’ 
+1056	14-15-76-1	7426161615239538	Kildin Saami	kild1236	rough(1)	ROUGH	1923	кэ̄рр	kērr	kērr 
+1057	14-15-77-1	74261616707830084	Kildin Saami	kild1236	smooth	SMOOTH	1234	нёллькесь	njoll’kes’	njoll’kes’ 
+1058	14-15-78-1	74261616976857851	Kildin Saami	kild1236	sharp	SHARP	1396	пассьтлэсь	pass’tles’	pass’tles’ 
+1059	14-15-79-1	74261616749165921	Kildin Saami	kild1236	blunt	BLUNT	379	ме̄ресь	mier’es’	mier’es’ 
+1060	14-15-81-1	74261616881234104	Kildin Saami	kild1236	heavy	HEAVY	1210	ло̄ссесь	lōss’es’	lōss’es’ 
+1061	14-15-82-1	74261616112760108	Kildin Saami	kild1236	light(1)	LIGHT (WEIGHT)	1052	ке̄һпесь	kiehp’es’	kiehp’es’ 
+1062	14-15-83-1	74261616691933493	Kildin Saami	kild1236	wet	WET	1726	ню̄цкас	njūckas	njūckas 
+1063	14-15-84-1	74261616762632140	Kildin Saami	kild1236	dry	DRY	1398	коашькэсь	koaš’kes’	koaš’kes’ 
+1064	14-15-85-1	74261616968736360	Kildin Saami	kild1236	hot	HOT	1286	пӯллэ	pūlle	pūlle 
+1065	14-15-851-1	74261616659550896	Kildin Saami	kild1236	warm	WARM	1232	поаһк	poahk	poahk 
+1066	14-15-86-1	74261616225025850	Kildin Saami	kild1236	cold	COLD	1287	кэлмас	kelmas	kelmas 
+1067	14-15-87-1	74261616280780935	Kildin Saami	kild1236	clean	CLEAN	704	чӣллк	čīllk	čīllk 
+1068	14-15-88-1	74261616788395813	Kildin Saami	kild1236	dirty	DIRTY	1230	са̄ккьс	sākk’s	sākk’s 
+1069	14-16-11-1	74261616251661904	Kildin Saami	kild1236	the soul or spirit	SOUL	811	ӣӈӈк	īŋŋk	īŋŋk 
+1070	14-16-15-1	74261616563901477	Kildin Saami	kild1236	surprised or astonished	SURPRISED	1572	тыгквэннҍ	tɨgkvenn’	tɨgkvenn’ 
+1071	14-16-18-1	74261616893753479	Kildin Saami	kild1236	the good luck	GOOD LUCK	720	вуэссь	vuess’	vuess’ 
+1072	14-16-19-1	74261616257253085	Kildin Saami	kild1236	the bad luck	BAD LUCK	56	на̄льхуввэ	nаl’xuvvе	nаl’xuvvе 
+1073	14-16-23-1	74261616428327995	Kildin Saami	kild1236	happy	HAPPY	1495	роаммесь	roamm’es’	roamm’es’ 
+1074	14-16-25-1	7426161663334293	Kildin Saami	kild1236	to laugh	LAUGH	1355	сӣййнэ	sījjne	sījjne 
+1075	14-16-25-2	74261616198426416	Kildin Saami	kild1236	to laugh	LAUGH	1355	тӣшш	tīšš	tīšš 
+1076	14-16-251-1	74261616811275909	Kildin Saami	kild1236	to smile	SMILE	1451	муэййнэннтэ	muejjnennte	muejjnennte 
+1077	14-16-26-1	74261616224121037	Kildin Saami	kild1236	to play	PLAY	1413	сӣррэ	sīrre	sīrre 
+1078	14-16-27-1	74261616993538934	Kildin Saami	kild1236	to love	LOVE	923	шоабпшэ	šoabpše	šoabpše 
+1079	14-16-29-1	74261616871671752	Kildin Saami	kild1236	to kiss	KISS	578	нӣссэ	nīsse	nīsse 
+1080	14-16-3-1	74261616934780153	Kildin Saami	kild1236	to embrace	EMBRACE	928	ассктэ	asskte	asskte 
+1081	14-16-31-1	74261616985706759	Kildin Saami	kild1236	the pain	PAIN	1783	поафчас	pоаfčas	pоаfčas 
+1082	14-16-32-1	74261616781321744	Kildin Saami	kild1236	the grief	GRIEF	1668	тоасськ	toass’k	toass’k 
+1083	14-16-33-1	74261616967950646	Kildin Saami	kild1236	the anxiety	ANXIETY	1000	пя̄дцэль	peadcel’	peadcel’ 
+1084	14-16-34-1	74261616994428857	Kildin Saami	kild1236	to regret or be sorry	REGRET	1875	шоалшэ	šoalše	šoalše 
+1085	14-16-37-1	74261616663723151	Kildin Saami	kild1236	to cry	CRY	1839	лӯҋҋкэ	lūjjh’ke	lūjjh’ke 
+1086	14-16-38-1	74261616963791877	Kildin Saami	kild1236	the tear	TEAR (OF EYE)	1651	кэ̄нял	kēnjal	kēnjal 
+1087	14-16-39-1	74261616990011082	Kildin Saami	kild1236	to groan	GROAN	716	вуаһкэ	vuahke	vuahke 
+1088	14-16-41-1	74261616166035611	Kildin Saami	kild1236	to hate	HATE	1607	ваййдэ	vajjde	vajjde 
+1089	14-16-42-1	74261616452618796	Kildin Saami	kild1236	the anger	ANGER	82	се̄ннтмушш	siennte	siennte 
+1090	14-16-44-1	74261616963058671	Kildin Saami	kild1236	the envy or jealousy	ENVY	40	лоллэ	lolle	lolle 
+1091	14-16-45-1	74261616157037227	Kildin Saami	kild1236	the shame	SHAME	1776	оккнэ	okkne	okkne 
+1092	14-16-48-1	74261616616230421	Kildin Saami	kild1236	proud	PROUD	174	ыллпэ	ɨllpe	ɨllpe 
+1093	14-16-51-1	74261616361820473	Kildin Saami	kild1236	to dare	DARE	1779	тӯсстэ	tūsste	tūsste 
+1094	14-16-52-1	74261616942503029	Kildin Saami	kild1236	brave	BRAVE	3	тӯсстлэсь	tūsstles’	tūsstles’ 
+1095	14-16-53-1	74261616407741151	Kildin Saami	kild1236	the fear	FEAR (FRIGHT)	781	пэ̄ллэ	pēlle	pēlle 
+1096	14-16-54-1	74261616237190029	Kildin Saami	kild1236	the danger	DANGER	1810	пэӆтэсс	pelhtess	pelhtess 
+1097	14-16-62-1	74261616483183549	Kildin Saami	kild1236	to want	WANT	1784	та̄һтэ	tāhte	tāhte 
+1098	14-16-622-1	74261616471584363	Kildin Saami	kild1236	to choose	CHOOSE	1750	воалшэ	voalše	voalše 
+1099	14-16-63-1	74261616762341010	Kildin Saami	kild1236	to hope	HOPE (SOMETHING)	3212	на̄дҍедтэ	nādjedte	nādjedte 
+1100	14-16-65-1	74261616246606669	Kildin Saami	kild1236	faithful	FAITHFUL	100	вӯййк	vūjjk	vūjjk 
+1101	14-16-66-1	74261616470773383	Kildin Saami	kild1236	true	TRUE	1657	зоабэль	zoabel’	zoabel’ 
+1102	14-16-66-2	74261616208697083	Kildin Saami	kild1236	true	TRUE	1657	э̄ллм	ēllm	ēllm 
+1103	14-16-67-1	74261616455445640	Kildin Saami	kild1236	to lie(2)	LIE (MISLEAD)	601	ке̄лсэллэ	kielselle	kielselle 
+1104	14-16-68-1	7426161693739636	Kildin Saami	kild1236	the deceit	DECEIT	13	ву̅йхэллэ	vūjxelle	vūjxelle 
+1105	14-16-69-1	74261616567480401	Kildin Saami	kild1236	to forgive	FORGIVE	1528	проашшъе	proaššje	proaššje 
+1106	14-16-71-1	74261616447203197	Kildin Saami	kild1236	good	GOOD	1035	шӣг	šig	šig 
+1107	14-16-71-2	74261616477956465	Kildin Saami	kild1236	good	GOOD	1035	пӯррь	pūrr’	pūrr’ 
+1108	14-16-72-1	74261616757358013	Kildin Saami	kild1236	bad	BAD	1292	нюэссь	njuess’	njuess’ 
+1109	14-16-73-1	74261616246606669	Kildin Saami	kild1236	right(2)	CORRECT (RIGHT)	1725	вӯййк	vūjjk	vūjjk 
+1110	14-16-74-1	74261616416738642	Kildin Saami	kild1236	wrong	WRONG	1390	ве̄ррь	vierr’	vierr’ 
+1111	14-16-76-1	74261616416738642	Kildin Saami	kild1236	the fault	FAULT	134	ве̄ррь	vierr’	vierr’ 
+1112	14-16-77-1	74261616171739538	Kildin Saami	kild1236	the mistake	MISTAKE	1293	ся̄гкнэһк	seagknehk	seagknehk 
+1113	14-16-78-1	7426161615588155	Kildin Saami	kild1236	the blame	BLAME	381	ве̄рхэвудт	vierxevudt	vierxevudt 
+1114	14-16-79-1	74261616485640088	Kildin Saami	kild1236	the praise	PRAISE	1687	кыҋҋтэ	kɨjjhte	kɨjjhte 
+1115	14-16-81-1	74261616203927962	Kildin Saami	kild1236	beautiful	BEAUTIFUL	1427	мо̄джесь	mōǯes’	mōǯes’ 
+1116	14-16-82-1	74261616242155293	Kildin Saami	kild1236	ugly	UGLY	1548	роадтҍ	roadt’	roadt’ 
+1117	14-16-83-1	74261616848305019	Kildin Saami	kild1236	greedy	GREEDY	2018	сыннҍ	sɨnn'	sɨnn' 
+1118	14-16-84-1	74261616795275366	Kildin Saami	kild1236	clever	CLEVER	1310	тоӆӆк	tollhk	tollhk 
+1119	14-16-84-2	74261616236982781	Kildin Saami	kild1236	clever	CLEVER	1310	мӣллвэсь	mīllves’	mīllves’ 
+1120	14-17-11-1	74261616359306792	Kildin Saami	kild1236	the mind	MIND	1562	мӣлл	mīll	mīll 
+1121	14-17-13-1	74261616669328829	Kildin Saami	kild1236	to think(1)	THINK (REFLECT)	1415	юррьтэ	jurr’te	jurr’te 
+1122	14-17-14-1	74261616669328829	Kildin Saami	kild1236	to think(2)	THINK (BELIEVE)	1513	юррьтэ	jurr’te	jurr’te 
+1123	14-17-15-1	74261616827429690	Kildin Saami	kild1236	to believe	BELIEVE	1890	оасскэ	oasske	oasske 
+1124	14-17-16-1	74261616112966096	Kildin Saami	kild1236	to understand	UNDERSTAND	1536	оантшэ	oantše	oantše 
+1125	14-17-17-1	7426161653281745	Kildin Saami	kild1236	to know	KNOW (SOMETHING)	1410	тӣдтэ	tīdte	tīdte 
+1126	14-17-17-2	74261616272896344	Kildin Saami	kild1236	to know	KNOW (SOMETHING)	1410	томмтэ	tommte	tommte 
+1127	14-17-171-1	74261616763854923	Kildin Saami	kild1236	to guess	GUESS	1932	а̄ррьвдэ	ārr’vde	ārr’vde 
+1128	14-17-172-1	87152145287845695	Kildin Saami	kild1236	to imitate	IMITATE	117	ӣввче	īvvče	īvvče 
+1129	14-17-18-1	7426161678362066	Kildin Saami	kild1236	to seem	SEEM	1521	вӯзьхуввэ	vūz’xuvve	vūz’xuvve 
+1130	14-17-19-1	7426161691471349	Kildin Saami	kild1236	the idea	IDEA	1609	юрт	jurt	jurt 
+1131	14-17-21-1	74261616236982781	Kildin Saami	kild1236	wise	WISE	698	мӣллвэсь	mīllves’	mīllves’ 
+1132	14-17-22-1	74261616819866422	Kildin Saami	kild1236	stupid	STUPID	1518	пуссьт	puss’t	puss’t 
+1133	14-17-22-2	74261616531565398	Kildin Saami	kild1236	stupid	STUPID	1518	мӣлхэмесь	mīlxem’es’	mīlxem’es’ 
+1134	14-17-23-1	74261616503491787	Kildin Saami	kild1236	mad	MAD	1899	таяш	tajaš	tajaš 
+1135	14-17-24-1	74261616113789408	Kildin Saami	kild1236	to learn	LEARN	504	о̄һпнуввэ	ōhpnuvve	ōhpnuvve 
+1136	14-17-242-1	74261616113789408	Kildin Saami	kild1236	to study	STUDY	1929	о̄һпнуввэ	ōhpnuvve	ōhpnuvve 
+1137	14-17-25-1	74261616476194037	Kildin Saami	kild1236	to teach	TEACH	709	ма̄тҍхэ	māt’xe	māt’xe 
+1138	14-17-26-1	7426161617044015	Kildin Saami	kild1236	the pupil	PUPIL (STUDENT)	753	о̄һпнуввэй	ōhpnuvvej	ōhpnuvvej 
+1139	14-17-27-1	74261616619497964	Kildin Saami	kild1236	the teacher	TEACHER	1038	учтэлль	učtell’	učtell’ 
+1140	14-17-28-1	74261616516613488	Kildin Saami	kild1236	the school	SCHOOL	673	шко̄ла	škōla	škōla 
+1141	14-17-31-1	74261616491688195	Kildin Saami	kild1236	to remember	REMEMBER	707	мушшьтэ	mušš’te	mušš’te 
+1142	14-17-32-1	74261616208707804	Kildin Saami	kild1236	to forget	FORGET	1523	вуаййлаһтӭ	vuajjlaht’e	vuajjlaht’e 
+1143	14-17-34-1	7426161662842994	Kildin Saami	kild1236	clear	CLEAR	989	чуввесь	čuvv’es’	čuvv’es’ 
+1144	14-17-35-1	7426161699514210	Kildin Saami	kild1236	obscure	OBSCURE	1764	то̄ӆӆькъенаһтем	tōllh’kjenaht’em	tōllh’kjenaht’em 
+1145	14-17-36-1	74261616484057292	Kildin Saami	kild1236	secret	SECRET	1121	пя̄ҋҋт	peajjht	peajjht 
+1146	14-17-37-1	74261616246606669	Kildin Saami	kild1236	certain	CERTAIN	509	вӯййк	vūjjk	vūjjk 
+1147	14-17-38-1	74261616476194037	Kildin Saami	kild1236	to explain	EXPLAIN	1626	ма̄тҍхэ	māt’xe	māt’xe 
+1148	14-17-41-1	87152145724911788	Kildin Saami	kild1236	the intention	INTENTION	1162	юрртмушш	jurrtmušš	jurrtmušš 
+1149	14-17-42-1	74261616770812981	Kildin Saami	kild1236	the cause	CAUSE	860	приченҍ	pričen’	pričen’ 
+1150	14-17-43-1	7426161693735307	Kildin Saami	kild1236	the doubt	DOUBT	1308	юрртэс	jurrtes	jurrtes 
+1151	14-17-44-1	74261616612806957	Kildin Saami	kild1236	to suspect	SUSPECT	1841	ве̄рхэ	vierxe	vierxe 
+1152	14-17-441-1	74261616775155797	Kildin Saami	kild1236	to betray	BETRAY	1902	плуһт	pluht	pluht 
+1153	14-17-45-1	7426161676327167	Kildin Saami	kild1236	the need or necessity	NEED (NOUN)	643	а̄шшь-тӯйй	āšš’-tūjj	āšš’-tūjj 
+1154	14-17-46-1	74261616112760108	Kildin Saami	kild1236	easy	EASY	686	ке̄һпесь	kiehp’es’	kiehp’es’ 
+1155	14-17-47-1	74261616530729036	Kildin Saami	kild1236	difficult	DIFFICULT	584	рэ̄ссесь	rēss’es’	rēss’es’ 
+1156	14-17-48-1	7426161630172308	Kildin Saami	kild1236	to try	TRY	1812	вял-вуэр	veаl-vuer	veаl-vuer 
+1157	14-17-49-1	74261616876419145	Kildin Saami	kild1236	the manner	MANNER	488	на̄лль	nāll’	nāll’ 
+1158	14-17-49-2	74261616223840890	Kildin Saami	kild1236	the manner	MANNER	488	выррьк	vɨrr’k	vɨrr’k 
+1159	14-17-51-1	74261616952320429	Kildin Saami	kild1236	and	AND	1577	я	ja	ja 
+1160	14-17-52-1	74261616660077465	Kildin Saami	kild1236	because	BECAUSE	1157	гуэйкэ	guejke	guejke 
+1161	14-17-53-1	7426161649691177	Kildin Saami	kild1236	if	IF	1459	коалэ	koale	koale 
+1162	14-17-54-1	74261616722621548	Kildin Saami	kild1236	or	OR	1014	вай	vaj	vaj 
+1163	14-17-54-2	74261616865681929	Kildin Saami	kild1236	or	OR	1014	элэ	ele	ele 
+1164	14-17-55-1	74261616271273735	Kildin Saami	kild1236	yes	YES	1268	ныдтҍ	nɨdt’	nɨdt’ 
+1165	14-17-61-1	74261616907059683	Kildin Saami	kild1236	how?	HOW	1239	ко̄ххт	kōxxt	kōxxt 
+1166	14-17-62-1	74261616604682808	Kildin Saami	kild1236	how many?	HOW MANY	822	мэ̄нн-ве̄рьт	mēnn-vier’t	mēnn-vier’t 
+1167	14-17-63-1	74261616604682808	Kildin Saami	kild1236	how much?	HOW MUCH	531	мэ̄нн-ве̄рьт	mēnn-vier’t	mēnn-vier’t 
+1168	14-17-64-1	74261616612599006	Kildin Saami	kild1236	what?	WHAT	1236	мӣ	mī	mī 
+1169	14-17-64-2	74261616817410048	Kildin Saami	kild1236	what?	WHAT	1236	мэгк	megk	megk 
+1170	14-17-65-1	74261616739318978	Kildin Saami	kild1236	when?	WHEN	1238	куэссь	kuess’	kuess’ 
+1171	14-17-66-1	74261616962782818	Kildin Saami	kild1236	where?	WHERE	1237	касьт	kas’t	kas’t 
+1172	14-17-67-1	74261616227134133	Kildin Saami	kild1236	which?	WHICH	727	манҍтэ	man’te	man’te 
+1173	14-17-68-1	74261616273154201	Kildin Saami	kild1236	who?	WHO	1235	ке̄	kē	kē 
+1174	14-17-68-2	74261616296687163	Kildin Saami	kild1236	who?	WHO	1235	кегк	kegk	kegk 
+1175	14-17-69-1	74261616222604822	Kildin Saami	kild1236	why?	WHY	1270	мэйт?	mejt	mejt 
+1176	14-18-11-1	7426161628120074	Kildin Saami	kild1236	the voice	VOICE	1363	ӣнн	īnn (2)	īnn (2) 
+1177	14-18-12-1	74261616923726068	Kildin Saami	kild1236	to sing	SING	1261	ла̄ввлэ	lāvvle	lāvvle 
+1178	14-18-13-1	74261616900967872	Kildin Saami	kild1236	to shout	SHOUT	715	ря̄гкэ	reagke	reagke 
+1179	14-18-15-1	74261616706260292	Kildin Saami	kild1236	to whisper	WHISPER	55	сафьксэ	saf’kse	saf’kse 
+1180	14-18-17-1	74261616358506096	Kildin Saami	kild1236	to whistle	WHISTLE	1025	нюрркэ	njurrke	njurrke 
+1181	14-18-18-1	74261616283764426	Kildin Saami	kild1236	to shriek	SHRIEK	298	пыччке	pɨččke	pɨččke 
+1182	14-18-19-1	7426161696538521	Kildin Saami	kild1236	to howl	HOWL	526	оаллвэ	oallve	oallve 
+1183	14-18-21-1	74261616544193752	Kildin Saami	kild1236	to speak or talk	SPEAK	1623	са̄ррнэ	sārrne	sārrne 
+1184	14-18-211-1	74261616378735650	Kildin Saami	kild1236	to stutter or stammer	STUTTER	1866	вэвтнэ	vevtne	vevtne 
+1185	14-18-22-1	74261616329040913	Kildin Saami	kild1236	to say	SAY	1458	це̄ӆӆькэ	ciellh’ke	ciellh’ke 
+1186	14-18-221-1	74261616266320428	Kildin Saami	kild1236	to tell	TELL	1711	моайнсэ	moajnse	moajnse 
+1187	14-18-222-1	74261616376354842	Kildin Saami	kild1236	the speech	SPEECH	1115	кӣлл	kīll	kīll 
+1188	14-18-23-1	74261616937602826	Kildin Saami	kild1236	to be silent	BE SILENT	48	оаррэ инха	oarre inxa	oarre inxa 
+1189	14-18-24-1	74261616376354842	Kildin Saami	kild1236	the language	LANGUAGE	1307	кӣлл	kīll	kīll 
+1190	14-18-26-1	74261616760984555	Kildin Saami	kild1236	the word	WORD	1599	са̄ннҍ	sānn’	sānn’ 
+1191	14-18-28-1	74261616670790445	Kildin Saami	kild1236	the name	NAME	1405	нэ̄мм	nēmm	nēmm 
+1192	14-18-31-1	74261616315456739	Kildin Saami	kild1236	to ask(1)	ASK (INQUIRE)	1309	кэ̄дже	kēdče	kēdče 
+1193	14-18-32-1	74261616745729537	Kildin Saami	kild1236	to answer	ANSWER	1275	вуэсстлэ	vuesstle	vuesstle 
+1194	14-18-33-1	74261616894599367	Kildin Saami	kild1236	to admit	ADMIT	2022	вӯйкас са̄ррнэ	vūjkas sārrne	vūjkas sārrne 
+1195	14-18-35-1	74261616824490245	Kildin Saami	kild1236	to ask(2)	ASK (REQUEST)	1828	а̄ннэ	ānne	ānne 
+1196	14-18-36-1	74261616209421046	Kildin Saami	kild1236	to promise	PROMISE	1675	ошшьтъе	ošš’tje	ošš’tje 
+1197	14-18-37-1	7426161651074391	Kildin Saami	kild1236	to refuse	REFUSE	49	кӣлльтэ	kīll’te	kīll’te 
+1198	14-18-38-1	7426161651074391	Kildin Saami	kild1236	to forbid	FORBID	83	кӣлльтэ	kīll’te	kīll’te 
+1199	14-18-39-1	74261616814775168	Kildin Saami	kild1236	to scold	SCOLD	299	оаҏҏтэ	oarrhte	oarrhte 
+1200	14-18-41-1	74261616662211131	Kildin Saami	kild1236	to call(1)	CALL	1084	коаһчэ	koahče	koahče 
+1201	14-18-42-1	74261616589849889	Kildin Saami	kild1236	to call(2)	CALL BY NAME	180	нэммдэ	nemmde	nemmde 
+1202	14-18-43-1	7426161620583576	Kildin Saami	kild1236	to announce	ANNOUNCE	9	э̄ллхэ	ēllmxe	ēllmxe 
+1203	14-18-44-1	74261616333515579	Kildin Saami	kild1236	to threaten	THREATEN	1192	пальтхэ	pal’txe	pal’txe 
+1204	14-18-45-1	74261616509952783	Kildin Saami	kild1236	to boast	BOAST	101	куаррк	kuarrk	kuarrk 
+1205	14-18-51-1	74261616926997751	Kildin Saami	kild1236	to write	WRITE	1672	кырьйхэ	kɨrjxe	kɨrjxe 
+1206	14-18-52-1	74261616467413850	Kildin Saami	kild1236	to read	READ	724	ло̄гкэ	lōgke	lōgke 
+1207	14-18-56-1	74261616120690051	Kildin Saami	kild1236	the paper	PAPER	648	пымме	pɨmm’e	pɨmm’e 
+1208	14-18-57-1	74261616776487849	Kildin Saami	kild1236	the pen	PEN	794	карндашш	karndašš	karndašš 
+1209	14-18-57-2	74261616777635716	Kildin Saami	kild1236	the pen	PEN	794	пера	piera	piera 
+1210	14-18-61-1	74261616889968292	Kildin Saami	kild1236	the book	BOOK	963	кнӣга	knīga	knīga 
+1211	14-18-67-1	74261616466034654	Kildin Saami	kild1236	the poet	POET	1045	ла̄ввл-кырьйхэй	lāvvl-kɨrjxej	lāvvl-kɨrjxej 
+1212	14-18-72-1	74261616918952607	Kildin Saami	kild1236	the drum	DRUM	908	бāрбан	bārban	bārban 
+1213	14-18-72-2	74261616504752739	Kildin Saami	kild1236	the drum	DRUM	908	бӯбен	būb’en	būb’en 
+1214	14-18-73-1	74261616329071897	Kildin Saami	kild1236	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136	туррьп	turr’p	turr’p 
+1215	14-18-74-1	74261616152444090	Kildin Saami	kild1236	the rattle	RATTLE	300	шэ̄ҏҏ	šērrh	šērrh 
+1216	14-19-11-1	74261616113179020	Kildin Saami	kild1236	the country	COUNTRY	1300	ланнҍ	lann’	lann’ 
+1217	14-19-12-1	74261616714728474	Kildin Saami	kild1236	the native country	NATIVE COUNTRY	89	ша̄ннт-е̄ммьнэ	šānnt-jēmm’ne	šānnt-jēmm’ne 
+1218	14-19-15-1	74261616113179020	Kildin Saami	kild1236	the town	TOWN	1391	ланнҍ	lann’	lann’ 
+1219	14-19-16-1	74261616715730716	Kildin Saami	kild1236	the village	VILLAGE	930	сыййт	sɨjjt	sɨjjt 
+1220	14-19-17-1	74261616619576927	Kildin Saami	kild1236	the boundary	BOUNDARY	1010	ре̄ввьн	rievv’n	rievv’n 
+1221	14-19-21-1	74261616201997751	Kildin Saami	kild1236	the people	PEOPLE	789	нарэдт	naredt	naredt 
+1222	14-19-23-1	74261616715730716	Kildin Saami	kild1236	the clan	CLAN	302	сыййт	sɨjjt	sɨjjt 
+1223	14-19-24-1	74261616566204417	Kildin Saami	kild1236	the chieftain	CHIEFTAIN	301	ав’тмусс олма	av’tmuss olma	av’tmuss olma 
+1224	14-19-25-1	74261616365841893	Kildin Saami	kild1236	the walking stick	WALKING STICK	1296	суэммьп	suemm’p	suemm’p 
+1225	14-19-31-1	74261616632571101	Kildin Saami	kild1236	to rule or govern	RULE	1846	правительства	pravít’el’stva	pravít’el’stva 
+1226	14-19-32-1	742616166823457	Kildin Saami	kild1236	the king	KING	1508	цоарр	coarr	coarr 
+1227	14-19-36-1	74261616661467660	Kildin Saami	kild1236	the noble	NOBLE	482	шӯвв олма	šūvv olma	šūvv olma 
+1228	14-19-37-1	74261616898394701	Kildin Saami	kild1236	the citizen	CITIZEN	1032	е̄ллей	jēllej	jēllej 
+1229	14-19-41-1	74261616651855965	Kildin Saami	kild1236	the master	MASTER	383	шӯрр пэ̄ҏҏт олма	šūrr pērrht olma	šūrr pērrht olma 
+1230	14-19-43-1	742616167993940	Kildin Saami	kild1236	the servant	SERVANT	255	kаs	kas	kas 
+1231	14-19-44-1	74261616365516139	Kildin Saami	kild1236	the freeman	FREEMAN	384	ва̄ллт олма	vāllt olma	vāllt olma 
+1232	14-19-45-1	74261616662211131	Kildin Saami	kild1236	to command or order	ORDER	1128	коаһчэ	koahče	koahče 
+1233	14-19-46-1	7426161676555580	Kildin Saami	kild1236	to obey	OBEY	1635	куллтэллэ	kulltelle	kulltelle 
+1234	14-19-47-1	74261616354682884	Kildin Saami	kild1236	to permit	PERMIT	1003	лӯшшьтэ	lūšš’te	lūšš’te 
+1235	14-19-51-1	74261616176969185	Kildin Saami	kild1236	the friend	FRIEND	1325	ка̄ннҍц	kānn’c	kānn’c 
+1236	14-19-51-2	74261616200608257	Kildin Saami	kild1236	the friend	FRIEND	1325	тоавврэшш	toavvrešš	toavvrešš 
+1237	14-19-52-1	74261616113313572	Kildin Saami	kild1236	the enemy	ENEMY	1358	чудть	čudt’	čudt’ 
+1238	14-19-54-1	74261616380078739	Kildin Saami	kild1236	the neighbour	NEIGHBOUR	1332	поаллтъ-е̄ллей	poallt-jēllej	poallt-jēllej 
+1239	14-19-55-1	74261616746126352	Kildin Saami	kild1236	the stranger	STRANGER	791	е̄һк	jēhk	jēhk 
+1240	14-19-56-1	74261616161892084	Kildin Saami	kild1236	the guest	GUEST	1782	кӯссь	kūss’	kūss’ 
+1241	14-19-57-1	74261616169680512	Kildin Saami	kild1236	the host	HOST	1545	хозьенҍ	xozjen’	xozjen’ 
+1242	14-19-58-1	74261616868301207	Kildin Saami	kild1236	to help	HELP	1897	ве̄кьхэ	viek’xe	viek’xe 
+1243	14-19-59-1	742616166070991	Kildin Saami	kild1236	to prevent	PREVENT	1550	е̄кхэллэ	jēkxelle	jēkxelle 
+1244	14-19-61-1	74261616304730300	Kildin Saami	kild1236	the custom	CUSTOM	1747	е̄ллем-налль	jēll’em-nall’	jēll’em-nall’ 
+1245	14-19-62-1	74261616857166842	Kildin Saami	kild1236	the quarrel	QUARREL	1848	ё̄ввмушш	joavvmušš	joavvmušš 
+1246	14-19-62-2	74261616638954236	Kildin Saami	kild1236	the quarrel	QUARREL	1848	туарр	tuarr	tuarr 
+1247	14-19-63-1	74261616760984555	Kildin Saami	kild1236	the plot	PLOT	2024	са̄ннҍ	sānn’	sānn’ 
+1248	14-19-65-1	74261616745729537	Kildin Saami	kild1236	to meet	MEET	1831	вуэсстлэ	vuesstle	vuesstle 
+1249	14-19-72-1	74261616766144077	Kildin Saami	kild1236	the prostitute	PROSTITUTE	1610	курва	kurva	kurva 
+1250	14-20-11-1	74261616815463127	Kildin Saami	kild1236	to fight	FIGHT	1423	туаррэ	tuarre	tuarre 
+1251	14-20-13-1	74261616638954236	Kildin Saami	kild1236	the war or battle	BATTLE	579	туарр	tuarr	tuarr 
+1252	14-20-14-1	74261616353205501	Kildin Saami	kild1236	the peace	PEACE	1338	мырр	mɨrr	mɨrr 
+1253	14-20-15-1	74261616927831337	Kildin Saami	kild1236	the army	ARMY	1561	туаррэм-вӣг	tuarrem-vīg	tuarrem-vīg 
+1254	14-20-17-1	74261616932108768	Kildin Saami	kild1236	the soldier	SOLDIER	1941	соалтэх	soaltex	soaltex 
+1255	14-20-21-1	74261616850836583	Kildin Saami	kild1236	the weapons	WEAPONS	951	туарр-ве̄шш	tuarr-viešš	tuarr-viešš 
+1256	14-20-22-1	74261616522371065	Kildin Saami	kild1236	the club	CLUB	1763	кэ̄ллт	kēllt	kēllt 
+1257	14-20-222-1	74261616729039971	Kildin Saami	kild1236	the battle-axe	BATTLE-AXE	386	туарр-оаккш	tuarr-oakkš	tuarr-oakkš 
+1258	14-20-24-1	74261616916878359	Kildin Saami	kild1236	the bow	BOW	994	ю̄ккс	jūkks	jūkks 
+1259	14-20-25-1	74261616835958834	Kildin Saami	kild1236	the arrow	ARROW	977	ню̄лл	njūll	njūll 
+1260	14-20-26-1	74261616739201043	Kildin Saami	kild1236	the spear	SPEAR	945	ча̄ррв	čārrv	čārrv 
+1261	14-20-27-1	8717952610738090	Kildin Saami	kild1236	the sword	SWORD	1535	мӣһкь	mīhk’	mīhk’ 
+1262	14-20-28-1	74261616135594292	Kildin Saami	kild1236	the gun	GUN	1566	пысс	pɨss	pɨss 
+1263	14-20-33-1	74261616295306703	Kildin Saami	kild1236	the helmet	HELMET	1680	руввьт-кабперь	ruvv’t-kabp’er’	ruvv’t-kabp’er’ 
+1264	14-20-36-1	87171633464702610	Kildin Saami	kild1236	the tower	TOWER	1671	башня	bašn’a	bašn’a 
+1265	14-20-41-1	74261616822104972	Kildin Saami	kild1236	the victory	VICTORY	783	вуэҋҋтэмушш	vuejjhtemušš	vuejjhtemušš 
+1266	14-20-42-1	74261616563174055	Kildin Saami	kild1236	the defeat	DEFEAT	782	вуэҋтхуввэ	vuejhtxuvve	vuejhtxuvve 
+1267	14-20-44-1	74261616742187155	Kildin Saami	kild1236	to defend	DEFEND	1330	туарръе	tuarrje	tuarrje 
+1268	14-20-45-1	74261616387349911	Kildin Saami	kild1236	to retreat	RETREAT	421	ма̄ӈӈас мэ̄ннэ	māŋŋas mēnne	māŋŋas mēnne 
+1269	14-20-46-1	74261616734288749	Kildin Saami	kild1236	to surrender	SURRENDER	1696	вуэллнэ	vuellne	vuellne 
+1270	14-20-47-1	74261616669719334	Kildin Saami	kild1236	the captive or prisoner	PRISONER	1072	тuррьмшэһк	turr’mšehk	turr’mšehk 
+1271	14-20-471-1	7426161664010313	Kildin Saami	kild1236	the guard	GUARD	1940	ва̄ххта	vāxxta	vāxxta 
+1272	14-20-48-1	74261616719650759	Kildin Saami	kild1236	the booty	BOOTY	1022	шыл	šɨl	šɨl 
+1273	14-20-51-1	74261616754762078	Kildin Saami	kild1236	the fisherman	FISHERMAN	1858	кӯлль-шыллей	kūll’-šɨllej	kūll’-šɨllej 
+1274	14-20-52-1	74261616218261715	Kildin Saami	kild1236	the fishhook	FISHHOOK	1074	вӯӈӈк	vūŋŋk	vūŋŋk 
+1275	14-20-53-1	74261616982600438	Kildin Saami	kild1236	the fishing line	FISHING LINE	19	ва̄дт	vādt	vādt 
+1276	14-20-54-1	74261616449359076	Kildin Saami	kild1236	the fishnet	FISHNET	388	са̄ййм	sājjm	sājjm 
+1277	14-20-54-2	74261616235102001	Kildin Saami	kild1236	the fishnet	FISHNET	388	вӣрэм	vīrem	vīrem 
+1278	14-20-54-3	74261616681365846	Kildin Saami	kild1236	the fishnet	FISHNET	388	ре̄ҋҋм	riejjhm	riejjhm 
+1279	14-20-55-1	74261616498870934	Kildin Saami	kild1236	the fish trap	FISH TRAP	389	мережь	mier’ež’	mier’ež’ 
+1280	14-20-56-1	74261616288805097	Kildin Saami	kild1236	the bait	BAIT	2013	се̄ппьт	siepp’t	siepp’t 
+1281	14-20-61-1	74261616607349266	Kildin Saami	kild1236	to hunt	HUNT	1435	ме̄һць	miehc’	miehc’ 
+1282	14-20-62-1	74261616756732352	Kildin Saami	kild1236	to shoot	SHOOT	1172	ряшкхэ	reaškxe	reaškxe 
+1283	14-20-63-1	74261616685631865	Kildin Saami	kild1236	to miss	MISS (A TARGET)	161	эйй поабпхэ	ejj poabpxe	ejj poabpxe 
+1284	14-20-64-1	74261616311681638	Kildin Saami	kild1236	the trap	TRAP (PITFALL)	1075	рӯввьт	rūvv’t	rūvv’t 
+1285	14-20-65-1	7426161696037388	Kildin Saami	kild1236	to trap	TRAP (CATCH)	1170	шылле	šɨll’e	šɨll’e 
+1286	14-21-11-1	74261616653333693	Kildin Saami	kild1236	the law	LAW	1062	законн	zakonn	zakonn 
+1287	14-21-15-1	74261616391694024	Kildin Saami	kild1236	the court	COURT	1068	сӯдт	sūdt	sūdt 
+1288	14-12-013-1	74261616836024552	Kildin Saami	kild1236	at	AT	1461	альн	al’n	al’n 
+1289	14-21-16-1	74261616869591283	Kildin Saami	kild1236	to adjudicate	ADJUDICATE	1818	сӯдтэ	sūdte	sūdte 
+1290	14-21-17-1	74261616391694024	Kildin Saami	kild1236	the judgment	JUDGMENT	1067	сӯдт	sūdt	sūdt 
+1291	14-21-18-1	74261616109651467	Kildin Saami	kild1236	the judge	JUDGE	861	сӯдтей	sūdtej	sūdtej 
+1292	14-21-22-1	74261616726159321	Kildin Saami	kild1236	the defendant	DEFENDANT	1034	ве̄рхуввэй	vierxuvvej	vierxuvvej 
+1293	14-21-23-1	74261616727616377	Kildin Saami	kild1236	the witness	WITNESS	1144	све̄тел	sviet’el	sviet’el 
+1294	14-21-24-1	7426161685660462	Kildin Saami	kild1236	to swear	SWEAR	1939	sа̄ррнэ иммель-са̄нӭгуэйм	sārrne imm’el’-sān’eguejm	sārrne imm’el’-sān’eguejm 
+1295	14-21-25-1	74261616701809718	Kildin Saami	kild1236	the oath	OATH	1712	иммель-са̄ннҍ	imm’el’-sānn’	imm’el’-sānn’ 
+1296	14-21-31-1	74261616612806957	Kildin Saami	kild1236	to accuse	ACCUSE	1814	ве̄рхэ	vierxe	vierxe 
+1297	14-21-33-1	87152140192541372	Kildin Saami	kild1236	to convict	CONVICT	983	пӯҋҋте	pūjjhte	pūjjhte 
+1298	14-21-35-1	74261616416738642	Kildin Saami	kild1236	guilty	GUILTY	1682	ве̄ррь	vierr’	vierr’ 
+1299	14-21-36-1	7426161615767475	Kildin Saami	kild1236	innocent	INNOCENT	90	ве̄рьха	vier’xa	vier’xa 
+1300	14-21-37-1	74261616775744627	Kildin Saami	kild1236	the penalty or punishment	PUNISHMENT	390	ре̄ӈӈкмушш	rieŋŋkmušš	rieŋŋkmušš 
+1301	14-21-38-1	74261616284894153	Kildin Saami	kild1236	the fine	FINE (PENALTY)	218	ма̄ккьсэмвудт	mākk’semvudt	mākk’semvudt 
+1302	14-21-39-1	74261616506692885	Kildin Saami	kild1236	the prison	PRISON	1281	туррьм	turr’m	turr’m 
+1303	14-21-42-1	74261616293466040	Kildin Saami	kild1236	the murder	MURDER	845	коаннҍтэ	koann’te	koann’te 
+1304	14-21-44-1	8715214020342981	Kildin Saami	kild1236	the rape	RAPE	953	ва̄лльтэ вӣгэнҍ	vāll’te vīgen’	vāll’te vīgen’ 
+1305	14-21-46-1	7426161674767847	Kildin Saami	kild1236	the arson	ARSON	1889	пуэлльтэ	puеll’tе	puеll’tе 
+1306	14-21-47-1	74261616208715524	Kildin Saami	kild1236	the perjury	PERJURY	1792	ке̄лсэллэмушш	kielsellemušš	kielsellemušš 
+1307	14-21-51-1	7426161627423977	Kildin Saami	kild1236	to steal	STEAL	713	суэлнэ	suelne	suelne 
+1308	14-21-52-1	74261616884116068	Kildin Saami	kild1236	the thief	THIEF	1160	сӯлл	sūll	sūll 
+1309	14-22-11-1	74261616940829743	Kildin Saami	kild1236	the religion	RELIGION	661	религия	r’elígija	r’elígija 
+1310	14-22-12-1	74261616718559307	Kildin Saami	kild1236	the god	DEITY	3231	иммель	imm’el’	imm’el’ 
+1311	14-22-14-1	74261616919078975	Kildin Saami	kild1236	the altar	ALTAR	853	волтар	voltar	voltar 
+1312	14-22-15-1	74261616730100177	Kildin Saami	kild1236	the sacrifice	SACRIFICE	1103	па̄лвэс	palves	palves 
+1313	14-22-16-1	74261616635264934	Kildin Saami	kild1236	to worship	WORSHIP	257	коаммрэллэ	koammrelle	koammrelle 
+1314	14-22-17-1	74261616615048094	Kildin Saami	kild1236	to pray	PRAY	24	мо̄ллэ	mōlle	mōlle 
+1315	14-22-17-2	74261616688168013	Kildin Saami	kild1236	to pray	PRAY	24	моллдэдтэ	molldedte	molldedte 
+1316	14-22-18-1	7426161668594668	Kildin Saami	kild1236	the priest	PRIEST	852	поаһп	poahp	poahp 
+1317	14-22-19-1	74261616643160842	Kildin Saami	kild1236	holy	HOLY	1702	па̄ссь	pāss’	pāss’ 
+1318	14-22-22-1	7426161698323245	Kildin Saami	kild1236	to preach	PREACH	304	соагк	soagk	soagk 
+1319	14-22-23-1	74261616512829807	Kildin Saami	kild1236	to bless	BLESS	391	благаслуввэ	blagasluvve	blagasluvve 
+1320	14-22-24-1	74261616369697322	Kildin Saami	kild1236	to curse	CURSE	8	оаҏҏтэ	oarrhtе	oarrhtе 
+1321	14-22-26-1	74261616950289221	Kildin Saami	kild1236	to fast	ABSTAIN FROM FOOD	303	па̄зьхэ	pāz’xе	pāz’xе 
+1322	14-22-31-1	74261616500841506	Kildin Saami	kild1236	the heaven	HEAVEN	1565	тунн-алльм	tunn-all’m	tunn-all’m 
+1323	14-22-32-1	74261616688688670	Kildin Saami	kild1236	the hell	HELL	878	тудт-ла̄ннҍт	tudt-lānn’t	tudt-lānn’t 
+1324	14-22-32-2	74261616473387840	Kildin Saami	kild1236	the hell	HELL	878	адт	adt	adt 
+1325	14-22-35-1	74261616110432217	Kildin Saami	kild1236	the demon	DEMON	1973	чанн	čann	čann 
+1326	14-22-37-1	74261616547759095	Kildin Saami	kild1236	the idol	IDOL	1945	се̄ййт	siejjt	siejjt 
+1327	14-22-42-1	74261616669245799	Kildin Saami	kild1236	the magic	MAGIC	392	нуэйд	nuejd	nuejd 
+1328	14-22-43-1	7426161650728069	Kildin Saami	kild1236	the sorcerer or witch	MAGICIAN	2137	нуэйдт	nuejdt	nuejdt 
+1329	14-22-44-1	74261616751799761	Kildin Saami	kild1236	the fairy or elf	ELF OR FAIRY	3206	ра̄зь-ака	rāz’-aka	rāz’-aka 
+1330	14-22-45-1	74261616534377478	Kildin Saami	kild1236	the ghost	GHOST	1175	роаввк	roavvk	roavvk 
+1331	14-22-47-1	87171457382578318	Kildin Saami	kild1236	the omen	OMEN	107	придтэһк	pridtehk	pridtehk 
+1332	14-23-1-1	74261616202195214	Kildin Saami	kild1236	the radio	RADIO	1315	ра̄дио	rādio	rādio 
+1333	14-23-11-1	74261616362199726	Kildin Saami	kild1236	the television	TELEVISION	1788	телевизор	tiel’evízor	tiel’evízor 
+1334	14-23-12-1	74261616406952848	Kildin Saami	kild1236	the telephone	TELEPHONE	1379	тэльфонн	tiel’fonn	tiel’fonn 
+1335	14-23-135-1	7426161654935793	Kildin Saami	kild1236	the motorcycle	MOTORCYCLE	638	мо̄тор	mōtor	mōtor 
+1336	14-23-14-1	74261616603469752	Kildin Saami	kild1236	the car	CAR	1111	машына	mašɨna	mašɨna 
+1337	14-23-15-1	74261616744292664	Kildin Saami	kild1236	the bus	BUS	1070	автобусс	avtobúss	avtobúss 
+1338	14-23-16-1	74261616920767472	Kildin Saami	kild1236	the airplane	AIRPLANE	1597	саммлёһт	samml’oht	samml’oht 
+1339	14-23-17-1	74261616112580404	Kildin Saami	kild1236	the electricity	ELECTRICITY	59	електрическэ	el’ektríčeske	el’ektríčeske 
+1340	14-23-175-1	74261616616509351	Kildin Saami	kild1236	the battery	BATTERY	662	батарея	batar’éja	batar’éja 
+1341	14-23-2-1	74261616953445537	Kildin Saami	kild1236	the hospital	HOSPITAL	616	лыһцэм-пэ̄ҏҏт	lɨhcem-pērrht	lɨhcem-pērrht 
+1342	14-23-21-1	74261616761632589	Kildin Saami	kild1236	the nurse	NURSE	1104	медсестра	m’eds’estrá	m’eds’estrá 
+1343	14-23-22-1	74261616507799220	Kildin Saami	kild1236	the pill or tablet	PILL	395	таблетка	tabl’etka	tabl’etka 
+1344	14-23-23-1	74261616901649462	Kildin Saami	kild1236	the injection	INJECTION	1805	шприц	špric	špric 
+1345	14-23-5-1	74261616771601160	Kildin Saami	kild1236	the tap/faucet	FAUCET	1488	кранн	krann	krann 
+1346	14-23-51-1	74261616830410053	Kildin Saami	kild1236	the sink	SINK (BASIN)	915	пэссэм-ка̄ррь	pessem-kārr’	pessem-kārr’ 
+1347	14-23-52-1	74261616477251680	Kildin Saami	kild1236	the toilet	TOILET	219	туалеhт	tualeht	tualeht 
+1348	14-23-53-1	74261616298213918	Kildin Saami	kild1236	the mattress	MATTRESS	105	пе̄ренҍ	pier’en’	pier’en’ 
+1349	14-23-3-1	74261616632571101	Kildin Saami	kild1236	the government	GOVERNMENT	815	правительства	pravít’el’stva	pravít’el’stva 
+1350	14-23-31-1	74261616940549859	Kildin Saami	kild1236	the president	PRESIDENT	899	президент	priezid’ént	priezid’ént 
+1351	14-23-32-1	7426161699454961	Kildin Saami	kild1236	the minister	MINISTER	486	министр	minístr	minístr 
+1352	14-23-33-1	74261616382840388	Kildin Saami	kild1236	the police	POLICE	656	милиция	milícija	milícija 
+1353	14-23-34-1	74261616953065782	Kildin Saami	kild1236	the driver's license	DRIVER'S LICENSE	599	права	pravá	pravá 
+1354	14-23-37-1	74261616736876223	Kildin Saami	kild1236	the crime	CRIME	1066	ве̄ррь-тӯйй	vierr’-tūjj	vierr’-tūjj 
+1355	14-23-38-1	74261616630906314	Kildin Saami	kild1236	the election	ELECTION	240	выборы	vɨborɨ	vɨborɨ 
+1356	14-23-4-1	74261616778803128	Kildin Saami	kild1236	the post/mail	MAIL	167	пошта	pošta	pošta 
+1357	14-23-41-1	74261616409475976	Kildin Saami	kild1236	the postage stamp	POSTAGE STAMP	596	ма̄ррка	mārrka	mārrka 
+1358	14-23-42-1	74261616802604947	Kildin Saami	kild1236	the letter	LETTER	1612	кыррьй	kɨrrj	kɨrrj 
+1359	14-23-44-1	74261616363000761	Kildin Saami	kild1236	the bank	BANK	1284	баӈӈк	baŋŋk	baŋŋk 
+1360	14-23-54-1	74261616127867618	Kildin Saami	kild1236	the tin/can	CAN	1051	корбэнч	korbenč	korbenč 
+1361	14-23-55-1	74261616972274919	Kildin Saami	kild1236	the screw	SCREW	1802	выӊӊт	vɨnnht	vɨnnht 
+1362	14-23-555-1	74261616139915603	Kildin Saami	kild1236	the screwdriver	SCREWDRIVER	836	атвертка	atv’értka	atv’értka 
+1363	14-23-56-1	74261616602078283	Kildin Saami	kild1236	the bottle	BOTTLE	1321	суля	sul’a	sul’a 
+1364	14-23-565-1	7426161610453272	Kildin Saami	kild1236	the candy/sweets	CANDY	874	ня̄ллкас	neallkas	neallkas 
+1365	14-23-24-1	74261616227925718	Kildin Saami	kild1236	the spectacles/glasses	SPECTACLES	1898	очкэ	očke	očke 
+1366	14-23-57-1	74261616575171307	Kildin Saami	kild1236	the plastic	PLASTIC	654	пласмас	plasmás	plasmás 
+1367	14-23-575-1	742616163782814	Kildin Saami	kild1236	the bomb	BOMB	1804	помм	pomm	pomm 
+1368	14-23-58-1	74261616101662324	Kildin Saami	kild1236	the workshop	WORKSHOP	1677	заводт	zavodt	zavodt 
+1369	14-23-59-1	74261616922060259	Kildin Saami	kild1236	the cigarette	CIGARETTE	969	сигарет	sigar’ét	sigar’ét 
+1370	14-23-61-1	74261616185942006	Kildin Saami	kild1236	the calendar	CALENDAR	1967	календарь	kal’endár’	kal’endár’ 
+1371	14-23-62-1	74261616260251419	Kildin Saami	kild1236	the film/movie	MOVIE	216	кӣна	kīna	kīna 
+1372	14-23-63-1	74261616828671066	Kildin Saami	kild1236	the music	MUSIC	642	музыка	muzɨka	muzɨka 
+1373	14-23-64-1	74261616354601640	Kildin Saami	kild1236	the song	SONG	1096	ла̄ввл	lāvvl	lāvvl 
+1374	14-23-6-1	74261616501422241	Kildin Saami	kild1236	the newspaper	NEWSPAPER	1298	газет	gaz’ét	gaz’ét 
+1375	14-23-385-1	74261616571311850	Kildin Saami	kild1236	the address	ADDRESS	591	адрес	adres	adres 
+1376	14-23-39-1	74261616228927274	Kildin Saami	kild1236	the number	NUMBER	1356	цыфра	cɨffra	cɨffra 
+1377	14-23-39-2	74261616434290914	Kildin Saami	kild1236	the number	NUMBER	1356	но̄мер	nōm’er	nōm’er 
+1378	14-23-155-1	74261616878170415	Kildin Saami	kild1236	the train	TRAIN	900	поезд	pojezd	pojezd 
+1379	14-23-36-1	74261616219080743	Kildin Saami	kild1236	the birth certificate	BIRTH CERTIFICATE	397	свидетельства	svid’ét’el’stva	svid’ét’el’stva 
+1380	14-23-18-1	7426161693565620	Kildin Saami	kild1236	to brake	BRAKE	966	цаввьцэ	cavv’ce	cavv’ce 
+1381	14-23-195-1	74261616756218411	Kildin Saami	kild1236	the petroleum	PETROLEUM	650	неффьт	nief’t	nief’t 
+1382	14-23-185-1	74261616268681422	Kildin Saami	kild1236	the motor	MOTOR	110	двӣгатель	dvīgat’el’	dvīgat’el’ 
+1383	14-23-19-1	74261616603469752	Kildin Saami	kild1236	the machine	MACHINE	144	машына	mašɨna	mašɨna 
+1384	14-23-13-1	74261616988464137	Kildin Saami	kild1236	the bicycle	BICYCLE	747	веласипед	v’elasip’éd	v’elasip’éd 
+1385	14-23-395-1	74261616740745013	Kildin Saami	kild1236	the street	STREET	1362	е̄ткас	jētkas	jētkas 
+1386	14-19-445-1	74261616526468782	Kildin Saami	kild1236	to liberate	LIBERATE	37	лӯпстэ	lūpste	lūpste 
+1387	14-19-565-1	74261616662211131	Kildin Saami	kild1236	to invite	INVITE	1611	коаһчэ	koahče	koahče 
+1388	14-23-35-1	74261616326939102	Kildin Saami	kild1236	the license plate	LICENSE PLATE	1790	машына но̄мер	mašɨna nōm’er	mašɨna nōm’er 
+1389	14-23-43-1	74261616236386522	Kildin Saami	kild1236	the postcard	POSTCARD	1497	аткрытка	atkrɨtka	atkrɨtka 
+1390	14-24-01-1	74261616515561904	Kildin Saami	kild1236	to be	BE	1579	лӣйе	lījje	lījje 
+1391	14-24-02-1	74261616198483662	Kildin Saami	kild1236	to become	BECOME	1990	шэ̄ннтэ	šēnnte	šēnnte 
+1392	14-24-03-1	74261616374177851	Kildin Saami	kild1236	without	WITHOUT	1478	-ха	-xa	-xa 
+1393	14-24-05-1	74261616131532536	Kildin Saami	kild1236	through	THROUGH	97	раст	rast	rast 
+1394	14-24-13-1	74261616883053084	Kildin Saami	kild1236	same	SAME	200	эфтналшэм	eftnalšem	eftnalšem 
+1395	14-24-06-1	74261616510306967	Kildin Saami	kild1236	not	NOT	1240	э-	e-	e- 
+1396	14-24-07-1	74261616943890245	Kildin Saami	kild1236	this	THIS	1214	тадт	tadt	tadt 
+1397	14-24-08-1	7426161693623128	Kildin Saami	kild1236	that	THAT	78	тудт	tudt	tudt 
+1398	14-24-08-2	8725119112501148	Kildin Saami	kild1236	that	THAT	78	што	što	što 
+1399	14-24-09-1	74261616568712563	Kildin Saami	kild1236	here	HERE	136	тэсьт	tes’t	tes’t 
+1400	14-24-1-1	844163925147347	Kildin Saami	kild1236	there	THERE	1937	тамьпэ	tam’pe	tam’pe 
+1401	14-24-11-1	74261616237607867	Kildin Saami	kild1236	other	OTHER	197	мудта	mudta	mudta 
+1402	14-4-493-1	74261616379208377	Kildin Saami	kild1236	the vagina	VAGINA	1836	ценнра̄ййк	ciennrājjk	ciennrājjk 
+1403	14-23-9-1	74261616893147780	Kildin Saami	kild1236	the tea	TEA	1373	чайй	čajj	čajj 
+1404	14-23-91-1	74261616840021700	Kildin Saami	kild1236	the coffee	COFFEE	1299	ко̄фэ	kōfe	kōfe 
+1405	14-24-12-1	74261616171549749	Kildin Saami	kild1236	next	NEXT	1354	ныммьп второй ныммьп	nɨmm’p	nɨmm’p 
+1406	14-3-862-1	74261616785828213	Kildin Saami	kild1236	the coyote	COYOTE	912	койот	kajót	kajót 
+1407	14-3-863-1	74261616931350701	Kildin Saami	kild1236	the hare	HARE	1190	нюэммель	njuemmel’	njuemmel’ 
+1408	14-3-866-1	74261616317687435	Kildin Saami	kild1236	the raccoon	RACCOON	828	энот	jenót	jenót 
+1409	14-3-869-1	74261616457472862	Kildin Saami	kild1236	the squirrel	SQUIRREL	1628	вуэррев	vuerr’ev	vuerr’ev 
+1410	14-3-871-1	74261616844350617	Kildin Saami	kild1236	the reindeer/caribou	REINDEER	1876	пуаз	puaz	puaz 
+1411	14-3-872-1	74261616776274351	Kildin Saami	kild1236	the elk/moose	ELK	1772	сэ̄ррв	sērrv	sērrv 
+1412	14-3-873-1	74261616121628816	Kildin Saami	kild1236	the beaver	BEAVER	1194	ма̄йек	mājjek	mājjek 
+1413	14-10-79-1	74261616769985394	Kildin Saami	kild1236	the sledge/sled	SLED	16	ке̄ресь	kier’es’	kier’es’ 
+1414	14-10-79-2	74261616573970613	Kildin Saami	kild1236	the sledge/sled	SLED	16	ноаҏҏт	noarrht	noarrht 
+1415	14-10-79-3	7426161670211104	Kildin Saami	kild1236	the sledge/sled	SLED	16	соанн	soann	soann 
+1416	14-8-29-1	74261616933376360	Kildin Saami	kild1236	the lasso	LASSO	340	ля̄шшкэм-нуррь	leašškem-nurr’	leašškem-nurr’ 
+1417	14-8-991-1	74261616482860941	Kildin Saami	kild1236	the larch	LARCH	116	лэ̄сст-мӯрр	lēsst-mūrr	lēsst-mūrr 
+1418	14-8-993-1	742616166305797	Kildin Saami	kild1236	the needle(2)	NEEDLE TREE	286	куэһцэмь	kuehcem’	kuehcem’ 
+1419	14-1-771-1	74261616247248081	Kildin Saami	kild1236	the arctic lights	ARCTIC LIGHTS	261	воафсхэсс	voafsxess	voafsxess 
+1420	14-7-67-1	74261616714867181	Kildin Saami	kild1236	to tan	TAN	247	куэссьтэ	kuess’te	kuess’te 
+1421	14-6-98-1	74261616219697938	Kildin Saami	kild1236	the snowshoe	SNOWSHOE	233	савехь	sav’ex’	sav’ex’ 
+1422	14-8-996-1	7426161634648873	Kildin Saami	kild1236	the cone	CONE	287	па̄ццк	pācck	pācck 
+1423	14-3-8112-1	74261616151204511	Kildin Saami	kild1236	the body louse	BODY LOUSE	311	тыһкь	tɨhk’	tɨhk’ 
+1424	14-4-494-1	74261616856815149	Kildin Saami	kild1236	the vulva	VULVA	1837	ценн	cienn	cienn 
+1425	14-4-494-2	74261616640237279	Kildin Saami	kild1236	the vulva	VULVA	1837	куннҍ	kunn’	kunn’ 
+1426	14-3-99-1	74261616466395226	Kildin Saami	kild1236	the tapir	TAPIR	312	тапир	tapīr	tapīr 
+1427	14-9-93-1	74261616749973765	Kildin Saami	kild1236	the whetstone	WHETSTONE	295	тоамчас	toamčas	toamčas 
+1428	14-7-65-1	74261616715730716	Kildin Saami	kild1236	the camp	CAMP	1105	сыййт	sɨjjt	sɨjjt 
+1429	14-3-597-1	74261616756931066	Kildin Saami	kild1236	the cormorant	CORMORANT	840	ка̄ррв	kārrv	kārrv 
+1430	14-3-833-1	87171445778360869	Kildin Saami	kild1236	the prawns or shrimp	PRAWNS	238	ра̄һк	rāhk	rāhk 
+1431	14-9-87-1	74261616853124978	Kildin Saami	kild1236	the boomerang	BOOMERANG	135	бумераӈг	bumeraŋg	bumeraŋg 
+1432	14-3-88-1	74261616327757869	Kildin Saami	kild1236	the kangaroo	KANGAROO	164	кэнгуру	keŋgurú	keŋgurú 
+1433	14-3-89-1	7426161625252335	Kildin Saami	kild1236	the anteater	ANTEATER	181	муравьед	murav’éd	murav’éd 
+1434	14-3-9-1	74261616411884143	Kildin Saami	kild1236	the jaguar	JAGUAR	1250	я̄гуар	jāguar	jāguar 
+1435	14-8-911-1	74261616233175579	Kildin Saami	kild1236	the millet or sorghum	MILLET	931	ше̄ннҍ	šienn’	šienn’ 
+1436	14-3-913-1	74261616137839573	Kildin Saami	kild1236	the chameleon	CHAMELEON	1555	хамелеон	xam’el’ón	xam’el’ón 
+1437	14-9-9-1	74261616546661929	Kildin Saami	kild1236	to draw water	DRAW (WATER)	1911	куаййвэ ча̄зь	kuajjve čāz’	kuajjve čāz’ 
+1438	14-9-91-1	74261616747238777	Kildin Saami	kild1236	the peg	PEG	361	на̄ввьл	nāvv’l	nāvv’l 
+1439	14-10-58-1	74261616299933749	Kildin Saami	kild1236	to go or return home	RETURN HOME	142	пуэдтӭ пе̄ҏҏтэ	puedt’e pērrhte	puedt’e pērrhte 
+1440	14-3-917-1	87151236641200571	Kildin Saami	kild1236	the buffalo	BUFFALO	934	зубр	zubr	zubr 
+1441	14-1-411-1	74261616383183296	Kildin Saami	kild1236	the savanna	SAVANNA	260	саванна	savánna	savánna 
+1442	14-1-831-1	74261616316619484	Kildin Saami	kild1236	the steam	STEAM	1193	поарр	poarr	poarr 
+1443	14-2-5-1	74261616777704731	Kildin Saami	kild1236	the grandchild	GRANDCHILD	1617	а̄йев	ājjev	ājjev 
+1444	14-2-5-2	74261616745248082	Kildin Saami	kild1236	the grandchild	GRANDCHILD	1617	а̄һкэв	āhkev	āhkev 
+1445	14-2-6412-1	74261616909789977	Kildin Saami	kild1236	the sibling-in-law	SIBLING-IN-LAW	1832	вуэннь	vuennj	vuennj 
+1446	14-4-741-1	74261616438148460	Kildin Saami	kild1236	the life	LIFE	210	я̄л	jāl	jāl 
+1447	14-4-771-1	74261616820271088	Kildin Saami	kild1236	the carcass	CARCASS	1770	роаӈӈҍк	roaŋŋ’k	roaŋŋ’k 
+1448	14-4-844-1	74261616692974423	Kildin Saami	kild1236	the disease	DISEASE	1986	кэ̄бп	kēbp	kēbp 
+1449	14-7-232-1	74261616443967328	Kildin Saami	kild1236	the padlock	PADLOCK	336	ло̄һк	lōhk	lōhk 
+1450	14-11-29-1	74261616951986760	Kildin Saami	kild1236	to damage	DAMAGE	1116	пӣдтэ	pīdte	pīdte 
+1451	14-12-081-1	74261616836024552	Kildin Saami	kild1236	above	ABOVE	1741	альн	al’n	al’n 
+1452	14-13-231-1	74261616963794278	Kildin Saami	kild1236	the piece	PIECE	594	кусськ	kuss’k	kuss’k 
+1453	14-13-331-1	74261616199806951	Kildin Saami	kild1236	alone	ALONE	1964	о̄ххтэ	ōxxte	ōxxte 
+1454	14-14-251-1	74261616184242333	Kildin Saami	kild1236	the beginning	BEGINNING	1557	оалкхэшш	oalkxešš	oalkxešš 
+1455	14-14-411-1	74261616854068875	Kildin Saami	kild1236	the day(2)	DAY (NOT NIGHT)	1225	пе̄ййв	piejjv	piejjv 
+1456	14-22-131-1	74261616824579130	Kildin Saami	kild1236	the church	CHURCH	1349	цеассан	ceassan	ceassan 
+1457	14-22-131-2	74261616615630209	Kildin Saami	kild1236	the church	CHURCH	1349	цэ̄ркав	cērkav	cērkav 
+1458	14-24-14-1	74261616550314146	Kildin Saami	kild1236	nothing	NOTHING	687	нимэ̄нн	nimēnn	nimēnn 
+1459	14-4-7501-1	74261616466674667	Kildin Saami	kild1236	dead	DEAD	1625	соаррьм	soarr’m	soarr’m 
+1460	14-4-8541-1	74261616326638131	Kildin Saami	kild1236	to scratch	SCRATCH	1436	суввэ	suvve	suvve 
+1461	14-9-111-1	74261616245848881	Kildin Saami	kild1236	to make	MAKE	734	лыһкэ	lɨhke	lɨhke 
+1462	14-4-431-1	74261616795430356	Kildin Saami	kild1236	the belly	BELLY	1251	чуэййв	čuejjv	čuejjv 
+1463	14-9-311-1	74261616614262517	Kildin Saami	kild1236	to wipe	WIPE	1454	е̄ррэ	jērre	jērre 
+1464	14-1-775-1	74261616667002615	Kildin Saami	kild1236	to freeze	FREEZE	1431	калльмэ	kall’me	kall’me 
+1465	14-24-04-1	74261616456614523	Kildin Saami	kild1236	with	WITH	1340	-энҍ	-еn’	-еn’ 
+1466	14-24-04-2	74261616626622704	Kildin Saami	kild1236	with	WITH	1340	мӣлльтэ	mīll’te	mīll’te 
+1467	14-12-012-1	74261616972780816	Kildin Saami	kild1236	in	IN	1460	сыз	sɨz	sɨz 
+1468	14-11-99903-1	87251030474560206	Kildin Saami	kild1236	the gift			ла̄ҋҋ	lājjh	lājjh 
+1469	14-24-99901-1	8725116993424089	Kildin Saami	kild1236	and or but			а	a	a 
+1470	14-24-99901-2	87251112723888647	Kildin Saami	kild1236	and or but			-шэ	=še	=še 
+1471	14-24-99907-1	87251118194413034	Kildin Saami	kild1236	(negative marker)			не-	nie-	nie- 
+1472	14-24-99911-1	87251115963906684	Kildin Saami	kild1236	(superlative marker)			самэ	same	same 
+1473	14-24-99917-1	87251121335558242	Kildin Saami	kild1236	which			каторэ	katóre	katóre 

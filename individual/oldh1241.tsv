@@ -1,0 +1,1315 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	11-1-1-1	7412137134239049	Old High German	oldh1241	the world	WORLD	965		weralt	weralt 
+2	11-1-21-1	76191057575282273	Old High German	oldh1241	the land	LAND	626		lant	lant 
+3	11-1-212-1	74121335492440374	Old High German	oldh1241	the soil	EARTH (SOIL)	1228		bodam	bodam 
+4	11-1-213-1	74121336180369259	Old High German	oldh1241	the dust	DUST	2		stoub	stoub 
+5	11-1-215-1	74121339754743897	Old High German	oldh1241	the sand	SAND	671		sant	sant 
+6	11-1-22-1	7412134138472211	Old High German	oldh1241	the mountain or hill	MOUNTAIN OR HILL	2118		berg	berg 
+7	11-1-222-1	74121343471431728	Old High German	oldh1241	the cliff or precipice	PRECIPICE	618		kleb	kleb 
+8	11-1-23-1	74121344294385809	Old High German	oldh1241	the plain	PLAIN	652		ebanî	ebanî 
+9	11-1-24-1	74121348759852115	Old High German	oldh1241	the valley	VALLEY	921		tal	tal 
+10	11-1-25-1	74121349626297813	Old High German	oldh1241	the island	ISLAND	622		isila	isila 
+11	11-1-28-1	7412140247620239	Old High German	oldh1241	the cave	CAVE	1155		holî	holî 
+12	11-1-31-1	741214194856875	Old High German	oldh1241	the water	WATER	948		wazzar	wazzar 
+13	11-1-32-1	74121410230852328	Old High German	oldh1241	the sea	SEA	1474		meri	meri 
+14	11-1-322-1	76121111371838715	Old High German	oldh1241	calm	CALM	258		stilli	stilli 
+15	11-1-323-1	74121414789742690	Old High German	oldh1241	rough(2)	ROUGH (OF SEA)	259		rûh	rûh 
+16	11-1-324-1	74121415338082319	Old High German	oldh1241	the foam	FOAM	1768		scûm	scûm 
+17	11-1-33-1	741214176382348	Old High German	oldh1241	the lake	LAKE	624		sêo	sêo 
+18	11-1-35-1	7412142127304779	Old High German	oldh1241	the wave	WAVE	978		wella	wella 
+19	11-1-352-1	74121422885287749	Old High German	oldh1241	the tide	TIDE	891		gizît	gizît 
+20	11-1-353-1	86111131875844292	Old High German	oldh1241	the low tide	LOW TIDE	1026		ebbunga	ebbunga 
+21	11-1-354-1	74121425535795441	Old High German	oldh1241	the high tide	HIGH TIDE	613		fluot	fluot 
+22	11-1-36-1	74121426868710991	Old High German	oldh1241	the river or stream	RIVER	666		fluz	fluz 
+23	11-1-38-1	74121429333852710	Old High German	oldh1241	the swamp	SWAMP	1145		sunft	sunft 
+24	11-1-41-1	74121431882875243	Old High German	oldh1241	the woods or forest	FOREST	420		wald	wald 
+25	11-1-43-1	74121432138593587	Old High German	oldh1241	the wood	WOOD	1803		holz	holz 
+26	11-1-44-1	74121433287230810	Old High German	oldh1241	the stone or rock	STONE OR ROCK	2125		stein	stein 
+27	11-1-51-1	74121435981655734	Old High German	oldh1241	the sky	SKY	1732		himil	himil 
+28	11-1-52-1	74121436395095607	Old High German	oldh1241	the sun	SUN	1343		sunna	sunna 
+29	11-1-53-1	74121437168743742	Old High German	oldh1241	the moon	MOON	1313		mâno	mâno 
+30	11-1-54-1	74121438498067793	Old High German	oldh1241	the star	STAR	1430		sterro	sterro 
+31	11-1-55-1	74121438102933639	Old High German	oldh1241	the lightning	LIGHTNING	1654		blic	blic 
+32	11-1-58-1	74121441139433397	Old High German	oldh1241	the storm	STORM	858		sturm	sturm 
+33	11-1-59-1	74121442803853963	Old High German	oldh1241	the rainbow	RAINBOW	1733		reganbogo	reganbogo 
+34	11-1-61-1	74121443725026712	Old High German	oldh1241	the light	LIGHT (RADIATION)	630		lioht (1)	lioht (1) 
+35	11-1-62-1	74121447500217842	Old High German	oldh1241	the darkness	DARKNESS	11		finstarnessi	finstarnessi 
+36	11-1-63-1	74121448109653877	Old High German	oldh1241	the shade or shadow	SHADE	1388		scato	scato 
+37	11-1-64-1	7413949429034911	Old High German	oldh1241	the dew	DEW	1977		tou	tou 
+38	11-1-71-1	7413950305893656	Old High German	oldh1241	the air	AIR	27		luft	luft 
+39	11-1-72-1	7413952652853448	Old High German	oldh1241	the wind	WIND	960		wint	wint 
+40	11-1-73-1	7413953156495268	Old High German	oldh1241	the cloud	CLOUD	1489		wolka(n), wolko	wolka(n) 
+41	11-1-73-2	7413953156495268	Old High German	oldh1241	the cloud	CLOUD	1489		wolka(n), wolko	wolko 
+42	11-1-74-1	7413954822173086	Old High German	oldh1241	the fog	FOG	249		nebul	nebul 
+43	11-1-75-1	7413955426174422	Old High German	oldh1241	the rain	RAIN (PRECIPITATION)	658		regan	regan 
+44	11-1-76-1	7413957779409092	Old High German	oldh1241	the snow	SNOW	784		snêo	snêo 
+45	11-1-77-1	7413958509438039	Old High German	oldh1241	the ice	ICE	617		îs	îs 
+46	11-1-78-1	7413959746685204	Old High German	oldh1241	the weather	WEATHER	952		wetar	wetar 
+47	11-1-81-1	7413959947731277	Old High German	oldh1241	the fire	FIRE	221		fiur	fiur 
+48	11-1-82-1	7413100505710145	Old High German	oldh1241	the flame	FLAME	889		flamma	flamma 
+49	11-1-83-1	7413103683023469	Old High German	oldh1241	the smoke	SMOKE (EXHAUST)	778		rouh	rouh 
+50	11-1-84-1	741310464215902	Old High German	oldh1241	the ash	ASH	646		asca	asca 
+51	11-1-841-1	7413105780524941	Old High German	oldh1241	the embers	EMBERS	67		gluot	gluot 
+52	11-1-851-1	74131018996218371	Old High German	oldh1241	to burn(1)	BURN (SOMETHING)	141		brennen	brennen 
+53	11-1-852-1	741310187469384	Old High German	oldh1241	to burn(2)	BURNING	1428		brinnan	brinnan 
+54	11-1-86-1	74131020230770672	Old High German	oldh1241	to light	LIGHT (IGNITE)	737		zunten	zunten 
+55	11-1-861-1	74131026776764521	Old High German	oldh1241	to extinguish	EXTINGUISH	127		lesken	lesken 
+56	11-1-87-1	74131040195657231	Old High German	oldh1241	the match	MATCH	1133		zunt(a)ra	zunt(a)ra 
+57	11-1-89-1	74131043582084921	Old High German	oldh1241	the charcoal	CHARCOAL	1188		kol(o)	kol(o) 
+58	11-2-1-1	74131045545870043	Old High German	oldh1241	the person	PERSON	683		mennisco	mennisco 
+59	11-2-21-1	74131046353989666	Old High German	oldh1241	the man	MAN	1554		man	man 
+60	11-2-22-1	74131048444425921	Old High German	oldh1241	the woman	WOMAN	962		wîb	wîb 
+61	11-2-23-1	74131049384225658	Old High German	oldh1241	male(1)	MALE (OF ANIMAL)	2263		man(a)lîh	man(a)lîh 
+62	11-2-24-1	74131051141691387	Old High German	oldh1241	female(1)	FEMALE (OF PERSON)	2260		wîblîh	wîblîh 
+63	11-2-25-1	7413105337954544	Old High German	oldh1241	the boy	BOY	1366		knab(b)o	knab(b)o 
+64	11-2-251-1	74131054487446461	Old High German	oldh1241	the young man	YOUNG MAN	76		jungeling	jungeling 
+65	11-2-26-1	7423119621454222	Old High German	oldh1241	the girl	GIRL	1646		thiorna	thiorna 
+66	11-2-261-1	74231110875127466	Old High German	oldh1241	the young woman	YOUNG WOMAN	77		jungfrouwa	jungfrouwa 
+67	11-2-27-1	74231114579038785	Old High German	oldh1241	the child(1)	CHILD (YOUNG HUMAN)	1304		barn	barn 
+68	11-2-28-1	74231115490964708	Old High German	oldh1241	the baby	BABY	1289		kindilîn	kindilîn 
+69	11-2-31-1	74231433287151954	Old High German	oldh1241	the husband	HUSBAND	1200		gomman	gomman 
+70	11-2-32-1	7423112082878477	Old High German	oldh1241	the wife	WIFE	1199		kwena	kwena 
+71	11-2-33-1	7423112945717481	Old High German	oldh1241	to marry	MARRY	203		hîwen	hîwen 
+72	11-2-34-1	74231436220804127	Old High German	oldh1241	the wedding	WEDDING	1259		brûtlouft	brûtlouft 
+73	11-2-341-1	7423150240953012	Old High German	oldh1241	the divorce	DIVORCE	1134		firtrîbunga	firtrîbunga 
+74	11-2-35-1	7423151153844406	Old High German	oldh1241	the father	FATHER	1217		fater	fater 
+75	11-2-36-1	7423152676243979	Old High German	oldh1241	the mother	MOTHER	1216		muoter	muoter 
+76	11-2-37-1	7423153637744427	Old High German	oldh1241	the parents	PARENTS	505		altiron, eldiron	altiron 
+77	11-2-37-2	7423153637744427	Old High German	oldh1241	the parents	PARENTS	505		altiron, eldiron	eldiron 
+78	11-2-38-1	74231523704389386	Old High German	oldh1241	the married man	MARRIED MAN	424		hî(w)o	hî(w)o 
+79	11-2-39-1	74231524626006307	Old High German	oldh1241	the married woman	MARRIED WOMAN	426		hî(w)a	hî(w)a 
+80	11-2-41-1	74231526783283293	Old High German	oldh1241	the son	SON	1620		sun	sun 
+81	11-2-42-1	74231527317136290	Old High German	oldh1241	the daughter	DAUGHTER	1357		tohter	tohter 
+82	11-2-43-1	74231537720715468	Old High German	oldh1241	the child(2)	CHILD (DESCENDANT)	1801		kind	kind 
+83	11-2-44-1	74231537574060621	Old High German	oldh1241	the brother	BROTHER	1262		bruoder	bruoder 
+84	11-2-45-1	74231540536035620	Old High German	oldh1241	the sister	SISTER	1263		swester	swester 
+85	11-2-458-1	74231545926780974	Old High German	oldh1241	the twins	TWINS	1005		zwiniling	zwiniling 
+86	11-2-46-1	74241119863111702	Old High German	oldh1241	the grandfather	GRANDFATHER	1383		ano	ano 
+87	11-2-47-1	74241121161695786	Old High German	oldh1241	the grandmother	GRANDMOTHER	1496		ana	ana 
+88	11-2-48-1	74241126892915334	Old High German	oldh1241	the grandson	GRANDSON	1618		enkilîn	enkilîn 
+89	11-2-49-1	7424112743993807	Old High German	oldh1241	the granddaughter	GRANDDAUGHTER	1619		nift(ila)	nift(ila) 
+90	11-2-511-1	74241318727002419	Old High German	oldh1241	the mother's brother	MOTHER'S BROTHER	1984		ôheim	ôheim 
+91	11-2-512-1	74241319894973077	Old High German	oldh1241	the father's brother	FATHER'S BROTHER	1985		fetiro	fetiro 
+92	11-2-521-1	74241325437501228	Old High German	oldh1241	the mother's sister	MOTHER'S SISTER	171		muoma	muoma 
+93	11-2-522-1	74241324242223968	Old High German	oldh1241	the father's sister	FATHER'S SISTER	170		basa	basa 
+94	11-2-53-1	74241326778583174	Old High German	oldh1241	the nephew	NEPHEW	1063		nefo	nefo 
+95	11-2-54-1	74241327112671437	Old High German	oldh1241	the niece	NIECE	1642		nift(a), niftila	nift(a) 
+96	11-2-54-2	74241327112671437	Old High German	oldh1241	the niece	NIECE	1642		nift(a), niftila	niftila 
+97	11-2-56-1	74241333186711487	Old High German	oldh1241	the ancestors	ANCESTORS	1669		fordaro	fordaro 
+98	11-2-57-1	74231537720715468	Old High German	oldh1241	the descendants	DESCENDANTS	490		kind	kind 
+99	11-2-61-1	74241343763342711	Old High German	oldh1241	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		swehur	swehur 
+100	11-2-611-1	74241343763342711	Old High German	oldh1241	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		swehur	swehur 
+101	11-2-62-1	74241344489551583	Old High German	oldh1241	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		swigar	swigar 
+102	11-2-621-1	74241344489551583	Old High German	oldh1241	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		swigar	swigar 
+103	11-2-63-1	74241347206416322	Old High German	oldh1241	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		eidum	eidum 
+104	11-2-631-1	74241347206416322	Old High German	oldh1241	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		eidum	eidum 
+105	11-2-64-1	74241349759975543	Old High German	oldh1241	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		snora	snora 
+106	11-2-641-1	74241349759975543	Old High German	oldh1241	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		snora	snora 
+107	11-2-71-1	74241351974379424	Old High German	oldh1241	the stepfather	STEPFATHER	237		stioffater	stioffater 
+108	11-2-72-1	74241352675095493	Old High German	oldh1241	the stepmother	STEPMOTHER	236		stiofmuoter	stiofmuoter 
+109	11-2-73-1	74241353900364086	Old High German	oldh1241	the stepson	STEPSON	1059		stiofsunu	stiofsunu 
+110	11-2-74-1	74241354684378061	Old High German	oldh1241	the stepdaughter	STEPDAUGHTER	1058		stioftohter	stioftohter 
+111	11-2-75-1	74241355373167715	Old High German	oldh1241	the orphan	ORPHAN	1149		weiso	weiso 
+112	11-2-76-1	7424135684185005	Old High German	oldh1241	the widow	WIDOW	1756		wituwa	wituwa 
+113	11-2-77-1	74241356146057072	Old High German	oldh1241	the widower	WIDOWER	1981		wituwo	wituwo 
+114	11-2-81-1	74241358752852617	Old High German	oldh1241	the relatives	RELATIVES	1644		nâhisto	nâhisto 
+115	11-2-82-1	7424142281017738	Old High German	oldh1241	the family	FAMILY	194		hîwiski	hîwiski 
+116	11-2-91-1	7424144633678241	Old High German	oldh1241	I	I	1209		ih	ih 
+117	11-2-92-1	7424145589290226	Old High German	oldh1241	you (singular)	THOU	1215		dû	dû 
+118	11-2-93-1	7424148448270702	Old High German	oldh1241	he/she/it	HE OR SHE OR IT	262		er/siu/iz	er 
+119	11-2-93-2	7424148448270702	Old High German	oldh1241	he/she/it	HE OR SHE OR IT	262		er/siu/iz	siu 
+120	11-2-93-3	7424148448270702	Old High German	oldh1241	he/she/it	HE OR SHE OR IT	262		er/siu/iz	iz 
+121	11-2-94-1	7424149785771312	Old High German	oldh1241	we	WE	1212		wir	wir 
+122	11-2-95-1	742414972542734	Old High German	oldh1241	you (plural)	YOU	1213		ir	ir 
+123	11-2-96-1	74241410693370689	Old High German	oldh1241	they	THEY	817		sie/sio/siu	sie 
+124	11-2-96-2	74241410693370689	Old High German	oldh1241	they	THEY	817		sie/sio/siu	sio 
+125	11-2-96-3	74241410693370689	Old High German	oldh1241	they	THEY	817		sie/sio/siu	siu 
+126	11-3-11-1	74241415370272141	Old High German	oldh1241	the animal	ANIMAL	619		tior	tior 
+127	11-3-15-1	7425829280610893	Old High German	oldh1241	the livestock	LIVESTOCK	631		fihu	fihu 
+128	11-3-16-1	7425830813893922	Old High German	oldh1241	the pasture	PASTURE	649		weida	weida 
+129	11-3-18-1	7425832536844751	Old High German	oldh1241	the herdsman	HERDSMAN	263		hirti	hirti 
+130	11-3-19-1	7425833684550220	Old High German	oldh1241	the stable or stall	STABLE	851		stal	stal 
+131	11-3-2-1	7425836447362436	Old High German	oldh1241	the cattle	CATTLE	1153		(h)rind	(h)rind 
+132	11-3-21-1	7425838172664996	Old High German	oldh1241	the bull	BULL	1008		stior	stior 
+133	11-3-22-1	7425838279629478	Old High German	oldh1241	the ox	OX	1169		ohso	ohso 
+134	11-3-23-1	7425854348714044	Old High German	oldh1241	the cow	COW	1007		kuo	kuo 
+135	11-3-24-1	742585566215442	Old High German	oldh1241	the calf	CALF	1989		kalb	kalb 
+136	11-3-25-1	7425856310738439	Old High German	oldh1241	the sheep	SHEEP	1331		scâf	scâf 
+137	11-3-26-1	7425859711893946	Old High German	oldh1241	the ram	RAM	1344		widar	widar 
+138	11-3-28-1	742590186121410	Old High German	oldh1241	the ewe	EWE	1345		ou	ou 
+139	11-3-29-1	742591595455023	Old High German	oldh1241	the lamb	LAMB	820		lamb	lamb 
+140	11-3-32-1	7425910199748471	Old High German	oldh1241	the boar	BOAR	1348		ebur	ebur 
+141	11-3-34-1	7425911355971442	Old High German	oldh1241	the sow	SOW (FEMALE PIG)	1351		sû	sû 
+142	11-3-35-1	7425912746677242	Old High German	oldh1241	the pig	PIG	1337		far(a)h	far(a)h 
+143	11-3-36-1	742591313705448	Old High German	oldh1241	the goat	GOAT	1502		geiz	geiz 
+144	11-3-37-1	7425921519252412	Old High German	oldh1241	the he-goat	HE-GOAT	264		boc, buc	boc 
+145	11-3-37-2	7425921519252412	Old High German	oldh1241	the he-goat	HE-GOAT	264		boc, buc	buc 
+146	11-3-38-1	7425922955662405	Old High German	oldh1241	the kid	KID	1972		zickîn	zickîn 
+147	11-3-41-1	7425923208118892	Old High German	oldh1241	the horse	HORSE	615		(h)ros	(h)ros 
+148	11-3-42-1	7425928833099577	Old High German	oldh1241	the stallion	STALLION	936		hengist	hengist 
+149	11-3-44-1	742593058311628	Old High German	oldh1241	the mare	MARE	938		meriha	meriha 
+150	11-3-45-1	7425932168808484	Old High German	oldh1241	the foal or colt	FOAL	1647		folo	folo 
+151	11-3-46-1	7425933126308650	Old High German	oldh1241	the donkey	DONKEY	1862		esil	esil 
+152	11-3-47-1	7425935689601073	Old High German	oldh1241	the mule	MULE	890		mûl	mûl 
+153	11-3-5-1	7425938655130903	Old High German	oldh1241	the fowl	FOWL	265		gifugili	gifugili 
+154	11-3-52-1	7425945219311476	Old High German	oldh1241	the cock/rooster	ROOSTER	1511		hano	hano 
+155	11-3-54-1	7425947942696046	Old High German	oldh1241	the hen	HEN	1514		henna	henna 
+156	11-3-55-1	7425954726408616	Old High German	oldh1241	the chicken	CHICKEN	1318		huon	huon 
+157	11-3-56-1	7425955383281540	Old High German	oldh1241	the goose	GOOSE	1187		gans	gans 
+158	11-3-57-1	7425957213800257	Old High German	oldh1241	the duck	DUCK	1360		anut	anut 
+159	11-3-58-1	7425958898515101	Old High German	oldh1241	the nest	NEST	539		nest	nest 
+160	11-3-581-1	7425959789943099	Old High German	oldh1241	the bird	BIRD	937		fogal, fugal	fogal 
+161	11-3-581-2	7425959789943099	Old High German	oldh1241	the bird	BIRD	937		fogal, fugal	fugal 
+162	11-3-583-1	7425102402740952	Old High German	oldh1241	the heron	HERON	758		reigaro, heigaro	reigaro 
+163	11-3-583-2	7425102402740952	Old High German	oldh1241	the heron	HERON	758		reigaro, heigaro	heigaro 
+164	11-3-584-1	7425103932858248	Old High German	oldh1241	the eagle	EAGLE	1905		aro, arn	aro 
+165	11-3-584-2	7425103932858248	Old High German	oldh1241	the eagle	EAGLE	1905		aro, arn	arn 
+166	11-3-585-1	7425104862559994	Old High German	oldh1241	the hawk	HAWK	307		habuh	habuh 
+167	11-3-586-1	7425105278549248	Old High German	oldh1241	the vulture	VULTURE	1185		gîr	gîr 
+168	11-3-591-1	7425106458468038	Old High German	oldh1241	the bat	BAT	1793		fledarmûs	fledarmûs 
+169	11-3-592-1	7425109251326369	Old High German	oldh1241	the parrot	PARROT	882		sitih	sitih 
+170	11-3-593-1	74251010394256993	Old High German	oldh1241	the crow	CROW	913		krâ(h/j/w)a	krâ(h/j/w)a 
+171	11-3-594-1	74251011161412003	Old High German	oldh1241	the dove	DOVE	1853		tûba	tûba 
+172	11-3-596-1	74251012437115811	Old High German	oldh1241	the owl	OWL	735		ûwila	ûwila 
+173	11-3-61-1	74251013210450586	Old High German	oldh1241	the dog	DOG	2009		hunt	hunt 
+174	11-3-614-1	74251015178385353	Old High German	oldh1241	the rabbit	RABBIT	1136		lôrihhîn	lôrihhîn 
+175	11-3-62-1	74251016445685296	Old High German	oldh1241	the cat	CAT	1208		kazza, kazzo	kazza 
+176	11-3-62-2	74251016445685296	Old High German	oldh1241	the cat	CAT	1208		kazza, kazzo	kazzo 
+177	11-3-63-1	74251024346335068	Old High German	oldh1241	the mouse or rat	MUROID (MOUSE OR RAT)	2139		mûs	mûs 
+178	11-3-65-1	74251025442423284	Old High German	oldh1241	the fish	FISH	227		fisc	fisc 
+179	11-3-652-1	74251026707294328	Old High German	oldh1241	the fin	FIN	213		flozza	flozza 
+180	11-3-653-1	74251027779444124	Old High German	oldh1241	the scale	SCALE	266		scuob(b)a	scuob(b)a 
+181	11-3-654-1	74251029270765174	Old High German	oldh1241	the gill	GILL	1916		kiuwa	kiuwa 
+182	11-3-655-1	74251050987441821	Old High German	oldh1241	the shell	SHELL	598		muscula	muscula 
+183	11-3-663-1	74251054133597070	Old High German	oldh1241	the whale	WHALE	957		(h)wal	(h)wal 
+184	11-3-665-1	74251056815416437	Old High German	oldh1241	the freshwater eel	FRESHWATER EEL	1013		âl	âl 
+185	11-3-71-1	74251056530418799	Old High German	oldh1241	the wolf	WOLF	522		wolf	wolf 
+186	11-3-72-1	74251058771488666	Old High German	oldh1241	the lion	LION	1386		lêo	lêo 
+187	11-3-73-1	74251059661226693	Old High German	oldh1241	the bear	BEAR	1820		bero	bero 
+188	11-3-74-1	7425111346273324	Old High German	oldh1241	the fox	FOX	1312		foha	foha 
+189	11-3-75-1	742511179236697	Old High German	oldh1241	the deer	DEER	1936		hir(u)z	hir(u)z 
+190	11-3-76-1	7425112409563967	Old High German	oldh1241	the monkey	MONKEY	1350		affo	affo 
+191	11-3-77-1	742511426638191	Old High German	oldh1241	the elephant	ELEPHANT	1290		helfant	helfant 
+192	11-3-78-1	7425115147974439	Old High German	oldh1241	the camel	CAMEL	1871		olbenta	olbenta 
+193	11-3-81-1	742511939979249	Old High German	oldh1241	the insect	INSECT	620		kevar	kevar 
+194	11-3-811-1	7425119229946711	Old High German	oldh1241	the head louse	HEAD LOUSE	310		lûs	lûs 
+195	11-3-812-1	74251110125344372	Old High German	oldh1241	the nit	NIT	267		(h)niz	(h)niz 
+196	11-3-813-1	74251111771799750	Old High German	oldh1241	the flea	FLEA	232		flôh	flôh 
+197	11-3-815-1	74251113477249871	Old High German	oldh1241	the scorpion	SCORPION	1538		scorp(i)o	scorp(i)o 
+198	11-3-816-1	74251114958127664	Old High German	oldh1241	the cockroach	COCKROACH	1575		scabo	scabo 
+199	11-3-817-1	7425111595980993	Old High German	oldh1241	the ant	ANT	587		ameiza	ameiza 
+200	11-3-818-1	74251115773245197	Old High German	oldh1241	the spider	SPIDER	843		spinna	spinna 
+201	11-3-819-1	74251116854352977	Old High German	oldh1241	the spider web	SPIDER WEB	1065		spinnawebbi	spinnawebbi 
+202	11-3-82-1	74251118759459463	Old High German	oldh1241	the bee	BEE	665		bini, bîa	bini 
+203	11-3-82-2	74251118759459463	Old High German	oldh1241	the bee	BEE	665		bini, bîa	bîa 
+204	11-3-821-1	74251119425672771	Old High German	oldh1241	the beeswax	BEESWAX	1931		wîzwahs	wîzwahs 
+205	11-3-822-1	7425112192052240	Old High German	oldh1241	the beehive	BEEHIVE	88		bîkar, binikar	bîkar 
+206	11-3-822-2	7425112192052240	Old High German	oldh1241	the beehive	BEEHIVE	88		bîkar, binikar	binikar 
+207	11-3-823-1	74251126841514176	Old High German	oldh1241	the wasp	WASP	1517		wefsa	wefsa 
+208	11-3-83-1	74251126705850940	Old High German	oldh1241	the fly	FLY (INSECT)	1504		flioga	flioga 
+209	11-3-831-1	74251128970869563	Old High German	oldh1241	the sandfly or midge or gnat	SANDFLY	95		mugga, mukka	mugga 
+210	11-3-831-2	74251128970869563	Old High German	oldh1241	the sandfly or midge or gnat	SANDFLY	95		mugga, mukka	mukka 
+211	11-3-84-1	74251129783070608	Old High German	oldh1241	the worm	WORM	1219		wurm	wurm 
+212	11-3-85-1	74251129450110926	Old High German	oldh1241	the snake	SNAKE	730		slango	slango 
+213	11-3-91-1	74251132981434248	Old High German	oldh1241	the firefly	FIREFLY	206		gleim(o), glîmo	gleim(o) 
+214	11-3-91-2	74251132981434248	Old High German	oldh1241	the firefly	FIREFLY	206		gleim(o), glîmo	glîmo 
+215	11-3-92-1	74251134519513289	Old High German	oldh1241	the butterfly	BUTTERFLY	1791		fîfalt(a)ra	fîfalt(a)ra 
+216	11-3-93-1	7425113650077278	Old High German	oldh1241	the grasshopper	GRASSHOPPER	607		hewiskrekko	hewiskrekko 
+217	11-3-94-1	74251137593422420	Old High German	oldh1241	the snail	SNAIL	1543		sneggo	sneggo 
+218	11-3-95-1	74251229260550661	Old High German	oldh1241	the frog	FROG	503		frosc	frosc 
+219	11-3-96-1	74251229274171015	Old High German	oldh1241	the lizard	LIZARD	632		egidehsa, ewidehsa	egidehsa 
+220	11-3-96-2	74251229274171015	Old High German	oldh1241	the lizard	LIZARD	632		egidehsa, ewidehsa	ewidehsa 
+221	11-3-97-1	7425123155591656	Old High German	oldh1241	the crocodile or alligator	CROCODILE	1857		nihhus	nihhus 
+222	11-3-98-1	74251232735795426	Old High German	oldh1241	the turtle	TURTLE	112		skertifedara	skertifedara 
+223	11-4-11-1	7426100636141620	Old High German	oldh1241	the body	BODY	1480		lîh	lîh 
+224	11-4-12-1	7426100400078747	Old High German	oldh1241	the skin or hide	SKIN	763		hût	hût 
+225	11-4-13-1	7426101698927620	Old High German	oldh1241	the flesh	FLESH	2259		fleisc	fleisc 
+226	11-4-14-1	7426102468704484	Old High German	oldh1241	the hair	HAIR (HEAD)	2648		hâr	hâr 
+227	11-4-142-1	7426103749398928	Old High German	oldh1241	the beard	BEARD	678		bart	bart 
+228	11-4-144-1	74261011507038715	Old High German	oldh1241	the body hair	HAIR (BODY)	189		lîhhâr	lîhhâr 
+229	11-4-146-1	74261014272613915	Old High German	oldh1241	the dandruff	DANDRUFF	576		grint	grint 
+230	11-4-15-1	74261016841846092	Old High German	oldh1241	the blood	BLOOD	946		bluot	bluot 
+231	11-4-151-1	74261017145466454	Old High German	oldh1241	the vein or artery	BLOOD VESSEL	525		âdra	âdra 
+232	11-4-16-1	74261017818067904	Old High German	oldh1241	the bone	BONE	1394		bein	bein 
+233	11-4-162-1	74261018412197726	Old High German	oldh1241	the rib	RIB	801		ribbi, rippi	ribbi 
+234	11-4-162-2	74261018412197726	Old High German	oldh1241	the rib	RIB	801		ribbi, rippi	rippi 
+235	11-4-17-1	74261123610442306	Old High German	oldh1241	the horn	HORN (ANATOMY)	1393		horn	horn 
+236	11-4-18-1	74261124296598535	Old High German	oldh1241	the tail	TAIL	1220		zagal	zagal 
+237	11-4-19-1	74261125685265691	Old High German	oldh1241	the back	BACK	1291		(h)ruggi	(h)ruggi 
+238	11-4-191-1	74261126499564820	Old High German	oldh1241	the spine	SPINE	805		ruggibein	ruggibein 
+239	11-4-2-1	74261127563697534	Old High German	oldh1241	the head	HEAD	1256		houbit	houbit 
+240	11-4-201-1	74261132672247869	Old High German	oldh1241	the temples	TEMPLES	1604		slâfbein	slâfbein 
+241	11-4-202-1	74261134326730483	Old High German	oldh1241	the skull	SKULL	1605		hirniskâla	hirniskâla 
+242	11-4-203-1	74261135843192137	Old High German	oldh1241	the brain	BRAIN	1583		hirni	hirni 
+243	11-4-204-1	74261136629283633	Old High German	oldh1241	the face	FACE	1560		gisiht	gisiht 
+244	11-4-205-1	74261137373261953	Old High German	oldh1241	the forehead	FOREHEAD	123		stirna	stirna 
+245	11-4-207-1	74261315363594837	Old High German	oldh1241	the jaw	JAW	798		kinnibakko	kinnibakko 
+246	11-4-208-1	74261319593753845	Old High German	oldh1241	the cheek	CHEEK	1730		wanga	wanga 
+247	11-4-209-1	74261319191352823	Old High German	oldh1241	the chin	CHIN	1510		kinni	kinni 
+248	11-4-21-1	74261320933594835	Old High German	oldh1241	the eye	EYE	1248		ouga	ouga 
+249	11-4-212-1	74261321506843870	Old High German	oldh1241	the eyebrow	EYEBROW	1173		brâwa	brâwa 
+250	11-4-213-1	74261324635560217	Old High German	oldh1241	the eyelid	EYELID	17		slegibrâwa	slegibrâwa 
+251	11-4-214-1	74261326561869095	Old High German	oldh1241	the eyelash	EYELASH	1540		wintbrâwa	wintbrâwa 
+252	11-4-215-1	74261329390717320	Old High German	oldh1241	to blink	BLINK	1655		brâwezzen	brâwezzen 
+253	11-4-22-1	7426133671680517	Old High German	oldh1241	the ear	EAR	1247		ôra	ôra 
+254	11-4-221-1	74261338376317592	Old High German	oldh1241	the earlobe	EARLOBE	18		ôrlappa	ôrlappa 
+255	11-4-222-1	74261339227967765	Old High German	oldh1241	the earwax	EARWAX	32		ôrsmero	ôrsmero 
+256	11-4-23-1	74261341849793029	Old High German	oldh1241	the nose	NOSE	1221		nasa	nasa 
+257	11-4-232-1	74261344745971214	Old High German	oldh1241	the nasal mucus	NASAL MUCUS (SNOT)	208		snegil	snegil 
+258	11-4-24-1	74261346345219622	Old High German	oldh1241	the mouth	MOUTH	674		mund	mund 
+259	11-4-241-1	74261347706893692	Old High German	oldh1241	the beak	BEAK	73		snabul	snabul 
+260	11-4-25-1	74261348532630640	Old High German	oldh1241	the lip	LIP	478		leffur, lefs	leffur 
+261	11-4-25-2	74261348532630640	Old High German	oldh1241	the lip	LIP	478		leffur, lefs	lefs 
+262	11-4-26-1	74261348767854543	Old High German	oldh1241	the tongue	TONGUE	1205		zunga	zunga 
+263	11-4-27-1	74261349361794935	Old High German	oldh1241	the tooth	TOOTH	1380		zan(d)	zan(d) 
+264	11-4-271-1	74261351131505535	Old High German	oldh1241	the gums	GUMS	139		bilarn	bilarn 
+265	11-4-272-1	74261352550104076	Old High German	oldh1241	the molar tooth	MOLAR TOOTH	1049		kinnizan(d)	kinnizan(d) 
+266	11-4-28-1	74261354384540131	Old High German	oldh1241	the neck	NECK	1333		hals	hals 
+267	11-4-281-1	7426135539002918	Old High German	oldh1241	the nape of the neck	NAPE (OF NECK)	1347		(h)nac	(h)nac 
+268	11-4-29-1	74261356105530792	Old High German	oldh1241	the throat	THROAT	1346		kela	kela 
+269	11-4-3-1	74261359592542154	Old High German	oldh1241	the shoulder	SHOULDER	1482		scultira	scultira 
+270	11-4-301-1	74261414832239822	Old High German	oldh1241	the shoulderblade	SHOULDERBLADE	172		hartî, hartin	hartî 
+271	11-4-301-2	74261414832239822	Old High German	oldh1241	the shoulderblade	SHOULDERBLADE	172		hartî, hartin	hartin 
+272	11-4-31-1	74261417819662085	Old High German	oldh1241	the arm	ARM	1673		arm (1)	arm (1) 
+273	11-4-312-1	74261418833813276	Old High German	oldh1241	the armpit	ARMPIT	1886		ahs(a)la	ahs(a)la 
+274	11-4-32-1	74261419962515027	Old High German	oldh1241	the elbow	ELBOW	981		elinbogo	elinbogo 
+275	11-4-321-1	74261421805878037	Old High German	oldh1241	the wrist	WRIST	799		(w)rist	(w)rist 
+276	11-4-33-1	74261422467681977	Old High German	oldh1241	the hand	HAND	1277		hant	hant 
+277	11-4-331-1	74261423431490859	Old High German	oldh1241	the palm of the hand	PALM OF HAND	1183		tenar	tenar 
+278	11-4-34-1	74261424757102833	Old High German	oldh1241	the finger	FINGER	1303		fingar	fingar 
+279	11-4-342-1	74261425722901373	Old High German	oldh1241	the thumb	THUMB	1781		thûmo	thûmo 
+280	11-4-344-1	74261426171463190	Old High German	oldh1241	the fingernail	FINGERNAIL	1258		nagal	nagal 
+281	11-4-345-1	74261427737508274	Old High German	oldh1241	the claw	CLAW	72		klâwa	klâwa 
+282	11-4-35-1	74271025614838711	Old High German	oldh1241	the leg	LEG	1297		gibeini	gibeini 
+283	11-4-351-1	74271029718455940	Old High German	oldh1241	the thigh	THIGH	800		dioh	dioh 
+284	11-4-352-1	74271029726669767	Old High German	oldh1241	the calf of the leg	CALF OF LEG	498		wado	wado 
+285	11-4-36-1	74271030291372775	Old High German	oldh1241	the knee	KNEE	1371		kneo, knio	kneo 
+286	11-4-36-2	74271030291372775	Old High German	oldh1241	the knee	KNEE	1371		kneo, knio	knio 
+287	11-4-37-1	74271031368539815	Old High German	oldh1241	the foot	FOOT	1301		fuoz	fuoz 
+288	11-4-371-1	74271033923243349	Old High German	oldh1241	the ankle	ANKLE	803		enkil	enkil 
+289	11-4-372-1	74271033585198555	Old High German	oldh1241	the heel	HEEL	980		fers(a)na	fers(a)na 
+290	11-4-374-1	74271036604620223	Old High German	oldh1241	the footprint	FOOTPRINT	318		fuozspor	fuozspor 
+291	11-4-38-1	74271036535531382	Old High German	oldh1241	the toe	TOE	1389		zêha	zêha 
+292	11-4-392-1	74271038905456630	Old High German	oldh1241	the wing	WING	1257		feddah, fettach	feddah 
+293	11-4-392-2	74271038905456630	Old High German	oldh1241	the wing	WING	1257		feddah, fettach	fettach 
+294	11-4-393-1	74271039312002376	Old High German	oldh1241	the feather	FEATHER	1201		fedara	fedara 
+295	11-4-4-1	7427104049266030	Old High German	oldh1241	the chest	CHEST	1592		brust	brust 
+296	11-4-41-1	7427104049266030	Old High German	oldh1241	the breast	BREAST	1402		brust	brust 
+297	11-4-412-1	74271044417760627	Old High German	oldh1241	the nipple or teat	NIPPLE	796		tutta	tutta 
+298	11-4-42-1	74271042806458738	Old High German	oldh1241	the udder	UDDER	154		ûtar	ûtar 
+299	11-4-43-1	74271047804634180	Old High German	oldh1241	the navel	NAVEL	1838		nabulo, nabalo	nabulo 
+300	11-4-43-2	74271047804634180	Old High German	oldh1241	the navel	NAVEL	1838		nabulo, nabalo	nabalo 
+301	11-4-44-1	74271048380262890	Old High German	oldh1241	the heart	HEART	1223		herza	herza 
+302	11-4-441-1	74271048135462580	Old High German	oldh1241	the lung	LUNG	688		lungun(na)	lungun(na) 
+303	11-4-45-1	74271049446295718	Old High German	oldh1241	the liver	LIVER	1224		lebara	lebara 
+304	11-4-451-1	74271050356204352	Old High German	oldh1241	the kidney	KIDNEY	489		nioro	nioro 
+305	11-4-452-1	74271052538774214	Old High German	oldh1241	the spleen	SPLEEN	1744		milzi	milzi 
+306	11-4-46-1	7427105235929682	Old High German	oldh1241	the stomach	STOMACH	819		mago	mago 
+307	11-4-461-1	74271055565183309	Old High German	oldh1241	the intestines or guts	INTESTINES	1991		tharm	tharm 
+308	11-4-463-1	74271057464402664	Old High German	oldh1241	the hip	HIP	1745		huf	huf 
+309	11-4-464-1	7427110204586857	Old High German	oldh1241	the buttocks	BUTTOCKS	834		arsbelli	arsbelli 
+310	11-4-47-1	742711166431265	Old High German	oldh1241	the womb	WOMB	804		wamba	wamba 
+311	11-4-49-1	7427113322710530	Old High German	oldh1241	the testicles	TESTICLES	797		hôdo	hôdo 
+312	11-4-492-1	742711581358095	Old High German	oldh1241	the penis	PENIS	1222		gimaht	gimaht 
+313	11-4-51-1	7427116563377432	Old High German	oldh1241	to breathe	BREATHE	1407		âtamôn	âtamôn 
+314	11-4-52-1	7427117713227813	Old High German	oldh1241	to yawn	YAWN	1028		ginên, ginôn	ginên 
+315	11-4-52-2	7427117713227813	Old High German	oldh1241	to yawn	YAWN	1028		ginên, ginôn	ginôn 
+316	11-4-521-1	74271127676054138	Old High German	oldh1241	to hiccough	HICCOUGH	162		naskô	naskô 
+317	11-4-53-1	742711283861654	Old High German	oldh1241	to cough	COUGH	879		huostôn	huostôn 
+318	11-4-54-1	74271129854153393	Old High German	oldh1241	to sneeze	SNEEZE	1621		(h)niosan	(h)niosan 
+319	11-4-55-1	74271132138186412	Old High German	oldh1241	to perspire	SWEAT (PERSPIRE)	126		swizzen	swizzen 
+320	11-4-56-1	74271134288914839	Old High German	oldh1241	to spit	SPIT	1440		spîwan	spîwan 
+321	11-4-58-1	742711371793580	Old High German	oldh1241	to bite	BITE	1403		bîzan	bîzan 
+322	11-4-59-1	74271147970296870	Old High German	oldh1241	to lick	LICK	319		lecken, leckôn	lecken 
+323	11-4-59-2	74271147970296870	Old High German	oldh1241	to lick	LICK	319		lecken, leckôn	leckôn 
+324	11-4-61-1	74271345957438837	Old High German	oldh1241	to sleep	SLEEP	1585		slâfan	slâfan 
+325	11-4-612-1	74271346244021	Old High German	oldh1241	to snore	SNORE	1983		gisnarchôn	gisnarchôn 
+326	11-4-62-1	74271346569908355	Old High German	oldh1241	to dream	DREAM (SOMETHING)	1920		troumen	troumen 
+327	11-4-63-1	74271347410388714	Old High German	oldh1241	to wake up	WAKE UP	1602		irwahhên	irwahhên 
+328	11-4-64-1	74271349508230591	Old High German	oldh1241	to fart	FART	1159		ferzan	ferzan 
+329	11-4-66-1	74271352748403921	Old High German	oldh1241	to shit	SHIT (DEFECATE)	676		biskîzan	biskîzan 
+330	11-4-67-1	7427149359252077	Old High German	oldh1241	to have sex	HAVE SEX	1785		samantwist	samantwist 
+331	11-4-68-1	74271411597044724	Old High German	oldh1241	to shiver	SHIVER	52		zittarôn	zittarôn 
+332	11-4-69-1	74271412247711568	Old High German	oldh1241	to bathe	BATHE	138		badôn	badôn 
+333	11-4-71-1	74271414313419884	Old High German	oldh1241	to beget	BEGET	1152		(gi)beran	(gi)beran 
+334	11-4-72-1	74271416677731210	Old High German	oldh1241	to be born	BE BORN	1090		giboran werdan	giboran werdan 
+335	11-4-73-1	74271418210359363	Old High German	oldh1241	pregnant	PREGNANT	1123		swangar	swangar 
+336	11-4-732-1	74271419460811311	Old High German	oldh1241	to conceive	CONCEIVE	1087		intfâhan	intfâhan 
+337	11-4-74-1	74271420548307409	Old High German	oldh1241	to be alive	BE ALIVE	1422		lebên (1)	lebên (1) 
+338	11-4-75-1	74271420590235384	Old High German	oldh1241	to die	DIE	1494		sterban	sterban 
+339	11-4-751-1	74271421838647838	Old High German	oldh1241	to drown	DROWN	1904		irtrinkan	irtrinkan 
+340	11-4-76-1	74271422969702527	Old High German	oldh1241	to kill	KILL	1417		tôden	tôden 
+341	11-4-77-1	74271423467287769	Old High German	oldh1241	the corpse	CORPSE	767		lîh(hamo)	lîh(hamo) 
+342	11-4-78-1	74271424187371370	Old High German	oldh1241	to bury	BURY	1719		bigraban	bigraban 
+343	11-4-79-1	74271425853749409	Old High German	oldh1241	the grave	GRAVE	1773		grab	grab 
+344	11-4-81-1	74271426693175894	Old High German	oldh1241	strong	STRONG	785		starc	starc 
+345	11-4-82-1	76121230532056910	Old High German	oldh1241	weak	WEAK	1601		weih	weih 
+346	11-4-83-1	74271427869513822	Old High German	oldh1241	healthy	HEALTHY	1364		gisunt(i)	gisunt(i) 
+347	11-4-84-1	7427142962623242	Old High German	oldh1241	sick/ill	SICK	1847		sioh	sioh 
+348	11-4-841-1	74271430606389678	Old High German	oldh1241	the fever	FEVER	1534		rito	rito 
+349	11-4-842-1	74271431312271841	Old High German	oldh1241	the goitre/goiter	GOITER	1957		kroph	kroph 
+350	11-4-843-1	74271433590032792	Old High German	oldh1241	the cold	COMMON COLD (DISEASE)	102		dampfo	dampfo 
+351	11-4-85-1	74271435209852262	Old High German	oldh1241	the wound or sore	WOUND	1109		wunta	wunta 
+352	11-4-852-1	74271436200836210	Old High German	oldh1241	the bruise	BRUISE	1148		blâwî	blâwî 
+353	11-4-853-1	74271445234321008	Old High German	oldh1241	the swelling	SWELLING	1903		giswulst	giswulst 
+354	11-4-854-1	74271446352315107	Old High German	oldh1241	the itch	ITCH	148		jukkido	jukkido 
+355	11-4-855-1	74271447371966981	Old High German	oldh1241	the blister	BLISTER	1584		blâsa	blâsa 
+356	11-4-856-1	74271449732024733	Old High German	oldh1241	the boil	BOIL (OF SKIN)	793		bul(l)a	bul(l)a 
+357	11-4-857-1	74271451809426872	Old High German	oldh1241	the pus	PUS	1808		eitar	eitar 
+358	11-4-858-1	74271452100523142	Old High German	oldh1241	the scar	SCAR	497		narwa	narwa 
+359	11-4-86-1	74271516729343626	Old High German	oldh1241	to cure	CURE	499		heilen	heilen 
+360	11-4-87-1	74271517107955193	Old High German	oldh1241	the physician	PHYSICIAN	597		arzât	arzât 
+361	11-4-88-1	74271545632373662	Old High German	oldh1241	the medicine	MEDICINE	1372		lâhhan	lâhhan 
+362	11-4-89-1	74271547568182159	Old High German	oldh1241	the poison	POISON	655		lubbi	lubbi 
+363	11-4-91-1	74271547405610292	Old High German	oldh1241	tired	TIRED	1757		muodi	muodi 
+364	11-4-912-1	74271554422328097	Old High German	oldh1241	to rest	REST	168		ruowên	ruowên 
+365	11-4-92-1	74271555108334348	Old High German	oldh1241	lazy	LAZY	1564		trâgi	trâgi 
+366	11-4-93-1	74271556974128661	Old High German	oldh1241	bald	BALD	1125		kalo	kalo 
+367	11-4-94-1	7427155735668494	Old High German	oldh1241	lame	LAME	320		lam	lam 
+368	11-4-95-1	74271557606046032	Old High German	oldh1241	deaf	DEAF	996		toub	toub 
+369	11-4-96-1	74271558978523367	Old High German	oldh1241	mute	MUTE	1666		stum	stum 
+370	11-4-97-1	74271558302877057	Old High German	oldh1241	blind	BLIND	1653		blint	blint 
+371	11-4-98-1	74271559963104480	Old High German	oldh1241	drunk	DRUNK	1463		trunkan	trunkan 
+372	11-4-99-1	742716075700493	Old High German	oldh1241	naked	NAKED	590		nackot	nackot 
+373	11-5-11-1	752815282825362	Old High German	oldh1241	to eat	EAT	1336		ezzan	ezzan 
+374	11-5-12-1	752816467508439	Old High German	oldh1241	the food	FOOD	256		narunga	narunga 
+375	11-5-121-1	752818979977924	Old High German	oldh1241	cooked	COOKED	269		gisotan	gisotan 
+376	11-5-122-1	75282099351159	Old High German	oldh1241	raw	RAW	1959		(h)rô	(h)rô 
+377	11-5-123-1	752820278632635	Old High German	oldh1241	ripe	RIPE	178		rîfi	rîfi 
+378	11-5-124-1	752827473575907	Old High German	oldh1241	unripe	UNRIPE	1958		un(h)rîfi	un(h)rîfi 
+379	11-5-125-1	752831658131894	Old High German	oldh1241	rotten	ROTTEN	1728		fûl	fûl 
+380	11-5-13-1	752832470500822	Old High German	oldh1241	to drink	DRINK	1401		trinkan	trinkan 
+381	11-5-14-1	752839467191649	Old High German	oldh1241	to be hungry	BE HUNGRY	1533		hungarên	hungarên 
+382	11-5-141-1	752841272055722	Old High German	oldh1241	the famine	FAMINE	199		hungar	hungar 
+383	11-5-15-1	752841907016181	Old High German	oldh1241	to be thirsty	THIRSTY	847		durstên	durstên 
+384	11-5-16-1	752842177424462	Old High German	oldh1241	to suck	SUCK	1421		sûgan	sûgan 
+385	11-5-18-1	752843619690899	Old High German	oldh1241	to chew	CHEW	321		kiuwan	kiuwan 
+386	11-5-19-1	75291165214379	Old High German	oldh1241	to choke	CHOKE	129		wurgen	wurgen 
+387	11-5-21-1	752912416325130	Old High German	oldh1241	to cook	COOK (SOMETHING)	1100		kohhôn	kohhôn 
+388	11-5-22-1	752935513314693	Old High German	oldh1241	to boil	BOIL (OF LIQUID)	792		siodan	siodan 
+389	11-5-23-1	752937704345394	Old High German	oldh1241	to roast or fry	ROAST OR FRY	2146		brâtan	brâtan 
+390	11-5-24-1	752938963776321	Old High German	oldh1241	to bake	BAKE	183		bahhan	bahhan 
+391	11-5-25-1	75293986637433	Old High German	oldh1241	the oven	OVEN	1143		ovan, ofan	ovan 
+392	11-5-25-2	75293986637433	Old High German	oldh1241	the oven	OVEN	1143		ovan, ofan	ofan 
+393	11-5-26-1	752940609442288	Old High German	oldh1241	the pot	POT	1462		tuphin	tuphin 
+394	11-5-27-1	7529421962106	Old High German	oldh1241	the kettle	KETTLE	854		kezzil	kezzil 
+395	11-5-28-1	752943185320749	Old High German	oldh1241	the pan	PAN	31		pfanna	pfanna 
+396	11-5-31-1	752944644530854	Old High German	oldh1241	the dish	DISH	481		scâla	scâla 
+397	11-5-33-1	752951603861844	Old High German	oldh1241	the bowl	BOWL	1530		(h)naph	(h)naph 
+398	11-5-34-1	752952507917231	Old High German	oldh1241	the jug/pitcher	JUG	270		kruog	kruog 
+399	11-5-35-1	752951603861844	Old High German	oldh1241	the cup	CUP	476		(h)naph	(h)naph 
+400	11-5-37-1	752955678598126	Old High German	oldh1241	the spoon	SPOON	1378		leffil	leffil 
+401	11-5-38-1	752957565730856	Old High German	oldh1241	the knife(1)	KNIFE (FOR EATING)	3210		mezzisahs	mezzisahs 
+402	11-5-391-1	7521015983447122	Old High German	oldh1241	the tongs	TONGS	272		zanga	zanga 
+403	11-5-41-1	7521017199092727	Old High German	oldh1241	the meal	MEAL	1526		gouma	gouma 
+404	11-5-43-1	7521023374321054	Old High German	oldh1241	the lunch	LUNCH	768		untarn	untarn 
+405	11-5-45-1	7521025731545619	Old High German	oldh1241	the supper	DINNER (SUPPER)	1833		âbandmuos	âbandmuos 
+406	11-5-46-1	752102780539084	Old High German	oldh1241	to peel	PEEL	275		skel(l)en	skel(l)en 
+407	11-5-47-1	7521028866551394	Old High German	oldh1241	to sieve or to strain	SIEVE	86		(h)redan	(h)redan 
+408	11-5-48-1	7521031650781761	Old High German	oldh1241	to scrape	SCRAPE	1767		krazzôn	krazzôn 
+409	11-5-49-1	7521031505938208	Old High German	oldh1241	to stir or to mix	MIX	2017		(h)ruoren	(h)ruoren 
+410	11-5-51-1	7521032668151058	Old High German	oldh1241	the bread	BREAD	1368		brôt	brôt 
+411	11-5-53-1	7521033413000077	Old High German	oldh1241	the dough	DOUGH	273		teig	teig 
+412	11-5-54-1	7521034692104938	Old High German	oldh1241	to knead	KNEAD	274		knetan	knetan 
+413	11-5-55-1	7521035658615675	Old High German	oldh1241	the flour	FLOUR	1594		melo	melo 
+414	11-5-56-1	7521036672670757	Old High German	oldh1241	to crush or to grind	GRIND	1033		malan	malan 
+415	11-5-57-1	7521037707023904	Old High German	oldh1241	the mill	MILL	636		quirn(a)	quirn(a) 
+416	11-5-58-1	7521038305091610	Old High German	oldh1241	the mortar(1)	MORTAR CRUSHER	224		mortâri	mortâri 
+417	11-5-59-1	7521041252719937	Old High German	oldh1241	the pestle	PESTLE	225		rîbil	rîbil 
+418	11-5-61-1	7426101698927620	Old High German	oldh1241	the meat	MEAT	634		fleisc	fleisc 
+419	11-5-63-1	7521045407597568	Old High German	oldh1241	the sausage	SAUSAGE	1874		brod	brod 
+420	11-5-64-1	7521045657253729	Old High German	oldh1241	the soup	SOUP	1547		jussal	jussal 
+421	11-5-65-1	7521053993443793	Old High German	oldh1241	the vegetables	VEGETABLES	924		smalasât	smalasât 
+422	11-5-66-1	7521055384751750	Old High German	oldh1241	the bean	BEAN	832		bôna	bôna 
+423	11-5-71-1	7521056983330770	Old High German	oldh1241	the fruit	FRUIT	1507		obaz	obaz 
+424	11-5-75-1	752113112096203	Old High German	oldh1241	the fig	FIG	322		fîga	fîga 
+425	11-5-76-1	752115271934615	Old High German	oldh1241	the grape	GRAPE	920		drûbo	drûbo 
+426	11-5-77-1	752115444839783	Old High German	oldh1241	the nut	NUT	191		(h)nuz	(h)nuz 
+427	11-5-78-1	752117303187270	Old High German	oldh1241	the olive	OLIVE	1154		oliberi	oliberi 
+428	11-5-79-1	752118542259076	Old High German	oldh1241	the oil	OIL (ORGANIC SUBSTANCE)	1484		smalz	smalz 
+429	11-5-791-1	7521113288484276	Old High German	oldh1241	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		unsli(h)t	unsli(h)t 
+430	11-5-81-1	7521115388106682	Old High German	oldh1241	the salt	SALT	1274		salz	salz 
+431	11-5-82-1	7521116969438899	Old High German	oldh1241	the pepper	PEPPER	1385		pheffur, pheffar	pheffur 
+432	11-5-82-2	7521116969438899	Old High German	oldh1241	the pepper	PEPPER	1385		pheffur, pheffar	pheffar 
+433	11-5-84-1	7521118987226471	Old High German	oldh1241	the honey	HONEY	942		honag	honag 
+434	11-5-85-1	7521119611964789	Old High German	oldh1241	the sugar	SUGAR	862		zuckar	zuckar 
+435	11-5-86-1	7521123657752699	Old High German	oldh1241	the milk	MILK	635		miluh	miluh 
+436	11-5-87-1	752112447637566	Old High German	oldh1241	to milk	DRAW MILK	93		melkan	melkan 
+437	11-5-88-1	7521125924397978	Old High German	oldh1241	the cheese	CHEESE	1569		kâsi	kâsi 
+438	11-5-89-1	7521126949936095	Old High German	oldh1241	the butter	BUTTER	1245		butira	butira 
+439	11-5-9-1	7521127140005957	Old High German	oldh1241	the drink	BEVERAGE	731		tranc	tranc 
+440	11-5-91-1	7521128261324326	Old High German	oldh1241	the mead	MEAD	941		meto	meto 
+441	11-5-92-1	7521128304952741	Old High German	oldh1241	the wine	WINE	1524		wîn	wîn 
+442	11-5-93-1	7521129199921962	Old High German	oldh1241	the beer	BEER	1639		bior	bior 
+443	11-5-97-1	7521131800467846	Old High German	oldh1241	the egg	EGG	744		ei	ei 
+444	11-6-11-1	7521315402511906	Old High German	oldh1241	to put on	PUT ON	158		wâten	wâten 
+445	11-6-12-1	7521314650187926	Old High German	oldh1241	the clothing or clothes	CLOTHES	1895		(gi)wâti()	(gi)wâti() 
+446	11-6-13-1	752139960076375	Old High German	oldh1241	the tailor	TAILOR	881		nâtâri	nâtâri 
+447	11-6-21-1	7521316923484072	Old High German	oldh1241	the cloth	CLOTH	1616		tuoh	tuoh 
+448	11-6-22-1	752131771423508	Old High German	oldh1241	the wool	WOOL	964		wolla	wolla 
+449	11-6-23-1	7521320768387188	Old High German	oldh1241	the linen	LINEN	916		saban	saban 
+450	11-6-24-1	7521322851519717	Old High German	oldh1241	the cotton	COTTON	1850		boumwolla	boumwolla 
+451	11-6-25-1	7521323533544988	Old High German	oldh1241	the silk	SILK	1641		sîda	sîda 
+452	11-6-27-1	7521324172977702	Old High German	oldh1241	the felt	FELT	325		filz	filz 
+453	11-6-28-1	7521326749827089	Old High German	oldh1241	the fur	FUR	580		pelliz	pelliz 
+454	11-6-29-1	7521327236566925	Old High German	oldh1241	the leather	LEATHER	629		ledar	ledar 
+455	11-6-31-1	7521328146378146	Old High German	oldh1241	to spin	SPIN	121		spinnan	spinnan 
+456	11-6-32-1	7521328264466195	Old High German	oldh1241	the spindle	SPINDLE	277		spinula	spinula 
+457	11-6-33-1	7521329305638406	Old High German	oldh1241	to weave	WEAVE	133		weban	weban 
+458	11-6-35-1	752133296200203	Old High German	oldh1241	to sew	SEW	1457		nâen	nâen 
+459	11-6-36-1	76211242888506949	Old High German	oldh1241	the needle(1)	NEEDLE (FOR SEWING)	1382		nâdala	nâdala 
+460	11-6-37-1	7521334501729517	Old High German	oldh1241	the awl	AWL	278		âla	âla 
+461	11-6-38-1	7521335826825073	Old High German	oldh1241	the thread	THREAD	1161		garn	garn 
+462	11-6-39-1	7521336730515832	Old High German	oldh1241	to dye	DYE	157		far(a)wen	far(a)wen 
+463	11-6-41-1	752133713458191	Old High German	oldh1241	the cloak	CLOAK	326		mantal	mantal 
+464	11-7-37-1	753130140835540	Old High German	oldh1241	the ladder	LADDER	1464		(h)leitara	(h)leitara 
+465	11-6-42-1	7521340172895990	Old High German	oldh1241	the (woman's) dress	DRESS	474		wîbgiwâti	wîbgiwâti 
+466	11-6-43-1	7521343113626800	Old High German	oldh1241	the coat	COAT	603		lahhan	lahhan 
+467	11-6-44-1	752142759998103	Old High German	oldh1241	the shirt	SHIRT	1622		hemidi	hemidi 
+468	11-6-46-1	75214583267961	Old High German	oldh1241	the skirt	SKIRT	1600		kozzo	kozzo 
+469	11-6-48-1	7521412878051785	Old High German	oldh1241	the trousers	TROUSERS	809		hosa	hosa 
+470	11-6-49-1	7521413107661805	Old High German	oldh1241	the sock or stocking	STOCKING	329		soc	soc 
+471	11-6-51-1	7521414218387552	Old High German	oldh1241	the shoe	SHOE	1381		scuoh	scuoh 
+472	11-6-52-1	7521415119483359	Old High German	oldh1241	the boot	BOOT	585		kelisa	kelisa 
+473	11-6-54-1	7521417110757610	Old High German	oldh1241	the shoemaker	SHOEMAKER	875		skuohbuozo	skuohbuozo 
+474	11-6-55-1	753929888039379	Old High German	oldh1241	the hat or cap	HEADGEAR	2130		huot	huot 
+475	11-6-57-1	753930731002891	Old High German	oldh1241	the belt	BELT	772		gurtil	gurtil 
+476	11-6-58-1	753931115044868	Old High German	oldh1241	the glove	GLOVE	867		hantscuoh	hantscuoh 
+477	11-6-59-1	75393911566763	Old High German	oldh1241	the veil	VEIL	1151		ougfano	ougfano 
+478	11-6-62-1	753950293069176	Old High German	oldh1241	the button	BUTTON	757		knopf	knopf 
+479	11-6-63-1	753103907289229	Old High German	oldh1241	the pin	PIN	64		nuska	nuska 
+480	11-6-71-1	753106823666080	Old High German	oldh1241	the ornament or adornment	ORNAMENT	917		zierida	zierida 
+481	11-6-72-1	753108786835813	Old High German	oldh1241	the jewel	JEWEL	1029		gimma	gimma 
+482	11-6-73-1	7531010206302119	Old High German	oldh1241	the ring	RING	1374		(h)ring	(h)ring 
+483	11-6-74-1	7531034859044395	Old High German	oldh1241	the bracelet	BRACELET	1754		armboug	armboug 
+484	11-6-75-1	7531037738113637	Old High German	oldh1241	the necklace	NECKLACE	1961		halsbant	halsbant 
+485	11-6-76-1	7531038981676670	Old High German	oldh1241	the bead	BEAD	1860		perala, perula	perala 
+486	11-6-76-2	7531038981676670	Old High German	oldh1241	the bead	BEAD	1860		perala, perula	perula 
+487	11-6-77-1	753104061052095	Old High German	oldh1241	the earring	EARRING	770		ôrring	ôrring 
+488	11-6-78-1	7531041431528058	Old High German	oldh1241	the headband or headdress	HEADBAND	330		binta	binta 
+489	11-6-82-1	7531045318298989	Old High German	oldh1241	the towel	TOWEL	1021		dwahila	dwahila 
+490	11-6-91-1	7531045169126695	Old High German	oldh1241	the comb	COMB	1475		kamb(o)	kamb(o) 
+491	11-6-921-1	7531049600253876	Old High German	oldh1241	the plait/braid	BRAID	1043		zopf	zopf 
+492	11-6-93-1	7531051861316822	Old High German	oldh1241	the razor	RAZOR	151		skarasahs	skarasahs 
+493	11-6-94-1	7531052908889689	Old High German	oldh1241	the ointment	OINTMENT	1926		salb(a)	salb(a) 
+494	11-6-95-1	7531053818214946	Old High German	oldh1241	the soap	SOAP	788		seifa	seifa 
+495	11-6-96-1	7531054326482142	Old High German	oldh1241	the mirror	MIRROR	1171		spiagal	spiagal 
+496	11-7-11-1	74271420548307409	Old High German	oldh1241	to live	DWELL (LIVE, RESIDE)	363		lebên (1)	lebên (1) 
+497	11-7-12-1	753105681303238	Old High German	oldh1241	the house	HOUSE	1252		hûs	hûs 
+498	11-7-13-1	753111831835181	Old High German	oldh1241	the hut	HUT	1678		hutta	hutta 
+499	11-7-14-1	7531111897012697	Old High German	oldh1241	the tent	TENT	1316		zelt	zelt 
+500	11-7-15-1	7531112763198021	Old High German	oldh1241	the yard or court	YARD	736		hof	hof 
+501	11-7-18-1	7531127668025443	Old High German	oldh1241	the meeting house	MEETING HOUSE	335		sprâhhûs	sprâhhûs 
+502	11-7-21-1	753124310337227	Old High German	oldh1241	the room	ROOM	1450		zimbar	zimbar 
+503	11-7-22-1	7531244704757426	Old High German	oldh1241	the door or gate	DOOR	1567		turi	turi 
+504	11-7-221-1	7531245299364500	Old High German	oldh1241	the doorpost	DOORPOST	80		turistuodal	turistuodal 
+505	11-7-23-1	7531246168577502	Old High German	oldh1241	the lock	LOCK	1596		sloz	sloz 
+506	11-7-24-1	7531248543038623	Old High German	oldh1241	the key	KEY	1472		sluzzil	sluzzil 
+507	11-7-25-1	7531249181663829	Old High German	oldh1241	the window	WINDOW	1375		finestra	finestra 
+508	11-7-26-1	7531252977597299	Old High German	oldh1241	the floor	FLOOR	1632		astrih, estrih	astrih 
+509	11-7-26-2	7531252977597299	Old High German	oldh1241	the floor	FLOOR	1632		astrih, estrih	estrih 
+510	11-7-27-1	7531254740852955	Old High German	oldh1241	the wall	WALL (OF HOUSE)	933		want	want 
+511	11-7-31-1	7531256198074167	Old High German	oldh1241	the fireplace	FIREPLACE	185		fiurstat	fiurstat 
+512	11-7-32-1	753125748987916	Old High German	oldh1241	the stove	STOVE	859		herd	herd 
+513	11-7-33-1	7531259542083726	Old High German	oldh1241	the chimney	CHIMNEY	1305		scorrenstein	scorrenstein 
+514	11-7-42-1	753131281812998	Old High German	oldh1241	the bed	BED	1663		betti	betti 
+515	11-7-421-1	753132658405646	Old High German	oldh1241	the pillow	PILLOW	1044		kussîn	kussîn 
+516	11-7-422-1	753134853744093	Old High German	oldh1241	the blanket	BLANKET	806		deckî	deckî 
+517	11-7-43-1	75313521650654	Old High German	oldh1241	the chair	CHAIR	1476		stuol	stuol 
+518	11-7-44-1	7531336714645087	Old High German	oldh1241	the table	TABLE	1775		tisc	tisc 
+519	11-7-45-1	7531337945612867	Old High German	oldh1241	the lamp or torch	TORCH OR LAMP	2131		fackala	fackala 
+520	11-7-46-1	753133956117941	Old High German	oldh1241	the candle	CANDLE	1273		kerza	kerza 
+521	11-7-48-1	7531343235370749	Old High German	oldh1241	the trough	TROUGH	205		trog	trog 
+522	11-7-51-1	7531343645371023	Old High German	oldh1241	the roof	ROOF	769		thah	thah 
+523	11-7-53-1	7531345919864549	Old High German	oldh1241	the ridgepole	RIDGEPOLE	280		first	first 
+524	11-7-54-1	7531346697277003	Old High German	oldh1241	the rafter	RAFTER	829		sparro	sparro 
+525	11-7-55-1	753134750256610	Old High German	oldh1241	the beam	BEAM	1132		balko	balko 
+526	11-7-56-1	7531349284500092	Old High German	oldh1241	the post or pole	POST	281		sûl	sûl 
+527	11-7-57-1	7531351917437114	Old High German	oldh1241	the board	BOARD	1227		bret	bret 
+528	11-7-58-1	7531352599389660	Old High German	oldh1241	the arch	ARCH	876		bogo	bogo 
+529	11-7-61-1	7531354728885011	Old High German	oldh1241	the mason	MASON	877		steinbôzil	steinbôzil 
+530	11-7-62-1	7531356167603614	Old High German	oldh1241	the brick	BRICK	1006		ziegal	ziegal 
+531	11-7-63-1	7531431975007235	Old High German	oldh1241	the mortar(2)	MORTAR BINDER	1731		kalc	kalc 
+532	11-8-11-1	7531437853068502	Old High German	oldh1241	the farmer	FARMER	979		akkarman	akkarman 
+533	11-8-12-1	7531439988827193	Old High German	oldh1241	the field	FIELD	212		ackar	ackar 
+534	11-8-13-1	7531439204706495	Old High German	oldh1241	the garden	GARDEN	586		garto	garto 
+535	11-8-15-1	7531441721846365	Old High German	oldh1241	to cultivate	CULTIVATE	1541		bûwan	bûwan 
+536	11-8-16-1	7531441820460638	Old High German	oldh1241	the fence	FENCE	1690		zûn	zûn 
+537	11-8-17-1	7531442153075411	Old High German	oldh1241	the ditch	DITCH	2002		grabo	grabo 
+538	11-8-21-1	7531443211041827	Old High German	oldh1241	to plough/plow	PLOUGH	1921		erien	erien 
+539	11-8-212-1	7531446986051934	Old High German	oldh1241	the furrow	FURROW	1794		furh	furh 
+540	11-8-22-1	7531447760106361	Old High German	oldh1241	to dig	DIG	1418		graban	graban 
+541	11-8-23-1	7531448770169346	Old High German	oldh1241	the spade	SPADE	1176		vanga	vanga 
+542	11-8-24-1	7531449582437972	Old High German	oldh1241	the shovel	SHOVEL	1901		scûfla	scûfla 
+543	11-8-25-1	7531451424770145	Old High German	oldh1241	the hoe	HOE	284		houwa	houwa 
+544	11-8-26-1	7531453428936805	Old High German	oldh1241	the fork(2)/pitchfork	PITCHFORK	337		furka	furka 
+545	11-8-27-1	7531455549063824	Old High German	oldh1241	the rake	RAKE	338		rehho	rehho 
+546	11-8-31-1	7531456616121504	Old High German	oldh1241	to sow	SOW SEEDS	748		sâen	sâen 
+547	11-8-311-1	7531457956645177	Old High German	oldh1241	the seed	SEED	714		sâmo	sâmo 
+548	11-8-32-1	7531458512043743	Old High German	oldh1241	to mow	MOW	190		mâen	mâen 
+549	11-8-33-1	7531458999748547	Old High German	oldh1241	the sickle or scythe	SICKLE OR SCYTHE	2132		segansa	segansa 
+550	11-8-34-1	753150769054542	Old High German	oldh1241	to thresh	THRESH	285		drescan	drescan 
+551	11-8-35-1	753152877346473	Old High German	oldh1241	the threshing-floor	THRESHING-FLOOR	223		tenni	tenni 
+552	11-8-41-1	753153186412734	Old High German	oldh1241	the harvest	HARVEST	611		arnôt	arnôt 
+553	11-8-42-1	753154974919472	Old High German	oldh1241	the grain	GRAIN	605		korn	korn 
+554	11-8-43-1	753155213553734	Old High German	oldh1241	the wheat	WHEAT	1077		(h)weizzi	(h)weizzi 
+555	11-8-44-1	753156283636972	Old High German	oldh1241	the barley	BARLEY	932		gersta	gersta 
+556	11-8-45-1	753156274108844	Old High German	oldh1241	the rye	RYE	23		roggo	roggo 
+557	11-8-46-1	753157356106325	Old High German	oldh1241	the oats	OAT	60		habaro	habaro 
+558	11-8-51-1	75315914650567	Old High German	oldh1241	the grass	GRASS	606		gras	gras 
+559	11-8-52-1	7531510319549604	Old High German	oldh1241	the hay	HAY	342		houwi	houwi 
+560	11-8-531-1	753151366693182	Old High German	oldh1241	to plant	PLANT (SOMETHING)	1486		pflanzôn	pflanzôn 
+561	11-8-54-1	7531516597704365	Old High German	oldh1241	the root	ROOT	670		wurzala	wurzala 
+562	11-8-55-1	754102323065803	Old High German	oldh1241	the branch	BRANCH OR TWIG	3223		ast	ast 
+563	11-8-56-1	754102586911183	Old High German	oldh1241	the leaf	LEAF	628		blat	blat 
+564	11-8-57-1	75410368982622	Old High German	oldh1241	the flower	FLOWER	239		bluomo	bluomo 
+565	11-8-6-1	754104958096681	Old High German	oldh1241	the tree	TREE	906		boum	boum 
+566	11-8-61-1	754104871835582	Old High German	oldh1241	the oak	OAK	644		eih(ha)	eih(ha) 
+567	11-8-62-1	754105120627730	Old High German	oldh1241	the beech	BEECH	1950		buohha	buohha 
+568	11-8-63-1	754105641029002	Old High German	oldh1241	the birch	BIRCH	1855		birka	birka 
+569	11-8-64-1	754106907506565	Old High German	oldh1241	the pine	PINE	1740		pînboum	pînboum 
+570	11-8-65-1	754108825018350	Old High German	oldh1241	the fir	FIR	1915		tanna	tanna 
+571	11-8-66-1	754109987614925	Old High German	oldh1241	the acorn	ACORN	968		eihhila	eihhila 
+572	11-8-67-1	7541010670752995	Old High German	oldh1241	the vine	VINE	343		reba	reba 
+573	11-8-72-1	7541024876511920	Old High German	oldh1241	the tree stump	TREE STUMP	241		stumph (1)	stumph (1) 
+574	11-8-73-1	754102683871783	Old High German	oldh1241	the tree trunk	TREE TRUNK	344		stam	stam 
+575	11-8-74-1	7541027322324756	Old High German	oldh1241	the forked branch	FORKED BRANCH	409		zwisila	zwisila 
+576	11-8-75-1	7541029335480549	Old High German	oldh1241	the bark	BARK	1204		rinta	rinta 
+577	11-8-76-1	7541030538744746	Old High German	oldh1241	the sap	SAP	345		saf	saf 
+578	11-8-81-1	7541031307594827	Old High German	oldh1241	the palm tree	PALM TREE	1181		palma	palma 
+579	11-8-931-1	7541037518310028	Old High German	oldh1241	the pumpkin or squash	PUMPKIN	864		kurbiz	kurbiz 
+580	11-8-97-1	7541039759080591	Old High German	oldh1241	the nettle	NETTLE	33		nezzila	nezzila 
+581	11-8-98-1	7541041879368459	Old High German	oldh1241	the mushroom	MUSHROOM	641		swam(b)	swam(b) 
+582	11-9-11-1	759919263151543	Old High German	oldh1241	to do	DO	813		tuon	tuon 
+583	11-9-12-1	759923920491684	Old High German	oldh1241	the work	WORK (LABOUR)	984		arbeit(i)	arbeit(i) 
+584	11-9-14-1	75993465653920	Old High German	oldh1241	to bend	BEND	2004		biogan	biogan 
+585	11-9-15-1	759935847784761	Old High German	oldh1241	to fold	FOLD	1470		faldan	faldan 
+586	11-9-16-1	759939373564508	Old High German	oldh1241	to tie	TIE	1917		bintan	bintan 
+587	11-9-161-1	759942880578529	Old High German	oldh1241	to untie	UNTIE	352		lôsen	lôsen 
+588	11-9-18-1	751110304941973	Old High German	oldh1241	the chain	CHAIN	1627		ketin(n)a	ketin(n)a 
+589	11-9-19-1	75111034909129140	Old High German	oldh1241	the rope	ROPE	1218		seil	seil 
+590	11-9-192-1	753950293069176	Old High German	oldh1241	the knot	KNOT	760		knopf	knopf 
+591	11-9-21-1	75111036222938118	Old High German	oldh1241	to strike or hit or beat	STRIKE OR BEAT	2133		slahan	slahan 
+592	11-9-211-1	764850502200844	Old High German	oldh1241	to pound	POUND	354		stôzan	stôzan 
+593	11-9-22-1	7511103835692486	Old High German	oldh1241	to cut	CUT	1432		snîdan	snîdan 
+594	11-9-221-1	75111040153008475	Old High German	oldh1241	to cut down	CUT DOWN	355		fellen	fellen 
+595	11-9-222-1	75111120842908545	Old High German	oldh1241	to chop	CHOP	155		hackôn	hackôn 
+596	11-9-223-1	7511112151712912	Old High German	oldh1241	to stab	STAB TO DEATH	3189		stehhan	stehhan 
+597	11-9-23-1	752957565730856	Old High German	oldh1241	the knife(2)	KNIFE	1352		mezzisahs	mezzisahs 
+598	11-9-24-1	7523103691768000	Old High German	oldh1241	the scissors or shears	SHEARS	356		scâri	scâri 
+599	11-9-25-1	7523104169772614	Old High German	oldh1241	the axe/ax	AXE	677		ackus	ackus 
+600	11-9-251-1	7523106806959682	Old High German	oldh1241	the adze	ADZE	290		bîhal	bîhal 
+601	11-9-26-1	7523108104958720	Old High German	oldh1241	to break	BREAK (DESTROY OR GET DESTROYED)	680		brehhan	brehhan 
+602	11-9-27-1	75231014496451658	Old High German	oldh1241	to split	SPLIT	1437		spaltan	spaltan 
+603	11-9-28-1	75231016529423923	Old High German	oldh1241	to tear	TEAR (SHRED)	1735		brestan	brestan 
+604	11-9-83-1	75301238382847188	Old High German	oldh1241	the statue	STATUE	1002		manalîhha	manalîhha 
+605	11-9-29-1	75231017532698381	Old High German	oldh1241	to skin	PULL OFF (SKIN)	291		skinten	skinten 
+606	11-9-31-1	75231018330557399	Old High German	oldh1241	to rub	RUB	1449		rîban	rîban 
+607	11-9-32-1	75231019413023630	Old High German	oldh1241	to stretch	STRETCH	214		strecken	strecken 
+608	11-9-33-1	75231020864160124	Old High German	oldh1241	to pull	PULL	1455		ziohan	ziohan 
+609	11-9-34-1	75231023110426847	Old High German	oldh1241	to spread out	SPREAD OUT	38		breiten	breiten 
+610	11-9-341-1	75231025643229529	Old High German	oldh1241	to hang up	HANG UP	357		hâhan	hâhan 
+611	11-9-342-1	75231027523175616	Old High German	oldh1241	to press	PRESS	1913		thrucken	thrucken 
+612	11-9-343-1	75231033119287281	Old High German	oldh1241	to squeeze	SQUEEZE	1414		irringan	irringan 
+613	11-9-35-1	75231034944996804	Old High German	oldh1241	to pour	POUR	1487		giozan	giozan 
+614	11-9-36-1	7523103560261254	Old High German	oldh1241	to wash	WASH	1453		wascan	wascan 
+615	11-9-37-1	75231036279679522	Old High German	oldh1241	to sweep	SWEEP	230		fegôn	fegôn 
+616	11-9-38-1	7523103877240349	Old High German	oldh1241	the broom	BROOM	245		bes(a)mo	bes(a)mo 
+617	11-9-422-1	75231049570770514	Old High German	oldh1241	the tool	TOOL	1361		giziug(i)	giziug(i) 
+618	11-9-43-1	7523105189235490	Old High German	oldh1241	the carpenter	CARPENTER	1042		zimbarman	zimbarman 
+619	11-9-44-1	75231119465541723	Old High German	oldh1241	to build	BUILD	1840		zimbarôn	zimbarôn 
+620	11-9-46-1	7530111379488868	Old High German	oldh1241	to bore	BORE	1501		borôn	borôn 
+621	11-9-461-1	75301116604884205	Old High German	oldh1241	to hollow out	HOLLOW OUT	46		holôn	holôn 
+622	11-9-48-1	75301118331837793	Old High German	oldh1241	the saw	SAW	1948		sega	sega 
+623	11-9-49-1	75301119807668188	Old High German	oldh1241	the hammer	HAMMER	1481		hamar	hamar 
+624	11-9-5-1	74261426171463190	Old High German	oldh1241	the nail	NAIL (TOOL)	502		nagal	nagal 
+625	11-9-56-1	7530112188671843	Old High German	oldh1241	the glue	GLUE	1069		lîm	lîm 
+626	11-9-6-1	75301122853799822	Old High German	oldh1241	the blacksmith	BLACKSMITH	1001		smid	smid 
+627	11-9-61-1	75301122466291129	Old High German	oldh1241	to forge	FORGE	288		smidôn	smidôn 
+628	11-9-62-1	75301123712965308	Old High German	oldh1241	the anvil	ANVIL	1648		anabôz	anabôz 
+629	11-9-63-1	75231034944996804	Old High German	oldh1241	to cast	CAST	211		giozan	giozan 
+630	11-9-64-1	7530112581943252	Old High German	oldh1241	the gold	GOLD	1369		gold	gold 
+631	11-9-65-1	75301126582824384	Old High German	oldh1241	the silver	SILVER	759		sil(a)bar	sil(a)bar 
+632	11-9-66-1	75301127971603176	Old High German	oldh1241	the copper	COPPER	1825		kuphar	kuphar 
+633	11-9-67-1	75301129984814708	Old High German	oldh1241	the iron	IRON	621		îsa(r)n	îsa(r)n 
+634	11-9-68-1	75301130469323853	Old High German	oldh1241	the lead	LEAD (CHEMICAL ELEMENT)	627		blîo	blîo 
+635	11-9-69-1	75301131243742690	Old High German	oldh1241	the tin or tinplate	TIN OR TINPLATE	3217		zin	zin 
+636	11-9-71-1	7530127649298547	Old High German	oldh1241	the potter	POTTER	359		hafanâri	hafanâri 
+637	11-9-72-1	7530129288488038	Old High German	oldh1241	to mould/mold	MOLD	289		biliden	biliden 
+638	11-9-73-1	75301212327256370	Old High German	oldh1241	the clay	CLAY	1399		leim(o)	leim(o) 
+639	11-9-74-1	75301214936724073	Old High German	oldh1241	the glass	GLASS	604		glas	glas 
+640	11-9-75-1	75301215564837251	Old High German	oldh1241	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		flehtan	flehtan 
+641	11-9-76-1	75301216187858355	Old High German	oldh1241	the basket	BASKET	1539		korb	korb 
+642	11-9-77-1	75301216226005118	Old High German	oldh1241	the mat	MAT	195		matta	matta 
+643	11-9-771-1	75301219657549795	Old High German	oldh1241	the rug	RUG	292		tep(p)it	tep(p)it 
+644	11-9-79-1	75301224190853418	Old High German	oldh1241	the fan	FAN (OBJECT)	1971		wadal	wadal 
+645	11-9-81-1	75301234602872054	Old High German	oldh1241	to carve	CARVE	228		houwan	houwan 
+646	11-9-82-1	75301236810882581	Old High German	oldh1241	the sculptor	SCULPTOR	914		rizzâri	rizzâri 
+647	11-9-84-1	75301239893833497	Old High German	oldh1241	the chisel	CHISEL	1979		meizil	meizil 
+648	11-9-88-1	75301240894621239	Old High German	oldh1241	the paint	PAINT (PIGMENTS)	647		far(a)wa	far(a)wa 
+649	11-9-89-1	75301251747259927	Old High German	oldh1241	to paint	PAINTING	2001		mâlên, mâlôn	mâlên 
+650	11-9-89-2	75301251747259927	Old High German	oldh1241	to paint	PAINTING	2001		mâlên, mâlôn	mâlôn 
+651	11-10-11-1	75301254658338199	Old High German	oldh1241	to move	MOVE	765		biwegan	biwegan 
+652	11-10-12-1	75301255555703502	Old High German	oldh1241	to turn	TURN	1588		wenten	wenten 
+653	11-10-13-1	75301257721321448	Old High German	oldh1241	to turn around	TURN (SOMETHING)	1445		kêren	kêren 
+654	11-10-15-1	75301310776765252	Old High German	oldh1241	to roll	ROLL	827		welzen	welzen 
+655	11-10-16-1	75111040153008475	Old High German	oldh1241	to drop	DROP (SOMETHING)	2866		fellen	fellen 
+656	11-10-17-1	75993465653920	Old High German	oldh1241	to twist	TWIST (AROUND)	3199		biogan	biogan 
+657	11-10-21-1	75301330470078322	Old High German	oldh1241	to rise	RISE (MOVE UPWARDS)	568		ûfgangan	ûfgangan 
+658	11-10-22-1	75301334500610298	Old High German	oldh1241	to raise or lift	LIFT	501		heffen	heffen 
+659	11-10-23-1	7530133592008862	Old High German	oldh1241	to fall	FALL	1280		fallan	fallan 
+660	11-10-24-1	75301335671760452	Old High German	oldh1241	to drip	DRIP (EMIT LIQUID)	2253		trophôn	trophôn 
+661	11-10-25-1	75301346591548621	Old High German	oldh1241	to throw	THROW	1456		werfan	werfan 
+662	11-10-252-1	75301346788303008	Old High German	oldh1241	to catch	CATCH	702		fâhan	fâhan 
+663	11-10-26-1	75301347652063181	Old High German	oldh1241	to shake	SHAKE	1909		scutten	scutten 
+664	11-10-32-1	75301348392115299	Old High German	oldh1241	to flow	FLOW	2003		fliozan	fliozan 
+665	11-10-33-1	75301349938765746	Old High German	oldh1241	to sink	SINK (DESCEND)	1088		sinkan	sinkan 
+666	11-10-34-1	7641017620311592	Old High German	oldh1241	to float	FLOAT	1574		trîban	trîban 
+667	11-10-35-1	75301351328433687	Old High German	oldh1241	to swim	SWIM	1439		swimman	swimman 
+668	11-10-351-1	75301352500166042	Old High German	oldh1241	to dive	DIVE	119		intûhhan	intûhhan 
+669	11-10-37-1	75301354846354798	Old High German	oldh1241	to fly	FLY (MOVE THROUGH AIR)	1441		fliogan	fliogan 
+670	11-10-38-1	75301355629157324	Old High German	oldh1241	to blow	BLOW (OF WIND)	175		wâ(h)en	wâ(h)en 
+671	11-10-41-1	75301357833728569	Old High German	oldh1241	to crawl	CRAWL	96		kriohhan	kriohhan 
+672	11-10-412-1	76483830048493	Old High German	oldh1241	to kneel	KNEEL	66		(gi)kniuwen	(gi)kniuwen 
+673	11-10-43-1	764849878235606	Old High German	oldh1241	to jump	JUMP	1829		springan	springan 
+674	11-10-431-1	764850502200844	Old High German	oldh1241	to kick	KICK	1135		stôzan	stôzan 
+675	11-10-44-1	76490134808896	Old High German	oldh1241	to dance	DANCE	1879		salzôn	salzôn 
+676	11-10-45-1	76495800744458	Old High German	oldh1241	to walk	WALK	1443		(h)loufan	(h)loufan 
+677	11-10-451-1	76496530790409	Old High German	oldh1241	to limp	LIMP	366		hinkan	hinkan 
+678	11-10-46-1	76497929277372	Old High German	oldh1241	to run	RUN	1519		rennen	rennen 
+679	11-10-47-1	7649923268458	Old High German	oldh1241	to go	GO	695		gangan	gangan 
+680	11-10-471-1	764911253150390	Old High German	oldh1241	to go up	GO UP (ASCEND)	705		ûfgân	ûfgân 
+681	11-10-473-1	764926479262232	Old High German	oldh1241	to go down	GO DOWN (DESCEND)	2014		nidarwallôn	nidarwallôn 
+682	11-10-474-1	76492898327648	Old High German	oldh1241	to go out	GO OUT	1107		ûzgangan	ûzgangan 
+683	11-10-48-1	764929691062831	Old High German	oldh1241	to come	COME	1446		queman	queman 
+684	11-10-481-1	764953115500249	Old High German	oldh1241	to come back	COME BACK	581		widarisinnan	widarisinnan 
+685	11-10-49-1	764101939914535	Old High German	oldh1241	to leave	LEAVE	1752		irfaran	irfaran 
+686	11-10-491-1	764104658295663	Old High German	oldh1241	to disappear	DISAPPEAR	485		firswintan	firswintan 
+687	11-10-51-1	764105779992198	Old High German	oldh1241	to flee	FLEE	956		fliohan	fliohan 
+688	11-10-52-1	764105140882442	Old High German	oldh1241	to follow	FOLLOW	1085		folgên	folgên 
+689	11-10-53-1	764107847466378	Old High German	oldh1241	to pursue	PURSUE	1047		âhten	âhten 
+690	11-10-55-1	764109289822456	Old High German	oldh1241	to arrive	ARRIVE	1387		anaqueman	anaqueman 
+691	11-10-56-1	7641011361329802	Old High German	oldh1241	to approach	APPROACH	1778		nâhen	nâhen 
+692	11-10-57-1	7641012240543610	Old High German	oldh1241	to enter	ENTER	749		ingangan	ingangan 
+693	11-10-61-1	7641013103789835	Old High German	oldh1241	to carry	CARRY	700		tragan	tragan 
+694	11-10-62-1	7641014358912171	Old High German	oldh1241	to bring	BRING	692		bringan	bringan 
+695	11-10-63-1	7641015920514249	Old High German	oldh1241	to send	SEND	1127		senten	senten 
+696	11-10-64-1	7641016142984114	Old High German	oldh1241	to lead	LEAD (GUIDE)	43		leiten	leiten 
+697	11-10-65-1	7641017620311592	Old High German	oldh1241	to drive	DRIVE	741		trîban	trîban 
+698	11-10-66-1	7641017458418231	Old High German	oldh1241	to ride	RIDE	367		rîtan	rîtan 
+699	11-10-67-1	7641018227948368	Old High German	oldh1241	to push	PUSH	1452		skioban	skioban 
+700	11-10-71-1	7641019717137707	Old High German	oldh1241	the road	ROAD	667		weg	weg 
+701	11-10-72-1	7641020220554172	Old High German	oldh1241	the path	PATH	2252		pfad	pfad 
+702	11-10-74-1	764102193822285	Old High German	oldh1241	the bridge	BRIDGE	1011		brugga	brugga 
+703	11-10-75-1	7641022216661213	Old High German	oldh1241	the cart or wagon	CART	122		wagan	wagan 
+704	11-10-76-1	7641025190562184	Old High German	oldh1241	the wheel	WHEEL	710		rad	rad 
+705	11-10-77-1	7641026311772224	Old High German	oldh1241	the axle	AXLE	1769		ahsa	ahsa 
+706	11-10-78-1	7641027476050494	Old High German	oldh1241	the yoke	YOKE	14		joh	joh 
+707	11-10-81-1	764102840180533	Old High German	oldh1241	the ship	SHIP	740		skif, skef	skif 
+708	11-10-81-2	764102840180533	Old High German	oldh1241	the ship	SHIP	740		skif, skef	skef 
+709	11-10-83-1	7641029728260705	Old High German	oldh1241	the boat	BOAT	1844		flôzskip	flôzskip 
+710	11-10-831-1	7641030556938317	Old High German	oldh1241	the canoe	CANOE	1970		nahho	nahho 
+711	11-10-84-1	7641034119150012	Old High German	oldh1241	the raft	RAFT	1664		flôz	flôz 
+712	11-10-85-1	764103654184919	Old High German	oldh1241	the oar	RUDDER	108		ruodar	ruodar 
+713	11-10-852-1	7641038589027360	Old High German	oldh1241	to row	ROW	1849		ruodarôn	ruodarôn 
+714	11-10-86-1	764103654184919	Old High German	oldh1241	the rudder	RUDDER	108		ruodar	ruodar 
+715	11-10-87-1	7641040245172864	Old High German	oldh1241	the mast	MAST	184		mast	mast 
+716	11-10-88-1	7641041222030814	Old High German	oldh1241	the sail	SAILCLOTH	786		segal	segal 
+717	11-10-89-1	7641042771213592	Old High German	oldh1241	the anchor	ANCHOR	1870		senkil	senkil 
+718	11-10-91-1	764104474414263	Old High German	oldh1241	the port	PORT	610		skifgart	skifgart 
+719	11-10-92-1	7641046620170337	Old High German	oldh1241	to land	LAND (DESCEND)	1922		lenten	lenten 
+720	11-11-11-1	7641046840613963	Old High German	oldh1241	to have	HAVE	773		habên	habên 
+721	11-11-12-1	7641048829048892	Old High German	oldh1241	to own	OWN	684		eigan	eigan 
+722	11-11-13-1	7641049429550129	Old High German	oldh1241	to take	TAKE	1749		neman	neman 
+723	11-11-14-1	7641050451989817	Old High German	oldh1241	to grasp	SEIZE	855		bifâhan	bifâhan 
+724	11-11-15-1	7641052910518960	Old High German	oldh1241	to hold	HOLD	1448		haltan	haltan 
+725	11-11-16-1	764110110114363	Old High German	oldh1241	to get	GET	694		biqueman	biqueman 
+726	11-11-17-1	764112833978631	Old High German	oldh1241	to keep	KEEP	1477		bihaltan	bihaltan 
+727	11-11-21-1	764118492214192	Old High German	oldh1241	to give	GIVE	1447		geban	geban 
+728	11-11-22-1	7641111853602342	Old High German	oldh1241	to give back	GIVE BACK	85		geltan	geltan 
+729	11-11-24-1	764112833978631	Old High German	oldh1241	to preserve	PRESERVE	1997		bihaltan	bihaltan 
+730	11-11-25-1	765107402404567	Old High German	oldh1241	to rescue	RESCUE	2008		(h)retten	(h)retten 
+731	11-11-27-1	765101037834481	Old High German	oldh1241	to destroy	DESTROY	681		stôren	stôren 
+732	11-11-28-1	7651014779160713	Old High German	oldh1241	to injure	INJURE	44		tarôn	tarôn 
+733	11-11-31-1	765102497418183	Old High German	oldh1241	to look for	LOOK FOR	1468		suohhen	suohhen 
+734	11-11-32-1	7651027260213839	Old High German	oldh1241	to find	FIND	719		findan	findan 
+735	11-11-33-1	76510287619143	Old High German	oldh1241	to lose	LOSE	1660		firliosan	firliosan 
+736	11-11-34-1	7651033976667470	Old High German	oldh1241	to let go	LET GO OR SET FREE	1095		firlâzan	firlâzan 
+737	11-11-43-1	7651035226729427	Old High German	oldh1241	the money	MONEY	1559		scaz	scaz 
+738	11-11-44-1	7651036409183070	Old High German	oldh1241	the coin	COIN	1867		marc	marc 
+739	11-11-51-1	7651037131357865	Old High German	oldh1241	rich	RICH	712		rîhhi	rîhhi 
+740	11-11-52-1	7651038472743926	Old High German	oldh1241	poor	POOR	1674		arm (2)	arm (2) 
+741	11-11-53-1	7651039363467777	Old High German	oldh1241	the beggar	BEGGAR	1934		betalâri	betalâri 
+742	11-11-54-1	7651042753298716	Old High German	oldh1241	stingy	STINGY	1774		arg	arg 
+743	11-11-61-1	7651045738558104	Old High German	oldh1241	to lend	LEND	582		lîhan	lîhan 
+744	11-11-62-1	7651047813060327	Old High German	oldh1241	to borrow	BORROW	1823		intlîhan	intlîhan 
+745	11-11-63-1	7651054432156651	Old High German	oldh1241	to owe	OWE	369		dankôn	dankôn 
+746	11-11-64-1	7651056154659520	Old High German	oldh1241	the debt	DEBT	1914		sculd	sculd 
+747	11-11-65-1	7651058380206745	Old High German	oldh1241	to pay	PAY	718		firgeltan	firgeltan 
+748	11-11-66-1	765111817780510	Old High German	oldh1241	the bill	BILL	1081		reitî	reitî 
+749	11-11-69-1	765112315438081	Old High German	oldh1241	the tax	TAX	873		stiura	stiura 
+750	11-11-78-1	765113303195198	Old High German	oldh1241	the wages	WAGES	1122		lôn	lôn 
+751	11-11-79-1	765114132067658	Old High German	oldh1241	to earn	EARN	733		firthionôn	firthionôn 
+752	11-11-81-1	765117329273765	Old High German	oldh1241	to buy	BUY	1869		koufen	koufen 
+753	11-11-82-1	765119338367315	Old High German	oldh1241	to sell	SELL	1571		firkoufen	firkoufen 
+754	11-11-83-1	765117329273765	Old High German	oldh1241	to trade or barter	TRADE OR BARTER	2135		koufen	koufen 
+755	11-11-84-1	7651113369600647	Old High German	oldh1241	the merchant	MERCHANT	1082		koufo	koufo 
+756	11-11-85-1	765111547654462	Old High German	oldh1241	the market	MARKET	633		markât	markât 
+757	11-11-86-1	7651117952253053	Old High German	oldh1241	the shop/store	STORE	752		krâm	krâm 
+758	11-11-87-1	7651119416729903	Old High German	oldh1241	the price	PRICE	657		werd	werd 
+759	11-11-88-1	765112037575989	Old High German	oldh1241	expensive	EXPENSIVE	1426		tiuri	tiuri 
+760	11-11-91-1	7651319525101292	Old High German	oldh1241	to share	SHARE	884		teilen, teilôn	teilen 
+761	11-11-91-2	7651319525101292	Old High German	oldh1241	to share	SHARE	884		teilen, teilôn	teilôn 
+762	11-12-01-1	7651356248384132	Old High German	oldh1241	after	AFTER	1685		nâh	nâh 
+763	11-12-011-1	7651358287135228	Old High German	oldh1241	behind	BEHIND	1686		hintaro	hintaro 
+764	11-12-02-1	7651419471855728	Old High German	oldh1241	beside	BESIDE	1816		neben	neben 
+765	11-12-03-1	766820996432842	Old High German	oldh1241	down	DOWN	1326		nidar	nidar 
+766	11-12-04-1	766837826023552	Old High German	oldh1241	before	BEFORE	1882		bifora	bifora 
+767	11-12-041-1	766838681169679	Old High German	oldh1241	in front of	IN FRONT OF	1883		for(a)	for(a) 
+768	11-12-05-1	766840927252846	Old High German	oldh1241	inside	INSIDE	1606		innarûnhalb	innarûnhalb 
+769	11-12-06-1	766841957619525	Old High German	oldh1241	outside	OUTSIDE	762		uzar(ûn)halb	uzar(ûn)halb 
+770	11-12-07-1	766842850608478	Old High German	oldh1241	under	BELOW OR UNDER	1485		untar	untar 
+771	11-12-08-1	766843258534690	Old High German	oldh1241	up	UP	1591		hinaûf	hinaûf 
+772	11-12-11-1	766854515287740	Old High German	oldh1241	the place	PLACE (POSITION)	723		stat	stat 
+773	11-12-12-1	766855790541994	Old High German	oldh1241	to put	PUT	998		leg(g)en	leg(g)en 
+774	11-12-13-1	766857590217820	Old High German	oldh1241	to sit	SIT	1416		sizzan	sizzan 
+775	11-12-14-1	766858158538679	Old High German	oldh1241	to lie down	LIE DOWN	215		nidarleg(g)en	nidarleg(g)en 
+776	11-12-15-1	766859428823513	Old High German	oldh1241	to stand	STAND	1442		stên	stên 
+777	11-12-16-1	76690467802854	Old High German	oldh1241	to remain	REMAIN	987		bilîban	bilîban 
+778	11-12-17-1	76692476762471	Old High German	oldh1241	the remains	REMAINS	838		leiba	leiba 
+779	11-12-21-1	76695355282651	Old High German	oldh1241	to gather	GATHER	7		samanôn	samanôn 
+780	11-12-212-1	76696462813261	Old High German	oldh1241	to pick up	PICK UP	371		gilesan	gilesan 
+781	11-12-213-1	76699262394258	Old High German	oldh1241	to pile up	PILE UP	1576		gihûfôn	gihûfôn 
+782	11-12-22-1	766910351459652	Old High German	oldh1241	to join	JOIN	1743		gifuogen	gifuogen 
+783	11-12-23-1	766912698394296	Old High German	oldh1241	to separate	SEPARATE	1359		skeidan	skeidan 
+784	11-12-232-1	766913154798736	Old High German	oldh1241	to divide	DIVIDE	1119		teilen	teilen 
+785	11-12-24-1	766928351056331	Old High German	oldh1241	to open	OPEN	1156		intsliozan	intsliozan 
+786	11-12-25-1	76693074850834	Old High German	oldh1241	to shut	SHUT	1046		bisliozan	bisliozan 
+787	11-12-26-1	766932668279424	Old High German	oldh1241	to cover	COVER	761		decken	decken 
+788	11-12-27-1	766933408205860	Old High German	oldh1241	to hide	HIDE (CONCEAL)	602		bergan	bergan 
+789	11-12-31-1	766933227484892	Old High German	oldh1241	high	HIGH	1265		hôh	hôh 
+790	11-12-32-1	7661034651163082	Old High German	oldh1241	low	LOW	721		tiof	tiof 
+791	11-12-33-1	766934263212091	Old High German	oldh1241	the top	TOP	1753		spizza	spizza 
+792	11-12-34-1	74121335492440374	Old High German	oldh1241	the bottom	BOTTOM	690		bodam	bodam 
+793	11-12-35-1	766942163290367	Old High German	oldh1241	the end(1)	END (OF SPACE)	742		enti	enti 
+794	11-12-352-1	766943156186390	Old High German	oldh1241	pointed	POINTED	372		spizzi	spizzi 
+795	11-12-353-1	766945171220412	Old High German	oldh1241	the edge	EDGE	863		rant	rant 
+796	11-12-36-1	76694873092396	Old High German	oldh1241	the side	SIDE	682		sîta	sîta 
+797	11-12-37-1	76694915994038	Old High German	oldh1241	the middle	MIDDLE	1093		mitti	mitti 
+798	11-12-41-1	766105607848668	Old High German	oldh1241	right(1)	RIGHT	1019		zeso	zeso 
+799	11-12-42-1	766106804747027	Old High German	oldh1241	left	LEFT	244		winistar	winistar 
+800	11-12-43-1	7651356248384132	Old High German	oldh1241	near	NEAR	1942		nâh	nâh 
+801	11-12-44-1	766109386790713	Old High German	oldh1241	far	FAR	1406		fer	fer 
+802	11-12-45-1	7661097240734	Old High German	oldh1241	the east	EAST	1877		ôstan	ôstan 
+803	11-12-46-1	766101065978076	Old High German	oldh1241	the west	WEST	1817		westan	westan 
+804	11-12-47-1	7661011806926504	Old High German	oldh1241	the north	NORTH	1598		nord(an)	nord(an) 
+805	11-12-48-1	7661012315988312	Old High German	oldh1241	the south	SOUTH	1595		sund(an)	sund(an) 
+806	11-12-53-1	7661023466636299	Old High German	oldh1241	to grow	GROW	479		wahsan	wahsan 
+807	11-12-54-1	7661023149301178	Old High German	oldh1241	to measure	MEASURE	1506		mezzan	mezzan 
+808	11-12-541-1	7661024611662635	Old High German	oldh1241	the fathom	FATHOM	81		klâftra	klâftra 
+809	11-12-55-1	7661025597344674	Old High German	oldh1241	big	BIG	1202		mihhil	mihhil 
+810	11-12-56-1	766102768988347	Old High German	oldh1241	small	SMALL	1246		luzzil	luzzil 
+811	11-12-57-1	7661027560445582	Old High German	oldh1241	long	LONG	1203		lang	lang 
+812	11-12-58-1	766933227484892	Old High German	oldh1241	tall	TALL	711		hôh	hôh 
+813	11-12-59-1	7661030959947619	Old High German	oldh1241	short	SHORT	1645		kurz	kurz 
+814	11-12-61-1	7661032933327360	Old High German	oldh1241	wide	WIDE	1243		breit	breit 
+815	11-12-62-1	7661032691744222	Old High German	oldh1241	narrow	NARROW	1267		smal	smal 
+816	11-12-63-1	7661033460843546	Old High German	oldh1241	thick	THICK	1244		dicki	dicki 
+817	11-12-65-1	7661033686442455	Old High German	oldh1241	thin	THIN (OF SHAPE OF OBJECT)	2249		dunni	dunni 
+818	11-12-67-1	7661034651163082	Old High German	oldh1241	deep	DEEP	1593		tiof	tiof 
+819	11-12-68-1	7661035966351005	Old High German	oldh1241	shallow	SHALLOW	193		flah	flah 
+820	11-12-71-1	766103813975341	Old High German	oldh1241	flat	FLAT	1633		eban(i)	eban(i) 
+821	11-12-73-1	7661040630045576	Old High German	oldh1241	straight	STRAIGHT	1404		gireht	gireht 
+822	11-12-74-1	7661041901685509	Old High German	oldh1241	crooked	CROOKED	297		krumb	krumb 
+823	11-12-75-1	766104331085581	Old High German	oldh1241	the hook	HOOK	1071		hâggo, hâcko	hâggo 
+824	11-12-75-2	766104331085581	Old High German	oldh1241	the hook	HOOK	1071		hâggo, hâcko	hâcko 
+825	11-12-76-1	7661043850161680	Old High German	oldh1241	the corner	CORNER	192		egga	egga 
+826	11-12-77-1	7661044151313725	Old High German	oldh1241	the cross	CROSS	1367		galgo	galgo 
+827	11-12-78-1	766104713513794	Old High German	oldh1241	the square	SQUARE	850		fiora	fiora 
+828	11-12-81-1	7661049403735649	Old High German	oldh1241	round	ROUND	1395		sinwel	sinwel 
+829	11-12-82-1	7661050442028648	Old High German	oldh1241	the circle	CIRCLE	1467		ring	ring 
+830	11-12-83-1	766105257585181	Old High German	oldh1241	the ball	BALL	1845		bal	bal 
+831	11-12-84-1	7661053672932753	Old High German	oldh1241	the line	LINE	1048		rîga	rîga 
+832	11-12-85-1	7661054844026419	Old High German	oldh1241	the hole	HOLE	1667		loh	loh 
+833	11-12-92-1	7661054546129785	Old High German	oldh1241	similar	SIMILAR	1558		anagilîh	anagilîh 
+834	11-12-93-1	7661055758368115	Old High German	oldh1241	to change	CHANGE	1264		wehsalôn	wehsalôn 
+835	11-13-01-1	767107347016983	Old High German	oldh1241	one	ONE	1493		ein	ein 
+836	11-13-02-1	7671014505105648	Old High German	oldh1241	two	TWO	1498		zwêne (zwô, zwâ, zwei)	zwêne (zwô, zwâ, zwei) 
+837	11-13-03-1	7671014652010076	Old High German	oldh1241	three	THREE	492		drî	drî 
+838	11-13-04-1	7671015400938380	Old High German	oldh1241	four	FOUR	1500		fior	fior 
+839	11-13-05-1	7671016492642221	Old High German	oldh1241	five	FIVE	493		fimf, finf	fimf 
+840	11-13-05-2	7671016492642221	Old High German	oldh1241	five	FIVE	493		fimf, finf	finf 
+841	11-13-06-1	7671040488730455	Old High German	oldh1241	six	SIX	1703		sehs	sehs 
+842	11-13-07-1	7671041825050072	Old High German	oldh1241	seven	SEVEN	1704		sibun	sibun 
+843	11-13-08-1	7671041541619784	Old High German	oldh1241	eight	EIGHT	1705		ahto	ahto 
+844	11-13-09-1	7671042852478400	Old High German	oldh1241	nine	NINE	1483		niun	niun 
+845	11-13-1-1	7671046736823935	Old High German	oldh1241	ten	TEN	1515		zehan	zehan 
+846	11-13-101-1	7671046336653667	Old High German	oldh1241	eleven	ELEVEN	1706		einlif	einlif 
+847	11-13-102-1	7671047782823398	Old High German	oldh1241	twelve	TWELVE	1707		zwelif	zwelif 
+848	11-13-103-1	7671047715974345	Old High German	oldh1241	fifteen	FIFTEEN	1709		fimfzehan	fimfzehan 
+849	11-13-104-1	7671048954462334	Old High German	oldh1241	twenty	TWENTY	1710		zweinzug	zweinzug 
+850	11-13-105-1	7671049316693879	Old High German	oldh1241	a hundred	HUNDRED	1634		einhunt	einhunt 
+851	11-13-106-1	7671050877276571	Old High German	oldh1241	a thousand	THOUSAND	1843		dûsunt	dûsunt 
+852	11-13-107-1	7671112326187470	Old High German	oldh1241	to count	COUNT	1420		zellen	zellen 
+853	11-13-14-1	767111317814756	Old High German	oldh1241	all	ALL	98		al	al 
+854	11-13-15-1	7671114349150266	Old High German	oldh1241	many	MANY	1198		filu	filu 
+855	11-13-16-1	7671114857597135	Old High German	oldh1241	more	MORE	1992		mêro, mêra	mêro 
+856	11-13-16-2	7671114857597135	Old High German	oldh1241	more	MORE	1992		mêro, mêra	mêra 
+857	11-13-17-1	7671118824269903	Old High German	oldh1241	few	FEW	1242		fôh	fôh 
+858	11-13-18-1	7671118273273878	Old High German	oldh1241	enough	ENOUGH	1881		ginuog	ginuog 
+859	11-13-181-1	767112162307396	Old High German	oldh1241	some	SOME	1241		einîg	einîg 
+860	11-13-19-1	767112335618864	Old High German	oldh1241	the crowd	CROWD	2023		menigî	menigî 
+861	11-13-21-1	7671128730276218	Old High German	oldh1241	full	FULL	1429		fol	fol 
+862	11-13-22-1	7671129199581678	Old High German	oldh1241	empty	EMPTY	1624		lârî	lârî 
+863	11-13-23-1	7671130966279404	Old High German	oldh1241	the part	PART	779		teil	teil 
+864	11-13-24-1	7671131238697231	Old High German	oldh1241	the half	HALF	816		halba	halba 
+865	11-13-33-1	7671133507573384	Old High German	oldh1241	only	ONLY	1580		einen	einen 
+866	11-13-34-1	7671135219861860	Old High German	oldh1241	first	FIRST	728		êristo	êristo 
+867	11-13-35-1	7671324735331239	Old High German	oldh1241	last	LAST (FINAL)	1529		hintarôsto	hintarôsto 
+868	11-13-36-1	7671325410245184	Old High German	oldh1241	second	SECOND	1384		ander	ander 
+869	11-13-38-1	7611818394190580	Old High German	oldh1241	twice/two times	TWICE	1546		zwiro	zwiro 
+870	11-13-42-1	7611819801920330	Old High German	oldh1241	third	THIRD	1859		dritto	dritto 
+871	11-13-44-1	7611821878229324	Old High German	oldh1241	three times	THREE TIMES	417		driror	driror 
+872	11-14-11-1	7611847963634158	Old High German	oldh1241	the time	TIME	892		zît	zît 
+873	11-14-12-1	7611848553656499	Old High German	oldh1241	the age	AGE	1789		altar	altar 
+874	11-14-13-1	7611951536305645	Old High German	oldh1241	new	NEW	1231		niuwi	niuwi 
+875	11-14-14-1	7611951554721586	Old High German	oldh1241	young	YOUNG	1207		jung	jung 
+876	11-14-15-1	7611952809830972	Old High German	oldh1241	old	OLD	1229		alt	alt 
+877	11-14-16-1	7611953341704347	Old High German	oldh1241	early	EARLY	672		fruoi	fruoi 
+878	11-14-17-1	7611953299092300	Old High German	oldh1241	late	LATE	477		spâti	spâti 
+879	11-14-18-1	7611954814032883	Old High German	oldh1241	now	NOW	1376		nu	nu 
+880	11-14-19-1	7611959720447855	Old High German	oldh1241	immediately	IMMEDIATELY	1963		sâr	sâr 
+881	11-14-21-1	7611100908091873	Old High German	oldh1241	fast	FAST	1631		rasco	rasco 
+882	11-14-22-1	7611101616185422	Old High German	oldh1241	slow	SLOW	701		langsam	langsam 
+883	11-14-23-1	7611102167703277	Old High German	oldh1241	to hurry	HURRY	754		îlen	îlen 
+884	11-14-24-1	7611103457453089	Old High German	oldh1241	to be late	BE LATE	425		spâten	spâten 
+885	11-14-25-1	7611106398975655	Old High German	oldh1241	to begin	BEGIN	1806		biginnan	biginnan 
+886	11-14-252-1	7611107975057946	Old High German	oldh1241	to last	LAST (ENDURE)	1186		werên	werên 
+887	11-14-26-1	766942163290367	Old High German	oldh1241	the end(2)	END (OF TIME)	743		enti	enti 
+888	11-14-27-1	76111010544401877	Old High German	oldh1241	to finish	FINISH	1766		entôn	entôn 
+889	11-14-28-1	76111010544401877	Old High German	oldh1241	to cease	CEASE	1928		entôn	entôn 
+890	11-14-29-1	76111013772546610	Old High German	oldh1241	ready	READY	790		fartîg, fertîg	fartîg 
+891	11-14-29-2	76111013772546610	Old High German	oldh1241	ready	READY	790		fartîg, fertîg	fertîg 
+892	11-14-31-1	76111015867699417	Old High German	oldh1241	always	ALWAYS	1676		iomêr	iomêr 
+893	11-14-32-1	76111036883836240	Old High German	oldh1241	often	OFTEN	1852		ofto	ofto 
+894	11-14-33-1	76111117869247492	Old High German	oldh1241	sometimes	SOMETIMES	1544		eddeswanne	eddeswanne 
+895	11-14-331-1	7611959720447855	Old High German	oldh1241	soon	SOON	703		sâr	sâr 
+896	11-14-332-1	76111119450648673	Old High German	oldh1241	for a long time	FOR A LONG TIME	418		lango	lango 
+897	11-14-34-1	76111121590289771	Old High German	oldh1241	never	NEVER	1656		nio	nio 
+898	11-14-35-1	76111122110216396	Old High German	oldh1241	again	AGAIN	204		widar(i)	widar(i) 
+899	11-14-41-1	76111122858704245	Old High German	oldh1241	the day(1)	DAY (24 HOURS)	1260		tag	tag 
+900	11-14-42-1	76111123776547327	Old High German	oldh1241	the night	NIGHT	1233		naht	naht 
+901	11-14-43-1	76111127550767089	Old High German	oldh1241	the dawn	DAWN	729		tagarôt(î)	tagarôt(î) 
+902	11-14-44-1	76111129187370107	Old High German	oldh1241	the morning	MORNING	1339		morgan	morgan 
+903	11-14-45-1	76111414985461891	Old High German	oldh1241	the midday	MIDDAY	12		mitti(l)tag	mitti(l)tag 
+904	11-14-46-1	76111420875296192	Old High German	oldh1241	the evening	EVENING	1629		âband	âband 
+905	11-14-47-1	7611142166221125	Old High German	oldh1241	today	TODAY	1283		hiutu	hiutu 
+906	11-14-48-1	76111426614392728	Old High German	oldh1241	tomorrow	TOMORROW	1329		morgane	morgane 
+907	11-14-481-1	7611142956326179	Old High German	oldh1241	the day after tomorrow	DAY AFTER TOMORROW	1179		ubarmorgane	ubarmorgane 
+908	11-14-49-1	76111430780480034	Old High German	oldh1241	yesterday	YESTERDAY	1174		gest(e)re, gesterên	gest(e)re 
+909	11-14-49-2	76111430780480034	Old High German	oldh1241	yesterday	YESTERDAY	1174		gest(e)re, gesterên	gesterên 
+910	11-14-491-1	76111432476800810	Old High German	oldh1241	the day before yesterday	DAY BEFORE YESTERDAY	1180		êrgesteren	êrgesteren 
+911	11-14-51-1	76111434371462074	Old High German	oldh1241	the hour	HOUR	1353		stunta	stunta 
+912	11-14-61-1	76111435243418629	Old High German	oldh1241	the week	WEEK	1469		wehha	wehha 
+913	11-14-62-1	76111454337808902	Old High German	oldh1241	Sunday	SUNDAY	1699		sunnûntag	sunnûntag 
+914	11-14-63-1	76111456972651530	Old High German	oldh1241	Monday	MONDAY	1697		mânotag	mânotag 
+915	11-14-64-1	76121043306447772	Old High German	oldh1241	Tuesday	TUESDAY	1695		ziestag	ziestag 
+916	11-14-65-1	76121044720092106	Old High German	oldh1241	Wednesday	WEDNESDAY	1694		mittawehha	mittawehha 
+917	11-14-66-1	76121046733225720	Old High German	oldh1241	Thursday	THURSDAY	1693		thonarestag	thonarestag 
+918	11-14-67-1	76121047792641125	Old High German	oldh1241	Friday	FRIDAY	1692		frî(j)atag	frî(j)atag 
+919	11-14-68-1	76121049442883262	Old High German	oldh1241	Saturday	SATURDAY	1700		sunnûnaband	sunnûnaband 
+920	11-14-71-1	76121050200183766	Old High German	oldh1241	the month	MONTH	1370		mânôd	mânôd 
+921	11-14-73-1	76121051344978496	Old High German	oldh1241	the year	YEAR	1226		jâr	jâr 
+922	11-14-74-1	76121052603774790	Old High German	oldh1241	the winter	WINTER	1471		wintar	wintar 
+923	11-14-75-1	76121053476800453	Old High German	oldh1241	the spring(2)	SPRINGTIME	1537		lenzo	lenzo 
+924	11-14-76-1	76121054495598705	Old High German	oldh1241	the summer	SUMMER	1342		sumar	sumar 
+925	11-14-77-1	76121055966524251	Old High German	oldh1241	the autumn/fall	AUTUMN	1276		herbist	herbist 
+926	11-15-21-1	76121056691876887	Old High German	oldh1241	to smell(1)	SMELL (STINK)	1587		stinkan	stinkan 
+927	11-15-89-1	76121245850491797	Old High German	oldh1241	wrinkled	WRINKLED	380		runziloht	runziloht 
+928	11-15-212-1	76121057913433296	Old High German	oldh1241	to sniff	SNIFF	375		riohhan	riohhan 
+929	11-15-22-1	76121057913433296	Old High German	oldh1241	to smell(2)	SMELL (PERCEIVE)	1586		riohhan	riohhan 
+930	11-15-31-1	7612113313846321	Old High German	oldh1241	to taste	TASTE (SOMETHING)	21		(gi)smecken	(gi)smecken 
+931	11-15-35-1	7612114875584042	Old High German	oldh1241	sweet	SWEET	717		suozi	suozi 
+932	11-15-37-1	7612116534063673	Old High German	oldh1241	bitter	BITTER	887		bittar	bittar 
+933	11-15-38-1	7612116365212222	Old High German	oldh1241	sour	SOUR	1906		sûr	sûr 
+934	11-15-41-1	7612117324556326	Old High German	oldh1241	to hear	HEAR	1408		hôren	hôren 
+935	11-15-42-1	7612118248983376	Old High German	oldh1241	to listen	LISTEN	1608		hôrehhen	hôrehhen 
+936	11-15-44-1	7612119770867162	Old High German	oldh1241	the sound or noise	SOUND OR NOISE	1811		(h)lûta	(h)lûta 
+937	11-15-45-1	76121110146013781	Old High German	oldh1241	loud	LOUD	377		(h)lût	(h)lût 
+938	11-15-46-1	76121111371838715	Old High German	oldh1241	quiet	QUIET	1314		stilli	stilli 
+939	11-15-51-1	76121111940943804	Old High German	oldh1241	to see	SEE	1409		sehan	sehan 
+940	11-15-52-1	76121112297099275	Old High German	oldh1241	to look	LOOK	1819		scouwôn	scouwôn 
+941	11-15-55-1	76121113756682534	Old High German	oldh1241	to show	SHOW	1039		zeigôn	zeigôn 
+942	11-15-56-1	76121113341876207	Old High German	oldh1241	to shine	SHINE	708		skînan	skînan 
+943	11-15-57-1	76121115586239260	Old High German	oldh1241	bright	BRIGHT	679		glat	glat 
+944	11-15-61-1	75301240894621239	Old High German	oldh1241	the colour/color	COLOR	1613		far(a)wa	far(a)wa 
+945	11-15-62-1	76121214226813166	Old High German	oldh1241	light(2)	LIGHT (COLOR)	250		lioht (2)	lioht (2) 
+946	11-15-63-1	76121216159958734	Old High German	oldh1241	dark	DARK	706		finstar	finstar 
+947	11-15-64-1	7612121645067585	Old High German	oldh1241	white	WHITE	1335		(h)wîz	(h)wîz 
+948	11-15-65-1	76121217463811009	Old High German	oldh1241	black	BLACK	163		swarz	swarz 
+949	11-15-66-1	76121217117712238	Old High German	oldh1241	red	RED	156		rôt	rôt 
+950	11-15-67-1	76121218663025236	Old High German	oldh1241	blue	BLUE	837		blâo	blâo 
+951	11-15-68-1	76121218289576375	Old High German	oldh1241	green	GREEN	1425		gruoni	gruoni 
+952	11-15-69-1	76121219611988896	Old High German	oldh1241	yellow	YELLOW	1424		gelo	gelo 
+953	11-15-71-1	76121220124566832	Old High German	oldh1241	to touch	TOUCH	1892		bi(h)ruoren	bi(h)ruoren 
+954	11-15-712-1	76121221393505700	Old High German	oldh1241	to pinch	PINCH	378		gizwiggen	gizwiggen 
+955	11-15-72-1	76121228151367480	Old High German	oldh1241	to feel	FEEL	1079		fuolen	fuolen 
+956	11-15-74-1	7612122924935401	Old High German	oldh1241	hard	HARD	1884		hart	hart 
+957	11-15-75-1	76121230532056910	Old High German	oldh1241	soft	SOFT	1856		weih	weih 
+958	11-15-76-1	74121414789742690	Old High German	oldh1241	rough(1)	ROUGH	1923		rûh	rûh 
+959	11-15-77-1	766103813975341	Old High German	oldh1241	smooth	SMOOTH	1234		eban(i)	eban(i) 
+960	11-15-78-1	76121236251051567	Old High German	oldh1241	sharp	SHARP	1396		scarf(i)	scarf(i) 
+961	11-15-79-1	76121237539390312	Old High German	oldh1241	blunt	BLUNT	379		stumph (2)	stumph (2) 
+962	11-15-81-1	76121237810080282	Old High German	oldh1241	heavy	HEAVY	1210		swâri	swâri 
+963	11-15-82-1	76121238106461675	Old High German	oldh1241	light(1)	LIGHT (WEIGHT)	1052		lîhti	lîhti 
+964	11-15-83-1	76121239713512535	Old High German	oldh1241	wet	WET	1726		naz	naz 
+965	11-15-84-1	7612123944688425	Old High German	oldh1241	dry	DRY	1398		trukkan	trukkan 
+966	11-15-85-1	76121240941597593	Old High German	oldh1241	hot	HOT	1286		heiz	heiz 
+967	11-15-851-1	76121240582332021	Old High German	oldh1241	warm	WARM	1232		warm	warm 
+968	11-15-86-1	7612124172109139	Old High German	oldh1241	cold	COLD	1287		kalt	kalt 
+969	11-15-87-1	76121242691106624	Old High German	oldh1241	clean	CLEAN	704		(h)reini	(h)reini 
+970	11-15-88-1	76121244896482328	Old High German	oldh1241	dirty	DIRTY	1230		salo	salo 
+971	11-16-11-1	76121327301028629	Old High German	oldh1241	the soul or spirit	SOUL	811		sêla	sêla 
+972	11-16-18-1	76121357107975012	Old High German	oldh1241	the good luck	GOOD LUCK	720		wola	wola 
+973	11-16-19-1	76121359704514773	Old High German	oldh1241	the bad luck	BAD LUCK	56		wêwa	wêwa 
+974	11-16-23-1	7612140863409008	Old High German	oldh1241	happy	HAPPY	1495		sâlig	sâlig 
+975	11-16-25-1	7612141377764598	Old High German	oldh1241	to laugh	LAUGH	1355		(h)lahhên	(h)lahhên 
+976	11-16-251-1	7612142995465312	Old High German	oldh1241	to smile	SMILE	1451		smielên	smielên 
+977	11-16-26-1	7612143820650837	Old High German	oldh1241	to play	PLAY	1413		spilôn	spilôn 
+978	11-16-27-1	7612144768475081	Old High German	oldh1241	to love	LOVE	923		liobôn	liobôn 
+979	11-16-29-1	7612145605849717	Old High German	oldh1241	to kiss	KISS	578		kussen	kussen 
+980	11-16-3-1	7612146478731781	Old High German	oldh1241	to embrace	EMBRACE	928		halsen	halsen 
+981	11-16-31-1	7612147990455444	Old High German	oldh1241	the pain	PAIN	1783		smerza	smerza 
+982	11-16-32-1	76121410166819201	Old High German	oldh1241	the grief	GRIEF	1668		trûrigî	trûrigî 
+983	11-16-33-1	76121411609887379	Old High German	oldh1241	the anxiety	ANXIETY	1000		sorga	sorga 
+984	11-16-34-1	76121412402251220	Old High German	oldh1241	to regret or be sorry	REGRET	1875		(h)riuwôn	(h)riuwôn 
+985	11-16-35-1	76121420751766001	Old High German	oldh1241	the pity	PITY	1141		irbarmida	irbarmida 
+986	11-16-37-1	76121421600343922	Old High German	oldh1241	to cry	CRY	1839		weinôn	weinôn 
+987	11-16-38-1	76121422685058351	Old High German	oldh1241	the tear	TEAR (OF EYE)	1651		trahan	trahan 
+988	11-16-39-1	76121427335743820	Old High German	oldh1241	to groan	GROAN	716		sûftôn	sûftôn 
+989	11-16-41-1	7612142898591169	Old High German	oldh1241	to hate	HATE	1607		hazzên	hazzên 
+990	11-16-42-1	76121428321173582	Old High German	oldh1241	the anger	ANGER	82		zorn	zorn 
+991	11-16-44-1	76121429662274143	Old High German	oldh1241	the envy or jealousy	ENVY	40		nîd	nîd 
+992	11-16-45-1	76121430797033141	Old High German	oldh1241	the shame	SHAME	1776		scama	scama 
+993	11-16-48-1	76121430111816451	Old High German	oldh1241	proud	PROUD	174		stolz	stolz 
+994	11-16-51-1	76121433509505726	Old High German	oldh1241	to dare	DARE	1779		baldên	baldên 
+995	11-16-52-1	76121444497884249	Old High German	oldh1241	brave	BRAVE	3		kuoni	kuoni 
+996	11-16-53-1	76121445549995736	Old High German	oldh1241	the fear	FEAR (FRIGHT)	781		angust	angust 
+997	11-16-54-1	76121446411937948	Old High German	oldh1241	the danger	DANGER	1810		zâla	zâla 
+998	11-16-62-1	76121447736147686	Old High German	oldh1241	to want	WANT	1784		wunsken	wunsken 
+999	11-16-622-1	7612144730107461	Old High German	oldh1241	to choose	CHOOSE	1750		kiosan	kiosan 
+1000	11-16-63-1	76121449454471015	Old High German	oldh1241	to hope	HOPE (SOMETHING)	3212		dingen	dingen 
+1001	11-16-65-1	76121449594034913	Old High German	oldh1241	faithful	FAITHFUL	100		triuwi	triuwi 
+1002	11-16-66-1	76121450649216465	Old High German	oldh1241	true	TRUE	1657		wâr	wâr 
+1003	11-16-67-1	76121450460521484	Old High German	oldh1241	to lie(2)	LIE (MISLEAD)	601		liogan	liogan 
+1004	11-16-68-1	76121451503289791	Old High German	oldh1241	the deceit	DECEIT	13		bitrog	bitrog 
+1005	11-16-69-1	76121453643583030	Old High German	oldh1241	to forgive	FORGIVE	1528		firgeban	firgeban 
+1006	11-16-71-1	76121454371645534	Old High German	oldh1241	good	GOOD	1035		guot	guot 
+1007	11-16-72-1	76121456755443822	Old High German	oldh1241	bad	BAD	1292		ubil	ubil 
+1008	11-16-73-1	76121458789072391	Old High German	oldh1241	right(2)	CORRECT (RIGHT)	1725		reht	reht 
+1009	11-16-74-1	7612150487297157	Old High German	oldh1241	wrong	WRONG	1390		unreht	unreht 
+1010	11-16-76-1	7651056154659520	Old High German	oldh1241	the fault	FAULT	134		sculd	sculd 
+1011	11-16-77-1	761215221585516	Old High German	oldh1241	the mistake	MISTAKE	1293		missitât	missitât 
+1012	11-16-78-1	7612156489253664	Old High German	oldh1241	the blame	BLAME	381		drawa	drawa 
+1013	11-16-79-1	7612157506646006	Old High German	oldh1241	the praise	PRAISE	1687		lob	lob 
+1014	11-16-81-1	76121510832751861	Old High German	oldh1241	beautiful	BEAUTIFUL	1427		scôni	scôni 
+1015	11-16-82-1	7612151036688038	Old High German	oldh1241	ugly	UGLY	1548		hazlîh	hazlîh 
+1016	11-16-83-1	76121511533684764	Old High German	oldh1241	greedy	GREEDY	2018		girîg	girîg 
+1017	11-16-84-1	76121513729813657	Old High German	oldh1241	clever	CLEVER	1310		wîsi	wîsi 
+1018	11-17-11-1	7613858809504398	Old High German	oldh1241	the mind	MIND	1562		geist	geist 
+1019	11-17-13-1	761391673862882	Old High German	oldh1241	to think(1)	THINK (REFLECT)	1415		denken	denken 
+1020	11-17-14-1	761392786616642	Old High German	oldh1241	to think(2)	THINK (BELIEVE)	1513		meinen	meinen 
+1021	11-17-15-1	761393916564715	Old High German	oldh1241	to believe	BELIEVE	1890		gilouben	gilouben 
+1022	11-17-16-1	761394145984873	Old High German	oldh1241	to understand	UNDERSTAND	1536		firstantan	firstantan 
+1023	11-17-17-1	7613922565063061	Old High German	oldh1241	to know	KNOW (SOMETHING)	1410		wizzan	wizzan 
+1024	11-17-171-1	7613925743652451	Old High German	oldh1241	to guess	GUESS	1932		râtan	râtan 
+1025	11-17-172-1	7614952740383286	Old High German	oldh1241	to imitate	IMITATE	117		bilidôn	bilidôn 
+1026	11-17-18-1	7614955707387857	Old High German	oldh1241	to seem	SEEM	1521		gidunken	gidunken 
+1027	11-17-19-1	7614101783671461	Old High German	oldh1241	the idea	IDEA	1609		gidank	gidank 
+1028	11-17-21-1	76121513729813657	Old High German	oldh1241	wise	WISE	698		wîsi	wîsi 
+1029	11-17-22-1	7614103982690499	Old High German	oldh1241	stupid	STUPID	1518		tumb	tumb 
+1030	11-17-23-1	7614105400140540	Old High German	oldh1241	mad	MAD	1899		ursinnig	ursinnig 
+1031	11-17-24-1	761410775155217	Old High German	oldh1241	to learn	LEARN	504		lernên, lirnên	lernên 
+1032	11-17-24-2	761410775155217	Old High German	oldh1241	to learn	LEARN	504		lernên, lirnên	lirnên 
+1033	11-17-25-1	7614108632103373	Old High German	oldh1241	to teach	TEACH	709		lêren	lêren 
+1034	11-17-26-1	76141010715721758	Old High German	oldh1241	the pupil	PUPIL (STUDENT)	753		jungiro	jungiro 
+1035	11-17-27-1	7614101058840011	Old High German	oldh1241	the teacher	TEACHER	1038		lêrâri	lêrâri 
+1036	11-17-28-1	7614101155201693	Old High German	oldh1241	the school	SCHOOL	673		skuola	skuola 
+1037	11-17-31-1	76141016255225828	Old High German	oldh1241	to remember	REMEMBER	707		irhuggen	irhuggen 
+1038	11-17-32-1	76141018760102330	Old High German	oldh1241	to forget	FORGET	1523		firgezzan	firgezzan 
+1039	11-17-34-1	761410476378227	Old High German	oldh1241	clear	CLEAR	989		offan	offan 
+1040	11-17-35-1	76141047951755108	Old High German	oldh1241	obscure	OBSCURE	1764		tunkal	tunkal 
+1041	11-17-36-1	76141052347399418	Old High German	oldh1241	secret	SECRET	1121		tougan	tougan 
+1042	11-17-37-1	76141053117775905	Old High German	oldh1241	certain	CERTAIN	509		giwis	giwis 
+1043	11-17-38-1	7614110337263298	Old High German	oldh1241	to explain	EXPLAIN	1626		gioffanôn	gioffanôn 
+1044	11-17-41-1	76141110820755111	Old High German	oldh1241	the intention	INTENTION	1162		muottât	muottât 
+1045	11-17-42-1	76141112443812875	Old High German	oldh1241	the cause	CAUSE	860		mahhunga	mahhunga 
+1046	11-17-43-1	76141113452382900	Old High German	oldh1241	the doubt	DOUBT	1308		zwîfal, zwîval	zwîfal 
+1047	11-17-43-2	76141113452382900	Old High German	oldh1241	the doubt	DOUBT	1308		zwîfal, zwîval	zwîval 
+1048	11-17-44-1	76141115398042588	Old High German	oldh1241	to suspect	SUSPECT	1841		anawânôn	anawânôn 
+1049	11-17-441-1	76141117560778109	Old High German	oldh1241	to betray	BETRAY	1902		firrâtan	firrâtan 
+1050	11-17-45-1	76141126790889724	Old High German	oldh1241	the need or necessity	NEED (NOUN)	643		durft	durft 
+1051	11-17-46-1	76141242632875515	Old High German	oldh1241	easy	EASY	686		sleht	sleht 
+1052	11-17-47-1	76141245785032298	Old High German	oldh1241	difficult	DIFFICULT	584		unsemfti	unsemfti 
+1053	11-17-48-1	761897301546346	Old High German	oldh1241	to try	TRY	1812		bisuohhen	bisuohhen 
+1054	11-17-49-1	761898867326002	Old High German	oldh1241	the manner	MANNER	488		wîsa	wîsa 
+1055	11-17-51-1	76189862727909	Old High German	oldh1241	and	AND	1577		anti, enti, inti, unti	anti 
+1056	11-17-51-2	76189862727909	Old High German	oldh1241	and	AND	1577		anti, enti, inti, unti	enti 
+1057	11-17-51-3	76189862727909	Old High German	oldh1241	and	AND	1577		anti, enti, inti, unti	inti 
+1058	11-17-51-4	76189862727909	Old High German	oldh1241	and	AND	1577		anti, enti, inti, unti	unti 
+1059	11-17-52-1	7618911945082257	Old High German	oldh1241	because	BECAUSE	1157		wantâ	wantâ 
+1060	11-17-53-1	7618914316226287	Old High German	oldh1241	if	IF	1459		ibu	ibu 
+1061	11-17-54-1	7618915976064356	Old High German	oldh1241	or	OR	1014		odo, oda	odo 
+1062	11-17-54-2	7618915976064356	Old High German	oldh1241	or	OR	1014		odo, oda	oda 
+1063	11-17-55-1	7618916720568420	Old High German	oldh1241	yes	YES	1268		ja	ja 
+1064	11-17-56-1	7618916530365362	Old High German	oldh1241	no	NO	1269		nein	nein 
+1065	11-17-61-1	7618917539968947	Old High German	oldh1241	how?	HOW	1239		(h)weo, (h)wio, (h)wie	(h)weo 
+1066	11-17-61-2	7618917539968947	Old High German	oldh1241	how?	HOW	1239		(h)weo, (h)wio, (h)wie	(h)wio 
+1067	11-17-61-3	7618917539968947	Old High German	oldh1241	how?	HOW	1239		(h)weo, (h)wio, (h)wie	(h)wie 
+1068	11-17-62-1	7618930291646369	Old High German	oldh1241	how many?	HOW MANY	822		wio manage	wio manage 
+1069	11-17-63-1	7618917539968947	Old High German	oldh1241	how much?	HOW MUCH	531		(h)weo, (h)wio, (h)wie	(h)weo 
+1070	11-17-63-2	7618917539968947	Old High German	oldh1241	how much?	HOW MUCH	531		(h)weo, (h)wio, (h)wie	(h)wio 
+1071	11-17-63-3	7618917539968947	Old High German	oldh1241	how much?	HOW MUCH	531		(h)weo, (h)wio, (h)wie	(h)wie 
+1072	11-17-64-1	7618942328104528	Old High German	oldh1241	what?	WHAT	1236		(h)waz	(h)waz 
+1073	11-17-65-1	7618943933664324	Old High German	oldh1241	when?	WHEN	1238		(h)wanne, (h)wenne	(h)wanne 
+1074	11-17-65-2	7618943933664324	Old High German	oldh1241	when?	WHEN	1238		(h)wanne, (h)wenne	(h)wenne 
+1075	11-17-66-1	7618949931925260	Old High German	oldh1241	where?	WHERE	1237		dâr	dâr 
+1076	11-17-67-1	7618951698829088	Old High German	oldh1241	which?	WHICH	727		(h)wer	(h)wer 
+1077	11-17-68-1	7618951698829088	Old High German	oldh1241	who?	WHO	1235		(h)wer	(h)wer 
+1078	11-17-69-1	7618953725125274	Old High German	oldh1241	why?	WHY	1270		wârumbi	wârumbi 
+1079	11-18-11-1	7618955957962869	Old High German	oldh1241	the voice	VOICE	1363		stimna, stimma	stimna 
+1080	11-18-11-2	7618955957962869	Old High German	oldh1241	the voice	VOICE	1363		stimna, stimma	stimma 
+1081	11-18-12-1	7618100765009954	Old High German	oldh1241	to sing	SING	1261		singan	singan 
+1082	11-18-13-1	7618109977345878	Old High German	oldh1241	to shout	SHOUT	715		(h)ruofan	(h)ruofan 
+1083	11-18-15-1	76181011751247881	Old High German	oldh1241	to whisper	WHISPER	55		rûnên	rûnên 
+1084	11-18-16-1	76181012979067482	Old High German	oldh1241	to mumble	MUMBLE	128		murmurôn, murmulôn	murmurôn 
+1085	11-18-16-2	76181012979067482	Old High German	oldh1241	to mumble	MUMBLE	128		murmurôn, murmulôn	murmulôn 
+1086	11-18-17-1	76181013640438886	Old High German	oldh1241	to whistle	WHISTLE	1025		pfîfôn	pfîfôn 
+1087	11-18-18-1	7618101775400002	Old High German	oldh1241	to shriek	SHRIEK	298		scrîan	scrîan 
+1088	11-18-19-1	76181018630193257	Old High German	oldh1241	to howl	HOWL	526		hû(wi)lôn	hû(wi)lôn 
+1089	11-18-21-1	76181018771659125	Old High German	oldh1241	to speak or talk	SPEAK	1623		sprehhan	sprehhan 
+1090	11-18-211-1	76181019809441386	Old High German	oldh1241	to stutter or stammer	STUTTER	1866		stam(m)alôn	stam(m)alôn 
+1091	11-18-22-1	76181021655132831	Old High German	oldh1241	to say	SAY	1458		sagên	sagên 
+1092	11-18-221-1	7671112326187470	Old High German	oldh1241	to tell	TELL	1711		zellen	zellen 
+1093	11-18-222-1	76181023619511064	Old High German	oldh1241	the speech	SPEECH	1115		zala	zala 
+1094	11-18-23-1	76181023684132815	Old High German	oldh1241	to be silent	BE SILENT	48		swîgên	swîgên 
+1095	11-18-24-1	76181034716440241	Old High German	oldh1241	the language	LANGUAGE	1307		gizungi	gizungi 
+1096	11-18-26-1	76181034395080764	Old High German	oldh1241	the word	WORD	1599		wort	wort 
+1097	11-18-28-1	76181041714498720	Old High German	oldh1241	the name	NAME	1405		namo	namo 
+1098	11-18-31-1	7618104265853836	Old High German	oldh1241	to ask(1)	ASK (INQUIRE)	1309		frâgên	frâgên 
+1099	11-18-32-1	76181043871764326	Old High German	oldh1241	to answer	ANSWER	1275		antwurten	antwurten 
+1100	11-18-33-1	76181046159720718	Old High German	oldh1241	to admit	ADMIT	2022		jehan	jehan 
+1101	11-18-34-1	76181047193348714	Old High German	oldh1241	to deny	DENY	755		lougnen	lougnen 
+1102	11-18-35-1	76201012237709038	Old High German	oldh1241	to ask(2)	ASK (REQUEST)	1828		bitten	bitten 
+1103	11-18-36-1	76181121805462796	Old High German	oldh1241	to promise	PROMISE	1675		giheizan	giheizan 
+1104	11-18-37-1	76181124539121829	Old High German	oldh1241	to refuse	REFUSE	49		weigarôn	weigarôn 
+1105	11-18-38-1	7619139899305238	Old High German	oldh1241	to forbid	FORBID	83		biwerien	biwerien 
+1106	11-18-39-1	7619108507400959	Old High German	oldh1241	to scold	SCOLD	299		biskeltan	biskeltan 
+1107	11-18-41-1	7618109977345878	Old High German	oldh1241	to call(1)	CALL	1084		(h)ruofan	(h)ruofan 
+1108	11-18-42-1	76191010172327189	Old High German	oldh1241	to call(2)	CALL BY NAME	180		heizan	heizan 
+1109	11-18-43-1	76191011539511688	Old High German	oldh1241	to announce	ANNOUNCE	9		kunden	kunden 
+1110	11-18-44-1	7619101339510946	Old High German	oldh1241	to threaten	THREATEN	1192		drouwen	drouwen 
+1111	11-18-45-1	76191015558831938	Old High German	oldh1241	to boast	BOAST	101		(h)ruomen	(h)ruomen 
+1112	11-18-51-1	76191017726878041	Old High German	oldh1241	to write	WRITE	1672		rîzan	rîzan 
+1113	11-18-52-1	76191018323235905	Old High German	oldh1241	to read	READ	724		lesan	lesan 
+1114	11-18-56-1	76191020355159194	Old High German	oldh1241	the paper	PAPER	648		papir	papir 
+1115	11-18-57-1	74271039312002376	Old High German	oldh1241	the pen	PEN	794		fedara	fedara 
+1116	11-18-61-1	76191046930845532	Old High German	oldh1241	the book	BOOK	963		buoh	buoh 
+1117	11-18-67-1	76191047438439688	Old High German	oldh1241	the poet	POET	1045		skopf	skopf 
+1118	11-18-71-1	7619104916485195	Old High German	oldh1241	the flute	FLUTE	777		swegala	swegala 
+1119	11-18-73-1	76191051459109315	Old High German	oldh1241	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		trumba	trumba 
+1120	11-18-74-1	76191052139747093	Old High German	oldh1241	the rattle	RATTLE	300		tollunga	tollunga 
+1121	11-19-11-1	76191057575282273	Old High German	oldh1241	the country	COUNTRY	1300		lant	lant 
+1122	11-19-12-1	76191058186832386	Old High German	oldh1241	the native country	NATIVE COUNTRY	89		heimôti	heimôti 
+1123	11-19-15-1	76191059376996366	Old High German	oldh1241	the town	TOWN	1391		burg	burg 
+1124	11-19-16-1	7619110330896780	Old High German	oldh1241	the village	VILLAGE	930		dorf	dorf 
+1125	11-19-17-1	7619111595853580	Old High German	oldh1241	the boundary	BOUNDARY	1010		marka	marka 
+1126	11-19-21-1	7619112187685509	Old High German	oldh1241	the people	PEOPLE	789		folc	folc 
+1127	11-19-23-1	7619115295365183	Old High German	oldh1241	the clan	CLAN	302		kunni	kunni 
+1128	11-19-24-1	7619116128488550	Old High German	oldh1241	the chieftain	CHIEFTAIN	301		leitâri	leitâri 
+1129	11-19-25-1	7619118257504529	Old High German	oldh1241	the walking stick	WALKING STICK	1296		stab	stab 
+1130	11-19-31-1	761911959060111	Old High German	oldh1241	to rule or govern	RULE	1846		hêrisôn	hêrisôn 
+1131	11-19-32-1	76191110100673520	Old High German	oldh1241	the king	KING	1508		kuning	kuning 
+1132	11-19-33-1	7619111092852051	Old High German	oldh1241	the queen	QUEEN	1306		kunigin	kunigin 
+1133	11-19-36-1	76191112247451053	Old High German	oldh1241	the noble	NOBLE	482		ediling	ediling 
+1134	11-19-37-1	76191114823730969	Old High German	oldh1241	the citizen	CITIZEN	1032		burgâri	burgâri 
+1135	11-19-41-1	76191116789622608	Old High German	oldh1241	the master	MASTER	383		truhtîn	truhtîn 
+1136	11-19-42-1	76191117965932029	Old High German	oldh1241	the slave	SLAVE	812		scalc	scalc 
+1137	11-19-43-1	76191119949583512	Old High German	oldh1241	the servant	SERVANT	255		kneht	kneht 
+1138	11-19-44-1	76191129770922938	Old High German	oldh1241	the freeman	FREEMAN	384		frîman	frîman 
+1139	11-19-45-1	76191234120087001	Old High German	oldh1241	to command or order	ORDER	1128		gibiotan	gibiotan 
+1140	11-19-46-1	76191236380603384	Old High German	oldh1241	to obey	OBEY	1635		gihôren	gihôren 
+1141	11-19-47-1	7619123853540827	Old High German	oldh1241	to permit	PERMIT	1003		(ir)louben	(ir)louben 
+1142	11-19-51-1	76191239752376942	Old High German	oldh1241	the friend	FRIEND	1325		friunt	friunt 
+1143	11-19-52-1	76191258733416460	Old High German	oldh1241	the enemy	ENEMY	1358		fî(j)ant	fî(j)ant 
+1144	11-19-54-1	76191259135069924	Old High German	oldh1241	the neighbour	NEIGHBOUR	1332		nâhgibûr(o)	nâhgibûr(o) 
+1145	11-19-55-1	7619133942144760	Old High German	oldh1241	the stranger	STRANGER	791		quemaling	quemaling 
+1146	11-19-56-1	7619134847594950	Old High German	oldh1241	the guest	GUEST	1782		gast	gast 
+1147	11-19-57-1	7619136318831435	Old High German	oldh1241	the host	HOST	1545		wirt	wirt 
+1148	11-19-58-1	7619137573384365	Old High German	oldh1241	to help	HELP	1897		helfan	helfan 
+1149	11-19-59-1	7619139899305238	Old High German	oldh1241	to prevent	PREVENT	1550		biwerien	biwerien 
+1150	11-19-61-1	76191310961693368	Old High German	oldh1241	the custom	CUSTOM	1747		situ	situ 
+1151	11-19-62-1	76191311230398567	Old High German	oldh1241	the quarrel	QUARREL	1848		strît	strît 
+1152	11-19-63-1	76191313487120021	Old High German	oldh1241	the plot	PLOT	2024		biheiz	biheiz 
+1153	11-19-65-1	76191314499965778	Old High German	oldh1241	to meet	MEET	1831		gaganen	gaganen 
+1154	11-19-72-1	76191315997015579	Old High German	oldh1241	the prostitute	PROSTITUTE	1610		huora	huora 
+1155	11-20-11-1	76191317994195120	Old High German	oldh1241	to fight	FIGHT	1423		fehtan	fehtan 
+1156	11-20-13-1	76191319331680422	Old High German	oldh1241	the war or battle	BATTLE	579		wîg	wîg 
+1157	11-20-14-1	76191321382409302	Old High German	oldh1241	the peace	PEACE	1338		fridu	fridu 
+1158	11-20-15-1	76191321512717230	Old High German	oldh1241	the army	ARMY	1561		heri	heri 
+1159	11-20-17-1	76191349681218032	Old High German	oldh1241	the soldier	SOLDIER	1941		degan	degan 
+1160	11-20-21-1	7619134957315559	Old High German	oldh1241	the weapons	WEAPONS	951		wâfan	wâfan 
+1161	11-20-22-1	76191352317329073	Old High German	oldh1241	the club	CLUB	1763		kolbo	kolbo 
+1162	11-20-222-1	7523104169772614	Old High German	oldh1241	the battle-axe	BATTLE-AXE	386		ackus	ackus 
+1163	11-20-23-1	76191354426598673	Old High German	oldh1241	the sling	SLING	387		slinga	slinga 
+1164	11-20-24-1	7531352599389660	Old High German	oldh1241	the bow	BOW	994		bogo	bogo 
+1165	11-20-25-1	76191356192046916	Old High German	oldh1241	the arrow	ARROW	977		pfîl	pfîl 
+1166	11-20-26-1	7619140162948229	Old High German	oldh1241	the spear	SPEAR	945		sper	sper 
+1167	11-20-27-1	7619140287428392	Old High German	oldh1241	the sword	SWORD	1535		swert	swert 
+1168	11-20-31-1	7619142732285206	Old High German	oldh1241	the armour	ARMOUR	1061		brunna	brunna 
+1169	11-20-33-1	7619143505889964	Old High German	oldh1241	the helmet	HELMET	1680		helm	helm 
+1170	11-20-34-1	7619144242080325	Old High German	oldh1241	the shield	SHIELD	1064		skilt	skilt 
+1171	11-20-35-1	7619146376372115	Old High German	oldh1241	the fortress	FORTRESS	1938		werî	werî 
+1172	11-20-36-1	7619147719265988	Old High German	oldh1241	the tower	TOWER	1671		turri	turri 
+1173	11-20-41-1	7619149509892416	Old High German	oldh1241	the victory	VICTORY	783		sigu	sigu 
+1174	11-20-42-1	76191410257800873	Old High German	oldh1241	the defeat	DEFEAT	782		wal	wal 
+1175	11-20-43-1	76191413352235626	Old High German	oldh1241	the attack	ATTACK	722		anaran	anaran 
+1176	11-20-44-1	76191415722717779	Old High German	oldh1241	to defend	DEFEND	1330		skirmen	skirmen 
+1177	11-20-45-1	7619141672937793	Old High German	oldh1241	to retreat	RETREAT	421		widariziohan	widariziohan 
+1178	11-20-46-1	76191418171567342	Old High German	oldh1241	to surrender	SURRENDER	1696		irgeban	irgeban 
+1179	11-20-47-1	76191427770372719	Old High German	oldh1241	the captive or prisoner	PRISONER	1072		haft	haft 
+1180	11-20-471-1	76191429475697801	Old High German	oldh1241	the guard	GUARD	1940		wahtâri	wahtâri 
+1181	11-20-48-1	76191430943913313	Old High German	oldh1241	the booty	BOOTY	1022		roub	roub 
+1182	11-20-49-1	761914318069263	Old High German	oldh1241	the ambush	AMBUSH	65		fâra	fâra 
+1183	11-20-51-1	76191433416015393	Old High German	oldh1241	the fisherman	FISHERMAN	1858		fiskâri	fiskâri 
+1184	11-20-52-1	76191434370247014	Old High German	oldh1241	the fishhook	FISHHOOK	1074		angul	angul 
+1185	11-20-54-1	76191436585349416	Old High German	oldh1241	the fishnet	FISHNET	388		kelhnezzi	kelhnezzi 
+1186	11-20-55-1	76191437998138993	Old High German	oldh1241	the fish trap	FISH TRAP	389		rûsa	rûsa 
+1187	11-20-56-1	76191438653703715	Old High German	oldh1241	the bait	BAIT	2013		querdar	querdar 
+1188	11-20-61-1	76191438750395511	Old High German	oldh1241	to hunt	HUNT	1435		jagôn	jagôn 
+1189	11-20-62-1	76191439844237772	Old High German	oldh1241	to shoot	SHOOT	1172		skiozan	skiozan 
+1190	11-20-63-1	76191442252921761	Old High German	oldh1241	to miss	MISS (A TARGET)	161		missen	missen 
+1191	11-20-64-1	76191442864501137	Old High German	oldh1241	the trap	TRAP (PITFALL)	1075		falla	falla 
+1192	11-20-65-1	75301346788303008	Old High German	oldh1241	to trap	TRAP (CATCH)	1170		fâhan	fâhan 
+1193	11-21-11-1	7619156878163171	Old High German	oldh1241	the law	LAW	1062		êwa	êwa 
+1194	11-21-15-1	7620830304571448	Old High German	oldh1241	the court	COURT	1068		ding	ding 
+1195	11-12-013-1	7625113670549121	Old High German	oldh1241	at	AT	1461		an(a)	an(a) 
+1196	11-21-16-1	762083476539394	Old High German	oldh1241	to adjudicate	ADJUDICATE	1818		irteilen	irteilen 
+1197	11-21-17-1	7620835578525716	Old High German	oldh1241	the judgment	JUDGMENT	1067		urteili	urteili 
+1198	11-21-18-1	7620840160963619	Old High German	oldh1241	the judge	JUDGE	861		rihtâri	rihtâri 
+1199	11-21-21-1	7620842688738721	Old High German	oldh1241	the plaintiff	PLAINTIFF	2020		bisprehho	bisprehho 
+1200	11-21-23-1	7620847227123678	Old High German	oldh1241	the witness	WITNESS	1144		urkundo	urkundo 
+1201	11-21-24-1	7620848403625676	Old High German	oldh1241	to swear	SWEAR	1939		swer(i)en, swerren	swer(i)en 
+1202	11-21-24-2	7620848403625676	Old High German	oldh1241	to swear	SWEAR	1939		swer(i)en, swerren	swerren 
+1203	11-21-25-1	7620849339991763	Old High German	oldh1241	the oath	OATH	1712		eid	eid 
+1204	11-21-31-1	7620851807696426	Old High German	oldh1241	to accuse	ACCUSE	1814		mahalôn	mahalôn 
+1205	11-21-32-1	7620854784352218	Old High German	oldh1241	to condemn	CONDEMN	484		tuomen	tuomen 
+1206	11-21-33-1	7620857777494846	Old High German	oldh1241	to convict	CONVICT	983		giwinnan	giwinnan 
+1207	11-21-34-1	762091778450153	Old High German	oldh1241	to acquit	ACQUIT	988		intsagen	intsagen 
+1208	11-21-35-1	762094750438800	Old High German	oldh1241	guilty	GUILTY	1682		suntîg	suntîg 
+1209	11-21-36-1	762095859702831	Old High German	oldh1241	innocent	INNOCENT	90		unsuntîg	unsuntîg 
+1210	11-21-37-1	762098922843097	Old High German	oldh1241	the penalty or punishment	PUNISHMENT	390		wîzi	wîzi 
+1211	11-21-38-1	7620941167930882	Old High German	oldh1241	the fine	FINE (PENALTY)	218		buoz	buoz 
+1212	11-21-39-1	7620943784460643	Old High German	oldh1241	the prison	PRISON	1281		karkari	karkari 
+1213	11-21-42-1	762094547176701	Old High German	oldh1241	the murder	MURDER	845		mord	mord 
+1214	11-21-43-1	7620946978418233	Old High German	oldh1241	the adultery	ADULTERY	902		huor	huor 
+1215	11-21-44-1	7620947892156388	Old High German	oldh1241	the rape	RAPE	953		nôtnumft	nôtnumft 
+1216	11-21-46-1	7620950464465836	Old High German	oldh1241	the arson	ARSON	1889		inzuntida	inzuntida 
+1217	11-21-47-1	7620952777519863	Old High German	oldh1241	the perjury	PERJURY	1792		meineid	meineid 
+1218	11-21-51-1	7620953365885010	Old High German	oldh1241	to steal	STEAL	713		stelan	stelan 
+1219	11-21-52-1	7620954407677385	Old High German	oldh1241	the thief	THIEF	1160		diob	diob 
+1220	11-22-11-1	7620959621512347	Old High German	oldh1241	the religion	RELIGION	661		gilouba, giloubo	gilouba 
+1221	11-22-11-2	7620959621512347	Old High German	oldh1241	the religion	RELIGION	661		gilouba, giloubo	giloubo 
+1222	11-22-12-1	7620100441277027	Old High German	oldh1241	the god	DEITY	3231		got	got 
+1223	11-22-13-1	76201031952259	Old High German	oldh1241	the temple	TEMPLE	911		tempal	tempal 
+1224	11-22-14-1	7620104989955925	Old High German	oldh1241	the altar	ALTAR	853		altâri	altâri 
+1225	11-22-15-1	7620107523718222	Old High German	oldh1241	the sacrifice	SACRIFICE	1103		opfar	opfar 
+1226	11-22-16-1	7620101013617128	Old High German	oldh1241	to worship	WORSHIP	257		betôn	betôn 
+1227	11-22-17-1	76201012237709038	Old High German	oldh1241	to pray	PRAY	24		bitten	bitten 
+1228	11-22-18-1	76201014214125305	Old High German	oldh1241	the priest	PRIEST	852		êwawarto	êwawarto 
+1229	11-22-19-1	76201015318849899	Old High German	oldh1241	holy	HOLY	1702		heilag	heilag 
+1230	11-22-22-1	76201017576702420	Old High German	oldh1241	to preach	PREACH	304		predigôn	predigôn 
+1231	11-22-23-1	76201019652465159	Old High German	oldh1241	to bless	BLESS	391		seganôn	seganôn 
+1232	11-22-24-1	76201028975121839	Old High German	oldh1241	to curse	CURSE	8		leidazzen	leidazzen 
+1233	11-22-26-1	76201043955369551	Old High German	oldh1241	to fast	ABSTAIN FROM FOOD	303		fastên	fastên 
+1234	11-22-31-1	74121435981655734	Old High German	oldh1241	the heaven	HEAVEN	1565		himil	himil 
+1235	11-22-32-1	76201045564618882	Old High German	oldh1241	the hell	HELL	878		hella	hella 
+1236	11-22-35-1	76201046494882920	Old High German	oldh1241	the demon	DEMON	1973		unholda	unholda 
+1237	11-22-37-1	76201048971512147	Old High German	oldh1241	the idol	IDOL	1945		abgot	abgot 
+1238	11-22-42-1	76201049143817521	Old High German	oldh1241	the magic	MAGIC	392		zoubar	zoubar 
+1239	11-22-43-1	76201050630953651	Old High German	oldh1241	the sorcerer or witch	MAGICIAN	2137		zoubarâri	zoubarâri 
+1240	11-22-44-1	76201052657065630	Old High German	oldh1241	the fairy or elf	ELF OR FAIRY	3206		alb	alb 
+1241	11-22-45-1	7620105368085157	Old High German	oldh1241	the ghost	GHOST	1175		gitrog	gitrog 
+1242	11-22-47-1	76201055324757294	Old High German	oldh1241	the omen	OMEN	107		forazeihhan	forazeihhan 
+1243	11-23-2-1	76201058474170959	Old High German	oldh1241	the hospital	HOSPITAL	616		siohhûs	siohhûs 
+1244	11-23-37-1	762011577359604	Old High German	oldh1241	the crime	CRIME	1066		firina	firina 
+1245	11-23-42-1	7620117805922124	Old High German	oldh1241	the letter	LETTER	1612		briaf	briaf 
+1246	11-23-54-1	7620119491679995	Old High German	oldh1241	the tin/can	CAN	1051		buhsa	buhsa 
+1247	11-23-56-1	76201112758665485	Old High German	oldh1241	the bottle	BOTTLE	1321		flasca	flasca 
+1248	11-23-61-1	76201116942726500	Old High German	oldh1241	the calendar	CALENDAR	1967		zalabuoh	zalabuoh 
+1249	11-23-63-1	76201120971891919	Old High German	oldh1241	the music	MUSIC	642		spil	spil 
+1250	11-23-64-1	76201121226592786	Old High German	oldh1241	the song	SONG	1096		sang	sang 
+1251	11-23-39-1	76181023619511064	Old High German	oldh1241	the number	NUMBER	1356		zala	zala 
+1252	11-23-395-1	76201129925927883	Old High German	oldh1241	the street	STREET	1362		strâza	strâza 
+1253	11-19-445-1	7620131858812502	Old High German	oldh1241	to liberate	LIBERATE	37		frîen	frîen 
+1254	11-19-565-1	76201318517200683	Old High German	oldh1241	to invite	INVITE	1611		ladôn	ladôn 
+1255	11-24-01-1	72261331939761745	Old High German	oldh1241	to be	BE	1579		wesan	wesan 
+1256	11-24-02-1	76201321456726754	Old High German	oldh1241	to become	BECOME	1990		werdan	werdan 
+1257	11-24-03-1	76201322743726821	Old High German	oldh1241	without	WITHOUT	1478		ânu, âno, âna	ânu 
+1258	11-24-03-2	76201322743726821	Old High German	oldh1241	without	WITHOUT	1478		ânu, âno, âna	âno 
+1259	11-24-03-3	76201322743726821	Old High German	oldh1241	without	WITHOUT	1478		ânu, âno, âna	âna 
+1260	11-24-05-1	76201322995961411	Old High German	oldh1241	through	THROUGH	97		duruh	duruh 
+1261	11-24-13-1	76201324525810689	Old High German	oldh1241	same	SAME	200		selb	selb 
+1262	11-24-06-1	76251041948144671	Old High German	oldh1241	not	NOT	1240		niowiht	niowiht 
+1263	11-24-07-1	76201326758677866	Old High German	oldh1241	this	THIS	1214		desêr	desêr 
+1264	11-24-08-1	76201327586634395	Old High German	oldh1241	that	THAT	78		der	der 
+1265	11-24-09-1	76201327961907363	Old High German	oldh1241	here	HERE	136		hier	hier 
+1266	11-24-1-1	76201328590702199	Old High German	oldh1241	there	THERE	1937		darot	darot 
+1267	11-24-11-1	7671325410245184	Old High German	oldh1241	other	OTHER	197		ander	ander 
+1268	11-4-493-1	76201333622375098	Old High German	oldh1241	the vagina	VAGINA	1836		kwiti	kwiti 
+1269	11-24-12-1	76211229859116239	Old High German	oldh1241	next	NEXT	1354		nâhist	nâhist 
+1270	11-3-863-1	76211232377955520	Old High German	oldh1241	the hare	HARE	1190		haso	haso 
+1271	11-3-865-1	76211233256095557	Old High German	oldh1241	the quail	QUAIL	1893		wahtala	wahtala 
+1272	11-3-869-1	76211235360825828	Old High German	oldh1241	the squirrel	SQUIRREL	1628		eihhurno	eihhurno 
+1273	11-3-872-1	76211237918051087	Old High German	oldh1241	the elk/moose	ELK	1772		elahho	elahho 
+1274	11-3-873-1	7621123828066959	Old High German	oldh1241	the beaver	BEAVER	1194		bibar	bibar 
+1275	11-10-79-1	76211239128662871	Old High German	oldh1241	the sledge/sled	SLED	16		slito	slito 
+1276	11-8-991-1	76211240871533843	Old High German	oldh1241	the larch	LARCH	116		lerihha	lerihha 
+1277	11-8-993-1	76211242888506949	Old High German	oldh1241	the needle(2)	NEEDLE TREE	286		nâdala	nâdala 
+1278	11-4-465-1	76211244868430760	Old High German	oldh1241	the sinew or tendon	TENDON	1137		senawa	senawa 
+1279	11-7-67-1	76211247457726678	Old High German	oldh1241	to tan	TAN	247		gilôwôn	gilôwôn 
+1280	11-22-5-1	76211249730481946	Old High German	oldh1241	the circumcision	CIRCUMCISION	393		umbisnîda	umbisnîda 
+1281	11-8-996-1	76211257654903422	Old High German	oldh1241	the cone	CONE	287		zapfo	zapfo 
+1282	11-4-494-1	76201333622375098	Old High German	oldh1241	the vulva	VULVA	1837		kwiti	kwiti 
+1283	11-9-93-1	7621133565346288	Old High German	oldh1241	the whetstone	WHETSTONE	295		wezzistein	wezzistein 
+1284	11-7-65-1	76211310563010181	Old High German	oldh1241	the camp	CAMP	1105		heriberga	heriberga 
+1285	11-3-597-1	76211313702946418	Old High German	oldh1241	the cormorant	CORMORANT	840		skarbo	skarbo 
+1286	11-3-835-1	76211315934778674	Old High German	oldh1241	the tick	TICK	1527		zecko	zecko 
+1287	11-8-911-1	76211319205139992	Old High German	oldh1241	the millet or sorghum	MILLET	931		hirsi	hirsi 
+1288	11-9-9-1	762593668389496	Old High German	oldh1241	to draw water	DRAW (WATER)	1911		skepfen	skepfen 
+1289	11-9-91-1	7625939569675897	Old High German	oldh1241	the peg	PEG	361		stecko	stecko 
+1290	11-10-58-1	7625103993815043	Old High German	oldh1241	to go or return home	RETURN HOME	142		heim kêren	heim kêren 
+1291	11-1-831-1	7625104894888531	Old High German	oldh1241	the steam	STEAM	1193		dampf	dampf 
+1292	11-2-5-1	74241126892915334	Old High German	oldh1241	the grandchild	GRANDCHILD	1617		enkilîn	enkilîn 
+1293	11-2-931-1	76251015409847295	Old High German	oldh1241	he	HE	1211		ir, er	ir 
+1294	11-2-931-2	76251015409847295	Old High German	oldh1241	he	HE	1211		ir, er	er 
+1295	11-2-932-1	76251016778825797	Old High German	oldh1241	she	SHE	1834		si	si 
+1296	11-2-933-1	76251015631619843	Old High German	oldh1241	it	IT	169		iz, ez	iz 
+1297	11-2-933-2	76251015631619843	Old High German	oldh1241	it	IT	169		iz, ez	ez 
+1298	11-4-741-1	76251017714732806	Old High German	oldh1241	the life	LIFE	210		lebên (2)	lebên (2) 
+1299	11-4-844-1	76251020935144814	Old High German	oldh1241	the disease	DISEASE	1986		suht	suht 
+1300	11-11-29-1	7651014779160713	Old High German	oldh1241	to damage	DAMAGE	1116		tarôn	tarôn 
+1301	11-12-081-1	76251023974360823	Old High German	oldh1241	above	ABOVE	1741		ubar	ubar 
+1302	11-13-231-1	76251024895973734	Old High German	oldh1241	the piece	PIECE	594		stucki	stucki 
+1303	11-13-331-1	76251026917677481	Old High German	oldh1241	alone	ALONE	1964		bar	bar 
+1304	11-14-251-1	76251027947298733	Old High German	oldh1241	the beginning	BEGINNING	1557		anafang	anafang 
+1305	11-22-131-1	7625103663545031	Old High German	oldh1241	the church	CHURCH	1349		kirihha	kirihha 
+1306	11-24-14-1	76251041948144671	Old High German	oldh1241	nothing	NOTHING	687		niowiht	niowiht 
+1307	11-4-7501-1	76251044538898921	Old High German	oldh1241	dead	DEAD	1625		tôt	tôt 
+1308	11-4-8541-1	7521031650781761	Old High German	oldh1241	to scratch	SCRATCH	1436		krazzôn	krazzôn 
+1309	11-9-111-1	76251046509851666	Old High German	oldh1241	to make	MAKE	734		mahhôn	mahhôn 
+1310	11-4-431-1	76251057910764770	Old High German	oldh1241	the belly	BELLY	1251		bûh	bûh 
+1311	11-9-311-1	76251058776734422	Old High German	oldh1241	to wipe	WIPE	1454		wisken	wisken 
+1312	11-1-775-1	7625110758025323	Old High German	oldh1241	to freeze	FREEZE	1431		gifriosan	gifriosan 
+1313	11-24-04-1	7625111417055182	Old High German	oldh1241	with	WITH	1340		mit	mit 
+1314	11-12-012-1	7625112549266000	Old High German	oldh1241	in	IN	1460		in	in 

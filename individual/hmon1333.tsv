@@ -1,0 +1,1523 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	25-1-1-1	76151732901162192	White Hmong	hmon1333	the world	WORLD	965		ntiaj teb	ntiaj teb 
+2	25-1-21-1	76151732424487838	White Hmong	hmon1333	the land	LAND	626		teb (1)	teb (1) 
+3	25-1-212-1	76151732260686801	White Hmong	hmon1333	the soil	EARTH (SOIL)	1228		av	av 
+4	25-1-213-1	76151732535984369	White Hmong	hmon1333	the dust	DUST	2		hmoov av	hmoov av 
+5	25-1-213-2	7615173264600828	White Hmong	hmon1333	the dust	DUST	2		plua tshauv	plua tshauv 
+6	25-1-214-1	76151732588950970	White Hmong	hmon1333	the mud	MUD	640		av nkos	av nkos 
+7	25-1-215-1	76151732880585769	White Hmong	hmon1333	the sand	SAND	671		hmoov zeb	hmoov zeb 
+8	25-1-215-2	76151732228656871	White Hmong	hmon1333	the sand	SAND	671		xuab zeb	xuab zeb 
+9	25-1-22-1	76151732874561830	White Hmong	hmon1333	the mountain or hill	MOUNTAIN OR HILL	2118		roob	roob 
+10	25-1-22-2	76151732136020348	White Hmong	hmon1333	the mountain or hill	MOUNTAIN OR HILL	2118		toj	toj 
+11	25-1-22-3	76151732967501432	White Hmong	hmon1333	the mountain or hill	MOUNTAIN OR HILL	2118		pob-tsuas	pob-tsuas 
+12	25-1-222-1	76151732232483860	White Hmong	hmon1333	the cliff or precipice	PRECIPICE	618		tsag	tsag 
+13	25-1-23-1	7615173292134704	White Hmong	hmon1333	the plain	PLAIN	652		tiaj-nrag	tiaj-nrag 
+14	25-1-24-1	76151732829832424	White Hmong	hmon1333	the valley	VALLEY	921		hav	hav 
+15	25-1-25-1	76151732661893487	White Hmong	hmon1333	the island	ISLAND	622		pov-txwv	pov-txwv 
+16	25-1-25-2	76151732751841375	White Hmong	hmon1333	the island	ISLAND	622		kob	kob 
+17	25-1-27-1	76151732888338417	White Hmong	hmon1333	the shore	SHORE	113		ntug dej	ntug dej 
+18	25-1-28-1	76151732745199536	White Hmong	hmon1333	the cave	CAVE	1155		qhov tsua	qhov tsua 
+19	25-1-31-1	76151732521874774	White Hmong	hmon1333	the water	WATER	948		dej	dej 
+20	25-1-32-1	76151732358241834	White Hmong	hmon1333	the sea	SEA	1474		hiav-txwv	hiav-txwv 
+21	25-1-322-1	76151732135369015	White Hmong	hmon1333	calm	CALM	258		dej ntaug lawm	dej ntaug lawm 
+22	25-1-323-1	76151732402868269	White Hmong	hmon1333	rough(2)	ROUGH (OF SEA)	259		dej nplawm	dej nplawm 
+23	25-1-324-1	76151732519216578	White Hmong	hmon1333	the foam	FOAM	1768		npuas dej	npuas dej 
+24	25-1-33-1	76151732329911003	White Hmong	hmon1333	the lake	LAKE	624		pas dej	pas dej 
+25	25-1-35-1	76151732228040254	White Hmong	hmon1333	the wave	WAVE	978		nthwv dej	nthwv dej 
+26	25-1-35-2	76151732585057113	White Hmong	hmon1333	the wave	WAVE	978		twv (1)	twv (1) 
+27	25-1-36-1	76151732521874774	White Hmong	hmon1333	the river or stream	RIVER	666		dej	dej 
+28	25-1-362-1	76151732267209889	White Hmong	hmon1333	the whirlpool	WHIRLPOOL	1982		yis dej	yis dej 
+29	25-1-37-1	7615173271309866	White Hmong	hmon1333	the spring or well	SPRING OR WELL	2144		qhov dej	qhov dej 
+30	25-1-37-2	7615173249864802	White Hmong	hmon1333	the spring or well	SPRING OR WELL	2144		qhov dej txhawv	qhov dej txhawv 
+31	25-1-38-1	76151732595948558	White Hmong	hmon1333	the swamp	SWAMP	1145		hav iav	hav iav 
+32	25-1-39-1	76151732368405692	White Hmong	hmon1333	the waterfall	WATERFALL	943		dej poob tsag	dej poob tsag 
+33	25-1-41-1	76151732448190079	White Hmong	hmon1333	the woods or forest	FOREST	420		zoov	zoov 
+34	25-1-43-1	76151732259638127	White Hmong	hmon1333	the wood	WOOD	1803		ntoo	ntoo 
+35	25-1-44-1	76151732503445585	White Hmong	hmon1333	the stone or rock	STONE OR ROCK	2125		pob-zeb	pob-zeb 
+36	25-1-45-1	76151732966984869	White Hmong	hmon1333	the earthquake	EARTHQUAKE	6		av qeeg	av qeeg 
+37	25-1-51-1	76151732263423749	White Hmong	hmon1333	the sky	SKY	1732		ntuj	ntuj 
+38	25-1-52-1	76151732739191081	White Hmong	hmon1333	the sun	SUN	1343		hnub	hnub 
+39	25-1-53-1	76151732881821152	White Hmong	hmon1333	the moon	MOON	1313		hli	hli 
+40	25-1-54-1	76151732903802889	White Hmong	hmon1333	the star	STAR	1430		hnub qub	hnub qub 
+41	25-1-55-1	76151732722011805	White Hmong	hmon1333	the lightning	LIGHTNING	1654		xob laim	xob laim 
+42	25-1-55-2	7915136650381715	White Hmong	hmon1333	the lightning	LIGHTNING	1654		xob ntsais	xob ntsais 
+43	25-1-56-1	76151732459664060	White Hmong	hmon1333	the thunder	THUNDER	1150		xob quaj	xob quaj 
+44	25-1-56-2	7915139389418757	White Hmong	hmon1333	the thunder	THUNDER	1150		xob nroo	xob nroo 
+45	25-1-58-1	76151732470191794	White Hmong	hmon1333	the storm	STORM	858		cua daj cua dub	cua daj cua dub 
+46	25-1-59-1	76151732590642199	White Hmong	hmon1333	the rainbow	RAINBOW	1733		zaj sawv	zaj sawv 
+47	25-1-61-1	76151732194953021	White Hmong	hmon1333	the light	LIGHT (RADIATION)	630		kaj	kaj 
+48	25-1-62-1	76151732209267421	White Hmong	hmon1333	the darkness	DARKNESS	11		tsaus	tsaus 
+49	25-1-63-1	76151732500843323	White Hmong	hmon1333	the shade or shadow	SHADE	1388		ntxoov-ntxoo	ntxoov-ntxoo 
+50	25-1-64-1	76151732383545584	White Hmong	hmon1333	the dew	DEW	1977		lwg	lwg 
+51	25-1-71-1	76151732820517320	White Hmong	hmon1333	the air	AIR	27		pa	pa 
+52	25-1-72-1	76151732794983941	White Hmong	hmon1333	the wind	WIND	960		cua	cua 
+53	25-1-73-1	76151732488199865	White Hmong	hmon1333	the cloud	CLOUD	1489		huab	huab 
+54	25-1-74-1	76151732419734097	White Hmong	hmon1333	the fog	FOG	249		pos huab	pos huab 
+55	25-1-75-1	76151732987917696	White Hmong	hmon1333	the rain	RAIN (PRECIPITATION)	658		nag	nag 
+56	25-1-76-1	76151732977013612	White Hmong	hmon1333	the snow	SNOW	784		npu	npu 
+57	25-1-77-1	76151732704710167	White Hmong	hmon1333	the ice	ICE	617		dej khov	dej khov 
+58	25-1-77-2	76151732639487975	White Hmong	hmon1333	the ice	ICE	617		nab kuab	nab kuab 
+59	25-1-78-1	76151732333127921	White Hmong	hmon1333	the weather	WEATHER	952		huab cua	huab cua 
+60	25-1-81-1	76151732276703402	White Hmong	hmon1333	the fire	FIRE	221		taws	taws 
+61	25-1-82-1	76151732518117137	White Hmong	hmon1333	the flame	FLAME	889		nplaim taws	nplaim taws 
+62	25-1-83-1	7615173242610006	White Hmong	hmon1333	the smoke	SMOKE (EXHAUST)	778		ncho pa	ncho pa 
+63	25-1-83-2	76151732917021415	White Hmong	hmon1333	the smoke	SMOKE (EXHAUST)	778		pa taws	pa taws 
+64	25-1-84-1	76151732146829422	White Hmong	hmon1333	the ash	ASH	646		tshauv	tshauv 
+65	25-1-841-1	7615173257201446	White Hmong	hmon1333	the embers	EMBERS	67		hluav ncaig	hluav ncaig 
+66	25-1-851-1	76151732420312737	White Hmong	hmon1333	to burn(1)	BURN (SOMETHING)	141		hlawv	hlawv 
+67	25-1-852-1	76151732202621458	White Hmong	hmon1333	to burn(2)	BURNING	1428		kub (1)	kub (1) 
+68	25-1-86-1	76151732634956365	White Hmong	hmon1333	to light	LIGHT (IGNITE)	737		rauv	rauv 
+69	25-1-861-1	76151732108899073	White Hmong	hmon1333	to extinguish	EXTINGUISH	127		tua	tua 
+70	25-1-87-1	76151732979973036	White Hmong	hmon1333	the match	MATCH	1133		ntais ntawv	ntais ntawv 
+71	25-1-88-1	76151732276703402	White Hmong	hmon1333	the firewood	FIREWOOD	10		taws	taws 
+72	25-1-89-1	76151732611323255	White Hmong	hmon1333	the charcoal	CHARCOAL	1188		thee	thee 
+73	25-2-1-1	76151732454049859	White Hmong	hmon1333	the person	PERSON	683		neeg	neeg 
+74	25-2-21-1	76151732996308162	White Hmong	hmon1333	the man	MAN	1554		txiv neej	txiv neej 
+75	25-2-22-1	76151732721234329	White Hmong	hmon1333	the woman	WOMAN	962		pojniam	pojniam 
+76	25-2-23-1	76151732261022244	White Hmong	hmon1333	male(1)	MALE (OF ANIMAL)	2263		txiv (1)	txiv (1) 
+77	25-2-24-1	76151732532207964	White Hmong	hmon1333	female(1)	FEMALE (OF PERSON)	2260		poj	poj 
+78	25-2-25-1	76151732538909835	White Hmong	hmon1333	the boy	BOY	1366		tub	tub 
+79	25-2-251-1	7615173239060685	White Hmong	hmon1333	the young man	YOUNG MAN	76		hluas nraug	hluas nraug 
+80	25-2-26-1	76151732115959580	White Hmong	hmon1333	the girl	GIRL	1646		ntxhais	ntxhais 
+81	25-2-261-1	76151732554731485	White Hmong	hmon1333	the young woman	YOUNG WOMAN	77		hluas nkauj	hluas nkauj 
+82	25-2-27-1	76151732918403050	White Hmong	hmon1333	the child(1)	CHILD (YOUNG HUMAN)	1304		menyuam	menyuam 
+83	25-2-28-1	76151732131333489	White Hmong	hmon1333	the baby	BABY	1289		mos ab	mos ab 
+84	25-2-31-1	76151732261022244	White Hmong	hmon1333	the husband	HUSBAND	1200		txiv (1)	txiv (1) 
+85	25-2-32-1	76151732721234329	White Hmong	hmon1333	the wife	WIFE	1199		pojniam	pojniam 
+86	25-2-33-1	76151732400402401	White Hmong	hmon1333	to marry	MARRY	203		yuav	yuav 
+87	25-2-34-1	76151732207217984	White Hmong	hmon1333	the wedding	WEDDING	1259		tshoob	tshoob 
+88	25-2-341-1	7615173237235646	White Hmong	hmon1333	the divorce	DIVORCE	1134		kev sib-nrauj	kev sib-nrauj 
+89	25-2-35-1	76151732261022244	White Hmong	hmon1333	the father	FATHER	1217		txiv (1)	txiv (1) 
+90	25-2-36-1	76151732575305556	White Hmong	hmon1333	the mother	MOTHER	1216		niam	niam 
+91	25-2-37-1	76151732763564115	White Hmong	hmon1333	the parents	PARENTS	505		niam txiv	niam txiv 
+92	25-2-39-1	76151732721234329	White Hmong	hmon1333	the married woman	MARRIED WOMAN	426		pojniam	pojniam 
+93	25-2-41-1	76151732538909835	White Hmong	hmon1333	the son	SON	1620		tub	tub 
+94	25-2-42-1	76151732115959580	White Hmong	hmon1333	the daughter	DAUGHTER	1357		ntxhais	ntxhais 
+95	25-2-43-1	76151732918403050	White Hmong	hmon1333	the child(2)	CHILD (DESCENDANT)	1801		menyuam	menyuam 
+96	25-2-44-1	76151732415542435	White Hmong	hmon1333	the brother	BROTHER	1262		kwv tij	kwv tij 
+97	25-2-44-2	76151732357602068	White Hmong	hmon1333	the brother	BROTHER	1262		nus	nus 
+98	25-2-444-1	76151732888042380	White Hmong	hmon1333	the older brother	OLDER BROTHER	1759		tij-laug	tij-laug 
+99	25-2-445-1	76151732414974883	White Hmong	hmon1333	the younger brother	YOUNGER BROTHER	1760		kwv (1)	kwv (1) 
+100	25-2-45-1	76151732345233088	White Hmong	hmon1333	the sister	SISTER	1263		viv ncaus	viv ncaus 
+101	25-2-45-2	7615173243268309	White Hmong	hmon1333	the sister	SISTER	1263		muam	muam 
+102	25-2-454-1	76151732129401687	White Hmong	hmon1333	the older sister	OLDER SISTER	1758		niam laus	niam laus 
+103	25-2-455-1	7615173236338230	White Hmong	hmon1333	the younger sister	YOUNGER SISTER	1761		niam hluas	niam hluas 
+104	25-2-456-1	76151732493729993	White Hmong	hmon1333	the sibling	SIBLING	1640		nus muag	nus muag 
+105	25-2-458-1	76151732498044590	White Hmong	hmon1333	the twins	TWINS	1005		menyuam ntxaib	menyuam ntxaib 
+106	25-2-46-1	76151732940506610	White Hmong	hmon1333	the grandfather	GRANDFATHER	1383		yawg	yawg 
+107	25-2-46-2	76151732716885640	White Hmong	hmon1333	the grandfather	GRANDFATHER	1383		yawm txiv	yawm txiv 
+108	25-2-461-1	76151732647602811	White Hmong	hmon1333	the old man	OLD MAN	406		yawg laug	yawg laug 
+109	25-2-47-1	76151732198272307	White Hmong	hmon1333	the grandmother	GRANDMOTHER	1496		pog	pog 
+110	25-2-47-2	76151732361818324	White Hmong	hmon1333	the grandmother	GRANDMOTHER	1496		niam tais	niam tais 
+111	25-2-471-1	76151732513904602	White Hmong	hmon1333	the old woman	OLD WOMAN	907		pog laug	pog laug 
+112	25-2-48-1	76151732595267434	White Hmong	hmon1333	the grandson	GRANDSON	1618		tub xeeb-ntxwv	tub xeeb-ntxwv 
+113	25-2-49-1	76151732225814944	White Hmong	hmon1333	the granddaughter	GRANDDAUGHTER	1619		ntxhais xeeb-ntxwv	ntxhais xeeb-ntxwv 
+114	25-2-511-1	76151732283604278	White Hmong	hmon1333	the mother's brother	MOTHER'S BROTHER	1984		dab laug	dab laug 
+115	25-2-512-1	76151732767131847	White Hmong	hmon1333	the father's brother	FATHER'S BROTHER	1985		txiv hlob	txiv hlob 
+116	25-2-512-2	76151732698736232	White Hmong	hmon1333	the father's brother	FATHER'S BROTHER	1985		txiv ntxawm	txiv ntxawm 
+117	25-2-521-1	76151732361818324	White Hmong	hmon1333	the mother's sister	MOTHER'S SISTER	171		niam tais	niam tais 
+118	25-2-522-1	76151732114871491	White Hmong	hmon1333	the father's sister	FATHER'S SISTER	170		phauj	phauj 
+119	25-2-55-1	76151732415542435	White Hmong	hmon1333	the cousin	COUSIN	1643		kwv tij	kwv tij 
+120	25-2-55-2	76151732625907670	White Hmong	hmon1333	the cousin	COUSIN	1643		npawg	npawg 
+121	25-2-56-1	7615173278785467	White Hmong	hmon1333	the ancestors	ANCESTORS	1669		pog koob yawg koob	pog koob yawg koob 
+122	25-2-57-1	76151732289217868	White Hmong	hmon1333	the descendants	DESCENDANTS	490		xeeb-ntxwv	xeeb-ntxwv 
+123	25-2-61-1	76151732101387014	White Hmong	hmon1333	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		yawg txiv	yawg txiv 
+124	25-2-61-2	76151732261022244	White Hmong	hmon1333	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		txiv (1)	txiv (1) 
+125	25-2-611-1	76151732982237561	White Hmong	hmon1333	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		txiv yawg	txiv yawg 
+126	25-2-611-2	76151732261022244	White Hmong	hmon1333	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		txiv (1)	txiv (1) 
+127	25-2-62-1	76151732361818324	White Hmong	hmon1333	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		niam tais	niam tais 
+128	25-2-62-2	76151732575305556	White Hmong	hmon1333	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		niam	niam 
+129	25-2-621-1	76151732276631152	White Hmong	hmon1333	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		niam pog	niam pog 
+130	25-2-621-2	76151732575305556	White Hmong	hmon1333	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		niam	niam 
+131	25-2-63-1	76151732580261602	White Hmong	hmon1333	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		vauv	vauv 
+132	25-2-631-1	76151732580261602	White Hmong	hmon1333	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		vauv	vauv 
+133	25-2-64-1	76151732364873030	White Hmong	hmon1333	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		nyab	nyab 
+134	25-2-641-1	76151732364873030	White Hmong	hmon1333	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		nyab	nyab 
+135	25-2-71-1	76151732261022244	White Hmong	hmon1333	the stepfather	STEPFATHER	237		txiv (1)	txiv (1) 
+136	25-2-72-1	76151732575305556	White Hmong	hmon1333	the stepmother	STEPMOTHER	236		niam	niam 
+137	25-2-73-1	76151732538909835	White Hmong	hmon1333	the stepson	STEPSON	1059		tub	tub 
+138	25-2-74-1	76151732115959580	White Hmong	hmon1333	the stepdaughter	STEPDAUGHTER	1058		ntxhais	ntxhais 
+139	25-2-75-1	76151732572673551	White Hmong	hmon1333	the orphan	ORPHAN	1149		ntsuag	ntsuag 
+140	25-2-76-1	76151732500562440	White Hmong	hmon1333	the widow	WIDOW	1756		poj ntsuam	poj ntsuam 
+141	25-2-77-1	76151732430871046	White Hmong	hmon1333	the widower	WIDOWER	1981		yawg ntsuag	yawg ntsuag 
+142	25-2-81-1	76151732210556883	White Hmong	hmon1333	the relatives	RELATIVES	1644		kwv tij neej tsa	kwv tij neej tsa 
+143	25-2-82-1	7615173254698540	White Hmong	hmon1333	the family	FAMILY	194		tsev neeg	tsev neeg 
+144	25-2-91-1	76151732623019618	White Hmong	hmon1333	I	I	1209		kuv	kuv 
+145	25-2-92-1	76151732546932662	White Hmong	hmon1333	you (singular)	THOU	1215		koj	koj 
+146	25-2-93-1	76151732531717676	White Hmong	hmon1333	he/she/it	HE OR SHE OR IT	262		nws	nws 
+147	25-2-94-1	76151732842942157	White Hmong	hmon1333	we	WE	1212		peb (1)	peb (1) 
+148	25-2-941-1	76151732842942157	White Hmong	hmon1333	we (inclusive)	WE (INCLUSIVE)	1131		peb (1)	peb (1) 
+149	25-2-942-1	76151732842942157	White Hmong	hmon1333	we (exclusive)	WE (EXCLUSIVE)	1130		peb (1)	peb (1) 
+150	25-2-95-1	76151732974099347	White Hmong	hmon1333	you (plural)	YOU	1213		nej	nej 
+151	25-2-96-1	76151732823158032	White Hmong	hmon1333	they	THEY	817		lawv	lawv 
+152	25-3-11-1	7615173211980978	White Hmong	hmon1333	the animal	ANIMAL	619		tsiaj, tsiaj txhu	tsiaj 
+153	25-3-11-2	7615173211980978	White Hmong	hmon1333	the animal	ANIMAL	619		tsiaj, tsiaj txhu	tsiaj txhu 
+154	25-3-12-1	76151732261022244	White Hmong	hmon1333	male(2)	MALE (OF PERSON)	2261		txiv (1)	txiv (1) 
+155	25-3-13-1	76151732957997038	White Hmong	hmon1333	female(2)	FEMALE (OF ANIMAL)	2262		maum	maum 
+156	25-3-15-1	76151732973840255	White Hmong	hmon1333	the livestock	LIVESTOCK	631		tsiaj nyeg	tsiaj nyeg 
+157	25-3-19-1	76151732800954364	White Hmong	hmon1333	the stable or stall	STABLE	851		nkuaj	nkuaj 
+158	25-3-2-1	7615173222945317	White Hmong	hmon1333	the cattle	CATTLE	1153		nyuj	nyuj 
+159	25-3-21-1	76151732544534129	White Hmong	hmon1333	the bull	BULL	1008		phaw nyuj	phaw nyuj 
+160	25-3-21-2	76151732665131520	White Hmong	hmon1333	the bull	BULL	1008		txiv nyuj	txiv nyuj 
+161	25-3-23-1	76151732825921583	White Hmong	hmon1333	the cow	COW	1007		maum nyuj	maum nyuj 
+162	25-3-24-1	7615173222945317	White Hmong	hmon1333	the calf	CALF	1989		nyuj	nyuj 
+163	25-3-25-1	7615173241916471	White Hmong	hmon1333	the sheep	SHEEP	1331		yaj	yaj 
+164	25-3-26-1	7615173225372582	White Hmong	hmon1333	the ram	RAM	1344		phaw yaj	phaw yaj 
+165	25-3-28-1	7615173289612994	White Hmong	hmon1333	the ewe	EWE	1345		maum yaj	maum yaj 
+166	25-3-29-1	7615173241916471	White Hmong	hmon1333	the lamb	LAMB	820		yaj	yaj 
+167	25-3-32-1	76151732579447915	White Hmong	hmon1333	the boar	BOAR	1348		npua teb	npua teb 
+168	25-3-34-1	761517322042566	White Hmong	hmon1333	the sow	SOW (FEMALE PIG)	1351		maum npua	maum npua 
+169	25-3-35-1	76151732101898579	White Hmong	hmon1333	the pig	PIG	1337		npua	npua 
+170	25-3-36-1	76151732229618955	White Hmong	hmon1333	the goat	GOAT	1502		tshis	tshis 
+171	25-3-37-1	76151732622129530	White Hmong	hmon1333	the he-goat	HE-GOAT	264		phaw tshis	phaw tshis 
+172	25-3-38-1	76151732229618955	White Hmong	hmon1333	the kid	KID	1972		tshis	tshis 
+173	25-3-41-1	76151732137855227	White Hmong	hmon1333	the horse	HORSE	615		nees	nees 
+174	25-3-42-1	76151732606658009	White Hmong	hmon1333	the stallion	STALLION	936		phaw nees	phaw nees 
+175	25-3-44-1	76151732564664077	White Hmong	hmon1333	the mare	MARE	938		maum nees	maum nees 
+176	25-3-45-1	76151732137855227	White Hmong	hmon1333	the foal or colt	FOAL	1647		nees	nees 
+177	25-3-46-1	7615173286053623	White Hmong	hmon1333	the donkey	DONKEY	1862		zag	zag 
+178	25-3-47-1	76151732930432686	White Hmong	hmon1333	the mule	MULE	890		luj-txwv	luj-txwv 
+179	25-3-52-1	76151732848849030	White Hmong	hmon1333	the cock/rooster	ROOSTER	1511		lau qaib	lau qaib 
+180	25-3-54-1	76151732642956486	White Hmong	hmon1333	the hen	HEN	1514		poj qaib	poj qaib 
+181	25-3-55-1	76151732105385963	White Hmong	hmon1333	the chicken	CHICKEN	1318		qaib	qaib 
+182	25-3-56-1	76151732281232754	White Hmong	hmon1333	the goose	GOOSE	1187		gus	gus 
+183	25-3-57-1	76151732204755932	White Hmong	hmon1333	the duck	DUCK	1360		os	os 
+184	25-3-58-1	76151732629305953	White Hmong	hmon1333	the nest	NEST	539		zes	zes 
+185	25-3-581-1	76151732532566156	White Hmong	hmon1333	the bird	BIRD	937		noog	noog 
+186	25-3-584-1	76151732776122566	White Hmong	hmon1333	the eagle	EAGLE	1905		dav (1)	dav (1) 
+187	25-3-585-1	76151732776122566	White Hmong	hmon1333	the hawk	HAWK	307		dav (1)	dav (1) 
+188	25-3-586-1	76151732261520840	White Hmong	hmon1333	the vulture	VULTURE	1185		liv nyug, lib nyug	liv nyug 
+189	25-3-586-2	76151732261520840	White Hmong	hmon1333	the vulture	VULTURE	1185		liv nyug, lib nyug	lib nyug 
+190	25-3-591-1	76151732373629046	White Hmong	hmon1333	the bat	BAT	1793		puav	puav 
+191	25-3-592-1	76151732457729215	White Hmong	hmon1333	the parrot	PARROT	882		leeb nkaub	leeb nkaub 
+192	25-3-593-1	76151732594460084	White Hmong	hmon1333	the crow	CROW	913		uab	uab 
+193	25-3-594-1	76151732446317506	White Hmong	hmon1333	the dove	DOVE	1853		nquab	nquab 
+194	25-3-596-1	76151732734508327	White Hmong	hmon1333	the owl	OWL	735		plas	plas 
+195	25-3-61-1	76151732329574798	White Hmong	hmon1333	the dog	DOG	2009		dev	dev 
+196	25-3-614-1	76151732496410189	White Hmong	hmon1333	the rabbit	RABBIT	1136		kab taij	kab taij 
+197	25-3-614-2	76151732733377691	White Hmong	hmon1333	the rabbit	RABBIT	1136		luav	luav 
+198	25-3-62-1	76151732329940385	White Hmong	hmon1333	the cat	CAT	1208		miv	miv 
+199	25-3-63-1	76151732892870601	White Hmong	hmon1333	the mouse or rat	MUROID (MOUSE OR RAT)	2139		nas	nas 
+200	25-3-65-1	76151732429198546	White Hmong	hmon1333	the fish	FISH	227		ntses	ntses 
+201	25-3-652-1	76151732832519071	White Hmong	hmon1333	the fin	FIN	213		tis ntses	tis ntses 
+202	25-3-653-1	76151732298890554	White Hmong	hmon1333	the scale	SCALE	266		nplai	nplai 
+203	25-3-654-1	76151732999935930	White Hmong	hmon1333	the gill	GILL	1916		xiab	xiab 
+204	25-3-655-1	76151732278661395	White Hmong	hmon1333	the shell	SHELL	598		khauj-khaum	khauj-khaum 
+205	25-3-665-1	76151732191995373	White Hmong	hmon1333	the freshwater eel	FRESHWATER EEL	1013		ntses nab	ntses nab 
+206	25-3-71-1	76151732499961307	White Hmong	hmon1333	the wolf	WOLF	522		hma	hma 
+207	25-3-72-1	76151732237624460	White Hmong	hmon1333	the lion	LION	1386		tsov ntxhuav	tsov ntxhuav 
+208	25-3-73-1	76151732603374273	White Hmong	hmon1333	the bear	BEAR	1820		dais	dais 
+209	25-3-74-1	76151732306432526	White Hmong	hmon1333	the fox	FOX	1312		hma liab	hma liab 
+210	25-3-75-1	761517321577180	White Hmong	hmon1333	the deer	DEER	1936		muas lwj, mos lwj	muas lwj 
+211	25-3-75-2	761517321577180	White Hmong	hmon1333	the deer	DEER	1936		muas lwj, mos lwj	mos lwj 
+212	25-3-75-3	76151732458917007	White Hmong	hmon1333	the deer	DEER	1936		kauv	kauv 
+213	25-3-76-1	76151732729947528	White Hmong	hmon1333	the monkey	MONKEY	1350		liab (1)	liab (1) 
+214	25-3-77-1	76151732886633665	White Hmong	hmon1333	the elephant	ELEPHANT	1290		ntxhw	ntxhw 
+215	25-3-78-1	76151732731708227	White Hmong	hmon1333	the camel	CAMEL	1871		us	us 
+216	25-3-81-1	76151732577951038	White Hmong	hmon1333	the insect	INSECT	620		kab (1)	kab (1) 
+217	25-3-811-1	76151732219834741	White Hmong	hmon1333	the head louse	HEAD LOUSE	310		ntshauv	ntshauv 
+218	25-3-812-1	7615173250207516	White Hmong	hmon1333	the nit	NIT	267		qe ntshauv	qe ntshauv 
+219	25-3-813-1	76151732578105618	White Hmong	hmon1333	the flea	FLEA	232		dev mub	dev mub 
+220	25-3-814-1	76151732465962249	White Hmong	hmon1333	the centipede	CENTIPEDE	1974		laum kib tshooj, laum kev tshooj	laum kib tshooj 
+221	25-3-814-2	76151732465962249	White Hmong	hmon1333	the centipede	CENTIPEDE	1974		laum kib tshooj, laum kev tshooj	laum kev tshooj 
+222	25-3-816-1	76151732228811154	White Hmong	hmon1333	the cockroach	COCKROACH	1575		kab laum	kab laum 
+223	25-3-817-1	76151732288762973	White Hmong	hmon1333	the ant	ANT	587		ntsaum	ntsaum 
+224	25-3-818-1	76151732307553914	White Hmong	hmon1333	the spider	SPIDER	843		kab laug sab	kab laug sab 
+225	25-3-819-1	76151732841053316	White Hmong	hmon1333	the spider web	SPIDER WEB	1065		zes kab laug sab	zes kab laug sab 
+226	25-3-819-2	71124626814534477	White Hmong	hmon1333	the spider web	SPIDER WEB	1065		tsev kab laug sab	tsev kab laug sab 
+227	25-3-82-1	76151732657193638	White Hmong	hmon1333	the bee	BEE	665		muv	muv 
+228	25-3-821-1	76151732647785896	White Hmong	hmon1333	the beeswax	BEESWAX	1931		ciab-mu	ciab-mu 
+229	25-3-822-1	76151732678850984	White Hmong	hmon1333	the beehive	BEEHIVE	88		xub (1)	xub (1) 
+230	25-3-823-1	7615173279918151	White Hmong	hmon1333	the wasp	WASP	1517		nkawj	nkawj 
+231	25-3-83-1	76151732927400269	White Hmong	hmon1333	the fly	FLY (INSECT)	1504		yoov	yoov 
+232	25-3-831-1	76151732952909891	White Hmong	hmon1333	the sandfly or midge or gnat	SANDFLY	95		yoov qaib	yoov qaib 
+233	25-3-832-1	76151732793978583	White Hmong	hmon1333	the mosquito	MOSQUITO	1509		yoov tshaj cum	yoov tshaj cum 
+234	25-3-84-1	76151732552563174	White Hmong	hmon1333	the worm	WORM	1219		cua nab	cua nab 
+235	25-3-85-1	76151732681677470	White Hmong	hmon1333	the snake	SNAKE	730		nab	nab 
+236	25-3-91-1	76151732173935136	White Hmong	hmon1333	the firefly	FIREFLY	206		kab taws tsau	kab taws tsau 
+237	25-3-92-1	76151732154436281	White Hmong	hmon1333	the butterfly	BUTTERFLY	1791		npuj-npaim	npuj-npaim 
+238	25-3-93-1	76151732264046898	White Hmong	hmon1333	the grasshopper	GRASSHOPPER	607		kooj	kooj 
+239	25-3-94-1	76151732815674005	White Hmong	hmon1333	the snail	SNAIL	1543		qwj	qwj 
+240	25-3-95-1	76151732413571580	White Hmong	hmon1333	the frog	FROG	503		qav	qav 
+241	25-3-96-1	76151732310236964	White Hmong	hmon1333	the lizard	LIZARD	632		nab-qa	nab-qa 
+242	25-3-97-1	76151732887416670	White Hmong	hmon1333	the crocodile or alligator	CROCODILE	1857		kheb	kheb 
+243	25-3-98-1	7615173298928824	White Hmong	hmon1333	the turtle	TURTLE	112		vaub kib, vuab kib, huab kib	vaub kib 
+244	25-3-98-2	7615173298928824	White Hmong	hmon1333	the turtle	TURTLE	112		vaub kib, vuab kib, huab kib	vuab kib 
+245	25-3-98-3	7615173298928824	White Hmong	hmon1333	the turtle	TURTLE	112		vaub kib, vuab kib, huab kib	huab kib 
+246	25-4-11-1	76151732271874588	White Hmong	hmon1333	the body	BODY	1480		cev	cev 
+247	25-4-12-1	76151732213595138	White Hmong	hmon1333	the skin or hide	SKIN	763		tawv (1)	tawv (1) 
+248	25-4-13-1	7615173283683955	White Hmong	hmon1333	the flesh	FLESH	2259		nqaij	nqaij 
+249	25-4-14-1	7615173283376969	White Hmong	hmon1333	the hair	HAIR (HEAD)	2648		plaub-hau	plaub-hau 
+250	25-4-142-1	76151732831308111	White Hmong	hmon1333	the beard	BEARD	678		hwj-txwv	hwj-txwv 
+251	25-4-144-1	76151732638748904	White Hmong	hmon1333	the body hair	HAIR (BODY)	189		plaub (1)	plaub (1) 
+252	25-4-145-1	76151732638748904	White Hmong	hmon1333	the pubic hair	PUBIC HAIR	36		plaub (1)	plaub (1) 
+253	25-4-146-1	76151732878748393	White Hmong	hmon1333	the dandruff	DANDRUFF	576		plhaws taub-hau	plhaws taub-hau 
+254	25-4-15-1	76151732651959691	White Hmong	hmon1333	the blood	BLOOD	946		ntshav	ntshav 
+255	25-4-151-1	76151732469041072	White Hmong	hmon1333	the vein or artery	BLOOD VESSEL	525		leeg	leeg 
+256	25-4-16-1	76151732401817856	White Hmong	hmon1333	the bone	BONE	1394		pob-txha	pob-txha 
+257	25-4-162-1	76151732904884874	White Hmong	hmon1333	the rib	RIB	801		tav	tav 
+258	25-4-17-1	76151732126509598	White Hmong	hmon1333	the horn	HORN (ANATOMY)	1393		kub (2)	kub (2) 
+259	25-4-18-1	76151732778106144	White Hmong	hmon1333	the tail	TAIL	1220		tw	tw 
+260	25-4-19-1	76151732775279999	White Hmong	hmon1333	the back	BACK	1291		nrob qaum	nrob qaum 
+261	25-4-19-2	76151732350786179	White Hmong	hmon1333	the back	BACK	1291		duav (1)	duav (1) 
+262	25-4-191-1	7615173299133888	White Hmong	hmon1333	the spine	SPINE	805		nqaj qaum	nqaj qaum 
+263	25-4-2-1	76151732941801042	White Hmong	hmon1333	the head	HEAD	1256		taub-hau	taub-hau 
+264	25-4-202-1	76151732996755336	White Hmong	hmon1333	the skull	SKULL	1605		khauj-khaum taub-hau	khauj-khaum taub-hau 
+265	25-4-203-1	76151732457697645	White Hmong	hmon1333	the brain	BRAIN	1583		hlwb	hlwb 
+266	25-4-204-1	76151732661215323	White Hmong	hmon1333	the face	FACE	1560		ntsej muag	ntsej muag 
+267	25-4-205-1	7615173259990092	White Hmong	hmon1333	the forehead	FOREHEAD	123		hauv pliaj	hauv pliaj 
+268	25-4-207-1	76151732570979278	White Hmong	hmon1333	the jaw	JAW	798		puab-tsaig	puab-tsaig 
+269	25-4-208-1	76151732367232652	White Hmong	hmon1333	the cheek	CHEEK	1730		plhu	plhu 
+270	25-4-209-1	76151732570979278	White Hmong	hmon1333	the chin	CHIN	1510		puab-tsaig	puab-tsaig 
+271	25-4-21-1	76151732749214014	White Hmong	hmon1333	the eye	EYE	1248		qhov-muag	qhov-muag 
+272	25-4-212-1	76151732827155899	White Hmong	hmon1333	the eyebrow	EYEBROW	1173		plaub muag	plaub muag 
+273	25-4-213-1	76151732592635993	White Hmong	hmon1333	the eyelid	EYELID	17		tawv muag	tawv muag 
+274	25-4-214-1	76151732827155899	White Hmong	hmon1333	the eyelash	EYELASH	1540		plaub muag	plaub muag 
+275	25-4-215-1	76151732250032582	White Hmong	hmon1333	to blink	BLINK	1655		ntsais muag	ntsais muag 
+276	25-4-22-1	76151732601942496	White Hmong	hmon1333	the ear	EAR	1247		pob-ntseg	pob-ntseg 
+277	25-4-221-1	76151732861324851	White Hmong	hmon1333	the earlobe	EARLOBE	18		taub-ntseg	taub-ntseg 
+278	25-4-222-1	76151732953388114	White Hmong	hmon1333	the earwax	EARWAX	32		quav ntsej	quav ntsej 
+279	25-4-23-1	76151732314482806	White Hmong	hmon1333	the nose	NOSE	1221		qhov-ntswg	qhov-ntswg 
+280	25-4-231-1	76151732314482806	White Hmong	hmon1333	the nostril	NOSTRIL	1178		qhov-ntswg	qhov-ntswg 
+281	25-4-232-1	76151732339017862	White Hmong	hmon1333	the nasal mucus	NASAL MUCUS (SNOT)	208		ntswg	ntswg 
+282	25-4-24-1	76151732663251114	White Hmong	hmon1333	the mouth	MOUTH	674		qhov-ncauj	qhov-ncauj 
+283	25-4-241-1	76151732373456683	White Hmong	hmon1333	the beak	BEAK	73		kaus ncauj	kaus ncauj 
+284	25-4-25-1	76151732976893461	White Hmong	hmon1333	the lip	LIP	478		di ncauj	di ncauj 
+285	25-4-26-1	76151732741569646	White Hmong	hmon1333	the tongue	TONGUE	1205		nplaig	nplaig 
+286	25-4-27-1	76151732863992049	White Hmong	hmon1333	the tooth	TOOTH	1380		hniav	hniav 
+287	25-4-271-1	76151732253146742	White Hmong	hmon1333	the gums	GUMS	139		pos hniav	pos hniav 
+288	25-4-272-1	76151732415225451	White Hmong	hmon1333	the molar tooth	MOLAR TOOTH	1049		hniav puas	hniav puas 
+289	25-4-28-1	7615173211101080	White Hmong	hmon1333	the neck	NECK	1333		caj-dab	caj-dab 
+290	25-4-29-1	76151732746846919	White Hmong	hmon1333	the throat	THROAT	1346		caj-pas	caj-pas 
+291	25-4-29-2	7615173211101080	White Hmong	hmon1333	the throat	THROAT	1346		caj-dab	caj-dab 
+292	25-4-3-1	76151732611478743	White Hmong	hmon1333	the shoulder	SHOULDER	1482		xub pwg	xub pwg 
+293	25-4-301-1	76151732134230908	White Hmong	hmon1333	the shoulderblade	SHOULDERBLADE	172		duav pus	duav pus 
+294	25-4-302-1	76151732629342989	White Hmong	hmon1333	the collarbone	COLLARBONE	1994		qais	qais 
+295	25-4-31-1	76151732987170859	White Hmong	hmon1333	the arm	ARM	1673		caj-npab	caj-npab 
+296	25-4-31-2	76151732494437663	White Hmong	hmon1333	the arm	ARM	1673		tes	tes 
+297	25-4-312-1	76151732153253716	White Hmong	hmon1333	the armpit	ARMPIT	1886		qhov-tsos	qhov-tsos 
+298	25-4-32-1	76151732492018035	White Hmong	hmon1333	the elbow	ELBOW	981		luj tshib	luj tshib 
+299	25-4-32-2	76151732363839780	White Hmong	hmon1333	the elbow	ELBOW	981		yas npab	yas npab 
+300	25-4-321-1	76151732122928335	White Hmong	hmon1333	the wrist	WRIST	799		dab-teg	dab-teg 
+301	25-4-33-1	76151732494437663	White Hmong	hmon1333	the hand	HAND	1277		tes	tes 
+302	25-4-331-1	76151732216647811	White Hmong	hmon1333	the palm of the hand	PALM OF HAND	1183		xib-teg	xib-teg 
+303	25-4-34-1	76151732237268890	White Hmong	hmon1333	the finger	FINGER	1303		ntiv tes	ntiv tes 
+304	25-4-342-1	76151732786986855	White Hmong	hmon1333	the thumb	THUMB	1781		nitv tes xoo	nitv tes xoo 
+305	25-4-344-1	76151732178637966	White Hmong	hmon1333	the fingernail	FINGERNAIL	1258		rau tes	rau tes 
+306	25-4-345-1	76151732809340685	White Hmong	hmon1333	the claw	CLAW	72		rau (1)	rau (1) 
+307	25-4-35-1	76151732757912914	White Hmong	hmon1333	the leg	LEG	1297		ceg	ceg 
+308	25-4-351-1	76151732282885695	White Hmong	hmon1333	the thigh	THIGH	800		ncej puab	ncej puab 
+309	25-4-352-1	76151732618039331	White Hmong	hmon1333	the calf of the leg	CALF OF LEG	498		plab hlaub	plab hlaub 
+310	25-4-36-1	76151732316987678	White Hmong	hmon1333	the knee	KNEE	1371		hauv caug, caug	hauv caug 
+311	25-4-36-2	76151732316987678	White Hmong	hmon1333	the knee	KNEE	1371		hauv caug, caug	caug 
+312	25-4-37-1	76151732774643503	White Hmong	hmon1333	the foot	FOOT	1301		ko-taw	ko-taw 
+313	25-4-371-1	76151732205762102	White Hmong	hmon1333	the ankle	ANKLE	803		dab-taws	dab-taws 
+314	25-4-371-2	7615173236542525	White Hmong	hmon1333	the ankle	ANKLE	803		yas taw	yas taw 
+315	25-4-372-1	76151732914976823	White Hmong	hmon1333	the heel	HEEL	980		pob-taws	pob-taws 
+316	25-4-372-2	7615173287480155	White Hmong	hmon1333	the heel	HEEL	980		luj taw	luj taw 
+317	25-4-374-1	76151732463848082	White Hmong	hmon1333	the footprint	FOOTPRINT	318		hneev taw	hneev taw 
+318	25-4-38-1	76151732857676358	White Hmong	hmon1333	the toe	TOE	1389		ntiv taw	ntiv taw 
+319	25-4-392-1	76151732406572166	White Hmong	hmon1333	the wing	WING	1257		tis	tis 
+320	25-4-393-1	76151732638748904	White Hmong	hmon1333	the feather	FEATHER	1201		plaub (1)	plaub (1) 
+321	25-4-4-1	76151732186231938	White Hmong	hmon1333	the chest	CHEST	1592		hauv siab	hauv siab 
+322	25-4-4-2	76151732894205416	White Hmong	hmon1333	the chest	CHEST	1592		hauv nrob	hauv nrob 
+323	25-4-41-1	76151732235691329	White Hmong	hmon1333	the breast	BREAST	1402		mis	mis 
+324	25-4-412-1	76151732559036226	White Hmong	hmon1333	the nipple or teat	NIPPLE	796		txiv mis	txiv mis 
+325	25-4-42-1	76151732235691329	White Hmong	hmon1333	the udder	UDDER	154		mis	mis 
+326	25-4-43-1	76151732703694111	White Hmong	hmon1333	the navel	NAVEL	1838		puj ntaws, pij ntaws	puj ntaws 
+327	25-4-43-2	76151732703694111	White Hmong	hmon1333	the navel	NAVEL	1838		puj ntaws, pij ntaws	pij ntaws 
+328	25-4-44-1	76151732568500086	White Hmong	hmon1333	the heart	HEART	1223		plawv	plawv 
+329	25-4-441-1	76151732893480738	White Hmong	hmon1333	the lung	LUNG	688		ntsws	ntsws 
+330	25-4-45-1	76151732829144604	White Hmong	hmon1333	the liver	LIVER	1224		siab (1)	siab (1) 
+331	25-4-451-1	76151732140708861	White Hmong	hmon1333	the kidney	KIDNEY	489		raum	raum 
+332	25-4-452-1	76151732167194078	White Hmong	hmon1333	the spleen	SPLEEN	1744		po	po 
+333	25-4-46-1	76151732281614788	White Hmong	hmon1333	the stomach	STOMACH	819		plab	plab 
+334	25-4-461-1	76151732611261152	White Hmong	hmon1333	the intestines or guts	INTESTINES	1991		hnyuv	hnyuv 
+335	25-4-462-1	76151732350786179	White Hmong	hmon1333	the waist	WAIST	1681		duav (1)	duav (1) 
+336	25-4-463-1	76151732842927595	White Hmong	hmon1333	the hip	HIP	1745		ntsag	ntsag 
+337	25-4-464-1	76151732982014117	White Hmong	hmon1333	the buttocks	BUTTOCKS	834		pob-tw	pob-tw 
+338	25-4-47-1	76151732862704781	White Hmong	hmon1333	the womb	WOMB	804		tsev menyuam	tsev menyuam 
+339	25-4-49-1	76151732261916533	White Hmong	hmon1333	the testicles	TESTICLES	797		noob-qes	noob-qes 
+340	25-4-492-1	76151732387596849	White Hmong	hmon1333	the penis	PENIS	1222		qau	qau 
+341	25-4-492-2	76151732969379724	White Hmong	hmon1333	the penis	PENIS	1222		chaw mos	chaw mos 
+342	25-4-51-1	76151732596057105	White Hmong	hmon1333	to breathe	BREATHE	1407		ua pa	ua pa 
+343	25-4-52-1	76151732619153837	White Hmong	hmon1333	to yawn	YAWN	1028		rua lo	rua lo 
+344	25-4-521-1	76151732876428189	White Hmong	hmon1333	to hiccough	HICCOUGH	162		ua ntsos	ua ntsos 
+345	25-4-53-1	76151732496428353	White Hmong	hmon1333	to cough	COUGH	879		hnoos	hnoos 
+346	25-4-54-1	76151732812815952	White Hmong	hmon1333	to sneeze	SNEEZE	1621		txham	txham 
+347	25-4-55-1	7615173288144958	White Hmong	hmon1333	to perspire	SWEAT (PERSPIRE)	126		tawm hws, tawm fws	tawm hws 
+348	25-4-55-2	7615173288144958	White Hmong	hmon1333	to perspire	SWEAT (PERSPIRE)	126		tawm hws, tawm fws	tawm fws 
+349	25-4-56-1	7615173242565763	White Hmong	hmon1333	to spit	SPIT	1440		nti	nti 
+350	25-4-56-2	76151732249727266	White Hmong	hmon1333	to spit	SPIT	1440		nto	nto 
+351	25-4-57-1	76151732725520258	White Hmong	hmon1333	to vomit	VOMIT	1278		ntuav	ntuav 
+352	25-4-58-1	76151732350972112	White Hmong	hmon1333	to bite	BITE	1403		tom (1)	tom (1) 
+353	25-4-59-1	76151732380365899	White Hmong	hmon1333	to lick	LICK	319		yaim	yaim 
+354	25-4-591-1	76151732587207558	White Hmong	hmon1333	to dribble	DRIBBLE	268		nrog aub-ncaug	nrog aub-ncaug 
+355	25-4-61-1	7615173268082674	White Hmong	hmon1333	to sleep	SLEEP	1585		tsaug zog	tsaug zog 
+356	25-4-612-1	76151732389992057	White Hmong	hmon1333	to snore	SNORE	1983		ua qaj	ua qaj 
+357	25-4-62-1	76151732480283150	White Hmong	hmon1333	to dream	DREAM (SOMETHING)	1920		ua npau suav	ua npau suav 
+358	25-4-63-1	76151732676109712	White Hmong	hmon1333	to wake up	WAKE UP	1602		tsim dheev	tsim dheev 
+359	25-4-64-1	76151732476665368	White Hmong	hmon1333	to fart	FART	1159		tso paus	tso paus 
+360	25-4-65-1	76151732504862825	White Hmong	hmon1333	to piss	PISS	592		tso zis	tso zis 
+361	25-4-66-1	76151732127776085	White Hmong	hmon1333	to shit	SHIT (DEFECATE)	676		tso quav	tso quav 
+362	25-4-67-1	76151732320660083	White Hmong	hmon1333	to have sex	HAVE SEX	1785		sib-tsoob	sib-tsoob 
+363	25-4-67-2	76151732480205154	White Hmong	hmon1333	to have sex	HAVE SEX	1785		ua niam txiv	ua niam txiv 
+364	25-4-67-3	76151732749775764	White Hmong	hmon1333	to have sex	HAVE SEX	1785		sib-ua	sib-ua 
+365	25-4-68-1	76151732954332497	White Hmong	hmon1333	to shiver	SHIVER	52		tshee	tshee 
+366	25-4-69-1	76151732461422028	White Hmong	hmon1333	to bathe	BATHE	138		da dej	da dej 
+367	25-4-72-1	76151732322974397	White Hmong	hmon1333	to be born	BE BORN	1090		yug los	yug los 
+368	25-4-73-1	76151732477272488	White Hmong	hmon1333	pregnant	PREGNANT	1123		xeeb tub	xeeb tub 
+369	25-4-73-2	7615173285802082	White Hmong	hmon1333	pregnant	PREGNANT	1123		muaj menyuam	muaj menyuam 
+370	25-4-732-1	76151732477272488	White Hmong	hmon1333	to conceive	CONCEIVE	1087		xeeb tub	xeeb tub 
+371	25-4-74-1	76151732460529480	White Hmong	hmon1333	to be alive	BE ALIVE	1422		ciaj-sia	ciaj-sia 
+372	25-4-75-1	7615173259320434	White Hmong	hmon1333	to die	DIE	1494		tuag	tuag 
+373	25-4-751-1	76151732778068673	White Hmong	hmon1333	to drown	DROWN	1904		poob-deg	poob-deg 
+374	25-4-76-1	76151732108899073	White Hmong	hmon1333	to kill	KILL	1417		tua	tua 
+375	25-4-77-1	76151732319298778	White Hmong	hmon1333	the corpse	CORPSE	767		neeg tuag	neeg tuag 
+376	25-4-78-1	76151732128853190	White Hmong	hmon1333	to bury	BURY	1719		faus	faus 
+377	25-4-78-2	76151732412573781	White Hmong	hmon1333	to bury	BURY	1719		los (1)	los (1) 
+378	25-4-79-1	76151732441966489	White Hmong	hmon1333	the grave	GRAVE	1773		qhov-ntxa	qhov-ntxa 
+379	25-4-81-1	76151732250553181	White Hmong	hmon1333	strong	STRONG	785		muaj zog	muaj zog 
+380	25-4-82-1	7615173247560099	White Hmong	hmon1333	weak	WEAK	1601		qaug zog	qaug zog 
+381	25-4-82-2	76151732401245321	White Hmong	hmon1333	weak	WEAK	1601		tsaug	tsaug 
+382	25-4-83-1	76151732638765299	White Hmong	hmon1333	healthy	HEALTHY	1364		noj qab nyob zoo	noj qab nyob zoo 
+383	25-4-84-1	76151732657515888	White Hmong	hmon1333	sick/ill	SICK	1847		mob	mob 
+384	25-4-841-1	76151732260866915	White Hmong	hmon1333	the fever	FEVER	1534		npaws	npaws 
+385	25-4-841-2	76151732447518906	White Hmong	hmon1333	the fever	FEVER	1534		kub cev	kub cev 
+386	25-4-842-1	76151732210993020	White Hmong	hmon1333	the goitre/goiter	GOITER	1957		o txia	o txia 
+387	25-4-843-1	76151732620663197	White Hmong	hmon1333	the cold	COMMON COLD (DISEASE)	102		khaub thuas	khaub thuas 
+388	25-4-85-1	76151732779518680	White Hmong	hmon1333	the wound or sore	WOUND	1109		nqaij ntuag	nqaij ntuag 
+389	25-4-85-2	76151732113425889	White Hmong	hmon1333	the wound or sore	WOUND	1109		kiav txhab	kiav txhab 
+390	25-4-852-1	76151732730224514	White Hmong	hmon1333	the bruise	BRUISE	1148		doog ntshav	doog ntshav 
+391	25-4-853-1	76151732219008375	White Hmong	hmon1333	the swelling	SWELLING	1903		o	o 
+392	25-4-854-1	7615173216106303	White Hmong	hmon1333	the itch	ITCH	148		khaus	khaus 
+393	25-4-855-1	76151732516409153	White Hmong	hmon1333	the blister	BLISTER	1584		hlwv	hlwv 
+394	25-4-856-1	76151732211708348	White Hmong	hmon1333	the boil	BOIL (OF SKIN)	793		rwj	rwj 
+395	25-4-857-1	76151732701759056	White Hmong	hmon1333	the pus	PUS	1808		paug	paug 
+396	25-4-858-1	76151732362159409	White Hmong	hmon1333	the scar	SCAR	497		caws pliav	caws pliav 
+397	25-4-86-1	76151732245358630	White Hmong	hmon1333	to cure	CURE	499		kho mob	kho mob 
+398	25-4-87-1	76151732497084301	White Hmong	hmon1333	the physician	PHYSICIAN	597		kws kho mob	kws kho mob 
+399	25-4-87-2	7615173259668586	White Hmong	hmon1333	the physician	PHYSICIAN	597		thaj mom	thaj mom 
+400	25-4-88-1	7615173227133150	White Hmong	hmon1333	the medicine	MEDICINE	1372		tshuaj	tshuaj 
+401	25-4-89-1	76151732888487944	White Hmong	hmon1333	the poison	POISON	655		tshuaj lom	tshuaj lom 
+402	25-4-89-2	76151732169600077	White Hmong	hmon1333	the poison	POISON	655		taug	taug 
+403	25-4-91-1	76151732210086977	White Hmong	hmon1333	tired	TIRED	1757		nkees	nkees 
+404	25-4-91-2	76151732297830877	White Hmong	hmon1333	tired	TIRED	1757		lim (1)	lim (1) 
+405	25-4-91-3	76151732401245321	White Hmong	hmon1333	tired	TIRED	1757		tsaug	tsaug 
+406	25-4-912-1	76151732259674950	White Hmong	hmon1333	to rest	REST	168		so (1)	so (1) 
+407	25-4-92-1	76151732348484981	White Hmong	hmon1333	lazy	LAZY	1564		tub-nkeeg	tub-nkeeg 
+408	25-4-93-1	76151732112036421	White Hmong	hmon1333	bald	BALD	1125		do hau	do hau 
+409	25-4-94-1	76151732427573201	White Hmong	hmon1333	lame	LAME	320		ceg tawv	ceg tawv 
+410	25-4-95-1	76151732394672391	White Hmong	hmon1333	deaf	DEAF	996		lag ntseg	lag ntseg 
+411	25-4-96-1	76151732439799674	White Hmong	hmon1333	mute	MUTE	1666		ruam	ruam 
+412	25-4-97-1	76151732457376711	White Hmong	hmon1333	blind	BLIND	1653		dig muag	dig muag 
+413	25-4-98-1	76151732515151061	White Hmong	hmon1333	drunk	DRUNK	1463		qaug cawv	qaug cawv 
+414	25-4-99-1	76151732410808309	White Hmong	hmon1333	naked	NAKED	590		liab qab	liab qab 
+415	25-5-11-1	76151732106590784	White Hmong	hmon1333	to eat	EAT	1336		noj	noj 
+416	25-5-12-1	76151732872335354	White Hmong	hmon1333	the food	FOOD	256		zaub mov	zaub mov 
+417	25-5-12-2	76151732166403320	White Hmong	hmon1333	the food	FOOD	256		khoom noj	khoom noj 
+418	25-5-121-1	76151732412292759	White Hmong	hmon1333	cooked	COOKED	269		siav	siav 
+419	25-5-122-1	76151732425418398	White Hmong	hmon1333	raw	RAW	1959		nyoos	nyoos 
+420	25-5-123-1	76151732412292759	White Hmong	hmon1333	ripe	RIPE	178		siav	siav 
+421	25-5-124-1	76151732425418398	White Hmong	hmon1333	unripe	UNRIPE	1958		nyoos	nyoos 
+422	25-5-125-1	76151732185844788	White Hmong	hmon1333	rotten	ROTTEN	1728		lwj	lwj 
+423	25-5-13-1	76151732362399897	White Hmong	hmon1333	to drink	DRINK	1401		haus	haus 
+424	25-5-14-1	76151732644424556	White Hmong	hmon1333	to be hungry	BE HUNGRY	1533		tshaib plab	tshaib plab 
+425	25-5-15-1	76151732715358678	White Hmong	hmon1333	to be thirsty	THIRSTY	847		nqhis dej, nqhes dej	nqhis dej 
+426	25-5-15-2	76151732715358678	White Hmong	hmon1333	to be thirsty	THIRSTY	847		nqhis dej, nqhes dej	nqhes dej 
+427	25-5-16-1	7615173259787143	White Hmong	hmon1333	to suck	SUCK	1421		ntxais	ntxais 
+428	25-5-18-1	76151732518437438	White Hmong	hmon1333	to chew	CHEW	321		zom	zom 
+429	25-5-181-1	76151732241943073	White Hmong	hmon1333	to swallow	SWALLOW	897		nqos	nqos 
+430	25-5-19-1	76151732975906330	White Hmong	hmon1333	to choke	CHOKE	129		daig caj-dab	daig caj-dab 
+431	25-5-21-1	76151732305361972	White Hmong	hmon1333	to cook	COOK (SOMETHING)	1100		ua (mov) noj	ua (mov) noj 
+432	25-5-22-1	76151732440474384	White Hmong	hmon1333	to boil	BOIL (OF LIQUID)	792		npau	npau 
+433	25-5-23-1	76151732331137352	White Hmong	hmon1333	to roast or fry	ROAST OR FRY	2146		ci	ci 
+434	25-5-23-2	76151732971321369	White Hmong	hmon1333	to roast or fry	ROAST OR FRY	2146		kib	kib 
+435	25-5-24-1	76151732331137352	White Hmong	hmon1333	to bake	BAKE	183		ci	ci 
+436	25-5-25-1	76151732581941025	White Hmong	hmon1333	the oven	OVEN	1143		qhov-txos	qhov-txos 
+437	25-5-26-1	76151732480970904	White Hmong	hmon1333	the pot	POT	1462		lauj kaub	lauj kaub 
+438	25-5-27-1	76151732486966398	White Hmong	hmon1333	the kettle	KETTLE	854		hwj kais, fwj kais	hwj kais 
+439	25-5-27-2	76151732486966398	White Hmong	hmon1333	the kettle	KETTLE	854		hwj kais, fwj kais	fwj kais 
+440	25-5-28-1	76151732547367349	White Hmong	hmon1333	the pan	PAN	31		yias	yias 
+441	25-5-31-1	76151732135161042	White Hmong	hmon1333	the dish	DISH	481		phaj	phaj 
+442	25-5-32-1	76151732135161042	White Hmong	hmon1333	the plate	PLATE	480		phaj	phaj 
+443	25-5-33-1	76151732464079782	White Hmong	hmon1333	the bowl	BOWL	1530		ntim	ntim 
+444	25-5-33-2	76151732346154016	White Hmong	hmon1333	the bowl	BOWL	1530		tais (1)	tais (1) 
+445	25-5-35-1	76151732285354428	White Hmong	hmon1333	the cup	CUP	476		khob	khob 
+446	25-5-36-1	76151732135161042	White Hmong	hmon1333	the saucer	SAUCER	271		phaj	phaj 
+447	25-5-37-1	76151732111279077	White Hmong	hmon1333	the spoon	SPOON	1378		diav	diav 
+448	25-5-38-1	76151732102919755	White Hmong	hmon1333	the knife(1)	KNIFE (FOR EATING)	3210		riam	riam 
+449	25-5-39-1	76151732413064093	White Hmong	hmon1333	the fork	FORK	1302		diav rawg	diav rawg 
+450	25-5-391-1	76151732167906790	White Hmong	hmon1333	the tongs	TONGS	272		ciaj	ciaj 
+451	25-5-391-2	76151732136426655	White Hmong	hmon1333	the tongs	TONGS	272		tus tais nqaij	tus tais nqaij 
+452	25-5-41-1	76151732310208344	White Hmong	hmon1333	the meal	MEAL	1526		pluas mov	pluas mov 
+453	25-5-42-1	76151732661303607	White Hmong	hmon1333	the breakfast	BREAKFAST	1322		noj tshais	noj tshais 
+454	25-5-43-1	76151732349089748	White Hmong	hmon1333	the lunch	LUNCH	768		noj su, noj-sus	noj su 
+455	25-5-43-2	76151732349089748	White Hmong	hmon1333	the lunch	LUNCH	768		noj su, noj-sus	noj-sus 
+456	25-5-44-1	76151732924431858	White Hmong	hmon1333	the dinner	DINNER (SUPPER)	1833		noj hmo	noj hmo 
+457	25-5-45-1	76151732924431858	White Hmong	hmon1333	the supper	DINNER (SUPPER)	1833		noj hmo	noj hmo 
+458	25-5-46-1	76151732258674638	White Hmong	hmon1333	to peel	PEEL	275		tev	tev 
+459	25-5-46-2	7615173293898089	White Hmong	hmon1333	to peel	PEEL	275		laws	laws 
+460	25-5-47-1	76151732942165450	White Hmong	hmon1333	to sieve or to strain	SIEVE	86		lim (2)	lim (2) 
+461	25-5-48-1	76151732252633947	White Hmong	hmon1333	to scrape	SCRAPE	1767		kuam	kuam 
+462	25-5-49-1	76151732974877987	White Hmong	hmon1333	to stir or to mix	MIX	2017		do	do 
+463	25-5-49-2	76151732670345609	White Hmong	hmon1333	to stir or to mix	MIX	2017		sib-xyaws	sib-xyaws 
+464	25-5-49-3	76151732960966167	White Hmong	hmon1333	to stir or to mix	MIX	2017		tov	tov 
+465	25-5-51-1	76151732363686247	White Hmong	hmon1333	the bread	BREAD	1368		khob cij	khob cij 
+466	25-5-51-2	76151732918051787	White Hmong	hmon1333	the bread	BREAD	1368		ncuav ci	ncuav ci 
+467	25-5-54-1	76151732857528344	White Hmong	hmon1333	to knead	KNEAD	274		zuaj	zuaj 
+468	25-5-55-1	76151732409281833	White Hmong	hmon1333	the flour	FLOUR	1594		hmoov nplej	hmoov nplej 
+469	25-5-56-1	76151732518437438	White Hmong	hmon1333	to crush or to grind	GRIND	1033		zom	zom 
+470	25-5-57-1	76151732906292980	White Hmong	hmon1333	the mill	MILL	636		zeb	zeb 
+471	25-5-58-1	76151732213486296	White Hmong	hmon1333	the mortar(1)	MORTAR CRUSHER	224		tshuaj khib	tshuaj khib 
+472	25-5-59-1	76151732333093519	White Hmong	hmon1333	the pestle	PESTLE	225		qws txob	qws txob 
+473	25-5-61-1	7615173283683955	White Hmong	hmon1333	the meat	MEAT	634		nqaij	nqaij 
+474	25-5-63-1	76151732216650899	White Hmong	hmon1333	the sausage	SAUSAGE	1874		hnyuv ntxwm	hnyuv ntxwm 
+475	25-5-64-1	76151732968655833	White Hmong	hmon1333	the soup	SOUP	1547		kua zaub	kua zaub 
+476	25-5-65-1	76151732574760847	White Hmong	hmon1333	the vegetables	VEGETABLES	924		zaub	zaub 
+477	25-5-66-1	76151732260422532	White Hmong	hmon1333	the bean	BEAN	832		taum	taum 
+478	25-5-7-1	76151732835010050	White Hmong	hmon1333	the potato	POTATO	593		qos yaj ywm	qos yaj ywm 
+479	25-5-71-1	76151732968267535	White Hmong	hmon1333	the fruit	FRUIT	1507		txiv (2)	txiv (2) 
+480	25-5-712-1	76151732895470874	White Hmong	hmon1333	the bunch	BUNCH	1966		rev	rev 
+481	25-5-712-2	76151732963420705	White Hmong	hmon1333	the bunch	BUNCH	1966		tsuag	tsuag 
+482	25-5-712-3	76151732511631699	White Hmong	hmon1333	the bunch	BUNCH	1966		thij	thij 
+483	25-5-75-1	7615173224620327	White Hmong	hmon1333	the fig	FIG	322		txiv cev nplaum	txiv cev nplaum 
+484	25-5-75-2	79142145575047783	White Hmong	hmon1333	the fig	FIG	322		txiv cua	txiv cua 
+485	25-5-76-1	76151732252796176	White Hmong	hmon1333	the grape	GRAPE	920		txiv hmab	txiv hmab 
+486	25-5-77-1	76151732698569629	White Hmong	hmon1333	the nut	NUT	191		noob txiv	noob txiv 
+487	25-5-79-1	76151732871942242	White Hmong	hmon1333	the oil	OIL (ORGANIC SUBSTANCE)	1484		roj	roj 
+488	25-5-791-1	76151732871942242	White Hmong	hmon1333	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		roj	roj 
+489	25-5-81-1	76151732766902527	White Hmong	hmon1333	the salt	SALT	1274		ntsev	ntsev 
+490	25-5-82-1	76151732325636983	White Hmong	hmon1333	the pepper	PEPPER	1385		hwj txob	hwj txob 
+491	25-5-821-1	76151732985915486	White Hmong	hmon1333	the chili pepper	CHILI PEPPER	919		kua txob	kua txob 
+492	25-5-84-1	76151732524682268	White Hmong	hmon1333	the honey	HONEY	942		zib-mu	zib-mu 
+493	25-5-85-1	76151732480530454	White Hmong	hmon1333	the sugar	SUGAR	862		piam thaj	piam thaj 
+494	25-5-86-1	76151732235691329	White Hmong	hmon1333	the milk	MILK	635		mis	mis 
+495	25-5-87-1	761517324987702	White Hmong	hmon1333	to milk	DRAW MILK	93		tso kua mis	tso kua mis 
+496	25-5-9-1	76151732521874774	White Hmong	hmon1333	the drink	BEVERAGE	731		dej	dej 
+497	25-5-93-1	7615173284039534	White Hmong	hmon1333	the beer	BEER	1639		npias	npias 
+498	25-5-94-1	76151732110520255	White Hmong	hmon1333	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		cawv	cawv 
+499	25-5-97-1	76151732923157112	White Hmong	hmon1333	the egg	EGG	744		qe	qe 
+500	25-5-971-1	76151732218115592	White Hmong	hmon1333	the yolk	YOLK	1556		nkaub	nkaub 
+501	25-6-11-1	76151732862948527	White Hmong	hmon1333	to put on	PUT ON	158		hnav	hnav 
+502	25-6-11-2	76151732363161756	White Hmong	hmon1333	to put on	PUT ON	158		ntoo (2)	ntoo (2) 
+503	25-6-11-3	76151732760213239	White Hmong	hmon1333	to put on	PUT ON	158		rau (2)	rau (2) 
+504	25-6-12-1	76151732698767353	White Hmong	hmon1333	the clothing or clothes	CLOTHES	1895		khaub ncaws	khaub ncaws 
+505	25-6-12-2	76151732900930930	White Hmong	hmon1333	the clothing or clothes	CLOTHES	1895		ris tsho	ris tsho 
+506	25-6-21-1	76151732160381207	White Hmong	hmon1333	the cloth	CLOTH	1616		ntaub	ntaub 
+507	25-6-24-1	76151732696180152	White Hmong	hmon1333	the cotton	COTTON	1850		paj rwb	paj rwb 
+508	25-6-25-1	76151732362349377	White Hmong	hmon1333	the silk	SILK	1641		ntaub kab	ntaub kab 
+509	25-6-28-1	76151732638748904	White Hmong	hmon1333	the fur	FUR	580		plaub (1)	plaub (1) 
+510	25-6-29-1	76151732213595138	White Hmong	hmon1333	the leather	LEATHER	629		tawv (1)	tawv (1) 
+511	25-6-31-1	76151732973766551	White Hmong	hmon1333	to spin	SPIN	121		saws	saws 
+512	25-6-32-1	76151732133448564	White Hmong	hmon1333	the spindle	SPINDLE	277		ntxaiv	ntxaiv 
+513	25-6-33-1	76151732396935675	White Hmong	hmon1333	to weave	WEAVE	133		ntos	ntos 
+514	25-6-34-1	76151732396935675	White Hmong	hmon1333	the loom	LOOM	1787		ntos	ntos 
+515	25-6-35-1	76151732331884619	White Hmong	hmon1333	to sew	SEW	1457		xaws	xaws 
+516	25-6-36-1	76151732902282497	White Hmong	hmon1333	the needle(1)	NEEDLE (FOR SEWING)	1382		koob	koob 
+517	25-6-38-1	76151732215977598	White Hmong	hmon1333	the thread	THREAD	1161		xov	xov 
+518	25-6-39-1	76151732742165761	White Hmong	hmon1333	to dye	DYE	157		zas	zas 
+519	25-7-37-1	76151732222463521	White Hmong	hmon1333	the ladder	LADDER	1464		ntaiv	ntaiv 
+520	25-6-42-1	76151732404819000	White Hmong	hmon1333	the (woman's) dress	DRESS	474		cev tiab	cev tiab 
+521	25-6-43-1	76151732138492447	White Hmong	hmon1333	the coat	COAT	603		tsho tiv no	tsho tiv no 
+522	25-6-43-2	76151732730658244	White Hmong	hmon1333	the coat	COAT	603		tsho loj	tsho loj 
+523	25-6-44-1	76151732634858132	White Hmong	hmon1333	the shirt	SHIRT	1622		tsho	tsho 
+524	25-6-45-1	76151732386874134	White Hmong	hmon1333	the collar	COLLAR	2012		dab-tshos	dab-tshos 
+525	25-6-45-2	76151732753776119	White Hmong	hmon1333	the collar	COLLAR	2012		ntsej-tshos	ntsej-tshos 
+526	25-6-46-1	7615173268320320	White Hmong	hmon1333	the skirt	SKIRT	1600		tiab	tiab 
+527	25-6-48-1	76151732625142861	White Hmong	hmon1333	the trousers	TROUSERS	809		ris (1)	ris (1) 
+528	25-6-49-1	76151732269169530	White Hmong	hmon1333	the sock or stocking	STOCKING	329		thom khwm	thom khwm 
+529	25-6-49-2	76151732312973702	White Hmong	hmon1333	the sock or stocking	STOCKING	329		thoom thaub	thoom thaub 
+530	25-6-51-1	76151732820428755	White Hmong	hmon1333	the shoe	SHOE	1381		khau	khau 
+531	25-6-55-1	76151732420096473	White Hmong	hmon1333	the hat or cap	HEADGEAR	2130		kaus mom	kaus mom 
+532	25-6-57-1	7615173295617635	White Hmong	hmon1333	the belt	BELT	772		siv	siv 
+533	25-6-58-1	76151732960773214	White Hmong	hmon1333	the glove	GLOVE	867		hnab tes	hnab tes 
+534	25-6-61-1	76151732263999711	White Hmong	hmon1333	the pocket	POCKET	1851		hnab	hnab 
+535	25-6-62-1	76151732788058503	White Hmong	hmon1333	the button	BUTTON	757		khawm	khawm 
+536	25-6-63-1	76151732902282497	White Hmong	hmon1333	the pin	PIN	64		koob	koob 
+537	25-6-73-1	76151732849553795	White Hmong	hmon1333	the ring	RING	1374		nplhaib	nplhaib 
+538	25-6-74-1	76151732121044283	White Hmong	hmon1333	the bracelet	BRACELET	1754		kauj-toog npab	kauj-toog npab 
+539	25-6-74-2	76151732394671832	White Hmong	hmon1333	the bracelet	BRACELET	1754		xauv tes	xauv tes 
+540	25-6-75-1	76151732698117535	White Hmong	hmon1333	the necklace	NECKLACE	1961		xauv	xauv 
+541	25-6-75-2	76151732441258863	White Hmong	hmon1333	the necklace	NECKLACE	1961		saw	saw 
+542	25-6-76-1	76151732697459197	White Hmong	hmon1333	the bead	BEAD	1860		hlaws	hlaws 
+543	25-6-77-1	76151732941146576	White Hmong	hmon1333	the earring	EARRING	770		qhws ntsej	qhws ntsej 
+544	25-6-78-1	7615173270244991	White Hmong	hmon1333	the headband or headdress	HEADBAND	330		hauv phuam	hauv phuam 
+545	25-6-81-1	76151732901080863	White Hmong	hmon1333	the handkerchief or rag	RAG	332		khaub hlab	khaub hlab 
+546	25-6-81-2	76151732395866346	White Hmong	hmon1333	the handkerchief or rag	RAG	332		phuam	phuam 
+547	25-6-82-1	76151732916197222	White Hmong	hmon1333	the towel	TOWEL	1021		phuam da dej	phuam da dej 
+548	25-6-91-1	76151732519366703	White Hmong	hmon1333	the comb	COMB	1475		zuag	zuag 
+549	25-6-92-1	76151732519366703	White Hmong	hmon1333	the brush	BRUSH	1821		zuag	zuag 
+550	25-6-921-1	761517324411536	White Hmong	hmon1333	the plait/braid	BRAID	1043		yiv tws	yiv tws 
+551	25-6-93-1	76151732578004517	White Hmong	hmon1333	the razor	RAZOR	151		chais	chais 
+552	25-6-94-1	76151732345911532	White Hmong	hmon1333	the ointment	OINTMENT	1926		tshuaj pleev	tshuaj pleev 
+553	25-6-95-1	7615173259912257	White Hmong	hmon1333	the soap	SOAP	788		xus npus, xum npum	xus npus 
+554	25-6-95-2	7615173259912257	White Hmong	hmon1333	the soap	SOAP	788		xus npus, xum npum	xum npum 
+555	25-6-96-1	76151732774707423	White Hmong	hmon1333	the mirror	MIRROR	1171		iav	iav 
+556	25-6-96-2	76151732994796565	White Hmong	hmon1333	the mirror	MIRROR	1171		tsom iav	tsom iav 
+557	25-7-11-1	7615173278823297	White Hmong	hmon1333	to live	DWELL (LIVE, RESIDE)	363		nyob	nyob 
+558	25-7-12-1	76151732732990645	White Hmong	hmon1333	the house	HOUSE	1252		tsev	tsev 
+559	25-7-13-1	76151732863636639	White Hmong	hmon1333	the hut	HUT	1678		tsev pheeb suab	tsev pheeb suab 
+560	25-7-131-1	76151732771752001	White Hmong	hmon1333	the garden-house	GARDEN-HOUSE	403		tsev teb	tsev teb 
+561	25-7-15-1	76151732896440432	White Hmong	hmon1333	the yard or court	YARD	736		vaj	vaj 
+562	25-7-21-1	7615173282157463	White Hmong	hmon1333	the room	ROOM	1450		chav	chav 
+563	25-7-21-2	76151732546973150	White Hmong	hmon1333	the room	ROOM	1450		hoob	hoob 
+564	25-7-22-1	76151732145598250	White Hmong	hmon1333	the door or gate	DOOR	1567		qhov-rooj	qhov-rooj 
+565	25-7-23-1	76151732875946085	White Hmong	hmon1333	the lock	LOCK	1596		ntsuas phoo	ntsuas phoo 
+566	25-7-231-1	76151732388105346	White Hmong	hmon1333	the latch or door-bolt	LATCH	1012		ntsia liaj qhov-rooj	ntsia liaj qhov-rooj 
+567	25-7-24-1	76151732769585288	White Hmong	hmon1333	the key	KEY	1472		yaum sij	yaum sij 
+568	25-7-24-2	7615173242505629	White Hmong	hmon1333	the key	KEY	1472		kas ces	kas ces 
+569	25-7-25-1	76151732965708435	White Hmong	hmon1333	the window	WINDOW	1375		qhov-rais	qhov-rais 
+570	25-7-26-1	76151732865891068	White Hmong	hmon1333	the floor	FLOOR	1632		pem teb	pem teb 
+571	25-7-27-1	76151732519414526	White Hmong	hmon1333	the wall	WALL (OF HOUSE)	933		phab ntsa	phab ntsa 
+572	25-7-31-1	76151732581941025	White Hmong	hmon1333	the fireplace	FIREPLACE	185		qhov-txos	qhov-txos 
+573	25-7-31-2	76151732997281424	White Hmong	hmon1333	the fireplace	FIREPLACE	185		qhov-cub	qhov-cub 
+574	25-7-32-1	76151732581941025	White Hmong	hmon1333	the stove	STOVE	859		qhov-txos	qhov-txos 
+575	25-7-32-2	76151732997281424	White Hmong	hmon1333	the stove	STOVE	859		qhov-cub	qhov-cub 
+576	25-7-42-1	76151732575393167	White Hmong	hmon1333	the bed	BED	1663		txaj	txaj 
+577	25-7-421-1	76151732113942298	White Hmong	hmon1333	the pillow	PILLOW	1044		hauv ncoo	hauv ncoo 
+578	25-7-422-1	76151732264601299	White Hmong	hmon1333	the blanket	BLANKET	806		pam	pam 
+579	25-7-43-1	76151732839710149	White Hmong	hmon1333	the chair	CHAIR	1476		rooj zaum	rooj zaum 
+580	25-7-43-2	76151732732875042	White Hmong	hmon1333	the chair	CHAIR	1476		tog (1)	tog (1) 
+581	25-7-44-1	76151732315539177	White Hmong	hmon1333	the table	TABLE	1775		rooj	rooj 
+582	25-7-45-1	76151732318550115	White Hmong	hmon1333	the lamp or torch	TORCH OR LAMP	2131		teeb (1)	teeb (1) 
+583	25-7-45-2	76151732454645762	White Hmong	hmon1333	the lamp or torch	TORCH OR LAMP	2131		tsau	tsau 
+584	25-7-46-1	7615173245512827	White Hmong	hmon1333	the candle	CANDLE	1273		tswm ciab	tswm ciab 
+585	25-7-46-2	76151732127845017	White Hmong	hmon1333	the candle	CANDLE	1273		thees khaim	thees khaim 
+586	25-7-47-1	76151732161658807	White Hmong	hmon1333	the shelf	SHELF	745		txee	txee 
+587	25-7-48-1	76151732316654940	White Hmong	hmon1333	the trough	TROUGH	205		dab (1)	dab (1) 
+588	25-7-51-1	76151732534337976	White Hmong	hmon1333	the roof	ROOF	769		lub-ru tsev	lub-ru tsev 
+589	25-7-52-1	76151732586524090	White Hmong	hmon1333	the thatch	THATCH	279		nqeeb	nqeeb 
+590	25-7-53-1	76151732214390644	White Hmong	hmon1333	the ridgepole	RIDGEPOLE	280		nqaj-ru	nqaj-ru 
+591	25-7-54-1	76151732158870560	White Hmong	hmon1333	the rafter	RAFTER	829		qhab-tse	qhab-tse 
+592	25-7-55-1	76151732447260569	White Hmong	hmon1333	the beam	BEAM	1132		nqaj-tse	nqaj-tse 
+593	25-7-56-1	76151732583218128	White Hmong	hmon1333	the post or pole	POST	281		tswg	tswg 
+594	25-7-56-2	76151732226705339	White Hmong	hmon1333	the post or pole	POST	281		ncej	ncej 
+595	25-7-57-1	76151732248068680	White Hmong	hmon1333	the board	BOARD	1227		txiag	txiag 
+596	25-7-58-1	7615173240482297	White Hmong	hmon1333	the arch	ARCH	876		koov	koov 
+597	25-7-62-1	76151732937678643	White Hmong	hmon1333	the brick	BRICK	1006		thawv cib, thwv cib	thawv cib 
+598	25-7-62-2	76151732937678643	White Hmong	hmon1333	the brick	BRICK	1006		thawv cib, thwv cib	thwv cib 
+599	25-7-64-1	76151732761900551	White Hmong	hmon1333	the adobe	ADOBE	901		tsev av	tsev av 
+600	25-8-12-1	76151732424487838	White Hmong	hmon1333	the field	FIELD	212		teb (1)	teb (1) 
+601	25-8-13-1	76151732896440432	White Hmong	hmon1333	the garden	GARDEN	586		vaj	vaj 
+602	25-8-16-1	76151732492017323	White Hmong	hmon1333	the fence	FENCE	1690		laj kab	laj kab 
+603	25-8-17-1	76151732478148328	White Hmong	hmon1333	the ditch	DITCH	2002		kwj	kwj 
+604	25-8-21-1	76151732967738448	White Hmong	hmon1333	to plough/plow	PLOUGH	1921		laij	laij 
+605	25-8-22-1	76151732992809529	White Hmong	hmon1333	to dig	DIG	1418		khawb	khawb 
+606	25-8-22-2	7915852542531303	White Hmong	hmon1333	to dig	DIG	1418		dawj	dawj 
+607	25-8-22-3	7915853258137853	White Hmong	hmon1333	to dig	DIG	1418		nthua	nthua 
+608	25-8-23-1	7615173281658779	White Hmong	hmon1333	the spade	SPADE	1176		tuam txhob	tuam txhob 
+609	25-8-25-1	76151732795528304	White Hmong	hmon1333	the hoe	HOE	284		hlau	hlau 
+610	25-8-27-1	76151732117646245	White Hmong	hmon1333	the rake	RAKE	338		kaus nplooj	kaus nplooj 
+611	25-8-31-1	76151732772961303	White Hmong	hmon1333	to sow	SOW SEEDS	748		tseb	tseb 
+612	25-8-311-1	76151732901386150	White Hmong	hmon1333	the seed	SEED	714		noob	noob 
+613	25-8-32-1	76151732157200270	White Hmong	hmon1333	to mow	MOW	190		luaj nroj	luaj nroj 
+614	25-8-33-1	76151732530194344	White Hmong	hmon1333	the sickle or scythe	SICKLE OR SCYTHE	2132		liag	liag 
+615	25-8-34-1	76151732407257441	White Hmong	hmon1333	to thresh	THRESH	285		ntaus	ntaus 
+616	25-8-35-1	76151732432798107	White Hmong	hmon1333	the threshing-floor	THRESHING-FLOOR	223		chaw ntaus nplej	chaw ntaus nplej 
+617	25-8-41-1	76151732505555917	White Hmong	hmon1333	the harvest	HARVEST	611		sau (1)	sau (1) 
+618	25-8-43-1	76151732266330572	White Hmong	hmon1333	the wheat	WHEAT	1077		mog	mog 
+619	25-8-47-1	76151732563247989	White Hmong	hmon1333	the maize/corn	MAIZE	506		pobkws	pobkws 
+620	25-8-48-1	76151732990910788	White Hmong	hmon1333	the rice	RICE	926		nplej	nplej 
+621	25-8-51-1	76151732274982836	White Hmong	hmon1333	the grass	GRASS	606		nyom	nyom 
+622	25-8-52-1	76151732828598229	White Hmong	hmon1333	the hay	HAY	342		nyom qhuav	nyom qhuav 
+623	25-8-53-1	76151732291152465	White Hmong	hmon1333	the plant	PLANT (VEGETATION)	653		nroj tsuag	nroj tsuag 
+624	25-8-531-1	76151732466669230	White Hmong	hmon1333	to plant	PLANT (SOMETHING)	1486		cog	cog 
+625	25-8-54-1	76151732822283026	White Hmong	hmon1333	the root	ROOT	670		cag	cag 
+626	25-8-55-1	76151732757912914	White Hmong	hmon1333	the branch	BRANCH OR TWIG	3223		ceg	ceg 
+627	25-8-56-1	7615173217522042	White Hmong	hmon1333	the leaf	LEAF	628		nplooj	nplooj 
+628	25-8-57-1	76151732273397210	White Hmong	hmon1333	the flower	FLOWER	239		paj	paj 
+629	25-8-6-1	76151732259638127	White Hmong	hmon1333	the tree	TREE	906		ntoo	ntoo 
+630	25-8-61-1	76151732180192023	White Hmong	hmon1333	the oak	OAK	644		ntoo qhib	ntoo qhib 
+631	25-8-64-1	76151732846689169	White Hmong	hmon1333	the pine	PINE	1740		ntoo thuv	ntoo thuv 
+632	25-8-66-1	7615173227754189	White Hmong	hmon1333	the acorn	ACORN	968		noob txiv qhib	noob txiv qhib 
+633	25-8-67-1	76151732935721602	White Hmong	hmon1333	the vine	VINE	343		hmab	hmab 
+634	25-8-68-1	76151732892433355	White Hmong	hmon1333	the tobacco	TOBACCO	974		luam yeeb	luam yeeb 
+635	25-8-69-1	76151732362399897	White Hmong	hmon1333	to smoke	SMOKE (INHALE)	1689		haus	haus 
+636	25-8-691-1	76151732329601693	White Hmong	hmon1333	the pipe	PIPE	1124		yeeb thooj	yeeb thooj 
+637	25-8-691-2	76151732509403092	White Hmong	hmon1333	the pipe	PIPE	1124		yeeb nkab	yeeb nkab 
+638	25-8-72-1	76151732273162305	White Hmong	hmon1333	the tree stump	TREE STUMP	241		hauv paus ntoo	hauv paus ntoo 
+639	25-8-73-1	76151732673610302	White Hmong	hmon1333	the tree trunk	TREE TRUNK	344		cev ntoo	cev ntoo 
+640	25-8-74-1	76151732277900774	White Hmong	hmon1333	the forked branch	FORKED BRANCH	409		nkhib ntoo	nkhib ntoo 
+641	25-8-75-1	76151732213595138	White Hmong	hmon1333	the bark	BARK	1204		tawv (1)	tawv (1) 
+642	25-8-76-1	76151732710617439	White Hmong	hmon1333	the sap	SAP	345		kua ntoo	kua ntoo 
+643	25-8-81-1	76151732814262448	White Hmong	hmon1333	the palm tree	PALM TREE	1181		ntoo peeb lab	ntoo peeb lab 
+644	25-8-81-2	76151732949871130	White Hmong	hmon1333	the palm tree	PALM TREE	1181		ntoo kuj yem	ntoo kuj yem 
+645	25-8-82-1	76151732270982382	White Hmong	hmon1333	the coconut	COCONUT	970		txiv maj phaub, txiv maj phob	txiv maj phaub 
+646	25-8-82-2	76151732270982382	White Hmong	hmon1333	the coconut	COCONUT	970		txiv maj phaub, txiv maj phob	txiv maj phob 
+647	25-8-83-1	76151732533635086	White Hmong	hmon1333	the citrus fruit	CITRUS FRUIT	1126		txiv kab-ntxwv	txiv kab-ntxwv 
+648	25-8-84-1	76151732482968331	White Hmong	hmon1333	the banana	BANANA	868		txiv tsawb	txiv tsawb 
+649	25-8-85-1	76151732821205547	White Hmong	hmon1333	the banyan	BANYAN	346		ntoo faj khaum	ntoo faj khaum 
+650	25-8-91-1	76151732424028321	White Hmong	hmon1333	the sweet potato	SWEET POTATO	159		qos liab	qos liab 
+651	25-8-912-1	76151732424028321	White Hmong	hmon1333	the yam	YAM	410		qos liab	qos liab 
+652	25-8-92-1	76151732743645217	White Hmong	hmon1333	the cassava/manioc	CASSAVA	925		qos ntoo	qos ntoo 
+653	25-8-93-1	76151732271293592	White Hmong	hmon1333	the gourd	GOURD	411		taub	taub 
+654	25-8-931-1	7615173271868563	White Hmong	hmon1333	the pumpkin or squash	PUMPKIN	864		taub-dag	taub-dag 
+655	25-8-931-2	76151732644852211	White Hmong	hmon1333	the pumpkin or squash	PUMPKIN	864		xwb kuab	xwb kuab 
+656	25-8-94-1	76151732893005234	White Hmong	hmon1333	the bamboo	BAMBOO	1927		xyoob	xyoob 
+657	25-8-941-1	76151732927197940	White Hmong	hmon1333	the sugar cane	SUGAR CANE	146		kab tsib	kab tsib 
+658	25-8-96-1	76151732888487944	White Hmong	hmon1333	the fish poison	FISH POISON	348		tshuaj lom	tshuaj lom 
+659	25-8-98-1	76151732607594350	White Hmong	hmon1333	the mushroom	MUSHROOM	641		nceb	nceb 
+660	25-9-11-1	76151732170044210	White Hmong	hmon1333	to do	DO	813		ua	ua 
+661	25-9-12-1	76151732139832770	White Hmong	hmon1333	the work	WORK (LABOUR)	984		hauj lwm	hauj lwm 
+662	25-9-12-2	76151732100377835	White Hmong	hmon1333	the work	WORK (LABOUR)	984		num	num 
+663	25-9-14-1	76151732884126987	White Hmong	hmon1333	to bend	BEND	2004		nkhaus	nkhaus 
+664	25-9-15-1	76151732446419950	White Hmong	hmon1333	to fold	FOLD	1470		tais (2)	tais (2) 
+665	25-9-15-2	76151732512591503	White Hmong	hmon1333	to fold	FOLD	1470		quav	quav 
+666	25-9-16-1	76151732243067431	White Hmong	hmon1333	to tie	TIE	1917		khi	khi 
+667	25-9-161-1	76151732195478079	White Hmong	hmon1333	to untie	UNTIE	352		daws	daws 
+668	25-9-18-1	76151732776955322	White Hmong	hmon1333	the chain	CHAIN	1627		saw hlau	saw hlau 
+669	25-9-19-1	76151732168100649	White Hmong	hmon1333	the rope	ROPE	1218		hlua	hlua 
+670	25-9-192-1	76151732268907772	White Hmong	hmon1333	the knot	KNOT	760		pob-caus	pob-caus 
+671	25-9-192-2	76151732950375908	White Hmong	hmon1333	the knot	KNOT	760		rhaus	rhaus 
+672	25-9-21-1	76151732407257441	White Hmong	hmon1333	to strike or hit or beat	STRIKE OR BEAT	2133		ntaus	ntaus 
+673	25-9-211-1	76151732827055678	White Hmong	hmon1333	to pound	POUND	354		tuav (1)	tuav (1) 
+674	25-9-211-2	76151732407257441	White Hmong	hmon1333	to pound	POUND	354		ntaus	ntaus 
+675	25-9-22-1	76151732153962454	White Hmong	hmon1333	to cut	CUT	1432		txiav	txiav 
+676	25-9-221-1	76151732758051763	White Hmong	hmon1333	to cut down	CUT DOWN	355		ntov	ntov 
+677	25-9-222-1	76151732568007659	White Hmong	hmon1333	to chop	CHOP	155		tsuav	tsuav 
+678	25-9-222-2	76151732153962454	White Hmong	hmon1333	to chop	CHOP	155		txiav	txiav 
+679	25-9-223-1	76151732471398187	White Hmong	hmon1333	to stab	STAB TO DEATH	3189		nkaug	nkaug 
+680	25-9-223-2	76151732707216334	White Hmong	hmon1333	to stab	STAB TO DEATH	3189		nplhos	nplhos 
+681	25-9-23-1	76151732102919755	White Hmong	hmon1333	the knife(2)	KNIFE	1352		riam	riam 
+682	25-9-24-1	7615173221921724	White Hmong	hmon1333	the scissors or shears	SHEARS	356		txiab	txiab 
+683	25-9-25-1	76151732675459380	White Hmong	hmon1333	the axe/ax	AXE	677		taus	taus 
+684	25-9-251-1	76151732909155080	White Hmong	hmon1333	the adze	ADZE	290		piab	piab 
+685	25-9-26-1	76151732210740910	White Hmong	hmon1333	to break	BREAK (DESTROY OR GET DESTROYED)	680		tawg	tawg 
+686	25-9-261-1	7615173220002705	White Hmong	hmon1333	broken	BROKEN (NOT WORKING)	3190		piam	piam 
+687	25-9-261-2	76151732210740910	White Hmong	hmon1333	broken	BROKEN (NOT WORKING)	3190		tawg	tawg 
+688	25-9-27-1	76151732453336459	White Hmong	hmon1333	to split	SPLIT	1437		phua	phua 
+689	25-9-28-1	76151732811741503	White Hmong	hmon1333	to tear	TEAR (SHRED)	1735		dua (1)	dua (1) 
+690	25-9-28-2	76151732890127881	White Hmong	hmon1333	to tear	TEAR (SHRED)	1735		ntuag	ntuag 
+691	25-9-83-1	76151732927016336	White Hmong	hmon1333	the statue	STATUE	1002		mlom	mlom 
+692	25-9-29-1	761517321246444	White Hmong	hmon1333	to skin	PULL OFF (SKIN)	291		laws tawv	laws tawv 
+693	25-9-31-1	76151732376686304	White Hmong	hmon1333	to rub	RUB	1449		mos	mos 
+694	25-9-32-1	76151732695065260	White Hmong	hmon1333	to stretch	STRETCH	214		rub	rub 
+695	25-9-33-1	76151732695065260	White Hmong	hmon1333	to pull	PULL	1455		rub	rub 
+696	25-9-34-1	76151732474395660	White Hmong	hmon1333	to spread out	SPREAD OUT	38		pua (1)	pua (1) 
+697	25-9-341-1	76151732447466576	White Hmong	hmon1333	to hang up	HANG UP	357		khuam	khuam 
+698	25-9-341-2	7615173227748585	White Hmong	hmon1333	to hang up	HANG UP	357		dai	dai 
+699	25-9-342-1	76151732848531068	White Hmong	hmon1333	to press	PRESS	1913		tswm	tswm 
+700	25-9-343-1	76151732534993130	White Hmong	hmon1333	to squeeze	SQUEEZE	1414		nyem	nyem 
+701	25-9-35-1	76151732851866045	White Hmong	hmon1333	to pour	POUR	1487		hliv	hliv 
+702	25-9-36-1	76151732619834580	White Hmong	hmon1333	to wash	WASH	1453		ntxuav	ntxuav 
+703	25-9-37-1	76151732510026195	White Hmong	hmon1333	to sweep	SWEEP	230		cheb	cheb 
+704	25-9-38-1	76151732207462979	White Hmong	hmon1333	the broom	BROOM	245		khaub rhuab	khaub rhuab 
+705	25-9-422-1	76151732363182340	White Hmong	hmon1333	the tool	TOOL	1361		cuab tam	cuab tam 
+706	25-9-44-1	76151732838015316	White Hmong	hmon1333	to build	BUILD	1840		txua	txua 
+707	25-9-46-1	76151732400622820	White Hmong	hmon1333	to bore	BORE	1501		tshau	tshau 
+708	25-9-461-1	76151732583801666	White Hmong	hmon1333	to hollow out	HOLLOW OUT	46		ua khoob	ua khoob 
+709	25-9-48-1	76151732401823202	White Hmong	hmon1333	the saw	SAW	1948		kaw (1)	kaw (1) 
+710	25-9-49-1	76151732571961858	White Hmong	hmon1333	the hammer	HAMMER	1481		rauj	rauj 
+711	25-9-5-1	76151732126715424	White Hmong	hmon1333	the nail	NAIL (TOOL)	502		ntsia (1)	ntsia (1) 
+712	25-9-56-1	76151732419742748	White Hmong	hmon1333	the glue	GLUE	1069		yaas kaus	yaas kaus 
+713	25-9-6-1	76151732648900841	White Hmong	hmon1333	the blacksmith	BLACKSMITH	1001		kws ntaus hlau	kws ntaus hlau 
+714	25-9-61-1	76151732875734533	White Hmong	hmon1333	to forge	FORGE	288		ntaus hlau	ntaus hlau 
+715	25-9-62-1	76151732306508747	White Hmong	hmon1333	the anvil	ANVIL	1648		thaiv	thaiv 
+716	25-9-63-1	76151732955899940	White Hmong	hmon1333	to cast	CAST	211		nchuav hlau	nchuav hlau 
+717	25-9-64-1	76151732585639330	White Hmong	hmon1333	the gold	GOLD	1369		kub (3)	kub (3) 
+718	25-9-65-1	76151732442484481	White Hmong	hmon1333	the silver	SILVER	759		nyiaj	nyiaj 
+719	25-9-66-1	76151732942522640	White Hmong	hmon1333	the copper	COPPER	1825		tooj	tooj 
+720	25-9-67-1	76151732795528304	White Hmong	hmon1333	the iron	IRON	621		hlau	hlau 
+721	25-9-68-1	7615173274439577	White Hmong	hmon1333	the lead	LEAD (CHEMICAL ELEMENT)	627		txhuas	txhuas 
+722	25-9-72-1	76151732440438091	White Hmong	hmon1333	to mould/mold	MOLD	289		puab	puab 
+723	25-9-73-1	76151732126500950	White Hmong	hmon1333	the clay	CLAY	1399		av nplaum	av nplaum 
+724	25-9-74-1	76151732774707423	White Hmong	hmon1333	the glass	GLASS	604		iav	iav 
+725	25-9-75-1	76151732830027810	White Hmong	hmon1333	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		ntxias (1)	ntxias (1) 
+726	25-9-75-2	76151732664212021	White Hmong	hmon1333	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		hiab	hiab 
+727	25-9-76-1	76151732166404692	White Hmong	hmon1333	the basket	BASKET	1539		pob-tawb	pob-tawb 
+728	25-9-77-1	761517325399978	White Hmong	hmon1333	the mat	MAT	195		lev	lev 
+729	25-9-79-1	76151732589381787	White Hmong	hmon1333	the fan	FAN (OBJECT)	1971		ntxuam	ntxuam 
+730	25-9-791-1	76151732953076177	White Hmong	hmon1333	to fan	FAN ACTION	360		ntxuaj	ntxuaj 
+731	25-9-81-1	7615173237690312	White Hmong	hmon1333	to carve	CARVE	228		txaug	txaug 
+732	25-9-81-2	76151732838015316	White Hmong	hmon1333	to carve	CARVE	228		txua	txua 
+733	25-9-84-1	7615173237690312	White Hmong	hmon1333	the chisel	CHISEL	1979		txaug	txaug 
+734	25-9-88-1	76151732747807950	White Hmong	hmon1333	the paint	PAINT (PIGMENTS)	647		xim	xim 
+735	25-9-89-1	76151732828938495	White Hmong	hmon1333	to paint	PAINTING	2001		pleev xim	pleev xim 
+736	25-10-11-1	76151732414647889	White Hmong	hmon1333	to move	MOVE	765		txav	txav 
+737	25-10-12-1	76151732237898497	White Hmong	hmon1333	to turn	TURN	1588		tig	tig 
+738	25-10-13-1	76151732384399571	White Hmong	hmon1333	to turn around	TURN (SOMETHING)	1445		tig cev	tig cev 
+739	25-10-14-1	76151732726831297	White Hmong	hmon1333	to wrap	WRAP	1113		qhwv	qhwv 
+740	25-10-15-1	76151732808341294	White Hmong	hmon1333	to roll	ROLL	827		dov	dov 
+741	25-10-16-1	76151732944440613	White Hmong	hmon1333	to drop	DROP (SOMETHING)	2866		ua poob	ua poob 
+742	25-10-17-1	7615173276964189	White Hmong	hmon1333	to twist	TWIST (AROUND)	3199		ntswj	ntswj 
+743	25-10-21-1	76151732496967502	White Hmong	hmon1333	to rise	RISE (MOVE UPWARDS)	568		sawv	sawv 
+744	25-10-22-1	76151732454275659	White Hmong	hmon1333	to raise or lift	LIFT	501		tsa	tsa 
+745	25-10-23-1	76151732144806850	White Hmong	hmon1333	to fall	FALL	1280		poob	poob 
+746	25-10-24-1	76151732676103065	White Hmong	hmon1333	to drip	DRIP (EMIT LIQUID)	2253		nrog (1)	nrog (1) 
+747	25-10-25-1	76151732808826052	White Hmong	hmon1333	to throw	THROW	1456		pov	pov 
+748	25-10-252-1	76151732259319487	White Hmong	hmon1333	to catch	CATCH	702		txais (1)	txais (1) 
+749	25-10-26-1	76151732632409124	White Hmong	hmon1333	to shake	SHAKE	1909		co	co 
+750	25-10-32-1	76151732839525914	White Hmong	hmon1333	to flow	FLOW	2003		ntws	ntws 
+751	25-10-33-1	76151732457913325	White Hmong	hmon1333	to sink	SINK (DESCEND)	1088		tog (2)	tog (2) 
+752	25-10-34-1	76151732668593526	White Hmong	hmon1333	to float	FLOAT	1574		ntab	ntab 
+753	25-10-35-1	76151732609813100	White Hmong	hmon1333	to swim	SWIM	1439		ua luam dej	ua luam dej 
+754	25-10-352-1	76151732762097000	White Hmong	hmon1333	to splash	SPLASH	365		txaws	txaws 
+755	25-10-37-1	76151732529283167	White Hmong	hmon1333	to fly	FLY (MOVE THROUGH AIR)	1441		ya	ya 
+756	25-10-38-1	76151732654124635	White Hmong	hmon1333	to blow	BLOW (OF WIND)	175		tshuab (1)	tshuab (1) 
+757	25-10-41-1	76151732104529571	White Hmong	hmon1333	to crawl	CRAWL	96		nkag	nkag 
+758	25-10-412-1	76151732126423706	White Hmong	hmon1333	to kneel	KNEEL	66		kem caug	kem caug 
+759	25-10-412-2	76151732177559693	White Hmong	hmon1333	to kneel	KNEEL	66		txhos caug	txhos caug 
+760	25-10-413-1	76151732106715001	White Hmong	hmon1333	to crouch	CROUCH	296		caws	caws 
+761	25-10-42-1	76151732516562131	White Hmong	hmon1333	to slide or slip	SLIP	1324		swb (1)	swb (1) 
+762	25-10-43-1	76151732774659325	White Hmong	hmon1333	to jump	JUMP	1829		dhia	dhia 
+763	25-10-431-1	7615173222485206	White Hmong	hmon1333	to kick	KICK	1135		ncaws	ncaws 
+764	25-10-44-1	76151732834396528	White Hmong	hmon1333	to dance	DANCE	1879		las voos	las voos 
+765	25-10-45-1	76151732743546210	White Hmong	hmon1333	to walk	WALK	1443		taug kev	taug kev 
+766	25-10-451-1	76151732427573201	White Hmong	hmon1333	to limp	LIMP	366		ceg tawv	ceg tawv 
+767	25-10-46-1	76151732243021838	White Hmong	hmon1333	to run	RUN	1519		khiav	khiav 
+768	25-10-47-1	76151732758513071	White Hmong	hmon1333	to go	GO	695		mus	mus 
+769	25-10-471-1	76151732657589598	White Hmong	hmon1333	to go up	GO UP (ASCEND)	705		nce	nce 
+770	25-10-472-1	76151732657589598	White Hmong	hmon1333	to climb	CLIMB	1102		nce	nce 
+771	25-10-473-1	76151732315302728	White Hmong	hmon1333	to go down	GO DOWN (DESCEND)	2014		nqis, nqes	nqis 
+772	25-10-473-2	76151732315302728	White Hmong	hmon1333	to go down	GO DOWN (DESCEND)	2014		nqis, nqes	nqes 
+773	25-10-474-1	76151732754424472	White Hmong	hmon1333	to go out	GO OUT	1107		tawm mus	tawm mus 
+774	25-10-48-1	76151732535228733	White Hmong	hmon1333	to come	COME	1446		tuaj	tuaj 
+775	25-10-481-1	76151732732051483	White Hmong	hmon1333	to come back	COME BACK	581		rov qab los	rov qab los 
+776	25-10-49-1	76151732279234181	White Hmong	hmon1333	to leave	LEAVE	1752		lawm	lawm 
+777	25-10-491-1	76151732419274791	White Hmong	hmon1333	to disappear	DISAPPEAR	485		ploj	ploj 
+778	25-10-51-1	76151732312039336	White Hmong	hmon1333	to flee	FLEE	956		khiav mus	khiav mus 
+779	25-10-52-1	76151732131889632	White Hmong	hmon1333	to follow	FOLLOW	1085		lawv qab	lawv qab 
+780	25-10-52-2	76151732542560731	White Hmong	hmon1333	to follow	FOLLOW	1085		raws qab	raws qab 
+781	25-10-53-1	76151732811198351	White Hmong	hmon1333	to pursue	PURSUE	1047		caum	caum 
+782	25-10-53-2	76151732542560731	White Hmong	hmon1333	to pursue	PURSUE	1047		raws qab	raws qab 
+783	25-10-55-1	76151732536101225	White Hmong	hmon1333	to arrive	ARRIVE	1387		tuaj txog	tuaj txog 
+784	25-10-55-2	76151732432026629	White Hmong	hmon1333	to arrive	ARRIVE	1387		los txog	los txog 
+785	25-10-56-1	76151732130568469	White Hmong	hmon1333	to approach	APPROACH	1778		mus kom ze	mus kom ze 
+786	25-10-57-1	76151732104529571	White Hmong	hmon1333	to enter	ENTER	749		nkag	nkag 
+787	25-10-61-1	76151732304959617	White Hmong	hmon1333	to carry	CARRY	700		nqa	nqa 
+788	25-10-612-1	76151732304959617	White Hmong	hmon1333	to carry in hand	CARRY IN HAND	412		nqa	nqa 
+789	25-10-613-1	76151732716413840	White Hmong	hmon1333	to carry on shoulder	CARRY ON SHOULDER	413		kwv (2)	kwv (2) 
+790	25-10-62-1	76151732894339032	White Hmong	hmon1333	to bring	BRING	692		coj tuaj	coj tuaj 
+791	25-10-62-2	76151732879966370	White Hmong	hmon1333	to bring	BRING	692		nqa tuaj	nqa tuaj 
+792	25-10-63-1	76151732592531772	White Hmong	hmon1333	to send	SEND	1127		xa	xa 
+793	25-10-64-1	76151732550007155	White Hmong	hmon1333	to lead	LEAD (GUIDE)	43		coj	coj 
+794	25-10-65-1	7615173239624222	White Hmong	hmon1333	to drive	DRIVE	741		tsav	tsav 
+795	25-10-66-1	7615173253655752	White Hmong	hmon1333	to ride	RIDE	367		caij (1)	caij (1) 
+796	25-10-67-1	7615173291607587	White Hmong	hmon1333	to push	PUSH	1452		thawb	thawb 
+797	25-10-71-1	7615173222663810	White Hmong	hmon1333	the road	ROAD	667		kev	kev 
+798	25-10-72-1	7615173222663810	White Hmong	hmon1333	the path	PATH	2252		kev	kev 
+799	25-10-74-1	76151732469291557	White Hmong	hmon1333	the bridge	BRIDGE	1011		choj	choj 
+800	25-10-75-1	76151732884686647	White Hmong	hmon1333	the cart or wagon	CART	122		laub	laub 
+801	25-10-76-1	76151732598972742	White Hmong	hmon1333	the wheel	WHEEL	710		log	log 
+802	25-10-77-1	76151732379966810	White Hmong	hmon1333	the axle	AXLE	1769		qag	qag 
+803	25-10-81-1	76151732410032520	White Hmong	hmon1333	the ship	SHIP	740		nkoj	nkoj 
+804	25-10-83-1	76151732410032520	White Hmong	hmon1333	the boat	BOAT	1844		nkoj	nkoj 
+805	25-10-84-1	76151732130658194	White Hmong	hmon1333	the raft	RAFT	1664		phuaj	phuaj 
+806	25-10-85-1	76151732315956854	White Hmong	hmon1333	the oar	RUDDER	108		duav (2)	duav (2) 
+807	25-10-851-1	76151732315956854	White Hmong	hmon1333	the paddle	PADDLE	234		duav (2)	duav (2) 
+808	25-10-852-1	76151732894984128	White Hmong	hmon1333	to row	ROW	1849		nquam	nquam 
+809	25-10-86-1	76151732876056775	White Hmong	hmon1333	the rudder	RUDDER	108		tw nkoj	tw nkoj 
+810	25-10-89-1	76151732721570899	White Hmong	hmon1333	the anchor	ANCHOR	1870		thauj tog rau nkoj	thauj tog rau nkoj 
+811	25-10-92-1	7615173290997334	White Hmong	hmon1333	to land	LAND (DESCEND)	1922		tsaws	tsaws 
+812	25-11-11-1	76151732148322553	White Hmong	hmon1333	to have	HAVE	773		muaj	muaj 
+813	25-11-12-1	76151732148322553	White Hmong	hmon1333	to own	OWN	684		muaj	muaj 
+814	25-11-13-1	76151732331049800	White Hmong	hmon1333	to take	TAKE	1749		muab	muab 
+815	25-11-14-1	76151732331049800	White Hmong	hmon1333	to grasp	SEIZE	855		muab	muab 
+816	25-11-15-1	76151732539167779	White Hmong	hmon1333	to hold	HOLD	1448		tuav (2)	tuav (2) 
+817	25-11-15-2	76151732365790896	White Hmong	hmon1333	to hold	HOLD	1448		puag	puag 
+818	25-11-16-1	76151732607099682	White Hmong	hmon1333	to get	GET	694		tau	tau 
+819	25-11-17-1	76151732638444665	White Hmong	hmon1333	to keep	KEEP	1477		khaws	khaws 
+820	25-11-18-1	76151732219596531	White Hmong	hmon1333	the thing	THING	738		qhov	qhov 
+821	25-11-21-1	76151732386736146	White Hmong	hmon1333	to give	GIVE	1447		muab rau	muab rau 
+822	25-11-21-2	76151732586447170	White Hmong	hmon1333	to give	GIVE	1447		pub	pub 
+823	25-11-22-1	76151732420873554	White Hmong	hmon1333	to give back	GIVE BACK	85		xa rov qab	xa rov qab 
+824	25-11-24-1	76151732556229419	White Hmong	hmon1333	to preserve	PRESERVE	1997		txuag	txuag 
+825	25-11-24-2	76151732739543579	White Hmong	hmon1333	to preserve	PRESERVE	1997		khaws cia	khaws cia 
+826	25-11-25-1	76151732975481626	White Hmong	hmon1333	to rescue	RESCUE	2008		cawm	cawm 
+827	25-11-27-1	76151732543173773	White Hmong	hmon1333	to destroy	DESTROY	681		puas ntsoog	puas ntsoog 
+828	25-11-28-1	76151732482780243	White Hmong	hmon1333	to injure	INJURE	44		ua raug mob	ua raug mob 
+829	25-11-31-1	7615173238574380	White Hmong	hmon1333	to look for	LOOK FOR	1468		nrhiav	nrhiav 
+830	25-11-32-1	7615173241709756	White Hmong	hmon1333	to find	FIND	719		nrhiav tau	nrhiav tau 
+831	25-11-33-1	76151732357859660	White Hmong	hmon1333	to lose	LOSE	1660		ua pawv	ua pawv 
+832	25-11-34-1	76151732958193902	White Hmong	hmon1333	to let go	LET GO OR SET FREE	1095		tso	tso 
+833	25-11-43-1	76151732442484481	White Hmong	hmon1333	the money	MONEY	1559		nyiaj	nyiaj 
+834	25-11-44-1	76151732945133294	White Hmong	hmon1333	the coin	COIN	1867		npib	npib 
+835	25-11-51-1	76151732883209664	White Hmong	hmon1333	rich	RICH	712		nplua nuj	nplua nuj 
+836	25-11-52-1	76151732718719628	White Hmong	hmon1333	poor	POOR	1674		txom nyem	txom nyem 
+837	25-11-53-1	76151732770640457	White Hmong	hmon1333	the beggar	BEGGAR	1934		neeg thov khawv	neeg thov khawv 
+838	25-11-54-1	76151732637600974	White Hmong	hmon1333	stingy	STINGY	1774		qia dub	qia dub 
+839	25-11-61-1	76151732668200993	White Hmong	hmon1333	to lend	LEND	582		qiv, qev	qiv 
+840	25-11-61-2	76151732668200993	White Hmong	hmon1333	to lend	LEND	582		qiv, qev	qev 
+841	25-11-62-1	76151732668200993	White Hmong	hmon1333	to borrow	BORROW	1823		qiv, qev	qiv 
+842	25-11-62-2	76151732668200993	White Hmong	hmon1333	to borrow	BORROW	1823		qiv, qev	qev 
+843	25-11-62-3	76151732959355803	White Hmong	hmon1333	to borrow	BORROW	1823		txais (2)	txais (2) 
+844	25-11-62-4	76151732854195783	White Hmong	hmon1333	to borrow	BORROW	1823		luab	luab 
+845	25-11-63-1	76151732280512635	White Hmong	hmon1333	to owe	OWE	369		tshuav nqi, tshuav nqe	tshuav nqi 
+846	25-11-63-2	76151732280512635	White Hmong	hmon1333	to owe	OWE	369		tshuav nqi, tshuav nqe	tshuav nqe 
+847	25-11-64-1	76151732898678237	White Hmong	hmon1333	the debt	DEBT	1914		nuj nqi, nuj nqe	nuj nqi 
+848	25-11-64-2	76151732898678237	White Hmong	hmon1333	the debt	DEBT	1914		nuj nqi, nuj nqe	nuj nqe 
+849	25-11-65-1	76151732270971401	White Hmong	hmon1333	to pay	PAY	718		them	them 
+850	25-11-66-1	76151732265477767	White Hmong	hmon1333	the bill	BILL	1081		nqi, nqe	nqi 
+851	25-11-66-2	76151732265477767	White Hmong	hmon1333	the bill	BILL	1081		nqi, nqe	nqe 
+852	25-11-69-1	76151732130639263	White Hmong	hmon1333	the tax	TAX	873		se	se 
+853	25-11-77-1	76151732965218728	White Hmong	hmon1333	to hire	HIRE	856		ntiav (1)	ntiav (1) 
+854	25-11-78-1	76151732961530945	White Hmong	hmon1333	the wages	WAGES	1122		nyiaj-hlis	nyiaj-hlis 
+855	25-11-81-1	76151732764462022	White Hmong	hmon1333	to buy	BUY	1869		muas	muas 
+856	25-11-81-2	76151732400402401	White Hmong	hmon1333	to buy	BUY	1869		yuav	yuav 
+857	25-11-82-1	76151732575298546	White Hmong	hmon1333	to sell	SELL	1571		muag (1)	muag (1) 
+858	25-11-83-1	76151732313844761	White Hmong	hmon1333	to trade or barter	TRADE OR BARTER	2135		pauv	pauv 
+859	25-11-84-1	76151732873406560	White Hmong	hmon1333	the merchant	MERCHANT	1082		neeg ua lag luam	neeg ua lag luam 
+860	25-11-85-1	76151732744682263	White Hmong	hmon1333	the market	MARKET	633		khw	khw 
+861	25-11-85-2	76151732988651239	White Hmong	hmon1333	the market	MARKET	633		taj laj	taj laj 
+862	25-11-86-1	76151732744682263	White Hmong	hmon1333	the shop/store	STORE	752		khw	khw 
+863	25-11-86-2	76151732988651239	White Hmong	hmon1333	the shop/store	STORE	752		taj laj	taj laj 
+864	25-11-87-1	76151732265477767	White Hmong	hmon1333	the price	PRICE	657		nqi, nqe	nqi 
+865	25-11-87-2	76151732265477767	White Hmong	hmon1333	the price	PRICE	657		nqi, nqe	nqe 
+866	25-11-88-1	76151732512951648	White Hmong	hmon1333	expensive	EXPENSIVE	1426		kim	kim 
+867	25-11-89-1	76151732762207385	White Hmong	hmon1333	cheap	CHEAP	1887		pheej yig	pheej yig 
+868	25-11-91-1	76151732179893402	White Hmong	hmon1333	to share	SHARE	884		sib-faib	sib-faib 
+869	25-11-92-1	76151732703685285	White Hmong	hmon1333	to weigh	WEIGH	1098		luj	luj 
+870	25-12-01-1	76151732394042360	White Hmong	hmon1333	after	AFTER	1685		tom qab	tom qab 
+871	25-12-011-1	7615173232187417	White Hmong	hmon1333	behind	BEHIND	1686		qab (1)	qab (1) 
+872	25-12-02-1	76151732218529061	White Hmong	hmon1333	beside	BESIDE	1816		ntawm ib sab	ntawm ib sab 
+873	25-12-03-1	76151732315302728	White Hmong	hmon1333	down	DOWN	1326		nqis, nqes	nqis 
+874	25-12-03-2	76151732315302728	White Hmong	hmon1333	down	DOWN	1326		nqis, nqes	nqes 
+875	25-12-04-1	76151732613262657	White Hmong	hmon1333	before	BEFORE	1882		tom ntej	tom ntej 
+876	25-12-041-1	76151732823774899	White Hmong	hmon1333	in front of	IN FRONT OF	1883		hauv ntej	hauv ntej 
+877	25-12-05-1	76151732918648512	White Hmong	hmon1333	inside	INSIDE	1606		hauv	hauv 
+878	25-12-06-1	76151732693846623	White Hmong	hmon1333	outside	OUTSIDE	762		nraum	nraum 
+879	25-12-07-1	76151732647454080	White Hmong	hmon1333	under	BELOW OR UNDER	1485		hauv qab	hauv qab 
+880	25-12-08-1	76151732955454429	White Hmong	hmon1333	up	UP	1591		saum	saum 
+881	25-12-11-1	76151732929543802	White Hmong	hmon1333	the place	PLACE (POSITION)	723		chaw	chaw 
+882	25-12-11-2	76151732219596531	White Hmong	hmon1333	the place	PLACE (POSITION)	723		qhov	qhov 
+883	25-12-12-1	76151732760213239	White Hmong	hmon1333	to put	PUT	998		rau (2)	rau (2) 
+884	25-12-13-1	76151732301699324	White Hmong	hmon1333	to sit	SIT	1416		zaum	zaum 
+885	25-12-14-1	76151732639020575	White Hmong	hmon1333	to lie down	LIE DOWN	215		pw	pw 
+886	25-12-15-1	76151732245551154	White Hmong	hmon1333	to stand	STAND	1442		sawv ntsug	sawv ntsug 
+887	25-12-16-1	7615173278823297	White Hmong	hmon1333	to remain	REMAIN	987		nyob	nyob 
+888	25-12-17-1	76151732325521902	White Hmong	hmon1333	the remains	REMAINS	838		cov seem	cov seem 
+889	25-12-21-1	76151732505555917	White Hmong	hmon1333	to gather	GATHER	7		sau (1)	sau (1) 
+890	25-12-212-1	76151732638444665	White Hmong	hmon1333	to pick up	PICK UP	371		khaws	khaws 
+891	25-12-213-1	76151732292660611	White Hmong	hmon1333	to pile up	PILE UP	1576		tum	tum 
+892	25-12-213-2	76151732325799191	White Hmong	hmon1333	to pile up	PILE UP	1576		teeb (2)	teeb (2) 
+893	25-12-22-1	76151732880426548	White Hmong	hmon1333	to join	JOIN	1743		koom	koom 
+894	25-12-23-1	76151732114563641	White Hmong	hmon1333	to separate	SEPARATE	1359		cais	cais 
+895	25-12-232-1	76151732501951005	White Hmong	hmon1333	to divide	DIVIDE	1119		faib	faib 
+896	25-12-24-1	76151732811676652	White Hmong	hmon1333	to open	OPEN	1156		qhib, qheb	qhib 
+897	25-12-24-2	76151732811676652	White Hmong	hmon1333	to open	OPEN	1156		qhib, qheb	qheb 
+898	25-12-25-1	76151732302784012	White Hmong	hmon1333	to shut	SHUT	1046		kaw (2)	kaw (2) 
+899	25-12-26-1	76151732778862377	White Hmong	hmon1333	to cover	COVER	761		vov	vov 
+900	25-12-27-1	76151732141267374	White Hmong	hmon1333	to hide	HIDE (CONCEAL)	602		zais	zais 
+901	25-12-31-1	76151732135819784	White Hmong	hmon1333	high	HIGH	1265		siab (2)	siab (2) 
+902	25-12-32-1	76151732638925300	White Hmong	hmon1333	low	LOW	721		qis, qes	qis 
+903	25-12-32-2	76151732638925300	White Hmong	hmon1333	low	LOW	721		qis, qes	qes 
+904	25-12-33-1	76151732955454429	White Hmong	hmon1333	the top	TOP	1753		saum	saum 
+905	25-12-34-1	76151732647454080	White Hmong	hmon1333	the bottom	BOTTOM	690		hauv qab	hauv qab 
+906	25-12-35-1	76151732545865137	White Hmong	hmon1333	the end(1)	END (OF SPACE)	742		kawg	kawg 
+907	25-12-352-1	76151732330842209	White Hmong	hmon1333	pointed	POINTED	372		ntse	ntse 
+908	25-12-353-1	761517325640266	White Hmong	hmon1333	the edge	EDGE	863		ntug	ntug 
+909	25-12-36-1	76151732790339202	White Hmong	hmon1333	the side	SIDE	682		sab	sab 
+910	25-12-36-2	7615173284189276	White Hmong	hmon1333	the side	SIDE	682		phab	phab 
+911	25-12-37-1	76151732794196510	White Hmong	hmon1333	the middle	MIDDLE	1093		nrub nrab, nruab nrab	nrub nrab 
+912	25-12-37-2	76151732794196510	White Hmong	hmon1333	the middle	MIDDLE	1093		nrub nrab, nruab nrab	nruab nrab 
+913	25-12-41-1	76151732686329162	White Hmong	hmon1333	right(1)	RIGHT	1019		sab xis	sab xis 
+914	25-12-42-1	76151732233872467	White Hmong	hmon1333	left	LEFT	244		sab-laug	sab-laug 
+915	25-12-43-1	761517328194928	White Hmong	hmon1333	near	NEAR	1942		ze	ze 
+916	25-12-44-1	76151732293172126	White Hmong	hmon1333	far	FAR	1406		deb	deb 
+917	25-12-45-1	7615173215539704	White Hmong	hmon1333	the east	EAST	1877		sab hnub tuaj	sab hnub tuaj 
+918	25-12-46-1	76151732740235038	White Hmong	hmon1333	the west	WEST	1817		sab hnub poob	sab hnub poob 
+919	25-12-47-1	76151732938878407	White Hmong	hmon1333	the north	NORTH	1598		sab qaum teb	sab qaum teb 
+920	25-12-48-1	7615173213055780	White Hmong	hmon1333	the south	SOUTH	1595		sab qab teb	sab qab teb 
+921	25-12-53-1	7615173271378362	White Hmong	hmon1333	to grow	GROW	479		hlob	hlob 
+922	25-12-54-1	76151732697647769	White Hmong	hmon1333	to measure	MEASURE	1506		ntsuas	ntsuas 
+923	25-12-541-1	76151732593971133	White Hmong	hmon1333	the fathom	FATHOM	81		daj (1)	daj (1) 
+924	25-12-55-1	76151732594214630	White Hmong	hmon1333	big	BIG	1202		loj	loj 
+925	25-12-56-1	76151732269120228	White Hmong	hmon1333	small	SMALL	1246		me	me 
+926	25-12-57-1	76151732868851073	White Hmong	hmon1333	long	LONG	1203		ntev	ntev 
+927	25-12-58-1	76151732135819784	White Hmong	hmon1333	tall	TALL	711		siab (2)	siab (2) 
+928	25-12-59-1	76151732837029880	White Hmong	hmon1333	short	SHORT	1645		luv (1)	luv (1) 
+929	25-12-61-1	76151732531453341	White Hmong	hmon1333	wide	WIDE	1243		dav (2)	dav (2) 
+930	25-12-62-1	76151732439239789	White Hmong	hmon1333	narrow	NARROW	1267		nqaim	nqaim 
+931	25-12-63-1	7615173290632101	White Hmong	hmon1333	thick	THICK	1244		tuab	tuab 
+932	25-12-65-1	76151732793587058	White Hmong	hmon1333	thin	THIN (OF SHAPE OF OBJECT)	2249		nyias	nyias 
+933	25-12-67-1	76151732259057060	White Hmong	hmon1333	deep	DEEP	1593		tob	tob 
+934	25-12-68-1	761517323696907	White Hmong	hmon1333	shallow	SHALLOW	193		ntiav (2)	ntiav (2) 
+935	25-12-71-1	76151732570196869	White Hmong	hmon1333	flat	FLAT	1633		tiaj	tiaj 
+936	25-12-71-2	76151732544129465	White Hmong	hmon1333	flat	FLAT	1633		pliab	pliab 
+937	25-12-73-1	76151732832925777	White Hmong	hmon1333	straight	STRAIGHT	1404		ncaj	ncaj 
+938	25-12-74-1	76151732884126987	White Hmong	hmon1333	crooked	CROOKED	297		nkhaus	nkhaus 
+939	25-12-75-1	76151732212593873	White Hmong	hmon1333	the hook	HOOK	1071		nqe lauj	nqe lauj 
+940	25-12-76-1	76151732208187957	White Hmong	hmon1333	the corner	CORNER	192		kaum (1)	kaum (1) 
+941	25-12-77-1	76151732980472168	White Hmong	hmon1333	the cross	CROSS	1367		khaub lig	khaub lig 
+942	25-12-81-1	76151732595706518	White Hmong	hmon1333	round	ROUND	1395		kheej-kheej	kheej-kheej 
+943	25-12-82-1	76151732498809780	White Hmong	hmon1333	the circle	CIRCLE	1467		voj-voos	voj-voos 
+944	25-12-83-1	76151732421903934	White Hmong	hmon1333	the ball	BALL	1845		pob	pob 
+945	25-12-83-2	76151732846130399	White Hmong	hmon1333	the ball	BALL	1845		npas	npas 
+946	25-12-84-1	7615173224953926	White Hmong	hmon1333	the line	LINE	1048		kab (2)	kab (2) 
+947	25-12-85-1	76151732219596531	White Hmong	hmon1333	the hole	HOLE	1667		qhov	qhov 
+948	25-12-92-1	76151732187160654	White Hmong	hmon1333	similar	SIMILAR	1558		zoo li	zoo li 
+949	25-12-92-2	76151732154264338	White Hmong	hmon1333	similar	SIMILAR	1558		sib-thooj	sib-thooj 
+950	25-12-93-1	76151732893162745	White Hmong	hmon1333	to change	CHANGE	1264		hloov	hloov 
+951	25-13-1	76151732339535409	White Hmong	hmon1333	zero	ZERO	1294		xoom, xum	xoom 
+952	25-13-2	76151732339535409	White Hmong	hmon1333	zero	ZERO	1294		xoom, xum	xum 
+953	25-13-01-1	76151732519457428	White Hmong	hmon1333	one	ONE	1493		ib	ib 
+954	25-13-02-1	76151732282846037	White Hmong	hmon1333	two	TWO	1498		ob	ob 
+955	25-13-03-1	76151732633002500	White Hmong	hmon1333	three	THREE	492		peb (2)	peb (2) 
+956	25-13-04-1	76151732606883867	White Hmong	hmon1333	four	FOUR	1500		plaub (2)	plaub (2) 
+957	25-13-05-1	76151732886971383	White Hmong	hmon1333	five	FIVE	493		tsib	tsib 
+958	25-13-06-1	76151732758335506	White Hmong	hmon1333	six	SIX	1703		rau (3)	rau (3) 
+959	25-13-07-1	76151732791467646	White Hmong	hmon1333	seven	SEVEN	1704		xya	xya 
+960	25-13-08-1	76151732228723926	White Hmong	hmon1333	eight	EIGHT	1705		yim	yim 
+961	25-13-09-1	7615173299667049	White Hmong	hmon1333	nine	NINE	1483		cuaj	cuaj 
+962	25-13-1-1	7615173250556206	White Hmong	hmon1333	ten	TEN	1515		kaum (2)	kaum (2) 
+963	25-13-101-1	76151732686504764	White Hmong	hmon1333	eleven	ELEVEN	1706		kaum ib	kaum ib 
+964	25-13-102-1	76151732497088946	White Hmong	hmon1333	twelve	TWELVE	1707		kaum ob	kaum ob 
+965	25-13-103-1	76151732274530807	White Hmong	hmon1333	fifteen	FIFTEEN	1709		kaum tsib	kaum tsib 
+966	25-13-104-1	76151732483837806	White Hmong	hmon1333	twenty	TWENTY	1710		nees nkaum	nees nkaum 
+967	25-13-105-1	76151732106991902	White Hmong	hmon1333	a hundred	HUNDRED	1634		pua (2)	pua (2) 
+968	25-13-106-1	76151732504735054	White Hmong	hmon1333	a thousand	THOUSAND	1843		txhiab	txhiab 
+969	25-13-107-1	76151732930494500	White Hmong	hmon1333	to count	COUNT	1420		suav	suav 
+970	25-13-14-1	7615173288423982	White Hmong	hmon1333	all	ALL	98		huv si	huv si 
+971	25-13-14-2	76151732255320926	White Hmong	hmon1333	all	ALL	98		tib si	tib si 
+972	25-13-15-1	76151732503130260	White Hmong	hmon1333	many	MANY	1198		ntau	ntau 
+973	25-13-15-2	76151732374496514	White Hmong	hmon1333	many	MANY	1198		coob	coob 
+974	25-13-16-1	76151732178985068	White Hmong	hmon1333	more	MORE	1992		ntxiv	ntxiv 
+975	25-13-17-1	76151732465532378	White Hmong	hmon1333	few	FEW	1242		mentsis	mentsis 
+976	25-13-17-2	7915914430124785	White Hmong	hmon1333	few	FEW	1242		tsawg	tsawg 
+977	25-13-18-1	76151732341887912	White Hmong	hmon1333	enough	ENOUGH	1881		txaus	txaus 
+978	25-13-181-1	76151732687950739	White Hmong	hmon1333	some	SOME	1241		qee	qee 
+979	25-13-19-1	76151732524839125	White Hmong	hmon1333	the crowd	CROWD	2023		pawg neeg	pawg neeg 
+980	25-13-21-1	76151732900142443	White Hmong	hmon1333	full	FULL	1429		puv	puv 
+981	25-13-22-1	7615173253608281	White Hmong	hmon1333	empty	EMPTY	1624		khoob	khoob 
+982	25-13-23-1	76151732149121633	White Hmong	hmon1333	the part	PART	779		ib-qho	ib-qho 
+983	25-13-24-1	76151732460414960	White Hmong	hmon1333	the half	HALF	816		nrab	nrab 
+984	25-13-24-2	76151732374196005	White Hmong	hmon1333	the half	HALF	816		tog (3)	tog (3) 
+985	25-13-24-3	7615173215631709	White Hmong	hmon1333	the half	HALF	816		ntav	ntav 
+986	25-13-33-1	76151732944952678	White Hmong	hmon1333	only	ONLY	1580		xwb	xwb 
+987	25-13-34-1	76151732125470466	White Hmong	hmon1333	first	FIRST	728		thib ib	thib ib 
+988	25-13-35-1	76151732545865137	White Hmong	hmon1333	last	LAST (FINAL)	1529		kawg	kawg 
+989	25-13-36-1	76151732771255673	White Hmong	hmon1333	second	SECOND	1384		thib ob	thib ob 
+990	25-13-37-1	76151732135129948	White Hmong	hmon1333	the pair	PAIR	1888		nkawm	nkawm 
+991	25-13-37-2	76151732866886574	White Hmong	hmon1333	the pair	PAIR	1888		khub	khub 
+992	25-13-38-1	76151732890819169	White Hmong	hmon1333	twice/two times	TWICE	1546		ob-zaug	ob-zaug 
+993	25-13-42-1	76151732934315065	White Hmong	hmon1333	third	THIRD	1859		thib peb	thib peb 
+994	25-13-44-1	76151732690964529	White Hmong	hmon1333	three times	THREE TIMES	417		peb-zaug	peb-zaug 
+995	25-14-11-1	76151732659842626	White Hmong	hmon1333	the time	TIME	892		sij hawm	sij hawm 
+996	25-14-12-1	76151732706462545	White Hmong	hmon1333	the age	AGE	1789		as nyub	as nyub 
+997	25-14-12-2	7615173211644910	White Hmong	hmon1333	the age	AGE	1789		hnub nyoog, hnub nyug, hnoob nyoog	hnub nyoog 
+998	25-14-12-3	7615173211644910	White Hmong	hmon1333	the age	AGE	1789		hnub nyoog, hnub nyug, hnoob nyoog	hnub nyug 
+999	25-14-12-4	7615173211644910	White Hmong	hmon1333	the age	AGE	1789		hnub nyoog, hnub nyug, hnoob nyoog	hnoob nyoog 
+1000	25-14-13-1	76151732944810816	White Hmong	hmon1333	new	NEW	1231		tshiab	tshiab 
+1001	25-14-14-1	76151732769796550	White Hmong	hmon1333	young	YOUNG	1207		hluas	hluas 
+1002	25-14-14-2	76151732769940004	White Hmong	hmon1333	young	YOUNG	1207		yau	yau 
+1003	25-14-15-1	76151732636382287	White Hmong	hmon1333	old	OLD	1229		laus	laus 
+1004	25-14-15-2	7915957528849070	White Hmong	hmon1333	old	OLD	1229		qub	qub 
+1005	25-14-16-1	76151732921209558	White Hmong	hmon1333	early	EARLY	672		ntxov	ntxov 
+1006	25-14-17-1	7615173233450374	White Hmong	hmon1333	late	LATE	477		lig	lig 
+1007	25-14-18-1	76151732699080286	White Hmong	hmon1333	now	NOW	1376		nyiam no, niam no, nim no, nyem no	nyiam no 
+1008	25-14-18-2	76151732699080286	White Hmong	hmon1333	now	NOW	1376		nyiam no, niam no, nim no, nyem no	niam no 
+1009	25-14-18-3	76151732699080286	White Hmong	hmon1333	now	NOW	1376		nyiam no, niam no, nim no, nyem no	nim no 
+1010	25-14-18-4	76151732699080286	White Hmong	hmon1333	now	NOW	1376		nyiam no, niam no, nim no, nyem no	nyem no 
+1011	25-14-19-1	76151732197251859	White Hmong	hmon1333	immediately	IMMEDIATELY	1963		tamsim	tamsim 
+1012	25-14-21-1	76151732701512780	White Hmong	hmon1333	fast	FAST	1631		sai	sai 
+1013	25-14-22-1	76151732791179829	White Hmong	hmon1333	slow	SLOW	701		maj mam	maj mam 
+1014	25-14-23-1	76151732425649782	White Hmong	hmon1333	to hurry	HURRY	754		tsuag-tsuag	tsuag-tsuag 
+1015	25-14-24-1	7615173233450374	White Hmong	hmon1333	to be late	BE LATE	425		lig	lig 
+1016	25-14-25-1	7615173241839302	White Hmong	hmon1333	to begin	BEGIN	1806		pib	pib 
+1017	25-14-25-2	76151732875110034	White Hmong	hmon1333	to begin	BEGIN	1806		chiv	chiv 
+1018	25-14-252-1	7615173278823297	White Hmong	hmon1333	to last	LAST (ENDURE)	1186		nyob	nyob 
+1019	25-14-26-1	76151732870428141	White Hmong	hmon1333	the end(2)	END (OF TIME)	743		thaum kawg	thaum kawg 
+1020	25-14-27-1	7615173217665302	White Hmong	hmon1333	to finish	FINISH	1766		tas	tas 
+1021	25-14-28-1	76151732978729976	White Hmong	hmon1333	to cease	CEASE	1928		tsum	tsum 
+1022	25-14-29-1	76151732992774396	White Hmong	hmon1333	ready	READY	790		npaj tiav	npaj tiav 
+1023	25-14-31-1	76151732553679014	White Hmong	hmon1333	always	ALWAYS	1676		ib txwm	ib txwm 
+1024	25-14-32-1	76151732627448716	White Hmong	hmon1333	often	OFTEN	1852		sij	sij 
+1025	25-14-33-1	76151732688594986	White Hmong	hmon1333	sometimes	SOMETIMES	1544		qee zaus	qee zaus 
+1026	25-14-33-2	76151732984867745	White Hmong	hmon1333	sometimes	SOMETIMES	1544		zaus puav	zaus puav 
+1027	25-14-332-1	76151732291924633	White Hmong	hmon1333	for a long time	FOR A LONG TIME	418		ntev-ntev	ntev-ntev 
+1028	25-14-34-1	76151732748369902	White Hmong	hmon1333	never	NEVER	1656		yeej tsis	yeej tsis 
+1029	25-14-35-1	76151732145427146	White Hmong	hmon1333	again	AGAIN	204		dua (2)	dua (2) 
+1030	25-14-41-1	76151732778646140	White Hmong	hmon1333	the day(1)	DAY (24 HOURS)	1260		nruab hnub	nruab hnub 
+1031	25-14-42-1	76151732830048116	White Hmong	hmon1333	the night	NIGHT	1233		tsaus ntuj	tsaus ntuj 
+1032	25-14-43-1	76151732461142069	White Hmong	hmon1333	the dawn	DAWN	729		kaj-ntug	kaj-ntug 
+1033	25-14-44-1	76151732641907798	White Hmong	hmon1333	the morning	MORNING	1339		sawv ntxov	sawv ntxov 
+1034	25-14-45-1	76151732505023246	White Hmong	hmon1333	the midday	MIDDAY	12		nrab hnub	nrab hnub 
+1035	25-14-451-1	76151732353230275	White Hmong	hmon1333	the afternoon	AFTERNOON	1807		tav su	tav su 
+1036	25-14-46-1	76151732475527049	White Hmong	hmon1333	the evening	EVENING	1629		hmo ntuj	hmo ntuj 
+1037	25-14-47-1	76151732784247132	White Hmong	hmon1333	today	TODAY	1283		hnub no	hnub no 
+1038	25-14-48-1	76151732573954556	White Hmong	hmon1333	tomorrow	TOMORROW	1329		tag kis, taskis	tag kis 
+1039	25-14-48-2	76151732573954556	White Hmong	hmon1333	tomorrow	TOMORROW	1329		tag kis, taskis	taskis 
+1040	25-14-481-1	76151732643689131	White Hmong	hmon1333	the day after tomorrow	DAY AFTER TOMORROW	1179		nag kis, naskis	nag kis 
+1041	25-14-481-2	76151732643689131	White Hmong	hmon1333	the day after tomorrow	DAY AFTER TOMORROW	1179		nag kis, naskis	naskis 
+1042	25-14-49-1	76151732157915181	White Hmong	hmon1333	yesterday	YESTERDAY	1174		nag hmo	nag hmo 
+1043	25-14-491-1	76151732874679265	White Hmong	hmon1333	the day before yesterday	DAY BEFORE YESTERDAY	1180		hnub hnub	hnub hnub 
+1044	25-14-51-1	76151732492332945	White Hmong	hmon1333	the hour	HOUR	1353		xuab moos, xuab moo	xuab moos 
+1045	25-14-51-2	76151732492332945	White Hmong	hmon1333	the hour	HOUR	1353		xuab moos, xuab moo	xuab moo 
+1046	25-14-51-3	76151732827478045	White Hmong	hmon1333	the hour	HOUR	1353		teev	teev 
+1047	25-14-53-1	76151732415628643	White Hmong	hmon1333	the clock	CLOCK	1323		moos	moos 
+1048	25-14-61-1	76151732987056591	White Hmong	hmon1333	the week	WEEK	1469		as thiv	as thiv 
+1049	25-14-62-1	76151732413761254	White Hmong	hmon1333	Sunday	SUNDAY	1699		hnub vas thiv	hnub vas thiv 
+1050	25-14-63-1	76151732599234324	White Hmong	hmon1333	Monday	MONDAY	1697		hnub vas cas	hnub vas cas 
+1051	25-14-64-1	76151732485369119	White Hmong	hmon1333	Tuesday	TUESDAY	1695		hnub vas as qhas	hnub vas as qhas 
+1052	25-14-65-1	76151732208695301	White Hmong	hmon1333	Wednesday	WEDNESDAY	1694		hnub vas phuv	hnub vas phuv 
+1053	25-14-66-1	76151732230921445	White Hmong	hmon1333	Thursday	THURSDAY	1693		hnub vas phab hav	hnub vas phab hav 
+1054	25-14-67-1	76151732959523985	White Hmong	hmon1333	Friday	FRIDAY	1692		hnub vas xuv	hnub vas xuv 
+1055	25-14-68-1	76151732559039432	White Hmong	hmon1333	Saturday	SATURDAY	1700		hnub vas xaum	hnub vas xaum 
+1056	25-14-71-1	76151732881821152	White Hmong	hmon1333	the month	MONTH	1370		hli	hli 
+1057	25-14-73-1	76151732905445369	White Hmong	hmon1333	the year	YEAR	1226		xyoo	xyoo 
+1058	25-14-74-1	76151732668098470	White Hmong	hmon1333	the winter	WINTER	1471		caij ntuj no	caij ntuj no 
+1059	25-14-75-1	76151732970265672	White Hmong	hmon1333	the spring(2)	SPRINGTIME	1537		caij nplooj ntoo hlav	caij nplooj ntoo hlav 
+1060	25-14-76-1	76151732385586885	White Hmong	hmon1333	the summer	SUMMER	1342		caij ntuj sov	caij ntuj sov 
+1061	25-14-77-1	76151732632360874	White Hmong	hmon1333	the autumn/fall	AUTUMN	1276		caij nplooj zeeg	caij nplooj zeeg 
+1062	25-14-78-1	7615173221007498	White Hmong	hmon1333	the season	SEASON	691		caij (2)	caij (2) 
+1063	25-15-21-1	76151732610101971	White Hmong	hmon1333	to smell(1)	SMELL (STINK)	1587		tsw	tsw 
+1064	25-15-89-1	76151732967878287	White Hmong	hmon1333	wrinkled	WRINKLED	380		txoom	txoom 
+1065	25-15-212-1	76151732153198055	White Hmong	hmon1333	to sniff	SNIFF	375		hnia	hnia 
+1066	25-15-22-1	7615173244005224	White Hmong	hmon1333	to smell(2)	SMELL (PERCEIVE)	1586		hnov	hnov 
+1067	25-15-25-1	76151732945705890	White Hmong	hmon1333	fragrant	FRAGRANT	376		qab (2)	qab (2) 
+1068	25-15-26-1	7615173255802726	White Hmong	hmon1333	stinking	STINKING	42		tsw phem	tsw phem 
+1069	25-15-31-1	76151732211043525	White Hmong	hmon1333	to taste	TASTE (SOMETHING)	21		saj	saj 
+1070	25-15-35-1	76151732945705890	White Hmong	hmon1333	sweet	SWEET	717		qab (2)	qab (2) 
+1071	25-15-36-1	76151732992045783	White Hmong	hmon1333	salty	SALTY	1091		daw	daw 
+1072	25-15-37-1	76151732954498631	White Hmong	hmon1333	bitter	BITTER	887		iab	iab 
+1073	25-15-38-1	76151732240294948	White Hmong	hmon1333	sour	SOUR	1906		qaub	qaub 
+1074	25-15-41-1	7615173244005224	White Hmong	hmon1333	to hear	HEAR	1408		hnov	hnov 
+1075	25-15-42-1	76151732547431169	White Hmong	hmon1333	to listen	LISTEN	1608		mloog	mloog 
+1076	25-15-44-1	76151732902647536	White Hmong	hmon1333	the sound or noise	SOUND OR NOISE	1811		suab	suab 
+1077	25-15-45-1	76151732450192053	White Hmong	hmon1333	loud	LOUD	377		nrov	nrov 
+1078	25-15-46-1	76151732887498499	White Hmong	hmon1333	quiet	QUIET	1314		ntsiag	ntsiag 
+1079	25-15-46-2	76151732542333212	White Hmong	hmon1333	quiet	QUIET	1314		twj ywm	twj ywm 
+1080	25-15-51-1	76151732600903806	White Hmong	hmon1333	to see	SEE	1409		pom	pom 
+1081	25-15-52-1	76151732938741316	White Hmong	hmon1333	to look	LOOK	1819		saib	saib 
+1082	25-15-52-2	76151732770444191	White Hmong	hmon1333	to look	LOOK	1819		ntsia (2)	ntsia (2) 
+1083	25-15-52-3	76151732194107373	White Hmong	hmon1333	to look	LOOK	1819		nuam	nuam 
+1084	25-15-55-1	76151732498828717	White Hmong	hmon1333	to show	SHOW	1039		taw kev	taw kev 
+1085	25-15-56-1	76151732120228598	White Hmong	hmon1333	to shine	SHINE	708		ntsa	ntsa 
+1086	25-15-57-1	76151732194953021	White Hmong	hmon1333	bright	BRIGHT	679		kaj	kaj 
+1087	25-15-61-1	76151732747807950	White Hmong	hmon1333	the colour/color	COLOR	1613		xim	xim 
+1088	25-15-62-1	76151732194953021	White Hmong	hmon1333	light(2)	LIGHT (COLOR)	250		kaj	kaj 
+1089	25-15-63-1	76151732209267421	White Hmong	hmon1333	dark	DARK	706		tsaus	tsaus 
+1090	25-15-64-1	76151732918590288	White Hmong	hmon1333	white	WHITE	1335		dawb	dawb 
+1091	25-15-65-1	76151732583873132	White Hmong	hmon1333	black	BLACK	163		dub	dub 
+1092	25-15-66-1	7615173295582123	White Hmong	hmon1333	red	RED	156		liab (2)	liab (2) 
+1093	25-15-67-1	7615173236581609	White Hmong	hmon1333	blue	BLUE	837		xiav	xiav 
+1094	25-15-67-2	76151732653264756	White Hmong	hmon1333	blue	BLUE	837		ntsuab	ntsuab 
+1095	25-15-68-1	76151732653264756	White Hmong	hmon1333	green	GREEN	1425		ntsuab	ntsuab 
+1096	25-15-69-1	76151732691452973	White Hmong	hmon1333	yellow	YELLOW	1424		daj (2)	daj (2) 
+1097	25-15-71-1	76151732314107673	White Hmong	hmon1333	to touch	TOUCH	1892		kov	kov 
+1098	25-15-712-1	76151732629159011	White Hmong	hmon1333	to pinch	PINCH	378		de	de 
+1099	25-15-72-1	7615173244005224	White Hmong	hmon1333	to feel	FEEL	1079		hnov	hnov 
+1100	25-15-74-1	76151732426646824	White Hmong	hmon1333	hard	HARD	1884		tawv (2)	tawv (2) 
+1101	25-15-75-1	76151732440893741	White Hmong	hmon1333	soft	SOFT	1856		muag (2)	muag (2) 
+1102	25-15-77-1	76151732552007339	White Hmong	hmon1333	smooth	SMOOTH	1234		du	du 
+1103	25-15-78-1	76151732330842209	White Hmong	hmon1333	sharp	SHARP	1396		ntse	ntse 
+1104	25-15-79-1	76151732372821650	White Hmong	hmon1333	blunt	BLUNT	379		npub	npub 
+1105	25-15-81-1	76151732611501998	White Hmong	hmon1333	heavy	HEAVY	1210		hnyav	hnyav 
+1106	25-15-82-1	76151732604754602	White Hmong	hmon1333	light(1)	LIGHT (WEIGHT)	1052		sib	sib 
+1107	25-15-83-1	76151732821176355	White Hmong	hmon1333	wet	WET	1726		ntub	ntub 
+1108	25-15-84-1	76151732304732320	White Hmong	hmon1333	dry	DRY	1398		qhuav	qhuav 
+1109	25-15-85-1	76151732202621458	White Hmong	hmon1333	hot	HOT	1286		kub (1)	kub (1) 
+1110	25-15-851-1	76151732460537606	White Hmong	hmon1333	warm	WARM	1232		sov	sov 
+1111	25-15-86-1	76151732156965309	White Hmong	hmon1333	cold	COLD	1287		no	no 
+1112	25-15-86-2	76151732718477873	White Hmong	hmon1333	cold	COLD	1287		txias	txias 
+1113	25-15-87-1	76151732315977560	White Hmong	hmon1333	clean	CLEAN	704		huv	huv 
+1114	25-15-88-1	76151732396669762	White Hmong	hmon1333	dirty	DIRTY	1230		txab	txab 
+1115	25-15-88-2	76151732830758791	White Hmong	hmon1333	dirty	DIRTY	1230		lo av	lo av 
+1116	25-15-88-3	7615173255369564	White Hmong	hmon1333	dirty	DIRTY	1230		ceb	ceb 
+1117	25-16-11-1	76151732244726883	White Hmong	hmon1333	the soul or spirit	SOUL	811		plig	plig 
+1118	25-16-15-1	76151732755449265	White Hmong	hmon1333	surprised or astonished	SURPRISED	1572		ras dheev	ras dheev 
+1119	25-16-18-1	761517327689953	White Hmong	hmon1333	the good luck	GOOD LUCK	720		hmoov	hmoov 
+1120	25-16-23-1	76151732148986617	White Hmong	hmon1333	happy	HAPPY	1495		zoo siab	zoo siab 
+1121	25-16-25-1	76151732483050138	White Hmong	hmon1333	to laugh	LAUGH	1355		luag	luag 
+1122	25-16-251-1	7615173284526190	White Hmong	hmon1333	to smile	SMILE	1451		luag nyav	luag nyav 
+1123	25-16-26-1	76151732404034875	White Hmong	hmon1333	to play	PLAY	1413		ua si	ua si 
+1124	25-16-27-1	76151732526783866	White Hmong	hmon1333	to love	LOVE	923		hlub	hlub 
+1125	25-16-29-1	76151732153198055	White Hmong	hmon1333	to kiss	KISS	578		hnia	hnia 
+1126	25-16-3-1	76151732365790896	White Hmong	hmon1333	to embrace	EMBRACE	928		puag	puag 
+1127	25-16-31-1	76151732657515888	White Hmong	hmon1333	the pain	PAIN	1783		mob	mob 
+1128	25-16-32-1	76151732745801197	White Hmong	hmon1333	the grief	GRIEF	1668		kev tu siab	kev tu siab 
+1129	25-16-33-1	76151732237197327	White Hmong	hmon1333	the anxiety	ANXIETY	1000		txhawj siab	txhawj siab 
+1130	25-16-34-1	7615173292014393	White Hmong	hmon1333	to regret or be sorry	REGRET	1875		nrog tu siab	nrog tu siab 
+1131	25-16-35-1	7615173292014393	White Hmong	hmon1333	the pity	PITY	1141		nrog tu siab	nrog tu siab 
+1132	25-16-37-1	76151732135423667	White Hmong	hmon1333	to cry	CRY	1839		quaj	quaj 
+1133	25-16-37-2	76151732363800898	White Hmong	hmon1333	to cry	CRY	1839		nyiav	nyiav 
+1134	25-16-38-1	76151732943655828	White Hmong	hmon1333	the tear	TEAR (OF EYE)	1651		kua muag	kua muag 
+1135	25-16-39-1	76151732228885599	White Hmong	hmon1333	to groan	GROAN	716		ntsaj	ntsaj 
+1136	25-16-41-1	76151732546367043	White Hmong	hmon1333	to hate	HATE	1607		ntxub	ntxub 
+1137	25-16-42-1	76151732363798970	White Hmong	hmon1333	the anger	ANGER	82		npau taws	npau taws 
+1138	25-16-44-1	76151732865663427	White Hmong	hmon1333	the envy or jealousy	ENVY	40		xam khib	xam khib 
+1139	25-16-45-1	76151732718580023	White Hmong	hmon1333	the shame	SHAME	1776		txaj muag	txaj muag 
+1140	25-16-48-1	7615173271378362	White Hmong	hmon1333	proud	PROUD	174		hlob	hlob 
+1141	25-16-48-2	76151732614184776	White Hmong	hmon1333	proud	PROUD	174		khav	khav 
+1142	25-16-51-1	76151732306235707	White Hmong	hmon1333	to dare	DARE	1779		twv (2)	twv (2) 
+1143	25-16-52-1	761517324729653	White Hmong	hmon1333	brave	BRAVE	3		keej	keej 
+1144	25-16-52-2	76151732959596588	White Hmong	hmon1333	brave	BRAVE	3		siab tawv	siab tawv 
+1145	25-16-53-1	76151732489162514	White Hmong	hmon1333	the fear	FEAR (FRIGHT)	781		ntshai	ntshai 
+1146	25-16-62-1	7615173233304964	White Hmong	hmon1333	to want	WANT	1784		xav tau	xav tau 
+1147	25-16-62-2	76151732123996004	White Hmong	hmon1333	to want	WANT	1784		xav muaj	xav muaj 
+1148	25-16-62-3	76151732400402401	White Hmong	hmon1333	to want	WANT	1784		yuav	yuav 
+1149	25-16-622-1	76151732671612146	White Hmong	hmon1333	to choose	CHOOSE	1750		xaiv	xaiv 
+1150	25-16-63-1	76151732230718589	White Hmong	hmon1333	to hope	HOPE (SOMETHING)	3212		vam	vam 
+1151	25-16-65-1	76151732140466138	White Hmong	hmon1333	faithful	FAITHFUL	100		ncaj ncees	ncaj ncees 
+1152	25-16-66-1	76151732986795982	White Hmong	hmon1333	true	TRUE	1657		tseeb	tseeb 
+1153	25-16-67-1	76151732781231582	White Hmong	hmon1333	to lie(2)	LIE (MISLEAD)	601		dag	dag 
+1154	25-16-67-2	76151732476405093	White Hmong	hmon1333	to lie(2)	LIE (MISLEAD)	601		xev	xev 
+1155	25-16-68-1	76151732392595960	White Hmong	hmon1333	the deceit	DECEIT	13		ntxias (2)	ntxias (2) 
+1156	25-16-69-1	76151732246973337	White Hmong	hmon1333	to forgive	FORGIVE	1528		zam txim	zam txim 
+1157	25-16-71-1	76151732779140635	White Hmong	hmon1333	good	GOOD	1035		zoo	zoo 
+1158	25-16-72-1	76151732188000653	White Hmong	hmon1333	bad	BAD	1292		phem	phem 
+1159	25-16-73-1	76151732222922316	White Hmong	hmon1333	right(2)	CORRECT (RIGHT)	1725		yog	yog 
+1160	25-16-73-2	76151732166599266	White Hmong	hmon1333	right(2)	CORRECT (RIGHT)	1725		thwj	thwj 
+1161	25-16-74-1	76151732193501413	White Hmong	hmon1333	wrong	WRONG	1390		txhaum	txhaum 
+1162	25-16-74-2	76151732967237386	White Hmong	hmon1333	wrong	WRONG	1390		phiv	phiv 
+1163	25-16-76-1	76151732193501413	White Hmong	hmon1333	the fault	FAULT	134		txhaum	txhaum 
+1164	25-16-77-1	76151732117666807	White Hmong	hmon1333	the mistake	MISTAKE	1293		qhov yuam kev	qhov yuam kev 
+1165	25-16-78-1	76151732897787499	White Hmong	hmon1333	the blame	BLAME	381		liam	liam 
+1166	25-16-79-1	76151732601399557	White Hmong	hmon1333	the praise	PRAISE	1687		qhuas	qhuas 
+1167	25-16-81-1	76151732731201428	White Hmong	hmon1333	beautiful	BEAUTIFUL	1427		zoo nkauj	zoo nkauj 
+1168	25-16-82-1	76151732814026271	White Hmong	hmon1333	ugly	UGLY	1548		dab tuag	dab tuag 
+1169	25-16-83-1	76151732830655549	White Hmong	hmon1333	greedy	GREEDY	2018		siab hlob	siab hlob 
+1170	25-16-84-1	76151732330842209	White Hmong	hmon1333	clever	CLEVER	1310		ntse	ntse 
+1171	25-17-11-1	76151732829144604	White Hmong	hmon1333	the mind	MIND	1562		siab (1)	siab (1) 
+1172	25-17-11-2	76151732457697645	White Hmong	hmon1333	the mind	MIND	1562		hlwb	hlwb 
+1173	25-17-13-1	76151732570872608	White Hmong	hmon1333	to think(1)	THINK (REFLECT)	1415		xav (1)	xav (1) 
+1174	25-17-14-1	76151732570872608	White Hmong	hmon1333	to think(2)	THINK (BELIEVE)	1513		xav (1)	xav (1) 
+1175	25-17-15-1	76151732504708357	White Hmong	hmon1333	to believe	BELIEVE	1890		ntseeg	ntseeg 
+1176	25-17-16-1	76151732449588092	White Hmong	hmon1333	to understand	UNDERSTAND	1536		to taub	to taub 
+1177	25-17-16-2	7615173252319774	White Hmong	hmon1333	to understand	UNDERSTAND	1536		nkag siab	nkag siab 
+1178	25-17-17-1	76151732733781165	White Hmong	hmon1333	to know	KNOW (SOMETHING)	1410		paub	paub 
+1179	25-17-171-1	76151732249843094	White Hmong	hmon1333	to guess	GUESS	1932		kwv yees	kwv yees 
+1180	25-17-172-1	76151732901983571	White Hmong	hmon1333	to imitate	IMITATE	117		qog	qog 
+1181	25-17-18-1	76151732991361932	White Hmong	hmon1333	to seem	SEEM	1521		muaj ntsis zoo li	muaj ntsis zoo li 
+1182	25-17-19-1	76151732282829221	White Hmong	hmon1333	the idea	IDEA	1609		tswv yim	tswv yim 
+1183	25-17-21-1	76151732123009497	White Hmong	hmon1333	wise	WISE	698		paub qab hau	paub qab hau 
+1184	25-17-22-1	76151732439799674	White Hmong	hmon1333	stupid	STUPID	1518		ruam	ruam 
+1185	25-17-23-1	76151732495484346	White Hmong	hmon1333	mad	MAD	1899		vwm	vwm 
+1186	25-17-24-1	76151732159638260	White Hmong	hmon1333	to learn	LEARN	504		xyaum	xyaum 
+1187	25-17-242-1	76151732571286764	White Hmong	hmon1333	to study	STUDY	1929		kawm ntawv	kawm ntawv 
+1188	25-17-25-1	7615173257903972	White Hmong	hmon1333	to teach	TEACH	709		qhia ntawv	qhia ntawv 
+1189	25-17-26-1	76151732145304251	White Hmong	hmon1333	the pupil	PUPIL (STUDENT)	753		tub ntxhais kawm ntawv	tub ntxhais kawm ntawv 
+1190	25-17-27-1	76151732921334650	White Hmong	hmon1333	the teacher	TEACHER	1038		xib hwb, xib fwb	xib hwb 
+1191	25-17-27-2	76151732921334650	White Hmong	hmon1333	the teacher	TEACHER	1038		xib hwb, xib fwb	xib fwb 
+1192	25-17-27-3	76151732952963439	White Hmong	hmon1333	the teacher	TEACHER	1038		nais khu	nais khu 
+1193	25-17-28-1	76151732381430386	White Hmong	hmon1333	the school	SCHOOL	673		tsev kawm ntawv	tsev kawm ntawv 
+1194	25-17-31-1	76151732422425515	White Hmong	hmon1333	to remember	REMEMBER	707		nco qab	nco qab 
+1195	25-17-32-1	76151732607322444	White Hmong	hmon1333	to forget	FORGET	1523		hnov qab	hnov qab 
+1196	25-17-34-1	76151732478109594	White Hmong	hmon1333	clear	CLEAR	989		meej	meej 
+1197	25-17-37-1	76151732812886441	White Hmong	hmon1333	certain	CERTAIN	509		paub tseeb	paub tseeb 
+1198	25-17-38-1	7615173242301132	White Hmong	hmon1333	to explain	EXPLAIN	1626		piav	piav 
+1199	25-17-41-1	76151732282829221	White Hmong	hmon1333	the intention	INTENTION	1162		tswv yim	tswv yim 
+1200	25-17-42-1	7615173296263369	White Hmong	hmon1333	the cause	CAUSE	860		hauv paus	hauv paus 
+1201	25-17-43-1	76151732353504631	White Hmong	hmon1333	the doubt	DOUBT	1308		xoom xaim	xoom xaim 
+1202	25-17-44-1	7615173267208042	White Hmong	hmon1333	to suspect	SUSPECT	1841		nyaj	nyaj 
+1203	25-17-441-1	76151732268636782	White Hmong	hmon1333	to betray	BETRAY	1902		ntxeev siab	ntxeev siab 
+1204	25-17-45-1	76151732577476306	White Hmong	hmon1333	the need or necessity	NEED (NOUN)	643		qhov xav muaj	qhov xav muaj 
+1205	25-17-46-1	76151732467326048	White Hmong	hmon1333	easy	EASY	686		yooj yim	yooj yim 
+1206	25-17-46-2	76151732109325317	White Hmong	hmon1333	easy	EASY	686		gaib	gaib 
+1207	25-17-47-1	76151732113406127	White Hmong	hmon1333	difficult	DIFFICULT	584		nyuaj, nyuab	nyuaj 
+1208	25-17-47-2	76151732113406127	White Hmong	hmon1333	difficult	DIFFICULT	584		nyuaj, nyuab	nyuab 
+1209	25-17-48-1	76151732646171232	White Hmong	hmon1333	to try	TRY	1812		sim	sim 
+1210	25-17-49-1	76151732992092123	White Hmong	hmon1333	the manner	MANNER	488		cwj pwm, cuj pwm	cwj pwm 
+1211	25-17-49-2	76151732992092123	White Hmong	hmon1333	the manner	MANNER	488		cwj pwm, cuj pwm	cuj pwm 
+1212	25-17-51-1	76151732145582848	White Hmong	hmon1333	and	AND	1577		thiab	thiab 
+1213	25-17-52-1	76151732561891464	White Hmong	hmon1333	because	BECAUSE	1157		vim	vim 
+1214	25-17-53-1	76151732222922316	White Hmong	hmon1333	if	IF	1459		yog	yog 
+1215	25-17-54-1	7615173239338315	White Hmong	hmon1333	or	OR	1014		los (3)	los (3) 
+1216	25-17-55-1	76151732630210295	White Hmong	hmon1333	yes	YES	1268		aws, wm	aws 
+1217	25-17-55-2	76151732630210295	White Hmong	hmon1333	yes	YES	1268		aws, wm	wm 
+1218	25-17-61-1	76151732133840063	White Hmong	hmon1333	how?	HOW	1239		ua li cas	ua li cas 
+1219	25-17-62-1	7615173249912312	White Hmong	hmon1333	how many?	HOW MANY	822		pes tsawg	pes tsawg 
+1220	25-17-63-1	76151732676987650	White Hmong	hmon1333	how much?	HOW MUCH	531		npaum li cas	npaum li cas 
+1221	25-17-64-1	76151732465856957	White Hmong	hmon1333	what?	WHAT	1236		dabtsi	dabtsi 
+1222	25-17-65-1	76151732278843694	White Hmong	hmon1333	when?	WHEN	1238		thaum twg	thaum twg 
+1223	25-17-66-1	76151732941264932	White Hmong	hmon1333	where?	WHERE	1237		qhov twg	qhov twg 
+1224	25-17-67-1	76151732153224226	White Hmong	hmon1333	which?	WHICH	727		twg	twg 
+1225	25-17-68-1	76151732334262420	White Hmong	hmon1333	who?	WHO	1235		leej twg	leej twg 
+1226	25-17-69-1	76151732612092481	White Hmong	hmon1333	why?	WHY	1270		vim li cas	vim li cas 
+1227	25-17-69-2	76151732133840063	White Hmong	hmon1333	why?	WHY	1270		ua li cas	ua li cas 
+1228	25-18-11-1	76151732902647536	White Hmong	hmon1333	the voice	VOICE	1363		suab	suab 
+1229	25-18-12-1	76151732188109388	White Hmong	hmon1333	to sing	SING	1261		hu nkauj	hu nkauj 
+1230	25-18-12-2	84131821656941704	White Hmong	hmon1333	to sing	SING	1261		hais nkauj	hais nkauj 
+1231	25-18-13-1	76151732960609427	White Hmong	hmon1333	to shout	SHOUT	715		qw	qw 
+1232	25-18-15-1	76151732454380372	White Hmong	hmon1333	to whisper	WHISPER	55		ntxhi	ntxhi 
+1233	25-18-17-1	76151732313127281	White Hmong	hmon1333	to whistle	WHISTLE	1025		xuav	xuav 
+1234	25-18-18-1	76151732641252945	White Hmong	hmon1333	to shriek	SHRIEK	298		qw nrov	qw nrov 
+1235	25-18-19-1	76151732791615032	White Hmong	hmon1333	to howl	HOWL	526		nqov	nqov 
+1236	25-18-21-1	76151732225368848	White Hmong	hmon1333	to speak or talk	SPEAK	1623		hais lus	hais lus 
+1237	25-18-211-1	76151732560181154	White Hmong	hmon1333	to stutter or stammer	STUTTER	1866		daig nplaig	daig nplaig 
+1238	25-18-22-1	76151732963375863	White Hmong	hmon1333	to say	SAY	1458		hais	hais 
+1239	25-18-221-1	76151732683033372	White Hmong	hmon1333	to tell	TELL	1711		qhia	qhia 
+1240	25-18-23-1	76151732732828407	White Hmong	hmon1333	to be silent	BE SILENT	48		ntsiag to	ntsiag to 
+1241	25-18-24-1	76151732504142863	White Hmong	hmon1333	the language	LANGUAGE	1307		lus	lus 
+1242	25-18-26-1	76151732504142863	White Hmong	hmon1333	the word	WORD	1599		lus	lus 
+1243	25-18-28-1	76151732383262178	White Hmong	hmon1333	the name	NAME	1405		npe	npe 
+1244	25-18-31-1	7615173233416156	White Hmong	hmon1333	to ask(1)	ASK (INQUIRE)	1309		nug, noog	nug 
+1245	25-18-31-2	7615173233416156	White Hmong	hmon1333	to ask(1)	ASK (INQUIRE)	1309		nug, noog	noog 
+1246	25-18-32-1	76151732332542426	White Hmong	hmon1333	to answer	ANSWER	1275		teb (2)	teb (2) 
+1247	25-18-33-1	76151732308649509	White Hmong	hmon1333	to admit	ADMIT	2022		lees	lees 
+1248	25-18-33-2	76151732783539241	White Hmong	hmon1333	to admit	ADMIT	2022		lav paub	lav paub 
+1249	25-18-35-1	76151732290572994	White Hmong	hmon1333	to ask(2)	ASK (REQUEST)	1828		thov	thov 
+1250	25-18-36-1	76151732205024221	White Hmong	hmon1333	to promise	PROMISE	1675		cog lus	cog lus 
+1251	25-18-37-1	76151732558869578	White Hmong	hmon1333	to refuse	REFUSE	49		yig	yig 
+1252	25-18-38-1	76151732431789663	White Hmong	hmon1333	to forbid	FORBID	83		txwv	txwv 
+1253	25-18-39-1	76151732875764657	White Hmong	hmon1333	to scold	SCOLD	299		cem	cem 
+1254	25-18-41-1	76151732274019243	White Hmong	hmon1333	to call(1)	CALL	1084		hu	hu 
+1255	25-18-42-1	76151732924785097	White Hmong	hmon1333	to call(2)	CALL BY NAME	180		tis npe	tis npe 
+1256	25-18-43-1	76151732508949494	White Hmong	hmon1333	to announce	ANNOUNCE	9		tshaj tawm	tshaj tawm 
+1257	25-18-43-2	76151732768202277	White Hmong	hmon1333	to announce	ANNOUNCE	9		ncha moo	ncha moo 
+1258	25-18-44-1	76151732891521738	White Hmong	hmon1333	to threaten	THREATEN	1192		hawv	hawv 
+1259	25-18-44-2	76151732528364604	White Hmong	hmon1333	to threaten	THREATEN	1192		hem	hem 
+1260	25-18-45-1	76151732614184776	White Hmong	hmon1333	to boast	BOAST	101		khav	khav 
+1261	25-18-51-1	76151732162718793	White Hmong	hmon1333	to write	WRITE	1672		sau (2)	sau (2) 
+1262	25-18-52-1	76151732415925244	White Hmong	hmon1333	to read	READ	724		nyeem	nyeem 
+1263	25-18-52-2	76151732834024483	White Hmong	hmon1333	to read	READ	724		twm (2)	twm (2) 
+1264	25-18-56-1	76151732733367165	White Hmong	hmon1333	the paper	PAPER	648		ntawv	ntawv 
+1265	25-18-57-1	76151732669396082	White Hmong	hmon1333	the pen	PEN	794		cwj mem	cwj mem 
+1266	25-18-61-1	76151732733367165	White Hmong	hmon1333	the book	BOOK	963		ntawv	ntawv 
+1267	25-18-71-1	76151732174376214	White Hmong	hmon1333	the flute	FLUTE	777		raj nplaim	raj nplaim 
+1268	25-18-72-1	76151732970881241	White Hmong	hmon1333	the drum	DRUM	908		nruas	nruas 
+1269	25-19-11-1	76151732831787359	White Hmong	hmon1333	the country	COUNTRY	1300		tebchaws	tebchaws 
+1270	25-19-15-1	76151732874839072	White Hmong	hmon1333	the town	TOWN	1391		nroog	nroog 
+1271	25-19-16-1	76151732518336861	White Hmong	hmon1333	the village	VILLAGE	930		zos	zos 
+1272	25-19-17-1	76151732302919105	White Hmong	hmon1333	the boundary	BOUNDARY	1010		ciam, ciaj ciam	ciam 
+1273	25-19-17-2	76151732302919105	White Hmong	hmon1333	the boundary	BOUNDARY	1010		ciam, ciaj ciam	ciaj ciam 
+1274	25-19-21-1	76151732972833144	White Hmong	hmon1333	the people	PEOPLE	789		tib neeg	tib neeg 
+1275	25-19-23-1	76151732702810825	White Hmong	hmon1333	the clan	CLAN	302		xeem	xeem 
+1276	25-19-24-1	76151732682760031	White Hmong	hmon1333	the chieftain	CHIEFTAIN	301		thawj	thawj 
+1277	25-19-25-1	7615173299356985	White Hmong	hmon1333	the walking stick	WALKING STICK	1296		cwj nrig	cwj nrig 
+1278	25-19-31-1	76151732489202582	White Hmong	hmon1333	to rule or govern	RULE	1846		kav tswj	kav tswj 
+1279	25-19-32-1	76151732738635803	White Hmong	hmon1333	the king	KING	1508		huab tais, fuab tais	huab tais 
+1280	25-19-32-2	76151732738635803	White Hmong	hmon1333	the king	KING	1508		huab tais, fuab tais	fuab tais 
+1281	25-19-33-1	76151732442972611	White Hmong	hmon1333	the queen	QUEEN	1306		poj huab tais	poj huab tais 
+1282	25-19-37-1	76151732807628751	White Hmong	hmon1333	the citizen	CITIZEN	1032		pej xeem	pej xeem 
+1283	25-19-41-1	76151732141325620	White Hmong	hmon1333	the master	MASTER	383		tswv	tswv 
+1284	25-19-42-1	76151732211317967	White Hmong	hmon1333	the slave	SLAVE	812		qhev	qhev 
+1285	25-19-43-1	76151732211317967	White Hmong	hmon1333	the servant	SERVANT	255		qhev	qhev 
+1286	25-19-45-1	76151732992192467	White Hmong	hmon1333	to command or order	ORDER	1128		hais kom	hais kom 
+1287	25-19-46-1	76151732754950089	White Hmong	hmon1333	to obey	OBEY	1635		mloog lus	mloog lus 
+1288	25-19-47-1	76151732641505035	White Hmong	hmon1333	to permit	PERMIT	1003		tso cai rau	tso cai rau 
+1289	25-19-51-1	7615173251770282	White Hmong	hmon1333	the friend	FRIEND	1325		phooj ywg	phooj ywg 
+1290	25-19-51-2	76151732914849026	White Hmong	hmon1333	the friend	FRIEND	1325		muj	muj 
+1291	25-19-52-1	76151732680742371	White Hmong	hmon1333	the enemy	ENEMY	1358		yeeb ncuab	yeeb ncuab 
+1292	25-19-54-1	76151732268876708	White Hmong	hmon1333	the neighbour	NEIGHBOUR	1332		neeg zej-zog	neeg zej-zog 
+1293	25-19-56-1	76151732938492198	White Hmong	hmon1333	the guest	GUEST	1782		qhua	qhua 
+1294	25-19-58-1	76151732646457425	White Hmong	hmon1333	to help	HELP	1897		pab	pab 
+1295	25-19-59-1	7615173210286803	White Hmong	hmon1333	to prevent	PREVENT	1550		tiv thaiv	tiv thaiv 
+1296	25-19-61-1	76151732493534364	White Hmong	hmon1333	the custom	CUSTOM	1747		kev cai	kev cai 
+1297	25-19-62-1	7615173251657207	White Hmong	hmon1333	the quarrel	QUARREL	1848		sib-cav, sib-cam	sib-cav 
+1298	25-19-62-2	7615173251657207	White Hmong	hmon1333	the quarrel	QUARREL	1848		sib-cav, sib-cam	sib-cam 
+1299	25-19-62-3	76151732770381603	White Hmong	hmon1333	the quarrel	QUARREL	1848		sib-ceg	sib-ceg 
+1300	25-19-65-1	76151732155706714	White Hmong	hmon1333	to meet	MEET	1831		sib-ntsib	sib-ntsib 
+1301	25-19-65-2	76151732135453149	White Hmong	hmon1333	to meet	MEET	1831		sib-cuag	sib-cuag 
+1302	25-19-72-1	7615173284902619	White Hmong	hmon1333	the prostitute	PROSTITUTE	1610		niam ntiav	niam ntiav 
+1303	25-19-72-2	76151732309047332	White Hmong	hmon1333	the prostitute	PROSTITUTE	1610		meb cab	meb cab 
+1304	25-20-11-1	76151732242590119	White Hmong	hmon1333	to fight	FIGHT	1423		sib-ntaus	sib-ntaus 
+1305	25-20-13-1	76151732118401583	White Hmong	hmon1333	the war or battle	BATTLE	579		tsov rog	tsov rog 
+1306	25-20-15-1	76151732262026870	White Hmong	hmon1333	the army	ARMY	1561		pawg tub-rog	pawg tub-rog 
+1307	25-20-17-1	76151732374627771	White Hmong	hmon1333	the soldier	SOLDIER	1941		tub-rog	tub-rog 
+1308	25-20-21-1	76151732123238845	White Hmong	hmon1333	the weapons	WEAPONS	951		riam phom	riam phom 
+1309	25-20-22-1	76151732152433787	White Hmong	hmon1333	the club	CLUB	1763		qws	qws 
+1310	25-20-23-1	76151732250944412	White Hmong	hmon1333	the sling	SLING	387		hneev roj hmab	hneev roj hmab 
+1311	25-20-24-1	76151732339427091	White Hmong	hmon1333	the bow	BOW	994		hneev	hneev 
+1312	25-20-25-1	76151732406901033	White Hmong	hmon1333	the arrow	ARROW	977		xub (2)	xub (2) 
+1313	25-20-26-1	76151732361294577	White Hmong	hmon1333	the spear	SPEAR	945		hmuv	hmuv 
+1314	25-20-27-1	76151732681065003	White Hmong	hmon1333	the sword	SWORD	1535		ntaj	ntaj 
+1315	25-20-28-1	76151732792364597	White Hmong	hmon1333	the gun	GUN	1566		phom	phom 
+1316	25-20-36-1	76151732378927502	White Hmong	hmon1333	the tower	TOWER	1671		pej thuam	pej thuam 
+1317	25-20-41-1	76151732508094309	White Hmong	hmon1333	the victory	VICTORY	783		yeej	yeej 
+1318	25-20-42-1	76151732421779779	White Hmong	hmon1333	the defeat	DEFEAT	782		swb (2)	swb (2) 
+1319	25-20-43-1	76151732101637157	White Hmong	hmon1333	the attack	ATTACK	722		mus tua	mus tua 
+1320	25-20-44-1	7615173210286803	White Hmong	hmon1333	to defend	DEFEND	1330		tiv thaiv	tiv thaiv 
+1321	25-20-45-1	76151732458663642	White Hmong	hmon1333	to retreat	RETREAT	421		thim rov qab	thim rov qab 
+1322	25-20-46-1	76151732997042069	White Hmong	hmon1333	to surrender	SURRENDER	1696		nyoo	nyoo 
+1323	25-20-47-1	76151732693934210	White Hmong	hmon1333	the captive or prisoner	PRISONER	1072		neeg raug txhom	neeg raug txhom 
+1324	25-20-471-1	76151732639557890	White Hmong	hmon1333	the guard	GUARD	1940		neeg zov nyas	neeg zov nyas 
+1325	25-20-49-1	76151732529976120	White Hmong	hmon1333	the ambush	AMBUSH	65		tos kev tua	tos kev tua 
+1326	25-20-51-1	76151732874816968	White Hmong	hmon1333	the fisherman	FISHERMAN	1858		neeg nuv ntses	neeg nuv ntses 
+1327	25-20-52-1	76151732754202096	White Hmong	hmon1333	the fishhook	FISHHOOK	1074		nuv	nuv 
+1328	25-20-52-2	7615173224989197	White Hmong	hmon1333	the fishhook	FISHHOOK	1074		npev	npev 
+1329	25-20-53-1	76151732156621663	White Hmong	hmon1333	the fishing line	FISHING LINE	19		hlua nuv	hlua nuv 
+1330	25-20-53-2	76151732716304454	White Hmong	hmon1333	the fishing line	FISHING LINE	19		hlua npev	hlua npev 
+1331	25-20-54-1	76151732509108916	White Hmong	hmon1333	the fishnet	FISHNET	388		yawm ntses	yawm ntses 
+1332	25-20-54-2	76151732118431224	White Hmong	hmon1333	the fishnet	FISHNET	388		vas ntses	vas ntses 
+1333	25-20-55-1	76151732765798193	White Hmong	hmon1333	the fish trap	FISH TRAP	389		tawb cuab ntses	tawb cuab ntses 
+1334	25-20-56-1	76151732976884144	White Hmong	hmon1333	the bait	BAIT	2013		kab nuv ntses	kab nuv ntses 
+1335	25-20-61-1	76151732293708219	White Hmong	hmon1333	to hunt	HUNT	1435		plob hav zoov	plob hav zoov 
+1336	25-20-62-1	76151732108899073	White Hmong	hmon1333	to shoot	SHOOT	1172		tua	tua 
+1337	25-20-63-1	76151732868713186	White Hmong	hmon1333	to miss	MISS (A TARGET)	161		npeeg	npeeg 
+1338	25-20-64-1	7615173269626857	White Hmong	hmon1333	the trap	TRAP (PITFALL)	1075		ntxiab	ntxiab 
+1339	25-20-65-1	76151732121256440	White Hmong	hmon1333	to trap	TRAP (CATCH)	1170		cuab	cuab 
+1340	25-21-11-1	76151732553612726	White Hmong	hmon1333	the law	LAW	1062		cai	cai 
+1341	25-21-15-1	76151732912392301	White Hmong	hmon1333	the court	COURT	1068		tsev hais plaub	tsev hais plaub 
+1342	25-12-013-1	76151732938953276	White Hmong	hmon1333	at	AT	1461		ntawm	ntawm 
+1343	25-12-013-2	76151732229599234	White Hmong	hmon1333	at	AT	1461		tom (2)	tom (2) 
+1344	25-21-16-1	76151732161309566	White Hmong	hmon1333	to adjudicate	ADJUDICATE	1818		txiav txim	txiav txim 
+1345	25-21-17-1	76151732531719903	White Hmong	hmon1333	the judgment	JUDGMENT	1067		kev txiav txim	kev txiav txim 
+1346	25-21-18-1	76151732580338903	White Hmong	hmon1333	the judge	JUDGE	861		tus txiav txim	tus txiav txim 
+1347	25-21-21-1	76151732373975312	White Hmong	hmon1333	the plaintiff	PLAINTIFF	2020		tus liam	tus liam 
+1348	25-21-21-2	76151732537152634	White Hmong	hmon1333	the plaintiff	PLAINTIFF	2020		tus foob	tus foob 
+1349	25-21-22-1	76151732618647540	White Hmong	hmon1333	the defendant	DEFENDANT	1034		tus raug liam	tus raug liam 
+1350	25-21-22-2	76151732501985567	White Hmong	hmon1333	the defendant	DEFENDANT	1034		tus raug foob	tus raug foob 
+1351	25-21-23-1	7615173289504363	White Hmong	hmon1333	the witness	WITNESS	1144		tus pov thawj	tus pov thawj 
+1352	25-21-24-1	76151732205024221	White Hmong	hmon1333	to swear	SWEAR	1939		cog lus	cog lus 
+1353	25-21-25-1	76151732143440631	White Hmong	hmon1333	the oath	OATH	1712		lus cog tseg	lus cog tseg 
+1354	25-21-31-1	76151732897787499	White Hmong	hmon1333	to accuse	ACCUSE	1814		liam	liam 
+1355	25-21-31-2	76151732583244973	White Hmong	hmon1333	to accuse	ACCUSE	1814		foob	foob 
+1356	25-21-35-1	76151732193501413	White Hmong	hmon1333	guilty	GUILTY	1682		txhaum	txhaum 
+1357	25-21-37-1	76151732495766417	White Hmong	hmon1333	the penalty or punishment	PUNISHMENT	390		txim	txim 
+1358	25-21-38-1	76151732333592727	White Hmong	hmon1333	the fine	FINE (PENALTY)	218		nqi nplua	nqi nplua 
+1359	25-21-39-1	76151732800954364	White Hmong	hmon1333	the prison	PRISON	1281		nkuaj	nkuaj 
+1360	25-21-39-2	7615173281442378	White Hmong	hmon1333	the prison	PRISON	1281		qhov taub	qhov taub 
+1361	25-21-42-1	76151732638159899	White Hmong	hmon1333	the murder	MURDER	845		kev tua neeg	kev tua neeg 
+1362	25-21-43-1	7615173213594374	White Hmong	hmon1333	the adultery	ADULTERY	902		sib-deev	sib-deev 
+1363	25-21-44-1	76151732718940431	White Hmong	hmon1333	the rape	RAPE	953		txhom tsoob	txhom tsoob 
+1364	25-21-44-2	76151732381465019	White Hmong	hmon1333	the rape	RAPE	953		ua dev ua npua	ua dev ua npua 
+1365	25-21-47-1	76151732781231582	White Hmong	hmon1333	the perjury	PERJURY	1792		dag	dag 
+1366	25-21-51-1	76151732851706648	White Hmong	hmon1333	to steal	STEAL	713		nyiag	nyiag 
+1367	25-21-51-2	76151732959897328	White Hmong	hmon1333	to steal	STEAL	713		txhav	txhav 
+1368	25-21-52-1	76151732260822064	White Hmong	hmon1333	the thief	THIEF	1160		tub-sab	tub-sab 
+1369	25-22-11-1	76151732267276207	White Hmong	hmon1333	the religion	RELIGION	661		kev ntseeg	kev ntseeg 
+1370	25-22-12-1	76151732484964641	White Hmong	hmon1333	the god	DEITY	3231		Yawm Saub	Yawm Saub 
+1371	25-22-12-2	76151732233808924	White Hmong	hmon1333	the god	DEITY	3231		Vaj Tswv	Vaj Tswv 
+1372	25-22-13-1	76151732802668832	White Hmong	hmon1333	the temple	TEMPLE	911		tsev hauj sam	tsev hauj sam 
+1373	25-22-14-1	76151732443810096	White Hmong	hmon1333	the altar	ALTAR	853		thaj	thaj 
+1374	25-22-15-1	76151732430578340	White Hmong	hmon1333	the sacrifice	SACRIFICE	1103		fij	fij 
+1375	25-22-16-1	7615173248042112	White Hmong	hmon1333	to worship	WORSHIP	257		pe hawm	pe hawm 
+1376	25-22-17-1	7615173257684111	White Hmong	hmon1333	to pray	PRAY	24		thov Vaj Tswv	thov Vaj Tswv 
+1377	25-22-18-1	76151732432842136	White Hmong	hmon1333	the priest	PRIEST	852		txiv neeb	txiv neeb 
+1378	25-22-18-2	76151732625299496	White Hmong	hmon1333	the priest	PRIEST	852		hauj sam	hauj sam 
+1379	25-22-18-3	76151732254848338	White Hmong	hmon1333	the priest	PRIEST	852		txiv plig	txiv plig 
+1380	25-22-18-4	76151732921334650	White Hmong	hmon1333	the priest	PRIEST	852		xib hwb, xib fwb	xib hwb 
+1381	25-22-18-5	76151732921334650	White Hmong	hmon1333	the priest	PRIEST	852		xib hwb, xib fwb	xib fwb 
+1382	25-22-19-1	76151732230972299	White Hmong	hmon1333	holy	HOLY	1702		dawb huv	dawb huv 
+1383	25-22-22-1	76151732725421600	White Hmong	hmon1333	to preach	PREACH	304		cev txoj lus	cev txoj lus 
+1384	25-22-23-1	7615173277090570	White Hmong	hmon1333	to bless	BLESS	391		foom koob hmoov	foom koob hmoov 
+1385	25-22-24-1	76151732683511589	White Hmong	hmon1333	to curse	CURSE	8		foom phem	foom phem 
+1386	25-22-26-1	76151732845019721	White Hmong	hmon1333	to fast	ABSTAIN FROM FOOD	303		yoo mov	yoo mov 
+1387	25-22-31-1	76151732189823903	White Hmong	hmon1333	the heaven	HEAVEN	1565		ntuj ceeb tsheej	ntuj ceeb tsheej 
+1388	25-22-32-1	76151732238087030	White Hmong	hmon1333	the hell	HELL	878		ntuj-tawg teb txias	ntuj-tawg teb txias 
+1389	25-22-35-1	76151732874031265	White Hmong	hmon1333	the demon	DEMON	1973		dab (2)	dab (2) 
+1390	25-22-37-1	76151732927016336	White Hmong	hmon1333	the idol	IDOL	1945		mlom	mlom 
+1391	25-22-42-1	76151732419775913	White Hmong	hmon1333	the magic	MAGIC	392		yees siv	yees siv 
+1392	25-22-43-1	76151732874031265	White Hmong	hmon1333	the sorcerer or witch	MAGICIAN	2137		dab (2)	dab (2) 
+1393	25-22-45-1	76151732874031265	White Hmong	hmon1333	the ghost	GHOST	1175		dab (2)	dab (2) 
+1394	25-23-1-1	76151732906876681	White Hmong	hmon1333	the radio	RADIO	1315		vis thab nyub	vis thab nyub 
+1395	25-23-1-2	7615173220106873	White Hmong	hmon1333	the radio	RADIO	1315		xov tooj cua	xov tooj cua 
+1396	25-23-11-1	76151732291310653	White Hmong	hmon1333	the television	TELEVISION	1788		this vis	this vis 
+1397	25-23-12-1	76151732252449194	White Hmong	hmon1333	the telephone	TELEPHONE	1379		xov tooj	xov tooj 
+1398	25-23-135-1	7615173228056557	White Hmong	hmon1333	the motorcycle	MOTORCYCLE	638		maus taus xais	maus taus xais 
+1399	25-23-14-1	76151732340694342	White Hmong	hmon1333	the car	CAR	1111		tsheb	tsheb 
+1400	25-23-14-2	76151732681282676	White Hmong	hmon1333	the car	CAR	1111		luv (2)	luv (2) 
+1401	25-23-15-1	76151732605645882	White Hmong	hmon1333	the bus	BUS	1070		luv npav	luv npav 
+1402	25-23-16-1	76151732784405600	White Hmong	hmon1333	the airplane	AIRPLANE	1597		dav hlau	dav hlau 
+1403	25-23-17-1	76151732183084138	White Hmong	hmon1333	the electricity	ELECTRICITY	59		fai fab	fai fab 
+1404	25-23-17-2	76151732548666568	White Hmong	hmon1333	the electricity	ELECTRICITY	59		hluav taws xob	hluav taws xob 
+1405	25-23-175-1	76151732813663014	White Hmong	hmon1333	the battery	BATTERY	662		roj teeb	roj teeb 
+1406	25-23-2-1	76151732229171224	White Hmong	hmon1333	the hospital	HOSPITAL	616		tsev kho mob	tsev kho mob 
+1407	25-23-21-1	76151732902132390	White Hmong	hmon1333	the nurse	NURSE	1104		naas mom	naas mom 
+1408	25-23-22-1	76151732676756200	White Hmong	hmon1333	the pill or tablet	PILL	395		ntsiav tshuaj	ntsiav tshuaj 
+1409	25-23-23-1	76151732999373417	White Hmong	hmon1333	the injection	INJECTION	1805		txhaj	txhaj 
+1410	25-23-23-2	76151732106999964	White Hmong	hmon1333	the injection	INJECTION	1805		xav (2)	xav (2) 
+1411	25-23-5-1	76151732931787144	White Hmong	hmon1333	the tap/faucet	FAUCET	1488		ciav dej	ciav dej 
+1412	25-23-51-1	76151732599367263	White Hmong	hmon1333	the sink	SINK (BASIN)	915		dab dej	dab dej 
+1413	25-23-52-1	76151732347930203	White Hmong	hmon1333	the toilet	TOILET	219		qhov viv	qhov viv 
+1414	25-23-53-1	76151732575393167	White Hmong	hmon1333	the mattress	MATTRESS	105		txaj	txaj 
+1415	25-23-3-1	76151732147769619	White Hmong	hmon1333	the government	GOVERNMENT	815		nom tswv	nom tswv 
+1416	25-23-31-1	76151732531880691	White Hmong	hmon1333	the president	PRESIDENT	899		thawj coj	thawj coj 
+1417	25-23-33-1	76151732268878171	White Hmong	hmon1333	the police	POLICE	656		tub ceev xwm	tub ceev xwm 
+1418	25-23-34-1	76151732848655991	White Hmong	hmon1333	the driver's license	DRIVER'S LICENSE	599		ntawv tsav tsheb	ntawv tsav tsheb 
+1419	25-23-37-1	76151732495766417	White Hmong	hmon1333	the crime	CRIME	1066		txim	txim 
+1420	25-23-38-1	7615173269802367	White Hmong	hmon1333	the election	ELECTION	240		kev xaiv tsa	kev xaiv tsa 
+1421	25-23-41-1	7615173263007359	White Hmong	hmon1333	the postage stamp	POSTAGE STAMP	596		xab tias	xab tias 
+1422	25-23-42-1	76151732733367165	White Hmong	hmon1333	the letter	LETTER	1612		ntawv	ntawv 
+1423	25-23-44-1	76151732829095138	White Hmong	hmon1333	the bank	BANK	1284		txhab cia nyiaj	txhab cia nyiaj 
+1424	25-23-54-1	761517326405323	White Hmong	hmon1333	the tin/can	CAN	1051		kos poom, kas poom	kos poom 
+1425	25-23-54-2	761517326405323	White Hmong	hmon1333	the tin/can	CAN	1051		kos poom, kas poom	kas poom 
+1426	25-23-55-1	76151732148738819	White Hmong	hmon1333	the screw	SCREW	1802		ntsia thawv	ntsia thawv 
+1427	25-23-555-1	76151732674839524	White Hmong	hmon1333	the screwdriver	SCREWDRIVER	836		tus ntswj ntsia hlau	tus ntswj ntsia hlau 
+1428	25-23-56-1	76151732530909699	White Hmong	hmon1333	the bottle	BOTTLE	1321		hwj, fwj	hwj 
+1429	25-23-56-2	76151732530909699	White Hmong	hmon1333	the bottle	BOTTLE	1321		hwj, fwj	fwj 
+1430	25-23-565-1	76151732125036074	White Hmong	hmon1333	the candy/sweets	CANDY	874		(khob) noom	(khob) noom 
+1431	25-23-24-1	76151732994796565	White Hmong	hmon1333	the spectacles/glasses	SPECTACLES	1898		tsom iav	tsom iav 
+1432	25-23-57-1	76151732688894823	White Hmong	hmon1333	the plastic	PLASTIC	654		yaas	yaas 
+1433	25-23-575-1	76151732358563663	White Hmong	hmon1333	the bomb	BOMB	1804		foob pob, hoob pob	foob pob 
+1434	25-23-575-2	76151732358563663	White Hmong	hmon1333	the bomb	BOMB	1804		foob pob, hoob pob	hoob pob 
+1435	25-23-59-1	76151732892433355	White Hmong	hmon1333	the cigarette	CIGARETTE	969		luam yeeb	luam yeeb 
+1436	25-23-62-1	76151732485664458	White Hmong	hmon1333	the film/movie	MOVIE	216		naam	naam 
+1437	25-23-64-1	7615173226177002	White Hmong	hmon1333	the song	SONG	1096		nkauj	nkauj 
+1438	25-23-64-2	76151732725081062	White Hmong	hmon1333	the song	SONG	1096		phee	phee 
+1439	25-23-6-1	76151732257831820	White Hmong	hmon1333	the newspaper	NEWSPAPER	1298		ntawv xov xwm	ntawv xov xwm 
+1440	25-23-385-1	7615173259614678	White Hmong	hmon1333	the address	ADDRESS	591		chaw nyob	chaw nyob 
+1441	25-23-39-1	7615173230618762	White Hmong	hmon1333	the number	NUMBER	1356		leb	leb 
+1442	25-23-155-1	76151732681885525	White Hmong	hmon1333	the train	TRAIN	900		tsheb nqaj hlau	tsheb nqaj hlau 
+1443	25-23-36-1	76151732440645167	White Hmong	hmon1333	the birth certificate	BIRTH CERTIFICATE	397		ntawv yug	ntawv yug 
+1444	25-23-18-1	76151732543540285	White Hmong	hmon1333	to brake	BRAKE	966		nres	nres 
+1445	25-23-195-1	76151732383775073	White Hmong	hmon1333	the petroleum	PETROLEUM	650		roj av	roj av 
+1446	25-23-185-1	76151732340474052	White Hmong	hmon1333	the motor	MOTOR	110		tshuab (2)	tshuab (2) 
+1447	25-23-19-1	76151732340474052	White Hmong	hmon1333	the machine	MACHINE	144		tshuab (2)	tshuab (2) 
+1448	25-23-13-1	76151732479552919	White Hmong	hmon1333	the bicycle	BICYCLE	747		luv thij	luv thij 
+1449	25-23-13-2	76151732782449752	White Hmong	hmon1333	the bicycle	BICYCLE	747		nees zab	nees zab 
+1450	25-23-395-1	7615173222663810	White Hmong	hmon1333	the street	STREET	1362		kev	kev 
+1451	25-19-445-1	76151732958193902	White Hmong	hmon1333	to liberate	LIBERATE	37		tso	tso 
+1452	25-19-565-1	76151732287665556	White Hmong	hmon1333	to invite	INVITE	1611		caw	caw 
+1453	25-23-35-1	7615173241141186	White Hmong	hmon1333	the license plate	LICENSE PLATE	1790		paib tsheb	paib tsheb 
+1454	25-23-43-1	76151732733367165	White Hmong	hmon1333	the postcard	POSTCARD	1497		ntawv	ntawv 
+1455	25-24-01-1	76151732222922316	White Hmong	hmon1333	to be	BE	1579		yog	yog 
+1456	25-24-01-2	7615173278823297	White Hmong	hmon1333	to be	BE	1579		nyob	nyob 
+1457	25-24-05-1	76151732129517145	White Hmong	hmon1333	through	THROUGH	97		dhau	dhau 
+1458	25-24-13-1	76151732782620809	White Hmong	hmon1333	same	SAME	200		ib yam	ib yam 
+1459	25-24-13-2	84131826453969152	White Hmong	hmon1333	same	SAME	200		tib yam	tib yam 
+1460	25-24-06-1	76151732366729995	White Hmong	hmon1333	not	NOT	1240		tsis	tsis 
+1461	25-24-07-1	7615173242715962	White Hmong	hmon1333	this	THIS	1214		no, nov	no 
+1462	25-24-07-2	7615173242715962	White Hmong	hmon1333	this	THIS	1214		no, nov	nov 
+1463	25-24-08-1	76151732999485075	White Hmong	hmon1333	that	THAT	78		ntawd	ntawd 
+1464	25-24-09-1	76151732979473402	White Hmong	hmon1333	here	HERE	136		qhov no	qhov no 
+1465	25-24-1-1	76151732999485075	White Hmong	hmon1333	there	THERE	1937		ntawd	ntawd 
+1466	25-24-11-1	76151732204246463	White Hmong	hmon1333	other	OTHER	197		lwm	lwm 
+1467	25-4-493-1	76151732157456112	White Hmong	hmon1333	the vagina	VAGINA	1836		pim	pim 
+1468	25-4-493-2	76151732969379724	White Hmong	hmon1333	the vagina	VAGINA	1836		chaw mos	chaw mos 
+1469	25-23-9-1	76151732931237137	White Hmong	hmon1333	the tea	TEA	1373		tshuaj yej	tshuaj yej 
+1470	25-23-91-1	76151732921632758	White Hmong	hmon1333	the coffee	COFFEE	1299		kas fes	kas fes 
+1471	25-24-12-1	76151732204246463	White Hmong	hmon1333	next	NEXT	1354		lwm	lwm 
+1472	25-3-863-1	76151732733377691	White Hmong	hmon1333	the hare	HARE	1190		luav	luav 
+1473	25-3-865-1	76151732214412529	White Hmong	hmon1333	the quail	QUAIL	1893		w	w 
+1474	25-3-869-1	76151732808785803	White Hmong	hmon1333	the squirrel	SQUIRREL	1628		nas ncuav	nas ncuav 
+1475	25-4-465-1	76151732469041072	White Hmong	hmon1333	the sinew or tendon	TENDON	1137		leeg	leeg 
+1476	25-7-67-1	76151732817274948	White Hmong	hmon1333	to tan	TAN	247		lom	lom 
+1477	25-3-8112-1	76151732600766046	White Hmong	hmon1333	the body louse	BODY LOUSE	311		tuv	tuv 
+1478	25-4-494-1	76151732660999156	White Hmong	hmon1333	the vulva	VULVA	1837		paum	paum 
+1479	25-4-494-2	76151732969379724	White Hmong	hmon1333	the vulva	VULVA	1837		chaw mos	chaw mos 
+1480	25-9-93-1	76151732417655987	White Hmong	hmon1333	the whetstone	WHETSTONE	295		zeb-ho	zeb-ho 
+1481	25-7-65-1	76151732519119025	White Hmong	hmon1333	the camp	CAMP	1105		yeej thoj nam	yeej thoj nam 
+1482	25-8-28-1	76151732291544051	White Hmong	hmon1333	the digging stick (=yamstick)	DIGGING STICK	339		pas cog nplej	pas cog nplej 
+1483	25-3-833-1	76151732300379424	White Hmong	hmon1333	the prawns or shrimp	PRAWNS	238		cw	cw 
+1484	25-3-834-1	76151732981514070	White Hmong	hmon1333	the termites	TERMITE	883		ntsaum kab-rwg	ntsaum kab-rwg 
+1485	25-3-835-1	76151732419611420	White Hmong	hmon1333	the tick	TICK	1527		zuam	zuam 
+1486	25-3-89-1	76151732973136115	White Hmong	hmon1333	the anteater	ANTEATER	181		kum zaug	kum zaug 
+1487	25-7-66-1	76151732422604718	White Hmong	hmon1333	the hammock	HAMMOCK	2019		txaj viav-vias	txaj viav-vias 
+1488	25-8-911-1	76151732378279432	White Hmong	hmon1333	the millet or sorghum	MILLET	931		pias	pias 
+1489	25-9-9-1	76151732281606353	White Hmong	hmon1333	to draw water	DRAW (WATER)	1911		ce	ce 
+1490	25-9-91-1	76151732501675082	White Hmong	hmon1333	the peg	PEG	361		pas	pas 
+1491	25-10-58-1	76151732582080737	White Hmong	hmon1333	to go or return home	RETURN HOME	142		los (2)	los (2) 
+1492	25-3-917-1	76151732503119008	White Hmong	hmon1333	the buffalo	BUFFALO	934		twm (1)	twm (1) 
+1493	25-1-831-1	76151732941572833	White Hmong	hmon1333	the steam	STEAM	1193		hws	hws 
+1494	25-2-4711-1	76151732903051272	White Hmong	hmon1333	the grandparents	GRANDPARENTS	305		pog yawg	pog yawg 
+1495	25-2-4711-2	76151732761325166	White Hmong	hmon1333	the grandparents	GRANDPARENTS	305		niam tais yawm txiv	niam tais yawm txiv 
+1496	25-2-5-1	76151732289217868	White Hmong	hmon1333	the grandchild	GRANDCHILD	1617		xeeb-ntxwv	xeeb-ntxwv 
+1497	25-2-622-1	76151732763564115	White Hmong	hmon1333	the parents-in-law	PARENTS-IN-LAW	306		niam txiv	niam txiv 
+1498	25-2-931-1	76151732531717676	White Hmong	hmon1333	he	HE	1211		nws	nws 
+1499	25-2-932-1	76151732531717676	White Hmong	hmon1333	she	SHE	1834		nws	nws 
+1500	25-2-933-1	76151732531717676	White Hmong	hmon1333	it	IT	169		nws	nws 
+1501	25-4-741-1	76151732516456297	White Hmong	hmon1333	the life	LIFE	210		txoj-sia	txoj-sia 
+1502	25-4-771-1	76151732299112651	White Hmong	hmon1333	the carcass	CARCASS	1770		tsiaj tuag	tsiaj tuag 
+1503	25-4-844-1	76151732548432297	White Hmong	hmon1333	the disease	DISEASE	1986		kab mob	kab mob 
+1504	25-7-232-1	76151732875946085	White Hmong	hmon1333	the padlock	PADLOCK	336		ntsuas phoo	ntsuas phoo 
+1505	25-8-121-1	76151732999398728	White Hmong	hmon1333	the paddy	PADDY FIELD	140		liaj	liaj 
+1506	25-11-29-1	7615173239760515	White Hmong	hmon1333	to damage	DAMAGE	1116		ua puas tsuaj	ua puas tsuaj 
+1507	25-12-081-1	76151732955454429	White Hmong	hmon1333	above	ABOVE	1741		saum	saum 
+1508	25-13-231-1	76151732149121633	White Hmong	hmon1333	the piece	PIECE	594		ib-qho	ib-qho 
+1509	25-13-331-1	76151732189344563	White Hmong	hmon1333	alone	ALONE	1964		ib-leeg	ib-leeg 
+1510	25-14-251-1	7615173267897552	White Hmong	hmon1333	the beginning	BEGINNING	1557		chiv keeb	chiv keeb 
+1511	25-14-411-1	76151732739191081	White Hmong	hmon1333	the day(2)	DAY (NOT NIGHT)	1225		hnub	hnub 
+1512	25-22-131-1	76151732509273051	White Hmong	hmon1333	the church	CHURCH	1349		tuam tsev	tuam tsev 
+1513	25-4-7501-1	7615173259320434	White Hmong	hmon1333	dead	DEAD	1625		tuag	tuag 
+1514	25-4-8541-1	76151732992809529	White Hmong	hmon1333	to scratch	SCRATCH	1436		khawb	khawb 
+1515	25-9-111-1	76151732170044210	White Hmong	hmon1333	to make	MAKE	734		ua	ua 
+1516	25-4-431-1	76151732281614788	White Hmong	hmon1333	the belly	BELLY	1251		plab	plab 
+1517	25-9-311-1	76151732322413795	White Hmong	hmon1333	to wipe	WIPE	1454		so (2)	so (2) 
+1518	25-1-775-1	76151732364768682	White Hmong	hmon1333	to freeze	FREEZE	1431		khov	khov 
+1519	25-24-04-1	76151732107051423	White Hmong	hmon1333	with	WITH	1340		nrog (2)	nrog (2) 
+1520	25-12-012-1	76151732918648512	White Hmong	hmon1333	in	IN	1460		hauv	hauv 
+1521	25-10-99903-1	76151732751674243	White Hmong	hmon1333	to carry on the back				ev	ev 
+1522	25-10-99903-2	76151732637769268	White Hmong	hmon1333	to carry on the back				ris (2)	ris (2) 

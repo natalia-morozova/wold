@@ -1,0 +1,2111 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	23-1-1-1	7681752449881593	Thai	thai1261	the world	WORLD	965	โลก	lôok	lôok 
+2	23-1-1-2	7681752656636718	Thai	thai1261	the world	WORLD	965	หล้า	lâa (1)	lâa (1) 
+3	23-1-1-3	7681752680443950	Thai	thai1261	the world	WORLD	965	พื้น	phʉ́ʉn	phʉ́ʉn 
+4	23-1-1-4	7681752891711584	Thai	thai1261	the world	WORLD	965	พิภพ	phíphóp	phíphóp 
+5	23-1-1-5	7681752433272612	Thai	thai1261	the world	WORLD	965	ภพ	phóp (1)	phóp (1) 
+6	23-1-21-1	7681752660643246	Thai	thai1261	the land	LAND	626	บก	bòk	bòk 
+7	23-1-212-1	7681752390507735	Thai	thai1261	the soil	EARTH (SOIL)	1228	ดิน	din	din 
+8	23-1-213-1	7681752720643790	Thai	thai1261	the dust	DUST	2	ฝุ่น	fùn	fùn 
+9	23-1-213-2	843028952819991	Thai	thai1261	the dust	DUST	2	ละออง	la?ɔɔŋ	la?ɔɔŋ 
+10	23-1-213-3	7627110754053328	Thai	thai1261	the dust	DUST	2	ผง	phǒŋ	phǒŋ 
+11	23-1-214-1	7681752853074413	Thai	thai1261	the mud	MUD	640	โคลน	khloon	khloon 
+12	23-1-214-2	7627114102625232	Thai	thai1261	the mud	MUD	640	ตม	tom	tom 
+13	23-1-214-3	7627115697408060	Thai	thai1261	the mud	MUD	640	หล่ม	lòm	lòm 
+14	23-1-215-1	7681752724736729	Thai	thai1261	the sand	SAND	671	ทราย	saay (1)	saay (1) 
+15	23-1-22-1	7681752993892210	Thai	thai1261	the mountain or hill	MOUNTAIN OR HILL	2118	เขา	khǎo	khǎo 
+16	23-1-22-2	7681752404681455	Thai	thai1261	the mountain or hill	MOUNTAIN OR HILL	2118	ภู	phuu	phuu 
+17	23-1-22-3	7681752139602488	Thai	thai1261	the mountain or hill	MOUNTAIN OR HILL	2118	ภูเขา	phuukhǎo	phuukhǎo 
+18	23-1-22-4	7681752353290988	Thai	thai1261	the mountain or hill	MOUNTAIN OR HILL	2118	ดอย	dɔɔy	dɔɔy 
+19	23-1-22-5	7681752343749822	Thai	thai1261	the mountain or hill	MOUNTAIN OR HILL	2118	โคก	khôok	khôok 
+20	23-1-222-1	7681752279799745	Thai	thai1261	the cliff or precipice	PRECIPICE	618	ผา	phǎa	phǎa 
+21	23-1-23-1	7681752616787409	Thai	thai1261	the plain	PLAIN	652	ทุ่ง	thûŋ	thûŋ 
+22	23-1-24-1	7681752500715868	Thai	thai1261	the valley	VALLEY	921	หุบเขา	hùpkhǎo	hùpkhǎo 
+23	23-1-25-1	7681752977487123	Thai	thai1261	the island	ISLAND	622	เกาะ	kɔ̀	kɔ̀ 
+24	23-1-26-1	7681752516480538	Thai	thai1261	the mainland	MAINLAND	166	แผ่นดินใหญ่	phàendinyày	phàendinyày 
+25	23-1-27-1	7681752690432435	Thai	thai1261	the shore	SHORE	113	ฝั่ง	fàŋ	fàŋ 
+26	23-1-28-1	7681752479580832	Thai	thai1261	the cave	CAVE	1155	ถ้ำ	thâm	thâm 
+27	23-1-31-1	7681752832550386	Thai	thai1261	the water	WATER	948	นำ้	náam	náam 
+28	23-1-31-2	77131622282168117	Thai	thai1261	the water	WATER	948	ชล	chon	chon 
+29	23-1-31-3	77131627455674023	Thai	thai1261	the water	WATER	948	อุทก	?ùthók	?ùthók 
+30	23-1-31-4	7713182129156782	Thai	thai1261	the water	WATER	948	ธารา	thaaraa	thaaraa 
+31	23-1-32-1	7681752377294569	Thai	thai1261	the sea	SEA	1474	ทะเล	thalee	thalee 
+32	23-1-322-1	7681752189844664	Thai	thai1261	calm	CALM	258	เรียบ	rîap	rîap 
+33	23-1-323-1	7681752136232415	Thai	thai1261	rough(2)	ROUGH (OF SEA)	259	เรียบ	miikhlʉ̂ʉn	miikhlʉ̂ʉn 
+34	23-1-324-1	7681752907220675	Thai	thai1261	the foam	FOAM	1768	ฟอง	fɔɔŋ	fɔɔŋ 
+35	23-1-329-1	7681752533568136	Thai	thai1261	the ocean	OCEAN	645	มหาสมุทร	mahǎasamùt	mahǎasamùt 
+36	23-1-33-1	7681752182738285	Thai	thai1261	the lake	LAKE	624	ทะเลสาบ	thaleesàap	thaleesàap 
+37	23-1-34-1	7681752352385763	Thai	thai1261	the bay	BAY	663	อ่าว	?àaw	?àaw 
+38	23-1-341-1	7681752254645030	Thai	thai1261	the lagoon	LAGOON	623	ลากูน	laakuun	laakuun 
+39	23-1-342-1	7681752195832927	Thai	thai1261	the reef	REEF	660	แนวปะการัง	naewpakaaraŋ	naewpakaaraŋ 
+40	23-1-342-2	77131756775358309	Thai	thai1261	the reef	REEF	660	หินโสโครก	hǐnsǒokhrôok	hǐnsǒokhrôok 
+41	23-1-343-1	768175246389014	Thai	thai1261	the cape	CAPE	1662	แหลม	lǎeaem	lǎeaem 
+42	23-1-35-1	7681752964089191	Thai	thai1261	the wave	WAVE	978	คลื่น	khlʉ̂ʉn	khlʉ̂ʉn 
+43	23-1-35-2	76271117980177136	Thai	thai1261	the wave	WAVE	978		fɔ̂ɔŋ	fɔ̂ɔŋ 
+44	23-1-352-1	7681752259889416	Thai	thai1261	the tide	TIDE	891	กระแสน้ำ	krasǎenáam	krasǎenáam 
+45	23-1-353-1	7681752189013181	Thai	thai1261	the low tide	LOW TIDE	1026	น้ำลง	náamloŋ	náamloŋ 
+46	23-1-354-1	7681752174024195	Thai	thai1261	the high tide	HIGH TIDE	613	น้ำขึ้น	naamkhʉ̂n	naamkhʉ̂n 
+47	23-1-36-1	7681752904808771	Thai	thai1261	the river or stream	RIVER	666	แม่น้ำ	mâenáam	mâenáam 
+48	23-1-362-1	7681752759447281	Thai	thai1261	the whirlpool	WHIRLPOOL	1982	วังวน	waŋwon	waŋwon 
+49	23-1-37-1	7681752813442244	Thai	thai1261	the spring or well	SPRING OR WELL	2144	บ่อ	bɔ̀ɔ (1)	bɔ̀ɔ (1) 
+50	23-1-38-1	7681752218745251	Thai	thai1261	the swamp	SWAMP	1145	หนอง	nɔ̌ɔŋ (1)	nɔ̌ɔŋ (1) 
+51	23-1-39-1	7681752466986679	Thai	thai1261	the waterfall	WATERFALL	943	น้ำตก	náamtòk	náamtòk 
+52	23-1-39-2	7681752676102649	Thai	thai1261	the waterfall	WATERFALL	943	ตาด	tàat	tàat 
+53	23-1-41-1	7681752701570270	Thai	thai1261	the woods or forest	FOREST	420	ป่า	pàa	pàa 
+54	23-1-41-2	7713182693685243	Thai	thai1261	the woods or forest	FOREST	420	ดง	doŋ	doŋ 
+55	23-1-41-3	77131834578303423	Thai	thai1261	the woods or forest	FOREST	420	ไพร	phray	phray 
+56	23-1-43-1	7681752638435247	Thai	thai1261	the wood	WOOD	1803	ไม้	máay	máay 
+57	23-1-44-1	7681752296889104	Thai	thai1261	the stone or rock	STONE OR ROCK	2125	หิน	hǐn	hǐn 
+58	23-1-45-1	7681752136804701	Thai	thai1261	the earthquake	EARTHQUAKE	6	แผ่นดินไหว	phàendinwǎy	phàendinwǎy 
+59	23-1-51-1	7681753561986275	Thai	thai1261	the sky	SKY	1732	ฟ้า	fáa	fáa 
+60	23-1-52-1	7681752115774035	Thai	thai1261	the sun	SUN	1343	พระอาทิตย์	phrá?aathít	phrá?aathít 
+61	23-1-52-2	7681752679516654	Thai	thai1261	the sun	SUN	1343	ตะวัน	tawan	tawan 
+62	23-1-52-3	77121913642150187	Thai	thai1261	the sun	SUN	1343	สุริยา	suriyaa	suriyaa 
+63	23-1-52-4	7712191683628468	Thai	thai1261	the sun	SUN	1343	ทินกร	thinnakɔɔn	thinnakɔɔn 
+64	23-1-52-5	77131856400853129	Thai	thai1261	the sun	SUN	1343	ไถง	thaŋǎy	thaŋǎy 
+65	23-1-53-1	7681752172008880	Thai	thai1261	the moon	MOON	1313	พระจันทร์	phrácan	phrácan 
+66	23-1-53-2	768175289407300	Thai	thai1261	the moon	MOON	1313	เดือน	dʉan	dʉan 
+67	23-1-53-3	7681752425834473	Thai	thai1261	the moon	MOON	1313	แข	khǎeae	khǎeae 
+68	23-1-53-4	768175254600113	Thai	thai1261	the moon	MOON	1313	บุหลัน	bʉ̀lǎn	bʉ̀lǎn 
+69	23-1-54-1	7681752236528883	Thai	thai1261	the star	STAR	1430	ดาว	daaw	daaw 
+70	23-1-54-2	7681752375048602	Thai	thai1261	the star	STAR	1430	ดารา	daaraa	daaraa 
+71	23-1-55-1	7681752167145432	Thai	thai1261	the lightning	LIGHTNING	1654	ฟ้าผ่า	fáaphàa	fáaphàa 
+72	23-1-56-1	7681752675548437	Thai	thai1261	the thunder	THUNDER	1150	ฟ้าร้อง	fáarɔ́ɔŋ	fáarɔ́ɔŋ 
+73	23-1-57-1	7681752449007749	Thai	thai1261	the bolt of lightning	BOLT (OF LIGHTNING)	2007	ฟ้าแลบ	fáalâep	fáalâep 
+74	23-1-58-1	7681752479422807	Thai	thai1261	the storm	STORM	858	พายุ	phaayú	phaayú 
+75	23-1-59-1	7681752254637111	Thai	thai1261	the rainbow	RAINBOW	1733	รุ้ง	rúŋ (1)	rúŋ (1) 
+76	23-1-61-1	7681752194091561	Thai	thai1261	the light	LIGHT (RADIATION)	630	แสง	sǎeaeŋ	sǎeaeŋ 
+77	23-1-62-1	7681752987071419	Thai	thai1261	the darkness	DARKNESS	11	ความมืด	khwaammʉ̂ʉt	khwaammʉ̂ʉt 
+78	23-1-63-1	7681752525162553	Thai	thai1261	the shade or shadow	SHADE	1388	เงา	ŋao	ŋao 
+79	23-1-63-2	7681752153951548	Thai	thai1261	the shade or shadow	SHADE	1388	ฉายา	chǎayaa	chǎayaa 
+80	23-1-64-1	7681752747113196	Thai	thai1261	the dew	DEW	1977	น้ำค้าง	náamkháaŋ	náamkháaŋ 
+81	23-1-71-1	7681752687883804	Thai	thai1261	the air	AIR	27	อากาศ	?aakàat	?aakàat 
+82	23-1-72-1	7681752210167082	Thai	thai1261	the wind	WIND	960	ลม	lom	lom 
+83	23-1-72-2	7791355543049521	Thai	thai1261	the wind	WIND	960	วาตะ	waatà	waatà 
+84	23-1-73-1	7681752982050547	Thai	thai1261	the cloud	CLOUD	1489	เมฆ	mêek	mêek 
+85	23-1-74-1	7681752356652561	Thai	thai1261	the fog	FOG	249	หมอก	mɔ̀ɔk	mɔ̀ɔk 
+86	23-1-75-1	7681752221909207	Thai	thai1261	the rain	RAIN (PRECIPITATION)	658	ฝน	fǒn	fǒn 
+87	23-1-76-1	7681752291872185	Thai	thai1261	the snow	SNOW	784	หิมะ	himá	himá 
+88	23-1-77-1	7681752909298246	Thai	thai1261	the ice	ICE	617	น้ำแข็ง	náamkhǎeŋ	náamkhǎeŋ 
+89	23-1-78-1	7681752687883804	Thai	thai1261	the weather	WEATHER	952	อากาศ	?aakàat	?aakàat 
+90	23-1-78-2	7681752942509444	Thai	thai1261	the weather	WEATHER	952	ดินฟ้าอากาศ	dinfáa-aakàat	dinfáa-aakàat 
+91	23-1-81-1	7681752892962518	Thai	thai1261	the fire	FIRE	221	ไฟ	fay	fay 
+92	23-1-82-1	768175233717716	Thai	thai1261	the flame	FLAME	889	เปลว	pleew	pleew 
+93	23-1-83-1	7681752746180712	Thai	thai1261	the smoke	SMOKE (EXHAUST)	778	ควัน	khwan	khwan 
+94	23-1-84-1	7681752678868611	Thai	thai1261	the ash	ASH	646	เถ้า	thâo (1)	thâo (1) 
+95	23-1-841-1	7681752965995856	Thai	thai1261	the embers	EMBERS	67	ถ่านคุ	thàankhú่	thàankhú่ 
+96	23-1-851-1	768175282066606	Thai	thai1261	to burn(1)	BURN (SOMETHING)	141	เผา	phǎo	phǎo 
+97	23-1-852-1	7681752530019338	Thai	thai1261	to burn(2)	BURNING	1428	ไหม้	mây (1)	mây (1) 
+98	23-1-86-1	7681752188517640	Thai	thai1261	to light	LIGHT (IGNITE)	737	จุด	cùt	cùt 
+99	23-1-861-1	7681752802404840	Thai	thai1261	to extinguish	EXTINGUISH	127	ดับ	dàp	dàp 
+100	23-1-87-1	768175217728651	Thai	thai1261	the match	MATCH	1133	ไม้ขีด	máaykhìit	máaykhìit 
+101	23-1-88-1	7681752363890495	Thai	thai1261	the firewood	FIREWOOD	10	ฟืน	fʉʉn	fʉʉn 
+102	23-1-89-1	7681752827772271	Thai	thai1261	the charcoal	CHARCOAL	1188	ถ่าน	thàan	thàan 
+103	23-2-1-1	768175280031507	Thai	thai1261	the person	PERSON	683	คน	khon (1)	khon (1) 
+104	23-2-1-2	76271157236586830	Thai	thai1261	the person	PERSON	683	ผู้	phûu	phûu 
+105	23-2-21-1	7681752879330279	Thai	thai1261	the man	MAN	1554	ผู้ชาย	phûuchaay	phûuchaay 
+106	23-2-22-1	7681752103816784	Thai	thai1261	the woman	WOMAN	962	ผู้หญิง	phûuyǐŋ	phûuyǐŋ 
+107	23-2-22-2	7681752929404219	Thai	thai1261	the woman	WOMAN	962	สตรี	satrii	satrii 
+108	23-2-22-3	7681752317016153	Thai	thai1261	the woman	WOMAN	962	อิสตรี	?ìtsàtrii	?ìtsàtrii 
+109	23-2-22-4	7681752833026308	Thai	thai1261	the woman	WOMAN	962	อิตถี	?ìtthǐi	?ìtthǐi 
+110	23-2-23-1	7681752427269212	Thai	thai1261	male(1)	MALE (OF ANIMAL)	2263	ชาย	chaay (1)	chaay (1) 
+111	23-2-24-1	7681752826062412	Thai	thai1261	female(1)	FEMALE (OF PERSON)	2260	หญิง	yǐŋ	yǐŋ 
+112	23-2-25-1	7681752122274028	Thai	thai1261	the boy	BOY	1366	เด็กผู้ชาย	dèkphûuchaay	dèkphûuchaay 
+113	23-2-251-1	7681752915403195	Thai	thai1261	the young man	YOUNG MAN	76	หนุ่ม	nùm	nùm 
+114	23-2-251-2	7731443405738926	Thai	thai1261	the young man	YOUNG MAN	76	บ่าว	bàaw	bàaw 
+115	23-2-26-1	7681752820676613	Thai	thai1261	the girl	GIRL	1646	เด็กผู้หญิง	dèkphûuyǐŋ	dèkphûuyǐŋ 
+116	23-2-261-1	7681752343043968	Thai	thai1261	the young woman	YOUNG WOMAN	77	สาว	sǎaw	sǎaw 
+117	23-2-27-1	7681753755977975	Thai	thai1261	the child(1)	CHILD (YOUNG HUMAN)	1304	เด็ก	dèk	dèk 
+118	23-2-28-1	7681752189473032	Thai	thai1261	the baby	BABY	1289	ทารก	thaarók	thaarók 
+119	23-2-28-2	7627124488271814	Thai	thai1261	the baby	BABY	1289	แง	ŋaeae	ŋaeae 
+120	23-2-31-1	7681752677673928	Thai	thai1261	the husband	HUSBAND	1200	สามี	sǎamii	sǎamii 
+121	23-2-31-2	7681752101145762	Thai	thai1261	the husband	HUSBAND	1200	ผัว	phǔa	phǔa 
+122	23-2-31-3	7681752833686368	Thai	thai1261	the husband	HUSBAND	1200	สวามี	sawǎamii	sawǎamii 
+123	23-2-32-1	7681752158737773	Thai	thai1261	the wife	WIFE	1199	ภรรยา	phanrayaa	phanrayaa 
+124	23-2-32-2	7681752336830748	Thai	thai1261	the wife	WIFE	1199	ภริยา	pháríyaa	pháríyaa 
+125	23-2-32-3	7681752381319561	Thai	thai1261	the wife	WIFE	1199	เมีย	mia	mia 
+126	23-2-33-1	7681752760988066	Thai	thai1261	to marry	MARRY	203	แต่งงาน	tàeŋŋaan	tàeŋŋaan 
+127	23-2-33-2	7681752132562652	Thai	thai1261	to marry	MARRY	203	สมรส	sǒmrót	sǒmrót 
+128	23-2-34-1	7681752416388063	Thai	thai1261	the wedding	WEDDING	1259	งานแต่งงาน	ŋaantàeŋŋaan	ŋaantàeŋŋaan 
+129	23-2-341-1	7681752289795690	Thai	thai1261	the divorce	DIVORCE	1134	การหย่า	kaanyàa	kaanyàa 
+130	23-2-35-1	7681752326938384	Thai	thai1261	the father	FATHER	1217	พ่อ	phɔ̂ɔ	phɔ̂ɔ 
+131	23-2-35-2	7681752153243532	Thai	thai1261	the father	FATHER	1217	บิดา	bìdaa	bìdaa 
+132	23-2-35-3	768175254778205	Thai	thai1261	the father	FATHER	1217	บิดร	bìdɔɔn	bìdɔɔn 
+133	23-2-35-4	7681752360140100	Thai	thai1261	the father	FATHER	1217	ชนก	chanók	chanók 
+134	23-2-36-1	768175222960240	Thai	thai1261	the mother	MOTHER	1216	แม่	mâeae	mâeae 
+135	23-2-36-2	7681752748955285	Thai	thai1261	the mother	MOTHER	1216	มารดา	maandaa	maandaa 
+136	23-2-36-3	768175250133413	Thai	thai1261	the mother	MOTHER	1216	ชนนี	chonnanii	chonnanii 
+137	23-2-37-1	7681752384582942	Thai	thai1261	the parents	PARENTS	505	พ่อแม่	phɔ̂ɔmâeae	phɔ̂ɔmâeae 
+138	23-2-37-2	7681752347704675	Thai	thai1261	the parents	PARENTS	505	บิดามารดา	bìdaamaandaa	bìdaamaandaa 
+139	23-2-37-3	7681752836086919	Thai	thai1261	the parents	PARENTS	505	บุพการี	bùpphakaarii	bùpphakaarii 
+140	23-2-41-1	7681752327300728	Thai	thai1261	the son	SON	1620	ลูกชาย	lûukchaay	lûukchaay 
+141	23-2-41-2	7681752359503031	Thai	thai1261	the son	SON	1620	บุตร	bùt	bùt 
+142	23-2-42-1	7681752897316949	Thai	thai1261	the daughter	DAUGHTER	1357	ลูกสาว	lûuksǎaw	lûuksǎaw 
+143	23-2-42-2	7681752799141800	Thai	thai1261	the daughter	DAUGHTER	1357	ธิดา	thídaa	thídaa 
+144	23-2-42-3	7681752989837221	Thai	thai1261	the daughter	DAUGHTER	1357	บุตรี	bùttrii	bùttrii 
+145	23-3-662-1	7681753548503171	Thai	thai1261	the porpoise or dolphin	DOLPHIN	1479	โลมา	loomaa (1)	loomaa (1) 
+146	23-2-43-1	7681752552576905	Thai	thai1261	the child(2)	CHILD (DESCENDANT)	1801	ลูก	lûuk (1)	lûuk (1) 
+147	23-2-44-1	7681752300909418	Thai	thai1261	the brother	BROTHER	1262	พี่ชาย	phîichaay	phîichaay 
+148	23-2-44-2	7681752124108934	Thai	thai1261	the brother	BROTHER	1262	น้องชาย	nɔ́ɔŋchaay	nɔ́ɔŋchaay 
+149	23-2-45-1	7681752733781329	Thai	thai1261	the sister	SISTER	1263	พี่สาว	phîisǎaw	phîisǎaw 
+150	23-2-45-2	7681752581891145	Thai	thai1261	the sister	SISTER	1263	น้องสาว	nɔ́ɔŋsǎaw	nɔ́ɔŋsǎaw 
+151	23-2-454-1	7681752285831032	Thai	thai1261	the older sister	OLDER SISTER	1758	พี่สาว	phîisǎaw	phîisǎaw 
+152	23-2-455-1	7681752318797118	Thai	thai1261	the younger sister	YOUNGER SISTER	1761	น้องสาว	nɔ́ɔŋsǎaw	nɔ́ɔŋsǎaw 
+153	23-2-456-1	7681752700066036	Thai	thai1261	the sibling	SIBLING	1640	พี่น้อง	phîinɔ́ɔŋ	phîinɔ́ɔŋ 
+154	23-2-458-1	7681752572927533	Thai	thai1261	the twins	TWINS	1005	ฝาแฝด	fǎafàeaet	fǎafàeaet 
+155	23-2-458-2	7681752486033529	Thai	thai1261	the twins	TWINS	1005	แฝด	fàeaet	fàeaet 
+156	23-2-46-1	7681752567625999	Thai	thai1261	the grandfather	GRANDFATHER	1383	ปู่	pùu	pùu 
+157	23-2-46-2	7681752310944050	Thai	thai1261	the grandfather	GRANDFATHER	1383	ตา	taa (1)	taa (1) 
+158	23-2-461-1	7681752175288366	Thai	thai1261	the old man	OLD MAN	406	เฒ่า	thâo (2)	thâo (2) 
+159	23-2-461-2	7681752467020966	Thai	thai1261	the old man	OLD MAN	406	แก่	kàeae	kàeae 
+160	23-2-461-3	7681752242160225	Thai	thai1261	the old man	OLD MAN	406	ชรา	khoncharaa	khoncharaa 
+161	23-2-47-1	7681752120762401	Thai	thai1261	the grandmother	GRANDMOTHER	1496	ย่า	yâa (1)	yâa (1) 
+162	23-2-47-2	7681752967993000	Thai	thai1261	the grandmother	GRANDMOTHER	1496	ยาย	yaay	yaay 
+163	23-2-471-1	7681752289161309	Thai	thai1261	the old woman	OLD WOMAN	907	หญิงชรา	yǐŋcharaa	yǐŋcharaa 
+164	23-2-48-1	7681752969948754	Thai	thai1261	the grandson	GRANDSON	1618	หลานชาย	lǎanchaay	lǎanchaay 
+165	23-2-49-1	7681752806780718	Thai	thai1261	the granddaughter	GRANDDAUGHTER	1619	หลานสาว	lǎansǎaw	lǎansǎaw 
+166	23-2-51-1	7681752489718935	Thai	thai1261	the uncle	UNCLE	1327	ลุง	luŋ	luŋ 
+167	23-2-51-2	7681752541058031	Thai	thai1261	the uncle	UNCLE	1327	อา	?aa	?aa 
+168	23-2-511-1	7681752815027694	Thai	thai1261	the mother's brother	MOTHER'S BROTHER	1984	ลุง	luŋ	luŋ 
+169	23-2-511-2	7681752198212079	Thai	thai1261	the mother's brother	MOTHER'S BROTHER	1984	น้า	náa	náa 
+170	23-2-512-1	7681752628210501	Thai	thai1261	the father's brother	FATHER'S BROTHER	1985	ลุง	luŋ	luŋ 
+171	23-2-512-2	7681752541058031	Thai	thai1261	the father's brother	FATHER'S BROTHER	1985	อา	?aa	?aa 
+172	23-2-52-1	7681752481902208	Thai	thai1261	the aunt	AUNT	1272	น้า	náa	náa 
+173	23-2-52-2	7681752541058031	Thai	thai1261	the aunt	AUNT	1272	อา	?aa	?aa 
+174	23-2-52-3	7681752969536225	Thai	thai1261	the aunt	AUNT	1272	ป้า	pâa	pâa 
+175	23-2-521-1	7681752100450794	Thai	thai1261	the mother's sister	MOTHER'S SISTER	171	ป้า	pâa	pâa 
+176	23-2-521-2	7681752534636438	Thai	thai1261	the mother's sister	MOTHER'S SISTER	171	น้า	náa	náa 
+177	23-2-522-1	7681752873889681	Thai	thai1261	the father's sister	FATHER'S SISTER	170	ป้า	pâa	pâa 
+178	23-2-522-2	7681752541058031	Thai	thai1261	the father's sister	FATHER'S SISTER	170	อา	?aa	?aa 
+179	23-2-53-1	7681752886199728	Thai	thai1261	the nephew	NEPHEW	1063	หลานชาย	lǎanchaay	lǎanchaay 
+180	23-2-54-1	7681752260244212	Thai	thai1261	the niece	NIECE	1642	หลานสาว	lǎansǎaw	lǎansǎaw 
+181	23-2-55-1	7681752517318177	Thai	thai1261	the cousin	COUSIN	1643	ลูกพี่ลูกน้อง	lûukphîilûuknɔ́ɔŋ	lûukphîilûuknɔ́ɔŋ 
+182	23-2-56-1	7681752441190490	Thai	thai1261	the ancestors	ANCESTORS	1669	บรรพบุรุษ	banpháburùt	banpháburùt 
+183	23-2-56-2	7681752262089591	Thai	thai1261	the ancestors	ANCESTORS	1669	ปู่ย่าตายาย	pùuyâataayaay	pùuyâataayaay 
+184	23-2-57-1	7681752634327337	Thai	thai1261	the descendants	DESCENDANTS	490	ลูกหลาน	lûuklǎan	lûuklǎan 
+185	23-2-61-1	7681752367353561	Thai	thai1261	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255	พ่อตา	phɔ̂ɔtaa	phɔ̂ɔtaa 
+186	23-2-611-1	7681752270417675	Thai	thai1261	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254	พ่อสามี	phɔ̂ɔsǎamii	phɔ̂ɔsǎamii 
+187	23-2-611-2	7681752113165172	Thai	thai1261	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254	พ่อผัว	phɔ̂ɔphǔa	phɔ̂ɔphǔa 
+188	23-2-62-1	7681752677463594	Thai	thai1261	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256	แม่ยาย	mâeaeyaay	mâeaeyaay 
+189	23-2-621-1	7681752491593695	Thai	thai1261	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257	แม่สามี	mâeaesǎamii	mâeaesǎamii 
+190	23-2-621-2	768175226874937	Thai	thai1261	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257	แม่ผัว	mâeaephǔa	mâeaephǔa 
+191	23-2-63-1	768175241682700	Thai	thai1261	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267	ลูกเขย	lûukkhə̌əy	lûukkhə̌əy 
+192	23-2-631-1	7681752334216087	Thai	thai1261	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266	ลูกเขย	lûukkhə̌əy	lûukkhə̌əy 
+193	23-2-64-1	768175247393351	Thai	thai1261	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265	ลูกสะใภ้	lûuksapháy	lûuksapháy 
+194	23-2-641-1	768175247206853	Thai	thai1261	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264	ลูกสะใภ้	lûuksapháy	lûuksapháy 
+195	23-2-71-1	7681752390198568	Thai	thai1261	the stepfather	STEPFATHER	237	พ่อเลี้ยง	phɔ̂ɔlíaŋ	phɔ̂ɔlíaŋ 
+196	23-2-71-2	7681752162983795	Thai	thai1261	the stepfather	STEPFATHER	237	พ่อบุญธรรม	phɔ̂ɔbuntham	phɔ̂ɔbuntham 
+197	23-2-72-1	7681752983730784	Thai	thai1261	the stepmother	STEPMOTHER	236	แม่เลี้ยง	mâeaelíaŋ	mâeaelíaŋ 
+198	23-2-72-2	7681752333863592	Thai	thai1261	the stepmother	STEPMOTHER	236	แม่บุญธรรม	mâeaebuntham	mâeaebuntham 
+199	23-2-73-1	7681752919050841	Thai	thai1261	the stepson	STEPSON	1059	ลูกเลี้ยง	lûuklíaŋ	lûuklíaŋ 
+200	23-2-73-2	7681752390828674	Thai	thai1261	the stepson	STEPSON	1059	ลูกบุญธรรม	lûukbuntham	lûukbuntham 
+201	23-2-74-1	7681752840328488	Thai	thai1261	the stepdaughter	STEPDAUGHTER	1058	ลูกเลี้ยง	lûuklíaŋ	lûuklíaŋ 
+202	23-2-74-2	7681752946359641	Thai	thai1261	the stepdaughter	STEPDAUGHTER	1058	ลูกบุญธรรม	lûukbuntham	lûukbuntham 
+203	23-2-75-1	7681752714630783	Thai	thai1261	the orphan	ORPHAN	1149	กำพร้า	kamphráa	kamphráa 
+204	23-2-76-1	7681752760090104	Thai	thai1261	the widow	WIDOW	1756	แม่หม้าย	mâeaemâay	mâeaemâay 
+205	23-2-77-1	7681752442207419	Thai	thai1261	the widower	WIDOWER	1981	พ่อหม้าย	phɔ̂ɔmâay	phɔ̂ɔmâay 
+206	23-2-81-1	7681752412972898	Thai	thai1261	the relatives	RELATIVES	1644	ญาติ	yâat	yâat 
+207	23-2-82-1	7681752688520311	Thai	thai1261	the family	FAMILY	194	ครอบครัว	khrɔ̂ɔpkhrua	khrɔ̂ɔpkhrua 
+208	23-2-82-2	76271237542737432	Thai	thai1261	the family	FAMILY	194	ครัว	khrua	khrua 
+209	23-2-91-1	7681752602044913	Thai	thai1261	I	I	1209	ฉัน	chǎn	chǎn 
+210	23-2-91-2	7681752986604118	Thai	thai1261	I	I	1209	กู	kuu	kuu 
+211	23-2-91-3	7681752170647793	Thai	thai1261	I	I	1209	ข้า	khâa (1)	khâa (1) 
+212	23-2-91-4	7681752703130047	Thai	thai1261	I	I	1209	เรา	rao	rao 
+213	23-2-91-5	7681752909235255	Thai	thai1261	I	I	1209	ดิฉัน	dichǎn	dichǎn 
+214	23-2-91-6	7681752451355353	Thai	thai1261	I	I	1209	ผม	phǒm	phǒm 
+215	23-2-91-7	7681752745480147	Thai	thai1261	I	I	1209	กระผม	kraphǒm	kraphǒm 
+216	23-2-91-8	7681752284937162	Thai	thai1261	I	I	1209	ตู	tuu	tuu 
+217	23-2-91-9	7681752315638708	Thai	thai1261	I	I	1209	ข้าพเจ้า	khâaphacâaw	khâaphacâaw 
+218	23-2-91-10	7681752269475254	Thai	thai1261	I	I	1209	กัน	kan (1)	kan (1) 
+219	23-2-92-1	7681752284156898	Thai	thai1261	you (singular)	THOU	1215	เธอ	thəə	thəə 
+220	23-2-92-2	7681752584548956	Thai	thai1261	you (singular)	THOU	1215	มึง	mʉŋ	mʉŋ 
+221	23-2-92-3	7681752600876817	Thai	thai1261	you (singular)	THOU	1215	เจ้า	câw	câw 
+222	23-2-92-4	768175217756331	Thai	thai1261	you (singular)	THOU	1215	ท่าน	thân	thân 
+223	23-2-92-5	7681752879925646	Thai	thai1261	you (singular)	THOU	1215	คุณ	khun	khun 
+224	23-2-92-6	7681752192411253	Thai	thai1261	you (singular)	THOU	1215	นาย	naay	naay 
+225	23-2-92-7	7681752351398455	Thai	thai1261	you (singular)	THOU	1215	สู	sǔu	sǔu 
+226	23-2-93-1	7681752698649838	Thai	thai1261	he/she/it	HE OR SHE OR IT	262	เขา	kháo	kháo 
+227	23-2-94-1	7681752297914531	Thai	thai1261	we	WE	1212	เรา	rao	rao 
+228	23-2-941-1	7681752783105289	Thai	thai1261	we (inclusive)	WE (INCLUSIVE)	1131	เรา	rao	rao 
+229	23-2-942-1	768175237772636	Thai	thai1261	we (exclusive)	WE (EXCLUSIVE)	1130	เรา	rao	rao 
+230	23-2-95-1	7681752303647420	Thai	thai1261	you (plural)	YOU	1213	พวกคุณ	phûakkhun	phûakkhun 
+231	23-2-96-1	7681752656103385	Thai	thai1261	they	THEY	817	พวกเขา	phûakkháo	phûakkháo 
+232	23-3-11-1	7681752473995079	Thai	thai1261	the animal	ANIMAL	619	สัตว์	sàt	sàt 
+233	23-3-12-1	7681752201970539	Thai	thai1261	male(2)	MALE (OF PERSON)	2261	ตัวผู้	tuaphûu	tuaphûu 
+234	23-3-12-2	7715166324476529	Thai	thai1261	male(2)	MALE (OF PERSON)	2261	ถึก	thʉ̀k	thʉ̀k 
+235	23-3-13-1	7681752734058789	Thai	thai1261	female(2)	FEMALE (OF ANIMAL)	2262	ตัวเมีย	tuamia	tuamia 
+236	23-3-15-1	7681752749786323	Thai	thai1261	the livestock	LIVESTOCK	631	ปศุสัตว์	pasùsàt	pasùsàt 
+237	23-3-16-1	7681752887956069	Thai	thai1261	the pasture	PASTURE	649	ทุ่ง	thûŋ	thûŋ 
+238	23-3-19-1	7681752723766599	Thai	thai1261	the stable or stall	STABLE	851	คอก	khɔ̂ɔk	khɔ̂ɔk 
+239	23-3-19-2	77151621602599043	Thai	thai1261	the stable or stall	STABLE	851	เล้า	láo	láo 
+240	23-3-2-1	7681752157694549	Thai	thai1261	the cattle	CATTLE	1153	ปศุสัตว์	pasùsàt	pasùsàt 
+241	23-3-21-1	768175299221890	Thai	thai1261	the bull	BULL	1008	วัว	wua	wua 
+242	23-3-22-1	7681752738739254	Thai	thai1261	the ox	OX	1169	วัว	wua	wua 
+243	23-3-22-2	7715184168976010	Thai	thai1261	the ox	OX	1169	โค	khoo	khoo 
+244	23-3-23-1	7681752461370229	Thai	thai1261	the cow	COW	1007	วัว	wua	wua 
+245	23-3-25-1	7681752442270211	Thai	thai1261	the sheep	SHEEP	1331	แกะ	kàe (1)	kàe (1) 
+246	23-3-32-1	7681752163691463	Thai	thai1261	the boar	BOAR	1348	หมูป่า	mǔupàa	mǔupàa 
+247	23-3-35-1	7681752350110454	Thai	thai1261	the pig	PIG	1337	หมู	mǔu	mǔu 
+248	23-3-35-2	7681752509367831	Thai	thai1261	the pig	PIG	1337	สุกร	sukɔɔn	sukɔɔn 
+249	23-3-36-1	7681752731185380	Thai	thai1261	the goat	GOAT	1502	แพะ	pháe	pháe 
+250	23-3-41-1	7681752211451721	Thai	thai1261	the horse	HORSE	615	ม้า	máa	máa 
+251	23-3-41-2	7681752226594982	Thai	thai1261	the horse	HORSE	615	อาชา	?aachaa	?aachaa 
+252	23-3-41-3	7681752386807137	Thai	thai1261	the horse	HORSE	615	อัศว	?àtsawá	?àtsawá 
+253	23-3-41-4	7681752208776132	Thai	thai1261	the horse	HORSE	615	สินธพ	sǐnthóp	sǐnthóp 
+254	23-3-41-5	7681752414438913	Thai	thai1261	the horse	HORSE	615	เบ๊	bée	bée 
+255	23-3-46-1	7681752871182731	Thai	thai1261	the donkey	DONKEY	1862	ลา	laa	laa 
+256	23-3-47-1	7681752745318331	Thai	thai1261	the mule	MULE	890	ล่อ	lɔ̂ɔ	lɔ̂ɔ 
+257	23-3-5-1	7681752166889903	Thai	thai1261	the fowl	FOWL	265	สัตว์ปีก	sàtpìik	sàtpìik 
+258	23-3-52-1	7681752366426904	Thai	thai1261	the cock/rooster	ROOSTER	1511	ไก่	kày	kày 
+259	23-3-52-2	7681752815473670	Thai	thai1261	the cock/rooster	ROOSTER	1511	พ่อไก่	phɔ̂ɔkày	phɔ̂ɔkày 
+260	23-3-54-1	7681752195431058	Thai	thai1261	the hen	HEN	1514	แมไก่่	mâeaekày	mâeaekày 
+261	23-3-55-1	768175239588611	Thai	thai1261	the chicken	CHICKEN	1318	ลูกไก่	lûukkày	lûukkày 
+262	23-3-56-1	7681752118102328	Thai	thai1261	the goose	GOOSE	1187	ห่าน	hàan	hàan 
+263	23-3-57-1	7681752703655983	Thai	thai1261	the duck	DUCK	1360	เป็ด	pèt	pèt 
+264	23-3-58-1	7681752172160047	Thai	thai1261	the nest	NEST	539	รัง	raŋ (1)	raŋ (1) 
+265	23-3-581-1	7681752475016668	Thai	thai1261	the bird	BIRD	937	นก	nók	nók 
+266	23-3-581-2	768175216303677	Thai	thai1261	the bird	BIRD	937	วิหค	wíhòk	wíhòk 
+267	23-3-581-3	7681752566669413	Thai	thai1261	the bird	BIRD	937	สกุณา	sàkùnaa	sàkùnaa 
+268	23-3-581-4	7681752852949119	Thai	thai1261	the bird	BIRD	937	บุหรง	bùrǒŋ	bùrǒŋ 
+269	23-3-582-1	7681752820858202	Thai	thai1261	the seagull	SEAGULL	950	นางนวล	naaŋnuan	naaŋnuan 
+270	23-3-583-1	7681752845133375	Thai	thai1261	the heron	HERON	758	กระสา	krasǎa	krasǎa 
+271	23-3-584-1	7681753413210793	Thai	thai1261	the eagle	EAGLE	1905	อินทรีย์	?insii	?insii 
+272	23-3-585-1	7681753215576063	Thai	thai1261	the hawk	HAWK	307	รุ้ง	rúŋ (2)	rúŋ (2) 
+273	23-3-585-2	71028225299432413	Thai	thai1261	the hawk	HAWK	307	เหยิ่ยว	yìaw	yìaw 
+274	23-3-585-3	852118500991381	Thai	thai1261	the hawk	HAWK	307	เหยิ่ยว	yìaw	yìaw 
+275	23-3-586-1	7681753895292124	Thai	thai1261	the vulture	VULTURE	1185	แร้ง	ráeaeŋ	ráeaeŋ 
+276	23-3-591-1	7681753381626365	Thai	thai1261	the bat	BAT	1793	ค้างคาว	kháaŋkhaaw	kháaŋkhaaw 
+277	23-3-592-1	7681753249824641	Thai	thai1261	the parrot	PARROT	882	แก้ว	kâeaew	kâeaew 
+278	23-3-593-1	7681753994273066	Thai	thai1261	the crow	CROW	913	กา	kaa (1)	kaa (1) 
+279	23-3-594-1	7681753661338314	Thai	thai1261	the dove	DOVE	1853	เขา	khǎo (1)	khǎo (1) 
+280	23-3-596-1	768175311863453	Thai	thai1261	the owl	OWL	735	ฮูก	hûuk	hûuk 
+281	23-3-596-2	710282250324357183	Thai	thai1261	the owl	OWL	735	ฮูก	hûuk	hûuk 
+282	23-3-596-3	852125917628937	Thai	thai1261	the owl	OWL	735	เค้า	kháo	kháo 
+283	23-3-596-4	7627141937232505	Thai	thai1261	the owl	OWL	735	เค้าแมว	kháomaeaew	kháomaeaew 
+284	23-3-596-5	76271420549725006	Thai	thai1261	the owl	OWL	735	เค้า	kháo	kháo 
+285	23-3-61-1	7681753756088402	Thai	thai1261	the dog	DOG	2009	หมา	mǎa	mǎa 
+286	23-3-61-2	7681753194404227	Thai	thai1261	the dog	DOG	2009	สุนัข	sùnák	sùnák 
+287	23-3-61-3	7681753970679567	Thai	thai1261	the dog	DOG	2009	สุวาน	sùwaan	sùwaan 
+288	23-3-614-1	7681753251442593	Thai	thai1261	the rabbit	RABBIT	1136	กระต่าย	kratàay	kratàay 
+289	23-3-62-1	7681753491096600	Thai	thai1261	the cat	CAT	1208	แมว	maeaew	maeaew 
+290	23-3-62-2	7681753694111805	Thai	thai1261	the cat	CAT	1208	วิฬาร์	wílaa	wílaa 
+291	23-3-63-1	7681753727579447	Thai	thai1261	the mouse or rat	MUROID (MOUSE OR RAT)	2139	หนู	nǔu	nǔu 
+292	23-3-63-2	7681753142981215	Thai	thai1261	the mouse or rat	MUROID (MOUSE OR RAT)	2139	มุสิก	músìk	músìk 
+293	23-3-65-1	7681753709470744	Thai	thai1261	the fish	FISH	227	ปลา	plaa	plaa 
+294	23-3-65-2	7681753272210060	Thai	thai1261	the fish	FISH	227	มัจฉา	mátchǎa	mátchǎa 
+295	23-3-65-3	7681753555557480	Thai	thai1261	the fish	FISH	227	มัสยา	mátsayǎa	mátsayǎa 
+296	23-3-652-1	7681753400969610	Thai	thai1261	the fin	FIN	213	ครีบ	khrîip	khrîip 
+297	23-3-653-1	7681753480852079	Thai	thai1261	the scale	SCALE	266	เกล็ด	klèt	klèt 
+298	23-3-654-1	7681753380068747	Thai	thai1261	the gill	GILL	1916	เหงือก	ŋʉ̀ak	ŋʉ̀ak 
+299	23-3-655-1	7681753154309915	Thai	thai1261	the shell	SHELL	598	หอย	hɔ̌ɔy	hɔ̌ɔy 
+300	23-3-655-2	76271430122490535	Thai	thai1261	the shell	SHELL	598	เปลือก	plʉ̀ak	plʉ̀ak 
+301	23-3-661-1	7681753522447080	Thai	thai1261	the shark	SHARK	1110	ฉลาม	chalǎam	chalǎam 
+302	23-3-663-1	7681753769284183	Thai	thai1261	the whale	WHALE	957	วาฬ	waan (1)	waan (1) 
+303	23-3-664-1	7681753859162989	Thai	thai1261	the stingray	STINGRAY	1910	กระเบน	krabeen	krabeen 
+304	23-3-665-1	7681753273619501	Thai	thai1261	the freshwater eel	FRESHWATER EEL	1013	ไหล	lǎy (1)	lǎy (1) 
+305	23-3-71-1	7681753893314823	Thai	thai1261	the wolf	WOLF	522	หมาป่า	mǎapàa	mǎapàa 
+306	23-3-71-2	7681753981357902	Thai	thai1261	the wolf	WOLF	522	สิงคาล	sǐŋkaan	sǐŋkaan 
+307	23-3-72-1	7681753464939282	Thai	thai1261	the lion	LION	1386	สิงโต	sǐŋtoo	sǐŋtoo 
+308	23-3-72-2	7681753846264921	Thai	thai1261	the lion	LION	1386	สิงห์	sǐŋ	sǐŋ 
+309	23-3-72-3	7681753769336730	Thai	thai1261	the lion	LION	1386	สีห์	sǐi (1)	sǐi (1) 
+310	23-3-73-1	7681753378178135	Thai	thai1261	the bear	BEAR	1820	หมี	mǐi	mǐi 
+311	23-3-74-1	7681753343979110	Thai	thai1261	the fox	FOX	1312	หมาจิ้งจอก	mǎacîŋcɔ̀ɔk	mǎacîŋcɔ̀ɔk 
+312	23-3-75-1	7681753786490604	Thai	thai1261	the deer	DEER	1936	กวาง	kwaaŋ	kwaaŋ 
+313	23-3-75-2	7681753233864667	Thai	thai1261	the deer	DEER	1936	ฟาน	faan	faan 
+314	23-3-75-3	7681753391566129	Thai	thai1261	the deer	DEER	1936	ทราย	saay9 (2)	saay9 (2) 
+315	23-3-75-4	7681753393146373	Thai	thai1261	the deer	DEER	1936	เนื้อ	nʉ́a	nʉ́a 
+316	23-3-76-1	7681753912386765	Thai	thai1261	the monkey	MONKEY	1350	ลิง	liŋ	liŋ 
+317	23-3-76-2	7681753807579847	Thai	thai1261	the monkey	MONKEY	1350	วานร	waanɔɔn	waanɔɔn 
+318	23-3-76-3	7681753244575148	Thai	thai1261	the monkey	MONKEY	1350	กระบี่	krabìi	krabìi 
+319	23-3-76-4	7681753514415443	Thai	thai1261	the monkey	MONKEY	1350	สวา	sawǎa	sawǎa 
+320	23-3-77-1	7681753209749415	Thai	thai1261	the elephant	ELEPHANT	1290	ช้าง	cháaŋ	cháaŋ 
+321	23-3-77-2	7681753595107100	Thai	thai1261	the elephant	ELEPHANT	1290	กุญชร	kunchɔɔn	kunchɔɔn 
+322	23-3-77-3	7681753510891479	Thai	thai1261	the elephant	ELEPHANT	1290	คชา	khachaa	khachaa 
+323	23-3-77-4	7681753771357098	Thai	thai1261	the elephant	ELEPHANT	1290	ดำรี	damrii	damrii 
+324	23-3-77-5	7681753568879959	Thai	thai1261	the elephant	ELEPHANT	1290	หัตถี	hàtthǐi	hàtthǐi 
+325	23-3-77-6	77151836682898956	Thai	thai1261	the elephant	ELEPHANT	1290	พลาย	phlaay	phlaay 
+326	23-3-77-7	77151837857131107	Thai	thai1261	the elephant	ELEPHANT	1290	พัง	phaŋ (2)	phaŋ (2) 
+327	23-3-78-1	768175330554483	Thai	thai1261	the camel	CAMEL	1871	อูฐ	?ùut	?ùut 
+328	23-3-81-1	7681753296782280	Thai	thai1261	the insect	INSECT	620	แมลง	malaeaeŋ	malaeaeŋ 
+329	23-3-81-2	7681753970467222	Thai	thai1261	the insect	INSECT	620	แมง	malaeaeŋ	malaeaeŋ 
+330	23-3-811-1	7681753994981849	Thai	thai1261	the head louse	HEAD LOUSE	310	เหา	hǎo	hǎo 
+331	23-3-812-1	7681753988649098	Thai	thai1261	the nit	NIT	267	ไข่เหา	khàyhǎo	khàyhǎo 
+332	23-3-813-1	7681753440118295	Thai	thai1261	the flea	FLEA	232	หมัด	màt	màt 
+333	23-3-814-1	7681753585462062	Thai	thai1261	the centipede	CENTIPEDE	1974	ตะขาบ	takhàap	takhàap 
+334	23-3-814-2	7627150763005319	Thai	thai1261	the centipede	CENTIPEDE	1974	จะเข็บ	cakhèp	cakhèp 
+335	23-3-815-1	7681753324551584	Thai	thai1261	the scorpion	SCORPION	1538	แมงป่่่่อง	maeaeŋpɔ̀ŋ	maeaeŋpɔ̀ŋ 
+336	23-3-816-1	7681753985164042	Thai	thai1261	the cockroach	COCKROACH	1575	แมงสาบ	maeaeŋsàap	maeaeŋsàap 
+337	23-3-817-1	7681753635325094	Thai	thai1261	the ant	ANT	587	มด	mót	mót 
+338	23-3-818-1	7681753303576215	Thai	thai1261	the spider	SPIDER	843	แมงมุม	maeaeŋmum	maeaeŋmum 
+339	23-3-819-1	7681753705026050	Thai	thai1261	the spider web	SPIDER WEB	1065	ใยแมงมุม	yaimaeaeŋmum	yaimaeaeŋmum 
+340	23-3-82-1	7681753227584873	Thai	thai1261	the bee	BEE	665	ผึ้ง	phʉ̂ŋ	phʉ̂ŋ 
+341	23-3-82-2	7681753778355273	Thai	thai1261	the bee	BEE	665	ภมร	phamɔɔn	phamɔɔn 
+342	23-3-821-1	7681753375220635	Thai	thai1261	the beeswax	BEESWAX	1931	ขึ้ผึ้ง	khîiphʉ̂ŋ (1)	khîiphʉ̂ŋ (1) 
+343	23-3-822-1	768175336246059	Thai	thai1261	the beehive	BEEHIVE	88	รังผึ้ง	raŋphʉ̂ŋ	raŋphʉ̂ŋ 
+344	23-3-823-1	7681753320853879	Thai	thai1261	the wasp	WASP	1517	ต่อ	tɔ̀ɔ (1)	tɔ̀ɔ (1) 
+345	23-3-823-2	7681753780485477	Thai	thai1261	the wasp	WASP	1517	แตน	taeaen	taeaen 
+346	23-3-83-1	7681753814889456	Thai	thai1261	the fly	FLY (INSECT)	1504	แมลงวัน	malaeaeŋwan	malaeaeŋwan 
+347	23-3-831-1	7681753750064610	Thai	thai1261	the sandfly or midge or gnat	SANDFLY	95	ปึ่ง	pʉ̀ŋ	pʉ̀ŋ 
+348	23-3-831-2	7681753709644620	Thai	thai1261	the sandfly or midge or gnat	SANDFLY	95	ริ้น	rín	rín 
+349	23-3-832-1	7681753730465691	Thai	thai1261	the mosquito	MOSQUITO	1509	ยุง	yuŋ	yuŋ 
+350	23-3-84-1	7681753174550491	Thai	thai1261	the worm	WORM	1219	หนอน	nɔ̌ɔn	nɔ̌ɔn 
+351	23-3-85-1	7681753681848005	Thai	thai1261	the snake	SNAKE	730	งู	ŋuu	ŋuu 
+352	23-3-85-2	7681753193711061	Thai	thai1261	the snake	SNAKE	730	อสรพิษ	?asɔ̌ɔraphít	?asɔ̌ɔraphít 
+353	23-3-91-1	7681753533562584	Thai	thai1261	the firefly	FIREFLY	206	หิ่งห้อย	hìŋhɔ̂y	hìŋhɔ̂y 
+354	23-3-92-1	7681753869440005	Thai	thai1261	the butterfly	BUTTERFLY	1791	ผีเสื้อ	phǐisʉ̂a	phǐisʉ̂a 
+355	23-3-93-1	7681753873566552	Thai	thai1261	the grasshopper	GRASSHOPPER	607	ตั๊กแตน	tákkataeaen	tákkataeaen 
+356	23-3-94-1	7681753194050541	Thai	thai1261	the snail	SNAIL	1543	หอยทาก	hɔ̌ɔythâak	hɔ̌ɔythâak 
+357	23-3-95-1	7681753554824373	Thai	thai1261	the frog	FROG	503	กบ	kòp	kòp 
+358	23-3-96-1	7681753689915405	Thai	thai1261	the lizard	LIZARD	632	จิ้้้งจก	cìŋcòk	cìŋcòk 
+359	23-3-97-1	7681753718580088	Thai	thai1261	the crocodile or alligator	CROCODILE	1857	จระเข้	carakhêe	carakhêe 
+360	23-3-97-2	852238220252825	Thai	thai1261	the crocodile or alligator	CROCODILE	1857		khêe	khêe 
+361	23-3-97-3	76271611646650652	Thai	thai1261	the crocodile or alligator	CROCODILE	1857	เข้	khêe	khêe 
+362	23-3-98-1	7681753856572212	Thai	thai1261	the turtle	TURTLE	112	เต่า	tào	tào 
+363	23-4-11-1	7681753225800875	Thai	thai1261	the body	BODY	1480	ตัว	tua	tua 
+364	23-4-11-2	76271616567484713	Thai	thai1261	the body	BODY	1480	ร่าง	râaŋ	râaŋ 
+365	23-4-11-3	76271617448907607	Thai	thai1261	the body	BODY	1480	ร่างกาย	râaŋkaay	râaŋkaay 
+366	23-4-11-4	852241844581506	Thai	thai1261	the body	BODY	1480		râaŋkaay	râaŋkaay 
+367	23-4-12-1	7681753840114301	Thai	thai1261	the skin or hide	SKIN	763	หนัง	nǎŋ	nǎŋ 
+368	23-4-13-1	7681753779647392	Thai	thai1261	the flesh	FLESH	2259	เนื้อ	nʉ́a	nʉ́a 
+369	23-4-13-2	7681753162413404	Thai	thai1261	the flesh	FLESH	2259	มังสา	maŋsǎa	maŋsǎa 
+370	23-4-14-1	7681753259634544	Thai	thai1261	the hair	HAIR (HEAD)	2648	ผม	phǒm	phǒm 
+371	23-4-142-1	7681753717424053	Thai	thai1261	the beard	BEARD	678	เครา	khrao	khrao 
+372	23-4-142-2	7681753916099777	Thai	thai1261	the beard	BEARD	678	หนวด	nùat	nùat 
+373	23-4-144-1	7681753268212926	Thai	thai1261	the body hair	HAIR (BODY)	189	ขน	khǒn (1)	khǒn (1) 
+374	23-4-144-2	7681753356257785	Thai	thai1261	the body hair	HAIR (BODY)	189	โลมา	loomaa (2)	loomaa (2) 
+375	23-4-145-1	7681753859992190	Thai	thai1261	the pubic hair	PUBIC HAIR	36	หมอย	mɔ̌ɔy	mɔ̌ɔy 
+376	23-4-146-1	7681753468315348	Thai	thai1261	the dandruff	DANDRUFF	576	รังแค	raŋkhaeae	raŋkhaeae 
+377	23-4-15-1	768175334529535	Thai	thai1261	the blood	BLOOD	946	เลือด	lʉ̂at	lʉ̂at 
+378	23-4-15-2	76817539431662	Thai	thai1261	the blood	BLOOD	946	โลหิต	loohìt	loohìt 
+379	23-4-151-1	7681753931648974	Thai	thai1261	the vein or artery	BLOOD VESSEL	525	เส้นเลือด	sênlʉ̂at	sênlʉ̂at 
+380	23-4-16-1	7681753742420695	Thai	thai1261	the bone	BONE	1394	กระดูก	kradùuk	kradùuk 
+381	23-4-16-2	7681753463249406	Thai	thai1261	the bone	BONE	1394	ก้าง	kâaŋ	kâaŋ 
+382	23-4-162-1	7681753626824182	Thai	thai1261	the rib	RIB	801	ซี่โครง	sîikhrooŋ	sîikhrooŋ 
+383	23-4-17-1	7681753937662692	Thai	thai1261	the horn	HORN (ANATOMY)	1393	เขา	khǎo (2)	khǎo (2) 
+384	23-4-18-1	7681753360973808	Thai	thai1261	the tail	TAIL	1220	หาง	hǎaŋ	hǎaŋ 
+385	23-4-19-1	7681753346103269	Thai	thai1261	the back	BACK	1291	หลัง	lǎŋ	lǎŋ 
+386	23-4-191-1	7681753615373060	Thai	thai1261	the spine	SPINE	805	กระดูกสันหลัง	kradùuksǎnlǎŋ	kradùuksǎnlǎŋ 
+387	23-4-2-1	7681753988497198	Thai	thai1261	the head	HEAD	1256	หัว	hǔa (1)	hǔa (1) 
+388	23-4-2-2	7681753616591737	Thai	thai1261	the head	HEAD	1256	ศึรษะ	sǐisà	sǐisà 
+389	23-4-2-3	7681753180279042	Thai	thai1261	the head	HEAD	1256	กะบาล	kabaan	kabaan 
+390	23-4-2-4	7681753535659252	Thai	thai1261	the head	HEAD	1256	ศิระ	sìrá	sìrá 
+391	23-4-2-5	7681753315897238	Thai	thai1261	the head	HEAD	1256		sǐan	sǐan 
+392	23-4-201-1	7681753465608104	Thai	thai1261	the temples	TEMPLES	1604	ขมับ	khamàp	khamàp 
+393	23-4-202-1	7681753911640089	Thai	thai1261	the skull	SKULL	1605	กะโหลก	kalòok	kalòok 
+394	23-4-203-1	7681753572518567	Thai	thai1261	the brain	BRAIN	1583	สมอง ขมอง	samɔ̌ɔŋ, khamɔ̌ɔŋ	samɔ̌ɔŋ 
+395	23-4-203-2	7681753572518567	Thai	thai1261	the brain	BRAIN	1583	สมอง ขมอง	samɔ̌ɔŋ, khamɔ̌ɔŋ	khamɔ̌ɔŋ 
+396	23-4-204-1	7681753790465738	Thai	thai1261	the face	FACE	1560	หน้า	nâa	nâa 
+397	23-4-204-2	768175356659305	Thai	thai1261	the face	FACE	1560	พักตร์	phák (1)	phák (1) 
+398	23-4-204-3	7681753927917829	Thai	thai1261	the face	FACE	1560	มุข	múk	múk 
+399	23-4-205-1	768175325036922	Thai	thai1261	the forehead	FOREHEAD	123	หน้าผาก	nâaphàak	nâaphàak 
+400	23-4-207-1	7681753769954668	Thai	thai1261	the jaw	JAW	798	คาง	khaaŋ	khaaŋ 
+401	23-4-208-1	768175352304726	Thai	thai1261	the cheek	CHEEK	1730	แก้ม	kâeaem	kâeaem 
+402	23-4-208-2	7681753431310551	Thai	thai1261	the cheek	CHEEK	1730	ปราง	praaŋ	praaŋ 
+403	23-4-209-1	7681753345582755	Thai	thai1261	the chin	CHIN	1510	คาง	khaaŋ	khaaŋ 
+404	23-4-21-1	7681753297028639	Thai	thai1261	the eye	EYE	1248	ตา	taa (2)	taa (2) 
+405	23-4-21-2	7681753813356934	Thai	thai1261	the eye	EYE	1248	เนตร	nêet	nêet 
+406	23-4-212-1	7681753311072630	Thai	thai1261	the eyebrow	EYEBROW	1173	คิ้ว	khíw	khíw 
+407	23-4-212-2	7681753621692236	Thai	thai1261	the eyebrow	EYEBROW	1173	ขนง	khanǒŋ	khanǒŋ 
+408	23-4-213-1	7681753270922788	Thai	thai1261	the eyelid	EYELID	17	เปลือกตา	plʉ̀aktaa	plʉ̀aktaa 
+409	23-4-214-1	7681753301223654	Thai	thai1261	the eyelash	EYELASH	1540	ขนตา	khǒntaa	khǒntaa 
+410	23-4-215-1	7681753390548438	Thai	thai1261	to blink	BLINK	1655	พริบ	phríp	phríp 
+411	23-4-22-1	7681753515712380	Thai	thai1261	the ear	EAR	1247	หู	hǔu	hǔu 
+412	23-4-22-2	7681753649110799	Thai	thai1261	the ear	EAR	1247	กรรณ	kan (2)	kan (2) 
+413	23-4-221-1	7681753244412180	Thai	thai1261	the earlobe	EARLOBE	18	ใบหู	bayhǔu	bayhǔu 
+414	23-4-222-1	7681753622907974	Thai	thai1261	the earwax	EARWAX	32	ขี้หู	khîihǔu	khîihǔu 
+415	23-4-23-1	768175333102067	Thai	thai1261	the nose	NOSE	1221	จมูก	camùuk	camùuk 
+416	23-4-231-1	7681753654571871	Thai	thai1261	the nostril	NOSTRIL	1178	รูจมูก	ruucamùuk	ruucamùuk 
+417	23-4-232-1	7681753466384950	Thai	thai1261	the nasal mucus	NASAL MUCUS (SNOT)	208	ขี้มูก	khîimûuk	khîimûuk 
+418	23-4-24-1	7681753812194110	Thai	thai1261	the mouth	MOUTH	674	ปาก	pàak	pàak 
+419	23-4-24-2	7681753176819830	Thai	thai1261	the mouth	MOUTH	674	โอษฐ์	?òot	?òot 
+420	23-4-24-3	7681753823220811	Thai	thai1261	the mouth	MOUTH	674	มุข	múk	múk 
+421	23-4-241-1	7681753756425558	Thai	thai1261	the beak	BEAK	73	จงอย	caŋɔɔy	caŋɔɔy 
+422	23-4-25-1	7681753329649959	Thai	thai1261	the lip	LIP	478	ริมฝีปาก	rimfǐipàak	rimfǐipàak 
+423	23-4-26-1	7681753118380309	Thai	thai1261	the tongue	TONGUE	1205	ลิ้น	lín	lín 
+424	23-4-26-2	7681753157780787	Thai	thai1261	the tongue	TONGUE	1205	ชิวหา	chiwhǎa	chiwhǎa 
+425	23-4-27-1	7681753209868495	Thai	thai1261	the tooth	TOOTH	1380	ฟัน	fan (1)	fan (1) 
+426	23-4-27-2	7681753555686110	Thai	thai1261	the tooth	TOOTH	1380	ทนต์	thon	thon 
+427	23-4-27-3	7681753701493468	Thai	thai1261	the tooth	TOOTH	1380	ทันตะ	thantà	thantà 
+428	23-4-271-1	7681753812579532	Thai	thai1261	the gums	GUMS	139	เหงือก	ŋʉ̀ak	ŋʉ̀ak 
+429	23-4-272-1	7681753573439278	Thai	thai1261	the molar tooth	MOLAR TOOTH	1049	กราม	kraam	kraam 
+430	23-4-28-1	7681753468926490	Thai	thai1261	the neck	NECK	1333	คอ	khɔɔ	khɔɔ 
+431	23-4-28-2	7681753239744337	Thai	thai1261	the neck	NECK	1333	ศอ	sɔ̌ɔ	sɔ̌ɔ 
+432	23-4-281-1	7681753990671705	Thai	thai1261	the nape of the neck	NAPE (OF NECK)	1347	สัน	sǎn	sǎn 
+433	23-4-281-2	786224531170995	Thai	thai1261	the nape of the neck	NAPE (OF NECK)	1347	ต้นคอ	tônkhɔɔ	tônkhɔɔ 
+434	23-4-29-1	7681753619511094	Thai	thai1261	the throat	THROAT	1346	คอ	khɔɔ	khɔɔ 
+435	23-4-3-1	7681753181525995	Thai	thai1261	the shoulder	SHOULDER	1482	บ่อ	bàa	bàa 
+436	23-4-301-1	7681753623295001	Thai	thai1261	the shoulderblade	SHOULDERBLADE	172	ไหล่	lày	lày 
+437	23-4-302-1	768175317722140	Thai	thai1261	the collarbone	COLLARBONE	1994	ไหปลาร้า	hǎyplaaráa	hǎyplaaráa 
+438	23-4-31-1	7681753941231882	Thai	thai1261	the arm	ARM	1673	แขน	khǎen	khǎen 
+439	23-4-31-2	7681753105638524	Thai	thai1261	the arm	ARM	1673	พาหา	phaahǎa	phaahǎa 
+440	23-4-312-1	7681753901821846	Thai	thai1261	the armpit	ARMPIT	1886	รักแร้	rákráaae	rákráaae 
+441	23-4-32-1	7681753165137766	Thai	thai1261	the elbow	ELBOW	981	ศอก	sɔ̀ɔk	sɔ̀ɔk 
+442	23-4-321-1	7681753742884127	Thai	thai1261	the wrist	WRIST	799	ข้อมือ	khɔ̂ɔmʉʉ	khɔ̂ɔmʉʉ 
+443	23-4-33-1	7681753768904668	Thai	thai1261	the hand	HAND	1277	มือ	mʉʉ	mʉʉ 
+444	23-4-33-2	7681753789127526	Thai	thai1261	the hand	HAND	1277	หัตถ์	hàt	hàt 
+445	23-4-33-3	7681753298914989	Thai	thai1261	the hand	HAND	1277	กร	kɔɔn	kɔɔn 
+446	23-4-33-4	7681753299891786	Thai	thai1261	the hand	HAND	1277	ได	day	day 
+447	23-4-331-1	7681753224156344	Thai	thai1261	the palm of the hand	PALM OF HAND	1183	ฝ่่า	fàa	fàa 
+448	23-4-34-1	7681753553051224	Thai	thai1261	the finger	FINGER	1303	นิ้ว	níw	níw 
+449	23-4-342-1	7681753583056309	Thai	thai1261	the thumb	THUMB	1781	หัวแม่มือ	hǔamâeaemʉʉ	hǔamâeaemʉʉ 
+450	23-4-344-1	7681753128932935	Thai	thai1261	the fingernail	FINGERNAIL	1258	เล็บ	lép	lép 
+451	23-4-344-2	7681753983654713	Thai	thai1261	the fingernail	FINGERNAIL	1258	นขา	nákkhǎa	nákkhǎa 
+452	23-4-345-1	7681753453645768	Thai	thai1261	the claw	CLAW	72	เล็บ	kronglép	kronglép 
+453	23-4-35-1	7681753794412616	Thai	thai1261	the leg	LEG	1297	ขา	khǎa	khǎa 
+454	23-4-35-2	7681753665515948	Thai	thai1261	the leg	LEG	1297	เพลา	phlao	phlao 
+455	23-4-351-1	7681753789339476	Thai	thai1261	the thigh	THIGH	800	ต้นขา	tônkhǎa	tônkhǎa 
+456	23-4-352-1	7681753874863590	Thai	thai1261	the calf of the leg	CALF OF LEG	498	น่อง	nɔ̂ŋ	nɔ̂ŋ 
+457	23-4-36-1	7681753429404281	Thai	thai1261	the knee	KNEE	1371	เข่า	khào	khào 
+458	23-4-36-2	7681753775050456	Thai	thai1261	the knee	KNEE	1371		chaanú	chaanú 
+459	23-4-37-1	7681753214459261	Thai	thai1261	the foot	FOOT	1301	เท้า	tháaw (1)	tháaw (1) 
+460	23-4-37-2	7681753675622734	Thai	thai1261	the foot	FOOT	1301	ตีน	tiin	tiin 
+461	23-4-37-3	7681753101135003	Thai	thai1261	the foot	FOOT	1301	บาทา	baathaa	baathaa 
+462	23-4-37-4	7681753862059527	Thai	thai1261	the foot	FOOT	1301	บาท	bàat (1)	bàat (1) 
+463	23-4-37-5	7681753691330652	Thai	thai1261	the foot	FOOT	1301	เชิง	chəəŋ	chəəŋ 
+464	23-4-371-1	7681753849810698	Thai	thai1261	the ankle	ANKLE	803	ข้อเท้า	khɔ̂ɔtháaw	khɔ̂ɔtháaw 
+465	23-4-372-1	7681753425947243	Thai	thai1261	the heel	HEEL	980	ส้น	sôn	sôn 
+466	23-4-374-1	768175340933151	Thai	thai1261	the footprint	FOOTPRINT	318	รอยเท้า	rɔɔytháaw	rɔɔytháaw 
+467	23-4-38-1	7681753811109282	Thai	thai1261	the toe	TOE	1389	นิ้วหัวแม่เท้า	níwhǔamâeaetháaw	níwhǔamâeaetháaw 
+468	23-4-392-1	7681753481068426	Thai	thai1261	the wing	WING	1257	ปิก	pìik	pìik 
+469	23-4-393-1	7681753164625259	Thai	thai1261	the feather	FEATHER	1201	ขน	khǒn (2)	khǒn (2) 
+470	23-4-4-1	7681753138929405	Thai	thai1261	the chest	CHEST	1592	อก	?òk	?òk 
+471	23-4-41-1	7681753180274448	Thai	thai1261	the breast	BREAST	1402	นม	nom	nom 
+472	23-4-41-2	7627163727030791	Thai	thai1261	the breast	BREAST	1402	ถัน	thǎn	thǎn 
+473	23-4-412-1	7681753935342385	Thai	thai1261	the nipple or teat	NIPPLE	796	หัวนม	hǔanom	hǔanom 
+474	23-4-42-1	768175315112718	Thai	thai1261	the udder	UDDER	154	เต้า	tâo	tâo 
+475	23-4-43-1	768175333735390	Thai	thai1261	the navel	NAVEL	1838	สะดือ	sadʉʉ	sadʉʉ 
+476	23-4-44-1	7681753883628440	Thai	thai1261	the heart	HEART	1223	ใจ	cay	cay 
+477	23-4-44-2	7681753192210748	Thai	thai1261	the heart	HEART	1223	หัวใจ	hǔacay	hǔacay 
+478	23-4-44-3	7681753213756715	Thai	thai1261	the heart	HEART	1223	หทัย	hathay	hathay 
+479	23-4-44-4	7681753658032113	Thai	thai1261	the heart	HEART	1223	หฤทัย	harʉ́thay	harʉ́thay 
+480	23-4-44-5	7681753497307723	Thai	thai1261	the heart	HEART	1223	ฤดี	rʉ́dii	rʉ́dii 
+481	23-4-44-6	768175366610259	Thai	thai1261	the heart	HEART	1223	ฤทัย	rʉ́thay	rʉ́thay 
+482	23-4-44-7	7681753843873092	Thai	thai1261	the heart	HEART	1223	มน	maná	maná 
+483	23-4-44-8	7681753626970304	Thai	thai1261	the heart	HEART	1223	มนัส	manát	manát 
+484	23-4-44-9	7681753665754277	Thai	thai1261	the heart	HEART	1223	มโน	manoo	manoo 
+485	23-4-44-10	7681753238962573	Thai	thai1261	the heart	HEART	1223	แด	daeae	daeae 
+486	23-4-441-1	7681753817033258	Thai	thai1261	the lung	LUNG	688	ปอด	pɔ̀ɔt	pɔ̀ɔt 
+487	23-4-45-1	7681753239333618	Thai	thai1261	the liver	LIVER	1224	ตับ	tàp	tàp 
+488	23-4-451-1	7681753953998488	Thai	thai1261	the kidney	KIDNEY	489	ไต	tay	tay 
+489	23-4-452-1	7681753711387402	Thai	thai1261	the spleen	SPLEEN	1744	ม้าม	máam	máam 
+490	23-4-46-1	7681753692362085	Thai	thai1261	the stomach	STOMACH	819	ท้อง	thɔ́ɔŋ	thɔ́ɔŋ 
+491	23-4-461-1	768175391815005	Thai	thai1261	the intestines or guts	INTESTINES	1991	ไส้	sây	sây 
+492	23-4-462-1	7681753421361555	Thai	thai1261	the waist	WAIST	1681	เอว	?eew	?eew 
+493	23-4-463-1	7681753322415676	Thai	thai1261	the hip	HIP	1745	สะโพก ตะโพก	saphôok, taphôok	saphôok 
+494	23-4-463-2	7681753322415676	Thai	thai1261	the hip	HIP	1745	สะโพก ตะโพก	saphôok, taphôok	taphôok 
+495	23-4-464-1	7681753975584154	Thai	thai1261	the buttocks	BUTTOCKS	834	ก้น	kôn	kôn 
+496	23-4-47-1	7681753426272940	Thai	thai1261	the womb	WOMB	804	มดลูก	mótlûuk	mótlûuk 
+497	23-4-47-2	7627165837138416	Thai	thai1261	the womb	WOMB	804	นาภิ	naaphii	naaphii 
+498	23-4-47-3	762717153276300	Thai	thai1261	the womb	WOMB	804	อุทร	?ùthɔɔn	?ùthɔɔn 
+499	23-4-47-4	76271657382285669	Thai	thai1261	the womb	WOMB	804	ครรภ์	khan (2)	khan (2) 
+500	23-4-49-1	7681753670557757	Thai	thai1261	the testicles	TESTICLES	797	หำ	hǎm	hǎm 
+501	23-4-49-2	7681753502416102	Thai	thai1261	the testicles	TESTICLES	797	ไข่	khày	khày 
+502	23-4-49-3	7681753797938285	Thai	thai1261	the testicles	TESTICLES	797	อัณฑะ	?anthá	?anthá 
+503	23-4-49-4	7681753248149544	Thai	thai1261	the testicles	TESTICLES	797	กระโปก	krapòok	krapòok 
+504	23-4-492-1	7681753403027620	Thai	thai1261	the penis	PENIS	1222	ควย	khuay	khuay 
+505	23-4-492-2	7681753245943509	Thai	thai1261	the penis	PENIS	1222	ลึงค์	lʉŋ	lʉŋ 
+506	23-4-492-3	7681753655179589	Thai	thai1261	the penis	PENIS	1222	องคชาต	?oŋkhachâat	?oŋkhachâat 
+507	23-4-492-4	7681753322375349	Thai	thai1261	the penis	PENIS	1222	จู๋	cǔu	cǔu 
+508	23-4-492-5	7681753914766021	Thai	thai1261	the penis	PENIS	1222	กระดอ	kradɔɔ	kradɔɔ 
+509	23-4-51-1	7681753864563756	Thai	thai1261	to breathe	BREATHE	1407	หายใจ	hǎaycay	hǎaycay 
+510	23-4-52-1	7681753895471797	Thai	thai1261	to yawn	YAWN	1028	หาว	hǎaw	hǎaw 
+511	23-4-521-1	7681753434346263	Thai	thai1261	to hiccough	HICCOUGH	162	สะอึก	sa?ʉ̀k	sa?ʉ̀k 
+512	23-4-53-1	7681752571639743	Thai	thai1261	to cough	COUGH	879	ไอ	?ay	?ay 
+513	23-4-54-1	7681753480164283	Thai	thai1261	to sneeze	SNEEZE	1621	จาม	caam	caam 
+514	23-4-55-1	7681753669000557	Thai	thai1261	to perspire	SWEAT (PERSPIRE)	126	เหงื่อออก	ŋʉ̀a?ɔ̀ɔk	ŋʉ̀a?ɔ̀ɔk 
+515	23-4-56-1	7681753566315123	Thai	thai1261	to spit	SPIT	1440	ถ่ม	thòm	thòm 
+516	23-4-56-2	7681753246774385	Thai	thai1261	to spit	SPIT	1440	คาย	khaay	khaay 
+517	23-4-57-1	7681753634149203	Thai	thai1261	to vomit	VOMIT	1278	อาเจียน	?aacian	?aacian 
+518	23-4-57-2	7681753212499321	Thai	thai1261	to vomit	VOMIT	1278	อ้วก	?ûak	?ûak 
+519	23-4-57-3	7681753800557842	Thai	thai1261	to vomit	VOMIT	1278	ราก	râak	râak 
+520	23-4-58-1	7681753432429919	Thai	thai1261	to bite	BITE	1403	กัด	kàt	kàt 
+521	23-4-58-2	7681753961495859	Thai	thai1261	to bite	BITE	1403	ขบ	khòp	khòp 
+522	23-4-59-1	7681753341071504	Thai	thai1261	to lick	LICK	319	เลีย	lia	lia 
+523	23-4-591-1	7681753344934251	Thai	thai1261	to dribble	DRIBBLE	268	น้ำลายไหล	náamlaaylǎy	náamlaaylǎy 
+524	23-4-61-1	7681753350794501	Thai	thai1261	to sleep	SLEEP	1585	นอน	nɔɔn	nɔɔn 
+525	23-4-61-2	7681753168884057	Thai	thai1261	to sleep	SLEEP	1585	นิทรา	níthraa	níthraa 
+526	23-4-61-3	7681753494419744	Thai	thai1261	to sleep	SLEEP	1585	บรรทม	banthom	banthom 
+527	23-4-61-4	7681753715367576	Thai	thai1261	to sleep	SLEEP	1585	ไสยา	sǎyyaa	sǎyyaa 
+528	23-4-612-1	7681753485888478	Thai	thai1261	to snore	SNORE	1983	กรน	kron	kron 
+529	23-4-62-1	7681753686989002	Thai	thai1261	to dream	DREAM (SOMETHING)	1920	ฝัน	fǎn	fǎn 
+530	23-4-62-2	7681753668302594	Thai	thai1261	to dream	DREAM (SOMETHING)	1920	สุบิน	subin	subin 
+531	23-4-63-1	768175329566840	Thai	thai1261	to wake up	WAKE UP	1602	ตื่น	tʉ̀ʉn	tʉ̀ʉn 
+532	23-4-64-1	7681753914176477	Thai	thai1261	to fart	FART	1159	ตด	tòt	tòt 
+533	23-4-64-2	7681753365292684	Thai	thai1261	to fart	FART	1159	ผายลม	phǎaylom	phǎaylom 
+534	23-4-64-3	7681753345779407	Thai	thai1261	to fart	FART	1159		pǔŋ	pǔŋ 
+535	23-4-65-1	7681753983094149	Thai	thai1261	to piss	PISS	592	เยี่ยว	yîaw	yîaw 
+536	23-4-65-2	7681753281243211	Thai	thai1261	to piss	PISS	592	ฉี่	chìi	chìi 
+537	23-4-65-3	7681753820662515	Thai	thai1261	to piss	PISS	592	ปัสสาวะ	pàtsawá	pàtsawá 
+538	23-4-66-1	7681753777862014	Thai	thai1261	to shit	SHIT (DEFECATE)	676	ขี้	khîi	khîi 
+539	23-4-66-2	7681753605619858	Thai	thai1261	to shit	SHIT (DEFECATE)	676	อึ	?ʉ̀	?ʉ̀ 
+540	23-4-66-3	7681753127841727	Thai	thai1261	to shit	SHIT (DEFECATE)	676	อุจจาระ	?ùtcaará	?ùtcaará 
+541	23-4-66-4	7681753293985800	Thai	thai1261	to shit	SHIT (DEFECATE)	676	ถ่าย	thàay	thàay 
+542	23-4-67-1	7681753280170322	Thai	thai1261	to have sex	HAVE SEX	1785	เย็ด	yét	yét 
+543	23-4-67-2	77221535397367535	Thai	thai1261	to have sex	HAVE SEX	1785	สังวาส	sǎŋwâat	sǎŋwâat 
+544	23-4-68-1	7681753575289589	Thai	thai1261	to shiver	SHIVER	52	สั่น	sàn	sàn 
+545	23-4-69-1	768175354610371	Thai	thai1261	to bathe	BATHE	138	อาบน้ำ	?àapnáam	?àapnáam 
+546	23-4-72-1	7681753133158970	Thai	thai1261	to be born	BE BORN	1090	เกิด	kə̀ət	kə̀ət 
+547	23-4-73-1	7681753771411262	Thai	thai1261	pregnant	PREGNANT	1123	ท้อง	thɔ́ɔŋ	thɔ́ɔŋ 
+548	23-4-73-2	768175331771372	Thai	thai1261	pregnant	PREGNANT	1123	มีครรภ์	miikhan	miikhan 
+549	23-4-732-1	7681753799903760	Thai	thai1261	to conceive	CONCEIVE	1087	ติด	tìt (1)	tìt (1) 
+550	23-4-74-1	76817537951074	Thai	thai1261	to be alive	BE ALIVE	1422	เป็น	pen	pen 
+551	23-4-74-2	7681753516769700	Thai	thai1261	to be alive	BE ALIVE	1422	อยู่	yùu	yùu 
+552	23-4-75-1	768175385125137	Thai	thai1261	to die	DIE	1494	ตาย	taay	taay 
+553	23-4-75-2	7681753431590737	Thai	thai1261	to die	DIE	1494	วาย	waay	waay 
+554	23-4-75-3	7681753832618416	Thai	thai1261	to die	DIE	1494	เสีย	sǐa	sǐa 
+555	23-4-75-4	7681753487469158	Thai	thai1261	to die	DIE	1494	มรณะ	mɔɔraná	mɔɔraná 
+556	23-4-75-5	7681753918508131	Thai	thai1261	to die	DIE	1494	บรรลัย	banlay	banlay 
+557	23-4-75-6	7681753747446755	Thai	thai1261	to die	DIE	1494	ตักษัย	tàksǎy	tàksǎy 
+558	23-4-75-7	7681753487630788	Thai	thai1261	to die	DIE	1494	อาสัญ	?aasǎn	?aasǎn 
+559	23-4-75-8	7681753785933148	Thai	thai1261	to die	DIE	1494	อนิจกรรม	?anítcakam	?anítcakam 
+560	23-4-751-1	7681753805638973	Thai	thai1261	to drown	DROWN	1904	จม	com	com 
+561	23-4-76-1	7681753750114349	Thai	thai1261	to kill	KILL	1417	ฆ่า	khâa (2)	khâa (2) 
+562	23-4-76-2	7681753210543822	Thai	thai1261	to kill	KILL	1417	มล้าง	maláaŋ	maláaŋ 
+563	23-4-77-1	7681753365330653	Thai	thai1261	the corpse	CORPSE	767	ศพ	sòp	sòp 
+564	23-4-78-1	7681753108346580	Thai	thai1261	to bury	BURY	1719	ฝัง	fǎŋ	fǎŋ 
+565	23-4-79-1	7681753945305441	Thai	thai1261	the grave	GRAVE	1773	หลุม	lǔm	lǔm 
+566	23-4-81-1	7681753463398136	Thai	thai1261	strong	STRONG	785	แข็งแรง	khǎeŋraeaeŋ	khǎeŋraeaeŋ 
+567	23-4-82-1	7681753411136387	Thai	thai1261	weak	WEAK	1601	อ่อนแอ	?ɔ̀ɔn?aeae	?ɔ̀ɔn?aeae 
+568	23-4-83-1	7681753105730770	Thai	thai1261	healthy	HEALTHY	1364	แข็งแรง	khǎeŋraeaeŋ	khǎeŋraeaeŋ 
+569	23-4-84-1	7681753790114092	Thai	thai1261	sick/ill	SICK	1847	ไข้	khây	khây 
+570	23-4-841-1	7681753961996952	Thai	thai1261	the fever	FEVER	1534	ไข้	khây	khây 
+571	23-4-842-1	7681753207163061	Thai	thai1261	the goitre/goiter	GOITER	1957	คอพอก	khɔɔphɔ̂ɔk	khɔɔphɔ̂ɔk 
+572	23-4-843-1	7681753833339561	Thai	thai1261	the cold	COMMON COLD (DISEASE)	102	หวัด	wàt	wàt 
+573	23-4-85-1	7681753785802948	Thai	thai1261	the wound or sore	WOUND	1109	แผล	phlǎeae	phlǎeae 
+574	23-4-85-2	7681753179168630	Thai	thai1261	the wound or sore	WOUND	1109	บาดแผล	bàatphlǎeae	bàatphlǎeae 
+575	23-4-852-1	768175357513870	Thai	thai1261	the bruise	BRUISE	1148	ช้ำ	chám	chám 
+576	23-4-853-1	7681753455061187	Thai	thai1261	the swelling	SWELLING	1903	ตุ่ม	tùm	tùm 
+577	23-4-854-1	7681753217802120	Thai	thai1261	the itch	ITCH	148	คัน	khan (1)	khan (1) 
+578	23-4-855-1	7681753679834350	Thai	thai1261	the blister	BLISTER	1584		tùmphɔɔŋ	tùmphɔɔŋ 
+579	23-4-856-1	7681753297402350	Thai	thai1261	the boil	BOIL (OF SKIN)	793		fǐi	fǐi 
+580	23-4-857-1	7681753403055354	Thai	thai1261	the pus	PUS	1808	หนอง	nɔ̌ɔŋ (2)	nɔ̌ɔŋ (2) 
+581	23-4-858-1	7681753437474440	Thai	thai1261	the scar	SCAR	497	แผลเป็น	phlǎeaepen	phlǎeaepen 
+582	23-4-86-1	7681753977326591	Thai	thai1261	to cure	CURE	499	รักษา	ráksǎa	ráksǎa 
+583	23-4-87-1	768175321402884	Thai	thai1261	the physician	PHYSICIAN	597	หมอ	mɔ̌ɔ	mɔ̌ɔ 
+584	23-4-87-2	7681753363326472	Thai	thai1261	the physician	PHYSICIAN	597	แพทย์	phâeaet	phâeaet 
+585	23-4-88-1	7681753699165976	Thai	thai1261	the medicine	MEDICINE	1372	ยา	yaa	yaa 
+586	23-4-89-1	7681753723130065	Thai	thai1261	the poison	POISON	655	พิษ	phít	phít 
+587	23-4-89-2	7681753376332346	Thai	thai1261	the poison	POISON	655	เบื่อ	bʉ̀a	bʉ̀a 
+588	23-4-91-1	7681753526464547	Thai	thai1261	tired	TIRED	1757	เหนื่อย	nʉ̀ay	nʉ̀ay 
+589	23-4-912-1	7681753214286540	Thai	thai1261	to rest	REST	168	พัก	phák (2)	phák (2) 
+590	23-4-92-1	7681753777963836	Thai	thai1261	lazy	LAZY	1564	ขี้เกียจ	khîikìat	khîikìat 
+591	23-4-92-2	7681753522803426	Thai	thai1261	lazy	LAZY	1564	คร้าน	khráan	khráan 
+592	23-4-93-1	7681753223298348	Thai	thai1261	bald	BALD	1125	ล้าน	láan	láan 
+593	23-4-93-2	7681753598443637	Thai	thai1261	bald	BALD	1125	โล้น	lóon	lóon 
+594	23-4-94-1	7681753786855233	Thai	thai1261	lame	LAME	320	ง่อย	ŋɔ̂y	ŋɔ̂y 
+595	23-4-95-1	7681753623256528	Thai	thai1261	deaf	DEAF	996	หนวก	nùak	nùak 
+596	23-4-96-1	7681753334954105	Thai	thai1261	mute	MUTE	1666	ใบ้	bây	bây 
+597	23-4-97-1	7681753630281403	Thai	thai1261	blind	BLIND	1653	บอด	bɔ̀ɔt	bɔ̀ɔt 
+598	23-4-98-1	7681753782472762	Thai	thai1261	drunk	DRUNK	1463	เมา	mao	mao 
+599	23-4-99-1	7681753102973028	Thai	thai1261	naked	NAKED	590	เปลือย	plʉay	plʉay 
+600	23-5-11-1	7681753103134607	Thai	thai1261	to eat	EAT	1336	กิน	kin	kin 
+601	23-5-12-1	7681753532704220	Thai	thai1261	the food	FOOD	256	อาหาร	?aahǎan	?aahǎan 
+602	23-5-121-1	7681753830569028	Thai	thai1261	cooked	COOKED	269	สุก	sùk (1)	sùk (1) 
+603	23-5-122-1	7681753218932876	Thai	thai1261	raw	RAW	1959	ดิบ	dìp	dìp 
+604	23-5-123-1	768175319003015	Thai	thai1261	ripe	RIPE	178	สุก	sùk (2)	sùk (2) 
+605	23-5-124-1	7681753218932876	Thai	thai1261	unripe	UNRIPE	1958	ดิบ	dìp	dìp 
+606	23-5-125-1	7681753286018261	Thai	thai1261	rotten	ROTTEN	1728	เน่า	nâo	nâo 
+607	23-5-13-1	7681753992577464	Thai	thai1261	to drink	DRINK	1401	ดื่ม	dʉ̀ʉm	dʉ̀ʉm 
+608	23-5-13-2	7681753626265878	Thai	thai1261	to drink	DRINK	1401	กิน	kin	kin 
+609	23-5-14-1	7681753214290264	Thai	thai1261	to be hungry	BE HUNGRY	1533	หิว	hǐw	hǐw 
+610	23-5-14-2	7681753919665377	Thai	thai1261	to be hungry	BE HUNGRY	1533	อยาก	yàak	yàak 
+611	23-5-141-1	7681753230530304	Thai	thai1261	the famine	FAMINE	199	อดอยาก	?òtyàak	?òtyàak 
+612	23-5-141-2	7681753172303184	Thai	thai1261	the famine	FAMINE	199	ทุพภิกขภัย	thúpphíkkhaphay	thúpphíkkhaphay 
+613	23-5-15-1	7681753750183778	Thai	thai1261	to be thirsty	THIRSTY	847	กระหาย	krahǎay	krahǎay 
+614	23-5-15-2	7681753335608540	Thai	thai1261	to be thirsty	THIRSTY	847	หิวน้ำ	hǐwnáam	hǐwnáam 
+615	23-5-16-1	7681753849050044	Thai	thai1261	to suck	SUCK	1421	ดูด	dùut	dùut 
+616	23-5-18-1	7681753320652904	Thai	thai1261	to chew	CHEW	321	เคี้ยว	khíaw	khíaw 
+617	23-5-181-1	7681753578499029	Thai	thai1261	to swallow	SWALLOW	897	กลืน	klʉʉn	klʉʉn 
+618	23-5-19-1	7681753738281138	Thai	thai1261	to choke	CHOKE	129	เค้นคอ	khénkhɔɔ	khénkhɔɔ 
+619	23-5-19-2	77221637746188577	Thai	thai1261	to choke	CHOKE	129	สำลัก	sǎmlák	sǎmlák 
+620	23-5-21-1	7681753647489447	Thai	thai1261	to cook	COOK (SOMETHING)	1100	หุง	hǔŋ	hǔŋ 
+621	23-5-22-1	7681753536873128	Thai	thai1261	to boil	BOIL (OF LIQUID)	792	ต้ม	tôm	tôm 
+622	23-5-23-1	7681753487182055	Thai	thai1261	to roast or fry	ROAST OR FRY	2146	ย่าง	yâaŋ	yâaŋ 
+623	23-5-23-2	7681753595496862	Thai	thai1261	to roast or fry	ROAST OR FRY	2146	ผิง	pîŋ	pîŋ 
+624	23-5-23-3	7681753235470911	Thai	thai1261	to roast or fry	ROAST OR FRY	2146	จี่	cìi	cìi 
+625	23-5-23-4	7681753466957129	Thai	thai1261	to roast or fry	ROAST OR FRY	2146	ทอด	thɔ̂ɔt	thɔ̂ɔt 
+626	23-5-23-5	7681753844891989	Thai	thai1261	to roast or fry	ROAST OR FRY	2146	อัง	?aŋ	?aŋ 
+627	23-5-24-1	7681753911647081	Thai	thai1261	to bake	BAKE	183	อบ	?òp	?òp 
+628	23-5-25-1	7681753783609006	Thai	thai1261	the oven	OVEN	1143	เตาอบ	tao?òp	tao?òp 
+629	23-5-26-1	7681753529857929	Thai	thai1261	the pot	POT	1462	หม้อ	mɔ̂ɔ	mɔ̂ɔ 
+630	23-5-27-1	7681753793648554	Thai	thai1261	the kettle	KETTLE	854	กา	kaa (2)	kaa (2) 
+631	23-5-28-1	7681753826475480	Thai	thai1261	the pan	PAN	31	กระทะ	krathá	krathá 
+632	23-5-31-1	7681753448647496	Thai	thai1261	the dish	DISH	481	ชาม	chaam	chaam 
+633	23-5-32-1	7681753769118668	Thai	thai1261	the plate	PLATE	480	จาน	caan	caan 
+634	23-5-33-1	7681753943436650	Thai	thai1261	the bowl	BOWL	1530	ถ้วย	thûay	thûay 
+635	23-5-34-1	7681753226458252	Thai	thai1261	the jug/pitcher	JUG	270	เหยือก	yʉ̀ak	yʉ̀ak 
+636	23-5-35-1	7681753721660918	Thai	thai1261	the cup	CUP	476	ถ้วย	thûay	thûay 
+637	23-5-36-1	7681753875046016	Thai	thai1261	the saucer	SAUCER	271	จานรอง	caanrɔɔŋ	caanrɔɔŋ 
+638	23-5-37-1	7681753274026395	Thai	thai1261	the spoon	SPOON	1378	ช้อน	chɔ́ɔn	chɔ́ɔn 
+639	23-5-38-1	768175390831618	Thai	thai1261	the knife(1)	KNIFE (FOR EATING)	3210	มีด	mîit	mîit 
+640	23-5-39-1	7681753656242383	Thai	thai1261	the fork	FORK	1302	ส้อม	sɔ̂ɔm	sɔ̂ɔm 
+641	23-5-391-1	768175366039300	Thai	thai1261	the tongs	TONGS	272	คีม	khiim	khiim 
+642	23-5-391-2	7722174350397868	Thai	thai1261	the tongs	TONGS	272	ปากดีบ	pàakkhîip	pàakkhîip 
+643	23-5-41-1	7681753731693003	Thai	thai1261	the meal	MEAL	1526	มื้อ	mʉ́ʉ	mʉ́ʉ 
+644	23-5-42-1	7681753108293804	Thai	thai1261	the breakfast	BREAKFAST	1322	อาหารเช้า	?aahǎancháaw	?aahǎancháaw 
+645	23-5-43-1	7681753109820755	Thai	thai1261	the lunch	LUNCH	768	อาหารกลางวัน	?aahǎanklaaŋwan	?aahǎanklaaŋwan 
+646	23-5-44-1	7681753494606359	Thai	thai1261	the dinner	DINNER (SUPPER)	1833	อาหารเย็น	?aahǎanyen	?aahǎanyen 
+647	23-5-46-1	7681753192830954	Thai	thai1261	to peel	PEEL	275	ปอก	pɔ̀ɔk	pɔ̀ɔk 
+648	23-5-47-1	7681753139399286	Thai	thai1261	to sieve or to strain	SIEVE	86	ซาว	saaw	saaw 
+649	23-5-47-2	77221717498207239	Thai	thai1261	to sieve or to strain	SIEVE	86	ร่อน	rɔ̂n	rɔ̂n 
+650	23-5-48-1	7681753921283485	Thai	thai1261	to scrape	SCRAPE	1767	ขูด	khùut	khùut 
+651	23-5-49-1	768175328414821	Thai	thai1261	to stir or to mix	MIX	2017	คน	khon (2)	khon (2) 
+652	23-5-51-1	7681753542558559	Thai	thai1261	the bread	BREAD	1368	ขนมปัง	khanǒmpaŋ	khanǒmpaŋ 
+653	23-5-53-1	7681753803140552	Thai	thai1261	the dough	DOUGH	273	แป้ง	pâeaeŋ	pâeaeŋ 
+654	23-5-54-1	7681753142878264	Thai	thai1261	to knead	KNEAD	274	นวด	nûat	nûat 
+655	23-5-55-1	7681753624125202	Thai	thai1261	the flour	FLOUR	1594	แป้ง	pâeaeŋ	pâeaeŋ 
+656	23-5-56-1	7681753286002327	Thai	thai1261	to crush or to grind	GRIND	1033	บด	bòt	bòt 
+657	23-5-57-1	7681753429814786	Thai	thai1261	the mill	MILL	636	โรงสี	rooŋsǐi	rooŋsǐi 
+658	23-5-58-1	7681753213258369	Thai	thai1261	the mortar(1)	MORTAR CRUSHER	224	ครก	khrók	khrók 
+659	23-5-59-1	7681753243566806	Thai	thai1261	the pestle	PESTLE	225	สาก	sàak	sàak 
+660	23-5-61-1	7681753826530398	Thai	thai1261	the meat	MEAT	634	เนื้อ	nʉ́a	nʉ́a 
+661	23-5-63-1	7681753448459516	Thai	thai1261	the sausage	SAUSAGE	1874	ไส้กรอก	sâykrɔ̀ɔk	sâykrɔ̀ɔk 
+662	23-5-64-1	7681753512483095	Thai	thai1261	the soup	SOUP	1547	แกง	kaeaeŋ	kaeaeŋ 
+663	23-5-65-1	7681753696452400	Thai	thai1261	the vegetables	VEGETABLES	924	ผัก	phàk	phàk 
+664	23-5-66-1	7681753580621670	Thai	thai1261	the bean	BEAN	832	ถั่ว	thùa	thùa 
+665	23-5-7-1	7681753551694469	Thai	thai1261	the potato	POTATO	593	มัน	man	man 
+666	23-5-71-1	7681753145971521	Thai	thai1261	the fruit	FRUIT	1507	ผลไม้	phǒnlamáay	phǒnlamáay 
+667	23-5-71-2	77221832881391580	Thai	thai1261	the fruit	FRUIT	1507	หมาก	màak	màak 
+668	23-5-71-3	85423753689695	Thai	thai1261	the fruit	FRUIT	1507		màak	màak 
+669	23-5-712-1	7681753768403248	Thai	thai1261	the bunch	BUNCH	1966	พวง	phuaŋ	phuaŋ 
+670	23-5-75-1	7681753170817739	Thai	thai1261	the fig	FIG	322	มะเดื่อ	madʉ̀a	madʉ̀a 
+671	23-5-76-1	7681753540040125	Thai	thai1261	the grape	GRAPE	920	องุ่น	?aŋùn	?aŋùn 
+672	23-5-77-1	7681753795146633	Thai	thai1261	the nut	NUT	191	ถั่ว	thùa	thùa 
+673	23-5-78-1	768175381693457	Thai	thai1261	the olive	OLIVE	1154	มะกอก	makɔ̀ɔk	makɔ̀ɔk 
+674	23-5-79-1	7681753604920059	Thai	thai1261	the oil	OIL (ORGANIC SUBSTANCE)	1484	น้ำมัน	náamman (1)	náamman (1) 
+675	23-5-791-1	7681753812970764	Thai	thai1261	the grease or fat	FAT (ORGANIC SUBSTANCE)	323	มัน	man	man 
+676	23-5-81-1	7681753673894951	Thai	thai1261	the salt	SALT	1274	เกลือ	klʉa	klʉa 
+677	23-5-82-1	7681753268617970	Thai	thai1261	the pepper	PEPPER	1385	พริกไทย	phríkthay	phríkthay 
+678	23-5-821-1	768175355306426	Thai	thai1261	the chili pepper	CHILI PEPPER	919	พริก	phrík	phrík 
+679	23-5-84-1	768175366805835	Thai	thai1261	the honey	HONEY	942	น้ำผึ้ง	náamphʉ̂ŋ	náamphʉ̂ŋ 
+680	23-5-84-2	7681753451566014	Thai	thai1261	the honey	HONEY	942	มธุ	máthú	máthú 
+681	23-5-85-1	7681753173350452	Thai	thai1261	the sugar	SUGAR	862	น้ำตาล	náamtaan	náamtaan 
+682	23-5-86-1	7681753860089307	Thai	thai1261	the milk	MILK	635	นม	nom	nom 
+683	23-5-87-1	768175336600810	Thai	thai1261	to milk	DRAW MILK	93	รีดนม	rîitnom	rîitnom 
+684	23-5-88-1	7681753647583682	Thai	thai1261	the cheese	CHEESE	1569	เนยแข็ง	nəəykhǎeŋ	nəəykhǎeŋ 
+685	23-5-89-1	7681753214778112	Thai	thai1261	the butter	BUTTER	1245	เนย	nəəy	nəəy 
+686	23-5-9-1	7681753515709589	Thai	thai1261	the drink	BEVERAGE	731	เครื่่องดื่ม	khrʉ̂aŋdʉ̀ʉm	khrʉ̂aŋdʉ̀ʉm 
+687	23-5-92-1	7681753968390523	Thai	thai1261	the wine	WINE	1524	เหล้าองุ่น	lâo?aŋùn	lâo?aŋùn 
+688	23-5-93-1	7681753609131454	Thai	thai1261	the beer	BEER	1639	เบียร์	bia	bia 
+689	23-5-94-1	7681753752930761	Thai	thai1261	the fermented drink	ALCOHOL (FERMENTED DRINK)	404	เหล้า	lâo (1)	lâo (1) 
+690	23-5-94-2	7681753104612803	Thai	thai1261	the fermented drink	ALCOHOL (FERMENTED DRINK)	404	สุรา	suraa	suraa 
+691	23-5-94-3	7681753984849637	Thai	thai1261	the fermented drink	ALCOHOL (FERMENTED DRINK)	404	เมรัย	meeray	meeray 
+692	23-5-94-4	7681753809079248	Thai	thai1261	the fermented drink	ALCOHOL (FERMENTED DRINK)	404	น้ำอมฤต	náam?ammarít	náam?ammarít 
+693	23-5-94-5	7681753153339723	Thai	thai1261	the fermented drink	ALCOHOL (FERMENTED DRINK)	404	น้ำจัณฑ์	náamcan	náamcan 
+694	23-5-97-1	7681753129475053	Thai	thai1261	the egg	EGG	744	ไข่	khày	khày 
+695	23-5-971-1	7681753384945290	Thai	thai1261	the yolk	YOLK	1556	ไข่แดง	khàydaeaeŋ	khàydaeaeŋ 
+696	23-6-11-1	7681753655423774	Thai	thai1261	to put on	PUT ON	158	ใส่	sày	sày 
+697	23-6-12-1	7681753356836297	Thai	thai1261	the clothing or clothes	CLOTHES	1895	เสื้อผ้า	sʉ̂aphâa	sʉ̂aphâa 
+698	23-6-13-1	7681753563515317	Thai	thai1261	the tailor	TAILOR	881	ช่างตัดเสื้อ	châŋtàtsʉ̂a	châŋtàtsʉ̂a 
+699	23-6-21-1	7681753309604001	Thai	thai1261	the cloth	CLOTH	1616	ผ้า	phâa	phâa 
+700	23-6-22-1	7681753948169220	Thai	thai1261	the wool	WOOL	964	ขนสัตว์	khǒnsàt	khǒnsàt 
+701	23-6-23-1	7681753519689475	Thai	thai1261	the linen	LINEN	916		linin	linin 
+702	23-6-24-1	7681753865065952	Thai	thai1261	the cotton	COTTON	1850	ฝ้าย	fâay	fâay 
+703	23-6-25-1	7681753851435034	Thai	thai1261	the silk	SILK	1641	ไหม	mǎy	mǎy 
+704	23-6-27-1	7681753596897175	Thai	thai1261	the felt	FELT	325	สักหลาด	sàkkalàat	sàkkalàat 
+705	23-6-28-1	7681753630295720	Thai	thai1261	the fur	FUR	580		fəə	fəə 
+706	23-6-29-1	768175368050273	Thai	thai1261	the leather	LEATHER	629	หนัง	nǎŋ	nǎŋ 
+707	23-6-31-1	7681753114592186	Thai	thai1261	to spin	SPIN	121	ปั่น	pàn	pàn 
+708	23-6-32-1	7681753134611734	Thai	thai1261	the spindle	SPINDLE	277	แกน	kaeaen	kaeaen 
+709	23-6-33-1	7681753205202602	Thai	thai1261	to weave	WEAVE	133	ทอ	thɔɔ	thɔɔ 
+710	23-6-33-2	7681753637255548	Thai	thai1261	to weave	WEAVE	133	สาน	sǎan (1)	sǎan (1) 
+711	23-6-34-1	7681753448647669	Thai	thai1261	the loom	LOOM	1787	หูก	hùuk	hùuk 
+712	23-6-34-2	7681753747320603	Thai	thai1261	the loom	LOOM	1787	กี่	kìi (1)	kìi (1) 
+713	23-6-35-1	768175373027906	Thai	thai1261	to sew	SEW	1457	เย็บ	yép	yép 
+714	23-6-36-1	7681753780905631	Thai	thai1261	the needle(1)	NEEDLE (FOR SEWING)	1382	เข็ม	khěm	khěm 
+715	23-6-37-1	7681753626013283	Thai	thai1261	the awl	AWL	278	หมาด	màat	màat 
+716	23-6-38-1	7681753118477634	Thai	thai1261	the thread	THREAD	1161	ด้าย	dâay (1)	dâay (1) 
+717	23-6-38-2	7681753438394270	Thai	thai1261	the thread	THREAD	1161	ไหม	mǎy	mǎy 
+718	23-6-39-1	7681753637067843	Thai	thai1261	to dye	DYE	157	ย้อม	yɔ́ɔm	yɔ́ɔm 
+719	23-6-41-1	7681753620503707	Thai	thai1261	the cloak	CLOAK	326	เสื้อคลุม	sʉ̂akhlum	sʉ̂akhlum 
+720	23-7-37-1	7681753801175055	Thai	thai1261	the ladder	LADDER	1464	บันได	banday	banday 
+721	23-7-37-2	7681753725422587	Thai	thai1261	the ladder	LADDER	1464	กระได	kraday	kraday 
+722	23-6-42-1	7681753394416602	Thai	thai1261	the (woman's) dress	DRESS	474	ชุด	chút	chút 
+723	23-6-43-1	7681753973732300	Thai	thai1261	the coat	COAT	603	โค้ต	kóot	kóot 
+724	23-6-44-1	768175370911436	Thai	thai1261	the shirt	SHIRT	1622	เชิ้ต	chə́ət	chə́ət 
+725	23-6-44-2	77221932935736450	Thai	thai1261	the shirt	SHIRT	1622	เสื้อ	sʉ̂a	sʉ̂a 
+726	23-6-45-1	7681753277975805	Thai	thai1261	the collar	COLLAR	2012	ปก	pòk	pòk 
+727	23-6-45-2	7681753984850377	Thai	thai1261	the collar	COLLAR	2012	คอ	khɔɔ	khɔɔ 
+728	23-6-46-1	7681753688979356	Thai	thai1261	the skirt	SKIRT	1600	กระโปรง	kraprooŋ	kraprooŋ 
+729	23-6-46-2	7681753123122103	Thai	thai1261	the skirt	SKIRT	1600	ซิ่น	sîn (1)	sîn (1) 
+730	23-6-48-1	7681753453933933	Thai	thai1261	the trousers	TROUSERS	809	กางเกง	kaaŋkeeŋ	kaaŋkeeŋ 
+731	23-6-49-1	7681753695216394	Thai	thai1261	the sock or stocking	STOCKING	329	ถุงเท้า	thǔŋtháaw	thǔŋtháaw 
+732	23-6-49-2	7681753914422832	Thai	thai1261	the sock or stocking	STOCKING	329	ถุงน่อง	thǔŋnɔ̂ɔŋ	thǔŋnɔ̂ɔŋ 
+733	23-6-51-1	7681753596452450	Thai	thai1261	the shoe	SHOE	1381	รองเท้า	rɔɔŋtháaw	rɔɔŋtháaw 
+734	23-6-51-2	7681753550930098	Thai	thai1261	the shoe	SHOE	1381	เกือก	kʉ̀ak	kʉ̀ak 
+735	23-6-52-1	7681753494171874	Thai	thai1261	the boot	BOOT	585	บู๊ต	búut	búut 
+736	23-6-54-1	7681753539788827	Thai	thai1261	the shoemaker	SHOEMAKER	875	ช่างทำรองเท้า	châŋthamrɔɔŋtháaw	châŋthamrɔɔŋtháaw 
+737	23-6-55-1	7681753271487349	Thai	thai1261	the hat or cap	HEADGEAR	2130	หมวก	mùak	mùak 
+738	23-6-55-2	7681753932706575	Thai	thai1261	the hat or cap	HEADGEAR	2130	มาลา	maalaa	maalaa 
+739	23-6-55-3	7681753111255911	Thai	thai1261	the hat or cap	HEADGEAR	2130	แก๊บ	káep	káep 
+740	23-6-57-1	7681753787063220	Thai	thai1261	the belt	BELT	772	เข็มขัด	khěmkhàt	khěmkhàt 
+741	23-6-58-1	7681753535284287	Thai	thai1261	the glove	GLOVE	867	ถุงมือ	thǔŋmʉʉ	thǔŋmʉʉ 
+742	23-6-59-1	7681753822237093	Thai	thai1261	the veil	VEIL	1151	ผ้าคลุมหน้า	phâakhlumnâa	phâakhlumnâa 
+743	23-6-61-1	7681753163314183	Thai	thai1261	the pocket	POCKET	1851	กระเป๋า	krapǎo	krapǎo 
+744	23-6-62-1	7681753931282474	Thai	thai1261	the button	BUTTON	757	กระดุม	kradum	kradum 
+745	23-6-62-2	7681753962032906	Thai	thai1261	the button	BUTTON	757	ดุม	dum	dum 
+746	23-6-63-1	7681753435450359	Thai	thai1261	the pin	PIN	64	เข็มกลัด	khěmklàt	khěmklàt 
+747	23-6-71-1	7681753320095840	Thai	thai1261	the ornament or adornment	ORNAMENT	917	เครื่องประดับ	khrʉ̂aŋpradàp	khrʉ̂aŋpradàp 
+748	23-6-71-2	7681753407281221	Thai	thai1261	the ornament or adornment	ORNAMENT	917	สรัอย	sɔ̂ɔy	sɔ̂ɔy 
+749	23-6-72-1	768175339245571	Thai	thai1261	the jewel	JEWEL	1029	เพชรพลอย	phétphlɔɔy	phétphlɔɔy 
+750	23-6-73-1	7681753637697815	Thai	thai1261	the ring	RING	1374	แหวน	wǎeaen	wǎeaen 
+751	23-6-74-1	7681753133132984	Thai	thai1261	the bracelet	BRACELET	1754	สร้อยข้อมือ	sɔ̂ɔykhɔ̂ɔmʉʉ	sɔ̂ɔykhɔ̂ɔmʉʉ 
+752	23-6-75-1	7681753259244603	Thai	thai1261	the necklace	NECKLACE	1961	สร้อยคอ	sɔ̂ɔykhɔɔ	sɔ̂ɔykhɔɔ 
+753	23-6-76-1	7681753817681428	Thai	thai1261	the bead	BEAD	1860	ปัด	pàt	pàt 
+754	23-6-77-1	768175364760167	Thai	thai1261	the earring	EARRING	770	ตุ้มหู	tûmhǔu	tûmhǔu 
+755	23-6-77-2	7681753661740309	Thai	thai1261	the earring	EARRING	770	ต่างหู	tàaŋhǔu	tàaŋhǔu 
+756	23-6-79-1	7681753824020248	Thai	thai1261	the tattoo	TATTOO	68	สัก	sàk	sàk 
+757	23-6-81-1	7681753751608962	Thai	thai1261	the handkerchief or rag	RAG	332	ผ้าเช็ดหน้า	phâachétnâa	phâachétnâa 
+758	23-6-82-1	7681753862895245	Thai	thai1261	the towel	TOWEL	1021	ผ้าเช็ดตัว	phâachéttua	phâachéttua 
+759	23-6-91-1	7681753340718540	Thai	thai1261	the comb	COMB	1475	หวี	wǐi	wǐi 
+760	23-6-92-1	7681753622498205	Thai	thai1261	the brush	BRUSH	1821	แปรง	praeaeŋ	praeaeŋ 
+761	23-6-921-1	7681753705322822	Thai	thai1261	the plait/braid	BRAID	1043	เปีย	pia	pia 
+762	23-6-93-1	7681753902070878	Thai	thai1261	the razor	RAZOR	151	มีดโกน	mîitkoon	mîitkoon 
+763	23-6-94-1	7681753901605945	Thai	thai1261	the ointment	OINTMENT	1926	ขี้ผึ้ง	khîiphʉ̂ŋ (2)	khîiphʉ̂ŋ (2) 
+764	23-6-94-2	7681753490864847	Thai	thai1261	the ointment	OINTMENT	1926	น้ำมัน	náamman (2)	náamman (2) 
+765	23-6-95-1	7681753606026783	Thai	thai1261	the soap	SOAP	788	สบู่	sabùu	sabùu 
+766	23-6-96-1	7681753580804899	Thai	thai1261	the mirror	MIRROR	1171	กระจกเงา	kracòkŋao	kracòkŋao 
+767	23-7-11-1	7681753678976046	Thai	thai1261	to live	DWELL (LIVE, RESIDE)	363	อาศัย	?aasǎi	?aasǎi 
+768	23-7-11-2	771600975537609	Thai	thai1261	to live	DWELL (LIVE, RESIDE)	363	อยู่	yùu	yùu 
+769	23-7-12-1	7681753347511443	Thai	thai1261	the house	HOUSE	1252	บ้าน	bâan	bâan 
+770	23-7-12-2	7681753526165721	Thai	thai1261	the house	HOUSE	1252	เรือน	rʉan	rʉan 
+771	23-7-12-3	7681753952746409	Thai	thai1261	the house	HOUSE	1252	เหย้า	yâo	yâo 
+772	23-7-13-1	768175356784621	Thai	thai1261	the hut	HUT	1678	กระท่อม	krathôm	krathôm 
+773	23-7-13-2	7681753838425007	Thai	thai1261	the hut	HUT	1678	กระต๊อบ	kratóp	kratóp 
+774	23-7-13-3	7681753209233373	Thai	thai1261	the hut	HUT	1678	ทับ	tháp (1)	tháp (1) 
+775	23-7-14-1	7681753658337283	Thai	thai1261	the tent	TENT	1316	เต็นท์	tén	tén 
+776	23-7-14-2	768175354793950	Thai	thai1261	the tent	TENT	1316	กระโจม	kracoom	kracoom 
+777	23-7-15-1	7681753526076841	Thai	thai1261	the yard or court	YARD	736	ลาน	laan	laan 
+778	23-7-17-1	7681753366763135	Thai	thai1261	the cookhouse	COOKHOUSE	334	เรือนครัว	rʉankhrua	rʉankhrua 
+779	23-7-21-1	7681753700963690	Thai	thai1261	the room	ROOM	1450	ห้อง	hɔ̂ŋ	hɔ̂ŋ 
+780	23-7-22-1	7681753451220340	Thai	thai1261	the door or gate	DOOR	1567	ประตู	pratuu	pratuu 
+781	23-7-22-2	7681753501147649	Thai	thai1261	the door or gate	DOOR	1567	ทวาร	thawaan	thawaan 
+782	23-7-221-1	7681753722071471	Thai	thai1261	the doorpost	DOORPOST	80	เสา	sǎo (1)	sǎo (1) 
+783	23-7-23-1	7681753175968217	Thai	thai1261	the lock	LOCK	1596	ล็อค	lɔ́k	lɔ́k 
+784	23-7-23-2	77222013665242594	Thai	thai1261	the lock	LOCK	1596	สลัก	salàk (1)	salàk (1) 
+785	23-7-231-1	7681753185160032	Thai	thai1261	the latch or door-bolt	LATCH	1012	กลอน	klɔɔn	klɔɔn 
+786	23-7-24-1	7681753239883833	Thai	thai1261	the key	KEY	1472	กุญแจ	lûukkuncaeae	lûukkuncaeae 
+787	23-7-25-1	7681753997610182	Thai	thai1261	the window	WINDOW	1375	หน้าต่าง	nâatàaŋ	nâatàaŋ 
+788	23-7-25-2	7681753508599801	Thai	thai1261	the window	WINDOW	1375		klaeae	klaeae 
+789	23-7-26-1	7681753955113433	Thai	thai1261	the floor	FLOOR	1632	พื้น	phʉ́ʉn	phʉ́ʉn 
+790	23-7-27-1	7681753371180994	Thai	thai1261	the wall	WALL (OF HOUSE)	933	ฝา	fǎa	fǎa 
+791	23-7-27-2	7681753149929059	Thai	thai1261	the wall	WALL (OF HOUSE)	933	ผนัง	phanǎŋ	phanǎŋ 
+792	23-7-27-3	7681753103380182	Thai	thai1261	the wall	WALL (OF HOUSE)	933	กำแพง	kamphaeaeŋ	kamphaeaeŋ 
+793	23-7-31-1	7681753452724712	Thai	thai1261	the fireplace	FIREPLACE	185	เตาผิง	taophǐŋ	taophǐŋ 
+794	23-7-32-1	7681753932590448	Thai	thai1261	the stove	STOVE	859	เตา	tao	tao 
+795	23-7-33-1	7681753460778475	Thai	thai1261	the chimney	CHIMNEY	1305	ปล่องไฟ	plɔ̀ŋfay	plɔ̀ŋfay 
+796	23-7-42-1	7681753784429212	Thai	thai1261	the bed	BED	1663	เตียง	tiaŋ	tiaŋ 
+797	23-7-42-2	7681753171780579	Thai	thai1261	the bed	BED	1663	แท่น	thâen	thâen 
+798	23-7-421-1	7681753168027275	Thai	thai1261	the pillow	PILLOW	1044	หมอน	mɔ̂ɔn	mɔ̂ɔn 
+799	23-7-421-2	7681753672996231	Thai	thai1261	the pillow	PILLOW	1044	เขนย	khanəəy	khanəəy 
+800	23-7-422-1	7681753344515693	Thai	thai1261	the blanket	BLANKET	806	ผ้าห่ม	phátlom	phátlom 
+801	23-7-43-1	7681753645622291	Thai	thai1261	the chair	CHAIR	1476	เก้าอี้	kâo?îi	kâo?îi 
+802	23-7-44-1	7681753466907498	Thai	thai1261	the table	TABLE	1775	โต๊ะ	tó	tó 
+803	23-7-45-1	7681753456670989	Thai	thai1261	the lamp or torch	TORCH OR LAMP	2131	ตะเกียง	takiaŋ	takiaŋ 
+804	23-7-45-2	7681753702850943	Thai	thai1261	the lamp or torch	TORCH OR LAMP	2131	โคม	khoom	khoom 
+805	23-7-45-3	7681753108814454	Thai	thai1261	the lamp or torch	TORCH OR LAMP	2131	ไต้	tâay (1)	tâay (1) 
+806	23-7-46-1	7681753293555709	Thai	thai1261	the candle	CANDLE	1273	เทียน	thian	thian 
+807	23-7-47-1	7681753131075685	Thai	thai1261	the shelf	SHELF	745	หิ้ง	hîŋ	hîŋ 
+808	23-7-48-1	768175343174515	Thai	thai1261	the trough	TROUGH	205	ราง	raaŋ	raaŋ 
+809	23-7-51-1	7681753120323817	Thai	thai1261	the roof	ROOF	769	หลังคา	lǎŋkhaa	lǎŋkhaa 
+810	23-7-52-1	7681753875752337	Thai	thai1261	the thatch	THATCH	279	หลังคามุงจาก	lǎŋkhaamuŋcàak	lǎŋkhaamuŋcàak 
+811	23-7-53-1	7681753983213776	Thai	thai1261	the ridgepole	RIDGEPOLE	280	อกไก่	?òkkày	?òkkày 
+812	23-7-54-1	7681753951437362	Thai	thai1261	the rafter	RAFTER	829		canthan	canthan 
+813	23-7-55-1	7681753931104596	Thai	thai1261	the beam	BEAM	1132	ขื่อ	khʉ̀ʉ	khʉ̀ʉ 
+814	23-7-55-2	7681753719454736	Thai	thai1261	the beam	BEAM	1132	แป	paeae	paeae 
+815	23-7-56-1	7681753969948511	Thai	thai1261	the post or pole	POST	281	เสา	sǎo (1)	sǎo (1) 
+816	23-7-57-1	7681753982455277	Thai	thai1261	the board	BOARD	1227	กระดาน	kradaan	kradaan 
+817	23-7-58-1	7681753615832337	Thai	thai1261	the arch	ARCH	876	โค้ง	khóoŋ	khóoŋ 
+818	23-7-61-1	7681753367787785	Thai	thai1261	the mason	MASON	877	ช่างก่อตึก	châŋkɔ̀ɔtʉ̀k	châŋkɔ̀ɔtʉ̀k 
+819	23-7-62-1	7681753569258467	Thai	thai1261	the brick	BRICK	1006	อิฐ	?ìt	?ìt 
+820	23-7-63-1	7681753366489555	Thai	thai1261	the mortar(2)	MORTAR BINDER	1731		puun	puun 
+821	23-8-11-1	7681753308614051	Thai	thai1261	the farmer	FARMER	979	ชาวนา	chaawnaa	chaawnaa 
+822	23-8-11-2	7681753193506234	Thai	thai1261	the farmer	FARMER	979	เกษตรกร	kasèettrakɔɔn	kasèettrakɔɔn 
+823	23-8-11-3	7681753588586247	Thai	thai1261	the farmer	FARMER	979	กสิกร	kasìkɔɔn	kasìkɔɔn 
+824	23-8-12-1	7681753291339674	Thai	thai1261	the field	FIELD	212	ไร่	rây	rây 
+825	23-8-13-1	7681753105946724	Thai	thai1261	the garden	GARDEN	586	สวน	sǔan	sǔan 
+826	23-8-13-2	7681753963316802	Thai	thai1261	the garden	GARDEN	586	อุทยาน	?ùtthayaan	?ùtthayaan 
+827	23-8-15-1	7681753975865193	Thai	thai1261	to cultivate	CULTIVATE	1541	เพาะ	phɔ́	phɔ́ 
+828	23-8-15-2	7681753600303789	Thai	thai1261	to cultivate	CULTIVATE	1541	ปลูก	plùuk	plùuk 
+829	23-8-15-3	7681753742197030	Thai	thai1261	to cultivate	CULTIVATE	1541	เพาะปลูก	phɔ́plùuk	phɔ́plùuk 
+830	23-8-16-1	7681753184310413	Thai	thai1261	the fence	FENCE	1690	รั้ว	rúa	rúa 
+831	23-8-17-1	7681753842065279	Thai	thai1261	the ditch	DITCH	2002	ร่อง	rɔ̂ŋ	rɔ̂ŋ 
+832	23-8-21-1	7681753556724775	Thai	thai1261	to plough/plow	PLOUGH	1921	ไถ	thǎy	thǎy 
+833	23-8-212-1	7681753829204898	Thai	thai1261	the furrow	FURROW	1794	ร่อง	rɔ̂ŋ	rɔ̂ŋ 
+834	23-8-22-1	7681753211681889	Thai	thai1261	to dig	DIG	1418	ขุด	khùt	khùt 
+835	23-8-23-1	7681753220578788	Thai	thai1261	the spade	SPADE	1176	เสียม	sǐam	sǐam 
+836	23-8-24-1	7681753861197428	Thai	thai1261	the shovel	SHOVEL	1901	พลั่ว	phlûa	phlûa 
+837	23-8-25-1	7681753620762315	Thai	thai1261	the hoe	HOE	284	จอบ	cɔ̀ɔp	cɔ̀ɔp 
+838	23-8-26-1	7681753534455169	Thai	thai1261	the fork(2)/pitchfork	PITCHFORK	337	ง่าม	ŋâam	ŋâam 
+839	23-8-27-1	7681753311284868	Thai	thai1261	the rake	RAKE	338	คราด	khrâat	khrâat 
+840	23-8-31-1	7681753528549465	Thai	thai1261	to sow	SOW SEEDS	748	หว่าน	wàan	wàan 
+841	23-8-311-1	768175371832036	Thai	thai1261	the seed	SEED	714	เม็ด	mét	mét 
+842	23-8-311-2	7681753680011871	Thai	thai1261	the seed	SEED	714	เมล็ด	malét	malét 
+843	23-8-32-1	7681753871036375	Thai	thai1261	to mow	MOW	190	ตัดหญ้า	tàtyâa	tàtyâa 
+844	23-8-33-1	7681753236479812	Thai	thai1261	the sickle or scythe	SICKLE OR SCYTHE	2132	เคียว	khiaw	khiaw 
+845	23-8-34-1	7681753332551433	Thai	thai1261	to thresh	THRESH	285	นวด	nûat	nûat 
+846	23-8-35-1	7681753544712903	Thai	thai1261	the threshing-floor	THRESHING-FLOOR	223	ลานนวดข้าว	laannûatkhâaw	laannûatkhâaw 
+847	23-8-41-1	7681753811972125	Thai	thai1261	the harvest	HARVEST	611	เก็บเกิ่ยว	kèpkìaw	kèpkìaw 
+848	23-8-42-1	7681753462146918	Thai	thai1261	the grain	GRAIN	605	เมล็ด	malét	malét 
+849	23-8-43-1	7681753656581464	Thai	thai1261	the wheat	WHEAT	1077	สาลี	sǎalii	sǎalii 
+850	23-8-44-1	7681753887942063	Thai	thai1261	the barley	BARLEY	932	บาร์เลย์	baalêe	baalêe 
+851	23-8-46-1	7681753468833631	Thai	thai1261	the oats	OAT	60	โอ๊ต	?óot	?óot 
+852	23-8-47-1	7681753773955829	Thai	thai1261	the maize/corn	MAIZE	506	โพด	phôot	phôot 
+853	23-8-48-1	7681753473753722	Thai	thai1261	the rice	RICE	926	ข้าว	khâaw (1)	khâaw (1) 
+854	23-8-48-2	854354615087408	Thai	thai1261	the rice	RICE	926		baay	baay 
+855	23-8-51-1	768175346796982	Thai	thai1261	the grass	GRASS	606	หญ้า	yâa (2)	yâa (2) 
+856	23-8-51-2	7681753696274406	Thai	thai1261	the grass	GRASS	606	ตฤณ	trin	trin 
+857	23-8-52-1	7681753857267290	Thai	thai1261	the hay	HAY	342	ฟาง	faaŋ	faaŋ 
+858	23-8-53-1	7681753110422483	Thai	thai1261	the plant	PLANT (VEGETATION)	653	พืช	phʉ̂ʉt	phʉ̂ʉt 
+859	23-8-531-1	7681753888460868	Thai	thai1261	to plant	PLANT (SOMETHING)	1486	ปลูก	plùuk	plùuk 
+860	23-8-54-1	7681753490588265	Thai	thai1261	the root	ROOT	670	ราก	râak	râak 
+861	23-8-54-2	7681753755068998	Thai	thai1261	the root	ROOT	670	เหง้า	ŋâo	ŋâo 
+862	23-8-55-1	7681753624244096	Thai	thai1261	the branch	BRANCH OR TWIG	3223	กิ่ง	kìŋ	kìŋ 
+863	23-8-56-1	768175340114153	Thai	thai1261	the leaf	LEAF	628	ใบ	bay	bay 
+864	23-8-57-1	7681753693641570	Thai	thai1261	the flower	FLOWER	239	ดอก	dɔ̀ɔk	dɔ̀ɔk 
+865	23-8-57-2	7681753260393737	Thai	thai1261	the flower	FLOWER	239	ปลี	plii	plii 
+866	23-8-6-1	768175355073841	Thai	thai1261	the tree	TREE	906	ไม้	máay	máay 
+867	23-8-6-2	7681753865252340	Thai	thai1261	the tree	TREE	906	เฌอ	chəə	chəə 
+868	23-8-6-3	7681753603268086	Thai	thai1261	the tree	TREE	906	พฤกษา	phrʉ́ksǎa	phrʉ́ksǎa 
+869	23-8-6-4	7681753580796172	Thai	thai1261	the tree	TREE	906	รุกขะ	rúkkhà	rúkkhà 
+870	23-8-6-5	7681753207624830	Thai	thai1261	the tree	TREE	906	วน	waná	waná 
+871	23-8-61-1	7681753464851059	Thai	thai1261	the oak	OAK	644	โอ๊ค	?óok	?óok 
+872	23-8-64-1	768175389381531	Thai	thai1261	the pine	PINE	1740	สน	sǒn	sǒn 
+873	23-8-65-1	7681753351804407	Thai	thai1261	the fir	FIR	1915		fəə	fəə 
+874	23-8-67-1	7681753456022543	Thai	thai1261	the vine	VINE	343	เถาวัลย์	thǎowan	thǎowan 
+875	23-8-68-1	7681753253730614	Thai	thai1261	the tobacco	TOBACCO	974	ยาสูบ	yaasùup	yaasùup 
+876	23-8-69-1	7681753677595119	Thai	thai1261	to smoke	SMOKE (INHALE)	1689	สูบ	sùup	sùup 
+877	23-8-691-1	7681753479114586	Thai	thai1261	the pipe	PIPE	1124	กล้อง	klɔ̂ŋ	klɔ̂ŋ 
+878	23-8-691-2	7723015391265564	Thai	thai1261	the pipe	PIPE	1124	ไป๊ป์	páy	páy 
+879	23-8-72-1	7681753403175564	Thai	thai1261	the tree stump	TREE STUMP	241	ตอ	tɔɔ	tɔɔ 
+880	23-8-73-1	7681753829587354	Thai	thai1261	the tree trunk	TREE TRUNK	344	ต้น	tôn	tôn 
+881	23-8-74-1	7681753586012347	Thai	thai1261	the forked branch	FORKED BRANCH	409	ง่าม	ŋâam	ŋâam 
+882	23-8-75-1	76817537237944	Thai	thai1261	the bark	BARK	1204	เปลือก	plʉ̀ak	plʉ̀ak 
+883	23-8-75-2	7681753639140041	Thai	thai1261	the bark	BARK	1204	ผิว	phǐw (1)	phǐw (1) 
+884	23-8-76-1	7681753922018050	Thai	thai1261	the sap	SAP	345	ยาง	yaaŋ	yaaŋ 
+885	23-8-81-1	7681753166866781	Thai	thai1261	the palm tree	PALM TREE	1181	หมาก	màak	màak 
+886	23-8-82-1	7681753731275785	Thai	thai1261	the coconut	COCONUT	970	มะพร้าว	maphráaw	maphráaw 
+887	23-8-83-1	7681753437504880	Thai	thai1261	the citrus fruit	CITRUS FRUIT	1126	มะกรูด	makrùut	makrùut 
+888	23-8-84-1	768175347291778	Thai	thai1261	the banana	BANANA	868	กล้วย	klûay	klûay 
+889	23-8-84-2	7681753306982946	Thai	thai1261	the banana	BANANA	868	กัทลี	kàtthalii	kàtthalii 
+890	23-8-85-1	7681753962968563	Thai	thai1261	the banyan	BANYAN	346	ไทร	sai	sai 
+891	23-8-91-1	7681753987045785	Thai	thai1261	the sweet potato	SWEET POTATO	159	มันเทศ	manthêet	manthêet 
+892	23-8-912-1	7681753569281910	Thai	thai1261	the yam	YAM	410	มัน	man (2)	man (2) 
+893	23-8-92-1	768175332086736	Thai	thai1261	the cassava/manioc	CASSAVA	925	มันสำปะหลัง	mansǎmpalǎŋ	mansǎmpalǎŋ 
+894	23-8-93-1	7681753703436941	Thai	thai1261	the gourd	GOURD	411	น้ำเต้า	náamtâo	náamtâo 
+895	23-8-931-1	768175367381500	Thai	thai1261	the pumpkin or squash	PUMPKIN	864	ฟัก	fák	fák 
+896	23-8-94-1	7681753791545937	Thai	thai1261	the bamboo	BAMBOO	1927	ไผ่	phày	phày 
+897	23-8-94-2	768175367801875	Thai	thai1261	the bamboo	BAMBOO	1927		weelú	weelú 
+898	23-8-941-1	768175356871875	Thai	thai1261	the sugar cane	SUGAR CANE	146	อ้อย	?ɔ̂y	?ɔ̂y 
+899	23-8-97-1	7681753297744180	Thai	thai1261	the nettle	NETTLE	33	ตำแย	tamyaeae	tamyaeae 
+900	23-8-98-1	7681753506814743	Thai	thai1261	the mushroom	MUSHROOM	641	เห็ด	hèt	hèt 
+901	23-9-11-1	768175399171508	Thai	thai1261	to do	DO	813	ทำ	tham	tham 
+902	23-9-11-2	7723029316491725	Thai	thai1261	to do	DO	813	เฮ็ด	hét	hét 
+903	23-9-12-1	7681753347711753	Thai	thai1261	the work	WORK (LABOUR)	984	ทำงาน	thamŋaan	thamŋaan 
+904	23-9-14-1	7681753432189521	Thai	thai1261	to bend	BEND	2004	โน้ม	nóom	nóom 
+905	23-9-14-2	7681753986122501	Thai	thai1261	to bend	BEND	2004	เหนี่ยว	nìaw	nìaw 
+906	23-9-15-1	7681753586702908	Thai	thai1261	to fold	FOLD	1470	พับ	pháp	pháp 
+907	23-9-16-1	7681753151600110	Thai	thai1261	to tie	TIE	1917	ผูก	phùuk	phùuk 
+908	23-9-16-2	7681753341421491	Thai	thai1261	to tie	TIE	1917	ล่าม	lâam	lâam 
+909	23-9-161-1	7681753636201378	Thai	thai1261	to untie	UNTIE	352	แก้	kâeae	kâeae 
+910	23-9-18-1	7681753813133478	Thai	thai1261	the chain	CHAIN	1627	โซ่	sôo	sôo 
+911	23-9-19-1	7681753776882177	Thai	thai1261	the rope	ROPE	1218	เชือก	chʉ̂ak	chʉ̂ak 
+912	23-9-192-1	768175327154212	Thai	thai1261	the knot	KNOT	760	ปม	pom	pom 
+913	23-9-192-2	7681753352531725	Thai	thai1261	the knot	KNOT	760	ข้อ	khɔ̂ɔ	khɔ̂ɔ 
+914	23-9-21-1	7681753233652294	Thai	thai1261	to strike or hit or beat	STRIKE OR BEAT	2133	ตี	tii	tii 
+915	23-9-211-1	768175380692819	Thai	thai1261	to pound	POUND	354	ทุบ	thúp	thúp 
+916	23-9-22-1	7681753578791141	Thai	thai1261	to cut	CUT	1432	ตัด	tàt	tàt 
+917	23-9-22-2	7681753630257480	Thai	thai1261	to cut	CUT	1432	บาด	bàat (2)	bàat (2) 
+918	23-9-221-1	7681753306660107	Thai	thai1261	to cut down	CUT DOWN	355	โค่น	khôon	khôon 
+919	23-9-222-1	7681753449798717	Thai	thai1261	to chop	CHOP	155	ฟัน	fan (2)	fan (2) 
+920	23-9-223-1	7681753726113432	Thai	thai1261	to stab	STAB TO DEATH	3189	แทง	thaeaeŋ	thaeaeŋ 
+921	23-9-223-2	7681753688221935	Thai	thai1261	to stab	STAB TO DEATH	3189	เสียบ	sìap	sìap 
+922	23-9-23-1	7681753947873413	Thai	thai1261	the knife(2)	KNIFE	1352	มีด	mîit	mîit 
+923	23-9-24-1	7681753702143734	Thai	thai1261	the scissors or shears	SHEARS	356	กรรไกร	kankray	kankray 
+924	23-9-24-2	7681753716204626	Thai	thai1261	the scissors or shears	SHEARS	356	ตะไกร	takray	takray 
+925	23-9-24-3	7681753707404767	Thai	thai1261	the scissors or shears	SHEARS	356	กรรไตร	kantray	kantray 
+926	23-9-25-1	7681753955416299	Thai	thai1261	the axe/ax	AXE	677	ขวาน	khwǎan	khwǎan 
+927	23-9-251-1	7681753817170349	Thai	thai1261	the adze	ADZE	290	ผึ่ง	phʉ̀ŋ	phʉ̀ŋ 
+928	23-9-26-1	7681753148595311	Thai	thai1261	to break	BREAK (DESTROY OR GET DESTROYED)	680	ทุบ	thúp	thúp 
+929	23-9-26-2	7681753171581673	Thai	thai1261	to break	BREAK (DESTROY OR GET DESTROYED)	680	แตก	tàeaek	tàeaek 
+930	23-9-261-1	7681753353974687	Thai	thai1261	broken	BROKEN (NOT WORKING)	3190	เสีย	sǐa	sǐa 
+931	23-9-27-1	7681753828829599	Thai	thai1261	to split	SPLIT	1437	ผ่า	phàa	phàa 
+932	23-9-28-1	768175382680707	Thai	thai1261	to tear	TEAR (SHRED)	1735	ฉีก	chìik	chìik 
+933	23-9-83-1	7681753982082537	Thai	thai1261	the statue	STATUE	1002	รูปปั้น	rûuppân	rûuppân 
+934	23-9-29-1	7681753587461823	Thai	thai1261	to skin	PULL OFF (SKIN)	291	ถลก	thalòk	thalòk 
+935	23-9-31-1	768175355956817	Thai	thai1261	to rub	RUB	1449	ถู	thǔu	thǔu 
+936	23-9-31-2	7681753575798605	Thai	thai1261	to rub	RUB	1449	สี	sǐi (2)	sǐi (2) 
+937	23-9-31-3	7681753993616450	Thai	thai1261	to rub	RUB	1449	นวด	nûat	nûat 
+938	23-9-32-1	7681753888504294	Thai	thai1261	to stretch	STRETCH	214	ยืด	yʉ̂ʉt	yʉ̂ʉt 
+939	23-9-33-1	7681753826667249	Thai	thai1261	to pull	PULL	1455	ดึง	dʉŋ	dʉŋ 
+940	23-9-33-2	7723044795396057	Thai	thai1261	to pull	PULL	1455	ลาก	lâak	lâak 
+941	23-9-34-1	7681753702300589	Thai	thai1261	to spread out	SPREAD OUT	38	ปู	puu	puu 
+942	23-9-34-2	7681753448492027	Thai	thai1261	to spread out	SPREAD OUT	38	แผ่	phàeae	phàeae 
+943	23-9-34-3	7681753574953070	Thai	thai1261	to spread out	SPREAD OUT	38	แบ	baeae	baeae 
+944	23-9-341-1	7681753835497123	Thai	thai1261	to hang up	HANG UP	357	แขวน	khwǎeaen	khwǎeaen 
+945	23-9-342-1	7681753870637474	Thai	thai1261	to press	PRESS	1913	กด	kòt	kòt 
+946	23-9-342-2	7723046254591696	Thai	thai1261	to press	PRESS	1913	นาบ	nâap	nâap 
+947	23-9-342-3	7723046381540771	Thai	thai1261	to press	PRESS	1913	แนบ	nâeaep	nâeaep 
+948	23-9-343-1	7681753574372266	Thai	thai1261	to squeeze	SQUEEZE	1414	คั้น	khán	khán 
+949	23-9-35-1	7681753199941994	Thai	thai1261	to pour	POUR	1487	ริน	rin	rin 
+950	23-9-35-2	7681753918543797	Thai	thai1261	to pour	POUR	1487	รด	rót (1)	rót (1) 
+951	23-9-35-3	7681753533710971	Thai	thai1261	to pour	POUR	1487	ราด	râat	râat 
+952	23-9-35-4	7681753904801140	Thai	thai1261	to pour	POUR	1487	หลั่ง	làŋ	làŋ 
+953	23-9-36-1	7681753572664950	Thai	thai1261	to wash	WASH	1453	ล้าง	láaŋ	láaŋ 
+954	23-9-37-1	7681753791666298	Thai	thai1261	to sweep	SWEEP	230	กวาด	kwàat	kwàat 
+955	23-9-38-1	7681753185357251	Thai	thai1261	the broom	BROOM	245	ไม้กวาด	máaykwàat	máaykwàat 
+956	23-9-422-1	7681753190267139	Thai	thai1261	the tool	TOOL	1361	เครื่องมือ	khrʉ̂aŋmʉʉ	khrʉ̂aŋmʉʉ 
+957	23-9-43-1	7681753336967169	Thai	thai1261	the carpenter	CARPENTER	1042	ช่างไม้	châŋmáay	châŋmáay 
+958	23-9-44-1	7681753885948984	Thai	thai1261	to build	BUILD	1840	ปลูก	plùuk	plùuk 
+959	23-9-44-2	7681753778666204	Thai	thai1261	to build	BUILD	1840	ก่อ	kɔ̀ɔ	kɔ̀ɔ 
+960	23-9-44-3	768175390702180	Thai	thai1261	to build	BUILD	1840	สร้าง	sâaŋ	sâaŋ 
+961	23-9-44-4	7681753451887457	Thai	thai1261	to build	BUILD	1840	รัง	raŋ (2)	raŋ (2) 
+962	23-9-44-5	7681753235638836	Thai	thai1261	to build	BUILD	1840	ตั้ง	tâŋ	tâŋ 
+963	23-9-46-1	76817536584151	Thai	thai1261	to bore	BORE	1501	เจาะ	cɔ̀	cɔ̀ 
+964	23-9-461-1	7681753852191946	Thai	thai1261	to hollow out	HOLLOW OUT	46	คว้าน	khwáan	khwáan 
+965	23-9-48-1	7681753512601432	Thai	thai1261	the saw	SAW	1948	เลื่อย	lʉ̂ay	lʉ̂ay 
+966	23-9-49-1	7681753892220993	Thai	thai1261	the hammer	HAMMER	1481	ค้อน	khɔ́ɔn	khɔ́ɔn 
+967	23-9-5-1	7681753237485448	Thai	thai1261	the nail	NAIL (TOOL)	502	ตะปู	tapuu	tapuu 
+968	23-9-56-1	7681753629028469	Thai	thai1261	the glue	GLUE	1069	กาว	kaaw	kaaw 
+969	23-9-6-1	7681753901414701	Thai	thai1261	the blacksmith	BLACKSMITH	1001	ช่างเหล็ก	châaŋlèk	châaŋlèk 
+970	23-9-61-1	7681753161904395	Thai	thai1261	to forge	FORGE	288	ตีเหล็ก	tiilèk	tiilèk 
+971	23-9-62-1	7681753538701130	Thai	thai1261	the anvil	ANVIL	1648	ทั่ง	thâŋ	thâŋ 
+972	23-9-63-1	7681753244973435	Thai	thai1261	to cast	CAST	211	หล่อ	lɔ̀ɔ	lɔ̀ɔ 
+973	23-9-64-1	7681753625353263	Thai	thai1261	the gold	GOLD	1369	ทอง	thɔɔŋ	thɔɔŋ 
+974	23-9-64-2	7681753583560879	Thai	thai1261	the gold	GOLD	1369	คำ	kham (1)	kham (1) 
+975	23-9-64-3	76817531341436	Thai	thai1261	the gold	GOLD	1369	สุวรรณ	suwan	suwan 
+976	23-9-64-4	7681753659139923	Thai	thai1261	the gold	GOLD	1369	สุุพรรณ	suphan	suphan 
+977	23-9-64-5	7681753245503177	Thai	thai1261	the gold	GOLD	1369	กาญจนา	kaancanaa	kaancanaa 
+978	23-9-64-6	7681753538636473	Thai	thai1261	the gold	GOLD	1369	มาศ	mâat (1)	mâat (1) 
+979	23-9-64-7	7681753626913637	Thai	thai1261	the gold	GOLD	1369	เหม	hěem	hěem 
+980	23-9-65-1	7681753270273106	Thai	thai1261	the silver	SILVER	759	เงิน	ŋən	ŋən 
+981	23-9-65-2	7681753155570746	Thai	thai1261	the silver	SILVER	759	หิรัญ	hiran	hiran 
+982	23-9-66-1	7681753738310165	Thai	thai1261	the copper	COPPER	1825	ทองแดง	thɔɔŋdaeaeŋ	thɔɔŋdaeaeŋ 
+983	23-9-67-1	7681753661319159	Thai	thai1261	the iron	IRON	621	เหล็ก	lèk	lèk 
+984	23-9-68-1	7681753700686042	Thai	thai1261	the lead	LEAD (CHEMICAL ELEMENT)	627	ตะกั่ว	takùa	takùa 
+985	23-9-69-1	7681753879400917	Thai	thai1261	the tin or tinplate	TIN OR TINPLATE	3217	ดีบุก	diibùk	diibùk 
+986	23-9-71-1	7681753819098843	Thai	thai1261	the potter	POTTER	359	ช่างปั้นหม้อ	châŋpânmɔ̂ɔ	châŋpânmɔ̂ɔ 
+987	23-9-72-1	7681753229297629	Thai	thai1261	to mould/mold	MOLD	289	ปั้น	pân	pân 
+988	23-9-73-1	7681753721143825	Thai	thai1261	the clay	CLAY	1399	ดินเผา	dinphǎo	dinphǎo 
+989	23-9-74-1	7681753199319315	Thai	thai1261	the glass	GLASS	604	กระจก	kracòk	kracòk 
+990	23-9-75-1	7681753642535558	Thai	thai1261	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294	ถัก	thàk	thàk 
+991	23-9-76-1	768175344154491	Thai	thai1261	the basket	BASKET	1539	ตะกร้า	takrâa	takrâa 
+992	23-9-76-2	7681753764817308	Thai	thai1261	the basket	BASKET	1539	กระด้ง	kradôŋ	kradôŋ 
+993	23-9-76-3	7681753893027038	Thai	thai1261	the basket	BASKET	1539	กระบุง	krabuŋ	krabuŋ 
+994	23-9-77-1	7681753601387601	Thai	thai1261	the mat	MAT	195	เสืื่่อ	sʉ̀a	sʉ̀a 
+995	23-9-77-2	7723119264457164	Thai	thai1261	the mat	MAT	195	สาด	sàat (3)	sàat (3) 
+996	23-9-771-1	7681753234619038	Thai	thai1261	the rug	RUG	292	พรม	phrom	phrom 
+997	23-9-79-1	7681753905471477	Thai	thai1261	the fan	FAN (OBJECT)	1971	พัด	phát	phát 
+998	23-9-79-2	7681753695555024	Thai	thai1261	the fan	FAN (OBJECT)	1971		wítchanii	wítchanii 
+999	23-9-791-1	7681753634725509	Thai	thai1261	to fan	FAN ACTION	360	พัด	phát	phát 
+1000	23-9-791-2	7681753306178088	Thai	thai1261	to fan	FAN ACTION	360	วี	wii	wii 
+1001	23-9-81-1	7681753429744976	Thai	thai1261	to carve	CARVE	228	แกะ	kàe (2)	kàe (2) 
+1002	23-9-81-2	772312262832023	Thai	thai1261	to carve	CARVE	228	สลัก	salàk (2)	salàk (2) 
+1003	23-9-82-1	768175363626756	Thai	thai1261	the sculptor	SCULPTOR	914	ประติมากร	pratìmaakɔɔn	pratìmaakɔɔn 
+1004	23-9-82-2	7681753506350623	Thai	thai1261	the sculptor	SCULPTOR	914	ช่างปั้น	châŋpân	châŋpân 
+1005	23-9-84-1	7681753181465335	Thai	thai1261	the chisel	CHISEL	1979	สิ่ว	sìw	sìw 
+1006	23-9-88-1	7681753757139176	Thai	thai1261	the paint	PAINT (PIGMENTS)	647	สี	sǐi (3)	sǐi (3) 
+1007	23-9-89-1	7681753840014302	Thai	thai1261	to paint	PAINTING	2001	ทาสี	thaasǐi	thaasǐi 
+1008	23-10-11-1	7681753611515147	Thai	thai1261	to move	MOVE	765	ย้าย	yáay	yáay 
+1009	23-10-12-1	7681753773339738	Thai	thai1261	to turn	TURN	1588	หัน	hǎn	hǎn 
+1010	23-10-13-1	7681753425694108	Thai	thai1261	to turn around	TURN (SOMETHING)	1445	หัน	hǎn	hǎn 
+1011	23-10-14-1	7681753235847135	Thai	thai1261	to wrap	WRAP	1113	ห่อ	hɔ̀ɔ	hɔ̀ɔ 
+1012	23-10-15-1	7681753473110699	Thai	thai1261	to roll	ROLL	827	กลิ้ง	klîŋ	klîŋ 
+1013	23-10-16-1	768175317601936	Thai	thai1261	to drop	DROP (SOMETHING)	2866	ทิ้ง	thíŋ	thíŋ 
+1014	23-10-17-1	7681753432067544	Thai	thai1261	to twist	TWIST (AROUND)	3199	ฟั่น	fân	fân 
+1015	23-10-21-1	7681753907706228	Thai	thai1261	to rise	RISE (MOVE UPWARDS)	568	ขึ้น	khʉ̂n	khʉ̂n 
+1016	23-10-22-1	7681753930429827	Thai	thai1261	to raise or lift	LIFT	501	ยก	yók	yók 
+1017	23-10-22-2	7681753737429987	Thai	thai1261	to raise or lift	LIFT	501	กู้	kûu (1)	kûu (1) 
+1018	23-10-22-3	7681753462377845	Thai	thai1261	to raise or lift	LIFT	501	ยอ	yɔɔ	yɔɔ 
+1019	23-10-23-1	7681753689716369	Thai	thai1261	to fall	FALL	1280	ตก	tòk	tòk 
+1020	23-10-23-2	7681753851561305	Thai	thai1261	to fall	FALL	1280	หล่น	lòn	lòn 
+1021	23-10-24-1	76817539083410	Thai	thai1261	to drip	DRIP (EMIT LIQUID)	2253	หยด	yòt	yòt 
+1022	23-10-24-2	7681753677888484	Thai	thai1261	to drip	DRIP (EMIT LIQUID)	2253	หยาด	yàat	yàat 
+1023	23-10-25-1	7681753396814403	Thai	thai1261	to throw	THROW	1456	ขว้าง	khwâaŋ	khwâaŋ 
+1024	23-10-25-2	7681753146858062	Thai	thai1261	to throw	THROW	1456	ปา	paa	paa 
+1025	23-10-252-1	7681753357253483	Thai	thai1261	to catch	CATCH	702	คว้า	khwáa	khwáa 
+1026	23-10-252-2	7681753118642821	Thai	thai1261	to catch	CATCH	702	จับ	càp	càp 
+1027	23-10-252-3	7681753801961050	Thai	thai1261	to catch	CATCH	702	รับ	ráp	ráp 
+1028	23-10-26-1	76817532332583	Thai	thai1261	to shake	SHAKE	1909	เขย่า	khayào	khayào 
+1029	23-10-32-1	7681753608423880	Thai	thai1261	to flow	FLOW	2003	ไหล	lǎy (2)	lǎy (2) 
+1030	23-10-33-1	7681753805638973	Thai	thai1261	to sink	SINK (DESCEND)	1088	จม	com	com 
+1031	23-10-34-1	7681753187928057	Thai	thai1261	to float	FLOAT	1574	ลอย	lɔɔy	lɔɔy 
+1032	23-10-35-1	7681753414583308	Thai	thai1261	to swim	SWIM	1439	ว่าย	wâay (1)	wâay (1) 
+1033	23-10-351-1	7681753928369513	Thai	thai1261	to dive	DIVE	119	ดำ	dam (1)	dam (1) 
+1034	23-10-352-1	7681753546373335	Thai	thai1261	to splash	SPLASH	365		dìit	dìit 
+1035	23-10-352-2	7681753261338768	Thai	thai1261	to splash	SPLASH	365	สาด	sàat (1)	sàat (1) 
+1036	23-10-36-1	7681753109447808	Thai	thai1261	to sail	SAIL	787	แล่นใบ	lâenbay	lâenbay 
+1037	23-10-37-1	7681753367323653	Thai	thai1261	to fly	FLY (MOVE THROUGH AIR)	1441	บิน	bin (1)	bin (1) 
+1038	23-10-38-1	7681753384149076	Thai	thai1261	to blow	BLOW (OF WIND)	175	พัด	phát	phát 
+1039	23-10-41-1	7681753393630438	Thai	thai1261	to crawl	CRAWL	96	คลาน	khlaan	khlaan 
+1040	23-10-412-1	76817537364324	Thai	thai1261	to kneel	KNEEL	66	คุกเข่า	khúkkhào	khúkkhào 
+1041	23-10-413-1	7681753803972586	Thai	thai1261	to crouch	CROUCH	296	หมอบ	mɔ̀ɔp	mɔ̀ɔp 
+1042	23-10-42-1	7681753753948992	Thai	thai1261	to slide or slip	SLIP	1324	ลื่น	lʉ̂un	lʉ̂un 
+1043	23-10-43-1	7681753358195289	Thai	thai1261	to jump	JUMP	1829	กระโดด	kradòot	kradòot 
+1044	23-10-431-1	7681753417299844	Thai	thai1261	to kick	KICK	1135	เตะ	tè	tè 
+1045	23-10-44-1	768175370255111	Thai	thai1261	to dance	DANCE	1879	เต้น	tên	tên 
+1046	23-10-44-2	7681753459540278	Thai	thai1261	to dance	DANCE	1879	รำ	ram	ram 
+1047	23-10-44-3	7681753387319247	Thai	thai1261	to dance	DANCE	1879	ฟ้อน	fɔ́ɔn	fɔ́ɔn 
+1048	23-10-45-1	7681753961389936	Thai	thai1261	to walk	WALK	1443	เดิน	dəən	dəən 
+1049	23-10-451-1	768175323656437	Thai	thai1261	to limp	LIMP	366	กะโผลกกะเผลก	kaphlòokkaphlèek	kaphlòokkaphlèek 
+1050	23-10-451-2	7681753268890030	Thai	thai1261	to limp	LIMP	366	ขโยกเขยก	khayòokkhayèek	khayòokkhayèek 
+1051	23-10-46-1	7681753121776571	Thai	thai1261	to run	RUN	1519	วิ่ง	wîŋ	wîŋ 
+1052	23-10-46-2	7723256333928719	Thai	thai1261	to run	RUN	1519	แล่น	lâen	lâen 
+1053	23-10-47-1	7681753530492961	Thai	thai1261	to go	GO	695	ไป	pay	pay 
+1054	23-10-471-1	7681753198589016	Thai	thai1261	to go up	GO UP (ASCEND)	705	ขึ้น	khʉ̂n	khʉ̂n 
+1055	23-10-472-1	7681753354560112	Thai	thai1261	to climb	CLIMB	1102	ปีน	piin	piin 
+1056	23-10-473-1	7681753184043608	Thai	thai1261	to go down	GO DOWN (DESCEND)	2014	ลง	loŋ	loŋ 
+1057	23-10-474-1	7681753707923011	Thai	thai1261	to go out	GO OUT	1107	ออก	?ɔ̀ɔk	?ɔ̀ɔk 
+1058	23-10-48-1	7681753101885942	Thai	thai1261	to come	COME	1446	มา	maa	maa 
+1059	23-10-481-1	7681753843411194	Thai	thai1261	to come back	COME BACK	581	กลับ	klàp	klàp 
+1060	23-10-481-2	7681753169160900	Thai	thai1261	to come back	COME BACK	581	คืน	khʉʉn	khʉʉn 
+1061	23-10-49-1	7681753528400505	Thai	thai1261	to leave	LEAVE	1752	จาก	càak	càak 
+1062	23-10-491-1	7681753245179942	Thai	thai1261	to disappear	DISAPPEAR	485	หาย	hǎay	hǎay 
+1063	23-10-491-2	768175388816579	Thai	thai1261	to disappear	DISAPPEAR	485	สาบสูญ	sàapsǔun	sàapsǔun 
+1064	23-10-491-3	7681753759774822	Thai	thai1261	to disappear	DISAPPEAR	485	ล่องหน	lɔ̂ŋhǒn	lɔ̂ŋhǒn 
+1065	23-10-51-1	7681753637624692	Thai	thai1261	to flee	FLEE	956	หนี	nǐi	nǐi 
+1066	23-10-52-1	7681753517599300	Thai	thai1261	to follow	FOLLOW	1085	ตาม	taam	taam 
+1067	23-10-53-1	768175374009201	Thai	thai1261	to pursue	PURSUE	1047	ไล่	lây	lây 
+1068	23-10-55-1	7681753715148879	Thai	thai1261	to arrive	ARRIVE	1387	ถึง	thʉ̌ŋ	thʉ̌ŋ 
+1069	23-10-55-2	7681753727244088	Thai	thai1261	to arrive	ARRIVE	1387	ลุุ	lú	lú 
+1070	23-10-55-3	7681753684789768	Thai	thai1261	to arrive	ARRIVE	1387	บรรลุ	banlú	banlú 
+1071	23-10-56-1	7681753856972447	Thai	thai1261	to approach	APPROACH	1778	ถึง	thʉ̌ŋ	thʉ̌ŋ 
+1072	23-10-57-1	7681753187166405	Thai	thai1261	to enter	ENTER	749	เข้า	khâo	khâo 
+1073	23-10-61-1	7681753197518433	Thai	thai1261	to carry	CARRY	700	อุ้ม	?ûm	?ûm 
+1074	23-10-61-2	7681753321933723	Thai	thai1261	to carry	CARRY	700	แบก	bàeaek	bàeaek 
+1075	23-10-612-1	7681753110133572	Thai	thai1261	to carry in hand	CARRY IN HAND	412	ถือ	thʉ̌ʉ	thʉ̌ʉ 
+1076	23-10-613-1	7681753321933723	Thai	thai1261	to carry on shoulder	CARRY ON SHOULDER	413	แบก	bàeaek	bàeaek 
+1077	23-10-614-1	7681753640813973	Thai	thai1261	to carry on head	CARRY ON HEAD	414	ทูน	thuun	thuun 
+1078	23-10-615-1	7681753951472880	Thai	thai1261	to carry under the arm	CARRY UNDER ARM	415	หนีบ	nìip	nìip 
+1079	23-10-62-1	7681753778048980	Thai	thai1261	to bring	BRING	692	เอามา	?ao maa	?ao maa 
+1080	23-10-63-1	7681753116889330	Thai	thai1261	to send	SEND	1127	ส่ง	sòŋ	sòŋ 
+1081	23-10-64-1	7681753493298770	Thai	thai1261	to lead	LEAD (GUIDE)	43	นำ	nam	nam 
+1082	23-10-65-1	7681753971409854	Thai	thai1261	to drive	DRIVE	741	ขับ	khàp (1)	khàp (1) 
+1083	23-10-66-1	7681753621678167	Thai	thai1261	to ride	RIDE	367	ขี่	khìi	khìi 
+1084	23-10-67-1	7681753784555285	Thai	thai1261	to push	PUSH	1452	ผลัก	phlàk	phlàk 
+1085	23-10-71-1	7681753803022338	Thai	thai1261	the road	ROAD	667	ถนน	thanǒn	thanǒn 
+1086	23-10-71-2	7681753796942862	Thai	thai1261	the road	ROAD	667	ทาง	thaaŋ	thaaŋ 
+1087	23-10-71-3	7681753241151867	Thai	thai1261	the road	ROAD	667	หน	hǒn	hǒn 
+1088	23-10-72-1	7681753830968900	Thai	thai1261	the path	PATH	2252	ทาง	thaaŋ	thaaŋ 
+1089	23-10-72-2	8542344930759990	Thai	thai1261	the path	PATH	2252	ลู่	lûu	lûu 
+1090	23-10-74-1	7681753856181689	Thai	thai1261	the bridge	BRIDGE	1011	สะพาน	saphaan	saphaan 
+1091	23-10-75-1	7681753515180687	Thai	thai1261	the cart or wagon	CART	122	เกวียน	kwian	kwian 
+1092	23-10-75-2	7681753548734233	Thai	thai1261	the cart or wagon	CART	122	ระแทะ	ratháe	ratháe 
+1093	23-10-76-1	7681753853180654	Thai	thai1261	the wheel	WHEEL	710	ล้อ	lɔ́ɔ	lɔ́ɔ 
+1094	23-10-76-2	7681753507754367	Thai	thai1261	the wheel	WHEEL	710	กง	koŋ	koŋ 
+1095	23-10-77-1	7681753385984922	Thai	thai1261	the axle	AXLE	1769	เพลา	phlao	phlao 
+1096	23-10-78-1	7681753588380051	Thai	thai1261	the yoke	YOKE	14	แอก	?àeaek	?àeaek 
+1097	23-10-81-1	7681753381598729	Thai	thai1261	the ship	SHIP	740	เรือ	rʉa	rʉa 
+1098	23-10-81-2	7681753859017549	Thai	thai1261	the ship	SHIP	740	นาวา	naawaa	naawaa 
+1099	23-10-81-3	7681753704011112	Thai	thai1261	the ship	SHIP	740	สำเภา	sàmphao	sàmphao 
+1100	23-10-83-1	768175330389961	Thai	thai1261	the boat	BOAT	1844	เรือ	rʉa	rʉa 
+1101	23-10-831-1	768175376411269	Thai	thai1261	the canoe	CANOE	1970	แคนู	khaenuu	khaenuu 
+1102	23-10-84-1	7681753245686529	Thai	thai1261	the raft	RAFT	1664	แพ	phaeae	phaeae 
+1103	23-10-85-1	7681753856565537	Thai	thai1261	the oar	RUDDER	108	พาย	phaay	phaay 
+1104	23-10-851-1	7681753235444159	Thai	thai1261	the paddle	PADDLE	234	พาย	phaay	phaay 
+1105	23-10-852-1	768175324030547	Thai	thai1261	to row	ROW	1849	พาย	phaay	phaay 
+1106	23-10-86-1	7681753455424507	Thai	thai1261	the rudder	RUDDER	108	หางเสือ	hǎaŋsʉ̌a	hǎaŋsʉ̌a 
+1107	23-10-87-1	7681753190474801	Thai	thai1261	the mast	MAST	184	เสา	sǎo (1)	sǎo (1) 
+1108	23-10-88-1	768175340114153	Thai	thai1261	the sail	SAILCLOTH	786	ใบ	bay	bay 
+1109	23-10-89-1	7681753257844764	Thai	thai1261	the anchor	ANCHOR	1870	สมอ	samɔ̌ɔ	samɔ̌ɔ 
+1110	23-10-91-1	768175361360132	Thai	thai1261	the port	PORT	610	ท่า	thâa (1)	thâa (1) 
+1111	23-10-92-1	7681753647105153	Thai	thai1261	to land	LAND (DESCEND)	1922	เกย	kəəy	kəəy 
+1112	23-11-11-1	7681753331540814	Thai	thai1261	to have	HAVE	773	มี	mii	mii 
+1113	23-11-12-1	7681753526608442	Thai	thai1261	to own	OWN	684	มี	mii	mii 
+1114	23-11-13-1	7681753256258569	Thai	thai1261	to take	TAKE	1749	เอาไป	?aopay	?aopay 
+1115	23-11-14-1	768175337185694	Thai	thai1261	to grasp	SEIZE	855	กำ	kam	kam 
+1116	23-11-15-1	7681753197518433	Thai	thai1261	to hold	HOLD	1448	อุ้ม	?ûm	?ûm 
+1117	23-11-16-1	7681753833372199	Thai	thai1261	to get	GET	694	ได้	dâay (2)	dâay (2) 
+1118	23-11-17-1	768175323776931	Thai	thai1261	to keep	KEEP	1477	เก็บ	kèp	kèp 
+1119	23-11-17-2	7723336949657763	Thai	thai1261	to keep	KEEP	1477	รักษา	ráksǎa	ráksǎa 
+1120	23-11-18-1	7681753767796697	Thai	thai1261	the thing	THING	738	ของ	khɔ̌ɔŋ	khɔ̌ɔŋ 
+1121	23-11-21-1	7681753110402455	Thai	thai1261	to give	GIVE	1447	ให้	hây	hây 
+1122	23-11-22-1	7681753723909382	Thai	thai1261	to give back	GIVE BACK	85	คืน	khʉʉn	khʉʉn 
+1123	23-11-24-1	7681753137764136	Thai	thai1261	to preserve	PRESERVE	1997	รักษา	ráksǎa	ráksǎa 
+1124	23-11-25-1	7681753310647159	Thai	thai1261	to rescue	RESCUE	2008	ช่วย	chûay	chûay 
+1125	23-11-27-1	7681753820909316	Thai	thai1261	to destroy	DESTROY	681	ทำลาย	thamlaay	thamlaay 
+1126	23-11-28-1	7681753697622695	Thai	thai1261	to injure	INJURE	44	ทำร้าย	thamráay	thamráay 
+1127	23-11-31-1	7681753981526447	Thai	thai1261	to look for	LOOK FOR	1468	หา	hǎa (1)	hǎa (1) 
+1128	23-11-32-1	7681753349130146	Thai	thai1261	to find	FIND	719	พบ	phóp (2)	phóp (2) 
+1129	23-11-32-2	7681753577482766	Thai	thai1261	to find	FIND	719	เจอ	cəə	cəə 
+1130	23-11-32-3	7681753298499383	Thai	thai1261	to find	FIND	719	ปะ	pà	pà 
+1131	23-11-33-1	7681753395675766	Thai	thai1261	to lose	LOSE	1660	ทำหาย	tham hǎay	tham hǎay 
+1132	23-11-33-2	7681753932515874	Thai	thai1261	to lose	LOSE	1660	เสีย	sǐa	sǐa 
+1133	23-11-34-1	7681753499401500	Thai	thai1261	to let go	LET GO OR SET FREE	1095	ปล่อย	plɔ̀y	plɔ̀y 
+1134	23-11-43-1	7681753338970005	Thai	thai1261	the money	MONEY	1559	เงิน	ŋən	ŋən 
+1135	23-11-44-1	7681753763129249	Thai	thai1261	the coin	COIN	1867	เหรียญ	rǐan	rǐan 
+1136	23-11-51-1	7681753124840855	Thai	thai1261	rich	RICH	712	รวย	ruay	ruay 
+1137	23-11-51-2	7681753873755621	Thai	thai1261	rich	RICH	712	มั่งคั่ง	mâŋkhâŋ	mâŋkhâŋ 
+1138	23-11-51-3	7681753118375819	Thai	thai1261	rich	RICH	712	มั่งมี	mâŋmii	mâŋmii 
+1139	23-11-52-1	7681753383731399	Thai	thai1261	poor	POOR	1674	จน	con	con 
+1140	23-11-52-2	7681753436811177	Thai	thai1261	poor	POOR	1674	ยาก	yâak	yâak 
+1141	23-11-52-3	7681753543650528	Thai	thai1261	poor	POOR	1674	กรอ	krɔɔ	krɔɔ 
+1142	23-11-52-4	7681753400705181	Thai	thai1261	poor	POOR	1674	อนาถา	?anaathǎa	?anaathǎa 
+1143	23-11-53-1	768175330194594	Thai	thai1261	the beggar	BEGGAR	1934	ขอทาน	khɔ̌ɔthaan	khɔ̌ɔthaan 
+1144	23-11-53-2	768175392428887	Thai	thai1261	the beggar	BEGGAR	1934	วนิพก	wáníphók	wáníphók 
+1145	23-11-53-3	768175369234403	Thai	thai1261	the beggar	BEGGAR	1934	ยาจก	yaacòk	yaacòk 
+1146	23-11-54-1	7681753706318423	Thai	thai1261	stingy	STINGY	1774	เหนียว	nǐaw	nǐaw 
+1147	23-11-54-2	7681753671777177	Thai	thai1261	stingy	STINGY	1774	ตระหนี่	traìi	traìi 
+1148	23-11-54-3	7681753347986885	Thai	thai1261	stingy	STINGY	1774	ตืด	tʉ̀ʉt	tʉ̀ʉt 
+1149	23-11-54-4	768175341680496	Thai	thai1261	stingy	STINGY	1774	เขียม	khǐam	khǐam 
+1150	23-11-61-1	7681753569956328	Thai	thai1261	to lend	LEND	582	ให้ยืม	hây yʉʉm	hây yʉʉm 
+1151	23-11-62-1	7681753575566258	Thai	thai1261	to borrow	BORROW	1823	ยืม	yʉʉm	yʉʉm 
+1152	23-11-62-2	7681753711389090	Thai	thai1261	to borrow	BORROW	1823	กู้	kûu (2)	kûu (2) 
+1153	23-11-63-1	7681753993309191	Thai	thai1261	to owe	OWE	369	ติด	tìt (2)	tìt (2) 
+1154	23-11-63-2	768175343859866	Thai	thai1261	to owe	OWE	369	หนี้	nîi	nîi 
+1155	23-11-64-1	7681753822906112	Thai	thai1261	the debt	DEBT	1914	หนี้	nîi	nîi 
+1156	23-11-65-1	768175326850066	Thai	thai1261	to pay	PAY	718	จ่าย	càay	càay 
+1157	23-11-66-1	768175368221804	Thai	thai1261	the bill	BILL	1081	บิล	bin (2)	bin (2) 
+1158	23-11-69-1	7681753187725003	Thai	thai1261	the tax	TAX	873	ภาษี	phaasǐi	phaasǐi 
+1159	23-11-69-2	7681753728789263	Thai	thai1261	the tax	TAX	873	จังกอบ	caŋkɔ̀ɔp	caŋkɔ̀ɔp 
+1160	23-11-69-3	76817532773688	Thai	thai1261	the tax	TAX	873	ส่วย	sùay	sùay 
+1161	23-11-69-4	7681753538677925	Thai	thai1261	the tax	TAX	873	อากร	?aakɔɔn	?aakɔɔn 
+1162	23-11-77-1	7681753213908758	Thai	thai1261	to hire	HIRE	856	จ้าง	câaŋ	câaŋ 
+1163	23-11-78-1	7681753656406701	Thai	thai1261	the wages	WAGES	1122	ค่าจ้้าง	khâacâaŋ	khâacâaŋ 
+1164	23-11-79-1	7681753833372199	Thai	thai1261	to earn	EARN	733	ได้	dâay (2)	dâay (2) 
+1165	23-11-81-1	7681753993737137	Thai	thai1261	to buy	BUY	1869	ซื้อ	sʉ́ʉ	sʉ́ʉ 
+1166	23-11-82-1	7681753701668470	Thai	thai1261	to sell	SELL	1571	ขาย	khǎay	khǎay 
+1167	23-11-82-2	7681753242104735	Thai	thai1261	to sell	SELL	1571	ค้า	kháa	kháa 
+1168	23-11-83-1	7681753477278931	Thai	thai1261	to trade or barter	TRADE OR BARTER	2135	ค้า	kháa	kháa 
+1169	23-11-83-2	7681753599004031	Thai	thai1261	to trade or barter	TRADE OR BARTER	2135	แลก	lâeaek	lâeaek 
+1170	23-11-83-3	7681753936723778	Thai	thai1261	to trade or barter	TRADE OR BARTER	2135	เปลี่ยน	plìan	plìan 
+1171	23-11-84-1	7681753312526344	Thai	thai1261	the merchant	MERCHANT	1082		naayphaanít	naayphaanít 
+1172	23-11-84-2	7111209177373082	Thai	thai1261	the merchant	MERCHANT	1082	นายวาณิช	naaywaanít	naaywaanít 
+1173	23-11-85-1	7681753818439813	Thai	thai1261	the market	MARKET	633	ตลาด	talàat	talàat 
+1174	23-11-86-1	7681753894181917	Thai	thai1261	the shop/store	STORE	752	ร้าน	ráan	ráan 
+1175	23-11-87-1	7681753480512972	Thai	thai1261	the price	PRICE	657	ราคา	raakhaa	raakhaa 
+1176	23-11-87-2	7681753826717706	Thai	thai1261	the price	PRICE	657	ค่า	khâa (3)	khâa (3) 
+1177	23-11-88-1	7681753573908735	Thai	thai1261	expensive	EXPENSIVE	1426	แพง	phaeaeŋ	phaeaeŋ 
+1178	23-11-89-1	7681753671918182	Thai	thai1261	cheap	CHEAP	1887	ถูก	thùuk (1)	thùuk (1) 
+1179	23-11-89-2	7681753843690080	Thai	thai1261	cheap	CHEAP	1887	ย่อมเยา	yômyao	yômyao 
+1180	23-11-91-1	7681753345601327	Thai	thai1261	to share	SHARE	884	แบ่ง	bàeŋ	bàeŋ 
+1181	23-11-92-1	7681753424154614	Thai	thai1261	to weigh	WEIGH	1098	หนัก	nàk	nàk 
+1182	23-12-01-1	7681753725926416	Thai	thai1261	after	AFTER	1685	หลัง	lǎŋ	lǎŋ 
+1183	23-12-011-1	7681753359595752	Thai	thai1261	behind	BEHIND	1686	หลัง	lǎŋ	lǎŋ 
+1184	23-12-02-1	7681753630920084	Thai	thai1261	beside	BESIDE	1816	ข้าง	khâaŋ	khâaŋ 
+1185	23-12-03-1	7681753218171110	Thai	thai1261	down	DOWN	1326	ลง	loŋ	loŋ 
+1186	23-12-04-1	7681753310042609	Thai	thai1261	before	BEFORE	1882	ก่อน	kɔ̀ɔn	kɔ̀ɔn 
+1187	23-12-041-1	7681753173451085	Thai	thai1261	in front of	IN FRONT OF	1883	หน้้้า	nâa	nâa 
+1188	23-12-05-1	768175347845776	Thai	thai1261	inside	INSIDE	1606	ใน	nay	nay 
+1189	23-12-06-1	7681753160293005	Thai	thai1261	outside	OUTSIDE	762	นอก	nɔ̂ɔk	nɔ̂ɔk 
+1190	23-12-07-1	7681753263839460	Thai	thai1261	under	BELOW OR UNDER	1485	ใต้	tâay (2)	tâay (2) 
+1191	23-12-08-1	768175319979645	Thai	thai1261	up	UP	1591	ขึ้น	khʉ̂n	khʉ̂n 
+1192	23-12-11-1	7681753148826183	Thai	thai1261	the place	PLACE (POSITION)	723	ที่	thîi	thîi 
+1193	23-12-12-1	768175343079136	Thai	thai1261	to put	PUT	998	วาง	waaŋ	waaŋ 
+1194	23-12-13-1	7681753664486624	Thai	thai1261	to sit	SIT	1416	นั่ง	nâŋ	nâŋ 
+1195	23-12-14-1	7681753486344726	Thai	thai1261	to lie down	LIE DOWN	215	นอน	nɔɔn	nɔɔn 
+1196	23-12-15-1	7681753377291199	Thai	thai1261	to stand	STAND	1442	ยืน	yʉʉn	yʉʉn 
+1197	23-12-16-1	7681753302505700	Thai	thai1261	to remain	REMAIN	987	อยู่	yùu	yùu 
+1198	23-12-16-2	7681753843817233	Thai	thai1261	to remain	REMAIN	987	ยง	yaŋ	yaŋ 
+1199	23-12-17-1	7681753524689897	Thai	thai1261	the remains	REMAINS	838	ซาก	sâak	sâak 
+1200	23-12-21-1	7681753221704035	Thai	thai1261	to gather	GATHER	7	เก็บ	kèp	kèp 
+1201	23-12-212-1	7681753377979043	Thai	thai1261	to pick up	PICK UP	371	เก็บ	kèp	kèp 
+1202	23-12-212-2	7681753661735472	Thai	thai1261	to pick up	PICK UP	371	หยิบ	yìp	yìp 
+1203	23-12-213-1	7681753180660589	Thai	thai1261	to pile up	PILE UP	1576	กอง	kɔɔŋ	kɔɔŋ 
+1204	23-12-22-1	7681753242920646	Thai	thai1261	to join	JOIN	1743	ต่อ	tɔ̀ɔ (2)	tɔ̀ɔ (2) 
+1205	23-12-23-1	7681753800403342	Thai	thai1261	to separate	SEPARATE	1359	แยก	yâeaek	yâeaek 
+1206	23-12-232-1	7681753345601327	Thai	thai1261	to divide	DIVIDE	1119	แบ่ง	bàeŋ	bàeŋ 
+1207	23-12-24-1	7681753997597067	Thai	thai1261	to open	OPEN	1156	เปิด	pə̀ət	pə̀ət 
+1208	23-12-24-2	855029247330420	Thai	thai1261	to open	OPEN	1156	เบิก	bə̀ək	bə̀ək 
+1209	23-12-25-1	7681753365460948	Thai	thai1261	to shut	SHUT	1046	ปิด	pìt	pìt 
+1210	23-12-26-1	7681753197559537	Thai	thai1261	to cover	COVER	761	ห่ม	hòm	hòm 
+1211	23-12-26-2	7681753386363780	Thai	thai1261	to cover	COVER	761	คลุม	khlum	khlum 
+1212	23-12-27-1	7681753708595443	Thai	thai1261	to hide	HIDE (CONCEAL)	602	ซ่อน	sɔ̂ɔn	sɔ̂ɔn 
+1213	23-12-31-1	7681753840912414	Thai	thai1261	high	HIGH	1265	สูง	sǔŋ	sǔŋ 
+1214	23-12-32-1	7681753202143509	Thai	thai1261	low	LOW	721	ต่ำ	tàm	tàm 
+1215	23-12-33-1	7681753808612628	Thai	thai1261	the top	TOP	1753	ยอด	yɔ̂ɔt	yɔ̂ɔt 
+1216	23-12-34-1	7681753821760342	Thai	thai1261	the bottom	BOTTOM	690	ก้น	kôn	kôn 
+1217	23-12-35-1	7681753504844741	Thai	thai1261	the end(1)	END (OF SPACE)	742	สุด	sùt	sùt 
+1218	23-12-352-1	7681753956062864	Thai	thai1261	pointed	POINTED	372	แหลม	lǎeaem	lǎeaem 
+1219	23-12-352-2	7681753433748214	Thai	thai1261	pointed	POINTED	372	เสิ้ยม	sîam	sîam 
+1220	23-12-353-1	7681753430631940	Thai	thai1261	the edge	EDGE	863	ขอบ	khɔ̀ɔp	khɔ̀ɔp 
+1221	23-12-353-2	7681753405727459	Thai	thai1261	the edge	EDGE	863	ชาย	chaay (2)	chaay (2) 
+1222	23-12-353-3	7681753517164842	Thai	thai1261	the edge	EDGE	863	ริม	rim	rim 
+1223	23-12-36-1	7681753983205536	Thai	thai1261	the side	SIDE	682	ข้าง	khâaŋ	khâaŋ 
+1224	23-12-37-1	7681753927491092	Thai	thai1261	the middle	MIDDLE	1093	กลาง	klaaŋ	klaaŋ 
+1225	23-12-41-1	7681753201339359	Thai	thai1261	right(1)	RIGHT	1019	ขวา	khwǎa	khwǎa 
+1226	23-12-42-1	7681753650112257	Thai	thai1261	left	LEFT	244	ซ้าย	sáay	sáay 
+1227	23-12-43-1	7681753998423642	Thai	thai1261	near	NEAR	1942	ใกล้	klây	klây 
+1228	23-12-44-1	768175323554765	Thai	thai1261	far	FAR	1406	ไกล	klay	klay 
+1229	23-12-45-1	7681753411000551	Thai	thai1261	the east	EAST	1877	ตะวันออก	tawan?ɔ̀ɔk	tawan?ɔ̀ɔk 
+1230	23-12-45-2	7681753317471929	Thai	thai1261	the east	EAST	1877	บูรพา	buuraphaa	buuraphaa 
+1231	23-12-46-1	7681753396501762	Thai	thai1261	the west	WEST	1817	ตะวันตก	tawantòk	tawantòk 
+1232	23-12-46-2	7681753876963954	Thai	thai1261	the west	WEST	1817	ประจิม	pracim	pracim 
+1233	23-12-47-1	7681753862605572	Thai	thai1261	the north	NORTH	1598	เหนือ	nʉ̌a	nʉ̌a 
+1234	23-12-47-2	7681753151200768	Thai	thai1261	the north	NORTH	1598	อุดร	?udɔɔn	?udɔɔn 
+1235	23-12-48-1	7681753514222810	Thai	thai1261	the south	SOUTH	1595	ใต้	tâay (2)	tâay (2) 
+1236	23-12-48-2	7681753596449992	Thai	thai1261	the south	SOUTH	1595	ทักษิณ	tháksǐn	tháksǐn 
+1237	23-12-53-1	7681753256046576	Thai	thai1261	to grow	GROW	479	โต	too	too 
+1238	23-12-53-2	7681753610319908	Thai	thai1261	to grow	GROW	479	งอก	ŋɔ̂ɔk	ŋɔ̂ɔk 
+1239	23-12-54-1	7681753425558844	Thai	thai1261	to measure	MEASURE	1506	วัด	wát (1)	wát (1) 
+1240	23-12-55-1	768175327178228	Thai	thai1261	big	BIG	1202	ใหญ่	yày	yày 
+1241	23-12-55-2	7681753776529131	Thai	thai1261	big	BIG	1202	โต	too	too 
+1242	23-12-56-1	7681753662844747	Thai	thai1261	small	SMALL	1246	เล็ก	lék	lék 
+1243	23-12-56-2	7681753664608192	Thai	thai1261	small	SMALL	1246	น้อย	nɔ́ɔy	nɔ́ɔy 
+1244	23-12-56-3	768175349894030	Thai	thai1261	small	SMALL	1246	นิด	nít	nít 
+1245	23-12-56-4	7681753742197104	Thai	thai1261	small	SMALL	1246	จ้อย	cɔ̂ɔy	cɔ̂ɔy 
+1246	23-12-57-1	7681753772937638	Thai	thai1261	long	LONG	1203	ยาว	yaaw	yaaw 
+1247	23-12-58-1	7681753427129117	Thai	thai1261	tall	TALL	711	สูง	sǔuŋ	sǔuŋ 
+1248	23-12-59-1	7681753349207008	Thai	thai1261	short	SHORT	1645	สั้น	sân	sân 
+1249	23-12-59-2	768175390557083	Thai	thai1261	short	SHORT	1645	เตี้ย	tîa	tîa 
+1250	23-12-59-3	7681753213438924	Thai	thai1261	short	SHORT	1645	ต่ำ	tàm	tàm 
+1251	23-12-61-1	7681753858086267	Thai	thai1261	wide	WIDE	1243	กว้าง	kwâaŋ	kwâaŋ 
+1252	23-12-62-1	7681753208986059	Thai	thai1261	narrow	NARROW	1267	แคบ	khâeaep	khâeaep 
+1253	23-12-63-1	768175354733006	Thai	thai1261	thick	THICK	1244	หนา	nǎa	nǎa 
+1254	23-12-65-1	7681753714736316	Thai	thai1261	thin	THIN (OF SHAPE OF OBJECT)	2249	บาง	baaŋ	baaŋ 
+1255	23-12-67-1	7681753596593379	Thai	thai1261	deep	DEEP	1593	ลึก	lʉ́k	lʉ́k 
+1256	23-12-68-1	7681753700843061	Thai	thai1261	shallow	SHALLOW	193	ตื้น	tʉ̂ʉn	tʉ̂ʉn 
+1257	23-12-71-1	7681753714736316	Thai	thai1261	flat	FLAT	1633	บาง	baaŋ	baaŋ 
+1258	23-12-73-1	7681753361032035	Thai	thai1261	straight	STRAIGHT	1404	ตรง	troŋ	troŋ 
+1259	23-12-73-2	7681753910761248	Thai	thai1261	straight	STRAIGHT	1404	ดิ่ง	dìŋ	dìŋ 
+1260	23-12-74-1	7681753943764732	Thai	thai1261	crooked	CROOKED	297	คด	khót	khót 
+1261	23-12-74-2	7822112348748357	Thai	thai1261	crooked	CROOKED	297	งอ	ŋɔɔ	ŋɔɔ 
+1262	23-12-75-1	7681753674893105	Thai	thai1261	the hook	HOOK	1071	ขอ	khɔ̌ɔ (1)	khɔ̌ɔ (1) 
+1263	23-12-75-2	7681753163103601	Thai	thai1261	the hook	HOOK	1071	เบ็ด	bèt	bèt 
+1264	23-12-76-1	7681753391857298	Thai	thai1261	the corner	CORNER	192	มุม	mum	mum 
+1265	23-12-76-2	7681753348986303	Thai	thai1261	the corner	CORNER	192	เหลี่ยม	lìam	lìam 
+1266	23-12-77-1	76817539735652	Thai	thai1261	the cross	CROSS	1367	ไม้กางเขน	máaykaaŋkhěen	máaykaaŋkhěen 
+1267	23-12-78-1	7681753982149268	Thai	thai1261	the square	SQUARE	850	จตุรัส	catùràt	catùràt 
+1268	23-12-81-1	7681753359761942	Thai	thai1261	round	ROUND	1395	กลม	klom	klom 
+1269	23-12-81-2	7681753683516144	Thai	thai1261	round	ROUND	1395	มน	mon	mon 
+1270	23-12-82-1	7681753420767438	Thai	thai1261	the circle	CIRCLE	1467	วง	woŋ	woŋ 
+1271	23-12-82-2	7681753786980759	Thai	thai1261	the circle	CIRCLE	1467	กง	koŋ	koŋ 
+1272	23-12-83-1	768175328047524	Thai	thai1261	the ball	BALL	1845	ลูก	lûuk (2)	lûuk (2) 
+1273	23-12-84-1	7681753892395549	Thai	thai1261	the line	LINE	1048	เส้น	sên (1)	sên (1) 
+1274	23-12-84-2	7681753467653746	Thai	thai1261	the line	LINE	1048	สาย	sǎay (1)	sǎay (1) 
+1275	23-12-85-1	7681753219820771	Thai	thai1261	the hole	HOLE	1667	รู	ruu	ruu 
+1276	23-12-92-1	7681753335418203	Thai	thai1261	similar	SIMILAR	1558	คล้าย	khláay	khláay 
+1277	23-12-93-1	7681753688484469	Thai	thai1261	to change	CHANGE	1264	เปลี่ยน	plìan	plìan 
+1278	23-13-1	768175317082241	Thai	thai1261	zero	ZERO	1294	ศูนย์	sǔun	sǔun 
+1279	23-13-01-1	7681753972539674	Thai	thai1261	one	ONE	1493	หนึ่ง	nʉ̀ŋ	nʉ̀ŋ 
+1280	23-13-01-2	768175330014044	Thai	thai1261	one	ONE	1493	เอก	?èek	?èek 
+1281	23-13-01-3	7630155232510655	Thai	thai1261	one	ONE	1493	เอ็ด	?èt (2)	?èt (2) 
+1282	23-13-02-1	7681753429990298	Thai	thai1261	two	TWO	1498	สอง	sɔ̌ɔŋ	sɔ̌ɔŋ 
+1283	23-13-02-2	7681753625227982	Thai	thai1261	two	TWO	1498	ยี่	yîi	yîi 
+1284	23-13-02-3	7681753299901047	Thai	thai1261	two	TWO	1498	โท	thoo	thoo 
+1285	23-13-03-1	7681753552689615	Thai	thai1261	three	THREE	492	สาม	sǎam	sǎam 
+1286	23-13-03-2	7681753311094347	Thai	thai1261	three	THREE	492	ตรี	trii	trii 
+1287	23-13-03-3	7681753259592274	Thai	thai1261	three	THREE	492	ตรัย	tray	tray 
+1288	23-13-04-1	7681753925619272	Thai	thai1261	four	FOUR	1500	สี่	sìi	sìi 
+1289	23-13-04-2	7681753121650776	Thai	thai1261	four	FOUR	1500	จตุ	càtù	càtù 
+1290	23-13-04-3	7681753607339168	Thai	thai1261	four	FOUR	1500	จตุร	càtùrá	càtùrá 
+1291	23-13-05-1	7681753208577843	Thai	thai1261	five	FIVE	493	ห้า	hâa	hâa 
+1292	23-13-05-2	7681753576719804	Thai	thai1261	five	FIVE	493	เบญจ	bencà	bencà 
+1293	23-13-05-3	7681753739628471	Thai	thai1261	five	FIVE	493	ปัญจ	pancà	pancà 
+1294	23-13-06-1	7681753779010136	Thai	thai1261	six	SIX	1703	หก	hòk	hòk 
+1295	23-13-06-2	7681753580973781	Thai	thai1261	six	SIX	1703	ฉ	chɔ̌ɔ	chɔ̌ɔ 
+1296	23-13-07-1	7681753629168505	Thai	thai1261	seven	SEVEN	1704	เจ็ด	cèt	cèt 
+1297	23-13-07-2	7681753213996943	Thai	thai1261	seven	SEVEN	1704	สัตตะ	sàttà	sàttà 
+1298	23-13-08-1	7681753618822625	Thai	thai1261	eight	EIGHT	1705	แปด	pàeaet	pàeaet 
+1299	23-13-08-2	7681753404226444	Thai	thai1261	eight	EIGHT	1705	อัษฎ	?àtsatà	?àtsatà 
+1300	23-13-09-1	7681753427071728	Thai	thai1261	nine	NINE	1483	เก้า	kâaw	kâaw 
+1301	23-13-09-2	7681753440413549	Thai	thai1261	nine	NINE	1483	นพ	nóp	nóp 
+1302	23-13-1-1	768175310386106	Thai	thai1261	ten	TEN	1515	สิบ	sìp	sìp 
+1303	23-13-1-2	7681753488924714	Thai	thai1261	ten	TEN	1515	ทศ	thót	thót 
+1304	23-13-101-1	7681753300274079	Thai	thai1261	eleven	ELEVEN	1706	สิบเอ็ด	sìp?èt	sìp?èt 
+1305	23-13-102-1	7681753560507531	Thai	thai1261	twelve	TWELVE	1707	สิบสอง	sìpsɔ̌ɔŋ	sìpsɔ̌ɔŋ 
+1306	23-13-103-1	7681753685628915	Thai	thai1261	fifteen	FIFTEEN	1709	สิบห้า	sìphâa	sìphâa 
+1307	23-13-104-1	7681753774385287	Thai	thai1261	twenty	TWENTY	1710	ยี่สิบ	yîisìp	yîisìp 
+1308	23-13-105-1	7681753740150421	Thai	thai1261	a hundred	HUNDRED	1634	ร้อย	rɔ́ɔy	rɔ́ɔy 
+1309	23-13-106-1	7681753940213265	Thai	thai1261	a thousand	THOUSAND	1843	พัน	phan (1)	phan (1) 
+1310	23-13-107-1	7681753506522990	Thai	thai1261	to count	COUNT	1420	นับ	náp	náp 
+1311	23-13-14-1	7681753416423847	Thai	thai1261	all	ALL	98	ทั้งหมด	tháŋmòt	tháŋmòt 
+1312	23-13-15-1	7681753403367225	Thai	thai1261	many	MANY	1198	หลาย	lǎay	lǎay 
+1313	23-13-16-1	7681753462668980	Thai	thai1261	more	MORE	1992	มากกว่า	mâakkwàa	mâakkwàa 
+1314	23-13-17-1	7681753127484059	Thai	thai1261	few	FEW	1242	สองสาม	sɔ̌ɔŋsǎam	sɔ̌ɔŋsǎam 
+1315	23-13-18-1	7681753448782977	Thai	thai1261	enough	ENOUGH	1881	พอ	phɔɔ	phɔɔ 
+1316	23-13-181-1	7681753441467135	Thai	thai1261	some	SOME	1241	บ้าง	bâaŋ	bâaŋ 
+1317	23-13-19-1	7681753219314285	Thai	thai1261	the crowd	CROWD	2023	กลุ่ม	klùm	klùm 
+1318	23-13-21-1	7681753439088117	Thai	thai1261	full	FULL	1429	เต็ม	tem	tem 
+1319	23-13-21-2	7681753751828423	Thai	thai1261	full	FULL	1429	อิ่ม	?ìm	?ìm 
+1320	23-13-22-1	7681753918904900	Thai	thai1261	empty	EMPTY	1624	ว่าง	wâaŋ	wâaŋ 
+1321	23-13-22-2	7681753924162466	Thai	thai1261	empty	EMPTY	1624	เปล่า	plàaw	plàaw 
+1322	23-13-22-3	71113024658848913	Thai	thai1261	empty	EMPTY	1624	ว่างเปล่า	wâaŋplàaw	wâaŋplàaw 
+1323	23-13-23-1	7681753803087183	Thai	thai1261	the part	PART	779	ส่วน	sùan	sùan 
+1324	23-13-24-1	7681753855984542	Thai	thai1261	the half	HALF	816	ครึ่ง	khrʉ̂ŋ	khrʉ̂ŋ 
+1325	23-13-33-1	7681753533921905	Thai	thai1261	only	ONLY	1580		diaw	diaw 
+1326	23-13-34-1	7681753972663362	Thai	thai1261	first	FIRST	728	แรก	râak	râak 
+1327	23-13-34-2	7681753505630790	Thai	thai1261	first	FIRST	728	ก่อน	kɔ̀ɔn	kɔ̀ɔn 
+1328	23-13-35-1	7681753785046226	Thai	thai1261	last	LAST (FINAL)	1529	สุดท้าย	sùttháay	sùttháay 
+1329	23-13-35-2	7681753729787262	Thai	thai1261	last	LAST (FINAL)	1529	โหล่	lòo	lòo 
+1330	23-13-36-1	7681753776240460	Thai	thai1261	second	SECOND	1384	ที่สอง	thîisɔ̌ɔŋ	thîisɔ̌ɔŋ 
+1331	23-13-37-1	7681753168122411	Thai	thai1261	the pair	PAIR	1888	คู่	khûu	khûu 
+1332	23-13-38-1	7681753667568676	Thai	thai1261	twice/two times	TWICE	1546	สองเท่า	sɔ̌ɔŋthâo	sɔ̌ɔŋthâo 
+1333	23-13-38-2	7681753562181633	Thai	thai1261	twice/two times	TWICE	1546	ทวีคูณ	thawiikhuun	thawiikhuun 
+1334	23-13-42-1	7681753253654450	Thai	thai1261	third	THIRD	1859	ที่สาม	thîisǎam	thîisǎam 
+1335	23-13-44-1	7681753441529963	Thai	thai1261	three times	THREE TIMES	417	สามเท่า	sǎamthâo	sǎamthâo 
+1336	23-14-11-1	7681753800152707	Thai	thai1261	the time	TIME	892	เวลา	weelaa	weelaa 
+1337	23-14-11-2	7681753135963678	Thai	thai1261	the time	TIME	892	กาล	kaan	kaan 
+1338	23-14-11-3	7681753248587515	Thai	thai1261	the time	TIME	892	เพลา	pheelaa	pheelaa 
+1339	23-14-11-4	7681753578390904	Thai	thai1261	the time	TIME	892	มื้อ	mʉ́ʉ	mʉ́ʉ 
+1340	23-14-11-5	7681753176390075	Thai	thai1261	the time	TIME	892	ยาม	yaam (1)	yaam (1) 
+1341	23-14-11-6	7681753761220415	Thai	thai1261	the time	TIME	892		paaŋ	paaŋ 
+1342	23-14-11-7	768175343352443	Thai	thai1261	the time	TIME	892	วาร	waan (2)	waan (2) 
+1343	23-14-11-8	7681753461492324	Thai	thai1261	the time	TIME	892	วาระ	waará	waará 
+1344	23-14-12-1	7681753295242148	Thai	thai1261	the age	AGE	1789	อายุ	?aayú	?aayú 
+1345	23-14-12-2	855140461685496	Thai	thai1261	the age	AGE	1789	วัย	way	way 
+1346	23-14-13-1	7681753100420921	Thai	thai1261	new	NEW	1231	ใหม่	mày	mày 
+1347	23-14-13-2	7681753859640992	Thai	thai1261	new	NEW	1231		náwá	náwá 
+1348	23-14-14-1	76817537369033	Thai	thai1261	young	YOUNG	1207	อ่อน	?ɔ̀ɔn	?ɔ̀ɔn 
+1349	23-14-14-2	7681753755977975	Thai	thai1261	young	YOUNG	1207	เด็ก	dèk	dèk 
+1350	23-14-15-1	7681753264831310	Thai	thai1261	old	OLD	1229	แก่	kàeae	kàeae 
+1351	23-14-15-2	768175342557792	Thai	thai1261	old	OLD	1229	เฒ่า	thâo (2)	thâo (2) 
+1352	23-14-16-1	7681753152844324	Thai	thai1261	early	EARLY	672	เช้า	cháaw	cháaw 
+1353	23-14-16-2	7681753396265043	Thai	thai1261	early	EARLY	672	เนิ่น	nə̂ən	nə̂ən 
+1354	23-14-17-1	7681753256777410	Thai	thai1261	late	LATE	477	ช้า	cháa	cháa 
+1355	23-14-17-2	7681753499392098	Thai	thai1261	late	LATE	477	ล่า	lâa (2)	lâa (2) 
+1356	23-14-17-3	7681753861560348	Thai	thai1261	late	LATE	477	สาย	sǎay (2)	sǎay (2) 
+1357	23-14-18-1	7681753536677412	Thai	thai1261	now	NOW	1376	เดี๋ยวนี้	dǐawníi	dǐawníi 
+1358	23-14-18-2	7681753765293262	Thai	thai1261	now	NOW	1376	บัดนี้	bàtníi	bàtníi 
+1359	23-14-18-3	7681753244755177	Thai	thai1261	now	NOW	1376	ขณะนี้	khanàníi	khanàníi 
+1360	23-14-19-1	768175357562549	Thai	thai1261	immediately	IMMEDIATELY	1963	ทันที	thanthii	thanthii 
+1361	23-14-19-2	7681753410324660	Thai	thai1261	immediately	IMMEDIATELY	1963	ทันใด	thanday	thanday 
+1362	23-14-21-1	7681753976326167	Thai	thai1261	fast	FAST	1631	เร็ว	rew	rew 
+1363	23-14-22-1	7681753256777410	Thai	thai1261	slow	SLOW	701	ช้า	cháa	cháa 
+1364	23-14-23-1	768175340480635	Thai	thai1261	to hurry	HURRY	754	รีบ	rîip	rîip 
+1365	23-14-24-1	7681753497129501	Thai	thai1261	to be late	BE LATE	425	สาย	sǎay (2)	sǎay (2) 
+1366	23-14-24-2	7822135979109233	Thai	thai1261	to be late	BE LATE	425	เลต	lèet	lèet 
+1367	23-14-25-1	7681753673725343	Thai	thai1261	to begin	BEGIN	1806	เริ่ม	rə̂əm	rə̂əm 
+1368	23-14-252-1	7681753540154180	Thai	thai1261	to last	LAST (ENDURE)	1186	อยู่นาน	yùunaan	yùunaan 
+1369	23-14-26-1	7681753881041089	Thai	thai1261	the end(2)	END (OF TIME)	743	สิ้น	sîn (2)	sîn (2) 
+1370	23-14-27-1	7681753908238284	Thai	thai1261	to finish	FINISH	1766	เสร็จ	sèt	sèt 
+1371	23-14-27-2	7681753779674701	Thai	thai1261	to finish	FINISH	1766	แล้ว	láeaew	láeaew 
+1372	23-14-27-3	7681753829850000	Thai	thai1261	to finish	FINISH	1766	จบ	còp	còp 
+1373	23-14-27-4	7681753318425304	Thai	thai1261	to finish	FINISH	1766	เริยบร้อย	rîaprɔ́ɔy	rîaprɔ́ɔy 
+1374	23-14-28-1	7681753832958714	Thai	thai1261	to cease	CEASE	1928	เลิก	lə̂ək	lə̂ək 
+1375	23-14-29-1	7681753947719755	Thai	thai1261	ready	READY	790	พร้อม	phrɔ́ɔm	phrɔ́ɔm 
+1376	23-14-31-1	7681753147986749	Thai	thai1261	always	ALWAYS	1676	เสมอ	samə̌ə	samə̌ə 
+1377	23-14-32-1	7681753278569865	Thai	thai1261	often	OFTEN	1852	บ่อย	bɔ̀y	bɔ̀y 
+1378	23-14-32-2	7681753950878374	Thai	thai1261	often	OFTEN	1852	ถี่	thìi	thìi 
+1379	23-14-33-1	7681753478622163	Thai	thai1261	sometimes	SOMETIMES	1544	บางที	baaŋthii	baaŋthii 
+1380	23-14-331-1	7681753797635630	Thai	thai1261	soon	SOON	703	เดี๋ยว	dǐaw	dǐaw 
+1381	23-14-332-1	7681753658406667	Thai	thai1261	for a long time	FOR A LONG TIME	418	นาน	naan	naan 
+1382	23-14-34-1	7681753132842647	Thai	thai1261	never	NEVER	1656	ไม่เคย	mâykhəəy	mâykhəəy 
+1383	23-14-34-2	7681753121151370	Thai	thai1261	never	NEVER	1656	ห่อน	hɔ̀ɔn	hɔ̀ɔn 
+1384	23-14-35-1	7681753218995379	Thai	thai1261	again	AGAIN	204	อีก	?ìik	?ìik 
+1385	23-14-35-2	7681753990983683	Thai	thai1261	again	AGAIN	204	ช้ำ	sám	sám 
+1386	23-14-41-1	7681753935162970	Thai	thai1261	the day(1)	DAY (24 HOURS)	1260	กลางวัน	klaaŋwan	klaaŋwan 
+1387	23-14-42-1	7681753291722533	Thai	thai1261	the night	NIGHT	1233	กลางคืน	klaaŋkhʉʉn	klaaŋkhʉʉn 
+1388	23-14-42-2	7681753861745364	Thai	thai1261	the night	NIGHT	1233	ราตรี	raatrii	raatrii 
+1389	23-14-42-3	7681753663880087	Thai	thai1261	the night	NIGHT	1233	รัตติกาล	ráttikaan	ráttikaan 
+1390	23-14-43-1	7681753893654861	Thai	thai1261	the dawn	DAWN	729	รุ่ง	rûŋ	rûŋ 
+1391	23-14-43-2	7681753453149627	Thai	thai1261	the dawn	DAWN	729	อุษา	?ùsǎa	?ùsǎa 
+1392	23-14-43-3	7681753136675999	Thai	thai1261	the dawn	DAWN	729	อรุณ	?arun	?arun 
+1393	23-14-44-1	7681753152844324	Thai	thai1261	the morning	MORNING	1339	เช้า	cháaw	cháaw 
+1394	23-14-44-2	7681753393246984	Thai	thai1261	the morning	MORNING	1339	งาย	ŋaay	ŋaay 
+1395	23-14-45-1	7681753141936745	Thai	thai1261	the midday	MIDDAY	12	เที่ยง	thîaŋ	thîaŋ 
+1396	23-14-451-1	7681753945373199	Thai	thai1261	the afternoon	AFTERNOON	1807	บ่าย	bàay	bàay 
+1397	23-14-46-1	7681753112316561	Thai	thai1261	the evening	EVENING	1629	ค่ำ	khâm	khâm 
+1398	23-14-46-2	7681753660554023	Thai	thai1261	the evening	EVENING	1629	สายัณห์	sǎayan	sǎayan 
+1399	23-14-47-1	7681753963124300	Thai	thai1261	today	TODAY	1283	วันนี้	wanníi	wanníi 
+1400	23-14-48-1	768175327053426	Thai	thai1261	tomorrow	TOMORROW	1329	พรุ่งนี้	phrûŋníi	phrûŋníi 
+1401	23-14-481-1	7681753474989625	Thai	thai1261	the day after tomorrow	DAY AFTER TOMORROW	1179	มะรืืน	marʉʉn	marʉʉn 
+1402	23-14-49-1	7681753344337651	Thai	thai1261	yesterday	YESTERDAY	1174	วาน	waan (3)	waan (3) 
+1403	23-14-491-1	7681753224746886	Thai	thai1261	the day before yesterday	DAY BEFORE YESTERDAY	1180	วานซืน	waansʉʉn	waansʉʉn 
+1404	23-14-51-1	768175374509654	Thai	thai1261	the hour	HOUR	1353	ชั่วโมง	chûamooŋ	chûamooŋ 
+1405	23-14-53-1	7681753274541412	Thai	thai1261	the clock	CLOCK	1323	นาฬิกา	naalíkaa	naalíkaa 
+1406	23-14-61-1	7681753741643659	Thai	thai1261	the week	WEEK	1469	อาทิตย์	?aathít	?aathít 
+1407	23-14-61-2	7681753937297991	Thai	thai1261	the week	WEEK	1469	สัปดาห์	sàpdaa	sàpdaa 
+1408	23-14-62-1	7681753741643659	Thai	thai1261	Sunday	SUNDAY	1699	อาทิตย์	?aathít	?aathít 
+1409	23-14-63-1	7681753546549833	Thai	thai1261	Monday	MONDAY	1697	จันทร์	can	can 
+1410	23-14-64-1	76817531373881	Thai	thai1261	Tuesday	TUESDAY	1695	อังคาร	?aŋkhaan	?aŋkhaan 
+1411	23-14-65-1	7681753198309944	Thai	thai1261	Wednesday	WEDNESDAY	1694	พุธ	phút	phút 
+1412	23-14-66-1	7681753339263547	Thai	thai1261	Thursday	THURSDAY	1693	พฤหัสบดี	phárʉ́hàtsàbɔdii	phárʉ́hàtsàbɔdii 
+1413	23-14-67-1	7681753835656923	Thai	thai1261	Friday	FRIDAY	1692	ศุกร์	sùk (3)	sùk (3) 
+1414	23-14-68-1	7681753291042638	Thai	thai1261	Saturday	SATURDAY	1700	เสาร์	sǎo (2)	sǎo (2) 
+1415	23-14-71-1	768175289407300	Thai	thai1261	the month	MONTH	1370	เดือน	dʉan	dʉan 
+1416	23-14-71-2	7681753831272773	Thai	thai1261	the month	MONTH	1370	มาส	mâat (2)	mâat (2) 
+1417	23-14-71-3	7681753786751382	Thai	thai1261	the month	MONTH	1370	งวด	ŋûat	ŋûat 
+1418	23-14-73-1	7681753600360731	Thai	thai1261	the year	YEAR	1226	ปี	pii	pii 
+1419	23-14-73-2	7681753417142184	Thai	thai1261	the year	YEAR	1226	ขวบ	khùap	khùap 
+1420	23-14-73-3	7681753452231044	Thai	thai1261	the year	YEAR	1226		khâaw (2)	khâaw (2) 
+1421	23-14-74-1	7681753595227700	Thai	thai1261	the winter	WINTER	1471	หน้าหนาว	nâanǎaw	nâanǎaw 
+1422	23-14-74-2	7681753521017032	Thai	thai1261	the winter	WINTER	1471	เหมันต์	hěeman	hěeman 
+1423	23-14-75-1	7681753825293610	Thai	thai1261	the spring(2)	SPRINGTIME	1537	หน้าใบไม้ผลิ	nâaymáyphlì	nâaymáyphlì 
+1424	23-14-75-2	7681753672499459	Thai	thai1261	the spring(2)	SPRINGTIME	1537	วสันต์	wásǎn	wásǎn 
+1425	23-14-76-1	7681753640797971	Thai	thai1261	the summer	SUMMER	1342	หน้าร้อน	nâarɔ́ɔn	nâarɔ́ɔn 
+1426	23-14-76-2	7681753982511720	Thai	thai1261	the summer	SUMMER	1342	คิมหันต์	khimhǎn	khimhǎn 
+1427	23-14-77-1	7681753739932444	Thai	thai1261	the autumn/fall	AUTUMN	1276	หน้าใบไม้ร่วง	nâabaymáayrûaŋ	nâabaymáayrûaŋ 
+1428	23-14-77-2	7681753830438514	Thai	thai1261	the autumn/fall	AUTUMN	1276	สารท	sàat (2)	sàat (2) 
+1429	23-14-78-1	7681753382617056	Thai	thai1261	the season	SEASON	691	หน้า	nâa	nâa 
+1430	23-14-78-2	768175386966145	Thai	thai1261	the season	SEASON	691	ฤดู	rʉ́duu	rʉ́duu 
+1431	23-15-21-1	7681753590828581	Thai	thai1261	to smell(1)	SMELL (STINK)	1587	มีกลิ่น	miiklìn	miiklìn 
+1432	23-15-89-1	7681753227201004	Thai	thai1261	wrinkled	WRINKLED	380	ย่น	yôn	yôn 
+1433	23-15-212-1	768175328183067	Thai	thai1261	to sniff	SNIFF	375	ดม	dom	dom 
+1434	23-15-22-1	768175321470501	Thai	thai1261	to smell(2)	SMELL (PERCEIVE)	1586	ได้กลิ่น	dâayklìn	dâayklìn 
+1435	23-15-25-1	7681753197505423	Thai	thai1261	fragrant	FRAGRANT	376	หอม	hɔ̌ɔm	hɔ̌ɔm 
+1436	23-15-26-1	7681753701860228	Thai	thai1261	stinking	STINKING	42	เหม็น	měn	měn 
+1437	23-15-31-1	7681753126267680	Thai	thai1261	to taste	TASTE (SOMETHING)	21	รส	rót (2)	rót (2) 
+1438	23-15-35-1	7681753243554845	Thai	thai1261	sweet	SWEET	717	หวาน	wǎan	wǎan 
+1439	23-15-35-2	768175328796461	Thai	thai1261	sweet	SWEET	717	เอม	?eem	?eem 
+1440	23-15-35-3	7681753968979344	Thai	thai1261	sweet	SWEET	717	มธุรส	máthúrót	máthúrót 
+1441	23-15-36-1	7681753270518837	Thai	thai1261	salty	SALTY	1091	เค็ม	khem	khem 
+1442	23-15-37-1	7681753711199837	Thai	thai1261	bitter	BITTER	887	ขม	khǒm	khǒm 
+1443	23-15-38-1	768175364975058	Thai	thai1261	sour	SOUR	1906	เปรี้ยว	prîaw	prîaw 
+1444	23-15-38-2	7681753619910148	Thai	thai1261	sour	SOUR	1906	ส้ม	sôm	sôm 
+1445	23-15-39-1	7681753157439578	Thai	thai1261	brackish	BRACKISH	70	กร่อย	krɔ̀y	krɔ̀y 
+1446	23-15-41-1	7681753372862737	Thai	thai1261	to hear	HEAR	1408	ยิน	yin	yin 
+1447	23-15-41-2	7681753556798890	Thai	thai1261	to hear	HEAR	1408	สดับ	sadàp	sadàp 
+1448	23-15-42-1	7681753588623	Thai	thai1261	to listen	LISTEN	1608	ฟัง	faŋ	faŋ 
+1449	23-15-44-1	7681753114123012	Thai	thai1261	the sound or noise	SOUND OR NOISE	1811	เสียง	sǐaŋ	sǐaŋ 
+1450	23-15-45-1	7681753998652973	Thai	thai1261	loud	LOUD	377	ดัง	daŋ	daŋ 
+1451	23-15-46-1	7681753438566651	Thai	thai1261	quiet	QUIET	1314	เงียบ	ŋîap	ŋîap 
+1452	23-15-51-1	7681753262582740	Thai	thai1261	to see	SEE	1409	เห็น	hěn	hěn 
+1453	23-15-52-1	7681753109049446	Thai	thai1261	to look	LOOK	1819	มอง	mɔɔŋ	mɔɔŋ 
+1454	23-15-52-2	7681753557171360	Thai	thai1261	to look	LOOK	1819	ดู	duu	duu 
+1455	23-15-52-3	7681753771836138	Thai	thai1261	to look	LOOK	1819	แล	laeae	laeae 
+1456	23-15-55-1	7681753191271061	Thai	thai1261	to show	SHOW	1039	ให้ดู	hây duu	hây duu 
+1457	23-15-55-2	7681753638482409	Thai	thai1261	to show	SHOW	1039	ชิ้	chíi	chíi 
+1458	23-15-55-3	7681753117271325	Thai	thai1261	to show	SHOW	1039	แสดง	sadaeaeŋ	sadaeaeŋ 
+1459	23-15-56-1	7681753213636127	Thai	thai1261	to shine	SHINE	708	ส่อง	sɔ̀ŋ	sɔ̀ŋ 
+1460	23-15-57-1	7681753492655050	Thai	thai1261	bright	BRIGHT	679	จ้า	câa	câa 
+1461	23-15-61-1	7681753478152284	Thai	thai1261	the colour/color	COLOR	1613	สี	sǐi (3)	sǐi (3) 
+1462	23-15-61-2	768175316215400	Thai	thai1261	the colour/color	COLOR	1613	วรรณ	wan (2)	wan (2) 
+1463	23-15-61-3	7681753805729479	Thai	thai1261	the colour/color	COLOR	1613	พรรณ	phan (2)	phan (2) 
+1464	23-15-61-4	7681753462519268	Thai	thai1261	the colour/color	COLOR	1613	วรรณะ	wanná	wanná 
+1465	23-15-62-1	7681753488901118	Thai	thai1261	light(2)	LIGHT (COLOR)	250	สว่าง	sawàaŋ	sawàaŋ 
+1466	23-15-63-1	7681753468290481	Thai	thai1261	dark	DARK	706	มืด	mʉ̂ʉt	mʉ̂ʉt 
+1467	23-15-64-1	7681753806764548	Thai	thai1261	white	WHITE	1335	ขาว	khǎaw	khǎaw 
+1468	23-15-65-1	7681753435128806	Thai	thai1261	black	BLACK	163	ดำ	dam (2)	dam (2) 
+1469	23-15-66-1	7681753680653027	Thai	thai1261	red	RED	156	แดง	daeaeŋ	daeaeŋ 
+1470	23-15-67-1	7681753561986275	Thai	thai1261	blue	BLUE	837	ฟ้า	fáa	fáa 
+1471	23-15-68-1	768175370376414	Thai	thai1261	green	GREEN	1425	เขียว	khǐaw	khǐaw 
+1472	23-15-69-1	7681753689638101	Thai	thai1261	yellow	YELLOW	1424	เหลือง	lʉ̌aŋ	lʉ̌aŋ 
+1473	23-15-71-1	7681753813749255	Thai	thai1261	to touch	TOUCH	1892	แตะ	tàe	tàe 
+1474	23-15-71-2	7822254154650843	Thai	thai1261	to touch	TOUCH	1892	สัมผัส	sǎmphàt	sǎmphàt 
+1475	23-15-712-1	7681753955011875	Thai	thai1261	to pinch	PINCH	378	หยิก	yìk	yìk 
+1476	23-15-72-1	7681753118642821	Thai	thai1261	to feel	FEEL	1079	จับ	càp	càp 
+1477	23-15-74-1	7681753568675634	Thai	thai1261	hard	HARD	1884	แข็ง	khǎeŋ	khǎeŋ 
+1478	23-15-74-2	7681753181903041	Thai	thai1261	hard	HARD	1884	กล้า	klâa (1)	klâa (1) 
+1479	23-15-75-1	7681753914699609	Thai	thai1261	soft	SOFT	1856	นิ่่ม	nîm	nîm 
+1480	23-15-75-2	7822256521987919	Thai	thai1261	soft	SOFT	1856	นุ่ม	nûm	nûm 
+1481	23-15-75-3	71126128737734950	Thai	thai1261	soft	SOFT	1856		nûm	nûm 
+1482	23-15-76-1	7681753662889218	Thai	thai1261	rough(1)	ROUGH	1923	หยาบ	yàap	yàap 
+1483	23-15-77-1	7681753736693923	Thai	thai1261	smooth	SMOOTH	1234	ละมุน	lamun	lamun 
+1484	23-15-78-1	7681753230961626	Thai	thai1261	sharp	SHARP	1396	คม	khom	khom 
+1485	23-15-79-1	76817533526920	Thai	thai1261	blunt	BLUNT	379	ทื่อ	thʉ̂ʉ	thʉ̂ʉ 
+1486	23-15-79-2	7681753164505495	Thai	thai1261	blunt	BLUNT	379	ทู่	thûu	thûu 
+1487	23-15-81-1	7681753150238455	Thai	thai1261	heavy	HEAVY	1210	หนัก	nàk	nàk 
+1488	23-15-82-1	7681753490024272	Thai	thai1261	light(1)	LIGHT (WEIGHT)	1052	เบา	bao	bao 
+1489	23-15-83-1	7681753394372	Thai	thai1261	wet	WET	1726	เปียก	pìak	pìak 
+1490	23-15-84-1	7681753728706979	Thai	thai1261	dry	DRY	1398	แห้ง	hâeaeŋ	hâeaeŋ 
+1491	23-15-85-1	7681753634260838	Thai	thai1261	hot	HOT	1286	ร้อน	rɔ́ɔn	rɔ́ɔn 
+1492	23-15-851-1	7681753659439076	Thai	thai1261	warm	WARM	1232	อุ่น	?ùn	?ùn 
+1493	23-15-86-1	7681753979846640	Thai	thai1261	cold	COLD	1287	หนาว	nǎaw	nǎaw 
+1494	23-15-86-2	7681753826523391	Thai	thai1261	cold	COLD	1287	เซ็ง	seŋ	seŋ 
+1495	23-15-87-1	7681753364657747	Thai	thai1261	clean	CLEAN	704	สะอาด	sa?àat	sa?àat 
+1496	23-15-88-1	76817536181097	Thai	thai1261	dirty	DIRTY	1230	สกปรก	sòkkapròk	sòkkapròk 
+1497	23-16-11-1	7681753868863195	Thai	thai1261	the soul or spirit	SOUL	811	วิญญาณ	winyaan	winyaan 
+1498	23-16-11-2	7681753973097891	Thai	thai1261	the soul or spirit	SOUL	811	ขวัญ	khwǎn	khwǎn 
+1499	23-16-15-1	7681753809771676	Thai	thai1261	surprised or astonished	SURPRISED	1572	ประหลาดใจ	pralàatcay	pralàatcay 
+1500	23-16-15-2	7681753187669719	Thai	thai1261	surprised or astonished	SURPRISED	1572	แปลกใจ	plàakcay	plàakcay 
+1501	23-16-18-1	7681753790478985	Thai	thai1261	the good luck	GOOD LUCK	720	โชคดี	chôokdii	chôokdii 
+1502	23-16-18-2	768175341790667	Thai	thai1261	the good luck	GOOD LUCK	720	เคราะห์ดี	khrɔ́dii	khrɔ́dii 
+1503	23-16-19-1	7681753746799605	Thai	thai1261	the bad luck	BAD LUCK	56	โชคร้าย	chôokráay	chôokráay 
+1504	23-16-19-2	7681753637741289	Thai	thai1261	the bad luck	BAD LUCK	56	เคราะห์ร้าย	khrɔ́ráay	khrɔ́ráay 
+1505	23-16-23-1	7681753423334885	Thai	thai1261	happy	HAPPY	1495	สุข	sùk (4)	sùk (4) 
+1506	23-16-25-1	7681753129297237	Thai	thai1261	to laugh	LAUGH	1355	หัวเราะ	hǔarɔ́	hǔarɔ́ 
+1507	23-16-25-2	7681753199137724	Thai	thai1261	to laugh	LAUGH	1355	หัว	hǔa (2)	hǔa (2) 
+1508	23-16-251-1	7681753487929998	Thai	thai1261	to smile	SMILE	1451	ยิ้ม	yím	yím 
+1509	23-16-26-1	7681753668687292	Thai	thai1261	to play	PLAY	1413	เล่น	lên	lên 
+1510	23-16-27-1	7681753197869516	Thai	thai1261	to love	LOVE	923	รัก	rák	rák 
+1511	23-16-27-2	7681753545654429	Thai	thai1261	to love	LOVE	923	มัก	mák	mák 
+1512	23-16-29-1	7681753380848220	Thai	thai1261	to kiss	KISS	578	จูบ	cùup	cùup 
+1513	23-16-29-2	7681753410848546	Thai	thai1261	to kiss	KISS	578	จุมพิต	cumphít	cumphít 
+1514	23-16-3-1	7681753586718568	Thai	thai1261	to embrace	EMBRACE	928	กอด	kɔ̀ɔt	kɔ̀ɔt 
+1515	23-16-31-1	7681753389650098	Thai	thai1261	the pain	PAIN	1783	ความเจ็บ	khwaamcèp	khwaamcèp 
+1516	23-16-32-1	7681753270380829	Thai	thai1261	the grief	GRIEF	1668	เศร้า	sâo	sâo 
+1517	23-16-32-2	7681753953214146	Thai	thai1261	the grief	GRIEF	1668	โศก	sòok	sòok 
+1518	23-16-32-3	7681753376048141	Thai	thai1261	the grief	GRIEF	1668	ทุกข์	thúk	thúk 
+1519	23-16-32-4	7681753894088885	Thai	thai1261	the grief	GRIEF	1668	ระทม	rathom	rathom 
+1520	23-16-32-5	7681753976408425	Thai	thai1261	the grief	GRIEF	1668	หม่น	mòn	mòn 
+1521	23-16-33-1	7681753188353520	Thai	thai1261	the anxiety	ANXIETY	1000	ความกังวล	khwaamkaŋwon	khwaamkaŋwon 
+1522	23-16-33-2	7681753166081355	Thai	thai1261	the anxiety	ANXIETY	1000	ความกลุ้ม	khwaamklûm	khwaamklûm 
+1523	23-16-34-1	7681753314985367	Thai	thai1261	to regret or be sorry	REGRET	1875	เสียใจ	sǐacay	sǐacay 
+1524	23-16-35-1	7681753429109662	Thai	thai1261	the pity	PITY	1141	สงสาร	sǒŋsǎan	sǒŋsǎan 
+1525	23-16-35-2	7681753688204408	Thai	thai1261	the pity	PITY	1141	เห็นใจ	hěncay	hěncay 
+1526	23-16-37-1	7681753540916106	Thai	thai1261	to cry	CRY	1839	ร้องไห้	rɔ́ɔŋhâay	rɔ́ɔŋhâay 
+1527	23-16-38-1	7681753670620005	Thai	thai1261	the tear	TEAR (OF EYE)	1651	น้ำตา	náamtaa	náamtaa 
+1528	23-16-39-1	7681753882115363	Thai	thai1261	to groan	GROAN	716	คราง	khraaŋ	khraaŋ 
+1529	23-16-41-1	7681753423478461	Thai	thai1261	to hate	HATE	1607	เกลียด	klìat	klìat 
+1530	23-16-41-2	7681753782979314	Thai	thai1261	to hate	HATE	1607	ชัง	chaŋ	chaŋ 
+1531	23-16-42-1	71126223402557377	Thai	thai1261	the anger	ANGER	82	เคือง	khʉaŋ	khʉaŋ 
+1532	23-16-42-2	7681753508738788	Thai	thai1261	the anger	ANGER	82	ความโกรธ	khwaamkròot	khwaamkròot 
+1533	23-16-42-3	7681753323595890	Thai	thai1261	the anger	ANGER	82	ฉิว	chǐw	chǐw 
+1534	23-16-44-1	7681753272263527	Thai	thai1261	the envy or jealousy	ENVY	40	ความอิจฉา	khwaam-ìtchǎa	khwaam-ìtchǎa 
+1535	23-16-44-2	7681753588941451	Thai	thai1261	the envy or jealousy	ENVY	40	ความริษยา	khwaamrítsayǎa	khwaamrítsayǎa 
+1536	23-16-45-1	7681753103050164	Thai	thai1261	the shame	SHAME	1776	ความละอาย	kHwaamla?aay	kHwaamla?aay 
+1537	23-16-48-1	7681753760232388	Thai	thai1261	proud	PROUD	174	ภูมิใจ	phuumcay	phuumcay 
+1538	23-16-51-1	7681753181903041	Thai	thai1261	to dare	DARE	1779	กล้า	klâa (1)	klâa (1) 
+1539	23-16-51-2	7681753650452046	Thai	thai1261	to dare	DARE	1779	หาญ	hǎan	hǎan 
+1540	23-16-52-1	7681753483572222	Thai	thai1261	brave	BRAVE	3	กล้า	klâa (2)	klâa (2) 
+1541	23-16-52-2	7681753437521750	Thai	thai1261	brave	BRAVE	3	หาญ	hǎan	hǎan 
+1542	23-16-53-1	7681753549675375	Thai	thai1261	the fear	FEAR (FRIGHT)	781	กลัว	klua	klua 
+1543	23-16-53-2	768175344446380	Thai	thai1261	the fear	FEAR (FRIGHT)	781	ยั่น	yân	yân 
+1544	23-16-54-1	7681753460468379	Thai	thai1261	the danger	DANGER	1810	ภัย	phay	phay 
+1545	23-16-54-2	7681753879587626	Thai	thai1261	the danger	DANGER	1810	อันตราย	?antaraay	?antaraay 
+1546	23-16-62-1	7681753669611797	Thai	thai1261	to want	WANT	1784	อยาก	yàak	yàak 
+1547	23-16-62-2	76261237152557186	Thai	thai1261	to want	WANT	1784	ใคร่	khrây	khrây 
+1548	23-16-62-3	76261239667448662	Thai	thai1261	to want	WANT	1784	ปรารถนา	pràatthanǎa	pràatthanǎa 
+1549	23-16-622-1	768175389200018	Thai	thai1261	to choose	CHOOSE	1750	เลือก	lʉ̂ak	lʉ̂ak 
+1550	23-16-63-1	7681753853905054	Thai	thai1261	to hope	HOPE (SOMETHING)	3212	หวัง	wǎŋ	wǎŋ 
+1551	23-16-65-1	7681753246277558	Thai	thai1261	faithful	FAITHFUL	100	ซื่อสัตย์	sʉ̂ʉsàt	sʉ̂ʉsàt 
+1552	23-16-66-1	7681753700031196	Thai	thai1261	true	TRUE	1657	จริง	ciŋ	ciŋ 
+1553	23-16-66-2	76817538400772	Thai	thai1261	true	TRUE	1657	แท้	tháeae	tháeae 
+1554	23-16-66-3	7681753956266428	Thai	thai1261	true	TRUE	1657	แม่น	mâeaen	mâeaen 
+1555	23-16-67-1	7681753825585924	Thai	thai1261	to lie(2)	LIE (MISLEAD)	601	โกหก	koohòk	koohòk 
+1556	23-16-67-2	782231307612088	Thai	thai1261	to lie(2)	LIE (MISLEAD)	601	ปด	pòt	pòt 
+1557	23-16-68-1	768175333517194	Thai	thai1261	the deceit	DECEIT	13	ความหลอกลวง	khwaamlɔ̀ɔkluaŋ	khwaamlɔ̀ɔkluaŋ 
+1558	23-16-69-1	7681753361604117	Thai	thai1261	to forgive	FORGIVE	1528	ยกโทษ	yókthôot	yókthôot 
+1559	23-16-69-2	7681753787969512	Thai	thai1261	to forgive	FORGIVE	1528	อภัย	?aphay	?aphay 
+1560	23-16-69-3	7681753218389788	Thai	thai1261	to forgive	FORGIVE	1528	นิรโทษ	níráthôot	níráthôot 
+1561	23-16-71-1	7681753561307132	Thai	thai1261	good	GOOD	1035	ดี	dii	dii 
+1562	23-16-72-1	7681753799473505	Thai	thai1261	bad	BAD	1292	เลว	leew	leew 
+1563	23-16-72-2	76211714975513333	Thai	thai1261	bad	BAD	1292	ร้้าย	ráay	ráay 
+1564	23-16-72-3	76211715543819479	Thai	thai1261	bad	BAD	1292	ชั่ว	chûa	chûa 
+1565	23-16-73-1	7681753920654373	Thai	thai1261	right(2)	CORRECT (RIGHT)	1725	ถูก	thùuk (2)	thùuk (2) 
+1566	23-16-74-1	7681753559111030	Thai	thai1261	wrong	WRONG	1390	ผิด	phìt	phìt 
+1567	23-16-76-1	7681753674254395	Thai	thai1261	the fault	FAULT	134	ความผิด	khwaamphìt	khwaamphìt 
+1568	23-16-77-1	7681753965792866	Thai	thai1261	the mistake	MISTAKE	1293	ความผิดพลาด	khwaamphìtphlâat	khwaamphìtphlâat 
+1569	23-16-78-1	7681753897424816	Thai	thai1261	the blame	BLAME	381	โทษ	thôot	thôot 
+1570	23-16-78-2	7122123385580022	Thai	thai1261	the blame	BLAME	381	คำกล่าวหา	khamklàawhǎa	khamklàawhǎa 
+1571	23-16-78-3	7122123787156718	Thai	thai1261	the blame	BLAME	381	หา	hǎa (2)	hǎa (2) 
+1572	23-16-79-1	7681753774016026	Thai	thai1261	the praise	PRAISE	1687	คำชม	khamchom	khamchom 
+1573	23-16-81-1	7681753793905849	Thai	thai1261	beautiful	BEAUTIFUL	1427	สวย	sǔay	sǔay 
+1574	23-16-82-1	7681753926688809	Thai	thai1261	ugly	UGLY	1548	น่าเกลียด	nâaklìat	nâaklìat 
+1575	23-16-83-1	7681753901366736	Thai	thai1261	greedy	GREEDY	2018	งก	ŋók	ŋók 
+1576	23-16-84-1	7681753708927017	Thai	thai1261	clever	CLEVER	1310	ฉลาด	chalàat	chalàat 
+1577	23-17-11-1	7681753828253480	Thai	thai1261	the mind	MIND	1562	จิต	cìt	cìt 
+1578	23-17-13-1	855226467629906	Thai	thai1261	to think(1)	THINK (REFLECT)	1415		?àan	?àan 
+1579	23-17-13-2	7681753609823853	Thai	thai1261	to think(1)	THINK (REFLECT)	1415	คิด	khít	khít 
+1580	23-17-14-1	7681753148257823	Thai	thai1261	to think(2)	THINK (BELIEVE)	1513	เห็น	hěn	hěn 
+1581	23-17-15-1	7681753891431181	Thai	thai1261	to believe	BELIEVE	1890	เชื่อ	chʉ̂a	chʉ̂a 
+1582	23-17-16-1	7681753980524340	Thai	thai1261	to understand	UNDERSTAND	1536	เข้าใจ	khâocay	khâocay 
+1583	23-17-17-1	768175377448345	Thai	thai1261	to know	KNOW (SOMETHING)	1410	รู้	rúu	rúu 
+1584	23-17-171-1	7681753463104421	Thai	thai1261	to guess	GUESS	1932	ทาย	thaay	thaay 
+1585	23-17-171-2	76181947514506316	Thai	thai1261	to guess	GUESS	1932	เดา	dao	dao 
+1586	23-17-172-1	7681753717984069	Thai	thai1261	to imitate	IMITATE	117	เลียน	lian	lian 
+1587	23-17-18-1	7681753834811468	Thai	thai1261	to seem	SEEM	1521	ดูเหมือน	duumʉ̌an	duumʉ̌an 
+1588	23-17-19-1	7621182207298660	Thai	thai1261	the idea	IDEA	1609	ไอเดีย	?aydia	?aydia 
+1589	23-17-19-2	7681753771946943	Thai	thai1261	the idea	IDEA	1609	ความคิด	khwaamkhít	khwaamkhít 
+1590	23-17-21-1	7681753708927017	Thai	thai1261	wise	WISE	698	ฉลาด	chalàat	chalàat 
+1591	23-17-22-1	7681753150725173	Thai	thai1261	stupid	STUPID	1518	โง่	ŋôo	ŋôo 
+1592	23-17-23-1	7681753553535371	Thai	thai1261	mad	MAD	1899	บ้า	bâa	bâa 
+1593	23-17-23-2	76211836627192213	Thai	thai1261	mad	MAD	1899	วิกลจริต	wíkoncarìt	wíkoncarìt 
+1594	23-17-23-3	76212027773414657	Thai	thai1261	mad	MAD	1899	คลั่ง	khlâŋ	khlâŋ 
+1595	23-17-24-1	7681753180080140	Thai	thai1261	to learn	LEARN	504	เรียน	rian	rian 
+1596	23-17-24-2	7621196974007644	Thai	thai1261	to learn	LEARN	504	ศึกษา	sʉ̀ksǎa	sʉ̀ksǎa 
+1597	23-17-24-3	76211912375515125	Thai	thai1261	to learn	LEARN	504	สิกขา	sìkkhǎa	sìkkhǎa 
+1598	23-17-242-1	7681753409378961	Thai	thai1261	to study	STUDY	1929	เรียน	rian	rian 
+1599	23-17-25-1	7681753735841594	Thai	thai1261	to teach	TEACH	709	สอน	sɔ̌ɔn (1)	sɔ̌ɔn (1) 
+1600	23-17-26-1	7681753687524581	Thai	thai1261	the pupil	PUPIL (STUDENT)	753	นักเรียน	nákrian	nákrian 
+1601	23-17-27-1	7681753527083365	Thai	thai1261	the teacher	TEACHER	1038	ครู	khruu	khruu 
+1602	23-17-27-2	76212056568855820	Thai	thai1261	the teacher	TEACHER	1038	อาจารย์	?aacaan	?aacaan 
+1603	23-17-27-3	855218954094474	Thai	thai1261	the teacher	TEACHER	1038		baa	baa 
+1604	23-17-28-1	7681753651314636	Thai	thai1261	the school	SCHOOL	673	โรงเรียน	rooŋrian	rooŋrian 
+1605	23-17-31-1	7681753524058352	Thai	thai1261	to remember	REMEMBER	707	จำ	cam	cam 
+1606	23-17-32-1	7681753492873	Thai	thai1261	to forget	FORGET	1523	ลืม	lʉʉm	lʉʉm 
+1607	23-17-34-1	7681753668920229	Thai	thai1261	clear	CLEAR	989	ชัด	chát	chát 
+1608	23-17-35-1	7681753896505350	Thai	thai1261	obscure	OBSCURE	1764	คลุมเครือ	khlumkrʉa	khlumkrʉa 
+1609	23-17-36-1	7681753984981598	Thai	thai1261	secret	SECRET	1121	ลับ	láp	láp 
+1610	23-17-37-1	7681753446441946	Thai	thai1261	certain	CERTAIN	509	แน่นอน	nâenɔɔn	nâenɔɔn 
+1611	23-17-38-1	7681753322376003	Thai	thai1261	to explain	EXPLAIN	1626	อธิบาย	?àthíbaay	?àthíbaay 
+1612	23-17-41-1	7681753281906562	Thai	thai1261	the intention	INTENTION	1162	ความตั้งใจ	khwaamtâŋcay	khwaamtâŋcay 
+1613	23-17-42-1	7681753442005805	Thai	thai1261	the cause	CAUSE	860	สาเหตุ	sǎahèet	sǎahèet 
+1614	23-17-43-1	76261959971451248	Thai	thai1261	the doubt	DOUBT	1308	สงกา	sǒŋkaa	sǒŋkaa 
+1615	23-17-43-2	7681753761267925	Thai	thai1261	the doubt	DOUBT	1308	สงสัย	sǒŋsǎy	sǒŋsǎy 
+1616	23-17-43-3	71221249416140711	Thai	thai1261	the doubt	DOUBT	1308	ข้องใจ	khɔ̂ŋcay	khɔ̂ŋcay 
+1617	23-17-44-1	7681753486905652	Thai	thai1261	to suspect	SUSPECT	1841	สงสัย	sǒŋsǎy	sǒŋsǎy 
+1618	23-17-441-1	7681753803538697	Thai	thai1261	to betray	BETRAY	1902	ทรยศ	thɔɔrayót	thɔɔrayót 
+1619	23-17-441-2	76281823441197720	Thai	thai1261	to betray	BETRAY	1902	หักหลัง	hàklǎŋ	hàklǎŋ 
+1620	23-17-45-1	7681753795876986	Thai	thai1261	the need or necessity	NEED (NOUN)	643	ความจำเป็น	khwaamcampen	khwaamcampen 
+1621	23-17-46-1	7681753255889190	Thai	thai1261	easy	EASY	686	ง่าย	ŋâay	ŋâay 
+1622	23-17-47-1	7681753616582978	Thai	thai1261	difficult	DIFFICULT	584	ยาก	yâak	yâak 
+1623	23-17-48-1	7681753479065296	Thai	thai1261	to try	TRY	1812	พยายาม	phayaayaam	phayaayaam 
+1624	23-17-49-1	7681753107158482	Thai	thai1261	the manner	MANNER	488	ลักษณะ	láksanà	láksanà 
+1625	23-17-49-2	76281911120211836	Thai	thai1261	the manner	MANNER	488	อย่าง	yàaŋ	yàaŋ 
+1626	23-17-49-3	7628191234741212	Thai	thai1261	the manner	MANNER	488	แบบ	bàep	bàep 
+1627	23-17-51-1	7681753759575994	Thai	thai1261	and	AND	1577	และ	láe	láe 
+1628	23-17-51-2	76281916954425950	Thai	thai1261	and	AND	1577	และ	láe	láe 
+1629	23-17-52-1	7681753438918742	Thai	thai1261	because	BECAUSE	1157	เพราะ	phrɔ́	phrɔ́ 
+1630	23-17-52-2	76281919382006533	Thai	thai1261	because	BECAUSE	1157	ด้วย	dûay	dûay 
+1631	23-17-53-1	7681753303549442	Thai	thai1261	if	IF	1459	ถ้า	thâa (2)	thâa (2) 
+1632	23-17-53-2	76281924769883188	Thai	thai1261	if	IF	1459	เผื่อ	phʉ̀a	phʉ̀a 
+1633	23-17-54-1	7681753368371451	Thai	thai1261	or	OR	1014	หรือ	rʉ̌ʉ	rʉ̌ʉ 
+1634	23-17-55-1	7681753632440767	Thai	thai1261	yes	YES	1268	ใช่	chây	chây 
+1635	23-17-56-1	7681753526441531	Thai	thai1261	no	NO	1269	ไม่	mây	mây 
+1636	23-17-56-2	76291726789890038	Thai	thai1261	no	NO	1269	บ่	bɔ̀ɔ (2)	bɔ̀ɔ (2) 
+1637	23-17-56-3	76291727706700163	Thai	thai1261	no	NO	1269	ไป่	pày	pày 
+1638	23-17-61-1	7681753550775847	Thai	thai1261	how?	HOW	1239	อย่างไร	yàaŋray	yàaŋray 
+1639	23-17-62-1	7681753610044386	Thai	thai1261	how many?	HOW MANY	822	กี่	kìi (2)	kìi (2) 
+1640	23-17-63-1	7681753821409520	Thai	thai1261	how much?	HOW MUCH	531	เท่าไหร่่	thâorày	thâorày 
+1641	23-17-64-1	7681753686559351	Thai	thai1261	what?	WHAT	1236	อะไร	?aray	?aray 
+1642	23-17-65-1	762918015359195	Thai	thai1261	when?	WHEN	1238	เมื่อใด	mʉ̂aday	mʉ̂aday 
+1643	23-17-65-2	7681753356183526	Thai	thai1261	when?	WHEN	1238	เมื่อไร	mʉ̂aray	mʉ̂aray 
+1644	23-17-66-1	7629188123996274	Thai	thai1261	where?	WHERE	1237	ที่ใด	thîiday	thîiday 
+1645	23-17-66-2	7681753691827677	Thai	thai1261	where?	WHERE	1237	ที่่ไหน	thîinǎy	thîinǎy 
+1646	23-17-67-1	7681753109732988	Thai	thai1261	which?	WHICH	727	อันไหน	?annǎy	?annǎy 
+1647	23-17-68-1	76291826650335	Thai	thai1261	who?	WHO	1235	ผู้ใด	phûuday	phûuday 
+1648	23-17-68-2	7629183026727139	Thai	thai1261	who?	WHO	1235	ไผ	phǎy	phǎy 
+1649	23-17-68-3	7681753288015992	Thai	thai1261	who?	WHO	1235	ใคร	khray	khray 
+1650	23-17-69-1	7681753470236988	Thai	thai1261	why?	WHY	1270	ทำไม	thammay	thammay 
+1651	23-18-11-1	7681753605058024	Thai	thai1261	the voice	VOICE	1363	เสียง	sǐaŋ	sǐaŋ 
+1652	23-18-12-1	7681753120292511	Thai	thai1261	to sing	SING	1261	ร้อง	rɔ́ɔŋ	rɔ́ɔŋ 
+1653	23-18-12-2	76291854372899381	Thai	thai1261	to sing	SING	1261		khàp (2)	khàp (2) 
+1654	23-18-13-1	7681753380497428	Thai	thai1261	to shout	SHOUT	715	ตะโกน	takoon	takoon 
+1655	23-18-13-2	76291856648220410	Thai	thai1261	to shout	SHOUT	715	ร้อง	rɔ́ɔŋ	rɔ́ɔŋ 
+1656	23-18-13-3	76291858126325402	Thai	thai1261	to shout	SHOUT	715	ป่าว	pàaw	pàaw 
+1657	23-18-15-1	768175361429656	Thai	thai1261	to whisper	WHISPER	55	กระซิบ	krasíp	krasíp 
+1658	23-18-16-1	768175369005243	Thai	thai1261	to mumble	MUMBLE	128	งึมงำ	ŋʉmŋam	ŋʉmŋam 
+1659	23-18-16-2	7629193823638912	Thai	thai1261	to mumble	MUMBLE	128	พึมพำ	phʉmpham	phʉmpham 
+1660	23-18-17-1	7681753227077839	Thai	thai1261	to whistle	WHISTLE	1025	ผิว	phǐw (2)	phǐw (2) 
+1661	23-18-18-1	7681753461658134	Thai	thai1261	to shriek	SHRIEK	298	หวีด	wìit	wìit 
+1662	23-18-19-1	7681753441759532	Thai	thai1261	to howl	HOWL	526	หอน	hɔ̌ɔn	hɔ̌ɔn 
+1663	23-18-21-1	7681753313825877	Thai	thai1261	to speak or talk	SPEAK	1623	พูด	phûut (1)	phûut (1) 
+1664	23-18-21-2	76291949246740127	Thai	thai1261	to speak or talk	SPEAK	1623	ว่า	wâa	wâa 
+1665	23-18-21-3	76291959313457610	Thai	thai1261	to speak or talk	SPEAK	1623	คุย	khuy	khuy 
+1666	23-18-211-1	7681753165732971	Thai	thai1261	to stutter or stammer	STUTTER	1866	ติดอ่าง	tìt?àaŋ	tìt?àaŋ 
+1667	23-18-22-1	7681753496163100	Thai	thai1261	to say	SAY	1458	พูด	phûut (1)	phûut (1) 
+1668	23-18-22-2	762920287405986	Thai	thai1261	to say	SAY	1458	บอก	bɔ̀ɔk	bɔ̀ɔk 
+1669	23-18-221-1	7681753260707848	Thai	thai1261	to tell	TELL	1711	เล่า	lâo (2)	lâo (2) 
+1670	23-18-222-1	7681753129174921	Thai	thai1261	the speech	SPEECH	1115	สุนทรพจน์	sunthɔɔraphót	sunthɔɔraphót 
+1671	23-18-23-1	7681753457415872	Thai	thai1261	to be silent	BE SILENT	48	เงียบ	ŋîap	ŋîap 
+1672	23-18-24-1	7681753890097298	Thai	thai1261	the language	LANGUAGE	1307	ภาษา	phaasǎa	phaasǎa 
+1673	23-18-24-2	76292022173298024	Thai	thai1261	the language	LANGUAGE	1307	พากษ์	phâak	phâak 
+1674	23-18-26-1	7681753959244408	Thai	thai1261	the word	WORD	1599	คำ	kham (2)	kham (2) 
+1675	23-18-28-1	7681753496838863	Thai	thai1261	the name	NAME	1405	ชื่อ	chʉ̂ʉ	chʉ̂ʉ 
+1676	23-18-28-2	76292031913943235	Thai	thai1261	the name	NAME	1405	เรียก	rîak	rîak 
+1677	23-18-31-1	7681753273679979	Thai	thai1261	to ask(1)	ASK (INQUIRE)	1309	ถาม	thǎam	thǎam 
+1678	23-18-32-1	768175321831941	Thai	thai1261	to answer	ANSWER	1275	ตอบ	tɔ̀ɔp	tɔ̀ɔp 
+1679	23-18-32-2	76292033279691099	Thai	thai1261	to answer	ANSWER	1275	เฉลย	chalə̌əy	chalə̌əy 
+1680	23-18-33-1	7681753534164380	Thai	thai1261	to admit	ADMIT	2022	รับ	ráp	ráp 
+1681	23-18-34-1	7681753196286563	Thai	thai1261	to deny	DENY	755	ปฏิเสธ	patìsèet	patìsèet 
+1682	23-18-35-1	7681753503422801	Thai	thai1261	to ask(2)	ASK (REQUEST)	1828	ขอ	khɔ̌ɔ (2)	khɔ̌ɔ (2) 
+1683	23-18-36-1	7681753356490205	Thai	thai1261	to promise	PROMISE	1675	สัญญา	sǎnyaa	sǎnyaa 
+1684	23-18-37-1	7681753271336319	Thai	thai1261	to refuse	REFUSE	49	ปฏิเสธ	patìséet	patìséet 
+1685	23-18-38-1	7681753852212787	Thai	thai1261	to forbid	FORBID	83	ห้าม	hâam	hâam 
+1686	23-18-39-1	7681753659868270	Thai	thai1261	to scold	SCOLD	299	ด่า	dàa	dàa 
+1687	23-18-39-2	7630155232510655	Thai	thai1261	to scold	SCOLD	299	เอ็ด	?èt (2)	?èt (2) 
+1688	23-18-41-1	7681753614452524	Thai	thai1261	to call(1)	CALL	1084	เรียก	rîak	rîak 
+1689	23-18-42-1	76817533590885	Thai	thai1261	to call(2)	CALL BY NAME	180	เรียก	rîak	rîak 
+1690	23-18-43-1	7681753487347734	Thai	thai1261	to announce	ANNOUNCE	9	ประกาศ	prakàat	prakàat 
+1691	23-18-43-2	7630160946283944	Thai	thai1261	to announce	ANNOUNCE	9	ป่าว	pàaw	pàaw 
+1692	23-18-44-1	7681753282329518	Thai	thai1261	to threaten	THREATEN	1192	ขู่	khùu	khùu 
+1693	23-18-45-1	7681753876996522	Thai	thai1261	to boast	BOAST	101	อวด	?ùat	?ùat 
+1694	23-18-51-1	7681753248428942	Thai	thai1261	to write	WRITE	1672	เขียน	khǐan	khǐan 
+1695	23-18-51-2	76301612626888471	Thai	thai1261	to write	WRITE	1672	แต้ม	tâeaem	tâeaem 
+1696	23-18-52-1	855226467629906	Thai	thai1261	to read	READ	724		?àan	?àan 
+1697	23-18-56-1	7681753720334978	Thai	thai1261	the paper	PAPER	648	กระดาษ	kradàat	kradàat 
+1698	23-18-57-1	7681753683111502	Thai	thai1261	the pen	PEN	794	ปากกา	pàakkaa	pàakkaa 
+1699	23-18-61-1	7681753161932930	Thai	thai1261	the book	BOOK	963	หนังสือ	nǎŋsʉ̌ʉ	nǎŋsʉ̌ʉ 
+1700	23-18-67-1	7681753577592265	Thai	thai1261	the poet	POET	1045	กวี	kawii	kawii 
+1701	23-18-71-1	768175352632769	Thai	thai1261	the flute	FLUTE	777	ขลุ่ย	khlùy	khlùy 
+1702	23-18-71-2	76301728976424648	Thai	thai1261	the flute	FLUTE	777	ปี่	pìi	pìi 
+1703	23-18-72-1	7681753998707768	Thai	thai1261	the drum	DRUM	908	กลอง	klɔɔŋ	klɔɔŋ 
+1704	23-18-73-1	7681753681273883	Thai	thai1261	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136	แตร	traeae	traeae 
+1705	23-19-11-1	7681753389059704	Thai	thai1261	the country	COUNTRY	1300	ประเทศ	prathêet	prathêet 
+1706	23-19-11-2	7721351917728303	Thai	thai1261	the country	COUNTRY	1300	เมือง	mʉaŋ	mʉaŋ 
+1707	23-19-12-1	7681753110334625	Thai	thai1261	the native country	NATIVE COUNTRY	89	บ้านเกิดเมืองนอน	bâankə̀ətmʉaŋnɔɔn	bâankə̀ətmʉaŋnɔɔn 
+1708	23-19-15-1	768175319489286	Thai	thai1261	the town	TOWN	1391	เมือง	mʉaŋ	mʉaŋ 
+1709	23-19-15-2	7722022453563930	Thai	thai1261	the town	TOWN	1391	นคร	nákhɔɔn	nákhɔɔn 
+1710	23-19-15-3	7722024645087576	Thai	thai1261	the town	TOWN	1391	บุรี	burii	burii 
+1711	23-19-16-1	7681753895614391	Thai	thai1261	the village	VILLAGE	930	หมู่บ้าน	mùubâan	mùubâan 
+1712	23-19-16-2	7681753347511443	Thai	thai1261	the village	VILLAGE	930	บ้าน	bâan	bâan 
+1713	23-19-17-1	768175371649987	Thai	thai1261	the boundary	BOUNDARY	1010	เขต	khèet	khèet 
+1714	23-19-17-2	7721446156188068	Thai	thai1261	the boundary	BOUNDARY	1010	แดน	daeaen	daeaen 
+1715	23-19-17-3	7721452842934471	Thai	thai1261	the boundary	BOUNDARY	1010	เขตแดน	khèetdaaen	khèetdaaen 
+1716	23-19-17-4	772218924809165	Thai	thai1261	the boundary	BOUNDARY	1010	ขัณฑ์	khǎn	khǎn 
+1717	23-19-21-1	7681753866997578	Thai	thai1261	the people	PEOPLE	789	ประชาชน	prachaachon	prachaachon 
+1718	23-19-23-1	7681753917720135	Thai	thai1261	the clan	CLAN	302	โคตร	khôot	khôot 
+1719	23-19-23-2	7721726544079365	Thai	thai1261	the clan	CLAN	302	เหง้า	ŋâo	ŋâo 
+1720	23-19-24-1	768175383020383	Thai	thai1261	the chieftain	CHIEFTAIN	301	ขุน	khǔn	khǔn 
+1721	23-19-24-2	7721927708085853	Thai	thai1261	the chieftain	CHIEFTAIN	301	ท้าว	tháaw (2)	tháaw (2) 
+1722	23-19-24-3	7721931776539528	Thai	thai1261	the chieftain	CHIEFTAIN	301	พญา	phayaa	phayaa 
+1723	23-19-24-4	774191590501023	Thai	thai1261	the chieftain	CHIEFTAIN	301	นายก	naayók	naayók 
+1724	23-19-25-1	7681753142056631	Thai	thai1261	the walking stick	WALKING STICK	1296	ไม้เท้า	máaytháaw	máaytháaw 
+1725	23-19-31-1	7681753943453257	Thai	thai1261	to rule or govern	RULE	1846	ปกครอง	pòkkhrɔɔŋ	pòkkhrɔɔŋ 
+1726	23-19-32-1	7681753324771285	Thai	thai1261	the king	KING	1508	กษัตริย์์	kasàt	kasàt 
+1727	23-19-32-2	7721957303042978	Thai	thai1261	the king	KING	1508	ราชา	raachaa	raachaa 
+1728	23-19-32-3	772203761534883	Thai	thai1261	the king	KING	1508	เจ้าแผ่นดิน	câawphàendin	câawphàendin 
+1729	23-19-32-4	772206312065343	Thai	thai1261	the king	KING	1508	ภูมิ	phuumii	phuumii 
+1730	23-19-32-5	7722030260519378	Thai	thai1261	the king	KING	1508	บพิตร	bɔɔphít	bɔɔphít 
+1731	23-19-33-1	7681753662795887	Thai	thai1261	the queen	QUEEN	1306	ราชินี	raachinii	raachinii 
+1732	23-19-36-1	7681753885225984	Thai	thai1261	the noble	NOBLE	482	ขุนนาง	khǔnnaaŋ	khǔnnaaŋ 
+1733	23-19-37-1	7681753701635358	Thai	thai1261	the citizen	CITIZEN	1032	พลเมือง	phonlamʉaŋ	phonlamʉaŋ 
+1734	23-19-41-1	7681753551981496	Thai	thai1261	the master	MASTER	383	นาย	naay	naay 
+1735	23-19-41-2	7731437550459967	Thai	thai1261	the master	MASTER	383	เจ้า	câaw	câaw 
+1736	23-19-42-1	7681753977939720	Thai	thai1261	the slave	SLAVE	812	ทาส	thâat	thâat 
+1737	23-19-42-2	7731439481051867	Thai	thai1261	the slave	SLAVE	812	ข้า	khâa (4)	khâa (4) 
+1738	23-19-43-1	76817533540479	Thai	thai1261	the servant	SERVANT	255	คนใช้	khoncháy	khoncháy 
+1739	23-19-43-2	7731443405738926	Thai	thai1261	the servant	SERVANT	255	บ่าว	bàaw	bàaw 
+1740	23-19-44-1	7681753192724424	Thai	thai1261	the freeman	FREEMAN	384	ไท	thay	thay 
+1741	23-19-44-2	773166203511568	Thai	thai1261	the freeman	FREEMAN	384	อิสระชน	?ìtsaràchon	?ìtsaràchon 
+1742	23-19-44-3	7731758716601477	Thai	thai1261	the freeman	FREEMAN	384	เสรีชน	sěeriichon	sěeriichon 
+1743	23-19-45-1	7681753228981027	Thai	thai1261	to command or order	ORDER	1128	สั่ง	sàŋ	sàŋ 
+1744	23-19-45-2	7731926149962971	Thai	thai1261	to command or order	ORDER	1128	บัญชา	banchaa	banchaa 
+1745	23-19-46-1	7681753255633387	Thai	thai1261	to obey	OBEY	1635	เชื่่อฟัง	chʉ̂afaŋ	chʉ̂afaŋ 
+1746	23-19-46-2	7731949631773609	Thai	thai1261	to obey	OBEY	1635	ว่านอนสอนง่าย	wâanɔɔnsɔ̌ɔnŋâay	wâanɔɔnsɔ̌ɔnŋâay 
+1747	23-19-47-1	7681753126219748	Thai	thai1261	to permit	PERMIT	1003	อนุญาต	?ànúyâat	?ànúyâat 
+1748	23-19-47-2	7731959386298258	Thai	thai1261	to permit	PERMIT	1003	ให้	hây	hây 
+1749	23-19-51-1	7681753190139100	Thai	thai1261	the friend	FRIEND	1325	เพื่อน	phʉ̂an	phʉ̂an 
+1750	23-19-51-2	7741513141968671	Thai	thai1261	the friend	FRIEND	1325	เกลอ	kləə	kləə 
+1751	23-19-51-3	7741514558549632	Thai	thai1261	the friend	FRIEND	1325	สหาย	sahǎay	sahǎay 
+1752	23-19-52-1	7681753724443029	Thai	thai1261	the enemy	ENEMY	1358	ศัตรู	sàttruu	sàttruu 
+1753	23-19-52-2	7741544986333414	Thai	thai1261	the enemy	ENEMY	1358	ข้าศึก	khâasʉ̀k	khâasʉ̀k 
+1754	23-19-54-1	7681753389208773	Thai	thai1261	the neighbour	NEIGHBOUR	1332	เพื่อนบ้าน	phʉ̂anbâan	phʉ̂anbâan 
+1755	23-19-55-1	7681753921454471	Thai	thai1261	the stranger	STRANGER	791	คนแปลกหน้า	khonplàeknâa	khonplàeknâa 
+1756	23-19-56-1	7681753996962242	Thai	thai1261	the guest	GUEST	1782	แขก	khàek	khàek 
+1757	23-19-57-1	7681753720257618	Thai	thai1261	the host	HOST	1545	เจ้าภาพ	câawphâap	câawphâap 
+1758	23-19-58-1	7681753310647159	Thai	thai1261	to help	HELP	1897	ช่วย	chûay	chûay 
+1759	23-19-59-1	7681753459373423	Thai	thai1261	to prevent	PREVENT	1550	ป้องกัน	pɔ̂ŋkan	pɔ̂ŋkan 
+1760	23-19-61-1	7681753673372640	Thai	thai1261	the custom	CUSTOM	1747	ธรรมเนียม	thamniam	thamniam 
+1761	23-19-61-2	774194060172507	Thai	thai1261	the custom	CUSTOM	1747	ประเพณี	prapheenii	prapheenii 
+1762	23-19-62-1	7681753744701214	Thai	thai1261	the quarrel	QUARREL	1848	ทะเลาะ	thalɔ́	thalɔ́ 
+1763	23-19-63-1	7681753824944289	Thai	thai1261	the plot	PLOT	2024	แผน	phǎeaen	phǎeaen 
+1764	23-19-65-1	7681753790758729	Thai	thai1261	to meet	MEET	1831	พบ	phóp (2)	phóp (2) 
+1765	23-19-65-2	7681753577482766	Thai	thai1261	to meet	MEET	1831	เจอ	cəə	cəə 
+1766	23-19-65-3	7742034659576493	Thai	thai1261	to meet	MEET	1831	ปะ	pà	pà 
+1767	23-19-65-4	7742035316792185	Thai	thai1261	to meet	MEET	1831	หา	hǎa (1)	hǎa (1) 
+1768	23-19-72-1	7681753849717167	Thai	thai1261	the prostitute	PROSTITUTE	1610	โสเภณี	sǒopheenii	sǒopheenii 
+1769	23-19-72-2	7751558567935578	Thai	thai1261	the prostitute	PROSTITUTE	1610	กะหรี่	karìi	karìi 
+1770	23-19-72-3	775169618771667	Thai	thai1261	the prostitute	PROSTITUTE	1610	คณิกา	kháníkaa	kháníkaa 
+1771	23-19-72-4	7751625160908998	Thai	thai1261	the prostitute	PROSTITUTE	1610	ดอกทอง	dɔ̀ɔkthɔɔŋ	dɔ̀ɔkthɔɔŋ 
+1772	23-19-72-5	775162885586946	Thai	thai1261	the prostitute	PROSTITUTE	1610	หญิงงามเมือง	yǐŋŋaammʉaŋ	yǐŋŋaammʉaŋ 
+1773	23-20-11-1	7681753236338540	Thai	thai1261	to fight	FIGHT	1423	สู้	sûu	sûu 
+1774	23-20-11-2	7751633470168486	Thai	thai1261	to fight	FIGHT	1423	รบ	róp	róp 
+1775	23-20-13-1	768175393830708	Thai	thai1261	the war or battle	BATTLE	579	สงคราม	sǒŋkhraam	sǒŋkhraam 
+1776	23-20-13-2	7751638600674704	Thai	thai1261	the war or battle	BATTLE	579	ศึก	sʉ̀k	sʉ̀k 
+1777	23-20-14-1	7681753783668368	Thai	thai1261	the peace	PEACE	1338	สันติภาพ	sǎntìphâap	sǎntìphâap 
+1778	23-20-15-1	7681753535536180	Thai	thai1261	the army	ARMY	1561	ทัพ	tháp (2)	tháp (2) 
+1779	23-20-15-2	775173331980780	Thai	thai1261	the army	ARMY	1561	กอง	kɔɔŋ	kɔɔŋ 
+1780	23-20-15-3	775174995250107	Thai	thai1261	the army	ARMY	1561	กองทัพ	kɔɔŋtháp	kɔɔŋtháp 
+1781	23-20-17-1	7681753549890599	Thai	thai1261	the soldier	SOLDIER	1941	ทหาร	thahǎan	thahǎan 
+1782	23-20-17-2	7751742186214378	Thai	thai1261	the soldier	SOLDIER	1941	ทแกล้ว	thaklâew	thaklâew 
+1783	23-20-17-3	7751743367744904	Thai	thai1261	the soldier	SOLDIER	1941	ทกล้า	thaklâa	thaklâa 
+1784	23-20-21-1	7681753752027319	Thai	thai1261	the weapons	WEAPONS	951	อาวุธ	?aawút	?aawút 
+1785	23-20-21-2	7751829436789876	Thai	thai1261	the weapons	WEAPONS	951	ศัสตรา	sàttraa	sàttraa 
+1786	23-20-22-1	7681753365505252	Thai	thai1261	the club	CLUB	1763	กระบอง	krabɔɔŋ	krabɔɔŋ 
+1787	23-20-222-1	7681753314339590	Thai	thai1261	the battle-axe	BATTLE-AXE	386	ขวาน	khwǎan	khwǎan 
+1788	23-20-23-1	7681753236305064	Thai	thai1261	the sling	SLING	387	สลิง	saliŋ	saliŋ 
+1789	23-20-24-1	7681753442521121	Thai	thai1261	the bow	BOW	994	ธนู	thanuu	thanuu 
+1790	23-20-24-2	7751858846677700	Thai	thai1261	the bow	BOW	994	ศร	sɔ̌ɔn (2)	sɔ̌ɔn (2) 
+1791	23-20-25-1	7681753717618279	Thai	thai1261	the arrow	ARROW	977	ลูกศร	lûukthanuu	lûukthanuu 
+1792	23-20-25-2	775193295161761	Thai	thai1261	the arrow	ARROW	977	ลูกศร	lûuksɔ̌ɔn	lûuksɔ̌ɔn 
+1793	23-20-25-3	775195769732864	Thai	thai1261	the arrow	ARROW	977	ลูกดอก	lûukdɔ̀ɔk	lûukdɔ̀ɔk 
+1794	23-20-26-1	7681753874271246	Thai	thai1261	the spear	SPEAR	945	หอก	hɔ̀ɔk	hɔ̀ɔk 
+1795	23-20-27-1	7681753634564413	Thai	thai1261	the sword	SWORD	1535	ดาบ	dàap	dàap 
+1796	23-20-27-2	7751910627368415	Thai	thai1261	the sword	SWORD	1535	พร้า	phráa	phráa 
+1797	23-20-28-1	7681753377415479	Thai	thai1261	the gun	GUN	1566	ปืน	pʉʉn	pʉʉn 
+1798	23-20-31-1	7681753113274205	Thai	thai1261	the armour	ARMOUR	1061	เกราะ	krɔ̀	krɔ̀ 
+1799	23-20-33-1	7681753654296990	Thai	thai1261	the helmet	HELMET	1680	หมวก	mùak	mùak 
+1800	23-20-34-1	7681753191919231	Thai	thai1261	the shield	SHIELD	1064	โล่	lôo	lôo 
+1801	23-20-35-1	7681753614109183	Thai	thai1261	the fortress	FORTRESS	1938	ป้อม	pɔ̂m	pɔ̂m 
+1802	23-20-36-1	7681753121121313	Thai	thai1261	the tower	TOWER	1671	หอคอย	hɔ̌ɔkhɔɔy	hɔ̌ɔkhɔɔy 
+1803	23-20-41-1	7681753546061903	Thai	thai1261	the victory	VICTORY	783	ชัย	chay	chay 
+1804	23-20-42-1	7681753119015255	Thai	thai1261	the defeat	DEFEAT	782	ปราชัย	praachay	praachay 
+1805	23-20-43-1	7681753113085443	Thai	thai1261	the attack	ATTACK	722	ตี	tii	tii 
+1806	23-20-44-1	7681753792418690	Thai	thai1261	to defend	DEFEND	1330	ป้องกัน	pɔ̂ŋkan	pɔ̂ŋkan 
+1807	23-20-45-1	7681753212537682	Thai	thai1261	to retreat	RETREAT	421	ถอย	thɔ̌y	thɔ̌y 
+1808	23-20-46-1	7681753560008682	Thai	thai1261	to surrender	SURRENDER	1696	ยอมแพ้	yɔɔmpháeae	yɔɔmpháeae 
+1809	23-20-47-1	7681753511848606	Thai	thai1261	the captive or prisoner	PRISONER	1072	เชลย	chaləəy	chaləəy 
+1810	23-20-471-1	7681753367478989	Thai	thai1261	the guard	GUARD	1940	ยาม	yaam (2)	yaam (2) 
+1811	23-20-49-1	7681753374072957	Thai	thai1261	the ambush	AMBUSH	65	การซุ่มโจมตี	kaansûmcoomtii	kaansûmcoomtii 
+1812	23-20-51-1	7681753762836805	Thai	thai1261	the fisherman	FISHERMAN	1858	ชาวประมง	chaawpramoŋ	chaawpramoŋ 
+1813	23-20-52-1	7681753163103601	Thai	thai1261	the fishhook	FISHHOOK	1074	เบ็ด	bèt	bèt 
+1814	23-20-53-1	7681753649889954	Thai	thai1261	the fishing line	FISHING LINE	19	สายเบ็ด	sǎaybèt	sǎaybèt 
+1815	23-20-54-1	7681753484359852	Thai	thai1261	the fishnet	FISHNET	388	แห	hǎe	hǎe 
+1816	23-20-55-1	7681753211224308	Thai	thai1261	the fish trap	FISH TRAP	389	ไซ	say	say 
+1817	23-20-56-1	7681753471006972	Thai	thai1261	the bait	BAIT	2013	เหยื่อ	yʉ̀a	yʉ̀a 
+1818	23-20-61-1	7681753394344731	Thai	thai1261	to hunt	HUNT	1435	ล่า	lâa (3)	lâa (3) 
+1819	23-20-62-1	7681753929690502	Thai	thai1261	to shoot	SHOOT	1172	ยิง	yiŋ	yiŋ 
+1820	23-20-63-1	7681753974720312	Thai	thai1261	to miss	MISS (A TARGET)	161	พลาด	phlâat	phlâat 
+1821	23-20-64-1	7681753287561213	Thai	thai1261	the trap	TRAP (PITFALL)	1075	กับ	kàp (1)	kàp (1) 
+1822	23-20-65-1	7681753507983948	Thai	thai1261	to trap	TRAP (CATCH)	1170	ดัก	dàk	dàk 
+1823	23-21-11-1	7681753244850330	Thai	thai1261	the law	LAW	1062	กฎหมาย	kòtmǎay	kòtmǎay 
+1824	23-21-11-2	776172812300957	Thai	thai1261	the law	LAW	1062	นิติ	nítì	nítì 
+1825	23-21-15-1	7681753408296777	Thai	thai1261	the court	COURT	1068	ศาล	sǎan (2)	sǎan (2) 
+1826	23-12-013-1	7681753477888175	Thai	thai1261	at	AT	1461	ที่	thîi	thîi 
+1827	23-21-16-1	7681753313156249	Thai	thai1261	to adjudicate	ADJUDICATE	1818	ตัดสิน	tàtsǐn	tàtsǐn 
+1828	23-21-16-2	7761728817466082	Thai	thai1261	to adjudicate	ADJUDICATE	1818	พิพากษา	phíphâaksǎa	phíphâaksǎa 
+1829	23-21-17-1	7681753753040249	Thai	thai1261	the judgment	JUDGMENT	1067	คำตัดสิน	khamtàtsǐn	khamtàtsǐn 
+1830	23-21-18-1	7681753541606703	Thai	thai1261	the judge	JUDGE	861	ผู้พิพากษาิ	phûuphíphâaksǎa	phûuphíphâaksǎa 
+1831	23-21-18-2	7761744929823511	Thai	thai1261	the judge	JUDGE	861	ตุลาการ	tulaakaan	tulaakaan 
+1832	23-21-18-3	776181819928373	Thai	thai1261	the judge	JUDGE	861		sùphaa	sùphaa 
+1833	23-21-21-1	7681753424780248	Thai	thai1261	the plaintiff	PLAINTIFF	2020	โจทก์	còot	còot 
+1834	23-21-22-1	7681753690895005	Thai	thai1261	the defendant	DEFENDANT	1034	จำเลย	camləəy	camləəy 
+1835	23-21-23-1	7681753285304951	Thai	thai1261	the witness	WITNESS	1144	พยาน	phayaan	phayaan 
+1836	23-21-24-1	7681753255982197	Thai	thai1261	to swear	SWEAR	1939	สาบาน	sǎabaan	sǎabaan 
+1837	23-21-24-2	7761950955889667	Thai	thai1261	to swear	SWEAR	1939	สบถ	sabòt	sabòt 
+1838	23-21-25-1	7681753690940087	Thai	thai1261	the oath	OATH	1712	คำสาบาน	khamsǎabaan	khamsǎabaan 
+1839	23-21-31-1	7681753585252530	Thai	thai1261	to accuse	ACCUSE	1814	กล่าวหา	klàawhǎa	klàawhǎa 
+1840	23-21-32-1	768175378350563	Thai	thai1261	to condemn	CONDEMN	484	ลงโทษ	loŋthôot	loŋthôot 
+1841	23-21-33-1	768175327125528	Thai	thai1261	to convict	CONVICT	983		phìt	phìt 
+1842	23-21-34-1	768175366968900	Thai	thai1261	to acquit	ACQUIT	988	ปล่อยตัว	plɔ̀ytua	plɔ̀ytua 
+1843	23-21-35-1	7681753557409170	Thai	thai1261	guilty	GUILTY	1682	ผิด	phìt	phìt 
+1844	23-21-36-1	7681753275792861	Thai	thai1261	innocent	INNOCENT	90	บริสุทธิ์	bɔɔrisùt	bɔɔrisùt 
+1845	23-21-37-1	7681753226136019	Thai	thai1261	the penalty or punishment	PUNISHMENT	390	โทษ	thôot	thôot 
+1846	23-21-37-2	7771736579822525	Thai	thai1261	the penalty or punishment	PUNISHMENT	390	ทัณฑ์	than	than 
+1847	23-21-38-1	7681753231613844	Thai	thai1261	the fine	FINE (PENALTY)	218	ค่าปรับ	khâapràp	khâapràp 
+1848	23-21-39-1	7681753210885656	Thai	thai1261	the prison	PRISON	1281	คุก	khúk	khúk 
+1849	23-21-39-2	777186210603957	Thai	thai1261	the prison	PRISON	1281	ตะราง	taraaŋ	taraaŋ 
+1850	23-21-39-3	7771815103709419	Thai	thai1261	the prison	PRISON	1281	ซังเต	saŋtee	saŋtee 
+1851	23-21-42-1	7681753996484001	Thai	thai1261	the murder	MURDER	845	ฆาตกรรม	khâattakam	khâattakam 
+1852	23-21-43-1	7681753993207490	Thai	thai1261	the adultery	ADULTERY	902	ผิดลูกผิดเมีย	phìtlûukphìtmia	phìtlûukphìtmia 
+1853	23-21-44-1	7681753309887835	Thai	thai1261	the rape	RAPE	953	ข่มขืน	khòmkhʉ̌ʉn	khòmkhʉ̌ʉn 
+1854	23-21-46-1	7681753672918500	Thai	thai1261	the arson	ARSON	1889	วางเพลิง	waaŋpləəŋ	waaŋpləəŋ 
+1855	23-21-46-2	777195390356971	Thai	thai1261	the arson	ARSON	1889	เผา	phǎo	phǎo 
+1856	23-21-47-1	7681753504738532	Thai	thai1261	the perjury	PERJURY	1792	คำให้การเท็จ	khamhâykaanthét	khamhâykaanthét 
+1857	23-21-51-1	7681753454477715	Thai	thai1261	to steal	STEAL	713	ขโมย	khamooy	khamooy 
+1858	23-21-51-2	777197417887898	Thai	thai1261	to steal	STEAL	713	ลัก	lák	lák 
+1859	23-21-52-1	7681753235876783	Thai	thai1261	the thief	THIEF	1160	ขโมย	khamooy	khamooy 
+1860	23-22-11-1	7681753715266197	Thai	thai1261	the religion	RELIGION	661	ศาสนา	sàtsanǎa	sàtsanǎa 
+1861	23-22-12-1	7681753686727451	Thai	thai1261	the god	DEITY	3231	พระเจ้า	phrácâaw	phrácâaw 
+1862	23-22-13-1	7681753337903035	Thai	thai1261	the temple	TEMPLE	911	วัด	wát (2)	wát (2) 
+1863	23-22-14-1	7681753704739052	Thai	thai1261	the altar	ALTAR	853	แท่น	thâen	thâen 
+1864	23-22-15-1	7681753509030650	Thai	thai1261	the sacrifice	SACRIFICE	1103	บูชายัญ	buuchaayan	buuchaayan 
+1865	23-22-16-1	7681753169032057	Thai	thai1261	to worship	WORSHIP	257	บูชา	buuchaa	buuchaa 
+1866	23-22-16-2	7791642501880938	Thai	thai1261	to worship	WORSHIP	257	บวง	buaŋ	buaŋ 
+1867	23-22-16-3	7791644111411339	Thai	thai1261	to worship	WORSHIP	257	เซ่น	sên (2)	sên (2) 
+1868	23-22-16-4	7791645322514511	Thai	thai1261	to worship	WORSHIP	257	สังเวย	sǎŋwəəy	sǎŋwəəy 
+1869	23-22-16-5	779175647923238	Thai	thai1261	to worship	WORSHIP	257	ไหว้	wâay (2)	wâay (2) 
+1870	23-22-17-1	7681753701254763	Thai	thai1261	to pray	PRAY	24	ขอ	khɔ̌ɔ	khɔ̌ɔ 
+1871	23-22-17-2	7791716678107418	Thai	thai1261	to pray	PRAY	24	อธิษฐาน	?athíthǎan	?athíthǎan 
+1872	23-22-18-1	7681753962492380	Thai	thai1261	the priest	PRIEST	852	พระ	phrá	phrá 
+1873	23-22-19-1	7681753221469288	Thai	thai1261	holy	HOLY	1702	ศักดิ์สิทธิ์	sàksìt	sàksìt 
+1874	23-22-22-1	7681753701878039	Thai	thai1261	to preach	PREACH	304	เทศน์	thêet	thêet 
+1875	23-22-23-1	7681753988543821	Thai	thai1261	to bless	BLESS	391	อวยพร	?uayphɔɔn	?uayphɔɔn 
+1876	23-22-24-1	7681753385049849	Thai	thai1261	to curse	CURSE	8	แช่ง	châeŋ	châeŋ 
+1877	23-22-24-2	77101727995192399	Thai	thai1261	to curse	CURSE	8	สาบแช่ง	sàapchâeŋ	sàapchâeŋ 
+1878	23-22-26-1	7681753858868785	Thai	thai1261	to fast	ABSTAIN FROM FOOD	303	อดอาหาร	?òt?aahǎan	?òt?aahǎan 
+1879	23-22-31-1	7681753633716484	Thai	thai1261	the heaven	HEAVEN	1565	สวรรค์	sawǎn	sawǎn 
+1880	23-22-31-2	7710185919374770	Thai	thai1261	the heaven	HEAVEN	1565	สรวง	sǔaŋ	sǔaŋ 
+1881	23-22-31-3	77101810999407805	Thai	thai1261	the heaven	HEAVEN	1565	เมืองบน	mʉaŋbon	mʉaŋbon 
+1882	23-22-32-1	7681753557447542	Thai	thai1261	the hell	HELL	878	นรก	narók	narók 
+1883	23-22-35-1	7681753431493251	Thai	thai1261	the demon	DEMON	1973	ปีศาจ	pìsàat	pìsàat 
+1884	23-22-37-1	768175396105892	Thai	thai1261	the idol	IDOL	1945	เทวรูป	theewarûup	theewarûup 
+1885	23-22-42-1	7681753142606147	Thai	thai1261	the magic	MAGIC	392	เวทมนตร์	wêetmon	wêetmon 
+1886	23-22-43-1	7681753628734498	Thai	thai1261	the sorcerer or witch	MAGICIAN	2137	แม่มด	mâeaemót	mâeaemót 
+1887	23-22-43-2	7710184413072789	Thai	thai1261	the sorcerer or witch	MAGICIAN	2137	พ่อมด	phɔ̂ɔmót	phɔ̂ɔmót 
+1888	23-22-44-1	7681753774489767	Thai	thai1261	the fairy or elf	ELF OR FAIRY	3206	นางฟ้า	naaŋfáa	naaŋfáa 
+1889	23-22-44-2	77101943597078600	Thai	thai1261	the fairy or elf	ELF OR FAIRY	3206	เทวดา	theewadaa	theewadaa 
+1890	23-22-44-3	77101945220512823	Thai	thai1261	the fairy or elf	ELF OR FAIRY	3206	ภูติ	phûut (2)	phûut (2) 
+1891	23-22-44-4	77101948338103039	Thai	thai1261	the fairy or elf	ELF OR FAIRY	3206	พราย	phraay	phraay 
+1892	23-22-44-5	77101956651205026	Thai	thai1261	the fairy or elf	ELF OR FAIRY	3206	ผีฟ้า	phǐifáa	phǐifáa 
+1893	23-22-45-1	7681753436222134	Thai	thai1261	the ghost	GHOST	1175	ผี	phǐi	phǐi 
+1894	23-22-47-1	7681753697635214	Thai	thai1261	the omen	OMEN	107	ลาง	laaŋ	laaŋ 
+1895	23-23-1-1	7681753112186680	Thai	thai1261	the radio	RADIO	1315	วิทยุ	wítthayú	wítthayú 
+1896	23-23-11-1	7681753688613513	Thai	thai1261	the television	TELEVISION	1788	โทรทัศน์	thoorathát	thoorathát 
+1897	23-23-11-2	7710203854903314	Thai	thai1261	the television	TELEVISION	1788	ทีวี	thiiwii	thiiwii 
+1898	23-23-12-1	7681753304785748	Thai	thai1261	the telephone	TELEPHONE	1379	โทรศัพท์	thorasàp	thorasàp 
+1899	23-23-135-1	7681753470924436	Thai	thai1261	the motorcycle	MOTORCYCLE	638	จักรยานยนต์	cakkrayaanyon	cakkrayaanyon 
+1900	23-23-135-2	7710212998084133	Thai	thai1261	the motorcycle	MOTORCYCLE	638	มอเตอร์ไซค์	mɔɔtəəsay	mɔɔtəəsay 
+1901	23-23-14-1	7681753997077555	Thai	thai1261	the car	CAR	1111	รถยนต์	rótyon	rótyon 
+1902	23-23-15-1	7681753734130539	Thai	thai1261	the bus	BUS	1070	รถเมล์	rótmee	rótmee 
+1903	23-23-16-1	7681753813723056	Thai	thai1261	the airplane	AIRPLANE	1597	เรือบิน	rʉabin	rʉabin 
+1904	23-23-16-2	7710213090249166	Thai	thai1261	the airplane	AIRPLANE	1597	เครื่องบิน	khrʉ̂aŋbin	khrʉ̂aŋbin 
+1905	23-23-17-1	7681753340335173	Thai	thai1261	the electricity	ELECTRICITY	59	ไฟฟ้า	fayfáa	fayfáa 
+1906	23-23-175-1	7681753692206008	Thai	thai1261	the battery	BATTERY	662	ถ่าน	thàan	thàan 
+1907	23-23-175-2	77102122979906387	Thai	thai1261	the battery	BATTERY	662	แบตเตอรี่	bàettəərîi	bàettəərîi 
+1908	23-23-2-1	7681753636434152	Thai	thai1261	the hospital	HOSPITAL	616	โรงพยาบาล	rooŋ phayaabaan	rooŋ phayaabaan 
+1909	23-23-21-1	7681753327901629	Thai	thai1261	the nurse	NURSE	1104	นางพยาบาล	naaŋphayaabaan	naaŋphayaabaan 
+1910	23-23-22-1	7681753227794999	Thai	thai1261	the pill or tablet	PILL	395	ยาเม็ด	yaamét	yaamét 
+1911	23-23-23-1	7681753312019822	Thai	thai1261	the injection	INJECTION	1805	การฉีดยา	kaanchìityaa	kaanchìityaa 
+1912	23-23-5-1	7681753484852789	Thai	thai1261	the tap/faucet	FAUCET	1488	ก๊อก	kɔ́k	kɔ́k 
+1913	23-23-51-1	7681753381772310	Thai	thai1261	the sink	SINK (BASIN)	915	อ่าง	?àaŋ	?àaŋ 
+1914	23-23-52-1	7681753180397375	Thai	thai1261	the toilet	TOILET	219	ส้วม	sûam	sûam 
+1915	23-23-52-2	77121551682560977	Thai	thai1261	the toilet	TOILET	219	ห้องน้ำ	hɔ̂ŋnáam	hɔ̂ŋnáam 
+1916	23-23-53-1	7681753196494284	Thai	thai1261	the mattress	MATTRESS	105	ฟูก	fûuk	fûuk 
+1917	23-23-53-2	77121555530153915	Thai	thai1261	the mattress	MATTRESS	105	ที่นอน	thîinɔɔn	thîinɔɔn 
+1918	23-23-3-1	7681753669400507	Thai	thai1261	the government	GOVERNMENT	815	รัฐบาล	rátthabaan	rátthabaan 
+1919	23-23-31-1	7681753955952188	Thai	thai1261	the president	PRESIDENT	899	ประธานาธิบดี	prathaanaathíbɔdii	prathaanaathíbɔdii 
+1920	23-23-32-1	7681753887326782	Thai	thai1261	the minister	MINISTER	486	รัฐมนตรี	rátthamontrii	rátthamontrii 
+1921	23-23-33-1	7681753321974600	Thai	thai1261	the police	POLICE	656	ตำรวจ	tamrùat	tamrùat 
+1922	23-23-33-2	77111955720158979	Thai	thai1261	the police	POLICE	656	โปลิศ	poolít	poolít 
+1923	23-23-34-1	7681753407229968	Thai	thai1261	the driver's license	DRIVER'S LICENSE	599	ใบขับขี่	baykhàpkhìi	baykhàpkhìi 
+1924	23-23-37-1	7681753287714206	Thai	thai1261	the crime	CRIME	1066	อาชญากรรม	?àatchayaakam	?àatchayaakam 
+1925	23-23-38-1	7681753307661376	Thai	thai1261	the election	ELECTION	240	การเลือกตั้ง	kaanlʉ̂aktâŋ	kaanlʉ̂aktâŋ 
+1926	23-23-4-1	7681753726695289	Thai	thai1261	the post/mail	MAIL	167	ไปรษณีย์	praysanii	praysanii 
+1927	23-23-41-1	7681753428678836	Thai	thai1261	the postage stamp	POSTAGE STAMP	596	แสตมป์	sataem	sataem 
+1928	23-23-41-2	77112055678294836	Thai	thai1261	the postage stamp	POSTAGE STAMP	596	ดวงตราไปรษณียกรณ์	duaŋtraapraysaniiyaakɔɔn	duaŋtraapraysaniiyaakɔɔn 
+1929	23-23-42-1	7681753650195883	Thai	thai1261	the letter	LETTER	1612	จดหมาย	còtmǎay	còtmǎay 
+1930	23-23-44-1	77121448114124596	Thai	thai1261	the bank	BANK	1284	แบงค์	báeŋ	báeŋ 
+1931	23-23-44-2	7681753579291414	Thai	thai1261	the bank	BANK	1284	ธนาคาร	thanaakhaan	thanaakhaan 
+1932	23-23-54-1	7681753954036848	Thai	thai1261	the tin/can	CAN	1051	กระป๋อง	krapɔ̌ŋ	krapɔ̌ŋ 
+1933	23-23-55-1	7681753319442599	Thai	thai1261	the screw	SCREW	1802	ตะปูควง	tapuukhuaŋ	tapuukhuaŋ 
+1934	23-23-55-2	7712168964501281	Thai	thai1261	the screw	SCREW	1802	สกรู	sakruu	sakruu 
+1935	23-23-555-1	7681753331849670	Thai	thai1261	the screwdriver	SCREWDRIVER	836	ไขควง	khǎykhuaŋ	khǎykhuaŋ 
+1936	23-23-56-1	7681753537593433	Thai	thai1261	the bottle	BOTTLE	1321	ขวด	khùat	khùat 
+1937	23-23-565-1	7681753239647256	Thai	thai1261	the candy/sweets	CANDY	874	ลูกกวาด	lûukkwàat	lûukkwàat 
+1938	23-23-565-2	77121618135075621	Thai	thai1261	the candy/sweets	CANDY	874	ทอฟฟี่	tɔ́pfîi	tɔ́pfîi 
+1939	23-23-565-3	77121620587542990	Thai	thai1261	the candy/sweets	CANDY	874	ลูกอม	lûuk?om	lûuk?om 
+1940	23-23-24-1	7681753882530351	Thai	thai1261	the spectacles/glasses	SPECTACLES	1898	แว่นตา	wâentaa	wâentaa 
+1941	23-23-57-1	7681753290399854	Thai	thai1261	the plastic	PLASTIC	654	พลาสติก	plátstìk	plátstìk 
+1942	23-23-57-2	77121632562287160	Thai	thai1261	the plastic	PLASTIC	654	พลาสติก	páttìk	páttìk 
+1943	23-23-575-1	7681753911265116	Thai	thai1261	the bomb	BOMB	1804	ระเบิด	rabə̀ə̀t	rabə̀ə̀t 
+1944	23-23-58-1	768175374188642	Thai	thai1261	the workshop	WORKSHOP	1677	โรงงาน	rooŋŋaan	rooŋŋaan 
+1945	23-23-59-1	7681753932817619	Thai	thai1261	the cigarette	CIGARETTE	969	บุหรี่	burìi	burìi 
+1946	23-23-59-2	77121719216270053	Thai	thai1261	the cigarette	CIGARETTE	969	ยาสูบ	yaasùup	yaasùup 
+1947	23-23-59-3	77121721696229637	Thai	thai1261	the cigarette	CIGARETTE	969	ยากาแร็ต	yaakaaráet	yaakaaráet 
+1948	23-23-61-1	7681753878381376	Thai	thai1261	the calendar	CALENDAR	1967	ปฏิทิน	patithin	patithin 
+1949	23-23-61-2	77121922533436935	Thai	thai1261	the calendar	CALENDAR	1967	กาลันเดอร์	kalandə̂ə	kalandə̂ə 
+1950	23-23-62-1	7681753966320572	Thai	thai1261	the film/movie	MOVIE	216	หนัง	nǎŋ	nǎŋ 
+1951	23-23-62-2	77121927600798075	Thai	thai1261	the film/movie	MOVIE	216	ภาพยนตร์	phâapphayon	phâapphayon 
+1952	23-23-63-1	7681753923396479	Thai	thai1261	the music	MUSIC	642	ดนตรี่	dontrii	dontrii 
+1953	23-23-64-1	768175311921497	Thai	thai1261	the song	SONG	1096	เพลง	phleeŋ	phleeŋ 
+1954	23-23-64-2	77121947263628162	Thai	thai1261	the song	SONG	1096	คีตะ คีตา	khiità, khiitaa	khiità 
+1955	23-23-64-3	77121947263628162	Thai	thai1261	the song	SONG	1096	คีตะ คีตา	khiità, khiitaa	khiitaa 
+1956	23-23-6-1	768175362116327	Thai	thai1261	the newspaper	NEWSPAPER	1298	หนังสือพิมพ์	nǎŋsʉ̌ʉphim	nǎŋsʉ̌ʉphim 
+1957	23-23-385-1	7681753176169676	Thai	thai1261	the address	ADDRESS	591	ที่อยู่	thîiyùu	thîiyùu 
+1958	23-23-39-1	7681753628522718	Thai	thai1261	the number	NUMBER	1356	เลข	lêek	lêek 
+1959	23-23-155-1	7681753748500	Thai	thai1261	the train	TRAIN	900	รถไฟ	rótfay	rótfay 
+1960	23-23-36-1	7681753690189200	Thai	thai1261	the birth certificate	BIRTH CERTIFICATE	397	สูติบัตร	sǔutibàt	sǔutibàt 
+1961	23-23-36-2	77112020119518487	Thai	thai1261	the birth certificate	BIRTH CERTIFICATE	397	ใบเกิด	baykə̀ət	baykə̀ət 
+1962	23-23-18-1	7681753298364282	Thai	thai1261	to brake	BRAKE	966	เบรค	brèek	brèek 
+1963	23-23-195-1	7681753605678302	Thai	thai1261	the petroleum	PETROLEUM	650	น้ำมัน	náamman (1)	náamman (1) 
+1964	23-23-185-1	768175371619147	Thai	thai1261	the motor	MOTOR	110	เครื่องยนต์	khrʉ̂aŋyon	khrʉ̂aŋyon 
+1965	23-23-185-2	77102131234748571	Thai	thai1261	the motor	MOTOR	110	มอเตอร์	mɔɔtə̂ə	mɔɔtə̂ə 
+1966	23-23-19-1	7681753109009201	Thai	thai1261	the machine	MACHINE	144	เครื่องจักร	khrʉ̂aŋcàk	khrʉ̂aŋcàk 
+1967	23-23-13-1	7681753664832903	Thai	thai1261	the bicycle	BICYCLE	747	จักรยาน	càkkrayaan	càkkrayaan 
+1968	23-23-395-1	7681753839059191	Thai	thai1261	the street	STREET	1362	ถนน	thanǒn	thanǒn 
+1969	23-19-445-1	7681753841556006	Thai	thai1261	to liberate	LIBERATE	37	เลิกทาส	lə̂əkthâat	lə̂əkthâat 
+1970	23-19-445-2	7731856522224466	Thai	thai1261	to liberate	LIBERATE	37	ปลดปล่อย	plòtplɔ̀y	plòtplɔ̀y 
+1971	23-19-565-1	76817531166305	Thai	thai1261	to invite	INVITE	1611	เชิญ	chəən	chəən 
+1972	23-19-565-2	7741919443399960	Thai	thai1261	to invite	INVITE	1611	อัญเชิญ	?anchəən	?anchəən 
+1973	23-23-35-1	768175355536922	Thai	thai1261	the license plate	LICENSE PLATE	1790	ป้ายทะเบียนรถ	pâaythabianrót	pâaythabianrót 
+1974	23-23-43-1	7681753617482628	Thai	thai1261	the postcard	POSTCARD	1497	โปสการ์ด	póotsəkáat	póotsəkáat 
+1975	23-23-43-2	77121424249465633	Thai	thai1261	the postcard	POSTCARD	1497	ไปรษณียบัตร	praysaniiyabàt	praysaniiyabàt 
+1976	23-24-01-1	7681753191628745	Thai	thai1261	to be	BE	1579	เป็น	pen	pen 
+1977	23-24-01-2	7712202925941031	Thai	thai1261	to be	BE	1579	อยู่	yùu	yùu 
+1978	23-24-01-3	77122030146377906	Thai	thai1261	to be	BE	1579	คือ	khʉʉ	khʉʉ 
+1979	23-24-02-1	7681753883326428	Thai	thai1261	to become	BECOME	1990	กลายเป็น	klaaypen	klaaypen 
+1980	23-24-03-1	7681753152318345	Thai	thai1261	without	WITHOUT	1478	โดยไม่มี	dooymâymii	dooymâymii 
+1981	23-24-03-2	77122040115273351	Thai	thai1261	without	WITHOUT	1478	ปราศจาก	pràatsacàak	pràatsacàak 
+1982	23-24-03-3	77122048728250973	Thai	thai1261	without	WITHOUT	1478	ไร้	ráy	ráy 
+1983	23-24-05-1	7681753239953930	Thai	thai1261	through	THROUGH	97	ลอด	lɔ̌ɔt	lɔ̌ɔt 
+1984	23-24-05-2	7712210331503084	Thai	thai1261	through	THROUGH	97	ผ่าน	phàan	phàan 
+1985	23-24-05-3	771221176386760	Thai	thai1261	through	THROUGH	97	ตลอด	talɔ̀ɔt	talɔ̀ɔt 
+1986	23-24-05-4	7712211382367672	Thai	thai1261	through	THROUGH	97	ทะลุ	thálú	thálú 
+1987	23-24-13-1	768175317222599	Thai	thai1261	same	SAME	200	เดียวกัน	diawkan	diawkan 
+1988	23-24-06-1	7681753556551631	Thai	thai1261	not	NOT	1240	ไม่	mây	mây 
+1989	23-24-06-2	7712214528945925	Thai	thai1261	not	NOT	1240	มิ	mí	mí 
+1990	23-24-06-3	7712214693291026	Thai	thai1261	not	NOT	1240	ไป่	pày	pày 
+1991	23-24-06-4	7712216810806385	Thai	thai1261	not	NOT	1240	เปล่า	plàaw	plàaw 
+1992	23-24-07-1	7681753816854670	Thai	thai1261	this	THIS	1214	นิ้	níi	níi 
+1993	23-24-08-1	7681753107992896	Thai	thai1261	that	THAT	78	นั่น	nán	nán 
+1994	23-24-09-1	7681753312445176	Thai	thai1261	here	HERE	136	ที่นี่	thîinîi	thîinîi 
+1995	23-24-1-1	7681753642946075	Thai	thai1261	there	THERE	1937	ที่นั่น	thîinân	thîinân 
+1996	23-24-11-1	7681753414347208	Thai	thai1261	other	OTHER	197	อื่น	?ʉ̀ʉn	?ʉ̀ʉn 
+1997	23-4-493-1	7681753894218644	Thai	thai1261	the vagina	VAGINA	1836	ช่องคลอด	chɔ̂ŋkhlɔ̂ɔt	chɔ̂ŋkhlɔ̂ɔt 
+1998	23-4-493-2	7716258486926274	Thai	thai1261	the vagina	VAGINA	1836	โยนี	yoonii	yoonii 
+1999	23-23-9-1	7681753678804318	Thai	thai1261	the tea	TEA	1373	ชา	chaa	chaa 
+2000	23-23-91-1	7681753157448680	Thai	thai1261	the coffee	COFFEE	1299	กาแฟ	kaafaeae	kaafaeae 
+2001	23-23-91-2	77122027847034618	Thai	thai1261	the coffee	COFFEE	1299	ข้าวแฝ่	khâawfàe	khâawfàe 
+2002	23-24-12-1	7681753409409010	Thai	thai1261	next	NEXT	1354	ต่อไป	tɔ̀ɔpay	tɔ̀ɔpay 
+2003	23-24-12-2	77122115222353091	Thai	thai1261	next	NEXT	1354	ถัดไป	thàtpay	thàtpay 
+2004	23-3-863-1	7681753197257282	Thai	thai1261	the hare	HARE	1190	กระต่ายป่า	kratàaypàa	kratàaypàa 
+2005	23-3-865-1	7681753312272081	Thai	thai1261	the quail	QUAIL	1893	คุ่ม	khûm	khûm 
+2006	23-3-866-1	7681753712351080	Thai	thai1261	the raccoon	RACCOON	828		ráekkhuun	ráekkhuun 
+2007	23-3-869-1	7681753165751623	Thai	thai1261	the squirrel	SQUIRREL	1628	กระรอก	krarɔ̂ɔk	krarɔ̂ɔk 
+2008	23-10-79-1	7681753493432464	Thai	thai1261	the sledge/sled	SLED	16	เลื่อน	lʉ̂an	lʉ̂an 
+2009	23-8-29-1	7681753689463010	Thai	thai1261	the lasso	LASSO	340	บ่วง	bùaŋ	bùaŋ 
+2010	23-1-771-1	7681752106335985	Thai	thai1261	the arctic lights	ARCTIC LIGHTS	261	แสงเหนือ	sǎeaeŋnʉ̌a	sǎeaeŋnʉ̌a 
+2011	23-4-465-1	7681753646230678	Thai	thai1261	the sinew or tendon	TENDON	1137	เอ็น	?en	?en 
+2012	23-7-67-1	7681753211185130	Thai	thai1261	to tan	TAN	247	ฟอก	fɔ̂ɔk	fɔ̂ɔk 
+2013	23-22-5-1	7681753185551371	Thai	thai1261	the circumcision	CIRCUMCISION	393		sunàt	sunàt 
+2014	23-22-51-1	7681753553281768	Thai	thai1261	the initiation ceremony	INITIATION CEREMONY	1946		kooncùk	kooncùk 
+2015	23-8-996-1	7681753144976688	Thai	thai1261	the cone	CONE	287	ลูกสน	lûuksǒn	lûuksǒn 
+2016	23-3-8112-1	7681753196462700	Thai	thai1261	the body louse	BODY LOUSE	311	เล็น	len	len 
+2017	23-4-494-1	7681753348407750	Thai	thai1261	the vulva	VULVA	1837	ปากช่องคลอด	pàakchɔ̂ŋkhlɔ̂ɔt	pàakchɔ̂ŋkhlɔ̂ɔt 
+2018	23-3-99-1	768175391901117	Thai	thai1261	the tapir	TAPIR	312	สมเสร็จ	sǒmsèt	sǒmsèt 
+2019	23-9-93-1	7681753992118923	Thai	thai1261	the whetstone	WHETSTONE	295	หินลับมีด	hǐnlápmîit	hǐnlápmîit 
+2020	23-7-65-1	7681753827315519	Thai	thai1261	the camp	CAMP	1105	ค่าย	khâay	khâay 
+2021	23-3-597-1	7681753469279261	Thai	thai1261	the cormorant	CORMORANT	840	นกกาน้ำ	nókkaanáam	nókkaanáam 
+2022	23-3-833-1	7681753945137727	Thai	thai1261	the prawns or shrimp	PRAWNS	238	กุ้ง	kûŋ	kûŋ 
+2023	23-3-834-1	7681753562258919	Thai	thai1261	the termites	TERMITE	883	ปลวก	plùak	plùak 
+2024	23-3-835-1	7681753210025231	Thai	thai1261	the tick	TICK	1527	เห็บ	hèp	hèp 
+2025	23-9-87-1	7681753350440278	Thai	thai1261	the boomerang	BOOMERANG	135	บูมเมอแรง	buummaraeaeŋ	buummaraeaeŋ 
+2026	23-3-88-1	7681753676927151	Thai	thai1261	the kangaroo	KANGAROO	164	จิงโจ้	ciŋcôo	ciŋcôo 
+2027	23-3-89-1	7681753602932532	Thai	thai1261	the anteater	ANTEATER	181	ตัวกินมด	tuakinmót	tuakinmót 
+2028	23-7-66-1	7681753320201892	Thai	thai1261	the hammock	HAMMOCK	2019	อู่	?ùu	?ùu 
+2029	23-7-66-2	7681753549641178	Thai	thai1261	the hammock	HAMMOCK	2019	เปล	plee	plee 
+2030	23-7-66-3	7681753328421281	Thai	thai1261	the hammock	HAMMOCK	2019	เปลญวน	pleeyuan	pleeyuan 
+2031	23-8-911-1	768175337927472	Thai	thai1261	the millet or sorghum	MILLET	931	ฟ่าง	fâaŋ	fâaŋ 
+2032	23-3-913-1	7681753628386286	Thai	thai1261	the chameleon	CHAMELEON	1555	กิ้งก่า	kîŋkàa	kîŋkàa 
+2033	23-9-9-1	7681753614878123	Thai	thai1261	to draw water	DRAW (WATER)	1911	ตัก	tàk	tàk 
+2034	23-9-91-1	7681753480884845	Thai	thai1261	the peg	PEG	361	เป๊ก	pék	pék 
+2035	23-9-91-2	772313038950023	Thai	thai1261	the peg	PEG	361	หมุด	mùt	mùt 
+2036	23-10-58-1	7681753807201214	Thai	thai1261	to go or return home	RETURN HOME	142	กลับ	klàp	klàp 
+2037	23-10-58-2	768175397534873	Thai	thai1261	to go or return home	RETURN HOME	142	คืน	khʉʉn	khʉʉn 
+2038	23-3-917-1	7681753698075211	Thai	thai1261	the buffalo	BUFFALO	934	ควาย	khwaay	khwaay 
+2039	23-3-917-2	7681753809112390	Thai	thai1261	the buffalo	BUFFALO	934	กระบือ	krabʉʉ	krabʉʉ 
+2040	23-3-917-3	77152216991982174	Thai	thai1261	the buffalo	BUFFALO	934	กาสร	kaasɔ̌ɔn	kaasɔ̌ɔn 
+2041	23-1-411-1	7681752875117326	Thai	thai1261	the savanna	SAVANNA	260		sawannâa	sawannâa 
+2042	23-1-831-1	7681752571639743	Thai	thai1261	the steam	STEAM	1193	ไอ	?ay	?ay 
+2043	23-2-4561-1	7681752228091752	Thai	thai1261	the older sibling	OLDER SIBLING	405	พี่	phîi	phîi 
+2044	23-2-4562-1	7681752260954838	Thai	thai1261	the younger sibling	YOUNGER SIBLING	427	น้อง	nɔ́ɔŋ	nɔ́ɔŋ 
+2045	23-2-4711-1	7681752687472091	Thai	thai1261	the grandparents	GRANDPARENTS	305	ปู่ย่าตายาย	pùuyâataayaay	pùuyâataayaay 
+2046	23-2-5-1	7681752612415807	Thai	thai1261	the grandchild	GRANDCHILD	1617	หลาน	lǎan	lǎan 
+2047	23-2-541-1	7681752398143506	Thai	thai1261	the sibling’s child	SIBLING'S CHILD	173	หลาน	lǎan	lǎan 
+2048	23-2-622-1	7681752403458771	Thai	thai1261	the parents-in-law	PARENTS-IN-LAW	306	พ่อแม่สามี	phɔ̂ɔmâeaesǎamii	phɔ̂ɔmâeaesǎamii 
+2049	23-2-622-2	7681752206507164	Thai	thai1261	the parents-in-law	PARENTS-IN-LAW	306	พ่อตาแม่ยาย	phɔ̂ɔtaamâeaeyaay	phɔ̂ɔtaamâeaeyaay 
+2050	23-2-6411-1	768175275280449	Thai	thai1261	the child-in-law	CHILD-IN-LAW	1060	ลูกเขย	lûukkhə̌əy	lûukkhə̌əy 
+2051	23-2-6411-2	7681752876698517	Thai	thai1261	the child-in-law	CHILD-IN-LAW	1060	ลูกสะใภ้	lûuksapháy	lûuksapháy 
+2052	23-2-6412-1	7681752836425317	Thai	thai1261	the sibling-in-law	SIBLING-IN-LAW	1832	พี่เขย	phîikhə̌əy	phîikhə̌əy 
+2053	23-2-6412-2	7681752316410918	Thai	thai1261	the sibling-in-law	SIBLING-IN-LAW	1832	น้องเขย	nɔ́ɔŋkhə̌əy	nɔ́ɔŋkhə̌əy 
+2054	23-2-6412-3	7681752436919414	Thai	thai1261	the sibling-in-law	SIBLING-IN-LAW	1832	พี่สะใภ้	phîisapháy	phîisapháy 
+2055	23-2-6412-4	7681752161311489	Thai	thai1261	the sibling-in-law	SIBLING-IN-LAW	1832	น้องสะใภ้	nɔ́ɔŋsapháy	nɔ́ɔŋsapháy 
+2056	23-2-931-1	7681752155155832	Thai	thai1261	he	HE	1211	เขา	kháo	kháo 
+2057	23-2-931-2	7681752220398468	Thai	thai1261	he	HE	1211	เธอ	thəə	thəə 
+2058	23-2-931-3	7681752358268937	Thai	thai1261	he	HE	1211	มัน	man (1)	man (1) 
+2059	23-2-931-4	7681752840945988	Thai	thai1261	he	HE	1211	อิ	?ii	?ii 
+2060	23-2-931-5	7681752892839229	Thai	thai1261	he	HE	1211		hii	hii 
+2061	23-2-932-1	7681752539932919	Thai	thai1261	she	SHE	1834	เขา	kháo	kháo 
+2062	23-2-932-2	7681752751953694	Thai	thai1261	she	SHE	1834	เธอ	thəə	thəə 
+2063	23-2-932-3	7681752135161407	Thai	thai1261	she	SHE	1834	มัน	man	man 
+2064	23-2-932-4	7681752766295715	Thai	thai1261	she	SHE	1834	หล่อน	lɔ̀n	lɔ̀n 
+2065	23-2-932-5	7681752840945988	Thai	thai1261	she	SHE	1834	อิ	?ii	?ii 
+2066	23-2-932-6	7681752486136072	Thai	thai1261	she	SHE	1834	ชิ	chii	chii 
+2067	23-2-933-1	7681752639097991	Thai	thai1261	it	IT	169	มัน	man	man 
+2068	23-4-741-1	768175314549722	Thai	thai1261	the life	LIFE	210	ชีวิต	chiiwít	chiiwít 
+2069	23-4-741-2	7681753283125618	Thai	thai1261	the life	LIFE	210	ชีพ	chîip	chîip 
+2070	23-4-741-3	7681753152078392	Thai	thai1261	the life	LIFE	210	ชีวา	chiiwaa	chiiwaa 
+2071	23-4-741-4	7681753911156235	Thai	thai1261	the life	LIFE	210	ชีวะ	chiiwá	chiiwá 
+2072	23-4-771-1	7681753433072204	Thai	thai1261	the carcass	CARCASS	1770	ซาก	sâak	sâak 
+2073	23-4-844-1	7681753572499601	Thai	thai1261	the disease	DISEASE	1986	โรค	rôok	rôok 
+2074	23-7-232-1	7681753962389819	Thai	thai1261	the padlock	PADLOCK	336	แม่กุญแจ	mâeaekuncaeae	mâeaekuncaeae 
+2075	23-8-121-1	7681753278974264	Thai	thai1261	the paddy	PADDY FIELD	140	นา	naa	naa 
+2076	23-11-29-1	7681753628587392	Thai	thai1261	to damage	DAMAGE	1116	ทำลาย	thamlaay	thamlaay 
+2077	23-11-29-2	7681753207626652	Thai	thai1261	to damage	DAMAGE	1116	พัง	phaŋ (1)	phaŋ (1) 
+2078	23-12-081-1	7681753810905691	Thai	thai1261	above	ABOVE	1741	เหนือ	nʉ̌a	nʉ̌a 
+2079	23-13-231-1	7681753384265202	Thai	thai1261	the piece	PIECE	594	ชิ้น	chín	chín 
+2080	23-13-231-2	7681753665870403	Thai	thai1261	the piece	PIECE	594	อัน	?an	?an 
+2081	23-13-331-1	7681753533921905	Thai	thai1261	alone	ALONE	1964		diaw	diaw 
+2082	23-13-331-2	77122120811606717	Thai	thai1261	alone	ALONE	1964	ดาย	daay	daay 
+2083	23-13-331-3	7681753683713476	Thai	thai1261	alone	ALONE	1964	เดียวดาย	diawdaay	diawdaay 
+2084	23-14-251-1	7681753613260416	Thai	thai1261	the beginning	BEGINNING	1557	ตอนแรก	tɔɔnrâeaek	tɔɔnrâeaek 
+2085	23-14-411-1	7681753913365440	Thai	thai1261	the day(2)	DAY (NOT NIGHT)	1225	วัน	wan (1)	wan (1) 
+2086	23-22-131-1	768175346382141	Thai	thai1261	the church	CHURCH	1349	โบสถ์	bòot	bòot 
+2087	23-22-132-1	7681753237043726	Thai	thai1261	the mosque	MOSQUE	1603	สุเหร่า	surào	surào 
+2088	23-22-132-2	779151613920183	Thai	thai1261	the mosque	MOSQUE	1603	มัสยิด	mátsayít	mátsayít 
+2089	23-22-132-3	779167678871308	Thai	thai1261	the mosque	MOSQUE	1603	กุฎิ	kadii	kadii 
+2090	23-24-14-1	768175315925267	Thai	thai1261	nothing	NOTHING	687	เปล่า	plàaw	plàaw 
+2091	23-24-14-2	77122120811606717	Thai	thai1261	nothing	NOTHING	687	ดาย	daay	daay 
+2092	23-4-7501-1	7681753596154416	Thai	thai1261	dead	DEAD	1625	ตาย	taay	taay 
+2093	23-4-8541-1	7681753803106362	Thai	thai1261	to scratch	SCRATCH	1436	เกา	kao	kao 
+2094	23-9-111-1	7681753815334510	Thai	thai1261	to make	MAKE	734	ทำ	tham	tham 
+2095	23-4-431-1	7681753571882282	Thai	thai1261	the belly	BELLY	1251	พุง	phuŋ	phuŋ 
+2096	23-9-311-1	7681753386453872	Thai	thai1261	to wipe	WIPE	1454	เช็ด	chét	chét 
+2097	23-1-775-1	7681753568675634	Thai	thai1261	to freeze	FREEZE	1431	แข็ง	khǎeŋ	khǎeŋ 
+2098	23-24-04-1	7681753911673509	Thai	thai1261	with	WITH	1340	กับ	kàp (2)	kàp (2) 
+2099	23-24-04-2	76281919382006533	Thai	thai1261	with	WITH	1340	ด้วย	dûay	dûay 
+2100	23-12-012-1	7681753151381603	Thai	thai1261	in	IN	1460	ใน	nay	nay 
+2101	23-1-99907-1	77131817711311945	Thai	thai1261	the river			นที	náthii	náthii 
+2102	23-1-99907-2	77131818216978583	Thai	thai1261	the river			สินธุ์	sǐn	sǐn 
+2103	23-9-99929-1	8550352297013	Thai	thai1261	to close			หับ	hàp	hàp 
+2104	23-17-99907-1	76271045970079808	Thai	thai1261	to doubt			กังขา	kaŋkhǎa	kaŋkhǎa 
+2105	23-17-99907-2	76281735558853477	Thai	thai1261	to doubt			ข้องใจ	khɔ̂ŋcay	khɔ̂ŋcay 
+2106	23-19-99936-1	76211924171637338	Thai	thai1261	the student			ศิษย์	sìt	sìt 
+2107	23-19-9994-1	774203133178862	Thai	thai1261	to quarrel			วิวาท	wiwâat	wiwâat 
+2108	23-19-9994-2	774206337581822	Thai	thai1261	to quarrel			พิพาท	phíphâat	phíphâat 
+2109	23-20-99907-1	7751949201819878	Thai	thai1261	to attack			โจมตี	coomtii	coomtii 
+2110	23-21-99902-1	7761734203930121	Thai	thai1261	the verdict			คำพิพากษา	khamphíphâaksǎa	khamphíphâaksǎa 

@@ -1,0 +1,1519 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	13-1-1-1	72212319366322667	English	stan1293	the world	WORLD	965		world	world 
+2	13-1-21-1	7221231950882841	English	stan1293	the land	LAND	626		land	land 
+3	13-1-212-1	72212319996483626	English	stan1293	the soil	EARTH (SOIL)	1228		soil	soil 
+4	13-1-213-1	72212319560735876	English	stan1293	the dust	DUST	2		dust	dust 
+5	13-1-214-1	72212319296371268	English	stan1293	the mud	MUD	640		mud	mud 
+6	13-1-215-1	7221231926356015	English	stan1293	the sand	SAND	671		sand	sand 
+7	13-1-22-1	72212319830637400	English	stan1293	the mountain or hill	MOUNTAIN OR HILL	2118		mountain	mountain 
+8	13-1-22-2	72212319252829224	English	stan1293	the mountain or hill	MOUNTAIN OR HILL	2118		hill	hill 
+9	13-1-222-1	72212319547579431	English	stan1293	the cliff or precipice	PRECIPICE	618		cliff	cliff 
+10	13-1-222-2	72212319588761357	English	stan1293	the cliff or precipice	PRECIPICE	618		precipice	precipice 
+11	13-1-23-1	7221231958638727	English	stan1293	the plain	PLAIN	652		plain	plain 
+12	13-1-24-1	72212319628862359	English	stan1293	the valley	VALLEY	921		valley	valley 
+13	13-1-25-1	72212319819988255	English	stan1293	the island	ISLAND	622		island	island 
+14	13-1-26-1	72212319640001547	English	stan1293	the mainland	MAINLAND	166		mainland	mainland 
+15	13-1-27-1	72212319448599484	English	stan1293	the shore	SHORE	113		shore	shore 
+16	13-1-28-1	7221231928258719	English	stan1293	the cave	CAVE	1155		cave	cave 
+17	13-1-31-1	72212319381262396	English	stan1293	the water	WATER	948		water	water 
+18	13-1-32-1	7221231970023147	English	stan1293	the sea	SEA	1474		sea	sea 
+19	13-1-322-1	7221231925420135	English	stan1293	calm	CALM	258		calm	calm 
+20	13-1-323-1	72212319661561157	English	stan1293	rough(2)	ROUGH (OF SEA)	259		rough	rough 
+21	13-1-324-1	72212319914231609	English	stan1293	the foam	FOAM	1768		foam	foam 
+22	13-1-329-1	72212319820271674	English	stan1293	the ocean	OCEAN	645		ocean	ocean 
+23	13-1-33-1	72212319836302606	English	stan1293	the lake	LAKE	624		lake	lake 
+24	13-1-34-1	72212319780494994	English	stan1293	the bay	BAY	663		bay	bay 
+25	13-1-341-1	72212319768898780	English	stan1293	the lagoon	LAGOON	623		lagoon	lagoon 
+26	13-1-342-1	72212319309497967	English	stan1293	the reef	REEF	660		reef	reef 
+27	13-1-343-1	72212319755238027	English	stan1293	the cape	CAPE	1662		cape	cape 
+28	13-1-35-1	7221231946819062	English	stan1293	the wave	WAVE	978		wave	wave 
+29	13-1-352-1	7221231928493375	English	stan1293	the tide	TIDE	891		tide	tide 
+30	13-1-353-1	72212319298188384	English	stan1293	the low tide	LOW TIDE	1026		low tide	low tide 
+31	13-1-354-1	72212319357863784	English	stan1293	the high tide	HIGH TIDE	613		high tide	high tide 
+32	13-1-36-1	72212319815492175	English	stan1293	the river or stream	RIVER	666		river	river 
+33	13-1-36-2	72212319733849875	English	stan1293	the river or stream	RIVER	666		stream	stream 
+34	13-1-362-1	72212319756239930	English	stan1293	the whirlpool	WHIRLPOOL	1982		whirlpool	whirlpool 
+35	13-1-37-1	72212319922910265	English	stan1293	the spring or well	SPRING OR WELL	2144		spring	spring 
+36	13-1-37-2	72212319186552654	English	stan1293	the spring or well	SPRING OR WELL	2144		well	well 
+37	13-1-38-1	72212319504884225	English	stan1293	the swamp	SWAMP	1145		swamp	swamp 
+38	13-1-39-1	7221231919434383	English	stan1293	the waterfall	WATERFALL	943		waterfall	waterfall 
+39	13-1-41-1	72212319231666484	English	stan1293	the woods or forest	FOREST	420		forest	forest 
+40	13-1-41-2	72212319993632163	English	stan1293	the woods or forest	FOREST	420		wood(s)	wood(s) 
+41	13-1-43-1	72212319687197834	English	stan1293	the wood	WOOD	1803		wood	wood 
+42	13-1-44-1	72212319162017906	English	stan1293	the stone or rock	STONE OR ROCK	2125		stone	stone 
+43	13-1-44-2	72212319644629983	English	stan1293	the stone or rock	STONE OR ROCK	2125		rock	rock 
+44	13-1-45-1	7221231951446059	English	stan1293	the earthquake	EARTHQUAKE	6		earthquake	earthquake 
+45	13-1-51-1	72212319170700024	English	stan1293	the sky	SKY	1732		sky	sky 
+46	13-1-52-1	72212319390162792	English	stan1293	the sun	SUN	1343		sun	sun 
+47	13-1-53-1	72212319334313591	English	stan1293	the moon	MOON	1313		moon	moon 
+48	13-1-54-1	72212319116669321	English	stan1293	the star	STAR	1430		star	star 
+49	13-1-55-1	72212319449218223	English	stan1293	the lightning	LIGHTNING	1654		lightning	lightning 
+50	13-1-56-1	72212319591415213	English	stan1293	the thunder	THUNDER	1150		thunder	thunder 
+51	13-1-57-1	72212319386299673	English	stan1293	the bolt of lightning	BOLT (OF LIGHTNING)	2007		lightning bolt	lightning bolt 
+52	13-1-58-1	72212319438772650	English	stan1293	the storm	STORM	858		storm	storm 
+53	13-1-59-1	72212319865680287	English	stan1293	the rainbow	RAINBOW	1733		rainbow	rainbow 
+54	13-1-61-1	72212319746248128	English	stan1293	the light	LIGHT (RADIATION)	630		light	light 
+55	13-1-62-1	7221231923791912	English	stan1293	the darkness	DARKNESS	11		darkness	darkness 
+56	13-1-63-1	72212319829293286	English	stan1293	the shade or shadow	SHADE	1388		shadow	shadow 
+57	13-1-63-2	72212319605598304	English	stan1293	the shade or shadow	SHADE	1388		shade	shade 
+58	13-1-64-1	72212319831579483	English	stan1293	the dew	DEW	1977		dew	dew 
+59	13-1-71-1	7221231977822684	English	stan1293	the air	AIR	27		air	air 
+60	13-1-72-1	72212319836946686	English	stan1293	the wind	WIND	960		wind	wind 
+61	13-1-73-1	72212319389314093	English	stan1293	the cloud	CLOUD	1489		cloud	cloud 
+62	13-1-74-1	7221231935858497	English	stan1293	the fog	FOG	249		fog	fog 
+63	13-1-75-1	72212319221048138	English	stan1293	the rain	RAIN (PRECIPITATION)	658		rain	rain 
+64	13-1-76-1	72212319702277765	English	stan1293	the snow	SNOW	784		snow	snow 
+65	13-1-77-1	72212319407062642	English	stan1293	the ice	ICE	617		ice	ice 
+66	13-1-78-1	72212319520480200	English	stan1293	the weather	WEATHER	952		weather	weather 
+67	13-1-81-1	72212319213262091	English	stan1293	the fire	FIRE	221		fire	fire 
+68	13-1-82-1	72212319640809058	English	stan1293	the flame	FLAME	889		flame	flame 
+69	13-1-83-1	72212319493880290	English	stan1293	the smoke	SMOKE (EXHAUST)	778		smoke	smoke 
+70	13-1-84-1	7221231987024056	English	stan1293	the ash	ASH	646		ash	ash 
+71	13-1-841-1	7221231974693655	English	stan1293	the embers	EMBERS	67		embers	embers 
+72	13-1-851-1	72212319665472514	English	stan1293	to burn(1)	BURN (SOMETHING)	141		burn	burn 
+73	13-1-852-1	72212319665472514	English	stan1293	to burn(2)	BURNING	1428		burn	burn 
+74	13-1-86-1	72212319275465996	English	stan1293	to light	LIGHT (IGNITE)	737		light	light 
+75	13-1-861-1	72212319264611979	English	stan1293	to extinguish	EXTINGUISH	127		extinguish	extinguish 
+76	13-1-87-1	72212319526672608	English	stan1293	the match	MATCH	1133		match	match 
+77	13-1-88-1	72212319692831474	English	stan1293	the firewood	FIREWOOD	10		firewood	firewood 
+78	13-1-89-1	72212319625006921	English	stan1293	the charcoal	CHARCOAL	1188		charcoal	charcoal 
+79	13-2-1-1	7221231930955726	English	stan1293	the person	PERSON	683		person	person 
+80	13-2-21-1	72212319126284897	English	stan1293	the man	MAN	1554		man	man 
+81	13-2-22-1	72212319856494981	English	stan1293	the woman	WOMAN	962		woman	woman 
+82	13-2-23-1	72212319242453571	English	stan1293	male(1)	MALE (OF ANIMAL)	2263		male	male 
+83	13-2-24-1	72212319384593678	English	stan1293	female(1)	FEMALE (OF PERSON)	2260		female	female 
+84	13-2-25-1	72212319193676667	English	stan1293	the boy	BOY	1366		boy	boy 
+85	13-2-26-1	7221231958151676	English	stan1293	the girl	GIRL	1646		girl	girl 
+86	13-2-27-1	72212319483460164	English	stan1293	the child(1)	CHILD (YOUNG HUMAN)	1304		child	child 
+87	13-2-28-1	72212319490514138	English	stan1293	the baby	BABY	1289		baby	baby 
+88	13-2-31-1	72212319946251977	English	stan1293	the husband	HUSBAND	1200		husband	husband 
+89	13-2-32-1	72212319586176741	English	stan1293	the wife	WIFE	1199		wife	wife 
+90	13-2-33-1	72212319281797392	English	stan1293	to marry	MARRY	203		marry	marry 
+91	13-2-34-1	72212319695215883	English	stan1293	the wedding	WEDDING	1259		wedding	wedding 
+92	13-2-341-1	7221231921455154	English	stan1293	the divorce	DIVORCE	1134		divorce	divorce 
+93	13-2-35-1	72212319241398651	English	stan1293	the father	FATHER	1217		father	father 
+94	13-2-36-1	72212319115646621	English	stan1293	the mother	MOTHER	1216		mother	mother 
+95	13-2-37-1	72212319755509008	English	stan1293	the parents	PARENTS	505		parent	parent 
+96	13-2-41-1	72212319579870044	English	stan1293	the son	SON	1620		son	son 
+97	13-2-42-1	72212319550954027	English	stan1293	the daughter	DAUGHTER	1357		daughter	daughter 
+98	13-3-662-1	72212320152316489	English	stan1293	the porpoise or dolphin	DOLPHIN	1479		dolphin	dolphin 
+99	13-3-662-2	7221232051854274	English	stan1293	the porpoise or dolphin	DOLPHIN	1479		porpoise	porpoise 
+100	13-2-43-1	72212319483460164	English	stan1293	the child(2)	CHILD (DESCENDANT)	1801		child	child 
+101	13-2-44-1	72212319409235840	English	stan1293	the brother	BROTHER	1262		brother	brother 
+102	13-2-45-1	72212319895792902	English	stan1293	the sister	SISTER	1263		sister	sister 
+103	13-2-456-1	72212319863279136	English	stan1293	the sibling	SIBLING	1640		sibling	sibling 
+104	13-2-458-1	72212319195300061	English	stan1293	the twins	TWINS	1005		twins	twins 
+105	13-2-46-1	72212319597265339	English	stan1293	the grandfather	GRANDFATHER	1383		grandfather	grandfather 
+106	13-2-461-1	72212319344915270	English	stan1293	the old man	OLD MAN	406		old man	old man 
+107	13-2-47-1	72212319543578885	English	stan1293	the grandmother	GRANDMOTHER	1496		grandmother	grandmother 
+108	13-2-471-1	72212319315769219	English	stan1293	the old woman	OLD WOMAN	907		old woman	old woman 
+109	13-2-48-1	72212319993265467	English	stan1293	the grandson	GRANDSON	1618		grandson	grandson 
+110	13-2-49-1	72212319772790998	English	stan1293	the granddaughter	GRANDDAUGHTER	1619		granddaughter	granddaughter 
+111	13-2-51-1	72212319705081418	English	stan1293	the uncle	UNCLE	1327		uncle	uncle 
+112	13-2-52-1	72212319135956535	English	stan1293	the aunt	AUNT	1272		aunt	aunt 
+113	13-2-53-1	72212319517873620	English	stan1293	the nephew	NEPHEW	1063		nephew	nephew 
+114	13-2-54-1	72212319488704021	English	stan1293	the niece	NIECE	1642		niece	niece 
+115	13-2-55-1	72212319527410438	English	stan1293	the cousin	COUSIN	1643		cousin	cousin 
+116	13-2-56-1	72212319665863469	English	stan1293	the ancestors	ANCESTORS	1669		ancestor	ancestor 
+117	13-2-57-1	72212319990537310	English	stan1293	the descendants	DESCENDANTS	490		descendant	descendant 
+118	13-2-61-1	72212319204944288	English	stan1293	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		father-in-law	father-in-law 
+119	13-2-62-1	72212319334871995	English	stan1293	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		mother-in-law	mother-in-law 
+120	13-2-63-1	72212319950490546	English	stan1293	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		son-in-law	son-in-law 
+121	13-2-64-1	72212319798917474	English	stan1293	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		daughter-in-law	daughter-in-law 
+122	13-2-71-1	7221231971903543	English	stan1293	the stepfather	STEPFATHER	237		stepfather	stepfather 
+123	13-2-72-1	72212319991663299	English	stan1293	the stepmother	STEPMOTHER	236		stepmother	stepmother 
+124	13-2-73-1	72212319330900419	English	stan1293	the stepson	STEPSON	1059		stepson	stepson 
+125	13-2-74-1	72212319202974231	English	stan1293	the stepdaughter	STEPDAUGHTER	1058		stepdaughter	stepdaughter 
+126	13-2-75-1	72212319938849298	English	stan1293	the orphan	ORPHAN	1149		orphan	orphan 
+127	13-2-76-1	72212319348180142	English	stan1293	the widow	WIDOW	1756		widow	widow 
+128	13-2-77-1	72212319600408594	English	stan1293	the widower	WIDOWER	1981		widower	widower 
+129	13-2-81-1	72212319925732908	English	stan1293	the relatives	RELATIVES	1644		relative	relative 
+130	13-2-82-1	72212319369697624	English	stan1293	the family	FAMILY	194		family	family 
+131	13-2-91-1	7221231962538630	English	stan1293	I	I	1209		I	I 
+132	13-2-92-1	72212319135402494	English	stan1293	you (singular)	THOU	1215		you	you 
+133	13-2-94-1	72212319522796458	English	stan1293	we	WE	1212		we	we 
+134	13-2-95-1	72212319703264362	English	stan1293	you (plural)	YOU	1213		you	you 
+135	13-2-96-1	72212319634518478	English	stan1293	they	THEY	817		they	they 
+136	13-3-11-1	72212320902361118	English	stan1293	the animal	ANIMAL	619		animal	animal 
+137	13-3-12-1	7221232042083519	English	stan1293	male(2)	MALE (OF PERSON)	2261		male	male 
+138	13-3-13-1	7221232075070934	English	stan1293	female(2)	FEMALE (OF ANIMAL)	2262		female	female 
+139	13-3-15-1	72212320226257048	English	stan1293	the livestock	LIVESTOCK	631		livestock	livestock 
+140	13-3-16-1	72212320393135258	English	stan1293	the pasture	PASTURE	649		pasture	pasture 
+141	13-3-18-1	72212320352079308	English	stan1293	the herdsman	HERDSMAN	263		herdsman	herdsman 
+142	13-3-19-1	72212320617460512	English	stan1293	the stable or stall	STABLE	851		stable	stable 
+143	13-3-19-2	72212320696132494	English	stan1293	the stable or stall	STABLE	851		stall	stall 
+144	13-3-2-1	72212320977967401	English	stan1293	the cattle	CATTLE	1153		cattle	cattle 
+145	13-3-21-1	72212320260645495	English	stan1293	the bull	BULL	1008		bull	bull 
+146	13-3-22-1	72212320661714061	English	stan1293	the ox	OX	1169		ox	ox 
+147	13-3-23-1	72212320903996235	English	stan1293	the cow	COW	1007		cow	cow 
+148	13-3-24-1	72212320499529436	English	stan1293	the calf	CALF	1989		calf	calf 
+149	13-3-25-1	72212320844740338	English	stan1293	the sheep	SHEEP	1331		sheep	sheep 
+150	13-3-26-1	72212320609021867	English	stan1293	the ram	RAM	1344		ram	ram 
+151	13-3-28-1	72212320895487478	English	stan1293	the ewe	EWE	1345		ewe	ewe 
+152	13-3-29-1	72212320315502772	English	stan1293	the lamb	LAMB	820		lamb	lamb 
+153	13-3-32-1	72212320761354074	English	stan1293	the boar	BOAR	1348		boar	boar 
+154	13-3-34-1	72212320571363345	English	stan1293	the sow	SOW (FEMALE PIG)	1351		sow	sow 
+155	13-3-35-1	72212320603263907	English	stan1293	the pig	PIG	1337		pig	pig 
+156	13-3-36-1	72212320259550273	English	stan1293	the goat	GOAT	1502		goat	goat 
+157	13-3-37-1	7221232056304531	English	stan1293	the he-goat	HE-GOAT	264		billy-goat	billy-goat 
+158	13-3-38-1	72212320613686205	English	stan1293	the kid	KID	1972		kid	kid 
+159	13-3-41-1	72212320861893132	English	stan1293	the horse	HORSE	615		horse	horse 
+160	13-3-42-1	72212320261801922	English	stan1293	the stallion	STALLION	936		stallion	stallion 
+161	13-3-44-1	72212320706372364	English	stan1293	the mare	MARE	938		mare	mare 
+162	13-3-45-1	72212320664394276	English	stan1293	the foal or colt	FOAL	1647		foal	foal 
+163	13-3-45-2	72212320761171105	English	stan1293	the foal or colt	FOAL	1647		colt	colt 
+164	13-3-46-1	72212320561723449	English	stan1293	the donkey	DONKEY	1862		donkey	donkey 
+165	13-3-47-1	72212320904105093	English	stan1293	the mule	MULE	890		mule	mule 
+166	13-3-5-1	72212320196121594	English	stan1293	the fowl	FOWL	265		poultry	poultry 
+167	13-3-52-1	72212320374589801	English	stan1293	the cock/rooster	ROOSTER	1511		cock	cock 
+168	13-3-52-2	7221232019136262	English	stan1293	the cock/rooster	ROOSTER	1511		rooster	rooster 
+169	13-3-54-1	7221232086658452	English	stan1293	the hen	HEN	1514		hen	hen 
+170	13-3-55-1	72212320660648535	English	stan1293	the chicken	CHICKEN	1318		chicken	chicken 
+171	13-3-56-1	72212320873731723	English	stan1293	the goose	GOOSE	1187		goose	goose 
+172	13-3-57-1	72212320975637698	English	stan1293	the duck	DUCK	1360		duck	duck 
+173	13-3-58-1	72212320853827369	English	stan1293	the nest	NEST	539		nest	nest 
+174	13-3-581-1	72212320926123249	English	stan1293	the bird	BIRD	937		bird	bird 
+175	13-3-582-1	72212320375392218	English	stan1293	the seagull	SEAGULL	950		(sea)gull	(sea)gull 
+176	13-3-583-1	72212320751081438	English	stan1293	the heron	HERON	758		heron	heron 
+177	13-3-584-1	72212320381736178	English	stan1293	the eagle	EAGLE	1905		eagle	eagle 
+178	13-3-585-1	72212320162228614	English	stan1293	the hawk	HAWK	307		hawk	hawk 
+179	13-3-586-1	72212320723630967	English	stan1293	the vulture	VULTURE	1185		vulture	vulture 
+180	13-3-591-1	72212320339025197	English	stan1293	the bat	BAT	1793		bat	bat 
+181	13-3-592-1	72212320547910896	English	stan1293	the parrot	PARROT	882		parrot	parrot 
+182	13-3-593-1	72212320479495608	English	stan1293	the crow	CROW	913		crow	crow 
+183	13-3-594-1	72212320276923537	English	stan1293	the dove	DOVE	1853		dove	dove 
+184	13-3-596-1	72212320451710648	English	stan1293	the owl	OWL	735		owl	owl 
+185	13-3-61-1	72212320100672880	English	stan1293	the dog	DOG	2009		dog	dog 
+186	13-3-614-1	72212320581877434	English	stan1293	the rabbit	RABBIT	1136		rabbit	rabbit 
+187	13-3-62-1	72212320654036166	English	stan1293	the cat	CAT	1208		cat	cat 
+188	13-3-622-1	72212320159658229	English	stan1293	the opossum	OPOSSUM	309		opossum	opossum 
+189	13-3-63-1	72212320379435783	English	stan1293	the mouse or rat	MUROID (MOUSE OR RAT)	2139		mouse	mouse 
+190	13-3-63-2	72212320222335868	English	stan1293	the mouse or rat	MUROID (MOUSE OR RAT)	2139		rat	rat 
+191	13-3-65-1	72212320330500927	English	stan1293	the fish	FISH	227		fish	fish 
+192	13-3-652-1	72212320540598985	English	stan1293	the fin	FIN	213		fin	fin 
+193	13-3-653-1	72212320581810735	English	stan1293	the scale	SCALE	266		scale	scale 
+194	13-3-654-1	72212320364403059	English	stan1293	the gill	GILL	1916		gill	gill 
+195	13-3-655-1	72212320256979143	English	stan1293	the shell	SHELL	598		shell	shell 
+196	13-3-661-1	72212320561256466	English	stan1293	the shark	SHARK	1110		shark	shark 
+197	13-3-663-1	7221232052259802	English	stan1293	the whale	WHALE	957		whale	whale 
+198	13-3-664-1	72212320580872034	English	stan1293	the stingray	STINGRAY	1910		(sting)ray	(sting)ray 
+199	13-3-665-1	72212320886087598	English	stan1293	the freshwater eel	FRESHWATER EEL	1013		eel	eel 
+200	13-3-71-1	72212320282647631	English	stan1293	the wolf	WOLF	522		wolf	wolf 
+201	13-3-72-1	72212320503006886	English	stan1293	the lion	LION	1386		lion	lion 
+202	13-3-73-1	72212320383472074	English	stan1293	the bear	BEAR	1820		bear	bear 
+203	13-3-74-1	72212320541278619	English	stan1293	the fox	FOX	1312		fox	fox 
+204	13-3-75-1	72212320626815185	English	stan1293	the deer	DEER	1936		deer	deer 
+205	13-3-76-1	72212320702045060	English	stan1293	the monkey	MONKEY	1350		monkey	monkey 
+206	13-3-77-1	72212320909609594	English	stan1293	the elephant	ELEPHANT	1290		elephant	elephant 
+207	13-3-78-1	72212320102662704	English	stan1293	the camel	CAMEL	1871		camel	camel 
+208	13-3-81-1	72212320496297681	English	stan1293	the insect	INSECT	620		insect	insect 
+209	13-3-811-1	72212320205319565	English	stan1293	the head louse	HEAD LOUSE	310		louse	louse 
+210	13-3-812-1	72212320613292366	English	stan1293	the nit	NIT	267		nit	nit 
+211	13-3-813-1	72212320224826481	English	stan1293	the flea	FLEA	232		flea	flea 
+212	13-3-814-1	72212320597091672	English	stan1293	the centipede	CENTIPEDE	1974		centipede	centipede 
+213	13-3-815-1	72212320287208421	English	stan1293	the scorpion	SCORPION	1538		scorpion	scorpion 
+214	13-3-816-1	72212320639241014	English	stan1293	the cockroach	COCKROACH	1575		cockroach	cockroach 
+215	13-3-817-1	72212320884485395	English	stan1293	the ant	ANT	587		ant	ant 
+216	13-3-818-1	72212320987381296	English	stan1293	the spider	SPIDER	843		spider	spider 
+217	13-3-819-1	72212320688908056	English	stan1293	the spider web	SPIDER WEB	1065		web	web 
+218	13-3-82-1	72212320483922988	English	stan1293	the bee	BEE	665		bee	bee 
+219	13-3-821-1	72212320191968193	English	stan1293	the beeswax	BEESWAX	1931		wax	wax 
+220	13-3-822-1	72212320669826156	English	stan1293	the beehive	BEEHIVE	88		hive	hive 
+221	13-3-823-1	72212320612487552	English	stan1293	the wasp	WASP	1517		wasp	wasp 
+222	13-3-83-1	72212320381765360	English	stan1293	the fly	FLY (INSECT)	1504		fly	fly 
+223	13-3-831-1	72212320130798493	English	stan1293	the sandfly or midge or gnat	SANDFLY	95		midge	midge 
+224	13-3-831-2	7221232099637607	English	stan1293	the sandfly or midge or gnat	SANDFLY	95		gnat	gnat 
+225	13-3-832-1	72212320952818562	English	stan1293	the mosquito	MOSQUITO	1509		mosquito	mosquito 
+226	13-3-84-1	72212320117870168	English	stan1293	the worm	WORM	1219		worm	worm 
+227	13-3-85-1	72212320693997171	English	stan1293	the snake	SNAKE	730		snake	snake 
+228	13-3-91-1	72212320180049073	English	stan1293	the firefly	FIREFLY	206		firefly	firefly 
+229	13-3-92-1	72212320988706943	English	stan1293	the butterfly	BUTTERFLY	1791		butterfly	butterfly 
+230	13-3-93-1	72212320952750634	English	stan1293	the grasshopper	GRASSHOPPER	607		grasshopper	grasshopper 
+231	13-3-94-1	72212320237196105	English	stan1293	the snail	SNAIL	1543		snail	snail 
+232	13-3-95-1	72212320281145804	English	stan1293	the frog	FROG	503		frog	frog 
+233	13-3-96-1	72212320338523643	English	stan1293	the lizard	LIZARD	632		lizard	lizard 
+234	13-3-97-1	72212320430006050	English	stan1293	the crocodile or alligator	CROCODILE	1857		crocodile	crocodile 
+235	13-3-97-2	72212320727604865	English	stan1293	the crocodile or alligator	CROCODILE	1857		alligator	alligator 
+236	13-3-98-1	72212320129382627	English	stan1293	the turtle	TURTLE	112		turtle	turtle 
+237	13-4-11-1	72212320910919976	English	stan1293	the body	BODY	1480		body	body 
+238	13-4-12-1	72212320806950754	English	stan1293	the skin or hide	SKIN	763		skin	skin 
+239	13-4-12-2	72212320454084806	English	stan1293	the skin or hide	SKIN	763		hide	hide 
+240	13-4-13-1	7221232063045993	English	stan1293	the flesh	FLESH	2259		flesh	flesh 
+241	13-4-14-1	72212320547572993	English	stan1293	the hair	HAIR (HEAD)	2648		hair	hair 
+242	13-4-142-1	72212320336236837	English	stan1293	the beard	BEARD	678		beard	beard 
+243	13-4-145-1	72212320851824704	English	stan1293	the pubic hair	PUBIC HAIR	36		pubic hair	pubic hair 
+244	13-4-146-1	72212320293953883	English	stan1293	the dandruff	DANDRUFF	576		dandruff	dandruff 
+245	13-4-15-1	72212320501244464	English	stan1293	the blood	BLOOD	946		blood	blood 
+246	13-4-151-1	72212320405008649	English	stan1293	the vein or artery	BLOOD VESSEL	525		vein	vein 
+247	13-4-151-2	72212320830679751	English	stan1293	the vein or artery	BLOOD VESSEL	525		artery	artery 
+248	13-4-16-1	72212320976614183	English	stan1293	the bone	BONE	1394		bone	bone 
+249	13-4-162-1	72212320100818270	English	stan1293	the rib	RIB	801		rib	rib 
+250	13-4-17-1	72212320574739264	English	stan1293	the horn	HORN (ANATOMY)	1393		horn	horn 
+251	13-4-18-1	72212320740770869	English	stan1293	the tail	TAIL	1220		tail	tail 
+252	13-4-19-1	72212320277759327	English	stan1293	the back	BACK	1291		back	back 
+253	13-4-191-1	72212320637417095	English	stan1293	the spine	SPINE	805		spine	spine 
+254	13-4-2-1	72212320937696365	English	stan1293	the head	HEAD	1256		head	head 
+255	13-4-201-1	72212320743643323	English	stan1293	the temples	TEMPLES	1604		temple(s)	temple(s) 
+256	13-4-202-1	7221232062652711	English	stan1293	the skull	SKULL	1605		skull	skull 
+257	13-4-203-1	72212320845424414	English	stan1293	the brain	BRAIN	1583		brain	brain 
+258	13-4-204-1	72212320871904524	English	stan1293	the face	FACE	1560		face	face 
+259	13-4-205-1	7221232056812711	English	stan1293	the forehead	FOREHEAD	123		forehead	forehead 
+260	13-4-207-1	72212320858629435	English	stan1293	the jaw	JAW	798		jaw	jaw 
+261	13-4-208-1	72212320583310759	English	stan1293	the cheek	CHEEK	1730		cheek	cheek 
+262	13-4-209-1	72212320673815262	English	stan1293	the chin	CHIN	1510		chin	chin 
+263	13-4-21-1	72212320880699010	English	stan1293	the eye	EYE	1248		eye	eye 
+264	13-4-212-1	72212320489840554	English	stan1293	the eyebrow	EYEBROW	1173		eyebrow	eyebrow 
+265	13-4-213-1	72212320942187111	English	stan1293	the eyelid	EYELID	17		eyelid	eyelid 
+266	13-4-214-1	72212320132537402	English	stan1293	the eyelash	EYELASH	1540		eyelash	eyelash 
+267	13-4-215-1	72212320545959765	English	stan1293	to blink	BLINK	1655		blink	blink 
+268	13-4-22-1	72212320828122832	English	stan1293	the ear	EAR	1247		ear	ear 
+269	13-4-221-1	72212320295671825	English	stan1293	the earlobe	EARLOBE	18		earlobe	earlobe 
+270	13-4-222-1	72212320911464600	English	stan1293	the earwax	EARWAX	32		earwax	earwax 
+271	13-4-23-1	72212320872894960	English	stan1293	the nose	NOSE	1221		nose	nose 
+272	13-4-231-1	72212320483071578	English	stan1293	the nostril	NOSTRIL	1178		nostril	nostril 
+273	13-4-232-1	72212320352051106	English	stan1293	the nasal mucus	NASAL MUCUS (SNOT)	208		snot	snot 
+274	13-4-24-1	72212320283841287	English	stan1293	the mouth	MOUTH	674		mouth	mouth 
+275	13-4-241-1	7221232026561478	English	stan1293	the beak	BEAK	73		beak	beak 
+276	13-4-25-1	72212320892526669	English	stan1293	the lip	LIP	478		lip	lip 
+277	13-4-26-1	72212320137846527	English	stan1293	the tongue	TONGUE	1205		tongue	tongue 
+278	13-4-27-1	72212320421045100	English	stan1293	the tooth	TOOTH	1380		tooth	tooth 
+279	13-4-271-1	72212320967243136	English	stan1293	the gums	GUMS	139		gums	gums 
+280	13-4-272-1	72212320549091878	English	stan1293	the molar tooth	MOLAR TOOTH	1049		molar (tooth)	molar (tooth) 
+281	13-4-28-1	72212320117565027	English	stan1293	the neck	NECK	1333		neck	neck 
+282	13-4-281-1	72212320143146181	English	stan1293	the nape of the neck	NAPE (OF NECK)	1347		nape	nape 
+283	13-4-29-1	72212320804553004	English	stan1293	the throat	THROAT	1346		throat	throat 
+284	13-4-3-1	72212320540728510	English	stan1293	the shoulder	SHOULDER	1482		shoulder	shoulder 
+285	13-4-301-1	72212320989219313	English	stan1293	the shoulderblade	SHOULDERBLADE	172		shoulderblade	shoulderblade 
+286	13-4-302-1	72212320162123449	English	stan1293	the collarbone	COLLARBONE	1994		collarbone	collarbone 
+287	13-4-31-1	7221232026021475	English	stan1293	the arm	ARM	1673		arm	arm 
+288	13-4-312-1	72212320628595670	English	stan1293	the armpit	ARMPIT	1886		armpit	armpit 
+289	13-4-32-1	72212320250249887	English	stan1293	the elbow	ELBOW	981		elbow	elbow 
+290	13-4-321-1	72212320711112731	English	stan1293	the wrist	WRIST	799		wrist	wrist 
+291	13-4-33-1	7221232051483595	English	stan1293	the hand	HAND	1277		hand	hand 
+292	13-4-331-1	72212320297679957	English	stan1293	the palm of the hand	PALM OF HAND	1183		palm	palm 
+293	13-4-34-1	72212320640688236	English	stan1293	the finger	FINGER	1303		finger	finger 
+294	13-4-342-1	72212320715756459	English	stan1293	the thumb	THUMB	1781		thumb	thumb 
+295	13-4-344-1	72212320195752637	English	stan1293	the fingernail	FINGERNAIL	1258		(finger)nail	(finger)nail 
+296	13-4-345-1	72212320175009	English	stan1293	the claw	CLAW	72		claw	claw 
+297	13-4-35-1	72212320546329458	English	stan1293	the leg	LEG	1297		leg	leg 
+298	13-4-351-1	7221232027433393	English	stan1293	the thigh	THIGH	800		thigh	thigh 
+299	13-4-352-1	72212320243732061	English	stan1293	the calf of the leg	CALF OF LEG	498		calf	calf 
+300	13-4-36-1	72212320570885013	English	stan1293	the knee	KNEE	1371		knee	knee 
+301	13-4-37-1	72212320563865898	English	stan1293	the foot	FOOT	1301		foot	foot 
+302	13-4-371-1	72212320880501819	English	stan1293	the ankle	ANKLE	803		ankle	ankle 
+303	13-4-372-1	72212320261069233	English	stan1293	the heel	HEEL	980		heel	heel 
+304	13-4-374-1	72212320667176490	English	stan1293	the footprint	FOOTPRINT	318		footprint	footprint 
+305	13-4-38-1	72212320145351300	English	stan1293	the toe	TOE	1389		toe	toe 
+306	13-4-392-1	72212320993687290	English	stan1293	the wing	WING	1257		wing	wing 
+307	13-4-393-1	72212320696791713	English	stan1293	the feather	FEATHER	1201		feather	feather 
+308	13-4-4-1	72212320114628580	English	stan1293	the chest	CHEST	1592		chest	chest 
+309	13-4-41-1	7221232010665438	English	stan1293	the breast	BREAST	1402		breast	breast 
+310	13-4-412-1	72212320711002668	English	stan1293	the nipple or teat	NIPPLE	796		nipple	nipple 
+311	13-4-412-2	72212320165717761	English	stan1293	the nipple or teat	NIPPLE	796		teat	teat 
+312	13-4-42-1	72212320733272968	English	stan1293	the udder	UDDER	154		udder	udder 
+313	13-4-43-1	72212320204613730	English	stan1293	the navel	NAVEL	1838		navel	navel 
+314	13-4-44-1	72212320835791839	English	stan1293	the heart	HEART	1223		heart	heart 
+315	13-4-441-1	72212320120323515	English	stan1293	the lung	LUNG	688		lung	lung 
+316	13-4-45-1	72212320880676497	English	stan1293	the liver	LIVER	1224		liver	liver 
+317	13-4-451-1	72212320599080102	English	stan1293	the kidney	KIDNEY	489		kidney	kidney 
+318	13-4-452-1	72212320824594434	English	stan1293	the spleen	SPLEEN	1744		spleen	spleen 
+319	13-4-46-1	72212320117256739	English	stan1293	the stomach	STOMACH	819		stomach	stomach 
+320	13-4-461-1	72212320332640773	English	stan1293	the intestines or guts	INTESTINES	1991		guts	guts 
+321	13-4-461-2	72212320279338563	English	stan1293	the intestines or guts	INTESTINES	1991		intestines	intestines 
+322	13-4-462-1	72212320919075632	English	stan1293	the waist	WAIST	1681		waist	waist 
+323	13-4-463-1	72212320251152895	English	stan1293	the hip	HIP	1745		hip	hip 
+324	13-4-464-1	72212320591806084	English	stan1293	the buttocks	BUTTOCKS	834		buttocks	buttocks 
+325	13-4-464-2	72212320795897136	English	stan1293	the buttocks	BUTTOCKS	834		arse	arse 
+326	13-4-47-1	72212320633338359	English	stan1293	the womb	WOMB	804		womb	womb 
+327	13-4-49-1	72212320451801015	English	stan1293	the testicles	TESTICLES	797		testicles	testicles 
+328	13-4-492-1	7221232037461429	English	stan1293	the penis	PENIS	1222		penis	penis 
+329	13-4-51-1	72212320404047368	English	stan1293	to breathe	BREATHE	1407		breathe	breathe 
+330	13-4-52-1	72212320568208859	English	stan1293	to yawn	YAWN	1028		yawn	yawn 
+331	13-4-521-1	72212320511987925	English	stan1293	to hiccough	HICCOUGH	162		hiccough	hiccough 
+332	13-4-53-1	72212320835433309	English	stan1293	to cough	COUGH	879		cough	cough 
+333	13-4-54-1	72212320197471592	English	stan1293	to sneeze	SNEEZE	1621		sneeze	sneeze 
+334	13-4-55-1	72212320124984371	English	stan1293	to perspire	SWEAT (PERSPIRE)	126		sweat	sweat 
+335	13-4-56-1	72212320596910673	English	stan1293	to spit	SPIT	1440		spit	spit 
+336	13-4-57-1	72212320976680621	English	stan1293	to vomit	VOMIT	1278		vomit	vomit 
+337	13-4-57-2	7221232090038171	English	stan1293	to vomit	VOMIT	1278		puke	puke 
+338	13-4-58-1	7221232057205566	English	stan1293	to bite	BITE	1403		bite	bite 
+339	13-4-59-1	72212320302942390	English	stan1293	to lick	LICK	319		lick	lick 
+340	13-4-591-1	72212320334926841	English	stan1293	to dribble	DRIBBLE	268		dribble	dribble 
+341	13-4-61-1	72212320141477165	English	stan1293	to sleep	SLEEP	1585		sleep	sleep 
+342	13-4-612-1	72212320863647819	English	stan1293	to snore	SNORE	1983		snore	snore 
+343	13-4-62-1	7221232030669885	English	stan1293	to dream	DREAM (SOMETHING)	1920		dream	dream 
+344	13-4-63-1	72212320318426640	English	stan1293	to wake up	WAKE UP	1602		wake (up)	wake (up) 
+345	13-4-64-1	72212320311617310	English	stan1293	to fart	FART	1159		fart	fart 
+346	13-4-65-1	72212320226874373	English	stan1293	to piss	PISS	592		piss	piss 
+347	13-4-65-2	72212320104819709	English	stan1293	to piss	PISS	592		urinate	urinate 
+348	13-4-66-1	72212320801147192	English	stan1293	to shit	SHIT (DEFECATE)	676		shit	shit 
+349	13-4-66-2	72212320307842317	English	stan1293	to shit	SHIT (DEFECATE)	676		defecate	defecate 
+350	13-4-67-1	72212320739732502	English	stan1293	to have sex	HAVE SEX	1785		fuck	fuck 
+351	13-4-67-2	72212320478291893	English	stan1293	to have sex	HAVE SEX	1785		make love	make love 
+352	13-4-67-3	72212320473342031	English	stan1293	to have sex	HAVE SEX	1785		copulate	copulate 
+353	13-4-68-1	72212320589708176	English	stan1293	to shiver	SHIVER	52		shiver	shiver 
+354	13-4-69-1	72212320448116492	English	stan1293	to bathe	BATHE	138		bathe	bathe 
+355	13-4-71-1	72212320406983097	English	stan1293	to beget	BEGET	1152		beget	beget 
+356	13-4-72-1	72212320394226697	English	stan1293	to be born	BE BORN	1090		be born	be born 
+357	13-4-73-1	72212320462618056	English	stan1293	pregnant	PREGNANT	1123		pregnant	pregnant 
+358	13-4-732-1	72212320699463139	English	stan1293	to conceive	CONCEIVE	1087		conceive	conceive 
+359	13-4-74-1	72212320113847535	English	stan1293	to be alive	BE ALIVE	1422		alive	alive 
+360	13-4-75-1	72212320192244761	English	stan1293	to die	DIE	1494		die	die 
+361	13-4-751-1	72212320876568381	English	stan1293	to drown	DROWN	1904		drown	drown 
+362	13-4-76-1	72212320568597351	English	stan1293	to kill	KILL	1417		kill	kill 
+363	13-4-77-1	72212320355831162	English	stan1293	the corpse	CORPSE	767		corpse	corpse 
+364	13-4-78-1	72212320980556651	English	stan1293	to bury	BURY	1719		bury	bury 
+365	13-4-79-1	72212320173844644	English	stan1293	the grave	GRAVE	1773		grave	grave 
+366	13-4-81-1	72212320281343684	English	stan1293	strong	STRONG	785		strong	strong 
+367	13-4-82-1	72212320515247978	English	stan1293	weak	WEAK	1601		weak	weak 
+368	13-4-83-1	72212320225574434	English	stan1293	healthy	HEALTHY	1364		healthy	healthy 
+369	13-4-84-1	72212320442268961	English	stan1293	sick/ill	SICK	1847		sick	sick 
+370	13-4-84-2	72212320204692258	English	stan1293	sick/ill	SICK	1847		ill	ill 
+371	13-4-841-1	72212320540430255	English	stan1293	the fever	FEVER	1534		fever	fever 
+372	13-4-842-1	72212320143345044	English	stan1293	the goitre/goiter	GOITER	1957		goitre	goitre 
+373	13-4-843-1	72212320608796415	English	stan1293	the cold	COMMON COLD (DISEASE)	102		cold	cold 
+374	13-4-85-1	72212320568928033	English	stan1293	the wound or sore	WOUND	1109		wound	wound 
+375	13-4-85-2	72212320672776754	English	stan1293	the wound or sore	WOUND	1109		sore	sore 
+376	13-4-852-1	72212320800833572	English	stan1293	the bruise	BRUISE	1148		bruise	bruise 
+377	13-4-853-1	72212320723226828	English	stan1293	the swelling	SWELLING	1903		swelling	swelling 
+378	13-4-854-1	72212320828124739	English	stan1293	the itch	ITCH	148		itch	itch 
+379	13-4-855-1	72212320894608023	English	stan1293	the blister	BLISTER	1584		blister	blister 
+380	13-4-856-1	72212320457602290	English	stan1293	the boil	BOIL (OF SKIN)	793		boil	boil 
+381	13-4-857-1	7221232071653093	English	stan1293	the pus	PUS	1808		pus	pus 
+382	13-4-858-1	72212320139171155	English	stan1293	the scar	SCAR	497		scar	scar 
+383	13-4-86-1	72212320408412344	English	stan1293	to cure	CURE	499		cure	cure 
+384	13-4-86-2	72212320265223944	English	stan1293	to cure	CURE	499		heal	heal 
+385	13-4-87-1	72212320342813574	English	stan1293	the physician	PHYSICIAN	597		doctor	doctor 
+386	13-4-88-1	72212320616793842	English	stan1293	the medicine	MEDICINE	1372		medicine	medicine 
+387	13-4-89-1	72212320890912835	English	stan1293	the poison	POISON	655		poison	poison 
+388	13-4-91-1	72212320614167492	English	stan1293	tired	TIRED	1757		tired	tired 
+389	13-4-912-1	7221232056966288	English	stan1293	to rest	REST	168		rest	rest 
+390	13-4-92-1	7221232012649927	English	stan1293	lazy	LAZY	1564		lazy	lazy 
+391	13-4-93-1	72212320143053889	English	stan1293	bald	BALD	1125		bald	bald 
+392	13-4-94-1	72212320416172133	English	stan1293	lame	LAME	320		lame	lame 
+393	13-4-95-1	72212320894624894	English	stan1293	deaf	DEAF	996		deaf	deaf 
+394	13-4-96-1	7221232029177162	English	stan1293	mute	MUTE	1666		mute	mute 
+395	13-4-97-1	72212320691104180	English	stan1293	blind	BLIND	1653		blind	blind 
+396	13-4-98-1	72212320977896759	English	stan1293	drunk	DRUNK	1463		drunk	drunk 
+397	13-4-99-1	72212320497860988	English	stan1293	naked	NAKED	590		naked	naked 
+398	13-5-11-1	7221232087434377	English	stan1293	to eat	EAT	1336		eat	eat 
+399	13-5-12-1	72212320901666614	English	stan1293	the food	FOOD	256		food	food 
+400	13-5-121-1	72212320660408828	English	stan1293	cooked	COOKED	269		cooked	cooked 
+401	13-5-122-1	72212320364796581	English	stan1293	raw	RAW	1959		raw	raw 
+402	13-5-123-1	72212320145467700	English	stan1293	ripe	RIPE	178		ripe	ripe 
+403	13-5-124-1	72212320155342091	English	stan1293	unripe	UNRIPE	1958		unripe	unripe 
+404	13-5-125-1	72212320330682797	English	stan1293	rotten	ROTTEN	1728		rotten	rotten 
+405	13-5-13-1	72212320690340170	English	stan1293	to drink	DRINK	1401		drink	drink 
+406	13-5-14-1	72212320598374831	English	stan1293	to be hungry	BE HUNGRY	1533		hungry	hungry 
+407	13-5-141-1	7221232020360927	English	stan1293	the famine	FAMINE	199		famine	famine 
+408	13-5-15-1	72212320648394056	English	stan1293	to be thirsty	THIRSTY	847		thirsty	thirsty 
+409	13-5-16-1	72212320698841050	English	stan1293	to suck	SUCK	1421		suck	suck 
+410	13-5-18-1	72212320168585652	English	stan1293	to chew	CHEW	321		chew	chew 
+411	13-5-181-1	7221232093664309	English	stan1293	to swallow	SWALLOW	897		swallow	swallow 
+412	13-5-19-1	72212320632834692	English	stan1293	to choke	CHOKE	129		choke	choke 
+413	13-5-21-1	7221232089213986	English	stan1293	to cook	COOK (SOMETHING)	1100		cook	cook 
+414	13-5-22-1	72212320581690628	English	stan1293	to boil	BOIL (OF LIQUID)	792		boil	boil 
+415	13-5-23-1	72212320421474280	English	stan1293	to roast or fry	ROAST OR FRY	2146		roast	roast 
+416	13-5-23-2	7221232064651704	English	stan1293	to roast or fry	ROAST OR FRY	2146		fry	fry 
+417	13-5-24-1	72212320983147120	English	stan1293	to bake	BAKE	183		bake	bake 
+418	13-5-25-1	72212320467981257	English	stan1293	the oven	OVEN	1143		oven	oven 
+419	13-5-26-1	72212320581705553	English	stan1293	the pot	POT	1462		pot	pot 
+420	13-5-27-1	72212320133819919	English	stan1293	the kettle	KETTLE	854		kettle	kettle 
+421	13-5-28-1	72212320588163896	English	stan1293	the pan	PAN	31		pan	pan 
+422	13-5-31-1	72212320173175312	English	stan1293	the dish	DISH	481		dish	dish 
+423	13-5-32-1	72212320220421447	English	stan1293	the plate	PLATE	480		plate	plate 
+424	13-5-33-1	72212320329587869	English	stan1293	the bowl	BOWL	1530		bowl	bowl 
+425	13-5-34-1	72212320716847700	English	stan1293	the jug/pitcher	JUG	270		jug	jug 
+426	13-5-35-1	72212320273453631	English	stan1293	the cup	CUP	476		cup	cup 
+427	13-5-36-1	72212320537557670	English	stan1293	the saucer	SAUCER	271		saucer	saucer 
+428	13-5-37-1	72212320620881621	English	stan1293	the spoon	SPOON	1378		spoon	spoon 
+429	13-5-38-1	72212320480131307	English	stan1293	the knife(1)	KNIFE (FOR EATING)	3210		knife	knife 
+430	13-5-39-1	72212320564500787	English	stan1293	the fork	FORK	1302		fork	fork 
+431	13-5-391-1	72212320632620717	English	stan1293	the tongs	TONGS	272		tongs	tongs 
+432	13-5-41-1	72212320554207792	English	stan1293	the meal	MEAL	1526		meal	meal 
+433	13-5-42-1	72212320800888908	English	stan1293	the breakfast	BREAKFAST	1322		breakfast	breakfast 
+434	13-5-43-1	722123208929270	English	stan1293	the lunch	LUNCH	768		lunch	lunch 
+435	13-5-44-1	72212320906389997	English	stan1293	the dinner	DINNER (SUPPER)	1833		dinner	dinner 
+436	13-5-45-1	72212320593673116	English	stan1293	the supper	DINNER (SUPPER)	1833		supper	supper 
+437	13-5-46-1	72212320496113695	English	stan1293	to peel	PEEL	275		peel	peel 
+438	13-5-47-1	72212320691091252	English	stan1293	to sieve or to strain	SIEVE	86		sieve	sieve 
+439	13-5-47-2	7221232092099460	English	stan1293	to sieve or to strain	SIEVE	86		strain	strain 
+440	13-5-48-1	72212320382207931	English	stan1293	to scrape	SCRAPE	1767		scrape	scrape 
+441	13-5-49-1	72212320855364995	English	stan1293	to stir or to mix	MIX	2017		stir	stir 
+442	13-5-49-2	72212320384981406	English	stan1293	to stir or to mix	MIX	2017		mix	mix 
+443	13-5-51-1	72212320261083888	English	stan1293	the bread	BREAD	1368		bread	bread 
+444	13-5-53-1	72212320276271737	English	stan1293	the dough	DOUGH	273		dough	dough 
+445	13-5-54-1	72212320137782559	English	stan1293	to knead	KNEAD	274		knead	knead 
+446	13-5-55-1	72212320339395301	English	stan1293	the flour	FLOUR	1594		flour	flour 
+447	13-5-56-1	7221232080096965	English	stan1293	to crush or to grind	GRIND	1033		grind	grind 
+448	13-5-56-2	72212320486949564	English	stan1293	to crush or to grind	GRIND	1033		crush	crush 
+449	13-5-57-1	72212320228494677	English	stan1293	the mill	MILL	636		mill	mill 
+450	13-5-58-1	72212320263451841	English	stan1293	the mortar(1)	MORTAR CRUSHER	224		mortar	mortar 
+451	13-5-59-1	7221232075466430	English	stan1293	the pestle	PESTLE	225		pestle	pestle 
+452	13-5-61-1	72212320279111961	English	stan1293	the meat	MEAT	634		meat	meat 
+453	13-5-63-1	72212320906349884	English	stan1293	the sausage	SAUSAGE	1874		sausage	sausage 
+454	13-5-64-1	72212320842126144	English	stan1293	the soup	SOUP	1547		soup	soup 
+455	13-5-65-1	72212320132154771	English	stan1293	the vegetables	VEGETABLES	924		vegetables	vegetables 
+456	13-5-66-1	72212320428591777	English	stan1293	the bean	BEAN	832		bean	bean 
+457	13-5-7-1	72212320532946328	English	stan1293	the potato	POTATO	593		potato	potato 
+458	13-5-71-1	72212320955953099	English	stan1293	the fruit	FRUIT	1507		fruit	fruit 
+459	13-5-712-1	72212320778396108	English	stan1293	the bunch	BUNCH	1966		bunch	bunch 
+460	13-5-75-1	72212320595037018	English	stan1293	the fig	FIG	322		fig	fig 
+461	13-5-76-1	72212320853143881	English	stan1293	the grape	GRAPE	920		grape	grape 
+462	13-5-77-1	72212320393691268	English	stan1293	the nut	NUT	191		nut	nut 
+463	13-5-78-1	72212320315480062	English	stan1293	the olive	OLIVE	1154		olive	olive 
+464	13-5-79-1	72212320937274716	English	stan1293	the oil	OIL (ORGANIC SUBSTANCE)	1484		oil	oil 
+465	13-5-791-1	72212320450718921	English	stan1293	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		fat	fat 
+466	13-5-791-2	72212320107274099	English	stan1293	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		grease	grease 
+467	13-5-81-1	72212320456906558	English	stan1293	the salt	SALT	1274		salt	salt 
+468	13-5-82-1	72212320709111147	English	stan1293	the pepper	PEPPER	1385		pepper	pepper 
+469	13-5-821-1	72212320860101505	English	stan1293	the chili pepper	CHILI PEPPER	919		chili (pepper)	chili (pepper) 
+470	13-5-84-1	72212320336987030	English	stan1293	the honey	HONEY	942		honey	honey 
+471	13-5-85-1	72212320230937895	English	stan1293	the sugar	SUGAR	862		sugar	sugar 
+472	13-5-86-1	72212320114786604	English	stan1293	the milk	MILK	635		milk	milk 
+473	13-5-87-1	72212320907718399	English	stan1293	to milk	DRAW MILK	93		milk	milk 
+474	13-5-88-1	72212320936771167	English	stan1293	the cheese	CHEESE	1569		cheese	cheese 
+475	13-5-89-1	72212320131521476	English	stan1293	the butter	BUTTER	1245		butter	butter 
+476	13-5-9-1	72212320690340170	English	stan1293	the drink	BEVERAGE	731		drink	drink 
+477	13-5-91-1	72212320839261475	English	stan1293	the mead	MEAD	941		mead	mead 
+478	13-5-92-1	72212320156311825	English	stan1293	the wine	WINE	1524		wine	wine 
+479	13-5-93-1	72212320611238012	English	stan1293	the beer	BEER	1639		beer	beer 
+480	13-5-94-1	72212320756683594	English	stan1293	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		alcohol	alcohol 
+481	13-5-97-1	72212320105299247	English	stan1293	the egg	EGG	744		egg	egg 
+482	13-5-971-1	72212320835415376	English	stan1293	the yolk	YOLK	1556		yolk	yolk 
+483	13-6-11-1	72212320624012274	English	stan1293	to put on	PUT ON	158		put on	put on 
+484	13-6-12-1	72212320200075499	English	stan1293	the clothing or clothes	CLOTHES	1895		clothes	clothes 
+485	13-6-13-1	72212320151340316	English	stan1293	the tailor	TAILOR	881		tailor	tailor 
+486	13-6-21-1	72212320826740529	English	stan1293	the cloth	CLOTH	1616		cloth	cloth 
+487	13-6-22-1	72212320342878874	English	stan1293	the wool	WOOL	964		wool	wool 
+488	13-6-23-1	72212320570867311	English	stan1293	the linen	LINEN	916		linen	linen 
+489	13-6-24-1	7221232059194822	English	stan1293	the cotton	COTTON	1850		cotton	cotton 
+490	13-6-25-1	72212320933268686	English	stan1293	the silk	SILK	1641		silk	silk 
+491	13-6-27-1	72212320227804304	English	stan1293	the felt	FELT	325		felt	felt 
+492	13-6-28-1	7221232086901674	English	stan1293	the fur	FUR	580		fur	fur 
+493	13-6-29-1	72212320895783009	English	stan1293	the leather	LEATHER	629		leather	leather 
+494	13-6-31-1	72212320135401959	English	stan1293	to spin	SPIN	121		spin	spin 
+495	13-6-32-1	72212320166598912	English	stan1293	the spindle	SPINDLE	277		spindle	spindle 
+496	13-6-33-1	72212320676561488	English	stan1293	to weave	WEAVE	133		weave	weave 
+497	13-6-34-1	72212320543640301	English	stan1293	the loom	LOOM	1787		loom	loom 
+498	13-6-35-1	72212320267422284	English	stan1293	to sew	SEW	1457		sew	sew 
+499	13-6-36-1	72212320606392663	English	stan1293	the needle(1)	NEEDLE (FOR SEWING)	1382		needle	needle 
+500	13-6-37-1	72212320211244064	English	stan1293	the awl	AWL	278		awl	awl 
+501	13-6-38-1	72212320772523211	English	stan1293	the thread	THREAD	1161		thread	thread 
+502	13-6-39-1	72212320985811846	English	stan1293	to dye	DYE	157		dye	dye 
+503	13-6-41-1	72212320900788036	English	stan1293	the cloak	CLOAK	326		cloak	cloak 
+504	13-6-411-1	72212320189563490	English	stan1293	the poncho	PONCHO	327		poncho	poncho 
+505	13-7-37-1	72212320177148654	English	stan1293	the ladder	LADDER	1464		ladder	ladder 
+506	13-6-42-1	72212320208992411	English	stan1293	the (woman's) dress	DRESS	474		dress	dress 
+507	13-6-43-1	72212320218006006	English	stan1293	the coat	COAT	603		coat	coat 
+508	13-6-44-1	7221232070845410	English	stan1293	the shirt	SHIRT	1622		shirt	shirt 
+509	13-6-45-1	72212320684797090	English	stan1293	the collar	COLLAR	2012		collar	collar 
+510	13-6-46-1	72212320673453277	English	stan1293	the skirt	SKIRT	1600		skirt	skirt 
+511	13-6-461-1	72212320701425066	English	stan1293	the grass-skirt	GRASS-SKIRT	328		grass-skirt	grass-skirt 
+512	13-6-48-1	72212320840043792	English	stan1293	the trousers	TROUSERS	809		trousers	trousers 
+513	13-6-49-1	72212320271282673	English	stan1293	the sock or stocking	STOCKING	329		sock	sock 
+514	13-6-49-2	7221232059914114	English	stan1293	the sock or stocking	STOCKING	329		stocking	stocking 
+515	13-6-51-1	72212320251982840	English	stan1293	the shoe	SHOE	1381		shoe	shoe 
+516	13-6-52-1	72212320274312263	English	stan1293	the boot	BOOT	585		boot	boot 
+517	13-6-54-1	72212320210161382	English	stan1293	the shoemaker	SHOEMAKER	875		shoemaker	shoemaker 
+518	13-6-55-1	72212320764686676	English	stan1293	the hat or cap	HEADGEAR	2130		hat	hat 
+519	13-6-55-2	72212320444754346	English	stan1293	the hat or cap	HEADGEAR	2130		cap	cap 
+520	13-6-57-1	72212320599020101	English	stan1293	the belt	BELT	772		belt	belt 
+521	13-6-58-1	72212320193215749	English	stan1293	the glove	GLOVE	867		glove	glove 
+522	13-6-59-1	72212320168509828	English	stan1293	the veil	VEIL	1151		veil	veil 
+523	13-6-61-1	72212320419736684	English	stan1293	the pocket	POCKET	1851		pocket	pocket 
+524	13-6-62-1	7221232054858233	English	stan1293	the button	BUTTON	757		button	button 
+525	13-6-63-1	72212320898512615	English	stan1293	the pin	PIN	64		pin	pin 
+526	13-6-71-1	72212320436355730	English	stan1293	the ornament or adornment	ORNAMENT	917		ornament	ornament 
+527	13-6-72-1	72212320686125427	English	stan1293	the jewel	JEWEL	1029		jewel	jewel 
+528	13-6-73-1	72212320828106202	English	stan1293	the ring	RING	1374		ring	ring 
+529	13-6-74-1	72212320699997634	English	stan1293	the bracelet	BRACELET	1754		bracelet	bracelet 
+530	13-6-75-1	72212320853794726	English	stan1293	the necklace	NECKLACE	1961		necklace	necklace 
+531	13-6-76-1	72212320548535329	English	stan1293	the bead	BEAD	1860		bead	bead 
+532	13-6-77-1	72212320857807193	English	stan1293	the earring	EARRING	770		earring	earring 
+533	13-6-78-1	72212320502049292	English	stan1293	the headband or headdress	HEADBAND	330		headband	headband 
+534	13-6-79-1	7221232056945517	English	stan1293	the tattoo	TATTOO	68		tattoo	tattoo 
+535	13-6-81-1	72212320838792116	English	stan1293	the handkerchief or rag	RAG	332		handkerchief, hankie	handkerchief 
+536	13-6-81-2	72212320838792116	English	stan1293	the handkerchief or rag	RAG	332		handkerchief, hankie	hankie 
+537	13-6-81-3	76271412380910010	English	stan1293	the handkerchief or rag	RAG	332		rag	rag 
+538	13-6-82-1	7221232090377267	English	stan1293	the towel	TOWEL	1021		towel	towel 
+539	13-6-91-1	72212320240875890	English	stan1293	the comb	COMB	1475		comb	comb 
+540	13-6-92-1	72212320867711831	English	stan1293	the brush	BRUSH	1821		brush	brush 
+541	13-6-921-1	72212320681781003	English	stan1293	the plait/braid	BRAID	1043		plait	plait 
+542	13-6-921-2	72212320742195093	English	stan1293	the plait/braid	BRAID	1043		braid	braid 
+543	13-6-93-1	72212320919845440	English	stan1293	the razor	RAZOR	151		razor	razor 
+544	13-6-94-1	72212320961531339	English	stan1293	the ointment	OINTMENT	1926		ointment	ointment 
+545	13-6-95-1	72212320759986822	English	stan1293	the soap	SOAP	788		soap	soap 
+546	13-6-96-1	72212320902809091	English	stan1293	the mirror	MIRROR	1171		mirror	mirror 
+547	13-7-11-1	72212320191775958	English	stan1293	to live	DWELL (LIVE, RESIDE)	363		live	live 
+548	13-7-12-1	72212320569323758	English	stan1293	the house	HOUSE	1252		house	house 
+549	13-7-13-1	7221232013567786	English	stan1293	the hut	HUT	1678		hut	hut 
+550	13-7-131-1	7626185015251180	English	stan1293	the garden-house	GARDEN-HOUSE	403		shed	shed 
+551	13-7-14-1	7221232028690592	English	stan1293	the tent	TENT	1316		tent	tent 
+552	13-7-15-1	72212320468540509	English	stan1293	the yard or court	YARD	736		yard	yard 
+553	13-7-17-1	72212320851661899	English	stan1293	the cookhouse	COOKHOUSE	334		kitchen	kitchen 
+554	13-7-18-1	72212320813691201	English	stan1293	the meeting house	MEETING HOUSE	335		hall	hall 
+555	13-7-21-1	72212320396643394	English	stan1293	the room	ROOM	1450		room	room 
+556	13-7-22-1	72212320420664306	English	stan1293	the door or gate	DOOR	1567		door	door 
+557	13-7-22-2	72212320469906207	English	stan1293	the door or gate	DOOR	1567		gate	gate 
+558	13-7-221-1	7221232066159734	English	stan1293	the doorpost	DOORPOST	80		doorpost	doorpost 
+559	13-7-23-1	72212320531197389	English	stan1293	the lock	LOCK	1596		lock	lock 
+560	13-7-231-1	72212320642237629	English	stan1293	the latch or door-bolt	LATCH	1012		latch	latch 
+561	13-7-231-2	72212320521473695	English	stan1293	the latch or door-bolt	LATCH	1012		bolt	bolt 
+562	13-7-24-1	72212320950138533	English	stan1293	the key	KEY	1472		key	key 
+563	13-7-25-1	72212320130320251	English	stan1293	the window	WINDOW	1375		window	window 
+564	13-7-26-1	7221232046018039	English	stan1293	the floor	FLOOR	1632		floor	floor 
+565	13-7-27-1	7221232098992251	English	stan1293	the wall	WALL (OF HOUSE)	933		wall	wall 
+566	13-7-31-1	7221232045416364	English	stan1293	the fireplace	FIREPLACE	185		fireplace	fireplace 
+567	13-7-32-1	72212320652145622	English	stan1293	the stove	STOVE	859		stove	stove 
+568	13-7-33-1	72212320722221759	English	stan1293	the chimney	CHIMNEY	1305		chimney	chimney 
+569	13-7-42-1	72212320771836819	English	stan1293	the bed	BED	1663		bed	bed 
+570	13-7-421-1	72212320636440206	English	stan1293	the pillow	PILLOW	1044		pillow	pillow 
+571	13-7-422-1	72212320201087371	English	stan1293	the blanket	BLANKET	806		blanket	blanket 
+572	13-7-43-1	72212320278031027	English	stan1293	the chair	CHAIR	1476		chair	chair 
+573	13-7-44-1	72212320576064054	English	stan1293	the table	TABLE	1775		table	table 
+574	13-7-45-1	72212320904576801	English	stan1293	the lamp or torch	TORCH OR LAMP	2131		lamp	lamp 
+575	13-7-45-2	72212320805419333	English	stan1293	the lamp or torch	TORCH OR LAMP	2131		torch	torch 
+576	13-7-46-1	72212320365798347	English	stan1293	the candle	CANDLE	1273		candle	candle 
+577	13-7-47-1	72212320109741446	English	stan1293	the shelf	SHELF	745		shelf	shelf 
+578	13-7-48-1	72212320789314662	English	stan1293	the trough	TROUGH	205		trough	trough 
+579	13-7-51-1	72212320961157229	English	stan1293	the roof	ROOF	769		roof	roof 
+580	13-7-52-1	72212320600111889	English	stan1293	the thatch	THATCH	279		thatch	thatch 
+581	13-7-53-1	72212320599702663	English	stan1293	the ridgepole	RIDGEPOLE	280		ridgepole	ridgepole 
+582	13-7-54-1	7221232039646896	English	stan1293	the rafter	RAFTER	829		rafter	rafter 
+583	13-7-55-1	72212320319357219	English	stan1293	the beam	BEAM	1132		beam	beam 
+584	13-7-56-1	72212320928876974	English	stan1293	the post or pole	POST	281		post	post 
+585	13-7-57-1	72212320568882516	English	stan1293	the board	BOARD	1227		board	board 
+586	13-7-58-1	72212320192770764	English	stan1293	the arch	ARCH	876		arch	arch 
+587	13-7-61-1	72212320368840728	English	stan1293	the mason	MASON	877		mason	mason 
+588	13-7-62-1	72212320796466134	English	stan1293	the brick	BRICK	1006		brick	brick 
+589	13-7-63-1	72212320642065865	English	stan1293	the mortar(2)	MORTAR BINDER	1731		mortar	mortar 
+590	13-7-64-1	72212320923340249	English	stan1293	the adobe	ADOBE	901		adobe	adobe 
+591	13-8-11-1	72212320166585319	English	stan1293	the farmer	FARMER	979		farmer	farmer 
+592	13-8-12-1	7221232058908334	English	stan1293	the field	FIELD	212		field	field 
+593	13-8-13-1	72212320228557419	English	stan1293	the garden	GARDEN	586		garden	garden 
+594	13-8-15-1	72212320690729081	English	stan1293	to cultivate	CULTIVATE	1541		cultivate	cultivate 
+595	13-8-16-1	7221232046987900	English	stan1293	the fence	FENCE	1690		fence	fence 
+596	13-8-17-1	72212320771282904	English	stan1293	the ditch	DITCH	2002		ditch	ditch 
+597	13-8-21-1	72212320339640555	English	stan1293	to plough/plow	PLOUGH	1921		plough	plough 
+598	13-8-212-1	72212320135691548	English	stan1293	the furrow	FURROW	1794		furrow	furrow 
+599	13-8-22-1	72212320346891677	English	stan1293	to dig	DIG	1418		dig	dig 
+600	13-8-23-1	7221232029225154	English	stan1293	the spade	SPADE	1176		spade	spade 
+601	13-8-24-1	72212320186837974	English	stan1293	the shovel	SHOVEL	1901		shovel	shovel 
+602	13-8-25-1	72212320520045490	English	stan1293	the hoe	HOE	284		hoe	hoe 
+603	13-8-26-1	7221232069451792	English	stan1293	the fork(2)/pitchfork	PITCHFORK	337		pitchfork	pitchfork 
+604	13-8-27-1	72212320104872328	English	stan1293	the rake	RAKE	338		rake	rake 
+605	13-8-31-1	72212320366896681	English	stan1293	to sow	SOW SEEDS	748		sow	sow 
+606	13-8-311-1	72212320970168633	English	stan1293	the seed	SEED	714		seed	seed 
+607	13-8-32-1	72212320403172331	English	stan1293	to mow	MOW	190		mow	mow 
+608	13-8-33-1	72212320333130122	English	stan1293	the sickle or scythe	SICKLE OR SCYTHE	2132		sickle	sickle 
+609	13-8-33-2	72212320563712271	English	stan1293	the sickle or scythe	SICKLE OR SCYTHE	2132		scythe	scythe 
+610	13-8-34-1	7221232032999210	English	stan1293	to thresh	THRESH	285		thresh	thresh 
+611	13-8-35-1	72212320892803750	English	stan1293	the threshing-floor	THRESHING-FLOOR	223		threshing-floor	threshing-floor 
+612	13-8-41-1	72212320756607347	English	stan1293	the harvest	HARVEST	611		harvest	harvest 
+613	13-8-42-1	72212320198304928	English	stan1293	the grain	GRAIN	605		grain	grain 
+614	13-8-43-1	72212320517038341	English	stan1293	the wheat	WHEAT	1077		wheat	wheat 
+615	13-8-44-1	72212320151315633	English	stan1293	the barley	BARLEY	932		barley	barley 
+616	13-8-45-1	72212320971176653	English	stan1293	the rye	RYE	23		rye	rye 
+617	13-8-46-1	72212320643049692	English	stan1293	the oats	OAT	60		oat	oat 
+618	13-8-47-1	72212320955865365	English	stan1293	the maize/corn	MAIZE	506		corn	corn 
+619	13-8-47-2	72212320613553349	English	stan1293	the maize/corn	MAIZE	506		maize	maize 
+620	13-8-48-1	72212320927378708	English	stan1293	the rice	RICE	926		rice	rice 
+621	13-8-51-1	7221232086298049	English	stan1293	the grass	GRASS	606		grass	grass 
+622	13-8-52-1	72212320722270378	English	stan1293	the hay	HAY	342		hay	hay 
+623	13-8-53-1	72212320966587546	English	stan1293	the plant	PLANT (VEGETATION)	653		plant	plant 
+624	13-8-531-1	72212320964392326	English	stan1293	to plant	PLANT (SOMETHING)	1486		plant	plant 
+625	13-8-54-1	72212320951675631	English	stan1293	the root	ROOT	670		root	root 
+626	13-8-55-1	72212320634169298	English	stan1293	the branch	BRANCH OR TWIG	3223		branch	branch 
+627	13-8-56-1	72212320971238876	English	stan1293	the leaf	LEAF	628		leaf	leaf 
+628	13-8-57-1	72212320209248454	English	stan1293	the flower	FLOWER	239		flower	flower 
+629	13-8-6-1	72212320394354958	English	stan1293	the tree	TREE	906		tree	tree 
+630	13-8-61-1	72212320579450786	English	stan1293	the oak	OAK	644		oak	oak 
+631	13-8-62-1	72212320605546419	English	stan1293	the beech	BEECH	1950		beech	beech 
+632	13-8-63-1	72212320453852421	English	stan1293	the birch	BIRCH	1855		birch	birch 
+633	13-8-64-1	72212320288547021	English	stan1293	the pine	PINE	1740		pine	pine 
+634	13-8-65-1	72212320808242677	English	stan1293	the fir	FIR	1915		fir	fir 
+635	13-8-66-1	72212320216454427	English	stan1293	the acorn	ACORN	968		acorn	acorn 
+636	13-8-67-1	7221232094339497	English	stan1293	the vine	VINE	343		vine	vine 
+637	13-8-68-1	72212320604540638	English	stan1293	the tobacco	TOBACCO	974		tobacco	tobacco 
+638	13-8-69-1	72212319493880290	English	stan1293	to smoke	SMOKE (INHALE)	1689		smoke	smoke 
+639	13-8-691-1	72212320165374075	English	stan1293	the pipe	PIPE	1124		pipe	pipe 
+640	13-8-72-1	72212320563482983	English	stan1293	the tree stump	TREE STUMP	241		(tree-)stump	(tree-)stump 
+641	13-8-73-1	72212320363993674	English	stan1293	the tree trunk	TREE TRUNK	344		tree trunk	tree trunk 
+642	13-8-75-1	72212320742228946	English	stan1293	the bark	BARK	1204		bark	bark 
+643	13-8-76-1	72212320652628306	English	stan1293	the sap	SAP	345		sap	sap 
+644	13-8-81-1	7221232088954030	English	stan1293	the palm tree	PALM TREE	1181		palm	palm 
+645	13-8-82-1	72212320900221977	English	stan1293	the coconut	COCONUT	970		coconut	coconut 
+646	13-8-83-1	72212320831524338	English	stan1293	the citrus fruit	CITRUS FRUIT	1126		citrus	citrus 
+647	13-8-83-2	72212320994001257	English	stan1293	the citrus fruit	CITRUS FRUIT	1126		lemon	lemon 
+648	13-8-83-3	72212320925148099	English	stan1293	the citrus fruit	CITRUS FRUIT	1126		orange	orange 
+649	13-8-84-1	72212320642074829	English	stan1293	the banana	BANANA	868		banana	banana 
+650	13-8-85-1	72212320607764477	English	stan1293	the banyan	BANYAN	346		banyan	banyan 
+651	13-8-91-1	72212320778597524	English	stan1293	the sweet potato	SWEET POTATO	159		sweet potato	sweet potato 
+652	13-8-912-1	722123205057432	English	stan1293	the yam	YAM	410		yam	yam 
+653	13-8-92-1	72212320322225407	English	stan1293	the cassava/manioc	CASSAVA	925		cassava	cassava 
+654	13-8-92-2	72212320807718248	English	stan1293	the cassava/manioc	CASSAVA	925		manioc	manioc 
+655	13-8-93-1	72212320922543956	English	stan1293	the gourd	GOURD	411		gourd	gourd 
+656	13-8-931-1	72212320799718258	English	stan1293	the pumpkin or squash	PUMPKIN	864		pumpkin	pumpkin 
+657	13-8-931-2	72212320531567487	English	stan1293	the pumpkin or squash	PUMPKIN	864		squash	squash 
+658	13-8-94-1	72212320864436650	English	stan1293	the bamboo	BAMBOO	1927		bamboo	bamboo 
+659	13-8-941-1	72212320171058750	English	stan1293	the sugar cane	SUGAR CANE	146		sugar cane	sugar cane 
+660	13-8-97-1	72212320444697293	English	stan1293	the nettle	NETTLE	33		nettle	nettle 
+661	13-8-98-1	72212320470693798	English	stan1293	the mushroom	MUSHROOM	641		mushroom	mushroom 
+662	13-9-11-1	72212320274388145	English	stan1293	to do	DO	813		do	do 
+663	13-9-12-1	72212320795471305	English	stan1293	the work	WORK (LABOUR)	984		work	work 
+664	13-9-14-1	72212320620302644	English	stan1293	to bend	BEND	2004		bend	bend 
+665	13-9-15-1	72212320420827808	English	stan1293	to fold	FOLD	1470		fold	fold 
+666	13-9-16-1	72212320925079717	English	stan1293	to tie	TIE	1917		tie	tie 
+667	13-9-16-2	72212320644205428	English	stan1293	to tie	TIE	1917		bind	bind 
+668	13-9-161-1	72212320620936359	English	stan1293	to untie	UNTIE	352		untie	untie 
+669	13-9-18-1	72212320267433833	English	stan1293	the chain	CHAIN	1627		chain	chain 
+670	13-9-19-1	72212320560842569	English	stan1293	the rope	ROPE	1218		rope	rope 
+671	13-9-192-1	72212320689295536	English	stan1293	the knot	KNOT	760		knot	knot 
+672	13-9-21-1	72212320763962380	English	stan1293	to strike or hit or beat	STRIKE OR BEAT	2133		hit	hit 
+673	13-9-21-2	72212320930605933	English	stan1293	to strike or hit or beat	STRIKE OR BEAT	2133		beat	beat 
+674	13-9-21-3	7221232046571008	English	stan1293	to strike or hit or beat	STRIKE OR BEAT	2133		strike	strike 
+675	13-9-211-1	72212320798319674	English	stan1293	to pound	POUND	354		pound	pound 
+676	13-9-22-1	72212320201393030	English	stan1293	to cut	CUT	1432		cut	cut 
+677	13-9-222-1	7221232021426558	English	stan1293	to chop	CHOP	155		chop	chop 
+678	13-9-223-1	72212320618750775	English	stan1293	to stab	STAB TO DEATH	3189		stab	stab 
+679	13-9-23-1	72212320343588235	English	stan1293	the knife(2)	KNIFE	1352		knife	knife 
+680	13-9-24-1	72212320406151119	English	stan1293	the scissors or shears	SHEARS	356		scissors	scissors 
+681	13-9-24-2	72212320210724575	English	stan1293	the scissors or shears	SHEARS	356		shears	shears 
+682	13-9-25-1	72212320875226221	English	stan1293	the axe/ax	AXE	677		axe	axe 
+683	13-9-251-1	72212320333611308	English	stan1293	the adze	ADZE	290		adze	adze 
+684	13-9-26-1	72212320170906035	English	stan1293	to break	BREAK (DESTROY OR GET DESTROYED)	680		break	break 
+685	13-9-261-1	72212320546418613	English	stan1293	broken	BROKEN (NOT WORKING)	3190		broken	broken 
+686	13-9-27-1	72212320880785557	English	stan1293	to split	SPLIT	1437		split	split 
+687	13-9-28-1	72212320217176271	English	stan1293	to tear	TEAR (SHRED)	1735		tear	tear 
+688	13-9-83-1	72212320101846594	English	stan1293	the statue	STATUE	1002		statue	statue 
+689	13-9-29-1	72212320158183618	English	stan1293	to skin	PULL OFF (SKIN)	291		skin	skin 
+690	13-9-31-1	72212320926428548	English	stan1293	to rub	RUB	1449		rub	rub 
+691	13-9-32-1	722123204274401	English	stan1293	to stretch	STRETCH	214		stretch	stretch 
+692	13-9-33-1	7221232015647126	English	stan1293	to pull	PULL	1455		pull	pull 
+693	13-9-34-1	72212320352585915	English	stan1293	to spread out	SPREAD OUT	38		spread out	spread out 
+694	13-9-341-1	72212320773591465	English	stan1293	to hang up	HANG UP	357		hang	hang 
+695	13-9-342-1	72212320356364767	English	stan1293	to press	PRESS	1913		press	press 
+696	13-9-343-1	72212320872238548	English	stan1293	to squeeze	SQUEEZE	1414		squeeze	squeeze 
+697	13-9-35-1	72212320105837157	English	stan1293	to pour	POUR	1487		pour	pour 
+698	13-9-36-1	72212320407238738	English	stan1293	to wash	WASH	1453		wash	wash 
+699	13-9-37-1	72212320753593566	English	stan1293	to sweep	SWEEP	230		sweep	sweep 
+700	13-9-38-1	72212320216972878	English	stan1293	the broom	BROOM	245		broom	broom 
+701	13-9-422-1	72212320116619004	English	stan1293	the tool	TOOL	1361		tool	tool 
+702	13-9-43-1	72212320511578351	English	stan1293	the carpenter	CARPENTER	1042		carpenter	carpenter 
+703	13-9-44-1	72212320472688356	English	stan1293	to build	BUILD	1840		build	build 
+704	13-9-46-1	72212320169508849	English	stan1293	to bore	BORE	1501		bore	bore 
+705	13-9-461-1	72212320483051313	English	stan1293	to hollow out	HOLLOW OUT	46		hollow	hollow 
+706	13-9-48-1	72212320497236039	English	stan1293	the saw	SAW	1948		saw	saw 
+707	13-9-49-1	72212320557785097	English	stan1293	the hammer	HAMMER	1481		hammer	hammer 
+708	13-9-5-1	7221232098279985	English	stan1293	the nail	NAIL (TOOL)	502		nail	nail 
+709	13-9-56-1	72212320621403388	English	stan1293	the glue	GLUE	1069		glue	glue 
+710	13-9-6-1	72212320240480533	English	stan1293	the blacksmith	BLACKSMITH	1001		blacksmith	blacksmith 
+711	13-9-61-1	72212320350150985	English	stan1293	to forge	FORGE	288		forge	forge 
+712	13-9-62-1	72212320905338943	English	stan1293	the anvil	ANVIL	1648		anvil	anvil 
+713	13-9-63-1	72212320733763407	English	stan1293	to cast	CAST	211		cast	cast 
+714	13-9-64-1	72212320429066430	English	stan1293	the gold	GOLD	1369		gold	gold 
+715	13-9-65-1	72212320136510591	English	stan1293	the silver	SILVER	759		silver	silver 
+716	13-9-66-1	72212320489704377	English	stan1293	the copper	COPPER	1825		copper	copper 
+717	13-9-67-1	72212320750577535	English	stan1293	the iron	IRON	621		iron	iron 
+718	13-9-68-1	72212320196818726	English	stan1293	the lead	LEAD (CHEMICAL ELEMENT)	627		lead	lead 
+719	13-9-69-1	72212320144409241	English	stan1293	the tin or tinplate	TIN OR TINPLATE	3217		tin	tin 
+720	13-9-71-1	72212320772410394	English	stan1293	the potter	POTTER	359		potter	potter 
+721	13-9-72-1	72212320114234989	English	stan1293	to mould/mold	MOLD	289		mould	mould 
+722	13-9-73-1	7221232030079887	English	stan1293	the clay	CLAY	1399		clay	clay 
+723	13-9-74-1	72212320121391860	English	stan1293	the glass	GLASS	604		glass	glass 
+724	13-9-75-1	72212320676561488	English	stan1293	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		weave	weave 
+725	13-9-76-1	72212320336509792	English	stan1293	the basket	BASKET	1539		basket	basket 
+726	13-9-77-1	72212320999207973	English	stan1293	the mat	MAT	195		mat	mat 
+727	13-9-771-1	72212320381580328	English	stan1293	the rug	RUG	292		rug	rug 
+728	13-9-771-2	72212320830866064	English	stan1293	the rug	RUG	292		carpet	carpet 
+729	13-9-78-1	812221153849447844	English	stan1293	the netbag	NETBAG	293		netbag	netbag 
+730	13-9-79-1	72212320520973124	English	stan1293	the fan	FAN (OBJECT)	1971		fan	fan 
+731	13-9-791-1	72212320450292603	English	stan1293	to fan	FAN ACTION	360		fan	fan 
+732	13-9-81-1	72212320552959312	English	stan1293	to carve	CARVE	228		carve	carve 
+733	13-9-82-1	72212320502359247	English	stan1293	the sculptor	SCULPTOR	914		sculptor	sculptor 
+734	13-9-84-1	72212320681817272	English	stan1293	the chisel	CHISEL	1979		chisel	chisel 
+735	13-9-88-1	72212320257124290	English	stan1293	the paint	PAINT (PIGMENTS)	647		paint	paint 
+736	13-9-89-1	7221232090265899	English	stan1293	to paint	PAINTING	2001		paint	paint 
+737	13-10-11-1	72212320315168580	English	stan1293	to move	MOVE	765		move	move 
+738	13-10-12-1	72212320475068319	English	stan1293	to turn	TURN	1588		turn	turn 
+739	13-10-13-1	72212320538221065	English	stan1293	to turn around	TURN (SOMETHING)	1445		turn around	turn around 
+740	13-10-14-1	72212320752483018	English	stan1293	to wrap	WRAP	1113		wrap	wrap 
+741	13-10-15-1	72212320277706178	English	stan1293	to roll	ROLL	827		roll	roll 
+742	13-10-16-1	72212320640945710	English	stan1293	to drop	DROP (SOMETHING)	2866		drop	drop 
+743	13-10-17-1	72212320512273945	English	stan1293	to twist	TWIST (AROUND)	3199		twist	twist 
+744	13-10-21-1	72212320877684030	English	stan1293	to rise	RISE (MOVE UPWARDS)	568		rise	rise 
+745	13-10-22-1	72212320492022850	English	stan1293	to raise or lift	LIFT	501		raise	raise 
+746	13-10-22-2	72212320873747701	English	stan1293	to raise or lift	LIFT	501		lift	lift 
+747	13-10-23-1	7221232076840143	English	stan1293	to fall	FALL	1280		fall	fall 
+748	13-10-24-1	72212320695446462	English	stan1293	to drip	DRIP (EMIT LIQUID)	2253		drip	drip 
+749	13-10-25-1	72212320920135690	English	stan1293	to throw	THROW	1456		throw	throw 
+750	13-10-252-1	72212320812185665	English	stan1293	to catch	CATCH	702		catch	catch 
+751	13-10-26-1	72212320536430852	English	stan1293	to shake	SHAKE	1909		shake	shake 
+752	13-10-32-1	72212320861590766	English	stan1293	to flow	FLOW	2003		flow	flow 
+753	13-10-33-1	72212320146253105	English	stan1293	to sink	SINK (DESCEND)	1088		sink	sink 
+754	13-10-34-1	72212320695142398	English	stan1293	to float	FLOAT	1574		float	float 
+755	13-10-35-1	72212320386223529	English	stan1293	to swim	SWIM	1439		swim	swim 
+756	13-10-351-1	72212320649956573	English	stan1293	to dive	DIVE	119		dive	dive 
+757	13-10-352-1	72212320722672640	English	stan1293	to splash	SPLASH	365		splash	splash 
+758	13-10-36-1	72212320772212252	English	stan1293	to sail	SAIL	787		sail	sail 
+759	13-10-37-1	72212320322298703	English	stan1293	to fly	FLY (MOVE THROUGH AIR)	1441		fly	fly 
+760	13-10-38-1	72212320769573975	English	stan1293	to blow	BLOW (OF WIND)	175		blow	blow 
+761	13-10-41-1	7221232094485949	English	stan1293	to crawl	CRAWL	96		crawl	crawl 
+762	13-10-412-1	72212320587143114	English	stan1293	to kneel	KNEEL	66		kneel	kneel 
+763	13-10-413-1	72212320311546446	English	stan1293	to crouch	CROUCH	296		crouch	crouch 
+764	13-10-42-1	72212320974168953	English	stan1293	to slide or slip	SLIP	1324		slip	slip 
+765	13-10-42-2	72212320608290081	English	stan1293	to slide or slip	SLIP	1324		slide	slide 
+766	13-10-43-1	72212320864336498	English	stan1293	to jump	JUMP	1829		jump	jump 
+767	13-10-431-1	72212320741796291	English	stan1293	to kick	KICK	1135		kick	kick 
+768	13-10-44-1	72212320716647208	English	stan1293	to dance	DANCE	1879		dance	dance 
+769	13-10-45-1	72212320134486285	English	stan1293	to walk	WALK	1443		walk	walk 
+770	13-10-451-1	72212320664069545	English	stan1293	to limp	LIMP	366		limp	limp 
+771	13-10-46-1	7221232016377501	English	stan1293	to run	RUN	1519		run	run 
+772	13-10-47-1	72212320635832169	English	stan1293	to go	GO	695		go	go 
+773	13-10-471-1	72212320787214574	English	stan1293	to go up	GO UP (ASCEND)	705		go up	go up 
+774	13-10-472-1	72212320196268855	English	stan1293	to climb	CLIMB	1102		climb	climb 
+775	13-10-473-1	72212320245551542	English	stan1293	to go down	GO DOWN (DESCEND)	2014		go down	go down 
+776	13-10-474-1	72212320270227462	English	stan1293	to go out	GO OUT	1107		go out	go out 
+777	13-10-48-1	72212320516532454	English	stan1293	to come	COME	1446		come	come 
+778	13-10-481-1	7221232030628415	English	stan1293	to come back	COME BACK	581		come back	come back 
+779	13-10-49-1	72212320863023464	English	stan1293	to leave	LEAVE	1752		leave	leave 
+780	13-10-491-1	7221232048711274	English	stan1293	to disappear	DISAPPEAR	485		disappear	disappear 
+781	13-10-51-1	7221232094907877	English	stan1293	to flee	FLEE	956		flee	flee 
+782	13-10-52-1	72212320631507751	English	stan1293	to follow	FOLLOW	1085		follow	follow 
+783	13-10-53-1	72212320627522655	English	stan1293	to pursue	PURSUE	1047		pursue	pursue 
+784	13-10-53-2	72212320397672871	English	stan1293	to pursue	PURSUE	1047		chase	chase 
+785	13-10-55-1	72212320823660653	English	stan1293	to arrive	ARRIVE	1387		arrive	arrive 
+786	13-10-56-1	72212320994431592	English	stan1293	to approach	APPROACH	1778		approach	approach 
+787	13-10-57-1	72212320918377125	English	stan1293	to enter	ENTER	749		enter	enter 
+788	13-10-61-1	72212320336270874	English	stan1293	to carry	CARRY	700		carry	carry 
+789	13-10-62-1	72212320555188936	English	stan1293	to bring	BRING	692		bring	bring 
+790	13-10-63-1	7221232077913375	English	stan1293	to send	SEND	1127		send	send 
+791	13-10-64-1	72212320174584833	English	stan1293	to lead	LEAD (GUIDE)	43		lead	lead 
+792	13-10-65-1	7221232023595600	English	stan1293	to drive	DRIVE	741		drive	drive 
+793	13-10-66-1	72212320596419514	English	stan1293	to ride	RIDE	367		ride	ride 
+794	13-10-67-1	72212320615558287	English	stan1293	to push	PUSH	1452		push	push 
+795	13-10-71-1	72212320301746369	English	stan1293	the road	ROAD	667		road	road 
+796	13-10-72-1	7221232014067236	English	stan1293	the path	PATH	2252		path	path 
+797	13-10-74-1	72212320645036869	English	stan1293	the bridge	BRIDGE	1011		bridge	bridge 
+798	13-10-75-1	722123209201711	English	stan1293	the cart or wagon	CART	122		cart	cart 
+799	13-10-75-2	7221232073346850	English	stan1293	the cart or wagon	CART	122		wagon	wagon 
+800	13-10-76-1	7221232084030859	English	stan1293	the wheel	WHEEL	710		wheel	wheel 
+801	13-10-77-1	72212320564824814	English	stan1293	the axle	AXLE	1769		axle	axle 
+802	13-10-78-1	72212320286821055	English	stan1293	the yoke	YOKE	14		yoke	yoke 
+803	13-10-81-1	72212320865545991	English	stan1293	the ship	SHIP	740		ship	ship 
+804	13-10-83-1	72212320703772666	English	stan1293	the boat	BOAT	1844		boat	boat 
+805	13-10-831-1	72212320800684893	English	stan1293	the canoe	CANOE	1970		canoe	canoe 
+806	13-10-832-1	72212320196812307	English	stan1293	the outrigger	OUTRIGGER	416		outrigger	outrigger 
+807	13-10-84-1	72212320667514825	English	stan1293	the raft	RAFT	1664		raft	raft 
+808	13-10-85-1	72212320578518112	English	stan1293	the oar	RUDDER	108		oar	oar 
+809	13-10-851-1	72212320301084836	English	stan1293	the paddle	PADDLE	234		paddle	paddle 
+810	13-10-852-1	72212320186575420	English	stan1293	to row	ROW	1849		row	row 
+811	13-10-86-1	72212320407698921	English	stan1293	the rudder	RUDDER	108		rudder	rudder 
+812	13-10-87-1	72212320428129499	English	stan1293	the mast	MAST	184		mast	mast 
+813	13-10-88-1	72212320772212252	English	stan1293	the sail	SAILCLOTH	786		sail	sail 
+814	13-10-89-1	72212320831683512	English	stan1293	the anchor	ANCHOR	1870		anchor	anchor 
+815	13-10-91-1	72212320543593285	English	stan1293	the port	PORT	610		port	port 
+816	13-10-92-1	72212320246923727	English	stan1293	to land	LAND (DESCEND)	1922		land	land 
+817	13-11-11-1	7221232071954077	English	stan1293	to have	HAVE	773		have	have 
+818	13-11-12-1	72212320337443037	English	stan1293	to own	OWN	684		own	own 
+819	13-11-13-1	72212320233792161	English	stan1293	to take	TAKE	1749		take	take 
+820	13-11-14-1	72212320547136054	English	stan1293	to grasp	SEIZE	855		grasp	grasp 
+821	13-11-15-1	72212320302988234	English	stan1293	to hold	HOLD	1448		hold	hold 
+822	13-11-16-1	72212320386904568	English	stan1293	to get	GET	694		get	get 
+823	13-11-17-1	7221232024437181	English	stan1293	to keep	KEEP	1477		keep	keep 
+824	13-11-18-1	72212320100141415	English	stan1293	the thing	THING	738		thing	thing 
+825	13-11-21-1	72212320835438110	English	stan1293	to give	GIVE	1447		give	give 
+826	13-11-22-1	72212320346571362	English	stan1293	to give back	GIVE BACK	85		give back	give back 
+827	13-11-22-2	72212320910352172	English	stan1293	to give back	GIVE BACK	85		return	return 
+828	13-11-24-1	72212320879381674	English	stan1293	to preserve	PRESERVE	1997		preserve	preserve 
+829	13-11-25-1	72212320738920849	English	stan1293	to rescue	RESCUE	2008		rescue	rescue 
+830	13-11-27-1	72212320314512181	English	stan1293	to destroy	DESTROY	681		destroy	destroy 
+831	13-11-28-1	72212320336475406	English	stan1293	to injure	INJURE	44		injure	injure 
+832	13-11-28-2	72212320112185678	English	stan1293	to injure	INJURE	44		hurt	hurt 
+833	13-11-31-1	72212320916776529	English	stan1293	to look for	LOOK FOR	1468		look for	look for 
+834	13-11-31-2	72212320522688928	English	stan1293	to look for	LOOK FOR	1468		seek	seek 
+835	13-11-32-1	72212320946944361	English	stan1293	to find	FIND	719		find	find 
+836	13-11-33-1	72212320367920829	English	stan1293	to lose	LOSE	1660		lose	lose 
+837	13-11-34-1	72212320822761238	English	stan1293	to let go	LET GO OR SET FREE	1095		let go	let go 
+838	13-11-43-1	72212320933470758	English	stan1293	the money	MONEY	1559		money	money 
+839	13-11-44-1	72212320155081239	English	stan1293	the coin	COIN	1867		coin	coin 
+840	13-11-51-1	72212320621243966	English	stan1293	rich	RICH	712		rich	rich 
+841	13-11-52-1	72212320841519418	English	stan1293	poor	POOR	1674		poor	poor 
+842	13-11-53-1	72212320679616813	English	stan1293	the beggar	BEGGAR	1934		beggar	beggar 
+843	13-11-54-1	722123204634527	English	stan1293	stingy	STINGY	1774		stingy	stingy 
+844	13-11-54-2	72212320411970358	English	stan1293	stingy	STINGY	1774		mean	mean 
+845	13-11-61-1	72212320329161723	English	stan1293	to lend	LEND	582		lend	lend 
+846	13-11-62-1	72212320744853090	English	stan1293	to borrow	BORROW	1823		borrow	borrow 
+847	13-11-63-1	72212320832500253	English	stan1293	to owe	OWE	369		owe	owe 
+848	13-11-64-1	7221232069192001	English	stan1293	the debt	DEBT	1914		debt	debt 
+849	13-11-65-1	72212320434285366	English	stan1293	to pay	PAY	718		pay	pay 
+850	13-11-66-1	72212320587156852	English	stan1293	the bill	BILL	1081		bill	bill 
+851	13-11-69-1	72212320450194817	English	stan1293	the tax	TAX	873		tax	tax 
+852	13-11-77-1	72212320645004742	English	stan1293	to hire	HIRE	856		hire	hire 
+853	13-11-78-1	72212320679030591	English	stan1293	the wages	WAGES	1122		wages	wages 
+854	13-11-79-1	72212320707280142	English	stan1293	to earn	EARN	733		earn	earn 
+855	13-11-81-1	72212320704093582	English	stan1293	to buy	BUY	1869		buy	buy 
+856	13-11-82-1	72212320400852097	English	stan1293	to sell	SELL	1571		sell	sell 
+857	13-11-83-1	72212320520291054	English	stan1293	to trade or barter	TRADE OR BARTER	2135		trade	trade 
+858	13-11-83-2	72212320527738603	English	stan1293	to trade or barter	TRADE OR BARTER	2135		barter	barter 
+859	13-11-84-1	7221232077243262	English	stan1293	the merchant	MERCHANT	1082		merchant	merchant 
+860	13-11-85-1	7221232068568391	English	stan1293	the market	MARKET	633		market	market 
+861	13-11-86-1	72212320378466745	English	stan1293	the shop/store	STORE	752		shop	shop 
+862	13-11-86-2	72212320894942729	English	stan1293	the shop/store	STORE	752		store	store 
+863	13-11-87-1	72212320915929405	English	stan1293	the price	PRICE	657		price	price 
+864	13-11-88-1	7221232065133405	English	stan1293	expensive	EXPENSIVE	1426		expensive	expensive 
+865	13-11-89-1	72212320777466708	English	stan1293	cheap	CHEAP	1887		cheap	cheap 
+866	13-11-91-1	72212320909152597	English	stan1293	to share	SHARE	884		share	share 
+867	13-11-92-1	72212320274883052	English	stan1293	to weigh	WEIGH	1098		weigh	weigh 
+868	13-12-01-1	72212320317632223	English	stan1293	after	AFTER	1685		after	after 
+869	13-12-011-1	72212320395410255	English	stan1293	behind	BEHIND	1686		behind	behind 
+870	13-12-02-1	72212320833705307	English	stan1293	beside	BESIDE	1816		beside	beside 
+871	13-12-03-1	72212320266273646	English	stan1293	down	DOWN	1326		down	down 
+872	13-12-04-1	72212320210073959	English	stan1293	before	BEFORE	1882		before	before 
+873	13-12-041-1	72212320617074920	English	stan1293	in front of	IN FRONT OF	1883		in front of	in front of 
+874	13-12-05-1	72212320118037866	English	stan1293	inside	INSIDE	1606		inside	inside 
+875	13-12-06-1	72212320695629648	English	stan1293	outside	OUTSIDE	762		outside	outside 
+876	13-12-07-1	72212320208202460	English	stan1293	under	BELOW OR UNDER	1485		under	under 
+877	13-12-08-1	72212320193364363	English	stan1293	up	UP	1591		up	up 
+878	13-12-11-1	72212320733999809	English	stan1293	the place	PLACE (POSITION)	723		place	place 
+879	13-12-12-1	72212320800247263	English	stan1293	to put	PUT	998		put	put 
+880	13-12-13-1	72212320294126093	English	stan1293	to sit	SIT	1416		sit	sit 
+881	13-12-14-1	72212320538048781	English	stan1293	to lie down	LIE DOWN	215		lie down	lie down 
+882	13-12-15-1	72212320836752739	English	stan1293	to stand	STAND	1442		stand	stand 
+883	13-12-16-1	72212320995776182	English	stan1293	to remain	REMAIN	987		stay	stay 
+884	13-12-16-2	72212320273832481	English	stan1293	to remain	REMAIN	987		remain	remain 
+885	13-12-17-1	72212320319604111	English	stan1293	the remains	REMAINS	838		remains	remains 
+886	13-12-21-1	72212320674133167	English	stan1293	to gather	GATHER	7		gather	gather 
+887	13-12-21-2	72212320747738289	English	stan1293	to gather	GATHER	7		collect	collect 
+888	13-12-212-1	72212320790163587	English	stan1293	to pick up	PICK UP	371		pick up	pick up 
+889	13-12-213-1	7221232089011219	English	stan1293	to pile up	PILE UP	1576		pile up	pile up 
+890	13-12-22-1	7221232046311663	English	stan1293	to join	JOIN	1743		join	join 
+891	13-12-23-1	72212320881082026	English	stan1293	to separate	SEPARATE	1359		separate	separate 
+892	13-12-232-1	72212320217334471	English	stan1293	to divide	DIVIDE	1119		divide	divide 
+893	13-12-24-1	72212320519066930	English	stan1293	to open	OPEN	1156		open	open 
+894	13-12-25-1	72212320113584523	English	stan1293	to shut	SHUT	1046		shut	shut 
+895	13-12-25-2	72212320575730641	English	stan1293	to shut	SHUT	1046		close	close 
+896	13-12-26-1	72212320322400099	English	stan1293	to cover	COVER	761		cover	cover 
+897	13-12-27-1	72212320761344663	English	stan1293	to hide	HIDE (CONCEAL)	602		hide	hide 
+898	13-12-31-1	72212320592117467	English	stan1293	high	HIGH	1265		high	high 
+899	13-12-32-1	72212320881396017	English	stan1293	low	LOW	721		low	low 
+900	13-12-33-1	72212320994245878	English	stan1293	the top	TOP	1753		top	top 
+901	13-12-34-1	72212320940192328	English	stan1293	the bottom	BOTTOM	690		bottom	bottom 
+902	13-12-35-1	72212320415337941	English	stan1293	the end(1)	END (OF SPACE)	742		end	end 
+903	13-12-352-1	72212320981709235	English	stan1293	pointed	POINTED	372		pointed	pointed 
+904	13-12-353-1	7221232074986106	English	stan1293	the edge	EDGE	863		edge	edge 
+905	13-12-36-1	7221232032697228	English	stan1293	the side	SIDE	682		side	side 
+906	13-12-37-1	72212320440245165	English	stan1293	the middle	MIDDLE	1093		middle	middle 
+907	13-12-41-1	72212320299673934	English	stan1293	right(1)	RIGHT	1019		right	right 
+908	13-12-42-1	72212320898384725	English	stan1293	left	LEFT	244		left	left 
+909	13-12-43-1	72212320966519322	English	stan1293	near	NEAR	1942		near	near 
+910	13-12-44-1	72212320789347170	English	stan1293	far	FAR	1406		far	far 
+911	13-12-45-1	72212320368186703	English	stan1293	the east	EAST	1877		east	east 
+912	13-12-46-1	72212320204398121	English	stan1293	the west	WEST	1817		west	west 
+913	13-12-47-1	72212320625966907	English	stan1293	the north	NORTH	1598		north	north 
+914	13-12-48-1	72212320151137780	English	stan1293	the south	SOUTH	1595		south	south 
+915	13-12-53-1	72212320559016672	English	stan1293	to grow	GROW	479		grow	grow 
+916	13-12-54-1	7221232061321404	English	stan1293	to measure	MEASURE	1506		measure	measure 
+917	13-12-541-1	7221232029575571	English	stan1293	the fathom	FATHOM	81		fathom	fathom 
+918	13-12-55-1	72212320202506772	English	stan1293	big	BIG	1202		big	big 
+919	13-12-55-2	72212320396036419	English	stan1293	big	BIG	1202		large	large 
+920	13-12-56-1	72212320306084194	English	stan1293	small	SMALL	1246		small	small 
+921	13-12-56-2	72212320800942498	English	stan1293	small	SMALL	1246		little	little 
+922	13-12-57-1	72212320165309921	English	stan1293	long	LONG	1203		long	long 
+923	13-12-58-1	72212320220998495	English	stan1293	tall	TALL	711		tall	tall 
+924	13-12-59-1	7221232023073404	English	stan1293	short	SHORT	1645		short	short 
+925	13-12-61-1	72212320911806215	English	stan1293	wide	WIDE	1243		wide	wide 
+926	13-12-62-1	7221232056039606	English	stan1293	narrow	NARROW	1267		narrow	narrow 
+927	13-12-63-1	72212320838808050	English	stan1293	thick	THICK	1244		thick	thick 
+928	13-12-65-1	7221232034510060	English	stan1293	thin	THIN (OF SHAPE OF OBJECT)	2249		thin	thin 
+929	13-12-67-1	72212320795788819	English	stan1293	deep	DEEP	1593		deep	deep 
+930	13-12-68-1	7221232087892955	English	stan1293	shallow	SHALLOW	193		shallow	shallow 
+931	13-12-71-1	7221232019163594	English	stan1293	flat	FLAT	1633		flat	flat 
+932	13-12-73-1	72212320686837422	English	stan1293	straight	STRAIGHT	1404		straight	straight 
+933	13-12-74-1	72212320404630670	English	stan1293	crooked	CROOKED	297		crooked	crooked 
+934	13-12-75-1	72212320829376464	English	stan1293	the hook	HOOK	1071		hook	hook 
+935	13-12-76-1	722123202990322	English	stan1293	the corner	CORNER	192		corner	corner 
+936	13-12-77-1	72212320291786559	English	stan1293	the cross	CROSS	1367		cross	cross 
+937	13-12-78-1	72212320300990620	English	stan1293	the square	SQUARE	850		square	square 
+938	13-12-81-1	72212320195607972	English	stan1293	round	ROUND	1395		round	round 
+939	13-12-82-1	72212320293670762	English	stan1293	the circle	CIRCLE	1467		circle	circle 
+940	13-12-83-1	72212320422251734	English	stan1293	the ball	BALL	1845		ball	ball 
+941	13-12-84-1	72212320856028224	English	stan1293	the line	LINE	1048		line	line 
+942	13-12-85-1	72212320263175065	English	stan1293	the hole	HOLE	1667		hole	hole 
+943	13-12-92-1	72212320695001071	English	stan1293	similar	SIMILAR	1558		similar	similar 
+944	13-12-92-2	72212320498435014	English	stan1293	similar	SIMILAR	1558		alike	alike 
+945	13-12-93-1	72212320129205205	English	stan1293	to change	CHANGE	1264		change	change 
+946	13-13-1	72212320799733310	English	stan1293	zero	ZERO	1294		zero	zero 
+947	13-13-01-1	72212320808096364	English	stan1293	one	ONE	1493		one	one 
+948	13-13-02-1	72212320617070926	English	stan1293	two	TWO	1498		two	two 
+949	13-13-03-1	72212320343236334	English	stan1293	three	THREE	492		three	three 
+950	13-13-04-1	72212320177219311	English	stan1293	four	FOUR	1500		four	four 
+951	13-13-05-1	72212320927575346	English	stan1293	five	FIVE	493		five	five 
+952	13-13-06-1	7221232030829842	English	stan1293	six	SIX	1703		six	six 
+953	13-13-07-1	72212320476097414	English	stan1293	seven	SEVEN	1704		seven	seven 
+954	13-13-08-1	72212320142687255	English	stan1293	eight	EIGHT	1705		eight	eight 
+955	13-13-09-1	72212320322169757	English	stan1293	nine	NINE	1483		nine	nine 
+956	13-13-1-1	72212320176379142	English	stan1293	ten	TEN	1515		ten	ten 
+957	13-13-101-1	72212320666206227	English	stan1293	eleven	ELEVEN	1706		eleven	eleven 
+958	13-13-102-1	72212320947011649	English	stan1293	twelve	TWELVE	1707		twelve	twelve 
+959	13-13-103-1	72212320687446518	English	stan1293	fifteen	FIFTEEN	1709		fifteen	fifteen 
+960	13-13-104-1	72212320830681898	English	stan1293	twenty	TWENTY	1710		twenty	twenty 
+961	13-13-105-1	72212320244172054	English	stan1293	a hundred	HUNDRED	1634		hundred	hundred 
+962	13-13-106-1	72212320909089964	English	stan1293	a thousand	THOUSAND	1843		thousand	thousand 
+963	13-13-107-1	72212320149392324	English	stan1293	to count	COUNT	1420		count	count 
+964	13-13-14-1	72212320862168296	English	stan1293	all	ALL	98		all	all 
+965	13-13-15-1	7221232029666630	English	stan1293	many	MANY	1198		many	many 
+966	13-13-16-1	72212320164739448	English	stan1293	more	MORE	1992		more	more 
+967	13-13-17-1	72212320186989956	English	stan1293	few	FEW	1242		few	few 
+968	13-13-18-1	72212320881527064	English	stan1293	enough	ENOUGH	1881		enough	enough 
+969	13-13-181-1	7221232044662326	English	stan1293	some	SOME	1241		some	some 
+970	13-13-19-1	72212320706516519	English	stan1293	the crowd	CROWD	2023		crowd	crowd 
+971	13-13-21-1	72212320888466969	English	stan1293	full	FULL	1429		full	full 
+972	13-13-22-1	72212320877784684	English	stan1293	empty	EMPTY	1624		empty	empty 
+973	13-13-23-1	72212320500639886	English	stan1293	the part	PART	779		part	part 
+974	13-13-24-1	72212320815834071	English	stan1293	the half	HALF	816		half	half 
+975	13-13-33-1	72212320928633912	English	stan1293	only	ONLY	1580		only	only 
+976	13-13-34-1	72212320330697375	English	stan1293	first	FIRST	728		first	first 
+977	13-13-35-1	72212320611496492	English	stan1293	last	LAST (FINAL)	1529		last	last 
+978	13-13-36-1	72212320920264047	English	stan1293	second	SECOND	1384		second	second 
+979	13-13-37-1	72212320490912053	English	stan1293	the pair	PAIR	1888		pair	pair 
+980	13-13-38-1	72212320605747027	English	stan1293	twice/two times	TWICE	1546		twice	twice 
+981	13-13-42-1	72212320118466122	English	stan1293	third	THIRD	1859		third	third 
+982	13-14-11-1	72212320511031452	English	stan1293	the time	TIME	892		time	time 
+983	13-14-12-1	72212320490063866	English	stan1293	the age	AGE	1789		age	age 
+984	13-14-13-1	72212320449781714	English	stan1293	new	NEW	1231		new	new 
+985	13-14-14-1	72212320126688045	English	stan1293	young	YOUNG	1207		young	young 
+986	13-14-15-1	72212320884206804	English	stan1293	old	OLD	1229		old	old 
+987	13-14-16-1	722123206163514	English	stan1293	early	EARLY	672		early	early 
+988	13-14-17-1	72212320409026412	English	stan1293	late	LATE	477		late	late 
+989	13-14-18-1	72212320538567519	English	stan1293	now	NOW	1376		now	now 
+990	13-14-19-1	72212320204955905	English	stan1293	immediately	IMMEDIATELY	1963		immediately	immediately 
+991	13-14-21-1	72212320961587866	English	stan1293	fast	FAST	1631		fast	fast 
+992	13-14-21-2	72212320851971907	English	stan1293	fast	FAST	1631		quick	quick 
+993	13-14-22-1	72212320464855329	English	stan1293	slow	SLOW	701		slow	slow 
+994	13-14-23-1	7221232061168886	English	stan1293	to hurry	HURRY	754		hurry	hurry 
+995	13-14-24-1	72212320409026412	English	stan1293	to be late	BE LATE	425		late	late 
+996	13-14-25-1	72212320467318404	English	stan1293	to begin	BEGIN	1806		begin	begin 
+997	13-14-25-2	72212320291133129	English	stan1293	to begin	BEGIN	1806		start	start 
+998	13-14-252-1	72212320976024760	English	stan1293	to last	LAST (ENDURE)	1186		to last	to last 
+999	13-14-26-1	72212320415337941	English	stan1293	the end(2)	END (OF TIME)	743		end	end 
+1000	13-14-27-1	72212320483711425	English	stan1293	to finish	FINISH	1766		finish	finish 
+1001	13-14-28-1	72212320754835979	English	stan1293	to cease	CEASE	1928		cease	cease 
+1002	13-14-29-1	72212320281856624	English	stan1293	ready	READY	790		ready	ready 
+1003	13-14-31-1	72212320400274978	English	stan1293	always	ALWAYS	1676		always	always 
+1004	13-14-32-1	7221232080213449	English	stan1293	often	OFTEN	1852		often	often 
+1005	13-14-33-1	7221232080154570	English	stan1293	sometimes	SOMETIMES	1544		sometimes	sometimes 
+1006	13-14-331-1	72212320814571911	English	stan1293	soon	SOON	703		soon	soon 
+1007	13-14-34-1	72212320671868372	English	stan1293	never	NEVER	1656		never	never 
+1008	13-14-35-1	7221232032567929	English	stan1293	again	AGAIN	204		again	again 
+1009	13-14-41-1	72212320390370235	English	stan1293	the day(1)	DAY (24 HOURS)	1260		day	day 
+1010	13-14-42-1	72212320209843050	English	stan1293	the night	NIGHT	1233		night	night 
+1011	13-14-43-1	72212320248506554	English	stan1293	the dawn	DAWN	729		dawn	dawn 
+1012	13-14-44-1	72212320663968857	English	stan1293	the morning	MORNING	1339		morning	morning 
+1013	13-14-45-1	72212320659848764	English	stan1293	the midday	MIDDAY	12		midday	midday 
+1014	13-14-45-2	72212320380649594	English	stan1293	the midday	MIDDAY	12		noon	noon 
+1015	13-14-451-1	72212320244355175	English	stan1293	the afternoon	AFTERNOON	1807		afternoon	afternoon 
+1016	13-14-46-1	72212320838179927	English	stan1293	the evening	EVENING	1629		evening	evening 
+1017	13-14-47-1	72212320902950260	English	stan1293	today	TODAY	1283		today	today 
+1018	13-14-48-1	72212320713117626	English	stan1293	tomorrow	TOMORROW	1329		tomorrow	tomorrow 
+1019	13-14-49-1	72212320852300540	English	stan1293	yesterday	YESTERDAY	1174		yesterday	yesterday 
+1020	13-14-51-1	7221232061949848	English	stan1293	the hour	HOUR	1353		hour	hour 
+1021	13-14-53-1	72212320913097114	English	stan1293	the clock	CLOCK	1323		clock	clock 
+1022	13-14-61-1	72212320957174883	English	stan1293	the week	WEEK	1469		week	week 
+1023	13-14-62-1	72212320278823321	English	stan1293	Sunday	SUNDAY	1699		Sunday	Sunday 
+1024	13-14-63-1	72212320589793401	English	stan1293	Monday	MONDAY	1697		Monday	Monday 
+1025	13-14-64-1	72212320864704382	English	stan1293	Tuesday	TUESDAY	1695		Tuesday	Tuesday 
+1026	13-14-65-1	72212320222965086	English	stan1293	Wednesday	WEDNESDAY	1694		Wednesday	Wednesday 
+1027	13-14-66-1	72212320782062967	English	stan1293	Thursday	THURSDAY	1693		Thursday	Thursday 
+1028	13-14-67-1	72212320327212806	English	stan1293	Friday	FRIDAY	1692		Friday	Friday 
+1029	13-14-68-1	72212320184881495	English	stan1293	Saturday	SATURDAY	1700		Saturday	Saturday 
+1030	13-14-71-1	72212320263678129	English	stan1293	the month	MONTH	1370		month	month 
+1031	13-14-73-1	72212320125989059	English	stan1293	the year	YEAR	1226		year	year 
+1032	13-14-74-1	72212320640450797	English	stan1293	the winter	WINTER	1471		winter	winter 
+1033	13-14-75-1	72212320343848176	English	stan1293	the spring(2)	SPRINGTIME	1537		spring	spring 
+1034	13-14-76-1	72212320947870904	English	stan1293	the summer	SUMMER	1342		summer	summer 
+1035	13-14-77-1	72212320845403958	English	stan1293	the autumn/fall	AUTUMN	1276		autumn	autumn 
+1036	13-14-78-1	72212320332479703	English	stan1293	the season	SEASON	691		season	season 
+1037	13-15-21-1	72212320837757555	English	stan1293	to smell(1)	SMELL (STINK)	1587		smell	smell 
+1038	13-15-89-1	722123207740423	English	stan1293	wrinkled	WRINKLED	380		wrinkled	wrinkled 
+1039	13-15-212-1	72212320129960458	English	stan1293	to sniff	SNIFF	375		sniff	sniff 
+1040	13-15-22-1	72212320837757555	English	stan1293	to smell(2)	SMELL (PERCEIVE)	1586		smell	smell 
+1041	13-15-25-1	72212320657156942	English	stan1293	fragrant	FRAGRANT	376		fragrant	fragrant 
+1042	13-15-26-1	72212320473156649	English	stan1293	stinking	STINKING	42		stinking	stinking 
+1043	13-15-31-1	72212320414809625	English	stan1293	to taste	TASTE (SOMETHING)	21		taste	taste 
+1044	13-15-35-1	72212320322663410	English	stan1293	sweet	SWEET	717		sweet	sweet 
+1045	13-15-36-1	72212320240146970	English	stan1293	salty	SALTY	1091		salty	salty 
+1046	13-15-37-1	72212320111512937	English	stan1293	bitter	BITTER	887		bitter	bitter 
+1047	13-15-38-1	72212320287493412	English	stan1293	sour	SOUR	1906		sour	sour 
+1048	13-15-39-1	72212320374127492	English	stan1293	brackish	BRACKISH	70		brackish	brackish 
+1049	13-15-41-1	72212320405595777	English	stan1293	to hear	HEAR	1408		hear	hear 
+1050	13-15-42-1	72212320928760562	English	stan1293	to listen	LISTEN	1608		listen	listen 
+1051	13-15-44-1	72212320425265885	English	stan1293	the sound or noise	SOUND OR NOISE	1811		sound	sound 
+1052	13-15-45-1	7221232090865398	English	stan1293	loud	LOUD	377		loud	loud 
+1053	13-15-46-1	72212320488207650	English	stan1293	quiet	QUIET	1314		quiet	quiet 
+1054	13-15-51-1	72212320578788985	English	stan1293	to see	SEE	1409		see	see 
+1055	13-15-52-1	72212320788162155	English	stan1293	to look	LOOK	1819		look	look 
+1056	13-15-55-1	72212320946640612	English	stan1293	to show	SHOW	1039		show	show 
+1057	13-15-56-1	72212320592240692	English	stan1293	to shine	SHINE	708		shine	shine 
+1058	13-15-57-1	72212320400948507	English	stan1293	bright	BRIGHT	679		bright	bright 
+1059	13-15-61-1	72212320454078847	English	stan1293	the colour/color	COLOR	1613		colour	colour 
+1060	13-15-62-1	72212320669657729	English	stan1293	light(2)	LIGHT (COLOR)	250		light	light 
+1061	13-15-63-1	72212320714710713	English	stan1293	dark	DARK	706		dark	dark 
+1062	13-15-64-1	72212320915902754	English	stan1293	white	WHITE	1335		white	white 
+1063	13-15-65-1	72212320208412356	English	stan1293	black	BLACK	163		black	black 
+1064	13-15-66-1	72212320497672943	English	stan1293	red	RED	156		red	red 
+1065	13-15-67-1	72212320162234834	English	stan1293	blue	BLUE	837		blue	blue 
+1066	13-15-68-1	72212320308146726	English	stan1293	green	GREEN	1425		green	green 
+1067	13-15-69-1	72212320646134315	English	stan1293	yellow	YELLOW	1424		yellow	yellow 
+1068	13-15-71-1	72212320976873009	English	stan1293	to touch	TOUCH	1892		touch	touch 
+1069	13-15-712-1	72212320810860559	English	stan1293	to pinch	PINCH	378		pinch	pinch 
+1070	13-15-72-1	72212320568925310	English	stan1293	to feel	FEEL	1079		feel	feel 
+1071	13-15-74-1	72212320141561031	English	stan1293	hard	HARD	1884		hard	hard 
+1072	13-15-75-1	7221232069514150	English	stan1293	soft	SOFT	1856		soft	soft 
+1073	13-15-76-1	72212320320755256	English	stan1293	rough(1)	ROUGH	1923		rough	rough 
+1074	13-15-77-1	72212320925181057	English	stan1293	smooth	SMOOTH	1234		smooth	smooth 
+1075	13-15-78-1	72212320751836054	English	stan1293	sharp	SHARP	1396		sharp	sharp 
+1076	13-15-79-1	72212320686851884	English	stan1293	blunt	BLUNT	379		blunt	blunt 
+1077	13-15-79-2	72212320750511359	English	stan1293	blunt	BLUNT	379		dull	dull 
+1078	13-15-81-1	7221232044290798	English	stan1293	heavy	HEAVY	1210		heavy	heavy 
+1079	13-15-82-1	72212320183147829	English	stan1293	light(1)	LIGHT (WEIGHT)	1052		light	light 
+1080	13-15-83-1	72212320349830330	English	stan1293	wet	WET	1726		wet	wet 
+1081	13-15-84-1	72212320409817680	English	stan1293	dry	DRY	1398		dry	dry 
+1082	13-15-85-1	72212320670113312	English	stan1293	hot	HOT	1286		hot	hot 
+1083	13-15-851-1	72212320622438934	English	stan1293	warm	WARM	1232		warm	warm 
+1084	13-15-86-1	7221232074686928	English	stan1293	cold	COLD	1287		cold	cold 
+1085	13-15-87-1	72212320362340676	English	stan1293	clean	CLEAN	704		clean	clean 
+1086	13-15-88-1	72212320610764127	English	stan1293	dirty	DIRTY	1230		dirty	dirty 
+1087	13-16-11-1	72212320625213548	English	stan1293	the soul or spirit	SOUL	811		soul	soul 
+1088	13-16-11-2	72212320228048768	English	stan1293	the soul or spirit	SOUL	811		spirit	spirit 
+1089	13-16-15-1	72212320789592274	English	stan1293	surprised or astonished	SURPRISED	1572		surprised	surprised 
+1090	13-16-15-2	72212320629873137	English	stan1293	surprised or astonished	SURPRISED	1572		astonished	astonished 
+1091	13-16-18-1	7221232048979846	English	stan1293	the good luck	GOOD LUCK	720		(good) luck	(good) luck 
+1092	13-16-23-1	72212320493799300	English	stan1293	happy	HAPPY	1495		happy	happy 
+1093	13-16-23-2	72212320801588315	English	stan1293	happy	HAPPY	1495		glad	glad 
+1094	13-16-25-1	72212320698081459	English	stan1293	to laugh	LAUGH	1355		laugh	laugh 
+1095	13-16-251-1	72212320531020850	English	stan1293	to smile	SMILE	1451		smile	smile 
+1096	13-16-26-1	72212320628609751	English	stan1293	to play	PLAY	1413		play	play 
+1097	13-16-27-1	72212320935401506	English	stan1293	to love	LOVE	923		love	love 
+1098	13-16-29-1	722123203440239	English	stan1293	to kiss	KISS	578		kiss	kiss 
+1099	13-16-3-1	72212320551184212	English	stan1293	to embrace	EMBRACE	928		embrace	embrace 
+1100	13-16-3-2	72212320164608573	English	stan1293	to embrace	EMBRACE	928		hug	hug 
+1101	13-16-31-1	72212320407768699	English	stan1293	the pain	PAIN	1783		pain	pain 
+1102	13-16-32-1	72212320328377060	English	stan1293	the grief	GRIEF	1668		grief	grief 
+1103	13-16-33-1	72212320593518979	English	stan1293	the anxiety	ANXIETY	1000		anxiety	anxiety 
+1104	13-16-33-2	72212320899089466	English	stan1293	the anxiety	ANXIETY	1000		worry	worry 
+1105	13-16-34-1	72212320728533876	English	stan1293	to regret or be sorry	REGRET	1875		regret	regret 
+1106	13-16-34-2	72212320341144089	English	stan1293	to regret or be sorry	REGRET	1875		sorry	sorry 
+1107	13-16-35-1	72212320183766152	English	stan1293	the pity	PITY	1141		pity	pity 
+1108	13-16-37-1	72212320836492996	English	stan1293	to cry	CRY	1839		cry	cry 
+1109	13-16-37-2	72212320570900346	English	stan1293	to cry	CRY	1839		weep	weep 
+1110	13-16-38-1	72212320494708725	English	stan1293	the tear	TEAR (OF EYE)	1651		tear	tear 
+1111	13-16-39-1	72212320786117552	English	stan1293	to groan	GROAN	716		groan	groan 
+1112	13-16-41-1	72212320799408533	English	stan1293	to hate	HATE	1607		hate	hate 
+1113	13-16-42-1	7221232035953969	English	stan1293	the anger	ANGER	82		anger	anger 
+1114	13-16-44-1	72212320279101914	English	stan1293	the envy or jealousy	ENVY	40		envy	envy 
+1115	13-16-44-2	72212320990619698	English	stan1293	the envy or jealousy	ENVY	40		jealous	jealous 
+1116	13-16-45-1	72212320624577846	English	stan1293	the shame	SHAME	1776		shame	shame 
+1117	13-16-48-1	72212320756119871	English	stan1293	proud	PROUD	174		proud	proud 
+1118	13-16-51-1	72212320576512252	English	stan1293	to dare	DARE	1779		dare	dare 
+1119	13-16-52-1	72212320292947363	English	stan1293	brave	BRAVE	3		brave	brave 
+1120	13-16-53-1	72212320654440835	English	stan1293	the fear	FEAR (FRIGHT)	781		fear	fear 
+1121	13-16-54-1	72212320665853555	English	stan1293	the danger	DANGER	1810		danger	danger 
+1122	13-16-62-1	7221232034501632	English	stan1293	to want	WANT	1784		want	want 
+1123	13-16-622-1	72212320158981244	English	stan1293	to choose	CHOOSE	1750		choose	choose 
+1124	13-16-63-1	72212320610461609	English	stan1293	to hope	HOPE (SOMETHING)	3212		hope	hope 
+1125	13-16-65-1	722123207139800	English	stan1293	faithful	FAITHFUL	100		faithful	faithful 
+1126	13-16-66-1	72212320529959608	English	stan1293	true	TRUE	1657		true	true 
+1127	13-16-67-1	72212320481141248	English	stan1293	to lie(2)	LIE (MISLEAD)	601		lie	lie 
+1128	13-16-68-1	72212320691674753	English	stan1293	the deceit	DECEIT	13		deceit	deceit 
+1129	13-16-68-2	72212320328670396	English	stan1293	the deceit	DECEIT	13		falsity	falsity 
+1130	13-16-69-1	72212320173896804	English	stan1293	to forgive	FORGIVE	1528		forgive	forgive 
+1131	13-16-69-2	72212320616033894	English	stan1293	to forgive	FORGIVE	1528		pardon	pardon 
+1132	13-16-71-1	72212320512590008	English	stan1293	good	GOOD	1035		good	good 
+1133	13-16-72-1	72212320508529763	English	stan1293	bad	BAD	1292		bad	bad 
+1134	13-16-73-1	72212320987468094	English	stan1293	right(2)	CORRECT (RIGHT)	1725		right	right 
+1135	13-16-74-1	72212320613005481	English	stan1293	wrong	WRONG	1390		wrong	wrong 
+1136	13-16-76-1	7221232024511082	English	stan1293	the fault	FAULT	134		fault	fault 
+1137	13-16-77-1	72212320732264460	English	stan1293	the mistake	MISTAKE	1293		mistake	mistake 
+1138	13-16-78-1	72212320241338898	English	stan1293	the blame	BLAME	381		blame	blame 
+1139	13-16-79-1	72212320153946247	English	stan1293	the praise	PRAISE	1687		praise	praise 
+1140	13-16-81-1	72212320936158979	English	stan1293	beautiful	BEAUTIFUL	1427		beautiful	beautiful 
+1141	13-16-82-1	72212320400671917	English	stan1293	ugly	UGLY	1548		ugly	ugly 
+1142	13-16-83-1	72212320343565458	English	stan1293	greedy	GREEDY	2018		greedy	greedy 
+1143	13-16-84-1	72212320467828588	English	stan1293	clever	CLEVER	1310		clever	clever 
+1144	13-16-84-2	72212320656992153	English	stan1293	clever	CLEVER	1310		smart	smart 
+1145	13-17-11-1	72212320501277325	English	stan1293	the mind	MIND	1562		mind	mind 
+1146	13-17-13-1	72212320419619846	English	stan1293	to think(1)	THINK (REFLECT)	1415		think	think 
+1147	13-17-14-1	72212320419619846	English	stan1293	to think(2)	THINK (BELIEVE)	1513		think	think 
+1148	13-17-15-1	72212320421300411	English	stan1293	to believe	BELIEVE	1890		believe	believe 
+1149	13-17-16-1	72212320200332267	English	stan1293	to understand	UNDERSTAND	1536		understand	understand 
+1150	13-17-17-1	72212320120906295	English	stan1293	to know	KNOW (SOMETHING)	1410		know	know 
+1151	13-17-171-1	72212320316342422	English	stan1293	to guess	GUESS	1932		guess	guess 
+1152	13-17-172-1	72212320865710137	English	stan1293	to imitate	IMITATE	117		imitate	imitate 
+1153	13-17-18-1	72212320664669895	English	stan1293	to seem	SEEM	1521		seem	seem 
+1154	13-17-19-1	72212320812754434	English	stan1293	the idea	IDEA	1609		idea	idea 
+1155	13-17-21-1	72212320653811220	English	stan1293	wise	WISE	698		wise	wise 
+1156	13-17-22-1	72212320524287327	English	stan1293	stupid	STUPID	1518		stupid	stupid 
+1157	13-17-23-1	7221232018761314	English	stan1293	mad	MAD	1899		mad	mad 
+1158	13-17-24-1	72212320543592700	English	stan1293	to learn	LEARN	504		learn	learn 
+1159	13-17-242-1	72212320167028658	English	stan1293	to study	STUDY	1929		study	study 
+1160	13-17-25-1	72212320360125580	English	stan1293	to teach	TEACH	709		teach	teach 
+1161	13-17-26-1	72212320885136417	English	stan1293	the pupil	PUPIL (STUDENT)	753		pupil	pupil 
+1162	13-17-27-1	72212320695980683	English	stan1293	the teacher	TEACHER	1038		teacher	teacher 
+1163	13-17-28-1	72212320868819648	English	stan1293	the school	SCHOOL	673		school	school 
+1164	13-17-31-1	72212320698053921	English	stan1293	to remember	REMEMBER	707		remember	remember 
+1165	13-17-32-1	72212320684746494	English	stan1293	to forget	FORGET	1523		forget	forget 
+1166	13-17-34-1	72212320107217355	English	stan1293	clear	CLEAR	989		clear	clear 
+1167	13-17-35-1	72212320554264863	English	stan1293	obscure	OBSCURE	1764		obscure	obscure 
+1168	13-17-36-1	72212320917337383	English	stan1293	secret	SECRET	1121		secret	secret 
+1169	13-17-37-1	72212320888473553	English	stan1293	certain	CERTAIN	509		certain	certain 
+1170	13-17-37-2	72212320559049287	English	stan1293	certain	CERTAIN	509		sure	sure 
+1171	13-17-38-1	72212320382335081	English	stan1293	to explain	EXPLAIN	1626		explain	explain 
+1172	13-17-41-1	72212320982287805	English	stan1293	the intention	INTENTION	1162		intention	intention 
+1173	13-17-42-1	72212320798066756	English	stan1293	the cause	CAUSE	860		cause	cause 
+1174	13-17-43-1	72212320426955584	English	stan1293	the doubt	DOUBT	1308		doubt	doubt 
+1175	13-17-44-1	72212320176758502	English	stan1293	to suspect	SUSPECT	1841		suspect	suspect 
+1176	13-17-441-1	72212320440924373	English	stan1293	to betray	BETRAY	1902		betray	betray 
+1177	13-17-45-1	72212320329583114	English	stan1293	the need or necessity	NEED (NOUN)	643		need	need 
+1178	13-17-45-2	72212320281145603	English	stan1293	the need or necessity	NEED (NOUN)	643		necessity	necessity 
+1179	13-17-46-1	72212320219566403	English	stan1293	easy	EASY	686		easy	easy 
+1180	13-17-47-1	72212320500292812	English	stan1293	difficult	DIFFICULT	584		difficult	difficult 
+1181	13-17-48-1	72212320647570018	English	stan1293	to try	TRY	1812		try	try 
+1182	13-17-49-1	72212320139179066	English	stan1293	the manner	MANNER	488		manner	manner 
+1183	13-17-49-2	72212320912652997	English	stan1293	the manner	MANNER	488		way	way 
+1184	13-17-51-1	72212320461798739	English	stan1293	and	AND	1577		and	and 
+1185	13-17-52-1	72212320602300070	English	stan1293	because	BECAUSE	1157		because	because 
+1186	13-17-53-1	72212320782159797	English	stan1293	if	IF	1459		if	if 
+1187	13-17-54-1	72212320547261992	English	stan1293	or	OR	1014		or	or 
+1188	13-17-55-1	72212320690172	English	stan1293	yes	YES	1268		yes	yes 
+1189	13-17-56-1	72212320319427726	English	stan1293	no	NO	1269		no	no 
+1190	13-17-61-1	72212320514799570	English	stan1293	how?	HOW	1239		how?	how? 
+1191	13-17-62-1	72212320730460160	English	stan1293	how many?	HOW MANY	822		how many?	how many? 
+1192	13-17-63-1	72212320488016708	English	stan1293	how much?	HOW MUCH	531		how much?	how much? 
+1193	13-17-64-1	72212320144328036	English	stan1293	what?	WHAT	1236		what?	what? 
+1194	13-17-65-1	72212320607113384	English	stan1293	when?	WHEN	1238		when?	when? 
+1195	13-17-66-1	72212320182820126	English	stan1293	where?	WHERE	1237		where?	where? 
+1196	13-17-67-1	72212320841675469	English	stan1293	which?	WHICH	727		which?	which? 
+1197	13-17-68-1	72212320578028561	English	stan1293	who?	WHO	1235		who?	who? 
+1198	13-17-69-1	7221232051327088	English	stan1293	why?	WHY	1270		why?	why? 
+1199	13-18-11-1	7221232023540023	English	stan1293	the voice	VOICE	1363		voice	voice 
+1200	13-18-12-1	72212320228688323	English	stan1293	to sing	SING	1261		sing	sing 
+1201	13-18-13-1	72212320547117945	English	stan1293	to shout	SHOUT	715		shout	shout 
+1202	13-18-15-1	72212320247716105	English	stan1293	to whisper	WHISPER	55		whisper	whisper 
+1203	13-18-16-1	72212320384444705	English	stan1293	to mumble	MUMBLE	128		mumble	mumble 
+1204	13-18-17-1	72212320632257648	English	stan1293	to whistle	WHISTLE	1025		whistle	whistle 
+1205	13-18-18-1	72212320389815396	English	stan1293	to shriek	SHRIEK	298		shriek	shriek 
+1206	13-18-19-1	72212320483771043	English	stan1293	to howl	HOWL	526		howl	howl 
+1207	13-18-21-1	7221232038807322	English	stan1293	to speak or talk	SPEAK	1623		speak	speak 
+1208	13-18-21-2	7221232079307813	English	stan1293	to speak or talk	SPEAK	1623		talk	talk 
+1209	13-18-211-1	72212320542262196	English	stan1293	to stutter or stammer	STUTTER	1866		stammer	stammer 
+1210	13-18-211-2	72212320876325907	English	stan1293	to stutter or stammer	STUTTER	1866		stutter	stutter 
+1211	13-18-22-1	72212320799905227	English	stan1293	to say	SAY	1458		say	say 
+1212	13-18-221-1	72212320479635947	English	stan1293	to tell	TELL	1711		tell	tell 
+1213	13-18-222-1	72212320929319620	English	stan1293	the speech	SPEECH	1115		speech	speech 
+1214	13-18-23-1	72212320324327065	English	stan1293	to be silent	BE SILENT	48		(be) silent	(be) silent 
+1215	13-18-24-1	72212320226419928	English	stan1293	the language	LANGUAGE	1307		language	language 
+1216	13-18-26-1	72212320353390195	English	stan1293	the word	WORD	1599		word	word 
+1217	13-18-28-1	72212320549958615	English	stan1293	the name	NAME	1405		name	name 
+1218	13-18-31-1	72212320456211161	English	stan1293	to ask(1)	ASK (INQUIRE)	1309		ask (1)	ask (1) 
+1219	13-18-32-1	72212320968927849	English	stan1293	to answer	ANSWER	1275		answer	answer 
+1220	13-18-32-2	72212320680905227	English	stan1293	to answer	ANSWER	1275		reply	reply 
+1221	13-18-33-1	72212320137025783	English	stan1293	to admit	ADMIT	2022		admit	admit 
+1222	13-18-34-1	72212320723710303	English	stan1293	to deny	DENY	755		deny	deny 
+1223	13-18-35-1	72212320345192820	English	stan1293	to ask(2)	ASK (REQUEST)	1828		ask (2)	ask (2) 
+1224	13-18-36-1	72212320330445065	English	stan1293	to promise	PROMISE	1675		promise	promise 
+1225	13-18-37-1	72212320159103387	English	stan1293	to refuse	REFUSE	49		refuse	refuse 
+1226	13-18-38-1	72212320620043258	English	stan1293	to forbid	FORBID	83		forbid	forbid 
+1227	13-18-39-1	72212320602185781	English	stan1293	to scold	SCOLD	299		scold	scold 
+1228	13-18-41-1	72212320454970982	English	stan1293	to call(1)	CALL	1084		call (1)	call (1) 
+1229	13-18-42-1	72212320801423348	English	stan1293	to call(2)	CALL BY NAME	180		call (2)	call (2) 
+1230	13-18-43-1	722123209600279	English	stan1293	to announce	ANNOUNCE	9		announce	announce 
+1231	13-18-44-1	72212320984520277	English	stan1293	to threaten	THREATEN	1192		threaten	threaten 
+1232	13-18-45-1	72212320851711592	English	stan1293	to boast	BOAST	101		boast	boast 
+1233	13-18-51-1	72212320585421438	English	stan1293	to write	WRITE	1672		write	write 
+1234	13-18-52-1	72212320634544336	English	stan1293	to read	READ	724		read	read 
+1235	13-18-56-1	72212320746717125	English	stan1293	the paper	PAPER	648		paper	paper 
+1236	13-18-57-1	72212320658416033	English	stan1293	the pen	PEN	794		pen	pen 
+1237	13-18-61-1	72212320957492038	English	stan1293	the book	BOOK	963		book	book 
+1238	13-18-67-1	72212320417627107	English	stan1293	the poet	POET	1045		poet	poet 
+1239	13-18-71-1	72212320719636482	English	stan1293	the flute	FLUTE	777		flute	flute 
+1240	13-18-72-1	72212320208045720	English	stan1293	the drum	DRUM	908		drum	drum 
+1241	13-18-73-1	72212320500457584	English	stan1293	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		trumpet	trumpet 
+1242	13-18-74-1	72212320504600445	English	stan1293	the rattle	RATTLE	300		rattle	rattle 
+1243	13-19-11-1	72212320677767185	English	stan1293	the country	COUNTRY	1300		country	country 
+1244	13-19-12-1	72212320492551054	English	stan1293	the native country	NATIVE COUNTRY	89		homeland	homeland 
+1245	13-19-15-1	72212320950933561	English	stan1293	the town	TOWN	1391		town	town 
+1246	13-19-15-2	72212320402275770	English	stan1293	the town	TOWN	1391		city	city 
+1247	13-19-16-1	72212320469378491	English	stan1293	the village	VILLAGE	930		village	village 
+1248	13-19-17-1	7221232099729813	English	stan1293	the boundary	BOUNDARY	1010		boundary	boundary 
+1249	13-19-21-1	72212320729880046	English	stan1293	the people	PEOPLE	789		people	people 
+1250	13-19-23-1	72212320937438371	English	stan1293	the clan	CLAN	302		clan	clan 
+1251	13-19-24-1	72212320202995859	English	stan1293	the chieftain	CHIEFTAIN	301		chieftain	chieftain 
+1252	13-19-25-1	7221232057460059	English	stan1293	the walking stick	WALKING STICK	1296		stick	stick 
+1253	13-19-31-1	72212320197360722	English	stan1293	to rule or govern	RULE	1846		rule	rule 
+1254	13-19-31-2	7221232035137217	English	stan1293	to rule or govern	RULE	1846		govern	govern 
+1255	13-19-32-1	7221232044785372	English	stan1293	the king	KING	1508		king	king 
+1256	13-19-33-1	72212320121417834	English	stan1293	the queen	QUEEN	1306		queen	queen 
+1257	13-19-36-1	72212320931672696	English	stan1293	the noble	NOBLE	482		noble	noble 
+1258	13-19-37-1	72212320317980427	English	stan1293	the citizen	CITIZEN	1032		citizen	citizen 
+1259	13-19-41-1	72212320145849690	English	stan1293	the master	MASTER	383		master	master 
+1260	13-19-42-1	72212320488509651	English	stan1293	the slave	SLAVE	812		slave	slave 
+1261	13-19-43-1	7221232020774381	English	stan1293	the servant	SERVANT	255		servant	servant 
+1262	13-19-44-1	72212320167267759	English	stan1293	the freeman	FREEMAN	384		freeman	freeman 
+1263	13-19-45-1	72212320539178656	English	stan1293	to command or order	ORDER	1128		order	order 
+1264	13-19-45-2	7221232067746071	English	stan1293	to command or order	ORDER	1128		command	command 
+1265	13-19-46-1	72212320915219809	English	stan1293	to obey	OBEY	1635		obey	obey 
+1266	13-19-47-1	7221232030916223	English	stan1293	to permit	PERMIT	1003		allow	allow 
+1267	13-19-51-1	72212320863631446	English	stan1293	the friend	FRIEND	1325		friend	friend 
+1268	13-19-52-1	72212320483394104	English	stan1293	the enemy	ENEMY	1358		enemy	enemy 
+1269	13-19-54-1	72212320228137100	English	stan1293	the neighbour	NEIGHBOUR	1332		neighbour	neighbour 
+1270	13-19-55-1	72212320473223562	English	stan1293	the stranger	STRANGER	791		stranger	stranger 
+1271	13-19-56-1	72212320385827147	English	stan1293	the guest	GUEST	1782		guest	guest 
+1272	13-19-57-1	72212320100583095	English	stan1293	the host	HOST	1545		host	host 
+1273	13-19-58-1	7221232093784858	English	stan1293	to help	HELP	1897		help	help 
+1274	13-19-59-1	72212320313810219	English	stan1293	to prevent	PREVENT	1550		prevent	prevent 
+1275	13-19-61-1	72212320930392203	English	stan1293	the custom	CUSTOM	1747		custom	custom 
+1276	13-19-62-1	72212320598044621	English	stan1293	the quarrel	QUARREL	1848		quarrel	quarrel 
+1277	13-19-63-1	72212320308530800	English	stan1293	the plot	PLOT	2024		plot	plot 
+1278	13-19-65-1	72212320180085622	English	stan1293	to meet	MEET	1831		meet	meet 
+1279	13-19-72-1	72212320408251629	English	stan1293	the prostitute	PROSTITUTE	1610		prostitute	prostitute 
+1280	13-20-11-1	72212320284532811	English	stan1293	to fight	FIGHT	1423		fight	fight 
+1281	13-20-13-1	72212320897058797	English	stan1293	the war or battle	BATTLE	579		war	war 
+1282	13-20-13-2	72212320351973365	English	stan1293	the war or battle	BATTLE	579		battle	battle 
+1283	13-20-14-1	72212320415646857	English	stan1293	the peace	PEACE	1338		peace	peace 
+1284	13-20-15-1	72212320976352491	English	stan1293	the army	ARMY	1561		army	army 
+1285	13-20-17-1	722123209223777	English	stan1293	the soldier	SOLDIER	1941		soldier	soldier 
+1286	13-20-21-1	72212320276370423	English	stan1293	the weapons	WEAPONS	951		weapons	weapons 
+1287	13-20-22-1	72212320559072317	English	stan1293	the club	CLUB	1763		club	club 
+1288	13-20-222-1	72212320912982506	English	stan1293	the battle-axe	BATTLE-AXE	386		battle-axe	battle-axe 
+1289	13-20-23-1	72212320635764630	English	stan1293	the sling	SLING	387		sling	sling 
+1290	13-20-24-1	72212320494489739	English	stan1293	the bow	BOW	994		bow	bow 
+1291	13-20-25-1	72212320230120322	English	stan1293	the arrow	ARROW	977		arrow	arrow 
+1292	13-20-26-1	72212320129932206	English	stan1293	the spear	SPEAR	945		spear	spear 
+1293	13-20-27-1	722123207350656	English	stan1293	the sword	SWORD	1535		sword	sword 
+1294	13-20-28-1	72212320145618122	English	stan1293	the gun	GUN	1566		gun	gun 
+1295	13-20-31-1	72212320300523381	English	stan1293	the armour	ARMOUR	1061		armour	armour 
+1296	13-20-33-1	72212320775588438	English	stan1293	the helmet	HELMET	1680		helmet	helmet 
+1297	13-20-34-1	72212320550532889	English	stan1293	the shield	SHIELD	1064		shield	shield 
+1298	13-20-35-1	72212320483626470	English	stan1293	the fortress	FORTRESS	1938		fortress	fortress 
+1299	13-20-35-2	72212320202139143	English	stan1293	the fortress	FORTRESS	1938		castle	castle 
+1300	13-20-36-1	72212320238114823	English	stan1293	the tower	TOWER	1671		tower	tower 
+1301	13-20-41-1	7221232055495211	English	stan1293	the victory	VICTORY	783		victory	victory 
+1302	13-20-42-1	72212320473441708	English	stan1293	the defeat	DEFEAT	782		defeat	defeat 
+1303	13-20-43-1	72212320325556187	English	stan1293	the attack	ATTACK	722		attack	attack 
+1304	13-20-44-1	72212320534453602	English	stan1293	to defend	DEFEND	1330		defend	defend 
+1305	13-20-45-1	72212320652592126	English	stan1293	to retreat	RETREAT	421		retreat	retreat 
+1306	13-20-46-1	72212320648777353	English	stan1293	to surrender	SURRENDER	1696		surrender	surrender 
+1307	13-20-47-1	72212320250883677	English	stan1293	the captive or prisoner	PRISONER	1072		prisoner	prisoner 
+1308	13-20-47-2	7221232066434670	English	stan1293	the captive or prisoner	PRISONER	1072		captive	captive 
+1309	13-20-471-1	72212320140021142	English	stan1293	the guard	GUARD	1940		guard	guard 
+1310	13-20-48-1	72212320423515135	English	stan1293	the booty	BOOTY	1022		booty	booty 
+1311	13-20-49-1	72212320194766820	English	stan1293	the ambush	AMBUSH	65		ambush	ambush 
+1312	13-20-51-1	72212320520097249	English	stan1293	the fisherman	FISHERMAN	1858		fisherman	fisherman 
+1313	13-20-52-1	72212320153687446	English	stan1293	the fishhook	FISHHOOK	1074		fishhook	fishhook 
+1314	13-20-53-1	72212320609691008	English	stan1293	the fishing line	FISHING LINE	19		fishing line	fishing line 
+1315	13-20-54-1	72212320502865199	English	stan1293	the fishnet	FISHNET	388		fishing net	fishing net 
+1316	13-20-56-1	72212320436381333	English	stan1293	the bait	BAIT	2013		bait	bait 
+1317	13-20-61-1	72212320917322381	English	stan1293	to hunt	HUNT	1435		hunt	hunt 
+1318	13-20-62-1	72212320490642344	English	stan1293	to shoot	SHOOT	1172		shoot	shoot 
+1319	13-20-63-1	72212320988241439	English	stan1293	to miss	MISS (A TARGET)	161		miss	miss 
+1320	13-20-64-1	72212320519792437	English	stan1293	the trap	TRAP (PITFALL)	1075		trap	trap 
+1321	13-20-65-1	7221232068157827	English	stan1293	to trap	TRAP (CATCH)	1170		trap	trap 
+1322	13-21-11-1	72212320665886218	English	stan1293	the law	LAW	1062		law	law 
+1323	13-21-15-1	72212320625717287	English	stan1293	the court	COURT	1068		court	court 
+1324	13-12-013-1	72212320514885113	English	stan1293	at	AT	1461		at	at 
+1325	13-21-16-1	72212320912175442	English	stan1293	to adjudicate	ADJUDICATE	1818		adjudicate	adjudicate 
+1326	13-21-17-1	72212320370184944	English	stan1293	the judgment	JUDGMENT	1067		judgment	judgment 
+1327	13-21-18-1	72212320460879941	English	stan1293	the judge	JUDGE	861		judge	judge 
+1328	13-21-21-1	72212320336427925	English	stan1293	the plaintiff	PLAINTIFF	2020		plaintiff	plaintiff 
+1329	13-21-22-1	72212320238230710	English	stan1293	the defendant	DEFENDANT	1034		defendant	defendant 
+1330	13-21-23-1	72212320581947042	English	stan1293	the witness	WITNESS	1144		witness	witness 
+1331	13-21-24-1	72212320826948415	English	stan1293	to swear	SWEAR	1939		swear	swear 
+1332	13-21-25-1	7221232056507593	English	stan1293	the oath	OATH	1712		oath	oath 
+1333	13-21-31-1	72212320376400698	English	stan1293	to accuse	ACCUSE	1814		accuse	accuse 
+1334	13-21-32-1	72212320318618589	English	stan1293	to condemn	CONDEMN	484		condemn	condemn 
+1335	13-21-33-1	72212320313372702	English	stan1293	to convict	CONVICT	983		convict	convict 
+1336	13-21-34-1	72212320393147283	English	stan1293	to acquit	ACQUIT	988		acquit	acquit 
+1337	13-21-35-1	72212320174820752	English	stan1293	guilty	GUILTY	1682		guilty	guilty 
+1338	13-21-36-1	72212320333609826	English	stan1293	innocent	INNOCENT	90		innocent	innocent 
+1339	13-21-37-1	72212320485466423	English	stan1293	the penalty or punishment	PUNISHMENT	390		punishment	punishment 
+1340	13-21-38-1	72212320460805690	English	stan1293	the fine	FINE (PENALTY)	218		fine	fine 
+1341	13-21-39-1	72212320250808287	English	stan1293	the prison	PRISON	1281		prison	prison 
+1342	13-21-42-1	7221232083167904	English	stan1293	the murder	MURDER	845		murder	murder 
+1343	13-21-43-1	72212320647638149	English	stan1293	the adultery	ADULTERY	902		adultery	adultery 
+1344	13-21-44-1	72212320460971441	English	stan1293	the rape	RAPE	953		rape	rape 
+1345	13-21-46-1	722123205134056	English	stan1293	the arson	ARSON	1889		arson	arson 
+1346	13-21-47-1	72212320348608208	English	stan1293	the perjury	PERJURY	1792		perjury	perjury 
+1347	13-21-51-1	72212320520394033	English	stan1293	to steal	STEAL	713		steal	steal 
+1348	13-21-52-1	72212320946447068	English	stan1293	the thief	THIEF	1160		thief	thief 
+1349	13-22-11-1	72212320761536836	English	stan1293	the religion	RELIGION	661		religion	religion 
+1350	13-22-12-1	72212320774367885	English	stan1293	the god	DEITY	3231		god	god 
+1351	13-22-13-1	7221232028674167	English	stan1293	the temple	TEMPLE	911		temple	temple 
+1352	13-22-14-1	72212320137588863	English	stan1293	the altar	ALTAR	853		altar	altar 
+1353	13-22-15-1	72212320414684850	English	stan1293	the sacrifice	SACRIFICE	1103		sacrifice	sacrifice 
+1354	13-22-16-1	72212320970193277	English	stan1293	to worship	WORSHIP	257		worship	worship 
+1355	13-22-17-1	72212320105339101	English	stan1293	to pray	PRAY	24		pray	pray 
+1356	13-22-18-1	72212320449430219	English	stan1293	the priest	PRIEST	852		priest	priest 
+1357	13-22-19-1	722123209901825	English	stan1293	holy	HOLY	1702		holy	holy 
+1358	13-22-22-1	72212320358167836	English	stan1293	to preach	PREACH	304		preach	preach 
+1359	13-22-23-1	72212320701355076	English	stan1293	to bless	BLESS	391		bless	bless 
+1360	13-22-24-1	72212320509031831	English	stan1293	to curse	CURSE	8		curse	curse 
+1361	13-22-26-1	72212320998691421	English	stan1293	to fast	ABSTAIN FROM FOOD	303		fast	fast 
+1362	13-22-31-1	72212320457289622	English	stan1293	the heaven	HEAVEN	1565		heaven	heaven 
+1363	13-22-32-1	72212320517557428	English	stan1293	the hell	HELL	878		hell	hell 
+1364	13-22-35-1	72212320121053915	English	stan1293	the demon	DEMON	1973		demon	demon 
+1365	13-22-35-2	72212320159728191	English	stan1293	the demon	DEMON	1973		devil	devil 
+1366	13-22-37-1	72212320810831005	English	stan1293	the idol	IDOL	1945		idol	idol 
+1367	13-22-42-1	72212320933441665	English	stan1293	the magic	MAGIC	392		magic	magic 
+1368	13-22-43-1	72212320330135227	English	stan1293	the sorcerer or witch	MAGICIAN	2137		witch	witch 
+1369	13-22-43-2	72212320303658438	English	stan1293	the sorcerer or witch	MAGICIAN	2137		sorcerer	sorcerer 
+1370	13-22-44-1	72212320673878183	English	stan1293	the fairy or elf	ELF OR FAIRY	3206		fairy	fairy 
+1371	13-22-44-2	72212320639619521	English	stan1293	the fairy or elf	ELF OR FAIRY	3206		elf	elf 
+1372	13-22-45-1	72212320964774855	English	stan1293	the ghost	GHOST	1175		ghost	ghost 
+1373	13-22-47-1	72212320773825751	English	stan1293	the omen	OMEN	107		omen	omen 
+1374	13-23-1-1	72212320586126194	English	stan1293	the radio	RADIO	1315		radio	radio 
+1375	13-23-11-1	72212320544295169	English	stan1293	the television	TELEVISION	1788		television	television 
+1376	13-23-12-1	72212320789393539	English	stan1293	the telephone	TELEPHONE	1379		telephone	telephone 
+1377	13-23-135-1	72212320414521375	English	stan1293	the motorcycle	MOTORCYCLE	638		motorcycle	motorcycle 
+1378	13-23-14-1	72212320486853238	English	stan1293	the car	CAR	1111		car	car 
+1379	13-23-15-1	72212320295447116	English	stan1293	the bus	BUS	1070		bus	bus 
+1380	13-23-16-1	72212320791565167	English	stan1293	the airplane	AIRPLANE	1597		aeroplane	aeroplane 
+1381	13-23-17-1	72212320717643686	English	stan1293	the electricity	ELECTRICITY	59		electricity	electricity 
+1382	13-23-175-1	72212320772762231	English	stan1293	the battery	BATTERY	662		battery	battery 
+1383	13-23-2-1	72212320714932019	English	stan1293	the hospital	HOSPITAL	616		hospital	hospital 
+1384	13-23-21-1	72212320306395795	English	stan1293	the nurse	NURSE	1104		nurse	nurse 
+1385	13-23-22-1	72212320314239971	English	stan1293	the pill or tablet	PILL	395		pill	pill 
+1386	13-23-22-2	72212320846490867	English	stan1293	the pill or tablet	PILL	395		tablet	tablet 
+1387	13-23-23-1	72212320933776094	English	stan1293	the injection	INJECTION	1805		injection	injection 
+1388	13-23-5-1	72212320479730115	English	stan1293	the tap/faucet	FAUCET	1488		tap	tap 
+1389	13-23-51-1	72212320468470370	English	stan1293	the sink	SINK (BASIN)	915		sink	sink 
+1390	13-23-52-1	72212320597783994	English	stan1293	the toilet	TOILET	219		toilet	toilet 
+1391	13-23-53-1	7221232077773854	English	stan1293	the mattress	MATTRESS	105		mattress	mattress 
+1392	13-23-3-1	72212320592301570	English	stan1293	the government	GOVERNMENT	815		government	government 
+1393	13-23-31-1	72212320665489161	English	stan1293	the president	PRESIDENT	899		president	president 
+1394	13-23-32-1	72212320850609761	English	stan1293	the minister	MINISTER	486		minister	minister 
+1395	13-23-33-1	72212320121618607	English	stan1293	the police	POLICE	656		police	police 
+1396	13-23-34-1	72212320659405964	English	stan1293	the driver's license	DRIVER'S LICENSE	599		driving licence	driving licence 
+1397	13-23-37-1	72212320950177104	English	stan1293	the crime	CRIME	1066		crime	crime 
+1398	13-23-38-1	72212320498888288	English	stan1293	the election	ELECTION	240		election	election 
+1399	13-23-4-1	72212320609186007	English	stan1293	the post/mail	MAIL	167		post	post 
+1400	13-23-41-1	72212320895702930	English	stan1293	the postage stamp	POSTAGE STAMP	596		stamp	stamp 
+1401	13-23-42-1	7221232099234456	English	stan1293	the letter	LETTER	1612		letter	letter 
+1402	13-23-44-1	72212320173317861	English	stan1293	the bank	BANK	1284		bank	bank 
+1403	13-23-54-1	72212320261565045	English	stan1293	the tin/can	CAN	1051		tin	tin 
+1404	13-23-55-1	72212320671253103	English	stan1293	the screw	SCREW	1802		screw	screw 
+1405	13-23-555-1	72212320403289106	English	stan1293	the screwdriver	SCREWDRIVER	836		screwdriver	screwdriver 
+1406	13-23-56-1	72212320189539344	English	stan1293	the bottle	BOTTLE	1321		bottle	bottle 
+1407	13-23-565-1	72212320631324573	English	stan1293	the candy/sweets	CANDY	874		sweets	sweets 
+1408	13-23-24-1	72212320261406266	English	stan1293	the spectacles/glasses	SPECTACLES	1898		glasses	glasses 
+1409	13-23-57-1	72212320365594132	English	stan1293	the plastic	PLASTIC	654		plastic	plastic 
+1410	13-23-575-1	72212320563959107	English	stan1293	the bomb	BOMB	1804		bomb	bomb 
+1411	13-23-58-1	72212320570824347	English	stan1293	the workshop	WORKSHOP	1677		workshop	workshop 
+1412	13-23-59-1	72212320149080858	English	stan1293	the cigarette	CIGARETTE	969		cigarette	cigarette 
+1413	13-23-61-1	72212320764923735	English	stan1293	the calendar	CALENDAR	1967		calendar	calendar 
+1414	13-23-62-1	72212320509371160	English	stan1293	the film/movie	MOVIE	216		film	film 
+1415	13-23-63-1	72212320702489771	English	stan1293	the music	MUSIC	642		music	music 
+1416	13-23-64-1	72212320295514885	English	stan1293	the song	SONG	1096		song	song 
+1417	13-23-6-1	72212320717286767	English	stan1293	the newspaper	NEWSPAPER	1298		newspaper	newspaper 
+1418	13-23-385-1	7221232028847297	English	stan1293	the address	ADDRESS	591		address	address 
+1419	13-23-39-1	72212320473516043	English	stan1293	the number	NUMBER	1356		number	number 
+1420	13-23-155-1	72212320318704940	English	stan1293	the train	TRAIN	900		train	train 
+1421	13-23-36-1	7221232029606641	English	stan1293	the birth certificate	BIRTH CERTIFICATE	397		birth certificate	birth certificate 
+1422	13-23-18-1	72212320101710090	English	stan1293	to brake	BRAKE	966		brake	brake 
+1423	13-23-195-1	72212320169844420	English	stan1293	the petroleum	PETROLEUM	650		petrol(eum)	petrol(eum) 
+1424	13-23-185-1	72212320276230198	English	stan1293	the motor	MOTOR	110		motor	motor 
+1425	13-23-19-1	7221232043730524	English	stan1293	the machine	MACHINE	144		machine	machine 
+1426	13-23-13-1	72212320874736212	English	stan1293	the bicycle	BICYCLE	747		bicycle, bike	bicycle 
+1427	13-23-13-2	72212320874736212	English	stan1293	the bicycle	BICYCLE	747		bicycle, bike	bike 
+1428	13-23-395-1	72212320419374011	English	stan1293	the street	STREET	1362		street	street 
+1429	13-19-445-1	72212320279011866	English	stan1293	to liberate	LIBERATE	37		liberate	liberate 
+1430	13-19-565-1	72212320589368128	English	stan1293	to invite	INVITE	1611		invite	invite 
+1431	13-23-35-1	72212320621173234	English	stan1293	the license plate	LICENSE PLATE	1790		number plate	number plate 
+1432	13-23-43-1	72212320425234196	English	stan1293	the postcard	POSTCARD	1497		postcard	postcard 
+1433	13-24-01-1	72212320239621673	English	stan1293	to be	BE	1579		be	be 
+1434	13-24-02-1	72212320433439956	English	stan1293	to become	BECOME	1990		become	become 
+1435	13-24-03-1	7221232071743933	English	stan1293	without	WITHOUT	1478		without	without 
+1436	13-24-05-1	72212320636045337	English	stan1293	through	THROUGH	97		through	through 
+1437	13-24-13-1	72212320565014513	English	stan1293	same	SAME	200		same	same 
+1438	13-24-06-1	72212320164374198	English	stan1293	not	NOT	1240		not	not 
+1439	13-24-07-1	72212320383457321	English	stan1293	this	THIS	1214		this	this 
+1440	13-24-08-1	72212320873871307	English	stan1293	that	THAT	78		that	that 
+1441	13-24-09-1	72212320423469183	English	stan1293	here	HERE	136		here	here 
+1442	13-24-1-1	72212320229602484	English	stan1293	there	THERE	1937		there	there 
+1443	13-24-11-1	72212320426624615	English	stan1293	other	OTHER	197		other	other 
+1444	13-4-493-1	72212320378531966	English	stan1293	the vagina	VAGINA	1836		vagina	vagina 
+1445	13-23-9-1	72212320264205762	English	stan1293	the tea	TEA	1373		tea	tea 
+1446	13-23-91-1	72212320159051918	English	stan1293	the coffee	COFFEE	1299		coffee	coffee 
+1447	13-24-12-1	72212320864459985	English	stan1293	next	NEXT	1354		next	next 
+1448	13-3-862-1	72212320757524570	English	stan1293	the coyote	COYOTE	912		coyote	coyote 
+1449	13-3-863-1	72212320118071039	English	stan1293	the hare	HARE	1190		hare	hare 
+1450	13-3-865-1	72212320190078401	English	stan1293	the quail	QUAIL	1893		quail	quail 
+1451	13-3-866-1	7221232052101367	English	stan1293	the raccoon	RACCOON	828		raccoon	raccoon 
+1452	13-3-869-1	7221232072043863	English	stan1293	the squirrel	SQUIRREL	1628		squirrel	squirrel 
+1453	13-3-871-1	72212320777166478	English	stan1293	the reindeer/caribou	REINDEER	1876		reindeer	reindeer 
+1454	13-3-871-2	72212320740246711	English	stan1293	the reindeer/caribou	REINDEER	1876		caribou	caribou 
+1455	13-3-872-1	72212320720852930	English	stan1293	the elk/moose	ELK	1772		elk	elk 
+1456	13-3-872-2	72212320754659222	English	stan1293	the elk/moose	ELK	1772		moose	moose 
+1457	13-3-873-1	72212320231555513	English	stan1293	the beaver	BEAVER	1194		beaver	beaver 
+1458	13-10-79-1	72212320188461078	English	stan1293	the sledge/sled	SLED	16		sledge	sledge 
+1459	13-8-29-1	72212320210398965	English	stan1293	the lasso	LASSO	340		lasso	lasso 
+1460	13-8-991-1	72212320572870030	English	stan1293	the larch	LARCH	116		larch	larch 
+1461	13-8-993-1	72212320606392663	English	stan1293	the needle(2)	NEEDLE TREE	286		needle	needle 
+1462	13-1-771-1	72212319872035869	English	stan1293	the arctic lights	ARCTIC LIGHTS	261		northern lights	northern lights 
+1463	13-4-465-1	7221232016980082	English	stan1293	the sinew or tendon	TENDON	1137		sinew	sinew 
+1464	13-4-465-2	72212320418734695	English	stan1293	the sinew or tendon	TENDON	1137		tendon	tendon 
+1465	13-7-67-1	72212320638336631	English	stan1293	to tan	TAN	247		tan	tan 
+1466	13-6-98-1	72212320246932568	English	stan1293	the snowshoe	SNOWSHOE	233		snowshoe	snowshoe 
+1467	13-22-5-1	72212320719232529	English	stan1293	the circumcision	CIRCUMCISION	393		circumcision	circumcision 
+1468	13-8-996-1	72212320923955659	English	stan1293	the cone	CONE	287		cone	cone 
+1469	13-4-494-1	72212320257788095	English	stan1293	the vulva	VULVA	1837		vulva	vulva 
+1470	13-3-99-1	72212320156908891	English	stan1293	the tapir	TAPIR	312		tapir	tapir 
+1471	13-9-93-1	72212320359752562	English	stan1293	the whetstone	WHETSTONE	295		whetstone	whetstone 
+1472	13-7-65-1	72212320193844837	English	stan1293	the camp	CAMP	1105		camp	camp 
+1473	13-3-597-1	72212320516060365	English	stan1293	the cormorant	CORMORANT	840		cormorant	cormorant 
+1474	13-3-833-1	72212320585876950	English	stan1293	the prawns or shrimp	PRAWNS	238		prawn	prawn 
+1475	13-3-833-2	72212320652848562	English	stan1293	the prawns or shrimp	PRAWNS	238		shrimp	shrimp 
+1476	13-3-834-1	72212320227256804	English	stan1293	the termites	TERMITE	883		termite	termite 
+1477	13-3-835-1	7221232088850242	English	stan1293	the tick	TICK	1527		tick	tick 
+1478	13-9-87-1	7221232032993231	English	stan1293	the boomerang	BOOMERANG	135		boomerang	boomerang 
+1479	13-3-88-1	72212320678226435	English	stan1293	the kangaroo	KANGAROO	164		kangaroo	kangaroo 
+1480	13-3-89-1	72212320145545138	English	stan1293	the anteater	ANTEATER	181		anteater	anteater 
+1481	13-3-598-1	7221232078914680	English	stan1293	the toucan	TOUCAN	308		toucan	toucan 
+1482	13-3-9-1	72212320360174630	English	stan1293	the jaguar	JAGUAR	1250		jaguar	jaguar 
+1483	13-7-66-1	72212320274681301	English	stan1293	the hammock	HAMMOCK	2019		hammock	hammock 
+1484	13-8-911-1	7221232062944148	English	stan1293	the millet or sorghum	MILLET	931		millet	millet 
+1485	13-3-913-1	72212320156458532	English	stan1293	the chameleon	CHAMELEON	1555		chameleon	chameleon 
+1486	13-9-91-1	72212320409460410	English	stan1293	the peg	PEG	361		peg	peg 
+1487	13-3-917-1	72212320423336198	English	stan1293	the buffalo	BUFFALO	934		buffalo	buffalo 
+1488	13-1-411-1	72212319970275303	English	stan1293	the savanna	SAVANNA	260		savanna	savanna 
+1489	13-1-831-1	72212319734974788	English	stan1293	the steam	STEAM	1193		steam	steam 
+1490	13-2-4711-1	72212320359895092	English	stan1293	the grandparents	GRANDPARENTS	305		grandparent	grandparent 
+1491	13-2-5-1	72212319992856224	English	stan1293	the grandchild	GRANDCHILD	1617		grandchild	grandchild 
+1492	13-2-931-1	72212320134249359	English	stan1293	he	HE	1211		he	he 
+1493	13-2-932-1	72212320289346051	English	stan1293	she	SHE	1834		she	she 
+1494	13-2-933-1	72212320906576972	English	stan1293	it	IT	169		it	it 
+1495	13-4-741-1	72212320801378857	English	stan1293	the life	LIFE	210		life	life 
+1496	13-4-771-1	72212320279831035	English	stan1293	the carcass	CARCASS	1770		carcass	carcass 
+1497	13-4-844-1	72212320132318188	English	stan1293	the disease	DISEASE	1986		disease	disease 
+1498	13-7-232-1	7221232065685476	English	stan1293	the padlock	PADLOCK	336		padlock	padlock 
+1499	13-8-121-1	72212320946272365	English	stan1293	the paddy	PADDY FIELD	140		paddy	paddy 
+1500	13-11-29-1	72212320562844069	English	stan1293	to damage	DAMAGE	1116		damage	damage 
+1501	13-11-29-2	72212320563200084	English	stan1293	to damage	DAMAGE	1116		harm	harm 
+1502	13-12-081-1	72212320130389879	English	stan1293	above	ABOVE	1741		above	above 
+1503	13-13-231-1	72212320236277936	English	stan1293	the piece	PIECE	594		piece	piece 
+1504	13-13-331-1	72212320100283077	English	stan1293	alone	ALONE	1964		alone	alone 
+1505	13-14-251-1	72212320842621271	English	stan1293	the beginning	BEGINNING	1557		beginning	beginning 
+1506	13-14-411-1	72212320275828508	English	stan1293	the day(2)	DAY (NOT NIGHT)	1225		day	day 
+1507	13-22-131-1	72212320347503866	English	stan1293	the church	CHURCH	1349		church	church 
+1508	13-22-132-1	72212320345184110	English	stan1293	the mosque	MOSQUE	1603		mosque	mosque 
+1509	13-24-14-1	72212320640095407	English	stan1293	nothing	NOTHING	687		nothing	nothing 
+1510	13-4-7501-1	72212320190496742	English	stan1293	dead	DEAD	1625		dead	dead 
+1511	13-4-8541-1	72212320547243712	English	stan1293	to scratch	SCRATCH	1436		scratch	scratch 
+1512	13-9-111-1	72212320304598149	English	stan1293	to make	MAKE	734		make	make 
+1513	13-4-431-1	72212320752413217	English	stan1293	the belly	BELLY	1251		belly	belly 
+1514	13-9-311-1	72212320332948993	English	stan1293	to wipe	WIPE	1454		wipe	wipe 
+1515	13-1-775-1	72212319351413612	English	stan1293	to freeze	FREEZE	1431		freeze	freeze 
+1516	13-24-04-1	72212320752694301	English	stan1293	with	WITH	1340		with	with 
+1517	13-12-012-1	72212320619713788	English	stan1293	in	IN	1460		in	in 
+1518	13-6-99901-1	72212320850315154	English	stan1293	the bag				bag	bag 

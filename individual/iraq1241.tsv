@@ -1,0 +1,1361 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	2-1-1-1	72141423577883891	Iraqw	iraq1241	the world	WORLD	965		yaamu	yaamu 
+2	2-1-21-1	7214142329897819	Iraqw	iraq1241	the land	LAND	626		hhapee	hhapee 
+3	2-1-212-1	7214142329897819	Iraqw	iraq1241	the soil	EARTH (SOIL)	1228		hhapee	hhapee 
+4	2-1-213-1	72141423462525935	Iraqw	iraq1241	the dust	DUST	2		teeri	teeri 
+5	2-1-214-1	72141423387777839	Iraqw	iraq1241	the mud	MUD	640		baa/i	baa 
+6	2-1-214-2	72141423387777839	Iraqw	iraq1241	the mud	MUD	640		baa/i	i 
+7	2-1-215-1	72141423833616217	Iraqw	iraq1241	the sand	SAND	671		hhasaangw	hhasaangw 
+8	2-1-22-1	72141423250687267	Iraqw	iraq1241	the mountain or hill	MOUNTAIN OR HILL	2118		tlooma	tlooma 
+9	2-1-222-1	72141423602378630	Iraqw	iraq1241	the cliff or precipice	PRECIPICE	618		bela	bela 
+10	2-1-23-1	72141424371979110	Iraqw	iraq1241	the plain	PLAIN	652		xatsa	xatsa 
+11	2-1-24-1	72141423609600718	Iraqw	iraq1241	the valley	VALLEY	921		duxa	duxa 
+12	2-1-25-1	72141423258352881	Iraqw	iraq1241	the island	ISLAND	622		kisiwa	kisiwa 
+13	2-1-26-1	72141423261463744	Iraqw	iraq1241	the mainland	MAINLAND	166		bara (1)	bara (1) 
+14	2-1-27-1	72141423512203300	Iraqw	iraq1241	the shore	SHORE	113		afa tlawi	afa tlawi 
+15	2-1-28-1	72141423801381127	Iraqw	iraq1241	the cave	CAVE	1155		mar'i	mar'i 
+16	2-1-31-1	72141423902049243	Iraqw	iraq1241	the water	WATER	948		ma'ay	ma'ay 
+17	2-1-32-1	72141423733687384	Iraqw	iraq1241	the sea	SEA	1474		bahari	bahari 
+18	2-1-324-1	72141423234684990	Iraqw	iraq1241	the foam	FOAM	1768		slooroo	slooroo 
+19	2-1-33-1	72141423155508036	Iraqw	iraq1241	the lake	LAKE	624		tlawi	tlawi 
+20	2-1-35-1	7214142371184358	Iraqw	iraq1241	the wave	WAVE	978		gwaanda (1)	gwaanda (1) 
+21	2-1-36-1	72141423317184322	Iraqw	iraq1241	the river or stream	RIVER	666		ya'ee	ya'ee 
+22	2-1-362-1	72141423899462545	Iraqw	iraq1241	the whirlpool	WHIRLPOOL	1982		dahhsani	dahhsani 
+23	2-1-37-1	72141423122111026	Iraqw	iraq1241	the spring or well	SPRING OR WELL	2144		tsinqa	tsinqa 
+24	2-1-37-2	72141423166637932	Iraqw	iraq1241	the spring or well	SPRING OR WELL	2144		hhalangw	hhalangw 
+25	2-1-38-1	72141423276821318	Iraqw	iraq1241	the swamp	SWAMP	1145		naa/ari	naa 
+26	2-1-38-2	72141423276821318	Iraqw	iraq1241	the swamp	SWAMP	1145		naa/ari	ari 
+27	2-1-38-3	72141424371979110	Iraqw	iraq1241	the swamp	SWAMP	1145		xatsa	xatsa 
+28	2-1-39-1	72141423129458175	Iraqw	iraq1241	the waterfall	WATERFALL	943		hhahháy	hhahháy 
+29	2-1-41-1	72141423699624301	Iraqw	iraq1241	the woods or forest	FOREST	420		gara	gara 
+30	2-1-43-1	72141423592719811	Iraqw	iraq1241	the wood	WOOD	1803		xa'noo	xa'noo 
+31	2-1-44-1	72141423349655256	Iraqw	iraq1241	the stone or rock	STONE OR ROCK	2125		tlaa/a	tlaa 
+32	2-1-44-2	72141423349655256	Iraqw	iraq1241	the stone or rock	STONE OR ROCK	2125		tlaa/a	a 
+33	2-1-45-1	72141423712214253	Iraqw	iraq1241	the earthquake	EARTHQUAKE	6		kuunseeli	kuunseeli 
+34	2-1-51-1	72141423490839765	Iraqw	iraq1241	the sky	SKY	1732		doori	doori 
+35	2-1-52-1	72141423616893234	Iraqw	iraq1241	the sun	SUN	1343		loo'aa	loo'aa 
+36	2-1-53-1	72141423120788177	Iraqw	iraq1241	the moon	MOON	1313		slahhaangw	slahhaangw 
+37	2-1-54-1	72141423146179971	Iraqw	iraq1241	the star	STAR	1430		tsatsa/	tsatsa 
+38	2-1-55-1	72141423900904295	Iraqw	iraq1241	the lightning	LIGHTNING	1654		mankari	mankari 
+39	2-1-56-1	72141423268867717	Iraqw	iraq1241	the thunder	THUNDER	1150		kwara/a	kwara 
+40	2-1-56-2	72141423268867717	Iraqw	iraq1241	the thunder	THUNDER	1150		kwara/a	a 
+41	2-1-57-1	72141423900904295	Iraqw	iraq1241	the bolt of lightning	BOLT (OF LIGHTNING)	2007		mankari	mankari 
+42	2-1-58-1	72141423240649769	Iraqw	iraq1241	the storm	STORM	858		bambaa'o	bambaa'o 
+43	2-1-59-1	72141423429803528	Iraqw	iraq1241	the rainbow	RAINBOW	1733		ga/alér tluway	ga 
+44	2-1-59-2	72141423429803528	Iraqw	iraq1241	the rainbow	RAINBOW	1733		ga/alér tluway	alér tluway 
+45	2-1-61-1	72141423866829791	Iraqw	iraq1241	the light	LIGHT (RADIATION)	630		gwa/atamaye	gwa 
+46	2-1-61-2	72141423866829791	Iraqw	iraq1241	the light	LIGHT (RADIATION)	630		gwa/atamaye	atamaye 
+47	2-1-62-1	72141423845481601	Iraqw	iraq1241	the darkness	DARKNESS	11		giwti	giwti 
+48	2-1-63-1	72141423519051552	Iraqw	iraq1241	the shade or shadow	SHADE	1388		mahhát	mahhát 
+49	2-1-64-1	72141423733039557	Iraqw	iraq1241	the dew	DEW	1977		hara'	hara' 
+50	2-1-71-1	72141423490839765	Iraqw	iraq1241	the air	AIR	27		doori	doori 
+51	2-1-72-1	72141423285683967	Iraqw	iraq1241	the wind	WIND	960		fur'aa	fur'aa 
+52	2-1-73-1	72141423983702078	Iraqw	iraq1241	the cloud	CLOUD	1489		huunkáy	huunkáy 
+53	2-1-74-1	72141423253437885	Iraqw	iraq1241	the fog	FOG	249		tlangí	tlangí 
+54	2-1-75-1	72141423901527218	Iraqw	iraq1241	the rain	RAIN (PRECIPITATION)	658		tluway	tluway 
+55	2-1-77-1	72141423546042671	Iraqw	iraq1241	the ice	ICE	617		barafu	barafu 
+56	2-1-77-2	72141424171512966	Iraqw	iraq1241	the ice	ICE	617		daqtamó	daqtamó 
+57	2-1-78-1	72141423474283911	Iraqw	iraq1241	the weather	WEATHER	952		hali ya hewa	hali ya hewa 
+58	2-1-81-1	72141423791719894	Iraqw	iraq1241	the fire	FIRE	221		asla	asla 
+59	2-1-82-1	72141423453719223	Iraqw	iraq1241	the flame	FLAME	889		tsaangw	tsaangw 
+60	2-1-83-1	72141423459968229	Iraqw	iraq1241	the smoke	SMOKE (EXHAUST)	778		quu’i	quu’i 
+61	2-1-84-1	72141423765905085	Iraqw	iraq1241	the ash	ASH	646		da/ara	da 
+62	2-1-84-2	72141423765905085	Iraqw	iraq1241	the ash	ASH	646		da/ara	ara 
+63	2-1-841-1	72141423881363389	Iraqw	iraq1241	the embers	EMBERS	67		gil'oo	gil'oo 
+64	2-1-851-1	72141423586744048	Iraqw	iraq1241	to burn(1)	BURN (SOMETHING)	141		daa/	daa 
+65	2-1-852-1	72141423163712822	Iraqw	iraq1241	to burn(2)	BURNING	1428		ooh (2)	ooh (2) 
+66	2-1-86-1	72141423439895394	Iraqw	iraq1241	to light	LIGHT (IGNITE)	737		oohiis	oohiis 
+67	2-1-861-1	72141423937599433	Iraqw	iraq1241	to extinguish	EXTINGUISH	127		gaas	gaas 
+68	2-1-87-1	72141423811577525	Iraqw	iraq1241	the match	MATCH	1133		kibriiti	kibriiti 
+69	2-1-88-1	7214142372273449	Iraqw	iraq1241	the firewood	FIREWOOD	10		migir	migir 
+70	2-1-89-1	72141423598847037	Iraqw	iraq1241	the charcoal	CHARCOAL	1188		xaawi	xaawi 
+71	2-2-1-1	7214142358566777	Iraqw	iraq1241	the person	PERSON	683		hee	hee 
+72	2-2-21-1	72141423481147422	Iraqw	iraq1241	the man	MAN	1554		hhawata	hhawata 
+73	2-2-22-1	72141423764138579	Iraqw	iraq1241	the woman	WOMAN	962		/ameeni	ameeni 
+74	2-2-23-1	72141423481147422	Iraqw	iraq1241	male(1)	MALE (OF ANIMAL)	2263		hhawata	hhawata 
+75	2-2-24-1	72141423764138579	Iraqw	iraq1241	female(1)	FEMALE (OF PERSON)	2260		/ameeni	ameeni 
+76	2-2-25-1	72141423537630843	Iraqw	iraq1241	the boy	BOY	1366		garma	garma 
+77	2-2-251-1	72141423420952235	Iraqw	iraq1241	the young man	YOUNG MAN	76		masoomba	masoomba 
+78	2-2-26-1	72141423589682900	Iraqw	iraq1241	the girl	GIRL	1646		dasi	dasi 
+79	2-2-261-1	72141423515647748	Iraqw	iraq1241	the young woman	YOUNG WOMAN	77		deena	deena 
+80	2-2-27-1	72141423993707442	Iraqw	iraq1241	the child(1)	CHILD (YOUNG HUMAN)	1304		na/aay	na 
+81	2-2-27-2	72141423993707442	Iraqw	iraq1241	the child(1)	CHILD (YOUNG HUMAN)	1304		na/aay	aay 
+82	2-2-28-1	72141423316155155	Iraqw	iraq1241	the baby	BABY	1289		qawri	qawri 
+83	2-2-31-1	72141423481147422	Iraqw	iraq1241	the husband	HUSBAND	1200		hhawata	hhawata 
+84	2-2-32-1	7214142327944212	Iraqw	iraq1241	the wife	WIFE	1199		haree	haree 
+85	2-2-33-1	72141423230025530	Iraqw	iraq1241	to marry	MARRY	203		duux	duux 
+86	2-2-34-1	72141423133254177	Iraqw	iraq1241	the wedding	WEDDING	1259		duuxoo	duuxoo 
+87	2-2-341-1	72141423851076885	Iraqw	iraq1241	the divorce	DIVORCE	1134		talaka	talaka 
+88	2-2-35-1	72141423367388368	Iraqw	iraq1241	the father	FATHER	1217		baabá	baabá 
+89	2-2-36-1	7214142349818397	Iraqw	iraq1241	the mother	MOTHER	1216		aayo	aayo 
+90	2-2-37-1	72141423899046753	Iraqw	iraq1241	the parents	PARENTS	505		xwaylitee	xwaylitee 
+91	2-2-38-1	72141423481147422	Iraqw	iraq1241	the married man	MARRIED MAN	424		hhawata	hhawata 
+92	2-2-39-1	7214142327944212	Iraqw	iraq1241	the married woman	MARRIED WOMAN	426		haree	haree 
+93	2-2-41-1	7214142320484888	Iraqw	iraq1241	the son	SON	1620		naangw	naangw 
+94	2-2-42-1	72141423785301834	Iraqw	iraq1241	the daughter	DAUGHTER	1357		hat	hat 
+95	2-2-43-1	72141423993707442	Iraqw	iraq1241	the child(2)	CHILD (DESCENDANT)	1801		na/aay	na 
+96	2-2-43-2	72141423993707442	Iraqw	iraq1241	the child(2)	CHILD (DESCENDANT)	1801		na/aay	aay 
+97	2-2-44-1	72141423509337123	Iraqw	iraq1241	the brother	BROTHER	1262		hhiya'	hhiya' 
+98	2-2-444-1	72141423153361191	Iraqw	iraq1241	the older brother	OLDER BROTHER	1759		naanaa	naanaa 
+99	2-2-445-1	72141423779926120	Iraqw	iraq1241	the younger brother	YOUNGER BROTHER	1760		hhiyo niina	hhiyo niina 
+100	2-2-45-1	72141423539728970	Iraqw	iraq1241	the sister	SISTER	1263		hho'oo	hho'oo 
+101	2-2-454-1	72141423987816222	Iraqw	iraq1241	the older sister	OLDER SISTER	1758		hho'o	hho'o 
+102	2-2-455-1	72141423987816222	Iraqw	iraq1241	the younger sister	YOUNGER SISTER	1761		hho'o	hho'o 
+103	2-2-458-1	72141423299730245	Iraqw	iraq1241	the twins	TWINS	1005		daangi	daangi 
+104	2-2-46-1	72141423814108469	Iraqw	iraq1241	the grandfather	GRANDFATHER	1383		aakoo	aakoo 
+105	2-2-461-1	72141423814108469	Iraqw	iraq1241	the old man	OLD MAN	406		aakoo	aakoo 
+106	2-2-47-1	72141423915166338	Iraqw	iraq1241	the grandmother	GRANDMOTHER	1496		aama	aama 
+107	2-2-471-1	72141423915166338	Iraqw	iraq1241	the old woman	OLD WOMAN	907		aama	aama 
+108	2-2-48-1	72141423999026772	Iraqw	iraq1241	the grandson	GRANDSON	1618		nangw nangw	nangw nangw 
+109	2-2-49-1	72141423961452327	Iraqw	iraq1241	the granddaughter	GRANDDAUGHTER	1619		hat nangw	hat nangw 
+110	2-2-51-1	72141423757385824	Iraqw	iraq1241	the uncle	UNCLE	1327		maamáy	maamáy 
+111	2-2-511-1	72141423757385824	Iraqw	iraq1241	the mother's brother	MOTHER'S BROTHER	1984		maamáy	maamáy 
+112	2-2-512-1	72141423796393278	Iraqw	iraq1241	the father's brother	FATHER'S BROTHER	1985		baaba	baaba 
+113	2-2-52-1	72141423160751212	Iraqw	iraq1241	the aunt	AUNT	1272		ayshigá	ayshigá 
+114	2-2-521-1	72141423726028836	Iraqw	iraq1241	the mother's sister	MOTHER'S SISTER	171		aayi	aayi 
+115	2-2-522-1	72141423160751212	Iraqw	iraq1241	the father's sister	FATHER'S SISTER	170		ayshigá	ayshigá 
+116	2-2-53-1	72141423849527582	Iraqw	iraq1241	the nephew	NEPHEW	1063		oo hho’o	oo hho’o 
+117	2-2-54-1	72141423699279378	Iraqw	iraq1241	the niece	NIECE	1642		hat hhiya	hat hhiya 
+118	2-2-54-2	72141424583771641	Iraqw	iraq1241	the niece	NIECE	1642		hat hho’oo	hat hho’oo 
+119	2-2-55-1	72141423509337123	Iraqw	iraq1241	the cousin	COUSIN	1643		hhiya'	hhiya' 
+120	2-2-56-1	72141423713915075	Iraqw	iraq1241	the ancestors	ANCESTORS	1669		gi'i	gi'i 
+121	2-2-61-1	72141423796393278	Iraqw	iraq1241	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		baaba	baaba 
+122	2-2-611-1	72141423796393278	Iraqw	iraq1241	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		baaba	baaba 
+123	2-2-62-1	72141423695313274	Iraqw	iraq1241	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		aayoo	aayoo 
+124	2-2-621-1	7214142349818397	Iraqw	iraq1241	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		aayo	aayo 
+125	2-2-63-1	72141423537630843	Iraqw	iraq1241	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		garma	garma 
+126	2-2-631-1	72141423537630843	Iraqw	iraq1241	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		garma	garma 
+127	2-2-64-1	72141423589682900	Iraqw	iraq1241	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		dasi	dasi 
+128	2-2-641-1	72141423589682900	Iraqw	iraq1241	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		dasi	dasi 
+129	2-2-71-1	72141423875083355	Iraqw	iraq1241	the stepfather	STEPFATHER	237		baabú niina	baabú niina 
+130	2-2-72-1	72141423167279279	Iraqw	iraq1241	the stepmother	STEPMOTHER	236		aayí niina	aayí niina 
+131	2-2-73-1	72141423537630843	Iraqw	iraq1241	the stepson	STEPSON	1059		garma	garma 
+132	2-2-74-1	72141423589682900	Iraqw	iraq1241	the stepdaughter	STEPDAUGHTER	1058		dasi	dasi 
+133	2-2-75-1	72141423981842632	Iraqw	iraq1241	the orphan	ORPHAN	1149		panay	panay 
+134	2-2-76-1	72141423268321930	Iraqw	iraq1241	the widow	WIDOW	1756		kwalo'o	kwalo'o 
+135	2-2-81-1	72141423782614980	Iraqw	iraq1241	the relatives	RELATIVES	1644		mar'afi	mar'afi 
+136	2-2-82-1	72141423782614980	Iraqw	iraq1241	the family	FAMILY	194		mar'afi	mar'afi 
+137	2-2-91-1	7214142338544373	Iraqw	iraq1241	I	I	1209		aníng	aníng 
+138	2-2-92-1	72141423970717399	Iraqw	iraq1241	you (singular)	THOU	1215		kúung	kúung 
+139	2-2-92-2	72141424283730213	Iraqw	iraq1241	you (singular)	THOU	1215		kíing	kíing 
+140	2-2-93-1	72141423400337501	Iraqw	iraq1241	he/she/it	HE OR SHE OR IT	262		inós	inós 
+141	2-2-94-1	72141423258697466	Iraqw	iraq1241	we	WE	1212		atén	atén 
+142	2-2-95-1	72141423509124832	Iraqw	iraq1241	you (plural)	YOU	1213		kuungá'	kuungá' 
+143	2-2-96-1	72141423135104001	Iraqw	iraq1241	they	THEY	817		inoo'ín	inoo'ín 
+144	2-3-11-1	7214142334665870	Iraqw	iraq1241	the animal	ANIMAL	619		makaa	makaa 
+145	2-3-15-1	72141423859174692	Iraqw	iraq1241	the livestock	LIVESTOCK	631		mifugo	mifugo 
+146	2-3-16-1	72141423476221167	Iraqw	iraq1241	the pasture	PASTURE	649		qawtani	qawtani 
+147	2-3-18-1	72141423569815042	Iraqw	iraq1241	the herdsman	HERDSMAN	263		de'eeamusmo	de'eeamusmo 
+148	2-3-19-1	72141423344842579	Iraqw	iraq1241	the stable or stall	STABLE	851		matla/angw	matla 
+149	2-3-19-2	72141423344842579	Iraqw	iraq1241	the stable or stall	STABLE	851		matla/angw	angw 
+150	2-3-2-1	72141423414954311	Iraqw	iraq1241	the cattle	CATTLE	1153		hikwaa	hikwaa 
+151	2-3-21-1	72141423537004216	Iraqw	iraq1241	the bull	BULL	1008		awu	awu 
+152	2-3-22-1	72141423603245846	Iraqw	iraq1241	the ox	OX	1169		karaama	karaama 
+153	2-3-23-1	72141423618714812	Iraqw	iraq1241	the cow	COW	1007		slee	slee 
+154	2-3-24-1	72141423332347719	Iraqw	iraq1241	the calf	CALF	1989		damaa	damaa 
+155	2-3-25-1	72141423419820785	Iraqw	iraq1241	the sheep	SHEEP	1331		bee/i	bee 
+156	2-3-25-2	72141423419820785	Iraqw	iraq1241	the sheep	SHEEP	1331		bee/i	i 
+157	2-3-26-1	7214142371184358	Iraqw	iraq1241	the ram	RAM	1344		gwaanda (1)	gwaanda (1) 
+158	2-3-28-1	72141423419820785	Iraqw	iraq1241	the ewe	EWE	1345		bee/i	bee 
+159	2-3-28-2	72141423419820785	Iraqw	iraq1241	the ewe	EWE	1345		bee/i	i 
+160	2-3-29-1	72141423410600967	Iraqw	iraq1241	the lamb	LAMB	820		deelmo	deelmo 
+161	2-3-35-1	72141423447916560	Iraqw	iraq1241	the pig	PIG	1337		baynamo	baynamo 
+162	2-3-36-1	72141423365438535	Iraqw	iraq1241	the goat	GOAT	1502		lee'i	lee'i 
+163	2-3-37-1	72141423337220203	Iraqw	iraq1241	the he-goat	HE-GOAT	264		gurta	gurta 
+164	2-3-38-1	72141423410600967	Iraqw	iraq1241	the kid	KID	1972		deelmo	deelmo 
+165	2-3-41-1	72141423645195770	Iraqw	iraq1241	the horse	HORSE	615		faras	faras 
+166	2-3-46-1	7214142326673468	Iraqw	iraq1241	the donkey	DONKEY	1862		daqwaay	daqwaay 
+167	2-3-52-1	72141423411721831	Iraqw	iraq1241	the cock/rooster	ROOSTER	1511		koonkamo	koonkamo 
+168	2-3-54-1	721414235713730	Iraqw	iraq1241	the hen	HEN	1514		koonki	koonki 
+169	2-3-57-1	7214142328974904	Iraqw	iraq1241	the duck	DUCK	1360		bata	bata 
+170	2-3-58-1	721414236511783	Iraqw	iraq1241	the nest	NEST	539		dóo tsir'i	dóo tsir'i 
+171	2-3-581-1	72141423471966891	Iraqw	iraq1241	the bird	BIRD	937		tsir'i	tsir'i 
+172	2-3-583-1	72141423192292304	Iraqw	iraq1241	the heron	HERON	758		dombalilit	dombalilit 
+173	2-3-584-1	72141423186403268	Iraqw	iraq1241	the eagle	EAGLE	1905		/awa/awi	awa 
+174	2-3-584-2	72141423186403268	Iraqw	iraq1241	the eagle	EAGLE	1905		/awa/awi	awi 
+175	2-3-585-1	72141423250398861	Iraqw	iraq1241	the hawk	HAWK	307		geenangw	geenangw 
+176	2-3-586-1	7214142383703877	Iraqw	iraq1241	the vulture	VULTURE	1185		gwarees	gwarees 
+177	2-3-591-1	72141423296443923	Iraqw	iraq1241	the bat	BAT	1793		hhamparara'	hhamparara' 
+178	2-3-592-1	7214142374648566	Iraqw	iraq1241	the parrot	PARROT	882		nyarqan	nyarqan 
+179	2-3-593-1	72141423741239196	Iraqw	iraq1241	the crow	CROW	913		xwaa'ari	xwaa'ari 
+180	2-3-594-1	72141423308953224	Iraqw	iraq1241	the dove	DOVE	1853		hhooki	hhooki 
+181	2-3-596-1	72141423888913452	Iraqw	iraq1241	the owl	OWL	735		har koonki	har koonki 
+182	2-3-61-1	72141423916015665	Iraqw	iraq1241	the dog	DOG	2009		see'aay	see'aay 
+183	2-3-614-1	72141423858682778	Iraqw	iraq1241	the rabbit	RABBIT	1136		kwa/aangw	kwa 
+184	2-3-614-2	72141423858682778	Iraqw	iraq1241	the rabbit	RABBIT	1136		kwa/aangw	aangw 
+185	2-3-62-1	72141423764243496	Iraqw	iraq1241	the cat	CAT	1208		maytsí	maytsí 
+186	2-3-63-1	72141423316188132	Iraqw	iraq1241	the mouse or rat	MUROID (MOUSE OR RAT)	2139		garangw	garangw 
+187	2-3-65-1	72141423271254042	Iraqw	iraq1241	the fish	FISH	227		siiyó	siiyó 
+188	2-3-653-1	72141423279466431	Iraqw	iraq1241	the scale	SCALE	266		darqafi	darqafi 
+189	2-3-655-1	72141423232067761	Iraqw	iraq1241	the shell	SHELL	598		xorormi	xorormi 
+190	2-3-72-1	72141423760824678	Iraqw	iraq1241	the lion	LION	1386		diraangw	diraangw 
+191	2-3-74-1	72141423363014758	Iraqw	iraq1241	the fox	FOX	1312		intsaangw	intsaangw 
+192	2-3-75-1	72141423147748625	Iraqw	iraq1241	the deer	DEER	1936		tlaaqati	tlaaqati 
+193	2-3-76-1	72141423257160828	Iraqw	iraq1241	the monkey	MONKEY	1350		/awtú	awtú 
+194	2-3-77-1	72141423876554812	Iraqw	iraq1241	the elephant	ELEPHANT	1290		daangw	daangw 
+195	2-3-78-1	72141423698627260	Iraqw	iraq1241	the camel	CAMEL	1871		angamia	angamia 
+196	2-3-81-1	72141423707004341	Iraqw	iraq1241	the insect	INSECT	620		mdudu	mdudu 
+197	2-3-811-1	72141423389674743	Iraqw	iraq1241	the head louse	HEAD LOUSE	310		itnaa	itnaa 
+198	2-3-812-1	7214142381125022	Iraqw	iraq1241	the nit	NIT	267		qipá	qipá 
+199	2-3-813-1	72141423736976894	Iraqw	iraq1241	the flea	FLEA	232		kwasiiyangw	kwasiiyangw 
+200	2-3-814-1	72141423423899735	Iraqw	iraq1241	the centipede	CENTIPEDE	1974		dayshimóo bee/i	dayshimóo bee 
+201	2-3-814-2	72141423423899735	Iraqw	iraq1241	the centipede	CENTIPEDE	1974		dayshimóo bee/i	i 
+202	2-3-815-1	72141423481391618	Iraqw	iraq1241	the scorpion	SCORPION	1538		xeerangw	xeerangw 
+203	2-3-816-1	72141423861943642	Iraqw	iraq1241	the cockroach	COCKROACH	1575		bab/i	bab 
+204	2-3-816-2	72141423861943642	Iraqw	iraq1241	the cockroach	COCKROACH	1575		bab/i	i 
+205	2-3-817-1	72141423285035162	Iraqw	iraq1241	the ant	ANT	587		tleeri	tleeri 
+206	2-3-818-1	7214142383311795	Iraqw	iraq1241	the spider	SPIDER	843		hibambi	hibambi 
+207	2-3-819-1	72141423730121875	Iraqw	iraq1241	the spider web	SPIDER WEB	1065		dóo hibambi	dóo hibambi 
+208	2-3-82-1	72141423759486809	Iraqw	iraq1241	the bee	BEE	665		ba'armo	ba'armo 
+209	2-3-821-1	72141423388408924	Iraqw	iraq1241	the beeswax	BEESWAX	1931		boohhayangw	boohhayangw 
+210	2-3-822-1	72141423147775096	Iraqw	iraq1241	the beehive	BEEHIVE	88		miringa	miringa 
+211	2-3-823-1	72141423793237944	Iraqw	iraq1241	the wasp	WASP	1517		diwíl	diwíl 
+212	2-3-83-1	72141423860369099	Iraqw	iraq1241	the fly	FLY (INSECT)	1504		ba'ár	ba'ár 
+213	2-3-832-1	72141423741488680	Iraqw	iraq1241	the mosquito	MOSQUITO	1509		ineera	ineera 
+214	2-3-84-1	72141423605923694	Iraqw	iraq1241	the worm	WORM	1219		girirík	girirík 
+215	2-3-85-1	72141423692065526	Iraqw	iraq1241	the snake	SNAKE	730		dayshimo	dayshimo 
+216	2-3-91-1	72141423966821866	Iraqw	iraq1241	the firefly	FIREFLY	206		kimulimuli	kimulimuli 
+217	2-3-92-1	72141423424958657	Iraqw	iraq1241	the butterfly	BUTTERFLY	1791		/awtamo	awtamo 
+218	2-3-93-1	72141423758539416	Iraqw	iraq1241	the grasshopper	GRASSHOPPER	607		tsaxway	tsaxway 
+219	2-3-94-1	72141423985763944	Iraqw	iraq1241	the snail	SNAIL	1543		kitsinqaay	kitsinqaay 
+220	2-3-95-1	72141423329045810	Iraqw	iraq1241	the frog	FROG	503		amaslahhi	amaslahhi 
+221	2-3-96-1	72141423605983895	Iraqw	iraq1241	the lizard	LIZARD	632		/urfi	urfi 
+222	2-3-97-1	72141423434201270	Iraqw	iraq1241	the crocodile or alligator	CROCODILE	1857		qutlutmo	qutlutmo 
+223	2-3-98-1	72141423110689842	Iraqw	iraq1241	the turtle	TURTLE	112		kankee'amo	kankee'amo 
+224	2-4-11-1	72141423150697094	Iraqw	iraq1241	the body	BODY	1480		slaqwa	slaqwa 
+225	2-4-12-1	72141423749386040	Iraqw	iraq1241	the skin or hide	SKIN	763		kahari	kahari 
+226	2-4-13-1	72141423352355491	Iraqw	iraq1241	the flesh	FLESH	2259		fu'unay	fu'unay 
+227	2-4-14-1	72141423173060435	Iraqw	iraq1241	the hair	HAIR (HEAD)	2648		se'eengw	se'eengw 
+228	2-4-142-1	72141423642090752	Iraqw	iraq1241	the beard	BEARD	678		daamóot	daamóot 
+229	2-4-144-1	721414235342606	Iraqw	iraq1241	the body hair	HAIR (BODY)	189		matsaafu	matsaafu 
+230	2-4-145-1	72141423446182172	Iraqw	iraq1241	the pubic hair	PUBIC HAIR	36		/irangw	irangw 
+231	2-4-146-1	72141423912713169	Iraqw	iraq1241	the dandruff	DANDRUFF	576		dir/akw	dir 
+232	2-4-146-2	72141423912713169	Iraqw	iraq1241	the dandruff	DANDRUFF	576		dir/akw	akw 
+233	2-4-15-1	72141423901668792	Iraqw	iraq1241	the blood	BLOOD	946		tseeree	tseeree 
+234	2-4-151-1	72141423521278047	Iraqw	iraq1241	the vein or artery	BLOOD VESSEL	525		dee/armóo tseeree	dee 
+235	2-4-151-2	72141423521278047	Iraqw	iraq1241	the vein or artery	BLOOD VESSEL	525		dee/armóo tseeree	armóo tseeree 
+236	2-4-16-1	72141423920501120	Iraqw	iraq1241	the bone	BONE	1394		fara	fara 
+237	2-4-162-1	72141423746725572	Iraqw	iraq1241	the rib	RIB	801		gweehhamo	gweehhamo 
+238	2-4-17-1	72141423502689493	Iraqw	iraq1241	the horn	HORN (ANATOMY)	1393		xaarmo	xaarmo 
+239	2-4-18-1	72141423682920650	Iraqw	iraq1241	the tail	TAIL	1220		hhayso	hhayso 
+240	2-4-19-1	72141423330997820	Iraqw	iraq1241	the back	BACK	1291		daanda	daanda 
+241	2-4-191-1	7214142342051624	Iraqw	iraq1241	the spine	SPINE	805		hartá daanda	hartá daanda 
+242	2-4-2-1	72141423913945394	Iraqw	iraq1241	the head	HEAD	1256		saga	saga 
+243	2-4-201-1	72141423345974162	Iraqw	iraq1241	the temples	TEMPLES	1604		tlaqarmo	tlaqarmo 
+244	2-4-202-1	72141423505575344	Iraqw	iraq1241	the skull	SKULL	1605		fartá saga	fartá saga 
+245	2-4-203-1	7214142395899149	Iraqw	iraq1241	the brain	BRAIN	1583		/atú	atú 
+246	2-4-204-1	72141423553894484	Iraqw	iraq1241	the face	FACE	1560		gitsee/a'	gitsee 
+247	2-4-204-2	72141423553894484	Iraqw	iraq1241	the face	FACE	1560		gitsee/a'	a' 
+248	2-4-205-1	72141423553894484	Iraqw	iraq1241	the forehead	FOREHEAD	123		gitsee/a'	gitsee 
+249	2-4-205-2	72141423553894484	Iraqw	iraq1241	the forehead	FOREHEAD	123		gitsee/a'	a' 
+250	2-4-207-1	72141423447636426	Iraqw	iraq1241	the jaw	JAW	798		taqeesamo	taqeesamo 
+251	2-4-208-1	72141423345974162	Iraqw	iraq1241	the cheek	CHEEK	1730		tlaqarmo	tlaqarmo 
+252	2-4-209-1	72141423401428087	Iraqw	iraq1241	the chin	CHIN	1510		wakri	wakri 
+253	2-4-21-1	72141423627250754	Iraqw	iraq1241	the eye	EYE	1248		ila	ila 
+254	2-4-212-1	72141423848608788	Iraqw	iraq1241	the eyebrow	EYEBROW	1173		hhamhhamo	hhamhhamo 
+255	2-4-213-1	72141423848608788	Iraqw	iraq1241	the eyelid	EYELID	17		hhamhhamo	hhamhhamo 
+256	2-4-214-1	72141423848608788	Iraqw	iraq1241	the eyelash	EYELASH	1540		hhamhhamo	hhamhhamo 
+257	2-4-215-1	72141423201238052	Iraqw	iraq1241	to blink	BLINK	1655		kwislit	kwislit 
+258	2-4-22-1	72141423923785226	Iraqw	iraq1241	the ear	EAR	1247		ii'a	ii'a 
+259	2-4-222-1	72141423580382828	Iraqw	iraq1241	the earwax	EARWAX	32		makookí	makookí 
+260	2-4-23-1	72141423146075415	Iraqw	iraq1241	the nose	NOSE	1221		duunga'	duunga' 
+261	2-4-231-1	72141423190136508	Iraqw	iraq1241	the nostril	NOSTRIL	1178		foxár duunga'	foxár duunga' 
+262	2-4-232-1	7214142379647557	Iraqw	iraq1241	the nasal mucus	NASAL MUCUS (SNOT)	208		sluhhoo	sluhhoo 
+263	2-4-24-1	72141423447939400	Iraqw	iraq1241	the mouth	MOUTH	674		afa	afa 
+264	2-4-241-1	72141423743780766	Iraqw	iraq1241	the beak	BEAK	73		afkwá koonki	afkwá koonki 
+265	2-4-25-1	72141423632627812	Iraqw	iraq1241	the lip	LIP	478		slufi	slufi 
+266	2-4-26-1	72141423653797053	Iraqw	iraq1241	the tongue	TONGUE	1205		tsifraangw	tsifraangw 
+267	2-4-27-1	72141423189764150	Iraqw	iraq1241	the tooth	TOOTH	1380		sihhino	sihhino 
+268	2-4-271-1	72141423667529073	Iraqw	iraq1241	the gums	GUMS	139		na/asl	na 
+269	2-4-271-2	72141423667529073	Iraqw	iraq1241	the gums	GUMS	139		na/asl	asl 
+270	2-4-272-1	72141423412136613	Iraqw	iraq1241	the molar tooth	MOLAR TOOTH	1049		/antlamo	antlamo 
+271	2-4-28-1	72141423112045393	Iraqw	iraq1241	the neck	NECK	1333		isa	isa 
+272	2-4-281-1	72141423131891350	Iraqw	iraq1241	the nape of the neck	NAPE (OF NECK)	1347		intlarehhe'	intlarehhe' 
+273	2-4-29-1	72141423687323223	Iraqw	iraq1241	the throat	THROAT	1346		hheehha	hheehha 
+274	2-4-3-1	72141423799978958	Iraqw	iraq1241	the shoulder	SHOULDER	1482		suuma	suuma 
+275	2-4-301-1	72141423193905140	Iraqw	iraq1241	the shoulderblade	SHOULDERBLADE	172		kwaahha	kwaahha 
+276	2-4-302-1	72141423341633339	Iraqw	iraq1241	the collarbone	COLLARBONE	1994		mugúl	mugúl 
+277	2-4-31-1	72141423414540982	Iraqw	iraq1241	the arm	ARM	1673		dawa (1)	dawa (1) 
+278	2-4-312-1	72141423841529583	Iraqw	iraq1241	the armpit	ARMPIT	1886		slaara	slaara 
+279	2-4-32-1	72141423779513108	Iraqw	iraq1241	the elbow	ELBOW	981		gongooxi	gongooxi 
+280	2-4-321-1	72141423915840404	Iraqw	iraq1241	the wrist	WRIST	799		kundáy	kundáy 
+281	2-4-33-1	72141423414540982	Iraqw	iraq1241	the hand	HAND	1277		dawa (1)	dawa (1) 
+282	2-4-331-1	72141423545369682	Iraqw	iraq1241	the palm of the hand	PALM OF HAND	1183		tsa/ay	tsa 
+283	2-4-331-2	72141423545369682	Iraqw	iraq1241	the palm of the hand	PALM OF HAND	1183		tsa/ay	ay 
+284	2-4-34-1	72141423576028560	Iraqw	iraq1241	the finger	FINGER	1303		diitsa	diitsa 
+285	2-4-342-1	72141423364817325	Iraqw	iraq1241	the thumb	THUMB	1781		duguno	duguno 
+286	2-4-344-1	72141423977263810	Iraqw	iraq1241	the fingernail	FINGERNAIL	1258		fuquno	fuquno 
+287	2-4-345-1	72141423977263810	Iraqw	iraq1241	the claw	CLAW	72		fuquno	fuquno 
+288	2-4-35-1	72141423317184322	Iraqw	iraq1241	the leg	LEG	1297		ya'ee	ya'ee 
+289	2-4-351-1	72141423913604645	Iraqw	iraq1241	the thigh	THIGH	800		uryee	uryee 
+290	2-4-352-1	72141423212430245	Iraqw	iraq1241	the calf of the leg	CALF OF LEG	498		tsi/i	tsi 
+291	2-4-352-2	72141423212430245	Iraqw	iraq1241	the calf of the leg	CALF OF LEG	498		tsi/i	i 
+292	2-4-36-1	72141423974056878	Iraqw	iraq1241	the knee	KNEE	1371		gurungura	gurungura 
+293	2-4-37-1	72141423317184322	Iraqw	iraq1241	the foot	FOOT	1301		ya'ee	ya'ee 
+294	2-4-371-1	72141423566387797	Iraqw	iraq1241	the ankle	ANKLE	803		kundóo ya'ee	kundóo ya'ee 
+295	2-4-372-1	7214142324206320	Iraqw	iraq1241	the heel	HEEL	980		koolo	koolo 
+296	2-4-374-1	72141423881269791	Iraqw	iraq1241	the footprint	FOOTPRINT	318		ya/ti	ya 
+297	2-4-374-2	72141423881269791	Iraqw	iraq1241	the footprint	FOOTPRINT	318		ya/ti	ti 
+298	2-4-38-1	72141423576028560	Iraqw	iraq1241	the toe	TOE	1389		diitsa	diitsa 
+299	2-4-392-1	72141423994216072	Iraqw	iraq1241	the wing	WING	1257		hhampa	hhampa 
+300	2-4-393-1	72141423560382655	Iraqw	iraq1241	the feather	FEATHER	1201		hayi	hayi 
+301	2-4-4-1	72141423252815073	Iraqw	iraq1241	the chest	CHEST	1592		da/awa	da 
+302	2-4-4-2	72141423252815073	Iraqw	iraq1241	the chest	CHEST	1592		da/awa	awa 
+303	2-4-41-1	72141423829012038	Iraqw	iraq1241	the breast	BREAST	1402		isaangw	isaangw 
+304	2-4-412-1	72141423873710640	Iraqw	iraq1241	the nipple or teat	NIPPLE	796		afkwá isimo	afkwá isimo 
+305	2-4-42-1	72141423219144999	Iraqw	iraq1241	the udder	UDDER	154		xadi	xadi 
+306	2-4-43-1	72141423285859547	Iraqw	iraq1241	the navel	NAVEL	1838		gunuu/a	gunuu 
+307	2-4-43-2	72141423285859547	Iraqw	iraq1241	the navel	NAVEL	1838		gunuu/a	a 
+308	2-4-44-1	72141423379510321	Iraqw	iraq1241	the heart	HEART	1223		muuná	muuná 
+309	2-4-441-1	72141423388995588	Iraqw	iraq1241	the lung	LUNG	688		hhuumpa	hhuumpa 
+310	2-4-45-1	72141423219266060	Iraqw	iraq1241	the liver	LIVER	1224		da'aye	da'aye 
+311	2-4-451-1	7214142385017216	Iraqw	iraq1241	the kidney	KIDNEY	489		gumbayayá	gumbayayá 
+312	2-4-452-1	72141423397226596	Iraqw	iraq1241	the spleen	SPLEEN	1744		darara'amo	darara'amo 
+313	2-4-46-1	72141423488860426	Iraqw	iraq1241	the stomach	STOMACH	819		durmi	durmi 
+314	2-4-461-1	7214142368665560	Iraqw	iraq1241	the intestines or guts	INTESTINES	1991		waqát	waqát 
+315	2-4-462-1	72141423886041926	Iraqw	iraq1241	the waist	WAIST	1681		afeetlo	afeetlo 
+316	2-4-463-1	72141423961038154	Iraqw	iraq1241	the hip	HIP	1745		kutlu/umo	kutlu 
+317	2-4-463-2	72141423961038154	Iraqw	iraq1241	the hip	HIP	1745		kutlu/umo	umo 
+318	2-4-464-1	72141423821166769	Iraqw	iraq1241	the buttocks	BUTTOCKS	834		gwe'eedo	gwe'eedo 
+319	2-4-47-1	72141423644995449	Iraqw	iraq1241	the womb	WOMB	804		gura'	gura' 
+320	2-4-47-2	72141423799415787	Iraqw	iraq1241	the womb	WOMB	804		gurú niina	gurú niina 
+321	2-4-49-1	72141423156288438	Iraqw	iraq1241	the testicles	TESTICLES	797		/am/amo	am 
+322	2-4-49-2	72141423156288438	Iraqw	iraq1241	the testicles	TESTICLES	797		/am/amo	amo 
+323	2-4-492-1	72141423722184554	Iraqw	iraq1241	the penis	PENIS	1222		na/ani	na 
+324	2-4-492-2	72141423722184554	Iraqw	iraq1241	the penis	PENIS	1222		na/ani	ani 
+325	2-4-51-1	72141423105431469	Iraqw	iraq1241	to breathe	BREATHE	1407		hiinsl	hiinsl 
+326	2-4-52-1	72141423662596338	Iraqw	iraq1241	to yawn	YAWN	1028		xaxayo	xaxayo 
+327	2-4-521-1	72141423830101480	Iraqw	iraq1241	to hiccough	HICCOUGH	162		hiqiit	hiqiit 
+328	2-4-53-1	72141423497101439	Iraqw	iraq1241	to cough	COUGH	879		tsihhiit	tsihhiit 
+329	2-4-54-1	72141423650755883	Iraqw	iraq1241	to sneeze	SNEEZE	1621		/ifiit	ifiit 
+330	2-4-55-1	72141423695524251	Iraqw	iraq1241	to perspire	SWEAT (PERSPIRE)	126		tsuuf	tsuuf 
+331	2-4-56-1	72141423440606659	Iraqw	iraq1241	to spit	SPIT	1440		tsuuq	tsuuq 
+332	2-4-57-1	72141423761760199	Iraqw	iraq1241	to vomit	VOMIT	1278		waa/	waa 
+333	2-4-58-1	72141423851939845	Iraqw	iraq1241	to bite	BITE	1403		kiihh	kiihh 
+334	2-4-59-1	72141423627496467	Iraqw	iraq1241	to lick	LICK	319		naats	naats 
+335	2-4-591-1	72141423664078542	Iraqw	iraq1241	to dribble	DRIBBLE	268		tsororoox	tsororoox 
+336	2-4-61-1	72141423286938651	Iraqw	iraq1241	to sleep	SLEEP	1585		guu'	guu' 
+337	2-4-612-1	72141423270621192	Iraqw	iraq1241	to snore	SNORE	1983		xorootl	xorootl 
+338	2-4-62-1	7214142352640076	Iraqw	iraq1241	to dream	DREAM (SOMETHING)	1920		tlatiim	tlatiim 
+339	2-4-63-1	72141423487040883	Iraqw	iraq1241	to wake up	WAKE UP	1602		tlaw	tlaw 
+340	2-4-64-1	72141423815142862	Iraqw	iraq1241	to fart	FART	1159		kuuf	kuuf 
+341	2-4-65-1	72141423253054812	Iraqw	iraq1241	to piss	PISS	592		soox	soox 
+342	2-4-66-1	7214142383471001	Iraqw	iraq1241	to shit	SHIT (DEFECATE)	676		/o/oos	o 
+343	2-4-66-2	7214142383471001	Iraqw	iraq1241	to shit	SHIT (DEFECATE)	676		/o/oos	oos 
+344	2-4-67-1	72141423161114517	Iraqw	iraq1241	to have sex	HAVE SEX	1785		damoo	damoo 
+345	2-4-68-1	72141423358339355	Iraqw	iraq1241	to shiver	SHIVER	52		daraax	daraax 
+346	2-4-69-1	72141423513521440	Iraqw	iraq1241	to bathe	BATHE	138		tumbiim	tumbiim 
+347	2-4-71-1	7214142399835765	Iraqw	iraq1241	to beget	BEGET	1152		laqwaal	laqwaal 
+348	2-4-72-1	7214142399835765	Iraqw	iraq1241	to be born	BE BORN	1090		laqwaal	laqwaal 
+349	2-4-73-1	72141423926702302	Iraqw	iraq1241	pregnant	PREGNANT	1123		tsiháy	tsiháy 
+350	2-4-732-1	72141423180164525	Iraqw	iraq1241	to conceive	CONCEIVE	1087		tsit	tsit 
+351	2-4-74-1	7214142333628059	Iraqw	iraq1241	to be alive	BE ALIVE	1422		hoot	hoot 
+352	2-4-75-1	72141423584411949	Iraqw	iraq1241	to die	DIE	1494		gwaa'	gwaa' 
+353	2-4-76-1	72141423937599433	Iraqw	iraq1241	to kill	KILL	1417		gaas	gaas 
+354	2-4-77-1	7214142386201699	Iraqw	iraq1241	the corpse	CORPSE	767		tuu'aa	tuu'aa 
+355	2-4-78-1	72141423125459584	Iraqw	iraq1241	to bury	BURY	1719		fool	fool 
+356	2-4-79-1	72141423798306757	Iraqw	iraq1241	the grave	GRAVE	1773		baa'a	baa'a 
+357	2-4-79-2	72141423295971637	Iraqw	iraq1241	the grave	GRAVE	1773		/aanta	aanta 
+358	2-4-81-1	72141423115407505	Iraqw	iraq1241	strong	STRONG	785		/uuru	uuru 
+359	2-4-82-1	72141423566025059	Iraqw	iraq1241	weak	WEAK	1601		daqa tlaakw	daqa tlaakw 
+360	2-4-83-1	72141424632897573	Iraqw	iraq1241	healthy	HEALTHY	1364		hhoo'	hhoo' 
+361	2-4-84-1	72141423632674716	Iraqw	iraq1241	sick/ill	SICK	1847		tiiq	tiiq 
+362	2-4-841-1	72141423614411614	Iraqw	iraq1241	the fever	FEVER	1534		ga/atani	ga 
+363	2-4-841-2	72141423614411614	Iraqw	iraq1241	the fever	FEVER	1534		ga/atani	atani 
+364	2-4-843-1	72141423366858390	Iraqw	iraq1241	the cold	COMMON COLD (DISEASE)	102		xuumpa	xuumpa 
+365	2-4-85-1	72141423333953404	Iraqw	iraq1241	the wound or sore	WOUND	1109		inkaahhaay	inkaahhaay 
+366	2-4-852-1	7214142331663312	Iraqw	iraq1241	the bruise	BRUISE	1148		nor'oos	nor'oos 
+367	2-4-853-1	72141423287504833	Iraqw	iraq1241	the swelling	SWELLING	1903		xir'iit	xir'iit 
+368	2-4-854-1	7214142317036957	Iraqw	iraq1241	the itch	ITCH	148		/ayiim	ayiim 
+369	2-4-855-1	72141423138531467	Iraqw	iraq1241	the blister	BLISTER	1584		buqaani	buqaani 
+370	2-4-856-1	72141423980977497	Iraqw	iraq1241	the boil	BOIL (OF SKIN)	793		umaangw	umaangw 
+371	2-4-857-1	72141423350770348	Iraqw	iraq1241	the pus	PUS	1808		malhhari	malhhari 
+372	2-4-858-1	72141423837926499	Iraqw	iraq1241	the scar	SCAR	497		mulki	mulki 
+373	2-4-86-1	72141423215319851	Iraqw	iraq1241	to cure	CURE	499		tsaees	tsaees 
+374	2-4-86-2	72141424147321297	Iraqw	iraq1241	to cure	CURE	499		ponyuus	ponyuus 
+375	2-4-87-1	72141423316514004	Iraqw	iraq1241	the physician	PHYSICIAN	597		daktari	daktari 
+376	2-4-87-2	7214142477203619	Iraqw	iraq1241	the physician	PHYSICIAN	597		qwaslaaramoo	qwaslaaramoo 
+377	2-4-88-1	72141423511663889	Iraqw	iraq1241	the medicine	MEDICINE	1372		maasáy	maasáy 
+378	2-4-89-1	72141423587345073	Iraqw	iraq1241	the poison	POISON	655		qara	qara 
+379	2-4-91-1	72141423958483659	Iraqw	iraq1241	tired	TIRED	1757		slaaqaat	slaaqaat 
+380	2-4-912-1	72141423803678026	Iraqw	iraq1241	to rest	REST	168		hunguu/	hunguu 
+381	2-4-92-1	72141423180176084	Iraqw	iraq1241	lazy	LAZY	1564		tlii/	tlii 
+382	2-4-93-1	72141423806006463	Iraqw	iraq1241	bald	BALD	1125		paynú	paynú 
+383	2-4-94-1	72141423994225125	Iraqw	iraq1241	lame	LAME	320		sol'oot	sol'oot 
+384	2-4-95-1	72141423805839776	Iraqw	iraq1241	deaf	DEAF	996		ii'a wasl	ii'a wasl 
+385	2-4-96-1	72141423108974673	Iraqw	iraq1241	mute	MUTE	1666		afa wasl	afa wasl 
+386	2-4-97-1	72141423294252526	Iraqw	iraq1241	blind	BLIND	1653		tampa	tampa 
+387	2-4-98-1	72141423625901049	Iraqw	iraq1241	drunk	DRUNK	1463		ooniit	ooniit 
+388	2-4-99-1	72141423281100303	Iraqw	iraq1241	naked	NAKED	590		/aankwets	aankwets 
+389	2-5-11-1	72141423355858547	Iraqw	iraq1241	to eat	EAT	1336		/aay	aay 
+390	2-5-12-1	72141423626721558	Iraqw	iraq1241	the food	FOOD	256		murúu,ayma	murúu 
+391	2-5-12-2	72141423626721558	Iraqw	iraq1241	the food	FOOD	256		murúu,ayma	ayma 
+392	2-5-121-1	72141423450563073	Iraqw	iraq1241	cooked	COOKED	269		hamaar	hamaar 
+393	2-5-122-1	7214142347882582	Iraqw	iraq1241	raw	RAW	1959		/eetl	eetl 
+394	2-5-123-1	72141423450563073	Iraqw	iraq1241	ripe	RIPE	178		hamaar	hamaar 
+395	2-5-124-1	7214142347882582	Iraqw	iraq1241	unripe	UNRIPE	1958		/eetl	eetl 
+396	2-5-125-1	72141423377476867	Iraqw	iraq1241	rotten	ROTTEN	1728		dix	dix 
+397	2-5-13-1	72141423755329622	Iraqw	iraq1241	to drink	DRINK	1401		wah	wah 
+398	2-5-14-1	72141423432379689	Iraqw	iraq1241	to be hungry	BE HUNGRY	1533		qwari	qwari 
+399	2-5-141-1	72141423622901150	Iraqw	iraq1241	the famine	FAMINE	199		giyéet	giyéet 
+400	2-5-15-1	72141423353899526	Iraqw	iraq1241	to be thirsty	THIRSTY	847		waxe	waxe 
+401	2-5-16-1	72141423364894909	Iraqw	iraq1241	to suck	SUCK	1421		du'uum	du'uum 
+402	2-5-18-1	72141423909188921	Iraqw	iraq1241	to chew	CHEW	321		tluu'	tluu' 
+403	2-5-181-1	72141423438992278	Iraqw	iraq1241	to swallow	SWALLOW	897		guu/	guu 
+404	2-5-19-1	72141423839954702	Iraqw	iraq1241	to choke	CHOKE	129		slarahh	slarahh 
+405	2-5-21-1	72141423801769230	Iraqw	iraq1241	to cook	COOK (SOMETHING)	1100		huuriim	huuriim 
+406	2-5-22-1	72141423602060152	Iraqw	iraq1241	to boil	BOIL (OF LIQUID)	792		daahh	daahh 
+407	2-5-23-1	72141423399341162	Iraqw	iraq1241	to roast or fry	ROAST OR FRY	2146		garangaar	garangaar 
+408	2-5-26-1	72141423699741440	Iraqw	iraq1241	the pot	POT	1462		hutlay	hutlay 
+409	2-5-28-1	72141423101422213	Iraqw	iraq1241	the pan	PAN	31		sufuriya	sufuriya 
+410	2-5-31-1	72141423471211027	Iraqw	iraq1241	the dish	DISH	481		xoosla	xoosla 
+411	2-5-32-1	72141423870905870	Iraqw	iraq1241	the plate	PLATE	480		sahaani	sahaani 
+412	2-5-32-2	72141424280656541	Iraqw	iraq1241	the plate	PLATE	480		qwaree/amo	qwaree 
+413	2-5-32-3	72141424280656541	Iraqw	iraq1241	the plate	PLATE	480		qwaree/amo	amo 
+414	2-5-33-1	72141423725026900	Iraqw	iraq1241	the bowl	BOWL	1530		slooqáy	slooqáy 
+415	2-5-35-1	72141423866306360	Iraqw	iraq1241	the cup	CUP	476		koopo	koopo 
+416	2-5-36-1	72141423870905870	Iraqw	iraq1241	the saucer	SAUCER	271		sahaani	sahaani 
+417	2-5-37-1	72141423330410671	Iraqw	iraq1241	the spoon	SPOON	1378		hhansáy	hhansáy 
+418	2-5-38-1	72141423476628621	Iraqw	iraq1241	the knife(1)	KNIFE (FOR EATING)	3210		tsataay	tsataay 
+419	2-5-39-1	72141423485372954	Iraqw	iraq1241	the fork	FORK	1302		uma (1)	uma (1) 
+420	2-5-391-1	7214142335760303	Iraqw	iraq1241	the tongs	TONGS	272		oohamamáy	oohamamáy 
+421	2-5-41-1	72141423626721558	Iraqw	iraq1241	the meal	MEAL	1526		murúu,ayma	murúu 
+422	2-5-41-2	72141423626721558	Iraqw	iraq1241	the meal	MEAL	1526		murúu,ayma	ayma 
+423	2-5-42-1	72141423724379340	Iraqw	iraq1241	the breakfast	BREAKFAST	1322		/aarúw	aarúw 
+424	2-5-43-1	72141423808808436	Iraqw	iraq1241	the lunch	LUNCH	768		/aymadu	aymadu 
+425	2-5-44-1	72141423118029881	Iraqw	iraq1241	the dinner	DINNER (SUPPER)	1833		/aymár tsiindo	aymár tsiindo 
+426	2-5-45-1	72141423118029881	Iraqw	iraq1241	the supper	DINNER (SUPPER)	1833		/aymár tsiindo	aymár tsiindo 
+427	2-5-46-1	72141423648850942	Iraqw	iraq1241	to peel	PEEL	275		fiiq	fiiq 
+428	2-5-47-1	7214142325415176	Iraqw	iraq1241	to sieve or to strain	SIEVE	86		tsoo/	tsoo 
+429	2-5-48-1	72141423588554856	Iraqw	iraq1241	to scrape	SCRAPE	1767		xuus	xuus 
+430	2-5-49-1	72141423849160931	Iraqw	iraq1241	to stir or to mix	MIX	2017		xwaranxwaar	xwaranxwaar 
+431	2-5-51-1	72141423210482674	Iraqw	iraq1241	the bread	BREAD	1368		makaate	makaate 
+432	2-5-53-1	72141423726787157	Iraqw	iraq1241	the dough	DOUGH	273		lufu/ay	lufu 
+433	2-5-53-2	72141423726787157	Iraqw	iraq1241	the dough	DOUGH	273		lufu/ay	ay 
+434	2-5-54-1	72141423123468711	Iraqw	iraq1241	to knead	KNEAD	274		lufuu/	lufuu 
+435	2-5-55-1	72141423531310052	Iraqw	iraq1241	the flour	FLOUR	1594		puurú	puurú 
+436	2-5-56-1	72141423521053378	Iraqw	iraq1241	to crush or to grind	GRIND	1033		xoosl	xoosl 
+437	2-5-58-1	72141423549615442	Iraqw	iraq1241	the mortar(1)	MORTAR CRUSHER	224		kunee	kunee 
+438	2-5-59-1	72141423776639058	Iraqw	iraq1241	the pestle	PESTLE	225		musa	musa 
+439	2-5-61-1	72141423411232053	Iraqw	iraq1241	the meat	MEAT	634		fu'naay	fu'naay 
+440	2-5-64-1	72141423828876468	Iraqw	iraq1241	the soup	SOUP	1547		supu	supu 
+441	2-5-65-1	72141423116298927	Iraqw	iraq1241	the vegetables	VEGETABLES	924		naanú	naanú 
+442	2-5-66-1	72141423194292010	Iraqw	iraq1241	the bean	BEAN	832		loosí	loosí 
+443	2-5-7-1	72141423207402867	Iraqw	iraq1241	the potato	POTATO	593		kasiis	kasiis 
+444	2-5-71-1	72141423324071320	Iraqw	iraq1241	the fruit	FRUIT	1507		maama	maama 
+445	2-5-71-2	72141423608247958	Iraqw	iraq1241	the fruit	FRUIT	1507		ma/andú	ma 
+446	2-5-71-3	72141423608247958	Iraqw	iraq1241	the fruit	FRUIT	1507		ma/andú	andú 
+447	2-5-712-1	72141423202670938	Iraqw	iraq1241	the bunch	BUNCH	1966		ooha	ooha 
+448	2-5-75-1	72141423432721818	Iraqw	iraq1241	the fig	FIG	322		/antsí	antsí 
+449	2-5-77-1	72141423143880792	Iraqw	iraq1241	the nut	NUT	191		waraangw	waraangw 
+450	2-5-79-1	72141423525795814	Iraqw	iraq1241	the oil	OIL (ORGANIC SUBSTANCE)	1484		di/i	di 
+451	2-5-79-2	72141423525795814	Iraqw	iraq1241	the oil	OIL (ORGANIC SUBSTANCE)	1484		di/i	i 
+452	2-5-791-1	72141423525795814	Iraqw	iraq1241	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		di/i	di 
+453	2-5-791-2	72141423525795814	Iraqw	iraq1241	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		di/i	i 
+454	2-5-81-1	72141423782100822	Iraqw	iraq1241	the salt	SALT	1274		diwi	diwi 
+455	2-5-82-1	721414234935974	Iraqw	iraq1241	the pepper	PEPPER	1385		pilipili	pilipili 
+456	2-5-821-1	721414234935974	Iraqw	iraq1241	the chili pepper	CHILI PEPPER	919		pilipili	pilipili 
+457	2-5-84-1	72141423762523067	Iraqw	iraq1241	the honey	HONEY	942		danú	danú 
+458	2-5-85-1	72141423380997529	Iraqw	iraq1241	the sugar	SUGAR	862		sukaari	sukaari 
+459	2-5-86-1	72141423385239405	Iraqw	iraq1241	the milk	MILK	635		ilwa	ilwa 
+460	2-5-87-1	72141423805531762	Iraqw	iraq1241	to milk	DRAW MILK	93		loot	loot 
+461	2-5-89-1	72141423531936615	Iraqw	iraq1241	the butter	BUTTER	1245		di/itá,awak	di 
+462	2-5-89-2	72141423531936615	Iraqw	iraq1241	the butter	BUTTER	1245		di/itá,awak	itá 
+463	2-5-89-3	72141423531936615	Iraqw	iraq1241	the butter	BUTTER	1245		di/itá,awak	awak 
+464	2-5-9-1	72141423527413056	Iraqw	iraq1241	the drink	BEVERAGE	731		gár waha	gár waha 
+465	2-5-91-1	72141423884718155	Iraqw	iraq1241	the mead	MEAD	941		gangali	gangali 
+466	2-5-92-1	72141423151323869	Iraqw	iraq1241	the wine	WINE	1524		diifay	diifay 
+467	2-5-93-1	7214142371489032	Iraqw	iraq1241	the beer	BEER	1639		buura	buura 
+468	2-5-94-1	7214142371489032	Iraqw	iraq1241	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		buura	buura 
+469	2-5-97-1	72141423736104085	Iraqw	iraq1241	the egg	EGG	744		qanhhi	qanhhi 
+470	2-5-971-1	72141423270773686	Iraqw	iraq1241	the yolk	YOLK	1556		na/óo qanhhi	na 
+471	2-5-971-2	72141423270773686	Iraqw	iraq1241	the yolk	YOLK	1556		na/óo qanhhi	óo qanhhi 
+472	2-6-11-1	72141423506518874	Iraqw	iraq1241	to put on	PUT ON	158		tsitiim	tsitiim 
+473	2-6-12-1	72141423865565624	Iraqw	iraq1241	the clothing or clothes	CLOTHES	1895		tlawu	tlawu 
+474	2-6-21-1	72141423778056720	Iraqw	iraq1241	the cloth	CLOTH	1616		inqwár	inqwár 
+475	2-6-29-1	72141423820089691	Iraqw	iraq1241	the leather	LEATHER	629		fala	fala 
+476	2-6-35-1	72141423392365674	Iraqw	iraq1241	to sew	SEW	1457		hiriit	hiriit 
+477	2-6-36-1	72141423638802434	Iraqw	iraq1241	the needle(1)	NEEDLE (FOR SEWING)	1382		laqwa	laqwa 
+478	2-6-38-1	7214142376184247	Iraqw	iraq1241	the thread	THREAD	1161		gulbeeti	gulbeeti 
+479	2-6-38-2	7214142381980324	Iraqw	iraq1241	the thread	THREAD	1161		usi	usi 
+480	2-7-37-1	72141423554992741	Iraqw	iraq1241	the ladder	LADDER	1464		tsa/ama	tsa 
+481	2-7-37-2	72141423554992741	Iraqw	iraq1241	the ladder	LADDER	1464		tsa/ama	ama 
+482	2-6-42-1	7214142319485446	Iraqw	iraq1241	the (woman's) dress	DRESS	474		gawni	gawni 
+483	2-6-43-1	72141423946227108	Iraqw	iraq1241	the coat	COAT	603		koti	koti 
+484	2-6-44-1	72141423874266561	Iraqw	iraq1241	the shirt	SHIRT	1622		shaati	shaati 
+485	2-6-45-1	72141423392111077	Iraqw	iraq1241	the collar	COLLAR	2012		kola	kola 
+486	2-6-46-1	72141423867157834	Iraqw	iraq1241	the skirt	SKIRT	1600		hiinuwee	hiinuwee 
+487	2-6-46-2	72141424100410667	Iraqw	iraq1241	the skirt	SKIRT	1600		kishida	kishida 
+488	2-6-46-3	72141424682292033	Iraqw	iraq1241	the skirt	SKIRT	1600		mirinda	mirinda 
+489	2-6-48-1	72141423796862234	Iraqw	iraq1241	the trousers	TROUSERS	809		surwaali	surwaali 
+490	2-6-49-1	72141423195939360	Iraqw	iraq1241	the sock or stocking	STOCKING	329		soksi	soksi 
+491	2-6-51-1	72141423881269791	Iraqw	iraq1241	the shoe	SHOE	1381		ya/ti	ya 
+492	2-6-51-2	72141423881269791	Iraqw	iraq1241	the shoe	SHOE	1381		ya/ti	ti 
+493	2-6-52-1	72141423340915138	Iraqw	iraq1241	the boot	BOOT	585		xurfa	xurfa 
+494	2-6-55-1	72141423911575784	Iraqw	iraq1241	the hat or cap	HEADGEAR	2130		kafyá	kafyá 
+495	2-6-57-1	72141423101606840	Iraqw	iraq1241	the belt	BELT	772		hhutlmo	hhutlmo 
+496	2-6-61-1	72141423133601647	Iraqw	iraq1241	the pocket	POCKET	1851		tlakwaay	tlakwaay 
+497	2-6-62-1	7214142337033265	Iraqw	iraq1241	the button	BUTTON	757		kifungo	kifungo 
+498	2-6-63-1	72141423449584052	Iraqw	iraq1241	the pin	PIN	64		kik'i	kik'i 
+499	2-6-71-1	7214142381927544	Iraqw	iraq1241	the ornament or adornment	ORNAMENT	917		parooti	parooti 
+500	2-6-73-1	7214142340300846	Iraqw	iraq1241	the ring	RING	1374		pete	pete 
+501	2-6-74-1	72141423311385621	Iraqw	iraq1241	the bracelet	BRACELET	1754		mungáy	mungáy 
+502	2-6-75-1	7214142340892249	Iraqw	iraq1241	the necklace	NECKLACE	1961		himta	himta 
+503	2-6-76-1	72141423722380572	Iraqw	iraq1241	the bead	BEAD	1860		kwasla	kwasla 
+504	2-6-77-1	72141423853100037	Iraqw	iraq1241	the earring	EARRING	770		saaqáan	saaqáan 
+505	2-6-78-1	72141423125607407	Iraqw	iraq1241	the headband or headdress	HEADBAND	330		slamangw	slamangw 
+506	2-6-79-1	72141423324855716	Iraqw	iraq1241	the tattoo	TATTOO	68		slooi	slooi 
+507	2-6-79-2	72141423364380855	Iraqw	iraq1241	the tattoo	TATTOO	68		iree/amu	iree 
+508	2-6-79-3	72141423364380855	Iraqw	iraq1241	the tattoo	TATTOO	68		iree/amu	amu 
+509	2-6-81-1	7214142358577219	Iraqw	iraq1241	the handkerchief or rag	RAG	332		warqamo	warqamo 
+510	2-6-82-1	72141423652009068	Iraqw	iraq1241	the towel	TOWEL	1021		tawlo	tawlo 
+511	2-6-91-1	72141423449584052	Iraqw	iraq1241	the comb	COMB	1475		kik'i	kik'i 
+512	2-6-921-1	72141423345369797	Iraqw	iraq1241	the plait/braid	BRAID	1043		hhuutl	hhuutl 
+513	2-6-93-1	72141423350754667	Iraqw	iraq1241	the razor	RAZOR	151		deeqwa	deeqwa 
+514	2-6-94-1	72141423651444740	Iraqw	iraq1241	the ointment	OINTMENT	1926		sliik	sliik 
+515	2-6-95-1	72141423923699846	Iraqw	iraq1241	the soap	SOAP	788		sabuuni	sabuuni 
+516	2-6-96-1	72141423616893234	Iraqw	iraq1241	the mirror	MIRROR	1171		loo'aa	loo'aa 
+517	2-7-11-1	7214142333628059	Iraqw	iraq1241	to live	DWELL (LIVE, RESIDE)	363		hoot	hoot 
+518	2-7-12-1	72141423176073330	Iraqw	iraq1241	the house	HOUSE	1252		do'	do' 
+519	2-7-13-1	72141423542150259	Iraqw	iraq1241	the hut	HUT	1678		xafi	xafi 
+520	2-7-14-1	72141423690888075	Iraqw	iraq1241	the tent	TENT	1316		hema	hema 
+521	2-7-15-1	72141423819065716	Iraqw	iraq1241	the yard or court	YARD	736		afeeni	afeeni 
+522	2-7-16-1	72141423336173084	Iraqw	iraq1241	the men's house	MEN'S HOUSE	408		huland	huland 
+523	2-7-21-1	72141423801490100	Iraqw	iraq1241	the room	ROOM	1450		chumba	chumba 
+524	2-7-22-1	7214142316915113	Iraqw	iraq1241	the door or gate	DOOR	1567		piindo	piindo 
+525	2-7-22-2	7214142363491915	Iraqw	iraq1241	the door or gate	DOOR	1567		afkú doo'	afkú doo' 
+526	2-7-221-1	72141423830730060	Iraqw	iraq1241	the doorpost	DOORPOST	80		saanka	saanka 
+527	2-7-24-1	72141423120579638	Iraqw	iraq1241	the key	KEY	1472		funguo	funguo 
+528	2-7-25-1	72141423287154342	Iraqw	iraq1241	the window	WINDOW	1375		dirisha	dirisha 
+529	2-7-26-1	72141423501410079	Iraqw	iraq1241	the floor	FLOOR	1632		sakafu	sakafu 
+530	2-7-26-2	72141423167488031	Iraqw	iraq1241	the floor	FLOOR	1632		matl/angw	matl 
+531	2-7-26-3	72141423167488031	Iraqw	iraq1241	the floor	FLOOR	1632		matl/angw	angw 
+532	2-7-27-1	72141423204535890	Iraqw	iraq1241	the wall	WALL (OF HOUSE)	933		koo/i	koo 
+533	2-7-27-2	72141423204535890	Iraqw	iraq1241	the wall	WALL (OF HOUSE)	933		koo/i	i 
+534	2-7-31-1	72141423886913402	Iraqw	iraq1241	the fireplace	FIREPLACE	185		tla/afi	tla 
+535	2-7-31-2	72141423886913402	Iraqw	iraq1241	the fireplace	FIREPLACE	185		tla/afi	afi 
+536	2-7-32-1	72141423612883199	Iraqw	iraq1241	the stove	STOVE	859		bohó asla	bohó asla 
+537	2-7-42-1	72141423729992887	Iraqw	iraq1241	the bed	BED	1663		qatni	qatni 
+538	2-7-421-1	72141423816826261	Iraqw	iraq1241	the pillow	PILLOW	1044		geeohamo	geeohamo 
+539	2-7-422-1	72141423949278024	Iraqw	iraq1241	the blanket	BLANKET	806		burungeti	burungeti 
+540	2-7-43-1	72141423564776340	Iraqw	iraq1241	the chair	CHAIR	1476		kitaangw	kitaangw 
+541	2-7-44-1	72141423611918883	Iraqw	iraq1241	the table	TABLE	1775		meesa	meesa 
+542	2-7-45-1	72141423398330938	Iraqw	iraq1241	the lamp or torch	TORCH OR LAMP	2131		taa'a	taa'a 
+543	2-7-46-1	72141423689208931	Iraqw	iraq1241	the candle	CANDLE	1273		mushumaa	mushumaa 
+544	2-7-47-1	72141423188872490	Iraqw	iraq1241	the shelf	SHELF	745		sitsana	sitsana 
+545	2-7-48-1	72141423147775096	Iraqw	iraq1241	the trough	TROUGH	205		miringa	miringa 
+546	2-7-51-1	72141423930027055	Iraqw	iraq1241	the roof	ROOF	769		dandúu doo'	dandúu doo' 
+547	2-7-54-1	7214142393011017	Iraqw	iraq1241	the rafter	RAFTER	829		waaqas	waaqas 
+548	2-7-55-1	7214142332924120	Iraqw	iraq1241	the beam	BEAM	1132		pohami	pohami 
+549	2-7-56-1	72141423571125843	Iraqw	iraq1241	the post or pole	POST	281		uhmo	uhmo 
+550	2-7-57-1	72141423309109127	Iraqw	iraq1241	the board	BOARD	1227		peehhi	peehhi 
+551	2-7-62-1	72141423771025824	Iraqw	iraq1241	the brick	BRICK	1006		matfali	matfali 
+552	2-8-11-1	72141423373228437	Iraqw	iraq1241	the farmer	FARMER	979		doosliitmo	doosliitmo 
+553	2-8-12-1	72141423624666457	Iraqw	iraq1241	the field	FIELD	212		qaymo	qaymo 
+554	2-8-13-1	72141423411472793	Iraqw	iraq1241	the garden	GARDEN	586		asal	asal 
+555	2-8-15-1	72141423148594476	Iraqw	iraq1241	to cultivate	CULTIVATE	1541		doosl	doosl 
+556	2-8-16-1	7214142377844596	Iraqw	iraq1241	the fence	FENCE	1690		yawa	yawa 
+557	2-8-17-1	72141423352542027	Iraqw	iraq1241	the ditch	DITCH	2002		fereeji	fereeji 
+558	2-8-21-1	72141423884683244	Iraqw	iraq1241	to plough/plow	PLOUGH	1921		tutuuw	tutuuw 
+559	2-8-21-2	72141423148594476	Iraqw	iraq1241	to plough/plow	PLOUGH	1921		doosl	doosl 
+560	2-8-22-1	72141423125459584	Iraqw	iraq1241	to dig	DIG	1418		fool	fool 
+561	2-8-25-1	72141423433549058	Iraqw	iraq1241	the hoe	HOE	284		kurmo	kurmo 
+562	2-8-31-1	7214142360108653	Iraqw	iraq1241	to sow	SOW SEEDS	748		dahaas	dahaas 
+563	2-8-311-1	72141423244970464	Iraqw	iraq1241	the seed	SEED	714		dahasiingw	dahasiingw 
+564	2-8-311-2	72141423143880792	Iraqw	iraq1241	the seed	SEED	714		waraangw	waraangw 
+565	2-8-33-1	72141423730746111	Iraqw	iraq1241	the sickle or scythe	SICKLE OR SCYTHE	2132		injolood	injolood 
+566	2-8-34-1	72141423341848063	Iraqw	iraq1241	to thresh	THRESH	285		diif	diif 
+567	2-8-35-1	72141423819065716	Iraqw	iraq1241	the threshing-floor	THRESHING-FLOOR	223		afeeni	afeeni 
+568	2-8-35-2	72141423777395187	Iraqw	iraq1241	the threshing-floor	THRESHING-FLOOR	223		mundáy	mundáy 
+569	2-8-41-1	72141423356498381	Iraqw	iraq1241	the harvest	HARVEST	611		balaangw	balaangw 
+570	2-8-42-1	72141423356498381	Iraqw	iraq1241	the grain	GRAIN	605		balaangw	balaangw 
+571	2-8-43-1	72141423184515138	Iraqw	iraq1241	the wheat	WHEAT	1077		angaano	angaano 
+572	2-8-44-1	72141423650370866	Iraqw	iraq1241	the barley	BARLEY	932		shayiiri	shayiiri 
+573	2-8-47-1	7214142310726367	Iraqw	iraq1241	the maize/corn	MAIZE	506		/ayto'o	ayto'o 
+574	2-8-48-1	72141423622651862	Iraqw	iraq1241	the rice	RICE	926		muchele	muchele 
+575	2-8-51-1	72141423873411800	Iraqw	iraq1241	the grass	GRASS	606		gitsoo	gitsoo 
+576	2-8-52-1	72141423873411800	Iraqw	iraq1241	the hay	HAY	342		gitsoo	gitsoo 
+577	2-8-52-2	72141423716196678	Iraqw	iraq1241	the hay	HAY	342		hhansla	hhansla 
+578	2-8-53-1	72141423108850588	Iraqw	iraq1241	the plant	PLANT (VEGETATION)	653		hatlit	hatlit 
+579	2-8-531-1	72141423579891576	Iraqw	iraq1241	to plant	PLANT (SOMETHING)	1486		haatl	haatl 
+580	2-8-54-1	72141423204733403	Iraqw	iraq1241	the root	ROOT	670		dee/ár	dee 
+581	2-8-54-2	72141423204733403	Iraqw	iraq1241	the root	ROOT	670		dee/ár	ár 
+582	2-8-55-1	7214142371677617	Iraqw	iraq1241	the branch	BRANCH OR TWIG	3223		halmi	halmi 
+583	2-8-56-1	72141423269485813	Iraqw	iraq1241	the leaf	LEAF	628		loo/i	loo 
+584	2-8-56-2	72141423269485813	Iraqw	iraq1241	the leaf	LEAF	628		loo/i	i 
+585	2-8-57-1	72141423891433100	Iraqw	iraq1241	the flower	FLOWER	239		/ayo	ayo 
+586	2-8-6-1	72141423592719811	Iraqw	iraq1241	the tree	TREE	906		xa'noo	xa'noo 
+587	2-8-68-1	72141423377651197	Iraqw	iraq1241	the tobacco	TOBACCO	974		tumatí	tumatí 
+588	2-8-69-1	72141423755329622	Iraqw	iraq1241	to smoke	SMOKE (INHALE)	1689		wah	wah 
+589	2-8-691-1	72141423758397157	Iraqw	iraq1241	the pipe	PIPE	1124		gugi	gugi 
+590	2-8-72-1	72141423644577725	Iraqw	iraq1241	the tree stump	TREE STUMP	241		guftano	guftano 
+591	2-8-73-1	72141423139468983	Iraqw	iraq1241	the tree trunk	TREE TRUNK	344		diqi ta guftano	diqi ta guftano 
+592	2-8-74-1	7214142329975062	Iraqw	iraq1241	the forked branch	FORKED BRANCH	409		daangáy	daangáy 
+593	2-8-75-1	7214142388477500	Iraqw	iraq1241	the bark	BARK	1204		qafi	qafi 
+594	2-8-76-1	72141423349064590	Iraqw	iraq1241	the sap	SAP	345		duwaa	duwaa 
+595	2-8-81-1	72141423666134978	Iraqw	iraq1241	the palm tree	PALM TREE	1181		slansli	slansli 
+596	2-8-82-1	7214142354822871	Iraqw	iraq1241	the coconut	COCONUT	970		naasi	naasi 
+597	2-8-83-1	72141423243725214	Iraqw	iraq1241	the citrus fruit	CITRUS FRUIT	1126		malmaw	malmaw 
+598	2-8-84-1	72141423793391796	Iraqw	iraq1241	the banana	BANANA	868		arwi	arwi 
+599	2-8-91-1	72141423709578777	Iraqw	iraq1241	the sweet potato	SWEET POTATO	159		kasíis	kasíis 
+600	2-8-92-1	72141423416479584	Iraqw	iraq1241	the cassava/manioc	CASSAVA	925		muhoogo	muhoogo 
+601	2-8-93-1	72141423787141194	Iraqw	iraq1241	the gourd	GOURD	411		/aama/aamu	aama 
+602	2-8-93-2	72141423787141194	Iraqw	iraq1241	the gourd	GOURD	411		/aama/aamu	aamu 
+603	2-8-931-1	72141423157768382	Iraqw	iraq1241	the pumpkin or squash	PUMPKIN	864		/aamu	aamu 
+604	2-8-94-1	72141423244095597	Iraqw	iraq1241	the bamboo	BAMBOO	1927		daa'i	daa'i 
+605	2-8-941-1	72141423114263129	Iraqw	iraq1241	the sugar cane	SUGAR CANE	146		miwa	miwa 
+606	2-8-98-1	72141423467544396	Iraqw	iraq1241	the mushroom	MUSHROOM	641		qanqani	qanqani 
+607	2-9-11-1	72141423552675871	Iraqw	iraq1241	to do	DO	813		tleehh	tleehh 
+608	2-9-12-1	72141423509861944	Iraqw	iraq1241	the work	WORK (LABOUR)	984		gadyeet	gadyeet 
+609	2-9-14-1	72141423687004917	Iraqw	iraq1241	to bend	BEND	2004		qupuu'	qupuu' 
+610	2-9-14-2	72141423311568574	Iraqw	iraq1241	to bend	BEND	2004		mahhaat	mahhaat 
+611	2-9-15-1	72141423145222736	Iraqw	iraq1241	to fold	FOLD	1470		wageeqaw	wageeqaw 
+612	2-9-16-1	72141423816876653	Iraqw	iraq1241	to tie	TIE	1917		tseeg	tseeg 
+613	2-9-161-1	72141424458596166	Iraqw	iraq1241	to untie	UNTIE	352		gweer	gweer 
+614	2-9-18-1	7214142340892249	Iraqw	iraq1241	the chain	CHAIN	1627		himta	himta 
+615	2-9-19-1	72141423420913076	Iraqw	iraq1241	the rope	ROPE	1218		hima	hima 
+616	2-9-192-1	72141423103117184	Iraqw	iraq1241	the knot	KNOT	760		af’untluuri	af’untluuri 
+617	2-9-21-1	72141423311570562	Iraqw	iraq1241	to strike or hit or beat	STRIKE OR BEAT	2133		taahh	taahh 
+618	2-9-21-2	72141423476809513	Iraqw	iraq1241	to strike or hit or beat	STRIKE OR BEAT	2133		law	law 
+619	2-9-211-1	72141423346636826	Iraqw	iraq1241	to pound	POUND	354		kuhhuus	kuhhuus 
+620	2-9-22-1	72141423656973888	Iraqw	iraq1241	to cut	CUT	1432		siiq	siiq 
+621	2-9-22-2	7214142359301987	Iraqw	iraq1241	to cut	CUT	1432		tsaat	tsaat 
+622	2-9-221-1	72141423264163473	Iraqw	iraq1241	to cut down	CUT DOWN	355		daraahh	daraahh 
+623	2-9-222-1	721414232377291	Iraqw	iraq1241	to chop	CHOP	155		feehhiis	feehhiis 
+624	2-9-223-1	72141423436210331	Iraqw	iraq1241	to stab	STAB TO DEATH	3189		muut	muut 
+625	2-9-23-1	72141423488016087	Iraqw	iraq1241	the knife(2)	KNIFE	1352		tsatay	tsatay 
+626	2-9-24-1	72141423856866228	Iraqw	iraq1241	the scissors or shears	SHEARS	356		makaasi	makaasi 
+627	2-9-25-1	72141423990214143	Iraqw	iraq1241	the axe/ax	AXE	677		tsawo	tsawo 
+628	2-9-26-1	72141423523337884	Iraqw	iraq1241	to break	BREAK (DESTROY OR GET DESTROYED)	680		qeetiis	qeetiis 
+629	2-9-261-1	72141423953172932	Iraqw	iraq1241	broken	BROKEN (NOT WORKING)	3190		tsatiit	tsatiit 
+630	2-9-27-1	72141423593884462	Iraqw	iraq1241	to split	SPLIT	1437		fehhiis	fehhiis 
+631	2-9-27-2	72141423999949791	Iraqw	iraq1241	to split	SPLIT	1437		qasiis	qasiis 
+632	2-9-28-1	72141423895064136	Iraqw	iraq1241	to tear	TEAR (SHRED)	1735		ka'aas	ka'aas 
+633	2-9-29-1	72141423581763710	Iraqw	iraq1241	to skin	PULL OFF (SKIN)	291		daaq	daaq 
+634	2-9-31-1	72141423721495252	Iraqw	iraq1241	to rub	RUB	1449		slipiis	slipiis 
+635	2-9-32-1	72141423315809782	Iraqw	iraq1241	to stretch	STRETCH	214		kweetliit	kweetliit 
+636	2-9-33-1	7214142389431814	Iraqw	iraq1241	to pull	PULL	1455		uruux	uruux 
+637	2-9-34-1	72141423465268435	Iraqw	iraq1241	to spread out	SPREAD OUT	38		daraa/	daraa 
+638	2-9-34-2	72141423554118593	Iraqw	iraq1241	to spread out	SPREAD OUT	38		tsaafiis	tsaafiis 
+639	2-9-341-1	72141423934993313	Iraqw	iraq1241	to hang up	HANG UP	357		tareree'	tareree' 
+640	2-9-342-1	7214142325415176	Iraqw	iraq1241	to press	PRESS	1913		tsoo/	tsoo 
+641	2-9-343-1	7214142325415176	Iraqw	iraq1241	to squeeze	SQUEEZE	1414		tsoo/	tsoo 
+642	2-9-35-1	72141423737262361	Iraqw	iraq1241	to pour	POUR	1487		kuus	kuus 
+643	2-9-36-1	72141423276359390	Iraqw	iraq1241	to wash	WASH	1453		hamaatl	hamaatl 
+644	2-9-36-2	7214142374957337	Iraqw	iraq1241	to wash	WASH	1453		hhuunts	hhuunts 
+645	2-9-37-1	72141423899055731	Iraqw	iraq1241	to sweep	SWEEP	230		fiits	fiits 
+646	2-9-38-1	7214142395373448	Iraqw	iraq1241	the broom	BROOM	245		fiitsi	fiitsi 
+647	2-9-422-1	72141423471211027	Iraqw	iraq1241	the tool	TOOL	1361		xoosla	xoosla 
+648	2-9-43-1	72141423349211408	Iraqw	iraq1241	the carpenter	CARPENTER	1042		fundi	fundi 
+649	2-9-44-1	72141423552675871	Iraqw	iraq1241	to build	BUILD	1840		tleehh	tleehh 
+650	2-9-46-1	72141423721495252	Iraqw	iraq1241	to bore	BORE	1501		slipiis	slipiis 
+651	2-9-461-1	72141423667533691	Iraqw	iraq1241	to hollow out	HOLLOW OUT	46		gur fool	gur fool 
+652	2-9-49-1	72141423955452887	Iraqw	iraq1241	the hammer	HAMMER	1481		nuundu	nuundu 
+653	2-9-5-1	72141423679561043	Iraqw	iraq1241	the nail	NAIL (TOOL)	502		musmaari	musmaari 
+654	2-9-56-1	72141423914029749	Iraqw	iraq1241	the glue	GLUE	1069		moqonjó	moqonjó 
+655	2-9-6-1	72141423431904710	Iraqw	iraq1241	the blacksmith	BLACKSMITH	1001		kareera	kareera 
+656	2-9-61-1	72141423827344650	Iraqw	iraq1241	to forge	FORGE	288		kwahhuut	kwahhuut 
+657	2-9-64-1	72141423630871017	Iraqw	iraq1241	the gold	GOLD	1369		zahabu	zahabu 
+658	2-9-67-1	72141423352502369	Iraqw	iraq1241	the iron	IRON	621		muqsli	muqsli 
+659	2-9-71-1	72141423988449032	Iraqw	iraq1241	the potter	POTTER	359		tlee'usmo	tlee'usmo 
+660	2-9-72-1	72141423936233596	Iraqw	iraq1241	to mould/mold	MOLD	289		umtusee	umtusee 
+661	2-9-73-1	72141423274349744	Iraqw	iraq1241	the clay	CLAY	1399		tlee'i	tlee'i 
+662	2-9-74-1	72141423426581389	Iraqw	iraq1241	the glass	GLASS	604		gilasi	gilasi 
+663	2-9-75-1	72141423345369797	Iraqw	iraq1241	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		hhuutl	hhuutl 
+664	2-9-76-1	72141423610516511	Iraqw	iraq1241	the basket	BASKET	1539		lakwanti	lakwanti 
+665	2-9-77-1	72141423142701488	Iraqw	iraq1241	the mat	MAT	195		hhafta	hhafta 
+666	2-9-81-1	72141423469584288	Iraqw	iraq1241	to carve	CARVE	228		goo'iim	goo'iim 
+667	2-9-88-1	72141423514388876	Iraqw	iraq1241	the paint	PAINT (PIGMENTS)	647		rangi	rangi 
+668	2-9-89-1	72141423147929802	Iraqw	iraq1241	to paint	PAINTING	2001		kupiga rangi	kupiga rangi 
+669	2-10-11-1	72141423380200334	Iraqw	iraq1241	to move	MOVE	765		loh	loh 
+670	2-10-12-1	72141423636783348	Iraqw	iraq1241	to turn	TURN	1588		xuptiis	xuptiis 
+671	2-10-13-1	72141423571700440	Iraqw	iraq1241	to turn around	TURN (SOMETHING)	1445		waaqees	waaqees 
+672	2-10-14-1	72141423115266297	Iraqw	iraq1241	to wrap	WRAP	1113		maar	maar 
+673	2-10-15-1	72141423469553710	Iraqw	iraq1241	to roll	ROLL	827		gwangwaraa'	gwangwaraa' 
+674	2-10-16-1	72141423227460397	Iraqw	iraq1241	to drop	DROP (SOMETHING)	2866		slaax	slaax 
+675	2-10-17-1	72141423345369797	Iraqw	iraq1241	to twist	TWIST (AROUND)	3199		hhuutl	hhuutl 
+676	2-10-21-1	72141423487040883	Iraqw	iraq1241	to rise	RISE (MOVE UPWARDS)	568		tlaw	tlaw 
+677	2-10-22-1	72141423721257580	Iraqw	iraq1241	to raise or lift	LIFT	501		tlees	tlees 
+678	2-10-23-1	72141423404090256	Iraqw	iraq1241	to fall	FALL	1280		huu'	huu' 
+679	2-10-24-1	72141423870088432	Iraqw	iraq1241	to drip	DRIP (EMIT LIQUID)	2253		taxaat	taxaat 
+680	2-10-25-1	72141423833935568	Iraqw	iraq1241	to throw	THROW	1456		tlaquut	tlaquut 
+681	2-10-25-2	72141423361816889	Iraqw	iraq1241	to throw	THROW	1456		tsaxaar	tsaxaar 
+682	2-10-252-1	72141424203628757	Iraqw	iraq1241	to catch	CATCH	702		ooh (1)	ooh (1) 
+683	2-10-26-1	72141423407858112	Iraqw	iraq1241	to shake	SHAKE	1909		hikiis	hikiis 
+684	2-10-32-1	72141423761760199	Iraqw	iraq1241	to flow	FLOW	2003		waa/	waa 
+685	2-10-33-1	72141423331231743	Iraqw	iraq1241	to sink	SINK (DESCEND)	1088		tsal'aat	tsal'aat 
+686	2-10-33-2	72141423256332187	Iraqw	iraq1241	to sink	SINK (DESCEND)	1088		/eet	eet 
+687	2-10-34-1	72141423767371253	Iraqw	iraq1241	to float	FLOAT	1574		tlambebe/iit	tlambebe 
+688	2-10-34-2	72141423767371253	Iraqw	iraq1241	to float	FLOAT	1574		tlambebe/iit	iit 
+689	2-10-35-1	72141423513521440	Iraqw	iraq1241	to swim	SWIM	1439		tumbiim	tumbiim 
+690	2-10-351-1	7214142473613334	Iraqw	iraq1241	to dive	DIVE	119		qumburuu/	qumburuu 
+691	2-10-352-1	72141424705464657	Iraqw	iraq1241	to splash	SPLASH	365		tsafiis	tsafiis 
+692	2-10-37-1	72141423265176380	Iraqw	iraq1241	to fly	FLY (MOVE THROUGH AIR)	1441		/akuut	akuut 
+693	2-10-38-1	72141423946528248	Iraqw	iraq1241	to blow	BLOW (OF WIND)	175		ufaahh	ufaahh 
+694	2-10-41-1	72141423237677419	Iraqw	iraq1241	to crawl	CRAWL	96		tla/aaf	tla 
+695	2-10-41-2	72141423237677419	Iraqw	iraq1241	to crawl	CRAWL	96		tla/aaf	aaf 
+696	2-10-412-1	72141424164605847	Iraqw	iraq1241	to kneel	KNEEL	66		tumbara'aat	tumbara'aat 
+697	2-10-413-1	72141424915161167	Iraqw	iraq1241	to crouch	CROUCH	296		sokno'oot	sokno'oot 
+698	2-10-42-1	72141423752605454	Iraqw	iraq1241	to slide or slip	SLIP	1324		nikiits	nikiits 
+699	2-10-43-1	72141423265176380	Iraqw	iraq1241	to jump	JUMP	1829		/akuut	akuut 
+700	2-10-431-1	72141424514761102	Iraqw	iraq1241	to kick	KICK	1135		kalaa/	kalaa 
+701	2-10-44-1	72141423854848939	Iraqw	iraq1241	to dance	DANCE	1879		ni/iim	ni 
+702	2-10-44-2	72141423854848939	Iraqw	iraq1241	to dance	DANCE	1879		ni/iim	iim 
+703	2-10-45-1	72141423813344364	Iraqw	iraq1241	to walk	WALK	1443		hi'iit	hi'iit 
+704	2-10-451-1	72141424133526768	Iraqw	iraq1241	to limp	LIMP	366		soopiim	soopiim 
+705	2-10-46-1	7214142318111104	Iraqw	iraq1241	to run	RUN	1519		ta'iim	ta'iim 
+706	2-10-47-1	72141423404796042	Iraqw	iraq1241	to go	GO	695		aw	aw 
+707	2-10-471-1	72141424840103701	Iraqw	iraq1241	to go up	GO UP (ASCEND)	705		waatlaw	waatlaw 
+708	2-10-472-1	72141424985129114	Iraqw	iraq1241	to climb	CLIMB	1102		tsa/aam	tsa 
+709	2-10-472-2	72141424985129114	Iraqw	iraq1241	to climb	CLIMB	1102		tsa/aam	aam 
+710	2-10-473-1	72141423256332187	Iraqw	iraq1241	to go down	GO DOWN (DESCEND)	2014		/eet	eet 
+711	2-10-474-1	72141424572928547	Iraqw	iraq1241	to go out	GO OUT	1107		ti'iit	ti'iit 
+712	2-10-48-1	72141423599118633	Iraqw	iraq1241	to come	COME	1446		xaw	xaw 
+713	2-10-481-1	72141424916072335	Iraqw	iraq1241	to come back	COME BACK	581		kii/	kii 
+714	2-10-49-1	72141423487040883	Iraqw	iraq1241	to leave	LEAVE	1752		tlaw	tlaw 
+715	2-10-49-2	7214142365882960	Iraqw	iraq1241	to leave	LEAVE	1752		lawee'	lawee' 
+716	2-10-491-1	72141424271687558	Iraqw	iraq1241	to disappear	DISAPPEAR	485		alqwaarees	alqwaarees 
+717	2-10-51-1	72141424235060176	Iraqw	iraq1241	to flee	FLEE	956		goow	goow 
+718	2-10-52-1	72141424497926241	Iraqw	iraq1241	to follow	FOLLOW	1085		eehar	eehar 
+719	2-10-53-1	7214142434512535	Iraqw	iraq1241	to pursue	PURSUE	1047		alfitsiit	alfitsiit 
+720	2-10-55-1	72141424430653143	Iraqw	iraq1241	to arrive	ARRIVE	1387		hardah	hardah 
+721	2-10-56-1	72141424343870688	Iraqw	iraq1241	to approach	APPROACH	1778		nakaa/	nakaa 
+722	2-10-57-1	72141424565966816	Iraqw	iraq1241	to enter	ENTER	749		dah	dah 
+723	2-10-61-1	72141424826212646	Iraqw	iraq1241	to carry	CARRY	700		gagaar	gagaar 
+724	2-10-612-1	72141424567809725	Iraqw	iraq1241	to carry in hand	CARRY IN HAND	412		tataahh	tataahh 
+725	2-10-613-1	72141424817949710	Iraqw	iraq1241	to carry on shoulder	CARRY ON SHOULDER	413		lohiis ar suuma	lohiis ar suuma 
+726	2-10-614-1	72141424694226924	Iraqw	iraq1241	to carry on head	CARRY ON HEAD	414		lohiis ar saga	lohiis ar saga 
+727	2-10-62-1	7214142453059338	Iraqw	iraq1241	to bring	BRING	692		leehh	leehh 
+728	2-10-63-1	72141424939997667	Iraqw	iraq1241	to send	SEND	1127		huuw	huuw 
+729	2-10-64-1	72141424604072552	Iraqw	iraq1241	to lead	LEAD (GUIDE)	43		geerahaar	geerahaar 
+730	2-10-65-1	72141424508159019	Iraqw	iraq1241	to drive	DRIVE	741		iidaahh	iidaahh 
+731	2-10-65-2	72141423115266297	Iraqw	iraq1241	to drive	DRIVE	741		maar	maar 
+732	2-10-67-1	72141424126300296	Iraqw	iraq1241	to push	PUSH	1452		tliwii/	tliwii 
+733	2-10-71-1	72141424222579704	Iraqw	iraq1241	the road	ROAD	667		barbara	barbara 
+734	2-10-72-1	72141424223035656	Iraqw	iraq1241	the path	PATH	2252		loohi	loohi 
+735	2-10-72-2	72141424671955874	Iraqw	iraq1241	the path	PATH	2252		irwaa	irwaa 
+736	2-10-74-1	72141424493539876	Iraqw	iraq1241	the bridge	BRIDGE	1011		tlankaa	tlankaa 
+737	2-10-75-1	72141424287103870	Iraqw	iraq1241	the cart or wagon	CART	122		gari	gari 
+738	2-10-76-1	72141424891692003	Iraqw	iraq1241	the wheel	WHEEL	710		angegee'eemo	angegee'eemo 
+739	2-10-81-1	72141424179291091	Iraqw	iraq1241	the ship	SHIP	740		meli	meli 
+740	2-10-83-1	72141423147775096	Iraqw	iraq1241	the boat	BOAT	1844		miringa	miringa 
+741	2-10-831-1	72141423147775096	Iraqw	iraq1241	the canoe	CANOE	1970		miringa	miringa 
+742	2-11-11-1	72141424592095512	Iraqw	iraq1241	to have	HAVE	773		koom	koom 
+743	2-11-12-1	72141424592095512	Iraqw	iraq1241	to own	OWN	684		koom	koom 
+744	2-11-13-1	72141424567809725	Iraqw	iraq1241	to take	TAKE	1749		tataahh	tataahh 
+745	2-11-14-1	72141424203628757	Iraqw	iraq1241	to grasp	SEIZE	855		ooh (1)	ooh (1) 
+746	2-11-15-1	72141424600357459	Iraqw	iraq1241	to hold	HOLD	1448		ooh	ooh 
+747	2-11-16-1	72141424955954201	Iraqw	iraq1241	to get	GET	694		slaw	slaw 
+748	2-11-18-1	72141424518705650	Iraqw	iraq1241	the thing	THING	738		gaa	gaa 
+749	2-11-21-1	72141424310493997	Iraqw	iraq1241	to give	GIVE	1447		haniis	haniis 
+750	2-11-22-1	72141424361491804	Iraqw	iraq1241	to give back	GIVE BACK	85		ki/iis	ki 
+751	2-11-22-2	72141424361491804	Iraqw	iraq1241	to give back	GIVE BACK	85		ki/iis	iis 
+752	2-11-24-1	7214142432073631	Iraqw	iraq1241	to preserve	PRESERVE	1997		harmagaahh	harmagaahh 
+753	2-11-25-1	7214142471934642	Iraqw	iraq1241	to rescue	RESCUE	2008		/iis	iis 
+754	2-11-27-1	72141424319714353	Iraqw	iraq1241	to destroy	DESTROY	681		hhitiim	hhitiim 
+755	2-11-28-1	72141424630413659	Iraqw	iraq1241	to injure	INJURE	44		iitlaw	iitlaw 
+756	2-11-31-1	72141424304289476	Iraqw	iraq1241	to look for	LOOK FOR	1468		leeleehh	leeleehh 
+757	2-11-32-1	72141424955954201	Iraqw	iraq1241	to find	FIND	719		slaw	slaw 
+758	2-11-33-1	72141424814062398	Iraqw	iraq1241	to lose	LOSE	1660		qwaar	qwaar 
+759	2-11-34-1	72141424646168675	Iraqw	iraq1241	to let go	LET GO OR SET FREE	1095		geemaw	geemaw 
+760	2-11-43-1	7214142451014114	Iraqw	iraq1241	the money	MONEY	1559		tlar/a	tlar 
+761	2-11-43-2	7214142451014114	Iraqw	iraq1241	the money	MONEY	1559		tlar/a	a 
+762	2-11-43-3	72141424601017842	Iraqw	iraq1241	the money	MONEY	1559		nootay	nootay 
+763	2-11-44-1	72141424279821248	Iraqw	iraq1241	the coin	COIN	1867		peesa	peesa 
+764	2-11-51-1	72141424110567051	Iraqw	iraq1241	rich	RICH	712		daqaarmo	daqaarmo 
+765	2-11-52-1	72141424693774801	Iraqw	iraq1241	poor	POOR	1674		narakw	narakw 
+766	2-11-53-1	72141424246867241	Iraqw	iraq1241	the beggar	BEGGAR	1934		fiirusmoo	fiirusmoo 
+767	2-11-54-1	72141424646854074	Iraqw	iraq1241	stingy	STINGY	1774		qahaangw	qahaangw 
+768	2-11-61-1	72141424751161023	Iraqw	iraq1241	to lend	LEND	582		kirktitiis	kirktitiis 
+769	2-11-61-2	72141424481434921	Iraqw	iraq1241	to lend	LEND	582		ina 'oh	ina 'oh 
+770	2-11-62-1	72141424562201645	Iraqw	iraq1241	to borrow	BORROW	1823		kiriik	kiriik 
+771	2-11-63-1	72141424122716554	Iraqw	iraq1241	to owe	OWE	369		inuus	inuus 
+772	2-11-64-1	72141424799985020	Iraqw	iraq1241	the debt	DEBT	1914		iina	iina 
+773	2-11-65-1	72141424512249079	Iraqw	iraq1241	to pay	PAY	718		buu'	buu' 
+774	2-11-66-1	72141424375813250	Iraqw	iraq1241	the bill	BILL	1081		faaro qomeesa	faaro qomeesa 
+775	2-11-69-1	72141424246922010	Iraqw	iraq1241	the tax	TAX	873		koodi	koodi 
+776	2-11-78-1	72141424471535749	Iraqw	iraq1241	the wages	WAGES	1122		bu'utu	bu'utu 
+777	2-11-79-1	72141424208114363	Iraqw	iraq1241	to earn	EARN	733		slaaslaw	slaaslaw 
+778	2-11-81-1	72141424913143085	Iraqw	iraq1241	to buy	BUY	1869		tlaaxw	tlaaxw 
+779	2-11-82-1	72141424247467425	Iraqw	iraq1241	to sell	SELL	1571		weeriis	weeriis 
+780	2-11-83-1	7214142418088052	Iraqw	iraq1241	to trade or barter	TRADE OR BARTER	2135		wa'alah	wa'alah 
+781	2-11-85-1	72141424111716872	Iraqw	iraq1241	the market	MARKET	633		nada	nada 
+782	2-11-86-1	721414245957562	Iraqw	iraq1241	the shop/store	STORE	752		duka	duka 
+783	2-11-87-1	72141424375608477	Iraqw	iraq1241	the price	PRICE	657		tlaxoo	tlaxoo 
+784	2-11-88-1	72141424377285939	Iraqw	iraq1241	expensive	EXPENSIVE	1426		tlaxór gawa	tlaxór gawa 
+785	2-11-89-1	72141424611378358	Iraqw	iraq1241	cheap	CHEAP	1887		inslaahh	inslaahh 
+786	2-11-91-1	72141424586462606	Iraqw	iraq1241	to share	SHARE	884		eem	eem 
+787	2-11-92-1	721414241524398	Iraqw	iraq1241	to weigh	WEIGH	1098		iiloo'	iiloo' 
+788	2-12-01-1	72141424269639333	Iraqw	iraq1241	after	AFTER	1685		alu	alu 
+789	2-12-011-1	72141424269639333	Iraqw	iraq1241	behind	BEHIND	1686		alu	alu 
+790	2-12-02-1	72141424932704313	Iraqw	iraq1241	beside	BESIDE	1816		bihháa	bihháa 
+791	2-12-03-1	72141424937792296	Iraqw	iraq1241	down	DOWN	1326		baray	baray 
+792	2-12-04-1	72141424970489786	Iraqw	iraq1241	before	BEFORE	1882		geera	geera 
+793	2-12-05-1	7214142451989791	Iraqw	iraq1241	inside	INSIDE	1606		yaamú	yaamú 
+794	2-12-05-2	72141424338872351	Iraqw	iraq1241	inside	INSIDE	1606		baráa	baráa 
+795	2-12-06-1	72141424409494674	Iraqw	iraq1241	outside	OUTSIDE	762		tsee/a	tsee 
+796	2-12-06-2	72141424409494674	Iraqw	iraq1241	outside	OUTSIDE	762		tsee/a	a 
+797	2-12-07-1	7214142431046879	Iraqw	iraq1241	under	BELOW OR UNDER	1485		gamú	gamú 
+798	2-12-07-2	7214142442923532	Iraqw	iraq1241	under	BELOW OR UNDER	1485		gurúu	gurúu 
+799	2-12-08-1	72141424134942438	Iraqw	iraq1241	up	UP	1591		daandú	daandú 
+800	2-12-08-2	72141424952300337	Iraqw	iraq1241	up	UP	1591		gawáa	gawáa 
+801	2-12-11-1	72141424474509545	Iraqw	iraq1241	the place	PLACE (POSITION)	723		dii	dii 
+802	2-12-12-1	72141424800464402	Iraqw	iraq1241	to put	PUT	998		qaas	qaas 
+803	2-12-13-1	72141424964761208	Iraqw	iraq1241	to sit	SIT	1416		iwiit	iwiit 
+804	2-12-14-1	72141424610977843	Iraqw	iraq1241	to lie down	LIE DOWN	215		qaat	qaat 
+805	2-12-15-1	72141424994955965	Iraqw	iraq1241	to stand	STAND	1442		sihhiit	sihhiit 
+806	2-12-16-1	72141424668932544	Iraqw	iraq1241	to remain	REMAIN	987		deel	deel 
+807	2-12-17-1	72141424782938795	Iraqw	iraq1241	the remains	REMAINS	838		meetoo	meetoo 
+808	2-12-21-1	72141424365293136	Iraqw	iraq1241	to gather	GATHER	7		hara gwaa'	hara gwaa' 
+809	2-12-21-2	7214142460650329	Iraqw	iraq1241	to gather	GATHER	7		burumbuur	burumbuur 
+810	2-12-212-1	72141424357152796	Iraqw	iraq1241	to pick up	PICK UP	371		slees	slees 
+811	2-12-213-1	72141424149195142	Iraqw	iraq1241	to pile up	PILE UP	1576		tsa/aas	tsa 
+812	2-12-213-2	72141424149195142	Iraqw	iraq1241	to pile up	PILE UP	1576		tsa/aas	aas 
+813	2-12-22-1	72141424398973440	Iraqw	iraq1241	to join	JOIN	1743		hara gaas	hara gaas 
+814	2-12-23-1	72141424464766257	Iraqw	iraq1241	to separate	SEPARATE	1359		amaasl	amaasl 
+815	2-12-232-1	72141423999949791	Iraqw	iraq1241	to divide	DIVIDE	1119		qasiis	qasiis 
+816	2-12-24-1	72141424458596166	Iraqw	iraq1241	to open	OPEN	1156		gweer	gweer 
+817	2-12-25-1	72141423816876653	Iraqw	iraq1241	to shut	SHUT	1046		tseeg	tseeg 
+818	2-12-26-1	72141424984492686	Iraqw	iraq1241	to cover	COVER	761		tuntuuk	tuntuuk 
+819	2-12-26-2	72141424979128383	Iraqw	iraq1241	to cover	COVER	761		/untsuus	untsuus 
+820	2-12-27-1	72141424227293847	Iraqw	iraq1241	to hide	HIDE (CONCEAL)	602		luu/	luu 
+821	2-12-31-1	72141424840208253	Iraqw	iraq1241	high	HIGH	1265		gawa	gawa 
+822	2-12-32-1	72141424937792296	Iraqw	iraq1241	low	LOW	721		baray	baray 
+823	2-12-33-1	72141424840208253	Iraqw	iraq1241	the top	TOP	1753		gawa	gawa 
+824	2-12-34-1	72141424531558722	Iraqw	iraq1241	the bottom	BOTTOM	690		gwe'edáa	gwe'edáa 
+825	2-12-35-1	72141424814495460	Iraqw	iraq1241	the end(1)	END (OF SPACE)	742		kaanki	kaanki 
+826	2-12-353-1	72141423447939400	Iraqw	iraq1241	the edge	EDGE	863		afa	afa 
+827	2-12-36-1	72141424835279907	Iraqw	iraq1241	the side	SIDE	682		bihha	bihha 
+828	2-12-37-1	72141424383360476	Iraqw	iraq1241	the middle	MIDDLE	1093		tla/angw	tla 
+829	2-12-37-2	72141424383360476	Iraqw	iraq1241	the middle	MIDDLE	1093		tla/angw	angw 
+830	2-12-41-1	7214142439286249	Iraqw	iraq1241	right(1)	RIGHT	1019		/iiyay	iiyay 
+831	2-12-42-1	72141424397077828	Iraqw	iraq1241	left	LEFT	244		basa	basa 
+832	2-12-43-1	72141424628110113	Iraqw	iraq1241	near	NEAR	1942		tseew	tseew 
+833	2-12-44-1	72141424329156920	Iraqw	iraq1241	far	FAR	1406		saaw	saaw 
+834	2-12-45-1	72141424828547974	Iraqw	iraq1241	the east	EAST	1877		da/áw	da 
+835	2-12-45-2	72141424828547974	Iraqw	iraq1241	the east	EAST	1877		da/áw	áw 
+836	2-12-46-1	7214142417116860	Iraqw	iraq1241	the west	WEST	1817		/uwa	uwa 
+837	2-12-47-1	72141424258619601	Iraqw	iraq1241	the north	NORTH	1598		/iiya	iiya 
+838	2-12-48-1	72141424397077828	Iraqw	iraq1241	the south	SOUTH	1595		basa	basa 
+839	2-12-53-1	72141424319123254	Iraqw	iraq1241	to grow	GROW	479		uraw	uraw 
+840	2-12-54-1	7214142492056897	Iraqw	iraq1241	to measure	MEASURE	1506		qoomees	qoomees 
+841	2-12-541-1	72141424668633262	Iraqw	iraq1241	the fathom	FATHOM	81		digir	digir 
+842	2-12-55-1	72141424818708870	Iraqw	iraq1241	big	BIG	1202		ur	ur 
+843	2-12-56-1	72141424633853409	Iraqw	iraq1241	small	SMALL	1246		niina	niina 
+844	2-12-57-1	72141424163411971	Iraqw	iraq1241	long	LONG	1203		tleer	tleer 
+845	2-12-58-1	72141424163411971	Iraqw	iraq1241	tall	TALL	711		tleer	tleer 
+846	2-12-59-1	72141424732584345	Iraqw	iraq1241	short	SHORT	1645		ququmaar	ququmaar 
+847	2-12-61-1	72141424148765386	Iraqw	iraq1241	wide	WIDE	1243		intlaaxw	intlaaxw 
+848	2-12-62-1	72141424720758803	Iraqw	iraq1241	narrow	NARROW	1267		iiraakw	iiraakw 
+849	2-12-63-1	72141424227024962	Iraqw	iraq1241	thick	THICK	1244		diqi ur	diqi ur 
+850	2-12-65-1	7214142458212628	Iraqw	iraq1241	thin	THIN (OF SHAPE OF OBJECT)	2249		diqi niina	diqi niina 
+851	2-12-67-1	72141424122925462	Iraqw	iraq1241	deep	DEEP	1593		tsal'i	tsal'i 
+852	2-12-68-1	7214142428550685	Iraqw	iraq1241	shallow	SHALLOW	193		parampehh	parampehh 
+853	2-12-71-1	72141424313455597	Iraqw	iraq1241	flat	FLAT	1633		peehh	peehh 
+854	2-12-73-1	72141424511005965	Iraqw	iraq1241	straight	STRAIGHT	1404		ganaa'	ganaa' 
+855	2-12-74-1	72141424879412774	Iraqw	iraq1241	crooked	CROOKED	297		kutluu/	kutluu 
+856	2-12-75-1	72141423341633339	Iraqw	iraq1241	the hook	HOOK	1071		mugúl	mugúl 
+857	2-12-76-1	72141424814495460	Iraqw	iraq1241	the corner	CORNER	192		kaanki	kaanki 
+858	2-12-81-1	72141424282413281	Iraqw	iraq1241	round	ROUND	1395		gumbalalahh	gumbalalahh 
+859	2-12-82-1	7214142449087252	Iraqw	iraq1241	the circle	CIRCLE	1467		pu'umpuu'	pu'umpuu' 
+860	2-12-83-1	72141424965248919	Iraqw	iraq1241	the ball	BALL	1845		impiirmo	impiirmo 
+861	2-12-84-1	72141424613274107	Iraqw	iraq1241	the line	LINE	1048		hha'ay	hha'ay 
+862	2-12-85-1	72141424574777108	Iraqw	iraq1241	the hole	HOLE	1667		bohongw	bohongw 
+863	2-12-92-1	72141424842869442	Iraqw	iraq1241	similar	SIMILAR	1558		slaqas	slaqas 
+864	2-12-93-1	72141424873177677	Iraqw	iraq1241	to change	CHANGE	1264		warqees	warqees 
+865	2-13-1	72141424688015971	Iraqw	iraq1241	zero	ZERO	1294		pampoo	pampoo 
+866	2-13-2	7214142435444057	Iraqw	iraq1241	zero	ZERO	1294		kahhaay	kahhaay 
+867	2-13-01-1	72141424855806014	Iraqw	iraq1241	one	ONE	1493		wak	wak 
+868	2-13-02-1	7214142465037119	Iraqw	iraq1241	two	TWO	1498		tsár	tsár 
+869	2-13-03-1	72141424249388120	Iraqw	iraq1241	three	THREE	492		tám	tám 
+870	2-13-04-1	72141424164861269	Iraqw	iraq1241	four	FOUR	1500		tsiyáahh	tsiyáahh 
+871	2-13-05-1	72141424452123237	Iraqw	iraq1241	five	FIVE	493		koo'án	koo'án 
+872	2-13-06-1	72141424647888684	Iraqw	iraq1241	six	SIX	1703		lahhóo'	lahhóo' 
+873	2-13-07-1	72141424891344346	Iraqw	iraq1241	seven	SEVEN	1704		faanqw	faanqw 
+874	2-13-08-1	7214142428759805	Iraqw	iraq1241	eight	EIGHT	1705		dakáat	dakáat 
+875	2-13-09-1	72141424123493513	Iraqw	iraq1241	nine	NINE	1483		gwaleel	gwaleel 
+876	2-13-1-1	72141424552738333	Iraqw	iraq1241	ten	TEN	1515		mibaangw	mibaangw 
+877	2-13-101-1	72141424338907802	Iraqw	iraq1241	eleven	ELEVEN	1706		mibaangw nee wak	mibaangw nee wak 
+878	2-13-102-1	72141424310691305	Iraqw	iraq1241	twelve	TWELVE	1707		mibaangw nee tsar	mibaangw nee tsar 
+879	2-13-103-1	72141424922219691	Iraqw	iraq1241	fifteen	FIFTEEN	1709		mibaangw nee koo'an	mibaangw nee koo'an 
+880	2-13-104-1	72141424174168027	Iraqw	iraq1241	twenty	TWENTY	1710		mibeeri tsar	mibeeri tsar 
+881	2-13-105-1	72141424424495017	Iraqw	iraq1241	a hundred	HUNDRED	1634		tsiiru	tsiiru 
+882	2-13-106-1	72141424742734811	Iraqw	iraq1241	a thousand	THOUSAND	1843		kuma	kuma 
+883	2-13-107-1	72141424797174216	Iraqw	iraq1241	to count	COUNT	1420		faar	faar 
+884	2-13-14-1	72141424829918533	Iraqw	iraq1241	all	ALL	98		umúu	umúu 
+885	2-13-14-2	72141424624426082	Iraqw	iraq1241	all	ALL	98		sleemeero	sleemeero 
+886	2-13-15-1	72141424818708870	Iraqw	iraq1241	many	MANY	1198		ur	ur 
+887	2-13-15-2	72141424830533745	Iraqw	iraq1241	many	MANY	1198		yaariir	yaariir 
+888	2-13-16-1	72141424525988743	Iraqw	iraq1241	more	MORE	1992		ak	ak 
+889	2-13-17-1	72141424571609270	Iraqw	iraq1241	few	FEW	1242		peeráy	peeráy 
+890	2-13-18-1	72141424187349039	Iraqw	iraq1241	enough	ENOUGH	1881		bu'uut	bu'uut 
+891	2-13-19-1	72141424876172669	Iraqw	iraq1241	the crowd	CROWD	2023		xooro	xooro 
+892	2-13-21-1	72141424368963195	Iraqw	iraq1241	full	FULL	1429		haats	haats 
+893	2-13-22-1	72141424769900267	Iraqw	iraq1241	empty	EMPTY	1624		kahaar	kahaar 
+894	2-13-23-1	72141424600775542	Iraqw	iraq1241	the part	PART	779		baraka	baraka 
+895	2-13-24-1	72141424747288940	Iraqw	iraq1241	the half	HALF	816		tlaqi	tlaqi 
+896	2-13-33-1	72141424608047873	Iraqw	iraq1241	only	ONLY	1580		kilós	kilós 
+897	2-13-34-1	72141424970489786	Iraqw	iraq1241	first	FIRST	728		geera	geera 
+898	2-13-35-1	72141424666517773	Iraqw	iraq1241	last	LAST (FINAL)	1529		aluut	aluut 
+899	2-13-35-2	72141424862429029	Iraqw	iraq1241	last	LAST (FINAL)	1529		al hhe'eesay	al hhe'eesay 
+900	2-13-36-1	72141424936981124	Iraqw	iraq1241	second	SECOND	1384		ar tsar	ar tsar 
+901	2-13-37-1	72141424562350464	Iraqw	iraq1241	the pair	PAIR	1888		tsarer	tsarer 
+902	2-13-38-1	72141424147394420	Iraqw	iraq1241	twice/two times	TWICE	1546		tsadiit	tsadiit 
+903	2-14-11-1	72141424276653895	Iraqw	iraq1241	the time	TIME	892		siiwa	siiwa 
+904	2-14-12-1	72141424824607514	Iraqw	iraq1241	the age	AGE	1789		afiqooma	afiqooma 
+905	2-14-13-1	72141424898629108	Iraqw	iraq1241	new	NEW	1231		/aben	aben 
+906	2-14-14-1	72141424633853409	Iraqw	iraq1241	young	YOUNG	1207		niina	niina 
+907	2-14-15-1	72141424455622210	Iraqw	iraq1241	old	OLD	1229		qaren	qaren 
+908	2-14-16-1	72141424275916974	Iraqw	iraq1241	early	EARLY	672		tseewa	tseewa 
+909	2-14-17-1	72141424249142503	Iraqw	iraq1241	late	LATE	477		adaa/	adaa 
+910	2-14-17-2	72141424247612665	Iraqw	iraq1241	late	LATE	477		tliig	tliig 
+911	2-14-18-1	72141424827402006	Iraqw	iraq1241	now	NOW	1376		hami	hami 
+912	2-14-19-1	72141424194362648	Iraqw	iraq1241	immediately	IMMEDIATELY	1963		adá	adá 
+913	2-14-19-2	72141424673888865	Iraqw	iraq1241	immediately	IMMEDIATELY	1963		hamtí	hamtí 
+914	2-14-21-1	72141424924850063	Iraqw	iraq1241	fast	FAST	1631		muutl	muutl 
+915	2-14-21-2	72141424300548987	Iraqw	iraq1241	fast	FAST	1631		ganslay	ganslay 
+916	2-14-22-1	72141424358943204	Iraqw	iraq1241	slow	SLOW	701		tseegiis	tseegiis 
+917	2-14-23-1	72141424300548987	Iraqw	iraq1241	to hurry	HURRY	754		ganslay	ganslay 
+918	2-14-24-1	72141424249142503	Iraqw	iraq1241	to be late	BE LATE	425		adaa/	adaa 
+919	2-14-25-1	72141424723468407	Iraqw	iraq1241	to begin	BEGIN	1806		iimu/uum	iimu 
+920	2-14-25-2	72141424723468407	Iraqw	iraq1241	to begin	BEGIN	1806		iimu/uum	uum 
+921	2-14-252-1	72141424201404690	Iraqw	iraq1241	to last	LAST (ENDURE)	1186		il'ohiim	il'ohiim 
+922	2-14-26-1	72141424348887106	Iraqw	iraq1241	the end(2)	END (OF TIME)	743		al hhe’eesay	al hhe’eesay 
+923	2-14-27-1	72141424894498066	Iraqw	iraq1241	to finish	FINISH	1766		hhe'ees	hhe'ees 
+924	2-14-28-1	72141424261849417	Iraqw	iraq1241	to cease	CEASE	1928		maw	maw 
+925	2-14-31-1	72141424624426082	Iraqw	iraq1241	always	ALWAYS	1676		sleemeero	sleemeero 
+926	2-14-32-1	72141424513181118	Iraqw	iraq1241	often	OFTEN	1852		ki/ima yariir	ki 
+927	2-14-32-2	72141424513181118	Iraqw	iraq1241	often	OFTEN	1852		ki/ima yariir	ima yariir 
+928	2-14-33-1	72141424124647864	Iraqw	iraq1241	sometimes	SOMETIMES	1544		ki/ima waket	ki 
+929	2-14-33-2	72141424124647864	Iraqw	iraq1241	sometimes	SOMETIMES	1544		ki/ima waket	ima waket 
+930	2-14-331-1	72141424194362648	Iraqw	iraq1241	soon	SOON	703		adá	adá 
+931	2-14-332-1	72141424591222265	Iraqw	iraq1241	for a long time	FOR A LONG TIME	418		deelór yaariir	deelór yaariir 
+932	2-14-34-1	72141424885320533	Iraqw	iraq1241	never	NEVER	1656		baló	baló 
+933	2-14-35-1	72141424740173504	Iraqw	iraq1241	again	AGAIN	204		malé	malé 
+934	2-14-41-1	72141424665955628	Iraqw	iraq1241	the day(1)	DAY (24 HOURS)	1260		bal	bal 
+935	2-14-41-2	72141424762511155	Iraqw	iraq1241	the day(1)	DAY (24 HOURS)	1260		deelo	deelo 
+936	2-14-42-1	7214142449197650	Iraqw	iraq1241	the night	NIGHT	1233		xweera	xweera 
+937	2-14-43-1	72141424107677001	Iraqw	iraq1241	the dawn	DAWN	729		pinsliit	pinsliit 
+938	2-14-44-1	72141424795643777	Iraqw	iraq1241	the morning	MORNING	1339		matlaatlee	matlaatlee 
+939	2-14-45-1	72141424743506533	Iraqw	iraq1241	the midday	MIDDAY	12		tlatla/aangw	tlatla 
+940	2-14-45-2	72141424743506533	Iraqw	iraq1241	the midday	MIDDAY	12		tlatla/aangw	aangw 
+941	2-14-451-1	72141424434046626	Iraqw	iraq1241	the afternoon	AFTERNOON	1807		furaa'i	furaa'i 
+942	2-14-46-1	72141424420670306	Iraqw	iraq1241	the evening	EVENING	1629		tsiindo	tsiindo 
+943	2-14-47-1	72141424227996735	Iraqw	iraq1241	today	TODAY	1283		laarí	laarí 
+944	2-14-48-1	72141424243011347	Iraqw	iraq1241	tomorrow	TOMORROW	1329		matloo	matloo 
+945	2-14-481-1	72141424306106290	Iraqw	iraq1241	the day after tomorrow	DAY AFTER TOMORROW	1179		baloqa	baloqa 
+946	2-14-49-1	72141424282819357	Iraqw	iraq1241	yesterday	YESTERDAY	1174		/isá'	isá' 
+947	2-14-491-1	72141424114459484	Iraqw	iraq1241	the day before yesterday	DAY BEFORE YESTERDAY	1180		lat'áangw	lat'áangw 
+948	2-14-51-1	72141423616893234	Iraqw	iraq1241	the hour	HOUR	1353		loo'aa	loo'aa 
+949	2-14-53-1	72141424727201276	Iraqw	iraq1241	the clock	CLOCK	1323		saa'a	saa'a 
+950	2-14-61-1	7214142427943798	Iraqw	iraq1241	the week	WEEK	1469		wiiki	wiiki 
+951	2-14-62-1	72141424225524529	Iraqw	iraq1241	Sunday	SUNDAY	1699		deelór mungu	deelór mungu 
+952	2-14-63-1	72141424584852130	Iraqw	iraq1241	Monday	MONDAY	1697		deelór ki/ima	deelór ki 
+953	2-14-63-2	72141424584852130	Iraqw	iraq1241	Monday	MONDAY	1697		deelór ki/ima	ima 
+954	2-14-64-1	72141424996887482	Iraqw	iraq1241	Tuesday	TUESDAY	1695		deelór tsár	deelór tsár 
+955	2-14-65-1	72141424738524454	Iraqw	iraq1241	Wednesday	WEDNESDAY	1694		deelór tám	deelór tám 
+956	2-14-66-1	72141424422992285	Iraqw	iraq1241	Thursday	THURSDAY	1693		deelór tsiiyahh	deelór tsiiyahh 
+957	2-14-67-1	72141424293794297	Iraqw	iraq1241	Friday	FRIDAY	1692		deelór koo'án	deelór koo'án 
+958	2-14-68-1	72141424134195629	Iraqw	iraq1241	Saturday	SATURDAY	1700		deelór lahhóo'	deelór lahhóo' 
+959	2-14-71-1	72141424909253365	Iraqw	iraq1241	the month	MONTH	1370		slahhangw	slahhangw 
+960	2-14-73-1	72141424157094792	Iraqw	iraq1241	the year	YEAR	1226		kuru	kuru 
+961	2-14-74-1	72141424709114190	Iraqw	iraq1241	the winter	WINTER	1471		axwaari	axwaari 
+962	2-14-75-1	72141424766208904	Iraqw	iraq1241	the spring(2)	SPRINGTIME	1537		doomu	doomu 
+963	2-14-76-1	72141424652096908	Iraqw	iraq1241	the summer	SUMMER	1342		agee	agee 
+964	2-14-77-1	72141424485583253	Iraqw	iraq1241	the autumn/fall	AUTUMN	1276		qaday	qaday 
+965	2-14-78-1	72141424862587348	Iraqw	iraq1241	the season	SEASON	691		qooma	qooma 
+966	2-15-21-1	72141424783201315	Iraqw	iraq1241	to smell(1)	SMELL (STINK)	1587		tsutsuu’	tsutsuu’ 
+967	2-15-89-1	72141424220708017	Iraqw	iraq1241	wrinkled	WRINKLED	380		qweets	qweets 
+968	2-15-212-1	72141424197733041	Iraqw	iraq1241	to sniff	SNIFF	375		hif'oo	hif'oo 
+969	2-15-22-1	72141424231033432	Iraqw	iraq1241	to smell(2)	SMELL (PERCEIVE)	1586		tsaa'	tsaa' 
+970	2-15-25-1	7214142475327210	Iraqw	iraq1241	fragrant	FRAGRANT	376		mooyaangw	mooyaangw 
+971	2-15-26-1	72141424794187689	Iraqw	iraq1241	stinking	STINKING	42		tsi'i	tsi'i 
+972	2-15-31-1	72141424553244322	Iraqw	iraq1241	to taste	TASTE (SOMETHING)	21		tsaaq	tsaaq 
+973	2-15-31-2	72141424819236733	Iraqw	iraq1241	to taste	TASTE (SOMETHING)	21		tsuu’	tsuu’ 
+974	2-15-31-3	72141424129745461	Iraqw	iraq1241	to taste	TASTE (SOMETHING)	21		/aanduut	aanduut 
+975	2-15-35-1	7214142493543044	Iraqw	iraq1241	sweet	SWEET	717		nuqunuuq	nuqunuuq 
+976	2-15-36-1	72141424792700366	Iraqw	iraq1241	salty	SALTY	1091		maamahh	maamahh 
+977	2-15-37-1	7214142413824950	Iraqw	iraq1241	bitter	BITTER	887		qarqaar	qarqaar 
+978	2-15-38-1	72141424872553458	Iraqw	iraq1241	sour	SOUR	1906		gigihh	gigihh 
+979	2-15-41-1	7214142478706768	Iraqw	iraq1241	to hear	HEAR	1408		axaas	axaas 
+980	2-15-42-1	72141424332364310	Iraqw	iraq1241	to listen	LISTEN	1608		ii'a qaas	ii'a qaas 
+981	2-15-44-1	72141424712014770	Iraqw	iraq1241	the sound or noise	SOUND OR NOISE	1811		afoo	afoo 
+982	2-15-45-1	7214142447909856	Iraqw	iraq1241	loud	LOUD	377		afór ur	afór ur 
+983	2-15-46-1	72141424443022285	Iraqw	iraq1241	quiet	QUIET	1314		xaasl	xaasl 
+984	2-15-51-1	72141424963747622	Iraqw	iraq1241	to see	SEE	1409		ar	ar 
+985	2-15-51-2	72141424970424419	Iraqw	iraq1241	to see	SEE	1409		ga/aw	ga 
+986	2-15-51-3	72141424970424419	Iraqw	iraq1241	to see	SEE	1409		ga/aw	aw 
+987	2-15-52-1	72141424432878577	Iraqw	iraq1241	to look	LOOK	1819		qaytsiit	qaytsiit 
+988	2-15-55-1	72141424825719599	Iraqw	iraq1241	to show	SHOW	1039		lalaqaas	lalaqaas 
+989	2-15-56-1	72141424944624320	Iraqw	iraq1241	to shine	SHINE	708		tsaa'aas	tsaa'aas 
+990	2-15-57-1	72141424555179983	Iraqw	iraq1241	bright	BRIGHT	679		mitsihh	mitsihh 
+991	2-15-61-1	72141424641431102	Iraqw	iraq1241	the colour/color	COLOR	1613		kalay	kalay 
+992	2-15-64-1	72141424567591258	Iraqw	iraq1241	white	WHITE	1335		/awaak	awaak 
+993	2-15-65-1	72141424560481912	Iraqw	iraq1241	black	BLACK	163		boo/	boo 
+994	2-15-66-1	72141424394880168	Iraqw	iraq1241	red	RED	156		daa/aat	daa 
+995	2-15-66-2	72141424394880168	Iraqw	iraq1241	red	RED	156		daa/aat	aat 
+996	2-15-67-1	72141424351400791	Iraqw	iraq1241	blue	BLUE	837		maynyaar	maynyaar 
+997	2-15-68-1	72141424200821294	Iraqw	iraq1241	green	GREEN	1425		qantsar	qantsar 
+998	2-15-69-1	72141424845833868	Iraqw	iraq1241	yellow	YELLOW	1424		tsee/aat	tsee 
+999	2-15-69-2	72141424845833868	Iraqw	iraq1241	yellow	YELLOW	1424		tsee/aat	aat 
+1000	2-15-71-1	72141424907954797	Iraqw	iraq1241	to touch	TOUCH	1892		kwatiit	kwatiit 
+1001	2-15-712-1	72141424347620690	Iraqw	iraq1241	to pinch	PINCH	378		kutsuuhh	kutsuuhh 
+1002	2-15-72-1	72141424623491072	Iraqw	iraq1241	to feel	FEEL	1079		motsotsoqoos	motsotsoqoos 
+1003	2-15-74-1	72141424287399117	Iraqw	iraq1241	hard	HARD	1884		gawid	gawid 
+1004	2-15-75-1	72141424489683564	Iraqw	iraq1241	soft	SOFT	1856		wanaanaa'	wanaanaa' 
+1005	2-15-76-1	72141424739323040	Iraqw	iraq1241	rough(1)	ROUGH	1923		xaslasla'	xaslasla' 
+1006	2-15-77-1	72141424321477494	Iraqw	iraq1241	smooth	SMOOTH	1234		motsotsooq	motsotsooq 
+1007	2-15-78-1	721414249988347	Iraqw	iraq1241	sharp	SHARP	1396		wer'i	wer'i 
+1008	2-15-79-1	72141424592703104	Iraqw	iraq1241	blunt	BLUNT	379		muski	muski 
+1009	2-15-81-1	72141424453584024	Iraqw	iraq1241	heavy	HEAVY	1210		iilo'	iilo' 
+1010	2-15-82-1	72141424611378358	Iraqw	iraq1241	light(1)	LIGHT (WEIGHT)	1052		inslaahh	inslaahh 
+1011	2-15-83-1	72141424292918922	Iraqw	iraq1241	wet	WET	1726		naa/	naa 
+1012	2-15-84-1	72141424454224384	Iraqw	iraq1241	dry	DRY	1398		kaahaar	kaahaar 
+1013	2-15-85-1	72141424329946699	Iraqw	iraq1241	hot	HOT	1286		da/aa/am	da 
+1014	2-15-85-2	72141424329946699	Iraqw	iraq1241	hot	HOT	1286		da/aa/am	aa 
+1015	2-15-85-3	72141424329946699	Iraqw	iraq1241	hot	HOT	1286		da/aa/am	am 
+1016	2-15-851-1	72141424562314331	Iraqw	iraq1241	warm	WARM	1232		haam	haam 
+1017	2-15-86-1	72141424537985747	Iraqw	iraq1241	cold	COLD	1287		tsa'	tsa' 
+1018	2-15-87-1	72141424570429874	Iraqw	iraq1241	clean	CLEAN	704		hhoohhoo'	hhoohhoo' 
+1019	2-15-88-1	72141424205783805	Iraqw	iraq1241	dirty	DIRTY	1230		slasla/aar	slasla 
+1020	2-15-88-2	72141424205783805	Iraqw	iraq1241	dirty	DIRTY	1230		slasla/aar	aar 
+1021	2-16-11-1	72141424554318525	Iraqw	iraq1241	the soul or spirit	SOUL	811		qeeru	qeeru 
+1022	2-16-15-1	7214142430323304	Iraqw	iraq1241	surprised or astonished	SURPRISED	1572		ila baa/	ila baa 
+1023	2-16-18-1	72141424978698188	Iraqw	iraq1241	the good luck	GOOD LUCK	720		gitsa/a hhoo'	gitsa 
+1024	2-16-18-2	72141424978698188	Iraqw	iraq1241	the good luck	GOOD LUCK	720		gitsa/a hhoo'	a hhoo' 
+1025	2-16-19-1	72141424832100976	Iraqw	iraq1241	the bad luck	BAD LUCK	56		gita/a tlaakw	gita 
+1026	2-16-19-2	72141424832100976	Iraqw	iraq1241	the bad luck	BAD LUCK	56		gita/a tlaakw	a tlaakw 
+1027	2-16-23-1	7214142457406908	Iraqw	iraq1241	happy	HAPPY	1495		qwalaa/	qwalaa 
+1028	2-16-25-1	7214142434353719	Iraqw	iraq1241	to laugh	LAUGH	1355		qaseem	qaseem 
+1029	2-16-251-1	72141424816712058	Iraqw	iraq1241	to smile	SMILE	1451		misqiis	misqiis 
+1030	2-16-26-1	72141424426446017	Iraqw	iraq1241	to play	PLAY	1413		neet	neet 
+1031	2-16-27-1	72141424511031159	Iraqw	iraq1241	to love	LOVE	923		slaa'	slaa' 
+1032	2-16-29-1	72141424186032894	Iraqw	iraq1241	to kiss	KISS	578		ma'aas	ma'aas 
+1033	2-16-31-1	72141424817442019	Iraqw	iraq1241	the pain	PAIN	1783		slahhaa'amu	slahhaa'amu 
+1034	2-16-32-1	72141424847438419	Iraqw	iraq1241	the grief	GRIEF	1668		hhima'oo	hhima'oo 
+1035	2-16-33-1	72141424653460670	Iraqw	iraq1241	the anxiety	ANXIETY	1000		gur haam	gur haam 
+1036	2-16-34-1	72141424483166235	Iraqw	iraq1241	to regret or be sorry	REGRET	1875		wa/aa/uus	wa 
+1037	2-16-34-2	72141424483166235	Iraqw	iraq1241	to regret or be sorry	REGRET	1875		wa/aa/uus	aa 
+1038	2-16-34-3	72141424483166235	Iraqw	iraq1241	to regret or be sorry	REGRET	1875		wa/aa/uus	uus 
+1039	2-16-35-1	72141424237925595	Iraqw	iraq1241	the pity	PITY	1141		gur tlaw	gur tlaw 
+1040	2-16-37-1	72141424482671968	Iraqw	iraq1241	to cry	CRY	1839		/aa/	aa 
+1041	2-16-38-1	72141424440890588	Iraqw	iraq1241	the tear	TEAR (OF EYE)	1651		hhirhheermo	hhirhheermo 
+1042	2-16-39-1	72141424683120355	Iraqw	iraq1241	to groan	GROAN	716		/iif	iif 
+1043	2-16-41-1	72141424204634461	Iraqw	iraq1241	to hate	HATE	1607		aahh	aahh 
+1044	2-16-42-1	72141424420859751	Iraqw	iraq1241	the anger	ANGER	82		munee	munee 
+1045	2-16-44-1	72141424961654252	Iraqw	iraq1241	the envy or jealousy	ENVY	40		aslusmo	aslusmo 
+1046	2-16-45-1	72141424351777593	Iraqw	iraq1241	the shame	SHAME	1776		muree	muree 
+1047	2-16-48-1	72141424311139252	Iraqw	iraq1241	proud	PROUD	174		dara/aam	dara 
+1048	2-16-48-2	72141424311139252	Iraqw	iraq1241	proud	PROUD	174		dara/aam	aam 
+1049	2-16-51-1	72141424682084555	Iraqw	iraq1241	to dare	DARE	1779		migi	migi 
+1050	2-16-52-1	72141424682084555	Iraqw	iraq1241	brave	BRAVE	3		migi	migi 
+1051	2-16-53-1	72141424584456126	Iraqw	iraq1241	the fear	FEAR (FRIGHT)	781		da'ayee	da'ayee 
+1052	2-16-54-1	721414248604763	Iraqw	iraq1241	the danger	DANGER	1810		tsaxwa	tsaxwa 
+1053	2-16-62-1	72141424511031159	Iraqw	iraq1241	to want	WANT	1784		slaa'	slaa' 
+1054	2-16-62-2	72141424209035950	Iraqw	iraq1241	to want	WANT	1784		moots	moots 
+1055	2-16-622-1	72141424625799434	Iraqw	iraq1241	to choose	CHOOSE	1750		tsawaar	tsawaar 
+1056	2-16-63-1	72141424147307987	Iraqw	iraq1241	to hope	HOPE (SOMETHING)	3212		harahhiif	harahhiif 
+1057	2-16-65-1	72141424221322282	Iraqw	iraq1241	faithful	FAITHFUL	100		harafdiit	harafdiit 
+1058	2-16-66-1	72141424192967790	Iraqw	iraq1241	true	TRUE	1657		lo'	lo' 
+1059	2-16-67-1	72141424515055285	Iraqw	iraq1241	to lie(2)	LIE (MISLEAD)	601		al/aay	al 
+1060	2-16-67-2	72141424515055285	Iraqw	iraq1241	to lie(2)	LIE (MISLEAD)	601		al/aay	aay 
+1061	2-16-68-1	72141424431752336	Iraqw	iraq1241	the deceit	DECEIT	13		al/ayma	al 
+1062	2-16-68-2	72141424431752336	Iraqw	iraq1241	the deceit	DECEIT	13		al/ayma	ayma 
+1063	2-16-68-3	72141424181332948	Iraqw	iraq1241	the deceit	DECEIT	13		lama	lama 
+1064	2-16-69-1	72141424237925595	Iraqw	iraq1241	to forgive	FORGIVE	1528		gur tlaw	gur tlaw 
+1065	2-16-71-1	72141424632897573	Iraqw	iraq1241	good	GOOD	1035		hhoo'	hhoo' 
+1066	2-16-72-1	72141424963890287	Iraqw	iraq1241	bad	BAD	1292		tlaakw	tlaakw 
+1067	2-16-73-1	72141424755870807	Iraqw	iraq1241	right(2)	CORRECT (RIGHT)	1725		qoon	qoon 
+1068	2-16-74-1	72141424963890287	Iraqw	iraq1241	wrong	WRONG	1390		tlaakw	tlaakw 
+1069	2-16-76-1	7214142462217148	Iraqw	iraq1241	the fault	FAULT	134		dakuus	dakuus 
+1070	2-16-77-1	7214142462217148	Iraqw	iraq1241	the mistake	MISTAKE	1293		dakuus	dakuus 
+1071	2-16-79-1	72141424495262866	Iraqw	iraq1241	the praise	PRAISE	1687		xirif	xirif 
+1072	2-16-81-1	72141424466466983	Iraqw	iraq1241	beautiful	BEAUTIFUL	1427		hhohhoo'	hhohhoo' 
+1073	2-16-82-1	72141424634335314	Iraqw	iraq1241	ugly	UGLY	1548		slisl/aar	slisl 
+1074	2-16-82-2	72141424634335314	Iraqw	iraq1241	ugly	UGLY	1548		slisl/aar	aar 
+1075	2-16-83-1	72141424542250772	Iraqw	iraq1241	greedy	GREEDY	2018		bi/ri	bi 
+1076	2-16-83-2	72141424542250772	Iraqw	iraq1241	greedy	GREEDY	2018		bi/ri	ri 
+1077	2-16-83-3	72141424355593101	Iraqw	iraq1241	greedy	GREEDY	2018		heehha	heehha 
+1078	2-16-84-1	72141424744445970	Iraqw	iraq1241	clever	CLEVER	1310		fuqrangw	fuqrangw 
+1079	2-17-11-1	72141424554318525	Iraqw	iraq1241	the mind	MIND	1562		qeeru	qeeru 
+1080	2-17-13-1	72141424890476543	Iraqw	iraq1241	to think(1)	THINK (REFLECT)	1415		qeerus	qeerus 
+1081	2-17-13-2	7214142420603992	Iraqw	iraq1241	to think(1)	THINK (REFLECT)	1415		alqaytsiit	alqaytsiit 
+1082	2-17-14-1	72141424610459749	Iraqw	iraq1241	to think(2)	THINK (BELIEVE)	1513		xuu'	xuu' 
+1083	2-17-15-1	72141424625415439	Iraqw	iraq1241	to believe	BELIEVE	1890		ya/aam	ya 
+1084	2-17-15-2	72141424625415439	Iraqw	iraq1241	to believe	BELIEVE	1890		ya/aam	aam 
+1085	2-17-16-1	72141424682140026	Iraqw	iraq1241	to understand	UNDERSTAND	1536		tsaahh	tsaahh 
+1086	2-17-17-1	72141424610459749	Iraqw	iraq1241	to know	KNOW (SOMETHING)	1410		xuu'	xuu' 
+1087	2-17-172-1	72141424259229854	Iraqw	iraq1241	to imitate	IMITATE	117		alki/is	alki 
+1088	2-17-172-2	72141424259229854	Iraqw	iraq1241	to imitate	IMITATE	117		alki/is	is 
+1089	2-17-21-1	72141424149191238	Iraqw	iraq1241	wise	WISE	698		inkihhim	inkihhim 
+1090	2-17-22-1	72141424640324888	Iraqw	iraq1241	stupid	STUPID	1518		daktani	daktani 
+1091	2-17-23-1	72141424218612345	Iraqw	iraq1241	mad	MAD	1899		slarhhamá	slarhhamá 
+1092	2-17-24-1	72141424353392803	Iraqw	iraq1241	to learn	LEARN	504		intsaahh	intsaahh 
+1093	2-17-242-1	72141424353392803	Iraqw	iraq1241	to study	STUDY	1929		intsaahh	intsaahh 
+1094	2-17-25-1	72141424998647530	Iraqw	iraq1241	to teach	TEACH	709		intsahhatiis	intsahhatiis 
+1095	2-17-26-1	72141424556293814	Iraqw	iraq1241	the pupil	PUPIL (STUDENT)	753		na/óo shuulee	na 
+1096	2-17-26-2	72141424556293814	Iraqw	iraq1241	the pupil	PUPIL (STUDENT)	753		na/óo shuulee	óo shuulee 
+1097	2-17-27-1	72141424462768186	Iraqw	iraq1241	the teacher	TEACHER	1038		intsahhatusmo	intsahhatusmo 
+1098	2-17-28-1	72141424183544278	Iraqw	iraq1241	the school	SCHOOL	673		shuulee	shuulee 
+1099	2-17-31-1	72141424204274247	Iraqw	iraq1241	to remember	REMEMBER	707		inslaw	inslaw 
+1100	2-17-32-1	72141424817237968	Iraqw	iraq1241	to forget	FORGET	1523		gunqaruut	gunqaruut 
+1101	2-17-34-1	72141424706001902	Iraqw	iraq1241	clear	CLEAR	989		gee hhoo'	gee hhoo' 
+1102	2-17-35-1	72141424114165744	Iraqw	iraq1241	obscure	OBSCURE	1764		gee tlaakw	gee tlaakw 
+1103	2-17-36-1	72141424638059682	Iraqw	iraq1241	secret	SECRET	1121		naaqoo	naaqoo 
+1104	2-17-38-1	72141424176214413	Iraqw	iraq1241	to explain	EXPLAIN	1626		aldaakw	aldaakw 
+1105	2-17-41-1	72141424816957304	Iraqw	iraq1241	the intention	INTENTION	1162		asma	asma 
+1106	2-17-43-1	72141424384843474	Iraqw	iraq1241	the doubt	DOUBT	1308		xuree	xuree 
+1107	2-17-44-1	72141424973137338	Iraqw	iraq1241	to suspect	SUSPECT	1841		xuruut	xuruut 
+1108	2-17-441-1	72141424448654090	Iraqw	iraq1241	to betray	BETRAY	1902		sakii/	sakii 
+1109	2-17-46-1	72141424611378358	Iraqw	iraq1241	easy	EASY	686		inslaahh	inslaahh 
+1110	2-17-47-1	72141424287399117	Iraqw	iraq1241	difficult	DIFFICULT	584		gawid	gawid 
+1111	2-17-48-1	72141424363290096	Iraqw	iraq1241	to try	TRY	1812		ii'ar	ii'ar 
+1112	2-17-49-1	7214142415055309	Iraqw	iraq1241	the manner	MANNER	488		adoo	adoo 
+1113	2-17-51-1	72141424106756905	Iraqw	iraq1241	and	AND	1577		nee	nee 
+1114	2-17-52-1	72141424200259582	Iraqw	iraq1241	because	BECAUSE	1157		gídabá	gídabá 
+1115	2-17-53-1	72141424115781620	Iraqw	iraq1241	if	IF	1459		bara (2)	bara (2) 
+1116	2-17-54-1	72141424944724290	Iraqw	iraq1241	or	OR	1014		laqáa	laqáa 
+1117	2-17-55-1	72141424295532701	Iraqw	iraq1241	yes	YES	1268		ee'ít	ee'ít 
+1118	2-17-56-1	72141424473799338	Iraqw	iraq1241	no	NO	1269		a'a	a'a 
+1119	2-17-61-1	72141424274622812	Iraqw	iraq1241	how?	HOW	1239		idoomá	idoomá 
+1120	2-17-62-1	72141424917446835	Iraqw	iraq1241	how many?	HOW MANY	822		magá'	magá' 
+1121	2-17-63-1	72141424917446835	Iraqw	iraq1241	how much?	HOW MUCH	531		magá'	magá' 
+1122	2-17-64-1	72141424785663737	Iraqw	iraq1241	what?	WHAT	1236		milá	milá 
+1123	2-17-65-1	72141424865998918	Iraqw	iraq1241	when?	WHEN	1238		xaylá	xaylá 
+1124	2-17-66-1	72141424997286967	Iraqw	iraq1241	where?	WHERE	1237		amá	amá 
+1125	2-17-67-1	72141424288217367	Iraqw	iraq1241	which?	WHICH	727		gaalá	gaalá 
+1126	2-17-68-1	72141424271544986	Iraqw	iraq1241	who?	WHO	1235		heemá	heemá 
+1127	2-17-69-1	72141424412322327	Iraqw	iraq1241	why?	WHY	1270		asma milá	asma milá 
+1128	2-18-11-1	72141424712014770	Iraqw	iraq1241	the voice	VOICE	1363		afoo	afoo 
+1129	2-18-12-1	72141424595183808	Iraqw	iraq1241	to sing	SING	1261		daa'	daa' 
+1130	2-18-13-1	72141424569765871	Iraqw	iraq1241	to shout	SHOUT	715		tsee'	tsee' 
+1131	2-18-15-1	7214142471822945	Iraqw	iraq1241	to whisper	WHISPER	55		sisaahh	sisaahh 
+1132	2-18-16-1	72141424318607571	Iraqw	iraq1241	to mumble	MUMBLE	128		hununuu'	hununuu' 
+1133	2-18-17-1	72141424800933088	Iraqw	iraq1241	to whistle	WHISTLE	1025		fuutl	fuutl 
+1134	2-18-18-1	7214142449088667	Iraqw	iraq1241	to shriek	SHRIEK	298		kwisliit	kwisliit 
+1135	2-18-19-1	72141424482671968	Iraqw	iraq1241	to howl	HOWL	526		/aa/	aa 
+1136	2-18-21-1	72141424213735792	Iraqw	iraq1241	to speak or talk	SPEAK	1623		axwees	axwees 
+1137	2-18-211-1	72141424236602772	Iraqw	iraq1241	to stutter or stammer	STUTTER	1866		kwa'akwaa'	kwa'akwaa' 
+1138	2-18-22-1	72141424882750951	Iraqw	iraq1241	to say	SAY	1458		oo'	oo' 
+1139	2-18-221-1	72141424180464568	Iraqw	iraq1241	to tell	TELL	1711		alkii/	alkii 
+1140	2-18-23-1	72141424490249381	Iraqw	iraq1241	to be silent	BE SILENT	48		qaaw	qaaw 
+1141	2-18-24-1	72141424206262827	Iraqw	iraq1241	the language	LANGUAGE	1307		tsifri	tsifri 
+1142	2-18-26-1	7214142485355219	Iraqw	iraq1241	the word	WORD	1599		/aymu	aymu 
+1143	2-18-28-1	72141424791788891	Iraqw	iraq1241	the name	NAME	1405		uma (2)	uma (2) 
+1144	2-18-31-1	72141424630905299	Iraqw	iraq1241	to ask(1)	ASK (INQUIRE)	1309		yahaas	yahaas 
+1145	2-18-32-1	72141424913143085	Iraqw	iraq1241	to answer	ANSWER	1275		tlaaxw	tlaaxw 
+1146	2-18-33-1	72141424625415439	Iraqw	iraq1241	to admit	ADMIT	2022		ya/aam	ya 
+1147	2-18-33-2	72141424625415439	Iraqw	iraq1241	to admit	ADMIT	2022		ya/aam	aam 
+1148	2-18-34-1	72141424557892141	Iraqw	iraq1241	to deny	DENY	755		tlaank	tlaank 
+1149	2-18-35-1	72141424837910550	Iraqw	iraq1241	to ask(2)	ASK (REQUEST)	1828		firiim	firiim 
+1150	2-18-37-1	72141424826201558	Iraqw	iraq1241	to refuse	REFUSE	49		/itiim	itiim 
+1151	2-18-38-1	72141424134999101	Iraqw	iraq1241	to forbid	FORBID	83		sii'	sii' 
+1152	2-18-39-1	72141424151205079	Iraqw	iraq1241	to scold	SCOLD	299		nanaaq	nanaaq 
+1153	2-18-41-1	72141424258248340	Iraqw	iraq1241	to call(1)	CALL	1084		ateet	ateet 
+1154	2-18-42-1	72141424373414484	Iraqw	iraq1241	to call(2)	CALL BY NAME	180		babaw	babaw 
+1155	2-18-43-1	7214142492224390	Iraqw	iraq1241	to announce	ANNOUNCE	9		iigu'uus	iigu'uus 
+1156	2-18-44-1	72141424901090053	Iraqw	iraq1241	to threaten	THREATEN	1192		hara'ankiis	hara'ankiis 
+1157	2-18-45-1	72141424685694301	Iraqw	iraq1241	to boast	BOAST	101		durbiim	durbiim 
+1158	2-18-51-1	72141423469584288	Iraqw	iraq1241	to write	WRITE	1672		goo'iim	goo'iim 
+1159	2-18-52-1	72141424214408589	Iraqw	iraq1241	to read	READ	724		soomuus	soomuus 
+1160	2-18-56-1	7214142411651034	Iraqw	iraq1241	the paper	PAPER	648		karatasi	karatasi 
+1161	2-18-56-2	72141424552443851	Iraqw	iraq1241	the paper	PAPER	648		slambaré/	slambaré 
+1162	2-18-57-1	72141424642194412	Iraqw	iraq1241	the pen	PEN	794		kalaamu	kalaamu 
+1163	2-18-61-1	72141424598740481	Iraqw	iraq1241	the book	BOOK	963		kitaabu	kitaabu 
+1164	2-18-67-1	72141424978789534	Iraqw	iraq1241	the poet	POET	1045		/aylusamo	aylusamo 
+1165	2-18-71-1	72141424635912808	Iraqw	iraq1241	the flute	FLUTE	777		filliimbi	filliimbi 
+1166	2-18-72-1	72141424239239515	Iraqw	iraq1241	the drum	DRUM	908		oowi	oowi 
+1167	2-19-11-1	72141424118781290	Iraqw	iraq1241	the country	COUNTRY	1300		aya	aya 
+1168	2-19-12-1	72141424272867616	Iraqw	iraq1241	the native country	NATIVE COUNTRY	89		ayarén	ayarén 
+1169	2-19-15-1	72141424213474371	Iraqw	iraq1241	the town	TOWN	1391		gixsa	gixsa 
+1170	2-19-16-1	72141424118781290	Iraqw	iraq1241	the village	VILLAGE	930		aya	aya 
+1171	2-19-17-1	72141424284698177	Iraqw	iraq1241	the boundary	BOUNDARY	1010		digma	digma 
+1172	2-19-21-1	72141424876172669	Iraqw	iraq1241	the people	PEOPLE	789		xooro	xooro 
+1173	2-19-23-1	7214142494065546	Iraqw	iraq1241	the clan	CLAN	302		tlahhaay	tlahhaay 
+1174	2-19-25-1	7214142428593933	Iraqw	iraq1241	the walking stick	WALKING STICK	1296		hhara	hhara 
+1175	2-19-31-1	72141424213214420	Iraqw	iraq1241	to rule or govern	RULE	1846		wawi'itiim	wawi'itiim 
+1176	2-19-32-1	72141424635181728	Iraqw	iraq1241	the king	KING	1508		wawitá	wawitá 
+1177	2-19-33-1	72141424843219943	Iraqw	iraq1241	the queen	QUEEN	1306		wawito'o	wawito'o 
+1178	2-19-42-1	72141424220845568	Iraqw	iraq1241	the slave	SLAVE	812		lawalamo	lawalamo 
+1179	2-19-43-1	72141424650216953	Iraqw	iraq1241	the servant	SERVANT	255		sagadyuusmo	sagadyuusmo 
+1180	2-19-45-1	72141424168356545	Iraqw	iraq1241	to command or order	ORDER	1128		hara'ayiim	hara'ayiim 
+1181	2-19-46-1	72141424307651844	Iraqw	iraq1241	to obey	OBEY	1635		ila'iwaa/	ila'iwaa 
+1182	2-19-47-1	72141424507426180	Iraqw	iraq1241	to permit	PERMIT	1003		aleeya/aam	aleeya 
+1183	2-19-47-2	72141424507426180	Iraqw	iraq1241	to permit	PERMIT	1003		aleeya/aam	aam 
+1184	2-19-51-1	72141424555792389	Iraqw	iraq1241	the friend	FRIEND	1325		mulqmo	mulqmo 
+1185	2-19-52-1	72141424552988527	Iraqw	iraq1241	the enemy	ENEMY	1358		hoomaa	hoomaa 
+1186	2-19-54-1	72141424288241947	Iraqw	iraq1241	the neighbour	NEIGHBOUR	1332		inslaawmo	inslaawmo 
+1187	2-19-55-1	72141424552988527	Iraqw	iraq1241	the stranger	STRANGER	791		hoomaa	hoomaa 
+1188	2-19-56-1	72141424404244294	Iraqw	iraq1241	the guest	GUEST	1782		dahaaymo	dahaaymo 
+1189	2-19-58-1	72141424238171112	Iraqw	iraq1241	to help	HELP	1897		alee/iis	alee 
+1190	2-19-58-2	72141424238171112	Iraqw	iraq1241	to help	HELP	1897		alee/iis	iis 
+1191	2-19-59-1	72141424634847337	Iraqw	iraq1241	to prevent	PREVENT	1550		ilaa/	ilaa 
+1192	2-19-61-1	72141424993467548	Iraqw	iraq1241	the custom	CUSTOM	1747		kaangw	kaangw 
+1193	2-19-62-1	72141424208510543	Iraqw	iraq1241	the quarrel	QUARREL	1848		gila	gila 
+1194	2-19-65-1	7214142453572258	Iraqw	iraq1241	to meet	MEET	1831		doog	doog 
+1195	2-19-65-2	72141424116591395	Iraqw	iraq1241	to meet	MEET	1831		al'aw	al'aw 
+1196	2-19-72-1	7214142445800351	Iraqw	iraq1241	the prostitute	PROSTITUTE	1610		sli’iimusamo	sli’iimusamo 
+1197	2-20-11-1	7214142433105110	Iraqw	iraq1241	to fight	FIGHT	1423		giliim	giliim 
+1198	2-20-11-2	72141424519298690	Iraqw	iraq1241	to fight	FIGHT	1423		muux	muux 
+1199	2-20-11-3	72141424139007316	Iraqw	iraq1241	to fight	FIGHT	1423		slaaqw	slaaqw 
+1200	2-20-13-1	72141424208510543	Iraqw	iraq1241	the war or battle	BATTLE	579		gila	gila 
+1201	2-20-13-2	72141424864883044	Iraqw	iraq1241	the war or battle	BATTLE	579		slaqwara	slaqwara 
+1202	2-20-13-3	72141424913793346	Iraqw	iraq1241	the war or battle	BATTLE	579		ga/alee	ga 
+1203	2-20-13-4	72141424913793346	Iraqw	iraq1241	the war or battle	BATTLE	579		ga/alee	alee 
+1204	2-20-14-1	72141424455297599	Iraqw	iraq1241	the peace	PEACE	1338		wayoo'a	wayoo'a 
+1205	2-20-17-1	72141424611449593	Iraqw	iraq1241	the soldier	SOLDIER	1941		askaari	askaari 
+1206	2-20-22-1	72141424413856272	Iraqw	iraq1241	the club	CLUB	1763		guhhuláy	guhhuláy 
+1207	2-20-23-1	72141424462442433	Iraqw	iraq1241	the sling	SLING	387		kukumáy	kukumáy 
+1208	2-20-24-1	72141424285374274	Iraqw	iraq1241	the bow	BOW	994		ga/ale	ga 
+1209	2-20-24-2	72141424285374274	Iraqw	iraq1241	the bow	BOW	994		ga/ale	ale 
+1210	2-20-25-1	72141424146778407	Iraqw	iraq1241	the arrow	ARROW	977		mahaangw	mahaangw 
+1211	2-20-26-1	72141424928379739	Iraqw	iraq1241	the spear	SPEAR	945		lawaala	lawaala 
+1212	2-20-28-1	72141424706622410	Iraqw	iraq1241	the gun	GUN	1566		punduki	punduki 
+1213	2-20-34-1	7214142421405158	Iraqw	iraq1241	the shield	SHIELD	1064		gamboot	gamboot 
+1214	2-20-36-1	72141424131073615	Iraqw	iraq1241	the tower	TOWER	1671		/aampa	aampa 
+1215	2-20-41-1	72141424485024241	Iraqw	iraq1241	the victory	VICTORY	783		baali	baali 
+1216	2-20-42-1	72141424485024241	Iraqw	iraq1241	the defeat	DEFEAT	782		baali	baali 
+1217	2-20-43-1	72141424111705189	Iraqw	iraq1241	the attack	ATTACK	722		haratlaw	haratlaw 
+1218	2-20-44-1	72141424129496718	Iraqw	iraq1241	to defend	DEFEND	1330		baaq	baaq 
+1219	2-20-45-1	72141424925673522	Iraqw	iraq1241	to retreat	RETREAT	421		alikii/	alikii 
+1220	2-20-49-1	72141424360994234	Iraqw	iraq1241	the ambush	AMBUSH	65		giir	giir 
+1221	2-20-56-1	72141424828671921	Iraqw	iraq1241	the bait	BAIT	2013		gee/asloo	gee 
+1222	2-20-56-2	72141424828671921	Iraqw	iraq1241	the bait	BAIT	2013		gee/asloo	asloo 
+1223	2-20-61-1	72141424741303329	Iraqw	iraq1241	to hunt	HUNT	1435		slakaat	slakaat 
+1224	2-20-62-1	72141423361816889	Iraqw	iraq1241	to shoot	SHOOT	1172		tsaxaar	tsaxaar 
+1225	2-20-63-1	7214142462217148	Iraqw	iraq1241	to miss	MISS (A TARGET)	161		dakuus	dakuus 
+1226	2-20-64-1	72141424756287502	Iraqw	iraq1241	the trap	TRAP (PITFALL)	1075		tsaxwel	tsaxwel 
+1227	2-21-11-1	72141424714131319	Iraqw	iraq1241	the law	LAW	1062		hara'aya	hara'aya 
+1228	2-21-15-1	72141424236174888	Iraqw	iraq1241	the court	COURT	1068		kwasleema	kwasleema 
+1229	2-21-17-1	72141424236174888	Iraqw	iraq1241	the judgment	JUDGMENT	1067		kwasleema	kwasleema 
+1230	2-21-23-1	72141424296312539	Iraqw	iraq1241	the witness	WITNESS	1144		lamabu'uusmoo	lamabu'uusmoo 
+1231	2-21-24-1	72141424316335259	Iraqw	iraq1241	to swear	SWEAR	1939		lu’us	lu’us 
+1232	2-21-25-1	72141424906909067	Iraqw	iraq1241	the oath	OATH	1712		lo’oo	lo’oo 
+1233	2-21-31-1	72141424945863834	Iraqw	iraq1241	to accuse	ACCUSE	1814		shitakuus	shitakuus 
+1234	2-21-34-1	72141424646168675	Iraqw	iraq1241	to acquit	ACQUIT	988		geemaw	geemaw 
+1235	2-21-34-2	721414242174136	Iraqw	iraq1241	to acquit	ACQUIT	988		tit'iis	tit'iis 
+1236	2-21-38-1	72141424430595744	Iraqw	iraq1241	the fine	FINE (PENALTY)	218		faini	faini 
+1237	2-21-39-1	72141424719210599	Iraqw	iraq1241	the prison	PRISON	1281		jeela	jeela 
+1238	2-21-43-1	72141424223816380	Iraqw	iraq1241	the adultery	ADULTERY	902		sli’iim	sli’iim 
+1239	2-21-51-1	72141424871919168	Iraqw	iraq1241	to steal	STEAL	713		fiis	fiis 
+1240	2-21-52-1	72141424676049613	Iraqw	iraq1241	the thief	THIEF	1160		fiisusmo	fiisusmo 
+1241	2-22-11-1	72141424769181210	Iraqw	iraq1241	the religion	RELIGION	661		dini	dini 
+1242	2-22-12-1	72141423616893234	Iraqw	iraq1241	the god	DEITY	3231		loo'aa	loo'aa 
+1243	2-22-13-1	72141424285390293	Iraqw	iraq1241	the temple	TEMPLE	911		kaniisa	kaniisa 
+1244	2-22-15-1	72141424918247177	Iraqw	iraq1241	the sacrifice	SACRIFICE	1103		ilahhoo'a	ilahhoo'a 
+1245	2-22-17-1	72141424700567211	Iraqw	iraq1241	to pray	PRAY	24		fiir	fiir 
+1246	2-22-18-1	72141424778103743	Iraqw	iraq1241	the priest	PRIEST	852		patri	patri 
+1247	2-22-22-1	72141424180464568	Iraqw	iraq1241	to preach	PREACH	304		alkii/	alkii 
+1248	2-22-23-1	72141424495890742	Iraqw	iraq1241	to bless	BLESS	391		baaf	baaf 
+1249	2-22-23-2	72141423440606659	Iraqw	iraq1241	to bless	BLESS	391		tsuuq	tsuuq 
+1250	2-22-24-1	72141424368099055	Iraqw	iraq1241	to curse	CURSE	8		lu'us	lu'us 
+1251	2-22-26-1	72141424506726542	Iraqw	iraq1241	to fast	ABSTAIN FROM FOOD	303		tsegiim	tsegiim 
+1252	2-22-32-1	72141424870356590	Iraqw	iraq1241	the hell	HELL	878		asla daqisleem	asla daqisleem 
+1253	2-22-35-1	72141424385326726	Iraqw	iraq1241	the demon	DEMON	1973		neetlangw	neetlangw 
+1254	2-22-37-1	72141424892391650	Iraqw	iraq1241	the idol	IDOL	1945		murslaqat	murslaqat 
+1255	2-22-42-1	72141424695399633	Iraqw	iraq1241	the magic	MAGIC	392		da/ri	da 
+1256	2-22-42-2	72141424695399633	Iraqw	iraq1241	the magic	MAGIC	392		da/ri	ri 
+1257	2-22-43-1	72141424695162208	Iraqw	iraq1241	the sorcerer or witch	MAGICIAN	2137		daa/alusmo	daa 
+1258	2-22-43-2	72141424695162208	Iraqw	iraq1241	the sorcerer or witch	MAGICIAN	2137		daa/alusmo	alusmo 
+1259	2-22-45-1	72141423713915075	Iraqw	iraq1241	the ghost	GHOST	1175		gi'i	gi'i 
+1260	2-23-1-1	72141424684042303	Iraqw	iraq1241	the radio	RADIO	1315		reediyo	reediyo 
+1261	2-23-12-1	72141424159872412	Iraqw	iraq1241	the telephone	TELEPHONE	1379		simu	simu 
+1262	2-23-135-1	72141424705095515	Iraqw	iraq1241	the motorcycle	MOTORCYCLE	638		pu/pu/i	pu 
+1263	2-23-135-2	72141424705095515	Iraqw	iraq1241	the motorcycle	MOTORCYCLE	638		pu/pu/i	pu 
+1264	2-23-135-3	72141424705095515	Iraqw	iraq1241	the motorcycle	MOTORCYCLE	638		pu/pu/i	i 
+1265	2-23-14-1	72141424753948270	Iraqw	iraq1241	the car	CAR	1111		gaari	gaari 
+1266	2-23-15-1	72141424820779151	Iraqw	iraq1241	the bus	BUS	1070		basi	basi 
+1267	2-23-16-1	72141424587446938	Iraqw	iraq1241	the airplane	AIRPLANE	1597		indege	indege 
+1268	2-23-17-1	72141424386679325	Iraqw	iraq1241	the electricity	ELECTRICITY	59		umeme	umeme 
+1269	2-23-2-1	72141424998514660	Iraqw	iraq1241	the hospital	HOSPITAL	616		siptaali	siptaali 
+1270	2-23-21-1	7214142476812662	Iraqw	iraq1241	the nurse	NURSE	1104		yaaya	yaaya 
+1271	2-23-22-1	72141424824383048	Iraqw	iraq1241	the pill or tablet	PILL	395		dawa (2)	dawa (2) 
+1272	2-23-23-1	72141424905973810	Iraqw	iraq1241	the injection	INJECTION	1805		sindamo	sindamo 
+1273	2-23-51-1	72141424170452211	Iraqw	iraq1241	the sink	SINK (BASIN)	915		sinki	sinki 
+1274	2-23-52-1	72141424428787628	Iraqw	iraq1241	the toilet	TOILET	219		choo	choo 
+1275	2-23-53-1	72141424617386661	Iraqw	iraq1241	the mattress	MATTRESS	105		gadoro	gadoro 
+1276	2-23-3-1	72141424943941027	Iraqw	iraq1241	the government	GOVERNMENT	815		sirkaali	sirkaali 
+1277	2-23-31-1	72141424921493719	Iraqw	iraq1241	the president	PRESIDENT	899		rais	rais 
+1278	2-23-31-2	72141424175809874	Iraqw	iraq1241	the president	PRESIDENT	899		akoo aya	akoo aya 
+1279	2-23-32-1	7214142449271181	Iraqw	iraq1241	the minister	MINISTER	486		wasiri	wasiri 
+1280	2-23-33-1	72141424457866863	Iraqw	iraq1241	the police	POLICE	656		poliisi	poliisi 
+1281	2-23-34-1	7214142451207694	Iraqw	iraq1241	the driver's license	DRIVER'S LICENSE	599		leseni	leseni 
+1282	2-23-37-1	72141424939441682	Iraqw	iraq1241	the crime	CRIME	1066		kosa	kosa 
+1283	2-23-38-1	72141424438730688	Iraqw	iraq1241	the election	ELECTION	240		uchagusi	uchagusi 
+1284	2-23-4-1	72141424495043078	Iraqw	iraq1241	the post/mail	MAIL	167		posta	posta 
+1285	2-23-41-1	72141424276153547	Iraqw	iraq1241	the postage stamp	POSTAGE STAMP	596		stempu	stempu 
+1286	2-23-42-1	7214142423744620	Iraqw	iraq1241	the letter	LETTER	1612		barwa	barwa 
+1287	2-23-44-1	72141424507711259	Iraqw	iraq1241	the bank	BANK	1284		benki	benki 
+1288	2-23-54-1	72141424317897081	Iraqw	iraq1241	the tin/can	CAN	1051		deebe	deebe 
+1289	2-23-55-1	72141423679561043	Iraqw	iraq1241	the screw	SCREW	1802		musmaari	musmaari 
+1290	2-23-555-1	72141424817387897	Iraqw	iraq1241	the screwdriver	SCREWDRIVER	836		bisibisi	bisibisi 
+1291	2-23-56-1	72141424200854513	Iraqw	iraq1241	the bottle	BOTTLE	1321		chupa	chupa 
+1292	2-23-24-1	72141424388937809	Iraqw	iraq1241	the spectacles/glasses	SPECTACLES	1898		miwaani	miwaani 
+1293	2-23-57-1	72141424863816690	Iraqw	iraq1241	the plastic	PLASTIC	654		plastiki	plastiki 
+1294	2-23-575-1	72141424530594466	Iraqw	iraq1241	the bomb	BOMB	1804		bomu	bomu 
+1295	2-23-58-1	72141424229081430	Iraqw	iraq1241	the workshop	WORKSHOP	1677		kiwanda	kiwanda 
+1296	2-23-59-1	72141424590959588	Iraqw	iraq1241	the cigarette	CIGARETTE	969		sigara	sigara 
+1297	2-23-61-1	72141424446047194	Iraqw	iraq1241	the calendar	CALENDAR	1967		kalenda	kalenda 
+1298	2-23-62-1	72141424790405438	Iraqw	iraq1241	the film/movie	MOVIE	216		film	film 
+1299	2-23-63-1	72141424346645873	Iraqw	iraq1241	the music	MUSIC	642		musiki	musiki 
+1300	2-23-64-1	72141424893634599	Iraqw	iraq1241	the song	SONG	1096		da'aangw	da'aangw 
+1301	2-23-6-1	72141424574335127	Iraqw	iraq1241	the newspaper	NEWSPAPER	1298		gaseeti	gaseeti 
+1302	2-23-385-1	72141424768392935	Iraqw	iraq1241	the address	ADDRESS	591		anwaani	anwaani 
+1303	2-23-39-1	72141424493516674	Iraqw	iraq1241	the number	NUMBER	1356		namba	namba 
+1304	2-23-155-1	7214142493539978	Iraqw	iraq1241	the train	TRAIN	900		gari la moshi	gari la moshi 
+1305	2-23-18-1	72141424838166116	Iraqw	iraq1241	to brake	BRAKE	966		breki tseeg	breki tseeg 
+1306	2-23-195-1	72141424512473309	Iraqw	iraq1241	the petroleum	PETROLEUM	650		petroli	petroli 
+1307	2-23-195-2	72141424742627519	Iraqw	iraq1241	the petroleum	PETROLEUM	650		oili	oili 
+1308	2-23-185-1	72141424266706671	Iraqw	iraq1241	the motor	MOTOR	110		injin	injin 
+1309	2-23-19-1	72141424542705991	Iraqw	iraq1241	the machine	MACHINE	144		mashiini	mashiini 
+1310	2-23-13-1	7214142444492826	Iraqw	iraq1241	the bicycle	BICYCLE	747		paskeeli	paskeeli 
+1311	2-23-395-1	72141424562478340	Iraqw	iraq1241	the street	STREET	1362		mtaa	mtaa 
+1312	2-19-445-1	72141424458596166	Iraqw	iraq1241	to liberate	LIBERATE	37		gweer	gweer 
+1313	2-19-565-1	72141424496717963	Iraqw	iraq1241	to invite	INVITE	1611		dahay'iis	dahay'iis 
+1314	2-23-43-1	72141424867436087	Iraqw	iraq1241	the postcard	POSTCARD	1497		kadi	kadi 
+1315	2-24-03-1	72141424784381302	Iraqw	iraq1241	without	WITHOUT	1478		wasl	wasl 
+1316	2-24-09-1	72141424854916246	Iraqw	iraq1241	here	HERE	136		diirí	diirí 
+1317	2-24-1-1	72141424889208392	Iraqw	iraq1241	there	THERE	1937		diidá’	diidá’ 
+1318	2-24-11-1	72141424950045421	Iraqw	iraq1241	other	OTHER	197		hatla’	hatla’ 
+1319	2-4-493-1	72141423614160940	Iraqw	iraq1241	the vagina	VAGINA	1836		gwalaay	gwalaay 
+1320	2-23-9-1	72141424663228437	Iraqw	iraq1241	the tea	TEA	1373		chay	chay 
+1321	2-23-91-1	7214142412971689	Iraqw	iraq1241	the coffee	COFFEE	1299		kahwa	kahwa 
+1322	2-3-863-1	72141423858682778	Iraqw	iraq1241	the hare	HARE	1190		kwa/aangw	kwa 
+1323	2-3-863-2	72141423858682778	Iraqw	iraq1241	the hare	HARE	1190		kwa/aangw	aangw 
+1324	2-4-465-1	72141423252998313	Iraqw	iraq1241	the sinew or tendon	TENDON	1137		kanú	kanú 
+1325	2-22-5-1	72141424704904988	Iraqw	iraq1241	the circumcision	CIRCUMCISION	393		al/uutl	al 
+1326	2-22-5-2	72141424704904988	Iraqw	iraq1241	the circumcision	CIRCUMCISION	393		al/uutl	uutl 
+1327	2-22-51-1	72141424530012497	Iraqw	iraq1241	the initiation ceremony	INITIATION CEREMONY	1946		marmo	marmo 
+1328	2-9-93-1	72141423723737217	Iraqw	iraq1241	the whetstone	WHETSTONE	295		duuqaay	duuqaay 
+1329	2-3-834-1	72141423635412096	Iraqw	iraq1241	the termites	TERMITE	883		hharhhár	hharhhár 
+1330	2-8-911-1	72141423142057661	Iraqw	iraq1241	the millet or sorghum	MILLET	931		mangwaré’	mangwaré’ 
+1331	2-3-913-1	7214142341976124	Iraqw	iraq1241	the chameleon	CHAMELEON	1555		slaslangay	slaslangay 
+1332	2-9-9-1	72141423570526212	Iraqw	iraq1241	to draw water	DRAW (WATER)	1911		iislaakw	iislaakw 
+1333	2-9-91-1	72141423546257388	Iraqw	iraq1241	the peg	PEG	361		kik’i	kik’i 
+1334	2-10-58-1	72141424773059880	Iraqw	iraq1241	to go or return home	RETURN HOME	142		waatl	waatl 
+1335	2-3-917-1	72141423214205606	Iraqw	iraq1241	the buffalo	BUFFALO	934		saree/a	saree 
+1336	2-3-917-2	72141423214205606	Iraqw	iraq1241	the buffalo	BUFFALO	934		saree/a	a 
+1337	2-1-411-1	72141423733691699	Iraqw	iraq1241	the savanna	SAVANNA	260		tsee/aa	tsee 
+1338	2-1-411-2	72141423733691699	Iraqw	iraq1241	the savanna	SAVANNA	260		tsee/aa	aa 
+1339	2-1-831-1	72141423741821339	Iraqw	iraq1241	the steam	STEAM	1193		wahamu	wahamu 
+1340	2-2-5-1	72141423462055087	Iraqw	iraq1241	the grandchild	GRANDCHILD	1617		haywa	haywa 
+1341	2-4-741-1	72141423711011189	Iraqw	iraq1241	the life	LIFE	210		hinsla	hinsla 
+1342	2-4-771-1	72141423191102394	Iraqw	iraq1241	the carcass	CARCASS	1770		tuuaa	tuuaa 
+1343	2-4-844-1	72141423715521834	Iraqw	iraq1241	the disease	DISEASE	1986		tiqti	tiqti 
+1344	2-11-29-1	72141424630413659	Iraqw	iraq1241	to damage	DAMAGE	1116		iitlaw	iitlaw 
+1345	2-12-081-1	72141424840208253	Iraqw	iraq1241	above	ABOVE	1741		gawa	gawa 
+1346	2-13-231-1	72141424600775542	Iraqw	iraq1241	the piece	PIECE	594		baraka	baraka 
+1347	2-13-331-1	72141424981020149	Iraqw	iraq1241	alone	ALONE	1964		kil’-	kil’- 
+1348	2-14-251-1	72141424483787135	Iraqw	iraq1241	the beginning	BEGINNING	1557		im/umaa	im 
+1349	2-14-251-2	72141424483787135	Iraqw	iraq1241	the beginning	BEGINNING	1557		im/umaa	umaa 
+1350	2-14-411-1	72141424762511155	Iraqw	iraq1241	the day(2)	DAY (NOT NIGHT)	1225		deelo	deelo 
+1351	2-22-131-1	72141424285390293	Iraqw	iraq1241	the church	CHURCH	1349		kaniisa	kaniisa 
+1352	2-24-14-1	72141424688015971	Iraqw	iraq1241	nothing	NOTHING	687		pampoo	pampoo 
+1353	2-24-14-2	72141424782245389	Iraqw	iraq1241	nothing	NOTHING	687		i káahh	i káahh 
+1354	2-4-7501-1	72141423152011439	Iraqw	iraq1241	dead	DEAD	1625		gwaa’	gwaa’ 
+1355	2-4-8541-1	72141423695281252	Iraqw	iraq1241	to scratch	SCRATCH	1436		gweehh	gweehh 
+1356	2-9-111-1	72141423552675871	Iraqw	iraq1241	to make	MAKE	734		tleehh	tleehh 
+1357	2-4-431-1	72141423340200820	Iraqw	iraq1241	the belly	BELLY	1251		gura’	gura’ 
+1358	2-9-311-1	72141423899055731	Iraqw	iraq1241	to wipe	WIPE	1454		fiits	fiits 
+1359	2-24-04-1	72141424106756905	Iraqw	iraq1241	with	WITH	1340		nee	nee 
+1360	2-12-012-1	72141424338872351	Iraqw	iraq1241	in	IN	1460		baráa	baráa 

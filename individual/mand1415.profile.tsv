@@ -1,0 +1,244 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+i	i	kai1shi3, qi1pian4	Mandarin Chinese	1386	U+0069
+a	a	gao1yang2, ta1	Mandarin Chinese	1326	U+0061
+n	n	sheng1yin1, xuan2zhuan3	Mandarin Chinese	1253	U+006e
+u	u	zhua1zhu4, cuo4wu4	Mandarin Chinese	963	U+0075
+o	o	you2, hao3	Mandarin Chinese	709	U+006f
+g	g	gong1gong4 qi4che1, chang2chang2	Mandarin Chinese	652	U+0067
+4$	<?>	bu4, shi4	Mandarin Chinese	555	U+0034 U+0024
+1	<?>	shuang1sheng1zi3, gao1yang2	Mandarin Chinese	466	U+0031
+e	e	pan4jue2, jie2	Mandarin Chinese	447	U+0065
+2$	<?>	you2, pan4jue2	Mandarin Chinese	409	U+0032 U+0024
+4	<?>	pan4jue2, bian4se4long2	Mandarin Chinese	408	U+0034
+2	<?>	jia4shi3yuan2zhi2zhao4, hu2lu	Mandarin Chinese	385	U+0032
+1$	<?>	ta1, shao1	Mandarin Chinese	375	U+0031 U+0024
+3	<?>	zhu3ren2, shi3zhong1	Mandarin Chinese	368	U+0033
+3$	<?>	hao3, you3	Mandarin Chinese	368	U+0033 U+0024
+^sh	sh	shi4, shao1	Mandarin Chinese	155	U+005e U+0073 U+0068
+^y	y	you3, you2	Mandarin Chinese	145	U+005e U+0079
+z	z	hai2zi, die2zi	Mandarin Chinese	139	U+007a
+^x	x	xuan2zhuan3, xiao3mi3	Mandarin Chinese	133	U+005e U+0078
+i$	i	hu4shi, hai2zi	Mandarin Chinese	126	U+0069 U+0024
+^j	j	ji3, jie2	Mandarin Chinese	125	U+005e U+006a
+y	y	gao1yang2, xu1yao4	Mandarin Chinese	120	U+0079
+^d	d	duo1shao, du2	Mandarin Chinese	119	U+005e U+0064
+^zh	zh	zhu4, zhuan3	Mandarin Chinese	117	U+005e U+007a U+0068
+^g	g	gao1yang2, gu3	Mandarin Chinese	116	U+005e U+0067
+sh	sh	duo1shao, hu4shi	Mandarin Chinese	115	U+0073 U+0068
+m	m	yu3mao2, mu3ma3	Mandarin Chinese	99	U+006d
+^b	b	bu4, ba1	Mandarin Chinese	95	U+005e U+0062
+l	l	hu2lu, bao3liu2	Mandarin Chinese	95	U+006c
+^l	l	liu2, liang2	Mandarin Chinese	95	U+005e U+006c
+^t	t	ta1, tu3	Mandarin Chinese	94	U+005e U+0074
+^h	h	hao3, hu2lu	Mandarin Chinese	94	U+005e U+0068
+j	j	pan4jue2, gong1jian4	Mandarin Chinese	93	U+006a
+d	d	lu4di4, tu3di4	Mandarin Chinese	89	U+0064
+^m	m	mei2you3, mo1	Mandarin Chinese	86	U+005e U+006d
+t	t	pu2taoteng2, da3pen1ti4	Mandarin Chinese	83	U+0074
+zh	zh	jia4shi3yuan2zhi2zhao4, jia3zhuang4xian4zhong3	Mandarin Chinese	82	U+007a U+0068
+b	b	xiao3bao3bao, dong4bing1	Mandarin Chinese	76	U+0062
+^ch	ch	cha1, chuan2	Mandarin Chinese	74	U+005e U+0063 U+0068
+q	q	you2qi1, jia1qin2	Mandarin Chinese	69	U+0071
+^f	f	fen1kai1, fen4nu4	Mandarin Chinese	65	U+005e U+0066
+^n	n	nie1, na2	Mandarin Chinese	65	U+005e U+006e
+x	x	xue2xi2, nü3xu	Mandarin Chinese	64	U+0078
+h	h	sheng1huo2, zhi4hui4	Mandarin Chinese	61	U+0068
+^q	q	qing3, qi1pian4	Mandarin Chinese	61	U+005e U+0071
+f	f	ru3fang2, mai2fu	Mandarin Chinese	60	U+0066
+ch	ch	tang1chi2, ci4chuan1	Mandarin Chinese	57	U+0063 U+0068
+^z	z	zai4, zuo4cai4	Mandarin Chinese	57	U+005e U+007a
+^w	w	wo3men, weng4	Mandarin Chinese	56	U+005e U+0077
+^p	p	pan4jue2, ping2	Mandarin Chinese	47	U+005e U+0070
+r	r	ai4ren2, zhu3ren2	Mandarin Chinese	46	U+0072
+^s	s	su4, si4hu	Mandarin Chinese	43	U+005e U+0073
+w	w	cuo4wu4, ge2zhiwo1r	Mandarin Chinese	42	U+0077
+p	p	qi1pian4, lao3 po2po	Mandarin Chinese	41	U+0070
+^k	k	kai1, kuai4	Mandarin Chinese	40	U+005e U+006b
+u$	u	hu2lu, nü3xu	Mandarin Chinese	38	U+0075 U+0024
+_	_	liang2ci4 or liang2 VCL, zai4 X xia4mian	Mandarin Chinese	37	U+005f
+k	k	fen1kai1, hen3kuai4	Mandarin Chinese	36	U+006b
+s	s	tao4suo3, ya1sui4	Mandarin Chinese	36	U+0073
+^c	c	cuo4wu4, cao3	Mandarin Chinese	32	U+005e U+0063
+^r	r	re4, ru3fang2	Mandarin Chinese	25	U+005e U+0072
+.	<?>	shi3 ... zhi4xi1, zai4 ... zhi1qian2	Mandarin Chinese	21	U+002e
+c	c	shui3cao2, yan1cao3	Mandarin Chinese	21	U+0063
+g$	g	tai4yang, mu4jiang	Mandarin Chinese	20	U+0067 U+0024
+ü	ü	nü3xu, nü3hai2	Mandarin Chinese	20	U+00fc
+o$	o	duo1shao, er3duo	Mandarin Chinese	17	U+006f U+0024
+n$	n	wo3men, ni3men	Mandarin Chinese	17	U+006e U+0024
+e$	e	ji4de, ling4 yi1 ge	Mandarin Chinese	16	U+0065 U+0024
+^e	e	e2, er3duo	Mandarin Chinese	13	U+005e U+0065
+^a	a	ai4ren2, an4	Mandarin Chinese	10	U+005e U+0061
+a$	a	wei3ba, shui3lao3ya	Mandarin Chinese	10	U+0061 U+0024
+r$	r	dou1r, zhe4r	Mandarin Chinese	10	U+0072 U+0024
+-	<?>	ji3-CL, di4-er4	Mandarin Chinese	7	U+002d
+__	__	shi3 ... zhi4xi1, zai4 ... zhi1qian2	Mandarin Chinese	6	U+005f U+005f
+L$	<?>	ji3-CL, na3-CL	Mandarin Chinese	5	U+004c U+0024
+X	<?>	zai4 X xia4mian, bi3 X duo1	Mandarin Chinese	5	U+0058
+C	<?>	ji3-CL, na3-CL	Mandarin Chinese	4	U+0043
+dui4 (2)	<???>	dui4 (2)	Mandarin Chinese	3	U+0064 U+0075 U+0069 U+0034 U+0020 U+0028 U+0032 U+0029
+pi2 (3)	<???>	pi2 (3)	Mandarin Chinese	3	U+0070 U+0069 U+0032 U+0020 U+0028 U+0033 U+0029
+jiao3 (2)	<???>	jiao3 (2)	Mandarin Chinese	2	U+006a U+0069 U+0061 U+006f U+0033 U+0020 U+0028 U+0032 U+0029
+zuo4 (2)	<???>	zuo4 (2)	Mandarin Chinese	2	U+007a U+0075 U+006f U+0034 U+0020 U+0028 U+0032 U+0029
+wan1 (1)	<???>	wan1 (1)	Mandarin Chinese	2	U+0077 U+0061 U+006e U+0031 U+0020 U+0028 U+0031 U+0029
+jiao4 (2)	<???>	jiao4 (2)	Mandarin Chinese	2	U+006a U+0069 U+0061 U+006f U+0034 U+0020 U+0028 U+0032 U+0029
+zhen1 (1)	<???>	zhen1 (1)	Mandarin Chinese	2	U+007a U+0068 U+0065 U+006e U+0031 U+0020 U+0028 U+0031 U+0029
+jing3 (2)	<???>	jing3 (2)	Mandarin Chinese	2	U+006a U+0069 U+006e U+0067 U+0033 U+0020 U+0028 U+0032 U+0029
+shu3 (2)	<???>	shu3 (2)	Mandarin Chinese	2	U+0073 U+0068 U+0075 U+0033 U+0020 U+0028 U+0032 U+0029
+er2xi2fu(r)	<???>	er2xi2fu(r)	Mandarin Chinese	2	U+0065 U+0072 U+0032 U+0078 U+0069 U+0032 U+0066 U+0075 U+0028 U+0072 U+0029
+wan3 (1)	<???>	wan3 (1)	Mandarin Chinese	2	U+0077 U+0061 U+006e U+0033 U+0020 U+0028 U+0031 U+0029
+xin1 (1)	<???>	xin1 (1)	Mandarin Chinese	2	U+0078 U+0069 U+006e U+0031 U+0020 U+0028 U+0031 U+0029
+jiang3 (1)	<???>	jiang3 (1)	Mandarin Chinese	2	U+006a U+0069 U+0061 U+006e U+0067 U+0033 U+0020 U+0028 U+0031 U+0029
+pa2 (2)	<???>	pa2 (2)	Mandarin Chinese	2	U+0070 U+0061 U+0032 U+0020 U+0028 U+0032 U+0029
+zuo4 (1)	<???>	zuo4 (1)	Mandarin Chinese	2	U+007a U+0075 U+006f U+0034 U+0020 U+0028 U+0031 U+0029
+jiang3 (2)	<???>	jiang3 (2)	Mandarin Chinese	2	U+006a U+0069 U+0061 U+006e U+0067 U+0033 U+0020 U+0028 U+0032 U+0029
+ji4nü3 (1)	<???>	ji4nü3 (1)	Mandarin Chinese	1	U+006a U+0069 U+0034 U+006e U+00fc U+0033 U+0020 U+0028 U+0031 U+0029
+qi2 (2)	<???>	qi2 (2)	Mandarin Chinese	1	U+0071 U+0069 U+0032 U+0020 U+0028 U+0032 U+0029
+zai4 (X) li3mian	<???>	zai4 (X) li3mian	Mandarin Chinese	1	U+007a U+0061 U+0069 U+0034 U+0020 U+0028 U+0058 U+0029 U+0020 U+006c U+0069 U+0033 U+006d U+0069 U+0061 U+006e
+ci2 (1)	<???>	ci2 (1)	Mandarin Chinese	1	U+0063 U+0069 U+0032 U+0020 U+0028 U+0031 U+0029
+zui4 (2)	<???>	zui4 (2)	Mandarin Chinese	1	U+007a U+0075 U+0069 U+0034 U+0020 U+0028 U+0032 U+0029
+jian4 (5)	<???>	jian4 (5)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0034 U+0020 U+0028 U+0035 U+0029
+^Y	<?>	Ying1wu3	Mandarin Chinese	1	U+005e U+0059
+jian4 (3)	<???>	jian4 (3)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0034 U+0020 U+0028 U+0033 U+0029
+chuan1 (1)	<???>	chuan1 (1)	Mandarin Chinese	1	U+0063 U+0068 U+0075 U+0061 U+006e U+0031 U+0020 U+0028 U+0031 U+0029
+dao4 (2)	<???>	dao4 (2)	Mandarin Chinese	1	U+0064 U+0061 U+006f U+0034 U+0020 U+0028 U+0032 U+0029
+hu2 (1)	<???>	hu2 (1)	Mandarin Chinese	1	U+0068 U+0075 U+0032 U+0020 U+0028 U+0031 U+0029
+mo4 (1)	<???>	mo4 (1)	Mandarin Chinese	1	U+006d U+006f U+0034 U+0020 U+0028 U+0031 U+0029
+^3	<?>	3chao2	Mandarin Chinese	1	U+005e U+0033
+e4 (2)	<???>	e4 (2)	Mandarin Chinese	1	U+0065 U+0034 U+0020 U+0028 U+0032 U+0029
+jiao1 (1)	<???>	jiao1 (1)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0031 U+0020 U+0028 U+0031 U+0029
+kuan1 (1)	<???>	kuan1 (1)	Mandarin Chinese	1	U+006b U+0075 U+0061 U+006e U+0031 U+0020 U+0028 U+0031 U+0029
+nan2xing4(de)	<???>	nan2xing4(de)	Mandarin Chinese	1	U+006e U+0061 U+006e U+0032 U+0078 U+0069 U+006e U+0067 U+0034 U+0028 U+0064 U+0065 U+0029
+pi2 (2)	<???>	pi2 (2)	Mandarin Chinese	1	U+0070 U+0069 U+0032 U+0020 U+0028 U+0032 U+0029
+lü4 (1)	<???>	lü4 (1)	Mandarin Chinese	1	U+006c U+00fc U+0034 U+0020 U+0028 U+0031 U+0029
+*$	<?>	xia4 yi1 ge*	Mandarin Chinese	1	U+002a U+0024
+wan2 (2)	<???>	wan2 (2)	Mandarin Chinese	1	U+0077 U+0061 U+006e U+0032 U+0020 U+0028 U+0032 U+0029
+ji4nü3 (2)	<???>	ji4nü3 (2)	Mandarin Chinese	1	U+006a U+0069 U+0034 U+006e U+00fc U+0033 U+0020 U+0028 U+0032 U+0029
+xi1 (3)	<???>	xi1 (3)	Mandarin Chinese	1	U+0078 U+0069 U+0031 U+0020 U+0028 U+0033 U+0029
+dong4 (2)	<???>	dong4 (2)	Mandarin Chinese	1	U+0064 U+006f U+006e U+0067 U+0034 U+0020 U+0028 U+0032 U+0029
+jiao1 (2)	<???>	jiao1 (2)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0031 U+0020 U+0028 U+0032 U+0029
+zhi3 (2)	<???>	zhi3 (2)	Mandarin Chinese	1	U+007a U+0068 U+0069 U+0033 U+0020 U+0028 U+0032 U+0029
+jian4 (2)	<???>	jian4 (2)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0034 U+0020 U+0028 U+0032 U+0029
+chen2 (2)	<???>	chen2 (2)	Mandarin Chinese	1	U+0063 U+0068 U+0065 U+006e U+0032 U+0020 U+0028 U+0032 U+0029
+chuan1 (2)	<???>	chuan1 (2)	Mandarin Chinese	1	U+0063 U+0068 U+0075 U+0061 U+006e U+0031 U+0020 U+0028 U+0032 U+0029
+V	<?>	liang2ci4 or liang2 VCL	Mandarin Chinese	1	U+0056
+jiu4 (5)	<???>	jiu4 (5)	Mandarin Chinese	1	U+006a U+0069 U+0075 U+0034 U+0020 U+0028 U+0035 U+0029
+jiu4 (2)	<???>	jiu4 (2)	Mandarin Chinese	1	U+006a U+0069 U+0075 U+0034 U+0020 U+0028 U+0032 U+0029
+hua2 (1)	<???>	hua2 (1)	Mandarin Chinese	1	U+0068 U+0075 U+0061 U+0032 U+0020 U+0028 U+0031 U+0029
+jing3 (1)	<???>	jing3 (1)	Mandarin Chinese	1	U+006a U+0069 U+006e U+0067 U+0033 U+0020 U+0028 U+0031 U+0029
+jiu4 (4)	<???>	jiu4 (4)	Mandarin Chinese	1	U+006a U+0069 U+0075 U+0034 U+0020 U+0028 U+0034 U+0029
+bo1 (2)	<???>	bo1 (2)	Mandarin Chinese	1	U+0062 U+006f U+0031 U+0020 U+0028 U+0032 U+0029
+^X	<?>	X... zhihou4	Mandarin Chinese	1	U+005e U+0058
+nan2-(de)	<???>	nan2-(de)	Mandarin Chinese	1	U+006e U+0061 U+006e U+0032 U+002d U+0028 U+0064 U+0065 U+0029
+pi4gu (3)	<???>	pi4gu (3)	Mandarin Chinese	1	U+0070 U+0069 U+0034 U+0067 U+0075 U+0020 U+0028 U+0033 U+0029
+lü4 (2)	<???>	lü4 (2)	Mandarin Chinese	1	U+006c U+00fc U+0034 U+0020 U+0028 U+0032 U+0029
+ls	ls	also ba2	Mandarin Chinese	1	U+006c U+0073
+jiao3 (3)	<???>	jiao3 (3)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0033 U+0020 U+0028 U+0033 U+0029
+jian1 (1)	<???>	jian1 (1)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0031 U+0020 U+0028 U+0031 U+0029
+da3 (NS)	<???>	da3 (NS)	Mandarin Chinese	1	U+0064 U+0061 U+0033 U+0020 U+0028 U+004e U+0053 U+0029
+chen2 (1)	<???>	chen2 (1)	Mandarin Chinese	1	U+0063 U+0068 U+0065 U+006e U+0032 U+0020 U+0028 U+0031 U+0029
+xi2fu4(r)	<???>	xi2fu4(r)	Mandarin Chinese	1	U+0078 U+0069 U+0032 U+0066 U+0075 U+0034 U+0028 U+0072 U+0029
+hua1(r)	<???>	hua1(r)	Mandarin Chinese	1	U+0068 U+0075 U+0061 U+0031 U+0028 U+0072 U+0029
+jia1 (2)	<???>	jia1 (2)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+0031 U+0020 U+0028 U+0032 U+0029
+bo1 (1)	<???>	bo1 (1)	Mandarin Chinese	1	U+0062 U+006f U+0031 U+0020 U+0028 U+0031 U+0029
+zhuan4(qian2)	<???>	zhuan4(qian2)	Mandarin Chinese	1	U+007a U+0068 U+0075 U+0061 U+006e U+0034 U+0028 U+0071 U+0069 U+0061 U+006e U+0032 U+0029
+^3$	<?>	3	Mandarin Chinese	1	U+005e U+0033 U+0024
+cuo4 (2)	<???>	cuo4 (2)	Mandarin Chinese	1	U+0063 U+0075 U+006f U+0034 U+0020 U+0028 U+0032 U+0029
+jin4 (1)	<???>	jin4 (1)	Mandarin Chinese	1	U+006a U+0069 U+006e U+0034 U+0020 U+0028 U+0031 U+0029
+jiao4shi4 (1)	<???>	jiao4shi4 (1)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0034 U+0073 U+0068 U+0069 U+0034 U+0020 U+0028 U+0031 U+0029
+xi1 (2)	<???>	xi1 (2)	Mandarin Chinese	1	U+0078 U+0069 U+0031 U+0020 U+0028 U+0032 U+0029
+chao2 (2)	<???>	chao2 (2)	Mandarin Chinese	1	U+0063 U+0068 U+0061 U+006f U+0032 U+0020 U+0028 U+0032 U+0029
+qi2 (1)	<???>	qi2 (1)	Mandarin Chinese	1	U+0071 U+0069 U+0032 U+0020 U+0028 U+0031 U+0029
+e4 (1)	<???>	e4 (1)	Mandarin Chinese	1	U+0065 U+0034 U+0020 U+0028 U+0031 U+0029
+ju1(zi)	<???>	ju1(zi)	Mandarin Chinese	1	U+006a U+0075 U+0031 U+0028 U+007a U+0069 U+0029
+^4	<?>	4 wo1	Mandarin Chinese	1	U+005e U+0034
+jiao4shi4 (2)	<???>	jiao4shi4 (2)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0034 U+0073 U+0068 U+0069 U+0034 U+0020 U+0028 U+0032 U+0029
+xin1 (2)	<???>	xin1 (2)	Mandarin Chinese	1	U+0078 U+0069 U+006e U+0031 U+0020 U+0028 U+0032 U+0029
+sha1 (1)	<???>	sha1 (1)	Mandarin Chinese	1	U+0073 U+0068 U+0061 U+0031 U+0020 U+0028 U+0031 U+0029
+jian1 (3)	<???>	jian1 (3)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0031 U+0020 U+0028 U+0033 U+0029
+jin4 (2)	<???>	jin4 (2)	Mandarin Chinese	1	U+006a U+0069 U+006e U+0034 U+0020 U+0028 U+0032 U+0029
+ji4 (2)	<???>	ji4 (2)	Mandarin Chinese	1	U+006a U+0069 U+0034 U+0020 U+0028 U+0032 U+0029
+kan4 (shu1/bao4)	<???>	kan4 (shu1/bao4)	Mandarin Chinese	1	U+006b U+0061 U+006e U+0034 U+0020 U+0028 U+0073 U+0068 U+0075 U+0031 U+002f U+0062 U+0061 U+006f U+0034 U+0029
+5$	<?>	shi2wu5	Mandarin Chinese	1	U+0035 U+0024
+yu3 (1)	<???>	yu3 (1)	Mandarin Chinese	1	U+0079 U+0075 U+0033 U+0020 U+0028 U+0031 U+0029
+cuo4 (1)	<???>	cuo4 (1)	Mandarin Chinese	1	U+0063 U+0075 U+006f U+0034 U+0020 U+0028 U+0031 U+0029
+nü3-(de)	<???>	nü3-(de)	Mandarin Chinese	1	U+006e U+00fc U+0033 U+002d U+0028 U+0064 U+0065 U+0029
+pa2 (1)	<???>	pa2 (1)	Mandarin Chinese	1	U+0070 U+0061 U+0032 U+0020 U+0028 U+0031 U+0029
+e4(gu3)	<???>	e4(gu3)	Mandarin Chinese	1	U+0065 U+0034 U+0028 U+0067 U+0075 U+0033 U+0029
+jian4 (4)	<???>	jian4 (4)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0034 U+0020 U+0028 U+0034 U+0029
+yuan2 (2)	<???>	yuan2 (2)	Mandarin Chinese	1	U+0079 U+0075 U+0061 U+006e U+0032 U+0020 U+0028 U+0032 U+0029
+mu3 (2)	<???>	mu3 (2)	Mandarin Chinese	1	U+006d U+0075 U+0033 U+0020 U+0028 U+0032 U+0029
+(zai4 ...) pang2bian1	<???>	(zai4 ...) pang2bian1	Mandarin Chinese	1	U+0028 U+007a U+0061 U+0069 U+0034 U+0020 U+002e U+002e U+002e U+0029 U+0020 U+0070 U+0061 U+006e U+0067 U+0032 U+0062 U+0069 U+0061 U+006e U+0031
+hu2 (2)	<???>	hu2 (2)	Mandarin Chinese	1	U+0068 U+0075 U+0032 U+0020 U+0028 U+0032 U+0029
+shu3 (3)	<???>	shu3 (3)	Mandarin Chinese	1	U+0073 U+0068 U+0075 U+0033 U+0020 U+0028 U+0033 U+0029
+shi1zi (2)	<???>	shi1zi (2)	Mandarin Chinese	1	U+0073 U+0068 U+0069 U+0031 U+007a U+0069 U+0020 U+0028 U+0032 U+0029
+jiu4 (3)	<???>	jiu4 (3)	Mandarin Chinese	1	U+006a U+0069 U+0075 U+0034 U+0020 U+0028 U+0033 U+0029
+feng1 (2)	<???>	feng1 (2)	Mandarin Chinese	1	U+0066 U+0065 U+006e U+0067 U+0031 U+0020 U+0028 U+0032 U+0029
+pi2 (1)	<???>	pi2 (1)	Mandarin Chinese	1	U+0070 U+0069 U+0032 U+0020 U+0028 U+0031 U+0029
+jian1 (2)	<???>	jian1 (2)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0031 U+0020 U+0028 U+0032 U+0029
+huo2(de)	<???>	huo2(de)	Mandarin Chinese	1	U+0068 U+0075 U+006f U+0032 U+0028 U+0064 U+0065 U+0029
+ci2 (2)	<???>	ci2 (2)	Mandarin Chinese	1	U+0063 U+0069 U+0032 U+0020 U+0028 U+0032 U+0029
+feng1 (1)	<???>	feng1 (1)	Mandarin Chinese	1	U+0066 U+0065 U+006e U+0067 U+0031 U+0020 U+0028 U+0031 U+0029
+jiao3 (1)	<???>	jiao3 (1)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0033 U+0020 U+0028 U+0031 U+0029
+dui4 (1)	<???>	dui4 (1)	Mandarin Chinese	1	U+0064 U+0075 U+0069 U+0034 U+0020 U+0028 U+0031 U+0029
+jiao4 (1)	<???>	jiao4 (1)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0034 U+0020 U+0028 U+0031 U+0029
+yuan2 (1)	<???>	yuan2 (1)	Mandarin Chinese	1	U+0079 U+0075 U+0061 U+006e U+0032 U+0020 U+0028 U+0031 U+0029
+dong4 (1)	<???>	dong4 (1)	Mandarin Chinese	1	U+0064 U+006f U+006e U+0067 U+0034 U+0020 U+0028 U+0031 U+0029
+jia1 (1)	<???>	jia1 (1)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+0031 U+0020 U+0028 U+0031 U+0029
+che1pai2(r)	<???>	che1pai2(r)	Mandarin Chinese	1	U+0063 U+0068 U+0065 U+0031 U+0070 U+0061 U+0069 U+0032 U+0028 U+0072 U+0029
+rou2 (1)	<???>	rou2 (1)	Mandarin Chinese	1	U+0072 U+006f U+0075 U+0032 U+0020 U+0028 U+0031 U+0029
+mu3 (1)	<???>	mu3 (1)	Mandarin Chinese	1	U+006d U+0075 U+0033 U+0020 U+0028 U+0031 U+0029
+bo3 (de)	<???>	bo3 (de)	Mandarin Chinese	1	U+0062 U+006f U+0033 U+0020 U+0028 U+0064 U+0065 U+0029
+xi1 (1)	<???>	xi1 (1)	Mandarin Chinese	1	U+0078 U+0069 U+0031 U+0020 U+0028 U+0031 U+0029
+jian4 (6)	<???>	jian4 (6)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0034 U+0020 U+0028 U+0036 U+0029
+ma3lu4 (2)	<???>	ma3lu4 (2)	Mandarin Chinese	1	U+006d U+0061 U+0033 U+006c U+0075 U+0034 U+0020 U+0028 U+0032 U+0029
+chao2 (1)	<???>	chao2 (1)	Mandarin Chinese	1	U+0063 U+0068 U+0061 U+006f U+0032 U+0020 U+0028 U+0031 U+0029
+mo4 (2)	<???>	mo4 (2)	Mandarin Chinese	1	U+006d U+006f U+0034 U+0020 U+0028 U+0032 U+0029
+sha1 (2)	<???>	sha1 (2)	Mandarin Chinese	1	U+0073 U+0068 U+0061 U+0031 U+0020 U+0028 U+0032 U+0029
+^o	o	ou3tu4	Mandarin Chinese	1	U+005e U+006f
+wan1 (2)	<???>	wan1 (2)	Mandarin Chinese	1	U+0077 U+0061 U+006e U+0031 U+0020 U+0028 U+0032 U+0029
+wan2 (1)	<???>	wan2 (1)	Mandarin Chinese	1	U+0077 U+0061 U+006e U+0032 U+0020 U+0028 U+0031 U+0029
+tang3 (xia4)	<???>	tang3 (xia4)	Mandarin Chinese	1	U+0074 U+0061 U+006e U+0067 U+0033 U+0020 U+0028 U+0078 U+0069 U+0061 U+0034 U+0029
+hua2 (2)	<???>	hua2 (2)	Mandarin Chinese	1	U+0068 U+0075 U+0061 U+0032 U+0020 U+0028 U+0032 U+0029
+ma3lu4 (1)	<???>	ma3lu4 (1)	Mandarin Chinese	1	U+006d U+0061 U+0033 U+006c U+0075 U+0034 U+0020 U+0028 U+0031 U+0029
+fu4 (1)	<???>	fu4 (1)	Mandarin Chinese	1	U+0066 U+0075 U+0034 U+0020 U+0028 U+0031 U+0029
+ya1 (1)	<???>	ya1 (1)	Mandarin Chinese	1	U+0079 U+0061 U+0031 U+0020 U+0028 U+0031 U+0029
+gan1 (1)	<???>	gan1 (1)	Mandarin Chinese	1	U+0067 U+0061 U+006e U+0031 U+0020 U+0028 U+0031 U+0029
+wan3 (2)	<???>	wan3 (2)	Mandarin Chinese	1	U+0077 U+0061 U+006e U+0033 U+0020 U+0028 U+0032 U+0029
+guo1(zi)	<???>	guo1(zi)	Mandarin Chinese	1	U+0067 U+0075 U+006f U+0031 U+0028 U+007a U+0069 U+0029
+dou4zheng1 (2)	<???>	dou4zheng1 (2)	Mandarin Chinese	1	U+0064 U+006f U+0075 U+0034 U+007a U+0068 U+0065 U+006e U+0067 U+0031 U+0020 U+0028 U+0032 U+0029
+gua1(feng1)	<???>	gua1(feng1)	Mandarin Chinese	1	U+0067 U+0075 U+0061 U+0031 U+0028 U+0066 U+0065 U+006e U+0067 U+0031 U+0029
+zui4 (1)	<???>	zui4 (1)	Mandarin Chinese	1	U+007a U+0075 U+0069 U+0034 U+0020 U+0028 U+0031 U+0029
+shi1zi (1)	<???>	shi1zi (1)	Mandarin Chinese	1	U+0073 U+0068 U+0069 U+0031 U+007a U+0069 U+0020 U+0028 U+0031 U+0029
+dao4 (1)	<???>	dao4 (1)	Mandarin Chinese	1	U+0064 U+0061 U+006f U+0034 U+0020 U+0028 U+0031 U+0029
+shu3 (1)	<???>	shu3 (1)	Mandarin Chinese	1	U+0073 U+0068 U+0075 U+0033 U+0020 U+0028 U+0031 U+0029
+(Verb)-shang4qu4	<???>	(Verb)-shang4qu4	Mandarin Chinese	1	U+0028 U+0056 U+0065 U+0072 U+0062 U+0029 U+002d U+0073 U+0068 U+0061 U+006e U+0067 U+0034 U+0071 U+0075 U+0034
+jiu4 (1)	<???>	jiu4 (1)	Mandarin Chinese	1	U+006a U+0069 U+0075 U+0034 U+0020 U+0028 U+0031 U+0029
+nü3xing4(de)	<???>	nü3xing4(de)	Mandarin Chinese	1	U+006e U+00fc U+0033 U+0078 U+0069 U+006e U+0067 U+0034 U+0028 U+0064 U+0065 U+0029
+^1$	<?>	1	Mandarin Chinese	1	U+005e U+0031 U+0024
+rou2 (2)	<???>	rou2 (2)	Mandarin Chinese	1	U+0072 U+006f U+0075 U+0032 U+0020 U+0028 U+0032 U+0029
+he2 (1)	<???>	he2 (1)	Mandarin Chinese	1	U+0068 U+0065 U+0032 U+0020 U+0028 U+0031 U+0029
+ji4 (1)	<???>	ji4 (1)	Mandarin Chinese	1	U+006a U+0069 U+0034 U+0020 U+0028 U+0031 U+0029
+ya1 (2)	<???>	ya1 (2)	Mandarin Chinese	1	U+0079 U+0061 U+0031 U+0020 U+0028 U+0032 U+0029
+jiu3 (2)	<???>	jiu3 (2)	Mandarin Chinese	1	U+006a U+0069 U+0075 U+0033 U+0020 U+0028 U+0032 U+0029
+^C	<?>	CL	Mandarin Chinese	1	U+005e U+0043
+mao2 (1)	<???>	mao2 (1)	Mandarin Chinese	1	U+006d U+0061 U+006f U+0032 U+0020 U+0028 U+0031 U+0029
+kuai4 (2)	<???>	kuai4 (2)	Mandarin Chinese	1	U+006b U+0075 U+0061 U+0069 U+0034 U+0020 U+0028 U+0032 U+0029
+xiao3hai2(r)	<???>	xiao3hai2(r)	Mandarin Chinese	1	U+0078 U+0069 U+0061 U+006f U+0033 U+0068 U+0061 U+0069 U+0032 U+0028 U+0072 U+0029
+fu4 (3)	<???>	fu4 (3)	Mandarin Chinese	1	U+0066 U+0075 U+0034 U+0020 U+0028 U+0033 U+0029
+guo3ren2(r)	<???>	guo3ren2(r)	Mandarin Chinese	1	U+0067 U+0075 U+006f U+0033 U+0072 U+0065 U+006e U+0032 U+0028 U+0072 U+0029
+mao2 (2)	<???>	mao2 (2)	Mandarin Chinese	1	U+006d U+0061 U+006f U+0032 U+0020 U+0028 U+0032 U+0029
+jiao1 (3)	<???>	jiao1 (3)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006f U+0031 U+0020 U+0028 U+0033 U+0029
+(zai ...) zhi1hou4	<???>	(zai ...) zhi1hou4	Mandarin Chinese	1	U+0028 U+007a U+0061 U+0069 U+0020 U+002e U+002e U+002e U+0029 U+0020 U+007a U+0068 U+0069 U+0031 U+0068 U+006f U+0075 U+0034
+you4 (1)	<???>	you4 (1)	Mandarin Chinese	1	U+0079 U+006f U+0075 U+0034 U+0020 U+0028 U+0031 U+0029
+gan1 (2)	<???>	gan1 (2)	Mandarin Chinese	1	U+0067 U+0061 U+006e U+0031 U+0020 U+0028 U+0032 U+0029
+you4 (2)	<???>	you4 (2)	Mandarin Chinese	1	U+0079 U+006f U+0075 U+0034 U+0020 U+0028 U+0032 U+0029
+jiu3 (1)	<???>	jiu3 (1)	Mandarin Chinese	1	U+006a U+0069 U+0075 U+0033 U+0020 U+0028 U+0031 U+0029
+yu3 (2)	<???>	yu3 (2)	Mandarin Chinese	1	U+0079 U+0075 U+0033 U+0020 U+0028 U+0032 U+0029
+he2 (2)	<???>	he2 (2)	Mandarin Chinese	1	U+0068 U+0065 U+0032 U+0020 U+0028 U+0032 U+0029
+jian4 (1)	<???>	jian4 (1)	Mandarin Chinese	1	U+006a U+0069 U+0061 U+006e U+0034 U+0020 U+0028 U+0031 U+0029
+kuan1 (2)	<???>	kuan1 (2)	Mandarin Chinese	1	U+006b U+0075 U+0061 U+006e U+0031 U+0020 U+0028 U+0032 U+0029
+fu4 (2)	<???>	fu4 (2)	Mandarin Chinese	1	U+0066 U+0075 U+0034 U+0020 U+0028 U+0032 U+0029
+zhen1 (2)	<???>	zhen1 (2)	Mandarin Chinese	1	U+007a U+0068 U+0065 U+006e U+0031 U+0020 U+0028 U+0032 U+0029

@@ -1,0 +1,1214 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	20-1-1-1	79171026691667692	Oroqen	oroq1238	the world	WORLD	965		bʊɣaŋi əlginin	bʊɣaŋi əlginin 
+2	20-1-21-1	79171314791131728	Oroqen	oroq1238	the land	LAND	626		tur	tur 
+3	20-1-212-1	79171450274216900	Oroqen	oroq1238	the soil	EARTH (SOIL)	1228		tʊkala	tʊkala 
+4	20-1-213-1	79181141206588195	Oroqen	oroq1238	the dust	DUST	2		tɔ:rag	tɔ:rag 
+5	20-1-214-1	79181210279480166	Oroqen	oroq1238	the mud	MUD	640		tilbaka	tilbaka 
+6	20-1-215-1	79181212448887840	Oroqen	oroq1238	the sand	SAND	671		ʃirgi	ʃirgi 
+7	20-1-22-1	79181213690930653	Oroqen	oroq1238	the mountain or hill	MOUNTAIN OR HILL	2118		urə (1)	urə (1) 
+8	20-1-222-1	79181215540541211	Oroqen	oroq1238	the cliff or precipice	PRECIPICE	618		kadar	kadar 
+9	20-1-23-1	79181344228625932	Oroqen	oroq1238	the plain	PLAIN	652		kumɛ	kumɛ 
+10	20-1-24-1	79181348983959014	Oroqen	oroq1238	the valley	VALLEY	921		yɔpkɔn	yɔpkɔn 
+11	20-1-25-1	79271030382798842	Oroqen	oroq1238	the island	ISLAND	622		ʃigdəmki	ʃigdəmki 
+12	20-1-27-1	79181464179606	Oroqen	oroq1238	the shore	SHORE	113		dalayŋi ŋə:kən	dalayŋi ŋə:kən 
+13	20-1-28-1	79181415224964664	Oroqen	oroq1238	the cave	CAVE	1155		ultəkə	ultəkə 
+14	20-1-31-1	791819147291703	Oroqen	oroq1238	the water	WATER	948		mu:	mu: 
+15	20-1-32-1	7918192389095383	Oroqen	oroq1238	the sea	SEA	1474		dalay	dalay 
+16	20-1-322-1	79271032449684872	Oroqen	oroq1238	calm	CALM	258		ɲumu	ɲumu 
+17	20-1-324-1	7918197894495952	Oroqen	oroq1238	the foam	FOAM	1768		kɔ:kun	kɔ:kun 
+18	20-1-33-1	7919954374750456	Oroqen	oroq1238	the lake	LAKE	624		amʊdʒi	amʊdʒi 
+19	20-1-33-2	9241654499733438	Oroqen	oroq1238	the lake	LAKE	624		amʊkan	amʊkan 
+20	20-1-34-1	79271033522905946	Oroqen	oroq1238	the bay	BAY	663		dalay kɔ:tʃɔ	dalay kɔ:tʃɔ 
+21	20-1-35-1	7919149780281433	Oroqen	oroq1238	the wave	WAVE	978		urkinən	urkinən 
+22	20-1-36-1	79191411873024939	Oroqen	oroq1238	the river or stream	RIVER	666		bira	bira 
+23	20-1-362-1	79191414302836860	Oroqen	oroq1238	the whirlpool	WHIRLPOOL	1982		ʊlgɛr	ʊlgɛr 
+24	20-1-37-1	79191416868388698	Oroqen	oroq1238	the spring or well	SPRING OR WELL	2144		bular	bular 
+25	20-1-37-2	92417962656579	Oroqen	oroq1238	the spring or well	SPRING OR WELL	2144		kʊdɪr	kʊdɪr 
+26	20-1-38-1	79191918670708163	Oroqen	oroq1238	the swamp	SWAMP	1145		ʃiwar	ʃiwar 
+27	20-1-41-1	79191921771109837	Oroqen	oroq1238	the woods or forest	FOREST	420		mɔ:ʃa	mɔ:ʃa 
+28	20-1-43-1	710111218857883433	Oroqen	oroq1238	the wood	WOOD	1803		mɔ:	mɔ: 
+29	20-1-44-1	79191925199014880	Oroqen	oroq1238	the stone or rock	STONE OR ROCK	2125		dʒɔlɔ	dʒɔlɔ 
+30	20-1-44-2	9241723207655610	Oroqen	oroq1238	the stone or rock	STONE OR ROCK	2125		iʃɛkək	iʃɛkək 
+31	20-1-45-1	79191932529668004	Oroqen	oroq1238	the earthquake	EARTHQUAKE	6		tur urtərgətʃə	tur urtərgətʃə 
+32	20-1-51-1	79191940708494439	Oroqen	oroq1238	the sky	SKY	1732		bʊwa	bʊwa 
+33	20-1-52-1	7919194843987973	Oroqen	oroq1238	the sun	SUN	1343		dɪlatʃa	dɪlatʃa 
+34	20-1-52-2	9242142890315845	Oroqen	oroq1238	the sun	SUN	1343		ʃiwun	ʃiwun 
+35	20-1-53-1	79192117571953374	Oroqen	oroq1238	the moon	MOON	1313		bɛga	bɛga 
+36	20-1-54-1	7919212529355790	Oroqen	oroq1238	the star	STAR	1430		ɔʃɪkta	ɔʃɪkta 
+37	20-1-55-1	79201022943222204	Oroqen	oroq1238	the lightning	LIGHTNING	1654		talɪɲʊ	talɪɲʊ 
+38	20-1-56-1	7920113118727801	Oroqen	oroq1238	the thunder	THUNDER	1150		agdɪ	agdɪ 
+39	20-1-58-1	79201353839164280	Oroqen	oroq1238	the storm	STORM	858		oŋko:	oŋko: 
+40	20-1-59-1	7920147273907178	Oroqen	oroq1238	the rainbow	RAINBOW	1733		ʃə:run	ʃə:run 
+41	20-1-61-1	792014866098678	Oroqen	oroq1238	the light	LIGHT (RADIATION)	630		ɪla:n	ɪla:n 
+42	20-1-62-1	7920149233598082	Oroqen	oroq1238	the darkness	DARKNESS	11		ʃinko	ʃinko 
+43	20-1-63-1	79201410560194088	Oroqen	oroq1238	the shade or shadow	SHADE	1388		ʃinmun	ʃinmun 
+44	20-1-63-2	9242148817383240	Oroqen	oroq1238	the shade or shadow	SHADE	1388		aɲan	aɲan 
+45	20-1-64-1	79201442582383067	Oroqen	oroq1238	the dew	DEW	1977		ʃiləkʃə	ʃiləkʃə 
+46	20-1-72-1	79201451708514391	Oroqen	oroq1238	the wind	WIND	960		ədin	ədin 
+47	20-1-73-1	79201452192126818	Oroqen	oroq1238	the cloud	CLOUD	1489		tukʃu	tukʃu 
+48	20-1-74-1	79201453860968732	Oroqen	oroq1238	the fog	FOG	249		tamna	tamna 
+49	20-1-75-1	79201454569431378	Oroqen	oroq1238	the rain	RAIN (PRECIPITATION)	658		tigdə	tigdə 
+50	20-1-76-1	7920145468257647	Oroqen	oroq1238	the snow	SNOW	784		ɪmana	ɪmana 
+51	20-1-77-1	79201455788593080	Oroqen	oroq1238	the ice	ICE	617		umukʃu	umukʃu 
+52	20-1-81-1	7920197661888169	Oroqen	oroq1238	the fire	FIRE	221		tɔɣɔ	tɔɣɔ 
+53	20-1-83-1	79201911496600469	Oroqen	oroq1238	the smoke	SMOKE (EXHAUST)	778		ʃaŋŋan	ʃaŋŋan 
+54	20-1-84-1	79211251909554964	Oroqen	oroq1238	the ash	ASH	646		uləptən	uləptən 
+55	20-1-841-1	79211252720411879	Oroqen	oroq1238	the embers	EMBERS	67		iltʃi	iltʃi 
+56	20-1-851-1	79211255626529757	Oroqen	oroq1238	to burn(1)	BURN (SOMETHING)	141		dalga-	dalga- 
+57	20-1-852-1	79211256363561427	Oroqen	oroq1238	to burn(2)	BURNING	1428		dʒəgdə-	dʒəgdə- 
+58	20-1-86-1	79211259613229086	Oroqen	oroq1238	to light	LIGHT (IGNITE)	737		nul-	nul- 
+59	20-1-861-1	7921131356397855	Oroqen	oroq1238	to extinguish	EXTINGUISH	127		ʃi:-	ʃi:- 
+60	20-1-87-1	7921133340316290	Oroqen	oroq1238	the match	MATCH	1133		pitʃikə	pitʃikə 
+61	20-1-87-2	9231228935136731	Oroqen	oroq1238	the match	MATCH	1133		tʃüdəŋ	tʃüdəŋ 
+62	20-1-88-1	710111218857883433	Oroqen	oroq1238	the firewood	FIREWOOD	10		mɔ:	mɔ: 
+63	20-1-89-1	7921163967273706	Oroqen	oroq1238	the charcoal	CHARCOAL	1188		yɛla	yɛla 
+64	20-2-1-1	79211641818758852	Oroqen	oroq1238	the person	PERSON	683		bəyə	bəyə 
+65	20-2-21-1	79211725491279772	Oroqen	oroq1238	the man	MAN	1554		ɲɪray	ɲɪray 
+66	20-2-22-1	79211730844131183	Oroqen	oroq1238	the woman	WOMAN	962		aʃɪ	aʃɪ 
+67	20-2-23-1	79211725491279772	Oroqen	oroq1238	male(1)	MALE (OF ANIMAL)	2263		ɲɪray	ɲɪray 
+68	20-2-24-1	79211730844131183	Oroqen	oroq1238	female(1)	FEMALE (OF PERSON)	2260		aʃɪ	aʃɪ 
+69	20-2-25-1	79211734783973484	Oroqen	oroq1238	the boy	BOY	1366		ulkəkən	ulkəkən 
+70	20-2-251-1	79211736248632676	Oroqen	oroq1238	the young man	YOUNG MAN	76		ɲɪrayɪkan	ɲɪrayɪkan 
+71	20-2-26-1	79211739705572386	Oroqen	oroq1238	the girl	GIRL	1646		una:dʒɪkan	una:dʒɪkan 
+72	20-2-261-1	79211741985515324	Oroqen	oroq1238	the young woman	YOUNG WOMAN	77		una:dʒɪ	una:dʒɪ 
+73	20-2-27-1	79211742311172264	Oroqen	oroq1238	the child(1)	CHILD (YOUNG HUMAN)	1304		kɔ:kan	kɔ:kan 
+74	20-2-28-1	79211744999938424	Oroqen	oroq1238	the baby	BABY	1289		nɔnɔ	nɔnɔ 
+75	20-2-31-1	79211746496934893	Oroqen	oroq1238	the husband	HUSBAND	1200		ətirkən	ətirkən 
+76	20-2-32-1	79211747895049327	Oroqen	oroq1238	the wife	WIFE	1199		atɪrkan	atɪrkan 
+77	20-2-33-1	79211754201250469	Oroqen	oroq1238	to marry	MARRY	203		uyumə:-	uyumə:- 
+78	20-2-33-2	9242152868772564	Oroqen	oroq1238	to marry	MARRY	203		uyə-	uyə- 
+79	20-2-35-1	79211849783786725	Oroqen	oroq1238	the father	FATHER	1217		amɪn	amɪn 
+80	20-2-36-1	79211856818782290	Oroqen	oroq1238	the mother	MOTHER	1216		ənin	ənin 
+81	20-2-37-1	79211859272537627	Oroqen	oroq1238	the parents	PARENTS	505		amɪnənin	amɪnənin 
+82	20-2-38-1	792119187172642	Oroqen	oroq1238	the married man	MARRIED MAN	424		uyəpdilə ɲɪray	uyəpdilə ɲɪray 
+83	20-2-39-1	7921193753758932	Oroqen	oroq1238	the married woman	MARRIED WOMAN	426		uyəpdilə axɪ	uyəpdilə axɪ 
+84	20-2-41-1	7921195429686836	Oroqen	oroq1238	the son	SON	1620		ulkəkan utə	ulkəkan utə 
+85	20-2-42-1	7921191086664373	Oroqen	oroq1238	the daughter	DAUGHTER	1357		axakan utə	axakan utə 
+86	20-2-43-1	79211910433080792	Oroqen	oroq1238	the child(2)	CHILD (DESCENDANT)	1801		utə	utə 
+87	20-2-44-1	7921191988118017	Oroqen	oroq1238	the brother	BROTHER	1262		akunən	akunən 
+88	20-2-444-1	79211920961843651	Oroqen	oroq1238	the older brother	OLDER BROTHER	1759		akɪn	akɪn 
+89	20-2-445-1	79211922834746973	Oroqen	oroq1238	the younger brother	YOUNGER BROTHER	1760		ɲɪray nəkun	ɲɪray nəkun 
+90	20-2-45-1	7921192950007660	Oroqen	oroq1238	the sister	SISTER	1263		əkunən	əkunən 
+91	20-2-454-1	79211930846739652	Oroqen	oroq1238	the older sister	OLDER SISTER	1758		əkin	əkin 
+92	20-2-455-1	79211930752431851	Oroqen	oroq1238	the younger sister	YOUNGER SISTER	1761		ʊna:dʒɪ nəkun	ʊna:dʒɪ nəkun 
+93	20-2-46-1	79211934707072134	Oroqen	oroq1238	the grandfather	GRANDFATHER	1383		adama	adama 
+94	20-2-46-2	9231228935136732	Oroqen	oroq1238	the grandfather	GRANDFATHER	1383		yə:yə	yə:yə 
+95	20-2-461-1	7921201823525166	Oroqen	oroq1238	the old man	OLD MAN	406		ətirkkətʃən	ətirkkətʃən 
+96	20-2-47-1	7921202371209311	Oroqen	oroq1238	the grandmother	GRANDMOTHER	1496		ada	ada 
+97	20-2-471-1	7921202529250665	Oroqen	oroq1238	the old woman	OLD WOMAN	907		atirkka:tʃan	atirkka:tʃan 
+98	20-2-48-1	79212025727591832	Oroqen	oroq1238	the grandson	GRANDSON	1618		ulkəkən/ɲɪrayɪ ɔmɔlɛ:	ulkəkən 
+99	20-2-48-2	79212025727591832	Oroqen	oroq1238	the grandson	GRANDSON	1618		ulkəkən/ɲɪrayɪ ɔmɔlɛ:	ɲɪrayɪ ɔmɔlɛ: 
+100	20-2-49-1	7921204959932914	Oroqen	oroq1238	the granddaughter	GRANDDAUGHTER	1619		ʊna:dʒɪ/aʃɪ ɔmɔlɛ:	ʊna:dʒɪ 
+101	20-2-49-2	7921204959932914	Oroqen	oroq1238	the granddaughter	GRANDDAUGHTER	1619		ʊna:dʒɪ/aʃɪ ɔmɔlɛ:	aʃɪ ɔmɔlɛ: 
+102	20-2-511-1	79212029284588571	Oroqen	oroq1238	the mother's brother	MOTHER'S BROTHER	1984		na:tʃʊ	na:tʃʊ 
+103	20-2-512-1	79212033622532177	Oroqen	oroq1238	the father's brother	FATHER'S BROTHER	1985		ama:ka	ama:ka 
+104	20-2-521-1	79212038667414591	Oroqen	oroq1238	the mother's sister	MOTHER'S SISTER	171		əɲəkə	əɲəkə 
+105	20-2-522-1	79212038667414591	Oroqen	oroq1238	the father's sister	FATHER'S SISTER	170		əɲəkə	əɲəkə 
+106	20-2-53-1	79212043262368174	Oroqen	oroq1238	the nephew	NEPHEW	1063		dʒüy	dʒüy 
+107	20-2-54-1	79271139131570309	Oroqen	oroq1238	the niece	NIECE	1642		dʒüy ʊna:dʒɪ	dʒüy ʊna:dʒɪ 
+108	20-2-55-1	79231158546777813	Oroqen	oroq1238	the cousin	COUSIN	1643		tuwən	tuwən 
+109	20-2-55-2	9242156354448144	Oroqen	oroq1238	the cousin	COUSIN	1643		ta:ra	ta:ra 
+110	20-2-61-1	79231213883523987	Oroqen	oroq1238	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		kadʊm amɪn	kadʊm amɪn 
+111	20-2-62-1	79231216573729295	Oroqen	oroq1238	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		kadum ənin	kadum ənin 
+112	20-2-621-1	79231217365439582	Oroqen	oroq1238	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		arkɪ	arkɪ 
+113	20-2-63-1	79231218362975387	Oroqen	oroq1238	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		kurə:kə:n	kurə:kə:n 
+114	20-2-631-1	79231218362975387	Oroqen	oroq1238	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		kurə:kə:n	kurə:kə:n 
+115	20-2-64-1	79231220352052437	Oroqen	oroq1238	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		kukin	kukin 
+116	20-2-641-1	79231220352052437	Oroqen	oroq1238	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		kukin	kukin 
+117	20-2-71-1	79231221684399058	Oroqen	oroq1238	the stepfather	STEPFATHER	237		amɪran	amɪran 
+118	20-2-72-1	7923122277279989	Oroqen	oroq1238	the stepmother	STEPMOTHER	236		ənirən	ənirən 
+119	20-2-75-1	79231223364297435	Oroqen	oroq1238	the orphan	ORPHAN	1149		aŋadʒan	aŋadʒan 
+120	20-2-76-1	79231651127663567	Oroqen	oroq1238	the widow	WIDOW	1756		na:wun	na:wun 
+121	20-2-77-1	79231651127663567	Oroqen	oroq1238	the widower	WIDOWER	1981		na:wun	na:wun 
+122	20-2-81-1	79231650407777899	Oroqen	oroq1238	the relatives	RELATIVES	1644		adi	adi 
+123	20-2-82-1	710101436913438391	Oroqen	oroq1238	the family	FAMILY	194		dʒu:	dʒu: 
+124	20-2-91-1	7923175562415433	Oroqen	oroq1238	I	I	1209		bi:	bi: 
+125	20-2-92-1	7923176786321920	Oroqen	oroq1238	you (singular)	THOU	1215		ʃi:	ʃi: 
+126	20-2-93-1	7923177418378311	Oroqen	oroq1238	he/she/it	HE OR SHE OR IT	262		nɔ:nɪn	nɔ:nɪn 
+127	20-2-93-2	9252153545328562	Oroqen	oroq1238	he/she/it	HE OR SHE OR IT	262		tarɪ	tarɪ 
+128	20-2-941-1	7923187679495306	Oroqen	oroq1238	we (inclusive)	WE (INCLUSIVE)	1131		bu:	bu: 
+129	20-2-942-1	7923188549654927	Oroqen	oroq1238	we (exclusive)	WE (EXCLUSIVE)	1130		mir	mir 
+130	20-2-942-2	9241646178549790	Oroqen	oroq1238	we (exclusive)	WE (EXCLUSIVE)	1130		miti	miti 
+131	20-2-95-1	7923189219868665	Oroqen	oroq1238	you (plural)	YOU	1213		ʃu	ʃu 
+132	20-2-96-1	79231811270899157	Oroqen	oroq1238	they	THEY	817		nɔ:tɪn	nɔ:tɪn 
+133	20-3-11-1	79231816163414615	Oroqen	oroq1238	the animal	ANIMAL	619		bəyiŋə	bəyiŋə 
+134	20-3-12-1	79231818747480933	Oroqen	oroq1238	male(2)	MALE (OF PERSON)	2261		adirga	adirga 
+135	20-3-13-1	79231848984694220	Oroqen	oroq1238	female(2)	FEMALE (OF ANIMAL)	2262		gək	gək 
+136	20-3-15-1	79241511888947740	Oroqen	oroq1238	the livestock	LIVESTOCK	631		adʊʃun	adʊʃun 
+137	20-3-16-1	79241537411109327	Oroqen	oroq1238	the pasture	PASTURE	649		kumə	kumə 
+138	20-3-16-2	9241634859759337	Oroqen	oroq1238	the pasture	PASTURE	649		kə:r	kə:r 
+139	20-3-18-1	79241546523241574	Oroqen	oroq1238	the herdsman	HERDSMAN	263		adutʃin	adutʃin 
+140	20-3-21-1	7924162914878573	Oroqen	oroq1238	the bull	BULL	1008		adirga ukur	adirga ukur 
+141	20-3-22-1	7924169410888553	Oroqen	oroq1238	the ox	OX	1169		ukur	ukur 
+142	20-3-23-1	79241649916249812	Oroqen	oroq1238	the cow	COW	1007		gək ukur	gək ukur 
+143	20-3-24-1	79271144124481964	Oroqen	oroq1238	the calf	CALF	1989		tukətʃən	tukətʃən 
+144	20-3-25-1	7924171307578089	Oroqen	oroq1238	the sheep	SHEEP	1331		kʊnin	kʊnin 
+145	20-3-26-1	7924172581884025	Oroqen	oroq1238	the ram	RAM	1344		adirga kʊnin	adirga kʊnin 
+146	20-3-28-1	7924173114815663	Oroqen	oroq1238	the ewe	EWE	1345		gək kʊnin	gək kʊnin 
+147	20-3-29-1	7924203546467671	Oroqen	oroq1238	the lamb	LAMB	820		kʊnirkan	kʊnirkan 
+148	20-3-32-1	792420813808433	Oroqen	oroq1238	the boar	BOAR	1348		adirga ʊlgɛn	adirga ʊlgɛn 
+149	20-3-34-1	7924209563855135	Oroqen	oroq1238	the sow	SOW (FEMALE PIG)	1351		gək ʊlgɛn	gək ʊlgɛn 
+150	20-3-35-1	79242012542603289	Oroqen	oroq1238	the pig	PIG	1337		ʊlgɛn	ʊlgɛn 
+151	20-3-36-1	79242013733507164	Oroqen	oroq1238	the goat	GOAT	1502		ima:n	ima:n 
+152	20-3-37-1	79242034131940887	Oroqen	oroq1238	the he-goat	HE-GOAT	264		adirga ima:n	adirga ima:n 
+153	20-3-38-1	79242037482684378	Oroqen	oroq1238	the kid	KID	1972		ima:kan	ima:kan 
+154	20-3-41-1	79242044367686407	Oroqen	oroq1238	the horse	HORSE	615		mʊrɪn	mʊrɪn 
+155	20-3-42-1	79242048862562552	Oroqen	oroq1238	the stallion	STALLION	936		adirga (mʊrɪn)	adirga (mʊrɪn) 
+156	20-3-44-1	79242052654573950	Oroqen	oroq1238	the mare	MARE	938		gək mʊrɪn	gək mʊrɪn 
+157	20-3-45-1	79251045448741755	Oroqen	oroq1238	the foal or colt	FOAL	1647		ɲɔkɔn	ɲɔkɔn 
+158	20-3-5-1	7925207220194839	Oroqen	oroq1238	the fowl	FOWL	265		dəyi	dəyi 
+159	20-3-52-1	79271146512761163	Oroqen	oroq1238	the cock/rooster	ROOSTER	1511		amɪna:n kakara	amɪna:n kakara 
+160	20-3-55-1	79252019105569927	Oroqen	oroq1238	the chicken	CHICKEN	1318		kakara	kakara 
+161	20-3-56-1	79252030296273982	Oroqen	oroq1238	the goose	GOOSE	1187		ɲuŋɲakɪ	ɲuŋɲakɪ 
+162	20-3-57-1	79252033909825761	Oroqen	oroq1238	the duck	DUCK	1360		nikitʃən	nikitʃən 
+163	20-3-58-1	79252034877556129	Oroqen	oroq1238	the nest	NEST	539		ʃəktə	ʃəktə 
+164	20-3-58-2	925228736604086	Oroqen	oroq1238	the nest	NEST	539		umuruk	umuruk 
+165	20-3-581-1	79252035215088734	Oroqen	oroq1238	the bird	BIRD	937		tʃinəkə	tʃinəkə 
+166	20-3-583-1	7925203632723165	Oroqen	oroq1238	the heron	HERON	758		tʃawtʃalɛ	tʃawtʃalɛ 
+167	20-3-584-1	7925203749170618	Oroqen	oroq1238	the eagle	EAGLE	1905		igə:tʃən	igə:tʃən 
+168	20-3-584-2	9252215649221077	Oroqen	oroq1238	the eagle	EAGLE	1905		yə:tʃən	yə:tʃən 
+169	20-3-591-1	79252039340058546	Oroqen	oroq1238	the bat	BAT	1793		nəməkəldun	nəməkəldun 
+170	20-3-593-1	79252042942992054	Oroqen	oroq1238	the crow	CROW	913		tʊrakɪ	tʊrakɪ 
+171	20-3-594-1	79271148752967999	Oroqen	oroq1238	the dove	DOVE	1853		tutuyɛ	tutuyɛ 
+172	20-3-596-1	79252046945859161	Oroqen	oroq1238	the owl	OWL	735		umulgun	umulgun 
+173	20-3-61-1	79252047849583286	Oroqen	oroq1238	the dog	DOG	2009		ŋanakin	ŋanakin 
+174	20-3-614-1	79252049347329220	Oroqen	oroq1238	the rabbit	RABBIT	1136		tʊkʃakɪ	tʊkʃakɪ 
+175	20-3-62-1	79252050683132043	Oroqen	oroq1238	the cat	CAT	1208		kə:kə	kə:kə 
+176	20-3-63-1	79252053916817129	Oroqen	oroq1238	the mouse or rat	MUROID (MOUSE OR RAT)	2139		ənikə:n	ənikə:n 
+177	20-3-63-2	9252221385541321	Oroqen	oroq1238	the mouse or rat	MUROID (MOUSE OR RAT)	2139		əɲəkə:n	əɲəkə:n 
+178	20-3-65-1	79252055597148765	Oroqen	oroq1238	the fish	FISH	227		ɔlɔ	ɔlɔ 
+179	20-3-652-1	79252056585612188	Oroqen	oroq1238	the fin	FIN	213		ʃəlbɛ	ʃəlbɛ 
+180	20-3-653-1	79252058931904078	Oroqen	oroq1238	the scale	SCALE	266		əkikʃə	əkikʃə 
+181	20-3-654-1	7925218909041151	Oroqen	oroq1238	the gill	GILL	1916		ʃɛnɲə	ʃɛnɲə 
+182	20-3-71-1	79252111864404619	Oroqen	oroq1238	the wolf	WOLF	522		guykə	guykə 
+183	20-3-73-1	79252124382541752	Oroqen	oroq1238	the bear	BEAR	1820		ətirkə:n	ətirkə:n 
+184	20-3-74-1	79261438195238057	Oroqen	oroq1238	the fox	FOX	1312		sʊlakɪ	sʊlakɪ 
+185	20-3-75-1	79261443646302811	Oroqen	oroq1238	the deer	DEER	1936		kʊmaka	kʊmaka 
+186	20-3-76-1	79261444935218802	Oroqen	oroq1238	the monkey	MONKEY	1350		mɔɲɔ:	mɔɲɔ: 
+187	20-3-77-1	79271149884339292	Oroqen	oroq1238	the elephant	ELEPHANT	1290		ʃawʊn	ʃawʊn 
+188	20-3-78-1	79271149934083338	Oroqen	oroq1238	the camel	CAMEL	1871		təməkun	təməkun 
+189	20-3-81-1	79262011708316280	Oroqen	oroq1238	the insect	INSECT	620		kʊlɪkan	kʊlɪkan 
+190	20-3-811-1	79262013533000612	Oroqen	oroq1238	the head louse	HEAD LOUSE	310		kumkə	kumkə 
+191	20-3-812-1	79262014265921932	Oroqen	oroq1238	the nit	NIT	267		uktə	uktə 
+192	20-3-813-1	79262016721820834	Oroqen	oroq1238	the flea	FLEA	232		ʃʊra	ʃʊra 
+193	20-3-816-1	79262018502242912	Oroqen	oroq1238	the cockroach	COCKROACH	1575		tarakan	tarakan 
+194	20-3-817-1	79262020255357183	Oroqen	oroq1238	the ant	ANT	587		iriktə	iriktə 
+195	20-3-818-1	79262021109121009	Oroqen	oroq1238	the spider	SPIDER	843		ata:kɛ:	ata:kɛ: 
+196	20-3-819-1	79262024937366209	Oroqen	oroq1238	the spider web	SPIDER WEB	1065		ata:kɛ:ŋi adɪlɪn	ata:kɛ:ŋi adɪlɪn 
+197	20-3-82-1	79262027637334235	Oroqen	oroq1238	the bee	BEE	665		dʒu:gdu	dʒu:gdu 
+198	20-3-822-1	79262028711315079	Oroqen	oroq1238	the beehive	BEEHIVE	88		dʒu:gduŋi dʒu:n	dʒu:gduŋi dʒu:n 
+199	20-3-823-1	792620315866135	Oroqen	oroq1238	the wasp	WASP	1517		gədinəktə	gədinəktə 
+200	20-3-83-1	79262032128273892	Oroqen	oroq1238	the fly	FLY (INSECT)	1504		dilkə:tʃən	dilkə:tʃən 
+201	20-3-831-1	79271150986478926	Oroqen	oroq1238	the sandfly or midge or gnat	SANDFLY	95		tʃʊkʊmʊkta	tʃʊkʊmʊkta 
+202	20-3-832-1	79262037174274949	Oroqen	oroq1238	the mosquito	MOSQUITO	1509		ɲalmakta	ɲalmakta 
+203	20-3-84-1	79262041450352307	Oroqen	oroq1238	the worm	WORM	1219		kʊlikan	kʊlikan 
+204	20-3-85-1	7926204446055676	Oroqen	oroq1238	the snake	SNAKE	730		kʊlɪn	kʊlɪn 
+205	20-3-91-1	79262046467004828	Oroqen	oroq1238	the firefly	FIREFLY	206		budunə	budunə 
+206	20-3-92-1	7926204732046271	Oroqen	oroq1238	the butterfly	BUTTERFLY	1791		kɔldɪkan	kɔldɪkan 
+207	20-3-93-1	79271151838744412	Oroqen	oroq1238	the grasshopper	GRASSHOPPER	607		ʃuʃikun	ʃuʃikun 
+208	20-3-95-1	79271152303693646	Oroqen	oroq1238	the frog	FROG	503		ərəki	ərəki 
+209	20-3-96-1	79271152242971179	Oroqen	oroq1238	the lizard	LIZARD	632		iʃələ	iʃələ 
+210	20-3-98-1	79271155655007094	Oroqen	oroq1238	the turtle	TURTLE	112		kaβila	kaβila 
+211	20-4-11-1	79211641818758852	Oroqen	oroq1238	the body	BODY	1480		bəyə	bəyə 
+212	20-4-12-1	79271158585239809	Oroqen	oroq1238	the skin or hide	SKIN	763		nana	nana 
+213	20-4-12-2	9252228296690410	Oroqen	oroq1238	the skin or hide	SKIN	763		ilə	ilə 
+214	20-4-13-1	7927122169675787	Oroqen	oroq1238	the flesh	FLESH	2259		ulə	ulə 
+215	20-4-14-1	79271239874814445	Oroqen	oroq1238	the hair	HAIR (HEAD)	2648		ɲuriktə	ɲuriktə 
+216	20-4-142-1	79271240760184995	Oroqen	oroq1238	the beard	BEARD	678		gʊrgakta	gʊrgakta 
+217	20-4-144-1	792712427232461	Oroqen	oroq1238	the body hair	HAIR (BODY)	189		iŋakta	iŋakta 
+218	20-4-145-1	79271244686636203	Oroqen	oroq1238	the pubic hair	PUBIC HAIR	36		ʃəwurə	ʃəwurə 
+219	20-4-146-1	79271245734208641	Oroqen	oroq1238	the dandruff	DANDRUFF	576		alʊkta	alʊkta 
+220	20-4-15-1	79271245863216855	Oroqen	oroq1238	the blood	BLOOD	946		ʃə:kʃə	ʃə:kʃə 
+221	20-4-151-1	79271246271464775	Oroqen	oroq1238	the vein or artery	BLOOD VESSEL	525		ʊŋɪkta	ʊŋɪkta 
+222	20-4-16-1	79271246218699538	Oroqen	oroq1238	the bone	BONE	1394		gɪramna	gɪramna 
+223	20-4-162-1	79271248893569688	Oroqen	oroq1238	the rib	RIB	801		o:tilə	o:tilə 
+224	20-4-17-1	79271322632538160	Oroqen	oroq1238	the horn	HORN (ANATOMY)	1393		i:gə	i:gə 
+225	20-4-17-2	9252232759845565	Oroqen	oroq1238	the horn	HORN (ANATOMY)	1393		i:yə	i:yə 
+226	20-4-18-1	79271325526673081	Oroqen	oroq1238	the tail	TAIL	1220		irgi	irgi 
+227	20-4-19-1	79271332973916607	Oroqen	oroq1238	the back	BACK	1291		ʃɔgdɔnɔ	ʃɔgdɔnɔ 
+228	20-4-191-1	79281128706315072	Oroqen	oroq1238	the spine	SPINE	805		darama	darama 
+229	20-4-2-1	79281137822672100	Oroqen	oroq1238	the head	HEAD	1256		dɪl	dɪl 
+230	20-4-201-1	79281139822007513	Oroqen	oroq1238	the temples	TEMPLES	1604		guliwukə	guliwukə 
+231	20-4-201-2	9252243506280001	Oroqen	oroq1238	the temples	TEMPLES	1604		maŋgɪla	maŋgɪla 
+232	20-4-202-1	79281154710844592	Oroqen	oroq1238	the skull	SKULL	1605		dɪlŋi gɪramnan	dɪlŋi gɪramnan 
+233	20-4-203-1	79281158927754848	Oroqen	oroq1238	the brain	BRAIN	1583		irgə	irgə 
+234	20-4-204-1	79281158225576687	Oroqen	oroq1238	the face	FACE	1560		dərə	dərə 
+235	20-4-205-1	7928121767162172	Oroqen	oroq1238	the forehead	FOREHEAD	123		ɔmkɔtɔ	ɔmkɔtɔ 
+236	20-4-207-1	79281221484369825	Oroqen	oroq1238	the jaw	JAW	798		dʒəg	dʒəg 
+237	20-4-207-2	925237914258301	Oroqen	oroq1238	the jaw	JAW	798		uɲə	uɲə 
+238	20-4-208-1	79281219184693773	Oroqen	oroq1238	the cheek	CHEEK	1730		antʃan	antʃan 
+239	20-4-209-1	79281221484369825	Oroqen	oroq1238	the chin	CHIN	1510		dʒəg	dʒəg 
+240	20-4-21-1	79281223853064475	Oroqen	oroq1238	the eye	EYE	1248		yɛ:ʃa	yɛ:ʃa 
+241	20-4-212-1	79281225812228000	Oroqen	oroq1238	the eyebrow	EYEBROW	1173		kilimki	kilimki 
+242	20-4-213-1	7930195746021779	Oroqen	oroq1238	the eyelid	EYELID	17		yɛ:ʃaŋi wun	yɛ:ʃaŋi wun 
+243	20-4-214-1	79281235975951653	Oroqen	oroq1238	the eyelash	EYELASH	1540		ʃaramʊkta	ʃaramʊkta 
+244	20-4-215-1	79281355170020371	Oroqen	oroq1238	to blink	BLINK	1655		balɪ-	balɪ- 
+245	20-4-22-1	79281359730579484	Oroqen	oroq1238	the ear	EAR	1247		ʃɛ:n	ʃɛ:n 
+246	20-4-222-1	7928147345600490	Oroqen	oroq1238	the earwax	EARWAX	32		ʊrʊmŋa	ʊrʊmŋa 
+247	20-4-23-1	7928147440013782	Oroqen	oroq1238	the nose	NOSE	1221		ɔŋɔktɔ	ɔŋɔktɔ 
+248	20-4-231-1	7930153871651033	Oroqen	oroq1238	the nostril	NOSTRIL	1178		ɔŋɔktɔŋi dɔ:n	ɔŋɔktɔŋi dɔ:n 
+249	20-4-232-1	793015421751223	Oroqen	oroq1238	the nasal mucus	NASAL MUCUS (SNOT)	208		ɪlɪkʃa	ɪlɪkʃa 
+250	20-4-24-1	7930154382192354	Oroqen	oroq1238	the mouth	MOUTH	674		amŋa	amŋa 
+251	20-4-25-1	7930156238939113	Oroqen	oroq1238	the lip	LIP	478		əmun	əmun 
+252	20-4-26-1	7930157529156502	Oroqen	oroq1238	the tongue	TONGUE	1205		iŋi	iŋi 
+253	20-4-27-1	79301510364301428	Oroqen	oroq1238	the tooth	TOOTH	1380		iktə	iktə 
+254	20-4-271-1	71011420379217613	Oroqen	oroq1238	the gums	GUMS	139		buyə	buyə 
+255	20-4-272-1	79301930905640107	Oroqen	oroq1238	the molar tooth	MOLAR TOOTH	1049		ʃɛ:muki	ʃɛ:muki 
+256	20-4-28-1	71011428288895014	Oroqen	oroq1238	the neck	NECK	1333		nɪkɪmna	nɪkɪmna 
+257	20-4-29-1	71011430529480000	Oroqen	oroq1238	the throat	THROAT	1346		ko:məkə	ko:məkə 
+258	20-4-3-1	71011431224484297	Oroqen	oroq1238	the shoulder	SHOULDER	1482		mi:rə	mi:rə 
+259	20-4-301-1	71011433333532062	Oroqen	oroq1238	the shoulderblade	SHOULDERBLADE	172		ɪʃakɪ	ɪʃakɪ 
+260	20-4-302-1	7102104146240210	Oroqen	oroq1238	the collarbone	COLLARBONE	1994		tu:rə	tu:rə 
+261	20-4-31-1	71021031692956311	Oroqen	oroq1238	the arm	ARM	1673		ŋa:la	ŋa:la 
+262	20-4-312-1	71021032699123645	Oroqen	oroq1238	the armpit	ARMPIT	1886		ɔ:nɪ	ɔ:nɪ 
+263	20-4-32-1	71021034567541604	Oroqen	oroq1238	the elbow	ELBOW	981		itʃɛn (1)	itʃɛn (1) 
+264	20-4-321-1	71021036168158598	Oroqen	oroq1238	the wrist	WRIST	799		bilə:n	bilə:n 
+265	20-4-33-1	71021031692956311	Oroqen	oroq1238	the hand	HAND	1277		ŋa:la	ŋa:la 
+266	20-4-331-1	71021037892048885	Oroqen	oroq1238	the palm of the hand	PALM OF HAND	1183		aŋŋa	aŋŋa 
+267	20-4-34-1	71021113849792824	Oroqen	oroq1238	the finger	FINGER	1303		uɲaka:n	uɲaka:n 
+268	20-4-34-2	71021943582605309	Oroqen	oroq1238	the finger	FINGER	1303		ʃarbakta	ʃarbakta 
+269	20-4-342-1	71021120937212509	Oroqen	oroq1238	the thumb	THUMB	1781		uru:n	uru:n 
+270	20-4-344-1	71021122904004906	Oroqen	oroq1238	the fingernail	FINGERNAIL	1258		ʊʃɪkta	ʊʃɪkta 
+271	20-4-345-1	71021943582605309	Oroqen	oroq1238	the claw	CLAW	72		ʃarbakta	ʃarbakta 
+272	20-4-35-1	71021945296760905	Oroqen	oroq1238	the leg	LEG	1297		algan	algan 
+273	20-4-351-1	71021946731944259	Oroqen	oroq1238	the thigh	THIGH	800		bɔ:kan	bɔ:kan 
+274	20-4-352-1	71021950659228702	Oroqen	oroq1238	the calf of the leg	CALF OF LEG	498		bʊltʃakta	bʊltʃakta 
+275	20-4-36-1	71021951143284990	Oroqen	oroq1238	the knee	KNEE	1371		əŋŋən	əŋŋən 
+276	20-4-37-1	71021945296760905	Oroqen	oroq1238	the foot	FOOT	1301		algan	algan 
+277	20-4-371-1	71022025720421769	Oroqen	oroq1238	the ankle	ANKLE	803		ayu:kan	ayu:kan 
+278	20-4-372-1	71022027444517358	Oroqen	oroq1238	the heel	HEEL	980		ɲiŋtə	ɲiŋtə 
+279	20-4-374-1	71022028459687106	Oroqen	oroq1238	the footprint	FOOTPRINT	318		wudʒa:	wudʒa: 
+280	20-4-38-1	71021943582605309	Oroqen	oroq1238	the toe	TOE	1389		ʃarbakta	ʃarbakta 
+281	20-4-392-1	71022037905727627	Oroqen	oroq1238	the wing	WING	1257		dəktilə	dəktilə 
+282	20-4-392-2	9252313247014758	Oroqen	oroq1238	the wing	WING	1257		dəktələ	dəktələ 
+283	20-4-392-3	9252317104228059	Oroqen	oroq1238	the wing	WING	1257		aʃakɪ:	aʃakɪ: 
+284	20-4-393-1	71022044509749497	Oroqen	oroq1238	the feather	FEATHER	1201		ʃuptʃu	ʃuptʃu 
+285	20-4-4-1	7102204674255387	Oroqen	oroq1238	the chest	CHEST	1592		kə:ŋtirə	kə:ŋtirə 
+286	20-4-41-1	71022048335878575	Oroqen	oroq1238	the breast	BREAST	1402		ukun	ukun 
+287	20-4-412-1	71022059836561944	Oroqen	oroq1238	the nipple or teat	NIPPLE	796		lʊpkʊptɪn	lʊpkʊptɪn 
+288	20-4-42-1	71022048335878575	Oroqen	oroq1238	the udder	UDDER	154		ukun	ukun 
+289	20-4-43-1	7102212328740309	Oroqen	oroq1238	the navel	NAVEL	1838		tʃʊŋŋʊrʊ	tʃʊŋŋʊrʊ 
+290	20-4-44-1	7102217899258027	Oroqen	oroq1238	the heart	HEART	1223		mɛɣan	mɛɣan 
+291	20-4-441-1	7102218516349832	Oroqen	oroq1238	the lung	LUNG	688		o:tə	o:tə 
+292	20-4-45-1	7102219763104370	Oroqen	oroq1238	the liver	LIVER	1224		a:kin	a:kin 
+293	20-4-451-1	7102219650611322	Oroqen	oroq1238	the kidney	KIDNEY	489		bɔʃɔktɔ	bɔʃɔktɔ 
+294	20-4-452-1	71022110937084786	Oroqen	oroq1238	the spleen	SPLEEN	1744		dərkin	dərkin 
+295	20-4-46-1	71022112611870806	Oroqen	oroq1238	the stomach	STOMACH	819		gʊdɪ	gʊdɪ 
+296	20-4-461-1	71022113791733216	Oroqen	oroq1238	the intestines or guts	INTESTINES	1991		ʃɪlʊkta	ʃɪlʊkta 
+297	20-4-462-1	79271332973916607	Oroqen	oroq1238	the waist	WAIST	1681		ʃɔgdɔnɔ	ʃɔgdɔnɔ 
+298	20-4-463-1	71031155577428613	Oroqen	oroq1238	the hip	HIP	1745		du:ki	du:ki 
+299	20-4-464-1	7103122631201465	Oroqen	oroq1238	the buttocks	BUTTOCKS	834		bukʃu	bukʃu 
+300	20-4-47-1	7103121666158416	Oroqen	oroq1238	the womb	WOMB	804		uyuk	uyuk 
+301	20-4-49-1	71031217133032332	Oroqen	oroq1238	the testicles	TESTICLES	797		tʃəŋgə	tʃəŋgə 
+302	20-4-492-1	7103121871941765	Oroqen	oroq1238	the penis	PENIS	1222		tʃikəltə	tʃikəltə 
+303	20-4-51-1	7103121889804383	Oroqen	oroq1238	to breathe	BREATHE	1407		əri:-	əri:- 
+304	20-4-52-1	71031220944961357	Oroqen	oroq1238	to yawn	YAWN	1028		dʒɔni-	dʒɔni- 
+305	20-4-521-1	71031222235081337	Oroqen	oroq1238	to hiccough	HICCOUGH	162		ikəgdə-	ikəgdə- 
+306	20-4-53-1	71031224721270662	Oroqen	oroq1238	to cough	COUGH	879		ʃimki-	ʃimki- 
+307	20-4-54-1	71031225143661277	Oroqen	oroq1238	to sneeze	SNEEZE	1621		ikʃini-	ikʃini- 
+308	20-4-55-1	7103135212680881	Oroqen	oroq1238	to perspire	SWEAT (PERSPIRE)	126		ɲɛ:ʃin-	ɲɛ:ʃin- 
+309	20-4-56-1	7103136508167912	Oroqen	oroq1238	to spit	SPIT	1440		tʊmʊn-	tʊmʊn- 
+310	20-4-57-1	7103137549464148	Oroqen	oroq1238	to vomit	VOMIT	1278		iʃə-	iʃə- 
+311	20-4-58-1	71031316766778211	Oroqen	oroq1238	to bite	BITE	1403		kɪk-	kɪk- 
+312	20-4-59-1	71031316414981266	Oroqen	oroq1238	to lick	LICK	319		ilədə:-	ilədə:- 
+313	20-4-591-1	71031317341970388	Oroqen	oroq1238	to dribble	DRIBBLE	268		tʃʊrgɪ-	tʃʊrgɪ- 
+314	20-4-61-1	71031319168507869	Oroqen	oroq1238	to sleep	SLEEP	1585		a:ʃɪn-	a:ʃɪn- 
+315	20-4-612-1	7103208164324772	Oroqen	oroq1238	to snore	SNORE	1983		lʊkɪ-	lʊkɪ- 
+316	20-4-62-1	71032010231150885	Oroqen	oroq1238	to dream	DREAM (SOMETHING)	1920		tʊlgɪt-	tʊlgɪt- 
+317	20-4-63-1	71032012157292634	Oroqen	oroq1238	to wake up	WAKE UP	1602		ʃərə-	ʃərə- 
+318	20-4-64-1	71032013286846333	Oroqen	oroq1238	to fart	FART	1159		mukəli-	mukəli- 
+319	20-4-65-1	71032014484678956	Oroqen	oroq1238	to piss	PISS	592		tʃikən-	tʃikən- 
+320	20-4-66-1	7103201537368228	Oroqen	oroq1238	to shit	SHIT (DEFECATE)	676		amʊn-	amʊn- 
+321	20-4-68-1	71041046750332008	Oroqen	oroq1238	to shiver	SHIVER	52		ʃilgin-	ʃilgin- 
+322	20-4-69-1	71041121952626668	Oroqen	oroq1238	to bathe	BATHE	138		olbot-	olbot- 
+323	20-4-69-2	9252322866691587	Oroqen	oroq1238	to bathe	BATHE	138		ulbuʃt-	ulbuʃt- 
+324	20-4-69-3	925232584081247	Oroqen	oroq1238	to bathe	BATHE	138		əlbət-	əlbət- 
+325	20-4-72-1	71015952567174597	Oroqen	oroq1238	to be born	BE BORN	1090		baka-	baka- 
+326	20-4-73-1	71041512804786363	Oroqen	oroq1238	pregnant	PREGNANT	1123		dʒʊptɪ ɔ:tʃa	dʒʊptɪ ɔ:tʃa 
+327	20-4-74-1	71041515289276003	Oroqen	oroq1238	to be alive	BE ALIVE	1422		i:nikin	i:nikin 
+328	20-4-75-1	71041520756346130	Oroqen	oroq1238	to die	DIE	1494		bu-	bu- 
+329	20-4-751-1	71041520113921638	Oroqen	oroq1238	to drown	DROWN	1904		əyə-	əyə- 
+330	20-4-76-1	71041521794423905	Oroqen	oroq1238	to kill	KILL	1417		wa:-	wa:- 
+331	20-4-78-1	71041522828050957	Oroqen	oroq1238	to bury	BURY	1719		bʊla-	bʊla- 
+332	20-4-79-1	7104165676020041	Oroqen	oroq1238	the grave	GRAVE	1773		bakʃa	bakʃa 
+333	20-4-81-1	71041611389403470	Oroqen	oroq1238	strong	STRONG	785		buku	buku 
+334	20-4-82-1	71041613668621135	Oroqen	oroq1238	weak	WEAK	1601		əbərə	əbərə 
+335	20-4-84-1	71041645399869467	Oroqen	oroq1238	sick/ill	SICK	1847		ənuku	ənuku 
+336	20-4-841-1	71041648288832183	Oroqen	oroq1238	the fever	FEVER	1534		ɲiwurə	ɲiwurə 
+337	20-4-85-1	71041653240903964	Oroqen	oroq1238	the wound or sore	WOUND	1109		uyə	uyə 
+338	20-4-852-1	71041654466943484	Oroqen	oroq1238	the bruise	BRUISE	1148		kukurə	kukurə 
+339	20-4-853-1	7104165590698945	Oroqen	oroq1238	the swelling	SWELLING	1903		awul	awul 
+340	20-4-854-1	7104179136147250	Oroqen	oroq1238	the itch	ITCH	148		ʊtʊn	ʊtʊn 
+341	20-4-855-1	71041710880313690	Oroqen	oroq1238	the blister	BLISTER	1584		tʃənburdə	tʃənburdə 
+342	20-4-856-1	71041711707248512	Oroqen	oroq1238	the boil	BOIL (OF SKIN)	793		ukʃin	ukʃin 
+343	20-4-857-1	71041712546288692	Oroqen	oroq1238	the pus	PUS	1808		ɲakʃa	ɲakʃa 
+344	20-4-86-1	71051241234947636	Oroqen	oroq1238	to cure	CURE	499		ʊra- (2)	ʊra- (2) 
+345	20-4-87-1	71051243632440530	Oroqen	oroq1238	the physician	PHYSICIAN	597		itʃɛn (2)	itʃɛn (2) 
+346	20-4-87-2	9252334796319908	Oroqen	oroq1238	the physician	PHYSICIAN	597		daiɸu	daiɸu 
+347	20-4-88-1	71051246622808162	Oroqen	oroq1238	the medicine	MEDICINE	1372		ə:m	ə:m 
+348	20-4-88-2	9252345556114624	Oroqen	oroq1238	the medicine	MEDICINE	1372		ɔgtɔ	ɔgtɔ 
+349	20-4-89-1	71051340598072172	Oroqen	oroq1238	the poison	POISON	655		guntʃulu	guntʃulu 
+350	20-4-91-1	71051343738902881	Oroqen	oroq1238	tired	TIRED	1757		tʃaŋgal-	tʃaŋgal- 
+351	20-4-912-1	7105134885147004	Oroqen	oroq1238	to rest	REST	168		dərəmki-	dərəmki- 
+352	20-4-92-1	71051349946277716	Oroqen	oroq1238	lazy	LAZY	1564		ənəlgə	ənəlgə 
+353	20-4-92-2	926855171703760	Oroqen	oroq1238	lazy	LAZY	1564		dʒʊta/dʒʊtana	dʒʊta 
+354	20-4-92-3	926855171703760	Oroqen	oroq1238	lazy	LAZY	1564		dʒʊta/dʒʊtana	dʒʊtana 
+355	20-4-93-1	7105135175470459	Oroqen	oroq1238	bald	BALD	1125		taraka	taraka 
+356	20-4-94-1	71051433334920608	Oroqen	oroq1238	lame	LAME	320		dɔkɔlɔn	dɔkɔlɔn 
+357	20-4-95-1	7105150381500285	Oroqen	oroq1238	deaf	DEAF	996		kɔŋgɔ	kɔŋgɔ 
+358	20-4-96-1	7105151583967292	Oroqen	oroq1238	mute	MUTE	1666		ya:ba	ya:ba 
+359	20-4-96-2	926912696021442	Oroqen	oroq1238	mute	MUTE	1666		kəlgə	kəlgə 
+360	20-4-97-1	7105154692178531	Oroqen	oroq1238	blind	BLIND	1653		balɪ	balɪ 
+361	20-4-98-1	7105156230211456	Oroqen	oroq1238	drunk	DRUNK	1463		ʃɔktɔ-	ʃɔktɔ- 
+362	20-4-99-1	7105152880782054	Oroqen	oroq1238	naked	NAKED	590		dʒulakɪn	dʒulakɪn 
+363	20-5-11-1	71051534491947649	Oroqen	oroq1238	to eat	EAT	1336		dʒəb-	dʒəb- 
+364	20-5-12-1	71051536287884642	Oroqen	oroq1238	the food	FOOD	256		dʒə:ktə	dʒə:ktə 
+365	20-5-12-2	926916649773788	Oroqen	oroq1238	the food	FOOD	256		bɪlga	bɪlga 
+366	20-5-121-1	71051550182462412	Oroqen	oroq1238	cooked	COOKED	269		irtʃə	irtʃə 
+367	20-5-122-1	71051548379529219	Oroqen	oroq1238	raw	RAW	1959		əʃikin	əʃikin 
+368	20-5-123-1	71051550182462412	Oroqen	oroq1238	ripe	RIPE	178		irtʃə	irtʃə 
+369	20-5-124-1	71051548379529219	Oroqen	oroq1238	unripe	UNRIPE	1958		əʃikin	əʃikin 
+370	20-5-125-1	71051557329451461	Oroqen	oroq1238	rotten	ROTTEN	1728		nukuntʃa	nukuntʃa 
+371	20-5-13-1	71051559217895533	Oroqen	oroq1238	to drink	DRINK	1401		um-	um- 
+372	20-5-14-1	7105160342471969	Oroqen	oroq1238	to be hungry	BE HUNGRY	1533		əwə:rə-	əwə:rə- 
+373	20-5-15-1	7105162182370619	Oroqen	oroq1238	to be thirsty	THIRSTY	847		aŋka-	aŋka- 
+374	20-5-16-1	7105162247499905	Oroqen	oroq1238	to suck	SUCK	1421		lʊpkʊ-	lʊpkʊ- 
+375	20-5-18-1	7105163723691241	Oroqen	oroq1238	to chew	CHEW	321		ʃɛ:-	ʃɛ:- 
+376	20-5-181-1	71061818127985786	Oroqen	oroq1238	to swallow	SWALLOW	897		nimŋə-	nimŋə- 
+377	20-5-19-1	7106181944546808	Oroqen	oroq1238	to choke	CHOKE	129		ikulgə-	ikulgə- 
+378	20-5-21-1	71061827991395145	Oroqen	oroq1238	to cook	COOK (SOMETHING)	1100		ulo:-	ulo:- 
+379	20-5-22-1	7106182833978166	Oroqen	oroq1238	to boil	BOIL (OF LIQUID)	792		uyi-	uyi- 
+380	20-5-23-1	71061830572405873	Oroqen	oroq1238	to roast or fry	ROAST OR FRY	2146		ʃɪla-	ʃɪla- 
+381	20-5-24-1	71061831648798531	Oroqen	oroq1238	to bake	BAKE	183		ka:-	ka:- 
+382	20-5-26-1	71061836336503057	Oroqen	oroq1238	the pot	POT	1462		i:kə	i:kə 
+383	20-5-27-1	71061841647755807	Oroqen	oroq1238	the kettle	KETTLE	854		tʃaku	tʃaku 
+384	20-5-28-1	71061836336503057	Oroqen	oroq1238	the pan	PAN	31		i:kə	i:kə 
+385	20-5-32-1	71061946253093917	Oroqen	oroq1238	the plate	PLATE	480		ɪla	ɪla 
+386	20-5-32-2	92692185058523	Oroqen	oroq1238	the plate	PLATE	480		pan	pan 
+387	20-5-33-1	71061913369113325	Oroqen	oroq1238	the bowl	BOWL	1530		tangʊra	tangʊra 
+388	20-5-33-2	926928659152522	Oroqen	oroq1238	the bowl	BOWL	1530		tʃadʒʊŋkʊ	tʃadʒʊŋkʊ 
+389	20-5-35-1	71061916627369921	Oroqen	oroq1238	the cup	CUP	476		takan	takan 
+390	20-5-35-2	926935746458215	Oroqen	oroq1238	the cup	CUP	476		tʃɔmɔ	tʃɔmɔ 
+391	20-5-37-1	71061922501633995	Oroqen	oroq1238	the spoon	SPOON	1378		ʊ:ŋkan	ʊ:ŋkan 
+392	20-5-38-1	71061926557851450	Oroqen	oroq1238	the knife(1)	KNIFE (FOR EATING)	3210		kɔtɔ	kɔtɔ 
+393	20-5-39-1	71061934643666356	Oroqen	oroq1238	the fork	FORK	1302		gɪda ʊ:ŋkan	gɪda ʊ:ŋkan 
+394	20-5-42-1	71061942199465033	Oroqen	oroq1238	the breakfast	BREAKFAST	1322		tɪmaŋi bɪlga	tɪmaŋi bɪlga 
+395	20-5-43-1	71061943640026309	Oroqen	oroq1238	the lunch	LUNCH	768		inəŋdulin bɪlga	inəŋdulin bɪlga 
+396	20-5-45-1	71061948379609709	Oroqen	oroq1238	the supper	DINNER (SUPPER)	1833		ʃikʃəŋi bɪlga	ʃikʃəŋi bɪlga 
+397	20-5-46-1	7107745555528621	Oroqen	oroq1238	to peel	PEEL	275		ilə-	ilə- 
+398	20-5-47-1	7107750969141074	Oroqen	oroq1238	to sieve or to strain	SIEVE	86		ʃəylə-	ʃəylə- 
+399	20-5-47-2	926941366451408	Oroqen	oroq1238	to sieve or to strain	SIEVE	86		dʒɔwula-	dʒɔwula- 
+400	20-5-48-1	7107811712239460	Oroqen	oroq1238	to scrape	SCRAPE	1767		kaŋna-	kaŋna- 
+401	20-5-49-1	7107812654725912	Oroqen	oroq1238	to stir or to mix	MIX	2017		ʊrkʊ-	ʊrkʊ- 
+402	20-5-53-1	7107819681212744	Oroqen	oroq1238	the dough	DOUGH	273		o:n	o:n 
+403	20-5-54-1	7107820864622395	Oroqen	oroq1238	to knead	KNEAD	274		ɲuk-	ɲuk- 
+404	20-5-55-1	710782268788643	Oroqen	oroq1238	the flour	FLOUR	1594		gulin	gulin 
+405	20-5-56-1	7107825231659132	Oroqen	oroq1238	to crush or to grind	GRIND	1033		uru:-	uru:- 
+406	20-5-56-2	926950995910976	Oroqen	oroq1238	to crush or to grind	GRIND	1033		iŋdə:-	iŋdə:- 
+407	20-5-57-1	7107828485593666	Oroqen	oroq1238	the mill	MILL	636		iŋdəŋki	iŋdəŋki 
+408	20-5-61-1	7927122169675787	Oroqen	oroq1238	the meat	MEAT	634		ulə	ulə 
+409	20-5-63-1	7107838997040970	Oroqen	oroq1238	the sausage	SAUSAGE	1874		buyukʃu	buyukʃu 
+410	20-5-64-1	7107839553390500	Oroqen	oroq1238	the soup	SOUP	1547		ʃilə	ʃilə 
+411	20-5-65-1	7107848734170454	Oroqen	oroq1238	the vegetables	VEGETABLES	924		nʊŋa:	nʊŋa: 
+412	20-5-65-2	926955841371382	Oroqen	oroq1238	the vegetables	VEGETABLES	924		ʃakan	ʃakan 
+413	20-5-66-1	7107850904604509	Oroqen	oroq1238	the bean	BEAN	832		bɔrtʃɔ	bɔrtʃɔ 
+414	20-5-7-1	7107851431922367	Oroqen	oroq1238	the potato	POTATO	593		tu:dəw	tu:dəw 
+415	20-5-7-2	926102271013264	Oroqen	oroq1238	the potato	POTATO	593		kɔtɔpkɔ	kɔtɔpkɔ 
+416	20-5-71-1	710790530003916	Oroqen	oroq1238	the fruit	FRUIT	1507		tubiɣə	tubiɣə 
+417	20-5-712-1	710794148762663	Oroqen	oroq1238	the bunch	BUNCH	1966		loŋbu:li	loŋbu:li 
+418	20-5-76-1	710796774201342	Oroqen	oroq1238	the grape	GRAPE	920		puto	puto 
+419	20-5-76-2	92610725866169	Oroqen	oroq1238	the grape	GRAPE	920		mətʃu:	mətʃu: 
+420	20-5-79-1	7107103040824426	Oroqen	oroq1238	the oil	OIL (ORGANIC SUBSTANCE)	1484		imukʃə	imukʃə 
+421	20-5-791-1	7107103040824426	Oroqen	oroq1238	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		imukʃə	imukʃə 
+422	20-5-81-1	71071037360118620	Oroqen	oroq1238	the salt	SALT	1274		katagan	katagan 
+423	20-5-81-2	926101864828182	Oroqen	oroq1238	the salt	SALT	1274		dɔ:sun	dɔ:sun 
+424	20-5-82-1	71071140611613777	Oroqen	oroq1238	the pepper	PEPPER	1385		hudʒau	hudʒau 
+425	20-5-821-1	71071146967691085	Oroqen	oroq1238	the chili pepper	CHILI PEPPER	919		tʃiŋdʒu	tʃiŋdʒu 
+426	20-5-85-1	71091226971095491	Oroqen	oroq1238	the sugar	SUGAR	862		ʃatan	ʃatan 
+427	20-5-86-1	71091235121058995	Oroqen	oroq1238	the milk	MILK	635		ukun	ukun 
+428	20-5-87-1	71091237918730194	Oroqen	oroq1238	to milk	DRAW MILK	93		ʃir-	ʃir- 
+429	20-5-92-1	71091259849582060	Oroqen	oroq1238	the wine	WINE	1524		arakɪ	arakɪ 
+430	20-5-97-1	710913033101901	Oroqen	oroq1238	the egg	EGG	744		ʊmʊkta	ʊmʊkta 
+431	20-5-971-1	7109132579509541	Oroqen	oroq1238	the yolk	YOLK	1556		ʊmʊktaŋi ʃɪŋarɪnɪn	ʊmʊktaŋi ʃɪŋarɪnɪn 
+432	20-6-11-1	71091328463843777	Oroqen	oroq1238	to put on	PUT ON	158		tət-	tət- 
+433	20-6-12-1	71091339863402510	Oroqen	oroq1238	the clothing or clothes	CLOTHES	1895		təti	təti 
+434	20-6-21-1	71091341712967786	Oroqen	oroq1238	the cloth	CLOTH	1616		bə:ʃu	bə:ʃu 
+435	20-6-22-1	71091357454955782	Oroqen	oroq1238	the wool	WOOL	964		kʊnɪŋi ɪɲaktan	kʊnɪŋi ɪɲaktan 
+436	20-6-24-1	7109149656504636	Oroqen	oroq1238	the cotton	COTTON	1850		kuwun	kuwun 
+437	20-6-28-1	71091420681600033	Oroqen	oroq1238	the fur	FUR	580		ɪŋakta	ɪŋakta 
+438	20-6-29-1	71091550182349503	Oroqen	oroq1238	the leather	LEATHER	629		tərgəkʃə	tərgəkʃə 
+439	20-6-31-1	71091619434897386	Oroqen	oroq1238	to spin	SPIN	121		ɔrɔl-	ɔrɔl- 
+440	20-6-32-1	71091630264865115	Oroqen	oroq1238	the spindle	SPINDLE	277		tʃərguŋki	tʃərguŋki 
+441	20-6-33-1	71091632597748442	Oroqen	oroq1238	to weave	WEAVE	133		nəkə-	nəkə- 
+442	20-6-35-1	71091634865734413	Oroqen	oroq1238	to sew	SEW	1457		uli:-	uli:- 
+443	20-6-36-1	7109163687668515	Oroqen	oroq1238	the needle(1)	NEEDLE (FOR SEWING)	1382		inmə	inmə 
+444	20-6-37-1	710917318223630	Oroqen	oroq1238	the awl	AWL	278		ʃɪlgʊn	ʃɪlgʊn 
+445	20-6-38-1	7109174398472119	Oroqen	oroq1238	the thread	THREAD	1161		ʃirəktə	ʃirəktə 
+446	20-6-39-1	71010826555160669	Oroqen	oroq1238	to dye	DYE	157		ɲu:dɛ-	ɲu:dɛ- 
+447	20-6-39-2	9261024409798440	Oroqen	oroq1238	to dye	DYE	157		butʃu-da-	butʃu-da- 
+448	20-7-37-1	71010177240801094	Oroqen	oroq1238	the ladder	LADDER	1464		tuktiwun	tuktiwun 
+449	20-6-42-1	71010830376449658	Oroqen	oroq1238	the (woman's) dress	DRESS	474		tʃamtʃa	tʃamtʃa 
+450	20-6-43-1	71010832241710309	Oroqen	oroq1238	the coat	COAT	603		ayawuptun	ayawuptun 
+451	20-6-43-2	9261030137571070	Oroqen	oroq1238	the coat	COAT	603		gulami	gulami 
+452	20-6-44-1	71010836309039330	Oroqen	oroq1238	the shirt	SHIRT	1622		dɔ:wuptun	dɔ:wuptun 
+453	20-6-45-1	71010848835886174	Oroqen	oroq1238	the collar	COLLAR	2012		dʒirkəptun	dʒirkəptun 
+454	20-6-46-1	7101084964035329	Oroqen	oroq1238	the skirt	SKIRT	1600		bula:dʒi	bula:dʒi 
+455	20-6-46-2	9261034907512331	Oroqen	oroq1238	the skirt	SKIRT	1600		dʒünʃi	dʒünʃi 
+456	20-6-48-1	7101090408139739	Oroqen	oroq1238	the trousers	TROUSERS	809		ərki	ərki 
+457	20-6-48-2	9261041572644828	Oroqen	oroq1238	the trousers	TROUSERS	809		aramuʃ	aramuʃ 
+458	20-6-49-1	7101093404617449	Oroqen	oroq1238	the sock or stocking	STOCKING	329		waʃa	waʃa 
+459	20-6-49-2	9262044878010147	Oroqen	oroq1238	the sock or stocking	STOCKING	329		tʃulki	tʃulki 
+460	20-6-49-3	9262054879154222	Oroqen	oroq1238	the sock or stocking	STOCKING	329		dɔktan	dɔktan 
+461	20-6-51-1	7101092366762921	Oroqen	oroq1238	the shoe	SHOE	1381		ʊnta	ʊnta 
+462	20-6-51-2	926212320206568	Oroqen	oroq1238	the shoe	SHOE	1381		ʃaβi	ʃaβi 
+463	20-6-51-3	926215548020148	Oroqen	oroq1238	the shoe	SHOE	1381		ʃawɪ	ʃawɪ 
+464	20-6-52-1	710101010745440395	Oroqen	oroq1238	the boot	BOOT	585		əmtʃurə	əmtʃurə 
+465	20-6-55-1	710101011252961860	Oroqen	oroq1238	the hat or cap	HEADGEAR	2130		a:wʊn	a:wʊn 
+466	20-6-55-2	9262110160272429	Oroqen	oroq1238	the hat or cap	HEADGEAR	2130		mɛtakan	mɛtakan 
+467	20-6-57-1	710101016804620629	Oroqen	oroq1238	the belt	BELT	772		tələ:	tələ: 
+468	20-6-57-2	9262115794833362	Oroqen	oroq1238	the belt	BELT	772		umu:l	umu:l 
+469	20-6-58-1	710101020530860034	Oroqen	oroq1238	the glove	GLOVE	867		pitʃarga	pitʃarga 
+470	20-6-61-1	710101021584242261	Oroqen	oroq1238	the pocket	POCKET	1851		karaman	karaman 
+471	20-6-62-1	710101025539021432	Oroqen	oroq1238	the button	BUTTON	757		tʊptʃɪ	tʊptʃɪ 
+472	20-6-63-1	710101026888678200	Oroqen	oroq1238	the pin	PIN	64		byɛdʒən	byɛdʒən 
+473	20-6-73-1	71010113423024554	Oroqen	oroq1238	the ring	RING	1374		uɲakaptʊn	uɲakaptʊn 
+474	20-6-73-2	9262120628615128	Oroqen	oroq1238	the ring	RING	1374		uruptʊn	uruptʊn 
+475	20-6-74-1	710101111658802713	Oroqen	oroq1238	the bracelet	BRACELET	1754		gilə:ptun	gilə:ptun 
+476	20-6-75-1	710101134971675822	Oroqen	oroq1238	the necklace	NECKLACE	1961		udi:n	udi:n 
+477	20-6-76-1	710101135570270725	Oroqen	oroq1238	the bead	BEAD	1860		tʃɪktɪ	tʃɪktɪ 
+478	20-6-77-1	710101137205645008	Oroqen	oroq1238	the earring	EARRING	770		ʃɛ:kan	ʃɛ:kan 
+479	20-6-77-2	9262129480922802	Oroqen	oroq1238	the earring	EARRING	770		ʃɛ:-ka-ptʊn	ʃɛ:-ka-ptʊn 
+480	20-6-77-3	9262135619684342	Oroqen	oroq1238	the earring	EARRING	770		garga	garga 
+481	20-6-78-1	710101147548136477	Oroqen	oroq1238	the headband or headdress	HEADBAND	330		dərbəki	dərbəki 
+482	20-6-82-1	710101151380686324	Oroqen	oroq1238	the towel	TOWEL	1021		palatʃɛntʃa	palatʃɛntʃa 
+483	20-6-82-2	926213751397613	Oroqen	oroq1238	the towel	TOWEL	1021		uŋku	uŋku 
+484	20-6-91-1	710101154322851106	Oroqen	oroq1238	the comb	COMB	1475		ɪgdɪwʊn	ɪgdɪwʊn 
+485	20-6-92-1	710101157175497226	Oroqen	oroq1238	the brush	BRUSH	1821		ikiŋki	ikiŋki 
+486	20-6-921-1	71010129225929978	Oroqen	oroq1238	the plait/braid	BRAID	1043		ɪltʃaptʊn	ɪltʃaptʊn 
+487	20-6-93-1	71010121153217626	Oroqen	oroq1238	the razor	RAZOR	151		kaŋnaŋki	kaŋnaŋki 
+488	20-6-95-1	710101214523776355	Oroqen	oroq1238	the soap	SOAP	788		ʃilkiŋki	ʃilkiŋki 
+489	20-6-95-2	9262147520988861	Oroqen	oroq1238	the soap	SOAP	788		iʃə	iʃə 
+490	20-6-96-1	710101225436905976	Oroqen	oroq1238	the mirror	MIRROR	1171		biləku	biləku 
+491	20-7-11-1	710101353687611375	Oroqen	oroq1238	to live	DWELL (LIVE, RESIDE)	363		ulintʃə-	ulintʃə- 
+492	20-7-12-1	710101356676686239	Oroqen	oroq1238	the house	HOUSE	1252		dʒu:	dʒu: 
+493	20-7-13-1	710101359159254918	Oroqen	oroq1238	the hut	HUT	1678		kumi	kumi 
+494	20-7-14-1	71010142310245334	Oroqen	oroq1238	the tent	TENT	1316		maykan	maykan 
+495	20-7-15-1	710101414650806687	Oroqen	oroq1238	the yard or court	YARD	736		turgidɛ	turgidɛ 
+496	20-7-17-1	71010141549837315	Oroqen	oroq1238	the cookhouse	COOKHOUSE	334		o:loŋki	o:loŋki 
+497	20-7-18-1	710101417961325828	Oroqen	oroq1238	the meeting house	MEETING HOUSE	335		dahwitaŋ	dahwitaŋ 
+498	20-7-21-1	710101436913438391	Oroqen	oroq1238	the room	ROOM	1450		dʒu:	dʒu: 
+499	20-7-22-1	710101449210107482	Oroqen	oroq1238	the door or gate	DOOR	1567		urkə	urkə 
+500	20-7-23-1	710101451880966418	Oroqen	oroq1238	the lock	LOCK	1596		yakʃiŋki	yakʃiŋki 
+501	20-7-23-2	926225922803576	Oroqen	oroq1238	the lock	LOCK	1596		yɔʃku	yɔʃku 
+502	20-7-23-3	926226829604109	Oroqen	oroq1238	the lock	LOCK	1596		gʊldʒi-ŋki	gʊldʒi-ŋki 
+503	20-7-231-1	710101452993630120	Oroqen	oroq1238	the latch or door-bolt	LATCH	1012		gʊldʒiŋki	gʊldʒiŋki 
+504	20-7-24-1	710101522579622889	Oroqen	oroq1238	the key	KEY	1472		anakʊ	anakʊ 
+505	20-7-24-2	9262217211584561	Oroqen	oroq1238	the key	KEY	1472		yakʃirgaŋki	yakʃirgaŋki 
+506	20-7-24-3	9262234432575264	Oroqen	oroq1238	the key	KEY	1472		yɔ:ʃi	yɔ:ʃi 
+507	20-7-25-1	710101524431554198	Oroqen	oroq1238	the window	WINDOW	1375		tʃɔŋkɔ	tʃɔŋkɔ 
+508	20-7-27-1	710101640938389219	Oroqen	oroq1238	the wall	WALL (OF HOUSE)	933		duʃu	duʃu 
+509	20-7-32-1	710101647315553004	Oroqen	oroq1238	the stove	STOVE	859		bɪrda	bɪrda 
+510	20-7-42-1	710101713968793077	Oroqen	oroq1238	the bed	BED	1663		ɔrɔ	ɔrɔ 
+511	20-7-42-2	9262238739728774	Oroqen	oroq1238	the bed	BED	1663		ʃi:rə	ʃi:rə 
+512	20-7-421-1	710101720737516260	Oroqen	oroq1238	the pillow	PILLOW	1044		tiru	tiru 
+513	20-7-421-2	9262241838114192	Oroqen	oroq1238	the pillow	PILLOW	1044		dərbu	dərbu 
+514	20-7-422-1	710101733705843739	Oroqen	oroq1238	the blanket	BLANKET	806		ʊla	ʊla 
+515	20-7-43-1	710101736569936107	Oroqen	oroq1238	the chair	CHAIR	1476		tə:ŋki	tə:ŋki 
+516	20-7-44-1	710101737449248261	Oroqen	oroq1238	the table	TABLE	1775		ʃirə	ʃirə 
+517	20-7-44-2	9262247989400968	Oroqen	oroq1238	the table	TABLE	1775		ɔʃtɔl	ɔʃtɔl 
+518	20-7-45-1	710101746746554391	Oroqen	oroq1238	the lamp or torch	TORCH OR LAMP	2131		dəŋdʒən	dəŋdʒən 
+519	20-7-46-1	71010187398934070	Oroqen	oroq1238	the candle	CANDLE	1273		yaŋla	yaŋla 
+520	20-7-48-1	710101822958324777	Oroqen	oroq1238	the trough	TROUGH	205		mɔŋgɔrɔ	mɔŋgɔrɔ 
+521	20-7-51-1	710101823976182446	Oroqen	oroq1238	the roof	ROOF	769		dʒu:muyəŋi ɔrɔnin	dʒu:muyəŋi ɔrɔnin 
+522	20-7-54-1	710101917505200430	Oroqen	oroq1238	the rafter	RAFTER	829		ʃiran	ʃiran 
+523	20-7-55-1	710101919369678087	Oroqen	oroq1238	the beam	BEAM	1132		nɪrʊ	nɪrʊ 
+524	20-7-56-1	710101921441229934	Oroqen	oroq1238	the post or pole	POST	281		lata	lata 
+525	20-7-57-1	710101926252233657	Oroqen	oroq1238	the board	BOARD	1227		kaptaʃʊn	kaptaʃʊn 
+526	20-7-62-1	710101951124444091	Oroqen	oroq1238	the brick	BRICK	1006		əydʒə	əydʒə 
+527	20-8-11-1	71010200520837986	Oroqen	oroq1238	the farmer	FARMER	979		targantʃɛn	targantʃɛn 
+528	20-8-12-1	71010205845398925	Oroqen	oroq1238	the field	FIELD	212		targan	targan 
+529	20-8-16-1	71010207235833239	Oroqen	oroq1238	the fence	FENCE	1690		kʊrgan	kʊrgan 
+530	20-8-22-1	71010201864869473	Oroqen	oroq1238	to dig	DIG	1418		ulə:-	ulə:- 
+531	20-8-23-1	710102020845845254	Oroqen	oroq1238	the spade	SPADE	1176		kʊrdʊr	kʊrdʊr 
+532	20-8-24-1	710102020845845254	Oroqen	oroq1238	the shovel	SHOVEL	1901		kʊrdʊr	kʊrdʊr 
+533	20-8-25-1	710102023188289145	Oroqen	oroq1238	the hoe	HOE	284		tʃuto	tʃuto 
+534	20-8-25-2	9262254582196216	Oroqen	oroq1238	the hoe	HOE	284		tʃaptʃɪkʊ	tʃaptʃɪkʊ 
+535	20-8-26-1	710102031865793578	Oroqen	oroq1238	the fork(2)/pitchfork	PITCHFORK	337		atʃa	atʃa 
+536	20-8-26-2	9262258518489980	Oroqen	oroq1238	the fork(2)/pitchfork	PITCHFORK	337		a:lan	a:lan 
+537	20-8-27-1	710102044277901359	Oroqen	oroq1238	the rake	RAKE	338		maltaŋki	maltaŋki 
+538	20-8-31-1	710102046878629208	Oroqen	oroq1238	to sow	SOW SEEDS	748		tar-	tar- 
+539	20-8-311-1	710102047285156843	Oroqen	oroq1238	the seed	SEED	714		urə (2)	urə (2) 
+540	20-8-32-1	710102049519322206	Oroqen	oroq1238	to mow	MOW	190		kak-	kak- 
+541	20-8-33-1	710102050470466618	Oroqen	oroq1238	the sickle or scythe	SICKLE OR SCYTHE	2132		kadɪwʊn	kadɪwʊn 
+542	20-8-33-2	926233816625811	Oroqen	oroq1238	the sickle or scythe	SICKLE OR SCYTHE	2132		kad-ur	kad-ur 
+543	20-8-33-3	926236539604615	Oroqen	oroq1238	the sickle or scythe	SICKLE OR SCYTHE	2132		ʃand-ʊr	ʃand-ʊr 
+544	20-8-34-1	710102124985754661	Oroqen	oroq1238	to thresh	THRESH	285		datʃaŋn-	datʃaŋn- 
+545	20-8-35-1	710102137458574136	Oroqen	oroq1238	the threshing-floor	THRESHING-FLOOR	223		tʃaŋyuan	tʃaŋyuan 
+546	20-8-43-1	71011104258710822	Oroqen	oroq1238	the wheat	WHEAT	1077		məyʃə	məyʃə 
+547	20-8-47-1	710111058573310292	Oroqen	oroq1238	the maize/corn	MAIZE	506		ʃʊʃa:mʊ	ʃʊʃa:mʊ 
+548	20-8-48-1	71011112142566798	Oroqen	oroq1238	the rice	RICE	926		kandu	kandu 
+549	20-8-51-1	710111139106130378	Oroqen	oroq1238	the grass	GRASS	606		ɔrɔktɔ	ɔrɔktɔ 
+550	20-8-52-1	710111138380135296	Oroqen	oroq1238	the hay	HAY	342		kɛ:ŋna	kɛ:ŋna 
+551	20-8-531-1	710102046878629208	Oroqen	oroq1238	to plant	PLANT (SOMETHING)	1486		tar-	tar- 
+552	20-8-54-1	710111155593776728	Oroqen	oroq1238	the root	ROOT	670		təkən	təkən 
+553	20-8-55-1	710111156922629934	Oroqen	oroq1238	the branch	BRANCH OR TWIG	3223		gara	gara 
+554	20-8-56-1	710111158790250280	Oroqen	oroq1238	the leaf	LEAF	628		abdana	abdana 
+555	20-8-56-2	9262318401248456	Oroqen	oroq1238	the leaf	LEAF	628		nabʊtʃɪ/naptʃɪ	nabʊtʃɪ 
+556	20-8-56-3	9262318401248456	Oroqen	oroq1238	the leaf	LEAF	628		nabʊtʃɪ/naptʃɪ	naptʃɪ 
+557	20-8-57-1	710111215886372405	Oroqen	oroq1238	the flower	FLOWER	239		ɪlga	ɪlga 
+558	20-8-57-2	9262341508267552	Oroqen	oroq1238	the flower	FLOWER	239		ɲandʒa	ɲandʒa 
+559	20-8-6-1	710111218857883433	Oroqen	oroq1238	the tree	TREE	906		mɔ:	mɔ: 
+560	20-8-61-1	710111218367336610	Oroqen	oroq1238	the oak	OAK	644		tɪbgʊra	tɪbgʊra 
+561	20-8-63-1	710111222772179606	Oroqen	oroq1238	the birch	BIRCH	1855		tʃa:lban	tʃa:lban 
+562	20-8-64-1	710111224369645584	Oroqen	oroq1238	the pine	PINE	1740		dʒagda	dʒagda 
+563	20-8-66-1	710111240303813073	Oroqen	oroq1238	the acorn	ACORN	968		ʊʃɪkta	ʊʃɪkta 
+564	20-8-68-1	710111242831429238	Oroqen	oroq1238	the tobacco	TOBACCO	974		damga	damga 
+565	20-8-69-1	71051559217895533	Oroqen	oroq1238	to smoke	SMOKE (INHALE)	1689		um-	um- 
+566	20-8-691-1	710111246458655261	Oroqen	oroq1238	the pipe	PIPE	1124		dayri	dayri 
+567	20-8-72-1	710111248166198655	Oroqen	oroq1238	the tree stump	TREE STUMP	241		mugdəkən	mugdəkən 
+568	20-8-73-1	710111250719288361	Oroqen	oroq1238	the tree trunk	TREE TRUNK	344		gɔlɔ	gɔlɔ 
+569	20-8-74-1	710111156922629934	Oroqen	oroq1238	the forked branch	FORKED BRANCH	409		gara	gara 
+570	20-8-75-1	710111252293782185	Oroqen	oroq1238	the bark	BARK	1204		kə:rə	kə:rə 
+571	20-8-75-2	9262335555262191	Oroqen	oroq1238	the bark	BARK	1204		talu	talu 
+572	20-8-76-1	710111257355951051	Oroqen	oroq1238	the sap	SAP	345		ʃukʃə	ʃukʃə 
+573	20-8-76-2	9262345930477467	Oroqen	oroq1238	the sap	SAP	345		dɪlkʊkʃa	dɪlkʊkʃa 
+574	20-8-931-1	710111358464610894	Oroqen	oroq1238	the pumpkin or squash	PUMPKIN	864		wɔgwɔ	wɔgwɔ 
+575	20-8-94-1	71011144855671711	Oroqen	oroq1238	the bamboo	BAMBOO	1927		ʃuʃə	ʃuʃə 
+576	20-8-98-1	71011147124941732	Oroqen	oroq1238	the mushroom	MUSHROOM	641		mo:go	mo:go 
+577	20-9-11-1	710111411287215924	Oroqen	oroq1238	to do	DO	813		ɔ:-	ɔ:- 
+578	20-9-12-1	710111413904561937	Oroqen	oroq1238	the work	WORK (LABOUR)	984		gərbə	gərbə 
+579	20-9-14-1	710111414898339896	Oroqen	oroq1238	to bend	BEND	2004		mʊktʃili-	mʊktʃili- 
+580	20-9-15-1	710111415730534926	Oroqen	oroq1238	to fold	FOLD	1470		əbgə-	əbgə- 
+581	20-9-16-1	710111417517388207	Oroqen	oroq1238	to tie	TIE	1917		u:yi-	u:yi- 
+582	20-9-16-2	9262351681280684	Oroqen	oroq1238	to tie	TIE	1917		ərkə-	ərkə- 
+583	20-9-161-1	710111419469900894	Oroqen	oroq1238	to untie	UNTIE	352		uyirgə-	uyirgə- 
+584	20-9-18-1	710111422696575336	Oroqen	oroq1238	the chain	CHAIN	1627		kuyirgin	kuyirgin 
+585	20-9-19-1	710111424970155038	Oroqen	oroq1238	the rope	ROPE	1218		uʃikən	uʃikən 
+586	20-9-19-2	9262358162501579	Oroqen	oroq1238	the rope	ROPE	1218		ʊrkʊn	ʊrkʊn 
+587	20-9-192-1	710111656352513862	Oroqen	oroq1238	the knot	KNOT	760		i:nir	i:nir 
+588	20-9-192-2	92702489668225	Oroqen	oroq1238	the knot	KNOT	760		tɔŋɔl	tɔŋɔl 
+589	20-9-21-1	710111659944358380	Oroqen	oroq1238	to strike or hit or beat	STRIKE OR BEAT	2133		mʊnda:-	mʊnda:- 
+590	20-9-211-1	71011171185816048	Oroqen	oroq1238	to pound	POUND	354		nʊrga-	nʊrga- 
+591	20-9-211-2	92706215429761	Oroqen	oroq1238	to pound	POUND	354		tərundu-	tərundu- 
+592	20-9-22-1	71011174831190540	Oroqen	oroq1238	to cut	CUT	1432		dʒig-	dʒig- 
+593	20-9-221-1	71011174193787117	Oroqen	oroq1238	to cut down	CUT DOWN	355		ʊ:ŋnɪ-	ʊ:ŋnɪ- 
+594	20-9-222-1	71011176235162459	Oroqen	oroq1238	to chop	CHOP	155		tʃaptʃɪ-	tʃaptʃɪ- 
+595	20-9-223-1	71011176706620799	Oroqen	oroq1238	to stab	STAB TO DEATH	3189		gɪdala:-	gɪdala:- 
+596	20-9-23-1	71061926557851450	Oroqen	oroq1238	the knife(2)	KNIFE	1352		kɔtɔ	kɔtɔ 
+597	20-9-24-1	710111710392565467	Oroqen	oroq1238	the scissors or shears	SHEARS	356		kaytʃi	kaytʃi 
+598	20-9-25-1	710111711680764296	Oroqen	oroq1238	the axe/ax	AXE	677		sukə	sukə 
+599	20-9-251-1	710111731278252594	Oroqen	oroq1238	the adze	ADZE	290		sukətʃɛn	sukətʃɛn 
+600	20-9-26-1	710111943907852313	Oroqen	oroq1238	to break	BREAK (DESTROY OR GET DESTROYED)	680		mʊktʊrga-	mʊktʊrga- 
+601	20-9-261-1	710111944776739338	Oroqen	oroq1238	broken	BROKEN (NOT WORKING)	3190		əbdəwutʃə	əbdəwutʃə 
+602	20-9-27-1	710111947840301117	Oroqen	oroq1238	to split	SPLIT	1437		i:wə:-	i:wə:- 
+603	20-9-28-1	710111947306001633	Oroqen	oroq1238	to tear	TEAR (SHRED)	1735		ʃidə-	ʃidə- 
+604	20-9-29-1	710111949455360755	Oroqen	oroq1238	to skin	PULL OFF (SKIN)	291		tərgə-	tərgə- 
+605	20-9-31-1	710111952218272908	Oroqen	oroq1238	to rub	RUB	1449		iki-	iki- 
+606	20-9-32-1	7101119533539316	Oroqen	oroq1238	to stretch	STRETCH	214		ʃʊ:n-	ʃʊ:n- 
+607	20-9-33-1	710111955282320642	Oroqen	oroq1238	to pull	PULL	1455		ta:n-	ta:n- 
+608	20-9-34-1	710111957788238462	Oroqen	oroq1238	to spread out	SPREAD OUT	38		girdə-	girdə- 
+609	20-9-341-1	710111958156076880	Oroqen	oroq1238	to hang up	HANG UP	357		lʊkʊ-	lʊkʊ- 
+610	20-9-342-1	710111959506722881	Oroqen	oroq1238	to press	PRESS	1913		tirə-	tirə- 
+611	20-9-343-1	71091237918730194	Oroqen	oroq1238	to squeeze	SQUEEZE	1414		ʃir-	ʃir- 
+612	20-9-35-1	71011202944778345	Oroqen	oroq1238	to pour	POUR	1487		uŋku-	uŋku- 
+613	20-9-36-1	71011205349022574	Oroqen	oroq1238	to wash	WASH	1453		ʃɪlkɪ-	ʃɪlkɪ- 
+614	20-9-37-1	7101120774141347	Oroqen	oroq1238	to sweep	SWEEP	230		əʃu-	əʃu- 
+615	20-9-38-1	71011209965486563	Oroqen	oroq1238	the broom	BROOM	245		tɛ:ŋki	tɛ:ŋki 
+616	20-9-38-2	927022643421421	Oroqen	oroq1238	the broom	BROOM	245		əʃu-ŋki/əʃ-ur/əʃu-wun	əʃu-ŋki 
+617	20-9-38-3	927022643421421	Oroqen	oroq1238	the broom	BROOM	245		əʃu-ŋki/əʃ-ur/əʃu-wun	əʃ-ur 
+618	20-9-38-4	927022643421421	Oroqen	oroq1238	the broom	BROOM	245		əʃu-ŋki/əʃ-ur/əʃu-wun	əʃu-wun 
+619	20-9-422-1	710112034503657889	Oroqen	oroq1238	the tool	TOOL	1361		awʊra	awʊra 
+620	20-9-43-1	710112036231784945	Oroqen	oroq1238	the carpenter	CARPENTER	1042		mʊdʒan	mʊdʒan 
+621	20-9-44-1	710112042272435786	Oroqen	oroq1238	to build	BUILD	1840		iliwu-	iliwu- 
+622	20-9-46-1	710112045364623574	Oroqen	oroq1238	to bore	BORE	1501		ʃɪlgʊ-	ʃɪlgʊ- 
+623	20-9-461-1	710112047419215112	Oroqen	oroq1238	to hollow out	HOLLOW OUT	46		kəŋgurgə-	kəŋgurgə- 
+624	20-9-48-1	710112049434818250	Oroqen	oroq1238	the saw	SAW	1948		u:n	u:n 
+625	20-9-49-1	71011213438813460	Oroqen	oroq1238	the hammer	HAMMER	1481		alkatʃan	alkatʃan 
+626	20-9-5-1	71011214496177604	Oroqen	oroq1238	the nail	NAIL (TOOL)	502		tipkə:ʃu	tipkə:ʃu 
+627	20-9-56-1	71011217477252267	Oroqen	oroq1238	the glue	GLUE	1069		uŋkən	uŋkən 
+628	20-9-6-1	710112110877638452	Oroqen	oroq1238	the blacksmith	BLACKSMITH	1001		mudʒan	mudʒan 
+629	20-9-64-1	927037936400486	Oroqen	oroq1238	the gold	GOLD	1369		altan	altan 
+630	20-9-64-2	927042162634906	Oroqen	oroq1238	the gold	GOLD	1369		dʒɔ:lɔtʊ	dʒɔ:lɔtʊ 
+631	20-9-65-1	710112126970555674	Oroqen	oroq1238	the silver	SILVER	759		moŋwon	moŋwon 
+632	20-9-66-1	710112144488865052	Oroqen	oroq1238	the copper	COPPER	1825		gɛ:yin	gɛ:yin 
+633	20-9-67-1	710112156987437500	Oroqen	oroq1238	the iron	IRON	621		ʃələ	ʃələ 
+634	20-9-68-1	710112158948679260	Oroqen	oroq1238	the lead	LEAD (CHEMICAL ELEMENT)	627		tʊdʒa	tʊdʒa 
+635	20-9-69-1	710112158286526267	Oroqen	oroq1238	the tin or tinplate	TIN OR TINPLATE	3217		tatʃɪ	tatʃɪ 
+636	20-9-71-1	710112159892599933	Oroqen	oroq1238	the potter	POTTER	359		yə:rə	yə:rə 
+637	20-9-74-1	71011222131398541	Oroqen	oroq1238	the glass	GLASS	604		gu:	gu: 
+638	20-9-75-1	71091632597748442	Oroqen	oroq1238	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		nəkə-	nəkə- 
+639	20-9-75-2	927046774027617	Oroqen	oroq1238	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		ɪltʃa-	ɪltʃa- 
+640	20-9-76-1	710112226719906444	Oroqen	oroq1238	the basket	BASKET	1539		kwaŋ	kwaŋ 
+641	20-9-77-1	710112229685372562	Oroqen	oroq1238	the mat	MAT	195		ʃəktəwun	ʃəktəwun 
+642	20-9-78-1	710112232190249796	Oroqen	oroq1238	the netbag	NETBAG	293		kari	kari 
+643	20-9-79-1	710112234545820946	Oroqen	oroq1238	the fan	FAN (OBJECT)	1971		dərguŋki	dərguŋki 
+644	20-9-791-1	710112234969190075	Oroqen	oroq1238	to fan	FAN ACTION	360		dərgu-	dərgu- 
+645	20-9-88-1	710131329997979217	Oroqen	oroq1238	the paint	PAINT (PIGMENTS)	647		bʊdʊr	bʊdʊr 
+646	20-9-89-1	710131357698445186	Oroqen	oroq1238	to paint	PAINTING	2001		bʊdʊ-	bʊdʊ- 
+647	20-9-89-2	927050643231576	Oroqen	oroq1238	to paint	PAINTING	2001		yo:dɛ:-	yo:dɛ:- 
+648	20-10-11-1	71013141461422715	Oroqen	oroq1238	to move	MOVE	765		kurbu-	kurbu- 
+649	20-10-12-1	710131634224041896	Oroqen	oroq1238	to turn	TURN	1588		ukukin-	ukukin- 
+650	20-10-13-1	710131636955978599	Oroqen	oroq1238	to turn around	TURN (SOMETHING)	1445		mutʃu-	mutʃu- 
+651	20-10-14-1	710131638727146184	Oroqen	oroq1238	to wrap	WRAP	1113		ukul-	ukul- 
+652	20-10-15-1	71013164063581113	Oroqen	oroq1238	to roll	ROLL	827		ukəl-	ukəl- 
+653	20-10-16-1	710131641777573603	Oroqen	oroq1238	to drop	DROP (SOMETHING)	2866		tik-	tik- 
+654	20-10-17-1	710131642137963870	Oroqen	oroq1238	to twist	TWIST (AROUND)	3199		murki:-	murki:- 
+655	20-10-21-1	710131643363235273	Oroqen	oroq1238	to rise	RISE (MOVE UPWARDS)	568		dəgdə-	dəgdə- 
+656	20-10-22-1	710131647974457012	Oroqen	oroq1238	to raise or lift	LIFT	501		uyi:-	uyi:- 
+657	20-10-23-1	710131641777573603	Oroqen	oroq1238	to fall	FALL	1280		tik-	tik- 
+658	20-10-24-1	71031317341970388	Oroqen	oroq1238	to drip	DRIP (EMIT LIQUID)	2253		tʃʊrgɪ-	tʃʊrgɪ- 
+659	20-10-25-1	710131711475414323	Oroqen	oroq1238	to throw	THROW	1456		garʊnda:-	garʊnda:- 
+660	20-10-252-1	710131712594898307	Oroqen	oroq1238	to catch	CATCH	702		dʒɔ:-	dʒɔ:- 
+661	20-10-26-1	710132026282781703	Oroqen	oroq1238	to shake	SHAKE	1909		mɛyiwukənən	mɛyiwukənən 
+662	20-10-32-1	710132029474156753	Oroqen	oroq1238	to flow	FLOW	2003		əyə:-	əyə:- 
+663	20-10-33-1	710132041960124571	Oroqen	oroq1238	to sink	SINK (DESCEND)	1088		tib-	tib- 
+664	20-10-34-1	71013204373378440	Oroqen	oroq1238	to float	FLOAT	1574		kəpə:n-	kəpə:n- 
+665	20-10-35-1	710132044518496674	Oroqen	oroq1238	to swim	SWIM	1439		əlbi-	əlbi- 
+666	20-10-351-1	710132045939311562	Oroqen	oroq1238	to dive	DIVE	119		ulikin-	ulikin- 
+667	20-10-37-1	710132052813435819	Oroqen	oroq1238	to fly	FLY (MOVE THROUGH AIR)	1441		dəyli-	dəyli- 
+668	20-10-37-2	927053700723184	Oroqen	oroq1238	to fly	FLY (MOVE THROUGH AIR)	1441		dəg-	dəg- 
+669	20-10-38-1	710132054641706110	Oroqen	oroq1238	to blow	BLOW (OF WIND)	175		u:-	u:- 
+670	20-10-41-1	710132057615374097	Oroqen	oroq1238	to crawl	CRAWL	96		mirki-	mirki- 
+671	20-10-412-1	710132058959738829	Oroqen	oroq1238	to kneel	KNEEL	66		əŋŋəmtə-	əŋŋəmtə- 
+672	20-10-413-1	71013211910298219	Oroqen	oroq1238	to crouch	CROUCH	296		məktʃə:n-	məktʃə:n- 
+673	20-10-42-1	71013213240037194	Oroqen	oroq1238	to slide or slip	SLIP	1324		ʃirun-	ʃirun- 
+674	20-10-42-2	927056617506308	Oroqen	oroq1238	to slide or slip	SLIP	1324		balda-	balda- 
+675	20-10-43-1	71013214365783644	Oroqen	oroq1238	to jump	JUMP	1829		gabga:n-	gabga:n- 
+676	20-10-43-2	71013212253174249	Oroqen	oroq1238	to jump	JUMP	1829		ətəkən-	ətəkən- 
+677	20-10-431-1	71013216643469445	Oroqen	oroq1238	to kick	KICK	1135		pəykələ:-	pəykələ:- 
+678	20-10-44-1	71013218594634519	Oroqen	oroq1238	to dance	DANCE	1879		əkɛ:lu-	əkɛ:lu- 
+679	20-10-45-1	7101321979667127	Oroqen	oroq1238	to walk	WALK	1443		girani-	girani- 
+680	20-10-451-1	710132110754724738	Oroqen	oroq1238	to limp	LIMP	366		dɔkɔlɔn-	dɔkɔlɔn- 
+681	20-10-46-1	710132111531285701	Oroqen	oroq1238	to run	RUN	1519		tʊkʃa-	tʊkʃa- 
+682	20-10-47-1	71013211185838710	Oroqen	oroq1238	to go	GO	695		ŋənə-	ŋənə- 
+683	20-10-471-1	710132112207004151	Oroqen	oroq1238	to go up	GO UP (ASCEND)	705		tukti-	tukti- 
+684	20-10-472-1	710132112207004151	Oroqen	oroq1238	to climb	CLIMB	1102		tukti-	tukti- 
+685	20-10-473-1	71013211482289290	Oroqen	oroq1238	to go down	GO DOWN (DESCEND)	2014		əwu-	əwu- 
+686	20-10-474-1	710132115934640707	Oroqen	oroq1238	to go out	GO OUT	1107		yu:-	yu:- 
+687	20-10-48-1	710132115639830649	Oroqen	oroq1238	to come	COME	1446		əmə-	əmə- 
+688	20-10-481-1	710132116887565843	Oroqen	oroq1238	to come back	COME BACK	581		əmərgi-	əmərgi- 
+689	20-10-49-1	710132120526469225	Oroqen	oroq1238	to leave	LEAVE	1752		yabʊ-	yabʊ- 
+690	20-10-49-2	92714230662440	Oroqen	oroq1238	to leave	LEAVE	1752		ərəxəltɛ:-	ərəxəltɛ:- 
+691	20-10-491-1	710132121858839962	Oroqen	oroq1238	to disappear	DISAPPEAR	485		alɪr-	alɪr- 
+692	20-10-51-1	71013212253174249	Oroqen	oroq1238	to flee	FLEE	956		ətəkən-	ətəkən- 
+693	20-10-52-1	71013212324092217	Oroqen	oroq1238	to follow	FOLLOW	1085		aŋi-	aŋi- 
+694	20-10-53-1	710132124709369341	Oroqen	oroq1238	to pursue	PURSUE	1047		ɲamɲa-	ɲamɲa- 
+695	20-10-55-1	710132127966994245	Oroqen	oroq1238	to arrive	ARRIVE	1387		ɪʃɪna:-	ɪʃɪna:- 
+696	20-10-57-1	71013223867799873	Oroqen	oroq1238	to enter	ENTER	749		i:-	i:- 
+697	20-10-61-1	71013228586455294	Oroqen	oroq1238	to carry	CARRY	700		dʒu:-	dʒu:- 
+698	20-10-612-1	71013228278873975	Oroqen	oroq1238	to carry in hand	CARRY IN HAND	412		ŋa:l-	ŋa:l- 
+699	20-10-613-1	71013229422583937	Oroqen	oroq1238	to carry on shoulder	CARRY ON SHOULDER	413		ʊwa-	ʊwa- 
+700	20-10-615-1	710132211920447135	Oroqen	oroq1238	to carry under the arm	CARRY UNDER ARM	415		kaptʃɪ:-	kaptʃɪ:- 
+701	20-10-62-1	710132228835940079	Oroqen	oroq1238	to bring	BRING	692		əmu-	əmu- 
+702	20-10-63-1	71013223423500938	Oroqen	oroq1238	to send	SEND	1127		ŋənəwu-	ŋənəwu- 
+703	20-10-64-1	710132237638929827	Oroqen	oroq1238	to lead	LEAD (GUIDE)	43		əlgə-	əlgə- 
+704	20-10-66-1	7101493626503830	Oroqen	oroq1238	to ride	RIDE	367		ʊg-	ʊg- 
+705	20-10-67-1	7101494193983196	Oroqen	oroq1238	to push	PUSH	1452		ana-	ana- 
+706	20-10-71-1	7101494403835267	Oroqen	oroq1238	the road	ROAD	667		ɔktɔ	ɔktɔ 
+707	20-10-72-1	710141317212474528	Oroqen	oroq1238	the path	PATH	2252		tərgə	tərgə 
+708	20-10-74-1	71014132251461146	Oroqen	oroq1238	the bridge	BRIDGE	1011		ko:rgə	ko:rgə 
+709	20-10-75-1	71014130893720448	Oroqen	oroq1238	the cart or wagon	CART	122		tərgən	tərgən 
+710	20-10-76-1	710141415271719369	Oroqen	oroq1238	the wheel	WHEEL	710		kurdu	kurdu 
+711	20-10-77-1	710141415476251411	Oroqen	oroq1238	the axle	AXLE	1769		təŋgəl	təŋgəl 
+712	20-10-78-1	710141416228968639	Oroqen	oroq1238	the yoke	YOKE	14		aral	aral 
+713	20-10-81-1	710141450591324589	Oroqen	oroq1238	the ship	SHIP	740		pɔrɔkɔʃ	pɔrɔkɔʃ 
+714	20-10-83-1	710141454884714657	Oroqen	oroq1238	the boat	BOAT	1844		mɔŋgɔ	mɔŋgɔ 
+715	20-10-83-2	92718907618506	Oroqen	oroq1238	the boat	BOAT	1844		mɔrətʃin	mɔrətʃin 
+716	20-10-84-1	710141458335657389	Oroqen	oroq1238	the raft	RAFT	1664		təm	təm 
+717	20-10-85-1	7101414598047603	Oroqen	oroq1238	the oar	RUDDER	108		ʃʊgdawʊn	ʃʊgdawʊn 
+718	20-10-851-1	71014150366458521	Oroqen	oroq1238	the paddle	PADDLE	234		karbɪ	karbɪ 
+719	20-10-852-1	71014151980547524	Oroqen	oroq1238	to row	ROW	1849		ʃʊgda-	ʃʊgda- 
+720	20-10-92-1	71014153973421628	Oroqen	oroq1238	to land	LAND (DESCEND)	1922		dɔ:-	dɔ:- 
+721	20-11-11-1	710241550800625334	Oroqen	oroq1238	to have	HAVE	773		bi-	bi- 
+722	20-11-13-1	710131712594898307	Oroqen	oroq1238	to take	TAKE	1749		dʒɔ:-	dʒɔ:- 
+723	20-11-14-1	710141530427356388	Oroqen	oroq1238	to grasp	SEIZE	855		aʃɪkʊla-	aʃɪkʊla- 
+724	20-11-15-1	710141538583470132	Oroqen	oroq1238	to hold	HOLD	1448		dʒɔ:tʃa-	dʒɔ:tʃa- 
+725	20-11-16-1	710141545981870598	Oroqen	oroq1238	to get	GET	694		ga-	ga- 
+726	20-11-17-1	710141546961110845	Oroqen	oroq1238	to keep	KEEP	1477		ʃʊla-	ʃʊla- 
+727	20-11-18-1	710141547337067083	Oroqen	oroq1238	the thing	THING	738		dʒaka	dʒaka 
+728	20-11-21-1	710141547491472407	Oroqen	oroq1238	to give	GIVE	1447		bu:-	bu:- 
+729	20-11-22-1	710141549812595610	Oroqen	oroq1238	to give back	GIVE BACK	85		burgi-	burgi- 
+730	20-11-22-2	927112341784741	Oroqen	oroq1238	to give back	GIVE BACK	85		tama-	tama- 
+731	20-11-24-1	710141554573932100	Oroqen	oroq1238	to preserve	PRESERVE	1997		ədʒələ:-	ədʒələ:- 
+732	20-11-25-1	71014155584237615	Oroqen	oroq1238	to rescue	RESCUE	2008		ayʃɪla:-	ayʃɪla:- 
+733	20-11-27-1	71014165122409222	Oroqen	oroq1238	to destroy	DESTROY	681		gudʒəlɛ-	gudʒəlɛ- 
+734	20-11-28-1	71015948140762169	Oroqen	oroq1238	to injure	INJURE	44		yarala-	yarala- 
+735	20-11-31-1	71015951429575033	Oroqen	oroq1238	to look for	LOOK FOR	1468		gələ:-	gələ:- 
+736	20-11-32-1	71015952567174597	Oroqen	oroq1238	to find	FIND	719		baka-	baka- 
+737	20-11-33-1	7101595338503118	Oroqen	oroq1238	to lose	LOSE	1660		amɛ:n-	amɛ:n- 
+738	20-11-34-1	71015101277306550	Oroqen	oroq1238	to let go	LET GO OR SET FREE	1095		nɔ:da:-	nɔ:da:- 
+739	20-11-43-1	710151013812015369	Oroqen	oroq1238	the money	MONEY	1559		dʒiɣa	dʒiɣa 
+740	20-11-44-1	710151015211566110	Oroqen	oroq1238	the coin	COIN	1867		toŋzər	toŋzər 
+741	20-11-51-1	710151020622105924	Oroqen	oroq1238	rich	RICH	712		bayan	bayan 
+742	20-11-52-1	71015102082801460	Oroqen	oroq1238	poor	POOR	1674		yadaw	yadaw 
+743	20-11-53-1	710151022512301870	Oroqen	oroq1238	the beggar	BEGGAR	1934		gɪyatʊ	gɪyatʊ 
+744	20-11-61-1	710151255792306953	Oroqen	oroq1238	to lend	LEND	582		ɪldʊ-	ɪldʊ- 
+745	20-11-61-2	927120570744988	Oroqen	oroq1238	to lend	LEND	582		akʃʊ-	akʃʊ- 
+746	20-11-62-1	710151423251516266	Oroqen	oroq1238	to borrow	BORROW	1823		ɪlduma-	ɪlduma- 
+747	20-11-62-2	927127226977641	Oroqen	oroq1238	to borrow	BORROW	1823		akʃʊma-	akʃʊma- 
+748	20-11-63-1	710151545810576069	Oroqen	oroq1238	to owe	OWE	369		ulgɛŋ-	ulgɛŋ- 
+749	20-11-64-1	710151545989520310	Oroqen	oroq1238	the debt	DEBT	1914		ulgɛ	ulgɛ 
+750	20-11-65-1	710151641242630774	Oroqen	oroq1238	to pay	PAY	718		tama-	tama- 
+751	20-11-81-1	710141545981870598	Oroqen	oroq1238	to buy	BUY	1869		ga-	ga- 
+752	20-11-82-1	710151649634235085	Oroqen	oroq1238	to sell	SELL	1571		uni:-	uni:- 
+753	20-11-83-1	710151830479851497	Oroqen	oroq1238	to trade or barter	TRADE OR BARTER	2135		dʒɔ:t-	dʒɔ:t- 
+754	20-11-84-1	710151843173477192	Oroqen	oroq1238	the merchant	MERCHANT	1082		maymalari	maymalari 
+755	20-11-85-1	710151855970428643	Oroqen	oroq1238	the market	MARKET	633		mayman	mayman 
+756	20-11-86-1	710151855970428643	Oroqen	oroq1238	the shop/store	STORE	752		mayman	mayman 
+757	20-11-87-1	71015195313151254	Oroqen	oroq1238	the price	PRICE	657		taman	taman 
+758	20-11-88-1	710151914410304946	Oroqen	oroq1238	expensive	EXPENSIVE	1426		mani	mani 
+759	20-11-89-1	710151915451761625	Oroqen	oroq1238	cheap	CHEAP	1887		kɪmda	kɪmda 
+760	20-11-91-1	710151917838888316	Oroqen	oroq1238	to share	SHARE	884		ʊktʃa-	ʊktʃa- 
+761	20-11-92-1	710151920412818454	Oroqen	oroq1238	to weigh	WEIGH	1098		giŋna-	giŋna- 
+762	20-11-92-2	927135891818654	Oroqen	oroq1238	to weigh	WEIGH	1098		dəŋʃələ:-	dəŋʃələ:- 
+763	20-12-01-1	710151942469231894	Oroqen	oroq1238	after	AFTER	1685		amalan	amalan 
+764	20-12-011-1	710151942469231894	Oroqen	oroq1238	behind	BEHIND	1686		amalan	amalan 
+765	20-12-02-1	710151947732683235	Oroqen	oroq1238	beside	BESIDE	1816		tɔ:gida:lin	tɔ:gida:lin 
+766	20-12-03-1	710152113489117543	Oroqen	oroq1238	down	DOWN	1326		ərgi	ərgi 
+767	20-12-04-1	710152118162219130	Oroqen	oroq1238	before	BEFORE	1882		dʒulgida	dʒulgida 
+768	20-12-041-1	710152121508607016	Oroqen	oroq1238	in front of	IN FRONT OF	1883		dʒu:llə	dʒu:llə 
+769	20-12-05-1	710152123169981259	Oroqen	oroq1238	inside	INSIDE	1606		dɔ:la:	dɔ:la: 
+770	20-12-06-1	710152125244767766	Oroqen	oroq1238	outside	OUTSIDE	762		tullə	tullə 
+771	20-12-07-1	710152129406188915	Oroqen	oroq1238	under	BELOW OR UNDER	1485		ərgin	ərgin 
+772	20-12-08-1	710152131682062624	Oroqen	oroq1238	up	UP	1591		uyi	uyi 
+773	20-12-11-1	710152132238967464	Oroqen	oroq1238	the place	PLACE (POSITION)	723		bʊɣa	bʊɣa 
+774	20-12-12-1	710152136243726023	Oroqen	oroq1238	to put	PUT	998		nə:-	nə:- 
+775	20-12-13-1	710152137122741380	Oroqen	oroq1238	to sit	SIT	1416		tə:	tə: 
+776	20-12-14-1	710152144367308851	Oroqen	oroq1238	to lie down	LIE DOWN	215		ulə:-	ulə:- 
+777	20-12-15-1	710152145381362946	Oroqen	oroq1238	to stand	STAND	1442		ɪlɪ-	ɪlɪ- 
+778	20-12-16-1	710152147966894884	Oroqen	oroq1238	to remain	REMAIN	987		aɲa-	aɲa- 
+779	20-12-17-1	710152152502764397	Oroqen	oroq1238	the remains	REMAINS	838		uləpdʒan	uləpdʒan 
+780	20-12-21-1	710152156753329828	Oroqen	oroq1238	to gather	GATHER	7		ŋʊnʊpgi	ŋʊnʊpgi 
+781	20-12-212-1	71015215745625927	Oroqen	oroq1238	to pick up	PICK UP	371		təwu-	təwu- 
+782	20-12-213-1	710152158854307331	Oroqen	oroq1238	to pile up	PILE UP	1576		ʊrʊ:-	ʊrʊ:- 
+783	20-12-22-1	710152159589235701	Oroqen	oroq1238	to join	JOIN	1743		ʃɪra-	ʃɪra- 
+784	20-12-23-1	7101522017671540	Oroqen	oroq1238	to separate	SEPARATE	1359		ərkərtə:-	ərkərtə:- 
+785	20-12-232-1	71015221949507481	Oroqen	oroq1238	to divide	DIVIDE	1119		ʊktʃa:-	ʊktʃa:- 
+786	20-12-24-1	71015228829411588	Oroqen	oroq1238	to open	OPEN	1156		laŋɪ-	laŋɪ- 
+787	20-12-25-1	710152210433028596	Oroqen	oroq1238	to shut	SHUT	1046		ʃʊm-	ʃʊm- 
+788	20-12-26-1	710152211360822179	Oroqen	oroq1238	to cover	COVER	761		uktə:n	uktə:n 
+789	20-12-27-1	710161016100166669	Oroqen	oroq1238	to hide	HIDE (CONCEAL)	602		dʒayi-	dʒayi- 
+790	20-12-31-1	710161016105427216	Oroqen	oroq1238	high	HIGH	1265		gʊgda	gʊgda 
+791	20-12-32-1	710161018183237758	Oroqen	oroq1238	low	LOW	721		nəktə	nəktə 
+792	20-12-33-1	710161019519607247	Oroqen	oroq1238	the top	TOP	1753		ɔrɔn (1)	ɔrɔn (1) 
+793	20-12-34-1	710161118777965911	Oroqen	oroq1238	the bottom	BOTTOM	690		ərgilə:	ərgilə: 
+794	20-12-35-1	710161539278939482	Oroqen	oroq1238	the end(1)	END (OF SPACE)	742		mʊdan	mʊdan 
+795	20-12-352-1	710161541279771378	Oroqen	oroq1238	pointed	POINTED	372		tʃuptʃurin	tʃuptʃurin 
+796	20-12-353-1	710161542112129394	Oroqen	oroq1238	the edge	EDGE	863		kətʃin	kətʃin 
+797	20-12-36-1	71016155197719389	Oroqen	oroq1238	the side	SIDE	682		ɔldɔn	ɔldɔn 
+798	20-12-37-1	710161554304967777	Oroqen	oroq1238	the middle	MIDDLE	1093		gɔ:lin	gɔ:lin 
+799	20-12-41-1	710161556219213305	Oroqen	oroq1238	right(1)	RIGHT	1019		a:n	a:n 
+800	20-12-42-1	71016155712332235	Oroqen	oroq1238	left	LEFT	244		dʒəyin	dʒəyin 
+801	20-12-43-1	71016155999431778	Oroqen	oroq1238	near	NEAR	1942		daga (phonetically daɣa)	daga (phonetically daɣa) 
+802	20-12-44-1	710161559262536814	Oroqen	oroq1238	far	FAR	1406		gɔrɔ	gɔrɔ 
+803	20-12-45-1	71016163937993430	Oroqen	oroq1238	the east	EAST	1877		ədʒiwun	ədʒiwun 
+804	20-12-45-2	927144315962452	Oroqen	oroq1238	the east	EAST	1877		dɪlatʃa yu:rəkəki	dɪlatʃa yu:rəkəki 
+805	20-12-46-1	71016166554985405	Oroqen	oroq1238	the west	WEST	1817		ʃɔlɔwun	ʃɔlɔwun 
+806	20-12-46-2	927149864403069	Oroqen	oroq1238	the west	WEST	1817		dɪlatʃa tiktəkəki	dɪlatʃa tiktəkəki 
+807	20-12-47-1	710161614247026166	Oroqen	oroq1238	the north	NORTH	1598		di-wun	di-wun 
+808	20-12-47-2	927152888224929	Oroqen	oroq1238	the north	NORTH	1598		amargɪda	amargɪda 
+809	20-12-48-1	710161621269507845	Oroqen	oroq1238	the south	SOUTH	1595		ŋɛ:wun	ŋɛ:wun 
+810	20-12-48-2	927155923791124	Oroqen	oroq1238	the south	SOUTH	1595		dʒulgidə	dʒulgidə 
+811	20-12-53-1	710161648421887793	Oroqen	oroq1238	to grow	GROW	479		iʃəwu-	iʃəwu- 
+812	20-12-54-1	71016177928732224	Oroqen	oroq1238	to measure	MEASURE	1506		atʃida-	atʃida- 
+813	20-12-54-2	92720298980304	Oroqen	oroq1238	to measure	MEASURE	1506		tʃi:də:-	tʃi:də:- 
+814	20-12-541-1	710161710908259191	Oroqen	oroq1238	the fathom	FATHOM	81		da:r	da:r 
+815	20-12-55-1	710161717553249397	Oroqen	oroq1238	big	BIG	1202		əgdiŋə	əgdiŋə 
+816	20-12-56-1	710161719460443819	Oroqen	oroq1238	small	SMALL	1246		nitʃukun	nitʃukun 
+817	20-12-57-1	710161719785678953	Oroqen	oroq1238	long	LONG	1203		ŋʊnʊm	ŋʊnʊm 
+818	20-12-58-1	710161016105427216	Oroqen	oroq1238	tall	TALL	711		gʊgda	gʊgda 
+819	20-12-59-1	71016172380525461	Oroqen	oroq1238	short	SHORT	1645		nəktəkun	nəktəkun 
+820	20-12-59-2	92726516576906	Oroqen	oroq1238	short	SHORT	1645		wurumkun	wurumkun 
+821	20-12-61-1	710171050810633459	Oroqen	oroq1238	wide	WIDE	1243		əŋŋəl	əŋŋəl 
+822	20-12-61-2	927211496641293	Oroqen	oroq1238	wide	WIDE	1243		aɣum/awam	aɣum 
+823	20-12-61-3	927211496641293	Oroqen	oroq1238	wide	WIDE	1243		aɣum/awam	awam 
+824	20-12-62-1	710171054949024977	Oroqen	oroq1238	narrow	NARROW	1267		ʃiləmkun	ʃiləmkun 
+825	20-12-63-1	710171055516655171	Oroqen	oroq1238	thick	THICK	1244		dɪram	dɪram 
+826	20-12-65-1	710171057815722913	Oroqen	oroq1238	thin	THIN (OF SHAPE OF OBJECT)	2249		nəmkun	nəmkun 
+827	20-12-67-1	710171058593252906	Oroqen	oroq1238	deep	DEEP	1593		ʃʊŋta	ʃʊŋta 
+828	20-12-68-1	710171059198106368	Oroqen	oroq1238	shallow	SHALLOW	193		arba	arba 
+829	20-12-71-1	71017110328506030	Oroqen	oroq1238	flat	FLAT	1633		namtarɪn	namtarɪn 
+830	20-12-73-1	710171111660868928	Oroqen	oroq1238	straight	STRAIGHT	1404		tʃitʃur	tʃitʃur 
+831	20-12-74-1	710171111972030031	Oroqen	oroq1238	crooked	CROOKED	297		muktʃika	muktʃika 
+832	20-12-75-1	710171113621772997	Oroqen	oroq1238	the hook	HOOK	1071		gɔkɔ	gɔkɔ 
+833	20-12-75-2	927215414877159	Oroqen	oroq1238	the hook	HOOK	1071		lɔkɔ-ŋki	lɔkɔ-ŋki 
+834	20-12-76-1	710171143217504509	Oroqen	oroq1238	the corner	CORNER	192		kɪtʃakta	kɪtʃakta 
+835	20-12-77-1	710171157615814206	Oroqen	oroq1238	the cross	CROSS	1367		nardɪka	nardɪka 
+836	20-12-78-1	710171158834548266	Oroqen	oroq1238	the square	SQUARE	850		durbəldʒin	durbəldʒin 
+837	20-12-81-1	71017115934415548	Oroqen	oroq1238	round	ROUND	1395		boŋbəlin	boŋbəlin 
+838	20-12-82-1	710171222378533093	Oroqen	oroq1238	the circle	CIRCLE	1467		toŋgorin	toŋgorin 
+839	20-12-83-1	710171352635813782	Oroqen	oroq1238	the ball	BALL	1845		tɛnbukən	tɛnbukən 
+840	20-12-83-2	927219511203776	Oroqen	oroq1238	the ball	BALL	1845		tʃul	tʃul 
+841	20-12-84-1	710171353621090904	Oroqen	oroq1238	the line	LINE	1048		i:rakta	i:rakta 
+842	20-12-85-1	79181415224964664	Oroqen	oroq1238	the hole	HOLE	1667		ultəkə	ultəkə 
+843	20-12-92-1	710171514351315953	Oroqen	oroq1238	similar	SIMILAR	1558		ŋətʃin	ŋətʃin 
+844	20-12-93-1	710111411287215924	Oroqen	oroq1238	to change	CHANGE	1264		ɔ:-	ɔ:- 
+845	20-13-01-1	710171533801375339	Oroqen	oroq1238	one	ONE	1493		umun	umun 
+846	20-13-02-1	710171539435548848	Oroqen	oroq1238	two	TWO	1498		dʒu:r	dʒu:r 
+847	20-13-03-1	71017154128592356	Oroqen	oroq1238	three	THREE	492		ɪlan	ɪlan 
+848	20-13-04-1	710171541771820073	Oroqen	oroq1238	four	FOUR	1500		diyin	diyin 
+849	20-13-05-1	71017154243394316	Oroqen	oroq1238	five	FIVE	493		tʊŋŋa	tʊŋŋa 
+850	20-13-06-1	710171544186303073	Oroqen	oroq1238	six	SIX	1703		ɲuŋun	ɲuŋun 
+851	20-13-07-1	710171545512864421	Oroqen	oroq1238	seven	SEVEN	1704		nadan	nadan 
+852	20-13-08-1	710171545983071184	Oroqen	oroq1238	eight	EIGHT	1705		dʒapkʊn	dʒapkʊn 
+853	20-13-09-1	710171545614538567	Oroqen	oroq1238	nine	NINE	1483		yəyin	yəyin 
+854	20-13-1-1	710171546865726505	Oroqen	oroq1238	ten	TEN	1515		dʒa:n	dʒa:n 
+855	20-13-101-1	710171546605551946	Oroqen	oroq1238	eleven	ELEVEN	1706		dʒa:n umun	dʒa:n umun 
+856	20-13-102-1	71017154718970269	Oroqen	oroq1238	twelve	TWELVE	1707		dʒa:n dʒur	dʒa:n dʒur 
+857	20-13-103-1	710171548970612804	Oroqen	oroq1238	fifteen	FIFTEEN	1709		dʒa:n tʊɲa	dʒa:n tʊɲa 
+858	20-13-104-1	71017154887815403	Oroqen	oroq1238	twenty	TWENTY	1710		urin	urin 
+859	20-13-105-1	710171549578076217	Oroqen	oroq1238	a hundred	HUNDRED	1634		ɲama:dʒɪ	ɲama:dʒɪ 
+860	20-13-106-1	710171549338663125	Oroqen	oroq1238	a thousand	THOUSAND	1843		miŋga	miŋga 
+861	20-13-107-1	710171550560239434	Oroqen	oroq1238	to count	COUNT	1420		taŋ-	taŋ- 
+862	20-13-14-1	71017155185013940	Oroqen	oroq1238	all	ALL	98		banbʊr	banbʊr 
+863	20-13-14-2	927224516151172	Oroqen	oroq1238	all	ALL	98		ɔ:rin	ɔ:rin 
+864	20-13-15-1	710171552884888596	Oroqen	oroq1238	many	MANY	1198		bara:n	bara:n 
+865	20-13-16-1	710171554709559926	Oroqen	oroq1238	more	MORE	1992		mʊtɪman bara:n	mʊtɪman bara:n 
+866	20-13-17-1	710171558978585845	Oroqen	oroq1238	few	FEW	1242		atʃʊkʊn	atʃʊkʊn 
+867	20-13-18-1	71017161943027161	Oroqen	oroq1238	enough	ENOUGH	1881		ɪʃʃa	ɪʃʃa 
+868	20-13-181-1	7101716532714622	Oroqen	oroq1238	some	SOME	1241		adɪ:	adɪ: 
+869	20-13-21-1	71017167886031348	Oroqen	oroq1238	full	FULL	1429		dʒalʊm	dʒalʊm 
+870	20-13-22-1	710171610807104557	Oroqen	oroq1238	empty	EMPTY	1624		kəŋgugdɛ	kəŋgugdɛ 
+871	20-13-23-1	710171611927429607	Oroqen	oroq1238	the part	PART	779		atʃi	atʃi 
+872	20-13-24-1	710171612284696870	Oroqen	oroq1238	the half	HALF	816		dʊlɪn	dʊlɪn 
+873	20-13-33-1	710171613230651792	Oroqen	oroq1238	only	ONLY	1580		təylə	təylə 
+874	20-13-34-1	710171613501029831	Oroqen	oroq1238	first	FIRST	728		umu:ki	umu:ki 
+875	20-13-35-1	710171616463654165	Oroqen	oroq1238	last	LAST (FINAL)	1529		amargu	amargu 
+876	20-13-36-1	710171618837693677	Oroqen	oroq1238	second	SECOND	1384		dʒʊ:rki	dʒʊ:rki 
+877	20-13-37-1	710171619427668137	Oroqen	oroq1238	the pair	PAIR	1888		tə:ri	tə:ri 
+878	20-13-38-1	71017162016492232	Oroqen	oroq1238	twice/two times	TWICE	1546		dʒu:rrə	dʒu:rrə 
+879	20-13-42-1	710171622246520722	Oroqen	oroq1238	third	THIRD	1859		ɪlankɪ	ɪlankɪ 
+880	20-13-44-1	710171622690451070	Oroqen	oroq1238	three times	THREE TIMES	417		ɪlara	ɪlara 
+881	20-14-11-1	710171629649724428	Oroqen	oroq1238	the time	TIME	892		tʃʊlɔ:	tʃʊlɔ: 
+882	20-14-12-1	71017163428383677	Oroqen	oroq1238	the age	AGE	1789		naʃʊ	naʃʊ 
+883	20-14-13-1	710171643468924053	Oroqen	oroq1238	new	NEW	1231		irkəkin	irkəkin 
+884	20-14-14-1	710171834395920606	Oroqen	oroq1238	young	YOUNG	1207		dʒalaw	dʒalaw 
+885	20-14-15-1	710171836284594091	Oroqen	oroq1238	old	OLD	1229		ʃagdɪ	ʃagdɪ 
+886	20-14-16-1	710171840106844573	Oroqen	oroq1238	early	EARLY	672		ərdə	ərdə 
+887	20-14-17-1	710172044239259250	Oroqen	oroq1238	late	LATE	477		dɪlda	dɪlda 
+888	20-14-18-1	710172045969704936	Oroqen	oroq1238	now	NOW	1376		ər ərin	ər ərin 
+889	20-14-19-1	710172053355147584	Oroqen	oroq1238	immediately	IMMEDIATELY	1963		nɛdɛr	nɛdɛr 
+890	20-14-19-2	927232807914714	Oroqen	oroq1238	immediately	IMMEDIATELY	1963		maʃaŋ	maʃaŋ 
+891	20-14-21-1	71017211660812948	Oroqen	oroq1238	fast	FAST	1631		dɪyardʒi	dɪyardʒi 
+892	20-14-22-1	7101721363370661	Oroqen	oroq1238	slow	SLOW	701		əlkə	əlkə 
+893	20-14-23-1	7101721326554843	Oroqen	oroq1238	to hurry	HURRY	754		uda-	uda- 
+894	20-14-24-1	711101839242882797	Oroqen	oroq1238	to be late	BE LATE	425		dɪldatʃa	dɪldatʃa 
+895	20-14-25-1	71017217405308272	Oroqen	oroq1238	to begin	BEGIN	1806		əkəl-	əkəl- 
+896	20-14-27-1	710172113329452673	Oroqen	oroq1238	to finish	FINISH	1766		ətə-	ətə- 
+897	20-14-27-2	927236557911272	Oroqen	oroq1238	to finish	FINISH	1766		man-	man- 
+898	20-14-28-1	71017211867388559	Oroqen	oroq1238	to cease	CEASE	1928		ə:-	ə:- 
+899	20-14-31-1	710172141826811838	Oroqen	oroq1238	always	ALWAYS	1676		umun durum	umun durum 
+900	20-14-32-1	710172143734463282	Oroqen	oroq1238	often	OFTEN	1852		banin	banin 
+901	20-14-35-1	710172213729406730	Oroqen	oroq1238	again	AGAIN	204		dakin	dakin 
+902	20-14-41-1	710172214662521615	Oroqen	oroq1238	the day(1)	DAY (24 HOURS)	1260		inəŋ	inəŋ 
+903	20-14-42-1	710172215610844749	Oroqen	oroq1238	the night	NIGHT	1233		dɔlbɔ	dɔlbɔ 
+904	20-14-43-1	710172216675732626	Oroqen	oroq1238	the dawn	DAWN	729		inərtʃə	inərtʃə 
+905	20-14-44-1	710172218103956224	Oroqen	oroq1238	the morning	MORNING	1339		ərdə	ərdə 
+906	20-14-45-1	710172222407206388	Oroqen	oroq1238	the midday	MIDDAY	12		inəŋ dulin	inəŋ dulin 
+907	20-14-451-1	710172224276096171	Oroqen	oroq1238	the afternoon	AFTERNOON	1807		inəŋ dulin nuktʃitʃə	inəŋ dulin nuktʃitʃə 
+908	20-14-46-1	710172227847615146	Oroqen	oroq1238	the evening	EVENING	1629		ʃikʃə	ʃikʃə 
+909	20-14-47-1	710172228831884944	Oroqen	oroq1238	today	TODAY	1283		ənəyi	ənəyi 
+910	20-14-48-1	710172229210458656	Oroqen	oroq1238	tomorrow	TOMORROW	1329		tɪma:na	tɪma:na 
+911	20-14-481-1	710172230592245590	Oroqen	oroq1238	the day after tomorrow	DAY AFTER TOMORROW	1179		tɪma:na tʃawʊdʊ	tɪma:na tʃawʊdʊ 
+912	20-14-49-1	710172230576316115	Oroqen	oroq1238	yesterday	YESTERDAY	1174		ti:nəwə	ti:nəwə 
+913	20-14-491-1	710172231286759510	Oroqen	oroq1238	the day before yesterday	DAY BEFORE YESTERDAY	1180		ti:nəwə tʃawʊdʊ	ti:nəwə tʃawʊdʊ 
+914	20-14-51-1	710172235966867742	Oroqen	oroq1238	the hour	HOUR	1353		tʃaʃ	tʃaʃ 
+915	20-14-71-1	710172240337945385	Oroqen	oroq1238	the month	MONTH	1370		bɛ:	bɛ: 
+916	20-14-73-1	710172242850924009	Oroqen	oroq1238	the year	YEAR	1226		aŋŋanɪ	aŋŋanɪ 
+917	20-14-74-1	710172244903762026	Oroqen	oroq1238	the winter	WINTER	1471		tuwə	tuwə 
+918	20-14-75-1	710172244954373500	Oroqen	oroq1238	the spring(2)	SPRINGTIME	1537		nəlki	nəlki 
+919	20-14-76-1	710172245105226157	Oroqen	oroq1238	the summer	SUMMER	1342		dʒʊwa	dʒʊwa 
+920	20-14-77-1	710172245852638726	Oroqen	oroq1238	the autumn/fall	AUTUMN	1276		bɔlɔ	bɔlɔ 
+921	20-15-212-1	710172249710868706	Oroqen	oroq1238	to sniff	SNIFF	375		ŋɔkta-	ŋɔkta- 
+922	20-15-22-1	710172250367197207	Oroqen	oroq1238	to smell(2)	SMELL (PERCEIVE)	1586		ŋɔkɔ-	ŋɔkɔ- 
+923	20-15-25-1	710181330117035957	Oroqen	oroq1238	fragrant	FRAGRANT	376		aya wa:tʃɪ	aya wa:tʃɪ 
+924	20-15-26-1	7101814485955761	Oroqen	oroq1238	stinking	STINKING	42		nʊkʊmʊnan	nʊkʊmʊnan 
+925	20-15-31-1	71018145729334302	Oroqen	oroq1238	to taste	TASTE (SOMETHING)	21		amta-	amta- 
+926	20-15-35-1	710181410531934156	Oroqen	oroq1238	sweet	SWEET	717		dʒʊtɪ	dʒʊtɪ 
+927	20-15-36-1	710181412483905568	Oroqen	oroq1238	salty	SALTY	1091		wargi	wargi 
+928	20-15-37-1	710181415270512357	Oroqen	oroq1238	bitter	BITTER	887		gʊtɪ	gʊtɪ 
+929	20-15-38-1	710181418764750851	Oroqen	oroq1238	sour	SOUR	1906		dʒuyarɪ	dʒuyarɪ 
+930	20-15-38-2	927239266903452	Oroqen	oroq1238	sour	SOUR	1906		dʒiʃun	dʒiʃun 
+931	20-15-41-1	710181422486873253	Oroqen	oroq1238	to hear	HEAR	1408		dɔ:ldi-	dɔ:ldi- 
+932	20-15-42-1	710181422486873253	Oroqen	oroq1238	to listen	LISTEN	1608		dɔ:ldi-	dɔ:ldi- 
+933	20-15-44-1	710181424909234872	Oroqen	oroq1238	the sound or noise	SOUND OR NOISE	1811		dɪlgan	dɪlgan 
+934	20-15-45-1	710181424727956732	Oroqen	oroq1238	loud	LOUD	377		dɪlgan əgdɪŋə	dɪlgan əgdɪŋə 
+935	20-15-46-1	710181427617721691	Oroqen	oroq1238	quiet	QUIET	1314		ʃi:p	ʃi:p 
+936	20-15-51-1	710181439961093679	Oroqen	oroq1238	to see	SEE	1409		itʃə-	itʃə- 
+937	20-15-52-1	710181439961093679	Oroqen	oroq1238	to look	LOOK	1819		itʃə-	itʃə- 
+938	20-15-55-1	710181445124558054	Oroqen	oroq1238	to show	SHOW	1039		itʃəwukətən	itʃəwukətən 
+939	20-15-56-1	710181451917074609	Oroqen	oroq1238	to shine	SHINE	708		ʊtaldʒa:-	ʊtaldʒa:- 
+940	20-15-57-1	71018145464895538	Oroqen	oroq1238	bright	BRIGHT	679		ŋɛ:rin	ŋɛ:rin 
+941	20-15-61-1	710181455975034753	Oroqen	oroq1238	the colour/color	COLOR	1613		butʃu	butʃu 
+942	20-15-61-2	927242352827804	Oroqen	oroq1238	the colour/color	COLOR	1613		dʒiʃu	dʒiʃu 
+943	20-15-64-1	71018155346069967	Oroqen	oroq1238	white	WHITE	1335		bagdarɪn	bagdarɪn 
+944	20-15-65-1	71018156316749675	Oroqen	oroq1238	black	BLACK	163		kɔŋnɔrɪn	kɔŋnɔrɪn 
+945	20-15-66-1	71018157561191091	Oroqen	oroq1238	red	RED	156		ʊla:rɪn	ʊla:rɪn 
+946	20-15-67-1	710181514397809997	Oroqen	oroq1238	blue	BLUE	837		tʃaŋgɛ:n	tʃaŋgɛ:n 
+947	20-15-67-2	927246130319072	Oroqen	oroq1238	blue	BLUE	837		ʃɪ:la	ʃɪ:la 
+948	20-15-68-1	710181517533851208	Oroqen	oroq1238	green	GREEN	1425		tʃuturin	tʃuturin 
+949	20-15-69-1	710181525306608805	Oroqen	oroq1238	yellow	YELLOW	1424		ʃɪŋarɪn	ʃɪŋarɪn 
+950	20-15-712-1	710181528298355724	Oroqen	oroq1238	to pinch	PINCH	378		pʊtʃa-	pʊtʃa- 
+951	20-15-72-1	710181529509517722	Oroqen	oroq1238	to feel	FEEL	1079		təmi-	təmi- 
+952	20-15-74-1	710181933135777206	Oroqen	oroq1238	hard	HARD	1884		katangʊ	katangʊ 
+953	20-15-75-1	710181936145318002	Oroqen	oroq1238	soft	SOFT	1856		dəpəktin	dəpəktin 
+954	20-15-76-1	710181938793888736	Oroqen	oroq1238	rough(1)	ROUGH	1923		lə:rin	lə:rin 
+955	20-15-77-1	710181959177229295	Oroqen	oroq1238	smooth	SMOOTH	1234		burtʃurin	burtʃurin 
+956	20-15-78-1	71018200456386421	Oroqen	oroq1238	sharp	SHARP	1396		əmər	əmər 
+957	20-15-79-1	71018200375072061	Oroqen	oroq1238	blunt	BLUNT	379		mampa	mampa 
+958	20-15-81-1	71018201590435524	Oroqen	oroq1238	heavy	HEAVY	1210		urgə	urgə 
+959	20-15-82-1	71018204319307385	Oroqen	oroq1238	light(1)	LIGHT (WEIGHT)	1052		əyəmkun	əyəmkun 
+960	20-15-83-1	71018208742813687	Oroqen	oroq1238	wet	WET	1726		wʊlapkʊn	wʊlapkʊn 
+961	20-15-84-1	710182038817446139	Oroqen	oroq1238	dry	DRY	1398		ɔlgɔkin	ɔlgɔkin 
+962	20-15-84-2	927250160410340	Oroqen	oroq1238	dry	DRY	1398		iləŋ	iləŋ 
+963	20-15-85-1	710182043309148140	Oroqen	oroq1238	hot	HOT	1286		əku	əku 
+964	20-15-851-1	710182043548171903	Oroqen	oroq1238	warm	WARM	1232		ɲama	ɲama 
+965	20-15-86-1	710182045416546566	Oroqen	oroq1238	cold	COLD	1287		iŋin	iŋin 
+966	20-15-87-1	710182048420323030	Oroqen	oroq1238	clean	CLEAN	704		arʊ:n	arʊ:n 
+967	20-15-88-1	71018212594191715	Oroqen	oroq1238	dirty	DIRTY	1230		bʊdʒar	bʊdʒar 
+968	20-16-11-1	710182155949463683	Oroqen	oroq1238	the soul or spirit	SOUL	811		ʃunuʃu	ʃunuʃu 
+969	20-16-11-2	927253617992562	Oroqen	oroq1238	the soul or spirit	SOUL	811		ʃuʃi:	ʃuʃi: 
+970	20-16-15-1	710182228562835246	Oroqen	oroq1238	surprised or astonished	SURPRISED	1572		alawʊkɛ	alawʊkɛ 
+971	20-16-18-1	710182229734193928	Oroqen	oroq1238	the good luck	GOOD LUCK	720		aya pətətʃi	aya pətətʃi 
+972	20-16-19-1	710182230374971997	Oroqen	oroq1238	the bad luck	BAD LUCK	56		əru pətətʃi	əru pətətʃi 
+973	20-16-23-1	710182241595788008	Oroqen	oroq1238	happy	HAPPY	1495		urun	urun 
+974	20-16-25-1	71019750881318556	Oroqen	oroq1238	to laugh	LAUGH	1355		iɲə-	iɲə- 
+975	20-16-251-1	71019750881318556	Oroqen	oroq1238	to smile	SMILE	1451		iɲə-	iɲə- 
+976	20-16-26-1	7101984485715342	Oroqen	oroq1238	to play	PLAY	1413		əwi-	əwi- 
+977	20-16-27-1	71019814869809629	Oroqen	oroq1238	to love	LOVE	923		ayawu-	ayawu- 
+978	20-16-29-1	71019817266405078	Oroqen	oroq1238	to kiss	KISS	578		ɲukanɪ-	ɲukanɪ- 
+979	20-16-3-1	71019820882583153	Oroqen	oroq1238	to embrace	EMBRACE	928		ku:mnə-	ku:mnə- 
+980	20-16-31-1	71019857777034734	Oroqen	oroq1238	the pain	PAIN	1783		ənuku	ənuku 
+981	20-16-37-1	710191258458470704	Oroqen	oroq1238	to cry	CRY	1839		ʃɔŋɔ-	ʃɔŋɔ- 
+982	20-16-38-1	710191259445210101	Oroqen	oroq1238	the tear	TEAR (OF EYE)	1651		ɲamʊkta	ɲamʊkta 
+983	20-16-39-1	710191323865937	Oroqen	oroq1238	to groan	GROAN	716		mo:ro-	mo:ro- 
+984	20-16-41-1	71019133627063747	Oroqen	oroq1238	to hate	HATE	1607		tɪkʊ:n-	tɪkʊ:n- 
+985	20-16-52-1	710191823196558625	Oroqen	oroq1238	brave	BRAVE	3		katan	katan 
+986	20-16-62-1	710141545981870598	Oroqen	oroq1238	to want	WANT	1784		ga-	ga- 
+987	20-16-622-1	710191911191855594	Oroqen	oroq1238	to choose	CHOOSE	1750		ɪlga-	ɪlga- 
+988	20-16-63-1	71019201890601830	Oroqen	oroq1238	to hope	HOPE (SOMETHING)	3212		nuŋni-	nuŋni- 
+989	20-16-66-1	71019202184817012	Oroqen	oroq1238	true	TRUE	1657		tədʒə:	tədʒə: 
+990	20-16-67-1	71019204983767604	Oroqen	oroq1238	to lie(2)	LIE (MISLEAD)	601		olo:kit-	olo:kit- 
+991	20-16-69-1	71019206664816584	Oroqen	oroq1238	to forgive	FORGIVE	1528		anabʊ-	anabʊ- 
+992	20-16-71-1	71019207419905153	Oroqen	oroq1238	good	GOOD	1035		aya	aya 
+993	20-16-72-1	71019209378778934	Oroqen	oroq1238	bad	BAD	1292		əru	əru 
+994	20-16-73-1	71019201315173401	Oroqen	oroq1238	right(2)	CORRECT (RIGHT)	1725		dʒugtən	dʒugtən 
+995	20-16-74-1	710192049375414679	Oroqen	oroq1238	wrong	WRONG	1390		taʃiratʃa	taʃiratʃa 
+996	20-16-77-1	71021163231997440	Oroqen	oroq1238	the mistake	MISTAKE	1293		taʃɛ:n	taʃɛ:n 
+997	20-16-79-1	812291255394367219	Oroqen	oroq1238	the praise	PRAISE	1687		be:wyaŋ	be:wyaŋ 
+998	20-16-81-1	710211623248047676	Oroqen	oroq1238	beautiful	BEAUTIFUL	1427		ayamakan	ayamakan 
+999	20-16-82-1	710211627192473300	Oroqen	oroq1238	ugly	UGLY	1548		əru durutʃi	əru durutʃi 
+1000	20-16-84-1	710211658731679407	Oroqen	oroq1238	clever	CLEVER	1310		ʃɪrkan	ʃɪrkan 
+1001	20-17-13-1	710211658495845897	Oroqen	oroq1238	to think(1)	THINK (REFLECT)	1415		bɔdɔ-	bɔdɔ- 
+1002	20-17-15-1	71022151789775253	Oroqen	oroq1238	to believe	BELIEVE	1890		itəkə-	itəkə- 
+1003	20-17-16-1	71022153429759819	Oroqen	oroq1238	to understand	UNDERSTAND	1536		guru:-	guru:- 
+1004	20-17-17-1	71022154686238806	Oroqen	oroq1238	to know	KNOW (SOMETHING)	1410		ʃa:-	ʃa:- 
+1005	20-17-171-1	710221512694940342	Oroqen	oroq1238	to guess	GUESS	1932		ʃa:wukanan	ʃa:wukanan 
+1006	20-17-172-1	710221513111610593	Oroqen	oroq1238	to imitate	IMITATE	117		alama-	alama- 
+1007	20-17-19-1	710221527216009034	Oroqen	oroq1238	the idea	IDEA	1609		bɔdɔlgɔ	bɔdɔlgɔ 
+1008	20-17-21-1	710221529960664885	Oroqen	oroq1238	wise	WISE	698		ʃa:ri	ʃa:ri 
+1009	20-17-22-1	710221538622019839	Oroqen	oroq1238	stupid	STUPID	1518		bəbɛ:	bəbɛ: 
+1010	20-17-23-1	710221543425405115	Oroqen	oroq1238	mad	MAD	1899		bəltʃə	bəltʃə 
+1011	20-17-24-1	710221544664282535	Oroqen	oroq1238	to learn	LEARN	504		tat-	tat- 
+1012	20-17-242-1	710221544582913488	Oroqen	oroq1238	to study	STUDY	1929		tulə:-	tulə:- 
+1013	20-17-25-1	710221546326248614	Oroqen	oroq1238	to teach	TEACH	709		alawu-	alawu- 
+1014	20-17-26-1	710221547651951844	Oroqen	oroq1238	the pupil	PUPIL (STUDENT)	753		turəri kɔ:kan	turəri kɔ:kan 
+1015	20-17-27-1	710221550608556515	Oroqen	oroq1238	the teacher	TEACHER	1038		ʃəbu	ʃəbu 
+1016	20-17-28-1	710221552915115684	Oroqen	oroq1238	the school	SCHOOL	673		turəŋki	turəŋki 
+1017	20-17-28-2	927257245017841	Oroqen	oroq1238	the school	SCHOOL	673		suytan	suytan 
+1018	20-17-31-1	71022165445315470	Oroqen	oroq1238	to remember	REMEMBER	707		tɔktɔ-	tɔktɔ- 
+1019	20-17-31-2	92730604854019	Oroqen	oroq1238	to remember	REMEMBER	707		dʒɔ:n-	dʒɔ:n- 
+1020	20-17-32-1	71022166534484505	Oroqen	oroq1238	to forget	FORGET	1523		ɔmŋɔ-	ɔmŋɔ- 
+1021	20-17-34-1	710221826550081494	Oroqen	oroq1238	clear	CLEAR	989		guruptən	guruptən 
+1022	20-17-35-1	710221830592853850	Oroqen	oroq1238	obscure	OBSCURE	1764		əʃin guruptə	əʃin guruptə 
+1023	20-17-37-1	710222024182319694	Oroqen	oroq1238	certain	CERTAIN	509		tədʒə	tədʒə 
+1024	20-17-47-1	710222037348536638	Oroqen	oroq1238	difficult	DIFFICULT	584		mani	mani 
+1025	20-17-48-1	710222043117134551	Oroqen	oroq1238	to try	TRY	1812		tʃəndə-	tʃəndə- 
+1026	20-17-52-1	710222048740232753	Oroqen	oroq1238	because	BECAUSE	1157		dʒa:lin	dʒa:lin 
+1027	20-17-55-1	710222054713677428	Oroqen	oroq1238	yes	YES	1268		mətər	mətər 
+1028	20-17-56-1	710222056253009540	Oroqen	oroq1238	no	NO	1269		ə-	ə- 
+1029	20-17-61-1	710222058320516022	Oroqen	oroq1238	how?	HOW	1239		ɔ:n	ɔ:n 
+1030	20-17-62-1	71022210571864599	Oroqen	oroq1238	how many?	HOW MANY	822		ɔ:ki	ɔ:ki 
+1031	20-17-63-1	71022210571864599	Oroqen	oroq1238	how much?	HOW MUCH	531		ɔ:ki	ɔ:ki 
+1032	20-17-64-1	7102221388799808	Oroqen	oroq1238	what?	WHAT	1236		ikun	ikun 
+1033	20-17-65-1	7102221583867355	Oroqen	oroq1238	when?	WHEN	1238		alɪ	alɪ 
+1034	20-17-66-1	710222125436273270	Oroqen	oroq1238	where?	WHERE	1237		ilə/idu	ilə 
+1035	20-17-66-2	710222125436273270	Oroqen	oroq1238	where?	WHERE	1237		ilə/idu	idu 
+1036	20-17-67-1	710222126980642301	Oroqen	oroq1238	which?	WHICH	727		iri	iri 
+1037	20-17-68-1	710222128479623843	Oroqen	oroq1238	who?	WHO	1235		ni:	ni: 
+1038	20-17-69-1	710222128447655679	Oroqen	oroq1238	why?	WHY	1270		yɛ:da	yɛ:da 
+1039	20-18-11-1	710181424909234872	Oroqen	oroq1238	the voice	VOICE	1363		dɪlgan	dɪlgan 
+1040	20-18-12-1	710222132521039478	Oroqen	oroq1238	to sing	SING	1261		dʒa:nda-	dʒa:nda- 
+1041	20-18-13-1	710222133916470196	Oroqen	oroq1238	to shout	SHOUT	715		kʊ:nɪ-	kʊ:nɪ- 
+1042	20-18-15-1	710222134936239683	Oroqen	oroq1238	to whisper	WHISPER	55		ʃo:da-	ʃo:da- 
+1043	20-18-17-1	710222138446412360	Oroqen	oroq1238	to whistle	WHISTLE	1025		kikə:-	kikə:- 
+1044	20-18-19-1	710222147815247315	Oroqen	oroq1238	to howl	HOWL	526		bʊni-	bʊni- 
+1045	20-18-21-1	710222148441615913	Oroqen	oroq1238	to speak or talk	SPEAK	1623		ulgutʃə:n-	ulgutʃə:n- 
+1046	20-18-211-1	71022215027881177	Oroqen	oroq1238	to stutter or stammer	STUTTER	1866		kələkərdʒə:-	kələkərdʒə:- 
+1047	20-18-22-1	710222151131330968	Oroqen	oroq1238	to say	SAY	1458		un-	un- 
+1048	20-18-22-2	92735232953280	Oroqen	oroq1238	to say	SAY	1458		gun-	gun- 
+1049	20-18-221-1	710222153167171723	Oroqen	oroq1238	to tell	TELL	1711		nɪmŋakan-	nɪmŋakan- 
+1050	20-18-222-1	710222324235978032	Oroqen	oroq1238	the speech	SPEECH	1115		ulgur	ulgur 
+1051	20-18-23-1	710181427617721691	Oroqen	oroq1238	to be silent	BE SILENT	48		ʃi:p	ʃi:p 
+1052	20-18-24-1	710222324235978032	Oroqen	oroq1238	the language	LANGUAGE	1307		ulgur	ulgur 
+1053	20-18-26-1	710222324235978032	Oroqen	oroq1238	the word	WORD	1599		ulgur	ulgur 
+1054	20-18-28-1	710222329825980012	Oroqen	oroq1238	the name	NAME	1405		gərbi	gərbi 
+1055	20-18-31-1	710222330390503516	Oroqen	oroq1238	to ask(1)	ASK (INQUIRE)	1309		ulgumə-	ulgumə- 
+1056	20-18-31-2	927310262544628	Oroqen	oroq1238	to ask(1)	ASK (INQUIRE)	1309		aŋŋʊ-	aŋŋʊ- 
+1057	20-18-32-1	710222334248915787	Oroqen	oroq1238	to answer	ANSWER	1275		dʒarɪwla-	dʒarɪwla- 
+1058	20-18-32-2	927313226980941	Oroqen	oroq1238	to answer	ANSWER	1275		karɪwla:-	karɪwla:- 
+1059	20-18-35-1	71015951429575033	Oroqen	oroq1238	to ask(2)	ASK (REQUEST)	1828		gələ:-	gələ:- 
+1060	20-18-39-1	710222342123187232	Oroqen	oroq1238	to scold	SCOLD	299		turə:-	turə:- 
+1061	20-18-41-1	710222345166754437	Oroqen	oroq1238	to call(1)	CALL	1084		əməwukənən	əməwukənən 
+1062	20-18-42-1	710222347840770800	Oroqen	oroq1238	to call(2)	CALL BY NAME	180		ə:ri-	ə:ri- 
+1063	20-18-43-1	710222348960196837	Oroqen	oroq1238	to announce	ANNOUNCE	9		ʃa:wukanan	ʃa:wukanan 
+1064	20-18-44-1	710222349919481474	Oroqen	oroq1238	to threaten	THREATEN	1192		kaldɪ-	kaldɪ- 
+1065	20-18-45-1	710222351382033650	Oroqen	oroq1238	to boast	BOAST	101		dəyər-	dəyər- 
+1066	20-18-51-1	710111411287215924	Oroqen	oroq1238	to write	WRITE	1672		ɔ:-	ɔ:- 
+1067	20-18-52-1	710222356295666411	Oroqen	oroq1238	to read	READ	724		tu:rə:-	tu:rə:- 
+1068	20-18-56-1	710222358425201755	Oroqen	oroq1238	the paper	PAPER	648		tʃa:ʃʊn	tʃa:ʃʊn 
+1069	20-18-57-1	710222359808957559	Oroqen	oroq1238	the pen	PEN	794		gambi	gambi 
+1070	20-18-57-2	927316340945633	Oroqen	oroq1238	the pen	PEN	794		kɛrəndɛr	kɛrəndɛr 
+1071	20-18-61-1	7102307376445217	Oroqen	oroq1238	the book	BOOK	963		bitəgə (phonetically bitəɣə)	bitəgə (phonetically bitəɣə) 
+1072	20-18-73-1	71023010452035095	Oroqen	oroq1238	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		wulə:wun	wulə:wun 
+1073	20-19-11-1	71023013850143954	Oroqen	oroq1238	the country	COUNTRY	1300		gurun	gurun 
+1074	20-19-15-1	71023015294717899	Oroqen	oroq1238	the town	TOWN	1391		kʊtʊn	kʊtʊn 
+1075	20-19-15-2	927321724845901	Oroqen	oroq1238	the town	TOWN	1391		ayir	ayir 
+1076	20-19-16-1	71023018129974760	Oroqen	oroq1238	the village	VILLAGE	930		ulirən	ulirən 
+1077	20-19-16-2	927323999431205	Oroqen	oroq1238	the village	VILLAGE	930		ulirək	ulirək 
+1078	20-19-16-3	927326950196337	Oroqen	oroq1238	the village	VILLAGE	930		ayir-kan	ayir-kan 
+1079	20-19-21-1	71023020776681872	Oroqen	oroq1238	the people	PEOPLE	789		bəyəl	bəyəl 
+1080	20-19-23-1	71023018129974760	Oroqen	oroq1238	the clan	CLAN	302		ulirən	ulirən 
+1081	20-19-24-1	71023026118708165	Oroqen	oroq1238	the chieftain	CHIEFTAIN	301		dʒaŋgin	dʒaŋgin 
+1082	20-19-25-1	71023028408620299	Oroqen	oroq1238	the walking stick	WALKING STICK	1296		tə:wun	tə:wun 
+1083	20-19-31-1	71023037738834719	Oroqen	oroq1238	to rule or govern	RULE	1846		ədʒəla-	ədʒəla- 
+1084	20-19-41-1	71023045369761584	Oroqen	oroq1238	the master	MASTER	383		ədʒən	ədʒən 
+1085	20-19-42-1	71023048110781735	Oroqen	oroq1238	the slave	SLAVE	812		ɔrbɔnik	ɔrbɔnik 
+1086	20-19-43-1	71023050321713866	Oroqen	oroq1238	the servant	SERVANT	255		takʊratʃɪn	takʊratʃɪn 
+1087	20-19-51-1	710231049386479613	Oroqen	oroq1238	the friend	FRIEND	1325		gutʃu	gutʃu 
+1088	20-19-51-2	927330121551057	Oroqen	oroq1238	the friend	FRIEND	1325		kəwə	kəwə 
+1089	20-19-52-1	710231326148266662	Oroqen	oroq1238	the enemy	ENEMY	1358		bata (bəyə)	bata (bəyə) 
+1090	20-19-54-1	71023146769609178	Oroqen	oroq1238	the neighbour	NEIGHBOUR	1332		darɪlta	darɪlta 
+1091	20-19-55-1	71023149281576257	Oroqen	oroq1238	the stranger	STRANGER	791		aʃɪ taktɪ bəyə	aʃɪ taktɪ bəyə 
+1092	20-19-57-1	710231420157517195	Oroqen	oroq1238	the host	HOST	1545		ədʒən bəyə	ədʒən bəyə 
+1093	20-19-58-1	710231423881276306	Oroqen	oroq1238	to help	HELP	1897		bərə-	bərə- 
+1094	20-19-59-1	710231424545961178	Oroqen	oroq1238	to prevent	PREVENT	1550		mʊlan-	mʊlan- 
+1095	20-19-61-1	710231424464794950	Oroqen	oroq1238	the custom	CUSTOM	1747		iti	iti 
+1096	20-19-62-1	710231513858976613	Oroqen	oroq1238	the quarrel	QUARREL	1848		turə:mətək	turə:mətək 
+1097	20-19-65-1	710231515965041251	Oroqen	oroq1238	to meet	MEET	1831		bakaldi-	bakaldi- 
+1098	20-19-72-1	710231516421160074	Oroqen	oroq1238	the prostitute	PROSTITUTE	1610		gi:kə	gi:kə 
+1099	20-20-11-1	71023151874495100	Oroqen	oroq1238	to fight	FIGHT	1423		wa:ldɪ-	wa:ldɪ- 
+1100	20-20-13-1	71023152097275593	Oroqen	oroq1238	the war or battle	BATTLE	579		wa:ldɪn	wa:ldɪn 
+1101	20-20-14-1	710231522702886750	Oroqen	oroq1238	the peace	PEACE	1338		taypin	taypin 
+1102	20-20-15-1	710231526114431406	Oroqen	oroq1238	the army	ARMY	1561		alban	alban 
+1103	20-20-17-1	710231550842557582	Oroqen	oroq1238	the soldier	SOLDIER	1941		tʃuwa (bəyə)	tʃuwa (bəyə) 
+1104	20-20-21-1	710231622995556051	Oroqen	oroq1238	the weapons	WEAPONS	951		wukə	wukə 
+1105	20-20-24-1	710231638748486684	Oroqen	oroq1238	the bow	BOW	994		bər	bər 
+1106	20-20-25-1	710231638240293021	Oroqen	oroq1238	the arrow	ARROW	977		luki	luki 
+1107	20-20-26-1	710231639756095829	Oroqen	oroq1238	the spear	SPEAR	945		gɪda	gɪda 
+1108	20-20-27-1	710231644483063778	Oroqen	oroq1238	the sword	SWORD	1535		ʃələmi	ʃələmi 
+1109	20-20-28-1	7102317910885167	Oroqen	oroq1238	the gun	GUN	1566		mɪwtʃa:n	mɪwtʃa:n 
+1110	20-20-34-1	710231710386608942	Oroqen	oroq1238	the shield	SHIELD	1064		akʊ:ŋki	akʊ:ŋki 
+1111	20-20-45-1	710231724163023038	Oroqen	oroq1238	to retreat	RETREAT	421		mʊtʃʊ-	mʊtʃʊ- 
+1112	20-20-471-1	710231727979610849	Oroqen	oroq1238	the guard	GUARD	1940		karawʊrɪ	karawʊrɪ 
+1113	20-20-51-1	710231744115200619	Oroqen	oroq1238	the fisherman	FISHERMAN	1858		ɔlɔmɪrɪ	ɔlɔmɪrɪ 
+1114	20-20-52-1	71023174998448642	Oroqen	oroq1238	the fishhook	FISHHOOK	1074		uməkɛn	uməkɛn 
+1115	20-20-53-1	710231750430390199	Oroqen	oroq1238	the fishing line	FISHING LINE	19		uməkɛnŋi ʃirəktə	uməkɛnŋi ʃirəktə 
+1116	20-20-54-1	710231752504219479	Oroqen	oroq1238	the fishnet	FISHNET	388		adɪl	adɪl 
+1117	20-20-56-1	710231754627281062	Oroqen	oroq1238	the bait	BAIT	2013		dʒəbtulukɛ	dʒəbtulukɛ 
+1118	20-20-61-1	710231755596199505	Oroqen	oroq1238	to hunt	HUNT	1435		bəyu:-	bəyu:- 
+1119	20-20-62-1	710231757821425604	Oroqen	oroq1238	to shoot	SHOOT	1172		ɔ:də:-	ɔ:də:- 
+1120	20-20-63-1	71023180536822724	Oroqen	oroq1238	to miss	MISS (A TARGET)	161		ʊra- (1)	ʊra- (1) 
+1121	20-20-64-1	7102321974668220	Oroqen	oroq1238	the trap	TRAP (PITFALL)	1075		kaptʃɪŋki	kaptʃɪŋki 
+1122	20-20-65-1	710232110211838957	Oroqen	oroq1238	to trap	TRAP (CATCH)	1170		kaptʃɪ-	kaptʃɪ- 
+1123	20-21-15-1	710232113109414659	Oroqen	oroq1238	the court	COURT	1068		ʃamʊn	ʃamʊn 
+1124	20-21-21-1	710232119557132800	Oroqen	oroq1238	the plaintiff	PLAINTIFF	2020		kawukɛ:ptɪla bəyə	kawukɛ:ptɪla bəyə 
+1125	20-21-22-1	710232121593432447	Oroqen	oroq1238	the defendant	DEFENDANT	1034		kawukɛ:wuptɪla bəyə	kawukɛ:wuptɪla bəyə 
+1126	20-21-32-1	710232125687472380	Oroqen	oroq1238	to condemn	CONDEMN	484		niŋi:-	niŋi:- 
+1127	20-21-39-1	710232128660839751	Oroqen	oroq1238	the prison	PRISON	1281		balika	balika 
+1128	20-21-51-1	710232159495728063	Oroqen	oroq1238	to steal	STEAL	713		kʊlaka-	kʊlaka- 
+1129	20-21-52-1	710232159130387751	Oroqen	oroq1238	the thief	THIEF	1160		kʊlaka	kʊlaka 
+1130	20-22-12-1	71023220640386849	Oroqen	oroq1238	the god	DEITY	3231		bʊrkan	bʊrkan 
+1131	20-22-15-1	71023221447534582	Oroqen	oroq1238	the sacrifice	SACRIFICE	1103		baytɪlaptɪn	baytɪlaptɪn 
+1132	20-22-16-1	71023223434491384	Oroqen	oroq1238	to worship	WORSHIP	257		murgu-	murgu- 
+1133	20-22-17-1	71023225938301503	Oroqen	oroq1238	to pray	PRAY	24		amŋat-	amŋat- 
+1134	20-22-24-1	71023228978692980	Oroqen	oroq1238	to curse	CURSE	8		kara-	kara- 
+1135	20-22-31-1	79191940708494439	Oroqen	oroq1238	the heaven	HEAVEN	1565		bʊwa	bʊwa 
+1136	20-22-32-1	710232212705371797	Oroqen	oroq1238	the hell	HELL	878		imoŋkan	imoŋkan 
+1137	20-22-35-1	710232217809706206	Oroqen	oroq1238	the demon	DEMON	1973		ʃirkul	ʃirkul 
+1138	20-22-45-1	710232217809706206	Oroqen	oroq1238	the ghost	GHOST	1175		ʃirkul	ʃirkul 
+1139	20-23-14-1	710232232469519720	Oroqen	oroq1238	the car	CAR	1111		tʃi:tʃə:	tʃi:tʃə: 
+1140	20-23-15-1	71014130893720448	Oroqen	oroq1238	the bus	BUS	1070		tərgən	tərgən 
+1141	20-23-16-1	710232245345556867	Oroqen	oroq1238	the airplane	AIRPLANE	1597		ɸəytin	ɸəytin 
+1142	20-23-17-1	71023232148048656	Oroqen	oroq1238	the electricity	ELECTRICITY	59		de:n	de:n 
+1143	20-23-22-1	71023238795417706	Oroqen	oroq1238	the pill or tablet	PILL	395		ə:m	ə:m 
+1144	20-23-52-1	71024955288299985	Oroqen	oroq1238	the toilet	TOILET	219		amʊrʊk	amʊrʊk 
+1145	20-23-53-1	71024101459776522	Oroqen	oroq1238	the mattress	MATTRESS	105		tara:mal	tara:mal 
+1146	20-23-32-1	71024107826399802	Oroqen	oroq1238	the minister	MINISTER	486		bu:dʒaŋ	bu:dʒaŋ 
+1147	20-23-42-1	710241012182014459	Oroqen	oroq1238	the letter	LETTER	1612		bitə:	bitə: 
+1148	20-23-42-2	927333933700351	Oroqen	oroq1238	the letter	LETTER	1612		dʒaʃiɣan	dʒaʃiɣan 
+1149	20-23-44-1	71024111418681925	Oroqen	oroq1238	the bank	BANK	1284		inxaŋ	inxaŋ 
+1150	20-23-54-1	710241113851378312	Oroqen	oroq1238	the tin/can	CAN	1051		kuŋgulə:	kuŋgulə: 
+1151	20-23-55-1	710241250699791316	Oroqen	oroq1238	the screw	SCREW	1802		ʃɪrʊp	ʃɪrʊp 
+1152	20-23-555-1	71024125176719985	Oroqen	oroq1238	the screwdriver	SCREWDRIVER	836		ʃɪrʊp kɔtɔ	ʃɪrʊp kɔtɔ 
+1153	20-23-56-1	710241335416116398	Oroqen	oroq1238	the bottle	BOTTLE	1321		butyɛrkə	butyɛrkə 
+1154	20-23-56-2	71011222131398541	Oroqen	oroq1238	the bottle	BOTTLE	1321		gu:	gu: 
+1155	20-23-565-1	710241337219877256	Oroqen	oroq1238	the candy/sweets	CANDY	874		kanpɛkta	kanpɛkta 
+1156	20-23-24-1	710241348745710358	Oroqen	oroq1238	the spectacles/glasses	SPECTACLES	1898		ʃalaptʃɪ	ʃalaptʃɪ 
+1157	20-23-58-1	710241350900494000	Oroqen	oroq1238	the workshop	WORKSHOP	1677		guŋtʃaŋ	guŋtʃaŋ 
+1158	20-23-59-1	710111242831429238	Oroqen	oroq1238	the cigarette	CIGARETTE	969		damga	damga 
+1159	20-23-62-1	710241357329368353	Oroqen	oroq1238	the film/movie	MOVIE	216		de:nyəŋ	de:nyəŋ 
+1160	20-23-64-1	71024150141217396	Oroqen	oroq1238	the song	SONG	1096		dʒa:ndalga	dʒa:ndalga 
+1161	20-23-19-1	710241514192350810	Oroqen	oroq1238	the machine	MACHINE	144		maʃin	maʃin 
+1162	20-23-13-1	710241522556101972	Oroqen	oroq1238	the bicycle	BICYCLE	747		tərgəkən	tərgəkən 
+1163	20-23-395-1	710241531169998601	Oroqen	oroq1238	the street	STREET	1362		gɛ:	gɛ: 
+1164	20-24-01-1	710241550800625334	Oroqen	oroq1238	to be	BE	1579		bi-	bi- 
+1165	20-24-05-1	710241553507866688	Oroqen	oroq1238	through	THROUGH	97		dulə:-	dulə:- 
+1166	20-24-13-1	710241554392809626	Oroqen	oroq1238	same	SAME	200		umun nandar	umun nandar 
+1167	20-24-13-2	927343619858828	Oroqen	oroq1238	same	SAME	200		umun duru-tʃi	umun duru-tʃi 
+1168	20-24-06-1	710222056253009540	Oroqen	oroq1238	not	NOT	1240		ə-	ə- 
+1169	20-24-07-1	71024162699939329	Oroqen	oroq1238	this	THIS	1214		əri	əri 
+1170	20-24-08-1	9252153545328562	Oroqen	oroq1238	that	THAT	78		tarɪ	tarɪ 
+1171	20-24-09-1	71024162283113727	Oroqen	oroq1238	here	HERE	136		ədu	ədu 
+1172	20-24-1-1	7102416338231961	Oroqen	oroq1238	there	THERE	1937		tadu	tadu 
+1173	20-24-11-1	710241940427528936	Oroqen	oroq1238	other	OTHER	197		oŋtu	oŋtu 
+1174	20-23-9-1	710241959472291940	Oroqen	oroq1238	the tea	TEA	1373		tʃay	tʃay 
+1175	20-3-863-1	79252049347329220	Oroqen	oroq1238	the hare	HARE	1190		tʊkʃakɪ	tʊkʃakɪ 
+1176	20-3-869-1	710242116930053921	Oroqen	oroq1238	the squirrel	SQUIRREL	1628		urkitʃɛn	urkitʃɛn 
+1177	20-3-871-1	711191428201462691	Oroqen	oroq1238	the reindeer/caribou	REINDEER	1876		ɔrɔn (2)	ɔrɔn (2) 
+1178	20-3-872-1	710242121227294871	Oroqen	oroq1238	the elk/moose	ELK	1772		bəyun	bəyun 
+1179	20-10-79-1	710242131460816125	Oroqen	oroq1238	the sledge/sled	SLED	16		pa:ra	pa:ra 
+1180	20-4-465-1	710242144718807779	Oroqen	oroq1238	the sinew or tendon	TENDON	1137		munŋi	munŋi 
+1181	20-8-996-1	71024224551202161	Oroqen	oroq1238	the cone	CONE	287		tʃʊlɪka	tʃʊlɪka 
+1182	20-3-8112-1	71024225121822791	Oroqen	oroq1238	the body louse	BODY LOUSE	311		kuŋkə:	kuŋkə: 
+1183	20-9-93-1	71024226858369938	Oroqen	oroq1238	the whetstone	WHETSTONE	295		ləkə	ləkə 
+1184	20-7-65-1	710242237671253871	Oroqen	oroq1238	the camp	CAMP	1105		uriniŋki	uriniŋki 
+1185	20-8-28-1	710242239912257887	Oroqen	oroq1238	the digging stick (=yamstick)	DIGGING STICK	339		mukərə	mukərə 
+1186	20-3-834-1	79262020255357183	Oroqen	oroq1238	the termites	TERMITE	883		iriktə	iriktə 
+1187	20-3-835-1	71024225121822791	Oroqen	oroq1238	the tick	TICK	1527		kuŋkə:	kuŋkə: 
+1188	20-8-911-1	710242259560060693	Oroqen	oroq1238	the millet or sorghum	MILLET	931		nalɛmʊ:	nalɛmʊ: 
+1189	20-8-911-2	927348442107145	Oroqen	oroq1238	the millet or sorghum	MILLET	931		ʃidʒimyə	ʃidʒimyə 
+1190	20-8-911-3	927349899032636	Oroqen	oroq1238	the millet or sorghum	MILLET	931		gawle:n	gawle:n 
+1191	20-9-9-1	711191443103459487	Oroqen	oroq1238	to draw water	DRAW (WATER)	1911		mu:lə:-	mu:lə:- 
+1192	20-9-91-1	71024237264571358	Oroqen	oroq1238	the peg	PEG	361		lɔkɔŋki	lɔkɔŋki 
+1193	20-10-58-1	71024239440376958	Oroqen	oroq1238	to go or return home	RETURN HOME	142		dʒu:layi yabʊran	dʒu:layi yabʊran 
+1194	20-1-831-1	710242312488579986	Oroqen	oroq1238	the steam	STEAM	1193		ʃəbgin	ʃəbgin 
+1195	20-2-5-1	710242328525758918	Oroqen	oroq1238	the grandchild	GRANDCHILD	1617		ɔmɔlɛ	ɔmɔlɛ 
+1196	20-2-931-1	710242331650023225	Oroqen	oroq1238	he	HE	1211		nɔ:nin	nɔ:nin 
+1197	20-2-932-1	710242331650023225	Oroqen	oroq1238	she	SHE	1834		nɔ:nin	nɔ:nin 
+1198	20-2-933-1	710242333317816803	Oroqen	oroq1238	it	IT	169		tari	tari 
+1199	20-4-741-1	710242336211161646	Oroqen	oroq1238	the life	LIFE	210		bardilga	bardilga 
+1200	20-4-844-1	710242338244557477	Oroqen	oroq1238	the disease	DISEASE	1986		ənuk	ənuk 
+1201	20-7-232-1	710242341553419401	Oroqen	oroq1238	the padlock	PADLOCK	336		yakʃiŋki	yakʃiŋki 
+1202	20-11-29-1	710242344145147696	Oroqen	oroq1238	to damage	DAMAGE	1116		əbdə-	əbdə- 
+1203	20-12-081-1	710242345190278314	Oroqen	oroq1238	above	ABOVE	1741		uyilə:	uyilə: 
+1204	20-13-231-1	710242346171961184	Oroqen	oroq1238	the piece	PIECE	594		umun atʃi	umun atʃi 
+1205	20-13-331-1	710242348693512672	Oroqen	oroq1238	alone	ALONE	1964		əmukən	əmukən 
+1206	20-14-251-1	71119155763242684	Oroqen	oroq1238	the beginning	BEGINNING	1557		təlindun	təlindun 
+1207	20-14-411-1	710172214662521615	Oroqen	oroq1238	the day(2)	DAY (NOT NIGHT)	1225		inəŋ	inəŋ 
+1208	20-4-7501-1	710242355702821980	Oroqen	oroq1238	dead	DEAD	1625		buptɪlə:	buptɪlə: 
+1209	20-4-8541-1	710242358320226373	Oroqen	oroq1238	to scratch	SCRATCH	1436		ʊkɪ:-	ʊkɪ:- 
+1210	20-9-111-1	710111411287215924	Oroqen	oroq1238	to make	MAKE	734		ɔ:-	ɔ:- 
+1211	20-4-431-1	710242359930878285	Oroqen	oroq1238	the belly	BELLY	1251		gudə:	gudə: 
+1212	20-9-311-1	7102500552906994	Oroqen	oroq1238	to wipe	WIPE	1454		awʊ-	awʊ- 
+1213	20-1-775-1	7102500872721968	Oroqen	oroq1238	to freeze	FREEZE	1431		dɔŋɔtɔ-	dɔŋɔtɔ- 

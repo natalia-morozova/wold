@@ -1,0 +1,1891 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	1-1-1-1	72141734767181903	Swahili	swah1253	the world	WORLD	965		dunia	dunia 
+2	1-1-1-2	72141734906279624	Swahili	swah1253	the world	WORLD	965		ulimwengu	ulimwengu 
+3	1-1-21-1	72141734812482057	Swahili	swah1253	the land	LAND	626		nchi kavu	nchi kavu 
+4	1-1-212-1	72141734313640252	Swahili	swah1253	the soil	EARTH (SOIL)	1228		udongo	udongo 
+5	1-1-213-1	72141734161606575	Swahili	swah1253	the dust	DUST	2		vumbi	vumbi 
+6	1-1-214-1	7214173473864537	Swahili	swah1253	the mud	MUD	640		matope	matope 
+7	1-1-215-1	7214173446337910	Swahili	swah1253	the sand	SAND	671		mchanga	mchanga 
+8	1-1-22-1	72141734865344128	Swahili	swah1253	the mountain or hill	MOUNTAIN OR HILL	2118		mlima	mlima 
+9	1-1-22-2	72141734232914260	Swahili	swah1253	the mountain or hill	MOUNTAIN OR HILL	2118		kilima	kilima 
+10	1-1-222-1	72141734597716169	Swahili	swah1253	the cliff or precipice	PRECIPICE	618		mwamba (1)	mwamba (1) 
+11	1-1-23-1	72141734806652882	Swahili	swah1253	the plain	PLAIN	652		tambarare	tambarare 
+12	1-1-24-1	72141734799967364	Swahili	swah1253	the valley	VALLEY	921		bonde	bonde 
+13	1-1-25-1	72141734651705783	Swahili	swah1253	the island	ISLAND	622		kisiwa	kisiwa 
+14	1-1-26-1	72141734897507294	Swahili	swah1253	the mainland	MAINLAND	166		bara	bara 
+15	1-1-27-1	72141734405266778	Swahili	swah1253	the shore	SHORE	113		ufuko	ufuko 
+16	1-1-27-2	72141734468573235	Swahili	swah1253	the shore	SHORE	113		pwani	pwani 
+17	1-1-28-1	72141734235986354	Swahili	swah1253	the cave	CAVE	1155		pango	pango 
+18	1-1-31-1	72141734413919236	Swahili	swah1253	the water	WATER	948		maji	maji 
+19	1-1-32-1	72141734733972818	Swahili	swah1253	the sea	SEA	1474		bahari	bahari 
+20	1-1-322-1	72141734753797503	Swahili	swah1253	calm	CALM	258		shwari, shuwari	shwari 
+21	1-1-322-2	72141734753797503	Swahili	swah1253	calm	CALM	258		shwari, shuwari	shuwari 
+22	1-1-323-1	72141734366787286	Swahili	swah1253	rough(2)	ROUGH (OF SEA)	259		-chafuka	-chafuka 
+23	1-1-324-1	72141734241171082	Swahili	swah1253	the foam	FOAM	1768		povu	povu 
+24	1-1-329-1	72141734733972818	Swahili	swah1253	the ocean	OCEAN	645		bahari	bahari 
+25	1-1-33-1	72141734587220793	Swahili	swah1253	the lake	LAKE	624		ziwa (1)	ziwa (1) 
+26	1-1-34-1	72141734990270818	Swahili	swah1253	the bay	BAY	663		ghuba	ghuba 
+27	1-1-341-1	72141734220900917	Swahili	swah1253	the lagoon	LAGOON	623		wangwa	wangwa 
+28	1-1-342-1	72141734597716169	Swahili	swah1253	the reef	REEF	660		mwamba (1)	mwamba (1) 
+29	1-1-343-1	72141734569661780	Swahili	swah1253	the cape	CAPE	1662		rasi	rasi 
+30	1-1-35-1	7214173422706281	Swahili	swah1253	the wave	WAVE	978		wimbi (1)	wimbi (1) 
+31	1-1-352-1	72141734969817644	Swahili	swah1253	the tide	TIDE	891		maji (ya) kujaa na kupwa	maji (ya) kujaa na kupwa 
+32	1-1-353-1	72141734705744186	Swahili	swah1253	the low tide	LOW TIDE	1026		maji kupwa	maji kupwa 
+33	1-1-354-1	72141734247346367	Swahili	swah1253	the high tide	HIGH TIDE	613		maji kujaa	maji kujaa 
+34	1-1-36-1	72141734322162883	Swahili	swah1253	the river or stream	RIVER	666		mto (1)	mto (1) 
+35	1-1-37-1	72141734356008133	Swahili	swah1253	the spring or well	SPRING OR WELL	2144		chemchemi	chemchemi 
+36	1-1-37-2	72141734591558666	Swahili	swah1253	the spring or well	SPRING OR WELL	2144		kisima	kisima 
+37	1-1-38-1	72141734764488356	Swahili	swah1253	the swamp	SWAMP	1145		kinamasi	kinamasi 
+38	1-1-39-1	72141734459410620	Swahili	swah1253	the waterfall	WATERFALL	943		maporomoko (ya maji)	maporomoko (ya maji) 
+39	1-1-41-1	72141734600802401	Swahili	swah1253	the woods or forest	FOREST	420		msitu	msitu 
+40	1-1-41-2	72141734926941862	Swahili	swah1253	the woods or forest	FOREST	420		mwitu	mwitu 
+41	1-1-43-1	72141734640277976	Swahili	swah1253	the wood	WOOD	1803		mti	mti 
+42	1-1-44-1	72141734232643620	Swahili	swah1253	the stone or rock	STONE OR ROCK	2125		jiwe	jiwe 
+43	1-1-45-1	72141734499718747	Swahili	swah1253	the earthquake	EARTHQUAKE	6		tetemeko (la ardhi)	tetemeko (la ardhi) 
+44	1-1-51-1	7214173447358913	Swahili	swah1253	the sky	SKY	1732		mbingu	mbingu 
+45	1-1-51-2	72141734613323082	Swahili	swah1253	the sky	SKY	1732		anga	anga 
+46	1-1-52-1	72141734399541392	Swahili	swah1253	the sun	SUN	1343		jua	jua 
+47	1-1-53-1	72141734792761872	Swahili	swah1253	the moon	MOON	1313		mwezi	mwezi 
+48	1-1-54-1	72141734580673162	Swahili	swah1253	the star	STAR	1430		nyota	nyota 
+49	1-1-55-1	72141734989805434	Swahili	swah1253	the lightning	LIGHTNING	1654		umeme	umeme 
+50	1-1-56-1	72141734921236805	Swahili	swah1253	the thunder	THUNDER	1150		ngurumo	ngurumo 
+51	1-1-57-1	72141734345377079	Swahili	swah1253	the bolt of lightning	BOLT (OF LIGHTNING)	2007		radi	radi 
+52	1-1-58-1	72141734894994887	Swahili	swah1253	the storm	STORM	858		tufani	tufani 
+53	1-1-58-2	7214173485337954	Swahili	swah1253	the storm	STORM	858		dhoruba, dharuba	dhoruba 
+54	1-1-58-3	7214173485337954	Swahili	swah1253	the storm	STORM	858		dhoruba, dharuba	dharuba 
+55	1-1-58-4	72141734860867464	Swahili	swah1253	the storm	STORM	858		kimbunga	kimbunga 
+56	1-1-59-1	72141734551557829	Swahili	swah1253	the rainbow	RAINBOW	1733		upinde (wa mvua)	upinde (wa mvua) 
+57	1-1-61-1	721417342425638	Swahili	swah1253	the light	LIGHT (RADIATION)	630		mwanga	mwanga 
+58	1-1-61-2	72141734181728517	Swahili	swah1253	the light	LIGHT (RADIATION)	630		nuru	nuru 
+59	1-1-62-1	72141734488724443	Swahili	swah1253	the darkness	DARKNESS	11		giza, kiza	giza 
+60	1-1-62-2	72141734488724443	Swahili	swah1253	the darkness	DARKNESS	11		giza, kiza	kiza 
+61	1-1-63-1	72141734400519114	Swahili	swah1253	the shade or shadow	SHADE	1388		kivuli	kivuli 
+62	1-1-64-1	72141734155622454	Swahili	swah1253	the dew	DEW	1977		umande	umande 
+63	1-1-71-1	72141734369942498	Swahili	swah1253	the air	AIR	27		hewa	hewa 
+64	1-1-72-1	72141734923035156	Swahili	swah1253	the wind	WIND	960		upepo	upepo 
+65	1-1-73-1	72141734112605175	Swahili	swah1253	the cloud	CLOUD	1489		wingu	wingu 
+66	1-1-74-1	72141734569992577	Swahili	swah1253	the fog	FOG	249		ukungu	ukungu 
+67	1-1-75-1	72141734923637309	Swahili	swah1253	the rain	RAIN (PRECIPITATION)	658		mvua	mvua 
+68	1-1-76-1	72141734506739816	Swahili	swah1253	the snow	SNOW	784		theluji	theluji 
+69	1-1-77-1	72141734203550583	Swahili	swah1253	the ice	ICE	617		barafu	barafu 
+70	1-1-78-1	7214173468206215	Swahili	swah1253	the weather	WEATHER	952		hali ya hewa	hali ya hewa 
+71	1-1-81-1	72141734209593371	Swahili	swah1253	the fire	FIRE	221		moto	moto 
+72	1-1-82-1	721417346841618	Swahili	swah1253	the flame	FLAME	889		ulimi wa moto	ulimi wa moto 
+73	1-1-82-2	72141734130936338	Swahili	swah1253	the flame	FLAME	889		mwali	mwali 
+74	1-1-83-1	72141734292886935	Swahili	swah1253	the smoke	SMOKE (EXHAUST)	778		moshi	moshi 
+75	1-1-84-1	72141734370158572	Swahili	swah1253	the ash	ASH	646		jivu	jivu 
+76	1-1-841-1	72141734567929011	Swahili	swah1253	the embers	EMBERS	67		makaa (ya moto)	makaa (ya moto) 
+77	1-1-851-1	72141734966997858	Swahili	swah1253	to burn(1)	BURN (SOMETHING)	141		-unguza	-unguza 
+78	1-1-852-1	72141734100375335	Swahili	swah1253	to burn(2)	BURNING	1428		-ungua	-ungua 
+79	1-1-852-2	72141734722080724	Swahili	swah1253	to burn(2)	BURNING	1428		-waka	-waka 
+80	1-1-86-1	72141734523699375	Swahili	swah1253	to light	LIGHT (IGNITE)	737		-washa	-washa 
+81	1-1-861-1	72141734436403343	Swahili	swah1253	to extinguish	EXTINGUISH	127		-zima (1)	-zima (1) 
+82	1-1-87-1	72141734543348986	Swahili	swah1253	the match	MATCH	1133		kiberiti	kiberiti 
+83	1-1-88-1	72141734552069036	Swahili	swah1253	the firewood	FIREWOOD	10		kuni	kuni 
+84	1-1-89-1	72141734171962662	Swahili	swah1253	the charcoal	CHARCOAL	1188		makaa	makaa 
+85	1-2-1-1	72141734588749191	Swahili	swah1253	the person	PERSON	683		mtu	mtu 
+86	1-2-21-1	72141734977210768	Swahili	swah1253	the man	MAN	1554		mwanamume	mwanamume 
+87	1-2-22-1	72141734905343612	Swahili	swah1253	the woman	WOMAN	962		mwanamke	mwanamke 
+88	1-2-23-1	7214173425195805	Swahili	swah1253	male(1)	MALE (OF ANIMAL)	2263		kiume	kiume 
+89	1-2-24-1	72141734847920949	Swahili	swah1253	female(1)	FEMALE (OF PERSON)	2260		kike	kike 
+90	1-2-25-1	72141734619162467	Swahili	swah1253	the boy	BOY	1366		mtoto	mtoto 
+91	1-2-251-1	72141734249283301	Swahili	swah1253	the young man	YOUNG MAN	76		mvulana	mvulana 
+92	1-2-251-2	7214173497600954	Swahili	swah1253	the young man	YOUNG MAN	76		kijana	kijana 
+93	1-2-26-1	72141734619162467	Swahili	swah1253	the girl	GIRL	1646		mtoto	mtoto 
+94	1-2-261-1	72141734724204552	Swahili	swah1253	the young woman	YOUNG WOMAN	77		msichana	msichana 
+95	1-2-261-2	7214173497600954	Swahili	swah1253	the young woman	YOUNG WOMAN	77		kijana	kijana 
+96	1-2-27-1	72141734619162467	Swahili	swah1253	the child(1)	CHILD (YOUNG HUMAN)	1304		mtoto	mtoto 
+97	1-2-28-1	72141734189280051	Swahili	swah1253	the baby	BABY	1289		mtoto mchanga	mtoto mchanga 
+98	1-2-31-1	7214173411116665	Swahili	swah1253	the husband	HUSBAND	1200		mume	mume 
+99	1-2-32-1	72141734979860030	Swahili	swah1253	the wife	WIFE	1199		mke	mke 
+100	1-2-33-1	7214173477975226	Swahili	swah1253	to marry	MARRY	203		-oa	-oa 
+101	1-2-33-2	72141734132883462	Swahili	swah1253	to marry	MARRY	203		-olewa	-olewa 
+102	1-2-34-1	72141734951726920	Swahili	swah1253	the wedding	WEDDING	1259		arusi, harusi	arusi 
+103	1-2-34-2	72141734951726920	Swahili	swah1253	the wedding	WEDDING	1259		arusi, harusi	harusi 
+104	1-2-341-1	7214173413825208	Swahili	swah1253	the divorce	DIVORCE	1134		talaka	talaka 
+105	1-2-35-1	72141734822594045	Swahili	swah1253	the father	FATHER	1217		baba	baba 
+106	1-2-36-1	72141734752840127	Swahili	swah1253	the mother	MOTHER	1216		mama	mama 
+107	1-2-37-1	7214173416455910	Swahili	swah1253	the parents	PARENTS	505		mzazi	mzazi 
+108	1-2-41-1	72141734330048001	Swahili	swah1253	the son	SON	1620		mwana	mwana 
+109	1-2-42-1	72141734330048001	Swahili	swah1253	the daughter	DAUGHTER	1357		mwana	mwana 
+110	1-3-662-1	72141734360903314	Swahili	swah1253	the porpoise or dolphin	DOLPHIN	1479		pomboo	pomboo 
+111	1-2-43-1	72141734330048001	Swahili	swah1253	the child(2)	CHILD (DESCENDANT)	1801		mwana	mwana 
+112	1-2-44-1	7214173463280224	Swahili	swah1253	the brother	BROTHER	1262		kaka	kaka 
+113	1-2-44-2	72141734980688304	Swahili	swah1253	the brother	BROTHER	1262		ndugu	ndugu 
+114	1-2-44-3	72141734471811870	Swahili	swah1253	the brother	BROTHER	1262		mkubwa	mkubwa 
+115	1-2-44-4	72141734602059141	Swahili	swah1253	the brother	BROTHER	1262		mdogo	mdogo 
+116	1-2-444-1	7214173463280224	Swahili	swah1253	the older brother	OLDER BROTHER	1759		kaka	kaka 
+117	1-2-444-2	72141734471811870	Swahili	swah1253	the older brother	OLDER BROTHER	1759		mkubwa	mkubwa 
+118	1-2-444-3	72141734980688304	Swahili	swah1253	the older brother	OLDER BROTHER	1759		ndugu	ndugu 
+119	1-2-445-1	72141734602059141	Swahili	swah1253	the younger brother	YOUNGER BROTHER	1760		mdogo	mdogo 
+120	1-2-445-2	72141734980688304	Swahili	swah1253	the younger brother	YOUNGER BROTHER	1760		ndugu	ndugu 
+121	1-2-45-1	72141734980688304	Swahili	swah1253	the sister	SISTER	1263		ndugu	ndugu 
+122	1-2-45-2	7214173484555615	Swahili	swah1253	the sister	SISTER	1263		dada	dada 
+123	1-2-45-3	72141734602059141	Swahili	swah1253	the sister	SISTER	1263		mdogo	mdogo 
+124	1-2-45-4	72141734471811870	Swahili	swah1253	the sister	SISTER	1263		mkubwa	mkubwa 
+125	1-2-454-1	7214173484555615	Swahili	swah1253	the older sister	OLDER SISTER	1758		dada	dada 
+126	1-2-454-2	72141734471811870	Swahili	swah1253	the older sister	OLDER SISTER	1758		mkubwa	mkubwa 
+127	1-2-454-3	72141734980688304	Swahili	swah1253	the older sister	OLDER SISTER	1758		ndugu	ndugu 
+128	1-2-455-1	72141734602059141	Swahili	swah1253	the younger sister	YOUNGER SISTER	1761		mdogo	mdogo 
+129	1-2-455-2	72141734980688304	Swahili	swah1253	the younger sister	YOUNGER SISTER	1761		ndugu	ndugu 
+130	1-2-456-1	72141734980688304	Swahili	swah1253	the sibling	SIBLING	1640		ndugu	ndugu 
+131	1-2-456-2	7214173463280224	Swahili	swah1253	the sibling	SIBLING	1640		kaka	kaka 
+132	1-2-456-3	7214173484555615	Swahili	swah1253	the sibling	SIBLING	1640		dada	dada 
+133	1-2-456-4	72141734471811870	Swahili	swah1253	the sibling	SIBLING	1640		mkubwa	mkubwa 
+134	1-2-456-5	72141734602059141	Swahili	swah1253	the sibling	SIBLING	1640		mdogo	mdogo 
+135	1-2-458-1	7214173472900137	Swahili	swah1253	the twins	TWINS	1005		pacha	pacha 
+136	1-2-46-1	72141734288348393	Swahili	swah1253	the grandfather	GRANDFATHER	1383		babu	babu 
+137	1-2-461-1	72141734704352799	Swahili	swah1253	the old man	OLD MAN	406		mzee	mzee 
+138	1-2-47-1	72141734817847734	Swahili	swah1253	the grandmother	GRANDMOTHER	1496		bibi	bibi 
+139	1-2-471-1	72141734704352799	Swahili	swah1253	the old woman	OLD WOMAN	907		mzee	mzee 
+140	1-2-48-1	72141734396750898	Swahili	swah1253	the grandson	GRANDSON	1618		mjukuu	mjukuu 
+141	1-2-49-1	72141734396750898	Swahili	swah1253	the granddaughter	GRANDDAUGHTER	1619		mjukuu	mjukuu 
+142	1-2-51-1	72141734822594045	Swahili	swah1253	the uncle	UNCLE	1327		baba	baba 
+143	1-2-51-2	72141734154074795	Swahili	swah1253	the uncle	UNCLE	1327		mjomba	mjomba 
+144	1-2-511-1	72141734154074795	Swahili	swah1253	the mother's brother	MOTHER'S BROTHER	1984		mjomba	mjomba 
+145	1-2-512-1	72141734822594045	Swahili	swah1253	the father's brother	FATHER'S BROTHER	1985		baba	baba 
+146	1-2-512-2	72141734940520008	Swahili	swah1253	the father's brother	FATHER'S BROTHER	1985		ami, amu	ami 
+147	1-2-512-3	72141734940520008	Swahili	swah1253	the father's brother	FATHER'S BROTHER	1985		ami, amu	amu 
+148	1-2-52-1	72141734752840127	Swahili	swah1253	the aunt	AUNT	1272		mama	mama 
+149	1-2-52-2	72141734709405529	Swahili	swah1253	the aunt	AUNT	1272		shangazi	shangazi 
+150	1-2-521-1	72141734752840127	Swahili	swah1253	the mother's sister	MOTHER'S SISTER	171		mama	mama 
+151	1-2-522-1	72141734709405529	Swahili	swah1253	the father's sister	FATHER'S SISTER	170		shangazi	shangazi 
+152	1-2-53-1	72141734330048001	Swahili	swah1253	the nephew	NEPHEW	1063		mwana	mwana 
+153	1-2-53-2	72141734996603882	Swahili	swah1253	the nephew	NEPHEW	1063		mpwa	mpwa 
+154	1-2-54-1	72141734330048001	Swahili	swah1253	the niece	NIECE	1642		mwana	mwana 
+155	1-2-54-2	72141734996603882	Swahili	swah1253	the niece	NIECE	1642		mpwa	mpwa 
+156	1-2-55-1	72141734980688304	Swahili	swah1253	the cousin	COUSIN	1643		ndugu	ndugu 
+157	1-2-55-2	72141734303479214	Swahili	swah1253	the cousin	COUSIN	1643		binamu	binamu 
+158	1-2-55-3	72141734154074795	Swahili	swah1253	the cousin	COUSIN	1643		mjomba	mjomba 
+159	1-2-55-4	72141734996603882	Swahili	swah1253	the cousin	COUSIN	1643		mpwa	mpwa 
+160	1-2-56-1	72141734375628639	Swahili	swah1253	the ancestors	ANCESTORS	1669		mababu	mababu 
+161	1-2-57-1	72141734173046279	Swahili	swah1253	the descendants	DESCENDANTS	490		mzawa	mzawa 
+162	1-2-57-2	72141734100949524	Swahili	swah1253	the descendants	DESCENDANTS	490		dhuria	dhuria 
+163	1-2-61-1	72141734175932616	Swahili	swah1253	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		mkwe	mkwe 
+164	1-2-611-1	72141734175932616	Swahili	swah1253	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		mkwe	mkwe 
+165	1-2-62-1	72141734175932616	Swahili	swah1253	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		mkwe	mkwe 
+166	1-2-621-1	72141734175932616	Swahili	swah1253	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		mkwe	mkwe 
+167	1-2-63-1	72141734175932616	Swahili	swah1253	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		mkwe	mkwe 
+168	1-2-631-1	72141734175932616	Swahili	swah1253	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		mkwe	mkwe 
+169	1-2-64-1	72141734175932616	Swahili	swah1253	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		mkwe	mkwe 
+170	1-2-641-1	72141734175932616	Swahili	swah1253	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		mkwe	mkwe 
+171	1-2-71-1	72141734233233384	Swahili	swah1253	the stepfather	STEPFATHER	237		baba wa kambo	baba wa kambo 
+172	1-2-72-1	72141734220976423	Swahili	swah1253	the stepmother	STEPMOTHER	236		mama wa kambo	mama wa kambo 
+173	1-2-73-1	72141734490912773	Swahili	swah1253	the stepson	STEPSON	1059		mwana wa kambo	mwana wa kambo 
+174	1-2-74-1	72141734490912773	Swahili	swah1253	the stepdaughter	STEPDAUGHTER	1058		mwana wa kambo	mwana wa kambo 
+175	1-2-75-1	72141734410057686	Swahili	swah1253	the orphan	ORPHAN	1149		yatima	yatima 
+176	1-2-76-1	72141734408395442	Swahili	swah1253	the widow	WIDOW	1756		mjane	mjane 
+177	1-2-77-1	72141734408395442	Swahili	swah1253	the widower	WIDOWER	1981		mjane	mjane 
+178	1-2-81-1	7214173433594973	Swahili	swah1253	the relatives	RELATIVES	1644		jamaa	jamaa 
+179	1-2-81-2	72141734980688304	Swahili	swah1253	the relatives	RELATIVES	1644		ndugu	ndugu 
+180	1-2-82-1	72141734920743427	Swahili	swah1253	the family	FAMILY	194		familia	familia 
+181	1-2-82-2	7214173433594973	Swahili	swah1253	the family	FAMILY	194		jamaa	jamaa 
+182	1-2-91-1	72141734342434398	Swahili	swah1253	I	I	1209		mimi	mimi 
+183	1-2-92-1	7214173446306957	Swahili	swah1253	you (singular)	THOU	1215		wewe	wewe 
+184	1-2-93-1	72141734247990343	Swahili	swah1253	he/she/it	HE OR SHE OR IT	262		yeye	yeye 
+185	1-2-94-1	72141734213700243	Swahili	swah1253	we	WE	1212		sisi	sisi 
+186	1-2-941-1	72141734213700243	Swahili	swah1253	we (inclusive)	WE (INCLUSIVE)	1131		sisi	sisi 
+187	1-2-942-1	72141734213700243	Swahili	swah1253	we (exclusive)	WE (EXCLUSIVE)	1130		sisi	sisi 
+188	1-2-95-1	72141734583955883	Swahili	swah1253	you (plural)	YOU	1213		nyinyi, ninyi	nyinyi 
+189	1-2-95-2	72141734583955883	Swahili	swah1253	you (plural)	YOU	1213		nyinyi, ninyi	ninyi 
+190	1-2-96-1	72141734755620741	Swahili	swah1253	they	THEY	817		wao	wao 
+191	1-3-11-1	72141734439471527	Swahili	swah1253	the animal	ANIMAL	619		mnyama	mnyama 
+192	1-3-12-1	72141734178132147	Swahili	swah1253	male(2)	MALE (OF PERSON)	2261		dume	dume 
+193	1-3-12-2	7214173425195805	Swahili	swah1253	male(2)	MALE (OF PERSON)	2261		kiume	kiume 
+194	1-3-13-1	72141734582848739	Swahili	swah1253	female(2)	FEMALE (OF ANIMAL)	2262		jike	jike 
+195	1-3-13-2	72141734847920949	Swahili	swah1253	female(2)	FEMALE (OF ANIMAL)	2262		kike	kike 
+196	1-3-15-1	72141734611164807	Swahili	swah1253	the livestock	LIVESTOCK	631		mfugo	mfugo 
+197	1-3-16-1	72141734426323625	Swahili	swah1253	the pasture	PASTURE	649		malishoni	malishoni 
+198	1-3-16-2	72141734374856423	Swahili	swah1253	the pasture	PASTURE	649		machungani	machungani 
+199	1-3-18-1	72141734534669842	Swahili	swah1253	the herdsman	HERDSMAN	263		mchungaji	mchungaji 
+200	1-3-19-1	72141734771117006	Swahili	swah1253	the stable or stall	STABLE	851		zizi	zizi 
+201	1-3-2-1	72141734139674709	Swahili	swah1253	the cattle	CATTLE	1153		ng’ombe	ng’ombe 
+202	1-3-21-1	72141734517078908	Swahili	swah1253	the bull	BULL	1008		fahali	fahali 
+203	1-3-23-1	72141734139674709	Swahili	swah1253	the cow	COW	1007		ng’ombe	ng’ombe 
+204	1-3-24-1	72141734279834844	Swahili	swah1253	the calf	CALF	1989		ndama	ndama 
+205	1-3-25-1	72141734966725872	Swahili	swah1253	the sheep	SHEEP	1331		kondoo	kondoo 
+206	1-3-29-1	72141734960218805	Swahili	swah1253	the lamb	LAMB	820		mwanakondoo	mwanakondoo 
+207	1-3-32-1	72141734742744836	Swahili	swah1253	the boar	BOAR	1348		nguruwe (mwitu)	nguruwe (mwitu) 
+208	1-3-35-1	72141734812777271	Swahili	swah1253	the pig	PIG	1337		nguruwe	nguruwe 
+209	1-3-36-1	72141734190753130	Swahili	swah1253	the goat	GOAT	1502		mbuzi	mbuzi 
+210	1-3-37-1	72141734315368276	Swahili	swah1253	the he-goat	HE-GOAT	264		beberu	beberu 
+211	1-3-38-1	72141734945913948	Swahili	swah1253	the kid	KID	1972		mwanambuzi	mwanambuzi 
+212	1-3-41-1	72141734211230837	Swahili	swah1253	the horse	HORSE	615		farasi	farasi 
+213	1-3-45-1	72141734919847385	Swahili	swah1253	the foal or colt	FOAL	1647		mwanafarasi	mwanafarasi 
+214	1-3-46-1	72141734404516372	Swahili	swah1253	the donkey	DONKEY	1862		punda	punda 
+215	1-3-47-1	72141734557268167	Swahili	swah1253	the mule	MULE	890		baghala	baghala 
+216	1-3-52-1	72141734943878792	Swahili	swah1253	the cock/rooster	ROOSTER	1511		jogoo	jogoo 
+217	1-3-54-1	72141734420342264	Swahili	swah1253	the hen	HEN	1514		kuku (jike)	kuku (jike) 
+218	1-3-55-1	72141734432844385	Swahili	swah1253	the chicken	CHICKEN	1318		kuku	kuku 
+219	1-3-56-1	72141734500782988	Swahili	swah1253	the goose	GOOSE	1187		bata bukini	bata bukini 
+220	1-3-57-1	72141734855214284	Swahili	swah1253	the duck	DUCK	1360		bata	bata 
+221	1-3-58-1	72141734408304288	Swahili	swah1253	the nest	NEST	539		kiota, kioto	kiota 
+222	1-3-58-2	72141734408304288	Swahili	swah1253	the nest	NEST	539		kiota, kioto	kioto 
+223	1-3-581-1	72141734897262068	Swahili	swah1253	the bird	BIRD	937		ndege	ndege 
+224	1-3-582-1	72141734476605580	Swahili	swah1253	the seagull	SEAGULL	950		shakwe	shakwe 
+225	1-3-583-1	72141734985904722	Swahili	swah1253	the heron	HERON	758		kulasitara, kulastara	kulasitara 
+226	1-3-583-2	72141734985904722	Swahili	swah1253	the heron	HERON	758		kulasitara, kulastara	kulastara 
+227	1-3-583-3	72141734596466573	Swahili	swah1253	the heron	HERON	758		yangeyange	yangeyange 
+228	1-3-584-1	72141734765892044	Swahili	swah1253	the eagle	EAGLE	1905		kozi	kozi 
+229	1-3-585-1	72141734564215654	Swahili	swah1253	the hawk	HAWK	307		mwewe	mwewe 
+230	1-3-586-1	72141734623872796	Swahili	swah1253	the vulture	VULTURE	1185		tai	tai 
+231	1-3-586-2	72141734107951770	Swahili	swah1253	the vulture	VULTURE	1185		tumbusi, tumbuzi	tumbusi 
+232	1-3-586-3	72141734107951770	Swahili	swah1253	the vulture	VULTURE	1185		tumbusi, tumbuzi	tumbuzi 
+233	1-3-591-1	72141734348430423	Swahili	swah1253	the bat	BAT	1793		popo	popo 
+234	1-3-592-1	72141734600711577	Swahili	swah1253	the parrot	PARROT	882		kasuku	kasuku 
+235	1-3-593-1	72141734133334739	Swahili	swah1253	the crow	CROW	913		kunguru	kunguru 
+236	1-3-594-1	72141734528932182	Swahili	swah1253	the dove	DOVE	1853		njiwa	njiwa 
+237	1-3-596-1	72141734756929116	Swahili	swah1253	the owl	OWL	735		bundi	bundi 
+238	1-3-61-1	72141734365601624	Swahili	swah1253	the dog	DOG	2009		mbwa	mbwa 
+239	1-3-614-1	72141734561873523	Swahili	swah1253	the rabbit	RABBIT	1136		sungura	sungura 
+240	1-3-62-1	72141734902557810	Swahili	swah1253	the cat	CAT	1208		paka	paka 
+241	1-3-63-1	72141734899511016	Swahili	swah1253	the mouse or rat	MUROID (MOUSE OR RAT)	2139		panya	panya 
+242	1-3-65-1	72141734445107074	Swahili	swah1253	the fish	FISH	227		samaki	samaki 
+243	1-3-652-1	72141734585651496	Swahili	swah1253	the fin	FIN	213		pezi	pezi 
+244	1-3-653-1	72141734308339505	Swahili	swah1253	the scale	SCALE	266		gamba, mamba	gamba 
+245	1-3-653-2	72141734308339505	Swahili	swah1253	the scale	SCALE	266		gamba, mamba	mamba 
+246	1-3-653-3	72141734169125396	Swahili	swah1253	the scale	SCALE	266		mamba	mamba 
+247	1-3-654-1	72141734402999495	Swahili	swah1253	the gill	GILL	1916		matamvua (ya samaki)	matamvua (ya samaki) 
+248	1-3-654-2	72141734593321299	Swahili	swah1253	the gill	GILL	1916		shavu (la samaki)	shavu (la samaki) 
+249	1-3-655-1	7214173445506513	Swahili	swah1253	the shell	SHELL	598		konokono	konokono 
+250	1-3-655-2	72141734737278748	Swahili	swah1253	the shell	SHELL	598		kombe	kombe 
+251	1-3-661-1	72141734676059037	Swahili	swah1253	the shark	SHARK	1110		papa	papa 
+252	1-3-663-1	72141734598055711	Swahili	swah1253	the whale	WHALE	957		nyangumi	nyangumi 
+253	1-3-664-1	72141734653701158	Swahili	swah1253	the stingray	STINGRAY	1910		nyenga	nyenga 
+254	1-3-664-2	72141734481804867	Swahili	swah1253	the stingray	STINGRAY	1910		taa (2)	taa (2) 
+255	1-3-665-1	72141734141863192	Swahili	swah1253	the freshwater eel	FRESHWATER EEL	1013		mkunga	mkunga 
+256	1-3-72-1	72141734711428910	Swahili	swah1253	the lion	LION	1386		simba	simba 
+257	1-3-73-1	72141734970238361	Swahili	swah1253	the bear	BEAR	1820		dubu	dubu 
+258	1-3-76-1	72141734774252322	Swahili	swah1253	the monkey	MONKEY	1350		nyani	nyani 
+259	1-3-76-2	72141734504668317	Swahili	swah1253	the monkey	MONKEY	1350		kima	kima 
+260	1-3-76-3	72141734432408225	Swahili	swah1253	the monkey	MONKEY	1350		tumbili	tumbili 
+261	1-3-76-4	72141734310142683	Swahili	swah1253	the monkey	MONKEY	1350		ngedere	ngedere 
+262	1-3-77-1	72141734174281452	Swahili	swah1253	the elephant	ELEPHANT	1290		ndovu	ndovu 
+263	1-3-77-2	72141734820786869	Swahili	swah1253	the elephant	ELEPHANT	1290		tembo	tembo 
+264	1-3-78-1	72141734592150462	Swahili	swah1253	the camel	CAMEL	1871		ngamia	ngamia 
+265	1-3-81-1	72141734476628890	Swahili	swah1253	the insect	INSECT	620		mdudu	mdudu 
+266	1-3-811-1	72141734638915142	Swahili	swah1253	the head louse	HEAD LOUSE	310		chawa	chawa 
+267	1-3-813-1	72141734584127335	Swahili	swah1253	the flea	FLEA	232		kiroboto	kiroboto 
+268	1-3-814-1	72141734295402162	Swahili	swah1253	the centipede	CENTIPEDE	1974		tandu	tandu 
+269	1-3-814-2	72141734186035180	Swahili	swah1253	the centipede	CENTIPEDE	1974		jongoo	jongoo 
+270	1-3-815-1	72141734103179003	Swahili	swah1253	the scorpion	SCORPION	1538		nge	nge 
+271	1-3-816-1	72141734353831375	Swahili	swah1253	the cockroach	COCKROACH	1575		mende	mende 
+272	1-3-817-1	72141734432666816	Swahili	swah1253	the ant	ANT	587		chungu (4)	chungu (4) 
+273	1-3-817-2	72141734619102008	Swahili	swah1253	the ant	ANT	587		siafu	siafu 
+274	1-3-817-3	72141734243209711	Swahili	swah1253	the ant	ANT	587		sisimizi	sisimizi 
+275	1-3-817-4	72141734563897569	Swahili	swah1253	the ant	ANT	587		sungusungu	sungusungu 
+276	1-3-818-1	7214173488657014	Swahili	swah1253	the spider	SPIDER	843		buibui	buibui 
+277	1-3-819-1	72141734993745681	Swahili	swah1253	the spider web	SPIDER WEB	1065		utando (wa buibui)	utando (wa buibui) 
+278	1-3-82-1	72141734571250358	Swahili	swah1253	the bee	BEE	665		nyuki	nyuki 
+279	1-3-821-1	72141734680050827	Swahili	swah1253	the beeswax	BEESWAX	1931		nta	nta 
+280	1-3-822-1	72141734932533495	Swahili	swah1253	the beehive	BEEHIVE	88		mzinga	mzinga 
+281	1-3-823-1	72141734274033035	Swahili	swah1253	the wasp	WASP	1517		nyigu	nyigu 
+282	1-3-83-1	72141734140996838	Swahili	swah1253	the fly	FLY (INSECT)	1504		nzi	nzi 
+283	1-3-831-1	72141734826182418	Swahili	swah1253	the sandfly or midge or gnat	SANDFLY	95		usubi	usubi 
+284	1-3-832-1	7214173417558058	Swahili	swah1253	the mosquito	MOSQUITO	1509		mbu	mbu 
+285	1-3-84-1	72141734678214876	Swahili	swah1253	the worm	WORM	1219		mnyoo	mnyoo 
+286	1-3-85-1	72141734527274168	Swahili	swah1253	the snake	SNAKE	730		nyoka	nyoka 
+287	1-3-91-1	72141734693442423	Swahili	swah1253	the firefly	FIREFLY	206		kimulimuli	kimulimuli 
+288	1-3-92-1	72141734844212907	Swahili	swah1253	the butterfly	BUTTERFLY	1791		kipepeo	kipepeo 
+289	1-3-93-1	72141734424570396	Swahili	swah1253	the grasshopper	GRASSHOPPER	607		panzi	panzi 
+290	1-3-94-1	7214173445506513	Swahili	swah1253	the snail	SNAIL	1543		konokono	konokono 
+291	1-3-94-2	7214173486519012	Swahili	swah1253	the snail	SNAIL	1543		koa	koa 
+292	1-3-95-1	72141734492355372	Swahili	swah1253	the frog	FROG	503		chura	chura 
+293	1-3-96-1	72141734609129735	Swahili	swah1253	the lizard	LIZARD	632		mjusi	mjusi 
+294	1-3-97-1	72141734169125396	Swahili	swah1253	the crocodile or alligator	CROCODILE	1857		mamba	mamba 
+295	1-3-98-1	72141734889397042	Swahili	swah1253	the turtle	TURTLE	112		kasa	kasa 
+296	1-3-98-2	72141734748465897	Swahili	swah1253	the turtle	TURTLE	112		ng’amba	ng’amba 
+297	1-4-11-1	72141734160609046	Swahili	swah1253	the body	BODY	1480		mwili	mwili 
+298	1-4-12-1	72141734144974833	Swahili	swah1253	the skin or hide	SKIN	763		ngozi	ngozi 
+299	1-4-13-1	72141734786067923	Swahili	swah1253	the flesh	FLESH	2259		nyama	nyama 
+300	1-4-14-1	72141734130752003	Swahili	swah1253	the hair	HAIR (HEAD)	2648		nywele	nywele 
+301	1-4-142-1	72141734858172285	Swahili	swah1253	the beard	BEARD	678		ndevu	ndevu 
+302	1-4-144-1	72141734141908560	Swahili	swah1253	the body hair	HAIR (BODY)	189		malaika	malaika 
+303	1-4-145-1	72141734221448551	Swahili	swah1253	the pubic hair	PUBIC HAIR	36		mavuzi	mavuzi 
+304	1-4-146-1	72141734390959689	Swahili	swah1253	the dandruff	DANDRUFF	576		mba	mba 
+305	1-4-146-2	72141734915642429	Swahili	swah1253	the dandruff	DANDRUFF	576		uyabisi	uyabisi 
+306	1-4-15-1	72141734881701257	Swahili	swah1253	the blood	BLOOD	946		damu	damu 
+307	1-4-151-1	72141734312304618	Swahili	swah1253	the vein or artery	BLOOD VESSEL	525		mshipa	mshipa 
+308	1-4-16-1	72141734488989399	Swahili	swah1253	the bone	BONE	1394		mfupa	mfupa 
+309	1-4-162-1	7214173461213218	Swahili	swah1253	the rib	RIB	801		ubavu	ubavu 
+310	1-4-17-1	7214173494112156	Swahili	swah1253	the horn	HORN (ANATOMY)	1393		upembe	upembe 
+311	1-4-18-1	72141734137704408	Swahili	swah1253	the tail	TAIL	1220		mkia	mkia 
+312	1-4-19-1	72141734499658158	Swahili	swah1253	the back	BACK	1291		mgongo	mgongo 
+313	1-4-191-1	72141734595907466	Swahili	swah1253	the spine	SPINE	805		uti (wa mgongo)	uti (wa mgongo) 
+314	1-4-2-1	72141734721795431	Swahili	swah1253	the head	HEAD	1256		kichwa	kichwa 
+315	1-4-201-1	72141734616592787	Swahili	swah1253	the temples	TEMPLES	1604		panda (2) (la uso)	panda (2) (la uso) 
+316	1-4-201-2	72141734149197741	Swahili	swah1253	the temples	TEMPLES	1604		bapa la uso	bapa la uso 
+317	1-4-202-1	7214173417699530	Swahili	swah1253	the skull	SKULL	1605		fuvu, fuu (la kichwa)	fuvu 
+318	1-4-202-2	7214173417699530	Swahili	swah1253	the skull	SKULL	1605		fuvu, fuu (la kichwa)	fuu (la kichwa) 
+319	1-4-202-3	7214173416276392	Swahili	swah1253	the skull	SKULL	1605		bupuru (la kichwa)	bupuru (la kichwa) 
+320	1-4-203-1	72141734594057473	Swahili	swah1253	the brain	BRAIN	1583		ubongo, bongo	ubongo 
+321	1-4-203-2	72141734594057473	Swahili	swah1253	the brain	BRAIN	1583		ubongo, bongo	bongo 
+322	1-4-204-1	72141734463713370	Swahili	swah1253	the face	FACE	1560		uso	uso 
+323	1-4-205-1	72141734899491948	Swahili	swah1253	the forehead	FOREHEAD	123		paji	paji 
+324	1-4-207-1	72141734775060056	Swahili	swah1253	the jaw	JAW	798		taya (la chini)	taya (la chini) 
+325	1-4-208-1	72141734184228605	Swahili	swah1253	the cheek	CHEEK	1730		shavu	shavu 
+326	1-4-209-1	7214173479671294	Swahili	swah1253	the chin	CHIN	1510		kidevu	kidevu 
+327	1-4-21-1	72141734330253198	Swahili	swah1253	the eye	EYE	1248		jicho	jicho 
+328	1-4-212-1	72141734419738879	Swahili	swah1253	the eyebrow	EYEBROW	1173		nyusi	nyusi 
+329	1-4-213-1	72141734952895798	Swahili	swah1253	the eyelid	EYELID	17		ukope	ukope 
+330	1-4-214-1	72141734952895798	Swahili	swah1253	the eyelash	EYELASH	1540		ukope	ukope 
+331	1-4-215-1	72141734603081335	Swahili	swah1253	to blink	BLINK	1655		-pepesa (macho)	-pepesa (macho) 
+332	1-4-215-2	72141734485479391	Swahili	swah1253	to blink	BLINK	1655		-kopesa (macho)	-kopesa (macho) 
+333	1-4-22-1	72141734945341178	Swahili	swah1253	the ear	EAR	1247		sikio	sikio 
+334	1-4-221-1	72141734559039223	Swahili	swah1253	the earlobe	EARLOBE	18		ndewe	ndewe 
+335	1-4-222-1	72141734753648058	Swahili	swah1253	the earwax	EARWAX	32		nta ya sikio	nta ya sikio 
+336	1-4-222-2	72141734570563305	Swahili	swah1253	the earwax	EARWAX	32		uchafu wa sikio	uchafu wa sikio 
+337	1-4-23-1	72141734772379471	Swahili	swah1253	the nose	NOSE	1221		pua	pua 
+338	1-4-231-1	72141734989212081	Swahili	swah1253	the nostril	NOSTRIL	1178		tundu la pua	tundu la pua 
+339	1-4-231-2	72141734425275594	Swahili	swah1253	the nostril	NOSTRIL	1178		mwanzi wa pua	mwanzi wa pua 
+340	1-4-232-1	72141734495616963	Swahili	swah1253	the nasal mucus	NASAL MUCUS (SNOT)	208		kamasi	kamasi 
+341	1-4-24-1	72141734558334623	Swahili	swah1253	the mouth	MOUTH	674		kinywa	kinywa 
+342	1-4-24-2	72141734377209648	Swahili	swah1253	the mouth	MOUTH	674		mdomo	mdomo 
+343	1-4-241-1	72141734377209648	Swahili	swah1253	the beak	BEAK	73		mdomo	mdomo 
+344	1-4-25-1	72141734377209648	Swahili	swah1253	the lip	LIP	478		mdomo	mdomo 
+345	1-4-26-1	72141734740349972	Swahili	swah1253	the tongue	TONGUE	1205		ulimi	ulimi 
+346	1-4-27-1	72141734396910676	Swahili	swah1253	the tooth	TOOTH	1380		jino	jino 
+347	1-4-271-1	72141734205543213	Swahili	swah1253	the gums	GUMS	139		ufizi	ufizi 
+348	1-4-271-2	72141734659225021	Swahili	swah1253	the gums	GUMS	139		masine	masine 
+349	1-4-272-1	72141734972766488	Swahili	swah1253	the molar tooth	MOLAR TOOTH	1049		gego	gego 
+350	1-4-28-1	72141734828479187	Swahili	swah1253	the neck	NECK	1333		shingo	shingo 
+351	1-4-281-1	72141734833070543	Swahili	swah1253	the nape of the neck	NAPE (OF NECK)	1347		kikosi	kikosi 
+352	1-4-29-1	72141734890216498	Swahili	swah1253	the throat	THROAT	1346		koo	koo 
+353	1-4-3-1	72141734282617783	Swahili	swah1253	the shoulder	SHOULDER	1482		bega	bega 
+354	1-4-301-1	72141734990242521	Swahili	swah1253	the shoulderblade	SHOULDERBLADE	172		kombe (la mbega)	kombe (la mbega) 
+355	1-4-302-1	7214173454912700	Swahili	swah1253	the collarbone	COLLARBONE	1994		mtulinga	mtulinga 
+356	1-4-31-1	72141734751067289	Swahili	swah1253	the arm	ARM	1673		mkono	mkono 
+357	1-4-312-1	72141734349328213	Swahili	swah1253	the armpit	ARMPIT	1886		kwapa	kwapa 
+358	1-4-32-1	72141734792231012	Swahili	swah1253	the elbow	ELBOW	981		kisugudi	kisugudi 
+359	1-4-32-2	72141734281063530	Swahili	swah1253	the elbow	ELBOW	981		kiko (1)	kiko (1) 
+360	1-4-32-3	72141734614071244	Swahili	swah1253	the elbow	ELBOW	981		kivi	kivi 
+361	1-4-321-1	72141734319239052	Swahili	swah1253	the wrist	WRIST	799		kiwiko (cha mkono)	kiwiko (cha mkono) 
+362	1-4-321-2	72141734372653094	Swahili	swah1253	the wrist	WRIST	799		kilimbili	kilimbili 
+363	1-4-33-1	72141734751067289	Swahili	swah1253	the hand	HAND	1277		mkono	mkono 
+364	1-4-331-1	72141734778297850	Swahili	swah1253	the palm of the hand	PALM OF HAND	1183		kiganja	kiganja 
+365	1-4-34-1	72141734376280348	Swahili	swah1253	the finger	FINGER	1303		kidole (cha mkono)	kidole (cha mkono) 
+366	1-4-342-1	72141734127116705	Swahili	swah1253	the thumb	THUMB	1781		(kidole) gumba	(kidole) gumba 
+367	1-4-344-1	72141734711263984	Swahili	swah1253	the fingernail	FINGERNAIL	1258		ukucha	ukucha 
+368	1-4-345-1	72141734711263984	Swahili	swah1253	the claw	CLAW	72		ukucha	ukucha 
+369	1-4-35-1	72141734891915131	Swahili	swah1253	the leg	LEG	1297		mguu	mguu 
+370	1-4-351-1	72141734705621215	Swahili	swah1253	the thigh	THIGH	800		paja	paja 
+371	1-4-352-1	72141734713210419	Swahili	swah1253	the calf of the leg	CALF OF LEG	498		shavu la mguu	shavu la mguu 
+372	1-4-36-1	72141734670869216	Swahili	swah1253	the knee	KNEE	1371		goti	goti 
+373	1-4-37-1	72141734891915131	Swahili	swah1253	the foot	FOOT	1301		mguu	mguu 
+374	1-4-371-1	7214173479030449	Swahili	swah1253	the ankle	ANKLE	803		kifundo cha mguu, fundo la mguu	kifundo cha mguu 
+375	1-4-371-2	7214173479030449	Swahili	swah1253	the ankle	ANKLE	803		kifundo cha mguu, fundo la mguu	fundo la mguu 
+376	1-4-371-3	72141734752438568	Swahili	swah1253	the ankle	ANKLE	803		kiwiko cha mguu	kiwiko cha mguu 
+377	1-4-372-1	72141734367659399	Swahili	swah1253	the heel	HEEL	980		kisigino	kisigino 
+378	1-4-374-1	72141734951516304	Swahili	swah1253	the footprint	FOOTPRINT	318		wayo	wayo 
+379	1-4-38-1	72141734397609653	Swahili	swah1253	the toe	TOE	1389		kidole (cha mguu)	kidole (cha mguu) 
+380	1-4-392-1	72141734932666888	Swahili	swah1253	the wing	WING	1257		bawa	bawa 
+381	1-4-393-1	72141734216348613	Swahili	swah1253	the feather	FEATHER	1201		unyoya	unyoya 
+382	1-4-4-1	72141734316484829	Swahili	swah1253	the chest	CHEST	1592		kifua	kifua 
+383	1-4-41-1	72141734338996700	Swahili	swah1253	the breast	BREAST	1402		ziwa (2)	ziwa (2) 
+384	1-4-41-2	72141734586040359	Swahili	swah1253	the breast	BREAST	1402		titi	titi 
+385	1-4-412-1	72141734586040359	Swahili	swah1253	the nipple or teat	NIPPLE	796		titi	titi 
+386	1-4-42-1	72141734531420215	Swahili	swah1253	the udder	UDDER	154		viwele	viwele 
+387	1-4-43-1	72141734313418194	Swahili	swah1253	the navel	NAVEL	1838		kitovu	kitovu 
+388	1-4-44-1	72141734792566222	Swahili	swah1253	the heart	HEART	1223		moyo	moyo 
+389	1-4-441-1	72141734949671016	Swahili	swah1253	the lung	LUNG	688		mapafu	mapafu 
+390	1-4-45-1	72141734247676334	Swahili	swah1253	the liver	LIVER	1224		maini	maini 
+391	1-4-451-1	72141734859130091	Swahili	swah1253	the kidney	KIDNEY	489		figo	figo 
+392	1-4-452-1	72141734276769870	Swahili	swah1253	the spleen	SPLEEN	1744		wengu	wengu 
+393	1-4-46-1	72141734190327322	Swahili	swah1253	the stomach	STOMACH	819		tumbo	tumbo 
+394	1-4-461-1	7214173486032029	Swahili	swah1253	the intestines or guts	INTESTINES	1991		utumbo	utumbo 
+395	1-4-462-1	7214173416429997	Swahili	swah1253	the waist	WAIST	1681		kiuno	kiuno 
+396	1-4-463-1	72141734709909453	Swahili	swah1253	the hip	HIP	1745		nyonga	nyonga 
+397	1-4-464-1	72141734528042272	Swahili	swah1253	the buttocks	BUTTOCKS	834		tako	tako 
+398	1-4-47-1	72141734967811400	Swahili	swah1253	the womb	WOMB	804		chupa ya uzazi	chupa ya uzazi 
+399	1-4-47-2	72141734916958466	Swahili	swah1253	the womb	WOMB	804		fuko la uzazi	fuko la uzazi 
+400	1-4-49-1	72141734288423468	Swahili	swah1253	the testicles	TESTICLES	797		kende	kende 
+401	1-4-49-2	72141734324319998	Swahili	swah1253	the testicles	TESTICLES	797		pumbu	pumbu 
+402	1-4-492-1	7214173410772892	Swahili	swah1253	the penis	PENIS	1222		mboo	mboo 
+403	1-4-492-2	72141734981922307	Swahili	swah1253	the penis	PENIS	1222		dhakari	dhakari 
+404	1-4-51-1	72141734884387268	Swahili	swah1253	to breathe	BREATHE	1407		-pumua	-pumua 
+405	1-4-52-1	72141734213707381	Swahili	swah1253	to yawn	YAWN	1028		miayo	miayo 
+406	1-4-521-1	72141734533433431	Swahili	swah1253	to hiccough	HICCOUGH	162		kwikiwi	kwikiwi 
+407	1-4-53-1	72141734818202068	Swahili	swah1253	to cough	COUGH	879		-kohoa	-kohoa 
+408	1-4-54-1	7214173452683770	Swahili	swah1253	to sneeze	SNEEZE	1621		chafya	chafya 
+409	1-4-55-1	72141734497730264	Swahili	swah1253	to perspire	SWEAT (PERSPIRE)	126		jasho	jasho 
+410	1-4-56-1	72141734944300186	Swahili	swah1253	to spit	SPIT	1440		-tema (2) mate	-tema (2) mate 
+411	1-4-57-1	72141734894479180	Swahili	swah1253	to vomit	VOMIT	1278		-tapika	-tapika 
+412	1-4-58-1	72141734184655089	Swahili	swah1253	to bite	BITE	1403		-uma	-uma 
+413	1-4-59-1	7214173427329330	Swahili	swah1253	to lick	LICK	319		-lamba, -ramba	-lamba 
+414	1-4-59-2	7214173427329330	Swahili	swah1253	to lick	LICK	319		-lamba, -ramba	-ramba 
+415	1-4-591-1	72141734488839639	Swahili	swah1253	to dribble	DRIBBLE	268		udenda	udenda 
+416	1-4-61-1	72141734532910760	Swahili	swah1253	to sleep	SLEEP	1585		-lala	-lala 
+417	1-4-612-1	72141734914696343	Swahili	swah1253	to snore	SNORE	1983		-koroma	-koroma 
+418	1-4-62-1	72141734860012717	Swahili	swah1253	to dream	DREAM (SOMETHING)	1920		-ota (ndoto)	-ota (ndoto) 
+419	1-4-63-1	72141734313729495	Swahili	swah1253	to wake up	WAKE UP	1602		-amka	-amka 
+420	1-4-64-1	72141734610243020	Swahili	swah1253	to fart	FART	1159		-shuta	-shuta 
+421	1-4-64-2	72141734158404660	Swahili	swah1253	to fart	FART	1159		-jamba	-jamba 
+422	1-4-65-1	72141734890049754	Swahili	swah1253	to piss	PISS	592		-kojoa	-kojoa 
+423	1-4-66-1	72141734729907825	Swahili	swah1253	to shit	SHIT (DEFECATE)	676		-nya	-nya 
+424	1-4-67-1	72141734451613089	Swahili	swah1253	to have sex	HAVE SEX	1785		-jamii	-jamii 
+425	1-4-67-2	72141734848948310	Swahili	swah1253	to have sex	HAVE SEX	1785		-fanya mapenzi	-fanya mapenzi 
+426	1-4-68-1	7214173498250121	Swahili	swah1253	to shiver	SHIVER	52		-tetema	-tetema 
+427	1-4-69-1	72141734731906300	Swahili	swah1253	to bathe	BATHE	138		-oga	-oga 
+428	1-4-71-1	7214173411821828	Swahili	swah1253	to beget	BEGET	1152		-zaa	-zaa 
+429	1-4-72-1	72141734840912097	Swahili	swah1253	to be born	BE BORN	1090		-zaliwa	-zaliwa 
+430	1-4-73-1	72141734365463536	Swahili	swah1253	pregnant	PREGNANT	1123		mimba	mimba 
+431	1-4-73-2	721417341938270	Swahili	swah1253	pregnant	PREGNANT	1123		mjamzito	mjamzito 
+432	1-4-732-1	7214173456096090	Swahili	swah1253	to conceive	CONCEIVE	1087		-tunga mimba	-tunga mimba 
+433	1-4-732-2	72141734386934943	Swahili	swah1253	to conceive	CONCEIVE	1087		-pata mimba	-pata mimba 
+434	1-4-74-1	72141734163473436	Swahili	swah1253	to be alive	BE ALIVE	1422		hai	hai 
+435	1-4-75-1	72141734922552434	Swahili	swah1253	to die	DIE	1494		-fa	-fa 
+436	1-4-751-1	72141734105423370	Swahili	swah1253	to drown	DROWN	1904		-fa maji	-fa maji 
+437	1-4-76-1	72141734754972579	Swahili	swah1253	to kill	KILL	1417		-ua	-ua 
+438	1-4-77-1	7214173489004748	Swahili	swah1253	the corpse	CORPSE	767		maiti	maiti 
+439	1-4-78-1	72141734311206657	Swahili	swah1253	to bury	BURY	1719		-zika	-zika 
+440	1-4-79-1	72141734583103139	Swahili	swah1253	the grave	GRAVE	1773		kaburi	kaburi 
+441	1-4-81-1	72141734319630047	Swahili	swah1253	strong	STRONG	785		nguvu	nguvu 
+442	1-4-82-1	7214173417295026	Swahili	swah1253	weak	WEAK	1601		dhaifu	dhaifu 
+443	1-4-82-2	72141734549588849	Swahili	swah1253	weak	WEAK	1601		mnyonge	mnyonge 
+444	1-4-83-1	72141734740834919	Swahili	swah1253	healthy	HEALTHY	1364		afya	afya 
+445	1-4-83-2	72141734114621413	Swahili	swah1253	healthy	HEALTHY	1364		-zima (2)	-zima (2) 
+446	1-4-84-1	72141734965178756	Swahili	swah1253	sick/ill	SICK	1847		mgonjwa	mgonjwa 
+447	1-4-841-1	72141734799973352	Swahili	swah1253	the fever	FEVER	1534		homa	homa 
+448	1-4-842-1	72141734638689146	Swahili	swah1253	the goitre/goiter	GOITER	1957		kororo (la shingo)	kororo (la shingo) 
+449	1-4-843-1	72141734682336449	Swahili	swah1253	the cold	COMMON COLD (DISEASE)	102		mafua	mafua 
+450	1-4-85-1	72141734183415015	Swahili	swah1253	the wound or sore	WOUND	1109		kidonda	kidonda 
+451	1-4-852-1	72141734268024879	Swahili	swah1253	the bruise	BRUISE	1148		chubuko	chubuko 
+452	1-4-853-1	72141734827158840	Swahili	swah1253	the swelling	SWELLING	1903		uvimbe	uvimbe 
+453	1-4-854-1	72141734638427714	Swahili	swah1253	the itch	ITCH	148		mnyeo	mnyeo 
+454	1-4-854-2	72141734865520195	Swahili	swah1253	the itch	ITCH	148		mwasho	mwasho 
+455	1-4-855-1	72141734915179075	Swahili	swah1253	the blister	BLISTER	1584		lengelenge	lengelenge 
+456	1-4-856-1	72141734820162197	Swahili	swah1253	the boil	BOIL (OF SKIN)	793		jipu	jipu 
+457	1-4-857-1	72141734576872398	Swahili	swah1253	the pus	PUS	1808		usaha	usaha 
+458	1-4-858-1	7214173425480120	Swahili	swah1253	the scar	SCAR	497		kovu	kovu 
+459	1-4-86-1	72141734353330905	Swahili	swah1253	to cure	CURE	499		-ponya	-ponya 
+460	1-4-87-1	72141734649771751	Swahili	swah1253	the physician	PHYSICIAN	597		mganga	mganga 
+461	1-4-87-2	72141734126122243	Swahili	swah1253	the physician	PHYSICIAN	597		daktari	daktari 
+462	1-4-88-1	72141734577840772	Swahili	swah1253	the medicine	MEDICINE	1372		dawa	dawa 
+463	1-4-88-2	72141734227065468	Swahili	swah1253	the medicine	MEDICINE	1372		tiba	tiba 
+464	1-4-89-1	72141734680117706	Swahili	swah1253	the poison	POISON	655		sumu	sumu 
+465	1-4-91-1	72141734246668092	Swahili	swah1253	tired	TIRED	1757		-choka	-choka 
+466	1-4-912-1	72141734445463252	Swahili	swah1253	to rest	REST	168		-pumzika	-pumzika 
+467	1-4-92-1	72141734436023951	Swahili	swah1253	lazy	LAZY	1564		-vivu	-vivu 
+468	1-4-93-1	72141734525413530	Swahili	swah1253	bald	BALD	1125		upara	upara 
+469	1-4-94-1	72141734752388585	Swahili	swah1253	lame	LAME	320		kiwete	kiwete 
+470	1-4-95-1	72141734144065840	Swahili	swah1253	deaf	DEAF	996		kiziwi	kiziwi 
+471	1-4-96-1	72141734780784982	Swahili	swah1253	mute	MUTE	1666		bubu	bubu 
+472	1-4-97-1	7214173410342460	Swahili	swah1253	blind	BLIND	1653		kipofu	kipofu 
+473	1-4-98-1	72141734887584763	Swahili	swah1253	drunk	DRUNK	1463		-lewa	-lewa 
+474	1-4-99-1	7214173414238176	Swahili	swah1253	naked	NAKED	590		uchi	uchi 
+475	1-5-11-1	72141734633327442	Swahili	swah1253	to eat	EAT	1336		-la	-la 
+476	1-5-12-1	72141734846459395	Swahili	swah1253	the food	FOOD	256		chakula	chakula 
+477	1-5-121-1	72141734751853055	Swahili	swah1253	cooked	COOKED	269		-bivu	-bivu 
+478	1-5-122-1	72141734546833771	Swahili	swah1253	raw	RAW	1959		-bichi	-bichi 
+479	1-5-123-1	72141734751853055	Swahili	swah1253	ripe	RIPE	178		-bivu	-bivu 
+480	1-5-124-1	72141734546833771	Swahili	swah1253	unripe	UNRIPE	1958		-bichi	-bichi 
+481	1-5-125-1	72141734610789686	Swahili	swah1253	rotten	ROTTEN	1728		-bovu	-bovu 
+482	1-5-13-1	72141734634990213	Swahili	swah1253	to drink	DRINK	1401		-nywa	-nywa 
+483	1-5-14-1	72141734516224157	Swahili	swah1253	to be hungry	BE HUNGRY	1533		njaa	njaa 
+484	1-5-141-1	72141734516224157	Swahili	swah1253	the famine	FAMINE	199		njaa	njaa 
+485	1-5-15-1	72141734970014714	Swahili	swah1253	to be thirsty	THIRSTY	847		kiu	kiu 
+486	1-5-16-1	72141734963548817	Swahili	swah1253	to suck	SUCK	1421		-amwa	-amwa 
+487	1-5-16-2	72141734620742913	Swahili	swah1253	to suck	SUCK	1421		-nyonya	-nyonya 
+488	1-5-18-1	72141734382100404	Swahili	swah1253	to chew	CHEW	321		-tafuna	-tafuna 
+489	1-5-181-1	72141734600058775	Swahili	swah1253	to swallow	SWALLOW	897		-meza	-meza 
+490	1-5-19-1	72141734430675144	Swahili	swah1253	to choke	CHOKE	129		-kaba	-kaba 
+491	1-5-19-2	72141734642071598	Swahili	swah1253	to choke	CHOKE	129		-zuia pumzi	-zuia pumzi 
+492	1-5-19-3	7214173473016757	Swahili	swah1253	to choke	CHOKE	129		-katia pumzi	-katia pumzi 
+493	1-5-21-1	72141734946006230	Swahili	swah1253	to cook	COOK (SOMETHING)	1100		-pika	-pika 
+494	1-5-22-1	72141734563643200	Swahili	swah1253	to boil	BOIL (OF LIQUID)	792		-chemka	-chemka 
+495	1-5-23-1	72141734981924533	Swahili	swah1253	to roast or fry	ROAST OR FRY	2146		-kaanga	-kaanga 
+496	1-5-23-2	72141734638428367	Swahili	swah1253	to roast or fry	ROAST OR FRY	2146		-choma	-choma 
+497	1-5-24-1	72141734483383333	Swahili	swah1253	to bake	BAKE	183		-oka	-oka 
+498	1-5-25-1	72141734697480281	Swahili	swah1253	the oven	OVEN	1143		oveni	oveni 
+499	1-5-25-2	7214173424155720	Swahili	swah1253	the oven	OVEN	1143		kiokeo	kiokeo 
+500	1-5-26-1	7214173465181357	Swahili	swah1253	the pot	POT	1462		chungu (1)	chungu (1) 
+501	1-5-26-2	72141734339466715	Swahili	swah1253	the pot	POT	1462		sufuria	sufuria 
+502	1-5-27-1	72141734196192122	Swahili	swah1253	the kettle	KETTLE	854		birika	birika 
+503	1-5-28-1	72141734320402105	Swahili	swah1253	the pan	PAN	31		kikaango	kikaango 
+504	1-5-31-1	72141734357328709	Swahili	swah1253	the dish	DISH	481		bakuli	bakuli 
+505	1-5-32-1	72141734442140431	Swahili	swah1253	the plate	PLATE	480		sahani	sahani 
+506	1-5-33-1	72141734774488013	Swahili	swah1253	the bowl	BOWL	1530		tasa	tasa 
+507	1-5-34-1	72141734101715890	Swahili	swah1253	the jug/pitcher	JUG	270		gudulia	gudulia 
+508	1-5-34-2	72141734260768867	Swahili	swah1253	the jug/pitcher	JUG	270		jagi	jagi 
+509	1-5-35-1	72141734458193942	Swahili	swah1253	the cup	CUP	476		kikombe	kikombe 
+510	1-5-36-1	72141734526781114	Swahili	swah1253	the saucer	SAUCER	271		kisahani	kisahani 
+511	1-5-37-1	72141734265639125	Swahili	swah1253	the spoon	SPOON	1378		kijiko	kijiko 
+512	1-5-38-1	7214173499883404	Swahili	swah1253	the knife(1)	KNIFE (FOR EATING)	3210		kisu	kisu 
+513	1-5-39-1	7214173414319654	Swahili	swah1253	the fork	FORK	1302		uma	uma 
+514	1-5-391-1	72141734263955973	Swahili	swah1253	the tongs	TONGS	272		koleo	koleo 
+515	1-5-41-1	72141734846459395	Swahili	swah1253	the meal	MEAL	1526		chakula	chakula 
+516	1-5-42-1	72141734263824986	Swahili	swah1253	the breakfast	BREAKFAST	1322		kiamshakinywa, chamshakinywa	kiamshakinywa 
+517	1-5-42-2	72141734263824986	Swahili	swah1253	the breakfast	BREAKFAST	1322		kiamshakinywa, chamshakinywa	chamshakinywa 
+518	1-5-42-3	7214173468196694	Swahili	swah1253	the breakfast	BREAKFAST	1322		chakula cha asubuhi	chakula cha asubuhi 
+519	1-5-43-1	72141734571167907	Swahili	swah1253	the lunch	LUNCH	768		chakula cha mchana	chakula cha mchana 
+520	1-5-44-1	72141734480560612	Swahili	swah1253	the dinner	DINNER (SUPPER)	1833		chakula cha jioni	chakula cha jioni 
+521	1-5-45-1	72141734772099924	Swahili	swah1253	the supper	DINNER (SUPPER)	1833		chakula cha usiku	chakula cha usiku 
+522	1-5-46-1	7214173477287311	Swahili	swah1253	to peel	PEEL	275		-menya	-menya 
+523	1-5-47-1	72141734142620920	Swahili	swah1253	to sieve or to strain	SIEVE	86		-chuja	-chuja 
+524	1-5-47-2	72141734470511891	Swahili	swah1253	to sieve or to strain	SIEVE	86		-chekecha	-chekecha 
+525	1-5-48-1	72141734677241004	Swahili	swah1253	to scrape	SCRAPE	1767		-paa, -para	-paa 
+526	1-5-48-2	72141734677241004	Swahili	swah1253	to scrape	SCRAPE	1767		-paa, -para	-para 
+527	1-5-48-3	72141734780574628	Swahili	swah1253	to scrape	SCRAPE	1767		-kwangua, -kwangura	-kwangua 
+528	1-5-48-4	72141734780574628	Swahili	swah1253	to scrape	SCRAPE	1767		-kwangua, -kwangura	-kwangura 
+529	1-5-49-1	72141734652822823	Swahili	swah1253	to stir or to mix	MIX	2017		-changanya	-changanya 
+530	1-5-49-2	72141734112991465	Swahili	swah1253	to stir or to mix	MIX	2017		-koroga	-koroga 
+531	1-5-49-3	72141734622938087	Swahili	swah1253	to stir or to mix	MIX	2017		-vuruga	-vuruga 
+532	1-5-51-1	72141734684292369	Swahili	swah1253	the bread	BREAD	1368		mkate	mkate 
+533	1-5-53-1	72141734193202489	Swahili	swah1253	the dough	DOUGH	273		kinyunya	kinyunya 
+534	1-5-54-1	72141734831407041	Swahili	swah1253	to knead	KNEAD	274		-kanda	-kanda 
+535	1-5-55-1	7214173490596997	Swahili	swah1253	the flour	FLOUR	1594		unga	unga 
+536	1-5-56-1	72141734344246526	Swahili	swah1253	to crush or to grind	GRIND	1033		-saga	-saga 
+537	1-5-56-2	72141734345227319	Swahili	swah1253	to crush or to grind	GRIND	1033		-ponda	-ponda 
+538	1-5-56-3	72141734472979046	Swahili	swah1253	to crush or to grind	GRIND	1033		-twanga	-twanga 
+539	1-5-57-1	72141734482815004	Swahili	swah1253	the mill	MILL	636		kinu	kinu 
+540	1-5-58-1	72141734482815004	Swahili	swah1253	the mortar(1)	MORTAR CRUSHER	224		kinu	kinu 
+541	1-5-59-1	72141734952776062	Swahili	swah1253	the pestle	PESTLE	225		mchi	mchi 
+542	1-5-61-1	72141734786067923	Swahili	swah1253	the meat	MEAT	634		nyama	nyama 
+543	1-5-63-1	72141734937280966	Swahili	swah1253	the sausage	SAUSAGE	1874		soseji	soseji 
+544	1-5-64-1	72141734870275548	Swahili	swah1253	the soup	SOUP	1547		supu	supu 
+545	1-5-65-1	72141734168444309	Swahili	swah1253	the vegetables	VEGETABLES	924		mboga	mboga 
+546	1-5-66-1	72141734707452783	Swahili	swah1253	the bean	BEAN	832		haragwe	haragwe 
+547	1-5-7-1	72141734991099588	Swahili	swah1253	the potato	POTATO	593		kiazi	kiazi 
+548	1-5-7-2	72141734931470488	Swahili	swah1253	the potato	POTATO	593		mbatata	mbatata 
+549	1-5-71-1	72141734455374842	Swahili	swah1253	the fruit	FRUIT	1507		tunda	tunda 
+550	1-5-712-1	72141734796280723	Swahili	swah1253	the bunch	BUNCH	1966		kicha	kicha 
+551	1-5-712-2	72141734504015673	Swahili	swah1253	the bunch	BUNCH	1966		mkungu (wa ndizi)	mkungu (wa ndizi) 
+552	1-5-75-1	72141734947951952	Swahili	swah1253	the fig	FIG	322		tini	tini 
+553	1-5-76-1	72141734307942623	Swahili	swah1253	the grape	GRAPE	920		zabibu	zabibu 
+554	1-5-77-1	72141734311842560	Swahili	swah1253	the nut	NUT	191		lozi	lozi 
+555	1-5-77-2	72141734300992126	Swahili	swah1253	the nut	NUT	191		korosho	korosho 
+556	1-5-77-3	72141734895228110	Swahili	swah1253	the nut	NUT	191		karanga	karanga 
+557	1-5-77-4	72141734253839938	Swahili	swah1253	the nut	NUT	191		njugu	njugu 
+558	1-5-77-5	72141734736798803	Swahili	swah1253	the nut	NUT	191		njugu mawe	njugu mawe 
+559	1-5-77-6	72141734729360626	Swahili	swah1253	the nut	NUT	191		kungu manga	kungu manga 
+560	1-5-77-7	72141734390598596	Swahili	swah1253	the nut	NUT	191		kungu	kungu 
+561	1-5-77-8	72141734661915413	Swahili	swah1253	the nut	NUT	191		popoo	popoo 
+562	1-5-77-9	72141734507186751	Swahili	swah1253	the nut	NUT	191		chikichi	chikichi 
+563	1-5-78-1	72141734803610071	Swahili	swah1253	the olive	OLIVE	1154		zeituni	zeituni 
+564	1-5-79-1	72141734783826536	Swahili	swah1253	the oil	OIL (ORGANIC SUBSTANCE)	1484		mafuta	mafuta 
+565	1-5-791-1	72141734783826536	Swahili	swah1253	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		mafuta	mafuta 
+566	1-5-81-1	72141734238081532	Swahili	swah1253	the salt	SALT	1274		chumvi	chumvi 
+567	1-5-82-1	72141734449284130	Swahili	swah1253	the pepper	PEPPER	1385		pilipili manga	pilipili manga 
+568	1-5-821-1	7214173485598712	Swahili	swah1253	the chili pepper	CHILI PEPPER	919		pilipili	pilipili 
+569	1-5-821-2	72141734432804946	Swahili	swah1253	the chili pepper	CHILI PEPPER	919		pilipili hoho	pilipili hoho 
+570	1-5-84-1	72141734292495736	Swahili	swah1253	the honey	HONEY	942		asali	asali 
+571	1-5-85-1	72141734975363318	Swahili	swah1253	the sugar	SUGAR	862		sukari	sukari 
+572	1-5-86-1	72141734275493629	Swahili	swah1253	the milk	MILK	635		maziwa	maziwa 
+573	1-5-87-1	7214173448199983	Swahili	swah1253	to milk	DRAW MILK	93		-kama	-kama 
+574	1-5-88-1	72141734276398822	Swahili	swah1253	the cheese	CHEESE	1569		jibini	jibini 
+575	1-5-88-2	72141734448827963	Swahili	swah1253	the cheese	CHEESE	1569		chizi	chizi 
+576	1-5-89-1	72141734171557521	Swahili	swah1253	the butter	BUTTER	1245		siagi	siagi 
+577	1-5-9-1	72141734465567319	Swahili	swah1253	the drink	BEVERAGE	731		kinywaji	kinywaji 
+578	1-5-91-1	72141734125962699	Swahili	swah1253	the mead	MEAD	941		kangara	kangara 
+579	1-5-92-1	72141734820247306	Swahili	swah1253	the wine	WINE	1524		divai	divai 
+580	1-5-92-2	72141734547035394	Swahili	swah1253	the wine	WINE	1524		mvinyo	mvinyo 
+581	1-5-93-1	7214173418119866	Swahili	swah1253	the beer	BEER	1639		pombe	pombe 
+582	1-5-93-2	72141734569131731	Swahili	swah1253	the beer	BEER	1639		bia	bia 
+583	1-5-94-1	7214173462610127	Swahili	swah1253	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		kileo	kileo 
+584	1-5-97-1	72141734695885685	Swahili	swah1253	the egg	EGG	744		yai	yai 
+585	1-5-971-1	72141734964997049	Swahili	swah1253	the yolk	YOLK	1556		kiini cha yai	kiini cha yai 
+586	1-6-11-1	72141734767109625	Swahili	swah1253	to put on	PUT ON	158		-vaa	-vaa 
+587	1-6-12-1	72141734619357175	Swahili	swah1253	the clothing or clothes	CLOTHES	1895		nguo	nguo 
+588	1-6-12-2	72141734867556590	Swahili	swah1253	the clothing or clothes	CLOTHES	1895		mavazi	mavazi 
+589	1-6-13-1	72141734161566674	Swahili	swah1253	the tailor	TAILOR	881		mshonaji	mshonaji 
+590	1-6-21-1	72141734619357175	Swahili	swah1253	the cloth	CLOTH	1616		nguo	nguo 
+591	1-6-21-2	72141734899037774	Swahili	swah1253	the cloth	CLOTH	1616		kitambaa	kitambaa 
+592	1-6-22-1	72141734932284297	Swahili	swah1253	the wool	WOOL	964		sufu	sufu 
+593	1-6-22-2	72141734216348613	Swahili	swah1253	the wool	WOOL	964		unyoya	unyoya 
+594	1-6-23-1	72141734983746906	Swahili	swah1253	the linen	LINEN	916		kitani	kitani 
+595	1-6-24-1	72141734846824125	Swahili	swah1253	the cotton	COTTON	1850		pamba	pamba 
+596	1-6-25-1	72141734363730747	Swahili	swah1253	the silk	SILK	1641		hariri	hariri 
+597	1-6-27-1	72141734913186620	Swahili	swah1253	the felt	FELT	325		kitambaa gandamizo	kitambaa gandamizo 
+598	1-6-28-1	72141734216348613	Swahili	swah1253	the fur	FUR	580		unyoya	unyoya 
+599	1-6-29-1	72141734144974833	Swahili	swah1253	the leather	LEATHER	629		ngozi	ngozi 
+600	1-6-31-1	72141734695236484	Swahili	swah1253	to spin	SPIN	121		-sokota nyuzi	-sokota nyuzi 
+601	1-6-32-1	72141734113817589	Swahili	swah1253	the spindle	SPINDLE	277		pia	pia 
+602	1-6-33-1	72141734769813183	Swahili	swah1253	to weave	WEAVE	133		-fuma	-fuma 
+603	1-6-34-1	72141734445802426	Swahili	swah1253	the loom	LOOM	1787		kitanda cha mfumi	kitanda cha mfumi 
+604	1-6-35-1	72141734654370817	Swahili	swah1253	to sew	SEW	1457		-shona	-shona 
+605	1-6-36-1	72141734261836812	Swahili	swah1253	the needle(1)	NEEDLE (FOR SEWING)	1382		sindano	sindano 
+606	1-6-37-1	72141734704213633	Swahili	swah1253	the awl	AWL	278		maharazi	maharazi 
+607	1-6-38-1	72141734498198918	Swahili	swah1253	the thread	THREAD	1161		uzi	uzi 
+608	1-6-39-1	72141734838357513	Swahili	swah1253	to dye	DYE	157		-tia rangi	-tia rangi 
+609	1-6-41-1	72141734537628663	Swahili	swah1253	the cloak	CLOAK	326		joho	joho 
+610	1-7-37-1	72141734659513135	Swahili	swah1253	the ladder	LADDER	1464		ngazi	ngazi 
+611	1-6-42-1	72141734521380139	Swahili	swah1253	the (woman's) dress	DRESS	474		gauni	gauni 
+612	1-6-42-2	7214173430069949	Swahili	swah1253	the (woman's) dress	DRESS	474		kanzu	kanzu 
+613	1-6-43-1	72141734526658319	Swahili	swah1253	the coat	COAT	603		koti	koti 
+614	1-6-44-1	72141734957064227	Swahili	swah1253	the shirt	SHIRT	1622		shati	shati 
+615	1-6-44-2	7214173479760589	Swahili	swah1253	the shirt	SHIRT	1622		kimau	kimau 
+616	1-6-45-1	72141734330465424	Swahili	swah1253	the collar	COLLAR	2012		ukosi	ukosi 
+617	1-6-45-2	72141734680816518	Swahili	swah1253	the collar	COLLAR	2012		kola	kola 
+618	1-6-46-1	72141734131751074	Swahili	swah1253	the skirt	SKIRT	1600		sketi	sketi 
+619	1-6-48-1	72141734141871489	Swahili	swah1253	the trousers	TROUSERS	809		suruali	suruali 
+620	1-6-49-1	72141734985369946	Swahili	swah1253	the sock or stocking	STOCKING	329		soksi	soksi 
+621	1-6-51-1	72141734950620822	Swahili	swah1253	the shoe	SHOE	1381		kiatu	kiatu 
+622	1-6-52-1	7214173447575838	Swahili	swah1253	the boot	BOOT	585		buti	buti 
+623	1-6-54-1	72141734405221229	Swahili	swah1253	the shoemaker	SHOEMAKER	875		mshona viatu	mshona viatu 
+624	1-6-55-1	72141734775960292	Swahili	swah1253	the hat or cap	HEADGEAR	2130		kofia	kofia 
+625	1-6-55-2	72141734232158600	Swahili	swah1253	the hat or cap	HEADGEAR	2130		chepeo	chepeo 
+626	1-6-57-1	72141734451617043	Swahili	swah1253	the belt	BELT	772		mkanda, ukanda	mkanda 
+627	1-6-57-2	72141734451617043	Swahili	swah1253	the belt	BELT	772		mkanda, ukanda	ukanda 
+628	1-6-58-1	72141734655681960	Swahili	swah1253	the glove	GLOVE	867		glavu, glovu	glavu 
+629	1-6-58-2	72141734655681960	Swahili	swah1253	the glove	GLOVE	867		glavu, glovu	glovu 
+630	1-6-59-1	72141734191239946	Swahili	swah1253	the veil	VEIL	1151		shela	shela 
+631	1-6-59-2	72141734223451662	Swahili	swah1253	the veil	VEIL	1151		sitara, stara	sitara 
+632	1-6-59-3	72141734223451662	Swahili	swah1253	the veil	VEIL	1151		sitara, stara	stara 
+633	1-6-59-4	7214173442266583	Swahili	swah1253	the veil	VEIL	1151		barakoa	barakoa 
+634	1-6-59-5	72141734967254149	Swahili	swah1253	the veil	VEIL	1151		ukaya	ukaya 
+635	1-6-59-6	7214173488657014	Swahili	swah1253	the veil	VEIL	1151		buibui	buibui 
+636	1-6-61-1	72141734123023158	Swahili	swah1253	the pocket	POCKET	1851		mfuko	mfuko 
+637	1-6-62-1	72141734668830066	Swahili	swah1253	the button	BUTTON	757		kifungo	kifungo 
+638	1-6-63-1	72141734599901016	Swahili	swah1253	the pin	PIN	64		pini	pini 
+639	1-6-71-1	72141734857813163	Swahili	swah1253	the ornament or adornment	ORNAMENT	917		pambo	pambo 
+640	1-6-71-2	72141734934354049	Swahili	swah1253	the ornament or adornment	ORNAMENT	917		urembo	urembo 
+641	1-6-72-1	72141734611511019	Swahili	swah1253	the jewel	JEWEL	1029		kito	kito 
+642	1-6-73-1	72141734205157768	Swahili	swah1253	the ring	RING	1374		pete	pete 
+643	1-6-74-1	72141734998550712	Swahili	swah1253	the bracelet	BRACELET	1754		bangili, bangiri	bangili 
+644	1-6-74-2	72141734998550712	Swahili	swah1253	the bracelet	BRACELET	1754		bangili, bangiri	bangiri 
+645	1-6-75-1	72141734355085386	Swahili	swah1253	the necklace	NECKLACE	1961		mkufu	mkufu 
+646	1-6-76-1	72141734975452117	Swahili	swah1253	the bead	BEAD	1860		ushanga	ushanga 
+647	1-6-77-1	72141734564738883	Swahili	swah1253	the earring	EARRING	770		hereni, herini	hereni 
+648	1-6-77-2	72141734564738883	Swahili	swah1253	the earring	EARRING	770		hereni, herini	herini 
+649	1-6-77-3	72141734106777234	Swahili	swah1253	the earring	EARRING	770		kipuli	kipuli 
+650	1-6-78-1	72141734306622222	Swahili	swah1253	the headband or headdress	HEADBAND	330		kilemba	kilemba 
+651	1-6-78-2	72141734330429091	Swahili	swah1253	the headband or headdress	HEADBAND	330		dusumali	dusumali 
+652	1-6-79-1	72141734287633891	Swahili	swah1253	the tattoo	TATTOO	68		chale	chale 
+653	1-6-79-2	72141734710445207	Swahili	swah1253	the tattoo	TATTOO	68		chanjo	chanjo 
+654	1-6-81-1	72141734638412589	Swahili	swah1253	the handkerchief or rag	RAG	332		leso	leso 
+655	1-6-82-1	72141734148314930	Swahili	swah1253	the towel	TOWEL	1021		taulo	taulo 
+656	1-6-91-1	7214173489052069	Swahili	swah1253	the comb	COMB	1475		kitana	kitana 
+657	1-6-91-2	72141734376418482	Swahili	swah1253	the comb	COMB	1475		chanuo	chanuo 
+658	1-6-92-1	72141734314376020	Swahili	swah1253	the brush	BRUSH	1821		burashi, brashi	burashi 
+659	1-6-92-2	72141734314376020	Swahili	swah1253	the brush	BRUSH	1821		burashi, brashi	brashi 
+660	1-6-921-1	72141734381738168	Swahili	swah1253	the plait/braid	BRAID	1043		msuko	msuko 
+661	1-6-921-2	72141734251615570	Swahili	swah1253	the plait/braid	BRAID	1043		msongo	msongo 
+662	1-6-93-1	72141734334506916	Swahili	swah1253	the razor	RAZOR	151		wembe	wembe 
+663	1-6-94-1	72141734700820377	Swahili	swah1253	the ointment	OINTMENT	1926		dawa ya kupaka	dawa ya kupaka 
+664	1-6-95-1	7214173453970913	Swahili	swah1253	the soap	SOAP	788		sabuni	sabuni 
+665	1-6-96-1	72141734492433338	Swahili	swah1253	the mirror	MIRROR	1171		kioo	kioo 
+666	1-7-11-1	7214173473522205	Swahili	swah1253	to live	DWELL (LIVE, RESIDE)	363		-kaa	-kaa 
+667	1-7-11-2	72141734756066150	Swahili	swah1253	to live	DWELL (LIVE, RESIDE)	363		-ishi	-ishi 
+668	1-7-12-1	72141734108017430	Swahili	swah1253	the house	HOUSE	1252		nyumba	nyumba 
+669	1-7-13-1	72141734923716787	Swahili	swah1253	the hut	HUT	1678		kibanda	kibanda 
+670	1-7-14-1	72141734684811249	Swahili	swah1253	the tent	TENT	1316		hema	hema 
+671	1-7-15-1	72141734367384432	Swahili	swah1253	the yard or court	YARD	736		ua (1)	ua (1) 
+672	1-7-17-1	72141734179522405	Swahili	swah1253	the cookhouse	COOKHOUSE	334		jiko	jiko 
+673	1-7-21-1	72141734217384467	Swahili	swah1253	the room	ROOM	1450		chumba	chumba 
+674	1-7-22-1	72141734388443141	Swahili	swah1253	the door or gate	DOOR	1567		mlango	mlango 
+675	1-7-221-1	72141734147911930	Swahili	swah1253	the doorpost	DOORPOST	80		mhimili (wa mlango)	mhimili (wa mlango) 
+676	1-7-221-2	72141734446368260	Swahili	swah1253	the doorpost	DOORPOST	80		mwimo	mwimo 
+677	1-7-23-1	72141734803624433	Swahili	swah1253	the lock	LOCK	1596		kitasa	kitasa 
+678	1-7-231-1	72141734320196515	Swahili	swah1253	the latch or door-bolt	LATCH	1012		komeo	komeo 
+679	1-7-24-1	72141734625480797	Swahili	swah1253	the key	KEY	1472		ufunguo	ufunguo 
+680	1-7-25-1	72141734651281384	Swahili	swah1253	the window	WINDOW	1375		dirisha	dirisha 
+681	1-7-26-1	72141734930828047	Swahili	swah1253	the floor	FLOOR	1632		sakafu	sakafu 
+682	1-7-27-1	72141734862775640	Swahili	swah1253	the wall	WALL (OF HOUSE)	933		ukuta	ukuta 
+683	1-7-31-1	72141734179522405	Swahili	swah1253	the fireplace	FIREPLACE	185		jiko	jiko 
+684	1-7-32-1	72141734179522405	Swahili	swah1253	the stove	STOVE	859		jiko	jiko 
+685	1-7-32-2	72141734488119594	Swahili	swah1253	the stove	STOVE	859		stovu	stovu 
+686	1-7-33-1	72141734540718492	Swahili	swah1253	the chimney	CHIMNEY	1305		dohani	dohani 
+687	1-7-42-1	72141734456931356	Swahili	swah1253	the bed	BED	1663		kitanda	kitanda 
+688	1-7-421-1	72141734290931461	Swahili	swah1253	the pillow	PILLOW	1044		mto (2)	mto (2) 
+689	1-7-422-1	72141734449485138	Swahili	swah1253	the blanket	BLANKET	806		blangeti, blanketi	blangeti 
+690	1-7-422-2	72141734449485138	Swahili	swah1253	the blanket	BLANKET	806		blangeti, blanketi	blanketi 
+691	1-7-43-1	72141734421687411	Swahili	swah1253	the chair	CHAIR	1476		kiti	kiti 
+692	1-7-44-1	721417347679491	Swahili	swah1253	the table	TABLE	1775		meza	meza 
+693	1-7-45-1	72141734512740903	Swahili	swah1253	the lamp or torch	TORCH OR LAMP	2131		taa (1)	taa (1) 
+694	1-7-46-1	72141734139960256	Swahili	swah1253	the candle	CANDLE	1273		mshumaa	mshumaa 
+695	1-7-47-1	72141734154874829	Swahili	swah1253	the shelf	SHELF	745		rafu	rafu 
+696	1-7-48-1	72141734856723847	Swahili	swah1253	the trough	TROUGH	205		hori	hori 
+697	1-7-51-1	72141734497159788	Swahili	swah1253	the roof	ROOF	769		paa	paa 
+698	1-7-52-1	72141734308499347	Swahili	swah1253	the thatch	THATCH	279		maezeko	maezeko 
+699	1-7-53-1	7214173434105942	Swahili	swah1253	the ridgepole	RIDGEPOLE	280		mwamba (2)	mwamba (2) 
+700	1-7-54-1	72141734331468232	Swahili	swah1253	the rafter	RAFTER	829		pau, pao	pau 
+701	1-7-54-2	72141734331468232	Swahili	swah1253	the rafter	RAFTER	829		pau, pao	pao 
+702	1-7-54-3	72141734959546437	Swahili	swah1253	the rafter	RAFTER	829		kombamoyo	kombamoyo 
+703	1-7-55-1	72141734589295429	Swahili	swah1253	the beam	BEAM	1132		boriti	boriti 
+704	1-7-56-1	72141734727689323	Swahili	swah1253	the post or pole	POST	281		nguzo	nguzo 
+705	1-7-56-2	7214173494837761	Swahili	swah1253	the post or pole	POST	281		mhimili	mhimili 
+706	1-7-56-3	72141734446368260	Swahili	swah1253	the post or pole	POST	281		mwimo	mwimo 
+707	1-7-57-1	72141734940524544	Swahili	swah1253	the board	BOARD	1227		ubao	ubao 
+708	1-7-58-1	7214173462054788	Swahili	swah1253	the arch	ARCH	876		tao	tao 
+709	1-7-61-1	72141734694079460	Swahili	swah1253	the mason	MASON	877		mwashi	mwashi 
+710	1-7-62-1	72141734716233408	Swahili	swah1253	the brick	BRICK	1006		tofali	tofali 
+711	1-7-63-1	72141734996537553	Swahili	swah1253	the mortar(2)	MORTAR BINDER	1731		mota (2)	mota (2) 
+712	1-7-63-2	72141734147652491	Swahili	swah1253	the mortar(2)	MORTAR BINDER	1731		chokaa	chokaa 
+713	1-8-11-1	72141734563524785	Swahili	swah1253	the farmer	FARMER	979		mkulima	mkulima 
+714	1-8-12-1	72141734281846518	Swahili	swah1253	the field	FIELD	212		shamba	shamba 
+715	1-8-13-1	72141734262084109	Swahili	swah1253	the garden	GARDEN	586		bustani	bustani 
+716	1-8-15-1	72141734498897020	Swahili	swah1253	to cultivate	CULTIVATE	1541		-lima	-lima 
+717	1-8-16-1	72141734367384432	Swahili	swah1253	the fence	FENCE	1690		ua (1)	ua (1) 
+718	1-8-17-1	72141734767298571	Swahili	swah1253	the ditch	DITCH	2002		mfereji	mfereji 
+719	1-8-21-1	72141734658581388	Swahili	swah1253	to plough/plow	PLOUGH	1921		plau	plau 
+720	1-8-212-1	721417347292211	Swahili	swah1253	the furrow	FURROW	1794		mfuo	mfuo 
+721	1-8-22-1	72141734440080949	Swahili	swah1253	to dig	DIG	1418		-chimba	-chimba 
+722	1-8-23-1	72141734697602922	Swahili	swah1253	the spade	SPADE	1176		sepetu, sepeto	sepetu 
+723	1-8-23-2	72141734697602922	Swahili	swah1253	the spade	SPADE	1176		sepetu, sepeto	sepeto 
+724	1-8-23-3	72141734186818795	Swahili	swah1253	the spade	SPADE	1176		beleshi	beleshi 
+725	1-8-24-1	72141734263955973	Swahili	swah1253	the shovel	SHOVEL	1901		koleo	koleo 
+726	1-8-24-2	72141734186818795	Swahili	swah1253	the shovel	SHOVEL	1901		beleshi	beleshi 
+727	1-8-24-3	72141734914557714	Swahili	swah1253	the shovel	SHOVEL	1901		shepe	shepe 
+728	1-8-24-4	72141734697602922	Swahili	swah1253	the shovel	SHOVEL	1901		sepetu, sepeto	sepetu 
+729	1-8-24-5	72141734697602922	Swahili	swah1253	the shovel	SHOVEL	1901		sepetu, sepeto	sepeto 
+730	1-8-25-1	72141734307464501	Swahili	swah1253	the hoe	HOE	284		jembe	jembe 
+731	1-8-26-1	7214173414319654	Swahili	swah1253	the fork(2)/pitchfork	PITCHFORK	337		uma	uma 
+732	1-8-27-1	72141734767884193	Swahili	swah1253	the rake	RAKE	338		reki	reki 
+733	1-8-31-1	72141734627741512	Swahili	swah1253	to sow	SOW SEEDS	748		-sia	-sia 
+734	1-8-31-2	72141734836015728	Swahili	swah1253	to sow	SOW SEEDS	748		-panda (1)	-panda (1) 
+735	1-8-311-1	7214173472107532	Swahili	swah1253	the seed	SEED	714		mbegu	mbegu 
+736	1-8-32-1	72141734227511948	Swahili	swah1253	to mow	MOW	190		-fyeka	-fyeka 
+737	1-8-33-1	72141734962433857	Swahili	swah1253	the sickle or scythe	SICKLE OR SCYTHE	2132		mundu	mundu 
+738	1-8-34-1	72141734488953144	Swahili	swah1253	to thresh	THRESH	285		-puta	-puta 
+739	1-8-35-1	72141734990693806	Swahili	swah1253	the threshing-floor	THRESHING-FLOOR	223		uga (wa kupuria nafaka)	uga (wa kupuria nafaka) 
+740	1-8-41-1	72141734570424938	Swahili	swah1253	the harvest	HARVEST	611		mavuno	mavuno 
+741	1-8-42-1	72141734389694548	Swahili	swah1253	the grain	GRAIN	605		nafaka	nafaka 
+742	1-8-43-1	72141734554710512	Swahili	swah1253	the wheat	WHEAT	1077		ngano	ngano 
+743	1-8-44-1	72141734173778581	Swahili	swah1253	the barley	BARLEY	932		shayiri	shayiri 
+744	1-8-47-1	72141734272978183	Swahili	swah1253	the maize/corn	MAIZE	506		mahindi	mahindi 
+745	1-8-47-2	72141734617435953	Swahili	swah1253	the maize/corn	MAIZE	506		muhindi	muhindi 
+746	1-8-48-1	72141734209967149	Swahili	swah1253	the rice	RICE	926		wali	wali 
+747	1-8-48-2	72141734271952299	Swahili	swah1253	the rice	RICE	926		mchele	mchele 
+748	1-8-48-3	72141734131045816	Swahili	swah1253	the rice	RICE	926		mpunga	mpunga 
+749	1-8-51-1	72141734702232695	Swahili	swah1253	the grass	GRASS	606		jani	jani 
+750	1-8-51-2	7214173415385513	Swahili	swah1253	the grass	GRASS	606		nyasi	nyasi 
+751	1-8-53-1	72141734907711439	Swahili	swah1253	the plant	PLANT (VEGETATION)	653		mmea	mmea 
+752	1-8-531-1	72141734836015728	Swahili	swah1253	to plant	PLANT (SOMETHING)	1486		-panda (1)	-panda (1) 
+753	1-8-54-1	72141734855711286	Swahili	swah1253	the root	ROOT	670		mzizi	mzizi 
+754	1-8-55-1	72141734351665106	Swahili	swah1253	the branch	BRANCH OR TWIG	3223		tawi	tawi 
+755	1-8-56-1	72141734702232695	Swahili	swah1253	the leaf	LEAF	628		jani	jani 
+756	1-8-57-1	72141734293132048	Swahili	swah1253	the flower	FLOWER	239		ua (2)	ua (2) 
+757	1-8-6-1	72141734640277976	Swahili	swah1253	the tree	TREE	906		mti	mti 
+758	1-8-61-1	72141734966065638	Swahili	swah1253	the oak	OAK	644		muoki	muoki 
+759	1-8-63-1	72141734580084475	Swahili	swah1253	the birch	BIRCH	1855		mbetula	mbetula 
+760	1-8-64-1	72141734181316858	Swahili	swah1253	the pine	PINE	1740		msonobari	msonobari 
+761	1-8-65-1	72141734181316858	Swahili	swah1253	the fir	FIR	1915		msonobari	msonobari 
+762	1-8-67-1	72141734650954513	Swahili	swah1253	the vine	VINE	343		mzabibu	mzabibu 
+763	1-8-68-1	72141734529988032	Swahili	swah1253	the tobacco	TOBACCO	974		tumbaku	tumbaku 
+764	1-8-69-1	72141734318438954	Swahili	swah1253	to smoke	SMOKE (INHALE)	1689		-vuta (sigara)	-vuta (sigara) 
+765	1-8-691-1	72141734379467377	Swahili	swah1253	the pipe	PIPE	1124		kiko (2)	kiko (2) 
+766	1-8-72-1	72141734880394598	Swahili	swah1253	the tree stump	TREE STUMP	241		kisiki	kisiki 
+767	1-8-73-1	72141734942328822	Swahili	swah1253	the tree trunk	TREE TRUNK	344		shina	shina 
+768	1-8-74-1	72141734352686083	Swahili	swah1253	the forked branch	FORKED BRANCH	409		panda (1)	panda (1) 
+769	1-8-75-1	72141734913197232	Swahili	swah1253	the bark	BARK	1204		gome	gome 
+770	1-8-76-1	72141734143713463	Swahili	swah1253	the sap	SAP	345		utomvu	utomvu 
+771	1-8-81-1	72141734329250800	Swahili	swah1253	the palm tree	PALM TREE	1181		mnazi	mnazi 
+772	1-8-81-2	72141734179928936	Swahili	swah1253	the palm tree	PALM TREE	1181		mtende	mtende 
+773	1-8-81-3	72141734595915939	Swahili	swah1253	the palm tree	PALM TREE	1181		mchikichi	mchikichi 
+774	1-8-81-4	72141734298858946	Swahili	swah1253	the palm tree	PALM TREE	1181		muwaa	muwaa 
+775	1-8-81-5	72141734645901284	Swahili	swah1253	the palm tree	PALM TREE	1181		mwale	mwale 
+776	1-8-82-1	7214173460601288	Swahili	swah1253	the coconut	COCONUT	970		nazi	nazi 
+777	1-8-82-2	72141734366003933	Swahili	swah1253	the coconut	COCONUT	970		dafu	dafu 
+778	1-8-83-1	72141734140894927	Swahili	swah1253	the citrus fruit	CITRUS FRUIT	1126		chungwa	chungwa 
+779	1-8-83-2	72141734200481479	Swahili	swah1253	the citrus fruit	CITRUS FRUIT	1126		limau	limau 
+780	1-8-83-3	72141734175411607	Swahili	swah1253	the citrus fruit	CITRUS FRUIT	1126		ndimu	ndimu 
+781	1-8-83-4	72141734128756273	Swahili	swah1253	the citrus fruit	CITRUS FRUIT	1126		chenza	chenza 
+782	1-8-83-5	72141734445563796	Swahili	swah1253	the citrus fruit	CITRUS FRUIT	1126		balungi	balungi 
+783	1-8-84-1	72141734521232208	Swahili	swah1253	the banana	BANANA	868		ndizi	ndizi 
+784	1-8-85-1	72141734380979330	Swahili	swah1253	the banyan	BANYAN	346		mlandawa	mlandawa 
+785	1-8-91-1	72141734991099588	Swahili	swah1253	the sweet potato	SWEET POTATO	159		kiazi	kiazi 
+786	1-8-91-2	72141734519478094	Swahili	swah1253	the sweet potato	SWEET POTATO	159		kiazi kitamu	kiazi kitamu 
+787	1-8-912-1	72141734450652725	Swahili	swah1253	the yam	YAM	410		kiazi kikuu	kiazi kikuu 
+788	1-8-92-1	72141734135385647	Swahili	swah1253	the cassava/manioc	CASSAVA	925		muhogo	muhogo 
+789	1-8-93-1	72141734904922723	Swahili	swah1253	the gourd	GOURD	411		mung’unye, mumunya	mung’unye 
+790	1-8-93-2	72141734904922723	Swahili	swah1253	the gourd	GOURD	411		mung’unye, mumunya	mumunya 
+791	1-8-93-3	7214173472718041	Swahili	swah1253	the gourd	GOURD	411		bodwe	bodwe 
+792	1-8-93-4	7214173452889955	Swahili	swah1253	the gourd	GOURD	411		kibuyu	kibuyu 
+793	1-8-93-5	72141734987936167	Swahili	swah1253	the gourd	GOURD	411		mboko	mboko 
+794	1-8-931-1	72141734171697272	Swahili	swah1253	the pumpkin or squash	PUMPKIN	864		boga	boga 
+795	1-8-94-1	72141734248853227	Swahili	swah1253	the bamboo	BAMBOO	1927		mwanzi	mwanzi 
+796	1-8-941-1	72141734647216407	Swahili	swah1253	the sugar cane	SUGAR CANE	146		muwa	muwa 
+797	1-8-96-1	72141734429148512	Swahili	swah1253	the fish poison	FISH POISON	348		utupa	utupa 
+798	1-8-98-1	72141734186894421	Swahili	swah1253	the mushroom	MUSHROOM	641		uyoga	uyoga 
+799	1-9-11-1	72141734297568215	Swahili	swah1253	to do	DO	813		-fanya	-fanya 
+800	1-9-11-2	7214173428047312	Swahili	swah1253	to do	DO	813		-tenda	-tenda 
+801	1-9-12-1	72141734198513324	Swahili	swah1253	the work	WORK (LABOUR)	984		kazi	kazi 
+802	1-9-14-1	72141734473553446	Swahili	swah1253	to bend	BEND	2004		-pinda	-pinda 
+803	1-9-15-1	72141734898540332	Swahili	swah1253	to fold	FOLD	1470		-kunja	-kunja 
+804	1-9-16-1	72141734404696402	Swahili	swah1253	to tie	TIE	1917		-funga	-funga 
+805	1-9-161-1	72141734590088616	Swahili	swah1253	to untie	UNTIE	352		-fungua	-fungua 
+806	1-9-18-1	72141734115848426	Swahili	swah1253	the chain	CHAIN	1627		mnyororo	mnyororo 
+807	1-9-18-2	72141734355085386	Swahili	swah1253	the chain	CHAIN	1627		mkufu	mkufu 
+808	1-9-19-1	72141734182672355	Swahili	swah1253	the rope	ROPE	1218		kamba (2)	kamba (2) 
+809	1-9-192-1	72141734462576963	Swahili	swah1253	the knot	KNOT	760		fundo	fundo 
+810	1-9-21-1	72141734975596332	Swahili	swah1253	to strike or hit or beat	STRIKE OR BEAT	2133		-piga	-piga 
+811	1-9-211-1	72141734447519191	Swahili	swah1253	to pound	POUND	354		-gongagonga	-gongagonga 
+812	1-9-22-1	72141734922120228	Swahili	swah1253	to cut	CUT	1432		-kata	-kata 
+813	1-9-221-1	72141734922120228	Swahili	swah1253	to cut down	CUT DOWN	355		-kata	-kata 
+814	1-9-222-1	72141734530279562	Swahili	swah1253	to chop	CHOP	155		-tema (1) kuni	-tema (1) kuni 
+815	1-9-222-2	72141734839874646	Swahili	swah1253	to chop	CHOP	155		-chanja, -changa	-chanja 
+816	1-9-222-3	72141734839874646	Swahili	swah1253	to chop	CHOP	155		-chanja, -changa	-changa 
+817	1-9-223-1	72141734638428367	Swahili	swah1253	to stab	STAB TO DEATH	3189		-choma	-choma 
+818	1-9-23-1	7214173499883404	Swahili	swah1253	the knife(2)	KNIFE	1352		kisu	kisu 
+819	1-9-24-1	721417348087830	Swahili	swah1253	the scissors or shears	SHEARS	356		mkasi, makasi	mkasi 
+820	1-9-24-2	721417348087830	Swahili	swah1253	the scissors or shears	SHEARS	356		mkasi, makasi	makasi 
+821	1-9-25-1	72141734265356942	Swahili	swah1253	the axe/ax	AXE	677		shoka	shoka 
+822	1-9-251-1	72141734384598411	Swahili	swah1253	the adze	ADZE	290		tezo	tezo 
+823	1-9-26-1	72141734207710838	Swahili	swah1253	to break	BREAK (DESTROY OR GET DESTROYED)	680		-vunja	-vunja 
+824	1-9-261-1	7214173425968474	Swahili	swah1253	broken	BROKEN (NOT WORKING)	3190		-vunjika	-vunjika 
+825	1-9-27-1	72141734550449007	Swahili	swah1253	to split	SPLIT	1437		-pasua	-pasua 
+826	1-9-28-1	72141734653759863	Swahili	swah1253	to tear	TEAR (SHRED)	1735		-chana	-chana 
+827	1-9-28-2	7214173479803596	Swahili	swah1253	to tear	TEAR (SHRED)	1735		-rarua	-rarua 
+828	1-9-28-3	72141734550449007	Swahili	swah1253	to tear	TEAR (SHRED)	1735		-pasua	-pasua 
+829	1-9-83-1	72141734576847704	Swahili	swah1253	the statue	STATUE	1002		sanamu	sanamu 
+830	1-9-29-1	72141734331085352	Swahili	swah1253	to skin	PULL OFF (SKIN)	291		-chuna	-chuna 
+831	1-9-31-1	7214173412201728	Swahili	swah1253	to rub	RUB	1449		-fikicha	-fikicha 
+832	1-9-31-2	72141734686029936	Swahili	swah1253	to rub	RUB	1449		-chua	-chua 
+833	1-9-32-1	72141734556584133	Swahili	swah1253	to stretch	STRETCH	214		-tanua	-tanua 
+834	1-9-33-1	7214173437132344	Swahili	swah1253	to pull	PULL	1455		-vuta	-vuta 
+835	1-9-34-1	72141734809141256	Swahili	swah1253	to spread out	SPREAD OUT	38		-tanda, -tandika, -tandaza	-tanda 
+836	1-9-34-2	72141734809141256	Swahili	swah1253	to spread out	SPREAD OUT	38		-tanda, -tandika, -tandaza	-tandika 
+837	1-9-34-3	72141734809141256	Swahili	swah1253	to spread out	SPREAD OUT	38		-tanda, -tandika, -tandaza	-tandaza 
+838	1-9-341-1	72141734420535598	Swahili	swah1253	to hang up	HANG UP	357		-angika	-angika 
+839	1-9-342-1	72141734120649146	Swahili	swah1253	to press	PRESS	1913		-gandamiza	-gandamiza 
+840	1-9-343-1	7214173448199983	Swahili	swah1253	to squeeze	SQUEEZE	1414		-kama	-kama 
+841	1-9-343-2	72141734642151884	Swahili	swah1253	to squeeze	SQUEEZE	1414		-minya	-minya 
+842	1-9-343-3	72141734139008014	Swahili	swah1253	to squeeze	SQUEEZE	1414		-songa	-songa 
+843	1-9-35-1	72141734661246070	Swahili	swah1253	to pour	POUR	1487		-mimina	-mimina 
+844	1-9-35-2	72141734402685649	Swahili	swah1253	to pour	POUR	1487		-mwaga	-mwaga 
+845	1-9-36-1	72141734261276370	Swahili	swah1253	to wash	WASH	1453		-nawa	-nawa 
+846	1-9-36-2	72141734731906300	Swahili	swah1253	to wash	WASH	1453		-oga	-oga 
+847	1-9-36-3	72141734702602920	Swahili	swah1253	to wash	WASH	1453		-osha	-osha 
+848	1-9-36-4	72141734178552935	Swahili	swah1253	to wash	WASH	1453		-fua	-fua 
+849	1-9-37-1	72141734807672274	Swahili	swah1253	to sweep	SWEEP	230		-fagia	-fagia 
+850	1-9-38-1	72141734476387600	Swahili	swah1253	the broom	BROOM	245		ufagio	ufagio 
+851	1-9-422-1	72141734582902837	Swahili	swah1253	the tool	TOOL	1361		kifaa	kifaa 
+852	1-9-422-2	72141734696655464	Swahili	swah1253	the tool	TOOL	1361		ala	ala 
+853	1-9-422-3	72141734802701878	Swahili	swah1253	the tool	TOOL	1361		chombo	chombo 
+854	1-9-422-4	721417346972615	Swahili	swah1253	the tool	TOOL	1361		zana	zana 
+855	1-9-43-1	72141734144112339	Swahili	swah1253	the carpenter	CARPENTER	1042		seremala	seremala 
+856	1-9-44-1	7214173487418348	Swahili	swah1253	to build	BUILD	1840		-jenga	-jenga 
+857	1-9-46-1	72141734667026103	Swahili	swah1253	to bore	BORE	1501		-pekecha	-pekecha 
+858	1-9-46-2	72141734619726781	Swahili	swah1253	to bore	BORE	1501		-toboa	-toboa 
+859	1-9-461-1	72141734316316288	Swahili	swah1253	to hollow out	HOLLOW OUT	46		-komba	-komba 
+860	1-9-461-2	72141734701824720	Swahili	swah1253	to hollow out	HOLLOW OUT	46		-fukua	-fukua 
+861	1-9-48-1	72141734517520273	Swahili	swah1253	the saw	SAW	1948		msumeno	msumeno 
+862	1-9-49-1	72141734280701993	Swahili	swah1253	the hammer	HAMMER	1481		nyundo	nyundo 
+863	1-9-5-1	72141734209833670	Swahili	swah1253	the nail	NAIL (TOOL)	502		msumari	msumari 
+864	1-9-56-1	7214173460602109	Swahili	swah1253	the glue	GLUE	1069		gundi	gundi 
+865	1-9-56-2	72141734324845533	Swahili	swah1253	the glue	GLUE	1069		gamu	gamu 
+866	1-9-56-3	72141734832933943	Swahili	swah1253	the glue	GLUE	1069		gluu	gluu 
+867	1-9-56-4	7214173495745733	Swahili	swah1253	the glue	GLUE	1069		ulimbo	ulimbo 
+868	1-9-56-5	72141734516220186	Swahili	swah1253	the glue	GLUE	1069		sherisi	sherisi 
+869	1-9-6-1	7214173471813715	Swahili	swah1253	the blacksmith	BLACKSMITH	1001		mhunzi (wa chuma)	mhunzi (wa chuma) 
+870	1-9-61-1	72141734178552935	Swahili	swah1253	to forge	FORGE	288		-fua	-fua 
+871	1-9-62-1	72141734112857951	Swahili	swah1253	the anvil	ANVIL	1648		fuawe	fuawe 
+872	1-9-63-1	7214173435305325	Swahili	swah1253	to cast	CAST	211		-subu	-subu 
+873	1-9-63-2	72141734311909933	Swahili	swah1253	to cast	CAST	211		-kalibu	-kalibu 
+874	1-9-64-1	7214173472769673	Swahili	swah1253	the gold	GOLD	1369		dhahabu	dhahabu 
+875	1-9-65-1	7214173460324566	Swahili	swah1253	the silver	SILVER	759		fedha	fedha 
+876	1-9-66-1	72141734231966500	Swahili	swah1253	the copper	COPPER	1825		shaba	shaba 
+877	1-9-67-1	72141734492416200	Swahili	swah1253	the iron	IRON	621		chuma	chuma 
+878	1-9-68-1	72141734615414963	Swahili	swah1253	the lead	LEAD (CHEMICAL ELEMENT)	627		risasi	risasi 
+879	1-9-69-1	72141734344050944	Swahili	swah1253	the tin or tinplate	TIN OR TINPLATE	3217		bati	bati 
+880	1-9-71-1	72141734367674854	Swahili	swah1253	the potter	POTTER	359		mfinyanzi	mfinyanzi 
+881	1-9-72-1	72141734133141715	Swahili	swah1253	to mould/mold	MOLD	289		-finyanga	-finyanga 
+882	1-9-72-2	72141734743965350	Swahili	swah1253	to mould/mold	MOLD	289		-umba	-umba 
+883	1-9-73-1	72141734889450799	Swahili	swah1253	the clay	CLAY	1399		udongo (wa mfinyanzi)	udongo (wa mfinyanzi) 
+884	1-9-74-1	72141734492433338	Swahili	swah1253	the glass	GLASS	604		kioo	kioo 
+885	1-9-75-1	72141734769813183	Swahili	swah1253	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		-fuma	-fuma 
+886	1-9-75-2	72141734600442308	Swahili	swah1253	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		-suka	-suka 
+887	1-9-76-1	72141734560175137	Swahili	swah1253	the basket	BASKET	1539		kikapu	kikapu 
+888	1-9-77-1	72141734291027169	Swahili	swah1253	the mat	MAT	195		mkeka	mkeka 
+889	1-9-77-2	72141734834733608	Swahili	swah1253	the mat	MAT	195		jamvi	jamvi 
+890	1-9-771-1	72141734371582478	Swahili	swah1253	the rug	RUG	292		zulia	zulia 
+891	1-9-79-1	72141734844212907	Swahili	swah1253	the fan	FAN (OBJECT)	1971		kipepeo	kipepeo 
+892	1-9-79-2	72141734457472821	Swahili	swah1253	the fan	FAN (OBJECT)	1971		feni	feni 
+893	1-9-791-1	72141734338795158	Swahili	swah1253	to fan	FAN ACTION	360		-pepea	-pepea 
+894	1-9-81-1	72141734107398216	Swahili	swah1253	to carve	CARVE	228		-chonga	-chonga 
+895	1-9-81-2	7214173432515840	Swahili	swah1253	to carve	CARVE	228		-nakshi, -nakishi	-nakshi 
+896	1-9-81-3	7214173432515840	Swahili	swah1253	to carve	CARVE	228		-nakshi, -nakishi	-nakishi 
+897	1-9-82-1	72141734505808672	Swahili	swah1253	the sculptor	SCULPTOR	914		mchongaji (wa sanamu)	mchongaji (wa sanamu) 
+898	1-9-84-1	72141734270476172	Swahili	swah1253	the chisel	CHISEL	1979		patasi	patasi 
+899	1-9-84-2	72141734224545048	Swahili	swah1253	the chisel	CHISEL	1979		chembeo	chembeo 
+900	1-9-88-1	72141734515172813	Swahili	swah1253	the paint	PAINT (PIGMENTS)	647		rangi	rangi 
+901	1-9-89-1	72141734838357513	Swahili	swah1253	to paint	PAINTING	2001		-tia rangi	-tia rangi 
+902	1-10-11-1	72141734320651727	Swahili	swah1253	to move	MOVE	765		-sogeza	-sogeza 
+903	1-10-12-1	72141734169446991	Swahili	swah1253	to turn	TURN	1588		-geuza	-geuza 
+904	1-10-12-2	72141734221143141	Swahili	swah1253	to turn	TURN	1588		-pindua	-pindua 
+905	1-10-13-1	72141734392768917	Swahili	swah1253	to turn around	TURN (SOMETHING)	1445		-geuka	-geuka 
+906	1-10-13-2	72141734475090878	Swahili	swah1253	to turn around	TURN (SOMETHING)	1445		-pinduka	-pinduka 
+907	1-10-14-1	72141734285398317	Swahili	swah1253	to wrap	WRAP	1113		-viringisha	-viringisha 
+908	1-10-15-1	72141734326213047	Swahili	swah1253	to roll	ROLL	827		-bingirisha	-bingirisha 
+909	1-10-16-1	72141734836015999	Swahili	swah1253	to drop	DROP (SOMETHING)	2866		-angusha	-angusha 
+910	1-10-17-1	72141734453937148	Swahili	swah1253	to twist	TWIST (AROUND)	3199		-sokota	-sokota 
+911	1-10-17-2	72141734139008014	Swahili	swah1253	to twist	TWIST (AROUND)	3199		-songa	-songa 
+912	1-10-21-1	72141734776286206	Swahili	swah1253	to rise	RISE (MOVE UPWARDS)	568		-inuka	-inuka 
+913	1-10-21-2	72141734906475082	Swahili	swah1253	to rise	RISE (MOVE UPWARDS)	568		-toka	-toka 
+914	1-10-21-3	72141734313729495	Swahili	swah1253	to rise	RISE (MOVE UPWARDS)	568		-amka	-amka 
+915	1-10-21-4	7981038275143279	Swahili	swah1253	to rise	RISE (MOVE UPWARDS)	568		-chomoza	-chomoza 
+916	1-10-22-1	72141734879888869	Swahili	swah1253	to raise or lift	LIFT	501		-inua	-inua 
+917	1-10-23-1	72141734337647702	Swahili	swah1253	to fall	FALL	1280		-anguka	-anguka 
+918	1-10-24-1	7214173470902309	Swahili	swah1253	to drip	DRIP (EMIT LIQUID)	2253		-tona	-tona 
+919	1-10-24-2	72141734553516528	Swahili	swah1253	to drip	DRIP (EMIT LIQUID)	2253		-dondoka	-dondoka 
+920	1-10-25-1	72141734346326796	Swahili	swah1253	to throw	THROW	1456		-rusha	-rusha 
+921	1-10-25-2	72141734314809781	Swahili	swah1253	to throw	THROW	1456		-tupa	-tupa 
+922	1-10-252-1	72141734567159975	Swahili	swah1253	to catch	CATCH	702		-kamata	-kamata 
+923	1-10-26-1	72141734107041140	Swahili	swah1253	to shake	SHAKE	1909		-tikisa	-tikisa 
+924	1-10-26-2	72141734563485985	Swahili	swah1253	to shake	SHAKE	1909		-tingisha	-tingisha 
+925	1-10-32-1	72141734584945864	Swahili	swah1253	to flow	FLOW	2003		-tiririka	-tiririka 
+926	1-10-33-1	7214173442208389	Swahili	swah1253	to sink	SINK (DESCEND)	1088		-zama	-zama 
+927	1-10-34-1	72141734356390956	Swahili	swah1253	to float	FLOAT	1574		-elea	-elea 
+928	1-10-35-1	72141734426865442	Swahili	swah1253	to swim	SWIM	1439		-ogelea	-ogelea 
+929	1-10-351-1	72141734400706316	Swahili	swah1253	to dive	DIVE	119		mbizi	mbizi 
+930	1-10-352-1	72141734407219926	Swahili	swah1253	to splash	SPLASH	365		-rushia (maji)	-rushia (maji) 
+931	1-10-36-1	72141734803397451	Swahili	swah1253	to sail	SAIL	787		-endesha kwa tanga	-endesha kwa tanga 
+932	1-10-37-1	72141734386353455	Swahili	swah1253	to fly	FLY (MOVE THROUGH AIR)	1441		-ruka	-ruka 
+933	1-10-38-1	72141734111348357	Swahili	swah1253	to blow	BLOW (OF WIND)	175		-vuma	-vuma 
+934	1-10-38-2	72141734953334900	Swahili	swah1253	to blow	BLOW (OF WIND)	175		-puliza	-puliza 
+935	1-10-41-1	72141734367013768	Swahili	swah1253	to crawl	CRAWL	96		-tambaa	-tambaa 
+936	1-10-412-1	72141734134141733	Swahili	swah1253	to kneel	KNEEL	66		-piga magoti	-piga magoti 
+937	1-10-413-1	72141734847667467	Swahili	swah1253	to crouch	CROUCH	296		-chutama	-chutama 
+938	1-10-413-2	72141734114934865	Swahili	swah1253	to crouch	CROUCH	296		-kunyata	-kunyata 
+939	1-10-413-3	72141734366344441	Swahili	swah1253	to crouch	CROUCH	296		-chuchumaa	-chuchumaa 
+940	1-10-42-1	72141734319469957	Swahili	swah1253	to slide or slip	SLIP	1324		-teleza	-teleza 
+941	1-10-42-2	72141734861402789	Swahili	swah1253	to slide or slip	SLIP	1324		-serereka	-serereka 
+942	1-10-43-1	72141734386353455	Swahili	swah1253	to jump	JUMP	1829		-ruka	-ruka 
+943	1-10-43-2	72141734512767613	Swahili	swah1253	to jump	JUMP	1829		-chupa	-chupa 
+944	1-10-431-1	72141734436887229	Swahili	swah1253	to kick	KICK	1135		teke	teke 
+945	1-10-44-1	72141734906836288	Swahili	swah1253	to dance	DANCE	1879		-cheza ngoma	-cheza ngoma 
+946	1-10-44-2	72141734366939175	Swahili	swah1253	to dance	DANCE	1879		dansi	dansi 
+947	1-10-45-1	72141734516918959	Swahili	swah1253	to walk	WALK	1443		-enda kwa miguu	-enda kwa miguu 
+948	1-10-45-2	72141734154159613	Swahili	swah1253	to walk	WALK	1443		-tembea	-tembea 
+949	1-10-451-1	72141734944081011	Swahili	swah1253	to limp	LIMP	366		-chechemea	-chechemea 
+950	1-10-451-2	7214173441813028	Swahili	swah1253	to limp	LIMP	366		chopi	chopi 
+951	1-10-46-1	72141734884367507	Swahili	swah1253	to run	RUN	1519		-kimbia	-kimbia 
+952	1-10-46-2	72141734701224773	Swahili	swah1253	to run	RUN	1519		mbio	mbio 
+953	1-10-47-1	72141734930612636	Swahili	swah1253	to go	GO	695		-enda	-enda 
+954	1-10-471-1	72141734875793006	Swahili	swah1253	to go up	GO UP (ASCEND)	705		-panda (2)	-panda (2) 
+955	1-10-471-2	7214173473968877	Swahili	swah1253	to go up	GO UP (ASCEND)	705		-enda juu	-enda juu 
+956	1-10-472-1	72141734875793006	Swahili	swah1253	to climb	CLIMB	1102		-panda (2)	-panda (2) 
+957	1-10-472-2	72141734646729732	Swahili	swah1253	to climb	CLIMB	1102		-kwea	-kwea 
+958	1-10-473-1	72141734587253778	Swahili	swah1253	to go down	GO DOWN (DESCEND)	2014		-shuka	-shuka 
+959	1-10-473-2	72141734372837624	Swahili	swah1253	to go down	GO DOWN (DESCEND)	2014		-teremka	-teremka 
+960	1-10-473-3	72141734402826713	Swahili	swah1253	to go down	GO DOWN (DESCEND)	2014		-enda chini	-enda chini 
+961	1-10-474-1	72141734906475082	Swahili	swah1253	to go out	GO OUT	1107		-toka	-toka 
+962	1-10-48-1	72141734612294044	Swahili	swah1253	to come	COME	1446		-ja	-ja 
+963	1-10-481-1	72141734551849345	Swahili	swah1253	to come back	COME BACK	581		-rudi	-rudi 
+964	1-10-481-2	72141734912577468	Swahili	swah1253	to come back	COME BACK	581		-rejea	-rejea 
+965	1-10-49-1	72141734637200003	Swahili	swah1253	to leave	LEAVE	1752		-ondoka	-ondoka 
+966	1-10-491-1	72141734605220540	Swahili	swah1253	to disappear	DISAPPEAR	485		-toweka	-toweka 
+967	1-10-491-2	72141734334614611	Swahili	swah1253	to disappear	DISAPPEAR	485		-tokomea	-tokomea 
+968	1-10-51-1	72141734884367507	Swahili	swah1253	to flee	FLEE	956		-kimbia	-kimbia 
+969	1-10-51-2	72141734652205268	Swahili	swah1253	to flee	FLEE	956		-toroka	-toroka 
+970	1-10-52-1	7214173417750139	Swahili	swah1253	to follow	FOLLOW	1085		-fuata	-fuata 
+971	1-10-53-1	72141734250994716	Swahili	swah1253	to pursue	PURSUE	1047		-fuatilia	-fuatilia 
+972	1-10-55-1	72141734219943121	Swahili	swah1253	to arrive	ARRIVE	1387		-fika	-fika 
+973	1-10-56-1	72141734410850169	Swahili	swah1253	to approach	APPROACH	1778		-karibia	-karibia 
+974	1-10-56-2	72141734947101277	Swahili	swah1253	to approach	APPROACH	1778		-sogelea	-sogelea 
+975	1-10-57-1	72141734124193126	Swahili	swah1253	to enter	ENTER	749		-ingia	-ingia 
+976	1-10-61-1	72141734856918672	Swahili	swah1253	to carry	CARRY	700		-beba	-beba 
+977	1-10-61-2	7214173469867755	Swahili	swah1253	to carry	CARRY	700		-chukua	-chukua 
+978	1-10-61-3	72141734988845317	Swahili	swah1253	to carry	CARRY	700		-eleka	-eleka 
+979	1-10-62-1	72141734715270398	Swahili	swah1253	to bring	BRING	692		-leta	-leta 
+980	1-10-63-1	72141734526807437	Swahili	swah1253	to send	SEND	1127		-tuma	-tuma 
+981	1-10-64-1	72141734626667880	Swahili	swah1253	to lead	LEAD (GUIDE)	43		-ongoza	-ongoza 
+982	1-10-65-1	72141734335596045	Swahili	swah1253	to drive	DRIVE	741		-endesha	-endesha 
+983	1-10-65-2	72141734535193619	Swahili	swah1253	to drive	DRIVE	741		-swaga	-swaga 
+984	1-10-66-1	72141734875793006	Swahili	swah1253	to ride	RIDE	367		-panda (2)	-panda (2) 
+985	1-10-67-1	72141734828151223	Swahili	swah1253	to push	PUSH	1452		-sukuma	-sukuma 
+986	1-10-71-1	72141734308253998	Swahili	swah1253	the road	ROAD	667		barabara (1)	barabara (1) 
+987	1-10-71-2	72141734200008937	Swahili	swah1253	the road	ROAD	667		njia	njia 
+988	1-10-72-1	72141734200008937	Swahili	swah1253	the path	PATH	2252		njia	njia 
+989	1-10-74-1	72141734326084601	Swahili	swah1253	the bridge	BRIDGE	1011		daraja	daraja 
+990	1-10-75-1	72141734749980405	Swahili	swah1253	the cart or wagon	CART	122		gari	gari 
+991	1-10-76-1	72141734152304651	Swahili	swah1253	the wheel	WHEEL	710		gurudumu	gurudumu 
+992	1-10-77-1	72141734611560487	Swahili	swah1253	the axle	AXLE	1769		ekseli	ekseli 
+993	1-10-78-1	72141734443125412	Swahili	swah1253	the yoke	YOKE	14		nira	nira 
+994	1-10-78-2	72141734438218631	Swahili	swah1253	the yoke	YOKE	14		kongwa	kongwa 
+995	1-10-81-1	72141734851490417	Swahili	swah1253	the ship	SHIP	740		meli	meli 
+996	1-10-81-2	72141734158258822	Swahili	swah1253	the ship	SHIP	740		merikebu	merikebu 
+997	1-10-81-3	72141734802701878	Swahili	swah1253	the ship	SHIP	740		chombo	chombo 
+998	1-10-81-4	72141734508262548	Swahili	swah1253	the ship	SHIP	740		jahazi	jahazi 
+999	1-10-83-1	72141734993785926	Swahili	swah1253	the boat	BOAT	1844		mashua	mashua 
+1000	1-10-831-1	72141734350489588	Swahili	swah1253	the canoe	CANOE	1970		mtumbwi	mtumbwi 
+1001	1-10-831-2	72141734207853767	Swahili	swah1253	the canoe	CANOE	1970		ngalawa	ngalawa 
+1002	1-10-832-1	7214173450773871	Swahili	swah1253	the outrigger	OUTRIGGER	416		matengo, matengu	matengo 
+1003	1-10-832-2	7214173450773871	Swahili	swah1253	the outrigger	OUTRIGGER	416		matengo, matengu	matengu 
+1004	1-10-832-3	7214173418532658	Swahili	swah1253	the outrigger	OUTRIGGER	416		rengo, rengu, mrengo, mrengu	rengo 
+1005	1-10-832-4	7214173418532658	Swahili	swah1253	the outrigger	OUTRIGGER	416		rengo, rengu, mrengo, mrengu	rengu 
+1006	1-10-832-5	7214173418532658	Swahili	swah1253	the outrigger	OUTRIGGER	416		rengo, rengu, mrengo, mrengu	mrengo 
+1007	1-10-832-6	7214173418532658	Swahili	swah1253	the outrigger	OUTRIGGER	416		rengo, rengu, mrengo, mrengu	mrengu 
+1008	1-10-832-7	72141734940524544	Swahili	swah1253	the outrigger	OUTRIGGER	416		ubao	ubao 
+1009	1-10-832-8	72141734869135250	Swahili	swah1253	the outrigger	OUTRIGGER	416		tendegu	tendegu 
+1010	1-10-84-1	72141734263235952	Swahili	swah1253	the raft	RAFT	1664		chelezo	chelezo 
+1011	1-10-85-1	72141734817318893	Swahili	swah1253	the oar	RUDDER	108		kasia	kasia 
+1012	1-10-851-1	72141734498060457	Swahili	swah1253	the paddle	PADDLE	234		kafi	kafi 
+1013	1-10-852-1	72141734465854498	Swahili	swah1253	to row	ROW	1849		-piga makasia	-piga makasia 
+1014	1-10-852-2	7214173418274153	Swahili	swah1253	to row	ROW	1849		-vuta makasia	-vuta makasia 
+1015	1-10-86-1	72141734869818865	Swahili	swah1253	the rudder	RUDDER	108		usukani	usukani 
+1016	1-10-87-1	72141734484157959	Swahili	swah1253	the mast	MAST	184		mlingoti	mlingoti 
+1017	1-10-88-1	72141734588530370	Swahili	swah1253	the sail	SAILCLOTH	786		tanga	tanga 
+1018	1-10-89-1	72141734809855300	Swahili	swah1253	the anchor	ANCHOR	1870		nanga	nanga 
+1019	1-10-91-1	72141734600576503	Swahili	swah1253	the port	PORT	610		bandari	bandari 
+1020	1-10-92-1	72141734383993010	Swahili	swah1253	to land	LAND (DESCEND)	1922		-fika pwani	-fika pwani 
+1021	1-10-92-2	721417345719196	Swahili	swah1253	to land	LAND (DESCEND)	1922		-tia nanga	-tia nanga 
+1022	1-10-92-3	72141734614398246	Swahili	swah1253	to land	LAND (DESCEND)	1922		-tua	-tua 
+1023	1-10-92-4	72141734372837624	Swahili	swah1253	to land	LAND (DESCEND)	1922		-teremka	-teremka 
+1024	1-11-11-1	72141734368404879	Swahili	swah1253	to have	HAVE	773		-wa na …	-wa na … 
+1025	1-11-12-1	72141734192129376	Swahili	swah1253	to own	OWN	684		-miliki	-miliki 
+1026	1-11-13-1	72141734309669501	Swahili	swah1253	to take	TAKE	1749		-twaa	-twaa 
+1027	1-11-13-2	7214173469867755	Swahili	swah1253	to take	TAKE	1749		-chukua	-chukua 
+1028	1-11-14-1	72141734910690246	Swahili	swah1253	to grasp	SEIZE	855		-fumbata	-fumbata 
+1029	1-11-14-2	72141734260484590	Swahili	swah1253	to grasp	SEIZE	855		-shika	-shika 
+1030	1-11-15-1	72141734260484590	Swahili	swah1253	to hold	HOLD	1448		-shika	-shika 
+1031	1-11-16-1	72141734182397494	Swahili	swah1253	to get	GET	694		-pata	-pata 
+1032	1-11-17-1	72141734655033639	Swahili	swah1253	to keep	KEEP	1477		-kaa na …	-kaa na … 
+1033	1-11-17-2	72141734267568231	Swahili	swah1253	to keep	KEEP	1477		-hifadhi	-hifadhi 
+1034	1-11-18-1	72141734889093084	Swahili	swah1253	the thing	THING	738		kitu	kitu 
+1035	1-11-21-1	72141734906193339	Swahili	swah1253	to give	GIVE	1447		-pa	-pa 
+1036	1-11-21-2	72141734990203448	Swahili	swah1253	to give	GIVE	1447		-toa	-toa 
+1037	1-11-22-1	72141734776719652	Swahili	swah1253	to give back	GIVE BACK	85		-rudisha	-rudisha 
+1038	1-11-24-1	72141734267568231	Swahili	swah1253	to preserve	PRESERVE	1997		-hifadhi	-hifadhi 
+1039	1-11-25-1	7214173472691176	Swahili	swah1253	to rescue	RESCUE	2008		-okoa	-okoa 
+1040	1-11-27-1	72141734238379692	Swahili	swah1253	to destroy	DESTROY	681		-haribu	-haribu 
+1041	1-11-28-1	72141734307649451	Swahili	swah1253	to injure	INJURE	44		-umiza	-umiza 
+1042	1-11-28-2	72141734583922086	Swahili	swah1253	to injure	INJURE	44		-jeruhi	-jeruhi 
+1043	1-11-31-1	72141734916706374	Swahili	swah1253	to look for	LOOK FOR	1468		-tafuta	-tafuta 
+1044	1-11-32-1	72141734971574406	Swahili	swah1253	to find	FIND	719		-ona	-ona 
+1045	1-11-32-2	72141734182397494	Swahili	swah1253	to find	FIND	719		-pata	-pata 
+1046	1-11-33-1	72141734734349673	Swahili	swah1253	to lose	LOSE	1660		-poteza	-poteza 
+1047	1-11-34-1	72141734497392649	Swahili	swah1253	to let go	LET GO OR SET FREE	1095		-acha	-acha 
+1048	1-11-43-1	7214173460324566	Swahili	swah1253	the money	MONEY	1559		fedha	fedha 
+1049	1-11-43-2	72141734562448940	Swahili	swah1253	the money	MONEY	1559		pesa	pesa 
+1050	1-11-44-1	72141734854786654	Swahili	swah1253	the coin	COIN	1867		sarafu	sarafu 
+1051	1-11-51-1	7214173487969129	Swahili	swah1253	rich	RICH	712		tajiri	tajiri 
+1052	1-11-52-1	72141734554804498	Swahili	swah1253	poor	POOR	1674		maskini	maskini 
+1053	1-11-53-1	72141734710324028	Swahili	swah1253	the beggar	BEGGAR	1934		mwombaji	mwombaji 
+1054	1-11-54-1	72141734501076419	Swahili	swah1253	stingy	STINGY	1774		choyo	choyo 
+1055	1-11-54-2	72141734690483941	Swahili	swah1253	stingy	STINGY	1774		bahili	bahili 
+1056	1-11-61-1	72141734813635965	Swahili	swah1253	to lend	LEND	582		-kopesha	-kopesha 
+1057	1-11-62-1	72141734704575064	Swahili	swah1253	to borrow	BORROW	1823		-kopa	-kopa 
+1058	1-11-63-1	72141734382379008	Swahili	swah1253	to owe	OWE	369		-dai	-dai 
+1059	1-11-63-2	7214173477842025	Swahili	swah1253	to owe	OWE	369		-wia	-wia 
+1060	1-11-64-1	72141734754273191	Swahili	swah1253	the debt	DEBT	1914		deni	deni 
+1061	1-11-65-1	7214173424662222	Swahili	swah1253	to pay	PAY	718		-lipa	-lipa 
+1062	1-11-66-1	72141734329080458	Swahili	swah1253	the bill	BILL	1081		bili	bili 
+1063	1-11-69-1	72141734200458751	Swahili	swah1253	the tax	TAX	873		kodi	kodi 
+1064	1-11-69-2	72141734670238134	Swahili	swah1253	the tax	TAX	873		ushuru	ushuru 
+1065	1-11-77-1	7214173432535888	Swahili	swah1253	to hire	HIRE	856		-ajiri	-ajiri 
+1066	1-11-77-2	72141734659572192	Swahili	swah1253	to hire	HIRE	856		-kodi	-kodi 
+1067	1-11-78-1	72141734445367500	Swahili	swah1253	the wages	WAGES	1122		mshahara	mshahara 
+1068	1-11-79-1	72141734411357987	Swahili	swah1253	to earn	EARN	733		-chuma (mshahara, fedha)	-chuma (mshahara, fedha) 
+1069	1-11-81-1	72141734941903591	Swahili	swah1253	to buy	BUY	1869		-nunua	-nunua 
+1070	1-11-82-1	72141734475377699	Swahili	swah1253	to sell	SELL	1571		-uza	-uza 
+1071	1-11-83-1	72141734621855914	Swahili	swah1253	to trade or barter	TRADE OR BARTER	2135		biashara	biashara 
+1072	1-11-84-1	7214173438368190	Swahili	swah1253	the merchant	MERCHANT	1082		mfanyabiashara	mfanyabiashara 
+1073	1-11-84-2	72141734381714579	Swahili	swah1253	the merchant	MERCHANT	1082		mwenye duka	mwenye duka 
+1074	1-11-85-1	72141734646348897	Swahili	swah1253	the market	MARKET	633		soko	soko 
+1075	1-11-86-1	72141734322799336	Swahili	swah1253	the shop/store	STORE	752		duka	duka 
+1076	1-11-87-1	72141734214655917	Swahili	swah1253	the price	PRICE	657		bei	bei 
+1077	1-11-88-1	72141734351376256	Swahili	swah1253	expensive	EXPENSIVE	1426		ghali	ghali 
+1078	1-11-89-1	72141734451865599	Swahili	swah1253	cheap	CHEAP	1887		rahisi	rahisi 
+1079	1-11-91-1	72141734839571237	Swahili	swah1253	to share	SHARE	884		-gawanya	-gawanya 
+1080	1-11-92-1	72141734898406843	Swahili	swah1253	to weigh	WEIGH	1098		uzito	uzito 
+1081	1-11-92-2	72141734984012076	Swahili	swah1253	to weigh	WEIGH	1098		uzani	uzani 
+1082	1-12-01-1	72141734244213586	Swahili	swah1253	after	AFTER	1685		baada	baada 
+1083	1-12-011-1	72141734356291135	Swahili	swah1253	behind	BEHIND	1686		nyuma	nyuma 
+1084	1-12-02-1	72141734509857158	Swahili	swah1253	beside	BESIDE	1816		kando	kando 
+1085	1-12-03-1	72141734116818533	Swahili	swah1253	down	DOWN	1326		chini	chini 
+1086	1-12-04-1	72141734880685976	Swahili	swah1253	before	BEFORE	1882		kabla	kabla 
+1087	1-12-041-1	72141734177445705	Swahili	swah1253	in front of	IN FRONT OF	1883		mbele	mbele 
+1088	1-12-05-1	72141734965296277	Swahili	swah1253	inside	INSIDE	1606		ndani	ndani 
+1089	1-12-06-1	72141734126307729	Swahili	swah1253	outside	OUTSIDE	762		nje	nje 
+1090	1-12-07-1	72141734116818533	Swahili	swah1253	under	BELOW OR UNDER	1485		chini	chini 
+1091	1-12-08-1	72141734428426380	Swahili	swah1253	up	UP	1591		juu	juu 
+1092	1-12-11-1	72141734639776974	Swahili	swah1253	the place	PLACE (POSITION)	723		mahali	mahali 
+1093	1-12-12-1	72141734633442133	Swahili	swah1253	to put	PUT	998		-weka	-weka 
+1094	1-12-12-2	72141734293807350	Swahili	swah1253	to put	PUT	998		-tia	-tia 
+1095	1-12-13-1	7214173473522205	Swahili	swah1253	to sit	SIT	1416		-kaa	-kaa 
+1096	1-12-14-1	72141734532910760	Swahili	swah1253	to lie down	LIE DOWN	215		-lala	-lala 
+1097	1-12-15-1	72141734835532124	Swahili	swah1253	to stand	STAND	1442		-simama	-simama 
+1098	1-12-15-2	72141734259025562	Swahili	swah1253	to stand	STAND	1442		-ima	-ima 
+1099	1-12-16-1	7214173473522205	Swahili	swah1253	to remain	REMAIN	987		-kaa	-kaa 
+1100	1-12-16-2	72141734979053095	Swahili	swah1253	to remain	REMAIN	987		-baki	-baki 
+1101	1-12-16-3	72141734129628678	Swahili	swah1253	to remain	REMAIN	987		-salia	-salia 
+1102	1-12-17-1	72141734376462441	Swahili	swah1253	the remains	REMAINS	838		mabaki	mabaki 
+1103	1-12-17-2	72141734214026338	Swahili	swah1253	the remains	REMAINS	838		masalio	masalio 
+1104	1-12-17-3	72141734446068620	Swahili	swah1253	the remains	REMAINS	838		kombo	kombo 
+1105	1-12-21-1	72141734211976179	Swahili	swah1253	to gather	GATHER	7		-kusanya	-kusanya 
+1106	1-12-21-2	72141734160845093	Swahili	swah1253	to gather	GATHER	7		-chuma	-chuma 
+1107	1-12-212-1	72141734879888869	Swahili	swah1253	to pick up	PICK UP	371		-inua	-inua 
+1108	1-12-213-1	72141734148638485	Swahili	swah1253	to pile up	PILE UP	1576		-lundika, -rundika	-lundika 
+1109	1-12-213-2	72141734148638485	Swahili	swah1253	to pile up	PILE UP	1576		-lundika, -rundika	-rundika 
+1110	1-12-22-1	7214173494944036	Swahili	swah1253	to join	JOIN	1743		-unga	-unga 
+1111	1-12-23-1	7214173476119072	Swahili	swah1253	to separate	SEPARATE	1359		-tenga	-tenga 
+1112	1-12-232-1	72141734839571237	Swahili	swah1253	to divide	DIVIDE	1119		-gawanya	-gawanya 
+1113	1-12-24-1	72141734590088616	Swahili	swah1253	to open	OPEN	1156		-fungua	-fungua 
+1114	1-12-25-1	72141734404696402	Swahili	swah1253	to shut	SHUT	1046		-funga	-funga 
+1115	1-12-25-2	72141734863018175	Swahili	swah1253	to shut	SHUT	1046		-fumba	-fumba 
+1116	1-12-26-1	72141734615206610	Swahili	swah1253	to cover	COVER	761		-funika	-funika 
+1117	1-12-27-1	72141734298164995	Swahili	swah1253	to hide	HIDE (CONCEAL)	602		-ficha	-ficha 
+1118	1-12-31-1	72141734428426380	Swahili	swah1253	high	HIGH	1265		juu	juu 
+1119	1-12-31-2	72141734216713509	Swahili	swah1253	high	HIGH	1265		-refu	-refu 
+1120	1-12-32-1	72141734163660172	Swahili	swah1253	low	LOW	721		chini chini	chini chini 
+1121	1-12-32-2	72141734763379730	Swahili	swah1253	low	LOW	721		-fupi	-fupi 
+1122	1-12-33-1	72141734638280309	Swahili	swah1253	the top	TOP	1753		kilele	kilele 
+1123	1-12-34-1	72141734116818533	Swahili	swah1253	the bottom	BOTTOM	690		chini	chini 
+1124	1-12-35-1	72141734435949580	Swahili	swah1253	the end(1)	END (OF SPACE)	742		mwisho	mwisho 
+1125	1-12-352-1	72141734692963416	Swahili	swah1253	pointed	POINTED	372		ncha	ncha 
+1126	1-12-352-2	72141734998958271	Swahili	swah1253	pointed	POINTED	372		-chongoka	-chongoka 
+1127	1-12-353-1	72141734492426937	Swahili	swah1253	the edge	EDGE	863		ukingo	ukingo 
+1128	1-12-36-1	72141734480305269	Swahili	swah1253	the side	SIDE	682		upande	upande 
+1129	1-12-37-1	72141734158691665	Swahili	swah1253	the middle	MIDDLE	1093		kati	kati 
+1130	1-12-41-1	72141734919191662	Swahili	swah1253	right(1)	RIGHT	1019		kulia (2)	kulia (2) 
+1131	1-12-42-1	72141734476892789	Swahili	swah1253	left	LEFT	244		kushoto	kushoto 
+1132	1-12-43-1	72141734992698761	Swahili	swah1253	near	NEAR	1942		karibu	karibu 
+1133	1-12-44-1	72141734793567664	Swahili	swah1253	far	FAR	1406		mbali	mbali 
+1134	1-12-45-1	72141734340743812	Swahili	swah1253	the east	EAST	1877		mashariki	mashariki 
+1135	1-12-46-1	7214173418994672	Swahili	swah1253	the west	WEST	1817		magharibi	magharibi 
+1136	1-12-47-1	72141734277944665	Swahili	swah1253	the north	NORTH	1598		kaskazini	kaskazini 
+1137	1-12-48-1	72141734402750047	Swahili	swah1253	the south	SOUTH	1595		kusini	kusini 
+1138	1-12-53-1	72141734113029799	Swahili	swah1253	to grow	GROW	479		-kua	-kua 
+1139	1-12-54-1	72141734473136194	Swahili	swah1253	to measure	MEASURE	1506		-pima	-pima 
+1140	1-12-55-1	72141734913377887	Swahili	swah1253	big	BIG	1202		-kubwa	-kubwa 
+1141	1-12-56-1	72141734259965331	Swahili	swah1253	small	SMALL	1246		-dogo	-dogo 
+1142	1-12-57-1	72141734216713509	Swahili	swah1253	long	LONG	1203		-refu	-refu 
+1143	1-12-58-1	72141734216713509	Swahili	swah1253	tall	TALL	711		-refu	-refu 
+1144	1-12-59-1	72141734763379730	Swahili	swah1253	short	SHORT	1645		-fupi	-fupi 
+1145	1-12-61-1	72141734951474743	Swahili	swah1253	wide	WIDE	1243		-pana	-pana 
+1146	1-12-62-1	72141734201633979	Swahili	swah1253	narrow	NARROW	1267		-embamba	-embamba 
+1147	1-12-63-1	72141734889613690	Swahili	swah1253	thick	THICK	1244		-nene	-nene 
+1148	1-12-65-1	72141734201633979	Swahili	swah1253	thin	THIN (OF SHAPE OF OBJECT)	2249		-embamba	-embamba 
+1149	1-12-67-1	72141734361689702	Swahili	swah1253	deep	DEEP	1593		kina	kina 
+1150	1-12-67-2	72141734245795018	Swahili	swah1253	deep	DEEP	1593		maji mbizi	maji mbizi 
+1151	1-12-67-3	72141734216713509	Swahili	swah1253	deep	DEEP	1593		-refu	-refu 
+1152	1-12-68-1	72141734931077088	Swahili	swah1253	shallow	SHALLOW	193		maji maanga	maji maanga 
+1153	1-12-68-2	72141734994234276	Swahili	swah1253	shallow	SHALLOW	193		kina kifupi	kina kifupi 
+1154	1-12-68-3	72141734763379730	Swahili	swah1253	shallow	SHALLOW	193		-fupi	-fupi 
+1155	1-12-71-1	7214173491810572	Swahili	swah1253	flat	FLAT	1633		bapa	bapa 
+1156	1-12-73-1	72141734702360968	Swahili	swah1253	straight	STRAIGHT	1404		-nyooka	-nyooka 
+1157	1-12-74-1	7214173494444091	Swahili	swah1253	crooked	CROOKED	297		-pindika	-pindika 
+1158	1-12-75-1	72141734702815136	Swahili	swah1253	the hook	HOOK	1071		kulabu	kulabu 
+1159	1-12-75-2	7214173428760636	Swahili	swah1253	the hook	HOOK	1071		kiopoo	kiopoo 
+1160	1-12-76-1	72141734273142474	Swahili	swah1253	the corner	CORNER	192		pembe	pembe 
+1161	1-12-76-2	72141734187548887	Swahili	swah1253	the corner	CORNER	192		kona	kona 
+1162	1-12-77-1	72141734528739150	Swahili	swah1253	the cross	CROSS	1367		msalaba	msalaba 
+1163	1-12-78-1	72141734314636144	Swahili	swah1253	the square	SQUARE	850		mraba	mraba 
+1164	1-12-81-1	721417345351391	Swahili	swah1253	round	ROUND	1395		duara	duara 
+1165	1-12-81-2	72141734205752329	Swahili	swah1253	round	ROUND	1395		mviringo	mviringo 
+1166	1-12-82-1	72141734205752329	Swahili	swah1253	the circle	CIRCLE	1467		mviringo	mviringo 
+1167	1-12-82-2	721417345351391	Swahili	swah1253	the circle	CIRCLE	1467		duara	duara 
+1168	1-12-83-1	72141734759060891	Swahili	swah1253	the ball	BALL	1845		tufe	tufe 
+1169	1-12-84-1	72141734227328465	Swahili	swah1253	the line	LINE	1048		mstari	mstari 
+1170	1-12-85-1	72141734785118138	Swahili	swah1253	the hole	HOLE	1667		tundu	tundu 
+1171	1-12-85-2	72141734383706933	Swahili	swah1253	the hole	HOLE	1667		shimo	shimo 
+1172	1-12-92-1	72141734519542621	Swahili	swah1253	similar	SIMILAR	1558		-fanana	-fanana 
+1173	1-12-93-1	72141734651321455	Swahili	swah1253	to change	CHANGE	1264		-badilisha	-badilisha 
+1174	1-13-1	72141734401712984	Swahili	swah1253	zero	ZERO	1294		sifuri	sifuri 
+1175	1-13-01-1	72141734527873991	Swahili	swah1253	one	ONE	1493		-moja	-moja 
+1176	1-13-02-1	72141734835066817	Swahili	swah1253	two	TWO	1498		-wili	-wili 
+1177	1-13-03-1	72141734173765499	Swahili	swah1253	three	THREE	492		-tatu	-tatu 
+1178	1-13-04-1	72141734446412130	Swahili	swah1253	four	FOUR	1500		-ne	-ne 
+1179	1-13-05-1	72141734396089208	Swahili	swah1253	five	FIVE	493		-tano	-tano 
+1180	1-13-06-1	7214173448775742	Swahili	swah1253	six	SIX	1703		sita	sita 
+1181	1-13-07-1	72141734472861464	Swahili	swah1253	seven	SEVEN	1704		saba	saba 
+1182	1-13-08-1	72141734936217023	Swahili	swah1253	eight	EIGHT	1705		-nane	-nane 
+1183	1-13-09-1	72141734334101922	Swahili	swah1253	nine	NINE	1483		tisa	tisa 
+1184	1-13-1-1	72141734236019041	Swahili	swah1253	ten	TEN	1515		kumi	kumi 
+1185	1-13-101-1	72141734168981524	Swahili	swah1253	eleven	ELEVEN	1706		kumi na moja	kumi na moja 
+1186	1-13-102-1	72141734686041238	Swahili	swah1253	twelve	TWELVE	1707		kumi na mbili	kumi na mbili 
+1187	1-13-103-1	72141734448894059	Swahili	swah1253	fifteen	FIFTEEN	1709		kumi na tano	kumi na tano 
+1188	1-13-104-1	72141734820525350	Swahili	swah1253	twenty	TWENTY	1710		ishirini	ishirini 
+1189	1-13-105-1	72141734760897370	Swahili	swah1253	a hundred	HUNDRED	1634		mia	mia 
+1190	1-13-106-1	72141734223121754	Swahili	swah1253	a thousand	THOUSAND	1843		elfu	elfu 
+1191	1-13-107-1	72141734630459571	Swahili	swah1253	to count	COUNT	1420		-hesabu	-hesabu 
+1192	1-13-14-1	72141734668011638	Swahili	swah1253	all	ALL	98		-ote	-ote 
+1193	1-13-15-1	72141734171021204	Swahili	swah1253	many	MANY	1198		-ingi	-ingi 
+1194	1-13-16-1	72141734306532740	Swahili	swah1253	more	MORE	1992		zaidi	zaidi 
+1195	1-13-17-1	72141734950170199	Swahili	swah1253	few	FEW	1242		-chache	-chache 
+1196	1-13-18-1	72141734884373420	Swahili	swah1253	enough	ENOUGH	1881		-tosha	-tosha 
+1197	1-13-19-1	72141734534673410	Swahili	swah1253	the crowd	CROWD	2023		umati	umati 
+1198	1-13-19-2	72141734742391779	Swahili	swah1253	the crowd	CROWD	2023		chungu (3) (nzima)	chungu (3) (nzima) 
+1199	1-13-21-1	72141734950909924	Swahili	swah1253	full	FULL	1429		-jaa	-jaa 
+1200	1-13-22-1	7214173413717301	Swahili	swah1253	empty	EMPTY	1624		-tupu	-tupu 
+1201	1-13-23-1	72141734637309775	Swahili	swah1253	the part	PART	779		sehemu	sehemu 
+1202	1-13-24-1	72141734886296828	Swahili	swah1253	the half	HALF	816		nusu	nusu 
+1203	1-13-33-1	72141734636498028	Swahili	swah1253	only	ONLY	1580		pekee	pekee 
+1204	1-13-34-1	72141734704006234	Swahili	swah1253	first	FIRST	728		kwanza	kwanza 
+1205	1-13-35-1	72141734435949580	Swahili	swah1253	last	LAST (FINAL)	1529		mwisho	mwisho 
+1206	1-13-36-1	72141734793234340	Swahili	swah1253	second	SECOND	1384		pili	pili 
+1207	1-13-37-1	72141734718556159	Swahili	swah1253	the pair	PAIR	1888		jozi	jozi 
+1208	1-13-38-1	72141734102462	Swahili	swah1253	twice/two times	TWICE	1546		mara mbili	mara mbili 
+1209	1-13-42-1	72141734584244028	Swahili	swah1253	third	THIRD	1859		tatu	tatu 
+1210	1-13-44-1	72141734148170393	Swahili	swah1253	three times	THREE TIMES	417		mara tatu	mara tatu 
+1211	1-14-11-1	72141734137565204	Swahili	swah1253	the time	TIME	892		wakati	wakati 
+1212	1-14-11-2	721417349466228	Swahili	swah1253	the time	TIME	892		muda	muda 
+1213	1-14-12-1	72141734206998819	Swahili	swah1253	the age	AGE	1789		umri	umri 
+1214	1-14-13-1	72141734907825120	Swahili	swah1253	new	NEW	1231		-pya	-pya 
+1215	1-14-14-1	7214173497600954	Swahili	swah1253	young	YOUNG	1207		kijana	kijana 
+1216	1-14-15-1	72141734704352799	Swahili	swah1253	old	OLD	1229		mzee	mzee 
+1217	1-14-16-1	7214173465149646	Swahili	swah1253	early	EARLY	672		mapema	mapema 
+1218	1-14-17-1	72141734183330045	Swahili	swah1253	late	LATE	477		-chelewa	-chelewa 
+1219	1-14-18-1	72141734431005090	Swahili	swah1253	now	NOW	1376		sasa	sasa 
+1220	1-14-19-1	72141734929010430	Swahili	swah1253	immediately	IMMEDIATELY	1963		mara moja	mara moja 
+1221	1-14-19-2	72141734318412795	Swahili	swah1253	immediately	IMMEDIATELY	1963		sasa hivi	sasa hivi 
+1222	1-14-21-1	72141734704805036	Swahili	swah1253	fast	FAST	1631		upesi	upesi 
+1223	1-14-22-1	72141734212115702	Swahili	swah1253	slow	SLOW	701		polepole	polepole 
+1224	1-14-23-1	72141734403749853	Swahili	swah1253	to hurry	HURRY	754		haraka	haraka 
+1225	1-14-24-1	72141734183330045	Swahili	swah1253	to be late	BE LATE	425		-chelewa	-chelewa 
+1226	1-14-25-1	72141734397428808	Swahili	swah1253	to begin	BEGIN	1806		-anza	-anza 
+1227	1-14-252-1	72141734964192113	Swahili	swah1253	to last	LAST (ENDURE)	1186		-endelea	-endelea 
+1228	1-14-252-2	72141734690355654	Swahili	swah1253	to last	LAST (ENDURE)	1186		-dumu	-dumu 
+1229	1-14-26-1	72141734435949580	Swahili	swah1253	the end(2)	END (OF TIME)	743		mwisho	mwisho 
+1230	1-14-27-1	72141734654084177	Swahili	swah1253	to finish	FINISH	1766		-isha	-isha 
+1231	1-14-27-2	72141734267716659	Swahili	swah1253	to finish	FINISH	1766		-maliza	-maliza 
+1232	1-14-28-1	72141734590498503	Swahili	swah1253	to cease	CEASE	1928		-koma	-koma 
+1233	1-14-28-2	72141734497392649	Swahili	swah1253	to cease	CEASE	1928		-acha	-acha 
+1234	1-14-29-1	72141734758174737	Swahili	swah1253	ready	READY	790		tayari	tayari 
+1235	1-14-31-1	72141734527478717	Swahili	swah1253	always	ALWAYS	1676		kila mara	kila mara 
+1236	1-14-31-2	72141734274401717	Swahili	swah1253	always	ALWAYS	1676		siku zote	siku zote 
+1237	1-14-32-1	72141734982362028	Swahili	swah1253	often	OFTEN	1852		mara nyingi	mara nyingi 
+1238	1-14-32-2	72141734827231771	Swahili	swah1253	often	OFTEN	1852		mara kwa mara	mara kwa mara 
+1239	1-14-33-1	72141734523093547	Swahili	swah1253	sometimes	SOMETIMES	1544		pengine	pengine 
+1240	1-14-33-2	72141734237988299	Swahili	swah1253	sometimes	SOMETIMES	1544		mara nyingine	mara nyingine 
+1241	1-14-331-1	72141734992698761	Swahili	swah1253	soon	SOON	703		karibu	karibu 
+1242	1-14-332-1	72141734892041386	Swahili	swah1253	for a long time	FOR A LONG TIME	418		muda mrefu	muda mrefu 
+1243	1-14-34-1	72141734671273082	Swahili	swah1253	never	NEVER	1656		abadani	abadani 
+1244	1-14-34-2	72141734172490365	Swahili	swah1253	never	NEVER	1656		kamwe	kamwe 
+1245	1-14-35-1	72141734905062500	Swahili	swah1253	again	AGAIN	204		tena	tena 
+1246	1-14-41-1	72141734347855150	Swahili	swah1253	the day(1)	DAY (24 HOURS)	1260		mchana	mchana 
+1247	1-14-42-1	72141734969782461	Swahili	swah1253	the night	NIGHT	1233		usiku	usiku 
+1248	1-14-43-1	7214173427671664	Swahili	swah1253	the dawn	DAWN	729		mapambazuko	mapambazuko 
+1249	1-14-43-2	72141734292498849	Swahili	swah1253	the dawn	DAWN	729		alfajiri	alfajiri 
+1250	1-14-43-3	72141734965625176	Swahili	swah1253	the dawn	DAWN	729		mawio, maawio	mawio 
+1251	1-14-43-4	72141734965625176	Swahili	swah1253	the dawn	DAWN	729		mawio, maawio	maawio 
+1252	1-14-43-5	72141734914666074	Swahili	swah1253	the dawn	DAWN	729		macheo	macheo 
+1253	1-14-43-6	7214173433584706	Swahili	swah1253	the dawn	DAWN	729		weupe wa alfajiri	weupe wa alfajiri 
+1254	1-14-44-1	72141734448681628	Swahili	swah1253	the morning	MORNING	1339		asubuhi	asubuhi 
+1255	1-14-45-1	72141734743633638	Swahili	swah1253	the midday	MIDDAY	12		adhuhuri	adhuhuri 
+1256	1-14-45-2	72141734468637918	Swahili	swah1253	the midday	MIDDAY	12		jua kati	jua kati 
+1257	1-14-451-1	72141734479960891	Swahili	swah1253	the afternoon	AFTERNOON	1807		alasiri	alasiri 
+1258	1-14-46-1	72141734292119784	Swahili	swah1253	the evening	EVENING	1629		jioni	jioni 
+1259	1-14-47-1	72141734622773229	Swahili	swah1253	today	TODAY	1283		leo	leo 
+1260	1-14-48-1	72141734177526412	Swahili	swah1253	tomorrow	TOMORROW	1329		kesho	kesho 
+1261	1-14-481-1	72141734922091108	Swahili	swah1253	the day after tomorrow	DAY AFTER TOMORROW	1179		kesho kutwa	kesho kutwa 
+1262	1-14-49-1	7214173462731718	Swahili	swah1253	yesterday	YESTERDAY	1174		jana	jana 
+1263	1-14-491-1	72141734968364890	Swahili	swah1253	the day before yesterday	DAY BEFORE YESTERDAY	1180		juzi	juzi 
+1264	1-14-51-1	72141734278207022	Swahili	swah1253	the hour	HOUR	1353		saa	saa 
+1265	1-14-53-1	72141734278207022	Swahili	swah1253	the clock	CLOCK	1323		saa	saa 
+1266	1-14-61-1	72141734739544107	Swahili	swah1253	the week	WEEK	1469		juma	juma 
+1267	1-14-61-2	72141734637940122	Swahili	swah1253	the week	WEEK	1469		wiki	wiki 
+1268	1-14-62-1	72141734460532794	Swahili	swah1253	Sunday	SUNDAY	1699		Jumapili	Jumapili 
+1269	1-14-63-1	72141734157142601	Swahili	swah1253	Monday	MONDAY	1697		Jumatatu	Jumatatu 
+1270	1-14-64-1	72141734890971416	Swahili	swah1253	Tuesday	TUESDAY	1695		Jumanne	Jumanne 
+1271	1-14-65-1	7214173497223197	Swahili	swah1253	Wednesday	WEDNESDAY	1694		Jumatano	Jumatano 
+1272	1-14-66-1	72141734906144675	Swahili	swah1253	Thursday	THURSDAY	1693		Alhamisi	Alhamisi 
+1273	1-14-67-1	72141734133540328	Swahili	swah1253	Friday	FRIDAY	1692		Ijumaa	Ijumaa 
+1274	1-14-68-1	72141734492011051	Swahili	swah1253	Saturday	SATURDAY	1700		Jumamosi	Jumamosi 
+1275	1-14-71-1	72141734792761872	Swahili	swah1253	the month	MONTH	1370		mwezi	mwezi 
+1276	1-14-73-1	72141734401122617	Swahili	swah1253	the year	YEAR	1226		mwaka	mwaka 
+1277	1-14-74-1	72141734335452134	Swahili	swah1253	the winter	WINTER	1471		majira ya baridi	majira ya baridi 
+1278	1-14-75-1	72141734457313631	Swahili	swah1253	the spring(2)	SPRINGTIME	1537		majira ya kuchipua	majira ya kuchipua 
+1279	1-14-76-1	72141734104048545	Swahili	swah1253	the summer	SUMMER	1342		majira ya joto	majira ya joto 
+1280	1-14-77-1	72141734453337818	Swahili	swah1253	the autumn/fall	AUTUMN	1276		majira ya kupukutika kwa majani	majira ya kupukutika kwa majani 
+1281	1-14-78-1	72141734597465202	Swahili	swah1253	the season	SEASON	691		majira	majira 
+1282	1-15-21-1	72141734771942594	Swahili	swah1253	to smell(1)	SMELL (STINK)	1587		-nukia	-nukia 
+1283	1-15-21-2	72141734989868550	Swahili	swah1253	to smell(1)	SMELL (STINK)	1587		-nuka	-nuka 
+1284	1-15-89-1	7214173493087869	Swahili	swah1253	wrinkled	WRINKLED	380		-kunjakunja	-kunjakunja 
+1285	1-15-89-2	72141734246645540	Swahili	swah1253	wrinkled	WRINKLED	380		kunyanzi	kunyanzi 
+1286	1-15-212-1	7214173420774053	Swahili	swah1253	to sniff	SNIFF	375		-nusa, -nusanusa	-nusa 
+1287	1-15-212-2	7214173420774053	Swahili	swah1253	to sniff	SNIFF	375		-nusa, -nusanusa	-nusanusa 
+1288	1-15-22-1	72141734946915312	Swahili	swah1253	to smell(2)	SMELL (PERCEIVE)	1586		-nusa	-nusa 
+1289	1-15-22-2	72141734898988570	Swahili	swah1253	to smell(2)	SMELL (PERCEIVE)	1586		harufu	harufu 
+1290	1-15-25-1	72141734771942594	Swahili	swah1253	fragrant	FRAGRANT	376		-nukia	-nukia 
+1291	1-15-25-2	72141734571894786	Swahili	swah1253	fragrant	FRAGRANT	376		harufu nzuri	harufu nzuri 
+1292	1-15-25-3	72141734843483623	Swahili	swah1253	fragrant	FRAGRANT	376		manukato	manukato 
+1293	1-15-26-1	72141734989868550	Swahili	swah1253	stinking	STINKING	42		-nuka	-nuka 
+1294	1-15-31-1	72141734583688418	Swahili	swah1253	to taste	TASTE (SOMETHING)	21		ladha	ladha 
+1295	1-15-31-2	72141734179459245	Swahili	swah1253	to taste	TASTE (SOMETHING)	21		-chapukia	-chapukia 
+1296	1-15-35-1	72141734773496233	Swahili	swah1253	sweet	SWEET	717		-tamu	-tamu 
+1297	1-15-36-1	72141734238081532	Swahili	swah1253	salty	SALTY	1091		chumvi	chumvi 
+1298	1-15-37-1	72141734486020231	Swahili	swah1253	bitter	BITTER	887		-chungu (2)	-chungu (2) 
+1299	1-15-38-1	72141734486020231	Swahili	swah1253	sour	SOUR	1906		-chungu (2)	-chungu (2) 
+1300	1-15-41-1	72141734124909948	Swahili	swah1253	to hear	HEAR	1408		-sikia	-sikia 
+1301	1-15-42-1	72141734779725629	Swahili	swah1253	to listen	LISTEN	1608		-sikiliza	-sikiliza 
+1302	1-15-44-1	72141734958482643	Swahili	swah1253	the sound or noise	SOUND OR NOISE	1811		sauti	sauti 
+1303	1-15-44-2	72141734822193082	Swahili	swah1253	the sound or noise	SOUND OR NOISE	1811		mlio	mlio 
+1304	1-15-45-1	72141734458390914	Swahili	swah1253	loud	LOUD	377		sauti kubwa	sauti kubwa 
+1305	1-15-45-2	72141734501774455	Swahili	swah1253	loud	LOUD	377		kelele, ukelele	kelele 
+1306	1-15-45-3	72141734501774455	Swahili	swah1253	loud	LOUD	377		kelele, ukelele	ukelele 
+1307	1-15-46-1	72141734853187185	Swahili	swah1253	quiet	QUIET	1314		kimya	kimya 
+1308	1-15-51-1	72141734971574406	Swahili	swah1253	to see	SEE	1409		-ona	-ona 
+1309	1-15-52-1	72141734101330455	Swahili	swah1253	to look	LOOK	1819		-tazama	-tazama 
+1310	1-15-55-1	72141734524351971	Swahili	swah1253	to show	SHOW	1039		-onyesha	-onyesha 
+1311	1-15-56-1	72141734445614064	Swahili	swah1253	to shine	SHINE	708		-ng’aa	-ng’aa 
+1312	1-15-57-1	72141734445614064	Swahili	swah1253	bright	BRIGHT	679		-ng’aa	-ng’aa 
+1313	1-15-61-1	72141734515172813	Swahili	swah1253	the colour/color	COLOR	1613		rangi	rangi 
+1314	1-15-62-1	721417342425638	Swahili	swah1253	light(2)	LIGHT (COLOR)	250		mwanga	mwanga 
+1315	1-15-62-2	72141734893810152	Swahili	swah1253	light(2)	LIGHT (COLOR)	250		-iva	-iva 
+1316	1-15-63-1	72141734488724443	Swahili	swah1253	dark	DARK	706		giza, kiza	giza 
+1317	1-15-63-2	72141734488724443	Swahili	swah1253	dark	DARK	706		giza, kiza	kiza 
+1318	1-15-64-1	72141734675023038	Swahili	swah1253	white	WHITE	1335		-eupe	-eupe 
+1319	1-15-65-1	72141734909926698	Swahili	swah1253	black	BLACK	163		-eusi	-eusi 
+1320	1-15-66-1	72141734210692502	Swahili	swah1253	red	RED	156		-ekundu	-ekundu 
+1321	1-15-67-1	72141734887058630	Swahili	swah1253	blue	BLUE	837		buluu, bluu	buluu 
+1322	1-15-67-2	72141734887058630	Swahili	swah1253	blue	BLUE	837		buluu, bluu	bluu 
+1323	1-15-68-1	72141734662925870	Swahili	swah1253	green	GREEN	1425		kijani	kijani 
+1324	1-15-69-1	72141734772805350	Swahili	swah1253	yellow	YELLOW	1424		manjano	manjano 
+1325	1-15-71-1	72141734185119921	Swahili	swah1253	to touch	TOUCH	1892		-gusa	-gusa 
+1326	1-15-712-1	72141734863107107	Swahili	swah1253	to pinch	PINCH	378		-finya	-finya 
+1327	1-15-72-1	72141734638069845	Swahili	swah1253	to feel	FEEL	1079		-papasa	-papasa 
+1328	1-15-74-1	72141734361675046	Swahili	swah1253	hard	HARD	1884		-gumu	-gumu 
+1329	1-15-75-1	72141734496013108	Swahili	swah1253	soft	SOFT	1856		-ororo	-ororo 
+1330	1-15-76-1	72141734144363182	Swahili	swah1253	rough(1)	ROUGH	1923		-kwaruza	-kwaruza 
+1331	1-15-77-1	72141734469990113	Swahili	swah1253	smooth	SMOOTH	1234		laini	laini 
+1332	1-15-78-1	72141734767706594	Swahili	swah1253	sharp	SHARP	1396		-kali	-kali 
+1333	1-15-79-1	72141734943712838	Swahili	swah1253	blunt	BLUNT	379		butu	butu 
+1334	1-15-81-1	72141734878462694	Swahili	swah1253	heavy	HEAVY	1210		-zito	-zito 
+1335	1-15-82-1	7214173455414697	Swahili	swah1253	light(1)	LIGHT (WEIGHT)	1052		-epesi	-epesi 
+1336	1-15-83-1	72141734872264988	Swahili	swah1253	wet	WET	1726		-lowana	-lowana 
+1337	1-15-83-2	72141734140870057	Swahili	swah1253	wet	WET	1726		chepechepe	chepechepe 
+1338	1-15-83-3	72141734555194234	Swahili	swah1253	wet	WET	1726		majimaji	majimaji 
+1339	1-15-84-1	72141734431057885	Swahili	swah1253	dry	DRY	1398		-kavu	-kavu 
+1340	1-15-84-2	72141734370994119	Swahili	swah1253	dry	DRY	1398		-kauka	-kauka 
+1341	1-15-85-1	72141734515239255	Swahili	swah1253	hot	HOT	1286		joto	joto 
+1342	1-15-85-2	72141734209593371	Swahili	swah1253	hot	HOT	1286		moto	moto 
+1343	1-15-851-1	72141734515239255	Swahili	swah1253	warm	WARM	1232		joto	joto 
+1344	1-15-851-2	72141734209593371	Swahili	swah1253	warm	WARM	1232		moto	moto 
+1345	1-15-86-1	72141734424648201	Swahili	swah1253	cold	COLD	1287		baridi	baridi 
+1346	1-15-87-1	72141734282578144	Swahili	swah1253	clean	CLEAN	704		safi	safi 
+1347	1-15-88-1	72141734351493973	Swahili	swah1253	dirty	DIRTY	1230		-chafu	-chafu 
+1348	1-16-11-1	72141734679303848	Swahili	swah1253	the soul or spirit	SOUL	811		roho	roho 
+1349	1-16-15-1	72141734118105270	Swahili	swah1253	surprised or astonished	SURPRISED	1572		-shangaa	-shangaa 
+1350	1-16-18-1	72141734494454043	Swahili	swah1253	the good luck	GOOD LUCK	720		bahati (njema)	bahati (njema) 
+1351	1-16-19-1	72141734884539894	Swahili	swah1253	the bad luck	BAD LUCK	56		bahati mbaya	bahati mbaya 
+1352	1-16-23-1	72141734328949242	Swahili	swah1253	happy	HAPPY	1495		-furahi	-furahi 
+1353	1-16-25-1	7214173446731138	Swahili	swah1253	to laugh	LAUGH	1355		-cheka	-cheka 
+1354	1-16-251-1	72141734987582460	Swahili	swah1253	to smile	SMILE	1451		-tabasamu	-tabasamu 
+1355	1-16-26-1	72141734591351121	Swahili	swah1253	to play	PLAY	1413		-cheza	-cheza 
+1356	1-16-27-1	72141734167008576	Swahili	swah1253	to love	LOVE	923		-penda	-penda 
+1357	1-16-29-1	72141734281921957	Swahili	swah1253	to kiss	KISS	578		-busu	-busu 
+1358	1-16-29-2	72141734765603999	Swahili	swah1253	to kiss	KISS	578		-kisi (1)	-kisi (1) 
+1359	1-16-3-1	72141734907112661	Swahili	swah1253	to embrace	EMBRACE	928		-kumbata	-kumbata 
+1360	1-16-31-1	72141734973912836	Swahili	swah1253	the pain	PAIN	1783		maumivu	maumivu 
+1361	1-16-32-1	72141734272944205	Swahili	swah1253	the grief	GRIEF	1668		huzuni	huzuni 
+1362	1-16-33-1	72141734241027413	Swahili	swah1253	the anxiety	ANXIETY	1000		wasiwasi	wasiwasi 
+1363	1-16-34-1	72141734294690109	Swahili	swah1253	to regret or be sorry	REGRET	1875		-juta	-juta 
+1364	1-16-35-1	72141734921345091	Swahili	swah1253	the pity	PITY	1141		huruma	huruma 
+1365	1-16-37-1	72141734286445208	Swahili	swah1253	to cry	CRY	1839		-lia (1)	-lia (1) 
+1366	1-16-38-1	72141734409907689	Swahili	swah1253	the tear	TEAR (OF EYE)	1651		chozi	chozi 
+1367	1-16-39-1	72141734555092329	Swahili	swah1253	to groan	GROAN	716		kite	kite 
+1368	1-16-39-2	72141734236272995	Swahili	swah1253	to groan	GROAN	716		-gumia	-gumia 
+1369	1-16-41-1	72141734907807697	Swahili	swah1253	to hate	HATE	1607		-chukia	-chukia 
+1370	1-16-42-1	72141734650611637	Swahili	swah1253	the anger	ANGER	82		-kasirika	-kasirika 
+1371	1-16-42-2	72141734323751900	Swahili	swah1253	the anger	ANGER	82		hasira	hasira 
+1372	1-16-44-1	72141734347255531	Swahili	swah1253	the envy or jealousy	ENVY	40		wivu	wivu 
+1373	1-16-44-2	72141734959960297	Swahili	swah1253	the envy or jealousy	ENVY	40		husuda, hasada, uhasidi	husuda 
+1374	1-16-44-3	72141734959960297	Swahili	swah1253	the envy or jealousy	ENVY	40		husuda, hasada, uhasidi	hasada 
+1375	1-16-44-4	72141734959960297	Swahili	swah1253	the envy or jealousy	ENVY	40		husuda, hasada, uhasidi	uhasidi 
+1376	1-16-44-5	72141734984331589	Swahili	swah1253	the envy or jealousy	ENVY	40		kijicho	kijicho 
+1377	1-16-45-1	72141734401114536	Swahili	swah1253	the shame	SHAME	1776		aibu	aibu 
+1378	1-16-48-1	72141734474810691	Swahili	swah1253	proud	PROUD	174		-jivuna	-jivuna 
+1379	1-16-48-2	7214173442269705	Swahili	swah1253	proud	PROUD	174		majivuno	majivuno 
+1380	1-16-48-3	72141734123478462	Swahili	swah1253	proud	PROUD	174		fahari	fahari 
+1381	1-16-51-1	72141734328691376	Swahili	swah1253	to dare	DARE	1779		-thubutu	-thubutu 
+1382	1-16-52-1	72141734968524669	Swahili	swah1253	brave	BRAVE	3		jasiri, -jasiri	jasiri 
+1383	1-16-52-2	72141734968524669	Swahili	swah1253	brave	BRAVE	3		jasiri, -jasiri	-jasiri 
+1384	1-16-52-3	72141734541670441	Swahili	swah1253	brave	BRAVE	3		-piga moyo konde	-piga moyo konde 
+1385	1-16-52-4	72141734792078127	Swahili	swah1253	brave	BRAVE	3		shujaa	shujaa 
+1386	1-16-53-1	72141734916810794	Swahili	swah1253	the fear	FEAR (FRIGHT)	781		woga	woga 
+1387	1-16-53-2	7214173437814055	Swahili	swah1253	the fear	FEAR (FRIGHT)	781		hofu	hofu 
+1388	1-16-54-1	72141734923391854	Swahili	swah1253	the danger	DANGER	1810		hatari	hatari 
+1389	1-16-62-1	72141734620417816	Swahili	swah1253	to want	WANT	1784		-taka	-taka 
+1390	1-16-622-1	72141734677955016	Swahili	swah1253	to choose	CHOOSE	1750		-chagua	-chagua 
+1391	1-16-63-1	72141734892767752	Swahili	swah1253	to hope	HOPE (SOMETHING)	3212		-tumaini, -tumai	-tumaini 
+1392	1-16-63-2	72141734892767752	Swahili	swah1253	to hope	HOPE (SOMETHING)	3212		-tumaini, -tumai	-tumai 
+1393	1-16-65-1	72141734448323409	Swahili	swah1253	faithful	FAITHFUL	100		-aminifu	-aminifu 
+1394	1-16-66-1	7214173442824643	Swahili	swah1253	true	TRUE	1657		kweli	kweli 
+1395	1-16-67-1	72141734119831042	Swahili	swah1253	to lie(2)	LIE (MISLEAD)	601		uwongo	uwongo 
+1396	1-16-68-1	72141734961354045	Swahili	swah1253	the deceit	DECEIT	13		-danganya	-danganya 
+1397	1-16-69-1	72141734507142625	Swahili	swah1253	to forgive	FORGIVE	1528		-samehe	-samehe 
+1398	1-16-71-1	72141734471610635	Swahili	swah1253	good	GOOD	1035		-ema	-ema 
+1399	1-16-72-1	72141734936530234	Swahili	swah1253	bad	BAD	1292		-ovu	-ovu 
+1400	1-16-72-2	72141734795619867	Swahili	swah1253	bad	BAD	1292		-baya	-baya 
+1401	1-16-73-1	72141734814356421	Swahili	swah1253	right(2)	CORRECT (RIGHT)	1725		sahihi	sahihi 
+1402	1-16-73-2	72141734581089836	Swahili	swah1253	right(2)	CORRECT (RIGHT)	1725		barabara (2)	barabara (2) 
+1403	1-16-73-3	72141734255363857	Swahili	swah1253	right(2)	CORRECT (RIGHT)	1725		sawa	sawa 
+1404	1-16-74-1	72141734847052664	Swahili	swah1253	wrong	WRONG	1390		kosa	kosa 
+1405	1-16-76-1	72141734847052664	Swahili	swah1253	the fault	FAULT	134		kosa	kosa 
+1406	1-16-77-1	72141734847052664	Swahili	swah1253	the mistake	MISTAKE	1293		kosa	kosa 
+1407	1-16-78-1	72141734609114011	Swahili	swah1253	the blame	BLAME	381		lawama	lawama 
+1408	1-16-79-1	7214173428464770	Swahili	swah1253	the praise	PRAISE	1687		sifa	sifa 
+1409	1-16-81-1	7214173497799484	Swahili	swah1253	beautiful	BEAUTIFUL	1427		-zuri	-zuri 
+1410	1-16-82-1	72141734795619867	Swahili	swah1253	ugly	UGLY	1548		-baya	-baya 
+1411	1-16-83-1	72141734572787621	Swahili	swah1253	greedy	GREEDY	2018		uroho	uroho 
+1412	1-16-84-1	72141734742690576	Swahili	swah1253	clever	CLEVER	1310		-erevu	-erevu 
+1413	1-16-84-2	72141734201050826	Swahili	swah1253	clever	CLEVER	1310		stadi	stadi 
+1414	1-16-84-3	72141734815302042	Swahili	swah1253	clever	CLEVER	1310		mjanja	mjanja 
+1415	1-16-84-4	72141734918589517	Swahili	swah1253	clever	CLEVER	1310		hodari	hodari 
+1416	1-16-84-5	72141734945443188	Swahili	swah1253	clever	CLEVER	1310		mjuzi	mjuzi 
+1417	1-17-11-1	72141734498498044	Swahili	swah1253	the mind	MIND	1562		akili	akili 
+1418	1-17-11-2	72141734379566603	Swahili	swah1253	the mind	MIND	1562		mawazo	mawazo 
+1419	1-17-13-1	72141734833242121	Swahili	swah1253	to think(1)	THINK (REFLECT)	1415		-fikiri	-fikiri 
+1420	1-17-13-2	72141734286129241	Swahili	swah1253	to think(1)	THINK (REFLECT)	1415		-waza	-waza 
+1421	1-17-14-1	72141734316315540	Swahili	swah1253	to think(2)	THINK (BELIEVE)	1513		-dhani	-dhani 
+1422	1-17-14-2	72141734833242121	Swahili	swah1253	to think(2)	THINK (BELIEVE)	1513		-fikiri	-fikiri 
+1423	1-17-15-1	72141734766165498	Swahili	swah1253	to believe	BELIEVE	1890		-amini	-amini 
+1424	1-17-16-1	7214173410641199	Swahili	swah1253	to understand	UNDERSTAND	1536		-fahamu	-fahamu 
+1425	1-17-17-1	72141734667072822	Swahili	swah1253	to know	KNOW (SOMETHING)	1410		-jua	-jua 
+1426	1-17-171-1	721417349637595	Swahili	swah1253	to guess	GUESS	1932		-kisi (2)	-kisi (2) 
+1427	1-17-172-1	72141734270853778	Swahili	swah1253	to imitate	IMITATE	117		-iga	-iga 
+1428	1-17-18-1	72141734385474132	Swahili	swah1253	to seem	SEEM	1521		-onekana	-onekana 
+1429	1-17-19-1	72141734611759131	Swahili	swah1253	the idea	IDEA	1609		dhana	dhana 
+1430	1-17-19-2	72141734608468780	Swahili	swah1253	the idea	IDEA	1609		wazo	wazo 
+1431	1-17-21-1	7214173416355700	Swahili	swah1253	wise	WISE	698		hekima	hekima 
+1432	1-17-21-2	72141734128137880	Swahili	swah1253	wise	WISE	698		busara	busara 
+1433	1-17-22-1	72141734364317243	Swahili	swah1253	stupid	STUPID	1518		-pumbavu	-pumbavu 
+1434	1-17-22-2	72141734267180254	Swahili	swah1253	stupid	STUPID	1518		mjinga	mjinga 
+1435	1-17-23-1	7214173419854747	Swahili	swah1253	mad	MAD	1899		mwenye wazimu	mwenye wazimu 
+1436	1-17-23-2	72141734598544991	Swahili	swah1253	mad	MAD	1899		kichaa	kichaa 
+1437	1-17-23-3	72141734323767829	Swahili	swah1253	mad	MAD	1899		-rukwa na akili	-rukwa na akili 
+1438	1-17-24-1	72141734755038826	Swahili	swah1253	to learn	LEARN	504		-jifunza	-jifunza 
+1439	1-17-242-1	72141734384367337	Swahili	swah1253	to study	STUDY	1929		-soma	-soma 
+1440	1-17-25-1	72141734546458359	Swahili	swah1253	to teach	TEACH	709		-fundisha	-fundisha 
+1441	1-17-26-1	72141734668576388	Swahili	swah1253	the pupil	PUPIL (STUDENT)	753		mwanafunzi	mwanafunzi 
+1442	1-17-27-1	72141734366161408	Swahili	swah1253	the teacher	TEACHER	1038		mwalimu	mwalimu 
+1443	1-17-28-1	72141734917207263	Swahili	swah1253	the school	SCHOOL	673		shule	shule 
+1444	1-17-28-2	72141734309887521	Swahili	swah1253	the school	SCHOOL	673		skuli	skuli 
+1445	1-17-31-1	7214173423174784	Swahili	swah1253	to remember	REMEMBER	707		-kumbuka	-kumbuka 
+1446	1-17-32-1	72141734445962809	Swahili	swah1253	to forget	FORGET	1523		-sahau	-sahau 
+1447	1-17-34-1	72141734732207450	Swahili	swah1253	clear	CLEAR	989		wazi	wazi 
+1448	1-17-34-2	72141734356390956	Swahili	swah1253	clear	CLEAR	989		-elea	-elea 
+1449	1-17-34-3	72141734712929577	Swahili	swah1253	clear	CLEAR	989		dhahiri	dhahiri 
+1450	1-17-36-1	7214173493282828	Swahili	swah1253	secret	SECRET	1121		siri	siri 
+1451	1-17-37-1	72141734950550840	Swahili	swah1253	certain	CERTAIN	509		hakika	hakika 
+1452	1-17-38-1	72141734976652933	Swahili	swah1253	to explain	EXPLAIN	1626		-eleza	-eleza 
+1453	1-17-41-1	7214173427230000	Swahili	swah1253	the intention	INTENTION	1162		nia	nia 
+1454	1-17-41-2	72141734710804712	Swahili	swah1253	the intention	INTENTION	1162		kusudi	kusudi 
+1455	1-17-41-3	72141734584653601	Swahili	swah1253	the intention	INTENTION	1162		dhamira	dhamira 
+1456	1-17-42-1	72141734393772290	Swahili	swah1253	the cause	CAUSE	860		sababu	sababu 
+1457	1-17-43-1	72141734961031945	Swahili	swah1253	the doubt	DOUBT	1308		shaka	shaka 
+1458	1-17-44-1	72141734261416449	Swahili	swah1253	to suspect	SUSPECT	1841		-shuku	-shuku 
+1459	1-17-44-2	72141734288002585	Swahili	swah1253	to suspect	SUSPECT	1841		-tilia shaka	-tilia shaka 
+1460	1-17-44-3	7214173448490380	Swahili	swah1253	to suspect	SUSPECT	1841		-tuhumu	-tuhumu 
+1461	1-17-441-1	72141734665113380	Swahili	swah1253	to betray	BETRAY	1902		-haini	-haini 
+1462	1-17-441-2	72141734761225330	Swahili	swah1253	to betray	BETRAY	1902		-saliti	-saliti 
+1463	1-17-441-3	72141734776993617	Swahili	swah1253	to betray	BETRAY	1902		-fichua siri	-fichua siri 
+1464	1-17-45-1	72141734466582424	Swahili	swah1253	the need or necessity	NEED (NOUN)	643		lazima	lazima 
+1465	1-17-46-1	72141734451865599	Swahili	swah1253	easy	EASY	686		rahisi	rahisi 
+1466	1-17-47-1	72141734361675046	Swahili	swah1253	difficult	DIFFICULT	584		-gumu	-gumu 
+1467	1-17-48-1	72141734784323576	Swahili	swah1253	to try	TRY	1812		-jaribu	-jaribu 
+1468	1-17-49-1	72141734203713284	Swahili	swah1253	the manner	MANNER	488		namna	namna 
+1469	1-17-51-1	72141734118632548	Swahili	swah1253	and	AND	1577		na	na 
+1470	1-17-52-1	72141734289768075	Swahili	swah1253	because	BECAUSE	1157		(kwa) sababu	(kwa) sababu 
+1471	1-17-53-1	72141734341234579	Swahili	swah1253	if	IF	1459		ikiwa	ikiwa 
+1472	1-17-53-2	72141734681668559	Swahili	swah1253	if	IF	1459		kama	kama 
+1473	1-17-53-3	72141734990102497	Swahili	swah1253	if	IF	1459		iwapo	iwapo 
+1474	1-17-53-4	72141734963033406	Swahili	swah1253	if	IF	1459		-ki-	-ki- 
+1475	1-17-53-5	7214173492233654	Swahili	swah1253	if	IF	1459		-nge-, -ngali-	-nge- 
+1476	1-17-53-6	7214173492233654	Swahili	swah1253	if	IF	1459		-nge-, -ngali-	-ngali- 
+1477	1-17-54-1	72141734166634475	Swahili	swah1253	or	OR	1014		au	au 
+1478	1-17-55-1	72141734867827637	Swahili	swah1253	yes	YES	1268		ndiyo	ndiyo 
+1479	1-17-56-1	72141734433077223	Swahili	swah1253	no	NO	1269		siyo	siyo 
+1480	1-17-61-1	72141734776187981	Swahili	swah1253	how?	HOW	1239		vipi	vipi 
+1481	1-17-61-2	72141734884235052	Swahili	swah1253	how?	HOW	1239		-je	-je 
+1482	1-17-62-1	72141734585754739	Swahili	swah1253	how many?	HOW MANY	822		-ngapi	-ngapi 
+1483	1-17-63-1	72141734585754739	Swahili	swah1253	how much?	HOW MUCH	531		-ngapi	-ngapi 
+1484	1-17-64-1	72141734984662121	Swahili	swah1253	what?	WHAT	1236		nini	nini 
+1485	1-17-65-1	72141734468067152	Swahili	swah1253	when?	WHEN	1238		lini	lini 
+1486	1-17-66-1	72141734976895119	Swahili	swah1253	where?	WHERE	1237		wapi	wapi 
+1487	1-17-67-1	72141734130274599	Swahili	swah1253	which?	WHICH	727		-pi	-pi 
+1488	1-17-68-1	72141734504179494	Swahili	swah1253	who?	WHO	1235		nani	nani 
+1489	1-17-69-1	72141734732532597	Swahili	swah1253	why?	WHY	1270		kwa nini	kwa nini 
+1490	1-17-69-2	72141734665220606	Swahili	swah1253	why?	WHY	1270		(kwa) sababu gani	(kwa) sababu gani 
+1491	1-18-11-1	72141734958482643	Swahili	swah1253	the voice	VOICE	1363		sauti	sauti 
+1492	1-18-12-1	72141734788100718	Swahili	swah1253	to sing	SING	1261		-imba	-imba 
+1493	1-18-13-1	72141734501774455	Swahili	swah1253	to shout	SHOUT	715		kelele, ukelele	kelele 
+1494	1-18-13-2	72141734501774455	Swahili	swah1253	to shout	SHOUT	715		kelele, ukelele	ukelele 
+1495	1-18-15-1	72141734286014219	Swahili	swah1253	to whisper	WHISPER	55		-nong’ona	-nong’ona 
+1496	1-18-16-1	72141734576360164	Swahili	swah1253	to mumble	MUMBLE	128		-munyamunya	-munyamunya 
+1497	1-18-17-1	72141734307595307	Swahili	swah1253	to whistle	WHISTLE	1025		mluzi	mluzi 
+1498	1-18-18-1	72141734125795169	Swahili	swah1253	to shriek	SHRIEK	298		unyende	unyende 
+1499	1-18-19-1	72141734233902397	Swahili	swah1253	to howl	HOWL	526		-lia (1) (mlio mkali)	-lia (1) (mlio mkali) 
+1500	1-18-19-2	72141734974032108	Swahili	swah1253	to howl	HOWL	526		-nguruma	-nguruma 
+1501	1-18-21-1	72141734472023751	Swahili	swah1253	to speak or talk	SPEAK	1623		-sema	-sema 
+1502	1-18-21-2	72141734132923802	Swahili	swah1253	to speak or talk	SPEAK	1623		-nena	-nena 
+1503	1-18-211-1	72141734742819552	Swahili	swah1253	to stutter or stammer	STUTTER	1866		-gugumia	-gugumia 
+1504	1-18-211-2	72141734558260340	Swahili	swah1253	to stutter or stammer	STUTTER	1866		-babaika	-babaika 
+1505	1-18-22-1	72141734472023751	Swahili	swah1253	to say	SAY	1458		-sema	-sema 
+1506	1-18-22-2	72141734696554791	Swahili	swah1253	to say	SAY	1458		-ambia	-ambia 
+1507	1-18-221-1	7214173457235679	Swahili	swah1253	to tell	TELL	1711		-simulia	-simulia 
+1508	1-18-222-1	72141734194156452	Swahili	swah1253	the speech	SPEECH	1115		hotuba	hotuba 
+1509	1-18-23-1	72141734416552936	Swahili	swah1253	to be silent	BE SILENT	48		-nyamaa	-nyamaa 
+1510	1-18-24-1	72141734974501246	Swahili	swah1253	the language	LANGUAGE	1307		lugha	lugha 
+1511	1-18-26-1	72141734958636088	Swahili	swah1253	the word	WORD	1599		neno	neno 
+1512	1-18-28-1	7214173482027723	Swahili	swah1253	the name	NAME	1405		jina	jina 
+1513	1-18-31-1	7214173420734132	Swahili	swah1253	to ask(1)	ASK (INQUIRE)	1309		-uliza	-uliza 
+1514	1-18-32-1	72141734642238615	Swahili	swah1253	to answer	ANSWER	1275		-jibu	-jibu 
+1515	1-18-33-1	72141734619735804	Swahili	swah1253	to admit	ADMIT	2022		-kiri	-kiri 
+1516	1-18-33-2	72141734915753559	Swahili	swah1253	to admit	ADMIT	2022		-ungama	-ungama 
+1517	1-18-34-1	72141734252109558	Swahili	swah1253	to deny	DENY	755		-kana	-kana 
+1518	1-18-35-1	72141734285007142	Swahili	swah1253	to ask(2)	ASK (REQUEST)	1828		-omba	-omba 
+1519	1-18-36-1	72141734522183315	Swahili	swah1253	to promise	PROMISE	1675		-ahidi	-ahidi 
+1520	1-18-37-1	72141734904611000	Swahili	swah1253	to refuse	REFUSE	49		-kataa	-kataa 
+1521	1-18-38-1	72141734546510772	Swahili	swah1253	to forbid	FORBID	83		-kataza	-kataza 
+1522	1-18-39-1	72141734919608288	Swahili	swah1253	to scold	SCOLD	299		-karipia	-karipia 
+1523	1-18-39-2	72141734226892741	Swahili	swah1253	to scold	SCOLD	299		-kemea	-kemea 
+1524	1-18-41-1	72141734521838681	Swahili	swah1253	to call(1)	CALL	1084		-ita	-ita 
+1525	1-18-42-1	72141734521838681	Swahili	swah1253	to call(2)	CALL BY NAME	180		-ita	-ita 
+1526	1-18-43-1	72141734662859697	Swahili	swah1253	to announce	ANNOUNCE	9		-tangaza	-tangaza 
+1527	1-18-44-1	72141734105756552	Swahili	swah1253	to threaten	THREATEN	1192		-tisha	-tisha 
+1528	1-18-45-1	7214173451808639	Swahili	swah1253	to boast	BOAST	101		-jisifu	-jisifu 
+1529	1-18-45-2	72141734382359204	Swahili	swah1253	to boast	BOAST	101		-jiona	-jiona 
+1530	1-18-45-3	72141734775951788	Swahili	swah1253	to boast	BOAST	101		-jigamba	-jigamba 
+1531	1-18-51-1	72141734615395660	Swahili	swah1253	to write	WRITE	1672		-andika	-andika 
+1532	1-18-52-1	72141734384367337	Swahili	swah1253	to read	READ	724		-soma	-soma 
+1533	1-18-56-1	7214173457782618	Swahili	swah1253	the paper	PAPER	648		karatasi	karatasi 
+1534	1-18-57-1	72141734158910490	Swahili	swah1253	the pen	PEN	794		kalamu	kalamu 
+1535	1-18-61-1	72141734708462606	Swahili	swah1253	the book	BOOK	963		kitabu	kitabu 
+1536	1-18-67-1	72141734987202244	Swahili	swah1253	the poet	POET	1045		mshairi	mshairi 
+1537	1-18-71-1	72141734561897131	Swahili	swah1253	the flute	FLUTE	777		filimbi	filimbi 
+1538	1-18-72-1	72141734557722779	Swahili	swah1253	the drum	DRUM	908		ngoma	ngoma 
+1539	1-18-73-1	72141734896263469	Swahili	swah1253	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		tarumbeta	tarumbeta 
+1540	1-18-73-2	72141734838222186	Swahili	swah1253	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		baragumu	baragumu 
+1541	1-18-73-3	7214173424696846	Swahili	swah1253	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		siwa	siwa 
+1542	1-18-73-4	72141734889297850	Swahili	swah1253	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		mbiu	mbiu 
+1543	1-18-74-1	72141734606558462	Swahili	swah1253	the rattle	RATTLE	300		kayamba	kayamba 
+1544	1-18-74-2	7214173436192395	Swahili	swah1253	the rattle	RATTLE	300		manyanga	manyanga 
+1545	1-19-11-1	72141734881143483	Swahili	swah1253	the country	COUNTRY	1300		nchi	nchi 
+1546	1-19-15-1	72141734582715128	Swahili	swah1253	the town	TOWN	1391		mji	mji 
+1547	1-19-16-1	72141734166486200	Swahili	swah1253	the village	VILLAGE	930		kijiji	kijiji 
+1548	1-19-17-1	72141734562056405	Swahili	swah1253	the boundary	BOUNDARY	1010		mpaka	mpaka 
+1549	1-19-21-1	72141734728964815	Swahili	swah1253	the people	PEOPLE	789		mwananchi	mwananchi 
+1550	1-19-23-1	72141734386017917	Swahili	swah1253	the clan	CLAN	302		ukoo	ukoo 
+1551	1-19-24-1	72141734888631540	Swahili	swah1253	the chieftain	CHIEFTAIN	301		fumo	fumo 
+1552	1-19-24-2	72141734558825692	Swahili	swah1253	the chieftain	CHIEFTAIN	301		jumbe	jumbe 
+1553	1-19-24-3	72141734439624336	Swahili	swah1253	the chieftain	CHIEFTAIN	301		shehe, shekh, sheik	shehe 
+1554	1-19-24-4	72141734439624336	Swahili	swah1253	the chieftain	CHIEFTAIN	301		shehe, shekh, sheik	shekh 
+1555	1-19-24-5	72141734439624336	Swahili	swah1253	the chieftain	CHIEFTAIN	301		shehe, shekh, sheik	sheik 
+1556	1-19-25-1	72141734873271775	Swahili	swah1253	the walking stick	WALKING STICK	1296		bakora	bakora 
+1557	1-19-31-1	72141734603656517	Swahili	swah1253	to rule or govern	RULE	1846		-tawala	-tawala 
+1558	1-19-32-1	72141734799234278	Swahili	swah1253	the king	KING	1508		mfalme	mfalme 
+1559	1-19-32-2	72141734674995026	Swahili	swah1253	the king	KING	1508		sultani	sultani 
+1560	1-19-33-1	7214173430425928	Swahili	swah1253	the queen	QUEEN	1306		malkia	malkia 
+1561	1-19-36-1	72141734993738300	Swahili	swah1253	the noble	NOBLE	482		muungwana	muungwana 
+1562	1-19-37-1	72141734734805227	Swahili	swah1253	the citizen	CITIZEN	1032		raia	raia 
+1563	1-19-41-1	72141734918327128	Swahili	swah1253	the master	MASTER	383		bwana	bwana 
+1564	1-19-42-1	72141734425547216	Swahili	swah1253	the slave	SLAVE	812		mtumwa	mtumwa 
+1565	1-19-43-1	72141734657170878	Swahili	swah1253	the servant	SERVANT	255		mtumishi	mtumishi 
+1566	1-19-44-1	72141734222646075	Swahili	swah1253	the freeman	FREEMAN	384		huru	huru 
+1567	1-19-45-1	72141734110458761	Swahili	swah1253	to command or order	ORDER	1128		-amuru	-amuru 
+1568	1-19-45-2	7214173466460806	Swahili	swah1253	to command or order	ORDER	1128		amri	amri 
+1569	1-19-46-1	72141734164508533	Swahili	swah1253	to obey	OBEY	1635		-tii	-tii 
+1570	1-19-47-1	72141734534419200	Swahili	swah1253	to permit	PERMIT	1003		-ruhusu	-ruhusu 
+1571	1-19-51-1	7214173468349694	Swahili	swah1253	the friend	FRIEND	1325		rafiki	rafiki 
+1572	1-19-52-1	72141734116822076	Swahili	swah1253	the enemy	ENEMY	1358		adui	adui 
+1573	1-19-54-1	72141734442527709	Swahili	swah1253	the neighbour	NEIGHBOUR	1332		jirani	jirani 
+1574	1-19-55-1	72141734935431142	Swahili	swah1253	the stranger	STRANGER	791		mgeni	mgeni 
+1575	1-19-56-1	72141734935431142	Swahili	swah1253	the guest	GUEST	1782		mgeni	mgeni 
+1576	1-19-57-1	72141734927596582	Swahili	swah1253	the host	HOST	1545		mwenyeji	mwenyeji 
+1577	1-19-58-1	7214173481707550	Swahili	swah1253	to help	HELP	1897		-saidia	-saidia 
+1578	1-19-59-1	72141734628439660	Swahili	swah1253	to prevent	PREVENT	1550		-zuia	-zuia 
+1579	1-19-61-1	7214173436093426	Swahili	swah1253	the custom	CUSTOM	1747		desturi	desturi 
+1580	1-19-61-2	72141734961233880	Swahili	swah1253	the custom	CUSTOM	1747		mila	mila 
+1581	1-19-62-1	72141734465189987	Swahili	swah1253	the quarrel	QUARREL	1848		ugomvi	ugomvi 
+1582	1-19-63-1	72141734333302684	Swahili	swah1253	the plot	PLOT	2024		njama	njama 
+1583	1-19-65-1	72141734484382416	Swahili	swah1253	to meet	MEET	1831		-kutana	-kutana 
+1584	1-19-72-1	72141734173455570	Swahili	swah1253	the prostitute	PROSTITUTE	1610		malaya	malaya 
+1585	1-19-72-2	72141734979402246	Swahili	swah1253	the prostitute	PROSTITUTE	1610		kahaba	kahaba 
+1586	1-20-11-1	72141734732724393	Swahili	swah1253	to fight	FIGHT	1423		-pigana	-pigana 
+1587	1-20-13-1	72141734110554723	Swahili	swah1253	the war or battle	BATTLE	579		vita	vita 
+1588	1-20-14-1	72141734189948660	Swahili	swah1253	the peace	PEACE	1338		salama	salama 
+1589	1-20-15-1	72141734512857357	Swahili	swah1253	the army	ARMY	1561		jeshi	jeshi 
+1590	1-20-17-1	72141734872835136	Swahili	swah1253	the soldier	SOLDIER	1941		askari	askari 
+1591	1-20-21-1	72141734649005365	Swahili	swah1253	the weapons	WEAPONS	951		silaha	silaha 
+1592	1-20-22-1	72141734336571515	Swahili	swah1253	the club	CLUB	1763		rungu	rungu 
+1593	1-20-23-1	72141734902011796	Swahili	swah1253	the sling	SLING	387		kombeo, kumbwewe	kombeo 
+1594	1-20-23-2	72141734902011796	Swahili	swah1253	the sling	SLING	387		kombeo, kumbwewe	kumbwewe 
+1595	1-20-23-3	72141734179587537	Swahili	swah1253	the sling	SLING	387		teo	teo 
+1596	1-20-24-1	7214173484343180	Swahili	swah1253	the bow	BOW	994		uta	uta 
+1597	1-20-25-1	72141734483983640	Swahili	swah1253	the arrow	ARROW	977		mshale	mshale 
+1598	1-20-26-1	7214173433918521	Swahili	swah1253	the spear	SPEAR	945		mkuki	mkuki 
+1599	1-20-27-1	72141734317517152	Swahili	swah1253	the sword	SWORD	1535		upanga	upanga 
+1600	1-20-28-1	72141734697809275	Swahili	swah1253	the gun	GUN	1566		bunduki	bunduki 
+1601	1-20-33-1	72141734836188265	Swahili	swah1253	the helmet	HELMET	1680		helmeti	helmeti 
+1602	1-20-34-1	72141734572368894	Swahili	swah1253	the shield	SHIELD	1064		ngao	ngao 
+1603	1-20-35-1	72141734792622696	Swahili	swah1253	the fortress	FORTRESS	1938		ngome	ngome 
+1604	1-20-35-2	72141734431937590	Swahili	swah1253	the fortress	FORTRESS	1938		boma	boma 
+1605	1-20-36-1	72141734441978417	Swahili	swah1253	the tower	TOWER	1671		mnara	mnara 
+1606	1-20-41-1	7214173415744362	Swahili	swah1253	the victory	VICTORY	783		ushindi	ushindi 
+1607	1-20-42-1	72141734265577218	Swahili	swah1253	the defeat	DEFEAT	782		-shindwa	-shindwa 
+1608	1-20-43-1	72141734737370607	Swahili	swah1253	the attack	ATTACK	722		shambulio	shambulio 
+1609	1-20-44-1	72141734449908558	Swahili	swah1253	to defend	DEFEND	1330		-linda	-linda 
+1610	1-20-44-2	7214173499850911	Swahili	swah1253	to defend	DEFEND	1330		-kinga	-kinga 
+1611	1-20-45-1	72141734634413747	Swahili	swah1253	to retreat	RETREAT	421		-rudi nyuma	-rudi nyuma 
+1612	1-20-46-1	72141734645244351	Swahili	swah1253	to surrender	SURRENDER	1696		-salimu amri	-salimu amri 
+1613	1-20-47-1	72141734815245003	Swahili	swah1253	the captive or prisoner	PRISONER	1072		mfungwa	mfungwa 
+1614	1-20-471-1	72141734159341564	Swahili	swah1253	the guard	GUARD	1940		mlinzi	mlinzi 
+1615	1-20-48-1	72141734523463431	Swahili	swah1253	the booty	BOOTY	1022		mateka	mateka 
+1616	1-20-48-2	72141734758881735	Swahili	swah1253	the booty	BOOTY	1022		mali ya wizi	mali ya wizi 
+1617	1-20-49-1	72141734899927954	Swahili	swah1253	the ambush	AMBUSH	65		uvamizi, mavamio	uvamizi 
+1618	1-20-49-2	72141734899927954	Swahili	swah1253	the ambush	AMBUSH	65		uvamizi, mavamio	mavamio 
+1619	1-20-51-1	72141734425178738	Swahili	swah1253	the fisherman	FISHERMAN	1858		mvuvi	mvuvi 
+1620	1-20-52-1	72141734862893832	Swahili	swah1253	the fishhook	FISHHOOK	1074		ndoana	ndoana 
+1621	1-20-53-1	72141734659091559	Swahili	swah1253	the fishing line	FISHING LINE	19		mshipi	mshipi 
+1622	1-20-53-2	72141734229558420	Swahili	swah1253	the fishing line	FISHING LINE	19		ugwe wa kuvulia	ugwe wa kuvulia 
+1623	1-20-54-1	72141734452746127	Swahili	swah1253	the fishnet	FISHNET	388		wavu	wavu 
+1624	1-20-55-1	72141734693554174	Swahili	swah1253	the fish trap	FISH TRAP	389		dema	dema 
+1625	1-20-55-2	72141734731485641	Swahili	swah1253	the fish trap	FISH TRAP	389		mgono	mgono 
+1626	1-20-55-3	72141734169240718	Swahili	swah1253	the fish trap	FISH TRAP	389		uzio	uzio 
+1627	1-20-56-1	72141734917433184	Swahili	swah1253	the bait	BAIT	2013		chambo	chambo 
+1628	1-20-61-1	72141734941031082	Swahili	swah1253	to hunt	HUNT	1435		-winda	-winda 
+1629	1-20-62-1	72141734763383716	Swahili	swah1253	to shoot	SHOOT	1172		-piga risasi	-piga risasi 
+1630	1-20-63-1	72141734720512860	Swahili	swah1253	to miss	MISS (A TARGET)	161		-kosa	-kosa 
+1631	1-20-64-1	72141734325430297	Swahili	swah1253	the trap	TRAP (PITFALL)	1075		mtego	mtego 
+1632	1-20-65-1	72141734860571601	Swahili	swah1253	to trap	TRAP (CATCH)	1170		-tega	-tega 
+1633	1-21-11-1	72141734375527026	Swahili	swah1253	the law	LAW	1062		sheria	sheria 
+1634	1-21-15-1	72141734419881311	Swahili	swah1253	the court	COURT	1068		mahakama	mahakama 
+1635	1-12-013-1	72141734873105450	Swahili	swah1253	at	AT	1461		-ni	-ni 
+1636	1-21-16-1	72141734356718964	Swahili	swah1253	to adjudicate	ADJUDICATE	1818		-hukumu	-hukumu 
+1637	1-21-17-1	72141734487468977	Swahili	swah1253	the judgment	JUDGMENT	1067		hukumu	hukumu 
+1638	1-21-18-1	72141734240718889	Swahili	swah1253	the judge	JUDGE	861		hakimu	hakimu 
+1639	1-21-18-2	72141734262939250	Swahili	swah1253	the judge	JUDGE	861		kadhi	kadhi 
+1640	1-21-18-3	72141734728433518	Swahili	swah1253	the judge	JUDGE	861		jaji	jaji 
+1641	1-21-21-1	7214173448883654	Swahili	swah1253	the plaintiff	PLAINTIFF	2020		mshtaki	mshtaki 
+1642	1-21-21-2	72141734775397236	Swahili	swah1253	the plaintiff	PLAINTIFF	2020		mdai	mdai 
+1643	1-21-22-1	72141734731636220	Swahili	swah1253	the defendant	DEFENDANT	1034		mshtakiwa	mshtakiwa 
+1644	1-21-23-1	72141734852951100	Swahili	swah1253	the witness	WITNESS	1144		shahidi	shahidi 
+1645	1-21-24-1	72141734394157183	Swahili	swah1253	to swear	SWEAR	1939		-apa	-apa 
+1646	1-21-24-2	72141734925712579	Swahili	swah1253	to swear	SWEAR	1939		-la yamini	-la yamini 
+1647	1-21-24-3	72141734865230234	Swahili	swah1253	to swear	SWEAR	1939		-la kiapo	-la kiapo 
+1648	1-21-25-1	72141734203656034	Swahili	swah1253	the oath	OATH	1712		kiapo	kiapo 
+1649	1-21-25-2	72141734579461706	Swahili	swah1253	the oath	OATH	1712		yamini	yamini 
+1650	1-21-31-1	72141734719206334	Swahili	swah1253	to accuse	ACCUSE	1814		-shtaki, -shitaki	-shtaki 
+1651	1-21-31-2	72141734719206334	Swahili	swah1253	to accuse	ACCUSE	1814		-shtaki, -shitaki	-shitaki 
+1652	1-21-32-1	72141734325924654	Swahili	swah1253	to condemn	CONDEMN	484		-ona na hatia	-ona na hatia 
+1653	1-21-32-2	72141734328231482	Swahili	swah1253	to condemn	CONDEMN	484		-laani	-laani 
+1654	1-21-33-1	72141734323594301	Swahili	swah1253	to convict	CONVICT	983		-tia hatiani	-tia hatiani 
+1655	1-21-35-1	72141734185622452	Swahili	swah1253	guilty	GUILTY	1682		hatia	hatia 
+1656	1-21-37-1	72141734775025071	Swahili	swah1253	the penalty or punishment	PUNISHMENT	390		adhabu	adhabu 
+1657	1-21-38-1	72141734204663715	Swahili	swah1253	the fine	FINE (PENALTY)	218		faini	faini 
+1658	1-21-39-1	72141734158359421	Swahili	swah1253	the prison	PRISON	1281		gereza	gereza 
+1659	1-21-39-2	72141734973891198	Swahili	swah1253	the prison	PRISON	1281		jela	jela 
+1660	1-21-42-1	72141734754972579	Swahili	swah1253	the murder	MURDER	845		-ua	-ua 
+1661	1-21-43-1	72141734880829071	Swahili	swah1253	the adultery	ADULTERY	902		asherati, uasherati	asherati 
+1662	1-21-43-2	72141734880829071	Swahili	swah1253	the adultery	ADULTERY	902		asherati, uasherati	uasherati 
+1663	1-21-43-3	72141734654944866	Swahili	swah1253	the adultery	ADULTERY	902		uzinzi	uzinzi 
+1664	1-21-43-4	72141734211644156	Swahili	swah1253	the adultery	ADULTERY	902		zinaa	zinaa 
+1665	1-21-43-5	72141734810626062	Swahili	swah1253	the adultery	ADULTERY	902		mgoni	mgoni 
+1666	1-21-44-1	72141734165524666	Swahili	swah1253	the rape	RAPE	953		ubakaji	ubakaji 
+1667	1-21-51-1	72141734133486278	Swahili	swah1253	to steal	STEAL	713		-iba	-iba 
+1668	1-21-52-1	72141734376863502	Swahili	swah1253	the thief	THIEF	1160		mwizi	mwizi 
+1669	1-22-11-1	72141734532039696	Swahili	swah1253	the religion	RELIGION	661		dini	dini 
+1670	1-22-12-1	72141734122438852	Swahili	swah1253	the god	DEITY	3231		mungu	mungu 
+1671	1-22-12-2	72141734726303840	Swahili	swah1253	the god	DEITY	3231		Mola	Mola 
+1672	1-22-13-1	72141734144473781	Swahili	swah1253	the temple	TEMPLE	911		hekalu	hekalu 
+1673	1-22-14-1	72141734718043592	Swahili	swah1253	the altar	ALTAR	853		altare	altare 
+1674	1-22-14-2	7214173490661113	Swahili	swah1253	the altar	ALTAR	853		madhabahu	madhabahu 
+1675	1-22-15-1	72141734832640846	Swahili	swah1253	the sacrifice	SACRIFICE	1103		tambiko	tambiko 
+1676	1-22-15-2	7214173493196284	Swahili	swah1253	the sacrifice	SACRIFICE	1103		kafara	kafara 
+1677	1-22-16-1	72141734461457334	Swahili	swah1253	to worship	WORSHIP	257		-abudu	-abudu 
+1678	1-22-17-1	72141734628872678	Swahili	swah1253	to pray	PRAY	24		-sali	-sali 
+1679	1-22-18-1	72141734897727565	Swahili	swah1253	the priest	PRIEST	852		padri	padri 
+1680	1-22-18-2	72141734881061584	Swahili	swah1253	the priest	PRIEST	852		kasisi	kasisi 
+1681	1-22-19-1	7214173469971737	Swahili	swah1253	holy	HOLY	1702		-takatifu	-takatifu 
+1682	1-22-22-1	72141734384792115	Swahili	swah1253	to preach	PREACH	304		-hubiri	-hubiri 
+1683	1-22-22-2	72141734485423322	Swahili	swah1253	to preach	PREACH	304		-hutubu	-hutubu 
+1684	1-22-23-1	72141734827481895	Swahili	swah1253	to bless	BLESS	391		-bariki	-bariki 
+1685	1-22-24-1	72141734252551225	Swahili	swah1253	to curse	CURSE	8		-apiza	-apiza 
+1686	1-22-24-2	72141734328231482	Swahili	swah1253	to curse	CURSE	8		-laani	-laani 
+1687	1-22-26-1	72141734404696402	Swahili	swah1253	to fast	ABSTAIN FROM FOOD	303		-funga	-funga 
+1688	1-22-31-1	72141734249888954	Swahili	swah1253	the heaven	HEAVEN	1565		pepo	pepo 
+1689	1-22-31-2	72141734530575625	Swahili	swah1253	the heaven	HEAVEN	1565		mbinguni	mbinguni 
+1690	1-22-32-1	72141734684730615	Swahili	swah1253	the hell	HELL	878		jahanamu	jahanamu 
+1691	1-22-32-2	72141734867807494	Swahili	swah1253	the hell	HELL	878		motoni	motoni 
+1692	1-22-35-1	72141734249888954	Swahili	swah1253	the demon	DEMON	1973		pepo	pepo 
+1693	1-22-35-2	72141734227654220	Swahili	swah1253	the demon	DEMON	1973		jini	jini 
+1694	1-22-35-3	72141734757451760	Swahili	swah1253	the demon	DEMON	1973		shetani	shetani 
+1695	1-22-37-1	72141734642233988	Swahili	swah1253	the idol	IDOL	1945		kijimungu	kijimungu 
+1696	1-22-42-1	72141734816039401	Swahili	swah1253	the magic	MAGIC	392		uchawi	uchawi 
+1697	1-22-43-1	72141734431114750	Swahili	swah1253	the sorcerer or witch	MAGICIAN	2137		mchawi	mchawi 
+1698	1-22-44-1	72141734841590684	Swahili	swah1253	the fairy or elf	ELF OR FAIRY	3206		kichimbakazi	kichimbakazi 
+1699	1-22-45-1	72141734433846153	Swahili	swah1253	the ghost	GHOST	1175		zimwi	zimwi 
+1700	1-22-45-2	72141734697813503	Swahili	swah1253	the ghost	GHOST	1175		mzimu	mzimu 
+1701	1-22-47-1	72141734435753470	Swahili	swah1253	the omen	OMEN	107		kisirani	kisirani 
+1702	1-23-1-1	72141734714960936	Swahili	swah1253	the radio	RADIO	1315		redio	redio 
+1703	1-23-11-1	72141734510499079	Swahili	swah1253	the television	TELEVISION	1788		televisheni	televisheni 
+1704	1-23-12-1	72141734335119764	Swahili	swah1253	the telephone	TELEPHONE	1379		simu	simu 
+1705	1-23-135-1	72141734349625824	Swahili	swah1253	the motorcycle	MOTORCYCLE	638		pikipiki	pikipiki 
+1706	1-23-14-1	72141734749980405	Swahili	swah1253	the car	CAR	1111		gari	gari 
+1707	1-23-14-2	72141734886785873	Swahili	swah1253	the car	CAR	1111		motokaa	motokaa 
+1708	1-23-15-1	72141734337046955	Swahili	swah1253	the bus	BUS	1070		basi	basi 
+1709	1-23-16-1	72141734897262068	Swahili	swah1253	the airplane	AIRPLANE	1597		ndege	ndege 
+1710	1-23-16-2	72141734523087188	Swahili	swah1253	the airplane	AIRPLANE	1597		eropleni	eropleni 
+1711	1-23-17-1	72141734989805434	Swahili	swah1253	the electricity	ELECTRICITY	59		umeme	umeme 
+1712	1-23-175-1	72141734515361193	Swahili	swah1253	the battery	BATTERY	662		betri	betri 
+1713	1-23-2-1	72141734711734101	Swahili	swah1253	the hospital	HOSPITAL	616		hospitali	hospitali 
+1714	1-23-21-1	72141734342802962	Swahili	swah1253	the nurse	NURSE	1104		mwuguzi	mwuguzi 
+1715	1-23-22-1	72141734994299099	Swahili	swah1253	the pill or tablet	PILL	395		kidonge	kidonge 
+1716	1-23-23-1	72141734261836812	Swahili	swah1253	the injection	INJECTION	1805		sindano	sindano 
+1717	1-23-5-1	7214173492980792	Swahili	swah1253	the tap/faucet	FAUCET	1488		bomba	bomba 
+1718	1-23-51-1	72141734373296477	Swahili	swah1253	the sink	SINK (BASIN)	915		sinki	sinki 
+1719	1-23-52-1	72141734671503406	Swahili	swah1253	the toilet	TOILET	219		choo	choo 
+1720	1-23-52-2	72141734130543559	Swahili	swah1253	the toilet	TOILET	219		msala	msala 
+1721	1-23-53-1	72141734870934802	Swahili	swah1253	the mattress	MATTRESS	105		godoro	godoro 
+1722	1-23-3-1	72141734503373142	Swahili	swah1253	the government	GOVERNMENT	815		serikali	serikali 
+1723	1-23-31-1	72141734782825923	Swahili	swah1253	the president	PRESIDENT	899		rais, raisi	rais 
+1724	1-23-31-2	72141734782825923	Swahili	swah1253	the president	PRESIDENT	899		rais, raisi	raisi 
+1725	1-23-32-1	72141734232432810	Swahili	swah1253	the minister	MINISTER	486		waziri	waziri 
+1726	1-23-33-1	72141734147955207	Swahili	swah1253	the police	POLICE	656		polisi	polisi 
+1727	1-23-34-1	72141734394122167	Swahili	swah1253	the driver's license	DRIVER'S LICENSE	599		leseni ya kuendesha gari	leseni ya kuendesha gari 
+1728	1-23-37-1	72141734877359970	Swahili	swah1253	the crime	CRIME	1066		uhalifu	uhalifu 
+1729	1-23-37-2	72141734558599646	Swahili	swah1253	the crime	CRIME	1066		jinai	jinai 
+1730	1-23-38-1	72141734792455431	Swahili	swah1253	the election	ELECTION	240		uchaguzi	uchaguzi 
+1731	1-23-4-1	72141734786536587	Swahili	swah1253	the post/mail	MAIL	167		posta	posta 
+1732	1-23-41-1	72141734363953871	Swahili	swah1253	the postage stamp	POSTAGE STAMP	596		stempu	stempu 
+1733	1-23-42-1	72141734119855730	Swahili	swah1253	the letter	LETTER	1612		barua	barua 
+1734	1-23-44-1	72141734316423338	Swahili	swah1253	the bank	BANK	1284		benki	benki 
+1735	1-23-54-1	72141734467790281	Swahili	swah1253	the tin/can	CAN	1051		kopo	kopo 
+1736	1-23-55-1	72141734205385809	Swahili	swah1253	the screw	SCREW	1802		skrubu, sukurubu	skrubu 
+1737	1-23-55-2	72141734205385809	Swahili	swah1253	the screw	SCREW	1802		skrubu, sukurubu	sukurubu 
+1738	1-23-555-1	72141734472492994	Swahili	swah1253	the screwdriver	SCREWDRIVER	836		bisibisi	bisibisi 
+1739	1-23-56-1	72141734843368623	Swahili	swah1253	the bottle	BOTTLE	1321		chupa	chupa 
+1740	1-23-565-1	72141734116310779	Swahili	swah1253	the candy/sweets	CANDY	874		pipi	pipi 
+1741	1-23-565-2	72141734111844399	Swahili	swah1253	the candy/sweets	CANDY	874		peremende	peremende 
+1742	1-23-24-1	72141734239228850	Swahili	swah1253	the spectacles/glasses	SPECTACLES	1898		miwani	miwani 
+1743	1-23-57-1	72141734725133140	Swahili	swah1253	the plastic	PLASTIC	654		plastiki	plastiki 
+1744	1-23-575-1	72141734944120543	Swahili	swah1253	the bomb	BOMB	1804		bomu	bomu 
+1745	1-23-58-1	72141734649103633	Swahili	swah1253	the workshop	WORKSHOP	1677		karakana	karakana 
+1746	1-23-59-1	72141734730172676	Swahili	swah1253	the cigarette	CIGARETTE	969		sigara	sigara 
+1747	1-23-61-1	72141734647860043	Swahili	swah1253	the calendar	CALENDAR	1967		kalenda	kalenda 
+1748	1-23-62-1	72141734700753632	Swahili	swah1253	the film/movie	MOVIE	216		filamu	filamu 
+1749	1-23-63-1	72141734736577491	Swahili	swah1253	the music	MUSIC	642		muziki	muziki 
+1750	1-23-64-1	72141734115168536	Swahili	swah1253	the song	SONG	1096		wimbo	wimbo 
+1751	1-23-6-1	7214173414870268	Swahili	swah1253	the newspaper	NEWSPAPER	1298		gazeti	gazeti 
+1752	1-23-385-1	72141734113261868	Swahili	swah1253	the address	ADDRESS	591		anwani	anwani 
+1753	1-23-39-1	7214173487556504	Swahili	swah1253	the number	NUMBER	1356		namba, nambari	namba 
+1754	1-23-39-2	7214173487556504	Swahili	swah1253	the number	NUMBER	1356		namba, nambari	nambari 
+1755	1-23-155-1	7214173442389473	Swahili	swah1253	the train	TRAIN	900		gari (la) moshi	gari (la) moshi 
+1756	1-23-155-2	72141734292249406	Swahili	swah1253	the train	TRAIN	900		treni	treni 
+1757	1-23-36-1	7214173450643248	Swahili	swah1253	the birth certificate	BIRTH CERTIFICATE	397		cheti cha kuzaliwa	cheti cha kuzaliwa 
+1758	1-23-18-1	72141734470131858	Swahili	swah1253	to brake	BRAKE	966		breki	breki 
+1759	1-23-195-1	72141734783826536	Swahili	swah1253	the petroleum	PETROLEUM	650		mafuta	mafuta 
+1760	1-23-185-1	72141734479635720	Swahili	swah1253	the motor	MOTOR	110		injini	injini 
+1761	1-23-185-2	72141734428705102	Swahili	swah1253	the motor	MOTOR	110		mota (1)	mota (1) 
+1762	1-23-19-1	72141734828695677	Swahili	swah1253	the machine	MACHINE	144		mashine	mashine 
+1763	1-23-13-1	72141734909117284	Swahili	swah1253	the bicycle	BICYCLE	747		baisikeli	baisikeli 
+1764	1-23-395-1	72141734308253998	Swahili	swah1253	the street	STREET	1362		barabara (1)	barabara (1) 
+1765	1-23-395-2	72141734106046594	Swahili	swah1253	the street	STREET	1362		mtaa	mtaa 
+1766	1-19-445-1	72141734231515860	Swahili	swah1253	to liberate	LIBERATE	37		-komboa	-komboa 
+1767	1-19-565-1	72141734712338249	Swahili	swah1253	to invite	INVITE	1611		-alika	-alika 
+1768	1-23-35-1	72141734647949647	Swahili	swah1253	the license plate	LICENSE PLATE	1790		bamba la namba ya gari	bamba la namba ya gari 
+1769	1-23-43-1	7214173483046430	Swahili	swah1253	the postcard	POSTCARD	1497		kadi (ya posta)	kadi (ya posta) 
+1770	1-24-01-1	72141734187776473	Swahili	swah1253	to be	BE	1579		-wa	-wa 
+1771	1-24-02-1	72141734187776473	Swahili	swah1253	to become	BECOME	1990		-wa	-wa 
+1772	1-24-03-1	72141734558306662	Swahili	swah1253	without	WITHOUT	1478		bila	bila 
+1773	1-24-05-1	721417341669357	Swahili	swah1253	through	THROUGH	97		-pitia	-pitia 
+1774	1-24-13-1	72141734928395636	Swahili	swah1253	same	SAME	200		yule yule	yule yule 
+1775	1-24-06-1	72141734169195444	Swahili	swah1253	not	NOT	1240		si	si 
+1776	1-24-06-2	72141734997694398	Swahili	swah1253	not	NOT	1240		ha-	ha- 
+1777	1-24-06-3	72141734655612632	Swahili	swah1253	not	NOT	1240		-si-	-si- 
+1778	1-24-07-1	72141734368250818	Swahili	swah1253	this	THIS	1214		huyu	huyu 
+1779	1-24-08-1	7214173488132503	Swahili	swah1253	that	THAT	78		yule	yule 
+1780	1-24-09-1	72141734721701888	Swahili	swah1253	here	HERE	136		hapa	hapa 
+1781	1-24-1-1	72141734100877106	Swahili	swah1253	there	THERE	1937		kule	kule 
+1782	1-24-11-1	72141734318255564	Swahili	swah1253	other	OTHER	197		-ingine	-ingine 
+1783	1-4-493-1	721417346114690	Swahili	swah1253	the vagina	VAGINA	1836		kuma	kuma 
+1784	1-23-9-1	72141734513951799	Swahili	swah1253	the tea	TEA	1373		chai	chai 
+1785	1-23-91-1	72141734988138678	Swahili	swah1253	the coffee	COFFEE	1299		kahawa	kahawa 
+1786	1-24-12-1	7214173417750139	Swahili	swah1253	next	NEXT	1354		-fuata	-fuata 
+1787	1-3-863-1	72141734561873523	Swahili	swah1253	the hare	HARE	1190		sungura	sungura 
+1788	1-3-865-1	72141734619450502	Swahili	swah1253	the quail	QUAIL	1893		kwale	kwale 
+1789	1-3-865-2	72141734221865694	Swahili	swah1253	the quail	QUAIL	1893		tomboo, tomboro	tomboo 
+1790	1-3-865-3	72141734221865694	Swahili	swah1253	the quail	QUAIL	1893		tomboo, tomboro	tomboro 
+1791	1-3-869-1	72141734281825917	Swahili	swah1253	the squirrel	SQUIRREL	1628		kidiri	kidiri 
+1792	1-3-869-2	72141734798123382	Swahili	swah1253	the squirrel	SQUIRREL	1628		kindi	kindi 
+1793	1-3-869-3	7214173496415085	Swahili	swah1253	the squirrel	SQUIRREL	1628		kirukanjia	kirukanjia 
+1794	1-3-869-4	72141734766900856	Swahili	swah1253	the squirrel	SQUIRREL	1628		kichakuro	kichakuro 
+1795	1-10-79-1	72141734937366313	Swahili	swah1253	the sledge/sled	SLED	16		sleji	sleji 
+1796	1-8-993-1	72141734702232695	Swahili	swah1253	the needle(2)	NEEDLE TREE	286		jani	jani 
+1797	1-1-771-1	72141734624755012	Swahili	swah1253	the arctic lights	ARCTIC LIGHTS	261		miali ya kaskazini ya dunia	miali ya kaskazini ya dunia 
+1798	1-4-465-1	72141734974869439	Swahili	swah1253	the sinew or tendon	TENDON	1137		ukano	ukano 
+1799	1-6-98-1	72141734760283087	Swahili	swah1253	the snowshoe	SNOWSHOE	233		kiatu cha theluji	kiatu cha theluji 
+1800	1-6-98-2	72141734302750122	Swahili	swah1253	the snowshoe	SNOWSHOE	233		skii	skii 
+1801	1-22-5-1	7214173454884360	Swahili	swah1253	the circumcision	CIRCUMCISION	393		tohara	tohara 
+1802	1-22-51-1	72141734422286036	Swahili	swah1253	the initiation ceremony	INITIATION CEREMONY	1946		jando	jando 
+1803	1-22-51-2	72141734171602416	Swahili	swah1253	the initiation ceremony	INITIATION CEREMONY	1946		kumbi	kumbi 
+1804	1-22-51-3	72141734276005449	Swahili	swah1253	the initiation ceremony	INITIATION CEREMONY	1946		unyago	unyago 
+1805	1-8-996-1	72141734264478915	Swahili	swah1253	the cone	CONE	287		sonobari	sonobari 
+1806	1-3-8112-1	72141734638915142	Swahili	swah1253	the body louse	BODY LOUSE	311		chawa	chawa 
+1807	1-4-494-1	72141734208663253	Swahili	swah1253	the vulva	VULVA	1837		uke	uke 
+1808	1-9-93-1	72141734163976594	Swahili	swah1253	the whetstone	WHETSTONE	295		kinoo	kinoo 
+1809	1-7-65-1	72141734881909541	Swahili	swah1253	the camp	CAMP	1105		kambi	kambi 
+1810	1-7-65-2	72141734762077347	Swahili	swah1253	the camp	CAMP	1105		ago	ago 
+1811	1-3-597-1	72141734983301718	Swahili	swah1253	the cormorant	CORMORANT	840		mnandi	mnandi 
+1812	1-3-833-1	72141734229333386	Swahili	swah1253	the prawns or shrimp	PRAWNS	238		kamba (1)	kamba (1) 
+1813	1-3-834-1	72141734447751482	Swahili	swah1253	the termites	TERMITE	883		mchwa	mchwa 
+1814	1-3-835-1	72141734807874955	Swahili	swah1253	the tick	TICK	1527		kupe	kupe 
+1815	1-9-87-1	72141734455349682	Swahili	swah1253	the boomerang	BOOMERANG	135		bumarengi	bumarengi 
+1816	1-3-88-1	72141734420364074	Swahili	swah1253	the kangaroo	KANGAROO	164		kangaruu	kangaruu 
+1817	1-3-89-1	7214173422230350	Swahili	swah1253	the anteater	ANTEATER	181		muhanga	muhanga 
+1818	1-7-66-1	72141734313015678	Swahili	swah1253	the hammock	HAMMOCK	2019		kitanda cha bembea	kitanda cha bembea 
+1819	1-8-911-1	72141734776690449	Swahili	swah1253	the millet or sorghum	MILLET	931		mtama	mtama 
+1820	1-8-911-2	72141734748127741	Swahili	swah1253	the millet or sorghum	MILLET	931		wimbi (2)	wimbi (2) 
+1821	1-8-911-3	72141734725905873	Swahili	swah1253	the millet or sorghum	MILLET	931		ulezi	ulezi 
+1822	1-8-911-4	72141734954726286	Swahili	swah1253	the millet or sorghum	MILLET	931		uwele	uwele 
+1823	1-3-913-1	72141734799357940	Swahili	swah1253	the chameleon	CHAMELEON	1555		kinyonga	kinyonga 
+1824	1-9-9-1	72141734185078302	Swahili	swah1253	to draw water	DRAW (WATER)	1911		-teka maji	-teka maji 
+1825	1-9-91-1	7214173498082666	Swahili	swah1253	the peg	PEG	361		kigingi	kigingi 
+1826	1-9-91-2	7214173489730803	Swahili	swah1253	the peg	PEG	361		mambo	mambo 
+1827	1-3-917-1	72141734635246591	Swahili	swah1253	the buffalo	BUFFALO	934		nyati	nyati 
+1828	1-3-917-2	7214173417055440	Swahili	swah1253	the buffalo	BUFFALO	934		mbogo	mbogo 
+1829	1-1-411-1	7214173451697130	Swahili	swah1253	the savanna	SAVANNA	260		mbuga	mbuga 
+1830	1-1-411-2	72141734658123094	Swahili	swah1253	the savanna	SAVANNA	260		nyika	nyika 
+1831	1-1-411-3	72141734432961886	Swahili	swah1253	the savanna	SAVANNA	260		savana	savana 
+1832	1-1-831-1	72141734919067101	Swahili	swah1253	the steam	STEAM	1193		mvuke	mvuke 
+1833	1-2-4561-1	72141734471811870	Swahili	swah1253	the older sibling	OLDER SIBLING	405		mkubwa	mkubwa 
+1834	1-2-4561-2	72141734980688304	Swahili	swah1253	the older sibling	OLDER SIBLING	405		ndugu	ndugu 
+1835	1-2-4561-3	7214173463280224	Swahili	swah1253	the older sibling	OLDER SIBLING	405		kaka	kaka 
+1836	1-2-4561-4	7214173484555615	Swahili	swah1253	the older sibling	OLDER SIBLING	405		dada	dada 
+1837	1-2-4562-1	72141734602059141	Swahili	swah1253	the younger sibling	YOUNGER SIBLING	427		mdogo	mdogo 
+1838	1-2-4562-2	72141734980688304	Swahili	swah1253	the younger sibling	YOUNGER SIBLING	427		ndugu	ndugu 
+1839	1-2-5-1	72141734396750898	Swahili	swah1253	the grandchild	GRANDCHILD	1617		mjukuu	mjukuu 
+1840	1-2-541-1	72141734996603882	Swahili	swah1253	the sibling’s child	SIBLING'S CHILD	173		mpwa	mpwa 
+1841	1-2-541-2	72141734330048001	Swahili	swah1253	the sibling’s child	SIBLING'S CHILD	173		mwana	mwana 
+1842	1-2-622-1	72141734175932616	Swahili	swah1253	the parents-in-law	PARENTS-IN-LAW	306		mkwe	mkwe 
+1843	1-2-6411-1	72141734175932616	Swahili	swah1253	the child-in-law	CHILD-IN-LAW	1060		mkwe	mkwe 
+1844	1-2-6412-1	72141734749689603	Swahili	swah1253	the sibling-in-law	SIBLING-IN-LAW	1832		shemeji	shemeji 
+1845	1-2-6412-2	7214173443549667	Swahili	swah1253	the sibling-in-law	SIBLING-IN-LAW	1832		wifi	wifi 
+1846	1-2-931-1	72141734247990343	Swahili	swah1253	he	HE	1211		yeye	yeye 
+1847	1-2-932-1	72141734247990343	Swahili	swah1253	she	SHE	1834		yeye	yeye 
+1848	1-2-933-1	72141734247990343	Swahili	swah1253	it	IT	169		yeye	yeye 
+1849	1-4-741-1	72141734472394300	Swahili	swah1253	the life	LIFE	210		maisha	maisha 
+1850	1-4-771-1	721417346889555	Swahili	swah1253	the carcass	CARCASS	1770		mzoga	mzoga 
+1851	1-4-844-1	7214173438196617	Swahili	swah1253	the disease	DISEASE	1986		ugonjwa	ugonjwa 
+1852	1-4-844-2	72141734135869304	Swahili	swah1253	the disease	DISEASE	1986		maradhi	maradhi 
+1853	1-7-232-1	72141734289258844	Swahili	swah1253	the padlock	PADLOCK	336		kufuli	kufuli 
+1854	1-11-29-1	72141734192720070	Swahili	swah1253	to damage	DAMAGE	1116		-hasiri	-hasiri 
+1855	1-11-29-2	72141734139959675	Swahili	swah1253	to damage	DAMAGE	1116		-dhuru	-dhuru 
+1856	1-12-081-1	72141734428426380	Swahili	swah1253	above	ABOVE	1741		juu	juu 
+1857	1-13-231-1	72141734849727880	Swahili	swah1253	the piece	PIECE	594		kipande	kipande 
+1858	1-13-331-1	72141734154875624	Swahili	swah1253	alone	ALONE	1964		peke	peke 
+1859	1-14-251-1	72141734252846197	Swahili	swah1253	the beginning	BEGINNING	1557		mwanzo	mwanzo 
+1860	1-14-411-1	72141734127947310	Swahili	swah1253	the day(2)	DAY (NOT NIGHT)	1225		siku	siku 
+1861	1-22-131-1	7214173422630193	Swahili	swah1253	the church	CHURCH	1349		kanisa	kanisa 
+1862	1-22-132-1	72141734351911110	Swahili	swah1253	the mosque	MOSQUE	1603		msikiti	msikiti 
+1863	1-4-7501-1	72141734922552434	Swahili	swah1253	dead	DEAD	1625		-fa	-fa 
+1864	1-4-8541-1	72141734465564599	Swahili	swah1253	to scratch	SCRATCH	1436		-kuna	-kuna 
+1865	1-9-111-1	72141734297568215	Swahili	swah1253	to make	MAKE	734		-fanya	-fanya 
+1866	1-9-111-2	72141734531582003	Swahili	swah1253	to make	MAKE	734		-tengeneza	-tengeneza 
+1867	1-4-431-1	72141734190327322	Swahili	swah1253	the belly	BELLY	1251		tumbo	tumbo 
+1868	1-9-311-1	72141734272865838	Swahili	swah1253	to wipe	WIPE	1454		-futa	-futa 
+1869	1-9-311-2	72141734312162192	Swahili	swah1253	to wipe	WIPE	1454		-pangusa	-pangusa 
+1870	1-1-775-1	72141734577099432	Swahili	swah1253	to freeze	FREEZE	1431		-ganda	-ganda 
+1871	1-24-04-1	72141734118632548	Swahili	swah1253	with	WITH	1340		na	na 
+1872	1-24-04-2	72141734627157960	Swahili	swah1253	with	WITH	1340		kwa	kwa 
+1873	1-12-012-1	7214173499993515	Swahili	swah1253	in	IN	1460		katika	katika 
+1874	1-12-012-2	72141734873105450	Swahili	swah1253	in	IN	1460		-ni	-ni 
+1875	1-9-99938-1	72141734674639771	Swahili	swah1253	to support				-himili	-himili 
+1876	1-11-99902-1	72141734237714091	Swahili	swah1253	the card				kadi	kadi 
+1877	1-11-99904-1	72141734703912416	Swahili	swah1253	the property				mali	mali 
+1878	1-13-99903-1	72141734918724834	Swahili	swah1253	each or every				kila	kila 
+1879	1-13-99908-1	72141734545200042	Swahili	swah1253	to substitute				-badili	-badili 
+1880	1-14-99906-1	72141734625492496	Swahili	swah1253	the time(2)				mara	mara 
+1881	1-17-99905-1	72141734272161190	Swahili	swah1253	the state				hali	hali 
+1882	1-18-99904-1	72141734750795245	Swahili	swah1253	the poem				shairi	shairi 
+1883	1-18-99909-1	72141734515979703	Swahili	swah1253	to greet				-salimu	-salimu 
+1884	1-19-99901-1	72141734766800910	Swahili	swah1253	Arabia				Manga	Manga 
+1885	1-19-99907-1	72141734661069580	Swahili	swah1253	India				Hindi	Hindi 
+1886	1-19-99908-1	7214173446149300	Swahili	swah1253	Madagascar				Buki, Bukini	Buki 
+1887	1-19-99908-2	7214173446149300	Swahili	swah1253	Madagascar				Buki, Bukini	Bukini 
+1888	1-19-99914-1	72141734850887825	Swahili	swah1253	the certificate				cheti	cheti 
+1889	1-19-99938-1	72141734302723668	Swahili	swah1253	to commit a crime				-halifu	-halifu 
+1890	1-23-99901-1	72141734692182166	Swahili	swah1253	the license				leseni	leseni 

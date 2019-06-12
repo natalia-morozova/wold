@@ -1,0 +1,270 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	siraʁat, hataŋbet	Ket	396	U+0061
+e	e	peršep, igbes	Ket	251	U+0065
+i	i	siɣit, binomnik	Ket	224	U+0069
+o	o	qaloq, sambok	Ket	210	U+006f
+t$	t	siraʁat, binaʁut	Ket	204	U+0074 U+0024
+l	l	qaloq, esla	Ket	186	U+006c
+^q	q	qòs, qōj	Ket	182	U+005e U+0071
+t	t	hataŋbet, iltəp	Ket	167	U+0074
+ŋ$	ŋ	baˀŋ, iriŋ	Ket	123	U+014b U+0024
+^b	b	baˀŋ, beˀp	Ket	119	U+005e U+0062
+n	n	anuntu, binomnik	Ket	115	U+006e
+b	b	sambok, igbes	Ket	107	U+0062
+s	s	esla, ēɣ suul	Ket	107	U+0073
+n$	n	èn, ìn	Ket	105	U+006e U+0024
+^s	s	sīn, sambok	Ket	105	U+005e U+0073
+u	u	binaʁut, tuɣun	Ket	101	U+0075
+a$	a	esla, qoja	Ket	99	U+0061 U+0024
+j$	j	qōj, qoˀj	Ket	99	U+006a U+0024
+^k	k	kūp, keˀt	Ket	96	U+005e U+006b
+^t	t	ture, toqtet	Ket	95	U+005e U+0074
+l$	l	dɯ̄l, ūl	Ket	95	U+006c U+0024
+_	_	tam akus ana bən, tam aska ana bən	Ket	87	U+005f
+^d	d	dɯ̄l, daan	Ket	85	U+005e U+0064
+^h	h	həə, hataŋbet	Ket	84	U+005e U+0068
+s$	s	igbes, beˀs	Ket	82	U+0073 U+0024
+ə	ə	həlin, dəqŋ	Ket	79	U+0259
+ŋ	ŋ	hataŋbet, təŋbaŋqolep	Ket	77	U+014b
+m	m	qimambaam, sambok	Ket	76	U+006d
+r	r	siraʁat, iriŋ	Ket	67	U+0072
+^a	a	ajeŋ, aleŋ	Ket	63	U+005e U+0061
+d	d	bissajdo, ətna deˀŋ	Ket	57	U+0064
+q	q	dəqŋ, kə̄qt	Ket	57	U+0071
+g	g	igbes, ɯlga	Ket	57	U+0067
+j	j	ejiŋ, qoja	Ket	56	U+006a
+p$	p	beˀp, qīp	Ket	54	U+0070 U+0024
+k	k	sikurka, eskej	Ket	53	U+006b
+ɣ	ɣ	ēɣ suul, siɣit	Ket	52	U+0263
+^e	e	ejiŋ, esla	Ket	47	U+005e U+0065
+^u	u	unat, ulvej	Ket	46	U+005e U+0075
+m$	m	qīm, laˀm	Ket	43	U+006d U+0024
+^i	i	igbes, iriŋ	Ket	37	U+005e U+0069
+ɯ	ɯ	qaqtɯm, bɯst	Ket	35	U+026f
+k$	k	boˀk, sambok	Ket	33	U+006b U+0024
+aˀ	aˀ	baˀŋ, laˀm	Ket	31	U+0061 U+02c0
+q$	q	qaloq, dəˀq	Ket	30	U+0071 U+0024
+p	p	kuptɯn, laptaq	Ket	29	U+0070
+^l	l	laˀm, laŋat	Ket	29	U+005e U+006c
+eˀ	eˀ	beˀp, beˀs	Ket	25	U+0065 U+02c0
+ī	ī	qīm, qīp	Ket	23	U+012b
+oˀ	oˀ	boˀk, qoˀj	Ket	23	U+006f U+02c0
+ɯ̄	ɯ̄	dɯ̄l, hɯ̄j	Ket	22	U+026f U+0304
+ʁ	ʁ	binaʁut, siraʁat	Ket	22	U+0281
+ks$	ks	ōks, qōks	Ket	20	U+006b U+0073 U+0024
+^o	o	oŋtils, ogə	Ket	20	U+005e U+006f
+aa	aa	daan, saan	Ket	19	U+0061 U+0061
+^m	m	mora, maˀm	Ket	19	U+005e U+006d
+à	à	qàl, qàŋ	Ket	18	U+00e0
+r$	r	qār, qɯ̀r	Ket	18	U+0072 U+0024
+-	<?>	t-a-b-et, ben - t - a	Ket	17	U+002d
+ū	ū	kūp, tūm	Ket	16	U+016b
+əˀ	əˀ	dəˀq, təˀq	Ket	16	U+0259 U+02c0
+v	v	ulvej, lovetbet	Ket	16	U+0076
+ō	ō	qōj, qōks	Ket	16	U+014d
+^ə	ə	ətna deˀŋ, əɣatn	Ket	14	U+005e U+0259
+ā	ā	qār, kitathāj	Ket	14	U+0101
+ē	ē	tēt, bēj	Ket	13	U+0113
+o$	o	bissajdo, aldo	Ket	12	U+006f U+0024
+ks	ks	haksem, haksut	Ket	12	U+006b U+0073
+òs$	òs	qòs, bena qòs	Ket	11	U+00f2 U+0073 U+0024
+ss	ss	bissajdo, assel	Ket	11	U+0073 U+0073
+^p	p	peršep, pamet	Ket	11	U+005e U+0070
+^ɯ	ɯ	ɯlga, ɯnam əɣam qō	Ket	11	U+005e U+026f
+iˀ$	iˀ	doŋamas iˀ, dɯnamas iˀ	Ket	10	U+0069 U+02c0 U+0024
+uˀ	uˀ	duˀp, quˀs	Ket	10	U+0075 U+02c0
+ɣ$	ɣ	dūɣ, ə̀ɣ	Ket	10	U+0263 U+0024
+ì	ì	kìj, tìɣ	Ket	9	U+00ec
+e$	e	ture, qəɣe	Ket	9	U+0065 U+0024
+uu	uu	ēɣ suul, duut	Ket	9	U+0075 U+0075
+ns	ns	kunsa, qusam bənsaŋ qō	Ket	9	U+006e U+0073
+ə̄	ə̄	kə̄qt, bə̄n	Ket	9	U+0259 U+0304
+tt	tt	ittas, battat	Ket	8	U+0074 U+0074
+ɯˀ	ɯˀ	hɯˀj, sɯˀk	Ket	8	U+026f U+02c0
+ts$	ts	siraʁats, siɣits	Ket	7	U+0074 U+0073 U+0024
+^n	n	nela qariɣa iˀ, nela	Ket	7	U+005e U+006e
+__	__	ben - t - a, ta - kil	Ket	7	U+005f U+005f
+nn	nn	ekkinna boˀk, tanno	Ket	7	U+006e U+006e
+kk	kk	sukkit, ekkinna boˀk	Ket	7	U+006b U+006b
+^è	è	èn, èj	Ket	7	U+005e U+00e8
+d$	d	deld, poezd	Ket	6	U+0064 U+0024
+iˀ	iˀ	tiˀŋ, kiˀs	Ket	6	U+0069 U+02c0
+ls$	ls	oŋtils, qotils	Ket	6	U+006c U+0073 U+0024
+əə$	əə	həə, səə	Ket	6	U+0259 U+0259 U+0024
+u$	u	anuntu, sintu	Ket	6	U+0075 U+0024
+js$	js	deŋejs, daan intijs	Ket	6	U+006a U+0073 U+0024
+ò	ò	dòq, tòʁ	Ket	6	U+00f2
+ō$	ō	qaɣam əɣam qō, tō	Ket	6	U+014d U+0024
+^ì	ì	ìn, ìt	Ket	6	U+005e U+00ec
+ii	ii	siis, siisto	Ket	6	U+0069 U+0069
+^ū	ū	ūl, ūɣan	Ket	6	U+005e U+016b
+^iˀ	iˀ	iˀl, iˀs	Ket	6	U+005e U+0069 U+02c0
+^ə̄	ə̄	ə̄t, ə̄k	Ket	5	U+005e U+0259 U+0304
+ʁ$	ʁ	dàʁ, lə̄ʁ	Ket	5	U+0281 U+0024
+^ē	ē	ēɣ suul, ēt	Ket	5	U+005e U+0113
+h	h	iŋɢust hāt, āmd hɯ̄j	Ket	5	U+0068
+^ō	ō	ōks, ōp	Ket	5	U+005e U+014d
+ŋs$	ŋs	handaŋs, qoreŋs	Ket	5	U+014b U+0073 U+0024
+ɢ	ɢ	iŋɢus, tosa tɯjiŋɢat	Ket	5	U+0262
+^à	à	àq, àr	Ket	4	U+005e U+00e0
+bb	bb	qibbat, qibbamaŋ	Ket	4	U+0062 U+0062
+ù	ù	sùl, qùj	Ket	4	U+00f9
+ū$	ū	bū, tū	Ket	4	U+016b U+0024
+ll	ll	halloj, allel	Ket	4	U+006c U+006c
+è	è	dèr, sèl	Ket	4	U+00e8
+^ēs$	ēs	ēs	Ket	4	U+005e U+0113 U+0073 U+0024
+ɯ̄$	ɯ̄	qɯ̄, kɯ̄	Ket	4	U+026f U+0304 U+0024
+^ī	ī	īm, īn	Ket	4	U+005e U+012b
+oo	oo	qoos, qooj	Ket	4	U+006f U+006f
+^ā	ā	āmd hɯ̄j, āt	Ket	4	U+005e U+0101
+g$	g	krug, ig	Ket	3	U+0067 U+0024
+th	th	kitathāj, kitathaj	Ket	3	U+0074 U+0068
+ɯ̀	ɯ̀	qɯ̀r, hɯ̀s	Ket	3	U+026f U+0300
+^ɯ̀	ɯ̀	ɯ̀s, ɯ̀n	Ket	3	U+005e U+026f U+0300
+ɯ̄n (1)	<???>	ɯ̄n (1)	Ket	3	U+026f U+0304 U+006e U+0020 U+0028 U+0031 U+0029
+qaˀ (2)	<???>	qaˀ (2)	Ket	3	U+0071 U+0061 U+02c0 U+0020 U+0028 U+0032 U+0029
+doo (2)	<???>	doo (2)	Ket	3	U+0064 U+006f U+006f U+0020 U+0028 U+0032 U+0029
+bèr (2)	<???>	bèr (2)	Ket	3	U+0062 U+00e8 U+0072 U+0020 U+0028 U+0032 U+0029
+qs$	qs	sijaqs, daqs	Ket	3	U+0071 U+0073 U+0024
+diˀ (2)	<???>	diˀ (2)	Ket	3	U+0064 U+0069 U+02c0 U+0020 U+0028 U+0032 U+0029
+əə	əə	səət, təəl	Ket	3	U+0259 U+0259
+^əə	əə	əəntet, əət	Ket	3	U+005e U+0259 U+0259
+dd	dd	uddiŋ, uddiŋs	Ket	3	U+0064 U+0064
+^aa	aa	aal, aaŋ	Ket	3	U+005e U+0061 U+0061
+^eˀ	eˀ	eˀp, eˀk	Ket	3	U+005e U+0065 U+02c0
+ə̄n (2)	<???>	ə̄n (2)	Ket	3	U+0259 U+0304 U+006e U+0020 U+0028 U+0032 U+0029
+.	<?>	tam...tam	Ket	3	U+002e
+^ɯɯ	ɯɯ	ɯɯltə, ɯɯt	Ket	3	U+005e U+026f U+026f
+ns$	ns	kəns, usens	Ket	3	U+006e U+0073 U+0024
+ls	ls	həlsej, əəlsin	Ket	3	U+006c U+0073
+sūk (2)	<???>	sūk (2)	Ket	3	U+0073 U+016b U+006b U+0020 U+0028 U+0032 U+0029
+ī$	ī	nī, kī	Ket	3	U+012b U+0024
+^əˀ	əˀ	əˀl, əˀk	Ket	3	U+005e U+0259 U+02c0
+č	č	kanča, očkaŋ	Ket	3	U+010d
+^iˀ$	iˀ	iˀ	Ket	3	U+005e U+0069 U+02c0 U+0024
+eˀ$	eˀ	deˀ, taɣəm eˀ	Ket	3	U+0065 U+02c0 U+0024
+ultij (2)	<???>	ultij (2)	Ket	2	U+0075 U+006c U+0074 U+0069 U+006a U+0020 U+0028 U+0032 U+0029
+kīt (1)	<???>	kīt (1)	Ket	2	U+006b U+012b U+0074 U+0020 U+0028 U+0031 U+0029
+i$	i	qogdi, ili	Ket	2	U+0069 U+0024
+ìs$	ìs	dìs	Ket	2	U+00ec U+0073 U+0024
+kiˀt (1)	<???>	kiˀt (1)	Ket	2	U+006b U+0069 U+02c0 U+0074 U+0020 U+0028 U+0031 U+0029
+^oˀ	oˀ	oˀn	Ket	2	U+005e U+006f U+02c0
+sūk (1)	<???>	sūk (1)	Ket	2	U+0073 U+016b U+006b U+0020 U+0028 U+0031 U+0029
+^ii$	ii	ii	Ket	2	U+005e U+0069 U+0069 U+0024
+uˀ$	uˀ	duˀ, kuˀ	Ket	2	U+0075 U+02c0 U+0024
+ā (1)	<???>	ā (1)	Ket	2	U+0101 U+0020 U+0028 U+0031 U+0029
+òs	òs	qòs keˀt	Ket	2	U+00f2 U+0073
+^oo	oo	oolɢat, ooŋ	Ket	2	U+005e U+006f U+006f
+ii$	ii	tii, bii	Ket	2	U+0069 U+0069 U+0024
+ōs$	ōs	lōs	Ket	2	U+014d U+0073 U+0024
+ə̀	ə̀	bə̀ɣ, də̀j	Ket	2	U+0259 U+0300
+ə$	ə	ogə, ɯɯltə	Ket	2	U+0259 U+0024
+ŋŋ	ŋŋ	eŋŋuŋbers, eŋŋuŋ	Ket	2	U+014b U+014b
+doˀŋ (1)	<???>	doˀŋ (1)	Ket	2	U+0064 U+006f U+02c0 U+014b U+0020 U+0028 U+0031 U+0029
+qō (3)	<???>	qō (3)	Ket	2	U+0071 U+014d U+0020 U+0028 U+0033 U+0029
+š	š	peršep	Ket	2	U+0161
+^īs$	īs	īs	Ket	2	U+005e U+012b U+0073 U+0024
+ēs$	ēs	dēs, sēs	Ket	2	U+0113 U+0073 U+0024
+anun (2)	<???>	anun (2)	Ket	2	U+0061 U+006e U+0075 U+006e U+0020 U+0028 U+0032 U+0029
+bèr (1)	<???>	bèr (1)	Ket	2	U+0062 U+00e8 U+0072 U+0020 U+0028 U+0031 U+0029
+^ə̀	ə̀	ə̀ɣ	Ket	2	U+005e U+0259 U+0300
+ilbet (2)	<???>	ilbet (2)	Ket	2	U+0069 U+006c U+0062 U+0065 U+0074 U+0020 U+0028 U+0032 U+0029
+qs	qs	eqsaq	Ket	2	U+0071 U+0073
+^uu$	uu	uu	Ket	2	U+005e U+0075 U+0075 U+0024
+pp	pp	oppas, hɯppas	Ket	2	U+0070 U+0070
+mm	mm	ammas	Ket	1	U+006d U+006d
+ps	ps	opsa	Ket	1	U+0070 U+0073
+ū (2)	<???>	ū (2)	Ket	1	U+016b U+0020 U+0028 U+0032 U+0029
+^š	š	škola	Ket	1	U+005e U+0161
+doˀŋ (2)	<???>	doˀŋ (2)	Ket	1	U+0064 U+006f U+02c0 U+014b U+0020 U+0028 U+0032 U+0029
+èr (1)	<???>	èr (1)	Ket	1	U+00e8 U+0072 U+0020 U+0028 U+0031 U+0029
+rs$	rs	eŋŋuŋbers	Ket	1	U+0072 U+0073 U+0024
+ūs (1)	<???>	ūs (1)	Ket	1	U+016b U+0073 U+0020 U+0028 U+0031 U+0029
+ās$	ās	hās	Ket	1	U+0101 U+0073 U+0024
+sūk (4)	<???>	sūk (4)	Ket	1	U+0073 U+016b U+006b U+0020 U+0028 U+0034 U+0029
+^uu	uu	uul	Ket	1	U+005e U+0075 U+0075
+ēj (1)	<???>	ēj (1)	Ket	1	U+0113 U+006a U+0020 U+0028 U+0031 U+0029
+^ɯˀ	ɯˀ	ɯˀk	Ket	1	U+005e U+026f U+02c0
+meˀt (2)	<???>	meˀt (2)	Ket	1	U+006d U+0065 U+02c0 U+0074 U+0020 U+0028 U+0032 U+0029
+ɯtkij~ətkij	<???>	ɯtkij~ətkij	Ket	1	U+026f U+0074 U+006b U+0069 U+006a U+007e U+0259 U+0074 U+006b U+0069 U+006a
+diˀ (1)	<???>	diˀ (1)	Ket	1	U+0064 U+0069 U+02c0 U+0020 U+0028 U+0031 U+0029
+^ùs$	ùs	ùs	Ket	1	U+005e U+00f9 U+0073 U+0024
+ool (2)	<???>	ool (2)	Ket	1	U+006f U+006f U+006c U+0020 U+0028 U+0032 U+0029
+^č	č	časaŋ	Ket	1	U+005e U+010d
+qān (1)	<???>	qān (1)	Ket	1	U+0071 U+0101 U+006e U+0020 U+0028 U+0031 U+0029
+^eˀ$	eˀ	eˀ	Ket	1	U+005e U+0065 U+02c0 U+0024
+^a$	a	a	Ket	1	U+005e U+0061 U+0024
+ə̄n (1)	<???>	ə̄n (1)	Ket	1	U+0259 U+0304 U+006e U+0020 U+0028 U+0031 U+0029
+oˀ$	oˀ	qoˀ	Ket	1	U+006f U+02c0 U+0024
+anun (1)	<???>	anun (1)	Ket	1	U+0061 U+006e U+0075 U+006e U+0020 U+0028 U+0031 U+0029
+ʌ	ʌ	uldʌptaŋbaŋ	Ket	1	U+028c
+qō (2)	<???>	qō (2)	Ket	1	U+0071 U+014d U+0020 U+0028 U+0032 U+0029
+kīt (2)	<???>	kīt (2)	Ket	1	U+006b U+012b U+0074 U+0020 U+0028 U+0032 U+0029
+bīs (2)	<???>	bīs (2)	Ket	1	U+0062 U+012b U+0073 U+0020 U+0028 U+0032 U+0029
+daqŋ (1)	<???>	daqŋ (1)	Ket	1	U+0064 U+0061 U+0071 U+014b U+0020 U+0028 U+0031 U+0029
+aˀt (1)	<???>	aˀt (1)	Ket	1	U+0061 U+02c0 U+0074 U+0020 U+0028 U+0031 U+0029
+ā (2)	<???>	ā (2)	Ket	1	U+0101 U+0020 U+0028 U+0032 U+0029
+^ee	ee	eeboks	Ket	1	U+005e U+0065 U+0065
+qān (2)	<???>	qān (2)	Ket	1	U+0071 U+0101 U+006e U+0020 U+0028 U+0032 U+0029
+kss	kss	qonokssajdo	Ket	1	U+006b U+0073 U+0073
+^ɯ̄	ɯ̄	ɯ̄ks	Ket	1	U+005e U+026f U+0304
+qq	qq	aqqot	Ket	1	U+0071 U+0071
+^às$	às	às	Ket	1	U+005e U+00e0 U+0073 U+0024
+tɯ̄t (2)	<???>	tɯ̄t (2)	Ket	1	U+0074 U+026f U+0304 U+0074 U+0020 U+0028 U+0032 U+0029
+aˀq (1)	<???>	aˀq (1)	Ket	1	U+0061 U+02c0 U+0071 U+0020 U+0028 U+0031 U+0029
+^ù	ù	ùt	Ket	1	U+005e U+00f9
+bīs (1)	<???>	bīs (1)	Ket	1	U+0062 U+012b U+0073 U+0020 U+0028 U+0031 U+0029
+aˀq (2)	<???>	aˀq (2)	Ket	1	U+0061 U+02c0 U+0071 U+0020 U+0028 U+0032 U+0029
+rh	rh	parhot	Ket	1	U+0072 U+0068
+^ē$	ē	ē	Ket	1	U+005e U+0113 U+0024
+ī (2)	<???>	ī (2)	Ket	1	U+012b U+0020 U+0028 U+0032 U+0029
+ultij (1)	<???>	ultij (1)	Ket	1	U+0075 U+006c U+0074 U+0069 U+006a U+0020 U+0028 U+0031 U+0029
+ɯˀ$	ɯˀ	dɯˀ	Ket	1	U+026f U+02c0 U+0024
+ɯɯ$	ɯɯ	sɯɯ	Ket	1	U+026f U+026f U+0024
+lsˀ$	lsˀ	senkalabelsˀ	Ket	1	U+006c U+0073 U+02c0 U+0024
+ēj (2)	<???>	ēj (2)	Ket	1	U+0113 U+006a U+0020 U+0028 U+0032 U+0029
+əˀ$	əˀ	təˀ	Ket	1	U+0259 U+02c0 U+0024
+uu$	uu	huu	Ket	1	U+0075 U+0075 U+0024
+qaˀ (1)	<???>	qaˀ (1)	Ket	1	U+0071 U+0061 U+02c0 U+0020 U+0028 U+0031 U+0029
+rs	rs	lekarsvo	Ket	1	U+0072 U+0073
+č$	č	mač	Ket	1	U+010d U+0024
+kiˀ (2)	<???>	kiˀ (2)	Ket	1	U+006b U+0069 U+02c0 U+0020 U+0028 U+0032 U+0029
+ool (1)	<???>	ool (1)	Ket	1	U+006f U+006f U+006c U+0020 U+0028 U+0031 U+0029
+tɯ̄t (1)	<???>	tɯ̄t (1)	Ket	1	U+0074 U+026f U+0304 U+0074 U+0020 U+0028 U+0031 U+0029
+den (1)	<???>	den (1)	Ket	1	U+0064 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+baŋol (1)	<???>	baŋol (1)	Ket	1	U+0062 U+0061 U+014b U+006f U+006c U+0020 U+0028 U+0031 U+0029
+ēj (3)	<???>	ēj (3)	Ket	1	U+0113 U+006a U+0020 U+0028 U+0033 U+0029
+oo$	oo	qoo	Ket	1	U+006f U+006f U+0024
+ī (1)	<???>	ī (1)	Ket	1	U+012b U+0020 U+0028 U+0031 U+0029
+ŋs	ŋs	qoŋsajdo	Ket	1	U+014b U+0073
+^əə$	əə	əə	Ket	1	U+005e U+0259 U+0259 U+0024
+^ās$	ās	ās	Ket	1	U+005e U+0101 U+0073 U+0024
+^v	v	vrag	Ket	1	U+005e U+0076
+qō (1)	<???>	qō (1)	Ket	1	U+0071 U+014d U+0020 U+0028 U+0031 U+0029
+doo (3)	<???>	doo (3)	Ket	1	U+0064 U+006f U+006f U+0020 U+0028 U+0033 U+0029
+meˀt (1)	<???>	meˀt (1)	Ket	1	U+006d U+0065 U+02c0 U+0074 U+0020 U+0028 U+0031 U+0029
+kīt (3)	<???>	kīt (3)	Ket	1	U+006b U+012b U+0074 U+0020 U+0028 U+0033 U+0029
+^uˀ	uˀ	uˀt	Ket	1	U+005e U+0075 U+02c0
+^i$	i	i	Ket	1	U+005e U+0069 U+0024
+sūk (3)	<???>	sūk (3)	Ket	1	U+0073 U+016b U+006b U+0020 U+0028 U+0033 U+0029
+^tt	tt	t-tn	Ket	1	U+005e U+0074 U+0074
+ataq (2)	<???>	ataq (2)	Ket	1	U+0061 U+0074 U+0061 U+0071 U+0020 U+0028 U+0032 U+0029
+baŋol (2)	<???>	baŋol (2)	Ket	1	U+0062 U+0061 U+014b U+006f U+006c U+0020 U+0028 U+0032 U+0029
+aniŋbet (2)	<???>	aniŋbet (2)	Ket	1	U+0061 U+006e U+0069 U+014b U+0062 U+0065 U+0074 U+0020 U+0028 U+0032 U+0029
+ilbet (1)	<???>	ilbet (1)	Ket	1	U+0069 U+006c U+0062 U+0065 U+0074 U+0020 U+0028 U+0031 U+0029
+kiˀ (3)	<???>	kiˀ (3)	Ket	1	U+006b U+0069 U+02c0 U+0020 U+0028 U+0033 U+0029
+kiˀt (2)	<???>	kiˀt (2)	Ket	1	U+006b U+0069 U+02c0 U+0074 U+0020 U+0028 U+0032 U+0029
+den (2)	<???>	den (2)	Ket	1	U+0064 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+doo (1)	<???>	doo (1)	Ket	1	U+0064 U+006f U+006f U+0020 U+0028 U+0031 U+0029
+z	z	poezd	Ket	1	U+007a
+ts	ts	bitsa	Ket	1	U+0074 U+0073
+aniŋbet (1)	<???>	aniŋbet (1)	Ket	1	U+0061 U+006e U+0069 U+014b U+0062 U+0065 U+0074 U+0020 U+0028 U+0031 U+0029
+daqŋ (2)	<???>	daqŋ (2)	Ket	1	U+0064 U+0061 U+0071 U+014b U+0020 U+0028 U+0032 U+0029
+ūs (2)	<???>	ūs (2)	Ket	1	U+016b U+0073 U+0020 U+0028 U+0032 U+0029
+kiˀ (1)	<???>	kiˀ (1)	Ket	1	U+006b U+0069 U+02c0 U+0020 U+0028 U+0031 U+0029
+aˀt (2)	<???>	aˀt (2)	Ket	1	U+0061 U+02c0 U+0074 U+0020 U+0028 U+0032 U+0029
+ataq (1)	<???>	ataq (1)	Ket	1	U+0061 U+0074 U+0061 U+0071 U+0020 U+0028 U+0031 U+0029
+^r	r	remna	Ket	1	U+005e U+0072
+ū (1)	<???>	ū (1)	Ket	1	U+016b U+0020 U+0028 U+0031 U+0029

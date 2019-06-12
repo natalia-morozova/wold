@@ -1,0 +1,241 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	niam tais, puab-tsaig	White Hmong	1035	U+0061
+_	_	nrog tu siab, ua li cas	White Hmong	736	U+005f
+u	u	plaub muag, tua	White Hmong	548	U+0075
+i	i	niam tais, niam txiv	White Hmong	389	U+0069
+^n	n	niam, nyob	White Hmong	293	U+005e U+006e
+b$	b	nyob, tub	White Hmong	270	U+0062 U+0024
+o	o	qhov-txos, nyob	White Hmong	255	U+006f
+t	t	ntawv, ntuj-tawg teb txias	White Hmong	221	U+0074
+v$	v	ntawv, yuav	White Hmong	221	U+0076 U+0024
+n	n	pojniam, hnov	White Hmong	220	U+006e
+b	b	sab qab teb, sab hnub poob	White Hmong	189	U+0062
+v	v	qhov-txos, kev xaiv tsa	White Hmong	180	U+0076
+e	e	dej, kev	White Hmong	179	U+0065
+s$	s	mis, ntaus	White Hmong	173	U+0073 U+0024
+j$	j	phaj, kaj	White Hmong	168	U+006a U+0024
+m$	m	niam, saum	White Hmong	164	U+006d U+0024
+g$	g	yog, lig	White Hmong	163	U+0067 U+0024
+^t	t	txhaum, tua	White Hmong	136	U+005e U+0074
+j	j	pojniam, caij nplooj ntoo hlav	White Hmong	135	U+006a
+m	m	chaw mos, niam tais	White Hmong	135	U+006d
+s	s	maus taus xais, zes kab laug sab	White Hmong	129	U+0073
+l	l	mlom, hlau	White Hmong	120	U+006c
+-	<?>	qhov-txos, xeeb-ntxwv	White Hmong	104	U+002d
+w	w	ntawv, chaw mos	White Hmong	104	U+0077
+^h	h	hnov, hnia	White Hmong	101	U+005e U+0068
+oo	oo	foom koob hmoov, pog koob yawg koob	White Hmong	98	U+006f U+006f
+x	x	qhov-txos, niam txiv	White Hmong	96	U+0078
+^p	p	pojniam, puag	White Hmong	88	U+005e U+0070
+ee	ee	nees, luam yeeb	White Hmong	82	U+0065 U+0065
+p	p	npuj-npaim, tshaib plab	White Hmong	80	U+0070
+y	y	nyob, nyiaj	White Hmong	79	U+0079
+ts	ts	ntse, ntsuas phoo	White Hmong	76	U+0074 U+0073
+c	c	ncaj ncees, qhov-cub	White Hmong	64	U+0063
+k	k	pog koob yawg koob, nkag	White Hmong	60	U+006b
+q	q	raws qab, nqaj qaum	White Hmong	59	U+0071
+^k	k	kaj, kev	White Hmong	59	U+005e U+006b
+g	g	cog lus, pog koob yawg koob	White Hmong	57	U+0067
+^l	l	lus, luam yeeb	White Hmong	55	U+005e U+006c
+^c	c	cog lus, ci	White Hmong	52	U+005e U+0063
+a$	a	tua, hnia	White Hmong	48	U+0061 U+0024
+^ts	ts	tso, tsaug	White Hmong	47	U+005e U+0074 U+0073
+^x	x	xib fwb, xeeb tub	White Hmong	46	U+005e U+0078
+^m	m	mis, mlom	White Hmong	45	U+005e U+006d
+^s	s	saum, siav	White Hmong	45	U+005e U+0073
+r	r	nruab nrab, nrub nrab	White Hmong	44	U+0072
+^d	d	dej, dag	White Hmong	42	U+005e U+0064
+h	h	noj hmo, hneev roj hmab	White Hmong	42	U+0068
+^y	y	yuav, yog	White Hmong	40	U+005e U+0079
+u$	u	hlau, du	White Hmong	40	U+0075 U+0024
+^qh	qh	qhov, qhov-txos	White Hmong	35	U+005e U+0071 U+0068
+^kh	kh	khav, khawb	White Hmong	30	U+005e U+006b U+0068
+^q	q	qiv, qos liab	White Hmong	28	U+005e U+0071
+^z	z	zuag, zom	White Hmong	27	U+005e U+007a
+o$	o	no, tso	White Hmong	26	U+006f U+0024
+^r	r	ruam, rub	White Hmong	26	U+005e U+0072
+ws$	ws	khaws, taws	White Hmong	25	U+0077 U+0073 U+0024
+d	d	cua daj cua dub, phuam da dej	White Hmong	25	U+0064
+xh	xh	txhaum, ntxhais	White Hmong	25	U+0078 U+0068
+^th	th	thee, thawv cib	White Hmong	24	U+005e U+0074 U+0068
+i$	i	ci, hli	White Hmong	24	U+0069 U+0024
+^tsh	tsh	tshis, tshuaj lom	White Hmong	22	U+005e U+0074 U+0073 U+0068
+z	z	neeg zej-zog, rooj zaum	White Hmong	22	U+007a
+^ph	ph	phaj, phaw tshis	White Hmong	20	U+005e U+0070 U+0068
+e$	e	ntse, nce	White Hmong	20	U+0065 U+0024
+^u	u	ua, ua li cas	White Hmong	19	U+005e U+0075
+oo$	oo	ntsuas phoo, ntoo	White Hmong	19	U+006f U+006f U+0024
+tsh	tsh	qe ntshauv, ris tsho	White Hmong	19	U+0074 U+0073 U+0068
+th	th	tiv thaiv, thoom thaub	White Hmong	18	U+0074 U+0068
+kh	kh	nkhaus, kws kho mob	White Hmong	16	U+006b U+0068
+^v	v	vauv, vaj	White Hmong	14	U+005e U+0076
+xw	xw	xeeb-ntxwv, pov-txwv	White Hmong	14	U+0078 U+0077
+^ch	ch	chaw mos, chaw nyob	White Hmong	12	U+005e U+0063 U+0068
+ph	ph	ntsuas phoo, tsw phem	White Hmong	11	U+0070 U+0068
+w$	w	saw, caw	White Hmong	9	U+0077 U+0024
+^f	f	faus, foob pob	White Hmong	9	U+005e U+0066
+^i	i	iav, ib-qho	White Hmong	9	U+005e U+0069
+qh	qh	ib-qho, nyom qhuav	White Hmong	9	U+0071 U+0068
+ws	ws	raws qab, plhaws taub-hau	White Hmong	8	U+0077 U+0073
+^tsw	tsw	tswv yim, tswm	White Hmong	7	U+005e U+0074 U+0073 U+0077
+tsw	tsw	qhov-ntswg, nom tswv	White Hmong	7	U+0074 U+0073 U+0077
+txiv (1)	<???>	txiv (1)	White Hmong	7	U+0074 U+0078 U+0069 U+0076 U+0020 U+0028 U+0031 U+0029
+^a	a	av nplaum, aws	White Hmong	7	U+005e U+0061
+f	f	kas fes, sib-faib	White Hmong	6	U+0066
+lw	lw	hlwb, hauj lwm	White Hmong	6	U+006c U+0077
+^kw	kw	kwv tij, kwv tij neej tsa	White Hmong	5	U+005e U+006b U+0077
+ee$	ee	qee, tshee	White Hmong	5	U+0065 U+0065 U+0024
+ch	ch	ncha moo, ncho pa	White Hmong	4	U+0063 U+0068
+lh	lh	plhaws taub-hau, nplhos	White Hmong	4	U+006c U+0068
+plaub (1)	<???>	plaub (1)	White Hmong	4	U+0070 U+006c U+0061 U+0075 U+0062 U+0020 U+0028 U+0031 U+0029
+^hw	hw	hwj, hwj kais	White Hmong	4	U+005e U+0068 U+0077
+^o	o	o txia, ob-zaug	White Hmong	4	U+005e U+006f
+^nws$	nws	nws	White Hmong	4	U+005e U+006e U+0077 U+0073 U+0024
+^lw	lw	lwm, lwj	White Hmong	4	U+005e U+006c U+0077
+aa	aa	naas mom, naam	White Hmong	4	U+0061 U+0061
+tawv (1)	<???>	tawv (1)	White Hmong	3	U+0074 U+0061 U+0077 U+0076 U+0020 U+0028 U+0031 U+0029
+dab (2)	<???>	dab (2)	White Hmong	3	U+0064 U+0061 U+0062 U+0020 U+0028 U+0032 U+0029
+^tw	tw	twg, twj ywm	White Hmong	3	U+005e U+0074 U+0077
+pw	pw	xub pwg, cwj pwm	White Hmong	3	U+0070 U+0077
+rh	rh	nrhiav, khaub rhuab	White Hmong	3	U+0072 U+0068
+tw	tw	qhov twg, thaum twg	White Hmong	3	U+0074 U+0077
+^cw	cw	cwj mem, cwj nrig	White Hmong	3	U+005e U+0063 U+0077
+peb (1)	<???>	peb (1)	White Hmong	3	U+0070 U+0065 U+0062 U+0020 U+0028 U+0031 U+0029
+kub (1)	<???>	kub (1)	White Hmong	2	U+006b U+0075 U+0062 U+0020 U+0028 U+0031 U+0029
+xav (1)	<???>	xav (1)	White Hmong	2	U+0078 U+0061 U+0076 U+0020 U+0028 U+0031 U+0029
+tshuab (2)	<???>	tshuab (2)	White Hmong	2	U+0074 U+0073 U+0068 U+0075 U+0061 U+0062 U+0020 U+0028 U+0032 U+0029
+d$	d	ntawd	White Hmong	2	U+0064 U+0024
+^khw$	khw	khw	White Hmong	2	U+005e U+006b U+0068 U+0077 U+0024
+^fw	fw	fwj kais, fwj	White Hmong	2	U+005e U+0066 U+0077
+teb (1)	<???>	teb (1)	White Hmong	2	U+0074 U+0065 U+0062 U+0020 U+0028 U+0031 U+0029
+rau (2)	<???>	rau (2)	White Hmong	2	U+0072 U+0061 U+0075 U+0020 U+0028 U+0032 U+0029
+tws$	tws	ntws, yiv tws	White Hmong	2	U+0074 U+0077 U+0073 U+0024
+fw	fw	xib fwb	White Hmong	2	U+0066 U+0077
+^thw	thw	thwj, thwv cib	White Hmong	2	U+005e U+0074 U+0068 U+0077
+sau (1)	<???>	sau (1)	White Hmong	2	U+0073 U+0061 U+0075 U+0020 U+0028 U+0031 U+0029
+^kws	kws	kws kho mob, kws ntaus hlau	White Hmong	2	U+005e U+006b U+0077 U+0073
+duav (1)	<???>	duav (1)	White Hmong	2	U+0064 U+0075 U+0061 U+0076 U+0020 U+0028 U+0031 U+0029
+siab (1)	<???>	siab (1)	White Hmong	2	U+0073 U+0069 U+0061 U+0062 U+0020 U+0028 U+0031 U+0029
+^qw	qw	qw nrov, qwj	White Hmong	2	U+005e U+0071 U+0077
+^g	g	gus, gaib	White Hmong	2	U+005e U+0067
+^dh	dh	dhia, dhau	White Hmong	2	U+005e U+0064 U+0068
+qab (2)	<???>	qab (2)	White Hmong	2	U+0071 U+0061 U+0062 U+0020 U+0028 U+0032 U+0029
+rw	rw	ntsaum kab-rwg, paj rwb	White Hmong	2	U+0072 U+0077
+dav (1)	<???>	dav (1)	White Hmong	2	U+0064 U+0061 U+0076 U+0020 U+0028 U+0031 U+0029
+duav (2)	<???>	duav (2)	White Hmong	2	U+0064 U+0075 U+0061 U+0076 U+0020 U+0028 U+0032 U+0029
+Tsw	<?>	thov Vaj Tswv, Vaj Tswv	White Hmong	2	U+0054 U+0073 U+0077
+siab (2)	<???>	siab (2)	White Hmong	2	U+0073 U+0069 U+0061 U+0062 U+0020 U+0028 U+0032 U+0029
+^xw	xw	xwb, xwb kuab	White Hmong	2	U+005e U+0078 U+0077
+dh	dh	ras dheev, tsim dheev	White Hmong	2	U+0064 U+0068
+hw	hw	xib hwb	White Hmong	2	U+0068 U+0077
+^qw$	qw	qw	White Hmong	1	U+005e U+0071 U+0077 U+0024
+^e	e	ev	White Hmong	1	U+005e U+0065
+twv (2)	<???>	twv (2)	White Hmong	1	U+0074 U+0077 U+0076 U+0020 U+0028 U+0032 U+0029
+daj (2)	<???>	daj (2)	White Hmong	1	U+0064 U+0061 U+006a U+0020 U+0028 U+0032 U+0029
+muag (2)	<???>	muag (2)	White Hmong	1	U+006d U+0075 U+0061 U+0067 U+0020 U+0028 U+0032 U+0029
+tom (2)	<???>	tom (2)	White Hmong	1	U+0074 U+006f U+006d U+0020 U+0028 U+0032 U+0029
+lim (2)	<???>	lim (2)	White Hmong	1	U+006c U+0069 U+006d U+0020 U+0028 U+0032 U+0029
+txiv (2)	<???>	txiv (2)	White Hmong	1	U+0074 U+0078 U+0069 U+0076 U+0020 U+0028 U+0032 U+0029
+los (1)	<???>	los (1)	White Hmong	1	U+006c U+006f U+0073 U+0020 U+0028 U+0031 U+0029
+kub (3)	<???>	kub (3)	White Hmong	1	U+006b U+0075 U+0062 U+0020 U+0028 U+0033 U+0029
+ntiav (2)	<???>	ntiav (2)	White Hmong	1	U+006e U+0074 U+0069 U+0061 U+0076 U+0020 U+0028 U+0032 U+0029
+^qhws	qhws	qhws ntsej	White Hmong	1	U+005e U+0071 U+0068 U+0077 U+0073
+ntoo (2)	<???>	ntoo (2)	White Hmong	1	U+006e U+0074 U+006f U+006f U+0020 U+0028 U+0032 U+0029
+plaub (2)	<???>	plaub (2)	White Hmong	1	U+0070 U+006c U+0061 U+0075 U+0062 U+0020 U+0028 U+0032 U+0029
+thw	thw	nthwv dej	White Hmong	1	U+0074 U+0068 U+0077
+lim (1)	<???>	lim (1)	White Hmong	1	U+006c U+0069 U+006d U+0020 U+0028 U+0031 U+0029
+rau (1)	<???>	rau (1)	White Hmong	1	U+0072 U+0061 U+0075 U+0020 U+0028 U+0031 U+0029
+ntiav (1)	<???>	ntiav (1)	White Hmong	1	U+006e U+0074 U+0069 U+0061 U+0076 U+0020 U+0028 U+0031 U+0029
+txais (2)	<???>	txais (2)	White Hmong	1	U+0074 U+0078 U+0061 U+0069 U+0073 U+0020 U+0028 U+0032 U+0029
+teeb (2)	<???>	teeb (2)	White Hmong	1	U+0074 U+0065 U+0065 U+0062 U+0020 U+0028 U+0032 U+0029
+tuav (2)	<???>	tuav (2)	White Hmong	1	U+0074 U+0075 U+0061 U+0076 U+0020 U+0028 U+0032 U+0029
+kaw (1)	<???>	kaw (1)	White Hmong	1	U+006b U+0061 U+0077 U+0020 U+0028 U+0031 U+0029
+dav (2)	<???>	dav (2)	White Hmong	1	U+0064 U+0061 U+0076 U+0020 U+0028 U+0032 U+0029
+^qws$	qws	qws	White Hmong	1	U+005e U+0071 U+0077 U+0073 U+0024
+ua (mov) noj	<???>	ua (mov) noj	White Hmong	1	U+0075 U+0061 U+0020 U+0028 U+006d U+006f U+0076 U+0029 U+0020 U+006e U+006f U+006a
+muag (1)	<???>	muag (1)	White Hmong	1	U+006d U+0075 U+0061 U+0067 U+0020 U+0028 U+0031 U+0029
+nrog (1)	<???>	nrog (1)	White Hmong	1	U+006e U+0072 U+006f U+0067 U+0020 U+0028 U+0031 U+0029
+tshuab (1)	<???>	tshuab (1)	White Hmong	1	U+0074 U+0073 U+0068 U+0075 U+0061 U+0062 U+0020 U+0028 U+0031 U+0029
+los (2)	<???>	los (2)	White Hmong	1	U+006c U+006f U+0073 U+0020 U+0028 U+0032 U+0029
+xhw$	xhw	ntxhw	White Hmong	1	U+0078 U+0068 U+0077 U+0024
+ntsia (1)	<???>	ntsia (1)	White Hmong	1	U+006e U+0074 U+0073 U+0069 U+0061 U+0020 U+0028 U+0031 U+0029
+qab (1)	<???>	qab (1)	White Hmong	1	U+0071 U+0061 U+0062 U+0020 U+0028 U+0031 U+0029
+^hws$	hws	hws	White Hmong	1	U+005e U+0068 U+0077 U+0073 U+0024
+daj (1)	<???>	daj (1)	White Hmong	1	U+0064 U+0061 U+006a U+0020 U+0028 U+0031 U+0029
+tog (1)	<???>	tog (1)	White Hmong	1	U+0074 U+006f U+0067 U+0020 U+0028 U+0031 U+0029
+^tw$	tw	tw	White Hmong	1	U+005e U+0074 U+0077 U+0024
+ntxias (1)	<???>	ntxias (1)	White Hmong	1	U+006e U+0074 U+0078 U+0069 U+0061 U+0073 U+0020 U+0028 U+0031 U+0029
+xub (2)	<???>	xub (2)	White Hmong	1	U+0078 U+0075 U+0062 U+0020 U+0028 U+0032 U+0029
+teeb (1)	<???>	teeb (1)	White Hmong	1	U+0074 U+0065 U+0065 U+0062 U+0020 U+0028 U+0031 U+0029
+so (1)	<???>	so (1)	White Hmong	1	U+0073 U+006f U+0020 U+0028 U+0031 U+0029
+^rw	rw	rwj	White Hmong	1	U+005e U+0072 U+0077
+liab (2)	<???>	liab (2)	White Hmong	1	U+006c U+0069 U+0061 U+0062 U+0020 U+0028 U+0032 U+0029
+dua (1)	<???>	dua (1)	White Hmong	1	U+0064 U+0075 U+0061 U+0020 U+0028 U+0031 U+0029
+tog (2)	<???>	tog (2)	White Hmong	1	U+0074 U+006f U+0067 U+0020 U+0028 U+0032 U+0029
+xav (2)	<???>	xav (2)	White Hmong	1	U+0078 U+0061 U+0076 U+0020 U+0028 U+0032 U+0029
+ntxias (2)	<???>	ntxias (2)	White Hmong	1	U+006e U+0074 U+0078 U+0069 U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
+twm (1)	<???>	twm (1)	White Hmong	1	U+0074 U+0077 U+006d U+0020 U+0028 U+0031 U+0029
+nrog (2)	<???>	nrog (2)	White Hmong	1	U+006e U+0072 U+006f U+0067 U+0020 U+0028 U+0032 U+0029
+fws$	fws	tawm fws	White Hmong	1	U+0066 U+0077 U+0073 U+0024
+peb (2)	<???>	peb (2)	White Hmong	1	U+0070 U+0065 U+0062 U+0020 U+0028 U+0032 U+0029
+kub (2)	<???>	kub (2)	White Hmong	1	U+006b U+0075 U+0062 U+0020 U+0028 U+0032 U+0029
+rau (3)	<???>	rau (3)	White Hmong	1	U+0072 U+0061 U+0075 U+0020 U+0028 U+0033 U+0029
+kwv (2)	<???>	kwv (2)	White Hmong	1	U+006b U+0077 U+0076 U+0020 U+0028 U+0032 U+0029
+los (3)	<???>	los (3)	White Hmong	1	U+006c U+006f U+0073 U+0020 U+0028 U+0033 U+0029
+tog (3)	<???>	tog (3)	White Hmong	1	U+0074 U+006f U+0067 U+0020 U+0028 U+0033 U+0029
+ms	ms	tamsim	White Hmong	1	U+006d U+0073
+pua (1)	<???>	pua (1)	White Hmong	1	U+0070 U+0075 U+0061 U+0020 U+0028 U+0031 U+0029
+luv (2)	<???>	luv (2)	White Hmong	1	U+006c U+0075 U+0076 U+0020 U+0028 U+0032 U+0029
+^tsw$	tsw	tsw	White Hmong	1	U+005e U+0074 U+0073 U+0077 U+0024
+xub (1)	<???>	xub (1)	White Hmong	1	U+0078 U+0075 U+0062 U+0020 U+0028 U+0031 U+0029
+twv (1)	<???>	twv (1)	White Hmong	1	U+0074 U+0077 U+0076 U+0020 U+0028 U+0031 U+0029
+kaum (2)	<???>	kaum (2)	White Hmong	1	U+006b U+0061 U+0075 U+006d U+0020 U+0028 U+0032 U+0029
+twm (2)	<???>	twm (2)	White Hmong	1	U+0074 U+0077 U+006d U+0020 U+0028 U+0032 U+0029
+pua (2)	<???>	pua (2)	White Hmong	1	U+0070 U+0075 U+0061 U+0020 U+0028 U+0032 U+0029
+kaw (2)	<???>	kaw (2)	White Hmong	1	U+006b U+0061 U+0077 U+0020 U+0028 U+0032 U+0029
+teb (2)	<???>	teb (2)	White Hmong	1	U+0074 U+0065 U+0062 U+0020 U+0028 U+0032 U+0029
+caij (2)	<???>	caij (2)	White Hmong	1	U+0063 U+0061 U+0069 U+006a U+0020 U+0028 U+0032 U+0029
+kab (1)	<???>	kab (1)	White Hmong	1	U+006b U+0061 U+0062 U+0020 U+0028 U+0031 U+0029
+kab (2)	<???>	kab (2)	White Hmong	1	U+006b U+0061 U+0062 U+0020 U+0028 U+0032 U+0029
+^rh	rh	rhaus	White Hmong	1	U+005e U+0072 U+0068
+^w$	w	w	White Hmong	1	U+005e U+0077 U+0024
+tawv (2)	<???>	tawv (2)	White Hmong	1	U+0074 U+0061 U+0077 U+0076 U+0020 U+0028 U+0032 U+0029
+(khob) noom	<???>	(khob) noom	White Hmong	1	U+0028 U+006b U+0068 U+006f U+0062 U+0029 U+0020 U+006e U+006f U+006f U+006d
+ntsia (2)	<???>	ntsia (2)	White Hmong	1	U+006e U+0074 U+0073 U+0069 U+0061 U+0020 U+0028 U+0032 U+0029
+hws$	hws	tawm hws	White Hmong	1	U+0068 U+0077 U+0073 U+0024
+swb (2)	<???>	swb (2)	White Hmong	1	U+0073 U+0077 U+0062 U+0020 U+0028 U+0032 U+0029
+^pw$	pw	pw	White Hmong	1	U+005e U+0070 U+0077 U+0024
+so (2)	<???>	so (2)	White Hmong	1	U+0073 U+006f U+0020 U+0028 U+0032 U+0029
+^o$	o	o	White Hmong	1	U+005e U+006f U+0024
+^w	w	wm	White Hmong	1	U+005e U+0077
+txais (1)	<???>	txais (1)	White Hmong	1	U+0074 U+0078 U+0061 U+0069 U+0073 U+0020 U+0028 U+0031 U+0029
+kwv (1)	<???>	kwv (1)	White Hmong	1	U+006b U+0077 U+0076 U+0020 U+0028 U+0031 U+0029
+tsws$	tsws	ntsws	White Hmong	1	U+0074 U+0073 U+0077 U+0073 U+0024
+tais (1)	<???>	tais (1)	White Hmong	1	U+0074 U+0061 U+0069 U+0073 U+0020 U+0028 U+0031 U+0029
+dua (2)	<???>	dua (2)	White Hmong	1	U+0064 U+0075 U+0061 U+0020 U+0028 U+0032 U+0029
+^qws	qws	qws txob	White Hmong	1	U+005e U+0071 U+0077 U+0073
+caij (1)	<???>	caij (1)	White Hmong	1	U+0063 U+0061 U+0069 U+006a U+0020 U+0028 U+0031 U+0029
+^V	<?>	Vaj Tswv	White Hmong	1	U+005e U+0056
+S	<?>	Yawm Saub	White Hmong	1	U+0053
+^vw	vw	vwm	White Hmong	1	U+005e U+0076 U+0077
+ris (1)	<???>	ris (1)	White Hmong	1	U+0072 U+0069 U+0073 U+0020 U+0028 U+0031 U+0029
+kws$	kws	pobkws	White Hmong	1	U+006b U+0077 U+0073 U+0024
+kaum (1)	<???>	kaum (1)	White Hmong	1	U+006b U+0061 U+0075 U+006d U+0020 U+0028 U+0031 U+0029
+liab (1)	<???>	liab (1)	White Hmong	1	U+006c U+0069 U+0061 U+0062 U+0020 U+0028 U+0031 U+0029
+luv (1)	<???>	luv (1)	White Hmong	1	U+006c U+0075 U+0076 U+0020 U+0028 U+0031 U+0029
+tom (1)	<???>	tom (1)	White Hmong	1	U+0074 U+006f U+006d U+0020 U+0028 U+0031 U+0029
+ris (2)	<???>	ris (2)	White Hmong	1	U+0072 U+0069 U+0073 U+0020 U+0028 U+0032 U+0029
+tuav (1)	<???>	tuav (1)	White Hmong	1	U+0074 U+0075 U+0061 U+0076 U+0020 U+0028 U+0031 U+0029
+tw$	tw	pob-tw	White Hmong	1	U+0074 U+0077 U+0024
+swb (1)	<???>	swb (1)	White Hmong	1	U+0073 U+0077 U+0062 U+0020 U+0028 U+0031 U+0029
+V	<?>	thov Vaj Tswv	White Hmong	1	U+0056
+^qhw	qhw	qhwv	White Hmong	1	U+005e U+0071 U+0068 U+0077
+tais (2)	<???>	tais (2)	White Hmong	1	U+0074 U+0061 U+0069 U+0073 U+0020 U+0028 U+0032 U+0029
+vv	vv	txaj viav-vias	White Hmong	1	U+0076 U+0076
+khw	khw	thom khwm	White Hmong	1	U+006b U+0068 U+0077
+^Y	<?>	Yawm Saub	White Hmong	1	U+005e U+0059
+dab (1)	<???>	dab (1)	White Hmong	1	U+0064 U+0061 U+0062 U+0020 U+0028 U+0031 U+0029
+^cw$	cw	cw	White Hmong	1	U+005e U+0063 U+0077 U+0024
+sau (2)	<???>	sau (2)	White Hmong	1	U+0073 U+0061 U+0075 U+0020 U+0028 U+0032 U+0029

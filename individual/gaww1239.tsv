@@ -1,0 +1,1165 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	3-1-1-1	7129132920960551	Gawwada	gaww1239	the world	WORLD	965		ʔalame	ʔalame 
+2	3-1-21-1	7129132599530969	Gawwada	gaww1239	the land	LAND	626		piye	piye 
+3	3-1-212-1	7129132599530969	Gawwada	gaww1239	the soil	EARTH (SOIL)	1228		piye	piye 
+4	3-1-213-1	712913262666872	Gawwada	gaww1239	the dust	DUST	2		tullufo	tullufo 
+5	3-1-214-1	71291326502381	Gawwada	gaww1239	the mud	MUD	640		tawle	tawle 
+6	3-1-214-2	76131113805800728	Gawwada	gaww1239	the mud	MUD	640		coqqollo	coqqollo 
+7	3-1-215-1	7129132950536202	Gawwada	gaww1239	the sand	SAND	671		tahakko	tahakko 
+8	3-1-22-1	7129132749642311	Gawwada	gaww1239	the mountain or hill	MOUNTAIN OR HILL	2118		ɠupo	ɠupo 
+9	3-1-222-1	7129132861069446	Gawwada	gaww1239	the cliff or precipice	PRECIPICE	618		polle	polle 
+10	3-1-222-2	7129132946176774	Gawwada	gaww1239	the cliff or precipice	PRECIPICE	618		ɠaɗo	ɠaɗo 
+11	3-1-23-1	7129132274334250	Gawwada	gaww1239	the plain	PLAIN	652		leʕakko	leʕakko 
+12	3-1-24-1	7129132695534552	Gawwada	gaww1239	the valley	VALLEY	921		fokolho	fokolho 
+13	3-1-27-1	7129132763011125	Gawwada	gaww1239	the shore	SHORE	113		kolle pako	kolle pako 
+14	3-1-27-2	76131334164658219	Gawwada	gaww1239	the shore	SHORE	113		paso pako	paso pako 
+15	3-1-28-1	7129132474145480	Gawwada	gaww1239	the cave	CAVE	1155		xoqno	xoqno 
+16	3-1-31-1	7129132366005974	Gawwada	gaww1239	the water	WATER	948		ʕanɗe	ʕanɗe 
+17	3-1-322-1	7129132380678205	Gawwada	gaww1239	calm	CALM	258		ʔí=ʕakkaɗa	ʔí=ʕakkaɗa 
+18	3-1-323-1	7129132982404991	Gawwada	gaww1239	rough(2)	ROUGH (OF SEA)	259		ʔí=kantulama	ʔí=kantulama 
+19	3-1-324-1	7129132627898728	Gawwada	gaww1239	the foam	FOAM	1768		roompo (ʕanɗete)	roompo (ʕanɗete) 
+20	3-1-33-1	7129132347952126	Gawwada	gaww1239	the lake	LAKE	624		paso	paso 
+21	3-1-342-1	7129132541587712	Gawwada	gaww1239	the reef	REEF	660		pokke	pokke 
+22	3-1-36-1	7129132178953019	Gawwada	gaww1239	the river or stream	RIVER	666		kolle	kolle 
+23	3-1-362-1	7129132414603118	Gawwada	gaww1239	the whirlpool	WHIRLPOOL	1982		lofoqqo	lofoqqo 
+24	3-1-37-1	7129132383292314	Gawwada	gaww1239	the spring or well	SPRING OR WELL	2144		ʕeelho	ʕeelho 
+25	3-1-39-1	7129132645724395	Gawwada	gaww1239	the waterfall	WATERFALL	943		(ʕanɗe) ʔí=t’aarama	(ʕanɗe) ʔí=t’aarama 
+26	3-1-41-1	7129132107828183	Gawwada	gaww1239	the woods or forest	FOREST	420		horro	horro 
+27	3-1-43-1	7129132858436551	Gawwada	gaww1239	the wood	WOOD	1803		kaarko	kaarko 
+28	3-1-44-1	7129132489995675	Gawwada	gaww1239	the stone or rock	STONE OR ROCK	2125		ʔikaħko	ʔikaħko 
+29	3-1-45-1	712913226702375	Gawwada	gaww1239	the earthquake	EARTHQUAKE	6		piye ʔí=heereʔti	piye ʔí=heereʔti 
+30	3-1-51-1	7129132697976991	Gawwada	gaww1239	the sky	SKY	1732		muunt’o	muunt’o 
+31	3-1-52-1	7129132609520301	Gawwada	gaww1239	the sun	SUN	1343		hallikko	hallikko 
+32	3-1-53-1	7129132704959852	Gawwada	gaww1239	the moon	MOON	1313		leʕʕo	leʕʕo 
+33	3-1-54-1	7129132973882838	Gawwada	gaww1239	the star	STAR	1430		huske	huske 
+34	3-1-55-1	7129132430238087	Gawwada	gaww1239	the lightning	LIGHTNING	1654		kawwaʕko ʔí=paqa	kawwaʕko ʔí=paqa 
+35	3-1-56-1	712913217152932	Gawwada	gaww1239	the thunder	THUNDER	1150		kawwaʕko ʔí=ħeereʔi	kawwaʕko ʔí=ħeereʔi 
+36	3-1-57-1	7129132171209252	Gawwada	gaww1239	the bolt of lightning	BOLT (OF LIGHTNING)	2007		kawwaʕko	kawwaʕko 
+37	3-1-58-1	7129132574040638	Gawwada	gaww1239	the storm	STORM	858		ʔaspitte	ʔaspitte 
+38	3-1-59-1	7129132715570700	Gawwada	gaww1239	the rainbow	RAINBOW	1733		makarte	makarte 
+39	3-1-61-1	7129132393080277	Gawwada	gaww1239	the light	LIGHT (RADIATION)	630		hammakko	hammakko 
+40	3-1-62-1	7129132468390187	Gawwada	gaww1239	the darkness	DARKNESS	11		kumminko	kumminko 
+41	3-1-63-1	7129132251759221	Gawwada	gaww1239	the shade or shadow	SHADE	1388		kaasse	kaasse 
+42	3-1-64-1	712913255006236	Gawwada	gaww1239	the dew	DEW	1977		saɗahe	saɗahe 
+43	3-1-71-1	7129132921632915	Gawwada	gaww1239	the air	AIR	27		hafurko	hafurko 
+44	3-1-72-1	7129132189700326	Gawwada	gaww1239	the wind	WIND	960		ʔuruure	ʔuruure 
+45	3-1-73-1	712913282548289	Gawwada	gaww1239	the cloud	CLOUD	1489		ʔurratte	ʔurratte 
+46	3-1-74-1	7129132193394995	Gawwada	gaww1239	the fog	FOG	249		qayanqayo	qayanqayo 
+47	3-1-75-1	7129132868704985	Gawwada	gaww1239	the rain	RAIN (PRECIPITATION)	658		ʔirrawo	ʔirrawo 
+48	3-1-76-1	7129132574040638	Gawwada	gaww1239	the snow	SNOW	784		ʔaspitte	ʔaspitte 
+49	3-1-77-1	7129132574040638	Gawwada	gaww1239	the ice	ICE	617		ʔaspitte	ʔaspitte 
+50	3-1-81-1	7129132406569872	Gawwada	gaww1239	the fire	FIRE	221		xatte	xatte 
+51	3-1-82-1	7129132406569872	Gawwada	gaww1239	the flame	FLAME	889		xatte	xatte 
+52	3-1-83-1	7129132154532749	Gawwada	gaww1239	the smoke	SMOKE (EXHAUST)	778		kuute	kuute 
+53	3-1-84-1	7129132427704121	Gawwada	gaww1239	the ash	ASH	646		tarʕo	tarʕo 
+54	3-1-841-1	7129132129297988	Gawwada	gaww1239	the embers	EMBERS	67		porxo	porxo 
+55	3-1-851-1	7129132897905677	Gawwada	gaww1239	to burn(1)	BURN (SOMETHING)	141		ɗil	ɗil 
+56	3-1-851-2	7681422527157252	Gawwada	gaww1239	to burn(1)	BURN (SOMETHING)	141		šaʔas	šaʔas 
+57	3-1-852-1	7129132382034654	Gawwada	gaww1239	to burn(2)	BURNING	1428		šaʔ	šaʔ 
+58	3-1-86-1	7129132533485374	Gawwada	gaww1239	to light	LIGHT (IGNITE)	737		hokki	hokki 
+59	3-1-86-2	76131344297237374	Gawwada	gaww1239	to light	LIGHT (IGNITE)	737		hok	hok 
+60	3-1-861-1	7129132557413556	Gawwada	gaww1239	to extinguish	EXTINGUISH	127		ʔimas	ʔimas 
+61	3-1-87-1	7129132292505203	Gawwada	gaww1239	the match	MATCH	1133		kipraate	kipraate 
+62	3-1-88-1	7129132740682431	Gawwada	gaww1239	the firewood	FIREWOOD	10		kaare hokete	kaare hokete 
+63	3-1-89-1	7129132625410085	Gawwada	gaww1239	the charcoal	CHARCOAL	1188		k’ace	k’ace 
+64	3-2-1-1	7129132994208722	Gawwada	gaww1239	the person	PERSON	683		qawho	qawho 
+65	3-2-21-1	7129132994208722	Gawwada	gaww1239	the man	MAN	1554		qawho	qawho 
+66	3-2-22-1	7129132720682268	Gawwada	gaww1239	the woman	WOMAN	962		hiske	hiske 
+67	3-2-23-1	7129132506148592	Gawwada	gaww1239	male(1)	MALE (OF ANIMAL)	2263		xorunko	xorunko 
+68	3-2-24-1	7129132243955785	Gawwada	gaww1239	female(1)	FEMALE (OF PERSON)	2260		neehte	neehte 
+69	3-2-25-1	7129132882306453	Gawwada	gaww1239	the boy	BOY	1366		šaamɓo	šaamɓo 
+70	3-2-251-1	7129132882306453	Gawwada	gaww1239	the young man	YOUNG MAN	76		šaamɓo	šaamɓo 
+71	3-2-26-1	7129132347115372	Gawwada	gaww1239	the girl	GIRL	1646		šeette	šeette 
+72	3-2-261-1	7129132347115372	Gawwada	gaww1239	the young woman	YOUNG WOMAN	77		šeette	šeette 
+73	3-2-27-1	7129132754333627	Gawwada	gaww1239	the child(1)	CHILD (YOUNG HUMAN)	1304		miʔaye	miʔaye 
+74	3-2-28-1	7129132754333627	Gawwada	gaww1239	the baby	BABY	1289		miʔaye	miʔaye 
+75	3-2-31-1	7129132321726254	Gawwada	gaww1239	the husband	HUSBAND	1200		halho	halho 
+76	3-2-32-1	7129132982867075	Gawwada	gaww1239	the wife	WIFE	1199		nahaye	nahaye 
+77	3-2-33-1	7129132571269860	Gawwada	gaww1239	to marry	MARRY	203		ʔakki	ʔakki 
+78	3-2-33-2	76131347312603247	Gawwada	gaww1239	to marry	MARRY	203		ʔakkaɗ	ʔakkaɗ 
+79	3-2-34-1	7129132376780967	Gawwada	gaww1239	the wedding	WEDDING	1259		haantaɗɗe	haantaɗɗe 
+80	3-2-35-1	7129132307329047	Gawwada	gaww1239	the father	FATHER	1217		ʔappa	ʔappa 
+81	3-2-36-1	7129132289069797	Gawwada	gaww1239	the mother	MOTHER	1216		yaaye	yaaye 
+82	3-2-37-1	7129132811792629	Gawwada	gaww1239	the parents	PARENTS	505		ʔappa=pa yaaye	ʔappa=pa yaaye 
+83	3-2-38-1	7129132994208722	Gawwada	gaww1239	the married man	MARRIED MAN	424		qawho	qawho 
+84	3-2-39-1	7129132720682268	Gawwada	gaww1239	the married woman	MARRIED WOMAN	426		hiske	hiske 
+85	3-2-41-1	7129132523098366	Gawwada	gaww1239	the son	SON	1620		qarunko	qarunko 
+86	3-2-42-1	7129132800291127	Gawwada	gaww1239	the daughter	DAUGHTER	1357		qarunte	qarunte 
+87	3-2-43-1	7129132754333627	Gawwada	gaww1239	the child(2)	CHILD (DESCENDANT)	1801		miʔaye	miʔaye 
+88	3-2-444-1	7129132394882786	Gawwada	gaww1239	the older brother	OLDER BROTHER	1759		ʔalawho	ʔalawho 
+89	3-2-445-1	7129132592197377	Gawwada	gaww1239	the younger brother	YOUNGER BROTHER	1760		ʕaso	ʕaso 
+90	3-2-454-1	712913284887628	Gawwada	gaww1239	the older sister	OLDER SISTER	1758		ʔalawte	ʔalawte 
+91	3-2-455-1	7129132156007708	Gawwada	gaww1239	the younger sister	YOUNGER SISTER	1761		ʕase	ʕase 
+92	3-2-458-1	7129132339518004	Gawwada	gaww1239	the twins	TWINS	1005		sallahme	sallahme 
+93	3-2-46-1	7129132173000356	Gawwada	gaww1239	the grandfather	GRANDFATHER	1383		ʔakkawo	ʔakkawo 
+94	3-2-461-1	7129132673377619	Gawwada	gaww1239	the old man	OLD MAN	406		keešakko	keešakko 
+95	3-2-47-1	7129132280767469	Gawwada	gaww1239	the grandmother	GRANDMOTHER	1496		kaakka	kaakka 
+96	3-2-471-1	7129132486137688	Gawwada	gaww1239	the old woman	OLD WOMAN	907		keešatte	keešatte 
+97	3-2-48-1	7129132941197385	Gawwada	gaww1239	the grandson	GRANDSON	1618		ʔopoopko	ʔopoopko 
+98	3-2-49-1	7129132826347107	Gawwada	gaww1239	the granddaughter	GRANDDAUGHTER	1619		ʔopoopte	ʔopoopte 
+99	3-2-511-1	7129132329248073	Gawwada	gaww1239	the mother's brother	MOTHER'S BROTHER	1984		ʔapiya	ʔapiya 
+100	3-2-512-1	7129132629967956	Gawwada	gaww1239	the father's brother	FATHER'S BROTHER	1985		ʔappa ɗamma	ʔappa ɗamma 
+101	3-2-521-1	712913225300703	Gawwada	gaww1239	the mother's sister	MOTHER'S SISTER	171		yaaye ɗammay	yaaye ɗammay 
+102	3-2-522-1	7129132760902197	Gawwada	gaww1239	the father's sister	FATHER'S SISTER	170		maamma	maamma 
+103	3-2-53-1	7129132912960704	Gawwada	gaww1239	the nephew	NEPHEW	1063		miʔaye ʕasito	miʔaye ʕasito 
+104	3-2-54-1	7129132912960704	Gawwada	gaww1239	the niece	NIECE	1642		miʔaye ʕasito	miʔaye ʕasito 
+105	3-2-56-1	712913291558514	Gawwada	gaww1239	the ancestors	ANCESTORS	1669		ʔahaaho	ʔahaaho 
+106	3-2-57-1	7129132491112637	Gawwada	gaww1239	the descendants	DESCENDANTS	490		ʔahke	ʔahke 
+107	3-2-61-1	7129132808861841	Gawwada	gaww1239	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		taatte	taatte 
+108	3-2-611-1	7129132808861841	Gawwada	gaww1239	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		taatte	taatte 
+109	3-2-62-1	7129132327583945	Gawwada	gaww1239	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		taattite	taattite 
+110	3-2-621-1	7129132327583945	Gawwada	gaww1239	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		taattite	taattite 
+111	3-2-63-1	7129132293539489	Gawwada	gaww1239	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		ʔašinko	ʔašinko 
+112	3-2-64-1	7129132567775817	Gawwada	gaww1239	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		ʔašinte	ʔašinte 
+113	3-2-641-1	7129132567775817	Gawwada	gaww1239	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		ʔašinte	ʔašinte 
+114	3-2-71-1	7129132602310739	Gawwada	gaww1239	the stepfather	STEPFATHER	237		ʔappa takkaya	ʔappa takkaya 
+115	3-2-72-1	7129132617608906	Gawwada	gaww1239	the stepmother	STEPMOTHER	236		yaayo takkayay	yaayo takkayay 
+116	3-2-73-1	712913241570846	Gawwada	gaww1239	the stepson	STEPSON	1059		sooko	sooko 
+117	3-2-74-1	7129132705108810	Gawwada	gaww1239	the stepdaughter	STEPDAUGHTER	1058		sookitte	sookitte 
+118	3-2-75-1	7129132730228998	Gawwada	gaww1239	the orphan	ORPHAN	1149		hiyakko	hiyakko 
+119	3-2-76-1	712913298933595	Gawwada	gaww1239	the widow	WIDOW	1756		hiyatte	hiyatte 
+120	3-2-77-1	7129132730228998	Gawwada	gaww1239	the widower	WIDOWER	1981		hiyakko	hiyakko 
+121	3-2-81-1	7129132444883494	Gawwada	gaww1239	the relatives	RELATIVES	1644		kafko	kafko 
+122	3-2-82-1	7129132491112637	Gawwada	gaww1239	the family	FAMILY	194		ʔahke	ʔahke 
+123	3-2-91-1	712913212859131	Gawwada	gaww1239	I	I	1209		ʔano	ʔano 
+124	3-2-92-1	7129132751742957	Gawwada	gaww1239	you (singular)	THOU	1215		ʔato	ʔato 
+125	3-2-93-1	7129132119609092	Gawwada	gaww1239	he/she/it	HE OR SHE OR IT	262		ʔiso (M)/ ʔise (F)	ʔiso (M) 
+126	3-2-93-2	7129132119609092	Gawwada	gaww1239	he/she/it	HE OR SHE OR IT	262		ʔiso (M)/ ʔise (F)	ʔise (F) 
+127	3-2-94-1	712913213219483	Gawwada	gaww1239	we	WE	1212		ʔine	ʔine 
+128	3-2-95-1	7129132633851296	Gawwada	gaww1239	you (plural)	YOU	1213		hune	hune 
+129	3-2-96-1	7129132355969483	Gawwada	gaww1239	they	THEY	817		ʔusunɗe	ʔusunɗe 
+130	3-3-11-1	7129132697008639	Gawwada	gaww1239	the animal	ANIMAL	619		ʔaake	ʔaake 
+131	3-3-12-1	7129132506148592	Gawwada	gaww1239	male(2)	MALE (OF PERSON)	2261		xorunko	xorunko 
+132	3-3-13-1	7129132243955785	Gawwada	gaww1239	female(2)	FEMALE (OF ANIMAL)	2262		neehte	neehte 
+133	3-3-15-1	7129132251561441	Gawwada	gaww1239	the livestock	LIVESTOCK	631		qole	qole 
+134	3-3-16-1	7129132861273253	Gawwada	gaww1239	the pasture	PASTURE	649		ʕaško	ʕaško 
+135	3-3-19-1	7129132311402219	Gawwada	gaww1239	the stable or stall	STABLE	851		keero	keero 
+136	3-3-21-1	7129132546724919	Gawwada	gaww1239	the bull	BULL	1008		ʔoyfana	ʔoyfana 
+137	3-3-22-1	7129132678005155	Gawwada	gaww1239	the ox	OX	1169		sopore	sopore 
+138	3-3-22-2	76131359521463959	Gawwada	gaww1239	the ox	OX	1169		ʕarɗo	ʕarɗo 
+139	3-3-23-1	7129132413235565	Gawwada	gaww1239	the cow	COW	1007		loʔo	loʔo 
+140	3-3-24-1	7129132378991408	Gawwada	gaww1239	the calf	CALF	1989		ʔokkatakko	ʔokkatakko 
+141	3-3-25-1	7129132156303430	Gawwada	gaww1239	the sheep	SHEEP	1331		ʕeemte	ʕeemte 
+142	3-3-26-1	7129132542540034	Gawwada	gaww1239	the ram	RAM	1344		ʕorpo	ʕorpo 
+143	3-3-28-1	7129132156303430	Gawwada	gaww1239	the ewe	EWE	1345		ʕeemte	ʕeemte 
+144	3-3-29-1	7129132888979153	Gawwada	gaww1239	the lamb	LAMB	820		miʔaye ʕeemtatte	miʔaye ʕeemtatte 
+145	3-3-32-1	7129132982532613	Gawwada	gaww1239	the boar	BOAR	1348		karkarko	karkarko 
+146	3-3-35-1	7129132696179017	Gawwada	gaww1239	the pig	PIG	1337		luume	luume 
+147	3-3-36-1	7129132840721725	Gawwada	gaww1239	the goat	GOAT	1502		talte	talte 
+148	3-3-37-1	7129132883359957	Gawwada	gaww1239	the he-goat	HE-GOAT	264		ɠopolho	ɠopolho 
+149	3-3-38-1	7129132485920726	Gawwada	gaww1239	the kid	KID	1972		piʕaame	piʕaame 
+150	3-3-41-1	7129132874492600	Gawwada	gaww1239	the horse	HORSE	615		kaanke	kaanke 
+151	3-3-42-1	7129132161959153	Gawwada	gaww1239	the stallion	STALLION	936		kaankitto	kaankitto 
+152	3-3-44-1	7129132641623073	Gawwada	gaww1239	the mare	MARE	938		kaankitte	kaankitte 
+153	3-3-45-1	7129132394064805	Gawwada	gaww1239	the foal or colt	FOAL	1647		miʔaye kaankatte	miʔaye kaankatte 
+154	3-3-46-1	712913274687649	Gawwada	gaww1239	the donkey	DONKEY	1862		haarre	haarre 
+155	3-3-47-1	7129132437536852	Gawwada	gaww1239	the mule	MULE	890		farto	farto 
+156	3-3-5-1	7129132299278806	Gawwada	gaww1239	the fowl	FOWL	265		cucuwe	cucuwe 
+157	3-3-52-1	7129132844495308	Gawwada	gaww1239	the cock/rooster	ROOSTER	1511		cucuwitto	cucuwitto 
+158	3-3-54-1	7129132778902561	Gawwada	gaww1239	the hen	HEN	1514		cucuwitte	cucuwitte 
+159	3-3-55-1	7129132625455749	Gawwada	gaww1239	the chicken	CHICKEN	1318		lukkale	lukkale 
+160	3-3-58-1	7129132384672307	Gawwada	gaww1239	the nest	NEST	539		minne ʔaakete	minne ʔaakete 
+161	3-3-581-1	7129132697008639	Gawwada	gaww1239	the bird	BIRD	937		ʔaake	ʔaake 
+162	3-3-584-1	7129132959303985	Gawwada	gaww1239	the eagle	EAGLE	1905		ʔallapattaye	ʔallapattaye 
+163	3-3-585-1	7129132520185827	Gawwada	gaww1239	the hawk	HAWK	307		sooripakko	sooripakko 
+164	3-3-586-1	7129132931467510	Gawwada	gaww1239	the vulture	VULTURE	1185		ʔayaapto	ʔayaapto 
+165	3-3-591-1	71291325036999	Gawwada	gaww1239	the bat	BAT	1793		xipire	xipire 
+166	3-3-593-1	7129132525213862	Gawwada	gaww1239	the crow	CROW	913		k’urico	k’urico 
+167	3-3-594-1	71291327547846	Gawwada	gaww1239	the dove	DOVE	1853		ʔalalo	ʔalalo 
+168	3-3-596-1	7129132411873438	Gawwada	gaww1239	the owl	OWL	735		punkuso	punkuso 
+169	3-3-61-1	7129132209929928	Gawwada	gaww1239	the dog	DOG	2009		xaro	xaro 
+170	3-3-614-1	7129132650632384	Gawwada	gaww1239	the rabbit	RABBIT	1136		kupale	kupale 
+171	3-3-62-1	7129132723110543	Gawwada	gaww1239	the cat	CAT	1208		ʔaturre	ʔaturre 
+172	3-3-63-1	712913221648065	Gawwada	gaww1239	the mouse or rat	MUROID (MOUSE OR RAT)	2139		taapakko	taapakko 
+173	3-3-65-1	712913282994799	Gawwada	gaww1239	the fish	FISH	227		xaare	xaare 
+174	3-3-652-1	7129132748323652	Gawwada	gaww1239	the fin	FIN	213		xire	xire 
+175	3-3-72-1	712913247938431	Gawwada	gaww1239	the lion	LION	1386		karmo	karmo 
+176	3-3-76-1	7129132684411718	Gawwada	gaww1239	the monkey	MONKEY	1350		kelso	kelso 
+177	3-3-77-1	7129132506458303	Gawwada	gaww1239	the elephant	ELEPHANT	1290		ʔarapko	ʔarapko 
+178	3-3-78-1	712913257741150	Gawwada	gaww1239	the camel	CAMEL	1871		farto	farto 
+179	3-3-81-1	7129132720652352	Gawwada	gaww1239	the insect	INSECT	620		ʔaake piyatte	ʔaake piyatte 
+180	3-3-811-1	7129132388338952	Gawwada	gaww1239	the head louse	HEAD LOUSE	310		ʔisqaye	ʔisqaye 
+181	3-3-812-1	7129132251630132	Gawwada	gaww1239	the nit	NIT	267		kut’uro	kut’uro 
+182	3-3-813-1	7129132317519406	Gawwada	gaww1239	the flea	FLEA	232		maškare	maškare 
+183	3-3-814-1	7129132192566697	Gawwada	gaww1239	the centipede	CENTIPEDE	1974		hankaraaro	hankaraaro 
+184	3-3-815-1	7129132274647492	Gawwada	gaww1239	the scorpion	SCORPION	1538		kayto	kayto 
+185	3-3-816-1	7129132392169246	Gawwada	gaww1239	the cockroach	COCKROACH	1575		hamo	hamo 
+186	3-3-817-1	7129132477186671	Gawwada	gaww1239	the ant	ANT	587		šiišaalle	šiišaalle 
+187	3-3-818-1	7129132871024196	Gawwada	gaww1239	the spider	SPIDER	843		kasse	kasse 
+188	3-3-819-1	7129132493866993	Gawwada	gaww1239	the spider web	SPIDER WEB	1065		xarrapatte	xarrapatte 
+189	3-3-82-1	7129132130959087	Gawwada	gaww1239	the bee	BEE	665		t’oonaqo	t’oonaqo 
+190	3-3-821-1	7129132557080636	Gawwada	gaww1239	the beeswax	BEESWAX	1931		kurre	kurre 
+191	3-3-822-1	7129132943855801	Gawwada	gaww1239	the beehive	BEEHIVE	88		šawte	šawte 
+192	3-3-823-1	712913267298689	Gawwada	gaww1239	the wasp	WASP	1517		ʔamure	ʔamure 
+193	3-3-83-1	7129132847937352	Gawwada	gaww1239	the fly	FLY (INSECT)	1504		ʔinnakko	ʔinnakko 
+194	3-3-832-1	7129132778743541	Gawwada	gaww1239	the mosquito	MOSQUITO	1509		cinko	cinko 
+195	3-3-84-1	7129132861945988	Gawwada	gaww1239	the worm	WORM	1219		soporqo	soporqo 
+196	3-3-85-1	712913286323393	Gawwada	gaww1239	the snake	SNAKE	730		tawo	tawo 
+197	3-3-91-1	7129132987722245	Gawwada	gaww1239	the firefly	FIREFLY	206		teeqo	teeqo 
+198	3-3-92-1	7129132799081584	Gawwada	gaww1239	the butterfly	BUTTERFLY	1791		karmakataale	karmakataale 
+199	3-3-93-1	7129132280767469	Gawwada	gaww1239	the grasshopper	GRASSHOPPER	607		kaakka	kaakka 
+200	3-3-93-2	76131412461626357	Gawwada	gaww1239	the grasshopper	GRASSHOPPER	607		karrawo	karrawo 
+201	3-3-94-1	7129132733374236	Gawwada	gaww1239	the snail	SNAIL	1543		qooɗe	qooɗe 
+202	3-3-95-1	7129132296747784	Gawwada	gaww1239	the frog	FROG	503		mukuʕitte	mukuʕitte 
+203	3-3-96-1	7129132781035894	Gawwada	gaww1239	the lizard	LIZARD	632		hapaappe	hapaappe 
+204	3-3-97-1	7129132758010994	Gawwada	gaww1239	the crocodile or alligator	CROCODILE	1857		xaaro	xaaro 
+205	3-3-98-1	7129132906012781	Gawwada	gaww1239	the turtle	TURTLE	112		hupe	hupe 
+206	3-4-11-1	7129132718568033	Gawwada	gaww1239	the body	BODY	1480		piško	piško 
+207	3-4-12-1	7129132919418230	Gawwada	gaww1239	the skin or hide	SKIN	763		xaɓo	xaɓo 
+208	3-4-13-1	7129132625342709	Gawwada	gaww1239	the flesh	FLESH	2259		sakanko	sakanko 
+209	3-4-14-1	7129132139974708	Gawwada	gaww1239	the hair	HAIR (HEAD)	2648		kat’o	kat’o 
+210	3-4-142-1	7129132992744743	Gawwada	gaww1239	the beard	BEARD	678		puše	puše 
+211	3-4-144-1	7129132139974708	Gawwada	gaww1239	the body hair	HAIR (BODY)	189		kat’o	kat’o 
+212	3-4-145-1	7129132136826273	Gawwada	gaww1239	the pubic hair	PUBIC HAIR	36		posikte	posikte 
+213	3-4-146-1	7129132594710436	Gawwada	gaww1239	the dandruff	DANDRUFF	576		korʔomo	korʔomo 
+214	3-4-15-1	7129132126477691	Gawwada	gaww1239	the blood	BLOOD	946		ceeqte	ceeqte 
+215	3-4-151-1	7129132143157917	Gawwada	gaww1239	the vein or artery	BLOOD VESSEL	525		hitte	hitte 
+216	3-4-16-1	7129132217938244	Gawwada	gaww1239	the bone	BONE	1394		meqte	meqte 
+217	3-4-162-1	7129132252005644	Gawwada	gaww1239	the rib	RIB	801		ɠinaʕitte	ɠinaʕitte 
+218	3-4-17-1	7129132173840422	Gawwada	gaww1239	the horn	HORN (ANATOMY)	1393		kaattakko	kaattakko 
+219	3-4-18-1	712913223690664	Gawwada	gaww1239	the tail	TAIL	1220		siito	siito 
+220	3-4-19-1	7129132707551161	Gawwada	gaww1239	the back	BACK	1291		konnatto	konnatto 
+221	3-4-191-1	7129132303841170	Gawwada	gaww1239	the spine	SPINE	805		yurxe	yurxe 
+222	3-4-2-1	7129132596064644	Gawwada	gaww1239	the head	HEAD	1256		pukkaʕte	pukkaʕte 
+223	3-4-201-1	7129132213394840	Gawwada	gaww1239	the temples	TEMPLES	1604		palpalle	palpalle 
+224	3-4-202-1	7129132596064644	Gawwada	gaww1239	the skull	SKULL	1605		pukkaʕte	pukkaʕte 
+225	3-4-203-1	7129132410449506	Gawwada	gaww1239	the brain	BRAIN	1583		nono	nono 
+226	3-4-204-1	7129132934054104	Gawwada	gaww1239	the face	FACE	1560		miinte	miinte 
+227	3-4-205-1	7129132934054104	Gawwada	gaww1239	the forehead	FOREHEAD	123		miinte	miinte 
+228	3-4-207-1	7129132934243551	Gawwada	gaww1239	the jaw	JAW	798		kawkawe	kawkawe 
+229	3-4-208-1	7129132208900561	Gawwada	gaww1239	the cheek	CHEEK	1730		ʕaɗo	ʕaɗo 
+230	3-4-209-1	7129132452371253	Gawwada	gaww1239	the chin	CHIN	1510		kawso	kawso 
+231	3-4-21-1	7129132148606560	Gawwada	gaww1239	the eye	EYE	1248		ʔixte	ʔixte 
+232	3-4-212-1	7129132938247927	Gawwada	gaww1239	the eyebrow	EYEBROW	1173		teeme	teeme 
+233	3-4-213-1	7129132938247927	Gawwada	gaww1239	the eyelid	EYELID	17		teeme	teeme 
+234	3-4-214-1	7129132938247927	Gawwada	gaww1239	the eyelash	EYELASH	1540		teeme	teeme 
+235	3-4-215-1	7129132609459624	Gawwada	gaww1239	to blink	BLINK	1655		ripripis	ripripis 
+236	3-4-22-1	7129132110575983	Gawwada	gaww1239	the ear	EAR	1247		qaame	qaame 
+237	3-4-221-1	7129132110575983	Gawwada	gaww1239	the earlobe	EARLOBE	18		qaame	qaame 
+238	3-4-222-1	7129132509540677	Gawwada	gaww1239	the earwax	EARWAX	32		qooro	qooro 
+239	3-4-23-1	7129132270837731	Gawwada	gaww1239	the nose	NOSE	1221		sinte	sinte 
+240	3-4-231-1	712913241947060	Gawwada	gaww1239	the nostril	NOSTRIL	1178		sintitte	sintitte 
+241	3-4-232-1	712913251888969	Gawwada	gaww1239	the nasal mucus	NASAL MUCUS (SNOT)	208		ʕarmo	ʕarmo 
+242	3-4-24-1	7129132950877508	Gawwada	gaww1239	the mouth	MOUTH	674		pako	pako 
+243	3-4-241-1	7129132164011543	Gawwada	gaww1239	the beak	BEAK	73		pako ʔaakittatte	pako ʔaakittatte 
+244	3-4-25-1	7129132428631608	Gawwada	gaww1239	the lip	LIP	478		xiɓte	xiɓte 
+245	3-4-26-1	7129132223235479	Gawwada	gaww1239	the tongue	TONGUE	1205		ʔarraapko	ʔarraapko 
+246	3-4-27-1	712913291502808	Gawwada	gaww1239	the tooth	TOOTH	1380		ʔilke	ʔilke 
+247	3-4-271-1	7129132868316566	Gawwada	gaww1239	the gums	GUMS	139		ʕeerto	ʕeerto 
+248	3-4-272-1	7129132910648246	Gawwada	gaww1239	the molar tooth	MOLAR TOOTH	1049		ʕanɠo	ʕanɠo 
+249	3-4-28-1	7129132539362233	Gawwada	gaww1239	the neck	NECK	1333		ʔamo	ʔamo 
+250	3-4-281-1	7129132539362233	Gawwada	gaww1239	the nape of the neck	NAPE (OF NECK)	1347		ʔamo	ʔamo 
+251	3-4-29-1	7129132160906669	Gawwada	gaww1239	the throat	THROAT	1346		koomaro	koomaro 
+252	3-4-3-1	712913220404771	Gawwada	gaww1239	the shoulder	SHOULDER	1482		hašitto	hašitto 
+253	3-4-301-1	712913220404771	Gawwada	gaww1239	the shoulderblade	SHOULDERBLADE	172		hašitto	hašitto 
+254	3-4-302-1	712913220404771	Gawwada	gaww1239	the collarbone	COLLARBONE	1994		hašitto	hašitto 
+255	3-4-31-1	7129132384922312	Gawwada	gaww1239	the arm	ARM	1673		harɠo	harɠo 
+256	3-4-312-1	7129132185556409	Gawwada	gaww1239	the armpit	ARMPIT	1886		toloqoloqqe	toloqoloqqe 
+257	3-4-32-1	7129132433895283	Gawwada	gaww1239	the elbow	ELBOW	981		t’ihile	t’ihile 
+258	3-4-321-1	7129132384922312	Gawwada	gaww1239	the wrist	WRIST	799		harɠo	harɠo 
+259	3-4-33-1	7129132384922312	Gawwada	gaww1239	the hand	HAND	1277		harɠo	harɠo 
+260	3-4-331-1	7129132592626065	Gawwada	gaww1239	the palm of the hand	PALM OF HAND	1183		kanaʕe	kanaʕe 
+261	3-4-34-1	7129132422234937	Gawwada	gaww1239	the finger	FINGER	1303		ɠuʕakko	ɠuʕakko 
+262	3-4-342-1	712913270281839	Gawwada	gaww1239	the thumb	THUMB	1781		ɠuʕakko ɗamma	ɠuʕakko ɗamma 
+263	3-4-344-1	7129132286705099	Gawwada	gaww1239	the fingernail	FINGERNAIL	1258		sonqe	sonqe 
+264	3-4-345-1	7129132422234937	Gawwada	gaww1239	the claw	CLAW	72		ɠuʕakko	ɠuʕakko 
+265	3-4-35-1	7129132409896435	Gawwada	gaww1239	the leg	LEG	1297		lukte	lukte 
+266	3-4-351-1	712913277486439	Gawwada	gaww1239	the thigh	THIGH	800		tafo	tafo 
+267	3-4-352-1	7129132145298645	Gawwada	gaww1239	the calf of the leg	CALF OF LEG	498		t’innife	t’innife 
+268	3-4-36-1	7129132424501002	Gawwada	gaww1239	the knee	KNEE	1371		kilpayo	kilpayo 
+269	3-4-37-1	7129132409896435	Gawwada	gaww1239	the foot	FOOT	1301		lukte	lukte 
+270	3-4-371-1	7129132512457270	Gawwada	gaww1239	the ankle	ANKLE	803		qurcumcimitte	qurcumcimitte 
+271	3-4-372-1	7129132409896435	Gawwada	gaww1239	the heel	HEEL	980		lukte	lukte 
+272	3-4-374-1	7129132183546246	Gawwada	gaww1239	the footprint	FOOTPRINT	318		hopanto	hopanto 
+273	3-4-38-1	7129132422234937	Gawwada	gaww1239	the toe	TOE	1389		ɠuʕakko	ɠuʕakko 
+274	3-4-392-1	7129132374976917	Gawwada	gaww1239	the wing	WING	1257		hoolo	hoolo 
+275	3-4-393-1	7129132374976917	Gawwada	gaww1239	the feather	FEATHER	1201		hoolo	hoolo 
+276	3-4-393-2	76131709151003	Gawwada	gaww1239	the feather	FEATHER	1201		solaane	solaane 
+277	3-4-4-1	7129132852045658	Gawwada	gaww1239	the chest	CHEST	1592		ʔeero	ʔeero 
+278	3-4-41-1	7129132774458132	Gawwada	gaww1239	the breast	BREAST	1402		ʕaɗunko	ʕaɗunko 
+279	3-4-412-1	7129132774458132	Gawwada	gaww1239	the nipple or teat	NIPPLE	796		ʕaɗunko	ʕaɗunko 
+280	3-4-42-1	7129132774458132	Gawwada	gaww1239	the udder	UDDER	154		ʕaɗunko	ʕaɗunko 
+281	3-4-42-2	7613179737128786	Gawwada	gaww1239	the udder	UDDER	154		kante	kante 
+282	3-4-43-1	7129132108093282	Gawwada	gaww1239	the navel	NAVEL	1838		hunɗurte	hunɗurte 
+283	3-4-44-1	7129132462401352	Gawwada	gaww1239	the heart	HEART	1223		saʕako	saʕako 
+284	3-4-441-1	712913252863914	Gawwada	gaww1239	the lung	LUNG	688		kofine	kofine 
+285	3-4-45-1	7129132546390913	Gawwada	gaww1239	the liver	LIVER	1224		tire	tire 
+286	3-4-451-1	7129132550736358	Gawwada	gaww1239	the kidney	KIDNEY	489		ʔusʕe	ʔusʕe 
+287	3-4-452-1	7129132238872631	Gawwada	gaww1239	the spleen	SPLEEN	1744		laanɗe	laanɗe 
+288	3-4-46-1	7129132204559486	Gawwada	gaww1239	the stomach	STOMACH	819		karʕitto	karʕitto 
+289	3-4-461-1	7129132473600962	Gawwada	gaww1239	the intestines or guts	INTESTINES	1991		merʕimme	merʕimme 
+290	3-4-462-1	7129132441257701	Gawwada	gaww1239	the waist	WAIST	1681		kuuɗe	kuuɗe 
+291	3-4-463-1	7129132213696145	Gawwada	gaww1239	the hip	HIP	1745		lapša	lapša 
+292	3-4-464-1	7129132959619920	Gawwada	gaww1239	the buttocks	BUTTOCKS	834		turɠe	turɠe 
+293	3-4-47-1	7129132477929106	Gawwada	gaww1239	the womb	WOMB	804		mano	mano 
+294	3-4-49-1	7129132389078748	Gawwada	gaww1239	the testicles	TESTICLES	797		ʔukaahe	ʔukaahe 
+295	3-4-492-1	7129132911311927	Gawwada	gaww1239	the penis	PENIS	1222		lawte	lawte 
+296	3-4-51-1	7129132410349005	Gawwada	gaww1239	to breathe	BREATHE	1407		nassaɗ	nassaɗ 
+297	3-4-52-1	7129132726340328	Gawwada	gaww1239	to yawn	YAWN	1028		šaammašaɗ	šaammašaɗ 
+298	3-4-521-1	7129132232179778	Gawwada	gaww1239	to hiccough	HICCOUGH	162		ʔeqaɗ	ʔeqaɗ 
+299	3-4-53-1	7129132205972704	Gawwada	gaww1239	to cough	COUGH	879		tula	tula 
+300	3-4-54-1	7129132324462307	Gawwada	gaww1239	to sneeze	SNEEZE	1621		qišaɗ	qišaɗ 
+301	3-4-55-1	7129132952864080	Gawwada	gaww1239	to perspire	SWEAT (PERSPIRE)	126		siippi	siippi 
+302	3-4-56-1	712913286474883	Gawwada	gaww1239	to spit	SPIT	1440		tuf	tuf 
+303	3-4-57-1	7129132132753286	Gawwada	gaww1239	to vomit	VOMIT	1278		fat	fat 
+304	3-4-58-1	712913237161967	Gawwada	gaww1239	to bite	BITE	1403		qaw	qaw 
+305	3-4-59-1	7129132757790977	Gawwada	gaww1239	to lick	LICK	319		qeeca	qeeca 
+306	3-4-591-1	7129132810742111	Gawwada	gaww1239	to dribble	DRIBBLE	268		waarakkooɗ	waarakkooɗ 
+307	3-4-61-1	7129132814659663	Gawwada	gaww1239	to sleep	SLEEP	1585		raf	raf 
+308	3-4-612-1	7129132840741758	Gawwada	gaww1239	to snore	SNORE	1983		hoorees	hoorees 
+309	3-4-62-1	7129132772206460	Gawwada	gaww1239	to dream	DREAM (SOMETHING)	1920		ʔulseeɗ	ʔulseeɗ 
+310	3-4-63-1	7129132765861981	Gawwada	gaww1239	to wake up	WAKE UP	1602		haʕ	haʕ 
+311	3-4-64-1	7129132714336636	Gawwada	gaww1239	to fart	FART	1159		šiɠ	šiɠ 
+312	3-4-65-1	7129132993337822	Gawwada	gaww1239	to piss	PISS	592		šooha	šooha 
+313	3-4-66-1	7129132483427013	Gawwada	gaww1239	to shit	SHIT (DEFECATE)	676		yoqom	yoqom 
+314	3-4-67-1	7129132746231575	Gawwada	gaww1239	to have sex	HAVE SEX	1785		nuɠa	nuɠa 
+315	3-4-68-1	7129132796947106	Gawwada	gaww1239	to shiver	SHIVER	52		hotol	hotol 
+316	3-4-69-1	7129132304059877	Gawwada	gaww1239	to bathe	BATHE	138		šohom	šohom 
+317	3-4-71-1	7129132248597921	Gawwada	gaww1239	to beget	BEGET	1152		ɗal	ɗal 
+318	3-4-72-1	7129132929144033	Gawwada	gaww1239	to be born	BE BORN	1090		ɗalaɗ	ɗalaɗ 
+319	3-4-73-1	7129132919657762	Gawwada	gaww1239	pregnant	PREGNANT	1123		rimay	rimay 
+320	3-4-732-1	7129132606699541	Gawwada	gaww1239	to conceive	CONCEIVE	1087		šeek	šeek 
+321	3-4-74-1	7129132845809868	Gawwada	gaww1239	to be alive	BE ALIVE	1422		nafsatte ʕak	nafsatte ʕak 
+322	3-4-75-1	7129132575560	Gawwada	gaww1239	to die	DIE	1494		far	far 
+323	3-4-751-1	7129132204086772	Gawwada	gaww1239	to drown	DROWN	1904		hul	hul 
+324	3-4-76-1	7129132980393042	Gawwada	gaww1239	to kill	KILL	1417		poɠ	poɠ 
+325	3-4-77-1	7129132965280341	Gawwada	gaww1239	the corpse	CORPSE	767		pukkaʕo	pukkaʕo 
+326	3-4-78-1	7129132160144702	Gawwada	gaww1239	to bury	BURY	1719		maay	maay 
+327	3-4-79-1	7129132953160163	Gawwada	gaww1239	the grave	GRAVE	1773		hawle	hawle 
+328	3-4-81-1	7129132745871704	Gawwada	gaww1239	strong	STRONG	785		haʕampakko	haʕampakko 
+329	3-4-82-1	7129132115200156	Gawwada	gaww1239	weak	WEAK	1601		sanafe	sanafe 
+330	3-4-83-1	7129132325153536	Gawwada	gaww1239	healthy	HEALTHY	1364		heet’a	heet’a 
+331	3-4-84-1	7129132209870128	Gawwada	gaww1239	sick/ill	SICK	1847		ʔí=powaʕ(aɗ)i	ʔí=powaʕ(aɗ)i 
+332	3-4-841-1	7129132144811847	Gawwada	gaww1239	the fever	FEVER	1534		torno	torno 
+333	3-4-842-1	7129132370432693	Gawwada	gaww1239	the goitre/goiter	GOITER	1957		raante	raante 
+334	3-4-843-1	7129132856894995	Gawwada	gaww1239	the cold	COMMON COLD (DISEASE)	102		ʔošonko	ʔošonko 
+335	3-4-85-1	7129132773648973	Gawwada	gaww1239	the wound or sore	WOUND	1109		payše	payše 
+336	3-4-852-1	7129132364039326	Gawwada	gaww1239	the bruise	BRUISE	1148		mart’aat’aʕako	mart’aat’aʕako 
+337	3-4-853-1	7129132168542765	Gawwada	gaww1239	the swelling	SWELLING	1903		poqakko	poqakko 
+338	3-4-854-1	7129132253018425	Gawwada	gaww1239	the itch	ITCH	148		qoššo	qoššo 
+339	3-4-855-1	712913240627739	Gawwada	gaww1239	the blister	BLISTER	1584		filše	filše 
+340	3-4-856-1	7129132730361098	Gawwada	gaww1239	the boil	BOIL (OF SKIN)	793		sinitto	sinitto 
+341	3-4-857-1	7129132745160805	Gawwada	gaww1239	the pus	PUS	1808		maalahte	maalahte 
+342	3-4-858-1	7129132797428183	Gawwada	gaww1239	the scar	SCAR	497		paatanko	paatanko 
+343	3-4-86-1	7129132830381374	Gawwada	gaww1239	to cure	CURE	499		ɗinis	ɗinis 
+344	3-4-87-1	7129132454829159	Gawwada	gaww1239	the physician	PHYSICIAN	597		ʔakime	ʔakime 
+345	3-4-88-1	7129132315191853	Gawwada	gaww1239	the medicine	MEDICINE	1372		kinine	kinine 
+346	3-4-89-1	7129132635296685	Gawwada	gaww1239	the poison	POISON	655		laahko	laahko 
+347	3-4-91-1	7129132706091971	Gawwada	gaww1239	tired	TIRED	1757		ʔí=tarɗi	ʔí=tarɗi 
+348	3-4-912-1	7129132268276614	Gawwada	gaww1239	to rest	REST	168		sallaɗ	sallaɗ 
+349	3-4-92-1	7129132983536107	Gawwada	gaww1239	lazy	LAZY	1564		sakitte	sakitte 
+350	3-4-93-1	7129132590878545	Gawwada	gaww1239	bald	BALD	1125		maalolakko	maalolakko 
+351	3-4-94-1	712913282616607	Gawwada	gaww1239	lame	LAME	320		toonnakko	toonnakko 
+352	3-4-95-1	7129132901637472	Gawwada	gaww1239	deaf	DEAF	996		ɗakkakko	ɗakkakko 
+353	3-4-96-1	7129132828281666	Gawwada	gaww1239	mute	MUTE	1666		muumanakko	muumanakko 
+354	3-4-97-1	7129132649749948	Gawwada	gaww1239	blind	BLIND	1653		taafakko	taafakko 
+355	3-4-98-1	7129132842757809	Gawwada	gaww1239	drunk	DRUNK	1463		ʔí=waršooɗi	ʔí=waršooɗi 
+356	3-4-99-1	7129132947304989	Gawwada	gaww1239	naked	NAKED	590		hinaʕatte	hinaʕatte 
+357	3-5-11-1	7129132193483335	Gawwada	gaww1239	to eat	EAT	1336		yiʔa	yiʔa 
+358	3-5-12-1	7129132535314512	Gawwada	gaww1239	the food	FOOD	256		yiʔto	yiʔto 
+359	3-5-121-1	7129132780373899	Gawwada	gaww1239	cooked	COOKED	269		ʔí=ʔawši	ʔí=ʔawši 
+360	3-5-122-1	7129132329070548	Gawwada	gaww1239	raw	RAW	1959		ye=ʔawšú	ye=ʔawšú 
+361	3-5-123-1	7129132249323577	Gawwada	gaww1239	ripe	RIPE	178		ʔí=ɓoq-q-i	ʔí=ɓoq-q-i 
+362	3-5-123-2	7613171585827282	Gawwada	gaww1239	ripe	RIPE	178		ʔí=šaʔi	ʔí=šaʔi 
+363	3-5-124-1	7129132648221862	Gawwada	gaww1239	unripe	UNRIPE	1958		ye=šaʔú	ye=šaʔú 
+364	3-5-125-1	7129132941750021	Gawwada	gaww1239	rotten	ROTTEN	1728		ʔí=harkišami	ʔí=harkišami 
+365	3-5-13-1	7129132545617296	Gawwada	gaww1239	to drink	DRINK	1401		ʕuk	ʕuk 
+366	3-5-14-1	7129132444216252	Gawwada	gaww1239	to be hungry	BE HUNGRY	1533		puffi	puffi 
+367	3-5-141-1	712913222824870	Gawwada	gaww1239	the famine	FAMINE	199		puffaʕe	puffaʕe 
+368	3-5-15-1	712913293394800	Gawwada	gaww1239	to be thirsty	THIRSTY	847		teepooɗ	teepooɗ 
+369	3-5-16-1	7129132592578303	Gawwada	gaww1239	to suck	SUCK	1421		šura	šura 
+370	3-5-18-1	712913289063335	Gawwada	gaww1239	to chew	CHEW	321		qaan	qaan 
+371	3-5-181-1	7129132952856135	Gawwada	gaww1239	to swallow	SWALLOW	897		loq	loq 
+372	3-5-19-1	7129132202578159	Gawwada	gaww1239	to choke	CHOKE	129		niik	niik 
+373	3-5-21-1	7129132742378891	Gawwada	gaww1239	to cook	COOK (SOMETHING)	1100		ʔawšaš	ʔawšaš 
+374	3-5-22-1	7129132325712486	Gawwada	gaww1239	to boil	BOIL (OF LIQUID)	792		tor	tor 
+375	3-5-23-1	7129132566436589	Gawwada	gaww1239	to roast or fry	ROAST OR FRY	2146		šakaaš	šakaaš 
+376	3-5-24-1	7129132897905677	Gawwada	gaww1239	to bake	BAKE	183		ɗil	ɗil 
+377	3-5-26-1	7129132294329247	Gawwada	gaww1239	the pot	POT	1462		sikte	sikte 
+378	3-5-27-1	7129132384631226	Gawwada	gaww1239	the kettle	KETTLE	854		tiste	tiste 
+379	3-5-28-1	7129132335835957	Gawwada	gaww1239	the pan	PAN	31		paytakko	paytakko 
+380	3-5-31-1	7129132710742470	Gawwada	gaww1239	the dish	DISH	481		taanko	taanko 
+381	3-5-32-1	7129132710742470	Gawwada	gaww1239	the plate	PLATE	480		taanko	taanko 
+382	3-5-33-1	7129132670743656	Gawwada	gaww1239	the bowl	BOWL	1530		šullo	šullo 
+383	3-5-34-1	7129132670743656	Gawwada	gaww1239	the jug/pitcher	JUG	270		šullo	šullo 
+384	3-5-35-1	7129132441305567	Gawwada	gaww1239	the cup	CUP	476		šaaɗɗe	šaaɗɗe 
+385	3-5-37-1	712913297748416	Gawwada	gaww1239	the spoon	SPOON	1378		kaale	kaale 
+386	3-5-391-1	7129132695802804	Gawwada	gaww1239	the tongs	TONGS	272		k’apitte	k’apitte 
+387	3-5-41-1	7129132535314512	Gawwada	gaww1239	the meal	MEAL	1526		yiʔto	yiʔto 
+388	3-5-42-1	7129132418160568	Gawwada	gaww1239	the breakfast	BREAKFAST	1322		sinkatto haaše	sinkatto haaše 
+389	3-5-43-1	7129132917667952	Gawwada	gaww1239	the lunch	LUNCH	768		piife	piife 
+390	3-5-44-1	7129132257938317	Gawwada	gaww1239	the dinner	DINNER (SUPPER)	1833		koyakko	koyakko 
+391	3-5-45-1	7129132650121763	Gawwada	gaww1239	the supper	DINNER (SUPPER)	1833		ʔeese	ʔeese 
+392	3-5-46-1	7129132369955934	Gawwada	gaww1239	to peel	PEEL	275		feet’	feet’ 
+393	3-5-47-1	7129132588097084	Gawwada	gaww1239	to sieve or to strain	SIEVE	86		tak	tak 
+394	3-5-48-1	7129132910749043	Gawwada	gaww1239	to scrape	SCRAPE	1767		xaš	xaš 
+395	3-5-49-1	7129132993130215	Gawwada	gaww1239	to stir or to mix	MIX	2017		lax	lax 
+396	3-5-51-1	7129132766383072	Gawwada	gaww1239	the bread	BREAD	1368		ɗilanko	ɗilanko 
+397	3-5-53-1	7129132348020563	Gawwada	gaww1239	the dough	DOUGH	273		pukeesa	pukeesa 
+398	3-5-54-1	7129132656762809	Gawwada	gaww1239	to knead	KNEAD	274		sap	sap 
+399	3-5-55-1	7129132735490305	Gawwada	gaww1239	the flour	FLOUR	1594		ɗaammo	ɗaammo 
+400	3-5-56-1	7129132819075221	Gawwada	gaww1239	to crush or to grind	GRIND	1033		toluy	toluy 
+401	3-5-58-1	7129132578151199	Gawwada	gaww1239	the mortar(1)	MORTAR CRUSHER	224		ʔutmalo	ʔutmalo 
+402	3-5-59-1	7129132228283351	Gawwada	gaww1239	the pestle	PESTLE	225		tupaynakko	tupaynakko 
+403	3-5-61-1	7129132625342709	Gawwada	gaww1239	the meat	MEAT	634		sakanko	sakanko 
+404	3-5-64-1	7129132847072956	Gawwada	gaww1239	the soup	SOUP	1547		xaaraɓɓo	xaaraɓɓo 
+405	3-5-65-1	7129132725850914	Gawwada	gaww1239	the vegetables	VEGETABLES	924		tiišto	tiišto 
+406	3-5-66-1	712913295526042	Gawwada	gaww1239	the bean	BEAN	832		paqeela	paqeela 
+407	3-5-66-2	76131720517926063	Gawwada	gaww1239	the bean	BEAN	832		ʔalquqa	ʔalquqa 
+408	3-5-7-1	7129132219580286	Gawwada	gaww1239	the potato	POTATO	593		tinniša	tinniša 
+409	3-5-71-1	7129132312664660	Gawwada	gaww1239	the fruit	FRUIT	1507		ʔawšo	ʔawšo 
+410	3-5-79-1	7129132620174711	Gawwada	gaww1239	the oil	OIL (ORGANIC SUBSTANCE)	1484		zayte	zayte 
+411	3-5-81-1	7129132728879384	Gawwada	gaww1239	the salt	SALT	1274		soqo	soqo 
+412	3-5-821-1	712913282148003	Gawwada	gaww1239	the chili pepper	CHILI PEPPER	919		parpaare	parpaare 
+413	3-5-84-1	7129132248858487	Gawwada	gaww1239	the honey	HONEY	942		sakmo	sakmo 
+414	3-5-85-1	7129132502432840	Gawwada	gaww1239	the sugar	SUGAR	862		šaahe	šaahe 
+415	3-5-86-1	7129132159478201	Gawwada	gaww1239	the milk	MILK	635		ʔorhe	ʔorhe 
+416	3-5-87-1	712913262751466	Gawwada	gaww1239	to milk	DRAW MILK	93		qoxa	qoxa 
+417	3-5-89-1	7129132970079414	Gawwada	gaww1239	the butter	BUTTER	1245		šiinanko	šiinanko 
+418	3-5-9-1	7129132284416927	Gawwada	gaww1239	the drink	BEVERAGE	731		ʕukto	ʕukto 
+419	3-5-91-1	7129132724809322	Gawwada	gaww1239	the mead	MEAD	941		tayye	tayye 
+420	3-5-93-1	7129132682417318	Gawwada	gaww1239	the beer	BEER	1639		piira	piira 
+421	3-5-94-1	7129132155628224	Gawwada	gaww1239	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		warše	warše 
+422	3-5-97-1	7129132389078748	Gawwada	gaww1239	the egg	EGG	744		ʔukaahe	ʔukaahe 
+423	3-5-971-1	7129132742831789	Gawwada	gaww1239	the yolk	YOLK	1556		mišilte	mišilte 
+424	3-6-11-1	7129132743568277	Gawwada	gaww1239	to put on	PUT ON	158		ʕaɗɗaɗ	ʕaɗɗaɗ 
+425	3-6-12-1	7129132479281539	Gawwada	gaww1239	the clothing or clothes	CLOTHES	1895		laalle	laalle 
+426	3-6-13-1	7129132283627185	Gawwada	gaww1239	the tailor	TAILOR	881		hawɗatto	hawɗatto 
+427	3-6-21-1	7129132959967890	Gawwada	gaww1239	the cloth	CLOTH	1616		k’acare	k’acare 
+428	3-6-24-1	7129132940066699	Gawwada	gaww1239	the cotton	COTTON	1850		saaqe	saaqe 
+429	3-6-28-1	7129132991084128	Gawwada	gaww1239	the fur	FUR	580		tooško	tooško 
+430	3-6-29-1	7129132586035232	Gawwada	gaww1239	the leather	LEATHER	629		šaranko	šaranko 
+431	3-6-29-2	7129132919418230	Gawwada	gaww1239	the leather	LEATHER	629		xaɓo	xaɓo 
+432	3-6-29-3	76131726154017546	Gawwada	gaww1239	the leather	LEATHER	629		ʕillo	ʕillo 
+433	3-6-31-1	7129132385807207	Gawwada	gaww1239	to spin	SPIN	121		ɓoqqos	ɓoqqos 
+434	3-6-32-1	7129132962015699	Gawwada	gaww1239	the spindle	SPINDLE	277		kume	kume 
+435	3-6-33-1	7129132671937728	Gawwada	gaww1239	to weave	WEAVE	133		piir	piir 
+436	3-6-34-1	7129132897262931	Gawwada	gaww1239	the loom	LOOM	1787		maxe hawɗattito	maxe hawɗattito 
+437	3-6-35-1	7129132562104468	Gawwada	gaww1239	to sew	SEW	1457		teel	teel 
+438	3-6-36-1	7129132600778512	Gawwada	gaww1239	the needle(1)	NEEDLE (FOR SEWING)	1382		marfe	marfe 
+439	3-6-38-1	7129132601138951	Gawwada	gaww1239	the thread	THREAD	1161		ʔoyehe	ʔoyehe 
+440	3-7-37-1	712913269265647	Gawwada	gaww1239	the ladder	LADDER	1464		šaanšikko	šaanšikko 
+441	3-6-42-1	712913244015745	Gawwada	gaww1239	the (woman's) dress	DRESS	474		suufa	suufa 
+442	3-6-44-1	7129132890979343	Gawwada	gaww1239	the shirt	SHIRT	1622		koote	koote 
+443	3-6-46-1	7129132125143519	Gawwada	gaww1239	the skirt	SKIRT	1600		parante	parante 
+444	3-6-48-1	7129132605974880	Gawwada	gaww1239	the trousers	TROUSERS	809		pokke	pokke 
+445	3-6-49-1	7129132597535528	Gawwada	gaww1239	the sock or stocking	STOCKING	329		kalse	kalse 
+446	3-6-51-1	7129132668971721	Gawwada	gaww1239	the shoe	SHOE	1381		xope	xope 
+447	3-6-55-1	7129132626076602	Gawwada	gaww1239	the hat or cap	HEADGEAR	2130		k’ope	k’ope 
+448	3-6-57-1	7129132831826605	Gawwada	gaww1239	the belt	BELT	772		sak’k’e	sak’k’e 
+449	3-6-61-1	7129132311497454	Gawwada	gaww1239	the pocket	POCKET	1851		kiise	kiise 
+450	3-6-73-1	7129132373394992	Gawwada	gaww1239	the ring	RING	1374		cifoote	cifoote 
+451	3-6-74-1	7129132691467784	Gawwada	gaww1239	the bracelet	BRACELET	1754		qašawa	qašawa 
+452	3-6-74-2	76131732199411343	Gawwada	gaww1239	the bracelet	BRACELET	1754		sakaye	sakaye 
+453	3-6-75-1	7129132211759154	Gawwada	gaww1239	the necklace	NECKLACE	1961		yaake	yaake 
+454	3-6-75-2	76131734840975428	Gawwada	gaww1239	the necklace	NECKLACE	1961		ɗamʕatto	ɗamʕatto 
+455	3-6-76-1	7129132350896238	Gawwada	gaww1239	the bead	BEAD	1860		tooqa	tooqa 
+456	3-6-77-1	7129132690499985	Gawwada	gaww1239	the earring	EARRING	770		lootote	lootote 
+457	3-6-78-1	7129132385040292	Gawwada	gaww1239	the headband or headdress	HEADBAND	330		kompo	kompo 
+458	3-6-79-1	712913213151913	Gawwada	gaww1239	the tattoo	TATTOO	68		hak’e	hak’e 
+459	3-6-81-1	7129132402175825	Gawwada	gaww1239	the handkerchief or rag	RAG	332		ʔoošakko	ʔoošakko 
+460	3-6-91-1	712913295599165	Gawwada	gaww1239	the comb	COMB	1475		silmakko	silmakko 
+461	3-6-91-2	76131737732240485	Gawwada	gaww1239	the comb	COMB	1475		mapattarrakko	mapattarrakko 
+462	3-6-92-1	7129132324777973	Gawwada	gaww1239	the brush	BRUSH	1821		maakayso	maakayso 
+463	3-6-921-1	7129132670973331	Gawwada	gaww1239	the plait/braid	BRAID	1043		šurruppitte	šurruppitte 
+464	3-6-93-1	7129132875922101	Gawwada	gaww1239	the razor	RAZOR	151		cikkire	cikkire 
+465	3-6-94-1	7129132970079414	Gawwada	gaww1239	the ointment	OINTMENT	1926		šiinanko	šiinanko 
+466	3-6-95-1	712913238214131	Gawwada	gaww1239	the soap	SOAP	788		saamuna	saamuna 
+467	3-6-96-1	7129132448499039	Gawwada	gaww1239	the mirror	MIRROR	1171		ʔeemaɗo	ʔeemaɗo 
+468	3-7-11-1	712913257295296	Gawwada	gaww1239	to live	DWELL (LIVE, RESIDE)	363		ʕak	ʕak 
+469	3-7-12-1	7129132175530470	Gawwada	gaww1239	the house	HOUSE	1252		minne	minne 
+470	3-7-13-1	7129132415232967	Gawwada	gaww1239	the hut	HUT	1678		rokke	rokke 
+471	3-7-15-1	7129132547183937	Gawwada	gaww1239	the yard or court	YARD	736		ɠinte	ɠinte 
+472	3-7-22-1	7129132737346899	Gawwada	gaww1239	the door or gate	DOOR	1567		mankahe	mankahe 
+473	3-7-221-1	7129132284384504	Gawwada	gaww1239	the doorpost	DOORPOST	80		qupullo	qupullo 
+474	3-7-24-1	7129132180981427	Gawwada	gaww1239	the key	KEY	1472		k’ulfe	k’ulfe 
+475	3-7-25-1	712913276344146	Gawwada	gaww1239	the window	WINDOW	1375		maskoote	maskoote 
+476	3-7-26-1	7129132599530969	Gawwada	gaww1239	the floor	FLOOR	1632		piye	piye 
+477	3-7-27-1	7129132946176774	Gawwada	gaww1239	the wall	WALL (OF HOUSE)	933		ɠaɗo	ɠaɗo 
+478	3-7-31-1	7129132416375562	Gawwada	gaww1239	the fireplace	FIREPLACE	185		ʔoske	ʔoske 
+479	3-7-32-1	7129132416375562	Gawwada	gaww1239	the stove	STOVE	859		ʔoske	ʔoske 
+480	3-7-42-1	7129132114487381	Gawwada	gaww1239	the bed	BED	1663		xarpe	xarpe 
+481	3-7-43-1	7129132885447171	Gawwada	gaww1239	the chair	CHAIR	1476		ʕakkatto	ʕakkatto 
+482	3-7-45-1	7129132809025254	Gawwada	gaww1239	the lamp or torch	TORCH OR LAMP	2131		patri	patri 
+483	3-7-46-1	712913224828565	Gawwada	gaww1239	the candle	CANDLE	1273		soopa	soopa 
+484	3-7-48-1	7129132710742470	Gawwada	gaww1239	the trough	TROUGH	205		taanko	taanko 
+485	3-7-51-1	7129132322137352	Gawwada	gaww1239	the roof	ROOF	769		qaɗɗummo	qaɗɗummo 
+486	3-7-52-1	7129132441617852	Gawwada	gaww1239	the thatch	THATCH	279		kampeello	kampeello 
+487	3-7-53-1	7129132963652477	Gawwada	gaww1239	the ridgepole	RIDGEPOLE	280		tukko	tukko 
+488	3-7-54-1	712913241502110	Gawwada	gaww1239	the rafter	RAFTER	829		kurantitte	kurantitte 
+489	3-7-55-1	7129132979750956	Gawwada	gaww1239	the beam	BEAM	1132		ɗiiptakko	ɗiiptakko 
+490	3-7-56-1	7129132963652477	Gawwada	gaww1239	the post or pole	POST	281		tukko	tukko 
+491	3-7-64-1	7129132502013805	Gawwada	gaww1239	the adobe	ADOBE	901		saalte=pa coqqollo	saalte=pa coqqollo 
+492	3-8-11-1	7129132332758520	Gawwada	gaww1239	the farmer	FARMER	979		kapare	kapare 
+493	3-8-12-1	7129132221301202	Gawwada	gaww1239	the field	FIELD	212		pašo	pašo 
+494	3-8-15-1	7129132656435177	Gawwada	gaww1239	to cultivate	CULTIVATE	1541		koɗ	koɗ 
+495	3-8-16-1	7129132424896341	Gawwada	gaww1239	the fence	FENCE	1690		ʔoxinte	ʔoxinte 
+496	3-8-17-1	7129132875719049	Gawwada	gaww1239	the ditch	DITCH	2002		kapte	kapte 
+497	3-8-21-1	7129132656435177	Gawwada	gaww1239	to plough/plow	PLOUGH	1921		koɗ	koɗ 
+498	3-8-23-1	7129132105459853	Gawwada	gaww1239	the spade	SPADE	1176		ɠotto	ɠotto 
+499	3-8-24-1	7129132105459853	Gawwada	gaww1239	the shovel	SHOVEL	1901		ɠotto	ɠotto 
+500	3-8-26-1	7129132168454486	Gawwada	gaww1239	the fork(2)/pitchfork	PITCHFORK	337		ʔirfe	ʔirfe 
+501	3-8-27-1	7129132273797673	Gawwada	gaww1239	the rake	RAKE	338		toosote	toosote 
+502	3-8-31-1	7129132745619009	Gawwada	gaww1239	to sow	SOW SEEDS	748		ɗiš	ɗiš 
+503	3-8-311-1	7129132698466980	Gawwada	gaww1239	the seed	SEED	714		poɗaho	poɗaho 
+504	3-8-32-1	7129132264504403	Gawwada	gaww1239	to mow	MOW	190		ɠima	ɠima 
+505	3-8-33-1	7129132349811964	Gawwada	gaww1239	the sickle or scythe	SICKLE OR SCYTHE	2132		walitte	walitte 
+506	3-8-33-2	76131744968218389	Gawwada	gaww1239	the sickle or scythe	SICKLE OR SCYTHE	2132		macurre	macurre 
+507	3-8-34-1	7129132955997083	Gawwada	gaww1239	to thresh	THRESH	285		yooqa	yooqa 
+508	3-8-41-1	7129132967219146	Gawwada	gaww1239	the harvest	HARVEST	611		ʔawšašo	ʔawšašo 
+509	3-8-43-1	7129132473914051	Gawwada	gaww1239	the wheat	WHEAT	1077		kaacce	kaacce 
+510	3-8-44-1	7129132701448062	Gawwada	gaww1239	the barley	BARLEY	932		kaspo	kaspo 
+511	3-8-47-1	7129132218487935	Gawwada	gaww1239	the maize/corn	MAIZE	506		poqollo	poqollo 
+512	3-8-51-1	7129132861273253	Gawwada	gaww1239	the grass	GRASS	606		ʕaško	ʕaško 
+513	3-8-52-1	7129132861273253	Gawwada	gaww1239	the hay	HAY	342		ʕaško	ʕaško 
+514	3-8-53-1	7129132858436551	Gawwada	gaww1239	the plant	PLANT (VEGETATION)	653		kaarko	kaarko 
+515	3-8-531-1	7129132745619009	Gawwada	gaww1239	to plant	PLANT (SOMETHING)	1486		ɗiš	ɗiš 
+516	3-8-54-1	7129132143157917	Gawwada	gaww1239	the root	ROOT	670		hitte	hitte 
+517	3-8-55-1	7129132701912656	Gawwada	gaww1239	the branch	BRANCH OR TWIG	3223		t’aamme	t’aamme 
+518	3-8-56-1	712913210712173	Gawwada	gaww1239	the leaf	LEAF	628		miise	miise 
+519	3-8-57-1	7129132348689065	Gawwada	gaww1239	the flower	FLOWER	239		piso	piso 
+520	3-8-6-1	7129132858436551	Gawwada	gaww1239	the tree	TREE	906		kaarko	kaarko 
+521	3-8-68-1	7129132962051602	Gawwada	gaww1239	the tobacco	TOBACCO	974		kayye	kayye 
+522	3-8-69-1	7129132265936685	Gawwada	gaww1239	to smoke	SMOKE (INHALE)	1689		sitti	sitti 
+523	3-8-691-1	7129132433919378	Gawwada	gaww1239	the pipe	PIPE	1124		hoɗoɗo	hoɗoɗo 
+524	3-8-72-1	7129132392384597	Gawwada	gaww1239	the tree stump	TREE STUMP	241		kulunko	kulunko 
+525	3-8-73-1	7129132392384597	Gawwada	gaww1239	the tree trunk	TREE TRUNK	344		kulunko	kulunko 
+526	3-8-74-1	7129132211277242	Gawwada	gaww1239	the forked branch	FORKED BRANCH	409		t’aqo	t’aqo 
+527	3-8-75-1	7129132586480482	Gawwada	gaww1239	the bark	BARK	1204		qooqitte	qooqitte 
+528	3-8-76-1	7129132147460922	Gawwada	gaww1239	the sap	SAP	345		ʕartakko	ʕartakko 
+529	3-8-81-1	71291324609562	Gawwada	gaww1239	the palm tree	PALM TREE	1181		mayt’a	mayt’a 
+530	3-8-84-1	7129132103387106	Gawwada	gaww1239	the banana	BANANA	868		muuse	muuse 
+531	3-8-93-1	7129132670743656	Gawwada	gaww1239	the gourd	GOURD	411		šullo	šullo 
+532	3-8-931-1	7129132947822568	Gawwada	gaww1239	the pumpkin or squash	PUMPKIN	864		poote	poote 
+533	3-8-94-1	7129132934927823	Gawwada	gaww1239	the bamboo	BAMBOO	1927		laayme	laayme 
+534	3-8-941-1	7129132623408318	Gawwada	gaww1239	the sugar cane	SUGAR CANE	146		xawše	xawše 
+535	3-8-98-1	7129132387584563	Gawwada	gaww1239	the mushroom	MUSHROOM	641		ɗumʕe	ɗumʕe 
+536	3-9-12-1	7129132150360837	Gawwada	gaww1239	the work	WORK (LABOUR)	984		koɗmo	koɗmo 
+537	3-9-14-1	7129132556714710	Gawwada	gaww1239	to bend	BEND	2004		toonas	toonas 
+538	3-9-15-1	7129132556714710	Gawwada	gaww1239	to fold	FOLD	1470		toonas	toonas 
+539	3-9-16-1	7129132642459468	Gawwada	gaww1239	to tie	TIE	1917		sooq	sooq 
+540	3-9-161-1	7129132452962090	Gawwada	gaww1239	to untie	UNTIE	352		qaaš	qaaš 
+541	3-9-18-1	7129132578753715	Gawwada	gaww1239	the chain	CHAIN	1627		sansalate	sansalate 
+542	3-9-19-1	7129132154543779	Gawwada	gaww1239	the rope	ROPE	1218		teepko	teepko 
+543	3-9-19-2	76131748428485753	Gawwada	gaww1239	the rope	ROPE	1218		suro	suro 
+544	3-9-192-1	7129132166602520	Gawwada	gaww1239	the knot	KNOT	760		sukke	sukke 
+545	3-9-21-1	7129132494294040	Gawwada	gaww1239	to strike or hit or beat	STRIKE OR BEAT	2133		šoq	šoq 
+546	3-9-211-1	7129132138572975	Gawwada	gaww1239	to pound	POUND	354		tuɓ	tuɓ 
+547	3-9-22-1	7129132481196401	Gawwada	gaww1239	to cut	CUT	1432		qaq	qaq 
+548	3-9-221-1	7129132961780360	Gawwada	gaww1239	to cut down	CUT DOWN	355		puʕas	puʕas 
+549	3-9-222-1	7129132376929230	Gawwada	gaww1239	to chop	CHOP	155		qašaɗ	qašaɗ 
+550	3-9-223-1	7129132264271168	Gawwada	gaww1239	to stab	STAB TO DEATH	3189		ɗot	ɗot 
+551	3-9-23-1	7129132981902721	Gawwada	gaww1239	the knife(2)	KNIFE	1352		pillawo	pillawo 
+552	3-9-25-1	7129132887422617	Gawwada	gaww1239	the axe/ax	AXE	677		ʔirkaʕo	ʔirkaʕo 
+553	3-9-251-1	7129132887422617	Gawwada	gaww1239	the adze	ADZE	290		ʔirkaʕo	ʔirkaʕo 
+554	3-9-26-1	7129132364958566	Gawwada	gaww1239	to break	BREAK (DESTROY OR GET DESTROYED)	680		konɗi	konɗi 
+555	3-9-261-1	71291325707213	Gawwada	gaww1239	broken	BROKEN (NOT WORKING)	3190		ʔí=konɗami	ʔí=konɗami 
+556	3-9-27-1	7129132939355566	Gawwada	gaww1239	to split	SPLIT	1437		paqqas	paqqas 
+557	3-9-28-1	7129132393378421	Gawwada	gaww1239	to tear	TEAR (SHRED)	1735		yuut	yuut 
+558	3-9-29-1	712913295087136	Gawwada	gaww1239	to skin	PULL OFF (SKIN)	291		fut	fut 
+559	3-9-31-1	7129132207282941	Gawwada	gaww1239	to rub	RUB	1449		kuʕ	kuʕ 
+560	3-9-32-1	7129132146258274	Gawwada	gaww1239	to stretch	STRETCH	214		pinkas	pinkas 
+561	3-9-33-1	712913218403999	Gawwada	gaww1239	to pull	PULL	1455		sit	sit 
+562	3-9-34-1	7129132506485376	Gawwada	gaww1239	to spread out	SPREAD OUT	38		ʕaf	ʕaf 
+563	3-9-341-1	7129132700725090	Gawwada	gaww1239	to hang up	HANG UP	357		rakki	rakki 
+564	3-9-342-1	712913278468427	Gawwada	gaww1239	to press	PRESS	1913		kuut’	kuut’ 
+565	3-9-343-1	7129132362181886	Gawwada	gaww1239	to squeeze	SQUEEZE	1414		t’iip	t’iip 
+566	3-9-35-1	7129132837680059	Gawwada	gaww1239	to pour	POUR	1487		hoʕʕi	hoʕʕi 
+567	3-9-36-1	7129132963816169	Gawwada	gaww1239	to wash	WASH	1453		šoh	šoh 
+568	3-9-37-1	7129132406214749	Gawwada	gaww1239	to sweep	SWEEP	230		ʔooš	ʔooš 
+569	3-9-38-1	7129132402175825	Gawwada	gaww1239	the broom	BROOM	245		ʔoošakko	ʔoošakko 
+570	3-9-422-1	7129132142985019	Gawwada	gaww1239	the tool	TOOL	1361		maxatto	maxatto 
+571	3-9-44-1	7129132192825308	Gawwada	gaww1239	to build	BUILD	1840		kuftat	kuftat 
+572	3-9-46-1	7129132261532457	Gawwada	gaww1239	to bore	BORE	1501		tuk	tuk 
+573	3-9-461-1	7129132865715259	Gawwada	gaww1239	to hollow out	HOLLOW OUT	46		poota	poota 
+574	3-9-49-1	7129132613098653	Gawwada	gaww1239	the hammer	HAMMER	1481		šoqampakko	šoqampakko 
+575	3-9-5-1	7129132439834573	Gawwada	gaww1239	the nail	NAIL (TOOL)	502		sipilitte	sipilitte 
+576	3-9-56-1	7129132178201505	Gawwada	gaww1239	the glue	GLUE	1069		caqqale	caqqale 
+577	3-9-6-1	712913247870874	Gawwada	gaww1239	the blacksmith	BLACKSMITH	1001		hawɗatto sipilete	hawɗatto sipilete 
+578	3-9-65-1	7129132858158137	Gawwada	gaww1239	the silver	SILVER	759		lootote	lootote 
+579	3-9-67-1	7129132660995650	Gawwada	gaww1239	the iron	IRON	621		sipile	sipile 
+580	3-9-69-1	7129132621463471	Gawwada	gaww1239	the tin or tinplate	TIN OR TINPLATE	3217		k’ork’orro	k’ork’orro 
+581	3-9-71-1	7129132934684919	Gawwada	gaww1239	the potter	POTTER	359		ʔorre	ʔorre 
+582	3-9-71-2	76131759833036068	Gawwada	gaww1239	the potter	POTTER	359		hawɗatto sikkete	hawɗatto sikkete 
+583	3-9-72-1	7129132606272831	Gawwada	gaww1239	to mould/mold	MOLD	289		ɗoopa	ɗoopa 
+584	3-9-73-1	7129132894606663	Gawwada	gaww1239	the clay	CLAY	1399		piye sikkete	piye sikkete 
+585	3-9-74-1	7129132448499039	Gawwada	gaww1239	the glass	GLASS	604		ʔeemaɗo	ʔeemaɗo 
+586	3-9-75-1	712913258268572	Gawwada	gaww1239	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		koforees	koforees 
+587	3-9-76-1	7129132670587215	Gawwada	gaww1239	the basket	BASKET	1539		kuuco	kuuco 
+588	3-9-77-1	7129132152261455	Gawwada	gaww1239	the mat	MAT	195		ʕafto	ʕafto 
+589	3-9-771-1	7129132152261455	Gawwada	gaww1239	the rug	RUG	292		ʕafto	ʕafto 
+590	3-9-791-1	7129132703966189	Gawwada	gaww1239	to fan	FAN ACTION	360		xapul	xapul 
+591	3-9-81-1	7129132656435177	Gawwada	gaww1239	to carve	CARVE	228		koɗ	koɗ 
+592	3-9-88-1	7129132154170241	Gawwada	gaww1239	the paint	PAINT (PIGMENTS)	647		k’alame	k’alame 
+593	3-9-89-1	7129132546107183	Gawwada	gaww1239	to paint	PAINTING	2001		šiin	šiin 
+594	3-10-11-1	7129132450790249	Gawwada	gaww1239	to move	MOVE	765		kantul	kantul 
+595	3-10-12-1	7129132497023913	Gawwada	gaww1239	to turn	TURN	1588		sukkas	sukkas 
+596	3-10-13-1	7129132308829865	Gawwada	gaww1239	to turn around	TURN (SOMETHING)	1445		hol	hol 
+597	3-10-14-1	7129132923891794	Gawwada	gaww1239	to wrap	WRAP	1113		mar	mar 
+598	3-10-15-1	7129132210404426	Gawwada	gaww1239	to roll	ROLL	827		sukki	sukki 
+599	3-10-16-1	7129132961780360	Gawwada	gaww1239	to drop	DROP (SOMETHING)	2866		puʕas	puʕas 
+600	3-10-17-1	7129132671937728	Gawwada	gaww1239	to twist	TWIST (AROUND)	3199		piir	piir 
+601	3-10-21-1	7129132765861981	Gawwada	gaww1239	to rise	RISE (MOVE UPWARDS)	568		haʕ	haʕ 
+602	3-10-22-1	7129132957506879	Gawwada	gaww1239	to raise or lift	LIFT	501		haʕis	haʕis 
+603	3-10-23-1	7129132616431631	Gawwada	gaww1239	to fall	FALL	1280		puʕ	puʕ 
+604	3-10-24-1	7129132215566268	Gawwada	gaww1239	to drip	DRIP (EMIT LIQUID)	2253		t’oq	t’oq 
+605	3-10-25-1	7129132745646460	Gawwada	gaww1239	to throw	THROW	1456		hatap	hatap 
+606	3-10-252-1	7129132842639847	Gawwada	gaww1239	to catch	CATCH	702		ɠap	ɠap 
+607	3-10-26-1	7129132692427746	Gawwada	gaww1239	to shake	SHAKE	1909		kox	kox 
+608	3-10-32-1	7129132511898937	Gawwada	gaww1239	to flow	FLOW	2003		tuqam	tuqam 
+609	3-10-33-1	712913253179543	Gawwada	gaww1239	to sink	SINK (DESCEND)	1088		loqaɗ	loqaɗ 
+610	3-10-35-1	7129132266404169	Gawwada	gaww1239	to swim	SWIM	1439		taaha	taaha 
+611	3-10-351-1	7129132521239124	Gawwada	gaww1239	to dive	DIVE	119		cimmi	cimmi 
+612	3-10-352-1	7129132225736110	Gawwada	gaww1239	to splash	SPLASH	365		tah	tah 
+613	3-10-37-1	7129132765861981	Gawwada	gaww1239	to fly	FLY (MOVE THROUGH AIR)	1441		haʕ	haʕ 
+614	3-10-38-1	7129132334981955	Gawwada	gaww1239	to blow	BLOW (OF WIND)	175		ʔuffi	ʔuffi 
+615	3-10-41-1	712913258582691	Gawwada	gaww1239	to crawl	CRAWL	96		sitam	sitam 
+616	3-10-412-1	7129132554434978	Gawwada	gaww1239	to kneel	KNEEL	66		ɠullaɗ	ɠullaɗ 
+617	3-10-413-1	7129132347854217	Gawwada	gaww1239	to crouch	CROUCH	296		xuuf	xuuf 
+618	3-10-42-1	7129132931478761	Gawwada	gaww1239	to slide or slip	SLIP	1324		šotaɗ	šotaɗ 
+619	3-10-43-1	712913223848122	Gawwada	gaww1239	to jump	JUMP	1829		sor	sor 
+620	3-10-431-1	7129132396475381	Gawwada	gaww1239	to kick	KICK	1135		lepuy	lepuy 
+621	3-10-44-1	7129132417228768	Gawwada	gaww1239	to dance	DANCE	1879		xirip	xirip 
+622	3-10-45-1	7129132168221821	Gawwada	gaww1239	to walk	WALK	1443		ʔašša	ʔašša 
+623	3-10-451-1	7129132516937517	Gawwada	gaww1239	to limp	LIMP	366		toolaɗ	toolaɗ 
+624	3-10-46-1	712913248509444	Gawwada	gaww1239	to run	RUN	1519		her	her 
+625	3-10-47-1	7129132168221821	Gawwada	gaww1239	to go	GO	695		ʔašša	ʔašša 
+626	3-10-471-1	7129132158161448	Gawwada	gaww1239	to go up	GO UP (ASCEND)	705		pah	pah 
+627	3-10-472-1	7129132968767034	Gawwada	gaww1239	to climb	CLIMB	1102		haɗɗi	haɗɗi 
+628	3-10-473-1	7129132253634058	Gawwada	gaww1239	to go down	GO DOWN (DESCEND)	2014		ʔooɗ	ʔooɗ 
+629	3-10-474-1	7129132408659068	Gawwada	gaww1239	to go out	GO OUT	1107		lik (1)	lik (1) 
+630	3-10-48-1	7129132578303271	Gawwada	gaww1239	to come	COME	1446		ʔokaay	ʔokaay 
+631	3-10-481-1	7129132308829865	Gawwada	gaww1239	to come back	COME BACK	581		hol	hol 
+632	3-10-49-1	7129132168221821	Gawwada	gaww1239	to leave	LEAVE	1752		ʔašša	ʔašša 
+633	3-10-491-1	7129132412668842	Gawwada	gaww1239	to disappear	DISAPPEAR	485		pat	pat 
+634	3-10-51-1	7129132680405898	Gawwada	gaww1239	to flee	FLEE	956		ɠiʕ	ɠiʕ 
+635	3-10-52-1	712913241584429	Gawwada	gaww1239	to follow	FOLLOW	1085		kala ʔašša	kala ʔašša 
+636	3-10-53-1	712913258405825	Gawwada	gaww1239	to pursue	PURSUE	1047		kor	kor 
+637	3-10-55-1	7129132152019497	Gawwada	gaww1239	to arrive	ARRIVE	1387		xafa	xafa 
+638	3-10-56-1	7129132181304834	Gawwada	gaww1239	to approach	APPROACH	1778		ʔit’uy	ʔit’uy 
+639	3-10-57-1	7129132725496480	Gawwada	gaww1239	to enter	ENTER	749		hulli	hulli 
+640	3-10-613-1	712913224607743	Gawwada	gaww1239	to carry on shoulder	CARRY ON SHOULDER	413		kaakuy	kaakuy 
+641	3-10-62-1	7129132482787484	Gawwada	gaww1239	to bring	BRING	692		waaɗ	waaɗ 
+642	3-10-63-1	7129132748998870	Gawwada	gaww1239	to send	SEND	1127		ʔerak	ʔerak 
+643	3-10-64-1	7129132679196846	Gawwada	gaww1239	to lead	LEAD (GUIDE)	43		ʔintaw	ʔintaw 
+644	3-10-65-1	712913258405825	Gawwada	gaww1239	to drive	DRIVE	741		kor	kor 
+645	3-10-66-1	712913258405825	Gawwada	gaww1239	to ride	RIDE	367		kor	kor 
+646	3-10-67-1	7129132776328649	Gawwada	gaww1239	to push	PUSH	1452		ɗuuk	ɗuuk 
+647	3-10-71-1	7129132870027333	Gawwada	gaww1239	the road	ROAD	667		sano	sano 
+648	3-10-72-1	7129132870027333	Gawwada	gaww1239	the path	PATH	2252		sano	sano 
+649	3-10-74-1	7129132799265175	Gawwada	gaww1239	the bridge	BRIDGE	1011		tiltilte	tiltilte 
+650	3-10-76-1	7129132279359537	Gawwada	gaww1239	the wheel	WHEEL	710		qaatitte	qaatitte 
+651	3-10-78-1	7129132880699641	Gawwada	gaww1239	the yoke	YOKE	14		k’ampara	k’ampara 
+652	3-10-83-1	712913233376804	Gawwada	gaww1239	the boat	BOAT	1844		ʔokolo	ʔokolo 
+653	3-10-852-1	7129132834772149	Gawwada	gaww1239	to row	ROW	1849		taan	taan 
+654	3-11-11-1	7129132606699541	Gawwada	gaww1239	to have	HAVE	773		šeek	šeek 
+655	3-11-12-1	7129132606699541	Gawwada	gaww1239	to own	OWN	684		šeek	šeek 
+656	3-11-13-1	7129132571269860	Gawwada	gaww1239	to take	TAKE	1749		ʔakki	ʔakki 
+657	3-11-14-1	7129132571269860	Gawwada	gaww1239	to grasp	SEIZE	855		ʔakki	ʔakki 
+658	3-11-15-1	7129132842639847	Gawwada	gaww1239	to hold	HOLD	1448		ɠap	ɠap 
+659	3-11-16-1	7129132606699541	Gawwada	gaww1239	to get	GET	694		šeek	šeek 
+660	3-11-17-1	7129132738854561	Gawwada	gaww1239	to keep	KEEP	1477		ʔerkaɗ	ʔerkaɗ 
+661	3-11-18-1	7129132756135602	Gawwada	gaww1239	the thing	THING	738		ʔolokko	ʔolokko 
+662	3-11-21-1	7129132618846697	Gawwada	gaww1239	to give	GIVE	1447		teeh	teeh 
+663	3-11-22-1	7129132644662761	Gawwada	gaww1239	to give back	GIVE BACK	85		holas	holas 
+664	3-11-24-1	7129132738854561	Gawwada	gaww1239	to preserve	PRESERVE	1997		ʔerkaɗ	ʔerkaɗ 
+665	3-11-25-1	7129132830381374	Gawwada	gaww1239	to rescue	RESCUE	2008		ɗinis	ɗinis 
+666	3-11-27-1	7129132420396574	Gawwada	gaww1239	to destroy	DESTROY	681		harkiš	harkiš 
+667	3-11-28-1	7129132290916504	Gawwada	gaww1239	to injure	INJURE	44		payšoos	payšoos 
+668	3-11-31-1	7129132593255884	Gawwada	gaww1239	to look for	LOOK FOR	1468		ɠeeʕ	ɠeeʕ 
+669	3-11-32-1	7129132166065245	Gawwada	gaww1239	to find	FIND	719		tay	tay 
+670	3-11-33-1	7129132963490239	Gawwada	gaww1239	to lose	LOSE	1660		patas	patas 
+671	3-11-34-1	7129132233833320	Gawwada	gaww1239	to let go	LET GO OR SET FREE	1095		pinni	pinni 
+672	3-11-43-1	7129132945706225	Gawwada	gaww1239	the money	MONEY	1559		pirre	pirre 
+673	3-11-44-1	7129132836441907	Gawwada	gaww1239	the coin	COIN	1867		saantipe	saantipe 
+674	3-11-51-1	7129132825462402	Gawwada	gaww1239	rich	RICH	712		šorohitto	šorohitto 
+675	3-11-52-1	7129132815758640	Gawwada	gaww1239	poor	POOR	1674		teekolakko	teekolakko 
+676	3-11-53-1	7129132110175119	Gawwada	gaww1239	the beggar	BEGGAR	1934		sooʕatte	sooʕatte 
+677	3-11-61-1	7129132887565516	Gawwada	gaww1239	to lend	LEND	582		pasan	pasan 
+678	3-11-62-1	712913258754561	Gawwada	gaww1239	to borrow	BORROW	1823		pattaraɗ	pattaraɗ 
+679	3-11-69-1	712913272553578	Gawwada	gaww1239	the tax	TAX	873		k’arat’t’o	k’arat’t’o 
+680	3-11-78-1	7129132723594513	Gawwada	gaww1239	the wages	WAGES	1122		hayye	hayye 
+681	3-11-81-1	7129132124110770	Gawwada	gaww1239	to buy	BUY	1869		pitam	pitam 
+682	3-11-82-1	7129132563092469	Gawwada	gaww1239	to sell	SELL	1571		las	las 
+683	3-11-83-1	7129132134293346	Gawwada	gaww1239	to trade or barter	TRADE OR BARTER	2135		ʔooh	ʔooh 
+684	3-11-85-1	7129132674187451	Gawwada	gaww1239	the market	MARKET	633		moore	moore 
+685	3-11-87-1	7129132797952444	Gawwada	gaww1239	the price	PRICE	657		waaka	waaka 
+686	3-11-88-1	7129132876606645	Gawwada	gaww1239	expensive	EXPENSIVE	1426		pirraɗɗe ɗamma	pirraɗɗe ɗamma 
+687	3-11-89-1	7129132397249654	Gawwada	gaww1239	cheap	CHEAP	1887		k’aca	k’aca 
+688	3-11-91-1	7129132641253474	Gawwada	gaww1239	to share	SHARE	884		qoot	qoot 
+689	3-11-92-1	712913216656498	Gawwada	gaww1239	to weigh	WEIGH	1098		killi	killi 
+690	3-12-01-1	7129132721471886	Gawwada	gaww1239	after	AFTER	1685		tuupe=tta	tuupe=tta 
+691	3-12-011-1	7129132233878853	Gawwada	gaww1239	behind	BEHIND	1686		kala	kala 
+692	3-12-02-1	7129132641615517	Gawwada	gaww1239	beside	BESIDE	1816		kapa	kapa 
+693	3-12-03-1	7129132233878853	Gawwada	gaww1239	down	DOWN	1326		kala	kala 
+694	3-12-04-1	7129132226421053	Gawwada	gaww1239	before	BEFORE	1882		miinatte	miinatte 
+695	3-12-041-1	7129132226421053	Gawwada	gaww1239	in front of	IN FRONT OF	1883		miinatte	miinatte 
+696	3-12-05-1	7129132336260526	Gawwada	gaww1239	inside	INSIDE	1606		kittatte	kittatte 
+697	3-12-06-1	7129132611311885	Gawwada	gaww1239	outside	OUTSIDE	762		ɠintatte	ɠintatte 
+698	3-12-07-1	7129132233878853	Gawwada	gaww1239	under	BELOW OR UNDER	1485		kala	kala 
+699	3-12-08-1	7129132436555480	Gawwada	gaww1239	up	UP	1591		kuta	kuta 
+700	3-12-11-1	7129132571845395	Gawwada	gaww1239	the place	PLACE (POSITION)	723		hayto	hayto 
+701	3-12-12-1	7129132192187947	Gawwada	gaww1239	to put	PUT	998		hawwaɗ	hawwaɗ 
+702	3-12-13-1	7129132490043562	Gawwada	gaww1239	to sit	SIT	1416		ʕakkaɗ	ʕakkaɗ 
+703	3-12-14-1	7129132814659663	Gawwada	gaww1239	to lie down	LIE DOWN	215		raf	raf 
+704	3-12-15-1	7129132486737606	Gawwada	gaww1239	to stand	STAND	1442		šanni	šanni 
+705	3-12-16-1	7129132967168619	Gawwada	gaww1239	to remain	REMAIN	987		kayya	kayya 
+706	3-12-21-1	7129132644662761	Gawwada	gaww1239	to gather	GATHER	7		holas	holas 
+707	3-12-21-2	76131814171022269	Gawwada	gaww1239	to gather	GATHER	7		poħ	poħ 
+708	3-12-212-1	7129132547745047	Gawwada	gaww1239	to pick up	PICK UP	371		sooʕa	sooʕa 
+709	3-12-213-1	7129132244613550	Gawwada	gaww1239	to pile up	PILE UP	1576		katees	katees 
+710	3-12-22-1	712913269972743	Gawwada	gaww1239	to join	JOIN	1743		ɗaɠɠap	ɗaɠɠap 
+711	3-12-23-1	712913230183608	Gawwada	gaww1239	to separate	SEPARATE	1359		ʔille na=sooʕa	ʔille na=sooʕa 
+712	3-12-232-1	712913230183608	Gawwada	gaww1239	to divide	DIVIDE	1119		ʔille na=sooʕa	ʔille na=sooʕa 
+713	3-12-24-1	7129132452962090	Gawwada	gaww1239	to open	OPEN	1156		qaaš	qaaš 
+714	3-12-25-1	7129132711583193	Gawwada	gaww1239	to shut	SHUT	1046		qupa	qupa 
+715	3-12-26-1	7129132550941015	Gawwada	gaww1239	to cover	COVER	761		ʔurkuy	ʔurkuy 
+716	3-12-27-1	7129132661696947	Gawwada	gaww1239	to hide	HIDE (CONCEAL)	602		ɓaɗ	ɓaɗ 
+717	3-12-31-1	712913291408322	Gawwada	gaww1239	high	HIGH	1265		sikaapa	sikaapa 
+718	3-12-32-1	7129132205283403	Gawwada	gaww1239	low	LOW	721		mahnaʔa	mahnaʔa 
+719	3-12-33-1	7129132519083710	Gawwada	gaww1239	the top	TOP	1753		qaro	qaro 
+720	3-12-35-1	7129132416751862	Gawwada	gaww1239	the end(1)	END (OF SPACE)	742		ħaamo	ħaamo 
+721	3-12-352-1	7129132894780551	Gawwada	gaww1239	pointed	POINTED	372		ħo t’ulluho	ħo t’ulluho 
+722	3-12-353-1	7129132541587712	Gawwada	gaww1239	the edge	EDGE	863		pokke	pokke 
+723	3-12-36-1	7129132293294751	Gawwada	gaww1239	the side	SIDE	682		karo	karo 
+724	3-12-37-1	7129132696112828	Gawwada	gaww1239	the middle	MIDDLE	1093		kitte	kitte 
+725	3-12-41-1	7129132536787287	Gawwada	gaww1239	right(1)	RIGHT	1019		miskitte	miskitte 
+726	3-12-42-1	7129132817678803	Gawwada	gaww1239	left	LEFT	244		pihatte	pihatte 
+727	3-12-43-1	7129132131354604	Gawwada	gaww1239	near	NEAR	1942		ʔit’a	ʔit’a 
+728	3-12-44-1	712913291408322	Gawwada	gaww1239	far	FAR	1406		sikaapa	sikaapa 
+729	3-12-53-1	7129132965039702	Gawwada	gaww1239	to grow	GROW	479		fuʔ	fuʔ 
+730	3-12-54-1	712913216656498	Gawwada	gaww1239	to measure	MEASURE	1506		killi	killi 
+731	3-12-55-1	7129132393762865	Gawwada	gaww1239	big	BIG	1202		ɗamma	ɗamma 
+732	3-12-56-1	7129132430091128	Gawwada	gaww1239	small	SMALL	1246		takkaya	takkaya 
+733	3-12-57-1	712913291408322	Gawwada	gaww1239	long	LONG	1203		sikaapa	sikaapa 
+734	3-12-58-1	712913291408322	Gawwada	gaww1239	tall	TALL	711		sikaapa	sikaapa 
+735	3-12-59-1	7129132205283403	Gawwada	gaww1239	short	SHORT	1645		mahnaʔa	mahnaʔa 
+736	3-12-61-1	7129132129976829	Gawwada	gaww1239	wide	WIDE	1243		kartanna	kartanna 
+737	3-12-62-1	7129132265684621	Gawwada	gaww1239	narrow	NARROW	1267		tikkaya	tikkaya 
+738	3-12-63-1	7129132129976829	Gawwada	gaww1239	thick	THICK	1244		kartanna	kartanna 
+739	3-12-65-1	7129132499103225	Gawwada	gaww1239	thin	THIN (OF SHAPE OF OBJECT)	2249		haafakko	haafakko 
+740	3-12-67-1	712913291408322	Gawwada	gaww1239	deep	DEEP	1593		sikaapa	sikaapa 
+741	3-12-68-1	7129132205283403	Gawwada	gaww1239	shallow	SHALLOW	193		mahnaʔa	mahnaʔa 
+742	3-12-71-1	7129132695895898	Gawwada	gaww1239	flat	FLAT	1633		leʕakko	leʕakko 
+743	3-12-73-1	7129132607562743	Gawwada	gaww1239	straight	STRAIGHT	1404		keetaya	keetaya 
+744	3-12-74-1	7129132536925332	Gawwada	gaww1239	crooked	CROOKED	297		toonakko	toonakko 
+745	3-12-75-1	7129132151623311	Gawwada	gaww1239	the hook	HOOK	1071		ɠapte	ɠapte 
+746	3-12-76-1	7129132835596625	Gawwada	gaww1239	the corner	CORNER	192		konatte	konatte 
+747	3-12-77-1	7129132885640218	Gawwada	gaww1239	the cross	CROSS	1367		palante	palante 
+748	3-12-81-1	7129132487742758	Gawwada	gaww1239	round	ROUND	1395		ɗaananko	ɗaananko 
+749	3-12-82-1	7129132790789906	Gawwada	gaww1239	the circle	CIRCLE	1467		mulmulho	mulmulho 
+750	3-12-83-1	7129132604666201	Gawwada	gaww1239	the ball	BALL	1845		kase	kase 
+751	3-12-84-1	7129132909223480	Gawwada	gaww1239	the line	LINE	1048		sante	sante 
+752	3-12-85-1	7129132474145480	Gawwada	gaww1239	the hole	HOLE	1667		xoqno	xoqno 
+753	3-12-92-1	7129132693015501	Gawwada	gaww1239	similar	SIMILAR	1558		lik	lik 
+754	3-12-93-1	7129132134293346	Gawwada	gaww1239	to change	CHANGE	1264		ʔooh	ʔooh 
+755	3-13-01-1	7129132509228273	Gawwada	gaww1239	one	ONE	1493		toʔon	toʔon 
+756	3-13-02-1	7129132523778565	Gawwada	gaww1239	two	TWO	1498		lakki	lakki 
+757	3-13-03-1	7129132718465541	Gawwada	gaww1239	three	THREE	492		ʔizzah	ʔizzah 
+758	3-13-04-1	7129132856167768	Gawwada	gaww1239	four	FOUR	1500		salah	salah 
+759	3-13-05-1	7129132822420551	Gawwada	gaww1239	five	FIVE	493		xupin	xupin 
+760	3-13-06-1	7129132744480278	Gawwada	gaww1239	six	SIX	1703		tappi	tappi 
+761	3-13-07-1	7129132685335277	Gawwada	gaww1239	seven	SEVEN	1704		taʔan	taʔan 
+762	3-13-08-1	7129132998585963	Gawwada	gaww1239	eight	EIGHT	1705		setten	setten 
+763	3-13-09-1	7129132351740495	Gawwada	gaww1239	nine	NINE	1483		kollan	kollan 
+764	3-13-1-1	712913231918124	Gawwada	gaww1239	ten	TEN	1515		huɗan	huɗan 
+765	3-13-101-1	7129132309836296	Gawwada	gaww1239	eleven	ELEVEN	1706		huɗɗa=pa toʔon	huɗɗa=pa toʔon 
+766	3-13-102-1	7129132873007483	Gawwada	gaww1239	twelve	TWELVE	1707		huɗɗa=pa lakki	huɗɗa=pa lakki 
+767	3-13-103-1	7129132117673907	Gawwada	gaww1239	fifteen	FIFTEEN	1709		huɗɗa=pa xupin	huɗɗa=pa xupin 
+768	3-13-104-1	7129132874300701	Gawwada	gaww1239	twenty	TWENTY	1710		huɗanko lakke	huɗanko lakke 
+769	3-13-105-1	7129132717314600	Gawwada	gaww1239	a hundred	HUNDRED	1634		ɗippa	ɗippa 
+770	3-13-106-1	7129132973079035	Gawwada	gaww1239	a thousand	THOUSAND	1843		kuma	kuma 
+771	3-13-107-1	7129132182982735	Gawwada	gaww1239	to count	COUNT	1420		ɗiha	ɗiha 
+772	3-13-14-1	71291328996097	Gawwada	gaww1239	all	ALL	98		mulo	mulo 
+773	3-13-15-1	7129132393762865	Gawwada	gaww1239	many	MANY	1198		ɗamma	ɗamma 
+774	3-13-16-1	7129132485158333	Gawwada	gaww1239	more	MORE	1992		=na	=na 
+775	3-13-17-1	7129132430091128	Gawwada	gaww1239	few	FEW	1242		takkaya	takkaya 
+776	3-13-18-1	7129132152019497	Gawwada	gaww1239	enough	ENOUGH	1881		xafa	xafa 
+777	3-13-181-1	7129132430091128	Gawwada	gaww1239	some	SOME	1241		takkaya	takkaya 
+778	3-13-19-1	7129132330634413	Gawwada	gaww1239	the crowd	CROWD	2023		koro	koro 
+779	3-13-21-1	7129132777986814	Gawwada	gaww1239	full	FULL	1429		hoqqaši	hoqqaši 
+780	3-13-22-1	7129132851431219	Gawwada	gaww1239	empty	EMPTY	1624		xeneʕe	xeneʕe 
+781	3-13-23-1	7129132868007082	Gawwada	gaww1239	the part	PART	779		qootto	qootto 
+782	3-13-24-1	7129132288703254	Gawwada	gaww1239	the half	HALF	816		qooqootto	qooqootto 
+783	3-13-33-1	7129132281459847	Gawwada	gaww1239	only	ONLY	1580		naʔa	naʔa 
+784	3-13-34-1	7129132881790565	Gawwada	gaww1239	first	FIRST	728		toʔontoy	toʔontoy 
+785	3-13-35-1	7129132174457186	Gawwada	gaww1239	last	LAST (FINAL)	1529		keet	keet 
+786	3-13-36-1	7129132785734737	Gawwada	gaww1239	second	SECOND	1384		lankay	lankay 
+787	3-13-37-1	7129132523778565	Gawwada	gaww1239	the pair	PAIR	1888		lakki	lakki 
+788	3-13-38-1	712913221040231	Gawwada	gaww1239	twice/two times	TWICE	1546		lakke lakke	lakke lakke 
+789	3-13-42-1	7129132722195833	Gawwada	gaww1239	third	THIRD	1859		ʔishay	ʔishay 
+790	3-13-44-1	7129132735953361	Gawwada	gaww1239	three times	THREE TIMES	417		ʔizzah ʔizzah	ʔizzah ʔizzah 
+791	3-14-11-1	7129132514928283	Gawwada	gaww1239	the time	TIME	892		kize	kize 
+792	3-14-12-1	7129132514928283	Gawwada	gaww1239	the age	AGE	1789		kize	kize 
+793	3-14-13-1	7129132220845094	Gawwada	gaww1239	new	NEW	1231		qawtitto	qawtitto 
+794	3-14-14-1	7129132430091128	Gawwada	gaww1239	young	YOUNG	1207		takkaya	takkaya 
+795	3-14-15-1	7129132673377619	Gawwada	gaww1239	old	OLD	1229		keešakko	keešakko 
+796	3-14-16-1	7129132543518020	Gawwada	gaww1239	early	EARLY	672		qaritte=ma	qaritte=ma 
+797	3-14-17-1	7129132121691251	Gawwada	gaww1239	late	LATE	477		tuupe=ma	tuupe=ma 
+798	3-14-18-1	7129132422315979	Gawwada	gaww1239	now	NOW	1376		hantu	hantu 
+799	3-14-19-1	7129132604697395	Gawwada	gaww1239	immediately	IMMEDIATELY	1963		hantu hantu	hantu hantu 
+800	3-14-21-1	712913229907255	Gawwada	gaww1239	fast	FAST	1631		waaɗ	waaɗ 
+801	3-14-22-1	7129132246962446	Gawwada	gaww1239	slow	SLOW	701		lokko	lokko 
+802	3-14-23-1	712913229907255	Gawwada	gaww1239	to hurry	HURRY	754		waaɗ	waaɗ 
+803	3-14-24-1	7129132174457186	Gawwada	gaww1239	to be late	BE LATE	425		keet	keet 
+804	3-14-25-1	7129132477099556	Gawwada	gaww1239	to begin	BEGIN	1806		paayyi	paayyi 
+805	3-14-252-1	7129132703592733	Gawwada	gaww1239	to last	LAST (ENDURE)	1186		ʔolat	ʔolat 
+806	3-14-26-1	7129132550772443	Gawwada	gaww1239	the end(2)	END (OF TIME)	743		humto	humto 
+807	3-14-27-1	7129132194421656	Gawwada	gaww1239	to finish	FINISH	1766		poɠɠi	poɠɠi 
+808	3-14-28-1	7129132914270182	Gawwada	gaww1239	to cease	CEASE	1928		šikkaar	šikkaar 
+809	3-14-29-1	7129132124347718	Gawwada	gaww1239	ready	READY	790		kartam	kartam 
+810	3-14-31-1	7129132337901475	Gawwada	gaww1239	always	ALWAYS	1676		kuyaʕko kaʕasay	kuyaʕko kaʕasay 
+811	3-14-32-1	7129132337901475	Gawwada	gaww1239	often	OFTEN	1852		kuyaʕko kaʕasay	kuyaʕko kaʕasay 
+812	3-14-33-1	7129132241906329	Gawwada	gaww1239	sometimes	SOMETIMES	1544		kuyaʕko toʔokko toʔokko	kuyaʕko toʔokko toʔokko 
+813	3-14-331-1	7129132604697395	Gawwada	gaww1239	soon	SOON	703		hantu hantu	hantu hantu 
+814	3-14-34-1	7129132549708412	Gawwada	gaww1239	never	NEVER	1656		ʔapar	ʔapar 
+815	3-14-41-1	7129132983017651	Gawwada	gaww1239	the day(1)	DAY (24 HOURS)	1260		kuyaʕko	kuyaʕko 
+816	3-14-42-1	7129132437112907	Gawwada	gaww1239	the night	NIGHT	1233		ʔawne	ʔawne 
+817	3-14-43-1	7129132995762169	Gawwada	gaww1239	the dawn	DAWN	729		sinkatte	sinkatte 
+818	3-14-44-1	7129132855331064	Gawwada	gaww1239	the morning	MORNING	1339		kuyaʕte	kuyaʕte 
+819	3-14-45-1	7129132637714333	Gawwada	gaww1239	the midday	MIDDAY	12		ʔoqaaye xoosti	ʔoqaaye xoosti 
+820	3-14-451-1	7129132406048339	Gawwada	gaww1239	the afternoon	AFTERNOON	1807		kallapte	kallapte 
+821	3-14-46-1	7129132679450464	Gawwada	gaww1239	the evening	EVENING	1629		qayanko	qayanko 
+822	3-14-47-1	7129132947366268	Gawwada	gaww1239	today	TODAY	1283		kuyyu	kuyyu 
+823	3-14-48-1	7129132309569893	Gawwada	gaww1239	tomorrow	TOMORROW	1329		qayna	qayna 
+824	3-14-481-1	7129132350899061	Gawwada	gaww1239	the day after tomorrow	DAY AFTER TOMORROW	1179		qamma	qamma 
+825	3-14-49-1	7129132993300598	Gawwada	gaww1239	yesterday	YESTERDAY	1174		keeray	keeray 
+826	3-14-491-1	7129132527176096	Gawwada	gaww1239	the day before yesterday	DAY BEFORE YESTERDAY	1180		ʔinɗeera	ʔinɗeera 
+827	3-14-51-1	7129132421456590	Gawwada	gaww1239	the hour	HOUR	1353		saʔate	saʔate 
+828	3-14-53-1	7129132421456590	Gawwada	gaww1239	the clock	CLOCK	1323		saʔate	saʔate 
+829	3-14-61-1	7129132918980374	Gawwada	gaww1239	the week	WEEK	1469		torpa	torpa 
+830	3-14-62-1	7129132372862614	Gawwada	gaww1239	Sunday	SUNDAY	1699		sampata	sampata 
+831	3-14-63-1	7129132750634154	Gawwada	gaww1239	Monday	MONDAY	1697		moore ʕale	moore ʕale 
+832	3-14-64-1	7129132830449078	Gawwada	gaww1239	Tuesday	TUESDAY	1695		kaalo	kaalo 
+833	3-14-65-1	7129132437482297	Gawwada	gaww1239	Wednesday	WEDNESDAY	1694		kaalo=na ʕila haʕini	kaalo=na ʕila haʕini 
+834	3-14-66-1	7129132737365513	Gawwada	gaww1239	Thursday	THURSDAY	1693		moore takkaɗay	moore takkaɗay 
+835	3-14-67-1	7129132453290293	Gawwada	gaww1239	Friday	FRIDAY	1692		k’ummasa	k’ummasa 
+836	3-14-68-1	7129132953924458	Gawwada	gaww1239	Saturday	SATURDAY	1700		kullite	kullite 
+837	3-14-71-1	7129132704959852	Gawwada	gaww1239	the month	MONTH	1370		leʕʕo	leʕʕo 
+838	3-14-73-1	7129132807986370	Gawwada	gaww1239	the year	YEAR	1226		peerko	peerko 
+839	3-14-74-1	7129132206319694	Gawwada	gaww1239	the winter	WINTER	1471		maasallo	maasallo 
+840	3-14-75-1	7129132767160366	Gawwada	gaww1239	the spring(2)	SPRINGTIME	1537		qayanɠayo	qayanɠayo 
+841	3-14-76-1	7129132270339723	Gawwada	gaww1239	the summer	SUMMER	1342		ʔooypa	ʔooypa 
+842	3-14-77-1	7129132364920754	Gawwada	gaww1239	the autumn/fall	AUTUMN	1276		pusullo	pusullo 
+843	3-15-21-1	712913291691843	Gawwada	gaww1239	to smell(1)	SMELL (STINK)	1587		ʔošoʕ	ʔošoʕ 
+844	3-15-212-1	7129132101131967	Gawwada	gaww1239	to sniff	SNIFF	375		ʔošoʕsaɗ	ʔošoʕsaɗ 
+845	3-15-22-1	7129132101131967	Gawwada	gaww1239	to smell(2)	SMELL (PERCEIVE)	1586		ʔošoʕsaɗ	ʔošoʕsaɗ 
+846	3-15-25-1	712913288222243	Gawwada	gaww1239	fragrant	FRAGRANT	376		ʔošoʕa	ʔošoʕa 
+847	3-15-26-1	712913219427126	Gawwada	gaww1239	stinking	STINKING	42		xinawa	xinawa 
+848	3-15-31-1	7129132201101690	Gawwada	gaww1239	to taste	TASTE (SOMETHING)	21		peerri	peerri 
+849	3-15-35-1	7129132340584625	Gawwada	gaww1239	sweet	SWEET	717		soor	soor 
+850	3-15-36-1	7129132915623409	Gawwada	gaww1239	salty	SALTY	1091		soqo ɗamma ʔí=ʕaka	soqo ɗamma ʔí=ʕaka 
+851	3-15-37-1	7129132497519215	Gawwada	gaww1239	bitter	BITTER	887		raʕa	raʕa 
+852	3-15-38-1	7129132696212665	Gawwada	gaww1239	sour	SOUR	1906		makaša	makaša 
+853	3-15-41-1	7129132551789520	Gawwada	gaww1239	to hear	HEAR	1408		ʔapaq	ʔapaq 
+854	3-15-42-1	7129132551789520	Gawwada	gaww1239	to listen	LISTEN	1608		ʔapaq	ʔapaq 
+855	3-15-44-1	7129132816118883	Gawwada	gaww1239	the sound or noise	SOUND OR NOISE	1811		ʕuuɠto	ʕuuɠto 
+856	3-15-45-1	7129132159349449	Gawwada	gaww1239	loud	LOUD	377		riire=tta	riire=tta 
+857	3-15-46-1	7129132246962446	Gawwada	gaww1239	quiet	QUIET	1314		lokko	lokko 
+858	3-15-51-1	7129132557109603	Gawwada	gaww1239	to see	SEE	1409		hiʔ	hiʔ 
+859	3-15-52-1	7129132447005578	Gawwada	gaww1239	to look	LOOK	1819		ʔeema	ʔeema 
+860	3-15-55-1	7129132963976162	Gawwada	gaww1239	to show	SHOW	1039		hiʔas	hiʔas 
+861	3-15-56-1	7129132384962958	Gawwada	gaww1239	to shine	SHINE	708		xoos	xoos 
+862	3-15-57-1	7129132393080277	Gawwada	gaww1239	bright	BRIGHT	679		hammakko	hammakko 
+863	3-15-61-1	7129132820492661	Gawwada	gaww1239	the colour/color	COLOR	1613		k’alame (1)	k’alame (1) 
+864	3-15-62-1	7129132393080277	Gawwada	gaww1239	light(2)	LIGHT (COLOR)	250		hammakko	hammakko 
+865	3-15-63-1	7129132583541102	Gawwada	gaww1239	dark	DARK	706		tukana	tukana 
+866	3-15-64-1	7129132369032040	Gawwada	gaww1239	white	WHITE	1335		piʕa	piʕa 
+867	3-15-65-1	7129132335463659	Gawwada	gaww1239	black	BLACK	163		kuma (2)	kuma (2) 
+868	3-15-66-1	7129132440981236	Gawwada	gaww1239	red	RED	156		ʔiɗɗa	ʔiɗɗa 
+869	3-15-67-1	7129132697976991	Gawwada	gaww1239	blue	BLUE	837		muunt’o	muunt’o 
+870	3-15-68-1	7129132485487013	Gawwada	gaww1239	green	GREEN	1425		lahha	lahha 
+871	3-15-69-1	7129132822208141	Gawwada	gaww1239	yellow	YELLOW	1424		ʔoypatto	ʔoypatto 
+872	3-15-71-1	7129132201101690	Gawwada	gaww1239	to touch	TOUCH	1892		peerri	peerri 
+873	3-15-712-1	7129132866983042	Gawwada	gaww1239	to pinch	PINCH	378		kupis	kupis 
+874	3-15-72-1	7129132201101690	Gawwada	gaww1239	to feel	FEEL	1079		peerri	peerri 
+875	3-15-74-1	7129132550844199	Gawwada	gaww1239	hard	HARD	1884		xaha	xaha 
+876	3-15-75-1	7129132320879236	Gawwada	gaww1239	soft	SOFT	1856		šallala	šallala 
+877	3-15-76-1	7129132391801528	Gawwada	gaww1239	rough(1)	ROUGH	1923		hašaša	hašaša 
+878	3-15-77-1	7129132709981705	Gawwada	gaww1239	smooth	SMOOTH	1234		mut’urt’ura	mut’urt’ura 
+879	3-15-78-1	7129132798853491	Gawwada	gaww1239	sharp	SHARP	1396		foola	foola 
+880	3-15-79-1	7129132651753776	Gawwada	gaww1239	blunt	BLUNT	379		ye=leefamú	ye=leefamú 
+881	3-15-81-1	7129132221523042	Gawwada	gaww1239	heavy	HEAVY	1210		reʕiša	reʕiša 
+882	3-15-82-1	7129132499103225	Gawwada	gaww1239	light(1)	LIGHT (WEIGHT)	1052		haafakko	haafakko 
+883	3-15-83-1	7129132610104605	Gawwada	gaww1239	wet	WET	1726		k’apa	k’apa 
+884	3-15-84-1	7129132550844199	Gawwada	gaww1239	dry	DRY	1398		xaha	xaha 
+885	3-15-85-1	7129132798853491	Gawwada	gaww1239	hot	HOT	1286		foola	foola 
+886	3-15-86-1	7129132225876400	Gawwada	gaww1239	cold	COLD	1287		šalal	šalal 
+887	3-15-88-1	7129132998357674	Gawwada	gaww1239	dirty	DIRTY	1230		ʔoskakkolakko	ʔoskakkolakko 
+888	3-16-11-1	712913292113583	Gawwada	gaww1239	the soul or spirit	SOUL	811		nasso	nasso 
+889	3-16-15-1	7129132662508186	Gawwada	gaww1239	surprised or astonished	SURPRISED	1572		muruk	muruk 
+890	3-16-18-1	7129132392663509	Gawwada	gaww1239	the good luck	GOOD LUCK	720		ʔitile	ʔitile 
+891	3-16-19-1	7129132587337432	Gawwada	gaww1239	the bad luck	BAD LUCK	56		ʔitile makitte	ʔitile makitte 
+892	3-16-23-1	7129132734890266	Gawwada	gaww1239	happy	HAPPY	1495		xasooɗ	xasooɗ 
+893	3-16-25-1	7129132272986960	Gawwada	gaww1239	to laugh	LAUGH	1355		kiššaʕ	kiššaʕ 
+894	3-16-251-1	7129132272986960	Gawwada	gaww1239	to smile	SMILE	1451		kiššaʕ	kiššaʕ 
+895	3-16-26-1	7129132588009332	Gawwada	gaww1239	to play	PLAY	1413		hikka	hikka 
+896	3-16-27-1	7129132966259877	Gawwada	gaww1239	to love	LOVE	923		cikaɗ	cikaɗ 
+897	3-16-29-1	712913274731024	Gawwada	gaww1239	to kiss	KISS	578		mayyi	mayyi 
+898	3-16-3-1	7129132962069904	Gawwada	gaww1239	to embrace	EMBRACE	928		ʔikaaš	ʔikaaš 
+899	3-16-31-1	7129132685616979	Gawwada	gaww1239	the pain	PAIN	1783		kilo	kilo 
+900	3-16-32-1	7129132491604449	Gawwada	gaww1239	the grief	GRIEF	1668		ʔooyatto	ʔooyatto 
+901	3-16-34-1	7129132136004066	Gawwada	gaww1239	to regret or be sorry	REGRET	1875		kit	kit 
+902	3-16-37-1	7129132130863716	Gawwada	gaww1239	to cry	CRY	1839		ʔooy	ʔooy 
+903	3-16-38-1	7129132529796824	Gawwada	gaww1239	the tear	TEAR (OF EYE)	1651		ʔilmaame	ʔilmaame 
+904	3-16-39-1	7129132130863716	Gawwada	gaww1239	to groan	GROAN	716		ʔooy	ʔooy 
+905	3-16-41-1	7129132724718517	Gawwada	gaww1239	to hate	HATE	1607		šikki	šikki 
+906	3-16-42-1	712913264726898	Gawwada	gaww1239	the anger	ANGER	82		miira	miira 
+907	3-16-45-1	712913274135286	Gawwada	gaww1239	the shame	SHAME	1776		ʔafrite	ʔafrite 
+908	3-16-48-1	7129132970527399	Gawwada	gaww1239	proud	PROUD	174		maɠakko	maɠakko 
+909	3-16-52-1	7129132493976331	Gawwada	gaww1239	brave	BRAVE	3		karmitto	karmitto 
+910	3-16-53-1	7129132189026527	Gawwada	gaww1239	the fear	FEAR (FRIGHT)	781		ɠaapko	ɠaapko 
+911	3-16-54-1	712913260138591	Gawwada	gaww1239	the danger	DANGER	1810		rakko	rakko 
+912	3-16-62-1	7129132519547144	Gawwada	gaww1239	to want	WANT	1784		woʔ	woʔ 
+913	3-16-622-1	7129132154318085	Gawwada	gaww1239	to choose	CHOOSE	1750		woʔaɗ	woʔaɗ 
+914	3-16-63-1	7129132450056985	Gawwada	gaww1239	to hope	HOPE (SOMETHING)	3212		xot’aɗ	xot’aɗ 
+915	3-16-66-1	7129132327930200	Gawwada	gaww1239	true	TRUE	1657		ɗuka	ɗuka 
+916	3-16-67-1	7129132716571883	Gawwada	gaww1239	to lie(2)	LIE (MISLEAD)	601		ʔayya šeek	ʔayya šeek 
+917	3-16-71-1	7129132325153536	Gawwada	gaww1239	good	GOOD	1035		heet’a	heet’a 
+918	3-16-72-1	7129132357317131	Gawwada	gaww1239	bad	BAD	1292		makakko	makakko 
+919	3-16-73-1	712913230693288	Gawwada	gaww1239	right(2)	CORRECT (RIGHT)	1725		kitaaha	kitaaha 
+920	3-16-74-1	7129132162884721	Gawwada	gaww1239	wrong	WRONG	1390		takkama	takkama 
+921	3-16-77-1	7129132332026932	Gawwada	gaww1239	the mistake	MISTAKE	1293		paahanko	paahanko 
+922	3-16-81-1	7129132325153536	Gawwada	gaww1239	beautiful	BEAUTIFUL	1427		heet’a	heet’a 
+923	3-16-82-1	7129132501414354	Gawwada	gaww1239	ugly	UGLY	1548		cimmanakko	cimmanakko 
+924	3-16-84-1	7129132174959981	Gawwada	gaww1239	clever	CLEVER	1310		ʔarampakko	ʔarampakko 
+925	3-17-11-1	7129132410449506	Gawwada	gaww1239	the mind	MIND	1562		nono	nono 
+926	3-17-13-1	7129132530825048	Gawwada	gaww1239	to think(1)	THINK (REFLECT)	1415		ʔasaap	ʔasaap 
+927	3-17-14-1	7129132530825048	Gawwada	gaww1239	to think(2)	THINK (BELIEVE)	1513		ʔasaap	ʔasaap 
+928	3-17-15-1	7129132985383172	Gawwada	gaww1239	to believe	BELIEVE	1890		ʔamman	ʔamman 
+929	3-17-16-1	7129132707985667	Gawwada	gaww1239	to understand	UNDERSTAND	1536		ye huli	ye huli 
+930	3-17-17-1	7129132658453613	Gawwada	gaww1239	to know	KNOW (SOMETHING)	1410		ʔara	ʔara 
+931	3-17-172-1	7129132848376600	Gawwada	gaww1239	to imitate	IMITATE	117		likas	likas 
+932	3-17-18-1	7129132783716163	Gawwada	gaww1239	to seem	SEEM	1521		lik (2)	lik (2) 
+933	3-17-19-1	7129132320399874	Gawwada	gaww1239	the idea	IDEA	1609		ʔasaappo	ʔasaappo 
+934	3-17-21-1	7129132174959981	Gawwada	gaww1239	wise	WISE	698		ʔarampakko	ʔarampakko 
+935	3-17-22-1	7129132485735156	Gawwada	gaww1239	stupid	STUPID	1518		mooɲɲe	mooɲɲe 
+936	3-17-23-1	7129132173114992	Gawwada	gaww1239	mad	MAD	1899		saarakko	saarakko 
+937	3-17-24-1	7129132787130714	Gawwada	gaww1239	to learn	LEARN	504		kollaɗ	kollaɗ 
+938	3-17-242-1	7129132898648059	Gawwada	gaww1239	to study	STUDY	1929		tamar	tamar 
+939	3-17-25-1	7129132179853128	Gawwada	gaww1239	to teach	TEACH	709		kollis	kollis 
+940	3-17-26-1	7129132602540696	Gawwada	gaww1239	the pupil	PUPIL (STUDENT)	753		tamaritto	tamaritto 
+941	3-17-27-1	7129132537844041	Gawwada	gaww1239	the teacher	TEACHER	1038		ʔastamaritto	ʔastamaritto 
+942	3-17-28-1	7129132673410082	Gawwada	gaww1239	the school	SCHOOL	673		minne tamaratte	minne tamaratte 
+943	3-17-32-1	712913272244961	Gawwada	gaww1239	to forget	FORGET	1523		taymooɗ	taymooɗ 
+944	3-17-36-1	7129132354232049	Gawwada	gaww1239	secret	SECRET	1121		mat’irre	mat’irre 
+945	3-17-37-1	7129132480990184	Gawwada	gaww1239	certain	CERTAIN	509		ɗukata	ɗukata 
+946	3-17-38-1	7129132610696447	Gawwada	gaww1239	to explain	EXPLAIN	1626		ʔaras	ʔaras 
+947	3-17-42-1	7129132935383541	Gawwada	gaww1239	the cause	CAUSE	860		mekinnate	mekinnate 
+948	3-17-44-1	7129132656414956	Gawwada	gaww1239	to suspect	SUSPECT	1841		t’arat’t’ar	t’arat’t’ar 
+949	3-17-441-1	712913263020831	Gawwada	gaww1239	to betray	BETRAY	1902		kaat	kaat 
+950	3-17-46-1	7129132773557851	Gawwada	gaww1239	easy	EASY	686		ʔí=huli	ʔí=huli 
+951	3-17-47-1	712913260138591	Gawwada	gaww1239	difficult	DIFFICULT	584		rakko	rakko 
+952	3-17-48-1	7129132800453998	Gawwada	gaww1239	to try	TRY	1812		teemmi	teemmi 
+953	3-17-49-1	7129132107448686	Gawwada	gaww1239	the manner	MANNER	488		mala	mala 
+954	3-17-51-1	712913235570421	Gawwada	gaww1239	and	AND	1577		=pa	=pa 
+955	3-17-52-1	7129132935383541	Gawwada	gaww1239	because	BECAUSE	1157		mekinnate	mekinnate 
+956	3-17-53-1	7129132476865411	Gawwada	gaww1239	if	IF	1459		payni	payni 
+957	3-17-54-1	7129132152387116	Gawwada	gaww1239	or	OR	1014		=(i)m	=(i)m 
+958	3-17-55-1	7129132325147186	Gawwada	gaww1239	yes	YES	1268		ʔee	ʔee 
+959	3-17-56-1	7129132740340996	Gawwada	gaww1239	no	NO	1269		haay	haay 
+960	3-17-56-2	76131836206677436	Gawwada	gaww1239	no	NO	1269		ʔaʔa	ʔaʔa 
+961	3-17-61-1	7129132107448686	Gawwada	gaww1239	how?	HOW	1239		mala	mala 
+962	3-17-62-1	7129132544301804	Gawwada	gaww1239	how many?	HOW MANY	822		meʔ	meʔ 
+963	3-17-63-1	7129132544301804	Gawwada	gaww1239	how much?	HOW MUCH	531		meʔ	meʔ 
+964	3-17-64-1	7129132530106230	Gawwada	gaww1239	what?	WHAT	1236		moʔo	moʔo 
+965	3-17-65-1	7129132752634834	Gawwada	gaww1239	when?	WHEN	1238		para	para 
+966	3-17-66-1	7129132729561490	Gawwada	gaww1239	where?	WHERE	1237		ʔaxa	ʔaxa 
+967	3-17-67-1	7129132566722904	Gawwada	gaww1239	which?	WHICH	727		hunka	hunka 
+968	3-17-68-1	7129132670683151	Gawwada	gaww1239	who?	WHO	1235		yaha	yaha 
+969	3-17-69-1	7129132366919719	Gawwada	gaww1239	why?	WHY	1270		moʔo=nu	moʔo=nu 
+970	3-18-11-1	712913238038129	Gawwada	gaww1239	the voice	VOICE	1363		torre	torre 
+971	3-18-12-1	7129132176878627	Gawwada	gaww1239	to sing	SING	1261		qaallaɗ	qaallaɗ 
+972	3-18-13-1	7129132465646537	Gawwada	gaww1239	to shout	SHOUT	715		riir	riir 
+973	3-18-15-1	7129132135239550	Gawwada	gaww1239	to whisper	WHISPER	55		háš pay	háš pay 
+974	3-18-16-1	7129132237237141	Gawwada	gaww1239	to mumble	MUMBLE	128		qurqur	qurqur 
+975	3-18-17-1	712913257063376	Gawwada	gaww1239	to whistle	WHISTLE	1025		šuutees	šuutees 
+976	3-18-18-1	7129132465646537	Gawwada	gaww1239	to shriek	SHRIEK	298		riir	riir 
+977	3-18-19-1	7129132870660208	Gawwada	gaww1239	to howl	HOWL	526		ʕuuk	ʕuuk 
+978	3-18-21-1	7129132874624349	Gawwada	gaww1239	to speak or talk	SPEAK	1623		ʕallaɗ	ʕallaɗ 
+979	3-18-211-1	7129132147911105	Gawwada	gaww1239	to stutter or stammer	STUTTER	1866		tataʔ	tataʔ 
+980	3-18-22-1	7129132970434209	Gawwada	gaww1239	to say	SAY	1458		pay	pay 
+981	3-18-221-1	7129132577185970	Gawwada	gaww1239	to tell	TELL	1711		haaš	haaš 
+982	3-18-222-1	712913238038129	Gawwada	gaww1239	the speech	SPEECH	1115		torre	torre 
+983	3-18-23-1	7129132224252270	Gawwada	gaww1239	to be silent	BE SILENT	48		k’ám pay	k’ám pay 
+984	3-18-24-1	7129132950877508	Gawwada	gaww1239	the language	LANGUAGE	1307		pako	pako 
+985	3-18-28-1	7129132275218180	Gawwada	gaww1239	the name	NAME	1405		makahko	makahko 
+986	3-18-31-1	7129132628894379	Gawwada	gaww1239	to ask(1)	ASK (INQUIRE)	1309		kassaɗ	kassaɗ 
+987	3-18-32-1	7129132644662761	Gawwada	gaww1239	to answer	ANSWER	1275		holas	holas 
+988	3-18-34-1	712913250433013	Gawwada	gaww1239	to deny	DENY	755		kelli	kelli 
+989	3-18-35-1	7129132495579755	Gawwada	gaww1239	to ask(2)	ASK (REQUEST)	1828		waataɗ	waataɗ 
+990	3-18-36-1	7129132913387766	Gawwada	gaww1239	to promise	PROMISE	1675		pako teeh	pako teeh 
+991	3-18-37-1	7129132204717058	Gawwada	gaww1239	to refuse	REFUSE	49		ʔiiša	ʔiiša 
+992	3-18-38-1	7129132967460479	Gawwada	gaww1239	to forbid	FORBID	83		ɗawri	ɗawri 
+993	3-18-41-1	7129132119847989	Gawwada	gaww1239	to call(1)	CALL	1084		ʔooʕ	ʔooʕ 
+994	3-18-42-1	7129132761782842	Gawwada	gaww1239	to call(2)	CALL BY NAME	180		makahko teeh	makahko teeh 
+995	3-18-43-1	7129132748122392	Gawwada	gaww1239	to announce	ANNOUNCE	9		saaluy	saaluy 
+996	3-18-44-1	7129132106003913	Gawwada	gaww1239	to threaten	THREATEN	1192		ɠaapis	ɠaapis 
+997	3-18-45-1	7129132745871704	Gawwada	gaww1239	to boast	BOAST	101		haʕampakko	haʕampakko 
+998	3-18-51-1	7129132554181337	Gawwada	gaww1239	to write	WRITE	1672		t’af	t’af 
+999	3-18-52-1	7129132892562696	Gawwada	gaww1239	to read	READ	724		nipaap	nipaap 
+1000	3-18-56-1	7129132957405802	Gawwada	gaww1239	the paper	PAPER	648		wark’ate	wark’ate 
+1001	3-18-57-1	7129132950675026	Gawwada	gaww1239	the pen	PEN	794		k’alame (2)	k’alame (2) 
+1002	3-18-61-1	7129132723397428	Gawwada	gaww1239	the book	BOOK	963		mat’afa	mat’afa 
+1003	3-18-71-1	7129132119843930	Gawwada	gaww1239	the flute	FLUTE	777		ʔipaare	ʔipaare 
+1004	3-18-72-1	7129132305193129	Gawwada	gaww1239	the drum	DRUM	908		timpo	timpo 
+1005	3-18-73-1	712913295033667	Gawwada	gaww1239	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		šupale	šupale 
+1006	3-19-11-1	7129132599530969	Gawwada	gaww1239	the country	COUNTRY	1300		piye	piye 
+1007	3-19-16-1	7129132370459363	Gawwada	gaww1239	the village	VILLAGE	930		mantara	mantara 
+1008	3-19-17-1	7129132416751862	Gawwada	gaww1239	the boundary	BOUNDARY	1010		ħaamo	ħaamo 
+1009	3-19-21-1	7129132330634413	Gawwada	gaww1239	the people	PEOPLE	789		koro	koro 
+1010	3-19-23-1	7129132114533553	Gawwada	gaww1239	the clan	CLAN	302		koosa	koosa 
+1011	3-19-24-1	7129132939668717	Gawwada	gaww1239	the chieftain	CHIEFTAIN	301		pokolho	pokolho 
+1012	3-19-25-1	7129132933632471	Gawwada	gaww1239	the walking stick	WALKING STICK	1296		tollakko	tollakko 
+1013	3-19-42-1	7129132263436755	Gawwada	gaww1239	the slave	SLAVE	812		maasakko	maasakko 
+1014	3-19-43-1	7129132438599761	Gawwada	gaww1239	the servant	SERVANT	255		hule	hule 
+1015	3-19-45-1	7129132516880101	Gawwada	gaww1239	to command or order	ORDER	1128		ʔasas	ʔasas 
+1016	3-19-46-1	7129132236613339	Gawwada	gaww1239	to obey	OBEY	1635		ʔasasam	ʔasasam 
+1017	3-19-47-1	7129132811992626	Gawwada	gaww1239	to permit	PERMIT	1003		fak’k’aɗ	fak’k’aɗ 
+1018	3-19-51-1	7129132683045815	Gawwada	gaww1239	the friend	FRIEND	1325		peelho	peelho 
+1019	3-19-52-1	712913278115657	Gawwada	gaww1239	the enemy	ENEMY	1358		t’alaata	t’alaata 
+1020	3-19-54-1	7129132702809179	Gawwada	gaww1239	the neighbour	NEIGHBOUR	1332		kanta	kanta 
+1021	3-19-55-1	7129132249577467	Gawwada	gaww1239	the stranger	STRANGER	791		hayho	hayho 
+1022	3-19-56-1	7129132249577467	Gawwada	gaww1239	the guest	GUEST	1782		hayho	hayho 
+1023	3-19-58-1	7129132234961176	Gawwada	gaww1239	to help	HELP	1897		k’ark’ar	k’ark’ar 
+1024	3-19-59-1	7129132145606961	Gawwada	gaww1239	to prevent	PREVENT	1550		kaʔees	kaʔees 
+1025	3-19-62-1	7129132409173176	Gawwada	gaww1239	the quarrel	QUARREL	1848		paahakko	paahakko 
+1026	3-19-65-1	7129132166065245	Gawwada	gaww1239	to meet	MEET	1831		tay	tay 
+1027	3-19-72-1	7129132559892730	Gawwada	gaww1239	the prostitute	PROSTITUTE	1610		palake	palake 
+1028	3-20-11-1	7129132928048737	Gawwada	gaww1239	to fight	FIGHT	1423		(ʔille) paah	(ʔille) paah 
+1029	3-20-13-1	7129132943456036	Gawwada	gaww1239	the war or battle	BATTLE	579		ʔorhanko	ʔorhanko 
+1030	3-20-14-1	7129132929758747	Gawwada	gaww1239	the peace	PEACE	1338		nakayho	nakayho 
+1031	3-20-22-1	7129132933632471	Gawwada	gaww1239	the club	CLUB	1763		tollakko	tollakko 
+1032	3-20-24-1	7129132961236940	Gawwada	gaww1239	the bow	BOW	994		pahante	pahante 
+1033	3-20-25-1	7129132818434164	Gawwada	gaww1239	the arrow	ARROW	977		laahe	laahe 
+1034	3-20-26-1	7129132943456036	Gawwada	gaww1239	the spear	SPEAR	945		ʔorhanko	ʔorhanko 
+1035	3-20-28-1	7129132203378826	Gawwada	gaww1239	the gun	GUN	1566		k’awe	k’awe 
+1036	3-20-34-1	7129132103166534	Gawwada	gaww1239	the shield	SHIELD	1064		kaašanko	kaašanko 
+1037	3-20-41-1	7129132343336180	Gawwada	gaww1239	the victory	VICTORY	783		putto	putto 
+1038	3-20-42-1	7129132513334802	Gawwada	gaww1239	the defeat	DEFEAT	782		putamto	putamto 
+1039	3-20-44-1	712913263020831	Gawwada	gaww1239	to defend	DEFEND	1330		kaat	kaat 
+1040	3-20-45-1	7129132697356564	Gawwada	gaww1239	to retreat	RETREAT	421		hiɠ	hiɠ 
+1041	3-20-47-1	7129132706589991	Gawwada	gaww1239	the captive or prisoner	PRISONER	1072		ho šapami	ho šapami 
+1042	3-20-61-1	7129132475690126	Gawwada	gaww1239	to hunt	HUNT	1435		qooš	qooš 
+1043	3-20-62-1	7129132639539521	Gawwada	gaww1239	to shoot	SHOOT	1172		raʕ	raʕ 
+1044	3-20-63-1	7129132148904700	Gawwada	gaww1239	to miss	MISS (A TARGET)	161		ɗappi	ɗappi 
+1045	3-20-64-1	7129132532831452	Gawwada	gaww1239	the trap	TRAP (PITFALL)	1075		siikke	siikke 
+1046	3-20-65-1	7129132842639847	Gawwada	gaww1239	to trap	TRAP (CATCH)	1170		ɠap	ɠap 
+1047	3-12-013-1	7129132264519194	Gawwada	gaww1239	at	AT	1461		=ma	=ma 
+1048	3-21-23-1	7129132706269877	Gawwada	gaww1239	the witness	WITNESS	1144		nakaaše	nakaaše 
+1049	3-21-24-1	7129132960242572	Gawwada	gaww1239	to swear	SWEAR	1939		ʔaakutaɗ	ʔaakutaɗ 
+1050	3-21-25-1	7129132933749460	Gawwada	gaww1239	the oath	OATH	1712		ʔaakutte	ʔaakutte 
+1051	3-21-31-1	7129132109435469	Gawwada	gaww1239	to accuse	ACCUSE	1814		šaam	šaam 
+1052	3-21-37-1	712913244066682	Gawwada	gaww1239	the penalty or punishment	PUNISHMENT	390		k’it’ate	k’it’ate 
+1053	3-21-39-1	7129132682768329	Gawwada	gaww1239	the prison	PRISON	1281		minne šappete	minne šappete 
+1054	3-21-42-1	7129132822533904	Gawwada	gaww1239	the murder	MURDER	845		pokinɗe korito	pokinɗe korito 
+1055	3-21-46-1	7129132571815012	Gawwada	gaww1239	the arson	ARSON	1889		ɗilanne minnete	ɗilanne minnete 
+1056	3-21-51-1	7129132147969600	Gawwada	gaww1239	to steal	STEAL	713		keraʕ	keraʕ 
+1057	3-21-52-1	7129132766577144	Gawwada	gaww1239	the thief	THIEF	1160		keraʕko	keraʕko 
+1058	3-22-11-1	7129132117299252	Gawwada	gaww1239	the religion	RELIGION	661		ʔamante	ʔamante 
+1059	3-22-12-1	7129132484888870	Gawwada	gaww1239	the god	DEITY	3231		waako	waako 
+1060	3-22-15-1	7129132535017729	Gawwada	gaww1239	the sacrifice	SACRIFICE	1103		teehakko	teehakko 
+1061	3-22-17-1	7129132873898839	Gawwada	gaww1239	to pray	PRAY	24		kissaɗ	kissaɗ 
+1062	3-22-18-1	7129132201220877	Gawwada	gaww1239	the priest	PRIEST	852		k’esitto	k’esitto 
+1063	3-22-19-1	7129132501145077	Gawwada	gaww1239	holy	HOLY	1702		waakito	waakito 
+1064	3-22-22-1	7129132766085711	Gawwada	gaww1239	to preach	PREACH	304		sappak	sappak 
+1065	3-22-23-1	712913244303847	Gawwada	gaww1239	to bless	BLESS	391		saak	saak 
+1066	3-22-24-1	712913295982893	Gawwada	gaww1239	to curse	CURSE	8		ɗaɠɠis	ɗaɠɠis 
+1067	3-22-26-1	7129132699641601	Gawwada	gaww1239	to fast	ABSTAIN FROM FOOD	303		t’om	t’om 
+1068	3-22-31-1	7129132571376685	Gawwada	gaww1239	the heaven	HEAVEN	1565		minne muunt’ito	minne muunt’ito 
+1069	3-22-31-2	76131853409358420	Gawwada	gaww1239	the heaven	HEAVEN	1565		minne waakito	minne waakito 
+1070	3-22-32-1	712913296970749	Gawwada	gaww1239	the hell	HELL	878		tukkanko	tukkanko 
+1071	3-22-35-1	712913258997018	Gawwada	gaww1239	the demon	DEMON	1973		sapaapa	sapaapa 
+1072	3-22-42-1	7129132869408055	Gawwada	gaww1239	the magic	MAGIC	392		kamaʕe	kamaʕe 
+1073	3-22-43-1	7129132299455146	Gawwada	gaww1239	the sorcerer or witch	MAGICIAN	2137		kamaʕolatte	kamaʕolatte 
+1074	3-23-1-1	7129132219688913	Gawwada	gaww1239	the radio	RADIO	1315		reetiyo	reetiyo 
+1075	3-23-11-1	7129132779505016	Gawwada	gaww1239	the television	TELEVISION	1788		filme	filme 
+1076	3-23-12-1	712913263502090	Gawwada	gaww1239	the telephone	TELEPHONE	1379		silk’e	silk’e 
+1077	3-23-135-1	7129132572745098	Gawwada	gaww1239	the motorcycle	MOTORCYCLE	638		mootore	mootore 
+1078	3-23-14-1	7129132526736295	Gawwada	gaww1239	the car	CAR	1111		mootopilakko	mootopilakko 
+1079	3-23-15-1	7129132439119318	Gawwada	gaww1239	the bus	BUS	1070		lonce	lonce 
+1080	3-23-16-1	7129132164637930	Gawwada	gaww1239	the airplane	AIRPLANE	1597		rooɓɓile	rooɓɓile 
+1081	3-23-16-2	76131858754342661	Gawwada	gaww1239	the airplane	AIRPLANE	1597		kaacca	kaacca 
+1082	3-23-17-1	7129132393080277	Gawwada	gaww1239	the electricity	ELECTRICITY	59		hammakko	hammakko 
+1083	3-23-175-1	7129132999560431	Gawwada	gaww1239	the battery	BATTERY	662		ʔikahko patratte	ʔikahko patratte 
+1084	3-23-2-1	7129132722013305	Gawwada	gaww1239	the hospital	HOSPITAL	616		minne ʔakimatte	minne ʔakimatte 
+1085	3-23-21-1	7129132813287488	Gawwada	gaww1239	the nurse	NURSE	1104		ʔakimitte	ʔakimitte 
+1086	3-23-22-1	7129132315191853	Gawwada	gaww1239	the pill or tablet	PILL	395		kinine	kinine 
+1087	3-23-23-1	7129132600778512	Gawwada	gaww1239	the injection	INJECTION	1805		marfe	marfe 
+1088	3-23-5-1	7129132282581665	Gawwada	gaww1239	the tap/faucet	FAUCET	1488		paampa	paampa 
+1089	3-23-52-1	7129132686399337	Gawwada	gaww1239	the toilet	TOILET	219		minne caaqete	minne caaqete 
+1090	3-23-3-1	7129132131731132	Gawwada	gaww1239	the government	GOVERNMENT	815		mankiste	mankiste 
+1091	3-23-33-1	7129132278354921	Gawwada	gaww1239	the police	POLICE	656		polisitto	polisitto 
+1092	3-23-42-1	7129132765274418	Gawwada	gaww1239	the letter	LETTER	1612		taptaappe	taptaappe 
+1093	3-23-54-1	7129132621463471	Gawwada	gaww1239	the tin/can	CAN	1051		k’ork’orro	k’ork’orro 
+1094	3-23-56-1	7129132543029845	Gawwada	gaww1239	the bottle	BOTTLE	1321		t’armuse	t’armuse 
+1095	3-23-565-1	7129132453494908	Gawwada	gaww1239	the candy/sweets	CANDY	874		karamela	karamela 
+1096	3-23-24-1	7129132788565071	Gawwada	gaww1239	the spectacles/glasses	SPECTACLES	1898		ʔeemaɗakko ʔixxete	ʔeemaɗakko ʔixxete 
+1097	3-23-575-1	7129132659807709	Gawwada	gaww1239	the bomb	BOMB	1804		pompe	pompe 
+1098	3-23-62-1	7129132779505016	Gawwada	gaww1239	the film/movie	MOVIE	216		filme	filme 
+1099	3-23-63-1	7129132429152725	Gawwada	gaww1239	the music	MUSIC	642		qaallaɗo	qaallaɗo 
+1100	3-23-64-1	7129132180620194	Gawwada	gaww1239	the song	SONG	1096		qaallitakko	qaallitakko 
+1101	3-23-39-1	7129132619268030	Gawwada	gaww1239	the number	NUMBER	1356		ɗihko	ɗihko 
+1102	3-23-36-1	7129132213818662	Gawwada	gaww1239	the birth certificate	BIRTH CERTIFICATE	397		kaarne	kaarne 
+1103	3-23-18-1	7129132174992440	Gawwada	gaww1239	to brake	BRAKE	966		šikkaaraš	šikkaaraš 
+1104	3-23-185-1	7129132572745098	Gawwada	gaww1239	the motor	MOTOR	110		mootore	mootore 
+1105	3-23-19-1	7129132264978468	Gawwada	gaww1239	the machine	MACHINE	144		makina	makina 
+1106	3-23-13-1	7129132420256656	Gawwada	gaww1239	the bicycle	BICYCLE	747		saykile	saykile 
+1107	3-23-395-1	7129132870027333	Gawwada	gaww1239	the street	STREET	1362		sano	sano 
+1108	3-19-565-1	7129132119847989	Gawwada	gaww1239	to invite	INVITE	1611		ʔooʕ	ʔooʕ 
+1109	3-24-01-1	712913257295296	Gawwada	gaww1239	to be	BE	1579		ʕak	ʕak 
+1110	3-24-03-1	7129132543220686	Gawwada	gaww1239	without	WITHOUT	1478		male	male 
+1111	3-24-05-1	7129132336260526	Gawwada	gaww1239	through	THROUGH	97		kittatte	kittatte 
+1112	3-24-13-1	7129132821888553	Gawwada	gaww1239	same	SAME	200		=si	=si 
+1113	3-24-07-1	7129132821888553	Gawwada	gaww1239	this	THIS	1214		=si	=si 
+1114	3-24-08-1	7129132543622533	Gawwada	gaww1239	that	THAT	78		=sa	=sa 
+1115	3-24-09-1	7129132551026854	Gawwada	gaww1239	here	HERE	136		haysa	haysa 
+1116	3-24-1-1	7129132551026854	Gawwada	gaww1239	there	THERE	1937		haysa	haysa 
+1117	3-24-11-1	7129132465673225	Gawwada	gaww1239	other	OTHER	197		huɓa	huɓa 
+1118	3-4-493-1	7129132797626742	Gawwada	gaww1239	the vagina	VAGINA	1836		keʕarakko	keʕarakko 
+1119	3-23-9-1	7129132315648660	Gawwada	gaww1239	the tea	TEA	1373		haaše	haaše 
+1120	3-23-91-1	7129132312664660	Gawwada	gaww1239	the coffee	COFFEE	1299		ʔawšo	ʔawšo 
+1121	3-24-12-1	7129132798497812	Gawwada	gaww1239	next	NEXT	1354		kaʕas-ay	kaʕas-ay 
+1122	3-3-863-1	7129132650632384	Gawwada	gaww1239	the hare	HARE	1190		kupale	kupale 
+1123	3-3-869-1	7129132236313501	Gawwada	gaww1239	the squirrel	SQUIRREL	1628		karratto	karratto 
+1124	3-4-465-1	7129132199398312	Gawwada	gaww1239	the sinew or tendon	TENDON	1137		ripo	ripo 
+1125	3-7-67-1	7129132301811264	Gawwada	gaww1239	to tan	TAN	247		šukkaɗ	šukkaɗ 
+1126	3-22-5-1	7129132668499308	Gawwada	gaww1239	the circumcision	CIRCUMCISION	393		ɠarše	ɠarše 
+1127	3-3-8112-1	7129132388338952	Gawwada	gaww1239	the body louse	BODY LOUSE	311		ʔisqaye	ʔisqaye 
+1128	3-4-494-1	7129132797626742	Gawwada	gaww1239	the vulva	VULVA	1837		keʕarakko	keʕarakko 
+1129	3-9-93-1	7129132380973622	Gawwada	gaww1239	the whetstone	WHETSTONE	295		leefaɗo	leefaɗo 
+1130	3-8-28-1	7129132893564560	Gawwada	gaww1239	the digging stick (=yamstick)	DIGGING STICK	339		makkatte	makkatte 
+1131	3-3-834-1	7129132994612264	Gawwada	gaww1239	the termites	TERMITE	883		ʔirmatte	ʔirmatte 
+1132	3-3-835-1	7129132818974138	Gawwada	gaww1239	the tick	TICK	1527		hilmaye	hilmaye 
+1133	3-8-911-1	7129132202090637	Gawwada	gaww1239	the millet or sorghum	MILLET	931		maanko	maanko 
+1134	3-3-913-1	712913214747404	Gawwada	gaww1239	the chameleon	CHAMELEON	1555		šaahtakko	šaahtakko 
+1135	3-9-9-1	7129132861361448	Gawwada	gaww1239	to draw water	DRAW (WATER)	1911		meek	meek 
+1136	3-10-58-1	7129132673152201	Gawwada	gaww1239	to go or return home	RETURN HOME	142		ʕaak	ʕaak 
+1137	3-3-917-1	7129132147855238	Gawwada	gaww1239	the buffalo	BUFFALO	934		sarikko	sarikko 
+1138	3-1-831-1	7129132154532749	Gawwada	gaww1239	the steam	STEAM	1193		kuute	kuute 
+1139	3-2-541-1	7129132293539489	Gawwada	gaww1239	the sibling’s child	SIBLING'S CHILD	173		ʔašinko	ʔašinko 
+1140	3-2-622-1	712913245048787	Gawwada	gaww1239	the parents-in-law	PARENTS-IN-LAW	306		taatte=pa taattite	taatte=pa taattite 
+1141	3-2-6411-1	7129132499397161	Gawwada	gaww1239	the child-in-law	CHILD-IN-LAW	1060		ʔinanko	ʔinanko 
+1142	3-2-6412-1	7129132217247741	Gawwada	gaww1239	the sibling-in-law	SIBLING-IN-LAW	1832		seerko	seerko 
+1143	3-2-931-1	7129132201857665	Gawwada	gaww1239	he	HE	1211		ʔiso	ʔiso 
+1144	3-2-932-1	712913275838846	Gawwada	gaww1239	she	SHE	1834		ʔise	ʔise 
+1145	3-4-741-1	7129132241282162	Gawwada	gaww1239	the life	LIFE	210		nafse	nafse 
+1146	3-4-771-1	7129132965280341	Gawwada	gaww1239	the carcass	CARCASS	1770		pukkaʕo	pukkaʕo 
+1147	3-4-844-1	7129132144811847	Gawwada	gaww1239	the disease	DISEASE	1986		torno	torno 
+1148	3-11-29-1	7129132469928427	Gawwada	gaww1239	to damage	DAMAGE	1116		poorees	poorees 
+1149	3-12-081-1	7129132980144919	Gawwada	gaww1239	above	ABOVE	1741		saappe	saappe 
+1150	3-13-231-1	7129132460059871	Gawwada	gaww1239	the piece	PIECE	594		qootto	qootto 
+1151	3-13-231-2	7613198173634573	Gawwada	gaww1239	the piece	PIECE	594		ʔokkotto	ʔokkotto 
+1152	3-13-331-1	7129132926611868	Gawwada	gaww1239	alone	ALONE	1964		ʔawni	ʔawni 
+1153	3-14-251-1	7129132478253620	Gawwada	gaww1239	the beginning	BEGINNING	1557		maʤammariya	maʤammariya 
+1154	3-14-411-1	7129132983017651	Gawwada	gaww1239	the day(2)	DAY (NOT NIGHT)	1225		kuyaʕko	kuyaʕko 
+1155	3-22-131-1	712913252192163	Gawwada	gaww1239	the church	CHURCH	1349		minne kiristaanay	minne kiristaanay 
+1156	3-22-132-1	7129132659203065	Gawwada	gaww1239	the mosque	MOSQUE	1603		minne ʔislaamatte	minne ʔislaamatte 
+1157	3-24-14-1	712913240743395	Gawwada	gaww1239	nothing	NOTHING	687		ʔolo	ʔolo 
+1158	3-4-7501-1	7129132190380460	Gawwada	gaww1239	dead	DEAD	1625		ʔí=fari	ʔí=fari 
+1159	3-4-8541-1	7129132910749043	Gawwada	gaww1239	to scratch	SCRATCH	1436		xaš	xaš 
+1160	3-9-111-1	7129132656435177	Gawwada	gaww1239	to make	MAKE	734		koɗ	koɗ 
+1161	3-4-431-1	7129132204559486	Gawwada	gaww1239	the belly	BELLY	1251		karʕitto	karʕitto 
+1162	3-9-311-1	7129132406214749	Gawwada	gaww1239	to wipe	WIPE	1454		ʔooš	ʔooš 
+1163	3-24-04-1	7129132434131339	Gawwada	gaww1239	with	WITH	1340		=tta	=tta 
+1164	3-12-012-1	7129132264519194	Gawwada	gaww1239	in	IN	1460		=ma	=ma 

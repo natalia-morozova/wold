@@ -1,0 +1,160 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	carcass, banyan	English	579	U+0061
+e	e	vegetables, remember	English	510	U+0065
+i	i	light, circumcision	English	473	U+0069
+o	o	tomorrow, motor	English	424	U+006f
+r	r	trap, burn	English	349	U+0072
+e$	e	smoke, weave	English	318	U+0065 U+0024
+n	n	think, ointment	English	280	U+006e
+l	l	child, fly	English	239	U+006c
+u	u	beautiful, burn	English	234	U+0075
+t	t	sweet potato, prostitute	English	200	U+0074
+t$	t	light, right	English	188	U+0074 U+0024
+^s	s	sail, spring	English	172	U+005e U+0073
+r$	r	mortar, tear	English	147	U+0072 U+0024
+n$	n	burn, skin	English	135	U+006e U+0024
+^b	b	burn, boil	English	130	U+005e U+0062
+c	c	necklace, circumcision	English	122	U+0063
+s	s	disease, post	English	113	U+0073
+d$	d	end, child	English	107	U+0064 U+0024
+^c	c	cold, calf	English	105	U+005e U+0063
+m	m	smoke, sometimes	English	99	U+006d
+y$	y	day, fly	English	99	U+0079 U+0024
+^p	p	paint, post	English	98	U+005e U+0070
+d	d	adjudicate, Wednesday	English	96	U+0064
+^f	f	fly, fan	English	92	U+005e U+0066
+^h	h	hide, hole	English	74	U+005e U+0068
+v	v	weave, clever	English	73	U+0076
+p	p	newspaper, spring	English	72	U+0070
+^m	m	male, milk	English	71	U+005e U+006d
+^d	d	day, drink	English	68	U+005e U+0064
+^l	l	light, lead	English	67	U+005e U+006c
+^t	t	tin, tear	English	66	U+005e U+0074
+k$	k	think, milk	English	64	U+006b U+0024
+^r	r	rough, right	English	64	U+005e U+0072
+^w	w	weave, war	English	62	U+005e U+0077
+^a	a	aeroplane, above	English	58	U+005e U+0061
+g	g	language, fishing net	English	56	U+0067
+^g	g	guess, grasshopper	English	54	U+005e U+0067
+k	k	smoke, skin	English	52	U+006b
+w$	w	sow, follow	English	52	U+0077 U+0024
+l$	l	boil, sail	English	51	U+006c U+0024
+oo	oo	broom, rooster	English	47	U+006f U+006f
+g$	g	spring, ring	English	43	U+0067 U+0024
+p$	p	trap, sleep	English	42	U+0070 U+0024
+ee	ee	needle, sleep	English	41	U+0065 U+0065
+^n	n	needle, niece	English	41	U+005e U+006e
+b	b	remember, caribou	English	39	U+0062
+^e	e	end, eat	English	39	U+005e U+0065
+_	_	in front of, fishing net	English	35	U+005f
+^sh	sh	shark, shine	English	34	U+005e U+0073 U+0068
+f	f	knife, life	English	34	U+0066
+^o	o	old woman, open	English	32	U+005e U+006f
+w	w	crowd, howl	English	30	U+0077
+ll$	ll	smell, bull	English	29	U+006c U+006c U+0024
+ch$	ch	birch, crouch	English	28	U+0063 U+0068 U+0024
+m$	m	palm, broom	English	27	U+006d U+0024
+th	th	scythe, weather	English	26	U+0074 U+0068
+^th	th	think, this	English	25	U+005e U+0074 U+0068
+tt	tt	cattle, battle	English	24	U+0074 U+0074
+^ch	ch	child, chisel	English	22	U+005e U+0063 U+0068
+^i	i	it, idea	English	21	U+005e U+0069
+gh	gh	light, right	English	20	U+0067 U+0068
+ll	ll	stallion, shallow	English	18	U+006c U+006c
+^k	k	knife, knot	English	18	U+005e U+006b
+rr	rr	carry, earring	English	17	U+0072 U+0072
+sh$	sh	dish, flesh	English	16	U+0073 U+0068 U+0024
+ss$	ss	bless, guess	English	16	U+0073 U+0073 U+0024
+f$	f	calf, shelf	English	15	U+0066 U+0024
+y	y	scythe, rye	English	15	U+0079
+s$	s	pus, this	English	15	U+0073 U+0024
+o$	o	poncho, no	English	14	U+006f U+0024
+^wh	wh	white, wheat	English	14	U+005e U+0077 U+0068
+gh$	gh	rough, thigh	English	13	U+0067 U+0068 U+0024
+^y	y	you, yellow	English	12	U+005e U+0079
+-	<?>	father-in-law, mother-in-law	English	12	U+002d
+^v	v	vulva, voice	English	12	U+005e U+0076
+ch	ch	poncho, merchant	English	12	U+0063 U+0068
+b$	b	comb, rib	English	11	U+0062 U+0024
+^sw	sw	sweep, sweets	English	11	U+005e U+0073 U+0077
+th$	th	north, blacksmith	English	11	U+0074 U+0068 U+0024
+rs	rs	thirsty, pursue	English	11	U+0072 U+0073
+dd	dd	midday, paddy	English	10	U+0064 U+0064
+?$	<?>	how?, which?	English	9	U+003f U+0024
+z	z	citizen, razor	English	9	U+007a
+^u	u	understand, up	English	9	U+005e U+0075
+a$	a	vulva, idea	English	9	U+0061 U+0024
+^j	j	jaguar, join	English	9	U+005e U+006a
+x	x	explain, anxiety	English	8	U+0078
+pp	pp	pepper, grasshopper	English	8	U+0070 U+0070
+q	q	square, squash	English	8	U+0071
+sh	sh	fishing net, fisherman	English	7	U+0073 U+0068
+x$	x	earwax, tax	English	7	U+0078 U+0024
+ss	ss	scissors, lasso	English	7	U+0073 U+0073
+ee$	ee	three, coffee	English	7	U+0065 U+0065 U+0024
+mm	mm	stammer, hammer	English	6	U+006d U+006d
+nn	nn	dinner, innocent	English	6	U+006e U+006e
+^tw	tw	twins, twenty	English	6	U+005e U+0074 U+0077
+^q	q	quick, quarrel	English	5	U+005e U+0071
+ph	ph	telephone, nephew	English	5	U+0070 U+0068
+j	j	injure, adjudicate	English	4	U+006a
+h	h	behind, forehead	English	4	U+0068
+cc	cc	hiccough, raccoon	English	4	U+0063 U+0063
+c$	c	magic, music	English	4	U+0063 U+0024
+rs$	rs	shears, scissors	English	4	U+0072 U+0073 U+0024
+ff$	ff	cliff, plaintiff	English	4	U+0066 U+0066 U+0024
+u$	u	you, caribou	English	3	U+0075 U+0024
+oo$	oo	bamboo, kangaroo	English	3	U+006f U+006f U+0024
+ff	ff	coffee, buffalo	English	3	U+0066 U+0066
+ns$	ns	twins, weapons	English	3	U+006e U+0073 U+0024
+ts$	ts	sweets, guts	English	3	U+0074 U+0073 U+0024
+ns	ns	inside, expensive	English	3	U+006e U+0073
+^S	<?>	Sunday, Saturday	English	2	U+005e U+0053
+gg	gg	outrigger, beggar	English	2	U+0067 U+0067
+ps	ps	corpse, stepson	English	2	U+0070 U+0073
+bb	bb	dribble, rabbit	English	2	U+0062 U+0062
+ts	ts	outside, whetstone	English	2	U+0074 U+0073
+ds	ds	herdsman, grandson	English	2	U+0064 U+0073
+(tree-)stump	<???>	(tree-)stump	English	1	U+0028 U+0074 U+0072 U+0065 U+0065 U+002d U+0029 U+0073 U+0074 U+0075 U+006d U+0070
+petrol(eum)	<???>	petrol(eum)	English	1	U+0070 U+0065 U+0074 U+0072 U+006f U+006c U+0028 U+0065 U+0075 U+006d U+0029
+gs$	gs	tongs	English	1	U+0067 U+0073 U+0024
+wake (up)	<???>	wake (up)	English	1	U+0077 U+0061 U+006b U+0065 U+0020 U+0028 U+0075 U+0070 U+0029
+(finger)nail	<???>	(finger)nail	English	1	U+0028 U+0066 U+0069 U+006e U+0067 U+0065 U+0072 U+0029 U+006e U+0061 U+0069 U+006c
+(good) luck	<???>	(good) luck	English	1	U+0028 U+0067 U+006f U+006f U+0064 U+0029 U+0020 U+006c U+0075 U+0063 U+006b
+shh	shh	fishhook	English	1	U+0073 U+0068 U+0068
+^F	<?>	Friday	English	1	U+005e U+0046
+gg$	gg	egg	English	1	U+0067 U+0067 U+0024
+^I$	<?>	I	English	1	U+005e U+0049 U+0024
+ks	ks	blacksmith	English	1	U+006b U+0073
+wood(s)	<???>	wood(s)	English	1	U+0077 U+006f U+006f U+0064 U+0028 U+0073 U+0029
+lw	lw	always	English	1	U+006c U+0077
+^z	z	zero	English	1	U+005e U+007a
+^Th	<?>	Thursday	English	1	U+005e U+0054 U+0068
+rsh	rsh	worship	English	1	U+0072 U+0073 U+0068
+^gh	gh	ghost	English	1	U+005e U+0067 U+0068
+chili (pepper)	<???>	chili (pepper)	English	1	U+0063 U+0068 U+0069 U+006c U+0069 U+0020 U+0028 U+0070 U+0065 U+0070 U+0070 U+0065 U+0072 U+0029
+molar (tooth)	<???>	molar (tooth)	English	1	U+006d U+006f U+006c U+0061 U+0072 U+0020 U+0028 U+0074 U+006f U+006f U+0074 U+0068 U+0029
+^M	<?>	Monday	English	1	U+005e U+004d
+call (2)	<???>	call (2)	English	1	U+0063 U+0061 U+006c U+006c U+0020 U+0028 U+0032 U+0029
+^W	<?>	Wednesday	English	1	U+005e U+0057
+(sting)ray	<???>	(sting)ray	English	1	U+0028 U+0073 U+0074 U+0069 U+006e U+0067 U+0029 U+0072 U+0061 U+0079
+(be) silent	<???>	(be) silent	English	1	U+0028 U+0062 U+0065 U+0029 U+0020 U+0073 U+0069 U+006c U+0065 U+006e U+0074
+bs	bs	obscure	English	1	U+0062 U+0073
+call (1)	<???>	call (1)	English	1	U+0063 U+0061 U+006c U+006c U+0020 U+0028 U+0031 U+0029
+ms$	ms	gums	English	1	U+006d U+0073 U+0024
+ws	ws	newspaper	English	1	U+0077 U+0073
+ask (1)	<???>	ask (1)	English	1	U+0061 U+0073 U+006b U+0020 U+0028 U+0031 U+0029
+ask (2)	<???>	ask (2)	English	1	U+0061 U+0073 U+006b U+0020 U+0028 U+0032 U+0029
+ks$	ks	buttocks	English	1	U+006b U+0073 U+0024
+^ee	ee	eel	English	1	U+005e U+0065 U+0065
+nsw	nsw	answer	English	1	U+006e U+0073 U+0077
+ksh	ksh	workshop	English	1	U+006b U+0073 U+0068
+(sea)gull	<???>	(sea)gull	English	1	U+0028 U+0073 U+0065 U+0061 U+0029 U+0067 U+0075 U+006c U+006c
+rw	rw	earwax	English	1	U+0072 U+0077
+temple(s)	<???>	temple(s)	English	1	U+0074 U+0065 U+006d U+0070 U+006c U+0065 U+0028 U+0073 U+0029
+^T	<?>	Tuesday	English	1	U+005e U+0054
+wsh	wsh	snowshoe	English	1	U+0077 U+0073 U+0068
+ssh	ssh	grasshopper	English	1	U+0073 U+0073 U+0068
+ls	ls	falsity	English	1	U+006c U+0073

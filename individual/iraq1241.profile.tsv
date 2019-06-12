@@ -1,0 +1,164 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	hhawata, hhamhhamo	Iraqw	613	U+0061
+l	l	pilipili, tlaw	Iraqw	268	U+006c
+r	r	miringa, garma	Iraqw	239	U+0072
+n	n	miringa, aangw	Iraqw	230	U+006e
+a$	a	na, ga	Iraqw	222	U+0061 U+0024
+aa	aa	baaba, inslaahh	Iraqw	213	U+0061 U+0061
+i	i	miringa, pilipili	Iraqw	205	U+0069
+m	m	garma, aama	Iraqw	194	U+006d
+i$	i	dasi, ki	Iraqw	168	U+0069 U+0024
+u	u	fuquno, gurungura	Iraqw	157	U+0075
+t	t	hhawata, hhuutl	Iraqw	135	U+0074
+^a	a	al, angw	Iraqw	130	U+005e U+0061
+ee	ee	sleemeero, gweer	Iraqw	122	U+0065 U+0065
+^d	d	da, dasi	Iraqw	116	U+005e U+0064
+ii	ii	niina, slipiis	Iraqw	113	U+0069 U+0069
+s	s	dasi, lohiis ar saga	Iraqw	109	U+0073
+^m	m	miringa, maar	Iraqw	93	U+005e U+006d
+^g	g	ga, garma	Iraqw	91	U+005e U+0067
+o$	o	hhamhhamo, fuquno	Iraqw	88	U+006f U+0024
+_	_	lohiis ar saga, aymár tsiindo	Iraqw	87	U+005f
+oo	oo	loo'aa, hhoo'	Iraqw	83	U+006f U+006f
+^s	s	sahaani, slipiis	Iraqw	78	U+005e U+0073
+y	y	ayma, hhiya'	Iraqw	76	U+0079
+k	k	dakuus, mankari	Iraqw	75	U+006b
+^k	k	ki, koom	Iraqw	75	U+005e U+006b
+uu	uu	dakuus, hhuutl	Iraqw	75	U+0075 U+0075
+s$	s	iis, dakuus	Iraqw	74	U+0073 U+0024
+^t	t	tleehh, tla	Iraqw	71	U+005e U+0074
+o	o	sokno'oot, motsotsoqoos	Iraqw	69	U+006f
+t$	t	hoot, eet	Iraqw	65	U+0074 U+0024
+^h	h	hoomaa, hoot	Iraqw	63	U+005e U+0068
+^ts	ts	tsa, tsee	Iraqw	63	U+005e U+0074 U+0073
+w	w	hhawata, gawa	Iraqw	62	U+0077
+g	g	miringa, kupiga rangi	Iraqw	61	U+0067
+^b	b	baaba, basa	Iraqw	58	U+005e U+0062
+y$	y	aay, ganslay	Iraqw	55	U+0079 U+0024
+'$	<?>	hhoo', a'	Iraqw	54	U+0027 U+0024
+d	d	mdudu, aymár tsiindo	Iraqw	54	U+0064
+q	q	fuquno, tlaqarmo	Iraqw	53	U+0071
+r$	r	gweer, maar	Iraqw	53	U+0072 U+0024
+^i	i	inslaahh, intsaahh	Iraqw	49	U+005e U+0069
+f	f	mar'afi, afa	Iraqw	48	U+0066
+á	á	aymár tsiindo, baráa	Iraqw	47	U+00e1
+e	e	se'eengw, de'eeamusmo	Iraqw	46	U+0065
+b	b	baaba, dóo hibambi	Iraqw	46	U+0062
+hh	hh	sluhhoo, harahhiif	Iraqw	44	U+0068 U+0068
+gw$	gw	angw, aangw	Iraqw	44	U+0067 U+0077 U+0024
+ts	ts	motsotsooq, gitsee	Iraqw	43	U+0074 U+0073
+^hh	hh	hhawata, hhamhhamo	Iraqw	43	U+005e U+0068 U+0068
+m$	m	aam, koom	Iraqw	42	U+006d U+0024
+u$	u	alu, aamu	Iraqw	41	U+0075 U+0024
+l$	l	hhuutl, al	Iraqw	40	U+006c U+0024
+ee$	ee	tsee, gitsee	Iraqw	39	U+0065 U+0065 U+0024
+^l	l	loo'aa, laqwaal	Iraqw	37	U+005e U+006c
+^aa	aa	aam, aay	Iraqw	36	U+005e U+0061 U+0061
+h	h	sahaani, lohiis ar saga	Iraqw	35	U+0068
+^f	f	fuquno, fiits	Iraqw	35	U+005e U+0066
+'a	'a	loo'aa, mar'afi	Iraqw	34	U+0027 U+0061
+hh$	hh	tleehh, inslaahh	Iraqw	34	U+0068 U+0068 U+0024
+^n	n	na, niina	Iraqw	33	U+005e U+006e
+aa$	aa	daa, hoomaa	Iraqw	33	U+0061 U+0061 U+0024
+oo$	oo	tsoo, gitsoo	Iraqw	33	U+006f U+006f U+0024
+^q	q	qasiis, qeeru	Iraqw	33	U+005e U+0071
+w$	w	tlaw, gur tlaw	Iraqw	33	U+0077 U+0024
+^x	x	xooro, xatsa	Iraqw	31	U+005e U+0078
+^w	w	wah, waa	Iraqw	30	U+005e U+0077
+^p	p	pilipili, pampoo	Iraqw	28	U+005e U+0070
+p	p	pilipili, slipiis	Iraqw	27	U+0070
+^ii	ii	iis, iitlaw	Iraqw	22	U+005e U+0069 U+0069
+á$	á	ayshigá, adá	Iraqw	20	U+00e1 U+0024
+ó	ó	deelór lahhóo', dóo hibambi	Iraqw	19	U+00f3
+^u	u	ur, usi	Iraqw	18	U+005e U+0075
+e$	e	ya'ee, tlambebe	Iraqw	15	U+0065 U+0024
+^kw	kw	kwasleema, kwa	Iraqw	15	U+005e U+006b U+0077
+^gw	gw	gweer, gwaa’	Iraqw	14	U+005e U+0067 U+0077
+'i$	'i	gi'i, kik'i	Iraqw	14	U+0027 U+0069 U+0024
+ns	ns	inslaahh, ganslay	Iraqw	14	U+006e U+0073
+^y	y	ya, ya'ee	Iraqw	13	U+005e U+0079
+n$	n	qoon, qaren	Iraqw	12	U+006e U+0024
+ú	ú	mugúl, murúu	Iraqw	12	U+00fa
+x	x	tsaxaar, tlaxoo	Iraqw	12	U+0078
+ú$	ú	daandú, andú	Iraqw	11	U+00fa U+0024
+q$	q	tsuuq, nuqunuuq	Iraqw	11	U+0071 U+0024
+^i$	i	i	Iraqw	11	U+005e U+0069 U+0024
+'e	'e	ya'ee, se'eengw	Iraqw	11	U+0027 U+0065
+kw$	kw	tlaakw, narakw	Iraqw	10	U+006b U+0077 U+0024
+'i	'i	goo'iim, tit'iis	Iraqw	10	U+0027 U+0069
+’	<?>	af’untluuri, lu’us	Iraqw	10	U+2019
+k$	k	awaak, sliik	Iraqw	10	U+006b U+0024
+sh	sh	ayshigá, dayshimo	Iraqw	10	U+0073 U+0068
+'o	'o	sol'oot, sokno'oot	Iraqw	9	U+0027 U+006f
+ts$	ts	fiits, nikiits	Iraqw	9	U+0074 U+0073 U+0024
+í$	í	diirí, tlangí	Iraqw	9	U+00ed U+0024
+'u	'u	lu'us, bu'utu	Iraqw	9	U+0027 U+0075
+qw	qw	laqwaal, daqwaay	Iraqw	9	U+0071 U+0077
+^oo	oo	oowi, ooha	Iraqw	9	U+005e U+006f U+006f
+’$	<?>	gura’, gwaa’	Iraqw	8	U+2019 U+0024
+x$	x	uruux, soox	Iraqw	8	U+0078 U+0024
+f$	f	harahhiif, aaf	Iraqw	8	U+0066 U+0024
+h$	h	wah, dah	Iraqw	8	U+0068 U+0024
+g$	g	tseeg, breki tseeg	Iraqw	8	U+0067 U+0024
+ii$	ii	alkii, tlii	Iraqw	8	U+0069 U+0069 U+0024
+uu$	uu	qumburuu, gunuu	Iraqw	7	U+0075 U+0075 U+0024
+'a$	'a	a'a, wayoo'a	Iraqw	7	U+0027 U+0061 U+0024
+í	í	kasíis, aníng	Iraqw	7	U+00ed
+^ee	ee	eet, eetl	Iraqw	7	U+005e U+0065 U+0065
+gw	gw	nangw nangw, mibaangw nee tsar	Iraqw	7	U+0067 U+0077
+kw	kw	afkwá isimo, kwa'akwaa'	Iraqw	7	U+006b U+0077
+xw	xw	tsaxwa, axwees	Iraqw	6	U+0078 U+0077
+'o$	'o	hho'o, wawito'o	Iraqw	6	U+0027 U+006f U+0024
+^qw	qw	qwaslaaramoo, qwari	Iraqw	6	U+005e U+0071 U+0077
+^a$	a	a	Iraqw	6	U+005e U+0061 U+0024
+^aa$	aa	aa	Iraqw	5	U+005e U+0061 U+0061 U+0024
+^r	r	ri, reediyo	Iraqw	5	U+005e U+0072
+é	é	giyéet, atén	Iraqw	5	U+00e9
+ó$	ó	siiyó, baló	Iraqw	4	U+00f3 U+0024
+^ch	ch	chumba, choo	Iraqw	4	U+005e U+0063 U+0068
+^xw	xw	xwaa'ari, xwaylitee	Iraqw	4	U+005e U+0078 U+0077
+j	j	injolood, injin	Iraqw	4	U+006a
+'á	'á	ba'ár, lat'áangw	Iraqw	4	U+0027 U+00e1
+rw	rw	arwi, barwa	Iraqw	4	U+0072 U+0077
+^uu	uu	uuru, uus	Iraqw	4	U+005e U+0075 U+0075
+d$	d	gawid, injolood	Iraqw	4	U+0064 U+0024
+^sh	sh	shaati, shuulee	Iraqw	4	U+005e U+0073 U+0068
+mhh	mhh	hhamhhamo	Iraqw	3	U+006d U+0068 U+0068
+'n	'n	xa'noo, fu'naay	Iraqw	3	U+0027 U+006e
+rhh	rhh	slarhhamá, hhirhheermo	Iraqw	3	U+0072 U+0068 U+0068
+xw$	xw	tlaaxw, intlaaxw	Iraqw	3	U+0078 U+0077 U+0024
+é$	é	slambaré, malé	Iraqw	2	U+00e9 U+0024
+ch	ch	muchele, uchagusi	Iraqw	2	U+0063 U+0068
+ooh (1)	<???>	ooh (1)	Iraqw	2	U+006f U+006f U+0068 U+0020 U+0028 U+0031 U+0029
+dawa (1)	<???>	dawa (1)	Iraqw	2	U+0064 U+0061 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
+^á	á	áw, ár	Iraqw	2	U+005e U+00e1
+nhh	nhh	qanhhi, óo qanhhi	Iraqw	2	U+006e U+0068 U+0068
+'í	'í	ee'ít, inoo'ín	Iraqw	2	U+0027 U+00ed
+gwaanda (1)	<???>	gwaanda (1)	Iraqw	2	U+0067 U+0077 U+0061 U+0061 U+006e U+0064 U+0061 U+0020 U+0028 U+0031 U+0029
+qw$	qw	faanqw, slaaqw	Iraqw	2	U+0071 U+0077 U+0024
+ós$	ós	kilós, inós	Iraqw	2	U+00f3 U+0073 U+0024
+^ó	ó	óo shuulee, óo qanhhi	Iraqw	2	U+005e U+00f3
+nw	nw	anwaani	Iraqw	1	U+006e U+0077
+b$	b	bab	Iraqw	1	U+0062 U+0024
+dawa (2)	<???>	dawa (2)	Iraqw	1	U+0064 U+0061 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
+uma (2)	<???>	uma (2)	Iraqw	1	U+0075 U+006d U+0061 U+0020 U+0028 U+0032 U+0029
+-	<?>	kil’-	Iraqw	1	U+002d
+bara (1)	<???>	bara (1)	Iraqw	1	U+0062 U+0061 U+0072 U+0061 U+0020 U+0028 U+0031 U+0029
+rs	rs	murslaqat	Iraqw	1	U+0072 U+0073
+ll	ll	filliimbi	Iraqw	1	U+006c U+006c
+bara (2)	<???>	bara (2)	Iraqw	1	U+0062 U+0061 U+0072 U+0061 U+0020 U+0028 U+0032 U+0029
+xs	xs	gixsa	Iraqw	1	U+0078 U+0073
+ooh (2)	<???>	ooh (2)	Iraqw	1	U+006f U+006f U+0068 U+0020 U+0028 U+0032 U+0029
+lhh	lhh	malhhari	Iraqw	1	U+006c U+0068 U+0068
+hw	hw	kahwa	Iraqw	1	U+0068 U+0077
+hhs	hhs	dahhsani	Iraqw	1	U+0068 U+0068 U+0073
+^z	z	zahabu	Iraqw	1	U+005e U+007a
+uma (1)	<???>	uma (1)	Iraqw	1	U+0075 U+006d U+0061 U+0020 U+0028 U+0031 U+0029
+^j	j	jeela	Iraqw	1	U+005e U+006a
+^o	o	oili	Iraqw	1	U+005e U+006f
+ks	ks	soksi	Iraqw	1	U+006b U+0073
+qs	qs	muqsli	Iraqw	1	U+0071 U+0073
+^o$	o	o	Iraqw	1	U+005e U+006f U+0024
+lw	lw	ilwa	Iraqw	1	U+006c U+0077

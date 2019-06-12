@@ -1,0 +1,143 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	ʃarbakta, ʃa:wukanan	Oroqen	408	U+0061
+k	k	ulkəkən, dɪlatʃa tiktəkəki	Oroqen	354	U+006b
+n$	n	ukun, ʃa:wukanan	Oroqen	322	U+006e U+0024
+-	<?>	ɔ:-, ga-	Oroqen	310	U+002d
+ə	ə	ulkəkən, ətəkən-	Oroqen	276	U+0259
+u	u	wurumkun, umun duru-tʃi	Oroqen	265	U+0075
+r	r	tur urtərgətʃə, ʃarbakta	Oroqen	263	U+0072
+l	l	ulgur, inəŋdulin bɪlga	Oroqen	252	U+006c
+i	i	əʃikin, bʊɣaŋi əlginin	Oroqen	233	U+0069
+a$	a	ʃarbakta, ga-	Oroqen	173	U+0061 U+0024
+ə$	ə	itʃə-, iɲə-	Oroqen	161	U+0259 U+0024
+ʊ	ʊ	kʊrdʊr, tʃʊkʊmʊkta	Oroqen	156	U+028a
+t	t	ʃarbakta, dɪlatʃa tiktəkəki	Oroqen	155	U+0074
+n	n	inəŋ dulin nuktʃitʃə, umun nandar	Oroqen	148	U+006e
+g	g	ulgur, ʃɔgdɔnɔ	Oroqen	138	U+0067
+m	m	amalan, tama-	Oroqen	133	U+006d
+d	d	ʃɔgdɔnɔ, kʊrdʊr	Oroqen	132	U+0064
+ɪ	ɪ	ʊmʊktaŋi ʃɪŋarɪnɪn, ɲɪrayɪkan	Oroqen	126	U+026a
+ŋ	ŋ	ɔŋɔktɔŋi dɔ:n, kuŋkə:	Oroqen	116	U+014b
+i$	i	yakʃiŋki, bi-	Oroqen	111	U+0069 U+0024
+^t	t	tama-, tʊkʃakɪ	Oroqen	107	U+005e U+0074
+tʃ	tʃ	itʃə-, palatʃɛntʃa	Oroqen	98	U+0074 U+0283
+^ʃ	ʃ	ʃarbakta, ʃa:wukanan	Oroqen	97	U+005e U+0283
+^a	a	amalan, algan	Oroqen	95	U+005e U+0061
+^k	k	kurə:kə:n, kɔtɔ	Oroqen	90	U+005e U+006b
+y	y	mayman, dʒu:layi yabʊran	Oroqen	87	U+0079
+ɔ	ɔ	ʃɔgdɔnɔ, dɔkɔlɔn-	Oroqen	86	U+0254
+^u	u	ulgur, ukun	Oroqen	85	U+005e U+0075
+^ə	ə	ətəkən-, əɲəkə	Oroqen	80	U+005e U+0259
+^b	b	bi-, bʊwa	Oroqen	74	U+005e U+0062
+w	w	ʃa:wukanan, kawukɛ:wuptɪla bəyə	Oroqen	70	U+0077
+_	_	aʃɪ taktɪ bəyə, inəŋ dulin nuktʃitʃə	Oroqen	68	U+005f
+^d	d	damga, dɔ:ldi-	Oroqen	65	U+005e U+0064
+^dʒ	dʒ	dʒu:, dʒəg	Oroqen	62	U+005e U+0064 U+0292
+^g	g	ga-, gu:	Oroqen	58	U+005e U+0067
+ʃ	ʃ	ʊʃɪkta, əʃikin	Oroqen	58	U+0283
+u$	u	ənuku, guntʃulu	Oroqen	56	U+0075 U+0024
+^m	m	mɔ:, mayman	Oroqen	56	U+005e U+006d
+^i	i	inəŋ, itʃə-	Oroqen	54	U+005e U+0069
+a:	a:	ʃa:wukanan, ŋa:la	Oroqen	53	U+0061 U+003a
+ɪ$	ɪ	tarɪ, tʃʊrgɪ-	Oroqen	53	U+026a U+0024
+b	b	ʃarbakta, tubiɣə	Oroqen	52	U+0062
+p	p	lʊpkʊptɪn, guruptən	Oroqen	47	U+0070
+r$	r	ulgur, tar-	Oroqen	41	U+0072 U+0024
+dʒ	dʒ	tʃadʒʊŋkʊ, amʊdʒi	Oroqen	40	U+0064 U+0292
+^n	n	nəkə-, nɔ:nin	Oroqen	40	U+005e U+006e
+^tʃ	tʃ	tʃʊrgɪ-, tʃʊlɪka	Oroqen	39	U+005e U+0074 U+0283
+ɔ$	ɔ	kɔtɔ, ʃɔgdɔnɔ	Oroqen	38	U+0254 U+0024
+ə:	ə:	kurə:kə:n, dʒə:ktə	Oroqen	35	U+0259 U+003a
+ə:$	ə:	kuŋkə:, ulə:-	Oroqen	35	U+0259 U+003a U+0024
+ɛ	ɛ	nɛdɛr, kɛrəndɛr	Oroqen	27	U+025b
+kʃ	kʃ	yakʃiŋki, tʊkʃakɪ	Oroqen	27	U+006b U+0283
+ɔ:	ɔ:	dɔ:ldi-, nɔ:nin	Oroqen	26	U+0254 U+003a
+ʊ$	ʊ	tʃadʒʊŋkʊ, bʊdʊ-	Oroqen	26	U+028a U+0024
+^ɲ	ɲ	ɲɪray, ɲɪrayɪkan	Oroqen	23	U+005e U+0272
+^ʊ	ʊ	ʊʃɪkta, ʊktʃa:-	Oroqen	23	U+005e U+028a
+u:	u:	dʒu:gduŋi dʒu:n, dʒu:gdu	Oroqen	22	U+0075 U+003a
+^y	y	yakʃiŋki, yɔ:ʃi	Oroqen	21	U+005e U+0079
+l$	l	ʃirkul, ukul-	Oroqen	21	U+006c U+0024
+ɛ:	ɛ:	gɛ:yin, yɛ:da	Oroqen	20	U+025b U+003a
+^ɪ	ɪ	ɪlara, ɪltʃa-	Oroqen	19	U+005e U+026a
+ɲ	ɲ	əɲəkə, iɲə-	Oroqen	18	U+0272
+^ɔ	ɔ	ɔrbɔnik, ɔgtɔ	Oroqen	17	U+005e U+0254
+a:$	a:	nɔ:da:-, ʊtaldʒa:-	Oroqen	15	U+0061 U+003a U+0024
+u:$	u:	dʒu:, gu:	Oroqen	14	U+0075 U+003a U+0024
+ŋ$	ŋ	inəŋ, dahwitaŋ	Oroqen	14	U+014b U+0024
+k$	k	tik-, ɔrbɔnik	Oroqen	14	U+006b U+0024
+^ŋ	ŋ	ŋa:la, ŋʊnʊm	Oroqen	13	U+005e U+014b
+ɛ$	ɛ	kəŋgugdɛ, tutuyɛ	Oroqen	12	U+025b U+0024
+^l	l	lʊpkʊptɪn, laŋɪ-	Oroqen	12	U+005e U+006c
+m$	m	ə:m, um-	Oroqen	12	U+006d U+0024
+^w	w	wurumkun, wa:-	Oroqen	11	U+005e U+0077
+i:$	i:	uni:-, ʃuʃi:	Oroqen	11	U+0069 U+003a U+0024
+o	o	toŋgorin, moŋwon	Oroqen	10	U+006f
+i:	i:	ʃi:p, ʃi:rə	Oroqen	10	U+0069 U+003a
+^p	p	pəykələ:-, pʊtʃa-	Oroqen	9	U+005e U+0070
+ɛ:$	ɛ:	bəbɛ:, ərəxəltɛ:-	Oroqen	9	U+025b U+003a U+0024
+ŋŋ	ŋŋ	tʊŋŋa, ʃaŋŋan	Oroqen	9	U+014b U+014b
+t$	t	tat-, tət-	Oroqen	9	U+0074 U+0024
+ɣ	ɣ	tubiɣə, dʒaʃiɣan	Oroqen	8	U+0263
+ɔ:$	ɔ:	mɔ:, dʒɔ:-	Oroqen	8	U+0254 U+003a U+0024
+^i:	i:	i:kə, i:rakta	Oroqen	8	U+005e U+0069 U+003a
+ʊ:	ʊ:	arʊ:n, dʒʊ:rki	Oroqen	7	U+028a U+003a
+o:	o:	ko:rgə, ko:məkə	Oroqen	7	U+006f U+003a
+y$	y	ɲɪray, uyəpdilə ɲɪray	Oroqen	6	U+0079 U+0024
+^ɔ:	ɔ:	ɔ:ki, ɔ:də:-	Oroqen	6	U+005e U+0254 U+003a
+g$	g	dʒəg, tɔ:rag	Oroqen	6	U+0067 U+0024
+o$	o	tʃuto, mo:ro-	Oroqen	5	U+006f U+0024
+^a:	a:	a:lan, a:ʃɪn-	Oroqen	5	U+005e U+0061 U+003a
+e:	e:	gawle:n, be:wyaŋ	Oroqen	4	U+0065 U+003a
+^o:	o:	o:n, o:tilə	Oroqen	4	U+005e U+006f U+003a
+^ɔ:$	ɔ:	ɔ:-	Oroqen	4	U+005e U+0254 U+003a U+0024
+x	x	ərəxəltɛ:-, uyəpdilə axɪ	Oroqen	4	U+0078
+ɪ:$	ɪ:	aʃakɪ:, adɪ:	Oroqen	4	U+026a U+003a U+0024
+^o	o	olbot-, oŋko:	Oroqen	4	U+005e U+006f
+^s	s	suytan, sʊlakɪ	Oroqen	4	U+005e U+0073
+ü	ü	dʒüy ʊna:dʒɪ, dʒünʃi	Oroqen	4	U+00fc
+^ə:	ə:	ə:m, ə:ri-	Oroqen	3	U+005e U+0259 U+003a
+ʃ$	ʃ	pɔrɔkɔʃ, aramuʃ	Oroqen	3	U+0283 U+0024
+w$	w	dʒalaw, tu:dəw	Oroqen	3	U+0077 U+0024
+p$	p	ʃi:p, ʃɪrʊp	Oroqen	3	U+0070 U+0024
+ʊ:$	ʊ:	nalɛmʊ:, ʊrʊ:-	Oroqen	2	U+028a U+003a U+0024
+β	β	ʃaβi, kaβila	Oroqen	2	U+03b2
+^u:	u:	u:n, u:yi-	Oroqen	2	U+005e U+0075 U+003a
+^ə$	ə	ə-	Oroqen	2	U+005e U+0259 U+0024
+^ʊ:	ʊ:	ʊ:ŋkan, ʊ:ŋnɪ-	Oroqen	2	U+005e U+028a U+003a
+ll	ll	tullə, dʒu:llə	Oroqen	2	U+006c U+006c
+b$	b	dʒəb-, tib-	Oroqen	2	U+0062 U+0024
+kk	kk	ətirkkətʃən, atirkka:tʃan	Oroqen	2	U+006b U+006b
+o:$	o:	ulo:-, oŋko:	Oroqen	2	U+006f U+003a U+0024
+^u:$	u:	u:-	Oroqen	1	U+005e U+0075 U+003a U+0024
+adirga (mʊrɪn)	<???>	adirga (mʊrɪn)	Oroqen	1	U+0061 U+0064 U+0069 U+0072 U+0067 U+0061 U+0020 U+0028 U+006d U+028a U+0072 U+026a U+006e U+0029
+hw	hw	dahwitaŋ	Oroqen	1	U+0068 U+0077
+^ɸ	ɸ	ɸəytin	Oroqen	1	U+005e U+0278
+ʃʃ	ʃʃ	ɪʃʃa	Oroqen	1	U+0283 U+0283
+^h	h	hudʒau	Oroqen	1	U+005e U+0068
+ŋw	ŋw	moŋwon	Oroqen	1	U+014b U+0077
+ɪ:	ɪ:	ʃɪ:la	Oroqen	1	U+026a U+003a
+urə (2)	<???>	urə (2)	Oroqen	1	U+0075 U+0072 U+0259 U+0020 U+0028 U+0032 U+0029
+bitəgə (phonetically bitəɣə)	<???>	bitəgə (phonetically bitəɣə)	Oroqen	1	U+0062 U+0069 U+0074 U+0259 U+0067 U+0259 U+0020 U+0028 U+0070 U+0068 U+006f U+006e U+0065 U+0074 U+0069 U+0063 U+0061 U+006c U+006c U+0079 U+0020 U+0062 U+0069 U+0074 U+0259 U+0263 U+0259 U+0029
+^kw	kw	kwaŋ	Oroqen	1	U+005e U+006b U+0077
+ʊra- (2)	<???>	ʊra- (2)	Oroqen	1	U+028a U+0072 U+0061 U+002d U+0020 U+0028 U+0032 U+0029
+ɔrɔn (1)	<???>	ɔrɔn (1)	Oroqen	1	U+0254 U+0072 U+0254 U+006e U+0020 U+0028 U+0031 U+0029
+daga (phonetically daɣa)	<???>	daga (phonetically daɣa)	Oroqen	1	U+0064 U+0061 U+0067 U+0061 U+0020 U+0028 U+0070 U+0068 U+006f U+006e U+0065 U+0074 U+0069 U+0063 U+0061 U+006c U+006c U+0079 U+0020 U+0064 U+0061 U+0263 U+0061 U+0029
+^i:$	i:	i:-	Oroqen	1	U+005e U+0069 U+003a U+0024
+ɔrɔn (2)	<???>	ɔrɔn (2)	Oroqen	1	U+0254 U+0072 U+0254 U+006e U+0020 U+0028 U+0032 U+0029
+s	s	dɔ:sun	Oroqen	1	U+0073
+bata (bəyə)	<???>	bata (bəyə)	Oroqen	1	U+0062 U+0061 U+0074 U+0061 U+0020 U+0028 U+0062 U+0259 U+0079 U+0259 U+0029
+^ə:$	ə:	ə:-	Oroqen	1	U+005e U+0259 U+003a U+0024
+urə (1)	<???>	urə (1)	Oroqen	1	U+0075 U+0072 U+0259 U+0020 U+0028 U+0031 U+0029
+rr	rr	dʒu:rrə	Oroqen	1	U+0072 U+0072
+nʃ	nʃ	dʒünʃi	Oroqen	1	U+006e U+0283
+gw	gw	wɔgwɔ	Oroqen	1	U+0067 U+0077
+itʃɛn (2)	<???>	itʃɛn (2)	Oroqen	1	U+0069 U+0074 U+0283 U+025b U+006e U+0020 U+0028 U+0032 U+0029
+ɸ	ɸ	daiɸu	Oroqen	1	U+0278
+ʊra- (1)	<???>	ʊra- (1)	Oroqen	1	U+028a U+0072 U+0061 U+002d U+0020 U+0028 U+0031 U+0029
+ŋʃ	ŋʃ	dəŋʃələ:-	Oroqen	1	U+014b U+0283
+itʃɛn (1)	<???>	itʃɛn (1)	Oroqen	1	U+0069 U+0074 U+0283 U+025b U+006e U+0020 U+0028 U+0031 U+0029
+tʃuwa (bəyə)	<???>	tʃuwa (bəyə)	Oroqen	1	U+0074 U+0283 U+0075 U+0077 U+0061 U+0020 U+0028 U+0062 U+0259 U+0079 U+0259 U+0029
+z	z	toŋzər	Oroqen	1	U+007a

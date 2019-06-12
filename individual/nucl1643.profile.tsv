@@ -1,0 +1,241 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	tagayasu, takai	Japanese	1076	U+0061
+i	i	sekinin, tairiku	Japanese	675	U+0069
+u$	u	motsu, kaku	Japanese	617	U+0075 U+0024
+o	o	kokoro, potopoto ochiru	Japanese	567	U+006f
+k	k	kaku, ibiki o kaku	Japanese	551	U+006b
+u	u	yurusu, kuruma	Japanese	549	U+0075
+r	r	toraeru, kariru	Japanese	546	U+0072
+i$	i	mugi, oji	Japanese	511	U+0069 U+0024
+e	e	neru, wakeru	Japanese	391	U+0065
+^k	k	kokoro, kaku	Japanese	327	U+005e U+006b
+n	n	kaminari, tonari no hito	Japanese	303	U+006e
+m	m	mamamusume, kaminari	Japanese	298	U+006d
+a$	a	oba, kyassaba	Japanese	213	U+0061 U+0024
+t	t	hi o tōsu, shūtome	Japanese	209	U+0074
+o$	o	kokoro, to	Japanese	198	U+006f U+0024
+b	b	oba, subesube	Japanese	186	U+0062
+g	g	mugi, nagai	Japanese	182	U+0067
+^m	m	mugi, motsu	Japanese	180	U+005e U+006d
+^h	h	hosoi, hi o tōsu	Japanese	165	U+005e U+0068
+s	s	hosoi, sasu	Japanese	165	U+0073
+n$	n	shujin, sekinin	Japanese	156	U+006e U+0024
+^s	s	suu, suji	Japanese	148	U+005e U+0073
+sh	sh	mushi, toshishita no kyōdai	Japanese	137	U+0073 U+0068
+^n	n	neru, niku	Japanese	128	U+005e U+006e
+e$	e	sore, kare	Japanese	126	U+0065 U+0024
+y	y	kyassaba, gyūnyū	Japanese	124	U+0079
+^t	t	takai, toru	Japanese	121	U+005e U+0074
+ts	ts	motsu, gatsugatsu	Japanese	115	U+0074 U+0073
+ō$	ō	zō, benkyō	Japanese	103	U+014d U+0024
+ō	ō	chōri, mōkeru	Japanese	102	U+014d
+^sh	sh	shujin, shiri	Japanese	100	U+005e U+0073 U+0068
+j	j	shujin, oji	Japanese	96	U+006a
+^o	o	oba, oji	Japanese	92	U+005e U+006f
+^a	a	akarui, ago	Japanese	91	U+005e U+0061
+z	z	hizamazuku, nozomu	Japanese	85	U+007a
+ch	ch	ichinichi, mamachichi	Japanese	85	U+0063 U+0068
+d	d	kodomo, jida	Japanese	80	U+0064
+_	_	hi o tōsu, ashi ga fujiyū da	Japanese	78	U+005f
+^y	y	yurusu, yome	Japanese	75	U+005e U+0079
+^b	b	benkyō, byōki	Japanese	62	U+005e U+0062
+^i	i	imo, inoshishi	Japanese	61	U+005e U+0069
+^d	d	dansei, denbu	Japanese	61	U+005e U+0064
+ū	ū	shūtome, shūto	Japanese	56	U+016b
+w	w	kowasu, niwa	Japanese	46	U+0077
+^u	u	utsu, ue	Japanese	45	U+005e U+0075
+^g	g	gai, gohan	Japanese	44	U+005e U+0067
+^f	f	fune, feruto	Japanese	40	U+005e U+0066
+^ts	ts	tsume, tsuki	Japanese	40	U+005e U+0074 U+0073
+^r	r	rakuda, raimugi	Japanese	37	U+005e U+0072
+^j	j	jida, jikan	Japanese	37	U+005e U+006a
+kk	kk	hanmokku, oshikko	Japanese	34	U+006b U+006b
+h	h	mamahaha, gohan	Japanese	33	U+0068
+^ch	ch	chōri, chawan	Japanese	32	U+005e U+0063 U+0068
+f	f	naifu, kafu	Japanese	23	U+0066
+^w	w	wakeru, wan	Japanese	23	U+005e U+0077
+^e	e	era, ei	Japanese	21	U+005e U+0065
+ū$	ū	kutsū, suigyū	Japanese	19	U+016b U+0024
+p	p	furaipan, supiichi	Japanese	18	U+0070
+ii$	ii	hoshii, kōhii	Japanese	17	U+0069 U+0069 U+0024
+ii	ii	ojiisan, supiichi	Japanese	16	U+0069 U+0069
+tt	tt	poketto, shitto	Japanese	15	U+0074 U+0074
+^ō	ō	ōgi, ōi	Japanese	15	U+005e U+014d
+pp	pp	oppai, hipparu	Japanese	15	U+0070 U+0070
+ōs	ōs	hi o tōsu, yōsei	Japanese	13	U+014d U+0073
+^p	p	purasuchikku, poketto	Japanese	13	U+005e U+0070
+^z	z	zō, zero	Japanese	11	U+005e U+007a
+’	<?>	saban’na, jo’ō	Japanese	10	U+2019
+nsh	nsh	jitensha, saibansho	Japanese	10	U+006e U+0073 U+0068
+ōsh	ōsh	dōshite, bōshi	Japanese	10	U+014d U+0073 U+0068
+nn	nn	onna, danna	Japanese	10	U+006e U+006e
+ns	ns	dansei, hansō	Japanese	9	U+006e U+0073
+ss	ss	kyassaba, bassai	Japanese	7	U+0073 U+0073
+uu$	uu	suu, furuu	Japanese	7	U+0075 U+0075 U+0024
+ā$	ā	jagā, autoriggā	Japanese	6	U+0101 U+0024
+ōh	ōh	kyōhaku, kosekishōhon	Japanese	5	U+014d U+0068
+ā	ā	gādoman, kāpetto	Japanese	5	U+0101
+ē	ē	tēburu, nanbāpurēto	Japanese	5	U+0113
+hi (1)	<???>	hi (1)	Japanese	3	U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+ās	ās	obāsan, okāsan	Japanese	3	U+0101 U+0073
+gg	gg	autoriggā, nettobaggu	Japanese	2	U+0067 U+0067
+tsuchi (1)	<???>	tsuchi (1)	Japanese	2	U+0074 U+0073 U+0075 U+0063 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+ssh	ssh	zesshoku, kesshite	Japanese	2	U+0073 U+0073 U+0068
+osu (2)	<???>	osu (2)	Japanese	2	U+006f U+0073 U+0075 U+0020 U+0028 U+0032 U+0029
+kai (2)	<???>	kai (2)	Japanese	2	U+006b U+0061 U+0069 U+0020 U+0028 U+0032 U+0029
+^ii	ii	iie, iiarasoi	Japanese	2	U+005e U+0069 U+0069
+toshi (1)	<???>	toshi (1)	Japanese	2	U+0074 U+006f U+0073 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+ki (1)	<???>	ki (1)	Japanese	2	U+006b U+0069 U+0020 U+0028 U+0031 U+0029
+uu	uu	mizuumi, akuun	Japanese	2	U+0075 U+0075
+saku (2)	<???>	saku (2)	Japanese	2	U+0073 U+0061 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
+tsuku (1)	<???>	tsuku (1)	Japanese	2	U+0074 U+0073 U+0075 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
+hana (1)	<???>	hana (1)	Japanese	2	U+0068 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
+shita (2)	<???>	shita (2)	Japanese	2	U+0073 U+0068 U+0069 U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
+kaeru (2)	<???>	kaeru (2)	Japanese	2	U+006b U+0061 U+0065 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+-	<?>	koshimino-sukāto, aka-chan	Japanese	2	U+002d
+kawa (2)	<???>	kawa (2)	Japanese	2	U+006b U+0061 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
+kimi (2)	<???>	kimi (2)	Japanese	1	U+006b U+0069 U+006d U+0069 U+0020 U+0028 U+0032 U+0029
+sensei (1)	<???>	sensei (1)	Japanese	1	U+0073 U+0065 U+006e U+0073 U+0065 U+0069 U+0020 U+0028 U+0031 U+0029
+hi (2)	<???>	hi (2)	Japanese	1	U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
+ka (2)	<???>	ka (2)	Japanese	1	U+006b U+0061 U+0020 U+0028 U+0032 U+0029
+kyō (1)	<???>	kyō (1)	Japanese	1	U+006b U+0079 U+014d U+0020 U+0028 U+0031 U+0029
+kiru (1)	<???>	kiru (1)	Japanese	1	U+006b U+0069 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+kiru (2)	<???>	kiru (2)	Japanese	1	U+006b U+0069 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+^o$	o	o	Japanese	1	U+005e U+006f U+0024
+kaeru (3)	<???>	kaeru (3)	Japanese	1	U+006b U+0061 U+0065 U+0072 U+0075 U+0020 U+0028 U+0033 U+0029
+sentaku (2)	<???>	sentaku (2)	Japanese	1	U+0073 U+0065 U+006e U+0074 U+0061 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
+shibō (2)	<???>	shibō (2)	Japanese	1	U+0073 U+0068 U+0069 U+0062 U+014d U+0020 U+0028 U+0032 U+0029
+chichi (2)	<???>	chichi (2)	Japanese	1	U+0063 U+0068 U+0069 U+0063 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
+kyō (2)	<???>	kyō (2)	Japanese	1	U+006b U+0079 U+014d U+0020 U+0028 U+0032 U+0029
+shita (1)	<???>	shita (1)	Japanese	1	U+0073 U+0068 U+0069 U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
+oo$	oo	honoo	Japanese	1	U+006f U+006f U+0024
+haku (1)	<???>	haku (1)	Japanese	1	U+0068 U+0061 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
+yōi (1)	<???>	yōi (1)	Japanese	1	U+0079 U+014d U+0069 U+0020 U+0028 U+0031 U+0029
+go (2)	<???>	go (2)	Japanese	1	U+0067 U+006f U+0020 U+0028 U+0032 U+0029
+niru (1)	<???>	niru (1)	Japanese	1	U+006e U+0069 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+dō (2)	<???>	dō (2)	Japanese	1	U+0064 U+014d U+0020 U+0028 U+0032 U+0029
+kiri (2)	<???>	kiri (2)	Japanese	1	U+006b U+0069 U+0072 U+0069 U+0020 U+0028 U+0032 U+0029
+ya (2)	<???>	ya (2)	Japanese	1	U+0079 U+0061 U+0020 U+0028 U+0032 U+0029
+chō (1)	<???>	chō (1)	Japanese	1	U+0063 U+0068 U+014d U+0020 U+0028 U+0031 U+0029
+kashi (1)	<???>	kashi (1)	Japanese	1	U+006b U+0061 U+0073 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+kumo (2)	<???>	kumo (2)	Japanese	1	U+006b U+0075 U+006d U+006f U+0020 U+0028 U+0032 U+0029
+hachi (3)	<???>	hachi (3)	Japanese	1	U+0068 U+0061 U+0063 U+0068 U+0069 U+0020 U+0028 U+0033 U+0029
+sen (2)	<???>	sen (2)	Japanese	1	U+0073 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+umi (2)	<???>	umi (2)	Japanese	1	U+0075 U+006d U+0069 U+0020 U+0028 U+0032 U+0029
+ame (2)	<???>	ame (2)	Japanese	1	U+0061 U+006d U+0065 U+0020 U+0028 U+0032 U+0029
+^u$	u	u	Japanese	1	U+005e U+0075 U+0024
+yoru (2)	<???>	yoru (2)	Japanese	1	U+0079 U+006f U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+nw	nw	denwa	Japanese	1	U+006e U+0077
+hōka (2)	<???>	hōka (2)	Japanese	1	U+0068 U+014d U+006b U+0061 U+0020 U+0028 U+0032 U+0029
+ken (1)	<???>	ken (1)	Japanese	1	U+006b U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+atsui (2)	<???>	atsui (2)	Japanese	1	U+0061 U+0074 U+0073 U+0075 U+0069 U+0020 U+0028 U+0032 U+0029
+hanasu (2)	<???>	hanasu (2)	Japanese	1	U+0068 U+0061 U+006e U+0061 U+0073 U+0075 U+0020 U+0028 U+0032 U+0029
+ikari (1)	<???>	ikari (1)	Japanese	1	U+0069 U+006b U+0061 U+0072 U+0069 U+0020 U+0028 U+0031 U+0029
+kiri (1)	<???>	kiri (1)	Japanese	1	U+006b U+0069 U+0072 U+0069 U+0020 U+0028 U+0031 U+0029
+^oo	oo	oou	Japanese	1	U+005e U+006f U+006f
+chichi (1)	<???>	chichi (1)	Japanese	1	U+0063 U+0068 U+0069 U+0063 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+^ū	ū	ūru	Japanese	1	U+005e U+016b
+ha (1)	<???>	ha (1)	Japanese	1	U+0068 U+0061 U+0020 U+0028 U+0031 U+0029
+yoru (1)	<???>	yoru (1)	Japanese	1	U+0079 U+006f U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+ē$	ē	kyandē	Japanese	1	U+0113 U+0024
+hanasu (1)	<???>	hanasu (1)	Japanese	1	U+0068 U+0061 U+006e U+0061 U+0073 U+0075 U+0020 U+0028 U+0031 U+0029
+toshi (2)	<???>	toshi (2)	Japanese	1	U+0074 U+006f U+0073 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
+niru (2)	<???>	niru (2)	Japanese	1	U+006e U+0069 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+saku (1)	<???>	saku (1)	Japanese	1	U+0073 U+0061 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
+^ē$	ē	ē	Japanese	1	U+005e U+0113 U+0024
+fuku (2)	<???>	fuku (2)	Japanese	1	U+0066 U+0075 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
+dō (1)	<???>	dō (1)	Japanese	1	U+0064 U+014d U+0020 U+0028 U+0031 U+0029
+ichi (1)	<???>	ichi (1)	Japanese	1	U+0069 U+0063 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+yōi (2)	<???>	yōi (2)	Japanese	1	U+0079 U+014d U+0069 U+0020 U+0028 U+0032 U+0029
+kawa (1)	<???>	kawa (1)	Japanese	1	U+006b U+0061 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
+hai (2)	<???>	hai (2)	Japanese	1	U+0068 U+0061 U+0069 U+0020 U+0028 U+0032 U+0029
+jū (1)	<???>	jū (1)	Japanese	1	U+006a U+016b U+0020 U+0028 U+0031 U+0029
+kami (1)	<???>	kami (1)	Japanese	1	U+006b U+0061 U+006d U+0069 U+0020 U+0028 U+0031 U+0029
+sensei (2)	<???>	sensei (2)	Japanese	1	U+0073 U+0065 U+006e U+0073 U+0065 U+0069 U+0020 U+0028 U+0032 U+0029
+ki (2)	<???>	ki (2)	Japanese	1	U+006b U+0069 U+0020 U+0028 U+0032 U+0029
+^i$	i	i	Japanese	1	U+005e U+0069 U+0024
+ka (1)	<???>	ka (1)	Japanese	1	U+006b U+0061 U+0020 U+0028 U+0031 U+0029
+shibō (1)	<???>	shibō (1)	Japanese	1	U+0073 U+0068 U+0069 U+0062 U+014d U+0020 U+0028 U+0031 U+0029
+bōru (1)	<???>	bōru (1)	Japanese	1	U+0062 U+014d U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+soko (2)	<???>	soko (2)	Japanese	1	U+0073 U+006f U+006b U+006f U+0020 U+0028 U+0032 U+0029
+shiru (1)	<???>	shiru (1)	Japanese	1	U+0073 U+0068 U+0069 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+kimi (1)	<???>	kimi (1)	Japanese	1	U+006b U+0069 U+006d U+0069 U+0020 U+0028 U+0031 U+0029
+kata (1)	<???>	kata (1)	Japanese	1	U+006b U+0061 U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
+taiyō (1)	<???>	taiyō (1)	Japanese	1	U+0074 U+0061 U+0069 U+0079 U+014d U+0020 U+0028 U+0031 U+0029
+shōnin (1)	<???>	shōnin (1)	Japanese	1	U+0073 U+0068 U+014d U+006e U+0069 U+006e U+0020 U+0028 U+0031 U+0029
+atsui (1)	<???>	atsui (1)	Japanese	1	U+0061 U+0074 U+0073 U+0075 U+0069 U+0020 U+0028 U+0031 U+0029
+ya (1)	<???>	ya (1)	Japanese	1	U+0079 U+0061 U+0020 U+0028 U+0031 U+0029
+jū (2)	<???>	jū (2)	Japanese	1	U+006a U+016b U+0020 U+0028 U+0032 U+0029
+ff	ff	baffarō	Japanese	1	U+0066 U+0066
+awa (2)	<???>	awa (2)	Japanese	1	U+0061 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
+nomi (2)	<???>	nomi (2)	Japanese	1	U+006e U+006f U+006d U+0069 U+0020 U+0028 U+0032 U+0029
+saru (2)	<???>	saru (2)	Japanese	1	U+0073 U+0061 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+kai (1)	<???>	kai (1)	Japanese	1	U+006b U+0061 U+0069 U+0020 U+0028 U+0031 U+0029
+chikai (1)	<???>	chikai (1)	Japanese	1	U+0063 U+0068 U+0069 U+006b U+0061 U+0069 U+0020 U+0028 U+0031 U+0029
+tō (2)	<???>	tō (2)	Japanese	1	U+0074 U+014d U+0020 U+0028 U+0032 U+0029
+osu (1)	<???>	osu (1)	Japanese	1	U+006f U+0073 U+0075 U+0020 U+0028 U+0031 U+0029
+awa (1)	<???>	awa (1)	Japanese	1	U+0061 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
+ni (1)	<???>	ni (1)	Japanese	1	U+006e U+0069 U+0020 U+0028 U+0031 U+0029
+aa	aa	horaana	Japanese	1	U+0061 U+0061
+ēsh	ēsh	inishiēshon	Japanese	1	U+0113 U+0073 U+0068
+go (1)	<???>	go (1)	Japanese	1	U+0067 U+006f U+0020 U+0028 U+0031 U+0029
+shōnin (2)	<???>	shōnin (2)	Japanese	1	U+0073 U+0068 U+014d U+006e U+0069 U+006e U+0020 U+0028 U+0032 U+0029
+sentaku (1)	<???>	sentaku (1)	Japanese	1	U+0073 U+0065 U+006e U+0074 U+0061 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
+shiru (2)	<???>	shiru (2)	Japanese	1	U+0073 U+0068 U+0069 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+dd	dd	beddo	Japanese	1	U+0064 U+0064
+soko (1)	<???>	soko (1)	Japanese	1	U+0073 U+006f U+006b U+006f U+0020 U+0028 U+0031 U+0029
+kara (1)	<???>	kara (1)	Japanese	1	U+006b U+0061 U+0072 U+0061 U+0020 U+0028 U+0031 U+0029
+hashi (1)	<???>	hashi (1)	Japanese	1	U+0068 U+0061 U+0073 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+^ii$	ii	ii	Japanese	1	U+005e U+0069 U+0069 U+0024
+hachi (1)	<???>	hachi (1)	Japanese	1	U+0068 U+0061 U+0063 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+kata (2)	<???>	kata (2)	Japanese	1	U+006b U+0061 U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
+shōnin (3)	<???>	shōnin (3)	Japanese	1	U+0073 U+0068 U+014d U+006e U+0069 U+006e U+0020 U+0028 U+0033 U+0029
+ha (2)	<???>	ha (2)	Japanese	1	U+0068 U+0061 U+0020 U+0028 U+0032 U+0029
+sen (3)	<???>	sen (3)	Japanese	1	U+0073 U+0065 U+006e U+0020 U+0028 U+0033 U+0029
+ken (2)	<???>	ken (2)	Japanese	1	U+006b U+0065 U+006e U+0020 U+0028 U+0032 U+0029
+tsuku (2)	<???>	tsuku (2)	Japanese	1	U+0074 U+0073 U+0075 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
+kyū (1)	<???>	kyū (1)	Japanese	1	U+006b U+0079 U+016b U+0020 U+0028 U+0031 U+0029
+kaeru (1)	<???>	kaeru (1)	Japanese	1	U+006b U+0061 U+0065 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+^ō$	ō	ō	Japanese	1	U+005e U+014d U+0024
+hari (2)	<???>	hari (2)	Japanese	1	U+0068 U+0061 U+0072 U+0069 U+0020 U+0028 U+0032 U+0029
+ito (1)	<???>	ito (1)	Japanese	1	U+0069 U+0074 U+006f U+0020 U+0028 U+0031 U+0029
+kashi (2)	<???>	kashi (2)	Japanese	1	U+006b U+0061 U+0073 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
+saru (1)	<???>	saru (1)	Japanese	1	U+0073 U+0061 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+fuku (3)	<???>	fuku (3)	Japanese	1	U+0066 U+0075 U+006b U+0075 U+0020 U+0028 U+0033 U+0029
+bōru (2)	<???>	bōru (2)	Japanese	1	U+0062 U+014d U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+umi (1)	<???>	umi (1)	Japanese	1	U+0075 U+006d U+0069 U+0020 U+0028 U+0031 U+0029
+kami (2)	<???>	kami (2)	Japanese	1	U+006b U+0061 U+006d U+0069 U+0020 U+0028 U+0032 U+0029
+fuku (1)	<???>	fuku (1)	Japanese	1	U+0066 U+0075 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
+ito (2)	<???>	ito (2)	Japanese	1	U+0069 U+0074 U+006f U+0020 U+0028 U+0032 U+0029
+nomi (1)	<???>	nomi (1)	Japanese	1	U+006e U+006f U+006d U+0069 U+0020 U+0028 U+0031 U+0029
+shin’yō (1)	<???>	shin’yō (1)	Japanese	1	U+0073 U+0068 U+0069 U+006e U+2019 U+0079 U+014d U+0020 U+0028 U+0031 U+0029
+hōka (1)	<???>	hōka (1)	Japanese	1	U+0068 U+014d U+006b U+0061 U+0020 U+0028 U+0031 U+0029
+haku (2)	<???>	haku (2)	Japanese	1	U+0068 U+0061 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
+kami (3)	<???>	kami (3)	Japanese	1	U+006b U+0061 U+006d U+0069 U+0020 U+0028 U+0033 U+0029
+tsuchi (2)	<???>	tsuchi (2)	Japanese	1	U+0074 U+0073 U+0075 U+0063 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
+sen (1)	<???>	sen (1)	Japanese	1	U+0073 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
+karu (2)	<???>	karu (2)	Japanese	1	U+006b U+0061 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
+hana (2)	<???>	hana (2)	Japanese	1	U+0068 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
+ni (2)	<???>	ni (2)	Japanese	1	U+006e U+0069 U+0020 U+0028 U+0032 U+0029
+shūkan (1)	<???>	shūkan (1)	Japanese	1	U+0073 U+0068 U+016b U+006b U+0061 U+006e U+0020 U+0028 U+0031 U+0029
+chikai (2)	<???>	chikai (2)	Japanese	1	U+0063 U+0068 U+0069 U+006b U+0061 U+0069 U+0020 U+0028 U+0032 U+0029
+shin’yō (2)	<???>	shin’yō (2)	Japanese	1	U+0073 U+0068 U+0069 U+006e U+2019 U+0079 U+014d U+0020 U+0028 U+0032 U+0029
+hari (1)	<???>	hari (1)	Japanese	1	U+0068 U+0061 U+0072 U+0069 U+0020 U+0028 U+0031 U+0029
+ichi (2)	<???>	ichi (2)	Japanese	1	U+0069 U+0063 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
+shūkan (2)	<???>	shūkan (2)	Japanese	1	U+0073 U+0068 U+016b U+006b U+0061 U+006e U+0020 U+0028 U+0032 U+0029
+chō (2)	<???>	chō (2)	Japanese	1	U+0063 U+0068 U+014d U+0020 U+0028 U+0032 U+0029
+kara (2)	<???>	kara (2)	Japanese	1	U+006b U+0061 U+0072 U+0061 U+0020 U+0028 U+0032 U+0029
+karu (1)	<???>	karu (1)	Japanese	1	U+006b U+0061 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+ame (1)	<???>	ame (1)	Japanese	1	U+0061 U+006d U+0065 U+0020 U+0028 U+0031 U+0029
+^ā	ā	āchi	Japanese	1	U+005e U+0101
+kumo (1)	<???>	kumo (1)	Japanese	1	U+006b U+0075 U+006d U+006f U+0020 U+0028 U+0031 U+0029
+^ōh	ōh	ōhashi	Japanese	1	U+005e U+014d U+0068
+kyū (2)	<???>	kyū (2)	Japanese	1	U+006b U+0079 U+016b U+0020 U+0028 U+0032 U+0029
+ikari (2)	<???>	ikari (2)	Japanese	1	U+0069 U+006b U+0061 U+0072 U+0069 U+0020 U+0028 U+0032 U+0029
+tō (1)	<???>	tō (1)	Japanese	1	U+0074 U+014d U+0020 U+0028 U+0031 U+0029
+ēs	ēs	onēsan	Japanese	1	U+0113 U+0073
+hai (1)	<???>	hai (1)	Japanese	1	U+0068 U+0061 U+0069 U+0020 U+0028 U+0031 U+0029
+taiyō (2)	<???>	taiyō (2)	Japanese	1	U+0074 U+0061 U+0069 U+0079 U+014d U+0020 U+0028 U+0032 U+0029
+hachi (2)	<???>	hachi (2)	Japanese	1	U+0068 U+0061 U+0063 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029

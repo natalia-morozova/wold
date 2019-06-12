@@ -1,0 +1,957 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	26-1-21-1	7215141494083357	Ceq Wong	chew1245	the land	LAND	626		tɛʔ	tɛʔ 
+2	26-1-212-1	7215141494083357	Ceq Wong	chew1245	the soil	EARTH (SOIL)	1228		tɛʔ	tɛʔ 
+3	26-1-213-1	7215141758812963	Ceq Wong	chew1245	the dust	DUST	2		hmɛ̃c	hmɛ̃c 
+4	26-1-214-1	7215141419935501	Ceq Wong	chew1245	the mud	MUD	640		gaʔɛ̃c	gaʔɛ̃c 
+5	26-1-215-1	7215141125914219	Ceq Wong	chew1245	the sand	SAND	671		pasir	pasir 
+6	26-1-22-1	7215141598256055	Ceq Wong	chew1245	the mountain or hill	MOUNTAIN OR HILL	2118		mnĩm	mnĩm 
+7	26-1-22-2	7215141555798156	Ceq Wong	chew1245	the mountain or hill	MOUNTAIN OR HILL	2118		cbɑʔ	cbɑʔ 
+8	26-1-222-1	7215141997430959	Ceq Wong	chew1245	the cliff or precipice	PRECIPICE	618		trɛh	trɛh 
+9	26-1-24-1	7215141706714629	Ceq Wong	chew1245	the valley	VALLEY	921		taɲoŋ	taɲoŋ 
+10	26-1-25-1	7215141616440756	Ceq Wong	chew1245	the island	ISLAND	622		pulaw	pulaw 
+11	26-1-28-1	7215141993621750	Ceq Wong	chew1245	the cave	CAVE	1155		daraŋ	daraŋ 
+12	26-1-31-1	7215141963271947	Ceq Wong	chew1245	the water	WATER	948		tɑm	tɑm 
+13	26-1-32-1	7215141851822256	Ceq Wong	chew1245	the sea	SEA	1474		lawot	lawot 
+14	26-1-324-1	7215141344657167	Ceq Wong	chew1245	the foam	FOAM	1768		cucuk	cucuk 
+15	26-1-329-1	7215141851822256	Ceq Wong	chew1245	the ocean	OCEAN	645		lawot	lawot 
+16	26-1-36-1	7215141963271947	Ceq Wong	chew1245	the river or stream	RIVER	666		tɑm	tɑm 
+17	26-1-37-1	721514161380356	Ceq Wong	chew1245	the spring or well	SPRING OR WELL	2144		ncɔk tɑm	ncɔk tɑm 
+18	26-1-38-1	7215141660074820	Ceq Wong	chew1245	the swamp	SWAMP	1145		payaʔ	payaʔ 
+19	26-1-39-1	7215141345754638	Ceq Wong	chew1245	the waterfall	WATERFALL	943		jrəm	jrəm 
+20	26-1-41-1	7215141181943689	Ceq Wong	chew1245	the woods or forest	FOREST	420		brtɛʔ	brtɛʔ 
+21	26-1-43-1	7215141364851030	Ceq Wong	chew1245	the wood	WOOD	1803		lɨŋ	lɨŋ 
+22	26-1-43-2	8211453875844292	Ceq Wong	chew1245	the wood	WOOD	1803		jəhũʔ	jəhũʔ 
+23	26-1-44-1	7215141362686217	Ceq Wong	chew1245	the stone or rock	STONE OR ROCK	2125		tmɔ̃ʔ	tmɔ̃ʔ 
+24	26-1-51-1	7215141631554548	Ceq Wong	chew1245	the sky	SKY	1732		laŋĩt	laŋĩt 
+25	26-1-52-1	7215141807321236	Ceq Wong	chew1245	the sun	SUN	1343		mɛ̃t ktɔʔ	mɛ̃t ktɔʔ 
+26	26-1-53-1	7215141471244876	Ceq Wong	chew1245	the moon	MOON	1313		kcɛʔ	kcɛʔ 
+27	26-1-54-1	7215141956047187	Ceq Wong	chew1245	the star	STAR	1430		bintaŋ	bintaŋ 
+28	26-1-55-1	7215141591511441	Ceq Wong	chew1245	the lightning	LIGHTNING	1654		kilɑt	kilɑt 
+29	26-1-56-1	7215141961812208	Ceq Wong	chew1245	the thunder	THUNDER	1150		karay	karay 
+30	26-1-57-1	7215141787740636	Ceq Wong	chew1245	the bolt of lightning	BOLT (OF LIGHTNING)	2007		klantãr	klantãr 
+31	26-1-59-1	7215141405397362	Ceq Wong	chew1245	the rainbow	RAINBOW	1733		bayaŋ talon	bayaŋ talon 
+32	26-1-61-1	7215141902685092	Ceq Wong	chew1245	the light	LIGHT (RADIATION)	630		cinhəy	cinhəy 
+33	26-1-62-1	7215141114149141	Ceq Wong	chew1245	the darkness	DARKNESS	11		saŋkuy	saŋkuy 
+34	26-1-63-1	7215141251173784	Ceq Wong	chew1245	the shade or shadow	SHADE	1388		bayaŋ	bayaŋ 
+35	26-1-64-1	721514146636826	Ceq Wong	chew1245	the dew	DEW	1977		mon	mon 
+36	26-1-72-1	7215141478303189	Ceq Wong	chew1245	the wind	WIND	960		hɔŋ	hɔŋ 
+37	26-1-73-1	7215141459225504	Ceq Wong	chew1245	the cloud	CLOUD	1489		ʔɑl	ʔɑl 
+38	26-1-74-1	7215141459225504	Ceq Wong	chew1245	the fog	FOG	249		ʔɑl	ʔɑl 
+39	26-1-75-1	7215141395933265	Ceq Wong	chew1245	the rain	RAIN (PRECIPITATION)	658		səm	səm 
+40	26-1-77-1	7215141880811282	Ceq Wong	chew1245	the ice	ICE	617		tɑm batuʔ	tɑm batuʔ 
+41	26-1-81-1	7215141768000666	Ceq Wong	chew1245	the fire	FIRE	221		ʔɔs	ʔɔs 
+42	26-1-82-1	7215141768000666	Ceq Wong	chew1245	the flame	FLAME	889		ʔɔs	ʔɔs 
+43	26-1-83-1	7215141466624455	Ceq Wong	chew1245	the smoke	SMOKE (EXHAUST)	778		siyay	siyay 
+44	26-1-84-1	7215141744585578	Ceq Wong	chew1245	the ash	ASH	646		habuʔ	habuʔ 
+45	26-1-841-1	721514164071852	Ceq Wong	chew1245	the embers	EMBERS	67		cikɛh	cikɛh 
+46	26-1-851-1	7215141210007254	Ceq Wong	chew1245	to burn(1)	BURN (SOMETHING)	141		siut	siut 
+47	26-1-851-2	721514171179344	Ceq Wong	chew1245	to burn(1)	BURN (SOMETHING)	141		jəʔ (1)	jəʔ (1) 
+48	26-1-852-1	7215141659871919	Ceq Wong	chew1245	to burn(2)	BURNING	1428		ŋəc	ŋəc 
+49	26-1-86-1	7215141876697301	Ceq Wong	chew1245	to light	LIGHT (IGNITE)	737		cŋɔ̃ɲ	cŋɔ̃ɲ 
+50	26-1-86-2	7215141580671876	Ceq Wong	chew1245	to light	LIGHT (IGNITE)	737		cos	cos 
+51	26-1-861-1	721514196791524	Ceq Wong	chew1245	to extinguish	EXTINGUISH	127		pilɨt	pilɨt 
+52	26-1-87-1	7215141768000666	Ceq Wong	chew1245	the match	MATCH	1133		ʔɔs	ʔɔs 
+53	26-1-88-1	7215141768000666	Ceq Wong	chew1245	the firewood	FIREWOOD	10		ʔɔs	ʔɔs 
+54	26-2-1-1	7215141775291821	Ceq Wong	chew1245	the person	PERSON	683		biʔ (1)	biʔ (1) 
+55	26-2-1-2	7215141642141774	Ceq Wong	chew1245	the person	PERSON	683		briʔ	briʔ 
+56	26-2-21-1	7215141943157207	Ceq Wong	chew1245	the man	MAN	1554		tuŋkal (1)	tuŋkal (1) 
+57	26-2-22-1	81221528223784295	Ceq Wong	chew1245	the woman	WOMAN	962		koŋ (1)	koŋ (1) 
+58	26-2-23-1	721514173599776	Ceq Wong	chew1245	male(1)	MALE (OF ANIMAL)	2263		tuŋkal (2)	tuŋkal (2) 
+59	26-2-24-1	81221533376924059	Ceq Wong	chew1245	female(1)	FEMALE (OF PERSON)	2260		koŋ (2)	koŋ (2) 
+60	26-2-251-1	7215141889474332	Ceq Wong	chew1245	the young man	YOUNG MAN	76		bujaŋ	bujaŋ 
+61	26-2-261-1	7215141144351483	Ceq Wong	chew1245	the young woman	YOUNG WOMAN	77		kdɑh	kdɑh 
+62	26-2-27-1	7215141656613334	Ceq Wong	chew1245	the child(1)	CHILD (YOUNG HUMAN)	1304		budak	budak 
+63	26-2-31-1	7215141472232400	Ceq Wong	chew1245	the husband	HUSBAND	1200		teʔ (1)	teʔ (1) 
+64	26-2-32-1	7215141816463972	Ceq Wong	chew1245	the wife	WIFE	1199		jəʔ (2)	jəʔ (2) 
+65	26-2-33-1	7215141414253181	Ceq Wong	chew1245	to marry	MARRY	203		ʔɑm	ʔɑm 
+66	26-2-35-1	7215141851947932	Ceq Wong	chew1245	the father	FATHER	1217		bap	bap 
+67	26-2-36-1	721514143841181	Ceq Wong	chew1245	the mother	MOTHER	1216		mɔ̃y	mɔ̃y 
+68	26-2-36-2	721514150465662	Ceq Wong	chew1245	the mother	MOTHER	1216		mɛ̃p	mɛ̃p 
+69	26-2-37-1	7215141750995998	Ceq Wong	chew1245	the parents	PARENTS	505		teʔ mɔ̃y	teʔ mɔ̃y 
+70	26-2-43-1	7215141135203488	Ceq Wong	chew1245	the child(2)	CHILD (DESCENDANT)	1801		wɔŋ	wɔŋ 
+71	26-2-458-1	7215141699163391	Ceq Wong	chew1245	the twins	TWINS	1005		kmar	kmar 
+72	26-2-46-1	721514115896113	Ceq Wong	chew1245	the grandfather	GRANDFATHER	1383		tɑʔ	tɑʔ 
+73	26-2-47-1	7215141429393787	Ceq Wong	chew1245	the grandmother	GRANDMOTHER	1496		yɑʔ	yɑʔ 
+74	26-2-56-1	7215141726129913	Ceq Wong	chew1245	the ancestors	ANCESTORS	1669		briʔ kmanɨ̃h	briʔ kmanɨ̃h 
+75	26-2-71-1	7215141276632492	Ceq Wong	chew1245	the stepfather	STEPFATHER	237		bap gɔy	bap gɔy 
+76	26-2-72-1	7215141645583022	Ceq Wong	chew1245	the stepmother	STEPMOTHER	236		mɔ̃y gɔy	mɔ̃y gɔy 
+77	26-2-82-1	7215141574214653	Ceq Wong	chew1245	the family	FAMILY	194		kamĩn	kamĩn 
+78	26-2-91-1	7215141347109334	Ceq Wong	chew1245	I	I	1209		ʔiŋ	ʔiŋ 
+79	26-2-92-1	7215141555321143	Ceq Wong	chew1245	you (singular)	THOU	1215		mɨ̃ʔ	mɨ̃ʔ 
+80	26-2-93-1	7215141799478150	Ceq Wong	chew1245	he/she/it	HE OR SHE OR IT	262		ʔuh (1)	ʔuh (1) 
+81	26-2-941-1	7215141949854067	Ceq Wong	chew1245	we (inclusive)	WE (INCLUSIVE)	1131		hɛʔ	hɛʔ 
+82	26-2-942-1	7215141170699072	Ceq Wong	chew1245	we (exclusive)	WE (EXCLUSIVE)	1130		jaʔ	jaʔ 
+83	26-2-95-1	7215141137469922	Ceq Wong	chew1245	you (plural)	YOU	1213		jin	jin 
+84	26-2-96-1	7215141653383870	Ceq Wong	chew1245	they	THEY	817		gən	gən 
+85	26-3-11-1	7215141913156750	Ceq Wong	chew1245	the animal	ANIMAL	619		nataŋ	nataŋ 
+86	26-3-12-1	721514173599776	Ceq Wong	chew1245	male(2)	MALE (OF PERSON)	2261		tuŋkal (2)	tuŋkal (2) 
+87	26-3-13-1	81221533376924059	Ceq Wong	chew1245	female(2)	FEMALE (OF ANIMAL)	2262		koŋ (2)	koŋ (2) 
+88	26-3-32-1	7215141703530315	Ceq Wong	chew1245	the boar	BOAR	1348		gaw	gaw 
+89	26-3-35-1	7215141516733403	Ceq Wong	chew1245	the pig	PIG	1337		gaw ʔɔ̃t	gaw ʔɔ̃t 
+90	26-3-36-1	7215141336560295	Ceq Wong	chew1245	the goat	GOAT	1502		kamiŋ	kamiŋ 
+91	26-3-41-1	7215141773677388	Ceq Wong	chew1245	the horse	HORSE	615		kudə	kudə 
+92	26-3-5-1	7215141624794184	Ceq Wong	chew1245	the fowl	FOWL	265		hayam	hayam 
+93	26-3-58-1	7215141239562517	Ceq Wong	chew1245	the nest	NEST	539		sɔm	sɔm 
+94	26-3-581-1	7215141351394034	Ceq Wong	chew1245	the bird	BIRD	937		kawaw	kawaw 
+95	26-3-584-1	7215141786196247	Ceq Wong	chew1245	the eagle	EAGLE	1905		kawaw klɑŋ	kawaw klɑŋ 
+96	26-3-586-1	7215141289325906	Ceq Wong	chew1245	the vulture	VULTURE	1185		klɑŋ kday	klɑŋ kday 
+97	26-3-591-1	7215141617077768	Ceq Wong	chew1245	the bat	BAT	1793		plek	plek 
+98	26-3-593-1	7215141437873648	Ceq Wong	chew1245	the crow	CROW	913		kawaw lupɔl	kawaw lupɔl 
+99	26-3-61-1	7215141209314750	Ceq Wong	chew1245	the dog	DOG	2009		ʔɛ̃ŋ	ʔɛ̃ŋ 
+100	26-3-62-1	7215141164710524	Ceq Wong	chew1245	the cat	CAT	1208		kuceŋ	kuceŋ 
+101	26-3-62-2	7215141234528019	Ceq Wong	chew1245	the cat	CAT	1208		yãw	yãw 
+102	26-3-63-1	7215141293132020	Ceq Wong	chew1245	the mouse or rat	MUROID (MOUSE OR RAT)	2139		knɛ̃ʔ	knɛ̃ʔ 
+103	26-3-65-1	721514179839002	Ceq Wong	chew1245	the fish	FISH	227		kiəʔ	kiəʔ 
+104	26-3-652-1	7215141320932278	Ceq Wong	chew1245	the fin	FIN	213		layar	layar 
+105	26-3-653-1	7215141939050154	Ceq Wong	chew1245	the scale	SCALE	266		sisik	sisik 
+106	26-3-654-1	7215141596638035	Ceq Wong	chew1245	the gill	GILL	1916		səʔaŋ	səʔaŋ 
+107	26-3-655-1	7215141838208	Ceq Wong	chew1245	the shell	SHELL	598		hoʔ	hoʔ 
+108	26-3-73-1	7215141102933811	Ceq Wong	chew1245	the bear	BEAR	1820		slabɑs	slabɑs 
+109	26-3-77-1	7215141202691821	Ceq Wong	chew1245	the elephant	ELEPHANT	1290		gajah	gajah 
+110	26-3-811-1	7215141943415721	Ceq Wong	chew1245	the head louse	HEAD LOUSE	310		cɛʔ	cɛʔ 
+111	26-3-812-1	7215141538394952	Ceq Wong	chew1245	the nit	NIT	267		ktuət	ktuət 
+112	26-3-813-1	7215141997347721	Ceq Wong	chew1245	the flea	FLEA	232		cɛʔ ʔɛ̃ŋ	cɛʔ ʔɛ̃ŋ 
+113	26-3-814-1	721514136855743	Ceq Wong	chew1245	the centipede	CENTIPEDE	1974		kəʔɛp	kəʔɛp 
+114	26-3-815-1	7215141532055177	Ceq Wong	chew1245	the scorpion	SCORPION	1538		caŋkiyɛ̃ʔ	caŋkiyɛ̃ʔ 
+115	26-3-816-1	7215141835392819	Ceq Wong	chew1245	the cockroach	COCKROACH	1575		sdɛʔ	sdɛʔ 
+116	26-3-817-1	721514185910054	Ceq Wong	chew1245	the ant	ANT	587		lɑs	lɑs 
+117	26-3-818-1	721514115589075	Ceq Wong	chew1245	the spider	SPIDER	843		cambɨŋ	cambɨŋ 
+118	26-3-819-1	7215141329973835	Ceq Wong	chew1245	the spider web	SPIDER WEB	1065		sɔm cambɨŋ	sɔm cambɨŋ 
+119	26-3-82-1	7215141132515038	Ceq Wong	chew1245	the bee	BEE	665		lway	lway 
+120	26-3-821-1	7215141193334300	Ceq Wong	chew1245	the beeswax	BEESWAX	1931		saraŋ lway	saraŋ lway 
+121	26-3-822-1	7215141193334300	Ceq Wong	chew1245	the beehive	BEEHIVE	88		saraŋ lway	saraŋ lway 
+122	26-3-83-1	7215141448929990	Ceq Wong	chew1245	the fly	FLY (INSECT)	1504		yay	yay 
+123	26-3-831-1	7215141354724027	Ceq Wong	chew1245	the sandfly or midge or gnat	SANDFLY	95		kmɨ̃t hmɛ̃c	kmɨ̃t hmɛ̃c 
+124	26-3-831-2	7215141819749314	Ceq Wong	chew1245	the sandfly or midge or gnat	SANDFLY	95		kboŋ	kboŋ 
+125	26-3-832-1	721514178997522	Ceq Wong	chew1245	the mosquito	MOSQUITO	1509		kmɨ̃t	kmɨ̃t 
+126	26-3-84-1	7215141522068502	Ceq Wong	chew1245	the worm	WORM	1219		caceŋ	caceŋ 
+127	26-3-85-1	7215141760713717	Ceq Wong	chew1245	the snake	SNAKE	730		talon	talon 
+128	26-3-91-1	7215141766490565	Ceq Wong	chew1245	the firefly	FIREFLY	206		ktlət	ktlət 
+129	26-3-92-1	7215141975897649	Ceq Wong	chew1245	the butterfly	BUTTERFLY	1791		lkwɔk	lkwɔk 
+130	26-3-93-1	7215141951156584	Ceq Wong	chew1245	the grasshopper	GRASSHOPPER	607		balaŋ	balaŋ 
+131	26-3-94-1	7215141605508936	Ceq Wong	chew1245	the snail	SNAIL	1543		siput	siput 
+132	26-3-95-1	7215141188500354	Ceq Wong	chew1245	the frog	FROG	503		katak	katak 
+133	26-3-97-1	7215141297886065	Ceq Wong	chew1245	the crocodile or alligator	CROCODILE	1857		bahayaʔ	bahayaʔ 
+134	26-4-12-1	7215141838208	Ceq Wong	chew1245	the skin or hide	SKIN	763		hoʔ	hoʔ 
+135	26-4-13-1	7215141104597568	Ceq Wong	chew1245	the flesh	FLESH	2259		sac	sac 
+136	26-4-14-1	7215141944998688	Ceq Wong	chew1245	the hair	HAIR (HEAD)	2648		sɔk (1)	sɔk (1) 
+137	26-4-144-1	7215141944998688	Ceq Wong	chew1245	the body hair	HAIR (BODY)	189		sɔk (1)	sɔk (1) 
+138	26-4-145-1	7215141944998688	Ceq Wong	chew1245	the pubic hair	PUBIC HAIR	36		sɔk (1)	sɔk (1) 
+139	26-4-15-1	7215141553183731	Ceq Wong	chew1245	the blood	BLOOD	946		mhə̃m	mhə̃m 
+140	26-4-151-1	7215141141186135	Ceq Wong	chew1245	the vein or artery	BLOOD VESSEL	525		ʔurat	ʔurat 
+141	26-4-16-1	7215141462692518	Ceq Wong	chew1245	the bone	BONE	1394		jəʔeŋ	jəʔeŋ 
+142	26-4-162-1	7215141738152327	Ceq Wong	chew1245	the rib	RIB	801		crɨs	crɨs 
+143	26-4-17-1	7215141207254178	Ceq Wong	chew1245	the horn	HORN (ANATOMY)	1393		tanok	tanok 
+144	26-4-18-1	7215141836140844	Ceq Wong	chew1245	the tail	TAIL	1220		hateʔ	hateʔ 
+145	26-4-19-1	7215141169928191	Ceq Wong	chew1245	the back	BACK	1291		hŋkɨŋ	hŋkɨŋ 
+146	26-4-191-1	7215141625538466	Ceq Wong	chew1245	the spine	SPINE	805		jəʔeŋ hŋkɨŋ	jəʔeŋ hŋkɨŋ 
+147	26-4-2-1	7215141201216781	Ceq Wong	chew1245	the head	HEAD	1256		kuy	kuy 
+148	26-4-202-1	7215141323721860	Ceq Wong	chew1245	the skull	SKULL	1605		jəʔeŋ kyɛm	jəʔeŋ kyɛm 
+149	26-4-203-1	7215141624180148	Ceq Wong	chew1245	the brain	BRAIN	1583		kyɛm	kyɛm 
+150	26-4-204-1	7215141341124949	Ceq Wong	chew1245	the face	FACE	1560		hŋgɔs	hŋgɔs 
+151	26-4-205-1	721514110292971	Ceq Wong	chew1245	the forehead	FOREHEAD	123		btɨʔ	btɨʔ 
+152	26-4-207-1	7215141847462313	Ceq Wong	chew1245	the jaw	JAW	798		jaŋkwɛ̃ʔ	jaŋkwɛ̃ʔ 
+153	26-4-208-1	7215141254969338	Ceq Wong	chew1245	the cheek	CHEEK	1730		mɛ̃ŋ	mɛ̃ŋ 
+154	26-4-209-1	7215141847462313	Ceq Wong	chew1245	the chin	CHIN	1510		jaŋkwɛ̃ʔ	jaŋkwɛ̃ʔ 
+155	26-4-21-1	7215141730413703	Ceq Wong	chew1245	the eye	EYE	1248		mɛ̃t	mɛ̃t 
+156	26-4-212-1	7215141337770147	Ceq Wong	chew1245	the eyebrow	EYEBROW	1173		cymɨ̃y	cymɨ̃y 
+157	26-4-213-1	7215141630168263	Ceq Wong	chew1245	the eyelid	EYELID	17		hoʔ mɛ̃t	hoʔ mɛ̃t 
+158	26-4-214-1	7215141588639476	Ceq Wong	chew1245	the eyelash	EYELASH	1540		sɔk mɛ̃t	sɔk mɛ̃t 
+159	26-4-215-1	7215141264737880	Ceq Wong	chew1245	to blink	BLINK	1655		kilep	kilep 
+160	26-4-22-1	7215141331279896	Ceq Wong	chew1245	the ear	EAR	1247		hntəŋ	hntəŋ 
+161	26-4-221-1	7215141531515001	Ceq Wong	chew1245	the earlobe	EARLOBE	18		haleʔ hntəŋ	haleʔ hntəŋ 
+162	26-4-222-1	721514196868943	Ceq Wong	chew1245	the earwax	EARWAX	32		ʔac hntəŋ	ʔac hntəŋ 
+163	26-4-23-1	7215141628596365	Ceq Wong	chew1245	the nose	NOSE	1221		mɔ̃h	mɔ̃h 
+164	26-4-231-1	7215141842515997	Ceq Wong	chew1245	the nostril	NOSTRIL	1178		daraŋ mɔ̃h	daraŋ mɔ̃h 
+165	26-4-232-1	7215141553945002	Ceq Wong	chew1245	the nasal mucus	NASAL MUCUS (SNOT)	208		biʔ hawar	biʔ hawar 
+166	26-4-24-1	721514196216125	Ceq Wong	chew1245	the mouth	MOUTH	674		hɑɲ	hɑɲ 
+167	26-4-241-1	7215141766529259	Ceq Wong	chew1245	the beak	BEAK	73		paroh	paroh 
+168	26-4-25-1	7215141336258608	Ceq Wong	chew1245	the lip	LIP	478		hoʔ hɑɲ	hoʔ hɑɲ 
+169	26-4-26-1	7215141856910501	Ceq Wong	chew1245	the tongue	TONGUE	1205		latek	latek 
+170	26-4-27-1	7215141758836549	Ceq Wong	chew1245	the tooth	TOOTH	1380		lmũɲ	lmũɲ 
+171	26-4-271-1	7215141749124765	Ceq Wong	chew1245	the gums	GUMS	139		sac lmũɲ	sac lmũɲ 
+172	26-4-272-1	7215141757799726	Ceq Wong	chew1245	the molar tooth	MOLAR TOOTH	1049		taŋgəm	taŋgəm 
+173	26-4-28-1	7215141563512990	Ceq Wong	chew1245	the neck	NECK	1333		lŋɛ̃ʔ	lŋɛ̃ʔ 
+174	26-4-281-1	7215141521764632	Ceq Wong	chew1245	the nape of the neck	NAPE (OF NECK)	1347		taŋkɔk	taŋkɔk 
+175	26-4-29-1	7215141405552778	Ceq Wong	chew1245	the throat	THROAT	1346		cnroŋ	cnroŋ 
+176	26-4-3-1	7215141468657284	Ceq Wong	chew1245	the shoulder	SHOULDER	1482		bahoʔ	bahoʔ 
+177	26-4-301-1	7215141932551119	Ceq Wong	chew1245	the shoulderblade	SHOULDERBLADE	172		jəʔeŋ bahoʔ	jəʔeŋ bahoʔ 
+178	26-4-302-1	7215141457977556	Ceq Wong	chew1245	the collarbone	COLLARBONE	1994		jʔeŋ galoŋ	jʔeŋ galoŋ 
+179	26-4-312-1	7215141245901078	Ceq Wong	chew1245	the armpit	ARMPIT	1886		ladaʔ	ladaʔ 
+180	26-4-32-1	7215141725243583	Ceq Wong	chew1245	the elbow	ELBOW	981		knɨ̃ŋ	knɨ̃ŋ 
+181	26-4-321-1	7215141289895964	Ceq Wong	chew1245	the wrist	WRIST	799		raŋɛ̃l	raŋɛ̃l 
+182	26-4-33-1	7215141139258269	Ceq Wong	chew1245	the hand	HAND	1277		cɑs	cɑs 
+183	26-4-331-1	7215141709107270	Ceq Wong	chew1245	the palm of the hand	PALM OF HAND	1183		tapak cɑs	tapak cɑs 
+184	26-4-34-1	7215141335989936	Ceq Wong	chew1245	the finger	FINGER	1303		wɔŋ cɑs	wɔŋ cɑs 
+185	26-4-342-1	7215141432648373	Ceq Wong	chew1245	the thumb	THUMB	1781		bəʔ cɑs	bəʔ cɑs 
+186	26-4-344-1	7215141156633122	Ceq Wong	chew1245	the fingernail	FINGERNAIL	1258		skoʔ	skoʔ 
+187	26-4-345-1	7215141156633122	Ceq Wong	chew1245	the claw	CLAW	72		skoʔ	skoʔ 
+188	26-4-351-1	721514153498968	Ceq Wong	chew1245	the thigh	THIGH	800		bləʔ	bləʔ 
+189	26-4-352-1	7215141482180914	Ceq Wong	chew1245	the calf of the leg	CALF OF LEG	498		baŋkoʔ kəhɛr	baŋkoʔ kəhɛr 
+190	26-4-36-1	7215141717689673	Ceq Wong	chew1245	the knee	KNEE	1371		ktoŋ	ktoŋ 
+191	26-4-37-1	7215141754225145	Ceq Wong	chew1245	the foot	FOOT	1301		cɑn	cɑn 
+192	26-4-371-1	7215141102578150	Ceq Wong	chew1245	the ankle	ANKLE	803		kteŋ cɑn	kteŋ cɑn 
+193	26-4-372-1	7215141182882998	Ceq Wong	chew1245	the heel	HEEL	980		lol	lol 
+194	26-4-374-1	7215141462806442	Ceq Wong	chew1245	the footprint	FOOTPRINT	318		tel	tel 
+195	26-4-38-1	7215141732899554	Ceq Wong	chew1245	the toe	TOE	1389		wɔŋ cɑn	wɔŋ cɑn 
+196	26-4-392-1	7215141249220804	Ceq Wong	chew1245	the wing	WING	1257		prac	prac 
+197	26-4-393-1	7215141944998688	Ceq Wong	chew1245	the feather	FEATHER	1201		sɔk (1)	sɔk (1) 
+198	26-4-4-1	7215141252397470	Ceq Wong	chew1245	the chest	CHEST	1592		cnʔɑh	cnʔɑh 
+199	26-4-41-1	7215141366337174	Ceq Wong	chew1245	the breast	BREAST	1402		buʔ	buʔ 
+200	26-4-42-1	7215141366337174	Ceq Wong	chew1245	the udder	UDDER	154		buʔ	buʔ 
+201	26-4-43-1	7215141686558787	Ceq Wong	chew1245	the navel	NAVEL	1838		sksiak (2)	sksiak (2) 
+202	26-4-44-1	7215141324941161	Ceq Wong	chew1245	the heart	HEART	1223		kaɲɛ̃s	kaɲɛ̃s 
+203	26-4-441-1	7215141124434019	Ceq Wong	chew1245	the lung	LUNG	688		sop	sop 
+204	26-4-45-1	7215141660320727	Ceq Wong	chew1245	the liver	LIVER	1224		ros	ros 
+205	26-4-451-1	7215141208470850	Ceq Wong	chew1245	the kidney	KIDNEY	489		ploʔ gal	ploʔ gal 
+206	26-4-452-1	7215141980006617	Ceq Wong	chew1245	the spleen	SPLEEN	1744		koh	koh 
+207	26-4-452-2	7215141247901683	Ceq Wong	chew1245	the spleen	SPLEEN	1744		plih	plih 
+208	26-4-46-1	7215141445885194	Ceq Wong	chew1245	the stomach	STOMACH	819		ʔac cəŋ	ʔac cəŋ 
+209	26-4-461-1	7215141314112672	Ceq Wong	chew1245	the intestines or guts	INTESTINES	1991		ʔac war	ʔac war 
+210	26-4-462-1	7215141961214868	Ceq Wong	chew1245	the waist	WAIST	1681		gal	gal 
+211	26-4-463-1	7215141391953183	Ceq Wong	chew1245	the hip	HIP	1745		wɛ̃ŋ	wɛ̃ŋ 
+212	26-4-464-1	7215141391953183	Ceq Wong	chew1245	the buttocks	BUTTOCKS	834		wɛ̃ŋ	wɛ̃ŋ 
+213	26-4-47-1	7215141239562517	Ceq Wong	chew1245	the womb	WOMB	804		sɔm	sɔm 
+214	26-4-49-1	7215141510483324	Ceq Wong	chew1245	the testicles	TESTICLES	797		hntap	hntap 
+215	26-4-492-1	7215141576478124	Ceq Wong	chew1245	the penis	PENIS	1222		lɑʔ	lɑʔ 
+216	26-4-51-1	7215141834541312	Ceq Wong	chew1245	to breathe	BREATHE	1407		snjɨk	snjɨk 
+217	26-4-52-1	7215141858927451	Ceq Wong	chew1245	to yawn	YAWN	1028		hyhuay	hyhuay 
+218	26-4-521-1	7215141310377843	Ceq Wong	chew1245	to hiccough	HICCOUGH	162		madɨk	madɨk 
+219	26-4-53-1	7215141395921196	Ceq Wong	chew1245	to cough	COUGH	879		batok	batok 
+220	26-4-54-1	7215141773691044	Ceq Wong	chew1245	to sneeze	SNEEZE	1621		bsin	bsin 
+221	26-4-55-1	7215141386603005	Ceq Wong	chew1245	to perspire	SWEAT (PERSPIRE)	126		brahɔc	brahɔc 
+222	26-4-56-1	7215141258874938	Ceq Wong	chew1245	to spit	SPIT	1440		kbac	kbac 
+223	26-4-57-1	7215141316001608	Ceq Wong	chew1245	to vomit	VOMIT	1278		kəʔ	kəʔ 
+224	26-4-58-1	7215141195943339	Ceq Wong	chew1245	to bite	BITE	1403		kap	kap 
+225	26-4-59-1	7215141982676594	Ceq Wong	chew1245	to lick	LICK	319		kɑl	kɑl 
+226	26-4-591-1	7215141133128964	Ceq Wong	chew1245	to dribble	DRIBBLE	268		snjər	snjər 
+227	26-4-61-1	7215141414253181	Ceq Wong	chew1245	to sleep	SLEEP	1585		ʔɑm	ʔɑm 
+228	26-4-612-1	7215141546107038	Ceq Wong	chew1245	to snore	SNORE	1983		snər	snər 
+229	26-4-62-1	7215141106880910	Ceq Wong	chew1245	to dream	DREAM (SOMETHING)	1920		mamɔ̃ɲ	mamɔ̃ɲ 
+230	26-4-63-1	7215141666145289	Ceq Wong	chew1245	to wake up	WAKE UP	1602		tas	tas 
+231	26-4-63-2	7215141478468809	Ceq Wong	chew1245	to wake up	WAKE UP	1602		həy	həy 
+232	26-4-64-1	721514154587905	Ceq Wong	chew1245	to fart	FART	1159		pəhəm	pəhəm 
+233	26-4-65-1	7215141753242350	Ceq Wong	chew1245	to piss	PISS	592		kmnɑ̃m	kmnɑ̃m 
+234	26-4-66-1	7215141939182916	Ceq Wong	chew1245	to shit	SHIT (DEFECATE)	676		cicɒh	cicɒh 
+235	26-4-67-1	7215141441529550	Ceq Wong	chew1245	to have sex	HAVE SEX	1785		ncɛ̃n	ncɛ̃n 
+236	26-4-68-1	7215141975691487	Ceq Wong	chew1245	to shiver	SHIVER	52		craŋ	craŋ 
+237	26-4-69-1	7215141855162319	Ceq Wong	chew1245	to bathe	BATHE	138		mamũh	mamũh 
+238	26-4-71-1	7215141529365512	Ceq Wong	chew1245	to beget	BEGET	1152		biŋkoʔ	biŋkoʔ 
+239	26-4-72-1	7215141115506037	Ceq Wong	chew1245	to be born	BE BORN	1090		kateʔ	kateʔ 
+240	26-4-73-1	7215141763455710	Ceq Wong	chew1245	pregnant	PREGNANT	1123		baŋkoʔ	baŋkoʔ 
+241	26-4-74-1	7215141647308610	Ceq Wong	chew1245	to be alive	BE ALIVE	1422		gɔs	gɔs 
+242	26-4-75-1	72151419642067	Ceq Wong	chew1245	to die	DIE	1494		kbɨs	kbɨs 
+243	26-4-751-1	721514198971719	Ceq Wong	chew1245	to drown	DROWN	1904		gɔt (1)	gɔt (1) 
+244	26-4-76-1	7215141556843806	Ceq Wong	chew1245	to kill	KILL	1417		kibɨs	kibɨs 
+245	26-4-77-1	7215141961753774	Ceq Wong	chew1245	the corpse	CORPSE	767		baŋkay	baŋkay 
+246	26-4-78-1	7215141590970550	Ceq Wong	chew1245	to bury	BURY	1719		bɑy	bɑy 
+247	26-4-79-1	7215141335660377	Ceq Wong	chew1245	the grave	GRAVE	1773		kbur	kbur 
+248	26-4-81-1	7215141239654992	Ceq Wong	chew1245	strong	STRONG	785		kwat	kwat 
+249	26-4-81-2	7215141796323754	Ceq Wong	chew1245	strong	STRONG	785		hanal	hanal 
+250	26-4-83-1	7215141381467517	Ceq Wong	chew1245	healthy	HEALTHY	1364		sihat	sihat 
+251	26-4-84-1	721514175902702	Ceq Wong	chew1245	sick/ill	SICK	1847		dən	dən 
+252	26-4-841-1	7215141486259197	Ceq Wong	chew1245	the fever	FEVER	1534		ndən	ndən 
+253	26-4-842-1	7215141121755497	Ceq Wong	chew1245	the goitre/goiter	GOITER	1957		gok	gok 
+254	26-4-843-1	7215141243255637	Ceq Wong	chew1245	the cold	COMMON COLD (DISEASE)	102		hawar	hawar 
+255	26-4-85-1	7215141732392822	Ceq Wong	chew1245	the wound or sore	WOUND	1109		prus	prus 
+256	26-4-852-1	7215141842695265	Ceq Wong	chew1245	the bruise	BRUISE	1148		lmũh	lmũh 
+257	26-4-853-1	7215141352001730	Ceq Wong	chew1245	the swelling	SWELLING	1903		swah	swah 
+258	26-4-856-1	7215141981026182	Ceq Wong	chew1245	the boil	BOIL (OF SKIN)	793		knɛ̃r	knɛ̃r 
+259	26-4-858-1	7215141301098421	Ceq Wong	chew1245	the scar	SCAR	497		parut	parut 
+260	26-4-858-2	7215141965891658	Ceq Wong	chew1245	the scar	SCAR	497		malɔ̃c	malɔ̃c 
+261	26-4-86-1	7215141539789472	Ceq Wong	chew1245	to cure	CURE	499		blaʔ	blaʔ 
+262	26-4-88-1	7215141212443037	Ceq Wong	chew1245	the medicine	MEDICINE	1372		ʔubat	ʔubat 
+263	26-4-91-1	7215141627976507	Ceq Wong	chew1245	tired	TIRED	1757		jreh	jreh 
+264	26-4-912-1	7215141573597636	Ceq Wong	chew1245	to rest	REST	168		rehat	rehat 
+265	26-4-92-1	7215141454469428	Ceq Wong	chew1245	lazy	LAZY	1564		malas	malas 
+266	26-4-92-2	7215141275150003	Ceq Wong	chew1245	lazy	LAZY	1564		kəʔɔy	kəʔɔy 
+267	26-4-93-1	7215141368631062	Ceq Wong	chew1245	bald	BALD	1125		plhɔc	plhɔc 
+268	26-4-95-1	7215141447973430	Ceq Wong	chew1245	deaf	DEAF	996		pkak	pkak 
+269	26-4-96-1	7215141714460729	Ceq Wong	chew1245	mute	MUTE	1666		pnel	pnel 
+270	26-4-97-1	721514197613106	Ceq Wong	chew1245	blind	BLIND	1653		butãʔ	butãʔ 
+271	26-4-98-1	7215141845963440	Ceq Wong	chew1245	drunk	DRUNK	1463		bəl	bəl 
+272	26-4-99-1	7215141781975058	Ceq Wong	chew1245	naked	NAKED	590		kit ŋɑ̃c	kit ŋɑ̃c 
+273	26-5-11-1	7215141765419860	Ceq Wong	chew1245	to eat	EAT	1336		cəʔ	cəʔ 
+274	26-5-121-1	7215141170854519	Ceq Wong	chew1245	cooked	COOKED	269		ncen	ncen 
+275	26-5-122-1	7215141647308610	Ceq Wong	chew1245	raw	RAW	1959		gɔs	gɔs 
+276	26-5-123-1	7215141539732508	Ceq Wong	chew1245	ripe	RIPE	178		sak	sak 
+277	26-5-125-1	7215141117205360	Ceq Wong	chew1245	rotten	ROTTEN	1728		soʔ	soʔ 
+278	26-5-13-1	7215141981013437	Ceq Wong	chew1245	to drink	DRINK	1401		ʔuh (2)	ʔuh (2) 
+279	26-5-14-1	7215141573258131	Ceq Wong	chew1245	to be hungry	BE HUNGRY	1533		hŋkɔŋ	hŋkɔŋ 
+280	26-5-15-1	7215141148202650	Ceq Wong	chew1245	to be thirsty	THIRSTY	847		gɑt	gɑt 
+281	26-5-16-1	7215141684343889	Ceq Wong	chew1245	to suck	SUCK	1421		ɲɔ̃k	ɲɔ̃k 
+282	26-5-18-1	7215141373143086	Ceq Wong	chew1245	to chew	CHEW	321		raɲ	raɲ 
+283	26-5-181-1	721514142974918	Ceq Wong	chew1245	to swallow	SWALLOW	897		gɔt (2)	gɔt (2) 
+284	26-5-19-1	7215141311154829	Ceq Wong	chew1245	to choke	CHOKE	129		gasak	gasak 
+285	26-5-21-1	7215141134618287	Ceq Wong	chew1245	to cook	COOK (SOMETHING)	1100		pncen	pncen 
+286	26-5-21-2	7215141967890402	Ceq Wong	chew1245	to cook	COOK (SOMETHING)	1100		kirə	kirə 
+287	26-5-22-1	7215141768927084	Ceq Wong	chew1245	to boil	BOIL (OF LIQUID)	792		ʔək	ʔək 
+288	26-5-22-2	7215141114946162	Ceq Wong	chew1245	to boil	BOIL (OF LIQUID)	792		sbus	sbus 
+289	26-5-23-1	7215141232881810	Ceq Wong	chew1245	to roast or fry	ROAST OR FRY	2146		cwəs	cwəs 
+290	26-5-23-2	7215141145411006	Ceq Wong	chew1245	to roast or fry	ROAST OR FRY	2146		paŋaŋ	paŋaŋ 
+291	26-5-23-3	721514198068289	Ceq Wong	chew1245	to roast or fry	ROAST OR FRY	2146		cway	cway 
+292	26-5-26-1	7215141781878563	Ceq Wong	chew1245	the pot	POT	1462		priyok	priyok 
+293	26-5-27-1	721514184893246	Ceq Wong	chew1245	the kettle	KETTLE	854		kuniʔ	kuniʔ 
+294	26-5-27-2	7215141574789980	Ceq Wong	chew1245	the kettle	KETTLE	854		crɛk	crɛk 
+295	26-5-31-1	7215141222488608	Ceq Wong	chew1245	the dish	DISH	481		piŋan	piŋan 
+296	26-5-32-1	7215141222488608	Ceq Wong	chew1245	the plate	PLATE	480		piŋan	piŋan 
+297	26-5-33-1	7215141669107018	Ceq Wong	chew1245	the bowl	BOWL	1530		baŋkok	baŋkok 
+298	26-5-34-1	7215141682295535	Ceq Wong	chew1245	the jug/pitcher	JUG	270		kuleh bəʔ	kuleh bəʔ 
+299	26-5-35-1	7215141313517918	Ceq Wong	chew1245	the cup	CUP	476		kuleh	kuleh 
+300	26-5-36-1	7215141222488608	Ceq Wong	chew1245	the saucer	SAUCER	271		piŋan	piŋan 
+301	26-5-37-1	721514190852659	Ceq Wong	chew1245	the spoon	SPOON	1378		suduʔ	suduʔ 
+302	26-5-39-1	721514190852659	Ceq Wong	chew1245	the fork	FORK	1302		suduʔ	suduʔ 
+303	26-5-391-1	7215141657646174	Ceq Wong	chew1245	the tongs	TONGS	272		kntap	kntap 
+304	26-5-46-1	7215141459298535	Ceq Wong	chew1245	to peel	PEEL	275		pok	pok 
+305	26-5-47-1	7215141666522118	Ceq Wong	chew1245	to sieve or to strain	SIEVE	86		tapis	tapis 
+306	26-5-48-1	7215141655395138	Ceq Wong	chew1245	to scrape	SCRAPE	1767		kɔs	kɔs 
+307	26-5-49-1	7215141762343638	Ceq Wong	chew1245	to stir or to mix	MIX	2017		gudɛr	gudɛr 
+308	26-5-51-1	7215141669747275	Ceq Wong	chew1245	the bread	BREAD	1368		roti	roti 
+309	26-5-54-1	7215141877855655	Ceq Wong	chew1245	to knead	KNEAD	274		cpit	cpit 
+310	26-5-55-1	7215141408786143	Ceq Wong	chew1245	the flour	FLOUR	1594		tpuŋ	tpuŋ 
+311	26-5-56-1	7215141313686112	Ceq Wong	chew1245	to crush or to grind	GRIND	1033		piret	piret 
+312	26-5-58-1	7215141679117103	Ceq Wong	chew1245	the mortar(1)	MORTAR CRUSHER	224		gul	gul 
+313	26-5-59-1	81221652580947684	Ceq Wong	chew1245	the pestle	PESTLE	225		pniret	pniret 
+314	26-5-61-1	7215141674646775	Ceq Wong	chew1245	the meat	MEAT	634		ʔɑy	ʔɑy 
+315	26-5-66-1	7215141893769431	Ceq Wong	chew1245	the bean	BEAN	832		kacaŋ	kacaŋ 
+316	26-5-71-1	7215141409276722	Ceq Wong	chew1245	the fruit	FRUIT	1507		ploʔ	ploʔ 
+317	26-5-712-1	7215141633881155	Ceq Wong	chew1245	the bunch	BUNCH	1966		nɑ̃y siat	nɑ̃y siat 
+318	26-5-79-1	7215141690799650	Ceq Wong	chew1245	the oil	OIL (ORGANIC SUBSTANCE)	1484		miɲɛ̃k	miɲɛ̃k 
+319	26-5-791-1	721514146853561	Ceq Wong	chew1245	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		ləʔos	ləʔos 
+320	26-5-81-1	7215141849446947	Ceq Wong	chew1245	the salt	SALT	1274		garam	garam 
+321	26-5-821-1	7215141888684047	Ceq Wong	chew1245	the chili pepper	CHILI PEPPER	919		pigoʔ	pigoʔ 
+322	26-5-84-1	7215141761175939	Ceq Wong	chew1245	the honey	HONEY	942		cɑh	cɑh 
+323	26-5-85-1	7215141464207186	Ceq Wong	chew1245	the sugar	SUGAR	862		gulə	gulə 
+324	26-5-86-1	81291459461191679	Ceq Wong	chew1245	the milk	MILK	635		tɑm buʔ	tɑm buʔ 
+325	26-5-86-2	81291555888773387	Ceq Wong	chew1245	the milk	MILK	635		susuʔ	susuʔ 
+326	26-5-9-1	7215141963271947	Ceq Wong	chew1245	the drink	BEVERAGE	731		tɑm	tɑm 
+327	26-5-97-1	7215141538394952	Ceq Wong	chew1245	the egg	EGG	744		ktuət	ktuət 
+328	26-6-11-1	7215141144116513	Ceq Wong	chew1245	to put on	PUT ON	158		slɔk	slɔk 
+329	26-6-12-1	7215141721515615	Ceq Wong	chew1245	the clothing or clothes	CLOTHES	1895		bajuʔ	bajuʔ 
+330	26-6-21-1	7215141977282724	Ceq Wong	chew1245	the cloth	CLOTH	1616		kayen	kayen 
+331	26-6-28-1	7215141944998688	Ceq Wong	chew1245	the fur	FUR	580		sɔk (1)	sɔk (1) 
+332	26-6-33-1	7215141702876156	Ceq Wong	chew1245	to weave	WEAVE	133		teŋ	teŋ 
+333	26-6-35-1	721514147900102	Ceq Wong	chew1245	to sew	SEW	1457		jayit	jayit 
+334	26-6-36-1	88181324875844292	Ceq Wong	chew1245	the needle(1)	NEEDLE (FOR SEWING)	1382		jarom	jarom 
+335	26-6-38-1	81221735546741077	Ceq Wong	chew1245	the thread	THREAD	1161		taliʔ mnãŋ	taliʔ mnãŋ 
+336	26-6-39-1	721514158802803	Ceq Wong	chew1245	to dye	DYE	157		clup	clup 
+337	26-7-37-1	7215141366877059	Ceq Wong	chew1245	the ladder	LADDER	1464		raŋkal	raŋkal 
+338	26-6-44-1	7215141721515615	Ceq Wong	chew1245	the shirt	SHIRT	1622		bajuʔ	bajuʔ 
+339	26-6-46-1	7215141721515615	Ceq Wong	chew1245	the skirt	SKIRT	1600		bajuʔ	bajuʔ 
+340	26-6-48-1	7215141660845236	Ceq Wong	chew1245	the trousers	TROUSERS	809		swɑl	swɑl 
+341	26-6-49-1	7215141278725789	Ceq Wong	chew1245	the sock or stocking	STOCKING	329		tɔken	tɔken 
+342	26-6-51-1	7215141613898390	Ceq Wong	chew1245	the shoe	SHOE	1381		kasut	kasut 
+343	26-6-71-1	7215141105298714	Ceq Wong	chew1245	the ornament or adornment	ORNAMENT	917		cnũr	cnũr 
+344	26-6-73-1	721514193687415	Ceq Wong	chew1245	the ring	RING	1374		cincan	cincan 
+345	26-6-74-1	7215141629551694	Ceq Wong	chew1245	the bracelet	BRACELET	1754		manɛ̃k	manɛ̃k 
+346	26-6-75-1	7215141629551694	Ceq Wong	chew1245	the necklace	NECKLACE	1961		manɛ̃k	manɛ̃k 
+347	26-6-76-1	7215141629551694	Ceq Wong	chew1245	the bead	BEAD	1860		manɛ̃k	manɛ̃k 
+348	26-6-77-1	7215141237161178	Ceq Wong	chew1245	the earring	EARRING	770		ʔanteŋ	ʔanteŋ 
+349	26-6-78-1	7215141769445462	Ceq Wong	chew1245	the headband or headdress	HEADBAND	330		tiŋkuy	tiŋkuy 
+350	26-6-81-1	7215141945014908	Ceq Wong	chew1245	the handkerchief or rag	RAG	332		bicaʔ	bicaʔ 
+351	26-6-82-1	7215141262566062	Ceq Wong	chew1245	the towel	TOWEL	1021		kayen tɔlah	kayen tɔlah 
+352	26-6-91-1	7215141899796563	Ceq Wong	chew1245	the comb	COMB	1475		sikat	sikat 
+353	26-6-94-1	7215141903106107	Ceq Wong	chew1245	the ointment	OINTMENT	1926		ʔubat sapuʔ	ʔubat sapuʔ 
+354	26-6-95-1	721514128878183	Ceq Wong	chew1245	the soap	SOAP	788		sabun	sabun 
+355	26-7-11-1	7215141355105523	Ceq Wong	chew1245	to live	DWELL (LIVE, RESIDE)	363		ŋɔk	ŋɔk 
+356	26-7-12-1	7215141121853604	Ceq Wong	chew1245	the house	HOUSE	1252		hyãʔ	hyãʔ 
+357	26-7-21-1	7215141288432412	Ceq Wong	chew1245	the room	ROOM	1450		bilik	bilik 
+358	26-7-22-1	7215141436596211	Ceq Wong	chew1245	the door or gate	DOOR	1567		pintuʔ	pintuʔ 
+359	26-7-221-1	7215141488288149	Ceq Wong	chew1245	the doorpost	DOORPOST	80		jəhũʔ pintuʔ	jəhũʔ pintuʔ 
+360	26-7-24-1	7215141394483631	Ceq Wong	chew1245	the key	KEY	1472		kunciʔ	kunciʔ 
+361	26-7-26-1	7215141773701176	Ceq Wong	chew1245	the floor	FLOOR	1632		lantay	lantay 
+362	26-7-27-1	7215141248931426	Ceq Wong	chew1245	the wall	WALL (OF HOUSE)	933		deneŋ	deneŋ 
+363	26-7-421-1	7215141237731291	Ceq Wong	chew1245	the pillow	PILLOW	1044		tiŋkol	tiŋkol 
+364	26-7-422-1	7215141115009926	Ceq Wong	chew1245	the blanket	BLANKET	806		simɨ̃t	simɨ̃t 
+365	26-7-43-1	7215141454683987	Ceq Wong	chew1245	the chair	CHAIR	1476		kusiʔ	kusiʔ 
+366	26-7-44-1	7215141889975461	Ceq Wong	chew1245	the table	TABLE	1775		mɛjə	mɛjə 
+367	26-7-45-1	721514117602325	Ceq Wong	chew1245	the lamp or torch	TORCH OR LAMP	2131		tarəŋ	tarəŋ 
+368	26-7-51-1	7215141418074466	Ceq Wong	chew1245	the roof	ROOF	769		hapɔy	hapɔy 
+369	26-7-52-1	7215141418074466	Ceq Wong	chew1245	the thatch	THATCH	279		hapɔy	hapɔy 
+370	26-7-53-1	7215141646038879	Ceq Wong	chew1245	the ridgepole	RIDGEPOLE	280		ŋɑlɑŋ	ŋɑlɑŋ 
+371	26-7-54-1	7215141639580312	Ceq Wong	chew1245	the rafter	RAFTER	829		cnraŋ	cnraŋ 
+372	26-7-55-1	7215141630637623	Ceq Wong	chew1245	the beam	BEAM	1132		bnul	bnul 
+373	26-7-55-2	7215141646038879	Ceq Wong	chew1245	the beam	BEAM	1132		ŋɑlɑŋ	ŋɑlɑŋ 
+374	26-7-56-1	7215141593418322	Ceq Wong	chew1245	the post or pole	POST	281		tiaŋ	tiaŋ 
+375	26-7-56-2	7215141554606857	Ceq Wong	chew1245	the post or pole	POST	281		togoh	togoh 
+376	26-7-57-1	7215141814275777	Ceq Wong	chew1245	the board	BOARD	1227		papɑn	papɑn 
+377	26-8-12-1	7215141606898692	Ceq Wong	chew1245	the field	FIELD	212		pɨl	pɨl 
+378	26-8-16-1	7215141876723549	Ceq Wong	chew1245	the fence	FENCE	1690		pagɑr	pagɑr 
+379	26-8-22-1	7215141590970550	Ceq Wong	chew1245	to dig	DIG	1418		bɑy	bɑy 
+380	26-8-27-1	7215141450715165	Ceq Wong	chew1245	the rake	RAKE	338		knwãs	knwãs 
+381	26-8-31-1	7215141781348138	Ceq Wong	chew1245	to sow	SOW SEEDS	748		sɔk (2)	sɔk (2) 
+382	26-8-311-1	7215141252022375	Ceq Wong	chew1245	the seed	SEED	714		kyaŋ	kyaŋ 
+383	26-8-47-1	7215141564140650	Ceq Wong	chew1245	the maize/corn	MAIZE	506		jagoŋ	jagoŋ 
+384	26-8-48-1	7215141998837327	Ceq Wong	chew1245	the rice	RICE	926		mɑ̃m	mɑ̃m 
+385	26-8-531-1	7215141186723171	Ceq Wong	chew1245	to plant	PLANT (SOMETHING)	1486		ptəm	ptəm 
+386	26-8-54-1	721514156248830	Ceq Wong	chew1245	the root	ROOT	670		jəʔes	jəʔes 
+387	26-8-55-1	7215141291102576	Ceq Wong	chew1245	the branch	BRANCH OR TWIG	3223		yoh	yoh 
+388	26-8-56-1	7215141731812388	Ceq Wong	chew1245	the leaf	LEAF	628		haleʔ	haleʔ 
+389	26-8-57-1	7215141481704768	Ceq Wong	chew1245	the flower	FLOWER	239		bkɑw	bkɑw 
+390	26-8-6-1	8211453875844292	Ceq Wong	chew1245	the tree	TREE	906		jəhũʔ	jəhũʔ 
+391	26-8-67-1	7215141959957733	Ceq Wong	chew1245	the vine	VINE	343		jer	jer 
+392	26-8-68-1	7215141682252620	Ceq Wong	chew1245	the tobacco	TOBACCO	974		makaw	makaw 
+393	26-8-69-1	7215141728054529	Ceq Wong	chew1245	to smoke	SMOKE (INHALE)	1689		njɔt	njɔt 
+394	26-8-72-1	7215141603775019	Ceq Wong	chew1245	the tree stump	TREE STUMP	241		tuŋul	tuŋul 
+395	26-8-73-1	7215141717058021	Ceq Wong	chew1245	the tree trunk	TREE TRUNK	344		krɨŋ	krɨŋ 
+396	26-8-74-1	7215141589115265	Ceq Wong	chew1245	the forked branch	FORKED BRANCH	409		cabaŋ jəhũʔ	cabaŋ jəhũʔ 
+397	26-8-75-1	7215141945193893	Ceq Wong	chew1245	the bark	BARK	1204		ktəʔ	ktəʔ 
+398	26-8-76-1	7215141502720990	Ceq Wong	chew1245	the sap	SAP	345		gtah	gtah 
+399	26-8-76-2	721514117602325	Ceq Wong	chew1245	the sap	SAP	345		tarəŋ	tarəŋ 
+400	26-8-82-1	7215141578008788	Ceq Wong	chew1245	the coconut	COCONUT	970		ploʔ ɲũr	ploʔ ɲũr 
+401	26-8-84-1	7215141632190585	Ceq Wong	chew1245	the banana	BANANA	868		tyək	tyək 
+402	26-8-91-1	7215141374699478	Ceq Wong	chew1245	the sweet potato	SWEET POTATO	159		silaʔ	silaʔ 
+403	26-8-912-1	7215141228991157	Ceq Wong	chew1245	the yam	YAM	410		taləs	taləs 
+404	26-8-92-1	7215141951318565	Ceq Wong	chew1245	the cassava/manioc	CASSAVA	925		galə	galə 
+405	26-8-93-1	7215141474542817	Ceq Wong	chew1245	the gourd	GOURD	411		labuʔ	labuʔ 
+406	26-8-931-1	7215141474542817	Ceq Wong	chew1245	the pumpkin or squash	PUMPKIN	864		labuʔ	labuʔ 
+407	26-8-94-1	7215141801831006	Ceq Wong	chew1245	the bamboo	BAMBOO	1927		ləw	ləw 
+408	26-8-941-1	7215141740148433	Ceq Wong	chew1245	the sugar cane	SUGAR CANE	146		buay	buay 
+409	26-8-96-1	7215141579659745	Ceq Wong	chew1245	the fish poison	FISH POISON	348		jnũʔ	jnũʔ 
+410	26-8-98-1	7215141844064258	Ceq Wong	chew1245	the mushroom	MUSHROOM	641		tis	tis 
+411	26-9-11-1	7215141559299121	Ceq Wong	chew1245	to do	DO	813		buat	buat 
+412	26-9-12-1	7215141169151594	Ceq Wong	chew1245	the work	WORK (LABOUR)	984		kjaʔ	kjaʔ 
+413	26-9-14-1	721514142868955	Ceq Wong	chew1245	to bend	BEND	2004		luŋkor	luŋkor 
+414	26-9-15-1	7215141763254747	Ceq Wong	chew1245	to fold	FOLD	1470		spək	spək 
+415	26-9-15-2	7215141177796823	Ceq Wong	chew1245	to fold	FOLD	1470		lipək	lipək 
+416	26-9-15-3	7215141887756646	Ceq Wong	chew1245	to fold	FOLD	1470		lipat	lipat 
+417	26-9-16-1	7215141854750600	Ceq Wong	chew1245	to tie	TIE	1917		siat	siat 
+418	26-9-161-1	7215141685265768	Ceq Wong	chew1245	to untie	UNTIE	352		pisur	pisur 
+419	26-9-18-1	7215141563763781	Ceq Wong	chew1245	the chain	CHAIN	1627		rantay	rantay 
+420	26-9-19-1	7215141153999243	Ceq Wong	chew1245	the rope	ROPE	1218		taliʔ	taliʔ 
+421	26-9-21-1	7215141345587346	Ceq Wong	chew1245	to strike or hit or beat	STRIKE OR BEAT	2133		tapɑt	tapɑt 
+422	26-9-21-2	721514128939777	Ceq Wong	chew1245	to strike or hit or beat	STRIKE OR BEAT	2133		hmat	hmat 
+423	26-9-211-1	7215141560938453	Ceq Wong	chew1245	to pound	POUND	354		tmok	tmok 
+424	26-9-22-1	7215141974552027	Ceq Wong	chew1245	to cut	CUT	1432		kac	kac 
+425	26-9-221-1	7215141524996846	Ceq Wong	chew1245	to cut down	CUT DOWN	355		cəh	cəh 
+426	26-9-222-1	7215141448157128	Ceq Wong	chew1245	to chop	CHOP	155		tap	tap 
+427	26-9-223-1	7215141702363809	Ceq Wong	chew1245	to stab	STAB TO DEATH	3189		cɔk	cɔk 
+428	26-9-23-1	7215141959188987	Ceq Wong	chew1245	the knife(2)	KNIFE	1352		waɲ	waɲ 
+429	26-9-24-1	7215141626364310	Ceq Wong	chew1245	the scissors or shears	SHEARS	356		waɲ cukur	waɲ cukur 
+430	26-9-25-1	7215141752539388	Ceq Wong	chew1245	the axe/ax	AXE	677		kapɑk	kapɑk 
+431	26-9-251-1	7215141615009318	Ceq Wong	chew1245	the adze	ADZE	290		biyoŋ	biyoŋ 
+432	26-9-26-1	7215141852258356	Ceq Wong	chew1245	to break	BREAK (DESTROY OR GET DESTROYED)	680		bikɑh	bikɑh 
+433	26-9-261-1	7215141562693850	Ceq Wong	chew1245	broken	BROKEN (NOT WORKING)	3190		jabuc	jabuc 
+434	26-9-27-1	7215141960596817	Ceq Wong	chew1245	to split	SPLIT	1437		blɑh	blɑh 
+435	26-9-28-1	7215141849817902	Ceq Wong	chew1245	to tear	TEAR (SHRED)	1735		cɛs	cɛs 
+436	26-9-29-1	7215141459298535	Ceq Wong	chew1245	to skin	PULL OFF (SKIN)	291		pok	pok 
+437	26-9-31-1	7215141395751030	Ceq Wong	chew1245	to rub	RUB	1449		sər	sər 
+438	26-9-33-1	7215141653115823	Ceq Wong	chew1245	to pull	PULL	1455		tarek	tarek 
+439	26-9-34-1	72151411129632	Ceq Wong	chew1245	to spread out	SPREAD OUT	38		buəl	buəl 
+440	26-9-341-1	7215141836948571	Ceq Wong	chew1245	to hang up	HANG UP	357		saŋkut	saŋkut 
+441	26-9-342-1	7215141997139200	Ceq Wong	chew1245	to press	PRESS	1913		tkan	tkan 
+442	26-9-343-1	7215141148336368	Ceq Wong	chew1245	to squeeze	SQUEEZE	1414		hapit	hapit 
+443	26-9-343-2	7215141599194747	Ceq Wong	chew1245	to squeeze	SQUEEZE	1414		wɛ̃t	wɛ̃t 
+444	26-9-35-1	7215141456758373	Ceq Wong	chew1245	to pour	POUR	1487		tuh	tuh 
+445	26-9-36-1	7215141315728447	Ceq Wong	chew1245	to wash	WASH	1453		soc	soc 
+446	26-9-37-1	7215141550872359	Ceq Wong	chew1245	to sweep	SWEEP	230		kwãs	kwãs 
+447	26-9-44-1	7215141559299121	Ceq Wong	chew1245	to build	BUILD	1840		buat	buat 
+448	26-9-44-2	88311314461191679	Ceq Wong	chew1245	to build	BUILD	1840		kɨŋ	kɨŋ 
+449	26-9-46-1	7215141424132024	Ceq Wong	chew1245	to bore	BORE	1501		gurɛk	gurɛk 
+450	26-9-461-1	7215141811342717	Ceq Wong	chew1245	to hollow out	HOLLOW OUT	46		puŋ	puŋ 
+451	26-9-48-1	7215141515801197	Ceq Wong	chew1245	the saw	SAW	1948		gaji	gaji 
+452	26-9-5-1	7215141295666308	Ceq Wong	chew1245	the nail	NAIL (TOOL)	502		bsiʔ pakuʔ	bsiʔ pakuʔ 
+453	26-9-56-1	7215141272487538	Ceq Wong	chew1245	the glue	GLUE	1069		gam	gam 
+454	26-9-64-1	7215141142596158	Ceq Wong	chew1245	the gold	GOLD	1369		mɛ̃s	mɛ̃s 
+455	26-9-67-1	7215141904104191	Ceq Wong	chew1245	the iron	IRON	621		bsiʔ	bsiʔ 
+456	26-9-73-1	7215141796745805	Ceq Wong	chew1245	the clay	CLAY	1399		teʔ kunĩŋ	teʔ kunĩŋ 
+457	26-9-75-1	7215141702876156	Ceq Wong	chew1245	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		teŋ	teŋ 
+458	26-9-76-1	7215141988503977	Ceq Wong	chew1245	the basket	BASKET	1539		loŋ	loŋ 
+459	26-9-77-1	7215141551260693	Ceq Wong	chew1245	the mat	MAT	195		nɨ̃s	nɨ̃s 
+460	26-9-791-1	7215141345896072	Ceq Wong	chew1245	to fan	FAN ACTION	360		pək	pək 
+461	26-10-11-1	7215141251463456	Ceq Wong	chew1245	to move	MOVE	765		ʔaleh	ʔaleh 
+462	26-10-12-1	7215141463511303	Ceq Wong	chew1245	to turn	TURN	1588		paleŋ	paleŋ 
+463	26-10-13-1	7215141166846756	Ceq Wong	chew1245	to turn around	TURN (SOMETHING)	1445		pusiŋ	pusiŋ 
+464	26-10-14-1	7215141846098021	Ceq Wong	chew1245	to wrap	WRAP	1113		sbuʔ	sbuʔ 
+465	26-10-15-1	7215141463020261	Ceq Wong	chew1245	to roll	ROLL	827		guliŋ	guliŋ 
+466	26-10-16-1	7215141496763903	Ceq Wong	chew1245	to drop	DROP (SOMETHING)	2866		gɨs	gɨs 
+467	26-10-17-1	7215141687695786	Ceq Wong	chew1245	to twist	TWIST (AROUND)	3199		hwɛ̃t	hwɛ̃t 
+468	26-10-21-1	7215141103312060	Ceq Wong	chew1245	to rise	RISE (MOVE UPWARDS)	568		wək	wək 
+469	26-10-22-1	7215141892975862	Ceq Wong	chew1245	to raise or lift	LIFT	501		piwək	piwək 
+470	26-10-23-1	7215141432611594	Ceq Wong	chew1245	to fall	FALL	1280		ras	ras 
+471	26-10-25-1	7215141360336480	Ceq Wong	chew1245	to throw	THROW	1456		kaloŋ	kaloŋ 
+472	26-10-252-1	7215141387324677	Ceq Wong	chew1245	to catch	CATCH	702		cap	cap 
+473	26-10-26-1	7215141217867231	Ceq Wong	chew1245	to shake	SHAKE	1909		guncaŋ	guncaŋ 
+474	26-10-32-1	7215141939944619	Ceq Wong	chew1245	to flow	FLOW	2003		wət	wət 
+475	26-10-33-1	721514198971719	Ceq Wong	chew1245	to sink	SINK (DESCEND)	1088		gɔt (1)	gɔt (1) 
+476	26-10-34-1	7215141915624808	Ceq Wong	chew1245	to float	FLOAT	1574		haɲũt	haɲũt 
+477	26-10-34-2	7215141939944619	Ceq Wong	chew1245	to float	FLOAT	1574		wət	wət 
+478	26-10-35-1	7215141770658419	Ceq Wong	chew1245	to swim	SWIM	1439		bnɛ̃ŋ	bnɛ̃ŋ 
+479	26-10-351-1	7215141603312597	Ceq Wong	chew1245	to dive	DIVE	119		kiram	kiram 
+480	26-10-351-2	7215141141807056	Ceq Wong	chew1245	to dive	DIVE	119		hlam	hlam 
+481	26-10-352-1	7215141457140373	Ceq Wong	chew1245	to splash	SPLASH	365		prɑy	prɑy 
+482	26-10-37-1	7215141165372940	Ceq Wong	chew1245	to fly	FLY (MOVE THROUGH AIR)	1441		kapɔy	kapɔy 
+483	26-10-38-1	7215141839902008	Ceq Wong	chew1245	to blow	BLOW (OF WIND)	175		pət	pət 
+484	26-10-41-1	7215141413613219	Ceq Wong	chew1245	to crawl	CRAWL	96		raŋkak	raŋkak 
+485	26-10-413-1	7215141969490551	Ceq Wong	chew1245	to crouch	CROUCH	296		teŋɛʔ	teŋɛʔ 
+486	26-10-42-1	7215141710409183	Ceq Wong	chew1245	to slide or slip	SLIP	1324		tiyɛ̃s	tiyɛ̃s 
+487	26-10-43-1	7215141387965838	Ceq Wong	chew1245	to jump	JUMP	1829		lompat	lompat 
+488	26-10-431-1	7215141866573868	Ceq Wong	chew1245	to kick	KICK	1135		sipak	sipak 
+489	26-10-44-1	7215141485815483	Ceq Wong	chew1245	to dance	DANCE	1879		leŋseŋ	leŋseŋ 
+490	26-10-45-1	7215141136726481	Ceq Wong	chew1245	to walk	WALK	1443		cɨp baləy cɑn	cɨp baləy cɑn 
+491	26-10-46-1	7215141663946125	Ceq Wong	chew1245	to run	RUN	1519		psət	psət 
+492	26-10-47-1	7215141359374560	Ceq Wong	chew1245	to go	GO	695		cɨp	cɨp 
+493	26-10-471-1	7215141937607875	Ceq Wong	chew1245	to go up	GO UP (ASCEND)	705		lwəc	lwəc 
+494	26-10-472-1	7215141937607875	Ceq Wong	chew1245	to climb	CLIMB	1102		lwəc	lwəc 
+495	26-10-473-1	7215141174068851	Ceq Wong	chew1245	to go down	GO DOWN (DESCEND)	2014		sɑr	sɑr 
+496	26-10-474-1	7215141950067411	Ceq Wong	chew1245	to go out	GO OUT	1107		hus	hus 
+497	26-10-48-1	7215141198084329	Ceq Wong	chew1245	to come	COME	1446		təs	təs 
+498	26-10-481-1	7215141223006240	Ceq Wong	chew1245	to come back	COME BACK	581		balek	balek 
+499	26-10-49-1	7215141359374560	Ceq Wong	chew1245	to leave	LEAVE	1752		cɨp	cɨp 
+500	26-10-491-1	7215141942682821	Ceq Wong	chew1245	to disappear	DISAPPEAR	485		sawər	sawər 
+501	26-10-51-1	7215141645692602	Ceq Wong	chew1245	to flee	FLEE	956		dəʔ	dəʔ 
+502	26-10-52-1	721514189367445	Ceq Wong	chew1245	to follow	FOLLOW	1085		kuc	kuc 
+503	26-10-52-2	721514155611745	Ceq Wong	chew1245	to follow	FOLLOW	1085		dias	dias 
+504	26-10-53-1	7215141105410127	Ceq Wong	chew1245	to pursue	PURSUE	1047		halaw	halaw 
+505	26-10-55-1	7215141198084329	Ceq Wong	chew1245	to arrive	ARRIVE	1387		təs	təs 
+506	26-10-55-2	7215141658710181	Ceq Wong	chew1245	to arrive	ARRIVE	1387		tibaʔ	tibaʔ 
+507	26-10-56-1	7215141324937831	Ceq Wong	chew1245	to approach	APPROACH	1778		jisəʔ	jisəʔ 
+508	26-10-57-1	7215141264096249	Ceq Wong	chew1245	to enter	ENTER	749		hɨr	hɨr 
+509	26-10-61-1	721514173953718	Ceq Wong	chew1245	to carry	CARRY	700		yey	yey 
+510	26-10-612-1	7215141383431452	Ceq Wong	chew1245	to carry in hand	CARRY IN HAND	412		cadom	cadom 
+511	26-10-612-2	7215141667248092	Ceq Wong	chew1245	to carry in hand	CARRY IN HAND	412		gnam	gnam 
+512	26-10-613-1	7215141314784429	Ceq Wong	chew1245	to carry on shoulder	CARRY ON SHOULDER	413		taŋɔŋ	taŋɔŋ 
+513	26-10-614-1	7215141316645310	Ceq Wong	chew1245	to carry on head	CARRY ON HEAD	414		tol	tol 
+514	26-10-615-1	7215141205936798	Ceq Wong	chew1245	to carry under the arm	CARRY UNDER ARM	415		raŋem	raŋem 
+515	26-10-62-1	721514173953718	Ceq Wong	chew1245	to bring	BRING	692		yey	yey 
+516	26-10-65-1	721514173953718	Ceq Wong	chew1245	to drive	DRIVE	741		yey	yey 
+517	26-10-67-1	7215141712839170	Ceq Wong	chew1245	to push	PUSH	1452		tolak	tolak 
+518	26-10-71-1	7215141384873562	Ceq Wong	chew1245	the road	ROAD	667		lboh	lboh 
+519	26-10-72-1	7215141762210368	Ceq Wong	chew1245	the path	PATH	2252		baləy	baləy 
+520	26-10-72-2	7215141281949908	Ceq Wong	chew1245	the path	PATH	2252		sbəʔ	sbəʔ 
+521	26-10-74-1	7215141627057447	Ceq Wong	chew1245	the bridge	BRIDGE	1011		titiʔ	titiʔ 
+522	26-10-81-1	7215141123584667	Ceq Wong	chew1245	the ship	SHIP	740		kapal (1)	kapal (1) 
+523	26-10-84-1	7215141275153439	Ceq Wong	chew1245	the raft	RAFT	1664		rakit	rakit 
+524	26-10-92-1	721514135107275	Ceq Wong	chew1245	to land	LAND (DESCEND)	1922		kɨt	kɨt 
+525	26-11-11-1	7215141468916220	Ceq Wong	chew1245	to have	HAVE	773		wəʔ	wəʔ 
+526	26-11-13-1	7215141830579606	Ceq Wong	chew1245	to take	TAKE	1749		kit (1)	kit (1) 
+527	26-11-13-2	7215141857657153	Ceq Wong	chew1245	to take	TAKE	1749		kapoc	kapoc 
+528	26-11-15-1	7215141842943910	Ceq Wong	chew1245	to hold	HOLD	1448		gɔy	gɔy 
+529	26-11-16-1	7215141233832426	Ceq Wong	chew1245	to get	GET	694		kɔm	kɔm 
+530	26-11-18-1	7215141956613983	Ceq Wong	chew1245	the thing	THING	738		mnə	mnə 
+531	26-11-21-1	7215141274463429	Ceq Wong	chew1245	to give	GIVE	1447		ʔak	ʔak 
+532	26-11-22-1	721514123494807	Ceq Wong	chew1245	to give back	GIVE BACK	85		piwek	piwek 
+533	26-11-31-1	7215141589994612	Ceq Wong	chew1245	to look for	LOOK FOR	1468		koʔ	koʔ 
+534	26-11-32-1	7215141949020349	Ceq Wong	chew1245	to find	FIND	719		yow	yow 
+535	26-11-43-1	7215141810218266	Ceq Wong	chew1245	the money	MONEY	1559		dwet	dwet 
+536	26-11-54-1	7215141602076045	Ceq Wong	chew1245	stingy	STINGY	1774		knjet	knjet 
+537	26-11-61-1	8122188493014335	Ceq Wong	chew1245	to lend	LEND	582		pnjam	pnjam 
+538	26-11-62-1	8122188493014335	Ceq Wong	chew1245	to borrow	BORROW	1823		pnjam	pnjam 
+539	26-11-64-1	7215141268203568	Ceq Wong	chew1245	the debt	DEBT	1914		hutɑŋ	hutɑŋ 
+540	26-11-65-1	721514125664580	Ceq Wong	chew1245	to pay	PAY	718		bayar	bayar 
+541	26-11-78-1	88181350461191679	Ceq Wong	chew1245	the wages	WAGES	1122		gaji (2)	gaji (2) 
+542	26-11-81-1	7215141678950541	Ceq Wong	chew1245	to buy	BUY	1869		bliʔ	bliʔ 
+543	26-11-82-1	7215141558511995	Ceq Wong	chew1245	to sell	SELL	1571		jwal	jwal 
+544	26-11-83-1	7215141990813385	Ceq Wong	chew1245	to trade or barter	TRADE OR BARTER	2135		tukar	tukar 
+545	26-11-85-1	7215141792842700	Ceq Wong	chew1245	the market	MARKET	633		pasar	pasar 
+546	26-11-86-1	7215141872008072	Ceq Wong	chew1245	the shop/store	STORE	752		kday	kday 
+547	26-11-87-1	7215141270195359	Ceq Wong	chew1245	the price	PRICE	657		sgaʔ	sgaʔ 
+548	26-11-88-1	7215141245174344	Ceq Wong	chew1245	expensive	EXPENSIVE	1426		mɛhɛ̃l	mɛhɛ̃l 
+549	26-11-89-1	7215141463836437	Ceq Wong	chew1245	cheap	CHEAP	1887		murɑh	murɑh 
+550	26-11-91-1	7215141829793136	Ceq Wong	chew1245	to share	SHARE	884		ʔageh	ʔageh 
+551	26-12-01-1	7215141967065673	Ceq Wong	chew1245	after	AFTER	1685		lpas	lpas 
+552	26-12-011-1	7215141386262211	Ceq Wong	chew1245	behind	BEHIND	1686		tkəh	tkəh 
+553	26-12-02-1	7215141903820640	Ceq Wong	chew1245	beside	BESIDE	1816		dpər	dpər 
+554	26-12-03-1	7215141682650505	Ceq Wong	chew1245	down	DOWN	1326		nũt	nũt 
+555	26-12-041-1	7215141342517729	Ceq Wong	chew1245	in front of	IN FRONT OF	1883		cicoʔ	cicoʔ 
+556	26-12-05-1	7215141561041309	Ceq Wong	chew1245	inside	INSIDE	1606		lam	lam 
+557	26-12-06-1	7215141694635650	Ceq Wong	chew1245	outside	OUTSIDE	762		katɛʔ (1)	katɛʔ (1) 
+558	26-12-07-1	721514127494058	Ceq Wong	chew1245	under	BELOW OR UNDER	1485		kyɔm	kyɔm 
+559	26-12-07-2	7215141124911464	Ceq Wong	chew1245	under	BELOW OR UNDER	1485		hanyun	hanyun 
+560	26-12-08-1	7215141927341749	Ceq Wong	chew1245	up	UP	1591		nũl	nũl 
+561	26-12-11-1	7215141863963853	Ceq Wong	chew1245	the place	PLACE (POSITION)	723		mnɑ̃ʔ	mnɑ̃ʔ 
+562	26-12-12-1	7215141607529024	Ceq Wong	chew1245	to put	PUT	998		boh	boh 
+563	26-12-12-2	7215141389990820	Ceq Wong	chew1245	to put	PUT	998		pilɑh	pilɑh 
+564	26-12-13-1	7215141355105523	Ceq Wong	chew1245	to sit	SIT	1416		ŋɔk	ŋɔk 
+565	26-12-14-1	7215141807756813	Ceq Wong	chew1245	to lie down	LIE DOWN	215		pklək	pklək 
+566	26-12-15-1	7215141561899047	Ceq Wong	chew1245	to stand	STAND	1442		hɲaɲ	hɲaɲ 
+567	26-12-16-1	7215141887731675	Ceq Wong	chew1245	to remain	REMAIN	987		tyən	tyən 
+568	26-12-21-1	7215141467177452	Ceq Wong	chew1245	to gather	GATHER	7		cɛp	cɛp 
+569	26-12-21-2	7215141506304078	Ceq Wong	chew1245	to gather	GATHER	7		bɑh (2)	bɑh (2) 
+570	26-12-212-1	7215141197081777	Ceq Wong	chew1245	to pick up	PICK UP	371		kotep	kotep 
+571	26-12-212-2	7215141128363408	Ceq Wong	chew1245	to pick up	PICK UP	371		ckɑt	ckɑt 
+572	26-12-213-1	7215141558226384	Ceq Wong	chew1245	to pile up	PILE UP	1576		tamon	tamon 
+573	26-12-22-1	7215141232478132	Ceq Wong	chew1245	to join	JOIN	1743		samoŋ	samoŋ 
+574	26-12-23-1	7215141174049759	Ceq Wong	chew1245	to separate	SEPARATE	1359		cray	cray 
+575	26-12-24-1	7215141718875667	Ceq Wong	chew1245	to open	OPEN	1156		bukɑʔ	bukɑʔ 
+576	26-12-24-2	7215141896459161	Ceq Wong	chew1245	to open	OPEN	1156		buŋkãr	buŋkãr 
+577	26-12-25-1	7215141771122626	Ceq Wong	chew1245	to shut	SHUT	1046		tutop	tutop 
+578	26-12-26-1	7215141250898904	Ceq Wong	chew1245	to cover	COVER	761		tuduŋ	tuduŋ 
+579	26-12-27-1	7215141851143538	Ceq Wong	chew1245	to hide	HIDE (CONCEAL)	602		pdul	pdul 
+580	26-12-27-2	7215141950017983	Ceq Wong	chew1245	to hide	HIDE (CONCEAL)	602		pəl	pəl 
+581	26-12-31-1	7215141844025039	Ceq Wong	chew1245	high	HIGH	1265		tiŋgiʔ	tiŋgiʔ 
+582	26-12-32-1	7215141389876156	Ceq Wong	chew1245	low	LOW	721		katɛʔ (2)	katɛʔ (2) 
+583	26-12-33-1	721514184607838	Ceq Wong	chew1245	the top	TOP	1753		jujuŋ	jujuŋ 
+584	26-12-33-2	7215141201216781	Ceq Wong	chew1245	the top	TOP	1753		kuy	kuy 
+585	26-12-34-1	7215141478505521	Ceq Wong	chew1245	the bottom	BOTTOM	690		kit (2)	kit (2) 
+586	26-12-35-1	7215141988942588	Ceq Wong	chew1245	the end(1)	END (OF SPACE)	742		saɲ	saɲ 
+587	26-12-352-1	721514171272424	Ceq Wong	chew1245	pointed	POINTED	372		sɨŋ	sɨŋ 
+588	26-12-353-1	7215141862259815	Ceq Wong	chew1245	the edge	EDGE	863		tŋboŋ	tŋboŋ 
+589	26-12-36-1	7215141855766717	Ceq Wong	chew1245	the side	SIDE	682		nilaŋ	nilaŋ 
+590	26-12-36-2	7215141478059125	Ceq Wong	chew1245	the side	SIDE	682		tber	tber 
+591	26-12-37-1	721514185609816	Ceq Wong	chew1245	the middle	MIDDLE	1093		pnwɑʔ	pnwɑʔ 
+592	26-12-41-1	7215141593456915	Ceq Wong	chew1245	right(1)	RIGHT	1019		təm	təm 
+593	26-12-42-1	7215141597911249	Ceq Wong	chew1245	left	LEFT	244		yal	yal 
+594	26-12-43-1	7215141378559571	Ceq Wong	chew1245	near	NEAR	1942		dwah	dwah 
+595	26-12-44-1	7215141717593317	Ceq Wong	chew1245	far	FAR	1406		con	con 
+596	26-12-53-1	7215141647308610	Ceq Wong	chew1245	to grow	GROW	479		gɔs	gɔs 
+597	26-12-53-2	7215141208672261	Ceq Wong	chew1245	to grow	GROW	479		lɔr	lɔr 
+598	26-12-55-1	7215141349989365	Ceq Wong	chew1245	big	BIG	1202		mnɨ̃ʔ	mnɨ̃ʔ 
+599	26-12-56-1	7215141223839937	Ceq Wong	chew1245	small	SMALL	1246		hiʔɔ̃y	hiʔɔ̃y 
+600	26-12-57-1	7215141511450599	Ceq Wong	chew1245	long	LONG	1203		jsɨŋ	jsɨŋ 
+601	26-12-58-1	7215141844025039	Ceq Wong	chew1245	tall	TALL	711		tiŋgiʔ	tiŋgiʔ 
+602	26-12-59-1	721514127112498	Ceq Wong	chew1245	short	SHORT	1645		cinhũɛ̃t	cinhũɛ̃t 
+603	26-12-61-1	7215141349989365	Ceq Wong	chew1245	wide	WIDE	1243		mnɨ̃ʔ	mnɨ̃ʔ 
+604	26-12-62-1	7215141973927737	Ceq Wong	chew1245	narrow	NARROW	1267		gac	gac 
+605	26-12-63-1	7215141767407279	Ceq Wong	chew1245	thick	THICK	1244		tbəl	tbəl 
+606	26-12-65-1	7215141887874230	Ceq Wong	chew1245	thin	THIN (OF SHAPE OF OBJECT)	2249		stal	stal 
+607	26-12-67-1	7215141925951333	Ceq Wong	chew1245	deep	DEEP	1593		dalam	dalam 
+608	26-12-73-1	7215141382756482	Ceq Wong	chew1245	straight	STRAIGHT	1404		dŋũk	dŋũk 
+609	26-12-74-1	7215141382332137	Ceq Wong	chew1245	crooked	CROOKED	297		klawer	klawer 
+610	26-12-81-1	7215141902386242	Ceq Wong	chew1245	round	ROUND	1395		twaw	twaw 
+611	26-12-85-1	7215141993621750	Ceq Wong	chew1245	the hole	HOLE	1667		daraŋ	daraŋ 
+612	26-12-85-2	8129145086323888	Ceq Wong	chew1245	the hole	HOLE	1667		ʔet	ʔet 
+613	26-13-01-1	7215141188296701	Ceq Wong	chew1245	one	ONE	1493		nɑ̃y	nɑ̃y 
+614	26-13-02-1	7215141754196742	Ceq Wong	chew1245	two	TWO	1498		ber	ber 
+615	26-13-03-1	7215141454777275	Ceq Wong	chew1245	three	THREE	492		pɛt	pɛt 
+616	26-13-04-1	7215141989818220	Ceq Wong	chew1245	four	FOUR	1500		pɑn	pɑn 
+617	26-13-05-1	721514132967563	Ceq Wong	chew1245	five	FIVE	493		limãʔ	limãʔ 
+618	26-13-06-1	721514165408490	Ceq Wong	chew1245	six	SIX	1703		nãm	nãm 
+619	26-13-07-1	7215141148024367	Ceq Wong	chew1245	seven	SEVEN	1704		tujoh	tujoh 
+620	26-13-08-1	7215141176667031	Ceq Wong	chew1245	eight	EIGHT	1705		lapan	lapan 
+621	26-13-09-1	7215141933327677	Ceq Wong	chew1245	nine	NINE	1483		smilan	smilan 
+622	26-13-1-1	7215141341844472	Ceq Wong	chew1245	ten	TEN	1515		spuloh	spuloh 
+623	26-13-101-1	7215141236115963	Ceq Wong	chew1245	eleven	ELEVEN	1706		sblas	sblas 
+624	26-13-102-1	7215141687259596	Ceq Wong	chew1245	twelve	TWELVE	1707		duwə blas	duwə blas 
+625	26-13-103-1	7215141194274615	Ceq Wong	chew1245	fifteen	FIFTEEN	1709		limãʔ blas	limãʔ blas 
+626	26-13-104-1	7215141279893304	Ceq Wong	chew1245	twenty	TWENTY	1710		duwə puloh	duwə puloh 
+627	26-13-105-1	7215141945726532	Ceq Wong	chew1245	a hundred	HUNDRED	1634		satus	satus 
+628	26-13-106-1	7215141819732986	Ceq Wong	chew1245	a thousand	THOUSAND	1843		sibu	sibu 
+629	26-13-107-1	721514180644383	Ceq Wong	chew1245	to count	COUNT	1420		bilaŋ	bilaŋ 
+630	26-13-14-1	7215141467980960	Ceq Wong	chew1245	all	ALL	98		hnũn	hnũn 
+631	26-13-15-1	7215141412315944	Ceq Wong	chew1245	many	MANY	1198		bsoʔ	bsoʔ 
+632	26-13-16-1	7215141775254024	Ceq Wong	chew1245	more	MORE	1992		lbeh	lbeh 
+633	26-13-17-1	7215141616755217	Ceq Wong	chew1245	few	FEW	1242		kanɛ̃t	kanɛ̃t 
+634	26-13-18-1	721514157289535	Ceq Wong	chew1245	enough	ENOUGH	1881		cukup	cukup 
+635	26-13-181-1	7215141734377368	Ceq Wong	chew1245	some	SOME	1241		dɨl	dɨl 
+636	26-13-21-1	7215141254631902	Ceq Wong	chew1245	full	FULL	1429		bək	bək 
+637	26-13-33-1	7215141580382225	Ceq Wong	chew1245	only	ONLY	1580		ŋɑ̃c	ŋɑ̃c 
+638	26-13-34-1	721514184106968	Ceq Wong	chew1245	first	FIRST	728		cicoʔ ləy	cicoʔ ləy 
+639	26-13-35-1	7215141618167999	Ceq Wong	chew1245	last	LAST (FINAL)	1529		ɲudah	ɲudah 
+640	26-13-36-1	7215141309033785	Ceq Wong	chew1245	second	SECOND	1384		kaber	kaber 
+641	26-13-37-1	7215141108031277	Ceq Wong	chew1245	the pair	PAIR	1888		pasaŋ	pasaŋ 
+642	26-13-38-1	72151413365178	Ceq Wong	chew1245	twice/two times	TWICE	1546		ber sɑn	ber sɑn 
+643	26-13-42-1	7215141560117114	Ceq Wong	chew1245	third	THIRD	1859		kapɛt	kapɛt 
+644	26-13-44-1	72151414821559	Ceq Wong	chew1245	three times	THREE TIMES	417		pɛt sɑn	pɛt sɑn 
+645	26-14-13-1	7215141549911106	Ceq Wong	chew1245	new	NEW	1231		rɛʔ	rɛʔ 
+646	26-14-15-1	7215141694813192	Ceq Wong	chew1245	old	OLD	1229		badɔn	badɔn 
+647	26-14-18-1	7215141540214335	Ceq Wong	chew1245	now	NOW	1376		nidih	nidih 
+648	26-14-19-1	7215141805377907	Ceq Wong	chew1245	immediately	IMMEDIATELY	1963		lər	lər 
+649	26-14-21-1	721514142958177	Ceq Wong	chew1245	fast	FAST	1631		cpat	cpat 
+650	26-14-21-2	7215141844879727	Ceq Wong	chew1245	fast	FAST	1631		law	law 
+651	26-14-22-1	7215141694704104	Ceq Wong	chew1245	slow	SLOW	701		dmɨ̃y	dmɨ̃y 
+652	26-14-24-1	7215141697152189	Ceq Wong	chew1245	to be late	BE LATE	425		lambat	lambat 
+653	26-14-28-1	7215141348256949	Ceq Wong	chew1245	to cease	CEASE	1928		bntiʔ	bntiʔ 
+654	26-14-29-1	721514168556317	Ceq Wong	chew1245	ready	READY	790		siap	siap 
+655	26-14-31-1	7215141284850255	Ceq Wong	chew1245	always	ALWAYS	1676		slaloʔ	slaloʔ 
+656	26-14-33-1	7215141711896859	Ceq Wong	chew1245	sometimes	SOMETIMES	1544		kadaŋ kadaŋ	kadaŋ kadaŋ 
+657	26-14-331-1	7215141666689571	Ceq Wong	chew1245	soon	SOON	703		heʔ nnəŋ	heʔ nnəŋ 
+658	26-14-332-1	7215141111101548	Ceq Wong	chew1245	for a long time	FOR A LONG TIME	418		nəŋ	nəŋ 
+659	26-14-34-1	7215141398551587	Ceq Wong	chew1245	never	NEVER	1656		həʔ swɑh	həʔ swɑh 
+660	26-14-35-1	7215141995810907	Ceq Wong	chew1245	again	AGAIN	204		wel	wel 
+661	26-14-41-1	7215141922312235	Ceq Wong	chew1245	the day(1)	DAY (24 HOURS)	1260		ktɔʔ	ktɔʔ 
+662	26-14-42-1	721514163185981	Ceq Wong	chew1245	the night	NIGHT	1233		btom	btom 
+663	26-14-43-1	7215141241399385	Ceq Wong	chew1245	the dawn	DAWN	729		tnrɨʔ	tnrɨʔ 
+664	26-14-44-1	7215141241399385	Ceq Wong	chew1245	the morning	MORNING	1339		tnrɨʔ	tnrɨʔ 
+665	26-14-45-1	7215141387279232	Ceq Wong	chew1245	the midday	MIDDAY	12		pnwɑʔ natɔʔ	pnwɑʔ natɔʔ 
+666	26-14-451-1	7215141651878706	Ceq Wong	chew1245	the afternoon	AFTERNOON	1807		kəs	kəs 
+667	26-14-46-1	7215141651878706	Ceq Wong	chew1245	the evening	EVENING	1629		kəs	kəs 
+668	26-14-47-1	7215141574074279	Ceq Wong	chew1245	today	TODAY	1283		ktɔʔ daʔ	ktɔʔ daʔ 
+669	26-14-48-1	7215141326232686	Ceq Wong	chew1245	tomorrow	TOMORROW	1329		hndɑʔ	hndɑʔ 
+670	26-14-481-1	7215141444702738	Ceq Wong	chew1245	the day after tomorrow	DAY AFTER TOMORROW	1179		biruy laŋ	biruy laŋ 
+671	26-14-49-1	7215141153782830	Ceq Wong	chew1245	yesterday	YESTERDAY	1174		didɑʔ	didɑʔ 
+672	26-14-491-1	7215141950575319	Ceq Wong	chew1245	the day before yesterday	DAY BEFORE YESTERDAY	1180		biruy dih	biruy dih 
+673	26-14-51-1	7215141927430115	Ceq Wong	chew1245	the hour	HOUR	1353		nijam	nijam 
+674	26-14-53-1	7215141208146878	Ceq Wong	chew1245	the clock	CLOCK	1323		jam	jam 
+675	26-14-61-1	7215141583873952	Ceq Wong	chew1245	the week	WEEK	1469		biŋuʔ	biŋuʔ 
+676	26-14-62-1	7215141307866093	Ceq Wong	chew1245	Sunday	SUNDAY	1699		ktɔʔ ʔahat	ktɔʔ ʔahat 
+677	26-14-63-1	7215141683551453	Ceq Wong	chew1245	Monday	MONDAY	1697		ktɔʔ snɛ̃n	ktɔʔ snɛ̃n 
+678	26-14-64-1	7215141176810804	Ceq Wong	chew1245	Tuesday	TUESDAY	1695		ktɔʔ pkan	ktɔʔ pkan 
+679	26-14-65-1	7215141206538927	Ceq Wong	chew1245	Wednesday	WEDNESDAY	1694		ktɔʔ rabu	ktɔʔ rabu 
+680	26-14-66-1	7215141946017644	Ceq Wong	chew1245	Thursday	THURSDAY	1693		ktɔʔ hamɛ̃s	ktɔʔ hamɛ̃s 
+681	26-14-67-1	721514116486582	Ceq Wong	chew1245	Friday	FRIDAY	1692		ktɔʔ jumãhãn	ktɔʔ jumãhãn 
+682	26-14-68-1	7215141289612474	Ceq Wong	chew1245	Saturday	SATURDAY	1700		ktɔʔ satuʔ	ktɔʔ satuʔ 
+683	26-14-71-1	7215141471244876	Ceq Wong	chew1245	the month	MONTH	1370		kcɛʔ	kcɛʔ 
+684	26-14-73-1	7215141291733219	Ceq Wong	chew1245	the year	YEAR	1226		thun	thun 
+685	26-14-78-1	7215141291733219	Ceq Wong	chew1245	the season	SEASON	691		thun	thun 
+686	26-15-89-1	7215141928005063	Ceq Wong	chew1245	wrinkled	WRINKLED	380		kusɛ̃y	kusɛ̃y 
+687	26-15-212-1	81301748461191679	Ceq Wong	chew1245	to sniff	SNIFF	375		haloŋ	haloŋ 
+688	26-15-212-2	81222245189108517	Ceq Wong	chew1245	to sniff	SNIFF	375		ʔɔ̃ɲ	ʔɔ̃ɲ 
+689	26-15-22-1	81222245189108517	Ceq Wong	chew1245	to smell(2)	SMELL (PERCEIVE)	1586		ʔɔ̃ɲ	ʔɔ̃ɲ 
+690	26-15-25-1	7215141628225807	Ceq Wong	chew1245	fragrant	FRAGRANT	376		səʔɔm	səʔɔm 
+691	26-15-26-1	7215141996198890	Ceq Wong	chew1245	stinking	STINKING	42		haʔũt	haʔũt 
+692	26-15-35-1	7215141952135450	Ceq Wong	chew1245	sweet	SWEET	717		gəhɛt	gəhɛt 
+693	26-15-36-1	7215141335023073	Ceq Wong	chew1245	salty	SALTY	1091		ptɔ̃t	ptɔ̃t 
+694	26-15-37-1	7215141707728321	Ceq Wong	chew1245	bitter	BITTER	887		kdak	kdak 
+695	26-15-38-1	7215141903621934	Ceq Wong	chew1245	sour	SOUR	1906		pcəs	pcəs 
+696	26-15-39-1	7215141415930478	Ceq Wong	chew1245	brackish	BRACKISH	70		haɲĩr	haɲĩr 
+697	26-15-41-1	7215141593976874	Ceq Wong	chew1245	to hear	HEAR	1408		kjəŋ	kjəŋ 
+698	26-15-42-1	7215141408224932	Ceq Wong	chew1245	to listen	LISTEN	1608		hmãŋ	hmãŋ 
+699	26-15-44-1	7215141588476341	Ceq Wong	chew1245	the sound or noise	SOUND OR NOISE	1811		rɔŋ	rɔŋ 
+700	26-15-45-1	7215141349966962	Ceq Wong	chew1245	loud	LOUD	377		ktaʔ	ktaʔ 
+701	26-15-51-1	7215141949020349	Ceq Wong	chew1245	to see	SEE	1409		yow	yow 
+702	26-15-52-1	721514183896201	Ceq Wong	chew1245	to look	LOOK	1819		daŋ	daŋ 
+703	26-15-55-1	721514184274853	Ceq Wong	chew1245	to show	SHOW	1039		pidaŋ	pidaŋ 
+704	26-15-57-1	7215141554475126	Ceq Wong	chew1245	bright	BRIGHT	679		cnhəy	cnhəy 
+705	26-15-61-1	7215141933902513	Ceq Wong	chew1245	the colour/color	COLOR	1613		wanãʔ	wanãʔ 
+706	26-15-62-1	7215141564409890	Ceq Wong	chew1245	light(2)	LIGHT (COLOR)	250		jaŋhəy	jaŋhəy 
+707	26-15-63-1	7215141909298729	Ceq Wong	chew1245	dark	DARK	706		skuy	skuy 
+708	26-15-64-1	7215141467707436	Ceq Wong	chew1245	white	WHITE	1335		puteh	puteh 
+709	26-15-65-1	7215141908104440	Ceq Wong	chew1245	black	BLACK	163		səʔɛ̃ŋ	səʔɛ̃ŋ 
+710	26-15-66-1	7215141368370018	Ceq Wong	chew1245	red	RED	156		swət	swət 
+711	26-15-67-1	7215141784554609	Ceq Wong	chew1245	blue	BLUE	837		blyãk	blyãk 
+712	26-15-68-1	7215141371980691	Ceq Wong	chew1245	green	GREEN	1425		blwəɲ	blwəɲ 
+713	26-15-68-2	7215141945845724	Ceq Wong	chew1245	green	GREEN	1425		hijaw	hijaw 
+714	26-15-69-1	721514169805151	Ceq Wong	chew1245	yellow	YELLOW	1424		kunĩŋ	kunĩŋ 
+715	26-15-69-2	7215141113893230	Ceq Wong	chew1245	yellow	YELLOW	1424		tmagaʔ	tmagaʔ 
+716	26-15-71-1	7215141141788309	Ceq Wong	chew1245	to touch	TOUCH	1892		cwɛ̃ŋ	cwɛ̃ŋ 
+717	26-15-712-1	7215141726163786	Ceq Wong	chew1245	to pinch	PINCH	378		kutɛ̃t	kutɛ̃t 
+718	26-15-72-1	721514115418730	Ceq Wong	chew1245	to feel	FEEL	1079		tpəʔ	tpəʔ 
+719	26-15-74-1	7215141442975172	Ceq Wong	chew1245	hard	HARD	1884		cgih	cgih 
+720	26-15-75-1	7215141103210891	Ceq Wong	chew1245	soft	SOFT	1856		skɔc	skɔc 
+721	26-15-75-2	7215141763481018	Ceq Wong	chew1245	soft	SOFT	1856		lmɔ̃n	lmɔ̃n 
+722	26-15-76-1	7215141143042377	Ceq Wong	chew1245	rough(1)	ROUGH	1923		kasar	kasar 
+723	26-15-77-1	7215141704119014	Ceq Wong	chew1245	smooth	SMOOTH	1234		sluc	sluc 
+724	26-15-78-1	7215141677472216	Ceq Wong	chew1245	sharp	SHARP	1396		cbɨt	cbɨt 
+725	26-15-78-2	7215141470086559	Ceq Wong	chew1245	sharp	SHARP	1396		lut	lut 
+726	26-15-79-1	7215141597469813	Ceq Wong	chew1245	blunt	BLUNT	379		həʔ cnbɨt	həʔ cnbɨt 
+727	26-15-81-1	7215141600113401	Ceq Wong	chew1245	heavy	HEAVY	1210		ɲũt	ɲũt 
+728	26-15-81-2	7215141460506474	Ceq Wong	chew1245	heavy	HEAVY	1210		lbat	lbat 
+729	26-15-82-1	7215141493553334	Ceq Wong	chew1245	light(1)	LIGHT (WEIGHT)	1052		hayoŋ	hayoŋ 
+730	26-15-83-1	7215141740763575	Ceq Wong	chew1245	wet	WET	1726		məʔɑ̃c	məʔɑ̃c 
+731	26-15-84-1	7215141289715200	Ceq Wong	chew1245	dry	DRY	1398		kriŋ	kriŋ 
+732	26-15-85-1	7215141550497250	Ceq Wong	chew1245	hot	HOT	1286		bɨt	bɨt 
+733	26-15-851-1	7215141317108306	Ceq Wong	chew1245	warm	WARM	1232		kʔəc	kʔəc 
+734	26-15-86-1	7215141568369983	Ceq Wong	chew1245	cold	COLD	1287		sdɛc	sdɛc 
+735	26-15-87-1	7215141829270857	Ceq Wong	chew1245	clean	CLEAN	704		bayek	bayek 
+736	26-15-88-1	7215141575807079	Ceq Wong	chew1245	dirty	DIRTY	1230		kamãh	kamãh 
+737	26-16-11-1	7215141457240982	Ceq Wong	chew1245	the soul or spirit	SOUL	811		lwɑy	lwɑy 
+738	26-16-15-1	7215141999238414	Ceq Wong	chew1245	surprised or astonished	SURPRISED	1572		kaɲɨ̃s	kaɲɨ̃s 
+739	26-16-18-1	721514148129568	Ceq Wong	chew1245	the good luck	GOOD LUCK	720		nasip	nasip 
+740	26-16-18-2	7215141638190971	Ceq Wong	chew1245	the good luck	GOOD LUCK	720		ʔuntuŋ	ʔuntuŋ 
+741	26-16-23-1	7215141145527230	Ceq Wong	chew1245	happy	HAPPY	1495		pnmɛ̃n	pnmɛ̃n 
+742	26-16-23-2	7215141730196418	Ceq Wong	chew1245	happy	HAPPY	1495		kŋraŋ	kŋraŋ 
+743	26-16-25-1	7215141414742526	Ceq Wong	chew1245	to laugh	LAUGH	1355		glɨk	glɨk 
+744	26-16-251-1	7215141663712167	Ceq Wong	chew1245	to smile	SMILE	1451		sɲɔ̃m	sɲɔ̃m 
+745	26-16-26-1	7215141158444742	Ceq Wong	chew1245	to play	PLAY	1413		nihɑʔ	nihɑʔ 
+746	26-16-27-1	721514173559814	Ceq Wong	chew1245	to love	LOVE	923		sayaŋ	sayaŋ 
+747	26-16-3-1	7215141201101313	Ceq Wong	chew1245	to embrace	EMBRACE	928		kbɔt	kbɔt 
+748	26-16-31-1	7215141993626754	Ceq Wong	chew1245	the pain	PAIN	1783		pdih	pdih 
+749	26-16-33-1	7215141891877994	Ceq Wong	chew1245	the anxiety	ANXIETY	1000		həʔ tngəp	həʔ tngəp 
+750	26-16-34-1	7215141357481885	Ceq Wong	chew1245	to regret or be sorry	REGRET	1875		was	was 
+751	26-16-37-1	721514199812453	Ceq Wong	chew1245	to cry	CRY	1839		njəm	njəm 
+752	26-16-38-1	7215141918879643	Ceq Wong	chew1245	the tear	TEAR (OF EYE)	1651		tɑm mɛ̃t	tɑm mɛ̃t 
+753	26-16-39-1	7215141525535262	Ceq Wong	chew1245	to groan	GROAN	716		hĩʔ	hĩʔ 
+754	26-16-41-1	7215141795752724	Ceq Wong	chew1245	to hate	HATE	1607		bnciʔ	bnciʔ 
+755	26-16-42-1	7215141956392237	Ceq Wong	chew1245	the anger	ANGER	82		mɛ̃t bisiŋ	mɛ̃t bisiŋ 
+756	26-16-44-1	7215141801658290	Ceq Wong	chew1245	the envy or jealousy	ENVY	40		mksɛk	mksɛk 
+757	26-16-52-1	7215141915714710	Ceq Wong	chew1245	brave	BRAVE	3		branĩʔ	branĩʔ 
+758	26-16-62-1	7215141511991271	Ceq Wong	chew1245	to want	WANT	1784		mɛ̃ʔ	mɛ̃ʔ 
+759	26-16-622-1	7215141616663022	Ceq Wong	chew1245	to choose	CHOOSE	1750		pilih	pilih 
+760	26-16-63-1	7215141805199276	Ceq Wong	chew1245	to hope	HOPE (SOMETHING)	3212		harap ros	harap ros 
+761	26-16-66-1	7215141503250146	Ceq Wong	chew1245	true	TRUE	1657		ləy	ləy 
+762	26-16-67-1	7215141572033827	Ceq Wong	chew1245	to lie(2)	LIE (MISLEAD)	601		pryɑʔ	pryɑʔ 
+763	26-16-71-1	7215141829270857	Ceq Wong	chew1245	good	GOOD	1035		bayek	bayek 
+764	26-16-72-1	7215141885474097	Ceq Wong	chew1245	bad	BAD	1292		həʔ mayek	həʔ mayek 
+765	26-16-73-1	7215141503250146	Ceq Wong	chew1245	right(2)	CORRECT (RIGHT)	1725		ləy	ləy 
+766	26-16-74-1	7215141801156621	Ceq Wong	chew1245	wrong	WRONG	1390		həʔ mtol	həʔ mtol 
+767	26-16-77-1	721514131037599	Ceq Wong	chew1245	the mistake	MISTAKE	1293		lac	lac 
+768	26-16-81-1	7215141829270857	Ceq Wong	chew1245	beautiful	BEAUTIFUL	1427		bayek	bayek 
+769	26-16-82-1	7215141562693850	Ceq Wong	chew1245	ugly	UGLY	1548		jabuc	jabuc 
+770	26-16-84-1	7215141455729783	Ceq Wong	chew1245	clever	CLEVER	1310		panãy	panãy 
+771	26-17-13-1	7215141174254895	Ceq Wong	chew1245	to think(1)	THINK (REFLECT)	1415		wɨ̃t	wɨ̃t 
+772	26-17-13-2	7215141125411670	Ceq Wong	chew1245	to think(1)	THINK (REFLECT)	1415		peker	peker 
+773	26-17-14-1	7215141806382798	Ceq Wong	chew1245	to think(2)	THINK (BELIEVE)	1513		bət	bət 
+774	26-17-15-1	7215141312226389	Ceq Wong	chew1245	to believe	BELIEVE	1890		cayaʔ	cayaʔ 
+775	26-17-16-1	7215141127951853	Ceq Wong	chew1245	to understand	UNDERSTAND	1536		harən	harən 
+776	26-17-17-1	7215141127951853	Ceq Wong	chew1245	to know	KNOW (SOMETHING)	1410		harən	harən 
+777	26-17-17-2	7215141133967396	Ceq Wong	chew1245	to know	KNOW (SOMETHING)	1410		knɛ̃l	knɛ̃l 
+778	26-17-171-1	7215141347935566	Ceq Wong	chew1245	to guess	GUESS	1932		barat	barat 
+779	26-17-171-2	7215141289340747	Ceq Wong	chew1245	to guess	GUESS	1932		kaʔah	kaʔah 
+780	26-17-172-1	7215141684736151	Ceq Wong	chew1245	to imitate	IMITATE	117		ʔojok	ʔojok 
+781	26-17-19-1	7215141195376916	Ceq Wong	chew1245	the idea	IDEA	1609		ʔakal	ʔakal 
+782	26-17-24-1	7215141705811810	Ceq Wong	chew1245	to learn	LEARN	504		blajar	blajar 
+783	26-17-242-1	7215141705811810	Ceq Wong	chew1245	to study	STUDY	1929		blajar	blajar 
+784	26-17-25-1	7215141705811810	Ceq Wong	chew1245	to teach	TEACH	709		blajar	blajar 
+785	26-17-27-1	721514163776177	Ceq Wong	chew1245	the teacher	TEACHER	1038		ciguʔ	ciguʔ 
+786	26-17-28-1	7215141848139027	Ceq Wong	chew1245	the school	SCHOOL	673		kolah	kolah 
+787	26-17-31-1	7215141174254895	Ceq Wong	chew1245	to remember	REMEMBER	707		wɨ̃t	wɨ̃t 
+788	26-17-32-1	7215141941625687	Ceq Wong	chew1245	to forget	FORGET	1523		həʔ nwɨ̃t	həʔ nwɨ̃t 
+789	26-17-32-2	7215141774311414	Ceq Wong	chew1245	to forget	FORGET	1523		lupaʔ	lupaʔ 
+790	26-17-46-1	7215141647553087	Ceq Wong	chew1245	easy	EASY	686		snɛ̃ŋ	snɛ̃ŋ 
+791	26-17-47-1	7215141824509755	Ceq Wong	chew1245	difficult	DIFFICULT	584		susɑh	susɑh 
+792	26-17-47-2	7215141959684426	Ceq Wong	chew1245	difficult	DIFFICULT	584		payɑh	payɑh 
+793	26-17-48-1	7215141379465846	Ceq Wong	chew1245	to try	TRY	1812		patuʔ	patuʔ 
+794	26-17-52-1	7215141894469433	Ceq Wong	chew1245	because	BECAUSE	1157		sbap	sbap 
+795	26-17-53-1	7215141874670738	Ceq Wong	chew1245	if	IF	1459		mɛ̃n	mɛ̃n 
+796	26-17-53-2	7215141397291004	Ceq Wong	chew1245	if	IF	1459		kalaw	kalaw 
+797	26-17-54-1	721514178532808	Ceq Wong	chew1245	or	OR	1014		ʔantaw	ʔantaw 
+798	26-17-55-1	7215141317442255	Ceq Wong	chew1245	yes	YES	1268		ʔə̃ʔ	ʔə̃ʔ 
+799	26-17-61-1	7215141167199203	Ceq Wong	chew1245	how?	HOW	1239		cin	cin 
+800	26-17-62-1	7215141269141314	Ceq Wong	chew1245	how many?	HOW MANY	822		bapaʔ	bapaʔ 
+801	26-17-63-1	7215141269141314	Ceq Wong	chew1245	how much?	HOW MUCH	531		bapaʔ	bapaʔ 
+802	26-17-64-1	7215141602243456	Ceq Wong	chew1245	what?	WHAT	1236		coʔ (1)	coʔ (1) 
+803	26-17-65-1	7215141254464533	Ceq Wong	chew1245	when?	WHEN	1238		pon	pon 
+804	26-17-66-1	7215141594515749	Ceq Wong	chew1245	where?	WHERE	1237		hɑ̃n	hɑ̃n 
+805	26-17-67-1	7215141594515749	Ceq Wong	chew1245	which?	WHICH	727		hɑ̃n	hɑ̃n 
+806	26-17-68-1	7215141794305213	Ceq Wong	chew1245	who?	WHO	1235		biʔ ʔay	biʔ ʔay 
+807	26-17-69-1	7215141623949966	Ceq Wong	chew1245	why?	WHY	1270		coʔ ʔay	coʔ ʔay 
+808	26-18-11-1	721514198629404	Ceq Wong	chew1245	the voice	VOICE	1363		kluŋ (1)	kluŋ (1) 
+809	26-18-12-1	7215141675698930	Ceq Wong	chew1245	to sing	SING	1261		nəhaŋ	nəhaŋ 
+810	26-18-13-1	7215141633995275	Ceq Wong	chew1245	to shout	SHOUT	715		hlawat	hlawat 
+811	26-18-13-2	7215141207136071	Ceq Wong	chew1245	to shout	SHOUT	715		kanteŋ	kanteŋ 
+812	26-18-15-1	7215141729785639	Ceq Wong	chew1245	to whisper	WHISPER	55		kisɛh	kisɛh 
+813	26-18-17-1	7215141586011207	Ceq Wong	chew1245	to whistle	WHISTLE	1025		hwchwac	hwchwac 
+814	26-18-18-1	7215141488732543	Ceq Wong	chew1245	to shriek	SHRIEK	298		karaw	karaw 
+815	26-18-19-1	721514199812453	Ceq Wong	chew1245	to howl	HOWL	526		njəm	njəm 
+816	26-18-21-1	721514161998629	Ceq Wong	chew1245	to speak or talk	SPEAK	1623		kluŋ (2)	kluŋ (2) 
+817	26-18-21-2	7215141946838072	Ceq Wong	chew1245	to speak or talk	SPEAK	1623		pagak	pagak 
+818	26-18-211-1	7215141690935361	Ceq Wong	chew1245	to stutter or stammer	STUTTER	1866		gagap	gagap 
+819	26-18-22-1	7215141806382798	Ceq Wong	chew1245	to say	SAY	1458		bət	bət 
+820	26-18-22-2	7215141312550273	Ceq Wong	chew1245	to say	SAY	1458		tlɛʔ	tlɛʔ 
+821	26-18-221-1	7215141780958593	Ceq Wong	chew1245	to tell	TELL	1711		citərə	citərə 
+822	26-18-23-1	721514133558873	Ceq Wong	chew1245	to be silent	BE SILENT	48		sayɔk	sayɔk 
+823	26-18-28-1	7215141176512963	Ceq Wong	chew1245	the name	NAME	1405		coʔ (2	coʔ (2 
+824	26-18-31-1	7215141129276191	Ceq Wong	chew1245	to ask(1)	ASK (INQUIRE)	1309		taɲɛ̃ʔ	taɲɛ̃ʔ 
+825	26-18-32-1	7215141359112379	Ceq Wong	chew1245	to answer	ANSWER	1275		tamɑh	tamɑh 
+826	26-18-32-2	7215141191031335	Ceq Wong	chew1245	to answer	ANSWER	1275		jawap	jawap 
+827	26-18-33-1	7215141562559491	Ceq Wong	chew1245	to admit	ADMIT	2022		saŋoʔ	saŋoʔ 
+828	26-18-35-1	7215141679570132	Ceq Wong	chew1245	to ask(2)	ASK (REQUEST)	1828		haguʔ	haguʔ 
+829	26-18-39-1	7215141572297307	Ceq Wong	chew1245	to scold	SCOLD	299		caɲ	caɲ 
+830	26-18-41-1	7215141882571366	Ceq Wong	chew1245	to call(1)	CALL	1084		hoh	hoh 
+831	26-18-42-1	7215141127851028	Ceq Wong	chew1245	to call(2)	CALL BY NAME	180		pncoʔ	pncoʔ 
+832	26-18-44-1	7215141811698782	Ceq Wong	chew1245	to threaten	THREATEN	1192		krɲɛ̃s	krɲɛ̃s 
+833	26-18-51-1	7215141959828090	Ceq Wong	chew1245	to write	WRITE	1672		tulis	tulis 
+834	26-18-56-1	7215141942490379	Ceq Wong	chew1245	the paper	PAPER	648		ktas	ktas 
+835	26-18-57-1	7215141647501239	Ceq Wong	chew1245	the pen	PEN	794		pensel	pensel 
+836	26-18-61-1	7215141733338026	Ceq Wong	chew1245	the book	BOOK	963		bukuʔ	bukuʔ 
+837	26-18-71-1	7215141533223128	Ceq Wong	chew1245	the flute	FLUTE	777		sunɛ̃ʔ	sunɛ̃ʔ 
+838	26-19-15-1	7215141439952824	Ceq Wong	chew1245	the town	TOWN	1391		pkan	pkan 
+839	26-19-16-1	7215141131902965	Ceq Wong	chew1245	the village	VILLAGE	930		kampoŋ	kampoŋ 
+840	26-19-21-1	7215141642141774	Ceq Wong	chew1245	the people	PEOPLE	789		briʔ	briʔ 
+841	26-19-25-1	721514187025210	Ceq Wong	chew1245	the walking stick	WALKING STICK	1296		tuŋkat	tuŋkat 
+842	26-19-32-1	7215141234684330	Ceq Wong	chew1245	the king	KING	1508		rajaʔ	rajaʔ 
+843	26-19-45-1	7215141486542053	Ceq Wong	chew1245	to command or order	ORDER	1128		ʔɔr	ʔɔr 
+844	26-19-47-1	7215141274463429	Ceq Wong	chew1245	to permit	PERMIT	1003		ʔak	ʔak 
+845	26-19-51-1	7215141418877597	Ceq Wong	chew1245	the friend	FRIEND	1325		kawan	kawan 
+846	26-19-55-1	721514112758268	Ceq Wong	chew1245	the stranger	STRANGER	791		gop	gop 
+847	26-19-58-1	7215141174825925	Ceq Wong	chew1245	to help	HELP	1897		toloŋ	toloŋ 
+848	26-19-61-1	7215141710084819	Ceq Wong	chew1245	the custom	CUSTOM	1747		ʔadat	ʔadat 
+849	26-19-65-1	7215141949020349	Ceq Wong	chew1245	to meet	MEET	1831		yow	yow 
+850	26-20-11-1	7215141892163373	Ceq Wong	chew1245	to fight	FIGHT	1423		lawan	lawan 
+851	26-20-13-1	721514172129847	Ceq Wong	chew1245	the war or battle	BATTLE	579		praŋ	praŋ 
+852	26-20-15-1	7215141460631950	Ceq Wong	chew1245	the army	ARMY	1561		ʔasəkar	ʔasəkar 
+853	26-20-17-1	7215141460631950	Ceq Wong	chew1245	the soldier	SOLDIER	1941		ʔasəkar	ʔasəkar 
+854	26-20-21-1	7215141969007357	Ceq Wong	chew1245	the weapons	WEAPONS	951		ɲataʔ	ɲataʔ 
+855	26-20-24-1	7215141844691100	Ceq Wong	chew1245	the bow	BOW	994		lɔc	lɔc 
+856	26-20-25-1	7215141145033437	Ceq Wong	chew1245	the arrow	ARROW	977		panɛ̃h	panɛ̃h 
+857	26-20-26-1	7215141448308967	Ceq Wong	chew1245	the spear	SPEAR	945		ʔɑt	ʔɑt 
+858	26-20-27-1	7215141606817533	Ceq Wong	chew1245	the sword	SWORD	1535		kres	kres 
+859	26-20-28-1	7215141911235504	Ceq Wong	chew1245	the gun	GUN	1566		bdil	bdil 
+860	26-20-52-1	7215141465230894	Ceq Wong	chew1245	the fishhook	FISHHOOK	1074		mɛ̃t kayel	mɛ̃t kayel 
+861	26-20-53-1	7215141271271465	Ceq Wong	chew1245	the fishing line	FISHING LINE	19		taliʔ taŋsiʔ	taliʔ taŋsiʔ 
+862	26-20-54-1	7215141630554743	Ceq Wong	chew1245	the fishnet	FISHNET	388		jareŋ	jareŋ 
+863	26-20-55-1	7215141962723287	Ceq Wong	chew1245	the fish trap	FISH TRAP	389		sareŋ	sareŋ 
+864	26-20-55-2	7215141421787865	Ceq Wong	chew1245	the fish trap	FISH TRAP	389		twar	twar 
+865	26-20-56-1	7215141245457148	Ceq Wong	chew1245	the bait	BAIT	2013		ʔumpan	ʔumpan 
+866	26-20-61-1	721514193415844	Ceq Wong	chew1245	to hunt	HUNT	1435		pndap	pndap 
+867	26-20-62-1	7215141960178936	Ceq Wong	chew1245	to shoot	SHOOT	1172		tembaʔ	tembaʔ 
+868	26-20-63-1	7215141506219981	Ceq Wong	chew1245	to miss	MISS (A TARGET)	161		bəhac	bəhac 
+869	26-20-63-2	721514131037599	Ceq Wong	chew1245	to miss	MISS (A TARGET)	161		lac	lac 
+870	26-12-013-1	7215141170753363	Ceq Wong	chew1245	at	AT	1461		kaʔ	kaʔ 
+871	26-21-51-1	7215141578920936	Ceq Wong	chew1245	to steal	STEAL	713		maleŋ	maleŋ 
+872	26-22-12-1	7215141505172734	Ceq Wong	chew1245	the god	DEITY	3231		tuhan	tuhan 
+873	26-22-26-1	88181355888773387	Ceq Wong	chew1245	to fast	ABSTAIN FROM FOOD	303		pwasaʔ	pwasaʔ 
+874	26-22-45-1	7215141359592561	Ceq Wong	chew1245	the ghost	GHOST	1175		jŋluŋ	jŋluŋ 
+875	26-23-1-1	7215141364467237	Ceq Wong	chew1245	the radio	RADIO	1315		dyoʔ	dyoʔ 
+876	26-23-11-1	7215141705920102	Ceq Wong	chew1245	the television	TELEVISION	1788		tibi	tibi 
+877	26-23-135-1	7215141989299669	Ceq Wong	chew1245	the motorcycle	MOTORCYCLE	638		mɔtɔ	mɔtɔ 
+878	26-23-14-1	7215141428258070	Ceq Wong	chew1245	the car	CAR	1111		kitaʔ	kitaʔ 
+879	26-23-15-1	7215141262998967	Ceq Wong	chew1245	the bus	BUS	1070		bas	bas 
+880	26-23-16-1	7215141551306216	Ceq Wong	chew1245	the airplane	AIRPLANE	1597		kapal (2)	kapal (2) 
+881	26-23-17-1	7215141768000666	Ceq Wong	chew1245	the electricity	ELECTRICITY	59		ʔɔs	ʔɔs 
+882	26-23-175-1	7215141263741958	Ceq Wong	chew1245	the battery	BATTERY	662		ʔubat	ʔubat 
+883	26-23-2-1	7215141168957755	Ceq Wong	chew1245	the hospital	HOSPITAL	616		hyãʔ spital	hyãʔ spital 
+884	26-23-22-1	7215141309715739	Ceq Wong	chew1245	the pill or tablet	PILL	395		ʔubat ngɑt	ʔubat ngɑt 
+885	26-23-5-1	7215141944146087	Ceq Wong	chew1245	the tap/faucet	FAUCET	1488		payet	payet 
+886	26-23-52-1	7215141862623502	Ceq Wong	chew1245	the toilet	TOILET	219		tandas	tandas 
+887	26-23-53-1	7215141876749321	Ceq Wong	chew1245	the mattress	MATTRESS	105		tilam	tilam 
+888	26-23-33-1	7215141236931671	Ceq Wong	chew1245	the police	POLICE	656		poles	poles 
+889	26-23-42-1	88181359211233765	Ceq Wong	chew1245	the letter	LETTER	1612		surat (2)	surat (2) 
+890	26-23-54-1	7215141334745530	Ceq Wong	chew1245	the tin/can	CAN	1051		tɛŋ	tɛŋ 
+891	26-23-56-1	7215141338697316	Ceq Wong	chew1245	the bottle	BOTTLE	1321		dɨŋ	dɨŋ 
+892	26-23-565-1	7215141785036981	Ceq Wong	chew1245	the candy/sweets	CANDY	874		cɔklat	cɔklat 
+893	26-23-575-1	7215141706993862	Ceq Wong	chew1245	the bomb	BOMB	1804		bom	bom 
+894	26-23-59-1	7215141447174598	Ceq Wong	chew1245	the cigarette	CIGARETTE	969		makaw siŋgret	makaw siŋgret 
+895	26-23-36-1	7215141384380465	Ceq Wong	chew1245	the birth certificate	BIRTH CERTIFICATE	397		surat (1)	surat (1) 
+896	26-23-195-1	7215141149549557	Ceq Wong	chew1245	the petroleum	PETROLEUM	650		miɲɛ̃k pitrol	miɲɛ̃k pitrol 
+897	26-19-565-1	7215141854407906	Ceq Wong	chew1245	to invite	INVITE	1611		paɲũʔ	paɲũʔ 
+898	26-19-565-2	721514124026149	Ceq Wong	chew1245	to invite	INVITE	1611		pakat	pakat 
+899	26-24-01-1	7215141468916220	Ceq Wong	chew1245	to be	BE	1579		wəʔ	wəʔ 
+900	26-24-02-1	7215141704085533	Ceq Wong	chew1245	to become	BECOME	1990		jadiʔ	jadiʔ 
+901	26-24-06-1	7215141163965065	Ceq Wong	chew1245	not	NOT	1240		həʔ	həʔ 
+902	26-24-07-1	7215141319939283	Ceq Wong	chew1245	this	THIS	1214		daʔ	daʔ 
+903	26-24-08-1	7215141602955810	Ceq Wong	chew1245	that	THAT	78		nũʔ	nũʔ 
+904	26-24-09-1	7215141865425620	Ceq Wong	chew1245	here	HERE	136		handaʔ	handaʔ 
+905	26-24-1-1	7215141574581223	Ceq Wong	chew1245	there	THERE	1937		hanũʔ	hanũʔ 
+906	26-24-1-2	7215141387285579	Ceq Wong	chew1245	there	THERE	1937		hantoy	hantoy 
+907	26-24-11-1	7215141216457405	Ceq Wong	chew1245	other	OTHER	197		paləʔ	paləʔ 
+908	26-4-493-1	7215141416702254	Ceq Wong	chew1245	the vagina	VAGINA	1836		lɛʔ	lɛʔ 
+909	26-23-9-1	7215141518021131	Ceq Wong	chew1245	the tea	TEA	1373		tɑm tɛh	tɑm tɛh 
+910	26-23-91-1	7215141659641886	Ceq Wong	chew1245	the coffee	COFFEE	1299		tɑm kopi	tɑm kopi 
+911	26-3-869-1	7215141291658365	Ceq Wong	chew1245	the squirrel	SQUIRREL	1628		tupay	tupay 
+912	26-4-465-1	7215141141186135	Ceq Wong	chew1245	the sinew or tendon	TENDON	1137		ʔurat	ʔurat 
+913	26-3-8112-1	7215141647108	Ceq Wong	chew1245	the body louse	BODY LOUSE	311		marɨɲ	marɨɲ 
+914	26-4-494-1	7215141416702254	Ceq Wong	chew1245	the vulva	VULVA	1837		lɛʔ	lɛʔ 
+915	26-3-99-1	7215141944398368	Ceq Wong	chew1245	the tapir	TAPIR	312		badak	badak 
+916	26-8-28-1	7215141519011616	Ceq Wong	chew1245	the digging stick (=yamstick)	DIGGING STICK	339		maliʔ	maliʔ 
+917	26-3-833-1	7215141273437597	Ceq Wong	chew1245	the prawns or shrimp	PRAWNS	238		sudaŋ	sudaŋ 
+918	26-3-834-1	7215141564061091	Ceq Wong	chew1245	the termites	TERMITE	883		darəɲ	darəɲ 
+919	26-3-834-2	7215141498456374	Ceq Wong	chew1245	the termites	TERMITE	883		sksiak (1)	sksiak (1) 
+920	26-3-835-1	7215141586227350	Ceq Wong	chew1245	the tick	TICK	1527		ksial	ksial 
+921	26-3-89-1	7215141824634446	Ceq Wong	chew1245	the anteater	ANTEATER	181		bantuay	bantuay 
+922	26-5-983-1	7215141870310891	Ceq Wong	chew1245	the manioc bread	MANIOC BREAD	407		lmãŋ	lmãŋ 
+923	26-9-9-1	7215141735721825	Ceq Wong	chew1245	to draw water	DRAW (WATER)	1911		guən	guən 
+924	26-10-58-1	7215141521411008	Ceq Wong	chew1245	to go or return home	RETURN HOME	142		wek	wek 
+925	26-2-4561-1	7215141906800740	Ceq Wong	chew1245	the older sibling	OLDER SIBLING	405		toʔ	toʔ 
+926	26-2-4562-1	7215141384078951	Ceq Wong	chew1245	the younger sibling	YOUNGER SIBLING	427		ʔadiʔ	ʔadiʔ 
+927	26-2-4711-1	7215141337313311	Ceq Wong	chew1245	the grandparents	GRANDPARENTS	305		ʔɔɲ	ʔɔɲ 
+928	26-2-5-1	7215141677771685	Ceq Wong	chew1245	the grandchild	GRANDCHILD	1617		cuʔ	cuʔ 
+929	26-2-541-1	7215141342894405	Ceq Wong	chew1245	the sibling’s child	SIBLING'S CHILD	173		ʔanɛ̃k	ʔanɛ̃k 
+930	26-2-622-1	7215141139814904	Ceq Wong	chew1245	the parents-in-law	PARENTS-IN-LAW	306		klək	klək 
+931	26-2-6411-1	7215141191176224	Ceq Wong	chew1245	the child-in-law	CHILD-IN-LAW	1060		bsew	bsew 
+932	26-2-6412-1	7215141374044168	Ceq Wong	chew1245	the sibling-in-law	SIBLING-IN-LAW	1832		lɑh	lɑh 
+933	26-4-771-1	7215141961753774	Ceq Wong	chew1245	the carcass	CARCASS	1770		baŋkay	baŋkay 
+934	26-4-844-1	7215141362323534	Ceq Wong	chew1245	the disease	DISEASE	1986		pɲãkit	pɲãkit 
+935	26-12-081-1	721514149512526	Ceq Wong	chew1245	above	ABOVE	1741		hantən	hantən 
+936	26-13-231-1	7215141501678107	Ceq Wong	chew1245	the piece	PIECE	594		ngal	ngal 
+937	26-13-331-1	7215141235717218	Ceq Wong	chew1245	alone	ALONE	1964		tut	tut 
+938	26-14-411-1	7215141598101235	Ceq Wong	chew1245	the day(2)	DAY (NOT NIGHT)	1225		kntɔʔ	kntɔʔ 
+939	26-22-131-1	7215141323333889	Ceq Wong	chew1245	the church	CHURCH	1349		grɛjə	grɛjə 
+940	26-4-7501-1	72151419642067	Ceq Wong	chew1245	dead	DEAD	1625		kbɨs	kbɨs 
+941	26-4-8541-1	7215141367677453	Ceq Wong	chew1245	to scratch	SCRATCH	1436		kɑc	kɑc 
+942	26-9-111-1	7215141559299121	Ceq Wong	chew1245	to make	MAKE	734		buat	buat 
+943	26-4-431-1	721514141505428	Ceq Wong	chew1245	the belly	BELLY	1251		ʔac	ʔac 
+944	26-9-311-1	7215141813574769	Ceq Wong	chew1245	to wipe	WIPE	1454		bɨl	bɨl 
+945	26-24-04-1	7215141288635117	Ceq Wong	chew1245	with	WITH	1340		ŋɛ̃n	ŋɛ̃n 
+946	26-24-04-2	7215141757574603	Ceq Wong	chew1245	with	WITH	1340		biʔ	biʔ 
+947	26-12-012-1	7215141561041309	Ceq Wong	chew1245	in	IN	1460		lam	lam 
+948	26-2-99911-1	7215141915788852	Ceq Wong	chew1245	the parent’s elder brother				ksyɑʔ	ksyɑʔ 
+949	26-2-99912-1	7215141685901950	Ceq Wong	chew1245	the parent’s elder sister				kbahɑʔ	kbahɑʔ 
+950	26-2-99913-1	7215141224967807	Ceq Wong	chew1245	the parent’s younger brother				bɑh (1)	bɑh (1) 
+951	26-2-99914-1	7215141678660083	Ceq Wong	chew1245	the parent’s younger sister				deh	deh 
+952	26-2-99917-1	7215141184193700	Ceq Wong	chew1245	the stepchild				wɔŋ gɔy	wɔŋ gɔy 
+953	26-10-99903-1	7215141490780400	Ceq Wong	chew1245	to carry on the back				bɑʔ	bɑʔ 
+954	26-24-99913-1	721514192160050	Ceq Wong	chew1245	they (dual)				teʔ (2)	teʔ (2) 
+955	26-24-99914-1	7215141759399783	Ceq Wong	chew1245	we (dual inclusive)				hay	hay 
+956	26-24-99919-1	7215141999386564	Ceq Wong	chew1245	you (dual)				juh	juh 

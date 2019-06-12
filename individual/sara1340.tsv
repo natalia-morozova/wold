@@ -1,0 +1,1304 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	36-1-1-1	71312149602169547	Saramaccan	sara1340	the world	WORLD	965		goónlíba	goónlíba 
+2	36-1-21-1	71312149315480646	Saramaccan	sara1340	the land	LAND	626		téla	téla 
+3	36-1-212-1	71312149770944471	Saramaccan	sara1340	the soil	EARTH (SOIL)	1228		goón	goón 
+4	36-1-213-1	71312149532175057	Saramaccan	sara1340	the dust	DUST	2		gudugúdu	gudugúdu 
+5	36-1-213-2	71312149473478979	Saramaccan	sara1340	the dust	DUST	2		súndju	súndju 
+6	36-1-214-1	7131214994826526	Saramaccan	sara1340	the mud	MUD	640		pötöpötö	pötöpötö 
+7	36-1-215-1	71312149242827263	Saramaccan	sara1340	the sand	SAND	671		sándu	sándu 
+8	36-1-22-1	71312149559762832	Saramaccan	sara1340	the mountain or hill	MOUNTAIN OR HILL	2118		kúnunu	kúnunu 
+9	36-1-222-1	7131214997320565	Saramaccan	sara1340	the cliff or precipice	PRECIPICE	618		benga	benga 
+10	36-1-24-1	71312149874862257	Saramaccan	sara1340	the valley	VALLEY	921		básúkúnunu	básúkúnunu 
+11	36-1-25-1	71312149741419941	Saramaccan	sara1340	the island	ISLAND	622		djégi	djégi 
+12	36-1-25-2	71312149569738704	Saramaccan	sara1340	the island	ISLAND	622		paatí	paatí 
+13	36-1-27-1	7131214916550504	Saramaccan	sara1340	the shore	SHORE	113		télábúka	télábúka 
+14	36-1-28-1	71312149861639599	Saramaccan	sara1340	the cave	CAVE	1155		sitónúbaáku	sitónúbaáku 
+15	36-1-31-1	71312149717165207	Saramaccan	sara1340	the water	WATER	948		wáta	wáta 
+16	36-1-32-1	71312149118697114	Saramaccan	sara1340	the sea	SEA	1474		zé	zé 
+17	36-1-322-1	71312149207177706	Saramaccan	sara1340	calm	CALM	258		sáápi	sáápi 
+18	36-1-323-1	71312149253562445	Saramaccan	sara1340	rough(2)	ROUGH (OF SEA)	259		séki	séki 
+19	36-1-324-1	71312149694390688	Saramaccan	sara1340	the foam	FOAM	1768		pululú	pululú 
+20	36-1-324-2	71312149161406352	Saramaccan	sara1340	the foam	FOAM	1768		sukúma	sukúma 
+21	36-1-329-1	71312149118697114	Saramaccan	sara1340	the ocean	OCEAN	645		zé	zé 
+22	36-1-33-1	71312149118697114	Saramaccan	sara1340	the lake	LAKE	624		zé	zé 
+23	36-1-34-1	8841448352531736	Saramaccan	sara1340	the bay	BAY	663		gódo	gódo 
+24	36-1-341-1	8841448352531736	Saramaccan	sara1340	the lagoon	LAGOON	623		gódo	gódo 
+25	36-1-35-1	71312149786796431	Saramaccan	sara1340	the wave	WAVE	978		pakapaka	pakapaka 
+26	36-1-354-1	71312149324709295	Saramaccan	sara1340	the high tide	HIGH TIDE	613		foóou	foóou 
+27	36-1-36-1	71312149183520679	Saramaccan	sara1340	the river or stream	RIVER	666		lío	lío 
+28	36-1-362-1	7131214932081116	Saramaccan	sara1340	the whirlpool	WHIRLPOOL	1982		biáwáta	biáwáta 
+29	36-1-37-1	7131214915107449	Saramaccan	sara1340	the spring or well	SPRING OR WELL	2144		baákúwáta	baákúwáta 
+30	36-1-38-1	71312149638272927	Saramaccan	sara1340	the swamp	SWAMP	1145		suwámpu	suwámpu 
+31	36-1-39-1	71312149734029195	Saramaccan	sara1340	the waterfall	WATERFALL	943		dán	dán 
+32	36-1-41-1	71312149390417839	Saramaccan	sara1340	the woods or forest	FOREST	420		mátu	mátu 
+33	36-1-43-1	71312149356955678	Saramaccan	sara1340	the wood	WOOD	1803		páu	páu 
+34	36-1-44-1	71312149807941962	Saramaccan	sara1340	the stone or rock	STONE OR ROCK	2125		sitónu	sitónu 
+35	36-1-51-1	71312149687521754	Saramaccan	sara1340	the sky	SKY	1732		gaángádu	gaángádu 
+36	36-1-52-1	71312149650822127	Saramaccan	sara1340	the sun	SUN	1343		sónu	sónu 
+37	36-1-53-1	71312149823972446	Saramaccan	sara1340	the moon	MOON	1313		líba	líba 
+38	36-1-54-1	71312149475887234	Saramaccan	sara1340	the star	STAR	1430		teéja	teéja 
+39	36-1-55-1	71312149323972409	Saramaccan	sara1340	the lightning	LIGHTNING	1654		gádu kóti fája	gádu kóti fája 
+40	36-1-56-1	71312149374504883	Saramaccan	sara1340	the thunder	THUNDER	1150		gaángádú bái	gaángádú bái 
+41	36-1-57-1	71312149323972409	Saramaccan	sara1340	the bolt of lightning	BOLT (OF LIGHTNING)	2007		gádu kóti fája	gádu kóti fája 
+42	36-1-58-1	71312149156425733	Saramaccan	sara1340	the storm	STORM	858		taángávë́ntu	taángávë́ntu 
+43	36-1-59-1	71312149937665062	Saramaccan	sara1340	the rainbow	RAINBOW	1733		mutjáma	mutjáma 
+44	36-1-61-1	71312149612401518	Saramaccan	sara1340	the light	LIGHT (RADIATION)	630		fája	fája 
+45	36-1-62-1	71312149371358588	Saramaccan	sara1340	the darkness	DARKNESS	11		sugúu	sugúu 
+46	36-1-63-1	71312149901956136	Saramaccan	sara1340	the shade or shadow	SHADE	1388		sómba	sómba 
+47	36-1-63-2	71312149717776785	Saramaccan	sara1340	the shade or shadow	SHADE	1388		jejé	jejé 
+48	36-1-64-1	71312149975406737	Saramaccan	sara1340	the dew	DEW	1977		adjíwáta	adjíwáta 
+49	36-1-64-2	71312149359268731	Saramaccan	sara1340	the dew	DEW	1977		dö́ö́wáta	dö́ö́wáta 
+50	36-1-71-1	71312149845917163	Saramaccan	sara1340	the air	AIR	27		vë́ntu	vë́ntu 
+51	36-1-72-1	71312149845917163	Saramaccan	sara1340	the wind	WIND	960		vë́ntu	vë́ntu 
+52	36-1-73-1	71312149760486266	Saramaccan	sara1340	the cloud	CLOUD	1489		wö́lúku	wö́lúku 
+53	36-1-74-1	71312149971154686	Saramaccan	sara1340	the fog	FOG	249		bundji	bundji 
+54	36-1-75-1	7131214928327543	Saramaccan	sara1340	the rain	RAIN (PRECIPITATION)	658		tjúba	tjúba 
+55	36-1-77-1	71312149936545381	Saramaccan	sara1340	the ice	ICE	617		ë́ísi	ë́ísi 
+56	36-1-78-1	71312149413829293	Saramaccan	sara1340	the weather	WEATHER	952		wéi (1)	wéi (1) 
+57	36-1-81-1	71312149612401518	Saramaccan	sara1340	the fire	FIRE	221		fája	fája 
+58	36-1-82-1	71312149717565256	Saramaccan	sara1340	the flame	FLAME	889		fájátö́ngö	fájátö́ngö 
+59	36-1-83-1	71312149399838271	Saramaccan	sara1340	the smoke	SMOKE (EXHAUST)	778		sumúku	sumúku 
+60	36-1-84-1	71312149405898801	Saramaccan	sara1340	the ash	ASH	646		síndja	síndja 
+61	36-1-841-1	71312149840378376	Saramaccan	sara1340	the embers	EMBERS	67		zonká	zonká 
+62	36-1-851-1	71312149699737294	Saramaccan	sara1340	to burn(1)	BURN (SOMETHING)	141		tjumá	tjumá 
+63	36-1-852-1	71312149699737294	Saramaccan	sara1340	to burn(2)	BURNING	1428		tjumá	tjumá 
+64	36-1-86-1	71312149629897411	Saramaccan	sara1340	to light	LIGHT (IGNITE)	737		kísi	kísi 
+65	36-1-861-1	71312149758896909	Saramaccan	sara1340	to extinguish	EXTINGUISH	127		tapá	tapá 
+66	36-1-87-1	71312149319146678	Saramaccan	sara1340	the match	MATCH	1133		suwálufu	suwálufu 
+67	36-1-88-1	7131214935104597	Saramaccan	sara1340	the firewood	FIREWOOD	10		údu	údu 
+68	36-1-89-1	7131214988646892	Saramaccan	sara1340	the charcoal	CHARCOAL	1188		koofája	koofája 
+69	36-2-1-1	71312149353181579	Saramaccan	sara1340	the person	PERSON	683		sëmbë	sëmbë 
+70	36-2-21-1	71312149762475174	Saramaccan	sara1340	the man	MAN	1554		wómi	wómi 
+71	36-2-22-1	7131214925968396	Saramaccan	sara1340	the woman	WOMAN	962		mujë́ë	mujë́ë 
+72	36-2-23-1	71312149762475174	Saramaccan	sara1340	male(1)	MALE (OF ANIMAL)	2263		wómi	wómi 
+73	36-2-24-1	7131214925968396	Saramaccan	sara1340	female(1)	FEMALE (OF PERSON)	2260		mujë́ë	mujë́ë 
+74	36-2-25-1	71312149981803861	Saramaccan	sara1340	the boy	BOY	1366		kamísama	kamísama 
+75	36-2-251-1	71312149748283638	Saramaccan	sara1340	the young man	YOUNG MAN	76		kijóo	kijóo 
+76	36-2-26-1	7131214983678794	Saramaccan	sara1340	the girl	GIRL	1646		koósuma	koósuma 
+77	36-2-27-1	71312149960328324	Saramaccan	sara1340	the child(1)	CHILD (YOUNG HUMAN)	1304		mií	mií 
+78	36-2-28-1	71312149347749551	Saramaccan	sara1340	the baby	BABY	1289		miíi	miíi 
+79	36-2-31-1	71312149353512806	Saramaccan	sara1340	the husband	HUSBAND	1200		mánu	mánu 
+80	36-2-32-1	7131214983678794	Saramaccan	sara1340	the wife	WIFE	1199		koósuma	koósuma 
+81	36-2-33-1	71312149227161443	Saramaccan	sara1340	to marry	MARRY	203		töö́u	töö́u 
+82	36-2-34-1	71312149227161443	Saramaccan	sara1340	the wedding	WEDDING	1259		töö́u	töö́u 
+83	36-2-341-1	71312149155262553	Saramaccan	sara1340	the divorce	DIVORCE	1134		túwë	túwë 
+84	36-2-35-1	71312149524548326	Saramaccan	sara1340	the father	FATHER	1217		taatá	taatá 
+85	36-2-36-1	71312149902003289	Saramaccan	sara1340	the mother	MOTHER	1216		mamá	mamá 
+86	36-2-37-1	71312149205774230	Saramaccan	sara1340	the parents	PARENTS	505		gaánsëmbë	gaánsëmbë 
+87	36-2-41-1	71312149707860578	Saramaccan	sara1340	the son	SON	1620		wómímíí	wómímíí 
+88	36-2-42-1	71312149708748196	Saramaccan	sara1340	the daughter	DAUGHTER	1357		mujë́ë́míí	mujë́ë́míí 
+89	36-2-43-1	71312149960328324	Saramaccan	sara1340	the child(2)	CHILD (DESCENDANT)	1801		mií	mií 
+90	36-2-44-1	71312149834979997	Saramaccan	sara1340	the brother	BROTHER	1262		baáa	baáa 
+91	36-2-45-1	7131214910089675	Saramaccan	sara1340	the sister	SISTER	1263		sísa	sísa 
+92	36-2-454-1	71312149497218527	Saramaccan	sara1340	the older sister	OLDER SISTER	1758		gaínsa	gaínsa 
+93	36-2-458-1	71312149891191639	Saramaccan	sara1340	the twins	TWINS	1005		túlíngi	túlíngi 
+94	36-2-458-2	7131214925929911	Saramaccan	sara1340	the twins	TWINS	1005		túmíi	túmíi 
+95	36-2-461-1	71312149313420531	Saramaccan	sara1340	the old man	OLD MAN	406		tatá	tatá 
+96	36-2-511-1	71312149556998136	Saramaccan	sara1340	the mother's brother	MOTHER'S BROTHER	1984		tío	tío 
+97	36-2-512-1	71312149524548326	Saramaccan	sara1340	the father's brother	FATHER'S BROTHER	1985		taatá	taatá 
+98	36-2-52-1	713121496838208	Saramaccan	sara1340	the aunt	AUNT	1272		mamásísa	mamásísa 
+99	36-2-521-1	71312149950283333	Saramaccan	sara1340	the mother's sister	MOTHER'S SISTER	171		maamá	maamá 
+100	36-2-56-1	71312149363695798	Saramaccan	sara1340	the ancestors	ANCESTORS	1669		avóavo	avóavo 
+101	36-2-57-1	71312149423575687	Saramaccan	sara1340	the descendants	DESCENDANTS	490		böngö	böngö 
+102	36-2-57-2	71312149469674506	Saramaccan	sara1340	the descendants	DESCENDANTS	490		paansú	paansú 
+103	36-2-61-1	71312149370492125	Saramaccan	sara1340	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		pái	pái 
+104	36-2-611-1	71312149370492125	Saramaccan	sara1340	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		pái	pái 
+105	36-2-62-1	7131214992066981	Saramaccan	sara1340	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		mái	mái 
+106	36-2-621-1	7131214992066981	Saramaccan	sara1340	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		mái	mái 
+107	36-2-63-1	71312149370492125	Saramaccan	sara1340	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		pái	pái 
+108	36-2-631-1	71312149370492125	Saramaccan	sara1340	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		pái	pái 
+109	36-2-64-1	7131214992066981	Saramaccan	sara1340	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		mái	mái 
+110	36-2-641-1	7131214992066981	Saramaccan	sara1340	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		mái	mái 
+111	36-2-81-1	71312149255430064	Saramaccan	sara1340	the relatives	RELATIVES	1644		famíi	famíi 
+112	36-2-82-1	7131214915116285	Saramaccan	sara1340	the family	FAMILY	194		djúbë́ë	djúbë́ë 
+113	36-2-91-1	71312149673516196	Saramaccan	sara1340	I	I	1209		mi	mi 
+114	36-2-92-1	71312149815021355	Saramaccan	sara1340	you (singular)	THOU	1215		i	i 
+115	36-2-93-1	71312149682041266	Saramaccan	sara1340	he/she/it	HE OR SHE OR IT	262		a	a 
+116	36-2-93-2	71312149714850671	Saramaccan	sara1340	he/she/it	HE OR SHE OR IT	262		ë́n	ë́n 
+117	36-2-94-1	71312149287598123	Saramaccan	sara1340	we	WE	1212		u	u 
+118	36-2-941-1	71312149287598123	Saramaccan	sara1340	we (inclusive)	WE (INCLUSIVE)	1131		u	u 
+119	36-2-942-1	71312149287598123	Saramaccan	sara1340	we (exclusive)	WE (EXCLUSIVE)	1130		u	u 
+120	36-2-95-1	71312149273059007	Saramaccan	sara1340	you (plural)	YOU	1213		un	un 
+121	36-2-96-1	71312149854031904	Saramaccan	sara1340	they	THEY	817		de	de 
+122	36-3-11-1	71312149822284073	Saramaccan	sara1340	the animal	ANIMAL	619		mbéti	mbéti 
+123	36-3-12-1	71312149762475174	Saramaccan	sara1340	male(2)	MALE (OF PERSON)	2261		wómi	wómi 
+124	36-3-13-1	7131214925968396	Saramaccan	sara1340	female(2)	FEMALE (OF ANIMAL)	2262		mujë́ë	mujë́ë 
+125	36-3-15-1	7131214942775172	Saramaccan	sara1340	the livestock	LIVESTOCK	631		hía (1)	hía (1) 
+126	36-3-16-1	71312149770944471	Saramaccan	sara1340	the pasture	PASTURE	649		goón	goón 
+127	36-3-19-1	71312149347776135	Saramaccan	sara1340	the stable or stall	STABLE	851		mbétíwósu	mbétíwósu 
+128	36-3-21-1	71312149495341743	Saramaccan	sara1340	the bull	BULL	1008		káu	káu 
+129	36-3-22-1	71312149379257359	Saramaccan	sara1340	the ox	OX	1169		wómíkáu	wómíkáu 
+130	36-3-23-1	71312149495341743	Saramaccan	sara1340	the cow	COW	1007		káu	káu 
+131	36-3-24-1	71312149844525568	Saramaccan	sara1340	the calf	CALF	1989		káúmííi	káúmííi 
+132	36-3-25-1	71312149123665152	Saramaccan	sara1340	the sheep	SHEEP	1331		sikápu	sikápu 
+133	36-3-25-2	71312149123665153	Saramaccan	sara1340	the sheep	SHEEP	1331		sikáfu	sikáfu 
+134	36-3-26-1	71312149670913611	Saramaccan	sara1340	the ram	RAM	1344		wómísíkáfu	wómísíkáfu 
+135	36-3-28-1	71312149851363618	Saramaccan	sara1340	the ewe	EWE	1345		mujë́ë́síkápu	mujë́ë́síkápu 
+136	36-3-29-1	71312149724379870	Saramaccan	sara1340	the lamb	LAMB	820		sikápúmíi	sikápúmíi 
+137	36-3-32-1	71312149926529564	Saramaccan	sara1340	the boar	BOAR	1348		píngo	píngo 
+138	36-3-32-2	71312149633417503	Saramaccan	sara1340	the boar	BOAR	1348		gunsá	gunsá 
+139	36-3-34-1	71312149184464840	Saramaccan	sara1340	the sow	SOW (FEMALE PIG)	1351		hágu	hágu 
+140	36-3-35-1	71312149184464840	Saramaccan	sara1340	the pig	PIG	1337		hágu	hágu 
+141	36-3-36-1	71312149639760639	Saramaccan	sara1340	the goat	GOAT	1502		kaabíta	kaabíta 
+142	36-3-37-1	71312149639760639	Saramaccan	sara1340	the he-goat	HE-GOAT	264		kaabíta	kaabíta 
+143	36-3-38-1	71312149639760639	Saramaccan	sara1340	the kid	KID	1972		kaabíta	kaabíta 
+144	36-3-41-1	71312149534965674	Saramaccan	sara1340	the horse	HORSE	615		hási	hási 
+145	36-3-42-1	71312149534965674	Saramaccan	sara1340	the stallion	STALLION	936		hási	hási 
+146	36-3-44-1	71312149534965674	Saramaccan	sara1340	the mare	MARE	938		hási	hási 
+147	36-3-45-1	71312149552276889	Saramaccan	sara1340	the foal or colt	FOAL	1647		ásímííi	ásímííi 
+148	36-3-46-1	71312149193680064	Saramaccan	sara1340	the donkey	DONKEY	1862		bulíki	bulíki 
+149	36-3-5-1	71312149543042187	Saramaccan	sara1340	the fowl	FOWL	265		fóu	fóu 
+150	36-3-52-1	71312149130798556	Saramaccan	sara1340	the cock/rooster	ROOSTER	1511		wómígánía	wómígánía 
+151	36-3-54-1	7131214935714619	Saramaccan	sara1340	the hen	HEN	1514		ganían	ganían 
+152	36-3-55-1	7131214935714619	Saramaccan	sara1340	the chicken	CHICKEN	1318		ganían	ganían 
+153	36-3-56-1	71312149148497896	Saramaccan	sara1340	the goose	GOOSE	1187		gánsi	gánsi 
+154	36-3-57-1	71312149989857871	Saramaccan	sara1340	the duck	DUCK	1360		patupátu	patupátu 
+155	36-3-58-1	7131214984772880	Saramaccan	sara1340	the nest	NEST	539		në́si	në́si 
+156	36-3-581-1	71312149543042187	Saramaccan	sara1340	the bird	BIRD	937		fóu	fóu 
+157	36-3-583-1	71312149816582089	Saramaccan	sara1340	the heron	HERON	758		akamawái	akamawái 
+158	36-3-584-1	7131214964474944	Saramaccan	sara1340	the eagle	EAGLE	1905		gbaniní	gbaniní 
+159	36-3-585-1	7131214981761457	Saramaccan	sara1340	the hawk	HAWK	307		gabián	gabián 
+160	36-3-586-1	71312149873635936	Saramaccan	sara1340	the vulture	VULTURE	1185		tíngífóo	tíngífóo 
+161	36-3-591-1	71312149497480535	Saramaccan	sara1340	the bat	BAT	1793		pukusu	pukusu 
+162	36-3-591-2	7131214977066738	Saramaccan	sara1340	the bat	BAT	1793		takufóo	takufóo 
+163	36-3-592-1	71312149128563608	Saramaccan	sara1340	the parrot	PARROT	882		alála	alála 
+164	36-3-594-1	71312149984972282	Saramaccan	sara1340	the dove	DOVE	1853		pómba	pómba 
+165	36-3-596-1	71312149648512229	Saramaccan	sara1340	the owl	OWL	735		hógífóu	hógífóu 
+166	36-3-61-1	7131214993598313	Saramaccan	sara1340	the dog	DOG	2009		dágu	dágu 
+167	36-3-614-1	71312149802205350	Saramaccan	sara1340	the rabbit	RABBIT	1136		lapëkökö́ni	lapëkökö́ni 
+168	36-3-62-1	71312149768120103	Saramaccan	sara1340	the cat	CAT	1208		pusipúsi	pusipúsi 
+169	36-3-622-1	71312149593875834	Saramaccan	sara1340	the opossum	OPOSSUM	309		kwátíwójo	kwátíwójo 
+170	36-3-63-1	71312149611180677	Saramaccan	sara1340	the mouse or rat	MUROID (MOUSE OR RAT)	2139		mösimö́si	mösimö́si 
+171	36-3-65-1	71312149828126047	Saramaccan	sara1340	the fish	FISH	227		físi	físi 
+172	36-3-652-1	71312149140996158	Saramaccan	sara1340	the fin	FIN	213		jakajaka	jakajaka 
+173	36-3-653-1	71312149795454141	Saramaccan	sara1340	the scale	SCALE	266		físíkákísa	físíkákísa 
+174	36-3-654-1	71312149970897942	Saramaccan	sara1340	the gill	GILL	1916		gééja	gééja 
+175	36-3-655-1	7131214971402071	Saramaccan	sara1340	the shell	SHELL	598		kókóo	kókóo 
+176	36-3-663-1	7131214956145511	Saramaccan	sara1340	the whale	WHALE	957		laláo	laláo 
+177	36-3-664-1	7131214917836967	Saramaccan	sara1340	the stingray	STINGRAY	1910		sipaí	sipaí 
+178	36-3-664-2	71312149592049577	Saramaccan	sara1340	the stingray	STINGRAY	1910		tjubula	tjubula 
+179	36-3-664-3	71312149468565526	Saramaccan	sara1340	the stingray	STINGRAY	1910		djampáini	djampáini 
+180	36-3-665-1	71312149934143518	Saramaccan	sara1340	the freshwater eel	FRESHWATER EEL	1013		maisi	maisi 
+181	36-3-665-2	71312149339341112	Saramaccan	sara1340	the freshwater eel	FRESHWATER EEL	1013		lángáfísi	lángáfísi 
+182	36-3-71-1	96172234197523734	Saramaccan	sara1340	the wolf	WOLF	522		sabánádágu	sabánádágu 
+183	36-3-72-1	71312149164210858	Saramaccan	sara1340	the lion	LION	1386		lë́un	lë́un 
+184	36-3-74-1	71312149990295702	Saramaccan	sara1340	the fox	FOX	1312		aliá	aliá 
+185	36-3-75-1	71312149602766235	Saramaccan	sara1340	the deer	DEER	1936		djangafútu	djangafútu 
+186	36-3-76-1	71312149625183540	Saramaccan	sara1340	the monkey	MONKEY	1350		makáku	makáku 
+187	36-3-76-2	71312149529088981	Saramaccan	sara1340	the monkey	MONKEY	1350		babúnu	babúnu 
+188	36-3-76-3	71312149526502373	Saramaccan	sara1340	the monkey	MONKEY	1350		kaánu	kaánu 
+189	36-3-77-1	71312149601616059	Saramaccan	sara1340	the elephant	ELEPHANT	1290		zaun	zaun 
+190	36-3-811-1	7131214982686794	Saramaccan	sara1340	the head louse	HEAD LOUSE	310		lósu	lósu 
+191	36-3-813-1	71312149347160206	Saramaccan	sara1340	the flea	FLEA	232		dágúsíka	dágúsíka 
+192	36-3-814-1	71312149958192870	Saramaccan	sara1340	the centipede	CENTIPEDE	1974		ahalala	ahalala 
+193	36-3-815-1	71312149390709078	Saramaccan	sara1340	the scorpion	SCORPION	1538		bóntani	bóntani 
+194	36-3-815-2	71312149232299878	Saramaccan	sara1340	the scorpion	SCORPION	1538		kúkútúlábu	kúkútúlábu 
+195	36-3-815-3	71312149700978420	Saramaccan	sara1340	the scorpion	SCORPION	1538		adingö u téla	adingö u téla 
+196	36-3-816-1	71312149515612846	Saramaccan	sara1340	the cockroach	COCKROACH	1575		ahalakpákpa	ahalakpákpa 
+197	36-3-816-2	71312149683753457	Saramaccan	sara1340	the cockroach	COCKROACH	1575		adabasíi	adabasíi 
+198	36-3-817-1	71312149709445023	Saramaccan	sara1340	the ant	ANT	587		hánsi	hánsi 
+199	36-3-818-1	71312149871593723	Saramaccan	sara1340	the spider	SPIDER	843		adjáansi	adjáansi 
+200	36-3-819-1	71312149882692323	Saramaccan	sara1340	the spider web	SPIDER WEB	1065		anásíwósu	anásíwósu 
+201	36-3-82-1	71312149857616138	Saramaccan	sara1340	the bee	BEE	665		hö́ni	hö́ni 
+202	36-3-821-1	71312149628949302	Saramaccan	sara1340	the beeswax	BEESWAX	1931		hö́nikáká	hö́nikáká 
+203	36-3-822-1	71312149779073630	Saramaccan	sara1340	the beehive	BEEHIVE	88		hö́níwósu	hö́níwósu 
+204	36-3-823-1	71312149709193870	Saramaccan	sara1340	the wasp	WASP	1517		wasiwási	wasiwási 
+205	36-3-823-2	71312149471299611	Saramaccan	sara1340	the wasp	WASP	1517		fétima	fétima 
+206	36-3-83-1	71312149890813885	Saramaccan	sara1340	the fly	FLY (INSECT)	1504		wë́nwën	wë́nwën 
+207	36-3-831-1	71312149700156201	Saramaccan	sara1340	the sandfly or midge or gnat	SANDFLY	95		támúndúfóo	támúndúfóo 
+208	36-3-831-2	71312149692692931	Saramaccan	sara1340	the sandfly or midge or gnat	SANDFLY	95		buábua	buábua 
+209	36-3-832-1	71312149475621476	Saramaccan	sara1340	the mosquito	MOSQUITO	1509		máku	máku 
+210	36-3-832-2	71312149856805846	Saramaccan	sara1340	the mosquito	MOSQUITO	1509		biibíífóo	biibíífóo 
+211	36-3-84-1	7131214989578379	Saramaccan	sara1340	the worm	WORM	1219		bítju	bítju 
+212	36-3-85-1	71312149292090496	Saramaccan	sara1340	the snake	SNAKE	730		sindéki	sindéki 
+213	36-3-91-1	71312149848589828	Saramaccan	sara1340	the firefly	FIREFLY	206		azönkíjënjën	azönkíjënjën 
+214	36-3-92-1	71312149161181466	Saramaccan	sara1340	the butterfly	BUTTERFLY	1791		adömítö	adömítö 
+215	36-3-93-1	71312149117687614	Saramaccan	sara1340	the grasshopper	GRASSHOPPER	607		atíti	atíti 
+216	36-3-94-1	71312149332934787	Saramaccan	sara1340	the snail	SNAIL	1543		kóla	kóla 
+217	36-3-95-1	71312149629101947	Saramaccan	sara1340	the frog	FROG	503		bése	bése 
+218	36-3-96-1	71312149509042116	Saramaccan	sara1340	the lizard	LIZARD	632		kaluwá	kaluwá 
+219	36-3-97-1	71312149578165092	Saramaccan	sara1340	the crocodile or alligator	CROCODILE	1857		akalé	akalé 
+220	36-3-97-2	71312149149169418	Saramaccan	sara1340	the crocodile or alligator	CROCODILE	1857		gandí	gandí 
+221	36-3-97-3	71312149187163630	Saramaccan	sara1340	the crocodile or alligator	CROCODILE	1857		káima	káima 
+222	36-3-98-1	71312149967584513	Saramaccan	sara1340	the turtle	TURTLE	112		logoso	logoso 
+223	36-4-11-1	71312149882755165	Saramaccan	sara1340	the body	BODY	1480		sínkíi	sínkíi 
+224	36-4-12-1	71312149196961098	Saramaccan	sara1340	the skin or hide	SKIN	763		kákísa	kákísa 
+225	36-4-12-2	7131214978288174	Saramaccan	sara1340	the skin or hide	SKIN	763		búba	búba 
+226	36-4-13-1	71312149822284073	Saramaccan	sara1340	the flesh	FLESH	2259		mbéti	mbéti 
+227	36-4-14-1	71312149276284459	Saramaccan	sara1340	the hair	HAIR (HEAD)	2648		uwíi	uwíi 
+228	36-4-142-1	71312149831452799	Saramaccan	sara1340	the beard	BEARD	678		bía	bía 
+229	36-4-144-1	71312149490868599	Saramaccan	sara1340	the body hair	HAIR (BODY)	189		puúma	puúma 
+230	36-4-15-1	71312149340269630	Saramaccan	sara1340	the blood	BLOOD	946		buúu	buúu 
+231	36-4-15-2	71312149393580191	Saramaccan	sara1340	the blood	BLOOD	946		akóni	akóni 
+232	36-4-15-3	71312149611136698	Saramaccan	sara1340	the blood	BLOOD	946		nöngö́	nöngö́ 
+233	36-4-15-4	71312149259345721	Saramaccan	sara1340	the blood	BLOOD	946		gadjabiá	gadjabiá 
+234	36-4-151-1	71312149857580046	Saramaccan	sara1340	the vein or artery	BLOOD VESSEL	525		tatái	tatái 
+235	36-4-16-1	71312149501703067	Saramaccan	sara1340	the bone	BONE	1394		bónu	bónu 
+236	36-4-162-1	71312149238236677	Saramaccan	sara1340	the rib	RIB	801		bandjapapáíbónu	bandjapapáíbónu 
+237	36-4-17-1	71312149504568440	Saramaccan	sara1340	the horn	HORN (ANATOMY)	1393		tutú (2)	tutú (2) 
+238	36-4-18-1	71312149263182459	Saramaccan	sara1340	the tail	TAIL	1220		lábu	lábu 
+239	36-4-19-1	71312149533891796	Saramaccan	sara1340	the back	BACK	1291		báka (1)	báka (1) 
+240	36-4-191-1	71312149181010785	Saramaccan	sara1340	the spine	SPINE	805		bákámíndí	bákámíndí 
+241	36-4-2-1	7131214989240483	Saramaccan	sara1340	the head	HEAD	1256		hédi	hédi 
+242	36-4-202-1	7131214912746384	Saramaccan	sara1340	the skull	SKULL	1605		hédíbónu	hédíbónu 
+243	36-4-203-1	71312149664544442	Saramaccan	sara1340	the brain	BRAIN	1583		töönsö́n	töönsö́n 
+244	36-4-204-1	71312149844716018	Saramaccan	sara1340	the face	FACE	1560		fési	fési 
+245	36-4-205-1	71312149870223384	Saramaccan	sara1340	the forehead	FOREHEAD	123		fésímíndi	fésímíndi 
+246	36-4-205-2	71312149126481904	Saramaccan	sara1340	the forehead	FOREHEAD	123		míndífési	míndífési 
+247	36-4-207-1	71312149724661156	Saramaccan	sara1340	the jaw	JAW	798		agbapáu	agbapáu 
+248	36-4-208-1	71312149675418976	Saramaccan	sara1340	the cheek	CHEEK	1730		bandjabúka	bandjabúka 
+249	36-4-208-2	71312149689997264	Saramaccan	sara1340	the cheek	CHEEK	1730		bandjajési	bandjajési 
+250	36-4-209-1	71312149861054570	Saramaccan	sara1340	the chin	CHIN	1510		agba	agba 
+251	36-4-21-1	71312149945579540	Saramaccan	sara1340	the eye	EYE	1248		wójo	wójo 
+252	36-4-212-1	71312149343400623	Saramaccan	sara1340	the eyebrow	EYEBROW	1173		wójólíbápúúma	wójólíbápúúma 
+253	36-4-213-1	71312149443045722	Saramaccan	sara1340	the eyelid	EYELID	17		wójókókóo	wójókókóo 
+254	36-4-214-1	71312149366280489	Saramaccan	sara1340	the eyelash	EYELASH	1540		wójókókóópúúma	wójókókóópúúma 
+255	36-4-215-1	71312149741151335	Saramaccan	sara1340	to blink	BLINK	1655		fón wójo	fón wójo 
+256	36-4-22-1	71312149945579424	Saramaccan	sara1340	the ear	EAR	1247		jési	jési 
+257	36-4-221-1	71312149977770966	Saramaccan	sara1340	the earlobe	EARLOBE	18		jésíbúka	jésíbúka 
+258	36-4-23-1	71312149526378145	Saramaccan	sara1340	the nose	NOSE	1221		núsu	núsu 
+259	36-4-231-1	71312149451203452	Saramaccan	sara1340	the nostril	NOSTRIL	1178		núsúbáaku	núsúbáaku 
+260	36-4-232-1	71312149256931485	Saramaccan	sara1340	the nasal mucus	NASAL MUCUS (SNOT)	208		katáu	katáu 
+261	36-4-24-1	71312149812180181	Saramaccan	sara1340	the mouth	MOUTH	674		búka	búka 
+262	36-4-241-1	71312149812180181	Saramaccan	sara1340	the beak	BEAK	73		búka	búka 
+263	36-4-25-1	71312149196761737	Saramaccan	sara1340	the lip	LIP	478		búkákásíka	búkákásíka 
+264	36-4-26-1	71312149926419965	Saramaccan	sara1340	the tongue	TONGUE	1205		tö́ngö	tö́ngö 
+265	36-4-27-1	71312149348959450	Saramaccan	sara1340	the tooth	TOOTH	1380		tánda	tánda 
+266	36-4-271-1	71312149540547285	Saramaccan	sara1340	the gums	GUMS	139		tándámbéti	tándámbéti 
+267	36-4-272-1	71312149772872828	Saramaccan	sara1340	the molar tooth	MOLAR TOOTH	1049		mamágógótánda	mamágógótánda 
+268	36-4-28-1	71312149672985085	Saramaccan	sara1340	the neck	NECK	1333		gangáa	gangáa 
+269	36-4-29-1	71312149504568440	Saramaccan	sara1340	the throat	THROAT	1346		tutú (2)	tutú (2) 
+270	36-4-3-1	7131214975576055	Saramaccan	sara1340	the shoulder	SHOULDER	1482		ahö́máun	ahö́máun 
+271	36-4-31-1	71312149906644979	Saramaccan	sara1340	the arm	ARM	1673		máun	máun 
+272	36-4-312-1	71312149249538170	Saramaccan	sara1340	the armpit	ARMPIT	1886		básúmáun	básúmáun 
+273	36-4-32-1	7131214934828640	Saramaccan	sara1340	the elbow	ELBOW	981		agómáun	agómáun 
+274	36-4-321-1	71312149901235288	Saramaccan	sara1340	the wrist	WRIST	799		akiikö́ u máun	akiikö́ u máun 
+275	36-4-33-1	71312149906644979	Saramaccan	sara1340	the hand	HAND	1277		máun	máun 
+276	36-4-34-1	71312149866802906	Saramaccan	sara1340	the finger	FINGER	1303		fínga	fínga 
+277	36-4-342-1	71312149904502306	Saramaccan	sara1340	the thumb	THUMB	1781		gaánfínga	gaánfínga 
+278	36-4-342-2	7131214985194918	Saramaccan	sara1340	the thumb	THUMB	1781		mamáfínga	mamáfínga 
+279	36-4-344-1	71312149198455859	Saramaccan	sara1340	the fingernail	FINGERNAIL	1258		húnjan	húnjan 
+280	36-4-345-1	71312149198455859	Saramaccan	sara1340	the claw	CLAW	72		húnjan	húnjan 
+281	36-4-35-1	71312149506597899	Saramaccan	sara1340	the leg	LEG	1297		fútu	fútu 
+282	36-4-351-1	71312149688439686	Saramaccan	sara1340	the thigh	THIGH	800		asákpáa	asákpáa 
+283	36-4-352-1	71312149507409217	Saramaccan	sara1340	the calf of the leg	CALF OF LEG	498		pantéja	pantéja 
+284	36-4-36-1	71312149782093274	Saramaccan	sara1340	the knee	KNEE	1371		kiní	kiní 
+285	36-4-37-1	71312149506597899	Saramaccan	sara1340	the foot	FOOT	1301		fútu	fútu 
+286	36-4-371-1	71312149229451298	Saramaccan	sara1340	the ankle	ANKLE	803		agófútúwójo	agófútúwójo 
+287	36-4-372-1	71312149629277345	Saramaccan	sara1340	the heel	HEEL	980		agófútu	agófútu 
+288	36-4-372-2	71312149974015545	Saramaccan	sara1340	the heel	HEEL	980		bákáfútu	bákáfútu 
+289	36-4-374-1	71312149506597899	Saramaccan	sara1340	the footprint	FOOTPRINT	318		fútu	fútu 
+290	36-4-38-1	71312149360703601	Saramaccan	sara1340	the toe	TOE	1389		fínga u fútu	fínga u fútu 
+291	36-4-392-1	71312149443627651	Saramaccan	sara1340	the wing	WING	1257		hánza	hánza 
+292	36-4-393-1	71312149490868599	Saramaccan	sara1340	the feather	FEATHER	1201		puúma	puúma 
+293	36-4-4-1	71312149253419467	Saramaccan	sara1340	the chest	CHEST	1592		hátímíndi	hátímíndi 
+294	36-4-41-1	71312149798813033	Saramaccan	sara1340	the breast	BREAST	1402		bóbi	bóbi 
+295	36-4-412-1	7131214972429027	Saramaccan	sara1340	the nipple or teat	NIPPLE	796		bóbíbúka	bóbíbúka 
+296	36-4-43-1	71312149838892334	Saramaccan	sara1340	the navel	NAVEL	1838		bíngo	bíngo 
+297	36-4-44-1	71312149941506700	Saramaccan	sara1340	the heart	HEART	1223		háti (1)	háti (1) 
+298	36-4-441-1	713121496293897	Saramaccan	sara1340	the lung	LUNG	688		fuköfukö	fuköfukö 
+299	36-4-45-1	71312149839691905	Saramaccan	sara1340	the liver	LIVER	1224		lë́bën	lë́bën 
+300	36-4-451-1	71312149312800022	Saramaccan	sara1340	the kidney	KIDNEY	489		alibí	alibí 
+301	36-4-452-1	7131214992682552	Saramaccan	sara1340	the spleen	SPLEEN	1744		básu (1)	básu (1) 
+302	36-4-46-1	7131214929317847	Saramaccan	sara1340	the stomach	STOMACH	819		bë́ë	bë́ë 
+303	36-4-461-1	71312149350739135	Saramaccan	sara1340	the intestines or guts	INTESTINES	1991		tiípa	tiípa 
+304	36-4-462-1	71312149639243181	Saramaccan	sara1340	the waist	WAIST	1681		míndi	míndi 
+305	36-4-463-1	71312149901920885	Saramaccan	sara1340	the hip	HIP	1745		djönkú	djönkú 
+306	36-4-463-2	71312149451075775	Saramaccan	sara1340	the hip	HIP	1745		gogómbéti	gogómbéti 
+307	36-4-464-1	71312149218913085	Saramaccan	sara1340	the buttocks	BUTTOCKS	834		gogó	gogó 
+308	36-4-47-1	7131214929317847	Saramaccan	sara1340	the womb	WOMB	804		bë́ë	bë́ë 
+309	36-4-49-1	71312149156068043	Saramaccan	sara1340	the testicles	TESTICLES	797		kökö	kökö 
+310	36-4-492-1	71312149680178551	Saramaccan	sara1340	the penis	PENIS	1222		pipí	pipí 
+311	36-4-51-1	71312149534271114	Saramaccan	sara1340	to breathe	BREATHE	1407		hái böö́	hái böö́ 
+312	36-4-52-1	71312149425677230	Saramaccan	sara1340	to yawn	YAWN	1028		hóha	hóha 
+313	36-4-521-1	7131214935539408	Saramaccan	sara1340	to hiccough	HICCOUGH	162		tekútekú	tekútekú 
+314	36-4-53-1	71312149866660951	Saramaccan	sara1340	to cough	COUGH	879		mbéi köökö́ö	mbéi köökö́ö 
+315	36-4-54-1	71312149588175890	Saramaccan	sara1340	to sneeze	SNEEZE	1621		mbéi hékísee	mbéi hékísee 
+316	36-4-55-1	71312149170967721	Saramaccan	sara1340	to perspire	SWEAT (PERSPIRE)	126		suwá	suwá 
+317	36-4-56-1	71312149179631522	Saramaccan	sara1340	to spit	SPIT	1440		tuntá	tuntá 
+318	36-4-57-1	71312149439740804	Saramaccan	sara1340	to vomit	VOMIT	1278		gumbitá	gumbitá 
+319	36-4-57-2	71312149353883960	Saramaccan	sara1340	to vomit	VOMIT	1278		baláki	baláki 
+320	36-4-57-3	71312149985111900	Saramaccan	sara1340	to vomit	VOMIT	1278		djukú	djukú 
+321	36-4-57-4	89251252744280986	Saramaccan	sara1340	to vomit	VOMIT	1278		pió	pió 
+322	36-4-58-1	71312149914933505	Saramaccan	sara1340	to bite	BITE	1403		nján (1)	nján (1) 
+323	36-4-59-1	71312149681413855	Saramaccan	sara1340	to lick	LICK	319		lëmbë́	lëmbë́ 
+324	36-4-591-1	71312149283079614	Saramaccan	sara1340	to dribble	DRIBBLE	268		babá	babá 
+325	36-4-61-1	71312149526856341	Saramaccan	sara1340	to sleep	SLEEP	1585		duumí	duumí 
+326	36-4-612-1	71312149295609045	Saramaccan	sara1340	to snore	SNORE	1983		lonká	lonká 
+327	36-4-62-1	71312149814119507	Saramaccan	sara1340	to dream	DREAM (SOMETHING)	1920		sunján	sunján 
+328	36-4-63-1	71312149665317491	Saramaccan	sara1340	to wake up	WAKE UP	1602		wéki	wéki 
+329	36-4-64-1	71312149875224733	Saramaccan	sara1340	to fart	FART	1159		kakápuun	kakápuun 
+330	36-4-65-1	71312149991952396	Saramaccan	sara1340	to piss	PISS	592		miindjá	miindjá 
+331	36-4-66-1	71312149189184375	Saramaccan	sara1340	to shit	SHIT (DEFECATE)	676		diiná	diiná 
+332	36-4-66-2	71312149868369541	Saramaccan	sara1340	to shit	SHIT (DEFECATE)	676		kaká	kaká 
+333	36-4-67-1	7131214950707954	Saramaccan	sara1340	to have sex	HAVE SEX	1785		tumá	tumá 
+334	36-4-68-1	71312149551272860	Saramaccan	sara1340	to shiver	SHIVER	52		tëëmë́	tëëmë́ 
+335	36-4-69-1	71312149151683078	Saramaccan	sara1340	to bathe	BATHE	138		wási	wási 
+336	36-4-71-1	8841944352674281	Saramaccan	sara1340	to beget	BEGET	1152		paí	paí 
+337	36-4-72-1	71312149824826479	Saramaccan	sara1340	to be born	BE BORN	1090		nasí	nasí 
+338	36-4-73-1	71312149426284634	Saramaccan	sara1340	pregnant	PREGNANT	1123		dë́ ku bë́ë	dë́ ku bë́ë 
+339	36-4-74-1	71312149109009570	Saramaccan	sara1340	to be alive	BE ALIVE	1422		vívo	vívo 
+340	36-4-75-1	71312149934221713	Saramaccan	sara1340	to die	DIE	1494		dë́dë	dë́dë 
+341	36-4-751-1	71312149736005916	Saramaccan	sara1340	to drown	DROWN	1904		makéi a wáta	makéi a wáta 
+342	36-4-76-1	71312149253907413	Saramaccan	sara1340	to kill	KILL	1417		kíi	kíi 
+343	36-4-77-1	71312149403810311	Saramaccan	sara1340	the corpse	CORPSE	767		dë́dësëmbë	dë́dësëmbë 
+344	36-4-78-1	71312149990177859	Saramaccan	sara1340	to bury	BURY	1719		béi	béi 
+345	36-4-79-1	71312149294346283	Saramaccan	sara1340	the grave	GRAVE	1773		geébi	geébi 
+346	36-4-81-1	71312149662865995	Saramaccan	sara1340	strong	STRONG	785		taánga	taánga 
+347	36-4-81-2	71312149629074101	Saramaccan	sara1340	strong	STRONG	785		sitéífi	sitéífi 
+348	36-4-82-1	71312149209925443	Saramaccan	sara1340	weak	WEAK	1601		lë́kíti	lë́kíti 
+349	36-4-83-1	7131214977070367	Saramaccan	sara1340	healthy	HEALTHY	1364		búnu	búnu 
+350	36-4-84-1	71312149463398816	Saramaccan	sara1340	sick/ill	SICK	1847		síki	síki 
+351	36-4-84-2	71312149844695901	Saramaccan	sara1340	sick/ill	SICK	1847		suwáki	suwáki 
+352	36-4-841-1	71312149442834404	Saramaccan	sara1340	the fever	FEVER	1534		fë́bë	fë́bë 
+353	36-4-842-1	71312149744527503	Saramaccan	sara1340	the goitre/goiter	GOITER	1957		gaángángáa	gaángángáa 
+354	36-4-842-2	8842020532775525	Saramaccan	sara1340	the goitre/goiter	GOITER	1957		gaántútú	gaántútú 
+355	36-4-843-1	71312149256931485	Saramaccan	sara1340	the cold	COMMON COLD (DISEASE)	102		katáu	katáu 
+356	36-4-85-1	71312149141156892	Saramaccan	sara1340	the wound or sore	WOUND	1109		kasikaási	kasikaási 
+357	36-4-855-1	7131214981393996	Saramaccan	sara1340	the blister	BLISTER	1584		baási	baási 
+358	36-4-856-1	71312149307603907	Saramaccan	sara1340	the boil	BOIL (OF SKIN)	793		bói (2)	bói (2) 
+359	36-4-857-1	7131214968741632	Saramaccan	sara1340	the pus	PUS	1808		bóíwáta	bóíwáta 
+360	36-4-858-1	71312149623087446	Saramaccan	sara1340	the scar	SCAR	497		kasikaásímááka	kasikaásímááka 
+361	36-4-86-1	71312149923611938	Saramaccan	sara1340	to cure	CURE	499		kulá	kulá 
+362	36-4-87-1	71312149230739534	Saramaccan	sara1340	the physician	PHYSICIAN	597		dáta	dáta 
+363	36-4-88-1	71312149200040019	Saramaccan	sara1340	the medicine	MEDICINE	1372		deési	deési 
+364	36-4-89-1	71312149617900627	Saramaccan	sara1340	the poison	POISON	655		opión	opión 
+365	36-4-89-2	71312149687013259	Saramaccan	sara1340	the poison	POISON	655		poosián	poosián 
+366	36-4-91-1	71312149937385334	Saramaccan	sara1340	tired	TIRED	1757		wéi (2)	wéi (2) 
+367	36-4-912-1	71312149100167987	Saramaccan	sara1340	to rest	REST	168		lö́sútu	lö́sútu 
+368	36-4-92-1	71312149587008656	Saramaccan	sara1340	lazy	LAZY	1564		lési (1)	lési (1) 
+369	36-4-92-2	71312149123102349	Saramaccan	sara1340	lazy	LAZY	1564		malë́ngë	malë́ngë 
+370	36-4-93-1	71312149182188467	Saramaccan	sara1340	bald	BALD	1125		buukáhédi	buukáhédi 
+371	36-4-94-1	71312149754104690	Saramaccan	sara1340	lame	LAME	320		lán	lán 
+372	36-4-95-1	7131214998010903	Saramaccan	sara1340	deaf	DEAF	996		boókójési	boókójési 
+373	36-4-97-1	71312149189834446	Saramaccan	sara1340	blind	BLIND	1653		boókówójo	boókówójo 
+374	36-4-98-1	71312149208695446	Saramaccan	sara1340	drunk	DRUNK	1463		döö́ngö	döö́ngö 
+375	36-4-99-1	71312149781323246	Saramaccan	sara1340	naked	NAKED	590		pë́në́pënë	pë́në́pënë 
+376	36-5-11-1	71312149914933505	Saramaccan	sara1340	to eat	EAT	1336		nján (1)	nján (1) 
+377	36-5-12-1	71312149960243059	Saramaccan	sara1340	the food	FOOD	256		njanján	njanján 
+378	36-5-121-1	71312149945132504	Saramaccan	sara1340	cooked	COOKED	269		mö́i	mö́i 
+379	36-5-122-1	71312149835444829	Saramaccan	sara1340	raw	RAW	1959		kúákúa	kúákúa 
+380	36-5-123-1	71312149216062144	Saramaccan	sara1340	ripe	RIPE	178		lépi	lépi 
+381	36-5-124-1	71312149466202149	Saramaccan	sara1340	unripe	UNRIPE	1958		kúa	kúa 
+382	36-5-125-1	71312149928193756	Saramaccan	sara1340	rotten	ROTTEN	1728		póndi	póndi 
+383	36-5-13-1	71312149224296460	Saramaccan	sara1340	to drink	DRINK	1401		bebé	bebé 
+384	36-5-14-1	71312149846640983	Saramaccan	sara1340	to be hungry	BE HUNGRY	1533		hángi	hángi 
+385	36-5-141-1	71312149606212375	Saramaccan	sara1340	the famine	FAMINE	199		gaánhángi	gaánhángi 
+386	36-5-15-1	7131214926753178	Saramaccan	sara1340	to be thirsty	THIRSTY	847		dëë́wáta	dëë́wáta 
+387	36-5-16-1	7131214981668290	Saramaccan	sara1340	to suck	SUCK	1421		tjupá	tjupá 
+388	36-5-18-1	71312149404030492	Saramaccan	sara1340	to chew	CHEW	321		bulí búka	bulí búka 
+389	36-5-181-1	71312149114854576	Saramaccan	sara1340	to swallow	SWALLOW	897		gulí	gulí 
+390	36-5-21-1	71312149613421246	Saramaccan	sara1340	to cook	COOK (SOMETHING)	1100		bói (1)	bói (1) 
+391	36-5-21-2	76231636964899485	Saramaccan	sara1340	to cook	COOK (SOMETHING)	1100		fëëbë́	fëëbë́ 
+392	36-5-22-1	71312149613421246	Saramaccan	sara1340	to boil	BOIL (OF LIQUID)	792		bói (1)	bói (1) 
+393	36-5-22-2	76231636964899485	Saramaccan	sara1340	to boil	BOIL (OF LIQUID)	792		fëëbë́	fëëbë́ 
+394	36-5-23-1	71312149325215285	Saramaccan	sara1340	to roast or fry	ROAST OR FRY	2146		fiidjí	fiidjí 
+395	36-5-23-2	71312149911392883	Saramaccan	sara1340	to roast or fry	ROAST OR FRY	2146		jasá	jasá 
+396	36-5-23-3	71312149385943293	Saramaccan	sara1340	to roast or fry	ROAST OR FRY	2146		báka (2)	báka (2) 
+397	36-5-24-1	71312149911392883	Saramaccan	sara1340	to bake	BAKE	183		jasá	jasá 
+398	36-5-24-2	71312149385943293	Saramaccan	sara1340	to bake	BAKE	183		báka (2)	báka (2) 
+399	36-5-25-1	71312149269937900	Saramaccan	sara1340	the oven	OVEN	1143		ónfu	ónfu 
+400	36-5-26-1	71312149623001094	Saramaccan	sara1340	the pot	POT	1462		awandai	awandai 
+401	36-5-27-1	71312149497142859	Saramaccan	sara1340	the kettle	KETTLE	854		kë́të	kë́të 
+402	36-5-28-1	71312149919694536	Saramaccan	sara1340	the pan	PAN	31		pánu	pánu 
+403	36-5-31-1	71312149935599229	Saramaccan	sara1340	the dish	DISH	481		paabí	paabí 
+404	36-5-32-1	71312149935599229	Saramaccan	sara1340	the plate	PLATE	480		paabí	paabí 
+405	36-5-33-1	71312149813098832	Saramaccan	sara1340	the bowl	BOWL	1530		apakí	apakí 
+406	36-5-34-1	71312149875547522	Saramaccan	sara1340	the jug/pitcher	JUG	270		búngu	búngu 
+407	36-5-35-1	71312149787938296	Saramaccan	sara1340	the cup	CUP	476		sikö́tííki	sikö́tííki 
+408	36-5-37-1	71312149534901607	Saramaccan	sara1340	the spoon	SPOON	1378		kujë́ë	kujë́ë 
+409	36-5-38-1	71312149225801047	Saramaccan	sara1340	the knife(1)	KNIFE (FOR EATING)	3210		fáka	fáka 
+410	36-5-39-1	7131214976376019	Saramaccan	sara1340	the fork	FORK	1302		tjökö́	tjökö́ 
+411	36-5-39-2	71312149619800659	Saramaccan	sara1340	the fork	FORK	1302		fö́lúku	fö́lúku 
+412	36-5-391-1	71312149367783	Saramaccan	sara1340	the tongs	TONGS	272		kaábútánda	kaábútánda 
+413	36-5-41-1	71312149563137205	Saramaccan	sara1340	the meal	MEAL	1526		nján (2)	nján (2) 
+414	36-5-45-1	71312149543029446	Saramaccan	sara1340	the supper	DINNER (SUPPER)	1833		ndétítáfa	ndétítáfa 
+415	36-5-46-1	7131214946568316	Saramaccan	sara1340	to peel	PEEL	275		buuká	buuká 
+416	36-5-46-2	77251531481420658	Saramaccan	sara1340	to peel	PEEL	275		limbá	limbá 
+417	36-5-47-1	71312149642041553	Saramaccan	sara1340	to sieve or to strain	SIEVE	86		maaní	maaní 
+418	36-5-49-1	71312149606913193	Saramaccan	sara1340	to stir or to mix	MIX	2017		mö́kísi	mö́kísi 
+419	36-5-51-1	71312149487807594	Saramaccan	sara1340	the bread	BREAD	1368		bëë́ë	bëë́ë 
+420	36-5-53-1	71312149714891062	Saramaccan	sara1340	the dough	DOUGH	273		boón	boón 
+421	36-5-54-1	71312149459334979	Saramaccan	sara1340	to knead	KNEAD	274		dián	dián 
+422	36-5-55-1	71312149714891062	Saramaccan	sara1340	the flour	FLOUR	1594		boón	boón 
+423	36-5-56-1	71312149938150569	Saramaccan	sara1340	to crush or to grind	GRIND	1033		lalá	lalá 
+424	36-5-57-1	71312149766290290	Saramaccan	sara1340	the mill	MILL	636		mbíi	mbíi 
+425	36-5-58-1	71312149602288503	Saramaccan	sara1340	the mortar(1)	MORTAR CRUSHER	224		máta	máta 
+426	36-5-59-1	7131214968075085	Saramaccan	sara1340	the pestle	PESTLE	225		tatí	tatí 
+427	36-5-61-1	71312149822284073	Saramaccan	sara1340	the meat	MEAT	634		mbéti	mbéti 
+428	36-5-64-1	71312149608898309	Saramaccan	sara1340	the soup	SOUP	1547		baáfu	baáfu 
+429	36-5-65-1	71312149681611998	Saramaccan	sara1340	the vegetables	VEGETABLES	924		gulúntu	gulúntu 
+430	36-5-66-1	71312149312800022	Saramaccan	sara1340	the bean	BEAN	832		alibí	alibí 
+431	36-5-7-1	71312149292232585	Saramaccan	sara1340	the potato	POTATO	593		pomtë́	pomtë́ 
+432	36-5-7-2	884226353481505	Saramaccan	sara1340	the potato	POTATO	593		bakáábátáta	bakáábátáta 
+433	36-5-71-1	71312149795033535	Saramaccan	sara1340	the fruit	FRUIT	1507		fuúta	fuúta 
+434	36-5-712-1	71312149103829944	Saramaccan	sara1340	the bunch	BUNCH	1966		bóndji	bóndji 
+435	36-5-77-1	71312149811671494	Saramaccan	sara1340	the nut	NUT	191		nóto	nóto 
+436	36-5-79-1	71312149142565666	Saramaccan	sara1340	the oil	OIL (ORGANIC SUBSTANCE)	1484		fátu	fátu 
+437	36-5-791-1	71312149142565666	Saramaccan	sara1340	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		fátu	fátu 
+438	36-5-81-1	71312149121841311	Saramaccan	sara1340	the salt	SALT	1274		sátu	sátu 
+439	36-5-82-1	71312149378169904	Saramaccan	sara1340	the pepper	PEPPER	1385		pë́pë	pë́pë 
+440	36-5-821-1	71312149378169904	Saramaccan	sara1340	the chili pepper	CHILI PEPPER	919		pë́pë	pë́pë 
+441	36-5-84-1	71312149197405424	Saramaccan	sara1340	the honey	HONEY	942		hö́níwáta	hö́níwáta 
+442	36-5-85-1	71312149178477055	Saramaccan	sara1340	the sugar	SUGAR	862		súki	súki 
+443	36-5-86-1	71312149487192701	Saramaccan	sara1340	the milk	MILK	635		më́íki	më́íki 
+444	36-5-88-1	71312149426714722	Saramaccan	sara1340	the cheese	CHEESE	1569		kási	kási 
+445	36-5-89-1	71312149859218797	Saramaccan	sara1340	the butter	BUTTER	1245		bótófátu	bótófátu 
+446	36-5-9-1	71312149416878041	Saramaccan	sara1340	the drink	BEVERAGE	731		diíngi	diíngi 
+447	36-5-92-1	71312149175008040	Saramaccan	sara1340	the wine	WINE	1524		wín	wín 
+448	36-5-93-1	71312149395435016	Saramaccan	sara1340	the beer	BEER	1639		bíi	bíi 
+449	36-5-94-1	71312149416878041	Saramaccan	sara1340	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		diíngi	diíngi 
+450	36-5-97-1	7131214958442253	Saramaccan	sara1340	the egg	EGG	744		óbo	óbo 
+451	36-5-971-1	71312149529127354	Saramaccan	sara1340	the yolk	YOLK	1556		bëbë	bëbë 
+452	36-6-11-1	71312149944079703	Saramaccan	sara1340	to put on	PUT ON	158		bisí	bisí 
+453	36-6-12-1	71312149603028978	Saramaccan	sara1340	the clothing or clothes	CLOTHES	1895		koósu	koósu 
+454	36-6-13-1	71312149405884631	Saramaccan	sara1340	the tailor	TAILOR	881		náikoósuma	náikoósuma 
+455	36-6-21-1	71312149603028978	Saramaccan	sara1340	the cloth	CLOTH	1616		koósu	koósu 
+456	36-6-22-1	71312149770985682	Saramaccan	sara1340	the wool	WOOL	964		aniítiputu	aniítiputu 
+457	36-6-24-1	71312149240896707	Saramaccan	sara1340	the cotton	COTTON	1850		maáun	maáun 
+458	36-6-28-1	71312149276284459	Saramaccan	sara1340	the fur	FUR	580		uwíi	uwíi 
+459	36-6-29-1	71312149196961098	Saramaccan	sara1340	the leather	LEATHER	629		kákísa	kákísa 
+460	36-6-31-1	71312149171587999	Saramaccan	sara1340	to spin	SPIN	121		fási (2)	fási (2) 
+461	36-6-32-1	71312149189659402	Saramaccan	sara1340	the spindle	SPINDLE	277		këkë́	këkë́ 
+462	36-6-33-1	7131214988510111	Saramaccan	sara1340	to weave	WEAVE	133		beéi (1)	beéi (1) 
+463	36-6-35-1	71312149551024405	Saramaccan	sara1340	to sew	SEW	1457		nái	nái 
+464	36-6-36-1	71312149141298960	Saramaccan	sara1340	the needle(1)	NEEDLE (FOR SEWING)	1382		agúja	agúja 
+465	36-6-38-1	71312149240896707	Saramaccan	sara1340	the thread	THREAD	1161		maáun	maáun 
+466	36-6-39-1	71312149507924673	Saramaccan	sara1340	to dye	DYE	157		féífi (1)	féífi (1) 
+467	36-7-37-1	71312149222001170	Saramaccan	sara1340	the ladder	LADDER	1464		sikáda	sikáda 
+468	36-7-37-2	71312149994457068	Saramaccan	sara1340	the ladder	LADDER	1464		láda	láda 
+469	36-6-42-1	71312149805907279	Saramaccan	sara1340	the (woman's) dress	DRESS	474		jápo	jápo 
+470	36-6-43-1	71312149760256530	Saramaccan	sara1340	the coat	COAT	603		djákíti	djákíti 
+471	36-6-44-1	71312149925465271	Saramaccan	sara1340	the shirt	SHIRT	1622		hë́mpi	hë́mpi 
+472	36-6-45-1	71312149640821034	Saramaccan	sara1340	the collar	COLLAR	2012		bákágángáá ángísa	bákágángáá ángísa 
+473	36-6-46-1	71312149705848842	Saramaccan	sara1340	the skirt	SKIRT	1600		kóto	kóto 
+474	36-6-48-1	71312149961113970	Saramaccan	sara1340	the trousers	TROUSERS	809		buúku	buúku 
+475	36-6-49-1	71312149924228709	Saramaccan	sara1340	the sock or stocking	STOCKING	329		köúsu	köúsu 
+476	36-6-51-1	71312149388841976	Saramaccan	sara1340	the shoe	SHOE	1381		saapátu	saapátu 
+477	36-6-51-2	71312149366069320	Saramaccan	sara1340	the shoe	SHOE	1381		súsu	súsu 
+478	36-6-52-1	71312149506056123	Saramaccan	sara1340	the boot	BOOT	585		godión	godión 
+479	36-6-55-1	71312149440601145	Saramaccan	sara1340	the hat or cap	HEADGEAR	2130		kaapúsa	kaapúsa 
+480	36-6-57-1	71312149334518976	Saramaccan	sara1340	the belt	BELT	772		bánti	bánti 
+481	36-6-57-2	71312149492499163	Saramaccan	sara1340	the belt	BELT	772		lelibúba	lelibúba 
+482	36-6-61-1	71312149327357834	Saramaccan	sara1340	the pocket	POCKET	1851		sáku	sáku 
+483	36-6-62-1	71312149848317143	Saramaccan	sara1340	the button	BUTTON	757		kö́nö́pu	kö́nö́pu 
+484	36-6-63-1	71312149562313413	Saramaccan	sara1340	the pin	PIN	64		pilásu	pilásu 
+485	36-6-71-1	71312149944079703	Saramaccan	sara1340	the ornament or adornment	ORNAMENT	917		bisí	bisí 
+486	36-6-72-1	71312149684097366	Saramaccan	sara1340	the jewel	JEWEL	1029		djamátísítónu	djamátísítónu 
+487	36-6-73-1	71312149530344724	Saramaccan	sara1340	the ring	RING	1374		andélu	andélu 
+488	36-6-74-1	71312149793553850	Saramaccan	sara1340	the bracelet	BRACELET	1754		muungá	muungá 
+489	36-6-75-1	71312149938451136	Saramaccan	sara1340	the necklace	NECKLACE	1961		kónda	kónda 
+490	36-6-76-1	71312149260526097	Saramaccan	sara1340	the bead	BEAD	1860		peéli	peéli 
+491	36-6-77-1	71312149192562304	Saramaccan	sara1340	the earring	EARRING	770		línga	línga 
+492	36-6-79-1	71312149948319908	Saramaccan	sara1340	the tattoo	TATTOO	68		kamambá	kamambá 
+493	36-6-81-1	71312149826369685	Saramaccan	sara1340	the handkerchief or rag	RAG	332		koósúpísi	koósúpísi 
+494	36-6-82-1	71312149182918341	Saramaccan	sara1340	the towel	TOWEL	1021		angísa	angísa 
+495	36-6-91-1	71312149564899349	Saramaccan	sara1340	the comb	COMB	1475		pénti	pénti 
+496	36-6-92-1	71312149570166779	Saramaccan	sara1340	the brush	BRUSH	1821		bö́sö	bö́sö 
+497	36-6-93-1	71312149938576785	Saramaccan	sara1340	the razor	RAZOR	151		sémíndééfi	sémíndééfi 
+498	36-6-94-1	71312149907481603	Saramaccan	sara1340	the ointment	OINTMENT	1926		fékísi	fékísi 
+499	36-6-95-1	71312149926156019	Saramaccan	sara1340	the soap	SOAP	788		sópu	sópu 
+500	36-6-96-1	71312149115356083	Saramaccan	sara1340	the mirror	MIRROR	1171		sipéi	sipéi 
+501	36-7-11-1	71312149118946061	Saramaccan	sara1340	to live	DWELL (LIVE, RESIDE)	363		líbi	líbi 
+502	36-7-12-1	71312149705823303	Saramaccan	sara1340	the house	HOUSE	1252		wósu	wósu 
+503	36-7-14-1	71312149356734209	Saramaccan	sara1340	the tent	TENT	1316		peláwósu	peláwósu 
+504	36-7-15-1	71312149252586720	Saramaccan	sara1340	the yard or court	YARD	736		djái	djái 
+505	36-7-17-1	7131214933686912	Saramaccan	sara1340	the cookhouse	COOKHOUSE	334		bóíwósu	bóíwósu 
+506	36-7-21-1	71312149761806631	Saramaccan	sara1340	the room	ROOM	1450		kámba	kámba 
+507	36-7-22-1	71312149176838822	Saramaccan	sara1340	the door or gate	DOOR	1567		dö́ö	dö́ö 
+508	36-7-221-1	71312149794334053	Saramaccan	sara1340	the doorpost	DOORPOST	80		dö́ö́páu	dö́ö́páu 
+509	36-7-23-1	71312149145018342	Saramaccan	sara1340	the lock	LOCK	1596		söö́tö	söö́tö 
+510	36-7-24-1	71312149554826244	Saramaccan	sara1340	the key	KEY	1472		söö́tö́míi	söö́tö́míi 
+511	36-7-25-1	71312149761289426	Saramaccan	sara1340	the window	WINDOW	1375		fë́nsë	fë́nsë 
+512	36-7-26-1	71312149451439179	Saramaccan	sara1340	the floor	FLOOR	1632		wósúgóón	wósúgóón 
+513	36-7-27-1	71312149956281307	Saramaccan	sara1340	the wall	WALL (OF HOUSE)	933		bandja	bandja 
+514	36-7-31-1	71312149656875096	Saramaccan	sara1340	the fireplace	FIREPLACE	185		fájákámían	fájákámían 
+515	36-7-32-1	71312149209362595	Saramaccan	sara1340	the stove	STOVE	859		gási	gási 
+516	36-7-42-1	71312149715256683	Saramaccan	sara1340	the bed	BED	1663		bédi	bédi 
+517	36-7-421-1	71312149422498004	Saramaccan	sara1340	the pillow	PILLOW	1044		kúnsu	kúnsu 
+518	36-7-422-1	71312149690078355	Saramaccan	sara1340	the blanket	BLANKET	806		déígi	déígi 
+519	36-7-43-1	7131214966760143	Saramaccan	sara1340	the chair	CHAIR	1476		sutúu	sutúu 
+520	36-7-44-1	7131214937456007	Saramaccan	sara1340	the table	TABLE	1775		táfa	táfa 
+521	36-7-45-1	71312149612401518	Saramaccan	sara1340	the lamp or torch	TORCH OR LAMP	2131		fája	fája 
+522	36-7-46-1	71312149555678167	Saramaccan	sara1340	the candle	CANDLE	1273		kánda	kánda 
+523	36-7-48-1	71312149307262565	Saramaccan	sara1340	the trough	TROUGH	205		báki	báki 
+524	36-7-51-1	71312149939329951	Saramaccan	sara1340	the roof	ROOF	769		wósúlíba	wósúlíba 
+525	36-7-54-1	71312149804824969	Saramaccan	sara1340	the rafter	RAFTER	829		láta	láta 
+526	36-7-55-1	71312149192582356	Saramaccan	sara1340	the beam	BEAM	1132		bén	bén 
+527	36-7-55-2	7131214999336704	Saramaccan	sara1340	the beam	BEAM	1132		báíki	báíki 
+528	36-7-56-1	71312149236864909	Saramaccan	sara1340	the post or pole	POST	281		pósu	pósu 
+529	36-7-57-1	71312149113187094	Saramaccan	sara1340	the board	BOARD	1227		paánga	paánga 
+530	36-7-61-1	71312149273711161	Saramaccan	sara1340	the mason	MASON	877		mésema	mésema 
+531	36-7-63-1	71312149374047886	Saramaccan	sara1340	the mortar(2)	MORTAR BINDER	1731		simá	simá 
+532	36-8-12-1	71312149770944471	Saramaccan	sara1340	the field	FIELD	212		goón	goón 
+533	36-8-13-1	71312149279861775	Saramaccan	sara1340	the garden	GARDEN	586		djaaí	djaaí 
+534	36-8-15-1	71312149157100014	Saramaccan	sara1340	to cultivate	CULTIVATE	1541		kiijá	kiijá 
+535	36-8-16-1	71312149538046473	Saramaccan	sara1340	the fence	FENCE	1690		péni	péni 
+536	36-8-17-1	71312149378273731	Saramaccan	sara1340	the ditch	DITCH	2002		ngö́tö	ngö́tö 
+537	36-8-21-1	71312149646946281	Saramaccan	sara1340	to plough/plow	PLOUGH	1921		tjaba	tjaba 
+538	36-8-22-1	71312149197839236	Saramaccan	sara1340	to dig	DIG	1418		díki	díki 
+539	36-8-23-1	71312149739631122	Saramaccan	sara1340	the spade	SPADE	1176		sikópu (2)	sikópu (2) 
+540	36-8-24-1	71312149739631122	Saramaccan	sara1340	the shovel	SHOVEL	1901		sikópu (2)	sikópu (2) 
+541	36-8-25-1	71312149261434137	Saramaccan	sara1340	the hoe	HOE	284		ahö́	ahö́ 
+542	36-8-27-1	71312149238543537	Saramaccan	sara1340	the rake	RAKE	338		hálíki	hálíki 
+543	36-8-31-1	71312149146554989	Saramaccan	sara1340	to sow	SOW SEEDS	748		jaa	jaa 
+544	36-8-311-1	71312149765926021	Saramaccan	sara1340	the seed	SEED	714		síi	síi 
+545	36-8-32-1	71312149153725442	Saramaccan	sara1340	to mow	MOW	190		kóti	kóti 
+546	36-8-34-1	71312149694761568	Saramaccan	sara1340	to thresh	THRESH	285		sakpí	sakpí 
+547	36-8-34-2	71312149688344751	Saramaccan	sara1340	to thresh	THRESH	285		më́	më́ 
+548	36-8-41-1	71312149153725442	Saramaccan	sara1340	the harvest	HARVEST	611		kóti	kóti 
+549	36-8-47-1	71312149896308368	Saramaccan	sara1340	the maize/corn	MAIZE	506		kálu	kálu 
+550	36-8-48-1	71312149671077044	Saramaccan	sara1340	the rice	RICE	926		alísi	alísi 
+551	36-8-51-1	71312149485603336	Saramaccan	sara1340	the grass	GRASS	606		gaási (1)	gaási (1) 
+552	36-8-53-1	71312149276284459	Saramaccan	sara1340	the plant	PLANT (VEGETATION)	653		uwíi	uwíi 
+553	36-8-531-1	7131214921735967	Saramaccan	sara1340	to plant	PLANT (SOMETHING)	1486		paandí	paandí 
+554	36-8-54-1	71312149830621977	Saramaccan	sara1340	the root	ROOT	670		lútu	lútu 
+555	36-8-55-1	71312149906644979	Saramaccan	sara1340	the branch	BRANCH OR TWIG	3223		máun	máun 
+556	36-8-56-1	71312149276284459	Saramaccan	sara1340	the leaf	LEAF	628		uwíi	uwíi 
+557	36-8-57-1	71312149839222988	Saramaccan	sara1340	the flower	FLOWER	239		foló	foló 
+558	36-8-6-1	71312149356955678	Saramaccan	sara1340	the tree	TREE	906		páu	páu 
+559	36-8-67-1	71312149857580046	Saramaccan	sara1340	the vine	VINE	343		tatái	tatái 
+560	36-8-68-1	7131214948762461	Saramaccan	sara1340	the tobacco	TOBACCO	974		tabáku	tabáku 
+561	36-8-69-1	71312149399838271	Saramaccan	sara1340	to smoke	SMOKE (INHALE)	1689		sumúku	sumúku 
+562	36-8-691-1	71312149450525101	Saramaccan	sara1340	the pipe	PIPE	1124		pípa	pípa 
+563	36-8-72-1	71312149123342445	Saramaccan	sara1340	the tree stump	TREE STUMP	241		tómpi	tómpi 
+564	36-8-73-1	71312149368890363	Saramaccan	sara1340	the tree trunk	TREE TRUNK	344		toómpu	toómpu 
+565	36-8-74-1	71312149667138817	Saramaccan	sara1340	the forked branch	FORKED BRANCH	409		ahala	ahala 
+566	36-8-75-1	71312149196961098	Saramaccan	sara1340	the bark	BARK	1204		kákísa	kákísa 
+567	36-8-76-1	71312149717165207	Saramaccan	sara1340	the sap	SAP	345		wáta	wáta 
+568	36-8-82-1	71312149976252020	Saramaccan	sara1340	the coconut	COCONUT	970		kökönö́tö	kökönö́tö 
+569	36-8-83-1	71312149105357508	Saramaccan	sara1340	the citrus fruit	CITRUS FRUIT	1126		apeesína	apeesína 
+570	36-8-84-1	71312149184534655	Saramaccan	sara1340	the banana	BANANA	868		bakúba	bakúba 
+571	36-8-91-1	71312149264657700	Saramaccan	sara1340	the sweet potato	SWEET POTATO	159		batáta	batáta 
+572	36-8-912-1	713121498382630	Saramaccan	sara1340	the yam	YAM	410		njámísi	njámísi 
+573	36-8-92-1	71312149608253919	Saramaccan	sara1340	the cassava/manioc	CASSAVA	925		kasába	kasába 
+574	36-8-93-1	713121491465086	Saramaccan	sara1340	the gourd	GOURD	411		kúja	kúja 
+575	36-8-931-1	71312149109409504	Saramaccan	sara1340	the pumpkin or squash	PUMPKIN	864		pampú	pampú 
+576	36-8-94-1	71312149432240531	Saramaccan	sara1340	the bamboo	BAMBOO	1927		bambúsi	bambúsi 
+577	36-8-941-1	71312149149114214	Saramaccan	sara1340	the sugar cane	SUGAR CANE	146		tjéni	tjéni 
+578	36-8-96-1	71312149704407762	Saramaccan	sara1340	the fish poison	FISH POISON	348		ndekú	ndekú 
+579	36-8-97-1	71312149847365678	Saramaccan	sara1340	the nettle	NETTLE	33		azö	azö 
+580	36-8-98-1	7131214956154829	Saramaccan	sara1340	the mushroom	MUSHROOM	641		adikpókpo	adikpókpo 
+581	36-9-11-1	71312149918011671	Saramaccan	sara1340	to do	DO	813		dú	dú 
+582	36-9-12-1	71312149653790578	Saramaccan	sara1340	the work	WORK (LABOUR)	984		woóko	woóko 
+583	36-9-14-1	71312149811404135	Saramaccan	sara1340	to bend	BEND	2004		béndi	béndi 
+584	36-9-15-1	71312149110820771	Saramaccan	sara1340	to fold	FOLD	1470		dobá	dobá 
+585	36-9-16-1	71312149896308842	Saramaccan	sara1340	to tie	TIE	1917		tái	tái 
+586	36-9-161-1	71312149988772646	Saramaccan	sara1340	to untie	UNTIE	352		lúsu	lúsu 
+587	36-9-161-2	71312149524553444	Saramaccan	sara1340	to untie	UNTIE	352		bösö	bösö 
+588	36-9-18-1	71312149816718842	Saramaccan	sara1340	the chain	CHAIN	1627		búi	búi 
+589	36-9-18-2	71312149375261594	Saramaccan	sara1340	the chain	CHAIN	1627		kë́ti	kë́ti 
+590	36-9-19-1	71312149857580046	Saramaccan	sara1340	the rope	ROPE	1218		tatái	tatái 
+591	36-9-192-1	71312149211830438	Saramaccan	sara1340	the knot	KNOT	760		agó	agó 
+592	36-9-21-1	71312149622134024	Saramaccan	sara1340	to strike or hit or beat	STRIKE OR BEAT	2133		náki	náki 
+593	36-9-211-1	71312149940718695	Saramaccan	sara1340	to pound	POUND	354		fón	fón 
+594	36-9-22-1	71312149153725442	Saramaccan	sara1340	to cut	CUT	1432		kóti	kóti 
+595	36-9-221-1	71312149368515647	Saramaccan	sara1340	to cut down	CUT DOWN	355		fáa	fáa 
+596	36-9-223-1	7131214976376019	Saramaccan	sara1340	to stab	STAB TO DEATH	3189		tjökö́	tjökö́ 
+597	36-9-23-1	71312149225801047	Saramaccan	sara1340	the knife(2)	KNIFE	1352		fáka	fáka 
+598	36-9-24-1	71312149763120897	Saramaccan	sara1340	the scissors or shears	SHEARS	356		seséi	seséi 
+599	36-9-25-1	71312149790152603	Saramaccan	sara1340	the axe/ax	AXE	677		matjáu	matjáu 
+600	36-9-251-1	71312149345303745	Saramaccan	sara1340	the adze	ADZE	290		lukwétu	lukwétu 
+601	36-9-26-1	7131214921470034	Saramaccan	sara1340	to break	BREAK (DESTROY OR GET DESTROYED)	680		boóko	boóko 
+602	36-9-261-1	7131214921470034	Saramaccan	sara1340	broken	BROKEN (NOT WORKING)	3190		boóko	boóko 
+603	36-9-27-1	7131214994776824	Saramaccan	sara1340	to split	SPLIT	1437		latjá	latjá 
+604	36-9-28-1	7131214922992456	Saramaccan	sara1340	to tear	TEAR (SHRED)	1735		fë́n	fë́n 
+605	36-9-28-2	71312149981158362	Saramaccan	sara1340	to tear	TEAR (SHRED)	1735		tënë́	tënë́ 
+606	36-9-83-1	71312149225349499	Saramaccan	sara1340	the statue	STATUE	1002		pindi	pindi 
+607	36-9-83-2	7131214933209597	Saramaccan	sara1340	the statue	STATUE	1002		póbíki	póbíki 
+608	36-9-31-1	71312149828610086	Saramaccan	sara1340	to rub	RUB	1449		feegá	feegá 
+609	36-9-31-2	71312149281896250	Saramaccan	sara1340	to rub	RUB	1449		lóbi (2)	lóbi (2) 
+610	36-9-32-1	71312149739122232	Saramaccan	sara1340	to stretch	STRETCH	214		tëndë́	tëndë́ 
+611	36-9-33-1	71312149508315015	Saramaccan	sara1340	to pull	PULL	1455		hái	hái 
+612	36-9-34-1	71312149561676819	Saramaccan	sara1340	to spread out	SPREAD OUT	38		paajá	paajá 
+613	36-9-341-1	71312149243724759	Saramaccan	sara1340	to hang up	HANG UP	357		hë́ngi	hë́ngi 
+614	36-9-342-1	7131214932808967	Saramaccan	sara1340	to press	PRESS	1913		zín	zín 
+615	36-9-343-1	71312149380922750	Saramaccan	sara1340	to squeeze	SQUEEZE	1414		peetá	peetá 
+616	36-9-343-2	884953752820663	Saramaccan	sara1340	to squeeze	SQUEEZE	1414		kwíndji	kwíndji 
+617	36-9-343-3	7131214932808967	Saramaccan	sara1340	to squeeze	SQUEEZE	1414		zín	zín 
+618	36-9-35-1	71312149222769141	Saramaccan	sara1340	to pour	POUR	1487		kándi	kándi 
+619	36-9-35-2	71312149244170513	Saramaccan	sara1340	to pour	POUR	1487		tutú (1)	tutú (1) 
+620	36-9-36-1	71312149151683078	Saramaccan	sara1340	to wash	WASH	1453		wási	wási 
+621	36-9-37-1	71312149983814969	Saramaccan	sara1340	to sweep	SWEEP	230		baí	baí 
+622	36-9-38-1	71312149293155346	Saramaccan	sara1340	the broom	BROOM	245		basö́ö	basö́ö 
+623	36-9-422-1	71312149329763520	Saramaccan	sara1340	the tool	TOOL	1361		félu	félu 
+624	36-9-43-1	71312149504823602	Saramaccan	sara1340	the carpenter	CARPENTER	1042		të́mbëma	të́mbëma 
+625	36-9-44-1	71312149256615135	Saramaccan	sara1340	to build	BUILD	1840		mbéi	mbéi 
+626	36-9-46-1	71312149776110698	Saramaccan	sara1340	to bore	BORE	1501		bólu	bólu 
+627	36-9-461-1	71312149197839236	Saramaccan	sara1340	to hollow out	HOLLOW OUT	46		díki	díki 
+628	36-9-48-1	71312149793970757	Saramaccan	sara1340	the saw	SAW	1948		sán	sán 
+629	36-9-49-1	71312149848989382	Saramaccan	sara1340	the hammer	HAMMER	1481		háma	háma 
+630	36-9-5-1	71312149900788023	Saramaccan	sara1340	the nail	NAIL (TOOL)	502		peégu	peégu 
+631	36-9-56-1	71312149921776843	Saramaccan	sara1340	the glue	GLUE	1069		láki	láki 
+632	36-9-6-1	96172236904830479	Saramaccan	sara1340	the blacksmith	BLACKSMITH	1001		simítima	simítima 
+633	36-9-64-1	71312149833902981	Saramaccan	sara1340	the gold	GOLD	1369		goútu	goútu 
+634	36-9-65-1	71312149589115918	Saramaccan	sara1340	the silver	SILVER	759		sóófu	sóófu 
+635	36-9-66-1	71312149397198559	Saramaccan	sara1340	the copper	COPPER	1825		kö́pö	kö́pö 
+636	36-9-67-1	71312149329763520	Saramaccan	sara1340	the iron	IRON	621		félu	félu 
+637	36-9-68-1	71312149660141939	Saramaccan	sara1340	the lead	LEAD (CHEMICAL ELEMENT)	627		lóto	lóto 
+638	36-9-74-1	71312149230186307	Saramaccan	sara1340	the glass	GLASS	604		gaási (2)	gaási (2) 
+639	36-9-75-1	7131214988510111	Saramaccan	sara1340	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		beéi (1)	beéi (1) 
+640	36-9-76-1	7131214911173682	Saramaccan	sara1340	the basket	BASKET	1539		mánda	mánda 
+641	36-9-77-1	7131214910501654	Saramaccan	sara1340	the mat	MAT	195		káma	káma 
+642	36-9-79-1	7131214925788936	Saramaccan	sara1340	the fan	FAN (OBJECT)	1971		wawái	wawái 
+643	36-9-81-1	71312149404898090	Saramaccan	sara1340	to carve	CARVE	228		të́mbë	të́mbë 
+644	36-9-82-1	71312149504823602	Saramaccan	sara1340	the sculptor	SCULPTOR	914		të́mbëma	të́mbëma 
+645	36-9-84-1	71312149314614707	Saramaccan	sara1340	the chisel	CHISEL	1979		bë́të	bë́të 
+646	36-9-88-1	71312149507924673	Saramaccan	sara1340	the paint	PAINT (PIGMENTS)	647		féífi (1)	féífi (1) 
+647	36-9-89-1	71312149507924673	Saramaccan	sara1340	to paint	PAINTING	2001		féífi (1)	féífi (1) 
+648	36-10-11-1	71312149788850983	Saramaccan	sara1340	to move	MOVE	765		bulí	bulí 
+649	36-10-12-1	71312149811404135	Saramaccan	sara1340	to turn	TURN	1588		béndi	béndi 
+650	36-10-13-1	71312149103453480	Saramaccan	sara1340	to turn around	TURN (SOMETHING)	1445		biá	biá 
+651	36-10-14-1	71312149259343547	Saramaccan	sara1340	to wrap	WRAP	1113		dimbolí	dimbolí 
+652	36-10-15-1	71312149257962711	Saramaccan	sara1340	to roll	ROLL	827		lolá	lolá 
+653	36-10-15-2	7131214963885931	Saramaccan	sara1340	to roll	ROLL	827		logodá	logodá 
+654	36-10-17-1	71312149472594802	Saramaccan	sara1340	to twist	TWIST (AROUND)	3199		toosá	toosá 
+655	36-10-21-1	71312149453984519	Saramaccan	sara1340	to rise	RISE (MOVE UPWARDS)	568		hópo	hópo 
+656	36-10-22-1	71312149453984519	Saramaccan	sara1340	to raise or lift	LIFT	501		hópo	hópo 
+657	36-10-23-1	71312149188359718	Saramaccan	sara1340	to fall	FALL	1280		kaí	kaí 
+658	36-10-24-1	71312149207121583	Saramaccan	sara1340	to drip	DRIP (EMIT LIQUID)	2253		tötö	tötö 
+659	36-10-25-1	71312149965339830	Saramaccan	sara1340	to throw	THROW	1456		híti	híti 
+660	36-10-252-1	71312149629897411	Saramaccan	sara1340	to catch	CATCH	702		kísi	kísi 
+661	36-10-26-1	71312149253562445	Saramaccan	sara1340	to shake	SHAKE	1909		séki	séki 
+662	36-10-26-2	71312149157339193	Saramaccan	sara1340	to shake	SHAKE	1909		djëkpë	djëkpë 
+663	36-10-32-1	71312149807078474	Saramaccan	sara1340	to flow	FLOW	2003		kulé	kulé 
+664	36-10-33-1	71312149890530201	Saramaccan	sara1340	to sink	SINK (DESCEND)	1088		síngi	síngi 
+665	36-10-34-1	71312149210848631	Saramaccan	sara1340	to float	FLOAT	1574		diípi	diípi 
+666	36-10-35-1	71312149136526372	Saramaccan	sara1340	to swim	SWIM	1439		sún	sún 
+667	36-10-351-1	71312149995453530	Saramaccan	sara1340	to dive	DIVE	119		dóki	dóki 
+668	36-10-352-1	71312149146554989	Saramaccan	sara1340	to splash	SPLASH	365		jaa	jaa 
+669	36-10-36-1	71312149503254961	Saramaccan	sara1340	to sail	SAIL	787		púu zéibóto	púu zéibóto 
+670	36-10-37-1	71312149414232174	Saramaccan	sara1340	to fly	FLY (MOVE THROUGH AIR)	1441		buwá	buwá 
+671	36-10-38-1	7131214944925126	Saramaccan	sara1340	to blow	BLOW (OF WIND)	175		böö́	böö́ 
+672	36-10-41-1	71312149175420244	Saramaccan	sara1340	to crawl	CRAWL	96		hái ku bë́ë	hái ku bë́ë 
+673	36-10-412-1	71312149145598251	Saramaccan	sara1340	to kneel	KNEEL	66		kaí ku kiní	kaí ku kiní 
+674	36-10-413-1	71312149253335669	Saramaccan	sara1340	to crouch	CROUCH	296		djökötö́	djökötö́ 
+675	36-10-42-1	71312149411145157	Saramaccan	sara1340	to slide or slip	SLIP	1324		koogá	koogá 
+676	36-10-43-1	71312149856374010	Saramaccan	sara1340	to jump	JUMP	1829		djómbo	djómbo 
+677	36-10-431-1	71312149787615842	Saramaccan	sara1340	to kick	KICK	1135		sikópu (1)	sikópu (1) 
+678	36-10-44-1	71312149386981523	Saramaccan	sara1340	to dance	DANCE	1879		bajá	bajá 
+679	36-10-45-1	71312149880131698	Saramaccan	sara1340	to walk	WALK	1443		wáka	wáka 
+680	36-10-451-1	71312149498559652	Saramaccan	sara1340	to limp	LIMP	366		tónto	tónto 
+681	36-10-46-1	71312149807078474	Saramaccan	sara1340	to run	RUN	1519		kulé	kulé 
+682	36-10-47-1	71312149262113491	Saramaccan	sara1340	to go	GO	695		gó	gó 
+683	36-10-471-1	7131214987945581	Saramaccan	sara1340	to go up	GO UP (ASCEND)	705		subí	subí 
+684	36-10-472-1	7131214987945581	Saramaccan	sara1340	to climb	CLIMB	1102		subí	subí 
+685	36-10-473-1	7131214914033482	Saramaccan	sara1340	to go down	GO DOWN (DESCEND)	2014		baziá	baziá 
+686	36-10-473-2	71312149553043943	Saramaccan	sara1340	to go down	GO DOWN (DESCEND)	2014		sáka	sáka 
+687	36-10-474-1	71312149985558234	Saramaccan	sara1340	to go out	GO OUT	1107		kumútu	kumútu 
+688	36-10-48-1	71312149622994173	Saramaccan	sara1340	to come	COME	1446		kó	kó 
+689	36-10-481-1	71312149299612301	Saramaccan	sara1340	to come back	COME BACK	581		tooná	tooná 
+690	36-10-49-1	71312149929277668	Saramaccan	sara1340	to leave	LEAVE	1752		disá	disá 
+691	36-10-491-1	71312149902454954	Saramaccan	sara1340	to disappear	DISAPPEAR	485		fusí	fusí 
+692	36-10-51-1	71312149902454954	Saramaccan	sara1340	to flee	FLEE	956		fusí	fusí 
+693	36-10-52-1	71312149559175170	Saramaccan	sara1340	to follow	FOLLOW	1085		faáka	faáka 
+694	36-10-53-1	71312149866922767	Saramaccan	sara1340	to pursue	PURSUE	1047		jáka	jáka 
+695	36-10-55-1	71312149555622305	Saramaccan	sara1340	to arrive	ARRIVE	1387		dóu (1)	dóu (1) 
+696	36-10-57-1	71312149819342873	Saramaccan	sara1340	to enter	ENTER	749		dendá	dendá 
+697	36-10-61-1	71312149497934301	Saramaccan	sara1340	to carry	CARRY	700		tjá	tjá 
+698	36-10-613-1	71312149137077910	Saramaccan	sara1340	to carry on shoulder	CARRY ON SHOULDER	413		adjö́kömë	adjö́kömë 
+699	36-10-614-1	71312149262281851	Saramaccan	sara1340	to carry on head	CARRY ON HEAD	414		agbágba	agbágba 
+700	36-10-63-1	71312149350381587	Saramaccan	sara1340	to send	SEND	1127		mandá	mandá 
+701	36-10-64-1	71312149638232343	Saramaccan	sara1340	to lead	LEAD (GUIDE)	43		tíi	tíi 
+702	36-10-65-1	7131214970610747	Saramaccan	sara1340	to drive	DRIVE	741		lë́i	lë́i 
+703	36-10-67-1	71312149136059624	Saramaccan	sara1340	to push	PUSH	1452		tö́tö	tö́tö 
+704	36-10-67-2	71312149429928507	Saramaccan	sara1340	to push	PUSH	1452		tuúsi	tuúsi 
+705	36-10-71-1	71312149418002112	Saramaccan	sara1340	the road	ROAD	667		pási	pási 
+706	36-10-72-1	71312149418002112	Saramaccan	sara1340	the path	PATH	2252		pási	pási 
+707	36-10-74-1	71312149636601587	Saramaccan	sara1340	the bridge	BRIDGE	1011		boóki	boóki 
+708	36-10-75-1	713121492625907	Saramaccan	sara1340	the cart or wagon	CART	122		wági	wági 
+709	36-10-76-1	71312149864745390	Saramaccan	sara1340	the wheel	WHEEL	710		wágífútu	wágífútu 
+710	36-10-77-1	71312149543705940	Saramaccan	sara1340	the axle	AXLE	1769		masíníási	masíníási 
+711	36-10-81-1	71312149224286715	Saramaccan	sara1340	the ship	SHIP	740		sípi	sípi 
+712	36-10-83-1	71312149805964131	Saramaccan	sara1340	the boat	BOAT	1844		bóto	bóto 
+713	36-10-831-1	71312149255069952	Saramaccan	sara1340	the canoe	CANOE	1970		palibóto	palibóto 
+714	36-10-84-1	71312149857039189	Saramaccan	sara1340	the raft	RAFT	1664		údúpáki	údúpáki 
+715	36-10-851-1	71312149576690481	Saramaccan	sara1340	the paddle	PADDLE	234		páda	páda 
+716	36-10-852-1	71312149977278432	Saramaccan	sara1340	to row	ROW	1849		púu	púu 
+717	36-10-88-1	71312149920519717	Saramaccan	sara1340	the sail	SAILCLOTH	786		zéi	zéi 
+718	36-10-89-1	71312149507203707	Saramaccan	sara1340	the anchor	ANCHOR	1870		hánka	hánka 
+719	36-10-92-1	7131214976376019	Saramaccan	sara1340	to land	LAND (DESCEND)	1922		tjökö́	tjökö́ 
+720	36-11-11-1	71312149396726027	Saramaccan	sara1340	to have	HAVE	773		ábi	ábi 
+721	36-11-12-1	71312149396726027	Saramaccan	sara1340	to own	OWN	684		ábi	ábi 
+722	36-11-13-1	71312149279661708	Saramaccan	sara1340	to take	TAKE	1749		téi	téi 
+723	36-11-14-1	71312149641364768	Saramaccan	sara1340	to grasp	SEIZE	855		panján	panján 
+724	36-11-15-1	71312149198161763	Saramaccan	sara1340	to hold	HOLD	1448		panjá	panjá 
+725	36-11-15-2	71312149898563443	Saramaccan	sara1340	to hold	HOLD	1448		hói	hói 
+726	36-11-16-1	71312149629897411	Saramaccan	sara1340	to get	GET	694		kísi	kísi 
+727	36-11-17-1	71312149898563443	Saramaccan	sara1340	to keep	KEEP	1477		hói	hói 
+728	36-11-18-1	71312149309526165	Saramaccan	sara1340	the thing	THING	738		soní	soní 
+729	36-11-21-1	71312149566469241	Saramaccan	sara1340	to give	GIVE	1447		dá	dá 
+730	36-11-22-1	71312149510282365	Saramaccan	sara1340	to give back	GIVE BACK	85		tooná dá	tooná dá 
+731	36-11-24-1	71312149534814651	Saramaccan	sara1340	to preserve	PRESERVE	1997		tjubí	tjubí 
+732	36-11-27-1	7131214921470034	Saramaccan	sara1340	to destroy	DESTROY	681		boóko	boóko 
+733	36-11-28-1	71312149816462598	Saramaccan	sara1340	to injure	INJURE	44		háti (2)	háti (2) 
+734	36-11-31-1	71312149811010710	Saramaccan	sara1340	to look for	LOOK FOR	1468		súku	súku 
+735	36-11-32-1	71312149950186661	Saramaccan	sara1340	to find	FIND	719		féndi	féndi 
+736	36-11-33-1	71312149821203507	Saramaccan	sara1340	to lose	LOSE	1660		lási	lási 
+737	36-11-34-1	71312149929277668	Saramaccan	sara1340	to let go	LET GO OR SET FREE	1095		disá	disá 
+738	36-11-43-1	71312149268977924	Saramaccan	sara1340	the money	MONEY	1559		mö́ni	mö́ni 
+739	36-11-44-1	7131214950062107	Saramaccan	sara1340	the coin	COIN	1867		kpë́ngë́lë́mö́ni	kpë́ngë́lë́mö́ni 
+740	36-11-51-1	71312149650487412	Saramaccan	sara1340	rich	RICH	712		gúdu	gúdu 
+741	36-11-52-1	71312149598780358	Saramaccan	sara1340	poor	POOR	1674		pená (2)	pená (2) 
+742	36-11-52-2	71312149808190497	Saramaccan	sara1340	poor	POOR	1674		pootí	pootí 
+743	36-11-53-1	71312149311191604	Saramaccan	sara1340	the beggar	BEGGAR	1934		pootíma	pootíma 
+744	36-11-54-1	71312149558110303	Saramaccan	sara1340	stingy	STINGY	1774		giíi	giíi 
+745	36-11-61-1	71312149311771155	Saramaccan	sara1340	to lend	LEND	582		léni	léni 
+746	36-11-62-1	71312149311771155	Saramaccan	sara1340	to borrow	BORROW	1823		léni	léni 
+747	36-11-64-1	71312149934625321	Saramaccan	sara1340	the debt	DEBT	1914		paimá	paimá 
+748	36-11-65-1	71312149545837750	Saramaccan	sara1340	to pay	PAY	718		paká	paká 
+749	36-11-69-1	71312149287113934	Saramaccan	sara1340	the tax	TAX	873		lantimö́ni	lantimö́ni 
+750	36-11-78-1	71312149545837750	Saramaccan	sara1340	the wages	WAGES	1122		paká	paká 
+751	36-11-81-1	71312149428442609	Saramaccan	sara1340	to buy	BUY	1869		bái (1)	bái (1) 
+752	36-11-82-1	71312149409723110	Saramaccan	sara1340	to sell	SELL	1571		séi	séi 
+753	36-11-84-1	71312149941652256	Saramaccan	sara1340	the merchant	MERCHANT	1082		séisónima	séisónima 
+754	36-11-85-1	71312149901839246	Saramaccan	sara1340	the market	MARKET	633		wojowójo	wojowójo 
+755	36-11-86-1	7131214959985142	Saramaccan	sara1340	the shop/store	STORE	752		wë́nkë	wë́nkë 
+756	36-11-88-1	71312149795091800	Saramaccan	sara1340	expensive	EXPENSIVE	1426		díi	díi 
+757	36-11-89-1	71312149662966486	Saramaccan	sara1340	cheap	CHEAP	1887		búnkópu	búnkópu 
+758	36-11-91-1	71312149569738704	Saramaccan	sara1340	to share	SHARE	884		paatí	paatí 
+759	36-11-92-1	71312149674937133	Saramaccan	sara1340	to weigh	WEIGH	1098		wégi	wégi 
+760	36-12-01-1	71312149533891796	Saramaccan	sara1340	after	AFTER	1685		báka (1)	báka (1) 
+761	36-12-011-1	71312149533891796	Saramaccan	sara1340	behind	BEHIND	1686		báka (1)	báka (1) 
+762	36-12-02-1	71312149956281307	Saramaccan	sara1340	beside	BESIDE	1816		bandja	bandja 
+763	36-12-03-1	71312149590414607	Saramaccan	sara1340	down	DOWN	1326		básu (2)	básu (2) 
+764	36-12-04-1	71312149459089013	Saramaccan	sara1340	before	BEFORE	1882		ufö́	ufö́ 
+765	36-12-041-1	71312149110500540	Saramaccan	sara1340	in front of	IN FRONT OF	1883		a fési	a fési 
+766	36-12-05-1	71312149235070466	Saramaccan	sara1340	inside	INSIDE	1606		déndu	déndu 
+767	36-12-06-1	71312149576880838	Saramaccan	sara1340	outside	OUTSIDE	762		a dö́ö	a dö́ö 
+768	36-12-07-1	71312149590414607	Saramaccan	sara1340	under	BELOW OR UNDER	1485		básu (2)	básu (2) 
+769	36-12-08-1	71312149862437583	Saramaccan	sara1340	up	UP	1591		a líba	a líba 
+770	36-12-11-1	71312149361069961	Saramaccan	sara1340	the place	PLACE (POSITION)	723		kamían	kamían 
+771	36-12-12-1	71312149360989309	Saramaccan	sara1340	to put	PUT	998		butá	butá 
+772	36-12-13-1	71312149763981099	Saramaccan	sara1340	to sit	SIT	1416		sindó	sindó 
+773	36-12-14-1	71312149222769141	Saramaccan	sara1340	to lie down	LIE DOWN	215		kándi	kándi 
+774	36-12-15-1	71312149976782636	Saramaccan	sara1340	to stand	STAND	1442		taámpu	taámpu 
+775	36-12-16-1	7131214972531965	Saramaccan	sara1340	to remain	REMAIN	987		fiká	fiká 
+776	36-12-21-1	71312149753775785	Saramaccan	sara1340	to gather	GATHER	7		píi	píi 
+777	36-12-212-1	71312149753775785	Saramaccan	sara1340	to pick up	PICK UP	371		píi	píi 
+778	36-12-22-1	71312149337238647	Saramaccan	sara1340	to join	JOIN	1743		namá	namá 
+779	36-12-23-1	71312149569738704	Saramaccan	sara1340	to separate	SEPARATE	1359		paatí	paatí 
+780	36-12-232-1	71312149569738704	Saramaccan	sara1340	to divide	DIVIDE	1119		paatí	paatí 
+781	36-12-24-1	71312149920503586	Saramaccan	sara1340	to open	OPEN	1156		jabí	jabí 
+782	36-12-25-1	71312149758896909	Saramaccan	sara1340	to shut	SHUT	1046		tapá	tapá 
+783	36-12-26-1	71312149758896909	Saramaccan	sara1340	to cover	COVER	761		tapá	tapá 
+784	36-12-27-1	71312149534814651	Saramaccan	sara1340	to hide	HIDE (CONCEAL)	602		tjubí	tjubí 
+785	36-12-31-1	71312149937838246	Saramaccan	sara1340	high	HIGH	1265		héi	héi 
+786	36-12-33-1	7131214989240483	Saramaccan	sara1340	the top	TOP	1753		hédi	hédi 
+787	36-12-34-1	71312149590414607	Saramaccan	sara1340	the bottom	BOTTOM	690		básu (2)	básu (2) 
+788	36-12-35-1	71312149218913085	Saramaccan	sara1340	the end(1)	END (OF SPACE)	742		gogó	gogó 
+789	36-12-352-1	71312149961635354	Saramaccan	sara1340	pointed	POINTED	372		tjö́nítjö́ni	tjö́nítjö́ni 
+790	36-12-353-1	71312149487087309	Saramaccan	sara1340	the edge	EDGE	863		lénti	lénti 
+791	36-12-353-2	71312149812180181	Saramaccan	sara1340	the edge	EDGE	863		búka	búka 
+792	36-12-36-1	71312149956281307	Saramaccan	sara1340	the side	SIDE	682		bandja	bandja 
+793	36-12-37-1	71312149639243181	Saramaccan	sara1340	the middle	MIDDLE	1093		míndi	míndi 
+794	36-12-41-1	71312149264793343	Saramaccan	sara1340	right(1)	RIGHT	1019		léti (1)	léti (1) 
+795	36-12-42-1	71312149599425576	Saramaccan	sara1340	left	LEFT	244		töö́tö	töö́tö 
+796	36-12-43-1	71312149198149438	Saramaccan	sara1340	near	NEAR	1942		zúntu	zúntu 
+797	36-12-44-1	71312149995146730	Saramaccan	sara1340	far	FAR	1406		lóngi	lóngi 
+798	36-12-45-1	71312149595822146	Saramaccan	sara1340	the east	EAST	1877		sónúkúmútu	sónúkúmútu 
+799	36-12-46-1	7131214988212101	Saramaccan	sara1340	the west	WEST	1817		sónugo	sónugo 
+800	36-12-47-1	71312149188332444	Saramaccan	sara1340	the north	NORTH	1598		básusë	básusë 
+801	36-12-48-1	7131214921339590	Saramaccan	sara1340	the south	SOUTH	1595		líbasë	líbasë 
+802	36-12-53-1	71312149824826479	Saramaccan	sara1340	to grow	GROW	479		nasí	nasí 
+803	36-12-54-1	71312149295776782	Saramaccan	sara1340	to measure	MEASURE	1506		maaká	maaká 
+804	36-12-55-1	71312149483438105	Saramaccan	sara1340	big	BIG	1202		gaán	gaán 
+805	36-12-56-1	71312149320345204	Saramaccan	sara1340	small	SMALL	1246		pikí	pikí 
+806	36-12-56-2	7131214923981569	Saramaccan	sara1340	small	SMALL	1246		sumáa	sumáa 
+807	36-12-57-1	71312149982571608	Saramaccan	sara1340	long	LONG	1203		lánga	lánga 
+808	36-12-58-1	71312149982571608	Saramaccan	sara1340	tall	TALL	711		lánga	lánga 
+809	36-12-59-1	71312149368908215	Saramaccan	sara1340	short	SHORT	1645		sáti	sáti 
+810	36-12-61-1	71312149401106336	Saramaccan	sara1340	wide	WIDE	1243		baái	baái 
+811	36-12-62-1	71312149195474004	Saramaccan	sara1340	narrow	NARROW	1267		fitjá	fitjá 
+812	36-12-63-1	71312149793310012	Saramaccan	sara1340	thick	THICK	1244		dégi	dégi 
+813	36-12-65-1	71312149996782958	Saramaccan	sara1340	thin	THIN (OF SHAPE OF OBJECT)	2249		fínu	fínu 
+814	36-12-65-2	71312149958479355	Saramaccan	sara1340	thin	THIN (OF SHAPE OF OBJECT)	2249		mángu	mángu 
+815	36-12-67-1	71312149677428943	Saramaccan	sara1340	deep	DEEP	1593		fúndu	fúndu 
+816	36-12-71-1	71312149346124217	Saramaccan	sara1340	flat	FLAT	1633		paáta	paáta 
+817	36-12-74-1	71312149599425576	Saramaccan	sara1340	crooked	CROOKED	297		töö́tö	töö́tö 
+818	36-12-74-2	71312149668576705	Saramaccan	sara1340	crooked	CROOKED	297		béndíbéndi	béndíbéndi 
+819	36-12-75-1	71312149135435042	Saramaccan	sara1340	the hook	HOOK	1071		húku	húku 
+820	36-12-76-1	71312149673933677	Saramaccan	sara1340	the corner	CORNER	192		tjö́ni	tjö́ni 
+821	36-12-77-1	713121494235779	Saramaccan	sara1340	the cross	CROSS	1367		lakwá	lakwá 
+822	36-12-78-1	71312149521458694	Saramaccan	sara1340	the square	SQUARE	850		fö́kánti	fö́kánti 
+823	36-12-81-1	71312149517817088	Saramaccan	sara1340	round	ROUND	1395		logoo	logoo 
+824	36-12-82-1	71312149937177941	Saramaccan	sara1340	the circle	CIRCLE	1467		tjangaa	tjangaa 
+825	36-12-83-1	71312149100669872	Saramaccan	sara1340	the ball	BALL	1845		báli	báli 
+826	36-12-84-1	71312149847173441	Saramaccan	sara1340	the line	LINE	1048		lín	lín 
+827	36-12-84-2	71312149341791925	Saramaccan	sara1340	the line	LINE	1048		alö	alö 
+828	36-12-85-1	71312149986584903	Saramaccan	sara1340	the hole	HOLE	1667		baáku	baáku 
+829	36-12-92-1	71312149491700177	Saramaccan	sara1340	similar	SIMILAR	1558		djéi	djéi 
+830	36-12-93-1	71312149750371098	Saramaccan	sara1340	to change	CHANGE	1264		tooká	tooká 
+831	36-13-01-1	71312149935712476	Saramaccan	sara1340	one	ONE	1493		wán	wán 
+832	36-13-02-1	71312149973925032	Saramaccan	sara1340	two	TWO	1498		tú	tú 
+833	36-13-03-1	71312149888172705	Saramaccan	sara1340	three	THREE	492		dií	dií 
+834	36-13-04-1	71312149934671307	Saramaccan	sara1340	four	FOUR	1500		fö́	fö́ 
+835	36-13-05-1	71312149734622730	Saramaccan	sara1340	five	FIVE	493		féífi (2)	féífi (2) 
+836	36-13-06-1	71312149176343133	Saramaccan	sara1340	six	SIX	1703		síkísi	síkísi 
+837	36-13-07-1	71312149604345660	Saramaccan	sara1340	seven	SEVEN	1704		së́bën	së́bën 
+838	36-13-07-2	71312149501828336	Saramaccan	sara1340	seven	SEVEN	1704		séíbi	séíbi 
+839	36-13-08-1	71312149154664143	Saramaccan	sara1340	eight	EIGHT	1705		áíti	áíti 
+840	36-13-09-1	71312149588019422	Saramaccan	sara1340	nine	NINE	1483		në́ígi	në́ígi 
+841	36-13-09-2	71312149559602760	Saramaccan	sara1340	nine	NINE	1483		në́ni	në́ni 
+842	36-13-1-1	71312149554432952	Saramaccan	sara1340	ten	TEN	1515		téni	téni 
+843	36-13-101-1	71312149840885543	Saramaccan	sara1340	eleven	ELEVEN	1706		ë́lúfu	ë́lúfu 
+844	36-13-102-1	71312149208147570	Saramaccan	sara1340	twelve	TWELVE	1707		tuwálufu	tuwálufu 
+845	36-13-103-1	71312149923155010	Saramaccan	sara1340	fifteen	FIFTEEN	1709		téni a féífi	téni a féífi 
+846	36-13-104-1	71312149872623626	Saramaccan	sara1340	twenty	TWENTY	1710		túwénti	túwénti 
+847	36-13-105-1	71312149317098681	Saramaccan	sara1340	a hundred	HUNDRED	1634		hö́ndö	hö́ndö 
+848	36-13-106-1	71312149813304390	Saramaccan	sara1340	a thousand	THOUSAND	1843		dúsu	dúsu 
+849	36-13-107-1	71312149973540266	Saramaccan	sara1340	to count	COUNT	1420		kondá	kondá 
+850	36-13-14-1	71312149274737779	Saramaccan	sara1340	all	ALL	98		túu	túu 
+851	36-13-14-2	71312149884211928	Saramaccan	sara1340	all	ALL	98		híi	híi 
+852	36-13-15-1	71312149906643665	Saramaccan	sara1340	many	MANY	1198		hía (2)	hía (2) 
+853	36-13-16-1	7131214997263622	Saramaccan	sara1340	more	MORE	1992		mö́ön	mö́ön 
+854	36-13-17-1	7131214987678356	Saramaccan	sara1340	few	FEW	1242		wántú	wántú 
+855	36-13-18-1	71312149924712641	Saramaccan	sara1340	enough	ENOUGH	1881		tjiká	tjiká 
+856	36-13-181-1	71312149665279473	Saramaccan	sara1340	some	SOME	1241		wánlö	wánlö 
+857	36-13-21-1	71312149503663379	Saramaccan	sara1340	full	FULL	1429		fúu	fúu 
+858	36-13-22-1	71312149444984025	Saramaccan	sara1340	empty	EMPTY	1624		sö́sö	sö́sö 
+859	36-13-23-1	71312149555971004	Saramaccan	sara1340	the part	PART	779		písi	písi 
+860	36-13-24-1	71312149983889458	Saramaccan	sara1340	the half	HALF	816		háfu	háfu 
+861	36-13-33-1	71312149746589534	Saramaccan	sara1340	only	ONLY	1580		wánwan	wánwan 
+862	36-13-34-1	71312149519776269	Saramaccan	sara1340	first	FIRST	728		fósu	fósu 
+863	36-13-35-1	71312149168267144	Saramaccan	sara1340	last	LAST (FINAL)	1529		kabá	kabá 
+864	36-13-37-1	71312149488488914	Saramaccan	sara1340	the pair	PAIR	1888		páa	páa 
+865	36-13-38-1	71312149454160409	Saramaccan	sara1340	twice/two times	TWICE	1546		tú pási	tú pási 
+866	36-13-44-1	71312149833616260	Saramaccan	sara1340	three times	THREE TIMES	417		díí pási	díí pási 
+867	36-14-11-1	7131214954936676	Saramaccan	sara1340	the time	TIME	892		tén	tén 
+868	36-14-13-1	71312149596435794	Saramaccan	sara1340	new	NEW	1231		njúnjun	njúnjun 
+869	36-14-14-1	71312149483430351	Saramaccan	sara1340	young	YOUNG	1207		njö́nku	njö́nku 
+870	36-14-15-1	71312149928101925	Saramaccan	sara1340	old	OLD	1229		gaándi	gaándi 
+871	36-14-15-2	7131214939216373	Saramaccan	sara1340	old	OLD	1229		awoo	awoo 
+872	36-14-16-1	71312149659628601	Saramaccan	sara1340	early	EARLY	672		fuúku	fuúku 
+873	36-14-17-1	71312149657679695	Saramaccan	sara1340	late	LATE	477		láti	láti 
+874	36-14-18-1	71312149696545562	Saramaccan	sara1340	now	NOW	1376		awáa	awáa 
+875	36-14-19-1	71312149468620246	Saramaccan	sara1340	immediately	IMMEDIATELY	1963		wántéwante	wántéwante 
+876	36-14-21-1	71312149424399843	Saramaccan	sara1340	fast	FAST	1631		hési	hési 
+877	36-14-21-2	71312149438961862	Saramaccan	sara1340	fast	FAST	1631		gáu	gáu 
+878	36-14-22-1	71312149473242793	Saramaccan	sara1340	slow	SLOW	701		sáápísáápi	sáápísáápi 
+879	36-14-22-2	71312149524805862	Saramaccan	sara1340	slow	SLOW	701		téígi	téígi 
+880	36-14-23-1	71312149751234122	Saramaccan	sara1340	to hurry	HURRY	754		biingá	biingá 
+881	36-14-24-1	71312149657679695	Saramaccan	sara1340	to be late	BE LATE	425		láti	láti 
+882	36-14-25-1	71312149292475016	Saramaccan	sara1340	to begin	BEGIN	1806		bigí	bigí 
+883	36-14-26-1	71312149168267144	Saramaccan	sara1340	the end(2)	END (OF TIME)	743		kabá	kabá 
+884	36-14-27-1	71312149168267144	Saramaccan	sara1340	to finish	FINISH	1766		kabá	kabá 
+885	36-14-28-1	71312149168267144	Saramaccan	sara1340	to cease	CEASE	1928		kabá	kabá 
+886	36-14-29-1	71312149168267144	Saramaccan	sara1340	ready	READY	790		kabá	kabá 
+887	36-14-31-1	71312149568009900	Saramaccan	sara1340	always	ALWAYS	1676		nö́ö́mö	nö́ö́mö 
+888	36-14-32-1	71312149633726042	Saramaccan	sara1340	often	OFTEN	1852		híniwánten	híniwánten 
+889	36-14-33-1	71312149621787235	Saramaccan	sara1340	sometimes	SOMETIMES	1544		so toón	so toón 
+890	36-14-331-1	71312149824056709	Saramaccan	sara1340	soon	SOON	703		abítímö́ön	abítímö́ön 
+891	36-14-331-2	71312149508629597	Saramaccan	sara1340	soon	SOON	703		djúnsu	djúnsu 
+892	36-14-332-1	71312149361753063	Saramaccan	sara1340	for a long time	FOR A LONG TIME	418		té (1)	té (1) 
+893	36-14-34-1	71312149647793355	Saramaccan	sara1340	never	NEVER	1656		mö́önsö	mö́önsö 
+894	36-14-34-2	71312149321831153	Saramaccan	sara1340	never	NEVER	1656		nö́íti	nö́íti 
+895	36-14-35-1	71312149533891796	Saramaccan	sara1340	again	AGAIN	204		báka (1)	báka (1) 
+896	36-14-41-1	71312149441970251	Saramaccan	sara1340	the day(1)	DAY (24 HOURS)	1260		didía	didía 
+897	36-14-42-1	71312149837756985	Saramaccan	sara1340	the night	NIGHT	1233		ndéti	ndéti 
+898	36-14-43-1	71312149548350709	Saramaccan	sara1340	the dawn	DAWN	729		sónú bóóko tá kó	sónú bóóko tá kó 
+899	36-14-44-1	71312149648358715	Saramaccan	sara1340	the morning	MORNING	1339		mámate	mámate 
+900	36-14-45-1	71312149152276200	Saramaccan	sara1340	the midday	MIDDAY	12		sónúáti	sónúáti 
+901	36-14-451-1	71312149495655227	Saramaccan	sara1340	the afternoon	AFTERNOON	1807		sápate	sápate 
+902	36-14-46-1	71312149796442191	Saramaccan	sara1340	the evening	EVENING	1629		ndétíbúka	ndétíbúka 
+903	36-14-47-1	7131214960127954	Saramaccan	sara1340	today	TODAY	1283		tidé	tidé 
+904	36-14-48-1	71312149980711099	Saramaccan	sara1340	tomorrow	TOMORROW	1329		amanján	amanján 
+905	36-14-481-1	71312149711814956	Saramaccan	sara1340	the day after tomorrow	DAY AFTER TOMORROW	1179		óto (1) amanján	óto (1) amanján 
+906	36-14-49-1	71312149412409225	Saramaccan	sara1340	yesterday	YESTERDAY	1174		jéside	jéside 
+907	36-14-491-1	71312149485439191	Saramaccan	sara1340	the day before yesterday	DAY BEFORE YESTERDAY	1180		óto (1) jéside	óto (1) jéside 
+908	36-14-51-1	71312149186063071	Saramaccan	sara1340	the hour	HOUR	1353		júu	júu 
+909	36-14-53-1	71312149182387882	Saramaccan	sara1340	the clock	CLOCK	1323		olóísi	olóísi 
+910	36-14-61-1	71312149208734171	Saramaccan	sara1340	the week	WEEK	1469		sabá	sabá 
+911	36-14-61-2	71312149257396001	Saramaccan	sara1340	the week	WEEK	1469		wíki	wíki 
+912	36-14-62-1	71312149535613911	Saramaccan	sara1340	Sunday	SUNDAY	1699		sónde	sónde 
+913	36-14-63-1	71312149409623892	Saramaccan	sara1340	Monday	MONDAY	1697		fö́dáka	fö́dáka 
+914	36-14-64-1	71312149915253566	Saramaccan	sara1340	Tuesday	TUESDAY	1695		féifídáka	féifídáka 
+915	36-14-65-1	71312149450040973	Saramaccan	sara1340	Wednesday	WEDNESDAY	1694		pikísaba	pikísaba 
+916	36-14-65-2	71312149690588328	Saramaccan	sara1340	Wednesday	WEDNESDAY	1694		sumáásaba	sumáásaba 
+917	36-14-66-1	71312149517893661	Saramaccan	sara1340	Thursday	THURSDAY	1693		gaánsaba	gaánsaba 
+918	36-14-67-1	71312149522233320	Saramaccan	sara1340	Friday	FRIDAY	1692		fééda	fééda 
+919	36-14-68-1	71312149161575893	Saramaccan	sara1340	Saturday	SATURDAY	1700		sata	sata 
+920	36-14-71-1	71312149823972446	Saramaccan	sara1340	the month	MONTH	1370		líba	líba 
+921	36-14-73-1	71312149929066335	Saramaccan	sara1340	the year	YEAR	1226		jáa	jáa 
+922	36-15-21-1	71312149847044622	Saramaccan	sara1340	to smell(1)	SMELL (STINK)	1587		sumë́ë	sumë́ë 
+923	36-15-89-1	71312149698668455	Saramaccan	sara1340	wrinkled	WRINKLED	380		kpíngíkpíngi	kpíngíkpíngi 
+924	36-15-212-1	71312149940367179	Saramaccan	sara1340	to sniff	SNIFF	375		hái núsu	hái núsu 
+925	36-15-22-1	71312149847044622	Saramaccan	sara1340	to smell(2)	SMELL (PERCEIVE)	1586		sumë́ë	sumë́ë 
+926	36-15-25-1	71312149993069209	Saramaccan	sara1340	fragrant	FRAGRANT	376		sumë́ë́súti	sumë́ë́súti 
+927	36-15-26-1	7131214926437024	Saramaccan	sara1340	stinking	STINKING	42		tíngi	tíngi 
+928	36-15-31-1	71312149768619658	Saramaccan	sara1340	to taste	TASTE (SOMETHING)	21		tési	tési 
+929	36-15-35-1	71312149889046837	Saramaccan	sara1340	sweet	SWEET	717		súti (1)	súti (1) 
+930	36-15-37-1	71312149464142414	Saramaccan	sara1340	bitter	BITTER	887		bíta	bíta 
+931	36-15-38-1	71312149965692366	Saramaccan	sara1340	sour	SOUR	1906		gándji	gándji 
+932	36-15-41-1	71312149713856818	Saramaccan	sara1340	to hear	HEAR	1408		jéi	jéi 
+933	36-15-42-1	71312149467883008	Saramaccan	sara1340	to listen	LISTEN	1608		háíka	háíka 
+934	36-15-44-1	71312149216561708	Saramaccan	sara1340	the sound or noise	SOUND OR NOISE	1811		fan	fan 
+935	36-15-45-1	71312149662865995	Saramaccan	sara1340	loud	LOUD	377		taánga	taánga 
+936	36-15-46-1	71312149207177706	Saramaccan	sara1340	quiet	QUIET	1314		sáápi	sáápi 
+937	36-15-51-1	71312149205917389	Saramaccan	sara1340	to see	SEE	1409		sí	sí 
+938	36-15-52-1	71312149663220639	Saramaccan	sara1340	to look	LOOK	1819		lúku	lúku 
+939	36-15-55-1	71312149431518333	Saramaccan	sara1340	to show	SHOW	1039		léi	léi 
+940	36-15-56-1	71312149955455114	Saramaccan	sara1340	to shine	SHINE	708		sëndë́	sëndë́ 
+941	36-15-57-1	71312149955455114	Saramaccan	sara1340	bright	BRIGHT	679		sëndë́	sëndë́ 
+942	36-15-62-1	7131214978360127	Saramaccan	sara1340	light(2)	LIGHT (COLOR)	250		límbo	límbo 
+943	36-15-63-1	71312149353736283	Saramaccan	sara1340	dark	DARK	706		dúngu	dúngu 
+944	36-15-63-2	71312149371358588	Saramaccan	sara1340	dark	DARK	706		sugúu	sugúu 
+945	36-15-64-1	71312149241529066	Saramaccan	sara1340	white	WHITE	1335		wéti	wéti 
+946	36-15-65-1	71312149273218135	Saramaccan	sara1340	black	BLACK	163		baáka	baáka 
+947	36-15-66-1	7131214982755373	Saramaccan	sara1340	red	RED	156		bë	bë 
+948	36-15-67-1	71312149262201255	Saramaccan	sara1340	blue	BLUE	837		baáu	baáu 
+949	36-15-68-1	71312149153665416	Saramaccan	sara1340	green	GREEN	1425		guúun	guúun 
+950	36-15-69-1	71312149158186030	Saramaccan	sara1340	yellow	YELLOW	1424		kóóko	kóóko 
+951	36-15-71-1	71312149337238647	Saramaccan	sara1340	to touch	TOUCH	1892		namá	namá 
+952	36-15-712-1	71312149143103587	Saramaccan	sara1340	to pinch	PINCH	378		píndja	píndja 
+953	36-15-72-1	7131214930687537	Saramaccan	sara1340	to feel	FEEL	1079		fíi	fíi 
+954	36-15-74-1	71312149662865995	Saramaccan	sara1340	hard	HARD	1884		taánga	taánga 
+955	36-15-75-1	71312149945132504	Saramaccan	sara1340	soft	SOFT	1856		mö́i	mö́i 
+956	36-15-75-2	71312149435283987	Saramaccan	sara1340	soft	SOFT	1856		fulufulu	fulufulu 
+957	36-15-77-1	71312149399769376	Saramaccan	sara1340	smooth	SMOOTH	1234		línzo	línzo 
+958	36-15-78-1	71312149762992421	Saramaccan	sara1340	sharp	SHARP	1396		saápu	saápu 
+959	36-15-81-1	71312149518167774	Saramaccan	sara1340	heavy	HEAVY	1210		hébi	hébi 
+960	36-15-82-1	71312149956993480	Saramaccan	sara1340	light(1)	LIGHT (WEIGHT)	1052		fúkë	fúkë 
+961	36-15-83-1	71312149199052852	Saramaccan	sara1340	wet	WET	1726		munján	munján 
+962	36-15-84-1	71312149813334312	Saramaccan	sara1340	dry	DRY	1398		dëë́	dëë́ 
+963	36-15-85-1	71312149174856403	Saramaccan	sara1340	hot	HOT	1286		kéndi	kéndi 
+964	36-15-851-1	71312149174856403	Saramaccan	sara1340	warm	WARM	1232		kéndi	kéndi 
+965	36-15-86-1	71312149801371098	Saramaccan	sara1340	cold	COLD	1287		kö́tö	kö́tö 
+966	36-15-87-1	7131214978360127	Saramaccan	sara1340	clean	CLEAN	704		límbo	límbo 
+967	36-15-88-1	71312149261167794	Saramaccan	sara1340	dirty	DIRTY	1230		nási	nási 
+968	36-16-11-1	71312149794266488	Saramaccan	sara1340	the soul or spirit	SOUL	811		akáa	akáa 
+969	36-16-18-1	71312149412979181	Saramaccan	sara1340	the good luck	GOOD LUCK	720		kölö́ku	kölö́ku 
+970	36-16-18-2	7131214964347326	Saramaccan	sara1340	the good luck	GOOD LUCK	720		búnúhédi	búnúhédi 
+971	36-16-19-1	71312149142384354	Saramaccan	sara1340	the bad luck	BAD LUCK	56		wógíhédi	wógíhédi 
+972	36-16-23-1	71312149882797093	Saramaccan	sara1340	happy	HAPPY	1495		piizíi	piizíi 
+973	36-16-23-2	71312149862637082	Saramaccan	sara1340	happy	HAPPY	1495		wái	wái 
+974	36-16-25-1	71312149660391228	Saramaccan	sara1340	to laugh	LAUGH	1355		láfu	láfu 
+975	36-16-251-1	71312149152292578	Saramaccan	sara1340	to smile	SMILE	1451		jabí tánda	jabí tánda 
+976	36-16-26-1	7131214988035818	Saramaccan	sara1340	to play	PLAY	1413		pëë́	pëë́ 
+977	36-16-27-1	71312149511929894	Saramaccan	sara1340	to love	LOVE	923		lóbi (1)	lóbi (1) 
+978	36-16-29-1	71312149282416058	Saramaccan	sara1340	to kiss	KISS	578		bósi	bósi 
+979	36-16-3-1	71312149562531627	Saramaccan	sara1340	to embrace	EMBRACE	928		baasá	baasá 
+980	36-16-31-1	71312149151546591	Saramaccan	sara1340	the pain	PAIN	1783		pén	pén 
+981	36-16-32-1	7131214952229783	Saramaccan	sara1340	the grief	GRIEF	1668		tjalí	tjalí 
+982	36-16-33-1	71312149970029377	Saramaccan	sara1340	the anxiety	ANXIETY	1000		boókóhédi	boókóhédi 
+983	36-16-34-1	71312149694692148	Saramaccan	sara1340	to regret or be sorry	REGRET	1875		pená (1)	pená (1) 
+984	36-16-35-1	71312149631058676	Saramaccan	sara1340	the pity	PITY	1141		sáa	sáa 
+985	36-16-37-1	71312149326966396	Saramaccan	sara1340	to cry	CRY	1839		këë́	këë́ 
+986	36-16-38-1	71312149514960516	Saramaccan	sara1340	the tear	TEAR (OF EYE)	1651		wójówáta	wójówáta 
+987	36-16-39-1	71312149604007425	Saramaccan	sara1340	to groan	GROAN	716		giitá	giitá 
+988	36-16-39-2	71312149515102502	Saramaccan	sara1340	to groan	GROAN	716		djëmë́	djëmë́ 
+989	36-16-41-1	71312149465083041	Saramaccan	sara1340	to hate	HATE	1607		buusé	buusé 
+990	36-16-42-1	71312149219262923	Saramaccan	sara1340	the anger	ANGER	82		hátíbóónu	hátíbóónu 
+991	36-16-44-1	71312149153503582	Saramaccan	sara1340	the envy or jealousy	ENVY	40		fédja	fédja 
+992	36-16-45-1	71312149562508914	Saramaccan	sara1340	the shame	SHAME	1776		sén	sén 
+993	36-16-48-1	71312149510434782	Saramaccan	sara1340	proud	PROUD	174		gaánfási	gaánfási 
+994	36-16-51-1	71312149780896268	Saramaccan	sara1340	to dare	DARE	1779		peevú	peevú 
+995	36-16-52-1	71312149302449120	Saramaccan	sara1340	brave	BRAVE	3		dégíháti	dégíháti 
+996	36-16-53-1	71312149222349787	Saramaccan	sara1340	the fear	FEAR (FRIGHT)	781		fëë́ë	fëë́ë 
+997	36-16-54-1	71312149896080159	Saramaccan	sara1340	the danger	DANGER	1810		hógi	hógi 
+998	36-16-62-1	71312149552840905	Saramaccan	sara1340	to want	WANT	1784		kë́	kë́ 
+999	36-16-66-1	71312149153878767	Saramaccan	sara1340	true	TRUE	1657		léti (2)	léti (2) 
+1000	36-16-67-1	71312149758715899	Saramaccan	sara1340	to lie(2)	LIE (MISLEAD)	601		lëgëdë	lëgëdë 
+1001	36-16-68-1	71312149666894709	Saramaccan	sara1340	the deceit	DECEIT	13		ganjá	ganjá 
+1002	36-16-71-1	7131214977070367	Saramaccan	sara1340	good	GOOD	1035		búnu	búnu 
+1003	36-16-72-1	71312149207847221	Saramaccan	sara1340	bad	BAD	1292		pói	pói 
+1004	36-16-72-2	71312149896080159	Saramaccan	sara1340	bad	BAD	1292		hógi	hógi 
+1005	36-16-72-3	71312149579138586	Saramaccan	sara1340	bad	BAD	1292		taku	taku 
+1006	36-16-73-1	71312149153878767	Saramaccan	sara1340	right(2)	CORRECT (RIGHT)	1725		léti (2)	léti (2) 
+1007	36-16-76-1	71312149807991846	Saramaccan	sara1340	the fault	FAULT	134		fö́útu	fö́útu 
+1008	36-16-77-1	71312149176151387	Saramaccan	sara1340	the mistake	MISTAKE	1293		fö́útu	fö́útu 
+1009	36-16-78-1	71312149518167774	Saramaccan	sara1340	the blame	BLAME	381		hébi	hébi 
+1010	36-16-79-1	71312149908035402	Saramaccan	sara1340	the praise	PRAISE	1687		gafá	gafá 
+1011	36-16-81-1	71312149700948986	Saramaccan	sara1340	beautiful	BEAUTIFUL	1427		hánse	hánse 
+1012	36-16-82-1	71312149579138586	Saramaccan	sara1340	ugly	UGLY	1548		taku	taku 
+1013	36-16-84-1	71312149425104460	Saramaccan	sara1340	clever	CLEVER	1310		kö́ni	kö́ni 
+1014	36-17-13-1	71312149208102922	Saramaccan	sara1340	to think(1)	THINK (REFLECT)	1415		pakiséi	pakiséi 
+1015	36-17-14-1	71312149124667307	Saramaccan	sara1340	to think(2)	THINK (BELIEVE)	1513		më́ni	më́ni 
+1016	36-17-14-2	71312149656792072	Saramaccan	sara1340	to think(2)	THINK (BELIEVE)	1513		tínga	tínga 
+1017	36-17-15-1	71312149719432869	Saramaccan	sara1340	to believe	BELIEVE	1890		biíbi	biíbi 
+1018	36-17-16-1	71312149189734028	Saramaccan	sara1340	to understand	UNDERSTAND	1536		fusután	fusután 
+1019	36-17-17-1	71312149987078853	Saramaccan	sara1340	to know	KNOW (SOMETHING)	1410		sábi	sábi 
+1020	36-17-172-1	71312149580505446	Saramaccan	sara1340	to imitate	IMITATE	117		djeési	djeési 
+1021	36-17-18-1	71312149491700177	Saramaccan	sara1340	to seem	SEEM	1521		djéi	djéi 
+1022	36-17-19-1	71312149941506700	Saramaccan	sara1340	the idea	IDEA	1609		háti (1)	háti (1) 
+1023	36-17-21-1	71312149422175915	Saramaccan	sara1340	wise	WISE	698		tjá hédi	tjá hédi 
+1024	36-17-22-1	71312149203019539	Saramaccan	sara1340	stupid	STUPID	1518		dón	dón 
+1025	36-17-23-1	71312149607450661	Saramaccan	sara1340	mad	MAD	1899		laú	laú 
+1026	36-17-24-1	71312149431518333	Saramaccan	sara1340	to learn	LEARN	504		léi	léi 
+1027	36-17-242-1	71312149431518333	Saramaccan	sara1340	to study	STUDY	1929		léi	léi 
+1028	36-17-25-1	71312149431518333	Saramaccan	sara1340	to teach	TEACH	709		léi	léi 
+1029	36-17-27-1	71312149685695268	Saramaccan	sara1340	the teacher	TEACHER	1038		më́sítë	më́sítë 
+1030	36-17-28-1	7131214932101064	Saramaccan	sara1340	the school	SCHOOL	673		sikö́ö	sikö́ö 
+1031	36-17-31-1	71312149237062240	Saramaccan	sara1340	to remember	REMEMBER	707		më́mbë	më́mbë 
+1032	36-17-32-1	71312149713783247	Saramaccan	sara1340	to forget	FORGET	1523		fëëkë́të	fëëkë́të 
+1033	36-17-34-1	7131214978360127	Saramaccan	sara1340	clear	CLEAR	989		límbo	límbo 
+1034	36-17-35-1	71312149353736283	Saramaccan	sara1340	obscure	OBSCURE	1764		dúngu	dúngu 
+1035	36-17-36-1	71312149919556464	Saramaccan	sara1340	secret	SECRET	1121		goónbë́ë́óto	goónbë́ë́óto 
+1036	36-17-37-1	71312149563116724	Saramaccan	sara1340	certain	CERTAIN	509		sóífi	sóífi 
+1037	36-17-38-1	71312149977278432	Saramaccan	sara1340	to explain	EXPLAIN	1626		púu	púu 
+1038	36-17-42-1	71312149138904829	Saramaccan	sara1340	the cause	CAUSE	860		báka u dí wóto	báka u dí wóto 
+1039	36-17-441-1	71312149131503694	Saramaccan	sara1340	to betray	BETRAY	1902		kö́nku	kö́nku 
+1040	36-17-45-1	71312149716322773	Saramaccan	sara1340	the need or necessity	NEED (NOUN)	643		nö́útu	nö́útu 
+1041	36-17-46-1	71312149956993480	Saramaccan	sara1340	easy	EASY	686		fúkë	fúkë 
+1042	36-17-47-1	71312149662865995	Saramaccan	sara1340	difficult	DIFFICULT	584		taánga	taánga 
+1043	36-17-48-1	71312149100341508	Saramaccan	sara1340	to try	TRY	1812		poobá	poobá 
+1044	36-17-49-1	71312149668085400	Saramaccan	sara1340	the manner	MANNER	488		fási (1)	fási (1) 
+1045	36-17-51-1	71312149584796489	Saramaccan	sara1340	and	AND	1577		ku	ku 
+1046	36-17-52-1	71312149928981615	Saramaccan	sara1340	because	BECAUSE	1157		bíga	bíga 
+1047	36-17-52-2	71312149192729706	Saramaccan	sara1340	because	BECAUSE	1157		fu dí	fu dí 
+1048	36-17-53-1	71312149574013439	Saramaccan	sara1340	if	IF	1459		ée	ée 
+1049	36-17-54-1	71312149421907594	Saramaccan	sara1340	or	OR	1014		násö	násö 
+1050	36-17-55-1	71312149732368368	Saramaccan	sara1340	yes	YES	1268		aái	aái 
+1051	36-17-56-1	71312149426318315	Saramaccan	sara1340	no	NO	1269		nö́nö́	nö́nö́ 
+1052	36-17-61-1	71312149733994189	Saramaccan	sara1340	how?	HOW	1239		unfá	unfá 
+1053	36-17-62-1	71312149255027758	Saramaccan	sara1340	how many?	HOW MANY	822		únmë́ni	únmë́ni 
+1054	36-17-63-1	71312149255027758	Saramaccan	sara1340	how much?	HOW MUCH	531		únmë́ni	únmë́ni 
+1055	36-17-64-1	71312149307806716	Saramaccan	sara1340	what?	WHAT	1236		andí	andí 
+1056	36-17-65-1	71312149362211265	Saramaccan	sara1340	when?	WHEN	1238		na únten	na únten 
+1057	36-17-66-1	71312149274705124	Saramaccan	sara1340	where?	WHERE	1237		na unsë́	na unsë́ 
+1058	36-17-67-1	71312149776172057	Saramaccan	sara1340	which?	WHICH	727		ún	ún 
+1059	36-17-68-1	71312149716534234	Saramaccan	sara1340	who?	WHO	1235		ambë́	ambë́ 
+1060	36-17-69-1	7131214958832230	Saramaccan	sara1340	why?	WHY	1270		faándí mbéi	faándí mbéi 
+1061	36-18-11-1	71312149926419965	Saramaccan	sara1340	the voice	VOICE	1363		tö́ngö	tö́ngö 
+1062	36-18-12-1	71312149313252560	Saramaccan	sara1340	to sing	SING	1261		kandá	kandá 
+1063	36-18-13-1	71312149462291559	Saramaccan	sara1340	to shout	SHOUT	715		bái (2)	bái (2) 
+1064	36-18-17-1	71312149921804064	Saramaccan	sara1340	to whistle	WHISTLE	1025		fofío	fofío 
+1065	36-18-21-1	71312149216561708	Saramaccan	sara1340	to speak or talk	SPEAK	1623		fan	fan 
+1066	36-18-211-1	71312149461184444	Saramaccan	sara1340	to stutter or stammer	STUTTER	1866		ngáku	ngáku 
+1067	36-18-22-1	71312149992552262	Saramaccan	sara1340	to say	SAY	1458		táki	táki 
+1068	36-18-221-1	71312149973540266	Saramaccan	sara1340	to tell	TELL	1711		kondá	kondá 
+1069	36-18-222-1	71312149216561708	Saramaccan	sara1340	the speech	SPEECH	1115		fan	fan 
+1070	36-18-24-1	71312149926419965	Saramaccan	sara1340	the language	LANGUAGE	1307		tö́ngö	tö́ngö 
+1071	36-18-26-1	71312149624827598	Saramaccan	sara1340	the word	WORD	1599		wö́útu	wö́útu 
+1072	36-18-28-1	71312149113453983	Saramaccan	sara1340	the name	NAME	1405		në́	në́ 
+1073	36-18-31-1	71312149842165995	Saramaccan	sara1340	to ask(1)	ASK (INQUIRE)	1309		hákísi	hákísi 
+1074	36-18-32-1	71312149195548819	Saramaccan	sara1340	to answer	ANSWER	1275		píki	píki 
+1075	36-18-33-1	71312149843795774	Saramaccan	sara1340	to admit	ADMIT	2022		kó sí	kó sí 
+1076	36-18-34-1	71312149714190697	Saramaccan	sara1340	to deny	DENY	755		fiá	fiá 
+1077	36-18-35-1	71312149565125288	Saramaccan	sara1340	to ask(2)	ASK (REQUEST)	1828		pidí	pidí 
+1078	36-18-36-1	71312149214433929	Saramaccan	sara1340	to promise	PROMISE	1675		paamúsi	paamúsi 
+1079	36-18-37-1	71312149385332586	Saramaccan	sara1340	to refuse	REFUSE	49		niingá	niingá 
+1080	36-18-38-1	71312149758896909	Saramaccan	sara1340	to forbid	FORBID	83		tapá	tapá 
+1081	36-18-39-1	71312149991073285	Saramaccan	sara1340	to scold	SCOLD	299		kósi	kósi 
+1082	36-18-41-1	71312149462291559	Saramaccan	sara1340	to call(1)	CALL	1084		bái (2)	bái (2) 
+1083	36-18-42-1	71312149296337096	Saramaccan	sara1340	to call(2)	CALL BY NAME	180		kái	kái 
+1084	36-18-43-1	71312149538760320	Saramaccan	sara1340	to announce	ANNOUNCE	9		tjá búka kó	tjá búka kó 
+1085	36-18-44-1	71312149142264101	Saramaccan	sara1340	to threaten	THREATEN	1192		bë wójo	bë wójo 
+1086	36-18-45-1	71312149106796388	Saramaccan	sara1340	to boast	BOAST	101		nján búka	nján búka 
+1087	36-18-51-1	71312149766203224	Saramaccan	sara1340	to write	WRITE	1672		sikífi	sikífi 
+1088	36-18-52-1	71312149779980698	Saramaccan	sara1340	to read	READ	724		lési (2)	lési (2) 
+1089	36-18-56-1	71312149164733809	Saramaccan	sara1340	the paper	PAPER	648		pampía	pampía 
+1090	36-18-57-1	71312149765049039	Saramaccan	sara1340	the pen	PEN	794		pë́ni	pë́ni 
+1091	36-18-61-1	71312149751538541	Saramaccan	sara1340	the book	BOOK	963		búku	búku 
+1092	36-18-71-1	71312149142368774	Saramaccan	sara1340	the flute	FLUTE	777		foloíti	foloíti 
+1093	36-18-72-1	71312149717308211	Saramaccan	sara1340	the drum	DRUM	908		doón	doón 
+1094	36-18-73-1	71312149504568440	Saramaccan	sara1340	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		tutú (2)	tutú (2) 
+1095	36-18-74-1	71312149183441869	Saramaccan	sara1340	the rattle	RATTLE	300		tjaká	tjaká 
+1096	36-19-11-1	71312149926766113	Saramaccan	sara1340	the country	COUNTRY	1300		kö́ndë	kö́ndë 
+1097	36-19-15-1	71312149431954071	Saramaccan	sara1340	the town	TOWN	1391		fóto	fóto 
+1098	36-19-16-1	71312149926766113	Saramaccan	sara1340	the village	VILLAGE	930		kö́ndë	kö́ndë 
+1099	36-19-17-1	71312149624754140	Saramaccan	sara1340	the boundary	BOUNDARY	1010		lántímááka	lántímááka 
+1100	36-19-21-1	71312149563481788	Saramaccan	sara1340	the people	PEOPLE	789		nasíön	nasíön 
+1101	36-19-23-1	71312149772875081	Saramaccan	sara1340	the clan	CLAN	302		lö́	lö́ 
+1102	36-19-24-1	71312149724264062	Saramaccan	sara1340	the chieftain	CHIEFTAIN	301		gaamá	gaamá 
+1103	36-19-25-1	71312149574825892	Saramaccan	sara1340	the walking stick	WALKING STICK	1296		kokotí	kokotí 
+1104	36-19-25-2	71312149655191486	Saramaccan	sara1340	the walking stick	WALKING STICK	1296		wakatíki	wakatíki 
+1105	36-19-31-1	71312149638232343	Saramaccan	sara1340	to rule or govern	RULE	1846		tíi	tíi 
+1106	36-19-32-1	71312149302768352	Saramaccan	sara1340	the king	KING	1508		kö́nu	kö́nu 
+1107	36-19-33-1	71312149805646639	Saramaccan	sara1340	the queen	QUEEN	1306		kö́númújë́ë	kö́númújë́ë 
+1108	36-19-33-2	88151324863904531	Saramaccan	sara1340	the queen	QUEEN	1306		mújë́ë́kö́nu	mújë́ë́kö́nu 
+1109	36-19-41-1	71312149350863383	Saramaccan	sara1340	the master	MASTER	383		mása	mása 
+1110	36-19-42-1	71312149326075966	Saramaccan	sara1340	the slave	SLAVE	812		saáfu	saáfu 
+1111	36-19-43-1	71312149459790811	Saramaccan	sara1340	the servant	SERVANT	255		woókoma	woókoma 
+1112	36-19-44-1	71312149598081502	Saramaccan	sara1340	the freeman	FREEMAN	384		fiíma	fiíma 
+1113	36-19-45-1	71312149350381587	Saramaccan	sara1340	to command or order	ORDER	1128		mandá	mandá 
+1114	36-19-45-2	71312149608711107	Saramaccan	sara1340	to command or order	ORDER	1128		kumadéi	kumadéi 
+1115	36-19-47-1	71312149492314690	Saramaccan	sara1340	to permit	PERMIT	1003		bé	bé 
+1116	36-19-51-1	71312149740670955	Saramaccan	sara1340	the friend	FRIEND	1325		máti	máti 
+1117	36-19-51-2	71312149500768127	Saramaccan	sara1340	the friend	FRIEND	1325		kómpe	kómpe 
+1118	36-19-51-3	71312149541009296	Saramaccan	sara1340	the friend	FRIEND	1325		bája	bája 
+1119	36-19-52-1	71312149277145756	Saramaccan	sara1340	the enemy	ENEMY	1358		buuséma	buuséma 
+1120	36-19-52-2	71312149455559224	Saramaccan	sara1340	the enemy	ENEMY	1358		feántima	feántima 
+1121	36-19-56-1	71312149485639168	Saramaccan	sara1340	the guest	GUEST	1782		wakamá	wakamá 
+1122	36-19-58-1	713121491420926	Saramaccan	sara1340	to help	HELP	1897		heépi	heépi 
+1123	36-19-59-1	71312149758896909	Saramaccan	sara1340	to prevent	PREVENT	1550		tapá	tapá 
+1124	36-19-61-1	71312149172972234	Saramaccan	sara1340	the custom	CUSTOM	1747		guwénti	guwénti 
+1125	36-19-62-1	71312149359595156	Saramaccan	sara1340	the quarrel	QUARREL	1848		búja	búja 
+1126	36-19-65-1	71312149963666198	Saramaccan	sara1340	to meet	MEET	1831		míti	míti 
+1127	36-19-72-1	71312149964278849	Saramaccan	sara1340	the prostitute	PROSTITUTE	1610		mötjö́	mötjö́ 
+1128	36-20-11-1	71312149163470241	Saramaccan	sara1340	to fight	FIGHT	1423		féti	féti 
+1129	36-20-13-1	71312149163470241	Saramaccan	sara1340	the war or battle	BATTLE	579		féti	féti 
+1130	36-20-17-1	7131214964964162	Saramaccan	sara1340	the soldier	SOLDIER	1941		sodáti	sodáti 
+1131	36-20-21-1	7131214913870123	Saramaccan	sara1340	the weapons	WEAPONS	951		fétílái	fétílái 
+1132	36-20-22-1	71312149267344002	Saramaccan	sara1340	the club	CLUB	1763		kódjo	kódjo 
+1133	36-20-23-1	71312149257637542	Saramaccan	sara1340	the sling	SLING	387		víndema	víndema 
+1134	36-20-24-1	7131214995682701	Saramaccan	sara1340	the bow	BOW	994		bö́	bö́ 
+1135	36-20-25-1	71312149325810296	Saramaccan	sara1340	the arrow	ARROW	977		piiwá	piiwá 
+1136	36-20-26-1	71312149288042081	Saramaccan	sara1340	the spear	SPEAR	945		lánza	lánza 
+1137	36-20-28-1	71312149683393653	Saramaccan	sara1340	the gun	GUN	1566		góni	góni 
+1138	36-20-36-1	71312149835358112	Saramaccan	sara1340	the tower	TOWER	1671		tö́lu	tö́lu 
+1139	36-20-41-1	71312149774744542	Saramaccan	sara1340	the victory	VICTORY	783		wíni	wíni 
+1140	36-20-471-1	71312149603113615	Saramaccan	sara1340	the guard	GUARD	1940		wátjima	wátjima 
+1141	36-20-49-1	71312149871332423	Saramaccan	sara1340	the ambush	AMBUSH	65		wátji	wátji 
+1142	36-20-52-1	71312149135435042	Saramaccan	sara1340	the fishhook	FISHHOOK	1074		húku	húku 
+1143	36-20-54-1	71312149459144182	Saramaccan	sara1340	the fishnet	FISHNET	388		në́ti	në́ti 
+1144	36-20-54-2	71312149265433225	Saramaccan	sara1340	the fishnet	FISHNET	388		séépi	séépi 
+1145	36-20-54-3	7131214973328956	Saramaccan	sara1340	the fishnet	FISHNET	388		taamáni	taamáni 
+1146	36-20-55-1	71312149435071909	Saramaccan	sara1340	the fish trap	FISH TRAP	389		bakisi	bakisi 
+1147	36-20-56-1	7131214976321110	Saramaccan	sara1340	the bait	BAIT	2013		béti	béti 
+1148	36-20-61-1	71312149144949351	Saramaccan	sara1340	to hunt	HUNT	1435		hö́ndi	hö́ndi 
+1149	36-20-62-1	71312149718475880	Saramaccan	sara1340	to shoot	SHOOT	1172		súti (2)	súti (2) 
+1150	36-20-63-1	71312149225786467	Saramaccan	sara1340	to miss	MISS (A TARGET)	161		mísi	mísi 
+1151	36-20-64-1	71312149827756691	Saramaccan	sara1340	the trap	TRAP (PITFALL)	1075		taápu	taápu 
+1152	36-20-64-2	71312149925829159	Saramaccan	sara1340	the trap	TRAP (PITFALL)	1075		aviti	aviti 
+1153	36-20-65-1	71312149629897411	Saramaccan	sara1340	to trap	TRAP (CATCH)	1170		kísi	kísi 
+1154	36-21-11-1	71312149154615435	Saramaccan	sara1340	the law	LAW	1062		wë́ti	wë́ti 
+1155	36-21-15-1	71312149976830301	Saramaccan	sara1340	the court	COURT	1068		kuútu	kuútu 
+1156	36-12-013-1	71312149682041266	Saramaccan	sara1340	at	AT	1461		a	a 
+1157	36-21-16-1	71312149839767583	Saramaccan	sara1340	to adjudicate	ADJUDICATE	1818		hói kuútu	hói kuútu 
+1158	36-21-17-1	71312149992552262	Saramaccan	sara1340	the judgment	JUDGMENT	1067		táki	táki 
+1159	36-21-18-1	7131214918645521	Saramaccan	sara1340	the judge	JUDGE	861		kuútúbákáa	kuútúbákáa 
+1160	36-21-23-1	71312149390295503	Saramaccan	sara1340	the witness	WITNESS	1144		kotóígima	kotóígima 
+1161	36-21-24-1	71312149118610246	Saramaccan	sara1340	to swear	SWEAR	1939		djulá	djulá 
+1162	36-21-24-2	71312149756111165	Saramaccan	sara1340	to swear	SWEAR	1939		sói	sói 
+1163	36-21-31-1	96171620613354004	Saramaccan	sara1340	to accuse	ACCUSE	1814		kaági	kaági 
+1164	36-21-37-1	71312149109587970	Saramaccan	sara1340	the penalty or punishment	PUNISHMENT	390		sitááfu	sitááfu 
+1165	36-21-38-1	71312149233379889	Saramaccan	sara1340	the fine	FINE (PENALTY)	218		bútu	bútu 
+1166	36-21-39-1	71312149392111093	Saramaccan	sara1340	the prison	PRISON	1281		dunguwósu	dunguwósu 
+1167	36-21-51-1	71312149834210884	Saramaccan	sara1340	to steal	STEAL	713		fufúu	fufúu 
+1168	36-21-52-1	71312149649295095	Saramaccan	sara1340	the thief	THIEF	1160		fufúuma	fufúuma 
+1169	36-22-11-1	71312149856479992	Saramaccan	sara1340	the religion	RELIGION	661		kéíki	kéíki 
+1170	36-22-12-1	7131214975021575	Saramaccan	sara1340	the god	DEITY	3231		gádu	gádu 
+1171	36-22-13-1	96172143974161045	Saramaccan	sara1340	the temple	TEMPLE	911		gaán gádúwósu	gaán gádúwósu 
+1172	36-22-14-1	71312149243634535	Saramaccan	sara1340	the altar	ALTAR	853		gádútáfa	gádútáfa 
+1173	36-22-17-1	71312149284242022	Saramaccan	sara1340	to pray	PRAY	24		bégi	bégi 
+1174	36-22-18-1	71312149907937956	Saramaccan	sara1340	the priest	PRIEST	852		páíti	páíti 
+1175	36-22-24-1	71312149912886127	Saramaccan	sara1340	to curse	CURSE	8		sibá	sibá 
+1176	36-22-26-1	71312149268874426	Saramaccan	sara1340	to fast	ABSTAIN FROM FOOD	303		hói tjína	hói tjína 
+1177	36-22-31-1	71312149687521754	Saramaccan	sara1340	the heaven	HEAVEN	1565		gaángádu	gaángádu 
+1178	36-22-35-1	81081141802047556	Saramaccan	sara1340	the demon	DEMON	1973		takujejé	takujejé 
+1179	36-22-35-2	96172137717750288	Saramaccan	sara1340	the demon	DEMON	1973		didíbíwóókoma	didíbíwóókoma 
+1180	36-22-37-1	71312149225349499	Saramaccan	sara1340	the idol	IDOL	1945		pindi	pindi 
+1181	36-22-37-2	7131214933209597	Saramaccan	sara1340	the idol	IDOL	1945		póbíki	póbíki 
+1182	36-22-42-1	71312149713711723	Saramaccan	sara1340	the magic	MAGIC	392		wísi	wísi 
+1183	36-22-43-1	71312149355568945	Saramaccan	sara1340	the sorcerer or witch	MAGICIAN	2137		lúkuma	lúkuma 
+1184	36-22-44-1	71312149825045742	Saramaccan	sara1340	the fairy or elf	ELF OR FAIRY	3206		pikíkíjóo	pikíkíjóo 
+1185	36-22-45-1	96171612393664180	Saramaccan	sara1340	the ghost	GHOST	1175		joóka	joóka 
+1186	36-22-47-1	71312149510104623	Saramaccan	sara1340	the omen	OMEN	107		maáka	maáka 
+1187	36-23-1-1	96171641728087447	Saramaccan	sara1340	the radio	RADIO	1315		ládio	ládio 
+1188	36-23-11-1	9617163284218255	Saramaccan	sara1340	the television	TELEVISION	1788		televísi	televísi 
+1189	36-23-12-1	96171652457658986	Saramaccan	sara1340	the telephone	TELEPHONE	1379		telefö́n	telefö́n 
+1190	36-23-135-1	9617163891513054	Saramaccan	sara1340	the motorcycle	MOTORCYCLE	638		bölö́m	bölö́m 
+1191	36-23-14-1	71312149224981129	Saramaccan	sara1340	the car	CAR	1111		otó	otó 
+1192	36-23-15-1	71312149859625002	Saramaccan	sara1340	the bus	BUS	1070		bési	bési 
+1193	36-23-16-1	71312149847155897	Saramaccan	sara1340	the airplane	AIRPLANE	1597		opaláni	opaláni 
+1194	36-23-17-1	71312149612401518	Saramaccan	sara1340	the electricity	ELECTRICITY	59		fája	fája 
+1195	36-23-175-1	71312149255283496	Saramaccan	sara1340	the battery	BATTERY	662		batiléífátu	batiléífátu 
+1196	36-23-2-1	96172224145881961	Saramaccan	sara1340	the hospital	HOSPITAL	616		hátíwósu	hátíwósu 
+1197	36-23-21-1	71312149558653722	Saramaccan	sara1340	the nurse	NURSE	1104		sö́sútu	sö́sútu 
+1198	36-23-22-1	71312149980491769	Saramaccan	sara1340	the pill or tablet	PILL	395		péíki	péíki 
+1199	36-23-23-1	71312149925385170	Saramaccan	sara1340	the injection	INJECTION	1805		sipóíti	sipóíti 
+1200	36-23-5-1	71312149511850184	Saramaccan	sara1340	the tap/faucet	FAUCET	1488		kalán	kalán 
+1201	36-23-52-1	96171636464468202	Saramaccan	sara1340	the toilet	TOILET	219		wéésée	wéésée 
+1202	36-23-53-1	71312149126078138	Saramaccan	sara1340	the mattress	MATTRESS	105		mataási	mataási 
+1203	36-23-3-1	71312149590487558	Saramaccan	sara1340	the government	GOVERNMENT	815		lánti	lánti 
+1204	36-23-32-1	71312149653284428	Saramaccan	sara1340	the minister	MINISTER	486		minísíti	minísíti 
+1205	36-23-33-1	71312149572838004	Saramaccan	sara1340	the police	POLICE	656		sikö́útu	sikö́útu 
+1206	36-23-34-1	71312149678615486	Saramaccan	sara1340	the driver's license	DRIVER'S LICENSE	599		leibewéísi	leibewéísi 
+1207	36-23-4-1	71312149392790674	Saramaccan	sara1340	the post/mail	MAIL	167		biífi	biífi 
+1208	36-23-42-1	71312149392790674	Saramaccan	sara1340	the letter	LETTER	1612		biífi	biífi 
+1209	36-23-44-1	71312149884005224	Saramaccan	sara1340	the bank	BANK	1284		bánku	bánku 
+1210	36-23-54-1	71312149301410679	Saramaccan	sara1340	the tin/can	CAN	1051		kán	kán 
+1211	36-23-54-2	71312149491281510	Saramaccan	sara1340	the tin/can	CAN	1051		beénki	beénki 
+1212	36-23-55-1	71312149337947579	Saramaccan	sara1340	the screw	SCREW	1802		sukúfu	sukúfu 
+1213	36-23-55-2	71312149192124208	Saramaccan	sara1340	the screw	SCREW	1802		biápéégu	biápéégu 
+1214	36-23-555-1	71312149766771127	Saramaccan	sara1340	the screwdriver	SCREWDRIVER	836		biáfáka	biáfáka 
+1215	36-23-56-1	71312149780337780	Saramaccan	sara1340	the bottle	BOTTLE	1321		báta	báta 
+1216	36-23-565-1	71312149326565194	Saramaccan	sara1340	the candy/sweets	CANDY	874		kúku	kúku 
+1217	36-23-565-2	71312149569338311	Saramaccan	sara1340	the candy/sweets	CANDY	874		sútísíi	sútísíi 
+1218	36-23-24-1	71312149610725634	Saramaccan	sara1340	the spectacles/glasses	SPECTACLES	1898		beéi (2)	beéi (2) 
+1219	36-23-57-1	71312149671757668	Saramaccan	sara1340	the plastic	PLASTIC	654		kalë́ti	kalë́ti 
+1220	36-23-59-1	71312149553594075	Saramaccan	sara1340	the cigarette	CIGARETTE	969		sigalë́ti	sigalë́ti 
+1221	36-23-62-1	71312149697484245	Saramaccan	sara1340	the film/movie	MOVIE	216		kínö	kínö 
+1222	36-23-63-1	71312149511813375	Saramaccan	sara1340	the music	MUSIC	642		póku	póku 
+1223	36-23-64-1	71312149313252560	Saramaccan	sara1340	the song	SONG	1096		kandá	kandá 
+1224	36-23-6-1	96171626856584014	Saramaccan	sara1340	the newspaper	NEWSPAPER	1298		kolánti	kolánti 
+1225	36-23-39-1	71312149988921378	Saramaccan	sara1340	the number	NUMBER	1356		nö́bu	nö́bu 
+1226	36-23-155-1	7131214972634933	Saramaccan	sara1340	the train	TRAIN	900		talán	talán 
+1227	36-23-195-1	71312149465669679	Saramaccan	sara1340	the petroleum	PETROLEUM	650		óli	óli 
+1228	36-23-185-1	71312149870363652	Saramaccan	sara1340	the motor	MOTOR	110		masíni	masíni 
+1229	36-23-19-1	71312149870363652	Saramaccan	sara1340	the machine	MACHINE	144		masíni	masíni 
+1230	36-23-13-1	71312149545458919	Saramaccan	sara1340	the bicycle	BICYCLE	747		baisígi	baisígi 
+1231	36-23-395-1	71312149695162568	Saramaccan	sara1340	the street	STREET	1362		sitááti	sitááti 
+1232	36-19-445-1	71312149511073247	Saramaccan	sara1340	to liberate	LIBERATE	37		lúsu [someone] púu	lúsu [someone] púu 
+1233	36-19-565-1	71312149354237815	Saramaccan	sara1340	to invite	INVITE	1611		kái [someone] kó	kái [someone] kó 
+1234	36-24-01-1	71312149909710039	Saramaccan	sara1340	to be	BE	1579		saí	saí 
+1235	36-24-01-2	71312149458881745	Saramaccan	sara1340	to be	BE	1579		dë́	dë́ 
+1236	36-24-02-1	71312149622994173	Saramaccan	sara1340	to become	BECOME	1990		kó	kó 
+1237	36-24-03-1	71312149655698751	Saramaccan	sara1340	without	WITHOUT	1478		sö́ndö	sö́ndö 
+1238	36-24-05-1	7131214947946366	Saramaccan	sara1340	through	THROUGH	97		dóu (2)	dóu (2) 
+1239	36-24-13-1	71312149472764556	Saramaccan	sara1340	same	SAME	200		seéi	seéi 
+1240	36-24-06-1	71312149150997611	Saramaccan	sara1340	not	NOT	1240		ná	ná 
+1241	36-24-07-1	71312149454134222	Saramaccan	sara1340	this	THIS	1214		dí [noun] akí	dí [noun] akí 
+1242	36-24-08-1	713121495184315	Saramaccan	sara1340	that	THAT	78		dí [noun] dë́	dí [noun] dë́ 
+1243	36-24-08-2	71312149970087043	Saramaccan	sara1340	that	THAT	78		dí [noun] alá	dí [noun] alá 
+1244	36-24-09-1	71312149354246389	Saramaccan	sara1340	here	HERE	136		akí	akí 
+1245	36-24-1-1	71312149792697383	Saramaccan	sara1340	there	THERE	1937		alá	alá 
+1246	36-24-11-1	7131214997764651	Saramaccan	sara1340	other	OTHER	197		óto (1)	óto (1) 
+1247	36-4-493-1	71312149718841360	Saramaccan	sara1340	the vagina	VAGINA	1836		kú	kú 
+1248	36-23-9-1	71312149904343008	Saramaccan	sara1340	the tea	TEA	1373		té (2)	té (2) 
+1249	36-23-91-1	7131214925703776	Saramaccan	sara1340	the coffee	COFFEE	1299		kofí	kofí 
+1250	36-24-12-1	7131214919319160	Saramaccan	sara1340	next	NEXT	1354		a [noun] bandja	a [noun] bandja 
+1251	36-3-865-1	71312149913265348	Saramaccan	sara1340	the quail	QUAIL	1893		tookóo	tookóo 
+1252	36-3-869-1	71312149364333126	Saramaccan	sara1340	the squirrel	SQUIRREL	1628		djeendjé	djeendjé 
+1253	36-4-465-1	71312149857580046	Saramaccan	sara1340	the sinew or tendon	TENDON	1137		tatái	tatái 
+1254	36-22-5-1	96172232540491895	Saramaccan	sara1340	the circumcision	CIRCUMCISION	393		kóti púu	kóti púu 
+1255	36-22-51-1	71312149402954437	Saramaccan	sara1340	the initiation ceremony	INITIATION CEREMONY	1946		púu a dö́ö	púu a dö́ö 
+1256	36-3-8112-1	7131214982686794	Saramaccan	sara1340	the body louse	BODY LOUSE	311		lósu	lósu 
+1257	36-4-494-1	71312149718841360	Saramaccan	sara1340	the vulva	VULVA	1837		kú	kú 
+1258	36-3-99-1	71312149500534524	Saramaccan	sara1340	the tapir	TAPIR	312		bófo	bófo 
+1259	36-3-99-2	71312149218591778	Saramaccan	sara1340	the tapir	TAPIR	312		gaánmbéti	gaánmbéti 
+1260	36-7-65-1	71312149491677500	Saramaccan	sara1340	the camp	CAMP	1105		kámpu	kámpu 
+1261	36-3-833-1	71312149201301432	Saramaccan	sara1340	the prawns or shrimp	PRAWNS	238		adingö	adingö 
+1262	36-3-833-2	71312149464447933	Saramaccan	sara1340	the prawns or shrimp	PRAWNS	238		saasáa	saasáa 
+1263	36-3-834-1	71312149781831178	Saramaccan	sara1340	the termites	TERMITE	883		kopíkopi	kopíkopi 
+1264	36-3-835-1	71312149244436917	Saramaccan	sara1340	the tick	TICK	1527		kaapátu	kaapátu 
+1265	36-3-89-1	71312149833457994	Saramaccan	sara1340	the anteater	ANTEATER	181		walilí	walilí 
+1266	36-3-598-1	71312149168094056	Saramaccan	sara1340	the toucan	TOUCAN	308		kujaké	kujaké 
+1267	36-3-9-1	71312149234591829	Saramaccan	sara1340	the jaguar	JAGUAR	1250		hógímbéti	hógímbéti 
+1268	36-3-9-2	71312149278728277	Saramaccan	sara1340	the jaguar	JAGUAR	1250		takumbéti	takumbéti 
+1269	36-3-9-3	71312149790685106	Saramaccan	sara1340	the jaguar	JAGUAR	1250		ambulúpái	ambulúpái 
+1270	36-3-9-4	7131214969224964	Saramaccan	sara1340	the jaguar	JAGUAR	1250		bubú	bubú 
+1271	36-3-9-5	71312149472423721	Saramaccan	sara1340	the jaguar	JAGUAR	1250		pëndë́mbéti	pëndë́mbéti 
+1272	36-5-983-1	7131214933212240	Saramaccan	sara1340	the manioc bread	MANIOC BREAD	407		kúka	kúka 
+1273	36-7-66-1	71312149416795761	Saramaccan	sara1340	the hammock	HAMMOCK	2019		amáka	amáka 
+1274	36-3-913-1	71312149840482110	Saramaccan	sara1340	the chameleon	CHAMELEON	1555		agama	agama 
+1275	36-9-9-1	71312149117251508	Saramaccan	sara1340	to draw water	DRAW (WATER)	1911		ba	ba 
+1276	36-10-58-1	71312149148586994	Saramaccan	sara1340	to go or return home	RETURN HOME	142		gó a wósu	gó a wósu 
+1277	36-1-411-1	71312149694648729	Saramaccan	sara1340	the savanna	SAVANNA	260		sabána	sabána 
+1278	36-2-4711-1	71312149481724870	Saramaccan	sara1340	the grandparents	GRANDPARENTS	305		avó	avó 
+1279	36-2-5-1	71312149631149394	Saramaccan	sara1340	the grandchild	GRANDCHILD	1617		miímíí	miímíí 
+1280	36-2-931-1	71312149682041266	Saramaccan	sara1340	he	HE	1211		a	a 
+1281	36-2-931-2	71312149714850671	Saramaccan	sara1340	he	HE	1211		ë́n	ë́n 
+1282	36-2-932-1	71312149682041266	Saramaccan	sara1340	she	SHE	1834		a	a 
+1283	36-2-932-2	71312149714850671	Saramaccan	sara1340	she	SHE	1834		ë́n	ë́n 
+1284	36-2-933-1	71312149682041266	Saramaccan	sara1340	it	IT	169		a	a 
+1285	36-2-933-2	71312149714850671	Saramaccan	sara1340	it	IT	169		ë́n	ë́n 
+1286	36-4-741-1	71312149118946061	Saramaccan	sara1340	the life	LIFE	210		líbi	líbi 
+1287	36-4-844-1	71312149463398816	Saramaccan	sara1340	the disease	DISEASE	1986		síki	síki 
+1288	36-11-29-1	71312149199614593	Saramaccan	sara1340	to damage	DAMAGE	1116		tolá	tolá 
+1289	36-12-081-1	71312149823972446	Saramaccan	sara1340	above	ABOVE	1741		líba	líba 
+1290	36-13-231-1	71312149555971004	Saramaccan	sara1340	the piece	PIECE	594		písi	písi 
+1291	36-13-331-1	71312149746589534	Saramaccan	sara1340	alone	ALONE	1964		wánwan	wánwan 
+1292	36-14-251-1	71312149292475016	Saramaccan	sara1340	the beginning	BEGINNING	1557		bigí	bigí 
+1293	36-14-411-1	71312149532966167	Saramaccan	sara1340	the day(2)	DAY (NOT NIGHT)	1225		dáka	dáka 
+1294	36-22-131-1	71312149532640897	Saramaccan	sara1340	the church	CHURCH	1349		kéíkíwósu	kéíkíwósu 
+1295	36-24-14-1	71312149838463041	Saramaccan	sara1340	nothing	NOTHING	687		ná wán soní	ná wán soní 
+1296	36-4-7501-1	71312149934221713	Saramaccan	sara1340	dead	DEAD	1625		dë́dë	dë́dë 
+1297	36-4-8541-1	71312149249615808	Saramaccan	sara1340	to scratch	SCRATCH	1436		kaási	kaási 
+1298	36-4-8541-2	71312149968421506	Saramaccan	sara1340	to scratch	SCRATCH	1436		kaábu	kaábu 
+1299	36-9-111-1	71312149256615135	Saramaccan	sara1340	to make	MAKE	734		mbéi	mbéi 
+1300	36-4-431-1	7131214929317847	Saramaccan	sara1340	the belly	BELLY	1251		bë́ë	bë́ë 
+1301	36-9-311-1	71312149676365499	Saramaccan	sara1340	to wipe	WIPE	1454		féki	féki 
+1302	36-24-04-1	71312149584796489	Saramaccan	sara1340	with	WITH	1340		ku	ku 
+1303	36-12-012-1	71312149682041266	Saramaccan	sara1340	in	IN	1460		a	a 

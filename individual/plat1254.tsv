@@ -1,0 +1,1685 @@
+ID	Source_ID	Word_ID	Doculect	Glottocode	Concept	Concepticon_Gloss	Concepticon_ID	original_script	Value	Form
+1	28-1-1-1	772514426433613	Malagasy	plat1254	the world	WORLD	965		izào tontòlo izào	izào tontòlo izào 
+2	28-1-21-1	7725144837895611	Malagasy	plat1254	the land	LAND	626		tàny	tàny 
+3	28-1-212-1	7725144837895611	Malagasy	plat1254	the soil	EARTH (SOIL)	1228		tàny	tàny 
+4	28-1-213-1	7725144101161708	Malagasy	plat1254	the dust	DUST	2		vòvoka	vòvoka 
+5	28-1-214-1	7725144381799373	Malagasy	plat1254	the mud	MUD	640		fòtaka	fòtaka 
+6	28-1-215-1	7725144681163870	Malagasy	plat1254	the sand	SAND	671		fàsika	fàsika 
+7	28-1-22-1	7725144782094817	Malagasy	plat1254	the mountain or hill	MOUNTAIN OR HILL	2118		vòhitra	vòhitra 
+8	28-1-222-1	7725144536024298	Malagasy	plat1254	the cliff or precipice	PRECIPICE	618		hàntsana	hàntsana 
+9	28-1-23-1	7725144128391700	Malagasy	plat1254	the plain	PLAIN	652		tàny lèmaka	tàny lèmaka 
+10	28-1-23-2	7725144769596237	Malagasy	plat1254	the plain	PLAIN	652		sàha	sàha 
+11	28-1-24-1	7725144893619912	Malagasy	plat1254	the valley	VALLEY	921		loha-sàha	loha-sàha 
+12	28-1-25-1	772514461763996	Malagasy	plat1254	the island	ISLAND	622		nòsy	nòsy 
+13	28-1-26-1	7725144728500520	Malagasy	plat1254	the mainland	MAINLAND	166		kontinènta	kontinènta 
+14	28-1-27-1	772514438436478	Malagasy	plat1254	the shore	SHORE	113		morondràno	morondràno 
+15	28-1-28-1	7725144684194057	Malagasy	plat1254	the cave	CAVE	1155		lava-bàto	lava-bàto 
+16	28-1-31-1	772514450610088	Malagasy	plat1254	the water	WATER	948		ràno	ràno 
+17	28-1-32-1	7725144862243985	Malagasy	plat1254	the sea	SEA	1474		ranomàsina	ranomàsina 
+18	28-1-322-1	7725144341366420	Malagasy	plat1254	calm	CALM	258		tòny	tòny 
+19	28-1-323-1	7725144288880733	Malagasy	plat1254	rough(2)	ROUGH (OF SEA)	259		manetsikètsika	manetsikètsika 
+20	28-1-324-1	7725144973134779	Malagasy	plat1254	the foam	FOAM	1768		vòry	vòry 
+21	28-1-324-2	7725144137436184	Malagasy	plat1254	the foam	FOAM	1768		ròatra	ròatra 
+22	28-1-329-1	7725144581494598	Malagasy	plat1254	the ocean	OCEAN	645		ranomasimbè	ranomasimbè 
+23	28-1-33-1	7725144729544421	Malagasy	plat1254	the lake	LAKE	624		farìhy	farìhy 
+24	28-1-34-1	7725144370443164	Malagasy	plat1254	the bay	BAY	663		helodranomàsina	helodranomàsina 
+25	28-1-342-1	7725144431009186	Malagasy	plat1254	the reef	REEF	660		haran-dranomàsina	haran-dranomàsina 
+26	28-1-343-1	7725144728040103	Malagasy	plat1254	the cape	CAPE	1662		tànjona	tànjona 
+27	28-1-343-2	7725144554248416	Malagasy	plat1254	the cape	CAPE	1662		tsìraka	tsìraka 
+28	28-1-35-1	7725144362347235	Malagasy	plat1254	the wave	WAVE	978		ònja	ònja 
+29	28-1-35-2	7725144345753635	Malagasy	plat1254	the wave	WAVE	978		àlona (1)	àlona (1) 
+30	28-1-354-1	7725144146614915	Malagasy	plat1254	the high tide	HIGH TIDE	613		samònta	samònta 
+31	28-1-36-1	7725144236804962	Malagasy	plat1254	the river or stream	RIVER	666		reniràno	reniràno 
+32	28-1-36-2	7725144501666592	Malagasy	plat1254	the river or stream	RIVER	666		òny	òny 
+33	28-1-362-1	7725144652163300	Malagasy	plat1254	the whirlpool	WHIRLPOOL	1982		ranomòdy	ranomòdy 
+34	28-1-37-1	7725144995104778	Malagasy	plat1254	the spring or well	SPRING OR WELL	2144		loharàno	loharàno 
+35	28-1-38-1	7725144851940709	Malagasy	plat1254	the swamp	SWAMP	1145		honahòna	honahòna 
+36	28-1-38-2	772514472344248	Malagasy	plat1254	the swamp	SWAMP	1145		henihèny	henihèny 
+37	28-1-38-3	7725144922830101	Malagasy	plat1254	the swamp	SWAMP	1145		hòraka	hòraka 
+38	28-1-39-1	7725144831321609	Malagasy	plat1254	the waterfall	WATERFALL	943		rìana	rìana 
+39	28-1-41-1	7725144404722748	Malagasy	plat1254	the woods or forest	FOREST	420		àla	àla 
+40	28-1-43-1	7725144133092593	Malagasy	plat1254	the wood	WOOD	1803		hàzo	hàzo 
+41	28-1-44-1	7725144825184313	Malagasy	plat1254	the stone or rock	STONE OR ROCK	2125		vàto	vàto 
+42	28-1-45-1	7725144591280752	Malagasy	plat1254	the earthquake	EARTHQUAKE	6		horohorontàny	horohorontàny 
+43	28-1-51-1	7725144287242222	Malagasy	plat1254	the sky	SKY	1732		lànitra	lànitra 
+44	28-1-52-1	7725144301278703	Malagasy	plat1254	the sun	SUN	1343		masonàndro	masonàndro 
+45	28-1-53-1	7725144610114498	Malagasy	plat1254	the moon	MOON	1313		vòlana	vòlana 
+46	28-1-54-1	772514496951973	Malagasy	plat1254	the star	STAR	1430		kìntana	kìntana 
+47	28-1-55-1	7725144782547552	Malagasy	plat1254	the lightning	LIGHTNING	1654		tsèlatra	tsèlatra 
+48	28-1-55-2	772514446923016	Malagasy	plat1254	the lightning	LIGHTNING	1654		hèlatra	hèlatra 
+49	28-1-56-1	7725144402767577	Malagasy	plat1254	the thunder	THUNDER	1150		vàratra	vàratra 
+50	28-1-57-1	772514446923016	Malagasy	plat1254	the bolt of lightning	BOLT (OF LIGHTNING)	2007		hèlatra	hèlatra 
+51	28-1-57-2	7725144782547552	Malagasy	plat1254	the bolt of lightning	BOLT (OF LIGHTNING)	2007		tsèlatra	tsèlatra 
+52	28-1-58-1	7725144251987704	Malagasy	plat1254	the storm	STORM	858		tafìodrìvotra	tafìodrìvotra 
+53	28-1-59-1	7725144277564939	Malagasy	plat1254	the rainbow	RAINBOW	1733		antsiben’andriamànitra	antsiben’andriamànitra 
+54	28-1-59-2	7725144231195123	Malagasy	plat1254	the rainbow	RAINBOW	1733		àvana	àvana 
+55	28-1-61-1	7725144981233604	Malagasy	plat1254	the light	LIGHT (RADIATION)	630		zàva	zàva 
+56	28-1-62-1	7725144917398213	Malagasy	plat1254	the darkness	DARKNESS	11		ny maìzina	ny maìzina 
+57	28-1-63-1	7725144816100760	Malagasy	plat1254	the shade or shadow	SHADE	1388		àloka	àloka 
+58	28-1-64-1	7725144780571668	Malagasy	plat1254	the dew	DEW	1977		àndo	àndo 
+59	28-1-71-1	7725144635441253	Malagasy	plat1254	the air	AIR	27		rìvotra	rìvotra 
+60	28-1-72-1	7725144635441253	Malagasy	plat1254	the wind	WIND	960		rìvotra	rìvotra 
+61	28-1-73-1	7725144801632062	Malagasy	plat1254	the cloud	CLOUD	1489		ràhona	ràhona 
+62	28-1-74-1	7725144194680610	Malagasy	plat1254	the fog	FOG	249		zàvona	zàvona 
+63	28-1-75-1	7725144351643048	Malagasy	plat1254	the rain	RAIN (PRECIPITATION)	658		òrana (1)	òrana (1) 
+64	28-1-76-1	7725144201674488	Malagasy	plat1254	the snow	SNOW	784		orampànala	orampànala 
+65	28-1-77-1	7725144923923681	Malagasy	plat1254	the ice	ICE	617		ranomàndry	ranomàndry 
+66	28-1-78-1	7725144116261511	Malagasy	plat1254	the weather	WEATHER	952		àndro	àndro 
+67	28-1-81-1	7725144347938993	Malagasy	plat1254	the fire	FIRE	221		àfo	àfo 
+68	28-1-82-1	7725144887403151	Malagasy	plat1254	the flame	FLAME	889		lelàfo	lelàfo 
+69	28-1-83-1	7725144969980558	Malagasy	plat1254	the smoke	SMOKE (EXHAUST)	778		sètroka	sètroka 
+70	28-1-84-1	7725144831622767	Malagasy	plat1254	the ash	ASH	646		lavènona	lavènona 
+71	28-1-841-1	7725144528150260	Malagasy	plat1254	the embers	EMBERS	67		vainàfo	vainàfo 
+72	28-1-851-1	7725144181408845	Malagasy	plat1254	to burn(1)	BURN (SOMETHING)	141		mandòro	mandòro 
+73	28-1-852-1	7725144765639592	Malagasy	plat1254	to burn(2)	BURNING	1428		mirèhitra	mirèhitra 
+74	28-1-852-2	7725144698814735	Malagasy	plat1254	to burn(2)	BURNING	1428		may	may 
+75	28-1-86-1	7725144103050809	Malagasy	plat1254	to light	LIGHT (IGNITE)	737		mandrèhitra	mandrèhitra 
+76	28-1-861-1	7725144110935551	Malagasy	plat1254	to extinguish	EXTINGUISH	127		mamòno	mamòno 
+77	28-1-87-1	7725144131710896	Malagasy	plat1254	the match	MATCH	1133		afokàsika	afokàsika 
+78	28-1-87-2	7725144494451467	Malagasy	plat1254	the match	MATCH	1133		afokàsoka	afokàsoka 
+79	28-1-88-1	7725144968125411	Malagasy	plat1254	the firewood	FIREWOOD	10		kitày	kitày 
+80	28-1-89-1	7725144359206058	Malagasy	plat1254	the charcoal	CHARCOAL	1188		saribào	saribào 
+81	28-1-89-2	7725144507722539	Malagasy	plat1254	the charcoal	CHARCOAL	1188		àrina	àrina 
+82	28-2-1-1	7725144380914210	Malagasy	plat1254	the person	PERSON	683		òlona	òlona 
+83	28-2-21-1	7725144949113204	Malagasy	plat1254	the man	MAN	1554		lehilahy	lehilahy 
+84	28-2-22-1	7725144684707758	Malagasy	plat1254	the woman	WOMAN	962		vehivàvy	vehivàvy 
+85	28-2-23-1	7725144988142438	Malagasy	plat1254	male(1)	MALE (OF ANIMAL)	2263		làhy	làhy 
+86	28-2-24-1	7725144693503165	Malagasy	plat1254	female(1)	FEMALE (OF PERSON)	2260		vàvy	vàvy 
+87	28-2-25-1	7725144822039162	Malagasy	plat1254	the boy	BOY	1366		zazalàhy	zazalàhy 
+88	28-2-251-1	7725144582696372	Malagasy	plat1254	the young man	YOUNG MAN	76		tòvo làhy	tòvo làhy 
+89	28-2-26-1	7725144432668179	Malagasy	plat1254	the girl	GIRL	1646		zazavàvy	zazavàvy 
+90	28-2-261-1	7725144585444071	Malagasy	plat1254	the young woman	YOUNG WOMAN	77		tòvo vàvy	tòvo vàvy 
+91	28-2-27-1	7725144108170783	Malagasy	plat1254	the child(1)	CHILD (YOUNG HUMAN)	1304		zàza	zàza 
+92	28-2-28-1	7725144272053207	Malagasy	plat1254	the baby	BABY	1289		zazakèly	zazakèly 
+93	28-2-31-1	772514449244217	Malagasy	plat1254	the husband	HUSBAND	1200		vàdy	vàdy 
+94	28-2-32-1	772514449244217	Malagasy	plat1254	the wife	WIFE	1199		vàdy	vàdy 
+95	28-2-33-1	7725144255884634	Malagasy	plat1254	to marry	MARRY	203		manambàdy	manambàdy 
+96	28-2-34-1	7725144453113917	Malagasy	plat1254	the wedding	WEDDING	1259		fampakarambadìana	fampakarambadìana 
+97	28-2-341-1	7725144164910803	Malagasy	plat1254	the divorce	DIVORCE	1134		fisaràhana	fisaràhana 
+98	28-2-35-1	7725144402483847	Malagasy	plat1254	the father	FATHER	1217		ray	ray 
+99	28-2-36-1	7725144470097489	Malagasy	plat1254	the mother	MOTHER	1216		rèny	rèny 
+100	28-2-37-1	7725144941676052	Malagasy	plat1254	the parents	PARENTS	505		ray amandrèny	ray amandrèny 
+101	28-2-38-1	7725144186849466	Malagasy	plat1254	the married man	MARRIED MAN	424		lehilàhy manambàdy	lehilàhy manambàdy 
+102	28-2-39-1	7725144342927785	Malagasy	plat1254	the married woman	MARRIED WOMAN	426		vehivàvy manambàdy	vehivàvy manambàdy 
+103	28-2-41-1	7725144270792343	Malagasy	plat1254	the son	SON	1620		zànaka làhy	zànaka làhy 
+104	28-2-42-1	772514463560346	Malagasy	plat1254	the daughter	DAUGHTER	1357		zànaka vàvy	zànaka vàvy 
+105	28-2-43-1	7725144523218095	Malagasy	plat1254	the child(2)	CHILD (DESCENDANT)	1801		ànaka	ànaka 
+106	28-2-43-2	7725144290572437	Malagasy	plat1254	the child(2)	CHILD (DESCENDANT)	1801		zànaka	zànaka 
+107	28-2-44-1	7725144852772289	Malagasy	plat1254	the brother	BROTHER	1262		rahalàhy	rahalàhy 
+108	28-2-44-2	7725144736532649	Malagasy	plat1254	the brother	BROTHER	1262		anadàhy	anadàhy 
+109	28-2-44-3	772514445278022	Malagasy	plat1254	the brother	BROTHER	1262		zòky	zòky 
+110	28-2-44-4	7725144329999236	Malagasy	plat1254	the brother	BROTHER	1262		zàndry	zàndry 
+111	28-2-444-1	772514445278022	Malagasy	plat1254	the older brother	OLDER BROTHER	1759		zòky	zòky 
+112	28-2-445-1	7725144329999236	Malagasy	plat1254	the younger brother	YOUNGER BROTHER	1760		zàndry	zàndry 
+113	28-2-45-1	7725144707308822	Malagasy	plat1254	the sister	SISTER	1263		rahavàvy	rahavàvy 
+114	28-2-45-2	7725144284035724	Malagasy	plat1254	the sister	SISTER	1263		anavàvy	anavàvy 
+115	28-2-45-3	772514445278022	Malagasy	plat1254	the sister	SISTER	1263		zòky	zòky 
+116	28-2-45-4	7725144329999236	Malagasy	plat1254	the sister	SISTER	1263		zàndry	zàndry 
+117	28-2-454-1	772514445278022	Malagasy	plat1254	the older sister	OLDER SISTER	1758		zòky	zòky 
+118	28-2-455-1	7725144329999236	Malagasy	plat1254	the younger sister	YOUNGER SISTER	1761		zàndry	zàndry 
+119	28-2-456-1	7725144481659832	Malagasy	plat1254	the sibling	SIBLING	1640		mianadàhy	mianadàhy 
+120	28-2-458-1	7725144179915953	Malagasy	plat1254	the twins	TWINS	1005		kàmbana	kàmbana 
+121	28-2-46-1	7725144321116900	Malagasy	plat1254	the grandfather	GRANDFATHER	1383		raibè	raibè 
+122	28-2-461-1	7725144956792300	Malagasy	plat1254	the old man	OLD MAN	406		antidàhy	antidàhy 
+123	28-2-47-1	7725144813757298	Malagasy	plat1254	the grandmother	GRANDMOTHER	1496		renibè	renibè 
+124	28-2-471-1	7725144448445037	Malagasy	plat1254	the old woman	OLD WOMAN	907		antibàvy	antibàvy 
+125	28-2-48-1	7725144132656410	Malagasy	plat1254	the grandson	GRANDSON	1618		zàfy	zàfy 
+126	28-2-49-1	7725144132656410	Malagasy	plat1254	the granddaughter	GRANDDAUGHTER	1619		zàfy	zàfy 
+127	28-2-51-1	7725144402483847	Malagasy	plat1254	the uncle	UNCLE	1327		ray	ray 
+128	28-2-511-1	772514415213544	Malagasy	plat1254	the mother's brother	MOTHER'S BROTHER	1984		anadahindrèny	anadahindrèny 
+129	28-2-512-1	772514423307743	Malagasy	plat1254	the father's brother	FATHER'S BROTHER	1985		rahalahindrày	rahalahindrày 
+130	28-2-52-1	7725144485051577	Malagasy	plat1254	the aunt	AUNT	1272		rèny	rèny 
+131	28-2-521-1	7725144414507125	Malagasy	plat1254	the mother's sister	MOTHER'S SISTER	171		rahavavindrèny	rahavavindrèny 
+132	28-2-522-1	7725144565029240	Malagasy	plat1254	the father's sister	FATHER'S SISTER	170		anabavindrày	anabavindrày 
+133	28-2-53-1	7725144944282371	Malagasy	plat1254	the nephew	NEPHEW	1063		zanadrahalàhy	zanadrahalàhy 
+134	28-2-53-2	7725144611195080	Malagasy	plat1254	the nephew	NEPHEW	1063		zanak’anadàhy	zanak’anadàhy 
+135	28-2-54-1	7725144229626300	Malagasy	plat1254	the niece	NIECE	1642		zanadrahavàvy	zanadrahavàvy 
+136	28-2-54-2	7725144317845868	Malagasy	plat1254	the niece	NIECE	1642		zanak’anabàvy	zanak’anabàvy 
+137	28-2-55-1	7725144852772289	Malagasy	plat1254	the cousin	COUSIN	1643		rahalàhy	rahalàhy 
+138	28-2-56-1	7725144160927197	Malagasy	plat1254	the ancestors	ANCESTORS	1669		ràzana	ràzana 
+139	28-2-57-1	7725144499541805	Malagasy	plat1254	the descendants	DESCENDANTS	490		tarànaka	tarànaka 
+140	28-2-61-1	7725144595070643	Malagasy	plat1254	the father-in-law (of a man)	FATHER-IN-LAW (OF MAN)	2255		rafozandàhy	rafozandàhy 
+141	28-2-611-1	7725144595070643	Malagasy	plat1254	the father-in-law (of a woman)	FATHER-IN-LAW (OF WOMAN)	2254		rafozandàhy	rafozandàhy 
+142	28-2-62-1	7725144781598140	Malagasy	plat1254	the mother-in-law (of a man)	MOTHER-IN-LAW (OF WOMAN)	2256		rafozambàvy	rafozambàvy 
+143	28-2-621-1	7725144781598140	Malagasy	plat1254	the mother-in-law (of a woman)	MOTHER-IN-LAW (OF MAN)	2257		rafozambàvy	rafozambàvy 
+144	28-2-63-1	7725144699215303	Malagasy	plat1254	the son-in-law (of a man)	SON-IN-LAW (OF MAN)	2267		vinànto làhy	vinànto làhy 
+145	28-2-631-1	7725144699215303	Malagasy	plat1254	the son-in-law (of a woman)	SON-IN-LAW (OF WOMAN)	2266		vinànto làhy	vinànto làhy 
+146	28-2-64-1	772514418911547	Malagasy	plat1254	the daughter-in-law (of a man)	DAUGHTER-IN-LAW (OF MAN)	2265		vinànto vàvy	vinànto vàvy 
+147	28-2-641-1	772514418911547	Malagasy	plat1254	the daughter-in-law (of a woman)	DAUGHTER-IN-LAW (OF WOMAN)	2264		vinànto vàvy	vinànto vàvy 
+148	28-2-71-1	7725144650171113	Malagasy	plat1254	the stepfather	STEPFATHER	237		raikèly	raikèly 
+149	28-2-72-1	7725144489678121	Malagasy	plat1254	the stepmother	STEPMOTHER	236		renikèly	renikèly 
+150	28-2-73-1	7725144790427367	Malagasy	plat1254	the stepson	STEPSON	1059		(zànaka làhy ny vàdy)	(zànaka làhy ny vàdy) 
+151	28-2-74-1	7725144517895575	Malagasy	plat1254	the stepdaughter	STEPDAUGHTER	1058		(zànaka vàvy ny vàdy)	(zànaka vàvy ny vàdy) 
+152	28-2-75-1	7725144615699244	Malagasy	plat1254	the orphan	ORPHAN	1149		kambòty	kambòty 
+153	28-2-76-1	7725144952130076	Malagasy	plat1254	the widow	WIDOW	1756		mpitòndra tèna	mpitòndra tèna 
+154	28-2-77-1	7725144952130076	Malagasy	plat1254	the widower	WIDOWER	1981		mpitòndra tèna	mpitòndra tèna 
+155	28-2-81-1	7725144600158887	Malagasy	plat1254	the relatives	RELATIVES	1644		hàvana	hàvana 
+156	28-2-82-1	7725144775908313	Malagasy	plat1254	the family	FAMILY	194		fianakavìana	fianakavìana 
+157	28-2-82-2	7725144849485473	Malagasy	plat1254	the family	FAMILY	194		ankohònana	ankohònana 
+158	28-2-91-1	7725144445661880	Malagasy	plat1254	I	I	1209		izàho	izàho 
+159	28-2-91-2	772514449189673	Malagasy	plat1254	I	I	1209		àho	àho 
+160	28-2-92-1	7725144827268693	Malagasy	plat1254	you (singular)	THOU	1215		ianào	ianào 
+161	28-2-92-2	7725144613036246	Malagasy	plat1254	you (singular)	THOU	1215		ialàhy	ialàhy 
+162	28-2-92-3	7725144336182574	Malagasy	plat1254	you (singular)	THOU	1215		itèna	itèna 
+163	28-2-93-1	7725144583682414	Malagasy	plat1254	he/she/it	HE OR SHE OR IT	262		ìzy	ìzy 
+164	28-2-941-1	77251446703926	Malagasy	plat1254	we (inclusive)	WE (INCLUSIVE)	1131		isìka	isìka 
+165	28-2-942-1	7725144689797761	Malagasy	plat1254	we (exclusive)	WE (EXCLUSIVE)	1130		izahày	izahày 
+166	28-2-95-1	7725144613995244	Malagasy	plat1254	you (plural)	YOU	1213		ianarèo	ianarèo 
+167	28-2-96-1	7725144583682414	Malagasy	plat1254	they	THEY	817		ìzy	ìzy 
+168	28-2-96-2	7725144189257660	Malagasy	plat1254	they	THEY	817		ìzy irèo	ìzy irèo 
+169	28-3-11-1	7725144857990580	Malagasy	plat1254	the animal	ANIMAL	619		bìby	bìby 
+170	28-3-12-1	7725144988142438	Malagasy	plat1254	male(2)	MALE (OF PERSON)	2261		làhy	làhy 
+171	28-3-13-1	7725144693503165	Malagasy	plat1254	female(2)	FEMALE (OF ANIMAL)	2262		vàvy	vàvy 
+172	28-3-15-1	7725144124428818	Malagasy	plat1254	the livestock	LIVESTOCK	631		bìby fiòmpy	bìby fiòmpy 
+173	28-3-18-1	7725144763865715	Malagasy	plat1254	the herdsman	HERDSMAN	263		mpiàndry	mpiàndry 
+174	28-3-19-1	7725144469522679	Malagasy	plat1254	the stable or stall	STABLE	851		tranonòmby	tranonòmby 
+175	28-3-2-1	7725144124428818	Malagasy	plat1254	the cattle	CATTLE	1153		bìby fiòmpy	bìby fiòmpy 
+176	28-3-21-1	7725144209364619	Malagasy	plat1254	the bull	BULL	1008		ombilàhy	ombilàhy 
+177	28-3-22-1	7725144167653161	Malagasy	plat1254	the ox	OX	1169		òmby	òmby 
+178	28-3-23-1	772514457350743	Malagasy	plat1254	the cow	COW	1007		ombivàvy	ombivàvy 
+179	28-3-24-1	77251447691288	Malagasy	plat1254	the calf	CALF	1989		zanak’òmby	zanak’òmby 
+180	28-3-25-1	7725144617640366	Malagasy	plat1254	the sheep	SHEEP	1331		òndry	òndry 
+181	28-3-26-1	7725144802127002	Malagasy	plat1254	the ram	RAM	1344		ondrilàhy	ondrilàhy 
+182	28-3-28-1	7725144756129526	Malagasy	plat1254	the ewe	EWE	1345		òndry vàvy	òndry vàvy 
+183	28-3-29-1	772514415202594	Malagasy	plat1254	the lamb	LAMB	820		zanak’ondry	zanak’ondry 
+184	28-3-32-1	7725144973266874	Malagasy	plat1254	the boar	BOAR	1348		làmbo	làmbo 
+185	28-3-35-1	7725144542935849	Malagasy	plat1254	the pig	PIG	1337		kisòa	kisòa 
+186	28-3-36-1	7725144627763611	Malagasy	plat1254	the goat	GOAT	1502		osivàvy	osivàvy 
+187	28-3-37-1	772514480792768	Malagasy	plat1254	the he-goat	HE-GOAT	264		osilàhy	osilàhy 
+188	28-3-38-1	7725144125370531	Malagasy	plat1254	the kid	KID	1972		zanak’òsy	zanak’òsy 
+189	28-3-41-1	7725144934562331	Malagasy	plat1254	the horse	HORSE	615		soavàly	soavàly 
+190	28-3-44-1	7725144373417927	Malagasy	plat1254	the mare	MARE	938		sòavaly vàvy	sòavaly vàvy 
+191	28-3-45-1	772514452442456	Malagasy	plat1254	the foal or colt	FOAL	1647		zana-tsoavàly	zana-tsoavàly 
+192	28-3-46-1	772514425389452	Malagasy	plat1254	the donkey	DONKEY	1862		ampòndra	ampòndra 
+193	28-3-47-1	7725144718580457	Malagasy	plat1254	the mule	MULE	890		ramolè	ramolè 
+194	28-3-5-1	7725144508451004	Malagasy	plat1254	the fowl	FOWL	265		akòho amam-bòrona	akòho amam-bòrona 
+195	28-3-52-1	7725144345650650	Malagasy	plat1254	the cock/rooster	ROOSTER	1511		akòho làhy	akòho làhy 
+196	28-3-54-1	7725144910490425	Malagasy	plat1254	the hen	HEN	1514		akòho vàvy	akòho vàvy 
+197	28-3-55-1	7725144779774176	Malagasy	plat1254	the chicken	CHICKEN	1318		akòho	akòho 
+198	28-3-56-1	7725144556579565	Malagasy	plat1254	the goose	GOOSE	1187		gìsa	gìsa 
+199	28-3-56-2	7725144304634628	Malagasy	plat1254	the goose	GOOSE	1187		vorombè	vorombè 
+200	28-3-57-1	7725144344774790	Malagasy	plat1254	the duck	DUCK	1360		ganagàna	ganagàna 
+201	28-3-57-2	7725144124526496	Malagasy	plat1254	the duck	DUCK	1360		dòkotra	dòkotra 
+202	28-3-57-3	7725144907600929	Malagasy	plat1254	the duck	DUCK	1360		vorombazàha	vorombazàha 
+203	28-3-57-4	7725144917664950	Malagasy	plat1254	the duck	DUCK	1360		kanakàna	kanakàna 
+204	28-3-58-1	7725144328013075	Malagasy	plat1254	the nest	NEST	539		tranombòrona	tranombòrona 
+205	28-3-581-1	7725144440613235	Malagasy	plat1254	the bird	BIRD	937		vòrona	vòrona 
+206	28-3-583-1	7725144895567913	Malagasy	plat1254	the heron	HERON	758		vàno	vàno 
+207	28-3-585-1	7725144618241146	Malagasy	plat1254	the hawk	HAWK	307		papàngo	papàngo 
+208	28-3-591-1	7725144650397702	Malagasy	plat1254	the bat	BAT	1793		manàvy	manàvy 
+209	28-3-591-2	7725144376636088	Malagasy	plat1254	the bat	BAT	1793		ramanàvy	ramanàvy 
+210	28-3-591-3	7725144278995992	Malagasy	plat1254	the bat	BAT	1793		fanìhy	fanìhy 
+211	28-3-592-1	7725144432325308	Malagasy	plat1254	the parrot	PARROT	882		bolòky	bolòky 
+212	28-3-593-1	7725144487008364	Malagasy	plat1254	the crow	CROW	913		goàika	goàika 
+213	28-3-594-1	7725144982943696	Malagasy	plat1254	the dove	DOVE	1853		voromahailàla	voromahailàla 
+214	28-3-596-1	7725144413077468	Malagasy	plat1254	the owl	OWL	735		vorondòlo	vorondòlo 
+215	28-3-61-1	772514464978010	Malagasy	plat1254	the dog	DOG	2009		àlika	àlika 
+216	28-3-61-2	7725144454304401	Malagasy	plat1254	the dog	DOG	2009		ambùa	ambùa 
+217	28-3-614-1	7725144954482642	Malagasy	plat1254	the rabbit	RABBIT	1136		rabìtro	rabìtro 
+218	28-3-614-2	7725144679498830	Malagasy	plat1254	the rabbit	RABBIT	1136		bìtro	bìtro 
+219	28-3-62-1	7725144394985080	Malagasy	plat1254	the cat	CAT	1208		sàka	sàka 
+220	28-3-62-2	7725144950322734	Malagasy	plat1254	the cat	CAT	1208		pìso	pìso 
+221	28-3-63-1	7725144804538881	Malagasy	plat1254	the mouse or rat	MUROID (MOUSE OR RAT)	2139		voalàvo	voalàvo 
+222	28-3-63-2	7725144450683204	Malagasy	plat1254	the mouse or rat	MUROID (MOUSE OR RAT)	2139		totòzy	totòzy 
+223	28-3-65-1	7725144746911575	Malagasy	plat1254	the fish	FISH	227		hazandràno	hazandràno 
+224	28-3-65-2	7725144759884786	Malagasy	plat1254	the fish	FISH	227		tròndro	tròndro 
+225	28-3-652-1	7725144657943008	Malagasy	plat1254	the fin	FIN	213		vòmbona	vòmbona 
+226	28-3-653-1	772514418842985	Malagasy	plat1254	the scale	SCALE	266		kìra	kìra 
+227	28-3-654-1	772514445387625	Malagasy	plat1254	the gill	GILL	1916		sofinkazandràno	sofinkazandràno 
+228	28-3-655-1	7725144344866195	Malagasy	plat1254	the shell	SHELL	598		akòra	akòra 
+229	28-3-661-1	7725144444603506	Malagasy	plat1254	the shark	SHARK	1110		antsàntsa	antsàntsa 
+230	28-3-663-1	7725144720489095	Malagasy	plat1254	the whale	WHALE	957		tròzona	tròzona 
+231	28-3-664-1	7725144322711886	Malagasy	plat1254	the stingray	STINGRAY	1910		fay	fay 
+232	28-3-665-1	7725144240249583	Malagasy	plat1254	the freshwater eel	FRESHWATER EEL	1013		amàlona	amàlona 
+233	28-3-71-1	7725144455244713	Malagasy	plat1254	the wolf	WOLF	522		amboadìa	amboadìa 
+234	28-3-72-1	7725144229371301	Malagasy	plat1254	the lion	LION	1386		lìona	lìona 
+235	28-3-73-1	7725144362444127	Malagasy	plat1254	the bear	BEAR	1820		orsa	orsa 
+236	28-3-74-1	7725144558589299	Malagasy	plat1254	the fox	FOX	1312		amboahàolo	amboahàolo 
+237	28-3-75-1	7725144938028821	Malagasy	plat1254	the deer	DEER	1936		serfa	serfa 
+238	28-3-76-1	7725144460577371	Malagasy	plat1254	the monkey	MONKEY	1350		jàko	jàko 
+239	28-3-76-2	7725144550451867	Malagasy	plat1254	the monkey	MONKEY	1350		rajàko	rajàko 
+240	28-3-77-1	7725144560460151	Malagasy	plat1254	the elephant	ELEPHANT	1290		elefànta	elefànta 
+241	28-3-78-1	7725144394587385	Malagasy	plat1254	the camel	CAMEL	1871		ramèva	ramèva 
+242	28-3-81-1	7725144771041024	Malagasy	plat1254	the insect	INSECT	620		bibikèly	bibikèly 
+243	28-3-811-1	7725144238191277	Malagasy	plat1254	the head louse	HEAD LOUSE	310		hào	hào 
+244	28-3-812-1	7725144941779252	Malagasy	plat1254	the nit	NIT	267		atodihào	atodihào 
+245	28-3-813-1	7725144703244251	Malagasy	plat1254	the flea	FLEA	232		paràsy	paràsy 
+246	28-3-814-1	7725144632272672	Malagasy	plat1254	the centipede	CENTIPEDE	1974		marotànana	marotànana 
+247	28-3-815-1	7725144857448052	Malagasy	plat1254	the scorpion	SCORPION	1538		màingoka	màingoka 
+248	28-3-816-1	7725144244421181	Malagasy	plat1254	the cockroach	COCKROACH	1575		kalalào	kalalào 
+249	28-3-816-2	7725144505864255	Malagasy	plat1254	the cockroach	COCKROACH	1575		kadràdraka	kadràdraka 
+250	28-3-817-1	7725144181053188	Malagasy	plat1254	the ant	ANT	587		vìtsika	vìtsika 
+251	28-3-818-1	7725144522179452	Malagasy	plat1254	the spider	SPIDER	843		hàla	hàla 
+252	28-3-819-1	7725144743134143	Malagasy	plat1254	the spider web	SPIDER WEB	1065		tranonkàla	tranonkàla 
+253	28-3-82-1	7725144248075694	Malagasy	plat1254	the bee	BEE	665		renitantely	renitantely 
+254	28-3-821-1	7725144804142764	Malagasy	plat1254	the beeswax	BEESWAX	1931		sàvoka	sàvoka 
+255	28-3-822-1	7725144709653393	Malagasy	plat1254	the beehive	BEEHIVE	88		tòhotra	tòhotra 
+256	28-3-823-1	7725144726031431	Malagasy	plat1254	the wasp	WASP	1517		fanènitra	fanènitra 
+257	28-3-83-1	7725144590258159	Malagasy	plat1254	the fly	FLY (INSECT)	1504		làlitra	làlitra 
+258	28-3-831-1	7725144649889188	Malagasy	plat1254	the sandfly or midge or gnat	SANDFLY	95		mòka fòhy	mòka fòhy 
+259	28-3-832-1	7725144234070816	Malagasy	plat1254	the mosquito	MOSQUITO	1509		mòka	mòka 
+260	28-3-84-1	7725144417603302	Malagasy	plat1254	the worm	WORM	1219		kànkana	kànkana 
+261	28-3-84-2	7725144757420008	Malagasy	plat1254	the worm	WORM	1219		òlitra	òlitra 
+262	28-3-85-1	7725144939947676	Malagasy	plat1254	the snake	SNAKE	730		bibilàva	bibilàva 
+263	28-3-91-1	7725144650880325	Malagasy	plat1254	the firefly	FIREFLY	206		angamenavàva	angamenavàva 
+264	28-3-92-1	772514472101200	Malagasy	plat1254	the butterfly	BUTTERFLY	1791		lòlo	lòlo 
+265	28-3-93-1	7725144542166949	Malagasy	plat1254	the grasshopper	GRASSHOPPER	607		valàla	valàla 
+266	28-3-94-1	772514470256734	Malagasy	plat1254	the snail	SNAIL	1543		sìfotra	sìfotra 
+267	28-3-95-1	7725144390112876	Malagasy	plat1254	the frog	FROG	503		sàhona	sàhona 
+268	28-3-96-1	772514479590939	Malagasy	plat1254	the lizard	LIZARD	632		andròngo	andròngo 
+269	28-3-97-1	7725144720987913	Malagasy	plat1254	the crocodile or alligator	CROCODILE	1857		màmba	màmba 
+270	28-3-97-2	7725144975904819	Malagasy	plat1254	the crocodile or alligator	CROCODILE	1857		voày	voày 
+271	28-3-98-1	772514428582233	Malagasy	plat1254	the turtle	TURTLE	112		sòkatra	sòkatra 
+272	28-3-98-2	7725144372742952	Malagasy	plat1254	the turtle	TURTLE	112		fàno	fàno 
+273	28-4-11-1	7725144410857159	Malagasy	plat1254	the body	BODY	1480		vàtana	vàtana 
+274	28-4-11-2	7725144446808058	Malagasy	plat1254	the body	BODY	1480		tèna	tèna 
+275	28-4-12-1	7725144714190013	Malagasy	plat1254	the skin or hide	SKIN	763		hòditra	hòditra 
+276	28-4-13-1	7725144498092866	Malagasy	plat1254	the flesh	FLESH	2259		nòfo	nòfo 
+277	28-4-14-1	7725144764445726	Malagasy	plat1254	the hair	HAIR (HEAD)	2648		vòlo (1)	vòlo (1) 
+278	28-4-142-1	7725144804847551	Malagasy	plat1254	the beard	BEARD	678		volombàva	volombàva 
+279	28-4-142-2	7725144122411778	Malagasy	plat1254	the beard	BEARD	678		sòmotra	sòmotra 
+280	28-4-144-1	7725144764445726	Malagasy	plat1254	the body hair	HAIR (BODY)	189		vòlo (1)	vòlo (1) 
+281	28-4-146-1	7725144507356009	Malagasy	plat1254	the dandruff	DANDRUFF	576		angadràno	angadràno 
+282	28-4-15-1	7725144673302494	Malagasy	plat1254	the blood	BLOOD	946		ra	ra 
+283	28-4-151-1	7725144196922518	Malagasy	plat1254	the vein or artery	BLOOD VESSEL	525		lalandrà	lalandrà 
+284	28-4-16-1	7725144575605894	Malagasy	plat1254	the bone	BONE	1394		tàolana	tàolana 
+285	28-4-162-1	7725144545589118	Malagasy	plat1254	the rib	RIB	801		taolantehèzana	taolantehèzana 
+286	28-4-17-1	7725144422801079	Malagasy	plat1254	the horn	HORN (ANATOMY)	1393		tàndroka	tàndroka 
+287	28-4-18-1	7725144665190987	Malagasy	plat1254	the tail	TAIL	1220		ràmbo	ràmbo 
+288	28-4-19-1	7725144724046666	Malagasy	plat1254	the back	BACK	1291		lamòsina	lamòsina 
+289	28-4-191-1	7725144903023382	Malagasy	plat1254	the spine	SPINE	805		hazondamòsina	hazondamòsina 
+290	28-4-191-2	7725144505581569	Malagasy	plat1254	the spine	SPINE	805		tsìlo	tsìlo 
+291	28-4-2-1	7725144399539918	Malagasy	plat1254	the head	HEAD	1256		lòha	lòha 
+292	28-4-201-1	7725144511891795	Malagasy	plat1254	the temples	TEMPLES	1604		fihirìfana	fihirìfana 
+293	28-4-202-1	7725144226209309	Malagasy	plat1254	the skull	SKULL	1605		karandòha	karandòha 
+294	28-4-203-1	7725144116348912	Malagasy	plat1254	the brain	BRAIN	1583		atidòha	atidòha 
+295	28-4-204-1	7725144829884924	Malagasy	plat1254	the face	FACE	1560		tarèhy	tarèhy 
+296	28-4-205-1	7725144208516481	Malagasy	plat1254	the forehead	FOREHEAD	123		hàndrina	hàndrina 
+297	28-4-207-1	7725144292645138	Malagasy	plat1254	the jaw	JAW	798		valanoràno	valanoràno 
+298	28-4-208-1	7725144974190769	Malagasy	plat1254	the cheek	CHEEK	1730		takòlaka	takòlaka 
+299	28-4-209-1	7725144619801563	Malagasy	plat1254	the chin	CHIN	1510		sàoka	sàoka 
+300	28-4-21-1	7725144361213335	Malagasy	plat1254	the eye	EYE	1248		màso	màso 
+301	28-4-212-1	7725144519675642	Malagasy	plat1254	the eyebrow	EYEBROW	1173		manjamàso	manjamàso 
+302	28-4-213-1	772514487284856	Malagasy	plat1254	the eyelid	EYELID	17		hodimàso	hodimàso 
+303	28-4-214-1	7725144487032775	Malagasy	plat1254	the eyelash	EYELASH	1540		volomàso	volomàso 
+304	28-4-215-1	7725144878161678	Malagasy	plat1254	to blink	BLINK	1655		mipy	mipy 
+305	28-4-22-1	7725144722071321	Malagasy	plat1254	the ear	EAR	1247		sòfina	sòfina 
+306	28-4-22-2	7725144943675599	Malagasy	plat1254	the ear	EAR	1247		tadìny	tadìny 
+307	28-4-221-1	7725144945705894	Malagasy	plat1254	the earlobe	EARLOBE	18		tàdiny	tàdiny 
+308	28-4-222-1	772514412594050	Malagasy	plat1254	the earwax	EARWAX	32		taintsòfina	taintsòfina 
+309	28-4-23-1	7725144806702762	Malagasy	plat1254	the nose	NOSE	1221		òrona	òrona 
+310	28-4-231-1	7725144945307629	Malagasy	plat1254	the nostril	NOSTRIL	1178		vavòrona	vavòrona 
+311	28-4-232-1	772514418364384	Malagasy	plat1254	the nasal mucus	NASAL MUCUS (SNOT)	208		lèlo	lèlo 
+312	28-4-24-1	7725144632104329	Malagasy	plat1254	the mouth	MOUTH	674		vàva	vàva 
+313	28-4-241-1	7725144632104329	Malagasy	plat1254	the beak	BEAK	73		vàva	vàva 
+314	28-4-25-1	772514432613768	Malagasy	plat1254	the lip	LIP	478		mòlotra	mòlotra 
+315	28-4-26-1	7725144164082184	Malagasy	plat1254	the tongue	TONGUE	1205		lèla	lèla 
+316	28-4-27-1	7725144752347416	Malagasy	plat1254	the tooth	TOOTH	1380		nìfy	nìfy 
+317	28-4-271-1	7725144359008272	Malagasy	plat1254	the gums	GUMS	139		akànjo nìfy	akànjo nìfy 
+318	28-4-271-2	7725144328414396	Malagasy	plat1254	the gums	GUMS	139		hìhy	hìhy 
+319	28-4-272-1	7725144435902073	Malagasy	plat1254	the molar tooth	MOLAR TOOTH	1049		vàzana	vàzana 
+320	28-4-28-1	7725144388773418	Malagasy	plat1254	the neck	NECK	1333		vòzona	vòzona 
+321	28-4-281-1	7725144285472060	Malagasy	plat1254	the nape of the neck	NAPE (OF NECK)	1347		hàtoka	hàtoka 
+322	28-4-29-1	7725144619619155	Malagasy	plat1254	the throat	THROAT	1346		tènda	tènda 
+323	28-4-3-1	7725144840688072	Malagasy	plat1254	the shoulder	SHOULDER	1482		sòroka	sòroka 
+324	28-4-301-1	7725144968879364	Malagasy	plat1254	the shoulderblade	SHOULDERBLADE	172		rangomàina	rangomàina 
+325	28-4-302-1	7725144779807983	Malagasy	plat1254	the collarbone	COLLARBONE	1994		taolampanàvy	taolampanàvy 
+326	28-4-31-1	7725144286850982	Malagasy	plat1254	the arm	ARM	1673		sàndry	sàndry 
+327	28-4-312-1	7725144941315439	Malagasy	plat1254	the armpit	ARMPIT	1886		hèlika	hèlika 
+328	28-4-32-1	7725144646598612	Malagasy	plat1254	the elbow	ELBOW	981		kìho	kìho 
+329	28-4-321-1	772514419515344	Malagasy	plat1254	the wrist	WRIST	799		hatotànana	hatotànana 
+330	28-4-33-1	7725144876635675	Malagasy	plat1254	the hand	HAND	1277		tànana	tànana 
+331	28-4-331-1	7725144994191261	Malagasy	plat1254	the palm of the hand	PALM OF HAND	1183		felatànana	felatànana 
+332	28-4-34-1	7725144880711046	Malagasy	plat1254	the finger	FINGER	1303		rantsantànana	rantsantànana 
+333	28-4-342-1	7725144806363875	Malagasy	plat1254	the thumb	THUMB	1781		ankihibè	ankihibè 
+334	28-4-344-1	7725144307105061	Malagasy	plat1254	the fingernail	FINGERNAIL	1258		hòho	hòho 
+335	28-4-345-1	7725144307105061	Malagasy	plat1254	the claw	CLAW	72		hòho	hòho 
+336	28-4-35-1	7725144741575381	Malagasy	plat1254	the leg	LEG	1297		rànjo	rànjo 
+337	28-4-351-1	7725144166826539	Malagasy	plat1254	the thigh	THIGH	800		fè	fè 
+338	28-4-352-1	7725144599399543	Malagasy	plat1254	the calf of the leg	CALF OF LEG	498		kibondrànjo	kibondrànjo 
+339	28-4-36-1	7725144237334793	Malagasy	plat1254	the knee	KNEE	1371		lohàlika	lohàlika 
+340	28-4-37-1	7725144479368076	Malagasy	plat1254	the foot	FOOT	1301		tòngotra	tòngotra 
+341	28-4-371-1	7725144247936595	Malagasy	plat1254	the ankle	ANKLE	803		kìtro kèly	kìtro kèly 
+342	28-4-372-1	7725144222399335	Malagasy	plat1254	the heel	HEEL	980		voditòngotra	voditòngotra 
+343	28-4-374-1	7725144127457832	Malagasy	plat1254	the footprint	FOOTPRINT	318		diantòngotra	diantòngotra 
+344	28-4-38-1	772514425058857	Malagasy	plat1254	the toe	TOE	1389		rantsantòngotra	rantsantòngotra 
+345	28-4-392-1	7725144823302658	Malagasy	plat1254	the wing	WING	1257		èlatra	èlatra 
+346	28-4-393-1	772514412512205	Malagasy	plat1254	the feather	FEATHER	1201		volombòrona	volombòrona 
+347	28-4-4-1	7725144708454535	Malagasy	plat1254	the chest	CHEST	1592		tràtra	tràtra 
+348	28-4-41-1	7725144420348499	Malagasy	plat1254	the breast	BREAST	1402		nòno	nòno 
+349	28-4-412-1	772514487597959	Malagasy	plat1254	the nipple or teat	NIPPLE	796		lohanòno	lohanòno 
+350	28-4-42-1	7725144648135915	Malagasy	plat1254	the udder	UDDER	154		nono	nono 
+351	28-4-43-1	7725144322333412	Malagasy	plat1254	the navel	NAVEL	1838		foitra	foitra 
+352	28-4-44-1	7725144543550773	Malagasy	plat1254	the heart	HEART	1223		fo	fo 
+353	28-4-441-1	7725144983392312	Malagasy	plat1254	the lung	LUNG	688		avokàvoka	avokàvoka 
+354	28-4-45-1	7725144548618553	Malagasy	plat1254	the liver	LIVER	1224		àty	àty 
+355	28-4-451-1	7725144309086037	Malagasy	plat1254	the kidney	KIDNEY	489		vòa	vòa 
+356	28-4-452-1	7725144479750063	Malagasy	plat1254	the spleen	SPLEEN	1744		àry (1)	àry (1) 
+357	28-4-46-1	7725144705453086	Malagasy	plat1254	the stomach	STOMACH	819		ambavafò	ambavafò 
+358	28-4-46-2	7725144518734032	Malagasy	plat1254	the stomach	STOMACH	819		vavòny	vavòny 
+359	28-4-461-1	772514411376223	Malagasy	plat1254	the intestines or guts	INTESTINES	1991		tsìnay	tsìnay 
+360	28-4-462-1	7725144285029415	Malagasy	plat1254	the waist	WAIST	1681		andìlana	andìlana 
+361	28-4-463-1	7725144639062764	Malagasy	plat1254	the hip	HIP	1745		màoja	màoja 
+362	28-4-464-1	7725144911694845	Malagasy	plat1254	the buttocks	BUTTOCKS	834		vòdy	vòdy 
+363	28-4-464-2	7725144561644841	Malagasy	plat1254	the buttocks	BUTTOCKS	834		ravimbòdy	ravimbòdy 
+364	28-4-47-1	7725144714279993	Malagasy	plat1254	the womb	WOMB	804		vòhoka	vòhoka 
+365	28-4-49-1	7725144309086037	Malagasy	plat1254	the testicles	TESTICLES	797		vòa	vòa 
+366	28-4-492-1	7725144337645786	Malagasy	plat1254	the penis	PENIS	1222		làtaka	làtaka 
+367	28-4-51-1	7725144635688750	Malagasy	plat1254	to breathe	BREATHE	1407		miàina	miàina 
+368	28-4-52-1	7725144350189113	Malagasy	plat1254	to yawn	YAWN	1028		manòaka	manòaka 
+369	28-4-521-1	7725144222152493	Malagasy	plat1254	to hiccough	HICCOUGH	162		tsakoàhina	tsakoàhina 
+370	28-4-53-1	772514448725332	Malagasy	plat1254	to cough	COUGH	879		mikòhaka	mikòhaka 
+371	28-4-54-1	7725144433779285	Malagasy	plat1254	to sneeze	SNEEZE	1621		mièvina	mièvina 
+372	28-4-55-1	7725144617778629	Malagasy	plat1254	to perspire	SWEAT (PERSPIRE)	126		tsèmboka	tsèmboka 
+373	28-4-55-2	7725144873774436	Malagasy	plat1254	to perspire	SWEAT (PERSPIRE)	126		mivoadìnitra	mivoadìnitra 
+374	28-4-56-1	7725144867193961	Malagasy	plat1254	to spit	SPIT	1440		mandròra	mandròra 
+375	28-4-57-1	7725144955862447	Malagasy	plat1254	to vomit	VOMIT	1278		mandòa	mandòa 
+376	28-4-58-1	7725144635723391	Malagasy	plat1254	to bite	BITE	1403		manàikitra	manàikitra 
+377	28-4-59-1	7725144677666602	Malagasy	plat1254	to lick	LICK	319		milèlaka	milèlaka 
+378	28-4-591-1	7725144334357072	Malagasy	plat1254	to dribble	DRIBBLE	268		ràraka ìvy	ràraka ìvy 
+379	28-4-61-1	772514483457225	Malagasy	plat1254	to sleep	SLEEP	1585		matòry	matòry 
+380	28-4-61-2	7725144448238376	Malagasy	plat1254	to sleep	SLEEP	1585		màndry	màndry 
+381	28-4-612-1	7725144287473692	Malagasy	plat1254	to snore	SNORE	1983		mièrotra	mièrotra 
+382	28-4-62-1	7725144236187256	Malagasy	plat1254	to dream	DREAM (SOMETHING)	1920		manonòfy	manonòfy 
+383	28-4-63-1	7725144823716840	Malagasy	plat1254	to wake up	WAKE UP	1602		mifòha	mifòha 
+384	28-4-64-1	7725144422403807	Malagasy	plat1254	to fart	FART	1159		mangètotra	mangètotra 
+385	28-4-64-2	7725144102685957	Malagasy	plat1254	to fart	FART	1159		mandèfa rivodràtsy	mandèfa rivodràtsy 
+386	28-4-65-1	7725144393198257	Malagasy	plat1254	to piss	PISS	592		mamàny	mamàny 
+387	28-4-66-1	7725144156384165	Malagasy	plat1254	to shit	SHIT (DEFECATE)	676		mangèry	mangèry 
+388	28-4-66-2	7725144639359720	Malagasy	plat1254	to shit	SHIT (DEFECATE)	676		mivòaka	mivòaka 
+389	28-4-67-1	7725144937763228	Malagasy	plat1254	to have sex	HAVE SEX	1785		mìray	mìray 
+390	28-4-67-2	7725144905180095	Malagasy	plat1254	to have sex	HAVE SEX	1785		milèly	milèly 
+391	28-4-67-3	7725144993175936	Malagasy	plat1254	to have sex	HAVE SEX	1785		manào	manào 
+392	28-4-68-1	7725144935387460	Malagasy	plat1254	to shiver	SHIVER	52		mangòvitra	mangòvitra 
+393	28-4-69-1	7725144600233001	Malagasy	plat1254	to bathe	BATHE	138		màndro	màndro 
+394	28-4-71-1	772514484795236	Malagasy	plat1254	to beget	BEGET	1152		mitèraka	mitèraka 
+395	28-4-72-1	7725144388160611	Malagasy	plat1254	to be born	BE BORN	1090		tèraka	tèraka 
+396	28-4-73-1	772514459921747	Malagasy	plat1254	pregnant	PREGNANT	1123		be vòhoka	be vòhoka 
+397	28-4-732-1	772514493345751	Malagasy	plat1254	to conceive	CONCEIVE	1087		mitoejàza	mitoejàza 
+398	28-4-74-1	7725144894257571	Malagasy	plat1254	to be alive	BE ALIVE	1422		vèlona	vèlona 
+399	28-4-75-1	7725144435312684	Malagasy	plat1254	to die	DIE	1494		màty	màty 
+400	28-4-751-1	7725144706757050	Malagasy	plat1254	to drown	DROWN	1904		manàfotra	manàfotra 
+401	28-4-76-1	7725144601182974	Malagasy	plat1254	to kill	KILL	1417		mamòno (1)	mamòno (1) 
+402	28-4-77-1	7725144242461223	Malagasy	plat1254	the corpse	CORPSE	767		fàty	fàty 
+403	28-4-78-1	7725144720986534	Malagasy	plat1254	to bury	BURY	1719		mandèvina	mandèvina 
+404	28-4-79-1	7725144532274585	Malagasy	plat1254	the grave	GRAVE	1773		fàsana	fàsana 
+405	28-4-81-1	7725144721856600	Malagasy	plat1254	strong	STRONG	785		mahèry	mahèry 
+406	28-4-82-1	77251445095179	Malagasy	plat1254	weak	WEAK	1601		malèmy	malèmy 
+407	28-4-83-1	7725144890277967	Malagasy	plat1254	healthy	HEALTHY	1364		salàma	salàma 
+408	28-4-84-1	7725144145265391	Malagasy	plat1254	sick/ill	SICK	1847		maràry	maràry 
+409	28-4-84-2	7725144712458743	Malagasy	plat1254	sick/ill	SICK	1847		maròfy	maròfy 
+410	28-4-841-1	7725144832367748	Malagasy	plat1254	the fever	FEVER	1534		tàzo	tàzo 
+411	28-4-842-1	7725144638664379	Malagasy	plat1254	the goitre/goiter	GOITER	1957		bìbaka antènda	bìbaka antènda 
+412	28-4-843-1	7725144990533530	Malagasy	plat1254	the cold	COMMON COLD (DISEASE)	102		sèry	sèry 
+413	28-4-85-1	772514427083783	Malagasy	plat1254	the wound or sore	WOUND	1109		ràtra	ràtra 
+414	28-4-85-2	7725144593482813	Malagasy	plat1254	the wound or sore	WOUND	1109		fèry	fèry 
+415	28-4-852-1	7725144234216020	Malagasy	plat1254	the bruise	BRUISE	1148		hamangànana	hamangànana 
+416	28-4-853-1	7725144855960365	Malagasy	plat1254	the swelling	SWELLING	1903		bòntsina	bòntsina 
+417	28-4-853-2	7725144683887971	Malagasy	plat1254	the swelling	SWELLING	1903		fivontòsana	fivontòsana 
+418	28-4-854-1	772514487350867	Malagasy	plat1254	the itch	ITCH	148		hidihìdy	hidihìdy 
+419	28-4-855-1	7725144411772330	Malagasy	plat1254	the blister	BLISTER	1584		tsòvaka	tsòvaka 
+420	28-4-856-1	7725144812685673	Malagasy	plat1254	the boil	BOIL (OF SKIN)	793		vay	vay 
+421	28-4-857-1	7725144929963855	Malagasy	plat1254	the pus	PUS	1808		nàna	nàna 
+422	28-4-858-1	77251443852157	Malagasy	plat1254	the scar	SCAR	497		hòlatra	hòlatra 
+423	28-4-86-1	7725144698303140	Malagasy	plat1254	to cure	CURE	499		manasìtrana	manasìtrana 
+424	28-4-87-1	7725144884428017	Malagasy	plat1254	the physician	PHYSICIAN	597		dokotèra	dokotèra 
+425	28-4-88-1	7725144360953633	Malagasy	plat1254	the medicine	MEDICINE	1372		fanafòdy	fanafòdy 
+426	28-4-89-1	7725144617203335	Malagasy	plat1254	the poison	POISON	655		pòizina	pòizina 
+427	28-4-91-1	772514473833410	Malagasy	plat1254	tired	TIRED	1757		sàsatra	sàsatra 
+428	28-4-912-1	7725144832431776	Malagasy	plat1254	to rest	REST	168		miàla sàsatra	miàla sàsatra 
+429	28-4-912-2	7725144599704801	Malagasy	plat1254	to rest	REST	168		miàla vìzana	miàla vìzana 
+430	28-4-92-1	7725144130733397	Malagasy	plat1254	lazy	LAZY	1564		kàmo	kàmo 
+431	28-4-93-1	7725144360649388	Malagasy	plat1254	bald	BALD	1125		sòla	sòla 
+432	28-4-94-1	7725144137479115	Malagasy	plat1254	lame	LAME	320		mandrìnga	mandrìnga 
+433	28-4-95-1	7725144231564761	Malagasy	plat1254	deaf	DEAF	996		marènina	marènina 
+434	28-4-96-1	7725144108033744	Malagasy	plat1254	mute	MUTE	1666		mòana	mòana 
+435	28-4-97-1	7725144315501878	Malagasy	plat1254	blind	BLIND	1653		jàmba	jàmba 
+436	28-4-98-1	7725144990598524	Malagasy	plat1254	drunk	DRUNK	1463		màmo	màmo 
+437	28-4-99-1	7725144203363532	Malagasy	plat1254	naked	NAKED	590		mitànjaka	mitànjaka 
+438	28-5-11-1	7725144803463540	Malagasy	plat1254	to eat	EAT	1336		mihìnana	mihìnana 
+439	28-5-11-2	7725144810355639	Malagasy	plat1254	to eat	EAT	1336		hòmana	hòmana 
+440	28-5-12-1	7725144430408387	Malagasy	plat1254	the food	FOOD	256		hànina	hànina 
+441	28-5-12-2	772514425001099	Malagasy	plat1254	the food	FOOD	256		fihinànana	fihinànana 
+442	28-5-121-1	7725144166345558	Malagasy	plat1254	cooked	COOKED	269		màsaka	màsaka 
+443	28-5-122-1	7725144578310425	Malagasy	plat1254	raw	RAW	1959		mànta	mànta 
+444	28-5-123-1	7725144166345558	Malagasy	plat1254	ripe	RIPE	178		màsaka	màsaka 
+445	28-5-124-1	7725144578310425	Malagasy	plat1254	unripe	UNRIPE	1958		mànta	mànta 
+446	28-5-125-1	7725144802439128	Malagasy	plat1254	rotten	ROTTEN	1728		lo	lo 
+447	28-5-13-1	7725144410738214	Malagasy	plat1254	to drink	DRINK	1401		misòtro	misòtro 
+448	28-5-14-1	7725144123922030	Malagasy	plat1254	to be hungry	BE HUNGRY	1533		nòana	nòana 
+449	28-5-141-1	7725144381985744	Malagasy	plat1254	the famine	FAMINE	199		mosàry	mosàry 
+450	28-5-15-1	772514447744971	Malagasy	plat1254	to be thirsty	THIRSTY	847		mangetahèta	mangetahèta 
+451	28-5-16-1	7725144625716506	Malagasy	plat1254	to suck	SUCK	1421		minòno	minòno 
+452	28-5-18-1	7725144109474566	Malagasy	plat1254	to chew	CHEW	321		mitsàko	mitsàko 
+453	28-5-181-1	7725144544968940	Malagasy	plat1254	to swallow	SWALLOW	897		mitèlina	mitèlina 
+454	28-5-19-1	7725144331139983	Malagasy	plat1254	to choke	CHOKE	129		manakènda	manakènda 
+455	28-5-19-2	7725144968791179	Malagasy	plat1254	to choke	CHOKE	129		manèmpotra	manèmpotra 
+456	28-5-21-1	7725144325940302	Malagasy	plat1254	to cook	COOK (SOMETHING)	1100		mahàndro	mahàndro 
+457	28-5-22-1	7725144923825206	Malagasy	plat1254	to boil	BOIL (OF LIQUID)	792		mangòtraka	mangòtraka 
+458	28-5-22-2	7725144690052472	Malagasy	plat1254	to boil	BOIL (OF LIQUID)	792		mitànika	mitànika 
+459	28-5-23-1	7725144900034221	Malagasy	plat1254	to roast or fry	ROAST OR FRY	2146		manèndy	manèndy 
+460	28-5-23-2	7725144544577490	Malagasy	plat1254	to roast or fry	ROAST OR FRY	2146		mitòno	mitòno 
+461	28-5-25-1	7725144478392008	Malagasy	plat1254	the oven	OVEN	1143		lafàoro	lafàoro 
+462	28-5-26-1	7725144625411997	Malagasy	plat1254	the pot	POT	1462		vilàny	vilàny 
+463	28-5-27-1	7725144404098097	Malagasy	plat1254	the kettle	KETTLE	854		kafitèra	kafitèra 
+464	28-5-28-1	7725144613314105	Malagasy	plat1254	the pan	PAN	31		lapoàly	lapoàly 
+465	28-5-31-1	7725144703853962	Malagasy	plat1254	the dish	DISH	481		lovìa	lovìa 
+466	28-5-31-2	7725144947884540	Malagasy	plat1254	the dish	DISH	481		vilìa	vilìa 
+467	28-5-32-1	7725144703853962	Malagasy	plat1254	the plate	PLATE	480		lovìa	lovìa 
+468	28-5-33-1	7725144601155253	Malagasy	plat1254	the bowl	BOWL	1530		fìnga	fìnga 
+469	28-5-34-1	7725144769136558	Malagasy	plat1254	the jug/pitcher	JUG	270		sìny	sìny 
+470	28-5-35-1	7725144926659787	Malagasy	plat1254	the cup	CUP	476		kòpy	kòpy 
+471	28-5-36-1	7725144110879313	Malagasy	plat1254	the saucer	SAUCER	271		tàsy	tàsy 
+472	28-5-37-1	7725144884938020	Malagasy	plat1254	the spoon	SPOON	1378		sòtro	sòtro 
+473	28-5-39-1	7725144305687787	Malagasy	plat1254	the fork	FORK	1302		foròsety	foròsety 
+474	28-5-391-1	7725144100122475	Malagasy	plat1254	the tongs	TONGS	272		tàndra	tàndra 
+475	28-5-41-1	7725144137205012	Malagasy	plat1254	the meal	MEAL	1526		sakàfo	sakàfo 
+476	28-5-42-1	7725144394129621	Malagasy	plat1254	the breakfast	BREAKFAST	1322		sakàfo maràina	sakàfo maràina 
+477	28-5-43-1	772514480073113	Malagasy	plat1254	the lunch	LUNCH	768		sakàfo antoàndro	sakàfo antoàndro 
+478	28-5-46-1	7725144561393981	Malagasy	plat1254	to peel	PEEL	275		manèndaka	manèndaka 
+479	28-5-47-1	7725144847656355	Malagasy	plat1254	to sieve or to strain	SIEVE	86		manasìvana	manasìvana 
+480	28-5-48-1	7725144326978227	Malagasy	plat1254	to scrape	SCRAPE	1767		mikìky	mikìky 
+481	28-5-48-2	7725144976967879	Malagasy	plat1254	to scrape	SCRAPE	1767		mikàoka	mikàoka 
+482	28-5-49-1	7725144391978918	Malagasy	plat1254	to stir or to mix	MIX	2017		mampifangàro	mampifangàro 
+483	28-5-51-1	7725144869589402	Malagasy	plat1254	the bread	BREAD	1368		mòfo	mòfo 
+484	28-5-53-1	7725144937033228	Malagasy	plat1254	the dough	DOUGH	273		kòba	kòba 
+485	28-5-54-1	7725144370063029	Malagasy	plat1254	to knead	KNEAD	274		mangàro	mangàro 
+486	28-5-55-1	772514422901261	Malagasy	plat1254	the flour	FLOUR	1594		lafarìnina	lafarìnina 
+487	28-5-56-1	7725144276092375	Malagasy	plat1254	to crush or to grind	GRIND	1033		manorotòro	manorotòro 
+488	28-5-57-1	7725144668280583	Malagasy	plat1254	the mill	MILL	636		mìlina fitotòana	mìlina fitotòana 
+489	28-5-58-1	7725144685439846	Malagasy	plat1254	the mortar(1)	MORTAR CRUSHER	224		làona	làona 
+490	28-5-59-1	7725144118171970	Malagasy	plat1254	the pestle	PESTLE	225		fanòto	fanòto 
+491	28-5-61-1	7725144399748310	Malagasy	plat1254	the meat	MEAT	634		hèna	hèna 
+492	28-5-63-1	7725144994461802	Malagasy	plat1254	the sausage	SAUSAGE	1874		saosìsy	saosìsy 
+493	28-5-64-1	7725144979726655	Malagasy	plat1254	the soup	SOUP	1547		lasòpy	lasòpy 
+494	28-5-65-1	7725144178676894	Malagasy	plat1254	the vegetables	VEGETABLES	924		ànana	ànana 
+495	28-5-66-1	7725144587068007	Malagasy	plat1254	the bean	BEAN	832		tsaramàso	tsaramàso 
+496	28-5-7-1	7725144818256038	Malagasy	plat1254	the potato	POTATO	593		ovimbazàha	ovimbazàha 
+497	28-5-71-1	7725144920011964	Malagasy	plat1254	the fruit	FRUIT	1507		vòa	vòa 
+498	28-5-71-2	7725144736665173	Malagasy	plat1254	the fruit	FRUIT	1507		voankàzo	voankàzo 
+499	28-5-712-1	7725144229248993	Malagasy	plat1254	the bunch	BUNCH	1966		fehèzana	fehèzana 
+500	28-5-75-1	7725144689707425	Malagasy	plat1254	the fig	FIG	322		aviàvy	aviàvy 
+501	28-5-76-1	7725144388905338	Malagasy	plat1254	the grape	GRAPE	920		voalòboka	voalòboka 
+502	28-5-78-1	7725144632763378	Malagasy	plat1254	the olive	OLIVE	1154		olìva	olìva 
+503	28-5-79-1	7725144687179596	Malagasy	plat1254	the oil	OIL (ORGANIC SUBSTANCE)	1484		diloìlo	diloìlo 
+504	28-5-791-1	7725144623970346	Malagasy	plat1254	the grease or fat	FAT (ORGANIC SUBSTANCE)	323		mènaka	mènaka 
+505	28-5-81-1	7725144330673628	Malagasy	plat1254	the salt	SALT	1274		sìra	sìra 
+506	28-5-82-1	7725144179187383	Malagasy	plat1254	the pepper	PEPPER	1385		dipoàvatra	dipoàvatra 
+507	28-5-821-1	7725144609429393	Malagasy	plat1254	the chili pepper	CHILI PEPPER	919		sakày	sakày 
+508	28-5-84-1	772514441764482	Malagasy	plat1254	the honey	HONEY	942		tantèly	tantèly 
+509	28-5-85-1	7725144656731976	Malagasy	plat1254	the sugar	SUGAR	862		siramàmy	siramàmy 
+510	28-5-86-1	7725144312971464	Malagasy	plat1254	the milk	MILK	635		ronòno	ronòno 
+511	28-5-87-1	7725144773048235	Malagasy	plat1254	to milk	DRAW MILK	93		mitèry	mitèry 
+512	28-5-88-1	7725144174994677	Malagasy	plat1254	the cheese	CHEESE	1569		foromàzy	foromàzy 
+513	28-5-89-1	772514480806644	Malagasy	plat1254	the butter	BUTTER	1245		dibèra	dibèra 
+514	28-5-9-1	7725144701911289	Malagasy	plat1254	the drink	BEVERAGE	731		fisòtro	fisòtro 
+515	28-5-92-1	7725144513532591	Malagasy	plat1254	the wine	WINE	1524		divày	divày 
+516	28-5-93-1	7725144234312819	Malagasy	plat1254	the beer	BEER	1639		labièra	labièra 
+517	28-5-94-1	7725144833412624	Malagasy	plat1254	the fermented drink	ALCOHOL (FERMENTED DRINK)	404		tòaka	tòaka 
+518	28-5-97-1	7725144160442925	Malagasy	plat1254	the egg	EGG	744		atòdy	atòdy 
+519	28-5-971-1	7725144185232922	Malagasy	plat1254	the yolk	YOLK	1556		tamènaka	tamènaka 
+520	28-6-11-1	7725144246194170	Malagasy	plat1254	to put on	PUT ON	158		mi-akànjo	mi-akànjo 
+521	28-6-12-1	7725144836891276	Malagasy	plat1254	the clothing or clothes	CLOTHES	1895		akànjo	akànjo 
+522	28-6-13-1	7725144437896479	Malagasy	plat1254	the tailor	TAILOR	881		mpanjàitra	mpanjàitra 
+523	28-6-21-1	7725144176349286	Malagasy	plat1254	the cloth	CLOTH	1616		lamba	lamba 
+524	28-6-22-1	7725144770531509	Malagasy	plat1254	the wool	WOOL	964		volonòndry	volonòndry 
+525	28-6-23-1	7725144929780672	Malagasy	plat1254	the linen	LINEN	916		(làmba) rongonimbazàha	(làmba) rongonimbazàha 
+526	28-6-24-1	7725144926044003	Malagasy	plat1254	the cotton	COTTON	1850		landihàzo	landihàzo 
+527	28-6-25-1	772514437182676	Malagasy	plat1254	the silk	SILK	1641		lasòa	lasòa 
+528	28-6-25-2	7725144713434913	Malagasy	plat1254	the silk	SILK	1641		làmba làndy	làmba làndy 
+529	28-6-27-1	7725144295832875	Malagasy	plat1254	the felt	FELT	325		bonìa	bonìa 
+530	28-6-27-2	7725144433764982	Malagasy	plat1254	the felt	FELT	325		bonètra	bonètra 
+531	28-6-28-1	7725144107244569	Malagasy	plat1254	the fur	FUR	580		volombìby	volombìby 
+532	28-6-29-1	7725144714190013	Malagasy	plat1254	the leather	LEATHER	629		hòditra	hòditra 
+533	28-6-31-1	772514483774352	Malagasy	plat1254	to spin	SPIN	121		mamòly	mamòly 
+534	28-6-32-1	7725144462893797	Malagasy	plat1254	the spindle	SPINDLE	277		ampèla	ampèla 
+535	28-6-33-1	7725144793487746	Malagasy	plat1254	to weave	WEAVE	133		manènona	manènona 
+536	28-6-34-1	772514421534452	Malagasy	plat1254	the loom	LOOM	1787		fanenòmana	fanenòmana 
+537	28-6-35-1	7725144315971303	Malagasy	plat1254	to sew	SEW	1457		manjàitra	manjàitra 
+538	28-6-36-1	7725144770393508	Malagasy	plat1254	the needle(1)	NEEDLE (FOR SEWING)	1382		fanjàitra	fanjàitra 
+539	28-6-36-2	7725144512006026	Malagasy	plat1254	the needle(1)	NEEDLE (FOR SEWING)	1382		fìlo	fìlo 
+540	28-6-37-1	7725144936030827	Malagasy	plat1254	the awl	AWL	278		hàolo	hàolo 
+541	28-6-38-1	7725144557934622	Malagasy	plat1254	the thread	THREAD	1161		kofèhy	kofèhy 
+542	28-6-38-2	77251448083473	Malagasy	plat1254	the thread	THREAD	1161		foly	foly 
+543	28-6-38-3	7725144681128120	Malagasy	plat1254	the thread	THREAD	1161		tarètra	tarètra 
+544	28-6-39-1	7725144118492190	Malagasy	plat1254	to dye	DYE	157		mandòko	mandòko 
+545	28-6-41-1	7725144867376075	Malagasy	plat1254	the cloak	CLOAK	326		kapàoty	kapàoty 
+546	28-7-37-1	7725144602119913	Malagasy	plat1254	the ladder	LADDER	1464		tòhatra	tòhatra 
+547	28-6-42-1	7725144397079749	Malagasy	plat1254	the (woman's) dress	DRESS	474		zìpo	zìpo 
+548	28-6-42-2	772514498435129	Malagasy	plat1254	the (woman's) dress	DRESS	474		ròbo	ròbo 
+549	28-6-43-1	7725144867376075	Malagasy	plat1254	the coat	COAT	603		kapàoty	kapàoty 
+550	28-6-44-1	7725144188269855	Malagasy	plat1254	the shirt	SHIRT	1622		lòbaka	lòbaka 
+551	28-6-45-1	77251447202989	Malagasy	plat1254	the collar	COLLAR	2012		vozon’akànjo	vozon’akànjo 
+552	28-6-46-1	7725144164914068	Malagasy	plat1254	the skirt	SKIRT	1600		zipò	zipò 
+553	28-6-48-1	7725144908067622	Malagasy	plat1254	the trousers	TROUSERS	809		patalòha	patalòha 
+554	28-6-49-1	7725144182869389	Malagasy	plat1254	the sock or stocking	STOCKING	329		ba, bankiràro	ba 
+555	28-6-49-2	7725144182869389	Malagasy	plat1254	the sock or stocking	STOCKING	329		ba, bankiràro	bankiràro 
+556	28-6-51-1	7725144205745636	Malagasy	plat1254	the shoe	SHOE	1381		kiràro	kiràro 
+557	28-6-52-1	7725144476141563	Malagasy	plat1254	the boot	BOOT	585		bàoty	bàoty 
+558	28-6-54-1	7725144707582306	Malagasy	plat1254	the shoemaker	SHOEMAKER	875		mpanào kiràro	mpanào kiràro 
+559	28-6-55-1	7725144528387223	Malagasy	plat1254	the hat or cap	HEADGEAR	2130		sàtroka	sàtroka 
+560	28-6-57-1	7725144872928699	Malagasy	plat1254	the belt	BELT	772		fehikìbo	fehikìbo 
+561	28-6-58-1	7725144167181380	Malagasy	plat1254	the glove	GLOVE	867		gantànana	gantànana 
+562	28-6-61-1	7725144987446729	Malagasy	plat1254	the pocket	POCKET	1851		pàosy	pàosy 
+563	28-6-62-1	7725144946311910	Malagasy	plat1254	the button	BUTTON	757		bòkotra	bòkotra 
+564	28-6-63-1	7725144993283715	Malagasy	plat1254	the pin	PIN	64		pàingotra	pàingotra 
+565	28-6-71-1	7725144305233526	Malagasy	plat1254	the ornament or adornment	ORNAMENT	917		hàingo	hàingo 
+566	28-6-72-1	7725144133312944	Malagasy	plat1254	the jewel	JEWEL	1029		ràvaka	ràvaka 
+567	28-6-72-2	7725144275062241	Malagasy	plat1254	the jewel	JEWEL	1029		vatosòa	vatosòa 
+568	28-6-73-1	7725144661488349	Malagasy	plat1254	the ring	RING	1374		pèratra	pèratra 
+569	28-6-74-1	7725144474312233	Malagasy	plat1254	the bracelet	BRACELET	1754		vangovàngo	vangovàngo 
+570	28-6-74-2	7725144590314357	Malagasy	plat1254	the bracelet	BRACELET	1754		fehintànana	fehintànana 
+571	28-6-75-1	7725144576931194	Malagasy	plat1254	the necklace	NECKLACE	1961		fehivòzona	fehivòzona 
+572	28-6-76-1	7725144663087595	Malagasy	plat1254	the bead	BEAD	1860		vàkana	vàkana 
+573	28-6-77-1	772514433668328	Malagasy	plat1254	the earring	EARRING	770		kàvina	kàvina 
+574	28-6-78-1	7725144333123887	Malagasy	plat1254	the headband or headdress	HEADBAND	330		fehilòha	fehilòha 
+575	28-6-79-1	7725144837874653	Malagasy	plat1254	the tattoo	TATTOO	68		havàtsa	havàtsa 
+576	28-6-81-1	7725144650306382	Malagasy	plat1254	the handkerchief or rag	RAG	332		mosàra	mosàra 
+577	28-6-82-1	7725144385144465	Malagasy	plat1254	the towel	TOWEL	1021		serivièta	serivièta 
+578	28-6-91-1	772514474139224	Malagasy	plat1254	the comb	COMB	1475		fihògo	fihògo 
+579	28-6-92-1	772514464886632	Malagasy	plat1254	the brush	BRUSH	1821		boròsy	boròsy 
+580	28-6-921-1	7725144154181698	Malagasy	plat1254	the plait/braid	BRAID	1043		ràndrana	ràndrana 
+581	28-6-921-2	7725144458587645	Malagasy	plat1254	the plait/braid	BRAID	1043		ràry (2)	ràry (2) 
+582	28-6-93-1	77251449240326	Malagasy	plat1254	the razor	RAZOR	151		harèza	harèza 
+583	28-6-94-1	7725144186147550	Malagasy	plat1254	the ointment	OINTMENT	1926		lakomàdina	lakomàdina 
+584	28-6-95-1	7725144472463651	Malagasy	plat1254	the soap	SOAP	788		savòny	savòny 
+585	28-6-96-1	7725144763559454	Malagasy	plat1254	the mirror	MIRROR	1171		fitàratra	fitàratra 
+586	28-7-11-1	7725144988468737	Malagasy	plat1254	to live	DWELL (LIVE, RESIDE)	363		mitòetra	mitòetra 
+587	28-7-11-2	7725144642339043	Malagasy	plat1254	to live	DWELL (LIVE, RESIDE)	363		mònina	mònina 
+588	28-7-12-1	7725144549600641	Malagasy	plat1254	the house	HOUSE	1252		tràno	tràno 
+589	28-7-13-1	7725144308401538	Malagasy	plat1254	the hut	HUT	1678		tràno bòngo	tràno bòngo 
+590	28-7-14-1	7725144322626110	Malagasy	plat1254	the tent	TENT	1316		lay	lay 
+591	28-7-15-1	772514452184140	Malagasy	plat1254	the yard or court	YARD	736		tokotàny	tokotàny 
+592	28-7-17-1	7725144100333116	Malagasy	plat1254	the cookhouse	COOKHOUSE	334		lakozìa	lakozìa 
+593	28-7-17-2	7725144357883890	Malagasy	plat1254	the cookhouse	COOKHOUSE	334		fahandròana	fahandròana 
+594	28-7-17-3	7725144558220875	Malagasy	plat1254	the cookhouse	COOKHOUSE	334		fandrahòana	fandrahòana 
+595	28-7-18-1	772514425561594	Malagasy	plat1254	the meeting house	MEETING HOUSE	335		tranompokonòlona	tranompokonòlona 
+596	28-7-21-1	7725144240246308	Malagasy	plat1254	the room	ROOM	1450		èfitra	èfitra 
+597	28-7-22-1	7725144284072722	Malagasy	plat1254	the door or gate	DOOR	1567		varavàrana	varavàrana 
+598	28-7-221-1	7725144153367951	Malagasy	plat1254	the doorpost	DOORPOST	80		àndry	àndry 
+599	28-7-23-1	7725144694968934	Malagasy	plat1254	the lock	LOCK	1596		hìdy	hìdy 
+600	28-7-231-1	7725144694968934	Malagasy	plat1254	the latch or door-bolt	LATCH	1012		hìdy	hìdy 
+601	28-7-24-1	7725144783968645	Malagasy	plat1254	the key	KEY	1472		fanalahìdy	fanalahìdy 
+602	28-7-25-1	7725144533935345	Malagasy	plat1254	the window	WINDOW	1375		varavarankèly	varavarankèly 
+603	28-7-26-1	7725144162943712	Malagasy	plat1254	the floor	FLOOR	1632		ngoròdona	ngoròdona 
+604	28-7-27-1	7725144549797503	Malagasy	plat1254	the wall	WALL (OF HOUSE)	933		rìndrina	rìndrina 
+605	28-7-31-1	7725144568983160	Malagasy	plat1254	the fireplace	FIREPLACE	185		fàtana	fàtana 
+606	28-7-32-1	7725144478392008	Malagasy	plat1254	the stove	STOVE	859		lafàoro	lafàoro 
+607	28-7-33-1	7725144949504051	Malagasy	plat1254	the chimney	CHIMNEY	1305		fivoahantsètroka	fivoahantsètroka 
+608	28-7-42-1	7725144966595354	Malagasy	plat1254	the bed	BED	1663		fandrìana	fandrìana 
+609	28-7-421-1	7725144908023597	Malagasy	plat1254	the pillow	PILLOW	1044		òndana	òndana 
+610	28-7-422-1	7725144543265321	Malagasy	plat1254	the blanket	BLANKET	806		bodofòtsy	bodofòtsy 
+611	28-7-43-1	7725144526371427	Malagasy	plat1254	the chair	CHAIR	1476		sèza	sèza 
+612	28-7-44-1	7725144326367683	Malagasy	plat1254	the table	TABLE	1775		latàbatra	latàbatra 
+613	28-7-45-1	7725144118557810	Malagasy	plat1254	the lamp or torch	TORCH OR LAMP	2131		jìro	jìro 
+614	28-7-46-1	7725144502428108	Malagasy	plat1254	the candle	CANDLE	1273		laboz`y	laboz`y 
+615	28-7-47-1	7725144133293654	Malagasy	plat1254	the shelf	SHELF	745		talan-tàlana	talan-tàlana 
+616	28-7-48-1	7725144959145429	Malagasy	plat1254	the trough	TROUGH	205		tàvy	tàvy 
+617	28-7-51-1	7725144857428503	Malagasy	plat1254	the roof	ROOF	769		tàfo	tàfo 
+618	28-7-52-1	7725144958313334	Malagasy	plat1254	the thatch	THATCH	279		tàfo bòzaka	tàfo bòzaka 
+619	28-7-53-1	7725144157007488	Malagasy	plat1254	the ridgepole	RIDGEPOLE	280		vovònana	vovònana 
+620	28-7-54-1	7725144869030756	Malagasy	plat1254	the rafter	RAFTER	829		lohatràno	lohatràno 
+621	28-7-55-1	7725144734027061	Malagasy	plat1254	the beam	BEAM	1132		sakamandìmby	sakamandìmby 
+622	28-7-56-1	7725144782591513	Malagasy	plat1254	the post or pole	POST	281		tsatokàzo	tsatokàzo 
+623	28-7-57-1	7725144656558583	Malagasy	plat1254	the board	BOARD	1227		hazofìsaka	hazofìsaka 
+624	28-7-58-1	7725144531388786	Malagasy	plat1254	the arch	ARCH	876		andohalàmbo	andohalàmbo 
+625	28-7-61-1	7725144663302049	Malagasy	plat1254	the mason	MASON	877		tambàto	tambàto 
+626	28-7-62-1	7725144294554162	Malagasy	plat1254	the brick	BRICK	1006		birìky	birìky 
+627	28-7-63-1	7725144404726530	Malagasy	plat1254	the mortar(2)	MORTAR BINDER	1731		fèta	fèta 
+628	28-8-11-1	7725144461392568	Malagasy	plat1254	the farmer	FARMER	979		mpambòly	mpambòly 
+629	28-8-12-1	7725144769596237	Malagasy	plat1254	the field	FIELD	212		sàha	sàha 
+630	28-8-12-2	7725144104995317	Malagasy	plat1254	the field	FIELD	212		tanimbòly	tanimbòly 
+631	28-8-13-1	7725144769596237	Malagasy	plat1254	the garden	GARDEN	586		sàha	sàha 
+632	28-8-13-2	7725144734697492	Malagasy	plat1254	the garden	GARDEN	586		zaridaina	zaridaina 
+633	28-8-15-1	7725144329611142	Malagasy	plat1254	to cultivate	CULTIVATE	1541		mambòly	mambòly 
+634	28-8-16-1	7725144897769903	Malagasy	plat1254	the fence	FENCE	1690		fèfy	fèfy 
+635	28-8-17-1	7725144118123859	Malagasy	plat1254	the ditch	DITCH	2002		hàdy	hàdy 
+636	28-8-21-1	7725144132896889	Malagasy	plat1254	to plough/plow	PLOUGH	1921		angadinòmby	angadinòmby 
+637	28-8-212-1	7725144566854170	Malagasy	plat1254	the furrow	FURROW	1794		sorisòritra	sorisòritra 
+638	28-8-22-1	7725144455247092	Malagasy	plat1254	to dig	DIG	1418		mihàdy	mihàdy 
+639	28-8-23-1	772514477474985	Malagasy	plat1254	the spade	SPADE	1176		angàdy	angàdy 
+640	28-8-24-1	7725144694979299	Malagasy	plat1254	the shovel	SHOVEL	1901		lapèlina	lapèlina 
+641	28-8-25-1	772514477474985	Malagasy	plat1254	the hoe	HOE	284		angàdy	angàdy 
+642	28-8-27-1	772514443334056	Malagasy	plat1254	the rake	RAKE	338		fihogontàny	fihogontàny 
+643	28-8-31-1	7725144907774108	Malagasy	plat1254	to sow	SOW SEEDS	748		mamàfy	mamàfy 
+644	28-8-311-1	7725144309086037	Malagasy	plat1254	the seed	SEED	714		vòa	vòa 
+645	28-8-32-1	7725144556115750	Malagasy	plat1254	to mow	MOW	190		mijìnja	mijìnja 
+646	28-8-34-1	7725144415458857	Malagasy	plat1254	to thresh	THRESH	285		mivèly (vàry)	mivèly (vàry) 
+647	28-8-41-1	7725144368512823	Malagasy	plat1254	the harvest	HARVEST	611		vòkatra	vòkatra 
+648	28-8-42-1	7725144309086037	Malagasy	plat1254	the grain	GRAIN	605		vòa	vòa 
+649	28-8-43-1	7725144428226601	Malagasy	plat1254	the wheat	WHEAT	1077		varimbazàha	varimbazàha 
+650	28-8-47-1	7725144452584338	Malagasy	plat1254	the maize/corn	MAIZE	506		kàtsaka	kàtsaka 
+651	28-8-48-1	7725144622276194	Malagasy	plat1254	the rice	RICE	926		vàry	vàry 
+652	28-8-51-1	7725144428203211	Malagasy	plat1254	the grass	GRASS	606		àhitra	àhitra 
+653	28-8-52-1	7725144153747006	Malagasy	plat1254	the hay	HAY	342		vìlona	vìlona 
+654	28-8-53-1	7725144511245676	Malagasy	plat1254	the plant	PLANT (VEGETATION)	653		zavamanìry	zavamanìry 
+655	28-8-531-1	7725144329611142	Malagasy	plat1254	to plant	PLANT (SOMETHING)	1486		mambòly	mambòly 
+656	28-8-54-1	7725144136154186	Malagasy	plat1254	the root	ROOT	670		fàka	fàka 
+657	28-8-54-2	7725144244566279	Malagasy	plat1254	the root	ROOT	670		fòtotra	fòtotra 
+658	28-8-55-1	772514454676701	Malagasy	plat1254	the branch	BRANCH OR TWIG	3223		ràntsana	ràntsana 
+659	28-8-56-1	7725144860336584	Malagasy	plat1254	the leaf	LEAF	628		ràvina	ràvina 
+660	28-8-57-1	7725144448996263	Malagasy	plat1254	the flower	FLOWER	239		vòny (1)	vòny (1) 
+661	28-8-6-1	7725144133092593	Malagasy	plat1254	the tree	TREE	906		hàzo	hàzo 
+662	28-8-64-1	7725144726196473	Malagasy	plat1254	the pine	PINE	1740		hàzo kèsika	hàzo kèsika 
+663	28-8-67-1	7725144388905338	Malagasy	plat1254	the vine	VINE	343		voalòboka	voalòboka 
+664	28-8-68-1	7725144886243761	Malagasy	plat1254	the tobacco	TOBACCO	974		paràky	paràky 
+665	28-8-69-1	7725144313184421	Malagasy	plat1254	to smoke	SMOKE (INHALE)	1689		mifòka	mifòka 
+666	28-8-691-1	7725144813548266	Malagasy	plat1254	the pipe	PIPE	1124		pìpa	pìpa 
+667	28-8-72-1	7725144312858166	Malagasy	plat1254	the tree stump	TREE STUMP	241		fotokàzo	fotokàzo 
+668	28-8-73-1	7725144492114465	Malagasy	plat1254	the tree trunk	TREE TRUNK	344		vatankàzo	vatankàzo 
+669	28-8-74-1	7725144954785200	Malagasy	plat1254	the forked branch	FORKED BRANCH	409		sàmpana	sàmpana 
+670	28-8-75-1	7725144939301033	Malagasy	plat1254	the bark	BARK	1204		hodikàzo	hodikàzo 
+671	28-8-76-1	7725144514183066	Malagasy	plat1254	the sap	SAP	345		tsironkàzo	tsironkàzo 
+672	28-8-82-1	7725144928533811	Malagasy	plat1254	the coconut	COCONUT	970		voanì(h)o	voanì(h)o 
+673	28-8-83-1	7725144739606896	Malagasy	plat1254	the citrus fruit	CITRUS FRUIT	1126		voasàry	voasàry 
+674	28-8-84-1	7725144222519206	Malagasy	plat1254	the banana	BANANA	868		akòndro	akòndro 
+675	28-8-91-1	7725144351429273	Malagasy	plat1254	the sweet potato	SWEET POTATO	159		vomanga	vomanga 
+676	28-8-912-1	7725144436421710	Malagasy	plat1254	the yam	YAM	410		òvy	òvy 
+677	28-8-92-1	772514445268964	Malagasy	plat1254	the cassava/manioc	CASSAVA	925		mangahàzo	mangahàzo 
+678	28-8-93-1	7725144509222305	Malagasy	plat1254	the gourd	GOURD	411		tàvo, voatàvo	tàvo 
+679	28-8-93-2	7725144509222305	Malagasy	plat1254	the gourd	GOURD	411		tàvo, voatàvo	voatàvo 
+680	28-8-931-1	7725144509222305	Malagasy	plat1254	the pumpkin or squash	PUMPKIN	864		tàvo, voatàvo	tàvo 
+681	28-8-931-2	7725144509222305	Malagasy	plat1254	the pumpkin or squash	PUMPKIN	864		tàvo, voatàvo	voatàvo 
+682	28-8-94-1	7725144832955221	Malagasy	plat1254	the bamboo	BAMBOO	1927		vòlo (2)	vòlo (2) 
+683	28-8-941-1	7725144475091425	Malagasy	plat1254	the sugar cane	SUGAR CANE	146		fàry	fàry 
+684	28-8-98-1	77251443852157	Malagasy	plat1254	the mushroom	MUSHROOM	641		hòlatra	hòlatra 
+685	28-9-11-1	7725144993175936	Malagasy	plat1254	to do	DO	813		manào	manào 
+686	28-9-12-1	7725144252846218	Malagasy	plat1254	the work	WORK (LABOUR)	984		àsa	àsa 
+687	28-9-14-1	7725144195566174	Malagasy	plat1254	to bend	BEND	2004		mandèfitra	mandèfitra 
+688	28-9-15-1	7725144644229175	Malagasy	plat1254	to fold	FOLD	1470		mamàlona	mamàlona 
+689	28-9-16-1	7725144139656364	Malagasy	plat1254	to tie	TIE	1917		mamàtotra	mamàtotra 
+690	28-9-161-1	7725144774401285	Malagasy	plat1254	to untie	UNTIE	352		mamàha	mamàha 
+691	28-9-18-1	7725144557963410	Malagasy	plat1254	the chain	CHAIN	1627		ròjo	ròjo 
+692	28-9-19-1	772514454178871	Malagasy	plat1254	the rope	ROPE	1218		tàdy	tàdy 
+693	28-9-192-1	7725144266326570	Malagasy	plat1254	the knot	KNOT	760		vòna	vòna 
+694	28-9-21-1	7725144998565879	Malagasy	plat1254	to strike or hit or beat	STRIKE OR BEAT	2133		mikàpoka	mikàpoka 
+695	28-9-21-2	7725144613931496	Malagasy	plat1254	to strike or hit or beat	STRIKE OR BEAT	2133		mamèly	mamèly 
+696	28-9-211-1	7725144998565879	Malagasy	plat1254	to pound	POUND	354		mikàpoka	mikàpoka 
+697	28-9-22-1	7725144224029074	Malagasy	plat1254	to cut	CUT	1432		mandìdy	mandìdy 
+698	28-9-221-1	7725144549743780	Malagasy	plat1254	to cut down	CUT DOWN	355		mikàpa	mikàpa 
+699	28-9-222-1	7725144997281260	Malagasy	plat1254	to chop	CHOP	155		manàpaka	manàpaka 
+700	28-9-23-1	7725144341226267	Malagasy	plat1254	the knife(2)	KNIFE	1352		àntsy	àntsy 
+701	28-9-24-1	7725144281389422	Malagasy	plat1254	the scissors or shears	SHEARS	356		hèty	hèty 
+702	28-9-25-1	7725144953629128	Malagasy	plat1254	the axe/ax	AXE	677		famàky	famàky 
+703	28-9-251-1	7725144625912097	Malagasy	plat1254	the adze	ADZE	290		eriminèty	eriminèty 
+704	28-9-26-1	7725144154033310	Malagasy	plat1254	to break	BREAK (DESTROY OR GET DESTROYED)	680		mamàky	mamàky 
+705	28-9-261-1	7725144454107471	Malagasy	plat1254	broken	BROKEN (NOT WORKING)	3190		vàky	vàky 
+706	28-9-27-1	7725144676156197	Malagasy	plat1254	to split	SPLIT	1437		manàtaka	manàtaka 
+707	28-9-28-1	7725144852959889	Malagasy	plat1254	to tear	TEAR (SHRED)	1735		mandròvitra	mandròvitra 
+708	28-9-83-1	772514480767583	Malagasy	plat1254	the statue	STATUE	1002		sarivòngana	sarivòngana 
+709	28-9-29-1	7725144561393981	Malagasy	plat1254	to skin	PULL OFF (SKIN)	291		manèndaka	manèndaka 
+710	28-9-31-1	7725144538653870	Malagasy	plat1254	to rub	RUB	1449		mamàoka	mamàoka 
+711	28-9-32-1	7725144746531454	Malagasy	plat1254	to stretch	STRETCH	214		mamèlatra	mamèlatra 
+712	28-9-33-1	7725144430645107	Malagasy	plat1254	to pull	PULL	1455		mitàrika	mitàrika 
+713	28-9-34-1	7725144746531454	Malagasy	plat1254	to spread out	SPREAD OUT	38		mamèlatra	mamèlatra 
+714	28-9-341-1	772514422852210	Malagasy	plat1254	to hang up	HANG UP	357		manàntona	manàntona 
+715	28-9-342-1	7725144508586441	Malagasy	plat1254	to press	PRESS	1913		manèry	manèry 
+716	28-9-343-1	7725144999328147	Malagasy	plat1254	to squeeze	SQUEEZE	1414		mamòritra	mamòritra 
+717	28-9-343-2	7725144239079099	Malagasy	plat1254	to squeeze	SQUEEZE	1414		mamìa	mamìa 
+718	28-9-343-3	7725144508586441	Malagasy	plat1254	to squeeze	SQUEEZE	1414		manèry	manèry 
+719	28-9-35-1	7725144556964351	Malagasy	plat1254	to pour	POUR	1487		manìdina	manìdina 
+720	28-9-36-1	7725144645237412	Malagasy	plat1254	to wash	WASH	1453		manàsa	manàsa 
+721	28-9-37-1	7725144212184802	Malagasy	plat1254	to sweep	SWEEP	230		mafàfa	mafàfa 
+722	28-9-38-1	7725144336774319	Malagasy	plat1254	the broom	BROOM	245		kifàfa	kifàfa 
+723	28-9-422-1	7725144176206213	Malagasy	plat1254	the tool	TOOL	1361		fiasàna	fiasàna 
+724	28-9-43-1	7725144250780845	Malagasy	plat1254	the carpenter	CARPENTER	1042		mpandràfitra	mpandràfitra 
+725	28-9-44-1	7725144812091251	Malagasy	plat1254	to build	BUILD	1840		mandràfitra	mandràfitra 
+726	28-9-46-1	7725144186492303	Malagasy	plat1254	to bore	BORE	1501		mandòaka	mandòaka 
+727	28-9-461-1	772514469268669	Malagasy	plat1254	to hollow out	HOLLOW OUT	46		mandàvaka	mandàvaka 
+728	28-9-461-2	7725144455247092	Malagasy	plat1254	to hollow out	HOLLOW OUT	46		mihàdy	mihàdy 
+729	28-9-48-1	7725144160574937	Malagasy	plat1254	the saw	SAW	1948		tsòfa	tsòfa 
+730	28-9-49-1	77251449869981	Malagasy	plat1254	the hammer	HAMMER	1481		tantànana	tantànana 
+731	28-9-49-2	7725144640250878	Malagasy	plat1254	the hammer	HAMMER	1481		marotò	marotò 
+732	28-9-5-1	7725144864535082	Malagasy	plat1254	the nail	NAIL (TOOL)	502		fàntsika	fàntsika 
+733	28-9-56-1	772514440447202	Malagasy	plat1254	the glue	GLUE	1069		dìnty	dìnty 
+734	28-9-56-2	7725144398469021	Malagasy	plat1254	the glue	GLUE	1069		lakàoly, lakòly	lakàoly 
+735	28-9-56-3	7725144398469021	Malagasy	plat1254	the glue	GLUE	1069		lakàoly, lakòly	lakòly 
+736	28-9-6-1	772514461516746	Malagasy	plat1254	the blacksmith	BLACKSMITH	1001		mpanèfy vy	mpanèfy vy 
+737	28-9-61-1	772514444099505	Malagasy	plat1254	to forge	FORGE	288		manèfy	manèfy 
+738	28-9-62-1	7725144860816739	Malagasy	plat1254	the anvil	ANVIL	1648		landàizana	landàizana 
+739	28-9-62-2	7725144217895382	Malagasy	plat1254	the anvil	ANVIL	1648		riandrìana	riandrìana 
+740	28-9-63-1	7725144556964351	Malagasy	plat1254	to cast	CAST	211		manìdina	manìdina 
+741	28-9-64-1	7725144321792960	Malagasy	plat1254	the gold	GOLD	1369		volamèna	volamèna 
+742	28-9-65-1	7725144398739078	Malagasy	plat1254	the silver	SILVER	759		volafòtsy	volafòtsy 
+743	28-9-66-1	7725144465871572	Malagasy	plat1254	the copper	COPPER	1825		varàhina	varàhina 
+744	28-9-67-1	7725144999673940	Malagasy	plat1254	the iron	IRON	621		vy	vy 
+745	28-9-68-1	7725144812267262	Malagasy	plat1254	the lead	LEAD (CHEMICAL ELEMENT)	627		fìraka	fìraka 
+746	28-9-69-1	7725144621649196	Malagasy	plat1254	the tin or tinplate	TIN OR TINPLATE	3217		vifòtsy	vifòtsy 
+747	28-9-71-1	7725144448284262	Malagasy	plat1254	the potter	POTTER	359		mpanèfy tanimànga	mpanèfy tanimànga 
+748	28-9-73-1	7725144504570872	Malagasy	plat1254	the clay	CLAY	1399		tanimànga	tanimànga 
+749	28-9-74-1	7725144763559454	Malagasy	plat1254	the glass	GLASS	604		fitàratra	fitàratra 
+750	28-9-75-1	7725144576330098	Malagasy	plat1254	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		mandràndrana	mandràndrana 
+751	28-9-75-2	7725144497488742	Malagasy	plat1254	to weave or plait/braid	BRAID (VERB) OR WEAVE (BASKET)	3294		mandràry	mandràry 
+752	28-9-76-1	772514442256604	Malagasy	plat1254	the basket	BASKET	1539		hàrona	hàrona 
+753	28-9-77-1	7725144827852969	Malagasy	plat1254	the mat	MAT	195		tsìhy	tsìhy 
+754	28-9-771-1	772514495798599	Malagasy	plat1254	the rug	RUG	292		karipèta	karipèta 
+755	28-9-79-1	7725144701435276	Malagasy	plat1254	the fan	FAN (OBJECT)	1971		fikòpaka	fikòpaka 
+756	28-9-791-1	7725144898707463	Malagasy	plat1254	to fan	FAN ACTION	360		mikòpaka	mikòpaka 
+757	28-9-81-1	7725144140350106	Malagasy	plat1254	to carve	CARVE	228		misòkitra	misòkitra 
+758	28-9-82-1	7725144420064531	Malagasy	plat1254	the sculptor	SCULPTOR	914		mpanào sòkitra	mpanào sòkitra 
+759	28-9-84-1	7725144203514081	Malagasy	plat1254	the chisel	CHISEL	1979		fàndraka	fàndraka 
+760	28-9-88-1	7725144803633074	Malagasy	plat1254	the paint	PAINT (PIGMENTS)	647		lòko	lòko 
+761	28-9-89-1	7725144118492190	Malagasy	plat1254	to paint	PAINTING	2001		mandòko	mandòko 
+762	28-10-11-1	7725144838622611	Malagasy	plat1254	to move	MOVE	765		mihètsika	mihètsika 
+763	28-10-12-1	7725144463009945	Malagasy	plat1254	to turn	TURN	1588		mamàdika	mamàdika 
+764	28-10-12-2	7725144178211823	Malagasy	plat1254	to turn	TURN	1588		manòdina	manòdina 
+765	28-10-13-1	772514448026789	Malagasy	plat1254	to turn around	TURN (SOMETHING)	1445		mihòdina	mihòdina 
+766	28-10-13-2	7725144963545175	Malagasy	plat1254	to turn around	TURN (SOMETHING)	1445		mitòdika	mitòdika 
+767	28-10-14-1	7725144391935042	Malagasy	plat1254	to wrap	WRAP	1113		mamòno (2)	mamòno (2) 
+768	28-10-15-1	7725144290885773	Malagasy	plat1254	to roll	ROLL	827		manakodìa	manakodìa 
+769	28-10-16-1	7725144338049093	Malagasy	plat1254	to drop	DROP (SOMETHING)	2866		mamòtraka	mamòtraka 
+770	28-10-16-2	7725144974329951	Malagasy	plat1254	to drop	DROP (SOMETHING)	2866		mandàtsaka	mandàtsaka 
+771	28-10-16-3	7725144788751968	Malagasy	plat1254	to drop	DROP (SOMETHING)	2866		manjèra	manjèra 
+772	28-10-17-1	7725144668564692	Malagasy	plat1254	to twist	TWIST (AROUND)	3199		manòlana	manòlana 
+773	28-10-21-1	7725144133768790	Malagasy	plat1254	to rise	RISE (MOVE UPWARDS)	568		mipòsaka	mipòsaka 
+774	28-10-21-2	7725144823716840	Malagasy	plat1254	to rise	RISE (MOVE UPWARDS)	568		mifòha	mifòha 
+775	28-10-21-3	7725144118033107	Malagasy	plat1254	to rise	RISE (MOVE UPWARDS)	568		mitsàngana	mitsàngana 
+776	28-10-22-1	7725144985941017	Malagasy	plat1254	to raise or lift	LIFT	501		manàinga	manàinga 
+777	28-10-22-2	7725144474218212	Malagasy	plat1254	to raise or lift	LIFT	501		manàndratra	manàndratra 
+778	28-10-22-3	772514462975227	Malagasy	plat1254	to raise or lift	LIFT	501		manòndrotra	manòndrotra 
+779	28-10-23-1	7725144309948306	Malagasy	plat1254	to fall	FALL	1280		mianjèra	mianjèra 
+780	28-10-23-2	772514411077492	Malagasy	plat1254	to fall	FALL	1280		mihìntsana	mihìntsana 
+781	28-10-24-1	7725144879233380	Malagasy	plat1254	to drip	DRIP (EMIT LIQUID)	2253		mitète	mitète 
+782	28-10-25-1	7725144596912800	Malagasy	plat1254	to throw	THROW	1456		mitòraka	mitòraka 
+783	28-10-252-1	7725144391283985	Malagasy	plat1254	to catch	CATCH	702		misàmbotra	misàmbotra 
+784	28-10-26-1	772514430257940	Malagasy	plat1254	to shake	SHAKE	1909		manètsika	manètsika 
+785	28-10-32-1	7725144649226943	Malagasy	plat1254	to flow	FLOW	2003		mangorìana	mangorìana 
+786	28-10-33-1	7725144258915465	Malagasy	plat1254	to sink	SINK (DESCEND)	1088		milèntika	milèntika 
+787	28-10-33-2	7725144259278568	Malagasy	plat1254	to sink	SINK (DESCEND)	1088		mandrèndrika	mandrèndrika 
+788	28-10-34-1	7725144908600361	Malagasy	plat1254	to float	FLOAT	1574		mitsinkàfona	mitsinkàfona 
+789	28-10-35-1	7725144364588905	Malagasy	plat1254	to swim	SWIM	1439		milomàno	milomàno 
+790	28-10-351-1	7725144921226438	Malagasy	plat1254	to dive	DIVE	119		mandèntika	mandèntika 
+791	28-10-352-1	7725144395260817	Malagasy	plat1254	to splash	SPLASH	365		mipitipìtika	mipitipìtika 
+792	28-10-37-1	7725144682202060	Malagasy	plat1254	to fly	FLY (MOVE THROUGH AIR)	1441		manìdina	manìdina 
+793	28-10-38-1	7725144244448008	Malagasy	plat1254	to blow	BLOW (OF WIND)	175		mitsìoka	mitsìoka 
+794	28-10-41-1	772514468372557	Malagasy	plat1254	to crawl	CRAWL	96		mandàdy	mandàdy 
+795	28-10-412-1	7725144288895653	Malagasy	plat1254	to kneel	KNEEL	66		mandohàlika	mandohàlika 
+796	28-10-413-1	7725144979671092	Malagasy	plat1254	to crouch	CROUCH	296		mitoròvoka	mitoròvoka 
+797	28-10-42-1	7725144288419295	Malagasy	plat1254	to slide or slip	SLIP	1324		mibolìsatra	mibolìsatra 
+798	28-10-42-2	7725144176013952	Malagasy	plat1254	to slide or slip	SLIP	1324		mibolàsitra	mibolàsitra 
+799	28-10-42-3	7725144646700542	Malagasy	plat1254	to slide or slip	SLIP	1324		misolàfaka	misolàfaka 
+800	28-10-43-1	7725144275974035	Malagasy	plat1254	to jump	JUMP	1829		mandìngana	mandìngana 
+801	28-10-431-1	7725144484906840	Malagasy	plat1254	to kick	KICK	1135		mandàka	mandàka 
+802	28-10-44-1	7725144837842226	Malagasy	plat1254	to dance	DANCE	1879		mandìhy	mandìhy 
+803	28-10-45-1	7725144196630683	Malagasy	plat1254	to walk	WALK	1443		mamìndra	mamìndra 
+804	28-10-45-2	7725144144769350	Malagasy	plat1254	to walk	WALK	1443		mandèha	mandèha 
+805	28-10-451-1	7725144137479115	Malagasy	plat1254	to limp	LIMP	366		mandrìnga	mandrìnga 
+806	28-10-46-1	7725144809194930	Malagasy	plat1254	to run	RUN	1519		miolomày	miolomày 
+807	28-10-46-2	772514485205615	Malagasy	plat1254	to run	RUN	1519		mihazakàzaka	mihazakàzaka 
+808	28-10-47-1	7725144144769350	Malagasy	plat1254	to go	GO	695		mandèha	mandèha 
+809	28-10-471-1	772514447549356	Malagasy	plat1254	to go up	GO UP (ASCEND)	705		miàkatra	miàkatra 
+810	28-10-472-1	7725144716750583	Malagasy	plat1254	to climb	CLIMB	1102		miànika	miànika 
+811	28-10-473-1	7725144526243273	Malagasy	plat1254	to go down	GO DOWN (DESCEND)	2014		mìdina	mìdina 
+812	28-10-474-1	7725144639359720	Malagasy	plat1254	to go out	GO OUT	1107		mivòaka	mivòaka 
+813	28-10-48-1	7725144925506160	Malagasy	plat1254	to come	COME	1446		avy	avy 
+814	28-10-48-2	7725144873584896	Malagasy	plat1254	to come	COME	1446		tònga	tònga 
+815	28-10-481-1	7725144367783808	Malagasy	plat1254	to come back	COME BACK	581		mivèrina	mivèrina 
+816	28-10-481-2	7725144734668940	Malagasy	plat1254	to come back	COME BACK	581		mòdy	mòdy 
+817	28-10-49-1	7725144518982410	Malagasy	plat1254	to leave	LEAVE	1752		làsa	làsa 
+818	28-10-49-2	7725144491496709	Malagasy	plat1254	to leave	LEAVE	1752		miàinga	miàinga 
+819	28-10-49-3	7725144104738872	Malagasy	plat1254	to leave	LEAVE	1752		miàla	miàla 
+820	28-10-491-1	7725144518982410	Malagasy	plat1254	to disappear	DISAPPEAR	485		làsa	làsa 
+821	28-10-491-2	7725144337009795	Malagasy	plat1254	to disappear	DISAPPEAR	485		manjàvona	manjàvona 
+822	28-10-51-1	7725144670852452	Malagasy	plat1254	to flee	FLEE	956		milèfa	milèfa 
+823	28-10-51-2	7725144694437824	Malagasy	plat1254	to flee	FLEE	956		mandòsitra	mandòsitra 
+824	28-10-52-1	7725144132159008	Malagasy	plat1254	to follow	FOLLOW	1085		manàraka	manàraka 
+825	28-10-53-1	7725144737583940	Malagasy	plat1254	to pursue	PURSUE	1047		manènjika	manènjika 
+826	28-10-55-1	7725144873584896	Malagasy	plat1254	to arrive	ARRIVE	1387		tònga	tònga 
+827	28-10-55-2	772514429168696	Malagasy	plat1254	to arrive	ARRIVE	1387		àvy	àvy 
+828	28-10-56-1	7725144775174522	Malagasy	plat1254	to approach	APPROACH	1778		manakàiky	manakàiky 
+829	28-10-57-1	7725144694371083	Malagasy	plat1254	to enter	ENTER	749		mìditra	mìditra 
+830	28-10-61-1	772514473232221	Malagasy	plat1254	to carry	CARRY	700		mitòndra	mitòndra 
+831	28-10-612-1	7725144990148930	Malagasy	plat1254	to carry in hand	CARRY IN HAND	412		mivìmbina	mivìmbina 
+832	28-10-613-1	7725144908111678	Malagasy	plat1254	to carry on shoulder	CARRY ON SHOULDER	413		milànja	milànja 
+833	28-10-614-1	7725144537810886	Malagasy	plat1254	to carry on head	CARRY ON HEAD	414		milolòha	milolòha 
+834	28-10-615-1	7725144585162534	Malagasy	plat1254	to carry under the arm	CARRY UNDER ARM	415		misakèlika	misakèlika 
+835	28-10-62-1	7725144880713701	Malagasy	plat1254	to bring	BRING	692		manàtitra	manàtitra 
+836	28-10-62-2	772514473232221	Malagasy	plat1254	to bring	BRING	692		mitòndra	mitòndra 
+837	28-10-63-1	7725144848260961	Malagasy	plat1254	to send	SEND	1127		mandèfa	mandèfa 
+838	28-10-64-1	7725144430645107	Malagasy	plat1254	to lead	LEAD (GUIDE)	43		mitàrika	mitàrika 
+839	28-10-65-1	772514473232221	Malagasy	plat1254	to drive	DRIVE	741		mitòndra	mitòndra 
+840	28-10-66-1	7725144152061310	Malagasy	plat1254	to ride	RIDE	367		mitàingina	mitàingina 
+841	28-10-67-1	7725144625949400	Malagasy	plat1254	to push	PUSH	1452		manòsika	manòsika 
+842	28-10-71-1	7725144669789402	Malagasy	plat1254	the road	ROAD	667		làlana	làlana 
+843	28-10-72-1	7725144669789402	Malagasy	plat1254	the path	PATH	2252		làlana	làlana 
+844	28-10-74-1	7725144878251814	Malagasy	plat1254	the bridge	BRIDGE	1011		tetèzana	tetèzana 
+845	28-10-75-1	7725144478419354	Malagasy	plat1254	the cart or wagon	CART	122		sarèty	sarèty 
+846	28-10-76-1	7725144547652967	Malagasy	plat1254	the wheel	WHEEL	710		kodìa	kodìa 
+847	28-10-77-1	7725144331801376	Malagasy	plat1254	the axle	AXLE	1769		lahintangèrina	lahintangèrina 
+848	28-10-78-1	7725144166007108	Malagasy	plat1254	the yoke	YOKE	14		jìoga	jìoga 
+849	28-10-81-1	7725144549092483	Malagasy	plat1254	the ship	SHIP	740		sàmbo	sàmbo 
+850	28-10-83-1	7725144549092483	Malagasy	plat1254	the boat	BOAT	1844		sàmbo	sàmbo 
+851	28-10-831-1	7725144255708444	Malagasy	plat1254	the canoe	CANOE	1970		làkana	làkana 
+852	28-10-832-1	7725144484131079	Malagasy	plat1254	the outrigger	OUTRIGGER	416		lakampiàra	lakampiàra 
+853	28-10-84-1	7725144337424401	Malagasy	plat1254	the raft	RAFT	1664		zàhatra	zàhatra 
+854	28-10-85-1	7725144278153377	Malagasy	plat1254	the oar	RUDDER	108		fivòy	fivòy 
+855	28-10-851-1	7725144278153377	Malagasy	plat1254	the paddle	PADDLE	234		fivòy	fivòy 
+856	28-10-852-1	7725144283415573	Malagasy	plat1254	to row	ROW	1849		mivoy	mivoy 
+857	28-10-86-1	7725144623608894	Malagasy	plat1254	the rudder	RUDDER	108		hamòry	hamòry 
+858	28-10-87-1	7725144399325397	Malagasy	plat1254	the mast	MAST	184		salàzana	salàzana 
+859	28-10-87-2	7725144304983507	Malagasy	plat1254	the mast	MAST	184		àndrintsàmbo	àndrintsàmbo 
+860	28-10-88-1	7725144315868465	Malagasy	plat1254	the sail	SAILCLOTH	786		lai-n-tsàmbo	lai-n-tsàmbo 
+861	28-10-89-1	7725144614479236	Malagasy	plat1254	the anchor	ANCHOR	1870		vatofàntsika	vatofàntsika 
+862	28-10-91-1	7725144401458503	Malagasy	plat1254	the port	PORT	610		fitodian-tsàmbo	fitodian-tsàmbo 
+863	28-10-91-2	772514425492481	Malagasy	plat1254	the port	PORT	610		serànana	serànana 
+864	28-10-92-1	7725144490154388	Malagasy	plat1254	to land	LAND (DESCEND)	1922		mitòdy	mitòdy 
+865	28-11-11-1	7725144333112488	Malagasy	plat1254	to have	HAVE	773		(mìsy) ao an-tànany	(mìsy) ao an-tànany 
+866	28-11-12-1	7725144556540505	Malagasy	plat1254	to own	OWN	684		mànana	mànana 
+867	28-11-13-1	7725144242443876	Malagasy	plat1254	to take	TAKE	1749		màka	màka 
+868	28-11-13-2	7725144863483465	Malagasy	plat1254	to take	TAKE	1749		mandrày	mandrày 
+869	28-11-14-1	7725144734200262	Malagasy	plat1254	to grasp	SEIZE	855		mitàna	mitàna 
+870	28-11-15-1	7725144734200262	Malagasy	plat1254	to hold	HOLD	1448		mitàna	mitàna 
+871	28-11-15-2	7725144567082498	Malagasy	plat1254	to hold	HOLD	1448		mihàzona	mihàzona 
+872	28-11-16-1	7725144632369921	Malagasy	plat1254	to get	GET	694		mahàzo	mahàzo 
+873	28-11-17-1	7725144734200262	Malagasy	plat1254	to keep	KEEP	1477		mitàna	mitàna 
+874	28-11-17-2	7725144314606820	Malagasy	plat1254	to keep	KEEP	1477		mitahìry	mitahìry 
+875	28-11-18-1	7725144593113743	Malagasy	plat1254	the thing	THING	738		zàvatra	zàvatra 
+876	28-11-21-1	7725144756146677	Malagasy	plat1254	to give	GIVE	1447		manòme	manòme 
+877	28-11-22-1	7725144285570095	Malagasy	plat1254	to give back	GIVE BACK	85		mamèrina	mamèrina 
+878	28-11-24-1	772514469816102	Malagasy	plat1254	to preserve	PRESERVE	1997		miaro	miaro 
+879	28-11-25-1	7725144249806306	Malagasy	plat1254	to rescue	RESCUE	2008		mamònjy	mamònjy 
+880	28-11-25-2	7725144900584686	Malagasy	plat1254	to rescue	RESCUE	2008		manàvotra	manàvotra 
+881	28-11-27-1	7725144241541165	Malagasy	plat1254	to destroy	DESTROY	681		mandràva	mandràva 
+882	28-11-28-1	772514414369501	Malagasy	plat1254	to injure	INJURE	44		mandràtra	mandràtra 
+883	28-11-31-1	7725144392093287	Malagasy	plat1254	to look for	LOOK FOR	1468		mitàdy	mitàdy 
+884	28-11-31-2	7725144614958312	Malagasy	plat1254	to look for	LOOK FOR	1468		mikàroka	mikàroka 
+885	28-11-32-1	7725144207015623	Malagasy	plat1254	to find	FIND	719		mahìta	mahìta 
+886	28-11-33-1	7725144973109149	Malagasy	plat1254	to lose	LOSE	1660		mamèry	mamèry 
+887	28-11-33-2	7725144299607028	Malagasy	plat1254	to lose	LOSE	1660		mamavèry	mamavèry 
+888	28-11-34-1	7725144190025580	Malagasy	plat1254	to let go	LET GO OR SET FREE	1095		manàfaka	manàfaka 
+889	28-11-34-2	7725144848260961	Malagasy	plat1254	to let go	LET GO OR SET FREE	1095		mandèfa	mandèfa 
+890	28-11-43-1	7725144509390832	Malagasy	plat1254	the money	MONEY	1559		vòla	vòla 
+891	28-11-44-1	7725144669944578	Malagasy	plat1254	the coin	COIN	1867		lèla vòla	lèla vòla 
+892	28-11-51-1	772514446921066	Malagasy	plat1254	rich	RICH	712		manankarèna	manankarèna 
+893	28-11-52-1	7725144590602071	Malagasy	plat1254	poor	POOR	1674		mahàntra	mahàntra 
+894	28-11-53-1	7725144922713905	Malagasy	plat1254	the beggar	BEGGAR	1934		mpangàtaka	mpangàtaka 
+895	28-11-54-1	7725144944236705	Malagasy	plat1254	stingy	STINGY	1774		mahìhitra	mahìhitra 
+896	28-11-61-1	7725144160533892	Malagasy	plat1254	to lend	LEND	582		mampisàmbotra	mampisàmbotra 
+897	28-11-62-1	7725144391283985	Malagasy	plat1254	to borrow	BORROW	1823		misàmbotra	misàmbotra 
+898	28-11-63-1	7725144693422187	Malagasy	plat1254	to owe	OWE	369		mitròsa	mitròsa 
+899	28-11-64-1	7725144290107407	Malagasy	plat1254	the debt	DEBT	1914		tròsa	tròsa 
+900	28-11-65-1	7725144955862447	Malagasy	plat1254	to pay	PAY	718		mandòa	mandòa 
+901	28-11-66-1	7725144373789113	Malagasy	plat1254	the bill	BILL	1081		adisànina	adisànina 
+902	28-11-69-1	7725144224473697	Malagasy	plat1254	the tax	TAX	873		hètra	hètra 
+903	28-11-77-1	7725144370154089	Malagasy	plat1254	to hire	HIRE	856		mampiàsa	mampiàsa 
+904	28-11-78-1	7725144217043504	Malagasy	plat1254	the wages	WAGES	1122		karàma	karàma 
+905	28-11-78-2	7725144776359963	Malagasy	plat1254	the wages	WAGES	1122		tàmby	tàmby 
+906	28-11-79-1	7725144632369921	Malagasy	plat1254	to earn	EARN	733		mahàzo	mahàzo 
+907	28-11-81-1	7725144403909227	Malagasy	plat1254	to buy	BUY	1869		mivìdy	mivìdy 
+908	28-11-82-1	7725144587993590	Malagasy	plat1254	to sell	SELL	1571		mivàrotra	mivàrotra 
+909	28-11-83-1	7725144234365758	Malagasy	plat1254	to trade or barter	TRADE OR BARTER	2135		mànao vàrotra	mànao vàrotra 
+910	28-11-84-1	7725144987021695	Malagasy	plat1254	the merchant	MERCHANT	1082		mpivàrotra	mpivàrotra 
+911	28-11-85-1	7725144699643648	Malagasy	plat1254	the market	MARKET	633		tsèna	tsèna 
+912	28-11-86-1	7725144769746275	Malagasy	plat1254	the shop/store	STORE	752		tranombàrotra	tranombàrotra 
+913	28-11-87-1	7725144322958683	Malagasy	plat1254	the price	PRICE	657		vìdy	vìdy 
+914	28-11-88-1	7725144297430083	Malagasy	plat1254	expensive	EXPENSIVE	1426		làfo	làfo 
+915	28-11-89-1	7725144717933782	Malagasy	plat1254	cheap	CHEAP	1887		mòra	mòra 
+916	28-11-91-1	7725144842523203	Malagasy	plat1254	to share	SHARE	884		mizàra	mizàra 
+917	28-11-92-1	7725144458417742	Malagasy	plat1254	to weigh	WEIGH	1098		ròa lìvatra ny lànjan’ny èntana	ròa lìvatra ny lànjan’ny èntana 
+918	28-12-01-1	7725144967417759	Malagasy	plat1254	after	AFTER	1685		aorìana	aorìana 
+919	28-12-011-1	7725144475080508	Malagasy	plat1254	behind	BEHIND	1686		ivòho	ivòho 
+920	28-12-02-1	7725144104128888	Malagasy	plat1254	beside	BESIDE	1816		anìlany	anìlany 
+921	28-12-03-1	7725144828317080	Malagasy	plat1254	down	DOWN	1326		ambàny	ambàny 
+922	28-12-04-1	7725144553974727	Malagasy	plat1254	before	BEFORE	1882		alòha	alòha 
+923	28-12-041-1	7725144573053849	Malagasy	plat1254	in front of	IN FRONT OF	1883		anatrèhana	anatrèhana 
+924	28-12-05-1	772514453730111	Malagasy	plat1254	inside	INSIDE	1606		anàty	anàty 
+925	28-12-06-1	7725144216380825	Malagasy	plat1254	outside	OUTSIDE	762		ivèlany	ivèlany 
+926	28-12-07-1	7725144828317080	Malagasy	plat1254	under	BELOW OR UNDER	1485		ambàny	ambàny 
+927	28-12-08-1	7725144183724635	Malagasy	plat1254	up	UP	1591		ambòny	ambòny 
+928	28-12-11-1	7725144659862085	Malagasy	plat1254	the place	PLACE (POSITION)	723		toèrana	toèrana 
+929	28-12-12-1	7725144509118251	Malagasy	plat1254	to put	PUT	998		manìsy	manìsy 
+930	28-12-12-2	7725144820932859	Malagasy	plat1254	to put	PUT	998		mamètraka	mamètraka 
+931	28-12-13-1	7725144568067883	Malagasy	plat1254	to sit	SIT	1416		mipètraka	mipètraka 
+932	28-12-14-1	7725144448238376	Malagasy	plat1254	to lie down	LIE DOWN	215		màndry	màndry 
+933	28-12-15-1	7725144118033107	Malagasy	plat1254	to stand	STAND	1442		mitsàngana	mitsàngana 
+934	28-12-15-2	7725144819641018	Malagasy	plat1254	to stand	STAND	1442		mijòro	mijòro 
+935	28-12-16-1	772514413732166	Malagasy	plat1254	to remain	REMAIN	987		mijànona	mijànona 
+936	28-12-17-1	7725144582723192	Malagasy	plat1254	the remains	REMAINS	838		sìsa	sìsa 
+937	28-12-21-1	7725144323957639	Malagasy	plat1254	to gather	GATHER	7		manàngona	manàngona 
+938	28-12-212-1	7725144897890971	Malagasy	plat1254	to pick up	PICK UP	371		mitsìmpona	mitsìmpona 
+939	28-12-213-1	7725144881973502	Malagasy	plat1254	to pile up	PILE UP	1576		manongòa	manongòa 
+940	28-12-22-1	7725144480991305	Malagasy	plat1254	to join	JOIN	1743		manakàmbana	manakàmbana 
+941	28-12-23-1	7725144676702458	Malagasy	plat1254	to separate	SEPARATE	1359		mampisàraka	mampisàraka 
+942	28-12-232-1	7725144842523203	Malagasy	plat1254	to divide	DIVIDE	1119		mizàra	mizàra 
+943	28-12-24-1	7725144798938586	Malagasy	plat1254	to open	OPEN	1156		mamòha	mamòha 
+944	28-12-24-2	7725144425216374	Malagasy	plat1254	to open	OPEN	1156		manòkatra	manòkatra 
+945	28-12-25-1	7725144127456138	Malagasy	plat1254	to shut	SHUT	1046		manakàtona	manakàtona 
+946	28-12-26-1	7725144506231997	Malagasy	plat1254	to cover	COVER	761		mandràkotra	mandràkotra 
+947	28-12-27-1	7725144385745723	Malagasy	plat1254	to hide	HIDE (CONCEAL)	602		manàfina	manàfina 
+948	28-12-31-1	7725144183724635	Malagasy	plat1254	high	HIGH	1265		ambòny	ambòny 
+949	28-12-32-1	7725144828317080	Malagasy	plat1254	low	LOW	721		ambàny	ambàny 
+950	28-12-33-1	7725144690750799	Malagasy	plat1254	the top	TOP	1753		àvo	àvo 
+951	28-12-34-1	7725144911694845	Malagasy	plat1254	the bottom	BOTTOM	690		vòdy	vòdy 
+952	28-12-35-1	7725144283037390	Malagasy	plat1254	the end(1)	END (OF SPACE)	742		làny	làny 
+953	28-12-352-1	7725144359774747	Malagasy	plat1254	pointed	POINTED	372		màranitra	màranitra 
+954	28-12-352-2	7725144951440308	Malagasy	plat1254	pointed	POINTED	372		mitsilotsìlo	mitsilotsìlo 
+955	28-12-353-1	7725144835957240	Malagasy	plat1254	the edge	EDGE	863		mòrona	mòrona 
+956	28-12-353-2	7725144677300677	Malagasy	plat1254	the edge	EDGE	863		sìsina	sìsina 
+957	28-12-36-1	7725144501833171	Malagasy	plat1254	the side	SIDE	682		ìla	ìla 
+958	28-12-36-2	7725144595807629	Malagasy	plat1254	the side	SIDE	682		làfy	làfy 
+959	28-12-37-1	7725144618318233	Malagasy	plat1254	the middle	MIDDLE	1093		ìvo	ìvo 
+960	28-12-37-2	7725144606805846	Malagasy	plat1254	the middle	MIDDLE	1093		ny afovoàny	ny afovoàny 
+961	28-12-41-1	7725144939777967	Malagasy	plat1254	right(1)	RIGHT	1019		havànana	havànana 
+962	28-12-42-1	7725144282331543	Malagasy	plat1254	left	LEFT	244		havìa	havìa 
+963	28-12-43-1	7725144313795598	Malagasy	plat1254	near	NEAR	1942		akàiky	akàiky 
+964	28-12-44-1	7725144559493258	Malagasy	plat1254	far	FAR	1406		làvitra	làvitra 
+965	28-12-45-1	7725144686330071	Malagasy	plat1254	the east	EAST	1877		atsinànana	atsinànana 
+966	28-12-46-1	7725144887067160	Malagasy	plat1254	the west	WEST	1817		andrèfana	andrèfana 
+967	28-12-47-1	7725144855869902	Malagasy	plat1254	the north	NORTH	1598		avàratra	avàratra 
+968	28-12-48-1	7725144543867574	Malagasy	plat1254	the south	SOUTH	1595		atsìmo	atsìmo 
+969	28-12-53-1	7725144122068316	Malagasy	plat1254	to grow	GROW	479		mitòmbo	mitòmbo 
+970	28-12-54-1	7725144695687635	Malagasy	plat1254	to measure	MEASURE	1506		mandrèfy	mandrèfy 
+971	28-12-541-1	772514444951501	Malagasy	plat1254	the fathom	FATHOM	81		rèfy	rèfy 
+972	28-12-55-1	772514472951241	Malagasy	plat1254	big	BIG	1202		bè	bè 
+973	28-12-56-1	7725144207831986	Malagasy	plat1254	small	SMALL	1246		kèly	kèly 
+974	28-12-57-1	7725144443315349	Malagasy	plat1254	long	LONG	1203		làva	làva 
+975	28-12-58-1	7725144184660032	Malagasy	plat1254	tall	TALL	711		lehibè	lehibè 
+976	28-12-59-1	7725144458945438	Malagasy	plat1254	short	SHORT	1645		fòhy	fòhy 
+977	28-12-61-1	7725144558965060	Malagasy	plat1254	wide	WIDE	1243		malàlaka	malàlaka 
+978	28-12-62-1	7725144154164951	Malagasy	plat1254	narrow	NARROW	1267		tèry	tèry 
+979	28-12-62-2	7725144699393230	Malagasy	plat1254	narrow	NARROW	1267		èty	èty 
+980	28-12-63-1	7725144756762242	Malagasy	plat1254	thick	THICK	1244		matèvina	matèvina 
+981	28-12-65-1	7725144871251778	Malagasy	plat1254	thin	THIN (OF SHAPE OF OBJECT)	2249		manìfy	manìfy 
+982	28-12-67-1	7725144442537074	Malagasy	plat1254	deep	DEEP	1593		làlina	làlina 
+983	28-12-68-1	7725144616200117	Malagasy	plat1254	shallow	SHALLOW	193		marìvo	marìvo 
+984	28-12-71-1	7725144709001947	Malagasy	plat1254	flat	FLAT	1633		fìsaka	fìsaka 
+985	28-12-71-2	7725144589955665	Malagasy	plat1254	flat	FLAT	1633		lèmaka	lèmaka 
+986	28-12-73-1	7725144885662827	Malagasy	plat1254	straight	STRAIGHT	1404		mahìtsy	mahìtsy 
+987	28-12-73-2	7725144587728379	Malagasy	plat1254	straight	STRAIGHT	1404		tsòtra	tsòtra 
+988	28-12-74-1	7725144458047957	Malagasy	plat1254	crooked	CROOKED	297		mèloka	mèloka 
+989	28-12-75-1	772514457044296	Malagasy	plat1254	the hook	HOOK	1071		faràingo	faràingo 
+990	28-12-76-1	7725144110560468	Malagasy	plat1254	the corner	CORNER	192		zòro	zòro 
+991	28-12-77-1	7725144734868030	Malagasy	plat1254	the cross	CROSS	1367		vokovoko	vokovoko 
+992	28-12-78-1	7725144275621431	Malagasy	plat1254	the square	SQUARE	850		efamìra	efamìra 
+993	28-12-78-2	7725144111157773	Malagasy	plat1254	the square	SQUARE	850		sokèra	sokèra 
+994	28-12-81-1	7725144663562438	Malagasy	plat1254	round	ROUND	1395		boribòry	boribòry 
+995	28-12-82-1	7725144467215041	Malagasy	plat1254	the circle	CIRCLE	1467		faribòlana	faribòlana 
+996	28-12-83-1	7725144308571679	Malagasy	plat1254	the ball	BALL	1845		bàolina	bàolina 
+997	28-12-84-1	7725144879954934	Malagasy	plat1254	the line	LINE	1048		tsìpika	tsìpika 
+998	28-12-84-2	7725144612453896	Malagasy	plat1254	the line	LINE	1048		làhatra	làhatra 
+999	28-12-85-1	7725144158637734	Malagasy	plat1254	the hole	HOLE	1667		làvaka	làvaka 
+1000	28-12-85-2	772514445039844	Malagasy	plat1254	the hole	HOLE	1667		lòaka	lòaka 
+1001	28-12-92-1	7725144531983938	Malagasy	plat1254	similar	SIMILAR	1558		sahàla	sahàla 
+1002	28-12-92-2	7725144184803494	Malagasy	plat1254	similar	SIMILAR	1558		mitòvy	mitòvy 
+1003	28-12-92-3	7725144708438813	Malagasy	plat1254	similar	SIMILAR	1558		tàhaka	tàhaka 
+1004	28-12-93-1	7725144499643582	Malagasy	plat1254	to change	CHANGE	1264		miòva	miòva 
+1005	28-13-1	7725144971456778	Malagasy	plat1254	zero	ZERO	1294		aotra	aotra 
+1006	28-13-2	772514464582638	Malagasy	plat1254	zero	ZERO	1294		zèrô	zèrô 
+1007	28-13-01-1	7725144338291034	Malagasy	plat1254	one	ONE	1493		irày	irày 
+1008	28-13-02-1	7725144235369716	Malagasy	plat1254	two	TWO	1498		ròa	ròa 
+1009	28-13-03-1	7725144664891495	Malagasy	plat1254	three	THREE	492		telo	telo 
+1010	28-13-04-1	7725144533826396	Malagasy	plat1254	four	FOUR	1500		èfatra	èfatra 
+1011	28-13-05-1	7725144824063230	Malagasy	plat1254	five	FIVE	493		dìmy	dìmy 
+1012	28-13-06-1	7725144634022449	Malagasy	plat1254	six	SIX	1703		ènina	ènina 
+1013	28-13-07-1	7725144990547268	Malagasy	plat1254	seven	SEVEN	1704		fìto	fìto 
+1014	28-13-08-1	7725144209011832	Malagasy	plat1254	eight	EIGHT	1705		vàlo	vàlo 
+1015	28-13-09-1	7725144488659575	Malagasy	plat1254	nine	NINE	1483		sìvy	sìvy 
+1016	28-13-1-1	7725144944767627	Malagasy	plat1254	ten	TEN	1515		fòlo	fòlo 
+1017	28-13-101-1	7725144296209979	Malagasy	plat1254	eleven	ELEVEN	1706		iraika ambi-ny folo	iraika ambi-ny folo 
+1018	28-13-102-1	7725144252879089	Malagasy	plat1254	twelve	TWELVE	1707		rua ambi-ny folo	rua ambi-ny folo 
+1019	28-13-103-1	772514457454043	Malagasy	plat1254	fifteen	FIFTEEN	1709		dimy ambi-ny folo	dimy ambi-ny folo 
+1020	28-13-104-1	7725144489332273	Malagasy	plat1254	twenty	TWENTY	1710		ruampolo	ruampolo 
+1021	28-13-105-1	7725144606725433	Malagasy	plat1254	a hundred	HUNDRED	1634		zato	zato 
+1022	28-13-106-1	7725144544639113	Malagasy	plat1254	a thousand	THOUSAND	1843		arìvo	arìvo 
+1023	28-13-107-1	7725144331132076	Malagasy	plat1254	to count	COUNT	1420		manìsa	manìsa 
+1024	28-13-14-1	7725144394358526	Malagasy	plat1254	all	ALL	98		rèhetra	rèhetra 
+1025	28-13-15-1	7725144155484208	Malagasy	plat1254	many	MANY	1198		bètsaka	bètsaka 
+1026	28-13-16-1	7725144588022463	Malagasy	plat1254	more	MORE	1992		maromàro kokòa	maromàro kokòa 
+1027	28-13-17-1	7725144843157798	Malagasy	plat1254	few	FEW	1242		vìtsy	vìtsy 
+1028	28-13-18-1	7725144939344905	Malagasy	plat1254	enough	ENOUGH	1881		àmpy	àmpy 
+1029	28-13-18-2	772514479173196	Malagasy	plat1254	enough	ENOUGH	1881		sahàza	sahàza 
+1030	28-13-18-3	7725144388899970	Malagasy	plat1254	enough	ENOUGH	1881		àoka	àoka 
+1031	28-13-181-1	7725144344115088	Malagasy	plat1254	some	SOME	1241		sasàny	sasàny 
+1032	28-13-181-2	7725144380290754	Malagasy	plat1254	some	SOME	1241		(vitsi)vìtsy	(vitsi)vìtsy 
+1033	28-13-19-1	7725144419884282	Malagasy	plat1254	the crowd	CROWD	2023		vahòaka be	vahòaka be 
+1034	28-13-21-1	7725144803070567	Malagasy	plat1254	full	FULL	1429		fèno	fèno 
+1035	28-13-22-1	7725144502737223	Malagasy	plat1254	empty	EMPTY	1624		fòana	fòana 
+1036	28-13-23-1	7725144283037390	Malagasy	plat1254	the part	PART	779		làny	làny 
+1037	28-13-23-2	7725144344115088	Malagasy	plat1254	the part	PART	779		sasàny	sasàny 
+1038	28-13-23-3	7725144917915397	Malagasy	plat1254	the part	PART	779		tapàny	tapàny 
+1039	28-13-23-4	7725144777496640	Malagasy	plat1254	the part	PART	779		fizàrana	fizàrana 
+1040	28-13-24-1	7725144500647014	Malagasy	plat1254	the half	HALF	816		sàsaka	sàsaka 
+1041	28-13-33-1	7725144700455405	Malagasy	plat1254	only	ONLY	1580		tòkana	tòkana 
+1042	28-13-34-1	7725144446639664	Malagasy	plat1254	first	FIRST	728		voalohany	voalohany 
+1043	28-13-35-1	7725144900121470	Malagasy	plat1254	last	LAST (FINAL)	1529		farany	farany 
+1044	28-13-36-1	7725144271781884	Malagasy	plat1254	second	SECOND	1384		faharoa	faharoa 
+1045	28-13-37-1	772514449244217	Malagasy	plat1254	the pair	PAIR	1888		vàdy	vàdy 
+1046	28-13-38-1	7725144391773562	Malagasy	plat1254	twice/two times	TWICE	1546		in-droa	in-droa 
+1047	28-13-42-1	7725144758900710	Malagasy	plat1254	third	THIRD	1859		fahatelo	fahatelo 
+1048	28-13-44-1	7725144183266499	Malagasy	plat1254	three times	THREE TIMES	417		in-telo	in-telo 
+1049	28-14-11-1	7725144116261511	Malagasy	plat1254	the time	TIME	892		àndro	àndro 
+1050	28-14-11-2	7725144196942314	Malagasy	plat1254	the time	TIME	892		fotòana	fotòana 
+1051	28-14-12-1	7725144752518317	Malagasy	plat1254	the age	AGE	1789		tàona	tàona 
+1052	28-14-13-1	7725144961349057	Malagasy	plat1254	new	NEW	1231		vaovao	vaovao 
+1053	28-14-14-1	7725144631763228	Malagasy	plat1254	young	YOUNG	1207		tanora	tanora 
+1054	28-14-14-2	7725144371114224	Malagasy	plat1254	young	YOUNG	1207		tòvo	tòvo 
+1055	28-14-15-1	7725144947796837	Malagasy	plat1254	old	OLD	1229		àntitra	àntitra 
+1056	28-14-16-1	7725144528453295	Malagasy	plat1254	early	EARLY	672		faìngana	faìngana 
+1057	28-14-17-1	7725144967417759	Malagasy	plat1254	late	LATE	477		aorìana	aorìana 
+1058	28-14-17-2	7725144585233690	Malagasy	plat1254	late	LATE	477		èla	èla 
+1059	28-14-18-1	7725144838158146	Malagasy	plat1254	now	NOW	1376		ìzao	ìzao 
+1060	28-14-18-2	7725144953575434	Malagasy	plat1254	now	NOW	1376		ankehitrìny	ankehitrìny 
+1061	28-14-19-1	7725144698252447	Malagasy	plat1254	immediately	IMMEDIATELY	1963		tsy mìsy elanèlana	tsy mìsy elanèlana 
+1062	28-14-21-1	7725144109217824	Malagasy	plat1254	fast	FAST	1631		hàingana	hàingana 
+1063	28-14-21-2	7725144369757286	Malagasy	plat1254	fast	FAST	1631		fàingana	fàingana 
+1064	28-14-21-3	7725144771087341	Malagasy	plat1254	fast	FAST	1631		malàky	malàky 
+1065	28-14-22-1	7725144285486566	Malagasy	plat1254	slow	SLOW	701		miàdana	miàdana 
+1066	28-14-23-1	7725144228959289	Malagasy	plat1254	to hurry	HURRY	754		hàingana!	hàingana! 
+1067	28-14-23-2	7725144451736048	Malagasy	plat1254	to hurry	HURRY	754		haingàna!	haingàna! 
+1068	28-14-23-3	7725144505214235	Malagasy	plat1254	to hurry	HURRY	754		faingàna!	faingàna! 
+1069	28-14-23-4	7725144302704163	Malagasy	plat1254	to hurry	HURRY	754		manào fàingana	manào fàingana 
+1070	28-14-24-1	7725144638025411	Malagasy	plat1254	to be late	BE LATE	425		manèla	manèla 
+1071	28-14-25-1	7725144951040510	Malagasy	plat1254	to begin	BEGIN	1806		miandòha	miandòha 
+1072	28-14-25-2	7725144920529226	Malagasy	plat1254	to begin	BEGIN	1806		manòmboka	manòmboka 
+1073	28-14-252-1	7725144386004217	Malagasy	plat1254	to last	LAST (ENDURE)	1186		mahàritra	mahàritra 
+1074	28-14-26-1	7725144834588068	Malagasy	plat1254	the end(2)	END (OF TIME)	743		fàrana	fàrana 
+1075	28-14-27-1	7725144305320972	Malagasy	plat1254	to finish	FINISH	1766		mamàrana	mamàrana 
+1076	28-14-27-2	7725144968391982	Malagasy	plat1254	to finish	FINISH	1766		manàpitra	manàpitra 
+1077	28-14-27-3	7725144629013782	Malagasy	plat1254	to finish	FINISH	1766		mamìta	mamìta 
+1078	28-14-28-1	7725144566680672	Malagasy	plat1254	to cease	CEASE	1928		mi-tsàhatra	mi-tsàhatra 
+1079	28-14-29-1	7725144871085688	Malagasy	plat1254	ready	READY	790		vònona	vònona 
+1080	28-14-31-1	7725144374798252	Malagasy	plat1254	always	ALWAYS	1676		mandrakarìva	mandrakarìva 
+1081	28-14-32-1	7725144619426402	Malagasy	plat1254	often	OFTEN	1852		matètika	matètika 
+1082	28-14-33-1	7725144541787319	Malagasy	plat1254	sometimes	SOMETIMES	1544		indraindrày	indraindrày 
+1083	28-14-331-1	7725144356042909	Malagasy	plat1254	soon	SOON	703		vetivèty	vetivèty 
+1084	28-14-332-1	7725144585233690	Malagasy	plat1254	for a long time	FOR A LONG TIME	418		èla	èla 
+1085	28-14-34-1	7725144746012643	Malagasy	plat1254	never	NEVER	1656		tsy...na oviana na ovìana	tsy...na oviana na ovìana 
+1086	28-14-35-1	7725144365577974	Malagasy	plat1254	again	AGAIN	204		mbòla	mbòla 
+1087	28-14-35-2	7725144476790565	Malagasy	plat1254	again	AGAIN	204		indrày	indrày 
+1088	28-14-41-1	7725144116261511	Malagasy	plat1254	the day(1)	DAY (24 HOURS)	1260		àndro	àndro 
+1089	28-14-42-1	772514462433212	Malagasy	plat1254	the night	NIGHT	1233		àlina	àlina 
+1090	28-14-43-1	7725144448209122	Malagasy	plat1254	the dawn	DAWN	729		mangirandràtsy	mangirandràtsy 
+1091	28-14-44-1	7725144583892521	Malagasy	plat1254	the morning	MORNING	1339		maràina	maràina 
+1092	28-14-45-1	7725144800456994	Malagasy	plat1254	the midday	MIDDAY	12		mitatào vovònana (ny àndro)	mitatào vovònana (ny àndro) 
+1093	28-14-45-2	7725144248317821	Malagasy	plat1254	the midday	MIDDAY	12		antoandro be	antoandro be 
+1094	28-14-451-1	7725144114939895	Malagasy	plat1254	the afternoon	AFTERNOON	1807		antoàndro	antoàndro 
+1095	28-14-46-1	7725144718613371	Malagasy	plat1254	the evening	EVENING	1629		harìva	harìva 
+1096	28-14-47-1	7725144311656849	Malagasy	plat1254	today	TODAY	1283		anìo	anìo 
+1097	28-14-47-2	7725144321633630	Malagasy	plat1254	today	TODAY	1283		androàny	androàny 
+1098	28-14-48-1	7725144110209791	Malagasy	plat1254	tomorrow	TOMORROW	1329		rahampìtso	rahampìtso 
+1099	28-14-481-1	7725144213761462	Malagasy	plat1254	the day after tomorrow	DAY AFTER TOMORROW	1179		rahafakampìtso	rahafakampìtso 
+1100	28-14-49-1	772514432649752	Malagasy	plat1254	yesterday	YESTERDAY	1174		omàly	omàly 
+1101	28-14-491-1	7725144586904099	Malagasy	plat1254	the day before yesterday	DAY BEFORE YESTERDAY	1180		afakomàly	afakomàly 
+1102	28-14-51-1	772514483623522	Malagasy	plat1254	the hour	HOUR	1353		òra	òra 
+1103	28-14-53-1	7725144658328309	Malagasy	plat1254	the clock	CLOCK	1323		famantaranàndro	famantaranàndro 
+1104	28-14-61-1	7725144721204409	Malagasy	plat1254	the week	WEEK	1469		herinàndro	herinàndro 
+1105	28-14-62-1	7725144224256674	Malagasy	plat1254	Sunday	SUNDAY	1699		alahàdy	alahàdy 
+1106	28-14-63-1	7725144792980227	Malagasy	plat1254	Monday	MONDAY	1697		alatsinàiny	alatsinàiny 
+1107	28-14-64-1	7725144793553755	Malagasy	plat1254	Tuesday	TUESDAY	1695		talàta	talàta 
+1108	28-14-65-1	7725144964188183	Malagasy	plat1254	Wednesday	WEDNESDAY	1694		alarobìa	alarobìa 
+1109	28-14-66-1	772514450325950	Malagasy	plat1254	Thursday	THURSDAY	1693		alakamìsy	alakamìsy 
+1110	28-14-67-1	772514417392735	Malagasy	plat1254	Friday	FRIDAY	1692		zomà	zomà 
+1111	28-14-68-1	7725144638625035	Malagasy	plat1254	Saturday	SATURDAY	1700		asabòtsy	asabòtsy 
+1112	28-14-71-1	7725144610114498	Malagasy	plat1254	the month	MONTH	1370		vòlana	vòlana 
+1113	28-14-73-1	7725144752518317	Malagasy	plat1254	the year	YEAR	1226		tàona	tàona 
+1114	28-14-74-1	7725144275260171	Malagasy	plat1254	the winter	WINTER	1471		rirìnina	rirìnina 
+1115	28-14-75-1	7725144167476847	Malagasy	plat1254	the spring(2)	SPRINGTIME	1537		lohatàona	lohatàona 
+1116	28-14-76-1	7725144240283010	Malagasy	plat1254	the summer	SUMMER	1342		fahavàratra	fahavàratra 
+1117	28-14-77-1	7725144362053852	Malagasy	plat1254	the autumn/fall	AUTUMN	1276		fararàno	fararàno 
+1118	28-14-78-1	772514442265741	Malagasy	plat1254	the season	SEASON	691		fizarantàona	fizarantàona 
+1119	28-15-21-1	7725144366864385	Malagasy	plat1254	to smell(1)	SMELL (STINK)	1587		mìsy fòfona (tsara/ratsy...)	mìsy fòfona (tsara/ratsy...) 
+1120	28-15-89-1	7725144748318760	Malagasy	plat1254	wrinkled	WRINKLED	380		miketronkètrona	miketronkètrona 
+1121	28-15-212-1	7725144946532479	Malagasy	plat1254	to sniff	SNIFF	375		mitròka	mitròka 
+1122	28-15-22-1	7725144117147595	Malagasy	plat1254	to smell(2)	SMELL (PERCEIVE)	1586		manambòlo	manambòlo 
+1123	28-15-25-1	7725144143452113	Malagasy	plat1254	fragrant	FRAGRANT	376		mànitra	mànitra 
+1124	28-15-26-1	7725144568316176	Malagasy	plat1254	stinking	STINKING	42		maìmbo	maìmbo 
+1125	28-15-26-2	7725144933676921	Malagasy	plat1254	stinking	STINKING	42		màntsina	màntsina 
+1126	28-15-26-3	7725144223989499	Malagasy	plat1254	stinking	STINKING	42		mamòfona	mamòfona 
+1127	28-15-31-1	7725144806395827	Malagasy	plat1254	to taste	TASTE (SOMETHING)	21		matsìro	matsìro 
+1128	28-15-35-1	7725144963200951	Malagasy	plat1254	sweet	SWEET	717		màmy	màmy 
+1129	28-15-36-1	7725144387571439	Malagasy	plat1254	salty	SALTY	1091		màsina (1)	màsina (1) 
+1130	28-15-37-1	7725144625349915	Malagasy	plat1254	bitter	BITTER	887		mangìdy	mangìdy 
+1131	28-15-38-1	7725144223865819	Malagasy	plat1254	sour	SOUR	1906		marikìvy	marikìvy 
+1132	28-15-39-1	7725144260946910	Malagasy	plat1254	brackish	BRACKISH	70		matsàtso	matsàtso 
+1133	28-15-41-1	7725144351719308	Malagasy	plat1254	to hear	HEAR	1408		mandrè	mandrè 
+1134	28-15-41-2	7725144182476812	Malagasy	plat1254	to hear	HEAR	1408		maharè	maharè 
+1135	28-15-42-1	7725144154255528	Malagasy	plat1254	to listen	LISTEN	1608		mihàino	mihàino 
+1136	28-15-44-1	7725144924009769	Malagasy	plat1254	the sound or noise	SOUND OR NOISE	1811		nèno	nèno 
+1137	28-15-44-2	7725144886436192	Malagasy	plat1254	the sound or noise	SOUND OR NOISE	1811		fèo	fèo 
+1138	28-15-45-1	7725144989975379	Malagasy	plat1254	loud	LOUD	377		marèsaka	marèsaka 
+1139	28-15-46-1	7725144341366420	Malagasy	plat1254	quiet	QUIET	1314		tòny	tòny 
+1140	28-15-46-2	7725144611930775	Malagasy	plat1254	quiet	QUIET	1314		mangìna	mangìna 
+1141	28-15-51-1	7725144207015623	Malagasy	plat1254	to see	SEE	1409		mahìta	mahìta 
+1142	28-15-52-1	7725144241665892	Malagasy	plat1254	to look	LOOK	1819		mijèry	mijèry 
+1143	28-15-55-1	7725144310253476	Malagasy	plat1254	to show	SHOW	1039		mampisèho	mampisèho 
+1144	28-15-55-2	7725144828684763	Malagasy	plat1254	to show	SHOW	1039		manòro	manòro 
+1145	28-15-56-1	772514468488667	Malagasy	plat1254	to shine	SHINE	708		mamirapìratra	mamirapìratra 
+1146	28-15-57-1	772514468488667	Malagasy	plat1254	bright	BRIGHT	679		mamirapìratra	mamirapìratra 
+1147	28-15-57-2	7725144738394464	Malagasy	plat1254	bright	BRIGHT	679		manjopìaka	manjopìaka 
+1148	28-15-61-1	7725144803633074	Malagasy	plat1254	the colour/color	COLOR	1613		lòko	lòko 
+1149	28-15-62-1	7725144379855193	Malagasy	plat1254	light(2)	LIGHT (COLOR)	250		tanòra	tanòra 
+1150	28-15-63-1	7725144947796837	Malagasy	plat1254	dark	DARK	706		àntitra	àntitra 
+1151	28-15-64-1	7725144725043348	Malagasy	plat1254	white	WHITE	1335		fòtsy	fòtsy 
+1152	28-15-65-1	7725144862727193	Malagasy	plat1254	black	BLACK	163		maìnty	maìnty 
+1153	28-15-66-1	772514491092275	Malagasy	plat1254	red	RED	156		mèna	mèna 
+1154	28-15-67-1	7725144999380582	Malagasy	plat1254	blue	BLUE	837		mànga	mànga 
+1155	28-15-68-1	7725144808401378	Malagasy	plat1254	green	GREEN	1425		maìtso	maìtso 
+1156	28-15-69-1	7725144313030318	Malagasy	plat1254	yellow	YELLOW	1424		vòny (2)	vòny (2) 
+1157	28-15-71-1	7725144904865733	Malagasy	plat1254	to touch	TOUCH	1892		mikàsika	mikàsika 
+1158	28-15-71-2	772514470323749	Malagasy	plat1254	to touch	TOUCH	1892		mitsàpa	mitsàpa 
+1159	28-15-712-1	7725144375949331	Malagasy	plat1254	to pinch	PINCH	378		manòngo	manòngo 
+1160	28-15-72-1	772514470323749	Malagasy	plat1254	to feel	FEEL	1079		mitsàpa	mitsàpa 
+1161	28-15-74-1	772514444631015	Malagasy	plat1254	hard	HARD	1884		màfy	màfy 
+1162	28-15-75-1	77251445095179	Malagasy	plat1254	soft	SOFT	1856		malèmy	malèmy 
+1163	28-15-75-2	7725144165642011	Malagasy	plat1254	soft	SOFT	1856		malambolàmbo	malambolàmbo 
+1164	28-15-76-1	7725144309206395	Malagasy	plat1254	rough(1)	ROUGH	1923		marào	marào 
+1165	28-15-76-2	7725144763017834	Malagasy	plat1254	rough(1)	ROUGH	1923		marokoròko	marokoròko 
+1166	28-15-77-1	7725144379468480	Malagasy	plat1254	smooth	SMOOTH	1234		ma-làma	ma-làma 
+1167	28-15-78-1	7725144889324888	Malagasy	plat1254	sharp	SHARP	1396		marànitra	marànitra 
+1168	28-15-79-1	7725144447821080	Malagasy	plat1254	blunt	BLUNT	379		dòmbo	dòmbo 
+1169	28-15-81-1	7725144385864210	Malagasy	plat1254	heavy	HEAVY	1210		mavèsatra	mavèsatra 
+1170	28-15-82-1	7725144865395790	Malagasy	plat1254	light(1)	LIGHT (WEIGHT)	1052		maìvana	maìvana 
+1171	28-15-83-1	7725144533936364	Malagasy	plat1254	wet	WET	1726		lèna	lèna 
+1172	28-15-84-1	7725144695804525	Malagasy	plat1254	dry	DRY	1398		màina	màina 
+1173	28-15-85-1	7725144614726811	Malagasy	plat1254	hot	HOT	1286		mahamày	mahamày 
+1174	28-15-851-1	7725144731514381	Malagasy	plat1254	warm	WARM	1232		ma-fàna	ma-fàna 
+1175	28-15-86-1	7725144639965930	Malagasy	plat1254	cold	COLD	1287		mangatsìaka	mangatsìaka 
+1176	28-15-87-1	7725144676713097	Malagasy	plat1254	clean	CLEAN	704		madìo	madìo 
+1177	28-15-88-1	7725144236694613	Malagasy	plat1254	dirty	DIRTY	1230		malòto	malòto 
+1178	28-16-11-1	7725144810992222	Malagasy	plat1254	the soul or spirit	SOUL	811		fanàhy	fanàhy 
+1179	28-16-15-1	7725144581645009	Malagasy	plat1254	surprised or astonished	SURPRISED	1572		tàitra	tàitra 
+1180	28-16-15-2	7725144431042371	Malagasy	plat1254	surprised or astonished	SURPRISED	1572		talànjona	talànjona 
+1181	28-16-15-3	7725144117481672	Malagasy	plat1254	surprised or astonished	SURPRISED	1572		gàga	gàga 
+1182	28-16-18-1	7725144289847666	Malagasy	plat1254	the good luck	GOOD LUCK	720		zàra	zàra 
+1183	28-16-19-1	7725144958747699	Malagasy	plat1254	the bad luck	BAD LUCK	56		fahorìana	fahorìana 
+1184	28-16-19-2	7725144667070571	Malagasy	plat1254	the bad luck	BAD LUCK	56		zo	zo 
+1185	28-16-19-3	7725144719949575	Malagasy	plat1254	the bad luck	BAD LUCK	56		angàno	angàno 
+1186	28-16-23-1	7725144516208645	Malagasy	plat1254	happy	HAPPY	1495		finàritra	finàritra 
+1187	28-16-23-2	7725144128917911	Malagasy	plat1254	happy	HAPPY	1495		sàmbatra	sàmbatra 
+1188	28-16-25-1	7725144810139450	Malagasy	plat1254	to laugh	LAUGH	1355		mihomèhy	mihomèhy 
+1189	28-16-251-1	7725144258927499	Malagasy	plat1254	to smile	SMILE	1451		mitsìky	mitsìky 
+1190	28-16-26-1	7725144379531911	Malagasy	plat1254	to play	PLAY	1413		milalào	milalào 
+1191	28-16-27-1	7725144330813378	Malagasy	plat1254	to love	LOVE	923		tìa	tìa 
+1192	28-16-29-1	7725144867213707	Malagasy	plat1254	to kiss	KISS	578		manòroka	manòroka 
+1193	28-16-3-1	7725144432456621	Malagasy	plat1254	to embrace	EMBRACE	928		mamìhina	mamìhina 
+1194	28-16-31-1	7725144499708648	Malagasy	plat1254	the pain	PAIN	1783		ràry (1)	ràry (1) 
+1195	28-16-32-1	7725144861943660	Malagasy	plat1254	the grief	GRIEF	1668		alahèlo	alahèlo 
+1196	28-16-33-1	7725144609288203	Malagasy	plat1254	the anxiety	ANXIETY	1000		fahamanìnana	fahamanìnana 
+1197	28-16-33-2	7725144704581218	Malagasy	plat1254	the anxiety	ANXIETY	1000		ahiàhy	ahiàhy 
+1198	28-16-34-1	7725144271776260	Malagasy	plat1254	to regret or be sorry	REGRET	1875		manènina	manènina 
+1199	28-16-34-2	7725144796510768	Malagasy	plat1254	to regret or be sorry	REGRET	1875		malahèlo	malahèlo 
+1200	28-16-35-1	7725144444053179	Malagasy	plat1254	the pity	PITY	1141		àntra	àntra 
+1201	28-16-35-2	772514489550921	Malagasy	plat1254	the pity	PITY	1141		fìndra fo	fìndra fo 
+1202	28-16-37-1	7725144968330906	Malagasy	plat1254	to cry	CRY	1839		mi-tomàny	mi-tomàny 
+1203	28-16-38-1	7725144574715465	Malagasy	plat1254	the tear	TEAR (OF EYE)	1651		ranomàso	ranomàso 
+1204	28-16-39-1	7725144250332304	Malagasy	plat1254	to groan	GROAN	716		mitrèrona	mitrèrona 
+1205	28-16-41-1	7725144379156107	Malagasy	plat1254	to hate	HATE	1607		mankahàla	mankahàla 
+1206	28-16-41-2	7725144622772489	Malagasy	plat1254	to hate	HATE	1607		mandràfy	mandràfy 
+1207	28-16-42-1	7725144470037620	Malagasy	plat1254	the anger	ANGER	82		fahatezèrana	fahatezèrana 
+1208	28-16-42-2	7725144897518123	Malagasy	plat1254	the anger	ANGER	82		fahavinìrana	fahavinìrana 
+1209	28-16-44-1	7725144361887996	Malagasy	plat1254	the envy or jealousy	ENVY	40		fialònana	fialònana 
+1210	28-16-44-2	7725144671683667	Malagasy	plat1254	the envy or jealousy	ENVY	40		àlona (2)	àlona (2) 
+1211	28-16-45-1	7725144547111520	Malagasy	plat1254	the shame	SHAME	1776		hènatra	hènatra 
+1212	28-16-48-1	7725144124098819	Malagasy	plat1254	proud	PROUD	174		miavonàvona	miavonàvona 
+1213	28-16-48-2	7725144343645482	Malagasy	plat1254	proud	PROUD	174		mireharèha	mireharèha 
+1214	28-16-51-1	77251448485083	Malagasy	plat1254	to dare	DARE	1779		sàhy	sàhy 
+1215	28-16-52-1	77251448485083	Malagasy	plat1254	brave	BRAVE	3		sàhy	sàhy 
+1216	28-16-52-2	7725144938708081	Malagasy	plat1254	brave	BRAVE	3		be herimpò	be herimpò 
+1217	28-16-53-1	7725144477983725	Malagasy	plat1254	the fear	FEAR (FRIGHT)	781		tàhotra	tàhotra 
+1218	28-16-54-1	7725144141473538	Malagasy	plat1254	the danger	DANGER	1810		lòza	lòza 
+1219	28-16-62-1	7725144254295108	Malagasy	plat1254	to want	WANT	1784		mikàsa	mikàsa 
+1220	28-16-62-2	7725144330813378	Malagasy	plat1254	to want	WANT	1784		tìa	tìa 
+1221	28-16-62-3	7725144742924594	Malagasy	plat1254	to want	WANT	1784		manìry	manìry 
+1222	28-16-622-1	7725144761107221	Malagasy	plat1254	to choose	CHOOSE	1750		mifìdy	mifìdy 
+1223	28-16-63-1	7725144672858212	Malagasy	plat1254	to hope	HOPE (SOMETHING)	3212		manantèna	manantèna 
+1224	28-16-65-1	7725144132062851	Malagasy	plat1254	faithful	FAITHFUL	100		mahatòky	mahatòky 
+1225	28-16-66-1	7725144289443786	Malagasy	plat1254	true	TRUE	1657		màrina	màrina 
+1226	28-16-67-1	7725144591835856	Malagasy	plat1254	to lie(2)	LIE (MISLEAD)	601		mandàinga	mandàinga 
+1227	28-16-68-1	772514471305180	Malagasy	plat1254	the deceit	DECEIT	13		fìtaka	fìtaka 
+1228	28-16-68-2	7725144415424224	Malagasy	plat1254	the deceit	DECEIT	13		fanambakàna	fanambakàna 
+1229	28-16-69-1	7725144439190108	Malagasy	plat1254	to forgive	FORGIVE	1528		mamèla	mamèla 
+1230	28-16-71-1	7725144567321282	Malagasy	plat1254	good	GOOD	1035		tsàra	tsàra 
+1231	28-16-72-1	7725144937281295	Malagasy	plat1254	bad	BAD	1292		ràtsy	ràtsy 
+1232	28-16-73-1	772514488285253	Malagasy	plat1254	right(2)	CORRECT (RIGHT)	1725		ma-hìtsy	ma-hìtsy 
+1233	28-16-73-2	7725144289443786	Malagasy	plat1254	right(2)	CORRECT (RIGHT)	1725		màrina	màrina 
+1234	28-16-74-1	7725144168416237	Malagasy	plat1254	wrong	WRONG	1390		dìso	dìso 
+1235	28-16-74-2	7725144128279243	Malagasy	plat1254	wrong	WRONG	1390		tsy màrina	tsy màrina 
+1236	28-16-76-1	7725144975056834	Malagasy	plat1254	the fault	FAULT	134		òta	òta 
+1237	28-16-76-2	7725144481649137	Malagasy	plat1254	the fault	FAULT	134		hadisòana	hadisòana 
+1238	28-16-76-3	7725144749431594	Malagasy	plat1254	the fault	FAULT	134		hèloka	hèloka 
+1239	28-16-77-1	7725144168416237	Malagasy	plat1254	the mistake	MISTAKE	1293		dìso	dìso 
+1240	28-16-78-1	772514426822664	Malagasy	plat1254	the blame	BLAME	381		tsìny	tsìny 
+1241	28-16-79-1	7725144600548699	Malagasy	plat1254	the praise	PRAISE	1687		dèra	dèra 
+1242	28-16-81-1	7725144872305780	Malagasy	plat1254	beautiful	BEAUTIFUL	1427		tsàra tarèhy	tsàra tarèhy 
+1243	28-16-82-1	7725144840027823	Malagasy	plat1254	ugly	UGLY	1548		ràtsy tarèhy	ràtsy tarèhy 
+1244	28-16-83-1	7725144127729227	Malagasy	plat1254	greedy	GREEDY	2018		lìana	lìana 
+1245	28-16-84-1	7725144570951737	Malagasy	plat1254	clever	CLEVER	1310		mahày	mahày 
+1246	28-17-11-1	7725144119292799	Malagasy	plat1254	the mind	MIND	1562		sàina	sàina 
+1247	28-17-13-1	7725144621116725	Malagasy	plat1254	to think(1)	THINK (REFLECT)	1415		misàina	misàina 
+1248	28-17-13-2	7725144228809594	Malagasy	plat1254	to think(1)	THINK (REFLECT)	1415		mihèvitra	mihèvitra 
+1249	28-17-13-3	772514423319174	Malagasy	plat1254	to think(1)	THINK (REFLECT)	1415		mieritrèritra	mieritrèritra 
+1250	28-17-14-1	7725144993175936	Malagasy	plat1254	to think(2)	THINK (BELIEVE)	1513		manào	manào 
+1251	28-17-15-1	7725144626530968	Malagasy	plat1254	to believe	BELIEVE	1890		mìno	mìno 
+1252	28-17-16-1	7725144632369921	Malagasy	plat1254	to understand	UNDERSTAND	1536		mahàzo	mahàzo 
+1253	28-17-17-1	7725144764055372	Malagasy	plat1254	to know	KNOW (SOMETHING)	1410		mahalàla	mahalàla 
+1254	28-17-17-2	7725144891167587	Malagasy	plat1254	to know	KNOW (SOMETHING)	1410		mahafàntatra	mahafàntatra 
+1255	28-17-171-1	7725144999071092	Malagasy	plat1254	to guess	GUESS	1932		maminàny	maminàny 
+1256	28-17-172-1	772514448009075	Malagasy	plat1254	to imitate	IMITATE	117		màka tàhaka	màka tàhaka 
+1257	28-17-18-1	7725144703871900	Malagasy	plat1254	to seem	SEEM	1521		atào	atào 
+1258	28-17-18-2	772514438185957	Malagasy	plat1254	to seem	SEEM	1521		tòa	tòa 
+1259	28-17-19-1	7725144866224024	Malagasy	plat1254	the idea	IDEA	1609		hèvitra	hèvitra 
+1260	28-17-21-1	7725144486702055	Malagasy	plat1254	wise	WISE	698		hèndry	hèndry 
+1261	28-17-21-2	7725144606928908	Malagasy	plat1254	wise	WISE	698		màotina	màotina 
+1262	28-17-22-1	7725144222775579	Malagasy	plat1254	stupid	STUPID	1518		dònto	dònto 
+1263	28-17-22-2	7725144627393698	Malagasy	plat1254	stupid	STUPID	1518		kètrina	kètrina 
+1264	28-17-23-1	7725144795356552	Malagasy	plat1254	mad	MAD	1899		adàla	adàla 
+1265	28-17-24-1	7725144739392027	Malagasy	plat1254	to learn	LEARN	504		miànatra	miànatra 
+1266	28-17-242-1	7725144739392027	Malagasy	plat1254	to study	STUDY	1929		miànatra	miànatra 
+1267	28-17-25-1	7725144247251850	Malagasy	plat1254	to teach	TEACH	709		mampiànatra	mampiànatra 
+1268	28-17-26-1	7725144633188287	Malagasy	plat1254	the pupil	PUPIL (STUDENT)	753		mpiànatra	mpiànatra 
+1269	28-17-27-1	7725144139190049	Malagasy	plat1254	the teacher	TEACHER	1038		mpampiànatra	mpampiànatra 
+1270	28-17-28-1	7725144683398038	Malagasy	plat1254	the school	SCHOOL	673		sekòly	sekòly 
+1271	28-17-31-1	7725144752574520	Malagasy	plat1254	to remember	REMEMBER	707		mahatsiàro	mahatsiàro 
+1272	28-17-31-2	7725144836328357	Malagasy	plat1254	to remember	REMEMBER	707		mahatadìdy	mahatadìdy 
+1273	28-17-31-3	7725144754827707	Malagasy	plat1254	to remember	REMEMBER	707		mahatsiàhy	mahatsiàhy 
+1274	28-17-32-1	7725144753990544	Malagasy	plat1254	to forget	FORGET	1523		manadìno	manadìno 
+1275	28-17-34-1	7725144608892614	Malagasy	plat1254	clear	CLEAR	989		mazàva	mazàva 
+1276	28-17-35-1	7725144741518254	Malagasy	plat1254	obscure	OBSCURE	1764		maìzina	maìzina 
+1277	28-17-36-1	7725144249007977	Malagasy	plat1254	secret	SECRET	1121		miàfina	miàfina 
+1278	28-17-36-2	7725144258336132	Malagasy	plat1254	secret	SECRET	1121		tàkona	tàkona 
+1279	28-17-37-1	7725144289443786	Malagasy	plat1254	certain	CERTAIN	509		màrina	màrina 
+1280	28-17-38-1	7725144312533424	Malagasy	plat1254	to explain	EXPLAIN	1626		manazàva	manazàva 
+1281	28-17-41-1	7725144152139294	Malagasy	plat1254	the intention	INTENTION	1162		fikasàna	fikasàna 
+1282	28-17-41-2	7725144199780053	Malagasy	plat1254	the intention	INTENTION	1162		kendrèna	kendrèna 
+1283	28-17-42-1	7725144244566279	Malagasy	plat1254	the cause	CAUSE	860		fòtotra	fòtotra 
+1284	28-17-42-2	7725144302008974	Malagasy	plat1254	the cause	CAUSE	860		antòny	antòny 
+1285	28-17-42-3	7725144193479006	Malagasy	plat1254	the cause	CAUSE	860		nihavìany	nihavìany 
+1286	28-17-43-1	7725144503556591	Malagasy	plat1254	the doubt	DOUBT	1308		fisalasàlana	fisalasàlana 
+1287	28-17-44-1	7725144780465320	Malagasy	plat1254	to suspect	SUSPECT	1841		miahiàhy	miahiàhy 
+1288	28-17-441-1	7725144388066070	Malagasy	plat1254	to betray	BETRAY	1902		manòdy	manòdy 
+1289	28-17-441-2	7725144522803156	Malagasy	plat1254	to betray	BETRAY	1902		mambàdika	mambàdika 
+1290	28-17-45-1	7725144409533970	Malagasy	plat1254	the need or necessity	NEED (NOUN)	643		fahantràna	fahantràna 
+1291	28-17-46-1	7725144753989497	Malagasy	plat1254	easy	EASY	686		mòra	mòra 
+1292	28-17-47-1	7725144445721043	Malagasy	plat1254	difficult	DIFFICULT	584		sàrotra	sàrotra 
+1293	28-17-48-1	7725144834077484	Malagasy	plat1254	to try	TRY	1812		manàndrana	manàndrana 
+1294	28-17-49-1	7725144276117865	Malagasy	plat1254	the manner	MANNER	488		fòmba	fòmba 
+1295	28-17-51-1	7725144339595971	Malagasy	plat1254	and	AND	1577		àry (2)	àry (2) 
+1296	28-17-51-2	7725144692404041	Malagasy	plat1254	and	AND	1577		sy	sy 
+1297	28-17-51-3	7725144471864399	Malagasy	plat1254	and	AND	1577		dìa	dìa 
+1298	28-17-52-1	7725144279076959	Malagasy	plat1254	because	BECAUSE	1157		satrìa	satrìa 
+1299	28-17-53-1	7725144296612027	Malagasy	plat1254	if	IF	1459		ràha	ràha 
+1300	28-17-54-1	7725144486631647	Malagasy	plat1254	or	OR	1014		na	na 
+1301	28-17-54-2	772514446970113	Malagasy	plat1254	or	OR	1014		sa	sa 
+1302	28-17-55-1	7725144166191675	Malagasy	plat1254	yes	YES	1268		èny	èny 
+1303	28-17-56-1	7725144728293754	Malagasy	plat1254	no	NO	1269		tsìa	tsìa 
+1304	28-17-56-2	7725144810294746	Malagasy	plat1254	no	NO	1269		tsy	tsy 
+1305	28-17-61-1	7725144137711765	Malagasy	plat1254	how?	HOW	1239		ahòana	ahòana 
+1306	28-17-61-2	7725144286862304	Malagasy	plat1254	how?	HOW	1239		akòry	akòry 
+1307	28-17-62-1	7725144612926742	Malagasy	plat1254	how many?	HOW MANY	822		firy	firy 
+1308	28-17-63-1	7725144678707968	Malagasy	plat1254	how much?	HOW MUCH	531		fìry	fìry 
+1309	28-17-63-2	7725144993558776	Malagasy	plat1254	how much?	HOW MUCH	531		hoatrìnona	hoatrìnona 
+1310	28-17-64-1	7725144325308341	Malagasy	plat1254	what?	WHAT	1236		ìnona	ìnona 
+1311	28-17-65-1	7725144409632562	Malagasy	plat1254	when?	WHEN	1238		ovìana	ovìana 
+1312	28-17-66-1	7725144223521698	Malagasy	plat1254	where?	WHERE	1237		àiza	àiza 
+1313	28-17-67-1	7725144903994508	Malagasy	plat1254	which?	WHICH	727		ìzay	ìzay 
+1314	28-17-68-1	7725144381942963	Malagasy	plat1254	who?	WHO	1235		ìza	ìza 
+1315	28-17-69-1	7725144496245512	Malagasy	plat1254	why?	WHY	1270		nahòana	nahòana 
+1316	28-18-11-1	7725144886436192	Malagasy	plat1254	the voice	VOICE	1363		fèo	fèo 
+1317	28-18-12-1	7725144964102531	Malagasy	plat1254	to sing	SING	1261		mihìra	mihìra 
+1318	28-18-13-1	7725144411180468	Malagasy	plat1254	to shout	SHOUT	715		mikiakìaka	mikiakìaka 
+1319	28-18-15-1	7725144643091492	Malagasy	plat1254	to whisper	WHISPER	55		mibitsibìtsika	mibitsibìtsika 
+1320	28-18-16-1	7725144903390494	Malagasy	plat1254	to mumble	MUMBLE	128		mimonomònona	mimonomònona 
+1321	28-18-17-1	7725144559266894	Malagasy	plat1254	to whistle	WHISTLE	1025		misìaka	misìaka 
+1322	28-18-17-2	7725144512470126	Malagasy	plat1254	to whistle	WHISTLE	1025		misìoka	misìoka 
+1323	28-18-18-1	7725144411180468	Malagasy	plat1254	to shriek	SHRIEK	298		mikiakìaka	mikiakìaka 
+1324	28-18-19-1	7725144318191861	Malagasy	plat1254	to howl	HOWL	526		midradradràdra	midradradràdra 
+1325	28-18-21-1	7725144287125607	Malagasy	plat1254	to speak or talk	SPEAK	1623		mitèny	mitèny 
+1326	28-18-21-2	7725144470407400	Malagasy	plat1254	to speak or talk	SPEAK	1623		mirèsaka	mirèsaka 
+1327	28-18-211-1	7725144836310353	Malagasy	plat1254	to stutter or stammer	STUTTER	1866		miakanàkana	miakanàkana 
+1328	28-18-211-2	772514456997372	Malagasy	plat1254	to stutter or stammer	STUTTER	1866		miambakàvaka	miambakàvaka 
+1329	28-18-22-1	7725144258330011	Malagasy	plat1254	to say	SAY	1458		milàza	milàza 
+1330	28-18-221-1	7725144851759775	Malagasy	plat1254	to tell	TELL	1711		mitantàra	mitantàra 
+1331	28-18-222-1	7725144375583288	Malagasy	plat1254	the speech	SPEECH	1115		lahatèny	lahatèny 
+1332	28-18-222-2	7725144981654381	Malagasy	plat1254	the speech	SPEECH	1115		kabàry	kabàry 
+1333	28-18-23-1	7725144951417776	Malagasy	plat1254	to be silent	BE SILENT	48		man(gina-)gìna	man(gina-)gìna 
+1334	28-18-24-1	7725144466023230	Malagasy	plat1254	the language	LANGUAGE	1307		fiteny	fiteny 
+1335	28-18-26-1	7725144684282182	Malagasy	plat1254	the word	WORD	1599		tèny	tèny 
+1336	28-18-28-1	7725144729410444	Malagasy	plat1254	the name	NAME	1405		anàrana	anàrana 
+1337	28-18-31-1	7725144353234406	Malagasy	plat1254	to ask(1)	ASK (INQUIRE)	1309		manontàny	manontàny 
+1338	28-18-32-1	7725144519916200	Malagasy	plat1254	to answer	ANSWER	1275		mamàly	mamàly 
+1339	28-18-33-1	7725144128695076	Malagasy	plat1254	to admit	ADMIT	2022		miàiky	miàiky 
+1340	28-18-34-1	7725144885147132	Malagasy	plat1254	to deny	DENY	755		mandà	mandà 
+1341	28-18-35-1	7725144120325993	Malagasy	plat1254	to ask(2)	ASK (REQUEST)	1828		mangàtaka	mangàtaka 
+1342	28-18-36-1	7725144151116447	Malagasy	plat1254	to promise	PROMISE	1675		mampanantèna	mampanantèna 
+1343	28-18-36-2	7725144853011066	Malagasy	plat1254	to promise	PROMISE	1675		manòme tòky	manòme tòky 
+1344	28-18-37-1	7725144885147132	Malagasy	plat1254	to refuse	REFUSE	49		mandà	mandà 
+1345	28-18-38-1	7725144976391512	Malagasy	plat1254	to forbid	FORBID	83		mandràra	mandràra 
+1346	28-18-39-1	7725144591617977	Malagasy	plat1254	to scold	SCOLD	299		mandevilèvy	mandevilèvy 
+1347	28-18-41-1	7725144200193206	Malagasy	plat1254	to call(1)	CALL	1084		miàntso	miàntso 
+1348	28-18-42-1	7725144809476517	Malagasy	plat1254	to call(2)	CALL BY NAME	180		manào hoe	manào hoe 
+1349	28-18-43-1	7725144845442347	Malagasy	plat1254	to announce	ANNOUNCE	9		manambàra	manambàra 
+1350	28-18-44-1	7725144439805603	Malagasy	plat1254	to threaten	THREATEN	1192		mandràhona	mandràhona 
+1351	28-18-45-1	7725144482075657	Malagasy	plat1254	to boast	BOAST	101		mirèhaka	mirèhaka 
+1352	28-18-45-2	7725144263417791	Malagasy	plat1254	to boast	BOAST	101		midèra tèna	midèra tèna 
+1353	28-18-45-3	7725144343645482	Malagasy	plat1254	to boast	BOAST	101		mireharèha	mireharèha 
+1354	28-18-51-1	7725144517536467	Malagasy	plat1254	to write	WRITE	1672		manòratra	manòratra 
+1355	28-18-52-1	7725144154033310	Malagasy	plat1254	to read	READ	724		mamàky	mamàky 
+1356	28-18-56-1	7725144889106047	Malagasy	plat1254	the paper	PAPER	648		taratàsy	taratàsy 
+1357	28-18-57-1	7725144854529067	Malagasy	plat1254	the pen	PEN	794		pènina	pènina 
+1358	28-18-61-1	7725144275964128	Malagasy	plat1254	the book	BOOK	963		bòky	bòky 
+1359	28-18-67-1	7725144994845125	Malagasy	plat1254	the poet	POET	1045		mpanao tononkìra	mpanao tononkìra 
+1360	28-18-71-1	7725144500859675	Malagasy	plat1254	the flute	FLUTE	777		sòdina	sòdina 
+1361	28-18-72-1	7725144376729882	Malagasy	plat1254	the drum	DRUM	908		ampònga	ampònga 
+1362	28-18-73-1	7725144851542600	Malagasy	plat1254	the horn or trumpet	BRASS INSTRUMENT (HORN OR TRUMPET)	2136		tròmpetra	tròmpetra 
+1363	28-19-11-1	7725144837895611	Malagasy	plat1254	the country	COUNTRY	1300		tàny	tàny 
+1364	28-19-12-1	7725144432352128	Malagasy	plat1254	the native country	NATIVE COUNTRY	89		tanindràzana	tanindràzana 
+1365	28-19-15-1	7725144429452084	Malagasy	plat1254	the town	TOWN	1391		tanàna	tanàna 
+1366	28-19-16-1	7725144782094817	Malagasy	plat1254	the village	VILLAGE	930		vòhitra	vòhitra 
+1367	28-19-16-2	7725144429452084	Malagasy	plat1254	the village	VILLAGE	930		tanàna	tanàna 
+1368	28-19-17-1	7725144294709927	Malagasy	plat1254	the boundary	BOUNDARY	1010		fàritra	fàritra 
+1369	28-19-17-2	7725144593979194	Malagasy	plat1254	the boundary	BOUNDARY	1010		sisintàny	sisintàny 
+1370	28-19-17-3	7725144940158588	Malagasy	plat1254	the boundary	BOUNDARY	1010		vazantàny	vazantàny 
+1371	28-19-17-4	7725144229534725	Malagasy	plat1254	the boundary	BOUNDARY	1010		vàva tàny	vàva tàny 
+1372	28-19-21-1	7725144497978094	Malagasy	plat1254	the people	PEOPLE	789		vahòaka	vahòaka 
+1373	28-19-23-1	7725144512900515	Malagasy	plat1254	the clan	CLAN	302		fòko	fòko 
+1374	28-19-24-1	7725144915896005	Malagasy	plat1254	the chieftain	CHIEFTAIN	301		filòha	filòha 
+1375	28-19-24-2	7725144239284037	Malagasy	plat1254	the chieftain	CHIEFTAIN	301		ben’ny tàny	ben’ny tàny 
+1376	28-19-25-1	7725144426993586	Malagasy	plat1254	the walking stick	WALKING STICK	1296		tèhina	tèhina 
+1377	28-19-31-1	7725144834667432	Malagasy	plat1254	to rule or govern	RULE	1846		mifèhy	mifèhy 
+1378	28-19-31-2	7725144494838794	Malagasy	plat1254	to rule or govern	RULE	1846		manjàka	manjàka 
+1379	28-19-32-1	7725144518736468	Malagasy	plat1254	the king	KING	1508		mpanjàka	mpanjàka 
+1380	28-19-33-1	7725144518736468	Malagasy	plat1254	the queen	QUEEN	1306		mpanjàka	mpanjàka 
+1381	28-19-36-1	7725144616206212	Malagasy	plat1254	the noble	NOBLE	482		andrìana	andrìana 
+1382	28-19-37-1	7725144135003665	Malagasy	plat1254	the citizen	CITIZEN	1032		olompirènena	olompirènena 
+1383	28-19-41-1	7725144345517894	Malagasy	plat1254	the master	MASTER	383		tòmpo	tòmpo 
+1384	28-19-42-1	7725144523570279	Malagasy	plat1254	the slave	SLAVE	812		andèvo	andèvo 
+1385	28-19-43-1	772514424060562	Malagasy	plat1254	the servant	SERVANT	255		mpanòmpo	mpanòmpo 
+1386	28-19-43-2	772514481865944	Malagasy	plat1254	the servant	SERVANT	255		mpisarìvy	mpisarìvy 
+1387	28-19-44-1	7725144180241025	Malagasy	plat1254	the freeman	FREEMAN	384		olompòtsy	olompòtsy 
+1388	28-19-44-2	7725144493720084	Malagasy	plat1254	the freeman	FREEMAN	384		òlona àfaka	òlona àfaka 
+1389	28-19-45-1	7725144224029074	Malagasy	plat1254	to command or order	ORDER	1128		mandìdy	mandìdy 
+1390	28-19-46-1	7725144475168057	Malagasy	plat1254	to obey	OBEY	1635		manàiky	manàiky 
+1391	28-19-46-2	7725144931280384	Malagasy	plat1254	to obey	OBEY	1635		manòmpo	manòmpo 
+1392	28-19-47-1	7725144439190108	Malagasy	plat1254	to permit	PERMIT	1003		mamèla	mamèla 
+1393	28-19-47-2	7725144144197691	Malagasy	plat1254	to permit	PERMIT	1003		manòme làlana	manòme làlana 
+1394	28-19-51-1	772514473677079	Malagasy	plat1254	the friend	FRIEND	1325		sakàiza	sakàiza 
+1395	28-19-52-1	7725144961454406	Malagasy	plat1254	the enemy	ENEMY	1358		fahavàlo	fahavàlo 
+1396	28-19-54-1	7725144433713833	Malagasy	plat1254	the neighbour	NEIGHBOUR	1332		mpifanolobody rìndrina	mpifanolobody rìndrina 
+1397	28-19-55-1	7725144602759221	Malagasy	plat1254	the stranger	STRANGER	791		vahìny	vahìny 
+1398	28-19-55-2	7725144951786023	Malagasy	plat1254	the stranger	STRANGER	791		vazàha	vazàha 
+1399	28-19-56-1	7725144602759221	Malagasy	plat1254	the guest	GUEST	1782		vahìny	vahìny 
+1400	28-19-57-1	7725144858726039	Malagasy	plat1254	the host	HOST	1545		tompontràno	tompontràno 
+1401	28-19-58-1	7725144363167	Malagasy	plat1254	to help	HELP	1897		manàmpy	manàmpy 
+1402	28-19-59-1	7725144679943765	Malagasy	plat1254	to prevent	PREVENT	1550		misàkana	misàkana 
+1403	28-19-59-2	7725144321041596	Malagasy	plat1254	to prevent	PREVENT	1550		manampontsàmpona	manampontsàmpona 
+1404	28-19-61-1	7725144276117865	Malagasy	plat1254	the custom	CUSTOM	1747		fòmba	fòmba 
+1405	28-19-62-1	772514451369407	Malagasy	plat1254	the quarrel	QUARREL	1848		àdy vàva	àdy vàva 
+1406	28-19-62-2	7725144997970943	Malagasy	plat1254	the quarrel	QUARREL	1848		fifandìrana	fifandìrana 
+1407	28-19-63-1	7725144500877063	Malagasy	plat1254	the plot	PLOT	2024		tètika	tètika 
+1408	28-19-65-1	7725144816176358	Malagasy	plat1254	to meet	MEET	1831		mifanòjo	mifanòjo 
+1409	28-19-65-2	7725144562930136	Malagasy	plat1254	to meet	MEET	1831		mifanèna	mifanèna 
+1410	28-19-65-3	7725144671104915	Malagasy	plat1254	to meet	MEET	1831		mihàona	mihàona 
+1411	28-19-72-1	7725144593579838	Malagasy	plat1254	the prostitute	PROSTITUTE	1610		makorèlina	makorèlina 
+1412	28-19-72-2	7725144715640270	Malagasy	plat1254	the prostitute	PROSTITUTE	1610		mpivarotèna	mpivarotèna 
+1413	28-19-72-3	7725144997507763	Malagasy	plat1254	the prostitute	PROSTITUTE	1610		kàody	kàody 
+1414	28-19-72-4	7725144479495919	Malagasy	plat1254	the prostitute	PROSTITUTE	1610		vehivàvy janga	vehivàvy janga 
+1415	28-20-11-1	7725144428028232	Malagasy	plat1254	to fight	FIGHT	1423		miàdy	miàdy 
+1416	28-20-13-1	77251443347783	Malagasy	plat1254	the war or battle	BATTLE	579		àdy	àdy 
+1417	28-20-14-1	7725144407085386	Malagasy	plat1254	the peace	PEACE	1338		fiadànana	fiadànana 
+1418	28-20-15-1	7725144648387668	Malagasy	plat1254	the army	ARMY	1561		tàfika	tàfika 
+1419	28-20-17-1	7725144380610534	Malagasy	plat1254	the soldier	SOLDIER	1941		miaramìla	miaramìla 
+1420	28-20-21-1	7725144224503582	Malagasy	plat1254	the weapons	WEAPONS	951		fiadìana	fiadìana 
+1421	28-20-22-1	7725144469331469	Malagasy	plat1254	the club	CLUB	1763		kibày	kibày 
+1422	28-20-222-1	7725144953629128	Malagasy	plat1254	the battle-axe	BATTLE-AXE	386		famàky	famàky 
+1423	28-20-23-1	7725144310193723	Malagasy	plat1254	the sling	SLING	387		antsamotàdy	antsamotàdy 
+1424	28-20-23-2	772514418459626	Malagasy	plat1254	the sling	SLING	387		pìlotra	pìlotra 
+1425	28-20-24-1	7725144147405454	Malagasy	plat1254	the bow	BOW	994		tsipìka	tsipìka 
+1426	28-20-25-1	772514488065840	Malagasy	plat1254	the arrow	ARROW	977		zana-tsipìka	zana-tsipìka 
+1427	28-20-26-1	7725144400127156	Malagasy	plat1254	the spear	SPEAR	945		lèfona	lèfona 
+1428	28-20-27-1	7725144992798889	Malagasy	plat1254	the sword	SWORD	1535		sàbatra	sàbatra 
+1429	28-20-28-1	7725144112834528	Malagasy	plat1254	the gun	GUN	1566		bàsy	bàsy 
+1430	28-20-28-2	7725144100917806	Malagasy	plat1254	the gun	GUN	1566		ampingahàratra	ampingahàratra 
+1431	28-20-34-1	7725144446023891	Malagasy	plat1254	the shield	SHIELD	1064		ampìnga	ampìnga 
+1432	28-20-35-1	7725144159687827	Malagasy	plat1254	the fortress	FORTRESS	1938		mànda	mànda 
+1433	28-20-36-1	7725144823188480	Malagasy	plat1254	the tower	TOWER	1671		tilikàmbo	tilikàmbo 
+1434	28-20-41-1	7725144293718078	Malagasy	plat1254	the victory	VICTORY	783		fandrèsena	fandrèsena 
+1435	28-20-42-1	7725144711700948	Malagasy	plat1254	the defeat	DEFEAT	782		faharèsena	faharèsena 
+1436	28-20-43-1	7725144150418527	Malagasy	plat1254	the attack	ATTACK	722		famelèzana	famelèzana 
+1437	28-20-44-1	7725144553635020	Malagasy	plat1254	to defend	DEFEND	1330		miàro	miàro 
+1438	28-20-45-1	7725144542778603	Malagasy	plat1254	to retreat	RETREAT	421		mandositra	mandositra 
+1439	28-20-45-2	7725144541283496	Malagasy	plat1254	to retreat	RETREAT	421		mirìatra	mirìatra 
+1440	28-20-46-1	7725144899195257	Malagasy	plat1254	to surrender	SURRENDER	1696		mitolobàtana	mitolobàtana 
+1441	28-20-47-1	7725144877141444	Malagasy	plat1254	the captive or prisoner	PRISONER	1072		bàbo	bàbo 
+1442	28-20-47-2	7725144649434733	Malagasy	plat1254	the captive or prisoner	PRISONER	1072		sambobèlona	sambobèlona 
+1443	28-20-47-3	7725144850163388	Malagasy	plat1254	the captive or prisoner	PRISONER	1072		mpifàtotra	mpifàtotra 
+1444	28-20-47-4	7725144154790842	Malagasy	plat1254	the captive or prisoner	PRISONER	1072		gàdra	gàdra 
+1445	28-20-471-1	7725144737640969	Malagasy	plat1254	the guard	GUARD	1940		mpiàmbina	mpiàmbina 
+1446	28-20-48-1	7725144533493072	Malagasy	plat1254	the booty	BOOTY	1022		rèmby	rèmby 
+1447	28-20-48-2	7725144877141444	Malagasy	plat1254	the booty	BOOTY	1022		bàbo	bàbo 
+1448	28-20-49-1	7725144478194427	Malagasy	plat1254	the ambush	AMBUSH	65		òtrika	òtrika 
+1449	28-20-51-1	7725144683117889	Malagasy	plat1254	the fisherman	FISHERMAN	1858		mpihàza	mpihàza 
+1450	28-20-51-2	7725144831735663	Malagasy	plat1254	the fisherman	FISHERMAN	1858		mpamìntana	mpamìntana 
+1451	28-20-51-3	772514475739060	Malagasy	plat1254	the fisherman	FISHERMAN	1858		mpanjòno	mpanjòno 
+1452	28-20-51-4	7725144948710306	Malagasy	plat1254	the fisherman	FISHERMAN	1858		mpamòvo	mpamòvo 
+1453	28-20-52-1	772514414886288	Malagasy	plat1254	the fishhook	FISHHOOK	1074		fìntana	fìntana 
+1454	28-20-53-1	7725144347454171	Malagasy	plat1254	the fishing line	FISHING LINE	19		tadimpìntana	tadimpìntana 
+1455	28-20-54-1	7725144465504020	Malagasy	plat1254	the fishnet	FISHNET	388		haràto	haràto 
+1456	28-20-55-1	7725144827894084	Malagasy	plat1254	the fish trap	FISH TRAP	389		vòvo	vòvo 
+1457	28-20-56-1	7725144340080874	Malagasy	plat1254	the bait	BAIT	2013		jòno	jòno 
+1458	28-20-61-1	7725144115888178	Malagasy	plat1254	to hunt	HUNT	1435		mihàza	mihàza 
+1459	28-20-62-1	7725144982226253	Malagasy	plat1254	to shoot	SHOOT	1172		manapòaka	manapòaka 
+1460	28-20-62-2	772514411280236	Malagasy	plat1254	to shoot	SHOOT	1172		mitìfitra	mitìfitra 
+1461	28-20-63-1	7725144587861523	Malagasy	plat1254	to miss	MISS (A TARGET)	161		tsy mahavoa	tsy mahavoa 
+1462	28-20-64-1	7725144238026910	Malagasy	plat1254	the trap	TRAP (PITFALL)	1075		fàndrika	fàndrika 
+1463	28-20-65-1	7725144961532553	Malagasy	plat1254	to trap	TRAP (CATCH)	1170		mamàndrika	mamàndrika 
+1464	28-21-11-1	7725144459138650	Malagasy	plat1254	the law	LAW	1062		lalàna	lalàna 
+1465	28-21-15-1	7725144404062034	Malagasy	plat1254	the court	COURT	1068		fitsaràna	fitsaràna 
+1466	28-12-013-1	7725144589128988	Malagasy	plat1254	at	AT	1461		aN-	aN- 
+1467	28-21-16-1	7725144501108522	Malagasy	plat1254	to adjudicate	ADJUDICATE	1818		mitsàra	mitsàra 
+1468	28-21-17-1	7725144449022462	Malagasy	plat1254	the judgment	JUDGMENT	1067		didimpitsàrana	didimpitsàrana 
+1469	28-21-18-1	772514469116144	Malagasy	plat1254	the judge	JUDGE	861		mpitsàra	mpitsàra 
+1470	28-21-21-1	7725144913174850	Malagasy	plat1254	the plaintiff	PLAINTIFF	2020		mpi-tòry	mpi-tòry 
+1471	28-21-22-1	77251448503623	Malagasy	plat1254	the defendant	DEFENDANT	1034		(ny) voampànga	(ny) voampànga 
+1472	28-21-23-1	7725144590707302	Malagasy	plat1254	the witness	WITNESS	1144		vavolombèlona	vavolombèlona 
+1473	28-21-24-1	7725144195408954	Malagasy	plat1254	to swear	SWEAR	1939		mianìana	mianìana 
+1474	28-21-25-1	7725144395430908	Malagasy	plat1254	the oath	OATH	1712		fianiànana	fianiànana 
+1475	28-21-31-1	7725144676574484	Malagasy	plat1254	to accuse	ACCUSE	1814		miampànga	miampànga 
+1476	28-21-32-1	7725144378840878	Malagasy	plat1254	to condemn	CONDEMN	484		manamèloka	manamèloka 
+1477	28-21-33-1	7725144378840878	Malagasy	plat1254	to convict	CONVICT	983		manamèloka	manamèloka 
+1478	28-21-34-1	7725144632685599	Malagasy	plat1254	to acquit	ACQUIT	988		mamòtsotra	mamòtsotra 
+1479	28-21-34-2	7725144861699740	Malagasy	plat1254	to acquit	ACQUIT	988		manàfaka	manàfaka 
+1480	28-21-34-3	7725144263813595	Malagasy	plat1254	to acquit	ACQUIT	988		mamèla hèloka	mamèla hèloka 
+1481	28-21-35-1	7725144168416237	Malagasy	plat1254	guilty	GUILTY	1682		dìso	dìso 
+1482	28-21-35-2	7725144458047957	Malagasy	plat1254	guilty	GUILTY	1682		mèloka	mèloka 
+1483	28-21-36-1	7725144676713097	Malagasy	plat1254	innocent	INNOCENT	90		madìo	madìo 
+1484	28-21-37-1	7725144460866720	Malagasy	plat1254	the penalty or punishment	PUNISHMENT	390		famaìzana	famaìzana 
+1485	28-21-38-1	7725144463002851	Malagasy	plat1254	the fine	FINE (PENALTY)	218		sàzy	sàzy 
+1486	28-21-39-1	7725144876283602	Malagasy	plat1254	the prison	PRISON	1281		tranomaìzina	tranomaìzina 
+1487	28-21-42-1	7725144855220850	Malagasy	plat1254	the murder	MURDER	845		famonòana	famonòana 
+1488	28-21-43-1	7725144113644244	Malagasy	plat1254	the adultery	ADULTERY	902		fijangajangàna	fijangajangàna 
+1489	28-21-46-1	7725144615634204	Malagasy	plat1254	the arson	ARSON	1889		fandoròana	fandoròana 
+1490	28-21-47-1	7725144335820021	Malagasy	plat1254	the perjury	PERJURY	1792		fianìana tsy to	fianìana tsy to 
+1491	28-21-51-1	7725144406071682	Malagasy	plat1254	to steal	STEAL	713		mangàlatra	mangàlatra 
+1492	28-21-52-1	7725144377374086	Malagasy	plat1254	the thief	THIEF	1160		mpangàlatra	mpangàlatra 
+1493	28-22-11-1	7725144799050642	Malagasy	plat1254	the religion	RELIGION	661		fivavàhana	fivavàhana 
+1494	28-22-12-1	7725144106547218	Malagasy	plat1254	the god	DEITY	3231		andriamànitra	andriamànitra 
+1495	28-22-13-1	7725144723429603	Malagasy	plat1254	the temple	TEMPLE	911		tempòly	tempòly 
+1496	28-22-13-2	7725144151081351	Malagasy	plat1254	the temple	TEMPLE	911		trano fivavàhana	trano fivavàhana 
+1497	28-22-13-3	7725144143659895	Malagasy	plat1254	the temple	TEMPLE	911		trano fiangònana	trano fiangònana 
+1498	28-22-14-1	7725144662481520	Malagasy	plat1254	the altar	ALTAR	853		àlitara	àlitara 
+1499	28-22-14-2	7725144205427056	Malagasy	plat1254	the altar	ALTAR	853		aotèly	aotèly 
+1500	28-22-15-1	7725144710450130	Malagasy	plat1254	the sacrifice	SACRIFICE	1103		fisorònana	fisorònana 
+1501	28-22-16-1	7725144141514583	Malagasy	plat1254	to worship	WORSHIP	257		mivàvaka	mivàvaka 
+1502	28-22-17-1	7725144141514583	Malagasy	plat1254	to pray	PRAY	24		mivàvaka	mivàvaka 
+1503	28-22-17-2	7725144120325993	Malagasy	plat1254	to pray	PRAY	24		mangàtaka	mangàtaka 
+1504	28-22-18-1	7725144830790826	Malagasy	plat1254	the priest	PRIEST	852		mpisòrona	mpisòrona 
+1505	28-22-19-1	7725144387571439	Malagasy	plat1254	holy	HOLY	1702		màsina (1)	màsina (1) 
+1506	28-22-22-1	7725144918601066	Malagasy	plat1254	to preach	PREACH	304		mitoritèny	mitoritèny 
+1507	28-22-23-1	7725144322768129	Malagasy	plat1254	to bless	BLESS	391		mitsodràno	mitsodràno 
+1508	28-22-24-1	7725144570664220	Malagasy	plat1254	to curse	CURSE	8		manòzona	manòzona 
+1509	28-22-24-2	7725144568338324	Malagasy	plat1254	to curse	CURSE	8		manòmpa	manòmpa 
+1510	28-22-26-1	7725144830699514	Malagasy	plat1254	to fast	ABSTAIN FROM FOOD	303		mifàdy hànina	mifàdy hànina 
+1511	28-22-31-1	7725144287242222	Malagasy	plat1254	the heaven	HEAVEN	1565		lànitra	lànitra 
+1512	28-22-32-1	7725144886232436	Malagasy	plat1254	the hell	HELL	878		afobè	afobè 
+1513	28-22-32-2	7725144251346694	Malagasy	plat1254	the hell	HELL	878		hèlo	hèlo 
+1514	28-22-35-1	7725144218917439	Malagasy	plat1254	the demon	DEMON	1973		demòny	demòny 
+1515	28-22-37-1	7725144145837700	Malagasy	plat1254	the idol	IDOL	1945		sàmpy	sàmpy 
+1516	28-22-42-1	772514482716580	Malagasy	plat1254	the magic	MAGIC	392		famosavìana	famosavìana 
+1517	28-22-43-1	7725144483232881	Malagasy	plat1254	the sorcerer or witch	MAGICIAN	2137		mpamosàvy	mpamosàvy 
+1518	28-22-45-1	7725144472168906	Malagasy	plat1254	the ghost	GHOST	1175		matoatòa	matoatòa 
+1519	28-22-45-2	7725144601702580	Malagasy	plat1254	the ghost	GHOST	1175		àngatra	àngatra 
+1520	28-22-45-3	7725144500093691	Malagasy	plat1254	the ghost	GHOST	1175		avèlo	avèlo 
+1521	28-22-47-1	7725144450802194	Malagasy	plat1254	the omen	OMEN	107		fambàra	fambàra 
+1522	28-23-1-1	77251447048086	Malagasy	plat1254	the radio	RADIO	1315		radìô	radìô 
+1523	28-23-1-2	772514440650876	Malagasy	plat1254	the radio	RADIO	1315		fampielezana	fampielezana 
+1524	28-23-11-1	7725144346633644	Malagasy	plat1254	the television	TELEVISION	1788		fahitalàvitra	fahitalàvitra 
+1525	28-23-12-1	7725144744389772	Malagasy	plat1254	the telephone	TELEPHONE	1379		telefaònina	telefaònina 
+1526	28-23-135-1	7725144546583300	Malagasy	plat1254	the motorcycle	MOTORCYCLE	638		mobilèty	mobilèty 
+1527	28-23-14-1	7725144967793479	Malagasy	plat1254	the car	CAR	1111		fiarakodìa	fiarakodìa 
+1528	28-23-15-1	7725144233272037	Malagasy	plat1254	the bus	BUS	1070		fiarambahòaka	fiarambahòaka 
+1529	28-23-15-2	7725144553076120	Malagasy	plat1254	the bus	BUS	1070		fiarabè	fiarabè 
+1530	28-23-15-3	7725144775591856	Malagasy	plat1254	the bus	BUS	1070		aotobìsy	aotobìsy 
+1531	28-23-16-1	7725144920748720	Malagasy	plat1254	the airplane	AIRPLANE	1597		fiaramanìdina	fiaramanìdina 
+1532	28-23-17-1	7725144533212253	Malagasy	plat1254	the electricity	ELECTRICITY	59		àratra	àratra 
+1533	28-23-17-2	7725144776524416	Malagasy	plat1254	the electricity	ELECTRICITY	59		herimbàratra	herimbàratra 
+1534	28-23-17-3	7725144314065958	Malagasy	plat1254	the electricity	ELECTRICITY	59		elektrisitè	elektrisitè 
+1535	28-23-175-1	7725144679819289	Malagasy	plat1254	the battery	BATTERY	662		baterìa	baterìa 
+1536	28-23-2-1	7725144730897845	Malagasy	plat1254	the hospital	HOSPITAL	616		trano fitsabòana	trano fitsabòana 
+1537	28-23-2-2	7725144922100725	Malagasy	plat1254	the hospital	HOSPITAL	616		hopitàly	hopitàly 
+1538	28-23-21-1	7725144642121397	Malagasy	plat1254	the nurse	NURSE	1104		mpitsàbo	mpitsàbo 
+1539	28-23-22-1	7725144839340828	Malagasy	plat1254	the pill or tablet	PILL	395		pìlina	pìlina 
+1540	28-23-23-1	7725144464478285	Malagasy	plat1254	the injection	INJECTION	1805		tsìndrona	tsìndrona 
+1541	28-23-5-1	7725144670790760	Malagasy	plat1254	the tap/faucet	FAUCET	1488		tsirìry	tsirìry 
+1542	28-23-5-2	7725144825141274	Malagasy	plat1254	the tap/faucet	FAUCET	1488		raobinè	raobinè 
+1543	28-23-51-1	7725144930154314	Malagasy	plat1254	the sink	SINK (BASIN)	915		lavabò	lavabò 
+1544	28-23-51-2	7725144685158239	Malagasy	plat1254	the sink	SINK (BASIN)	915		fanasan-bilìa	fanasan-bilìa 
+1545	28-23-53-1	7725144870758647	Malagasy	plat1254	the mattress	MATTRESS	105		kidòro	kidòro 
+1546	28-23-3-1	7725144276280061	Malagasy	plat1254	the government	GOVERNMENT	815		fanjàkana	fanjàkana 
+1547	28-23-3-2	7725144346634184	Malagasy	plat1254	the government	GOVERNMENT	815		governemànta	governemànta 
+1548	28-23-31-1	7725144915896005	Malagasy	plat1254	the president	PRESIDENT	899		filòha	filòha 
+1549	28-23-32-1	7725144359998730	Malagasy	plat1254	the minister	MINISTER	486		minìsitra	minìsitra 
+1550	28-23-33-1	7725144763466644	Malagasy	plat1254	the police	POLICE	656		pôlìsy	pôlìsy 
+1551	28-23-34-1	7725144183940181	Malagasy	plat1254	the driver's license	DRIVER'S LICENSE	599		taratàsy fahazòana mitòndra fiarakodìa	taratàsy fahazòana mitòndra fiarakodìa 
+1552	28-23-37-1	7725144749431594	Malagasy	plat1254	the crime	CRIME	1066		hèloka	hèloka 
+1553	28-23-37-2	7725144855835906	Malagasy	plat1254	the crime	CRIME	1066		fahotàna	fahotàna 
+1554	28-23-38-1	772514410892042	Malagasy	plat1254	the election	ELECTION	240		fifidiànana	fifidiànana 
+1555	28-23-4-1	7725144626204134	Malagasy	plat1254	the post/mail	MAIL	167		paòsitra	paòsitra 
+1556	28-23-41-1	7725144783110387	Malagasy	plat1254	the postage stamp	POSTAGE STAMP	596		tàmbra	tàmbra 
+1557	28-23-42-1	7725144889106047	Malagasy	plat1254	the letter	LETTER	1612		taratàsy	taratàsy 
+1558	28-23-44-1	7725144249802823	Malagasy	plat1254	the bank	BANK	1284		bànky	bànky 
+1559	28-23-54-1	7725144332344697	Malagasy	plat1254	the tin/can	CAN	1051		kapòaka	kapòaka 
+1560	28-23-54-2	7725144798371958	Malagasy	plat1254	the tin/can	CAN	1051		boàty	boàty 
+1561	28-23-55-1	7725144632391738	Malagasy	plat1254	the screw	SCREW	1802		saikòro	saikòro 
+1562	28-23-555-1	7725144789461706	Malagasy	plat1254	the screwdriver	SCREWDRIVER	836		sokodrèvo	sokodrèvo 
+1563	28-23-56-1	772514474488623	Malagasy	plat1254	the bottle	BOTTLE	1321		tavoahàngy	tavoahàngy 
+1564	28-23-565-1	7725144523547127	Malagasy	plat1254	the candy/sweets	CANDY	874		vatomàmy	vatomàmy 
+1565	28-23-565-2	7725144816628894	Malagasy	plat1254	the candy/sweets	CANDY	874		bômbô	bômbô 
+1566	28-23-24-1	7725144714473489	Malagasy	plat1254	the spectacles/glasses	SPECTACLES	1898		solomàso	solomàso 
+1567	28-23-57-1	7725144699268940	Malagasy	plat1254	the plastic	PLASTIC	654		plastìka	plastìka 
+1568	28-23-575-1	7725144945678765	Malagasy	plat1254	the bomb	BOMB	1804		bàomba	bàomba 
+1569	28-23-58-1	7725144353730685	Malagasy	plat1254	the workshop	WORKSHOP	1677		tràno fiasàna	tràno fiasàna 
+1570	28-23-59-1	7725144522805083	Malagasy	plat1254	the cigarette	CIGARETTE	969		sigàra	sigàra 
+1571	28-23-61-1	7725144320819024	Malagasy	plat1254	the calendar	CALENDAR	1967		alimanàka	alimanàka 
+1572	28-23-62-1	772514413208634	Malagasy	plat1254	the film/movie	MOVIE	216		sarimihètsika	sarimihètsika 
+1573	28-23-63-1	7725144676486358	Malagasy	plat1254	the music	MUSIC	642		mosìka	mosìka 
+1574	28-23-64-1	7725144559733419	Malagasy	plat1254	the song	SONG	1096		hìra	hìra 
+1575	28-23-6-1	7725144841700045	Malagasy	plat1254	the newspaper	NEWSPAPER	1298		gazèty	gazèty 
+1576	28-23-385-1	7725144965750465	Malagasy	plat1254	the address	ADDRESS	591		adirèsy	adirèsy 
+1577	28-23-39-1	7725144908336687	Malagasy	plat1254	the number	NUMBER	1356		ìsa	ìsa 
+1578	28-23-39-2	7725144415818123	Malagasy	plat1254	the number	NUMBER	1356		naòmba	naòmba 
+1579	28-23-155-1	7725144292926003	Malagasy	plat1254	the train	TRAIN	900		fiarandalamb`y	fiarandalamb`y 
+1580	28-23-36-1	7725144497332270	Malagasy	plat1254	the birth certificate	BIRTH CERTIFICATE	397		sora-piteràhana	sora-piteràhana 
+1581	28-23-18-1	7725144706115664	Malagasy	plat1254	to brake	BRAKE	966		manìdy frein	manìdy frein 
+1582	28-23-195-1	7725144358345941	Malagasy	plat1254	the petroleum	PETROLEUM	650		solitàny	solitàny 
+1583	28-23-185-1	7725144171017143	Malagasy	plat1254	the motor	MOTOR	110		motèra	motèra 
+1584	28-23-19-1	7725144749029234	Malagasy	plat1254	the machine	MACHINE	144		mìlina	mìlina 
+1585	28-23-13-1	7725144952194631	Malagasy	plat1254	the bicycle	BICYCLE	747		bisikilèty	bisikilèty 
+1586	28-23-395-1	7725144835639872	Malagasy	plat1254	the street	STREET	1362		arabè	arabè 
+1587	28-19-445-1	7725144861699740	Malagasy	plat1254	to liberate	LIBERATE	37		manàfaka	manàfaka 
+1588	28-19-565-1	7725144291754606	Malagasy	plat1254	to invite	INVITE	1611		man-àsa	man-àsa 
+1589	28-23-35-1	7725144549267599	Malagasy	plat1254	the license plate	LICENSE PLATE	1790		nimeraon’aotomobìla	nimeraon’aotomobìla 
+1590	28-23-43-1	7725144210997993	Malagasy	plat1254	the postcard	POSTCARD	1497		kàratra paostàly	kàratra paostàly 
+1591	28-24-01-1	7725144652760367	Malagasy	plat1254	to be	BE	1579		mìsy	mìsy 
+1592	28-24-02-1	7725144529766957	Malagasy	plat1254	to become	BECOME	1990		manjàry	manjàry 
+1593	28-24-02-2	7725144442231273	Malagasy	plat1254	to become	BECOME	1990		miha-	miha- 
+1594	28-24-02-3	7725144873584896	Malagasy	plat1254	to become	BECOME	1990		tònga	tònga 
+1595	28-24-03-1	7725144196171582	Malagasy	plat1254	without	WITHOUT	1478		tsy mìsy	tsy mìsy 
+1596	28-24-05-1	7725144840467668	Malagasy	plat1254	through	THROUGH	97		èrana	èrana 
+1597	28-24-13-1	7725144504291767	Malagasy	plat1254	same	SAME	200		tsy hàfa	tsy hàfa 
+1598	28-24-06-1	7725144810294746	Malagasy	plat1254	not	NOT	1240		tsy	tsy 
+1599	28-24-07-1	7725144967196118	Malagasy	plat1254	this	THIS	1214		izat`y	izat`y 
+1600	28-24-08-1	7725144901800915	Malagasy	plat1254	that	THAT	78		izào	izào 
+1601	28-24-08-2	7725144775399942	Malagasy	plat1254	that	THAT	78		its`y	its`y 
+1602	28-24-08-3	7725144807108063	Malagasy	plat1254	that	THAT	78		izats`y	izats`y 
+1603	28-24-08-4	7725144191618481	Malagasy	plat1254	that	THAT	78		ìo	ìo 
+1604	28-24-08-5	7725144440645997	Malagasy	plat1254	that	THAT	78		irèo	irèo 
+1605	28-24-08-6	7725144728107074	Malagasy	plat1254	that	THAT	78		irètsy	irètsy 
+1606	28-24-09-1	7725144235570803	Malagasy	plat1254	here	HERE	136		àto	àto 
+1607	28-24-09-2	7725144290140594	Malagasy	plat1254	here	HERE	136		et`y	et`y 
+1608	28-24-09-3	7725144840444276	Malagasy	plat1254	here	HERE	136		èto	èto 
+1609	28-24-09-4	7725144172693064	Malagasy	plat1254	here	HERE	136		at`y	at`y 
+1610	28-24-1-1	7725144148724522	Malagasy	plat1254	there	THERE	1937		èo	èo 
+1611	28-24-1-2	7725144611056301	Malagasy	plat1254	there	THERE	1937		ets`y	ets`y 
+1612	28-24-1-3	7725144586035051	Malagasy	plat1254	there	THERE	1937		ào	ào 
+1613	28-24-1-4	7725144459795413	Malagasy	plat1254	there	THERE	1937		ats`y	ats`y 
+1614	28-24-11-1	7725144240361166	Malagasy	plat1254	other	OTHER	197		hàfa	hàfa 
+1615	28-4-493-1	7725144843214673	Malagasy	plat1254	the vagina	VAGINA	1836		fòry	fòry 
+1616	28-4-493-2	7725144275276805	Malagasy	plat1254	the vagina	VAGINA	1836		kìndy	kìndy 
+1617	28-23-9-1	7725144785649753	Malagasy	plat1254	the tea	TEA	1373		dite	dite 
+1618	28-23-91-1	7725144192046788	Malagasy	plat1254	the coffee	COFFEE	1299		kafè	kafè 
+1619	28-24-12-1	7725144132159008	Malagasy	plat1254	next	NEXT	1354		manàraka	manàraka 
+1620	28-3-865-1	7725144167453478	Malagasy	plat1254	the quail	QUAIL	1893		kibòbo	kibòbo 
+1621	28-3-865-2	7725144136114060	Malagasy	plat1254	the quail	QUAIL	1893		papèlika	papèlika 
+1622	28-8-993-1	7725144505581569	Malagasy	plat1254	the needle(2)	NEEDLE TREE	286		tsìlo	tsìlo 
+1623	28-4-465-1	7725144966267941	Malagasy	plat1254	the sinew or tendon	TENDON	1137		hozabè	hozabè 
+1624	28-7-67-1	7725144561783539	Malagasy	plat1254	to tan	TAN	247		mandon-kòditra	mandon-kòditra 
+1625	28-22-5-1	7725144475337383	Malagasy	plat1254	the circumcision	CIRCUMCISION	393		fòra	fòra 
+1626	28-22-5-2	7725144832856536	Malagasy	plat1254	the circumcision	CIRCUMCISION	393		didimpòitra	didimpòitra 
+1627	28-22-5-3	7725144243162124	Malagasy	plat1254	the circumcision	CIRCUMCISION	393		hasoàvana	hasoàvana 
+1628	28-8-996-1	77251445850954	Malagasy	plat1254	the cone	CONE	287		zàvatra boribòry kitsoloha	zàvatra boribòry kitsoloha 
+1629	28-3-8112-1	7725144238191277	Malagasy	plat1254	the body louse	BODY LOUSE	311		hào	hào 
+1630	28-4-494-1	7725144231188179	Malagasy	plat1254	the vulva	VULVA	1837		tsìngy	tsìngy 
+1631	28-9-93-1	7725144961445641	Malagasy	plat1254	the whetstone	WHETSTONE	295		vato asàna	vato asàna 
+1632	28-7-65-1	7725144219376735	Malagasy	plat1254	the camp	CAMP	1105		làsy	làsy 
+1633	28-7-65-2	7725144448467466	Malagasy	plat1254	the camp	CAMP	1105		tòby	tòby 
+1634	28-3-833-1	7725144472528946	Malagasy	plat1254	the prawns or shrimp	PRAWNS	238		pàtsa	pàtsa 
+1635	28-3-833-2	7725144393635078	Malagasy	plat1254	the prawns or shrimp	PRAWNS	238		òrana (2)	òrana (2) 
+1636	28-3-835-1	7725144395977325	Malagasy	plat1254	the tick	TICK	1527		kòngona	kòngona 
+1637	28-7-66-1	7725144787407073	Malagasy	plat1254	the hammock	HAMMOCK	2019		fandrìana mihàntona	fandrìana mihàntona 
+1638	28-8-911-1	7725144204115877	Malagasy	plat1254	the millet or sorghum	MILLET	931		ampèmba	ampèmba 
+1639	28-3-913-1	7725144844650708	Malagasy	plat1254	the chameleon	CHAMELEON	1555		tàna	tàna 
+1640	28-9-9-1	7725144259733866	Malagasy	plat1254	to draw water	DRAW (WATER)	1911		manòvo ràno	manòvo ràno 
+1641	28-9-91-1	7725144864535082	Malagasy	plat1254	the peg	PEG	361		fàntsika	fàntsika 
+1642	28-10-58-1	7725144734668940	Malagasy	plat1254	to go or return home	RETURN HOME	142		mòdy	mòdy 
+1643	28-1-831-1	7725144512853147	Malagasy	plat1254	the steam	STEAM	1193		ètona	ètona 
+1644	28-2-4561-1	772514445278022	Malagasy	plat1254	the older sibling	OLDER SIBLING	405		zòky	zòky 
+1645	28-2-4562-1	7725144329999236	Malagasy	plat1254	the younger sibling	YOUNGER SIBLING	427		zàndry	zàndry 
+1646	28-2-5-1	7725144132656410	Malagasy	plat1254	the grandchild	GRANDCHILD	1617		zàfy	zàfy 
+1647	28-2-541-1	7725144944282371	Malagasy	plat1254	the sibling’s child	SIBLING'S CHILD	173		zanadrahalàhy	zanadrahalàhy 
+1648	28-2-541-2	7725144229626300	Malagasy	plat1254	the sibling’s child	SIBLING'S CHILD	173		zanadrahavàvy	zanadrahavàvy 
+1649	28-2-541-3	7725144317845868	Malagasy	plat1254	the sibling’s child	SIBLING'S CHILD	173		zanak’anabàvy	zanak’anabàvy 
+1650	28-2-541-4	7725144611195080	Malagasy	plat1254	the sibling’s child	SIBLING'S CHILD	173		zanak’anadàhy	zanak’anadàhy 
+1651	28-2-622-1	77251448072319	Malagasy	plat1254	the parents-in-law	PARENTS-IN-LAW	306		rafòzana	rafòzana 
+1652	28-2-6411-1	7725144326251101	Malagasy	plat1254	the child-in-law	CHILD-IN-LAW	1060		vinànto	vinànto 
+1653	28-2-6412-1	7725144224122136	Malagasy	plat1254	the sibling-in-law	SIBLING-IN-LAW	1832		zàotra	zàotra 
+1654	28-2-6412-2	7725144412290553	Malagasy	plat1254	the sibling-in-law	SIBLING-IN-LAW	1832		ranàotra	ranàotra 
+1655	28-2-931-1	7725144583682414	Malagasy	plat1254	he	HE	1211		ìzy	ìzy 
+1656	28-2-932-1	7725144583682414	Malagasy	plat1254	she	SHE	1834		ìzy	ìzy 
+1657	28-2-933-1	7725144583682414	Malagasy	plat1254	it	IT	169		ìzy	ìzy 
+1658	28-4-741-1	7725144249591663	Malagasy	plat1254	the life	LIFE	210		fiaìnana	fiaìnana 
+1659	28-4-771-1	7725144245612531	Malagasy	plat1254	the carcass	CARCASS	1770		rikarikantàolana	rikarikantàolana 
+1660	28-4-844-1	7725144540637518	Malagasy	plat1254	the disease	DISEASE	1986		arètina	arètina 
+1661	28-7-232-1	772514477082105	Malagasy	plat1254	the padlock	PADLOCK	336		kadanà	kadanà 
+1662	28-8-121-1	7725144922830101	Malagasy	plat1254	the paddy	PADDY FIELD	140		hòraka	hòraka 
+1663	28-11-29-1	7725144467751081	Malagasy	plat1254	to damage	DAMAGE	1116		manìmba	manìmba 
+1664	28-12-081-1	7725144183724635	Malagasy	plat1254	above	ABOVE	1741		ambòny	ambòny 
+1665	28-13-231-1	7725144203762884	Malagasy	plat1254	the piece	PIECE	594		sasany	sasany 
+1666	28-13-331-1	7725144700455405	Malagasy	plat1254	alone	ALONE	1964		tòkana	tòkana 
+1667	28-14-251-1	7725144980313800	Malagasy	plat1254	the beginning	BEGINNING	1557		fiandòhana	fiandòhana 
+1668	28-14-251-2	7725144116318129	Malagasy	plat1254	the beginning	BEGINNING	1557		fanombòhana	fanombòhana 
+1669	28-14-251-3	7725144694498027	Malagasy	plat1254	the beginning	BEGINNING	1557		voalohàny	voalohàny 
+1670	28-14-411-1	7725144938455198	Malagasy	plat1254	the day(2)	DAY (NOT NIGHT)	1225		fotoan’àndro	fotoan’àndro 
+1671	28-22-131-1	7725144776033874	Malagasy	plat1254	the church	CHURCH	1349		(trano) fiangònana	(trano) fiangònana 
+1672	28-22-131-2	7725144271815256	Malagasy	plat1254	the church	CHURCH	1349		eglìzy	eglìzy 
+1673	28-22-132-1	7725144570306990	Malagasy	plat1254	the mosque	MOSQUE	1603		mosikirìny	mosikirìny 
+1674	28-24-14-1	7725144235465260	Malagasy	plat1254	nothing	NOTHING	687		tsinontsìnona	tsinontsìnona 
+1675	28-4-7501-1	7725144435312684	Malagasy	plat1254	dead	DEAD	1625		màty	màty 
+1676	28-4-8541-1	7725144339631560	Malagasy	plat1254	to scratch	SCRATCH	1436		mihàotra	mihàotra 
+1677	28-9-111-1	7725144603256125	Malagasy	plat1254	to make	MAKE	734		manao	manao 
+1678	28-4-431-1	7725144216831840	Malagasy	plat1254	the belly	BELLY	1251		kìbo	kìbo 
+1679	28-9-311-1	7725144538653870	Malagasy	plat1254	to wipe	WIPE	1454		mamàoka	mamàoka 
+1680	28-1-775-1	7725144309678318	Malagasy	plat1254	to freeze	FREEZE	1431		mamanàla	mamanàla 
+1681	28-24-04-1	7725144199119477	Malagasy	plat1254	with	WITH	1340		àmin’...	àmin’... 
+1682	28-24-04-2	7725144761308313	Malagasy	plat1254	with	WITH	1340		àman’...	àman’... 
+1683	28-24-04-3	7725144652760367	Malagasy	plat1254	with	WITH	1340		mìsy	mìsy 
+1684	28-12-012-1	772514453730111	Malagasy	plat1254	in	IN	1460		anàty	anàty 
