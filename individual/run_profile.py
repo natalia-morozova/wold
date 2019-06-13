@@ -18,7 +18,7 @@ def main(args):
     tokenizer = Tokenizer(profile="%s.profile.tsv" % args.glottocode)
 
     # Read the lexical data
-    with open('%s.tsv' % args.glottocode) as csvfile:
+    with open('%s.tsv' % args.glottocode, encoding='utf8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter='\t')
 
         # collect entries
@@ -74,6 +74,9 @@ def main(args):
             # add to list of errors
             errors.append(buf)
             unknown.append(sound.source)
+
+	# show total number of errors
+    print("Total errors:", err_count-1)
 
     # show list of unknowns
     unk_counter = Counter(unknown)
