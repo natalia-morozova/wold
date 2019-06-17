@@ -5,7 +5,7 @@ from collections import Counter
 import csv
 import tabulate
 
-from segments import Tokenizer
+from segments import Profile, Tokenizer
 from pyclts import TranscriptionSystem
 import pyclts.models
 
@@ -20,16 +20,46 @@ SOUND_CLASSES = (
     pyclts.models.Diphthong,
     pyclts.models.Tone)
 
+
+def my_tokenizer(form, prf):
+    form = "^%s$" % form
+
+    i = 0
+    tokens = []
+    while True:
+        added = False
+        for length in range(len(form[i:]), 0, -1):
+            needle = form[i:i+length]
+            if needle in prf:
+                tokens.append(prf[needle])
+                i += length
+                added = True
+                break
+
+        if not added:
+            if form[i] == ' ':
+                tokens.append("#")
+            else:
+                tokens.append('< %s >' % form[i])
+            i += 1
+
+        if i == len(form):
+            break
+
+    # Remove NULLs
+    tokens = [token for token in tokens if token != "NULL"]
+
+    return ' '.join(tokens)
+
+
 def main(args):
     print(args)
 
-    # build the tokenize for the requested glottocode
-    tokenizer = Tokenizer(profile="%s.profile.tsv" % args.glottocode)
-
-
-#    for grapheme, value in tokenizer.op.graphemes.items():
-#        print([grapheme], value)
-#        input()
+    # Read raw profile, solving bug in `segments`
+    profile_file = "%s.profile.tsv" % args.glottocode
+    with open(profile_file) as csvfile:
+        reader = csv.DictReader(csvfile, delimiter='\t')
+        my_profile = {row['Grapheme'] : row['IPA'] for row in reader}
 
     # Read the lexical data
     with open('%s.tsv' % args.glottocode, encoding='utf8') as csvfile:
@@ -38,8 +68,21 @@ def main(args):
         # collect entries
         data = []
         for row in reader:
+
+
             #form = "^%s$" % row['Form'].strip()
             form = row['Form'].strip()
+
+            if '(1)' in form:
+                continue
+            if '(2)' in form:
+                continue
+            if '(' in form:
+                continue
+            if '[' in form:
+                continue
+            if 'A' in form:
+                continue
 
             entry = {
                 'ID':                   row['ID'],
@@ -53,7 +96,7 @@ def main(args):
                 'original_script':      row['original_script'],
                 'Value':                row['Value'],
                 'Form':                 form,
-                'Segments':             tokenizer(form),
+                'Segments':             my_tokenizer(form, my_profile),
             }
 
             data.append(entry)
@@ -90,27 +133,45 @@ def main(args):
             errors.append(buf)
             unknown.append(sound.source)
 
-	# show total number of errors
-    print("Total errors:", err_count-1)
+    # either show the errors or write output
+    if err_count == 0:
+        FIELDS = ['ID', 'Source_ID', 'Word_ID', 'Doculect',
+            'Glottocode', 'Concept', 'Concepticon_Gloss',
+            'Concepticon_ID', 'original_script', 'Value',
+            'Form', 'Segments']
 
-    # show list of unknowns
-    unk_counter = Counter(unknown)
-    unk_table = [
-        [entry[0], str([entry[0]]), entry[1]] for entry in unk_counter.most_common(args.seg_cases)
-    ]
-    print("Most common source errors")
-    print("=========================")
-    print(tabulate.tabulate(unk_table))
-    print()
+        with open('%s.segmented.tsv' % args.glottocode, 'w') as output:
+            # write header
+            output.write('\t'.join(FIELDS))
+            output.write('\n')
 
-    # show cases in order
-    err_table = [['#', 'Row', 'Concept', 'Form', 'Sound #', 'Sound Value', 'Segments']]
-    err_table += [
-        entry for entry in errors[:args.num_cases]
-    ]
-    print("First error cases")
-    print("=================")
-    print(tabulate.tabulate(err_table))
+            for row in data:
+                buf = [row[field] for field in FIELDS]
+                output.write('\t'.join(buf))
+                output.write('\n')
+
+    else:
+    	# show total number of errors
+        print("Total errors:", err_count-1)
+
+        # show list of unknowns
+        unk_counter = Counter(unknown)
+        unk_table = [
+            [entry[0], str([entry[0]]), entry[1]] for entry in unk_counter.most_common(args.seg_cases)
+        ]
+        print("Most common source errors")
+        print("=========================")
+        print(tabulate.tabulate(unk_table))
+        print()
+
+        # show cases in order
+        err_table = [['#', 'Row', 'Concept', 'Form', 'Sound #', 'Sound Value', 'Segments']]
+        err_table += [
+            entry for entry in errors[:args.num_cases]
+        ]
+        print("First error cases")
+        print("=================")
+        print(tabulate.tabulate(err_table))
 
 
 if __name__ == "__main__":
