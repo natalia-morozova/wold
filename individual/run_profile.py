@@ -11,11 +11,25 @@ import pyclts.models
 
 BIPA = TranscriptionSystem('bipa')
 
+SOUND_CLASSES = (
+    pyclts.models.Vowel,
+    pyclts.models.Consonant,
+    pyclts.models.Marker,
+    pyclts.models.Cluster,
+    pyclts.models.ComplexSound,
+    pyclts.models.Diphthong,
+    pyclts.models.Tone)
+
 def main(args):
     print(args)
 
     # build the tokenize for the requested glottocode
     tokenizer = Tokenizer(profile="%s.profile.tsv" % args.glottocode)
+
+
+#    for grapheme, value in tokenizer.op.graphemes.items():
+#        print([grapheme], value)
+#        input()
 
     # Read the lexical data
     with open('%s.tsv' % args.glottocode, encoding='utf8') as csvfile:
@@ -24,7 +38,8 @@ def main(args):
         # collect entries
         data = []
         for row in reader:
-            form = "^%s$" % row['Form'].strip()
+            #form = "^%s$" % row['Form'].strip()
+            form = row['Form'].strip()
 
             entry = {
                 'ID':                   row['ID'],
@@ -51,7 +66,7 @@ def main(args):
         segments = row['Segments'].split()
         sounds = [BIPA[segment] for segment in segments]
         valids = [
-            isinstance(sound, (pyclts.models.Vowel, pyclts.models.Consonant))
+            isinstance(sound, SOUND_CLASSES)
             for sound in sounds
         ]
 
@@ -81,7 +96,7 @@ def main(args):
     # show list of unknowns
     unk_counter = Counter(unknown)
     unk_table = [
-        [entry[0], entry[1]] for entry in unk_counter.most_common(args.seg_cases)
+        [entry[0], str([entry[0]]), entry[1]] for entry in unk_counter.most_common(args.seg_cases)
     ]
     print("Most common source errors")
     print("=========================")
@@ -96,6 +111,7 @@ def main(args):
     print("First error cases")
     print("=================")
     print(tabulate.tabulate(err_table))
+
 
 if __name__ == "__main__":
     # define parser
