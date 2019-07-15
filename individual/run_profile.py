@@ -40,7 +40,7 @@ def my_tokenizer(form, prf):
             if form[i] == ' ':
                 tokens.append("#")
             else:
-                tokens.append('< %s >' % form[i])
+                tokens.append('<%s>' % form[i])
             i += 1
 
         if i == len(form):
@@ -57,7 +57,7 @@ def main(args):
 
     # Read raw profile, solving bug in `segments`
     profile_file = "%s.profile.tsv" % args.glottocode
-    with open(profile_file) as csvfile:
+    with open(profile_file, encoding='utf8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter='\t')
         my_profile = {row['Grapheme'] : row['IPA'] for row in reader}
 
@@ -72,17 +72,6 @@ def main(args):
 
             #form = "^%s$" % row['Form'].strip()
             form = row['Form'].strip()
-
-            if '(1)' in form:
-                continue
-            if '(2)' in form:
-                continue
-            if '(' in form:
-                continue
-            if '[' in form:
-                continue
-            if 'A' in form:
-                continue
 
             entry = {
                 'ID':                   row['ID'],
@@ -140,7 +129,7 @@ def main(args):
             'Concepticon_ID', 'original_script', 'Value',
             'Form', 'Segments']
 
-        with open('%s.segmented.tsv' % args.glottocode, 'w') as output:
+        with open('%s.segmented.tsv' % args.glottocode, 'w', encoding='utf8') as output:
             # write header
             output.write('\t'.join(FIELDS))
             output.write('\n')

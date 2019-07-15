@@ -1,8 +1,11 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(1)	NULL	sɨːr (1), ör (1)			
-(2)	NULL	sap (2), sanaː (2)			
+(	NULL				
+)	NULL				
+1	NULL				
+2	NULL				
+3	NULL				
 a	a	ɨaraχan, tarbaχ	Sakha	554	U+0061
 r	r	ɨaraχan, tart	Sakha	387	U+0072
 ɨ	ɨ	sɨtɨybɨt, χatɨrɨk	Sakha	366	U+0268
@@ -29,7 +32,7 @@ b	b	ogdoːbo, ubay	Sakha	129	U+0062
 r$	r	uːr, oŋor	Sakha	129	U+0072 U+0024
 s$	s	mas, kɨːs	Sakha	125	U+0073 U+0024
 _	_	töröːbütün tuhunan tuohu suruk, taχsan kiːrer sir	Sakha	122	U+005f
-ö	ö/ø	soto bötöɣötö, čöɣöčök	Sakha	122	U+00f6
+ö	ö/œ	soto bötöɣötö, čöɣöčök	Sakha	122	U+00f6
 k	k	čepčeki, siːkey	Sakha	114	U+006b
 ^χ	χ	χataːhɨn, χatɨrɨk	Sakha	112	U+005e U+03c7
 g	g	ogdoːbo, keččegey	Sakha	101	U+0067
@@ -65,13 +68,13 @@ o$	o	ogdoːbo, oɣuruo	Sakha	29	U+006f U+0024
 eː	eː	emeːχsin, iesteːχ	Sakha	29	U+0065 U+02d0
 ʤ	ʤ	alʤat, eʤiːy	Sakha	26	U+02a4
 ɨː$	ɨː	ahɨː, ɨarɨː	Sakha	25	U+0268 U+02d0 U+0024
-tt	t t	kuttal, töröppütter	Sakha	25	U+0074 U+0074
+tt	tː	kuttal, töröppütter	Sakha	25	U+0074 U+0074
 ^ʤ	ʤ	ʤon, ʤɨl	Sakha	25	U+005e U+02a4
 eː$	eː	čeydeː, köŋülleː	Sakha	24	U+0065 U+02d0 U+0024
 ll	lː	ɨllaː, köŋülleː	Sakha	24	U+006c U+006c
-pp	p p	biriːppe, iːppit kɨːs	Sakha	21	U+0070 U+0070
+pp	pː	biriːppe, iːppit kɨːs	Sakha	21	U+0070 U+0070
 čč	tʃː	keččegey, ɨččat	Sakha	19	U+010d U+010d
-^ö	ö/ø	ölör, öydöːχ	Sakha	19	U+005e U+00f6
+^ö	ö/œ	ölör, öydöːχ	Sakha	19	U+005e U+00f6
 ɲ	ɲ	oɣonɲor, oːnɲoː	Sakha	18	U+0272
 ŋ$	ŋ	üŋ, kisteleŋ	Sakha	17	U+014b U+0024
 u$	u	čoːsku, töröːbüt doydu	Sakha	17	U+0075 U+0024
@@ -83,8 +86,8 @@ iː$	iː	tiriː, seriː	Sakha	14	U+0069 U+02d0 U+0024
 üː$	üː/yː	tüː, ölörüː	Sakha	12	U+00fc U+02d0 U+0024
 üs$	y s	tüs, ühüs	Sakha	12	U+00fc U+0073 U+0024
 ỹ	ỹ	kiỹiːt, iỹe kɨlɨn	Sakha	12	U+1ef9
-ö$	ö/ø	töbö, töhö	Sakha	12	U+00f6 U+0024
-kk	k k	suokka, uon ikki	Sakha	11	U+006b U+006b
+ö$	ö/œ	töbö, töhö	Sakha	12	U+00f6 U+0024
+kk	kː	suokka, uon ikki	Sakha	11	U+006b U+006b
 uː$	uː	χottoruː, untuː	Sakha	11	U+0075 U+02d0 U+0024
 ^iː	iː	iːppit kɨːs, iːreːki	Sakha	10	U+005e U+0069 U+02d0
 ^uː	uː	uːr, uːnnar	Sakha	10	U+005e U+0075 U+02d0
@@ -94,134 +97,55 @@ oː	oː	ogdoːbo, čoːsku	Sakha	9	U+006f U+02d0
 ^p	p	počta, paːr	Sakha	8	U+005e U+0070
 rs	r s	kuorsun, kɨrsa	Sakha	8	U+0072 U+0073
 m$	m	kem, silim	Sakha	8	U+006d U+0024
-öh	ö/ø h	töhö, süöhü	Sakha	8	U+00f6 U+0068
-ss	s s	massɨːna, miliːssiye	Sakha	7	U+0073 U+0073
-öː	öː/øː	öydöːχ, töröːbüt doydu	Sakha	7	U+00f6 U+02d0
+öh	ö/œ h	töhö, süöhü	Sakha	8	U+00f6 U+0068
+ss	sː	massɨːna, miliːssiye	Sakha	7	U+0073 U+0073
+öː	öː/œː	öydöːχ, töröːbüt doydu	Sakha	7	U+00f6 U+02d0
 oː$	oː	oːnɲoː, bosχoloː	Sakha	7	U+006f U+02d0 U+0024
 ms	m s	χamsa, kemsin	Sakha	6	U+006d U+0073
 ps	p s	kepseː, kupsuːn	Sakha	6	U+0070 U+0073
 üh	ü/y h	tüheː, tühülge	Sakha	6	U+00fc U+0068
 ^l	l	laːmpa, laːppɨ	Sakha	6	U+005e U+006c
 ^üː	üː/yː	üːnner, üːneːyi	Sakha	6	U+005e U+00fc U+02d0
-öː$	öː/øː	kördöː, tölöː	Sakha	5	U+00f6 U+02d0 U+0024
+öː$	öː/œː	kördöː, tölöː	Sakha	5	U+00f6 U+02d0 U+0024
 z	z	telebiːzer, muzɨka	Sakha	5	U+007a
 ^ɲ	ɲ	ɲirey, ɲuːl	Sakha	4	U+005e U+0272
 v	v	pravitelstva, avtobus	Sakha	4	U+0076
 ü$	ü/y	küögü, čüːččü	Sakha	4	U+00fc U+0024
-ös	ö/ø s	üösket, böppürüöske	Sakha	4	U+00f6 U+0073
-et (1)	<???>	et (1)	Sakha	4	U+0065 U+0074 U+0020 U+0028 U+0031 U+0029
+ös	ö/œ s	üösket, böppürüöske	Sakha	4	U+00f6 U+0073
 ^ɨː	ɨː	ɨːt, ɨːstaː	Sakha	4	U+005e U+0268 U+02d0
 mm	mː	kumalammɨt, tammalaː	Sakha	3	U+006d U+006d
 ŋs	ŋ s	mieliŋse, iŋseleːχ	Sakha	3	U+014b U+0073
 .	NULL	duː... duː	Sakha	3	U+002e
 ^oː	oː	oːnɲoː, oːɣuy sitime	Sakha	3	U+005e U+006f U+02d0
 üːs	üː/yː s	külüːs tɨla, külüːske	Sakha	3	U+00fc U+02d0 U+0073
-uhun (1)	<???>	uhun (1)	Sakha	3	U+0075 U+0068 U+0075 U+006e U+0020 U+0028 U+0031 U+0029
-ös$	ö/ø s	küös, kömölös	Sakha	3	U+00f6 U+0073 U+0024
--	+	kün-ʤɨl, -A sataː	Sakha	3	U+002d
+ös$	ö/œ s	küös, kömölös	Sakha	3	U+00f6 U+0073 U+0024
+-	+	kün-ʤɨl	Sakha	3	U+002d
 ks	k s	ɨksaː, balɨksɨt	Sakha	3	U+006b U+0073
-kut (1)	<???>	kut (1)	Sakha	2	U+006b U+0075 U+0074 U+0020 U+0028 U+0031 U+0029
 ^g	g	gɨn, gaŋsa	Sakha	2	U+005e U+0067
-sanaː (2)	<???>	sanaː (2)	Sakha	2	U+0073 U+0061 U+006e U+0061 U+02d0 U+0020 U+0028 U+0032 U+0029
-sɨːr (1)	<???>	sɨːr (1)	Sakha	2	U+0073 U+0268 U+02d0 U+0072 U+0020 U+0028 U+0031 U+0029
-χas (1)	<???>	χas (1)	Sakha	2	U+03c7 U+0061 U+0073 U+0020 U+0028 U+0031 U+0029
-ns	n s	kensierbe baːnkata, beːtinse	Sakha	2	U+006e U+0073
-χas (2)	<???>	χas (2)	Sakha	2	U+03c7 U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
+ns	n + s	kensierbe baːnkata, beːtinse	Sakha	2	U+006e U+0073
 üːh	yː h	küːhüleː, bülüːhe	Sakha	2	U+00fc U+02d0 U+0068
 üːs$	üː/yː s	külüːs	Sakha	2	U+00fc U+02d0 U+0073 U+0024
 ^üs	ü/y s	üs tögül, üste	Sakha	2	U+005e U+00fc U+0073
-sap (2)	<???>	sap (2)	Sakha	2	U+0073 U+0061 U+0070 U+0020 U+0028 U+0032 U+0029
 f	f	neft, kofe	Sakha	2	U+0066
-ör (1)	<???>	ör (1)	Sakha	2	U+00f6 U+0072 U+0020 U+0028 U+0031 U+0029
 ^üh	ü/y h	ühüs, ühüːr	Sakha	2	U+005e U+00fc U+0068
-^ös	ö/ø s	östüöküle, östöːχ	Sakha	2	U+005e U+00f6 U+0073
-aːl (1)	<???>	aːl (1)	Sakha	2	U+0061 U+02d0 U+006c U+0020 U+0028 U+0031 U+0029
-oɣus (2)	<???>	oɣus (2)	Sakha	2	U+006f U+0263 U+0075 U+0073 U+0020 U+0028 U+0032 U+0029
-kül (1)	<???>	kül (1)	Sakha	1	U+006b U+00fc U+006c U+0020 U+0028 U+0031 U+0029
-tögürük (1)	<???>	tögürük (1)	Sakha	1	U+0074 U+00f6 U+0067 U+00fc U+0072 U+00fc U+006b U+0020 U+0028 U+0031 U+0029
+^ös	ö/œ s	östüöküle, östöːχ	Sakha	2	U+005e U+00f6 U+0073
 ^uː$	uː	uː	Sakha	1	U+005e U+0075 U+02d0 U+0024
-bas (2)	<???>	bas (2)	Sakha	1	U+0062 U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
-sɨːr (2)	<???>	sɨːr (2)	Sakha	1	U+0073 U+0268 U+02d0 U+0072 U+0020 U+0028 U+0032 U+0029
-buol (1)	<???>	buol (1)	Sakha	1	U+0062 U+0075 U+006f U+006c U+0020 U+0028 U+0031 U+0029
-timir (1)	<???>	timir (1)	Sakha	1	U+0074 U+0069 U+006d U+0069 U+0072 U+0020 U+0028 U+0031 U+0029
-aːt (2)	<???>	aːt (2)	Sakha	1	U+0061 U+02d0 U+0074 U+0020 U+0028 U+0032 U+0029
-arɨː (1)	<???>	arɨː (1)	Sakha	1	U+0061 U+0072 U+0268 U+02d0 U+0020 U+0028 U+0031 U+0029
-öydöː (2)	<???>	öydöː (2)	Sakha	1	U+00f6 U+0079 U+0064 U+00f6 U+02d0 U+0020 U+0028 U+0032 U+0029
 ^x	x	xoruoluk	Sakha	1	U+005e U+0078
-ï$	ï	χas daγanï	Sakha	1	U+00ef U+0024
+ï$	ï/ɯ	χas daγanï	Sakha	1	U+00ef U+0024
 ^h	h	horkuoydaː	Sakha	1	U+005e U+0068
 is (2)	<???>	is (2)	Sakha	1	U+0069 U+0073 U+0020 U+0028 U+0032 U+0029
 üs	ü/y s	kömüskeː	Sakha	1	U+00fc U+0073
-ör (2)	<???>	ör (2)	Sakha	1	U+00f6 U+0072 U+0020 U+0028 U+0032 U+0029
-süːs (1)	<???>	süːs (1)	Sakha	1	U+0073 U+00fc U+02d0 U+0073 U+0020 U+0028 U+0031 U+0029
-χat (1) buol	<???>	χat (1) buol	Sakha	1	U+03c7 U+0061 U+0074 U+0020 U+0028 U+0031 U+0029 U+0020 U+0062 U+0075 U+006f U+006c
-χarbaː (1)	<???>	χarbaː (1)	Sakha	1	U+03c7 U+0061 U+0072 U+0062 U+0061 U+02d0 U+0020 U+0028 U+0031 U+0029
-ür (1)	<???>	ür (1)	Sakha	1	U+00fc U+0072 U+0020 U+0028 U+0031 U+0029
-süːs (2)	<???>	süːs (2)	Sakha	1	U+0073 U+00fc U+02d0 U+0073 U+0020 U+0028 U+0032 U+0029
-oɣus (1)	<???>	oɣus (1)	Sakha	1	U+006f U+0263 U+0075 U+0073 U+0020 U+0028 U+0031 U+0029
-χaːs (2)	<???>	χaːs (2)	Sakha	1	U+03c7 U+0061 U+02d0 U+0073 U+0020 U+0028 U+0032 U+0029
 tuoχ da (suoχ)	<???>	tuoχ da (suoχ)	Sakha	1	U+0074 U+0075 U+006f U+03c7 U+0020 U+0064 U+0061 U+0020 U+0028 U+0073 U+0075 U+006f U+03c7 U+0029
-saŋa (1)	<???>	saŋa (1)	Sakha	1	U+0073 U+0061 U+014b U+0061 U+0020 U+0028 U+0031 U+0029
 d$	d	belasiped	Sakha	1	U+0064 U+0024
-kül (2)	<???>	kül (2)	Sakha	1	U+006b U+00fc U+006c U+0020 U+0028 U+0032 U+0029
-taːy (2)	<???>	taːy (2)	Sakha	1	U+0074 U+0061 U+02d0 U+0079 U+0020 U+0028 U+0032 U+0029
-aːl (2)	<???>	aːl (2)	Sakha	1	U+0061 U+02d0 U+006c U+0020 U+0028 U+0032 U+0029
-sap (1)	<???>	sap (1)	Sakha	1	U+0073 U+0061 U+0070 U+0020 U+0028 U+0031 U+0029
-baːy (1)	<???>	baːy (1)	Sakha	1	U+0062 U+0061 U+02d0 U+0079 U+0020 U+0028 U+0031 U+0029
-timir (2)	<???>	timir (2)	Sakha	1	U+0074 U+0069 U+006d U+0069 U+0072 U+0020 U+0028 U+0032 U+0029
-üːt (2)	<???>	üːt (2)	Sakha	1	U+00fc U+02d0 U+0074 U+0020 U+0028 U+0032 U+0029
 ^r	r	rakovina	Sakha	1	U+005e U+0072
-baːy (2)	<???>	baːy (2)	Sakha	1	U+0062 U+0061 U+02d0 U+0079 U+0020 U+0028 U+0032 U+0029
-^öh	ö/ø h	öhüö	Sakha	1	U+005e U+00f6 U+0068
-tögürük (2)	<???>	tögürük (2)	Sakha	1	U+0074 U+00f6 U+0067 U+00fc U+0072 U+00fc U+006b U+0020 U+0028 U+0032 U+0029
-χaːs (1)	<???>	χaːs (1)	Sakha	1	U+03c7 U+0061 U+02d0 U+0073 U+0020 U+0028 U+0031 U+0029
-miːn (2)	<???>	miːn (2)	Sakha	1	U+006d U+0069 U+02d0 U+006e U+0020 U+0028 U+0032 U+0029
-sɨrdɨk (1)	<???>	sɨrdɨk (1)	Sakha	1	U+0073 U+0268 U+0072 U+0064 U+0268 U+006b U+0020 U+0028 U+0031 U+0029
-öydöː (1)	<???>	öydöː (1)	Sakha	1	U+00f6 U+0079 U+0064 U+00f6 U+02d0 U+0020 U+0028 U+0031 U+0029
+^öh	ö/œ h	öhüö	Sakha	1	U+005e U+00f6 U+0068
 x$	x	taỹax	Sakha	1	U+0078 U+0024
 ^üs$	y s	üs	Sakha	1	U+005e U+00fc U+0073 U+0024
-sɨːha (1)	<???>	sɨːha (1)	Sakha	1	U+0073 U+0268 U+02d0 U+0068 U+0061 U+0020 U+0028 U+0031 U+0029
 ^e$	e	e	Sakha	1	U+005e U+0065 U+0024
-saŋa (2)	<???>	saŋa (2)	Sakha	1	U+0073 U+0061 U+014b U+0061 U+0020 U+0028 U+0032 U+0029
-saŋas (archaic variant; Pekarskij 1959 [1907-1930]: 2086)	<???>	saŋas (archaic variant; Pekarskij 1959 [1907-1930]: 2086)	Sakha	1	U+0073 U+0061 U+014b U+0061 U+0073 U+0020 U+0028 U+0061 U+0072 U+0063 U+0068 U+0061 U+0069 U+0063 U+0020 U+0076 U+0061 U+0072 U+0069 U+0061 U+006e U+0074 U+003b U+0020 U+0050 U+0065 U+006b U+0061 U+0072 U+0073 U+006b U+0069 U+006a U+0020 U+0031 U+0039 U+0035 U+0039 U+0020 U+005b U+0031 U+0039 U+0030 U+0037 U+002d U+0031 U+0039 U+0033 U+0030 U+005d U+003a U+0020 U+0032 U+0030 U+0038 U+0036 U+0029
-bas (1)	<???>	bas (1)	Sakha	1	U+0062 U+0061 U+0073 U+0020 U+0028 U+0031 U+0029
-ls	l s	pravitelstva	Sakha	1	U+006c U+0073
+ls	l + s	pravitelstva	Sakha	1	U+006c U+0073
 γ	γ/ɣ 	χas daγanï	Sakha	1	U+03b3
-kut (2)	<???>	kut (2)	Sakha	1	U+006b U+0075 U+0074 U+0020 U+0028 U+0032 U+0029
-as (1)	<???>	as (1)	Sakha	1	U+0061 U+0073 U+0020 U+0028 U+0031 U+0029
-χat (1)	<???>	χat (1)	Sakha	1	U+03c7 U+0061 U+0074 U+0020 U+0028 U+0031 U+0029
-uhun (2)	<???>	uhun (2)	Sakha	1	U+0075 U+0068 U+0075 U+006e U+0020 U+0028 U+0032 U+0029
-as (2)	<???>	as (2)	Sakha	1	U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
-aːt (1)	<???>	aːt (1)	Sakha	1	U+0061 U+02d0 U+0074 U+0020 U+0028 U+0031 U+0029
-buol (2)	<???>	buol (2)	Sakha	1	U+0062 U+0075 U+006f U+006c U+0020 U+0028 U+0032 U+0029
-uor (2)	<???>	uor (2)	Sakha	1	U+0075 U+006f U+0072 U+0020 U+0028 U+0032 U+0029
-üːt (1)	<???>	üːt (1)	Sakha	1	U+00fc U+02d0 U+0074 U+0020 U+0028 U+0031 U+0029
-uor (1)	<???>	uor (1)	Sakha	1	U+0075 U+006f U+0072 U+0020 U+0028 U+0031 U+0029
-uos (1)	<???>	uos (1)	Sakha	1	U+0075 U+006f U+0073 U+0020 U+0028 U+0031 U+0029
-sɨrdɨk (2)	<???>	sɨrdɨk (2)	Sakha	1	U+0073 U+0268 U+0072 U+0064 U+0268 U+006b U+0020 U+0028 U+0032 U+0029
-uos (2)	<???>	uos (2)	Sakha	1	U+0075 U+006f U+0073 U+0020 U+0028 U+0032 U+0029
-nečimien (archaic)	<???>	nečimien (archaic)	Sakha	1	U+006e U+0065 U+010d U+0069 U+006d U+0069 U+0065 U+006e U+0020 U+0028 U+0061 U+0072 U+0063 U+0068 U+0061 U+0069 U+0063 U+0029
-a:	a:	tünnük ta:ha	Sakha	1	U+0061 U+003a
-ʤadaŋɨ (2)	<???>	ʤadaŋɨ (2)	Sakha	1	U+02a4 U+0061 U+0064 U+0061 U+014b U+0268 U+0020 U+0028 U+0032 U+0029
+a:	aː	tünnük ta:ha	Sakha	1	U+0061 U+003a
 χχ	χː	χaχχan	Sakha	1	U+03c7 U+03c7
-ɨt (2)	<???>	ɨt (2)	Sakha	1	U+0268 U+0074 U+0020 U+0028 U+0032 U+0029
-miːn (1)	<???>	miːn (1)	Sakha	1	U+006d U+0069 U+02d0 U+006e U+0020 U+0028 U+0031 U+0029
-sanaː (1)	<???>	sanaː (1)	Sakha	1	U+0073 U+0061 U+006e U+0061 U+02d0 U+0020 U+0028 U+0031 U+0029
-is (1)	<???>	is (1)	Sakha	1	U+0069 U+0073 U+0020 U+0028 U+0031 U+0029
-χaraŋa (2)	<???>	χaraŋa (2)	Sakha	1	U+03c7 U+0061 U+0072 U+0061 U+014b U+0061 U+0020 U+0028 U+0032 U+0029
-χat (2)	<???>	χat (2)	Sakha	1	U+03c7 U+0061 U+0074 U+0020 U+0028 U+0032 U+0029
-χarbaː (2)	<???>	χarbaː (2)	Sakha	1	U+03c7 U+0061 U+0072 U+0062 U+0061 U+02d0 U+0020 U+0028 U+0032 U+0029
-ʤadaŋɨ (1)	<???>	ʤadaŋɨ (1)	Sakha	1	U+02a4 U+0061 U+0064 U+0061 U+014b U+0268 U+0020 U+0028 U+0031 U+0029
-^A	<?>	-A sataː	Sakha	1	U+005e U+0041
-ɨt (1)	<???>	ɨt (1)	Sakha	1	U+0268 U+0074 U+0020 U+0028 U+0031 U+0029
-čaːs (2)	<???>	čaːs (2)	Sakha	1	U+010d U+0061 U+02d0 U+0073 U+0020 U+0028 U+0032 U+0029
-ahaː (1)	<???>	ahaː (1)	Sakha	1	U+0061 U+0068 U+0061 U+02d0 U+0020 U+0028 U+0031 U+0029
-čaːs (1)	<???>	čaːs (1)	Sakha	1	U+010d U+0061 U+02d0 U+0073 U+0020 U+0028 U+0031 U+0029
-taːs (1)	<???>	taːs (1)	Sakha	1	U+0074 U+0061 U+02d0 U+0073 U+0020 U+0028 U+0031 U+0029
-as (3)	<???>	as (3)	Sakha	1	U+0061 U+0073 U+0020 U+0028 U+0033 U+0029
-et (2)	<???>	et (2)	Sakha	1	U+0065 U+0074 U+0020 U+0028 U+0032 U+0029
-arɨː (2)	<???>	arɨː (2)	Sakha	1	U+0061 U+0072 U+0268 U+02d0 U+0020 U+0028 U+0032 U+0029
-taːy (1)	<???>	taːy (1)	Sakha	1	U+0074 U+0061 U+02d0 U+0079 U+0020 U+0028 U+0031 U+0029
-χaraŋa (1)	<???>	χaraŋa (1)	Sakha	1	U+03c7 U+0061 U+0072 U+0061 U+014b U+0061 U+0020 U+0028 U+0031 U+0029
-taːs (2)	<???>	taːs (2)	Sakha	1	U+0074 U+0061 U+02d0 U+0073 U+0020 U+0028 U+0032 U+0029
-sɨːha (2)	<???>	sɨːha (2)	Sakha	1	U+0073 U+0268 U+02d0 U+0068 U+0061 U+0020 U+0028 U+0032 U+0029
+^-A sataː$	a s a t aː	-A sataː	Sakha	1	
+archaic	NULL				
+archaic variant; Pekarskij 1959 [1907-1930]: 2086	NULL				

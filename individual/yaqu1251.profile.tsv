@@ -1,6 +1,12 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
+(	NULL				
+)	NULL				
+1	NULL				
+2	NULL				
+~	NULL				
+buscar pie	NULL				
 a	a	jakara, bepa’aria	Yaqui	1003	U+0061
 i	i	na’ikimte, kuchichi’iti nooka	Yaqui	670	U+0069
 a$	a	jakara, beea	Yaqui	601	U+0061 U+0024
@@ -9,7 +15,7 @@ e	e	mambebeme’eku, rebei	Yaqui	469	U+0065
 u	u	su’utoja, usi ju’ubwa yo’otume	Yaqui	447	U+0075
 t	t	chitabetalai, na’ikimte	Yaqui	411	U+0074
 k	k	jakara, ako	Yaqui	370	U+006b
-’	<?>	ji’ika, na’ikimte	Yaqui	362	U+2019
+’	ʔ	ji’ika, na’ikimte	Yaqui	362	U+2019
 m	m	wojmamni ama mamni, na’ikimte	Yaqui	278	U+006d
 r	r	jakara, konrenaroa	Yaqui	266	U+0072
 e$	e	na’ikimte, jippue	Yaqui	250	U+0065 U+0024
@@ -26,110 +32,72 @@ m$	m	nakam, masam	Yaqui	175	U+006d U+0024
 ^b	b	beea, bepa’aria	Yaqui	162	U+005e U+0062
 o$	o	ako, aapo	Yaqui	161	U+006f U+0024
 l	l	kopalai, saila	Yaqui	160	U+006c
-aa	aa	bwaana, waakas	Yaqui	137	U+0061 U+0061
+aa	aː	bwaana, waakas	Yaqui	137	U+0061 U+0061
 p	p	bepa’aria, kopalai	Yaqui	137	U+0070
-ch	ch	kuchichi’iti nooka, eecha	Yaqui	126	U+0063 U+0068
+ch	tʃ	kuchichi’iti nooka, eecha	Yaqui	126	U+0063 U+0068
 w	w	naawa, teuwa	Yaqui	110	U+0077
 ^s	s	su’utoja, sai	Yaqui	107	U+005e U+0073
 ^m	m	mo’one, meecha	Yaqui	95	U+005e U+006d
 ^p	p	puepplo, pajti	Yaqui	86	U+005e U+0070
 ^w	w	wikosa, waakas	Yaqui	81	U+005e U+0077
-ee	ee	beea, meecha	Yaqui	72	U+0065 U+0065
-oo	oo	jooa, joona	Yaqui	70	U+006f U+006f
-y	y	juya, taya	Yaqui	69	U+0079
+ee	eː	beea, meecha	Yaqui	72	U+0065 U+0065
+oo	oː	jooa, joona	Yaqui	70	U+006f U+006f
+y	j	juya, taya	Yaqui	69	U+0079
 ^n	n	na’ikimte, nautoja	Yaqui	63	U+005e U+006e
 ^a	a	ako, apa	Yaqui	62	U+005e U+0061
-^y	y	yoemia, yo’o	Yaqui	57	U+005e U+0079
+^y	j	yoemia, yo’o	Yaqui	57	U+005e U+0079
 u$	u	o’ou, ja’amu	Yaqui	56	U+0075 U+0024
-ii	ii	wii’i, biika	Yaqui	55	U+0069 U+0069
-^ch	ch	chukta, chi’ila	Yaqui	55	U+005e U+0063 U+0068
-^bw	bw	bwaana, bwa’ame	Yaqui	48	U+005e U+0062 U+0077
+ii	iː	wii’i, biika	Yaqui	55	U+0069 U+0069
+^ch	tʃ	chukta, chi’ila	Yaqui	55	U+005e U+0063 U+0068
+^bw	bʷ	bwaana, bwa’ame	Yaqui	48	U+005e U+0062 U+0077
 ^e	e	ete, emo eiya	Yaqui	41	U+005e U+0065
 ^l	l	lu’utek, lionoka	Yaqui	38	U+005e U+006c
-uu	uu	kuuna, juube	Yaqui	38	U+0075 U+0075
+uu	uː	kuuna, juube	Yaqui	38	U+0075 U+0075
 ^r	r	rajtiom, ramaa	Yaqui	33	U+005e U+0072
 ^o	o	o’ou, oko	Yaqui	32	U+005e U+006f
 ^i	i	itepo, inie betchi’ibo	Yaqui	26	U+005e U+0069
-tt	tt	totta, bittua	Yaqui	26	U+0074 U+0074
+tt	t t	totta, bittua	Yaqui	26	U+0074 U+0074
 s$	s	waakas, seis	Yaqui	24	U+0073 U+0024
-bw	bw	usi ju’ubwa yo’otume, ase’ebwa	Yaqui	23	U+0062 U+0077
+bw	bʷ	usi ju’ubwa yo’otume, ase’ebwa	Yaqui	23	U+0062 U+0077
 k$	k	lu’utek, meechak	Yaqui	21	U+006b U+0024
 t$	t	bajut, jamut	Yaqui	19	U+0074 U+0024
-aa$	aa	kabaa, kutanaa	Yaqui	18	U+0061 U+0061 U+0024
+aa$	aː	kabaa, kutanaa	Yaqui	18	U+0061 U+0061 U+0024
 n$	n	relpin, relijion	Yaqui	14	U+006e U+0024
-kk	kk	jikkaja, jekka	Yaqui	12	U+006b U+006b
+kk	k k	jikkaja, jekka	Yaqui	12	U+006b U+006b
 l$	l	tribunaal, ojpital	Yaqui	11	U+006c U+0024
-ns	ns	lisensia, insekto	Yaqui	11	U+006e U+0073
-pp	pp	jippue, puepplo	Yaqui	10	U+0070 U+0070
-^aa	aa	aapo, aache	Yaqui	9	U+005e U+0061 U+0061
+ns	n s	lisensia, insekto	Yaqui	11	U+006e U+0073
+pp	p p	jippue, puepplo	Yaqui	10	U+0070 U+0070
+^aa	aː	aapo, aache	Yaqui	9	U+005e U+0061 U+0061
 ^u	u	usi ju’ubwa yo’otume, utte’ak	Yaqui	9	U+005e U+0075
 r$	r	propesor, motor	Yaqui	8	U+0072 U+0024
-^uu	uu	uusi, uuba	Yaqui	7	U+005e U+0075 U+0075
-ks	ks	baksia, inyeksionim	Yaqui	6	U+006b U+0073
-ss	ss	bwassuma, nassua	Yaqui	6	U+0073 U+0073
-^ee	ee	eecha, eeri	Yaqui	6	U+005e U+0065 U+0065
-tw	tw	kutwaate, ketwo	Yaqui	6	U+0074 U+0077
-ps	ps	jiapsi, jiapsa	Yaqui	5	U+0070 U+0073
-^oo	oo	ooso, ooro	Yaqui	5	U+005e U+006f U+006f
-jw	jw	tejwa, tetejwa	Yaqui	5	U+006a U+0077
-ania (2)	<???>	ania (2)	Yaqui	4	U+0061 U+006e U+0069 U+0061 U+0020 U+0028 U+0032 U+0029
-kw	kw	chikwatte, tamtekwa	Yaqui	4	U+006b U+0077
--	<?>	-po, -ko	Yaqui	4	U+002d
-nw	nw	joronwom, ama yeyenwame	Yaqui	3	U+006e U+0077
+^uu	uː	uusi, uuba	Yaqui	7	U+005e U+0075 U+0075
+ks	k s	baksia, inyeksionim	Yaqui	6	U+006b U+0073
+ss	s s	bwassuma, nassua	Yaqui	6	U+0073 U+0073
+^ee	eː	eecha, eeri	Yaqui	6	U+005e U+0065 U+0065
+tw	t w	kutwaate, ketwo	Yaqui	6	U+0074 U+0077
+ps	p s	jiapsi, jiapsa	Yaqui	5	U+0070 U+0073
+^oo	oː	ooso, ooro	Yaqui	5	U+005e U+006f U+006f
+jw	j w	tejwa, tetejwa	Yaqui	5	U+006a U+0077
+kw	k w	chikwatte, tamtekwa	Yaqui	4	U+006b U+0077
+-	+	-po, -ko	Yaqui	4	U+002d
+nw	n w	joronwom, ama yeyenwame	Yaqui	3	U+006e U+0077
 d	d	seeda, kandao	Yaqui	3	U+0064
-mm	mm	tonommea japte, mammatte	Yaqui	3	U+006d U+006d
-ls	ls	pulseera, bolsiom	Yaqui	3	U+006c U+0073
-asowaara ~ asowaala	<???>	asowaara ~ asowaala	Yaqui	3	U+0061 U+0073 U+006f U+0077 U+0061 U+0061 U+0072 U+0061 U+0020 U+007e U+0020 U+0061 U+0073 U+006f U+0077 U+0061 U+0061 U+006c U+0061
-mw	mw	ta’ata aman komwechebetana, ba’akomwechia	Yaqui	2	U+006d U+0077
-apala ~ apara	<???>	apala ~ apara	Yaqui	2	U+0061 U+0070 U+0061 U+006c U+0061 U+0020 U+007e U+0020 U+0061 U+0070 U+0061 U+0072 U+0061
+mm	m m	tonommea japte, mammatte	Yaqui	3	U+006d U+006d
+ls	l s	pulseera, bolsiom	Yaqui	3	U+006c U+0073
+mw	m w	ta’ata aman komwechebetana, ba’akomwechia	Yaqui	2	U+006d U+0077
 ^d	d	dies, dose	Yaqui	2	U+005e U+0064
-ms	ms	bamse, kumsakam	Yaqui	2	U+006d U+0073
+ms	m s	bamse, kumsakam	Yaqui	2	U+006d U+0073
 wokjajai (buscar pie)	<???>	wokjajai (buscar pie)	Yaqui	1	U+0077 U+006f U+006b U+006a U+0061 U+006a U+0061 U+0069 U+0020 U+0028 U+0062 U+0075 U+0073 U+0063 U+0061 U+0072 U+0020 U+0070 U+0069 U+0065 U+0029
-bb	bb	ubba	Yaqui	1	U+0062 U+0062
-kojtumrem ~ kojtumbrem	<???>	kojtumrem ~ kojtumbrem	Yaqui	1	U+006b U+006f U+006a U+0074 U+0075 U+006d U+0072 U+0065 U+006d U+0020 U+007e U+0020 U+006b U+006f U+006a U+0074 U+0075 U+006d U+0062 U+0072 U+0065 U+006d
-nn	nn	tenne	Yaqui	1	U+006e U+006e
+bb	b b	ubba	Yaqui	1	U+0062 U+0062
+nn	n n	tenne	Yaqui	1	U+006e U+006e
 jeewi ~ eewi	<???>	jeewi ~ eewi	Yaqui	1	U+006a U+0065 U+0065 U+0077 U+0069 U+0020 U+007e U+0020 U+0065 U+0065 U+0077 U+0069
-oo$	oo	bichoo	Yaqui	1	U+006f U+006f U+0024
-ii$	ii	jitebii	Yaqui	1	U+0069 U+0069 U+0024
-taata (2)	<???>	taata (2)	Yaqui	1	U+0074 U+0061 U+0061 U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
-apala ~ aparai	<???>	apala ~ aparai	Yaqui	1	U+0061 U+0070 U+0061 U+006c U+0061 U+0020 U+007e U+0020 U+0061 U+0070 U+0061 U+0072 U+0061 U+0069
-si’ime (1)	<???>	si’ime (1)	Yaqui	1	U+0073 U+0069 U+2019 U+0069 U+006d U+0065 U+0020 U+0028 U+0031 U+0029
-ian ~ i’ani	<???>	ian ~ i’ani	Yaqui	1	U+0069 U+0061 U+006e U+0020 U+007e U+0020 U+0069 U+2019 U+0061 U+006e U+0069
-banko (2)	<???>	banko (2)	Yaqui	1	U+0062 U+0061 U+006e U+006b U+006f U+0020 U+0028 U+0032 U+0029
-laatano ~ plaatano	<???>	laatano ~ plaatano	Yaqui	1	U+006c U+0061 U+0061 U+0074 U+0061 U+006e U+006f U+0020 U+007e U+0020 U+0070 U+006c U+0061 U+0061 U+0074 U+0061 U+006e U+006f
-kaate (1)	<???>	kaate (1)	Yaqui	1	U+006b U+0061 U+0061 U+0074 U+0065 U+0020 U+0028 U+0031 U+0029
-japte (2)	<???>	japte (2)	Yaqui	1	U+006a U+0061 U+0070 U+0074 U+0065 U+0020 U+0028 U+0032 U+0029
+oo$	oː	bichoo	Yaqui	1	U+006f U+006f U+0024
+ii$	iː	jitebii	Yaqui	1	U+0069 U+0069 U+0024
 ^o$	o	o	Yaqui	1	U+005e U+006f U+0024
-si’ime (2)	<???>	si’ime (2)	Yaqui	1	U+0073 U+0069 U+2019 U+0069 U+006d U+0065 U+0020 U+0028 U+0032 U+0029
-japte (1)	<???>	japte (1)	Yaqui	1	U+006a U+0061 U+0070 U+0074 U+0065 U+0020 U+0028 U+0031 U+0029
-ania (1)	<???>	ania (1)	Yaqui	1	U+0061 U+006e U+0069 U+0061 U+0020 U+0028 U+0031 U+0029
-sepia ~ sep	<???>	sepia ~ sep	Yaqui	1	U+0073 U+0065 U+0070 U+0069 U+0061 U+0020 U+007e U+0020 U+0073 U+0065 U+0070
-taata (1)	<???>	taata (1)	Yaqui	1	U+0074 U+0061 U+0061 U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
-lipti ~ ripti	<???>	lipti ~ ripti	Yaqui	1	U+006c U+0069 U+0070 U+0074 U+0069 U+0020 U+007e U+0020 U+0072 U+0069 U+0070 U+0074 U+0069
-kaate (2)	<???>	kaate (2)	Yaqui	1	U+006b U+0061 U+0061 U+0074 U+0065 U+0020 U+0028 U+0032 U+0029
-los ~ dos	<???>	los ~ dos	Yaqui	1	U+006c U+006f U+0073 U+0020 U+007e U+0020 U+0064 U+006f U+0073
-too ~ tooro	<???>	too ~ tooro	Yaqui	1	U+0074 U+006f U+006f U+0020 U+007e U+0020 U+0074 U+006f U+006f U+0072 U+006f
-dudaroa ~ ruraroa	<???>	dudaroa ~ ruraroa	Yaqui	1	U+0064 U+0075 U+0064 U+0061 U+0072 U+006f U+0061 U+0020 U+007e U+0020 U+0072 U+0075 U+0072 U+0061 U+0072 U+006f U+0061
-ll	ll	allea	Yaqui	1	U+006c U+006c
+ll	l l	allea	Yaqui	1	U+006c U+006c
 ^g	g	geer	Yaqui	1	U+005e U+0067
-e’e (1)	<???>	e’e (1)	Yaqui	1	U+0065 U+2019 U+0065 U+0020 U+0028 U+0031 U+0029
-lotor ~ lotoor	<???>	lotor ~ lotoor	Yaqui	1	U+006c U+006f U+0074 U+006f U+0072 U+0020 U+007e U+0020 U+006c U+006f U+0074 U+006f U+006f U+0072
-jiabijte(i)	<???>	jiabijte(i)	Yaqui	1	U+006a U+0069 U+0061 U+0062 U+0069 U+006a U+0074 U+0065 U+0028 U+0069 U+0029
-e’e (2)	<???>	e’e (2)	Yaqui	1	U+0065 U+2019 U+0065 U+0020 U+0028 U+0032 U+0029
-laata ~ plaata	<???>	laata ~ plaata	Yaqui	1	U+006c U+0061 U+0061 U+0074 U+0061 U+0020 U+007e U+0020 U+0070 U+006c U+0061 U+0061 U+0074 U+0061
-pojte (1)	<???>	pojte (1)	Yaqui	1	U+0070 U+006f U+006a U+0074 U+0065 U+0020 U+0028 U+0031 U+0029
-pale ~ paale	<???>	pale ~ paale	Yaqui	1	U+0070 U+0061 U+006c U+0065 U+0020 U+007e U+0020 U+0070 U+0061 U+0061 U+006c U+0065
-rw	rw	sorwo	Yaqui	1	U+0072 U+0077
-pw	pw	jujupwame	Yaqui	1	U+0070 U+0077
-te’opo (1)	<???>	te’opo (1)	Yaqui	1	U+0074 U+0065 U+2019 U+006f U+0070 U+006f U+0020 U+0028 U+0031 U+0029
-yo’owe ~ yoowe	<???>	yo’owe ~ yoowe	Yaqui	1	U+0079 U+006f U+2019 U+006f U+0077 U+0065 U+0020 U+007e U+0020 U+0079 U+006f U+006f U+0077 U+0065
-lw	lw	jinilwachi	Yaqui	1	U+006c U+0077
-kikte (1)	<???>	kikte (1)	Yaqui	1	U+006b U+0069 U+006b U+0074 U+0065 U+0020 U+0028 U+0031 U+0029
-ee$	ee	kapee	Yaqui	1	U+0065 U+0065 U+0024
-yy	yy	koyyoi	Yaqui	1	U+0079 U+0079
-kuus ~ kurus	<???>	kuus ~ kurus	Yaqui	1	U+006b U+0075 U+0075 U+0073 U+0020 U+007e U+0020 U+006b U+0075 U+0072 U+0075 U+0073
-kikte (2)	<???>	kikte (2)	Yaqui	1	U+006b U+0069 U+006b U+0074 U+0065 U+0020 U+0028 U+0032 U+0029
-kama (1)	<???>	kama (1)	Yaqui	1	U+006b U+0061 U+006d U+0061 U+0020 U+0028 U+0031 U+0029
-banko (1)	<???>	banko (1)	Yaqui	1	U+0062 U+0061 U+006e U+006b U+006f U+0020 U+0028 U+0031 U+0029
-pojte (2)	<???>	pojte (2)	Yaqui	1	U+0070 U+006f U+006a U+0074 U+0065 U+0020 U+0028 U+0032 U+0029
-kucha’ara ~ kucha’a	<???>	kucha’ara ~ kucha’a	Yaqui	1	U+006b U+0075 U+0063 U+0068 U+0061 U+2019 U+0061 U+0072 U+0061 U+0020 U+007e U+0020 U+006b U+0075 U+0063 U+0068 U+0061 U+2019 U+0061
+rw	r w	sorwo	Yaqui	1	U+0072 U+0077
+pw	p w	jujupwame	Yaqui	1	U+0070 U+0077
+lw	l w	jinilwachi	Yaqui	1	U+006c U+0077
+ee$	eː	kapee	Yaqui	1	U+0065 U+0065 U+0024
+yy	jː 	koyyoi	Yaqui	1	U+0079 U+0079
