@@ -1,6 +1,12 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
+(	NULL				
+)	NULL				
+1	NULL				
+2	NULL				
+M	NULL				
+F	NULL				
 a	a	kuyaʕko kaʕasay, takkaya	Gawwada	844	U+0061
 o$	o	hammakko, ʕaɗunko	Gawwada	339	U+006f U+0024
 e$	e	piye, ʔaspitte	Gawwada	323	U+0065 U+0024
@@ -12,12 +18,12 @@ k	k	sikaapa, sakanko	Gawwada	195	U+006b
 ^k	k	koɗ, kor	Gawwada	173	U+005e U+006b
 u	u	kulunko, ʕaɗunko	Gawwada	173	U+0075
 r	r	kaarko, harɠo	Gawwada	159	U+0072
-aa	aa	sikaapa, kaarko	Gawwada	158	U+0061 U+0061
+aa	aː	sikaapa, kaarko	Gawwada	158	U+0061 U+0061
 n	n	šiinanko, kinine	Gawwada	156	U+006e
 a$	a	sikaapa, takkaya	Gawwada	147	U+0061 U+0024
-kk	kk	takkaya, hammakko	Gawwada	127	U+006b U+006b
+kk	k k	takkaya, hammakko	Gawwada	127	U+006b U+006b
 p	p	sikaapa, ʔaspitte	Gawwada	112	U+0070
-tt	tt	kittatte, ʔaspitte	Gawwada	108	U+0074 U+0074
+tt	t t	kittatte, ʔaspitte	Gawwada	108	U+0074 U+0074
 l	l	holas, kala	Gawwada	106	U+006c
 ^t	t	takkaya, taanko	Gawwada	99	U+005e U+0074
 ^h	h	hammakko, heet’a	Gawwada	98	U+005e U+0068
@@ -26,21 +32,21 @@ m	m	teeme, qurcumcimitte	Gawwada	96	U+006d
 ^m	m	miʔaye, mahnaʔa	Gawwada	91	U+005e U+006d
 e	e	miʔaye ʕasito, leʕʕo	Gawwada	82	U+0065
 y	y	piye, takkaya	Gawwada	78	U+0079
-oo	oo	ʔooy, ʔoošakko	Gawwada	77	U+006f U+006f
+oo	oː	ʔooy, ʔoošakko	Gawwada	77	U+006f U+006f
 ^s	s	sikaapa, sano	Gawwada	76	U+005e U+0073
 _	_	miʔaye ʕasito, ʔille na=sooʕa	Gawwada	71	U+005f
-ee	ee	šeek, heet’a	Gawwada	71	U+0065 U+0065
+ee	eː	šeek, heet’a	Gawwada	71	U+0065 U+0065
 ʕ	ʕ	kuyaʕko kaʕasay, ɠuʕakko	Gawwada	67	U+0295
 ’	<?>	k’ork’orro, k’arat’t’o	Gawwada	66	U+2019
-š	š	ʕaško, hašitto	Gawwada	66	U+0161
+š	ʃ	ʕaško, hašitto	Gawwada	66	U+0161
 s	s	ʔaspitte, miʔaye ʕasito	Gawwada	65	U+0073
 i$	i	ʔakki, peerri	Gawwada	55	U+0069 U+0024
 h	h	mahnaʔa, xaha	Gawwada	54	U+0068
 ʔ	ʔ	miʔaye, mahnaʔa	Gawwada	48	U+0294
 ɗ$	ɗ	koɗ, waaɗ	Gawwada	46	U+0257 U+0024
-^š	š	šeek, šullo	Gawwada	45	U+005e U+0161
+^š	ʃ	šeek, šullo	Gawwada	45	U+005e U+0161
 ^q	q	qawho, qaaš	Gawwada	44	U+005e U+0071
-ll	ll	šullo, ʔille na=sooʕa	Gawwada	43	U+006c U+006c
+ll	l l	šullo, ʔille na=sooʕa	Gawwada	43	U+006c U+006c
 ɗ	ɗ	ʕaɗunko, ɠaɗo	Gawwada	42	U+0257
 ^l	l	lukte, leʕʕo	Gawwada	36	U+005e U+006c
 s$	s	holas, ɗinis	Gawwada	35	U+0073 U+0024
@@ -51,21 +57,21 @@ w	w	kawkawe, ʔawšo	Gawwada	34	U+0077
 ^ɗ	ɗ	ɗinis, ɗamma	Gawwada	30	U+005e U+0257
 f	f	haafakko, marfe	Gawwada	30	U+0066
 y$	y	ʔooy, tay	Gawwada	28	U+0079 U+0024
-=	<?>	taatte=pa taattite, ye=ʔawšú	Gawwada	26	U+003d
-ii	ii	piir, miinatte	Gawwada	26	U+0069 U+0069
-mm	mm	hammakko, ɗamma	Gawwada	25	U+006d U+006d
+=	+	taatte=pa taattite, ye=ʔawšú	Gawwada	26	U+003d
+ii	iː	piir, miinatte	Gawwada	26	U+0069 U+0069
+mm	m m	hammakko, ɗamma	Gawwada	25	U+006d U+006d
 ^ɠ	ɠ	ɠuʕakko, ɠap	Gawwada	24	U+005e U+0260
-rr	rr	peerri, k’ork’orro	Gawwada	24	U+0072 U+0072
-nn	nn	mekinnate, ɗilanne minnete	Gawwada	23	U+006e U+006e
+rr	r r	peerri, k’ork’orro	Gawwada	24	U+0072 U+0072
+nn	n n	mekinnate, ɗilanne minnete	Gawwada	23	U+006e U+006e
 k$	k	šeek, ʕak	Gawwada	22	U+006b U+0024
-uu	uu	muunt’o, kuute	Gawwada	21	U+0075 U+0075
+uu	uː	muunt’o, kuute	Gawwada	21	U+0075 U+0075
 r$	r	kor, piir	Gawwada	19	U+0072 U+0024
 ^r	r	rakko, raf	Gawwada	18	U+005e U+0072
 ^y	y	yiʔto, ye=šaʔú	Gawwada	16	U+005e U+0079
-pp	pp	ʔappa=pa yaaye, siippi	Gawwada	15	U+0070 U+0070
+pp	p p	ʔappa=pa yaaye, siippi	Gawwada	15	U+0070 U+0070
 í	í	kawwaʕko ʔí=paqa, ʔí=tarɗi	Gawwada	15	U+00ed
 c	c	qurcumcimitte, minne caaqete	Gawwada	15	U+0063
-š$	š	ʔooš, xaš	Gawwada	15	U+0161 U+0024
+š$	ʃ	ʔooš, xaš	Gawwada	15	U+0161 U+0024
 ^n	n	nono, neehte	Gawwada	15	U+005e U+006e
 t$	t	keet, kaat	Gawwada	14	U+0074 U+0024
 ʕ$	ʕ	haʕ, ʔooʕ	Gawwada	14	U+0295 U+0024
@@ -76,68 +82,66 @@ n$	n	setten, xupin	Gawwada	13	U+006e U+0024
 h$	h	ʔooh, šoh	Gawwada	11	U+0068 U+0024
 p$	p	ɠap, ʔasaap	Gawwada	11	U+0070 U+0024
 l$	l	ɗil, hol	Gawwada	11	U+006c U+0024
-ɗɗ	ɗɗ	pirraɗɗe ɗamma, haantaɗɗe	Gawwada	10	U+0257 U+0257
+ɗɗ	ɗ ɗ	pirraɗɗe ɗamma, haantaɗɗe	Gawwada	10	U+0257 U+0257
 x	x	ʔaxa, qoxa	Gawwada	10	U+0078
-qq	qq	hoqqaši, caqqale	Gawwada	9	U+0071 U+0071
+qq	q q	hoqqaši, caqqale	Gawwada	9	U+0071 U+0071
 m$	m	šaam, t’om	Gawwada	9	U+006d U+0024
 ɠ	ɠ	harɠo, nuɠa	Gawwada	9	U+0260
-yy	yy	mayyi, kayya	Gawwada	8	U+0079 U+0079
-šš	šš	ʔašša, kiššaʕ	Gawwada	7	U+0161 U+0161
-lh	lh	ɠopolho, halho	Gawwada	7	U+006c U+0068
+yy	y y	mayyi, kayya	Gawwada	8	U+0079 U+0079
+šš	ʃ ʃ	ʔašša, kiššaʕ	Gawwada	7	U+0161 U+0161
+lh	l h	ɠopolho, halho	Gawwada	7	U+006c U+0068
 q$	q	ʔapaq, qaq	Gawwada	7	U+0071 U+0024
 ɓ	ɓ	xaɓo, šaamɓo	Gawwada	7	U+0253
 ʔ$	ʔ	meʔ, hiʔ	Gawwada	7	U+0294 U+0024
 f$	f	raf, ʕaf	Gawwada	6	U+0066 U+0024
-ss	ss	kissaɗ, kaasse	Gawwada	6	U+0073 U+0073
-^=	<?>	=ma, =pa	Gawwada	5	U+005e U+003d
+ss	s s	kissaɗ, kaasse	Gawwada	6	U+0073 U+0073
+^=	+	Err:509	Gawwada	5	U+005e U+003d
 u$	u	hantu hantu, moʔo=nu	Gawwada	5	U+0075 U+0024
-wh	wh	qawho, ʔalawho	Gawwada	4	U+0077 U+0068
-ww	ww	kawwaʕko ʔí=ħeereʔi, kawwaʕko	Gawwada	4	U+0077 U+0077
-zz	zz	ʔizzah ʔizzah, ʔizzah	Gawwada	3	U+007a U+007a
-rh	rh	ʔorhanko, ʔorhe	Gawwada	3	U+0072 U+0068
+wh	w h	qawho, ʔalawho	Gawwada	4	U+0077 U+0068
+ww	w w	kawwaʕko ʔí=ħeereʔi, kawwaʕko	Gawwada	4	U+0077 U+0077
+zz	z z	ʔizzah ʔizzah, ʔizzah	Gawwada	3	U+007a U+007a
+rh	r h	ʔorhanko, ʔorhe	Gawwada	3	U+0072 U+0068
 ɠ$	ɠ	šiɠ, hiɠ	Gawwada	3	U+0260 U+0024
-ʕʕ	ʕʕ	leʕʕo, hoʕʕi	Gawwada	3	U+0295 U+0295
-ff	ff	ʔuffi, puffaʕe	Gawwada	3	U+0066 U+0066
-ɠɠ	ɠɠ	ɗaɠɠap, ɗaɠɠis	Gawwada	3	U+0260 U+0260
--	<?>	ʔí=ɓoq-q-i, kaʕas-ay	Gawwada	3	U+002d
-^=s	<?>	=si, =sa	Gawwada	3	U+005e U+003d U+0073
-=h	<?>	ʔí=harkišami, ʔí=huli	Gawwada	3	U+003d U+0068
+ʕʕ	ʕ ʕ	leʕʕo, hoʕʕi	Gawwada	3	U+0295 U+0295
+ff	f f	ʔuffi, puffaʕe	Gawwada	3	U+0066 U+0066
+ɠɠ	ɠ ɠ	ɗaɠɠap, ɗaɠɠis	Gawwada	3	U+0260 U+0260
+-	+	ʔí=ɓoq-q-i, kaʕas-ay	Gawwada	3	U+002d
+^=s	+ s	Err:509	Gawwada	3	U+005e U+003d U+0073
+^ʔí=harkišami$	ʔ í + h a r k i ʃ a m i	ʔí=harkišami	Gawwada	3	U+003d U+0068
+^ʔí=huli$	ʔ í + h u l i	ʔí=huli			
 ^ħ	ħ	ħaamo, ħo t’ulluho	Gawwada	3	U+005e U+0127
 ú$	ú	ye=ʔawšú, ye=šaʔú	Gawwada	3	U+00fa U+0024
-ls	ls	kalse, kelso	Gawwada	3	U+006c U+0073
-ɓɓ	ɓɓ	rooɓɓile, xaaraɓɓo	Gawwada	2	U+0253 U+0253
+ls	l s	kalse, kelso	Gawwada	3	U+006c U+0073
+ɓɓ	ɓ ɓ	rooɓɓile, xaaraɓɓo	Gawwada	2	U+0253 U+0253
 ^ɓ	ɓ	ɓaɗ, ɓoqqos	Gawwada	2	U+005e U+0253
 w$	w	ʔintaw, qaw	Gawwada	2	U+0077 U+0024
-ʕs	ʕs	ʔošoʕsaɗ	Gawwada	2	U+0295 U+0073
-fs	fs	nafsatte ʕak, nafse	Gawwada	2	U+0066 U+0073
-cc	cc	kaacca, kaacce	Gawwada	2	U+0063 U+0063
+ʕs	ʕ s	ʔošoʕsaɗ	Gawwada	2	U+0295 U+0073
+fs	f s	nafsatte ʕak, nafse	Gawwada	2	U+0066 U+0073
+cc	c c	kaacca, kaacce	Gawwada	2	U+0063 U+0063
 á	á	k’ám pay, háš pay	Gawwada	2	U+00e1
 ’$	<?>	feet’, kuut’	Gawwada	2	U+2019 U+0024
 ħ	ħ	kawwaʕko ʔí=ħeereʔi, ʔikaħko	Gawwada	2	U+0127
 x$	x	lax, kox	Gawwada	2	U+0078 U+0024
-=s	<?>	ʔille na=sooʕa	Gawwada	2	U+003d U+0073
+na=sooʕa$	n a + s o o ʕ a	ʔille na=sooʕa		2	U+003d U+0073
 z	z	kize	Gawwada	2	U+007a
-ʔise (F)	<???>	ʔise (F)	Gawwada	1	U+0294 U+0069 U+0073 U+0065 U+0020 U+0028 U+0046 U+0029
-lik (2)	<???>	lik (2)	Gawwada	1	U+006c U+0069 U+006b U+0020 U+0028 U+0032 U+0029
-ʔí=powaʕ(aɗ)i	<???>	ʔí=powaʕ(aɗ)i	Gawwada	1	U+0294 U+00ed U+003d U+0070 U+006f U+0077 U+0061 U+0295 U+0028 U+0061 U+0257 U+0029 U+0069
-sh	sh	ʔishay	Gawwada	1	U+0073 U+0068
-k’alame (1)	<???>	k’alame (1)	Gawwada	1	U+006b U+2019 U+0061 U+006c U+0061 U+006d U+0065 U+0020 U+0028 U+0031 U+0029
-k’alame (2)	<???>	k’alame (2)	Gawwada	1	U+006b U+2019 U+0061 U+006c U+0061 U+006d U+0065 U+0020 U+0028 U+0032 U+0029
+ʔí=powaʕ(aɗ)i	ʔ í + p o w a ʕ a ɗ i	ʔí=powaʕ(aɗ)i	Gawwada	1	U+0294 U+00ed U+003d U+0070 U+006f U+0077 U+0061 U+0295 U+0028 U+0061 U+0257 U+0029 U+0069
+sh	s h	ʔishay	Gawwada	1	U+0073 U+0068
 ħ$	ħ	poħ	Gawwada	1	U+0127 U+0024
-hh	hh	lahha	Gawwada	1	U+0068 U+0068
-ɲɲ	ɲɲ	mooɲɲe	Gawwada	1	U+0272 U+0272
-ee$	ee	ʔee	Gawwada	1	U+0065 U+0065 U+0024
-ʔiso (M)	<???>	ʔiso (M)	Gawwada	1	U+0294 U+0069 U+0073 U+006f U+0020 U+0028 U+004d U+0029
+hh	h h	lahha	Gawwada	1	U+0068 U+0068
+ɲɲ	ɲ ɲ	mooɲɲe	Gawwada	1	U+0272 U+0272
+ee$	eː	ʔee	Gawwada	1	U+0065 U+0065 U+0024
 ^z	z	zayte	Gawwada	1	U+005e U+007a
-=(i)m	<???>	=(i)m	Gawwada	1	U+003d U+0028 U+0069 U+0029 U+006d
+Err:509	+ i m	Err:509	Gawwada	1	U+003d U+0028 U+0069 U+0029 U+006d
 ɓ$	ɓ	tuɓ	Gawwada	1	U+0253 U+0024
-(ʔille) paah	<???>	(ʔille) paah	Gawwada	1	U+0028 U+0294 U+0069 U+006c U+006c U+0065 U+0029 U+0020 U+0070 U+0061 U+0061 U+0068
-lik (1)	<???>	lik (1)	Gawwada	1	U+006c U+0069 U+006b U+0020 U+0028 U+0031 U+0029
-xx	xx	ʔeemaɗakko ʔixxete	Gawwada	1	U+0078 U+0078
+(ʔille) paah	ʔ i l l e _ p a a h	(ʔille) paah	Gawwada	1	U+0028 U+0294 U+0069 U+006c U+006c U+0065 U+0029 U+0020 U+0070 U+0061 U+0061 U+0068
+xx	x x	ʔeemaɗakko ʔixxete	Gawwada	1	U+0078 U+0078
 ʤ	ʤ	maʤammariya	Gawwada	1	U+02a4
-ns	ns	sansalate	Gawwada	1	U+006e U+0073
-roompo (ʕanɗete)	<???>	roompo (ʕanɗete)	Gawwada	1	U+0072 U+006f U+006f U+006d U+0070 U+006f U+0020 U+0028 U+0295 U+0061 U+006e U+0257 U+0065 U+0074 U+0065 U+0029
-ws	ws	kawso	Gawwada	1	U+0077 U+0073
-=w	<?>	ʔí=waršooɗi	Gawwada	1	U+003d U+0077
-(ʕanɗe) ʔí=t’aarama	<???>	(ʕanɗe) ʔí=t’aarama	Gawwada	1	U+0028 U+0295 U+0061 U+006e U+0257 U+0065 U+0029 U+0020 U+0294 U+00ed U+003d U+0074 U+2019 U+0061 U+0061 U+0072 U+0061 U+006d U+0061
-kuma (2)	<???>	kuma (2)	Gawwada	1	U+006b U+0075 U+006d U+0061 U+0020 U+0028 U+0032 U+0029
+ns	n s	sansalate	Gawwada	1	U+006e U+0073
+roompo (ʕanɗete)	r o o m p o _ ʕ a n ɗ e t e)	roompo (ʕanɗete)	Gawwada	1	U+0072 U+006f U+006f U+006d U+0070 U+006f U+0020 U+0028 U+0295 U+0061 U+006e U+0257 U+0065 U+0074 U+0065 U+0029
+ws	w s	kawso	Gawwada	1	U+0077 U+0073
+ʔí=waršooɗi	ʔ í + w a r ʃ o o ɗ i	ʔí=waršooɗi	Gawwada	1	U+003d U+0077
+(ʕanɗe) ʔí=t’aarama	ʕ a n ɗ e _ ʔ í + t’ a a r a m a	(ʕanɗe) ʔí=t’aarama	Gawwada	1	U+0028 U+0295 U+0061 U+006e U+0257 U+0065 U+0029 U+0020 U+0294 U+00ed U+003d U+0074 U+2019 U+0061 U+0061 U+0072 U+0061 U+006d U+0061
+^k’	k’	k’ace			
+k’	k’	k’ork’orro			
+^t’	t’	t’oonaqo			
+t’	t’	mart’aat’aʕako			

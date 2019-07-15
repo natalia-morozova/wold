@@ -1,6 +1,10 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
+(	NULL				
+)	NULL				
+1	NULL				
+2	NULL				
 a	a	maname aulana, talapu	Kali'na	820	U+0061
 l	l	kaleta, yulu	Kali'na	612	U+006c
 o	o	kolotoko, tonomɨ	Kali'na	508	U+006f
@@ -23,7 +27,7 @@ e$	e	lakele, ekɨine	Kali'na	158	U+0065 U+0024
 s	s	masi’pe, -palɨ sano	Kali'na	158	U+0073
 w	w	kulawa, kawale wokɨlɨ	Kali'na	149	U+0077
 ^w	w	wo, wolɨi	Kali'na	145	U+005e U+0077
--	<?>	-palɨ, -mitɨ	Kali'na	140	U+002d
+-	+	-palɨ, -mitɨ	Kali'na	140	U+002d
 ^e	e	emamɨ, eta	Kali'na	128	U+005e U+0065
 u$	u	yulu, talapu	Kali'na	125	U+0075 U+0024
 i$	i	wolɨi, apɨi	Kali'na	121	U+0069 U+0024
@@ -33,7 +37,7 @@ y	y	tuyuyu, ayoma	Kali'na	78	U+0079
 _	_	-palɨ sano, -lalɨ poko wɨto	Kali'na	73	U+005f
 ^s	s	suntatɨ, siliko	Kali'na	72	U+005e U+0073
 n$	n	aulan, -epinonen	Kali'na	63	U+006e U+0024
-’	<?>	pa’u, masi’pe	Kali'na	59	U+2019
+’	ʔ	pa’u, masi’pe	Kali'na	59	U+2019
 ^i	i	ipekɨ, ipapo	Kali'na	58	U+005e U+0069
 ^o	o	oma, onumenkano	Kali'na	56	U+005e U+006f
 ^u	u	untɨma, uwenpo	Kali'na	44	U+005e U+0075
@@ -44,69 +48,53 @@ n$	n	aulan, -epinonen	Kali'na	63	U+006e U+0024
 d	d	vendredi, mercredi	Kali'na	12	U+0064
 r	r	mercredi, fromage	Kali'na	10	U+0072
 ^b	b	bekima, buretɨ	Kali'na	9	U+005e U+0062
-ch	ch	machine, cachot	Kali'na	6	U+0063 U+0068
-'t	't	wa'topo, wa'to	Kali'na	6	U+0027 U+0074
-’w	<?>	o’winpupo, o’win	Kali'na	4	U+2019 U+0077
+ch	ʃ 	machine, cachot	Kali'na	6	U+0063 U+0068
+'t	ʔ t	wa'topo, wa'to	Kali'na	6	U+0027 U+0074
+’w	ʔ w	o’winpupo, o’win	Kali'na	4	U+2019 U+0077
 ^d	d	diletɨ, dibe	Kali'na	4	U+005e U+0064
-é$	é	paské, kafé	Kali'na	4	U+00e9 U+0024
-'a$	'a	pe'a, a'a	Kali'na	4	U+0027 U+0061 U+0024
-ns	ns	ensuma, unsiko	Kali'na	4	U+006e U+0073
+é$	é/e	paské, kafé	Kali'na	4	U+00e9 U+0024
+'a$	ʔ a	pe'a, a'a	Kali'na	4	U+0027 U+0061 U+0024
+ns	n s	ensuma, unsiko	Kali'na	4	U+006e U+0073
 l$	l	bal, dilwil	Kali'na	4	U+006c U+0024
 ^v	v	velo, vis	Kali'na	4	U+005e U+0076
-’s	<?>	-u’sakɨlɨ, tɨlomo’se	Kali'na	4	U+2019 U+0073
+’s	ʔ s	-u’sakɨlɨ, tɨlomo’se	Kali'na	4	U+2019 U+0073
 f	f	lafinèt, kafé	Kali'na	3	U+0066
-.	<?>	i-...-pa	Kali'na	3	U+002e
-ipolo (2)	<???>	ipolo (2)	Kali'na	3	U+0069 U+0070 U+006f U+006c U+006f U+0020 U+0028 U+0032 U+0029
+.	NULL	i-...-pa	Kali'na	3	U+002e
 ^c	c	cachot, cachot tano	Kali'na	3	U+005e U+0063
-omɨ (1)	<???>	omɨ (1)	Kali'na	2	U+006f U+006d U+0268 U+0020 U+0028 U+0031 U+0029
 g	g	fromage, legliz	Kali'na	2	U+0067
 ^z	z	zonion, zeng	Kali'na	2	U+005e U+007a
-ï$	ï	-potï, alekï	Kali'na	2	U+00ef U+0024
-è	è	lafinèt, lapèl	Kali'na	2	U+00e8
+ï$	ɯ 	-potï, alekï	Kali'na	2	U+00ef U+0024
+è	è/e	lafinèt, lapèl	Kali'na	2	U+00e8
 b	b	dibe, labye	Kali'na	2	U+0062
-'k	'k	kɨ'ko, kolo'ka	Kali'na	2	U+0027 U+006b
+'k	ʔ k	kɨ'ko, kolo'ka	Kali'na	2	U+0027 U+006b
 z	z	onze, douze	Kali'na	2	U+007a
 ^f	f	fromage, fulu	Kali'na	2	U+005e U+0066
-'m	'm	anpi'mo, epe'ma	Kali'na	2	U+0027 U+006d
-'n	'n	ainatone kali'na, na'na	Kali'na	2	U+0027 U+006e
+'m	ʔ m	anpi'mo, epe'ma	Kali'na	2	U+0027 U+006d
+'n	ʔ n	ainatone kali'na, na'na	Kali'na	2	U+0027 U+006e
 t$	t	cachot, lafinèt	Kali'na	2	U+0074 U+0024
-'e	'e	okupa'entoima	Kali'na	1	U+0027 U+0065
-amɨita (2)	<???>	amɨita (2)	Kali'na	1	U+0061 U+006d U+0268 U+0069 U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
-tt	tt	serviette	Kali'na	1	U+0074 U+0074
-uwa (1)	<???>	uwa (1)	Kali'na	1	U+0075 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
+'e	ʔ e	okupa'entoima	Kali'na	1	U+0027 U+0065
+tt	tː	serviette	Kali'na	1	U+0074 U+0074
 (tonolo) aponɨ	<???>	(tonolo) aponɨ	Kali'na	1	U+0028 U+0074 U+006f U+006e U+006f U+006c U+006f U+0029 U+0020 U+0061 U+0070 U+006f U+006e U+0268
-akoto (2)	<???>	akoto (2)	Kali'na	1	U+0061 U+006b U+006f U+0074 U+006f U+0020 U+0028 U+0032 U+0029
-amɨ (1)	<???>	amɨ (1)	Kali'na	1	U+0061 U+006d U+0268 U+0020 U+0028 U+0031 U+0029
 palansi(sin)	<???>	palansi(sin)	Kali'na	1	U+0070 U+0061 U+006c U+0061 U+006e U+0073 U+0069 U+0028 U+0073 U+0069 U+006e U+0029
 c	c	mercredi	Kali'na	1	U+0063
-ii$	ii	kupii	Kali'na	1	U+0069 U+0069 U+0024
-ipolo (1)	<???>	ipolo (1)	Kali'na	1	U+0069 U+0070 U+006f U+006c U+006f U+0020 U+0028 U+0031 U+0029
+ii$	iː	kupii	Kali'na	1	U+0069 U+0069 U+0024
 g$	g	zeng	Kali'na	1	U+0067 U+0024
-'p	'p	u'piyaki	Kali'na	1	U+0027 U+0070
-é	é	numéro	Kali'na	1	U+00e9
+'p	ʔ p	u'piyaki	Kali'na	1	U+0027 U+0070
+é	é/e	numéro	Kali'na	1	U+00e9
 z$	z	legliz	Kali'na	1	U+007a U+0024
-koto (2)	<???>	koto (2)	Kali'na	1	U+006b U+006f U+0074 U+006f U+0020 U+0028 U+0032 U+0029
-koto (1)	<???>	koto (1)	Kali'na	1	U+006b U+006f U+0074 U+006f U+0020 U+0028 U+0031 U+0029
-ll	ll	mille	Kali'na	1	U+006c U+006c
+ll	lː	mille	Kali'na	1	U+006c U+006c
 ^j	j	jeudi	Kali'na	1	U+005e U+006a
-awonka (1)	<???>	awonka (1)	Kali'na	1	U+0061 U+0077 U+006f U+006e U+006b U+0061 U+0020 U+0028 U+0031 U+0029
-^ï	ï	-ïino	Kali'na	1	U+005e U+00ef
-'e$	'e	apo'e	Kali'na	1	U+0027 U+0065 U+0024
+^ï	ɯ 	-ïino	Kali'na	1	U+005e U+00ef
+'e$	ʔ e	apo'e	Kali'na	1	U+0027 U+0065 U+0024
 s$	s	vis	Kali'na	1	U+0073 U+0024
-'u	'u	t'uke	Kali'na	1	U+0027 U+0075
+'u	ʔ u	t'uke	Kali'na	1	U+0027 U+0075
 r$	r	calendrier	Kali'na	1	U+0072 U+0024
-lw	lw	dilwil	Kali'na	1	U+006c U+0077
-^kw	kw	kwepi	Kali'na	1	U+005e U+006b U+0077
-'i$	'i	kuwa'i	Kali'na	1	U+0027 U+0069 U+0024
-omɨ (2)	<???>	omɨ (2)	Kali'na	1	U+006f U+006d U+0268 U+0020 U+0028 U+0032 U+0029
+lw	l w	dilwil	Kali'na	1	U+006c U+0077
+^kw	k w	kwepi	Kali'na	1	U+005e U+006b U+0077
+'i$	ʔ I	kuwa'i	Kali'na	1	U+0027 U+0069 U+0024
 pil[ɨ]	<???>	pil[ɨ]	Kali'na	1	U+0070 U+0069 U+006c U+005b U+0268 U+005d
 ^r	r	radio	Kali'na	1	U+005e U+0072
-awonka (2)	<???>	awonka (2)	Kali'na	1	U+0061 U+0077 U+006f U+006e U+006b U+0061 U+0020 U+0028 U+0032 U+0029
-uwa (2)	<???>	uwa (2)	Kali'na	1	U+0075 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
 v	v	serviette	Kali'na	1	U+0076
-nn$	nn	simenn	Kali'na	1	U+006e U+006e U+0024
-akoto (1)	<???>	akoto (1)	Kali'na	1	U+0061 U+006b U+006f U+0074 U+006f U+0020 U+0028 U+0031 U+0029
+nn$	nː	simenn	Kali'na	1	U+006e U+006e U+0024
 oplan(ɨ]	<???>	oplan(ɨ]	Kali'na	1	U+006f U+0070 U+006c U+0061 U+006e U+0028 U+0268 U+005d
-amɨ (2)	<???>	amɨ (2)	Kali'na	1	U+0061 U+006d U+0268 U+0020 U+0028 U+0032 U+0029
 q	q	plastique	Kali'na	1	U+0071
-amɨita (1)	<???>	amɨita (1)	Kali'na	1	U+0061 U+006d U+0268 U+0069 U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
