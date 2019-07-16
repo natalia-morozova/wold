@@ -1,197 +1,1514 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-^	NULL				
-$	NULL				
-e	e	veroordelen, broer	Dutch	1262	U+0065
-i	i	initiatieplechtigheid, inwijdingsplechtigheid	Dutch	557	U+0069
-n$	n	dragen, in	Dutch	483	U+006e U+0024
-r	r	broer, dragen	Dutch	388	U+0072
-a	a	dragen, tante	Dutch	348	U+0061
-o	o	broer, coyote	Dutch	345	U+006f
-n	n	honing, aanranding	Dutch	334	U+006e
-l	l	schuld, naald	Dutch	258	U+006c
-t	t	tante, initiatieplechtigheid	Dutch	240	U+0074
-u	u	ruiken, schuld	Dutch	212	U+0075
-d	d	veroordelen, einde	Dutch	207	U+0064
-r$	r	broer, schoonvader	Dutch	167	U+0072 U+0024
-^s	s	schuld, schoonvader	Dutch	163	U+005e U+0073
-^v	v	veroordelen, vangen	Dutch	143	U+005e U+0076
-aa	aa	naald, lichaamshaar	Dutch	138	U+0061 U+0061
-^b	b	broer, borst	Dutch	137	U+005e U+0062
-t$	t	nicht, groot	Dutch	130	U+0074 U+0024
-ch	ch	schoondochter, schuld	Dutch	125	U+0063 U+0068
-g	g	dragen, vangen	Dutch	119	U+0067
-d$	d	schuld, naald	Dutch	112	U+0064 U+0024
-^k	k	ketting, knoop	Dutch	104	U+005e U+006b
-k	k	ruiken, koken	Dutch	103	U+006b
-l$	l	hemel, hoeveel	Dutch	98	U+006c U+0024
-oo	oo	schoonzoon, voorhoofd	Dutch	95	U+006f U+006f
-g$	g	ketting, hoog	Dutch	94	U+0067 U+0024
-j	j	meisje, strijdbijl	Dutch	93	U+006a
-^d	d	dragen, dag	Dutch	89	U+005e U+0064
-^h	h	hij, huilen	Dutch	88	U+005e U+0068
-k$	k	plank, vork	Dutch	88	U+006b U+0024
-^g	g	groot, gierig	Dutch	86	U+005e U+0067
-v	v	verven, hoeveel	Dutch	85	U+0076
-p	p	rode peper, optillen	Dutch	83	U+0070
-m	m	hemel, schoonmoeder	Dutch	79	U+006d
-^m	m	meisje, mes	Dutch	77	U+005e U+006d
-e$	e	tante, einde	Dutch	77	U+0065 U+0024
-ee	ee	neef, schreeuwen	Dutch	77	U+0065 U+0065
-^w	w	wij, weggaan	Dutch	74	U+005e U+0077
-s	s	meisje, oosten	Dutch	66	U+0073
-^l	l	lenen, luis	Dutch	65	U+005e U+006c
-^r	r	ruiken, ruw	Dutch	65	U+005e U+0072
-^t	t	tante, tapijt	Dutch	58	U+005e U+0074
-s$	s	luis, mes	Dutch	55	U+0073 U+0024
-^n	n	neef, nicht	Dutch	52	U+005e U+006e
-^p	p	plank, paard	Dutch	51	U+005e U+0070
-^z	z	ziekte, zich herinneren	Dutch	49	U+005e U+007a
-^o	o	optillen, oceaan	Dutch	48	U+005e U+006f
-m$	m	oom, bodem	Dutch	46	U+006d U+0024
-z	z	schoonzoon, niezen	Dutch	45	U+007a
-b	b	geboortebewijs, verbaasd	Dutch	42	U+0062
-_	_	naar huis gaan, in dienst nemen	Dutch	39	U+005f
-p$	p	knoop, scherp	Dutch	32	U+0070 U+0024
-^a	a	avondeten, armband	Dutch	30	U+005e U+0061
-f$	f	neef, twaalf	Dutch	28	U+0066 U+0024
-f	f	hoofd, weefgetouw	Dutch	28	U+0066
-w	w	schreeuwen, bouwen	Dutch	27	U+0077
-ll	ll	optillen, pellen	Dutch	24	U+006c U+006c
-rs	rs	borst, gerst	Dutch	24	U+0072 U+0073
-kk	kk	gemakkelijk, bedekken	Dutch	22	U+006b U+006b
-w$	w	ruw, gauw	Dutch	21	U+0077 U+0024
-^e	e	einde, enige	Dutch	21	U+005e U+0065
-nn	nn	spinnen, binnen	Dutch	19	U+006e U+006e
-^aa	aa	aan land gaan, aanstellen	Dutch	18	U+005e U+0061 U+0061
-^j	j	jas, jong	Dutch	17	U+005e U+006a
-^i	i	in, in dienst nemen	Dutch	15	U+005e U+0069
-^oo	oo	oom, oosten	Dutch	15	U+005e U+006f U+006f
-dd	dd	ladder, peddel	Dutch	13	U+0064 U+0064
-ts$	ts	muts, motorfiets	Dutch	13	U+0074 U+0073 U+0024
-ns	ns	in dienst nemen, aanstellen	Dutch	13	U+006e U+0073
-tt	tt	ketting, spatten	Dutch	13	U+0074 U+0074
-^f	f	fles, fuik	Dutch	12	U+005e U+0066
-^zw	zw	zwaard, zwanger worden	Dutch	12	U+005e U+007a U+0077
-pp	pp	aardappel, trappen	Dutch	12	U+0070 U+0070
-ss	ss	cassave, missen	Dutch	11	U+0073 U+0073
-i$	i	hooi, klei	Dutch	11	U+0069 U+0024
-h	h	naar huis gaan, zich herinneren	Dutch	11	U+0068
-j$	j	wij, hij	Dutch	11	U+006a U+0024
-gg	gg	weggaan, leggen	Dutch	10	U+0067 U+0067
-ee$	ee	zee, idee	Dutch	10	U+0065 U+0065 U+0024
-c	c	insect, oceaan	Dutch	9	U+0063
-^u	u	uitleggen, uil	Dutch	8	U+005e U+0075
-ts	ts	gootsteen, houtskool	Dutch	7	U+0074 U+0073
-^tw	tw	tweeling, tweede	Dutch	7	U+005e U+0074 U+0077
-ks	ks	seks hebben, bliksem	Dutch	7	U+006b U+0073
-^ee	ee	eed, eergisteren	Dutch	7	U+005e U+0065 U+0065
-gs	gs	oogst, verpleegster	Dutch	6	U+0067 U+0073
-rs$	rs	schoonouders, kaars	Dutch	6	U+0072 U+0073 U+0024
-bb	bb	hebben, dorst hebben	Dutch	6	U+0062 U+0062
-o$	o	radio, vlo	Dutch	6	U+006f U+0024
-uu	uu	duur, buur	Dutch	6	U+0075 U+0075
-ls$	ls	hals, els	Dutch	6	U+006c U+0073 U+0024
-mm	mm	klimmen, trommel	Dutch	6	U+006d U+006d
-zus(ter)	<???>	zus(ter)	Dutch	6	U+007a U+0075 U+0073 U+0028 U+0074 U+0065 U+0072 U+0029
-rw	rw	verwekken, onderwijzen	Dutch	6	U+0072 U+0077
-ds	ds	godsdienst, voedsel	Dutch	5	U+0064 U+0073
-^c	c	coyote, cassave	Dutch	5	U+005e U+0063
-ff	ff	koffie, buffel	Dutch	4	U+0066 U+0066
-js	js	rijstveld, vrijspreken	Dutch	4	U+006a U+0073
-js$	js	geboortebewijs, ijs	Dutch	4	U+006a U+0073 U+0024
-rh	rh	weerhouden, voorhoofd	Dutch	4	U+0072 U+0068
-ns$	ns	gans, grens	Dutch	4	U+006e U+0073 U+0024
-b$	b	eb, schub	Dutch	4	U+0062 U+0024
-a$	a	na, vagina	Dutch	4	U+0061 U+0024
-gh	gh	ooghaar, sorghum	Dutch	4	U+0067 U+0068
-th	th	uithollen, vasthouden	Dutch	3	U+0074 U+0068
-ms	ms	bliksemschicht, boomstam	Dutch	3	U+006d U+0073
-mh	mh	schaamhaar, omhoog	Dutch	3	U+006d U+0068
-dh	dh	verkoudheid, beeldhouwer	Dutch	3	U+0064 U+0068
-ps	ps	opstapelen, opscheppen	Dutch	3	U+0070 U+0073
-nh	nh	mannenhuis, tuinhuis	Dutch	3	U+006e U+0068
-rr	rr	merrie, verraden	Dutch	3	U+0072 U+0072
-ks$	ks	links, heks	Dutch	3	U+006b U+0073 U+0024
--	<?>	vrouwtjes-, mannetjes-	Dutch	2	U+002d
-c$	c	wc, plastic	Dutch	2	U+0063 U+0024
-zw	zw	samenzwering, wild zwijn	Dutch	2	U+007a U+0077
-man (1)	<???>	man (1)	Dutch	2	U+006d U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-^kw	kw	kwartel, kwijlen	Dutch	2	U+005e U+006b U+0077
-vrouw (1)	<???>	vrouw (1)	Dutch	2	U+0076 U+0072 U+006f U+0075 U+0077 U+0020 U+0028 U+0031 U+0029
-zij (1)	<???>	zij (1)	Dutch	2	U+007a U+0069 U+006a U+0020 U+0028 U+0031 U+0029
-ls	ls	wandelstok, aalscholver	Dutch	2	U+006c U+0073
-y	y	banyan, coyote	Dutch	2	U+0079
-kh	kh	sprinkhaan, eekhoorn	Dutch	2	U+006b U+0068
-ph	ph	ophangen, ophouden	Dutch	2	U+0070 U+0068
-ch$	ch	lunch, pech	Dutch	2	U+0063 U+0068 U+0024
-fs	fs	graafstok, herfst	Dutch	2	U+0066 U+0073
-stuk (2)	<???>	stuk (2)	Dutch	1	U+0073 U+0074 U+0075 U+006b U+0020 U+0028 U+0032 U+0029
-^uu	uu	uur	Dutch	1	U+005e U+0075 U+0075
-nagel (1)	<???>	nagel (1)	Dutch	1	U+006e U+0061 U+0067 U+0065 U+006c U+0020 U+0028 U+0031 U+0029
-licht (1)	<???>	licht (1)	Dutch	1	U+006c U+0069 U+0063 U+0068 U+0074 U+0020 U+0028 U+0031 U+0029
-post (2)	<???>	post (2)	Dutch	1	U+0070 U+006f U+0073 U+0074 U+0020 U+0028 U+0032 U+0029
-stof (2)	<???>	stof (2)	Dutch	1	U+0073 U+0074 U+006f U+0066 U+0020 U+0028 U+0032 U+0029
-licht (2)	<???>	licht (2)	Dutch	1	U+006c U+0069 U+0063 U+0068 U+0074 U+0020 U+0028 U+0032 U+0029
-ïs$	ïs	maïs	Dutch	1	U+00ef U+0073 U+0024
-y$	y	baby	Dutch	1	U+0079 U+0024
-bot (2)	<???>	bot (2)	Dutch	1	U+0062 U+006f U+0074 U+0020 U+0028 U+0032 U+0029
-meer (2)	<???>	meer (2)	Dutch	1	U+006d U+0065 U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
-palm (1)	<???>	palm (1)	Dutch	1	U+0070 U+0061 U+006c U+006d U+0020 U+0028 U+0031 U+0029
-leven (2)	<???>	leven (2)	Dutch	1	U+006c U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
-geest (1)	<???>	geest (1)	Dutch	1	U+0067 U+0065 U+0065 U+0073 U+0074 U+0020 U+0028 U+0031 U+0029
-hel (1)	<???>	hel (1)	Dutch	1	U+0068 U+0065 U+006c U+0020 U+0028 U+0031 U+0029
-vrouw (2)	<???>	vrouw (2)	Dutch	1	U+0076 U+0072 U+006f U+0075 U+0077 U+0020 U+0028 U+0032 U+0029
-as (2)	<???>	as (2)	Dutch	1	U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
-wijs (2)	<???>	wijs (2)	Dutch	1	U+0077 U+0069 U+006a U+0073 U+0020 U+0028 U+0032 U+0029
-hoorn (1)	<???>	hoorn (1)	Dutch	1	U+0068 U+006f U+006f U+0072 U+006e U+0020 U+0028 U+0031 U+0029
-weer (2)	<???>	weer (2)	Dutch	1	U+0077 U+0065 U+0065 U+0072 U+0020 U+0028 U+0032 U+0029
-as (1)	<???>	as (1)	Dutch	1	U+0061 U+0073 U+0020 U+0028 U+0031 U+0029
-boog (1)	<???>	boog (1)	Dutch	1	U+0062 U+006f U+006f U+0067 U+0020 U+0028 U+0031 U+0029
-^th	th	thee	Dutch	1	U+005e U+0074 U+0068
-nagel (2)	<???>	nagel (2)	Dutch	1	U+006e U+0061 U+0067 U+0065 U+006c U+0020 U+0028 U+0032 U+0029
-sh	sh	vishaak	Dutch	1	U+0073 U+0068
-ws	ws	sneeuwschoen	Dutch	1	U+0077 U+0073
-stof (1)	<???>	stof (1)	Dutch	1	U+0073 U+0074 U+006f U+0066 U+0020 U+0028 U+0031 U+0029
-geest (2)	<???>	geest (2)	Dutch	1	U+0067 U+0065 U+0065 U+0073 U+0074 U+0020 U+0028 U+0032 U+0029
-lam (1)	<???>	lam (1)	Dutch	1	U+006c U+0061 U+006d U+0020 U+0028 U+0031 U+0029
-getij(de)	<???>	getij(de)	Dutch	1	U+0067 U+0065 U+0074 U+0069 U+006a U+0028 U+0064 U+0065 U+0029
-hoorn (2)	<???>	hoorn (2)	Dutch	1	U+0068 U+006f U+006f U+0072 U+006e U+0020 U+0028 U+0032 U+0029
-mw	mw	glimworm	Dutch	1	U+006d U+0077
-arm (1)	<???>	arm (1)	Dutch	1	U+0061 U+0072 U+006d U+0020 U+0028 U+0031 U+0029
-middag (1)	<???>	middag (1)	Dutch	1	U+006d U+0069 U+0064 U+0064 U+0061 U+0067 U+0020 U+0028 U+0031 U+0029
-u$	u	nu	Dutch	1	U+0075 U+0024
-zout (1)	<???>	zout (1)	Dutch	1	U+007a U+006f U+0075 U+0074 U+0020 U+0028 U+0031 U+0029
-lam (2)	<???>	lam (2)	Dutch	1	U+006c U+0061 U+006d U+0020 U+0028 U+0032 U+0029
-waar (1)	<???>	waar (1)	Dutch	1	U+0077 U+0061 U+0061 U+0072 U+0020 U+0028 U+0031 U+0029
-zout (2)	<???>	zout (2)	Dutch	1	U+007a U+006f U+0075 U+0074 U+0020 U+0028 U+0032 U+0029
-elf (2)	<???>	elf (2)	Dutch	1	U+0065 U+006c U+0066 U+0020 U+0028 U+0032 U+0029
-arm (2)	<???>	arm (2)	Dutch	1	U+0061 U+0072 U+006d U+0020 U+0028 U+0032 U+0029
-ms$	ms	soms	Dutch	1	U+006d U+0073 U+0024
-bot (1)	<???>	bot (1)	Dutch	1	U+0062 U+006f U+0074 U+0020 U+0028 U+0031 U+0029
-dw	dw	verdwijnen	Dutch	1	U+0064 U+0077
-stuk (1)	<???>	stuk (1)	Dutch	1	U+0073 U+0074 U+0075 U+006b U+0020 U+0028 U+0031 U+0029
-waar (2)	<???>	waar (2)	Dutch	1	U+0077 U+0061 U+0061 U+0072 U+0020 U+0028 U+0032 U+0029
-zij (2)	<???>	zij (2)	Dutch	1	U+007a U+0069 U+006a U+0020 U+0028 U+0032 U+0029
-post (1)	<???>	post (1)	Dutch	1	U+0070 U+006f U+0073 U+0074 U+0020 U+0028 U+0031 U+0029
-kussen (2)	<???>	kussen (2)	Dutch	1	U+006b U+0075 U+0073 U+0073 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
-kussen (1)	<???>	kussen (1)	Dutch	1	U+006b U+0075 U+0073 U+0073 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
-elf (1)	<???>	elf (1)	Dutch	1	U+0065 U+006c U+0066 U+0020 U+0028 U+0031 U+0029
-ë	ë	tatoeëring	Dutch	1	U+00eb
-nw	nw	inwijdingsplechtigheid	Dutch	1	U+006e U+0077
-sle(d)e	<???>	sle(d)e	Dutch	1	U+0073 U+006c U+0065 U+0028 U+0064 U+0029 U+0065
-msh	msh	lichaamshaar	Dutch	1	U+006d U+0073 U+0068
-meer (1)	<???>	meer (1)	Dutch	1	U+006d U+0065 U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
-zeven (2)	<???>	zeven (2)	Dutch	1	U+007a U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
-weer (1)	<???>	weer (1)	Dutch	1	U+0077 U+0065 U+0065 U+0072 U+0020 U+0028 U+0031 U+0029
-hel (2)	<???>	hel (2)	Dutch	1	U+0068 U+0065 U+006c U+0020 U+0028 U+0032 U+0029
-tw	tw	antwoorden	Dutch	1	U+0074 U+0077
-zeven (1)	<???>	zeven (1)	Dutch	1	U+007a U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
-^y	y	yam	Dutch	1	U+005e U+0079
-boog (2)	<???>	boog (2)	Dutch	1	U+0062 U+006f U+006f U+0067 U+0020 U+0028 U+0032 U+0029
-leven (1)	<???>	leven (1)	Dutch	1	U+006c U+0065 U+0076 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
-palm (2)	<???>	palm (2)	Dutch	1	U+0070 U+0061 U+006c U+006d U+0020 U+0028 U+0032 U+0029
-wijs (1)	<???>	wijs (1)	Dutch	1	U+0077 U+0069 U+006a U+0073 U+0020 U+0028 U+0031 U+0029
-licht (3)	<???>	licht (3)	Dutch	1	U+006c U+0069 U+0063 U+0068 U+0074 U+0020 U+0028 U+0033 U+0029
-bos(je)	<???>	bos(je)	Dutch	1	U+0062 U+006f U+0073 U+0028 U+006a U+0065 U+0029
-middag (2)	<???>	middag (2)	Dutch	1	U+006d U+0069 U+0064 U+0064 U+0061 U+0067 U+0020 U+0028 U+0032 U+0029
-man (2)	<???>	man (2)	Dutch	1	U+006d U+0061 U+006e U+0020 U+0028 U+0032 U+0029
+Grapheme	IPA	Languages
+^aalscholver$	aː l s x ɔ l v ə r	Dutch
+^aambeeld$	aː m b eː l t	Dutch
+^aan land gaan$	???	Dutch
+^aanbidden$	aː m b ɪ d ə	Dutch
+^aanklager$	aː ŋ k l aː ɣ ə r	Dutch
+^aankomen$	aː ŋ k oː m ə	Dutch
+^aankondigen$	aː ŋ k ɔ n d ə ɣ ə	Dutch
+^aanraken$	aː n r aː k ə	Dutch
+^aanranding$	aː n r ɑ n d ɪ ŋ	Dutch
+^aansteken$	aː n s t eː k ə	Dutch
+^aanstellen$	aː n s t ɛ l ə	Dutch
+^aantrekken$	aː n t r ɛ k ə	Dutch
+^aanval$	aː n v ɑ l	Dutch
+^aap$	aː p	Dutch
+^aardappel$	aː r d ɑ p ə l	Dutch
+^aardbeving$	aː r d b eː v ɪ ŋ	Dutch
+^aardolie$	aː r d oː l iː	Dutch
+^aas$	aː s	Dutch
+^acht$	ɑ x t	Dutch
+^achter$	ɑ x t ə r	Dutch
+^achtervolgen$	ɑ x t ə r v ɔ l ɣ ə	Dutch
+^adelaar$	aː d ə l aː r	Dutch
+^ademen$	aː d ə m ə	Dutch
+^ader$	aː d ə r	Dutch
+^adres$	ɑ d r ɛ s	Dutch
+^afgod$	ɑ f x ɔ t	Dutch
+^afgunst$	ɑ f x ʏ n s t	Dutch
+^afmaken$	ɑ f m aː k ə	Dutch
+^afvegen$	ɑ f eː ɣ ə	Dutch
+^akker$	ɑ k ə r	Dutch
+^alcoholische drank$	???	Dutch
+^alle$	ɑ l ə	Dutch
+^alleen$	ɑ l eː n	Dutch
+^alligator$	ɑ l iː ɣ aː t ɔ r	Dutch
+^als$	ɑ l s	Dutch
+^altaar$	ɑ l t aː r	Dutch
+^altijd$	ɑ l t ɛi t	Dutch
+^andere$	ɑ n d ə r ə	Dutch
+^angst$	ɑ ŋ s t	Dutch
+^anker$	ɑ ŋ k ə r	Dutch
+^antwoorden$	ɑ n t ʋ oː r d ə	Dutch
+^arm (1)$	ɑ r m	Dutch
+^arm (2)$	ɑ r m	Dutch
+^armband$	ɑ r m b ɑ n t	Dutch
+^arts$	ɑ r t s	Dutch
+^as (1)$	ɑ s	Dutch
+^as (2)$	ɑ s	Dutch
+^auto$	ɑu t oː	Dutch
+^autorijden$	ɑu t oː r ɛi d ə	Dutch
+^avond$	aː v ɔ n t	Dutch
+^avondeten$	aː v ɔ n d eː t ə	Dutch
+^baai$	b aː j	Dutch
+^baard$	b aː r t	Dutch
+^baarmoeder$	b aː r m uː d ə r	Dutch
+^baas$	b aː s	Dutch
+^baby$	b eː b iː	Dutch
+^baden$	b aː d ə	Dutch
+^bakken$	b ɑ k ə	Dutch
+^baksteen$	b ɑ k s t eː n	Dutch
+^bal$	b ɑ l	Dutch
+^balk$	b ɑ l k	Dutch
+^ballen$	b ɑ l ə	Dutch
+^bamboe$	b ɑ m b uː	Dutch
+^banaan$	b aː n aː n	Dutch
+^bank$	b ɑ ŋ k	Dutch
+^banyan$	???	Dutch
+^bast$	b ɑ s t	Dutch
+^bataat$	b aː t aː t	Dutch
+^batterij$	b ɑ t ə r ɛi	Dutch
+^bed$	b ɛ t	Dutch
+^bedekken$	b ə d ɛ k ə	Dutch
+^bedelaar$	b eː d ə l aː r	Dutch
+^bediende$	b ə d iː n d ə	Dutch
+^bedoeling$	b ə d uː l ɪ ŋ	Dutch
+^bedrog$	b ə d r ɔ x	Dutch
+^beeldhouwer$	b eː l t h ɑu ʋ ə r	Dutch
+^been$	b eː n	Dutch
+^beer$	b eː r	Dutch
+^beest$	b eː s t	Dutch
+^begin$	b ə ɣ ɪ n	Dutch
+^beginnen$	b ə ɣ ɪ n ə	Dutch
+^begraven$	b ə ɣ r aː v ə	Dutch
+^begrijpen$	b ə ɣ r ɛi p ə	Dutch
+^behouden$	b ə h ɑu d ə	Dutch
+^beitel$	b ɛi t ə l	Dutch
+^bek$	b ɛ k	Dutch
+^bekennen$	b ə k ɛ n ə	Dutch
+^belasting$	b ə l ɑ s t ɪ ŋ	Dutch
+^beloven$	b ə l oː v ə	Dutch
+^berg$	b ɛ r x	Dutch
+^berispen$	b ə r ɪ s p ə	Dutch
+^berk$	b ɛ r k	Dutch
+^beschadigen$	b ə s x aː d ə ɣ ə	Dutch
+^beschuldigen$	b ə s x ʏ l d ə ɣ ə	Dutch
+^besnijdenis$	b ə s n ɛi d ə n ɪ s	Dutch
+^betalen$	b ə t aː l ə	Dutch
+^beuk$	b øː k	Dutch
+^bevelen$	b ə v eː l ə	Dutch
+^bever$	b eː v ə r	Dutch
+^bevolking$	b ə v ɔ l k ɪ ŋ	Dutch
+^bevriezen$	b ə v r iː z ə	Dutch
+^bevrijden$	b ə v r ɛi d ə	Dutch
+^bewaker$	b ə ʋ aː k ə r	Dutch
+^bewaren$	b ə ʋ aː r ə	Dutch
+^bewegen$	b ə ʋ eː ɣ ə	Dutch
+^bezem$	b eː z ə m	Dutch
+^bezitten$	b ə z ɪ t ə	Dutch
+^bidden$	b ɪ d ə	Dutch
+^bier$	b iː r	Dutch
+^bij$	b ɛi	Dutch
+^bijeenroepen$	b ɛi eː n r uː p ə	Dutch
+^bijenkorf$	b ɛi j ə k ɔ r f	Dutch
+^bijl$	b ɛi l	Dutch
+^bijten$	b ɛi t ə	Dutch
+^billen$	b ɪ l ə	Dutch
+^binden$	b ɪ n d ə	Dutch
+^binnen$	b ɪ n ə	Dutch
+^binnenkomen$	b ɪ n ə k oː m ə	Dutch
+^binnenplaats$	b ɪ n ə p l aː t s	Dutch
+^bitter$	b ɪ t ə r	Dutch
+^blaar$	b l aː r	Dutch
+^blad$	b l ɑ t	Dutch
+^blauw$	b l ɑu ʋ	Dutch
+^blazen$	b l aː z ə	Dutch
+^blijven$	b l ɛi v ə	Dutch
+^blik$	b l ɪ k	Dutch
+^bliksem$	b l ɪ k s ə m	Dutch
+^bliksemschicht$	b l ɪ k s ə m s x ɪ x t	Dutch
+^blind$	b l ɪ n t	Dutch
+^bloed$	b l uː t	Dutch
+^bloedvat$	b l uː t f ɑ t	Dutch
+^bloem$	b l uː m	Dutch
+^bodem$	b oː d ə m	Dutch
+^boek$	b uː k	Dutch
+^boemerang$	b uː m ə r ɑ ŋ	Dutch
+^boer$	b uː r	Dutch
+^boete$	b uː t ə	Dutch
+^boetseren$	b uː t s eː r ə	Dutch
+^bok$	b ɔ k	Dutch
+^bol$	b ɔ l	Dutch
+^bom$	b ɔ m	Dutch
+^bont$	b ɔ n t	Dutch
+^bonzen$	b ɔ n z ə	Dutch
+^boog (1)$	b oː x	Dutch
+^boog (2)$	b oː x	Dutch
+^boom$	b oː m	Dutch
+^boomstam$	b oː m s t ɑ m	Dutch
+^boon$	b oː n	Dutch
+^boot$	b oː t	Dutch
+^bord$	b ɔ r t	Dutch
+^boren$	b oː r ə	Dutch
+^borst$	b ɔ r s t	Dutch
+^borstel$	b ɔ r s t ə l	Dutch
+^bos$	b ɔ s	Dutch
+^bos(je)$	???	Dutch
+^bot (1)$	b ɔ t	Dutch
+^bot (2)$	b ɔ t	Dutch
+^boter$	b oː t ə r	Dutch
+^bouwen$	b ɑu ʋ ə	Dutch
+^boven$	b oː v ə	Dutch
+^braden$	b r aː d ə	Dutch
+^brak$	b r ɑ k	Dutch
+^braken$	b r aː k ə	Dutch
+^branden$	b r ɑ n d ə	Dutch
+^brandhout$	b r ɑ n t h ɑu t	Dutch
+^brandstichting$	b r ɑ n t s t ɪ x t ɪ ŋ	Dutch
+^breed$	b r eː t	Dutch
+^breken$	b r eː k ə	Dutch
+^brengen$	b r ɛ ŋ ə	Dutch
+^brief$	b r iː f	Dutch
+^briefkaart$	b r iː f k aː r t	Dutch
+^bril$	b r ɪ l	Dutch
+^broek$	b r uː k	Dutch
+^broer$	b r uː r	Dutch
+^bron$	b r ɔ n	Dutch
+^brood$	b r oː t	Dutch
+^brug$	b r ʏ x	Dutch
+^bruiloft$	b r œy l ɔ f t	Dutch
+^buffel$	b ʏ f ə l	Dutch
+^buigen$	b œy ɣ ə	Dutch
+^buik$	b œy k	Dutch
+^buit$	b œy t	Dutch
+^buiten$	b œy t ə	Dutch
+^burger$	b ʏ r ɣ ə r	Dutch
+^bus$	b ʏ s	Dutch
+^buur$	b yː r	Dutch
+^cassave$	k ɑ s aː v ə	Dutch
+^ceintuur$	s ɛ n t yː r	Dutch
+^cirkel$	s ɪ r k ə l	Dutch
+^citrusvrucht$	s iː t r ʏ s f r ʏ x t	Dutch
+^coyote$	k oː j oː t ə	Dutch
+^daar$	d aː r	Dutch
+^dag$	d ɑ x	Dutch
+^dageraad$	d aː ɣ ə r aː t	Dutch
+^dak$	d ɑ k	Dutch
+^dakspar$	???	Dutch
+^dal$	d ɑ l	Dutch
+^dansen$	d ɑ n s ə	Dutch
+^dapper$	d ɑ p ə r	Dutch
+^dauw$	d ɑu ʋ	Dutch
+^deeg$	d eː x	Dutch
+^deel$	d eː l	Dutch
+^deken$	d eː k ə	Dutch
+^delen$	d eː l ə	Dutch
+^demon$	d eː m ɔ n	Dutch
+^den$	d ɛ n	Dutch
+^denken$	d ɛ ŋ k ə	Dutch
+^dennenappel$	???	Dutch
+^derde$	d ɛ r d ə	Dutch
+^deur$	d øː r	Dutch
+^deurpost$	d øː r p ɔ s t	Dutch
+^deze$	d eː z ə	Dutch
+^dezelfde$	d ə z ɛ l v d ə	Dutch
+^dichtbij$	d ɪ ɣ d b ɛi	Dutch
+^dichter$	d ɪ x t ə r	Dutch
+^die$	d iː	Dutch
+^dief$	d iː f	Dutch
+^diep$	d iː p	Dutch
+^dier$	d iː r	Dutch
+^dij$	d ɛi	Dutch
+^dik$	d ɪ k	Dutch
+^diner$	d iː n eː	Dutch
+^ding$	d ɪ ŋ	Dutch
+^dinsdag$	d ɪ n z d ɑ x	Dutch
+^direct$	d iː r ɛ k t	Dutch
+^dissel$	d ɪ s ə l	Dutch
+^dochter$	d ɔ x t ə r	Dutch
+^doden$	d oː d ə	Dutch
+^doen$	d uː n	Dutch
+^dokter$	d ɔ k t ə r	Dutch
+^dolfijn$	d ɔ l f ɛi n	Dutch
+^dom$	d ɔ m	Dutch
+^donder$	d ɔ n d ə r	Dutch
+^donderdag$	d ɔ n d ə r d ɑ x	Dutch
+^donker$	d ɔ ŋ k ə r	Dutch
+^dood$	d oː t	Dutch
+^doof$	d oː f	Dutch
+^dooier$	d oː j ə r	Dutch
+^door$	d oː r	Dutch
+^doorslikken$	d oː r s l ɪ k ə	Dutch
+^doorsnijden$	d oː r s n ɛi d ə	Dutch
+^dorp$	d ɔ r p	Dutch
+^dorsen$	d ɔ r s ə	Dutch
+^dorst hebben$	???	Dutch
+^dorsvloer$	d ɔ r s f l uː r	Dutch
+^doven$	d oː v ə	Dutch
+^draad$	d r aː t	Dutch
+^draagband$	d r aː ɣ b ɑ n t	Dutch
+^draaien$	d r aː j ə	Dutch
+^draaikolk$	d r aː j k ɔ l k	Dutch
+^dragen$	d r aː ɣ ə	Dutch
+^drank$	d r ɑ ŋ k	Dutch
+^dreigen$	d r ɛi ɣ ə	Dutch
+^drie$	d r iː	Dutch
+^driemaal$	d r iː m aː l	Dutch
+^drijven$	d r ɛi v ə	Dutch
+^drinken$	d r ɪ ŋ k ə	Dutch
+^dromen$	d r oː m ə	Dutch
+^dronken$	d r ɔ ŋ k ə	Dutch
+^droog$	d r oː x	Dutch
+^druif$	d r œy f	Dutch
+^drukken$	d r ʏ k ə	Dutch
+^druppelen$	d r ʏ p ə l ə	Dutch
+^duidelijk$	d œy d ə l ə k	Dutch
+^duif$	d œy f	Dutch
+^duiken$	d œy k ə	Dutch
+^duim$	d œy m	Dutch
+^duisternis$	d œy s t ə r n ɪ s	Dutch
+^duizend$	d œy z ə n t	Dutch
+^duizendpoot$	d œy z ə n t p oː t	Dutch
+^dun$	d ʏ n	Dutch
+^duren$	d yː r ə	Dutch
+^durven$	d ʏ r v ə	Dutch
+^duur$	d yː r	Dutch
+^duwen$	d yː ʋ ə	Dutch
+^eb$	ɛ p	Dutch
+^echtgenoot$	ɛ x t x ə n oː t	Dutch
+^echtgenote$	ɛ x t x ə n oː t ə	Dutch
+^edele$	eː d ə l ə	Dutch
+^eed$	eː t	Dutch
+^eekhoorn$	eː k h oː r n	Dutch
+^een$	ə n eː n	Dutch
+^een scheet laten$	???	Dutch
+^eend$	eː n t	Dutch
+^eergisteren$	eː r ɣ ɪ s t ə r ə	Dutch
+^eerste$	eː r s t ə	Dutch
+^ei$	ɛi	Dutch
+^eik$	ɛi k	Dutch
+^eikel$	ɛi k ə l	Dutch
+^eiland$	ɛi l ɑ n t	Dutch
+^einde$	ɛi n d ə	Dutch
+^eland$	eː l ɑ n t	Dutch
+^elektriciteit$	eː l ɛ k t r iː s iː t ɛi t	Dutch
+^elf (1)$	ɛ l f	Dutch
+^elf (2)$	ɛ l f	Dutch
+^elleboog$	ɛ l ə b oː x	Dutch
+^els$	ɛ l s	Dutch
+^en$	ɛ n	Dutch
+^enige$	eː n ə ɣ ə	Dutch
+^enkel$	ɛ ŋ k ə l	Dutch
+^enkele$	ɛ ŋ k ə l ə	Dutch
+^eten$	eː t ə	Dutch
+^etter$	ɛ t ə r	Dutch
+^ezel$	eː z ə l	Dutch
+^familie$	f aː m iː l iː	Dutch
+^fee$	f eː	Dutch
+^fiets$	f iː t s	Dutch
+^fijnmalen$	f ɛi n m aː l ə	Dutch
+^film$	f ɪ l m	Dutch
+^fles$	f l ɛ s	Dutch
+^fluisteren$	f l œy s t ə r ə	Dutch
+^fluit$	f l œy t	Dutch
+^fluiten$	f l œy t ə	Dutch
+^fout$	f ɑu t	Dutch
+^fruit$	f r œy t	Dutch
+^fuik$	f œy k	Dutch
+^gaan$	x aː n	Dutch
+^gaan liggen$	???	Dutch
+^gans$	x ɑ n s	Dutch
+^garnaal$	x ɑ r n aː l	Dutch
+^gast$	x ɑ s t	Dutch
+^gastheer$	x ɑ s t h eː r	Dutch
+^gat$	x ɑ t	Dutch
+^gauw$	x ɑu ʋ	Dutch
+^geboortebewijs$	x ə b oː r t ə b ə ʋ ɛi s	Dutch
+^geboren worden$	???	Dutch
+^gedaagde$	x ə d aː ɣ d ə	Dutch
+^geel$	x eː l	Dutch
+^geest (1)$	x eː s t	Dutch
+^geest (2)$	x eː s t	Dutch
+^geeuwen$	x eː ʋ ə	Dutch
+^geheim$	x ə h ɛi m	Dutch
+^gehoorzamen$	x ə h oː r z aː m ə	Dutch
+^geit$	x ɛi t	Dutch
+^geitje$	???	Dutch
+^gek$	x ɛ k	Dutch
+^gekookt$	x ə k oː k t	Dutch
+^geld$	x ɛ l t	Dutch
+^gelijk$	x ə l ɛi k	Dutch
+^geloven$	x ə l oː v ə	Dutch
+^geluid$	x ə l œy t	Dutch
+^geluk$	x ə l ʏ k	Dutch
+^gelukkig$	x ə l ʏ k ə x	Dutch
+^gemakkelijk$	x ə m ɑ k ə l ə k	Dutch
+^genezen$	x ə n eː z ə	Dutch
+^genoeg$	x ə n uː x	Dutch
+^gereed$	x ə r eː t	Dutch
+^gereedschap$	x ə r eː t s x ɑ p	Dutch
+^gerimpeld$	x ə r ɪ m p ə l t	Dutch
+^gerst$	x ɛ r s t	Dutch
+^geslacht$	x ə s l ɑ x t	Dutch
+^getal$	x ə t ɑ l	Dutch
+^getij(de)$	???	Dutch
+^getrouwde man$	???	Dutch
+^getrouwde vrouw$	???	Dutch
+^getuige$	x ə t œy ɣ ə	Dutch
+^gevaar$	x ə v aː r	Dutch
+^gevangene$	x ə v ɑ ŋ ə n ə	Dutch
+^gevangenis$	x ə v ɑ ŋ ə n ɪ s	Dutch
+^gevecht$	x ə v ɛ x t	Dutch
+^geven$	x eː v ə	Dutch
+^gevorkte tak$	???	Dutch
+^geweer$	x ə ʋ eː r	Dutch
+^gewoonte$	x ə ʋ oː n t ə	Dutch
+^gezicht$	x ə z ɪ x t	Dutch
+^gezin$	x ə z ɪ n	Dutch
+^gezond$	x ə z ɔ n t	Dutch
+^gier$	x iː r	Dutch
+^gierig$	x iː r ə x	Dutch
+^gierst$	x iː r s t	Dutch
+^gieten$	x iː t ə	Dutch
+^gif$	x ɪ f	Dutch
+^gissen$	x iː s ə x ɪ s ə	Dutch
+^gisteren$	x ɪ s t ə r ə	Dutch
+^glad$	x l ɑ t	Dutch
+^glas$	x l ɑ s	Dutch
+^glijden$	x l ɛi d ə	Dutch
+^glimlachen$	x l ɪ m l ɑ x ə	Dutch
+^glimworm$	x l ɪ m ʋ ɔ r m	Dutch
+^god$	x ɔ t	Dutch
+^godsdienst$	x ɔ d z d iː n s t	Dutch
+^goed$	x uː t	Dutch
+^goedkoop$	x uː t k oː p	Dutch
+^golf$	x ɔ l f	Dutch
+^gooien$	x oː j ə	Dutch
+^gootsteen$	x oː t s t eː n	Dutch
+^gordel$	x ɔ r d ə l	Dutch
+^goud$	x ɑu t	Dutch
+^graafstok$	???	Dutch
+^graan$	x r aː n	Dutch
+^graf$	x r ɑ f	Dutch
+^gras$	x r ɑ s	Dutch
+^grasrokje$	???	Dutch
+^graven$	x r aː v ə	Dutch
+^grens$	x r ɛ n s	Dutch
+^groeien$	x r uː j ə	Dutch
+^groen$	x r uː n	Dutch
+^groente$	x r uː n t ə	Dutch
+^groot$	x r oː t	Dutch
+^grootmoeder$	x r oː t m uː d ə r	Dutch
+^grootouders$	x r oː t ɑu d ə r s	Dutch
+^grootvader$	x r oː t f aː d ə r	Dutch
+^grot$	x r ɔ t	Dutch
+^gulzig$	x ʏ l z ə x	Dutch
+^haai$	h aː j	Dutch
+^haak$	h aː k	Dutch
+^haan$	h aː n	Dutch
+^haar$	h aː r	Dutch
+^haard$	h aː r t	Dutch
+^haas$	h aː s	Dutch
+^hagedis$	h aː ɣ ə d ɪ s	Dutch
+^hakken$	h ɑ k ə	Dutch
+^hals$	h ɑ l s	Dutch
+^hamer$	h aː m ə r	Dutch
+^hand$	h ɑ n t	Dutch
+^handdoek$	h ɑ n d uː k	Dutch
+^handelaar$	h ɑ n d ə l aː r	Dutch
+^handelen$	h ɑ n d ə l ə	Dutch
+^handschoen$	h ɑ n t s x uː n	Dutch
+^hangmat$	h ɑ ŋ m ɑ t	Dutch
+^hangslot$	h ɑ ŋ s l ɔ t	Dutch
+^hard$	h ɑ r t	Dutch
+^haring$	h aː r ɪ ŋ	Dutch
+^hark$	h ɑ r k	Dutch
+^harnas$	h ɑ r n ɑ s	Dutch
+^hart$	h ɑ r t	Dutch
+^haten$	h aː t ə	Dutch
+^haven$	h aː v ə	Dutch
+^haver$	h aː v ə r	Dutch
+^havik$	h aː v ɪ k	Dutch
+^hebben$	h ɛ b ə	Dutch
+^heersen$	h eː r s ə	Dutch
+^heet$	h eː t	Dutch
+^heilig$	h ɛi l ə x	Dutch
+^hek$	h ɛ k	Dutch
+^heks$	h ɛ k s	Dutch
+^hel (1)$	h ɛ l	Dutch
+^hel (2)$	h ɛ l	Dutch
+^helder$	h ɛ l d ə r	Dutch
+^helft$	h ɛ l f t	Dutch
+^helm$	h ɛ l m	Dutch
+^helpen$	h ɛ l p ə	Dutch
+^hemd$	h ɛ m t	Dutch
+^hemel$	h eː m ə l	Dutch
+^hen$	h ɛ n	Dutch
+^hengst$	h ɛ ŋ s t	Dutch
+^herder$	h ɛ r d ə r	Dutch
+^herfst$	h ɛ r f s t	Dutch
+^hersenen$	h ɛ r s ə n ə	Dutch
+^hert$	h ɛ r t	Dutch
+^het$	ə t	Dutch
+^heup$	h øː p	Dutch
+^heuvel$	h øː v ə l	Dutch
+^hiel$	h iː l	Dutch
+^hier$	h iː r	Dutch
+^hij$	h ɛi	Dutch
+^hikken$	h ɪ k ə	Dutch
+^hinderlaag$	h ɪ n d ə r l aː x	Dutch
+^hinken$	h ɪ ŋ k ə	Dutch
+^hoe$	h uː	Dutch
+^hoed$	h uː t	Dutch
+^hoek$	h uː k	Dutch
+^hoer$	h uː r	Dutch
+^hoesten$	h uː s t ə	Dutch
+^hoeveel$	h uː v eː l	Dutch
+^hof$	h ɔ f	Dutch
+^hond$	h ɔ n t	Dutch
+^honderd$	h ɔ n d ə r t	Dutch
+^honger hebben$	???	Dutch
+^hongersnood$	h ɔ ŋ ə r s n oː t	Dutch
+^honing$	h oː n ɪ ŋ	Dutch
+^hoofd$	h oː f t	Dutch
+^hoofdband$	h oː v d b ɑ n t	Dutch
+^hoofdluis$	h oː v d l œy s	Dutch
+^hoog$	h oː x	Dutch
+^hooi$	h oː j	Dutch
+^hoorn (1)$	h oː r n	Dutch
+^hoorn (2)$	h oː r n	Dutch
+^hopen$	h oː p ə	Dutch
+^horen$	h oː r ə	Dutch
+^houden$	h ɑu d ə	Dutch
+^houden van$	???	Dutch
+^hout$	h ɑu t	Dutch
+^houtskool$	h ɑu t s k oː l	Dutch
+^huid$	h œy t	Dutch
+^huilen$	h œy l ə	Dutch
+^huis$	h œy s	Dutch
+^hurken$	h ʏ r k ə	Dutch
+^hut$	h ʏ t	Dutch
+^idee$	iː d eː	Dutch
+^ijs$	ɛi s	Dutch
+^ijzer$	ɛi z ə r	Dutch
+^ik$	ɪ k	Dutch
+^imiteren$	iː m iː t eː r ə	Dutch
+^in$	ɪ n	Dutch
+^in dienst nemen$	???	Dutch
+^indien$	ɪ n d iː n	Dutch
+^ingewanden$	ɪ ŋ ɣ ə ʋ ɑ n d ə	Dutch
+^initiatieplechtigheid$	???	Dutch
+^injectie$	ɪ n j ɛ k s iː	Dutch
+^insect$	???	Dutch
+^inwijdingsplechtigheid$	???	Dutch
+^ja$	j aː	Dutch
+^jaar$	j aː r	Dutch
+^jagen$	j aː ɣ ə	Dutch
+^jaguar$	j aː ɡ uː ʋ ɑ r	Dutch
+^jaloezie$	j aː l uː z iː	Dutch
+^jas$	j ɑ s	Dutch
+^jeuk$	j øː k	Dutch
+^jij$	j ɛi	Dutch
+^jong$	j ɔ ŋ	Dutch
+^jongeman$	j ɔ ŋ ə m ɑ n	Dutch
+^jongen$	j ɔ ŋ ə	Dutch
+^juist$	j œy s t	Dutch
+^juk$	j ʏ k	Dutch
+^jullie$	j ʏ l iː	Dutch
+^jurk$	j ʏ r k	Dutch
+^juweel$	j yː ʋ eː l	Dutch
+^kaak$	k aː k	Dutch
+^kaal$	k aː l	Dutch
+^kaap$	k aː p	Dutch
+^kaars$	k aː r s	Dutch
+^kaas$	k aː s	Dutch
+^kachel$	k ɑ x ə l	Dutch
+^kadaver$	k aː d aː v ə r	Dutch
+^kakkerlak$	k ɑ k ə r l ɑ k	Dutch
+^kalebas$	k aː l ə b ɑ s	Dutch
+^kalender$	k aː l ɛ n d ə r	Dutch
+^kalf$	k ɑ l f	Dutch
+^kalm$	k ɑ l m	Dutch
+^kam$	k ɑ m	Dutch
+^kameel$	k aː m eː l	Dutch
+^kameleon$	k aː m eː l eː j ɔ n	Dutch
+^kamer$	k aː m ə r	Dutch
+^kamp$	k ɑ m p	Dutch
+^kangoeroe$	k ɑ ŋ ɣ uː r uː	Dutch
+^kano$	k aː n oː	Dutch
+^kant$	k ɑ n t	Dutch
+^kapot$	k aː p ɔ t	Dutch
+^kar$	k ɑ r	Dutch
+^kariboe$	k aː r iː b uː	Dutch
+^kat$	k ɑ t	Dutch
+^katapult$	k ɑ t aː p ʏ l t	Dutch
+^katoen$	k aː t uː n	Dutch
+^kauwen$	k ɑu ʋ ə	Dutch
+^keel$	k eː l	Dutch
+^kerk$	k ɛ r k	Dutch
+^kerven$	k ɛ r v ə	Dutch
+^ketel$	k eː t ə l	Dutch
+^keten$	k eː t ə	Dutch
+^ketting$	k ɛ t ɪ ŋ	Dutch
+^keuken$	k øː k ə	Dutch
+^kies$	k iː s	Dutch
+^kieuw$	k iː ʋ	Dutch
+^kiezen$	k iː z ə	Dutch
+^kijken$	k ɛi k ə	Dutch
+^kikker$	k ɪ k ə r	Dutch
+^kin$	k ɪ n	Dutch
+^kind$	k ɪ n t	Dutch
+^kip$	k ɪ p	Dutch
+^klaar$	k l aː r	Dutch
+^klauw$	k l ɑu ʋ	Dutch
+^kleding$	k l eː d ɪ ŋ	Dutch
+^kleermaker$	k l eː r m aː k ə r	Dutch
+^klei$	k l ɛi	Dutch
+^klein$	k l ɛi n	Dutch
+^kleindochter$	k l ɛi n d ɔ x t ə r	Dutch
+^kleinkind$	k l ɛi ŋ k ɪ n t	Dutch
+^kleinzoon$	k l ɛi n z oː n	Dutch
+^kleren$	k l eː r ə	Dutch
+^kleur$	k l øː r	Dutch
+^klif$	k l ɪ f	Dutch
+^klimmen$	k l ɪ m ə	Dutch
+^klink$	k l ɪ ŋ k	Dutch
+^klok$	k l ɔ k	Dutch
+^kneden$	k n eː d ə	Dutch
+^kneuzing$	k n øː z ɪ ŋ	Dutch
+^knie$	k n iː	Dutch
+^knielen$	k n iː l ə	Dutch
+^knijpen$	k n ɛi p ə	Dutch
+^knipperen$	k n ɪ p ə r ə	Dutch
+^knoop$	k n oː p	Dutch
+^knuppel$	k n ʏ p ə l	Dutch
+^koe$	k uː	Dutch
+^koelte toewaaien$	???	Dutch
+^koffie$	k ɔ f iː	Dutch
+^koken$	k oː k ə	Dutch
+^kokosnoot$	k oː k ɔ s n oː t	Dutch
+^kom$	k ɔ m	Dutch
+^komen$	k oː m ə	Dutch
+^konijn$	k oː n ɛi n	Dutch
+^koning$	k oː n ɪ ŋ	Dutch
+^koningin$	k oː n ɪ ŋ ɪ n	Dutch
+^koorts$	k oː r t s	Dutch
+^kop$	k ɔ p	Dutch
+^kopen$	k oː p ə	Dutch
+^koper$	k oː p ə r	Dutch
+^kort$	k ɔ r t	Dutch
+^koud$	k ɑu t	Dutch
+^kous$	k ɑu s	Dutch
+^kraag$	k r aː x	Dutch
+^kraai$	k r aː j	Dutch
+^kraal$	k r aː l	Dutch
+^kraan$	k r aː n	Dutch
+^krabben$	k r ɑ b ə	Dutch
+^krant$	k r ɑ n t	Dutch
+^kreunen$	k r øː n ə	Dutch
+^krijgen$	k r ɛi ɣ ə	Dutch
+^krijsen$	k r ɛi s ə	Dutch
+^krokodil$	k r oː k oː d ɪ l	Dutch
+^krom$	k r ɔ m	Dutch
+^krop$	k r ɔ p	Dutch
+^kruik$	k r œy k	Dutch
+^kruipen$	k r œy p ə	Dutch
+^kruis$	k r œy s	Dutch
+^kuiken$	k œy k ə	Dutch
+^kuit$	k œy t	Dutch
+^kussen (1)$	k ʏ s ə	Dutch
+^kussen (2)$	k ʏ s ə	Dutch
+^kwartel$	k ʋ ɑ r t ə l	Dutch
+^kwijlen$	k ʋ ɛi l ə	Dutch
+^laag$	l aː x	Dutch
+^laars$	l aː r s	Dutch
+^laat$	l aː t	Dutch
+^laat zijn$	???	Dutch
+^laatste$	l aː t s t ə	Dutch
+^lachen$	l ɑ x ə	Dutch
+^ladder$	l ɑ d ə r	Dutch
+^lagune$	l aː ɣ yː n ə	Dutch
+^lam (1)$	l ɑ m	Dutch
+^lam (2)$	l ɑ m	Dutch
+^lamp$	l ɑ m p	Dutch
+^land$	l ɑ n t	Dutch
+^lang$	l ɑ ŋ	Dutch
+^langzaam$	l ɑ ŋ z aː m	Dutch
+^lariks$	l aː r ɪ k s	Dutch
+^lasso$	l ɑ s oː	Dutch
+^laten vallen$	???	Dutch
+^leeftijd$	l eː f t ɛi t	Dutch
+^leeg$	l eː x	Dutch
+^leer$	l eː r	Dutch
+^leerling$	l eː r l ɪ ŋ	Dutch
+^leeuw$	l eː ʋ	Dutch
+^leger$	l eː ɣ ə r	Dutch
+^leggen$	l ɛ ɣ ə	Dutch
+^leiden$	l ɛi d ə	Dutch
+^leider$	l ɛi d ə r	Dutch
+^lelijk$	l eː l ə k	Dutch
+^lemen baksteen$	???	Dutch
+^lenen$	l eː n ə	Dutch
+^lente$	l ɛ n t ə	Dutch
+^lepel$	l eː p ə l	Dutch
+^leraar$	l eː r aː r	Dutch
+^leren$	l eː r ə	Dutch
+^leven (1)$	l eː v ə	Dutch
+^leven (2)$	l eː v ə	Dutch
+^lever$	l eː v ə r	Dutch
+^lezen$	l eː z ə	Dutch
+^lichaam$	l ɪ x aː m	Dutch
+^lichaamshaar$	???	Dutch
+^licht (1)$	l ɪ x t	Dutch
+^licht (2)$	l ɪ x t	Dutch
+^licht (3)$	???	Dutch
+^lied$	l iː t	Dutch
+^liegen$	l iː ɣ ə	Dutch
+^lijk$	l ɛi k	Dutch
+^lijken$	l ɛi k ə	Dutch
+^lijm$	l ɛi m	Dutch
+^lijn$	l ɛi n	Dutch
+^likken$	l ɪ k ə	Dutch
+^links$	l ɪ ŋ k s	Dutch
+^linnen$	l ɪ n ə	Dutch
+^lip$	l ɪ p	Dutch
+^litteken$	l ɪ t eː k ə	Dutch
+^lof$	l ɔ f	Dutch
+^long$	l ɔ ŋ	Dutch
+^lood$	l oː t	Dutch
+^looien$	l oː j ə	Dutch
+^loon$	l oː n	Dutch
+^lopen$	l oː p ə	Dutch
+^loslaten$	l ɔ s l aː t ə	Dutch
+^losmaken$	l ɔ s m aː k ə	Dutch
+^lucht$	l ʏ x t	Dutch
+^lucifer$	l yː s iː f ɛ r	Dutch
+^lui$	l œy	Dutch
+^luid$	l œy t	Dutch
+^luis$	l œy s	Dutch
+^luisteren$	l œy s t ə r ə	Dutch
+^lunch$	l ʏ n ʃ	Dutch
+^maag$	m aː x	Dutch
+^maaien$	m aː j ə	Dutch
+^maaltijd$	m aː l t ɛi t	Dutch
+^maan$	m aː n	Dutch
+^maand$	m aː n t	Dutch
+^maandag$	m aː n d ɑ x	Dutch
+^machine$	m ɑ ʃ iː n ə	Dutch
+^maken$	m aː k ə	Dutch
+^malen$	m aː l ə	Dutch
+^man (1)$	m ɑ n	Dutch
+^man (2)$	m ɑ n	Dutch
+^mand$	m ɑ n t	Dutch
+^manier$	m aː n iː r	Dutch
+^maniok$	m aː n iː j ɔ k	Dutch
+^maniokbrood$	???	Dutch
+^mannelijk$	m ɑ n ə l ə k	Dutch
+^mannenhuis$	m ɑ n ə h œy s	Dutch
+^mannetjes-$	???	Dutch
+^mantel$	m ɑ n t ə l	Dutch
+^markt$	m ɑ r k t	Dutch
+^mast$	m ɑ s t	Dutch
+^mat$	m ɑ t	Dutch
+^matras$	m ɑ t r ɑ s	Dutch
+^maïs$	???	Dutch
+^mede$	m eː d ə	Dutch
+^medelijden$	m eː d ə l ɛi d ə	Dutch
+^medicijn$	m eː d iː s ɛi n	Dutch
+^meel$	m eː l	Dutch
+^meer (1)$	m eː r	Dutch
+^meer (2)$	m eː r	Dutch
+^meester$	m eː s t ə r	Dutch
+^meeuw$	m eː ʋ	Dutch
+^meineed$	m ɛi n eː t	Dutch
+^meisje$	m ɛi s j ə	Dutch
+^melk$	m ɛ l k	Dutch
+^melken$	m ɛ l k ə	Dutch
+^menen$	m eː n ə	Dutch
+^menigte$	m eː n ə x t ə	Dutch
+^mens$	m ɛ n s	Dutch
+^merrie$	m ɛ r iː	Dutch
+^mes$	m ɛ s	Dutch
+^mestvork$	m ɛ s t f ɔ r k	Dutch
+^met$	m ɛ t	Dutch
+^meten$	m eː t ə	Dutch
+^metselaar$	m ɛ t s ə l aː r	Dutch
+^middag (1)$	m ɪ d ɑ x	Dutch
+^middag (2)$	m ɪ d ɑ x	Dutch
+^middageten$	m ɪ d ɑ ɣ eː t ə	Dutch
+^middel$	m ɪ d ə l	Dutch
+^midden$	m ɪ d ə	Dutch
+^mier$	m iː r	Dutch
+^miereneter$	m iː r ə eː t ə r	Dutch
+^milt$	m ɪ l t	Dutch
+^minister$	m iː n ɪ s t ə r	Dutch
+^misdaad$	m ɪ z d aː t	Dutch
+^missen$	m ɪ s ə	Dutch
+^mist$	m ɪ s t	Dutch
+^modder$	m ɔ d ə r	Dutch
+^moe$	m uː	Dutch
+^moeder$	m uː d ə r	Dutch
+^moeilijk$	m uː j l ə k	Dutch
+^moeras$	m uː r ɑ s	Dutch
+^molen$	m oː l ə	Dutch
+^mompelen$	m ɔ m p ə l ə	Dutch
+^mond$	m ɔ n t	Dutch
+^mooi$	m oː j	Dutch
+^moord$	m oː r t	Dutch
+^morgen$	m ɔ r ɣ ə	Dutch
+^mortel$	m ɔ r t ə l	Dutch
+^moskee$	m ɔ s k eː	Dutch
+^motor$	m oː t ɔ r	Dutch
+^motorfiets$	m oː t ɔ r f iː t s	Dutch
+^mug$	m ʏ x	Dutch
+^muildier$	m œy l d iː r	Dutch
+^muilezel$	m œy l eː z ə l	Dutch
+^muis$	m œy s	Dutch
+^munt$	m ʏ n t	Dutch
+^muskiet$	m ʏ s k iː t	Dutch
+^muts$	m ʏ t s	Dutch
+^muur$	m yː r	Dutch
+^muziek$	m yː z iː k	Dutch
+^na$	n aː	Dutch
+^naaien$	n aː j ə	Dutch
+^naakt$	n aː k t	Dutch
+^naald$	n aː l t	Dutch
+^naam$	n aː m	Dutch
+^naar beneden$	???	Dutch
+^naar beneden gaan$	???	Dutch
+^naar boven gaan$	???	Dutch
+^naar huis gaan$	???	Dutch
+^naast$	n aː s t	Dutch
+^nacht$	n ɑ x t	Dutch
+^naderen$	n aː d ə r ə	Dutch
+^nadoen$	n aː d uː n	Dutch
+^nagel (1)$	n aː ɣ ə l	Dutch
+^nagel (2)$	n aː ɣ ə l	Dutch
+^najaar$	n aː j aː r	Dutch
+^nakomelingen$	n aː k oː m ə l ɪ ŋ ə	Dutch
+^nat$	n ɑ t	Dutch
+^nauw$	n ɑu ʋ	Dutch
+^navel$	n aː v ə l	Dutch
+^nazaten$	n aː z aː t ə	Dutch
+^nederlaag$	n eː d ə r l aː x	Dutch
+^nee$	n eː	Dutch
+^neef$	n eː f	Dutch
+^neet$	n eː t	Dutch
+^negen$	n eː ɣ ə	Dutch
+^nek$	n ɛ k	Dutch
+^nemen$	n eː m ə	Dutch
+^nest$	n ɛ s t	Dutch
+^netel$	n eː t ə l	Dutch
+^nettas$	???	Dutch
+^neus$	n øː s	Dutch
+^neusvleugel$	n øː s f l øː ɣ ə l	Dutch
+^nicht$	n ɪ x t	Dutch
+^nier$	n iː r	Dutch
+^niet$	n iː t	Dutch
+^niets$	n iː t s	Dutch
+^nieuw$	n iː ʋ	Dutch
+^niezen$	n iː z ə	Dutch
+^noemen$	n uː m ə	Dutch
+^nok$	n ɔ k	Dutch
+^noodzaak$	n oː t s aː k	Dutch
+^nooit$	n oː j t	Dutch
+^noorden$	n oː r d ə	Dutch
+^noorderlicht$	n oː r d ə r l ɪ x t	Dutch
+^noot$	n oː t	Dutch
+^nu$	n yː	Dutch
+^nul$	n ʏ l	Dutch
+^nummerplaat$	n ʏ m ə r p l aː t	Dutch
+^oceaan$	oː s eː j aː n	Dutch
+^ochtend$	ɔ x t ə n t	Dutch
+^ochtendgloren$	ɔ x t ə t x l oː r ə	Dutch
+^oever$	uː v ə r	Dutch
+^of$	ɔ f	Dutch
+^offer$	ɔ f ə r	Dutch
+^oksel$	ɔ k s ə l	Dutch
+^olie$	oː l iː	Dutch
+^olifant$	oː l iː f ɑ n t	Dutch
+^olijf$	oː l ɛi f	Dutch
+^omdat$	ɔ m d ɑ t	Dutch
+^omdraaien$	ɔ m d r aː j ə	Dutch
+^omhelzen$	ɔ m h ɛ l z ə	Dutch
+^omhoog$	ɔ m h oː x	Dutch
+^omlaag$	ɔ m l aː x	Dutch
+^onder$	ɔ n d ə r	Dutch
+^onderwijzen$	ɔ n d ə r ʋ ɛi z ə	Dutch
+^ondiep$	ɔ n d iː p	Dutch
+^onduidelijk$	ɔ n d œy d ə l ə k	Dutch
+^ongeluk$	ɔ ŋ ɣ ə l ʏ k	Dutch
+^onmiddellijk$	ɔ n m ɪ d ə l ə k	Dutch
+^onrijp$	ɔ n r ɛi p	Dutch
+^onschuldig$	ɔ n s x ʏ l d ə x	Dutch
+^ontbijt$	ɔ n d b ɛi t	Dutch
+^ontginnen$	ɔ n t x ɪ n ə	Dutch
+^ontkennen$	ɔ n t k ɛ n ə	Dutch
+^ontmoeten$	ɔ n t m uː t ə	Dutch
+^oog$	oː x	Dutch
+^ooghaar$	oː x h aː r	Dutch
+^ooglid$	oː ɣ l ɪ t	Dutch
+^oogst$	oː x s t	Dutch
+^ooi$	oː j	Dutch
+^oom$	oː m	Dutch
+^oor$	oː r	Dutch
+^oorbel$	oː r b ɛ l	Dutch
+^oorlel$	oː r l ɛ l	Dutch
+^oorlog$	oː r l ɔ x	Dutch
+^oorsmeer$	oː r s m eː r	Dutch
+^oorzaak$	oː r z aː k	Dutch
+^oosten$	oː s t ə	Dutch
+^op$	ɔ p	Dutch
+^opdragen$	ɔ b d r aː ɣ ə	Dutch
+^openen$	oː p ə n ə	Dutch
+^ophangen$	ɔ p h ɑ ŋ ə	Dutch
+^ophouden$	ɔ p h ɑu d ə	Dutch
+^opkomen$	ɔ p k oː m ə	Dutch
+^opnieuw$	ɔ p n iː ʋ	Dutch
+^opossum$	oː p ɔ s ʏ m	Dutch
+^opscheppen$	ɔ p s x ɛ p ə	Dutch
+^opstapelen$	ɔ p s t aː p ə l ə	Dutch
+^optillen$	ɔ p t ɪ l ə	Dutch
+^os$	ɔ s	Dutch
+^oud$	ɑu t	Dutch
+^ouders$	ɑu d ə r s	Dutch
+^outrigger$	???	Dutch
+^oven$	oː v ə	Dutch
+^overblijfels$	???	Dutch
+^overmorgen$	oː v ə r m ɔ r ɣ ə	Dutch
+^overspel$	oː v ə r s p ɛ l	Dutch
+^overwinning$	oː v ə r ʋ ɪ n ɪ ŋ	Dutch
+^paal$	p aː l	Dutch
+^paar$	p aː r	Dutch
+^paard$	p aː r t	Dutch
+^pad$	p ɑ t	Dutch
+^paddenstoel$	???	Dutch
+^paling$	p aː l ɪ ŋ	Dutch
+^palm (1)$	p ɑ l m	Dutch
+^palm (2)$	p ɑ l m	Dutch
+^pan$	p ɑ n	Dutch
+^papegaai$	p ɑ p ə ɣ aː j	Dutch
+^papier$	p aː p iː r	Dutch
+^pech$	p ɛ x	Dutch
+^peddel$	p ɛ d ə l	Dutch
+^pellen$	p ɛ l ə	Dutch
+^pen$	p ɛ n	Dutch
+^penis$	p eː n ə s	Dutch
+^peper$	p eː p ə r	Dutch
+^persoon$	p ə r s oː n	Dutch
+^pijl$	p ɛi l	Dutch
+^pijn$	p ɛi n	Dutch
+^pijnboom$	p ɛi m b oː m	Dutch
+^pijp$	p ɛi p	Dutch
+^pil$	p ɪ l	Dutch
+^pin$	p ɪ n	Dutch
+^pissen$	p ɪ s ə	Dutch
+^plaats$	p l aː t s	Dutch
+^plank$	p l ɑ ŋ k	Dutch
+^plant$	p l ɛ n t p l ɑ n t	Dutch
+^planten$	p l ɑ n t ə	Dutch
+^plassen$	p l ɑ s ə	Dutch
+^plastic$	p l ɛ s t ɪ k	Dutch
+^plat$	p l ɑ t	Dutch
+^ploegen$	p l uː ɣ ə	Dutch
+^pluimvee$	p l œy m v eː	Dutch
+^poepen$	p uː p ə	Dutch
+^politie$	p oː l iː t s iː	Dutch
+^pols$	p ɔ l s	Dutch
+^pompoen$	p ɔ m p uː n	Dutch
+^poncho$	p ɔ n ʃ oː	Dutch
+^poort$	p oː r t	Dutch
+^post (1)$	p ɔ s t	Dutch
+^post (2)$	p ɔ s t	Dutch
+^postzegel$	p ɔ s t s eː ɣ ə l	Dutch
+^pot$	p ɔ t	Dutch
+^pottenbakker$	p ɔ t ə b ɑ k ə r	Dutch
+^preken$	p r eː k ə	Dutch
+^president$	p r eː z iː d ɛ n t	Dutch
+^priem$	p r iː m	Dutch
+^priester$	p r iː s t ə r	Dutch
+^prijs$	p r ɛi s	Dutch
+^proberen$	p r oː b eː r ə	Dutch
+^proeven$	p r uː v ə	Dutch
+^prostituee$	p r ɔ s t iː t yː ʋ eː	Dutch
+^pus$	p ʏ s	Dutch
+^raam$	r aː m	Dutch
+^raden$	r aː d ɛ n r aː d ə	Dutch
+^radio$	r aː d iː j oː	Dutch
+^ram$	r ɑ m	Dutch
+^rand$	r ɑ n t	Dutch
+^rat$	r ɑ t	Dutch
+^ratel$	r aː t ə l	Dutch
+^rauw$	r ɑu ʋ	Dutch
+^recht$	r ɛ x t	Dutch
+^rechtbank$	r ɛ ɣ d b ɑ ŋ k	Dutch
+^rechter$	r ɛ x t ə r	Dutch
+^rechts$	r ɛ x t s	Dutch
+^rechtspreken$	r ɛ x t s p r eː k ə	Dutch
+^redden$	r ɛ d ə	Dutch
+^reden$	r eː d ə	Dutch
+^regen$	r eː ɣ ə	Dutch
+^regenboog$	r eː ɣ ə m b oː x	Dutch
+^regeren$	r ə ɣ eː r ə	Dutch
+^regering$	r ə ɣ eː r ɪ ŋ	Dutch
+^reiger$	r ɛi ɣ ə r	Dutch
+^rekening$	r eː k ə n ɪ ŋ	Dutch
+^remmen$	r ɛ m ə	Dutch
+^rendier$	r ɛ n d iː r	Dutch
+^rennen$	r ɛ n ə	Dutch
+^resten$	r ɛ s t ə	Dutch
+^rib$	r ɪ p	Dutch
+^riem$	r iː m	Dutch
+^rif$	r ɪ f	Dutch
+^rijbewijs$	r ɛi b ə ʋ ɛi s	Dutch
+^rijden$	r ɛi d ə	Dutch
+^rijk$	r ɛi k	Dutch
+^rijp$	r ɛi p	Dutch
+^rijst$	r ɛi s t	Dutch
+^rijstveld$	r ɛi s t f ɛ l t	Dutch
+^rillen$	r ɪ l ə	Dutch
+^rimpelig$	r ɪ m p ə l ə x	Dutch
+^ring$	r ɪ ŋ	Dutch
+^rivier$	r iː v iː r	Dutch
+^rode peper$	???	Dutch
+^roeien$	r uː j ə	Dutch
+^roer$	r uː r	Dutch
+^roeren$	r uː r ə	Dutch
+^rog$	r ɔ x	Dutch
+^rogge$	r ɔ ɣ ə	Dutch
+^rok$	r ɔ k	Dutch
+^roken$	r oː k ə	Dutch
+^rollen$	r ɔ l ə	Dutch
+^rond$	r ɔ n t	Dutch
+^rood$	r oː t	Dutch
+^rook$	r oː k	Dutch
+^roos$	r oː s	Dutch
+^rot$	r ɔ t	Dutch
+^rots$	r ɔ t s	Dutch
+^rug$	r ʏ x	Dutch
+^ruggengraat$	???	Dutch
+^ruiken$	r œy k ə	Dutch
+^ruilen$	r œy l ə	Dutch
+^rund$	r ʏ n t	Dutch
+^rusten$	r ʏ s t ə	Dutch
+^rustig$	r ʏ s t ə x	Dutch
+^ruw$	r yː ʋ	Dutch
+^ruzie$	r yː z iː	Dutch
+^salaris$	s aː l aː r ə s	Dutch
+^samenvoegen$	s aː m ə n v uː ɣ ə	Dutch
+^samenzwering$	s aː m ə n z ʋ eː r ɪ ŋ	Dutch
+^sap$	s ɑ p	Dutch
+^savanne$	s aː v ɑ n ə	Dutch
+^schaal$	s x aː l	Dutch
+^schaamhaar$	s x aː m h aː r	Dutch
+^schaamspleet$	s x aː m s p l eː t	Dutch
+^schaamte$	s x aː m t ə	Dutch
+^schaap$	s x aː p	Dutch
+^schaar$	s x aː r	Dutch
+^schaduw$	s x aː d yː ʋ	Dutch
+^schede$	s x eː d ə	Dutch
+^schedel$	s x eː d ə l	Dutch
+^scheermes$	s x eː r m ɛ s	Dutch
+^scheiden$	s x ɛi d ə	Dutch
+^scheiding$	s x ɛi d ɪ ŋ	Dutch
+^schelp$	s x ɛ l p	Dutch
+^schenken$	s x ɛ ŋ k ə	Dutch
+^scherp$	s x ɛ r p	Dutch
+^scheuren$	s x øː r ə	Dutch
+^schieten$	s x iː t ə	Dutch
+^schijnen$	s x ɛi n ə	Dutch
+^schijten$	s x ɛi t ə	Dutch
+^schild$	s x ɪ l t	Dutch
+^schilderen$	s x ɪ l d ə r ə	Dutch
+^schildpad$	s x ɪ l t p ɑ t	Dutch
+^schillen$	s x ɪ l ə	Dutch
+^schip$	s x ɪ p	Dutch
+^schoen$	s x uː n	Dutch
+^schoenmaker$	s x uː n m aː k ə r	Dutch
+^schoffel$	s x ɔ f ə l	Dutch
+^school$	s x oː l	Dutch
+^schoon$	s x oː n	Dutch
+^schoonbroer$	s x oː m b r uː r	Dutch
+^schoondochter$	s x oː n d ɔ x t ə r	Dutch
+^schoonkind$	???	Dutch
+^schoonmoeder$	s x oː n m uː d ə r	Dutch
+^schoonouders$	s x oː n ɑu d ə r s	Dutch
+^schoonvader$	s x oː n v aː d ə r	Dutch
+^schoonzoon$	s x oː n z oː n	Dutch
+^schoonzuster$	s x oː n z ʏ s t ə r	Dutch
+^schoorsteen$	s x oː r s t eː n	Dutch
+^schop$	s x ɔ p	Dutch
+^schorpioen$	s x ɔ r p iː j uː n	Dutch
+^schotel$	s x oː t ə l	Dutch
+^schouder$	s x ɑu d ə r	Dutch
+^schouderblad$	s x ɑu d ə r b l ɑ t	Dutch
+^schrappen$	s x r ɑ p ə	Dutch
+^schreeuwen$	s x r eː ʋ ə	Dutch
+^schrijven$	s x r ɛi v ə	Dutch
+^schroef$	s x r uː f	Dutch
+^schroevendraaier$	???	Dutch
+^schub$	s x ʏ p	Dutch
+^schudden$	s x ʏ d ə	Dutch
+^schuim$	s x œy m	Dutch
+^schuld$	s x ʏ l t	Dutch
+^schuldig$	s x ʏ l d ə x	Dutch
+^schuldig zijn$	???	Dutch
+^seizoen$	s ɛi z uː n	Dutch
+^seks hebben$	???	Dutch
+^sieraad$	s iː r aː t	Dutch
+^sigaret$	s iː ɣ aː r ɛ t	Dutch
+^sintel$	s ɪ n t ə l	Dutch
+^slaaf$	s l aː f	Dutch
+^slaan$	s l aː n	Dutch
+^slaap$	s l aː p	Dutch
+^slak$	s l ɑ k	Dutch
+^slang$	s l ɛ ŋ s l ɑ ŋ	Dutch
+^slapen$	s l aː p ə	Dutch
+^sle(d)e$	???	Dutch
+^slecht$	s l ɛ x t	Dutch
+^sleutel$	s l øː t ə l	Dutch
+^sleutelbeen$	s l øː t ə l b eː n	Dutch
+^slijpsteen$	s l ɛi p s t eː n	Dutch
+^slim$	s l ɪ m	Dutch
+^sloot$	s l oː t	Dutch
+^slot$	s l ɔ t	Dutch
+^sluier$	s l œy j ə r	Dutch
+^sluiten$	s l œy t ə	Dutch
+^smaken$	s m aː k ə	Dutch
+^smeden$	s m eː d ə	Dutch
+^smid$	s m ɪ t	Dutch
+^sneeuw$	s n eː ʋ	Dutch
+^sneeuwschoen$	s n eː ʋ s x uː n	Dutch
+^snel$	s n ɛ l	Dutch
+^snoep$	s n uː p	Dutch
+^snot$	s n ɔ t	Dutch
+^snurken$	s n ʏ r k ə	Dutch
+^soep$	s uː p	Dutch
+^sok$	s ɔ k	Dutch
+^soldaat$	s ɔ l d aː t	Dutch
+^soms$	s ɔ m s	Dutch
+^sorghum$	s ɔ r ɣ ʏ m	Dutch
+^spade$	s p aː d ə	Dutch
+^spar$	s p ɑ r	Dutch
+^spatten$	s p ɑ t ə	Dutch
+^specie$	s p eː s iː	Dutch
+^speer$	s p eː r	Dutch
+^speld$	s p ɛ l t	Dutch
+^spelen$	s p eː l ə	Dutch
+^spiegel$	s p iː ɣ ə l	Dutch
+^spijker$	s p ɛi k ə r	Dutch
+^spijt hebben$	???	Dutch
+^spin$	s p ɪ n	Dutch
+^spindel$	s p ɪ n d ə l	Dutch
+^spinnen$	s p ɪ n ə	Dutch
+^spits$	s p ɪ t s	Dutch
+^splijten$	s p l ɛi t ə	Dutch
+^spoedig$	s p uː d ə x	Dutch
+^spook$	s p oː k	Dutch
+^spreken$	s p r eː k ə	Dutch
+^springen$	s p r ɪ ŋ ə	Dutch
+^sprinkhaan$	s p r ɪ ŋ k h aː n	Dutch
+^spugen$	s p yː ɣ ə	Dutch
+^staan$	s t aː n	Dutch
+^staart$	s t aː r t	Dutch
+^stad$	s t ɑ t	Dutch
+^stal$	s t ɑ l	Dutch
+^stamelen$	s t aː m ə l ə	Dutch
+^stamper$	s t ɑ m p ə r	Dutch
+^standbeeld$	s t ɑ n d b eː l t	Dutch
+^steen$	s t eː n	Dutch
+^steenpuist$	s t eː m p œy s t	Dutch
+^steken$	s t eː k ə	Dutch
+^stelen$	s t eː l ə	Dutch
+^stem$	s t ɛ m	Dutch
+^ster$	s t ɛ r	Dutch
+^sterk$	s t ɛ r k	Dutch
+^sterven$	s t ɛ r v ə	Dutch
+^stiefdochter$	s t iː v d ɔ x t ə r	Dutch
+^stiefmoeder$	s t iː f m uː d ə r	Dutch
+^stiefvader$	s t iː f aː d ə r	Dutch
+^stiefzoon$	s t iː f s oː n	Dutch
+^stier$	s t iː r	Dutch
+^stil$	s t ɪ l	Dutch
+^stinkend$	s t ɪ ŋ k ə n t	Dutch
+^stoel$	s t uː l	Dutch
+^stof (1)$	s t ɔ f	Dutch
+^stof (2)$	s t ɔ f	Dutch
+^stom$	s t ɔ m	Dutch
+^stoom$	s t oː m	Dutch
+^stoppen$	s t ɔ p ə	Dutch
+^storm$	s t ɔ r m	Dutch
+^stotteren$	s t ɔ t ə r ə	Dutch
+^straat$	s t r aː t	Dutch
+^straf$	s t r ɑ f	Dutch
+^strijd$	s t r ɛi t	Dutch
+^strijdbijl$	s t r ɛi d b ɛi l	Dutch
+^strijden$	s t r ɛi d ə	Dutch
+^strik$	s t r ɪ k	Dutch
+^strodak$	s t r oː d ɑ k	Dutch
+^stromen$	s t r oː m ə	Dutch
+^stronk$	s t r ɔ ŋ k	Dutch
+^stroom$	s t r oː m	Dutch
+^studeren$	s t yː d eː r ə	Dutch
+^stuk (1)$	s t ʏ k	Dutch
+^stuk (2)$	s t ʏ k	Dutch
+^sturen$	s t yː r ə	Dutch
+^suiker$	s œy k ə r	Dutch
+^suikerriet$	s œy k ə r iː t	Dutch
+^taal$	t aː l	Dutch
+^tabak$	t aː b ɑ k	Dutch
+^tafel$	t aː f ə l	Dutch
+^tak$	t ɑ k	Dutch
+^tand$	t ɑ n t	Dutch
+^tandvlees$	t ɑ n t f l eː s	Dutch
+^tang$	t ɑ ŋ	Dutch
+^tante$	t ɑ n t ə	Dutch
+^tapijt$	t aː p ɛi t	Dutch
+^tapir$	t aː p iː r	Dutch
+^tarwe$	t ɑ r ʋ ə	Dutch
+^tatoeëring$	???	Dutch
+^te$	t ə	Dutch
+^teek$	t eː k	Dutch
+^teen$	t eː n	Dutch
+^telefoon$	t eː l ə f oː n	Dutch
+^televisie$	t eː l ə v iː z iː	Dutch
+^tellen$	t ɛ l ə	Dutch
+^tempel$	t ɛ m p ə l	Dutch
+^tent$	t ɛ n t	Dutch
+^tepel$	t eː p ə l	Dutch
+^termiet$	t ɛ r m iː t	Dutch
+^teruggeven$	t ə r ʏ ɣ eː v ə	Dutch
+^terugkomen$	t ə r ʏ x k oː m ə	Dutch
+^testikels$	t ɛ s t iː k ə l s	Dutch
+^thee$	t eː	Dutch
+^tien$	t iː n	Dutch
+^tijd$	t ɛi t	Dutch
+^timmerman$	t ɪ m ə r m ɑ n	Dutch
+^tin$	t ɪ n	Dutch
+^toegeven$	t uː ɣ eː v ə	Dutch
+^toekan$	t uː k ɑ n	Dutch
+^toespraak$	t uː s p r aː k	Dutch
+^toestaan$	t uː s t aː n	Dutch
+^toilet$	t ʋ ɑ l ɛ t	Dutch
+^tonen$	t oː n ə	Dutch
+^tong$	t ɔ ŋ	Dutch
+^top$	t ɔ p	Dutch
+^toren$	t oː r ə	Dutch
+^touw$	t ɑu ʋ	Dutch
+^tovenaar$	t oː v ə n aː r	Dutch
+^toverij$	t oː v ə r ɛi	Dutch
+^traag$	t r aː x	Dutch
+^traan$	t r aː n	Dutch
+^trachten$	t r ɑ x t ə	Dutch
+^trappen$	t r ɑ p ə	Dutch
+^trein$	t r ɛi n	Dutch
+^trekken$	t r ɛ k ə	Dutch
+^trog$	t r ɔ x	Dutch
+^trom$	t r ɔ m	Dutch
+^trommel$	t r ɔ m ə l	Dutch
+^trompet$	t r ɔ m p ɛ t	Dutch
+^trots$	t r ɔ t s	Dutch
+^trouw$	t r ɑu ʋ	Dutch
+^trouwen$	t r ɑu ʋ ə	Dutch
+^tuin$	t œy n	Dutch
+^tuinhuis$	t œy n h œy s	Dutch
+^twaalf$	t ʋ aː l f	Dutch
+^twee$	t ʋ eː	Dutch
+^tweede$	t ʋ eː d ə	Dutch
+^tweeling$	t ʋ eː l ɪ ŋ	Dutch
+^tweemaal$	t ʋ eː m aː l	Dutch
+^twijfel$	t ʋ ɛi f ə l	Dutch
+^twintig$	t ʋ ɪ n t ə x	Dutch
+^uier$	œy j ə r	Dutch
+^uil$	œy l	Dutch
+^uithollen$	œy t h ɔ l ə	Dutch
+^uitleggen$	œy t l ɛ ɣ ə	Dutch
+^uitnodigen$	œy t n oː d ə ɣ ə	Dutch
+^uitpersen$	œy t p ɛ r s ə	Dutch
+^uitrekken$	œy t r ɛ k ə	Dutch
+^uitspreiden$	œy t s p r ɛi d ə	Dutch
+^uur$	yː r	Dutch
+^vaak$	v aː k	Dutch
+^vadem$	v aː d ə m	Dutch
+^vader$	v aː d ə r	Dutch
+^vaderland$	v aː d ə r l ɑ n t	Dutch
+^vagina$	v aː ɣ iː n aː	Dutch
+^val$	v ɑ l	Dutch
+^vallei$	v ɑ l ɛi	Dutch
+^vallen$	v ɑ l ə	Dutch
+^vandaag$	v ɑ n d aː x	Dutch
+^vangen$	v ɑ ŋ ə	Dutch
+^varken$	v ɑ r k ə	Dutch
+^vasteland$	v ɑ s t ə l ɑ n t	Dutch
+^vasten$	v ɑ s t ə	Dutch
+^vasthouden$	v ɑ s t h ɑu d ə	Dutch
+^vastpakken$	v ɑ s t p ɑ k ə	Dutch
+^vechten$	v ɛ x t ə	Dutch
+^vee$	v eː	Dutch
+^veel$	v eː l	Dutch
+^veer$	v eː r	Dutch
+^vegen$	v eː ɣ ə	Dutch
+^veld$	v ɛ l t	Dutch
+^vellen$	v ɛ l ə	Dutch
+^venster$	v ɛ n s t ə r	Dutch
+^ver$	v ɛ r	Dutch
+^veranderen$	v ə r ɑ n d ə r ə	Dutch
+^verbaasd$	v ə r b aː s t	Dutch
+^verbergen$	v ə r b ɛ r ɣ ə	Dutch
+^verbieden$	v ə r b iː d ə	Dutch
+^verbinden$	v ə r b ɪ n d ə	Dutch
+^verbranden$	v ə r b r ɑ n d ə	Dutch
+^verdachte$	v ə r d ɑ x t ə	Dutch
+^verdedigen$	v ə r d eː d ə ɣ ə	Dutch
+^verdelen$	v ə r d eː l ə	Dutch
+^verdienen$	v ə r d iː n ə	Dutch
+^verdriet$	v ə r d r iː t	Dutch
+^verdrinken$	v ə r d r ɪ ŋ k ə	Dutch
+^verdwijnen$	v ə r d ʋ ɛi n ə	Dutch
+^vereren$	v ə r eː r ə	Dutch
+^verf$	v ɛ r f	Dutch
+^vergaderhuis$	???	Dutch
+^vergeten$	v ə r ɣ eː t ə	Dutch
+^vergeven$	v ə r ɣ eː v ə	Dutch
+^verhinderen$	v ə r h ɪ n d ə r ə	Dutch
+^verkeerd$	v ə r k eː r t	Dutch
+^verkiezing$	v ə r k iː z ɪ ŋ	Dutch
+^verkopen$	v ə r k oː p ə v ɛ r k oː p ə	Dutch
+^verkoudheid$	v ə r k ɑu t h ɛi t	Dutch
+^verlangen$	v ə r l ɑ ŋ ə	Dutch
+^verliezen$	v ə r l iː z ə	Dutch
+^vermoeden$	v ə r m uː d ə	Dutch
+^vernietigen$	v ə r n iː t ə ɣ ə	Dutch
+^veroordelen$	v ə r oː r d eː l ə	Dutch
+^verpleegster$	v ə r p l eː x s t ə r	Dutch
+^verraden$	v ə r aː d ə	Dutch
+^verstand$	v ə r s t ɑ n t	Dutch
+^verstandig$	v ə r s t ɑ n d ə x	Dutch
+^verstikken$	v ə r s t ɪ k ə	Dutch
+^verstoppen$	v ə r s t ɔ p ə	Dutch
+^vertellen$	v ə r t ɛ l ə	Dutch
+^verven$	v ɛ r v ə	Dutch
+^vervloeken$	v ə r v l uː k ə	Dutch
+^verwanten$	v ə r ʋ ɑ n t ə	Dutch
+^verwekken$	v ə r ʋ ɛ k ə	Dutch
+^verwonden$	v ə r ʋ ɔ n d ə	Dutch
+^verzamelen$	v ə r z aː m ə l ə	Dutch
+^verzoeken$	v ə r z uː k ə	Dutch
+^vesting$	v ɛ s t ɪ ŋ	Dutch
+^vet$	v ɛ t	Dutch
+^veulen$	v øː l ə	Dutch
+^vier$	v iː r	Dutch
+^vierkant$	v iː r k ɑ n t	Dutch
+^vijand$	v ɛi j ɑ n t	Dutch
+^vijf$	v ɛi f	Dutch
+^vijftien$	v ɛi f t iː n	Dutch
+^vijg$	v ɛi x	Dutch
+^vijzel$	v ɛi z ə l	Dutch
+^villen$	v ɪ l ə	Dutch
+^vilt$	v ɪ l t	Dutch
+^vin$	v ɪ n	Dutch
+^vinden$	v ɪ n d ə	Dutch
+^vinger$	v ɪ ŋ ə r	Dutch
+^vis$	v ɪ s	Dutch
+^vishaak$	v ɪ s h aː k	Dutch
+^vislijn$	v ɪ s l ɛi n	Dutch
+^visnet$	v ɪ s n ɛ t	Dutch
+^vissengif$	???	Dutch
+^visser$	v ɪ s ə r	Dutch
+^vlak$	v l ɑ k	Dutch
+^vlakte$	v l ɑ k t ə	Dutch
+^vlam$	v l ɑ m	Dutch
+^vlecht$	v l ɛ x t	Dutch
+^vlechten$	v l ɛ x t ə	Dutch
+^vleermuis$	v l eː r m œy s	Dutch
+^vlees$	v l eː s	Dutch
+^vleugel$	v l øː ɣ ə l	Dutch
+^vlieg$	v l iː x	Dutch
+^vliegen$	v l iː ɣ ə	Dutch
+^vliegtuig$	v l iː x t œy x	Dutch
+^vlinder$	v l ɪ n d ə r	Dutch
+^vlo$	v l oː	Dutch
+^vloed$	v l uː t	Dutch
+^vloer$	v l uː r	Dutch
+^vlot$	v l ɔ t	Dutch
+^vluchten$	v l ʏ x t ə	Dutch
+^voedsel$	v uː t s ə l	Dutch
+^voelen$	v uː l ə	Dutch
+^voet$	v uː t	Dutch
+^voetafdruk$	???	Dutch
+^vogel$	v oː ɣ ə l	Dutch
+^vol$	v ɔ l	Dutch
+^volgen$	v ɔ l ɣ ə	Dutch
+^volgende$	v ɔ l ɣ ə n d ə	Dutch
+^vonnis$	v ɔ n ə s	Dutch
+^voor$	v oː r	Dutch
+^voorhoofd$	v oː r h oː f t	Dutch
+^voorjaar$	v oː r j aː r	Dutch
+^voorouders$	v oː r ɑu d ə r s	Dutch
+^voorteken$	v oː r t eː k ə	Dutch
+^vore$	v oː r ə	Dutch
+^vork$	v ɔ r k	Dutch
+^vos$	v ɔ s	Dutch
+^vouwen$	v ɑu ʋ ə	Dutch
+^vragen$	v r aː ɣ ə	Dutch
+^vrede$	v r eː d ə	Dutch
+^vreemde$	v r eː m d ə	Dutch
+^vreemdeling$	v r eː m d ə l ɪ ŋ	Dutch
+^vriend$	v r iː n t	Dutch
+^vrijdag$	v r ɛi d ɑ x	Dutch
+^vrije$	v r ɛi j ə	Dutch
+^vrijspreken$	v r ɛi s p r eː k ə	Dutch
+^vroeg$	v r uː x	Dutch
+^vrouw (1)$	v r ɑu ʋ	Dutch
+^vrouw (2)$	v r ɑu ʋ	Dutch
+^vrouwelijk$	v r ɑu ʋ ə l ə k	Dutch
+^vrouwtjes-$	???	Dutch
+^vuil$	v œy l	Dutch
+^vulva$	v ʏ l v aː	Dutch
+^vuur$	v yː r	Dutch
+^waaier$	ʋ aː j ə r	Dutch
+^waar (1)$	ʋ aː r	Dutch
+^waar (2)$	ʋ aː r	Dutch
+^waarom$	ʋ aː r ɔ m	Dutch
+^wagen$	ʋ aː ɣ ə	Dutch
+^walvis$	ʋ ɑ l v ɪ s	Dutch
+^wandelstok$	ʋ ɑ n d ə l s t ɔ k	Dutch
+^wang$	ʋ ɑ ŋ	Dutch
+^wanneer$	ʋ ɑ n eː r	Dutch
+^wapens$	ʋ aː p ə n s	Dutch
+^warm$	ʋ ɑ r m	Dutch
+^wasbeer$	ʋ ɑ z b eː r	Dutch
+^wassen$	ʋ ɑ s ə	Dutch
+^wat$	ʋ ɑ t	Dutch
+^water$	ʋ aː t ə r	Dutch
+^water putten$	???	Dutch
+^waterval$	ʋ aː t ə r v ɑ l	Dutch
+^wc$	???	Dutch
+^web$	ʋ ɛ p	Dutch
+^weduwe$	ʋ eː d yː ʋ ə	Dutch
+^weduwnaar$	ʋ eː d yː ʋ n aː r	Dutch
+^weefgetouw$	ʋ eː f x ə t ɑu ʋ	Dutch
+^week$	ʋ eː k	Dutch
+^weer (1)$	ʋ eː r	Dutch
+^weer (2)$	ʋ eː r	Dutch
+^weerhouden$	ʋ eː r h ɑu d ə	Dutch
+^wees$	ʋ eː s	Dutch
+^weg$	ʋ ɛ x	Dutch
+^wegen$	ʋ eː ɣ ə	Dutch
+^weggaan$	ʋ ɛ ɣ aː n	Dutch
+^weide$	ʋ ɛi d ə	Dutch
+^weigeren$	ʋ ɛi ɣ ə r ə	Dutch
+^weinig$	ʋ ɛi n ə x	Dutch
+^wekken$	ʋ ɛ k ə	Dutch
+^welke$	ʋ ɛ l k ə	Dutch
+^welriekend$	ʋ ɛ l r iː k ə n t	Dutch
+^wenen$	ʋ eː n ə	Dutch
+^wenkbrauw$	ʋ ɛ ŋ ɡ b r ɑu ʋ	Dutch
+^wensen$	ʋ ɛ n s ə	Dutch
+^wereld$	ʋ eː r ə l t	Dutch
+^werk$	ʋ ɛ r k	Dutch
+^werkplaats$	ʋ ɛ r k p l aː t s	Dutch
+^werktuig$	ʋ ɛ r k t œy x	Dutch
+^werpen$	ʋ ɛ r p ə	Dutch
+^wesp$	ʋ ɛ s p	Dutch
+^westen$	ʋ ɛ s t ə	Dutch
+^wet$	ʋ ɛ t	Dutch
+^weten$	ʋ eː t ə	Dutch
+^weven$	ʋ eː v ə	Dutch
+^wie$	ʋ iː	Dutch
+^wiel$	ʋ iː l	Dutch
+^wij$	ʋ ɛi	Dutch
+^wijd$	ʋ ɛi t	Dutch
+^wijn$	ʋ ɛi n	Dutch
+^wijs (1)$	ʋ ɛi s	Dutch
+^wijs (2)$	ʋ ɛi s	Dutch
+^wikkelen$	ʋ ɪ k ə l ə	Dutch
+^wild zwijn$	???	Dutch
+^wind$	ʋ ɪ n t	Dutch
+^wingerd$	ʋ ɪ ŋ ə r t	Dutch
+^winkel$	ʋ ɪ ŋ k ə l	Dutch
+^winter$	ʋ ɪ n t ə r	Dutch
+^wit$	ʋ ɪ t	Dutch
+^woede$	ʋ uː d ə	Dutch
+^woensdag$	ʋ uː n z d ɑ x	Dutch
+^wol$	ʋ ɔ l	Dutch
+^wolf$	ʋ ɔ l f	Dutch
+^wolk$	ʋ ɔ l k	Dutch
+^wond$	ʋ ɔ n t	Dutch
+^wonen$	ʋ oː n ə	Dutch
+^woord$	ʋ oː r t	Dutch
+^worden$	ʋ ɔ r d ə	Dutch
+^worm$	ʋ ɔ r m	Dutch
+^worst$	ʋ ɔ r s t	Dutch
+^wortel$	ʋ ɔ r t ə l	Dutch
+^woud$	ʋ ɑu t	Dutch
+^wrijven$	ʋ r ɛi v ə	Dutch
+^yam$	j ɑ m	Dutch
+^zaad$	z aː t	Dutch
+^zaag$	z aː x	Dutch
+^zaaien$	z aː j ə	Dutch
+^zacht$	z ɑ x t	Dutch
+^zak$	z ɑ k	Dutch
+^zakdoek$	z ɑ ɡ d uː k	Dutch
+^zalf$	z ɑ l f	Dutch
+^zand$	z ɑ n t	Dutch
+^zaterdag$	z aː t ə r d ɑ x	Dutch
+^zee$	z eː	Dutch
+^zeep$	z eː p	Dutch
+^zegenen$	z eː ɣ ə n ə	Dutch
+^zeggen$	z ɛ ɣ ə	Dutch
+^zeil$	z ɛi l	Dutch
+^zeilen$	z ɛi l ə	Dutch
+^zeis$	z ɛi s	Dutch
+^zeker$	z eː k ə r	Dutch
+^zenden$	z ɛ n d ə	Dutch
+^zenuw$	z eː n yː ʋ	Dutch
+^zes$	z ɛ s	Dutch
+^zeug$	z øː x	Dutch
+^zeven (1)$	z eː v ə	Dutch
+^zeven (2)$	z eː v ə	Dutch
+^zich haasten$	???	Dutch
+^zich herinneren$	???	Dutch
+^zich omdraaien$	???	Dutch
+^zich overgeven$	???	Dutch
+^zich terugtrekken$	???	Dutch
+^ziek$	z iː k	Dutch
+^ziekenhuis$	z iː k ə h œy s	Dutch
+^ziekte$	z iː k t ə	Dutch
+^ziel$	z iː l	Dutch
+^zien$	z iː n	Dutch
+^zij (1)$	z ɛi	Dutch
+^zij (2)$	z ɛi	Dutch
+^zijde$	z ɛi d ə	Dutch
+^zijn$	z ɛi n	Dutch
+^zilver$	z ɪ l v ə r	Dutch
+^zingen$	z ɪ ŋ ə	Dutch
+^zinken$	z ɪ ŋ k ə	Dutch
+^zitten$	z ɪ t ə	Dutch
+^zoeken$	z uː k ə	Dutch
+^zoet$	z uː t	Dutch
+^zoete aardappel$	???	Dutch
+^zomer$	z oː m ə r	Dutch
+^zon$	z ɔ n	Dutch
+^zondag$	z ɔ n d ɑ x	Dutch
+^zonder$	z ɔ n d ə r	Dutch
+^zoon$	z oː n	Dutch
+^zorg$	z ɔ r x	Dutch
+^zout (1)$	z ɑu t	Dutch
+^zout (2)$	z ɑu t	Dutch
+^zuiden$	z œy d ə	Dutch
+^zuigen$	z œy ɣ ə	Dutch
+^zus(ter)$	???	Dutch
+^zuur$	z yː r	Dutch
+^zwaar$	z ʋ aː r	Dutch
+^zwaard$	z ʋ aː r t	Dutch
+^zwager$	z ʋ aː ɣ ə r	Dutch
+^zwak$	z ʋ ɑ k	Dutch
+^zwanger$	z ʋ ɑ ŋ ə r	Dutch
+^zwanger worden$	???	Dutch
+^zwart$	z ʋ ɑ r t	Dutch
+^zwelling$	z ʋ ɛ l ɪ ŋ	Dutch
+^zwemmen$	z ʋ ɛ m ə	Dutch
+^zweren$	z ʋ eː r ə	Dutch
+^zweten$	z ʋ eː t ə	Dutch
+^zwijgen$	z ʋ ɛi ɣ ə	Dutch

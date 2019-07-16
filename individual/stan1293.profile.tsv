@@ -1,160 +1,1476 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-^	NULL				
-$	NULL				
-a	a	carcass, banyan	English	579	U+0061
-e	e	vegetables, remember	English	510	U+0065
-i	i	light, circumcision	English	473	U+0069
-o	o	tomorrow, motor	English	424	U+006f
-r	r	trap, burn	English	349	U+0072
-e$	e	smoke, weave	English	318	U+0065 U+0024
-n	n	think, ointment	English	280	U+006e
-l	l	child, fly	English	239	U+006c
-u	u	beautiful, burn	English	234	U+0075
-t	t	sweet potato, prostitute	English	200	U+0074
-t$	t	light, right	English	188	U+0074 U+0024
-^s	s	sail, spring	English	172	U+005e U+0073
-r$	r	mortar, tear	English	147	U+0072 U+0024
-n$	n	burn, skin	English	135	U+006e U+0024
-^b	b	burn, boil	English	130	U+005e U+0062
-c	c	necklace, circumcision	English	122	U+0063
-s	s	disease, post	English	113	U+0073
-d$	d	end, child	English	107	U+0064 U+0024
-^c	c	cold, calf	English	105	U+005e U+0063
-m	m	smoke, sometimes	English	99	U+006d
-y$	y	day, fly	English	99	U+0079 U+0024
-^p	p	paint, post	English	98	U+005e U+0070
-d	d	adjudicate, Wednesday	English	96	U+0064
-^f	f	fly, fan	English	92	U+005e U+0066
-^h	h	hide, hole	English	74	U+005e U+0068
-v	v	weave, clever	English	73	U+0076
-p	p	newspaper, spring	English	72	U+0070
-^m	m	male, milk	English	71	U+005e U+006d
-^d	d	day, drink	English	68	U+005e U+0064
-^l	l	light, lead	English	67	U+005e U+006c
-^t	t	tin, tear	English	66	U+005e U+0074
-k$	k	think, milk	English	64	U+006b U+0024
-^r	r	rough, right	English	64	U+005e U+0072
-^w	w	weave, war	English	62	U+005e U+0077
-^a	a	aeroplane, above	English	58	U+005e U+0061
-g	g	language, fishing net	English	56	U+0067
-^g	g	guess, grasshopper	English	54	U+005e U+0067
-k	k	smoke, skin	English	52	U+006b
-w$	w	sow, follow	English	52	U+0077 U+0024
-l$	l	boil, sail	English	51	U+006c U+0024
-oo	oo	broom, rooster	English	47	U+006f U+006f
-g$	g	spring, ring	English	43	U+0067 U+0024
-p$	p	trap, sleep	English	42	U+0070 U+0024
-ee	ee	needle, sleep	English	41	U+0065 U+0065
-^n	n	needle, niece	English	41	U+005e U+006e
-b	b	remember, caribou	English	39	U+0062
-^e	e	end, eat	English	39	U+005e U+0065
-_	_	in front of, fishing net	English	35	U+005f
-^sh	sh	shark, shine	English	34	U+005e U+0073 U+0068
-f	f	knife, life	English	34	U+0066
-^o	o	old woman, open	English	32	U+005e U+006f
-w	w	crowd, howl	English	30	U+0077
-ll$	ll	smell, bull	English	29	U+006c U+006c U+0024
-ch$	ch	birch, crouch	English	28	U+0063 U+0068 U+0024
-m$	m	palm, broom	English	27	U+006d U+0024
-th	th	scythe, weather	English	26	U+0074 U+0068
-^th	th	think, this	English	25	U+005e U+0074 U+0068
-tt	tt	cattle, battle	English	24	U+0074 U+0074
-^ch	ch	child, chisel	English	22	U+005e U+0063 U+0068
-^i	i	it, idea	English	21	U+005e U+0069
-gh	gh	light, right	English	20	U+0067 U+0068
-ll	ll	stallion, shallow	English	18	U+006c U+006c
-^k	k	knife, knot	English	18	U+005e U+006b
-rr	rr	carry, earring	English	17	U+0072 U+0072
-sh$	sh	dish, flesh	English	16	U+0073 U+0068 U+0024
-ss$	ss	bless, guess	English	16	U+0073 U+0073 U+0024
-f$	f	calf, shelf	English	15	U+0066 U+0024
-y	y	scythe, rye	English	15	U+0079
-s$	s	pus, this	English	15	U+0073 U+0024
-o$	o	poncho, no	English	14	U+006f U+0024
-^wh	wh	white, wheat	English	14	U+005e U+0077 U+0068
-gh$	gh	rough, thigh	English	13	U+0067 U+0068 U+0024
-^y	y	you, yellow	English	12	U+005e U+0079
--	<?>	father-in-law, mother-in-law	English	12	U+002d
-^v	v	vulva, voice	English	12	U+005e U+0076
-ch	ch	poncho, merchant	English	12	U+0063 U+0068
-b$	b	comb, rib	English	11	U+0062 U+0024
-^sw	sw	sweep, sweets	English	11	U+005e U+0073 U+0077
-th$	th	north, blacksmith	English	11	U+0074 U+0068 U+0024
-rs	rs	thirsty, pursue	English	11	U+0072 U+0073
-dd	dd	midday, paddy	English	10	U+0064 U+0064
-?$	<?>	how?, which?	English	9	U+003f U+0024
-z	z	citizen, razor	English	9	U+007a
-^u	u	understand, up	English	9	U+005e U+0075
-a$	a	vulva, idea	English	9	U+0061 U+0024
-^j	j	jaguar, join	English	9	U+005e U+006a
-x	x	explain, anxiety	English	8	U+0078
-pp	pp	pepper, grasshopper	English	8	U+0070 U+0070
-q	q	square, squash	English	8	U+0071
-sh	sh	fishing net, fisherman	English	7	U+0073 U+0068
-x$	x	earwax, tax	English	7	U+0078 U+0024
-ss	ss	scissors, lasso	English	7	U+0073 U+0073
-ee$	ee	three, coffee	English	7	U+0065 U+0065 U+0024
-mm	mm	stammer, hammer	English	6	U+006d U+006d
-nn	nn	dinner, innocent	English	6	U+006e U+006e
-^tw	tw	twins, twenty	English	6	U+005e U+0074 U+0077
-^q	q	quick, quarrel	English	5	U+005e U+0071
-ph	ph	telephone, nephew	English	5	U+0070 U+0068
-j	j	injure, adjudicate	English	4	U+006a
-h	h	behind, forehead	English	4	U+0068
-cc	cc	hiccough, raccoon	English	4	U+0063 U+0063
-c$	c	magic, music	English	4	U+0063 U+0024
-rs$	rs	shears, scissors	English	4	U+0072 U+0073 U+0024
-ff$	ff	cliff, plaintiff	English	4	U+0066 U+0066 U+0024
-u$	u	you, caribou	English	3	U+0075 U+0024
-oo$	oo	bamboo, kangaroo	English	3	U+006f U+006f U+0024
-ff	ff	coffee, buffalo	English	3	U+0066 U+0066
-ns$	ns	twins, weapons	English	3	U+006e U+0073 U+0024
-ts$	ts	sweets, guts	English	3	U+0074 U+0073 U+0024
-ns	ns	inside, expensive	English	3	U+006e U+0073
-^S	<?>	Sunday, Saturday	English	2	U+005e U+0053
-gg	gg	outrigger, beggar	English	2	U+0067 U+0067
-ps	ps	corpse, stepson	English	2	U+0070 U+0073
-bb	bb	dribble, rabbit	English	2	U+0062 U+0062
-ts	ts	outside, whetstone	English	2	U+0074 U+0073
-ds	ds	herdsman, grandson	English	2	U+0064 U+0073
-(tree-)stump	<???>	(tree-)stump	English	1	U+0028 U+0074 U+0072 U+0065 U+0065 U+002d U+0029 U+0073 U+0074 U+0075 U+006d U+0070
-petrol(eum)	<???>	petrol(eum)	English	1	U+0070 U+0065 U+0074 U+0072 U+006f U+006c U+0028 U+0065 U+0075 U+006d U+0029
-gs$	gs	tongs	English	1	U+0067 U+0073 U+0024
-wake (up)	<???>	wake (up)	English	1	U+0077 U+0061 U+006b U+0065 U+0020 U+0028 U+0075 U+0070 U+0029
-(finger)nail	<???>	(finger)nail	English	1	U+0028 U+0066 U+0069 U+006e U+0067 U+0065 U+0072 U+0029 U+006e U+0061 U+0069 U+006c
-(good) luck	<???>	(good) luck	English	1	U+0028 U+0067 U+006f U+006f U+0064 U+0029 U+0020 U+006c U+0075 U+0063 U+006b
-shh	shh	fishhook	English	1	U+0073 U+0068 U+0068
-^F	<?>	Friday	English	1	U+005e U+0046
-gg$	gg	egg	English	1	U+0067 U+0067 U+0024
-^I$	<?>	I	English	1	U+005e U+0049 U+0024
-ks	ks	blacksmith	English	1	U+006b U+0073
-wood(s)	<???>	wood(s)	English	1	U+0077 U+006f U+006f U+0064 U+0028 U+0073 U+0029
-lw	lw	always	English	1	U+006c U+0077
-^z	z	zero	English	1	U+005e U+007a
-^Th	<?>	Thursday	English	1	U+005e U+0054 U+0068
-rsh	rsh	worship	English	1	U+0072 U+0073 U+0068
-^gh	gh	ghost	English	1	U+005e U+0067 U+0068
-chili (pepper)	<???>	chili (pepper)	English	1	U+0063 U+0068 U+0069 U+006c U+0069 U+0020 U+0028 U+0070 U+0065 U+0070 U+0070 U+0065 U+0072 U+0029
-molar (tooth)	<???>	molar (tooth)	English	1	U+006d U+006f U+006c U+0061 U+0072 U+0020 U+0028 U+0074 U+006f U+006f U+0074 U+0068 U+0029
-^M	<?>	Monday	English	1	U+005e U+004d
-call (2)	<???>	call (2)	English	1	U+0063 U+0061 U+006c U+006c U+0020 U+0028 U+0032 U+0029
-^W	<?>	Wednesday	English	1	U+005e U+0057
-(sting)ray	<???>	(sting)ray	English	1	U+0028 U+0073 U+0074 U+0069 U+006e U+0067 U+0029 U+0072 U+0061 U+0079
-(be) silent	<???>	(be) silent	English	1	U+0028 U+0062 U+0065 U+0029 U+0020 U+0073 U+0069 U+006c U+0065 U+006e U+0074
-bs	bs	obscure	English	1	U+0062 U+0073
-call (1)	<???>	call (1)	English	1	U+0063 U+0061 U+006c U+006c U+0020 U+0028 U+0031 U+0029
-ms$	ms	gums	English	1	U+006d U+0073 U+0024
-ws	ws	newspaper	English	1	U+0077 U+0073
-ask (1)	<???>	ask (1)	English	1	U+0061 U+0073 U+006b U+0020 U+0028 U+0031 U+0029
-ask (2)	<???>	ask (2)	English	1	U+0061 U+0073 U+006b U+0020 U+0028 U+0032 U+0029
-ks$	ks	buttocks	English	1	U+006b U+0073 U+0024
-^ee	ee	eel	English	1	U+005e U+0065 U+0065
-nsw	nsw	answer	English	1	U+006e U+0073 U+0077
-ksh	ksh	workshop	English	1	U+006b U+0073 U+0068
-(sea)gull	<???>	(sea)gull	English	1	U+0028 U+0073 U+0065 U+0061 U+0029 U+0067 U+0075 U+006c U+006c
-rw	rw	earwax	English	1	U+0072 U+0077
-temple(s)	<???>	temple(s)	English	1	U+0074 U+0065 U+006d U+0070 U+006c U+0065 U+0028 U+0073 U+0029
-^T	<?>	Tuesday	English	1	U+005e U+0054
-wsh	wsh	snowshoe	English	1	U+0077 U+0073 U+0068
-ssh	ssh	grasshopper	English	1	U+0073 U+0073 U+0068
-ls	ls	falsity	English	1	U+006c U+0073
+Grapheme	IPA	Languages
+^(be) silent$	???	English
+^(finger)nail$	???	English
+^(good) luck$	???	English
+^(sea)gull$	???	English
+^(sting)ray$	???	English
+^(tree-)stump$	???	English
+^Friday$	f r aɪ d ɪ	English
+^I$	aɪ	English
+^Monday$	m ʌ n d ɪ	English
+^Saturday$	s æ t ə d ɪ	English
+^Sunday$	s ʌ n d ɪ	English
+^Thursday$	θ ɜː z d ɪ	English
+^Tuesday$	t j uː z d ɪ	English
+^Wednesday$	w ɛ n z d ɪ	English
+^above$	ə b ʌ v	English
+^accuse$	ə k j uː z	English
+^acorn$	eɪ k ɔː n	English
+^acquit$	ə k w ɪ t	English
+^address$	ə d r ɛ s	English
+^adjudicate$	ə dʒ uː d ɪ k eɪ t	English
+^admit$	ə d m ɪ t	English
+^adobe$	ə d əʊ b ɪ	English
+^adultery$	ə d ʌ l t ə r ɪ	English
+^adze$	æ d z	English
+^aeroplane$	ɛə r ə p l eɪ n	English
+^after$	ɑː f t ə ɹ	English
+^afternoon$	ɑː f t ə n uː n	English
+^again$	ə ɡ ɛ n	English
+^age$	eɪ dʒ	English
+^air$	ɛə ɹ	English
+^alcohol$	æ l k ə h ɒ l	English
+^alike$	ə l aɪ k	English
+^alive$	ə l aɪ v	English
+^all$	ɔː l	English
+^alligator$	æ l ɪ ɡ eɪ t ə ɹ	English
+^allow$	ə l aʊ	English
+^alone$	ə l əʊ n	English
+^altar$	ɔː l t ə ɹ	English
+^always$	ɔː l w eɪ z	English
+^ambush$	æ m b ʊ ʃ	English
+^ancestor$	æ n s ɛ s t ə ɹ	English
+^anchor$	æ ŋ k ə ɹ	English
+^and$	æ n d	English
+^anger$	æ ŋ ɡ ə ɹ	English
+^animal$	æ n ɪ m l̩	English
+^ankle$	æ ŋ k l̩	English
+^announce$	ə n aʊ n s	English
+^answer$	ɑː n s ə ɹ	English
+^ant$	æ n t	English
+^anteater$	æ n t iː t ə ɹ	English
+^anvil$	æ n v ɪ l	English
+^anxiety$	æ ŋ z aɪ ə t ɪ	English
+^approach$	ə p r əʊ tʃ	English
+^arch$	ɑː tʃ	English
+^arm$	ɑː m	English
+^armour$	ɑː m ə ɹ	English
+^armpit$	ɑː m p ɪ t	English
+^army$	ɑː m ɪ	English
+^arrive$	ə r aɪ v	English
+^arrow$	æ r əʊ	English
+^arse$	ɑː s	English
+^arson$	ɑː s n̩	English
+^artery$	ɑː t ə r ɪ	English
+^ash$	æ ʃ	English
+^ask (1)$	ɑː s k	English
+^ask (2)$	ɑː s k	English
+^astonished$	ə s t ɒ n ɪ ʃ t	English
+^at$	æ t	English
+^attack$	ə t æ k	English
+^aunt$	ɑː n t	English
+^autumn$	ɔː t ə m	English
+^awl$	ɔː l	English
+^axe$	æ k s	English
+^axle$	æ k s l̩	English
+^baby$	b eɪ b ɪ	English
+^back$	b æ k	English
+^bad$	b æ d	English
+^bag$	b æ ɡ	English
+^bait$	b eɪ t	English
+^bake$	b eɪ k	English
+^bald$	b ɔː l d	English
+^ball$	b ɔː l	English
+^bamboo$	b æ m b uː	English
+^banana$	b ə n ɑː n ə	English
+^bank$	b æ ŋ k	English
+^banyan$	???	English
+^bark$	b ɑː k	English
+^barley$	b ɑː l ɪ	English
+^barter$	b ɑː t ə ɹ	English
+^basket$	b ɑː s k ɪ t	English
+^bat$	b æ t	English
+^bathe$	b eɪ ð	English
+^battery$	b æ t ə r ɪ	English
+^battle$	b æ t l̩	English
+^battle-axe$	b æ t l̩ æ k s	English
+^bay$	b eɪ	English
+^be$	b iː	English
+^be born$	???	English
+^bead$	b iː d	English
+^beak$	b iː k	English
+^beam$	b iː m	English
+^bean$	b iː n	English
+^bear$	b ɛə ɹ	English
+^beard$	b ɪə d	English
+^beat$	b iː t	English
+^beautiful$	b j uː t ə f ʊ l	English
+^beaver$	b iː v ə ɹ	English
+^because$	b ɪ k ɒ z	English
+^become$	b ɪ k ʌ m	English
+^bed$	b ɛ d	English
+^bee$	b iː	English
+^beech$	b iː tʃ	English
+^beer$	b ɪə ɹ	English
+^before$	b ɪ f ɔː ɹ	English
+^beget$	b ɪ ɡ ɛ t	English
+^beggar$	b ɛ ɡ ə ɹ	English
+^begin$	b ɪ ɡ ɪ n	English
+^beginning$	b ɪ ɡ ɪ n ɪ ŋ	English
+^behind$	b ɪ h aɪ n d	English
+^believe$	b ɪ l iː v	English
+^belly$	b ɛ l ɪ	English
+^belt$	b ɛ l t	English
+^bend$	b ɛ n d	English
+^beside$	b ɪ s aɪ d	English
+^betray$	b ɪ t r eɪ	English
+^bicycle$	b aɪ s ɪ k l̩	English
+^big$	b ɪ ɡ	English
+^bike$	b aɪ k	English
+^bill$	b ɪ l	English
+^billy-goat$	b ɪ l ɪ ɡ əʊ t	English
+^bind$	b aɪ n d	English
+^birch$	b ɜː tʃ	English
+^bird$	b ɜː d	English
+^birth certificate$	???	English
+^bite$	b aɪ t	English
+^bitter$	b ɪ t ə ɹ	English
+^black$	b l æ k	English
+^blacksmith$	b l æ k s m ɪ θ	English
+^blame$	b l eɪ m	English
+^blanket$	b l æ ŋ k ɪ t	English
+^bless$	b l ɛ s	English
+^blind$	b l aɪ n d	English
+^blink$	b l ɪ ŋ k	English
+^blister$	b l ɪ s t ə ɹ	English
+^blood$	b l ʌ d	English
+^blow$	b l əʊ	English
+^blue$	b l uː	English
+^blunt$	b l ʌ n t	English
+^boar$	b ɔː ɹ	English
+^board$	b ɔː d	English
+^boast$	b əʊ s t	English
+^boat$	b əʊ t	English
+^body$	b ɒ d ɪ	English
+^boil$	b ɔɪ l	English
+^bolt$	b əʊ l t	English
+^bomb$	b ɒ m	English
+^bone$	b əʊ n	English
+^book$	b ʊ k	English
+^boomerang$	b uː m ə r æ ŋ	English
+^boot$	b uː t	English
+^booty$	b uː t ɪ	English
+^bore$	b ɔː ɹ	English
+^borrow$	b ɒ r əʊ	English
+^bottle$	b ɒ t l̩	English
+^bottom$	b ɒ t ə m	English
+^boundary$	b aʊ n d ə r ɪ	English
+^bow$	b aʊ b əʊ	English
+^bowl$	b əʊ l	English
+^boy$	b ɔɪ	English
+^bracelet$	b r eɪ s l ɪ t	English
+^brackish$	b r æ k ɪ ʃ	English
+^braid$	b r eɪ d	English
+^brain$	b r eɪ n	English
+^brake$	b r eɪ k	English
+^branch$	b r ɑː n tʃ	English
+^brave$	b r eɪ v	English
+^bread$	b r ɛ d	English
+^break$	b r eɪ k	English
+^breakfast$	b r ɛ k f ə s t	English
+^breast$	b r ɛ s t	English
+^breathe$	b r iː ð	English
+^brick$	b r ɪ k	English
+^bridge$	b r ɪ dʒ	English
+^bright$	b r aɪ t	English
+^bring$	b r ɪ ŋ	English
+^broken$	b r əʊ k ə n	English
+^broom$	b r uː m	English
+^brother$	b r ʌ ð ə ɹ	English
+^bruise$	b r uː z	English
+^brush$	b r ʌ ʃ	English
+^buffalo$	b ʌ f ə l əʊ	English
+^build$	b ɪ l d	English
+^bull$	b ʊ l	English
+^bunch$	b ʌ n tʃ	English
+^burn$	b ɜː n	English
+^bury$	b ɛ r ɪ	English
+^bus$	b ʌ s	English
+^butter$	b ʌ t ə ɹ	English
+^butterfly$	b ʌ t ə f l aɪ	English
+^buttocks$	b ʌ t ə k s	English
+^button$	b ʌ t n̩	English
+^buy$	b aɪ	English
+^calendar$	k æ l ɪ n d ə ɹ	English
+^calf$	k ɑː f	English
+^call (1)$	k ɔː l	English
+^call (2)$	k ɔː l	English
+^calm$	k ɑː m	English
+^camel$	k æ m l̩	English
+^camp$	k æ m p	English
+^candle$	k æ n d l̩	English
+^canoe$	k ə n uː	English
+^cap$	k æ p	English
+^cape$	k eɪ p	English
+^captive$	k æ p t ɪ v	English
+^car$	k ɑː ɹ	English
+^carcass$	k ɑː k ə s	English
+^caribou$	k æ r ɪ b uː	English
+^carpenter$	k ɑː p ə n t ə ɹ	English
+^carpet$	k ɑː p ɪ t	English
+^carry$	k æ r ɪ	English
+^cart$	k ɑː t	English
+^carve$	k ɑː v	English
+^cassava$	k ə s ɑː v ə	English
+^cast$	k ɑː s t	English
+^castle$	k ɑː s l̩	English
+^cat$	k æ t	English
+^catch$	k æ tʃ	English
+^cattle$	k æ t l̩	English
+^cause$	k ɔː z	English
+^cave$	k eɪ v	English
+^cease$	s iː s	English
+^centipede$	s ɛ n t ɪ p iː d	English
+^certain$	s ɜː t n̩	English
+^chain$	tʃ eɪ n	English
+^chair$	tʃ ɛə ɹ	English
+^chameleon$	k ə m iː l j ə n	English
+^change$	tʃ eɪ n dʒ	English
+^charcoal$	tʃ ɑː k əʊ l	English
+^chase$	tʃ eɪ s	English
+^cheap$	tʃ iː p	English
+^cheek$	tʃ iː k	English
+^cheese$	tʃ iː z	English
+^chest$	tʃ ɛ s t	English
+^chew$	tʃ uː	English
+^chicken$	tʃ ɪ k ɪ n	English
+^chieftain$	tʃ iː f t ə n	English
+^child$	tʃ aɪ l d	English
+^chili (pepper)$	???	English
+^chimney$	tʃ ɪ m n ɪ	English
+^chin$	tʃ ɪ n	English
+^chisel$	tʃ ɪ z l̩	English
+^choke$	tʃ əʊ k	English
+^choose$	tʃ uː z	English
+^chop$	tʃ ɒ p	English
+^church$	tʃ ɜː tʃ	English
+^cigarette$	s ɪ ɡ ə r ɛ t	English
+^circle$	s ɜː k l̩	English
+^circumcision$	s ɜː k ə m s ɪ ʒ n̩	English
+^citizen$	s ɪ t ɪ z n̩	English
+^citrus$	s ɪ t r ə s	English
+^city$	s ɪ t ɪ	English
+^clan$	k l æ n	English
+^claw$	k l ɔː	English
+^clay$	k l eɪ	English
+^clean$	k l iː n	English
+^clear$	k l ɪə ɹ	English
+^clever$	k l ɛ v ə ɹ	English
+^cliff$	k l ɪ f	English
+^climb$	k l aɪ m	English
+^cloak$	k l əʊ k	English
+^clock$	k l ɒ k	English
+^close$	k l əʊ z k l əʊ s	English
+^cloth$	k l ɒ θ	English
+^clothes$	k l əʊ ð z	English
+^cloud$	k l aʊ d	English
+^club$	k l ʌ b	English
+^coat$	k əʊ t	English
+^cock$	k ɒ k	English
+^cockroach$	k ɒ k r əʊ tʃ	English
+^coconut$	k əʊ k ə n ʌ t	English
+^coffee$	k ɒ f ɪ	English
+^coin$	k ɔɪ n	English
+^cold$	k əʊ l d	English
+^collar$	k ɒ l ə ɹ	English
+^collarbone$	k ɒ l ə b əʊ n	English
+^collect$	k ɒ l ɛ k t k ə l ɛ k t	English
+^colour$	k ʌ l ə ɹ	English
+^colt$	k əʊ l t	English
+^comb$	k əʊ m	English
+^come$	k ʌ m	English
+^come back$	k ʌ m b æ k	English
+^command$	k ə m ɑː n d	English
+^conceive$	k ə n s iː v	English
+^condemn$	k ə n d ɛ m	English
+^cone$	k əʊ n	English
+^convict$	k ɒ n v ɪ k t k ə n v ɪ k t	English
+^cook$	k ʊ k	English
+^cooked$	k ʊ k t	English
+^copper$	k ɒ p ə ɹ	English
+^copulate$	k ɒ p j ʊ l eɪ t	English
+^cormorant$	k ɔː m ə r ə n t	English
+^corn$	k ɔː n	English
+^corner$	k ɔː n ə ɹ	English
+^corpse$	k ɔː p s	English
+^cotton$	k ɒ t n̩	English
+^cough$	k ɒ f	English
+^count$	k aʊ n t	English
+^country$	k ʌ n t r ɪ	English
+^court$	k ɔː t	English
+^cousin$	k ʌ z n̩	English
+^cover$	k ʌ v ə ɹ	English
+^cow$	k aʊ	English
+^coyote$	k ɔɪ əʊ t ɪ	English
+^crawl$	k r ɔː l	English
+^crime$	k r aɪ m	English
+^crocodile$	k r ɒ k ə d aɪ l	English
+^crooked$	k r ʊ k ɪ d k r ʊ k t	English
+^cross$	k r ɒ s	English
+^crouch$	k r aʊ tʃ	English
+^crow$	k r əʊ	English
+^crowd$	k r aʊ d	English
+^crush$	k r ʌ ʃ	English
+^cry$	k r aɪ	English
+^cultivate$	k ʌ l t ɪ v eɪ t	English
+^cup$	k ʌ p	English
+^cure$	k j ʊə ɹ k j ʊə r eɪ	English
+^curse$	k ɜː s	English
+^custom$	k ʌ s t ə m	English
+^cut$	k ʌ t	English
+^damage$	d æ m ɪ dʒ	English
+^dance$	d ɑː n s	English
+^dandruff$	d æ n d r ʌ f	English
+^danger$	d eɪ n dʒ ə ɹ	English
+^dare$	d ɛə ɹ	English
+^dark$	d ɑː k	English
+^darkness$	d ɑː k n ɪ s	English
+^daughter$	d ɔː t ə ɹ	English
+^daughter-in-law$	d ɔː t ə r ɪ n l ɔː	English
+^dawn$	d ɔː n	English
+^day$	d eɪ	English
+^dead$	d ɛ d	English
+^deaf$	d ɛ f	English
+^debt$	d ɛ t	English
+^deceit$	d ɪ s iː t	English
+^deep$	d iː p	English
+^deer$	d ɪə ɹ	English
+^defeat$	d ɪ f iː t	English
+^defecate$	d ɛ f ə k eɪ t	English
+^defend$	d ɪ f ɛ n d	English
+^defendant$	d ɪ f ɛ n d ə n t	English
+^demon$	d iː m ə n	English
+^deny$	d ɪ n aɪ	English
+^descendant$	d ɪ s ɛ n d ə n t	English
+^destroy$	d ɪ s t r ɔɪ	English
+^devil$	d ɛ v l̩	English
+^dew$	d j uː	English
+^die$	d aɪ	English
+^difficult$	d ɪ f ɪ k ə l t	English
+^dig$	d ɪ ɡ	English
+^dinner$	d ɪ n ə ɹ	English
+^dirty$	d ɜː t ɪ	English
+^disappear$	d ɪ s ə p ɪə ɹ	English
+^disease$	d ɪ z iː z	English
+^dish$	d ɪ ʃ	English
+^ditch$	d ɪ tʃ	English
+^dive$	d aɪ v	English
+^divide$	d ɪ v aɪ d	English
+^divorce$	d ɪ v ɔː s	English
+^do$	d uː d əʊ	English
+^doctor$	d ɒ k t ə ɹ	English
+^dog$	d ɒ ɡ	English
+^dolphin$	d ɒ l f ɪ n	English
+^donkey$	d ɒ ŋ k ɪ	English
+^door$	d ɔː ɹ	English
+^doorpost$	???	English
+^doubt$	d aʊ t	English
+^dough$	d əʊ	English
+^dove$	d ʌ v d əʊ v	English
+^down$	d aʊ n	English
+^dream$	d r iː m	English
+^dress$	d r ɛ s	English
+^dribble$	d r ɪ b l̩	English
+^drink$	d r ɪ ŋ k	English
+^drip$	d r ɪ p	English
+^drive$	d r aɪ v	English
+^driving licence$	???	English
+^drop$	d r ɒ p	English
+^drown$	d r aʊ n	English
+^drum$	d r ʌ m	English
+^drunk$	d r ʌ ŋ k	English
+^dry$	d r aɪ	English
+^duck$	d ʌ k	English
+^dull$	d ʌ l	English
+^dust$	d ʌ s t	English
+^dye$	d aɪ	English
+^eagle$	iː ɡ l̩	English
+^ear$	ɪə ɹ	English
+^earlobe$	ɪə l əʊ b	English
+^early$	ɜː l ɪ	English
+^earn$	ɜː n	English
+^earring$	ɪə r ɪ ŋ	English
+^earthquake$	ɜː θ k w eɪ k	English
+^earwax$	ɪə w æ k s	English
+^east$	iː s t	English
+^easy$	iː z ɪ	English
+^eat$	iː t	English
+^edge$	ɛ dʒ	English
+^eel$	iː l	English
+^egg$	ɛ ɡ	English
+^eight$	eɪ t	English
+^elbow$	ɛ l b əʊ	English
+^election$	ɪ l ɛ k ʃ n̩	English
+^electricity$	ɪ l ɛ k t r ɪ s ə t ɪ	English
+^elephant$	ɛ l ɪ f ə n t	English
+^eleven$	ɪ l ɛ v n̩	English
+^elf$	ɛ l f	English
+^elk$	ɛ l k	English
+^embers$	ɛ m b ə z	English
+^embrace$	ɪ m b r eɪ s	English
+^empty$	ɛ m p t ɪ	English
+^end$	ɛ n d	English
+^enemy$	ɛ n ə m ɪ	English
+^enough$	ɪ n ʌ f	English
+^enter$	ɛ n t ə ɹ	English
+^envy$	ɛ n v ɪ	English
+^evening$	iː v n̩ ɪ ŋ	English
+^ewe$	j uː	English
+^expensive$	ɪ k s p ɛ n s ɪ v	English
+^explain$	ɪ k s p l eɪ n	English
+^extinguish$	ɪ k s t ɪ ŋ ɡ w ɪ ʃ	English
+^eye$	aɪ	English
+^eyebrow$	aɪ b r aʊ	English
+^eyelash$	aɪ l æ ʃ	English
+^eyelid$	aɪ l ɪ d	English
+^face$	f eɪ s	English
+^fairy$	f ɛə r ɪ	English
+^faithful$	f eɪ θ f ʊ l	English
+^fall$	f ɔː l	English
+^falsity$	f ɔː l s ə t ɪ	English
+^family$	f æ m ə l ɪ	English
+^famine$	f æ m ɪ n	English
+^fan$	f æ n	English
+^far$	f ɑː ɹ	English
+^farmer$	f ɑː m ə ɹ	English
+^fart$	f ɑː t	English
+^fast$	f ɑː s t	English
+^fat$	f æ t	English
+^father$	f ɑː ð ə ɹ	English
+^father-in-law$	f ɑː ð ə r ɪ n l ɔː	English
+^fathom$	f æ ð ə m	English
+^fault$	f ɔː l t	English
+^fear$	f ɪə ɹ	English
+^feather$	f ɛ ð ə ɹ	English
+^feel$	f iː l	English
+^felt$	f ɛ l t	English
+^female$	f iː m eɪ l	English
+^fence$	f ɛ n s	English
+^fever$	f iː v ə ɹ	English
+^few$	f j uː	English
+^field$	f iː l d	English
+^fifteen$	f ɪ f t iː n	English
+^fig$	f ɪ ɡ	English
+^fight$	f aɪ t	English
+^film$	f ɪ l m	English
+^fin$	f ɪ n	English
+^find$	f aɪ n d	English
+^fine$	f aɪ n	English
+^finger$	f ɪ ŋ ɡ ə ɹ	English
+^finish$	f ɪ n ɪ ʃ	English
+^fir$	f ɜː ɹ	English
+^fire$	f aɪ ə ɹ	English
+^firefly$	f aɪ ə f l aɪ	English
+^fireplace$	f aɪ ə p l eɪ s	English
+^firewood$	f aɪ ə w ʊ d	English
+^first$	f ɜː s t	English
+^fish$	f ɪ ʃ	English
+^fisherman$	f ɪ ʃ ə m ə n	English
+^fishhook$	???	English
+^fishing line$	???	English
+^fishing net$	???	English
+^five$	f aɪ v	English
+^flame$	f l eɪ m	English
+^flat$	f l æ t	English
+^flea$	f l iː	English
+^flee$	f l iː	English
+^flesh$	f l ɛ ʃ	English
+^float$	f l əʊ t	English
+^floor$	f l ɔː ɹ	English
+^flour$	f l aʊ ə ɹ	English
+^flow$	f l əʊ	English
+^flower$	f l aʊ ə ɹ	English
+^flute$	f l uː t	English
+^fly$	f l aɪ	English
+^foal$	f əʊ l	English
+^foam$	f əʊ m	English
+^fog$	f ɒ ɡ	English
+^fold$	f əʊ l d	English
+^follow$	f ɒ l əʊ	English
+^food$	f uː d	English
+^foot$	f ʊ t	English
+^footprint$	f ʊ t p r ɪ n t	English
+^forbid$	f ə b ɪ d	English
+^forehead$	f ɒ r ɪ d	English
+^forest$	f ɒ r ɪ s t	English
+^forge$	f ɔː dʒ	English
+^forget$	f ə ɡ ɛ t	English
+^forgive$	f ə ɡ ɪ v	English
+^fork$	f ɔː k	English
+^fortress$	f ɔː t r ɪ s	English
+^four$	f ɔː ɹ	English
+^fox$	f ɒ k s	English
+^fragrant$	f r eɪ ɡ r ə n t	English
+^freeman$	f r iː m ə n	English
+^freeze$	f r iː z	English
+^friend$	f r ɛ n d	English
+^frog$	f r ɒ ɡ	English
+^fruit$	f r uː t	English
+^fry$	f r aɪ	English
+^fuck$	f ʌ k	English
+^full$	f ʊ l	English
+^fur$	f ɜː ɹ	English
+^furrow$	f ʌ r əʊ	English
+^garden$	ɡ ɑː d n̩	English
+^gate$	ɡ eɪ t	English
+^gather$	ɡ æ ð ə ɹ	English
+^get$	ɡ ɛ t	English
+^ghost$	ɡ əʊ s t	English
+^gill$	ɡ ɪ l dʒ ɪ l	English
+^girl$	ɡ ɜː l	English
+^give$	ɡ ɪ v	English
+^give back$	ɡ ɪ v b æ k	English
+^glad$	ɡ l æ d	English
+^glass$	ɡ l ɑː s	English
+^glasses$	ɡ l ɑː s ɪ z	English
+^glove$	ɡ l ʌ v	English
+^glue$	ɡ l uː	English
+^gnat$	n æ t	English
+^go$	ɡ əʊ	English
+^go down$	ɡ əʊ d aʊ n	English
+^go out$	ɡ əʊ aʊ t	English
+^go up$	ɡ əʊ ʌ p	English
+^goat$	ɡ əʊ t	English
+^god$	ɡ ɒ d	English
+^goitre$	ɡ ɔɪ t ə ɹ	English
+^gold$	ɡ əʊ l d	English
+^good$	ɡ ʊ d	English
+^goose$	ɡ uː s	English
+^gourd$	ɡ ʊə d	English
+^govern$	ɡ ʌ v n̩	English
+^government$	ɡ ʌ v n̩ m ə n t	English
+^grain$	ɡ r eɪ n	English
+^grandchild$	ɡ r æ n tʃ aɪ l d	English
+^granddaughter$	ɡ r æ n d ɔː t ə ɹ	English
+^grandfather$	ɡ r æ n d f ɑː ð ə ɹ	English
+^grandmother$	ɡ r æ n m ʌ ð ə ɹ	English
+^grandparent$	ɡ r æ n p ɛə r ə n t	English
+^grandson$	ɡ r æ n s ʌ n	English
+^grape$	ɡ r eɪ p	English
+^grasp$	ɡ r ɑː s p	English
+^grass$	ɡ r ɑː s	English
+^grass-skirt$	???	English
+^grasshopper$	ɡ r ɑː s h ɒ p ə ɹ	English
+^grave$	ɡ r ɑː v ɡ r eɪ v	English
+^grease$	ɡ r iː s ɡ r iː z	English
+^greedy$	ɡ r iː d ɪ	English
+^green$	ɡ r iː n	English
+^grief$	ɡ r iː f	English
+^grind$	ɡ r aɪ n d	English
+^groan$	ɡ r əʊ n	English
+^grow$	ɡ r əʊ	English
+^guard$	ɡ ɑː d	English
+^guess$	ɡ ɛ s	English
+^guest$	ɡ ɛ s t	English
+^guilty$	ɡ ɪ l t ɪ	English
+^gums$	ɡ ʌ m z	English
+^gun$	ɡ ʌ n	English
+^guts$	ɡ ʌ t s	English
+^hair$	h ɛə ɹ	English
+^half$	h ɑː f	English
+^hall$	h ɔː l	English
+^hammer$	h æ m ə ɹ	English
+^hammock$	h æ m ə k	English
+^hand$	h æ n d	English
+^handkerchief$	h æ ŋ k ə tʃ ɪ f	English
+^hang$	h æ ŋ	English
+^hankie$	???	English
+^happy$	h æ p ɪ	English
+^hard$	h ɑː d	English
+^hare$	h ɛə ɹ	English
+^harm$	h ɑː m	English
+^harvest$	h ɑː v ɪ s t	English
+^hat$	h æ t	English
+^hate$	h eɪ t	English
+^have$	h æ v	English
+^hawk$	h ɔː k	English
+^hay$	h eɪ	English
+^he$	h iː	English
+^head$	h ɛ d	English
+^headband$	h ɛ d b æ n d	English
+^heal$	h iː l	English
+^healthy$	h ɛ l θ ɪ	English
+^hear$	h ɪə ɹ	English
+^heart$	h ɑː t	English
+^heaven$	h ɛ v n̩	English
+^heavy$	h ɛ v ɪ	English
+^heel$	h iː l	English
+^hell$	h ɛ l	English
+^helmet$	h ɛ l m ɪ t	English
+^help$	h ɛ l p	English
+^hen$	h ɛ n	English
+^herdsman$	h ɜː d z m ə n	English
+^here$	h ɪə ɹ	English
+^heron$	h ɛ r ə n	English
+^hiccough$	???	English
+^hide$	h aɪ d	English
+^high$	h aɪ	English
+^high tide$	h aɪ t aɪ d	English
+^hill$	h ɪ l	English
+^hip$	h ɪ p	English
+^hire$	h aɪ ə ɹ	English
+^hit$	h ɪ t	English
+^hive$	h aɪ v	English
+^hoe$	h əʊ	English
+^hold$	h əʊ l d	English
+^hole$	h əʊ l	English
+^hollow$	h ɒ l əʊ	English
+^holy$	h əʊ l ɪ	English
+^homeland$	h əʊ m l æ n d	English
+^honey$	h ʌ n ɪ	English
+^hook$	h ʊ k	English
+^hope$	h əʊ p	English
+^horn$	h ɔː n	English
+^horse$	h ɔː s	English
+^hospital$	h ɒ s p ɪ t l̩	English
+^host$	h əʊ s t	English
+^hot$	h ɒ t	English
+^hour$	aʊ ə ɹ	English
+^house$	h aʊ s h aʊ z	English
+^how many?$	???	English
+^how much?$	???	English
+^how?$	???	English
+^howl$	h aʊ l	English
+^hug$	h ʌ ɡ	English
+^hundred$	h ʌ n d r ə d	English
+^hungry$	h ʌ ŋ ɡ r ɪ	English
+^hunt$	h ʌ n t	English
+^hurry$	h ʌ r ɪ	English
+^hurt$	h ɜː t	English
+^husband$	h ʌ z b ə n d	English
+^hut$	h ʌ t	English
+^ice$	aɪ s	English
+^idea$	aɪ d ɪə	English
+^idol$	aɪ d l̩	English
+^if$	ɪ f	English
+^ill$	ɪ l	English
+^imitate$	ɪ m ɪ t eɪ t	English
+^immediately$	ɪ m iː d j ə t l ɪ	English
+^in$	ɪ n	English
+^in front of$	???	English
+^injection$	ɪ n dʒ ɛ k ʃ n̩	English
+^injure$	ɪ n dʒ ə ɹ	English
+^innocent$	ɪ n ə s n̩ t	English
+^insect$	ɪ n s ɛ k t	English
+^inside$	ɪ n s aɪ d	English
+^intention$	ɪ n t ɛ n ʃ n̩	English
+^intestines$	ɪ n t ɛ s t ɪ n z	English
+^invite$	ɪ n v aɪ t	English
+^iron$	aɪ ə n	English
+^island$	aɪ l ə n d	English
+^it$	ɪ t	English
+^itch$	ɪ tʃ	English
+^jaguar$	dʒ æ ɡ j ʊə ɹ	English
+^jaw$	dʒ ɔː	English
+^jealous$	dʒ ɛ l ə s	English
+^jewel$	dʒ uː ə l	English
+^join$	dʒ ɔɪ n	English
+^judge$	dʒ ʌ dʒ	English
+^judgment$	???	English
+^jug$	dʒ ʌ ɡ	English
+^jump$	dʒ ʌ m p	English
+^kangaroo$	k æ ŋ ɡ ə r uː	English
+^keep$	k iː p	English
+^kettle$	k ɛ t l̩	English
+^key$	k iː	English
+^kick$	k ɪ k	English
+^kid$	k ɪ d	English
+^kidney$	k ɪ d n ɪ	English
+^kill$	k ɪ l	English
+^king$	k ɪ ŋ	English
+^kiss$	k ɪ s	English
+^kitchen$	k ɪ tʃ ɪ n	English
+^knead$	n iː d	English
+^knee$	n iː	English
+^kneel$	n iː l	English
+^knife$	n aɪ f	English
+^knot$	n ɒ t	English
+^know$	n əʊ	English
+^ladder$	l æ d ə ɹ	English
+^lagoon$	l ə ɡ uː n	English
+^lake$	l eɪ k	English
+^lamb$	l æ m	English
+^lame$	l ɑː m eɪ l eɪ m	English
+^lamp$	l æ m p	English
+^land$	l æ n d	English
+^language$	l æ ŋ ɡ w ɪ dʒ	English
+^larch$	l ɑː tʃ	English
+^large$	l ɑː dʒ	English
+^lasso$	l æ s uː	English
+^last$	l ɑː s t	English
+^latch$	l æ tʃ	English
+^late$	l eɪ t	English
+^laugh$	l ɑː f	English
+^law$	l ɔː	English
+^lazy$	l eɪ z ɪ	English
+^lead$	l ɛ d l iː d	English
+^leaf$	l iː f	English
+^learn$	l ɜː n	English
+^leather$	l ɛ ð ə ɹ	English
+^leave$	l iː v	English
+^left$	l ɛ f t	English
+^leg$	l ɛ ɡ	English
+^lemon$	l ɛ m ə n	English
+^lend$	l ɛ n d	English
+^let go$	???	English
+^letter$	l ɛ t ə ɹ	English
+^liberate$	l ɪ b ə r eɪ t	English
+^lick$	l ɪ k	English
+^lie$	l aɪ	English
+^lie down$	l aɪ d aʊ n	English
+^life$	l aɪ f	English
+^lift$	l ɪ f t	English
+^light$	l aɪ t	English
+^lightning$	l aɪ t n ɪ ŋ	English
+^lightning bolt$	???	English
+^limp$	l ɪ m p	English
+^line$	l aɪ n	English
+^linen$	l ɪ n ɪ n	English
+^lion$	l aɪ ə n	English
+^lip$	l ɪ p	English
+^listen$	l ɪ s n̩	English
+^little$	l ɪ t l̩	English
+^live$	l aɪ v l ɪ v	English
+^liver$	l ɪ v ə ɹ	English
+^livestock$	l aɪ v s t ɒ k	English
+^lizard$	l ɪ z ə d	English
+^lock$	l ɒ k	English
+^long$	l ɒ ŋ	English
+^look$	l ʊ k	English
+^look for$	l ʊ k f ɔː ɹ	English
+^loom$	l uː m	English
+^lose$	l uː z	English
+^loud$	l aʊ d	English
+^louse$	l aʊ s	English
+^love$	l ʌ v	English
+^low$	l əʊ	English
+^low tide$	l əʊ t aɪ d	English
+^lunch$	l ʌ n tʃ	English
+^lung$	l ʌ ŋ	English
+^machine$	m ə ʃ iː n	English
+^mad$	m æ d	English
+^magic$	m æ dʒ ɪ k	English
+^mainland$	m eɪ n l ə n d	English
+^maize$	m eɪ z	English
+^make$	m eɪ k	English
+^make love$	???	English
+^male$	m eɪ l	English
+^man$	m æ n	English
+^manioc$	m æ n ɪ ɒ k	English
+^manner$	m æ n ə ɹ	English
+^many$	m ɛ n ɪ	English
+^mare$	m ɛə ɹ m ɑː r eɪ	English
+^market$	m ɑː k ɪ t	English
+^marry$	m æ r ɪ	English
+^mason$	m eɪ s n̩	English
+^mast$	m ɑː s t	English
+^master$	m ɑː s t ə ɹ	English
+^mat$	m æ t	English
+^match$	m æ tʃ	English
+^mattress$	m æ t r ɪ s	English
+^mead$	m iː d	English
+^meal$	m iː l	English
+^mean$	m iː n	English
+^measure$	m ɛ ʒ ə ɹ	English
+^meat$	m iː t	English
+^medicine$	m ɛ d s ɪ n	English
+^meet$	m iː t	English
+^merchant$	m ɜː tʃ ə n t	English
+^midday$	m ɪ d d eɪ	English
+^middle$	m ɪ d l̩	English
+^midge$	m ɪ dʒ	English
+^milk$	m ɪ l k	English
+^mill$	m ɪ l	English
+^millet$	m ɪ l ɪ t	English
+^mind$	m aɪ n d	English
+^minister$	m ɪ n ɪ s t ə ɹ	English
+^mirror$	m ɪ r ə ɹ	English
+^miss$	m ɪ s	English
+^mistake$	m ɪ s t eɪ k	English
+^mix$	m ɪ k s	English
+^molar (tooth)$	???	English
+^money$	m ʌ n ɪ	English
+^monkey$	m ʌ ŋ k ɪ	English
+^month$	m ʌ n θ	English
+^moon$	m uː n	English
+^moose$	m uː s	English
+^more$	m ɔː ɹ	English
+^morning$	m ɔː n ɪ ŋ	English
+^mortar$	m ɔː t ə ɹ	English
+^mosque$	m ɒ s k	English
+^mosquito$	m ə s k iː t əʊ	English
+^mother$	m ʌ ð ə ɹ	English
+^mother-in-law$	m ʌ ð ə r ɪ n l ɔː	English
+^motor$	m əʊ t ə ɹ	English
+^motorcycle$	m əʊ t ə s aɪ k l̩	English
+^mould$	m əʊ l d	English
+^mountain$	m aʊ n t ɪ n	English
+^mouse$	m aʊ s m aʊ z	English
+^mouth$	m aʊ ð m aʊ θ	English
+^move$	m uː v	English
+^mow$	m əʊ	English
+^mud$	m ʌ d	English
+^mule$	m j uː l	English
+^mumble$	m ʌ m b l̩	English
+^murder$	m ɜː d ə ɹ	English
+^mushroom$	m ʌ ʃ r ʊ m	English
+^music$	m j uː z ɪ k	English
+^mute$	m j uː t	English
+^nail$	n eɪ l	English
+^naked$	n eɪ k ɪ d	English
+^name$	n eɪ m	English
+^nape$	n eɪ p	English
+^narrow$	n æ r əʊ	English
+^navel$	n eɪ v l̩	English
+^near$	n ɪə ɹ	English
+^necessity$	n ɪ s ɛ s ə t ɪ	English
+^neck$	n ɛ k	English
+^necklace$	n ɛ k l ɪ s	English
+^need$	n iː d	English
+^needle$	n iː d l̩	English
+^neighbour$	n eɪ b ə ɹ	English
+^nephew$	n ɛ v j uː	English
+^nest$	n ɛ s t	English
+^netbag$	???	English
+^nettle$	n ɛ t l̩	English
+^never$	n ɛ v ə ɹ	English
+^new$	n j uː	English
+^newspaper$	n j uː s p eɪ p ə ɹ	English
+^next$	n ɛ k s t	English
+^niece$	n iː s	English
+^night$	n aɪ t	English
+^nine$	n aɪ n	English
+^nipple$	n ɪ p l̩	English
+^nit$	n ɪ t	English
+^no$	n əʊ	English
+^noble$	n əʊ b l̩	English
+^noon$	n uː n	English
+^north$	n ɔː θ	English
+^northern lights$	n ɔː ð n̩ l aɪ t s	English
+^nose$	n əʊ z	English
+^nostril$	n ɒ s t r ə l	English
+^not$	n ɒ t	English
+^nothing$	n ʌ θ ɪ ŋ	English
+^now$	n aʊ	English
+^number$	n ʌ m b ə ɹ	English
+^number plate$	???	English
+^nurse$	n ɜː s	English
+^nut$	n ʌ t	English
+^oak$	əʊ k	English
+^oar$	ɔː ɹ	English
+^oat$	əʊ t	English
+^oath$	əʊ θ	English
+^obey$	ə b eɪ	English
+^obscure$	ə b s k j ʊə ɹ	English
+^ocean$	əʊ ʃ n̩	English
+^often$	ɒ f n̩	English
+^oil$	ɔɪ l	English
+^ointment$	ɔɪ n t m ə n t	English
+^old$	əʊ l d	English
+^old man$	əʊ l d m æ n	English
+^old woman$	əʊ l d w ʊ m ə n	English
+^olive$	ɒ l ɪ v	English
+^omen$	əʊ m ɛ n	English
+^one$	w ʌ n	English
+^only$	əʊ n l ɪ	English
+^open$	əʊ p ə n	English
+^opossum$	ə p ɒ s ə m	English
+^or$	ɔː ɹ	English
+^orange$	ɒ r ɪ n dʒ	English
+^order$	ɔː d ə ɹ	English
+^ornament$	ɔː n ə m ə n t ɔː n ə m ɛ n t	English
+^orphan$	ɔː f n̩	English
+^other$	ʌ ð ə ɹ	English
+^outrigger$	aʊ t r ɪ ɡ ə ɹ	English
+^outside$	aʊ t s aɪ d	English
+^oven$	ʌ v n̩	English
+^owe$	əʊ	English
+^owl$	aʊ l	English
+^own$	əʊ n	English
+^ox$	ɒ k s	English
+^paddle$	p æ d l̩	English
+^paddy$	p æ d ɪ	English
+^padlock$	p æ d l ɒ k	English
+^pain$	p eɪ n	English
+^paint$	p eɪ n t	English
+^pair$	p ɛə ɹ	English
+^palm$	p ɑː m	English
+^pan$	p æ n	English
+^paper$	p eɪ p ə ɹ	English
+^pardon$	p ɑː d n̩	English
+^parent$	p ɛə r ə n t	English
+^parrot$	p æ r ə t	English
+^part$	p ɑː t	English
+^pasture$	p ɑː s tʃ ə ɹ	English
+^path$	p ɑː θ	English
+^pay$	p eɪ	English
+^peace$	p iː s	English
+^peel$	p iː l	English
+^peg$	p ɛ ɡ	English
+^pen$	p ɛ n	English
+^penis$	p iː n ɪ s	English
+^people$	p iː p l̩	English
+^pepper$	p ɛ p ə ɹ	English
+^perjury$	p ɜː dʒ ə r ɪ	English
+^person$	p ɜː s n̩	English
+^pestle$	p ɛ s l̩	English
+^petrol(eum)$	???	English
+^pick up$	p ɪ k ʌ p	English
+^piece$	p iː s	English
+^pig$	p ɪ ɡ	English
+^pile up$	p aɪ l ʌ p	English
+^pill$	p ɪ l	English
+^pillow$	p ɪ l əʊ	English
+^pin$	p ɪ n	English
+^pinch$	p ɪ n tʃ	English
+^pine$	p aɪ n	English
+^pipe$	p aɪ p	English
+^piss$	p ɪ s	English
+^pitchfork$	p ɪ tʃ f ɔː k	English
+^pity$	p ɪ t ɪ	English
+^place$	p l eɪ s	English
+^plain$	p l eɪ n	English
+^plaintiff$	p l eɪ n t ɪ f	English
+^plait$	p l æ t	English
+^plant$	p l ɑː n t	English
+^plastic$	p l æ s t ɪ k	English
+^plate$	p l eɪ t	English
+^play$	p l eɪ	English
+^plot$	p l ɒ t	English
+^plough$	p l aʊ	English
+^pocket$	p ɒ k ɪ t	English
+^poet$	p əʊ ɪ t	English
+^pointed$	p ɔɪ n t ɪ d	English
+^poison$	p ɔɪ z n̩	English
+^police$	p ə l iː s	English
+^poncho$	p ɒ n tʃ əʊ	English
+^poor$	p ɔː ɹ	English
+^porpoise$	p ɔː p ə s	English
+^port$	p ɔː t	English
+^post$	p əʊ s t	English
+^postcard$	p əʊ s t k ɑː d	English
+^pot$	p ɒ t	English
+^potato$	p ə t eɪ t əʊ	English
+^potter$	p ɒ t ə ɹ	English
+^poultry$	p əʊ l t r ɪ	English
+^pound$	p aʊ n d	English
+^pour$	p ɔː ɹ	English
+^praise$	p r eɪ z	English
+^prawn$	p r ɔː n	English
+^pray$	p r eɪ	English
+^preach$	p r iː tʃ	English
+^precipice$	p r ɛ s ɪ p ɪ s	English
+^pregnant$	p r ɛ ɡ n ə n t	English
+^preserve$	p r ɪ z ɜː v	English
+^president$	p r ɛ z ɪ d ə n t	English
+^press$	p r ɛ s	English
+^prevent$	p r ɪ v ɛ n t	English
+^price$	p r aɪ s	English
+^priest$	p r iː s t	English
+^prison$	p r ɪ z n̩	English
+^prisoner$	p r ɪ z n̩ ə ɹ	English
+^promise$	p r ɒ m ɪ s	English
+^prostitute$	p r ɒ s t ɪ t j uː t	English
+^proud$	p r aʊ d	English
+^pubic hair$	???	English
+^puke$	p j uː k	English
+^pull$	p ʊ l	English
+^pumpkin$	p ʌ m p k ɪ n	English
+^punishment$	p ʌ n ɪ ʃ m ə n t	English
+^pupil$	p j uː p l̩	English
+^pursue$	p ə s j uː	English
+^pus$	p ʌ s	English
+^push$	p ʊ ʃ	English
+^put$	p ʊ t	English
+^put on$	p ʊ t ɒ n	English
+^quail$	k w eɪ l	English
+^quarrel$	k w ɒ r ə l	English
+^queen$	k w iː n	English
+^quick$	k w ɪ k	English
+^quiet$	k w aɪ ə t	English
+^rabbit$	r æ b ɪ t	English
+^raccoon$	r ə k uː n	English
+^radio$	r eɪ d ɪə ʊ	English
+^raft$	r ɑː f t	English
+^rafter$	r ɑː f t ə ɹ	English
+^rag$	r æ ɡ	English
+^rain$	r eɪ n	English
+^rainbow$	r eɪ n b əʊ	English
+^raise$	r eɪ z	English
+^rake$	r eɪ k	English
+^ram$	r æ m	English
+^rape$	r eɪ p	English
+^rat$	r æ t	English
+^rattle$	r æ t l̩	English
+^raw$	r ɔː	English
+^razor$	r eɪ z ə ɹ	English
+^read$	r ɛ d r iː d	English
+^ready$	r ɛ d ɪ	English
+^red$	r ɛ d	English
+^reef$	r iː f	English
+^refuse$	r ɪ f j uː z r ɛ f j uː s	English
+^regret$	r ɪ ɡ r ɛ t	English
+^reindeer$	r eɪ n d ɪə ɹ	English
+^relative$	r ɛ l ə t ɪ v	English
+^religion$	r ɪ l ɪ dʒ ə n	English
+^remain$	r ɪ m eɪ n	English
+^remains$	r ɪ m eɪ n z	English
+^remember$	r ɪ m ɛ m b ə ɹ	English
+^reply$	r ɪ p l aɪ	English
+^rescue$	r ɛ s k j uː	English
+^rest$	r ɛ s t	English
+^retreat$	r ɪ t r iː t	English
+^return$	r ɪ t ɜː n	English
+^rib$	r ɪ b	English
+^rice$	r aɪ s	English
+^rich$	r ɪ tʃ	English
+^ride$	r aɪ d	English
+^ridgepole$	r ɪ dʒ p əʊ l	English
+^right$	r aɪ t	English
+^ring$	r ɪ ŋ	English
+^ripe$	r aɪ p	English
+^rise$	r aɪ z	English
+^river$	r ɪ v ə ɹ	English
+^road$	r əʊ d	English
+^roast$	r əʊ s t r ɔː s t	English
+^rock$	r ɒ k	English
+^roll$	r əʊ l	English
+^roof$	r uː f	English
+^room$	r uː m	English
+^rooster$	r uː s t ə ɹ	English
+^root$	r uː t	English
+^rope$	r əʊ p	English
+^rotten$	r ɒ t n̩	English
+^rough$	r ʌ f	English
+^round$	r aʊ n d	English
+^row$	r aʊ r əʊ	English
+^rub$	r ʌ b	English
+^rudder$	r ʌ d ə ɹ	English
+^rug$	r ʌ ɡ	English
+^rule$	r uː l	English
+^run$	r ʌ n	English
+^rye$	r aɪ	English
+^sacrifice$	s æ k r ɪ f aɪ s	English
+^sail$	s eɪ l	English
+^salt$	s ɔː l t	English
+^salty$	s ɔː l t ɪ	English
+^same$	s eɪ m	English
+^sand$	s æ n d	English
+^sap$	s æ p	English
+^saucer$	s ɔː s ə ɹ	English
+^sausage$	s ɒ s ɪ dʒ	English
+^savanna$	s ə v æ n ə	English
+^saw$	s ɔː	English
+^say$	s eɪ	English
+^scale$	s k eɪ l	English
+^scar$	s k ɑː ɹ	English
+^school$	s k uː l	English
+^scissors$	s ɪ z ə z	English
+^scold$	s k əʊ l d	English
+^scorpion$	s k ɔː p j ə n	English
+^scrape$	s k r eɪ p	English
+^scratch$	s k r æ tʃ	English
+^screw$	s k r uː	English
+^screwdriver$	s k r uː d r aɪ v ə ɹ	English
+^sculptor$	s k ʌ l p t ə ɹ	English
+^scythe$	s aɪ ð	English
+^sea$	s iː	English
+^season$	s iː z n̩	English
+^second$	s ɪ k ɒ n d s ɛ k ə n d	English
+^secret$	s iː k r ɪ t	English
+^see$	s iː	English
+^seed$	s iː d	English
+^seek$	s iː k	English
+^seem$	s iː m	English
+^sell$	s ɛ l	English
+^send$	s ɛ n d	English
+^separate$	s ɛ p ə r eɪ t s ɛ p r ə t	English
+^servant$	s ɜː v ə n t	English
+^seven$	s ɛ v n̩	English
+^sew$	s əʊ	English
+^shade$	ʃ eɪ d	English
+^shadow$	ʃ æ d əʊ	English
+^shake$	ʃ eɪ k	English
+^shallow$	ʃ æ l əʊ	English
+^shame$	ʃ eɪ m	English
+^share$	ʃ ɛə ɹ	English
+^shark$	ʃ ɑː k	English
+^sharp$	ʃ ɑː p	English
+^she$	ʃ iː	English
+^shears$	ʃ ɪə z	English
+^shed$	ʃ ɛ d	English
+^sheep$	ʃ iː p	English
+^shelf$	ʃ ɛ l f	English
+^shell$	ʃ ɛ l	English
+^shield$	ʃ iː l d	English
+^shine$	ʃ aɪ n	English
+^ship$	ʃ ɪ p	English
+^shirt$	ʃ ɜː t	English
+^shit$	ʃ ɪ t	English
+^shiver$	ʃ ɪ v ə ɹ	English
+^shoe$	ʃ uː	English
+^shoemaker$	ʃ uː m eɪ k ə ɹ	English
+^shoot$	ʃ uː t	English
+^shop$	ʃ ɒ p	English
+^shore$	ʃ ɔː ɹ	English
+^short$	ʃ ɔː t	English
+^shoulder$	ʃ əʊ l d ə ɹ	English
+^shoulderblade$	???	English
+^shout$	ʃ aʊ t	English
+^shovel$	ʃ ʌ v l̩	English
+^show$	ʃ əʊ	English
+^shriek$	ʃ r iː k	English
+^shrimp$	ʃ r ɪ m p	English
+^shut$	ʃ ʌ t	English
+^sibling$	s ɪ b l ɪ ŋ	English
+^sick$	s ɪ k	English
+^sickle$	s ɪ k l̩	English
+^side$	s aɪ d	English
+^sieve$	s ɪ v	English
+^silk$	s ɪ l k	English
+^silver$	s ɪ l v ə ɹ	English
+^similar$	s ɪ m ɪ l ə ɹ	English
+^sinew$	s ɪ n j uː	English
+^sing$	s ɪ ŋ	English
+^sink$	s ɪ ŋ k	English
+^sister$	s ɪ s t ə ɹ	English
+^sit$	s ɪ t	English
+^six$	s ɪ k s	English
+^skin$	s k ɪ n	English
+^skirt$	s k ɜː t	English
+^skull$	s k ʌ l	English
+^sky$	s k aɪ	English
+^slave$	s l eɪ v	English
+^sledge$	s l ɛ dʒ	English
+^sleep$	s l iː p	English
+^slide$	s l aɪ d	English
+^sling$	s l ɪ ŋ	English
+^slip$	s l ɪ p	English
+^slow$	s l əʊ	English
+^small$	s m ɔː l	English
+^smart$	s m ɑː t	English
+^smell$	s m ɛ l	English
+^smile$	s m aɪ l	English
+^smoke$	s m əʊ k	English
+^smooth$	s m uː ð	English
+^snail$	s n eɪ l	English
+^snake$	s n eɪ k	English
+^sneeze$	s n iː z	English
+^sniff$	s n ɪ f	English
+^snore$	s n ɔː ɹ	English
+^snot$	s n ɒ t	English
+^snow$	s n əʊ	English
+^snowshoe$	s n əʊ ʃ uː	English
+^soap$	s əʊ p	English
+^sock$	s ɒ k	English
+^soft$	s ɒ f t	English
+^soil$	s ɔɪ l	English
+^soldier$	s əʊ l dʒ ə ɹ	English
+^some$	s ʌ m	English
+^sometimes$	s ʌ m t aɪ m z	English
+^son$	s ʌ n	English
+^son-in-law$	s ʌ n ɪ n l ɔː	English
+^song$	s ɒ ŋ	English
+^soon$	s uː n	English
+^sorcerer$	s ɔː s ə r ə ɹ	English
+^sore$	s ɔː ɹ	English
+^sorry$	s ɒ r ɪ	English
+^soul$	s əʊ l	English
+^sound$	s aʊ n d	English
+^soup$	s uː p	English
+^sour$	s aʊ ə ɹ	English
+^south$	s aʊ θ	English
+^sow$	s aʊ s əʊ	English
+^spade$	s p eɪ d	English
+^speak$	s p iː k	English
+^spear$	s p ɪə ɹ	English
+^speech$	s p iː tʃ	English
+^spider$	s p aɪ d ə ɹ	English
+^spin$	s p ɪ n	English
+^spindle$	s p ɪ n d l̩	English
+^spine$	s p aɪ n	English
+^spirit$	s p ɪ r ɪ t	English
+^spit$	s p ɪ t	English
+^splash$	s p l æ ʃ	English
+^spleen$	s p l iː n	English
+^split$	s p l ɪ t	English
+^spoon$	s p uː n	English
+^spread out$	s p r ɛ d aʊ t	English
+^spring$	s p r ɪ ŋ	English
+^square$	s k w ɛə ɹ	English
+^squash$	s k w ɒ ʃ	English
+^squeeze$	s k w iː z	English
+^squirrel$	s k ɪ r ə l	English
+^stab$	s t æ b	English
+^stable$	s t eɪ b l̩	English
+^stall$	s t ɔː l	English
+^stallion$	s t æ l j ə n	English
+^stammer$	s t æ m ə ɹ	English
+^stamp$	s t æ m p	English
+^stand$	s t æ n d	English
+^star$	s t ɑː ɹ	English
+^start$	s t ɑː t	English
+^statue$	s t æ tʃ uː	English
+^stay$	s t eɪ	English
+^steal$	s t iː l	English
+^steam$	s t iː m	English
+^stepdaughter$	s t ɛ p d ɔː t ə ɹ	English
+^stepfather$	s t ɛ p f ɑː ð ə ɹ	English
+^stepmother$	s t ɛ p m ʌ ð ə ɹ	English
+^stepson$	s t ɛ p s ʌ n	English
+^stick$	s t ɪ k	English
+^stingy$	s t ɪ n dʒ ɪ	English
+^stinking$	s t ɪ ŋ k ɪ ŋ	English
+^stir$	s t ɜː ɹ	English
+^stocking$	s t ɒ k ɪ ŋ	English
+^stomach$	s t ʌ m ə k	English
+^stone$	s t əʊ n	English
+^store$	s t ɔː ɹ	English
+^storm$	s t ɔː m	English
+^stove$	s t əʊ v	English
+^straight$	s t r eɪ t	English
+^strain$	s t r eɪ n	English
+^stranger$	s t r eɪ n dʒ ə ɹ	English
+^stream$	s t r iː m	English
+^street$	s t r iː t	English
+^stretch$	s t r ɛ tʃ	English
+^strike$	s t r aɪ k	English
+^strong$	s t r ɒ ŋ	English
+^study$	s t ʌ d ɪ	English
+^stupid$	s t j uː p ɪ d	English
+^stutter$	s t ʌ t ə ɹ	English
+^suck$	s ʌ k	English
+^sugar$	ʃ ʊ ɡ ə ɹ	English
+^sugar cane$	???	English
+^summer$	s ʌ m ə ɹ	English
+^sun$	s ʌ n	English
+^supper$	s ʌ p ə ɹ	English
+^sure$	ʃ ɔː ɹ	English
+^surprised$	s ə p r aɪ z d	English
+^surrender$	s ə r ɛ n d ə ɹ	English
+^suspect$	s ʌ s p ɛ k t s ə s p ɛ k t	English
+^swallow$	s w ɒ l əʊ	English
+^swamp$	s w ɒ m p	English
+^swear$	s w ɛə ɹ	English
+^sweat$	s w ɛ t	English
+^sweep$	s w iː p	English
+^sweet$	s w iː t	English
+^sweet potato$	s w iː t p ə t eɪ t əʊ	English
+^sweets$	s w iː t s	English
+^swelling$	s w ɛ l ɪ ŋ	English
+^swim$	s w ɪ m	English
+^sword$	s ɔː d	English
+^table$	t eɪ b l̩	English
+^tablet$	t æ b l ɪ t	English
+^tail$	t eɪ l	English
+^tailor$	t eɪ l ə ɹ	English
+^take$	t eɪ k	English
+^talk$	t ɔː k	English
+^tall$	t ɔː l	English
+^tan$	t æ n t æ n dʒ ə n t	English
+^tap$	t æ p	English
+^tapir$	t eɪ p ə ɹ	English
+^taste$	t eɪ s t	English
+^tattoo$	t ə t uː	English
+^tax$	t æ k s	English
+^tea$	t iː	English
+^teach$	t iː tʃ	English
+^teacher$	t iː tʃ ə ɹ	English
+^tear$	t ɪə ɹ t ɛə ɹ	English
+^teat$	t iː t	English
+^telephone$	t ɛ l ɪ f əʊ n	English
+^television$	t ɛ l ɪ v ɪ ʒ n̩	English
+^tell$	t ɛ l	English
+^temple$	t ɛ m p l̩	English
+^temple(s)$	???	English
+^ten$	t ɛ n	English
+^tendon$	t ɛ n d ə n	English
+^tent$	t ɛ n t	English
+^termite$	t ɜː m aɪ t	English
+^testicles$	t ɛ s t ɪ k l̩ z	English
+^that$	ð æ t	English
+^thatch$	θ æ tʃ	English
+^there$	ð ɛə ɹ	English
+^they$	ð eɪ	English
+^thick$	θ ɪ k	English
+^thief$	θ iː f	English
+^thigh$	θ aɪ	English
+^thin$	θ ɪ n	English
+^thing$	θ ɪ ŋ	English
+^think$	θ ɪ ŋ k	English
+^third$	θ ɜː d	English
+^thirsty$	θ ɜː s t ɪ	English
+^this$	ð ɪ s	English
+^thousand$	θ aʊ z n̩ d	English
+^thread$	θ r ɛ d	English
+^threaten$	θ r ɛ t n̩	English
+^three$	θ r iː	English
+^thresh$	θ r ɛ ʃ	English
+^threshing-floor$	θ r ɛ ʃ ɪ ŋ f l ɔː ɹ	English
+^throat$	θ r əʊ t	English
+^through$	θ r uː	English
+^throw$	θ r əʊ	English
+^thumb$	θ ʌ m	English
+^thunder$	θ ʌ n d ə ɹ	English
+^tick$	t ɪ k	English
+^tide$	t aɪ d	English
+^tie$	t aɪ	English
+^time$	t aɪ m	English
+^tin$	t ɪ n	English
+^tired$	t aɪ ə d	English
+^to last$	???	English
+^tobacco$	t ə b æ k əʊ	English
+^today$	t ə d eɪ	English
+^toe$	t əʊ	English
+^toilet$	t ɔɪ l ɪ t	English
+^tomorrow$	t ə m ɒ r əʊ	English
+^tongs$	t ɒ ŋ z	English
+^tongue$	t ʌ ŋ	English
+^tool$	t uː l	English
+^tooth$	t uː θ	English
+^top$	t ɒ p	English
+^torch$	t ɔː tʃ	English
+^toucan$	t uː k ə n	English
+^touch$	t ʌ tʃ	English
+^towel$	t aʊ ə l	English
+^tower$	t aʊ ə ɹ	English
+^town$	t aʊ n	English
+^trade$	t r eɪ d	English
+^train$	t r eɪ n	English
+^trap$	t r æ p	English
+^tree$	t r iː	English
+^tree trunk$	???	English
+^trough$	t r ɒ f	English
+^trousers$	t r aʊ z ə z	English
+^true$	t r uː	English
+^trumpet$	t r ʌ m p ɪ t	English
+^try$	t r aɪ	English
+^turn$	t ɜː n	English
+^turn around$	???	English
+^turtle$	t ɜː t l̩	English
+^twelve$	t w ɛ l v	English
+^twenty$	t w ɛ n t ɪ	English
+^twice$	t w aɪ s	English
+^twins$	t w ɪ n z	English
+^twist$	t w ɪ s t	English
+^two$	t uː	English
+^udder$	ʌ d ə ɹ	English
+^ugly$	ʌ ɡ l ɪ	English
+^uncle$	ʌ ŋ k l̩	English
+^under$	ʌ n d ə ɹ	English
+^understand$	ʌ n d ə s t æ n d	English
+^unripe$	???	English
+^untie$	???	English
+^up$	ʌ p	English
+^urinate$	j ʊə r ɪ n eɪ t	English
+^vagina$	v ə dʒ aɪ n ə	English
+^valley$	v æ l ɪ	English
+^vegetables$	v ɛ dʒ t ə b l̩ z	English
+^veil$	v eɪ l	English
+^vein$	v eɪ n	English
+^victory$	v ɪ k t ə r ɪ	English
+^village$	v ɪ l ɪ dʒ	English
+^vine$	v aɪ n	English
+^voice$	v ɔɪ s	English
+^vomit$	v ɒ m ɪ t	English
+^vulture$	v ʌ l tʃ ə ɹ	English
+^vulva$	v ʌ l v ə	English
+^wages$	w eɪ dʒ ɪ z	English
+^wagon$	w æ ɡ ə n	English
+^waist$	w eɪ s t	English
+^wake (up)$	???	English
+^walk$	w ɔː k	English
+^wall$	w ɔː l	English
+^want$	w ɒ n t	English
+^war$	w ɔː ɹ	English
+^warm$	w ɔː m	English
+^wash$	w ɒ ʃ	English
+^wasp$	w ɒ s p	English
+^water$	w ɔː t ə ɹ	English
+^waterfall$	w ɔː t ə f ɔː l	English
+^wave$	w eɪ v	English
+^wax$	w æ k s	English
+^way$	w eɪ	English
+^we$	w iː	English
+^weak$	w iː k	English
+^weapons$	w ɛ p ə n z	English
+^weather$	w ɛ ð ə ɹ	English
+^weave$	w iː v	English
+^web$	w ɛ b	English
+^wedding$	w ɛ d ɪ ŋ	English
+^week$	w iː k	English
+^weep$	w iː p	English
+^weigh$	w eɪ	English
+^well$	w ɛ l	English
+^west$	w ɛ s t	English
+^wet$	w ɛ t	English
+^whale$	w eɪ l	English
+^what?$	???	English
+^wheat$	w iː t	English
+^wheel$	w iː l	English
+^when?$	???	English
+^where?$	???	English
+^whetstone$	w ɛ t s t əʊ n	English
+^which?$	???	English
+^whirlpool$	w ɜː l p uː l	English
+^whisper$	w ɪ s p ə ɹ	English
+^whistle$	w ɪ s l̩	English
+^white$	w aɪ t	English
+^who?$	???	English
+^why?$	???	English
+^wide$	w aɪ d	English
+^widow$	w ɪ d əʊ	English
+^widower$	w ɪ d əʊ ə ɹ	English
+^wife$	w aɪ f	English
+^wind$	w aɪ n d w ɪ n d	English
+^window$	w ɪ n d əʊ	English
+^wine$	w aɪ n	English
+^wing$	w ɪ ŋ	English
+^winter$	w ɪ n t ə ɹ	English
+^wipe$	w aɪ p	English
+^wise$	w aɪ z	English
+^witch$	w ɪ tʃ	English
+^with$	w ɪ ð	English
+^without$	w ɪ ð aʊ t	English
+^witness$	w ɪ t n ɪ s	English
+^wolf$	w ʊ l f	English
+^woman$	w ʊ m ə n	English
+^womb$	w uː m	English
+^wood$	w ʊ d	English
+^wood(s)$	???	English
+^wool$	w ʊ l	English
+^word$	w ɜː d	English
+^work$	w ɜː k	English
+^workshop$	w ɜː k ʃ ɒ p	English
+^world$	w ɜː l d	English
+^worm$	w ɜː m	English
+^worry$	w ʌ r ɪ	English
+^worship$	w ɜː ʃ ɪ p	English
+^wound$	w uː n d w aʊ n d	English
+^wrap$	r æ p	English
+^wrinkled$	r ɪ ŋ k l̩ d	English
+^wrist$	r ɪ s t	English
+^write$	r aɪ t	English
+^wrong$	r ɒ ŋ	English
+^yam$	j æ m	English
+^yard$	j ɑː d	English
+^yawn$	j ɔː n	English
+^year$	j ɪə ɹ	English
+^yellow$	j ɛ l əʊ	English
+^yes$	j ɛ s	English
+^yesterday$	j ɛ s t ə d ɪ	English
+^yoke$	j əʊ k	English
+^yolk$	j əʊ k	English
+^you$	j uː	English
+^young$	j ʌ ŋ	English
+^zero$	z ɪə r əʊ	English
