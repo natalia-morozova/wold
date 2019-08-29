@@ -11,20 +11,20 @@ o	o	nepot, dogoritor	Romanian	599	U+006f
 ^a	a	a învăţa, a bate	Romanian	587	U+005e U+0061
 n	n	continent, a îngenunchea	Romanian	579	U+006e
 t	t	frate, prostituată	Romanian	564	U+0074
-ă$	ă	mătuşă, soră	Romanian	475	U+0103 U+0024
-c	c	a conduce, nucă de cocos	Romanian	447	U+0063
+ă$	ə	mătuşă, soră	Romanian	475	U+0103 U+0024
+c	k	a conduce, nucă de cocos	Romanian	447	U+0063
 e$	e	frate, piele	Romanian	381	U+0065 U+0024
 l	l	piele, mijloc	Romanian	377	U+006c
-ă	ă	bărbătesc, mătuşă	Romanian	352	U+0103
+ă	ə	bărbătesc, mătuşă	Romanian	352	U+0103
 m	m	a împrumuta, vreme	Romanian	317	U+006d
 s	s	broascăţestoasă, castron	Romanian	278	U+0073
 d	d	a deschide, verde	Romanian	269	U+0064
 p	p	nepot, necopt	Romanian	267	U+0070
 a$	a	a învăţa, a săpa	Romanian	263	U+0061 U+0024
 i$	i	unchi, noi	Romanian	244	U+0069 U+0024
-^c	c	castron, ceas	Romanian	232	U+005e U+0063
+^c	k	castron, ceas	Romanian	232	U+005e U+0063
 t$	t	nepot, necopt	Romanian	187	U+0074 U+0024
-â	â	bătrân, pârâu	Romanian	171	U+00e2
+â	ɨ	bătrân, pârâu	Romanian	171	U+00e2
 ^p	p	piele, pană	Romanian	160	U+005e U+0070
 ^s	s	soră, sticlă	Romanian	150	U+005e U+0073
 b	b	a bate, limbă	Romanian	143	U+0062
@@ -32,9 +32,9 @@ g	g	a ruga, a striga	Romanian	136	U+0067
 v	v	a învăţa, a lovi	Romanian	129	U+0076
 ^m	m	mătuşă, mijloc	Romanian	127	U+005e U+006d
 r$	r	păr, cer	Romanian	126	U+0072 U+0024
-ţ	ţ	ţaţă, a învăţa	Romanian	110	U+0163
+ţ	ts	ţaţă, a învăţa	Romanian	110	U+0163
 ^b	b	bătrân, bărbătesc	Romanian	99	U+005e U+0062
-ş	<?>	mătuşă, moaşă	Romanian	97	U+015f
+ş	ʃ	mătuşă, moaşă	Romanian	97	U+015f
 n$	n	castron, bătrân	Romanian	96	U+006e U+0024
 ^f	f	frate, fată	Romanian	94	U+005e U+0066
 f	f	a fi flămând, a sufla	Romanian	93	U+0066
@@ -43,114 +43,97 @@ z	z	miazăzi, pizdă	Romanian	83	U+007a
 ^v	v	vână, vite	Romanian	76	U+005e U+0076
 ^t	t	tanti, timp	Romanian	73	U+005e U+0074
 ^n	n	nepot, noi	Romanian	71	U+005e U+006e
-c$	c	mijloc, arc	Romanian	70	U+0063 U+0024
+c$	k	mijloc, arc	Romanian	70	U+0063 U+0024
 u$	u	cadavru, greu	Romanian	65	U+0075 U+0024
 ^l	l	lună, limbă	Romanian	65	U+005e U+006c
 ^g	g	grumaz, gol	Romanian	63	U+005e U+0067
-î	î	a învăţa, a împrumuta	Romanian	57	U+00ee
+î	ɨ	a învăţa, a împrumuta	Romanian	57	U+00ee
 l$	l	gol, el	Romanian	54	U+006c U+0024
 ^o	o	om, oaie	Romanian	52	U+005e U+006f
-j	j	mijloc, a dojeni	Romanian	47	U+006a
-^î	î	înalt, însărcinat	Romanian	45	U+005e U+00ee
+j	ʒ	mijloc, a dojeni	Romanian	47	U+006a
+^î	ɨ	înalt, însărcinat	Romanian	45	U+005e U+00ee
 ^r	r	resturi, raft	Romanian	44	U+005e U+0072
-ch	ch	unchi, păduche	Romanian	43	U+0063 U+0068
+ch	k	unchi, păduche	Romanian	43	U+0063 U+0068
 d$	d	fund, blid	Romanian	41	U+0064 U+0024
 ^i	i	ignamă, inimic	Romanian	40	U+005e U+0069
 s$	s	ceas, dos	Romanian	38	U+0073 U+0024
 ^u	u	unchi, următor	Romanian	36	U+005e U+0075
-^ş	<?>	şirag, şcoală	Romanian	27	U+005e U+015f
+^ş	ʃ	şirag, şcoală	Romanian	27	U+005e U+015f
 g$	g	prag, şirag	Romanian	25	U+0067 U+0024
 ^z	z	zi, zidar	Romanian	23	U+005e U+007a
-^j	j	jos, jurământ	Romanian	23	U+005e U+006a
-ăs	ăs	a măsura, armăsar	Romanian	22	U+0103 U+0073
-ş$	<?>	leş, moş	Romanian	21	U+015f U+0024
+^j	ʒ	jos, jurământ	Romanian	23	U+005e U+006a
+ăs	ə s	a măsura, armăsar	Romanian	22	U+0103 U+0073
+ş$	ʃ	leş, moş	Romanian	21	U+015f U+0024
 p$	p	timp, stâlp	Romanian	21	U+0070 U+0024
 m$	m	om, fum	Romanian	19	U+006d U+0024
-^ţ	ţ	ţaţă, ţară	Romanian	18	U+005e U+0163
+^ţ	ts	ţaţă, ţară	Romanian	18	U+005e U+0163
 ^h	h	hoit, horn	Romanian	17	U+005e U+0068
-ţ$	ţ	preţ, subraţ	Romanian	16	U+0163 U+0024
+ţ$	ts	preţ, subraţ	Romanian	16	U+0163 U+0024
 ^e	e	ea, el	Romanian	16	U+005e U+0065
 z$	z	obraz, grumaz	Romanian	16	U+007a U+0024
-ns	ns	însărcinat, insulǎ	Romanian	15	U+006e U+0073
+ns	n s	însărcinat, insulǎ	Romanian	15	U+006e U+0073
 b$	b	orb, strâmb	Romanian	14	U+0062 U+0024
 h	h	duhan, buhai	Romanian	11	U+0068
 v$	v	elev, motiv	Romanian	11	U+0076 U+0024
-gh	gh	aghesmuit, ungher	Romanian	11	U+0067 U+0068
-rs	rs	a vărsa, mursă	Romanian	9	U+0072 U+0073
+gh	g	aghesmuit, ungher	Romanian	11	U+0067 U+0068
+rs	r s	a vărsa, mursă	Romanian	9	U+0072 U+0073
 f$	f	golf, stuf	Romanian	9	U+0066 U+0024
-î$	î	a pogorî, a urî	Romanian	9	U+00ee U+0024
-^ch	ch	chip, chioşc	Romanian	9	U+005e U+0063 U+0068
-^gh	gh	gheară, gheaţă	Romanian	8	U+005e U+0067 U+0068
--	<?>	corb-de-mare, anghilă-de-râu	Romanian	7	U+002d
-x	x	a boxa, axilă	Romanian	6	U+0078
-ǎ$	ǎ	insulǎ, maree joasǎ	Romanian	6	U+01ce U+0024
-ps	ps	a vopsi, pedeapsă	Romanian	5	U+0070 U+0073
-ii	ii	fiica vitregă, fiinţă	Romanian	4	U+0069 U+0069
+î$	ɨ	a pogorî, a urî	Romanian	9	U+00ee U+0024
+^ch	k	chip, chioşc	Romanian	9	U+005e U+0063 U+0068
+^gh	g	gheară, gheaţă	Romanian	8	U+005e U+0067 U+0068
+-	+	corb-de-mare, anghilă-de-râu	Romanian	7	U+002d
+x	ks	a boxa, axilă	Romanian	6	U+0078
+ǎ$	ə	insulǎ, maree joasǎ	Romanian	6	U+01ce U+0024
+ps	p s	a vopsi, pedeapsă	Romanian	5	U+0070 U+0073
+ii	i j	fiica vitregă, fiinţă	Romanian	4	U+0069 U+0069
 o$	o	poncho, radio	Romanian	4	U+006f U+0024
-ǎ	ǎ	hǎu, nǎmol	Romanian	4	U+01ce
-ee$	ee	fee, moschee	Romanian	4	U+0065 U+0065 U+0024
-j$	j	tatuaj, limbaj	Romanian	4	U+006a U+0024
-âs	âs	vâslă, a vâsli	Romanian	4	U+00e2 U+0073
+ǎ	ə	hǎu, nǎmol	Romanian	4	U+01ce
+ee$	e e	fee, moschee	Romanian	4	U+0065 U+0065 U+0024
+j$	ʒ	tatuaj, limbaj	Romanian	4	U+006a U+0024
+âs	ɨ s	vâslă, a vâsli	Romanian	4	U+00e2 U+0073
 h$	h	duh, văzduh	Romanian	3	U+0068 U+0024
-ee	ee	gheenă, maree joasǎ	Romanian	3	U+0065 U+0065
-ns$	ns	întins, surprins	Romanian	3	U+006e U+0073 U+0024
-bs	bs	obscur, subsuoară	Romanian	3	U+0062 U+0073
-rs$	rs	urs, discurs	Romanian	2	U+0072 U+0073 U+0024
-ii$	ii	încheietura mâinii, orătănii	Romanian	2	U+0069 U+0069 U+0024
-uşor (2)	<???>	uşor (2)	Romanian	2	U+0075 U+015f U+006f U+0072 U+0020 U+0028 U+0032 U+0029
-a (ră)suci	<???>	a (ră)suci	Romanian	2	U+0061 U+0020 U+0028 U+0072 U+0103 U+0029 U+0073 U+0075 U+0063 U+0069
-nh	nh	branhie, a înhuma	Romanian	2	U+006e U+0068
-mănu(n)chi	<???>	mănu(n)chi	Romanian	1	U+006d U+0103 U+006e U+0075 U+0028 U+006e U+0029 U+0063 U+0068 U+0069
-viţă (de vie)	<???>	viţă (de vie)	Romanian	1	U+0076 U+0069 U+0163 U+0103 U+0020 U+0028 U+0064 U+0065 U+0020 U+0076 U+0069 U+0065 U+0029
-a se (s)cufunda	<???>	a se (s)cufunda	Romanian	1	U+0061 U+0020 U+0073 U+0065 U+0020 U+0028 U+0073 U+0029 U+0063 U+0075 U+0066 U+0075 U+006e U+0064 U+0061
-a bea (tutun)	<???>	a bea (tutun)	Romanian	1	U+0061 U+0020 U+0062 U+0065 U+0061 U+0020 U+0028 U+0074 U+0075 U+0074 U+0075 U+006e U+0029
-vară (1)	<???>	vară (1)	Romanian	1	U+0076 U+0061 U+0072 U+0103 U+0020 U+0028 U+0031 U+0029
+ee	e e	gheenă, maree joasǎ	Romanian	3	U+0065 U+0065
+ns$	n s	întins, surprins	Romanian	3	U+006e U+0073 U+0024
+bs	b s	obscur, subsuoară	Romanian	3	U+0062 U+0073
+rs$	r s	urs, discurs	Romanian	2	U+0072 U+0073 U+0024
+ii$	i	încheietura mâinii, orătănii	Romanian	2	U+0069 U+0069 U+0024
+nh	n h	branhie, a înhuma	Romanian	2	U+006e U+0068
 k$	k	dovleak	Romanian	1	U+006b U+0024
 k	k	zaharikale	Romanian	1	U+006b
-a (se) grăbi	<???>	a (se) grăbi	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0065 U+0029 U+0020 U+0067 U+0072 U+0103 U+0062 U+0069
-făur(ar)	<???>	făur(ar)	Romanian	1	U+0066 U+0103 U+0075 U+0072 U+0028 U+0061 U+0072 U+0029
-cap (2)	<???>	cap (2)	Romanian	1	U+0063 U+0061 U+0070 U+0020 U+0028 U+0032 U+0029
-(urs) furnicar	<???>	(urs) furnicar	Romanian	1	U+0028 U+0075 U+0072 U+0073 U+0029 U+0020 U+0066 U+0075 U+0072 U+006e U+0069 U+0063 U+0061 U+0072
-înapoi(a)	<???>	înapoi(a)	Romanian	1	U+00ee U+006e U+0061 U+0070 U+006f U+0069 U+0028 U+0061 U+0029
-ú	ú	acúşi	Romanian	1	U+00fa
-a (e)libera	<???>	a (e)libera	Romanian	1	U+0061 U+0020 U+0028 U+0065 U+0029 U+006c U+0069 U+0062 U+0065 U+0072 U+0061
-(de)asupra	<???>	(de)asupra	Romanian	1	U+0028 U+0064 U+0065 U+0029 U+0061 U+0073 U+0075 U+0070 U+0072 U+0061
-sobă (2)	<???>	sobă (2)	Romanian	1	U+0073 U+006f U+0062 U+0103 U+0020 U+0028 U+0032 U+0029
-mare (2)	<???>	mare (2)	Romanian	1	U+006d U+0061 U+0072 U+0065 U+0020 U+0028 U+0032 U+0029
-a se ciuc(ul)i	<???>	a se ciuc(ul)i	Romanian	1	U+0061 U+0020 U+0073 U+0065 U+0020 U+0063 U+0069 U+0075 U+0063 U+0028 U+0075 U+006c U+0029 U+0069
-acum(a)	<???>	acum(a)	Romanian	1	U+0061 U+0063 U+0075 U+006d U+0028 U+0061 U+0029
-tâmp(it)	<???>	tâmp(it)	Romanian	1	U+0074 U+00e2 U+006d U+0070 U+0028 U+0069 U+0074 U+0029
-a (se) căca	<???>	a (se) căca	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0065 U+0029 U+0020 U+0063 U+0103 U+0063 U+0061
-a (stră)luci	<???>	a (stră)luci	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0074 U+0072 U+0103 U+0029 U+006c U+0075 U+0063 U+0069
-a(-şi) aminti	<???>	a(-şi) aminti	Romanian	1	U+0061 U+0028 U+002d U+015f U+0069 U+0029 U+0020 U+0061 U+006d U+0069 U+006e U+0074 U+0069
-a (a)căţăra	<???>	a (a)căţăra	Romanian	1	U+0061 U+0020 U+0028 U+0061 U+0029 U+0063 U+0103 U+0163 U+0103 U+0072 U+0061
-a (se) opri	<???>	a (se) opri	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0065 U+0029 U+0020 U+006f U+0070 U+0072 U+0069
-(porc) mistreţ	<???>	(porc) mistreţ	Romanian	1	U+0028 U+0070 U+006f U+0072 U+0063 U+0029 U+0020 U+006d U+0069 U+0073 U+0074 U+0072 U+0065 U+0163
-a şop(o)ti	<???>	a şop(o)ti	Romanian	1	U+0061 U+0020 U+015f U+006f U+0070 U+0028 U+006f U+0029 U+0074 U+0069
-a (în)grămădi	<???>	a (în)grămădi	Romanian	1	U+0061 U+0020 U+0028 U+00ee U+006e U+0029 U+0067 U+0072 U+0103 U+006d U+0103 U+0064 U+0069
-a clăti(na)	<???>	a clăti(na)	Romanian	1	U+0061 U+0020 U+0063 U+006c U+0103 U+0074 U+0069 U+0028 U+006e U+0061 U+0029
-uşor (1)	<???>	uşor (1)	Romanian	1	U+0075 U+015f U+006f U+0072 U+0020 U+0028 U+0031 U+0029
-panatalon(i)	<???>	panatalon(i)	Romanian	1	U+0070 U+0061 U+006e U+0061 U+0074 U+0061 U+006c U+006f U+006e U+0028 U+0069 U+0029
-a (se) pişa	<???>	a (se) pişa	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0065 U+0029 U+0020 U+0070 U+0069 U+015f U+0061
-a (în)drăzni	<???>	a (în)drăzni	Romanian	1	U+0061 U+0020 U+0028 U+00ee U+006e U+0029 U+0064 U+0072 U+0103 U+007a U+006e U+0069
-pod(ea)	<???>	pod(ea)	Romanian	1	U+0070 U+006f U+0064 U+0028 U+0065 U+0061 U+0029
-a (îm)pături	<???>	a (îm)pături	Romanian	1	U+0061 U+0020 U+0028 U+00ee U+006d U+0029 U+0070 U+0103 U+0074 U+0075 U+0072 U+0069
-(stră)lucit(or)	<???>	(stră)lucit(or)	Romanian	1	U+0028 U+0073 U+0074 U+0072 U+0103 U+0029 U+006c U+0075 U+0063 U+0069 U+0074 U+0028 U+006f U+0072 U+0029
+ú	ú/u	acúşi	Romanian	1	U+00fa
 ^o$	o	o	Romanian	1	U+005e U+006f U+0024
-cc	cc	occident	Romanian	1	U+0063 U+0063
-x$	x	pix	Romanian	1	U+0078 U+0024
-a (d)oborî	<???>	a (d)oborî	Romanian	1	U+0061 U+0020 U+0028 U+0064 U+0029 U+006f U+0062 U+006f U+0072 U+00ee
-a (s)cufunda	<???>	a (s)cufunda	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0029 U+0063 U+0075 U+0066 U+0075 U+006e U+0064 U+0061
-ax(ă)	<???>	ax(ă)	Romanian	1	U+0061 U+0078 U+0028 U+0103 U+0029
-smochin(ă)	<???>	smochin(ă)	Romanian	1	U+0073 U+006d U+006f U+0063 U+0068 U+0069 U+006e U+0028 U+0103 U+0029
-a (stră/îm)punge	<???>	a (stră/îm)punge	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0074 U+0072 U+0103 U+002f U+00ee U+006d U+0029 U+0070 U+0075 U+006e U+0067 U+0065
-sobă (1)	<???>	sobă (1)	Romanian	1	U+0073 U+006f U+0062 U+0103 U+0020 U+0028 U+0031 U+0029
-ls$	ls	fals	Romanian	1	U+006c U+0073 U+0024
-război (de ţesut)	<???>	război (de ţesut)	Romanian	1	U+0072 U+0103 U+007a U+0062 U+006f U+0069 U+0020 U+0028 U+0064 U+0065 U+0020 U+0163 U+0065 U+0073 U+0075 U+0074 U+0029
-mare (1)	<???>	mare (1)	Romanian	1	U+006d U+0061 U+0072 U+0065 U+0020 U+0028 U+0031 U+0029
-a (îm)brânci	<???>	a (îm)brânci	Romanian	1	U+0061 U+0020 U+0028 U+00ee U+006d U+0029 U+0062 U+0072 U+00e2 U+006e U+0063 U+0069
-a (în)junghia	<???>	a (în)junghia	Romanian	1	U+0061 U+0020 U+0028 U+00ee U+006e U+0029 U+006a U+0075 U+006e U+0067 U+0068 U+0069 U+0061
-a bort(el)i	<???>	a bort(el)i	Romanian	1	U+0061 U+0020 U+0062 U+006f U+0072 U+0074 U+0028 U+0065 U+006c U+0029 U+0069
-a (se) căsători	<???>	a (se) căsători	Romanian	1	U+0061 U+0020 U+0028 U+0073 U+0065 U+0029 U+0020 U+0063 U+0103 U+0073 U+0103 U+0074 U+006f U+0072 U+0069
-coamă (acoperişului)	<???>	coamă (acoperişului)	Romanian	1	U+0063 U+006f U+0061 U+006d U+0103 U+0020 U+0028 U+0061 U+0063 U+006f U+0070 U+0065 U+0072 U+0069 U+015f U+0075 U+006c U+0075 U+0069 U+0029
-vară (2)	<???>	vară (2)	Romanian	1	U+0076 U+0061 U+0072 U+0103 U+0020 U+0028 U+0032 U+0029
+cc	ks	occident	Romanian	1	U+0063 U+0063
+x$	k	pix	Romanian	1	U+0078 U+0024
+ls$	l s	fals	Romanian	1	U+006c U+0073 U+0024
+ng	ŋ g				
+nh	ŋ h				
+ng$	ŋ g				
+ci	tʃ i				
+ce	tʃ e				
+ci$	tʃʲ				
+^ci	tʃ i				
+ce$	tʃ e				
+^ce	tʃ e				
+gi	dʒ				
+ge	dʒ				
+gi$	dʒʲ				
+ge$	dʒ				
+^poncho$	p o n tʃ o				
+pi$	pʲ				
+ti$	tʲ				
+ţi$	tsʲ				
+ji$	ʒʲ				
+zi$	zʲ				
+li$	lʲ				
+ri$	rʲ				
+hi$	hʲ				
+şi$	ʃʲ				
+si$	sʲ				
+fi$	fʲ				
+chi$	kʲ				
+vi$	vʲ				
+ni$	nʲ				
+mi$	mʲ				
+ghi$	gʲ				
+di$	dʲ				
+bi$	bʲ				

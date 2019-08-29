@@ -1,18 +1,18 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-á	á	pái, gádu kóti fája	Saramaccan	371	U+00e1
+á	á/a	pái, gádu kóti fája	Saramaccan	371	U+00e1
 i$	i	kísi, léi	Saramaccan	345	U+0069 U+0024
 n	n	únmë́ni, taánga	Saramaccan	289	U+006e
-í	í	kísi, uwíi	Saramaccan	249	U+00ed
+í	í/i	kísi, uwíi	Saramaccan	249	U+00ed
 a	a	kabá, tapá	Saramaccan	249	U+0061
 k	k	kákísa, búka	Saramaccan	243	U+006b
 t	t	tatái, paatí	Saramaccan	236	U+0074
 a$	a	taánga, fája	Saramaccan	204	U+0061 U+0024
 u$	u	fútu, fátu	Saramaccan	197	U+0075 U+0024
-ú	ú	fútu, búka	Saramaccan	162	U+00fa
+ú	ú/u	fútu, búka	Saramaccan	162	U+00fa
 b	b	kabá, kaabíta	Saramaccan	150	U+0062
-ó	ó	wójókókóo, kóti	Saramaccan	149	U+00f3
+ó	ó/o	wójókókóo, kóti	Saramaccan	149	U+00f3
 m	m	të́mbëma, límbo	Saramaccan	148	U+006d
 ^b	b	bandja, búka	Saramaccan	140	U+005e U+0062
 d	d	bandja, hédi	Saramaccan	139	U+0064
@@ -21,142 +21,111 @@ u	u	mujë́ë, máun	Saramaccan	135	U+0075
 ^k	k	kabá, kísi	Saramaccan	132	U+005e U+006b
 i	i	séisónima, gádu kóti fája	Saramaccan	130	U+0069
 s	s	kísi, kákísa	Saramaccan	125	U+0073
-é	é	léi, mbéti	Saramaccan	120	U+00e9
+é	é/e	léi, mbéti	Saramaccan	120	U+00e9
 g	g	taánga, tö́ngö	Saramaccan	120	U+0067
 ^t	t	tapá, taánga	Saramaccan	113	U+005e U+0074
 ^s	s	sumë́ë, subí	Saramaccan	112	U+005e U+0073
-á$	á	kabá, tapá	Saramaccan	101	U+00e1 U+0024
+á$	á/a	kabá, tapá	Saramaccan	101	U+00e1 U+0024
 ^p	p	paatí, pái	Saramaccan	93	U+005e U+0070
 p	p	tapá, kpíngíkpíngi	Saramaccan	86	U+0070
 l	l	fulufulu, kulé	Saramaccan	85	U+006c
 ^f	f	fája, fan	Saramaccan	84	U+005e U+0066
 ^m	m	mái, mbéti	Saramaccan	81	U+005e U+006d
 n$	n	ë́n, fan	Saramaccan	81	U+006e U+0024
-ö́	ö́	tö́ngö, kö́ndë	Saramaccan	75	U+00f6 U+0301
+ö́	ö́/ɔ	tö́ngö, kö́ndë	Saramaccan	75	U+00f6 U+0301
 ^l	l	léi, límbo	Saramaccan	69	U+005e U+006c
 ^d	d	díki, diíngi	Saramaccan	69	U+005e U+0064
 o	o	boóko, goón	Saramaccan	67	U+006f
-ë́	ë́	bë́ë, mujë́ë	Saramaccan	64	U+00eb U+0301
+ë́	ë́/ɛ	bë́ë, mujë́ë	Saramaccan	64	U+00eb U+0301
 _	_	gádu kóti fája, báka u dí wóto	Saramaccan	63	U+005f
 ^a	a	alibí, amanján	Saramaccan	61	U+005e U+0061
-í$	í	paatí, subí	Saramaccan	60	U+00ed U+0024
+í$	í/i	paatí, subí	Saramaccan	60	U+00ed U+0024
 ^g	g	goón, gádu kóti fája	Saramaccan	60	U+005e U+0067
 f	f	gádu kóti fája, biífi	Saramaccan	59	U+0066
 ^h	h	hási, hópo	Saramaccan	56	U+005e U+0068
 o$	o	boóko, límbo	Saramaccan	56	U+006f U+0024
 ^w	w	wómi, wánwan	Saramaccan	53	U+005e U+0077
 w	w	uwíi, hö́níwáta	Saramaccan	47	U+0077
-ë$	ë	bë́ë, mujë́ë	Saramaccan	45	U+00eb U+0024
+ë$	ë/ɛ	bë́ë, mujë́ë	Saramaccan	45	U+00eb U+0024
 ^n	n	nasí, namá	Saramaccan	40	U+005e U+006e
-ö	ö	tjökö́, pötöpötö	Saramaccan	38	U+00f6
-ö$	ö	tö́ngö, töö́tö	Saramaccan	38	U+00f6 U+0024
+ö	ö/ɔ	tjökö́, pötöpötö	Saramaccan	38	U+00f6
+ö$	ö/ɔ	tö́ngö, töö́tö	Saramaccan	38	U+00f6 U+0024
 e	e	telefö́n, leibewéísi	Saramaccan	31	U+0065
-ë	ë	të́mbëma, lëgëdë	Saramaccan	31	U+00eb
-aa	aa	paatí, kaabíta	Saramaccan	26	U+0061 U+0061
-ós	ós	koósuma, lósu	Saramaccan	25	U+00f3 U+0073
-ë́$	ë́	fëëbë́, sëndë́	Saramaccan	20	U+00eb U+0301 U+0024
+ë	ë/ɛ	të́mbëma, lëgëdë	Saramaccan	31	U+00eb
+aa	aː	paatí, kaabíta	Saramaccan	26	U+0061 U+0061
+ós	ó/o s	koósuma, lósu	Saramaccan	25	U+00f3 U+0073
+ë́$	ë́/ɛ	fëëbë́, sëndë́	Saramaccan	20	U+00eb U+0301 U+0024
 ^j	j	jasá, jaa	Saramaccan	17	U+005e U+006a
-és	és	tési, fési	Saramaccan	17	U+00e9 U+0073
-ú$	ú	kú, tekútekú	Saramaccan	16	U+00fa U+0024
-ns	ns	adjáansi, fë́nsë	Saramaccan	15	U+006e U+0073
-ö́$	ö́	tjökö́, djökötö́	Saramaccan	14	U+00f6 U+0301 U+0024
-é$	é	zé, kulé	Saramaccan	14	U+00e9 U+0024
-ó$	ó	gogó, kó	Saramaccan	13	U+00f3 U+0024
-áá	áá	sáápi, sáápísáápi	Saramaccan	11	U+00e1 U+00e1
-ii	ii	akiikö́ u máun, piizíi	Saramaccan	11	U+0069 U+0069
+és	é/e s	tési, fési	Saramaccan	17	U+00e9 U+0073
+ú$	ú/u	kú, tekútekú	Saramaccan	16	U+00fa U+0024
+ns	n s	adjáansi, fë́nsë	Saramaccan	15	U+006e U+0073
+ö́$	ö́/ɔ	tjökö́, djökötö́	Saramaccan	14	U+00f6 U+0301 U+0024
+é$	é/e	zé, kulé	Saramaccan	14	U+00e9 U+0024
+ó$	ó/o	gogó, kó	Saramaccan	13	U+00f3 U+0024
+áá	áː/aː	sáápi, sáápísáápi	Saramaccan	11	U+00e1 U+00e1
+ii	iː	akiikö́ u máun, piizíi	Saramaccan	11	U+0069 U+0069
 e$	e	kómpe, wéésée	Saramaccan	11	U+0065 U+0024
 h	h	ahö́, mbéi hékísee	Saramaccan	11	U+0068
-oo	oo	toosá, koofája	Saramaccan	11	U+006f U+006f
+oo	oː	toosá, koofája	Saramaccan	11	U+006f U+006f
 ^z	z	zé, zín	Saramaccan	9	U+005e U+007a
 z	z	baziá, línzo	Saramaccan	8	U+007a
 v	v	avóavo, peevú	Saramaccan	8	U+0076
-uu	uu	buuká, duumí	Saramaccan	7	U+0075 U+0075
+uu	uː	buuká, duumí	Saramaccan	7	U+0075 U+0075
 ^u	u	uwíi, un	Saramaccan	7	U+005e U+0075
-óó	óó	sóófu, wósúgóón	Saramaccan	7	U+00f3 U+00f3
+óó	óː/oː	sóófu, wósúgóón	Saramaccan	7	U+00f3 U+00f3
 ^a$	a	a	Saramaccan	6	U+005e U+0061 U+0024
-^ë́	ë́	ë́n, ë́ísi	Saramaccan	6	U+005e U+00eb U+0301
-ö́s	ö́s	mösimö́si, sö́sö	Saramaccan	5	U+00f6 U+0301 U+0073
-íí	íí	káúmííi, ásímííi	Saramaccan	5	U+00ed U+00ed
-éé	éé	gééja, fééda	Saramaccan	5	U+00e9 U+00e9
-^ú	ú	únmë́ni, ún	Saramaccan	5	U+005e U+00fa
-ee	ee	peevú, peetá	Saramaccan	5	U+0065 U+0065
-^á	á	ábi, áíti	Saramaccan	4	U+005e U+00e1
-ëë	ëë	fëëbë́, fëëkë́të	Saramaccan	4	U+00eb U+00eb
-báka (1)	<???>	báka (1)	Saramaccan	4	U+0062 U+00e1 U+006b U+0061 U+0020 U+0028 U+0031 U+0029
+^ë́	ë́/ɛ	ë́n, ë́ísi	Saramaccan	6	U+005e U+00eb U+0301
+ö́s	ö́/ɔ s	mösimö́si, sö́sö	Saramaccan	5	U+00f6 U+0301 U+0073
+íí	íː/iː	káúmííi, ásímííi	Saramaccan	5	U+00ed U+00ed
+éé	éː/eː	gééja, fééda	Saramaccan	5	U+00e9 U+00e9
+^ú	ú/u	únmë́ni, ún	Saramaccan	5	U+005e U+00fa
+ee	eː	peevú, peetá	Saramaccan	5	U+0065 U+0065
+^á	á/a	ábi, áíti	Saramaccan	4	U+005e U+00e1
+ëë	ëː/ɛː	fëëbë́, fëëkë́të	Saramaccan	4	U+00eb U+00eb
 ^v	v	vë́ntu, vívo	Saramaccan	4	U+005e U+0076
 ^o	o	otó, olóísi	Saramaccan	4	U+005e U+006f
-ë́s	ë́s	sumë́ë́súti, më́sítë	Saramaccan	4	U+00eb U+0301 U+0073
-tutú (2)	<???>	tutú (2)	Saramaccan	3	U+0074 U+0075 U+0074 U+00fa U+0020 U+0028 U+0032 U+0029
-féífi (1)	<???>	féífi (1)	Saramaccan	3	U+0066 U+00e9 U+00ed U+0066 U+0069 U+0020 U+0028 U+0031 U+0029
-aa$	aa	jaa, tjangaa	Saramaccan	3	U+0061 U+0061 U+0024
+ë́s	ë́/ɛ s	sumë́ë́súti, më́sítë	Saramaccan	4	U+00eb U+0301 U+0073
+aa$	aː	jaa, tjangaa	Saramaccan	3	U+0061 U+0061 U+0024
 ^u$	u	u	Saramaccan	3	U+005e U+0075 U+0024
-nw	nw	wánwan, wë́nwën	Saramaccan	3	U+006e U+0077
-íí$	íí	mujë́ë́míí, miímíí	Saramaccan	3	U+00ed U+00ed U+0024
-ë́ë́	ë́ë́	mujë́ë́míí, mújë́ë́kö́nu	Saramaccan	3	U+00eb U+0301 U+00eb U+0301
-básu (2)	<???>	básu (2)	Saramaccan	3	U+0062 U+00e1 U+0073 U+0075 U+0020 U+0028 U+0032 U+0029
-^ó	ó	ónfu, óbo	Saramaccan	3	U+005e U+00f3
-öö	öö	mbéi köökö́ö, töönsö́n	Saramaccan	2	U+00f6 U+00f6
-oo$	oo	logoo, awoo	Saramaccan	2	U+006f U+006f U+0024
-bái (2)	<???>	bái (2)	Saramaccan	2	U+0062 U+00e1 U+0069 U+0020 U+0028 U+0032 U+0029
-úú	úú	wójókókóópúúma, wójólíbápúúma	Saramaccan	2	U+00fa U+00fa
-ów	ów	boókówójo, wójówáta	Saramaccan	2	U+00f3 U+0077
-báka (2)	<???>	báka (2)	Saramaccan	2	U+0062 U+00e1 U+006b U+0061 U+0020 U+0028 U+0032 U+0029
-^kw	kw	kwátíwójo, kwíndji	Saramaccan	2	U+005e U+006b U+0077
-bói (1)	<???>	bói (1)	Saramaccan	2	U+0062 U+00f3 U+0069 U+0020 U+0028 U+0031 U+0029
-nján (1)	<???>	nján (1)	Saramaccan	2	U+006e U+006a U+00e1 U+006e U+0020 U+0028 U+0031 U+0029
-ö́ö́	ö́ö́	dö́ö́páu, nö́ö́mö	Saramaccan	2	U+00f6 U+0301 U+00f6 U+0301
-sikópu (2)	<???>	sikópu (2)	Saramaccan	2	U+0073 U+0069 U+006b U+00f3 U+0070 U+0075 U+0020 U+0028 U+0032 U+0029
-léti (2)	<???>	léti (2)	Saramaccan	2	U+006c U+00e9 U+0074 U+0069 U+0020 U+0028 U+0032 U+0029
-beéi (1)	<???>	beéi (1)	Saramaccan	2	U+0062 U+0065 U+00e9 U+0069 U+0020 U+0028 U+0031 U+0029
-kw	kw	lakwá, lukwétu	Saramaccan	2	U+006b U+0077
-óh	óh	boókóhédi, hóha	Saramaccan	2	U+00f3 U+0068
-háti (1)	<???>	háti (1)	Saramaccan	2	U+0068 U+00e1 U+0074 U+0069 U+0020 U+0028 U+0031 U+0029
-ös	ös	mösimö́si, bösö	Saramaccan	2	U+00f6 U+0073
-pená (2)	<???>	pená (2)	Saramaccan	1	U+0070 U+0065 U+006e U+00e1 U+0020 U+0028 U+0032 U+0029
-gaási (1)	<???>	gaási (1)	Saramaccan	1	U+0067 U+0061 U+00e1 U+0073 U+0069 U+0020 U+0028 U+0031 U+0029
-gaási (2)	<???>	gaási (2)	Saramaccan	1	U+0067 U+0061 U+00e1 U+0073 U+0069 U+0020 U+0028 U+0032 U+0029
-óto (1)	<???>	óto (1)	Saramaccan	1	U+00f3 U+0074 U+006f U+0020 U+0028 U+0031 U+0029
-ë́w	ë́w	dëë́wáta	Saramaccan	1	U+00eb U+0301 U+0077
-léti (1)	<???>	léti (1)	Saramaccan	1	U+006c U+00e9 U+0074 U+0069 U+0020 U+0028 U+0031 U+0029
-óto (1) jéside	<???>	óto (1) jéside	Saramaccan	1	U+00f3 U+0074 U+006f U+0020 U+0028 U+0031 U+0029 U+0020 U+006a U+00e9 U+0073 U+0069 U+0064 U+0065
+nw	n w	wánwan, wë́nwën	Saramaccan	3	U+006e U+0077
+íí$	íː/iː	mujë́ë́míí, miímíí	Saramaccan	3	U+00ed U+00ed U+0024
+ë́ë́	ë́ː/ɛː	mujë́ë́míí, mújë́ë́kö́nu	Saramaccan	3	U+00eb U+0301 U+00eb U+0301
+^ó	ó/o	ónfu, óbo	Saramaccan	3	U+005e U+00f3
+öö	öː/ɔː	mbéi köökö́ö, töönsö́n	Saramaccan	2	U+00f6 U+00f6
+oo$	oː	logoo, awoo	Saramaccan	2	U+006f U+006f U+0024
+úú	úː/uː	wójókókóópúúma, wójólíbápúúma	Saramaccan	2	U+00fa U+00fa
+ów	ó/o w	boókówójo, wójówáta	Saramaccan	2	U+00f3 U+0077
+^kw	kʷ	kwátíwójo, kwíndji	Saramaccan	2	U+005e U+006b U+0077
+ö́ö́	ö́/ɔ	dö́ö́páu, nö́ö́mö	Saramaccan	2	U+00f6 U+0301 U+00f6 U+0301
+kw	kʷ	lakwá, lukwétu	Saramaccan	2	U+006b U+0077
+óh	ó/o h	boókóhédi, hóha	Saramaccan	2	U+00f3 U+0068
+ös	ö/ɔ s	mösimö́si, bösö	Saramaccan	2	U+00f6 U+0073
+ë́w	ë́/ɛ w	dëë́wáta	Saramaccan	1	U+00eb U+0301 U+0077
 m$	m	bölö́m	Saramaccan	1	U+006d U+0024
-lési (2)	<???>	lési (2)	Saramaccan	1	U+006c U+00e9 U+0073 U+0069 U+0020 U+0028 U+0032 U+0029
-beéi (2)	<???>	beéi (2)	Saramaccan	1	U+0062 U+0065 U+00e9 U+0069 U+0020 U+0028 U+0032 U+0029
-té (2)	<???>	té (2)	Saramaccan	1	U+0074 U+00e9 U+0020 U+0028 U+0032 U+0029
-óto (1) amanján	<???>	óto (1) amanján	Saramaccan	1	U+00f3 U+0074 U+006f U+0020 U+0028 U+0031 U+0029 U+0020 U+0061 U+006d U+0061 U+006e U+006a U+00e1 U+006e
-^é	é	ée	Saramaccan	1	U+005e U+00e9
-hía (2)	<???>	hía (2)	Saramaccan	1	U+0068 U+00ed U+0061 U+0020 U+0028 U+0032 U+0029
-té (1)	<???>	té (1)	Saramaccan	1	U+0074 U+00e9 U+0020 U+0028 U+0031 U+0029
-lési (1)	<???>	lési (1)	Saramaccan	1	U+006c U+00e9 U+0073 U+0069 U+0020 U+0028 U+0031 U+0029
-hía (1)	<???>	hía (1)	Saramaccan	1	U+0068 U+00ed U+0061 U+0020 U+0028 U+0031 U+0029
-bái (1)	<???>	bái (1)	Saramaccan	1	U+0062 U+00e1 U+0069 U+0020 U+0028 U+0031 U+0029
-súti (1)	<???>	súti (1)	Saramaccan	1	U+0073 U+00fa U+0074 U+0069 U+0020 U+0028 U+0031 U+0029
-háti (2)	<???>	háti (2)	Saramaccan	1	U+0068 U+00e1 U+0074 U+0069 U+0020 U+0028 U+0032 U+0029
-fási (2)	<???>	fási (2)	Saramaccan	1	U+0066 U+00e1 U+0073 U+0069 U+0020 U+0028 U+0032 U+0029
-básu (1)	<???>	básu (1)	Saramaccan	1	U+0062 U+00e1 U+0073 U+0075 U+0020 U+0028 U+0031 U+0029
-ö́w	ö́w	dö́ö́wáta	Saramaccan	1	U+00f6 U+0301 U+0077
-ee$	ee	mbéi hékísee	Saramaccan	1	U+0065 U+0065 U+0024
-ës	ës	dë́dësëmbë	Saramaccan	1	U+00eb U+0073
-dí [noun] dë́	<???>	dí [noun] dë́	Saramaccan	1	U+0064 U+00ed U+0020 U+005b U+006e U+006f U+0075 U+006e U+005d U+0020 U+0064 U+00eb U+0301
-bói (2)	<???>	bói (2)	Saramaccan	1	U+0062 U+00f3 U+0069 U+0020 U+0028 U+0032 U+0029
-éw	éw	wántéwante	Saramaccan	1	U+00e9 U+0077
-dóu (2)	<???>	dóu (2)	Saramaccan	1	U+0064 U+00f3 U+0075 U+0020 U+0028 U+0032 U+0029
-wéi (2)	<???>	wéi (2)	Saramaccan	1	U+0077 U+00e9 U+0069 U+0020 U+0028 U+0032 U+0029
-wéi (1)	<???>	wéi (1)	Saramaccan	1	U+0077 U+00e9 U+0069 U+0020 U+0028 U+0031 U+0029
-pená (1)	<???>	pená (1)	Saramaccan	1	U+0070 U+0065 U+006e U+00e1 U+0020 U+0028 U+0031 U+0029
-nh	nh	gaánhángi	Saramaccan	1	U+006e U+0068
-lóbi (1)	<???>	lóbi (1)	Saramaccan	1	U+006c U+00f3 U+0062 U+0069 U+0020 U+0028 U+0031 U+0029
-lúsu [someone] púu	<???>	lúsu [someone] púu	Saramaccan	1	U+006c U+00fa U+0073 U+0075 U+0020 U+005b U+0073 U+006f U+006d U+0065 U+006f U+006e U+0065 U+005d U+0020 U+0070 U+00fa U+0075
-fási (1)	<???>	fási (1)	Saramaccan	1	U+0066 U+00e1 U+0073 U+0069 U+0020 U+0028 U+0031 U+0029
-a [noun] bandja	<???>	a [noun] bandja	Saramaccan	1	U+0061 U+0020 U+005b U+006e U+006f U+0075 U+006e U+005d U+0020 U+0062 U+0061 U+006e U+0064 U+006a U+0061
-dí [noun] alá	<???>	dí [noun] alá	Saramaccan	1	U+0064 U+00ed U+0020 U+005b U+006e U+006f U+0075 U+006e U+005d U+0020 U+0061 U+006c U+00e1
+^é	é/e	ée	Saramaccan	1	U+005e U+00e9
+ö́w	ö́/ɔ w	dö́ö́wáta	Saramaccan	1	U+00f6 U+0301 U+0077
+ee$	eː	mbéi hékísee	Saramaccan	1	U+0065 U+0065 U+0024
+ës	ë/ɛ s	dë́dësëmbë	Saramaccan	1	U+00eb U+0073
+éw	é/e w	wántéwante	Saramaccan	1	U+00e9 U+0077
+nh	n h	gaánhángi	Saramaccan	1	U+006e U+0068
 ^i$	i	i	Saramaccan	1	U+005e U+0069 U+0024
-súti (2)	<???>	súti (2)	Saramaccan	1	U+0073 U+00fa U+0074 U+0069 U+0020 U+0028 U+0032 U+0029
-kái [someone] kó	<???>	kái [someone] kó	Saramaccan	1	U+006b U+00e1 U+0069 U+0020 U+005b U+0073 U+006f U+006d U+0065 U+006f U+006e U+0065 U+005d U+0020 U+006b U+00f3
-lóbi (2)	<???>	lóbi (2)	Saramaccan	1	U+006c U+00f3 U+0062 U+0069 U+0020 U+0028 U+0032 U+0029
-tutú (1)	<???>	tutú (1)	Saramaccan	1	U+0074 U+0075 U+0074 U+00fa U+0020 U+0028 U+0031 U+0029
-sikópu (1)	<???>	sikópu (1)	Saramaccan	1	U+0073 U+0069 U+006b U+00f3 U+0070 U+0075 U+0020 U+0028 U+0031 U+0029
-nján (2)	<???>	nján (2)	Saramaccan	1	U+006e U+006a U+00e1 U+006e U+0020 U+0028 U+0032 U+0029
-dóu (1)	<???>	dóu (1)	Saramaccan	1	U+0064 U+00f3 U+0075 U+0020 U+0028 U+0031 U+0029
-féífi (2)	<???>	féífi (2)	Saramaccan	1	U+0066 U+00e9 U+00ed U+0066 U+0069 U+0020 U+0028 U+0032 U+0029
-dí [noun] akí	<???>	dí [noun] akí	Saramaccan	1	U+0064 U+00ed U+0020 U+005b U+006e U+006f U+0075 U+006e U+005d U+0020 U+0061 U+006b U+00ed
+̈́	NULL				
+̈	NULL				
+́	NULL				
+nj	ɲ				
+^nj	ɲ				
+dj	ɟ				
+^dj	ɟ				
+mb	mb				
+^mb	mb				
+nd	nd				
+^nd	nd				
+ndj	ɲɟ				
+ng	ŋɡ				
+^ng	ŋɡ				
+tj	c				
+^tj	c				
+kp	kp				
+^kp	kp				
+gb	gb				
+^gb	gb				

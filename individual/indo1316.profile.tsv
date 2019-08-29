@@ -26,165 +26,104 @@ p	p	sepupu, dapur	Indonesian	204	U+0070
 d	d	tidur, bidadari	Indonesian	193	U+0064
 ^t	t	terlambat, tidur	Indonesian	177	U+005e U+0074
 ^s	s	sebab, sembahyang	Indonesian	172	U+005e U+0073
-k$	k	naik, masak	Indonesian	170	U+006b U+0024
+k$	ʔ	naik, masak	Indonesian	170	U+006b U+0024
 s	s	kesalahan, masak	Indonesian	167	U+0073
 t$	t	terlambat, telat	Indonesian	163	U+0074 U+0024
 r$	r	tidur, dapur	Indonesian	151	U+0072 U+0024
-é	é	kakék-nénék, écék-écék	Indonesian	143	U+00e9
+é	é/e	kakék-nénék, écék-écék	Indonesian	143	U+00e9
 u$	u	kutu, terwélu	Indonesian	127	U+0075 U+0024
 _	_	musim gugur, emak tiri	Indonesian	124	U+005f
-y	y	dayung, menyembunyikan	Indonesian	109	U+0079
+y	j	dayung, menyembunyikan	Indonesian	109	U+0079
 h$	h	mentah, tanah	Indonesian	108	U+0068 U+0024
 h	h	kesalahan, melihat	Indonesian	106	U+0068
-j	j	menjunjung, biji	Indonesian	99	U+006a
-c	c	mencaci-maki, kelinci	Indonesian	97	U+0063
+j	dʒ	menjunjung, biji	Indonesian	99	U+006a
+c	tʃ	mencaci-maki, kelinci	Indonesian	97	U+0063
 ^l	l	lilin, lelaki	Indonesian	88	U+005e U+006c
 s$	s	gadis, keras	Indonesian	73	U+0073 U+0024
 ^a	a	angin, ada	Indonesian	70	U+005e U+0061
 l$	l	mengambil, tinggal	Indonesian	65	U+006c U+0024
-gg	gg	menggenggam, tenggelam	Indonesian	64	U+0067 U+0067
+gg	g g	menggenggam, tenggelam	Indonesian	64	U+0067 U+0067
 ^d	d	di, dalam	Indonesian	61	U+005e U+0064
 m$	m	tenggelam, menggenggam	Indonesian	59	U+006d U+0024
 ^g	g	garpu, gadis	Indonesian	56	U+005e U+0067
 ^r	r	rakus, rasa malu	Indonesian	50	U+005e U+0072
-^c	c	cabang, cepat	Indonesian	47	U+005e U+0063
-^j	j	jalan, jelék	Indonesian	46	U+005e U+006a
+^c	tʃ	cabang, cepat	Indonesian	47	U+005e U+0063
+^j	dʒ	jalan, jelék	Indonesian	46	U+005e U+006a
 ^h	h	hidup, hawa	Indonesian	37	U+005e U+0068
 p$	p	hidup, menggarap	Indonesian	36	U+0070 U+0024
 w	w	membawa, tawon	Indonesian	36	U+0077
--	<?>	mencaci-maki, laki-laki	Indonesian	33	U+002d
+-	+	mencaci-maki, laki-laki	Indonesian	33	U+002d
 ^i	i	injéksi, ikat	Indonesian	32	U+005e U+0069
 ^n	n	naik, nampak	Indonesian	27	U+005e U+006e
 ^u	u	urat, udara	Indonesian	23	U+005e U+0075
 o$	o	romo, separo	Indonesian	15	U+006f U+0024
 ^o	o	onta, om	Indonesian	14	U+005e U+006f
-rs	rs	kursi, bersih	Indonesian	14	U+0072 U+0073
+rs	r s	kursi, bersih	Indonesian	14	U+0072 U+0073
 gh	gh	menghancurkan, menghilang	Indonesian	12	U+0067 U+0068
-kk	kk	memercikkan, menunjukkan	Indonesian	11	U+006b U+006b
+kk	k k	memercikkan, menunjukkan	Indonesian	11	U+006b U+006b
 ^w	w	wanita, wol	Indonesian	11	U+005e U+0077
 ^e	e	enggak, engkau	Indonesian	10	U+005e U+0065
-aa	aa	pemerkosaan, kegelitaan	Indonesian	9	U+0061 U+0061
-és	és	melését, menggésék	Indonesian	8	U+00e9 U+0073
-ks	ks	maksud, sanksi	Indonesian	8	U+006b U+0073
+aa	aː	pemerkosaan, kegelitaan	Indonesian	9	U+0061 U+0061
+és	é/e s	melését, menggésék	Indonesian	8	U+00e9 U+0073
+ks	k s	maksud, sanksi	Indonesian	8	U+006b U+0073
 b$	b	sebab, arnab	Indonesian	8	U+0062 U+0024
-gs	gs	berlangsung, angsa	Indonesian	7	U+0067 U+0073
-é$	é	idé, soré	Indonesian	6	U+00e9 U+0024
-kh	kh	terakhir, berkhotbah	Indonesian	6	U+006b U+0068
+gs	g s	berlangsung, angsa	Indonesian	7	U+0067 U+0073
+é$	é/e	idé, soré	Indonesian	6	U+00e9 U+0024
+kh	x	terakhir, berkhotbah	Indonesian	6	U+006b U+0068
 v	v	olive, léver	Indonesian	5	U+0076
-rh	rh	berhenti, berhala	Indonesian	5	U+0072 U+0068
-éw	éw	bréwok, céwék	Indonesian	5	U+00e9 U+0077
+rh	r h	berhenti, berhala	Indonesian	5	U+0072 U+0068
+éw	é/e w	bréwok, céwék	Indonesian	5	U+00e9 U+0077
 d$	d	masjid, murid	Indonesian	5	U+0064 U+0024
 f	f	telfon, bernafas	Indonesian	5	U+0066
-^S	<?>	Senin, Sabtu	Indonesian	4	U+005e U+0053
-^é	é	énténg, écék-écék	Indonesian	4	U+005e U+00e9
+^S	S/s	Senin, Sabtu	Indonesian	4	U+005e U+0053
+^é	é/e	énténg, écék-écék	Indonesian	4	U+005e U+00e9
 ^f	f	famili, flu	Indonesian	4	U+005e U+0066
-ns	ns	konspirasi, insang	Indonesian	4	U+006e U+0073
-rw	rw	terwélu, arwah	Indonesian	3	U+0072 U+0077
+ns	n s	konspirasi, insang	Indonesian	4	U+006e U+0073
+rw	r w	terwélu, arwah	Indonesian	3	U+0072 U+0077
 e$	e	olive, wine	Indonesian	3	U+0065 U+0024
-^y	y	yatim-piatu, yakin	Indonesian	3	U+005e U+0079
-éh	éh	léhér, memperboléhkan	Indonesian	3	U+00e9 U+0068
+^y	j	yatim-piatu, yakin	Indonesian	3	U+005e U+0079
+éh	é/e h	léhér, memperboléhkan	Indonesian	3	U+00e9 U+0068
 mengantar(kan)	<???>	mengantar(kan)	Indonesian	2	U+006d U+0065 U+006e U+0067 U+0061 U+006e U+0074 U+0061 U+0072 U+0028 U+006b U+0061 U+006e U+0029
 kw	kw	mendakwa, terdakwa	Indonesian	2	U+006b U+0077
 ^v	v	vonis, vagina	Indonesian	2	U+005e U+0076
-^W	<?>	WC, WTS	Indonesian	2	U+005e U+0057
 z	z	jenazah, mengizinkan	Indonesian	2	U+007a
-és$	és	menétés	Indonesian	1	U+00e9 U+0073 U+0024
+és$	é/e s	menétés	Indonesian	1	U+00e9 U+0073 U+0024
 meng(h)isap	<???>	meng(h)isap	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0028 U+0068 U+0029 U+0069 U+0073 U+0061 U+0070
-susu (1)	<???>	susu (1)	Indonesian	1	U+0073 U+0075 U+0073 U+0075 U+0020 U+0028 U+0031 U+0029
-mencium (2)	<???>	mencium (2)	Indonesian	1	U+006d U+0065 U+006e U+0063 U+0069 U+0075 U+006d U+0020 U+0028 U+0032 U+0029
-(ayam) jago	<???>	(ayam) jago	Indonesian	1	U+0028 U+0061 U+0079 U+0061 U+006d U+0029 U+0020 U+006a U+0061 U+0067 U+006f
-(burung) nuri	<???>	(burung) nuri	Indonesian	1	U+0028 U+0062 U+0075 U+0072 U+0075 U+006e U+0067 U+0029 U+0020 U+006e U+0075 U+0072 U+0069
-(di) dalam	<???>	(di) dalam	Indonesian	1	U+0028 U+0064 U+0069 U+0029 U+0020 U+0064 U+0061 U+006c U+0061 U+006d
-panci (goréng)	<???>	panci (goréng)	Indonesian	1	U+0070 U+0061 U+006e U+0063 U+0069 U+0020 U+0028 U+0067 U+006f U+0072 U+00e9 U+006e U+0067 U+0029
-kulit (binatang)	<???>	kulit (binatang)	Indonesian	1	U+006b U+0075 U+006c U+0069 U+0074 U+0020 U+0028 U+0062 U+0069 U+006e U+0061 U+0074 U+0061 U+006e U+0067 U+0029
-(rasa) gatal	<???>	(rasa) gatal	Indonesian	1	U+0028 U+0072 U+0061 U+0073 U+0061 U+0029 U+0020 U+0067 U+0061 U+0074 U+0061 U+006c
-(hari) Minggu	<???>	(hari) Minggu	Indonesian	1	U+0028 U+0068 U+0061 U+0072 U+0069 U+0029 U+0020 U+004d U+0069 U+006e U+0067 U+0067 U+0075
-I$	<?>	menghalangI	Indonesian	1	U+0049 U+0024
+I$	i	menghalangI	Indonesian	1	U+0049 U+0024
 menutup(i)	<???>	menutup(i)	Indonesian	1	U+006d U+0065 U+006e U+0075 U+0074 U+0075 U+0070 U+0028 U+0069 U+0029
-kaos (kaki)	<???>	kaos (kaki)	Indonesian	1	U+006b U+0061 U+006f U+0073 U+0020 U+0028 U+006b U+0061 U+006b U+0069 U+0029
 mengirim(i)	<???>	mengirim(i)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0069 U+0072 U+0069 U+006d U+0028 U+0069 U+0029
-(di) mana	<???>	(di) mana	Indonesian	1	U+0028 U+0064 U+0069 U+0029 U+0020 U+006d U+0061 U+006e U+0061
-(buah) ara	<???>	(buah) ara	Indonesian	1	U+0028 U+0062 U+0075 U+0061 U+0068 U+0029 U+0020 U+0061 U+0072 U+0061
-kabur (1)	<???>	kabur (1)	Indonesian	1	U+006b U+0061 U+0062 U+0075 U+0072 U+0020 U+0028 U+0031 U+0029
 menimbun(kan)	<???>	menimbun(kan)	Indonesian	1	U+006d U+0065 U+006e U+0069 U+006d U+0062 U+0075 U+006e U+0028 U+006b U+0061 U+006e U+0029
 menggoncang(kan)	<???>	menggoncang(kan)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0067 U+006f U+006e U+0063 U+0061 U+006e U+0067 U+0028 U+006b U+0061 U+006e U+0029
-bulu (burung)	<???>	bulu (burung)	Indonesian	1	U+0062 U+0075 U+006c U+0075 U+0020 U+0028 U+0062 U+0075 U+0072 U+0075 U+006e U+0067 U+0029
-(ikan) hiu	<???>	(ikan) hiu	Indonesian	1	U+0028 U+0069 U+006b U+0061 U+006e U+0029 U+0020 U+0068 U+0069 U+0075
-^R	<?>	Rabu	Indonesian	1	U+005e U+0052
-(buah) anggur	<???>	(buah) anggur	Indonesian	1	U+0028 U+0062 U+0075 U+0061 U+0068 U+0029 U+0020 U+0061 U+006e U+0067 U+0067 U+0075 U+0072
-situ (1)	<???>	situ (1)	Indonesian	1	U+0073 U+0069 U+0074 U+0075 U+0020 U+0028 U+0031 U+0029
-siang (2)	<???>	siang (2)	Indonesian	1	U+0073 U+0069 U+0061 U+006e U+0067 U+0020 U+0028 U+0032 U+0029
-ss	ss	massa	Indonesian	1	U+0073 U+0073
+^R	R/r	Rabu	Indonesian	1	U+005e U+0052
+ss	s	massa	Indonesian	1	U+0073 U+0073
 mengguncang(kan)	<???>	mengguncang(kan)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0067 U+0075 U+006e U+0063 U+0061 U+006e U+0067 U+0028 U+006b U+0061 U+006e U+0029
-(burung) puyuh	<???>	(burung) puyuh	Indonesian	1	U+0028 U+0062 U+0075 U+0072 U+0075 U+006e U+0067 U+0029 U+0020 U+0070 U+0075 U+0079 U+0075 U+0068
-^P	<?>	PSK	Indonesian	1	U+005e U+0050
-I	<?>	SIM	Indonesian	1	U+0049
-marga (1)	<???>	marga (1)	Indonesian	1	U+006d U+0061 U+0072 U+0067 U+0061 U+0020 U+0028 U+0031 U+0029
-(di) belakang	<???>	(di) belakang	Indonesian	1	U+0028 U+0064 U+0069 U+0029 U+0020 U+0062 U+0065 U+006c U+0061 U+006b U+0061 U+006e U+0067
-(ikan) pari	<???>	(ikan) pari	Indonesian	1	U+0028 U+0069 U+006b U+0061 U+006e U+0029 U+0020 U+0070 U+0061 U+0072 U+0069
-pembuluh (darah)	<???>	pembuluh (darah)	Indonesian	1	U+0070 U+0065 U+006d U+0062 U+0075 U+006c U+0075 U+0068 U+0020 U+0028 U+0064 U+0061 U+0072 U+0061 U+0068 U+0029
+^PSK$	p eː s k a	PSK	Indonesian	1	U+005e U+0050
 ^kh	kh	khitan	Indonesian	1	U+005e U+006b U+0068
-(gigi) geraham	<???>	(gigi) geraham	Indonesian	1	U+0028 U+0067 U+0069 U+0067 U+0069 U+0029 U+0020 U+0067 U+0065 U+0072 U+0061 U+0068 U+0061 U+006d
-C$	<?>	WC	Indonesian	1	U+0043 U+0024
-pesawat (terbang)	<???>	pesawat (terbang)	Indonesian	1	U+0070 U+0065 U+0073 U+0061 U+0077 U+0061 U+0074 U+0020 U+0028 U+0074 U+0065 U+0072 U+0062 U+0061 U+006e U+0067 U+0029
-^és$	és	és	Indonesian	1	U+005e U+00e9 U+0073 U+0024
-diam (2)	<???>	diam (2)	Indonesian	1	U+0064 U+0069 U+0061 U+006d U+0020 U+0028 U+0032 U+0029
-V$	<?>	TV	Indonesian	1	U+0056 U+0024
-warga(negara)	<???>	warga(negara)	Indonesian	1	U+0077 U+0061 U+0072 U+0067 U+0061 U+0028 U+006e U+0065 U+0067 U+0061 U+0072 U+0061 U+0029
-(kain) lap	<???>	(kain) lap	Indonesian	1	U+0028 U+006b U+0061 U+0069 U+006e U+0029 U+0020 U+006c U+0061 U+0070
-camar (laut)	<???>	camar (laut)	Indonesian	1	U+0063 U+0061 U+006d U+0061 U+0072 U+0020 U+0028 U+006c U+0061 U+0075 U+0074 U+0029
-kabur (2)	<???>	kabur (2)	Indonesian	1	U+006b U+0061 U+0062 U+0075 U+0072 U+0020 U+0028 U+0032 U+0029
-susu (2)	<???>	susu (2)	Indonesian	1	U+0073 U+0075 U+0073 U+0075 U+0020 U+0028 U+0032 U+0029
-^J	<?>	Jum'at	Indonesian	1	U+005e U+004a
-(burung) gagak	<???>	(burung) gagak	Indonesian	1	U+0028 U+0062 U+0075 U+0072 U+0075 U+006e U+0067 U+0029 U+0020 U+0067 U+0061 U+0067 U+0061 U+006b
-ls	ls	sumpah palsu	Indonesian	1	U+006c U+0073
-(ikan) paus	<???>	(ikan) paus	Indonesian	1	U+0028 U+0069 U+006b U+0061 U+006e U+0029 U+0020 U+0070 U+0061 U+0075 U+0073
-'a	'a	Jum'at	Indonesian	1	U+0027 U+0061
-diam (1)	<???>	diam (1)	Indonesian	1	U+0064 U+0069 U+0061 U+006d U+0020 U+0028 U+0031 U+0029
-^T	<?>	TV	Indonesian	1	U+005e U+0054
-^sh	sh	sholat	Indonesian	1	U+005e U+0073 U+0068
-T	<?>	WTS	Indonesian	1	U+0054
-pekan (2)	<???>	pekan (2)	Indonesian	1	U+0070 U+0065 U+006b U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-(pintu) gerbang	<???>	(pintu) gerbang	Indonesian	1	U+0028 U+0070 U+0069 U+006e U+0074 U+0075 U+0029 U+0020 U+0067 U+0065 U+0072 U+0062 U+0061 U+006e U+0067
-(di) bawah	<???>	(di) bawah	Indonesian	1	U+0028 U+0064 U+0069 U+0029 U+0020 U+0062 U+0061 U+0077 U+0061 U+0068
-plat (mobil)	<???>	plat (mobil)	Indonesian	1	U+0070 U+006c U+0061 U+0074 U+0020 U+0028 U+006d U+006f U+0062 U+0069 U+006c U+0029
-(burung) bétét	<???>	(burung) bétét	Indonesian	1	U+0028 U+0062 U+0075 U+0072 U+0075 U+006e U+0067 U+0029 U+0020 U+0062 U+00e9 U+0074 U+00e9 U+0074
-mengubur(kan)	<???>	mengubur(kan)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0075 U+0062 U+0075 U+0072 U+0028 U+006b U+0061 U+006e U+0029
-(hari) Ahad	<???>	(hari) Ahad	Indonesian	1	U+0028 U+0068 U+0061 U+0072 U+0069 U+0029 U+0020 U+0041 U+0068 U+0061 U+0064
-^és	és	ésok	Indonesian	1	U+005e U+00e9 U+0073
-(buah) zaitun	<???>	(buah) zaitun	Indonesian	1	U+0028 U+0062 U+0075 U+0061 U+0068 U+0029 U+0020 U+007a U+0061 U+0069 U+0074 U+0075 U+006e
-gempa (bumi/tektonik)	<???>	gempa (bumi/tektonik)	Indonesian	1	U+0067 U+0065 U+006d U+0070 U+0061 U+0020 U+0028 U+0062 U+0075 U+006d U+0069 U+002f U+0074 U+0065 U+006b U+0074 U+006f U+006e U+0069 U+006b U+0029
-K$	<?>	PSK	Indonesian	1	U+004b U+0024
-(di) atas	<???>	(di) atas	Indonesian	1	U+0028 U+0064 U+0069 U+0029 U+0020 U+0061 U+0074 U+0061 U+0073
-siang (1)	<???>	siang (1)	Indonesian	1	U+0073 U+0069 U+0061 U+006e U+0067 U+0020 U+0028 U+0031 U+0029
-S	<?>	PSK	Indonesian	1	U+0053
+^WC$	w e s e	WC	Indonesian	1	U+0043 U+0024
+^és$	é/e s	és	Indonesian	1	U+005e U+00e9 U+0073 U+0024
+^TV$	t i f i	TV	Indonesian	1	U+0056 U+0024
+^J	Dʒ/dʒ	Jum'at	Indonesian	1	U+005e U+004a
+ls	l s	sumpah palsu	Indonesian	1	U+006c U+0073
+'a	ʔ a	Jum'at	Indonesian	1	U+0027 U+0061
+^sh	s	sholat	Indonesian	1	U+005e U+0073 U+0068
+^és	é/e s	ésok	Indonesian	1	U+005e U+00e9 U+0073
 puji(an)	<???>	puji(an)	Indonesian	1	U+0070 U+0075 U+006a U+0069 U+0028 U+0061 U+006e U+0029
-(sepatu) bot	<???>	(sepatu) bot	Indonesian	1	U+0028 U+0073 U+0065 U+0070 U+0061 U+0074 U+0075 U+0029 U+0020 U+0062 U+006f U+0074
 menyesal(i)	<???>	menyesal(i)	Indonesian	1	U+006d U+0065 U+006e U+0079 U+0065 U+0073 U+0061 U+006c U+0028 U+0069 U+0029
-pasang-surut (laut)	<???>	pasang-surut (laut)	Indonesian	1	U+0070 U+0061 U+0073 U+0061 U+006e U+0067 U+002d U+0073 U+0075 U+0072 U+0075 U+0074 U+0020 U+0028 U+006c U+0061 U+0075 U+0074 U+0029
-éh$	éh	téh	Indonesian	1	U+00e9 U+0068 U+0024
-saudara (kandung)	<???>	saudara (kandung)	Indonesian	1	U+0073 U+0061 U+0075 U+0064 U+0061 U+0072 U+0061 U+0020 U+0028 U+006b U+0061 U+006e U+0064 U+0075 U+006e U+0067 U+0029
-(burung) merpati	<???>	(burung) merpati	Indonesian	1	U+0028 U+0062 U+0075 U+0072 U+0075 U+006e U+0067 U+0029 U+0020 U+006d U+0065 U+0072 U+0070 U+0061 U+0074 U+0069
-pasang (1)	<???>	pasang (1)	Indonesian	1	U+0070 U+0061 U+0073 U+0061 U+006e U+0067 U+0020 U+0028 U+0031 U+0029
-pertengkaran (mulut)	<???>	pertengkaran (mulut)	Indonesian	1	U+0070 U+0065 U+0072 U+0074 U+0065 U+006e U+0067 U+006b U+0061 U+0072 U+0061 U+006e U+0020 U+0028 U+006d U+0075 U+006c U+0075 U+0074 U+0029
-S$	<?>	WTS	Indonesian	1	U+0053 U+0024
-pasang (2)	<???>	pasang (2)	Indonesian	1	U+0070 U+0061 U+0073 U+0061 U+006e U+0067 U+0020 U+0028 U+0032 U+0029
-cerobong (asap)	<???>	cerobong (asap)	Indonesian	1	U+0063 U+0065 U+0072 U+006f U+0062 U+006f U+006e U+0067 U+0020 U+0028 U+0061 U+0073 U+0061 U+0070 U+0029
-memberi(kan)	<???>	memberi(kan)	Indonesian	1	U+006d U+0065 U+006d U+0062 U+0065 U+0072 U+0069 U+0028 U+006b U+0061 U+006e U+0029
-nyala (api)	<???>	nyala (api)	Indonesian	1	U+006e U+0079 U+0061 U+006c U+0061 U+0020 U+0028 U+0061 U+0070 U+0069 U+0029
+éh$	é/e h	téh	Indonesian	1	U+00e9 U+0068 U+0024
+^WTS$	w é/e t éé/eː s 	WTS	Indonesian	1	U+0053 U+0024
 ^K	<?>	Kamis	Indonesian	1	U+005e U+004b
-pokok (kayu)	<???>	pokok (kayu)	Indonesian	1	U+0070 U+006f U+006b U+006f U+006b U+0020 U+0028 U+006b U+0061 U+0079 U+0075 U+0029
-mengaku(i)	<???>	mengaku(i)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0061 U+006b U+0075 U+0028 U+0069 U+0029
-(di) depan	<???>	(di) depan	Indonesian	1	U+0028 U+0064 U+0069 U+0029 U+0020 U+0064 U+0065 U+0070 U+0061 U+006e
-M$	<?>	SIM	Indonesian	1	U+004d U+0024
-mencium (1)	<???>	mencium (1)	Indonesian	1	U+006d U+0065 U+006e U+0063 U+0069 U+0075 U+006d U+0020 U+0028 U+0031 U+0029
-marga (2)	<???>	marga (2)	Indonesian	1	U+006d U+0061 U+0072 U+0067 U+0061 U+0020 U+0028 U+0032 U+0029
-menggabung(kan)	<???>	menggabung(kan)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0067 U+0061 U+0062 U+0075 U+006e U+0067 U+0028 U+006b U+0061 U+006e U+0029
-(burung) tukan	<???>	(burung) tukan	Indonesian	1	U+0028 U+0062 U+0075 U+0072 U+0075 U+006e U+0067 U+0029 U+0020 U+0074 U+0075 U+006b U+0061 U+006e
-pekan (1)	<???>	pekan (1)	Indonesian	1	U+0070 U+0065 U+006b U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-alis (mata)	<???>	alis (mata)	Indonesian	1	U+0061 U+006c U+0069 U+0073 U+0020 U+0028 U+006d U+0061 U+0074 U+0061 U+0029
-(yang) mana	<???>	(yang) mana	Indonesian	1	U+0028 U+0079 U+0061 U+006e U+0067 U+0029 U+0020 U+006d U+0061 U+006e U+0061
-(anak) kunci	<???>	(anak) kunci	Indonesian	1	U+0028 U+0061 U+006e U+0061 U+006b U+0029 U+0020 U+006b U+0075 U+006e U+0063 U+0069
-(ikan) lumba-lumba	<???>	(ikan) lumba-lumba	Indonesian	1	U+0028 U+0069 U+006b U+0061 U+006e U+0029 U+0020 U+006c U+0075 U+006d U+0062 U+0061 U+002d U+006c U+0075 U+006d U+0062 U+0061
-^oo	oo	oom	Indonesian	1	U+005e U+006f U+006f
+^SIM$	s i m	SIM	Indonesian	1	U+004d U+0024
+^oo	oː	oom	Indonesian	1	U+005e U+006f U+006f
 zina(h)	<???>	zina(h)	Indonesian	1	U+007a U+0069 U+006e U+0061 U+0028 U+0068 U+0029
+M	M/m				
+A	A/a				
+^K	K/k				
+sy	ʃ				
+^sy	ʃ				
+ng	ŋ				
+ng$	ŋ				
+^ng	ŋ				
+ny	ɲ				
+^ny	ɲ				
+nc	ɲ				
+nj	ɲ				

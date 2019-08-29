@@ -7,276 +7,102 @@ i	i	mutijina, bitsijana	Imbabura Quechua	594	U+0069
 n	n	shungunchina, punchalla	Imbabura Quechua	542	U+006e
 u	u	kutuk rumi, kuchuna	Imbabura Quechua	526	U+0075
 k	k	llaki, wañushka	Imbabura Quechua	261	U+006b
-r	r	wagra, kara	Imbabura Quechua	237	U+0072
+r	ɾ	wagra, kara	Imbabura Quechua	237	U+0072
 u$	u	kiru, rasu	Imbabura Quechua	198	U+0075 U+0024
 t	t	jatun, mutijina	Imbabura Quechua	181	U+0074
 ^k	k	kaspi, kara	Imbabura Quechua	154	U+005e U+006b
-ch	ch	wañuchina, punchalla	Imbabura Quechua	151	U+0063 U+0068
+ch	tʃ	wañuchina, punchalla	Imbabura Quechua	151	U+0063 U+0068
 m	m	shimi, ñawi milma	Imbabura Quechua	144	U+006d
 i$	i	shimi, llaki	Imbabura Quechua	134	U+0069 U+0024
 _	_	kayna chay shuk puncha, mana ali rimak	Imbabura Quechua	124	U+005f
 p	p	ñaupashpa apana, allpa	Imbabura Quechua	119	U+0070
-y	y	tiya, kayllayana	Imbabura Quechua	116	U+0079
+y	j	tiya, kayllayana	Imbabura Quechua	116	U+0079
 l	l	kulki, pilchi	Imbabura Quechua	112	U+006c
-ll	ll	punchalla, allpa	Imbabura Quechua	110	U+006c U+006c
+ll	ʒ	punchalla, allpa	Imbabura Quechua	110	U+006c U+006c
 ^a	a	allpa, apuk	Imbabura Quechua	103	U+005e U+0061
 ^p	p	pay, pamba	Imbabura Quechua	100	U+005e U+0070
 ^m	m	mutijina, mikuna	Imbabura Quechua	96	U+005e U+006d
 s	s	kaspi, aspina	Imbabura Quechua	94	U+0073
-sh	sh	wañushka, kushni	Imbabura Quechua	84	U+0073 U+0068
+sh	ʃ	wañushka, kushni	Imbabura Quechua	84	U+0073 U+0068
 g	g	sachaguagra, wagra	Imbabura Quechua	80	U+0067
 b	b	pamba, tabaku	Imbabura Quechua	79	U+0062
 ^t	t	tiya, tabaku	Imbabura Quechua	74	U+005e U+0074
 ^s	s	sina, sillu	Imbabura Quechua	67	U+005e U+0073
 d	d	didu, azadun	Imbabura Quechua	64	U+0064
-j	j	mutijina, bitsijana	Imbabura Quechua	59	U+006a
-^ch	ch	chita, changa	Imbabura Quechua	55	U+005e U+0063 U+0068
+j	x	mutijina, bitsijana	Imbabura Quechua	59	U+006a
+^ch	tʃ	chita, changa	Imbabura Quechua	55	U+005e U+0063 U+0068
 ^w	w	wagra, wañuchina	Imbabura Quechua	50	U+005e U+0077
 w	w	wawachina, ruku wawki	Imbabura Quechua	50	U+0077
 ^u	u	uchilla, utuju	Imbabura Quechua	49	U+005e U+0075
-^y	y	yachajuna, yaku wambuy	Imbabura Quechua	48	U+005e U+0079
-^j	j	jatun, jirru	Imbabura Quechua	46	U+005e U+006a
+^y	j	yachajuna, yaku wambuy	Imbabura Quechua	48	U+005e U+0079
+^j	x	jatun, jirru	Imbabura Quechua	46	U+005e U+006a
 ^b	b	bitsijana, biga	Imbabura Quechua	43	U+005e U+0062
-n$	n	jatun, ñan	Imbabura Quechua	39	U+006e U+0024
-^r	r	raka, rasu	Imbabura Quechua	37	U+005e U+0072
-y$	y	pay, yaku wambuy	Imbabura Quechua	37	U+0079 U+0024
+n$	ŋ	jatun, ñan	Imbabura Quechua	39	U+006e U+0024
+^r	ʐ	raka, rasu	Imbabura Quechua	37	U+005e U+0072
+y$	j	pay, yaku wambuy	Imbabura Quechua	37	U+0079 U+0024
 ^i	i	iglizya, ima pacha	Imbabura Quechua	34	U+005e U+0069
-^ll	ll	llaki, llama	Imbabura Quechua	33	U+005e U+006c U+006c
+^ll	ʒ	llaki, llama	Imbabura Quechua	33	U+005e U+006c U+006c
 k$	k	apuk, ñukanchik	Imbabura Quechua	30	U+006b U+0024
 s$	s	añas, alas	Imbabura Quechua	28	U+0073 U+0024
-ñ	ñ	wañuchina, wañushka	Imbabura Quechua	27	U+00f1
-^sh	sh	shimi, shuwak	Imbabura Quechua	24	U+005e U+0073 U+0068
-^ñ	ñ	ñan, ñawi milma	Imbabura Quechua	23	U+005e U+00f1
+ñ	ɲ	wañuchina, wañushka	Imbabura Quechua	27	U+00f1
+^sh	ʃ	shimi, shuwak	Imbabura Quechua	24	U+005e U+0073 U+0068
+^ñ	ɲ	ñan, ñawi milma	Imbabura Quechua	23	U+005e U+00f1
 z	z	iglizya, azadun	Imbabura Quechua	22	U+007a
 e	e	tenedur, serbisa	Imbabura Quechua	20	U+0065
 ^l	l	lulun, lichi	Imbabura Quechua	19	U+005e U+006c
-^f	f	fakina, fuyu	Imbabura Quechua	19	U+005e U+0066
-f	f	uchufa, kafé	Imbabura Quechua	15	U+0066
+^f	ɸ	fakina, fuyu	Imbabura Quechua	19	U+005e U+0066
+f	ɸ	uchufa, kafé	Imbabura Quechua	15	U+0066
 ts	ts	bitsijana, kintsilgu	Imbabura Quechua	11	U+0074 U+0073
 ^n	n	nina, nanaima	Imbabura Quechua	10	U+005e U+006e
 ^d	d	didu, dirichu	Imbabura Quechua	10	U+005e U+0064
 l$	l	animal, karsil	Imbabura Quechua	9	U+006c U+0024
-rr	rr	jirru, sirruchu	Imbabura Quechua	9	U+0072 U+0072
-r$	r	tilar, tambur	Imbabura Quechua	9	U+0072 U+0024
--	<?>	-pi, -lla	Imbabura Quechua	9	U+002d
+rr	ʐ	jirru, sirruchu	Imbabura Quechua	9	U+0072 U+0072
+r$	ɾ	tilar, tambur	Imbabura Quechua	9	U+0072 U+0024
+-	+	-pi, -lla	Imbabura Quechua	9	U+002d
 ^g	g	garsa, gushtana	Imbabura Quechua	7	U+005e U+0067
-j$	j	yuraj, chushij	Imbabura Quechua	7	U+006a U+0024
-jsh	jsh	ujsha wasi, ujsha	Imbabura Quechua	6	U+006a U+0073 U+0068
-japina (1)	<???>	japina (1)	Imbabura Quechua	6	U+006a U+0061 U+0070 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-rs	rs	garsa, sarsillu	Imbabura Quechua	4	U+0072 U+0073
-ú	ú	fúsfuru, tilibisyún	Imbabura Quechua	4	U+00fa
+j$	x	yuraj, chushij	Imbabura Quechua	7	U+006a U+0024
+jsh	x ʃ	ujsha wasi, ujsha	Imbabura Quechua	6	U+006a U+0073 U+0068
+rs	ɾ s	garsa, sarsillu	Imbabura Quechua	4	U+0072 U+0073
+ú	ú/u	fúsfuru, tilibisyún	Imbabura Quechua	4	U+00fa
 ^z	z	zunfa, zambu	Imbabura Quechua	4	U+005e U+007a
-ws	ws	kawsana, kawsay	Imbabura Quechua	4	U+0077 U+0073
+ws	w s	kawsana, kawsay	Imbabura Quechua	4	U+0077 U+0073
 o	o	koku, umbrospi markana	Imbabura Quechua	4	U+006f
-^jw	jw	jwis, jwibes	Imbabura Quechua	3	U+005e U+006a U+0077
-ms	ms	kimsa, kimsaniki	Imbabura Quechua	3	U+006d U+0073
+^jw	x w	jwis, jwibes	Imbabura Quechua	3	U+005e U+006a U+0077
+ms	m s	kimsa, kimsaniki	Imbabura Quechua	3	U+006d U+0073
 c	c	mircules, pascana	Imbabura Quechua	3	U+0063
 ^ts	ts	tsiya, tsini	Imbabura Quechua	3	U+005e U+0074 U+0073
-js	js	bijsayuk, sijsi	Imbabura Quechua	3	U+006a U+0073
+js	x s	bijsayuk, sijsi	Imbabura Quechua	3	U+006a U+0073
 q	q	piqui, kuriquinga	Imbabura Quechua	3	U+0071
-sh$	sh	ñapash, -pash	Imbabura Quechua	3	U+0073 U+0068 U+0024
-^kw	kw	kwinta, kwadradu	Imbabura Quechua	2	U+005e U+006b U+0077
-ks	ks	tuksina, wiksa	Imbabura Quechua	2	U+006b U+0073
-shitana (2)	<???>	shitana (2)	Imbabura Quechua	2	U+0073 U+0068 U+0069 U+0074 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-^v	v	vira	Imbabura Quechua	2	U+005e U+0076
-apana (1)	<???>	apana (1)	Imbabura Quechua	2	U+0061 U+0070 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
+sh$	ʃ	ñapash, -pash	Imbabura Quechua	3	U+0073 U+0068 U+0024
+^kw	k w	kwinta, kwadradu	Imbabura Quechua	2	U+005e U+006b U+0077
+ks	k s	tuksina, wiksa	Imbabura Quechua	2	U+006b U+0073
+^v	β	vira	Imbabura Quechua	2	U+005e U+0076
 e$	e	nigusyante, te	Imbabura Quechua	2	U+0065 U+0024
-ns	ns	sinsil, gansu	Imbabura Quechua	2	U+006e U+0073
-kacharina (1)	<???>	kacharina (1)	Imbabura Quechua	2	U+006b U+0061 U+0063 U+0068 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
+ns	n s	sinsil, gansu	Imbabura Quechua	2	U+006e U+0073
 o$	o	impwesto, dumingo	Imbabura Quechua	2	U+006f U+0024
-awana (2)	<???>	awana (2)	Imbabura Quechua	2	U+0061 U+0077 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-jawa (1)	<???>	jawa (1)	Imbabura Quechua	2	U+006a U+0061 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
-uyana (1)	<???>	uyana (1)	Imbabura Quechua	2	U+0075 U+0079 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-tiyu (2)	<???>	tiyu (2)	Imbabura Quechua	2	U+0074 U+0069 U+0079 U+0075 U+0020 U+0028 U+0032 U+0029
-yuyay (1)	<???>	yuyay (1)	Imbabura Quechua	2	U+0079 U+0075 U+0079 U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-^sw	sw	swidrus, swiltu	Imbabura Quechua	2	U+005e U+0073 U+0077
-^rw	rw	rwida, rwana	Imbabura Quechua	2	U+005e U+0072 U+0077
-jatun jucha (1)	<???>	jatun jucha (1)	Imbabura Quechua	2	U+006a U+0061 U+0074 U+0075 U+006e U+0020 U+006a U+0075 U+0063 U+0068 U+0061 U+0020 U+0028 U+0031 U+0029
-ayllu (2)	<???>	ayllu (2)	Imbabura Quechua	1	U+0061 U+0079 U+006c U+006c U+0075 U+0020 U+0028 U+0032 U+0029
-akllana (1)	<???>	akllana (1)	Imbabura Quechua	1	U+0061 U+006b U+006c U+006c U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-mashna (2)	<???>	mashna (2)	Imbabura Quechua	1	U+006d U+0061 U+0073 U+0068 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-turu (2)	<???>	turu (2)	Imbabura Quechua	1	U+0074 U+0075 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
-anga (1)	<???>	anga (1)	Imbabura Quechua	1	U+0061 U+006e U+0067 U+0061 U+0020 U+0028 U+0031 U+0029
-jambik (2)	<???>	jambik (2)	Imbabura Quechua	1	U+006a U+0061 U+006d U+0062 U+0069 U+006b U+0020 U+0028 U+0032 U+0029
-uku (1)	<???>	uku (1)	Imbabura Quechua	1	U+0075 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
-zh	zh	jwizhu	Imbabura Quechua	1	U+007a U+0068
-kayana (1)	<???>	kayana (1)	Imbabura Quechua	1	U+006b U+0061 U+0079 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-ñaupa (1)	<???>	ñaupa (1)	Imbabura Quechua	1	U+00f1 U+0061 U+0075 U+0070 U+0061 U+0020 U+0028 U+0031 U+0029
-chuchu (1)	<???>	chuchu (1)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0063 U+0068 U+0075 U+0020 U+0028 U+0031 U+0029
-kachana (2)	<???>	kachana (2)	Imbabura Quechua	1	U+006b U+0061 U+0063 U+0068 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-llullana (2)	<???>	llullana (2)	Imbabura Quechua	1	U+006c U+006c U+0075 U+006c U+006c U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-chupana (1)	<???>	chupana (1)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0070 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-uku (3)	<???>	uku (3)	Imbabura Quechua	1	U+0075 U+006b U+0075 U+0020 U+0028 U+0033 U+0029
-anga (2)	<???>	anga (2)	Imbabura Quechua	1	U+0061 U+006e U+0067 U+0061 U+0020 U+0028 U+0032 U+0029
-pishku (1)	<???>	pishku (1)	Imbabura Quechua	1	U+0070 U+0069 U+0073 U+0068 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
-wajcha (1)	<???>	wajcha (1)	Imbabura Quechua	1	U+0077 U+0061 U+006a U+0063 U+0068 U+0061 U+0020 U+0028 U+0031 U+0029
-killa (1)	<???>	killa (1)	Imbabura Quechua	1	U+006b U+0069 U+006c U+006c U+0061 U+0020 U+0028 U+0031 U+0029
-warmi (5)	<???>	warmi (5)	Imbabura Quechua	1	U+0077 U+0061 U+0072 U+006d U+0069 U+0020 U+0028 U+0035 U+0029
-wawa (1)	<???>	wawa (1)	Imbabura Quechua	1	U+0077 U+0061 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
-ñaupa (2)	<???>	ñaupa (2)	Imbabura Quechua	1	U+00f1 U+0061 U+0075 U+0070 U+0061 U+0020 U+0028 U+0032 U+0029
-llullu (2)	<???>	llullu (2)	Imbabura Quechua	1	U+006c U+006c U+0075 U+006c U+006c U+0075 U+0020 U+0028 U+0032 U+0029
-fs	fs	chafsina	Imbabura Quechua	1	U+0066 U+0073
-jachun (1)	<???>	jachun (1)	Imbabura Quechua	1	U+006a U+0061 U+0063 U+0068 U+0075 U+006e U+0020 U+0028 U+0031 U+0029
-jinti (1)	<???>	jinti (1)	Imbabura Quechua	1	U+006a U+0069 U+006e U+0074 U+0069 U+0020 U+0028 U+0031 U+0029
-pw	pw	impwesto	Imbabura Quechua	1	U+0070 U+0077
-killa (4)	<???>	killa (4)	Imbabura Quechua	1	U+006b U+0069 U+006c U+006c U+0061 U+0020 U+0028 U+0034 U+0029
-ls	ls	bulsiku	Imbabura Quechua	1	U+006c U+0073
-makanajuna (2)	<???>	makanajuna (2)	Imbabura Quechua	1	U+006d U+0061 U+006b U+0061 U+006e U+0061 U+006a U+0075 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-kacharina (2)	<???>	kacharina (2)	Imbabura Quechua	1	U+006b U+0061 U+0063 U+0068 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-chupana (2)	<???>	chupana (2)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0070 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-warmi (4)	<???>	warmi (4)	Imbabura Quechua	1	U+0077 U+0061 U+0072 U+006d U+0069 U+0020 U+0028 U+0034 U+0029
-swidra (2)	<???>	swidra (2)	Imbabura Quechua	1	U+0073 U+0077 U+0069 U+0064 U+0072 U+0061 U+0020 U+0028 U+0032 U+0029
-rimana (1)	<???>	rimana (1)	Imbabura Quechua	1	U+0072 U+0069 U+006d U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
+^sw	s w	swidrus, swiltu	Imbabura Quechua	2	U+005e U+0073 U+0077
+^rw	ʐ w	rwida, rwana	Imbabura Quechua	2	U+005e U+0072 U+0077
+zh	ʒ	jwizhu	Imbabura Quechua	1	U+007a U+0068
+fs	ɸ s	chafsina	Imbabura Quechua	1	U+0066 U+0073
+pw	p w	impwesto	Imbabura Quechua	1	U+0070 U+0077
+ls	l s	bulsiku	Imbabura Quechua	1	U+006c U+0073
 lll	lll	kailllalla	Imbabura Quechua	1	U+006c U+006c U+006c
-katina (1)	<???>	katina (1)	Imbabura Quechua	1	U+006b U+0061 U+0074 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-mashna (1)	<???>	mashna (1)	Imbabura Quechua	1	U+006d U+0061 U+0073 U+0068 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-tigrarina (1)	<???>	tigrarina (1)	Imbabura Quechua	1	U+0074 U+0069 U+0067 U+0072 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-jundu (2)	<???>	jundu (2)	Imbabura Quechua	1	U+006a U+0075 U+006e U+0064 U+0075 U+0020 U+0028 U+0032 U+0029
-chaupi (1)	<???>	chaupi (1)	Imbabura Quechua	1	U+0063 U+0068 U+0061 U+0075 U+0070 U+0069 U+0020 U+0028 U+0031 U+0029
-tigrachina (2)	<???>	tigrachina (2)	Imbabura Quechua	1	U+0074 U+0069 U+0067 U+0072 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-kunan (1)	<???>	kunan (1)	Imbabura Quechua	1	U+006b U+0075 U+006e U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-chuchu (2)	<???>	chuchu (2)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0063 U+0068 U+0075 U+0020 U+0028 U+0032 U+0029
-aycha (1)	<???>	aycha (1)	Imbabura Quechua	1	U+0061 U+0079 U+0063 U+0068 U+0061 U+0020 U+0028 U+0031 U+0029
 ^e	e	elefanti	Imbabura Quechua	1	U+005e U+0065
-pishku (2)	<???>	pishku (2)	Imbabura Quechua	1	U+0070 U+0069 U+0073 U+0068 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
-mana nina (2)	<???>	mana nina (2)	Imbabura Quechua	1	U+006d U+0061 U+006e U+0061 U+0020 U+006e U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-kunan (2)	<???>	kunan (2)	Imbabura Quechua	1	U+006b U+0075 U+006e U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-mishki (2)	<???>	mishki (2)	Imbabura Quechua	1	U+006d U+0069 U+0073 U+0068 U+006b U+0069 U+0020 U+0028 U+0032 U+0029
-nina (1)	<???>	nina (1)	Imbabura Quechua	1	U+006e U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-manya (1)	<???>	manya (1)	Imbabura Quechua	1	U+006d U+0061 U+006e U+0079 U+0061 U+0020 U+0028 U+0031 U+0029
-fangalla (2)	<???>	fangalla (2)	Imbabura Quechua	1	U+0066 U+0061 U+006e U+0067 U+0061 U+006c U+006c U+0061 U+0020 U+0028 U+0032 U+0029
-jundu (1)	<???>	jundu (1)	Imbabura Quechua	1	U+006a U+0075 U+006e U+0064 U+0075 U+0020 U+0028 U+0031 U+0029
-shayachina (1)	<???>	shayachina (1)	Imbabura Quechua	1	U+0073 U+0068 U+0061 U+0079 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-tandachina (2)	<???>	tandachina (2)	Imbabura Quechua	1	U+0074 U+0061 U+006e U+0064 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-rupachina (1)	<???>	rupachina (1)	Imbabura Quechua	1	U+0072 U+0075 U+0070 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-yupana (2)	<???>	yupana (2)	Imbabura Quechua	1	U+0079 U+0075 U+0070 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-ñawi (2)	<???>	ñawi (2)	Imbabura Quechua	1	U+00f1 U+0061 U+0077 U+0069 U+0020 U+0028 U+0032 U+0029
-katina (2)	<???>	katina (2)	Imbabura Quechua	1	U+006b U+0061 U+0074 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-shayachina (2)	<???>	shayachina (2)	Imbabura Quechua	1	U+0073 U+0068 U+0061 U+0079 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-washa (2)	<???>	washa (2)	Imbabura Quechua	1	U+0077 U+0061 U+0073 U+0068 U+0061 U+0020 U+0028 U+0032 U+0029
-uray (1)	<???>	uray (1)	Imbabura Quechua	1	U+0075 U+0072 U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-rimana (2)	<???>	rimana (2)	Imbabura Quechua	1	U+0072 U+0069 U+006d U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-kutana (2)	<???>	kutana (2)	Imbabura Quechua	1	U+006b U+0075 U+0074 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-akllana (2)	<???>	akllana (2)	Imbabura Quechua	1	U+0061 U+006b U+006c U+006c U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-anaku (1)	<???>	anaku (1)	Imbabura Quechua	1	U+0061 U+006e U+0061 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
-uku (2)	<???>	uku (2)	Imbabura Quechua	1	U+0075 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
-á	á	alakrán	Imbabura Quechua	1	U+00e1
-yana shungu (2)	<???>	yana shungu (2)	Imbabura Quechua	1	U+0079 U+0061 U+006e U+0061 U+0020 U+0073 U+0068 U+0075 U+006e U+0067 U+0075 U+0020 U+0028 U+0032 U+0029
-kishpichina (2)	<???>	kishpichina (2)	Imbabura Quechua	1	U+006b U+0069 U+0073 U+0068 U+0070 U+0069 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-warmi (3)	<???>	warmi (3)	Imbabura Quechua	1	U+0077 U+0061 U+0072 U+006d U+0069 U+0020 U+0028 U+0033 U+0029
-illak (1)	<???>	illak (1)	Imbabura Quechua	1	U+0069 U+006c U+006c U+0061 U+006b U+0020 U+0028 U+0031 U+0029
-swidru (2)	<???>	swidru (2)	Imbabura Quechua	1	U+0073 U+0077 U+0069 U+0064 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
-llullu (1)	<???>	llullu (1)	Imbabura Quechua	1	U+006c U+006c U+0075 U+006c U+006c U+0075 U+0020 U+0028 U+0031 U+0029
-kachana (1)	<???>	kachana (1)	Imbabura Quechua	1	U+006b U+0061 U+0063 U+0068 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-swidra (1)	<???>	swidra (1)	Imbabura Quechua	1	U+0073 U+0077 U+0069 U+0064 U+0072 U+0061 U+0020 U+0028 U+0031 U+0029
-kutana (1)	<???>	kutana (1)	Imbabura Quechua	1	U+006b U+0075 U+0074 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-yirnu (1)	<???>	yirnu (1)	Imbabura Quechua	1	U+0079 U+0069 U+0072 U+006e U+0075 U+0020 U+0028 U+0031 U+0029
-karu (2)	<???>	karu (2)	Imbabura Quechua	1	U+006b U+0061 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
-fichana (2)	<???>	fichana (2)	Imbabura Quechua	1	U+0066 U+0069 U+0063 U+0068 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-tandachina (3)	<???>	tandachina (3)	Imbabura Quechua	1	U+0074 U+0061 U+006e U+0064 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0033 U+0029
-rikuna (1)	<???>	rikuna (1)	Imbabura Quechua	1	U+0072 U+0069 U+006b U+0075 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-kusana (1)	<???>	kusana (1)	Imbabura Quechua	1	U+006b U+0075 U+0073 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-apana (2)	<???>	apana (2)	Imbabura Quechua	1	U+0061 U+0070 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-muyu (2)	<???>	muyu (2)	Imbabura Quechua	1	U+006d U+0075 U+0079 U+0075 U+0020 U+0028 U+0032 U+0029
--ta (1)	<???>	-ta (1)	Imbabura Quechua	1	U+002d U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
-killa (3)	<???>	killa (3)	Imbabura Quechua	1	U+006b U+0069 U+006c U+006c U+0061 U+0020 U+0028 U+0033 U+0029
-warmi (2)	<???>	warmi (2)	Imbabura Quechua	1	U+0077 U+0061 U+0072 U+006d U+0069 U+0020 U+0028 U+0032 U+0029
-awana (1)	<???>	awana (1)	Imbabura Quechua	1	U+0061 U+0077 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-washa (1)	<???>	washa (1)	Imbabura Quechua	1	U+0077 U+0061 U+0073 U+0068 U+0061 U+0020 U+0028 U+0031 U+0029
-ayllu (3)	<???>	ayllu (3)	Imbabura Quechua	1	U+0061 U+0079 U+006c U+006c U+0075 U+0020 U+0028 U+0033 U+0029
-tarina (1)	<???>	tarina (1)	Imbabura Quechua	1	U+0074 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-tiyarina (2)	<???>	tiyarina (2)	Imbabura Quechua	1	U+0074 U+0069 U+0079 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-yuyay (2)	<???>	yuyay (2)	Imbabura Quechua	1	U+0079 U+0075 U+0079 U+0061 U+0079 U+0020 U+0028 U+0032 U+0029
-amsa (2)	<???>	amsa (2)	Imbabura Quechua	1	U+0061 U+006d U+0073 U+0061 U+0020 U+0028 U+0032 U+0029
-charina (1)	<???>	charina (1)	Imbabura Quechua	1	U+0063 U+0068 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-yana shungu (1)	<???>	yana shungu (1)	Imbabura Quechua	1	U+0079 U+0061 U+006e U+0061 U+0020 U+0073 U+0068 U+0075 U+006e U+0067 U+0075 U+0020 U+0028 U+0031 U+0029
-^shw	shw	shwiter	Imbabura Quechua	1	U+005e U+0073 U+0068 U+0077
-achka (1)	<???>	achka (1)	Imbabura Quechua	1	U+0061 U+0063 U+0068 U+006b U+0061 U+0020 U+0028 U+0031 U+0029
-chupu (2)	<???>	chupu (2)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0070 U+0075 U+0020 U+0028 U+0032 U+0029
-wachu (2)	<???>	wachu (2)	Imbabura Quechua	1	U+0077 U+0061 U+0063 U+0068 U+0075 U+0020 U+0028 U+0032 U+0029
-yupana (1)	<???>	yupana (1)	Imbabura Quechua	1	U+0079 U+0075 U+0070 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-jucha (2)	<???>	jucha (2)	Imbabura Quechua	1	U+006a U+0075 U+0063 U+0068 U+0061 U+0020 U+0028 U+0032 U+0029
-makanajuna (1)	<???>	makanajuna (1)	Imbabura Quechua	1	U+006d U+0061 U+006b U+0061 U+006e U+0061 U+006a U+0075 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-rina (1)	<???>	rina (1)	Imbabura Quechua	1	U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-wayrachina (2)	<???>	wayrachina (2)	Imbabura Quechua	1	U+0077 U+0061 U+0079 U+0072 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-churajuna (1)	<???>	churajuna (1)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0072 U+0061 U+006a U+0075 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-amsa (1)	<???>	amsa (1)	Imbabura Quechua	1	U+0061 U+006d U+0073 U+0061 U+0020 U+0028 U+0031 U+0029
-mana nina (1)	<???>	mana nina (1)	Imbabura Quechua	1	U+006d U+0061 U+006e U+0061 U+0020 U+006e U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
--ta (2)	<???>	-ta (2)	Imbabura Quechua	1	U+002d U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
-milma (1)	<???>	milma (1)	Imbabura Quechua	1	U+006d U+0069 U+006c U+006d U+0061 U+0020 U+0028 U+0031 U+0029
-wawa (2)	<???>	wawa (2)	Imbabura Quechua	1	U+0077 U+0061 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
-putru (1)	<???>	putru (1)	Imbabura Quechua	1	U+0070 U+0075 U+0074 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
+á	á/a	alakrán	Imbabura Quechua	1	U+00e1
+^shw	ʃ w	shwiter	Imbabura Quechua	1	U+005e U+0073 U+0068 U+0077
 ^o$	o	o	Imbabura Quechua	1	U+005e U+006f U+0024
-shitana (1)	<???>	shitana (1)	Imbabura Quechua	1	U+0073 U+0068 U+0069 U+0074 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-katina (3)	<???>	katina (3)	Imbabura Quechua	1	U+006b U+0061 U+0074 U+0069 U+006e U+0061 U+0020 U+0028 U+0033 U+0029
-jayaj (2)	<???>	jayaj (2)	Imbabura Quechua	1	U+006a U+0061 U+0079 U+0061 U+006a U+0020 U+0028 U+0032 U+0029
-yirnu (2)	<???>	yirnu (2)	Imbabura Quechua	1	U+0079 U+0069 U+0072 U+006e U+0075 U+0020 U+0028 U+0032 U+0029
-karu (1)	<???>	karu (1)	Imbabura Quechua	1	U+006b U+0061 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
-fiña (1)	<???>	fiña (1)	Imbabura Quechua	1	U+0066 U+0069 U+00f1 U+0061 U+0020 U+0028 U+0031 U+0029
-juchachina (2)	<???>	juchachina (2)	Imbabura Quechua	1	U+006a U+0075 U+0063 U+0068 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-mañana (1)	<???>	mañana (1)	Imbabura Quechua	1	U+006d U+0061 U+00f1 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-uray (2)	<???>	uray (2)	Imbabura Quechua	1	U+0075 U+0072 U+0061 U+0079 U+0020 U+0028 U+0032 U+0029
-fichana (1)	<???>	fichana (1)	Imbabura Quechua	1	U+0066 U+0069 U+0063 U+0068 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-charina (2)	<???>	charina (2)	Imbabura Quechua	1	U+0063 U+0068 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-achka (2)	<???>	achka (2)	Imbabura Quechua	1	U+0061 U+0063 U+0068 U+006b U+0061 U+0020 U+0028 U+0032 U+0029
-jawa (2)	<???>	jawa (2)	Imbabura Quechua	1	U+006a U+0061 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
-putu (1)	<???>	putu (1)	Imbabura Quechua	1	U+0070 U+0075 U+0074 U+0075 U+0020 U+0028 U+0031 U+0029
-swidru (1)	<???>	swidru (1)	Imbabura Quechua	1	U+0073 U+0077 U+0069 U+0064 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
-anaku (2)	<???>	anaku (2)	Imbabura Quechua	1	U+0061 U+006e U+0061 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
-angu (1)	<???>	angu (1)	Imbabura Quechua	1	U+0061 U+006e U+0067 U+0075 U+0020 U+0028 U+0031 U+0029
-wachu (1)	<???>	wachu (1)	Imbabura Quechua	1	U+0077 U+0061 U+0063 U+0068 U+0075 U+0020 U+0028 U+0031 U+0029
-kusana (2)	<???>	kusana (2)	Imbabura Quechua	1	U+006b U+0075 U+0073 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-juchachishka (2)	<???>	juchachishka (2)	Imbabura Quechua	1	U+006a U+0075 U+0063 U+0068 U+0061 U+0063 U+0068 U+0069 U+0073 U+0068 U+006b U+0061 U+0020 U+0028 U+0032 U+0029
-jinti (2)	<???>	jinti (2)	Imbabura Quechua	1	U+006a U+0069 U+006e U+0074 U+0069 U+0020 U+0028 U+0032 U+0029
-chingana (1)	<???>	chingana (1)	Imbabura Quechua	1	U+0063 U+0068 U+0069 U+006e U+0067 U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-^dw	dw	dwindi	Imbabura Quechua	1	U+005e U+0064 U+0077
-ps	ps	tipsina	Imbabura Quechua	1	U+0070 U+0073
-rw	rw	trwinu	Imbabura Quechua	1	U+0072 U+0077
-tiyarina (1)	<???>	tiyarina (1)	Imbabura Quechua	1	U+0074 U+0069 U+0079 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-turu (1)	<???>	turu (1)	Imbabura Quechua	1	U+0074 U+0075 U+0072 U+0075 U+0020 U+0028 U+0031 U+0029
-chupu (1)	<???>	chupu (1)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0070 U+0075 U+0020 U+0028 U+0031 U+0029
-illak (2)	<???>	illak (2)	Imbabura Quechua	1	U+0069 U+006c U+006c U+0061 U+006b U+0020 U+0028 U+0032 U+0029
-churajuna (2)	<???>	churajuna (2)	Imbabura Quechua	1	U+0063 U+0068 U+0075 U+0072 U+0061 U+006a U+0075 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-ayllu (1)	<???>	ayllu (1)	Imbabura Quechua	1	U+0061 U+0079 U+006c U+006c U+0075 U+0020 U+0028 U+0031 U+0029
-angu (2)	<???>	angu (2)	Imbabura Quechua	1	U+0061 U+006e U+0067 U+0075 U+0020 U+0028 U+0032 U+0029
-mishki (1)	<???>	mishki (1)	Imbabura Quechua	1	U+006d U+0069 U+0073 U+0068 U+006b U+0069 U+0020 U+0028 U+0031 U+0029
-aycha (2)	<???>	aycha (2)	Imbabura Quechua	1	U+0061 U+0079 U+0063 U+0068 U+0061 U+0020 U+0028 U+0032 U+0029
-juchachishka (1)	<???>	juchachishka (1)	Imbabura Quechua	1	U+006a U+0075 U+0063 U+0068 U+0061 U+0063 U+0068 U+0069 U+0073 U+0068 U+006b U+0061 U+0020 U+0028 U+0031 U+0029
-kayana (2)	<???>	kayana (2)	Imbabura Quechua	1	U+006b U+0061 U+0079 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-í	í	pilíkula	Imbabura Quechua	1	U+00ed
-muyu (1)	<???>	muyu (1)	Imbabura Quechua	1	U+006d U+0075 U+0079 U+0075 U+0020 U+0028 U+0031 U+0029
-uyana (2)	<???>	uyana (2)	Imbabura Quechua	1	U+0075 U+0079 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-chaupi (2)	<???>	chaupi (2)	Imbabura Quechua	1	U+0063 U+0068 U+0061 U+0075 U+0070 U+0069 U+0020 U+0028 U+0032 U+0029
-rupachina (2)	<???>	rupachina (2)	Imbabura Quechua	1	U+0072 U+0075 U+0070 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-chingana (2)	<???>	chingana (2)	Imbabura Quechua	1	U+0063 U+0068 U+0069 U+006e U+0067 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-charina (3)	<???>	charina (3)	Imbabura Quechua	1	U+0063 U+0068 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0033 U+0029
-tandachina (1)	<???>	tandachina (1)	Imbabura Quechua	1	U+0074 U+0061 U+006e U+0064 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-putru (2)	<???>	putru (2)	Imbabura Quechua	1	U+0070 U+0075 U+0074 U+0072 U+0075 U+0020 U+0028 U+0032 U+0029
-mañana (2)	<???>	mañana (2)	Imbabura Quechua	1	U+006d U+0061 U+00f1 U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-ñawi (1)	<???>	ñawi (1)	Imbabura Quechua	1	U+00f1 U+0061 U+0077 U+0069 U+0020 U+0028 U+0031 U+0029
-jachun (2)	<???>	jachun (2)	Imbabura Quechua	1	U+006a U+0061 U+0063 U+0068 U+0075 U+006e U+0020 U+0028 U+0032 U+0029
-manya (2)	<???>	manya (2)	Imbabura Quechua	1	U+006d U+0061 U+006e U+0079 U+0061 U+0020 U+0028 U+0032 U+0029
-jambik (1)	<???>	jambik (1)	Imbabura Quechua	1	U+006a U+0061 U+006d U+0062 U+0069 U+006b U+0020 U+0028 U+0031 U+0029
-fangalla (1)	<???>	fangalla (1)	Imbabura Quechua	1	U+0066 U+0061 U+006e U+0067 U+0061 U+006c U+006c U+0061 U+0020 U+0028 U+0031 U+0029
-llullana (1)	<???>	llullana (1)	Imbabura Quechua	1	U+006c U+006c U+0075 U+006c U+006c U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-^tw	tw	twalla	Imbabura Quechua	1	U+005e U+0074 U+0077
-tiyu (1)	<???>	tiyu (1)	Imbabura Quechua	1	U+0074 U+0069 U+0079 U+0075 U+0020 U+0028 U+0031 U+0029
-rina (2)	<???>	rina (2)	Imbabura Quechua	1	U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-killa (2)	<???>	killa (2)	Imbabura Quechua	1	U+006b U+0069 U+006c U+006c U+0061 U+0020 U+0028 U+0032 U+0029
-mikuna (1)	<???>	mikuna (1)	Imbabura Quechua	1	U+006d U+0069 U+006b U+0075 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-wajcha (2)	<???>	wajcha (2)	Imbabura Quechua	1	U+0077 U+0061 U+006a U+0063 U+0068 U+0061 U+0020 U+0028 U+0032 U+0029
-kari (1)	<???>	kari (1)	Imbabura Quechua	1	U+006b U+0061 U+0072 U+0069 U+0020 U+0028 U+0031 U+0029
-é$	é	kafé	Imbabura Quechua	1	U+00e9 U+0024
-sw	sw	aswila	Imbabura Quechua	1	U+0073 U+0077
-warmi (1)	<???>	warmi (1)	Imbabura Quechua	1	U+0077 U+0061 U+0072 U+006d U+0069 U+0020 U+0028 U+0031 U+0029
-kari (2)	<???>	kari (2)	Imbabura Quechua	1	U+006b U+0061 U+0072 U+0069 U+0020 U+0028 U+0032 U+0029
-rimana (3)	<???>	rimana (3)	Imbabura Quechua	1	U+0072 U+0069 U+006d U+0061 U+006e U+0061 U+0020 U+0028 U+0033 U+0029
-putu (2)	<???>	putu (2)	Imbabura Quechua	1	U+0070 U+0075 U+0074 U+0075 U+0020 U+0028 U+0032 U+0029
-kishpichina (1)	<???>	kishpichina (1)	Imbabura Quechua	1	U+006b U+0069 U+0073 U+0068 U+0070 U+0069 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-wayrachina (1)	<???>	wayrachina (1)	Imbabura Quechua	1	U+0077 U+0061 U+0079 U+0072 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-fiña (2)	<???>	fiña (2)	Imbabura Quechua	1	U+0066 U+0069 U+00f1 U+0061 U+0020 U+0028 U+0032 U+0029
-juchachina (1)	<???>	juchachina (1)	Imbabura Quechua	1	U+006a U+0075 U+0063 U+0068 U+0061 U+0063 U+0068 U+0069 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-tarina (2)	<???>	tarina (2)	Imbabura Quechua	1	U+0074 U+0061 U+0072 U+0069 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-ó	ó	liyón	Imbabura Quechua	1	U+00f3
-rikuna (2)	<???>	rikuna (2)	Imbabura Quechua	1	U+0072 U+0069 U+006b U+0075 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-jayaj (1)	<???>	jayaj (1)	Imbabura Quechua	1	U+006a U+0061 U+0079 U+0061 U+006a U+0020 U+0028 U+0031 U+0029
+^dw	d w	dwindi	Imbabura Quechua	1	U+005e U+0064 U+0077
+ps	p s	tipsina	Imbabura Quechua	1	U+0070 U+0073
+rw	r w	trwinu	Imbabura Quechua	1	U+0072 U+0077
+í	í/i	pilíkula	Imbabura Quechua	1	U+00ed
+^tw	t w	twalla	Imbabura Quechua	1	U+005e U+0074 U+0077
+é$	é/e	kafé	Imbabura Quechua	1	U+00e9 U+0024
+sw	s w	aswila	Imbabura Quechua	1	U+0073 U+0077
+ó	ó/o	liyón	Imbabura Quechua	1	U+00f3
+ng	ŋ g				
+nr	ŋ ɾ				
+np	m b				
+nt	n d				
+nk	ŋ g				
+nch	n ʒ				
+mp	m b				
