@@ -1,10 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(1)	NULL				
-(2)	NULL				
-(3)	NULL				
-(4)	NULL				
 a	a	kaikua`ana, `anakala	Hawaiian	1081	U+0061
 o	o	mo`opuna, poepoe	Hawaiian	533	U+006f
 i	i	kaikaina, lihilihi maka	Hawaiian	518	U+0069
@@ -12,7 +8,7 @@ l	l	`ōlelo, palaoa huluhulu	Hawaiian	507	U+006c
 k	k	`ohana keiki, kaikua`ana	Hawaiian	477	U+006b
 a$	a	loa`a, mo`opuna	Hawaiian	427	U+0061 U+0024
 n	n	hūnōna wahine, hūnōna kāne	Hawaiian	416	U+006e
-`	<?>	loa`a, ho`ā`o	Hawaiian	406	U+0060
+`	NULL	loa`a, ho`ā`o	Hawaiian	406	U+0060
 u	u	palaoa huluhulu, huluhulu	Hawaiian	387	U+0075
 e	e	lehelehe, helehelena	Hawaiian	359	U+0065
 h	h	palaoa huluhulu, `aina ahiahi	Hawaiian	319	U+0068
@@ -21,188 +17,61 @@ i$	i	honi, `ohana keiki	Hawaiian	294	U+0069 U+0024
 _	_	`apōpō ā ia lā aku, `ohana keiki	Hawaiian	239	U+005f
 e$	e	`ole, hoe	Hawaiian	225	U+0065 U+0024
 ^h	h	honi, hoe	Hawaiian	219	U+005e U+0068
-^`	<?>	`ole, `ō	Hawaiian	206	U+005e U+0060
+^`	NULL	`ole, `ō	Hawaiian	206	U+005e U+0060
 p	p	ho`opunipuni, hopohopo	Hawaiian	205	U+0070
 ^p	p	poepoe, pi`i	Hawaiian	199	U+005e U+0070
 ^m	m	mo`opuna, mana`o	Hawaiian	165	U+005e U+006d
 m	m	`umi kūmālima, manamana lima	Hawaiian	162	U+006d
 o$	o	koho, lalo	Hawaiian	157	U+006f U+0024
 u$	u	hau, pou	Hawaiian	151	U+0075 U+0024
-ā	ā	`apōpō ā ia lā aku, ho`ā`o	Hawaiian	148	U+0101
+ā	ā/a	`apōpō ā ia lā aku, ho`ā`o	Hawaiian	148	U+0101
 ^l	l	loa`a, lalo	Hawaiian	121	U+005e U+006c
 w	w	`awa`awa, hewa	Hawaiian	104	U+0077
-ō	ō	`ōlelo, hūnōna wahine	Hawaiian	86	U+014d
-ū	ū	hūnōna wahine, hūnōna kāne	Hawaiian	64	U+016b
+ō	ō/o	`ōlelo, hūnōna wahine	Hawaiian	86	U+014d
+ū	ū/u	hūnōna wahine, hūnōna kāne	Hawaiian	64	U+016b
 ^w	w	wāwae, waiho`olu`u	Hawaiian	50	U+005e U+0077
 ^n	n	na`au, nāki`i	Hawaiian	45	U+005e U+006e
 ^a	a	aha, aniani	Hawaiian	41	U+005e U+0061
-ā$	ā	`ūpā, lālā	Hawaiian	40	U+0101 U+0024
-ū$	ū	`ōpū, nū	Hawaiian	26	U+016b U+0024
+ā$	ā/a	`ūpā, lālā	Hawaiian	40	U+0101 U+0024
+ū$	ū/u	`ōpū, nū	Hawaiian	26	U+016b U+0024
 ^i	i	ia, ihu	Hawaiian	24	U+005e U+0069
-ō$	ō	`ō, leikō	Hawaiian	21	U+014d U+0024
-ī$	ī	`uī, wīwī	Hawaiian	20	U+012b U+0024
-āw	āw	ku`eku`e wāwae, wāwae	Hawaiian	19	U+0101 U+0077
+ō$	ō/o	`ō, leikō	Hawaiian	21	U+014d U+0024
+ī$	ī/i	`uī, wīwī	Hawaiian	20	U+012b U+0024
+āw	ā/a w	ku`eku`e wāwae, wāwae	Hawaiian	19	U+0101 U+0077
 ^u	u	uila, ulana	Hawaiian	19	U+005e U+0075
-ī	ī	akenī`au, mīkini	Hawaiian	18	U+012b
-ē$	ē	`anakē, `ai`ē	Hawaiian	17	U+0113 U+0024
-ē	ē	`ēlemu, `ē a`e	Hawaiian	14	U+0113
-āh	āh	`āhewa, ho`āhewa	Hawaiian	11	U+0101 U+0068
+ī	ī/i	akenī`au, mīkini	Hawaiian	18	U+012b
+ē$	ē/e	`anakē, `ai`ē	Hawaiian	17	U+0113 U+0024
+ē	ē/e	`ēlemu, `ē a`e	Hawaiian	14	U+0113
+āh	ā/a h	`āhewa, ho`āhewa	Hawaiian	11	U+0101 U+0068
 ^o	o	ola, omo	Hawaiian	9	U+005e U+006f
-hāpai (2)	<???>	hāpai (2)	Hawaiian	6	U+0068 U+0101 U+0070 U+0061 U+0069 U+0020 U+0028 U+0032 U+0029
-ōh	ōh	`ōhumu, ka`a `ōhua	Hawaiian	5	U+014d U+0068
-‘	<?>	ho‘oku‘u, maka‘āinana	Hawaiian	4	U+2018
+ōh	ō/o h	`ōhumu, ka`a `ōhua	Hawaiian	5	U+014d U+0068
+‘	ʔ	ho‘oku‘u, maka‘āinana	Hawaiian	4	U+2018
 s	s	`iniseka, nahesa	Hawaiian	4	U+0073
-aa	aa	ka`aahi, pukaaniani	Hawaiian	4	U+0061 U+0061
-wahine (1)	<???>	wahine (1)	Hawaiian	3	U+0077 U+0061 U+0068 U+0069 U+006e U+0065 U+0020 U+0028 U+0031 U+0029
-^ā	ā	ākea, ānuenue	Hawaiian	3	U+005e U+0101
-^P	<?>	Pakoa, Paniolo	Hawaiian	3	U+005e U+0050
-^K	<?>	Kalema, Kepania	Hawaiian	3	U+005e U+004b
-uhi (1)	<???>	uhi (1)	Hawaiian	3	U+0075 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
+aa	aː	ka`aahi, pukaaniani	Hawaiian	4	U+0061 U+0061
+^ā	ā/a	ākea, ānuenue	Hawaiian	3	U+005e U+0101
+^P	P/p	Pakoa, Paniolo	Hawaiian	3	U+005e U+0050
+^K	K/k	Kalema, Kepania	Hawaiian	3	U+005e U+004b
 ^e	e	emi, ea	Hawaiian	3	U+005e U+0065
 ^t	t	tūkana, tōfū	Hawaiian	3	U+005e U+0074
-īw	īw	wīwī, `āwīwī	Hawaiian	3	U+012b U+0077
-pā (3)	<???>	pā (3)	Hawaiian	3	U+0070 U+0101 U+0020 U+0028 U+0033 U+0029
-noho (1)	<???>	noho (1)	Hawaiian	3	U+006e U+006f U+0068 U+006f U+0020 U+0028 U+0031 U+0029
+īw	ī/i w	wīwī, `āwīwī	Hawaiian	3	U+012b U+0077
 ^i$	i	i	Hawaiian	2	U+005e U+0069 U+0024
-kula (1)	<???>	kula (1)	Hawaiian	2	U+006b U+0075 U+006c U+0061 U+0020 U+0028 U+0031 U+0029
-^L	<?>	Lāpule, Lalako`a	Hawaiian	2	U+005e U+004c
-lua (2)	<???>	lua (2)	Hawaiian	2	U+006c U+0075 U+0061 U+0020 U+0028 U+0032 U+0029
-puhi (3)	<???>	puhi (3)	Hawaiian	2	U+0070 U+0075 U+0068 U+0069 U+0020 U+0028 U+0033 U+0029
-maka (2)	<???>	maka (2)	Hawaiian	2	U+006d U+0061 U+006b U+0061 U+0020 U+0028 U+0032 U+0029
-ēh	ēh	`ēheu, palahēhē	Hawaiian	2	U+0113 U+0068
-lima (1)	<???>	lima (1)	Hawaiian	2	U+006c U+0069 U+006d U+0061 U+0020 U+0028 U+0031 U+0029
-īh	īh	pīhopa, hīhīmanu	Hawaiian	2	U+012b U+0068
-hulu (2)	<???>	hulu (2)	Hawaiian	2	U+0068 U+0075 U+006c U+0075 U+0020 U+0028 U+0032 U+0029
-wai (1)	<???>	wai (1)	Hawaiian	2	U+0077 U+0061 U+0069 U+0020 U+0028 U+0031 U+0029
-kumu (1)	<???>	kumu (1)	Hawaiian	2	U+006b U+0075 U+006d U+0075 U+0020 U+0028 U+0031 U+0029
-kele (2)	<???>	kele (2)	Hawaiian	2	U+006b U+0065 U+006c U+0065 U+0020 U+0028 U+0032 U+0029
-`oka (1)	<???>	`oka (1)	Hawaiian	2	U+0060 U+006f U+006b U+0061 U+0020 U+0028 U+0031 U+0029
-pa`a (1)	<???>	pa`a (1)	Hawaiian	2	U+0070 U+0061 U+0060 U+0061 U+0020 U+0028 U+0031 U+0029
-pā (1)	<???>	pā (1)	Hawaiian	2	U+0070 U+0101 U+0020 U+0028 U+0031 U+0029
-kāne (1)	<???>	kāne (1)	Hawaiian	2	U+006b U+0101 U+006e U+0065 U+0020 U+0028 U+0031 U+0029
-kui (2)	<???>	kui (2)	Hawaiian	2	U+006b U+0075 U+0069 U+0020 U+0028 U+0032 U+0029
-paila (1)	<???>	paila (1)	Hawaiian	2	U+0070 U+0061 U+0069 U+006c U+0061 U+0020 U+0028 U+0031 U+0029
+^L	L/l	Lāpule, Lalako`a	Hawaiian	2	U+005e U+004c
+ēh	ē/e h	`ēheu, palahēhē	Hawaiian	2	U+0113 U+0068
+īh	ī/i h	pīhopa, hīhīmanu	Hawaiian	2	U+012b U+0068
 t	t	rītaia, Kristo	Hawaiian	2	U+0074
-ku`i (2)	<???>	ku`i (2)	Hawaiian	2	U+006b U+0075 U+0060 U+0069 U+0020 U+0028 U+0032 U+0029
-kumu (2)	<???>	kumu (2)	Hawaiian	2	U+006b U+0075 U+006d U+0075 U+0020 U+0028 U+0032 U+0029
-hou (2)	<???>	hou (2)	Hawaiian	2	U+0068 U+006f U+0075 U+0020 U+0028 U+0032 U+0029
-pūpū (1)	<???>	pūpū (1)	Hawaiian	2	U+0070 U+016b U+0070 U+016b U+0020 U+0028 U+0031 U+0029
-hea (1)	<???>	hea (1)	Hawaiian	2	U+0068 U+0065 U+0061 U+0020 U+0028 U+0031 U+0029
-`oka (2)	<???>	`oka (2)	Hawaiian	1	U+0060 U+006f U+006b U+0061 U+0020 U+0028 U+0032 U+0029
-kuli (1)	<???>	kuli (1)	Hawaiian	1	U+006b U+0075 U+006c U+0069 U+0020 U+0028 U+0031 U+0029
 f	f	tōfū	Hawaiian	1	U+0066
-kī (3)	<???>	kī (3)	Hawaiian	1	U+006b U+012b U+0020 U+0028 U+0033 U+0029
-piwa (2)	<???>	piwa (2)	Hawaiian	1	U+0070 U+0069 U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
 ^o$	o	o	Hawaiian	1	U+005e U+006f U+0024
-pū (1)	<???>	pū (1)	Hawaiian	1	U+0070 U+016b U+0020 U+0028 U+0031 U+0029
-pa`a (2)	<???>	pa`a (2)	Hawaiian	1	U+0070 U+0061 U+0060 U+0061 U+0020 U+0028 U+0032 U+0029
-pila (2)	<???>	pila (2)	Hawaiian	1	U+0070 U+0069 U+006c U+0061 U+0020 U+0028 U+0032 U+0029
-`ino (1)	<???>	`ino (1)	Hawaiian	1	U+0060 U+0069 U+006e U+006f U+0020 U+0028 U+0031 U+0029
-kī (1)	<???>	kī (1)	Hawaiian	1	U+006b U+012b U+0020 U+0028 U+0031 U+0029
-hou (3)	<???>	hou (3)	Hawaiian	1	U+0068 U+006f U+0075 U+0020 U+0028 U+0033 U+0029
-kia (2)	<???>	kia (2)	Hawaiian	1	U+006b U+0069 U+0061 U+0020 U+0028 U+0032 U+0029
-pila (1)	<???>	pila (1)	Hawaiian	1	U+0070 U+0069 U+006c U+0061 U+0020 U+0028 U+0031 U+0029
-lā (1)	<???>	lā (1)	Hawaiian	1	U+006c U+0101 U+0020 U+0028 U+0031 U+0029
-lima (2)	<???>	lima (2)	Hawaiian	1	U+006c U+0069 U+006d U+0061 U+0020 U+0028 U+0032 U+0029
-hua (1)	<???>	hua (1)	Hawaiian	1	U+0068 U+0075 U+0061 U+0020 U+0028 U+0031 U+0029
-piwa (1)	<???>	piwa (1)	Hawaiian	1	U+0070 U+0069 U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
-ipu (2)	<???>	ipu (2)	Hawaiian	1	U+0069 U+0070 U+0075 U+0020 U+0028 U+0032 U+0029
-hāpai (1)	<???>	hāpai (1)	Hawaiian	1	U+0068 U+0101 U+0070 U+0061 U+0069 U+0020 U+0028 U+0031 U+0029
-ho`opili (1)	<???>	ho`opili (1)	Hawaiian	1	U+0068 U+006f U+0060 U+006f U+0070 U+0069 U+006c U+0069 U+0020 U+0028 U+0031 U+0029
-moe (1)	<???>	moe (1)	Hawaiian	1	U+006d U+006f U+0065 U+0020 U+0028 U+0031 U+0029
-ao (1)	<???>	ao (1)	Hawaiian	1	U+0061 U+006f U+0020 U+0028 U+0031 U+0029
-`ino (2)	<???>	`ino (2)	Hawaiian	1	U+0060 U+0069 U+006e U+006f U+0020 U+0028 U+0032 U+0029
-kahi (2)	<???>	kahi (2)	Hawaiian	1	U+006b U+0061 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
-lae (2)	<???>	lae (2)	Hawaiian	1	U+006c U+0061 U+0065 U+0020 U+0028 U+0032 U+0029
-A	<?>	`Aikupika	Hawaiian	1	U+0041
-iho (3)	<???>	iho (3)	Hawaiian	1	U+0069 U+0068 U+006f U+0020 U+0028 U+0033 U+0029
-pua (2)	<???>	pua (2)	Hawaiian	1	U+0070 U+0075 U+0061 U+0020 U+0028 U+0032 U+0029
-^āh	āh	āhea	Hawaiian	1	U+005e U+0101 U+0068
-^N	<?>	Nuhōlani	Hawaiian	1	U+005e U+004e
-kia (1)	<???>	kia (1)	Hawaiian	1	U+006b U+0069 U+0061 U+0020 U+0028 U+0031 U+0029
-noho (2)	<???>	noho (2)	Hawaiian	1	U+006e U+006f U+0068 U+006f U+0020 U+0028 U+0032 U+0029
-lā (3)	<???>	lā (3)	Hawaiian	1	U+006c U+0101 U+0020 U+0028 U+0033 U+0029
-ala (2)	<???>	ala (2)	Hawaiian	1	U+0061 U+006c U+0061 U+0020 U+0028 U+0032 U+0029
-puhi (2)	<???>	puhi (2)	Hawaiian	1	U+0070 U+0075 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
-hua (2)	<???>	hua (2)	Hawaiian	1	U+0068 U+0075 U+0061 U+0020 U+0028 U+0032 U+0029
-moana (2)	<???>	moana (2)	Hawaiian	1	U+006d U+006f U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-pahu (1)	<???>	pahu (1)	Hawaiian	1	U+0070 U+0061 U+0068 U+0075 U+0020 U+0028 U+0031 U+0029
-uhi (2)	<???>	uhi (2)	Hawaiian	1	U+0075 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
-kula (2)	<???>	kula (2)	Hawaiian	1	U+006b U+0075 U+006c U+0061 U+0020 U+0028 U+0032 U+0029
-komo (3)	<???>	komo (3)	Hawaiian	1	U+006b U+006f U+006d U+006f U+0020 U+0028 U+0033 U+0029
-ana (2)	<???>	ana (2)	Hawaiian	1	U+0061 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-ao (2)	<???>	ao (2)	Hawaiian	1	U+0061 U+006f U+0020 U+0028 U+0032 U+0029
-kala (2)	<???>	kala (2)	Hawaiian	1	U+006b U+0061 U+006c U+0061 U+0020 U+0028 U+0032 U+0029
-papa (2)	<???>	papa (2)	Hawaiian	1	U+0070 U+0061 U+0070 U+0061 U+0020 U+0028 U+0032 U+0029
-hulu (1)	<???>	hulu (1)	Hawaiian	1	U+0068 U+0075 U+006c U+0075 U+0020 U+0028 U+0031 U+0029
-huli (2)	<???>	huli (2)	Hawaiian	1	U+0068 U+0075 U+006c U+0069 U+0020 U+0028 U+0032 U+0029
-maka (1)	<???>	maka (1)	Hawaiian	1	U+006d U+0061 U+006b U+0061 U+0020 U+0028 U+0031 U+0029
-pī (2)	<???>	pī (2)	Hawaiian	1	U+0070 U+012b U+0020 U+0028 U+0032 U+0029
-namu (1)	<???>	namu (1)	Hawaiian	1	U+006e U+0061 U+006d U+0075 U+0020 U+0028 U+0031 U+0029
-pī (1)	<???>	pī (1)	Hawaiian	1	U+0070 U+012b U+0020 U+0028 U+0031 U+0029
-iho (1)	<???>	iho (1)	Hawaiian	1	U+0069 U+0068 U+006f U+0020 U+0028 U+0031 U+0029
+A	A/a	`Aikupika	Hawaiian	1	U+0041
+^āh	ā/a h	āhea	Hawaiian	1	U+005e U+0101 U+0068
+^N	N/n	Nuhōlani	Hawaiian	1	U+005e U+004e
 ^s	s	sawana	Hawaiian	1	U+005e U+0073
-hema (2)	<???>	hema (2)	Hawaiian	1	U+0068 U+0065 U+006d U+0061 U+0020 U+0028 U+0032 U+0029
-pepa (2)	<???>	pepa (2)	Hawaiian	1	U+0070 U+0065 U+0070 U+0061 U+0020 U+0028 U+0032 U+0029
-paila (2)	<???>	paila (2)	Hawaiian	1	U+0070 U+0061 U+0069 U+006c U+0061 U+0020 U+0028 U+0032 U+0029
-hou (4)	<???>	hou (4)	Hawaiian	1	U+0068 U+006f U+0075 U+0020 U+0028 U+0034 U+0029
-hea (2)	<???>	hea (2)	Hawaiian	1	U+0068 U+0065 U+0061 U+0020 U+0028 U+0032 U+0029
-nuku (2)	<???>	nuku (2)	Hawaiian	1	U+006e U+0075 U+006b U+0075 U+0020 U+0028 U+0032 U+0029
-puna (3)	<???>	puna (3)	Hawaiian	1	U+0070 U+0075 U+006e U+0061 U+0020 U+0028 U+0033 U+0029
 b	b	musubī	Hawaiian	1	U+0062
-kope (2)	<???>	kope (2)	Hawaiian	1	U+006b U+006f U+0070 U+0065 U+0020 U+0028 U+0032 U+0029
-hou (1)	<???>	hou (1)	Hawaiian	1	U+0068 U+006f U+0075 U+0020 U+0028 U+0031 U+0029
-namu (2)	<???>	namu (2)	Hawaiian	1	U+006e U+0061 U+006d U+0075 U+0020 U+0028 U+0032 U+0029
-kui (1)	<???>	kui (1)	Hawaiian	1	U+006b U+0075 U+0069 U+0020 U+0028 U+0031 U+0029
-ho`opili (2)	<???>	ho`opili (2)	Hawaiian	1	U+0068 U+006f U+0060 U+006f U+0070 U+0069 U+006c U+0069 U+0020 U+0028 U+0032 U+0029
-kuli (2)	<???>	kuli (2)	Hawaiian	1	U+006b U+0075 U+006c U+0069 U+0020 U+0028 U+0032 U+0029
-puhi (1)	<???>	puhi (1)	Hawaiian	1	U+0070 U+0075 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
-wai (2)	<???>	wai (2)	Hawaiian	1	U+0077 U+0061 U+0069 U+0020 U+0028 U+0032 U+0029
-`ona (1)	<???>	`ona (1)	Hawaiian	1	U+0060 U+006f U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-puna (2)	<???>	puna (2)	Hawaiian	1	U+0070 U+0075 U+006e U+0061 U+0020 U+0028 U+0032 U+0029
-pua (1)	<???>	pua (1)	Hawaiian	1	U+0070 U+0075 U+0061 U+0020 U+0028 U+0031 U+0029
-nuku (1)	<???>	nuku (1)	Hawaiian	1	U+006e U+0075 U+006b U+0075 U+0020 U+0028 U+0031 U+0029
-ana (1)	<???>	ana (1)	Hawaiian	1	U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-ki`i (1)	<???>	ki`i (1)	Hawaiian	1	U+006b U+0069 U+0060 U+0069 U+0020 U+0028 U+0031 U+0029
-ch	ch	mōchī	Hawaiian	1	U+0063 U+0068
-lua (1)	<???>	lua (1)	Hawaiian	1	U+006c U+0075 U+0061 U+0020 U+0028 U+0031 U+0029
-ōw	ōw	kōwē	Hawaiian	1	U+014d U+0077
+ch	tʃ	mōchī	Hawaiian	1	U+0063 U+0068
+ōw	ō/o w	kōwē	Hawaiian	1	U+014d U+0077
 ^r	r	rītaia	Hawaiian	1	U+005e U+0072
-pū (2)	<???>	pū (2)	Hawaiian	1	U+0070 U+016b U+0020 U+0028 U+0032 U+0029
-hema (1)	<???>	hema (1)	Hawaiian	1	U+0068 U+0065 U+006d U+0061 U+0020 U+0028 U+0031 U+0029
-^M	<?>	Menehune	Hawaiian	1	U+005e U+004d
-kala (1)	<???>	kala (1)	Hawaiian	1	U+006b U+0061 U+006c U+0061 U+0020 U+0028 U+0031 U+0029
-kula (3)	<???>	kula (3)	Hawaiian	1	U+006b U+0075 U+006c U+0061 U+0020 U+0028 U+0033 U+0029
-pepa (1)	<???>	pepa (1)	Hawaiian	1	U+0070 U+0065 U+0070 U+0061 U+0020 U+0028 U+0031 U+0029
-puna (1)	<???>	puna (1)	Hawaiian	1	U+0070 U+0075 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-moana (1)	<???>	moana (1)	Hawaiian	1	U+006d U+006f U+0061 U+006e U+0061 U+0020 U+0028 U+0031 U+0029
-^ū$	ū	ū	Hawaiian	1	U+005e U+016b U+0024
-kele (1)	<???>	kele (1)	Hawaiian	1	U+006b U+0065 U+006c U+0065 U+0020 U+0028 U+0031 U+0029
+^M	M/m	Menehune	Hawaiian	1	U+005e U+004d
+^ū$	ū/u	ū	Hawaiian	1	U+005e U+016b U+0024
 r	r	Kristo	Hawaiian	1	U+0072
-lā (2)	<???>	lā (2)	Hawaiian	1	U+006c U+0101 U+0020 U+0028 U+0032 U+0029
-papa (1)	<???>	papa (1)	Hawaiian	1	U+0070 U+0061 U+0070 U+0061 U+0020 U+0028 U+0031 U+0029
-pūpū (2)	<???>	pūpū (2)	Hawaiian	1	U+0070 U+016b U+0070 U+016b U+0020 U+0028 U+0032 U+0029
-wili (2)	<???>	wili (2)	Hawaiian	1	U+0077 U+0069 U+006c U+0069 U+0020 U+0028 U+0032 U+0029
-^ā$	ā	ā	Hawaiian	1	U+005e U+0101 U+0024
-lae (1)	<???>	lae (1)	Hawaiian	1	U+006c U+0061 U+0065 U+0020 U+0028 U+0031 U+0029
-iho (2)	<???>	iho (2)	Hawaiian	1	U+0069 U+0068 U+006f U+0020 U+0028 U+0032 U+0029
-kau (2)	<???>	kau (2)	Hawaiian	1	U+006b U+0061 U+0075 U+0020 U+0028 U+0032 U+0029
-ki`i (2)	<???>	ki`i (2)	Hawaiian	1	U+006b U+0069 U+0060 U+0069 U+0020 U+0028 U+0032 U+0029
-kahi (1)	<???>	kahi (1)	Hawaiian	1	U+006b U+0061 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
-kope (1)	<???>	kope (1)	Hawaiian	1	U+006b U+006f U+0070 U+0065 U+0020 U+0028 U+0031 U+0029
-wili (1)	<???>	wili (1)	Hawaiian	1	U+0077 U+0069 U+006c U+0069 U+0020 U+0028 U+0031 U+0029
-komo (2)	<???>	komo (2)	Hawaiian	1	U+006b U+006f U+006d U+006f U+0020 U+0028 U+0032 U+0029
-moe (2)	<???>	moe (2)	Hawaiian	1	U+006d U+006f U+0065 U+0020 U+0028 U+0032 U+0029
-pahu (2)	<???>	pahu (2)	Hawaiian	1	U+0070 U+0061 U+0068 U+0075 U+0020 U+0028 U+0032 U+0029
-huli (1)	<???>	huli (1)	Hawaiian	1	U+0068 U+0075 U+006c U+0069 U+0020 U+0028 U+0031 U+0029
-^H	<?>	Helene	Hawaiian	1	U+005e U+0048
-ipu (1)	<???>	ipu (1)	Hawaiian	1	U+0069 U+0070 U+0075 U+0020 U+0028 U+0031 U+0029
-ala (1)	<???>	ala (1)	Hawaiian	1	U+0061 U+006c U+0061 U+0020 U+0028 U+0031 U+0029
-kau (1)	<???>	kau (1)	Hawaiian	1	U+006b U+0061 U+0075 U+0020 U+0028 U+0031 U+0029
-kāne (2)	<???>	kāne (2)	Hawaiian	1	U+006b U+0101 U+006e U+0065 U+0020 U+0028 U+0032 U+0029
-wahine (2)	<???>	wahine (2)	Hawaiian	1	U+0077 U+0061 U+0068 U+0069 U+006e U+0065 U+0020 U+0028 U+0032 U+0029
-komo (1)	<???>	komo (1)	Hawaiian	1	U+006b U+006f U+006d U+006f U+0020 U+0028 U+0031 U+0029
-ku`i (1)	<???>	ku`i (1)	Hawaiian	1	U+006b U+0075 U+0060 U+0069 U+0020 U+0028 U+0031 U+0029
-kī (4)	<???>	kī (4)	Hawaiian	1	U+006b U+012b U+0020 U+0028 U+0034 U+0029
-pā (2)	<???>	pā (2)	Hawaiian	1	U+0070 U+0101 U+0020 U+0028 U+0032 U+0029
+^ā$	ā/a	ā	Hawaiian	1	U+005e U+0101 U+0024
+^H	H/h	Helene	Hawaiian	1	U+005e U+0048
 ^a$	a	a	Hawaiian	1	U+005e U+0061 U+0024

@@ -1,196 +1,212 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-á	á	ƙásáa, ɗáukàa	Hausa	1217	U+00e1
-à	à	ɗáukàa, gàbáatàa	Hausa	864	U+00e0
+á	á/a	ƙásáa, ɗáukàa	Hausa	1217	U+00e1
+à	à/a	ɗáukàa, gàbáatàa	Hausa	864	U+00e0
 a$	a	ɗáukàa, sùrúkáa	Hausa	665	U+0061 U+0024
-í	í	fílàafílíi, fíilíi	Hausa	596	U+00ed
+í	í/i	fílàafílíi, fíilíi	Hausa	596	U+00ed
 a	a	táashì, ráanáa	Hausa	412	U+0061
 i$	i	lâifíi, sùrúkíi	Hausa	381	U+0069 U+0024
 n	n	gwángwáníi, ráanáa	Hausa	372	U+006e
-ú	ú	sùrúkáa, sùrúkíi	Hausa	327	U+00fa
+ú	ú/u	sùrúkáa, sùrúkíi	Hausa	327	U+00fa
 _	_	ƴar̃ wâa or ɗan wâa, bàa dáidái bá nèe	Hausa	326	U+005f
 r	r	sùrúkáa, jírgín rúwáa	Hausa	270	U+0072
 k	k	ɗáukàa, sùrúkáa	Hausa	265	U+006b
-ì	ì	dáajìi, fár̃jìi	Hausa	216	U+00ec
-y	y	hányàa, ƙáayàa	Hausa	194	U+0079
+ì	ì/i	dáajìi, fár̃jìi	Hausa	216	U+00ec
+y	j	hányàa, ƙáayàa	Hausa	194	U+0079
 ^m	m	mátúuƙíi, mài háskée	Hausa	177	U+005e U+006d
 m	m	sámà, kúmáa	Hausa	174	U+006d
 i	i	lâifíi, mài láimàa	Hausa	169	U+0069
 t	t	mátúuƙíi, ɓáatàa	Hausa	159	U+0074
 e$	e	mài háskée, hárshèe	Hausa	157	U+0065 U+0024
-ó	ó	tsóohóo, zóomóo	Hausa	149	U+00f3
+ó	ó/o	tsóohóo, zóomóo	Hausa	149	U+00f3
 u	u	ɗáukàa, mátúuƙíi	Hausa	147	U+0075
-r̃	r̃	'yár̃ úwáa, fár̃jìi	Hausa	143	U+0072 U+0303
+r̃	r	'yár̃ úwáa, fár̃jìi	Hausa	143	U+0072 U+0303
 b	b	rábàa, ínàbíi	Hausa	134	U+0062
 ^k	k	kàazáa, kúmáa	Hausa	130	U+005e U+006b
-ù	ù	sùrúkáa, sùrúkíi	Hausa	123	U+00f9
+ù	ù/u	sùrúkáa, sùrúkíi	Hausa	123	U+00f9
 l	l	fílàafílíi, fíilíi	Hausa	122	U+006c
 o$	o	cíiwòo, kwàaɗóo	Hausa	118	U+006f U+0024
 d	d	gúdù, bàa dáidái bá nèe	Hausa	114	U+0064
 w	w	cíiwòo, 'yár̃ úwáa	Hausa	114	U+0077
-è	è	támàcèn àládèe, hárshèe	Hausa	113	U+00e8
-f	f	lâifíi, fílàafílíi	Hausa	112	U+0066
-é	é	mài háskée, ƙéegée	Hausa	112	U+00e9
+è	è/e	támàcèn àládèe, hárshèe	Hausa	113	U+00e8
+f	ɸ	lâifíi, fílàafílíi	Hausa	112	U+0066
+é	é/e	mài háskée, ƙéegée	Hausa	112	U+00e9
 o	o	lóokàcí-lóokàcí, tóonàa	Hausa	103	U+006f
 ^b	b	bí, bàaƙóo	Hausa	101	U+005e U+0062
 g	g	díddígèe, yí gùnàagúníi	Hausa	100	U+0067
-^y	y	yáwàa, yáaròo	Hausa	98	U+005e U+0079
+^y	j	yáwàa, yáaròo	Hausa	98	U+005e U+0079
 ^t	t	táashì, táasàa	Hausa	97	U+005e U+0074
 ^g	g	gúdù, gàbáatàa	Hausa	96	U+005e U+0067
 s	s	ƙásáa, táasàa	Hausa	90	U+0073
 ^s	s	sámà, sùrúkáa	Hausa	89	U+005e U+0073
-ƙ	<?>	mátúuƙíi, bàaƙóo	Hausa	88	U+0199
+ƙ	kʼ	mátúuƙíi, bàaƙóo	Hausa	88	U+0199
 u$	u	háu, sáamùu	Hausa	72	U+0075 U+0024
 ^d	d	dáajìi, dúutsèe	Hausa	71	U+005e U+0064
 ^h	h	hányàa, háu	Hausa	68	U+005e U+0068
-ò	ò	cíiwòo, ágòolà	Hausa	67	U+00f2
-c	c	ámìncée, támàcè	Hausa	66	U+0063
+ò	ò/o	cíiwòo, ágòolà	Hausa	67	U+00f2
+c	tʃ	ámìncée, támàcè	Hausa	66	U+0063
 ɗ	ɗ	kwàaɗóo, fáaɗì	Hausa	65	U+0257
-sh	sh	táashì, ƙàr̃ƙáshín	Hausa	64	U+0073 U+0068
-^f	f	fáatàa, fíilíi	Hausa	62	U+005e U+0066
-^ƙ	<?>	ƙásáa, ƙáayàa	Hausa	61	U+005e U+0199
-^à	à	àbíncí, àráa	Hausa	61	U+005e U+00e0
-â	â	lâifíi, mài kyâu	Hausa	61	U+00e2
+sh	ʃ	táashì, ƙàr̃ƙáshín	Hausa	64	U+0073 U+0068
+^f	ɸ	fáatàa, fíilíi	Hausa	62	U+005e U+0066
+^ƙ	kʼ	ƙásáa, ƙáayàa	Hausa	61	U+005e U+0199
+^à	à/a	àbíncí, àráa	Hausa	61	U+005e U+00e0
+â	â/a	lâifíi, mài kyâu	Hausa	61	U+00e2
 e	e	shèeƙáràa, shéebùr̃	Hausa	56	U+0065
-j	j	námíjì, dáajìi	Hausa	55	U+006a
-^j	j	jí, jíikàa	Hausa	52	U+005e U+006a
-^r	r	ráanáa, rábàa	Hausa	52	U+005e U+0072
-à$	à	sámà, dà	Hausa	49	U+00e0 U+0024
-ts	ts	dúutsèe, wáatsàa	Hausa	47	U+0074 U+0073
+j	dʒ	námíjì, dáajìi	Hausa	55	U+006a
+^j	dʒ	jí, jíikàa	Hausa	52	U+005e U+006a
+^r	ɽ	ráanáa, rábàa	Hausa	52	U+005e U+0072
+à$	à/a	sámà, dà	Hausa	49	U+00e0 U+0024
+ts	sʼ	dúutsèe, wáatsàa	Hausa	47	U+0074 U+0073
 z	z	kàazáa, yànzú-yànzú	Hausa	42	U+007a
-^sh	sh	shúukàa, shèeƙáràa	Hausa	41	U+005e U+0073 U+0068
+^sh	ʃ	shúukàa, shèeƙáràa	Hausa	41	U+005e U+0073 U+0068
 ^ɗ	ɗ	ɗáukàa, ɗán úwáa	Hausa	36	U+005e U+0257
 h	h	mài háskée, tsóohóo	Hausa	34	U+0068
 ^w	w	wútáa, wátàa	Hausa	34	U+005e U+0077
 ^z	z	zámá, zóomóo	Hausa	33	U+005e U+007a
-^c	c	cíiwòo, círèe	Hausa	32	U+005e U+0063
+^c	tʃ	cíiwòo, círèe	Hausa	32	U+005e U+0063
 ^n	n	námíjì, nóonòo	Hausa	32	U+005e U+006e
-á$	á	zámá, ìsá	Hausa	32	U+00e1 U+0024
-^kw	kw	kwàaɗóo, kwáanòo	Hausa	30	U+005e U+006b U+0077
-^á	á	ámìncée, ágòolà	Hausa	28	U+005e U+00e1
+á$	á/a	zámá, ìsá	Hausa	32	U+00e1 U+0024
+^kw	kʷ	kwàaɗóo, kwáanòo	Hausa	30	U+005e U+006b U+0077
+^á	á/a	ámìncée, ágòolà	Hausa	28	U+005e U+00e1
 ^l	l	lâifíi, lóokàcíi	Hausa	27	U+005e U+006c
-^í	í	ínàbíi, ítàacée	Hausa	27	U+005e U+00ed
+^í	í/i	ínàbíi, ítàacée	Hausa	27	U+005e U+00ed
 n$	n	ƙàr̃ƙáshín, báayán	Hausa	27	U+006e U+0024
-^ts	ts	tsóohóo, tsòoróo	Hausa	26	U+005e U+0074 U+0073
-ì$	ì	táashì, námíjì	Hausa	22	U+00ec U+0024
+^ts	sʼ	tsóohóo, tsòoróo	Hausa	26	U+005e U+0074 U+0073
+ì$	ì/i	táashì, námíjì	Hausa	22	U+00ec U+0024
 ɓ	ɓ	háɓàa, gáaɓàa	Hausa	21	U+0253
-ll	ll	màllákàa, àllúur̃àa	Hausa	21	U+006c U+006c
-nn	nn	ínnàa, sànnú-sànnú	Hausa	21	U+006e U+006e
-í$	í	jí, bí	Hausa	20	U+00ed U+0024
-r̃$	r̃	shéebùr̃, báhàr̃	Hausa	18	U+0072 U+0303 U+0024
+ll	lː	màllákàa, àllúur̃àa	Hausa	21	U+006c U+006c
+nn	nː	ínnàa, sànnú-sànnú	Hausa	21	U+006e U+006e
+í$	í/i	jí, bí	Hausa	20	U+00ed U+0024
+r̃$	r	shéebùr̃, báhàr̃	Hausa	18	U+0072 U+0303 U+0024
 ^ɓ	ɓ	ɓáatàa, ɓòoyáyyée	Hausa	16	U+005e U+0253
-ú$	ú	tèekú, ná bíyú	Hausa	16	U+00fa U+0024
-kw	kw	kwàlkwátàa, hùulár̃ kwáanòo	Hausa	15	U+006b U+0077
-^ƙw	<?>	ƙwállóo, ƙwàaróo	Hausa	14	U+005e U+0199 U+0077
-ù$	ù	gúdù, sàu úkù	Hausa	13	U+00f9 U+0024
-ô	ô	fôk, màasôn	Hausa	13	U+00f4
-^gw	gw	gwángwáníi, gwáaɓìi	Hausa	12	U+005e U+0067 U+0077
-é$	é	à shàagìɗé, à bùushé	Hausa	12	U+00e9 U+0024
-û	û	làmbàtûu, háyáaûíi	Hausa	12	U+00fb
-mm	mm	yí hámmàa, àbíncín yâmmáa	Hausa	11	U+006d U+006d
-^'y	'y	'yár̃ úwáa, 'yáa	Hausa	11	U+005e U+0027 U+0079
-^r̃	r̃	r̃áafàníi, r̃á’àyíi	Hausa	10	U+005e U+0072 U+0303
-às	às	máràs láafíyàa, máràs zúrfíi	Hausa	10	U+00e0 U+0073
-’	<?>	r̃á’àyíi, ná’àm	Hausa	8	U+2019
-'à	'à	sáa'àa, ráshìn sáa'àa	Hausa	8	U+0027 U+00e0
-gw	gw	àgwàagwá, gwángwáníi	Hausa	8	U+0067 U+0077
+ú$	ú/u	tèekú, ná bíyú	Hausa	16	U+00fa U+0024
+kw	kʷ	kwàlkwátàa, hùulár̃ kwáanòo	Hausa	15	U+006b U+0077
+^ƙw	kʷʼ	ƙwállóo, ƙwàaróo	Hausa	14	U+005e U+0199 U+0077
+ù$	ù/u	gúdù, sàu úkù	Hausa	13	U+00f9 U+0024
+ô	ô/o	fôk, màasôn	Hausa	13	U+00f4
+^gw	gʷ	gwángwáníi, gwáaɓìi	Hausa	12	U+005e U+0067 U+0077
+é$	é/e	à shàagìɗé, à bùushé	Hausa	12	U+00e9 U+0024
+û	û/u	làmbàtûu, háyáaûíi	Hausa	12	U+00fb
+mm	mː	yí hámmàa, àbíncín yâmmáa	Hausa	11	U+006d U+006d
+^'y	ʔʲ	'yár̃ úwáa, 'yáa	Hausa	11	U+005e U+0027 U+0079
+^r̃	r	r̃áafàníi, r̃á’àyíi	Hausa	10	U+005e U+0072 U+0303
+às	à/a s	máràs láafíyàa, máràs zúrfíi	Hausa	10	U+00e0 U+0073
+’	ʔ	r̃á’àyíi, ná’àm	Hausa	8	U+2019
+'à	ʔ à/a	sáa'àa, ráshìn sáa'àa	Hausa	8	U+0027 U+00e0
+gw	gʷ	àgwàagwá, gwángwáníi	Hausa	8	U+0067 U+0077
 m$	m	bôm, fîm	Hausa	8	U+006d U+0024
-bb	bb	tábbàt, dábbóobíi	Hausa	8	U+0062 U+0062
-è$	è	támàcè, màcè	Hausa	7	U+00e8 U+0024
-aa$	aa	ìnaa, májájjáawaa	Hausa	7	U+0061 U+0061 U+0024
-î	î	fîm, jînƙái	Hausa	7	U+00ee
+bb	bː	tábbàt, dábbóobíi	Hausa	8	U+0062 U+0062
+è$	è/e	támàcè, màcè	Hausa	7	U+00e8 U+0024
+aa$	aː	ìnaa, májájjáawaa	Hausa	7	U+0061 U+0061 U+0024
+î	î/i	fîm, jînƙái	Hausa	7	U+00ee
 t$	t	tábbàt, shât	Hausa	6	U+0074 U+0024
 l$	l	fêl, ƙwàràngwál	Hausa	6	U+006c U+0024
-àh	àh	ƙàhóo, wútán jàhánnàmàa	Hausa	6	U+00e0 U+0068
-rsh	rsh	hárshèe, ƙàrshée	Hausa	6	U+0072 U+0073 U+0068
-tt	tt	líttáafìi, kútúttúrèe	Hausa	5	U+0074 U+0074
-jj	jj	jíjjígèe, májájjáawaa	Hausa	5	U+006a U+006a
-^ú	ú	úkù, úwáa kíntàa	Hausa	5	U+005e U+00fa
-àsh	àsh	ƙàshín kàafáaɗàa, ƙàshín báayáa	Hausa	5	U+00e0 U+0073 U+0068
-yy	yy	mài jíyyàa, gàyyatàa	Hausa	5	U+0079 U+0079
-.	<?>	bà.....bá	Hausa	5	U+002e
-ê	ê	fêl, sìkêt	Hausa	5	U+00ea
-ƙw	<?>	dáƙwálwáa, ƙwálƙwálwáa	Hausa	5	U+0199 U+0077
-rw	rw	bùdúrwáa, kúsùrwáa	Hausa	5	U+0072 U+0077
-nw	nw	tsánwáa, ƙyânwáa	Hausa	4	U+006e U+0077
-nsh	nsh	yí mínsháaríi, shànshàaníi	Hausa	4	U+006e U+0073 U+0068
-^ù	ù	ùbáa, ùngùlúu	Hausa	4	U+005e U+00f9
--	<?>	sànnú-sànnú, lóokàcí-lóokàcí	Hausa	4	U+002d
-ns	ns	sánsànáa, bùnsúrúu	Hausa	4	U+006e U+0073
-dd	dd	díddígèe, yí àddú'àa	Hausa	3	U+0064 U+0064
-àw	àw	báa dà jàwáabìi, hàwáinìyáa	Hausa	3	U+00e0 U+0077
-ùw	ùw	tákàr̃dár̃ háihùwáa, ƙwándùwáa	Hausa	3	U+00f9 U+0077
+àh	à/a h	ƙàhóo, wútán jàhánnàmàa	Hausa	6	U+00e0 U+0068
+rsh	ɽ ʃ	hárshèe, ƙàrshée	Hausa	6	U+0072 U+0073 U+0068
+tt	tː	líttáafìi, kútúttúrèe	Hausa	5	U+0074 U+0074
+jj	dʒː	jíjjígèe, májájjáawaa	Hausa	5	U+006a U+006a
+^ú	ú/u	úkù, úwáa kíntàa	Hausa	5	U+005e U+00fa
+àsh	à/a ʃ	ƙàshín kàafáaɗàa, ƙàshín báayáa	Hausa	5	U+00e0 U+0073 U+0068
+yy	jː	mài jíyyàa, gàyyatàa	Hausa	5	U+0079 U+0079
+ê	ê/e	fêl, sìkêt	Hausa	5	U+00ea
+ƙw	kʷʼ	dáƙwálwáa, ƙwálƙwálwáa	Hausa	5	U+0199 U+0077
+rw	ɽ w	bùdúrwáa, kúsùrwáa	Hausa	5	U+0072 U+0077
+nw	n w	tsánwáa, ƙyânwáa	Hausa	4	U+006e U+0077
+nsh	n ʃ	yí mínsháaríi, shànshàaníi	Hausa	4	U+006e U+0073 U+0068
+^ù	ù/u	ùbáa, ùngùlúu	Hausa	4	U+005e U+00f9
+-	+	sànnú-sànnú, lóokàcí-lóokàcí	Hausa	4	U+002d
+ns	n s	sánsànáa, bùnsúrúu	Hausa	4	U+006e U+0073
+dd	dː	díddígèe, yí àddú'àa	Hausa	3	U+0064 U+0064
+àw	à/a w	báa dà jàwáabìi, hàwáinìyáa	Hausa	3	U+00e0 U+0077
+ùw	ù/u w	tákàr̃dár̃ háihùwáa, ƙwándùwáa	Hausa	3	U+00f9 U+0077
 k$	k	fôk, ɓútúk	Hausa	3	U+006b U+0024
-îs$	îs	bîs, Àlhàmîs	Hausa	3	U+00ee U+0073 U+0024
-'ì	'ì	dáa'ìr̃áa, bàláa'ìn yúnwàa	Hausa	3	U+0027 U+00ec
-^ì	ì	ìnaa, ì’ìnáa	Hausa	3	U+005e U+00ec
-zz	zz	zàzzàɓíi, zàzzágàa	Hausa	3	U+007a U+007a
-lw	lw	dáƙwálwáa, ƙwálƙwálwáa	Hausa	3	U+006c U+0077
-r̃sh	r̃sh	hùr̃shéetìi, kùr̃shêt	Hausa	2	U+0072 U+0303 U+0073 U+0068
-kàakáa (1)	<???>	kàakáa (1)	Hausa	2	U+006b U+00e0 U+0061 U+006b U+00e1 U+0061 U+0020 U+0028 U+0031 U+0029
-'á	'á	àl'áadàa, má'áikátáa	Hausa	2	U+0027 U+00e1
-ff	ff	dàfáffée, fíffíkèe	Hausa	2	U+0066 U+0066
-^L	<?>	Láhádì, Lìtìnîn	Hausa	2	U+005e U+004c
-sâa (2)	<???>	sâa (2)	Hausa	2	U+0073 U+00e2 U+0061 U+0020 U+0028 U+0032 U+0029
-^ìs	ìs	ìsá	Hausa	2	U+005e U+00ec U+0073
-lh	lh	Àlhàmîs, àlhàr̃íníi	Hausa	2	U+006c U+0068
-gg	gg	gwággò, gággáfáa	Hausa	2	U+0067 U+0067
-r̃w	r̃w	yí kár̃kár̃wàa, sádáukâr̃wáa	Hausa	2	U+0072 U+0303 U+0077
-^àsh	àsh	àshìr̃ín, àsháanáa	Hausa	2	U+005e U+00e0 U+0073 U+0068
-às$	às	gábàs, tákwàs	Hausa	2	U+00e0 U+0073 U+0024
-ùs	ùs	dáakùsáa, dúrƙùsáa	Hausa	2	U+00f9 U+0073
-cc	cc	àmìntáccée, íccèn ƙóofàa	Hausa	2	U+0063 U+0063
-àss	àss	másàssàƙíi	Hausa	2	U+00e0 U+0073 U+0073
-rh	rh	múrhùu	Hausa	2	U+0072 U+0068
-^ƴ	<?>	ƴar̃ wâa or ɗan wâa, ƴântaa	Hausa	2	U+005e U+01b4
-kk	kk	shákkàa	Hausa	1	U+006b U+006b
-ò$	ò	gwággò	Hausa	1	U+00f2 U+0024
-r̃s	r̃s	fúr̃súnàa	Hausa	1	U+0072 U+0303 U+0073
-r̃h	r̃h	tàr̃hôo	Hausa	1	U+0072 U+0303 U+0068
-ó$	ó	àgóogó	Hausa	1	U+00f3 U+0024
-ùh	ùh	tùhúmtàa	Hausa	1	U+00f9 U+0068
-'î	'î	shà'îr̃	Hausa	1	U+0027 U+00ee
-f$	f	kwâf	Hausa	1	U+0066 U+0024
+îs$	î/i s	bîs, Àlhàmîs	Hausa	3	U+00ee U+0073 U+0024
+'ì	ʔ ì/i	dáa'ìr̃áa, bàláa'ìn yúnwàa	Hausa	3	U+0027 U+00ec
+^ì	ì/i	ìnaa, ì’ìnáa	Hausa	3	U+005e U+00ec
+zz	zː	zàzzàɓíi, zàzzágàa	Hausa	3	U+007a U+007a
+lw	l w	dáƙwálwáa, ƙwálƙwálwáa	Hausa	3	U+006c U+0077
+r̃sh	r ʃ	hùr̃shéetìi, kùr̃shêt	Hausa	2	U+0072 U+0303 U+0073 U+0068
+'á	ʔ á/a	àl'áadàa, má'áikátáa	Hausa	2	U+0027 U+00e1
+ff	ɸ	dàfáffée, fíffíkèe	Hausa	2	U+0066 U+0066
+^L	L/l	Láhádì, Lìtìnîn	Hausa	2	U+005e U+004c
+^ìs	ì/i s	ìsá	Hausa	2	U+005e U+00ec U+0073
+lh	l h	Àlhàmîs, àlhàr̃íníi	Hausa	2	U+006c U+0068
+gg	gː	gwággò, gággáfáa	Hausa	2	U+0067 U+0067
+r̃w	r w	yí kár̃kár̃wàa, sádáukâr̃wáa	Hausa	2	U+0072 U+0303 U+0077
+^àsh	à/a ʃ	àshìr̃ín, àsháanáa	Hausa	2	U+005e U+00e0 U+0073 U+0068
+às$	à/a s	gábàs, tákwàs	Hausa	2	U+00e0 U+0073 U+0024
+ùs	ù/u s	dáakùsáa, dúrƙùsáa	Hausa	2	U+00f9 U+0073
+cc	tʃː	àmìntáccée, íccèn ƙóofàa	Hausa	2	U+0063 U+0063
+àss	à/a sː	másàssàƙíi	Hausa	2	U+00e0 U+0073 U+0073
+rh	ɽː	múrhùu	Hausa	2	U+0072 U+0068
+^ƴ	ʔʲ	ƴar̃ wâa or ɗan wâa, ƴântaa	Hausa	2	U+005e U+01b4
+kk	kː	shákkàa	Hausa	1	U+006b U+006b
+ò$	ò/o	gwággò	Hausa	1	U+00f2 U+0024
+r̃s	r s	fúr̃súnàa	Hausa	1	U+0072 U+0303 U+0073
+r̃h	r h	tàr̃hôo	Hausa	1	U+0072 U+0303 U+0068
+ó$	ó/o	àgóogó	Hausa	1	U+00f3 U+0024
+ùh	ù/u h	tùhúmtàa	Hausa	1	U+00f9 U+0068
+'î	ʔ î/i	shà'îr̃	Hausa	1	U+0027 U+00ee
+f$	ɸ	kwâf	Hausa	1	U+0066 U+0024
 b$	b	r̃ôb	Hausa	1	U+0062 U+0024
-ss	ss	sássàƙáa	Hausa	1	U+0073 U+0073
-ȏ	<?>	màr̃tȏo	Hausa	1	U+020f
-sâa (1)	<???>	sâa (1)	Hausa	1	U+0073 U+00e2 U+0061 U+0020 U+0028 U+0031 U+0029
-gámàa (2)	<???>	gámàa (2)	Hausa	1	U+0067 U+00e1 U+006d U+00e0 U+0061 U+0020 U+0028 U+0032 U+0029
-shèeƙáa (1)	<???>	shèeƙáa (1)	Hausa	1	U+0073 U+0068 U+00e8 U+0065 U+0199 U+00e1 U+0061 U+0020 U+0028 U+0031 U+0029
-ɓɓ	ɓɓ	ɓúɓɓúkéekèe	Hausa	1	U+0253 U+0253
-ê$	ê	kàfê	Hausa	1	U+00ea U+0024
-ów	ów	ƙólóolówáa	Hausa	1	U+00f3 U+0077
-^é	é	émtì	Hausa	1	U+005e U+00e9
-^J	<?>	Júmmá’àa	Hausa	1	U+005e U+004a
-^à$	à	à	Hausa	1	U+005e U+00e0 U+0024
-$	<?>	yána$yìi	Hausa	1	U+0024
-î$	î	tìsî	Hausa	1	U+00ee U+0024
-^T	<?>	Tàláatà	Hausa	1	U+005e U+0054
-^’	<?>	’yár̃ ítàacée	Hausa	1	U+005e U+2019
-Làar~àbá (Standard, Nigeria)	<???>	Làar~àbá (Standard, Nigeria)	Hausa	1	U+004c U+00e0 U+0061 U+0072 U+007e U+00e0 U+0062 U+00e1 U+0020 U+0028 U+0053 U+0074 U+0061 U+006e U+0064 U+0061 U+0072 U+0064 U+002c U+0020 U+004e U+0069 U+0067 U+0065 U+0072 U+0069 U+0061 U+0029
-^ó	ó	óobìn	Hausa	1	U+005e U+00f3
-jáa (2)	<???>	jáa (2)	Hausa	1	U+006a U+00e1 U+0061 U+0020 U+0028 U+0032 U+0029
-kàakáa (2)	<???>	kàakáa (2)	Hausa	1	U+006b U+00e0 U+0061 U+006b U+00e1 U+0061 U+0020 U+0028 U+0032 U+0029
-gámàa (1)	<???>	gámàa (1)	Hausa	1	U+0067 U+00e1 U+006d U+00e0 U+0061 U+0020 U+0028 U+0031 U+0029
-Láar~ábà (Niger)	<???>	Láar~ábà (Niger)	Hausa	1	U+004c U+00e1 U+0061 U+0072 U+007e U+00e1 U+0062 U+00e0 U+0020 U+0028 U+004e U+0069 U+0067 U+0065 U+0072 U+0029
-ô$	ô	bàmbô	Hausa	1	U+00f4 U+0024
-ìs	ìs	tìsî	Hausa	1	U+00ec U+0073
-àh$	àh	Allàh	Hausa	1	U+00e0 U+0068 U+0024
-ms	ms	ámsàa	Hausa	1	U+006d U+0073
-kái (1)	<???>	kái (1)	Hausa	1	U+006b U+00e1 U+0069 U+0020 U+0028 U+0031 U+0029
-shèeƙáa (2)	<???>	shèeƙáa (2)	Hausa	1	U+0073 U+0068 U+00e8 U+0065 U+0199 U+00e1 U+0061 U+0020 U+0028 U+0032 U+0029
-ìsh	ìsh	yí átìsháa	Hausa	1	U+00ec U+0073 U+0068
-jáa (1)	<???>	jáa (1)	Hausa	1	U+006a U+00e1 U+0061 U+0020 U+0028 U+0031 U+0029
-^À	<?>	Àlhàmîs	Hausa	1	U+005e U+00c0
-r̃r̃	r̃r̃	jár̃r̃àbáa	Hausa	1	U+0072 U+0303 U+0072 U+0303
-rr	rr	rárràfáa	Hausa	1	U+0072 U+0072
-âs$	âs	bâs	Hausa	1	U+00e2 U+0073 U+0024
-^A	<?>	Allàh	Hausa	1	U+005e U+0041
-^Às	<?>	Àsábàr̃	Hausa	1	U+005e U+00c0 U+0073
+ss	sː	sássàƙáa	Hausa	1	U+0073 U+0073
+ȏ	ȏ/o	màr̃tȏo	Hausa	1	U+020f
+ɓɓ	ɓː	ɓúɓɓúkéekèe	Hausa	1	U+0253 U+0253
+ê$	ê/e	kàfê	Hausa	1	U+00ea U+0024
+ów	ó/o w	ƙólóolówáa	Hausa	1	U+00f3 U+0077
+^é	é/e	émtì	Hausa	1	U+005e U+00e9
+^J	Dʒ/dʒ	Júmmá’àa	Hausa	1	U+005e U+004a
+^à$	à/a	à	Hausa	1	U+005e U+00e0 U+0024
+$	NULL	yána$yìi	Hausa	1	U+0024
+î$	î/i	tìsî	Hausa	1	U+00ee U+0024
+^T	T/t	Tàláatà	Hausa	1	U+005e U+0054
+^’y	ʔʲ	’yár̃ ítàacée	Hausa	1	U+005e U+2019
+^ó	ó/o	óobìn	Hausa	1	U+005e U+00f3
+ô$	ô/o	bàmbô	Hausa	1	U+00f4 U+0024
+ìs	ì/i s	tìsî	Hausa	1	U+00ec U+0073
+àh$	à/a h	Allàh	Hausa	1	U+00e0 U+0068 U+0024
+ms	m s	ámsàa	Hausa	1	U+006d U+0073
+ìsh	ì/i ʃ	yí átìsháa	Hausa	1	U+00ec U+0073 U+0068
+^À	À/a	Àlhàmîs	Hausa	1	U+005e U+00c0
+r̃r̃	rː	jár̃r̃àbáa	Hausa	1	U+0072 U+0303 U+0072 U+0303
+rr	ɽː	rárràfáa	Hausa	1	U+0072 U+0072
+âs$	â/a s	bâs	Hausa	1	U+00e2 U+0073 U+0024
+^A	A/a	Allàh	Hausa	1	U+005e U+0041
+^Às	à/a s	Àsábàr̃	Hausa	1	U+005e U+00c0 U+0073
 p$	p	jîp	Hausa	1	U+0070 U+0024
-^ìsh	ìsh	ìsháar̃àa	Hausa	1	U+005e U+00ec U+0073 U+0068
-kái (2)	<???>	kái (2)	Hausa	1	U+006b U+00e1 U+0069 U+0020 U+0028 U+0032 U+0029
-ee	ee	sàareewàa	Hausa	1	U+0065 U+0065
-múu (ná)	<???>	múu (ná)	Hausa	1	U+006d U+00fa U+0075 U+0020 U+0028 U+006e U+00e1 U+0029
+^ìsh	ì/i ʃ	ìsháar̃àa	Hausa	1	U+005e U+00ec U+0073 U+0068
+ee	eː	sàareewàa	Hausa	1	U+0065 U+0065
 ^i	i	ita	Hausa	1	U+005e U+0069
+áa	áa/aː				
+àa	àa/aː				
+áa$	áa/aː				
+àa$	àa/aː				
+^áa	áa/aː				
+ìi$	ìi/iː				
+ìi	ìi/iː				
+íi$	íi/iː				
+íi	íi/iː				
+^íi$	íi/iː				
+óo	óo/oː				
+òo	òo/oː				
+óo$	óo/oː				
+òo$	òo/oː				
+^óo	óo/oː				
+ky	kʲ				
+^ky	kʲ				
+ƙy	kʲʼ				
+^ƙy	kʲʼ				
+ée	ée/eː				
+èe	èe/eː				
+ée$	ée/eː				
+èe$	èe/eː				
+ôo$	ôo/oː				
+ôo	ôo/oː				
+^bà.....bá$	b à/a _ b á/a				
+^mântáa$	m â/a n t áa/aː				
+^màr̃tȏo$	m à/a r t ȏo/oː				
+âa$	âa/aː				
+âa	âa/aː				
+ûu	ûu/uː				
+êe$	êe/eː				

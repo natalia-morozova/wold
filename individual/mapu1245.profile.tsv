@@ -1,0 +1,65 @@
+Grapheme	IPA	FREQUENCY	CODEPOINTS
+^	NULL		
+$	NULL		
+a	a	908	U+0061
+n	n	897	U+006e
+e	e	713	U+0065
+ü	ɨ	657	U+00fc
+u	u	518	U+0075
+k	k	518	U+006b
+i	i	451	U+0069
+r	ɻ	424	U+0072
+t	t	415	U+0074
+l	l	360	U+006c
+m	m	336	U+006d
+o	o	327	U+006f
+w	w	299	U+0077
+p	p	268	U+0070
+f	f	235	U+0066
+ch	tʃ	176	U+0063 U+0068
+g	ɰ	174	U+0067
+ll	ʎ	149	U+006c U+006c
+ñ	ɲ	148	U+00f1
+_	_	135	U+005f
+y	y	129	U+0079
+z	z	124	U+007a
+s	s	71	U+0073
+ṉ	n̪	56	U+1e49
+ḻ	l̪	46	U+1e3b
+q	ɣ	17	U+0071
+d	θ	16	U+0064
+¿	NULL	12	U+00bf
+?	NULL	12	U+003f
+sh	ʃ	11	U+0073 U+0068
+lw	l w	10	U+006c U+0077
+üw	ɨ w	9	U+00fc U+0077
+j	j	6	U+006a
+pw	p w	5	U+0070 U+0077
+ns	ns	4	U+006e U+0073
+nw	n w	3	U+006e U+0077
+kw	k w	3	U+006b U+0077
+üs	ɨ s	3	U+00fc U+0073
+b	b	3	U+0062
+rw	ɻ w	3	U+0072 U+0077
+-	+	3	U+002d
+rs	ɻ s	2	U+0072 U+0073
+v	v	2	U+0076
+ls	l s	2	U+006c U+0073
+ḻw	l̪ w	1	U+1e3b U+0077
+nsh	n ʃ	1	U+006e U+0073 U+0068
+ñw	ɲ w	1	U+00f1 U+0077
+fw	f w	1	U+0066 U+0077
+sw	s w	1	U+0073 U+0077
+zw	z w	1	U+007a U+0077
+ks	k s	1	U+006b U+0073
+c	k	1	U+0063
+mw	m w	1	U+006d U+0077
+ng	ŋ		
+ng$	ŋ		
+^ng	ŋ		
+^tr	ʈʂ		
+tr	ʈʂ		
+^ḻ	l̪		
+ḻ$	l̪		
+ṉ$	n̪		
+^ṉ	n̪		

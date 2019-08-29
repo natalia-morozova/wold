@@ -7,15 +7,15 @@ t	t	ät’i, nt’ut’i nt'o̲t'e	Otomi	526	U+0074
 i	i	hingi hei, hingi ho	Otomi	462	U+0069
 a	a	hai, maxo̲ts'e	Otomi	446	U+0061
 ^n	n	ngäts'i, nu'ä	Otomi	427	U+005e U+006e
-_	_	ya bätsi ne ya 'be̲to, 'ño̲ho̲ 'yo xi hño	Otomi	426	U+005f
+_	NULL	ya bätsi ne ya 'be̲to, 'ño̲ho̲ 'yo xi hño	Otomi	426	U+005f
 o	o	hoki, ñot’i	Otomi	364	U+006f
 e	e	mfeni, meni	Otomi	347	U+0065
 u	u	hogumui, fuxuhai	Otomi	310	U+0075
 ts	ts	maxo̲ts'e, ngäts'i	Otomi	300	U+0074 U+0073
 d	d	udi, ndu̲i	Otomi	285	U+0064
 ä	ä	ngäts'i, makwäni	Otomi	256	U+00e4
-u̲	u̲	ndu̲i, ju̲xt'i	Otomi	241	U+0075 U+0332
-'i$	'i	ngäts'i, ‘ba̲t'i	Otomi	241	U+0027 U+0069 U+0024
+u̲	u̲/u	ndu̲i, ju̲xt'i	Otomi	241	U+0075 U+0332
+'i$	'i/i	ngäts'i, ‘ba̲t'i	Otomi	241	U+0027 U+0069 U+0024
 x	x	maxo̲ts'e, txitxi	Otomi	238	U+0078
 h	h	'nihi, mihi	Otomi	238	U+0068
 e$	e	pe, pale	Otomi	238	U+0065 U+0024
@@ -26,48 +26,48 @@ a$	a	uba, ora	Otomi	212	U+0061 U+0024
 ^m	m	maxo̲ts'e, makwäni	Otomi	194	U+005e U+006d
 k	k	he̲ki, hoki	Otomi	181	U+006b
 m	m	animä, hogumui	Otomi	179	U+006d
-th	th	nxanthe, nthähi	Otomi	177	U+0074 U+0068
-e̲	e̲	he̲ki, he̲gi	Otomi	164	U+0065 U+0332
+th	θ	nxanthe, nthähi	Otomi	177	U+0074 U+0068
+e̲	e̲/e	he̲ki, he̲gi	Otomi	164	U+0065 U+0332
 b	b	‘bui, ‘ba̲t'i	Otomi	163	U+0062
 ^x	x	xi nts'o, xifni	Otomi	161	U+005e U+0078
 ä$	ä	bo̲jä, hñä	Otomi	158	U+00e4 U+0024
-o̲	o̲	bo̲jä, maxo̲ts'e	Otomi	136	U+006f U+0332
+o̲	o̲/o	bo̲jä, maxo̲ts'e	Otomi	136	U+006f U+0332
 ^t	t	tiyo, tihi	Otomi	135	U+005e U+0074
-ñ	ñ	hñä, ts’ixt’u‘ñu	Otomi	130	U+00f1
+ñ	ɲ	hñä, ts’ixt’u‘ñu	Otomi	130	U+00f1
 u$	u	ju, 'bitu	Otomi	125	U+0075 U+0024
 r	r	nixtri, barko	Otomi	124	U+0072
-’	<?>	ts’ixt’u‘ñu, nts’i	Otomi	121	U+2019
+’	ʔ	ts’ixt’u‘ñu, nts’i	Otomi	121	U+2019
 j	j	bo̲jä, bo̲jä denjä'i	Otomi	117	U+006a
-y	y	hyoya, tiyo	Otomi	112	U+0079
+y	j	hyoya, tiyo	Otomi	112	U+0079
 ^ts	ts	ts’ixt’u‘ñu, tsibi	Otomi	99	U+005e U+0074 U+0073
 ^k	k	kät'i, k'ahni	Otomi	96	U+005e U+006b
 ^p	p	pe, pale	Otomi	95	U+005e U+0070
 f	f	mfeni, mafi	Otomi	91	U+0066
-a̲	a̲	‘ba̲t'i, 'ma̲i	Otomi	90	U+0061 U+0332
+a̲	a̲/a	‘ba̲t'i, 'ma̲i	Otomi	90	U+0061 U+0332
 ^d	d	däzabi, do̲ni	Otomi	80	U+005e U+0064
 z	z	däzabi, mbozaa	Otomi	76	U+007a
-'u̲	'u̲	o̲t'u̲ts'u̲t'u̲bi, ts'u̲nt'u̲	Otomi	75	U+0027 U+0075 U+0332
-'m	'm	he'mi 'mehni, ntso̲'mi	Otomi	69	U+0027 U+006d
+'u̲	'u̲/u	o̲t'u̲ts'u̲t'u̲bi, ts'u̲nt'u̲	Otomi	75	U+0027 U+0075 U+0332
+'m	'm/m	he'mi 'mehni, ntso̲'mi	Otomi	69	U+0027 U+006d
 ^b	b	bo̲jä, bätsi	Otomi	66	U+005e U+0062
 ^‘	<?>	‘bui, ‘ba̲t'i	Otomi	65	U+005e U+2018
 p	p	mpa̲ni, mprebeni	Otomi	64	U+0070
 l	l	pale, pelikula	Otomi	62	U+006c
 ^g	g	gehna, ge'ä	Otomi	59	U+005e U+0067
-^'b	'b	'be̲di, 'bitu	Otomi	58	U+005e U+0027 U+0062
+^'b	'b/b	'be̲di, 'bitu	Otomi	58	U+005e U+0027 U+0062
 ^j	j	ju, juts’i	Otomi	53	U+005e U+006a
 s	s	poste, pasto	Otomi	45	U+0073
-'o	'o	t'o'ni, ts'oni	Otomi	44	U+0027 U+006f
+'o	'o/o	t'o'ni, ts'oni	Otomi	44	U+0027 U+006f
 ^z	z	zitsí, zaa	Otomi	42	U+005e U+007a
-^'ñ	'ñ	'ñani, 'ñeme	Otomi	42	U+005e U+0027 U+00f1
-u̲$	u̲	nu'bu̲, gehnu̲	Otomi	41	U+0075 U+0332 U+0024
+^'ñ	'ɲ/ɲ	'ñani, 'ñeme	Otomi	42	U+005e U+0027 U+00f1
+u̲$	u̲/u	nu'bu̲, gehnu̲	Otomi	41	U+0075 U+0332 U+0024
 ^s	s	simiya, siriyo	Otomi	41	U+005e U+0073
-a̲$	a̲	'yu̲ga̲, ntsa̲	Otomi	40	U+0061 U+0332 U+0024
-'e$	'e	maxo̲ts'e, po̲ts'e	Otomi	39	U+0027 U+0065 U+0024
-'a	'a	k'ahni, k'axt'i	Otomi	38	U+0027 U+0061
-'b	'b	nu'bu̲, nu'bya	Otomi	38	U+0027 U+0062
-e̲$	e̲	'ye̲, ts'ijwe̲	Otomi	34	U+0065 U+0332 U+0024
+a̲$	a̲/a	'yu̲ga̲, ntsa̲	Otomi	40	U+0061 U+0332 U+0024
+'e$	'e/e	maxo̲ts'e, po̲ts'e	Otomi	39	U+0027 U+0065 U+0024
+'a	'a/a	k'ahni, k'axt'i	Otomi	38	U+0027 U+0061
+'b	'b/b	nu'bu̲, nu'bya	Otomi	38	U+0027 U+0062
+e̲$	e̲/e	'ye̲, ts'ijwe̲	Otomi	34	U+0065 U+0332 U+0024
 ^th	th	thege, the̲ti	Otomi	33	U+005e U+0074 U+0068
-^ñ	ñ	ñot’i, ñu̲ni	Otomi	33	U+005e U+00f1
+^ñ	ɲ	ñot’i, ñu̲ni	Otomi	33	U+005e U+00f1
 ^f	f	fuxuhai, fu̲ts'i	Otomi	33	U+005e U+0066
 jw	jw	ts'ijwe̲, ma nts'äjwai	Otomi	32	U+006a U+0077
 'u	'u	t'uxfo ts'udi, ndä ts'ut'ubi	Otomi	32	U+0027 U+0075
