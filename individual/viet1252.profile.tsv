@@ -199,39 +199,46 @@ H	H/h	nhà thờ Hồi giáo	Vietnamese	1	U+0048
 ̣	NULL				
 c$	k	học, trước	Vietnamese	81	U+0063 U+0024
 ục$	ụ/u kp				
+ục{}	ụ/u kp				
 úc$	ú/u kp				
+úc{}	ú/u kp				
 ộc$	ộ/ʌʊ kp				
 ốc$	ố/ʌʊ kp				
+ốc{}	ố/ʌʊ kp				
 óc$	ó/ɐʊ kp				
+óc{}	ó/ɐʊ kp				
 ọc$	ọ/ɐʊ kp				
+ọc{}	ọ/ɐʊ kp				
 ^g	ɣ	gà, giàu			
+{} g	ɣ				
 ^gi	z				
+{} gi	z				
 ^giế	z i e				
 ^gì	z i				
-gh	g	lòng ghen			
 ^gh	g	ghét, ghim			
+{} gh	g				
 ^ngh	ŋ	nghe			
-g	ɣ				
+{} ngh	ŋ				
 ^ng	ŋ				
 ng	ŋ				
 ng$	ŋ				
-ũng$	ũ/u ŋ͡m				
-ồng	ồ/ʌ̃ʊ̃ ŋ͡m				
-óng$	ó/ɐ̃ʊ̃ ŋ͡m				
-ông	ô/ʌ̃ʊ̃ ŋ͡m				
-òng	ò/ɐ̃ʊ̃ ŋ͡m				
-ộng	ộ/ʌ̃ʊ̃ ŋ͡m				
-óng	ó/ɐ̃ʊ̃ ŋ͡m				
-ộng$	ộ/ʌ̃ʊ̃ ŋ͡m				
-ong	ɐ̃ʊ̃ ŋ͡m				
-ổng	ổ/ʌ̃ʊ̃ ŋ͡m				
-ống$	ố/ʌ̃ʊ̃ ŋ͡m				
-^ông	ô/ʌ̃ʊ̃ ŋ͡m				
-^ống	ố/ʌ̃ʊ̃ ŋ͡m				
+ũng$	ũ/u ŋ m				
+ồng	ồ/ʌ̃ʊ̃ ŋ m				
+óng$	ó/ɐ̃ʊ̃ ŋ m				
+ông	ô/ʌ̃ʊ̃ ŋ m				
+òng	ò/ɐ̃ʊ̃ ŋ m				
+ộng	ộ/ʌ̃ʊ̃ ŋ m				
+óng	ó/ɐ̃ʊ̃ ŋ m				
+ộng$	ộ/ʌ̃ʊ̃ ŋ m				
+ong	ɐ̃ʊ̃ ŋ m				
+ổng	ổ/ʌ̃ʊ̃ ŋ m				
+ống$	ố/ʌ̃ʊ̃ ŋ m				
+^ông	ô/ʌ̃ʊ̃ ŋ m				
+^ống	ố/ʌ̃ʊ̃ ŋ m				
 gi	z				
-úng	ú/u ŋ͡m				
-ung	u ŋ͡m				
-ụng	ụ/u ŋ͡m				
+úng	ú/u ŋ m				
+ung	u ŋ m				
+ụng	ụ/u ŋ m				
 ^tr	ʈʂ				
 tr	ʈʂ				
 ai	aɪ				

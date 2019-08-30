@@ -27,6 +27,7 @@ d	d	tidur, bidadari	Indonesian	193	U+0064
 ^t	t	terlambat, tidur	Indonesian	177	U+005e U+0074
 ^s	s	sebab, sembahyang	Indonesian	172	U+005e U+0073
 k$	ʔ	naik, masak	Indonesian	170	U+006b U+0024
+k{}	ʔ				
 s	s	kesalahan, masak	Indonesian	167	U+0073
 t$	t	terlambat, telat	Indonesian	163	U+0074 U+0024
 r$	r	tidur, dapur	Indonesian	151	U+0072 U+0024
@@ -59,13 +60,13 @@ w	w	membawa, tawon	Indonesian	36	U+0077
 o$	o	romo, separo	Indonesian	15	U+006f U+0024
 ^o	o	onta, om	Indonesian	14	U+005e U+006f
 rs	r s	kursi, bersih	Indonesian	14	U+0072 U+0073
-gh	gh	menghancurkan, menghilang	Indonesian	12	U+0067 U+0068
+gh	g h	menghancurkan, menghilang	Indonesian	12	U+0067 U+0068
 kk	k k	memercikkan, menunjukkan	Indonesian	11	U+006b U+006b
 ^w	w	wanita, wol	Indonesian	11	U+005e U+0077
 ^e	e	enggak, engkau	Indonesian	10	U+005e U+0065
 aa	aː	pemerkosaan, kegelitaan	Indonesian	9	U+0061 U+0061
 és	é/e s	melését, menggésék	Indonesian	8	U+00e9 U+0073
-ks	k s	maksud, sanksi	Indonesian	8	U+006b U+0073
+ks	ks	maksud, sanksi	Indonesian	8	U+006b U+0073
 b$	b	sebab, arnab	Indonesian	8	U+0062 U+0024
 gs	g s	berlangsung, angsa	Indonesian	7	U+0067 U+0073
 é$	é/e	idé, soré	Indonesian	6	U+00e9 U+0024
@@ -83,41 +84,30 @@ rw	r w	terwélu, arwah	Indonesian	3	U+0072 U+0077
 e$	e	olive, wine	Indonesian	3	U+0065 U+0024
 ^y	j	yatim-piatu, yakin	Indonesian	3	U+005e U+0079
 éh	é/e h	léhér, memperboléhkan	Indonesian	3	U+00e9 U+0068
-mengantar(kan)	<???>	mengantar(kan)	Indonesian	2	U+006d U+0065 U+006e U+0067 U+0061 U+006e U+0074 U+0061 U+0072 U+0028 U+006b U+0061 U+006e U+0029
 kw	kw	mendakwa, terdakwa	Indonesian	2	U+006b U+0077
 ^v	v	vonis, vagina	Indonesian	2	U+005e U+0076
 z	z	jenazah, mengizinkan	Indonesian	2	U+007a
 és$	é/e s	menétés	Indonesian	1	U+00e9 U+0073 U+0024
-meng(h)isap	<???>	meng(h)isap	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0028 U+0068 U+0029 U+0069 U+0073 U+0061 U+0070
 I$	i	menghalangI	Indonesian	1	U+0049 U+0024
-menutup(i)	<???>	menutup(i)	Indonesian	1	U+006d U+0065 U+006e U+0075 U+0074 U+0075 U+0070 U+0028 U+0069 U+0029
-mengirim(i)	<???>	mengirim(i)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0069 U+0072 U+0069 U+006d U+0028 U+0069 U+0029
-menimbun(kan)	<???>	menimbun(kan)	Indonesian	1	U+006d U+0065 U+006e U+0069 U+006d U+0062 U+0075 U+006e U+0028 U+006b U+0061 U+006e U+0029
-menggoncang(kan)	<???>	menggoncang(kan)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0067 U+006f U+006e U+0063 U+0061 U+006e U+0067 U+0028 U+006b U+0061 U+006e U+0029
 ^R	R/r	Rabu	Indonesian	1	U+005e U+0052
-ss	s	massa	Indonesian	1	U+0073 U+0073
-mengguncang(kan)	<???>	mengguncang(kan)	Indonesian	1	U+006d U+0065 U+006e U+0067 U+0067 U+0075 U+006e U+0063 U+0061 U+006e U+0067 U+0028 U+006b U+0061 U+006e U+0029
+ss	ss/s	massa	Indonesian	1	U+0073 U+0073
 ^PSK$	p eː s k a	PSK	Indonesian	1	U+005e U+0050
 ^kh	kh	khitan	Indonesian	1	U+005e U+006b U+0068
 ^WC$	w e s e	WC	Indonesian	1	U+0043 U+0024
 ^és$	é/e s	és	Indonesian	1	U+005e U+00e9 U+0073 U+0024
 ^TV$	t i f i	TV	Indonesian	1	U+0056 U+0024
-^J	Dʒ/dʒ	Jum'at	Indonesian	1	U+005e U+004a
+^J	J/dʒ	Jum'at	Indonesian	1	U+005e U+004a
 ls	l s	sumpah palsu	Indonesian	1	U+006c U+0073
 'a	ʔ a	Jum'at	Indonesian	1	U+0027 U+0061
 ^sh	s	sholat	Indonesian	1	U+005e U+0073 U+0068
 ^és	é/e s	ésok	Indonesian	1	U+005e U+00e9 U+0073
-puji(an)	<???>	puji(an)	Indonesian	1	U+0070 U+0075 U+006a U+0069 U+0028 U+0061 U+006e U+0029
-menyesal(i)	<???>	menyesal(i)	Indonesian	1	U+006d U+0065 U+006e U+0079 U+0065 U+0073 U+0061 U+006c U+0028 U+0069 U+0029
 éh$	é/e h	téh	Indonesian	1	U+00e9 U+0068 U+0024
 ^WTS$	w é/e t éé/eː s 	WTS	Indonesian	1	U+0053 U+0024
-^K	<?>	Kamis	Indonesian	1	U+005e U+004b
+^K	K/k	Kamis	Indonesian	1	U+005e U+004b
 ^SIM$	s i m	SIM	Indonesian	1	U+004d U+0024
 ^oo	oː	oom	Indonesian	1	U+005e U+006f U+006f
-zina(h)	<???>	zina(h)	Indonesian	1	U+007a U+0069 U+006e U+0061 U+0028 U+0068 U+0029
 M	M/m				
 A	A/a				
-^K	K/k				
 sy	ʃ				
 ^sy	ʃ				
 ng	ŋ				
@@ -127,3 +117,6 @@ ny	ɲ
 ^ny	ɲ				
 nc	ɲ				
 nj	ɲ				
+ai$	aɪ				
+au$	aʊ				
+au{}	aʊ				

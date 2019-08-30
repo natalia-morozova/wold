@@ -3,7 +3,7 @@ Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				
 i$	i	hai, he̲ki	Otomi	830	U+0069 U+0024
 n	n	makwäni, mfeni	Otomi	640	U+006e
-t	t	ät’i, nt’ut’i nt'o̲t'e	Otomi	526	U+0074
+t	t̪	ät’i, nt’ut’i nt'o̲t'e	Otomi	526	U+0074
 i	i	hingi hei, hingi ho	Otomi	462	U+0069
 a	a	hai, maxo̲ts'e	Otomi	446	U+0061
 ^n	n	ngäts'i, nu'ä	Otomi	427	U+005e U+006e
@@ -13,9 +13,8 @@ e	e	mfeni, meni	Otomi	347	U+0065
 u	u	hogumui, fuxuhai	Otomi	310	U+0075
 ts	ts	maxo̲ts'e, ngäts'i	Otomi	300	U+0074 U+0073
 d	d	udi, ndu̲i	Otomi	285	U+0064
-ä	ä	ngäts'i, makwäni	Otomi	256	U+00e4
+ä	ɐ	ngäts'i, makwäni	Otomi	256	U+00e4
 u̲	u̲/u	ndu̲i, ju̲xt'i	Otomi	241	U+0075 U+0332
-'i$	'i/i	ngäts'i, ‘ba̲t'i	Otomi	241	U+0027 U+0069 U+0024
 x	x	maxo̲ts'e, txitxi	Otomi	238	U+0078
 h	h	'nihi, mihi	Otomi	238	U+0068
 e$	e	pe, pale	Otomi	238	U+0065 U+0024
@@ -27,302 +26,140 @@ a$	a	uba, ora	Otomi	212	U+0061 U+0024
 k	k	he̲ki, hoki	Otomi	181	U+006b
 m	m	animä, hogumui	Otomi	179	U+006d
 th	θ	nxanthe, nthähi	Otomi	177	U+0074 U+0068
-e̲	e̲/e	he̲ki, he̲gi	Otomi	164	U+0065 U+0332
+e̲	æ	he̲ki, he̲gi	Otomi	164	U+0065 U+0332
 b	b	‘bui, ‘ba̲t'i	Otomi	163	U+0062
 ^x	x	xi nts'o, xifni	Otomi	161	U+005e U+0078
-ä$	ä	bo̲jä, hñä	Otomi	158	U+00e4 U+0024
-o̲	o̲/o	bo̲jä, maxo̲ts'e	Otomi	136	U+006f U+0332
-^t	t	tiyo, tihi	Otomi	135	U+005e U+0074
+ä$	ɐ	bo̲jä, hñä	Otomi	158	U+00e4 U+0024
+o̲	ə	bo̲jä, maxo̲ts'e	Otomi	136	U+006f U+0332
+^t	t̪	tiyo, tihi	Otomi	135	U+005e U+0074
 ñ	ɲ	hñä, ts’ixt’u‘ñu	Otomi	130	U+00f1
 u$	u	ju, 'bitu	Otomi	125	U+0075 U+0024
 r	r	nixtri, barko	Otomi	124	U+0072
-’	ʔ	ts’ixt’u‘ñu, nts’i	Otomi	121	U+2019
-j	j	bo̲jä, bo̲jä denjä'i	Otomi	117	U+006a
+j	x	bo̲jä, bo̲jä denjä'i	Otomi	117	U+006a
 y	j	hyoya, tiyo	Otomi	112	U+0079
 ^ts	ts	ts’ixt’u‘ñu, tsibi	Otomi	99	U+005e U+0074 U+0073
 ^k	k	kät'i, k'ahni	Otomi	96	U+005e U+006b
 ^p	p	pe, pale	Otomi	95	U+005e U+0070
 f	f	mfeni, mafi	Otomi	91	U+0066
-a̲	a̲/a	‘ba̲t'i, 'ma̲i	Otomi	90	U+0061 U+0332
+a̲	ɔ	‘ba̲t'i, 'ma̲i	Otomi	90	U+0061 U+0332
 ^d	d	däzabi, do̲ni	Otomi	80	U+005e U+0064
 z	z	däzabi, mbozaa	Otomi	76	U+007a
-'u̲	'u̲/u	o̲t'u̲ts'u̲t'u̲bi, ts'u̲nt'u̲	Otomi	75	U+0027 U+0075 U+0332
-'m	'm/m	he'mi 'mehni, ntso̲'mi	Otomi	69	U+0027 U+006d
+'m	ˀm	he'mi 'mehni, ntso̲'mi	Otomi	69	U+0027 U+006d
 ^b	b	bo̲jä, bätsi	Otomi	66	U+005e U+0062
-^‘	<?>	‘bui, ‘ba̲t'i	Otomi	65	U+005e U+2018
+^‘b	ˀb	‘bui, ‘ba̲t'i	Otomi	65	U+005e U+2018
 p	p	mpa̲ni, mprebeni	Otomi	64	U+0070
 l	l	pale, pelikula	Otomi	62	U+006c
 ^g	g	gehna, ge'ä	Otomi	59	U+005e U+0067
-^'b	'b/b	'be̲di, 'bitu	Otomi	58	U+005e U+0027 U+0062
-^j	j	ju, juts’i	Otomi	53	U+005e U+006a
+^'b	ˀb	'be̲di, 'bitu	Otomi	58	U+005e U+0027 U+0062
+^j	x	ju, juts’i	Otomi	53	U+005e U+006a
 s	s	poste, pasto	Otomi	45	U+0073
-'o	'o/o	t'o'ni, ts'oni	Otomi	44	U+0027 U+006f
 ^z	z	zitsí, zaa	Otomi	42	U+005e U+007a
-^'ñ	'ɲ/ɲ	'ñani, 'ñeme	Otomi	42	U+005e U+0027 U+00f1
+^'ñ	ˀɲ	'ñani, 'ñeme	Otomi	42	U+005e U+0027 U+00f1
 u̲$	u̲/u	nu'bu̲, gehnu̲	Otomi	41	U+0075 U+0332 U+0024
 ^s	s	simiya, siriyo	Otomi	41	U+005e U+0073
-a̲$	a̲/a	'yu̲ga̲, ntsa̲	Otomi	40	U+0061 U+0332 U+0024
-'e$	'e/e	maxo̲ts'e, po̲ts'e	Otomi	39	U+0027 U+0065 U+0024
-'a	'a/a	k'ahni, k'axt'i	Otomi	38	U+0027 U+0061
-'b	'b/b	nu'bu̲, nu'bya	Otomi	38	U+0027 U+0062
-e̲$	e̲/e	'ye̲, ts'ijwe̲	Otomi	34	U+0065 U+0332 U+0024
-^th	th	thege, the̲ti	Otomi	33	U+005e U+0074 U+0068
+a̲$	ɔ	'yu̲ga̲, ntsa̲	Otomi	40	U+0061 U+0332 U+0024
+k'	kʼ				
+'b	ˀb	nu'bu̲, nu'bya	Otomi	38	U+0027 U+0062
+e̲$	æ	'ye̲, ts'ijwe̲	Otomi	34	U+0065 U+0332 U+0024
+^th	θ	thege, the̲ti	Otomi	33	U+005e U+0074 U+0068
 ^ñ	ɲ	ñot’i, ñu̲ni	Otomi	33	U+005e U+00f1
 ^f	f	fuxuhai, fu̲ts'i	Otomi	33	U+005e U+0066
-jw	jw	ts'ijwe̲, ma nts'äjwai	Otomi	32	U+006a U+0077
-'u	'u	t'uxfo ts'udi, ndä ts'ut'ubi	Otomi	32	U+0027 U+0075
-äh	äh	ndähi, nthähi	Otomi	31	U+00e4 U+0068
-^y	y	yuki, ya jä’i	Otomi	31	U+005e U+0079
-'y	'y	ndo'yo, bots'u̲ndo'yo 'ye̲	Otomi	31	U+0027 U+0079
-^'y	'y	'ya, 'yu̲ga̲	Otomi	27	U+005e U+0027 U+0079
-'i	'i	ts'ijwe̲, mat'i Jwä	Otomi	26	U+0027 U+0069
-aa$	aa	zaa, mbozaa	Otomi	25	U+0061 U+0061 U+0024
-'ñ	'ñ	tsatu'ñu, ntsatu'ñu	Otomi	24	U+0027 U+00f1
-'ä	'ä	ma nts'äjwai, t'äxi	Otomi	23	U+0027 U+00e4
+jw	xʷ	ts'ijwe̲, ma nts'äjwai	Otomi	32	U+006a U+0077
+äh	ɐ h	ndähi, nthähi	Otomi	31	U+00e4 U+0068
+^y	j	yuki, ya jä’i	Otomi	31	U+005e U+0079
+'y	ˀj	ndo'yo, bots'u̲ndo'yo 'ye̲	Otomi	31	U+0027 U+0079
+^'y	ˀj	'ya, 'yu̲ga̲	Otomi	27	U+005e U+0027 U+0079
+ts'	tsʼ	ts'ijwe̲, mat'i Jwä	Otomi	26	U+0027 U+0069
+ts’	tsʼ				
+t'	t̪ʼ				
+^t'	t̪ʼ				
+t’	t̪ʼ				
+’	ʔ				
+'	ʔ				
+‘ñ	ˀɲ				
+‘r	ˀr				
+‘m	ˀm				
+‘y	ˀj				
+aa$	aː	zaa, mbozaa	Otomi	25	U+0061 U+0061 U+0024
+'ñ	ˀɲ	tsatu'ñu, ntsatu'ñu	Otomi	24	U+0027 U+00f1
 w	w	geku̲wi, ‘yowa	Otomi	21	U+0077
-o̲$	o̲	ngo̲, nzo̲ho̲	Otomi	21	U+006f U+0332 U+0024
-'e̲	'e̲	nts'e̲di, nt'e̲ñha̲i	Otomi	21	U+0027 U+0065 U+0332
-'e	'e	nt'eñä, ge'ehu̲	Otomi	20	U+0027 U+0065
-'ä$	'ä	nu'ä, nä'ä	Otomi	20	U+0027 U+00e4 U+0024
-^jw	jw	jwe̲i, jwai	Otomi	20	U+005e U+006a U+0077
+o̲$	ə	ngo̲, nzo̲ho̲	Otomi	21	U+006f U+0332 U+0024
+'ä$	ʔ ɐ	nu'ä, nä'ä	Otomi	20	U+0027 U+00e4 U+0024
+^jw	xʷ	jwe̲i, jwai	Otomi	20	U+005e U+006a U+0077
 ^a	a	animä, alse	Otomi	19	U+005e U+0061
-'o$	'o	xi nts'o, 'be̲t'o	Otomi	19	U+0027 U+006f U+0024
-?$	<?>	tengu?, hangu?	Otomi	18	U+003f U+0024
+?$	NULL	tengu?, hangu?	Otomi	18	U+003f U+0024
 ^ns	ns	nsogi, nsä'mi	Otomi	18	U+005e U+006e U+0073
-kw	kw	makwäni, 'yoskwela	Otomi	18	U+006b U+0077
-^'m	'm	'me̲hä, 'ma̲i	Otomi	17	U+005e U+0027 U+006d
+kw	kʷ	makwäni, 'yoskwela	Otomi	18	U+006b U+0077
+^'m	ˀm	'me̲hä, 'ma̲i	Otomi	17	U+005e U+0027 U+006d
 ^i	i	ir nge, ilo	Otomi	15	U+005e U+0069
 ns	ns	nguu nsaha, ganso	Otomi	15	U+006e U+0073
 ^u	u	udi, uba	Otomi	14	U+005e U+0075
-^o̲	o̲	o̲de, o̲t'e	Otomi	14	U+005e U+006f U+0332
+^o̲	ə	o̲de, o̲t'e	Otomi	14	U+005e U+006f U+0332
 ^o	o	ora, otho	Otomi	14	U+005e U+006f
-'w	'w	zu'we, zu'we 'wada	Otomi	13	U+0027 U+0077
-uu$	uu	nguu, pa jar nguu	Otomi	13	U+0075 U+0075 U+0024
-^kw	kw	kwadi, kwe'mi	Otomi	13	U+005e U+006b U+0077
-uu	uu	nguu nsaha, nguu nt'o̲t'e	Otomi	12	U+0075 U+0075
+'w	ˀw	zu'we, zu'we 'wada	Otomi	13	U+0027 U+0077
+uu$	uː	nguu, pa jar nguu	Otomi	13	U+0075 U+0075 U+0024
+^kw	kʷ	kwadi, kwe'mi	Otomi	13	U+005e U+006b U+0077
+uu	uː	nguu nsaha, nguu nt'o̲t'e	Otomi	12	U+0075 U+0075
 ^l	l	ladriyo, le̲le̲	Otomi	12	U+005e U+006c
-'u̲$	'u̲	ts'u̲nt'u̲, xi nts'u̲	Otomi	11	U+0027 U+0075 U+0332 U+0024
-'n	'n	t'o'ni, de̲'ni	Otomi	11	U+0027 U+006e
-^'r	'r	'ragi, 'ruthe	Otomi	11	U+005e U+0027 U+0072
-^'n	'n	'nihi, 'no̲t'e	Otomi	11	U+005e U+0027 U+006e
-^'w	'w	'we, 'wäts'i	Otomi	11	U+005e U+0027 U+0077
+'n	ˀn	t'o'ni, de̲'ni	Otomi	11	U+0027 U+006e
+^'r	ˀr	'ragi, 'ruthe	Otomi	11	U+005e U+0027 U+0072
+^'n	ˀn	'nihi, 'no̲t'e	Otomi	11	U+005e U+0027 U+006e
+^'w	ˀw	'we, 'wäts'i	Otomi	11	U+005e U+0027 U+0077
 ^e	e	et'i, enemigo	Otomi	10	U+005e U+0065
-^e̲	e̲	e̲i, e̲nt'i	Otomi	9	U+005e U+0065 U+0332
-'o̲	'o̲	hyoku̲ts'o̲e, nguu nt'o̲t'e	Otomi	9	U+0027 U+006f U+0332
+^e̲	æ	e̲i, e̲nt'i	Otomi	9	U+005e U+0065 U+0332
 ^w	w	wäni, wänts'i	Otomi	9	U+005e U+0077
-^u̲	u̲	u̲ni, u̲wa	Otomi	9	U+005e U+0075 U+0332
+^u̲	u̲/u	u̲ni, u̲wa	Otomi	9	U+005e U+0075 U+0332
 n$	n	tiburon, abyon	Otomi	9	U+006e U+0024
--	<?>	-'bya, -he	Otomi	8	U+002d
-í$	í	zitsí, ho̲metsí	Otomi	8	U+00ed U+0024
-‘	<?>	ts’ixt’u‘ñu, ma ‘na	Otomi	7	U+2018
-rr	rr	sorro, sorra	Otomi	7	U+0072 U+0072
-'a̲	'a̲	t'a̲ts'i, tx'a̲ki	Otomi	7	U+0027 U+0061 U+0332
-^ä	ä	ät’i, ägi	Otomi	6	U+005e U+00e4
+-	+	-'bya, -he	Otomi	8	U+002d
+í$	í/i	zitsí, ho̲metsí	Otomi	8	U+00ed U+0024
+rr	r r	sorro, sorra	Otomi	7	U+0072 U+0072
+^ä	ɐ	ät’i, ägi	Otomi	6	U+005e U+00e4
 r$	r	jawar, kolor	Otomi	6	U+0072 U+0024
 s$	s	nwes, arros	Otomi	6	U+0073 U+0024
-ndä (2)	<???>	ndä (2)	Otomi	6	U+006e U+0064 U+00e4 U+0020 U+0028 U+0032 U+0029
 ^r	r	ro, renta	Otomi	5	U+005e U+0072
-mh	mh	mpumha̲i, bämhñä	Otomi	5	U+006d U+0068
-Jw	<?>	ndäne Jwä, nguu Jwä	Otomi	5	U+004a U+0077
-ñh	ñh	nt'e̲ñha̲i, ñäñho	Otomi	5	U+00f1 U+0068
-aa	aa	maa zaa, maazaa	Otomi	4	U+0061 U+0061
-pa (1)	<???>	pa (1)	Otomi	4	U+0070 U+0061 U+0020 U+0028 U+0031 U+0029
-tu (2)	<???>	tu (2)	Otomi	4	U+0074 U+0075 U+0020 U+0028 U+0032 U+0029
+mh	mʰ	mpumha̲i, bämhñä	Otomi	5	U+006d U+0068
+Jw	J/x w	ndäne Jwä, nguu Jwä	Otomi	5	U+004a U+0077
+ñh	ɲʰ	nt'e̲ñha̲i, ñäñho	Otomi	5	U+00f1 U+0068
+aa	aː	maa zaa, maazaa	Otomi	4	U+0061 U+0061
 l$	l	mil, tribunäl	Otomi	4	U+006c U+0024
-í	í	ya bí wadi, ju̲ní hogu̲t'e̲i	Otomi	4	U+00ed
-^nhw	nhw	nhwat'u̲nts'i, nhwat'u̲mohi	Otomi	4	U+005e U+006e U+0068 U+0077
-^’	<?>	’be̲go, ’mai goxthi	Otomi	4	U+005e U+2019
-ñäni (2)	<???>	ñäni (2)	Otomi	3	U+00f1 U+00e4 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-^‘w	<?>	‘wege, ‘we̲di	Otomi	3	U+005e U+2018 U+0077
-hmihi (2)	<???>	hmihi (2)	Otomi	3	U+0068 U+006d U+0069 U+0068 U+0069 U+0020 U+0028 U+0032 U+0029
-hä (1)	<???>	hä (1)	Otomi	3	U+0068 U+00e4 U+0020 U+0028 U+0031 U+0029
-nw	nw	nsanwa, unwento	Otomi	3	U+006e U+0077
-^nw	nw	nwes, nwent’i	Otomi	3	U+005e U+006e U+0077
-nh	nh	‘yomu̲nhño, hmämu̲nhño	Otomi	3	U+006e U+0068
-'x	'x	xi'xi, wa'xo	Otomi	3	U+0027 U+0078
-^a̲	a̲	a̲di, a̲ni	Otomi	3	U+005e U+0061 U+0332
-xifi (1)	<???>	xifi (1)	Otomi	2	U+0078 U+0069 U+0066 U+0069 U+0020 U+0028 U+0031 U+0029
-tsant'i (1)	<???>	tsant'i (1)	Otomi	2	U+0074 U+0073 U+0061 U+006e U+0074 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-^nh	nh	nhñu, nhñe	Otomi	2	U+005e U+006e U+0068
-wa (1)	<???>	wa (1)	Otomi	2	U+0077 U+0061 U+0020 U+0028 U+0031 U+0029
-poni (1)	<???>	poni (1)	Otomi	2	U+0070 U+006f U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-xita (1)	<???>	xita (1)	Otomi	2	U+0078 U+0069 U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
-xingu (1)	<???>	xingu (1)	Otomi	2	U+0078 U+0069 U+006e U+0067 U+0075 U+0020 U+0028 U+0031 U+0029
-poni (2)	<???>	poni (2)	Otomi	2	U+0070 U+006f U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-ju̲ni (2)	<???>	ju̲ni (2)	Otomi	2	U+006a U+0075 U+0332 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-hñe (1)	<???>	hñe (1)	Otomi	2	U+0068 U+00f1 U+0065 U+0020 U+0028 U+0031 U+0029
-nsoki (bojä)	<???>	nsoki (bojä)	Otomi	2	U+006e U+0073 U+006f U+006b U+0069 U+0020 U+0028 U+0062 U+006f U+006a U+00e4 U+0029
-á	á	jár hyo, xokwi yá da̲	Otomi	2	U+00e1
-xa̲di (3)	<???>	xa̲di (3)	Otomi	2	U+0078 U+0061 U+0332 U+0064 U+0069 U+0020 U+0028 U+0033 U+0029
-hmi (2)	<???>	hmi (2)	Otomi	2	U+0068 U+006d U+0069 U+0020 U+0028 U+0032 U+0029
-mbots'i (1)	<???>	mbots'i (1)	Otomi	2	U+006d U+0062 U+006f U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-tsa (2)	<???>	tsa (2)	Otomi	2	U+0074 U+0073 U+0061 U+0020 U+0028 U+0032 U+0029
-ls	ls	alse	Otomi	2	U+006c U+0073
-hä (2)	<???>	hä (2)	Otomi	2	U+0068 U+00e4 U+0020 U+0028 U+0032 U+0029
-tuhni (2)	<???>	tuhni (2)	Otomi	2	U+0074 U+0075 U+0068 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-txu (1)	<???>	txu (1)	Otomi	2	U+0074 U+0078 U+0075 U+0020 U+0028 U+0031 U+0029
-rs	rs	garsa, ejersito	Otomi	2	U+0072 U+0073
-gh	gh	nughu̲, nughe	Otomi	2	U+0067 U+0068
-'yo (2)	<???>	'yo (2)	Otomi	2	U+0027 U+0079 U+006f U+0020 U+0028 U+0032 U+0029
-'a$	'a	‘rok'a, xi nk'a	Otomi	2	U+0027 U+0061 U+0024
-bojä (1)	<???>	bojä (1)	Otomi	2	U+0062 U+006f U+006a U+00e4 U+0020 U+0028 U+0031 U+0029
-mu̲i (2)	<???>	mu̲i (2)	Otomi	2	U+006d U+0075 U+0332 U+0069 U+0020 U+0028 U+0032 U+0029
-ndä (1)	<???>	ndä (1)	Otomi	2	U+006e U+0064 U+00e4 U+0020 U+0028 U+0031 U+0029
-'kw	'kw	bo̲'kwä, 'bo̲'kwä	Otomi	2	U+0027 U+006b U+0077
-'yo (1)	<???>	'yo (1)	Otomi	2	U+0027 U+0079 U+006f U+0020 U+0028 U+0031 U+0029
-ju̲t'i (1)	<???>	ju̲t'i (1)	Otomi	2	U+006a U+0075 U+0332 U+0074 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-ne (2)	<???>	ne (2)	Otomi	2	U+006e U+0065 U+0020 U+0028 U+0032 U+0029
-nt'o̲t'e (1)	<???>	nt'o̲t'e (1)	Otomi	2	U+006e U+0074 U+0027 U+006f U+0332 U+0074 U+0027 U+0065 U+0020 U+0028 U+0031 U+0029
-hets'i (2)	<???>	hets'i (2)	Otomi	2	U+0068 U+0065 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-'äh	'äh	zu'we t'ähi, nts'ähmi	Otomi	2	U+0027 U+00e4 U+0068
-me̲ti (1)	<???>	me̲ti (1)	Otomi	2	U+006d U+0065 U+0332 U+0074 U+0069 U+0020 U+0028 U+0031 U+0029
-thuhu (1)	<???>	thuhu (1)	Otomi	2	U+0074 U+0068 U+0075 U+0068 U+0075 U+0020 U+0028 U+0031 U+0029
-njät’i (1)	<???>	njät’i (1)	Otomi	2	U+006e U+006a U+00e4 U+0074 U+2019 U+0069 U+0020 U+0028 U+0031 U+0029
-sw	sw	ts’oswerte, hogu̲swerte	Otomi	2	U+0073 U+0077
-^hw	hw	hwä, hwähi	Otomi	2	U+005e U+0068 U+0077
-äs	äs	mästro, säsi	Otomi	2	U+00e4 U+0073
-thänts'i (1)	<???>	thänts'i (1)	Otomi	1	U+0074 U+0068 U+00e4 U+006e U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-^äh	äh	ähä	Otomi	1	U+005e U+00e4 U+0068
-nxu̲ni (2)	<???>	nxu̲ni (2)	Otomi	1	U+006e U+0078 U+0075 U+0332 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-xa̲di (2)	<???>	xa̲di (2)	Otomi	1	U+0078 U+0061 U+0332 U+0064 U+0069 U+0020 U+0028 U+0032 U+0029
-tsa (1)	<???>	tsa (1)	Otomi	1	U+0074 U+0073 U+0061 U+0020 U+0028 U+0031 U+0029
-'ñe̲i (2)	<???>	'ñe̲i (2)	Otomi	1	U+0027 U+00f1 U+0065 U+0332 U+0069 U+0020 U+0028 U+0032 U+0029
-ta̲i (1)	<???>	ta̲i (1)	Otomi	1	U+0074 U+0061 U+0332 U+0069 U+0020 U+0028 U+0031 U+0029
-tut'i (2)	<???>	tut'i (2)	Otomi	1	U+0074 U+0075 U+0074 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-xita (2)	<???>	xita (2)	Otomi	1	U+0078 U+0069 U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
-njäts'i (1)	<???>	njäts'i (1)	Otomi	1	U+006e U+006a U+00e4 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-(mbo̲)kwe̲	<???>	(mbo̲)kwe̲	Otomi	1	U+0028 U+006d U+0062 U+006f U+0332 U+0029 U+006b U+0077 U+0065 U+0332
-nu (3)	<???>	nu (3)	Otomi	1	U+006e U+0075 U+0020 U+0028 U+0033 U+0029
-poho (1)	<???>	poho (1)	Otomi	1	U+0070 U+006f U+0068 U+006f U+0020 U+0028 U+0031 U+0029
-^sw	sw	swida	Otomi	1	U+005e U+0073 U+0077
-me̲ti (2)	<???>	me̲ti (2)	Otomi	1	U+006d U+0065 U+0332 U+0074 U+0069 U+0020 U+0028 U+0032 U+0029
-tso̲ho̲ (1)	<???>	tso̲ho̲ (1)	Otomi	1	U+0074 U+0073 U+006f U+0332 U+0068 U+006f U+0332 U+0020 U+0028 U+0031 U+0029
-äs$	äs	mäs	Otomi	1	U+00e4 U+0073 U+0024
-nsani (1)	<???>	nsani (1)	Otomi	1	U+006e U+0073 U+0061 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-lobo (1)	<???>	lobo (1)	Otomi	1	U+006c U+006f U+0062 U+006f U+0020 U+0028 U+0031 U+0029
-‘mu̲i (1)	<???>	‘mu̲i (1)	Otomi	1	U+2018 U+006d U+0075 U+0332 U+0069 U+0020 U+0028 U+0031 U+0029
-'ñe̲i (1)	<???>	'ñe̲i (1)	Otomi	1	U+0027 U+00f1 U+0065 U+0332 U+0069 U+0020 U+0028 U+0031 U+0029
-yu̲ni (2)	<???>	yu̲ni (2)	Otomi	1	U+0079 U+0075 U+0332 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-xa (1)	<???>	xa (1)	Otomi	1	U+0078 U+0061 U+0020 U+0028 U+0031 U+0029
-á$	á	padá	Otomi	1	U+00e1 U+0024
-thot'i (1)	<???>	thot'i (1)	Otomi	1	U+0074 U+0068 U+006f U+0074 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-uni 'nar (n)xint'i	<???>	uni 'nar (n)xint'i	Otomi	1	U+0075 U+006e U+0069 U+0020 U+0027 U+006e U+0061 U+0072 U+0020 U+0028 U+006e U+0029 U+0078 U+0069 U+006e U+0074 U+0027 U+0069
-o (2)	<???>	o (2)	Otomi	1	U+006f U+0020 U+0028 U+0032 U+0029
-tuki (3)	<???>	tuki (3)	Otomi	1	U+0074 U+0075 U+006b U+0069 U+0020 U+0028 U+0033 U+0029
-'rangu (1)	<???>	'rangu (1)	Otomi	1	U+0027 U+0072 U+0061 U+006e U+0067 U+0075 U+0020 U+0028 U+0031 U+0029
-hanja('ä)?	<???>	hanja('ä)?	Otomi	1	U+0068 U+0061 U+006e U+006a U+0061 U+0028 U+0027 U+00e4 U+0029 U+003f
-xi (2)	<???>	xi (2)	Otomi	1	U+0078 U+0069 U+0020 U+0028 U+0032 U+0029
-pa̲ (2)	<???>	pa̲ (2)	Otomi	1	U+0070 U+0061 U+0332 U+0020 U+0028 U+0032 U+0029
-ñä (1)	<???>	ñä (1)	Otomi	1	U+00f1 U+00e4 U+0020 U+0028 U+0031 U+0029
-tu (1)	<???>	tu (1)	Otomi	1	U+0074 U+0075 U+0020 U+0028 U+0031 U+0029
-^rw	rw	rweda	Otomi	1	U+005e U+0072 U+0077
-(n)zäm'bu̲	<???>	(n)zäm'bu̲	Otomi	1	U+0028 U+006e U+0029 U+007a U+00e4 U+006d U+0027 U+0062 U+0075 U+0332
-ts'u̲ (1)	<???>	ts'u̲ (1)	Otomi	1	U+0074 U+0073 U+0027 U+0075 U+0332 U+0020 U+0028 U+0031 U+0029
-ju̲ni (1)	<???>	ju̲ni (1)	Otomi	1	U+006a U+0075 U+0332 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-ee$	ee	thee	Otomi	1	U+0065 U+0065 U+0024
-yogo('ä)?	<???>	yogo('ä)?	Otomi	1	U+0079 U+006f U+0067 U+006f U+0028 U+0027 U+00e4 U+0029 U+003f
-xi (1)	<???>	xi (1)	Otomi	1	U+0078 U+0069 U+0020 U+0028 U+0031 U+0029
-txu (2)	<???>	txu (2)	Otomi	1	U+0074 U+0078 U+0075 U+0020 U+0028 U+0032 U+0029
-t'e̲gi (1)	<???>	t'e̲gi (1)	Otomi	1	U+0074 U+0027 U+0065 U+0332 U+0067 U+0069 U+0020 U+0028 U+0031 U+0029
-theni (2)	<???>	theni (2)	Otomi	1	U+0074 U+0068 U+0065 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-tsant’i (2)	<???>	tsant’i (2)	Otomi	1	U+0074 U+0073 U+0061 U+006e U+0074 U+2019 U+0069 U+0020 U+0028 U+0032 U+0029
-gw	gw	nugwi	Otomi	1	U+0067 U+0077
-ndäthe nts'i (doni)	<???>	ndäthe nts'i (doni)	Otomi	1	U+006e U+0064 U+00e4 U+0074 U+0068 U+0065 U+0020 U+006e U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0064 U+006f U+006e U+0069 U+0029
-hu (1)	<???>	hu (1)	Otomi	1	U+0068 U+0075 U+0020 U+0028 U+0031 U+0029
-honja('ä)?	<???>	honja('ä)?	Otomi	1	U+0068 U+006f U+006e U+006a U+0061 U+0028 U+0027 U+00e4 U+0029 U+003f
-'u$	'u	ts'ints'u	Otomi	1	U+0027 U+0075 U+0024
-de (1)	<???>	de (1)	Otomi	1	U+0064 U+0065 U+0020 U+0028 U+0031 U+0029
-tsant’i (3)	<???>	tsant’i (3)	Otomi	1	U+0074 U+0073 U+0061 U+006e U+0074 U+2019 U+0069 U+0020 U+0028 U+0033 U+0029
-o̲ni (2)	<???>	o̲ni (2)	Otomi	1	U+006f U+0332 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-tsa̲ (4)	<???>	tsa̲ (4)	Otomi	1	U+0074 U+0073 U+0061 U+0332 U+0020 U+0028 U+0034 U+0029
-xo̲ni (2)	<???>	xo̲ni (2)	Otomi	1	U+0078 U+006f U+0332 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-nhw	nhw	ñänhwaro	Otomi	1	U+006e U+0068 U+0077
-ne (1)	<???>	ne (1)	Otomi	1	U+006e U+0065 U+0020 U+0028 U+0031 U+0029
-nthuts'i (1)	<???>	nthuts'i (1)	Otomi	1	U+006e U+0074 U+0068 U+0075 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-pa̲ (1)	<???>	pa̲ (1)	Otomi	1	U+0070 U+0061 U+0332 U+0020 U+0028 U+0031 U+0029
-tsa̲ (1)	<???>	tsa̲ (1)	Otomi	1	U+0074 U+0073 U+0061 U+0332 U+0020 U+0028 U+0031 U+0029
-pothe (2)	<???>	pothe (2)	Otomi	1	U+0070 U+006f U+0074 U+0068 U+0065 U+0020 U+0028 U+0032 U+0029
-tsa̲ (3)	<???>	tsa̲ (3)	Otomi	1	U+0074 U+0073 U+0061 U+0332 U+0020 U+0028 U+0033 U+0029
-t'axi (2)	<???>	t'axi (2)	Otomi	1	U+0074 U+0027 U+0061 U+0078 U+0069 U+0020 U+0028 U+0032 U+0029
-poni (3)	<???>	poni (3)	Otomi	1	U+0070 U+006f U+006e U+0069 U+0020 U+0028 U+0033 U+0029
-ho̲e (2)	<???>	ho̲e (2)	Otomi	1	U+0068 U+006f U+0332 U+0065 U+0020 U+0028 U+0032 U+0029
-ju̲t'i (2)	<???>	ju̲t'i (2)	Otomi	1	U+006a U+0075 U+0332 U+0074 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-theni (1)	<???>	theni (1)	Otomi	1	U+0074 U+0068 U+0065 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-ehe (2)	<???>	ehe (2)	Otomi	1	U+0065 U+0068 U+0065 U+0020 U+0028 U+0032 U+0029
-‘w	<?>	t’afi ‘wada	Otomi	1	U+2018 U+0077
-lobo (2)	<???>	lobo (2)	Otomi	1	U+006c U+006f U+0062 U+006f U+0020 U+0028 U+0032 U+0029
-^a̲$	a̲	a̲	Otomi	1	U+005e U+0061 U+0332 U+0024
-thänts'i (2)	<???>	thänts'i (2)	Otomi	1	U+0074 U+0068 U+00e4 U+006e U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-poho (2)	<???>	poho (2)	Otomi	1	U+0070 U+006f U+0068 U+006f U+0020 U+0028 U+0032 U+0029
-tut'i (1)	<???>	tut'i (1)	Otomi	1	U+0074 U+0075 U+0074 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-zim(u̲)xudi	<???>	zim(u̲)xudi	Otomi	1	U+007a U+0069 U+006d U+0028 U+0075 U+0332 U+0029 U+0078 U+0075 U+0064 U+0069
-ta̲i (2)	<???>	ta̲i (2)	Otomi	1	U+0074 U+0061 U+0332 U+0069 U+0020 U+0028 U+0032 U+0029
-xa̲di (1)	<???>	xa̲di (1)	Otomi	1	U+0078 U+0061 U+0332 U+0064 U+0069 U+0020 U+0028 U+0031 U+0029
-'rangu (2)	<???>	'rangu (2)	Otomi	1	U+0027 U+0072 U+0061 U+006e U+0067 U+0075 U+0020 U+0028 U+0032 U+0029
-ts'ib(u̲)do	<???>	ts'ib(u̲)do	Otomi	1	U+0074 U+0073 U+0027 U+0069 U+0062 U+0028 U+0075 U+0332 U+0029 U+0064 U+006f
-pothe (1)	<???>	pothe (1)	Otomi	1	U+0070 U+006f U+0074 U+0068 U+0065 U+0020 U+0028 U+0031 U+0029
-pet'e (2)	<???>	pet'e (2)	Otomi	1	U+0070 U+0065 U+0074 U+0027 U+0065 U+0020 U+0028 U+0032 U+0029
-ne (4)	<???>	ne (4)	Otomi	1	U+006e U+0065 U+0020 U+0028 U+0034 U+0029
-thuhu (2)	<???>	thuhu (2)	Otomi	1	U+0074 U+0068 U+0075 U+0068 U+0075 U+0020 U+0028 U+0032 U+0029
-t'e̲gi (2)	<???>	t'e̲gi (2)	Otomi	1	U+0074 U+0027 U+0065 U+0332 U+0067 U+0069 U+0020 U+0028 U+0032 U+0029
-nu (1)	<???>	nu (1)	Otomi	1	U+006e U+0075 U+0020 U+0028 U+0031 U+0029
-nu (2)	<???>	nu (2)	Otomi	1	U+006e U+0075 U+0020 U+0028 U+0032 U+0029
-hu (2)	<???>	hu (2)	Otomi	1	U+0068 U+0075 U+0020 U+0028 U+0032 U+0029
-‘mu̲i (2)	<???>	‘mu̲i (2)	Otomi	1	U+2018 U+006d U+0075 U+0332 U+0069 U+0020 U+0028 U+0032 U+0029
-tuts'i (1)	<???>	tuts'i (1)	Otomi	1	U+0074 U+0075 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-bojä (2)	<???>	bojä (2)	Otomi	1	U+0062 U+006f U+006a U+00e4 U+0020 U+0028 U+0032 U+0029
-ts'u̲ (2)	<???>	ts'u̲ (2)	Otomi	1	U+0074 U+0073 U+0027 U+0075 U+0332 U+0020 U+0028 U+0032 U+0029
-ho̲e (1)	<???>	ho̲e (1)	Otomi	1	U+0068 U+006f U+0332 U+0065 U+0020 U+0028 U+0031 U+0029
-(n)xint'i	<???>	(n)xint'i	Otomi	1	U+0028 U+006e U+0029 U+0078 U+0069 U+006e U+0074 U+0027 U+0069
-ar mi 'rang(u̲)di	<???>	ar mi 'rang(u̲)di	Otomi	1	U+0061 U+0072 U+0020 U+006d U+0069 U+0020 U+0027 U+0072 U+0061 U+006e U+0067 U+0028 U+0075 U+0332 U+0029 U+0064 U+0069
-xingu (2)	<???>	xingu (2)	Otomi	1	U+0078 U+0069 U+006e U+0067 U+0075 U+0020 U+0028 U+0032 U+0029
-u̲ts'i (1)	<???>	u̲ts'i (1)	Otomi	1	U+0075 U+0332 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-thot'i (2)	<???>	thot'i (2)	Otomi	1	U+0074 U+0068 U+006f U+0074 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-hmi (1)	<???>	hmi (1)	Otomi	1	U+0068 U+006d U+0069 U+0020 U+0028 U+0031 U+0029
-o̲ni (1)	<???>	o̲ni (1)	Otomi	1	U+006f U+0332 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-'_	'_	ni' nandi	Otomi	1	U+0027 U+005f
-tsu'yo (2)	<???>	tsu'yo (2)	Otomi	1	U+0074 U+0073 U+0075 U+0027 U+0079 U+006f U+0020 U+0028 U+0032 U+0029
-u̲ts'i (2)	<???>	u̲ts'i (2)	Otomi	1	U+0075 U+0332 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-'r	'r	ma 'ra	Otomi	1	U+0027 U+0072
-nthuts'i (2)	<???>	nthuts'i (2)	Otomi	1	U+006e U+0074 U+0068 U+0075 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-hñe (2)	<???>	hñe (2)	Otomi	1	U+0068 U+00f1 U+0065 U+0020 U+0028 U+0032 U+0029
-ehe (1)	<???>	ehe (1)	Otomi	1	U+0065 U+0068 U+0065 U+0020 U+0028 U+0031 U+0029
-y$	y	ley	Otomi	1	U+0079 U+0024
-^'a̲	'a̲	'a̲gi	Otomi	1	U+005e U+0027 U+0061 U+0332
-nxu̲ni (1)	<???>	nxu̲ni (1)	Otomi	1	U+006e U+0078 U+0075 U+0332 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-tsu'yo (1)	<???>	tsu'yo (1)	Otomi	1	U+0074 U+0073 U+0075 U+0027 U+0079 U+006f U+0020 U+0028 U+0031 U+0029
-njät’i (2)	<???>	njät’i (2)	Otomi	1	U+006e U+006a U+00e4 U+0074 U+2019 U+0069 U+0020 U+0028 U+0032 U+0029
-mu̲i (1)	<???>	mu̲i (1)	Otomi	1	U+006d U+0075 U+0332 U+0069 U+0020 U+0028 U+0031 U+0029
-(n)kots'i	<???>	(n)kots'i	Otomi	1	U+0028 U+006e U+0029 U+006b U+006f U+0074 U+0073 U+0027 U+0069
-ju̲ (1)	<???>	ju̲ (1)	Otomi	1	U+006a U+0075 U+0332 U+0020 U+0028 U+0031 U+0029
-xa (2)	<???>	xa (2)	Otomi	1	U+0078 U+0061 U+0020 U+0028 U+0032 U+0029
-hmihi (1)	<???>	hmihi (1)	Otomi	1	U+0068 U+006d U+0069 U+0068 U+0069 U+0020 U+0028 U+0031 U+0029
-tuki (1)	<???>	tuki (1)	Otomi	1	U+0074 U+0075 U+006b U+0069 U+0020 U+0028 U+0031 U+0029
-pet'e (1)	<???>	pet'e (1)	Otomi	1	U+0070 U+0065 U+0074 U+0027 U+0065 U+0020 U+0028 U+0031 U+0029
-o (1)	<???>	o (1)	Otomi	1	U+006f U+0020 U+0028 U+0031 U+0029
-nät'i (1)	<???>	nät'i (1)	Otomi	1	U+006e U+00e4 U+0074 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-ú	ú	nthúts'i	Otomi	1	U+00fa
-njäts'i (2)	<???>	njäts'i (2)	Otomi	1	U+006e U+006a U+00e4 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-^ch	ch	chä'chä	Otomi	1	U+005e U+0063 U+0068
-yu̲ni (1)	<???>	yu̲ni (1)	Otomi	1	U+0079 U+0075 U+0332 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-wa (2)	<???>	wa (2)	Otomi	1	U+0077 U+0061 U+0020 U+0028 U+0032 U+0029
-tso̲ho̲ (2)	<???>	tso̲ho̲ (2)	Otomi	1	U+0074 U+0073 U+006f U+0332 U+0068 U+006f U+0332 U+0020 U+0028 U+0032 U+0029
-mbots'i (2)	<???>	mbots'i (2)	Otomi	1	U+006d U+0062 U+006f U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-tuki (2)	<???>	tuki (2)	Otomi	1	U+0074 U+0075 U+006b U+0069 U+0020 U+0028 U+0032 U+0029
-xo̲ni (1)	<???>	xo̲ni (1)	Otomi	1	U+0078 U+006f U+0332 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-tsa̲ (2)	<???>	tsa̲ (2)	Otomi	1	U+0074 U+0073 U+0061 U+0332 U+0020 U+0028 U+0032 U+0029
-xifi (2)	<???>	xifi (2)	Otomi	1	U+0078 U+0069 U+0066 U+0069 U+0020 U+0028 U+0032 U+0029
-ñä (2)	<???>	ñä (2)	Otomi	1	U+00f1 U+00e4 U+0020 U+0028 U+0032 U+0029
-^á	á	ár thuhu	Otomi	1	U+005e U+00e1
-tuts'i (2)	<???>	tuts'i (2)	Otomi	1	U+0074 U+0075 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0032 U+0029
-nsani (2)	<???>	nsani (2)	Otomi	1	U+006e U+0073 U+0061 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
+í	í/i	ya bí wadi, ju̲ní hogu̲t'e̲i	Otomi	4	U+00ed
+^nhw	nʰʷ	nhwat'u̲nts'i, nhwat'u̲mohi	Otomi	4	U+005e U+006e U+0068 U+0077
+^‘w	ˀw	‘wege, ‘we̲di	Otomi	3	U+005e U+2018 U+0077
+nw	nʷ	nsanwa, unwento	Otomi	3	U+006e U+0077
+^nw	nʷ	nwes, nwent’i	Otomi	3	U+005e U+006e U+0077
+nh	nʰ	‘yomu̲nhño, hmämu̲nhño	Otomi	3	U+006e U+0068
+'x	ˀx	xi'xi, wa'xo	Otomi	3	U+0027 U+0078
+^a̲	ɔ	a̲di, a̲ni	Otomi	3	U+005e U+0061 U+0332
+^nh	nʰ	nhñu, nhñe	Otomi	2	U+005e U+006e U+0068
+á	á/a	jár hyo, xokwi yá da̲	Otomi	2	U+00e1
+ls	l s	alse	Otomi	2	U+006c U+0073
+rs	r s	garsa, ejersito	Otomi	2	U+0072 U+0073
+gh	gʰ	nughu̲, nughe	Otomi	2	U+0067 U+0068
+'kw	ˀkʷ	bo̲'kwä, 'bo̲'kwä	Otomi	2	U+0027 U+006b U+0077
+sw	s w	ts’oswerte, hogu̲swerte	Otomi	2	U+0073 U+0077
+^hw	hʷ	hwä, hwähi	Otomi	2	U+005e U+0068 U+0077
+äs	ɐ s	mästro, säsi	Otomi	2	U+00e4 U+0073
+^äh	ɐ h	ähä	Otomi	1	U+005e U+00e4 U+0068
+^sw	s w	swida	Otomi	1	U+005e U+0073 U+0077
+äs$	ɐ s	mäs	Otomi	1	U+00e4 U+0073 U+0024
+á$	á/a	padá	Otomi	1	U+00e1 U+0024
+^rw	r w	rweda	Otomi	1	U+005e U+0072 U+0077
+ee$	eː	thee	Otomi	1	U+0065 U+0065 U+0024
+gw	gʷ	nugwi	Otomi	1	U+0067 U+0077
+'u$	'u/u	ts'ints'u	Otomi	1	U+0027 U+0075 U+0024
+nhw	nʰʷ	ñänhwaro	Otomi	1	U+006e U+0068 U+0077
+‘w	ˀw	t’afi ‘wada	Otomi	1	U+2018 U+0077
+^a̲$	ɔ	a̲	Otomi	1	U+005e U+0061 U+0332 U+0024
+'_	NULL	ni' nandi	Otomi	1	U+0027 U+005f
+'r	ˀr	ma 'ra	Otomi	1	U+0027 U+0072
+y$	j	ley	Otomi	1	U+0079 U+0024
+ú	ú/u	nthúts'i	Otomi	1	U+00fa
+^ch	c	chä'chä	Otomi	1	U+005e U+0063 U+0068
+^á	á/a	ár thuhu	Otomi	1	U+005e U+00e1
 ^u$	u	u	Otomi	1	U+005e U+0075 U+0024
-tuhni (1)	<???>	tuhni (1)	Otomi	1	U+0074 U+0075 U+0068 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-tsu̲di (2)	<???>	tsu̲di (2)	Otomi	1	U+0074 U+0073 U+0075 U+0332 U+0064 U+0069 U+0020 U+0028 U+0032 U+0029
-ne (3)	<???>	ne (3)	Otomi	1	U+006e U+0065 U+0020 U+0028 U+0033 U+0029
-'ch	'ch	chä'chä	Otomi	1	U+0027 U+0063 U+0068
-dehe 'yomu(n)hño ngizá	<???>	dehe 'yomu(n)hño ngizá	Otomi	1	U+0064 U+0065 U+0068 U+0065 U+0020 U+0027 U+0079 U+006f U+006d U+0075 U+0028 U+006e U+0029 U+0068 U+00f1 U+006f U+0020 U+006e U+0067 U+0069 U+007a U+00e1
-hets'i (1)	<???>	hets'i (1)	Otomi	1	U+0068 U+0065 U+0074 U+0073 U+0027 U+0069 U+0020 U+0028 U+0031 U+0029
-ó$	ó	po̲hó	Otomi	1	U+00f3 U+0024
-nze̲di zaa (hingi hu̲)	<???>	nze̲di zaa (hingi hu̲)	Otomi	1	U+006e U+007a U+0065 U+0332 U+0064 U+0069 U+0020 U+007a U+0061 U+0061 U+0020 U+0028 U+0068 U+0069 U+006e U+0067 U+0069 U+0020 U+0068 U+0075 U+0332 U+0029
-^e̲$	e̲	e̲	Otomi	1	U+005e U+0065 U+0332 U+0024
+'ch	ˀc	chä'chä	Otomi	1	U+0027 U+0063 U+0068
+ó$	ó/o	po̲hó	Otomi	1	U+00f3 U+0024
+^e̲$	æ	e̲	Otomi	1	U+005e U+0065 U+0332 U+0024
+^-‘bya$	+ ˀb j a				
+‘b	ˀb				
+‘n	ˀn				

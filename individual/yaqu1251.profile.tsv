@@ -1,12 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-1	NULL				
-2	NULL				
-~	NULL				
-buscar pie	NULL				
 a	a	jakara, bepa’aria	Yaqui	1003	U+0061
 i	i	na’ikimte, kuchichi’iti nooka	Yaqui	670	U+0069
 a$	a	jakara, beea	Yaqui	601	U+0061 U+0024
@@ -87,10 +81,8 @@ ls	l s	pulseera, bolsiom	Yaqui	3	U+006c U+0073
 mw	m w	ta’ata aman komwechebetana, ba’akomwechia	Yaqui	2	U+006d U+0077
 ^d	d	dies, dose	Yaqui	2	U+005e U+0064
 ms	m s	bamse, kumsakam	Yaqui	2	U+006d U+0073
-wokjajai (buscar pie)	<???>	wokjajai (buscar pie)	Yaqui	1	U+0077 U+006f U+006b U+006a U+0061 U+006a U+0061 U+0069 U+0020 U+0028 U+0062 U+0075 U+0073 U+0063 U+0061 U+0072 U+0020 U+0070 U+0069 U+0065 U+0029
 bb	b b	ubba	Yaqui	1	U+0062 U+0062
 nn	n n	tenne	Yaqui	1	U+006e U+006e
-jeewi ~ eewi	<???>	jeewi ~ eewi	Yaqui	1	U+006a U+0065 U+0065 U+0077 U+0069 U+0020 U+007e U+0020 U+0065 U+0065 U+0077 U+0069
 oo$	oː	bichoo	Yaqui	1	U+006f U+006f U+0024
 ii$	iː	jitebii	Yaqui	1	U+0069 U+0069 U+0024
 ^o$	o	o	Yaqui	1	U+005e U+006f U+0024

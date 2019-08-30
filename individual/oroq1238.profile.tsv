@@ -1,11 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-1	NULL				
-2	NULL				
-phonetically	NULL				
 a	a	ʃarbakta, ʃa:wukanan	Oroqen	408	U+0061
 k	k	ulkəkən, dɪlatʃa tiktəkəki	Oroqen	354	U+006b
 n$	n	ukun, ʃa:wukanan	Oroqen	322	U+006e U+0024

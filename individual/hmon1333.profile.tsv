@@ -7,17 +7,23 @@ u	u	plaub muag, tua	White Hmong	548	U+0075
 i	i	niam tais, niam txiv	White Hmong	389	U+0069
 ^n	n	niam, nyob	White Hmong	293	U+005e U+006e
 b$	NULL	nyob, tub	White Hmong	270	U+0062 U+0024
+b{}	NULL				
 o	o	qhov-txos, nyob	White Hmong	255	U+006f
 t	t	ntawv, ntuj-tawg teb txias	White Hmong	221	U+0074
 v$	NULL	ntawv, yuav	White Hmong	221	U+0076 U+0024
+v{}	NULL				
 n	n	pojniam, hnov	White Hmong	220	U+006e
 b	b	sab qab teb, sab hnub poob	White Hmong	189	U+0062
 v	v	qhov-txos, kev xaiv tsa	White Hmong	180	U+0076
 e	e	dej, kev	White Hmong	179	U+0065
 s$	NULL	mis, ntaus	White Hmong	173	U+0073 U+0024
+s{}	NULL				
 j$	NULL	phaj, kaj	White Hmong	168	U+006a U+0024
+j{}	NULL				
 m$	NULL	niam, saum	White Hmong	164	U+006d U+0024
+m{}	NULL				
 g$	NULL	yog, lig	White Hmong	163	U+0067 U+0024
+g{}	NULL				
 ^t	t	txhaum, tua	White Hmong	136	U+005e U+0074
 j	j	pojniam, caij nplooj ntoo hlav	White Hmong	135	U+006a
 m	m	chaw mos, niam tais	White Hmong	135	U+006d
@@ -107,7 +113,7 @@ fw	f ɯ	xib fwb	White Hmong	2	U+0066 U+0077
 ^g	ŋ	gus, gaib	White Hmong	2	U+005e U+0067
 ^dh	dʱ	dhia, dhau	White Hmong	2	U+005e U+0064 U+0068
 rw	ʈ ɯ	ntsaum kab-rwg, paj rwb	White Hmong	2	U+0072 U+0077
-Tsw	Tʃ/tʃ ɯ	thov Vaj Tswv, Vaj Tswv	White Hmong	2	U+0054 U+0073 U+0077
+Tsw	Ts/tʃ ɯ	thov Vaj Tswv, Vaj Tswv	White Hmong	2	U+0054 U+0073 U+0077
 ^xw	s ɯ	xwb, xwb kuab	White Hmong	2	U+005e U+0078 U+0077
 dh	dʱ	ras dheev, tsim dheev	White Hmong	2	U+0064 U+0068
 hw	h ɯ	xib hwb	White Hmong	2	U+0068 U+0077

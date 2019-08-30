@@ -109,9 +109,6 @@ ee$	eː	mbéi hékísee	Saramaccan	1	U+0065 U+0065 U+0024
 éw	é/e w	wántéwante	Saramaccan	1	U+00e9 U+0077
 nh	n h	gaánhángi	Saramaccan	1	U+006e U+0068
 ^i$	i	i	Saramaccan	1	U+005e U+0069 U+0024
-̈́	NULL				
-̈	NULL				
-́	NULL				
 nj	ɲ				
 ^nj	ɲ				
 dj	ɟ				
@@ -129,3 +126,6 @@ kp	kp
 ^kp	kp				
 gb	gb				
 ^gb	gb				
+ë́	ë́/ɛ				
+ö́	ö́/ɔ				
+^mösimö́si$	m ö/ɔ s i m ö́/ɔ s i				

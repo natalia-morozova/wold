@@ -1,10 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-with LOCATVE$	NULL				
-(and allomorphs)	NULL				
 a	a	lamparra, mangarri	Gurindji	1126	U+0061
 u	u	murlukurn, purrul yuwa-	Gurindji	588	U+0075
 i	i	mirlimirli, jakiliny	Gurindji	494	U+0069
@@ -38,7 +34,6 @@ n$	n	wurlngarn, ngarin	Gurindji	45	U+006e U+0024
 g$	g	nungkiying, winkilying	Gurindji	44	U+0067 U+0024
 k$	k	kartak, patik	Gurindji	28	U+006b U+0024
 l$	l	kaninyjal, kanyjal	Gurindji	27	U+006c U+0024
-y$	y	jakiliny, ngalawuny	Gurindji	24	U+0079 U+0024
 rr$	r r	wararr, kaminyjarr	Gurindji	22	U+0072 U+0072 U+0024
 j$	j	karlaj, tartij	Gurindji	16	U+006a U+0024
 aa	a a	kaapikaapi, wangaak	Gurindji	15	U+0061 U+0061
@@ -49,10 +44,17 @@ rw	r w	kurrwara yuwa-, wurrwa-	Gurindji	10	U+0072 U+0077
 ii	ii	wiingki, purriip marn-	Gurindji	6	U+0069 U+0069
 lw	l w	talwirr yuwa-, jalwa	Gurindji	5	U+006c U+0077
 kk	k k	turlkkaji, warukku wumara	Gurindji	5	U+006b U+006b
-.	<?>	nyamu...nga	Gurindji	3	U+002e
+.	_	nyamu...nga	Gurindji	3	U+002e
 nn	n n	parnngirri, parnnga	Gurindji	2	U+006e U+006e
 m$	m	mum	Gurindji	2	U+006d U+0024
 gw	g w	wilngwilng ma-	Gurindji	1	U+0067 U+0077
 uu	u u	puul	Gurindji	1	U+0075 U+0075
-jipu(n) pa-	<???>	jipu(n) pa-	Gurindji	1	U+006a U+0069 U+0070 U+0075 U+0028 U+006e U+0029 U+0020 U+0070 U+0061 U+002d
 ^-ngka	+ n g k a	-ngka			
+{} with	NULL	karri- with LOCATVE			
+{} LOCATVE$	NULL	karri- with LOCATVE			
+ny	ɲ				
+ng	ŋ 				
+ny$	ɲ				
+ng$	ŋ 				
+^ny	ɲ				
+^ng	ŋ 				

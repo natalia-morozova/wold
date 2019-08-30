@@ -1,11 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-1	NULL				
-2	NULL				
-~	NULL				
 -	+				
 e	e	pumen, termelinen	Selice Romani	804	U+0065
 a	a	čalaven, paťan	Selice Romani	641	U+0061
@@ -53,7 +48,7 @@ e$	e	díve, hábe	Selice Romani	76	U+0065 U+0024
 ^h	h	hiba, hajon	Selice Romani	71	U+005e U+0068
 ^l	l	lóvo, lošanen	Selice Romani	66	U+005e U+006c
 č	tʃ	čúči, meňėčkė	Selice Romani	58	U+010d
-ll	ll	fullánka, vella	Selice Romani	56	U+006c U+006c
+ll	l l	fullánka, vella	Selice Romani	56	U+006c U+006c
 ú	ú/u	ďúrinen, čúči	Selice Romani	56	U+00fa
 ^a	a	astaren, akharen	Selice Romani	55	U+005e U+0061
 ž	ʒ 	džan, šúžo	Selice Romani	52	U+017e
@@ -150,3 +145,5 @@ gg	gː	reggeli	Selice Romani	1	U+0067 U+0067
 ^ťh	tʲʰ	ťhil	Selice Romani	1	U+005e U+0165 U+0068
 gs	g s	vėndígsoba	Selice Romani	1	U+0067 U+0073
 js	j s	hajsálo	Selice Romani	1	U+006a U+0073
+ň	ɲ				
+^ň	ɲ				
