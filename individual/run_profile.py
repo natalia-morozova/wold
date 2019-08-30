@@ -27,7 +27,7 @@ def my_tokenizer(form, prf):
     value = form.strip()
     for form in split_text(value, separators='/,~', strip=True):
         value = form.strip()
-        form = "^%s$" % form
+        form = "^%s$" % form.replace(" ", "{} ")
 
         form = strip_brackets(form, brackets={'[':']'})
 
@@ -62,11 +62,13 @@ def my_tokenizer(form, prf):
 def main(args):
     print(args)
 
-    # Read raw profile, solving bug in `segments`
+    # Read raw profile, solving bug in `segments`,
+    # and add the space character fix
     profile_file = "%s.profile.tsv" % args.glottocode
     with open(profile_file, encoding='utf8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter='\t')
         my_profile = {row['Grapheme'] : row['IPA'] for row in reader}
+    my_profile["{}"] = "NULL"
 
     # Read the lexical data
     with open('%s.tsv' % args.glottocode, encoding='utf8') as csvfile:

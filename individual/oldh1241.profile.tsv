@@ -1,10 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-1	NULL				
-2	NULL				
 a	a	bihaltan, nagal	Old High German	517	U+0061
 i	i	niowiht, biwerien	Old High German	461	U+0069
 e	e	zellen, fellen	Old High German	370	U+0065
@@ -68,10 +64,8 @@ b$	b	toub, lob	Old High German	17	U+0062 U+0024
 ll	lː	stilli, zellen	Old High German	16	U+006c U+006c
 c$	c	fleisc, tranc	Old High German	15	U+0063 U+0024
 u$	u	siu, ibu	Old High German	14	U+0075 U+0024
-)w	<?>	(h)wio, (h)wie	Old High German	14	U+0029 U+0077
 tt	tː	bitten, mitti	Old High German	14	U+0074 U+0074
-^sw	sw	swigar, swehur	Old High German	14	U+005e U+0073 U+0077
-^(h	<?>	(h)wio, (h)wie	Old High German	14	U+005e U+0028 U+0068
+^sw	s w	swigar, swehur	Old High German	14	U+005e U+0073 U+0077
 ^o	o	ohso, odo	Old High German	14	U+005e U+006f
 ^u	u	ubar, unsemfti	Old High German	14	U+005e U+0075
 ^p	p	pelliz, perula	Old High German	12	U+005e U+0070
@@ -164,4 +158,4 @@ gs	g s	langsam	Old High German	1	U+0067 U+0073
 ch$	x	fettach	Old High German	1	U+0063 U+0068 U+0024
 ph$	pf	kroph	Old High German	1	U+0070 U+0068 U+0024
 êh	ê/eː h	zêha	Old High German	1	U+00ea U+0068
-rh$	rh	furh	Old High German	1	U+0072 U+0068 U+0024
+rh$	r h	furh	Old High German	1	U+0072 U+0068 U+0024

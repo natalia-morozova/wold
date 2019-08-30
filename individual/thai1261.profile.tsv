@@ -4,29 +4,29 @@ $	NULL
 a	a	malaeaeŋ, lǎansǎaw	Thai	1024	U+0061
 n$	n	man, khʉ̂n	Thai	308	U+006e U+0024
 e	e	khǎeŋraeaeŋ, bàeaek	Thai	234	U+0065
-y$	y	lûukkhə̌əy, phaay	Thai	228	U+0079 U+0024
-aa	aa	pùuyâataayaay, naaŋphayaabaan	Thai	223	U+0061 U+0061
+y$	j	lûukkhə̌əy, phaay	Thai	228	U+0079 U+0024
+aa	aː	pùuyâataayaay, naaŋphayaabaan	Thai	223	U+0061 U+0061
 ŋ$	ŋ	luŋ, lǎŋ	Thai	222	U+014b U+0024
-à	à	plàaw, màak	Thai	217	U+00e0
+à	à/a	plàaw, màak	Thai	217	U+00e0
 r	r	khrɔ́ráay, khrʉ̂aŋpradàp	Thai	210	U+0072
-â	â	nâa, râak	Thai	210	U+00e2
+â	â/a	nâa, râak	Thai	210	U+00e2
 t$	t	phát, phìt	Thai	200	U+0074 U+0024
-ǎ	ǎ	lǎansǎaw, lǎŋ	Thai	185	U+01ce
-^kh	kh	kháo, khɔɔ	Thai	172	U+005e U+006b U+0068
+ǎ	ǎ/a	lǎansǎaw, lǎŋ	Thai	185	U+01ce
+^kh	kʰ	kháo, khɔɔ	Thai	172	U+005e U+006b U+0068
 k$	k	rîak, râak	Thai	168	U+006b U+0024
-á	á	kháo, phát	Thai	166	U+00e1
+á	á/a	kháo, phát	Thai	166	U+00e1
 ^s	s	sǐa, sǐaŋ	Thai	164	U+005e U+0073
 n	n	thanǒn, khonplàeknâa	Thai	160	U+006e
 l	l	plàaw, plùuk	Thai	159	U+006c
 ^k	k	kèp, koŋ	Thai	137	U+005e U+006b
-^ph	ph	phát, phìt	Thai	134	U+005e U+0070 U+0068
+^ph	pʰ	phát, phìt	Thai	134	U+005e U+0070 U+0068
 u	u	lûukbuntham, luŋ	Thai	133	U+0075
 a$	a	nâa, wua	Thai	133	U+0061 U+0024
 m	m	dooymâymii, yaimaeaeŋmum	Thai	133	U+006d
 m$	m	tham, ŋâam	Thai	128	U+006d U+0024
 ^m	m	man, màak	Thai	122	U+005e U+006d
 ^n	n	nâa, nûat	Thai	117	U+005e U+006e
-^th	th	thəə, thanǒn	Thai	116	U+005e U+0074 U+0068
+^th	tʰ	thəə, thanǒn	Thai	116	U+005e U+0074 U+0068
 k	k	lûukkhə̌əy, lûuklíaŋ	Thai	115	U+006b
 ^l	l	luŋ, lǎŋ	Thai	112	U+005e U+006c
 ɔ	ɔ	nɔ́ɔŋsǎaw, kɔ̀ɔn	Thai	112	U+0254
@@ -34,280 +34,171 @@ i	i	patithin, diaw	Thai	109	U+0069
 ^p	p	plàaw, pâa	Thai	108	U+005e U+0070
 o	o	koŋ, loŋthôot	Thai	101	U+006f
 t	t	phìtlûukphìtmia, rátthamontrii	Thai	100	U+0074
-y	y	pùuyâataayaay, dooymâymii	Thai	99	U+0079
-^?	<?>	?aa, ?aakàat	Thai	93	U+005e U+003f
+y	j	pùuyâataayaay, dooymâymii	Thai	99	U+0079
+^?	ʔ	?aa, ?aakàat	Thai	93	U+005e U+003f
 ^r	r	rao, ráksǎa	Thai	90	U+005e U+0072
 ŋ	ŋ	khɔ̂ŋcay, khǎeŋraeaeŋ	Thai	88	U+014b
 ^t	t	too, taay	Thai	87	U+005e U+0074
 p$	p	kèp, càp	Thai	80	U+0070 U+0024
-ù	ù	yùu, plùuk	Thai	79	U+00f9
-ì	ì	phìt, dìp	Thai	78	U+00ec
-û	û	nûat, lûuksapháy	Thai	76	U+00fb
-ph	ph	lûuksapháy, thúpphíkkhaphay	Thai	74	U+0070 U+0068
+ù	ù/u	yùu, plùuk	Thai	79	U+00f9
+ì	ì/i	phìt, dìp	Thai	78	U+00ec
+û	û/u	nûat, lûuksapháy	Thai	76	U+00fb
+ph	pʰ	lûuksapháy, thúpphíkkhaphay	Thai	74	U+0070 U+0068
 ^b	b	bàeaek, bâan	Thai	72	U+005e U+0062
-th	th	prathaanaathíbɔdii, ?aathít	Thai	69	U+0074 U+0068
+th	tʰ	prathaanaathíbɔdii, ?aathít	Thai	69	U+0074 U+0068
 ^h	h	hûuk, hěn	Thai	68	U+005e U+0068
-kh	kh	lûukkhə̌əy, baykhàpkhìi	Thai	67	U+006b U+0068
+kh	kʰ	lûukkhə̌əy, baykhàpkhìi	Thai	67	U+006b U+0068
 w$	w	plàaw, lǎansǎaw	Thai	66	U+0077 U+0024
-í	í	lûuklíaŋ, ?aathít	Thai	64	U+00ed
-^ch	ch	cháaw, chûay	Thai	63	U+005e U+0063 U+0068
-aa$	aa	?aa, chiiwaa	Thai	63	U+0061 U+0061 U+0024
-^y	y	yùu, yàak	Thai	62	U+005e U+0079
-î	î	rîak, thîinîi	Thai	59	U+00ee
-ɔ̂	ɔ̂	khɔ̂ŋcay, pàakchɔ̂ŋkhlɔ̂ɔt	Thai	57	U+0254 U+0302
+í	í/i	lûuklíaŋ, ?aathít	Thai	64	U+00ed
+^ch	tɕ	cháaw, chûay	Thai	63	U+005e U+0063 U+0068
+aa$	aː	?aa, chiiwaa	Thai	63	U+0061 U+0061 U+0024
+^y	j	yùu, yàak	Thai	62	U+005e U+0079
+î	î/i	rîak, thîinîi	Thai	59	U+00ee
+ɔ̂	ɔ̂/ɔ	khɔ̂ŋcay, pàakchɔ̂ŋkhlɔ̂ɔt	Thai	57	U+0254 U+0302
 ^d	d	dèk, dìp	Thai	55	U+005e U+0064
-ɔɔ	ɔɔ	kɔɔŋ, nɔɔn	Thai	55	U+0254 U+0254
-ò	ò	sòkkapròk, kracòkŋao	Thai	54	U+00f2
-ii$	ii	tii, mii	Thai	54	U+0069 U+0069 U+0024
+ɔɔ	ɔː	kɔɔŋ, nɔɔn	Thai	55	U+0254 U+0254
+ò	ò/o	sòkkapròk, kracòkŋao	Thai	54	U+00f2
+ii$	iː	tii, mii	Thai	54	U+0069 U+0069 U+0024
 o$	o	kháo, rao	Thai	52	U+006f U+0024
 ^c	c	càp, cəə	Thai	50	U+005e U+0063
 p	p	mansǎmpalǎŋ, wâaŋplàaw	Thai	48	U+0070
 d	d	bìdaamaandaa, hây duu	Thai	47	U+0064
-ǐ	ǐ	sǐa, sǐaŋ	Thai	46	U+01d0
+ǐ	ǐ/i	sǐa, sǐaŋ	Thai	46	U+01d0
 c	c	khɔ̂ŋcay, mǎacîŋcɔ̀ɔk	Thai	43	U+0063
-ɔ̀	ɔ̀	kɔ̀ɔn, mɔ̀ɔk	Thai	43	U+0254 U+0300
-ʉ̂	ʉ̂	khʉ̂n, khlʉ̂ʉn	Thai	43	U+0289 U+0302
+ɔ̀	ɔ̀/ɔ	kɔ̀ɔn, mɔ̀ɔk	Thai	43	U+0254 U+0300
+ʉ̂	ʉ̂/ʉ	khʉ̂n, khlʉ̂ʉn	Thai	43	U+0289 U+0302
 ^w	w	wua, wâaŋplàaw	Thai	42	U+005e U+0077
 i$	i	thîi, nîi	Thai	41	U+0069 U+0024
 s	s	yaasùup, pasùsàt	Thai	40	U+0073
 ʉ	ʉ	mʉaŋ, dʉan	Thai	39	U+0289
-ó	ó	mótlûuk, nóom	Thai	39	U+00f3
+ó	ó/o	mótlûuk, nóom	Thai	39	U+00f3
 e$	e	khêe, kàeae	Thai	38	U+0065 U+0024
-ch	ch	lǎanchaay, prachaachon	Thai	37	U+0063 U+0068
-ǔ	ǔ	thǔu, sǔay	Thai	35	U+01d4
+ch	tɕ	lǎanchaay, prachaachon	Thai	37	U+0063 U+0068
+ǔ	ǔ/u	thǔu, sǔay	Thai	35	U+01d4
 w	w	tawan, thǎowan	Thai	35	U+0077
 b	b	lûukbuntham, subin	Thai	35	U+0062
-è	è	kèp, dèk	Thai	34	U+00e8
-ô	ô	kôn, thôot	Thai	32	U+00f4
+è	è/e	kèp, dèk	Thai	34	U+00e8
+ô	ô/o	kôn, thôot	Thai	32	U+00f4
 ^f	f	fáa, fəə	Thai	32	U+005e U+0066
-ɔ́	ɔ́	thɔ́ɔŋ, nɔ́ɔŋsǎaw	Thai	31	U+0254 U+0301
-ʉ̀	ʉ̀	plʉ̀ak, ŋʉ̀ak	Thai	30	U+0289 U+0300
-ɔ̌	ɔ̌	sɔ̌ɔ, khɔ̌ɔthaan	Thai	28	U+0254 U+030c
-ǒ	ǒ	thanǒn, phǒm	Thai	27	U+01d2
+ɔ́	ɔ́/ɔ	thɔ́ɔŋ, nɔ́ɔŋsǎaw	Thai	31	U+0254 U+0301
+ʉ̀	ʉ̀/ʉ	plʉ̀ak, ŋʉ̀ak	Thai	30	U+0289 U+0300
+ɔ̌	ɔ̌/ɔ	sɔ̌ɔ, khɔ̌ɔthaan	Thai	28	U+0254 U+030c
+ǒ	ǒ/o	thanǒn, phǒm	Thai	27	U+01d2
 u$	u	yùu, sabùu	Thai	26	U+0075 U+0024
 ^ŋ	ŋ	ŋʉ̀ak, ŋən	Thai	24	U+005e U+014b
-^khw	khw	khwǎan, khwǎa	Thai	23	U+005e U+006b U+0068 U+0077
-oo	oo	khamooy, yoonii	Thai	23	U+006f U+006f
-é	é	malét, lép	Thai	20	U+00e9
-ú	ú	thúp, múk	Thai	19	U+00fa
+^khw	kʰ w	khwǎan, khwǎa	Thai	23	U+005e U+006b U+0068 U+0077
+oo	oː	khamooy, yoonii	Thai	23	U+006f U+006f
+é	é/e	malét, lép	Thai	20	U+00e9
+ú	ú/u	thúp, múk	Thai	19	U+00fa
 ks	ks	lûuksapháy, ráksǎa	Thai	19	U+006b U+0073
 ə	ə	lûukkhə̌əy, ŋən	Thai	19	U+0259
 h	h	sǎahèet, krahǎay	Thai	19	U+0068
-ii	ii	diibùk, tiilèk	Thai	18	U+0069 U+0069
-ee	ee	pheelaa, weelaa	Thai	17	U+0065 U+0065
-uu$	uu	phuu, pratuu	Thai	17	U+0075 U+0075 U+0024
-?	<?>	lâo?aŋùn, la?ɔɔŋ	Thai	16	U+003f
-á$	á	mɔɔraná, waará	Thai	16	U+00e1 U+0024
+ii	iː	diibùk, tiilèk	Thai	18	U+0069 U+0069
+ee	eː	pheelaa, weelaa	Thai	17	U+0065 U+0065
+uu$	uː	phuu, pratuu	Thai	17	U+0075 U+0075 U+0024
+?	ʔ	lâo?aŋùn, la?ɔɔŋ	Thai	16	U+003f
+á$	á/a	mɔɔraná, waará	Thai	16	U+00e1 U+0024
 ts	ts	khwaamrítsayǎa, khamtàtsǐn	Thai	16	U+0074 U+0073
-uu	uu	phuumii, laakuun	Thai	15	U+0075 U+0075
-ʉ́	ʉ́	nʉ́a, mʉ́ʉ	Thai	15	U+0289 U+0301
-əə	əə	sǎŋwəəy, nəəykhǎeŋ	Thai	15	U+0259 U+0259
-ê	ê	khêe, lên	Thai	14	U+00ea
+uu	uː	phuumii, laakuun	Thai	15	U+0075 U+0075
+ʉ́	ʉ́/ʉ	nʉ́a, mʉ́ʉ	Thai	15	U+0289 U+0301
+əə	əː	sǎŋwəəy, nəəykhǎeŋ	Thai	15	U+0259 U+0259
+ê	ê/e	khêe, lên	Thai	14	U+00ea
 ɔ$	ɔ	châŋpânmɔ̂ɔ, hɔ̀ɔ	Thai	14	U+0254 U+0024
-ʉʉ	ʉʉ	khʉʉn, fʉʉn	Thai	13	U+0289 U+0289
+ʉʉ	ʉː	khʉʉn, fʉʉn	Thai	13	U+0289 U+0289
 ŋs	ŋs	nɔ́ɔŋsǎaw, sǒŋsǎy	Thai	13	U+014b U+0073
-ʉ̌	ʉ̌	nʉ̌a, thʉ̌ŋ	Thai	13	U+0289 U+030c
-ɔɔ$	ɔɔ	khɔɔ, phɔɔ	Thai	13	U+0254 U+0254 U+0024
+ʉ̌	ʉ̌/ʉ	nʉ̌a, thʉ̌ŋ	Thai	13	U+0289 U+030c
+ɔɔ$	ɔː	khɔɔ, phɔɔ	Thai	13	U+0254 U+0254 U+0024
 f	f	phǐifáa, tɔ́pfîi	Thai	12	U+0066
-à$	à	pà, thantà	Thai	12	U+00e0 U+0024
-ě	ě	hěn, máaykaaŋkhěen	Thai	11	U+011b
+à$	à/a	pà, thantà	Thai	12	U+00e0 U+0024
+ě	ě/e	hěn, máaykaaŋkhěen	Thai	11	U+011b
 kk	kk	sàkkalàat, kaphlòokkaphlèek	Thai	11	U+006b U+006b
 tt	tt	phâachéttua, páttìk	Thai	10	U+0074 U+0074
-ú$	ú	phaayú, weelú	Thai	9	U+00fa U+0024
+ú$	ú/u	phaayú, weelú	Thai	9	U+00fa U+0024
 ʉ$	ʉ	mʉ́ʉ, khʉ̀ʉ	Thai	9	U+0289 U+0024
 ns	ns	lǎansǎaw, mansǎmpalǎŋ	Thai	9	U+006e U+0073
-əə$	əə	thəə, cəə	Thai	9	U+0259 U+0259 U+0024
-ʉʉ$	ʉʉ	mʉʉ, hǔamâeaemʉʉ	Thai	9	U+0289 U+0289 U+0024
-nn	nn	wanníi, laannûatkhâaw	Thai	8	U+006e U+006e
-ə̌	ə̌	lûukkhə̌əy, phîikhə̌əy	Thai	7	U+0259 U+030c
-ŋw	ŋw	sǎŋwəəy, waŋwon	Thai	7	U+014b U+0077
-ə̂	ə̂	lə̂əkthâat, nə̂ən	Thai	6	U+0259 U+0302
-oo$	oo	too, manoo	Thai	6	U+006f U+006f U+0024
-mm	mm	buummaraeaeŋ, yǐŋŋaammʉaŋ	Thai	5	U+006d U+006d
-ə̀	ə̀	pə̀ət, bə̀ək	Thai	5	U+0259 U+0300
+əə$	əː	thəə, cəə	Thai	9	U+0259 U+0259 U+0024
+ʉʉ$	ʉː	mʉʉ, hǔamâeaemʉʉ	Thai	9	U+0289 U+0289 U+0024
+nn	n n	wanníi, laannûatkhâaw	Thai	8	U+006e U+006e
+ə̌	ə̌/ə	lûukkhə̌əy, phîikhə̌əy	Thai	7	U+0259 U+030c
+ŋw	ŋ w	sǎŋwəəy, waŋwon	Thai	7	U+014b U+0077
+ə̂	ə̂/ə	lə̂əkthâat, nə̂ən	Thai	6	U+0259 U+0302
+oo$	oː	too, manoo	Thai	6	U+006f U+006f U+0024
+mm	m m	buummaraeaeŋ, yǐŋŋaammʉaŋ	Thai	5	U+006d U+006d
+ə̀	ə̀/ə	pə̀ət, bə̀ək	Thai	5	U+0259 U+0300
 _	_	hây duu, hây yʉʉm	Thai	5	U+005f
-^kw	kw	kwàat, kwaaŋ	Thai	4	U+005e U+006b U+0077
-wh	wh	khamklàawhǎa, klàawhǎa	Thai	4	U+0077 U+0068
-ŋŋ	ŋŋ	tàeŋŋaan, rooŋŋaan	Thai	4	U+014b U+014b
-ɔ́$	ɔ́	thalɔ́, phɔ́	Thai	4	U+0254 U+0301 U+0024
-ŋh	ŋh	hìŋhɔ̂y, lɔ̂ŋhǒn	Thai	4	U+014b U+0068
-ee$	ee	rótmee, thalee	Thai	4	U+0065 U+0065 U+0024
-mh	mh	tûmhǔu, khamhâykaanthét	Thai	3	U+006d U+0068
+wh	w h	khamklàawhǎa, klàawhǎa	Thai	4	U+0077 U+0068
+ŋŋ	ŋ ŋ	tàeŋŋaan, rooŋŋaan	Thai	4	U+014b U+014b
+ɔ́$	ɔ́/ɔ	thalɔ́, phɔ́	Thai	4	U+0254 U+0301 U+0024
+ŋh	ŋ h	hìŋhɔ̂y, lɔ̂ŋhǒn	Thai	4	U+014b U+0068
+ee$	eː	rótmee, thalee	Thai	4	U+0065 U+0065 U+0024
+mh	m h	tûmhǔu, khamhâykaanthét	Thai	3	U+006d U+0068
 ə$	ə	samə̌ə, mɔɔtə̂ə	Thai	3	U+0259 U+0024
-ɔ̀$	ɔ̀	kɔ̀, krɔ̀	Thai	3	U+0254 U+0300 U+0024
-ìs	ìs	patìsèet, patìséet	Thai	3	U+00ec U+0073
-sǎo (1)	<???>	sǎo (1)	Thai	3	U+0073 U+01ce U+006f U+0020 U+0028 U+0031 U+0029
-ùs	ùs	pasùsàt, ?ùsǎa	Thai	3	U+00f9 U+0073
-kw	kw	mâakkwàa, máaykwàat	Thai	3	U+006b U+0077
-thâo (2)	<???>	thâo (2)	Thai	2	U+0074 U+0068 U+00e2 U+006f U+0020 U+0028 U+0032 U+0029
-náamman (1)	<???>	náamman (1)	Thai	2	U+006e U+00e1 U+0061 U+006d U+006d U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-sǎay (2)	<???>	sǎay (2)	Thai	2	U+0073 U+01ce U+0061 U+0079 U+0020 U+0028 U+0032 U+0029
-ms	ms	sǒmsèt, khamsǎabaan	Thai	2	U+006d U+0073
-sǐi (3)	<???>	sǐi (3)	Thai	2	U+0073 U+01d0 U+0069 U+0020 U+0028 U+0033 U+0029
--	<?>	khwaam-ìtchǎa, dinfáa-aakàat	Thai	2	U+002d
-tâay (2)	<???>	tâay (2)	Thai	2	U+0074 U+00e2 U+0061 U+0079 U+0020 U+0028 U+0032 U+0029
-ì$	ì	nâaymáyphlì, nítì	Thai	2	U+00ec U+0024
-?èt (2)	<???>	?èt (2)	Thai	2	U+003f U+00e8 U+0074 U+0020 U+0028 U+0032 U+0029
-klâa (1)	<???>	klâa (1)	Thai	2	U+006b U+006c U+00e2 U+0061 U+0020 U+0028 U+0031 U+0029
-phóp (2)	<???>	phóp (2)	Thai	2	U+0070 U+0068 U+00f3 U+0070 U+0020 U+0028 U+0032 U+0029
-phûut (1)	<???>	phûut (1)	Thai	2	U+0070 U+0068 U+00fb U+0075 U+0074 U+0020 U+0028 U+0031 U+0029
-ps	ps	sìpsɔ̌ɔŋ, sàapsǔun	Thai	2	U+0070 U+0073
-hǎa (1)	<???>	hǎa (1)	Thai	2	U+0068 U+01ce U+0061 U+0020 U+0028 U+0031 U+0029
-ǐw$	ǐw	hǐw, chǐw	Thai	2	U+01d0 U+0077 U+0024
-dâay (2)	<???>	dâay (2)	Thai	2	U+0064 U+00e2 U+0061 U+0079 U+0020 U+0028 U+0032 U+0029
-lâo (1)	<???>	lâo (1)	Thai	1	U+006c U+00e2 U+006f U+0020 U+0028 U+0031 U+0029
-sɔ̌ɔn (1)	<???>	sɔ̌ɔn (1)	Thai	1	U+0073 U+0254 U+030c U+0254 U+006e U+0020 U+0028 U+0031 U+0029
-khɔ̌ɔ (2)	<???>	khɔ̌ɔ (2)	Thai	1	U+006b U+0068 U+0254 U+030c U+0254 U+0020 U+0028 U+0032 U+0029
-lâa (3)	<???>	lâa (3)	Thai	1	U+006c U+00e2 U+0061 U+0020 U+0028 U+0033 U+0029
-sǎay (1)	<???>	sǎay (1)	Thai	1	U+0073 U+01ce U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-tɔ̀ɔ (2)	<???>	tɔ̀ɔ (2)	Thai	1	U+0074 U+0254 U+0300 U+0254 U+0020 U+0028 U+0032 U+0029
-phaŋ (1)	<???>	phaŋ (1)	Thai	1	U+0070 U+0068 U+0061 U+014b U+0020 U+0028 U+0031 U+0029
-ə̀ə̀	ə̀ə̀	rabə̀ə̀t	Thai	1	U+0259 U+0300 U+0259 U+0300
-hǔa (1)	<???>	hǔa (1)	Thai	1	U+0068 U+01d4 U+0061 U+0020 U+0028 U+0031 U+0029
-kham (1)	<???>	kham (1)	Thai	1	U+006b U+0068 U+0061 U+006d U+0020 U+0028 U+0031 U+0029
-khâaw (1)	<???>	khâaw (1)	Thai	1	U+006b U+0068 U+00e2 U+0061 U+0077 U+0020 U+0028 U+0031 U+0029
-nɔ̌ɔŋ (1)	<???>	nɔ̌ɔŋ (1)	Thai	1	U+006e U+0254 U+030c U+0254 U+014b U+0020 U+0028 U+0031 U+0029
-mâat (1)	<???>	mâat (1)	Thai	1	U+006d U+00e2 U+0061 U+0074 U+0020 U+0028 U+0031 U+0029
-mây (1)	<???>	mây (1)	Thai	1	U+006d U+00e2 U+0079 U+0020 U+0028 U+0031 U+0029
-wâay (1)	<???>	wâay (1)	Thai	1	U+0077 U+00e2 U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-lûuk (1)	<???>	lûuk (1)	Thai	1	U+006c U+00fb U+0075 U+006b U+0020 U+0028 U+0031 U+0029
-khàp (2)	<???>	khàp (2)	Thai	1	U+006b U+0068 U+00e0 U+0070 U+0020 U+0028 U+0032 U+0029
-sǎo (2)	<???>	sǎo (2)	Thai	1	U+0073 U+01ce U+006f U+0020 U+0028 U+0032 U+0029
-wát (2)	<???>	wát (2)	Thai	1	U+0077 U+00e1 U+0074 U+0020 U+0028 U+0032 U+0029
-sàat (1)	<???>	sàat (1)	Thai	1	U+0073 U+00e0 U+0061 U+0074 U+0020 U+0028 U+0031 U+0029
-kàe (2)	<???>	kàe (2)	Thai	1	U+006b U+00e0 U+0065 U+0020 U+0028 U+0032 U+0029
-thùuk (1)	<???>	thùuk (1)	Thai	1	U+0074 U+0068 U+00f9 U+0075 U+006b U+0020 U+0028 U+0031 U+0029
-salàk (2)	<???>	salàk (2)	Thai	1	U+0073 U+0061 U+006c U+00e0 U+006b U+0020 U+0028 U+0032 U+0029
-wan (2)	<???>	wan (2)	Thai	1	U+0077 U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-sɔ̌ɔn (2)	<???>	sɔ̌ɔn (2)	Thai	1	U+0073 U+0254 U+030c U+0254 U+006e U+0020 U+0028 U+0032 U+0029
-salàk (1)	<???>	salàk (1)	Thai	1	U+0073 U+0061 U+006c U+00e0 U+006b U+0020 U+0028 U+0031 U+0029
-ǐw	ǐw	hǐwnáam	Thai	1	U+01d0 U+0077
-khàp (1)	<???>	khàp (1)	Thai	1	U+006b U+0068 U+00e0 U+0070 U+0020 U+0028 U+0031 U+0029
-tháaw (1)	<???>	tháaw (1)	Thai	1	U+0074 U+0068 U+00e1 U+0061 U+0077 U+0020 U+0028 U+0031 U+0029
-sàat (2)	<???>	sàat (2)	Thai	1	U+0073 U+00e0 U+0061 U+0074 U+0020 U+0028 U+0032 U+0029
-bɔ̀ɔ (1)	<???>	bɔ̀ɔ (1)	Thai	1	U+0062 U+0254 U+0300 U+0254 U+0020 U+0028 U+0031 U+0029
-sǎan (2)	<???>	sǎan (2)	Thai	1	U+0073 U+01ce U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-lâa (1)	<???>	lâa (1)	Thai	1	U+006c U+00e2 U+0061 U+0020 U+0028 U+0031 U+0029
-sùk (1)	<???>	sùk (1)	Thai	1	U+0073 U+00f9 U+006b U+0020 U+0028 U+0031 U+0029
-lǎy (2)	<???>	lǎy (2)	Thai	1	U+006c U+01ce U+0079 U+0020 U+0028 U+0032 U+0029
-thùuk (2)	<???>	thùuk (2)	Thai	1	U+0074 U+0068 U+00f9 U+0075 U+006b U+0020 U+0028 U+0032 U+0029
-bin (1)	<???>	bin (1)	Thai	1	U+0062 U+0069 U+006e U+0020 U+0028 U+0031 U+0029
-taa (1)	<???>	taa (1)	Thai	1	U+0074 U+0061 U+0061 U+0020 U+0028 U+0031 U+0029
-kìi (2)	<???>	kìi (2)	Thai	1	U+006b U+00ec U+0069 U+0020 U+0028 U+0032 U+0029
-lûuk (2)	<???>	lûuk (2)	Thai	1	U+006c U+00fb U+0075 U+006b U+0020 U+0028 U+0032 U+0029
-yaam (2)	<???>	yaam (2)	Thai	1	U+0079 U+0061 U+0061 U+006d U+0020 U+0028 U+0032 U+0029
-waan (1)	<???>	waan (1)	Thai	1	U+0077 U+0061 U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-kìi (1)	<???>	kìi (1)	Thai	1	U+006b U+00ec U+0069 U+0020 U+0028 U+0031 U+0029
-sîn (1)	<???>	sîn (1)	Thai	1	U+0073 U+00ee U+006e U+0020 U+0028 U+0031 U+0029
-khîiphʉ̂ŋ (1)	<???>	khîiphʉ̂ŋ (1)	Thai	1	U+006b U+0068 U+00ee U+0069 U+0070 U+0068 U+0289 U+0302 U+014b U+0020 U+0028 U+0031 U+0029
-klâa (2)	<???>	klâa (2)	Thai	1	U+006b U+006c U+00e2 U+0061 U+0020 U+0028 U+0032 U+0029
-wan (1)	<???>	wan (1)	Thai	1	U+0077 U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-chaay (2)	<???>	chaay (2)	Thai	1	U+0063 U+0068 U+0061 U+0061 U+0079 U+0020 U+0028 U+0032 U+0029
-wâay (2)	<???>	wâay (2)	Thai	1	U+0077 U+00e2 U+0061 U+0079 U+0020 U+0028 U+0032 U+0029
-waan (3)	<???>	waan (3)	Thai	1	U+0077 U+0061 U+0061 U+006e U+0020 U+0028 U+0033 U+0029
-pp	pp	rûuppân	Thai	1	U+0070 U+0070
-rót (1)	<???>	rót (1)	Thai	1	U+0072 U+00f3 U+0074 U+0020 U+0028 U+0031 U+0029
-kàe (1)	<???>	kàe (1)	Thai	1	U+006b U+00e0 U+0065 U+0020 U+0028 U+0031 U+0029
-yâa (2)	<???>	yâa (2)	Thai	1	U+0079 U+00e2 U+0061 U+0020 U+0028 U+0032 U+0029
-khǒn (2)	<???>	khǒn (2)	Thai	1	U+006b U+0068 U+01d2 U+006e U+0020 U+0028 U+0032 U+0029
-khâa (3)	<???>	khâa (3)	Thai	1	U+006b U+0068 U+00e2 U+0061 U+0020 U+0028 U+0033 U+0029
-hǎa (2)	<???>	hǎa (2)	Thai	1	U+0068 U+01ce U+0061 U+0020 U+0028 U+0032 U+0029
-bin (2)	<???>	bin (2)	Thai	1	U+0062 U+0069 U+006e U+0020 U+0028 U+0032 U+0029
-fan (2)	<???>	fan (2)	Thai	1	U+0066 U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-ùw	ùw	sùwaan	Thai	1	U+00f9 U+0077
-thâa (2)	<???>	thâa (2)	Thai	1	U+0074 U+0068 U+00e2 U+0061 U+0020 U+0028 U+0032 U+0029
-phǐw (2)	<???>	phǐw (2)	Thai	1	U+0070 U+0068 U+01d0 U+0077 U+0020 U+0028 U+0032 U+0029
-sùk (3)	<???>	sùk (3)	Thai	1	U+0073 U+00f9 U+006b U+0020 U+0028 U+0033 U+0029
-ə́	ə́	chə́ət	Thai	1	U+0259 U+0301
-kàp (2)	<???>	kàp (2)	Thai	1	U+006b U+00e0 U+0070 U+0020 U+0028 U+0032 U+0029
-sǐi (1)	<???>	sǐi (1)	Thai	1	U+0073 U+01d0 U+0069 U+0020 U+0028 U+0031 U+0029
-è$	è	tè	Thai	1	U+00e8 U+0024
-bàat (2)	<???>	bàat (2)	Thai	1	U+0062 U+00e0 U+0061 U+0074 U+0020 U+0028 U+0032 U+0029
-tìt (2)	<???>	tìt (2)	Thai	1	U+0074 U+00ec U+0074 U+0020 U+0028 U+0032 U+0029
-khâa (4)	<???>	khâa (4)	Thai	1	U+006b U+0068 U+00e2 U+0061 U+0020 U+0028 U+0034 U+0029
-dam (2)	<???>	dam (2)	Thai	1	U+0064 U+0061 U+006d U+0020 U+0028 U+0032 U+0029
-khǒn (1)	<???>	khǒn (1)	Thai	1	U+006b U+0068 U+01d2 U+006e U+0020 U+0028 U+0031 U+0029
-chaay (1)	<???>	chaay (1)	Thai	1	U+0063 U+0068 U+0061 U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-sǐi (2)	<???>	sǐi (2)	Thai	1	U+0073 U+01d0 U+0069 U+0020 U+0028 U+0032 U+0029
-wát (1)	<???>	wát (1)	Thai	1	U+0077 U+00e1 U+0074 U+0020 U+0028 U+0031 U+0029
-khîiphʉ̂ŋ (2)	<???>	khîiphʉ̂ŋ (2)	Thai	1	U+006b U+0068 U+00ee U+0069 U+0070 U+0068 U+0289 U+0302 U+014b U+0020 U+0028 U+0032 U+0029
-raŋ (1)	<???>	raŋ (1)	Thai	1	U+0072 U+0061 U+014b U+0020 U+0028 U+0031 U+0029
-phóp (1)	<???>	phóp (1)	Thai	1	U+0070 U+0068 U+00f3 U+0070 U+0020 U+0028 U+0031 U+0029
-rót (2)	<???>	rót (2)	Thai	1	U+0072 U+00f3 U+0074 U+0020 U+0028 U+0032 U+0029
-sùk (4)	<???>	sùk (4)	Thai	1	U+0073 U+00f9 U+006b U+0020 U+0028 U+0034 U+0029
-sên (2)	<???>	sên (2)	Thai	1	U+0073 U+00ea U+006e U+0020 U+0028 U+0032 U+0029
-taa (2)	<???>	taa (2)	Thai	1	U+0074 U+0061 U+0061 U+0020 U+0028 U+0032 U+0029
-sîn (2)	<???>	sîn (2)	Thai	1	U+0073 U+00ee U+006e U+0020 U+0028 U+0032 U+0029
-phûut (2)	<???>	phûut (2)	Thai	1	U+0070 U+0068 U+00fb U+0075 U+0074 U+0020 U+0028 U+0032 U+0029
-tâay (1)	<???>	tâay (1)	Thai	1	U+0074 U+00e2 U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-ó$	ó	tó	Thai	1	U+00f3 U+0024
-khan (1)	<???>	khan (1)	Thai	1	U+006b U+0068 U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-thâo (1)	<???>	thâo (1)	Thai	1	U+0074 U+0068 U+00e2 U+006f U+0020 U+0028 U+0031 U+0029
-yy	yy	sǎyyaa	Thai	1	U+0079 U+0079
-mâat (2)	<???>	mâat (2)	Thai	1	U+006d U+00e2 U+0061 U+0074 U+0020 U+0028 U+0032 U+0029
-raŋ (2)	<???>	raŋ (2)	Thai	1	U+0072 U+0061 U+014b U+0020 U+0028 U+0032 U+0029
-tháp (2)	<???>	tháp (2)	Thai	1	U+0074 U+0068 U+00e1 U+0070 U+0020 U+0028 U+0032 U+0029
-saay (1)	<???>	saay (1)	Thai	1	U+0073 U+0061 U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-khǎo (2)	<???>	khǎo (2)	Thai	1	U+006b U+0068 U+01ce U+006f U+0020 U+0028 U+0032 U+0029
-tháaw (2)	<???>	tháaw (2)	Thai	1	U+0074 U+0068 U+00e1 U+0061 U+0077 U+0020 U+0028 U+0032 U+0029
-âw$	âw	câw	Thai	1	U+00e2 U+0077 U+0024
-khon (2)	<???>	khon (2)	Thai	1	U+006b U+0068 U+006f U+006e U+0020 U+0028 U+0032 U+0029
-lâo (2)	<???>	lâo (2)	Thai	1	U+006c U+00e2 U+006f U+0020 U+0028 U+0032 U+0029
-nɔ̌ɔŋ (2)	<???>	nɔ̌ɔŋ (2)	Thai	1	U+006e U+0254 U+030c U+0254 U+014b U+0020 U+0028 U+0032 U+0029
-man (2)	<???>	man (2)	Thai	1	U+006d U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-kûu (2)	<???>	kûu (2)	Thai	1	U+006b U+00fb U+0075 U+0020 U+0028 U+0032 U+0029
-aaa	aaa	dinfáa-aakàat	Thai	1	U+0061 U+0061 U+0061
-nw	nw	phàendinwǎy	Thai	1	U+006e U+0077
-man (1)	<???>	man (1)	Thai	1	U+006d U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-saay9 (2)	<???>	saay9 (2)	Thai	1	U+0073 U+0061 U+0061 U+0079 U+0039 U+0020 U+0028 U+0032 U+0029
-khâaw (2)	<???>	khâaw (2)	Thai	1	U+006b U+0068 U+00e2 U+0061 U+0077 U+0020 U+0028 U+0032 U+0029
-khan (2)	<???>	khan (2)	Thai	1	U+006b U+0068 U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-khon (1)	<???>	khon (1)	Thai	1	U+006b U+0068 U+006f U+006e U+0020 U+0028 U+0031 U+0029
-dam (1)	<???>	dam (1)	Thai	1	U+0064 U+0061 U+006d U+0020 U+0028 U+0031 U+0029
-loomaa (1)	<???>	loomaa (1)	Thai	1	U+006c U+006f U+006f U+006d U+0061 U+0061 U+0020 U+0028 U+0031 U+0029
-khâa (1)	<???>	khâa (1)	Thai	1	U+006b U+0068 U+00e2 U+0061 U+0020 U+0028 U+0031 U+0029
-yaam (1)	<???>	yaam (1)	Thai	1	U+0079 U+0061 U+0061 U+006d U+0020 U+0028 U+0031 U+0029
-yâa (1)	<???>	yâa (1)	Thai	1	U+0079 U+00e2 U+0061 U+0020 U+0028 U+0031 U+0029
+ɔ̀$	ɔ̀/ɔ	kɔ̀, krɔ̀	Thai	3	U+0254 U+0300 U+0024
+ìs	ì/i s	patìsèet, patìséet	Thai	3	U+00ec U+0073
+ùs	ù/u s	pasùsàt, ?ùsǎa	Thai	3	U+00f9 U+0073
+kw	k w	mâakkwàa, máaykwàat	Thai	3	U+006b U+0077
+ms	m s	sǒmsèt, khamsǎabaan	Thai	2	U+006d U+0073
+-	+	khwaam-ìtchǎa, dinfáa-aakàat	Thai	2	U+002d
+ì$	ì/i	nâaymáyphlì, nítì	Thai	2	U+00ec U+0024
+ps	p s	sìpsɔ̌ɔŋ, sàapsǔun	Thai	2	U+0070 U+0073
+ǐw$	ǐ/i w	hǐw, chǐw	Thai	2	U+01d0 U+0077 U+0024
+ə̀ə̀	ə̀ə̀/əː	rabə̀ə̀t	Thai	1	U+0259 U+0300 U+0259 U+0300
+ǐw	ǐ/i w	hǐwnáam	Thai	1	U+01d0 U+0077
+pp	p p	rûuppân	Thai	1	U+0070 U+0070
+ùw	ù/u w	sùwaan	Thai	1	U+00f9 U+0077
+ə́	ə́/ə	chə́ət	Thai	1	U+0259 U+0301
+è$	è/e	tè	Thai	1	U+00e8 U+0024
+ó$	ó/o	tó	Thai	1	U+00f3 U+0024
+yy	j	sǎyyaa	Thai	1	U+0079 U+0079
+âw$	â/a w	câw	Thai	1	U+00e2 U+0077 U+0024
+^dinfáa-aakàat$	d i n f áa/aː + aː k àa/aː t	dinfáa-aakàat	Thai	1	U+0061 U+0061 U+0061
+nw	n w	phàendinwǎy	Thai	1	U+006e U+0077
 g	g	kronglép	Thai	1	U+0067
-ʉ̀$	ʉ̀	?ʉ̀	Thai	1	U+0289 U+0300 U+0024
-phan (1)	<???>	phan (1)	Thai	1	U+0070 U+0068 U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-náamman (2)	<???>	náamman (2)	Thai	1	U+006e U+00e1 U+0061 U+006d U+006d U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-rúŋ (2)	<???>	rúŋ (2)	Thai	1	U+0072 U+00fa U+014b U+0020 U+0028 U+0032 U+0029
-sùk (2)	<???>	sùk (2)	Thai	1	U+0073 U+00f9 U+006b U+0020 U+0028 U+0032 U+0029
-phan (2)	<???>	phan (2)	Thai	1	U+0070 U+0068 U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-tɔ̀ɔ (1)	<???>	tɔ̀ɔ (1)	Thai	1	U+0074 U+0254 U+0300 U+0254 U+0020 U+0028 U+0031 U+0029
-phaŋ (2)	<???>	phaŋ (2)	Thai	1	U+0070 U+0068 U+0061 U+014b U+0020 U+0028 U+0032 U+0029
-fan (1)	<???>	fan (1)	Thai	1	U+0066 U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-lâa (2)	<???>	lâa (2)	Thai	1	U+006c U+00e2 U+0061 U+0020 U+0028 U+0032 U+0029
-kûu (1)	<???>	kûu (1)	Thai	1	U+006b U+00fb U+0075 U+0020 U+0028 U+0031 U+0029
-phák (1)	<???>	phák (1)	Thai	1	U+0070 U+0068 U+00e1 U+006b U+0020 U+0028 U+0031 U+0029
-tháp (1)	<???>	tháp (1)	Thai	1	U+0074 U+0068 U+00e1 U+0070 U+0020 U+0028 U+0031 U+0029
-bàat (1)	<???>	bàat (1)	Thai	1	U+0062 U+00e0 U+0061 U+0074 U+0020 U+0028 U+0031 U+0029
-kham (2)	<???>	kham (2)	Thai	1	U+006b U+0068 U+0061 U+006d U+0020 U+0028 U+0032 U+0029
-ù$	ù	càtù	Thai	1	U+00f9 U+0024
-loomaa (2)	<???>	loomaa (2)	Thai	1	U+006c U+006f U+006f U+006d U+0061 U+0061 U+0020 U+0028 U+0032 U+0029
-phǐw (1)	<???>	phǐw (1)	Thai	1	U+0070 U+0068 U+01d0 U+0077 U+0020 U+0028 U+0031 U+0029
-khâa (2)	<???>	khâa (2)	Thai	1	U+006b U+0068 U+00e2 U+0061 U+0020 U+0028 U+0032 U+0029
-sàat (3)	<???>	sàat (3)	Thai	1	U+0073 U+00e0 U+0061 U+0074 U+0020 U+0028 U+0033 U+0029
-khɔ̌ɔ (1)	<???>	khɔ̌ɔ (1)	Thai	1	U+006b U+0068 U+0254 U+030c U+0254 U+0020 U+0028 U+0031 U+0029
-waan (2)	<???>	waan (2)	Thai	1	U+0077 U+0061 U+0061 U+006e U+0020 U+0028 U+0032 U+0029
-ìw$	ìw	sìw	Thai	1	U+00ec U+0077 U+0024
-khǎo (1)	<???>	khǎo (1)	Thai	1	U+006b U+0068 U+01ce U+006f U+0020 U+0028 U+0031 U+0029
-dâay (1)	<???>	dâay (1)	Thai	1	U+0064 U+00e2 U+0061 U+0079 U+0020 U+0028 U+0031 U+0029
-bɔ̀ɔ (2)	<???>	bɔ̀ɔ (2)	Thai	1	U+0062 U+0254 U+0300 U+0254 U+0020 U+0028 U+0032 U+0029
-hǔa (2)	<???>	hǔa (2)	Thai	1	U+0068 U+01d4 U+0061 U+0020 U+0028 U+0032 U+0029
-í$	í	mí	Thai	1	U+00ed U+0024
-lǎy (1)	<???>	lǎy (1)	Thai	1	U+006c U+01ce U+0079 U+0020 U+0028 U+0031 U+0029
-sên (1)	<???>	sên (1)	Thai	1	U+0073 U+00ea U+006e U+0020 U+0028 U+0031 U+0029
-kàp (1)	<???>	kàp (1)	Thai	1	U+006b U+00e0 U+0070 U+0020 U+0028 U+0031 U+0029
-sǎan (1)	<???>	sǎan (1)	Thai	1	U+0073 U+01ce U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-rúŋ (1)	<???>	rúŋ (1)	Thai	1	U+0072 U+00fa U+014b U+0020 U+0028 U+0031 U+0029
-่$	<?>	thàankhú่	Thai	1	U+0e48 U+0024
-kan (1)	<???>	kan (1)	Thai	1	U+006b U+0061 U+006e U+0020 U+0028 U+0031 U+0029
-Hw	<?>	kHwaamla?aay	Thai	1	U+0048 U+0077
-kaa (2)	<???>	kaa (2)	Thai	1	U+006b U+0061 U+0061 U+0020 U+0028 U+0032 U+0029
-kaa (1)	<???>	kaa (1)	Thai	1	U+006b U+0061 U+0061 U+0020 U+0028 U+0031 U+0029
-phák (2)	<???>	phák (2)	Thai	1	U+0070 U+0068 U+00e1 U+006b U+0020 U+0028 U+0032 U+0029
-tìt (1)	<???>	tìt (1)	Thai	1	U+0074 U+00ec U+0074 U+0020 U+0028 U+0031 U+0029
-thâa (1)	<???>	thâa (1)	Thai	1	U+0074 U+0068 U+00e2 U+0061 U+0020 U+0028 U+0031 U+0029
-kan (2)	<???>	kan (2)	Thai	1	U+006b U+0061 U+006e U+0020 U+0028 U+0032 U+0029
+ʉ̀$	ʉ̀/ʉ	?ʉ̀	Thai	1	U+0289 U+0300 U+0024
+ù$	ù/u	càtù	Thai	1	U+00f9 U+0024
+ìw$	ì/i w	sìw	Thai	1	U+00ec U+0077 U+0024
+í$	í/i	mí	Thai	1	U+00ed U+0024
+่$	NULL	thàankhú่	Thai	1	U+0e48 U+0024
+^kHw	f	kHwaamla?aay	Thai	1	U+0048 U+0077
+ng	ŋ				
+^pr	p				
+^pl	p				
+9$	NULL				
+^phr	pʰ				
+^phl	pʰ				
+^tr	t				
+^kr	k				
+^kl	k				
+^khr	kʰ				
+^khl	kʰ				
+^kw	f				
+^khw	f				
+ia	ia				
+ua	ua				
+ʉa	ʉa				
+áa	áa/aː				
+àa	àa/aː				
+ìi	ìi/iː				
+ùu	ùu/uː				
+ʉ̀ʉ	ʉ̀ʉ/ʉː				
+íi	íi/iː				
+âa	âa/aː				
+ə́ə	ə́ə/əː				
+èe	èe/eː				
+óo	óo/oː				
+ɔ̀ɔ	ɔ̀ɔ/ɔː				
+ɔ́ɔ	ɔ́ɔ/ɔː				
+ûu	ûu/uː				
+ɔ̂ɔ	ɔ̂ɔ/ɔː				
+òo	òo/oː				
+ôo	ôo/oː				
+ɔ̌ɔ	ɔ̌ɔ/ɔː				
+ée	ée/eː				
+ʉ́ʉ	ʉ́ʉ/ʉː				
+êe	êe/eː				
+ʉ̌ʉ	ʉ̌ʉ/ʉː				
+úu	úu/uː				
+ə̌ə	ə̌ə/əː				
+ə̂ə	ə̂ə/əː				
+ə̀ə	ə̀ə/əː				
+̌	NULL				

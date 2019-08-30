@@ -86,7 +86,7 @@ zh	ʒ	jwizhu	Imbabura Quechua	1	U+007a U+0068
 fs	ɸ s	chafsina	Imbabura Quechua	1	U+0066 U+0073
 pw	p w	impwesto	Imbabura Quechua	1	U+0070 U+0077
 ls	l s	bulsiku	Imbabura Quechua	1	U+006c U+0073
-lll	lll	kailllalla	Imbabura Quechua	1	U+006c U+006c U+006c
+lll	ʒ	kailllalla	Imbabura Quechua	1	U+006c U+006c U+006c
 ^e	e	elefanti	Imbabura Quechua	1	U+005e U+0065
 á	á/a	alakrán	Imbabura Quechua	1	U+00e1
 ^shw	ʃ w	shwiter	Imbabura Quechua	1	U+005e U+0073 U+0068 U+0077
@@ -104,5 +104,6 @@ nr	ŋ ɾ
 np	m b				
 nt	n d				
 nk	ŋ g				
-nch	n ʒ				
+nch	n dʒ				
 mp	m b				
+nts	n dz				

@@ -133,7 +133,7 @@ i	i	wásàm yikko, kə̀náshîm yikko	Kanuri	2	U+0069
 cc	tʃ tʃ	bàccíà	Kanuri	1	U+0063 U+0063
 u	u	kâu kə̀ráttə́ràm	Kanuri	1	U+0075
 àà$	àà/aː	wàltàà	Kanuri	1	U+00e0 U+00e0 U+0024
-^-a$	+a	-a	Kanuri	1	U+005e U+0061 U+0024
+^-a$	+ a	-a	Kanuri	1	U+005e U+0061 U+0024
 ə	ə/ɨ	yəmbò	Kanuri	1	U+0259
 nsh	n ʃ	kə̀nshê	Kanuri	1	U+006e U+0073 U+0068
 ^Á	Á/a	Álà	Kanuri	1	U+005e U+00c1
@@ -155,4 +155,11 @@ psh	p ʃ	tə́pshì	Kanuri	1	U+0070 U+0073 U+0068
 ìs$	ì/i s	kúrìs	Kanuri	1	U+00ec U+0073 U+0024
 âs	â/a s	ngâsô	Kanuri	1	U+00e2 U+0073
 ^ù	ù/u	ùgú	Kanuri	1	U+005e U+00f9
-ə̔	ə̔	kə̔lâbê	Kanuri	1	U+0259 U+0314
+ə̔	ə̔/ə	kə̔lâbê	Kanuri	1	U+0259 U+0314
+ny	ɲ				
+^ny	ɲ				
+ng	ŋ				
+ng$	ŋ				
+ǎ	ǎ/a				
+ǔ	ǔ/u				
+ǒ	ǒ/o				

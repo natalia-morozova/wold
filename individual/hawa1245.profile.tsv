@@ -17,7 +17,16 @@ i$	i	honi, `ohana keiki	Hawaiian	294	U+0069 U+0024
 _	_	`apōpō ā ia lā aku, `ohana keiki	Hawaiian	239	U+005f
 e$	e	`ole, hoe	Hawaiian	225	U+0065 U+0024
 ^h	h	honi, hoe	Hawaiian	219	U+005e U+0068
-^`	NULL	`ole, `ō	Hawaiian	206	U+005e U+0060
+`o	`o/o	`ole, `ō	Hawaiian	206	U+005e U+0060
+`ō	`ō/o				
+`ū	`ū/u				
+`u	`u/u				
+`a	`a/a				
+`ā	`ā/a				
+`ē	`ē/e				
+`ī	`ī/i				
+`i	`i/i				
+`e	`e/e				
 p	p	ho`opunipuni, hopohopo	Hawaiian	205	U+0070
 ^p	p	poepoe, pi`i	Hawaiian	199	U+005e U+0070
 ^m	m	mo`opuna, mana`o	Hawaiian	165	U+005e U+006d
@@ -61,17 +70,17 @@ aa	aː	ka`aahi, pukaaniani	Hawaiian	4	U+0061 U+0061
 t	t	rītaia, Kristo	Hawaiian	2	U+0074
 f	f	tōfū	Hawaiian	1	U+0066
 ^o$	o	o	Hawaiian	1	U+005e U+006f U+0024
-A	A/a	`Aikupika	Hawaiian	1	U+0041
+^`A	`A/a	`Aikupika	Hawaiian	1	U+0041
 ^āh	ā/a h	āhea	Hawaiian	1	U+005e U+0101 U+0068
 ^N	N/n	Nuhōlani	Hawaiian	1	U+005e U+004e
 ^s	s	sawana	Hawaiian	1	U+005e U+0073
 b	b	musubī	Hawaiian	1	U+0062
 ch	tʃ	mōchī	Hawaiian	1	U+0063 U+0068
 ōw	ō/o w	kōwē	Hawaiian	1	U+014d U+0077
-^r	r	rītaia	Hawaiian	1	U+005e U+0072
+^r	ɹ	rītaia	Hawaiian	1	U+005e U+0072
 ^M	M/m	Menehune	Hawaiian	1	U+005e U+004d
 ^ū$	ū/u	ū	Hawaiian	1	U+005e U+016b U+0024
-r	r	Kristo	Hawaiian	1	U+0072
+r	ɹ	Kristo	Hawaiian	1	U+0072
 ^ā$	ā/a	ā	Hawaiian	1	U+005e U+0101 U+0024
 ^H	H/h	Helene	Hawaiian	1	U+005e U+0048
 ^a$	a	a	Hawaiian	1	U+005e U+0061 U+0024

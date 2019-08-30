@@ -1,12 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(1)	NULL				
-(2)	NULL				
-(3)	NULL				
 a	a	zama-zamalliʔ, saq’dari	Bezhta	694	U+0061
 -	+	-ow-, -ox-	Bezhta	568	U+002d
-’	<?>	k’ok’ōɬi, -äq’q’ö	Bezhta	517	U+2019
 i	i	bikinab, t’ibit’izi -ow-	Bezhta	461	U+0069
 o	o	tormoz bowo-, c’oɬiyo ek’eyoɬi	Bezhta	390	U+006f
 o$	o	wodo, aqo	Bezhta	268	U+006f U+0024
@@ -15,7 +11,7 @@ _	_	inkar bow-, enekzi -aq-	Bezhta	221	U+005f
 l	l	mašinalis nomerla, halaɬcolāq	Bezhta	195	U+006c
 a$	a	soyya, ƛ’isa-	Bezhta	191	U+0061 U+0024
 ä	æ	räʔäl, häymän	Bezhta	184	U+00e4
-y	y	kayƛoyo, q’eyas t’iyo	Bezhta	178	U+0079
+y	j	kayƛoyo, q’eyas t’iyo	Bezhta	178	U+0079
 k	k	äkö, inkar bow-	Bezhta	171	U+006b
 u	u	muk’ur -aq-, ɣuɣluƛ’a -ece-	Bezhta	151	U+0075
 n	n	kantinent, inkar bow-	Bezhta	151	U+006e
@@ -36,7 +32,6 @@ m	m	k’ihmat, ömrö b-ow-	Bezhta	99	U+006d
 e$	e	mäče, -ĩze-	Bezhta	87	U+0065 U+0024
 l$	l	räʔäl, qal	Bezhta	78	U+006c U+0024
 ^q	q	qal, q’ō	Bezhta	74	U+005e U+0071
-’$	<?>	c’it’, -ähk’-	Bezhta	72	U+2019 U+0024
 č	tʃ	qäč’č’ö, mäče	Bezhta	71	U+010d
 z	z	-ĩze-, enekzi -aq-	Bezhta	67	U+007a
 ɬ	ɬ	-ẽɬeyo, c’oɬiyo ek’eyoɬi	Bezhta	67	U+026c
@@ -57,7 +52,7 @@ w$	w	-ow-, inkar bow-	Bezhta	48	U+0077 U+0024
 ^ƛ	tɬ	ƛ’odo, ƛiyo	Bezhta	48	U+005e U+019b
 ü	y	müɣättǟ -üƛ’-, müštük’	Bezhta	47	U+00fc
 ^c	ts	c’it’, c’uyab	Bezhta	46	U+005e U+0063
-^y	y	yuƛ’o, yiga-	Bezhta	45	U+005e U+0079
+^y	j	yuƛ’o, yiga-	Bezhta	45	U+005e U+0079
 ^s	s	saʔat, soyya	Bezhta	44	U+005e U+0073
 ^p	p	peč, p’alt’o	Bezhta	44	U+005e U+0070
 b$	b	bikinab, aq’ilab	Bezhta	44	U+0062 U+0024
@@ -80,7 +75,7 @@ q$	q	enekzi -aq-, muk’ur -aq-	Bezhta	27	U+0071 U+0024
 ^d	d	dursa, dibit’o	Bezhta	25	U+005e U+0064
 ^ɬ	ɬ	ɬi, ɬiyac’-	Bezhta	25	U+005e U+026c
 ^g	g	got’, graždanin	Bezhta	25	U+005e U+0067
-y$	y	haboy, qartay	Bezhta	23	U+0079 U+0024
+y$	j	haboy, qartay	Bezhta	23	U+0079 U+0024
 ^ɣ	ɣ	ɣanq’izi -owo-, ɣaɣ	Bezhta	21	U+005e U+0263
 ^e	e	enekzi -aq-, -eze-	Bezhta	21	U+005e U+0065
 ^r	r	räʔäl, rähäy	Bezhta	21	U+005e U+0072
@@ -88,7 +83,7 @@ k$	k	ƛ’oddāk-, ẽdok-	Bezhta	19	U+006b U+0024
 ẽ	ẽ	kẽyã, bat’a -ẽye-	Bezhta	18	U+1ebd
 ƛ$	tɬ	niƛ-, -öƛ-	Bezhta	18	U+019b U+0024
 ^õ	õ	-õso-, õx gähiyo	Bezhta	16	U+005e U+00f5
-^äᵑ	æᵑ	äᵑydā, äᵑydǟ	Bezhta	16	U+005e U+00e4 U+1d51
+^äᵑ	æ̃	äᵑydā, äᵑydǟ	Bezhta	16	U+005e U+00e4 U+1d51
 ā$	aː	niq’ā, cixā	Bezhta	16	U+0101 U+0024
 ^ẽ	ẽ	-ẽye-, -ẽɬeyo	Bezhta	16	U+005e U+1ebd
 ^w	w	wodo, waʔza bow-	Bezhta	16	U+005e U+0077
@@ -116,7 +111,7 @@ h$	h	nagah, moh	Bezhta	7	U+0068 U+0024
 ǟ$	æː	mǟ, xöwǟ-	Bezhta	6	U+01df U+0024
 ō$	oː	q’ō, kō	Bezhta	6	U+014d U+0024
 m$	m	hem, ädäm	Bezhta	6	U+006d U+0024
-^ü	ü	-üč’-, -üxöɬ-	Bezhta	6	U+005e U+00fc
+^ü	y	-üč’-, -üxöɬ-	Bezhta	6	U+005e U+00fc
 ã	ã	hãq’q’ana, ʔãʔũ	Bezhta	6	U+00e3
 c$	ts	kupec, aboc	Bezhta	6	U+0063 U+0024
 ō	oː	k’ok’ōɬi, nukōɬi	Bezhta	6	U+014d
@@ -125,13 +120,13 @@ rh	r h	bet’erhan, Bet’erhan	Bezhta	6	U+0072 U+0068
 ž$	ʒ	äᵑž, xarž	Bezhta	5	U+017e U+0024
 kk	k k	okko, kikko	Bezhta	5	U+006b U+006b
 cc	ts ts	-ẽccak’-, waccal	Bezhta	5	U+0063 U+0063
-yy	y y	k’öyyä, soyya	Bezhta	5	U+0079 U+0079
+yy	j j	k’öyyä, soyya	Bezhta	5	U+0079 U+0079
 ƛƛ	tɬ tɬ	koƛƛo, yaƛƛokos	Bezhta	5	U+019b U+019b
 ã$	ã	kẽyã, c’ãʔã	Bezhta	4	U+00e3 U+0024
 ās$	aː s	aboddās, iyoddās	Bezhta	4	U+0101 U+0073 U+0024
 üw	y w	häq’üwä, püwä-	Bezhta	4	U+00fc U+0077
 g$	g	õg, šag	Bezhta	4	U+0067 U+0024
-öᵑ	œᵑ	yöᵑtö, höᵑššöna	Bezhta	3	U+00f6 U+1d51
+öᵑ	œ̃	yöᵑtö, höᵑššöna	Bezhta	3	U+00f6 U+1d51
 tt	t t	müɣättǟš, müɣättǟ -üƛ’-	Bezhta	3	U+0074 U+0074
 ās	aː s	emedās mex, õq’q’aʔdās mäče	Bezhta	3	U+0101 U+0073
 nn	n n	panidennik, dunnal	Bezhta	3	U+006e U+006e
@@ -140,16 +135,15 @@ nn	n n	panidennik, dunnal	Bezhta	3	U+006e U+006e
 šš	ʃ ʃ	-äᵑššö, höᵑššöna	Bezhta	3	U+0161 U+0161
 rr	r r	hörrä-, örrä	Bezhta	2	U+0072 U+0072
 ī$	ī	q’ī, kalaɣas q’ī	Bezhta	2	U+012b U+0024
-^öᵑ	œᵑ	öᵑq’önä, öᵑq”öbuƛ’o	Bezhta	2	U+005e U+00f6 U+1d51
+^öᵑ	œ̃	öᵑq’önä, öᵑq”öbuƛ’o	Bezhta	2	U+005e U+00f6 U+1d51
 rs	r s	dursa	Bezhta	2	U+0072 U+0073
 ^ũ	ũ	-ũco-, -ũcola-	Bezhta	2	U+005e U+0169
-”	<?>	-õq”o-, öᵑq”öbuƛ’o	Bezhta	2	U+201d
-üᵑ	yᵑ	k’äy -üᵑxö-, k’äy -üᵑxöl-	Bezhta	2	U+00fc U+1d51
-öᵑw	œᵑ w	q’eyas ƛöᵑwä, ƛöᵑwä	Bezhta	2	U+00f6 U+1d51 U+0077
+q”	qʼ	-õq”o-, öᵑq”öbuƛ’o	Bezhta	2	U+201d
+üᵑ	ỹ	k’äy -üᵑxö-, k’äy -üᵑxöl-	Bezhta	2	U+00fc U+1d51
+öᵑw	œ̃ w	q’eyas ƛöᵑwä, ƛöᵑwä	Bezhta	2	U+00f6 U+1d51 U+0077
 ‘	ʕ	möƛ‘ö, ɬiq‘ol-	Bezhta	2	U+2018
 äh$	æ h	yaraɣ-mätäh, däh	Bezhta	2	U+00e4 U+0068 U+0024
-’s	<?>	taq’sir mẽxe-, taq’sirɬi	Bezhta	2	U+2019 U+0073
-äᵑ	æᵑ	ʔäᵑʔäᵑla-	Bezhta	2	U+00e4 U+1d51
+äᵑ	æ̃	ʔäᵑʔäᵑla-	Bezhta	2	U+00e4 U+1d51
 v	v	atvyorka, četverg	Bezhta	2	U+0076
 ^ʔ	ʔ	ʔãʔũ, ʔäᵑʔäᵑla-	Bezhta	2	U+005e U+0294
 öw	œ w	xöwǟ-, ɬöwa-	Bezhta	2	U+00f6 U+0077
@@ -157,30 +151,29 @@ mm	m m	ƛämmö, tammako	Bezhta	2	U+006d U+006d
 ĩ	ĩ	yĩza, hĩxɬ-	Bezhta	2	U+0129
 ^üw	y w	-üwö-, -üwö	Bezhta	2	U+005e U+00fc U+0077
 ũ$	ũ	ʔãʔũ	Bezhta	1	U+0169 U+0024
-oo	o o	käčeɬiyooɬi	Bezhta	1	U+006f U+006f
-ūᵑ$	uᵑː	c’ūᵑ	Bezhta	1	U+016b U+1d51 U+0024
+oo	oː	käčeɬiyooɬi	Bezhta	1	U+006f U+006f
+ūᵑ$	ũː	c’ūᵑ	Bezhta	1	U+016b U+1d51 U+0024
 ^B	B/b	Bet’erhan	Bezhta	1	U+005e U+0042
 ^A	A/a	Allah	Bezhta	1	U+005e U+0041
 ī	iː	nīyo	Bezhta	1	U+012b
-th$	th	month	Bezhta	1	U+0074 U+0068 U+0024
+^boco$	b o ts o	month	Bezhta	1	U+0074 U+0068 U+0024
 bs	b s	habsaʔat	Bezhta	1	U+0062 U+0073
-ȫᵑ$	œ̃ ᵑ	xȫᵑ	Bezhta	1	U+022b U+1d51 U+0024
-^īᵑ$	iᵑː	īᵑ	Bezhta	1	U+005e U+012b U+1d51 U+0024
+ȫᵑ$	œ̃ː	xȫᵑ	Bezhta	1	U+022b U+1d51 U+0024
+^īᵑ$	ĩː	īᵑ	Bezhta	1	U+005e U+012b U+1d51 U+0024
 ^ʔ$	ʔ	-ʔ	Bezhta	1	U+005e U+0294 U+0024
-’w	<?>	wič’wič’o	Bezhta	1	U+2019 U+0077
-ee	e e	green	Bezhta	1	U+0065 U+0065
+^ničdiyo$	n i tʃ d i j o	green	Bezhta	1	U+0065 U+0065
 ẽ$	ẽ	hẽ	Bezhta	1	U+1ebd U+0024
-āᵑ$	aᵑː	cāᵑ	Bezhta	1	U+0101 U+1d51 U+0024
+āᵑ$	ãː	cāᵑ	Bezhta	1	U+0101 U+1d51 U+0024
 zz	z z	ezzeʔan	Bezhta	1	U+007a U+007a
 ĩ$	ĩ	hĩ	Bezhta	1	U+0129 U+0024
-ii	ii	-äᵑčiic’l-	Bezhta	1	U+0069 U+0069
+ii	iː	-äᵑčiic’l-	Bezhta	1	U+0069 U+0069
 ^öh	œ h	öhdä-	Bezhta	1	U+005e U+00f6 U+0068
-^äᵑh	æᵑ h	äᵑheyo	Bezhta	1	U+005e U+00e4 U+1d51 U+0068
+^äᵑh	æ̃ h	äᵑheyo	Bezhta	1	U+005e U+00e4 U+1d51 U+0068
 ^ī	iː	-īqo-	Bezhta	1	U+005e U+012b
 p$	p	pöp	Bezhta	1	U+0070 U+0024
 ^f	f	ftornik	Bezhta	1	U+005e U+0066
-ūᵑ	uᵑː	ɬūᵑs ɣeč’i	Bezhta	1	U+016b U+1d51
-üᵑ$	yᵑ	ɬüᵑ	Bezhta	1	U+00fc U+1d51 U+0024
+ūᵑ	ũː	ɬūᵑs ɣeč’i	Bezhta	1	U+016b U+1d51
+üᵑ$	ỹ	ɬüᵑ	Bezhta	1	U+00fc U+1d51 U+0024
 xx	x x	-ixxo	Bezhta	1	U+0078 U+0078
 ss	s s	qusso	Bezhta	1	U+0073 U+0073
 ns	n s	insan	Bezhta	1	U+006e U+0073
