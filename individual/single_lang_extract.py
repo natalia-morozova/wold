@@ -6,6 +6,7 @@ Extract single language data (for English and Dutch).all
 
 from collections import defaultdict
 import csv
+import re
 
 # PROFILE FOR CELEX
 PROFILE_EN = {
@@ -115,7 +116,7 @@ PROFILE_NL = {
 }
 
 # PATH TO CELEX
-CELEX_PATH = "/home/tresoldi/ownCloud/CALC/Data/celex2"
+CELEX_PATH = "/home/tresoldi/celex2"
 
 def apply_profile(text, profile):
     text = text.replace("[", "")
@@ -162,6 +163,135 @@ def read_celex(filename, profile, ortho, phono):
     
     return transcr
                 
+# exceptions
+EN_TRANSCRIPT = {
+    "unripe" : "ʌ n r aɪ p",
+    "untie": "ʌ n t aɪ",
+    }
+DU_TRANSCRIPT = {
+    "geitje": "x ɛi t j ə",
+    "inwijdingsplechtigheid":"ɪ n ʋ ɛi d ɪ ŋ s p l ɛ x t ə x h ɛi t",
+    "banyan":"b ɑ n j a n",
+    "lichaamshaar":"l ɪ x aː m s h aː r",
+    "mannetjes-":"m ɑ n ə t j ə s",
+    "outrigger":"ɑu t r i ɣ ə r",
+  "tatoeëring":"t a t u eː r ɪ ŋ",
+    "wc": "ʋ eɪ s eɪ",
+
+}
+
+# replace for missing forms
+EN_REPL = {
+  "(be) silent" : "silent",
+  "(finger)nail" : "nail", 
+  "(good) luck" : "luck",
+  "(sea)gull" : "gull",
+  "(sting)ray" : "ray",
+  "(tree-)stump" : "stump",
+  "chili (pepper)" : "chilli",
+  "judgment" : "judgement",
+  "molar (tooth)" : "molar",
+  "petrol(eum)" : "petrol",
+  "temple(s)" : "temple",
+  "wake (up)" : "wake",
+  "wood(s)" : "wood",
+  "banyan" : "banian",
+  "hankie" : "hanky",
+  "hiccough" : "hiccup",
+  "how?" : "how",
+  "what?":"what",
+  "when?":"when",
+  "where?":"where",
+  "which?":"which",
+  "who?":"who",
+  "why?":"why",
+  
+  "be born" : ["be", "born", False],
+  "birth certificate" : ["birth", "certificate", False],
+  "driving licence" : ["driving", "licence", False],
+  "fishing line" : ["fishing", "line", False],
+  "fishing net": ["fishing", "net", False],
+  "grass-skirt": ["grass", "skirt", False],
+  "how many?" : ["how", "many", False],
+  "how much?" : ["how", "much", False],
+  "in front of": ["in", "front","of", False],
+  "let go":["let", "go", False],
+  "lightning bolt":["lightning", "bolt", False],
+  "make love":["make", "love", False],
+  "number plate":["number", "plate", False],
+  "pubic hair":["pubic", "hair", False],
+  "sugar cane":["sugar","cane", False],
+  "to last":["to", "last", False],
+  "tree trunk":["tree", "trunk", False],
+  "turn around":["turn", "around", False],
+  "doorpost" : ["door", "post", True],
+  "fishhook" : ["fish", "hook", True],
+  "netbag" : ["net", "bag", True],
+  "shoulderblade":["shoulder", "blade", True],
+}
+DU_REPL = {
+  "aan land gaan" : ["aan", "land", "gaan", False],
+  "alcoholische drank" : ["alcoholische", "drank", False],
+  "bos(je)" : "bos",
+  "dakspar" : ["dak", "spar", True],
+  "dennenappel" : ["dennen", "appel", True],
+  "dorst hebben" : ["dorst", "hebben", False],
+  "een scheet laten" : ["een", "scheet", "laten", False],
+  "gaan liggen" : ["gaan", "liggen", False],
+  "geboren worden" : ["geboren", "worden", False],
+  "getij(de)" : "getij",
+  "getrouwde man" : ["getrouwde", "man", False],
+  "getrouwde vrouw" : ["getrouwde", "vrouw", False],
+  "gevorkte tak" : ["gevorkte", "tak", False],
+  "grasrokje" : ["gras", "rokje", True],
+  "honger hebben" : ["honger", "hebben", False],
+  "houden van": ["houden", "van", False],
+  "in dienst nemen": ["in", "dienst", "nemen", False],
+  "koelte toewaaien" : ["koelte", "toewaaien", False],
+  "laat zijn" : ["laat", "zijn", False],
+  "laten vallen" : ["laten", "vallen", False],
+  "lemen baksteen" : ["lemen", "baksteen", False],
+  "maniokbrood" : ["maniok", "brood", True],
+  "naar beneden" : ["naar", "beneden", False],
+  "naar beneden gaan": ["naar", "beneden", "gaan", False],
+  "naar boven gaan" : ["naar", "boven", "gaan", False],
+  "naar huis gaan":["naar", "huis", "gaan", False],
+  "rode peper" :["rode", "peper", False],
+  "ruggengraat" : ["ruggen", "graat", True],
+  "schoonkind":["schoon", "kind", True],
+  "schuldig zijn":["schuldig", "zijn", False],
+  "seks hebben":["seks", "hebben", False],
+  "sle(d)e":"slede",
+  "spijt hebben":["spijt","hebben", False],
+  "water putten":["water", "putten", False],
+  "wild zwijn":["wild","zwijn", False],
+  "zich haasten":["zich","haasten", False],
+  "zich herinneren":["zich","herinneren", False],
+  "zich omdraaien":["zich","omdraaien",False],
+  "zich overgeven":["zich","overgeven", False],
+  "zich terugtrekken":["zich","terugtrekken", False],
+  "zoete aardappel":["zoete","aardappel", False],
+  "zus(ter)":"zus",
+  "zwanger worden":["zwanger","worden", False],
+  
+  "graafstok" : ["graaf", "stok", True],
+  "initiatieplechtigheid" : ["initiatie", "plechtigheid", True],
+  "inwijdingsplechtigheid" : ["inwijding", "plechtigheid", True],
+  "insect":"insekt",
+  
+  "maïs":"mais",
+  "nettas":["net", "tas", False],
+  "paddenstoel":["padden", "stoel", True],
+  "schroevendraaier":["schroeven", "draaier", True],
+  "vergaderhuis":["vergader", "huis", True],
+  "vissengif":["vissen","gif",True],
+  "voetafdruk":["voet", "afdruk", True],
+  
+  "vrouwtjes-": "vrouwtjes",
+
+
+
+}
 
 def main(ref, lang_id, output_file, lang_name):
     with open("../cldf/forms.csv") as csvfile:
@@ -171,14 +301,46 @@ def main(ref, lang_id, output_file, lang_name):
             if row['Language_ID'] == lang_id
         ]
     
+    # Which replacement dict to use
+    if lang_id == "13":
+        REPLACEMENT = EN_REPL
+        TRANSCRIPT = EN_TRANSCRIPT
+    else:
+        REPLACEMENT = DU_REPL
+        TRANSCRIPT = DU_TRANSCRIPT
+   
     transcr = {}
     for form in data:
-        # clean form for transcription
-        clean_form = form.replace("(1)", "")
-        clean_form = clean_form.replace("(2)", "")
-        clean_form = clean_form.strip()
+        if form in TRANSCRIPT:
+            transcr[form] = [TRANSCRIPT[form]]
+            continue
     
-        transcr[form] = list(set(ref.get(clean_form, ['???'])))
+        # Run replacements
+        if form in REPLACEMENT:
+            form_to_use = REPLACEMENT[form]
+        else:
+            form_to_use = form
+
+        if isinstance(form_to_use, list):
+            phonos = [ref.get(sub_form, ['???']) for sub_form in form_to_use[:-1]]
+            phonos = [list(set(ph))[0] for ph in phonos]
+            
+            if form_to_use[-1]:
+                phono = [' '.join(phonos)]
+            else:
+                phono = [' # '.join(phonos)]
+        else:
+            # clean form for transcription
+            clean_form = form_to_use.replace("(1)", "")
+            clean_form = clean_form.replace("(2)", "")
+            clean_form = clean_form.replace("(3)", "")
+            clean_form = clean_form.strip()
+        
+            phono = list(set(ref.get(clean_form, ['???'])))
+            if len(phono) > 1:
+                phono = [phono[0]]
+    
+        transcr[form] = phono
 
     # output
     with open(output_file, 'w') as handler:
