@@ -1,0 +1,131 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+^	NULL
+^a	a
+^a$	a
+^b	b
+^d	d
+^dj	ɟ
+^f	f
+^g	g
+^gb	gb
+^h	h
+^i$	i
+^j	j
+^k	k
+^kp	kp
+^kw	kʷ
+^l	l
+^m	m
+^mb	mb
+^mösimö́si$	m ö/ɔ s i m ö́/ɔ s i
+^n	n
+^nd	nd
+^ng	ŋɡ
+^nj	ɲ
+^o	o
+^p	p
+^s	s
+^t	t
+^tj	c
+^u	u
+^u$	u
+^v	v
+^w	w
+^z	z
+^á	á/a
+^é	é/e
+^ë́	ë́/ɛ
+^ó	ó/o
+^ú	ú/u
+_	_
+a	a
+a$	a
+aa	aː
+aa$	aː
+b	b
+d	d
+dj	ɟ
+e	e
+e$	e
+ee	eː
+ee$	eː
+f	f
+g	g
+gb	gb
+h	h
+i	i
+i$	i
+ii	iː
+j	j
+k	k
+kp	kp
+kw	kʷ
+l	l
+m	m
+m$	m
+mb	mb
+n	n
+n$	n
+nd	nd
+ndj	ɲɟ
+ng	ŋɡ
+nh	n h
+nj	ɲ
+ns	n s
+nw	n w
+o	o
+o$	o
+oo	oː
+oo$	oː
+p	p
+s	s
+t	t
+tj	c
+u	u
+u$	u
+uu	uː
+v	v
+w	w
+z	z
+á	á/a
+á$	á/a
+áá	áː/aː
+é	é/e
+é$	é/e
+és	é/e s
+éw	é/e w
+éé	éː/eː
+ë	ë/ɛ
+ë$	ë/ɛ
+ës	ë/ɛ s
+ëë	ëː/ɛː
+ë́	ë́/ɛ
+ë́$	ë́/ɛ
+ë́s	ë́/ɛ s
+ë́w	ë́/ɛ w
+ë́ë́	ë́ː/ɛː
+í	í/i
+í$	í/i
+íí	íː/iː
+íí$	íː/iː
+ó	ó/o
+ó$	ó/o
+óh	ó/o h
+ós	ó/o s
+ów	ó/o w
+óó	óː/oː
+ö	ö/ɔ
+ö$	ö/ɔ
+ös	ö/ɔ s
+öö	öː/ɔː
+ö́	ö́/ɔ
+ö́$	ö́/ɔ
+ö́s	ö́/ɔ s
+ö́w	ö́/ɔ w
+ö́ö́	ö́/ɔ
+ú	ú/u
+ú$	ú/u
+úú	úː/uː

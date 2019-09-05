@@ -1,0 +1,140 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+-	+
+^	NULL
+^a	a
+^b	b
+^c	k
+^ce	tʃ e
+^ch	k
+^ci	tʃ i
+^d	d
+^e	e
+^f	f
+^g	g
+^gh	g
+^h	h
+^i	i
+^j	ʒ
+^l	l
+^m	m
+^n	n
+^o	o
+^o$	o
+^p	p
+^poncho$	p o n tʃ o
+^r	r
+^s	s
+^t	t
+^u	u
+^v	v
+^z	z
+^î	ɨ
+^ş	ʃ
+^ţ	ts
+_	_
+a	a
+a$	a
+b	b
+b$	b
+bi$	bʲ
+bs	b s
+c	k
+c$	k
+cc	ks
+ce	tʃ e
+ce$	tʃ e
+ch	k
+chi$	kʲ
+ci	tʃ i
+ci$	tʃʲ
+d	d
+d$	d
+di$	dʲ
+e	e
+e$	e
+ee	e e
+ee$	e e
+f	f
+f$	f
+fi$	fʲ
+g	g
+g$	g
+ge	dʒ
+ge$	dʒ
+gh	g
+ghi$	gʲ
+gi	dʒ
+gi$	dʒʲ
+h	h
+h$	h
+hi$	hʲ
+i	i
+i$	i
+ii	i j
+ii$	i
+j	ʒ
+j$	ʒ
+ji$	ʒʲ
+k	k
+k$	k
+l	l
+l$	l
+li$	lʲ
+ls$	l s
+m	m
+m$	m
+mi$	mʲ
+n	n
+n$	n
+ng	ŋ g
+ng$	ŋ g
+nh	n h
+ni$	nʲ
+ns	n s
+ns$	n s
+o	o
+o$	o
+p	p
+p$	p
+pi$	pʲ
+ps	p s
+r	r
+r$	r
+ri$	rʲ
+rs	r s
+rs$	r s
+s	s
+s$	s
+si$	sʲ
+t	t
+t$	t
+ti$	tʲ
+u	u
+u$	u
+v	v
+v$	v
+vi$	vʲ
+x	ks
+x$	k
+z	z
+z$	z
+zi$	zʲ
+â	ɨ
+âs	ɨ s
+î	ɨ
+î$	ɨ
+ú	ú/u
+ă	ə
+ă$	ə
+ăs	ə s
+ş	ʃ
+ş$	ʃ
+şi$	ʃʲ
+ţ	ts
+ţ$	ts
+ţi$	tsʲ
+ǎ	ə
+ǎ$	ə

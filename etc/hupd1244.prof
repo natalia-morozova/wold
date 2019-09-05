@@ -1,0 +1,184 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+-	
+^	NULL
+^b	b
+^b’	b’
+^c	c
+^c’	c’
+^d	d
+^d’	d’
+^g	g
+^g’	g’
+^h	h
+^j	ɟ
+^j’	ɟ’
+^k	k
+^kw	k w
+^m	m
+^m’	m’
+^n	n
+^n’	n’
+^p	p
+^p’	p’
+^t	t
+^v	v
+^w	w
+^w’	w’
+^y	j
+^y’	j’
+^ʔ	ʔ
+_	_
+a	a
+a$	a
+b	b
+b$	b
+bw	b w
+b’	b’
+b’$	b’
+c	c
+c$	c
+cc	c + c
+c’	c’
+d	d
+d$	d
+dh	dh
+d’	d’
+e	e
+e$	e
+g	g
+g$	g
+gh	g + h
+g’	g’
+h	h
+h$	h
+hh	h + h
+hw	h + w
+i	i
+i$	i
+j	ɟ
+j$	ɟ
+j’	ɟ’
+k	k
+k$	k
+kk	k + k
+kw’	k w’
+m	m
+m$	m
+mh	m + h
+m’	m’
+n	n
+n$	n
+nh	n h
+n’	n’
+n’$	n’
+o	o
+o$	o
+p	p
+p$	p
+ph	p + h
+pw	p + w
+r	r
+t	t
+t$	t
+u	u
+u$	u
+v	v
+w	w
+w$	w
+ww	w + w
+w’	w’
+w’$	w’
+y	j
+y$	j
+yy	j + j
+y’	j’
+á	á/a
+á$	á/a
+ã	ã
+ã$	ã
+ã´	ã´/ã
+ãˇ$	ãˇ/ã
+æ	æ
+æ$	æ
+æ̃	æ̃
+æ̃´	æ̃´/æ̃
+æ̌	æ̌/æ
+ç	ç
+ç$	ç
+é	é/e
+é$	é/e
+éw$	é/e w
+í	í/i
+í$	í/i
+ñ	ñ
+ó	ó/o
+ó$	ó/o
+óh$	ó/o h
+ów	ó/o w
+ów’$	ó/o w’
+õ	õ
+õ´	õ´/õ
+ú	ú/u
+ú$	ú/u
+ě	ě/e
+ěh	ě/e h
+ěh$	ě/e h
+ěw$	ě/e w
+ĩ	ĩ
+ĩ´	ĩ´/ĩ
+ŋ	ŋ
+ŋ$	ŋ
+ŋw	ŋ + w
+ũ	ũ
+ũ$	ũ
+ũ´	ũ´/ũ
+ũ´$	ũ´/ũ
+ǎ	ǎ/a
+ǎh	ǎ/a h
+ǎh$	ǎ/a h
+ǎw$	ǎ/a w
+ǐ	ǐ/i
+ǐh	ǐ/i h
+ǐh$	ǐ/i h
+ǐw$	ǐ/i w
+ǒ	ǒ/o
+ǔ	ǔ/u
+ǔh	ǔ/u h
+ǔh$	ǔ/u h
+ǔw$	ǔ/u w
+ǝ	ǝ
+ǽ	ǽ/æ
+ǽ$	ǽ/æ
+ǽw$	ǽ/æ w
+ɔ	ɔ
+ɔ$	ɔ
+ɔ́	ɔ́/ɔ
+ɔ́$	ɔ́/ɔ
+ɔ̃	ɔ̃
+ɔ̃$	ɔ̃
+ɔ̃´	ɔ̃´/ɔ̃
+ɔ̃´$	ɔ̃´/ɔ̃
+ɔ̃ˇ	ɔ̃ˇ/ɔ̃
+ɔ̌	ɔ̌/ɔ
+ə́	ə́/ə
+ə̌	ə̌/ə
+ɨ	ɨ
+ɨ$	ɨ
+ɨ´	ɨ´/ɨ
+ɨ́	ɨ́/ɨ
+ɨ́$	ɨ́/ɨ
+ɨ̃	ɨ̃
+ɨ̃´	ɨ̃´/ɨ̃
+ɨ̌	ɨ̌/ɨ
+ʔ	ʔ
+ʔ$	ʔ
+ʔh	ʔ + h
+ʔw’	ʔ + w’
+ˇ	NULL
+ˇh	ˇh/h
+ˇh$	ˇh/h
+ẽ	ẽ
+ẽ´$	ẽ´/ẽ

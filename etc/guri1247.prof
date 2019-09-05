@@ -1,0 +1,62 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+-	+
+.	_
+^	NULL
+^-ngka	+ n g k a
+^j	j
+^k	k
+^l	l
+^m	m
+^n	n
+^ng	ŋ
+^ny	ɲ
+^p	p
+^r	r
+^t	t
+^w	w
+^y	y
+_	_
+a	a
+a$	a
+aa	a a
+g	g
+g$	g
+gw	g w
+i	i
+i$	i
+ii	ii
+j	j
+j$	j
+k	k
+k$	k
+kk	k k
+l	l
+l$	l
+lw	l w
+m	m
+m$	m
+n	n
+n$	n
+ng	ŋ
+ng$	ŋ
+nn	n n
+ny	ɲ
+ny$	ɲ
+p	p
+p$	p
+r	r
+rr	r r
+rr$	r r
+rw	r w
+t	t
+t$	t
+u	u
+u$	u
+uu	u u
+w	w
+y	y
+{} LOCATVE$	NULL
+{} with	NULL

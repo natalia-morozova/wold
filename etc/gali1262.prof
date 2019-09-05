@@ -1,0 +1,94 @@
+Grapheme	IPA
+$	NULL
+'a$	ʔ a
+'e	ʔ e
+'e$	ʔ e
+'i$	ʔ I
+'k	ʔ k
+'m	ʔ m
+'n	ʔ n
+'p	ʔ p
+'t	ʔ t
+'u	ʔ u
+(	NULL
+)	NULL
+-	+
+.	NULL
+^	NULL
+^a	a
+^b	b
+^c	c
+^d	d
+^e	e
+^f	f
+^i	i
+^j	j
+^k	k
+^kw	kʷ
+^l	l
+^m	m
+^n	n
+^o	o
+^p	p
+^r	ɾ
+^s	s
+^t	t
+^u	u
+^v	v
+^w	w
+^y	j
+^z	z
+^ï	ɯ
+^ɨ	ɨ
+_	_
+a	a
+a$	a
+b	b
+c	c
+ch	ʃ
+d	d
+e	e
+e$	e
+f	f
+g	g
+g$	g
+i	i
+i$	i
+ii$	iː
+k	k
+l	l
+l$	l
+ll	lː
+lw	l w
+m	m
+n	n
+n$	n
+nn$	nː
+ns	n s
+o	o
+o$	o
+p	p
+q	q
+r	ɾ
+r$	ɾ
+s	s
+s$	s
+t	t
+t$	t
+tt	tː
+u	u
+u$	u
+v	v
+w	w
+y	j
+z	z
+z$	z
+è	è/e
+é	é/e
+é$	é/e
+ï$	ɯ
+ɨ	ɨ
+ɨ$	ɨ
+’	ʔ
+’s	ʔ s
+’w	ʔ w

@@ -1,0 +1,130 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+-	+
+^	NULL
+^A	A/a
+^B	B/ɓ
+^H	H/h
+^I	I/i
+^J	J/dʒ
+^M	M/m
+^a	a
+^b	ɓ
+^bw	ɓ w
+^ch	tʃ
+^d	ɗ
+^dh	ð
+^e	e
+^f	f
+^g	ɠ
+^gh	ɣ
+^h	h
+^i	i
+^j	dʒ
+^k	k
+^kw	k w
+^l	l
+^m	m
+^mb	ᵐb
+^mh	m h
+^mm	m m
+^ms	m s
+^msh	m ʃ
+^mv	ᶬv
+^mw	m w
+^n	n
+^nd	ⁿd
+^ng	ᵑɡ
+^ng’	ŋ
+^nj	ⁿdʒ
+^ny	ɲ
+^nz	ⁿz
+^o	o
+^p	p
+^pw	p w
+^r	r
+^s	s
+^sh	ʃ
+^shw	ʃ w
+^sw	s w
+^t	t
+^th	θ
+^tw	t w
+^u	u
+^v	v
+^w	w
+^y	j
+^z	z
+_	_
+a	a
+a$	a
+aa	aː
+aa$	aː
+b	ɓ
+bw	ɓ w
+ch	tʃ
+chw	tʃ w
+d	ɗ
+dh	ð
+dw	ɗ w
+e	e
+e$	e
+ee$	eː
+f	f
+g	ɠ
+gh	ɣ
+gw	ɠ w
+h	h
+i	i
+i$	i
+ii	iː
+ii$	iː
+j	dʒ
+jw	dʒ w
+k	k
+k$	k
+kh$	x
+ks	k s
+ksh	k ʃ
+kw	k w
+l	l
+lh	l h
+m	m
+mb	ᵐb
+msh	m ʃ
+mv	ᶬv
+mw	m w
+n	n
+nd	ⁿd
+ng	ᵑɡ
+ng’	ŋ
+nj	ⁿdʒ
+nn	n n
+ns	n s
+nw	n w
+ny	ɲ
+nz	ⁿz
+o	o
+o$	o
+oo	oː
+oo$	oː
+p	p
+pw	p w
+r	r
+s	s
+s$	s
+sh	ʃ
+t	t
+th	θ
+tw	t w
+u	u
+u$	u
+uu	uː
+uu$	uː
+v	v
+w	w
+y	j
+z	z
+…$	NULL

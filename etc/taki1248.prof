@@ -1,0 +1,131 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+-	+
+=	+
+B	B/b
+^	NULL
+^-fffu$	+ fː u
+^=	+
+^a	a
+^a$	a
+^b	b
+^bb	bː
+^bs	bs
+^bw	bʷ
+^c	c
+^d	d
+^dd	dː
+^dw	dʷ
+^e	e
+^f	f
+^ff	fː
+^g	g
+^gg	gː
+^h	h
+^i	i
+^i$	i
+^j	j
+^k	k
+^kk	kː
+^ks	k s
+^kss	ks + s
+^kw	kʷ
+^l	l
+^ll	lː
+^ls	ls
+^lw	lʷ
+^m	m
+^mm	mː
+^ms	ms
+^n	n
+^nn	nː
+^nw	nʷ
+^o	o
+^o$	o
+^p	p
+^pp	pː
+^r	r
+^rr	rː
+^s	s
+^ss	sː
+^sw	sʷ
+^t	t
+^ts	ts
+^tt	tː
+^tw	tʷ
+^u	u
+^w	w
+^y	j
+^ŋ	ŋ
+^ŋs	ŋs
+_	_
+a	a
+a$	a
+b	b
+b$	b
+bs	bs
+d	d
+d$	d
+dd	dː
+e	e
+e$	e
+f	f
+f$	f
+ff	fː
+g	g
+g$	g
+gs	gs
+i	i
+i$	i
+k	k
+k$	k
+kk	k + k
+ks	k s
+ks$	ks
+kw	kʷ
+l	l
+l$	l
+ll	lː
+ls	l s
+ls$	l s
+lw	lʷ
+m	m
+m$	m
+mm	mː
+n	n
+n$	n
+nn	nː
+nn$	n + n
+ns$	n s
+nw	nʷ
+o	o
+o$	o
+p	p
+p$	p
+pp	pː
+r	r
+r$	r
+rr	rː
+rs	r s
+rw	rʷ
+s	s
+s$	s
+ss	s + s
+sw	sʷ
+t	t
+t$	t
+tt	t + t
+tw	tʷ
+u	u
+u$	u
+v	v
+v$	v
+w	w
+w$	w
+y	j
+y$	j
+ŋ	ŋ
+ŋ$	ŋ
+ŋs$	ŋs

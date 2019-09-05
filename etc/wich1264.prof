@@ -1,0 +1,108 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+^	NULL
+^a	a
+^b	b
+^ch	tʃ
+^d	d
+^e	e
+^fw	fʷ
+^h	h
+^i	i
+^jw	xʷ
+^k	k
+^kw	kʷ
+^l	l
+^lh	lˠ
+^m	m
+^n	n
+^nw	nʷ
+^o	o
+^p	p
+^pw	pʷ
+^s	s
+^t	t
+^th	tʰ
+^ts	ts
+^tsh	tsʰ
+^u	u
+^w	w
+^y	y
+^’	ʔ
+_	_
+a	a
+a$	a
+b	b
+c	c
+ch	tʃ
+d	d
+e	e
+e$	e
+fw	fʷ
+fw$	fʷ
+fwh	fʷ h
+g	g
+h	h
+hw	hʷ
+i	i
+i$	i
+j	x
+j$	x
+jh	xʰ
+jw	xʷ
+k	k
+k$	k
+kh	kʰ
+kk	k k
+kw	kʷ
+kw$	kʷ
+kwh	kʷ + h
+l	l
+l$	l
+lh	lˠ
+lh$	l̥
+lhh	l̥ h
+lhlh	l̥ + l̥
+lw	l w
+m	m
+m$	m
+mh	m̥
+ms	m s
+mwh	m w̥
+n	n
+n$	n
+nh	n̥
+ns	n s
+o	o
+o$	o
+p	p
+p$	p
+ph	pʰ
+pw	pʷ
+r	r
+rr	r r
+s	s
+s$	s
+sh	s h
+sw’	s + wˀ
+t	t
+t$	t
+th	tʰ
+ts	ts
+tsh	tsʰ
+tt	t t
+tw’	t wˀ
+u	u
+u$	u
+w	w
+wh	w̥
+y	j
+y$	j
+’	ʔ
+’$	ʔ
+’h	ʔ h
+’s	ʔ
+’w	ˀw
+’’	<?>

@@ -4,6 +4,7 @@ from clldutils.path import Path
 from pylexibank.dataset import Lexeme
 from pylexibank.providers import clld
 import os.path
+import re
 
 from segments import Profile, Tokenizer
 import unicodedata
@@ -45,6 +46,18 @@ class Dataset(clld.CLLD):
             column="IPA")
             
         return tokens.split()
+        
+    def clean_form(self, form):
+        # we cannot use clldutils.text.strip_brackets(), as brackets most
+        # of the time contain phonological material
+        form = re.sub("\(\d\)", "", form)
+        
+        # To split with clldutils.text, we'd need a regex pattern, as
+        # we need to include the spaces around the tilde...
+        form = form.split(",")[0]
+        form = form.split(" ~ ")[0]
+
+        return form.strip()
 
     def cmd_install(self, **kw):
         # Read individual orthographic profiles, extract the corresponding
@@ -98,48 +111,12 @@ class Dataset(clld.CLLD):
                 if row["Language_ID"] in vocab_ids:
                     # Copy the raw Form to Value, clean form, and tokenize
                     row['Value'] = row['Form']
+                    row['Form'] = self.clean_form(row['Form'])
                     row['Segments'] = self.tokenizer(row['Form'],
                             lang_map[row['Language_ID']])
                 
                     # Note: We count words marked as "probably borrowed" as loans.
                     row['Loan'] = float(row["BorrowedScore"]) > 0.6
-                    
+                 
                     ds.add_form_with_segments(**{k: v for k, v in row.items() if k in fields})            
-                
-                    a = """
-                
-                    ds.add_form_with_segments(
-                        Language_ID=row['Language_ID'],
-                        Parameter_ID=row['Parameter_ID'],
-                        Value=row['Form'],
-                        Form=row['Form'],
-                        Segments=self.tokenizer(row['Form'],
-                            lang_map[row['Language_ID']]),
-                        Source=row['Source'],
-                        # Note: We count words marked as "probably borrowed" as loans.
-                        Loan = float(row["BorrowedScore"]) > 0.6,
-                        Word_ID = row['Word_ID'],
-                        word_source = row['word_source'],
-                        Borrowed = row['Borrowed'],
-                        BorrowedScore = row['BorrowedScore'],
-                        comment_on_borrowed = row['comment_on_borrowed'],
-                        Analyzability = row['Analyzability'],
-                        #Simplicity_score = row['Simplicity_score'],
-                        reference = row['reference'],
-                        numeric_frequency = row['numeric_frequency'],
-                        age_label = row['age_label'],
-                        gloss = row['gloss'],
-                        integration = row['integration'],
-                        salience = row['salience'],
-                        effect = row['effect'],
-                        #contact_situation = row['contact_situation'],
-                        original_script = row['original_script'],
-                    )
 
-                 #   row["Value"] = row["Form"]
-                 #   row['Form'] = None
-                   #row["Segments"] = self.tokenizer(None, row['Value'],
-                    #        column="IPA")
-
-                #    ds.add_form_with_segments(**{k: v for k, v in row.items()})
-                """

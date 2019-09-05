@@ -1,0 +1,144 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+-	+
+.	NULL
+^	NULL
+^-A	+ A/a
+^a	a
+^aː	aː
+^b	b
+^d	d
+^e	e
+^e$	e
+^g	g
+^h	h
+^i	i
+^iː	iː
+^k	k
+^l	l
+^m	m
+^n	n
+^o	o
+^oː	oː
+^p	p
+^r	r
+^s	s
+^t	t
+^u	u
+^uː	uː
+^uː$	uː
+^x	x
+^ö	ö/œ
+^öh	ö/œ h
+^ös	ö/œ s
+^ü	y
+^üh	ü/y h
+^üs	ü/y s
+^üs$	y s
+^üː	üː/yː
+^č	tʃ
+^ɨ	ɨ
+^ɨː	ɨː
+^ɲ	ɲ
+^ʤ	ʤ
+^χ	χ
+_	_
+a	a
+a$	a
+a:	aː
+aː	aː
+aː$	aː
+b	b
+d	d
+d$	d
+e	e
+e$	e
+eː	eː
+eː$	eː
+f	f
+g	g
+h	h
+i	i
+i$	i
+iː	iː
+iː$	iː
+k	k
+k$	k
+kk	kː
+ks	k s
+l	l
+l$	l
+ll	lː
+ls	l + s
+m	m
+m$	m
+mm	mː
+ms	m s
+n	n
+n$	n
+nn	nː
+ns	n + s
+o	o
+o$	o
+oː	oː
+oː$	oː
+p	p
+p$	p
+pp	pː
+ps	p s
+r	r
+r$	r
+rs	r s
+s	s
+s$	s
+ss	sː
+t	t
+t$	t
+tt	tː
+u	u
+u$	u
+uː	uː
+uː$	uː
+v	v
+x$	x
+y	y
+y$	y
+z	z
+ï$	ï/ɯ
+ö	ö/œ
+ö$	ö/œ
+öh	ö/œ h
+ös	ö/œ s
+ös$	ö/œ s
+öː	öː/œː
+öː$	öː/œː
+ü	ü/y
+ü$	ü/y
+üh	ü/y h
+üs	ü/y s
+üs$	y s
+üː	üː/yː
+üː$	üː/yː
+üːh	yː h
+üːs	üː/yː s
+üːs$	üː/yː s
+č	tʃ
+čč	tʃː
+ŋ	ŋ
+ŋ$	ŋ
+ŋs	ŋ s
+ɣ	ɣ
+ɨ	ɨ
+ɨ$	ɨ
+ɨː	ɨː
+ɨː$	ɨː
+ɲ	ɲ
+ʤ	ʤ
+γ	γ/ɣ
+χ	χ
+χ$	χ
+χs	χ s
+χχ	χː
+ỹ	ỹ

@@ -1,0 +1,119 @@
+Grapheme	IPA
+$	NULL
+(	NULL
+)	NULL
+*$	NULL
+-	+
+-CL	NULL
+.	NULL
+1	NULL
+1$	NULL
+2	NULL
+2$	NULL
+3	NULL
+3$	NULL
+4	NULL
+4$	NULL
+5$	NULL
+CL	NULL
+VCL	NULL
+X	<?>
+^	NULL
+^1$	NULL
+^3	NULL
+^3$	NULL
+^4	NULL
+^X	NULL
+^Y	Y/ɥ
+^a	a
+^ai	ɛi
+^also$	NULL
+^b	p
+^c	tsʰ
+^ch	ʈʂʰ
+^d	t
+^e	ɤ
+^er	ɚ
+^f	f
+^g	k
+^h	x
+^j	tɕ
+^k	kʰ
+^l	l
+^m	m
+^n	n
+^o	o
+^or$	NULL
+^p	pʰ
+^q	tɕʰ
+^r	ɻ
+^s	s
+^sh	ʂ
+^t	tʰ
+^w	w
+^x	ɕ
+^y	j
+^yan	ɥ ɛ n
+^yu	y/ɥ
+^yuan	y/ɥ ɛ n
+^z	ts
+^zh	ʈʂ
+_	_
+__	__
+a	a
+a$	a
+ai	ɛi
+ai$	ɛi
+ang$	ə ŋ
+ao	au
+b	p
+c	tsʰ
+ch	ʈʂʰ
+d	t
+e	ɤ
+e$	ɤ
+en	ə n
+en$	ə n
+eng$	ə ŋ
+er	ɚ
+er$	ɚ
+f	f
+g	k
+g$	k
+h	x
+i	j
+i$	i
+ian	i ɛ n
+ian$	i ɛ n
+j	tɕ
+k	kʰ
+l	l
+m	m
+n	n
+n$	n
+ng	ŋ
+ng$	ŋ
+o	o
+o$	o
+ong	ʊ ŋ
+ong$	ʊ ŋ
+p	pʰ
+q	tɕʰ
+r	ɻ
+r$	ɻ
+s	s
+sh	ʂ
+t	tʰ
+u	u
+u$	u
+w	w
+wey	
+x	ɕ
+y	y/ɥ
+yan	ɥ ɛ n
+yow	
+yu	y/ɥ
+yuan	y/ɥ ɛ n
+z	ts
+zh	ʈʂ
+ü	y/ɥ

@@ -31,7 +31,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 64959,
+            "dc:extent": 64289,
             "tableSchema": {
                 "columns": [
                     {
@@ -107,7 +107,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Borrowed_score"
+                        "name": "BorrowedScore"
                     },
                     {
                         "datatype": "string",
