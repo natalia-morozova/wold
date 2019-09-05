@@ -14,12 +14,18 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/wold.svg?branch=master)](https://travis-ci.org/lexibank/wold)
+[![Build Status](https://travis-ci.org/natalia-morozova/wold.svg?branch=master)](https://travis-ci.org/natalia-morozova/wold)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 96%](https://img.shields.io/badge/BIPA-96%25-green.svg "BIPA: 96%")
+![CLTS SoundClass: 96%](https://img.shields.io/badge/CLTS%20SoundClass-96%25-green.svg "CLTS SoundClass: 96%")
 
 - **Varieties:** 41
 - **Concepts:** 1,814
 - **Lexemes:** 64,959
 - **Synonymy:** 1.21
+- **Invalid lexemes:** 0
+- **Tokens:** 358,075
+- **Segments:** 719 (31 BIPA errors, 31 CTLS sound class errors, 684 CLTS modified)
+- **Inventory size (avg):** 91.22

@@ -61,4 +61,7 @@ class Dataset(clld.CLLD):
                     row["Value"] = row.pop("Form")
                     # Note: We count words marked as "probably borrowed" as loans.
                     row["Loan"] = float(row["BorrowedScore"]) > 0.6
+                    row["Segments"] = self.tokenizer(None, row['Value'],
+                            column="IPA")
+
                     ds.add_lexemes(**{k: v for k, v in row.items() if k in fields})

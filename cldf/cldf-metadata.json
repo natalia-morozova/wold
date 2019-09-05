@@ -13,6 +13,7 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "The World Loanword Database",
+    "dcat:accessURL": "https://github.com/natalia-morozova/wold",
     "rdf:ID": "wold",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -22,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "glottolog-4.0",
+                "concepticon_version": "concepticon-data-2.1.0"
             }
         }
     ],
