@@ -1,11 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-1	NULL				
-2	NULL				
-3	NULL				
 a	a	ɨaraχan, tarbaχ	Sakha	554	U+0061
 r	r	ɨaraχan, tart	Sakha	387	U+0072
 ɨ	ɨ	sɨtɨybɨt, χatɨrɨk	Sakha	366	U+0268
@@ -133,9 +128,7 @@ f	f	neft, kofe	Sakha	2	U+0066
 ^x	x	xoruoluk	Sakha	1	U+005e U+0078
 ï$	ï/ɯ	χas daγanï	Sakha	1	U+00ef U+0024
 ^h	h	horkuoydaː	Sakha	1	U+005e U+0068
-is (2)	<???>	is (2)	Sakha	1	U+0069 U+0073 U+0020 U+0028 U+0032 U+0029
 üs	ü/y s	kömüskeː	Sakha	1	U+00fc U+0073
-tuoχ da (suoχ)	<???>	tuoχ da (suoχ)	Sakha	1	U+0074 U+0075 U+006f U+03c7 U+0020 U+0064 U+0061 U+0020 U+0028 U+0073 U+0075 U+006f U+03c7 U+0029
 d$	d	belasiped	Sakha	1	U+0064 U+0024
 ^r	r	rakovina	Sakha	1	U+005e U+0072
 ^öh	ö/œ h	öhüö	Sakha	1	U+005e U+00f6 U+0068
@@ -146,6 +139,4 @@ ls	l + s	pravitelstva	Sakha	1	U+006c U+0073
 γ	γ/ɣ 	χas daγanï	Sakha	1	U+03b3
 a:	aː	tünnük ta:ha	Sakha	1	U+0061 U+003a
 χχ	χː	χaχχan	Sakha	1	U+03c7 U+03c7
-^-A sataː$	a s a t aː	-A sataː	Sakha	1	
-archaic	NULL				
-archaic variant; Pekarskij 1959 [1907-1930]: 2086	NULL				
+^-A	+ A/a	-A sataː	Sakha	1	

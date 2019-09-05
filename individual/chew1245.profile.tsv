@@ -1,9 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(1)	NULL				
-(2)	NULL				
-(2	NULL				
 a	a	blajar, saraŋ lway	Ceq Wong	482	U+0061
 ʔ$	ʔ	bajuʔ, wəʔ	Ceq Wong	164	U+0294 U+0024
 u	u	suduʔ, bajuʔ	Ceq Wong	142	U+0075
@@ -75,38 +72,38 @@ w$	w	yow, halaw	Ceq Wong	18	U+0077 U+0024
 ĩ	ĩ	hĩʔ, teʔ kunĩŋ	Ceq Wong	8	U+0129
 ə$	ə	gulə, mnə	Ceq Wong	8	U+0259 U+0024
 ^ŋ	ŋ	ŋɔk, ŋɑlɑŋ	Ceq Wong	7	U+005e U+014b
-^bs	bs	bsin, bsew	Ceq Wong	5	U+005e U+0062 U+0073
-nw	nw	həʔ nwɨ̃t, knwãs	Ceq Wong	4	U+006e U+0077
-^lw	lw	lwəc, lwɑy	Ceq Wong	4	U+005e U+006c U+0077
+^bs	b s	bsin, bsew	Ceq Wong	5	U+005e U+0062 U+0073
+nw	n w	həʔ nwɨ̃t, knwãs	Ceq Wong	4	U+006e U+0077
+^lw	l w	lwəc, lwɑy	Ceq Wong	4	U+005e U+006c U+0077
 i$	i	tibi, tɑm kopi	Ceq Wong	4	U+0069 U+0024
 ^ɲ	ɲ	ɲɔ̃k, ɲataʔ	Ceq Wong	4	U+005e U+0272
-kw	kw	jaŋkwɛ̃ʔ, lkwɔk	Ceq Wong	3	U+006b U+0077
-^cw	cw	cwɛ̃ŋ, cway	Ceq Wong	3	U+005e U+0063 U+0077
-lw	lw	saraŋ lway, blwəɲ	Ceq Wong	3	U+006c U+0077
-nh	nh	cinhəy, cnhəy	Ceq Wong	3	U+006e U+0068
-^sw	sw	swɑl, swah	Ceq Wong	3	U+005e U+0073 U+0077
+kw	k w	jaŋkwɛ̃ʔ, lkwɔk	Ceq Wong	3	U+006b U+0077
+^cw	c w	cwɛ̃ŋ, cway	Ceq Wong	3	U+005e U+0063 U+0077
+lw	l w	saraŋ lway, blwəɲ	Ceq Wong	3	U+006c U+0077
+nh	n h	cinhəy, cnhəy	Ceq Wong	3	U+006e U+0068
+^sw	s w	swɑl, swah	Ceq Wong	3	U+005e U+0073 U+0077
 ə̃	ə̃	mhə̃m, ʔə̃ʔ	Ceq Wong	2	U+0259 U+0303
-^kw	kw	kwat, kwãs	Ceq Wong	2	U+005e U+006b U+0077
+^kw	k w	kwat, kwãs	Ceq Wong	2	U+005e U+006b U+0077
 ^th	tʰ	thun	Ceq Wong	2	U+005e U+0074 U+0068
-^dw	dw	dwah, dwet	Ceq Wong	2	U+005e U+0064 U+0077
-^tw	tw	twar, twaw	Ceq Wong	2	U+005e U+0074 U+0077
+^dw	d w	dwah, dwet	Ceq Wong	2	U+005e U+0064 U+0077
+^tw	t w	twar, twaw	Ceq Wong	2	U+005e U+0074 U+0077
 u$	u	ktɔʔ rabu, sibu	Ceq Wong	2	U+0075 U+0024
-ŋs	ŋs	leŋseŋ, taliʔ taŋsiʔ	Ceq Wong	2	U+014b U+0073
-^hw	hw	hwɛ̃t, hwchwac	Ceq Wong	2	U+005e U+0068 U+0077
+ŋs	ŋ s	leŋseŋ, taliʔ taŋsiʔ	Ceq Wong	2	U+014b U+0073
+^hw	h w	hwɛ̃t, hwchwac	Ceq Wong	2	U+005e U+0068 U+0077
 ^ks	ks	ksial, ksyɑʔ	Ceq Wong	2	U+005e U+006b U+0073
 ɔ$	ɔ	mɔtɔ	Ceq Wong	1	U+0254 U+0024
-lh	lh	plhɔc	Ceq Wong	1	U+006c U+0068
-^jw	jw	jwal	Ceq Wong	1	U+005e U+006a U+0077
-^pw	pw	pwasaʔ	Ceq Wong	1	U+005e U+0070 U+0077
+lh	l h	plhɔc	Ceq Wong	1	U+006c U+0068
+^jw	j w	jwal	Ceq Wong	1	U+005e U+006a U+0077
+^pw	p w	pwasaʔ	Ceq Wong	1	U+005e U+0070 U+0077
 ks	ks	mksɛk	Ceq Wong	1	U+006b U+0073
 ns	ns	pensel	Ceq Wong	1	U+006e U+0073
 ^mh	mh	mhə̃m	Ceq Wong	1	U+005e U+006d U+0068
-sw	sw	həʔ swɑh	Ceq Wong	1	U+0073 U+0077
-nn	nn	heʔ nnəŋ	Ceq Wong	1	U+006e U+006e
+sw	s w	həʔ swɑh	Ceq Wong	1	U+0073 U+0077
+nn	n n	heʔ nnəŋ	Ceq Wong	1	U+006e U+006e
 ŋh	ŋh	jaŋhəy	Ceq Wong	1	U+014b U+0068
 ɒ	ɒ	cicɒh	Ceq Wong	1	U+0252
-^js	js	jsɨŋ	Ceq Wong	1	U+005e U+006a U+0073
-chw	chw	hwchwac	Ceq Wong	1	U+0063 U+0068 U+0077
-^ps	ps	psət	Ceq Wong	1	U+005e U+0070 U+0073
+^js	j s	jsɨŋ	Ceq Wong	1	U+005e U+006a U+0073
+chw	c + h w	hwchwac	Ceq Wong	1	U+0063 U+0068 U+0077
+^ps	p s	psət	Ceq Wong	1	U+005e U+0070 U+0073
 ^branĩʔ$	b r a n ĩ ʔ 				
 ^nũʔ$	n ũ ʔ				

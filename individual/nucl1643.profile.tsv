@@ -1,11 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-1	NULL				
-2	NULL				
-3	NULL				
 a	a	tagayasu, takai	Japanese	1076	U+0061
 i	i	sekinin, tairiku	Japanese	675	U+0069
 u$	ɯ	motsu, kaku	Japanese	617	U+0075 U+0024

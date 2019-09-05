@@ -2,7 +2,7 @@ Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
 a	a	graian san anaŋ, makao	Takia	924	U+0061
--	<?>	-abi, tei-	Takia	789	U+002d
+-	+	-abi, tei-	Takia	789	U+002d
 e	e	tei-, bllek	Takia	305	U+0065
 n	n	-fni, graian san anaŋ	Takia	299	U+006e
 o	o	-loŋ, wos	Takia	272	U+006f
@@ -43,12 +43,12 @@ o$	o	irao-, makao	Takia	53	U+006f U+0024
 r$	r	-sror, -bar	Takia	51	U+0072 U+0024
 ŋ$	ŋ	-loŋ, ggreŋ	Takia	51	U+014b U+0024
 w	w	iwaiwo, ŋewŋew i-fni	Takia	50	U+0077
-y	y	uya-, myanu-k	Takia	48	U+0079
+y	j	uya-, myanu-k	Takia	48	U+0079
 ^w	w	wada-, wos	Takia	47	U+005e U+0077
 ^l	l	-la-sa, -loŋ	Takia	46	U+005e U+006c
 ^f	f	-fni, fok	Takia	46	U+005e U+0066
 ^i	i	irao-, iwo-	Takia	43	U+005e U+0069
-^y	y	you, you i-tlanti	Takia	33	U+005e U+0079
+^y	j	you, you i-tlanti	Takia	33	U+005e U+0079
 ^r	r	rebit, ru	Takia	32	U+005e U+0072
 m$	m	im, kalam	Takia	30	U+006d U+0024
 g$	g	beig, damag	Takia	30	U+0067 U+0024
@@ -59,110 +59,71 @@ d$	d	-dad, bod	Takia	24	U+0064 U+0024
 ^u	u	uya-, uru	Takia	24	U+005e U+0075
 w$	w	-aw, klmo-kaw	Takia	21	U+0077 U+0024
 p$	p	stop, sup	Takia	20	U+0070 U+0024
-y$	y	klloy, srawoy	Takia	13	U+0079 U+0024
-ll	ll	bllek, klloy	Takia	9	U+006c U+006c
+y$	j	klloy, srawoy	Takia	13	U+0079 U+0024
+ll	lː	bllek, klloy	Takia	9	U+006c U+006c
 ^e	e	-en, -en-si	Takia	9	U+005e U+0065
 ^h	h	holim Baibel, haia	Takia	8	U+005e U+0068
-^gg	gg	ggreŋ, ggoy	Takia	7	U+005e U+0067 U+0067
-tbu- (2)	<???>	tbu- (2)	Takia	6	U+0074 U+0062 U+0075 U+002d U+0020 U+0028 U+0032 U+0029
-^tt	tt	ttyane-k, -tte	Takia	6	U+005e U+0074 U+0074
-^sw	sw	-swe, -swi	Takia	6	U+005e U+0073 U+0077
-lw	lw	wilwil, -glwao	Takia	6	U+006c U+0077
-^bb	bb	-bbli, bbaŋa-n tbu-n	Takia	6	U+005e U+0062 U+0062
-=	<?>	-bol=oŋ, gabulo=p	Takia	5	U+003d
-^lw	lw	lwa-n an da ya, lwaliu	Takia	5	U+005e U+006c U+0077
-ls	ls	salso, salso=p	Takia	4	U+006c U+0073
-ks	ks	eleksin, piksakad	Takia	4	U+006b U+0073
-rs	rs	nanu-n ir-tarsin-ek, tama-n ir-tarsin-ek	Takia	4	U+0072 U+0073
-ss	ss	-bal-s-sni, -sel-ssi	Takia	4	U+0073 U+0073
-sw	sw	mala-n -swe, tru- tan i-swe	Takia	4	U+0073 U+0077
+^gg	gː	ggreŋ, ggoy	Takia	7	U+005e U+0067 U+0067
+^tt	tː	ttyane-k, -tte	Takia	6	U+005e U+0074 U+0074
+^sw	sʷ	-swe, -swi	Takia	6	U+005e U+0073 U+0077
+lw	lʷ	wilwil, -glwao	Takia	6	U+006c U+0077
+^bb	bː	-bbli, bbaŋa-n tbu-n	Takia	6	U+005e U+0062 U+0062
+=	+	-bol=oŋ, gabulo=p	Takia	5	U+003d
+^lw	lʷ	lwa-n an da ya, lwaliu	Takia	5	U+005e U+006c U+0077
+ls	l s	salso, salso=p	Takia	4	U+006c U+0073
+ks	k s	eleksin, piksakad	Takia	4	U+006b U+0073
+rs	r s	nanu-n ir-tarsin-ek, tama-n ir-tarsin-ek	Takia	4	U+0072 U+0073
+ss	s + s	-bal-s-sni, -sel-ssi	Takia	4	U+0073 U+0073
+sw	sʷ	mala-n -swe, tru- tan i-swe	Takia	4	U+0073 U+0077
 f$	f	faif, raf	Takia	4	U+0066 U+0024
-^kw	kw	kwai te -bol, kwai te -gane	Takia	4	U+005e U+006b U+0077
-^ff	ff	fflu-, ffo na	Takia	4	U+005e U+0066 U+0066
-ai (1)	<???>	ai (1)	Takia	4	U+0061 U+0069 U+0020 U+0028 U+0031 U+0029
-^tw	tw	-twani, twenti	Takia	3	U+005e U+0074 U+0077
-dd	dd	-ra-ddari, -sa-ddni	Takia	3	U+0064 U+0064
-patu- (2)	<???>	patu- (2)	Takia	3	U+0070 U+0061 U+0074 U+0075 U+002d U+0020 U+0028 U+0032 U+0029
+^kw	kʷ	kwai te -bol, kwai te -gane	Takia	4	U+005e U+006b U+0077
+^ff	fː	fflu-, ffo na	Takia	4	U+005e U+0066 U+0066
+^tw	tʷ	-twani, twenti	Takia	3	U+005e U+0074 U+0077
+dd	dː	-ra-ddari, -sa-ddni	Takia	3	U+0064 U+0064
 v	v	gavman, draiva laisens	Takia	3	U+0076
 ^o	o	oŋ, oul	Takia	3	U+005e U+006f
-^kk	kk	kkdo-, kkdo- awe-n	Takia	3	U+005e U+006b U+006b
-^ll	ll	llaman, llit	Takia	3	U+005e U+006c U+006c
-^rr	rr	-rri, rre-k	Takia	3	U+005e U+0072 U+0072
-^dd	dd	ddi, ddi-	Takia	3	U+005e U+0064 U+0064
-su (1)	<???>	su (1)	Takia	3	U+0073 U+0075 U+0020 U+0028 U+0031 U+0029
-^mm	mm	mmre-, mmur	Takia	3	U+005e U+006d U+006d
-rw	rw	mrwa-, ilo-mrwa-n	Takia	3	U+0072 U+0077
-rr	rr	sarrei, you brruk	Takia	2	U+0072 U+0072
--sti (2)	<???>	-sti (2)	Takia	2	U+002d U+0073 U+0074 U+0069 U+0020 U+0028 U+0032 U+0029
-mala-n tya i (1)	<???>	mala-n tya i (1)	Takia	2	U+006d U+0061 U+006c U+0061 U+002d U+006e U+0020 U+0074 U+0079 U+0061 U+0020 U+0069 U+0020 U+0028 U+0031 U+0029
--tare (2)	<???>	-tare (2)	Takia	2	U+002d U+0074 U+0061 U+0072 U+0065 U+0020 U+0028 U+0032 U+0029
-^ks	ks	ksaek, ksalom	Takia	2	U+005e U+006b U+0073
-^=	<?>	=ta=g, =ta=p	Takia	2	U+005e U+003d
+^kk	kː	kkdo-, kkdo- awe-n	Takia	3	U+005e U+006b U+006b
+^ll	lː	llaman, llit	Takia	3	U+005e U+006c U+006c
+^rr	rː	-rri, rre-k	Takia	3	U+005e U+0072 U+0072
+^dd	dː	ddi, ddi-	Takia	3	U+005e U+0064 U+0064
+^mm	mː	mmre-, mmur	Takia	3	U+005e U+006d U+006d
+rw	rʷ	mrwa-, ilo-mrwa-n	Takia	3	U+0072 U+0077
+rr	rː	sarrei, you brruk	Takia	2	U+0072 U+0072
+^ks	k s	ksaek, ksalom	Takia	2	U+005e U+006b U+0073
+^=	+	Err:509	Takia	2	U+005e U+003d
 ^ms	ms	-mslani, msuk -pani	Takia	2	U+005e U+006d U+0073
 ^j	j	jas, jag	Takia	2	U+005e U+006a
-^ss	ss	ssanu-, ssei	Takia	2	U+005e U+0073 U+0073
-^nn	nn	nnae-ŋ ab, nni	Takia	2	U+005e U+006e U+006e
+^ss	sː	ssanu-, ssei	Takia	2	U+005e U+0073 U+0073
+^nn	nː	nnae-ŋ ab, nni	Takia	2	U+005e U+006e U+006e
 ^c	c	compleina, cot	Takia	2	U+005e U+0063
 ^bs	bs	bso-, -bsei- -aw	Takia	2	U+005e U+0062 U+0073
-ff	ff	mala-n fflu-n, gnaffur	Takia	2	U+0066 U+0066
-ns$	ns	lans, draiva laisens	Takia	2	U+006e U+0073 U+0024
-nn	nn	you wanna-n san ur, tnan-n-taman-n	Takia	2	U+006e U+006e
+ff	fː	mala-n fflu-n, gnaffur	Takia	2	U+0066 U+0066
+ns$	n s	lans, draiva laisens	Takia	2	U+006e U+0073 U+0024
+nn	nː	you wanna-n san ur, tnan-n-taman-n	Takia	2	U+006e U+006e
 bs	bs	tamol bsmak, pein bsmak	Takia	2	U+0062 U+0073
-pp	pp	-su-ppi, su -ppi	Takia	2	U+0070 U+0070
-tbu- (1)	<???>	tbu- (1)	Takia	2	U+0074 U+0062 U+0075 U+002d U+0020 U+0028 U+0031 U+0029
--kdi (1)	<???>	-kdi (1)	Takia	2	U+002d U+006b U+0064 U+0069 U+0020 U+0028 U+0031 U+0029
-^pp	pp	ppae-, -ppi	Takia	2	U+005e U+0070 U+0070
-mala- (2)	<???>	mala- (2)	Takia	2	U+006d U+0061 U+006c U+0061 U+002d U+0020 U+0028 U+0032 U+0029
+pp	pː	-su-ppi, su -ppi	Takia	2	U+0070 U+0070
+^pp	pː	ppae-, -ppi	Takia	2	U+005e U+0070 U+0070
 gs	gs	mala-n sgsig, sgsog	Takia	2	U+0067 U+0073
-yok (2)	<???>	yok (2)	Takia	1	U+0079 U+006f U+006b U+0020 U+0028 U+0032 U+0029
--dni (2)	<???>	-dni (2)	Takia	1	U+002d U+0064 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
--tare (1)	<???>	-tare (1)	Takia	1	U+002d U+0074 U+0061 U+0072 U+0065 U+0020 U+0028 U+0031 U+0029
-baras (1)	<???>	baras (1)	Takia	1	U+0062 U+0061 U+0072 U+0061 U+0073 U+0020 U+0028 U+0031 U+0029
-awa- -abi (1)	<???>	awa- -abi (1)	Takia	1	U+0061 U+0077 U+0061 U+002d U+0020 U+002d U+0061 U+0062 U+0069 U+0020 U+0028 U+0031 U+0029
-^fff	fff	-fffu	Takia	1	U+005e U+0066 U+0066 U+0066
-kagin -pani (2)	<???>	kagin -pani (2)	Takia	1	U+006b U+0061 U+0067 U+0069 U+006e U+0020 U+002d U+0070 U+0061 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
--sti (1)	<???>	-sti (1)	Takia	1	U+002d U+0073 U+0074 U+0069 U+0020 U+0028 U+0031 U+0029
+^-fffu$	+ fː u	-fffu	Takia	1	U+005e U+0066 U+0066 U+0066
 ^ls	ls	-lsu	Takia	1	U+005e U+006c U+0073
-ta (1)	<???>	ta (1)	Takia	1	U+0074 U+0061 U+0020 U+0028 U+0031 U+0029
-iwa- (see also 2.456)	<???>	iwa- (see also 2.456)	Takia	1	U+0069 U+0077 U+0061 U+002d U+0020 U+0028 U+0073 U+0065 U+0065 U+0020 U+0061 U+006c U+0073 U+006f U+0020 U+0032 U+002e U+0034 U+0035 U+0036 U+0029
-^bw	bw	bwab	Takia	1	U+005e U+0062 U+0077
-patu- (1)	<???>	patu- (1)	Takia	1	U+0070 U+0061 U+0074 U+0075 U+002d U+0020 U+0028 U+0031 U+0029
+^bw	bʷ	bwab	Takia	1	U+005e U+0062 U+0077
 ^ts	ts	tsa-	Takia	1	U+005e U+0074 U+0073
--kdi (2)	<???>	-kdi (2)	Takia	1	U+002d U+006b U+0064 U+0069 U+0020 U+0028 U+0032 U+0029
-ls$	ls	tuls	Takia	1	U+006c U+0073 U+0024
-kk	kk	nal kaek-kaek	Takia	1	U+006b U+006b
-B	<?>	holim Baibel	Takia	1	U+0042
--ani (2)	<???>	-ani (2)	Takia	1	U+002d U+0061 U+006e U+0069 U+0020 U+0028 U+0032 U+0029
-mala- (1)	<???>	mala- (1)	Takia	1	U+006d U+0061 U+006c U+0061 U+002d U+0020 U+0028 U+0031 U+0029
-dou (2)	<???>	dou (2)	Takia	1	U+0064 U+006f U+0075 U+0020 U+0028 U+0032 U+0029
+ls$	l s	tuls	Takia	1	U+006c U+0073 U+0024
+kk	k + k	nal kaek-kaek	Takia	1	U+006b U+006b
+B	B/b	holim Baibel	Takia	1	U+0042
 ks$	ks	siks	Takia	1	U+006b U+0073 U+0024
-nn$	nn	tnan-n-taman-n	Takia	1	U+006e U+006e U+0024
+nn$	n + n	tnan-n-taman-n	Takia	1	U+006e U+006e U+0024
 ^i$	i	i	Takia	1	U+005e U+0069 U+0024
-ta (2)	<???>	ta (2)	Takia	1	U+0074 U+0061 U+0020 U+0028 U+0032 U+0029
-su (2)	<???>	su (2)	Takia	1	U+0073 U+0075 U+0020 U+0028 U+0032 U+0029
 ^ŋs	ŋs	ŋsa-ŋes	Takia	1	U+005e U+014b U+0073
-mm	mm	tdom-mi	Takia	1	U+006d U+006d
-nkol (see also 2.456)	<???>	nkol (see also 2.456)	Takia	1	U+006e U+006b U+006f U+006c U+0020 U+0028 U+0073 U+0065 U+0065 U+0020 U+0061 U+006c U+0073 U+006f U+0020 U+0032 U+002e U+0034 U+0035 U+0036 U+0029
-^dw	dw	dwadaw	Takia	1	U+005e U+0064 U+0077
-awa- -abi (2)	<???>	awa- -abi (2)	Takia	1	U+0061 U+0077 U+0061 U+002d U+0020 U+002d U+0061 U+0062 U+0069 U+0020 U+0028 U+0032 U+0029
--ani (1)	<???>	-ani (1)	Takia	1	U+002d U+0061 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-nw	nw	anwil	Takia	1	U+006e U+0077
-ur (1)	<???>	ur (1)	Takia	1	U+0075 U+0072 U+0020 U+0028 U+0031 U+0029
-pen (2)	<???>	pen (2)	Takia	1	U+0070 U+0065 U+006e U+0020 U+0028 U+0032 U+0029
-tt	tt	-mat-tkali	Takia	1	U+0074 U+0074
+mm	mː	tdom-mi	Takia	1	U+006d U+006d
+^dw	dʷ	dwadaw	Takia	1	U+005e U+0064 U+0077
+nw	nʷ	anwil	Takia	1	U+006e U+0077
+tt	t + t	-mat-tkali	Takia	1	U+0074 U+0074
 ^o$	o	o	Takia	1	U+005e U+006f U+0024
-kw	kw	skwe	Takia	1	U+006b U+0077
-^kss	kss	kssik -bol	Takia	1	U+005e U+006b U+0073 U+0073
-kagin -pani (1)	<???>	kagin -pani (1)	Takia	1	U+006b U+0061 U+0067 U+0069 U+006e U+0020 U+002d U+0070 U+0061 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-baras (2)	<???>	baras (2)	Takia	1	U+0062 U+0061 U+0072 U+0061 U+0073 U+0020 U+0028 U+0032 U+0029
-tw	tw	-abi-twani	Takia	1	U+0074 U+0077
-pen (1)	<???>	pen (1)	Takia	1	U+0070 U+0065 U+006e U+0020 U+0028 U+0031 U+0029
-ai (2)	<???>	ai (2)	Takia	1	U+0061 U+0069 U+0020 U+0028 U+0032 U+0029
-ur (2)	<???>	ur (2)	Takia	1	U+0075 U+0072 U+0020 U+0028 U+0032 U+0029
+kw	kʷ	skwe	Takia	1	U+006b U+0077
+^kss	ks + s	kssik -bol	Takia	1	U+005e U+006b U+0073 U+0073
+tw	tʷ	-abi-twani	Takia	1	U+0074 U+0077
 ŋs$	ŋs	toŋs	Takia	1	U+014b U+0073 U+0024
-dou (1)	<???>	dou (1)	Takia	1	U+0064 U+006f U+0075 U+0020 U+0028 U+0031 U+0029
 v$	v	oliv	Takia	1	U+0076 U+0024
--dni (1)	<???>	-dni (1)	Takia	1	U+002d U+0064 U+006e U+0069 U+0020 U+0028 U+0031 U+0029
-^nw	nw	nwi	Takia	1	U+005e U+006e U+0077
-yok (1)	<???>	yok (1)	Takia	1	U+0079 U+006f U+006b U+0020 U+0028 U+0031 U+0029
+^nw	nʷ	nwi	Takia	1	U+005e U+006e U+0077
 ^a$	a	a	Takia	1	U+005e U+0061 U+0024

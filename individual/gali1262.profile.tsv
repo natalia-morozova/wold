@@ -1,10 +1,6 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-(	NULL				
-)	NULL				
-1	NULL				
-2	NULL				
 a	a	maname aulana, talapu	Kali'na	820	U+0061
 l	l	kaleta, yulu	Kali'na	612	U+006c
 o	o	kolotoko, tonomɨ	Kali'na	508	U+006f
@@ -32,7 +28,7 @@ w	w	kulawa, kawale wokɨlɨ	Kali'na	149	U+0077
 u$	u	yulu, talapu	Kali'na	125	U+0075 U+0024
 i$	i	wolɨi, apɨi	Kali'na	121	U+0069 U+0024
 ^t	t	talapu, tonomɨ	Kali'na	114	U+005e U+0074
-y	y	tuyuyu, ayoma	Kali'na	78	U+0079
+y	j	tuyuyu, ayoma	Kali'na	78	U+0079
 ^m	m	melo, melotopo	Kali'na	77	U+005e U+006d
 _	_	-palɨ sano, -lalɨ poko wɨto	Kali'na	73	U+005f
 ^s	s	suntatɨ, siliko	Kali'na	72	U+005e U+0073
@@ -43,10 +39,10 @@ n$	n	aulan, -epinonen	Kali'na	63	U+006e U+0024
 ^u	u	untɨma, uwenpo	Kali'na	44	U+005e U+0075
 ^l	l	lakele, -lalɨ	Kali'na	35	U+005e U+006c
 ^n	n	nonta, nono	Kali'na	30	U+005e U+006e
-^y	y	yulu, yuluma	Kali'na	29	U+005e U+0079
+^y	j	yulu, yuluma	Kali'na	29	U+005e U+0079
 ^ɨ	ɨ	ɨlɨ, -ɨ’me	Kali'na	27	U+005e U+0268
 d	d	vendredi, mercredi	Kali'na	12	U+0064
-r	r	mercredi, fromage	Kali'na	10	U+0072
+r	ɾ	mercredi, fromage	Kali'na	10	U+0072
 ^b	b	bekima, buretɨ	Kali'na	9	U+005e U+0062
 ch	ʃ 	machine, cachot	Kali'na	6	U+0063 U+0068
 't	ʔ t	wa'topo, wa'to	Kali'na	6	U+0027 U+0074
@@ -63,7 +59,7 @@ f	f	lafinèt, kafé	Kali'na	3	U+0066
 ^c	c	cachot, cachot tano	Kali'na	3	U+005e U+0063
 g	g	fromage, legliz	Kali'na	2	U+0067
 ^z	z	zonion, zeng	Kali'na	2	U+005e U+007a
-ï$	ɯ 	-potï, alekï	Kali'na	2	U+00ef U+0024
+ï$	ɯ	-potï, alekï	Kali'na	2	U+00ef U+0024
 è	è/e	lafinèt, lapèl	Kali'na	2	U+00e8
 b	b	dibe, labye	Kali'na	2	U+0062
 'k	ʔ k	kɨ'ko, kolo'ka	Kali'na	2	U+0027 U+006b
@@ -74,8 +70,6 @@ z	z	onze, douze	Kali'na	2	U+007a
 t$	t	cachot, lafinèt	Kali'na	2	U+0074 U+0024
 'e	ʔ e	okupa'entoima	Kali'na	1	U+0027 U+0065
 tt	tː	serviette	Kali'na	1	U+0074 U+0074
-(tonolo) aponɨ	<???>	(tonolo) aponɨ	Kali'na	1	U+0028 U+0074 U+006f U+006e U+006f U+006c U+006f U+0029 U+0020 U+0061 U+0070 U+006f U+006e U+0268
-palansi(sin)	<???>	palansi(sin)	Kali'na	1	U+0070 U+0061 U+006c U+0061 U+006e U+0073 U+0069 U+0028 U+0073 U+0069 U+006e U+0029
 c	c	mercredi	Kali'na	1	U+0063
 ii$	iː	kupii	Kali'na	1	U+0069 U+0069 U+0024
 g$	g	zeng	Kali'na	1	U+0067 U+0024
@@ -84,17 +78,15 @@ g$	g	zeng	Kali'na	1	U+0067 U+0024
 z$	z	legliz	Kali'na	1	U+007a U+0024
 ll	lː	mille	Kali'na	1	U+006c U+006c
 ^j	j	jeudi	Kali'na	1	U+005e U+006a
-^ï	ɯ 	-ïino	Kali'na	1	U+005e U+00ef
+^ï	ɯ	-ïino	Kali'na	1	U+005e U+00ef
 'e$	ʔ e	apo'e	Kali'na	1	U+0027 U+0065 U+0024
 s$	s	vis	Kali'na	1	U+0073 U+0024
 'u	ʔ u	t'uke	Kali'na	1	U+0027 U+0075
-r$	r	calendrier	Kali'na	1	U+0072 U+0024
+r$	ɾ	calendrier	Kali'na	1	U+0072 U+0024
 lw	l w	dilwil	Kali'na	1	U+006c U+0077
-^kw	k w	kwepi	Kali'na	1	U+005e U+006b U+0077
+^kw	kʷ	kwepi	Kali'na	1	U+005e U+006b U+0077
 'i$	ʔ I	kuwa'i	Kali'na	1	U+0027 U+0069 U+0024
-pil[ɨ]	<???>	pil[ɨ]	Kali'na	1	U+0070 U+0069 U+006c U+005b U+0268 U+005d
-^r	r	radio	Kali'na	1	U+005e U+0072
+^r	ɾ	radio	Kali'na	1	U+005e U+0072
 v	v	serviette	Kali'na	1	U+0076
 nn$	nː	simenn	Kali'na	1	U+006e U+006e U+0024
-oplan(ɨ]	<???>	oplan(ɨ]	Kali'na	1	U+006f U+0070 U+006c U+0061 U+006e U+0028 U+0268 U+005d
 q	q	plastique	Kali'na	1	U+0071

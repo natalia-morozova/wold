@@ -5,6 +5,7 @@ from collections import Counter
 import csv
 import tabulate
 
+from clldutils.text import split_text, strip_brackets
 from segments import Profile, Tokenizer
 from pyclts import TranscriptionSystem
 import pyclts.models
@@ -22,7 +23,13 @@ SOUND_CLASSES = (
 
 
 def my_tokenizer(form, prf):
-    form = "^%s$" % form.replace(" ", "{} ")
+
+    value = form.strip()
+    for form in split_text(value, separators='/,~', strip=True):
+        value = form.strip()
+        form = "^%s$" % form.replace(" ", "{} ")
+
+        form = strip_brackets(form, brackets={'[':']'})
 
     i = 0
     tokens = []
