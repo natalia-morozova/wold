@@ -1,7 +1,7 @@
 Grapheme	IPA	Languages
 ^aalscholver$	aː l s x ɔ l v ə r	Dutch
 ^aambeeld$	aː m b eː l t	Dutch
-^aan land gaan$	???	Dutch
+^aan land gaan$	aː n # l ɑ n t # x aː n	Dutch
 ^aanbidden$	aː m b ɪ d ə	Dutch
 ^aanklager$	aː ŋ k l aː ɣ ə r	Dutch
 ^aankomen$	aː ŋ k oː m ə	Dutch
@@ -29,7 +29,7 @@ Grapheme	IPA	Languages
 ^afmaken$	ɑ f m aː k ə	Dutch
 ^afvegen$	ɑ f eː ɣ ə	Dutch
 ^akker$	ɑ k ə r	Dutch
-^alcoholische drank$	???	Dutch
+^alcoholische drank$	ɑ l k oː h oː l iː s ə # d r ɑ ŋ k	Dutch
 ^alle$	ɑ l ə	Dutch
 ^alleen$	ɑ l eː n	Dutch
 ^alligator$	ɑ l iː ɣ aː t ɔ r	Dutch
@@ -64,7 +64,7 @@ Grapheme	IPA	Languages
 ^bamboe$	b ɑ m b uː	Dutch
 ^banaan$	b aː n aː n	Dutch
 ^bank$	b ɑ ŋ k	Dutch
-^banyan$	???	Dutch
+^banyan$	b ɑ n j a n	Dutch
 ^bast$	b ɑ s t	Dutch
 ^bataat$	b aː t aː t	Dutch
 ^batterij$	b ɑ t ə r ɛi	Dutch
@@ -153,7 +153,7 @@ Grapheme	IPA	Languages
 ^borst$	b ɔ r s t	Dutch
 ^borstel$	b ɔ r s t ə l	Dutch
 ^bos$	b ɔ s	Dutch
-^bos(je)$	???	Dutch
+^bos(je)$	b ɔ s	Dutch
 ^bot (1)$	b ɔ t	Dutch
 ^bot (2)$	b ɔ t	Dutch
 ^boter$	b oː t ə r	Dutch
@@ -194,7 +194,7 @@ Grapheme	IPA	Languages
 ^dag$	d ɑ x	Dutch
 ^dageraad$	d aː ɣ ə r aː t	Dutch
 ^dak$	d ɑ k	Dutch
-^dakspar$	???	Dutch
+^dakspar$	d ɑ k s p ɑ r	Dutch
 ^dal$	d ɑ l	Dutch
 ^dansen$	d ɑ n s ə	Dutch
 ^dapper$	d ɑ p ə r	Dutch
@@ -206,7 +206,7 @@ Grapheme	IPA	Languages
 ^demon$	d eː m ɔ n	Dutch
 ^den$	d ɛ n	Dutch
 ^denken$	d ɛ ŋ k ə	Dutch
-^dennenappel$	???	Dutch
+^dennenappel$	d ɛ n ə ɑ p ə l	Dutch
 ^derde$	d ɛ r d ə	Dutch
 ^deur$	d øː r	Dutch
 ^deurpost$	d øː r p ɔ s t	Dutch
@@ -242,7 +242,7 @@ Grapheme	IPA	Languages
 ^doorsnijden$	d oː r s n ɛi d ə	Dutch
 ^dorp$	d ɔ r p	Dutch
 ^dorsen$	d ɔ r s ə	Dutch
-^dorst hebben$	???	Dutch
+^dorst hebben$	d ɔ r s t # h ɛ b ə	Dutch
 ^dorsvloer$	d ɔ r s f l uː r	Dutch
 ^doven$	d oː v ə	Dutch
 ^draad$	d r aː t	Dutch
@@ -280,8 +280,8 @@ Grapheme	IPA	Languages
 ^edele$	eː d ə l ə	Dutch
 ^eed$	eː t	Dutch
 ^eekhoorn$	eː k h oː r n	Dutch
-^een$	ə n eː n	Dutch
-^een scheet laten$	???	Dutch
+^een$	ə n	Dutch
+^een scheet laten$	ə n # s x eː t # l aː t ə	Dutch
 ^eend$	eː n t	Dutch
 ^eergisteren$	eː r ɣ ɪ s t ə r ə	Dutch
 ^eerste$	eː r s t ə	Dutch
@@ -316,7 +316,7 @@ Grapheme	IPA	Languages
 ^fruit$	f r œy t	Dutch
 ^fuik$	f œy k	Dutch
 ^gaan$	x aː n	Dutch
-^gaan liggen$	???	Dutch
+^gaan liggen$	x aː n # l ɪ ɣ ə	Dutch
 ^gans$	x ɑ n s	Dutch
 ^garnaal$	x ɑ r n aː l	Dutch
 ^gast$	x ɑ s t	Dutch
@@ -324,7 +324,7 @@ Grapheme	IPA	Languages
 ^gat$	x ɑ t	Dutch
 ^gauw$	x ɑu ʋ	Dutch
 ^geboortebewijs$	x ə b oː r t ə b ə ʋ ɛi s	Dutch
-^geboren worden$	???	Dutch
+^geboren worden$	x ə b oː r ə # ʋ ɔ r d ə	Dutch
 ^gedaagde$	x ə d aː ɣ d ə	Dutch
 ^geel$	x eː l	Dutch
 ^geest (1)$	x eː s t	Dutch
@@ -333,7 +333,7 @@ Grapheme	IPA	Languages
 ^geheim$	x ə h ɛi m	Dutch
 ^gehoorzamen$	x ə h oː r z aː m ə	Dutch
 ^geit$	x ɛi t	Dutch
-^geitje$	???	Dutch
+^geitje$	x ɛi t j ə	Dutch
 ^gek$	x ɛ k	Dutch
 ^gekookt$	x ə k oː k t	Dutch
 ^geld$	x ɛ l t	Dutch
@@ -351,16 +351,16 @@ Grapheme	IPA	Languages
 ^gerst$	x ɛ r s t	Dutch
 ^geslacht$	x ə s l ɑ x t	Dutch
 ^getal$	x ə t ɑ l	Dutch
-^getij(de)$	???	Dutch
-^getrouwde man$	???	Dutch
-^getrouwde vrouw$	???	Dutch
+^getij(de)$	x ə t ɛi	Dutch
+^getrouwde man$	x ə t r ɑu ʋ d ə # m ɑ n	Dutch
+^getrouwde vrouw$	x ə t r ɑu ʋ d ə # v r ɑu ʋ	Dutch
 ^getuige$	x ə t œy ɣ ə	Dutch
 ^gevaar$	x ə v aː r	Dutch
 ^gevangene$	x ə v ɑ ŋ ə n ə	Dutch
 ^gevangenis$	x ə v ɑ ŋ ə n ɪ s	Dutch
 ^gevecht$	x ə v ɛ x t	Dutch
 ^geven$	x eː v ə	Dutch
-^gevorkte tak$	???	Dutch
+^gevorkte tak$	x ə v ɔ r k t ə # t ɑ k	Dutch
 ^geweer$	x ə ʋ eː r	Dutch
 ^gewoonte$	x ə ʋ oː n t ə	Dutch
 ^gezicht$	x ə z ɪ x t	Dutch
@@ -371,7 +371,7 @@ Grapheme	IPA	Languages
 ^gierst$	x iː r s t	Dutch
 ^gieten$	x iː t ə	Dutch
 ^gif$	x ɪ f	Dutch
-^gissen$	x iː s ə x ɪ s ə	Dutch
+^gissen$	x iː s ə	Dutch
 ^gisteren$	x ɪ s t ə r ə	Dutch
 ^glad$	x l ɑ t	Dutch
 ^glas$	x l ɑ s	Dutch
@@ -387,11 +387,11 @@ Grapheme	IPA	Languages
 ^gootsteen$	x oː t s t eː n	Dutch
 ^gordel$	x ɔ r d ə l	Dutch
 ^goud$	x ɑu t	Dutch
-^graafstok$	???	Dutch
+^graafstok$	x r aː f s t ɔ k	Dutch
 ^graan$	x r aː n	Dutch
 ^graf$	x r ɑ f	Dutch
 ^gras$	x r ɑ s	Dutch
-^grasrokje$	???	Dutch
+^grasrokje$	x r ɑ s r ɔ k j ə	Dutch
 ^graven$	x r aː v ə	Dutch
 ^grens$	x r ɛ n s	Dutch
 ^groeien$	x r uː j ə	Dutch
@@ -467,7 +467,7 @@ Grapheme	IPA	Languages
 ^hof$	h ɔ f	Dutch
 ^hond$	h ɔ n t	Dutch
 ^honderd$	h ɔ n d ə r t	Dutch
-^honger hebben$	???	Dutch
+^honger hebben$	h ɔ ŋ ə r # h ɛ b ə	Dutch
 ^hongersnood$	h ɔ ŋ ə r s n oː t	Dutch
 ^honing$	h oː n ɪ ŋ	Dutch
 ^hoofd$	h oː f t	Dutch
@@ -480,7 +480,7 @@ Grapheme	IPA	Languages
 ^hopen$	h oː p ə	Dutch
 ^horen$	h oː r ə	Dutch
 ^houden$	h ɑu d ə	Dutch
-^houden van$	???	Dutch
+^houden van$	h ɑu d ə # v ɑ n	Dutch
 ^hout$	h ɑu t	Dutch
 ^houtskool$	h ɑu t s k oː l	Dutch
 ^huid$	h œy t	Dutch
@@ -494,13 +494,13 @@ Grapheme	IPA	Languages
 ^ik$	ɪ k	Dutch
 ^imiteren$	iː m iː t eː r ə	Dutch
 ^in$	ɪ n	Dutch
-^in dienst nemen$	???	Dutch
+^in dienst nemen$	ɪ n # d iː n s t # n eː m ə	Dutch
 ^indien$	ɪ n d iː n	Dutch
 ^ingewanden$	ɪ ŋ ɣ ə ʋ ɑ n d ə	Dutch
-^initiatieplechtigheid$	???	Dutch
+^initiatieplechtigheid$	iː n iː t ʃ aː t s iː p l ɛ x t ə x h ɛi t	Dutch
 ^injectie$	ɪ n j ɛ k s iː	Dutch
-^insect$	???	Dutch
-^inwijdingsplechtigheid$	???	Dutch
+^insect$	ɪ n s ɛ k t	Dutch
+^inwijdingsplechtigheid$	ɪ n ʋ ɛi d ɪ ŋ s p l ɛ x t ə x h ɛi t	Dutch
 ^ja$	j aː	Dutch
 ^jaar$	j aː r	Dutch
 ^jagen$	j aː ɣ ə	Dutch
@@ -583,7 +583,7 @@ Grapheme	IPA	Languages
 ^knoop$	k n oː p	Dutch
 ^knuppel$	k n ʏ p ə l	Dutch
 ^koe$	k uː	Dutch
-^koelte toewaaien$	???	Dutch
+^koelte toewaaien$	k uː l t ə # t uː ʋ aː j ə	Dutch
 ^koffie$	k ɔ f iː	Dutch
 ^koken$	k oː k ə	Dutch
 ^kokosnoot$	k oː k ɔ s n oː t	Dutch
@@ -623,7 +623,7 @@ Grapheme	IPA	Languages
 ^laag$	l aː x	Dutch
 ^laars$	l aː r s	Dutch
 ^laat$	l aː t	Dutch
-^laat zijn$	???	Dutch
+^laat zijn$	l aː t # z ɛi n	Dutch
 ^laatste$	l aː t s t ə	Dutch
 ^lachen$	l ɑ x ə	Dutch
 ^ladder$	l ɑ d ə r	Dutch
@@ -636,7 +636,7 @@ Grapheme	IPA	Languages
 ^langzaam$	l ɑ ŋ z aː m	Dutch
 ^lariks$	l aː r ɪ k s	Dutch
 ^lasso$	l ɑ s oː	Dutch
-^laten vallen$	???	Dutch
+^laten vallen$	l aː t ə # v ɑ l ə	Dutch
 ^leeftijd$	l eː f t ɛi t	Dutch
 ^leeg$	l eː x	Dutch
 ^leer$	l eː r	Dutch
@@ -647,7 +647,7 @@ Grapheme	IPA	Languages
 ^leiden$	l ɛi d ə	Dutch
 ^leider$	l ɛi d ə r	Dutch
 ^lelijk$	l eː l ə k	Dutch
-^lemen baksteen$	???	Dutch
+^lemen baksteen$	l eː m ə # b ɑ k s t eː n	Dutch
 ^lenen$	l eː n ə	Dutch
 ^lente$	l ɛ n t ə	Dutch
 ^lepel$	l eː p ə l	Dutch
@@ -658,10 +658,10 @@ Grapheme	IPA	Languages
 ^lever$	l eː v ə r	Dutch
 ^lezen$	l eː z ə	Dutch
 ^lichaam$	l ɪ x aː m	Dutch
-^lichaamshaar$	???	Dutch
+^lichaamshaar$	l ɪ x aː m s h aː r	Dutch
 ^licht (1)$	l ɪ x t	Dutch
 ^licht (2)$	l ɪ x t	Dutch
-^licht (3)$	???	Dutch
+^licht (3)$	l ɪ x t	Dutch
 ^lied$	l iː t	Dutch
 ^liegen$	l iː ɣ ə	Dutch
 ^lijk$	l ɛi k	Dutch
@@ -702,16 +702,16 @@ Grapheme	IPA	Languages
 ^mand$	m ɑ n t	Dutch
 ^manier$	m aː n iː r	Dutch
 ^maniok$	m aː n iː j ɔ k	Dutch
-^maniokbrood$	???	Dutch
+^maniokbrood$	m aː n iː j ɔ k b r oː t	Dutch
 ^mannelijk$	m ɑ n ə l ə k	Dutch
 ^mannenhuis$	m ɑ n ə h œy s	Dutch
-^mannetjes-$	???	Dutch
+^mannetjes-$	m ɑ n ə t j ə s	Dutch
 ^mantel$	m ɑ n t ə l	Dutch
 ^markt$	m ɑ r k t	Dutch
 ^mast$	m ɑ s t	Dutch
 ^mat$	m ɑ t	Dutch
 ^matras$	m ɑ t r ɑ s	Dutch
-^maïs$	???	Dutch
+^maïs$	m ɑ j s	Dutch
 ^mede$	m eː d ə	Dutch
 ^medelijden$	m eː d ə l ɛi d ə	Dutch
 ^medicijn$	m eː d iː s ɛi n	Dutch
@@ -774,10 +774,10 @@ Grapheme	IPA	Languages
 ^naakt$	n aː k t	Dutch
 ^naald$	n aː l t	Dutch
 ^naam$	n aː m	Dutch
-^naar beneden$	???	Dutch
-^naar beneden gaan$	???	Dutch
-^naar boven gaan$	???	Dutch
-^naar huis gaan$	???	Dutch
+^naar beneden$	n aː r # b ə n eː d ə	Dutch
+^naar beneden gaan$	n aː r # b ə n eː d ə # x aː n	Dutch
+^naar boven gaan$	n aː r # b oː v ə # x aː n	Dutch
+^naar huis gaan$	n aː r # h œy s # x aː n	Dutch
 ^naast$	n aː s t	Dutch
 ^nacht$	n ɑ x t	Dutch
 ^naderen$	n aː d ə r ə	Dutch
@@ -799,7 +799,7 @@ Grapheme	IPA	Languages
 ^nemen$	n eː m ə	Dutch
 ^nest$	n ɛ s t	Dutch
 ^netel$	n eː t ə l	Dutch
-^nettas$	???	Dutch
+^nettas$	n ɛ t # t ɑ s	Dutch
 ^neus$	n øː s	Dutch
 ^neusvleugel$	n øː s f l øː ɣ ə l	Dutch
 ^nicht$	n ɪ x t	Dutch
@@ -872,7 +872,7 @@ Grapheme	IPA	Languages
 ^os$	ɔ s	Dutch
 ^oud$	ɑu t	Dutch
 ^ouders$	ɑu d ə r s	Dutch
-^outrigger$	???	Dutch
+^outrigger$	ɑu t r i ɣ ə r	Dutch
 ^oven$	oː v ə	Dutch
 ^overblijfels$	???	Dutch
 ^overmorgen$	oː v ə r m ɔ r ɣ ə	Dutch
@@ -882,7 +882,7 @@ Grapheme	IPA	Languages
 ^paar$	p aː r	Dutch
 ^paard$	p aː r t	Dutch
 ^pad$	p ɑ t	Dutch
-^paddenstoel$	???	Dutch
+^paddenstoel$	p ɑ d ə s t uː l	Dutch
 ^paling$	p aː l ɪ ŋ	Dutch
 ^palm (1)$	p ɑ l m	Dutch
 ^palm (2)$	p ɑ l m	Dutch
@@ -905,7 +905,7 @@ Grapheme	IPA	Languages
 ^pissen$	p ɪ s ə	Dutch
 ^plaats$	p l aː t s	Dutch
 ^plank$	p l ɑ ŋ k	Dutch
-^plant$	p l ɛ n t p l ɑ n t	Dutch
+^plant$	p l ɛ n t	Dutch
 ^planten$	p l ɑ n t ə	Dutch
 ^plassen$	p l ɑ s ə	Dutch
 ^plastic$	p l ɛ s t ɪ k	Dutch
@@ -933,7 +933,7 @@ Grapheme	IPA	Languages
 ^prostituee$	p r ɔ s t iː t yː ʋ eː	Dutch
 ^pus$	p ʏ s	Dutch
 ^raam$	r aː m	Dutch
-^raden$	r aː d ɛ n r aː d ə	Dutch
+^raden$	r aː d ɛ n	Dutch
 ^radio$	r aː d iː j oː	Dutch
 ^ram$	r ɑ m	Dutch
 ^rand$	r ɑ n t	Dutch
@@ -970,7 +970,7 @@ Grapheme	IPA	Languages
 ^rimpelig$	r ɪ m p ə l ə x	Dutch
 ^ring$	r ɪ ŋ	Dutch
 ^rivier$	r iː v iː r	Dutch
-^rode peper$	???	Dutch
+^rode peper$	r oː d ə # p eː p ə r	Dutch
 ^roeien$	r uː j ə	Dutch
 ^roer$	r uː r	Dutch
 ^roeren$	r uː r ə	Dutch
@@ -986,7 +986,7 @@ Grapheme	IPA	Languages
 ^rot$	r ɔ t	Dutch
 ^rots$	r ɔ t s	Dutch
 ^rug$	r ʏ x	Dutch
-^ruggengraat$	???	Dutch
+^ruggengraat$	r ʏ ɣ ə x r aː t	Dutch
 ^ruiken$	r œy k ə	Dutch
 ^ruilen$	r œy l ə	Dutch
 ^rund$	r ʏ n t	Dutch
@@ -1030,7 +1030,7 @@ Grapheme	IPA	Languages
 ^schoon$	s x oː n	Dutch
 ^schoonbroer$	s x oː m b r uː r	Dutch
 ^schoondochter$	s x oː n d ɔ x t ə r	Dutch
-^schoonkind$	???	Dutch
+^schoonkind$	s x oː n k ɪ n t	Dutch
 ^schoonmoeder$	s x oː n m uː d ə r	Dutch
 ^schoonouders$	s x oː n ɑu d ə r s	Dutch
 ^schoonvader$	s x oː n v aː d ə r	Dutch
@@ -1046,15 +1046,15 @@ Grapheme	IPA	Languages
 ^schreeuwen$	s x r eː ʋ ə	Dutch
 ^schrijven$	s x r ɛi v ə	Dutch
 ^schroef$	s x r uː f	Dutch
-^schroevendraaier$	???	Dutch
+^schroevendraaier$	s x r uː v ə d r aː j ə r	Dutch
 ^schub$	s x ʏ p	Dutch
 ^schudden$	s x ʏ d ə	Dutch
 ^schuim$	s x œy m	Dutch
 ^schuld$	s x ʏ l t	Dutch
 ^schuldig$	s x ʏ l d ə x	Dutch
-^schuldig zijn$	???	Dutch
+^schuldig zijn$	s x ʏ l d ə x # z ɛi n	Dutch
 ^seizoen$	s ɛi z uː n	Dutch
-^seks hebben$	???	Dutch
+^seks hebben$	s ɛ k s # h ɛ b ə	Dutch
 ^sieraad$	s iː r aː t	Dutch
 ^sigaret$	s iː ɣ aː r ɛ t	Dutch
 ^sintel$	s ɪ n t ə l	Dutch
@@ -1062,9 +1062,9 @@ Grapheme	IPA	Languages
 ^slaan$	s l aː n	Dutch
 ^slaap$	s l aː p	Dutch
 ^slak$	s l ɑ k	Dutch
-^slang$	s l ɛ ŋ s l ɑ ŋ	Dutch
+^slang$	s l ɛ ŋ	Dutch
 ^slapen$	s l aː p ə	Dutch
-^sle(d)e$	???	Dutch
+^sle(d)e$	s l eː d ə	Dutch
 ^slecht$	s l ɛ x t	Dutch
 ^sleutel$	s l øː t ə l	Dutch
 ^sleutelbeen$	s l øː t ə l b eː n	Dutch
@@ -1097,7 +1097,7 @@ Grapheme	IPA	Languages
 ^spelen$	s p eː l ə	Dutch
 ^spiegel$	s p iː ɣ ə l	Dutch
 ^spijker$	s p ɛi k ə r	Dutch
-^spijt hebben$	???	Dutch
+^spijt hebben$	s p ɛi t # h ɛ b ə	Dutch
 ^spin$	s p ɪ n	Dutch
 ^spindel$	s p ɪ n d ə l	Dutch
 ^spinnen$	s p ɪ n ə	Dutch
@@ -1166,7 +1166,7 @@ Grapheme	IPA	Languages
 ^tapijt$	t aː p ɛi t	Dutch
 ^tapir$	t aː p iː r	Dutch
 ^tarwe$	t ɑ r ʋ ə	Dutch
-^tatoeëring$	???	Dutch
+^tatoeëring$	t a t u eː r ɪ ŋ	Dutch
 ^te$	t ə	Dutch
 ^teek$	t eː k	Dutch
 ^teen$	t eː n	Dutch
@@ -1267,13 +1267,13 @@ Grapheme	IPA	Languages
 ^verdwijnen$	v ə r d ʋ ɛi n ə	Dutch
 ^vereren$	v ə r eː r ə	Dutch
 ^verf$	v ɛ r f	Dutch
-^vergaderhuis$	???	Dutch
+^vergaderhuis$	v ə r ɣ aː d ə r h œy s	Dutch
 ^vergeten$	v ə r ɣ eː t ə	Dutch
 ^vergeven$	v ə r ɣ eː v ə	Dutch
 ^verhinderen$	v ə r h ɪ n d ə r ə	Dutch
 ^verkeerd$	v ə r k eː r t	Dutch
 ^verkiezing$	v ə r k iː z ɪ ŋ	Dutch
-^verkopen$	v ə r k oː p ə v ɛ r k oː p ə	Dutch
+^verkopen$	v ɛ r k oː p ə	Dutch
 ^verkoudheid$	v ə r k ɑu t h ɛi t	Dutch
 ^verlangen$	v ə r l ɑ ŋ ə	Dutch
 ^verliezen$	v ə r l iː z ə	Dutch
@@ -1313,7 +1313,7 @@ Grapheme	IPA	Languages
 ^vishaak$	v ɪ s h aː k	Dutch
 ^vislijn$	v ɪ s l ɛi n	Dutch
 ^visnet$	v ɪ s n ɛ t	Dutch
-^vissengif$	???	Dutch
+^vissengif$	v ɪ s ə x ɪ f	Dutch
 ^visser$	v ɪ s ə r	Dutch
 ^vlak$	v l ɑ k	Dutch
 ^vlakte$	v l ɑ k t ə	Dutch
@@ -1335,7 +1335,7 @@ Grapheme	IPA	Languages
 ^voedsel$	v uː t s ə l	Dutch
 ^voelen$	v uː l ə	Dutch
 ^voet$	v uː t	Dutch
-^voetafdruk$	???	Dutch
+^voetafdruk$	v uː t ɑ v d r ʏ k	Dutch
 ^vogel$	v oː ɣ ə l	Dutch
 ^vol$	v ɔ l	Dutch
 ^volgen$	v ɔ l ɣ ə	Dutch
@@ -1362,7 +1362,7 @@ Grapheme	IPA	Languages
 ^vrouw (1)$	v r ɑu ʋ	Dutch
 ^vrouw (2)$	v r ɑu ʋ	Dutch
 ^vrouwelijk$	v r ɑu ʋ ə l ə k	Dutch
-^vrouwtjes-$	???	Dutch
+^vrouwtjes-$	v r ɑu ʋ t j ə s	Dutch
 ^vuil$	v œy l	Dutch
 ^vulva$	v ʏ l v aː	Dutch
 ^vuur$	v yː r	Dutch
@@ -1381,9 +1381,9 @@ Grapheme	IPA	Languages
 ^wassen$	ʋ ɑ s ə	Dutch
 ^wat$	ʋ ɑ t	Dutch
 ^water$	ʋ aː t ə r	Dutch
-^water putten$	???	Dutch
+^water putten$	ʋ aː t ə r # p ʏ t ə	Dutch
 ^waterval$	ʋ aː t ə r v ɑ l	Dutch
-^wc$	???	Dutch
+^wc$	ʋ eɪ s eɪ	Dutch
 ^web$	ʋ ɛ p	Dutch
 ^weduwe$	ʋ eː d yː ʋ ə	Dutch
 ^weduwnaar$	ʋ eː d yː ʋ n aː r	Dutch
@@ -1423,7 +1423,7 @@ Grapheme	IPA	Languages
 ^wijs (1)$	ʋ ɛi s	Dutch
 ^wijs (2)$	ʋ ɛi s	Dutch
 ^wikkelen$	ʋ ɪ k ə l ə	Dutch
-^wild zwijn$	???	Dutch
+^wild zwijn$	ʋ ɪ l t # z ʋ ɛi n	Dutch
 ^wind$	ʋ ɪ n t	Dutch
 ^wingerd$	ʋ ɪ ŋ ə r t	Dutch
 ^winkel$	ʋ ɪ ŋ k ə l	Dutch
@@ -1467,11 +1467,11 @@ Grapheme	IPA	Languages
 ^zeug$	z øː x	Dutch
 ^zeven (1)$	z eː v ə	Dutch
 ^zeven (2)$	z eː v ə	Dutch
-^zich haasten$	???	Dutch
-^zich herinneren$	???	Dutch
-^zich omdraaien$	???	Dutch
-^zich overgeven$	???	Dutch
-^zich terugtrekken$	???	Dutch
+^zich haasten$	z ɪ x # h aː s t ə	Dutch
+^zich herinneren$	z ɪ x # h ɛ r ɪ n ə r ə	Dutch
+^zich omdraaien$	z ɪ x # ɔ m d r aː j ə	Dutch
+^zich overgeven$	z ɪ x # oː v ə r ɣ eː v ə	Dutch
+^zich terugtrekken$	z ɪ x # t ə r ʏ x t r ɛ k ə	Dutch
 ^ziek$	z iː k	Dutch
 ^ziekenhuis$	z iː k ə h œy s	Dutch
 ^ziekte$	z iː k t ə	Dutch
@@ -1487,7 +1487,7 @@ Grapheme	IPA	Languages
 ^zitten$	z ɪ t ə	Dutch
 ^zoeken$	z uː k ə	Dutch
 ^zoet$	z uː t	Dutch
-^zoete aardappel$	???	Dutch
+^zoete aardappel$	z uː t ə # aː r d ɑ p ə l	Dutch
 ^zomer$	z oː m ə r	Dutch
 ^zon$	z ɔ n	Dutch
 ^zondag$	z ɔ n d ɑ x	Dutch
@@ -1498,14 +1498,14 @@ Grapheme	IPA	Languages
 ^zout (2)$	z ɑu t	Dutch
 ^zuiden$	z œy d ə	Dutch
 ^zuigen$	z œy ɣ ə	Dutch
-^zus(ter)$	???	Dutch
+^zus(ter)$	z ʏ s	Dutch
 ^zuur$	z yː r	Dutch
 ^zwaar$	z ʋ aː r	Dutch
 ^zwaard$	z ʋ aː r t	Dutch
 ^zwager$	z ʋ aː ɣ ə r	Dutch
 ^zwak$	z ʋ ɑ k	Dutch
 ^zwanger$	z ʋ ɑ ŋ ə r	Dutch
-^zwanger worden$	???	Dutch
+^zwanger worden$	z ʋ ɑ ŋ ə r # ʋ ɔ r d ə	Dutch
 ^zwart$	z ʋ ɑ r t	Dutch
 ^zwelling$	z ʋ ɛ l ɪ ŋ	Dutch
 ^zwemmen$	z ʋ ɛ m ə	Dutch

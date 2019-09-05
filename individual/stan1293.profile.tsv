@@ -1,10 +1,10 @@
 Grapheme	IPA	Languages
-^(be) silent$	???	English
-^(finger)nail$	???	English
-^(good) luck$	???	English
-^(sea)gull$	???	English
-^(sting)ray$	???	English
-^(tree-)stump$	???	English
+^(be) silent$	s aɪ l ə n t	English
+^(finger)nail$	n eɪ l	English
+^(good) luck$	l ʌ k	English
+^(sea)gull$	ɡ ʌ l	English
+^(sting)ray$	r eɪ	English
+^(tree-)stump$	s t ʌ m p	English
 ^Friday$	f r aɪ d ɪ	English
 ^I$	aɪ	English
 ^Monday$	m ʌ n d ɪ	English
@@ -84,7 +84,7 @@ Grapheme	IPA	Languages
 ^bamboo$	b æ m b uː	English
 ^banana$	b ə n ɑː n ə	English
 ^bank$	b æ ŋ k	English
-^banyan$	???	English
+^banyan$	b æ n ɪə n	English
 ^bark$	b ɑː k	English
 ^barley$	b ɑː l ɪ	English
 ^barter$	b ɑː t ə ɹ	English
@@ -96,7 +96,7 @@ Grapheme	IPA	Languages
 ^battle-axe$	b æ t l̩ æ k s	English
 ^bay$	b eɪ	English
 ^be$	b iː	English
-^be born$	???	English
+^be born$	b iː # b ɔː n	English
 ^bead$	b iː d	English
 ^beak$	b iː k	English
 ^beam$	b iː m	English
@@ -132,7 +132,7 @@ Grapheme	IPA	Languages
 ^bind$	b aɪ n d	English
 ^birch$	b ɜː tʃ	English
 ^bird$	b ɜː d	English
-^birth certificate$	???	English
+^birth certificate$	b ɜː θ # s ə t ɪ f ɪ k ə t	English
 ^bite$	b aɪ t	English
 ^bitter$	b ɪ t ə ɹ	English
 ^black$	b l æ k	English
@@ -165,7 +165,7 @@ Grapheme	IPA	Languages
 ^bottle$	b ɒ t l̩	English
 ^bottom$	b ɒ t ə m	English
 ^boundary$	b aʊ n d ə r ɪ	English
-^bow$	b aʊ b əʊ	English
+^bow$	b əʊ	English
 ^bowl$	b əʊ l	English
 ^boy$	b ɔɪ	English
 ^bracelet$	b r eɪ s l ɪ t	English
@@ -246,7 +246,7 @@ Grapheme	IPA	Languages
 ^chicken$	tʃ ɪ k ɪ n	English
 ^chieftain$	tʃ iː f t ə n	English
 ^child$	tʃ aɪ l d	English
-^chili (pepper)$	???	English
+^chili (pepper)$	tʃ ɪ l ɪ	English
 ^chimney$	tʃ ɪ m n ɪ	English
 ^chin$	tʃ ɪ n	English
 ^chisel$	tʃ ɪ z l̩	English
@@ -270,7 +270,7 @@ Grapheme	IPA	Languages
 ^climb$	k l aɪ m	English
 ^cloak$	k l əʊ k	English
 ^clock$	k l ɒ k	English
-^close$	k l əʊ z k l əʊ s	English
+^close$	k l əʊ z	English
 ^cloth$	k l ɒ θ	English
 ^clothes$	k l əʊ ð z	English
 ^cloud$	k l aʊ d	English
@@ -284,7 +284,7 @@ Grapheme	IPA	Languages
 ^cold$	k əʊ l d	English
 ^collar$	k ɒ l ə ɹ	English
 ^collarbone$	k ɒ l ə b əʊ n	English
-^collect$	k ɒ l ɛ k t k ə l ɛ k t	English
+^collect$	k ə l ɛ k t	English
 ^colour$	k ʌ l ə ɹ	English
 ^colt$	k əʊ l t	English
 ^comb$	k əʊ m	English
@@ -294,7 +294,7 @@ Grapheme	IPA	Languages
 ^conceive$	k ə n s iː v	English
 ^condemn$	k ə n d ɛ m	English
 ^cone$	k əʊ n	English
-^convict$	k ɒ n v ɪ k t k ə n v ɪ k t	English
+^convict$	k ə n v ɪ k t	English
 ^cook$	k ʊ k	English
 ^cooked$	k ʊ k t	English
 ^copper$	k ɒ p ə ɹ	English
@@ -315,7 +315,7 @@ Grapheme	IPA	Languages
 ^crawl$	k r ɔː l	English
 ^crime$	k r aɪ m	English
 ^crocodile$	k r ɒ k ə d aɪ l	English
-^crooked$	k r ʊ k ɪ d k r ʊ k t	English
+^crooked$	k r ʊ k ɪ d	English
 ^cross$	k r ɒ s	English
 ^crouch$	k r aʊ tʃ	English
 ^crow$	k r əʊ	English
@@ -324,7 +324,7 @@ Grapheme	IPA	Languages
 ^cry$	k r aɪ	English
 ^cultivate$	k ʌ l t ɪ v eɪ t	English
 ^cup$	k ʌ p	English
-^cure$	k j ʊə ɹ k j ʊə r eɪ	English
+^cure$	k j ʊə ɹ	English
 ^curse$	k ɜː s	English
 ^custom$	k ʌ s t ə m	English
 ^cut$	k ʌ t	English
@@ -367,16 +367,16 @@ Grapheme	IPA	Languages
 ^dive$	d aɪ v	English
 ^divide$	d ɪ v aɪ d	English
 ^divorce$	d ɪ v ɔː s	English
-^do$	d uː d əʊ	English
+^do$	d əʊ	English
 ^doctor$	d ɒ k t ə ɹ	English
 ^dog$	d ɒ ɡ	English
 ^dolphin$	d ɒ l f ɪ n	English
 ^donkey$	d ɒ ŋ k ɪ	English
 ^door$	d ɔː ɹ	English
-^doorpost$	???	English
+^doorpost$	d ɔː ɹ p əʊ s t	English
 ^doubt$	d aʊ t	English
 ^dough$	d əʊ	English
-^dove$	d ʌ v d əʊ v	English
+^dove$	d əʊ v	English
 ^down$	d aʊ n	English
 ^dream$	d r iː m	English
 ^dress$	d r ɛ s	English
@@ -384,7 +384,7 @@ Grapheme	IPA	Languages
 ^drink$	d r ɪ ŋ k	English
 ^drip$	d r ɪ p	English
 ^drive$	d r aɪ v	English
-^driving licence$	???	English
+^driving licence$	d r aɪ v ɪ ŋ # l aɪ s ə n s	English
 ^drop$	d r ɒ p	English
 ^drown$	d r aʊ n	English
 ^drum$	d r ʌ m	English
@@ -476,9 +476,9 @@ Grapheme	IPA	Languages
 ^first$	f ɜː s t	English
 ^fish$	f ɪ ʃ	English
 ^fisherman$	f ɪ ʃ ə m ə n	English
-^fishhook$	???	English
-^fishing line$	???	English
-^fishing net$	???	English
+^fishhook$	f ɪ ʃ h ʊ k	English
+^fishing line$	f ɪ ʃ ɪ ŋ # l aɪ n	English
+^fishing net$	f ɪ ʃ ɪ ŋ # n ɛ t	English
 ^five$	f aɪ v	English
 ^flame$	f l eɪ m	English
 ^flat$	f l æ t	English
@@ -526,7 +526,7 @@ Grapheme	IPA	Languages
 ^gather$	ɡ æ ð ə ɹ	English
 ^get$	ɡ ɛ t	English
 ^ghost$	ɡ əʊ s t	English
-^gill$	ɡ ɪ l dʒ ɪ l	English
+^gill$	dʒ ɪ l	English
 ^girl$	ɡ ɜː l	English
 ^give$	ɡ ɪ v	English
 ^give back$	ɡ ɪ v b æ k	English
@@ -559,10 +559,10 @@ Grapheme	IPA	Languages
 ^grape$	ɡ r eɪ p	English
 ^grasp$	ɡ r ɑː s p	English
 ^grass$	ɡ r ɑː s	English
-^grass-skirt$	???	English
+^grass-skirt$	ɡ r ɑː s # s k ɜː t	English
 ^grasshopper$	ɡ r ɑː s h ɒ p ə ɹ	English
-^grave$	ɡ r ɑː v ɡ r eɪ v	English
-^grease$	ɡ r iː s ɡ r iː z	English
+^grave$	ɡ r ɑː v	English
+^grease$	ɡ r iː s	English
 ^greedy$	ɡ r iː d ɪ	English
 ^green$	ɡ r iː n	English
 ^grief$	ɡ r iː f	English
@@ -584,7 +584,7 @@ Grapheme	IPA	Languages
 ^hand$	h æ n d	English
 ^handkerchief$	h æ ŋ k ə tʃ ɪ f	English
 ^hang$	h æ ŋ	English
-^hankie$	???	English
+^hankie$	h æ ŋ k ɪ	English
 ^happy$	h æ p ɪ	English
 ^hard$	h ɑː d	English
 ^hare$	h ɛə ɹ	English
@@ -612,7 +612,7 @@ Grapheme	IPA	Languages
 ^herdsman$	h ɜː d z m ə n	English
 ^here$	h ɪə ɹ	English
 ^heron$	h ɛ r ə n	English
-^hiccough$	???	English
+^hiccough$	h ɪ k ʌ p	English
 ^hide$	h aɪ d	English
 ^high$	h aɪ	English
 ^high tide$	h aɪ t aɪ d	English
@@ -636,10 +636,10 @@ Grapheme	IPA	Languages
 ^host$	h əʊ s t	English
 ^hot$	h ɒ t	English
 ^hour$	aʊ ə ɹ	English
-^house$	h aʊ s h aʊ z	English
-^how many?$	???	English
-^how much?$	???	English
-^how?$	???	English
+^house$	h aʊ s	English
+^how many?$	h aʊ # m ɛ n ɪ	English
+^how much?$	h aʊ # m ʌ tʃ	English
+^how?$	h aʊ	English
 ^howl$	h aʊ l	English
 ^hug$	h ʌ ɡ	English
 ^hundred$	h ʌ n d r ə d	English
@@ -657,7 +657,7 @@ Grapheme	IPA	Languages
 ^imitate$	ɪ m ɪ t eɪ t	English
 ^immediately$	ɪ m iː d j ə t l ɪ	English
 ^in$	ɪ n	English
-^in front of$	???	English
+^in front of$	ɪ n # f r ʌ n t # ɒ v	English
 ^injection$	ɪ n dʒ ɛ k ʃ n̩	English
 ^injure$	ɪ n dʒ ə ɹ	English
 ^innocent$	ɪ n ə s n̩ t	English
@@ -676,7 +676,7 @@ Grapheme	IPA	Languages
 ^jewel$	dʒ uː ə l	English
 ^join$	dʒ ɔɪ n	English
 ^judge$	dʒ ʌ dʒ	English
-^judgment$	???	English
+^judgment$	dʒ ʌ dʒ m ə n t	English
 ^jug$	dʒ ʌ ɡ	English
 ^jump$	dʒ ʌ m p	English
 ^kangaroo$	k æ ŋ ɡ ə r uː	English
@@ -700,7 +700,7 @@ Grapheme	IPA	Languages
 ^lagoon$	l ə ɡ uː n	English
 ^lake$	l eɪ k	English
 ^lamb$	l æ m	English
-^lame$	l ɑː m eɪ l eɪ m	English
+^lame$	l ɑː m eɪ	English
 ^lamp$	l æ m p	English
 ^land$	l æ n d	English
 ^language$	l æ ŋ ɡ w ɪ dʒ	English
@@ -713,7 +713,7 @@ Grapheme	IPA	Languages
 ^laugh$	l ɑː f	English
 ^law$	l ɔː	English
 ^lazy$	l eɪ z ɪ	English
-^lead$	l ɛ d l iː d	English
+^lead$	l iː d	English
 ^leaf$	l iː f	English
 ^learn$	l ɜː n	English
 ^leather$	l ɛ ð ə ɹ	English
@@ -722,7 +722,7 @@ Grapheme	IPA	Languages
 ^leg$	l ɛ ɡ	English
 ^lemon$	l ɛ m ə n	English
 ^lend$	l ɛ n d	English
-^let go$	???	English
+^let go$	l ɛ t # ɡ əʊ	English
 ^letter$	l ɛ t ə ɹ	English
 ^liberate$	l ɪ b ə r eɪ t	English
 ^lick$	l ɪ k	English
@@ -732,7 +732,7 @@ Grapheme	IPA	Languages
 ^lift$	l ɪ f t	English
 ^light$	l aɪ t	English
 ^lightning$	l aɪ t n ɪ ŋ	English
-^lightning bolt$	???	English
+^lightning bolt$	l aɪ t n ɪ ŋ # b əʊ l t	English
 ^limp$	l ɪ m p	English
 ^line$	l aɪ n	English
 ^linen$	l ɪ n ɪ n	English
@@ -740,7 +740,7 @@ Grapheme	IPA	Languages
 ^lip$	l ɪ p	English
 ^listen$	l ɪ s n̩	English
 ^little$	l ɪ t l̩	English
-^live$	l aɪ v l ɪ v	English
+^live$	l aɪ v	English
 ^liver$	l ɪ v ə ɹ	English
 ^livestock$	l aɪ v s t ɒ k	English
 ^lizard$	l ɪ z ə d	English
@@ -763,13 +763,13 @@ Grapheme	IPA	Languages
 ^mainland$	m eɪ n l ə n d	English
 ^maize$	m eɪ z	English
 ^make$	m eɪ k	English
-^make love$	???	English
+^make love$	m eɪ k # l ʌ v	English
 ^male$	m eɪ l	English
 ^man$	m æ n	English
 ^manioc$	m æ n ɪ ɒ k	English
 ^manner$	m æ n ə ɹ	English
 ^many$	m ɛ n ɪ	English
-^mare$	m ɛə ɹ m ɑː r eɪ	English
+^mare$	m ɑː r eɪ	English
 ^market$	m ɑː k ɪ t	English
 ^marry$	m æ r ɪ	English
 ^mason$	m eɪ s n̩	English
@@ -798,7 +798,7 @@ Grapheme	IPA	Languages
 ^miss$	m ɪ s	English
 ^mistake$	m ɪ s t eɪ k	English
 ^mix$	m ɪ k s	English
-^molar (tooth)$	???	English
+^molar (tooth)$	m əʊ l ə ɹ	English
 ^money$	m ʌ n ɪ	English
 ^monkey$	m ʌ ŋ k ɪ	English
 ^month$	m ʌ n θ	English
@@ -815,8 +815,8 @@ Grapheme	IPA	Languages
 ^motorcycle$	m əʊ t ə s aɪ k l̩	English
 ^mould$	m əʊ l d	English
 ^mountain$	m aʊ n t ɪ n	English
-^mouse$	m aʊ s m aʊ z	English
-^mouth$	m aʊ ð m aʊ θ	English
+^mouse$	m aʊ z	English
+^mouth$	m aʊ ð	English
 ^move$	m uː v	English
 ^mow$	m əʊ	English
 ^mud$	m ʌ d	English
@@ -841,7 +841,7 @@ Grapheme	IPA	Languages
 ^neighbour$	n eɪ b ə ɹ	English
 ^nephew$	n ɛ v j uː	English
 ^nest$	n ɛ s t	English
-^netbag$	???	English
+^netbag$	n ɛ t b æ ɡ	English
 ^nettle$	n ɛ t l̩	English
 ^never$	n ɛ v ə ɹ	English
 ^new$	n j uː	English
@@ -863,7 +863,7 @@ Grapheme	IPA	Languages
 ^nothing$	n ʌ θ ɪ ŋ	English
 ^now$	n aʊ	English
 ^number$	n ʌ m b ə ɹ	English
-^number plate$	???	English
+^number plate$	n ʌ m b ə ɹ # p l eɪ t	English
 ^nurse$	n ɜː s	English
 ^nut$	n ʌ t	English
 ^oak$	əʊ k	English
@@ -888,7 +888,7 @@ Grapheme	IPA	Languages
 ^or$	ɔː ɹ	English
 ^orange$	ɒ r ɪ n dʒ	English
 ^order$	ɔː d ə ɹ	English
-^ornament$	ɔː n ə m ə n t ɔː n ə m ɛ n t	English
+^ornament$	ɔː n ə m ɛ n t	English
 ^orphan$	ɔː f n̩	English
 ^other$	ʌ ð ə ɹ	English
 ^outrigger$	aʊ t r ɪ ɡ ə ɹ	English
@@ -924,7 +924,7 @@ Grapheme	IPA	Languages
 ^perjury$	p ɜː dʒ ə r ɪ	English
 ^person$	p ɜː s n̩	English
 ^pestle$	p ɛ s l̩	English
-^petrol(eum)$	???	English
+^petrol(eum)$	p ɛ t r ə l	English
 ^pick up$	p ɪ k ʌ p	English
 ^piece$	p iː s	English
 ^pig$	p ɪ ɡ	English
@@ -982,7 +982,7 @@ Grapheme	IPA	Languages
 ^promise$	p r ɒ m ɪ s	English
 ^prostitute$	p r ɒ s t ɪ t j uː t	English
 ^proud$	p r aʊ d	English
-^pubic hair$	???	English
+^pubic hair$	p j uː b ɪ k # h ɛə ɹ	English
 ^puke$	p j uː k	English
 ^pull$	p ʊ l	English
 ^pumpkin$	p ʌ m p k ɪ n	English
@@ -1014,11 +1014,11 @@ Grapheme	IPA	Languages
 ^rattle$	r æ t l̩	English
 ^raw$	r ɔː	English
 ^razor$	r eɪ z ə ɹ	English
-^read$	r ɛ d r iː d	English
+^read$	r ɛ d	English
 ^ready$	r ɛ d ɪ	English
 ^red$	r ɛ d	English
 ^reef$	r iː f	English
-^refuse$	r ɪ f j uː z r ɛ f j uː s	English
+^refuse$	r ɛ f j uː s	English
 ^regret$	r ɪ ɡ r ɛ t	English
 ^reindeer$	r eɪ n d ɪə ɹ	English
 ^relative$	r ɛ l ə t ɪ v	English
@@ -1042,7 +1042,7 @@ Grapheme	IPA	Languages
 ^rise$	r aɪ z	English
 ^river$	r ɪ v ə ɹ	English
 ^road$	r əʊ d	English
-^roast$	r əʊ s t r ɔː s t	English
+^roast$	r əʊ s t	English
 ^rock$	r ɒ k	English
 ^roll$	r əʊ l	English
 ^roof$	r uː f	English
@@ -1053,7 +1053,7 @@ Grapheme	IPA	Languages
 ^rotten$	r ɒ t n̩	English
 ^rough$	r ʌ f	English
 ^round$	r aʊ n d	English
-^row$	r aʊ r əʊ	English
+^row$	r əʊ	English
 ^rub$	r ʌ b	English
 ^rudder$	r ʌ d ə ɹ	English
 ^rug$	r ʌ ɡ	English
@@ -1086,7 +1086,7 @@ Grapheme	IPA	Languages
 ^scythe$	s aɪ ð	English
 ^sea$	s iː	English
 ^season$	s iː z n̩	English
-^second$	s ɪ k ɒ n d s ɛ k ə n d	English
+^second$	s ɪ k ɒ n d	English
 ^secret$	s iː k r ɪ t	English
 ^see$	s iː	English
 ^seed$	s iː d	English
@@ -1094,7 +1094,7 @@ Grapheme	IPA	Languages
 ^seem$	s iː m	English
 ^sell$	s ɛ l	English
 ^send$	s ɛ n d	English
-^separate$	s ɛ p ə r eɪ t s ɛ p r ə t	English
+^separate$	s ɛ p r ə t	English
 ^servant$	s ɜː v ə n t	English
 ^seven$	s ɛ v n̩	English
 ^sew$	s əʊ	English
@@ -1125,7 +1125,7 @@ Grapheme	IPA	Languages
 ^shore$	ʃ ɔː ɹ	English
 ^short$	ʃ ɔː t	English
 ^shoulder$	ʃ əʊ l d ə ɹ	English
-^shoulderblade$	???	English
+^shoulderblade$	ʃ əʊ l d ə ɹ b l eɪ d	English
 ^shout$	ʃ aʊ t	English
 ^shovel$	ʃ ʌ v l̩	English
 ^show$	ʃ əʊ	English
@@ -1190,7 +1190,7 @@ Grapheme	IPA	Languages
 ^soup$	s uː p	English
 ^sour$	s aʊ ə ɹ	English
 ^south$	s aʊ θ	English
-^sow$	s aʊ s əʊ	English
+^sow$	s əʊ	English
 ^spade$	s p eɪ d	English
 ^speak$	s p iː k	English
 ^spear$	s p ɪə ɹ	English
@@ -1251,14 +1251,14 @@ Grapheme	IPA	Languages
 ^stutter$	s t ʌ t ə ɹ	English
 ^suck$	s ʌ k	English
 ^sugar$	ʃ ʊ ɡ ə ɹ	English
-^sugar cane$	???	English
+^sugar cane$	ʃ ʊ ɡ ə ɹ # k eɪ n	English
 ^summer$	s ʌ m ə ɹ	English
 ^sun$	s ʌ n	English
 ^supper$	s ʌ p ə ɹ	English
 ^sure$	ʃ ɔː ɹ	English
 ^surprised$	s ə p r aɪ z d	English
 ^surrender$	s ə r ɛ n d ə ɹ	English
-^suspect$	s ʌ s p ɛ k t s ə s p ɛ k t	English
+^suspect$	s ʌ s p ɛ k t	English
 ^swallow$	s w ɒ l əʊ	English
 ^swamp$	s w ɒ m p	English
 ^swear$	s w ɛə ɹ	English
@@ -1277,7 +1277,7 @@ Grapheme	IPA	Languages
 ^take$	t eɪ k	English
 ^talk$	t ɔː k	English
 ^tall$	t ɔː l	English
-^tan$	t æ n t æ n dʒ ə n t	English
+^tan$	t æ n dʒ ə n t	English
 ^tap$	t æ p	English
 ^tapir$	t eɪ p ə ɹ	English
 ^taste$	t eɪ s t	English
@@ -1286,13 +1286,13 @@ Grapheme	IPA	Languages
 ^tea$	t iː	English
 ^teach$	t iː tʃ	English
 ^teacher$	t iː tʃ ə ɹ	English
-^tear$	t ɪə ɹ t ɛə ɹ	English
+^tear$	t ɛə ɹ	English
 ^teat$	t iː t	English
 ^telephone$	t ɛ l ɪ f əʊ n	English
 ^television$	t ɛ l ɪ v ɪ ʒ n̩	English
 ^tell$	t ɛ l	English
 ^temple$	t ɛ m p l̩	English
-^temple(s)$	???	English
+^temple(s)$	t ɛ m p l̩	English
 ^ten$	t ɛ n	English
 ^tendon$	t ɛ n d ə n	English
 ^tent$	t ɛ n t	English
@@ -1328,7 +1328,7 @@ Grapheme	IPA	Languages
 ^time$	t aɪ m	English
 ^tin$	t ɪ n	English
 ^tired$	t aɪ ə d	English
-^to last$	???	English
+^to last$	t uː # l ɑː s t	English
 ^tobacco$	t ə b æ k əʊ	English
 ^today$	t ə d eɪ	English
 ^toe$	t əʊ	English
@@ -1349,14 +1349,14 @@ Grapheme	IPA	Languages
 ^train$	t r eɪ n	English
 ^trap$	t r æ p	English
 ^tree$	t r iː	English
-^tree trunk$	???	English
+^tree trunk$	t r iː # t r ʌ ŋ k	English
 ^trough$	t r ɒ f	English
 ^trousers$	t r aʊ z ə z	English
 ^true$	t r uː	English
 ^trumpet$	t r ʌ m p ɪ t	English
 ^try$	t r aɪ	English
 ^turn$	t ɜː n	English
-^turn around$	???	English
+^turn around$	t ɜː n # ə r aʊ n d	English
 ^turtle$	t ɜː t l̩	English
 ^twelve$	t w ɛ l v	English
 ^twenty$	t w ɛ n t ɪ	English
@@ -1369,8 +1369,8 @@ Grapheme	IPA	Languages
 ^uncle$	ʌ ŋ k l̩	English
 ^under$	ʌ n d ə ɹ	English
 ^understand$	ʌ n d ə s t æ n d	English
-^unripe$	???	English
-^untie$	???	English
+^unripe$	ʌ n r aɪ p	English
+^untie$	ʌ n t aɪ	English
 ^up$	ʌ p	English
 ^urinate$	j ʊə r ɪ n eɪ t	English
 ^vagina$	v ə dʒ aɪ n ə	English
@@ -1388,7 +1388,7 @@ Grapheme	IPA	Languages
 ^wages$	w eɪ dʒ ɪ z	English
 ^wagon$	w æ ɡ ə n	English
 ^waist$	w eɪ s t	English
-^wake (up)$	???	English
+^wake (up)$	w eɪ k	English
 ^walk$	w ɔː k	English
 ^wall$	w ɔː l	English
 ^want$	w ɒ n t	English
@@ -1415,24 +1415,24 @@ Grapheme	IPA	Languages
 ^west$	w ɛ s t	English
 ^wet$	w ɛ t	English
 ^whale$	w eɪ l	English
-^what?$	???	English
+^what?$	w ɒ t	English
 ^wheat$	w iː t	English
 ^wheel$	w iː l	English
-^when?$	???	English
-^where?$	???	English
+^when?$	w ɛ n	English
+^where?$	w ɛə ɹ	English
 ^whetstone$	w ɛ t s t əʊ n	English
-^which?$	???	English
+^which?$	w ɪ tʃ	English
 ^whirlpool$	w ɜː l p uː l	English
 ^whisper$	w ɪ s p ə ɹ	English
 ^whistle$	w ɪ s l̩	English
 ^white$	w aɪ t	English
-^who?$	???	English
-^why?$	???	English
+^who?$	h uː	English
+^why?$	w aɪ	English
 ^wide$	w aɪ d	English
 ^widow$	w ɪ d əʊ	English
 ^widower$	w ɪ d əʊ ə ɹ	English
 ^wife$	w aɪ f	English
-^wind$	w aɪ n d w ɪ n d	English
+^wind$	w ɪ n d	English
 ^window$	w ɪ n d əʊ	English
 ^wine$	w aɪ n	English
 ^wing$	w ɪ ŋ	English
@@ -1447,7 +1447,7 @@ Grapheme	IPA	Languages
 ^woman$	w ʊ m ə n	English
 ^womb$	w uː m	English
 ^wood$	w ʊ d	English
-^wood(s)$	???	English
+^wood(s)$	w ʊ d	English
 ^wool$	w ʊ l	English
 ^word$	w ɜː d	English
 ^work$	w ɜː k	English
@@ -1456,7 +1456,7 @@ Grapheme	IPA	Languages
 ^worm$	w ɜː m	English
 ^worry$	w ʌ r ɪ	English
 ^worship$	w ɜː ʃ ɪ p	English
-^wound$	w uː n d w aʊ n d	English
+^wound$	w uː n d	English
 ^wrap$	r æ p	English
 ^wrinkled$	r ɪ ŋ k l̩ d	English
 ^wrist$	r ɪ s t	English
